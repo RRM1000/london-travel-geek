@@ -413,6 +413,7 @@ const showContents = contentsHeadings.length >= 4;
   }
 
   .article__body {
+    min-width: 0;
     font-size: 1.08rem;
   }
 
@@ -748,7 +749,7 @@ const showContents = contentsHeadings.length >= 4;
 
   @media (max-width: 52rem) {
     .article__grid {
-      grid-template-columns: 1fr;
+      grid-template-columns: minmax(0, 1fr);
     }
 
     .article__sidebar {
