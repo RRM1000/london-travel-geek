@@ -1,0 +1,13 @@
+node_modules/
+.npm-cache/
+dist/
+.astro/
+.vercel/
+.env
+.DS_Store
+*.log
+work/
+.agents/
+.codex/
+outputs/
+.publish-staging/

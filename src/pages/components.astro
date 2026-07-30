@@ -1,0 +1,94 @@
+---
+import Advert from "../components/Advert.astro";
+import ArticleCard from "../components/ArticleCard.astro";
+import CommentSnippet from "../components/CommentSnippet.astro";
+import NewsletterBox from "../components/NewsletterBox.astro";
+import SectionHeading from "../components/SectionHeading.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Component library"
+  description="Content-free preview of the reusable blog components."
+  noindex
+>
+  <section class="component-hero">
+    <div class="container">
+      <p class="eyebrow">Internal reference</p>
+      <h1>Component library</h1>
+      <p>Preview the reusable building blocks before connecting real content or services.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container showcase">
+      <section>
+        <SectionHeading title="Article cards" description="Empty collection state." />
+        <div class="grid grid--3">
+          <ArticleCard empty />
+          <ArticleCard empty />
+          <ArticleCard empty />
+        </div>
+      </section>
+
+      <section>
+        <SectionHeading title="Advert placements" description="Responsive placeholders only." />
+        <div class="ad-grid">
+          <Advert />
+          <Advert format="rectangle" />
+        </div>
+      </section>
+
+      <section>
+        <SectionHeading title="Comment highlight" description="Provider-neutral display component." />
+        <CommentSnippet />
+      </section>
+
+      <section>
+        <SectionHeading title="Newsletter" description="Disabled until an email provider is selected." />
+        <NewsletterBox />
+      </section>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .component-hero {
+    padding-block: var(--space-7);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .component-hero .container {
+    display: grid;
+    max-width: var(--page-width);
+    gap: 1rem;
+  }
+
+  .component-hero h1 {
+    font-size: clamp(2.8rem, 7vw, 5.5rem);
+  }
+
+  .component-hero p:last-child {
+    max-width: 40rem;
+    color: var(--muted);
+    font-size: 1.15rem;
+  }
+
+  .showcase {
+    display: grid;
+    gap: var(--space-7);
+  }
+
+  .ad-grid {
+    display: grid;
+    grid-template-columns: 1.4fr 0.6fr;
+    align-items: start;
+    gap: var(--space-4);
+  }
+
+  @media (max-width: 42rem) {
+    .ad-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

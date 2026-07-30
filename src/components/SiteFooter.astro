@@ -1,0 +1,85 @@
+---
+import type { SiteConfig } from "../sites";
+import SiteLogo from "./SiteLogo.astro";
+
+interface Props {
+  site: SiteConfig;
+}
+
+const { site } = Astro.props;
+---
+
+<footer class="footer">
+  <div class="container footer__grid">
+    <div class="footer__brand">
+      <SiteLogo site={site} />
+      <p>{site.description}</p>
+    </div>
+    <nav aria-label="Footer">
+      <ul>
+        {site.footerNavigation.map((item) => (
+          <li><a href={item.href}>{item.label}</a></li>
+        ))}
+      </ul>
+    </nav>
+    <p class="footer__note">
+      Independent guides · Details are checked regularly, but always confirm
+      live travel information before setting out.
+    </p>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    padding-block: var(--space-6);
+    border-top: 1px solid var(--line);
+    background: var(--ink);
+    color: var(--bg);
+    box-shadow: inset 0 0.3rem 0 var(--accent);
+  }
+
+  .footer__grid {
+    display: grid;
+    grid-template-columns: 1.4fr 0.7fr 1fr;
+    align-items: start;
+    gap: var(--space-5);
+  }
+
+  .footer__brand {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .footer__brand p,
+  .footer__note {
+    max-width: 26rem;
+    color: color-mix(in srgb, var(--bg) 72%, transparent);
+    font-size: 0.88rem;
+  }
+
+  nav ul {
+    display: grid;
+    gap: 0.55rem;
+  }
+
+  nav a {
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .footer__note {
+    justify-self: end;
+    text-align: right;
+  }
+
+  @media (max-width: 42rem) {
+    .footer__grid {
+      grid-template-columns: 1fr;
+    }
+
+    .footer__note {
+      justify-self: start;
+      text-align: left;
+    }
+  }
+</style>

@@ -1,0 +1,145 @@
+---
+import { activeSite } from "../sites";
+import SiteFooter from "../components/SiteFooter.astro";
+import SiteHeader from "../components/SiteHeader.astro";
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+  noindex?: boolean;
+  contentType?: "website" | "article";
+  socialImage?: string;
+  socialImageAlt?: string;
+  publishedAt?: Date;
+  updatedAt?: Date;
+}
+
+const {
+  title = activeSite.name,
+  description = activeSite.description,
+  noindex = false,
+  contentType = "website",
+  socialImage = "/social-card.png",
+  socialImageAlt = "London Travel Geek — practical London travel guides",
+  publishedAt,
+  updatedAt,
+} = Astro.props;
+
+const pageTitle =
+  title === activeSite.name ? title : `${title} | ${activeSite.name}`;
+const siteOrigin = Astro.site ?? new URL(Astro.url.origin);
+const canonicalUrl = new URL(Astro.url.pathname, siteOrigin);
+const socialImageUrl = new URL(socialImage, siteOrigin);
+const indexingEnabled = import.meta.env.PUBLIC_ALLOW_INDEXING === "true";
+const googleVerification =
+  import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
+const shouldNoindex = noindex || !indexingEnabled;
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": contentType === "article" ? "BlogPosting" : "WebSite",
+  name: contentType === "website" ? activeSite.name : undefined,
+  headline: contentType === "article" ? title : undefined,
+  description,
+  url: canonicalUrl.toString(),
+  mainEntityOfPage:
+    contentType === "article"
+      ? {
+          "@type": "WebPage",
+          "@id": canonicalUrl.toString(),
+        }
+      : undefined,
+  image: socialImageUrl.toString(),
+  datePublished: publishedAt?.toISOString(),
+  dateModified: (updatedAt ?? publishedAt)?.toISOString(),
+  inLanguage: "en-GB",
+  publisher: {
+    "@type": "Organization",
+    name: activeSite.name,
+    url: new URL("/", siteOrigin).toString(),
+    logo: {
+      "@type": "ImageObject",
+      url: new URL("/favicon.svg", siteOrigin).toString(),
+    },
+  },
+};
+const jsonLd = JSON.stringify(structuredData).replace(/</g, "\\u003c");
+---
+
+<!doctype html>
+<html lang="en-GB" data-theme={activeSite.theme}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#132a38" />
+    {googleVerification && (
+      <meta name="google-site-verification" content={googleVerification} />
+    )}
+    {shouldNoindex ? (
+      <>
+        <meta name="robots" content="noindex, nofollow, noarchive" />
+        <meta name="googlebot" content="noindex, nofollow, noarchive" />
+      </>
+    ) : (
+      <meta name="robots" content="index, follow, max-image-preview:large" />
+    )}
+    <link rel="canonical" href={canonicalUrl} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+
+    <meta property="og:type" content={contentType} />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="og:site_name" content={activeSite.name} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:image" content={socialImageUrl} />
+    <meta property="og:image:alt" content={socialImageAlt} />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={socialImageUrl} />
+    <meta name="twitter:image:alt" content={socialImageAlt} />
+
+    {publishedAt && (
+      <meta property="article:published_time" content={publishedAt.toISOString()} />
+    )}
+    {updatedAt && (
+      <meta property="article:modified_time" content={updatedAt.toISOString()} />
+    )}
+
+    <title>{pageTitle}</title>
+    <script type="application/ld+json" set:html={jsonLd} is:inline></script>
+  </head>
+  <body data-site={activeSite.id}>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <SiteHeader site={activeSite} />
+    <main id="main-content">
+      <slot />
+    </main>
+    <SiteFooter site={activeSite} />
+  </body>
+</html>
+
+<style is:global>
+  .skip-link {
+    position: fixed;
+    z-index: 100;
+    top: 0.5rem;
+    left: 0.5rem;
+    translate: 0 -180%;
+    padding: 0.7rem 1rem;
+    border-radius: var(--radius-sm);
+    background: var(--ink);
+    color: var(--bg);
+    font-weight: 800;
+  }
+
+  .skip-link:focus {
+    translate: 0;
+  }
+</style>

@@ -1,0 +1,137 @@
+---
+import type { SiteConfig } from "../sites";
+import SiteLogo from "./SiteLogo.astro";
+
+interface Props {
+  site: SiteConfig;
+}
+
+const { site } = Astro.props;
+---
+
+<header class="header">
+  <div class="container header__inner">
+    <SiteLogo site={site} />
+
+    <nav class="desktop-nav" aria-label="Primary">
+      <ul>
+        {site.navigation.map((item) => (
+          <li><a href={item.href}>{item.label}</a></li>
+        ))}
+      </ul>
+    </nav>
+
+    <details class="mobile-nav">
+      <summary aria-label="Open navigation">
+        <span></span><span></span><span></span>
+      </summary>
+      <nav aria-label="Mobile">
+        <ul>
+          {site.navigation.map((item) => (
+            <li><a href={item.href}>{item.label}</a></li>
+          ))}
+        </ul>
+      </nav>
+    </details>
+  </div>
+</header>
+
+<style>
+  .header {
+    position: sticky;
+    z-index: 10;
+    top: 0;
+    border-bottom: 1px solid var(--line);
+    background: color-mix(in srgb, var(--bg) 94%, transparent);
+    box-shadow: 0 1px 0 rgb(19 42 56 / 0.04);
+    backdrop-filter: blur(18px);
+  }
+
+  .header__inner {
+    display: flex;
+    min-height: 5rem;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .desktop-nav ul {
+    display: flex;
+    align-items: center;
+    gap: clamp(1rem, 2.5vw, 2rem);
+  }
+
+  .desktop-nav a,
+  .mobile-nav a {
+    font-size: 0.88rem;
+    font-weight: 750;
+    text-decoration: none;
+    text-underline-offset: 0.4rem;
+  }
+
+  .desktop-nav a:hover {
+    color: var(--accent);
+    text-decoration: underline;
+    text-decoration-color: var(--highlight);
+    text-decoration-thickness: 0.18rem;
+  }
+
+  .mobile-nav {
+    display: none;
+    position: relative;
+  }
+
+  summary {
+    display: grid;
+    width: 2.75rem;
+    aspect-ratio: 1;
+    cursor: pointer;
+    place-content: center;
+    gap: 0.25rem;
+    border: 1px solid var(--line);
+    border-radius: 50%;
+    list-style: none;
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
+  summary span {
+    width: 1.05rem;
+    height: 2px;
+    background: var(--ink);
+  }
+
+  .mobile-nav nav {
+    position: absolute;
+    top: calc(100% + 0.75rem);
+    right: 0;
+    width: min(17rem, calc(100vw - 2rem));
+    padding: 0.75rem;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+    background: var(--surface);
+    box-shadow: var(--shadow);
+  }
+
+  .mobile-nav a {
+    display: block;
+    padding: 0.75rem;
+    border-radius: var(--radius-sm);
+  }
+
+  .mobile-nav a:hover {
+    background: var(--surface-strong);
+  }
+
+  @media (max-width: 48rem) {
+    .desktop-nav {
+      display: none;
+    }
+
+    .mobile-nav {
+      display: block;
+    }
+  }
+</style>

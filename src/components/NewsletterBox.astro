@@ -1,0 +1,71 @@
+---
+interface Props {
+  compact?: boolean;
+}
+
+const { compact = false } = Astro.props;
+---
+
+<section class:list={["newsletter", { "newsletter--compact": compact }]}>
+  <div>
+    <p class="eyebrow">London, decoded</p>
+    <h2>More useful London guides are on the way</h2>
+    <p>
+      We are still preparing the London Travel Geek newsletter. For now, browse
+      the latest practical guides and bookmark anything useful for your trip.
+    </p>
+  </div>
+  <a class="button" href="/#articles">Browse the latest guides</a>
+</section>
+
+<style>
+  .newsletter {
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    align-items: center;
+    gap: var(--space-5);
+    padding: clamp(1.5rem, 5vw, 3.5rem);
+    border-radius: var(--card-radius);
+    background: var(--ink);
+    color: var(--bg);
+  }
+
+  .newsletter > div {
+    display: grid;
+    gap: 0.65rem;
+  }
+
+  .newsletter .eyebrow {
+    color: var(--highlight);
+  }
+
+  .newsletter h2 {
+    font-size: clamp(1.8rem, 4vw, 3rem);
+  }
+
+  .newsletter > div > p:last-child {
+    max-width: 35rem;
+    color: color-mix(in srgb, var(--bg) 75%, transparent);
+  }
+
+  .newsletter > .button {
+    justify-self: end;
+    border-color: var(--highlight);
+    background: var(--highlight);
+    color: var(--ink);
+  }
+
+  .newsletter--compact {
+    grid-template-columns: 1fr;
+  }
+
+  @media (max-width: 48rem) {
+    .newsletter {
+      grid-template-columns: 1fr;
+    }
+
+    .newsletter > .button {
+      justify-self: start;
+    }
+  }
+</style>

@@ -1,0 +1,340 @@
+---
+import { Image } from "astro:assets";
+import { getCollection } from "astro:content";
+import londonHero from "../assets/articles/london-underground/piccadilly-circus-underground.jpg";
+import Advert from "../components/Advert.astro";
+import ArticleCard from "../components/ArticleCard.astro";
+import NewsletterBox from "../components/NewsletterBox.astro";
+import SectionHeading from "../components/SectionHeading.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { activeSite } from "../sites";
+
+const articles = (await getCollection("articles"))
+  .filter((entry) => !entry.data.draft && entry.data.sites.includes(activeSite.id))
+  .sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
+
+const hasArticles = articles.length > 0;
+const categoryGroups = Array.from(
+  articles.reduce((groups, article) => {
+    const category = article.data.category;
+    const current = groups.get(category) ?? [];
+    current.push(article);
+    groups.set(category, current);
+    return groups;
+  }, new Map<string, typeof articles>()),
+)
+  .map(([label, entries]) => ({
+    label,
+    count: entries.length,
+    latest: entries[0],
+  }))
+  .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+const heroTitle =
+  activeSite.id === "london"
+    ? "See London more clearly."
+    : "Clear answers for smoother journeys.";
+---
+
+<BaseLayout>
+  <section class="hero">
+    <div class="container hero__grid">
+      <div class="hero__copy">
+        <p class="eyebrow">{activeSite.accentLabel}</p>
+        <h1>{heroTitle}</h1>
+        <p>
+          Straightforward, carefully researched guides to London transport,
+          neighbourhoods, airports, food and trip planning.
+        </p>
+        <div class="hero__actions">
+          <a class="button" href="#articles">Explore the latest guides</a>
+          <a class="button button--secondary" href="/articles/london-itineraries-by-days-and-interests/">Plan your trip</a>
+        </div>
+      </div>
+      <figure class="hero__visual">
+        <Image
+          src={londonHero}
+          alt="Entrance to Piccadilly Circus Underground station in central London"
+          widths={[640, 960, 1280]}
+          sizes="(max-width: 54rem) 100vw, 46vw"
+          loading="eager"
+        />
+        <div class="hero__label" aria-hidden="true">
+          <span>London</span>
+          <strong>decoded.</strong>
+        </div>
+        <figcaption>
+          Piccadilly Circus Underground · Photo by
+          <a href="https://commons.wikimedia.org/wiki/File:Eingang_zur_London_Underground_am_Piccadilly_Circus.jpg">Martin Dunst</a>,
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+        </figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <div class="container advert-wrap">
+    <Advert />
+  </div>
+
+  <section id="articles" class="section">
+    <div class="container">
+      <SectionHeading
+        eyebrow="Plan with confidence"
+        title="Latest London guides"
+        description="Practical answers, useful comparisons and honest caveats for planning a smoother visit."
+      />
+      <div class="grid grid--3">
+        {hasArticles ? (
+          articles.slice(0, 6).map((article) => (
+            <ArticleCard
+              label={article.data.category}
+              title={article.data.title}
+              description={article.data.description}
+              href={`/articles/${article.id}/`}
+              image={article.data.heroImage}
+              imageAlt={article.data.heroImageAlt}
+            />
+          ))
+        ) : (
+          Array.from({ length: 3 }).map(() => <ArticleCard empty />)
+        )}
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="section about">
+    <div class="container about__grid">
+      <p class="eyebrow">About London Travel Geek</p>
+      <div>
+        <h2>For travellers who like useful details</h2>
+        <p>
+          London Travel Geek turns complicated transport rules, airport choices
+          and neighbourhood decisions into clear, practical guides. We compare
+          official information and reputable editorial sources, explain where
+          details can change, and link readers to the original source whenever
+          it helps.
+        </p>
+        <p>
+          The aim is simple: less time untangling London and more time enjoying it.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="categories" class="section categories">
+    <div class="container">
+      <SectionHeading
+        eyebrow="Browse by topic"
+        title="Explore London guides by category"
+        description="Every article is organised by a main topic, making it easy to build out each part of the site over time."
+      />
+      <div class="category-grid">
+        {categoryGroups.map((category, index) => (
+          <article class="category-card slot">
+            <span>{String(index + 1).padStart(2, "0")}</span>
+            <p class="category-card__count">{category.count} {category.count === 1 ? "guide" : "guides"}</p>
+            <h3>{category.label}</h3>
+            <a href={`/articles/${category.latest.id}/`}>
+              Latest: {category.latest.data.title}
+            </a>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <NewsletterBox />
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    padding-block: clamp(3.5rem, 9vw, 8rem);
+  }
+
+  .hero__grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.08fr) minmax(20rem, 0.92fr);
+    align-items: center;
+    gap: clamp(2rem, 6vw, 6rem);
+  }
+
+  .hero__copy {
+    display: grid;
+    gap: var(--space-4);
+  }
+
+  .hero__copy > p:not(.eyebrow) {
+    max-width: 39rem;
+    color: var(--muted);
+    font-size: clamp(1.05rem, 2vw, 1.25rem);
+  }
+
+  .hero__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 0.5rem;
+  }
+
+  .hero__visual {
+    position: relative;
+    margin: 0;
+    overflow: hidden;
+    border-radius: var(--radius-lg);
+    background: var(--ink);
+    box-shadow: var(--shadow);
+  }
+
+  .hero__visual :global(img) {
+    width: 100%;
+    min-height: clamp(24rem, 44vw, 36rem);
+    object-fit: cover;
+    filter: saturate(0.82) contrast(1.05);
+  }
+
+  .hero__visual::after {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, transparent 45%, rgb(19 42 56 / 0.76));
+    content: "";
+    pointer-events: none;
+  }
+
+  .hero__label {
+    display: grid;
+    position: absolute;
+    z-index: 1;
+    bottom: 2.1rem;
+    left: 1.5rem;
+    color: white;
+    font-family: var(--display);
+    font-size: clamp(1.5rem, 5vw, 3.6rem);
+    line-height: 0.9;
+  }
+
+  .hero__label strong {
+    color: var(--highlight);
+    font-style: italic;
+  }
+
+  .hero__visual figcaption {
+    position: absolute;
+    z-index: 2;
+    right: 0.8rem;
+    bottom: 0.5rem;
+    color: rgb(255 255 255 / 0.78);
+    font-size: 0.62rem;
+  }
+
+  .hero__visual figcaption a {
+    color: inherit;
+  }
+
+  .advert-wrap {
+    padding-block: var(--space-3);
+  }
+
+  .categories {
+    background: color-mix(in srgb, var(--surface-strong) 58%, transparent);
+  }
+
+  .about {
+    background: var(--ink);
+    color: var(--surface);
+  }
+
+  .about__grid {
+    display: grid;
+    grid-template-columns: minmax(12rem, 0.4fr) minmax(0, 1fr);
+    gap: clamp(2rem, 7vw, 7rem);
+  }
+
+  .about .eyebrow {
+    color: var(--highlight);
+  }
+
+  .about__grid > div {
+    display: grid;
+    max-width: 48rem;
+    gap: 1rem;
+  }
+
+  .about__grid h2 {
+    color: white;
+  }
+
+  .about__grid p {
+    color: color-mix(in srgb, var(--surface) 78%, transparent);
+    font-size: 1.05rem;
+  }
+
+  .category-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: var(--space-3);
+  }
+
+  .category-card {
+    display: grid;
+    min-height: 15rem;
+    align-content: end;
+    gap: 0.4rem;
+    padding: var(--space-4);
+  }
+
+  .category-card > span {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    color: var(--accent);
+    font-family: var(--display);
+    font-size: 1.5rem;
+  }
+
+  .category-card p,
+  .category-card a {
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+
+  .category-card__count {
+    color: var(--accent) !important;
+    font-weight: 800;
+  }
+
+  .category-card a {
+    color: var(--ink);
+    font-weight: 700;
+    line-height: 1.35;
+    text-decoration-color: color-mix(in srgb, var(--accent) 62%, transparent);
+    text-underline-offset: 0.18em;
+  }
+
+  @media (max-width: 54rem) {
+    .hero__grid {
+      grid-template-columns: 1fr;
+    }
+
+    .hero__visual {
+      min-height: 22rem;
+    }
+
+    .category-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .about__grid {
+      grid-template-columns: 1fr;
+      gap: var(--space-4);
+    }
+  }
+
+  @media (max-width: 32rem) {
+    .category-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

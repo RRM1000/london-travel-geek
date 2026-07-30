@@ -1,0 +1,79 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Privacy"
+  description="How London Travel Geek handles visitor information and third-party content."
+>
+  <article class="legal container">
+    <p class="eyebrow">London Travel Geek</p>
+    <h1>Privacy</h1>
+    <p class="legal__intro">
+      This page describes the current version of the website. It should be
+      reviewed whenever analytics, advertising, comments, forms or a newsletter
+      provider are activated.
+    </p>
+
+    <h2>Information collected by this website</h2>
+    <p>
+      London Travel Geek does not currently provide user accounts, accept
+      comments or operate an email signup form. The website itself does not set
+      advertising or analytics cookies.
+    </p>
+
+    <h2>Hosting and technical logs</h2>
+    <p>
+      The hosting provider may process standard technical information, such as
+      IP addresses, browser details and request logs, to deliver and protect the
+      website. Its own privacy and retention terms apply to that processing.
+    </p>
+
+    <h2>Third-party content and links</h2>
+    <p>
+      Articles may link to transport providers, restaurants, booking services,
+      maps and other external websites. Their privacy policies apply after you
+      follow those links. YouTube videos use a click-to-load privacy-enhanced
+      player, so the player is not requested until you choose to play a video.
+    </p>
+
+    <h2>Future services</h2>
+    <p>
+      This notice must be updated before enabling analytics, personalised
+      advertising, newsletter subscriptions, comments or any other service that
+      collects personal information or stores cookies.
+    </p>
+
+    <p><a href="/">Return to the London Travel Geek homepage</a></p>
+  </article>
+</BaseLayout>
+
+<style>
+  .legal {
+    max-width: 52rem;
+    padding-block: var(--space-7);
+  }
+
+  .legal h1 {
+    margin-top: 0.5rem;
+  }
+
+  .legal__intro {
+    color: var(--muted);
+    font-size: 1.15rem;
+  }
+
+  .legal h2 {
+    margin-top: 2.5rem;
+    font-size: clamp(1.55rem, 4vw, 2.25rem);
+  }
+
+  .legal p {
+    margin-top: 1rem;
+  }
+
+  .legal a {
+    color: var(--accent);
+    font-weight: 750;
+  }
+</style>

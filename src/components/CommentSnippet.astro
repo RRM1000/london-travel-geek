@@ -1,0 +1,50 @@
+---
+interface Props {
+  quote?: string;
+  name?: string;
+  empty?: boolean;
+}
+
+const {
+  quote = "A selected reader comment can be shown here.",
+  name = "Reader name",
+  empty = true,
+} = Astro.props;
+---
+
+<figure class:list={["comment", { slot: empty }]}>
+  <span aria-hidden="true">“</span>
+  <blockquote>{empty ? "Comment snippet component" : quote}</blockquote>
+  <figcaption>{empty ? "Connect to your chosen comments service." : `— ${name}`}</figcaption>
+</figure>
+
+<style>
+  .comment {
+    display: grid;
+    gap: 0.5rem;
+    padding: var(--space-5);
+    border-left: 0.3rem solid var(--accent);
+    background: var(--surface);
+  }
+
+  .comment > span {
+    height: 1.8rem;
+    color: var(--accent);
+    font-family: var(--display);
+    font-size: 3.5rem;
+    line-height: 1;
+  }
+
+  blockquote {
+    margin: 0;
+    font-family: var(--display);
+    font-size: clamp(1.25rem, 3vw, 1.8rem);
+    line-height: 1.2;
+  }
+
+  figcaption {
+    color: var(--muted);
+    font-size: 0.86rem;
+    font-weight: 700;
+  }
+</style>

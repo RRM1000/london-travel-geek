@@ -1,0 +1,66 @@
+---
+import type { SiteConfig } from "../sites";
+
+interface Props {
+  site: SiteConfig;
+}
+
+const { site } = Astro.props;
+---
+
+<a class="logo" href="/" aria-label={`${site.name} home`}>
+  <span class="logo__mark" aria-hidden="true">
+    {site.id === "london" ? (
+      <svg viewBox="0 0 44 44" role="img">
+        <circle cx="13.5" cy="23" r="7.5" />
+        <circle cx="30.5" cy="23" r="7.5" />
+        <path d="M21 23h2M6 19l-3-2M38 19l3-2" />
+      </svg>
+    ) : (
+      <svg viewBox="0 0 44 44" role="img">
+        <circle cx="22" cy="22" r="15" />
+        <path d="m29 15-4 10-10 4 4-10 10-4Z" />
+      </svg>
+    )}
+  </span>
+  <span class="logo__type">{site.name}</span>
+</a>
+
+<style>
+  .logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-family: var(--display);
+    font-size: 1.05rem;
+    font-weight: 800;
+    line-height: 1;
+    text-decoration: none;
+  }
+
+  .logo__mark {
+    display: grid;
+    width: 2.35rem;
+    aspect-ratio: 1;
+    place-items: center;
+    border-radius: 50%;
+    background: var(--ink);
+    color: var(--surface);
+    box-shadow: inset 0 -0.2rem 0 var(--accent);
+  }
+
+  svg {
+    width: 1.65rem;
+    fill: none;
+    stroke: currentColor;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 2.1;
+  }
+
+  @media (max-width: 24rem) {
+    .logo__type {
+      display: none;
+    }
+  }
+</style>

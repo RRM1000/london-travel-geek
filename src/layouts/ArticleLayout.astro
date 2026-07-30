@@ -1,0 +1,777 @@
+---
+import { Image } from "astro:assets";
+import type { ImageMetadata } from "astro";
+import BaseLayout from "./BaseLayout.astro";
+import Advert from "../components/Advert.astro";
+import NewsletterBox from "../components/NewsletterBox.astro";
+import TableOfContents from "../components/TableOfContents.astro";
+import { activeSite } from "../sites";
+
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface Props {
+  title: string;
+  description: string;
+  category: string;
+  tags: string[];
+  publishedAt: Date;
+  updatedAt?: Date;
+  heroImage?: ImageMetadata;
+  heroImageAlt?: string;
+  heroImageCredit?: string;
+  heroImageSource?: string;
+  heroImageLicense?: string;
+  heroImageLicenseUrl?: string;
+  headings?: Heading[];
+}
+
+const {
+  title,
+  description,
+  category,
+  tags,
+  publishedAt,
+  updatedAt,
+  heroImage,
+  heroImageAlt = "",
+  heroImageCredit,
+  heroImageSource,
+  heroImageLicense,
+  heroImageLicenseUrl,
+  headings = [],
+} = Astro.props;
+
+const contentsHeadings = headings.filter((heading) => heading.depth === 2);
+const showContents = contentsHeadings.length >= 4;
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  contentType="article"
+  socialImage={heroImage?.src}
+  socialImageAlt={heroImageAlt || `${title} — ${activeSite.name}`}
+  publishedAt={publishedAt}
+  updatedAt={updatedAt}
+>
+  <article class="article container">
+    <header class="article__header">
+      <p class="eyebrow">{category}</p>
+      <h1>{title}</h1>
+      <p>{description}</p>
+      <time datetime={publishedAt.toISOString()}>
+        Published {publishedAt.toLocaleDateString("en-GB", {
+          day: "numeric",
+          month: "long",
+          year: "numeric",
+        })}
+      </time>
+      {updatedAt && (
+        <time datetime={updatedAt.toISOString()}>
+          Updated {updatedAt.toLocaleDateString("en-GB", {
+            day: "numeric",
+            month: "long",
+            year: "numeric",
+          })}
+        </time>
+      )}
+      {tags.length > 0 && (
+        <ul class="article__tags" aria-label="Article tags">
+          {tags.map((tag) => <li>{tag}</li>)}
+        </ul>
+      )}
+    </header>
+    {heroImage && (
+      <figure class="article__hero">
+        <Image
+          src={heroImage}
+          alt={heroImageAlt}
+          widths={[720, 1080, 1440, 1920]}
+          sizes="(max-width: 78rem) 100vw, 76rem"
+          loading="eager"
+        />
+        {(heroImageCredit || heroImageLicense) && (
+          <figcaption>
+            Photo:{" "}
+            {heroImageSource ? (
+              <a href={heroImageSource}>{heroImageCredit}</a>
+            ) : (
+              heroImageCredit
+            )}
+            {heroImageLicense && (
+              <>
+                {" · "}
+                {heroImageLicenseUrl ? (
+                  <a href={heroImageLicenseUrl}>{heroImageLicense}</a>
+                ) : (
+                  heroImageLicense
+                )}
+              </>
+            )}
+          </figcaption>
+        )}
+      </figure>
+    )}
+    <div class="article__grid">
+      <div class="article__body">
+        {showContents && (
+          <TableOfContents headings={contentsHeadings} variant="mobile" />
+        )}
+        <slot />
+      </div>
+      <aside class="article__sidebar">
+        {showContents && (
+          <TableOfContents headings={contentsHeadings} variant="desktop" />
+        )}
+        <Advert format="rectangle" />
+      </aside>
+    </div>
+    <NewsletterBox />
+  </article>
+
+  <script>
+    import { restaurantMaps } from "../data/restaurantMaps";
+
+    const videoButtons = document.querySelectorAll<HTMLButtonElement>(
+      "[data-youtube-video]",
+    );
+
+    for (const button of videoButtons) {
+      button.addEventListener(
+        "click",
+        () => {
+          const videoId = button.dataset.youtubeVideo;
+          const title = button.dataset.youtubeTitle ?? "YouTube video";
+
+          if (!videoId) return;
+
+          const iframe = document.createElement("iframe");
+          iframe.src = `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1`;
+          iframe.title = title;
+          iframe.allow =
+            "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+          iframe.referrerPolicy = "strict-origin-when-cross-origin";
+          iframe.allowFullscreen = true;
+
+          button.replaceWith(iframe);
+        },
+        { once: true },
+      );
+    }
+
+    type Leaflet = {
+      map: (element: HTMLElement, options?: Record<string, unknown>) => any;
+      tileLayer: (url: string, options?: Record<string, unknown>) => any;
+      divIcon: (options: Record<string, unknown>) => any;
+      marker: (position: [number, number], options?: Record<string, unknown>) => any;
+      latLngBounds: (positions: [number, number][]) => any;
+    };
+
+    const leafletWindow = window as Window & { L?: Leaflet };
+    let leafletPromise: Promise<Leaflet> | undefined;
+
+    const loadLeaflet = () => {
+      if (leafletWindow.L) return Promise.resolve(leafletWindow.L);
+      if (leafletPromise) return leafletPromise;
+
+      leafletPromise = new Promise<Leaflet>((resolve, reject) => {
+        if (!document.querySelector('link[data-leaflet-styles]')) {
+          const stylesheet = document.createElement("link");
+          stylesheet.rel = "stylesheet";
+          stylesheet.href = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css";
+          stylesheet.dataset.leafletStyles = "";
+          document.head.append(stylesheet);
+        }
+
+        const existingScript = document.querySelector<HTMLScriptElement>(
+          "script[data-leaflet-script]",
+        );
+
+        const finish = () => {
+          if (leafletWindow.L) resolve(leafletWindow.L);
+          else reject(new Error("Leaflet did not load."));
+        };
+
+        if (existingScript) {
+          existingScript.addEventListener("load", finish, { once: true });
+          existingScript.addEventListener("error", reject, { once: true });
+          return;
+        }
+
+        const script = document.createElement("script");
+        script.src = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js";
+        script.dataset.leafletScript = "";
+        script.addEventListener("load", finish, { once: true });
+        script.addEventListener("error", reject, { once: true });
+        document.head.append(script);
+      });
+
+      return leafletPromise;
+    };
+
+    const createPopup = (
+      marker: (typeof restaurantMaps)[string][number],
+    ) => {
+      const content = document.createElement("div");
+      content.className = "restaurant-map-popup";
+
+      const name = document.createElement("strong");
+      name.textContent = marker.name;
+      content.append(name);
+
+      const details = document.createElement("span");
+      details.textContent = [
+        marker.area,
+        marker.price,
+        marker.station ? `near ${marker.station}` : undefined,
+      ]
+        .filter(Boolean)
+        .join(" · ");
+      content.append(details);
+
+      const links = document.createElement("span");
+
+      if (marker.articleAnchor) {
+        const articleLink = document.createElement("a");
+        articleLink.href = marker.articleAnchor;
+        articleLink.textContent = "Read recommendation";
+        links.append(articleLink);
+      }
+
+      if (marker.videoUrl) {
+        const videoLink = document.createElement("a");
+        videoLink.href = marker.videoUrl;
+        videoLink.textContent = "Watch this visit";
+        links.append(videoLink);
+      }
+
+      const mapLink = document.createElement("a");
+      mapLink.href = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+        `${marker.name}, ${marker.area}, London`,
+      )}`;
+      mapLink.target = "_blank";
+      mapLink.rel = "noopener noreferrer";
+      mapLink.textContent = "Open in Google Maps";
+      links.append(mapLink);
+      content.append(links);
+
+      return content;
+    };
+
+    const initialiseRestaurantMap = async (element: HTMLElement) => {
+      if (element.dataset.mapReady === "true") return;
+
+      const markers = restaurantMaps[element.dataset.restaurantMap ?? ""];
+      if (!markers?.length) return;
+
+      element.dataset.mapReady = "true";
+
+      try {
+        const L = await loadLeaflet();
+        element.replaceChildren();
+
+        const map = L.map(element, { scrollWheelZoom: false });
+        L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+          maxZoom: 19,
+          attribution:
+            '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        }).addTo(map);
+
+        const positions: [number, number][] = [];
+
+        for (const markerData of markers) {
+          const position: [number, number] = [
+            markerData.latitude,
+            markerData.longitude,
+          ];
+          positions.push(position);
+
+          const icon = L.divIcon({
+            className: "restaurant-map-marker-wrap",
+            html: `<span class="restaurant-map-marker restaurant-map-marker--${markerData.type}" aria-hidden="true"></span>`,
+            iconSize: [26, 34],
+            iconAnchor: [13, 34],
+            popupAnchor: [0, -30],
+          });
+
+          L.marker(position, {
+            icon,
+            title: markerData.name,
+            alt: markerData.name,
+          })
+            .addTo(map)
+            .bindPopup(createPopup(markerData));
+        }
+
+        map.fitBounds(L.latLngBounds(positions), {
+          padding: [28, 28],
+          maxZoom: 13,
+        });
+
+        const shell = element.closest<HTMLDetailsElement>("details");
+        shell?.addEventListener("toggle", () => {
+          if (shell.open) window.setTimeout(() => map.invalidateSize(), 0);
+        });
+      } catch {
+        element.innerHTML =
+          '<p>The map could not load. You can still use the restaurant areas and nearest-station details in the guide below.</p>';
+        delete element.dataset.mapReady;
+      }
+    };
+
+    for (const element of document.querySelectorAll<HTMLElement>(
+      "[data-restaurant-map]",
+    )) {
+      const shell = element.closest<HTMLDetailsElement>("details");
+      if (shell?.open) {
+        void initialiseRestaurantMap(element);
+      } else {
+        shell?.addEventListener(
+          "toggle",
+          () => {
+            if (shell.open) void initialiseRestaurantMap(element);
+          },
+          { once: true },
+        );
+      }
+    }
+  </script>
+</BaseLayout>
+
+<style>
+  .article {
+    padding-block: var(--space-7);
+  }
+
+  .article__header {
+    display: grid;
+    max-width: 58rem;
+    gap: 1rem;
+    margin-bottom: var(--space-6);
+  }
+
+  .article__header h1 {
+    font-size: clamp(2.6rem, 7vw, 5.5rem);
+  }
+
+  .article__header > p:not(.eyebrow) {
+    max-width: var(--reading-width);
+    color: var(--muted);
+    font-size: 1.2rem;
+  }
+
+  time {
+    color: var(--muted);
+    font-size: 0.82rem;
+    font-weight: 750;
+  }
+
+  .article__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    margin-top: 0.35rem;
+  }
+
+  .article__tags li {
+    padding: 0.35rem 0.7rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--surface);
+    color: var(--muted);
+    font-size: 0.76rem;
+    font-weight: 750;
+  }
+
+  .article__hero {
+    margin: 0 0 var(--space-6);
+  }
+
+  .article__hero :global(img) {
+    width: 100%;
+    max-height: 43rem;
+    border-radius: var(--card-radius);
+    object-fit: cover;
+  }
+
+  .article__hero figcaption {
+    margin-top: 0.6rem;
+    color: var(--muted);
+    font-size: 0.74rem;
+  }
+
+  .article__grid {
+    display: grid;
+    grid-template-columns: minmax(0, var(--reading-width)) minmax(14rem, 20rem);
+    justify-content: space-between;
+    gap: var(--space-6);
+    margin-bottom: var(--space-7);
+  }
+
+  .article__body {
+    font-size: 1.08rem;
+  }
+
+  .article__body :global(h2) {
+    margin: 3.25rem 0 1rem;
+    font-size: clamp(1.8rem, 4vw, 2.65rem);
+    scroll-margin-top: 2rem;
+  }
+
+  .article__body :global(h3) {
+    margin: 2rem 0 0.7rem;
+    font-size: clamp(1.25rem, 3vw, 1.6rem);
+  }
+
+  .article__body :global(p) {
+    margin-block: 1rem;
+  }
+
+  .article__body :global(a) {
+    color: var(--accent);
+    font-weight: 700;
+  }
+
+  .article__body :global(ul),
+  .article__body :global(ol) {
+    display: grid;
+    gap: 0.65rem;
+    margin: 1.25rem 0;
+    padding-left: 1.35rem;
+  }
+
+  .article__body :global(ul) {
+    list-style: disc;
+  }
+
+  .article__body :global(ol) {
+    list-style: decimal;
+  }
+
+  .article__body :global(li)::marker {
+    color: var(--accent);
+    font-weight: 800;
+  }
+
+  .article__body :global(blockquote) {
+    margin: 1.75rem 0;
+    padding: 1.25rem 1.4rem;
+    border-left: 0.3rem solid var(--accent);
+    background: var(--surface-strong);
+    font-family: var(--display);
+    font-size: 1.2rem;
+    line-height: 1.45;
+  }
+
+  .article__body :global(blockquote p) {
+    margin: 0;
+  }
+
+  .article__body :global(img) {
+    width: 100%;
+    height: auto;
+    margin-top: 1.75rem;
+    border-radius: var(--card-radius);
+  }
+
+  .article__body :global(hr) {
+    margin-block: 3rem;
+    border: 0;
+    border-top: 1px solid var(--line);
+  }
+
+  .article__body :global(strong) {
+    color: var(--ink);
+  }
+
+  .article__body :global(table) {
+    display: block;
+    width: 100%;
+    margin-block: 1.5rem 2rem;
+    overflow-x: auto;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+    line-height: 1.45;
+  }
+
+  .article__body :global(th),
+  .article__body :global(td) {
+    min-width: 7.5rem;
+    padding: 0.75rem 0.8rem;
+    border: 1px solid var(--line);
+    text-align: left;
+    vertical-align: top;
+  }
+
+  .article__body :global(th) {
+    background: var(--surface-strong);
+    color: var(--ink);
+    font-family: var(--display);
+    font-size: 0.78rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .article__body :global(tbody tr:nth-child(even)) {
+    background: var(--surface);
+  }
+
+  .article__body :global(.network-map) {
+    margin-block: 1.5rem 2rem;
+    padding: 0.5rem;
+    border: 1px solid var(--line);
+    border-radius: var(--card-radius);
+    background: var(--surface);
+  }
+
+  .article__body :global(.network-map object) {
+    display: block;
+    width: 100%;
+    min-height: 44rem;
+    border: 0;
+    border-radius: calc(var(--card-radius) - 0.4rem);
+    background: white;
+  }
+
+  .article__body :global(.network-map p) {
+    padding: 1rem;
+  }
+
+  .article__body :global(.youtube-embed) {
+    margin-block: 1.75rem 2.25rem;
+  }
+
+  .article__body :global(.youtube-embed__frame) {
+    position: relative;
+    overflow: hidden;
+    aspect-ratio: 16 / 9;
+    border: 1px solid var(--line);
+    border-radius: var(--card-radius);
+    background: #111;
+    box-shadow: var(--shadow);
+  }
+
+  .article__body :global(.youtube-embed__frame iframe),
+  .article__body :global(.youtube-embed__button) {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    inset: 0;
+    border: 0;
+  }
+
+  .article__body :global(.youtube-embed__button) {
+    display: grid;
+    padding: 0;
+    overflow: hidden;
+    place-items: center;
+    background: #111;
+    color: white;
+    cursor: pointer;
+  }
+
+  .article__body :global(.youtube-embed__button img) {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    border-radius: 0;
+    object-fit: cover;
+    opacity: 0.72;
+    transition: opacity var(--transition), scale var(--transition);
+  }
+
+  .article__body :global(.youtube-embed__button:hover img) {
+    scale: 1.02;
+    opacity: 0.58;
+  }
+
+  .article__body :global(.youtube-embed__play) {
+    display: grid;
+    position: absolute;
+    width: 4.5rem;
+    height: 3.2rem;
+    border-radius: 0.8rem;
+    background: #e62117;
+    box-shadow: 0 0.75rem 2rem rgb(0 0 0 / 0.35);
+    place-items: center;
+  }
+
+  .article__body :global(.youtube-embed__play::after) {
+    width: 0;
+    height: 0;
+    margin-left: 0.2rem;
+    border-top: 0.65rem solid transparent;
+    border-bottom: 0.65rem solid transparent;
+    border-left: 1.05rem solid white;
+    content: "";
+  }
+
+  .article__body :global(.youtube-embed figcaption) {
+    margin-top: 0.8rem;
+    color: var(--muted);
+    font-size: 0.88rem;
+  }
+
+  .article__body :global(.youtube-embed figcaption strong) {
+    display: block;
+    margin-bottom: 0.15rem;
+    font-family: var(--display);
+    font-size: 1.05rem;
+  }
+
+  .article__body :global(.restaurant-map-shell) {
+    margin-block: 1.5rem 2.25rem;
+    overflow: hidden;
+    border: 1px solid var(--line);
+    border-radius: var(--card-radius);
+    background: var(--surface);
+    box-shadow: var(--shadow);
+  }
+
+  .article__body :global(.restaurant-map-shell summary) {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem 1.15rem;
+    background: var(--surface-strong);
+    color: var(--ink);
+    font-family: var(--display);
+    font-weight: 800;
+    cursor: pointer;
+  }
+
+  .article__body :global(.restaurant-map-shell summary small) {
+    color: var(--muted);
+    font-family: var(--body);
+    font-size: 0.75rem;
+    font-weight: 750;
+  }
+
+  .article__body :global(.restaurant-map) {
+    width: 100%;
+    min-height: 32rem;
+    background: var(--surface-strong);
+    font-size: 0.9rem;
+  }
+
+  .article__body :global(.restaurant-map > p) {
+    padding: 2rem;
+    text-align: center;
+  }
+
+  .article__body :global(.restaurant-map-legend) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem 1.25rem;
+    padding: 0.85rem 1.15rem 1rem;
+    color: var(--muted);
+    font-size: 0.78rem;
+    font-weight: 750;
+  }
+
+  .article__body :global(.restaurant-map-legend span) {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+  }
+
+  .article__body :global(.restaurant-map-key) {
+    width: 0.8rem;
+    height: 0.8rem;
+    border: 2px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 0 1px rgb(0 0 0 / 0.18);
+  }
+
+  .article__body :global(.restaurant-map-key--editorial),
+  .article__body :global(.restaurant-map-marker--editorial) {
+    background: var(--accent);
+  }
+
+  .article__body :global(.restaurant-map-key--video),
+  .article__body :global(.restaurant-map-marker--video) {
+    background: #6941c6;
+  }
+
+  .article__body :global(.restaurant-map-marker-wrap) {
+    border: 0;
+    background: transparent;
+  }
+
+  .article__body :global(.restaurant-map-marker) {
+    display: block;
+    position: relative;
+    width: 1.6rem;
+    height: 1.6rem;
+    border: 3px solid white;
+    border-radius: 50% 50% 50% 0;
+    box-shadow: 0 0.2rem 0.65rem rgb(0 0 0 / 0.35);
+    rotate: -45deg;
+  }
+
+  .article__body :global(.restaurant-map-popup) {
+    display: grid;
+    gap: 0.35rem;
+    min-width: 12rem;
+    font-family: var(--body);
+    line-height: 1.35;
+  }
+
+  .article__body :global(.restaurant-map-popup strong) {
+    font-family: var(--display);
+    font-size: 1rem;
+  }
+
+  .article__body :global(.restaurant-map-popup > span) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 0.75rem;
+  }
+
+  .article__body :global(.restaurant-map-popup a) {
+    font-size: 0.8rem;
+  }
+
+  .article__sidebar {
+    display: grid;
+    position: sticky;
+    top: 1rem;
+    align-content: start;
+    align-self: start;
+    gap: var(--space-4);
+  }
+
+  @media (max-width: 52rem) {
+    .article__grid {
+      grid-template-columns: 1fr;
+    }
+
+    .article__sidebar {
+      display: block;
+      position: static;
+    }
+
+    .article__sidebar > :global(.advert) {
+      margin-top: var(--space-5);
+    }
+
+    .article__body :global(.network-map object) {
+      min-height: 32rem;
+    }
+
+    .article__body :global(.restaurant-map-shell summary) {
+      align-items: flex-start;
+      flex-direction: column;
+      gap: 0.2rem;
+    }
+
+    .article__body :global(.restaurant-map) {
+      min-height: 25rem;
+    }
+  }
+</style>

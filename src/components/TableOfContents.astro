@@ -1,0 +1,208 @@
+---
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface Props {
+  headings: Heading[];
+  variant: "mobile" | "desktop";
+}
+
+const { headings, variant } = Astro.props;
+const isDesktop = variant === "desktop";
+---
+
+<details class:list={["toc", `toc--${variant}`]} open={isDesktop}>
+  <summary>
+    <span>In this guide</span>
+    <span class="toc__toggle" aria-hidden="true"></span>
+  </summary>
+  <nav aria-label="In this guide">
+    <ol>
+      {headings.map((heading, index) => (
+        <li>
+          <a
+            href={`#${heading.slug}`}
+            data-toc-link
+            class:list={{ "is-current": index === 0 }}
+            aria-current={index === 0 ? "location" : undefined}
+          >
+            {heading.text}
+          </a>
+        </li>
+      ))}
+    </ol>
+  </nav>
+</details>
+
+<style>
+  .toc {
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+    background: color-mix(in srgb, var(--surface) 92%, transparent);
+    box-shadow: 0 0.7rem 2rem rgb(16 37 54 / 0.06);
+  }
+
+  summary {
+    display: flex;
+    min-height: 3.25rem;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.85rem 1rem;
+    cursor: pointer;
+    list-style: none;
+    color: var(--ink);
+    font-family: var(--display);
+    font-size: 1rem;
+    font-weight: 800;
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .toc__toggle {
+    position: relative;
+    width: 1rem;
+    height: 1rem;
+    flex: 0 0 auto;
+  }
+
+  .toc__toggle::before,
+  .toc__toggle::after {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0.8rem;
+    height: 2px;
+    background: var(--accent);
+    content: "";
+    translate: -50% -50%;
+    transition: rotate var(--transition);
+  }
+
+  .toc__toggle::after {
+    rotate: 90deg;
+  }
+
+  details[open] .toc__toggle::after {
+    rotate: 0deg;
+  }
+
+  nav {
+    max-height: min(48vh, 28rem);
+    padding: 0 0.85rem 0.9rem;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+
+  ol {
+    display: grid;
+    gap: 0.12rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  a {
+    display: block;
+    padding: 0.5rem 0.65rem;
+    border-left: 2px solid transparent;
+    border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+    color: var(--muted);
+    font-size: 0.82rem;
+    font-weight: 700;
+    line-height: 1.35;
+    text-decoration: none;
+    transition:
+      border-color var(--transition),
+      background var(--transition),
+      color var(--transition);
+  }
+
+  a:hover {
+    background: var(--surface-strong);
+    color: var(--ink);
+  }
+
+  a.is-current {
+    border-left-color: var(--accent);
+    background: color-mix(in srgb, var(--surface-strong) 70%, transparent);
+    color: var(--accent);
+  }
+
+  .toc--mobile {
+    display: none;
+    margin-bottom: 2rem;
+  }
+
+  @media (max-width: 52rem) {
+    .toc--mobile {
+      display: block;
+    }
+
+    .toc--desktop {
+      display: none;
+    }
+
+    .toc--mobile nav {
+      max-height: 22rem;
+    }
+
+    .toc--mobile a {
+      min-height: 2.6rem;
+      padding-block: 0.62rem;
+      font-size: 0.9rem;
+    }
+  }
+</style>
+
+<script>
+  const tocLinks = Array.from(
+    document.querySelectorAll<HTMLAnchorElement>("[data-toc-link]"),
+  );
+  const sectionIds = [...new Set(tocLinks.map((link) => link.hash.slice(1)))];
+  const sections = sectionIds
+    .map((id) => document.getElementById(id))
+    .filter((section): section is HTMLElement => Boolean(section));
+
+  let frame: number | undefined;
+
+  const updateCurrentSection = () => {
+    frame = undefined;
+    let current = sections[0];
+
+    for (const section of sections) {
+      if (section.getBoundingClientRect().top <= 150) {
+        current = section;
+      } else {
+        break;
+      }
+    }
+
+    if (!current) return;
+
+    tocLinks.forEach((link) => {
+      const isCurrent = link.hash === `#${current.id}`;
+      link.classList.toggle("is-current", isCurrent);
+
+      if (isCurrent) {
+        link.setAttribute("aria-current", "location");
+      } else {
+        link.removeAttribute("aria-current");
+      }
+    });
+  };
+
+  const scheduleUpdate = () => {
+    if (frame !== undefined) return;
+    frame = window.requestAnimationFrame(updateCurrentSection);
+  };
+
+  updateCurrentSection();
+  window.addEventListener("scroll", scheduleUpdate, { passive: true });
+  window.addEventListener("hashchange", updateCurrentSection);
+</script>
