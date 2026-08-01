@@ -232,6 +232,17 @@ Speedboats are thrill rides, not transport. They combine a slower narrated centr
 | [Thames Rockets: Thames Barrier Voyage](https://www.thamesrockets.com/thames-river-experiences/) | 90 minutes | From £79.95 |
 | [Thames RIB Experience](https://thamesribexperience.com/the-experience) | Several routes, including short Tower and longer Barrier trips | Check the live date and route |
 
+<div
+  class="gyg-availability-widget"
+  data-gyg-href="https://widget.getyourguide.com/default/availability.frame"
+  data-gyg-tour-id="16670"
+  data-gyg-locale-code="en-US"
+  data-gyg-currency="GBP"
+  data-gyg-widget="availability"
+  data-gyg-variant="horizontal"
+  data-gyg-partner-id="WWP7I0R"
+></div>
+
 Pre-book, arrive early and read the medical, pregnancy, minimum-age and accessibility restrictions. Warm, waterproof layers are sensible even on a mild day.
 
 ## Lunch, afternoon tea and evening cruises

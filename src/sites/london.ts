@@ -9,15 +9,17 @@ export const londonSite: SiteConfig = {
     "Practical, carefully researched London travel guides for getting around, choosing where to stay and making more of every day.",
   accentLabel: "London, clearly explained",
   navigation: [
-    { label: "All guides", href: "/guides/" },
+    { label: "Eat & Drink", href: "/topics/food-and-drink/" },
     { label: "Areas", href: "/topics/london-areas/" },
     { label: "Plan", href: "/topics/london-itineraries/" },
-    { label: "Eat", href: "/topics/food-and-drink/" },
+    { label: "Transport", href: "/topics/getting-around-london/" },
     { label: "SIM & eSIM", href: "/topics/travel-sim-cards/" },
+    { label: "All Guides", href: "/guides/" },
   ],
   footerNavigation: [
     { label: "About", href: "/#about" },
     { label: "All guides", href: "/guides/" },
     { label: "Privacy", href: "/privacy/" },
+    { label: "RSS Feed", href: "/rss.xml" },
   ],
 };

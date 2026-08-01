@@ -103,6 +103,12 @@ const jsonLd = JSON.stringify(
       <meta name="robots" content="index, follow, max-image-preview:large" />
     )}
     <link rel="canonical" href={canonicalUrl} />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title={activeSite.name}
+      href={new URL("/rss.xml", siteOrigin)}
+    />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/manifest.webmanifest" />
@@ -138,7 +144,7 @@ const jsonLd = JSON.stringify(
       src="https://widget.getyourguide.com/dist/pa.umd.production.min.js"
       data-gyg-partner-id="WWP7I0R"
     ></script>
-    <script
+    <script is:inline
       async
       src="https://www.googletagmanager.com/gtag/js?id=G-YDK7Q2D8E8"
     ></script>

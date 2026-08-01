@@ -18,5 +18,6 @@ export const toolkitSite: SiteConfig = {
     { label: "About", href: "/#about" },
     { label: "Contact", href: "/#contact" },
     { label: "Disclosure", href: "/#disclosure" },
+    { label: "RSS Feed", href: "/rss.xml" },
   ],
 };

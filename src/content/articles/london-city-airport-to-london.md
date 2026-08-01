@@ -72,8 +72,6 @@ Use Oyster, contactless, Apple Pay, Google Pay or a Travelcard covering Zone 3. 
 
 The current illustrative Zone 1–3 PAYG fare is about **£3.90 peak** or **£3.30 off-peak**. Peak times are normally Monday–Friday 06:30–09:30 and 16:00–19:00; exceptions can apply.
 
-Do not buy an “airport transfer” product for the DLR. It is an ordinary TfL journey and counts towards the appropriate daily cap.
-
 ## Elizabeth and Jubilee line connections
 
 For the Elizabeth line, change at **Custom House**. This is useful for Liverpool Street, Farringdon, Tottenham Court Road, Bond Street and Paddington. Check signs carefully because the Elizabeth line platforms are separate from the DLR.
@@ -102,7 +100,7 @@ Special hours can apply, so check live flight information rather than using thes
 
 ## Travelling to London City for departure
 
-Verify the airline deadline, live flight status and TfL service before leaving. The airport is known for a compact departure process, but this is not permission to arrive after the airline's bag-drop or boarding deadline.
+Verify the airline live flight status and TfL services before leaving. The airport is known for a compact departure process, but always ensure you give yourself enough time.
 
 Check DLR and connecting-line status in TfL Go. If the DLR is disrupted, compare local buses, the Elizabeth line at Custom House and a licensed taxi.
 

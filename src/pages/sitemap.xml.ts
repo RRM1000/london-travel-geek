@@ -32,6 +32,7 @@ export const GET: APIRoute = async ({ site }) => {
   const pages = [
     { path: "/", modified: undefined },
     { path: "/privacy/", modified: undefined },
+    { path: "/rss.xml", modified: undefined },
     ...articles,
   ];
 

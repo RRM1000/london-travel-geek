@@ -6,61 +6,62 @@ interface Props {
 }
 
 const { site } = Astro.props;
+const sitePrefix = site.id === "london" ? "LONDON" : "TOOLKIT";
 ---
 
 <a class="logo" href="/" aria-label={`${site.name} home`}>
-  <span class="logo__mark" aria-hidden="true">
-    {site.id === "london" ? (
-      <svg viewBox="0 0 44 44" role="img">
-        <circle cx="13.5" cy="23" r="7.5" />
-        <circle cx="30.5" cy="23" r="7.5" />
-        <path d="M21 23h2M6 19l-3-2M38 19l3-2" />
-      </svg>
-    ) : (
-      <svg viewBox="0 0 44 44" role="img">
-        <circle cx="22" cy="22" r="15" />
-        <path d="m29 15-4 10-10 4 4-10 10-4Z" />
-      </svg>
-    )}
-  </span>
-  <span class="logo__type">{site.name}</span>
+  <svg class="logo__svg" viewBox="0 0 120 120" aria-hidden="true">
+    <path fill="#FF2D2E" d="M60 5 C35 25 20 50 20 75 C20 97.1 37.9 115 60 115 C82.1 115 100 97.1 100 75 C100 52 82 32 60 5 Z" />
+    <path fill="#D9161B" d="M60 22 C43 38 32 58 32 77 C32 92.4 44.6 105 60 105 C75.4 105 88 92.4 88 77 C88 58 77 38 60 22 Z" />
+    <path fill="#FFFFFF" d="M60 36 L68 54 L88 60 L88 68 L68 64 L62 80 L70 86 L70 92 L58 88 L46 92 L46 86 L54 80 L48 64 L28 68 L28 60 L48 54 Z" />
+  </svg>
+  <div class="logo__text">
+    <div class="logo__line-1">
+      <span class="logo__red">{sitePrefix}</span><span class="logo__black">TRAVEL</span>
+    </div>
+    <div class="logo__line-2">
+      <span class="logo__black">GEEK</span>
+    </div>
+  </div>
 </a>
 
 <style>
   .logo {
     display: inline-flex;
     align-items: center;
-    gap: 0.75rem;
-    font-family: var(--display);
-    font-size: 1.05rem;
-    font-weight: 800;
-    line-height: 1;
+    gap: 0.85rem;
     text-decoration: none;
+    background: transparent;
   }
 
-  .logo__mark {
-    display: grid;
-    width: 2.35rem;
-    aspect-ratio: 1;
-    place-items: center;
-    border-radius: 50%;
-    background: var(--ink);
-    color: var(--surface);
-    box-shadow: inset 0 -0.2rem 0 var(--accent);
+  .logo__svg {
+    width: clamp(3.2rem, 5vw, 4.2rem);
+    height: auto;
+    flex-shrink: 0;
+    filter: drop-shadow(0 2px 4px rgba(255, 45, 46, 0.2));
   }
 
-  svg {
-    width: 1.65rem;
-    fill: none;
-    stroke: currentColor;
-    stroke-linecap: round;
-    stroke-linejoin: round;
-    stroke-width: 2.1;
+  .logo__text {
+    display: flex;
+    flex-direction: column;
+    font-family: var(--display), "Outfit", "Arial Black", sans-serif;
+    font-weight: 900;
+    line-height: 0.88;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
   }
 
-  @media (max-width: 24rem) {
-    .logo__type {
-      display: none;
-    }
+  .logo__line-1,
+  .logo__line-2 {
+    display: flex;
+    font-size: clamp(1.8rem, 3.5vw, 2.5rem);
+  }
+
+  .logo__red {
+    color: #FF2D2E;
+  }
+
+  .logo__black {
+    color: #000000;
   }
 </style>

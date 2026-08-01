@@ -23,7 +23,7 @@ heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 ---
 
-Heathrow has excellent public transport, but the fastest train to Paddington is not automatically the fastest route to your hotel. The Elizabeth line and Piccadilly line continue through London, while Heathrow Express stops at Paddington and may leave you with another journey.
+The quickest train to Paddington isn't necessarily the fastest route to your door. The Heathrow Express ends at Paddington, whereas the Elizabeth and Piccadilly lines cross directly through central London—frequently saving you a second leg on your journey.
 
 > **The short version:** take the **Elizabeth line** for the best combination of speed, comfort and useful central stops; take the **Piccadilly line** when price matters or your hotel is directly beside it; and take **Heathrow Express** when Paddington is genuinely convenient, particularly if you found a cheap advance ticket. A taxi is most useful for a group, substantial luggage, limited mobility or an address poorly served by rail.
 
@@ -40,8 +40,6 @@ Prices and normal journey times below were checked on **28 July 2026**. Rail tim
 | TfL local bus | £1.75 currently | Varies; not a sensible central-London journey | 2/5 | Hotels and destinations in west London |
 | Black cab | Approximately £70–£120 | Roughly 30–90 minutes | 4/5 | Door-to-door travel, groups and accessible vehicles |
 | Pre-booked private hire | Quoted by the operator | Roughly 30–90 minutes | 4/5 | A known pickup and fixed quoted price |
-
-Traffic, disruption, immigration and baggage reclaim can change the real door-to-door time. Compare the complete journey to your hotel, not only the advertised airport-to-terminus time.
 
 ## Which route is best for your hotel?
 
@@ -64,11 +62,9 @@ Traffic, disruption, immigration and baggage reclaim can change the real door-to
 | London Bridge and Borough | Elizabeth line to Farringdon, then Thameslink | Often easier with luggage than crossing the West End |
 | Euston | Elizabeth line to Tottenham Court Road, then Northern line or a short taxi | Normally faster and more comfortable than taking the Piccadilly line across London |
 
-If the hotel advertises itself as “Paddington”, “Heathrow” or “central London”, still check its actual address. A hotel beside Hammersmith station can be easier by Piccadilly line than by Heathrow Express, even if its marketing mentions Paddington.
-
 ## Elizabeth line
 
-The Elizabeth line is the best default for many arrivals. Its long, air-conditioned, walk-through trains have dedicated luggage areas and provide direct journeys through central London.
+The Elizabeth line is your best option for most journeys. Its long, air-conditioned, walk-through trains have dedicated luggage areas and provide direct journeys through central London.
 
 Useful direct stations include:
 
@@ -192,7 +188,7 @@ Heathrow currently has four passenger terminals: **2, 3, 4 and 5**. Terminal 1 i
 | Terminal 4 | Heathrow Terminal 4 | Separate station beside the terminal |
 | Terminal 5 | Heathrow Terminal 5 | Its own station beneath the terminal |
 
-Do not guess a terminal from the airline name. Some airlines use more than one terminal, and assignments can change. Check the booking, airline app or Heathrow's [terminal finder](https://www.heathrow.com/whichterminal).
+Some airlines use more than one terminal, so always confirm your terminal number with the airline or Heathrow's [**terminal finder**](https://www.heathrow.com/whichterminal).
 
 ### Which trains serve each terminal?
 

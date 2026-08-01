@@ -230,7 +230,7 @@ Run through these steps when planning trips:
 5. Is the transport leg intended to be a scenic experience, such as a river boat or cable car?
 6. Are planned maintenance, strikes, road traffic or late-night adjustments affecting your line?
 
-For airport runs, build in plenty of buffer time and confirm both train schedules and terminal numbers. For all public transport, stick to the same Oyster card or contactless device every time you tap in and out.
+For airport runs, ensure to add plenty of buffer time and confirm both train schedules and terminal numbers. For all public transport, stick to the same Oyster card or contactless device every time you tap in and out.
 
 ## Detailed London transport guides
 

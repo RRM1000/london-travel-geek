@@ -22,7 +22,7 @@ heroImageLicense: "CC0 1.0"
 heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 ---
 
-Stansted is around 40 miles northeast of central London. Unlike Heathrow or Gatwick, the main choice is straightforward: use **Stansted Express** for a reliable rail journey to Tottenham Hale or Liverpool Street, or take a **coach** when its London stop is closer to your hotel or its advance fare is substantially cheaper.
+Stansted lies about 40 miles northeast of central London. Unlike Heathrow or Gatwick, your decision comes down to two main options: take the Stansted Express for a fast, reliable train link to Tottenham Hale or Liverpool Street, or opt for a coach if it drops off nearer your hotel or offers a significantly cheaper advance fare.
 
 > **The short version:** take Stansted Express to **Tottenham Hale** for the Victoria line and north London, or remain on the train to **Liverpool Street** for the City and Elizabeth line. Consider a coach for Stratford, Victoria, Baker Street, Paddington, Waterloo or an overnight journey. Contactless is now accepted on Stansted Express, but **Oyster is not**.
 
@@ -38,7 +38,7 @@ Prices and normal times were checked on **28 July 2026**.
 | Coach | Advance fares from about £5 | Roughly 50–120 minutes | 3/5 | More London stops, low advance prices and 24-hour travel |
 | Taxi or private hire | Obtain a live quote; often well over £100 to central London | Roughly 60–120 minutes | 4/5 | Groups, substantial luggage and difficult addresses |
 
-The cheapest prices are limited advance offers, not guaranteed walk-up fares. Compare the complete journey and include waiting time, Underground changes and road traffic.
+Always try to book in advance to avoid the inflated walk-up fares.
 
 ## Which route is best for your hotel?
 
@@ -61,16 +61,9 @@ The airport station is directly below the single passenger terminal, around a tw
 
 ### Tickets, contactless and Oyster
 
-Advance tickets can start around **£9.45 one way**. Buy early through Stansted Express when your plans are firm, but read the train-specific and refund conditions.
+Advance tickets can start around **£9.45 one way**. Buy early through Stansted Express once your plans are confirmed.
 
-Since March 2026, an adult can also touch in and out with the same contactless card or device. This is convenient but may not beat:
-
-- an advance ticket;
-- a Railcard fare;
-- a child or group ticket;
-- a return promotion.
-
-**Oyster is not valid to Stansted Airport.** A contactless bank card and an Oyster card are not interchangeable. If you buy a rail ticket, retain it until after the airport gates.
+**Oyster is not valid to Stansted Airport.** If you buy a rail ticket, retain it until after the airport gates.
 
 Tottenham Hale is the best interchange for the Victoria line. Liverpool Street connects with the Central, Circle, Hammersmith & City and Metropolitan lines and is linked to the Elizabeth line station. Follow the signs carefully because the walk between platforms can be substantial.
 
@@ -100,9 +93,9 @@ The departure gates are spread across satellite buildings. Depending on the gate
 
 ## Travelling to Stansted for departure
 
-Check the airline's deadline, live flight information and your train or coach before leaving. Stansted's general itinerary recommends arriving at least **three hours before departure**, but the airline's instructions take priority.
+Check the airline’s live flight information before leaving. Stansted’s general itinerary recommends arriving at least **three hours before departure**.
 
-The first Liverpool Street trains normally leave between about 03:40 and 04:40 depending on the day, and the last around 23:25. Airport departures normally run from about 05:30, with later starts on some weekdays, until around 00:30. These are only planning guides: check the [current Stansted Express timetable](https://www.stanstedexpress.com/travel-information/timetables) for the exact date.
+The first Liverpool Street trains normally leave between about **03:40** and **04:40** depending on the day, and the last around **23:25**. Airport departures normally run from about **05:30**, with later starts on some weekdays, until around **00:30**. These are only planning guides: check the [**current Stansted Express timetable**](https://www.stanstedexpress.com/travel-information/timetables) for the exact times.
 
 ## Wi-Fi, SIM cards and useful apps
 
@@ -120,13 +113,12 @@ The rail route is generally easier with luggage than changing between a coach an
 
 ## Common mistakes
 
-- Trying to use Oyster because contactless is accepted.
+- Trying to use an Oyster card.
 - Buying the cheapest advance ticket without checking its restrictions.
 - Remaining on the train to Liverpool Street when Tottenham Hale is the better interchange.
 - Taking a Victoria coach during heavy traffic without a time buffer.
-- Assuming the gate is close because Stansted has one terminal.
+- Assuming your departure gate is close because Stansted has one terminal.
 - Using a phone to touch in and its physical bank card to touch out.
-- Accepting an unofficial taxi offer inside arrivals.
 
 ## Related London airport guides
 

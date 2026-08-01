@@ -103,22 +103,27 @@ const breadcrumbs = [
       <p class="eyebrow"><a href={categoryHref(category)}>{category}</a></p>
       <h1>{title}</h1>
       <p>{description}</p>
-      <time datetime={publishedAt.toISOString()}>
-        Published {publishedAt.toLocaleDateString("en-GB", {
-          day: "numeric",
-          month: "long",
-          year: "numeric",
-        })}
-      </time>
-      {updatedAt && (
-        <time datetime={updatedAt.toISOString()}>
-          Updated {updatedAt.toLocaleDateString("en-GB", {
+      <div class="article__meta">
+        <time datetime={publishedAt.toISOString()}>
+          Published {publishedAt.toLocaleDateString("en-GB", {
             day: "numeric",
             month: "long",
             year: "numeric",
           })}
         </time>
-      )}
+        {updatedAt && (
+          <>
+            <span class="article__meta-separator" aria-hidden="true">·</span>
+            <time datetime={updatedAt.toISOString()}>
+              Updated {updatedAt.toLocaleDateString("en-GB", {
+                day: "numeric",
+                month: "long",
+                year: "numeric",
+              })}
+            </time>
+          </>
+        )}
+      </div>
       {tags.length > 0 && (
         <ul class="article__tags" aria-label="Article tags">
           {tags.map((tag) => <li><a href={tagHref(tag)}>{formatTag(tag)}</a></li>)}
@@ -423,10 +428,19 @@ const breadcrumbs = [
     font-size: 1.2rem;
   }
 
-  time {
+  .article__meta {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.4rem;
     color: var(--muted);
     font-size: 0.82rem;
     font-weight: 750;
+  }
+
+  .article__meta-separator {
+    color: var(--accent);
+    font-weight: 800;
   }
 
   .article__tags {
@@ -560,10 +574,11 @@ const breadcrumbs = [
   }
 
   .article__body :global(table) {
-    display: block;
+    display: table;
     width: 100%;
+    table-layout: fixed;
     margin-block: 1.5rem 2rem;
-    overflow-x: auto;
+    overflow: visible;
     border: 1px solid var(--line);
     border-radius: var(--card-radius);
     border-spacing: 0;
@@ -573,14 +588,28 @@ const breadcrumbs = [
     line-height: 1.45;
   }
 
+  .article__body :global(.gyg-availability-widget) {
+    width: 100%;
+    max-width: 100%;
+    margin-block: 1.5rem;
+    overflow: hidden;
+  }
+
+  .article__body :global(.gyg-availability-widget iframe) {
+    display: block;
+    max-width: 100%;
+    border: 0;
+  }
+
   .article__body :global(th),
   .article__body :global(td) {
-    min-width: 7.5rem;
+    min-width: 0;
     padding: 0.75rem 0.8rem;
     border: 0;
     border-bottom: 1px solid var(--line);
     text-align: left;
     vertical-align: top;
+    overflow-wrap: anywhere;
   }
 
   .article__body :global(th) {
@@ -621,6 +650,27 @@ const breadcrumbs = [
     table-layout: fixed;
   }
 
+  .article__body :global(.line-attractions) {
+    margin-top: 0.45rem;
+    margin-bottom: 1.4rem;
+  }
+
+  .article__body :global(.line-attractions th:nth-child(1)),
+  .article__body :global(.line-attractions td:nth-child(1)) {
+    width: 38%;
+  }
+
+  .article__body :global(.line-attractions th:nth-child(2)),
+  .article__body :global(.line-attractions td:nth-child(2)) {
+    width: 23%;
+    font-weight: 800;
+  }
+
+  .article__body :global(.line-attractions th:nth-child(3)),
+  .article__body :global(.line-attractions td:nth-child(3)) {
+    width: 39%;
+  }
+
   .article__body :global(.underground-comparison caption) {
     position: absolute;
     width: 1px;
@@ -637,38 +687,86 @@ const breadcrumbs = [
   }
 
   .article__body :global(.line-guide) {
-    margin: 0.85rem 0 2.25rem;
-    padding: 1.15rem;
+    margin: 0.85rem 0 1.15rem;
+    padding: 1rem 1.15rem;
     border: 1px solid var(--line);
     border-radius: var(--card-radius);
-    background: var(--surface);
-    box-shadow: 0 0.5rem 1.5rem rgb(15 39 54 / 0.06);
+    background: linear-gradient(135deg, var(--surface), color-mix(in srgb, var(--page) 70%, var(--surface)));
+    box-shadow: 0 0.55rem 1.35rem rgb(15 39 54 / 0.07);
   }
+
+  .article__body :global(.line-name) {
+    --line-colour: #1b2b3a;
+    --line-ink: #1b2b3a;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.42em;
+    color: var(--line-ink);
+    font: inherit;
+    font-weight: 800;
+  }
+
+  .article__body :global(.line-name__swatch) {
+    width: 0.75em;
+    height: 0.75em;
+    flex: 0 0 0.75em;
+    border: 1px solid rgb(15 39 54 / 0.18);
+    border-radius: 999px;
+    background: var(--line-colour);
+  }
+
+  .article__body :global(.line-name--bakerloo) { --line-colour: #b36305; --line-ink: #7a4100; }
+  .article__body :global(.line-name--central) { --line-colour: #e32017; --line-ink: #b01912; }
+  .article__body :global(.line-name--circle) { --line-colour: #ffd300; --line-ink: #715d00; }
+  .article__body :global(.line-name--district) { --line-colour: #00782a; --line-ink: #006324; }
+  .article__body :global(.line-name--hammersmith-city) { --line-colour: #f3a9bb; --line-ink: #9e3954; }
+  .article__body :global(.line-name--jubilee) { --line-colour: #7a7f83; --line-ink: #53575a; }
+  .article__body :global(.line-name--metropolitan) { --line-colour: #9b0056; --line-ink: #820047; }
+  .article__body :global(.line-name--northern) { --line-colour: #111111; --line-ink: #111111; }
+  .article__body :global(.line-name--piccadilly) { --line-colour: #003688; --line-ink: #003688; }
+  .article__body :global(.line-name--victoria) { --line-colour: #0098d4; --line-ink: #007bac; }
+  .article__body :global(.line-name--waterloo-city) { --line-colour: #95cdba; --line-ink: #317d69; }
+  .article__body :global(.line-name--elizabeth) { --line-colour: #6950a1; --line-ink: #584188; }
+  .article__body :global(.line-name--dlr) { --line-colour: #00a4a7; --line-ink: #00787a; }
+  .article__body :global(.line-name--overground) { --line-colour: #ee7c0e; --line-ink: #b65b00; }
+  .article__body :global(.line-name--liberty) { --line-colour: #6d6e71; --line-ink: #545558; }
+  .article__body :global(.line-name--lioness) { --line-colour: #f9a602; --line-ink: #8a5a00; }
+  .article__body :global(.line-name--mildmay) { --line-colour: #00a5db; --line-ink: #0079a2; }
+  .article__body :global(.line-name--suffragette) { --line-colour: #18a95f; --line-ink: #08773c; }
+  .article__body :global(.line-name--weaver) { --line-colour: #9b0056; --line-ink: #820047; }
+  .article__body :global(.line-name--windrush) { --line-colour: #dc241f; --line-ink: #af1d19; }
 
   .article__body :global(.line-guide dl) {
     display: grid;
-    grid-template-columns: repeat(5, minmax(0, 1fr));
-    gap: 0.75rem;
-    margin: 0 0 1.2rem;
+    grid-template-columns: 0.8fr 1.15fr 1.1fr 1.6fr;
+    gap: 0.55rem;
+    margin: 0;
   }
 
   .article__body :global(.line-guide dl > div) {
     min-width: 0;
-    padding: 0.75rem;
+    min-height: 5.8rem;
+    padding: 0.75rem 0.8rem;
     border-radius: 0.5rem;
-    background: var(--page);
+    background: rgb(255 255 255 / 0.58);
   }
 
   .article__body :global(.line-guide dt) {
+    display: flex;
+    align-items: flex-start;
+    min-height: 2.4rem;
     color: var(--muted);
     font-family: var(--display);
-    font-size: 0.7rem;
+    font-size: 0.78rem;
     font-weight: 800;
     letter-spacing: 0.04em;
     text-transform: uppercase;
   }
 
   .article__body :global(.line-guide dd) {
+    display: flex;
+    align-items: center;
+    min-height: 1.5rem;
     margin: 0.25rem 0 0;
     overflow-wrap: anywhere;
     font-weight: 700;
@@ -689,6 +787,72 @@ const breadcrumbs = [
     margin: 0;
   }
 
+  .article__body :global(.line-guide__likelihood) {
+    margin: 1.1rem 0 1.25rem;
+    padding: 0.8rem 0.9rem;
+    border-left: 0.25rem solid var(--accent);
+    border-radius: 0 0.5rem 0.5rem 0;
+    background: var(--page);
+  }
+
+  .article__body :global(.line-guide__likelihood dt) {
+    color: var(--muted);
+    font-family: var(--display);
+    font-size: 0.7rem;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .article__body :global(.line-guide__likelihood dd) {
+    margin: 0.25rem 0 0;
+    font-weight: 700;
+  }
+
+  .article__body :global(.rating-icons) {
+    display: inline-flex;
+    gap: 0.12rem;
+    vertical-align: middle;
+    white-space: nowrap;
+  }
+
+  .article__body :global(.rating-groups) {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+  }
+
+  .article__body :global(.rating-group) {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    white-space: nowrap;
+  }
+
+  .article__body :global(.rating-group__label) {
+    color: var(--muted);
+    font-size: 0.78rem;
+    font-weight: 700;
+  }
+
+  .article__body :global(.rating-icon) {
+    font-size: 1.2rem;
+    line-height: 1;
+  }
+
+  .article__body :global(.rating-icons--crowding .rating-icon) {
+    color: #c73542;
+  }
+
+  .article__body :global(.rating-icons--comfort .rating-icon) {
+    color: #b7791f;
+  }
+
+  .article__body :global(.rating-icon--empty) {
+    opacity: 0.2;
+  }
+
   @media (max-width: 48rem) {
     .article__body :global(.line-guide) {
       padding: 0.9rem;
@@ -698,9 +862,6 @@ const breadcrumbs = [
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .article__body :global(.line-guide dl > div:last-child) {
-      grid-column: 1 / -1;
-    }
   }
 
   .article__body :global(.underground-comparison) {
@@ -759,6 +920,50 @@ const breadcrumbs = [
 
   .article__body :global(.underground-comparison .attractions-list li + li) {
     margin-top: 0.35rem;
+  }
+
+  .article__body :global(.overground-comparison) {
+    width: 100%;
+    table-layout: fixed;
+  }
+
+  .article__body :global(.overground-comparison th:nth-child(1)),
+  .article__body :global(.overground-comparison td:nth-child(1)) {
+    width: 18%;
+  }
+
+  .article__body :global(.overground-comparison th:nth-child(2)),
+  .article__body :global(.overground-comparison td:nth-child(2)) {
+    width: 32%;
+  }
+
+  .article__body :global(.overground-comparison th:nth-child(3)),
+  .article__body :global(.overground-comparison td:nth-child(3)) {
+    width: 9%;
+  }
+
+  .article__body :global(.overground-comparison th:nth-child(4)),
+  .article__body :global(.overground-comparison td:nth-child(4)),
+  .article__body :global(.overground-comparison th:nth-child(5)),
+  .article__body :global(.overground-comparison td:nth-child(5)) {
+    width: 15%;
+  }
+
+  .article__body :global(.overground-comparison th:nth-child(6)),
+  .article__body :global(.overground-comparison td:nth-child(6)) {
+    width: 11%;
+  }
+
+  .article__body :global(.overground-comparison .rating-icons) {
+    gap: 0.04rem;
+  }
+
+  .article__body :global(.overground-comparison .rating-icon) {
+    font-size: 0.94rem;
+  }
+
+  .article__body :global(.overground-comparison .line-name__swatch) {
+    display: none;
   }
 
   @media (max-width: 48rem) {
@@ -846,7 +1051,8 @@ const breadcrumbs = [
 
   .article__body :global(.network-map) {
     margin-block: 1.5rem 2rem;
-    padding: 0.5rem;
+    padding: 0;
+    overflow: hidden;
     border: 1px solid var(--line);
     border-radius: var(--card-radius);
     background: var(--surface);
@@ -858,6 +1064,19 @@ const breadcrumbs = [
     min-height: 44rem;
     border: 0;
     border-radius: calc(var(--card-radius) - 0.4rem);
+    background: white;
+  }
+
+  .article__body :global(.network-map a) {
+    display: block;
+  }
+
+  .article__body :global(.network-map img) {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-top: 0;
+    border-radius: 0;
     background: white;
   }
 
@@ -1064,7 +1283,8 @@ const breadcrumbs = [
   .article__sidebar {
     display: grid;
     position: sticky;
-    top: 1rem;
+    /* Clear the 5rem sticky site header before this sidebar sticks. */
+    top: 6rem;
     align-content: start;
     align-self: start;
     gap: var(--space-4);
@@ -1117,3 +1337,86 @@ const breadcrumbs = [
     }
   }
 </style>
+
+<script>
+  document.querySelectorAll('.article__body .line-guide').forEach((guide) => {
+    const label = Array.from(guide.querySelectorAll('dt')).find(
+      (term) => term.textContent?.trim() === 'Visitor likelihood',
+    );
+    const attractions = Array.from(guide.querySelectorAll('h4')).find(
+      (heading) => heading.textContent?.trim() === 'Attractions and areas',
+    );
+    const item = label?.closest('div');
+
+    if (!label || !attractions || !item) return;
+
+    label.textContent = 'Likelihood of using';
+    item.classList.add('line-guide__likelihood');
+    const attractionsTable = attractions.nextElementSibling;
+    if (attractionsTable?.tagName === 'TABLE') {
+      attractionsTable.after(item);
+    }
+  });
+
+  const addRatingIcons = (element: Element | null | undefined, type: 'crowding' | 'comfort') => {
+    if (!element) return;
+
+    const value = element.textContent?.trim() ?? '';
+    const ratings: Array<{ score: number; label: string }> = value
+      .split(';')
+      .flatMap((part: string) => {
+        const match = part.trim().match(/^([1-5])\/5\s*(.*)$/);
+        return match ? [{ score: Number(match[1]), label: match[2].trim() }] : [];
+      });
+    if (!ratings.length) return;
+
+    const label = type === 'crowding' ? 'crowding' : 'comfort';
+    const groups = ratings.map(({ score, label: ratingLabel }) => {
+      const displayLabel = ratings.length > 1 ? ratingLabel : '';
+      const icons = Array.from({ length: 5 }, (_, index) =>
+        `<span aria-hidden="true" class="rating-icon${index >= score ? ' rating-icon--empty' : ''}">&#9733;</span>`,
+      ).join('');
+      const context = displayLabel ? ` ${displayLabel}` : '';
+      return `<span class="rating-group"><span class="rating-icons rating-icons--${type}" aria-label="${score} out of 5 for ${label}${context}">${icons}</span>${displayLabel ? `<span class="rating-group__label">${displayLabel}</span>` : ''}</span>`;
+    }).join('');
+
+    element.innerHTML = `<span class="rating-groups">${groups}</span>`;
+  };
+
+  document.querySelectorAll('.article__body .line-guide').forEach((guide) => {
+    const crowding = Array.from(guide.querySelectorAll('dt')).find(
+      (term) => term.textContent?.trim() === 'Typical crowding',
+    );
+    const comfort = Array.from(guide.querySelectorAll('dt')).find(
+      (term) => term.textContent?.trim() === 'Comfort',
+    );
+
+    if (crowding) addRatingIcons(crowding.nextElementSibling, 'crowding');
+    if (comfort) addRatingIcons(comfort.nextElementSibling, 'comfort');
+  });
+
+  document.querySelectorAll('.article__body td[data-label="Typical crowding"]').forEach((cell) => addRatingIcons(cell, 'crowding'));
+  document.querySelectorAll('.article__body td[data-label="Comfort"]').forEach((cell) => addRatingIcons(cell, 'comfort'));
+
+  const overgroundTable = Array.from(document.querySelectorAll('.article__body table')).find(
+    (table) => table.querySelector('th')?.textContent?.trim() === 'Overground line',
+  );
+  if (overgroundTable) {
+    overgroundTable.classList.add('overground-comparison');
+    overgroundTable.querySelectorAll('tbody tr').forEach((row) => {
+      const cells = row.querySelectorAll('td');
+      addRatingIcons(cells[3], 'crowding');
+      addRatingIcons(cells[4], 'comfort');
+    });
+  }
+
+  document.querySelectorAll('.article__body .line-guide').forEach((guide) => {
+    const details = Array.from(guide.children).filter((child) => child.tagName !== 'DL');
+    details.reverse().forEach((detail) => guide.after(detail));
+  });
+
+  document.querySelectorAll<HTMLElement>('.article__body dt, .article__body th, .article__body td').forEach((element) => {
+    if (element.textContent?.trim() === 'Air-conditioning') element.textContent = 'A/C';
+    if (element.dataset.label === 'Air-conditioning') element.dataset.label = 'A/C';
+  });
+</script>

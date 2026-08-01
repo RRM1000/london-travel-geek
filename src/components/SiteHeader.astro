@@ -7,75 +7,227 @@ interface Props {
 }
 
 const { site } = Astro.props;
+const currentDate = new Date().toLocaleDateString("en-US", {
+  month: "long",
+  day: "numeric",
+  year: "numeric",
+}).toUpperCase();
 ---
 
-<header class="header">
-  <div class="container header__inner">
-    <SiteLogo site={site} />
+<header class="site-header">
+  <!-- Top White Logo Banner -->
+  <div class="header-banner">
+    <div class="container header-banner__inner">
+      <SiteLogo site={site} />
+    </div>
+  </div>
 
-    <nav class="desktop-nav" aria-label="Primary">
-      <ul>
-        {site.navigation.map((item) => (
-          <li><a href={item.href}>{item.label}</a></li>
-        ))}
-      </ul>
-    </nav>
-
-    <details class="mobile-nav">
-      <summary aria-label="Open navigation">
-        <span></span><span></span><span></span>
-      </summary>
-      <nav aria-label="Mobile">
-        <ul>
+  <!-- Full-Width Dark Navigation Bar -->
+  <div class="header-navbar">
+    <div class="container header-navbar__inner">
+      <nav class="desktop-nav" aria-label="Primary navigation">
+        <ul class="nav-list">
           {site.navigation.map((item) => (
-            <li><a href={item.href}>{item.label}</a></li>
+            <li class="nav-item">
+              <a class="nav-link" href={item.href}>{item.label}</a>
+            </li>
           ))}
         </ul>
       </nav>
-    </details>
+
+      <a class="cta-button" href="/topics/london-itineraries/">
+        Plan Your Trip <span class="cta-arrow" aria-hidden="true">&rarr;</span>
+      </a>
+
+      <details class="mobile-nav">
+        <summary aria-label="Toggle mobile menu">
+          <span></span><span></span><span></span>
+        </summary>
+        <nav aria-label="Mobile navigation">
+          <ul>
+            {site.navigation.map((item) => (
+              <li><a href={item.href}>{item.label}</a></li>
+            ))}
+            <li><a href="/topics/london-itineraries/" class="mobile-cta">Plan Your Trip &rarr;</a></li>
+          </ul>
+        </nav>
+      </details>
+    </div>
+  </div>
+
+  <!-- Sub-Header Date & Search Bar -->
+  <div class="header-subbar">
+    <div class="container header-subbar__inner">
+      <div class="subbar-date">{currentDate}</div>
+      <form class="subbar-search" action="/guides/" method="get" role="search">
+        <input 
+          type="search" 
+          name="q" 
+          placeholder="SEARCH GUIDES..." 
+          aria-label="Search guides"
+        />
+        <button type="submit" aria-label="Search">🔍</button>
+      </form>
+    </div>
   </div>
 </header>
 
 <style>
-  .header {
-    position: sticky;
-    z-index: 10;
-    top: 0;
+  .site-header {
+    width: 100%;
     border-bottom: 1px solid var(--line);
-    background: color-mix(in srgb, var(--bg) 94%, transparent);
-    box-shadow: 0 1px 0 rgb(19 42 56 / 0.04);
-    backdrop-filter: blur(18px);
+    background: #ffffff;
   }
 
-  .header__inner {
+  /* 1. Top White Logo Banner */
+  .header-banner {
+    background: #ffffff;
+    padding-block: 1.25rem;
+    border-bottom: 1px solid #eeeeee;
+  }
+
+  .header-banner__inner {
     display: flex;
-    min-height: 5rem;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  /* 2. Full-Width Dark Navigation Bar */
+  .header-navbar {
+    position: sticky;
+    top: 0;
+    z-index: 90;
+    background: #181818;
+    color: #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  .header-navbar__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 3.4rem;
+  }
+
+  .desktop-nav {
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+
+  .nav-list {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 100%;
+  }
+
+  .nav-item {
+    display: flex;
+    align-items: center;
+    border-right: 1px solid rgba(255, 255, 255, 0.12);
+  }
+
+  .nav-item:first-child {
+    border-left: 1px solid rgba(255, 255, 255, 0.12);
+  }
+
+  .nav-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.9rem 1.4rem;
+    color: #ffffff;
+    font-family: var(--display), "Outfit", sans-serif;
+    font-size: 0.88rem;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+
+  .nav-link:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: #FF2D2E;
+  }
+
+  /* Red Action Button */
+  .cta-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.9rem 1.5rem;
+    background: #FF2D2E;
+    color: #ffffff;
+    font-family: var(--display), "Outfit", sans-serif;
+    font-size: 0.88rem;
+    font-weight: 900;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background 0.15s ease;
+  }
+
+  .cta-button:hover {
+    background: #D9161B;
+  }
+
+  .cta-arrow {
+    font-size: 1.1rem;
+  }
+
+  /* 3. Sub-Header Date & Search Bar */
+  .header-subbar {
+    background: #f5f5f5;
+    border-bottom: 1px solid #e0e0e0;
+    padding-block: 0.45rem;
+  }
+
+  .header-subbar__inner {
+    display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 1rem;
   }
 
-  .desktop-nav ul {
+  .subbar-date {
+    color: #555555;
+    font-family: var(--display), sans-serif;
+    font-size: 0.76rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+  }
+
+  .subbar-search {
     display: flex;
     align-items: center;
-    gap: clamp(1rem, 2.5vw, 2rem);
+    background: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    overflow: hidden;
   }
 
-  .desktop-nav a,
-  .mobile-nav a {
-    font-size: 0.88rem;
-    font-weight: 750;
-    text-decoration: none;
-    text-underline-offset: 0.4rem;
+  .subbar-search input {
+    padding: 0.25rem 0.6rem;
+    border: 0;
+    font-family: var(--body);
+    font-size: 0.78rem;
+    color: #333333;
+    outline: none;
+    width: 11rem;
   }
 
-  .desktop-nav a:hover {
-    color: var(--accent);
-    text-decoration: underline;
-    text-decoration-color: var(--highlight);
-    text-decoration-thickness: 0.18rem;
+  .subbar-search button {
+    padding: 0.25rem 0.5rem;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+    font-size: 0.8rem;
   }
 
+  /* Mobile Navigation Toggle */
   .mobile-nav {
     display: none;
     position: relative;
@@ -83,13 +235,13 @@ const { site } = Astro.props;
 
   summary {
     display: grid;
-    width: 2.75rem;
+    width: 2.5rem;
     aspect-ratio: 1;
     cursor: pointer;
     place-content: center;
     gap: 0.25rem;
-    border: 1px solid var(--line);
-    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 4px;
     list-style: none;
   }
 
@@ -98,40 +250,67 @@ const { site } = Astro.props;
   }
 
   summary span {
-    width: 1.05rem;
+    width: 1.1rem;
     height: 2px;
-    background: var(--ink);
+    background: #ffffff;
   }
 
   .mobile-nav nav {
     position: absolute;
-    top: calc(100% + 0.75rem);
+    top: calc(100% + 0.5rem);
     right: 0;
-    width: min(17rem, calc(100vw - 2rem));
-    padding: 0.75rem;
-    border: 1px solid var(--line);
-    border-radius: var(--radius-md);
-    background: var(--surface);
-    box-shadow: var(--shadow);
+    width: min(16rem, calc(100vw - 2rem));
+    padding: 0.5rem;
+    border-radius: 6px;
+    background: #181818;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+    z-index: 100;
+  }
+
+  .mobile-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
   }
 
   .mobile-nav a {
     display: block;
-    padding: 0.75rem;
-    border-radius: var(--radius-sm);
+    padding: 0.65rem 0.85rem;
+    color: #ffffff;
+    font-family: var(--display), sans-serif;
+    font-size: 0.85rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 4px;
   }
 
   .mobile-nav a:hover {
-    background: var(--surface-strong);
+    background: rgba(255, 255, 255, 0.1);
   }
 
-  @media (max-width: 48rem) {
-    .desktop-nav {
+  .mobile-cta {
+    background: #FF2D2E !important;
+    color: #ffffff !important;
+    text-align: center;
+    margin-top: 0.4rem;
+  }
+
+  @media (max-width: 54rem) {
+    .desktop-nav,
+    .cta-button {
       display: none;
     }
 
     .mobile-nav {
       display: block;
+    }
+
+    .subbar-search input {
+      width: 8rem;
     }
   }
 </style>

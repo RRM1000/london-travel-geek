@@ -53,11 +53,11 @@ Prices and times were checked on **28 July 2026**.
 
 ## Luton Airport Express
 
-“Luton Airport Express” is the airport name for the fast East Midlands Railway service between St Pancras International and Luton Airport Parkway. The fastest trains make the rail section in around **22 minutes** and normally run twice an hour.
+“Luton Airport Express” is the airport name for the fast East Midlands Railway service between St Pancras International and Luton Airport Parkway. The fastest trains make the journey in around **22 minutes** and normally run twice an hour.
 
-You still need the Luton DART at the airport end, so the fastest advertised terminal-to-St-Pancras journey is about **32 minutes**. Include time for walking, waiting and ticket gates.
+You still need the Luton DART at the airport end, so the fastest advertised terminal-to-St-Pancras journey is about **32 minutes**. Ensure you include time for walking checking-in.
 
-The service is best when St Pancras is your destination. Refurbished Class 360 trains are entering service during summer 2026 with improved seating, luggage provision, power and passenger information.
+This service is best when St Pancras is closer to your destination. Refurbished Class 360 trains are entering service during summer 2026 with improved seating, luggage provision, power and passenger information.
 
 ## Thameslink
 
@@ -98,7 +98,7 @@ The fastest advertised journeys can be around 50 minutes, while normal central-L
 
 ## Taxis and private hire
 
-For central London, rail is normally faster and cheaper. A licensed taxi or pre-booked vehicle can suit a group, substantial luggage, limited mobility or an address far from the rail corridors.
+For central London, rail is normally faster and cheaper. A licensed taxi or pre-booked vehicle can suit a group, substantial luggage, limited mobility or an address far from a train station.
 
 Confirm the full quote, meeting point, waiting fees, luggage and child-seat arrangements. Do not accept an unsolicited ride.
 
@@ -114,7 +114,7 @@ Do not confuse:
 
 ## Travelling to Luton for departure
 
-Check the airline deadline, live flight status, National Rail disruption and DART status. Allow for the DART even when a journey planner shows a tight connection.
+Check the airline live flight status, National Rail disruption and DART status.
 
 Trains operate through much of the night, but frequency and stopping patterns vary. Engineering work is particularly important because the replacement route from Parkway or London may take longer.
 
@@ -128,14 +128,14 @@ Save the hotel address, through-ticket barcode and flight information offline.
 
 ## Luggage and accessibility
 
-The DART and its stations are step-free. Request airline assistance and Passenger Assist separately, check lifts at the London destination and avoid a tight connection when carrying several cases.
+The DART and its stations are step-free. Request airline assistance and Passenger Assist separately, check lifts at the London destination.
 
 ## Common mistakes
 
 - Buying a ticket to Luton town rather than the airport.
 - Selecting Luton Airport Parkway and assuming the DART is included.
 - Taking the Express to St Pancras when Thameslink directly serves the hotel area.
-- Trying to use Oyster outside its valid area.
+- Using an Oyster card.
 - Forgetting to allow for the DART on the way to a flight.
 - Using different contactless cards or devices during one journey.
 
