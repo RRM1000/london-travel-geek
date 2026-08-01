@@ -13,6 +13,7 @@ interface Props {
   socialImageAlt?: string;
   publishedAt?: Date;
   updatedAt?: Date;
+  breadcrumbs?: Array<{ label: string; href?: string }>;
 }
 
 const {
@@ -24,6 +25,7 @@ const {
   socialImageAlt = "London Travel Geek — practical London travel guides",
   publishedAt,
   updatedAt,
+  breadcrumbs = [],
 } = Astro.props;
 
 const pageTitle =
@@ -63,7 +65,22 @@ const structuredData = {
     },
   },
 };
-const jsonLd = JSON.stringify(structuredData).replace(/</g, "\\u003c");
+const breadcrumbData =
+  breadcrumbs.length > 0
+    ? {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        itemListElement: breadcrumbs.map((breadcrumb, index) => ({
+          "@type": "ListItem",
+          position: index + 1,
+          name: breadcrumb.label,
+          item: new URL(breadcrumb.href ?? Astro.url.pathname, siteOrigin).toString(),
+        })),
+      }
+    : undefined;
+const jsonLd = JSON.stringify(
+  breadcrumbData ? [structuredData, breadcrumbData] : structuredData,
+).replace(/</g, "\\u003c");
 ---
 
 <!doctype html>
@@ -114,6 +131,13 @@ const jsonLd = JSON.stringify(structuredData).replace(/</g, "\\u003c");
 
     <title>{pageTitle}</title>
     <script type="application/ld+json" set:html={jsonLd} is:inline></script>
+    <script
+      is:inline
+      async
+      defer
+      src="https://widget.getyourguide.com/dist/pa.umd.production.min.js"
+      data-gyg-partner-id="WWP7I0R"
+    ></script>
   </head>
   <body data-site={activeSite.id}>
     <a class="skip-link" href="#main-content">Skip to content</a>
@@ -122,6 +146,23 @@ const jsonLd = JSON.stringify(structuredData).replace(/</g, "\\u003c");
       <slot />
     </main>
     <SiteFooter site={activeSite} />
+    <script>
+      for (const link of document.querySelectorAll<HTMLAnchorElement>(
+        'a[href^="http://"], a[href^="https://"]',
+      )) {
+        if (link.origin === window.location.origin) continue;
+
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.classList.add("external-link");
+
+        const existingLabel = link.getAttribute("aria-label");
+        if (!existingLabel?.includes("opens in a new tab")) {
+          const label = existingLabel || link.textContent?.trim() || "External link";
+          link.setAttribute("aria-label", `${label} (opens in a new tab)`);
+        }
+      }
+    </script>
   </body>
 </html>
 
@@ -141,5 +182,13 @@ const jsonLd = JSON.stringify(structuredData).replace(/</g, "\\u003c");
 
   .skip-link:focus {
     translate: 0;
+  }
+
+  a.external-link::after {
+    content: " ↗";
+    display: inline-block;
+    font-size: 0.8em;
+    line-height: 1;
+    text-decoration: none;
   }
 </style>

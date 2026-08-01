@@ -1,5 +1,6 @@
 ---
 title: "Luton Airport to London: Every Transport Option Compared"
+seoTitle: "Luton Airport to London: Transport Guide"
 description: "A practical guide to Luton Airport Express, Thameslink, the Luton DART, coaches and taxis, with 2026 fares and the best route for each part of London."
 publishedAt: 2026-07-28
 sites:
@@ -149,11 +150,3 @@ The DART and its stations are step-free. Request airline assistance and Passenge
 ---
 
 *Information checked on 28 July 2026. Verify fares, timetables and flight details before travel.*
-
-### Research sources
-
-- [London Luton Airport: Central London trains](https://www.london-luton.co.uk/to-and-from-lla/trains/to-from-london)
-- [London Luton Airport: Fare finder and DART prices](https://www.london-luton.co.uk/to-and-from-lla/use-our-farefinder)
-- [London Luton Airport: Coaches](https://www.london-luton.co.uk/to-and-from-lla/bus-and-coach/to-from-london)
-- [London Luton Airport: Luton Airport Express](https://www.london-luton.co.uk/why-use-luton-airport-express)
-- [London Luton Airport: 2026 train refurbishment](https://mediahub.london-luton.co.uk/news/luton-airport-express-passengers/12062026)

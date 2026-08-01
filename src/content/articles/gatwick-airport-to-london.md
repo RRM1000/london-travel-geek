@@ -1,5 +1,6 @@
 ---
 title: "Gatwick Airport to London: Every Transport Option Compared"
+seoTitle: "Gatwick Airport to London: Transport Guide"
 description: "A practical guide to Gatwick Express, Southern, Thameslink, coaches and taxis, including 2026 fares, terminals and the best route for each part of London."
 publishedAt: 2026-07-28
 sites:
@@ -12,7 +13,7 @@ tags:
   - Southern
   - Thameslink
   - airport transfers
-  - London transport
+  - transport
 draft: false
 heroImage: "../../assets/articles/gatwick-airport/gatwick-south-terminal.jpg"
 heroImageAlt: "The exterior of Gatwick Airport South Terminal"
@@ -289,19 +290,3 @@ Gatwick publishes an [assisted-travel guide](https://www.gatwickairport.com/pass
 ---
 
 *Information and example prices checked on 28 July 2026. Fares, timetables, terminal assignments and promotional tickets change. Verify the exact journey with Gatwick Airport, National Rail, TfL and the operator before travel.*
-
-### Research sources
-
-- [Gatwick Airport: Trains](https://www.gatwickairport.com/transport-options/train.html)
-- [Gatwick Airport: Coaches and buses](https://www.gatwickairport.com/transport-options/coach-bus.html)
-- [Gatwick Airport: Wi-Fi and charging](https://www.gatwickairport.com/passenger-guides/wifi-charging.html)
-- [Gatwick Airport: Assisted travel](https://www.gatwickairport.com/passenger-guides/assisted-travel.html)
-- [Gatwick Airport: Checking in](https://www.gatwickairport.com/passenger-guides/checking-in.html)
-- [Gatwick Airport: Picking up and dropping off](https://www.gatwickairport.com/transport-options/pick-up.html)
-- [Gatwick Airport: 2026 overnight transport expansion](https://www.mediacentre.gatwickairport.com/news/overnight-public-transport-boost-for-london-gatwick-passengers-ahead-of-summer-getaway-season-5bb31-40f32.html)
-- [Gatwick Express: Tickets](https://www.gatwickexpress.com/tickets)
-- [Gatwick Express: Oyster](https://www.gatwickexpress.com/tickets/pay-as-you-go/oyster)
-- [Gatwick Express: Contactless](https://www.gatwickexpress.com/tickets/pay-as-you-go/contactless-travel)
-- [Gatwick Express: Transfer to public ownership](https://www.gatwickexpress.com/about-us/transfer-to-public-ownership)
-- [TfL: Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder)
-- [National Rail: Live trains](https://www.nationalrail.co.uk/live-trains/)

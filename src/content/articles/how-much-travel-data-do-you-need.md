@@ -1,5 +1,6 @@
 ---
 title: "How Much Mobile Data Do You Need When Travelling?"
+seoTitle: "How Much Mobile Data Do You Need?"
 description: "Estimate the mobile-data allowance needed for maps, messaging, social media, video calls, streaming and hotspot use on a holiday."
 publishedAt: 2026-07-28
 sites:
@@ -12,6 +13,12 @@ tags:
   - data allowance
   - travel planning
 draft: false
+heroImage: "../../assets/articles/how-much-travel-data-do-you-need/how-much-travel-data-do-you-need.jpg"
+heroImageAlt: "A person holding a smartphone displaying a navigation map"
+heroImageCredit: "Santeri Viinamäki"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Smartphone_with_navigation_map_app.jpg"
+heroImageLicense: "CC BY-SA 4.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
 
 The right allowance depends less on trip length than on video. Maps, messages and booking apps use relatively little data; social video, cloud photo uploads, video calls and tethering can consume several gigabytes quickly.
@@ -101,10 +108,3 @@ Avoid automatic top-ups unless you understand the price. Set data warnings on th
 ---
 
 *The figures are practical estimates, not provider guarantees. Check actual device usage and plan conditions before purchasing.*
-
-### Research sources
-
-- [Ofcom: Using your mobile abroad](https://www.ofcom.org.uk/phones-and-broadband/saving-money/using-your-mobile-abroad)
-- [Apple: View or change cellular data settings](https://support.apple.com/guide/iphone/view-or-change-cellular-data-settings-iph3dd5f213/ios)
-- [Apple: Using an eSIM while travelling](https://support.apple.com/en-us/118227)
-

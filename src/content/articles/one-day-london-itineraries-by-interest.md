@@ -1,12 +1,19 @@
 ---
 title: "Six One-Day London Itineraries for Different Interests"
+seoTitle: "One-Day London Itineraries by Interest"
 description: "One-day London plans for theatre fans, museum lovers, families, food-focused visitors and first-time sightseeing."
 publishedAt: 2026-07-28
 sites: [london]
 canonicalSite: london
 category: "London itineraries"
-tags: [one day in London, theatre, museums, family London, London food]
+tags: [one-day itineraries, theatre, museums, family travel, food]
 draft: false
+heroImage: "../../assets/articles/one-day-london-itineraries-by-interest/one-day-london-itineraries-by-interest.jpg"
+heroImageAlt: "Visitors carrying umbrellas through Trafalgar Square on a rainy day"
+heroImageCredit: "oatsy40"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Trafalgar_Square_2025-02-26.jpg"
+heroImageLicense: "CC BY 2.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
 These plans are designed for people who would rather explore one theme properly than race between unrelated landmarks.
@@ -85,11 +92,3 @@ Confirm lifts on the exact date and request venue or boat assistance in advance.
 ---
 
 *Plans checked on 28 July 2026. Confirm opening hours, performances, accessibility and reservations.*
-
-### Research sources
-
-- [Official London Theatre](https://officiallondontheatre.com/)
-- [British Museum](https://www.britishmuseum.org/)
-- [V&A](https://www.vam.ac.uk/)
-- [Natural History Museum](https://www.nhm.ac.uk/)
-- [Royal Museums Greenwich](https://www.rmg.co.uk/)

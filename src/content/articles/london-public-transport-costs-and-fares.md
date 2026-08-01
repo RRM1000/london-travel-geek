@@ -1,13 +1,15 @@
 ---
 title: "How Much Does London Public Transport Cost? 2026 Fares Guide"
-description: "Current London transport prices for the Tube, trains, buses, trams, boats, cable car, cycles and taxis, with peak times, caps and ways to save."
+seoTitle: "London Transport Fares and Costs 2026"
+description: "Current London transport prices for adults and children, covering the Tube, trains, buses, trams, boats, cable car, cycles and taxis."
 publishedAt: 2026-07-28
+updatedAt: 2026-07-31
 sites:
   - london
 canonicalSite: london
 category: "Getting around London"
 tags:
-  - London transport costs
+  - transport costs
   - TfL fares
   - Oyster card
   - contactless payment
@@ -24,7 +26,15 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 
 London transport prices depend on the service, zones, time of travel and how you pay. Contactless or Oyster pay as you go is normally the simplest and least expensive choice for an adult visitor because eligible journeys are automatically capped.
 
-> **Fare snapshot:** prices on this page were checked on **28 July 2026**. The next confirmed change is on **1 November 2026**, when adult bus and tram fares rise. Always use TfL's [Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder) for an exact station-to-station rail fare.
+> **Fare snapshot:** prices on this page were checked on **31 July 2026**. The next confirmed change is on **1 November 2026**, when adult bus and tram fares rise. Always use TfL's [Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder) for an exact station-to-station rail fare.
+
+> **Quick reference: the fares most visitors need**
+>
+> - **Tube, Elizabeth line, Overground or DLR in Zones 1–2:** a two-zone journey including Zone 1 costs **£3.60 peak** or **£3.10 off-peak**. A one-zone Zone 1 journey is £3.10 peak or £3 off-peak.
+> - **Zones 1–2 daily cap:** pay no more than **£8.90** for eligible Tube, Elizabeth line, Overground, DLR, bus and tram travel when you keep using the same Oyster or contactless card or device.
+> - **London bus or tram:** **£1.75** per adult, including further bus and tram journeys started within one hour. The bus-and-tram-only daily cap is **£5.25**.
+> - **Children under 11:** usually travel free on the main TfL services. On rail services they must be with a fare-paying adult, with up to four children per adult.
+> - **Visitors aged 11–15:** pay half the adult pay-as-you-go fares and caps for up to 14 days after the **Young Visitor discount** is added to an Oyster or Visitor Oyster card. A contactless bank card charges the adult fare.
 
 Not sure which payment method to choose? Read the [complete Oyster card and contactless guide](/articles/oyster-card-guide-london/), including the current card fee, where Oyster works and when your own bank card is the better option.
 
@@ -260,37 +270,24 @@ Private-hire services such as Uber show a quote in their app. Prices vary with d
 11. **Use a Travelcard river discount.** Eligible Travelcard holders get one third off many River Bus fares.
 12. **Check concessions.** Children, students, apprentices, care leavers, veterans, older residents and some jobseekers may qualify for free or discounted travel.
 
-## How this page will be kept current
+## How much do children pay?
 
-Fare content should be maintained as a dated snapshot, not silently presented as permanent.
+The answer depends on the child's age, the transport used and whether they have the right Oyster discount. These are the rules most families visiting London need:
 
-The recommended process is:
+| Child's age or ticket | Tube, DLR, London Overground and Elizabeth line | Buses and trams | What a visitor needs |
+| --- | --- | --- | --- |
+| **Under 5** | Free with a fare-paying adult | Free | No separate card |
+| **Age 5–10** | Free with a fare-paying adult; up to four children can travel with each adult | Free | No separate card for these main TfL journeys; use the wider staffed gate together |
+| **Age 11–15 with Young Visitor discount** | Half the adult pay-as-you-go fare and half the adult cap | Half the adult pay-as-you-go fare | A separate Oyster or Visitor Oyster card for each child; ask TfL staff to add the discount |
+| **Age 11–15 with an 11–15 Zip Oyster photocard** | Child fares and caps | Free | Apply in advance; this is usually more useful for London residents or longer stays |
+| **Age 16–17 without a 16+ Zip Oyster photocard** | Adult fare | Adult fare | Use adult Oyster or contactless |
 
-1. Update the visible **Fare snapshot** date whenever any value is checked or changed.
-2. Add `updatedAt` to this article's frontmatter after the first revision so readers see the update date beside the title.
-3. Review the page every February for the usual March fare revision.
-4. Perform an event-driven review on **1 November 2026**, the next confirmed change.
-5. Check bus and tram trial announcements after **31 August 2026**.
-6. Check TfL, City Hall, Uber Boat, National Rail and Santander Cycles separately because their prices do not all change together.
-7. Keep direct links to source tables so a reader can verify a fare between scheduled reviews.
+The **Young Visitor discount** lasts for up to 14 days. The child must be present when a member of staff adds it at most Tube stations, a TfL Visitor Centre or the National Rail ticket office at Victoria. It cannot be added to a contactless bank card or phone. For example, the current adult Zones 1–2 daily cap is £8.90, so the equivalent Young Visitor cap is **£4.45**.
 
-No further Tube or TfL rail increase after the March 2026 change had been announced when this page was checked. Travelcards and multimodal caps are frozen until March 2027, while the bus and tram changes for November 2026 are already confirmed.
+The free travel rule for children aged 5–10 applies on the Tube, DLR, London Overground, Elizabeth line and some National Rail services when accompanied by a fare-paying adult. National Rail exceptions exist, particularly beyond the TfL network, so check the exact journey. River services, the IFS Cloud Cable Car and airport express trains have their own child tickets; those prices are covered separately above.
+
+See TfL's [visitor guide to travelling with children](https://tfl.gov.uk/travel-information/visiting-london/getting-around-london/best-ways-for-visitors-to-pay) and [free and discounted travel rules](https://tfl.gov.uk/fares/free-and-discounted-travel) for the latest eligibility details.
 
 ---
 
-*Fares checked on 28 July 2026. This guide covers standard adult prices unless stated otherwise. Always verify an exact journey before buying a non-refundable ticket.*
-
-### Official fare sources
-
-- [TfL: Find fares](https://tfl.gov.uk/fares/find-fares)
-- [TfL: Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder)
-- [TfL: 2026 adult caps and Travelcards](https://content.tfl.gov.uk/adult-fares.pdf)
-- [City Hall: March 2026 fare decision](https://www.london.gov.uk/md3464-march-2026-transport-london-fare-changes)
-- [City Hall: July and November 2026 fare changes](https://www.london.gov.uk/md3517-july-2026-fare-changes)
-- [City Hall: Weekend Hopper trial](https://www.london.gov.uk/md3502-weekend-bus-hopper-trial)
-- [TfL: Bus and tram fares](https://tfl.gov.uk/fares/find-fares/bus-and-tram-fares)
-- [TfL: Cable Car fares](https://tfl.gov.uk/fares/find-fares/ifs-cloud-cable-car-fares)
-- [TfL: River fares](https://tfl.gov.uk/fares/find-fares/river-fares)
-- [Uber Boat by Thames Clippers: ticket prices](https://www.thamesclippers.com/plan-your-journey/ticket-information)
-- [TfL: Santander Cycles prices](https://tfl.gov.uk/modes/cycling/santander-cycles/what-you-pay)
-- [TfL: 2026 taxi fare card](https://content.tfl.gov.uk/taxi-fare-card-2026.pdf)
+*Fares checked on 31 July 2026. Adult prices are shown unless a child or concession fare is stated. Always verify an exact journey before buying a non-refundable ticket.*

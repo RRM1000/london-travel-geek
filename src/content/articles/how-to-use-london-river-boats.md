@@ -1,5 +1,6 @@
 ---
 title: "How to Use London River Boats: Fares, Routes and Thames Cruises"
+seoTitle: "How to Use London River Boats"
 description: "A practical guide to London's River Bus, including 2026 zone fares, day tickets, scenic routes, speedboats, dining cruises and the River Bus Comedy Night."
 publishedAt: 2026-07-28
 sites:
@@ -7,12 +8,12 @@ sites:
 canonicalSite: london
 category: "Getting around London"
 tags:
-  - London River Bus
+  - River Bus
   - Uber Boat
   - Thames Clippers
   - Thames cruises
   - Greenwich
-  - London sightseeing
+  - sightseeing
 draft: false
 heroImage: "../../assets/articles/getting-around-london/river-bus.jpg"
 heroImageAlt: "An Uber Boat by Thames Clippers River Bus travelling along the River Thames"
@@ -69,7 +70,7 @@ The network has three fare zones. Your ticket must cover every zone through whic
 
 Tower to Greenwich therefore needs a **Central and East** ticket. Putney to Westminster needs **Central and West**, while Putney to Greenwich crosses **all zones**.
 
-Use the operator's [river travel zones and pier guide](https://www.thamesclippers.com/plan-your-journey) before buying, particularly if your journey begins or ends close to a zone boundary.
+Use the operator's [river travel zones and pier guide](https://www.thamesclippers.com/plan-your-journey) before buying, particularly if your journey begins or ends close to a zone boundary. TfL's [River Services map](https://content.tfl.gov.uk/riverservices-map.pdf) is also useful for seeing the piers along the Thames at a glance.
 
 ## Current River Bus single fares
 
@@ -124,7 +125,11 @@ Check the operator's eligibility rules before relying on a discount.
 
 ### Westminster or London Eye to Greenwich
 
-This is the strongest first river journey for many visitors. You pass the central skyline, the City, Tower Bridge, historic riverside warehouses and Docklands before arriving near the Cutty Sark and the Old Royal Naval College.
+This is one of the best river journeys for first-time visitors. You pass the central skyline, the City, Tower Bridge, historic riverside warehouses and Docklands before arriving near the Cutty Sark and the Old Royal Naval College.
+
+![Tower Bridge seen from the deck of a river boat passing directly beneath it.](../../assets/articles/getting-around-london/tower-bridge-from-river-boat.png)
+
+*Tower Bridge is one of the highlights of the Westminster or London Eye-to-Greenwich journey: the boat passes directly underneath it, giving you one of the most dynamic views of the iconic bridge.*
 
 It requires a Central and East fare. Travel one way by boat and return by DLR, Southeastern or the Elizabeth line to avoid repeating the same route.
 
@@ -290,16 +295,3 @@ For a first visit, a scheduled boat to Greenwich gives the best balance of trans
 ---
 
 *Fares, offers, access information and event dates checked on 28 July 2026. River timetables and commercial experience prices can change, so verify the live operator page before booking.*
-
-### Research sources
-
-- [TfL: River fares and operators](https://tfl.gov.uk/fares/find-fares/river-fares)
-- [TfL: River services](https://tfl.gov.uk/modes/river/)
-- [Uber Boat by Thames Clippers: tickets and current fares](https://www.thamesclippers.com/plan-your-journey/ticket-information)
-- [Uber Boat by Thames Clippers: summer 2026 service and price changes](https://www.thamesclippers.com/plan-your-journey/service-changes)
-- [Uber Boat by Thames Clippers: commuter and Cross River tickets](https://www.thamesclippers.com/commuters/commuter-tickets)
-- [Uber Boat by Thames Clippers: River Bus Comedy Night](https://www.thamesclippers.com/whats-on-and-offers/river-bus-comedy-night)
-- [Thames Rockets: river experiences](https://www.thamesrockets.com/thames-river-experiences/)
-- [Thames RIB Experience: trips](https://thamesribexperience.com/the-experience)
-- [City Cruises: London dining and sightseeing cruises](https://www.cityexperiences.com/london/city-cruises/)
-- [London Eye: River Cruise](https://www.londoneye.com/tickets-and-prices/general-tickets/river-cruise/)

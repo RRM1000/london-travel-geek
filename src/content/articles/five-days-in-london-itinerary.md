@@ -1,12 +1,19 @@
 ---
 title: "Five Days in London: A Balanced First-Time Itinerary"
+seoTitle: "Five Days in London Itinerary"
 description: "A five-day London itinerary combining essential landmarks, museums, Greenwich, neighbourhoods, food and an optional theatre evening."
 publishedAt: 2026-07-28
 sites: [london]
 canonicalSite: london
 category: "London itineraries"
-tags: [London in 5 days, London itinerary, London sightseeing]
+tags: [5 days, itineraries, sightseeing]
 draft: false
+heroImage: "../../assets/articles/five-days-in-london-itinerary/five-days-in-london-itinerary.jpg"
+heroImageAlt: "The illuminated City of London skyline reflected in the Thames at night"
+heroImageCredit: "Dimitry B."
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Night_London_Panorama_with_Full_Moon_-_Flickr_-_Dimitry_B.jpg"
+heroImageLicense: "CC BY 2.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
 Five days allows you to see central London's essentials and spend meaningful time in at least two distinct neighbourhoods.
@@ -59,4 +66,3 @@ Do not schedule all of them after full sightseeing days.
 ---
 
 *Confirm market days, museum opening, timed tickets and live transport.*
-

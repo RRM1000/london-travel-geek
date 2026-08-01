@@ -1,6 +1,7 @@
 ---
 title: "Heathrow Airport to London: Every Transport Option Compared"
-description: "A practical guide to the Elizabeth line, Piccadilly line, Heathrow Express, coaches, buses and taxis, including 2026 fares, terminals and the best route for each part of London."
+seoTitle: "Heathrow Airport to London: Transport Guide"
+description: "Compare the Elizabeth line, Tube, Heathrow Express, coaches and taxis from Heathrow, with 2026 fares, terminals and routes for key London areas."
 publishedAt: 2026-07-28
 sites:
   - london
@@ -12,7 +13,7 @@ tags:
   - Piccadilly line
   - Heathrow Express
   - airport transfers
-  - London transport
+  - transport
 draft: false
 heroImage: "../../assets/articles/heathrow-airport/heathrow-terminal-5.jpg"
 heroImageAlt: "The glass exterior of Heathrow Airport Terminal 5"
@@ -289,17 +290,3 @@ Heathrow Express offers the most conventional luggage provision, but the Elizabe
 ---
 
 *Fares, terminal information and airport services checked on 28 July 2026. Always confirm the departure terminal and live transport status before travelling.*
-
-### Research sources
-
-- [Heathrow: Getting to central London](https://www.heathrow.com/transport-and-directions/getting-to-central-london)
-- [Heathrow: Rail and train options](https://www.heathrow.com/transport-and-directions/by-rail-or-train)
-- [Heathrow: London Underground](https://www.heathrow.com/transport-and-directions/by-rail-or-train/london-underground)
-- [TfL: Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder)
-- [Greater London Authority: March 2026 rail fares](https://www.london.gov.uk/media/111831/download)
-- [Heathrow Express: Ticket fares](https://www.heathrowexpress.com/en-us/ticket-fares)
-- [Heathrow: Travel between terminals](https://www.heathrow.com/at-the-airport/airport-maps/travel-between-terminals)
-- [Heathrow: Local buses](https://www.heathrow.com/transport-and-directions/by-coach-or-bus/local-buses)
-- [Heathrow: Internet and Wi-Fi](https://www.heathrow.com/at-the-airport/airport-services/internet-and-wifi)
-- [Heathrow: UK SIMs and phones](https://www.heathrow.com/at-the-airport/airport-services/uk-sims-and-phones)
-- [Heathrow: Live departures](https://www.heathrow.com/departures)

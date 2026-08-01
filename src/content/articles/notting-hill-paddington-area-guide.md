@@ -1,5 +1,6 @@
 ---
 title: "Notting Hill and Paddington Area Guide: Hotels, Food and Transport"
+seoTitle: "Notting Hill and Paddington Area Guide"
 description: "Where to stay, eat and explore around Notting Hill, Bayswater and Paddington, including hotel recommendations and Heathrow transport."
 publishedAt: 2026-07-28
 sites: [london]
@@ -7,6 +8,12 @@ canonicalSite: london
 category: "London areas"
 tags: [Notting Hill, Paddington, Portobello Road, Heathrow]
 draft: false
+heroImage: "../../assets/articles/notting-hill-paddington-area-guide/notting-hill-paddington-area-guide.jpg"
+heroImageAlt: "A row of colourful houses on Lancaster Road in Notting Hill"
+heroImageCredit: "Bex Walton"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Colourful_houses_in_Lancaster_Road,_Notting_Hill_2020-07-05.jpg"
+heroImageLicense: "CC BY 2.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
 Notting Hill offers colourful streets, Portobello Road and neighbourhood restaurants; Paddington offers some of London's best airport and rail connections. Bayswater and Lancaster Gate sit usefully between them.
@@ -55,10 +62,3 @@ For Heathrow, compare Elizabeth line and Heathrow Express using the complete doo
 ---
 
 *Check market days, hotel access and restaurant reservations for your dates.*
-
-### Research sources
-
-- [Portobello Road](https://visitportobello.com/)
-- [The Michelin Guide: The Pelican](https://guide.michelin.com/gb/en/greater-london/london/restaurant/the-pelican)
-- [Heathrow transport guide](/articles/heathrow-airport-to-london/)
-

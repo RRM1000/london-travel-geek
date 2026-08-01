@@ -1,5 +1,6 @@
 ---
 title: "Oyster Card Guide: Should You Use Oyster or Contactless in London?"
+seoTitle: "Oyster Card or Contactless in London?"
 description: "Where Oyster works, what it costs, how to buy and top it up, and whether an adult visitor is better using a contactless bank card."
 publishedAt: 2026-07-28
 sites:
@@ -9,7 +10,7 @@ category: "Getting around London"
 tags:
   - Oyster card
   - contactless payment
-  - London transport
+  - transport
   - Visitor Oyster card
   - budget travel
 draft: false
@@ -161,6 +162,18 @@ You can add pay-as-you-go credit:
 - through a linked TfL account or the official Oyster and contactless app;
 - at a TfL Visitor Centre.
 
+### Topping up at a station ticket machine
+
+1. Place your Oyster card on the yellow reader on the machine.
+2. Check the balance shown on screen, then select **Oyster top up**.
+3. Choose the amount of pay-as-you-go credit you want to add.
+4. Pay by bank card and follow the instructions on screen.
+5. When prompted, place the **same Oyster card** on the yellow reader again. Keep it there until the machine confirms that the credit has been added.
+
+The final tap is important: it loads the credit onto the card. Do not walk away before the confirmation appears.
+
+Some ticket machines accept cash, but many are card-only, so do not rely on being able to pay with notes or coins. If you need to top up with cash, use an [Oyster Ticket Stop](https://tfl.gov.uk/maps/oyster-ticket-stops) such as a participating newsagent or convenience shop.
+
 Do not add a very large balance “just in case”. Estimate your likely daily cap plus any airport, River Bus or Cable Car fares, then top up again if needed. Reclaiming unused credit is possible, but avoiding an unnecessary balance is simpler.
 
 ## How to use the card correctly
@@ -195,6 +208,23 @@ Its additional uses are transport-related:
 
 For most adult visitors, use your own contactless bank card, phone or watch if it works in the UK and your bank does not charge expensive foreign transaction fees. It provides the convenience, fares and caps of Oyster without a £10.50 card fee or top-ups.
 
+### If your bank card is from another country: work out the extra cost
+
+TfL charges the same transport fare to contactless and Oyster users, but a non-UK card may add a foreign-transaction or currency-conversion fee. Check your card issuer's rate before travelling: a common percentage is **1–3%**, though some travel cards charge no fee and others also add a fixed charge per transaction. TfL notes that overseas charges may apply to non-UK cards.
+
+If your bank charges a percentage only, multiply your total London transport spending by that percentage. For example:
+
+| Total London transport spending | 1% bank fee | 2% bank fee | 3% bank fee |
+| --- | ---: | ---: | ---: |
+| £30 | £0.30 | £0.60 | £0.90 |
+| £100 | £1.00 | £2.00 | £3.00 |
+| £200 | £2.00 | £4.00 | £6.00 |
+| £350 | £3.50 | £7.00 | £10.50 |
+
+This puts the **£10.50 Oyster card fee** in perspective. With a 3% bank fee, you would need to spend about **£350** on London transport before the percentage fees alone equal that card fee; at 2%, the equivalent is **£525**. For a short adult visit, contactless can therefore still be cheaper even when it has a modest foreign-use fee.
+
+Oyster only avoids those bank fees if you buy and top it up without using the same fee-charging overseas card—for example, with cash. If you use that card to buy or top up an Oyster card, your bank may charge its foreign-use fee on that payment too. If your card adds a fixed fee for every transaction, Oyster can be the better choice sooner; ask your bank how it treats TfL travel payments and consider a fee-free travel card if you have one.
+
 Buy Oyster when it solves a specific problem: you need cash top-ups, a supported discount or pass, your bank card is unsuitable, or you want a separate travel balance. A Visitor Oyster is mainly about receiving the card before you arrive, not about obtaining cheaper adult fares.
 
 Whatever you choose, use one card or device per person, keep using the same payment method, touch correctly and avoid unnecessary paper single tickets.
@@ -213,13 +243,3 @@ Whatever you choose, use one card or device per person, keep using the same paym
 ---
 
 *Information and prices checked on 28 July 2026. TfL changed the standard Oyster card fee to £10.50 on 1 March 2026 and the Visitor Oyster activation fee to £10.50 on 1 April 2026. Fares, boundaries, fees and discounts can change; verify time-sensitive details before travelling.*
-
-### Research sources
-
-- [TfL: Commissioner decision on 2026–27 fees and charges](https://foi.tfl.gov.uk/FOI-0778-2627/Fees%20and%20Charges%202026-27%20-%20Commissioner%20decision%20paper%20%28approved%29.pdf)
-- [TfL Visitor Shop: Visitor Oyster card](https://visitorshop.tfl.gov.uk/en/london-visitor-oyster-card)
-- [TfL: Oyster cards and contactless](https://tfl.gov.uk/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/oyster-and-contactless)
-- [TfL: Pay the right fare](https://tfl.gov.uk/fares/pay-the-right-fare)
-- [TfL: River fares](https://tfl.gov.uk/fares/find-fares/river-fares)
-- [TfL: IFS Cloud Cable Car fares](https://tfl.gov.uk/fares/find-fares/ifs-cloud-cable-car-fares)
-- [TfL: Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder)

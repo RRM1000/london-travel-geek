@@ -1,12 +1,19 @@
 ---
 title: "City and Shoreditch Area Guide: Hotels, Restaurants and Nightlife"
+seoTitle: "City and Shoreditch Area Guide"
 description: "A guide to the City of London, Spitalfields and Shoreditch, including historic sights, nightlife, hotel choices and restaurant recommendations."
 publishedAt: 2026-07-28
 sites: [london]
 canonicalSite: london
 category: "London areas"
-tags: [City of London, Shoreditch, Spitalfields, London nightlife]
+tags: [City of London, Shoreditch, Spitalfields, nightlife]
 draft: false
+heroImage: "../../assets/articles/city-shoreditch-area-guide/city-shoreditch-area-guide.jpg"
+heroImageAlt: "A large boot mural painted on a building in Shoreditch"
+heroImageCredit: "Loco Steve"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Doc_Martens_Street_art_in_Shoreditch_London..._(23426812493).jpg"
+heroImageLicense: "CC BY-SA 2.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
 
 The City layers Roman walls, medieval churches and modern towers; Shoreditch and Spitalfields add markets, restaurants, street art and nightlife.
@@ -57,10 +64,3 @@ The area is excellent for London City Airport via DLR connections and for Heathr
 ---
 
 *Recommendations checked against current 2026 selections. Reserve destination restaurants early.*
-
-### Research sources
-
-- [Michelin: Shoreditch hotels](https://guide.michelin.com/en/article/travel/best-hotels-shoreditch-east-london)
-- [Michelin: London restaurants](https://guide.michelin.com/gb/en/greater-london/restaurants)
-- [City of London visitor information](https://www.thecityofldn.com/)
-

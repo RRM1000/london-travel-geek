@@ -1,5 +1,6 @@
 ---
 title: "Southend Airport to London: Every Transport Option Compared"
+seoTitle: "Southend Airport to London: Transport Guide"
 description: "A practical guide to Greater Anglia trains, contactless payment, buses and taxis from Southend Airport, with 2026 fares and hotel-area recommendations."
 publishedAt: 2026-07-28
 sites:
@@ -11,7 +12,7 @@ tags:
   - Greater Anglia
   - Liverpool Street
   - airport transfers
-  - London transport
+  - transport
 draft: false
 heroImage: "../../assets/articles/southend-airport/southend-terminal.jpg"
 heroImageAlt: "The arrivals and check-in hall inside London Southend Airport"
@@ -143,11 +144,3 @@ Check accessibility at Stratford or Liverpool Street as well as the airport end,
 ---
 
 *Information checked on 28 July 2026. Verify fares, timetables and flight details before travel.*
-
-### Research sources
-
-- [London Southend Airport: Trains](https://londonsouthendairport.com/getting-to-and-from/trains/)
-- [London Southend Airport: Contactless launch](https://londonsouthendairport.com/news/contactless-ticketing-now-live-at-london-southend-airport-rail-station/)
-- [Greater Anglia: Southend Airport](https://www.greateranglia.co.uk/destinations/airports/southend-airport)
-- [Greater Anglia: Contactless](https://www.greateranglia.co.uk/contactless)
-- [TfL: Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder)

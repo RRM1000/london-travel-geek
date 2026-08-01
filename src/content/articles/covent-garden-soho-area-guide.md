@@ -1,12 +1,19 @@
 ---
 title: "Covent Garden and Soho Area Guide: Hotels, Food and Theatre"
+seoTitle: "Covent Garden and Soho Area Guide"
 description: "A practical guide to staying around Covent Garden and Soho, including hotels, restaurants, theatre, nightlife, transport and noise advice."
 publishedAt: 2026-07-28
 sites: [london]
 canonicalSite: london
 category: "London areas"
-tags: [Covent Garden, Soho, West End, London theatre]
+tags: [Covent Garden, Soho, West End, theatre]
 draft: false
+heroImage: "../../assets/articles/covent-garden-soho-area-guide/covent-garden-soho-area-guide.jpg"
+heroImageAlt: "Outdoor tables and historic market buildings in Covent Garden Piazza"
+heroImageCredit: "mattbuck"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:London_MMB_M7_Covent_Garden.jpg"
+heroImageLicense: "CC BY-SA 3.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 ---
 
 Covent Garden and Soho form London's most convenient entertainment district. Theatres, Chinatown, Trafalgar Square, the National Gallery and dozens of restaurants are close enough to walk.
@@ -62,9 +69,3 @@ Book the performance before dinner. Check the exact theatre—not merely “West
 ---
 
 *Recommendations checked on 28 July 2026; venues and productions change.*
-
-### Research sources
-
-- [Official London Theatre](https://officiallondontheatre.com/)
-- [Michelin Guide London restaurants](https://guide.michelin.com/gb/en/greater-london/restaurants)
-- [Covent Garden](https://www.coventgarden.london/)

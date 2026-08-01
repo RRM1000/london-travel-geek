@@ -1,0 +1,83 @@
+---
+import { getCollection } from "astro:content";
+import ArticleCard from "../../components/ArticleCard.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import SectionHeading from "../../components/SectionHeading.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { activeSite } from "../../sites";
+import { formatTag, tagToSlug } from "../../lib/taxonomy";
+
+export async function getStaticPaths() {
+  const articles = await getCollection("articles");
+  const tags = Array.from(
+    new Set(
+      articles
+        .filter((article) => !article.data.draft && article.data.sites.includes(activeSite.id))
+        .flatMap((article) => article.data.tags),
+    ),
+  );
+
+  return tags.map((tag) => ({
+    params: { tag: tagToSlug(tag) },
+    props: { tag },
+  }));
+}
+
+const { tag } = Astro.props;
+const articles = (await getCollection("articles"))
+  .filter(
+    (article) =>
+      !article.data.draft &&
+      article.data.sites.includes(activeSite.id) &&
+      article.data.tags.includes(tag),
+  )
+  .sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
+const tagLabel = formatTag(tag);
+const breadcrumbs = [
+  { label: "Home", href: "/" },
+  { label: "All guides", href: "/guides/" },
+  { label: `Tag: ${tagLabel}` },
+];
+---
+
+<BaseLayout
+  title={`${tagLabel} guides`}
+  description={`Browse London Travel Geek guides tagged ${tagLabel}.`}
+  breadcrumbs={breadcrumbs}
+>
+  <section class="tag-archive container">
+    <Breadcrumbs items={breadcrumbs} />
+    <SectionHeading
+      eyebrow="Guide tag"
+      title={tagLabel}
+      description={`Practical London guides tagged ${tagLabel}.`}
+    />
+    <p class="tag-archive__count">{articles.length} {articles.length === 1 ? "guide" : "guides"} with this tag</p>
+    <div class="grid grid--3">
+      {articles.map((article) => (
+        <ArticleCard
+          label={article.data.category}
+          title={article.data.title}
+          description={article.data.description}
+          href={`/articles/${article.id}/`}
+          image={article.data.heroImage}
+          imageAlt={article.data.heroImageAlt}
+          tags={article.data.tags}
+        />
+      ))}
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .tag-archive {
+    padding-block: var(--space-7);
+  }
+
+  .tag-archive__count {
+    margin: 0 0 var(--space-5);
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-weight: 750;
+  }
+</style>

@@ -1,5 +1,6 @@
 ---
 title: "Travel SIM Cards and eSIMs: The Complete Beginner’s Guide"
+seoTitle: "Travel SIM Cards and eSIMs Guide"
 description: "A practical introduction to travel eSIMs, local SIM cards, roaming, phone compatibility, data plans and staying connected safely abroad."
 publishedAt: 2026-07-28
 sites:
@@ -13,6 +14,12 @@ tags:
   - roaming
   - travel technology
 draft: false
+heroImage: "../../assets/articles/travel-sim-esim-guide/travel-sim-esim-guide.jpg"
+heroImageAlt: "Full-size, mini, micro and nano SIM cards arranged side by side"
+heroImageCredit: "Bidouille82"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Formats_de_cartes_SIM.jpg"
+heroImageLicense: "CC BY-SA 3.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 ---
 
 Mobile data makes modern travel easier: it powers maps, tickets, hotel messages, translation, transport apps and banking alerts. You can use your home network's roaming plan, install a travel eSIM, or buy a physical SIM from a local network.
@@ -111,12 +118,3 @@ Do not buy any product merely because it says “unlimited”. Read the fair-use
 ---
 
 *General guidance checked on 28 July 2026. Device features, roaming rules and provider plans change; verify the exact phone model and plan before purchasing.*
-
-### Research sources
-
-- [Apple: Using an eSIM while travelling internationally](https://support.apple.com/en-us/118227)
-- [Apple: Using Dual SIM with an eSIM](https://support.apple.com/en-ie/109317)
-- [GSMA: eSIM](https://www.gsma.com/solutions-and-impact/technologies/esim/)
-- [Ofcom: Using your mobile abroad](https://www.ofcom.org.uk/phones-and-broadband/saving-money/using-your-mobile-abroad)
-- [GOV.UK: Mobile use in EU and EEA countries](https://www.gov.uk/guidance/using-your-mobile-in-eu-and-eea-countries)
-

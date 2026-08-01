@@ -1,7 +1,9 @@
 ---
 title: "How to Use the London Underground: A First-Time Visitor’s Guide"
+seoTitle: "How to Use the London Underground"
 description: "A practical guide to planning Tube journeys, paying the correct fare, navigating stations and travelling confidently on the London Underground."
 publishedAt: 2026-07-28
+updatedAt: 2026-07-31
 sites:
   - london
 canonicalSite: london
@@ -147,6 +149,14 @@ First and last train times vary by station and line. Most Tube services operate 
 
 The Night Tube runs on Friday and Saturday nights on the Central, Jubilee, Northern, Piccadilly and Victoria lines. Not every branch or station is served, and planned engineering work can affect overnight journeys. Check [TfL’s Night Tube information](https://tfl.gov.uk/campaign/tube-improvements/the-future-of-the-tube/night-tube) before travelling late.
 
+## Weekend travel: check for planned closures
+
+Weekend is a popular time to explore London, but it is also when TfL often schedules maintenance and improvement work. A Tube line may be fully closed, partly closed between particular stations, run a reduced service or close earlier than usual. The disruption is often limited to one section of a line, so an alternative Tube route may still work.
+
+Before a weekend journey—especially one to the airport, a timed attraction, a match or a late-night event—check TfL’s [planned line closures and service changes](https://tfl.gov.uk/status-updates/planned-track-closures) page and run the journey through the [TfL Journey Planner](https://tfl.gov.uk/plan-a-journey/). These show the current plans and suggested alternatives.
+
+TfL may recommend another Tube line, the Elizabeth line, London Overground, DLR or a local bus. A rail-replacement bus is sometimes provided where there is no reasonable alternative, but it is usually slower than the train, so allow extra time. Check again on the day: planned work can change, and separate unplanned disruption can still affect the route.
+
 ## Common mistakes to avoid
 
 - **Using different devices:** a bank card and the same card loaded onto a phone are treated separately.
@@ -163,16 +173,6 @@ For your first trip, choose a journey with no interchange if possible. Arrive ou
 
 If you become uncertain, step to one side and ask a member of staff. Tube, Elizabeth line and London Overground stations are staffed whenever services are running.
 
-Londoners may move quickly, but the system is designed to be navigated through repeated signs, line colours and station names. Take a moment to confirm each step and there is rarely any need to rush.
-
 ---
 
 *Information checked on 28 July 2026. Fares, services, engineering work and accessibility can change; verify time-sensitive details with [Transport for London](https://tfl.gov.uk/) before travelling.*
-
-### Research sources
-
-- [TfL: Best ways for visitors to pay](https://tfl.gov.uk/travel-information/visiting-london/getting-around-london/best-ways-for-visitors-to-pay)
-- [TfL: How to pay the right fare](https://tfl.gov.uk/fares/pay-the-right-fare)
-- [TfL: Wheelchair access and avoiding stairs](https://tfl.gov.uk/transport-accessibility/wheelchair-access-and-avoiding-stairs)
-- [TfL: The Night Tube](https://tfl.gov.uk/campaign/tube-improvements/the-future-of-the-tube/night-tube)
-- [TfL: Tips for staying safe while you travel](https://tfl.gov.uk/travel-information/safety/staying-safe)

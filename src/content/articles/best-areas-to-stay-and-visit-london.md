@@ -1,12 +1,19 @@
 ---
 title: "The Best Areas to Stay and Visit in London"
+seoTitle: "Best Areas to Stay in London"
 description: "Compare seven London neighbourhoods for first visits, families, nightlife, museums, food, transport and hotels, with links to detailed area guides."
 publishedAt: 2026-07-28
 sites: [london]
 canonicalSite: london
 category: "London areas"
-tags: [London neighbourhoods, where to stay, London hotels, London restaurants]
+tags: [neighbourhoods, where to stay, hotels, restaurants]
 draft: false
+heroImage: "../../assets/articles/best-areas-to-stay-and-visit-london/best-areas-to-stay-and-visit-london.jpg"
+heroImageAlt: "The London skyline and Tower Bridge at sunset across the River Thames"
+heroImageCredit: "Diliff"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:London_Thames_Sunset_panorama_-_Feb_2008.jpg"
+heroImageLicense: "CC BY 3.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 ---
 
 London has no single centre that suits everybody. The best base depends on whether you value walkability, nightlife, museums, airport connections, larger hotel rooms or a quieter evening.
@@ -63,9 +70,3 @@ Hotel and restaurant recommendations in the detailed guides are starting points,
 ---
 
 *Recommendations checked on 28 July 2026. Hotels, restaurants, exhibitions and transport can change.*
-
-### Research sources
-
-- [Visit London: London areas](https://www.visitlondon.com/things-to-do/london-areas)
-- [Michelin Guide: London](https://guide.michelin.com/us/en/travel-guide/london)
-- [TfL Journey Planner](https://tfl.gov.uk/plan-a-journey/)

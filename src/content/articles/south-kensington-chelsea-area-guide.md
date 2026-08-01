@@ -1,12 +1,19 @@
 ---
 title: "South Kensington and Chelsea Area Guide: Hotels, Food and Museums"
+seoTitle: "South Kensington and Chelsea Area Guide"
 description: "A guide to South Kensington and Chelsea for museums, families and elegant London stays, including recommended hotels, restaurants and transport."
 publishedAt: 2026-07-28
 sites: [london]
 canonicalSite: london
 category: "London areas"
-tags: [South Kensington, Chelsea, London museums, family travel]
+tags: [South Kensington, Chelsea, museums, family travel]
 draft: false
+heroImage: "../../assets/articles/south-kensington-chelsea-area-guide/south-kensington-chelsea-area-guide.jpg"
+heroImageAlt: "The Romanesque facade of the Natural History Museum in South Kensington"
+heroImageCredit: "Diliff"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Natural_History_Museum_London_Jan_2006.jpg"
+heroImageLicense: "CC BY-SA 3.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 ---
 
 South Kensington contains three major museums within a few streets, while Chelsea adds elegant shopping, gardens and restaurants.
@@ -55,10 +62,3 @@ Museum entrances can be farther from the station than the map suggests. Use the 
 ---
 
 *Recommendations checked on 28 July 2026. Reserve special meals and ticketed exhibitions.*
-
-### Research sources
-
-- [Kensington and Chelsea visitor guide](https://www.kensingtonandchelsea.london/)
-- [Natural History Museum](https://www.nhm.ac.uk/)
-- [V&A](https://www.vam.ac.uk/)
-

@@ -1,0 +1,70 @@
+---
+import { getCollection } from "astro:content";
+import ArticleCard from "../../components/ArticleCard.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import SectionHeading from "../../components/SectionHeading.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { activeSite } from "../../sites";
+import { categoryHref } from "../../lib/taxonomy";
+
+const articles = (await getCollection("articles"))
+  .filter((article) => !article.data.draft && article.data.sites.includes(activeSite.id))
+  .sort((a, b) => a.data.category.localeCompare(b.data.category) || b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
+
+const categories = Array.from(
+  articles.reduce((groups, article) => {
+    const entries = groups.get(article.data.category) ?? [];
+    entries.push(article);
+    groups.set(article.data.category, entries);
+    return groups;
+  }, new Map<string, typeof articles>()),
+);
+const breadcrumbs = [{ label: "Home", href: "/" }, { label: "All guides" }];
+---
+
+<BaseLayout
+  title="All London travel guides"
+  description="Browse every London Travel Geek guide by topic, from airports and transport to areas, itineraries, food and travel SIMs."
+  breadcrumbs={breadcrumbs}
+>
+  <section class="archive container">
+    <Breadcrumbs items={breadcrumbs} />
+    <SectionHeading eyebrow="All guides" title="Browse every London guide" description="Explore practical guides by topic, or browse the complete collection below." />
+
+    <nav class="archive__topics" aria-label="Guide topics">
+      {categories.map(([category, entries]) => (
+        <a href={categoryHref(category)}>{category} <span>{entries.length}</span></a>
+      ))}
+    </nav>
+
+    {categories.map(([category, entries]) => (
+      <section class="archive__section" aria-labelledby={`category-${category}`}>
+        <div class="archive__section-heading">
+          <div>
+            <p class="eyebrow">Topic</p>
+            <h2 id={`category-${category}`}>{category}</h2>
+          </div>
+          <a href={categoryHref(category)}>View all {entries.length} guides</a>
+        </div>
+        <div class="grid grid--3">
+          {entries.map((article) => (
+            <ArticleCard label={article.data.category} title={article.data.title} description={article.data.description} href={`/articles/${article.id}/`} image={article.data.heroImage} imageAlt={article.data.heroImageAlt} tags={article.data.tags} />
+          ))}
+        </div>
+      </section>
+    ))}
+  </section>
+</BaseLayout>
+
+<style>
+  .archive { padding-block: var(--space-7); }
+  .archive__topics { display: flex; flex-wrap: wrap; gap: 0.65rem; margin-block: var(--space-5) var(--space-7); }
+  .archive__topics a { display: inline-flex; align-items: center; gap: 0.45rem; padding: 0.55rem 0.8rem; border: 1px solid var(--line); border-radius: 999px; color: var(--ink); font-size: 0.86rem; font-weight: 750; text-decoration: none; }
+  .archive__topics a:hover { border-color: var(--accent); color: var(--accent); }
+  .archive__topics span { color: var(--muted); }
+  .archive__section + .archive__section { margin-top: var(--space-7); }
+  .archive__section-heading { display: flex; align-items: end; justify-content: space-between; gap: var(--space-3); margin-bottom: var(--space-4); }
+  .archive__section-heading h2 { margin: 0.35rem 0 0; font-size: clamp(1.8rem, 4vw, 2.6rem); }
+  .archive__section-heading a { color: var(--accent); font-weight: 800; }
+  @media (max-width: 40rem) { .archive__section-heading { align-items: start; flex-direction: column; } }
+</style>

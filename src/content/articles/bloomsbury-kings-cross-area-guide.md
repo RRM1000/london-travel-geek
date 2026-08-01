@@ -1,5 +1,6 @@
 ---
 title: "Bloomsbury and King’s Cross Area Guide: Hotels, Food and Museums"
+seoTitle: "Bloomsbury and King’s Cross Area Guide"
 description: "Where to stay and eat around Bloomsbury, Russell Square, King’s Cross and St Pancras, with museum, rail and hotel recommendations."
 publishedAt: 2026-07-28
 sites: [london]
@@ -7,6 +8,12 @@ canonicalSite: london
 category: "London areas"
 tags: [Bloomsbury, King's Cross, British Museum, St Pancras]
 draft: false
+heroImage: "../../assets/articles/bloomsbury-kings-cross-area-guide/bloomsbury-kings-cross-area-guide.jpg"
+heroImageAlt: "The red-brick facade of St Pancras station viewed from outside King's Cross"
+heroImageCredit: "Robert Lamb"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:View_of_St._Pancras_station_from_outside_King%27s_Cross_station_-_geograph.org.uk_-_4668700.jpg"
+heroImageLicense: "CC BY-SA 2.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
 
 Bloomsbury combines garden squares and the British Museum with London's most useful long-distance rail district at King's Cross and St Pancras.
@@ -57,10 +64,3 @@ Avoid planning a five-minute transfer between separate mainline stations. Corrid
 ---
 
 *Check museum exhibitions, railway engineering work and venue opening days before travel.*
-
-### Research sources
-
-- [British Museum](https://www.britishmuseum.org/)
-- [British Library](https://www.bl.uk/)
-- [King's Cross](https://www.kingscross.co.uk/)
-

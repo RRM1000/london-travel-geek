@@ -1,12 +1,19 @@
 ---
 title: "London Itineraries by Trip Length and Interest"
+seoTitle: "London Itineraries by Days and Interests"
 description: "Choose a three-day, five-day or themed one-day London itinerary for first visits, theatre, museums, families and food."
 publishedAt: 2026-07-28
 sites: [london]
 canonicalSite: london
 category: "London itineraries"
-tags: [London itinerary, London in 3 days, London in 5 days, one day in London]
+tags: [itineraries, 3 days, 5 days, one-day itineraries]
 draft: false
+heroImage: "../../assets/articles/london-itineraries-by-days-and-interests/london-itineraries-by-days-and-interests.jpg"
+heroImageAlt: "The London skyline viewed across the green slopes of Primrose Hill"
+heroImageCredit: "Duncan"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:London_from_Primrose_Hill_May_2013.jpg"
+heroImageLicense: "CC BY 2.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
 The best London itinerary groups nearby places and leaves room for queues, meals and the unexpected. It should not send you repeatedly across the city for attractions that could have been visited together.

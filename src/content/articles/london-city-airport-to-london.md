@@ -1,5 +1,6 @@
 ---
 title: "London City Airport to Central London: Every Option Compared"
+seoTitle: "London City Airport to London: Transport Guide"
 description: "A practical guide to the DLR, Elizabeth line connections, buses and taxis from London City Airport, including 2026 fares and hotel-area recommendations."
 publishedAt: 2026-07-28
 sites:
@@ -11,7 +12,7 @@ tags:
   - DLR
   - Elizabeth line
   - airport transfers
-  - London transport
+  - transport
 draft: false
 heroImage: "../../assets/articles/london-city-airport/london-city-terminal.jpg"
 heroImageAlt: "The check-in hall inside London City Airport"
@@ -140,11 +141,3 @@ The DLR station and network are step-free, but level boarding and the size of th
 ---
 
 *Information checked on 28 July 2026. Verify fares, operating hours and flight information before travel.*
-
-### Research sources
-
-- [London City Airport: Getting to and from](https://www.londoncityairport.com/getting-to-and-from)
-- [London City Airport: Live flights and essential information](https://www.londoncityairport.com/)
-- [TfL: DLR route map](https://content.tfl.gov.uk/dlr-route-map.pdf)
-- [TfL: Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder)
-- [TfL: DLR accessibility](https://tfl.gov.uk/info-for/media/press-releases/2024/may/more-accessible-journeys-for-dlr-customers-as-a-new-pre-booked-assistance-trial-gets-underway)

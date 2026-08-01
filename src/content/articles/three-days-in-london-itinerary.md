@@ -1,12 +1,19 @@
 ---
 title: "Three Days in London: A First-Time Itinerary"
+seoTitle: "Three Days in London Itinerary"
 description: "A realistic three-day London plan covering Westminster, the South Bank, the West End, the Tower, a major museum and practical meal areas."
 publishedAt: 2026-07-28
 sites: [london]
 canonicalSite: london
 category: "London itineraries"
-tags: [London in 3 days, London itinerary, first visit]
+tags: [3 days, itineraries, first visit]
 draft: false
+heroImage: "../../assets/articles/three-days-in-london-itinerary/three-days-in-london-itinerary.jpg"
+heroImageAlt: "A panorama of the Thames with the London Eye, Westminster Bridge and Parliament"
+heroImageCredit: "Diliff"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Thames_Panorama,_London_-_May_2009.jpg"
+heroImageLicense: "CC BY-SA 3.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 ---
 
 This three-day plan covers London's essential contrasts without treating the city like a checklist. Book the Tower of London, Westminster Abbey and any show in advance.
@@ -56,4 +63,3 @@ For maximum walking, use [Covent Garden/Soho](/articles/covent-garden-soho-area-
 ---
 
 *Check attraction availability, demonstrations, ceremonies and transport disruption before travel.*
-

@@ -1,5 +1,6 @@
 ---
 title: "How to Use London Buses and Trams: A Visitor's Guide"
+seoTitle: "How to Use London Buses and Trams"
 description: "How to plan, pay for and ride London buses and trams, including live arrivals, useful sightseeing routes, traffic disruption and the summer Weekend Hopper."
 publishedAt: 2026-07-28
 sites:
@@ -7,8 +8,8 @@ sites:
 canonicalSite: london
 category: "Getting around London"
 tags:
-  - London buses
-  - London Trams
+  - buses
+  - trams
   - Weekend Hopper
   - live bus times
   - sightseeing buses
@@ -84,7 +85,7 @@ Some shelters have a digital Countdown display. It shows predicted minutes until
 - **“Due”** means the bus is expected very shortly.
 - A changing number is a live prediction, not a guarantee.
 - A bus disappearing from the display can mean it has passed, turned short, been diverted or lost its live-data connection.
-- The destination matters: two buses with the same number may not be travelling as far.
+- Check the destination shown on the front of the bus as well as its route number, because buses on the same route can travel in different directions or finish early.
 
 Not every stop has a screen. You can get the same type of live-arrival information from TfL Go or the TfL webpage for that stop.
 
@@ -138,9 +139,11 @@ The one-hour window begins when you first touch in on a bus or tram. Every later
 | Bus, then Underground, then another bus within one hour of the first bus | One £1.75 Hopper fare for both buses **plus** the Underground fare |
 | Bus, then Underground, then another bus after the one-hour window | First bus fare, Underground fare and a new bus fare |
 
-The important detail in the fourth example is that taking the Tube does not cancel the Hopper. The second bus can still be included with the first bus, provided you touch into it within one hour of the **first bus touch**. The Tube journey in the middle is charged normally.
+The one-hour Hopper window is based only on the time you first touch in on a bus or tram. Taking the Tube in between does not stop or restart that window; the Tube journey is charged separately.
 
-A Tube journey also does not start a Hopper window. If you leave the Underground and board a bus, the one-hour Hopper begins when you touch in on that bus, not when you entered or left the station.
+**Example:** touch in on a bus at **10:00**, take the Tube at 10:20, then board another bus at **10:45**. The second bus is included in the first Hopper fare because it is within one hour of 10:00. The Tube fare is still charged normally.
+
+If you take the Tube first and then board a bus, the Hopper window starts when you touch in on that bus. It does not start when you enter or leave the Tube station.
 
 ### How daily capping affects the total
 
@@ -190,7 +193,7 @@ You do not need to speak to the driver unless you need help. If uncertain, askin
 
 ## Traffic, roadworks and event days
 
-The largest difference between bus and Underground travel is the road. A normal-looking distance can take much longer because of:
+The biggest difference between bus and Underground travel is traffic. Bus travel can take much longer because of:
 
 - weekday rush-hour traffic;
 - collisions and emergency road closures;
@@ -260,13 +263,3 @@ Unlike buses, trams are not delayed by ordinary road traffic across most of thei
 ---
 
 *Information and fares checked on 28 July 2026. The Weekend Hopper is a temporary trial ending on 31 August 2026, and bus routes, diversions, live-tracking features and fares can change.*
-
-### Research sources
-
-- [TfL: Using buses in London](https://tfl.gov.uk/modes/buses/using-buses-in-london)
-- [TfL: Using London Trams](https://tfl.gov.uk/modes/trams/using-london-trams)
-- [TfL: Bus and tram fares](https://tfl.gov.uk/fares/find-fares/bus-and-tram-fares)
-- [City Hall: Weekend Bus Hopper trial decision](https://www.london.gov.uk/md3502-weekend-bus-hopper-trial)
-- [TfL: Live bus locations and TfL Go updates](https://tfl-newsroom.prgloo.com/news/tfl-go-londons-official-travel-app-gets-further-updates-to-make-getting-around-london-even-easier)
-- [TfL: Major works and events](https://tfl.gov.uk/status-updates/major-works-and-events)
-- [TfL: Superloop](https://tfl.gov.uk/modes/buses/superloop)

@@ -1,0 +1,61 @@
+---
+import type { CollectionEntry } from "astro:content";
+import ArticleCard from "./ArticleCard.astro";
+
+interface Props {
+  articles: CollectionEntry<"articles">[];
+}
+
+const { articles } = Astro.props;
+---
+
+{articles.length > 0 && (
+  <section class="related-guides" aria-labelledby="related-guides-title">
+    <div class="related-guides__heading">
+      <p class="eyebrow">Keep planning</p>
+      <h2 id="related-guides-title">Related guides</h2>
+    </div>
+    <div class="related-guides__grid">
+      {articles.map((article) => (
+        <ArticleCard
+          label={article.data.category}
+          title={article.data.title}
+          description={article.data.description}
+          href={`/articles/${article.id}/`}
+          image={article.data.heroImage}
+          imageAlt={article.data.heroImageAlt}
+          tags={article.data.tags}
+        />
+      ))}
+    </div>
+  </section>
+)}
+
+<style>
+  .related-guides {
+    margin-top: var(--space-7);
+    padding-top: var(--space-6);
+    border-top: 1px solid var(--line);
+  }
+
+  .related-guides__heading {
+    margin-bottom: var(--space-4);
+  }
+
+  .related-guides__heading h2 {
+    margin: 0.35rem 0 0;
+    font-size: clamp(1.8rem, 4vw, 2.5rem);
+  }
+
+  .related-guides__grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: var(--space-3);
+  }
+
+  @media (max-width: 48rem) {
+    .related-guides__grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

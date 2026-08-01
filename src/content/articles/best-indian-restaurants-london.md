@@ -1,13 +1,20 @@
 ---
 title: "The Best Indian Restaurants in London: Critics' Choices Compared"
-description: "A researched guide to London's most consistently recommended Indian restaurants, from affordable South Indian food to modern cooking and Michelin-starred special occasions."
+seoTitle: "Best Indian Restaurants in London"
+description: "Critics’ choices for London’s Indian restaurants, from affordable South Indian cooking to modern menus and Michelin-starred occasions."
 publishedAt: 2026-07-28
 updatedAt: 2026-07-29
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
-tags: [London restaurants, Indian restaurants, Indian food, vegetarian restaurants, London dining]
+tags: [restaurants, Indian restaurants, Indian food, vegetarian restaurants, dining]
 draft: false
+heroImage: "../../assets/articles/best-indian-restaurants-london/best-indian-restaurants-london.jpg"
+heroImageAlt: "A table of Indian curries and accompaniments at a Brick Lane restaurant"
+heroImageCredit: "Phil Venditti"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:2024--18_September--Food_at_City_Spice_Indian_Restaurant_in_Brick_Lane,_London.jpg"
+heroImageLicense: "CC BY 2.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
 London does not have one definitive “best” Indian restaurant. A Keralan vegetarian restaurant, a Mumbai street-food counter and a Michelin-starred Mayfair dining room offer completely different experiences.
@@ -321,15 +328,6 @@ For serious allergies:
 ---
 
 *Restaurants, official links and editorial recommendations checked on 28 July 2026. This guide is independent and contains no paid placements or affiliate booking links.*
-
-### Main research sources
-
-- [Good Food Guide: Best Indian Restaurants in London](https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london)
-- [Thatsup: The Best Indian Restaurants in London](https://thatsup.co.uk/london/guide/the-best-indian-restaurants-in-london/)
-- [Michelin Guide: The Best Indian Restaurants in London](https://guide.michelin.com/us/en/best-of/the-best-indian-restaurants-in-london)
-- [Michelin Guide: Indian restaurants in London](https://guide.michelin.com/gb/en/greater-london/london/restaurants/indian)
-- [Time Out: The Best Indian and South Asian Restaurants in London](https://www.timeout.com/london/restaurants/londons-best-indian-restaurants)
-- [The Infatuation: Where to Eat Indian Food in London Right Now](https://www.theinfatuation.com/london/guides/best-indian-restaurants-london)
 
 ## Watch the restaurant tours
 

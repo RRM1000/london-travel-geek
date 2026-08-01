@@ -1,5 +1,6 @@
 ---
 title: "Should You Buy a SIM Card at the Airport?"
+seoTitle: "Should You Buy a SIM Card at the Airport?"
 description: "Compare airport SIM shops, travel eSIMs, local mobile stores and roaming, including price, activation, identification, Wi-Fi and common sales traps."
 publishedAt: 2026-07-28
 sites:
@@ -13,6 +14,12 @@ tags:
   - mobile data
   - airport arrivals
 draft: false
+heroImage: "../../assets/articles/should-you-buy-sim-card-at-airport/should-you-buy-sim-card-at-airport.jpg"
+heroImageAlt: "Travellers at a mobile-network service counter inside an airport"
+heroImageCredit: "Solomon203"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Airport_Service_Center,_Chunghwa_Telecom_20180512.jpg"
+heroImageLicense: "CC BY-SA 4.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
 
 Airport SIM cards are convenient, but convenience is what you are paying for. The package may be perfectly reasonable—or it may offer less data and shorter validity than the same network sells elsewhere.
@@ -118,10 +125,3 @@ For every London airport, the safest sequence is:
 ---
 
 *Information checked on 28 July 2026. Airport shops, opening hours, roaming and mobile packages change frequently.*
-
-### Research sources
-
-- [Ofcom: Using your mobile abroad](https://www.ofcom.org.uk/phones-and-broadband/saving-money/using-your-mobile-abroad)
-- [Apple: Using an eSIM while travelling](https://support.apple.com/en-us/118227)
-- [GOV.UK: Air passenger travel guide](https://www.gov.uk/government/publications/air-passenger-travel-guide/air-passenger-travel-guide)
-

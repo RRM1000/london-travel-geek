@@ -1,5 +1,6 @@
 ---
 title: "Travel SIM Cards and eSIMs: Advice, Setup and Data Guides"
+seoTitle: "Travel SIM and eSIM Guides"
 description: "Start here for practical guides to travel eSIMs, local SIM cards, mobile-data allowances, roaming and buying a SIM at the airport."
 publishedAt: 2026-07-28
 sites:
@@ -12,6 +13,12 @@ tags:
   - mobile data
   - roaming
 draft: false
+heroImage: "../../assets/articles/travel-sim-esim-topic-hub/travel-sim-esim-topic-hub.jpg"
+heroImageAlt: "Three young travellers using smartphones while seated in a waiting area"
+heroImageCredit: "Chris Olszewski"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Young_people_texting_on_smartphones.jpg"
+heroImageLicense: "CC BY-SA 4.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
 
 This is the starting point for staying connected while travelling. The guides explain the technology and decisions without assuming that one provider is always cheapest.
@@ -58,4 +65,3 @@ The [airport SIM-buying guide](/articles/should-you-buy-sim-card-at-airport/) li
 ---
 
 *Hub updated on 28 July 2026. Provider-specific offers will be checked separately in each future destination guide.*
-

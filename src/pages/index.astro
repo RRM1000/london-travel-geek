@@ -1,13 +1,13 @@
 ---
 import { Image } from "astro:assets";
 import { getCollection } from "astro:content";
-import londonHero from "../assets/articles/london-underground/piccadilly-circus-underground.jpg";
+import londonHero from "../assets/landing/london-westminster-hero.png";
 import Advert from "../components/Advert.astro";
 import ArticleCard from "../components/ArticleCard.astro";
-import NewsletterBox from "../components/NewsletterBox.astro";
 import SectionHeading from "../components/SectionHeading.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { activeSite } from "../sites";
+import { categoryHref } from "../lib/taxonomy";
 
 const articles = (await getCollection("articles"))
   .filter((entry) => !entry.data.draft && entry.data.sites.includes(activeSite.id))
@@ -46,14 +46,14 @@ const heroTitle =
           neighbourhoods, airports, food and trip planning.
         </p>
         <div class="hero__actions">
-          <a class="button" href="#articles">Explore the latest guides</a>
+          <a class="button" href="/guides/">Explore all guides</a>
           <a class="button button--secondary" href="/articles/london-itineraries-by-days-and-interests/">Plan your trip</a>
         </div>
       </div>
       <figure class="hero__visual">
         <Image
           src={londonHero}
-          alt="Entrance to Piccadilly Circus Underground station in central London"
+          alt="Elizabeth Tower and Westminster Bridge illuminated beside the Thames at blue hour"
           widths={[640, 960, 1280]}
           sizes="(max-width: 54rem) 100vw, 46vw"
           loading="eager"
@@ -63,11 +63,18 @@ const heroTitle =
           <strong>decoded.</strong>
         </div>
         <figcaption>
-          Piccadilly Circus Underground · Photo by
-          <a href="https://commons.wikimedia.org/wiki/File:Eingang_zur_London_Underground_am_Piccadilly_Circus.jpg">Martin Dunst</a>,
-          <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+          Elizabeth Tower and Westminster Bridge at blue hour
         </figcaption>
       </figure>
+    </div>
+  </section>
+
+  <section class="gyg-home" aria-label="London activities">
+    <div class="container">
+      <div
+        data-gyg-widget="auto"
+        data-gyg-partner-id="WWP7I0R"
+      ></div>
     </div>
   </section>
 
@@ -92,6 +99,7 @@ const heroTitle =
               href={`/articles/${article.id}/`}
               image={article.data.heroImage}
               imageAlt={article.data.heroImageAlt}
+              tags={article.data.tags}
             />
           ))
         ) : (
@@ -133,25 +141,29 @@ const heroTitle =
             <span>{String(index + 1).padStart(2, "0")}</span>
             <p class="category-card__count">{category.count} {category.count === 1 ? "guide" : "guides"}</p>
             <h3>{category.label}</h3>
-            <a href={`/articles/${category.latest.id}/`}>
-              Latest: {category.latest.data.title}
-            </a>
+            <a href={categoryHref(category.label)}>View all {category.count} guides</a>
           </article>
         ))}
       </div>
     </div>
   </section>
 
-  <section class="section">
-    <div class="container">
-      <NewsletterBox />
-    </div>
-  </section>
 </BaseLayout>
 
 <style>
   .hero {
     padding-block: clamp(3.5rem, 9vw, 8rem);
+  }
+
+  .gyg-home {
+    padding-bottom: var(--space-5);
+  }
+
+  .gyg-home :global(iframe) {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    border: 0;
   }
 
   .hero__grid {
@@ -183,14 +195,16 @@ const heroTitle =
     position: relative;
     margin: 0;
     overflow: hidden;
+    aspect-ratio: 3 / 2;
     border-radius: var(--radius-lg);
     background: var(--ink);
     box-shadow: var(--shadow);
   }
 
   .hero__visual :global(img) {
+    display: block;
     width: 100%;
-    min-height: clamp(24rem, 44vw, 36rem);
+    height: 100%;
     object-fit: cover;
     filter: saturate(0.82) contrast(1.05);
   }
@@ -316,10 +330,6 @@ const heroTitle =
   @media (max-width: 54rem) {
     .hero__grid {
       grid-template-columns: 1fr;
-    }
-
-    .hero__visual {
-      min-height: 22rem;
     }
 
     .category-grid {

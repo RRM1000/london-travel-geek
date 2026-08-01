@@ -1,6 +1,7 @@
 ---
 title: "Stansted Airport to London: Every Transport Option Compared"
-description: "A practical comparison of Stansted Express, London coaches, taxis and transfers, with 2026 fares, journey times, payment advice and the best route for each hotel area."
+seoTitle: "Stansted Airport to London: Transport Guide"
+description: "Compare Stansted Express, coaches, taxis and transfers, with 2026 fares, journey times and practical routes for London hotel areas."
 publishedAt: 2026-07-28
 sites:
   - london
@@ -11,7 +12,7 @@ tags:
   - Stansted Express
   - airport coaches
   - airport transfers
-  - London transport
+  - transport
 draft: false
 heroImage: "../../assets/articles/stansted-airport/stansted-airport.jpg"
 heroImageAlt: "An aerial view of London Stansted Airport and its terminal satellites"
@@ -139,11 +140,3 @@ The rail route is generally easier with luggage than changing between a coach an
 ---
 
 *Information checked on 28 July 2026. Verify fares, operating hours and flight information before travel.*
-
-### Research sources
-
-- [Stansted Airport: Trains](https://www.stanstedairport.com/getting-to-and-from/by-train/)
-- [Stansted Airport: Coaches](https://www.stanstedairport.com/getting-to-and-from/by-bus-and-coach/)
-- [Stansted Airport: Central London options](https://www.stanstedairport.com/getting-to-and-from/stansted-to-london/)
-- [Stansted Airport: Departure itinerary](https://www.stanstedairport.com/flight-information/departures/itinerary/)
-- [Greater Anglia: Contactless](https://www.greateranglia.co.uk/contactless)

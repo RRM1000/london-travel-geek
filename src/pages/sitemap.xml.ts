@@ -18,7 +18,7 @@ const escapeXml = (value: string) =>
   );
 
 export const GET: APIRoute = async ({ site }) => {
-  const siteOrigin = site ?? new URL("https://londontravelgeek.com");
+  const siteOrigin = site ?? new URL("https://www.londontravelgeek.co.uk");
   const articles = (await getCollection("articles"))
     .filter(
       (entry) =>

@@ -1,5 +1,6 @@
 ---
 title: "Greenwich and Docklands Area Guide: Hotels, Food and River Views"
+seoTitle: "Greenwich and Docklands Area Guide"
 description: "A guide to Greenwich, Canary Wharf and the Royal Docks, including maritime attractions, hotels, restaurants, boats, DLR and London City Airport."
 publishedAt: 2026-07-28
 sites: [london]
@@ -7,6 +8,12 @@ canonicalSite: london
 category: "London areas"
 tags: [Greenwich, Canary Wharf, Docklands, London City Airport]
 draft: false
+heroImage: "../../assets/articles/greenwich-docklands-area-guide/greenwich-docklands-area-guide.jpg"
+heroImageAlt: "A panoramic view across Greenwich Park towards Canary Wharf and central London"
+heroImageCredit: "Dietmar Rabich"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:London,_Greenwich,_Blick_vom_H%C3%BCgel_des_Royal_Greenwich_Observatory_--_2016_--_4728-31.jpg"
+heroImageLicense: "CC BY-SA 4.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
 
 Greenwich combines maritime history, a royal park and a village centre. Across and downstream, Canary Wharf and the Royal Docks offer modern architecture, river views, larger hotels and fast Elizabeth line or DLR connections.
@@ -57,10 +64,3 @@ London City Airport is exceptionally convenient by DLR. River boats are scenic b
 ---
 
 *Check attraction times, arena events and the last practical return journey.*
-
-### Research sources
-
-- [Visit Greenwich accommodation](https://www.visitgreenwich.org.uk/accommodation)
-- [Royal Museums Greenwich](https://www.rmg.co.uk/)
-- [TfL DLR route map](https://content.tfl.gov.uk/dlr-route-map.pdf)
-

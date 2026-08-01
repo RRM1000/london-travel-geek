@@ -1,12 +1,19 @@
 ---
 title: "Westminster and South Bank Area Guide: Hotels, Food and Sights"
+seoTitle: "Westminster and South Bank Area Guide"
 description: "Where to stay, eat and visit around Westminster, Victoria, Waterloo and the South Bank, with hotel recommendations and practical transport advice."
 publishedAt: 2026-07-28
 sites: [london]
 canonicalSite: london
 category: "London areas"
-tags: [Westminster, South Bank, London hotels, London restaurants]
+tags: [Westminster, South Bank, hotels, restaurants]
 draft: false
+heroImage: "../../assets/articles/westminster-south-bank-area-guide/westminster-south-bank-area-guide.jpg"
+heroImageAlt: "The Thames, Houses of Parliament, Westminster Bridge and London Eye from Albert Embankment"
+heroImageCredit: "Txllxt TxllxT"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:London_-_Albert_Embankment_path_-_Lambeth_Palace_Road_-_South_Bank_-_Jubilee_Walkway_-_View_NNW_towards_Houses_of_Parliament,_Westminster_Bridge_%26_London_Eye.jpg"
+heroImageLicense: "CC BY-SA 4.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
 
 Westminster and the South Bank place many famous sights within one riverside walk: Parliament, Westminster Abbey, the London Eye, Southbank Centre and the National Theatre.
@@ -64,10 +71,3 @@ Start at Westminster Abbey, cross Westminster Bridge, follow the South Bank to T
 ---
 
 *Check hotel rates, restaurant opening days and attraction reservations for your dates.*
-
-### Research sources
-
-- [Visit London](https://www.visitlondon.com/)
-- [Michelin Guide London](https://guide.michelin.com/us/en/travel-guide/london)
-- [Southbank Centre](https://www.southbankcentre.co.uk/)
-

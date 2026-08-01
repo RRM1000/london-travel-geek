@@ -1,6 +1,7 @@
 ---
 import { Image } from "astro:assets";
 import type { ImageMetadata } from "astro";
+import { formatTag, tagHref } from "../lib/taxonomy";
 
 interface Props {
   label?: string;
@@ -10,6 +11,7 @@ interface Props {
   empty?: boolean;
   image?: ImageMetadata;
   imageAlt?: string;
+  tags?: string[];
 }
 
 const {
@@ -20,6 +22,7 @@ const {
   empty = false,
   image,
   imageAlt = "",
+  tags = [],
 } = Astro.props;
 ---
 
@@ -41,6 +44,11 @@ const {
     <p class="eyebrow">{empty ? "Content slot" : label}</p>
     <h3>{empty ? "Article card" : title}</h3>
     <p>{empty ? "Connect this component to an article collection." : description}</p>
+    {!empty && tags.length > 0 && (
+      <ul class="article-card__tags" aria-label={`Tags for ${title}`}>
+        {tags.slice(0, 4).map((tag) => <li><a href={tagHref(tag)}>{formatTag(tag)}</a></li>)}
+      </ul>
+    )}
     {!empty && <a href={href} aria-label={`Read ${title}`}>Read article →</a>}
   </div>
 </article>
@@ -52,10 +60,13 @@ const {
     border-radius: var(--card-radius);
     background: var(--surface);
     box-shadow: 0 1px 0 color-mix(in srgb, var(--ink) 5%, transparent);
+    transition: box-shadow var(--transition), translate var(--transition);
   }
 
   .article-card__image {
     display: grid;
+    min-height: 0;
+    overflow: hidden;
     aspect-ratio: 16 / 9;
     place-items: center;
     background:
@@ -66,6 +77,24 @@ const {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    transition: scale var(--transition), filter var(--transition);
+  }
+
+  .article-card:hover {
+    translate: 0 -0.2rem;
+    box-shadow: 0 0.85rem 2rem rgb(15 39 54 / 0.13);
+  }
+
+  .article-card:hover .article-card__image :global(img) {
+    scale: 1.035;
+    filter: saturate(1.04);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .article-card,
+    .article-card__image :global(img) {
+      transition: none;
+    }
   }
 
   .article-card__monogram {
@@ -95,6 +124,34 @@ const {
   .article-card__body > p:not(.eyebrow) {
     color: var(--muted);
     font-size: 0.94rem;
+  }
+
+  .article-card__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.1rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .article-card__tags a {
+    display: block;
+    width: auto;
+    margin: 0;
+    padding: 0.25rem 0.5rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    color: var(--muted);
+    font-size: 0.72rem;
+    font-weight: 750;
+    line-height: 1.25;
+    text-decoration: none;
+  }
+
+  .article-card__tags a:hover {
+    border-color: var(--accent);
+    color: var(--accent);
   }
 
   a {

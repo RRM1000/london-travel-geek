@@ -1,5 +1,6 @@
 ---
 title: "eSIM vs Physical SIM: Which Is Better for Travel?"
+seoTitle: "eSIM vs Physical SIM for Travel"
 description: "A practical comparison of travel eSIMs and local physical SIM cards, including cost, setup, phone numbers, coverage, dual-SIM use and common problems."
 publishedAt: 2026-07-28
 sites:
@@ -12,6 +13,12 @@ tags:
   - travel SIM cards
   - roaming
 draft: false
+heroImage: "../../assets/articles/esim-vs-physical-sim-for-travel/esim-vs-physical-sim-for-travel.jpg"
+heroImageAlt: "A smartphone displaying SIM card insertion instructions beside a physical SIM"
+heroImageCredit: "Tony Webster"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Insert_SIM_Card_-_Android_LG_Nexus_5X_-_Project_Fi_(42034815022).jpg"
+heroImageLicense: "CC BY 2.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
 An eSIM and a physical SIM perform the same fundamental job: they identify your subscription to a mobile network. The meaningful travel differences are how you obtain them, whether your phone supports them and what the selected plan includes.
@@ -105,10 +112,3 @@ If access to the home number is essential, keep the home line active only after 
 ---
 
 *Information checked on 28 July 2026. Compatibility and plan terms vary by device, country and provider.*
-
-### Research sources
-
-- [GSMA: eSIM](https://www.gsma.com/solutions-and-impact/technologies/esim/)
-- [Apple: Using an eSIM while travelling](https://support.apple.com/en-us/118227)
-- [Ofcom: Using your mobile abroad](https://www.ofcom.org.uk/phones-and-broadband/saving-money/using-your-mobile-abroad)
-

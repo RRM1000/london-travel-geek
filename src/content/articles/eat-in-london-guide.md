@@ -1,12 +1,19 @@
 ---
 title: "Eat in London: Restaurants, Markets and Quick Food"
+seoTitle: "Where to Eat in London"
 description: "Start here for London restaurant guides, food markets, food halls, quick meals, pubs, cafés and recommendations by area, budget and occasion."
 publishedAt: 2026-07-28
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
-tags: [London restaurants, London food markets, London food halls, quick food, places to eat]
+tags: [restaurants, food markets, food halls, quick food, places to eat]
 draft: false
+heroImage: "../../assets/articles/eat-in-london-guide/eat-in-london-guide.jpg"
+heroImageAlt: "The entrance to Borough Market beneath a railway viaduct in London"
+heroImageCredit: "Fred Romero"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:London_-_Borough_Market.jpg"
+heroImageLicense: "CC BY 2.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
 London's food scene is much bigger than conventional restaurants. You can build a meal around a specialist neighbourhood restaurant, try several traders inside a food hall, eat your way around a market or find something quick before a show or train.
