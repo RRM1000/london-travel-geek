@@ -18,11 +18,11 @@ tags:
   - eSIM
 draft: false
 heroImage: "../../assets/articles/should-you-buy-sim-card-at-airport/should-you-buy-sim-card-at-airport.jpg"
-heroImageAlt: "Travellers at a mobile-network service counter inside an airport"
-heroImageCredit: "Solomon203"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:Airport_Service_Center,_Chunghwa_Telecom_20180512.jpg"
-heroImageLicense: "CC BY-SA 4.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+heroImageAlt: "Travellers seated inside London Heathrow Airport terminal"
+heroImageCredit: "Michaela"
+heroImageSource: "https://unsplash.com/photos/a-large-group-of-people-sitting-in-an-airport-m5l-65J9hG8"
+heroImageLicense: "Unsplash License"
+heroImageLicenseUrl: "https://unsplash.com/license"
 ---
 
 Stepping off an international flight at London Heathrow or Gatwick with a dead mobile signal can make anyone feel vulnerable. The immediate instinct for many travellers is to head straight for the first bright SIM card desk or vending machine in the arrivals hall.
