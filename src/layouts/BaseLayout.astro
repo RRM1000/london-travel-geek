@@ -138,6 +138,16 @@ const jsonLd = JSON.stringify(
       src="https://widget.getyourguide.com/dist/pa.umd.production.min.js"
       data-gyg-partner-id="WWP7I0R"
     ></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-YDK7Q2D8E8"
+    ></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YDK7Q2D8E8');
+    </script>
   </head>
   <body data-site={activeSite.id}>
     <a class="skip-link" href="#main-content">Skip to content</a>
