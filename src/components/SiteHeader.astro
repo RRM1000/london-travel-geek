@@ -10,25 +10,67 @@ const { site } = Astro.props;
 ---
 
 <header class="site-header">
-  <!-- Top White Header Banner with Logo and Search -->
+  <!-- Top White Header Banner with Logo, Desktop Search, and Mobile Hamburger -->
   <div class="header-banner">
     <div class="container header-banner__inner">
       <SiteLogo site={site} />
       
-      <!-- Right-side Search Form -->
-      <form class="header-search" action="/guides/" method="get" role="search">
+      <!-- Desktop Right-side Search Form -->
+      <form class="header-search desktop-search" action="/guides/" method="get" role="search">
         <input 
           type="search" 
           name="q" 
           placeholder="Search 130+ London guides..." 
           aria-label="Search guides"
         />
-        <button type="submit" aria-label="Search">🔍</button>
+        <button type="submit" aria-label="Search" class="search-btn">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+        </button>
       </form>
+
+      <!-- Mobile Navigation Hamburger in Top Bar -->
+      <details class="mobile-nav">
+        <summary aria-label="Toggle mobile menu">
+          <span></span><span></span><span></span>
+        </summary>
+        <div class="mobile-nav-dropdown">
+          <!-- Prominent Search Bar inside Mobile Dropdown -->
+          <form class="mobile-search-form" action="/guides/" method="get" role="search">
+            <input 
+              type="search" 
+              name="q" 
+              placeholder="Search 130+ London guides..." 
+              aria-label="Search guides"
+            />
+            <button type="submit" aria-label="Search" class="mobile-search-btn">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </form>
+
+          <nav aria-label="Mobile navigation">
+            <ul>
+              {site.navigation.map((item) => (
+                <li><a href={item.href}>{item.label}</a></li>
+              ))}
+              <li>
+                <a href="/topics/london-itineraries/" class="mobile-cta">
+                  Plan Your Trip &rarr;
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </details>
     </div>
   </div>
 
-  <!-- Full-Width Dark Navigation Bar -->
+  <!-- Full-Width Dark Navigation Bar (Desktop Only) -->
   <div class="header-navbar">
     <div class="container header-navbar__inner">
       <nav class="desktop-nav" aria-label="Primary navigation">
@@ -44,26 +86,13 @@ const { site } = Astro.props;
       <a class="cta-button" href="/topics/london-itineraries/">
         Plan Your Trip <span class="cta-arrow" aria-hidden="true">&rarr;</span>
       </a>
-
-      <details class="mobile-nav">
-        <summary aria-label="Toggle mobile menu">
-          <span></span><span></span><span></span>
-        </summary>
-        <nav aria-label="Mobile navigation">
-          <ul>
-            {site.navigation.map((item) => (
-              <li><a href={item.href}>{item.label}</a></li>
-            ))}
-            <li><a href="/topics/london-itineraries/" class="mobile-cta">Plan Your Trip &rarr;</a></li>
-          </ul>
-        </nav>
-      </details>
     </div>
   </div>
 </header>
 
 <style>
   .site-header {
+    position: relative;
     width: 100%;
     background: #ffffff;
     border-bottom: 1px solid var(--line, #d4d9d5);
@@ -71,36 +100,36 @@ const { site } = Astro.props;
 
   /* 1. Top Pure White Header Banner */
   .header-banner {
+    position: relative;
     background: #ffffff;
-    padding-block: 1rem;
-    border-bottom: 1px solid #eeeeee;
+    padding-block: 0.85rem;
   }
 
   .header-banner__inner {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 1.5rem;
+    gap: 1rem;
   }
 
-  /* Header Search Bar */
-  .header-search {
+  /* Desktop Header Search Bar */
+  .desktop-search {
     display: flex;
     align-items: center;
-    background: #f5f5f5;
-    border: 1px solid #e0e0e0;
-    border-radius: 20px;
-    padding: 0.25rem 0.5rem 0.25rem 0.9rem;
-    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+    background: #f5f7f8;
+    border: 1.5px solid #dcdfe2;
+    border-radius: 999px;
+    padding: 0.2rem 0.25rem 0.2rem 0.9rem;
+    transition: all 0.15s ease;
   }
 
-  .header-search:focus-within {
-    border-color: var(--ink, #132a38);
-    box-shadow: 0 0 0 2px color-mix(in srgb, var(--ink, #132a38) 15%, transparent);
+  .desktop-search:focus-within {
+    border-color: #e63946;
     background: #ffffff;
+    box-shadow: 0 0 0 3px rgba(230, 57, 70, 0.15);
   }
 
-  .header-search input {
+  .desktop-search input {
     padding: 0.25rem 0.4rem;
     border: 0;
     background: transparent;
@@ -108,15 +137,27 @@ const { site } = Astro.props;
     font-size: 0.85rem;
     color: var(--ink, #132a38);
     outline: none;
-    width: clamp(10rem, 20vw, 16rem);
+    width: clamp(10rem, 18vw, 15rem);
   }
 
-  .header-search button {
-    padding: 0.2rem 0.4rem;
-    background: transparent;
+  .search-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    background: #e63946;
+    color: #ffffff;
     border: 0;
+    border-radius: 50%;
     cursor: pointer;
-    font-size: 0.9rem;
+    transition: background 0.15s ease, transform 0.15s ease;
+    box-shadow: 0 2px 6px rgba(230, 57, 70, 0.25);
+  }
+
+  .search-btn:hover {
+    background: #b52d36;
+    transform: scale(1.05);
   }
 
   /* 2. Full-Width Dark Navigation Bar */
@@ -208,22 +249,25 @@ const { site } = Astro.props;
     font-size: 1.05rem;
   }
 
-  /* Mobile Navigation Toggle */
+  /* Mobile Navigation Toggle (Top Bar) */
   .mobile-nav {
     display: none;
-    position: relative;
   }
 
   summary {
-    display: grid;
-    width: 2.5rem;
-    aspect-ratio: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 2.6rem;
+    height: 2.6rem;
     cursor: pointer;
-    place-content: center;
     gap: 0.25rem;
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    border-radius: 4px;
+    border: 1.5px solid var(--ink, #132a38);
+    border-radius: 8px;
+    background: var(--ink, #132a38);
     list-style: none;
+    transition: background 0.15s ease;
   }
 
   summary::-webkit-details-marker {
@@ -231,21 +275,61 @@ const { site } = Astro.props;
   }
 
   summary span {
-    width: 1.1rem;
+    width: 1.25rem;
     height: 2px;
     background: #ffffff;
+    border-radius: 2px;
   }
 
-  .mobile-nav nav {
+  /* Mobile Dropdown Drawer */
+  .mobile-nav-dropdown {
     position: absolute;
-    top: calc(100% + 0.5rem);
+    top: 100%;
+    left: 0;
     right: 0;
-    width: min(16rem, calc(100vw - 2rem));
-    padding: 0.6rem;
-    border-radius: 8px;
+    width: 100%;
     background: var(--ink, #132a38);
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
-    z-index: 100;
+    color: #ffffff;
+    padding: 1.25rem 1rem 1.5rem;
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.35);
+    z-index: 999;
+    border-bottom: 3px solid #e63946;
+  }
+
+  /* Mobile Search Form Inside Dropdown */
+  .mobile-search-form {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: #ffffff;
+    border-radius: 999px;
+    padding: 0.25rem 0.25rem 0.25rem 1rem;
+    margin-bottom: 1.25rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  }
+
+  .mobile-search-form input {
+    flex: 1;
+    border: 0;
+    background: transparent;
+    font-size: 0.92rem;
+    color: var(--ink, #132a38);
+    outline: none;
+  }
+
+  .mobile-search-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.25rem;
+    height: 2.25rem;
+    background: #e63946;
+    color: #ffffff;
+    border: 0;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1rem;
+    box-shadow: 0 2px 6px rgba(230, 57, 70, 0.3);
   }
 
   .mobile-nav ul {
@@ -254,36 +338,44 @@ const { site } = Astro.props;
     padding: 0;
     display: flex;
     flex-direction: column;
-    gap: 0.25rem;
+    gap: 0.35rem;
   }
 
   .mobile-nav a {
     display: block;
-    padding: 0.65rem 0.85rem;
+    padding: 0.75rem 1rem;
     color: #ffffff;
     font-family: var(--body), sans-serif;
-    font-size: 0.85rem;
-    font-weight: 700;
+    font-size: 0.95rem;
+    font-weight: 750;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
-    border-radius: 4px;
+    border-radius: 6px;
+    transition: background 0.15s ease;
   }
 
-  .mobile-nav a:hover {
-    background: rgba(255, 255, 255, 0.1);
+  .mobile-nav a:not(.mobile-cta):hover {
+    background: rgba(255, 255, 255, 0.12);
+    color: #efb83f;
   }
 
   .mobile-cta {
     background: #e63946 !important;
     color: #ffffff !important;
     text-align: center;
-    margin-top: 0.4rem;
+    margin-top: 0.6rem;
+    padding-block: 0.85rem !important;
+    box-shadow: 0 4px 12px rgba(230, 57, 70, 0.3);
   }
 
   @media (max-width: 54rem) {
-    .desktop-nav,
-    .cta-button {
+    .desktop-search {
       display: none;
+    }
+
+    .header-navbar {
+      display: none !important;
     }
 
     .mobile-nav {

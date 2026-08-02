@@ -161,6 +161,12 @@
     margin-inline: auto;
   }
 
+  @media (max-width: 48rem) {
+    .container {
+      width: min(calc(100% - 1rem), var(--page-width));
+    }
+  }
+
   .section {
     padding-block: var(--space-7);
   }
