@@ -3,6 +3,7 @@ title: "How to Use London River Boats: Fares, Routes and Thames Cruises"
 seoTitle: "How to Use London River Boats"
 description: "A practical guide to London's River Bus, including 2026 zone fares, day tickets, scenic routes, speedboats, dining cruises and the River Bus Comedy Night."
 publishedAt: 2026-07-28
+updatedAt: 2026-08-02
 sites:
   - london
 canonicalSite: london
@@ -23,286 +24,197 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
-The Thames can be part of London's public-transport network or an attraction in its own right. The important first step is deciding whether you need a scheduled boat that takes you from A to B, a narrated sightseeing cruise, or a pre-booked experience such as a speedboat, lunch cruise or comedy night.
-
-Uber Boat by Thames Clippers is the service most people mean by a London **river taxi**. TfL calls it the River Bus, although it is privately operated and uses a separate fare system.
-
-> **The short version:** use the River Bus for practical, scenic travel between piers; buy a Hop-on Hop-off ticket only if you expect to make several substantial journeys in one day; choose a sightseeing cruise for commentary; and book speedboat, dining and comedy experiences separately. River fares do not count towards TfL daily or weekly caps.
-
-## River Bus, sightseeing cruise or experience?
-
-| Type | Best for | Can it replace another journey? | How you pay |
-| --- | --- | --- | --- |
-| Uber Boat River Bus | Travelling between west, central and east London while seeing the river | Yes | Oyster, contactless, app, website or pier ticket |
-| Hop-on Hop-off River Bus ticket | Several scheduled River Bus journeys in one or two days | Yes | Buy from Uber Boat by Thames Clippers |
-| Sightseeing cruise | Commentary and a leisurely tour | Sometimes, if the cruise calls at more than one pier | Buy from the cruise operator |
-| Speedboat | A fast ride and entertainment | No; treat it as an attraction | Pre-book with the operator |
-| Dining or afternoon-tea cruise | A meal with river views | No | Pre-book with the operator |
-| Comedy or themed boat | A timed evening experience | No | Pre-book the event ticket |
-
-Do not assume that a ticket sold for one company can be used with another. An Uber Boat day ticket, for example, does not admit you to City Cruises, Thames Rockets or a special comedy charter.
-
-## How the River Bus works
-
-Uber Boat by Thames Clippers operates scheduled services between piers from Putney in the west to Barking Riverside in the east. Not every service calls at every pier, and the western end has fewer sailings than the central section.
-
-For a normal journey:
-
-1. Use the [Uber Boat journey planner](https://www.thamesclippers.com/plan-your-journey) to find the correct pier, route and departure.
-2. Arrive at least five minutes early. Busy sailings board on a first-come, first-served basis.
-3. If using Oyster or contactless, wait until staff ask you to **touch in** at the reader beside the boarding ramp.
-4. Check the boat's destination before boarding.
-5. **Touch out** when you leave the boat. At an interchange, touch out and touch in again as instructed.
-
-Each passenger needs a separate Oyster or contactless card. Use the same physical card or device at both ends; a bank card and the same card stored in a phone are treated as different payment methods.
-
-You cannot top up an Oyster card at a pier, so check the balance beforehand. River Bus spending is not included in Tube, rail, bus or tram caps, and a rail journey does not include a connecting boat.
-
-## River Bus zones
-
-The network has three fare zones. Your ticket must cover every zone through which the boat travels.
-
-| Zone | Broad area | Useful examples |
-| --- | --- | --- |
-| West | Putney to Battersea Power Station | Putney, Wandsworth and Battersea |
-| Central | Battersea Power Station to Canary Wharf | Westminster, London Eye, Bankside, London Bridge, Tower and Canary Wharf |
-| East | Canary Wharf to Barking Riverside | Greenwich, North Greenwich, Woolwich and Barking Riverside |
-
-Tower to Greenwich therefore needs a **Central and East** ticket. Putney to Westminster needs **Central and West**, while Putney to Greenwich crosses **all zones**.
-
-Use the operator's [river travel zones and pier guide](https://www.thamesclippers.com/plan-your-journey) before buying, particularly if your journey begins or ends close to a zone boundary. TfL's [River Services map](https://content.tfl.gov.uk/riverservices-map.pdf) is also useful for seeing the piers along the Thames at a glance.
-
-## Current River Bus single fares
-
-The table below shows adult single fares checked on **28 July 2026**. Uber Boat is temporarily charging different Oyster and contactless rates according to the time of travel until 31 October 2026. Its labels are unusual: the weekday morning commuter period is called **off-peak**, while evenings, weekends and bank holidays are currently classed as **peak**.
-
-| Zones travelled | Oyster/contactless: Mon–Fri 06:35–09:27 | Oyster/contactless: all other times | Online/app single | Pier single |
-| --- | ---: | ---: | ---: | ---: |
-| East only | £6.20 | £7.40 | £7.20 | £9.40 |
-| West only | £6.20 | £7.40 | £7.20 | £9.40 |
-| Central only | £9.90 | £11.90 | £11.70 | £16.40 |
-| Central and East | £11.40 | £13.70 | £13.50 | £17.70 |
-| Central and West | £11.40 | £13.70 | £13.50 | £17.70 |
-| All zones | £19.30 | £22.90 | £22.70 | £24.70 |
-
-The online/app and pier prices above are temporary summer prices from **5 July to 31 August 2026**. The time-based Oyster and contactless trial lasts until **31 October 2026**, after which the operator says those fares will revert to the lower off-peak rates. Check the [live Uber Boat ticket page](https://www.thamesclippers.com/plan-your-journey/ticket-information) if travelling later.
-
-The best single fare therefore depends on when you sail. During the current trial, Oyster or contactless is cheapest on a weekday morning; at most other times, buying in the app is slightly cheaper. Avoid buying at the pier when a suitable app ticket is available.
-
-## Day tickets, returns and regular-travel options
-
-| Ticket or discount | Current adult price | When it makes sense |
-| --- | ---: | --- |
-| One-day Hop-on Hop-off, online/app | £29.30 | Unlimited River Bus travel for one calendar day; useful for several stops |
-| One-day Hop-on Hop-off, at pier | £32.60 | Same travel, but dearer than buying digitally |
-| Two-day Hop-on Hop-off, online/app | £48.80 | Two calendar days of River Bus sightseeing |
-| One-day family ticket, online/app | £58.70 | Two adults and up to three children |
-| Two-day family ticket, online/app | £97.60 | The same family group over two days |
-| Selected Cross River single | £4.10 | A short crossing rather than a journey along the Thames |
-| Cross River 20-ticket saver | £57.40 | Regular crossings; £2.87 each when all are used |
-
-The summer day-ticket prices above apply through **31 August 2026**. A one-day ticket is not automatically the cheapest choice. Compare it with the exact singles you intend to make: two short journeys can cost less, while three substantial journeys usually make the freedom to hop on and off more valuable.
-
-The £4.10 Cross River fare applies only between:
-
-- Barking Riverside and Woolwich (Royal Arsenal);
-- Greenland (Surrey Quays) and Canary Wharf;
-- Rotherhithe and Canary Wharf.
-
-Regular travellers can also compare Commuter AM, carnet and weekly, monthly or annual season tickets on the [commuter ticket page](https://www.thamesclippers.com/commuters/commuter-tickets). Commuter AM is an app-only discount for journeys made between 05:00 and 09:30 on weekdays. Do the calculation for your exact zones rather than assuming a season ticket is cheapest.
-
-### Discounts
-
-- Children aged 5–15 and eligible concession holders generally receive 50% off adult fares; children aged four and under travel free.
-- A TfL-issued Travelcard gives one third off many standard River Bus fares, but it does not make the boat free.
-- A Travelcard loaded onto Oyster can apply its discount automatically. A paper Travelcard requires a discounted ticket from the app, website, machine or ticket office.
-- Freedom Pass holders cannot simply touch in and out for the discount; they should buy the appropriate concession ticket.
-- Cross River fares do not receive the normal child, concession or Travelcard discounts.
-
-Check the operator's eligibility rules before relying on a discount.
-
-## Recommended River Bus routes
-
-### Westminster or London Eye to Greenwich
-
-This is one of the best river journeys for first-time visitors. You pass the central skyline, the City, Tower Bridge, historic riverside warehouses and Docklands before arriving near the Cutty Sark and the Old Royal Naval College.
-
-![Tower Bridge seen from the deck of a river boat passing directly beneath it.](../../assets/articles/getting-around-london/tower-bridge-from-river-boat.png)
-
-*Tower Bridge is one of the highlights of the Westminster or London Eye-to-Greenwich journey: the boat passes directly underneath it, giving you one of the most dynamic views of the iconic bridge.*
-
-It requires a Central and East fare. Travel one way by boat and return by DLR, Southeastern or the Elizabeth line to avoid repeating the same route.
-
-### Tower to Greenwich
-
-Choose this shorter version if you already plan to visit the Tower of London or Tower Bridge. It retains some of the most interesting eastern scenery and is a practical transfer between two major sightseeing areas.
-
-### Battersea Power Station to Tower
-
-This Central-zone journey passes several bridges, Westminster, the South Bank and the City. Begin or finish with the riverside spaces and restaurants around the restored power station.
-
-### Putney to central London
-
-The western approach is greener and calmer than the busiest central section, passing stretches associated with rowing and residential riverside London. Services are less frequent and are strongest on weekdays, so plan around the RB6 timetable rather than arriving speculatively.
-
-### Canary Wharf cross-river trips
-
-Rotherhithe or Greenland to Canary Wharf takes only a few minutes and uses the special £4.10 fare. It is a useful local crossing with connections to the Jubilee line, Elizabeth line and DLR rather than a long sightseeing trip.
-
-### Central London to The O2
-
-North Greenwich Pier is beside The O2. The scheduled River Bus makes an enjoyable outward journey, while selected events have bookable post-show services. Do not assume there will be a special boat after every concert: check the [event service calendar](https://www.thamesclippers.com/whats-on-and-offers/the-o2-post-show-services) before relying on it.
-
-## A one-day Thames itinerary
-
-To make good use of a Hop-on Hop-off ticket:
-
-1. Start at Battersea Power Station and sail to Westminster or London Eye.
-2. Walk the South Bank to Bankside, visiting Tate Modern or Borough Market.
-3. Rejoin at Bankside or London Bridge City and sail east to Greenwich.
-4. Explore the Cutty Sark, Royal Observatory and Greenwich Park.
-5. Continue to North Greenwich for The O2 or the London Cable Car, then return towards central London.
-
-This plan uses the boat for real transfers rather than repeatedly sailing the same central stretch. Check the final return sailing before spending the evening in Greenwich or North Greenwich.
-
-## Useful piers for attractions
-
-| Pier | Nearby places |
-| --- | --- |
-| Battersea Power Station | Power station complex, riverside park and Battersea |
-| Westminster | Parliament, Westminster Abbey, St James's Park and Churchill War Rooms |
-| London Eye (Waterloo) | London Eye, South Bank, National Theatre and Waterloo |
-| Embankment | Trafalgar Square, Covent Garden and the National Gallery |
-| Bankside | Tate Modern, Shakespeare's Globe, St Paul's via Millennium Bridge |
-| London Bridge City | Borough Market, the Shard and Tower Bridge |
-| Tower | Tower of London, Tower Bridge and the City |
-| Canary Wharf | Docklands, shopping, Elizabeth line, Jubilee line and DLR |
-| Greenwich | Cutty Sark, Old Royal Naval College, market and Royal Observatory |
-| North Greenwich | The O2 and London Cable Car |
-| Woolwich (Royal Arsenal) | Woolwich Works and Elizabeth line |
-
-Pier names are not always identical to the nearest station name. Allow walking time, especially with luggage or a timed attraction.
-
-## River Bus or Underground?
-
-Choose the River Bus when:
-
-- the journey itself is part of the experience;
-- both destinations are close to useful piers;
-- you want open-air views or a climate-controlled cabin;
-- a direct sailing avoids an awkward rail interchange;
-- you are travelling with a bicycle, which can normally be carried free.
-
-Choose rail when:
-
-- arrival time matters;
-- the destination is far from the river;
-- you need a frequent late-evening service;
-- you want the journey included in an ordinary TfL cap;
-- poor weather would remove much of the benefit.
-
-The River Bus has seating, a café bar and toilets on most vessels. Bikes and dogs are accepted subject to the operator's conditions and available space.
-
-Most piers and boats are step-free, but the operator currently identifies **Cadogan, London Bridge City and Wandsworth Riverside Quarter** as exceptions. Millbank also has a temporary step-free-access issue at the time of writing. Check the specific pier page before travelling with a wheelchair, mobility aid or pram.
-
-## Sightseeing cruises
-
-A sightseeing cruise is a better choice than the River Bus when live or recorded commentary matters more than reaching a destination.
-
-| Operator | Typical format | Best for |
-| --- | --- | --- |
-| [City Cruises](https://www.cityexperiences.com/london/city-cruises/) | Sightseeing services and a 24-hour hop-on/off product | A traditional narrated cruise with several central piers |
-| [London Eye River Cruise](https://www.londoneye.com/tickets-and-prices/general-tickets/river-cruise/) | 40-minute circular cruise from London Eye Pier | A compact cruise returning to the same place |
-| [Thames River Sightseeing](https://www.thamesriversightseeing.com/) | Westminster, Tower and Greenwich services | Sightseeing while transferring between central London and Greenwich |
-| [Thames River Boats](https://www.thamesriverboats.net/) | Longer western sailings towards Kew, Richmond and Hampton Court | A seasonal day out beyond central London |
-| [Turks Launches](https://www.turks.co.uk/) | Richmond, Kingston and Hampton Court trips | A quieter Upper Thames journey |
-
-At the time of checking, City Cruises advertised its 24-hour sightseeing ticket from **£23 per adult**, while the 40-minute London Eye circular cruise displayed selected adult departures from **£15.50**. These are operator prices, not TfL fares, and can change by date.
-
-Oyster and contactless pay as you go are not normally used directly for sightseeing cruises. TfL says Oyster credit may be used to buy a paper ticket from some pier ticket offices, but that is different from touching in.
-
-## Speedboat experiences
-
-Speedboats are thrill rides, not transport. They combine a slower narrated central section with a high-speed run where river rules permit.
-
-| Operator and example | Approximate duration | Current advertised adult price |
-| --- | ---: | ---: |
-| [Thames Rockets: Thames Icons or Ultimate London Adventure](https://www.thamesrockets.com/thames-river-experiences/) | 60 minutes | From £59.95 |
-| [Thames Rockets: Rebel London](https://www.thamesrockets.com/thames-river-experiences/) | 75 minutes | From £59.95 |
-| [Thames Rockets: Thames Barrier Voyage](https://www.thamesrockets.com/thames-river-experiences/) | 90 minutes | From £79.95 |
-| [Thames RIB Experience](https://thamesribexperience.com/the-experience) | Several routes, including short Tower and longer Barrier trips | Check the live date and route |
-
-<div
-  class="gyg-availability-widget"
-  data-gyg-href="https://widget.getyourguide.com/default/availability.frame"
-  data-gyg-tour-id="16670"
-  data-gyg-locale-code="en-US"
-  data-gyg-currency="GBP"
-  data-gyg-widget="availability"
-  data-gyg-variant="horizontal"
-  data-gyg-partner-id="WWP7I0R"
-></div>
-
-Pre-book, arrive early and read the medical, pregnancy, minimum-age and accessibility restrictions. Warm, waterproof layers are sensible even on a mild day.
-
-## Lunch, afternoon tea and evening cruises
-
-These are the closest match to a Thames “meal deal”: the food and cruise are sold together as one timed experience. They are not cheap transport, and drinks, premium window seating or upgrades may cost extra.
-
-| City Cruises experience | What is included | Current advertised price |
-| --- | --- | ---: |
-| [Lunch cruise](https://www.cityexperiences.com/london/city-cruises/lunch-cruise-river-thames/) | 1 hour 45 minutes, two-course meal and commentary | From £38 |
-| [Afternoon tea cruise](https://www.cityexperiences.com/london/city-cruises/afternoon-tea-cruise-river-thames/) | 90 minutes, sandwiches, cakes, scones, tea and coffee | From £59 |
-| [Evening cruise](https://www.cityexperiences.com/london/city-cruises/evening-cruise-river-thames/) | Two hours, sparkling wine, canapés and live music | From £42 |
-| [Jazz dinner cruise](https://www.cityexperiences.com/london/city-cruises/jazz-cruise-river-thames/) | Evening meal and live jazz | From £119 |
-| [Murder Mystery dinner cruise](https://www.cityexperiences.com/london/city-cruises/murder-mystery-dinner-cruise/) | Three hours, three-course meal and interactive show | From £109 |
-
-Prices are starting figures displayed on 28 July 2026 and can vary by date. Book directly, disclose dietary requirements in advance and check what is included before comparing two offers.
-
-## The River Bus Comedy Night
-
-The comedy boat does exist. [River Bus Comedy Night](https://www.thamesclippers.com/whats-on-and-offers/river-bus-comedy-night) is a special Uber Boat by Thames Clippers charter rather than a performance on a normal scheduled service.
-
-The current format is:
-
-- a 100-minute stand-up show during a round trip from Embankment Pier;
-- doors at 18:30, sailing from 19:00 to 21:00;
-- tickets at **£20**;
-- an onboard café bar selling drinks and snacks;
-- admission for adults aged 18 and over.
-
-Dates listed when this guide was checked included 15 October, 13 November and 3 December 2026. Ordinary River Bus singles, day tickets and season tickets are not valid; the comedy ticket must be bought in advance.
-
-## Other ways to experience the Thames
-
-- **Walk the Thames Path:** free and best for stopping whenever a view, pub, market or historic site interests you.
-- **Cycle riverside sections:** useful where the route is comfortable and legal, but pedestrians have priority on shared paths and not every bank is continuous.
-- **Woolwich Ferry:** a free vehicle and passenger crossing between Woolwich and North Woolwich; check service status before making a special trip.
-- **London Cable Car:** a separate paid crossing between North Greenwich and Royal Docks. It travels over rather than along the river, but combines well with a River Bus trip.
-- **Kayaking and small-group activities:** available from specialist operators on selected stretches, with tides, ability requirements and safety rules determining the route.
-
-For a first visit, a scheduled boat to Greenwich gives the best balance of transport and sightseeing. Add a speedboat, meal or comedy cruise only if that particular experience is the point of the outing.
-
-## Common mistakes
-
-- Assuming River Bus fares count towards the ordinary TfL cap.
-- Forgetting to touch out or using a different device at the destination.
-- Buying a day ticket for only one short return journey.
-- Arriving at the station rather than allowing time to reach the pier.
-- Assuming every boat calls at every pier.
-- Confusing a narrated sightseeing cruise with the scheduled River Bus.
-- Expecting an Oyster card to admit you to a dining, speedboat or comedy experience.
-- Relying on a post-event sailing without checking that it operates that night.
-- Missing the last boat home from Greenwich or North Greenwich.
-
-## Related London transport guides
-
-- [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
-- [London Public Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)
-- [Oyster Card or Contactless?](/articles/oyster-card-guide-london/)
-- [How to Use the London Underground](/articles/how-to-use-the-london-underground/)
-- [How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)
+Travelling along the River Thames is one of the most enjoyable ways to see London. Whether you board **Uber Boat by Thames Clippers** for a fast commute, take a narrated sightseeing cruise under Tower Bridge, or book a high-speed Thames Rocket experience, boat travel combines scenic sightseeing with real transit.
+
+> 💡 **River Boat Snapshot:**  
+> - **Transit vs Cruise:** **Uber Boat by Thames Clippers** (River Bus) is London's scheduled river transit system. Narrated cruises and dining boats are private tours.  
+> - **How to Pay:** Tap in AND touch out at pier gate readers using contactless or Oyster cards.  
+> - **No TfL Capping:** River fares are billed separately and **do NOT count towards daily Underground/bus fare caps**.  
+> - **Travelcard Savings:** Valid Travelcard holders receive a **33% discount (1/3 off)** on standard River Bus fares!
 
 ---
 
-*Fares, offers, access information and event dates checked on 28 July 2026. River timetables and commercial experience prices can change, so verify the live operator page before booking.*
+## River Bus, Sightseeing Cruise or Experience?
+
+| Option Type | Best For | Oyster / Contactless Accepted? | Key Difference |
+| --- | --- | --- | --- |
+| **Uber Boat (River Bus)** | Scenic point-to-point transit (e.g. Westminster to Greenwich) | **Yes** *(Touch in & out at pier)* | Scheduled transit boats; climate-controlled indoor cabins & open back decks |
+| **Hop-on Hop-off River Pass** | Making 3+ boat journeys in one day | Buy in app or pier | Unlimited River Bus travel for 24 or 48 hours |
+| **Sightseeing Cruise (City Cruises)** | Narrated tours with live commentary | No *(Pre-booked ticket)* | Focuses on history & commentary; calls at major central piers |
+| **Thames Rockets (Speedboat)** | High-speed thrill ride & entertainment | No *(Pre-booked ticket)* | 35-knot speedboat ride with music & guide |
+| **Dining & Afternoon Tea Cruises** | Lunch, dinner, or tea with river views | No *(Pre-booked ticket)* | Timed 90–120 minute dining experience on the water |
+
+---
+
+## 4 Golden rules of Thames river travel
+
+> 🌟 **Golden Rules of River Boats:**  
+> 1. **Touch In AND Touch Out:** Unlike London buses, you MUST tap your contactless or Oyster card on the reader beside the boarding ramp when boarding AND alighting at piers.  
+> 2. **Use the Same Device:** Tapping in with a physical bank card and out with Apple Pay results in two maximum fare charges!  
+> 3. **Check Pier Step-Free Access:** While most piers are 100% step-free, check pier ramp access if travelling with wheelchairs or heavy strollers.  
+> 4. **Check Boat Direction:** Double-check whether the approaching boat is heading Eastbound (towards Greenwich/Barking) or Westbound (towards Westminster/Battersea).
+
+---
+
+## Uber Boat by Thames Clippers: Fares & Zones
+
+Uber Boat operates across three distinct fare zones: **West Zone** (Putney to Battersea), **Central Zone** (Battersea to Canary Wharf), and **East Zone** (Canary Wharf to Barking Riverside).
+
+<div style="background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 16px; margin: 20px 0;">
+  <h4 style="margin-top: 0; color: #0f172a; border-bottom: 2px solid #0284c7; padding-bottom: 8px; font-size: 1.05rem;">🗺️ Thames River Bus Pier Route by Zone</h4>
+  
+  <div style="margin-bottom: 12px;">
+    <span style="display: inline-block; background-color: #0284c7; color: white; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.8rem; letter-spacing: 0.5px;">WEST ZONE</span>
+    <p style="margin: 4px 0 0 0; font-size: 0.95rem; color: #334155; line-height: 1.5;">Putney ➔ Wandsworth Riverside ➔ Battersea Power Station Pier</p>
+  </div>
+  
+  <div style="margin-bottom: 12px;">
+    <span style="display: inline-block; background-color: #059669; color: white; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.8rem; letter-spacing: 0.5px;">CENTRAL ZONE</span>
+    <p style="margin: 4px 0 0 0; font-size: 0.95rem; color: #334155; line-height: 1.5;">Westminster ➔ London Eye ➔ Embankment ➔ Bankside ➔ London Bridge City ➔ Tower Pier</p>
+  </div>
+
+  <div>
+    <span style="display: inline-block; background-color: #d97706; color: white; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.8rem; letter-spacing: 0.5px;">EAST ZONE</span>
+    <p style="margin: 4px 0 0 0; font-size: 0.95rem; color: #334155; line-height: 1.5;">Canary Wharf ➔ Greenwich ➔ North Greenwich (The O2) ➔ Woolwich ➔ Barking Riverside</p>
+  </div>
+</div>
+
+> 🗺️ **Official Thames River Maps:**  
+> * 📄 **[Download Official TfL River Services Map (PDF)](https://content.tfl.gov.uk/riverservices-map.pdf)** — Full Transport for London schematic map showing all river bus piers, Tube interchanges, and landmark connections.  
+> * 🌐 **[View Interactive Uber Boat Route Map & Timetables](https://www.thamesclippers.com/plan-your-journey/route-map)** — Live interactive pier map with real-time boat tracking and departure schedules.
+
+![An Uber Boat by Thames Clippers River Bus travelling on the Thames.](../../assets/articles/getting-around-london/river-bus.jpg)
+
+*An Uber Boat by Thames Clippers. Photo: [Simon](https://commons.wikimedia.org/wiki/File:Thames_Clipper_Uber_Boat.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
+### 2026 Pay-As-You-Go Fares
+
+*Fares checked on **2 August 2026**.*
+
+| Zones Travelled | Contactless / Oyster (Off-Peak) | Contactless / Oyster (Peak 06:35–09:27) | Online / App Single | Pier Gate Single |
+| --- | ---: | ---: | ---: | ---: |
+| **Central Zone Only** | **£9.90** | **£11.90** | **£11.70** | **£16.40** |
+| **Central & East** | **£11.40** | **£13.70** | **£13.50** | **£17.70** |
+| **Central & West** | **£11.40** | **£13.70** | **£13.50** | **£17.70** |
+| **All Zones (West + Central + East)** | **£19.30** | **£22.90** | **£22.70** | **£24.70** |
+
+> 💳 **Smart Tip:** Tapping Oyster or contactless is almost always cheaper than buying paper tickets at the pier ticket office! Valid Travelcard holders save an extra **33%**.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="River Boats" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="5273,22633,193403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+---
+
+## Top 3 scenic river boat routes for visitors
+
+### 1. Westminster / London Eye ➔ Greenwich (The Ultimate Tourist Route)
+The quintessential Thames river trip! Board at Westminster Pier or London Eye Pier and sail past the Houses of Parliament, South Bank, St Paul's, and the skyscrapers of the City, before cruising **directly beneath Tower Bridge** to reach historic Greenwich (*Cutty Sark*, Royal Observatory).
+* **Zones:** Central & East Zone (£11.40 off-peak PAYG).
+
+![Tower Bridge seen from the deck of a river boat passing directly beneath it.](../../assets/articles/getting-around-london/tower-bridge-from-river-boat.png)
+
+*Cruising directly under Tower Bridge is the highlight of the Westminster-to-Greenwich river trip.*
+
+### 2. Battersea Power Station ➔ Tower Hill
+Explore the restored Battersea Power Station, then board a river boat past Westminster, Big Ben, and the South Bank to land at Tower Pier right beside the Tower of London and Tower Bridge.
+* **Zones:** Central Zone Only (£9.90 off-peak PAYG).
+
+### 3. Canary Wharf ➔ Greenwich Shortcut
+A fast 10-minute river hop linking Docklands skyscrapers with Greenwich maritime heritage.
+* **Zones:** Central & East Zone.
+
+---
+
+## Key piers and nearby London landmarks
+
+| Pier Name | Nearest Underground / Rail Station | Top Nearby Landmarks |
+| --- | --- | --- |
+| **Westminster Pier** | Westminster (District, Circle, Jubilee) | Parliament, Big Ben, Westminster Abbey, Churchill War Rooms |
+| **London Eye Pier** | Waterloo (Jubilee, Northern, Bakerloo) | London Eye, South Bank, Sea Life Aquarium |
+| **Bankside Pier** | Blackfriars / Southwark | Tate Modern, Shakespeare's Globe, Millennium Bridge |
+| **London Bridge City** | London Bridge (Northern, Jubilee) | Borough Market, The Shard, HMS Belfast |
+| **Tower Pier** | Tower Hill (District, Circle) | Tower of London, Tower Bridge |
+| **Canary Wharf Pier** | Canary Wharf (Elizabeth Line, Jubilee, DLR) | Docklands, Financial District, Museum of London Docklands |
+| **Greenwich Pier** | Cutty Sark (DLR) | Cutty Sark, Old Royal Naval College, Greenwich Market |
+| **North Greenwich Pier** | North Greenwich (Jubilee) | The O2 Arena, IFS Cloud Cable Car |
+| **Battersea Power Station Pier** | Battersea Power Station (Northern) | Battersea Power Station, Lift 109, Riverside Dining |
+
+---
+
+## Thames Speedboat Thrill Rides
+
+If you want an adrenaline-filled sightseeing adventure rather than a gentle cruise, high-speed **Rigid Inflatable Boats (RIBs)** operate thrilling high-speed tours along the River Thames. Powered by twin 440hp engines, these speedboats hit speeds up to **30–35 knots (approx 40 mph)** on the open water.
+
+### How Speedboat Tours Work
+* **Central Sightseeing (12 Knots):** From departure (usually London Eye Pier, Westminster, or Boardwalk Pier), the boat travels at a controlled 12 knots past Big Ben, Parliament, and St Paul's while an actor/comedian guide provides live commentary.
+* **High-Speed Blast (35 Knots):** Once the speedboat passes **Tower Bridge**, the skipper hits full throttle! The boat blasts past Canary Wharf, Greenwich, and down towards the **Thames Barrier** with sharp turns, soundtrack music, and spray.
+
+### Top Speedboat Experiences Compared
+
+| Speedboat Tour | Operator | Departure Pier | Typical Duration | Highlights | Starting Price |
+| --- | --- | --- | --- | --- | ---: |
+| **Ultimate London Adventure** | Thames Rockets | London Eye Pier | 50 mins | Central sightseeing + 35-knot high-speed twists to Canary Wharf | From **£59.95** |
+| **Thames Barrier Expedition** | Thames Rockets | London Eye Pier | 80 mins | Extended high-speed voyage past Greenwich down to the Thames Barrier | From **£79.95** |
+| **Canary Wharf RIB Sprint** | Thames RIB Experience | Embankment / Tower Pier | 50 mins | High-powered RIB blast past Docklands skyscrapers | From **£55.00** |
+
+> 🚤 **Essential Speedboat Tips:**  
+> - **Clothing & Gear:** Lifejackets and high-quality waterproof jackets are provided. Dress warmly, as wind chill on open water at 35 knots is intense even in summer!  
+> - **Pre-Booking Required:** Speedboat tours have strict capacity limits (typically 12–16 passengers per RIB) and sell out quickly on weekends.  
+> - **Health Restrictions:** RIB speedboats are **not suitable** for pregnant women, travelers with back or neck conditions, or very young children.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="Speedboats" data-gyg-partner-id="WWP7I0R" data-gyg-q="London speedboats"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/s/%3Fq=London&amp;lc=57&amp;et=16670&amp;searchSource=3&amp;src=search_bar">GetYourGuide</a></span></div>
+
+---
+
+## Lunch, Afternoon Tea & Dining Cruises
+
+If you want to combine sightseeing with a meal or celebratory event, Thames dining cruises offer timed food and cruise packages:
+
+| Experience Type | Typical Duration | Highlights | Starting Price (Approx) |
+| --- | --- | --- | ---: |
+| **Lunch Cruise** | 1 hr 45 mins | 2-course meal with central skyline views | From **£38** |
+| **Afternoon Tea Cruise** | 90 mins | Scones, sandwiches, cakes, tea & coffee | From **£59** |
+| **Evening Dinner Cruise** | 2 – 3 hours | 3-course dinner, wine & live entertainment | From **£42 – £119** |
+| **Murder Mystery Dinner Cruise** | 3 hours | 3-course dinner with an interactive theatrical show | From **£109** |
+
+> 🍷 **Dining Cruise Rules:** Dining cruises are private experiences. Pre-booking in advance is required; contactless taps and Oyster pay-as-you-go are **not accepted**.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Dining Cruise" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="22633,931921,5275"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+---
+
+## The River Bus Comedy Night
+
+Looking for evening entertainment on the water? The [River Bus Comedy Night](https://www.thamesclippers.com/whats-on-and-offers/river-bus-comedy-night) is a special live stand-up comedy show hosted aboard an Uber Boat by Thames Clippers vessel:
+
+* **Format:** A **100-minute stand-up comedy show** featuring top UK comedians while cruising along the Thames.
+* **Departure:** Sails round-trip from **Embankment Pier** (Doors 18:30, sailing 19:00 to 21:00).
+* **Tickets:** Approximately **£20 per ticket** (must be pre-booked online; adult 18+ event).
+* **Onboard Amenities:** Fully licensed café bar serving alcoholic beverages, soft drinks, and snacks throughout the show.
+
+> 🎟️ **Booking Tip:** Regular River Bus tickets, Oyster cards, and day passes are invalid for the comedy night—tickets must be purchased specifically for the event date in advance!
+
+---
+
+## 7 Common river boat mistakes to avoid
+
+1. **Assuming river fares count towards daily Tube caps:** River Bus fares are billed separately and do NOT count towards daily TfL capping limits.
+2. **Forgetting to touch out:** Touching in without touching out charges an incomplete maximum fare.
+3. **Buying paper tickets at the pier:** Pier office tickets cost up to **£16.40** vs. **£9.90** with contactless!
+4. **Buying a Day Pass for just one trip:** Single pay-as-you-go tickets are cheaper unless making 3+ long boat journeys in a day.
+5. **Confusing Uber Boat with sightseeing cruises:** Uber Boat is a fast transit ferry without audio commentary; City Cruises provides live narrated tours.
+6. **Missing the 33% Travelcard discount:** Present or tap your Travelcard to get 1/3 off river fares.
+7. **Missing the last boat back from Greenwich:** Night sailings end earlier than Tube trains—check final pier departure times!
+
+---
+
+## Related London Transport Guides
+
+* 🚊 [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
+* 💷 [London Transport Fares & Costs 2026](/articles/london-public-transport-costs-and-fares/)
+* 🚇 [How to Use the London Underground](/articles/how-to-use-the-london-underground/)
+* 🚌 [How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)
+* 💳 [Oyster Card vs. Contactless Guide](/articles/oyster-card-guide-london/)
+
+---
+
+*Information and fares checked on 2 August 2026. Always verify live sailing timetables with [Transport for London](https://tfl.gov.uk/) and [Uber Boat by Thames Clippers](https://www.thamesclippers.com/).*

@@ -3,6 +3,7 @@ title: "Which London Train Lines Accept Oyster? A Complete Rail Guide"
 seoTitle: "London Train Lines That Accept Oyster"
 description: "A practical guide to using Oyster on the Underground, Elizabeth line, DLR, London Overground and National Rail, with comfort and crowding ratings."
 publishedAt: 2026-07-28
+updatedAt: 2026-08-02
 sites:
   - london
 canonicalSite: london

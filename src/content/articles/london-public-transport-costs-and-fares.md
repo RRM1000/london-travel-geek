@@ -26,15 +26,20 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 
 London transport prices depend on the service, zones, time of travel and how you pay. Contactless or Oyster pay as you go is normally the simplest and least expensive choice for an adult visitor because eligible journeys are automatically capped.
 
-> **Fare snapshot:** prices on this page were checked on **31 July 2026**. The next confirmed change is on **1 November 2026**, when adult bus and tram fares rise. Always use TfL's [Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder) for an exact station-to-station rail fare.
+> **Fare snapshot:** prices on this page were checked on **2 August 2026**. The next confirmed change is on **1 November 2026**, when adult bus and tram fares rise. Always use TfL's [Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder) for an exact station-to-station rail fare.
 
 > **Quick reference: the fares most visitors need**
 >
-> - **Tube, Elizabeth line, Overground or DLR in Zones 1–2:** a two-zone journey including Zone 1 costs **£3.60 peak** or **£3.10 off-peak**. A one-zone Zone 1 journey is £3.10 peak or £3 off-peak.
+> - **Tube, Elizabeth line, Overground or DLR in Zones 1–2:** a two-zone journey including Zone 1 costs **£3.60 peak** or **£3.10 off-peak**. A one-zone Zone 1 journey is **£3.10 peak** or **£3.00 off-peak**.
 > - **Zones 1–2 daily cap:** pay no more than **£8.90** for eligible Tube, Elizabeth line, Overground, DLR, bus and tram travel when you keep using the same Oyster or contactless card or device.
 > - **London bus or tram:** **£1.75** per adult, including further bus and tram journeys started within one hour. The bus-and-tram-only daily cap is **£5.25**.
 > - **Children under 11:** usually travel free on the main TfL services. On rail services they must be with a fare-paying adult, with up to four children per adult.
 > - **Visitors aged 11–15:** pay half the adult pay-as-you-go fares and caps for up to 14 days after the **Young Visitor discount** is added to an Oyster or Visitor Oyster card. A contactless bank card charges the adult fare.
+
+> 🌟 **3 Golden Rules for London Transit:**
+> 1. **Always use Contactless or Oyster:** Never buy single paper tickets at station ticket machines.
+> 2. **Stick to one card or device:** Using Apple Pay on your phone and your physical bank card counts as two separate accounts, splitting your journey history and breaking your daily cap.
+> 3. **Let automatic daily capping work for you:** Avoid buying 1-Day Paper Travelcards—automatic daily capping is almost always cheaper.
 
 Not sure which payment method to choose? Read the [complete Oyster card and contactless guide](/articles/oyster-card-guide-london/), including the current card fee, where Oyster works and when your own bank card is the better option.
 
@@ -115,6 +120,7 @@ Heathrow Express and Southeastern high-speed journeys are excluded from these ca
 For almost all visitors, pay-as-you-go using a contactless card or Oyster card is the cheapest and most convenient way to pay for travel in London. A **7-Day Travelcard** is only worth buying if you plan on doing a lot of travelling over 5 to 7 consecutive days—or if your trip starts mid-week and spans two calendar weeks.
 
 * **Flexible Start Date:** Unlike contactless weekly capping (which strictly runs Monday to Sunday), a **7-Day Travelcard can start on any day of the week** you choose (e.g. Wednesday to Tuesday). It is valid for 7 consecutive days starting at 04:30 on your chosen start date, and can be purchased up to 30 days in advance.
+* **Bonus River Discount:** Holding a valid Travelcard (including a 7-Day Travelcard) gives you a **33% discount (1/3 off)** on standard [Uber Boat River Bus fares](#river-bus-prices) and scheduled Thames passenger services.
 
 > **Quick Example (Zones 1–2):**  
 > The daily contactless cap for Zones 1–2 is **£8.90**, while a 7-Day Travelcard costs **£44.70**. 
@@ -187,115 +193,173 @@ Read our complete advice on [Using the Weekend Hopper for Sightseeing](/articles
 
 ## National Rail and airport rail fares
 
-National Rail prices within London are not one universal table:
+Suburban National Rail pricing inside London can be complex because train lines fall under two separate fare systems: **TfL Zonal Fares** (which count towards daily caps) and **National Rail Operator Fares** (which may carry custom rates or exclusions).
 
-- Many journeys within the Oyster area use TfL-style zonal fares and count towards caps.
-- Some routes use National Rail fares even when Oyster or contactless is accepted.
-- Heathrow Express, Gatwick Express and Southeastern high-speed services have special rules or exclusions.
-- Stansted, Luton and Southend airports are outside the Oyster area. Adult contactless payment is now available on the principal rail routes, but an Oyster card is still not valid.
-- Contactless reaches farther than Oyster on several routes.
+> ⚠️ **Key Rules for National Rail & Airports:**
+> * **Oyster vs. Contactless Boundaries:** Contactless payment is accepted much farther out than Oyster cards. For example, contactless is valid to Gatwick, Luton Airport Parkway, and Stansted Airport, whereas **Oyster cards are NOT valid at Stansted or Luton**.
+> * **Excluded Premium Express Trains:** Premium express services—such as **Heathrow Express**, **Gatwick Express**, and **Southeastern High-Speed** (to Ebbsfleet/Ashford)—are excluded from standard TfL daily capping and Travelcards.
 
-Use TfL's [Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder) for pay-as-you-go journeys and [National Rail](https://www.nationalrail.co.uk/) for Advance, return, Railcard and group tickets.
+To check exact pay-as-you-go rates, use TfL's [Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder). For long-distance, return, or Railcard tickets, book via [National Rail](https://www.nationalrail.co.uk/).
 
-For Heathrow, compare three separate products rather than assuming the fastest-looking train is best:
+### Comparing Heathrow Airport Rail Services
 
-- **Piccadilly line:** standard Tube fare and included in normal capping.
-- **Elizabeth line:** a faster rail option for many destinations; Heathrow supplements can apply.
-- **Heathrow Express:** premium fare, excluded from normal caps and Travelcards.
+When travelling between London and Heathrow (LHR), compare all three rail options before buying a premium express ticket:
 
-The [complete Heathrow Airport transport guide](/articles/heathrow-airport-to-london/) compares current fares, journey times, comfort and the best line for each hotel area. Our [airport section in the main transport guide](/articles/getting-around-london-transport-guide/#travelling-to-and-from-londons-airports) introduces the routes for all six airports.
+| Service / Route | Travel Time | Adult PAYG Fare | Included in TfL Caps? |
+| --- | --- | ---: | --- |
+| **Piccadilly Line (Tube)** | ~50–60 mins | **£5.90** *(Peak)* / **£4.00** *(Off-peak)* | Yes (Standard Tube cap) |
+| **Elizabeth Line** | ~35–45 mins | **£13.30** | Yes (Counts towards caps) |
+| **Heathrow Express** | 15 mins | **£25.00+** | ❌ **Excluded** |
 
-For Gatwick, compare Southern and Gatwick Express to Victoria with Thameslink through London Bridge, Blackfriars, Farringdon and St Pancras. The [complete Gatwick Airport transport guide](/articles/gatwick-airport-to-london/) explains the special airport fares, terminal transfer and when the Express premium is worthwhile.
+For full terminal breakdowns and hotel route advice, read our [Heathrow Airport Transport Guide](/articles/heathrow-airport-to-london/).
+
+### Gatwick Airport & Other Airport Links
+
+* **Gatwick (LGW):** Compare Thameslink (serving London Bridge, Blackfriars, and St Pancras) with Southern Trains and Gatwick Express to Victoria. Thameslink is often cheaper and more convenient for Central London. Read our [Gatwick Airport Transport Guide](/articles/gatwick-airport-to-london/).
+* **Stansted & Luton:** Both airports accept contactless cards, but **do not accept Oyster cards**. 
+* **Complete Airport Overview:** Read our [London Airport Transport Overview](/articles/getting-around-london-transport-guide/#travelling-to-and-from-londons-airports) for all six London airports.
 
 ## River Bus prices
 
-Uber Boat by Thames Clippers sets River Bus fares separately. Oyster and contactless are accepted, but river journeys do not count towards TfL daily or weekly caps.
+River Bus services in London are operated by **Uber Boat by Thames Clippers** under a separate fare structure from the Underground and buses.
 
-Until 31 October 2026, Oyster and contactless use a temporary time-based structure. The operator unusually calls weekday travel from 06:35 to 09:27 **off-peak** and charges the higher **peak** fare at other times, including weekends and bank holidays.
+> ⚓️ **Key Rules for River Bus Fares:**
+> * **Caps & Capping:** Oyster cards and contactless payments are accepted at pier gates, but river journeys **do NOT count towards TfL daily or weekly caps**.
+> * **1/3 Travelcard Discount:** Presenting a valid Travelcard (or having a 7-Day Travelcard loaded on your Oyster) gives you a **33% discount** on standard River Bus fares.
+> * **Peak vs. Off-Peak Timing:** Uber Boat uses a unique time schedule: weekday mornings between **06:35 and 09:27** are billed as **Off-Peak**, while all other times—including weekends and bank holidays—are billed as **Standard/Peak**.
 
-| River zones | PAYG weekday 06:35–09:27 | PAYG at other times |
+### Uber Boat Pay-As-You-Go Fares (Through 31 October 2026)
+
+| River Zone | Off-Peak PAYG *(M–F 06:35–09:27)* | Standard / Peak PAYG *(Weekends & Other Times)* |
 | --- | ---: | ---: |
-| East only | £6.20 | £7.40 |
-| West only | £6.20 | £7.40 |
-| Central only | £9.90 | £11.90 |
-| Central and East | £11.40 | £13.70 |
-| Central and West | £11.40 | £13.70 |
-| All zones | £19.30 | £22.90 |
-| Selected short cross-river journeys | £4.10 | £4.10 |
+| **Central Zone Only** | £9.90 | £11.90 |
+| **Central + East or West** | £11.40 | £13.70 |
+| **East or West Zone Only** | £6.20 | £7.40 |
+| **All Zones** | £19.30 | £22.90 |
+| **Cross-River Ferry** *(Short trips)* | £4.10 | £4.10 |
 
-Through 31 August 2026, an adult one-day Hop-on Hop-off ticket costs **£29.30 online or in the app**, or **£32.60 at the pier**. A TfL-issued Travelcard gives one third off many standard River Bus fares. Children and several concession groups can receive 50% discounts.
+### Day Passes & Hop-On Hop-Off Tickets
 
-Read the [complete London river boats guide](/articles/how-to-use-london-river-boats/) for app and pier singles, day and family tickets, zone boundaries, recommended routes, sightseeing cruises and special experiences.
+An adult **River Roamer 1-Day Hop-on Hop-off Pass** (unlimited river travel for a full day) costs **£29.30 online / in app** or **£32.60 at the pier**. Children under 15 pay half price, and kids under 5 travel free.
+
+For pier maps, recommended scenic river routes, and commuter tips, read our [Complete Guide to London River Boats](/articles/how-to-use-london-river-boats/).
 
 ## London Cable Car prices
 
-| Ticket | Adult | Child |
+The **IFS Cloud Cable Car** crosses the Thames between the Greenwich Peninsula (near The O2 Arena) and the Royal Docks, offering panoramic views of East London, Canary Wharf, and the river.
+
+| Flight type | Adult price | Child price *(Age 5–15)* |
 | --- | ---: | ---: |
-| One way | £7.00 | £3.50 |
-| Round trip | £13.50 | £6.75 |
+| **One-way flight** | **£7.00** | **£3.50** |
+| **Round-trip flight** | **£13.50** | **£6.75** |
 
-Oyster and contactless are accepted, but Cable Car journeys do not count towards TfL caps. TfL advertises online discounts of up to 30% on selected dates and tickets. A local multi-journey ticket costs £19 for ten one-way journeys.
+### Key Cable Car Rules & Discounts
 
-## Woolwich Ferry
+* **Payment Methods:** You can tap at the turnstiles using a contactless card, phone, or Oyster card.
+* **No Daily Capping:** Cable Car rides are billed separately and **do NOT count towards TfL daily or weekly caps**.
+* **Online Booking Discount:** Booking tickets in advance via the [official TfL London Cable Car portal](https://tfl.gov.uk/modes/london-cable-car/) saves up to **30% off** on selected dates and family tickets.
+* **The O2 Event Ticket Discount:** If you hold a ticket for an event at The O2 Arena, presenting your show ticket at the terminal ticket office often qualifies you for a **50% discount** on cable car flights (details on [The O2 Cable Car travel guide](https://www.theo2.co.uk/visit-us/getting-to-the-o2/cable-car)).
+* **Commuter Multi-Pass:** A 10-journey ticket is available for **£19.00** (ideal for frequent commuters).
 
-The Woolwich Ferry between Woolwich and North Woolwich is **free** for pedestrians, cyclists and permitted vehicles. Check its operating status before making a special journey because weather, maintenance and service changes can affect it.
-
-## Santander Cycles
-
-| Option | Standard cycle | E-bike |
-| --- | ---: | ---: |
-| Single ride | £1.65 for up to 30 minutes | £3.00 for up to 30 minutes |
-| Day Pass | £3.50 for unlimited rides of up to 60 minutes | Day Pass plus £1 per e-bike journey of up to 60 minutes |
-| Monthly subscription | £20 | E-bike supplements apply |
-| Annual subscription | £120 | E-bike supplements apply |
-
-Return the bicycle within the included ride time and take another one if needed. Keeping it beyond the limit creates additional charges.
-
-## Black cabs and private hire
-
-Black-cab fares are metered rather than fixed. From 25 April 2026:
-
-- The minimum fare is **£4.40**.
-- A typical one-mile journey is approximately **£8.40–£13.20**, depending on time and traffic.
-- A typical four-mile journey is approximately **£21–£35**.
-- TfL estimates Heathrow–central London at approximately **£70–£120**.
-- Booking charges and airport drop-off extras can apply.
-
-Private-hire services such as Uber show a quote in their app. Prices vary with distance, demand, traffic, pickup point and vehicle type, so there is no single TfL fare to publish.
-
-## Best ways to save money
-
-1. **Use contactless or Oyster pay as you go.** Paper rail singles are usually more expensive; our [Oyster card guide](/articles/oyster-card-guide-london/) explains which option to choose.
-2. **Keep using the exact same card or device.** A physical bank card and that card in Apple Pay are treated separately, so their journeys will not combine towards one cap.
-3. **Travel off-peak when possible.** The saving is most noticeable on longer rail journeys.
-4. **Use pink route validators.** When changing trains on a route that avoids Zone 1, touching the pink reader can prevent a Zone 1 fare.
-5. **Use the Hopper fare.** Chain bus and tram journeys within an hour for one fare.
-6. **Use the Weekend Hopper before 31 August 2026.** It is exceptionally good value for a bus-based sightseeing day.
-7. **Let daily capping work before buying a Day Travelcard.** For most adult visitors, pay as you go is cheaper.
-8. **Consider a weekly product only for frequent travel.** Contactless and Oyster weekly capping follows Monday–Sunday; a 7 Day Travelcard can start on any chosen day.
-9. **Add a Railcard discount to an Oyster card if eligible.** Ask station staff to load the discount; it can reduce many off-peak fares and caps.
-10. **Compare airport routes.** The premium express is not automatically the best journey for your destination.
-11. **Use a Travelcard river discount.** Eligible Travelcard holders get one third off many River Bus fares.
-12. **Check concessions.** Children, students, apprentices, care leavers, veterans, older residents and some jobseekers may qualify for free or discounted travel.
-
-## How much do children pay?
-
-The answer depends on the child's age, the transport used and whether they have the right Oyster discount. These are the rules most families visiting London need:
-
-| Child's age or ticket | Tube, DLR, London Overground and Elizabeth line | Buses and trams | What a visitor needs |
-| --- | --- | --- | --- |
-| **Under 5** | Free with a fare-paying adult | Free | No separate card |
-| **Age 5–10** | Free with a fare-paying adult; up to four children can travel with each adult | Free | No separate card for these main TfL journeys; use the wider staffed gate together |
-| **Age 11–15 with Young Visitor discount** | Half the adult pay-as-you-go fare and half the adult cap | Half the adult pay-as-you-go fare | A separate Oyster or Visitor Oyster card for each child; ask TfL staff to add the discount |
-| **Age 11–15 with an 11–15 Zip Oyster photocard** | Child fares and caps | Free | Apply in advance; this is usually more useful for London residents or longer stays |
-| **Age 16–17 without a 16+ Zip Oyster photocard** | Adult fare | Adult fare | Use adult Oyster or contactless |
-
-The **Young Visitor discount** lasts for up to 14 days. The child must be present when a member of staff adds it at most Tube stations, a TfL Visitor Centre or the National Rail ticket office at Victoria. It cannot be added to a contactless bank card or phone. For example, the current adult Zones 1–2 daily cap is £8.90, so the equivalent Young Visitor cap is **£4.45**.
-
-The free travel rule for children aged 5–10 applies on the Tube, DLR, London Overground, Elizabeth line and some National Rail services when accompanied by a fare-paying adult. National Rail exceptions exist, particularly beyond the TfL network, so check the exact journey. River services, the IFS Cloud Cable Car and airport express trains have their own child tickets; those prices are covered separately above.
-
-See TfL's [visitor guide to travelling with children](https://tfl.gov.uk/travel-information/visiting-london/getting-around-london/best-ways-for-visitors-to-pay) and [free and discounted travel rules](https://tfl.gov.uk/fares/free-and-discounted-travel) for the latest eligibility details.
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="413135" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ---
 
-*Fares checked on 31 July 2026. Adult prices are shown unless a child or concession fare is stated. Always verify an exact journey before buying a non-refundable ticket.*
+## Woolwich Ferry
+
+The **Woolwich Ferry** is a **100% free** public ferry service crossing the Thames between Woolwich and North Woolwich for pedestrians, cyclists, and motor vehicles.
+
+> ⛴️ **Travel tip:** Because service can be temporarily suspended due to high tides, severe weather, or vessel maintenance, always check live status on the TfL website before making a dedicated trip.
+
+---
+
+## Santander Cycles (London Bike Hire)
+
+London's public bike-sharing scheme (**Santander Cycles**, fondly known as "Boris Bikes") features over 800 docking stations across the city. You can hire bikes using a bank card at any docking station terminal or via the Santander Cycles mobile app.
+
+| Option | Standard Bicycle | E-Bike |
+| --- | ---: | ---: |
+| **Single Ride** *(Up to 30 mins)* | **£1.65** | **£3.00** |
+| **Day Pass** *(Unlimited 60-min rides)* | **£3.50** | **£3.50** + £1 per e-bike ride |
+| **Monthly Membership** | **£20.00** / month | E-bike supplements apply |
+| **Annual Membership** | **£120.00** / year | E-bike supplements apply |
+
+> 🚲 **How to avoid extra charges:** Dock your bike within the included time limit (30 minutes for single rides, 60 minutes per trip on a Day Pass). Once docked, you can immediately unlock another bike to continue exploring for free.
+
+---
+
+## Black cabs and private hire (Taxis & Uber)
+
+### Official London Black Cabs (Metered)
+Iconic London black cabs can be hailed on the street, picked up at designated taxi ranks (e.g. major train stations), or booked via apps like Gett. Fares are strictly metered based on time and distance:
+
+* **Minimum fare:** **£4.40** upon entering the cab.
+* **1-mile journey:** Approx. **£8.40 – £13.20** (depending on traffic and time of day).
+* **4-mile journey:** Approx. **£21.00 – £35.00**.
+* **Heathrow Airport to Central London:** Approx. **£70.00 – £120.00**.
+
+### Private Hire & Ride-Hailing (Uber, Bolt, FreeNow)
+Private hire vehicles must be pre-booked through a licensed operator or app. Unlike black cabs, private hire apps show an exact upfront fare quote before you confirm your ride. Prices fluctuate dynamically based on distance, traffic demand (surge pricing), and vehicle tier.
+
+*(Visiting from abroad? Make sure your phone has mobile data for ride-hailing and transit apps with our [UK Travel SIM & eSIM Guide](/articles/travel-sim-esim-guide/).)*
+
+---
+
+## Top 10 money-saving transport tips for London
+
+1. **Always use contactless or an Oyster card:** Paper single tickets are a heavy tourist tax. Tapping in and out automatically calculates the cheapest fare.
+2. **Use the exact same card or device:** Tapping with your physical bank card and then using Apple Pay/Google Pay on your phone counts as two separate accounts, splitting your journey history and preventing daily capping.
+3. **Travel off-peak when possible:** Avoid peak hours (06:30–09:29 and 16:00–18:59 on weekdays) for significant savings on longer Tube and rail trips.
+4. **Take advantage of the Hopper Fare:** Board as many buses and trams as you want within 60 minutes for a single **£1.75** charge.
+5. **Tap pink route validators:** When changing trains on routes that bypass Central London (Zone 1), tap the pink card readers on the platform to ensure you are charged a cheaper outer-zone fare.
+6. **Beware of 1-Day Paper Travelcards:** Paper 1-Day passes carry a £3.80–£7.30 daily penalty over contactless capping. Stick to contactless unless buying a 7-Day Travelcard for a mid-week trip.
+7. **Use your Travelcard for river discounts:** Presenting a valid Travelcard gives you a **33% discount** on Uber Boat River Bus fares.
+8. **Load Railcard discounts onto your Oyster:** If you hold a UK Railcard (e.g. 16-25, 26-30, Senior, or Two Together), ask TfL station staff to link it to your Oyster card for a 34% discount on off-peak fares and daily caps.
+9. **Compare airport transit options:** Avoid assuming the airport express train is best; the Elizabeth line and Tube are frequently faster and far cheaper.
+10. **Register children for free or half-price travel:** Take advantage of TfL's generous child travel policies outlined below.
+
+---
+
+## How much do children pay on London transport?
+
+London offers exceptionally generous discounts for families travelling with children:
+
+| Child's age | Tube, DLR, Overground & Elizabeth Line | Buses & Trams | Required Card / Action |
+| --- | --- | --- | --- |
+| **Under 5** | **Free** | **Free** | No card required; walk through wide luggage gates with adult. |
+| **Age 5–10** | **Free** (up to 4 children per accompanying adult) | **Free** | No card required for TfL lines; use wide staffed gates together. |
+| **Age 11–15 (with Young Visitor Discount)** | **50% off** adult PAYG fares and daily caps | **Free** on buses | Load discount onto a Visitor Oyster card at any Tube station. |
+| **Age 11–15 (with Zip Oyster Photocard)** | Child fares and caps | **Free** | Requires advance online application (mainly for UK residents). |
+| **Age 16–17** | Adult fare *(unless holding 16+ Zip Photocard)* | Adult fare | Use contactless card or adult Oyster. |
+
+> 🧒 **How to get the 50% Young Visitor Discount:**  
+> If you are visiting London with children aged 11–15, buy a standard Oyster card for each child. Ask a member of TfL staff at any Underground station or Visitor Centre to apply the **Young Visitor Discount**. The child must be present. Staff will instantly program a **50% discount** on all single fares and daily caps for up to 14 days (e.g., reducing the Zone 1–2 daily cap to just **£4.45**).
+
+> 👴 **Senior & Overseas Concessions:**  
+> Free senior travel passes (such as the 60+ London Oyster or Freedom Pass) are strictly reserved for London or UK residents. Overseas senior citizen cards, student IDs, or international disability badges are **not accepted** for discounts on TfL services. However, any visitor holding an eligible UK Railcard (e.g. Senior Railcard or Two Together Railcard) can link it to a physical Oyster card at a station to get 34% off off-peak fares.
+
+---
+
+## Penalty fares and incomplete journeys
+
+Travelling without a valid ticket or failing to touch in and out properly can lead to heavy extra charges:
+
+### Official Penalty Fare: £100 (or £50 if paid early)
+If a TfL Revenue Protection Inspector inspects your contactless card or ticket and finds you do not have a valid fare, failed to touch in, or used an Oyster card beyond its valid zone boundary (e.g. at Stansted or Luton):
+* **Standard Penalty Fare:** **£100**
+* **Discounted Rate:** Reduced to **£50** if paid within **21 days**.
+* *(Deliberate fare evasion can result in prosecution and court fines up to £1,000).*
+
+### Maximum Fare for Incomplete Journeys: Up to £9.40–£27.80
+If you make an honest mistake and **forget to touch out** at the end of your trip (or forget to touch in at an un-gated station):
+* TfL cannot calculate where you travelled and automatically charges an **unresolved journey / maximum fare**.
+* **Zones 1–6 Rail Trips:** Charged up to **£9.40** for that single trip (which does not count towards your daily cap).
+* **Outer National Rail & Airport Routes:** Charged up to **£27.80** (e.g. Reading, Gatwick, or Shenfield extensions).
+
+> 💡 **How to claim a refund for a forgotten tap:**  
+> If you forgot to tap out by accident, log into your [online TfL account](https://tfl.gov.uk/fares/) or call TfL customer service within 28 days to explain the error and claim a maximum fare refund.
+
+---
+
+*Fares checked on 2 August 2026. Adult prices are shown unless a child or concession fare is explicitly stated. Always verify exact route fares using the TfL Single Fare Finder before travel.*
+

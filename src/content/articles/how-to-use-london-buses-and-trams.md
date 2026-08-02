@@ -3,6 +3,7 @@ title: "How to Use London Buses and Trams: A Visitor's Guide"
 seoTitle: "How to Use London Buses and Trams"
 description: "How to plan, pay for and ride London buses and trams, including live arrivals, useful sightseeing routes, traffic disruption and the summer Weekend Hopper."
 publishedAt: 2026-07-28
+updatedAt: 2026-08-02
 sites:
   - london
 canonicalSite: london
@@ -23,243 +24,133 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
-London buses are useful transport, not merely a sightseeing experience. They reach streets with no nearby station, avoid long walks through Underground interchanges and let you see the city while travelling. London Trams use the same fare system and many of the same payment rules, so it makes sense to understand them together.
+London's iconic red double-decker buses are far more than a scenic attraction—they are the backbone of the city's surface transit network. Buses reach neighbourhoods with no nearby Tube stations, avoid long station walks, and let you experience London at street level for just **£1.75 per ride**.
 
-> **The short version:** plan by route number and destination, wait at the correct lettered stop, signal clearly to the driver, touch in once with Oyster or contactless and press the bell before your stop. Do **not** touch out. For a tram, touch in on the platform before boarding and do not touch out.
+> 💡 **Bus & Tram Snapshot:**  
+> - **Flat Fare:** All London bus and tram journeys cost a flat **£1.75** (no peak rates, no distance zones).  
+> - **Touch In ONLY:** Always tap your contactless bank card, phone, or Oyster card ONCE on the yellow reader beside the driver as you board. **Never touch out** when exiting.  
+> - **Hopper Fare:** Make unlimited bus and tram transfers within **60 minutes** of your first tap for just **£1.75**.  
+> - **100% Cashless:** Drivers do not accept cash. Every passenger must tap their own card or phone.
 
-From **25 July to 31 August 2026**, the Summer Weekend Hopper makes buses and trams particularly good value: one £1.75 fare provides unlimited travel on an eligible Saturday, with a separate £1.75 fare for Sunday. The Bank Holiday Monday on 31 August is included.
+---
 
-## Bus or Underground?
+## Bus vs. Underground: Which should you choose?
 
-The best option depends on the journey. The Tube usually wins for a long journey across central London, while a bus often wins when the alternative involves a change, a long station walk or travelling only a few stops.
-
-| London bus advantage | London bus disadvantage |
-| --- | --- |
-| You see London rather than tunnels | Traffic makes journey times unpredictable |
-| Stops are closer together and reach more streets | A short delay can become substantial at busy times |
-| One flat fare with no peak surcharge or zones | A bus may be diverted or stop short of its destination |
-| No station stairs, escalators or long corridors | Lower decks and wheelchair areas can become crowded |
-| Every route uses low-floor accessible buses | Space for large suitcases is limited |
-| Phone signal and daylight throughout the journey | Road motion can be uncomfortable if you are standing |
-| Often easier for short journeys or awkward Tube connections | Usually slower than a direct rail journey over a long distance |
-
-The bus is especially useful for:
-
-- short journeys where walking down to a Tube platform would take almost as long;
-- a direct journey that replaces a change between Underground lines;
-- passengers avoiding stairs or deep stations;
-- travelling with a pushchair or modest luggage outside busy periods;
-- sightseeing from the upper deck;
-- late-night travel after a rail service has finished.
-
-Choose the Underground, Elizabeth line or another railway when speed and predictable timing matter, particularly for an airport, timed ticket or connection.
-
-## Planning a bus journey
-
-Use [TfL Go](https://tfl.gov.uk/maps_/tfl-go), the [TfL Journey Planner](https://tfl.gov.uk/plan-a-journey/) or Google Maps to compare routes. Check the complete journey rather than choosing the first bus shown: walking to a parallel street may reveal a faster or more direct service.
-
-A London bus route has:
-
-- a **route number**, such as 15 or 24;
-- two general directions;
-- a destination shown on the front and side of the bus;
-- a sequence of named stops;
-- a letter identifying each physical stop in a busy area.
-
-The same route number may depart from different stops on opposite sides of a junction. Around large stations, stops can be several streets apart, so match the stop letter in your app or map to the letter displayed at the top of the bus-stop flag.
-
-Before boarding, check both the number and destination. A bus can be **on diversion**, can finish early or may display a nearer destination than usual.
-
-## At the bus stop
-
-Every TfL stop displays its name, route numbers and the general destinations served. Many also have a printed local route map and timetable.
-
-Stand where the driver can see you and, when the bus approaches, signal clearly by extending your arm. London has many stops used by several routes, so a driver should not have to guess whether you want that bus.
-
-Let passengers leave before boarding. If the bus is full, the driver may close the doors or ask waiting passengers to use the next service.
-
-### Reading the countdown screen
-
-Some shelters have a digital Countdown display. It shows predicted minutes until each bus arrives, usually alongside the route number and destination.
-
-- **“Due”** means the bus is expected very shortly.
-- A changing number is a live prediction, not a guarantee.
-- A bus disappearing from the display can mean it has passed, turned short, been diverted or lost its live-data connection.
-- Check the destination shown on the front of the bus as well as its route number, because buses on the same route can travel in different directions or finish early.
-
-Not every stop has a screen. You can get the same type of live-arrival information from TfL Go or the TfL webpage for that stop.
-
-## Seeing where your bus is
-
-TfL's systems use live vehicle information to predict arrivals. There are now several ways to see more than a printed timetable:
-
-1. **TfL Go:** search for a stop or use the nearby-buses map to see live arrival times. As of May 2026, iPhone and iPad users can also select the next bus and follow its live position along the route.
-2. **Google Maps on Android:** TfL directs Android users to Google Maps for live bus tracking while the equivalent TfL Go vehicle-position feature is being rolled out to Android.
-3. **TfL stop pages:** use [Buses nearby](https://tfl.gov.uk/maps/bus?Input=Current+location+) or search the stop name on TfL's website for current predictions.
-4. **Countdown screens:** use the display at equipped stops when you do not want to check a phone.
-
-In Google Maps, plan a public-transport journey, open the bus option and tap the relevant service. Where live vehicle data is available, Maps can show the bus's position or live progress rather than only its scheduled time.
-
-Treat every position as an estimate. Data can briefly lag behind the actual bus, and an app may not immediately understand a last-minute diversion. At the stop, a yellow cover over the bus-stop flag means it is closed; follow the notice to the temporary or alternative stop even if an app still tells you to wait there.
-
-## Paying on a London bus
-
-London buses are cashless. Pay with:
-
-- an Oyster card;
-- a contactless bank card;
-- Apple Pay, Google Pay or another supported contactless device;
-- a valid Bus & Tram Pass, Travelcard, concessionary pass or other accepted ticket.
-
-Touch the yellow reader beside the driver once as you board. Wait for the green light and confirmation sound. **Do not touch out when leaving.**
-
-Each traveller needs a separate card or device. Keep using exactly the same payment method so the Hopper fare and caps work correctly; a physical bank card and that card on a phone are treated as different payment methods.
-
-For a full comparison, read [Should You Use Oyster or Contactless?](/articles/oyster-card-guide-london/).
-
-## The ordinary Hopper fare
-
-The adult pay-as-you-go bus and tram fare is currently **£1.75**, with no peak surcharge and no fare zones. The ordinary Hopper allows unlimited TfL bus and tram journeys started within one hour of the first touch for the price of that single fare.
-
-Touch in on every bus or tram, including the second and later journeys. The system recognises the same card or device and applies the Hopper automatically. Rail, Tube, River Bus and Cable Car journeys are not included.
-
-The current daily bus-and-tram cap is £5.25. Prices are due to change on 1 November 2026, so consult the [complete London transport fares guide](/articles/london-public-transport-costs-and-fares/) for the latest figures.
-
-## Changing between a bus and the Underground
-
-> **A bus is not included free with an Underground journey.** If you take a bus and the Tube, both modes normally charge their own pay-as-you-go fare. The one-hour Hopper only makes additional **bus and tram** journeys free.
-
-The one-hour window begins when you first touch in on a bus or tram. Every later bus or tram touch must be made within one hour of that first touch and with exactly the same Oyster card, contactless card or device.
-
-| Journey | What you normally pay |
-| --- | --- |
-| Bus, then Underground | £1.75 bus fare **plus** the applicable Underground fare |
-| Underground, then bus | Underground fare **plus** £1.75 for the bus |
-| Bus, then another bus within one hour | One £1.75 Hopper fare in total |
-| Bus, then Underground, then another bus within one hour of the first bus | One £1.75 Hopper fare for both buses **plus** the Underground fare |
-| Bus, then Underground, then another bus after the one-hour window | First bus fare, Underground fare and a new bus fare |
-
-The one-hour Hopper window is based only on the time you first touch in on a bus or tram. Taking the Tube in between does not stop or restart that window; the Tube journey is charged separately.
-
-**Example:** touch in on a bus at **10:00**, take the Tube at 10:20, then board another bus at **10:45**. The second bus is included in the first Hopper fare because it is within one hour of 10:00. The Tube fare is still charged normally.
-
-If you take the Tube first and then board a bus, the Hopper window starts when you touch in on that bus. It does not start when you enter or leave the Tube station.
-
-### How daily capping affects the total
-
-When you mix buses and the Underground, the fares can count towards the applicable all-transport daily cap as long as you use the same payment method. Once that cap is reached, further eligible journeys are not charged above it.
-
-This is different from saying the bus interchange is free: before reaching the cap, the bus and Underground fares are still calculated separately. The exact total depends on the rail zones, peak or off-peak time and any discount attached to the Oyster card. Use TfL's [Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder) for the rail part.
-
-During the Summer Weekend Hopper trial, all eligible bus and tram journeys for that Saturday or Sunday are covered by the day's single bus fare, but any Underground journey remains separately chargeable and counts towards the relevant cap.
-
-## Summer 2026 Weekend Hopper
-
-The Weekend Hopper is a six-week trial from **Saturday 25 July until Monday 31 August 2026 inclusive**.
-
-During the trial:
-
-- one £1.75 adult fare covers unlimited TfL bus and tram journeys from **04:30 Saturday to 04:29 Sunday**;
-- a separate £1.75 fare covers unlimited journeys from **04:30 Sunday to 04:29 Monday**;
-- the Bank Holiday Monday on **31 August 2026** is also covered;
-- the saving is applied automatically when you keep using the same Oyster card, contactless card or device;
-- existing free and discounted travel remains available;
-- Underground, rail, River Bus and Cable Car journeys are not part of the offer.
-
-An adult using buses or trams throughout both Saturday and Sunday therefore pays £3.50 in total, before any separate non-bus travel. After 31 August, ordinary fares and the one-hour Hopper return unless TfL announces a further change.
-
-This is a genuine trial rather than a permanent promise. Check the [TfL fares guide](/articles/london-public-transport-costs-and-fares/#summer-2026-weekend-hopper) if reading this article after summer 2026.
-
-## Useful bus routes for visitors
-
-These routes can be more pleasant or more direct than the Underground for particular sections. They are not guaranteed to be faster, and routes can change, so check TfL on the day.
-
-| Route | Useful section | Why take it instead of the Tube? |
+| Feature | London Bus | London Underground (Tube) |
 | --- | --- | --- |
-| [24](https://tfl.gov.uk/bus/route/24/) | Victoria, Westminster Abbey, Parliament Square, Whitehall, Trafalgar Square, Tottenham Court Road and Camden | A single sightseeing journey links landmarks that would otherwise involve walking between stations or changing. |
-| [15](https://tfl.gov.uk/bus/route/15/) | Trafalgar Square, Aldwych, St Paul's, Monument, Tower Hill, Aldgate and onward to Blackwall | Excellent street-level view across the West End and City, including St Paul's and the Tower of London. |
-| [11](https://tfl.gov.uk/bus/route/11/) | Waterloo, Westminster, Victoria, Chelsea and Fulham | Useful between Waterloo and Chelsea, where the rail alternative can involve an indirect interchange. |
-| [Superloop](https://tfl.gov.uk/modes/buses/superloop) | Express routes between outer-London centres and transport hubs | Often avoids travelling into Zone 1 merely to travel back out again. |
+| **Single Adult Fare** | Flat **£1.75** everywhere | **£3.00 – £5.90** *(Zone 1–2)* |
+| **Sightseeing & Views** | 🌟 Top deck front seats offer scenic views | Underground in dark tunnels |
+| **Speed & Timing** | Subject to road traffic & diversions | High-speed, fixed schedules |
+| **Accessibility** | 100% low-floor with wheelchair ramps | ~33% step-free stations |
+| **Night Travel** | 24-hour routes & N-prefixed night buses | 24-hour Night Tube *(5 lines, Fri/Sat only)* |
+| **Luggage Space** | Limited floor space for large suitcases | Dedicated luggage areas on newer lines |
 
-For sightseeing, sit upstairs near the front if a seat is available, but keep bags with you and remain seated while the bus is moving. Do not plan a tight appointment around a scenic bus ride.
+> 🚀 **When to take the bus:** Choose a bus for short hops (1–4 stops), when travelling with a stroller/wheelchair, when avoiding station stairs, or when taking in the sights. Take the Tube or Elizabeth line when heading to an airport or timed appointment.
 
-## On the bus
+---
 
-Screens and automatic announcements give the name of the next stop on every London bus. Follow the journey in TfL Go or Maps if the stop name is unfamiliar.
+## 5 Golden rules of riding a London bus
 
-Press one of the red **STOP** buttons shortly after the bus leaves the stop before yours. A “Bus stopping” sign or sound confirms the request. Move towards the exit only when it is safe, hold the handrail and normally leave through the middle doors.
+> 🌟 **Golden Rules of London Buses:**  
+> 1. **Signal the Driver:** Stand visible at the bus stop flag and extend your arm out to signal the driver to stop.  
+> 2. **Touch In Once:** Touch your card or device flat against the yellow reader beside the driver when boarding. Wait for the green light.  
+> 3. **Never Touch Out:** Unlike the Tube, touching out on a bus is unnecessary and will confuse the card reader!  
+> 4. **Press the Red STOP Button:** When your stop is next, press the red **STOP** button to request the driver to pull over.  
+> 5. **Exit Through the Middle Doors:** Exit using the middle doors on double-decker buses so boarding passengers can enter at the front.
 
-You do not need to speak to the driver unless you need help. If uncertain, asking the driver whether the bus serves a destination is sensible, but do so while the bus is stationary and avoid distracting them while driving.
+---
 
-## Traffic, roadworks and event days
+## How the Hopper Fare works
 
-The biggest difference between bus and Underground travel is traffic. Bus travel can take much longer because of:
+The **Hopper fare** is TfL's automatic transfer discount system for buses and trams.
 
-- weekday rush-hour traffic;
-- collisions and emergency road closures;
-- utility works and temporary traffic lights;
-- marches, protests and ceremonial events;
-- football matches, concerts and stadium crowds;
-- the London Marathon, RideLondon, parades and major festivals;
-- Notting Hill Carnival and other events with extensive road closures.
+* **60-Minute Window:** Board as many TfL buses or trams as you want within **60 minutes** of your first tap, and you will only be charged a total of **£1.75**.
+* **Automatic Discount:** Simply tap in on every bus you board. The TfL system recognizes the same card/device and automatically waives the extra £1.75 charges.
 
-A bus may divert away from several stops, wait in traffic or be **curtailed**, meaning it finishes before its advertised terminus. Listen to the driver and onboard announcements, and recheck the destination display after disruption.
+### Mixing Buses and the Underground
 
-Before a major event, check TfL's [Major Works and Events](https://tfl.gov.uk/status-updates/major-works-and-events) and [bus status updates](https://tfl.gov.uk/bus/status/). Leave extra time and identify a nearby Tube or rail alternative. Immediately around a venue, walking to a stop beyond the road closure is often more reliable than waiting beside the crowd.
+> ⚠️ **Tube transfers are NOT free:** Taking a bus and the Tube charges two separate fares. The 60-minute Hopper window applies strictly to **bus and tram** transfers.
 
-## Accessibility, wheelchairs and pushchairs
+| Journey Combination | What You Pay |
+| --- | --- |
+| **Bus ➔ Bus** *(within 60 mins)* | **£1.75** total *(Hopper fare)* |
+| **Bus ➔ Tube** | £1.75 bus fare + Underground Tube fare |
+| **Bus ➔ Tube ➔ Bus** *(within 60 mins of 1st bus)* | **£1.75** for both buses + Underground Tube fare |
+| **Bus ➔ Bus** *(after 60 mins)* | £1.75 + £1.75 = **£3.50** |
 
-Every London bus route uses low-floor vehicles with an access ramp and a dedicated wheelchair space. Buses can also “kneel” to reduce the step from the pavement.
+---
 
-The wheelchair space is prioritised for a wheelchair or mobility-scooter user. A buggy may share it only when there is sufficient room and the wheelchair user agrees. Ask the driver if you need the ramp, more boarding time or other assistance.
+## Summer 2026 Weekend Hopper Trial
 
-Compared with the Underground, buses avoid station stairs and the uncertainty of lift availability. The disadvantages are limited interior space, traffic movement and the possibility that a full bus cannot safely take another wheelchair, buggy or large item.
+> ☀️ **Summer 2026 Unlimited Weekend Hopper:**  
+> From **Saturday 25 July to Monday 31 August 2026**, TfL is running a special Weekend Hopper trial:  
+> - **£1.75 per Day:** One single £1.75 fare provides **unlimited bus and tram rides** from 04:30 Saturday to 04:29 Sunday.  
+> - **Full Weekend for £3.50:** A second £1.75 fare covers all bus rides on Sunday. The Bank Holiday Monday on 31 August is also included!  
+> - **Automatic:** Simply tap in with the same card or device; savings apply automatically.
 
-## Night and 24-hour buses
+---
 
-Some ordinary routes run for 24 hours. Dedicated night routes have an **N** before the number, such as N15, and may follow a different route from the daytime service.
+## Top 4 sightseeing bus routes for visitors
 
-Check the destination and live times carefully at night, because frequencies are lower and the stop may be in a different street from the daytime route. Sit near other passengers or the driver if that feels more comfortable, keep your phone and belongings secure, and only use a licensed taxi or pre-booked private-hire vehicle if switching away from public transport.
+Instead of booking expensive private tours, sit on the top deck at the front window of these iconic regular red TfL bus routes for just **£1.75**:
+
+| Route Number | Useful Sightseeing Section | Key Landmarks Passed |
+| --- | --- | --- |
+| **[Route 24](https://tfl.gov.uk/bus/route/24/)** | Camden Town ➔ Soho ➔ Victoria | Camden Market, Theatreland, Trafalgar Square, Whitehall, Big Ben, Westminster Abbey, Victoria. |
+| **[Route 15](https://tfl.gov.uk/bus/route/15/)** | Trafalgar Square ➔ Tower Hill | Trafalgar Square, Strand, St Paul's Cathedral, Monument, Tower of London, Tower Bridge. |
+| **[Route 11](https://tfl.gov.uk/bus/route/11/)** | Waterloo ➔ Fulham | Waterloo, Westminster, Victoria Station, Sloane Square, King's Road Chelsea. |
+| **[Superloop](https://tfl.gov.uk/modes/buses/superloop)** | Outer London Express | Rapid express orbital routes bypassing Central London congestion. |
+
+---
+
+## Open-top Hop-On Hop-Off sightseeing buses
+
+If you prefer live or multi-language audio commentary with dedicated stops right outside major attractions (Buckingham Palace, Tower of London, Eye), private open-top **Hop-On Hop-Off Sightseeing Buses** (Big Bus, Tootbus, Golden Tours) offer 24, 48, or 72-hour pass options.
+
+* **Private Tours:** Hop-On Hop-Off buses are private tours, not TfL public buses. They **do not accept Oyster or contactless taps**.
+* **River Cruise Included:** Most 24-hour and 48-hour passes include a free Thames river cruise ticket.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="London Hop On Buses" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop On"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/s/%3Fq=London&amp;lc=57&amp;et=292175&amp;searchSource=3&amp;src=search_bar">GetYourGuide</a></span></div>
+
+---
 
 ## How to use London Trams
 
-London Trams serve Croydon and surrounding parts of south London, with routes towards Wimbledon, Beckenham Junction, Elmers End and New Addington. They connect with National Rail, London Overground and many bus routes.
+London Trams operate across South London surrounding **Croydon, Wimbledon, Beckenham Junction, and New Addington**, connecting directly with London Overground and National Rail lines.
 
 ![A green, white and blue London tram travelling through the Croydon area.](../../assets/articles/london-buses-and-trams/croydon-tram.jpg)
 
 *A London Tram in the Croydon area. Photo: [Alex Noble](https://commons.wikimedia.org/wiki/File:20181023-Croydon-Trams-2535.jpg), released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
-The important payment rules are:
-
-1. Touch in on the yellow reader at the tram stop **before** boarding.
-2. Do not touch out after the tram journey.
-3. At Wimbledon, touch the tram-only reader on Platform 10 even if you have already passed through the station gateline.
-4. Use the same Oyster card or contactless device for connecting bus journeys so Hopper fares and caps can be calculated.
-
-Trams are cashless and use the same flat fares as buses. All tram stops are step-free, and boarding is much more like entering a train from an open platform than stepping onto a bus.
-
-Unlike buses, trams are not delayed by ordinary road traffic across most of their route, although street-running sections, incidents and engineering work can still disrupt the service. Check TfL Go or [tram status updates](https://tfl.gov.uk/tram/status/) before travelling.
-
-## Common mistakes
-
-- Waiting at the correct junction but the wrong lettered stop.
-- Looking only at the route number and missing a shortened destination.
-- Forgetting to signal to the bus driver.
-- Touching out when leaving a bus or tram.
-- Using a physical bank card to board and a phone for the next journey.
-- Assuming a Countdown prediction guarantees the bus will arrive.
-- Trusting an app over a yellow stop-closed cover during a diversion.
-- Waiting until the bus is at your stop before pressing the bell.
-- Forgetting the special tram reader when boarding at Wimbledon.
-- Allowing too little time on an event day.
-
-## Related London transport guides
-
-- [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
-- [How to Use the London Underground](/articles/how-to-use-the-london-underground/)
-- [London Public Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)
-- [Oyster Card or Contactless?](/articles/oyster-card-guide-london/)
+### Tram Boarding & Fare Rules
+1. **Tap on the Platform:** Touch your Oyster or contactless card on the yellow reader at the tram stop **before stepping onto the tram**.
+2. **Never Touch Out:** Do not touch out after exiting the tram.
+3. **Wimbledon Interchange Rule:** When interchanging at Wimbledon station, touch the dedicated **tram-only reader on Platform 10**.
+4. **Fares:** Tram fares match bus fares (£1.75 flat rate) and are included in the 60-minute Hopper. All tram stops feature step-free street-to-tram access.
 
 ---
 
-*Information and fares checked on 28 July 2026. The Weekend Hopper is a temporary trial ending on 31 August 2026, and bus routes, diversions, live-tracking features and fares can change.*
+## 8 Common bus & tram mistakes to avoid
+
+1. **Touching out when leaving a bus:** Touching out is unnecessary and can confuse the fare reader!
+2. **Waiting at the wrong stop flag letter:** Major stations have multiple bus stops (A, B, C, D) spread across adjacent streets—match the letter flag in your app.
+3. **Forgetting to signal the driver:** Drivers will not stop unless you extend your arm to signal.
+4. **Using different devices:** Tapping in with a bank card on Bus 1 and Apple Pay on Bus 2 counts as two different cards (charging £1.75 twice).
+5. **Trying to pay cash:** London buses have been 100% cashless since 2014.
+6. **Pressing the STOP button too late:** Press the red button right after the bus leaves the stop prior to yours.
+7. **Forgetting the Wimbledon Platform 10 tap:** When transferring to trams at Wimbledon, tap the platform 10 validator.
+8. **Not checking weekend road closures:** Major events (parades, marathons, demonstrations) cause central bus diversions—check live status on **TfL Go**.
+
+---
+
+## Related London Transport Guides
+
+* 🚊 [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
+* 🚇 [How to Use the London Underground](/articles/how-to-use-the-london-underground/)
+* 💷 [London Transport Fares and Costs 2026](/articles/london-public-transport-costs-and-fares/)
+* 💳 [Oyster Card vs. Contactless Guide](/articles/oyster-card-guide-london/)
+* 🚢 [How to Use London River Boats](/articles/how-to-use-london-river-boats/)
+
+---
+
+*Information checked on 2 August 2026. Always verify live bus arrivals and route diversions with [Transport for London](https://tfl.gov.uk/).*

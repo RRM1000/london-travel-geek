@@ -3,7 +3,7 @@ title: "Getting Around London: A Complete Transport Overview"
 seoTitle: "Getting Around London: Transport Guide"
 description: "An introduction to every practical way to travel around London, including trains, buses, trams, boats, taxis, the cable car and all six main airports."
 publishedAt: 2026-07-28
-updatedAt: 2026-07-31
+updatedAt: 2026-08-02
 sites:
   - london
 canonicalSite: london
@@ -24,233 +24,174 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
-London's transit network is best understood as a web of interconnected systems. While the Underground is the most famous, trains, buses, trams, river boats, taxis, cable cars, walking and cycling each offer advantages depending on your route.
-
-> **The short version:** take the Tube or Elizabeth line for rapid central trips, buses for short hops and sightseeing, National Rail or Overground for outer districts, and walk when destinations are closer than the map implies. Always double-check airport transport options before booking tickets.
-
-## London transport at a glance
-
-| Transport | Best for | Oyster or contactless? | Main limitation |
-| --- | --- | --- | --- |
-| Underground | Fast central journeys | Both | Hot, busy and not fully step-free |
-| Elizabeth line | East-west travel and Heathrow | Both in the Oyster area; contactless continues to Reading | Central trains can be crowded |
-| London Overground | Crossing inner and outer London without Zone 1 | Both | Routes have several branches |
-| DLR | Docklands, Greenwich, Stratford and London City Airport | Both | Primarily serves east and southeast London |
-| National Rail | Suburbs, airports and longer cross-London journeys | Both only within the relevant pay-as-you-go area | Oyster boundaries vary |
-| Bus | Short journeys, night travel and street-level sightseeing | Both | Traffic can make times unpredictable |
-| Tram | Croydon and parts of south London | Both | Small geographic network |
-| River Bus | Scenic east-west journeys along the Thames | Both, with separate river fares | Less frequent and usually dearer than rail |
-| Cable car | Views and crossing between Greenwich Peninsula and Royal Docks | Both, with a separate fare | A short specialist route |
-| Black cab | Door-to-door travel and accessible vehicles | Card widely accepted | Usually more expensive |
-| Private hire and Uber | Pre-booked door-to-door journeys | Pay through the operator | Traffic, surge pricing and pickup restrictions |
-
-Use the [TfL Journey Planner](https://tfl.gov.uk/plan-a-journey/) or TfL Go app for real-time routing and service updates. Citymapper and Google Maps work well for comparisons, but TfL remains the definitive authority on service status and fares.
-
-For up-to-date pricing, peak hours, fare caps and money-saving tips, read [How Much Does London Public Transport Cost?](/articles/london-public-transport-costs-and-fares/). To compare payment methods, check the [complete Oyster card and contactless guide](/articles/oyster-card-guide-london/).
-
-## Underground: the fastest central network
-
-The London Underground covers 11 lines connecting key central sights. It is typically the fastest choice when your start and end points are near a station.
-
-Navigating is simple once you know your line, direction and terminus, though some lines branch off. Keep in mind that step-free access is not universal and deep-level trains can get hot and crowded.
-
-- Read: [How to Use the London Underground](/articles/how-to-use-the-london-underground/)
-- Read: [Should you use Oyster or contactless?](/articles/oyster-card-guide-london/)
-- Read: [Which London Train Lines Accept Oyster?](/articles/oyster-card-train-lines-in-london/)
-- Planned guide: *Every Underground line compared*
-- Planned guide: *The Night Tube*
-- Planned guide: *Step-free Tube travel*
-
-## Elizabeth line: fast east-west travel
-
-The Elizabeth line links Shenfield and Abbey Wood in the east to central London, Heathrow and Reading in the west. Its spacious, air-conditioned trains are ideal for travellers with luggage or longer trips.
-
-Oyster cards are valid as far west as West Drayton, including Heathrow, but do not cover Iver through Reading. Contactless payments are accepted along the entire line.
-
-- Read: [Oyster and train lines in London](/articles/oyster-card-train-lines-in-london/#elizabeth-line)
-- Planned guide: *Using the Elizabeth line*
-- Planned guide: *Elizabeth line or Heathrow Express?*
-
-## London Overground: useful orbital routes
-
-The London Overground is great for navigating around London without routing through the city centre. Its six named lines reach districts such as Richmond, Stratford, Hackney, Croydon, Barking, Watford and Chingford.
-
-Every Overground train is air-conditioned, and Oyster cards work across the whole network. Pay attention to train destinations, as several routes split into distinct branches.
-
-- Read: [The six London Overground lines](/articles/oyster-card-train-lines-in-london/#london-overground)
-- Planned guide: *London Overground for visitors*
-- Planned guide: *Useful Overground journeys that avoid Zone 1*
-
-## DLR: Docklands and London City Airport
-
-The Docklands Light Railway (DLR) is a driverless train system serving Bank, Tower Gateway, Canary Wharf, Greenwich, Stratford, Woolwich, the Royal Docks and London City Airport.
-
-All stations feature step-free street-to-platform access. Grab the front seats if they are open for unmatched views of the tracks ahead.
-
-- Read: [Using Oyster on the DLR](/articles/oyster-card-train-lines-in-london/#docklands-light-railway)
-- Planned guide: *A visitor's guide to the DLR*
-- Read: [London City Airport to Central London](/articles/london-city-airport-to-london/)
-
-## National Rail: more important than many visitors realise
-
-National Rail connects London's major terminal hubs with suburbs, regional airports and destinations across Great Britain. It can often be the fastest option inside London itself: Thameslink cuts straight through the centre, and suburban rail serves areas lacking Tube stations.
-
-Oyster and contactless cards work on many in-city National Rail routes, but validity boundaries differ. A train line might accept Oyster for part of a run before travelling outside the pay-as-you-go zone.
-
-- Read: [National Rail services that accept Oyster](/articles/oyster-card-train-lines-in-london/#national-rail-services-within-london)
-- Planned guide: *Using National Rail within London*
-- Planned guide: *London's main railway stations explained*
-
-## London buses: useful, affordable and scenic
-
-London's iconic red buses reach virtually every neighbourhood. They are often convenient for short trips where Tube stations are spread out, and sitting on the top deck offers great city views.
-
-Buses are completely cashless. Simply tap in once on the yellow reader when boarding using Oyster or contactless; there is no need to tap out. The Hopper fare gives you unlimited bus and tram transfers within one hour using the same card or device. All buses are wheelchair accessible, though space can be competitive during busy hours.
-
-Night routes run 24 hours or operate under dedicated `N` prefix numbers after hours. Traffic delays mean bus travel times are less fixed than train schedules.
-
-- Read: [How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)
-- Planned guide: *The best London bus routes for sightseeing*
-- Planned guide: *London night buses*
-
-## Trams: south London's local network
-
-London Trams serve the Croydon area, offering branches to Wimbledon, Beckenham Junction, Elmers End and New Addington. They connect directly with National Rail, the Overground and local bus routes.
-
-Oyster and contactless are fully accepted. Tap in at the platform validator before stepping onto the tram; unlike the Tube, most stops do not use ticket barriers.
-
-- Read: [How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/#how-to-use-london-trams)
-- Planned guide: *Exploring south London by tram*
-
-## River Bus and river tours
-
-The Thames functions as both a transport option and a top scenic attraction. Uber Boat by Thames Clippers runs scheduled River Bus routes connecting piers across west, central and east London. Private tour companies also offer circular and point-to-point sightseeing trips.
-
-Oyster and contactless work for River Bus trips, though river fares use a distinct pricing structure from standard rail and bus tickets. While boat travel can be slower and pricier than trains, it is a great choice when you want the journey itself to be part of the sightseeing experience.
-
-![An Uber Boat by Thames Clippers River Bus travelling on the Thames.](../../assets/articles/getting-around-london/river-bus.jpg)
-
-*An Uber Boat by Thames Clippers. Photo: [Simon](https://commons.wikimedia.org/wiki/File:Thames_Clipper_Uber_Boat.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
-
-- Read: [How to Use London River Boats](/articles/how-to-use-london-river-boats/)
-- Planned guide: *River Bus or sightseeing cruise?*
-- Planned guide: *London attractions you can reach by boat*
-
-## London Cable Car
-
-The IFS Cloud Cable Car spans the Thames between Greenwich Peninsula, near The O2 and North Greenwich station, and the Royal Docks, near ExCeL and Royal Victoria DLR.
-
-The ride is brief and uses its own dedicated pricing. You can pay by Oyster or contactless, but it is best enjoyed as a scenic feature that also functions as transport.
-
-![Cable-car gondolas crossing the River Thames in east London.](../../assets/articles/getting-around-london/london-cable-car.jpg)
-
-*The London Cable Car. Photo: [Paul Harrop](https://commons.wikimedia.org/wiki/File:London_Cable_Car_-_geograph.org.uk_-_7738506.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
-
-- Planned guide: *London Cable Car: tickets, views and nearby attractions*
-
-## Black cabs, minicabs and Uber
-
-London's official black cabs can be hailed from the street, picked up at ranks or booked through an app. All fares are metered and regulated by TfL. They feature full wheelchair access and drivers with extensive Knowledge of city streets.
-
-Uber and other minicab services are **private hire vehicles**. These must be booked in advance through a licensed operator; never enter an unbooked vehicle soliciting fares. Always double-check the licence plate, driver details and car model in your app before getting in.
-
-Door-to-door trips are helpful when carrying heavy luggage, travelling late at night or avoiding complex train connections. However, central congestion and airport distance can quickly raise costs.
-
-- Planned guide: *Black cabs, Uber and private hire compared*
-- Planned guide: *Safe late-night travel in London*
-- Planned guide: *When an airport taxi is worth the cost*
-
-## Travelling to and from London's airports
-
-Six major airports serve London. Since airport names do not indicate which central station is nearest, pick a route based on your hotel's location rather than defaulting to pricey express options.
-
-| Airport | Main public-transport choices | Oyster guidance | Detailed guide |
-| --- | --- | --- | --- |
-| Heathrow | Elizabeth line, Piccadilly line, Heathrow Express, coach and local bus | Oyster and contactless are accepted on the rail and Tube routes | [Heathrow Airport to London](/articles/heathrow-airport-to-london/) |
-| Gatwick | Thameslink, Southern, Gatwick Express and coach | Oyster and contactless are accepted on many London–Gatwick rail journeys; special fares apply | [Gatwick Airport to London](/articles/gatwick-airport-to-london/) |
-| Stansted | Stansted Express, coach and pre-booked transfer | Contactless is accepted; Oyster is not | [Stansted Airport to London](/articles/stansted-airport-to-london/) |
-| Luton | Thameslink or East Midlands Railway to Luton Airport Parkway, then the Luton DART; coach | Contactless is accepted; Oyster is not | [Luton Airport to London](/articles/luton-airport-to-london/) |
-| London City | DLR, local bus, taxi or private hire | Oyster and contactless are accepted on the DLR | [London City Airport to Central London](/articles/london-city-airport-to-london/) |
-| Southend | Greater Anglia train, local bus, taxi or pre-booked transfer | Contactless is accepted; Oyster is not | [Southend Airport to London](/articles/southend-airport-to-london/) |
-
-### Heathrow
-
-The Piccadilly line is usually the cheapest direct rail option; the Elizabeth line is faster and more comfortable for central London; Heathrow Express offers a premium nonstop link to Paddington. Choose based on your final hotel location.
-
-- Read: [Heathrow Airport to London: Every Transport Option Compared](/articles/heathrow-airport-to-london/)
-
-### Gatwick
-
-Gatwick Express heads to Victoria station, while Southern also serves Victoria, and Thameslink runs directly through London Bridge, Blackfriars, Farringdon and St Pancras. Taking Thameslink can help you skip a Tube transfer.
-
-- Read: [Gatwick Airport to London: Every Transport Option Compared](/articles/gatwick-airport-to-london/)
-
-### Stansted
-
-The Stansted Express connects the airport directly to Tottenham Hale and Liverpool Street. Express buses serve several London locations and run through the night, though you should budget extra time for road traffic.
-
-- Read: [Stansted Airport to London: Every Transport Option Compared](/articles/stansted-airport-to-london/)
-
-### Luton
-
-Trains arrive at Luton Airport Parkway rather than the terminal doors. The Luton DART shuttle links the station to the airport. Thameslink offers direct trains into central hubs, alongside various coach lines.
-
-- Read: [Luton Airport to London: Every Transport Option Compared](/articles/luton-airport-to-london/)
-
-### London City
-
-London City is the only major airport located directly inside TfL's core rail network. The DLR connects it to key hubs such as Stratford, Canning Town and the Bank financial district.
-
-- Read: [London City Airport to Central London: Every Option Compared](/articles/london-city-airport-to-london/)
-
-### Southend
-
-Greater Anglia trains run from Southend Airport to Stratford and Liverpool Street. Check schedules for the last train if arriving late, as road options take significantly longer.
-
-- Read: [Southend Airport to London: Every Transport Option Compared](/articles/southend-airport-to-london/)
-
-## Walking and cycling
-
-Central London is far more walkable than the iconic Underground map suggests. Walking between close stations, such as Leicester Square and Covent Garden, is often faster than taking the Tube and lets you experience the street life along the way.
-
-Santander Cycles and docked e-bike brands offer quick bicycle rentals. Always check designated parking zones before finishing an app-based ride, as leaving bikes outside approved bays can incur heavy fines.
-
-- Planned guide: *The most useful walks between London attractions*
-- Planned guide: *Santander Cycles for first-time users*
-- Planned guide: *Using rental e-bikes responsibly*
-
-## How to choose the right option
-
-Run through these steps when planning trips:
-
-1. Is the destination close enough to walk?
-2. Is there a direct train or Tube route available?
-3. Would a bus avoid a difficult station transfer or offer better views?
-4. Do you need step-free access or extra room for bags?
-5. Is the transport leg intended to be a scenic experience, such as a river boat or cable car?
-6. Are planned maintenance, strikes, road traffic or late-night adjustments affecting your line?
-
-For airport runs, ensure to add plenty of buffer time and confirm both train schedules and terminal numbers. For all public transport, stick to the same Oyster card or contactless device every time you tap in and out.
-
-## Detailed London transport guides
-
-Available now:
-
-- [How to Use the London Underground](/articles/how-to-use-the-london-underground/)
-- [How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)
-- [How to Use London River Boats](/articles/how-to-use-london-river-boats/)
-- [Heathrow Airport to London: Every Transport Option Compared](/articles/heathrow-airport-to-london/)
-- [Gatwick Airport to London: Every Transport Option Compared](/articles/gatwick-airport-to-london/)
-- [Stansted Airport to London: Every Transport Option Compared](/articles/stansted-airport-to-london/)
-- [Luton Airport to London: Every Transport Option Compared](/articles/luton-airport-to-london/)
-- [London City Airport to Central London: Every Option Compared](/articles/london-city-airport-to-london/)
-- [Southend Airport to London: Every Transport Option Compared](/articles/southend-airport-to-london/)
-- [Oyster Card Guide: Should You Use Oyster or Contactless?](/articles/oyster-card-guide-london/)
-- [Which London Train Lines Accept Oyster?](/articles/oyster-card-train-lines-in-london/)
-- [How Much Does London Public Transport Cost?](/articles/london-public-transport-costs-and-fares/)
-
-This overview is designed to grow into the site's transport library. The planned guide titles above can become links as each article is published, without changing the structure of this hub.
+London's transit network is best understood as a web of interconnected, world-class transport systems. While the London Underground (the "Tube") is the most famous, buses, commuter trains, river boats, trams, taxis, cable cars, and walking each offer unique advantages depending on your route.
+
+> 💡 **Master Transport Snapshot:**  
+> - **Fastest Central Travel:** Take the Underground or the high-speed Elizabeth line.  
+> - **Sightseeing & Short Hops:** Use London's iconic red double-decker buses (£1.75 flat fare with 60-minute unlimited Hopper transfers).  
+> - **Airports:** Heathrow, Gatwick, and London City are linked by train/DLR. Stansted and Luton accept contactless cards, but **do NOT accept Oyster cards**.  
+> - **Paying:** Always tap in and out using the exact same contactless card or Oyster card for automatic daily capping.
 
 ---
 
-*Information checked on 28 July 2026. Routes, fares and operating hours change. Verify time-sensitive details with [Transport for London](https://tfl.gov.uk/) and the relevant airport or rail operator.*
+## London transport modes at a glance
+
+| Transport Mode | Best For | Oyster / Contactless Accepted? | Main Limitation |
+| --- | --- | --- | --- |
+| **Underground (Tube)** | Fast central journeys across 11 lines | Yes (Both accepted) | Can be hot, crowded, and not 100% step-free |
+| **Elizabeth Line** | Rapid east-west travel & Heathrow Airport | Yes (Contactless to Reading) | Central platforms can get very busy during peak hours |
+| **London Overground** | Orbital routes avoiding Central London (Zone 1) | Yes (Both accepted) | Complex network with multiple splitting branches |
+| **DLR (Docklands Light Railway)** | Docklands, Greenwich & London City Airport | Yes (Both accepted) | Primarily serves East and Southeast London |
+| **National Rail** | Suburbs, airports & long-distance UK travel | Contactless accepted to outer hubs; Oyster limits apply | Payment boundaries vary by line |
+| **London Bus** | Short trips, night travel & street-level views | Yes (Cashless: tap in only) | Road traffic can cause unpredictable journey times |
+| **London Trams** | Croydon & South London suburban travel | Yes (Tap validator on platform) | Limited to South London districts |
+| **River Bus (Uber Boat)** | Scenic Thames transit between piers | Yes (Separate fares; 33% Travelcard discount) | Higher fares than Tube and less frequent |
+| **IFS Cloud Cable Car** | Scenic river views between Greenwich & Royal Docks | Yes (Billed separately outside caps) | Short specialist route; 50% off for O2 show ticket holders |
+| **Black Cabs & Uber** | Door-to-door transit & accessible journeys | Card / In-App payment | Expensive during peak traffic congestion |
+
+> 📱 **Navigation Tip:** Use the **TfL Go App** or **Citymapper** for live transit routing, platform directions, and real-time disruption alerts across all London networks.
+
+For detailed pricing, peak hours, and capping rules, read our companion guide to [How Much Does London Public Transport Cost?](/articles/london-public-transport-costs-and-fares/). To compare payment options, check our [Oyster Card & Contactless Guide](/articles/oyster-card-guide-london/).
+
+---
+
+## London Underground (The Tube)
+
+The London Underground covers **11 color-coded lines** serving 272 stations. It is almost always the fastest option for travelling within Central London (Zone 1 and Zone 2).
+
+* **Operating Hours:** Trains run from ~05:30 to midnight Monday through Saturday, with reduced hours on Sunday. The **Night Tube** operates 24 hours on Friday and Saturday nights across the Central, Jubilee, Northern, Piccadilly, and Victoria lines.
+* **Tapping In & Out:** Always tap your contactless card or Oyster card on the yellow reader at the ticket gates when entering AND exiting the station.
+* **Accessibility:** Newer stations (and Elizabeth line stations) have full step-free lift access, but many historic deep-level stations rely on stairs and escalators.
+
+> 🚀 **Tube Pro Tip:** Walking between close stations in Central London (such as Leicester Square to Covent Garden) is often faster than going down into the Tube station!
+
+* **Comprehensive Guide:** [How to Use the London Underground](/articles/how-to-use-the-london-underground/)
+* **Train Lines & Boundaries:** [Which London Train Lines Accept Oyster?](/articles/oyster-card-train-lines-in-london/)
+
+---
+
+## Elizabeth Line (High-Speed Cross-London Rail)
+
+Opened in 2022, the **Elizabeth line** (line color: purple) is London's newest rail network, linking Shenfield and Abbey Wood in the east to Central London, Heathrow Airport, and Reading in the west.
+
+* **Comfort & Speed:** Trains are fully air-conditioned, spacious, feature free Wi-Fi, and offer step-free access at all stations.
+* **Airport Transit:** Provides a direct, high-speed connection from Heathrow Airport to Central London hubs like Paddington, Tottenham Court Road, Farringdon, and Liverpool Street in under 40 minutes.
+* **Payment Limits:** Oyster cards are accepted as far west as West Drayton (including Heathrow), but **are not valid** past West Drayton towards Reading. Contactless cards are accepted across the entire line to Reading.
+
+---
+
+## London Overground & DLR
+
+### London Overground (Orange Network)
+The **London Overground** consists of six named orbital rail lines that connect inner and outer London suburbs without requiring you to travel through Central London (Zone 1).
+
+* **Avoid Zone 1 Fares:** Travelling on the Overground between outer suburbs is often significantly cheaper than Tube journeys because it bypasses Zone 1. Tap the **pink route validators** on interchange platforms to prove you avoided Zone 1!
+* **Features:** All trains feature walk-through air-conditioned carriages and full Oyster/contactless acceptance.
+
+### DLR (Docklands Light Railway)
+The **DLR** is an automated, driverless light-rail network serving East London, Docklands, Greenwich, Stratford, and **London City Airport**.
+
+* **Front Seat View:** DLR trains have no driver cabin! Passengers can sit in the very front seat for an unobstructed view of the elevated tracks and skyscrapers.
+* **Step-Free Access:** Every single DLR station features 100% step-free street-to-train access.
+
+---
+
+## National Rail (Suburban Trains & Express Lines)
+
+National Rail lines link London's major terminal stations (Waterloo, Victoria, London Bridge, Paddington, Kings Cross, Euston, Liverpool Street) to suburbs and regional cities across Great Britain.
+
+* **Thameslink Cross-London Line:** Thameslink commuter trains run directly north-to-south through Central London (St Pancras, Farringdon, City Thameslink, Blackfriars, London Bridge), offering a fast alternative to the Tube.
+* **Oyster vs. Contactless Boundaries:** Contactless payment is accepted far beyond the Oyster zone. For example, contactless is accepted to Gatwick, Luton, and Stansted airports, but **Oyster cards are NOT valid to Stansted or Luton**.
+
+---
+
+## London Buses & Trams
+
+### Iconic Red Double-Decker Buses
+London buses reach every corner of the capital 24 hours a day. They are completely **cashless** and cost a flat **£1.75 per ride**.
+
+* **Touch In Only:** Always tap your contactless card or Oyster card on the yellow reader when boarding. **Never touch out** when alighting a bus.
+* **Hopper Fare:** Make unlimited bus and tram transfers within **60 minutes** of your first tap for just **£1.75**.
+* **Sightseeing:** Sit on the top deck at the front window for cheap, panoramic city sightseeing (e.g. Route 11, 15, or 24).
+
+### London Trams
+Operating in South London around Croydon, Wimbledon, and Beckenham, London Trams connect with Overground and National Rail services. Fares match the bus network (£1.75 flat fare). Tap in on the platform reader before stepping onto the tram.
+
+### Hop-On Hop-Off Sightseeing Buses
+
+If you want live or audio commentary while travelling directly between major tourist landmarks (Buckingham Palace, Big Ben, Tower of London, St Paul's), open-top **Hop-On Hop-Off Sightseeing Buses** (operated by Big Bus, Tootbus, and Golden Tours) offer 24-hour, 48-hour, or 72-hour unlimited passes.
+
+* **Audio Commentary & Guides:** Includes multi-language audio commentary, live tour guides, and designated stops right outside top attractions.
+* **TfL Differences:** Hop-On Hop-Off buses are private sightseeing tours, not part of TfL. They **do not accept Oyster or contactless taps** and require a pre-booked tour pass.
+* **Bonus Inclusions:** Most 24-hour and 48-hour pass options include a free Thames river cruise ticket.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="London Hop On Buses" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop On"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/s/%3Fq=London&amp;lc=57&amp;et=292175&amp;searchSource=3&amp;src=search_bar">GetYourGuide</a></span></div>
+
+* **Full Bus & Tram Guide:** [How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)
+
+---
+
+## River Bus & London Cable Car
+
+### River Bus (Uber Boat by Thames Clippers)
+Scheduled river boats run frequently along the Thames between Putney, Westminster, Tower Pier, Greenwich, and Barking Riverside.
+
+* **Scenic & Comfortable:** Offers climate-controlled indoor seating, open-air back decks, and a licensed coffee/bar onboard.
+* **Fares & Discounts:** Oyster and contactless cards are accepted at pier gates (billed separately outside Tube caps). Holding a valid Travelcard gives you a **33% discount (1/3 off)** on standard fares.
+* **Full River Guide:** [How to Use London River Boats](/articles/how-to-use-london-river-boats/)
+
+### IFS Cloud Cable Car
+Crosses the Thames between Greenwich Peninsula (The O2) and Royal Docks. Offers dramatic views of East London from 90 metres in the air.
+
+* **Ticket Perks:** Presenting a show ticket for **The O2 Arena** at the terminal office qualifies you for a **50% discount** on cable car flights.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="London Hop On Buses" data-gyg-partner-id="WWP7I0R" data-gyg-q="London river bus cable"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/s/%3Fq=Alanya&amp;lc=918&amp;et=865023&amp;searchSource=3&amp;src=search_bar">GetYourGuide</a></span></div>
+
+---
+
+## Black Cabs & Private Hire (Uber & Taxis)
+
+* **Official Black Cabs:** Can be hailed on the street or picked up at ranks. Fully metered, wheelchair-accessible, and driven by licensed drivers who have passed "The Knowledge". Fares start at **£4.40**.
+* **Private Hire (Uber, Bolt, FreeNow):** Must be pre-booked via mobile app. App shows an exact upfront fare quote before booking.
+*(Visiting from abroad? Ensure your phone has active mobile data for ride-hailing apps with our [UK Travel SIM & eSIM Guide](/articles/travel-sim-esim-guide/).)*
+
+---
+
+## Travelling to and from London's 6 Airports
+
+London is served by six commercial airports. Choose your airport transfer based on your hotel's location rather than defaulting to expensive express trains:
+
+| Airport | Primary Transport Options | Oyster / Contactless Accepted? | Complete Guide Link |
+| --- | --- | --- | --- |
+| **Heathrow (LHR)** | Elizabeth Line, Piccadilly Line (Tube), Heathrow Express | **Both Accepted** | [Heathrow Airport Transport Guide](/articles/heathrow-airport-to-london/) |
+| **Gatwick (LGW)** | Thameslink, Southern Trains, Gatwick Express | **Both Accepted** *(Special fares apply)* | [Gatwick Airport Transport Guide](/articles/gatwick-airport-to-london/) |
+| **Stansted (STN)** | Stansted Express, National Express Coach | **Contactless ONLY** *(Oyster NOT valid)* | [Stansted Airport Transport Guide](/articles/stansted-airport-to-london/) |
+| **Luton (LTN)** | Thameslink Train + Luton DART Shuttle | **Contactless ONLY** *(Oyster NOT valid)* | [Luton Airport Transport Guide](/articles/luton-airport-to-london/) |
+| **London City (LCY)** | DLR (Docklands Light Railway) | **Both Accepted** | [London City Airport Transport Guide](/articles/london-city-airport-to-london/) |
+| **Southend (SEN)** | Greater Anglia National Rail | **Contactless ONLY** *(Oyster NOT valid)* | [Southend Airport Transport Guide](/articles/southend-airport-to-london/) |
+
+---
+
+## Comprehensive London Transport Library
+
+Explore our in-depth guides for specific networks, airport transfers, and ticket options:
+
+### Core Transport & Payment Guides
+* 🚆 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)** – Line guides, etiquette, and peak hours.
+* 🚌 **[How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)** – Boarding rules, routes, and the 60-min Hopper.
+* 🚢 **[How to Use London River Boats](/articles/how-to-use-london-river-boats/)** – Pier maps, Uber Boat zones, and scenic cruises.
+* 💳 **[Oyster Card & Contactless Guide](/articles/oyster-card-guide-london/)** – Oyster fees vs contactless bank cards.
+* 🗺️ **[Which Train Lines Accept Oyster?](/articles/oyster-card-train-lines-in-london/)** – Complete map of rail boundaries.
+* 💷 **[London Transport Fares & Costs 2026](/articles/london-public-transport-costs-and-fares/)** – Peak rates, caps, and Travelcard comparisons.
+
+### Airport Transfer Guides
+* ✈️ **[Heathrow Airport to London](/articles/heathrow-airport-to-london/)** – Tube vs Elizabeth Line vs Express.
+* ✈️ **[Gatwick Airport to London](/articles/gatwick-airport-to-london/)** – Thameslink vs Southern vs Express.
+* ✈️ **[Stansted Airport to London](/articles/stansted-airport-to-london/)** – Express train vs coach options.
+* ✈️ **[Luton Airport to London](/articles/luton-airport-to-london/)** – Luton DART & Thameslink connections.
+* ✈️ **[London City Airport to Central London](/articles/london-city-airport-to-london/)** – Direct DLR routes.
+* ✈️ **[Southend Airport to London](/articles/southend-airport-to-london/)** – Rail connections to Liverpool Street.
+
+---
+
+*Information checked on 2 August 2026. Always verify real-time routing and service status using [Transport for London](https://tfl.gov.uk/).*

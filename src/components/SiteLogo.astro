@@ -6,62 +6,64 @@ interface Props {
 }
 
 const { site } = Astro.props;
-const sitePrefix = site.id === "london" ? "LONDON" : "TOOLKIT";
 ---
 
 <a class="logo" href="/" aria-label={`${site.name} home`}>
-  <svg class="logo__svg" viewBox="0 0 120 120" aria-hidden="true">
-    <path fill="#FF2D2E" d="M60 5 C35 25 20 50 20 75 C20 97.1 37.9 115 60 115 C82.1 115 100 97.1 100 75 C100 52 82 32 60 5 Z" />
-    <path fill="#D9161B" d="M60 22 C43 38 32 58 32 77 C32 92.4 44.6 105 60 105 C75.4 105 88 92.4 88 77 C88 58 77 38 60 22 Z" />
-    <path fill="#FFFFFF" d="M60 36 L68 54 L88 60 L88 68 L68 64 L62 80 L70 86 L70 92 L58 88 L46 92 L46 86 L54 80 L48 64 L28 68 L28 60 L48 54 Z" />
-  </svg>
-  <div class="logo__text">
-    <div class="logo__line-1">
-      <span class="logo__red">{sitePrefix}</span><span class="logo__black">TRAVEL</span>
-    </div>
-    <div class="logo__line-2">
-      <span class="logo__black">GEEK</span>
-    </div>
-  </div>
+  <img 
+    src="/logo.png" 
+    alt={`${site.name} logo`} 
+    class="logo__img" 
+    width="48" 
+    height="48" 
+    loading="eager"
+  />
+  <span class="logo__text">
+    <span class="logo__black">LONDON</span>
+    <span class="logo__red">TRAVEL</span>
+    <span class="logo__black">GEEK</span>
+  </span>
 </a>
 
 <style>
   .logo {
     display: inline-flex;
     align-items: center;
-    gap: 0.85rem;
+    gap: 0.75rem;
     text-decoration: none;
     background: transparent;
+    transition: opacity var(--transition, 180ms ease);
   }
 
-  .logo__svg {
-    width: clamp(3.2rem, 5vw, 4.2rem);
-    height: auto;
+  .logo:hover {
+    opacity: 0.92;
+  }
+
+  .logo__img {
+    height: clamp(2.4rem, 4.2vw, 3.1rem);
+    width: auto;
     flex-shrink: 0;
-    filter: drop-shadow(0 2px 4px rgba(255, 45, 46, 0.2));
+    object-fit: contain;
+    mix-blend-mode: multiply;
   }
 
   .logo__text {
-    display: flex;
-    flex-direction: column;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
     font-family: var(--display), "Outfit", "Arial Black", sans-serif;
     font-weight: 900;
-    line-height: 0.88;
-    letter-spacing: -0.03em;
+    font-size: clamp(1.35rem, 2.6vw, 1.9rem);
+    line-height: 1;
+    letter-spacing: -0.02em;
     text-transform: uppercase;
-  }
-
-  .logo__line-1,
-  .logo__line-2 {
-    display: flex;
-    font-size: clamp(1.8rem, 3.5vw, 2.5rem);
-  }
-
-  .logo__red {
-    color: #FF2D2E;
+    white-space: nowrap;
   }
 
   .logo__black {
-    color: #000000;
+    color: #132a38;
+  }
+
+  .logo__red {
+    color: #e63946;
   }
 </style>

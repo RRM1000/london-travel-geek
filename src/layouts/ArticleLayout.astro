@@ -98,49 +98,54 @@ const breadcrumbs = [
   breadcrumbs={breadcrumbs}
 >
   <article class="article container">
-    <Breadcrumbs items={breadcrumbs} />
-    <header class="article__header">
-      <p class="eyebrow"><a href={categoryHref(category)}>{category}</a></p>
-      <h1>{title}</h1>
-      <p>{description}</p>
-      <div class="article__meta">
-        <time datetime={publishedAt.toISOString()}>
-          Published {publishedAt.toLocaleDateString("en-GB", {
-            day: "numeric",
-            month: "long",
-            year: "numeric",
-          })}
-        </time>
-        {updatedAt && (
-          <>
-            <span class="article__meta-separator" aria-hidden="true">·</span>
-            <time datetime={updatedAt.toISOString()}>
-              Updated {updatedAt.toLocaleDateString("en-GB", {
+    <div class={`article__hero-banner ${heroImage ? "article__hero-banner--has-image" : "article__hero-banner--no-image"}`}>
+      {heroImage && (
+        <div class="article__hero-bg">
+          <Image
+            src={heroImage}
+            alt={heroImageAlt}
+            widths={[720, 1080, 1440, 1920]}
+            sizes="(max-width: 78rem) 100vw, 76rem"
+            loading="eager"
+          />
+          <div class="article__hero-overlay" />
+        </div>
+      )}
+      <div class="article__hero-content">
+        <Breadcrumbs items={breadcrumbs} />
+        <header class="article__header">
+          <p class="eyebrow"><a href={categoryHref(category)}>{category}</a></p>
+          <h1>{title}</h1>
+          <p>{description}</p>
+          <div class="article__meta">
+            <time datetime={publishedAt.toISOString()}>
+              Published {publishedAt.toLocaleDateString("en-GB", {
                 day: "numeric",
                 month: "long",
                 year: "numeric",
               })}
             </time>
-          </>
-        )}
-      </div>
-      {tags.length > 0 && (
-        <ul class="article__tags" aria-label="Article tags">
-          {tags.map((tag) => <li><a href={tagHref(tag)}>{formatTag(tag)}</a></li>)}
-        </ul>
-      )}
-    </header>
-    {heroImage && (
-      <figure class="article__hero">
-        <Image
-          src={heroImage}
-          alt={heroImageAlt}
-          widths={[720, 1080, 1440, 1920]}
-          sizes="(max-width: 78rem) 100vw, 76rem"
-          loading="eager"
-        />
-        {(heroImageCredit || heroImageLicense) && (
-          <figcaption>
+            {updatedAt && (
+              <>
+                <span class="article__meta-separator" aria-hidden="true">·</span>
+                <time datetime={updatedAt.toISOString()}>
+                  Updated {updatedAt.toLocaleDateString("en-GB", {
+                    day: "numeric",
+                    month: "long",
+                    year: "numeric",
+                  })}
+                </time>
+              </>
+            )}
+          </div>
+          {tags.length > 0 && (
+            <ul class="article__tags" aria-label="Article tags">
+              {tags.map((tag) => <li><a href={tagHref(tag)}>{formatTag(tag)}</a></li>)}
+            </ul>
+          )}
+        </header>
+        {heroImage && (heroImageCredit || heroImageLicense) && (
+          <div class="article__hero-credit">
             Photo:{" "}
             {heroImageSource ? (
               <a href={heroImageSource}>{heroImageCredit}</a>
@@ -157,10 +162,10 @@ const breadcrumbs = [
                 )}
               </>
             )}
-          </figcaption>
+          </div>
         )}
-      </figure>
-    )}
+      </div>
+    </div>
     <div class="article__grid">
       <div class="article__body">
         {showContents && (
@@ -401,11 +406,72 @@ const breadcrumbs = [
     padding-block: var(--space-7);
   }
 
+  .article__hero-banner {
+    margin-bottom: var(--space-6);
+  }
+
+  .article__hero-banner--no-image {
+    margin-bottom: var(--space-6);
+  }
+
+  .article__hero-banner--has-image {
+    position: relative;
+    border-radius: var(--card-radius);
+    overflow: hidden;
+    background-color: var(--ink);
+    color: #ffffff;
+    box-shadow: var(--shadow);
+  }
+
+  .article__hero-banner--has-image .article__hero-bg {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+  }
+
+  .article__hero-banner--has-image .article__hero-bg :global(img) {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .article__hero-banner--has-image .article__hero-overlay {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    background: linear-gradient(
+      180deg,
+      rgba(15, 23, 32, 0.65) 0%,
+      rgba(15, 23, 32, 0.85) 60%,
+      rgba(15, 23, 32, 0.95) 100%
+    );
+  }
+
+  .article__hero-banner--has-image .article__hero-content {
+    position: relative;
+    z-index: 3;
+    padding: 2.75rem 2.25rem 2rem;
+  }
+
+  @media (max-width: 48rem) {
+    .article__hero-banner--has-image .article__hero-content {
+      padding: 1.75rem 1.25rem 1.5rem;
+    }
+  }
+
   .article__header {
     display: grid;
     max-width: 58rem;
     gap: 1rem;
-    margin-bottom: var(--space-6);
+  }
+
+  .article__hero-banner--has-image :global(.breadcrumbs) {
+    color: rgba(255, 255, 255, 0.8);
+  }
+
+  .article__hero-banner--has-image :global(.breadcrumbs li:not(:last-child)::after) {
+    color: rgba(255, 255, 255, 0.4);
   }
 
   .article__header .eyebrow a {
@@ -418,14 +484,28 @@ const breadcrumbs = [
     text-underline-offset: 0.2em;
   }
 
+  .article__hero-banner--has-image .eyebrow {
+    color: #f59e0b;
+  }
+
   .article__header h1 {
-    font-size: clamp(2.6rem, 7vw, 5.5rem);
+    font-size: clamp(2.4rem, 6vw, 5rem);
+  }
+
+  .article__hero-banner--has-image h1 {
+    color: #ffffff;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
   }
 
   .article__header > p:not(.eyebrow) {
     max-width: var(--reading-width);
     color: var(--muted);
     font-size: 1.2rem;
+  }
+
+  .article__hero-banner--has-image .article__header > p:not(.eyebrow) {
+    color: rgba(255, 255, 255, 0.9);
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
   }
 
   .article__meta {
@@ -438,9 +518,17 @@ const breadcrumbs = [
     font-weight: 750;
   }
 
+  .article__hero-banner--has-image .article__meta {
+    color: rgba(255, 255, 255, 0.8);
+  }
+
   .article__meta-separator {
     color: var(--accent);
     font-weight: 800;
+  }
+
+  .article__hero-banner--has-image .article__meta-separator {
+    color: #f59e0b;
   }
 
   .article__tags {
@@ -460,6 +548,14 @@ const breadcrumbs = [
     font-weight: 750;
   }
 
+  .article__hero-banner--has-image .article__tags li {
+    background: rgba(255, 255, 255, 0.15);
+    border-color: rgba(255, 255, 255, 0.25);
+    color: #ffffff;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+  }
+
   .article__tags a {
     color: inherit;
     text-decoration: none;
@@ -471,21 +567,23 @@ const breadcrumbs = [
     text-underline-offset: 0.2em;
   }
 
-  .article__hero {
-    margin: 0 0 var(--space-6);
+  .article__hero-banner--has-image .article__tags a:hover {
+    color: #f59e0b;
   }
 
-  .article__hero :global(img) {
-    width: 100%;
-    max-height: 43rem;
-    border-radius: var(--card-radius);
-    object-fit: cover;
-  }
-
-  .article__hero figcaption {
-    margin-top: 0.6rem;
-    color: var(--muted);
+  .article__hero-credit {
+    margin-top: 1.5rem;
+    color: rgba(255, 255, 255, 0.65);
     font-size: 0.74rem;
+  }
+
+  .article__hero-credit a {
+    color: rgba(255, 255, 255, 0.85);
+    text-decoration: underline;
+  }
+
+  .article__hero-credit a:hover {
+    color: #ffffff;
   }
 
   .article__grid {

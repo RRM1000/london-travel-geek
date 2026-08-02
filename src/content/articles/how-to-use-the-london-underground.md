@@ -3,7 +3,7 @@ title: "How to Use the London Underground: A First-Time Visitor’s Guide"
 seoTitle: "How to Use the London Underground"
 description: "A practical guide to planning Tube journeys, paying the correct fare, navigating stations and travelling confidently on the London Underground."
 publishedAt: 2026-07-28
-updatedAt: 2026-07-31
+updatedAt: 2026-08-02
 sites:
   - london
 canonicalSite: london
@@ -23,156 +23,366 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
 
-The London Underground can look complicated on first encounter, but the basic routine is straightforward: plan your route, use the same card or device to enter and leave, follow the coloured line signs and check the destination shown on the front of the train.
-
-Once you have made one or two journeys, the Tube usually becomes one of the simplest ways to cross London.
-
-> **The short version:** use contactless or Oyster, touch in at the start and out at the end, know the name of the line and its direction, and let passengers leave the train before you board.
-
-## Before your first journey
-
-Download the official [TfL Go app](https://tfl.gov.uk/maps_/tfl-go) or use the [TfL Journey Planner](https://tfl.gov.uk/plan-a-journey/) before leaving your accommodation. Both can show current disruption, route options and step-free information.
-
-For each journey, make a note of four things:
-
-1. Your starting station.
-2. The Underground line you need.
-3. The direction of travel, normally shown by the final station or branch.
-4. The station where you leave the train or change lines.
-
-The Tube map is a diagram rather than a geographically accurate street map. Two stations that appear separated on the map can occasionally be close enough to walk between, while some interchanges involve a surprisingly long walk underground.
-
-## Contactless or Oyster: how to pay
-
-For most adult visitors, paying as you go with a contactless bank card, phone or watch is the easiest option. Oyster cards provide a useful alternative if your bank card is not accepted, if it would attract overseas transaction charges, or if you prefer to keep travel spending separate.
-
-The [complete Oyster card guide](/articles/oyster-card-guide-london/) compares both options, explains the £10.50 card fee and lists every type of London transport where Oyster is accepted.
-
-TfL applies daily and weekly caps to eligible pay-as-you-go journeys. This means that after enough qualifying journeys, further travel within the relevant zones will not increase the fare beyond the applicable cap. TfL says pay as you go with daily capping is cheaper than buying a Day Travelcard for travel in Zones 1–9.
-
-![A yellow Oyster and contactless card reader on a London Underground ticket barrier.](../../assets/articles/london-underground/oyster-card-reader.jpg)
-
-*The yellow reader used for Oyster and contactless payments. Photo: [Oxyman](https://commons.wikimedia.org/wiki/File:TfL_Oyster_Card_reader.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
-
-### Always use the same card or device
-
-Touch the yellow reader at the beginning and end of every Underground journey. Wait for the green light and a single beep before walking through the gate.
-
-The payment method must be exactly the same at both ends. If you enter using a physical bank card and leave using the same card through Apple Pay or Google Pay, TfL sees two separate payment methods. That can create incomplete journeys and maximum fares.
-
-Each traveller needs a separate card, device, Oyster card or ticket. Two adults cannot pass the same contactless card back and forth at the gate.
-
-Keep other contactless cards away from the reader to avoid **card clash**, where the system charges a different card from the one you intended to use.
-
-## Understanding London’s fare zones
-
-London’s rail network is divided into nine fare zones. Zone 1 covers the centre, and most major visitor attractions are in Zones 1 and 2. Heathrow Airport is in Zone 6.
-
-Your fare depends partly on the zones crossed and the time of travel. Peak fares generally apply Monday to Friday from 06:30–09:30 and 16:00–19:00, with some exceptions. Fare rules and prices can change, so use TfL’s [Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder) when the exact cost matters.
-
-You do not need to choose zones in advance when using contactless or Oyster pay as you go. The system calculates the fare from your entry and exit records.
-
-## Taking a Tube journey, step by step
-
-### 1. Find the correct station entrance
-
-Look for the red and blue Underground roundel. Larger stations can have several entrances, and using the one closest to your required line can save a considerable walk.
-
-### 2. Touch in
-
-Place your card or device flat against the yellow reader. Do not remove it until the reader confirms acceptance. Wider gates are available for passengers with luggage, wheelchairs or pushchairs.
-
-### 3. Follow the line signs
-
-Station signs use the same colours as the Tube map. Follow the signs for your line, then check the direction.
-
-Directions might be described as northbound, southbound, eastbound or westbound. They can also be shown using a terminating station, such as “Victoria line southbound towards Brixton”.
-
-Some lines divide into branches. The Northern, District, Metropolitan and Piccadilly lines are examples where checking the destination displayed on the platform and train is particularly important.
-
-### 4. Check the platform display
-
-Electronic displays show the destination and expected arrival time of the next trains. If the first train is not going to your required branch, let it leave and wait for the correct service.
-
-### 5. Let passengers off first
-
-Stand to the side of the doors and allow people to leave before boarding. Move down inside the carriage where possible, and keep bags out of the doorway.
-
-### 6. Change lines if necessary
-
-Leave the train and follow the coloured signs for your next line. You normally remain inside the paid area and do not touch out during an interchange.
-
-There are exceptions known as **out-of-station interchanges**, where a recognised connection involves leaving one station and entering another nearby station. TfL normally links these journeys automatically when they are completed within the permitted time.
-
-### 7. Touch out at your destination
-
-Use the same card or device at the exit gate. Missing a touch in or touch out can result in an incomplete journey and a maximum fare.
-
-## Travelling at busy times
-
-Weekday commuting periods can be extremely crowded, particularly from approximately 07:30–09:30 and 16:30–18:30.
-
-If your plans are flexible:
-
-- Travel after the morning rush.
-- Avoid changing at the busiest central stations when an easy alternative exists.
-- Allow extra time when carrying luggage.
-- Step away from platform entrances before stopping to check your phone.
-- Have your card or device ready before reaching the gate.
-
-During hot weather, carry water. Much of the network is deep underground and not every train is air-conditioned.
-
-## Escalators, lifts and station etiquette
-
-On Underground escalators, stand on the right and leave the left side clear for people walking. Hold the handrail, keep luggage secure and take particular care when stepping on and off.
-
-Let people leave lifts and trains before entering. Avoid stopping immediately beyond ticket gates or at the bottom of escalators, where passengers are moving behind you.
-
-TfL advises passengers to remain behind the yellow platform line, keep loose clothing and bags away from closing doors, and ask staff rather than attempting to retrieve anything dropped onto the tracks.
-
-## Accessibility and travelling with luggage
-
-Do not assume that every Underground station is step-free. TfL currently describes around a third of Tube stations as step-free, but the level of access varies.
-
-On TfL maps:
-
-- A blue wheelchair symbol indicates step-free access from street to train.
-- A white wheelchair symbol indicates step-free access from street to platform, but there may still be a step or gap when boarding.
-
-Use TfL Go or the [step-free journey information](https://tfl.gov.uk/transport-accessibility/wheelchair-access-and-avoiding-stairs) to plan ahead, and check for lift closures immediately before travelling. Station staff can help arrange ramps and alternative accessible routes.
-
-Passengers with large suitcases, pushchairs or limited mobility should use lifts rather than escalators where possible. Not every station has a lift, so sometimes a slightly longer route will be much easier.
-
-## When does the Underground run?
-
-First and last train times vary by station and line. Most Tube services operate from early morning until around midnight, but you should check the exact final connection rather than relying on a general closing time.
-
-The Night Tube runs on Friday and Saturday nights on the Central, Jubilee, Northern, Piccadilly and Victoria lines. Not every branch or station is served, and planned engineering work can affect overnight journeys. Check [TfL’s Night Tube information](https://tfl.gov.uk/campaign/tube-improvements/the-future-of-the-tube/night-tube) before travelling late.
-
-## Weekend travel: check for planned closures
-
-Weekend is a popular time to explore London, but it is also when TfL often schedules maintenance and improvement work. A Tube line may be fully closed, partly closed between particular stations, run a reduced service or close earlier than usual. The disruption is often limited to one section of a line, so an alternative Tube route may still work.
-
-Before a weekend journey—especially one to the airport, a timed attraction, a match or a late-night event—check TfL’s [planned line closures and service changes](https://tfl.gov.uk/status-updates/planned-track-closures) page and run the journey through the [TfL Journey Planner](https://tfl.gov.uk/plan-a-journey/). These show the current plans and suggested alternatives.
-
-TfL may recommend another Tube line, the Elizabeth line, London Overground, DLR or a local bus. A rail-replacement bus is sometimes provided where there is no reasonable alternative, but it is usually slower than the train, so allow extra time. Check again on the day: planned work can change, and separate unplanned disruption can still affect the route.
-
-## Common mistakes to avoid
-
-- **Using different devices:** a bank card and the same card loaded onto a phone are treated separately.
-- **Forgetting to touch out:** this can produce a maximum fare.
-- **Taking the right line in the wrong direction:** check the destination stations listed on platform signs.
-- **Boarding the wrong branch:** read the destination on the departure display.
-- **Assuming every station is step-free:** check the accessibility symbols and live lift status.
-- **Buying an expensive paper single ticket unnecessarily:** compare it with contactless or Oyster pay as you go.
-- **Following the Tube map as if it were a street map:** check whether walking would be quicker for short central journeys.
-
-## A simple first journey
-
-For your first trip, choose a journey with no interchange if possible. Arrive outside the busiest commuting period, keep your route open on your phone and read the signs rather than following the crowd.
-
-If you become uncertain, step to one side and ask a member of staff. Tube, Elizabeth line and London Overground stations are staffed whenever services are running.
+The London Underground—famously known as **the Tube**—is the world's oldest underground railway network and the fastest way to travel across Central London. With 11 color-coded lines serving 272 stations, it can look intimidating on a map, but the basic routine is simple once you know the rules.
+
+> 💡 **First-Time Tube Snapshot:**  
+> - **How to Pay:** Tap in and tap out at ticket barriers using the exact same contactless bank card, phone (Apple/Google Pay), or Oyster card.  
+> - **Navigating:** Look for line names (e.g., *Piccadilly line*) and cardinal directions (*Northbound / Southbound / Eastbound / Westbound*), not just individual station names.  
+> - **Fares:** Automatic daily capping ensures you never pay more than the daily maximum (£8.90 for Zones 1–2).
+> - **Weekend Closures:** TfL regularly conducts track maintenance on weekends. Always check line status on the TfL Go app before travelling on Saturday or Sunday.
 
 ---
 
-*Information checked on 28 July 2026. Fares, services, engineering work and accessibility can change; verify time-sensitive details with [Transport for London](https://tfl.gov.uk/) before travelling.*
+## The 11 London Underground lines at a glance
+
+Each Underground line has a distinct name and color on the iconic Tube map. Click any line below to expand its tourist landmarks, comfort rating, ease of use rating, and navigation tips:
+
+<div style="margin-bottom: 12px; border: 1px solid #e2e8f0; border-left: 6px solid #894E24; border-radius: 6px; padding: 12px 16px; background-color: #f8fafc;">
+<details>
+<summary style="cursor: pointer; font-size: 1.05rem;">
+  <strong>Bakerloo Line</strong> &nbsp;|&nbsp; <strong>Comfort:</strong> ★★☆☆☆ &nbsp;|&nbsp; <strong>Ease of Use:</strong> ★★★★☆ &nbsp;🔽
+</summary>
+<div style="margin-top: 12px; font-size: 0.95rem; line-height: 1.6;">
+  <p><strong>❄️ Air-Conditioned:</strong> No &nbsp;|&nbsp; <strong>🌙 Night Tube:</strong> No</p>
+  <p><strong>🎯 Key Attractions & Landmarks Served:</strong></p>
+  <ul>
+    <li><strong>Baker Street:</strong> Madame Tussauds, Sherlock Holmes Museum, Regent's Park</li>
+    <li><strong>Oxford Circus:</strong> Oxford Street & Regent Street Shopping</li>
+    <li><strong>Piccadilly Circus:</strong> West End Theatreland, Leicester Square, Piccadilly Circus</li>
+    <li><strong>Waterloo:</strong> London Eye, South Bank Centre, Sea Life Aquarium</li>
+  </ul>
+  <p><strong>🗺️ Ease of Use & Navigation Notes:</strong></p>
+  <p>Very simple continuous line with no complex branches in Central London. Uses older 1972-vintage deep-level trains that can get warm during summer peak hours.</p>
+</div>
+</details>
+</div>
+
+<div style="margin-bottom: 12px; border: 1px solid #e2e8f0; border-left: 6px solid #E32017; border-radius: 6px; padding: 12px 16px; background-color: #f8fafc;">
+<details>
+<summary style="cursor: pointer; font-size: 1.05rem;">
+  <strong>Central Line</strong> &nbsp;|&nbsp; <strong>Comfort:</strong> ★★☆☆☆ &nbsp;|&nbsp; <strong>Ease of Use:</strong> ★★★☆☆ &nbsp;🔽
+</summary>
+<div style="margin-top: 12px; font-size: 0.95rem; line-height: 1.6;">
+  <p><strong>❄️ Air-Conditioned:</strong> No &nbsp;|&nbsp; <strong>🌙 Night Tube:</strong> <strong>Yes</strong> <em>(Friday & Saturday)</em></p>
+  <p><strong>🎯 Key Attractions & Landmarks Served:</strong></p>
+  <ul>
+    <li><strong>Notting Hill Gate:</strong> Portobello Road Market, Kensington Gardens</li>
+    <li><strong>Marble Arch / Lancaster Gate:</strong> Hyde Park</li>
+    <li><strong>Oxford Circus & Tottenham Court Road:</strong> West End Shopping & Soho</li>
+    <li><strong>St Paul's:</strong> St Paul's Cathedral & Millennium Bridge</li>
+    <li><strong>Stratford:</strong> Queen Elizabeth Olympic Park, Westfield Stratford City</li>
+  </ul>
+  <p><strong>🗺️ Ease of Use & Navigation Notes:</strong></p>
+  <p>Straightforward central east-west corridor, but check westbound terminal displays (Ealing Broadway vs. West Ruislip) and eastern branches (Epping vs. Hainault loop). High speed, deep-level, and gets very hot during summer rush hours.</p>
+</div>
+</details>
+</div>
+
+<div style="margin-bottom: 12px; border: 1px solid #e2e8f0; border-left: 6px solid #FFD300; border-radius: 6px; padding: 12px 16px; background-color: #f8fafc;">
+<details>
+<summary style="cursor: pointer; font-size: 1.05rem;">
+  <strong>Circle Line</strong> &nbsp;|&nbsp; <strong>Comfort:</strong> ★★★★☆ &nbsp;|&nbsp; <strong>Ease of Use:</strong> ★★☆☆☆ &nbsp;🔽
+</summary>
+<div style="margin-top: 12px; font-size: 0.95rem; line-height: 1.6;">
+  <p><strong>❄️ Air-Conditioned:</strong> <strong>Yes</strong> &nbsp;|&nbsp; <strong>🌙 Night Tube:</strong> No</p>
+  <p><strong>🎯 Key Attractions & Landmarks Served:</strong></p>
+  <ul>
+    <li><strong>High Street Kensington:</strong> Kensington Palace & Holland Park</li>
+    <li><strong>South Kensington:</strong> V&A, Natural History & Science Museums</li>
+    <li><strong>Westminster:</strong> Parliament, Big Ben, Westminster Abbey</li>
+    <li><strong>Tower Hill:</strong> Tower of London & Tower Bridge</li>
+    <li><strong>King's Cross St Pancras:</strong> Eurostar & Mainline Trains</li>
+  </ul>
+  <p><strong>🗺️ Ease of Use & Navigation Notes:</strong></p>
+  <p>Despite its name, it is no longer a continuous loop—it operates in a spiral from Hammersmith to Edgware Road! Shares tracks and platforms with the District and Hammersmith & City lines, making it easy to hop on the wrong train if you don't read the platform displays.</p>
+</div>
+</details>
+</div>
+
+<div style="margin-bottom: 12px; border: 1px solid #e2e8f0; border-left: 6px solid #00782A; border-radius: 6px; padding: 12px 16px; background-color: #f8fafc;">
+<details>
+<summary style="cursor: pointer; font-size: 1.05rem;">
+  <strong>District Line</strong> &nbsp;|&nbsp; <strong>Comfort:</strong> ★★★★☆ &nbsp;|&nbsp; <strong>Ease of Use:</strong> ★☆☆☆☆ &nbsp;🔽
+</summary>
+<div style="margin-top: 12px; font-size: 0.95rem; line-height: 1.6;">
+  <p><strong>❄️ Air-Conditioned:</strong> <strong>Yes</strong> &nbsp;|&nbsp; <strong>🌙 Night Tube:</strong> No</p>
+  <p><strong>🎯 Key Attractions & Landmarks Served:</strong></p>
+  <ul>
+    <li><strong>Kew Gardens:</strong> Royal Botanic Gardens Kew</li>
+    <li><strong>South Kensington:</strong> Natural History, Science & V&A Museums</li>
+    <li><strong>Westminster:</strong> Big Ben & Houses of Parliament</li>
+    <li><strong>Tower Hill:</strong> Tower of London</li>
+  </ul>
+  <p><strong>🗺️ Ease of Use & Navigation Notes:</strong></p>
+  <p>Tricky for first-time visitors! The line splits into 5 distinct branches (Richmond, Wimbledon, Ealing Broadway, Kensington Olympia, Edgware Road). Always read the front destination sign on the train before boarding. Features modern, spacious, air-conditioned walk-through trains.</p>
+</div>
+</details>
+</div>
+
+<div style="margin-bottom: 12px; border: 1px solid #e2e8f0; border-left: 6px solid #F4A9BE; border-radius: 6px; padding: 12px 16px; background-color: #f8fafc;">
+<details>
+<summary style="cursor: pointer; font-size: 1.05rem;">
+  <strong>Hammersmith & City Line</strong> &nbsp;|&nbsp; <strong>Comfort:</strong> ★★★★☆ &nbsp;|&nbsp; <strong>Ease of Use:</strong> ★★★★☆ &nbsp;🔽
+</summary>
+<div style="margin-top: 12px; font-size: 0.95rem; line-height: 1.6;">
+  <p><strong>❄️ Air-Conditioned:</strong> <strong>Yes</strong> &nbsp;|&nbsp; <strong>🌙 Night Tube:</strong> No</p>
+  <p><strong>🎯 Key Attractions & Landmarks Served:</strong></p>
+  <ul>
+    <li><strong>Shepherd's Bush Market:</strong> Local Markets & Music Venues</li>
+    <li><strong>Paddington:</strong> Mainline Trains & Airport Express</li>
+    <li><strong>Barbican:</strong> Barbican Centre for Arts & Music</li>
+    <li><strong>Aldgate East:</strong> Brick Lane Food Markets & Whitechapel Gallery</li>
+  </ul>
+  <p><strong>🗺️ Ease of Use & Navigation Notes:</strong></p>
+  <p>Simple linear route between Hammersmith and Barking. Shares platforms with the Circle and Metropolitan lines through Central London. Features modern, air-conditioned trains.</p>
+</div>
+</details>
+</div>
+
+<div style="margin-bottom: 12px; border: 1px solid #e2e8f0; border-left: 6px solid #A0A5A9; border-radius: 6px; padding: 12px 16px; background-color: #f8fafc;">
+<details>
+<summary style="cursor: pointer; font-size: 1.05rem;">
+  <strong>Jubilee Line</strong> &nbsp;|&nbsp; <strong>Comfort:</strong> ★★★☆☆ &nbsp;|&nbsp; <strong>Ease of Use:</strong> ★★★★★ &nbsp;🔽
+</summary>
+<div style="margin-top: 12px; font-size: 0.95rem; line-height: 1.6;">
+  <p><strong>❄️ Air-Conditioned:</strong> No &nbsp;|&nbsp; <strong>🌙 Night Tube:</strong> <strong>Yes</strong> <em>(Friday & Saturday)</em></p>
+  <p><strong>🎯 Key Attractions & Landmarks Served:</strong></p>
+  <ul>
+    <li><strong>Bond Street:</strong> Mayfair & Oxford Street Shopping</li>
+    <li><strong>Westminster:</strong> Parliament, Big Ben, Westminster Abbey</li>
+    <li><strong>Waterloo:</strong> London Eye, South Bank, National Theatre</li>
+    <li><strong>London Bridge:</strong> Borough Market, The Shard, HMS Belfast</li>
+    <li><strong>North Greenwich:</strong> The O2 Arena & IFS Cloud Cable Car</li>
+    <li><strong>Canary Wharf:</strong> Financial District & Roof Garden</li>
+  </ul>
+  <p><strong>🗺️ Ease of Use & Navigation Notes:</strong></p>
+  <p>Exceptionally straightforward single line running directly between Stanmore and Stratford with zero central branches to worry about. Features modern glass platform edge safety doors east of Westminster.</p>
+</div>
+</details>
+</div>
+
+<div style="margin-bottom: 12px; border: 1px solid #e2e8f0; border-left: 6px solid #9B0056; border-radius: 6px; padding: 12px 16px; background-color: #f8fafc;">
+<details>
+<summary style="cursor: pointer; font-size: 1.05rem;">
+  <strong>Metropolitan Line</strong> &nbsp;|&nbsp; <strong>Comfort:</strong> ★★★★☆ &nbsp;|&nbsp; <strong>Ease of Use:</strong> ★★★☆☆ &nbsp;🔽
+</summary>
+<div style="margin-top: 12px; font-size: 0.95rem; line-height: 1.6;">
+  <p><strong>❄️ Air-Conditioned:</strong> <strong>Yes</strong> &nbsp;|&nbsp; <strong>🌙 Night Tube:</strong> No</p>
+  <p><strong>🎯 Key Attractions & Landmarks Served:</strong></p>
+  <ul>
+    <li><strong>Baker Street:</strong> Regent's Park & Sherlock Holmes Museum</li>
+    <li><strong>King's Cross St Pancras:</strong> Eurostar & Railway Hub</li>
+    <li><strong>Wembley Park:</strong> Wembley Stadium & OVO Arena Wembley</li>
+  </ul>
+  <p><strong>🗺️ Ease of Use & Navigation Notes:</strong></p>
+  <p>Fast suburban express line. Easy between Aldgate and Baker Street, but outer suburban services operate All-Stations, Semi-Fast, and Fast train patterns. Features spacious, air-conditioned trains.</p>
+</div>
+</details>
+</div>
+
+<div style="margin-bottom: 12px; border: 1px solid #e2e8f0; border-left: 6px solid #000000; border-radius: 6px; padding: 12px 16px; background-color: #f8fafc;">
+<details>
+<summary style="cursor: pointer; font-size: 1.05rem;">
+  <strong>Northern Line</strong> &nbsp;|&nbsp; <strong>Comfort:</strong> ★★☆☆☆ &nbsp;|&nbsp; <strong>Ease of Use:</strong> ★☆☆☆☆ &nbsp;🔽
+</summary>
+<div style="margin-top: 12px; font-size: 0.95rem; line-height: 1.6;">
+  <p><strong>❄️ Air-Conditioned:</strong> No &nbsp;|&nbsp; <strong>🌙 Night Tube:</strong> <strong>Yes</strong> <em>(Friday & Saturday - Charing Cross branch)</em></p>
+  <p><strong>🎯 Key Attractions & Landmarks Served:</strong></p>
+  <ul>
+    <li><strong>Camden Town:</strong> Camden Market & Lock</li>
+    <li><strong>Tottenham Court Road & Leicester Square:</strong> Soho, West End & China Town</li>
+    <li><strong>London Bridge:</strong> Borough Market & The Shard</li>
+    <li><strong>Battersea Power Station:</strong> Lift 109, Shopping & Riverside Dining</li>
+  </ul>
+  <p><strong>🗺️ Ease of Use & Navigation Notes:</strong></p>
+  <p>Notoriously confusing in Zone 1! The line splits into the <strong>Charing Cross branch</strong> (West End) and <strong>Bank branch</strong> (The City), plus southern splits to <strong>Battersea Power Station</strong> vs. <strong>Morden</strong>. Always check platform displays carefully!</p>
+</div>
+</details>
+</div>
+
+<div style="margin-bottom: 12px; border: 1px solid #e2e8f0; border-left: 6px solid #003688; border-radius: 6px; padding: 12px 16px; background-color: #f8fafc;">
+<details>
+<summary style="cursor: pointer; font-size: 1.05rem;">
+  <strong>Piccadilly Line</strong> &nbsp;|&nbsp; <strong>Comfort:</strong> ★★☆☆☆ &nbsp;|&nbsp; <strong>Ease of Use:</strong> ★★★☆☆ &nbsp;🔽
+</summary>
+<div style="margin-top: 12px; font-size: 0.95rem; line-height: 1.6;">
+  <p><strong>❄️ Air-Conditioned:</strong> No &nbsp;|&nbsp; <strong>🌙 Night Tube:</strong> <strong>Yes</strong> <em>(Friday & Saturday)</em></p>
+  <p><strong>🎯 Key Attractions & Landmarks Served:</strong></p>
+  <ul>
+    <li><strong>Heathrow Airport:</strong> Terminals 2, 3, 4 & 5</li>
+    <li><strong>South Kensington:</strong> V&A, Natural History & Science Museums</li>
+    <li><strong>Knightsbridge:</strong> Harrods & Luxury Shopping</li>
+    <li><strong>Piccadilly Circus & Covent Garden:</strong> Theatreland & Dining</li>
+    <li><strong>King's Cross St Pancras:</strong> Eurostar International Rail</li>
+  </ul>
+  <p><strong>🗺️ Ease of Use & Navigation Notes:</strong></p>
+  <p>Essential tourist line connecting Heathrow Airport directly to the West End. Deep-level, hot in summer, and gets crowded with airport luggage. Western trains split between Heathrow Airport (Terminal 4 vs. Terminal 5) and Uxbridge.</p>
+</div>
+</details>
+</div>
+
+<div style="margin-bottom: 12px; border: 1px solid #e2e8f0; border-left: 6px solid #0098D4; border-radius: 6px; padding: 12px 16px; background-color: #f8fafc;">
+<details>
+<summary style="cursor: pointer; font-size: 1.05rem;">
+  <strong>Victoria Line</strong> &nbsp;|&nbsp; <strong>Comfort:</strong> ★★★☆☆ &nbsp;|&nbsp; <strong>Ease of Use:</strong> ★★★★★ &nbsp;🔽
+</summary>
+<div style="margin-top: 12px; font-size: 0.95rem; line-height: 1.6;">
+  <p><strong>❄️ Air-Conditioned:</strong> No &nbsp;|&nbsp; <strong>🌙 Night Tube:</strong> <strong>Yes</strong> <em>(Friday & Saturday)</em></p>
+  <p><strong>🎯 Key Attractions & Landmarks Served:</strong></p>
+  <ul>
+    <li><strong>Victoria:</strong> Victoria Station, Apollo Victoria Theatre</li>
+    <li><strong>Green Park:</strong> Buckingham Palace & Royal Parks</li>
+    <li><strong>Oxford Circus:</strong> Oxford Street Shopping</li>
+    <li><strong>Euston & King's Cross St Pancras:</strong> Mainline Railway Terminals</li>
+  </ul>
+  <p><strong>🗺️ Ease of Use & Navigation Notes:</strong></p>
+  <p>Perfect for visitors. Simple direct line between Walthamstow Central and Brixton with zero branches and hyper-frequent trains (every 100 seconds during peak hours). Deep-level and warm in summer.</p>
+</div>
+</details>
+</div>
+
+<div style="margin-bottom: 12px; border: 1px solid #e2e8f0; border-left: 6px solid #95CDBA; border-radius: 6px; padding: 12px 16px; background-color: #f8fafc;">
+<details>
+<summary style="cursor: pointer; font-size: 1.05rem;">
+  <strong>Waterloo & City Line</strong> &nbsp;|&nbsp; <strong>Comfort:</strong> ★★★☆☆ &nbsp;|&nbsp; <strong>Ease of Use:</strong> ★★★★★ &nbsp;🔽
+</summary>
+<div style="margin-top: 12px; font-size: 0.95rem; line-height: 1.6;">
+  <p><strong>❄️ Air-Conditioned:</strong> No &nbsp;|&nbsp; <strong>🌙 Night Tube:</strong> No</p>
+  <p><strong>🎯 Key Attractions & Landmarks Served:</strong></p>
+  <ul>
+    <li><strong>Waterloo to Bank:</strong> Direct shuttle connecting Waterloo Rail Station to Bank (The City of London)</li>
+  </ul>
+  <p><strong>🗺️ Ease of Use & Navigation Notes:</strong></p>
+  <p>Ultra-simple 2-station commuter shuttle between Waterloo and Bank. Impossible to get lost! Operates <strong>Monday to Friday only</strong> (closed Saturdays, Sundays, and Public/Bank Holidays).</p>
+</div>
+</details>
+</div>
+
+---
+
+## How to pay: Contactless vs. Oyster
+
+For almost all adult visitors, tapping a **contactless bank card or mobile wallet (Apple Pay / Google Pay)** is the cheapest and most convenient payment method.
+
+| Payment Method | Adult Single (Zone 1) | Daily Cap (Zones 1–2) | Setup Required |
+| --- | ---: | ---: | --- |
+| **Contactless Card / Phone** | **£3.10** *(Peak)* / **£3.00** *(Off-peak)* | **£8.90** | None—just tap at the gate |
+| **Oyster Card** | **£3.10** *(Peak)* / **£3.00** *(Off-peak)* | **£8.90** | Buy for £7 fee & load credit |
+| **Paper Single Ticket** | **£6.70** | None *(No capping)* | Must buy at machine *(Avoid!)* |
+
+> ⚠️ **Critical Payment Rules:**  
+> 1. **Use the exact same device:** Tapping in with a physical bank card and tapping out with Apple Pay on your phone counts as two separate cards. You will be charged two incomplete maximum fares (£9.40 each)!  
+> 2. **One card per person:** Every traveler over 11 must tap their own separate card or phone. Two people cannot share one card.  
+> 3. **Avoid Card Clash:** Keep your payment card separate from other contactless cards so the yellow reader doesn't charge the wrong card.
+
+For full pricing details, peak hours, and Travelcard comparisons, read our complete guide to [London Transport Fares and Costs 2026](/articles/london-public-transport-costs-and-fares/).
+
+---
+
+## Taking a Tube journey: Step by step
+
+![A yellow Oyster and contactless card reader on a London Underground ticket barrier.](../../assets/articles/london-underground/oyster-card-reader.jpg)
+
+### Step 1: Find the station & touch in
+Look for the famous red-and-blue Underground roundel outside. Touch your card or device flat against the **yellow reader** on the right side of the ticket barrier. Wait for the green light and a single chime before walking through. Use the wider gates if carrying large luggage or a stroller.
+
+### Step 2: Follow the color-coded line signs
+Inside the station, follow the overhead signs matching your line's color. Directional signs indicate the compass heading and final destination (e.g. *"Piccadilly line Eastbound towards Cockfosters"*).
+
+### Step 3: Check the platform display
+Electronic digital displays on the platform show the destination and arrival time of upcoming trains. 
+> 🛑 **Check the Branch:** Lines like the Northern, District, and Piccadilly lines split into multiple branches. Always verify the train's destination on the platform display screen before boarding!
+
+### Step 4: Boarding & train etiquette
+* **Stand to the sides:** Stand behind the yellow platform safety line and allow passengers to exit the train completely before stepping aboard.
+* **Move inside:** Walk down the aisle inside the carriage to make space for others near the doors.
+
+### Step 5: Interchanging between lines
+If your route requires changing lines (e.g., from the Victoria line to the District line), follow the colored transfer signs (*"Way Out & Line Transfers"*). You remain inside the ticketed area and **do not touch out** during an interchange.
+
+### Step 6: Touch out at your final station
+Touch the exact same card or device to the yellow reader at your exit station barrier to complete your journey and calculate your fare.
+
+---
+
+## Essential Tube etiquette & golden rules
+
+To travel smoothly like a local, keep these key unwritten rules in mind:
+
+> 🌟 **Golden Rules of Tube Etiquette:**  
+> 1. **Stand on the Right on Escalators:** Always stand on the right side of escalators. The left side is strictly reserved for people walking up or down!  
+> 2. **Have your card ready:** Have your phone or card out and ready BEFORE reaching the ticket barrier. Stopping directly in front of the gate blocks moving crowds behind you.  
+> 3. **Give up priority seats:** Offer designated priority seats to elderly passengers, pregnant women, or travelers with disabilities.  
+> 4. **Keep bags off seats:** Keep backpacks and luggage on the floor between your feet or on your lap during busy hours.
+
+---
+
+## When does the Underground run? (Operating Hours)
+
+London Underground trains operate 7 days a week, with operating hours varying slightly between weekdays, weekends, and specific lines:
+
+| Day of the Week | First Trains (Start Time) | Last Trains (End Time) | Operating Notes |
+| --- | --- | --- | --- |
+| **Monday – Thursday** | **05:00 – 05:30 AM** | **00:30 – 01:00 AM** | First trains leave outer terminals around 05:00; last central trains depart around 00:30–01:00 AM. |
+| **Friday** | **05:00 – 05:30 AM** | **00:30 – 01:00 AM** *(or 24 Hours on Night Tube lines)* | Standard lines close ~01:00 AM. **5 core lines** (Central, Jubilee, Northern, Piccadilly, Victoria) run 24 hours non-stop. |
+| **Saturday** | **05:00 – 05:30 AM** *(or 24 Hours on Night Tube lines)* | **00:30 – 01:00 AM** *(or 24 Hours on Night Tube lines)* | Standard lines close ~01:00 AM. **5 core lines** (Central, Jubilee, Northern, Piccadilly, Victoria) run 24 hours non-stop. |
+| **Sunday** | **06:30 – 07:00 AM** | **23:30 – 23:45 PM** | Starts ~1.5 hours later; last trains leave earlier before midnight across all lines. |
+
+> 🌙 **Important Night Tube Exception:**  
+> 24-hour weekend continuous service operates **ONLY on 5 lines** (Central, Jubilee, Northern - Charing Cross branch, Piccadilly, Victoria). Standard Tube lines close at their regular times (~00:30–01:00 AM) on Friday and Saturday nights (note: the **Waterloo & City line** is closed entirely on Saturdays, Sundays, and Bank Holidays!).
+
+> 💡 **TfL Fare Day Definition:**  
+> TfL's daily ticketing system operates on a **04:30 to 04:29** clock. Any journey made before 04:29 AM counts towards the previous day's daily fare cap!
+
+---
+
+## Night Tube & weekend closures
+
+### Night Tube (24-Hour Weekend Travel)
+On **Friday and Saturday nights**, 24-hour service operates across five core lines:
+* **Central Line**
+* **Jubilee Line**
+* **Northern Line** *(Charing Cross branch)*
+* **Piccadilly Line**
+* **Victoria Line**
+
+Standard off-peak fares apply, and night journeys count towards the previous day's daily capping threshold (the TfL fare day runs from 04:30 to 04:29).
+
+### Weekend Engineering Work
+TfL frequently performs track maintenance and signaling upgrades over weekends. Before heading out on Saturday or Sunday—especially for airport flights or theatre shows—check the [TfL Planned Closures Page](https://tfl.gov.uk/status-updates/planned-track-closures) or use the **TfL Go App**.
+
+---
+
+## Step-free access & travelling with luggage
+
+Not all Underground stations have step-free access:
+* **White Wheelchair Symbol on Tube Maps:** Step-free access from street to platform level (there may still be a step or gap onto the train).
+* **Blue Wheelchair Symbol on Tube Maps:** 100% step-free access from street all the way onto the train carriage.
+
+> 🧳 **Luggage Tip:** Trains on the **Elizabeth line** and **District line** feature spacious walk-through carriages with dedicated luggage racks. Older deep-level lines (like the Central or Piccadilly lines) have tight doorways and no luggage racks—use wide ticket gates at stations!
+
+---
+
+## 7 Common Tube mistakes to avoid
+
+1. **Using different devices:** Tapping in with your physical bank card and out with Apple Pay triggers two incomplete maximum fares.
+2. **Forgetting to tap out:** Triggers an automatic maximum fare charge (up to £9.40 in Zone 1–6).
+3. **Standing on the left on escalators:** Always stand on the right!
+4. **Boarding the wrong train branch:** Check the electronic platform sign destination before boarding split lines (District/Northern/Piccadilly).
+5. **Buying paper single tickets:** Single paper tickets cost **£6.70** in Zone 1 vs. **£3.10** with contactless!
+6. **Treating the Tube map as a street map:** Many central stations (e.g. Covent Garden to Leicester Square) are just a 4-minute walk apart at street level.
+7. **Not checking lift status:** If traveling with heavy bags or a wheelchair, verify lift operating status on the TfL Go app beforehand.
+
+---
+
+## Related London Transport Guides
+
+* 🚊 [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
+* 💷 [London Transport Fares & Costs 2026](/articles/london-public-transport-costs-and-fares/)
+* 💳 [Oyster Card vs. Contactless Guide](/articles/oyster-card-guide-london/)
+* 🗺️ [Which London Train Lines Accept Oyster?](/articles/oyster-card-train-lines-in-london/)
+* ✈️ [Heathrow Airport to London Transport Guide](/articles/heathrow-airport-to-london/)
+
+---
+
+*Information checked on 2 August 2026. Always verify live travel status using [Transport for London](https://tfl.gov.uk/).*

@@ -7,18 +7,24 @@ interface Props {
 }
 
 const { site } = Astro.props;
-const currentDate = new Date().toLocaleDateString("en-US", {
-  month: "long",
-  day: "numeric",
-  year: "numeric",
-}).toUpperCase();
 ---
 
 <header class="site-header">
-  <!-- Top White Logo Banner -->
+  <!-- Top White Header Banner with Logo and Search -->
   <div class="header-banner">
     <div class="container header-banner__inner">
       <SiteLogo site={site} />
+      
+      <!-- Right-side Search Form -->
+      <form class="header-search" action="/guides/" method="get" role="search">
+        <input 
+          type="search" 
+          name="q" 
+          placeholder="Search 130+ London guides..." 
+          aria-label="Search guides"
+        />
+        <button type="submit" aria-label="Search">🔍</button>
+      </form>
     </div>
   </div>
 
@@ -54,35 +60,19 @@ const currentDate = new Date().toLocaleDateString("en-US", {
       </details>
     </div>
   </div>
-
-  <!-- Sub-Header Date & Search Bar -->
-  <div class="header-subbar">
-    <div class="container header-subbar__inner">
-      <div class="subbar-date">{currentDate}</div>
-      <form class="subbar-search" action="/guides/" method="get" role="search">
-        <input 
-          type="search" 
-          name="q" 
-          placeholder="SEARCH GUIDES..." 
-          aria-label="Search guides"
-        />
-        <button type="submit" aria-label="Search">🔍</button>
-      </form>
-    </div>
-  </div>
 </header>
 
 <style>
   .site-header {
     width: 100%;
-    border-bottom: 1px solid var(--line);
     background: #ffffff;
+    border-bottom: 1px solid var(--line, #d4d9d5);
   }
 
-  /* 1. Top White Logo Banner */
+  /* 1. Top Pure White Header Banner */
   .header-banner {
     background: #ffffff;
-    padding-block: 1.25rem;
+    padding-block: 1rem;
     border-bottom: 1px solid #eeeeee;
   }
 
@@ -90,6 +80,43 @@ const currentDate = new Date().toLocaleDateString("en-US", {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 1.5rem;
+  }
+
+  /* Header Search Bar */
+  .header-search {
+    display: flex;
+    align-items: center;
+    background: #f5f5f5;
+    border: 1px solid #e0e0e0;
+    border-radius: 20px;
+    padding: 0.25rem 0.5rem 0.25rem 0.9rem;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  }
+
+  .header-search:focus-within {
+    border-color: var(--ink, #132a38);
+    box-shadow: 0 0 0 2px color-mix(in srgb, var(--ink, #132a38) 15%, transparent);
+    background: #ffffff;
+  }
+
+  .header-search input {
+    padding: 0.25rem 0.4rem;
+    border: 0;
+    background: transparent;
+    font-family: var(--body), sans-serif;
+    font-size: 0.85rem;
+    color: var(--ink, #132a38);
+    outline: none;
+    width: clamp(10rem, 20vw, 16rem);
+  }
+
+  .header-search button {
+    padding: 0.2rem 0.4rem;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+    font-size: 0.9rem;
   }
 
   /* 2. Full-Width Dark Navigation Bar */
@@ -97,9 +124,9 @@ const currentDate = new Date().toLocaleDateString("en-US", {
     position: sticky;
     top: 0;
     z-index: 90;
-    background: #181818;
+    background: var(--ink, #132a38);
     color: #ffffff;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 4px 16px rgba(19, 42, 56, 0.18);
   }
 
   .header-navbar__inner {
@@ -127,104 +154,58 @@ const currentDate = new Date().toLocaleDateString("en-US", {
   .nav-item {
     display: flex;
     align-items: center;
-    border-right: 1px solid rgba(255, 255, 255, 0.12);
+    border-right: 1px solid rgba(255, 255, 255, 0.1);
   }
 
   .nav-item:first-child {
-    border-left: 1px solid rgba(255, 255, 255, 0.12);
+    border-left: 1px solid rgba(255, 255, 255, 0.1);
   }
 
   .nav-link {
     display: inline-flex;
     align-items: center;
-    padding: 0.9rem 1.4rem;
+    padding: 0.9rem 1.35rem;
     color: #ffffff;
-    font-family: var(--display), "Outfit", sans-serif;
+    font-family: var(--body), "Segoe UI", sans-serif;
     font-size: 0.88rem;
-    font-weight: 800;
-    letter-spacing: 0.06em;
+    font-weight: 700;
+    letter-spacing: 0.05em;
     text-transform: uppercase;
     text-decoration: none;
     transition: background 0.15s ease, color 0.15s ease;
   }
 
   .nav-link:hover {
-    background: rgba(255, 255, 255, 0.1);
-    color: #FF2D2E;
+    background: rgba(255, 255, 255, 0.12);
+    color: #efb83f;
   }
 
-  /* Red Action Button */
+  /* CTA Button */
   .cta-button {
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
-    padding: 0.9rem 1.5rem;
-    background: #FF2D2E;
+    padding: 0.75rem 1.4rem;
+    background: #e63946;
     color: #ffffff;
-    font-family: var(--display), "Outfit", sans-serif;
+    font-family: var(--body), sans-serif;
     font-size: 0.88rem;
-    font-weight: 900;
-    letter-spacing: 0.05em;
+    font-weight: 800;
+    letter-spacing: 0.04em;
     text-transform: uppercase;
     text-decoration: none;
-    transition: background 0.15s ease;
+    border-radius: 4px;
+    transition: background 0.15s ease, transform 0.15s ease;
+    box-shadow: 0 2px 8px rgba(230, 57, 70, 0.3);
   }
 
   .cta-button:hover {
-    background: #D9161B;
+    background: #b52d36;
+    transform: translateY(-1px);
   }
 
   .cta-arrow {
-    font-size: 1.1rem;
-  }
-
-  /* 3. Sub-Header Date & Search Bar */
-  .header-subbar {
-    background: #f5f5f5;
-    border-bottom: 1px solid #e0e0e0;
-    padding-block: 0.45rem;
-  }
-
-  .header-subbar__inner {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 1rem;
-  }
-
-  .subbar-date {
-    color: #555555;
-    font-family: var(--display), sans-serif;
-    font-size: 0.76rem;
-    font-weight: 800;
-    letter-spacing: 0.08em;
-  }
-
-  .subbar-search {
-    display: flex;
-    align-items: center;
-    background: #ffffff;
-    border: 1px solid #cccccc;
-    border-radius: 4px;
-    overflow: hidden;
-  }
-
-  .subbar-search input {
-    padding: 0.25rem 0.6rem;
-    border: 0;
-    font-family: var(--body);
-    font-size: 0.78rem;
-    color: #333333;
-    outline: none;
-    width: 11rem;
-  }
-
-  .subbar-search button {
-    padding: 0.25rem 0.5rem;
-    background: transparent;
-    border: 0;
-    cursor: pointer;
-    font-size: 0.8rem;
+    font-size: 1.05rem;
   }
 
   /* Mobile Navigation Toggle */
@@ -260,9 +241,9 @@ const currentDate = new Date().toLocaleDateString("en-US", {
     top: calc(100% + 0.5rem);
     right: 0;
     width: min(16rem, calc(100vw - 2rem));
-    padding: 0.5rem;
-    border-radius: 6px;
-    background: #181818;
+    padding: 0.6rem;
+    border-radius: 8px;
+    background: var(--ink, #132a38);
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
     z-index: 100;
   }
@@ -280,9 +261,9 @@ const currentDate = new Date().toLocaleDateString("en-US", {
     display: block;
     padding: 0.65rem 0.85rem;
     color: #ffffff;
-    font-family: var(--display), sans-serif;
+    font-family: var(--body), sans-serif;
     font-size: 0.85rem;
-    font-weight: 800;
+    font-weight: 700;
     text-transform: uppercase;
     text-decoration: none;
     border-radius: 4px;
@@ -293,7 +274,7 @@ const currentDate = new Date().toLocaleDateString("en-US", {
   }
 
   .mobile-cta {
-    background: #FF2D2E !important;
+    background: #e63946 !important;
     color: #ffffff !important;
     text-align: center;
     margin-top: 0.4rem;
@@ -307,10 +288,6 @@ const currentDate = new Date().toLocaleDateString("en-US", {
 
     .mobile-nav {
       display: block;
-    }
-
-    .subbar-search input {
-      width: 8rem;
     }
   }
 </style>
