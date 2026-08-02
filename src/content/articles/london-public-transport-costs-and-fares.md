@@ -114,6 +114,8 @@ Heathrow Express and Southeastern high-speed journeys are excluded from these ca
 
 For almost all visitors, pay-as-you-go using a contactless card or Oyster card is the cheapest and most convenient way to pay for travel in London. A **7-Day Travelcard** is only worth buying if you plan on doing a lot of travelling over 5 to 7 consecutive days—or if your trip starts mid-week and spans two calendar weeks.
 
+* **Flexible Start Date:** Unlike contactless weekly capping (which strictly runs Monday to Sunday), a **7-Day Travelcard can start on any day of the week** you choose (e.g. Wednesday to Tuesday). It is valid for 7 consecutive days starting at 04:30 on your chosen start date, and can be purchased up to 30 days in advance.
+
 > **Quick Example (Zones 1–2):**  
 > The daily contactless cap for Zones 1–2 is **£8.90**, while a 7-Day Travelcard costs **£44.70**. 
 > - If you travel over **4 days**, contactless capping costs **£35.60** (saving you £9.10 compared to a Travelcard).
