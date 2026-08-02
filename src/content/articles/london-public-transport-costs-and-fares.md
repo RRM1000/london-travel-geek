@@ -110,22 +110,27 @@ Crucially, TfL's weekly cap strictly follows a **Monday-to-Sunday** calendar wee
 
 Heathrow Express and Southeastern high-speed journeys are excluded from these caps. River Bus and Cable Car payments are also separate.
 
-## Travelcard prices
+## Comparing Daily Capping vs. 7-Day Travelcards
 
-For most tourists staying within London, pay-as-you-go with automatic capping is consistently cheaper than buying a 1-Day Travelcard. However, 7-Day or monthly Travelcards remain a smart choice for visitors with frequent, predictable daily commuting needs.
+For almost all visitors, pay-as-you-go using a contactless card or Oyster card is the cheapest and most convenient way to pay for travel in London. A **7-Day Travelcard** is only worth buying if you plan on doing a lot of travelling over 5 to 7 consecutive days—or if your trip starts mid-week and spans two calendar weeks.
 
-| Zones covered | Day Anytime | Day Off-peak | 7-Day Travelcard |
-| --- | ---: | ---: | ---: |
-| Zones 1–2 | £16.60 | £16.60 | £44.70 |
-| Zones 1–3 | £16.60 | £16.60 | £52.50 |
-| Zones 1–4 | £16.60 | £16.60 | £64.20 |
-| Zones 1–5 | £23.60 | £16.60 | £76.40 |
-| Zones 1–6 | £23.60 | £16.60 | £81.60 |
-| Zones 1–9 | £29.80 | £17.80 | £116.40 |
+> **Quick Example (Zones 1–2):**  
+> The daily contactless cap for Zones 1–2 is **£8.90**, while a 7-Day Travelcard costs **£44.70**. 
+> - If you travel over **4 days**, contactless capping costs **£35.60** (saving you £9.10 compared to a Travelcard).
+> - If you travel heavily for **5 full days**, contactless capping reaches **£44.50** (5 × £8.90), making a 7-Day Travelcard virtually identical in cost.
 
-> *Note: TfL does not sell standalone 1-Day Travelcards for smaller zone combinations. The minimum 1-Day Anytime Travelcard covers Zones 1–4 (£16.60), while the minimum 1-Day Off-Peak Travelcard covers Zones 1–6 (£16.60).*
+### Side-by-side comparison: Daily Cap vs. 7-Day Travelcard
 
-Off-peak Day Travelcards become valid from 09:30 Monday through Friday, and remain valid all day on weekends and public holidays. Note that all Travelcard prices and multimodal capping thresholds remain frozen through March 2027.
+| Zones covered | Daily Contactless / Oyster Cap | 7-Day Travelcard |
+| --- | ---: | ---: |
+| **Zones 1–2** | £8.90 | £44.70 |
+| **Zones 1–3** | £10.50 | £52.50 |
+| **Zones 1–4** | £12.80 | £64.20 |
+| **Zones 1–5** | £15.30 | £76.40 |
+| **Zones 1–6** | £16.30 | £81.60 |
+| **Zones 1–9** | £23.30 peak / £16.30 off-peak | £116.40 |
+
+> **Avoid 1-Day Paper Travelcards:** Paper 1-Day Travelcards are still sold at station ticket machines, but they carry a heavy physical paper surcharge (£16.60 to £23.60 per day) compared to the £8.90 to £16.30 contactless daily caps above. Always tap with contactless or an Oyster card for daily travel. Note that all Travelcard prices and capping thresholds remain frozen under current TfL policy through March 2027.
 
 ## Bus and tram prices
 
