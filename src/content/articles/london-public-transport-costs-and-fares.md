@@ -106,7 +106,7 @@ A cap limits what you pay for eligible journeys when you keep using the same Oys
 
 For Zones 1–6 the 2026 daily peak and off-peak caps are the same. Some outer-zone combinations have a lower off-peak cap; consult TfL's [complete 2026 caps table](https://content.tfl.gov.uk/adult-fares.pdf).
 
-The weekly cap runs **Monday to Sunday**, not for any arbitrary seven-day period. Starting a visit midweek can make a 7 Day Travelcard more attractive than contactless weekly capping.
+Crucially, TfL's weekly cap strictly follows a **Monday-to-Sunday** calendar week rather than a rolling seven-day window. If your trip starts mid-week, purchasing a 7-Day Travelcard may offer better value than contactless capping.
 
 Heathrow Express and Southeastern high-speed journeys are excluded from these caps. River Bus and Cable Car payments are also separate.
 
