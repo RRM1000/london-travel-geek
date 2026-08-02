@@ -1,7 +1,7 @@
 ---
 import { Image } from "astro:assets";
 import type { ImageMetadata } from "astro";
-import { formatTag, tagHref } from "../lib/taxonomy";
+import { formatTag } from "../lib/taxonomy";
 
 interface Props {
   label?: string;
@@ -24,9 +24,11 @@ const {
   imageAlt = "",
   tags = [],
 } = Astro.props;
+
+const TagElement = empty ? "div" : "a";
 ---
 
-<article class:list={["article-card", { slot: empty }]}>
+<TagElement class:list={["article-card", { slot: empty }]} href={empty ? undefined : href}>
   <div class="article-card__image" aria-hidden={image ? undefined : "true"}>
     {image ? (
       <Image
@@ -42,25 +44,34 @@ const {
   </div>
   <div class="article-card__body">
     <p class="eyebrow">{empty ? "Content slot" : label}</p>
-    <h3>{empty ? "Article card" : title}</h3>
-    <p>{empty ? "Connect this component to an article collection." : description}</p>
-    {!empty && tags.length > 0 && (
-      <ul class="article-card__tags" aria-label={`Tags for ${title}`}>
-        {tags.slice(0, 4).map((tag) => <li><a href={tagHref(tag)}>{formatTag(tag)}</a></li>)}
-      </ul>
-    )}
-    {!empty && <a href={href} aria-label={`Read ${title}`}>Read article →</a>}
+    <h3 class="article-card__title">{empty ? "Article card" : title}</h3>
+    <p class="article-card__description">{empty ? "Connect this component to an article collection." : description}</p>
+    
+    <div class="article-card__footer">
+      {!empty && tags.length > 0 && (
+        <ul class="article-card__tags" aria-label={`Tags for ${title}`}>
+          {tags.slice(0, 4).map((tag) => <li class="article-card__tag">{formatTag(tag)}</li>)}
+        </ul>
+      )}
+      {!empty && <span class="article-card__read-more">Read article &rarr;</span>}
+    </div>
   </div>
-</article>
+</TagElement>
 
 <style>
   .article-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
     overflow: hidden;
     border: 1px solid var(--line);
     border-radius: var(--card-radius);
     background: var(--surface);
+    color: inherit;
+    text-decoration: none;
     box-shadow: 0 1px 0 color-mix(in srgb, var(--ink) 5%, transparent);
     transition: box-shadow var(--transition), translate var(--transition);
+    cursor: pointer;
   }
 
   .article-card__image {
@@ -116,26 +127,51 @@ const {
   }
 
   .article-card__body {
-    display: grid;
-    gap: 0.65rem;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 0.6rem;
     padding: var(--space-4);
   }
 
-  .article-card__body > p:not(.eyebrow) {
+  .article-card__title {
+    margin: 0;
+    color: var(--ink);
+    font-size: 1.25rem;
+    font-weight: 800;
+    line-height: 1.25;
+    transition: color var(--transition);
+  }
+
+  .article-card:hover .article-card__title {
+    color: var(--accent);
+  }
+
+  .article-card__description {
+    margin: 0;
     color: var(--muted);
     font-size: 0.94rem;
+    line-height: 1.45;
+  }
+
+  .article-card__footer {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    margin-top: auto;
+    padding-top: 0.5rem;
   }
 
   .article-card__tags {
     display: flex;
     flex-wrap: wrap;
     gap: 0.4rem;
-    margin: 0.1rem 0 0;
+    margin: 0;
     padding: 0;
     list-style: none;
   }
 
-  .article-card__tags a {
+  .article-card__tag {
     display: block;
     width: auto;
     margin: 0;
@@ -146,18 +182,18 @@ const {
     font-size: 0.72rem;
     font-weight: 750;
     line-height: 1.25;
-    text-decoration: none;
+    background: var(--surface-strong, rgba(0,0,0,0.02));
   }
 
-  .article-card__tags a:hover {
-    border-color: var(--accent);
-    color: var(--accent);
-  }
-
-  a {
+  .article-card__read-more {
     width: fit-content;
-    margin-top: 0.25rem;
     color: var(--accent);
     font-weight: 800;
+    font-size: 0.92rem;
+    transition: transform 0.15s ease;
+  }
+
+  .article-card:hover .article-card__read-more {
+    text-decoration: underline;
   }
 </style>

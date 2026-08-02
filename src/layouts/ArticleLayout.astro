@@ -97,7 +97,8 @@ const breadcrumbs = [
   updatedAt={updatedAt}
   breadcrumbs={breadcrumbs}
 >
-  <article class="article container">
+  <article class="article">
+    <!-- Full-Width Hero Banner right under the navbar -->
     <div class={`article__hero-banner ${heroImage ? "article__hero-banner--has-image" : "article__hero-banner--no-image"}`}>
       {heroImage && (
         <div class="article__hero-bg">
@@ -105,44 +106,18 @@ const breadcrumbs = [
             src={heroImage}
             alt={heroImageAlt}
             widths={[720, 1080, 1440, 1920]}
-            sizes="(max-width: 78rem) 100vw, 76rem"
+            sizes="100vw"
             loading="eager"
           />
           <div class="article__hero-overlay" />
         </div>
       )}
-      <div class="article__hero-content">
+      <div class="container article__hero-content">
         <Breadcrumbs items={breadcrumbs} />
         <header class="article__header">
           <p class="eyebrow"><a href={categoryHref(category)}>{category}</a></p>
           <h1>{title}</h1>
-          <p>{description}</p>
-          <div class="article__meta">
-            <time datetime={publishedAt.toISOString()}>
-              Published {publishedAt.toLocaleDateString("en-GB", {
-                day: "numeric",
-                month: "long",
-                year: "numeric",
-              })}
-            </time>
-            {updatedAt && (
-              <>
-                <span class="article__meta-separator" aria-hidden="true">·</span>
-                <time datetime={updatedAt.toISOString()}>
-                  Updated {updatedAt.toLocaleDateString("en-GB", {
-                    day: "numeric",
-                    month: "long",
-                    year: "numeric",
-                  })}
-                </time>
-              </>
-            )}
-          </div>
-          {tags.length > 0 && (
-            <ul class="article__tags" aria-label="Article tags">
-              {tags.map((tag) => <li><a href={tagHref(tag)}>{formatTag(tag)}</a></li>)}
-            </ul>
-          )}
+          <p class="article__description">{description}</p>
         </header>
         {heroImage && (heroImageCredit || heroImageLicense) && (
           <div class="article__hero-credit">
@@ -166,7 +141,39 @@ const breadcrumbs = [
         )}
       </div>
     </div>
-    <div class="article__grid">
+
+    <!-- Container for Sub-Hero Meta (Dates & Tags) and Article Content Grid -->
+    <div class="container">
+      <div class="article__sub-hero">
+        <div class="article__meta">
+          <time datetime={publishedAt.toISOString()}>
+            Published {publishedAt.toLocaleDateString("en-GB", {
+              day: "numeric",
+              month: "long",
+              year: "numeric",
+            })}
+          </time>
+          {updatedAt && (
+            <>
+              <span class="article__meta-separator" aria-hidden="true">·</span>
+              <time datetime={updatedAt.toISOString()}>
+                Updated {updatedAt.toLocaleDateString("en-GB", {
+                  day: "numeric",
+                  month: "long",
+                  year: "numeric",
+                })}
+              </time>
+            </>
+          )}
+        </div>
+        {tags.length > 0 && (
+          <ul class="article__tags" aria-label="Article tags">
+            {tags.map((tag) => <li><a href={tagHref(tag)}>{formatTag(tag)}</a></li>)}
+          </ul>
+        )}
+      </div>
+
+      <div class="article__grid">
       <div class="article__body">
         {showContents && (
           <TableOfContents headings={contentsHeadings} variant="mobile" />
@@ -188,6 +195,7 @@ const breadcrumbs = [
         </section>
         <Advert format="rectangle" />
       </aside>
+    </div>
     </div>
     <RelatedGuides articles={relatedArticles} />
   </article>
@@ -403,30 +411,27 @@ const breadcrumbs = [
 
 <style>
   .article {
-    padding-block: var(--space-7);
+    padding-bottom: var(--space-7);
   }
 
-  @media (max-width: 48rem) {
-    .article {
-      padding-block: var(--space-4);
-    }
-  }
-
+  /* Full-width Hero Banner right under navbar */
   .article__hero-banner {
-    margin-bottom: var(--space-6);
+    position: relative;
+    width: 100%;
+    margin-bottom: var(--space-5);
   }
 
   .article__hero-banner--no-image {
-    margin-bottom: var(--space-6);
+    padding-top: var(--space-4);
+    background: var(--surface);
+    border-bottom: 1px solid var(--line);
   }
 
   .article__hero-banner--has-image {
     position: relative;
-    border-radius: var(--card-radius);
-    overflow: hidden;
+    width: 100%;
     background-color: var(--ink);
     color: #ffffff;
-    box-shadow: var(--shadow);
   }
 
   .article__hero-banner--has-image .article__hero-bg {
@@ -448,32 +453,32 @@ const breadcrumbs = [
     z-index: 2;
     background: linear-gradient(
       180deg,
-      rgba(15, 23, 32, 0.65) 0%,
-      rgba(15, 23, 32, 0.85) 60%,
-      rgba(15, 23, 32, 0.95) 100%
+      rgba(15, 23, 32, 0.60) 0%,
+      rgba(15, 23, 32, 0.85) 65%,
+      rgba(15, 23, 32, 0.96) 100%
     );
   }
 
-  .article__hero-banner--has-image .article__hero-content {
+  .article__hero-banner .article__hero-content {
     position: relative;
     z-index: 3;
-    padding: 2.75rem 2.25rem 2rem;
+    padding-block: 3.5rem 3rem;
   }
 
   @media (max-width: 48rem) {
-    .article__hero-banner--has-image .article__hero-content {
-      padding: 1.75rem 1.25rem 1.5rem;
+    .article__hero-banner .article__hero-content {
+      padding-block: 2rem 1.75rem;
     }
   }
 
   .article__header {
     display: grid;
     max-width: 58rem;
-    gap: 1rem;
+    gap: 0.85rem;
   }
 
   .article__hero-banner--has-image :global(.breadcrumbs) {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(255, 255, 255, 0.85);
   }
 
   .article__hero-banner--has-image :global(.breadcrumbs li:not(:last-child)::after) {
@@ -495,7 +500,8 @@ const breadcrumbs = [
   }
 
   .article__header h1 {
-    font-size: clamp(2.4rem, 6vw, 5rem);
+    font-size: clamp(2.4rem, 6.5vw, 4.8rem);
+    line-height: 1.1;
   }
 
   .article__hero-banner--has-image h1 {
@@ -503,82 +509,20 @@ const breadcrumbs = [
     text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
   }
 
-  .article__header > p:not(.eyebrow) {
+  .article__description {
     max-width: var(--reading-width);
     color: var(--muted);
-    font-size: 1.2rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
   }
 
-  .article__hero-banner--has-image .article__header > p:not(.eyebrow) {
-    color: rgba(255, 255, 255, 0.9);
+  .article__hero-banner--has-image .article__description {
+    color: rgba(255, 255, 255, 0.92);
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
   }
 
-  .article__meta {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-    color: var(--muted);
-    font-size: 0.82rem;
-    font-weight: 750;
-  }
-
-  .article__hero-banner--has-image .article__meta {
-    color: rgba(255, 255, 255, 0.8);
-  }
-
-  .article__meta-separator {
-    color: var(--accent);
-    font-weight: 800;
-  }
-
-  .article__hero-banner--has-image .article__meta-separator {
-    color: #f59e0b;
-  }
-
-  .article__tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.45rem;
-    margin-top: 0.35rem;
-  }
-
-  .article__tags li {
-    padding: 0.35rem 0.7rem;
-    border: 1px solid var(--line);
-    border-radius: 999px;
-    background: var(--surface);
-    color: var(--muted);
-    font-size: 0.76rem;
-    font-weight: 750;
-  }
-
-  .article__hero-banner--has-image .article__tags li {
-    background: rgba(255, 255, 255, 0.15);
-    border-color: rgba(255, 255, 255, 0.25);
-    color: #ffffff;
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-  }
-
-  .article__tags a {
-    color: inherit;
-    text-decoration: none;
-  }
-
-  .article__tags a:hover {
-    color: var(--accent);
-    text-decoration: underline;
-    text-underline-offset: 0.2em;
-  }
-
-  .article__hero-banner--has-image .article__tags a:hover {
-    color: #f59e0b;
-  }
-
   .article__hero-credit {
-    margin-top: 1.5rem;
+    margin-top: 1.75rem;
     color: rgba(255, 255, 255, 0.65);
     font-size: 0.74rem;
   }
@@ -590,6 +534,61 @@ const breadcrumbs = [
 
   .article__hero-credit a:hover {
     color: #ffffff;
+  }
+
+  /* Sub-Hero Section (Dates & Tags Underneath Hero) */
+  .article__sub-hero {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: var(--space-5);
+    padding-bottom: 1.25rem;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .article__meta {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    color: var(--muted);
+    font-size: 0.84rem;
+    font-weight: 750;
+  }
+
+  .article__meta-separator {
+    color: var(--accent);
+    font-weight: 800;
+  }
+
+  .article__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+  }
+
+  .article__tags li {
+    padding: 0.35rem 0.75rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--surface);
+    color: var(--muted);
+    font-size: 0.76rem;
+    font-weight: 750;
+    transition: all 0.15s ease;
+  }
+
+  .article__tags a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .article__tags a:hover {
+    color: var(--accent);
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
   }
 
   .article__grid {

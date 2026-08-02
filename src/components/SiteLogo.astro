@@ -3,12 +3,13 @@ import type { SiteConfig } from "../sites";
 
 interface Props {
   site: SiteConfig;
+  variant?: "light" | "dark";
 }
 
-const { site } = Astro.props;
+const { site, variant = "light" } = Astro.props;
 ---
 
-<a class="logo" href="/" aria-label={`${site.name} home`}>
+<a class={`logo logo--${variant}`} href="/" aria-label={`${site.name} home`}>
   <img 
     src="/logo.png" 
     alt={`${site.name} logo`} 
@@ -43,7 +44,14 @@ const { site } = Astro.props;
     width: auto;
     flex-shrink: 0;
     object-fit: contain;
+  }
+
+  .logo--light .logo__img {
     mix-blend-mode: multiply;
+  }
+
+  .logo--dark .logo__img {
+    filter: brightness(0) invert(1);
   }
 
   .logo__text {
@@ -59,8 +67,12 @@ const { site } = Astro.props;
     white-space: nowrap;
   }
 
-  .logo__black {
+  .logo--light .logo__black {
     color: #132a38;
+  }
+
+  .logo--dark .logo__black {
+    color: #ffffff;
   }
 
   .logo__red {

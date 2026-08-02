@@ -7,7 +7,7 @@ export const londonSite: SiteConfig = {
   shortName: "LTG",
   description:
     "Practical, carefully researched London travel guides for getting around, choosing where to stay and making more of every day.",
-  accentLabel: "London, clearly explained",
+  accentLabel: "The No-Fluff Travel Handbook",
   navigation: [
     { label: "Eat & Drink", href: "/topics/food-and-drink/" },
     { label: "Areas", href: "/topics/london-areas/" },
