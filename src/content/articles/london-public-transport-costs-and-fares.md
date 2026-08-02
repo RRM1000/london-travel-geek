@@ -171,26 +171,19 @@ For detailed journey scenarios, read the [worked examples in our bus and tram gu
 | 1-Day Bus & Tram Pass | £6.00 | **£6.40** |
 | 7-Day Bus & Tram Pass | £24.70 | **£26.10** |
 
-The 60-minute Hopper Fare rule remains unchanged under the November update.
+## Summer 2026 Weekend Hopper Trial
 
-## Summer 2026 Weekend Hopper
+Between **25 July and 31 August 2026** (including the August Bank Holiday Monday), TfL is running a special **Weekend Hopper trial** offering unlimited bus and tram travel across London for just **£1.75 per day**.
 
-The Weekend Hopper is a six-week trial running from **25 July to 31 August 2026**, including the bank-holiday Monday.
+> 💡 **Summer Trial Key Rules:**
+> * **£1.75 per day:** A single £1.75 tap gives you unlimited bus and tram rides all day Saturday (from 04:30 through 04:29 Sunday morning). A second £1.75 tap covers all of Sunday.
+> * **Full Weekend for £3.50:** Unlimited bus and tram travel across both weekend days costs just £3.50 in total.
+> * **Automatic discount:** Applies automatically when using the exact same contactless card, phone, or Oyster card.
+> * **Buses & Trams only:** Tube, DLR, Elizabeth line, and rail journeys are billed separately.
 
-During the trial:
+*(Note: Standard 60-minute Hopper rules continue on weekdays and will resume full-time after the trial concludes on 31 August 2026).*
 
-- One £1.75 fare covers unlimited TfL bus and tram journeys on an eligible Saturday.
-- A separate £1.75 fare covers unlimited journeys on Sunday.
-- Each fare day runs from 04:30 until 04:29 the next morning.
-- The offer applies automatically when you use the same Oyster card or contactless card or device.
-- The usual one-hour Hopper continues on weekdays and after the trial.
-- Tube, rail, River Bus and Cable Car travel are not included in the £1.75 weekend offer.
-
-For example, unlimited bus and tram travel on both Saturday and Sunday costs an adult **£3.50 in total**, because each day has its own £1.75 fare.
-
-The trial ends after 31 August unless a new decision extends or replaces it. TfL will evaluate the results before they inform future fare policy.
-
-Our [bus and tram guide](/articles/how-to-use-london-buses-and-trams/#summer-2026-weekend-hopper) explains how to use the offer for a day of sightseeing.
+Read our complete advice on [Using the Weekend Hopper for Sightseeing](/articles/how-to-use-london-buses-and-trams/#summer-2026-weekend-hopper).
 
 ## National Rail and airport rail fares
 
