@@ -3,7 +3,7 @@ title: "How Much Does London Public Transport Cost? 2026 Fares Guide"
 seoTitle: "London Transport Fares and Costs 2026"
 description: "Current London transport prices for adults and children, covering the Tube, trains, buses, trams, boats, cable car, cycles and taxis."
 publishedAt: 2026-07-28
-updatedAt: 2026-07-31
+updatedAt: 2026-08-02
 sites:
   - london
 canonicalSite: london
@@ -64,7 +64,7 @@ Because the exceptions are journey-specific, check unusual or expensive routes i
 
 ## Tube, DLR, London Overground and Elizabeth line single fares
 
-The following are adult Oyster or contactless pay-as-you-go fares introduced on 1 March 2026. The same TfL fare scale also applies to many National Rail journeys within London, but some National Rail and airport journeys use different fares.
+Below are the current adult Oyster and contactless pay-as-you-go fares, effective since March 2026. While Transport for London (TfL) applies these standard rates across most Underground and suburban rail routes, select National Rail services and airport transfers operate under separate pricing tariffs.
 
 ### Journeys including Zone 1
 
@@ -87,7 +87,7 @@ The following are adult Oyster or contactless pay-as-you-go fares introduced on 
 | 4 zones | £3.40 | £2.50 |
 | 5 zones | £3.80 | £2.60 |
 
-These tables describe the standard TfL scale. A specific journey can cost more or less because of the route, operator, airport supplement or a station beyond Zone 6.
+The figures above reflect standard TfL fare tiers. Actual travel costs may vary depending on your chosen route, train operator, airport surcharges, or travel beyond Zone 6.
 
 ## Daily and weekly caps
 
