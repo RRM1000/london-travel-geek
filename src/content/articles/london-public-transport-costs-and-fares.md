@@ -112,9 +112,9 @@ Heathrow Express and Southeastern high-speed journeys are excluded from these ca
 
 ## Travelcard prices
 
-Pay as you go with capping is usually cheaper than a Day Travelcard for a visitor travelling only inside London. A weekly or longer Travelcard can still make sense for predictable, repeated travel.
+For most tourists staying within London, pay-as-you-go with automatic capping is consistently cheaper than buying a 1-Day Travelcard. However, 7-Day or monthly Travelcards remain a smart choice for visitors with frequent, predictable daily commuting needs.
 
-| Zones | Day Anytime | Day Off-peak | 7 Day |
+| Zones covered | Day Anytime | Day Off-peak | 7-Day Travelcard |
 | --- | ---: | ---: | ---: |
 | Zones 1–2 | £16.60 | £16.60 | £44.70 |
 | Zones 1–3 | £16.60 | £16.60 | £52.50 |
@@ -123,7 +123,9 @@ Pay as you go with capping is usually cheaper than a Day Travelcard for a visito
 | Zones 1–6 | £23.60 | £16.60 | £81.60 |
 | Zones 1–9 | £29.80 | £17.80 | £116.40 |
 
-An off-peak Day Travelcard can be used from 09:30 Monday to Friday and all day on weekends and public holidays. Travelcards and multimodal caps are currently frozen until March 2027.
+> *Note: TfL does not sell standalone 1-Day Travelcards for smaller zone combinations. The minimum 1-Day Anytime Travelcard covers Zones 1–4 (£16.60), while the minimum 1-Day Off-Peak Travelcard covers Zones 1–6 (£16.60).*
+
+Off-peak Day Travelcards become valid from 09:30 Monday through Friday, and remain valid all day on weekends and public holidays. Note that all Travelcard prices and multimodal capping thresholds remain frozen through March 2027.
 
 ## Bus and tram prices
 
