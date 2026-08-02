@@ -136,36 +136,42 @@ For almost all visitors, pay-as-you-go using a contactless card or Oyster card i
 
 ## Bus and tram prices
 
-Buses and trams use the same flat fare across London. There is no peak surcharge.
+London buses and trams use a flat fare structure across all zones with no peak surcharges. Whether you ride one stop or travel across the entire route, the price remains identical.
 
-For boarding, live arrivals, useful routes and event-day advice, read [How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/).
+For boarding instructions, live arrivals, and key routes, read our complete guide to [How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/).
 
-### Current prices: 28 July–31 October 2026
+### Current bus & tram fares (Through 31 October 2026)
 
 | Ticket or cap | Adult price |
 | --- | ---: |
-| One PAYG fare | £1.75 |
-| Hopper fare | £1.75 for unlimited bus and tram journeys started within one hour |
-| Daily bus and tram cap | £5.25 |
-| One Day Bus & Tram Pass | £6.00 |
-| 7 Day Bus & Tram Pass | £24.70 |
-| Monthly Bus & Tram Pass | £94.90 |
-| Annual Bus & Tram Pass | £988 |
+| Single PAYG bus/tram fare | **£1.75** |
+| Daily bus & tram cap | **£5.25** |
+| 1-Day Bus & Tram Pass | **£6.00** |
+| 7-Day Bus & Tram Pass | **£24.70** |
+| Monthly Bus & Tram Pass | **£94.90** |
+| Annual Bus & Tram Pass | **£988.00** |
 
-Touch in on every bus or tram, but do not touch out. Continue using exactly the same Oyster card or contactless device for the Hopper and caps to work.
+### How the Hopper Fare works
 
-Changing between the Underground and a bus is **not** a free interchange: the rail journey and bus journey are charged separately. However, a Tube journey does not break an existing Hopper. If you take a bus, make a Tube journey and board another bus within one hour of the first bus touch, the two bus journeys share one Hopper fare while the Tube fare is charged separately. See the [worked examples in the bus and tram guide](/articles/how-to-use-london-buses-and-trams/#changing-between-a-bus-and-the-underground).
+The **Hopper Fare** allows you to make unlimited bus and tram journeys across London within **60 minutes** for the price of a single fare (£1.75).
 
-### Confirmed rise from 1 November 2026
+* **Touch in only:** Always tap your card or device on the yellow reader when boarding a bus or tram, but **never touch out** when alighting.
+* **Use the same payment method:** You must use the exact same contactless card, phone, or Oyster card for every tap so TfL can automatically link your journeys.
+* **60-minute window:** Any additional bus or tram you board within 60 minutes of your first touch-in is automatically free.
+* **Tube transfers:** Taking the Underground in between two bus rides does not cancel your 60-minute Hopper window (the Tube fare is charged separately, but your second bus remains free if boarded within 60 minutes of the first).
 
-| Ticket or cap | Current | From 1 November 2026 |
+For detailed journey scenarios, read the [worked examples in our bus and tram guide](/articles/how-to-use-london-buses-and-trams/#changing-between-a-bus-and-the-underground).
+
+### Confirmed fare rise from 1 November 2026
+
+| Ticket or cap | Current fare | From 1 November 2026 |
 | --- | ---: | ---: |
-| One PAYG fare | £1.75 | **£1.85** |
-| Daily bus and tram cap | £5.25 | **£5.55** |
-| One Day Bus & Tram Pass | £6.00 | **£6.40** |
-| 7 Day Bus & Tram Pass | £24.70 | **£26.10** |
+| Single PAYG fare | £1.75 | **£1.85** |
+| Daily bus & tram cap | £5.25 | **£5.55** |
+| 1-Day Bus & Tram Pass | £6.00 | **£6.40** |
+| 7-Day Bus & Tram Pass | £24.70 | **£26.10** |
 
-The one-hour Hopper remains. TfL says the overall bus and tram increase will be 5.7%.
+The 60-minute Hopper Fare rule remains unchanged under the November update.
 
 ## Summer 2026 Weekend Hopper
 
