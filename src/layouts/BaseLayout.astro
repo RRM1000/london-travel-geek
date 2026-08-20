@@ -146,16 +146,54 @@ const jsonLd = JSON.stringify(
       src="https://widget.getyourguide.com/dist/pa.umd.production.min.js"
       data-gyg-partner-id="WWP7I0R"
     ></script>
-    <script is:inline
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-YDK7Q2D8E8"
-    ></script>
+    <!--
+      The GetYourGuide partner widget rewrites the rel on every getyourguide.com
+      link it finds, replacing "sponsored nofollow noopener" with
+      "noopener noreferrer". Verified 2026-08-20: the server HTML ships the
+      correct rel and the live DOM had it stripped.
+      Google treats a paid link without rel="sponsored" (or nofollow) as a link
+      scheme, so letting a third-party script quietly remove it is a real risk -
+      and it affects the hand-placed widgets on the transport guides too, not
+      just the generated links. This re-asserts it on anything we marked as an
+      affiliate link, and keeps watching because the widget runs async.
+    -->
     <script is:inline>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-YDK7Q2D8E8');
+      (function () {
+        var REL = "sponsored nofollow noopener";
+        function enforce() {
+          document.querySelectorAll("a[data-affiliate]").forEach(function (a) {
+            if (a.getAttribute("rel") !== REL) a.setAttribute("rel", REL);
+          });
+        }
+        enforce();
+        document.addEventListener("DOMContentLoaded", enforce);
+        window.addEventListener("load", enforce);
+        new MutationObserver(enforce).observe(document.documentElement, {
+          subtree: true, childList: true, attributes: true,
+          attributeFilter: ["rel"],
+        });
+      })();
     </script>
+    {import.meta.env.PROD && (
+      <>
+        {/*
+          PROD-ONLY. `astro dev` (localhost) used to load this unconditionally,
+          so every local visit while testing counted as real traffic in GA -
+          `npm run build` sets import.meta.env.PROD, `astro dev` does not, so
+          this now only ships in the built site.
+        */}
+        <script is:inline
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-YDK7Q2D8E8"
+        ></script>
+        <script is:inline>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-YDK7Q2D8E8');
+        </script>
+      </>
+    )}
   </head>
   <body data-site={activeSite.id}>
     <a class="skip-link" href="#main-content">Skip to content</a>

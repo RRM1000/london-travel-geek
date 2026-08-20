@@ -122,8 +122,8 @@ Before purchasing any SIM card or eSIM profile, verify these two technical requi
 
 ### 1. Is your phone network-unlocked?
 A carrier-locked phone will reject any third-party SIM card or eSIM profile. 
-* **iPhone (iOS):** Go to **Settings $\rightarrow$ General $\rightarrow$ About $\rightarrow$ Carrier Lock**. It must say **"No SIM restrictions"**.
-* **Android:** Go to **Settings $\rightarrow$ Connections $\rightarrow$ Mobile Networks** (or search for "Network Lock"). If bought under a multi-year contract from a US/Canadian carrier, contact your operator to request an unlock before travelling.
+* **iPhone (iOS):** Go to **Settings → General → About → Carrier Lock**. It must say **"No SIM restrictions"**.
+* **Android:** Go to **Settings → Connections → Mobile Networks** (or search for "Network Lock"). If bought under a multi-year contract from a US/Canadian carrier, contact your operator to request an unlock before travelling.
 
 ### 2. Does your phone support eSIM?
 * **Apple:** All iPhones introduced since late 2018 (iPhone XS, XS Max, XR, 11, 12, 13, 14, 15, 16 series) support eSIM. *Note: US-purchased iPhone 14, 15, and 16 models are eSIM-only and have no physical SIM card tray.*
@@ -144,7 +144,7 @@ Follow this setup sequence to avoid accidental roaming charges on your primary c
 - Label your lines in phone settings as **"Home"** and **"Travel Data"**.
 
 ### 2. Upon landing in London
-- Go to **Settings $\rightarrow$ Cellular / Mobile Data**.
+- Go to **Settings → Cellular / Mobile Data**.
 - Set **Mobile Data** default line to **[Travel Data]**.
 - Turn **OFF** **"Allow Cellular Data Switching"** (*Critical*).
 - Set **Default Voice Line** to **[Home]** (if receiving two-factor authentication SMS).
