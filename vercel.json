@@ -1,0 +1,85 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/articles/oyster-card-train-lines-in-london",
+      "destination": "/articles/london-tube-and-rail-lines-guide",
+      "permanent": true
+    },
+    {
+      "source": "/articles/oyster-card-train-lines-in-london/",
+      "destination": "/articles/london-tube-and-rail-lines-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/notting-hill-paddington-area-guide",
+      "destination": "/articles/notting-hill-area-guide",
+      "permanent": true
+    },
+    {
+      "source": "/articles/notting-hill-paddington-area-guide/",
+      "destination": "/articles/notting-hill-area-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/covent-garden-soho-area-guide",
+      "destination": "/articles/covent-garden-area-guide",
+      "permanent": true
+    },
+    {
+      "source": "/articles/covent-garden-soho-area-guide/",
+      "destination": "/articles/covent-garden-area-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/westminster-south-bank-area-guide",
+      "destination": "/articles/westminster-area-guide",
+      "permanent": true
+    },
+    {
+      "source": "/articles/westminster-south-bank-area-guide/",
+      "destination": "/articles/westminster-area-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/south-kensington-chelsea-area-guide",
+      "destination": "/articles/south-kensington-area-guide",
+      "permanent": true
+    },
+    {
+      "source": "/articles/south-kensington-chelsea-area-guide/",
+      "destination": "/articles/south-kensington-area-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/bloomsbury-kings-cross-area-guide",
+      "destination": "/articles/kings-cross-area-guide",
+      "permanent": true
+    },
+    {
+      "source": "/articles/bloomsbury-kings-cross-area-guide/",
+      "destination": "/articles/kings-cross-area-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/city-shoreditch-area-guide",
+      "destination": "/articles/shoreditch-area-guide",
+      "permanent": true
+    },
+    {
+      "source": "/articles/city-shoreditch-area-guide/",
+      "destination": "/articles/shoreditch-area-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/greenwich-docklands-area-guide",
+      "destination": "/articles/greenwich-area-guide",
+      "permanent": true
+    },
+    {
+      "source": "/articles/greenwich-docklands-area-guide/",
+      "destination": "/articles/greenwich-area-guide/",
+      "permanent": true
+    }
+  ]
+}

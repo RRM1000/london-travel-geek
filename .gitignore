@@ -4,6 +4,8 @@ dist/
 .astro/
 .vercel/
 .env
+.env.local
+.env.*.local
 .DS_Store
 *.log
 work/
@@ -11,3 +13,7 @@ work/
 .codex/
 outputs/
 .publish-staging/
+
+# Google service account (never commit)
+google-service-account.json
+*.service-account.json
