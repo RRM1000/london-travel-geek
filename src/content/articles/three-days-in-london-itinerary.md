@@ -50,15 +50,15 @@ This three-day plan covers London's essential contrasts without treating the cit
 
 Greenwich, Camden, Notting Hill and Windsor are worthwhile, but forcing all of them into three days produces more transport than experience. Add them on a longer trip.
 
-## Where to stay
+## Best areas for your visit
 
-For maximum walking, use [Covent Garden/Soho](/articles/covent-garden-soho-area-guide/) or [Westminster/South Bank](/articles/westminster-south-bank-area-guide/). For rail convenience, use [Bloomsbury/King's Cross](/articles/bloomsbury-kings-cross-area-guide/).
+For maximum walking, use [Covent Garden](/articles/covent-garden-area-guide/), [Soho](/articles/soho-area-guide/) or the [South Bank](/articles/south-bank-area-guide/). For rail convenience, use [King's Cross](/articles/kings-cross-area-guide/) or [Bloomsbury](/articles/bloomsbury-area-guide/).
 
 ## Related guides
 
 - [Five days in London](/articles/five-days-in-london-itinerary/)
 - [One-day themed plans](/articles/one-day-london-itineraries-by-interest/)
-- [Best London areas](/articles/best-areas-to-stay-and-visit-london/)
+- [Best London areas to visit](/articles/best-areas-to-visit-london/)
 
 ---
 

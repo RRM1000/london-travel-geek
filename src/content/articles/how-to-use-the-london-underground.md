@@ -380,7 +380,7 @@ Not all Underground stations have step-free access:
 * 🚊 [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
 * 💷 [London Transport Fares & Costs 2026](/articles/london-public-transport-costs-and-fares/)
 * 💳 [Oyster Card vs. Contactless Guide](/articles/oyster-card-guide-london/)
-* 🗺️ [Which London Train Lines Accept Oyster?](/articles/oyster-card-train-lines-in-london/)
+* 🗺️ [London Tube and Rail Lines Guide](/articles/london-tube-and-rail-lines-guide/)
 * ✈️ [Heathrow Airport to London Transport Guide](/articles/heathrow-airport-to-london/)
 
 ---

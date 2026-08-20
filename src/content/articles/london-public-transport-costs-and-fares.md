@@ -201,17 +201,9 @@ Suburban National Rail pricing inside London can be complex because train lines 
 
 To check exact pay-as-you-go rates, use TfL's [Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder). For long-distance, return, or Railcard tickets, book via [National Rail](https://www.nationalrail.co.uk/).
 
-### Comparing Heathrow Airport Rail Services
+### Heathrow Airport Links
 
-When travelling between London and Heathrow (LHR), compare all three rail options before buying a premium express ticket:
-
-| Service / Route | Travel Time | Adult PAYG Fare | Included in TfL Caps? |
-| --- | --- | ---: | --- |
-| **Piccadilly Line (Tube)** | ~50–60 mins | **£5.90** *(Peak)* / **£4.00** *(Off-peak)* | Yes (Standard Tube cap) |
-| **Elizabeth Line** | ~35–45 mins | **£13.30** | Yes (Counts towards caps) |
-| **Heathrow Express** | 15 mins | **£25.00+** | ❌ **Excluded** |
-
-For full terminal breakdowns and hotel route advice, read our [Heathrow Airport Transport Guide](/articles/heathrow-airport-to-london/).
+Heathrow has three rail options at very different prices: the Piccadilly line is the cheapest and counts towards your daily cap, the Elizabeth line is faster and also capped, and Heathrow Express is the fastest but is excluded from caps and Travelcards. Current fares, terminal breakdowns and route advice by destination are in the [Heathrow Airport Transport Guide](/articles/heathrow-airport-to-london/).
 
 ### Gatwick Airport & Other Airport Links
 

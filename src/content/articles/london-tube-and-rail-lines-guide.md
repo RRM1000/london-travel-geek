@@ -1,20 +1,18 @@
 ---
-title: "Which London Train Lines Accept Oyster? A Complete Rail Guide"
-seoTitle: "London Train Lines That Accept Oyster"
-description: "A practical guide to using Oyster on the Underground, Elizabeth line, DLR, London Overground and National Rail, with comfort and crowding ratings."
+title: "London Tube and Rail Lines: Which to Take and What to Expect"
+seoTitle: "London Tube Lines Guide: Crowding, Comfort and Stops"
+description: "A line-by-line guide to the London Underground, Elizabeth line, DLR and London Overground, with crowding and comfort ratings, key attractions and the best station exits."
 publishedAt: 2026-07-28
-updatedAt: 2026-08-02
+updatedAt: 2026-08-16
 sites:
   - london
 canonicalSite: london
 category: "Getting around London"
 tags:
-  - Oyster card
   - London Underground
   - Elizabeth line
   - DLR
   - London Overground
-  - National Rail
 draft: false
 heroImage: "../../assets/articles/oyster-train-lines/elizabeth-line-reading.jpg"
 heroImageAlt: "A purple and white Elizabeth line train standing at Reading station"
@@ -26,9 +24,9 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
 
 Whilst the London Underground (or tube as it's commonly referred to by Londoners) is the most popular and well-known way to traverse London by rail, there are many other lines that also accept Oyster cards (or your bank card if you prefer).
 
-> **The short answer:** Oyster is accepted throughout the London Underground, Docklands Light Railway and London Overground. It is accepted on the Elizabeth line as far west as West Drayton, but not between Iver and Reading. It is also accepted on National Rail at stations inside London's Oyster pay-as-you-go area. Contactless payment extends beyond the Oyster boundary on some routes.
+> **The short answer:** London's rail lines are not interchangeable. The Elizabeth line, the sub-surface Tube lines and the London Overground are air-conditioned and comfortable; the deep-level Tube lines are faster through the centre but hot and crowded. This guide rates every line for crowding and comfort, and lists which attractions sit at which station — including the exit to use when you get there.
 
-If you're not sure whether Oyster or your bank card is best, start with the [complete Oyster card and contactless guide](/articles/oyster-card-guide-london/). If you are new to the network, [How to Use the London Underground](/articles/how-to-use-the-london-underground/) explains touching in and out, fare zones, interchanges and common first-time mistakes.
+Oyster and contactless work on every line covered here. For the National Rail exceptions and the Elizabeth line boundary at West Drayton, see the [Oyster card and contactless guide](/articles/oyster-card-guide-london/). If you are new to the network, [How to Use the London Underground](/articles/how-to-use-the-london-underground/) explains touching in and out, fare zones, interchanges and common first-time mistakes.
 
 ## Official London rail and Tube map
 
@@ -42,7 +40,7 @@ The Elizabeth line runs west–east through central London, linking Paddington, 
 
 ## London Underground
 
-Oyster is accepted at every London Underground station. All 11 Tube lines are included below. The Elizabeth line, DLR and London Overground are covered after this section. Oyster is also accepted on these.
+All 11 Tube lines are rated below. The Elizabeth line, DLR and London Overground are covered after this section.
 
 **Rating key:**
 
@@ -50,44 +48,43 @@ Oyster is accepted at every London Underground station. All 11 Tube lines are in
 - **Comfort:** one gold star is less comfortable; five gold stars are more comfortable.
 
 ### <span class="line-name line-name--piccadilly"><span aria-hidden="true" class="line-name__swatch"></span>Piccadilly</span>
-<div class="line-guide"><dl><div><dt>Oyster</dt><dd>Yes</dd></div><div><dt>Typical crowding</dt><dd>5/5</dd></div><div><dt>Comfort</dt><dd>2/5</dd></div><div><dt>Air-conditioning</dt><dd>Existing fleet: no. New fleet: yes</dd></div><div><dt>Visitor likelihood</dt><dd>Very likely — Heathrow, the Museum Quarter and the West End.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Natural History Museum, Science Museum and V&amp;A Museum</td><td>South Kensington</td><td>Museum Subway pedestrian tunnel</td></tr><tr><td>Harrods, Harvey Nichols and Hyde Park</td><td>Knightsbridge</td><td>Brompton Road for Harrods; Sloane Street for Harvey Nichols</td></tr><tr><td>Piccadilly Circus lights, Shaftesbury Avenue and Soho</td><td>Piccadilly Circus</td><td>Exit 1 or 3</td></tr><tr><td>Chinatown, Leicester Square and West End shows</td><td>Leicester Square</td><td>Exit 1 or 3</td></tr><tr><td>Covent Garden Piazza, Royal Opera House and London Transport Museum</td><td>Covent Garden</td><td>James Street exit; lifts/stairs only, no escalators</td></tr></tbody></table><h4>Useful to know</h4><p>Direct to Heathrow but awkward with luggage at busy times.</p><h4>Watch out for</h4><p>Check whether a Heathrow train is for Terminal 4 or Terminal 5.</p></div>
+<div class="line-guide"><dl><div><dt>Typical crowding</dt><dd>5/5</dd></div><div><dt>Comfort</dt><dd>2/5</dd></div><div><dt>Air-conditioning</dt><dd>Existing fleet: no. New fleet: yes</dd></div><div><dt>Visitor likelihood</dt><dd>Very likely — Heathrow, the Museum Quarter and the West End.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Natural History Museum, Science Museum and V&amp;A Museum</td><td>South Kensington</td><td>Museum Subway pedestrian tunnel</td></tr><tr><td>Harrods, Harvey Nichols and Hyde Park</td><td>Knightsbridge</td><td>Brompton Road for Harrods; Sloane Street for Harvey Nichols</td></tr><tr><td>Piccadilly Circus lights, Shaftesbury Avenue and Soho</td><td>Piccadilly Circus</td><td>Exit 1 or 3</td></tr><tr><td>Chinatown, Leicester Square and West End shows</td><td>Leicester Square</td><td>Exit 1 or 3</td></tr><tr><td>Covent Garden Piazza, Royal Opera House and London Transport Museum</td><td>Covent Garden</td><td>James Street exit; lifts/stairs only, no escalators</td></tr></tbody></table><h4>Useful to know</h4><p>Direct to Heathrow but awkward with luggage at busy times.</p><h4>Watch out for</h4><p>Check whether a Heathrow train is for Terminal 4 or Terminal 5.</p></div>
 
 ### <span class="line-name line-name--jubilee"><span aria-hidden="true" class="line-name__swatch"></span>Jubilee</span>
-<div class="line-guide"><dl><div><dt>Oyster</dt><dd>Yes</dd></div><div><dt>Typical crowding</dt><dd>5/5</dd></div><div><dt>Comfort</dt><dd>3/5</dd></div><div><dt>Air-conditioning</dt><dd>No</dd></div><div><dt>Visitor likelihood</dt><dd>Very likely — South Bank, Westminster and major interchanges.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Wembley Stadium, OVO Arena Wembley and London Designer Outlet</td><td>Wembley Park</td><td>Olympic Way (Wembley Way) main exit</td></tr><tr><td>Buckingham Palace, Green Park and Mayfair</td><td>Green Park</td><td>Buckingham Palace exit; ramp access into Green Park</td></tr><tr><td>Big Ben, Houses of Parliament and London Eye</td><td>Westminster</td><td>Exit 4 for Big Ben; Exit 1 for the London Eye walk</td></tr><tr><td>Southbank Centre, London Eye and London Aquarium</td><td>Waterloo</td><td>South Bank exit</td></tr><tr><td>The O2 Arena and IFS Cloud Cable Car</td><td>North Greenwich</td><td>Exit 1 for The O2 main entrance</td></tr></tbody></table><h4>Useful to know</h4><p>Fast and frequent; the modern eastern stations are roomy, but trains get very busy.</p><h4>Watch out for</h4><p>Allow extra time at busy interchange stations, especially Waterloo and London Bridge.</p></div>
+<div class="line-guide"><dl><div><dt>Typical crowding</dt><dd>5/5</dd></div><div><dt>Comfort</dt><dd>3/5</dd></div><div><dt>Air-conditioning</dt><dd>No</dd></div><div><dt>Visitor likelihood</dt><dd>Very likely — South Bank, Westminster and major interchanges.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Wembley Stadium, OVO Arena Wembley and London Designer Outlet</td><td>Wembley Park</td><td>Olympic Way (Wembley Way) main exit</td></tr><tr><td>Buckingham Palace, Green Park and Mayfair</td><td>Green Park</td><td>Buckingham Palace exit; ramp access into Green Park</td></tr><tr><td>Big Ben, Houses of Parliament and London Eye</td><td>Westminster</td><td>Exit 4 for Big Ben; Exit 1 for the London Eye walk</td></tr><tr><td>Southbank Centre, London Eye and London Aquarium</td><td>Waterloo</td><td>South Bank exit</td></tr><tr><td>The O2 Arena and IFS Cloud Cable Car</td><td>North Greenwich</td><td>Exit 1 for The O2 main entrance</td></tr></tbody></table><h4>Useful to know</h4><p>Fast and frequent; the modern eastern stations are roomy, but trains get very busy.</p><h4>Watch out for</h4><p>Allow extra time at busy interchange stations, especially Waterloo and London Bridge.</p></div>
 
 ### <span class="line-name line-name--victoria"><span aria-hidden="true" class="line-name__swatch"></span>Victoria</span>
-<div class="line-guide"><dl><div><dt>Oyster</dt><dd>Yes</dd></div><div><dt>Typical crowding</dt><dd>5/5</dd></div><div><dt>Comfort</dt><dd>2/5</dd></div><div><dt>Air-conditioning</dt><dd>No</dd></div><div><dt>Visitor likelihood</dt><dd>Very likely — Buckingham Palace, Victoria station and a central north-south route.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Brixton Market, Electric Brixton, O2 Academy and Pop Brixton</td><td>Brixton</td><td>Main exit onto Brixton Road</td></tr><tr><td>Buckingham Palace and Victoria theatres</td><td>Victoria</td><td>Station concourse / Buckingham Palace Road</td></tr><tr><td>Buckingham Palace and Mayfair</td><td>Green Park</td><td>South exit into Green Park</td></tr><tr><td>Oxford Street and Regent Street shopping</td><td>Oxford Circus</td><td>Exit 1 or 2</td></tr><tr><td>Platform 9¾, British Library and St Pancras International</td><td>King's Cross St Pancras</td><td>Euston Road or Pancras Road exits</td></tr></tbody></table><h4>Useful to know</h4><p>Extremely frequent and usually fast, but hot and intensely busy at peak times.</p><h4>Watch out for</h4><p>Victoria is a large interchange: follow signs carefully for the right line and exit.</p></div>
+<div class="line-guide"><dl><div><dt>Typical crowding</dt><dd>5/5</dd></div><div><dt>Comfort</dt><dd>2/5</dd></div><div><dt>Air-conditioning</dt><dd>No</dd></div><div><dt>Visitor likelihood</dt><dd>Very likely — Buckingham Palace, Victoria station and a central north-south route.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Brixton Market, Electric Brixton, O2 Academy and Pop Brixton</td><td>Brixton</td><td>Main exit onto Brixton Road</td></tr><tr><td>Buckingham Palace and Victoria theatres</td><td>Victoria</td><td>Station concourse / Buckingham Palace Road</td></tr><tr><td>Buckingham Palace and Mayfair</td><td>Green Park</td><td>South exit into Green Park</td></tr><tr><td>Oxford Street and Regent Street shopping</td><td>Oxford Circus</td><td>Exit 1 or 2</td></tr><tr><td>Platform 9¾, British Library and St Pancras International</td><td>King's Cross St Pancras</td><td>Euston Road or Pancras Road exits</td></tr></tbody></table><h4>Useful to know</h4><p>Extremely frequent and usually fast, but hot and intensely busy at peak times.</p><h4>Watch out for</h4><p>Victoria is a large interchange: follow signs carefully for the right line and exit.</p></div>
 
 ### <span class="line-name line-name--central"><span aria-hidden="true" class="line-name__swatch"></span>Central</span>
-<div class="line-guide"><dl><div><dt>Oyster</dt><dd>Yes</dd></div><div><dt>Typical crowding</dt><dd>5/5</dd></div><div><dt>Comfort</dt><dd>2/5</dd></div><div><dt>Air-conditioning</dt><dd>No</dd></div><div><dt>Visitor likelihood</dt><dd>Very likely — Oxford Street, the West End and fast east-west travel.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Portobello Road Market and Notting Hill</td><td>Notting Hill Gate</td><td>Exit 3 for Portobello Road</td></tr><tr><td>Hyde Park, Speakers' Corner and west Oxford Street</td><td>Marble Arch</td><td>Exit 1 for Hyde Park; Exit 2 for Oxford Street</td></tr><tr><td>Selfridges, Mayfair and Oxford Street shopping</td><td>Bond Street</td><td>Oxford Street for shopping; Marylebone Lane for St Christopher's Place</td></tr><tr><td>British Museum, Dominion Theatre, Soho and Outernet</td><td>Tottenham Court Road</td><td>Exit 1 for British Museum; Charing Cross Road for Soho</td></tr><tr><td>St Paul's Cathedral, One New Change and Millennium Bridge</td><td>St Paul's</td><td>Exit 2 for St Paul's Cathedral</td></tr></tbody></table><h4>Useful to know</h4><p>Very fast east-west route, but frequently hot and crowded through Zone 1.</p><h4>Watch out for</h4><p>Some trains use the Hainault branch; check the destination on the front and platform displays.</p></div>
+<div class="line-guide"><dl><div><dt>Typical crowding</dt><dd>5/5</dd></div><div><dt>Comfort</dt><dd>2/5</dd></div><div><dt>Air-conditioning</dt><dd>No</dd></div><div><dt>Visitor likelihood</dt><dd>Very likely — Oxford Street, the West End and fast east-west travel.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Portobello Road Market and Notting Hill</td><td>Notting Hill Gate</td><td>Exit 3 for Portobello Road</td></tr><tr><td>Hyde Park, Speakers' Corner and west Oxford Street</td><td>Marble Arch</td><td>Exit 1 for Hyde Park; Exit 2 for Oxford Street</td></tr><tr><td>Selfridges, Mayfair and Oxford Street shopping</td><td>Bond Street</td><td>Oxford Street for shopping; Marylebone Lane for St Christopher's Place</td></tr><tr><td>British Museum, Dominion Theatre, Soho and Outernet</td><td>Tottenham Court Road</td><td>Exit 1 for British Museum; Charing Cross Road for Soho</td></tr><tr><td>St Paul's Cathedral, One New Change and Millennium Bridge</td><td>St Paul's</td><td>Exit 2 for St Paul's Cathedral</td></tr></tbody></table><h4>Useful to know</h4><p>Very fast east-west route, but frequently hot and crowded through Zone 1.</p><h4>Watch out for</h4><p>Some trains use the Hainault branch; check the destination on the front and platform displays.</p></div>
 
 ### <span class="line-name line-name--district"><span aria-hidden="true" class="line-name__swatch"></span>District</span>
-<div class="line-guide"><dl><div><dt>Oyster</dt><dd>Yes</dd></div><div><dt>Typical crowding</dt><dd>4/5</dd></div><div><dt>Comfort</dt><dd>4/5</dd></div><div><dt>Air-conditioning</dt><dd>Yes</dd></div><div><dt>Visitor likelihood</dt><dd>Likely — South Kensington, Westminster and the Tower of London.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Royal Botanic Gardens, Kew</td><td>Kew Gardens</td><td>Victoria Gate; follow signs through the village</td></tr><tr><td>Stamford Bridge (Chelsea FC)</td><td>Fulham Broadway</td><td>Main exit through Fulham Broadway shopping centre</td></tr><tr><td>V&amp;A, Natural History Museum and Science Museum</td><td>South Kensington</td><td>Museum Subway tunnel</td></tr><tr><td>Big Ben, Houses of Parliament and Westminster Abbey</td><td>Westminster</td><td>Exit 4 for Big Ben</td></tr><tr><td>Tower of London and Tower Bridge</td><td>Tower Hill</td><td>Main exit</td></tr></tbody></table><h4>Useful to know</h4><p>Spacious, air-conditioned trains. The line has branches to Richmond, Ealing Broadway, Wimbledon and Kensington (Olympia), alongside its main eastern route to Upminster.</p><h4>Watch out for</h4><p>Check both the platform display and the train destination before boarding: District services branch, and shared sections can be served by more than one line.</p></div>
+<div class="line-guide"><dl><div><dt>Typical crowding</dt><dd>4/5</dd></div><div><dt>Comfort</dt><dd>4/5</dd></div><div><dt>Air-conditioning</dt><dd>Yes</dd></div><div><dt>Visitor likelihood</dt><dd>Likely — South Kensington, Westminster and the Tower of London.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Royal Botanic Gardens, Kew</td><td>Kew Gardens</td><td>Victoria Gate; follow signs through the village</td></tr><tr><td>Stamford Bridge (Chelsea FC)</td><td>Fulham Broadway</td><td>Main exit through Fulham Broadway shopping centre</td></tr><tr><td>V&amp;A, Natural History Museum and Science Museum</td><td>South Kensington</td><td>Museum Subway tunnel</td></tr><tr><td>Big Ben, Houses of Parliament and Westminster Abbey</td><td>Westminster</td><td>Exit 4 for Big Ben</td></tr><tr><td>Tower of London and Tower Bridge</td><td>Tower Hill</td><td>Main exit</td></tr></tbody></table><h4>Useful to know</h4><p>Spacious, air-conditioned trains. The line has branches to Richmond, Ealing Broadway, Wimbledon and Kensington (Olympia), alongside its main eastern route to Upminster.</p><h4>Watch out for</h4><p>Check both the platform display and the train destination before boarding: District services branch, and shared sections can be served by more than one line.</p></div>
 
 ### <span class="line-name line-name--circle"><span aria-hidden="true" class="line-name__swatch"></span>Circle</span>
-<div class="line-guide"><dl><div><dt>Oyster</dt><dd>Yes</dd></div><div><dt>Typical crowding</dt><dd>3/5</dd></div><div><dt>Comfort</dt><dd>4/5</dd></div><div><dt>Air-conditioning</dt><dd>Yes</dd></div><div><dt>Visitor likelihood</dt><dd>Likely — a useful orbit of central sights and key interchanges.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Natural History Museum, Science Museum and V&amp;A Museum</td><td>South Kensington</td><td>Subterranean museum pedestrian subway</td></tr><tr><td>Duke of York Square, Saatchi Gallery and King's Road</td><td>Sloane Square</td><td>Main exit onto Sloane Square</td></tr><tr><td>Victoria theatres and Buckingham Palace</td><td>Victoria</td><td>Buckingham Palace Road for theatres; Wilton Road for the palace walk</td></tr><tr><td>Big Ben, Houses of Parliament and Westminster Abbey</td><td>Westminster</td><td>Exit 4 (Bridge Street)</td></tr><tr><td>Tower of London, Tower Bridge and HMS Belfast</td><td>Tower Hill</td><td>Main exit; left for the Tower, right for Tower Bridge</td></tr></tbody></table><h4>Useful to know</h4><p>Modern walk-through trains.</p><h4>Watch out for</h4><p>The Circle line shares tracks with District, Hammersmith &amp; City and Metropolitan services. Check the platform display and the train destination; busy stations such as Edgware Road have several platforms.</p></div>
+<div class="line-guide"><dl><div><dt>Typical crowding</dt><dd>3/5</dd></div><div><dt>Comfort</dt><dd>4/5</dd></div><div><dt>Air-conditioning</dt><dd>Yes</dd></div><div><dt>Visitor likelihood</dt><dd>Likely — a useful orbit of central sights and key interchanges.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Natural History Museum, Science Museum and V&amp;A Museum</td><td>South Kensington</td><td>Subterranean museum pedestrian subway</td></tr><tr><td>Duke of York Square, Saatchi Gallery and King's Road</td><td>Sloane Square</td><td>Main exit onto Sloane Square</td></tr><tr><td>Victoria theatres and Buckingham Palace</td><td>Victoria</td><td>Buckingham Palace Road for theatres; Wilton Road for the palace walk</td></tr><tr><td>Big Ben, Houses of Parliament and Westminster Abbey</td><td>Westminster</td><td>Exit 4 (Bridge Street)</td></tr><tr><td>Tower of London, Tower Bridge and HMS Belfast</td><td>Tower Hill</td><td>Main exit; left for the Tower, right for Tower Bridge</td></tr></tbody></table><h4>Useful to know</h4><p>Modern walk-through trains.</p><h4>Watch out for</h4><p>The Circle line shares tracks with District, Hammersmith &amp; City and Metropolitan services. Check the platform display and the train destination; busy stations such as Edgware Road have several platforms.</p></div>
 
 ### <span class="line-name line-name--northern"><span aria-hidden="true" class="line-name__swatch"></span>Northern</span>
-<div class="line-guide"><dl><div><dt>Oyster</dt><dd>Yes</dd></div><div><dt>Typical crowding</dt><dd>5/5</dd></div><div><dt>Comfort</dt><dd>2/5</dd></div><div><dt>Air-conditioning</dt><dd>No</dd></div><div><dt>Visitor likelihood</dt><dd>Likely — Camden, Leicester Square and central north-south journeys.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Camden Market, Camden Lock and Electric Ballroom</td><td>Camden Town</td><td>Main exit; turn right for Camden Market</td></tr><tr><td>British Library and Coal Drops Yard</td><td>King's Cross St Pancras</td><td>Euston Road exit</td></tr><tr><td>West End theatres, Covent Garden and Chinatown</td><td>Leicester Square</td><td>Exit 1 for Chinatown; Exit 2 for Covent Garden</td></tr><tr><td>Borough Market, The Shard and HMS Belfast</td><td>London Bridge</td><td>Borough High Street for the market; Joiner Street for The Shard</td></tr><tr><td>Battersea Power Station, Lift 109 and Battersea Park</td><td>Battersea Power Station</td><td>Main concourse exit into the Power Station plaza</td></tr></tbody></table><h4>Useful to know</h4><p>Useful for central north-south journeys.</p><h4>Watch out for</h4><p>Check both the central route and final destination: the line has several branches.</p></div>
+<div class="line-guide"><dl><div><dt>Typical crowding</dt><dd>5/5</dd></div><div><dt>Comfort</dt><dd>2/5</dd></div><div><dt>Air-conditioning</dt><dd>No</dd></div><div><dt>Visitor likelihood</dt><dd>Likely — Camden, Leicester Square and central north-south journeys.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Camden Market, Camden Lock and Electric Ballroom</td><td>Camden Town</td><td>Main exit; turn right for Camden Market</td></tr><tr><td>British Library and Coal Drops Yard</td><td>King's Cross St Pancras</td><td>Euston Road exit</td></tr><tr><td>West End theatres, Covent Garden and Chinatown</td><td>Leicester Square</td><td>Exit 1 for Chinatown; Exit 2 for Covent Garden</td></tr><tr><td>Borough Market, The Shard and HMS Belfast</td><td>London Bridge</td><td>Borough High Street for the market; Joiner Street for The Shard</td></tr><tr><td>Battersea Power Station, Lift 109 and Battersea Park</td><td>Battersea Power Station</td><td>Main concourse exit into the Power Station plaza</td></tr></tbody></table><h4>Useful to know</h4><p>Useful for central north-south journeys.</p><h4>Watch out for</h4><p>Check both the central route and final destination: the line has several branches.</p></div>
 
 ### <span class="line-name line-name--bakerloo"><span aria-hidden="true" class="line-name__swatch"></span>Bakerloo</span>
-<div class="line-guide"><dl><div><dt>Oyster</dt><dd>Yes</dd></div><div><dt>Typical crowding</dt><dd>3/5</dd></div><div><dt>Comfort</dt><dd>2/5</dd></div><div><dt>Air-conditioning</dt><dd>No</dd></div><div><dt>Visitor likelihood</dt><dd>Likely — Paddington, the West End and Waterloo.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Sherlock Holmes Museum, Madame Tussauds and Regent's Park</td><td>Baker Street</td><td>Marylebone Road for Tussauds; Baker Street for the museum</td></tr><tr><td>Oxford Street and Regent Street shopping</td><td>Oxford Circus</td><td>Exit 1 or 2 for Regent Street; Exit 3 or 8 for Oxford Street</td></tr><tr><td>West End theatres, Chinatown, Shaftesbury Avenue and Soho</td><td>Piccadilly Circus</td><td>Exit 1 (Sherwood Street) or Exit 2 (Covent Street)</td></tr><tr><td>Trafalgar Square, National Gallery and The Mall</td><td>Charing Cross</td><td>Exit 1 for Trafalgar Square</td></tr><tr><td>Southbank Centre, London Eye and National Theatre</td><td>Waterloo</td><td>South Bank exit</td></tr></tbody></table><h4>Useful to know</h4><p>Useful between Paddington, the West End and Waterloo.</p><h4>Watch out for</h4><p>It can get hot through central London.</p></div>
+<div class="line-guide"><dl><div><dt>Typical crowding</dt><dd>3/5</dd></div><div><dt>Comfort</dt><dd>2/5</dd></div><div><dt>Air-conditioning</dt><dd>No</dd></div><div><dt>Visitor likelihood</dt><dd>Likely — Paddington, the West End and Waterloo.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Sherlock Holmes Museum, Madame Tussauds and Regent's Park</td><td>Baker Street</td><td>Marylebone Road for Tussauds; Baker Street for the museum</td></tr><tr><td>Oxford Street and Regent Street shopping</td><td>Oxford Circus</td><td>Exit 1 or 2 for Regent Street; Exit 3 or 8 for Oxford Street</td></tr><tr><td>West End theatres, Chinatown, Shaftesbury Avenue and Soho</td><td>Piccadilly Circus</td><td>Exit 1 (Sherwood Street) or Exit 2 (Covent Street)</td></tr><tr><td>Trafalgar Square, National Gallery and The Mall</td><td>Charing Cross</td><td>Exit 1 for Trafalgar Square</td></tr><tr><td>Southbank Centre, London Eye and National Theatre</td><td>Waterloo</td><td>South Bank exit</td></tr></tbody></table><h4>Useful to know</h4><p>Useful between Paddington, the West End and Waterloo.</p><h4>Watch out for</h4><p>It can get hot through central London.</p></div>
 
 ### <span class="line-name line-name--metropolitan"><span aria-hidden="true" class="line-name__swatch"></span>Metropolitan</span>
-<div class="line-guide"><dl><div><dt>Oyster</dt><dd>Yes</dd></div><div><dt>Typical crowding</dt><dd>3/5</dd></div><div><dt>Comfort</dt><dd>4/5</dd></div><div><dt>Air-conditioning</dt><dd>Yes</dd></div><div><dt>Visitor likelihood</dt><dd>Less likely — useful for Baker Street, the Barbican and outer north-west London.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Wembley Stadium and OVO Arena Wembley</td><td>Wembley Park</td><td>Olympic Way exit</td></tr><tr><td>Madame Tussauds and Sherlock Holmes Museum</td><td>Baker Street</td><td>Marylebone Road exit</td></tr><tr><td>British Library and Coal Drops Yard</td><td>King's Cross St Pancras</td><td>Euston Road exit</td></tr><tr><td>Fabric Nightclub and Smithfield Market</td><td>Farringdon</td><td>Cowcross Street exit</td></tr><tr><td>Whitechapel Gallery and south Brick Lane</td><td>Aldgate</td><td>Main exit onto Aldgate High Street</td></tr></tbody></table><h4>Useful to know</h4><p>Comfortable trains and faster outer-London services. Between Finchley Road and Harrow-on-the-Hill, there are fast and slow tracks in each direction.</p><h4>Watch out for</h4><p>Check the platform display and the train destination, as well as whether it is fast, semi-fast or all-stations. The line shares tracks with Circle and Hammersmith &amp; City services in central London.</p></div>
+<div class="line-guide"><dl><div><dt>Typical crowding</dt><dd>3/5</dd></div><div><dt>Comfort</dt><dd>4/5</dd></div><div><dt>Air-conditioning</dt><dd>Yes</dd></div><div><dt>Visitor likelihood</dt><dd>Less likely — useful for Baker Street, the Barbican and outer north-west London.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Wembley Stadium and OVO Arena Wembley</td><td>Wembley Park</td><td>Olympic Way exit</td></tr><tr><td>Madame Tussauds and Sherlock Holmes Museum</td><td>Baker Street</td><td>Marylebone Road exit</td></tr><tr><td>British Library and Coal Drops Yard</td><td>King's Cross St Pancras</td><td>Euston Road exit</td></tr><tr><td>Fabric Nightclub and Smithfield Market</td><td>Farringdon</td><td>Cowcross Street exit</td></tr><tr><td>Whitechapel Gallery and south Brick Lane</td><td>Aldgate</td><td>Main exit onto Aldgate High Street</td></tr></tbody></table><h4>Useful to know</h4><p>Comfortable trains and faster outer-London services. Between Finchley Road and Harrow-on-the-Hill, there are fast and slow tracks in each direction.</p><h4>Watch out for</h4><p>Check the platform display and the train destination, as well as whether it is fast, semi-fast or all-stations. The line shares tracks with Circle and Hammersmith &amp; City services in central London.</p></div>
 
 ### <span class="line-name line-name--hammersmith-city"><span aria-hidden="true" class="line-name__swatch"></span>Hammersmith &amp; City</span>
-<div class="line-guide"><dl><div><dt>Oyster</dt><dd>Yes</dd></div><div><dt>Typical crowding</dt><dd>3/5</dd></div><div><dt>Comfort</dt><dd>4/5</dd></div><div><dt>Air-conditioning</dt><dd>Yes</dd></div><div><dt>Visitor likelihood</dt><dd>Less likely — useful for the Barbican and parts of the City.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Eventim Apollo</td><td>Hammersmith</td><td>Broadway Shopping Centre exit</td></tr><tr><td>Madame Tussauds and Regent's Park</td><td>Baker Street</td><td>Marylebone Road exit</td></tr><tr><td>Platform 9¾, British Library and Coal Drops Yard</td><td>King's Cross St Pancras</td><td>Euston Road / Regent Quarter for British Library; Pancras Road for Coal Drops Yard</td></tr><tr><td>Barbican Centre</td><td>Barbican</td><td>Main exit onto Aldersgate Street; follow the yellow floor line</td></tr></tbody></table><h4>Useful to know</h4><p>Modern walk-through trains; useful across the northern edge of central London.</p><h4>Watch out for</h4><p>It shares tracks with Circle and Metropolitan services for part of its route. Check the platform display and train destination before boarding.</p></div>
+<div class="line-guide"><dl><div><dt>Typical crowding</dt><dd>3/5</dd></div><div><dt>Comfort</dt><dd>4/5</dd></div><div><dt>Air-conditioning</dt><dd>Yes</dd></div><div><dt>Visitor likelihood</dt><dd>Less likely — useful for the Barbican and parts of the City.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Eventim Apollo</td><td>Hammersmith</td><td>Broadway Shopping Centre exit</td></tr><tr><td>Madame Tussauds and Regent's Park</td><td>Baker Street</td><td>Marylebone Road exit</td></tr><tr><td>Platform 9¾, British Library and Coal Drops Yard</td><td>King's Cross St Pancras</td><td>Euston Road / Regent Quarter for British Library; Pancras Road for Coal Drops Yard</td></tr><tr><td>Barbican Centre</td><td>Barbican</td><td>Main exit onto Aldersgate Street; follow the yellow floor line</td></tr></tbody></table><h4>Useful to know</h4><p>Modern walk-through trains; useful across the northern edge of central London.</p><h4>Watch out for</h4><p>It shares tracks with Circle and Metropolitan services for part of its route. Check the platform display and train destination before boarding.</p></div>
 
 ### <span class="line-name line-name--waterloo-city"><span aria-hidden="true" class="line-name__swatch"></span>Waterloo &amp; City</span>
-<div class="line-guide"><dl><div><dt>Oyster</dt><dd>Yes</dd></div><div><dt>Typical crowding</dt><dd>5/5 at peak</dd></div><div><dt>Comfort</dt><dd>2/5</dd></div><div><dt>Air-conditioning</dt><dd>No</dd></div><div><dt>Visitor likelihood</dt><dd>Less likely — it runs only between Waterloo and Bank, and there is no service on Saturdays, Sundays and on bank/public holidays.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>South Bank and London Eye</td><td>Waterloo</td><td>South Bank exit</td></tr><tr><td>Financial District, Guildhall and Royal Exchange</td><td>Bank</td><td>Exit 9 for Bank of England / Royal Exchange</td></tr></tbody></table><h4>Useful to know</h4><p>A two-stop commuter shuttle between Waterloo and Bank.</p><h4>Watch out for</h4><p>No service on Saturdays, Sundays or bank/public holidays.</p></div>
+<div class="line-guide"><dl><div><dt>Typical crowding</dt><dd>5/5 at peak</dd></div><div><dt>Comfort</dt><dd>2/5</dd></div><div><dt>Air-conditioning</dt><dd>No</dd></div><div><dt>Visitor likelihood</dt><dd>Less likely — it runs only between Waterloo and Bank, and there is no service on Saturdays, Sundays and on bank/public holidays.</dd></div></dl><h4>Attractions and areas</h4><table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>South Bank and London Eye</td><td>Waterloo</td><td>South Bank exit</td></tr><tr><td>Financial District, Guildhall and Royal Exchange</td><td>Bank</td><td>Exit 9 for Bank of England / Royal Exchange</td></tr></tbody></table><h4>Useful to know</h4><p>A two-stop commuter shuttle between Waterloo and Bank.</p><h4>Watch out for</h4><p>No service on Saturdays, Sundays or bank/public holidays.</p></div>
 
 <table class="underground-comparison" aria-hidden="true">
   <caption>London Underground line comparison</caption>
   <thead>
     <tr>
       <th scope="col">Underground line</th>
-      <th scope="col">Oyster</th>
       <th scope="col">Typical crowding</th>
       <th scope="col">Comfort</th>
       <th scope="col">Air-conditioning</th>
@@ -99,7 +96,6 @@ Oyster is accepted at every London Underground station. All 11 Tube lines are in
   <tbody>
     <tr>
       <td data-label="Underground line">Piccadilly</td>
-      <td data-label="Oyster">Yes</td>
       <td data-label="Typical crowding">5/5</td>
       <td data-label="Comfort">2/5</td>
       <td data-label="Air-conditioning">Existing fleet: no. New fleet: yes</td>
@@ -115,7 +111,6 @@ Oyster is accepted at every London Underground station. All 11 Tube lines are in
     </tr>
     <tr>
       <td data-label="Underground line">Jubilee</td>
-      <td data-label="Oyster">Yes</td>
       <td data-label="Typical crowding">5/5</td>
       <td data-label="Comfort">3/5</td>
       <td data-label="Air-conditioning">No</td>
@@ -130,7 +125,6 @@ Oyster is accepted at every London Underground station. All 11 Tube lines are in
     </tr>
     <tr>
       <td data-label="Underground line">Victoria</td>
-      <td data-label="Oyster">Yes</td>
       <td data-label="Typical crowding">5/5</td>
       <td data-label="Comfort">2/5</td>
       <td data-label="Air-conditioning">No</td>
@@ -145,7 +139,6 @@ Oyster is accepted at every London Underground station. All 11 Tube lines are in
     </tr>
     <tr>
       <td data-label="Underground line">Central</td>
-      <td data-label="Oyster">Yes</td>
       <td data-label="Typical crowding">5/5</td>
       <td data-label="Comfort">2/5</td>
       <td data-label="Air-conditioning">No</td>
@@ -160,7 +153,6 @@ Oyster is accepted at every London Underground station. All 11 Tube lines are in
     </tr>
     <tr>
       <td data-label="Underground line">District</td>
-      <td data-label="Oyster">Yes</td>
       <td data-label="Typical crowding">4/5</td>
       <td data-label="Comfort">4/5</td>
       <td data-label="Air-conditioning">Yes</td>
@@ -176,7 +168,6 @@ Oyster is accepted at every London Underground station. All 11 Tube lines are in
     </tr>
     <tr>
       <td data-label="Underground line">Circle</td>
-      <td data-label="Oyster">Yes</td>
       <td data-label="Typical crowding">3/5</td>
       <td data-label="Comfort">4/5</td>
       <td data-label="Air-conditioning">Yes</td>
@@ -192,7 +183,6 @@ Oyster is accepted at every London Underground station. All 11 Tube lines are in
     </tr>
     <tr>
       <td data-label="Underground line">Northern</td>
-      <td data-label="Oyster">Yes</td>
       <td data-label="Typical crowding">5/5</td>
       <td data-label="Comfort">2/5</td>
       <td data-label="Air-conditioning">No</td>
@@ -208,7 +198,6 @@ Oyster is accepted at every London Underground station. All 11 Tube lines are in
     </tr>
     <tr>
       <td data-label="Underground line">Bakerloo</td>
-      <td data-label="Oyster">Yes</td>
       <td data-label="Typical crowding">3/5</td>
       <td data-label="Comfort">2/5</td>
       <td data-label="Air-conditioning">No</td>
@@ -223,7 +212,6 @@ Oyster is accepted at every London Underground station. All 11 Tube lines are in
     </tr>
     <tr>
       <td data-label="Underground line">Metropolitan</td>
-      <td data-label="Oyster">Yes</td>
       <td data-label="Typical crowding">3/5</td>
       <td data-label="Comfort">4/5</td>
       <td data-label="Air-conditioning">Yes</td>
@@ -238,7 +226,6 @@ Oyster is accepted at every London Underground station. All 11 Tube lines are in
     </tr>
     <tr>
       <td data-label="Underground line">Hammersmith &amp; City</td>
-      <td data-label="Oyster">Yes</td>
       <td data-label="Typical crowding">3/5</td>
       <td data-label="Comfort">4/5</td>
       <td data-label="Air-conditioning">Yes</td>
@@ -253,7 +240,6 @@ Oyster is accepted at every London Underground station. All 11 Tube lines are in
     </tr>
     <tr>
       <td data-label="Underground line">Waterloo &amp; City</td>
-      <td data-label="Oyster">Yes</td>
       <td data-label="Typical crowding">5/5 at peak</td>
       <td data-label="Comfort">2/5</td>
       <td data-label="Air-conditioning">No</td>
@@ -275,13 +261,13 @@ The Circle, District, Hammersmith & City and Metropolitan lines use modern S-sto
 
 The Elizabeth line is shown in purple. It crosses London from Shenfield and Abbey Wood in the east through the central tunnels to Heathrow and Reading in the west.
 
-<div class="line-guide"><dl><div><dt>Oyster</dt><dd>Yes*</dd></div><div><dt>Typical crowding</dt><dd>4/5 overall; 5/5 peak</dd></div><div><dt>Comfort</dt><dd>5/5</dd></div><div><dt>Air-conditioning</dt><dd>Yes</dd></div></dl></div>
+<div class="line-guide"><dl><div><dt>Typical crowding</dt><dd>4/5 overall; 5/5 peak</dd></div><div><dt>Comfort</dt><dd>5/5</dd></div><div><dt>Air-conditioning</dt><dd>Yes</dd></div></dl></div>
 
 <h4>Attractions and areas</h4>
 
 <table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Little Venice and canal walks</td><td>Paddington</td><td>Praed Street or Canal Walk exit</td></tr><tr><td>Selfridges, Oxford Street and Mayfair</td><td>Bond Street</td><td>Davies Street for Mayfair; Hanover Square for Regent Street</td></tr><tr><td>Soho, British Museum and Outernet London</td><td>Tottenham Court Road</td><td>Dean Street for Soho; Oxford Street / Plaza for Outernet and British Museum</td></tr><tr><td>Spitalfields Market, Brick Lane and Horizon 22</td><td>Liverpool Street</td><td>Bishopsgate / Octagon exit for Spitalfields</td></tr><tr><td>Crossrail Place Roof Garden and Museum of London Docklands</td><td>Canary Wharf</td><td>Crossrail Place exit</td></tr></tbody></table>
 
-*Oyster is accepted between Shenfield or Abbey Wood and West Drayton, including Heathrow, but not from Iver to Reading.* Contactless is accepted across the full line to Reading. The central section is especially busy at peak times. Long walk-through trains, generous luggage space and step-free access from street to platform at every Elizabeth line station make this a particularly convenient route for airport travel. Boarding is level at the new central stations and Heathrow.
+The central section is especially busy at peak times. Long walk-through trains, generous luggage space and step-free access from street to platform at every Elizabeth line station make this a particularly convenient route for airport travel. Boarding is level at the new central stations and Heathrow.
 
 If you are travelling to Heathrow, Elizabeth line and Piccadilly line fares and journey times differ, so use the [complete Heathrow Airport transport guide](/articles/heathrow-airport-to-london/) alongside TfL's Single Fare Finder.
 
@@ -293,7 +279,7 @@ The DLR serves the City, Canary Wharf, the Royal Docks, London City Airport, Str
 
 Most DLR stations do not have ticket gates. Instead, tap your Oyster card, contactless card or device on a yellow reader when you enter and leave the station. It is easy to walk straight to the platform, so make a point of tapping in and out: ticket inspectors sometimes check for valid payment on the train.
 
-<div class="line-guide"><dl><div><dt>Oyster</dt><dd>Yes</dd></div><div><dt>Typical crowding</dt><dd>3/5 overall; 4/5 peak</dd></div><div><dt>Comfort</dt><dd>3/5</dd></div><div><dt>Air-conditioning</dt><dd>Older trains: no. New B23 trains: yes</dd></div></dl></div>
+<div class="line-guide"><dl><div><dt>Typical crowding</dt><dd>3/5 overall; 4/5 peak</dd></div><div><dt>Comfort</dt><dd>3/5</dd></div><div><dt>Air-conditioning</dt><dd>Older trains: no. New B23 trains: yes</dd></div></dl></div>
 
 <h4>Attractions and areas</h4>
 
@@ -309,57 +295,22 @@ TfL is replacing the older fleet with spacious, walk-through B23 trains. The new
 
 ## <span class="line-name line-name--overground"><span aria-hidden="true" class="line-name__swatch"></span>London Overground</span>
 
-London Overground is the orange network that circles and crosses inner and outer London. Its six routes now have individual names. Oyster is accepted at every station on the network.
+London Overground is the orange network that circles and crosses inner and outer London. Its six routes now have individual names.
 
-| Overground line | Main route | Oyster | Typical crowding | Comfort | Air-conditioning |
-| --- | --- | --- | ---: | ---: | --- |
-| <span class="line-name line-name--liberty"><span aria-hidden="true" class="line-name__swatch"></span>Liberty</span> | Romford–Upminster | Yes | 2/5 | 4/5 | Yes |
-| <span class="line-name line-name--lioness"><span aria-hidden="true" class="line-name__swatch"></span>Lioness</span> | Euston–Watford Junction | Yes | 4/5 | 4/5 | Yes |
-| <span class="line-name line-name--mildmay"><span aria-hidden="true" class="line-name__swatch"></span>Mildmay</span> | Stratford–Richmond or Clapham Junction | Yes | 4/5 | 4/5 | Yes |
-| <span class="line-name line-name--suffragette"><span aria-hidden="true" class="line-name__swatch"></span>Suffragette</span> | Gospel Oak–Barking Riverside | Yes | 3/5 | 4/5 | Yes |
-| <span class="line-name line-name--weaver"><span aria-hidden="true" class="line-name__swatch"></span>Weaver</span> | Liverpool Street–Enfield Town, Cheshunt or Chingford | Yes | 4/5 | 4/5 | Yes |
-| <span class="line-name line-name--windrush"><span aria-hidden="true" class="line-name__swatch"></span>Windrush</span> | Highbury & Islington–New Cross, Clapham Junction, Crystal Palace or West Croydon | Yes | 5/5 | 4/5 | Yes |
+| Overground line | Main route | Typical crowding | Comfort | Air-conditioning |
+| --- | --- | ---: | ---: | --- |
+| <span class="line-name line-name--liberty"><span aria-hidden="true" class="line-name__swatch"></span>Liberty</span> | Romford–Upminster | 2/5 | 4/5 | Yes |
+| <span class="line-name line-name--lioness"><span aria-hidden="true" class="line-name__swatch"></span>Lioness</span> | Euston–Watford Junction | 4/5 | 4/5 | Yes |
+| <span class="line-name line-name--mildmay"><span aria-hidden="true" class="line-name__swatch"></span>Mildmay</span> | Stratford–Richmond or Clapham Junction | 4/5 | 4/5 | Yes |
+| <span class="line-name line-name--suffragette"><span aria-hidden="true" class="line-name__swatch"></span>Suffragette</span> | Gospel Oak–Barking Riverside | 3/5 | 4/5 | Yes |
+| <span class="line-name line-name--weaver"><span aria-hidden="true" class="line-name__swatch"></span>Weaver</span> | Liverpool Street–Enfield Town, Cheshunt or Chingford | 4/5 | 4/5 | Yes |
+| <span class="line-name line-name--windrush"><span aria-hidden="true" class="line-name__swatch"></span>Windrush</span> | Highbury & Islington–New Cross, Clapham Junction, Crystal Palace or West Croydon | 5/5 | 4/5 | Yes |
 
 All London Overground trains are walk-through and air-conditioned. Several lines divide into branches, so the new line name does not remove the need to check the train's destination.
 
 ![A London Overground Class 710 train at Liverpool Street station.](../../assets/articles/oyster-train-lines/london-overground-liverpool-street.jpg)
 
 *A Class 710 London Overground train at Liverpool Street. Photo: [Matt Brown](https://commons.wikimedia.org/wiki/File:London_Overground_train_710113_at_Liverpool_Street.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
-
-## National Rail services within London
-
-National Rail is not one single London line. Several operators run suburban and regional trains through the Oyster area. Oyster is valid only for journeys where both stations and the permitted route are inside the pay-as-you-go boundary; it does **not** become valid across an operator's entire network.
-
-The current TfL rail map shows services from these operators:
-
-| Operator | London examples | Oyster guidance |
-| --- | --- | --- |
-| Chiltern Railways | Marylebone, Wembley and routes towards Amersham | Yes within the marked Oyster area; outer destinations are not covered. |
-| c2c | Fenchurch Street and east London towards Upminster | Yes within the marked Oyster area. |
-| East Midlands Railway | St Pancras and limited north London calls | Check the exact journey; contactless extends farther than Oyster on this corridor. |
-| Gatwick Express | Victoria–Gatwick Airport | Oyster and contactless can be used to Gatwick, but airport fares are not ordinary zonal fares. |
-| Great Northern | Moorgate or King's Cross and north London | Yes within the marked Oyster area. |
-| Great Western Railway | Paddington and west London | Yes only where the station and service are inside the Oyster area. |
-| Greater Anglia | Liverpool Street, Stratford and routes into east London | Yes within the marked Oyster area. |
-| Heathrow Express | Paddington–Heathrow | Oyster and contactless are accepted, with a premium Heathrow Express fare. |
-| London Northwestern Railway | Euston and northwest London | Yes within the marked Oyster area, including Watford Junction. |
-| South Western Railway | Waterloo and southwest London | Yes within the marked Oyster area. |
-| Southeastern | Charing Cross, Cannon Street, Victoria and southeast London | Yes within the marked Oyster area. |
-| Southeastern high speed | St Pancras International–Stratford International | Check the exact fare before travel; special fares apply. |
-| Southern | Victoria, London Bridge and south London | Yes within the marked Oyster area, including Gatwick Airport. |
-| Thameslink | Cross-London services via St Pancras, Farringdon and Blackfriars | Yes within the marked Oyster area; contactless continues farther on some routes. |
-
-For this reason, an operator name alone is not enough. For example, a Southern train can accept Oyster for part of a journey but continue beyond the Oyster area later on its route.
-
-## How to check a journey before travelling
-
-1. Find both stations on the [official rail and Tube map](https://content.tfl.gov.uk/london-rail-and-tube-services-map.pdf).
-2. Look for an Oyster boundary note or a section marked **contactless only**.
-3. Enter the exact stations in TfL's [Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder).
-4. Use the same Oyster card throughout the journey and touch in and out, including at standalone pink route validators when your route requires one.
-5. If either station is outside the Oyster area, use contactless or buy the correct rail ticket instead.
-
-Contactless is often more flexible at the outer edge of London, but foreign card fees and card acceptance can make Oyster preferable for some visitors. Do not assume that the same geographic boundary applies to both.
 
 ## Best choices for comfort
 

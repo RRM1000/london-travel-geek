@@ -7,6 +7,15 @@ import Advert from "../components/Advert.astro";
 import Breadcrumbs from "../components/Breadcrumbs.astro";
 import RelatedGuides from "../components/RelatedGuides.astro";
 import TableOfContents from "../components/TableOfContents.astro";
+import AreaAtAGlance from "../components/AreaAtAGlance.astro";
+import AreaActivities from "../components/AreaActivities.astro";
+import AreaEvents from "../components/AreaEvents.astro";
+import activityData from "../data/activities.json";
+import eventData from "../data/events.json";
+import hotelData from "../data/hotels.json";
+import AreaHotels from "../components/AreaHotels.astro";
+import CombineWith from "../components/CombineWith.astro";
+import ArticleFaq from "../components/ArticleFaq.astro";
 import { activeSite } from "../sites";
 import { categoryHref, formatTag, tagHref } from "../lib/taxonomy";
 
@@ -14,6 +23,19 @@ interface Heading {
   depth: number;
   slug: string;
   text: string;
+}
+
+interface AreaMeta {
+  name: string;
+  zone: string;
+  vibe: string;
+  walkability: number;
+  timeNeeded: string;
+  budget: string;
+  bestDay: string;
+  bestFor: string[];
+  nearestStations: { name: string; lines: string[] }[];
+  nearby: { name: string; slug?: string; minutes: number; note: string }[];
 }
 
 interface Props {
@@ -32,6 +54,8 @@ interface Props {
   heroImageLicense?: string;
   heroImageLicenseUrl?: string;
   headings?: Heading[];
+  area?: AreaMeta;
+  faq?: { q: string; a: string }[];
 }
 
 const {
@@ -50,21 +74,58 @@ const {
   heroImageLicense,
   heroImageLicenseUrl,
   headings = [],
+  area,
+  faq = [],
 } = Astro.props;
 
 const contentsHeadings = headings.filter(
   (heading) =>
     heading.depth === 2 ||
-    (articleId === "oyster-card-train-lines-in-london" && heading.depth === 3),
+    (articleId === "london-tube-and-rail-lines-guide" && heading.depth === 3),
 );
+
+// The activities section is injected by this layout rather than written in the
+// markdown, so it never appears in `headings` and would otherwise be a section
+// on the page with no entry in the contents. Append it when it will render.
+// Events come FIRST on the page, so they go first in the contents too.
+const hasEvents =
+  !!area && (eventData.events as { guide?: string }[]).some((e) => e.guide === articleId);
+if (hasEvents && area) {
+  contentsHeadings.push({
+    depth: 2,
+    slug: "whats-on",
+    text: `What's on in ${area.name}`,
+  });
+}
+const hasActivities =
+  !!area && (activityData.activities as { guide?: string }[]).some((a) => a.guide === articleId);
+if (hasActivities && area) {
+  contentsHeadings.push({
+    depth: 2,
+    slug: "things-to-do",
+    text: `Things to do in ${area.name}`,
+  });
+}
+// Placed after Things to do, mirroring the render order: events lead (they are
+// time-limited), then things to do, then places to stay - the least urgent of
+// the three, since a hotel choice is not going anywhere.
+const hasHotels =
+  !!area && (hotelData.hotels as { guide?: string }[]).some((h) => h.guide === articleId);
+if (hasHotels && area) {
+  contentsHeadings.push({
+    depth: 2,
+    slug: "places-to-stay",
+    text: `Places to stay in ${area.name}`,
+  });
+}
 const showContents = contentsHeadings.length >= 4;
-const relatedArticles = (await getCollection("articles"))
-  .filter(
-    (article) =>
-      !article.data.draft &&
-      article.data.sites.includes(activeSite.id) &&
-      article.id !== articleId,
-  )
+const siteArticles = (await getCollection("articles")).filter(
+  (article) =>
+    !article.data.draft && article.data.sites.includes(activeSite.id),
+);
+const publishedIds = new Set(siteArticles.map((article) => article.id));
+const relatedArticles = siteArticles
+  .filter((article) => article.id !== articleId)
   .map((article) => ({
     article,
     score:
@@ -178,7 +239,30 @@ const breadcrumbs = [
         {showContents && (
           <TableOfContents headings={contentsHeadings} variant="mobile" />
         )}
+        {area && (
+          <AreaAtAGlance
+            zone={area.zone}
+            vibe={area.vibe}
+            walkability={area.walkability}
+            timeNeeded={area.timeNeeded}
+            budget={area.budget}
+            bestDay={area.bestDay}
+            bestFor={area.bestFor}
+            nearestStations={area.nearestStations}
+          />
+        )}
         <slot />
+        {area && <AreaEvents articleId={articleId} areaName={area.name} />}
+        {area && <AreaActivities articleId={articleId} areaName={area.name} />}
+        {area && <AreaHotels articleId={articleId} areaName={area.name} />}
+        {area && (
+          <CombineWith
+            areas={area.nearby}
+            areaName={area.name}
+            publishedIds={publishedIds}
+          />
+        )}
+        <ArticleFaq items={faq} />
       </div>
       <aside class="article__sidebar">
         {showContents && (
@@ -1342,6 +1426,11 @@ const breadcrumbs = [
   .article__body :global(.restaurant-map-key--video),
   .article__body :global(.restaurant-map-marker--video) {
     background: #6941c6;
+  }
+
+  .article__body :global(.restaurant-map-key--streetfood),
+  .article__body :global(.restaurant-map-marker--streetfood) {
+    background: #d97706;
   }
 
   .article__body :global(.restaurant-map-marker-wrap) {

@@ -6,7 +6,7 @@ export const londonSite: SiteConfig = {
   name: "London Travel Geek",
   shortName: "LTG",
   description:
-    "Practical, carefully researched London travel guides for getting around, choosing where to stay and making more of every day.",
+    "Practical, carefully researched London travel guides for getting around, exploring top neighbourhoods and making more of every day.",
   accentLabel: "The No-Fluff Travel Handbook",
   navigation: [
     { label: "Eat & Drink", href: "/topics/food-and-drink/" },

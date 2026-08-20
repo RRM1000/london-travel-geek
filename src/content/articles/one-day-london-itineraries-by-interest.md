@@ -85,7 +85,7 @@ Confirm lifts on the exact date and request venue or boat assistance in advance.
 ## Related guides
 
 - [London itinerary hub](/articles/london-itineraries-by-days-and-interests/)
-- [Best areas to stay and visit](/articles/best-areas-to-stay-and-visit-london/)
+- [Best areas to visit in London](/articles/best-areas-to-visit-london/)
 - [London transport overview](/articles/getting-around-london-transport-guide/)
 - [River boats guide](/articles/how-to-use-london-river-boats/)
 

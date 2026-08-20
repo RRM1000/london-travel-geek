@@ -1,9 +1,9 @@
 ---
 title: "The Best Indian Restaurants in London: Critics' Choices Compared"
-seoTitle: "Best Indian Restaurants in London"
-description: "Critics’ choices for London’s Indian restaurants, from affordable South Indian cooking to modern menus and Michelin-starred occasions."
+seoTitle: "Best Indian Restaurants in London: 12 Critics' Choices Compared"
+description: "Cross-referenced critics’ picks for London’s Indian food scene, from affordable South Indian dosas to modern small plates and Michelin-starred milestones."
 publishedAt: 2026-07-28
-updatedAt: 2026-08-01
+updatedAt: 2026-08-03
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -17,323 +17,333 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
-London’s Indian dining scene is vast and remarkably diverse. Where you should eat depends on your occasion—whether you're looking for Michelin-starred fine dining in Mayfair, vibrant street food in Soho, or authentic South Indian vegetarian cooking in Stoke Newington.
+London’s Indian dining scene is vast and remarkably rich. What makes it special isn't just the sheer number of places to eat, but the incredible regional variety—from two-Michelin-starred fine dining rooms in Mayfair and vibrant small-plate spots in Soho, to authentic South Indian vegetarian institutions in Stoke Newington.
 
-> **The short version:** Choose **Gymkhana or BiBi** for a milestone celebration; **Veeraswamy** for historic heritage; **Dishoom or Kricket** for approachable central dining; **Brigadiers** for lively group feasts; and **Rasa or Saravanaa Bhavan** for exceptional vegetarian regional cooking.
+> 💡 **The Short Version:** Choose **Gymkhana or BiBi** for a milestone celebration; **Veeraswamy** for 100 years of Regent Street heritage; **Dishoom or Kricket** for approachable central dining; **Brigadiers** for high-energy group feasts; and **Rasa or Saravanaa Bhavan** for outstanding South Indian vegetarian cooking.
 
-This guide compares restaurants that recur in current recommendations from the [Good Food Guide](https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london), [Thatsup](https://thatsup.co.uk/london/guide/the-best-indian-restaurants-in-london/), [Michelin Guide](https://guide.michelin.com/us/en/best-of/the-best-indian-restaurants-in-london), [The Infatuation](https://www.theinfatuation.com/london/guides/best-indian-restaurants-london) and [Time Out](https://www.timeout.com/london/restaurants/londons-best-indian-restaurants). We then checked locations, menus, and booking policies directly against official restaurant sources.
+> 📘 **How We Selected These Restaurants (Editorial Note)**  
+> These independent recommendations are cross-referenced from five top food publications ([Good Food Guide](https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london), [Thatsup](https://thatsup.co.uk/london/guide/the-best-indian-restaurants-in-london/), [Michelin Guide](https://guide.michelin.com/us/en/best-of/the-best-indian-restaurants-in-london), [The Infatuation](https://www.theinfatuation.com/london/guides/best-indian-restaurants-london), and [Time Out](https://www.timeout.com/london/restaurants/londons-best-indian-restaurants)). We selected dining rooms recognized for distinct regional cooking, Michelin accolades, or unique atmosphere—not paid placements or customer star averages. Always check official restaurant sites for live menus and booking windows.
 
-> **Editorial note:** These are independent editorial recommendations based on cross-referenced critic data, not paid placements. Menus, prices, dietary provisions and booking windows change frequently; always check the restaurant's official site before travelling.
+---
 
-## What five current guides agree on
+## Quick Recommendations
 
-We compared five of London's top food publications to identify which Indian restaurants consistently earn critical acclaim. The dining rooms below represent the consensus choices across multiple leading guides.
+Use this cheat-sheet to compare top-rated dining rooms by neighbourhood, nearest Tube station, price range, and key appeal:
 
-No single restaurant fits every dining plan. The ideal choice depends on your priorities—whether that's a high-end tasting menu, a casual pre-theatre meal, a group celebration, or regional vegetarian specialties.
-
-| If you want… | The recurring recommendations worth comparing | Why this is useful |
-| --- | --- | --- |
-| A destination meal | Gymkhana and Trishna | Both are repeatedly selected for high-end Indian dining, but their atmosphere and food focus differ greatly |
-| A historic central experience | Veeraswamy | Consistently highlighted for its heritage, Regent Street location, and formal dining setting |
-| Coastal regional cooking | Quilon | A recurring choice for south-west Indian cooking near Westminster and Victoria |
-| A central casual meal | Dishoom and Kricket | Both feature frequently; Dishoom offers an approachable Bombay-café format while Kricket focuses on modern small plates |
-| A lively group meal | Brigadiers | Multiple guides point to its barbecue menu, private dining options, and high-energy atmosphere |
-| Vegetarian Indian food | Rasa | Consistently singled out for all-vegetarian Keralan cooking rather than standard vegetarian side dishes |
-
-Organising recommendations by **traveller priority** ensures you find the right fit, whether planning a quick lunch between museums or booking a festive dinner months in advance.
-
-## Quick recommendations
-
-| Best for | Restaurant | Area | Price | Why it stands out |
+| Best For | Restaurant | Area & Nearest Tube | Price | Why It Stands Out |
 | --- | --- | --- | --- | --- |
-| Destination fine dining | [Gymkhana](https://gymkhanalondon.com/) | Mayfair | ££££ | Two-Michelin-starred cooking and one of London's hardest reservations |
-| Contemporary tasting menu | [BiBi](https://www.bibirestaurants.com/) | Mayfair | ££££ | Highly individual modern Indian cooking in a small counter-led room |
-| Coastal Indian food | [Trishna](https://www.trishnalondon.com/) | Marylebone | £££ | Refined seafood-focused cooking in a calmer neighbourhood setting |
-| South-west coastal cooking | [Quilon](https://quilon.co.uk/) | Westminster | £££ | Particularly useful near Buckingham Palace and Victoria |
-| Historic experience | [Veeraswamy](https://www.veeraswamy.com/) | Regent Street | £££ | London's oldest surviving Indian restaurant, opened in 1926 |
-| Central, accessible first choice | [Dishoom](https://www.dishoom.com/) | Several areas | ££ | Multiple branches, breakfast and an approachable Bombay-café format |
-| Modern Indian small plates | [Kricket](https://www.kricket.co.uk/home) | Several areas | ££ | Energetic contemporary cooking with a Michelin Bib Gourmand |
-| Vegetarian Keralan food | [Rasa](https://rasarestaurants.com/index.html) | Stoke Newington | £ | Long-established neighbourhood restaurant with an all-vegetarian menu |
-| South Indian vegetarian value | [Saravanaa Bhavan](https://saravanaabhavan.co.uk/) | Several areas | £ | Dosas, idli, thalis and a large vegetarian menu |
-| Mumbai-style quick food | [Shree Krishna Vada Pav](https://skvp.co.uk/) | Fitzrovia and other branches | £ | Vegetarian snacks and fast, inexpensive meals |
-| Sharing dishes with a story | [Darjeeling Express](https://www.darjeeling-express.com/) | Soho | £££ | An all-women kitchen and menus influenced by several parts of India |
-| Groups, barbecue and sport | [Brigadiers](https://brigadierslondon.com/) | City of London | £££ | Large, lively Indian barbecue restaurant with group feasts |
+| **Destination fine dining** | [Gymkhana](https://gymkhanalondon.com/) | Mayfair *(Green Park)* | ££££ | Two-Michelin-starred club dining; one of London's prized reservations |
+| **Contemporary tasting menu** | [BiBi](https://www.bibirestaurants.com/) | Mayfair *(Bond Street)* | ££££ | Original chef-led tasting menus in an intimate counter setting |
+| **Coastal Indian seafood** | [Trishna](https://www.trishnalondon.com/) | Marylebone *(Baker Street)* | £££ | Refined seafood-focused cooking in a peaceful neighbourhood setting |
+| **South-west coastal cooking** | [Quilon](https://quilon.co.uk/) | Westminster *(St James's Park / Victoria)* | £££ | Michelin-starred regional dining steps from Buckingham Palace |
+| **Historic heritage (Est. 1926)** | [Veeraswamy](https://www.veeraswamy.com/) | Regent Street *(Piccadilly Circus)* | £££ | London's oldest surviving Indian restaurant, celebrating its centenary in 2026 |
+| **Central, accessible first choice** | [Dishoom](https://www.dishoom.com/) | Several areas *(Covent Garden, Soho, KX)* | ££ | Nostalgic Bombay-café format, famous breakfast naan rolls & lively vibe |
+| **Modern Indian small plates** | [Kricket](https://www.kricket.co.uk/home) | Several areas *(Soho, Shoreditch, Brixton)* | ££ | Energetic contemporary cooking holding a Michelin Bib Gourmand |
+| **Vegetarian Keralan food** | [Rasa](https://rasarestaurants.com/index.html) | Stoke Newington *(Stoke Newington Overground)* | £ | Beloved pink-fronted neighbourhood favourite with an all-vegetarian menu |
+| **South Indian vegetarian value** | [Saravanaa Bhavan](https://saravanaabhavan.co.uk/) | Several areas *(Leicester Sq, Wembley)* | £ | Authentic dosas, idlis, thalis, and excellent budget value |
+| **Mumbai-style quick snacks** | [Shree Krishna Vada Pav](https://skvp.co.uk/) | Fitzrovia *(Oxford Circus)* & branches | £ | Spiced vada pav rolls and fast, inexpensive Mumbai street food |
+| **Sharing dishes with a story** | [Darjeeling Express](https://www.darjeeling-express.com/) | Soho *(Oxford Circus / Piccadilly Circus)* | £££ | All-women kitchen led by Asma Khan, serving family-recipe feasts |
+| **Groups, barbecue & sport** | [Brigadiers](https://brigadierslondon.com/) | City of London *(Bank / Cannon Street)* | £££ | High-energy Indian barbecue venue featuring group feasts & live screens |
 
-**Price guide:** £ generally means an inexpensive meal; ££ a typical casual or mid-range meal; £££ an expensive restaurant or set menu; and ££££ a destination tasting-menu experience. Drinks and service are not included, and the boundary between categories is approximate.
+**Price Guide:** **£** = affordable meal under £20; **££** = mid-range casual meal (£25–£45); **£££** = high-end restaurant or set menu (£50–£80); **££££** = destination tasting-menu experience (£100+). Drinks and service charges are extra.
 
-## Map the restaurants
+---
 
-Use the map to see which recommendations fit naturally into your day. For restaurants with several London locations, we have pinned one useful branch; always check the restaurant's website before travelling.
+> 🌶️ **Brick Lane & East End Curry Houses vs Central Fine Dining**  
+> First-time visitors often pair a trip to London with a visit to **Brick Lane** (East London). Brick Lane is home to historic British-Bangladeshi curry houses, while nearby **Whitechapel** features renowned Punjabi institutions like *Tayyabs* and *Needo Fry*. This guide focuses on central, regional, and Michelin-recognised dining rooms, but London's East End curry corridors offer a distinct, historic food experience.
+
+---
+
+## What Five Leading Guides Agree On
+
+When comparing recommendations across five major food guides, these dining rooms consistently emerge as the consensus choices:
+
+| If you want… | Recommendations to compare | Why this helps your choice |
+| --- | --- | --- |
+| **A milestone celebratory meal** | Gymkhana and BiBi | Both earn top critical praise in Mayfair, but Gymkhana offers grand club dining while BiBi focuses on an intimate counter tasting menu |
+| **A historic central experience** | Veeraswamy | Regularly highlighted for its 100-year heritage, Regent Street location, and elegant formal dining room |
+| **Coastal regional cooking** | Trishna and Quilon | Trishna specialises in coastal seafood in Marylebone; Quilon serves south-western Keralan cooking in Westminster |
+| **A central casual meal** | Dishoom and Kricket | Dishoom offers a nostalgic Bombay-café atmosphere while Kricket focuses on modern small plates |
+| **A lively group feast** | Brigadiers | Consistently singled out for its live-fire barbecue, private dining rooms, and high-energy atmosphere |
+| **Vegetarian Indian food** | Rasa and Saravanaa Bhavan | Rasa serves home-style Keralan vegetarian dishes; Saravanaa Bhavan offers fast South Indian thalis and crisp dosas |
+
+
+
+## Best for a Special Occasion
+
+### Gymkhana, Mayfair
+
+📍 **Nearest Tube:** Green Park (5 min walk) / Piccadilly Circus  
+💷 **Price:** ££££  
+📅 **Booking:** Essential (book as far in advance as the reservation window permits)  
+🍛 **Highlight:** Wild Boar Biryani, Kid Goat Shami Kebab & Tandoori Chops  
+
+Gymkhana is the headline destination choice in this guide. Holding two Michelin stars, it regularly tops *The Infatuation's* and *Michelin's* London selections. The opulent dining room draws visual inspiration from 19th-century Indian elite social clubs, serving exquisite grills, game, curries, and biryanis.
+
+This isn't a quick bite before a show—it's designed for visitors who want dinner to be one of the standout highlights of their London trip.
+
+▶ **In the videos:** [watch TOPJAW visit Gymkhana from 14:15](https://www.youtube.com/watch?v=AHUnqeRroYk&t=855s).
+
+[Official website & reservations](https://gymkhanalondon.com/) · [Michelin Guide entry](https://guide.michelin.com/us/en/best-of/the-best-indian-restaurants-in-london) · [The Infatuation review](https://www.theinfatuation.com/london/guides/best-indian-restaurants-london)
+
+---
+
+### BiBi, Mayfair
+
+📍 **Nearest Tube:** Bond Street (4 min walk)  
+💷 **Price:** ££££  
+📅 **Booking:** Required well in advance  
+🍛 **Highlight:** Chef Chet Sharma's counter tasting menu & seasonal British-Indian produce  
+
+BiBi is an intimate, chef-led restaurant centered around an open counter kitchen. It moves away from traditional formal dining rooms to offer highly original, contemporary Indian cooking paired with pristine British produce. It currently holds one of *The Infatuation's* highest London ratings.
+
+Because counter seating and tasting menus are strictly scheduled, check allergy capabilities and deposit terms directly on their site before booking.
+
+▶ **In the videos:** [watch TOPJAW visit BiBi from 7:20](https://www.youtube.com/watch?v=AHUnqeRroYk&t=440s).
+
+[Official website & reservations](https://www.bibirestaurants.com/) · [The Infatuation review](https://www.theinfatuation.com/london/guides/best-indian-restaurants-london)
+
+---
+
+### Trishna, Marylebone
+
+📍 **Nearest Tube:** Baker Street (6 min walk) / Regent's Park  
+💷 **Price:** £££  
+📅 **Booking:** Recommended  
+🍛 **Highlight:** Coastal seafood, Soft Shell Crab & Koliwada Squid  
+
+Trishna focuses on contemporary Indian coastal cooking and holds a Michelin star. It makes an ideal alternative if Gymkhana feels too formal or is fully booked. Set in peaceful Marylebone, it makes a convenient dinner stop after exploring *Madame Tussauds*, *Regent's Park*, or shopping on *Oxford Street*.
+
+[Official website & reservations](https://www.trishnalondon.com/) · [Michelin Guide entry](https://guide.michelin.com/us/en/best-of/the-best-indian-restaurants-in-london)
+
+---
+
+## Best for Regional & Historic Cooking
+
+### Quilon, Westminster
+
+📍 **Nearest Tube:** St James's Park (2 min walk) / Victoria  
+💷 **Price:** £££  
+📅 **Booking:** Recommended  
+🍛 **Highlight:** South-west coastal seafood, Mangalorean Chicken & Appams  
+
+Quilon showcases the refined cooking of India's south-west coast (Kerala and Goa), with seafood and subtle spicing taking center stage. Holding a Michelin star since 2008, it is especially practical for visitors spending the day near *Buckingham Palace*, *Westminster Abbey*, or *Victoria Station*.
+
+[Official website & menus](https://quilon.co.uk/) · [Michelin Guide entry](https://guide.michelin.com/us/en/best-of/the-best-indian-restaurants-in-london)
+
+---
+
+### Veeraswamy, Regent Street
+
+📍 **Nearest Tube:** Piccadilly Circus (3 min walk) / Oxford Circus  
+💷 **Price:** £££  
+📅 **Booking:** Recommended (Check dress code & child policies)  
+🍛 **Highlight:** Historic royal court recipes, Dum Biryani & Raj Kachori  
+
+Opened in 1926, Veeraswamy is London's oldest surviving Indian restaurant and celebrates its centenary in 2026. Overlooking Regent Street, its opulent dining room serves dishes drawn from several Indian royal court traditions.
+
+> ⚠️ **Policy Note:** Veeraswamy enforces a smart-casual dress code, age guidelines for evening service, and a dinner minimum spend outside its pre-theatre menu. Verify these details before booking.
+
+[Official website & reservations](https://www.veeraswamy.com/) · [Pre-theatre information](https://www.veeraswamy.com/whats-on/pre-theatre-and-post-theatre-dining/)
+
+---
+
+### Darjeeling Express, Soho
+
+📍 **Nearest Tube:** Oxford Circus (5 min walk) / Piccadilly Circus  
+💷 **Price:** £££  
+📅 **Booking:** Recommended  
+🍛 **Highlight:** All-women kitchen, Royal Mughlai & Bengali home-style sharing feasts  
+
+Founded by chef Asma Khan, Darjeeling Express is famous for its all-women kitchen and soulful food shaped by family heritage. Located in Kingly Court in Soho, it is an ideal central choice for shopping and West End theatergoers.
+
+▶ **In the videos:** [watch TOPJAW visit Darjeeling Express from 11:17](https://www.youtube.com/watch?v=AHUnqeRroYk&t=677s).
+
+[Official website & reservations](https://www.darjeeling-express.com/) · [Time Out review](https://www.timeout.com/london/restaurants/londons-best-indian-restaurants)
+
+---
+
+## Best Central & Mid-Range Choices
+
+### Dishoom, several locations
+
+📍 **Key Branches:** Covent Garden, Carnaby (Soho), King's Cross, Shoreditch & Kensington  
+💷 **Price:** ££  
+📅 **Booking:** Walk-ins for under 6 people; bookings for 6+  
+🍛 **Highlight:** Bacon Naan Roll, House Black Daal & Ruby Chicken  
+
+Dishoom is an approachable visitor staple. Its Bombay-café atmosphere is welcoming, branches are conveniently located near top sights, and its breakfast menu makes a delicious change from standard hotel buffets.
+
+> 💡 **Dishoom Queue & Booking Hacks**  
+> * **Breakfast Shortcut:** Arrive between 8:00 AM and 10:30 AM for their famous Bacon Naan Roll & hot chai—you can usually walk straight in without waiting.  
+> * **Group Reservation Rule:** Dishoom takes advance lunch and dinner reservations only for parties of **6 or more**. Smaller groups walk in.  
+> * **Shorter Queues:** The King's Cross and Kensington branches generally have much shorter wait times than Covent Garden or Carnaby (Soho).
+
+[Official locations & menus](https://www.dishoom.com/) · [Browse our Covent Garden guide](/articles/covent-garden-area-guide/)
+
+---
+
+### Kricket, several locations
+
+📍 **Key Branches:** Soho (Denman St), Shoreditch & Brixton  
+💷 **Price:** ££  
+📅 **Booking:** Recommended for Soho at peak times  
+🍛 **Highlight:** Keralan Fried Chicken, Samphire Pakoras & Bhel Puri  
+
+Kricket began as a pop-up in a shipping container and now holds a Michelin Bib Gourmand for its Soho branch. It serves inventive, modern Indian small plates designed for sharing, paired with craft cocktails.
+
+▶ **In the videos:** [watch Harrison Webb visit Kricket from 7:56](https://www.youtube.com/watch?v=6mDJrJFvllo&t=476s).
+
+[Official website & menus](https://www.kricket.co.uk/home) · [Michelin Guide entry](https://guide.michelin.com/gb/en/greater-london/london/restaurant/kricket)
+
+---
+
+## Best Affordable & Vegetarian Choices
+
+### Rasa, Stoke Newington
+
+📍 **Nearest Station:** Stoke Newington Overground  
+💷 **Price:** £  
+📅 **Booking:** Recommended on weekends  
+🍛 **Highlight:** All-vegetarian South Indian Keralan curries, Dosa & Mysore Bonda  
+
+Rasa is a beloved pink-fronted neighbourhood institution in Stoke Newington. Holding a 5-star rating from *Time Out*, it serves authentic, affordable Keralan vegetarian cooking that highlights spices and coconut rather than heavy cream.
+
+[Official website](https://rasarestaurants.com/index.html) · [Time Out review](https://www.timeout.com/london/restaurants/rasa)
+
+---
+
+### Saravanaa Bhavan, several locations
+
+📍 **Key Branches:** Leicester Square (Charing Cross Rd), Wembley & East Ham  
+💷 **Price:** £  
+📅 **Booking:** Walk-ins  
+🍛 **Highlight:** Masala Dosa, Ghee Roast, Idli & South Indian Thalis  
+
+Saravanaa Bhavan is a famous international Chennai-based vegetarian chain. It is an unbeatable budget choice for authentic South Indian dosas, idlis, and thalis in Central London.
+
+[Official London website](https://saravanaabhavan.co.uk/)
+
+---
+
+### Shree Krishna Vada Pav (SKVP), Fitzrovia & branches
+
+📍 **Nearest Tube:** Oxford Circus (5 min walk to Fitzrovia branch)  
+💷 **Price:** £  
+📅 **Booking:** Walk-in fast casual  
+🍛 **Highlight:** Vada Pav (spiced potato brioche roll), Misal Pav & Samosa Chaat  
+
+SKVP specialises in Mumbai vegetarian street food, centered around the *vada pav*—a spiced deep-fried potato patty inside a soft bun with chutneys. It is fast, delicious, and incredibly cheap.
+
+[Official website & locations](https://skvp.co.uk/)
+
+---
+
+## Best for Groups & Feasts
+
+### Brigadiers, City of London
+
+📍 **Nearest Tube:** Bank / Cannon Street (2 min walk)  
+💷 **Price:** £££  
+📅 **Booking:** Strongly recommended for groups  
+🍛 **Highlight:** Tandoori Lamb Chops, Wagyu Seekh Kebab & Beer/Whisky Feasts  
+
+Inspired by Indian army mess bars, Brigadiers is a large, high-energy venue in the City. The Michelin Guide highlights its live-fire barbecue, private dining rooms, craft beers, and live sport screens. Its high-energy environment is built for a lively group night out rather than a quiet, intimate dinner.
+
+▶ **In the videos:** [watch TOPJAW from 0:00](https://www.youtube.com/watch?v=AHUnqeRroYk&t=0s) or [watch Harrison Webb from 0:00](https://www.youtube.com/watch?v=6mDJrJFvllo&t=0s).
+
+[Official website & reservations](https://brigadierslondon.com/) · [Browse our Shoreditch guide](/articles/shoreditch-area-guide/)
+
+---
+
+## Indian Street Food: Markets & Food Halls
+
+If you want a fast, casual bite without a formal table reservation, London's indoor food halls and historic street markets feature fantastic Indian vendors:
+
+### Horn OK Please & Gujarati Rasoi — Borough Market (Southwark)
+
+📍 **Location:** Borough Market, Southwark *(London Bridge Tube)*  
+💷 **Price:** £  
+🍛 **Highlight:** Freshly fried Samosa Chaat, Moong Dal Dosas & Home-Style Gujarati Thalis  
+
+Borough Market in Southwark is home to two outstanding Indian street food traders. **Horn OK Please** is an all-vegetarian stall famous for its hot samosa chaat (crispy samosas smothered in spiced chickpea curry, cool yoghurt, and sweet tamarind chutney) and made-to-order moong dal dosas. Right nearby, **Gujarati Rasoi** serves traditional family-recipe Gujarati thalis, samosas, and golden bhaji.
+
+---
+
+### Gopal’s Corner — Market Halls (Victoria & Oxford Street)
+
+📍 **Locations:** Market Halls Victoria *(1 min from Victoria Station)* & Market Halls Oxford Street *(5 min from Oxford Circus)*  
+💷 **Price:** £–££  
+🍛 **Highlight:** Flaky Roti Canai with Mutton Curry, Dosas & Banana Leaf Feasts  
+
+Created by Sugen Gopal (the founder of Soho's famous **Roti King**), Gopal's Corner is a flagship stall inside London's **Market Halls** food courts (in Victoria, Oxford Street, Canary Wharf, and Paddington). It pays homage to Malaysian Tamil street food, serving freshly clapped, buttery roti canai with rich mutton, chicken, or dhal curries.
+
+---
+
+### Kolkati — Seven Dials Market (Covent Garden)
+
+📍 **Location:** Seven Dials Market, Covent Garden *(Covent Garden / Leicester Sq Tube)*  
+💷 **Price:** £  
+🍛 **Highlight:** Kolkata Kati Rolls (Masala Chicken or Paneer rolled in egg-washed paratha)  
+
+Housed inside KERB's vibrant Seven Dials Market in Covent Garden, **Kolkati** specialises in Kolkata-style Kati Rolls—flaky paratha flatbreads brushed with egg, packed with spiced masala chicken or paneer, and topped with fresh coriander chutney, lime, and pickled pink onions.
+
+---
+
+### Mercato Metropolitano (Elephant & Castle / Southwark)
+
+📍 **Location:** 42 Newington Causeway, Southwark *(Elephant & Castle / Borough Tube)*  
+💷 **Price:** £  
+🍛 **Highlight:** Indian street stalls, Samosas, Naan Wraps & Masala Loaded Fries  
+
+Just a short walk south of Borough Market, **Mercato Metropolitano** is a massive, high-energy food hall in Southwark set inside a former paper factory. It regularly features rotating Indian street food vendors like **Bindas Eatery** and **Tandoori Tadkaa**, serving samosas, tikka wraps, and street snacks alongside craft beer bars.
+
+---
+
+## Interactive Map & Area Breakdown
+
+Use the interactive map below to see which dining rooms fit naturally alongside your sightseeing plans. For venues with multiple branches, we have pinned a primary central location; always check official opening details before travelling.
 
 <details class="restaurant-map-shell" open>
   <summary>
     <span>Explore the restaurant map</span>
-    <small>12 guide choices + 4 video-only visits</small>
+    <small>10 guide choices + 5 street food stalls + 3 video visits</small>
   </summary>
   <div class="restaurant-map" data-restaurant-map="indian-restaurants-london" role="region" aria-label="Interactive map of Indian restaurants in London">
     <p>Loading the interactive map…</p>
   </div>
   <div class="restaurant-map-legend" aria-label="Map key">
     <span><i class="restaurant-map-key restaurant-map-key--editorial" aria-hidden="true"></i> Recommended in this guide</span>
+    <span><i class="restaurant-map-key restaurant-map-key--streetfood" aria-hidden="true"></i> Street food & market stall</span>
     <span><i class="restaurant-map-key restaurant-map-key--video" aria-hidden="true"></i> Additional video visit</span>
   </div>
   <noscript>
-    <p>The interactive map needs JavaScript. The restaurant areas and nearest stations are also listed in the tables and recommendations on this page.</p>
+    <p>The interactive map requires JavaScript. Station locations and area details are also listed throughout the text below.</p>
   </noscript>
 </details>
 
-## How we selected the restaurants
-
-This is not a popularity poll and it is not based solely on customer-star averages. A restaurant was considered when it met several of these tests:
-
-- recommended by more than one established editorial source;
-- recognised by Michelin or another respected professional guide;
-- offers a particularly useful experience that is not duplicated elsewhere;
-- represents a regional Indian tradition or a distinct style of cooking;
-- has current official information and remains bookable or open;
-- gives visitors a useful choice by budget, location or occasion.
-
-The list deliberately mixes destination dining with affordable neighbourhood food. It focuses on Indian restaurants; Pakistani, Bangladeshi, Sri Lankan and Nepali restaurants deserve separate guides rather than being treated as interchangeable.
-
-## Best for a special occasion
-
-### Gymkhana, Mayfair
-
-**Best for:** a major celebration or a food-focused trip  
-**Nearest stations:** Green Park and Piccadilly Circus  
-**Price:** ££££  
-**Reserve:** as far ahead as the booking system permits
-
-Gymkhana is the clearest destination choice in this guide. It holds two Michelin stars and appears near the top of The Infatuation's current London recommendations. The dining room takes inspiration from Indian private clubs, while the menu combines grills, game, curries and biryanis.
-
-This is not the sensible choice for a quick pre-theatre meal or a restricted budget. It is the choice for visitors who want the restaurant to be one of the principal events of the day.
-
-**In the videos:** [watch TOPJAW visit Gymkhana from 14:15](https://www.youtube.com/watch?v=AHUnqeRroYk&t=855s).
-
-[Official website and reservations](https://gymkhanalondon.com/) · [Michelin's Indian restaurant selection](https://guide.michelin.com/us/en/best-of/the-best-indian-restaurants-in-london) · [The Infatuation's assessment](https://www.theinfatuation.com/london/guides/best-indian-restaurants-london)
-
-### BiBi, Mayfair
-
-**Best for:** an inventive tasting menu and counter dining  
-**Nearest station:** Bond Street  
-**Price:** ££££  
-**Reserve:** well ahead
-
-BiBi is a small, modern restaurant rather than a traditional grand dining room. Its strongest appeal is the opportunity to experience chef-led, contemporary Indian cooking in a more intimate setting. The Infatuation currently gives it one of its highest London ratings, while its tasting-menu format has also received national coverage.
-
-Because the room and menu are tightly structured, confirm allergies and dietary restrictions before paying a deposit.
-
-**In the videos:** [watch TOPJAW visit BiBi from 7:20](https://www.youtube.com/watch?v=AHUnqeRroYk&t=440s).
-
-[Official website and reservations](https://www.bibirestaurants.com/) · [The Infatuation's current Indian guide](https://www.theinfatuation.com/london/guides/best-indian-restaurants-london)
-
-### Trishna, Marylebone
-
-**Best for:** seafood, coastal Indian cooking and a quieter celebration  
-**Nearest station:** Baker Street  
-**Price:** £££  
-**Reserve:** recommended
-
-Trishna specialises in contemporary Indian coastal food and holds a Michelin star. It is a useful alternative when Gymkhana feels too formal, expensive or difficult to book. Marylebone also makes it convenient after Madame Tussauds, Regent's Park or shopping around Oxford Street.
-
-Seafood is a central part of the restaurant's identity, although current vegetarian and other dietary menus should be checked directly.
-
-[Official website and reservations](https://www.trishnalondon.com/) · [Michelin's selection](https://guide.michelin.com/us/en/best-of/the-best-indian-restaurants-in-london) · [The Infatuation review](https://www.theinfatuation.com/london/reviews/trishna)
-
-## Best for regional and historic cooking
-
-### Quilon, Westminster
-
-**Best for:** south-west coastal Indian food near major landmarks  
-**Nearest stations:** St James's Park and Victoria  
-**Price:** £££  
-**Reserve:** recommended
-
-Quilon focuses on the cooking of India's south-west coast, with seafood and carefully balanced spicing playing a prominent role. It has held a Michelin star since 2008, according to the restaurant, and is especially practical for a day around Buckingham Palace, Westminster or Victoria.
-
-This is one of the strongest choices for visitors who want refined regional cooking without travelling to Mayfair or Marylebone.
-
-[Official website, menus and reservations](https://quilon.co.uk/) · [About Quilon's cooking](https://quilon.co.uk/about-us.htm) · [Michelin's Indian selection](https://guide.michelin.com/us/en/best-of/the-best-indian-restaurants-in-london)
-
-### Veeraswamy, Regent Street
-
-**Best for:** restaurant history, traditional ceremony and pre-theatre dining  
-**Nearest stations:** Piccadilly Circus and Oxford Circus  
-**Price:** £££  
-**Reserve:** recommended; check the dress and child policies
-
-Opened in 1926, Veeraswamy is London's oldest surviving Indian restaurant and marks its centenary in 2026. Its current menus draw on several Indian regions, including royal-court traditions, rather than representing a single regional cuisine.
-
-The location is excellent for Regent Street and the West End. However, this is a formal restaurant with published clothing guidance, age restrictions at some services and a dinner minimum spend outside its pre-theatre offer. Check those details before booking with children or planning a casual meal.
-
-[Official website and reservations](https://www.veeraswamy.com/) · [Current visitor policies](https://www.veeraswamy.com/location/) · [Pre-theatre information](https://www.veeraswamy.com/whats-on/pre-theatre-and-post-theatre-dining/)
-
-### Darjeeling Express, Soho
-
-**Best for:** sharing menus, groups and a distinctive personal story  
-**Nearest stations:** Oxford Circus and Piccadilly Circus  
-**Price:** £££  
-**Reserve:** recommended
-
-Chef and owner Asma Khan's Darjeeling Express is known for its all-women kitchen and food shaped by family recipes and several regional influences. Its Kingly Court location makes it convenient for Soho shopping and West End plans.
-
-This is most attractive when the sharing format matches the group. Read the current menu and booking terms rather than assuming that every service offers the same experience.
-
-**In the videos:** [watch TOPJAW visit Darjeeling Express from 11:17](https://www.youtube.com/watch?v=AHUnqeRroYk&t=677s).
-
-[Official website and reservations](https://www.darjeeling-express.com/) · [Time Out's current Indian and South Asian guide](https://www.timeout.com/london/restaurants/londons-best-indian-restaurants)
-
-## Best central and mid-range choices
-
-### Dishoom, several locations
-
-**Best for:** first-time visitors, breakfast and mixed groups  
-**Useful branches:** Covent Garden, Carnaby, King's Cross and Shoreditch  
-**Price:** ££  
-**Booking:** varies by branch, time and group size
-
-Dishoom is not a substitute for exploring London's regional Indian restaurants, but it remains a practical visitor recommendation. The Bombay-café concept is approachable, the branches are close to popular areas and breakfast creates an alternative to another hotel buffet.
-
-It is also exceptionally popular. Queues, reservations and walk-in arrangements differ, so check the chosen branch rather than relying on a general rule.
-
-[Official locations, menus and booking](https://www.dishoom.com/) · [The Infatuation's Covent Garden review](https://www.theinfatuation.com/london/reviews/dishoom-covent-garden) · [Browse our Covent Garden and Soho guide](/articles/covent-garden-soho-area-guide/)
-
-### Kricket, several locations
-
-**Best for:** contemporary small plates and a lively casual meal  
-**Useful branches:** Soho, Brixton and Shoreditch  
-**Price:** ££  
-**Reserve:** useful for Soho at busy times
-
-Kricket began as a pop-up and now operates several permanent restaurants. Michelin gives the Soho restaurant a Bib Gourmand for good-quality, good-value cooking. Small plates make it a good option for sharing, though a group should watch how quickly multiple orders increase the bill.
-
-The Soho branch is particularly useful before an evening in the West End; Brixton and Shoreditch work better when those neighbourhoods are already part of the itinerary.
-
-**In the videos:** [watch Harrison Webb visit Kricket from 7:56](https://www.youtube.com/watch?v=6mDJrJFvllo&t=476s).
-
-[Official website, locations and menus](https://www.kricket.co.uk/home) · [Michelin Guide entry](https://guide.michelin.com/gb/en/greater-london/london/restaurant/kricket)
-
-## Best affordable and vegetarian choices
-
-### Rasa, Stoke Newington
-
-**Best for:** vegetarian Keralan food and a neighbourhood meal  
-**Nearest station:** Stoke Newington Overground, followed by a walk  
-**Price:** £  
-**Reserve:** sensible at popular times
-
-Rasa is the strongest all-round vegetarian recommendation in our source comparison. Time Out currently rates it five stars and highlights its long-established place in Stoke Newington. The restaurant describes the N16 branch as vegetarian and focused on South Indian food.
-
-It is not central, so combine it with Stoke Newington, Dalston or north-east London rather than crossing the city solely to fill a short gap between attractions.
-
-[Official website and booking](https://rasarestaurants.com/index.html) · [Time Out review](https://www.timeout.com/london/restaurants/rasa)
-
-### Saravanaa Bhavan, several locations
-
-**Best for:** vegetarian South Indian food on a modest budget  
-**Price:** £  
-**Good choices for:** dosa, idli, vada and thali-style meals
-
-Saravanaa Bhavan is an international Chennai-based vegetarian restaurant group. It is less of a special-occasion experience and more of a dependable way to explore South Indian dishes at accessible prices. Time Out includes it in its current London Indian and South Asian selection.
-
-London branches are not all near the major sightseeing corridor. Confirm the exact location, menu and opening hours before building it into the day.
-
-[Official London website and locations](https://saravanaabhavan.co.uk/) · [Time Out's current guide](https://www.timeout.com/london/restaurants/londons-best-indian-restaurants)
-
-### Shree Krishna Vada Pav, Fitzrovia and other branches
-
-**Best for:** a quick vegetarian snack or inexpensive informal meal  
-**Nearest station for Fitzrovia:** Oxford Circus  
-**Price:** £
-
-Shree Krishna Vada Pav specialises in Mumbai-style vegetarian street food, including the potato-filled roll from which it takes its name. This is the useful answer when the priority is speed, location and price rather than table service or a long evening meal.
-
-Time Out identifies it as a strong street-food snack choice. Branch details can change, so use the company's own list rather than an old map result.
-
-[Official website, menu and locations](https://skvp.co.uk/) · [Time Out's current guide](https://www.timeout.com/london/restaurants/londons-best-indian-restaurants)
-
-## Best for groups
-
-### Brigadiers, City of London
-
-**Best for:** groups, Indian barbecue, beer, whisky and televised sport  
-**Nearest stations:** Bank, Cannon Street and Mansion House  
-**Price:** £££  
-**Reserve:** strongly recommended for groups
-
-Brigadiers is a large, lively restaurant inspired by Indian army mess clubs. The Michelin Guide highlights its live-fire cooking, group menus and energetic atmosphere. It is a better match for a sociable meal than for quiet conversation or a low-sensory evening.
-
-Its City location works particularly well on a weekday, after St Paul's or before continuing towards the South Bank. Check the sporting schedule if screens and a louder room would affect the experience.
-
-**In the videos:** Brigadiers is the opening restaurant in both guides. [Watch TOPJAW from 0:00](https://www.youtube.com/watch?v=AHUnqeRroYk&t=0s) or [watch Harrison Webb from 0:00](https://www.youtube.com/watch?v=6mDJrJFvllo&t=0s).
-
-[Official website and reservations](https://brigadierslondon.com/) · [Michelin Guide entry](https://guide.michelin.com/en/greater-london/london/restaurant/brigadiers) · [Browse our City and Shoreditch guide](/articles/city-shoreditch-area-guide/)
-
-## Choose by area
-
-| If you will be near… | Useful choices from this guide |
+| If you are near… | Top Indian Dining Choices |
 | --- | --- |
-| Soho, Covent Garden or the West End | Dishoom, Kricket, Darjeeling Express or Veeraswamy |
-| Mayfair | Gymkhana or BiBi |
-| Marylebone | Trishna |
-| Buckingham Palace or Victoria | Quilon |
-| The City | Brigadiers |
-| Shoreditch | Dishoom or Kricket |
-| Stoke Newington | Rasa |
-| Oxford Circus and Fitzrovia | Shree Krishna Vada Pav |
-
-London travel time matters. A very good restaurant ten minutes from the day's final attraction is often a better choice than a marginally more acclaimed restaurant requiring two changes and a long walk.
-
-## Vegetarian, vegan, halal and allergy advice
-
-Rasa, Saravanaa Bhavan and Shree Krishna Vada Pav are presented by their sources or official sites as vegetarian choices. Other restaurants in the guide offer varying degrees of vegetarian provision, but a vegetarian option does not automatically mean a restaurant is vegan-friendly.
-
-Do not infer halal status from the cuisine or from an old third-party listing. Meat suppliers, preparation arrangements and alcohol policies can change. Ask the restaurant directly if halal certification or separation is important.
-
-For serious allergies:
-
-1. contact the restaurant before booking;
-2. explain the allergy again on arrival;
-3. check whether tasting menus can be adapted;
-4. do not rely only on a blogger's historic menu photograph;
-5. leave additional time if the kitchen needs to discuss alternatives.
-
-## Booking and bill advice
-
-- Book destination restaurants as early as their reservation calendar allows.
-- For a theatre night, tell the restaurant the performance time and leave time to pay and walk to the correct entrance.
-- Check cancellation charges, deposits and minimum spends before confirming.
-- London menus may add a discretionary service charge, commonly shown separately on the bill.
-- Confirm whether a tasting menu must be taken by the whole table.
-- At small-plate restaurants, ask how many dishes are realistic before over-ordering.
-- Check the current menu price on the official website; price labels in this guide are comparative, not quotations.
-
-## Our shortlist by traveller
-
-- **One memorable meal:** Gymkhana, if the price and reservation work.
-- **A quieter refined dinner:** Trishna.
-- **Near Buckingham Palace:** Quilon.
-- **Before the theatre:** Veeraswamy's timed menu, Dishoom, Kricket or Darjeeling Express, depending on the theatre.
-- **Vegetarian:** Rasa for Keralan food; Saravanaa Bhavan for South Indian variety.
-- **Quick and inexpensive:** Shree Krishna Vada Pav.
-- **A lively group meal:** Brigadiers.
-- **A convenient first experience:** Dishoom, followed by a more regionally specialised restaurant if the trip allows.
-
-## Continue planning
-
-- [Return to the Eat in London hub](/articles/eat-in-london-guide/)
-- [Choose where to stay in London](/articles/best-areas-to-stay-and-visit-london/)
-- [Browse Covent Garden and Soho](/articles/covent-garden-soho-area-guide/)
-- [Browse the City and Shoreditch](/articles/city-shoreditch-area-guide/)
-- [Plan a three-day London visit](/articles/three-days-in-london-itinerary/)
+| **Soho & Covent Garden** | Dishoom, Kricket, Darjeeling Express, Veeraswamy |
+| **Mayfair** | Gymkhana, BiBi |
+| **Marylebone & Baker St** | Trishna |
+| **Westminster & Victoria** | Quilon |
+| **The City of London** | Brigadiers |
+| **Shoreditch** | Dishoom, Kricket |
+| **Oxford Circus & Fitzrovia** | Shree Krishna Vada Pav (SKVP) |
+| **Stoke Newington** | Rasa |
 
 ---
 
-*Restaurants, official links and editorial recommendations checked on 28 July 2026. This guide is independent and contains no paid placements or affiliate booking links.*
+## Dietary & Booking Essentials
 
-## Watch the restaurant tours
+* **Vegetarian & Vegan:** Rasa, Saravanaa Bhavan, and SKVP are 100% vegetarian. All other featured restaurants offer extensive, clearly marked vegetarian and plant-based options.
+* **Halal Certification:** Meat suppliers and halal preparation vary by branch and dish. Always confirm current halal status directly with the restaurant before booking.
+* **Service Charge:** A 12.5% discretionary service charge is standard on restaurant bills in London.
 
-These two videos offer a closer look at several restaurants in this guide as well as some additional options. Pressing play loads YouTube's privacy-enhanced player; you can also follow the timestamp links below each video.
+---
+
+## Watch the Restaurant Tours
 
 <figure class="youtube-embed">
   <div class="youtube-embed__frame">
@@ -357,6 +367,18 @@ These two videos offer a closer look at several restaurants in this guide as wel
   </div>
   <figcaption>
     <strong>I Ate London's Best Indian Food — Harrison Webb</strong>
-    Restaurants visited: <a href="https://www.youtube.com/watch?v=6mDJrJFvllo&amp;t=0s">Brigadiers (0:00)</a>, <a href="https://www.youtube.com/watch?v=6mDJrJFvllo&amp;t=476s">Kricket (7:56)</a>, <a href="https://www.youtube.com/watch?v=6mDJrJFvllo&amp;t=750s">Moka (12:30)</a>, <a href="https://www.youtube.com/watch?v=6mDJrJFvllo&amp;t=1095s">Empire Empire (18:15)</a> and <a href="https://www.youtube.com/watch?v=6mDJrJFvllo&amp;t=1485s">Indian Lounge (24:45)</a>.
+    Restaurants visited: <a href="https://www.youtube.com/watch?v=6mDJrJFvllo&amp;t=0s">Brigadiers (0:00)</a>, <a href="https://www.youtube.com/watch?v=6mDJrJFvllo&amp;t=476s">Kricket (7:56)</a>, <a href="https://www.youtube.com/watch?v=6mDJrJFvllo&amp;t=1095s">Empire Empire (18:15)</a> and <a href="https://www.youtube.com/watch?v=6mDJrJFvllo&amp;t=1485s">Indian Lounge (24:45)</a>.
   </figcaption>
 </figure>
+
+---
+
+## Continue Planning Your London Trip
+
+- 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
+- 🏛️ **[Best Areas to Visit in London: Neighbourhood Guide](/articles/best-areas-to-visit-london/)**
+- 🎭 **[Covent Garden Area Guide](/articles/covent-garden-area-guide/)**
+- 🍜 **[Soho Area Guide](/articles/soho-area-guide/)**
+- 🏙️ **[City of London Area Guide](/articles/city-of-london-area-guide/)**
+- 🎨 **[Shoreditch Area Guide](/articles/shoreditch-area-guide/)**
+- ⏱️ **[Three Days in London Itinerary](/articles/three-days-in-london-itinerary/)**

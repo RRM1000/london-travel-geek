@@ -1,0 +1,124 @@
+---
+interface NearbyArea {
+  name: string;
+  slug?: string;
+  minutes: number;
+  note: string;
+}
+
+interface Props {
+  areas: NearbyArea[];
+  areaName: string;
+  /** Ids of published articles. A `slug` pointing outside this set renders as
+      plain text, so an area can be listed before its guide is written. */
+  publishedIds: Set<string>;
+}
+
+const { areas, areaName, publishedIds } = Astro.props;
+
+const resolved = areas.map((area) => ({
+  ...area,
+  href:
+    area.slug && publishedIds.has(area.slug)
+      ? `/articles/${area.slug}/`
+      : undefined,
+}));
+---
+
+{areas.length > 0 && (
+  <section class="combine-with" aria-labelledby="combine-with-title">
+    <p class="eyebrow">Make a day of it</p>
+    <h2 id="combine-with-title">Combine {areaName} with</h2>
+    <p class="combine-with__intro">
+      Walking times are from the centre of {areaName}. Each of these works as an
+      afternoon once you have finished here.
+    </p>
+
+    <ul class="combine-with__list">
+      {resolved.map((area) => (
+        <li class="combine-with__item">
+          <div class="combine-with__head">
+            <h3>
+              {area.href ? <a href={area.href}>{area.name}</a> : area.name}
+            </h3>
+            <span class="combine-with__walk">{area.minutes} min walk</span>
+          </div>
+          <p class="combine-with__note">{area.note}</p>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
+
+<style>
+  .combine-with {
+    margin: var(--space-6) 0;
+    padding-top: var(--space-5);
+    border-top: 1px solid var(--line);
+  }
+
+  /* Compounded with the block class to outrank the `.article__body :global(…)`
+     prose rules in ArticleLayout. See the note in AreaAtAGlance.astro. */
+  .combine-with h2 {
+    margin: 0.35rem 0 0.5rem;
+    font-size: clamp(1.5rem, 3vw, 2rem);
+  }
+
+  .combine-with .combine-with__intro {
+    margin: 0 0 var(--space-4);
+    color: var(--muted);
+  }
+
+  .combine-with .combine-with__list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--space-3);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .combine-with .combine-with__item {
+    display: block;
+    padding: var(--space-3);
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+  }
+
+  .combine-with .combine-with__item::marker {
+    content: none;
+  }
+
+  .combine-with .combine-with__head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-2);
+  }
+
+  .combine-with .combine-with__head h3 {
+    margin: 0;
+    font-size: 1.05rem;
+  }
+
+  .combine-with__walk {
+    flex-shrink: 0;
+    font-size: 0.8rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .combine-with .combine-with__note {
+    margin: 0.4rem 0 0;
+    font-size: 0.95rem;
+    color: var(--muted);
+  }
+
+  @media (max-width: 48rem) {
+    .combine-with .combine-with__list {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

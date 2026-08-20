@@ -16,11 +16,11 @@ const { site } = Astro.props;
       <SiteLogo site={site} />
       
       <!-- Desktop Right-side Search Form -->
-      <form class="header-search desktop-search" action="/guides/" method="get" role="search">
+      <form class="header-search desktop-search" action="/search" method="get" role="search">
         <input 
           type="search" 
           name="q" 
-          placeholder="Search 130+ London guides..." 
+          placeholder="Search guides, food and things to do" 
           aria-label="Search guides"
         />
         <button type="submit" aria-label="Search" class="search-btn">
@@ -38,11 +38,11 @@ const { site } = Astro.props;
         </summary>
         <div class="mobile-nav-dropdown">
           <!-- Prominent Search Bar inside Mobile Dropdown -->
-          <form class="mobile-search-form" action="/guides/" method="get" role="search">
+          <form class="mobile-search-form" action="/search" method="get" role="search">
             <input 
               type="search" 
               name="q" 
-              placeholder="Search 130+ London guides..." 
+              placeholder="Search guides, food and things to do" 
               aria-label="Search guides"
             />
             <button type="submit" aria-label="Search" class="mobile-search-btn">

@@ -58,7 +58,7 @@ Do not schedule all of them after full sightseeing days.
 
 ## Related guides
 
-- [Best London areas](/articles/best-areas-to-stay-and-visit-london/)
+- [Best London areas to visit](/articles/best-areas-to-visit-london/)
 - [Three days in London](/articles/three-days-in-london-itinerary/)
 - [One-day plans by interest](/articles/one-day-london-itineraries-by-interest/)
 - [River boats guide](/articles/how-to-use-london-river-boats/)

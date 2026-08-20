@@ -66,7 +66,7 @@ The London Underground covers **11 color-coded lines** serving 272 stations. It 
 > 🚀 **Tube Pro Tip:** Walking between close stations in Central London (such as Leicester Square to Covent Garden) is often faster than going down into the Tube station!
 
 * **Comprehensive Guide:** [How to Use the London Underground](/articles/how-to-use-the-london-underground/)
-* **Train Lines & Boundaries:** [Which London Train Lines Accept Oyster?](/articles/oyster-card-train-lines-in-london/)
+* **Choosing a Line:** [London Tube and Rail Lines Guide](/articles/london-tube-and-rail-lines-guide/)
 
 ---
 
@@ -145,7 +145,7 @@ Crosses the Thames between Greenwich Peninsula (The O2) and Royal Docks. Offers 
 
 * **Ticket Perks:** Presenting a show ticket for **The O2 Arena** at the terminal office qualifies you for a **50% discount** on cable car flights.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="London Hop On Buses" data-gyg-partner-id="WWP7I0R" data-gyg-q="London river bus cable"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/s/%3Fq=Alanya&amp;lc=918&amp;et=865023&amp;searchSource=3&amp;src=search_bar">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="London Hop On Buses" data-gyg-partner-id="WWP7I0R" data-gyg-q="London river bus cable"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/s/%3Fq=London&amp;lc=57&amp;et=292175&amp;searchSource=3&amp;src=search_bar">GetYourGuide</a></span></div>
 
 ---
 
@@ -181,7 +181,7 @@ Explore our in-depth guides for specific networks, airport transfers, and ticket
 * 🚌 **[How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)** – Boarding rules, routes, and the 60-min Hopper.
 * 🚢 **[How to Use London River Boats](/articles/how-to-use-london-river-boats/)** – Pier maps, Uber Boat zones, and scenic cruises.
 * 💳 **[Oyster Card & Contactless Guide](/articles/oyster-card-guide-london/)** – Oyster fees vs contactless bank cards.
-* 🗺️ **[Which Train Lines Accept Oyster?](/articles/oyster-card-train-lines-in-london/)** – Complete map of rail boundaries.
+* 🗺️ **[London Tube and Rail Lines Guide](/articles/london-tube-and-rail-lines-guide/)** – Every line rated for crowding and comfort, with the best exit for each attraction.
 * 💷 **[London Transport Fares & Costs 2026](/articles/london-public-transport-costs-and-fares/)** – Peak rates, caps, and Travelcard comparisons.
 
 ### Airport Transfer Guides

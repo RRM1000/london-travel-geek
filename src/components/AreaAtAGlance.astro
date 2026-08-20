@@ -1,0 +1,235 @@
+---
+interface Station {
+  name: string;
+  lines: string[];
+}
+
+interface Props {
+  zone: string;
+  vibe: string;
+  walkability: number;
+  timeNeeded: string;
+  budget: string;
+  bestDay: string;
+  bestFor: string[];
+  nearestStations: Station[];
+}
+
+const {
+  zone,
+  vibe,
+  walkability,
+  timeNeeded,
+  budget,
+  bestDay,
+  bestFor,
+  nearestStations,
+} = Astro.props;
+
+const walkabilityLabel = `${walkability} out of 5`;
+---
+
+<section class="at-a-glance" aria-labelledby="at-a-glance-title">
+  <h2 id="at-a-glance-title" class="at-a-glance__title">At a glance</h2>
+
+  <dl class="at-a-glance__grid">
+    <div class="at-a-glance__item">
+      <dt>Vibe</dt>
+      <dd>{vibe}</dd>
+    </div>
+    <div class="at-a-glance__item">
+      <dt>Time needed</dt>
+      <dd>{timeNeeded}</dd>
+    </div>
+    <div class="at-a-glance__item">
+      <dt>Best day</dt>
+      <dd>{bestDay}</dd>
+    </div>
+    <div class="at-a-glance__item">
+      <dt>Travel zone</dt>
+      <dd>{zone}</dd>
+    </div>
+    <div class="at-a-glance__item">
+      <dt>Walkability</dt>
+      <dd>
+        <span class="at-a-glance__meter" role="img" aria-label={walkabilityLabel}>
+          {Array.from({ length: 5 }, (_, index) => (
+            <span
+              class:list={[
+                "at-a-glance__pip",
+                index < walkability && "at-a-glance__pip--on",
+              ]}
+              aria-hidden="true"
+            ></span>
+          ))}
+        </span>
+        <span class="at-a-glance__meter-value">{walkability}/5</span>
+      </dd>
+    </div>
+    <div class="at-a-glance__item">
+      <dt>Typical spend</dt>
+      <dd>{budget}</dd>
+    </div>
+  </dl>
+
+  <div class="at-a-glance__lists">
+    <div>
+      <p class="at-a-glance__label">Best for</p>
+      <ul class="at-a-glance__tags">
+        {bestFor.map((item) => <li>{item}</li>)}
+      </ul>
+    </div>
+    <div>
+      <p class="at-a-glance__label">Nearest stations</p>
+      <ul class="at-a-glance__stations">
+        {nearestStations.map((station) => (
+          <li>
+            <strong>{station.name}</strong>
+            <span>{station.lines.join(", ")}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </div>
+</section>
+
+<style>
+  /* Selectors are deliberately compounded with the block class. The article
+     prose rules in ArticleLayout are written as `.article__body :global(ul)`,
+     which compiles to specificity 0,2,1 and would otherwise beat the single
+     scoped class this component would normally need. */
+  .at-a-glance {
+    margin: var(--space-5) 0;
+    padding: var(--space-4);
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+  }
+
+  .at-a-glance .at-a-glance__title {
+    margin: 0 0 var(--space-3);
+    font-family: var(--body);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .at-a-glance .at-a-glance__grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: var(--space-3) var(--space-4);
+    margin: 0;
+    padding: 0;
+  }
+
+  .at-a-glance .at-a-glance__item dt {
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .at-a-glance .at-a-glance__item dd {
+    margin: 0.2rem 0 0;
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.35;
+  }
+
+  .at-a-glance__meter {
+    display: inline-flex;
+    gap: 3px;
+    vertical-align: middle;
+  }
+
+  .at-a-glance__pip {
+    width: 14px;
+    height: 6px;
+    border-radius: 999px;
+    background: var(--line);
+  }
+
+  .at-a-glance__pip--on {
+    background: var(--accent);
+  }
+
+  .at-a-glance__meter-value {
+    margin-left: 0.4rem;
+    font-size: 0.9rem;
+    color: var(--muted);
+  }
+
+  .at-a-glance .at-a-glance__lists {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--space-4);
+    margin-top: var(--space-3);
+    padding-top: var(--space-3);
+    border-top: 1px solid var(--line);
+  }
+
+  .at-a-glance .at-a-glance__label {
+    margin: 0 0 0.5rem;
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .at-a-glance .at-a-glance__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .at-a-glance .at-a-glance__tags li {
+    display: inline-block;
+    padding: 0.15rem 0.55rem;
+    font-size: 0.82rem;
+    background: var(--surface-strong);
+    border-radius: 999px;
+  }
+
+  .at-a-glance .at-a-glance__stations {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .at-a-glance .at-a-glance__stations li {
+    display: block;
+    margin: 0 0 0.5rem;
+    font-size: 0.88rem;
+    line-height: 1.35;
+  }
+
+  .at-a-glance .at-a-glance__stations li:last-child {
+    margin-bottom: 0;
+  }
+
+  .at-a-glance .at-a-glance__stations li::marker {
+    content: none;
+  }
+
+  .at-a-glance .at-a-glance__stations span {
+    display: block;
+    color: var(--muted);
+    font-size: 0.82rem;
+  }
+
+  @media (max-width: 48rem) {
+    .at-a-glance .at-a-glance__grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .at-a-glance .at-a-glance__lists {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

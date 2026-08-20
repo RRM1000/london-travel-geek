@@ -36,7 +36,7 @@ The best London itinerary groups nearby places and leaves room for queues, meals
 - Allow more time than a journey planner suggests when changing with children or luggage.
 - Do not book a theatre curtain five minutes after dinner is supposed to end.
 
-Use the [best areas guide](/articles/best-areas-to-stay-and-visit-london/) to choose a base, then check [transport fares](/articles/london-public-transport-costs-and-fares/) and live TfL status.
+Use the [best areas guide](/articles/best-areas-to-visit-london/) to choose a base, then check [transport fares](/articles/london-public-transport-costs-and-fares/) and live TfL status.
 
 ---
 

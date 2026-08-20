@@ -239,6 +239,33 @@
     content: "";
     pointer-events: none;
   }
+
+  /* "See all N places to eat and drink in X", injected beneath each area
+     guide's eat-and-drink table by remark-area-restaurants.mjs. Sits tight to
+     the table above it so it reads as part of that section, not as the start
+     of the next one. */
+  .area-all-restaurants {
+    margin-block: 0.75rem var(--space-5, 2rem);
+  }
+
+  .area-all-restaurants a {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.4rem;
+    padding: 0.55rem 0.95rem;
+    border: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--accent) 6%, transparent);
+    color: var(--accent);
+    font-weight: 650;
+    text-decoration: none;
+    transition: background var(--transition), border-color var(--transition);
+  }
+
+  .area-all-restaurants a:hover {
+    border-color: var(--accent);
+    background: color-mix(in srgb, var(--accent) 12%, transparent);
+  }
 }
 
 @layer utilities {

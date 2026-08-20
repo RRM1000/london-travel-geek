@@ -1,0 +1,89 @@
+---
+interface FaqItem {
+  q: string;
+  a: string;
+}
+
+interface Props {
+  items: FaqItem[];
+}
+
+const { items } = Astro.props;
+
+// Emitted alongside the visible list so the answers are eligible for FAQ rich
+// results. Kept in this component so the schema can never drift from the copy.
+const faqSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: items.map((item) => ({
+    "@type": "Question",
+    name: item.q,
+    acceptedAnswer: {
+      "@type": "Answer",
+      text: item.a,
+    },
+  })),
+});
+---
+
+{items.length > 0 && (
+  <section class="faq" aria-labelledby="faq-title">
+    <h2 id="faq-title">Common questions</h2>
+    {items.map((item) => (
+      <details class="faq__item">
+        <summary>{item.q}</summary>
+        <p>{item.a}</p>
+      </details>
+    ))}
+    <script type="application/ld+json" set:html={faqSchema} is:inline></script>
+  </section>
+)}
+
+<style>
+  /* Compounded with the block class to outrank the `.article__body :global(…)`
+     prose rules in ArticleLayout. See the note in AreaAtAGlance.astro. */
+  .faq {
+    margin: var(--space-6) 0;
+  }
+
+  .faq h2 {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+  }
+
+  .faq .faq__item {
+    padding: var(--space-3) 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .faq .faq__item summary {
+    font-weight: 600;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-2);
+  }
+
+  .faq .faq__item summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .faq .faq__item summary::after {
+    content: "+";
+    flex-shrink: 0;
+    font-size: 1.4rem;
+    line-height: 1;
+    color: var(--muted);
+    transition: transform var(--transition);
+  }
+
+  .faq .faq__item[open] summary::after {
+    transform: rotate(45deg);
+  }
+
+  .faq .faq__item p {
+    margin: var(--space-2) 0 0;
+    color: var(--muted);
+  }
+</style>
