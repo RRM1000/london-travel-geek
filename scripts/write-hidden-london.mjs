@@ -133,6 +133,17 @@ const HOODS = {
   "Bayswater":          { zone: "1",   district: "West" },
   "Dalston":            { zone: "2",   district: "East" },
   "St James's":         { zone: "1",   district: "Central" },
+  // Not one of the 27 area guides yet - added anyway per the standing rule
+  // that sheet content isn't limited to areas with a guide page already.
+  "Vauxhall":           { zone: "1–2", district: "South" },
+  "Walthamstow":        { zone: "3",   district: "East" },
+  "Charlton":           { zone: "3–4", district: "South" },
+  "Peckham":            { zone: "2",   district: "South" },
+  "Cricklewood":        { zone: "3",   district: "North" },
+  "Crouch End":         { zone: "3",   district: "North" },
+  "Clerkenwell":        { zone: "1",   district: "Central" },
+  "Lewisham":           { zone: "2–3", district: "South" },
+  "Lambeth":            { zone: "1–2", district: "South" },
 };
 
 const base = {
@@ -1058,6 +1069,422 @@ const ROWS = [
     whyGo: "A 2008 piece right on the Thames Path, showing a boy fishing - part of a small cluster of riverside Banksy pieces along this stretch of the south bank.",
     opSummary: "Outdoors on the riverside path, exposed to weather - one to see while it lasts.",
     source: "graffitistreet.com 2026 survey",
+  },
+
+  // ========== FIFTH PASS: filming locations (fourth and final type) ==========
+  // NOT restricted to areas with a guide already - see the "don't restrict to
+  // existing area guides" standing rule. Vauxhall's MI6 building has no
+  // matching guide and ships with areaGuide left blank rather than being
+  // dropped or force-fitted into a nearby one.
+  //
+  // Cross-checked against activities.json and hiddenLondon.json first.
+  // Several famous "filming location" landmarks (Platform 9¾, the National
+  // Gallery, Somerset House, Piccadilly Circus, the Old Royal Naval College)
+  // were DELIBERATELY LEFT OUT here - they're major standalone attractions
+  // that deserve a proper Activities row of their own (hours, price, booking)
+  // rather than the thin filming-location treatment, and Activities doesn't
+  // have them yet. Worth a future Activities pass, not this one.
+  //
+  // A few rows dual-cover a building that's already a Restaurant or Hotel
+  // entry (Nobu, the Savoy) - same pattern as the Handel/Hendrix plaques:
+  // the film angle is a genuinely different reason to feature the same
+  // address, not a duplicate.
+  {
+    ...base, slug: "notting-hill-blue-door", name: "Notting Hill's Blue Door", type: "filming-location", scheme: "",
+    subject: "Notting Hill (1999) - William Thacker's flat",
+    hood: "Notting Hill", borough: "Kensington and Chelsea", areaGuide: "notting-hill-area-guide",
+    address: "280 Westbourne Park Road",
+    whyGo: "The most photographed front door in west London. Screenwriter Richard Curtis owned the real house; when the door was auctioned for charity the new owners repainted it a different colour, but tourists were so confused they painted it blue again.",
+    opSummary: "A private residential building - viewable from the street only. Be considerate; people live here.",
+    source: "movie-locations.com Notting Hill location list, cross-checked against Trainline and Hooked on Houses",
+  },
+  {
+    ...base, slug: "notting-hill-travel-bookshop", name: "Notting Hill's \"Travel Bookshop\"", type: "filming-location", scheme: "",
+    subject: "Notting Hill (1999) - William's bookshop",
+    hood: "Notting Hill", borough: "Kensington and Chelsea", areaGuide: "notting-hill-area-guide",
+    address: "142 Portobello Road",
+    whyGo: "The film's travel bookshop was actually an antiques arcade dressed for filming - the real bookshop that partly inspired the story, on Blenheim Crescent nearby, closed in 2011 and is now a gift shop that leans into the connection.",
+    opSummary: "Now a shop at street level - browsable, not a museum.",
+    source: "movie-locations.com and Trainline's Notting Hill location guide cross-checked",
+  },
+  {
+    ...base, slug: "love-actually-st-lukes-mews", name: "Love Actually's Cue-Card Doorstep", type: "filming-location", scheme: "",
+    subject: "Love Actually (2003) - Mark's silent declaration",
+    hood: "Notting Hill", borough: "Kensington and Chelsea", areaGuide: "notting-hill-area-guide",
+    address: "27 St Luke's Mews",
+    whyGo: "The doorstep where Mark holds up handwritten cue cards to declare his love for Juliet without saying a word - one of the most quoted scenes of the film, on a genuinely pretty pastel mews.",
+    opSummary: "A private residential mews - viewable from the street only.",
+    source: "Trainline's Love Actually location guide, cross-checked against Country & Town House",
+  },
+  {
+    ...base, slug: "paddington-alices-antiques", name: "Paddington's Mr Gruber's Shop (Alice's Antiques)", type: "filming-location", scheme: "",
+    subject: "Paddington (2014) - Mr Gruber's antique shop",
+    hood: "Notting Hill", borough: "Kensington and Chelsea", areaGuide: "notting-hill-area-guide",
+    address: "86 Portobello Road",
+    whyGo: "A real, long-running antiques shop that played Mr Gruber's shop in the Paddington films - genuinely worth a browse in its own right, film connection aside.",
+    opSummary: "A working antiques shop with normal daytime hours.",
+    source: "Trainline's Paddington filming-locations guide",
+  },
+  {
+    ...base, slug: "notting-hill-coronet-cinema", name: "Notting Hill's Coronet Theatre", type: "filming-location", scheme: "",
+    subject: "Notting Hill (1999) - William's cinema scene",
+    hood: "Notting Hill", borough: "Kensington and Chelsea", areaGuide: "notting-hill-area-guide",
+    address: "103 Notting Hill Gate",
+    whyGo: "A former cinema, now a theatre, where William watches a sci-fi film early in the story - a handsome Victorian building on Notting Hill Gate itself.",
+    opSummary: "Now a working theatre with its own programme and box office hours.",
+    source: "movie-locations.com Notting Hill location list",
+  },
+  {
+    ...base, slug: "sherlock-north-gower-street", name: "Sherlock's 221B (North Gower Street)", type: "filming-location", scheme: "",
+    subject: "BBC Sherlock - 221B Baker Street exterior and Speedy's Cafe",
+    hood: "Bloomsbury", borough: "Camden", areaGuide: "bloomsbury-area-guide",
+    address: "187 North Gower Street",
+    whyGo: "The BBC series filmed its 221B exterior here rather than on the real, much busier Baker Street - the flat above a genuine sandwich bar, Speedy's, which leaned into the connection and is still trading.",
+    opSummary: "Speedy's Cafe is a real, working sandwich bar with normal daytime hours - go in and get a coffee, not just a photo.",
+    source: "Londonist's BBC Sherlock location guide, cross-checked against bakerstreet.fandom.com",
+  },
+  {
+    ...base, slug: "paddington-chalcot-crescent", name: "Paddington's Brown Family Home", type: "filming-location", scheme: "",
+    subject: "Paddington (2014/2017) - 32 Windsor Gardens exterior",
+    hood: "Camden Town", borough: "Camden", areaGuide: "camden-area-guide",
+    address: "Chalcot Crescent, Primrose Hill",
+    whyGo: "The fictional \"32 Windsor Gardens\" was actually filmed on this pastel-painted Primrose Hill crescent - one of the most Instagrammed residential streets in London even without the film connection.",
+    opSummary: "A private residential street - viewable from the street only, and popular enough that being considerate of residents matters.",
+    source: "Trainline's Paddington filming-locations guide, cross-checked against almostginger.com",
+  },
+  {
+    ...base, slug: "love-actually-grosvenor-chapel", name: "Love Actually's Wedding Chapel", type: "filming-location", scheme: "",
+    subject: "Love Actually (2003) - Juliet and Peter's wedding",
+    hood: "Mayfair", borough: "Westminster", areaGuide: "mayfair-area-guide",
+    address: "24 South Audley Street (Grosvenor Chapel)",
+    whyGo: "A working 18th-century chapel, tucked just off South Audley Street, used for the wedding that opens Mark and Juliet's storyline.",
+    opSummary: "An active place of worship - respect service times; open to visitors outside them.",
+    source: "GoodToKnow's Love Actually location guide",
+  },
+  {
+    ...base, slug: "love-actually-ema-house", name: "Love Actually's Office (EMA House)", type: "filming-location", scheme: "",
+    subject: "Love Actually (2003) - Harry and Sarah's workplace",
+    hood: "Shoreditch", borough: "Hackney", areaGuide: "shoreditch-area-guide",
+    address: "Tabernacle Street at Clere Street",
+    whyGo: "The office building where Alan Rickman and Emma Thompson's characters work - an unassuming Shoreditch corner most passersby would never connect to the film.",
+    opSummary: "A commercial office building - viewable from the street only.",
+    source: "GoodToKnow's Love Actually location guide",
+  },
+  {
+    ...base, slug: "notting-hill-nobu-park-lane", name: "Notting Hill's Dinner Date (Nobu Old Park Lane)", type: "filming-location", scheme: "",
+    subject: "Notting Hill (1999) - William and Anna's restaurant date",
+    hood: "Mayfair", borough: "Westminster", areaGuide: "mayfair-area-guide",
+    address: "19 Old Park Lane",
+    whyGo: "Where William takes Anna Scott to dinner - Nobu Old Park Lane is a genuine, still-trading restaurant (already on this site as a place to eat), and the film scene is a different reason to know the address, not a duplicate of that listing.",
+    opSummary: "A working, bookable restaurant - see the Restaurants section for how to book.",
+    source: "movie-locations.com Notting Hill location list",
+  },
+  {
+    ...base, slug: "notting-hill-savoy-proposal", name: "Notting Hill's Proposal Scene (The Savoy)", type: "filming-location", scheme: "",
+    subject: "Notting Hill (1999) - William's press-conference proposal",
+    hood: "Covent Garden", borough: "Westminster", areaGuide: "covent-garden-area-guide",
+    address: "1 Savoy Hill (The Savoy)",
+    whyGo: "William proposes to Anna at a press conference staged here - the Savoy is already on this site as a place to stay; the film scene is the reason to know it beyond the room rate.",
+    opSummary: "A working luxury hotel - see the Hotels section for how to book a stay.",
+    source: "movie-locations.com Notting Hill location list",
+  },
+  {
+    ...base, slug: "bond-rules-restaurant", name: "Bond's Favourite Restaurant (Rules)", type: "filming-location", scheme: "",
+    subject: "Spectre (2015) - James Bond's go-to restaurant",
+    hood: "Covent Garden", borough: "Westminster", areaGuide: "covent-garden-area-guide",
+    address: "35 Maiden Lane", postcode: "WC2E 7LB",
+    whyGo: "Rules is London's oldest restaurant, open since 1798, and was written into Spectre as Bond's own favourite - a rare case of a film using a real restaurant's own reputation rather than dressing up a stand-in.",
+    opSummary: "A working, bookable restaurant with its own long history independent of Bond.",
+    source: "New York Habitat's James Bond London locations piece",
+  },
+  {
+    ...base, slug: "bond-mi6-vauxhall", name: "Bond's MI6 Headquarters (SIS Building)", type: "filming-location", scheme: "",
+    subject: "James Bond franchise - the real SIS/MI6 building",
+    hood: "Vauxhall", borough: "Lambeth", areaGuide: "",
+    address: "85 Vauxhall Cross",
+    whyGo: "The genuine home of the UK's Secret Intelligence Service, on the river at Vauxhall Cross, has appeared as MI6 headquarters in almost every Bond film since GoldenEye - one of very few Bond locations that's exactly what it's pretending to be.",
+    opSummary: "A working government building - viewable from the river or the street only, no public access.",
+    source: "a&o Hostels and New York Habitat James Bond location roundups cross-checked",
+  },
+  {
+    ...base, slug: "skyfall-four-seasons-canary-wharf", name: "Skyfall's \"Shanghai\" Pool (Four Seasons Canary Wharf)", type: "filming-location", scheme: "",
+    subject: "Skyfall (2012) - the rooftop pool standing in for Shanghai",
+    hood: "Canary Wharf", borough: "Tower Hamlets", areaGuide: "canary-wharf-area-guide",
+    address: "Westferry Circus",
+    whyGo: "Daniel Craig's Shanghai hotel pool scene was actually filmed at the Four Seasons in Canary Wharf - a very London building standing in for the other side of the world.",
+    opSummary: "A working hotel - the pool is for guests, not a public sight.",
+    source: "MI6-HQ.com and thejamesbonddossier.com Skyfall location coverage cross-checked",
+  },
+  {
+    ...base, slug: "bridgerton-rangers-house", name: "Bridgerton House (Ranger's House)", type: "filming-location", scheme: "",
+    subject: "Bridgerton (2020-) - the Bridgerton family home exterior",
+    hood: "Greenwich", borough: "Greenwich", areaGuide: "greenwich-area-guide",
+    address: "Chesterfield Walk (Ranger's House)", postcode: "SE10 8QX",
+    whyGo: "An ivy-covered Georgian villa on the edge of Greenwich Park doubles as the Bridgerton family's London home - genuinely one of the prettiest house exteriors in Greenwich even without the show.",
+    opSummary: "An English Heritage property with its own paid entry and opening hours (it also houses the Wernher art collection) - check before visiting.",
+    source: "getyourguide.com Bridgerton filming-locations roundup",
+  },
+  {
+    ...base, slug: "harry-potter-australia-house", name: "Gringotts Wizarding Bank (Australia House)", type: "filming-location", scheme: "",
+    subject: "Harry Potter and the Philosopher's Stone (2001) - Gringotts interior",
+    hood: "Covent Garden", borough: "Westminster", areaGuide: "covent-garden-area-guide",
+    address: "Strand (Australia House)",
+    whyGo: "Australia House's ornate banking hall - a real working diplomatic building - was used for Gringotts Wizarding Bank's interior in the first Harry Potter film.",
+    opSummary: "A working diplomatic mission - not generally open for casual visits; viewable from the street only.",
+    source: "a&o Hostels' Harry Potter/Bond London filming-locations piece",
+  },
+
+  // ------- SIXTH PASS: the rest of Banksy's August 2024 animal series -------
+  // Nine pieces appeared on nine consecutive days, Aug 5-13 2024. Only two
+  // besides the Chelsea elephants (already in the fourth pass) are still
+  // free, street-viewable and undamaged: the goat, monkeys, wolf and big cat
+  // were removed or stolen; the piranhas moved to the Museum of London and
+  // the gorilla's original was pulled from London Zoo and replaced with a
+  // replica behind paid admission - none of those four fit "free, self-
+  // guided, on the street" any more, so they are deliberately left out.
+  // Neither of these two has an area guide yet - added anyway.
+  {
+    ...base, slug: "banksy-walthamstow-pelicans", name: "Banksy's Pelicans", type: "street-art", scheme: "",
+    subject: "Two pelicans reaching for fish above a fish and chip shop - part of the August 2024 animal series",
+    hood: "Walthamstow", borough: "Waltham Forest", areaGuide: "",
+    address: "Pretoria Avenue",
+    whyGo: "Day five of Banksy's nine-day August 2024 animal spree - two pelicans painted above a fish and chip shop, seemingly eyeing up the fish inside. One of only two pieces from that series still on the street undamaged.",
+    opSummary: "Street-level, above a working shop. Still present and in good condition as of the most recent surveys.",
+    source: "Wikipedia (\"Banksy's London animal series\"), cross-checked against graffitistreet.com and dogonews.com",
+  },
+  {
+    ...base, slug: "banksy-charlton-rhino", name: "Banksy's Rhinoceros", type: "street-art", scheme: "",
+    subject: "A rhinoceros appearing to mount a car - the final free-standing survivor of the August 2024 animal series",
+    hood: "Charlton", borough: "Greenwich", areaGuide: "",
+    address: "Westmoor Street",
+    whyGo: "Day eight of the same nine-day series - a large rhino stencilled as though mounting a parked car below it, a cheekier piece than most of the set.",
+    opSummary: "Street-level, but has since been tagged with a white dollar sign and a letter - it's a damaged survivor, not a pristine one. Still worth seeing, just don't expect it untouched.",
+    source: "Wikipedia (\"Banksy's London animal series\"), cross-checked against graffitistreet.com",
+  },
+
+  // ------------------- SEVENTH PASS: more filming locations -------------------
+  // Broader spread requested explicitly - not limited to areas already
+  // covered. Cross-checked against activities.json/hiddenLondon.json first;
+  // St Paul's Cathedral (Fantastic Beasts) and Highgate Cemetery (also
+  // Fantastic Beasts) were left out as duplicates/major-landmark cases, same
+  // reasoning as the fifth pass.
+  {
+    ...base, slug: "kingsman-huntsman-savile-row", name: "Kingsman's Tailor Shop (Huntsman)", type: "filming-location", scheme: "",
+    subject: "Kingsman: The Secret Service (2014) and sequels - the Kingsman shop exterior",
+    hood: "Mayfair", borough: "Westminster", areaGuide: "mayfair-area-guide",
+    address: "11 Savile Row",
+    whyGo: "Huntsman & Sons, tailoring on this spot since 1849 and once dressed Winston Churchill, is the real shop behind Kingsman's fictional tailors - the exterior in every film is genuine, even though the interior was rebuilt on a soundstage because the real shop was too small to film in.",
+    opSummary: "A working bespoke tailor, not a museum - a small gold \"Kingsman\" plaque by the door is the only nod to the films. Expect selfie-taking fans outside.",
+    source: "Wikipedia (\"The Kingsman Shop\"), Time Out and Huntsman's own site cross-checked",
+  },
+  {
+    ...base, slug: "bridget-jones-flat-borough-market", name: "Bridget Jones's Flat", type: "filming-location", scheme: "",
+    subject: "Bridget Jones's Diary (2001) - Bridget's flat above the Globe Tavern",
+    hood: "South Bank", borough: "Southwark", areaGuide: "south-bank-area-guide",
+    address: "8 Bedale Street, Borough Market",
+    whyGo: "Bridget's flat exterior sits directly above the Globe Tavern on the edge of Borough Market - the interiors were shot at Elstree, but the building, the pub and the market below are all real and still there.",
+    opSummary: "A private residential flat above a working pub - viewable from the street/market only.",
+    source: "Trainline and Timeout's Bridget Jones location coverage cross-checked",
+  },
+  {
+    ...base, slug: "layer-cake-craig-flat-kensington", name: "Layer Cake's Flat (Daniel Craig)", type: "filming-location", scheme: "",
+    subject: "Layer Cake (2004) - the unnamed protagonist's flat, played by Daniel Craig",
+    hood: "Kensington", borough: "Kensington and Chelsea", areaGuide: "kensington-area-guide",
+    address: "7 Queen's Gate Mews",
+    whyGo: "Daniel Craig's character lives here in Guy Ritchie's Layer Cake, a year before Craig was cast as Bond - a nice bit of casting trivia hiding on an ordinary Kensington mews.",
+    opSummary: "A private residential mews - viewable from the street only.",
+    source: "tokyofox.net and movie-locations.com Layer Cake coverage cross-checked",
+  },
+  {
+    ...base, slug: "layer-cake-west-india-quay", name: "Layer Cake's Rooftop Scene", type: "filming-location", scheme: "",
+    subject: "Layer Cake (2004) - the rooftop-dangling scene",
+    hood: "Canary Wharf", borough: "Tower Hamlets", areaGuide: "canary-wharf-area-guide",
+    address: "West India Quay",
+    whyGo: "One of the film's tensest scenes was shot on the docks here - worth knowing if you're already in Canary Wharf for the Skyfall pool a short walk away.",
+    opSummary: "A public dockside area, viewable any time.",
+    source: "tokyofox.net Layer Cake location coverage",
+  },
+  {
+    ...base, slug: "snatch-sols-pawn-shop", name: "Snatch's Pawn Shop", type: "filming-location", scheme: "",
+    subject: "Snatch (2000) - Sol's pawn shop",
+    hood: "Bethnal Green", borough: "Tower Hamlets", areaGuide: "hackney-area-guide",
+    address: "88 Teesdale Street",
+    whyGo: "One of several genuine East End addresses Guy Ritchie used in Snatch - an ordinary Bethnal Green street standing in for the criminal underworld of the film.",
+    opSummary: "A private/commercial building - viewable from the street only.",
+    source: "tokyofoxbeyondthemovies.wordpress.com and movie-locations.com Snatch coverage cross-checked",
+  },
+  {
+    ...base, slug: "snatch-franky-tailor-town-hall", name: "Snatch's Tailor (Bethnal Green Town Hall)", type: "filming-location", scheme: "",
+    subject: "Snatch (2000) - Franky Four Fingers's tailor",
+    hood: "Bethnal Green", borough: "Tower Hamlets", areaGuide: "hackney-area-guide",
+    address: "Cambridge Heath Road at Patriot Square",
+    whyGo: "The historic 1910 town hall building - already on this site as the Town Hall Hotel - played the tailor's shop in Snatch. The film angle is a genuinely different reason to know this building beyond staying there.",
+    opSummary: "Now a hotel - see the Hotels section for how to book a stay.",
+    source: "movie-locations.com Snatch coverage",
+  },
+  {
+    ...base, slug: "snatch-doug-diamond-store", name: "Snatch's Diamond Store", type: "filming-location", scheme: "",
+    subject: "Snatch (2000) - Doug the Head's diamond store",
+    hood: "City of London", borough: "City of London", areaGuide: "city-of-london-area-guide",
+    address: "Premier House, 12-13 Hatton Garden",
+    whyGo: "Doug the Head's diamond shop in Snatch is on Hatton Garden, London's real diamond district - and his \"local\" in the film is Ye Olde Mitre, already on this site, a couple of doors down.",
+    opSummary: "A working commercial building on Hatton Garden - viewable from the street only.",
+    source: "movie-locations.com Snatch coverage",
+  },
+  {
+    ...base, slug: "lock-stock-hatchet-harry-cheshire-street", name: "Lock, Stock's Sex Shop (Cheshire Street)", type: "filming-location", scheme: "",
+    subject: "Lock, Stock and Two Smoking Barrels (1998) - Hatchet Harry's shop",
+    hood: "Shoreditch", borough: "Tower Hamlets", areaGuide: "shoreditch-area-guide",
+    address: "42-44 Cheshire Street",
+    whyGo: "Guy Ritchie's breakout film used this Shoreditch street for Hatchet Harry's business - one of several East London corners across his early films that still look almost identical today.",
+    opSummary: "A private/commercial building - viewable from the street only.",
+    source: "tokyofox.net Lock Stock location coverage",
+  },
+  {
+    ...base, slug: "killing-eve-floris-jermyn-street", name: "Killing Eve's Perfumer (Floris)", type: "filming-location", scheme: "",
+    subject: "Killing Eve (2018-) - Villanelle visits Floris",
+    hood: "St James's", borough: "Westminster", areaGuide: "westminster-area-guide",
+    address: "89 Jermyn Street",
+    whyGo: "Floris is a genuine royal-warrant perfumer that's traded on Jermyn Street since 1730 - Villanelle's visit in Killing Eve used the real shop, not a set, which is unusual for the show.",
+    opSummary: "A working shop with normal retail hours - worth a browse regardless of the show.",
+    source: "Londonist's Killing Eve location coverage, cross-checked against findthatlocation.com",
+  },
+  {
+    ...base, slug: "killing-eve-mi6-warwick-house-street", name: "Killing Eve's Old MI6 Office", type: "filming-location", scheme: "",
+    subject: "Killing Eve (2018-) - Eve and Bill's original office, off Trafalgar Square",
+    hood: "Westminster", borough: "Westminster", areaGuide: "westminster-area-guide",
+    address: "4 Warwick House Street",
+    whyGo: "A narrow street just off Trafalgar Square used for Eve and Bill's original MI6 office in series one - easy to walk straight past without noticing it's there.",
+    opSummary: "A private/commercial building - viewable from the street only.",
+    source: "findthatlocation.com Killing Eve location guide",
+  },
+  {
+    ...base, slug: "four-weddings-charles-flat-highbury", name: "Four Weddings and a Funeral's Flat", type: "filming-location", scheme: "",
+    subject: "Four Weddings and a Funeral (1994) - Charles's flat",
+    hood: "Islington", borough: "Islington", areaGuide: "islington-area-guide",
+    address: "22 Highbury Terrace", postcode: "N5 1UP",
+    whyGo: "Hugh Grant's character lives here in the film that made Richard Curtis's name before he wrote Notting Hill and Love Actually - a handsome terrace on the northwest corner of Highbury Fields.",
+    opSummary: "A private residential building - viewable from the street only.",
+    source: "movie-locations.com and almostginger.com Four Weddings location coverage cross-checked",
+  },
+  {
+    ...base, slug: "dark-knight-farmiloe-clerkenwell", name: "Gotham City Police Station (Farmiloe Building)", type: "filming-location", scheme: "",
+    subject: "Batman Begins (2005) and The Dark Knight Rises (2012) - Gotham City Police Department interiors",
+    hood: "Clerkenwell", borough: "Islington", areaGuide: "",
+    address: "28-36 St John Street",
+    whyGo: "A grand Victorian former lead-manufacturing warehouse used for Gotham's police HQ interiors across two Batman films - one of London's most-filmed derelict buildings before its own restoration.",
+    opSummary: "A private commercial building - viewable from the street only.",
+    source: "ScreenRant and tokyofox.net Dark Knight location coverage cross-checked",
+  },
+  {
+    ...base, slug: "dark-knight-rises-greenwich-cafe", name: "The Dark Knight Rises's Italian Cafe (Old Royal Naval College)", type: "filming-location", scheme: "",
+    subject: "The Dark Knight Rises (2012) - Alfred spots Bruce and Selina",
+    hood: "Greenwich", borough: "Greenwich", areaGuide: "greenwich-area-guide",
+    address: "Old Royal Naval College",
+    whyGo: "The riverside colonnades here stood in for a Florence street cafe in the film's final scene - a different Greenwich landmark angle from the Bridgerton connection already on this site.",
+    opSummary: "Free grounds, open daily; the buildings themselves have their own separate opening hours and some charge for entry.",
+    source: "ScreenRant's Dark Knight Rises location coverage",
+  },
+  {
+    ...base, slug: "bohemian-rhapsody-air-studios-hampstead", name: "Bohemian Rhapsody's Rehearsal Studio (Air Studios)", type: "filming-location", scheme: "",
+    subject: "Bohemian Rhapsody (2018) - the band rehearsing before Live Aid",
+    hood: "Hampstead", borough: "Camden", areaGuide: "hampstead-area-guide",
+    address: "Lyndhurst Road",
+    whyGo: "A genuine working recording studio, converted from a church, used for the film's rehearsal scenes - Air Studios has recorded film scores and major albums for decades, film connection aside.",
+    opSummary: "A working commercial recording studio - not open to casual visitors, viewable from the street only.",
+    source: "movie-locations.com Bohemian Rhapsody location coverage",
+  },
+  {
+    ...base, slug: "imitation-game-lethaby-holborn", name: "The Imitation Game's MI6 (Lethaby Building)", type: "filming-location", scheme: "",
+    subject: "The Imitation Game (2014) - MI6 headquarters interiors",
+    hood: "Holborn", borough: "Camden", areaGuide: "bloomsbury-area-guide",
+    address: "Southampton Row at Theobald's Road",
+    whyGo: "A Central Saint Martins building doubled as MI6's wartime headquarters for Benedict Cumberbatch's Alan Turing to walk through - a working art-school building most passersby would never connect to the film.",
+    opSummary: "A working educational building - viewable from the street only.",
+    source: "thecinemaholic.com and moviemaps.org Imitation Game location coverage cross-checked",
+  },
+  {
+    ...base, slug: "shaun-of-the-dead-crouch-end", name: "Shaun of the Dead's Corner Shop", type: "filming-location", scheme: "",
+    subject: "Shaun of the Dead (2004) - Shaun's regular Coke-and-Cornetto run",
+    hood: "Crouch End", borough: "Haringey", areaGuide: "",
+    address: "96 Weston Park",
+    whyGo: "Still a genuine, working corner shop (now a Londis) - the one Simon Pegg's character walks past a zombie apocalypse without noticing, one of several Crouch End addresses used across the film.",
+    opSummary: "A working convenience shop with normal daily hours.",
+    source: "Trainline's Shaun of the Dead location guide, cross-checked against Flickr documentation",
+  },
+
+  // -------------- EIGHTH PASS: the rest of the 2024 animal series --------------
+  // Goat, Wolf, Big Cat and Monkeys are NOT included - all four are fully
+  // gone (removed for building works, stolen, taken down same-day, or
+  // removed by TfL) with nothing left to see anywhere, per instruction: if
+  // it was removed with no replacement, don't add a row for it at all.
+  // Piranhas moved rather than vanished, so it's filed at its new home - the
+  // museum, not the original street corner - per instruction: if it moved,
+  // add the new location, not the old one with a "moved" caveat.
+  {
+    ...base, slug: "banksy-piranhas-london-museum", name: "Banksy's Piranhas (at the London Museum)", type: "street-art", scheme: "",
+    subject: "Day seven of the August 2024 animal series - a school of fish swimming inside a glass-panelled police telephone box",
+    hood: "City of London", borough: "City of London", areaGuide: "city-of-london-area-guide",
+    address: "London Museum, West Smithfield",
+    whyGo: "Banksy painted a school of piranhas onto the glass panels of a real police telephone box near St Paul's, turning it into what looked like a fish tank. The City of London Corporation donated the box to the new London Museum, where it goes on permanent public display.",
+    opSummary: "The London Museum's new Smithfield building opens 28 November 2026 - check the museum is open and the piece is on display before visiting; it's a museum object now, not a street piece.",
+    source: "Smithsonian Magazine, ArtNews and Londonist coverage of the museum donation, cross-checked against the museum's own 2026 opening announcement",
+  },
+  {
+    ...base, slug: "banksy-london-zoo-gorilla", name: "Banksy's Gorilla (original REMOVED, replica in place)", type: "street-art", scheme: "",
+    subject: "Day nine of the August 2024 animal series - the finale, a gorilla lifting the zoo's shutter",
+    hood: "Camden Town", borough: "Camden", areaGuide: "camden-area-guide",
+    address: "London Zoo, Regent's Park",
+    whyGo: "The finale of the nine-day series - a gorilla appearing to lift the zoo's roller shutter to free a sea lion and several birds, on the actual entrance gate of London Zoo.",
+    opSummary: "The ORIGINAL was removed by the zoo for safekeeping once crowds became unmanageable. A replica now stands in its place with a nearby sign reading \"Banksy woz ere\" and an apology to disappointed fans. Seeing the replica requires paid admission to London Zoo - it is no longer a free street piece.",
+    source: "BBC News, ArtNews and Euronews coverage of the removal and replica, cross-checked",
+  },
+
+  // -------------------- NINTH PASS: 28 Days/Weeks Later --------------------
+  {
+    ...base, slug: "28-days-later-westminster-bridge", name: "28 Days Later's Empty Westminster Bridge", type: "filming-location", scheme: "",
+    subject: "28 Days Later (2002) - Jim's walk through a deserted London",
+    hood: "Westminster", borough: "Westminster", areaGuide: "westminster-area-guide",
+    address: "Westminster Bridge",
+    whyGo: "The single most iconic shot of the film - Cillian Murphy's character crossing a totally empty Westminster Bridge toward Parliament. No CGI: the crew held up early-morning traffic for brief windows over several days to get the streets genuinely empty.",
+    opSummary: "A public bridge, always accessible - obviously never empty like the film today.",
+    source: "ScreenRant and Time Out's \"how the bridge scene was filmed\" pieces, cross-checked",
+  },
+  {
+    ...base, slug: "28-days-later-horse-guards-parade", name: "28 Days Later's Horse Guards Parade Scene", type: "filming-location", scheme: "",
+    subject: "28 Days Later (2002) - Jim wandering through deserted central London",
+    hood: "Westminster", borough: "Westminster", areaGuide: "westminster-area-guide",
+    address: "Horse Guards Parade",
+    whyGo: "Jim trudges through here and up the Mall to the Duke of York Steps, past useless drifting banknotes - part of the same empty-London sequence as the Westminster Bridge shot.",
+    opSummary: "A public parade ground, always accessible outside ceremonial events.",
+    source: "ScreenRant's 28 Days Later location coverage",
+  },
+  {
+    ...base, slug: "28-days-later-centre-point", name: "28 Days Later's Car Alarm Scene (Centre Point)", type: "filming-location", scheme: "",
+    subject: "28 Days Later (2002) - Jim sets off a car alarm at St Giles Circus",
+    hood: "Soho", borough: "Camden", areaGuide: "soho-area-guide",
+    address: "St Giles Circus, Tottenham Court Road",
+    whyGo: "The same spot where a Banksy piece appeared in 2025 - the film sequence has Jim detour east past the Bank of England before setting off a car alarm here, a different reason to know this corner than the street art.",
+    opSummary: "A busy public junction, viewable any time.",
+    source: "ScreenRant's 28 Days Later location coverage",
+  },
+  {
+    ...base, slug: "28-weeks-later-south-quay-footbridge", name: "28 Weeks Later's Isle of Dogs (South Quay Footbridge)", type: "filming-location", scheme: "",
+    subject: "28 Weeks Later (2007) - \"District 1\", the quarantine zone",
+    hood: "Canary Wharf", borough: "Tower Hamlets", areaGuide: "canary-wharf-area-guide",
+    address: "South Quay Footbridge",
+    whyGo: "The Isle of Dogs plays \"District 1\", the film's US-military quarantine zone - its high-rises and water on three sides made it a genuinely plausible containment site, and this footbridge features in a key chase.",
+    opSummary: "A public footbridge, always accessible.",
+    source: "latlong.net and railwaymoviedatabase.com 28 Weeks Later location coverage cross-checked",
+  },
+  {
+    ...base, slug: "28-weeks-later-greenwich-foot-tunnel", name: "28 Weeks Later's Greenwich Foot Tunnel", type: "filming-location", scheme: "",
+    subject: "28 Weeks Later (2007) - a chase sequence beneath the Thames",
+    hood: "Greenwich", borough: "Greenwich", areaGuide: "greenwich-area-guide",
+    address: "Greenwich Foot Tunnel",
+    whyGo: "The Victorian pedestrian tunnel under the Thames, already an atmospheric spot in its own right, gets used for a tense sequence in the sequel - worth combining with a normal Greenwich-to-Island Gardens walk under the river.",
+    opSummary: "Free and open 24 hours (lifts have restricted hours) - a genuine way to cross the river on foot, film connection aside.",
+    source: "railwaymoviedatabase.com 28 Weeks Later location coverage",
   },
 ];
 
