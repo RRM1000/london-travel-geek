@@ -2479,6 +2479,11 @@
     "lng": -0.134989,
     "ward": "St James's"
   },
+  "hiddenLondon:bacon-reece-mews": {
+    "lat": 51.493464,
+    "lng": -0.176992,
+    "ward": "Courtfield"
+  },
   "hiddenLondon:baird-frith-street": {
     "placeId": "ChIJBbKU6NIEdkgRkC_IDZgxT1Y",
     "placesName": "Bar Italia",
@@ -2498,6 +2503,11 @@
     "lat": 51.51079,
     "lng": -0.183203,
     "ward": "Lancaster Gate"
+  },
+  "hiddenLondon:beckett-paultons-square": {
+    "lat": 51.484574,
+    "lng": -0.173198,
+    "ward": "Chelsea Riverside"
   },
   "hiddenLondon:browning-wimpole-street": {
     "placeId": "ChIJN4BJqEkbdkgRKyxwyMpgz0M",
@@ -2589,6 +2599,16 @@
     "lng": -0.132398,
     "ward": "Bloomsbury"
   },
+  "hiddenLondon:day-lewis-crooms-hill": {
+    "lat": 51.475135,
+    "lng": -0.005107,
+    "ward": "Greenwich Park"
+  },
+  "hiddenLondon:dickens-doughty-street": {
+    "lat": 51.523601,
+    "lng": -0.116237,
+    "ward": "Holborn & Covent Garden"
+  },
   "hiddenLondon:disraeli-curzon-street": {
     "placeId": "ChIJy_fbGvAFdkgRbdUVwk6GxwA",
     "placesName": "Blue Plaque Benjamin Disraeli",
@@ -2628,6 +2648,11 @@
     "lat": 51.518495,
     "lng": -0.154285,
     "ward": "Marylebone"
+  },
+  "hiddenLondon:fields-upper-street": {
+    "lat": 51.535939,
+    "lng": -0.103976,
+    "ward": "St Mary's & St James'"
   },
   "hiddenLondon:fleming-danvers-street": {
     "placeId": "ChIJzwtTNs4FdkgRuDrksXqsUUY",
@@ -2689,6 +2714,11 @@
     "lng": -0.160557,
     "ward": "Marylebone"
   },
+  "hiddenLondon:gielgud-cowley-street": {
+    "lat": 51.497074,
+    "lng": -0.12759,
+    "ward": "St James's"
+  },
   "hiddenLondon:gladstone-carlton-house-terrace": {
     "placeId": "ChIJ_6XgT9AEdkgRRqq3Ox5jUc4",
     "placesName": "10-11 Carlton House Terrace",
@@ -2698,6 +2728,16 @@
     "lat": 51.507192,
     "lng": -0.131599,
     "ward": "St James's"
+  },
+  "hiddenLondon:gresley-kings-cross": {
+    "lat": 51.534241,
+    "lng": -0.121969,
+    "ward": "Caledonian"
+  },
+  "hiddenLondon:grimaldi-exmouth-market": {
+    "lat": 51.525848,
+    "lng": -0.108893,
+    "ward": "Clerkenwell"
   },
   "hiddenLondon:handel-brook-street": {
     "placeId": "ChIJ8TcYbCsFdkgREJn6RlCbKjw",
@@ -2817,6 +2857,16 @@
     "lng": -0.167793,
     "ward": "Chelsea Riverside"
   },
+  "hiddenLondon:marx-dean-street": {
+    "lat": 51.514277,
+    "lng": -0.132663,
+    "ward": "West End"
+  },
+  "hiddenLondon:mary-shelley-chester-square": {
+    "lat": 51.495311,
+    "lng": -0.150237,
+    "ward": "Knightsbridge & Belgravia"
+  },
   "hiddenLondon:moon-wardour-street": {
     "placeId": "ChIJxXypAAAFdkgRL6_L0aPe_eo",
     "placesName": "Keith Moon's Blue Plaque",
@@ -2836,6 +2886,21 @@
     "lat": 51.455562,
     "lng": 0.129563,
     "ward": "Crook Log"
+  },
+  "hiddenLondon:mozart-ebury-street": {
+    "lat": 51.491561,
+    "lng": -0.152506,
+    "ward": "Knightsbridge & Belgravia"
+  },
+  "hiddenLondon:nightingale-south-street": {
+    "lat": 51.507939,
+    "lng": -0.153241,
+    "postcodeTerminated": 2012
+  },
+  "hiddenLondon:nureyev-victoria-road": {
+    "lat": 51.499722,
+    "lng": -0.18566,
+    "ward": "Queen's Gate"
   },
   "hiddenLondon:orwell-lawford-road": {
     "placeId": "ChIJ4xwoA5kbdkgRLuJacimY8as",
@@ -2872,6 +2937,11 @@
     "lng": -0.123428,
     "ward": "St James's"
   },
+  "hiddenLondon:percy-shelley-poland-street": {
+    "lat": 51.514767,
+    "lng": -0.136895,
+    "ward": "West End"
+  },
   "hiddenLondon:plath-chalcot-square": {
     "placeId": "ChIJlU4866sbdkgRBs3-KpkBVX0",
     "placesName": "Blue Plaque: Sylvia Plath",
@@ -2892,6 +2962,11 @@
     "lng": -0.132176,
     "ward": "West End"
   },
+  "hiddenLondon:tennyson-upper-belgrave-street": {
+    "lat": 51.498554,
+    "lng": -0.150595,
+    "ward": "Knightsbridge & Belgravia"
+  },
   "hiddenLondon:ts-eliot-kensington-court-gardens": {
     "placeId": "ChIJ0Suhd3MFdkgRP2B3vtykv5U",
     "placesName": "Blue Plaque: T S Eliot",
@@ -2901,6 +2976,26 @@
     "lat": 51.499879,
     "lng": -0.187642,
     "ward": "Queen's Gate"
+  },
+  "hiddenLondon:turing-warrington-crescent": {
+    "lat": 51.524327,
+    "lng": -0.184538,
+    "ward": "Little Venice"
+  },
+  "hiddenLondon:twain-tedworth-square": {
+    "lat": 51.484267,
+    "lng": -0.172533,
+    "ward": "Chelsea Riverside"
+  },
+  "hiddenLondon:wilde-tite-street": {
+    "lat": 51.485541,
+    "lng": -0.160845,
+    "ward": "Royal Hospital"
+  },
+  "hiddenLondon:wodehouse-dunraven-street": {
+    "lat": 51.512629,
+    "lng": -0.156943,
+    "ward": "West End"
   },
   "hiddenLondon:woolf-fitzroy-square": {
     "placeId": "ChIJ510xgBEbdkgRDQ9-NMEhvkI",

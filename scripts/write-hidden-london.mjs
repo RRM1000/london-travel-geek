@@ -26,12 +26,27 @@
 // SEPARATE council scheme (not English Heritage, includes living people) and
 // is not covered here to avoid mixing schemes silently in one Source column.
 //
-// Postcode/Lat/Lng are deliberately left BLANK here rather than transcribed
-// from search summaries - see scripts/geocode-listings.mjs, which resolves
-// them from the address via Places + postcodes.io the same way it does for
-// Hotels/Activities/Events. A summarized postcode risks being subtly wrong
-// (Oakley Street SW3 vs a summary that said SW7); a Places lookup on the
-// real street address does not.
+// Postcode/Lat/Lng are deliberately left BLANK for the FIRST-PASS rows below
+// rather than transcribed from search summaries - see scripts/geocode-listings.mjs,
+// which resolves them from the address via Places + postcodes.io the same way
+// it does for Hotels/Activities/Events. A summarized postcode risks being
+// subtly wrong (Oakley Street SW3 vs a summary that said SW7); a Places
+// lookup on the real street address does not.
+//
+// SECOND PASS ("very famous only"): sourced from the public ArcGIS feature
+// service backing arcgis.com/home/item.html?id=b69ac4493cf64e088f4883c637933e55
+// (933 London plaques, all schemes) - services.arcgis.com/WQ9KVmV6xGGMnCiQ/
+// arcgis/rest/services/London_Plaques_Updated_2/FeatureServer/0. That service
+// already carries the postcode as part of its Address field, so those rows
+// have Postcode filled in directly rather than left for Places to resolve -
+// there is no ambiguity to resolve when the source dataset already states it.
+// Filtered hard to names anyone would recognise without a Wikipedia link;
+// the source has hundreds of scientifically/historically significant but
+// NOT famous names that are deliberately excluded here. `scheme` is set per
+// row from the source's Organisatn field - not every plaque is English
+// Heritage's own; several predate it (London County Council, Greater London
+// Council), which EH's own scheme history treats as the same continuous
+// lineage it now administers.
 //
 //   node scripts/write-hidden-london.mjs
 //   node scripts/write-hidden-london.mjs --dry-run
@@ -571,6 +586,188 @@ const ROWS = [
     whyGo: "The Woolfs lived here 1915-1924 and founded the Hogarth Press on the premises, printing early editions of Woolf's own novels and T.S. Eliot's poetry on a hand press in the house.",
     opSummary: "A private residential building - viewable from the street only. See also the earlier Woolf plaque in Fitzrovia.",
     source: "Search cross-referencing Wikipedia's Camden and Richmond blue plaque coverage",
+  },
+
+  // =================== SECOND PASS: "very famous only" ===================
+  // Sourced from the ArcGIS feature service, see header note. Address and
+  // Postcode below are split from the source's single Address field, not
+  // re-researched - the source is the authority on both.
+  {
+    ...base, slug: "wodehouse-dunraven-street", name: "P.G. Wodehouse's Mayfair Home",
+    subject: "P.G. Wodehouse (1881–1975), writer, creator of Jeeves and Wooster",
+    hood: "Mayfair", borough: "Westminster", areaGuide: "mayfair-area-guide",
+    address: "17 Dunraven Street", postcode: "W1K 7EG",
+    whyGo: "Wodehouse lived here before the Jeeves and Wooster novels made him one of the most quoted comic writers in English.",
+    opSummary: "A private residential building - viewable from the street only.",
+    source: "ArcGIS London Plaques feature service (English Heritage)",
+  },
+  {
+    ...base, slug: "nightingale-south-street", name: "Florence Nightingale's Mayfair Home",
+    subject: "Florence Nightingale (1820–1910), founder of modern nursing",
+    hood: "Mayfair", borough: "Westminster", areaGuide: "mayfair-area-guide",
+    address: "10 South Street", postcode: "W1K 1DE",
+    whyGo: "Nightingale lived here for the last decades of her life, having already reformed nursing practice after the Crimean War.",
+    opSummary: "A private residential building - viewable from the street only.",
+    source: "ArcGIS London Plaques feature service (London County Council)",
+    scheme: "London County Council",
+  },
+  {
+    ...base, slug: "turing-warrington-crescent", name: "Alan Turing's Birthplace",
+    subject: "Alan Turing (1912–1954), mathematician and codebreaker",
+    hood: "Paddington", borough: "Westminster", areaGuide: "paddington-area-guide",
+    address: "2 Warrington Crescent", postcode: "W9 1ER",
+    whyGo: "Turing was born here - the father of theoretical computer science and the codebreaker whose work at Bletchley Park is credited with shortening the Second World War.",
+    opSummary: "A private residential building (now a hotel) - viewable from the street only.",
+    source: "ArcGIS London Plaques feature service (English Heritage)",
+  },
+  {
+    ...base, slug: "mary-shelley-chester-square", name: "Mary Shelley's Belgravia Home",
+    subject: "Mary Shelley (1797–1851), author of Frankenstein",
+    hood: "Belgravia", borough: "Westminster", areaGuide: "westminster-area-guide",
+    address: "24 Chester Square", postcode: "SW1W 9HS",
+    whyGo: "Shelley spent her last years here, decades after writing Frankenstein at 18 - a very different London chapter from the Gothic summer that made her famous.",
+    opSummary: "A private residential building - viewable from the street only.",
+    source: "ArcGIS London Plaques feature service (English Heritage)",
+  },
+  {
+    ...base, slug: "percy-shelley-poland-street", name: "Percy Bysshe Shelley's Soho Home",
+    subject: "Percy Bysshe Shelley (1792–1822), Romantic poet",
+    hood: "Soho", borough: "Westminster", areaGuide: "soho-area-guide",
+    address: "15 Poland Street", postcode: "W1F 8QE",
+    whyGo: "Shelley lodged here as a young radical, years before Ozymandias - a Soho address for one of Romantic poetry's biggest names.",
+    opSummary: "A private/commercial building - viewable from the street only.",
+    source: "ArcGIS London Plaques feature service (English Heritage)",
+  },
+  {
+    ...base, slug: "tennyson-upper-belgrave-street", name: "Lord Tennyson's Belgravia Home",
+    subject: "Alfred, Lord Tennyson (1809–1892), Poet Laureate",
+    hood: "Belgravia", borough: "Westminster", areaGuide: "westminster-area-guide",
+    address: "9 Upper Belgrave Street", postcode: "SW1X 8BD",
+    whyGo: "Tennyson stayed here during his decades as Poet Laureate - The Charge of the Light Brigade and In Memoriam both date from his career.",
+    opSummary: "A private residential building - viewable from the street only.",
+    source: "ArcGIS London Plaques feature service (English Heritage)",
+  },
+  {
+    ...base, slug: "gielgud-cowley-street", name: "Sir John Gielgud's Westminster Home",
+    subject: "Sir John Gielgud (1904–2000), actor",
+    hood: "Westminster", borough: "Westminster", areaGuide: "westminster-area-guide",
+    address: "16 Cowley Street", postcode: "SW1P 3LZ",
+    whyGo: "One of the defining Shakespearean actors of the 20th century, later known to a much younger audience for Arthur - a plaque a short walk from Westminster Abbey.",
+    opSummary: "A private residential building - viewable from the street only.",
+    source: "ArcGIS London Plaques feature service (English Heritage)",
+  },
+  {
+    ...base, slug: "beckett-paultons-square", name: "Samuel Beckett's Chelsea Home",
+    subject: "Samuel Beckett (1906–1989), playwright and novelist",
+    hood: "Chelsea", borough: "Kensington and Chelsea", areaGuide: "chelsea-area-guide",
+    address: "48 Paultons Square", postcode: "SW3 5DT",
+    whyGo: "Beckett lived here before Waiting for Godot - a Nobel laureate's London address shared with Patrick Blackett, another plaque at the same number.",
+    opSummary: "A private residential building - viewable from the street only.",
+    source: "ArcGIS London Plaques feature service (English Heritage)",
+  },
+  {
+    ...base, slug: "nureyev-victoria-road", name: "Rudolf Nureyev's Kensington Home",
+    subject: "Rudolf Nureyev (1938–1993), ballet dancer",
+    hood: "Kensington", borough: "Kensington and Chelsea", areaGuide: "kensington-area-guide",
+    address: "27 Victoria Road", postcode: "W8 5RF",
+    whyGo: "Nureyev's 1961 defection from the Soviet Union made global headlines - his London home plaque sits in one of Kensington's quieter residential streets.",
+    opSummary: "A private residential building - viewable from the street only.",
+    source: "ArcGIS London Plaques feature service (English Heritage)",
+  },
+  {
+    ...base, slug: "bacon-reece-mews", name: "Francis Bacon's Studio",
+    subject: "Francis Bacon (1909–1992), painter",
+    hood: "South Kensington", borough: "Kensington and Chelsea", areaGuide: "south-kensington-area-guide",
+    address: "7 Reece Mews", postcode: "SW7 3HE",
+    whyGo: "Bacon's studio here - famously chaotic, now reconstructed in Dublin's Hugh Lane Gallery - is where he painted for the last three decades of his life.",
+    opSummary: "A private mews building - viewable from the street only.",
+    source: "ArcGIS London Plaques feature service (English Heritage)",
+  },
+  {
+    ...base, slug: "wilde-tite-street", name: "Oscar Wilde's Chelsea Home",
+    subject: "Oscar Wilde (1854–1900), writer and wit",
+    hood: "Chelsea", borough: "Kensington and Chelsea", areaGuide: "chelsea-area-guide",
+    address: "34 Tite Street", postcode: "SW3 4JA",
+    whyGo: "Wilde lived here with his wife Constance while writing The Picture of Dorian Gray and his best-known plays, before his 1895 trials and imprisonment.",
+    opSummary: "A private residential building - viewable from the street only.",
+    source: "ArcGIS London Plaques feature service (London County Council)",
+    scheme: "London County Council",
+  },
+  {
+    ...base, slug: "twain-tedworth-square", name: "Mark Twain's Chelsea Home",
+    subject: "Mark Twain (Samuel Langhorne Clemens, 1835–1910), writer",
+    hood: "Chelsea", borough: "Kensington and Chelsea", areaGuide: "chelsea-area-guide",
+    address: "23 Tedworth Square", postcode: "SW3 5DR",
+    whyGo: "Twain lived here during one of his London periods, by then already the author of Tom Sawyer and Huckleberry Finn.",
+    opSummary: "A private residential building - viewable from the street only.",
+    source: "ArcGIS London Plaques feature service (London County Council)",
+    scheme: "London County Council",
+  },
+  {
+    ...base, slug: "dickens-doughty-street", name: "Charles Dickens's Bloomsbury Home",
+    subject: "Charles Dickens (1812–1870), novelist",
+    hood: "Bloomsbury", borough: "Camden", areaGuide: "bloomsbury-area-guide",
+    address: "48 Doughty Street", postcode: "WC1N 2LX",
+    whyGo: "Dickens wrote Oliver Twist and Nicholas Nickleby here - the only one of his London homes still standing, now the Charles Dickens Museum.",
+    opSummary: "Now the Charles Dickens Museum - a paid museum with set opening hours, not just a street plaque.",
+    source: "ArcGIS London Plaques feature service (London County Council)",
+    scheme: "London County Council",
+  },
+  {
+    ...base, slug: "marx-dean-street", name: "Karl Marx's Soho Home",
+    subject: "Karl Marx (1818–1883), philosopher and economist",
+    hood: "Soho", borough: "Westminster", areaGuide: "soho-area-guide",
+    address: "28 Dean Street", postcode: "W1D 3RY",
+    whyGo: "Marx lived here in poverty with his family while writing much of Das Kapital - a few doors from where he and Engels regularly met.",
+    opSummary: "Above what is now a restaurant - the plaque is at first-floor level.",
+    source: "ArcGIS London Plaques feature service (Greater London Council)",
+    scheme: "Greater London Council",
+  },
+  {
+    ...base, slug: "mozart-ebury-street", name: "Mozart's Belgravia Home",
+    subject: "Wolfgang Amadeus Mozart (1756–1791), composer",
+    hood: "Belgravia", borough: "Westminster", areaGuide: "westminster-area-guide",
+    address: "180 Ebury Street", postcode: "SW1W 8UP",
+    whyGo: "Mozart composed his first symphony here in 1764, aged eight, during his family's 15-month stay in London.",
+    opSummary: "A private residential building - viewable from the street only.",
+    source: "ArcGIS London Plaques feature service (London County Council)",
+    scheme: "London County Council",
+  },
+  {
+    ...base, slug: "gresley-kings-cross", name: "Sir Nigel Gresley's Plaque, King's Cross Station",
+    subject: "Sir Nigel Gresley (1876–1941), railway locomotive engineer",
+    hood: "King's Cross", borough: "Camden", areaGuide: "kings-cross-area-guide",
+    address: "Platform 8, King's Cross Station, Euston Road", postcode: "N1 9AG",
+    whyGo: "Gresley designed the Flying Scotsman and the world-speed-record-holding Mallard - the plaque is on Platform 8, the platform his locomotives ran from.",
+    opSummary: "Inside the station on the platform itself - accessible without a ticket during station opening hours.",
+    source: "ArcGIS London Plaques feature service (English Heritage)",
+  },
+  {
+    ...base, slug: "grimaldi-exmouth-market", name: "Joseph Grimaldi's Islington Home",
+    subject: "Joseph Grimaldi (1778–1837), the original \"Joey\" clown",
+    hood: "Islington", borough: "Islington", areaGuide: "islington-area-guide",
+    address: "56 Exmouth Market", postcode: "EC1R 4QE",
+    whyGo: "Grimaldi essentially invented the modern circus/pantomime clown - British clowns are still nicknamed \"Joey\" after him, and his grave nearby is a small park named for him.",
+    opSummary: "A private/commercial building - viewable from the street only.",
+    source: "ArcGIS London Plaques feature service (English Heritage)",
+  },
+  {
+    ...base, slug: "fields-upper-street", name: "Gracie Fields's Islington Home",
+    subject: "Dame Gracie Fields (1898–1979), singer and entertainer",
+    hood: "Islington", borough: "Islington", areaGuide: "islington-area-guide",
+    address: "72a Upper Street", postcode: "N1 0NY",
+    whyGo: "One of the biggest British entertainers of the 1930s, on Islington's main shopping street - a plaque worth combining with an Upper Street stop anyway.",
+    opSummary: "A private/commercial building on a busy shopping street.",
+    source: "ArcGIS London Plaques feature service (English Heritage)",
+  },
+  {
+    ...base, slug: "day-lewis-crooms-hill", name: "Cecil Day-Lewis's Greenwich Home",
+    subject: "Cecil Day-Lewis (1904–1972), Poet Laureate",
+    hood: "Greenwich", borough: "Greenwich", areaGuide: "greenwich-area-guide",
+    address: "6 Crooms Hill", postcode: "SE10 8HL",
+    whyGo: "Day-Lewis lived here as Poet Laureate - Crooms Hill is one of Greenwich's prettiest streets, running alongside the park.",
+    opSummary: "A private residential building - viewable from the street only.",
+    source: "ArcGIS London Plaques feature service (English Heritage)",
   },
 ];
 
