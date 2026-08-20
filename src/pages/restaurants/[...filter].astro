@@ -1,0 +1,63 @@
+---
+import RestaurantList from "../../components/RestaurantList.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { filterRoutes, matches, restaurants, type FilterRoute } from "../../lib/restaurants";
+
+export function getStaticPaths() {
+  return filterRoutes().map((route) => ({
+    params: { filter: `${route.kind}/${route.slug}` },
+    props: { route },
+  }));
+}
+
+const { route } = Astro.props as { route: FilterRoute };
+const list = restaurants.filter((r) => matches(r, route));
+
+const LABEL: Record<FilterRoute["kind"], (v: string) => string> = {
+  cuisine: (v) => `${v} restaurants in London`,
+  area: (v) => `Where to eat in ${v}`,
+  speciality: (v) => `The best ${v.replace(/-/g, " ")} in London`,
+};
+const title = LABEL[route.kind](route.value);
+
+const description =
+  route.kind === "area"
+    ? `Every restaurant we cover in ${route.value} — ${list.length} places, with what to order and how far they are from the station.`
+    : `${list.length} places across London, with what each one is for and where it is.`;
+
+// Only areas with a guide get the cross-link, and only when it exists.
+const guide = route.kind === "area" ? list.find((r) => r.guide)?.guide : undefined;
+
+const breadcrumbs = [
+  { label: "Home", href: "/" },
+  { label: "Restaurants", href: "/restaurants" },
+  { label: route.value },
+];
+---
+
+<BaseLayout title={title} description={description} breadcrumbs={breadcrumbs}>
+  <section class="container rfilter">
+    <header class="rhero">
+      <h1>{title}</h1>
+      <p class="rcount">{list.length} {list.length === 1 ? "place" : "places"}</p>
+      {guide && (
+        <p class="rguide">
+          Planning a whole day here? Read the <a href={`/articles/${guide}`}>{route.value} area guide</a>.
+        </p>
+      )}
+    </header>
+
+    <RestaurantList restaurants={list} hideArea={route.kind === "area"} />
+
+    <p class="rback"><a href="/restaurants">Browse all restaurants</a></p>
+  </section>
+</BaseLayout>
+
+<style>
+  .rfilter { padding-block: 2rem 4rem; max-width: 48rem; }
+  .rhero { margin-block-end: 2rem; }
+  .rhero h1 { margin: 0 0 0.35rem; text-wrap: balance; }
+  .rcount { margin: 0; font-variant-numeric: tabular-nums; opacity: 0.7; }
+  .rguide { margin: 0.75rem 0 0; }
+  .rback { margin-block-start: 2.5rem; }
+</style>

@@ -1,0 +1,226 @@
+---
+// Limited-run events in an area, injected into every area guide automatically.
+//
+// Separate from AreaActivities because an event has DATES, and they are the most
+// important thing on the card. Two kinds live here:
+//
+//   LIMITED RUNS  - a show with a closing date. export-events.mjs DROPS these
+//                   once they have finished, so this component cannot render a
+//                   closed show even if the sheet is never tidied.
+//   ANNUAL FIXTURES - the Carnival, the Marathon, the Lord Mayor's Show. These
+//                   are never dropped; once the year's edition has passed the
+//                   export clears the dates and the card falls back to "returns
+//                   the August bank holiday weekend".
+//
+// A guide with no live events renders nothing at all.
+import data from "../data/events.json";
+
+interface Props {
+  articleId: string;
+  areaName: string;
+}
+const { articleId, areaName } = Astro.props as Props;
+
+type Event = {
+  slug: string; name: string; type?: string; style?: string; venue?: string;
+  startsOn?: string; endsOn?: string; recurring?: string; notYetOpen?: boolean;
+  typicalWhen?: string; annual?: boolean; awaitingDates?: boolean;
+  area?: string; station?: string; walkMin?: number;
+  agePolicy?: string; duration?: string; price?: string; booking?: string;
+  whyGo?: string; opNote?: string; website?: string; bookingUrl?: string;
+  affiliateUrl?: string; affiliateNetwork?: string;
+};
+
+const list = (data.events as Event[]).filter((e: any) => e.guide === articleId);
+
+const AGE_LABEL: Record<string, string> = {
+  "over-18": "18+",
+  "over-16": "16+",
+  "adults-only": "Adults only",
+  "over-18-evenings": "18+ in the evening",
+};
+
+// "13 September 2026". Written out rather than numeric because a run ending on
+// 09/13 is ambiguous to half the site's readers.
+const fmt = (iso?: string) =>
+  iso
+    ? new Date(iso + "T00:00:00Z").toLocaleDateString("en-GB", {
+        day: "numeric", month: "long", year: "numeric", timeZone: "UTC",
+      })
+    : "";
+
+const DAY = 864e5;
+const today = new Date(data.generated + "T00:00:00Z").getTime();
+const daysLeft = (iso?: string) =>
+  iso ? Math.round((new Date(iso + "T00:00:00Z").getTime() - today) / DAY) : Infinity;
+
+// A date RANGE, collapsed as far as it honestly can be. "Opens 14 November
+// 2026, until 14 November 2026" is what the naive version produced for the Lord
+// Mayor's Show, which is a one-day event.
+const MONTHS = ["January", "February", "March", "April", "May", "June", "July",
+  "August", "September", "October", "November", "December"];
+function range(from?: string, to?: string) {
+  if (from && to && from === to) return fmt(from);                 // one day
+  if (from && to) {
+    const [fy, fm, fd] = from.split("-");
+    const [ty, tm, td] = to.split("-");
+    // 29-31 August 2026
+    if (fy === ty && fm === tm) return `${+fd}–${+td} ${MONTHS[+fm - 1]} ${fy}`;
+    // 19 November 2026 - 3 January 2027
+    return `${fmt(from)} – ${fmt(to)}`;
+  }
+  return fmt(from || to);
+}
+
+function when(e: Event) {
+  // Annual events between editions carry no dates at all - the export strips
+  // them once the year's run is over, precisely so the page cannot quote a date
+  // that has been and gone. Typical When is what is left, and it is enough.
+  if (e.awaitingDates || (e.annual && !e.startsOn && !e.endsOn)) {
+    return e.typicalWhen ? `Returns ${lower(e.typicalWhen)}` : "Returns annually";
+  }
+  // Not open yet: the whole range, with the "Not open yet" tag doing the work
+  // that "Opens..." was doing badly.
+  if (e.notYetOpen) return range(e.startsOn, e.endsOn);
+  if (!e.endsOn) return e.annual && e.typicalWhen ? e.typicalWhen : "Open-ended run";
+  // Already running, so only the end date matters to a reader deciding when to go.
+  return `Until ${fmt(e.endsOn)}`;
+}
+
+// "Returns The August bank holiday weekend" reads badly; "returns the August
+// bank holiday weekend" does not. Lowercase the first letter unless the first
+// word is a month or a date.
+//
+// The first version tested /^[A-Z][a-z]/, which silently failed on single-letter
+// words - "A Sunday in late April" stayed capitalised and shipped as
+// "Returns A Sunday in late April".
+const MONTH_START = /^(January|February|March|April|May|June|July|August|September|October|November|December)\b/;
+function lower(s: string) {
+  if (!s || MONTH_START.test(s) || /^\d/.test(s)) return s;
+  return s[0].toLowerCase() + s.slice(1);
+}
+
+// Worked out HERE rather than in the template. A `<=` comparison inside a JSX
+// expression makes the Astro parser treat the `<` as the start of a tag, which
+// silently swallows the rest of the component - the symptom is the <style>
+// block below being type-checked as TypeScript and every CSS property coming
+// back as "Cannot find name 'margin'".
+const cards = list.map((e) => {
+  const left = daysLeft(e.endsOn);
+  let urgency = "";
+  if (e.annual && !e.endsOn) urgency = "";
+  else if (!e.notYetOpen && left <= 30) {
+    if (left <= 0) urgency = "Last day";
+    else if (left === 1) urgency = "1 day left";
+    else urgency = `${left} days left`;
+  }
+  return { e, urgency, when: when(e), age: AGE_LABEL[e.agePolicy ?? ""] ?? "" };
+});
+---
+
+{list.length > 0 && (
+  <section class="area-events">
+    <h2 id="whats-on">What's on in {areaName}</h2>
+    <p class="ae-intro">
+      Limited runs and the annual fixtures. Anything already finished is
+      removed automatically.
+      <span class="ae-disclosure">
+        Links marked <span class="ae-ad">ad</span> are affiliate links. If you
+        book through one we may earn a commission, at no extra cost to you. It
+        never affects what goes on this list.
+      </span>
+    </p>
+
+    <ul class="ae-list">
+      {cards.map(({ e, urgency, when, age }) => (
+        <li class="ae-item">
+          <div class="ae-head">
+            <h3>{e.name}</h3>
+            {e.notYetOpen && <span class="ae-tag ae-soon">Not open yet</span>}
+            {urgency && <span class="ae-tag ae-ending">{urgency}</span>}
+            {age && <span class="ae-tag ae-age">{age}</span>}
+          </div>
+
+          <p class="ae-when">
+            <time datetime={e.endsOn ?? e.startsOn}>{when}</time>
+          </p>
+
+          <p class="ae-meta">
+            {e.style && <span>{e.style}</span>}
+            {e.venue && <span>{e.venue}</span>}
+            {e.duration && <span>{e.duration}</span>}
+            {e.price && <span>{e.price}</span>}
+            {e.booking === "required" && <span>Book ahead</span>}
+          </p>
+
+          {e.whyGo && <p class="ae-why">{e.whyGo}</p>}
+          {e.opNote && <p class="ae-note">{e.opNote}</p>}
+
+          {(e.bookingUrl || e.affiliateUrl || e.website) && (
+            <p class="ae-links">
+              {e.bookingUrl && (
+                <a href={e.bookingUrl} rel="nofollow noopener" target="_blank">Book direct</a>
+              )}
+              {!e.bookingUrl && e.affiliateUrl && (
+                <a href={e.affiliateUrl} rel="sponsored nofollow noopener" target="_blank" data-affiliate={e.affiliateNetwork}>
+                  Check tickets on GetYourGuide<span class="ae-ad">ad</span>
+                </a>
+              )}
+              {e.website && !e.bookingUrl && (
+                <a href={e.website} rel="nofollow noopener" target="_blank">Website</a>
+              )}
+            </p>
+          )}
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
+
+<style>
+  .area-events { margin-block: 3rem 2rem; }
+  .ae-intro { margin: 0 0 1.5rem; opacity: 0.8; }
+  .ae-disclosure { display: block; margin-block-start: 0.5rem; font-size: 0.85rem; }
+  /* ul.<class>, not just .<class>: ArticleLayout sets
+     `.article__body :global(ul) { list-style: disc }`, which ties this on
+     specificity and wins on source order. Both the section class AND the
+     element are needed - ul.<class> alone still only TIES, because Astro adds
+     its scope attribute to both rules. These are cards, not bullets. */
+  .area-events ul.ae-list {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    display: grid;
+    gap: 1.5rem;
+  }
+  .ae-item { border-block-end: 1px solid var(--line, #e2e2e2); padding-block-end: 1.5rem; }
+  .ae-list > .ae-item:last-child { border-block-end: 0; padding-block-end: 0; }
+  .ae-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 0.5rem; }
+  .ae-head h3 { margin: 0; font-size: 1.1rem; }
+  .ae-tag {
+    font-size: 0.7rem; letter-spacing: 0.04em; text-transform: uppercase;
+    padding: 0.1rem 0.45rem; border-radius: 3px; border: 1px solid currentColor;
+  }
+  .ae-ending { color: var(--accent); font-weight: 700; }
+  .ae-soon, .ae-age { opacity: 0.8; }
+  .ae-when { margin: 0.35rem 0 0; font-weight: 650; }
+  .ae-meta { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; margin: 0.35rem 0 0; font-size: 0.85rem; opacity: 0.75; }
+  .ae-why { margin: 0.5rem 0 0; }
+  .ae-note { margin: 0.4rem 0 0; font-size: 0.9rem; opacity: 0.85; }
+  .ae-links { display: flex; flex-wrap: wrap; gap: 0.9rem; margin: 0.5rem 0 0; font-size: 0.9rem; }
+  /* The "ad" marker is required, not decorative. UK CAP rules want a
+     commercial relationship identifiable BEFORE the click, so it rides on the
+     link itself rather than only living in a disclosure line further down. */
+  .ae-ad {
+    margin-inline-start: 0.35rem;
+    padding: 0.05rem 0.3rem;
+    border: 1px solid currentColor;
+    border-radius: 3px;
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    vertical-align: 0.1em;
+    opacity: 0.7;
+  }
+</style>

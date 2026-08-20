@@ -1,0 +1,80 @@
+---
+import type { Restaurant } from "../lib/restaurants";
+import { sortForDisplay } from "../lib/restaurants";
+
+interface Props {
+  restaurants: Restaurant[];
+  /** Hide the area line when every row shares one area. */
+  hideArea?: boolean;
+}
+const { restaurants, hideArea = false } = Astro.props as Props;
+const list = sortForDisplay(restaurants);
+const destinations = list.filter((r) => r.fallback !== "yes");
+const standbys = list.filter((r) => r.fallback === "yes");
+---
+
+<ul class="rlist">
+  {destinations.map((r) => (
+    <li class="rcard">
+      <div class="rhead">
+        <h3>{r.name}</h3>
+        {r.price && <span class="rprice">{r.price}</span>}
+      </div>
+      <p class="rmeta">
+        {r.cuisine && <span>{r.cuisine}</span>}
+        {r.style && <span>{r.style}</span>}
+        {!hideArea && r.area && <span>{r.area}</span>}
+        {r.station && r.walkMin && <span>{r.walkMin} min from {r.station}</span>}
+      </p>
+      {r.whyGo && <p class="rwhy">{r.whyGo}</p>}
+      {r.opNote && <p class="rop">{r.opNote}</p>}
+      <p class="rlinks">
+        {r.guide && <a href={`/articles/${r.guide}`}>Area guide</a>}
+        {r.bookingUrl && <a href={r.bookingUrl} rel="nofollow noopener" target="_blank">Book</a>}
+        {r.website && !r.bookingUrl && <a href={r.website} rel="nofollow noopener" target="_blank">Website</a>}
+      </p>
+    </li>
+  ))}
+</ul>
+
+{standbys.length > 0 && (
+  <section class="standbys">
+    <h3>If everything else is full</h3>
+    <p class="snote">
+      Reliable rather than remarkable. These are chains — worth knowing about when
+      you need somewhere open, not worth a journey.
+    </p>
+    <ul class="rlist">
+      {standbys.map((r) => (
+        <li class="rcard rcard-standby">
+          <div class="rhead">
+            <h4>{r.name}</h4>
+            {r.price && <span class="rprice">{r.price}</span>}
+          </div>
+          <p class="rmeta">
+            {r.cuisine && <span>{r.cuisine}</span>}
+            {r.style && <span>{r.style}</span>}
+          </p>
+          {r.whyGo && <p class="rwhy">{r.whyGo}</p>}
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
+
+<style>
+  .rlist { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.25rem; }
+  .rcard { border-block-end: 1px solid var(--color-border, #e2e2e2); padding-block-end: 1.25rem; }
+  .rlist > .rcard:last-child { border-block-end: 0; }
+  .rhead { display: flex; align-items: baseline; gap: 0.75rem; }
+  .rhead h3, .rhead h4 { margin: 0; font-size: 1.1rem; }
+  .rprice { margin-inline-start: auto; font-variant-numeric: tabular-nums; opacity: 0.75; }
+  .rmeta { display: flex; flex-wrap: wrap; gap: 0.4rem 0.9rem; margin: 0.3rem 0 0; font-size: 0.85rem; opacity: 0.75; }
+  .rwhy { margin: 0.5rem 0 0; }
+  .rop { margin: 0.4rem 0 0; font-size: 0.9rem; opacity: 0.8; }
+  .rlinks { display: flex; gap: 1rem; margin: 0.6rem 0 0; font-size: 0.9rem; }
+  .standbys { margin-block-start: 2.5rem; padding-block-start: 1.5rem; border-block-start: 2px solid var(--color-border, #e2e2e2); }
+  .standbys h3 { margin: 0 0 0.25rem; }
+  .snote { margin: 0 0 1.25rem; font-size: 0.9rem; opacity: 0.8; max-width: 42rem; }
+  .rcard-standby { opacity: 0.85; }
+</style>

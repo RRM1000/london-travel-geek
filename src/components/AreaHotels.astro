@@ -1,0 +1,154 @@
+---
+// Places to stay in an area, injected into every area guide automatically.
+//
+// NOT titled "Where to stay" on purpose: the guides already have a prose
+// "## Where to stay" section written in markdown, which gives AREA-level advice
+// ("stay in Bermondsey, it is twenty minutes and better connected"). This is the
+// property-level list that follows it. Two different jobs, so two headings.
+//
+// Affiliate disclosure renders ONLY when a row on this page actually carries an
+// affiliate link. No programmes are enabled yet, so today it renders nothing -
+// a disclosure for links that do not exist would be noise, and worse, would
+// train readers to ignore the one that appears when links do.
+import data from "../data/hotels.json";
+
+interface Props {
+  articleId: string;
+  areaName: string;
+}
+const { articleId, areaName } = Astro.props as Props;
+
+type Hotel = {
+  slug: string; name: string; propertyType?: string; style?: string;
+  brand?: string; starRating?: string; rooms?: string;
+  area?: string; station?: string; walkMin?: number;
+  priceBand?: string; typicalFrom?: string; breakfast?: string;
+  roomTypes?: string; familyPolicy?: string; accessibility?: string;
+  hasLift?: string; airCon?: string; luggageStorage?: string;
+  whyGo?: string; opNote?: string; goodFor?: string[];
+  website?: string; bookingUrl?: string;
+  affiliateUrl?: string; affiliateNetwork?: string;
+};
+
+const list = (data.hotels as Hotel[]).filter((h: any) => h.guide === articleId);
+
+const TYPE_LABEL: Record<string, string> = {
+  hotel: "Hotel",
+  hostel: "Hostel",
+  aparthotel: "Aparthotel",
+  townhouse: "Townhouse",
+  "pub-rooms": "Rooms above a pub",
+  bnb: "B&B",
+  boutique: "Boutique",
+  "serviced-apartment": "Serviced apartment",
+};
+
+// Only the facts worth a badge. "Breakfast extra" is the norm and says nothing;
+// "breakfast included" changes the real price, so only that one shows.
+const cards = list.map((h) => {
+  const badges: string[] = [];
+  if (h.propertyType && TYPE_LABEL[h.propertyType]) badges.push(TYPE_LABEL[h.propertyType]);
+  if (h.breakfast === "included") badges.push("Breakfast included");
+  if (h.accessibility === "accessible-rooms" || h.accessibility === "step-free")
+    badges.push("Accessible rooms");
+  return { h, badges };
+});
+
+const hasAffiliate = list.some((h) => h.affiliateUrl);
+---
+
+{list.length > 0 && (
+  <section class="area-hotels">
+    <h2 id="places-to-stay">Places to stay in {areaName}</h2>
+    <p class="ah-intro">
+      Cheapest first. Prices are a typical starting rate per night, not a quote.
+      {hasAffiliate && (
+        <span class="ah-disclosure">
+          Links marked <span class="ah-ad">ad</span> are affiliate links. If you
+          book through one we may earn a commission, at no extra cost to you. It
+          never affects what goes on this list.
+        </span>
+      )}
+    </p>
+
+    <ul class="ah-list">
+      {cards.map(({ h, badges }) => (
+        <li class="ah-item">
+          <div class="ah-head">
+            <h3>{h.name}</h3>
+            {h.priceBand && <span class="ah-price">{h.priceBand}</span>}
+            {badges.map((b) => <span class="ah-tag">{b}</span>)}
+          </div>
+
+          <p class="ah-meta">
+            {h.typicalFrom && <span>From {h.typicalFrom}</span>}
+            {h.style && <span>{h.style}</span>}
+            {h.roomTypes && <span>{h.roomTypes}</span>}
+            {h.station && h.walkMin && <span>{h.walkMin} min from {h.station}</span>}
+          </p>
+
+          {h.whyGo && <p class="ah-why">{h.whyGo}</p>}
+          {h.opNote && <p class="ah-note">{h.opNote}</p>}
+
+          {(h.bookingUrl || h.affiliateUrl || h.website) && (
+            <p class="ah-links">
+              {h.bookingUrl && (
+                <a href={h.bookingUrl} rel="nofollow noopener" target="_blank">Book direct</a>
+              )}
+              {!h.bookingUrl && h.affiliateUrl && (
+                <a href={h.affiliateUrl} rel="sponsored nofollow noopener" target="_blank" data-affiliate={h.affiliateNetwork}>
+                  Check prices<span class="ah-ad">ad</span>
+                </a>
+              )}
+              {h.website && !h.bookingUrl && (
+                <a href={h.website} rel="nofollow noopener" target="_blank">Website</a>
+              )}
+            </p>
+          )}
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
+
+<style>
+  .area-hotels { margin-block: 3rem 2rem; }
+  .ah-intro { margin: 0 0 1.5rem; opacity: 0.8; }
+  .ah-disclosure { display: block; margin-block-start: 0.5rem; font-size: 0.85rem; }
+  /* Section class AND element, for the same reason as the other two sections:
+     ArticleLayout's `.article__body :global(ul) { list-style: disc }` ties on
+     specificity and wins on source order. These are cards, not bullets. */
+  .area-hotels ul.ah-list {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    display: grid;
+    gap: 1.5rem;
+  }
+  .ah-item { border-block-end: 1px solid var(--line, #e2e2e2); padding-block-end: 1.5rem; }
+  .ah-list > .ah-item:last-child { border-block-end: 0; padding-block-end: 0; }
+  .ah-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 0.5rem; }
+  .ah-head h3 { margin: 0; font-size: 1.1rem; }
+  .ah-price { font-weight: 800; color: var(--accent); }
+  .ah-tag {
+    font-size: 0.7rem; letter-spacing: 0.04em; text-transform: uppercase;
+    padding: 0.1rem 0.45rem; border-radius: 3px; border: 1px solid currentColor;
+    opacity: 0.8;
+  }
+  .ah-meta { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; margin: 0.35rem 0 0; font-size: 0.85rem; opacity: 0.75; }
+  .ah-why { margin: 0.5rem 0 0; }
+  .ah-note { margin: 0.4rem 0 0; font-size: 0.9rem; opacity: 0.85; }
+  .ah-links { display: flex; flex-wrap: wrap; gap: 0.9rem; margin: 0.5rem 0 0; font-size: 0.9rem; }
+  .ah-ad {
+    margin-inline-start: 0.35rem;
+    padding: 0.05rem 0.3rem;
+    border: 1px solid currentColor;
+    border-radius: 3px;
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    vertical-align: 0.1em;
+    opacity: 0.7;
+  }
+</style>

@@ -1,0 +1,54 @@
+{
+  "cuisine": "pakistani",
+  "note": "THE PAKISTANI PASS. Pakistani has been swept into Indian throughout this project, which is wrong in the same way that filing Sri Lankan or Bangladeshi under Indian is wrong - and it hid two of London's genuinely famous restaurants. Tayyabs and the Original Lahore Kebab House have been trading in Whitechapel since the 1970s and 1972 respectively, are London institutions, and were absent from 606 rows. The Indian consensus sources do not carry them because the guides that cover them are Pakistani-specific. Every URL came from a search result.",
+  "recorded": "2026-08-18",
+  "sources": [
+    {
+      "name": "The Infatuation (Pakistani)",
+      "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london",
+      "scope": "pakistani",
+      "names": [
+        "Lahore Karahi",
+        "Dawat Restaurant & Take Away",
+        "Spice Village",
+        "Namak Mandi",
+        "Karachi Cuisine",
+        "Tayyabs",
+        "Shalamar Kebab House",
+        "Dilpasand Restaurant",
+        "Lahore Kebab House",
+        "Lahori Nihaari",
+        "Zayna",
+        "Taste Of Lahore",
+        "Gifto's Lahore Karahi",
+        "Aladin Kebabish",
+        "Taste of Pakistan"
+      ]
+    },
+    {
+      "name": "London x London (Pakistani)",
+      "url": "https://www.londonxlondon.com/pakistani-restaurants-london/",
+      "scope": "pakistani",
+      "names": [
+        "Tayyabs",
+        "Punjab Indian Restaurant",
+        "Aladin",
+        "Spice Village Tooting",
+        "Salloos",
+        "Lahori",
+        "Namak Mandi",
+        "Lahore Kebab House",
+        "Lahore Local",
+        "SHOLA Karachi Kitchen",
+        "Pakistani London Restaurants: Read Next"
+      ]
+    },
+    {
+      "name": "Wanderlog (Pakistani)",
+      "url": "https://wanderlog.com/list/geoCategory/801282/best-pakistani-foods-and-restaurants-in-london",
+      "scope": "pakistani",
+      "names": [],
+      "error": "no headings matched"
+    }
+  ]
+}

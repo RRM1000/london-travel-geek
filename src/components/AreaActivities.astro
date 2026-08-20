@@ -1,0 +1,152 @@
+---
+// Things to do in an area, injected into every area guide automatically.
+//
+// Matches on the guide's own id, so a new row in the Activities tab appears on
+// the right page with no edit to the markdown. A guide with no activity rows
+// renders nothing at all rather than an empty heading.
+import data from "../data/activities.json";
+
+interface Props {
+  /** The article id, e.g. "shoreditch-area-guide". */
+  articleId: string;
+  /** Place name for the heading, e.g. "Shoreditch". */
+  areaName: string;
+}
+const { articleId, areaName } = Astro.props as Props;
+
+type Activity = {
+  slug: string; name: string; type?: string; style?: string;
+  area?: string; station?: string; walkMin?: number;
+  agePolicy?: string; seasonal?: string; duration?: string;
+  price?: string; booking?: string; opNote?: string;
+  whyGo?: string; website?: string; bookingUrl?: string;
+};
+
+const all = (data.activities as Activity[]).filter((a: any) => a.guide === articleId);
+
+// Free things first — they are the ones readers most often do not know about,
+// and the ones the local guides lead with.
+const isFree = (a: Activity) => /free/i.test(a.price ?? "");
+const list = [...all].sort((a, b) => {
+  const f = Number(isFree(b)) - Number(isFree(a));
+  return f !== 0 ? f : a.name.localeCompare(b.name);
+});
+
+// Only the age policies worth warning about. "all-ages" needs no label.
+const AGE_LABEL: Record<string, string> = {
+  "over-18": "18+",
+  "over-16": "16+",
+  "adults-only": "Adults only",
+  "over-18-evenings": "18+ in the evening",
+};
+const SEASON_LABEL: Record<string, string> = {
+  "winter-only": "Winter only",
+  "summer-only": "Summer only",
+  seasonal: "Seasonal",
+};
+---
+
+{list.length > 0 && (
+  <section class="area-activities">
+    <h2 id="things-to-do">Things to do in {areaName}</h2>
+    <p class="aa-intro">
+      Beyond eating and drinking. Free things are listed first.
+      <span class="aa-disclosure">
+        Links marked <span class="aa-ad">ad</span> are affiliate links. If you
+        book through one we may earn a commission, at no extra cost to you. It
+        never affects what goes on this list.
+      </span>
+    </p>
+
+    <ul class="aa-list">
+      {list.map((a) => (
+        <li class="aa-item">
+          <div class="aa-head">
+            <h3>{a.name}</h3>
+            {isFree(a) && <span class="aa-tag aa-free">Free</span>}
+            {a.agePolicy && AGE_LABEL[a.agePolicy] && (
+              <span class="aa-tag aa-age">{AGE_LABEL[a.agePolicy]}</span>
+            )}
+            {a.seasonal && SEASON_LABEL[a.seasonal] && (
+              <span class="aa-tag aa-season">{SEASON_LABEL[a.seasonal]}</span>
+            )}
+          </div>
+
+          <p class="aa-meta">
+            {a.style && <span>{a.style}</span>}
+            {a.duration && <span>{a.duration}</span>}
+            {a.price && !isFree(a) && <span>{a.price}</span>}
+            {a.booking === "required" && <span>Book ahead</span>}
+            {a.station && a.walkMin && <span>{a.walkMin} min from {a.station}</span>}
+          </p>
+
+          {a.whyGo && <p class="aa-why">{a.whyGo}</p>}
+          {a.opNote && <p class="aa-note">{a.opNote}</p>}
+
+          {(a.bookingUrl || a.affiliateUrl || a.website) && (
+            <p class="aa-links">
+              {a.bookingUrl && (
+                <a href={a.bookingUrl} rel="nofollow noopener" target="_blank">Book direct</a>
+              )}
+              {!a.bookingUrl && a.affiliateUrl && (
+                <a href={a.affiliateUrl} rel="sponsored nofollow noopener" target="_blank" data-affiliate={a.affiliateNetwork}>
+                  Check tickets on GetYourGuide<span class="aa-ad">ad</span>
+                </a>
+              )}
+              {a.website && !a.bookingUrl && (
+                <a href={a.website} rel="nofollow noopener" target="_blank">Website</a>
+              )}
+            </p>
+          )}
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
+
+<style>
+  .area-activities { margin-block: 3rem 2rem; }
+  .aa-intro { margin: 0 0 1.5rem; opacity: 0.8; }
+  .aa-disclosure { display: block; margin-block-start: 0.5rem; font-size: 0.85rem; }
+  /* ul.<class>, not just .<class>: ArticleLayout sets
+     `.article__body :global(ul) { list-style: disc }`, which ties this on
+     specificity and wins on source order. Both the section class AND the
+     element are needed - ul.<class> alone still only TIES, because Astro adds
+     its scope attribute to both rules. These are cards, not bullets. */
+  .area-activities ul.aa-list {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    display: grid;
+    gap: 1.5rem;
+  }
+  .aa-item { border-block-end: 1px solid var(--color-border, #e2e2e2); padding-block-end: 1.5rem; }
+  .aa-list > .aa-item:last-child { border-block-end: 0; padding-block-end: 0; }
+  .aa-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 0.5rem; }
+  .aa-head h3 { margin: 0; font-size: 1.1rem; }
+  .aa-tag {
+    font-size: 0.7rem; letter-spacing: 0.04em; text-transform: uppercase;
+    padding: 0.1rem 0.45rem; border-radius: 3px; border: 1px solid currentColor;
+  }
+  .aa-free { color: var(--color-accent, #1f5d4c); }
+  .aa-age, .aa-season { opacity: 0.8; }
+  .aa-meta { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; margin: 0.35rem 0 0; font-size: 0.85rem; opacity: 0.75; }
+  .aa-why { margin: 0.5rem 0 0; }
+  .aa-note { margin: 0.4rem 0 0; font-size: 0.9rem; opacity: 0.85; }
+  .aa-links { display: flex; flex-wrap: wrap; gap: 0.9rem; margin: 0.5rem 0 0; font-size: 0.9rem; }
+  /* The "ad" marker is required, not decorative. UK CAP rules want a
+     commercial relationship identifiable BEFORE the click, so it rides on the
+     link itself rather than only living in a disclosure line further down. */
+  .aa-ad {
+    margin-inline-start: 0.35rem;
+    padding: 0.05rem 0.3rem;
+    border: 1px solid currentColor;
+    border-radius: 3px;
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    vertical-align: 0.1em;
+    opacity: 0.7;
+  }
+</style>

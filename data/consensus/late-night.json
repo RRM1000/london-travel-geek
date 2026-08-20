@@ -1,0 +1,111 @@
+{
+  "cuisine": "late-night",
+  "note": "THE LATE-NIGHT PASS. NOT a cuisine - a FILTER, recorded as the lists value 'late-night'. See notCuisines: this is exactly the class of high-volume search that must never become a Cuisine value. It is also not fully expressible from existing fields, because the sheet has no closing-time column - Closed Days says which days, never how late. So the list value carries it, and the operational note carries the detail. Venues here are a mix: some are 24-hour, some simply serve past midnight, and the two are different promises to a visitor.",
+  "recorded": "2026-08-18",
+  "sources": [
+    {
+      "name": "The Infatuation (late night)",
+      "url": "https://www.theinfatuation.com/london/guides/the-best-late-night-restaurants-in-london",
+      "scope": "late-night",
+      "names": [
+        "Dover Street Counter",
+        "Gökyüzü Restaurant",
+        "Lebo Lebanese Grill",
+        "27 Old Compton Street",
+        "Nan Hotpot",
+        "Bloodsports",
+        "Bar Italia",
+        "Noodle & Beer Chinatown",
+        "Rye Lane Bagels",
+        "Jihwaja",
+        "Yasar's Kitchen",
+        "Diyarbakır Kitchen",
+        "Lahore Kebab House",
+        "Cafe Helen",
+        "Durak Tantuni",
+        "Speedboat Bar",
+        "Old Town 97",
+        "Haringey Corbacisi",
+        "Sager + Wilde",
+        "Voodoo Ray's",
+        "Meatliquor W1",
+        "Lanzhou Lamian Noodle Bar",
+        "Beigel Bake"
+      ]
+    },
+    {
+      "name": "The Nudge (24-hour and late night)",
+      "url": "https://thenudge.com/late-night-restaurants-london/",
+      "scope": "late-night",
+      "names": [
+        "The Details",
+        "Café KOKO | Camden"
+      ]
+    },
+    {
+      "name": "Hot Dinners (late night)",
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/late-night-restaurants-dining-london-after-hours",
+      "scope": "late-night",
+      "names": [
+        "Offers",
+        "Test Drives",
+        "Summer",
+        "All features",
+        "See all offers",
+        "Hot Dinners recommends",
+        "Staying in"
+      ]
+    },
+    {
+      "name": "London x London (24-hour)",
+      "url": "https://www.londonxlondon.com/late-night-restaurants-london/",
+      "scope": "late-night",
+      "names": [
+        "Sushisamba",
+        "Duck and Waffle",
+        "Balans Soho Society",
+        "Bob Bob Ricard",
+        "Smoking Goat",
+        "MEATliquor W1",
+        "Brasserie Zedel",
+        "Opium Cocktails and Dim Sum Parlour",
+        "Old Compton Brasserie",
+        "Three Eight Four",
+        "El Camion",
+        "VQ",
+        "Polo Bar",
+        "Decimo",
+        "Brick Lane Bagel Shops",
+        "Refill Eaterie",
+        "Bar Italia",
+        "Ranoush Juice",
+        "Voodoo Rays",
+        "Sager & Wilde",
+        "Gokyuzu"
+      ]
+    },
+    {
+      "name": "Luxury London (late-night dining)",
+      "url": "https://luxurylondon.co.uk/taste/food/late-night-dining-london-after-hours-restaurants/",
+      "scope": "late-night",
+      "names": [
+        "/ Social",
+        "Brasserie Zedel",
+        "Bob Bob Ricard",
+        "Sexy Fish",
+        "Duck & Waffle",
+        "The Dover",
+        "Speedboat Bar",
+        "Solaya London",
+        "Posts"
+      ]
+    },
+    {
+      "name": "Quintessentially (late-night)",
+      "url": "https://quintessentially.com/noted/best-late-night-restaurants-london",
+      "scope": "late-night",
+      "names": [],
+      "error": "HTTP 403"
+    }
+  ]
+}

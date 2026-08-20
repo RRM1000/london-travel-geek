@@ -5,7 +5,7 @@ export type RestaurantMapMarker = {
   station?: string;
   latitude: number;
   longitude: number;
-  type: "editorial" | "video";
+  type: "editorial" | "video" | "streetfood";
   articleAnchor?: string;
   videoUrl?: string;
 };
@@ -83,26 +83,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       articleAnchor: "#kricket-several-locations",
     },
     {
-      name: "Rasa",
-      area: "Stoke Newington",
-      price: "£",
-      station: "Stoke Newington",
-      latitude: 51.562056,
-      longitude: -0.07653,
-      type: "editorial",
-      articleAnchor: "#rasa-stoke-newington",
-    },
-    {
-      name: "Saravanaa Bhavan (East Ham)",
-      area: "East Ham",
-      price: "£",
-      station: "East Ham",
-      latitude: 51.542421,
-      longitude: 0.050462,
-      type: "editorial",
-      articleAnchor: "#saravanaa-bhavan-several-locations",
-    },
-    {
       name: "Shree Krishna Vada Pav (Fitzrovia)",
       area: "Fitzrovia",
       price: "£",
@@ -133,6 +113,56 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       articleAnchor: "#brigadiers-city-of-london",
     },
     {
+      name: "Horn OK Please & Gujarati Rasoi",
+      area: "Borough Market",
+      price: "£",
+      station: "London Bridge",
+      latitude: 51.5055,
+      longitude: -0.091,
+      type: "streetfood",
+      articleAnchor: "#horn-ok-please--gujarati-rasoi--borough-market-southwark",
+    },
+    {
+      name: "Gopal’s Corner (Market Halls Victoria)",
+      area: "Victoria",
+      price: "£–££",
+      station: "Victoria",
+      latitude: 51.4965,
+      longitude: -0.1437,
+      type: "streetfood",
+      articleAnchor: "#gopals-corner--market-halls-victoria--oxford-street",
+    },
+    {
+      name: "Gopal’s Corner (Market Halls Oxford St)",
+      area: "Fitzrovia / Oxford St",
+      price: "£–££",
+      station: "Oxford Circus",
+      latitude: 51.5152,
+      longitude: -0.1444,
+      type: "streetfood",
+      articleAnchor: "#gopals-corner--market-halls-victoria--oxford-street",
+    },
+    {
+      name: "Kolkati (Seven Dials Market)",
+      area: "Covent Garden",
+      price: "£",
+      station: "Covent Garden",
+      latitude: 51.5135,
+      longitude: -0.1265,
+      type: "streetfood",
+      articleAnchor: "#kolkati--seven-dials-market-covent-garden",
+    },
+    {
+      name: "Mercato Metropolitano",
+      area: "Southwark",
+      price: "£",
+      station: "Elephant & Castle",
+      latitude: 51.4988,
+      longitude: -0.0991,
+      type: "streetfood",
+      articleAnchor: "#mercato-metropolitano-elephant--castle--southwark",
+    },
+    {
       name: "Tayyabs",
       area: "Whitechapel",
       station: "Whitechapel",
@@ -140,15 +170,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       longitude: -0.063461,
       type: "video",
       videoUrl: "https://www.youtube.com/watch?v=AHUnqeRroYk&t=228s",
-    },
-    {
-      name: "Moka",
-      area: "Northwood",
-      station: "Northwood",
-      latitude: 51.612104,
-      longitude: -0.425944,
-      type: "video",
-      videoUrl: "https://www.youtube.com/watch?v=6mDJrJFvllo&t=750s",
     },
     {
       name: "Empire Empire",

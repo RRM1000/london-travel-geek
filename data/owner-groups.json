@@ -1,0 +1,23 @@
+{
+  "note": "Group-level sites for press-kit detection. A press office sits at group level, not venue level - Maybourne's media centre is on maybourne.com, not on claridges.co.uk - so checking each venue's homepage misses it every time. Domains here are checked by an actual fetch; anything that fails is recorded as an error rather than left looking valid. Wolseley and MW Eat domains were GUESSED on the first pass and both failed to resolve - looked up properly 2026-08-17. The failure was visible rather than silent, which is the point of recording pressError instead of leaving a bad URL in place.",
+  "groups": {
+    "Maybourne Hotel Group": "https://www.maybourne.com/",
+    "Dorchester Collection": "https://www.dorchestercollection.com/",
+    "Rocco Forte Hotels": "https://www.roccofortehotels.com/",
+    "JKS Restaurants": "https://jksrestaurants.com/",
+    "Big Mamma": "https://www.bigmammagroup.com/",
+    "Langham Hospitality Group": "https://www.langhamhotels.com/",
+    "Oetker Collection": "https://www.oetkercollection.com/",
+    "Accor / Fairmont": "https://www.fairmont.com/",
+    "Mandarin Oriental Hotel Group": "https://www.mandarinoriental.com/",
+    "Rosewood Hotel Group": "https://www.rosewoodhotels.com/",
+    "Red Carnation Hotels": "https://www.redcarnationhotels.com/",
+    "Wolseley Hospitality Group": "https://thewolseleyhospitalitygroup.com/",
+    "Soho House": "https://www.sohohouse.com/",
+    "The Ritz London": "https://www.theritzlondon.com/",
+    "MW Eat": "https://www.mweat.com/",
+    "The Taj Group": "https://www.tajhotels.com/",
+    "St John Restaurants": "https://stjohnrestaurant.com/",
+    "InterContinental London Park Lane": "https://www.ihg.com/intercontinental/hotels/gb/en/london/lonhb/hoteldetail"
+  }
+}

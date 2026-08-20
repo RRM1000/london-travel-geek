@@ -1,0 +1,42 @@
+{
+  "Fulham Broadway": {
+    "lat": 51.480081,
+    "lng": -0.195422,
+    "resolved": "Fulham Broadway Underground Station"
+  },
+  "Charing Cross": {
+    "lat": 51.507819,
+    "lng": -0.126137,
+    "resolved": "Charing Cross"
+  },
+  "Green Park": {
+    "lat": 51.506947,
+    "lng": -0.142787,
+    "resolved": "Green Park Underground Station"
+  },
+  "London Bridge": {
+    "lat": 51.505881,
+    "lng": -0.086807,
+    "resolved": "London Bridge"
+  },
+  "Elephant & Castle": {
+    "lat": 51.494505,
+    "lng": -0.099185,
+    "resolved": "Elephant & Castle"
+  },
+  "Tottenham Court Road": {
+    "lat": 51.516018,
+    "lng": -0.130888,
+    "resolved": "Tottenham Court Road"
+  },
+  "Liverpool Street": {
+    "lat": 51.51794,
+    "lng": -0.083162,
+    "resolved": "Liverpool Street"
+  },
+  "Hyde Park Corner": {
+    "lat": 51.503035,
+    "lng": -0.152441,
+    "resolved": "Hyde Park Corner Underground Station"
+  }
+}

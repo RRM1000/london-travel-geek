@@ -1,0 +1,83 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { facets, generated, MIN_ROWS_FOR_ROUTE, restaurants } from "../../lib/restaurants";
+
+const routable = (list: typeof facets.cuisine) => list.filter((f) => f.count >= MIN_ROWS_FOR_ROUTE);
+const cuisines = routable(facets.cuisine);
+const areas = routable(facets.area);
+const specialities = routable(facets.speciality);
+
+const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Restaurants" }];
+---
+
+<BaseLayout
+  title="London restaurants: browse by cuisine, area or dish"
+  description={`Every restaurant we cover in London — ${restaurants.length} places across ${cuisines.length} cuisines and ${areas.length} neighbourhoods, with what each one is for.`}
+  breadcrumbs={breadcrumbs}
+>
+  <section class="container rindex">
+    <header class="rhero">
+      <h1>London restaurants</h1>
+      <p class="rlede">
+        {restaurants.length} places we have researched and written up, browsable by
+        what you want to eat or where you happen to be.
+      </p>
+    </header>
+
+    <section class="rgroup">
+      <h2>By cuisine</h2>
+      <ul class="rchips">
+        {cuisines.map((f) => (
+          <li>
+            <a href={`/restaurants/cuisine/${f.slug}`}>{f.value} <span>{f.count}</span></a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="rgroup">
+      <h2>By area</h2>
+      <ul class="rchips">
+        {areas.map((f) => (
+          <li>
+            <a href={`/restaurants/area/${f.slug}`}>{f.value} <span>{f.count}</span></a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="rgroup">
+      <h2>By dish and speciality</h2>
+      <ul class="rchips">
+        {specialities.map((f) => (
+          <li>
+            <a href={`/restaurants/speciality/${f.slug}`}>{f.value.replace(/-/g, " ")} <span>{f.count}</span></a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <p class="rfoot">
+      Anything with fewer than {MIN_ROWS_FOR_ROUTE} places does not get its own page yet.
+      Last updated {generated}.
+    </p>
+  </section>
+</BaseLayout>
+
+<style>
+  .rindex { padding-block: 2rem 4rem; max-width: 52rem; }
+  .rhero { margin-block-end: 2.5rem; }
+  .rhero h1 { margin: 0 0 0.5rem; text-wrap: balance; }
+  .rlede { margin: 0; max-width: 40rem; }
+  .rgroup { margin-block-end: 2.5rem; }
+  .rgroup h2 { margin: 0 0 0.9rem; font-size: 1.15rem; }
+  .rchips { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .rchips a {
+    display: inline-flex; align-items: baseline; gap: 0.45rem;
+    border: 1px solid var(--color-border, #e2e2e2); border-radius: 999px;
+    padding: 0.3rem 0.8rem; text-decoration: none; font-size: 0.92rem;
+  }
+  .rchips a:hover, .rchips a:focus-visible { border-color: currentColor; }
+  .rchips span { font-variant-numeric: tabular-nums; font-size: 0.8rem; opacity: 0.65; }
+  .rfoot { margin-block-start: 3rem; font-size: 0.85rem; opacity: 0.7; }
+</style>

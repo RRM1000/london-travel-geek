@@ -1,0 +1,544 @@
+{
+  "purpose": "The canonical list of WHAT to search and WHICH passes to run for every cuisine. It exists because passes kept being skipped and nobody noticed: pizza got no video pass until challenged, British got none either, and Fallow was missed because the British source set had no awards lists at all. Memory is not a process. This file is.",
+  "howToUse": "node scripts/research-status.mjs <cuisine>  reports which passes have run and which publishers are still unread. Run it BEFORE declaring a cuisine finished.",
+  "passes": [
+    {
+      "id": "consensus",
+      "what": "Diff the sheet against published lists via scripts/consensus.mjs. Target 12+ usable publisher DOMAINS.",
+      "required": true,
+      "note": "Same publisher across two pages is one domain, not two. Two lists from one editor is one opinion."
+    },
+    {
+      "id": "awards",
+      "what": "Awards and ranking lists, which is a different population from listicles.",
+      "required": true,
+      "note": "THE FALLOW LESSON. Award-circuit restaurants are absent from 'best X in London' listicles. Skipping this class is how the most talked-about British restaurant in London went missing. Top 100s use <ol>/<li> and tables, not headings - the extractor handles both.",
+      "michelinIsBlocked": "guide.michelin.com returns HTTP 403 to the fetcher. Do NOT record a Michelin URL as a source - it will never fetch. Use the Wikipedia star tables instead, which carry YEAR-BY-YEAR history and so distinguish a current star from a lost one.",
+      "workingSources": [
+        "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_Greater_London",
+        "https://en.wikipedia.org/wiki/List_of_restaurants_in_London"
+      ],
+      "verifyStarsAreCurrent": "A star is a CLAIM WITH A DATE. Check the year columns before writing \"holds a Michelin star\". Caught on the Chinese pass: Hakkasan (both branches) lost their stars in the 2024 guide and Yauatcha lost its in 2019, but both were written as current. Kai Mayfair held one through 2024 and was missing from the sheet entirely.",
+      "chineseLesson": "The Fallow pattern, second occurrence. The 12 Chinese consensus domains skew Chinatown, dim sum and value: A. Wong (2 stars) scored 1 domain; Hakkasan, Park Chinois, Min Jiang, Mimi Mei Fair and Kai Mayfair scored ZERO. A cuisine whose fine-dining tier sits outside the listicle population needs the awards pass to find it. Run awards BEFORE judging consensus coverage, not after."
+    },
+    {
+      "id": "generalexcellence",
+      "what": "Cross-check the cuisine against GENERAL 'best restaurants in London' rankings, not just cuisine-specific lists.",
+      "required": true,
+      "note": "THE SPEEDBOAT LESSON, and it is distinct from the Fallow one. Fallow was missed because there was no awards source. Speedboat Bar was missed even though sources existed: it is filed as Thai-Chinese, so no Thai list carries it - while Time Out ranked it the FOURTH best restaurant in London. A venue that straddles two cuisines is invisible to both cuisine populations and highly visible in the general one.",
+      "method": "Take the top ~50 from general London rankings, assign each a cuisine, and check it against the sheet. Anything unmatched is either a missing row or a missing cuisine.",
+      "alsoCheckPending": "Read pending-cross-cuisine.json for this cuisine BEFORE starting - consensus.mjs now prints a PENDING FOR THIS CUISINE block. Six names sat parked through their own passes because nothing checked."
+    },
+    {
+      "id": "newopenings",
+      "what": "Restaurants too new to appear on any consensus list.",
+      "required": true,
+      "note": "STRUCTURALLY NECESSARY, not optional. Every other pass ranks by consensus across published lists, so a restaurant needs months of coverage before it can score. Anything that opened this year is invisible to all of them BY CONSTRUCTION, however good it is. Oudh 1722 is the worked example - a two-Michelin-star chef opened it in spring 2026 and it reached the sheet only because it had been parked in pending since the Italian pass.",
+      "sourceFile": "data/consensus/new-openings.json",
+      "scoring": "Relax the 2+ domain threshold when READING this pass. A genuinely new opening may have one write-up. The single-domain tier is worth reading here in a way it is not for established cuisines - but it is also noisier, because openings pages use descriptive headings (\"The LA-style diner\") rather than venue names.",
+      "cadence": "Re-run quarterly. The source pages are month-stamped, so the same URLs keep returning fresh names."
+    },
+    {
+      "id": "video",
+      "what": "scripts/video-research.mjs on 3-4 query variants.",
+      "required": true,
+      "note": "Reaches market stalls, pub residencies and counters that listicles never cover. Chapters give deep links; descriptions give addresses WITH postcodes. Skipped for pizza and British until challenged both times."
+    },
+    {
+      "id": "last30days",
+      "what": "The last30days skill for Reddit and social. Use --days 730 with evergreen_ok.",
+      "required": true,
+      "note": "Recency-bound by default, which is wrong for evergreen topics. Run only once per cuisine; it works for distinctive cuisines and returns almost nothing for generic ones."
+    },
+    {
+      "id": "subtypes",
+      "what": "A separate pass per speciality the cuisine splits into.",
+      "required": true,
+      "note": "Italian -> pizza. British -> gastropub, sunday-roast, fish-and-chips, pie-mash, breakfast, afternoon-tea. Same cuisine, separate sources, separate pages."
+    },
+    {
+      "id": "streetfood",
+      "what": "Street food, markets, food halls and market stalls - a separate VENUE FORMAT population, not a separate cuisine.",
+      "required": true,
+      "note": "Sit-down restaurant listicles do not cover stalls, and market guides do not cover restaurants. The two source populations barely overlap, so a cuisine researched only through restaurant lists will hold no stalls at all.",
+      "evidence": "Run on 2026-08-18: the sheet held 11 street-food/market/hall rows across 220, and BRITISH held ZERO - no Borough Market, no Maltby Street, no Broadway Market, in the city those markets define. Neither the 12-domain consensus pass nor the awards pass nor the video pass surfaces them, because none of those sources is looking at stalls.",
+      "queries": [
+        "best {cuisine} street food London",
+        "best London food markets",
+        "best London food halls",
+        "best stalls Borough Market / Maltby Street / Seven Dials / Old Spitalfields",
+        "{market name} traders list"
+      ],
+      "sources": [
+        "https://www.timeout.com/london/restaurants/londons-best-street-food-markets-and-food-halls",
+        "https://www.timeout.com/london/shopping/the-best-food-markets-in-london",
+        "https://boroughmarket.org.uk/traders/",
+        "https://www.visitlondon.com/things-to-do/shopping/market/food-market"
+      ],
+      "twoRowTypes": "Record BOTH the market/hall itself (venueFormat Market or Food Hall) and the individual traders worth naming (venueFormat Market Stall or Counter, with venueContext set to the parent market). A guide needs both: the destination and the thing to order when you get there.",
+      "cuisineFiling": "A market is multi-cuisine. File the market row under the cuisine whose pass found it, set venueFormat to Market/Food Hall so it is separable, and DO NOT give it a best-{cuisine}-restaurant list value - otherwise Borough Market lands on a best-British-restaurants page.",
+      "perishable": "Resident traders rotate faster than restaurants close. Never name a trader in prose without re-checking the market's own trader listing first."
+    },
+    {
+      "id": "branches",
+      "what": "Branch rows for every mini-chain, from the brand's own site.",
+      "required": true,
+      "note": "Only mini-chains (2-8 sites). A 9+ chain is ubiquitous and its branches are not worth listing."
+    },
+    {
+      "id": "unactioned",
+      "what": "Clear the UNACTIONED report - every 2+ source name must be a row or recorded as pending.",
+      "required": true,
+      "note": "A name can score 3 sources and still reach neither the sheet nor the pending file. That is exactly how Fallow was lost."
+    },
+    {
+      "id": "places",
+      "what": "One billed Places run at the very end. ALWAYS ASK FIRST.",
+      "required": false,
+      "note": "Fills address, postcode, hours, status; then geo/walk/booking cascade free. Scope with --list= to finish one page at a time."
+    },
+    {
+      "id": "sweep",
+      "what": "A final catch-all sweep once the cuisine passes are done: anything acclaimed that no cuisine pass found.",
+      "required": true,
+      "method": "Re-run the general-excellence pass, then diff the sheet against Time Out 50 Best, the National Restaurant Awards top 100, the Good Food Guide London list and the Michelin star tables. Anything unmatched is a missing row, a missing cuisine, or a closure.",
+      "note": "Distinct from generalexcellence, which runs per cuisine. This runs ONCE across everything and is the last line of defence. It is also where CLOSURES surface - Seoul Bird Canary Wharf was still in the sheet until the site owner spotted it, not the tooling.",
+      "alsoCheck": "Run the STALE PENDING and PENDING FOR THIS CUISINE reports for every cuisine, and confirm pendcheck shows zero missed."
+    },
+    {
+      "id": "showstopper",
+      "what": "Rooms worth going to for the room: striking, unusual, or photogenic.",
+      "required": false,
+      "CRITICAL": "THIS IS A FILTER, NOT A CUISINE. See notCuisines - the 144-cuisine mess started exactly this way. It must never become a Cuisine value.",
+      "howItIsStored": "Mostly ALREADY EXPRESSIBLE from existing fields: setting contains rooftop/riverside/canal/garden/courtyard/terrace/railway-arch/historic-building/basement, plus venueContext for landmark buildings. What is missing is a value for rooms that are striking WITHOUT one of those settings - so add lists value \"showstopper\" and let the setting field carry the rest.",
+      "queries": [
+        "most beautiful restaurants London",
+        "best restaurant interiors London",
+        "most Instagrammable restaurants London",
+        "best rooftop restaurants London",
+        "restaurants with a view London",
+        "prettiest restaurants London"
+      ],
+      "warning": "Instagram-led lists skew heavily to places that photograph better than they cook. Record the room in Why Go and keep the food judgement separate - never let a showstopper row imply the food is good unless a food source says so."
+    },
+    {
+      "name": "activities",
+      "purpose": "Find the things to DO in an area - games, immersive venues, museums, viewpoints, markets, parks - as distinct from the things to EAT, which live on the restaurant sheet.",
+      "when": "Once per area guide. Re-run when a guide is rewritten or a major venue opens.",
+      "queryShapes": {
+        "note": "Four shapes per guide. Two is not enough - the free things only surface on shape 3.",
+        "1_generic": "things to do in {area} London 2026",
+        "2_namedPublishers": "{area} London things to do Time Out Londonist Secret London The Nudge DesignMyNight - naming publishers surfaces their area pages directly",
+        "3_free": "free things to do in {area} London - THE MOST IMPORTANT SHAPE. The paid attractions are on every list; the free ones are what the local guides lead with and what a visitor most wants. Canary Wharf's roof garden and Jubilee Park were both missed by skipping this.",
+        "4_subtype": "{area} escape room crazy golf bowling immersive karaoke - the games venues do not appear on general 'things to do' lists at all"
+      },
+      "scopeTraps": [
+        "US NAMESAKES. 'Camden' returns Camden NJ and 'Greenwich' returns Greenwich CT. Both appeared in this pass. Check the result is in London before harvesting it.",
+        "ADJACENT-AREA DRIFT. The O2 and TOCA Social are Greenwich Peninsula, a Tube stop from Greenwich town. They are in the Greenwich guide only because that guide's own frontmatter lists North Greenwich among its stations. READ THE GUIDE'S SCOPE before assigning a row - do not guess from the map.",
+        "SPLIT LANDMARKS. Regent's Park fronts onto both Camden and Marylebone. London Zoo went to Camden because the Camden guides reach it by canal from Camden Lock; the park and Queen Mary's Gardens went to Marylebone. One feature can legitimately serve two guides at different ends."
+      ],
+      "closedVenueCheck": {
+        "why": "Listicles and Tripadvisor pages outlive the venues they describe, complete with opening hours and prices. THREE closed venues were caught in this pass alone, all of them presented as open by at least one collected source.",
+        "caught": [
+          "Namco Funscape, South Bank - closed permanently August 2021.",
+          "Museum of London, London Wall - closed December 2022. Reopens as London Museum at Smithfield on 28 November 2026, so it is carried at status opening-soon and the export withholds it.",
+          "Pollock's Toy Museum, Scala Street - closed January 2023, now Croydon and Leadenhall Market. A collected source still quoted its Fitzrovia admission prices."
+        ],
+        "rule": "Any venue you did not see on its OWN current site gets a dated verification search before it gets a row. A row for a closed venue is worse than no row."
+      },
+      "factsToVerifyEveryTime": [
+        "FREE OR NOT. A source claimed the Painted Hall at Greenwich was free to visit; it is about £19. The grounds are free, the hall is not. Check the venue's own ticketing page before writing 'free'.",
+        "AGE AND HEIGHT LIMITS. The Orbit slide is minimum age 8, 130cm, maximum 130kg. Plonk Camden admits under-18s only before 5pm on weekdays. The Hampstead ponds are 16+ with no adult exemption. These decide whether a family trip works and almost nobody publishes them clearly.",
+        "OPENING PATTERN. The Cartoon Museum opens Tue, Wed, Fri, Sat only. The Fitzrovia Chapel is Mon-Wed plus one Sunday. Greenwich Peninsula Ecology Park shuts Mon-Tue. A weekend visitor hits a locked door.",
+        "SEASONALITY. Frank's Cafe is May-September. The NHM rink is late October to January. Notting Hill Carnival is two days a year. Set the seasonal column rather than describing a summer venue as if it were permanent.",
+        "BOOKING MECHANICS. Sky Garden's free tickets go in minutes; The Lookout releases fortnightly; The Garden at 120 needs no booking at all. Three free City viewpoints, three completely different plans."
+      ],
+      "inclusionRules": {
+        "cinemaRule": "A cinema earns a row only when the ROOM is the reason to go - the Electric in Notting Hill, the BFI IMAX screen, an outdoor or rooftop screen - or when the PRICE is the story, as at Peckhamplex. A chain multiplex is a listing, not a recommendation.",
+        "theatreRule": "The same test, added during this pass. A theatre earns a row only when the room is the reason: a marionette theatre inside a canal barge, a surviving Matcham music hall. Conventional playhouses belong to the sister theatre site however good the show is.",
+        "freeThings": "Free things get rows and sort first on the page. They are the least-published and most-wanted answer to 'what else is there here'.",
+        "notAVenue": "A market, a street, a towpath walk or a carnival is a genuine activity and gets a row rather than being forced into a venue shape."
+      },
+      "thinGuides": "Some areas honestly have three or four. Wapping is a walk and some pubs; Fitzrovia is a restaurant district. Padding a thin guide with venues from the area next door misrepresents where things are - record what is there and say so in a comment.",
+      "overlapNote": "On a thin guide the activity rows can restate the guide's own 'Top sights' list. The rows still earn their place by carrying age policy, seasonality, booking and price, which the prose list does not - but if it reads as repetition, the fix is to trim the prose list, not to drop the rows."
+    }
+  ],
+  "publishers": {
+    "note": "Search for the cuisine-specific URL on each - never guess a path. Guessing produced four 404s on the Italian run and one invented Evening Standard link.",
+    "awards": [
+      "National Restaurant Awards (top 100)",
+      "SquareMeal Top 100 London",
+      "Harden's Top 100 UK",
+      "Estrella Damm Top 50 Gastropubs",
+      "Michelin Guide",
+      "Good Food Guide",
+      "50 Top Pizza (Italian only)",
+      "OFM Awards"
+    ],
+    "majorGuides": [
+      "Time Out",
+      "The Infatuation",
+      "Eater London",
+      "SquareMeal",
+      "Harden's",
+      "Good Food Guide",
+      "Londonist",
+      "DesignMyNight"
+    ],
+    "blogsAndMagazines": [
+      "Hot Dinners",
+      "The Nudge",
+      "Secret London",
+      "Bon Vivant Journal",
+      "Olive Magazine",
+      "Country & Town House",
+      "Lux Life London",
+      "The Sauce Mag",
+      "Mayfair Foodie",
+      "British Food Crew",
+      "Absolutely London",
+      "Balance Journal",
+      "Culture Trip",
+      "Evening Standard",
+      "Spear's",
+      "Squaremeal",
+      "The Handbook",
+      "London Unattached",
+      "A Lady in London",
+      "Halal Girl About Town"
+    ],
+    "videoChannels": [
+      "TOPJAW",
+      "Harrison Webb",
+      "JOLLY",
+      "Insider Food",
+      "RestroSpot",
+      "Mark Wiens",
+      "The Staff Canteen",
+      "Sorted Food"
+    ],
+    "knownBlockers": {
+      "403": [
+        "SquareMeal",
+        "Londonist",
+        "OpenTable",
+        "Evening Standard"
+      ],
+      "jsRendered": [
+        "Michelin Guide"
+      ],
+      "note": "403 means bot protection, not a wrong URL. Extract by hand and set extractedBy: manual."
+    }
+  },
+  "sizing": {
+    "note": "Rows per cuisine, sized against 26 area guides needing roughly six each.",
+    "tier1": {
+      "cuisines": [
+        "Italian",
+        "Indian",
+        "British",
+        "Chinese"
+      ],
+      "rows": 30
+    },
+    "tier2": {
+      "cuisines": [
+        "West African",
+        "Modern European",
+        "Japanese",
+        "Turkish",
+        "Spanish",
+        "French",
+        "Thai",
+        "Middle Eastern",
+        "Greek",
+        "Vietnamese",
+        "Mexican",
+        "Korean"
+      ],
+      "rows": 17,
+      "promotionNote": "West African moved from tier 3 to tier 2 on 2026-08-18. The general-excellence pass found Ikoyi (two stars), Chishuru (one) and Akoko (one) all absent - a cuisine with three starred restaurants in London is not a tier-3 cuisine. Tiers are a prior, not a fact; the evidence overrides them."
+    },
+    "tier3": {
+      "cuisines": [
+        "Caribbean",
+        "Ethiopian",
+        "Malaysian",
+        "Persian",
+        "Portuguese",
+        "Polish",
+        "Peruvian",
+        "Georgian",
+        "Sri Lankan",
+        "Taiwanese",
+        "Australian"
+      ],
+      "rows": 9
+    },
+    "tier4": {
+      "note": "Cuisines below tier 3, sized at 2-4 rows each: enough to answer \"where do I eat X in London\" without pretending at depth. Added 2026-08-18 after the missing-cuisine sweep.",
+      "cuisines": [
+        "Taiwanese",
+        "Malaysian",
+        "Filipino",
+        "Ethiopian",
+        "Caribbean",
+        "Sri Lankan",
+        "Persian",
+        "Balkan",
+        "Australian",
+        "South African",
+        "Kurdish"
+      ],
+      "rows": 3
+    }
+  },
+  "notCuisines": {
+    "note": "High-volume searches that must NOT become cuisine values - the 144-cuisine mess started this way. Each is already expressible as a filter.",
+    "rooftop": "setting contains rooftop",
+    "sundayRoast": "lists contains sunday-roast",
+    "afternoonTea": "specialities contains afternoon-tea",
+    "breakfastBrunch": "lists contains breakfast/brunch, on a row of its OWN cuisine",
+    "cheapEats": "priceBand = £",
+    "preTheatre": "deals contains pre-theatre",
+    "seafood": "specialities contains seafood"
+  },
+  "cuisineBoundaries": {
+    "note": "Cuisine is the hardest field to keep honest, because published lists file the same restaurant under three different labels. These rules exist so the answer does not depend on which list found it.",
+    "selfDescriptionWins": "Check what the restaurant calls itself ON ITS OWN SITE, not how a listicle files it. Record that self-description in Source so the decision is auditable.",
+    "britishVsModernEuropean": "BRITISH = rooted in British produce and tradition, and self-describes that way (roast, pie, fish and chips, British game and beef). MODERN EUROPEAN = draws across France, Italy and Spain without committing to one, and self-describes as Modern European or European. St John and Rochelle Canteen stay BRITISH because that is what they call themselves.",
+    "neverABin": "THE GUARD THAT MATTERS. Modern European must never become the bin for venues that fit nowhere else - that is exactly how the 144-cuisine mess started, in reverse. If a venue does not self-describe as European, it stays in pending-cross-cuisine.json until there is a real home for it. Bake Street was held back on this rule: a Hackney cafe serving Nashville hot chicken is not Modern European just because it is hard to file."
+  },
+  "blockedDomains": {
+    "note": "Domains that refuse the fetcher. Do NOT add them as sources - a dead source inflates the apparent breadth of the evidence without adding any. Recorded so the same URLs are not tried again next cuisine.",
+    "permanent403": [
+      "guide.michelin.com",
+      "thatsup.co.uk",
+      "quintessentially.com",
+      "trip101.com",
+      "japannakama.co.uk",
+      "londonscout.co.uk"
+    ],
+    "rateLimited429": {
+      "note": "Retryable, unlike a 403 - worth a second attempt on a later run rather than removal.",
+      "domains": [
+        "corner.inc"
+      ]
+    },
+    "substitutes": {
+      "guide.michelin.com": "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_Greater_London"
+    }
+  },
+  "fallbackRule": {
+    "what": "Some rows earn a place in an area guide by being reliably open and reliably fine, not by being worth a journey. The Fallback column marks those.",
+    "rule": "A fallback must be visibly labelled as a standby in the prose - 'if everything else is full', 'the reliable option' - and NEVER presented as a discovery. It does not count toward a guide's six-row target.",
+    "why": "Without the exclusion the field is decorative: a guide could hit six on chains alone and read as healthy while telling a visitor nothing they could not have worked out themselves.",
+    "theFindingThatShapedIt": "Tested on the four thinnest guides on 2026-08-18 - Greenwich (2 rows), Stratford (0), Wapping (1), Battersea (1). ALL FOUR turned out to be unresearched rather than low-density, and went to 9, 3, 4 and 5 destination rows on a single research pass each. Berberè in Stratford is rated among London's best pizza and the pizza pass had missed it. So: BEFORE reaching for a fallback, research the area. The fallback is for what is genuinely still empty afterwards, and so far that has been nothing.",
+    "whyThePassesMissThem": "Every cuisine pass works from London-wide 'best of' lists, which are overwhelmingly zone 1. An outer district with its own scene stays invisible however many cuisine passes run. Area-level research is a different axis from cuisine-level research and neither substitutes for the other."
+  },
+  "researchProcess": {
+    "why": "Written down on 2026-08-18 after the first Canary Wharf activities seed was hand-assembled from the site owner's own list rather than researched. It confirmed what he already knew and found nothing else. The steps below are what every other pass in this project actually did, made explicit so it is a process rather than a habit.",
+    "steps": [
+      "1. FIND SOURCES BY SEARCHING - see sourcingProcedure below for the actual method. Never construct a URL from a pattern.",
+      "2. WRITE THE SCOPE NOTE FIRST, before fetching. State what is in, what is out, and which adjacent category will contaminate. This is where the Persian/Turkish split for Middle Eastern was decided, and where the Chinatown lists were stopped from putting Korean and Malaysian into Chinese.",
+      "3. BUILD data/consensus/<topic>.json with {name, url, scope, names: []} per source. Aim for 12+ distinct DOMAINS. Include an awards leg - guide.michelin.com is blocked, so use the Wikipedia star tables.",
+      "4. FETCH with `node scripts/consensus.mjs <topic> --fetch`. It extracts from headings, and from list items and table cells when headings come up short or the scope is awards.",
+      "5. READ THE DEAD SOURCES REPORT. Remove anything that 403s rather than leaving it in place - a dead source inflates the apparent breadth of the evidence without adding any. Record the domain in blockedDomains so nobody tries it again.",
+      "6. SCORE BY DISTINCT PUBLISHER DOMAIN, never by list. Two guides from one publisher are one opinion.",
+      "7. TRIAGE THE UNACTIONED REPORT. Every name at 2+ domains gets one of three outcomes, all recorded: write a row, park it in pending-cross-cuisine.json with its real cuisine, or add it to `rejected` with a reason. A name with no recorded decision comes back every run and the report loses its meaning.",
+      "8. VERIFY BEFORE WRITING. Neighbourhood, trading status, and any award claim WITH ITS YEAR. Hakkasan and Yauatcha were both written as currently starred and neither is. Barbarella was written from its announcement and described itself in the future tense on a live page.",
+      "9. WRITE THE SOURCE STRING HONESTLY. Say how many domains, name them, and say plainly when something could not be verified. NEEDS VERIFYING in the Source column is a valid finished state; a guessed neighbourhood is not.",
+      "10. RE-RUN THE GUARDS. Unactioned, stale pending, pending-for-this-cuisine, pre-opening prose, dangling area guides, and the vocabulary validator. All of them exist because the failure they catch actually happened."
+    ],
+    "twoAxesOfCoverage": "Cuisine research and AREA research are different axes and neither substitutes for the other. Every cuisine pass works from London-wide lists, which are overwhelmingly zone 1, so an outer district with its own scene stays invisible however many cuisine passes run. Greenwich, Stratford, Wapping, Battersea and Canary Wharf all read as thin until an area-level pass was run, and all five turned out to be unresearched rather than low-density. For activities the same split applies: London-wide activity-bar guides and LOCAL area guides return different venues, and the local ones lead with the free things.",
+    "whatConsensusCannotFIND": "Consensus ranks by accumulated coverage, so it is structurally blind to (a) anything that opened recently - see the newopenings pass, (b) venues that straddle two categories - see generalexcellence and the Speedboat lesson, and (c) TEMPORARY venues with rotating programmes, which is how Illusionaries was missed. For those three, the owner's own knowledge and a targeted search beat the machinery, and that is not a failure of the machinery - it is the reason the human step exists."
+  },
+  "sourcingProcedure": {
+    "why": "'Find sources by searching' was written as step 1 and is a label, not an instruction - it does not tell anyone what to search, how many times, or when to stop. This is the actual procedure.",
+    "howManySearches": "THREE to FIVE searches per topic, run BEFORE building the source file. Most passes in this project used two, which is why several needed a second round - Thai shipped with 7 sources against Japanese's 20 and missed Speedboat Bar entirely. Two is not enough. Stop when a search returns mostly domains already collected.",
+    "queryShapes": {
+      "note": "Run these five shapes. They return DIFFERENT publisher populations - that is the point of running more than one.",
+      "1_generic": "best {topic} London 2026 — returns the mass-market listicles",
+      "2_namedPublishers": "best {topic} London Time Out Infatuation Eater SquareMeal Good Food Guide Foodism — naming publishers surfaces their pages directly, because a generic search buries them under SEO farms",
+      "3_subtype": "best {subtype} London — one per sub-category. Ramen, omakase, izakaya and katsu returned almost NO overlapping venues for Japanese. Skipping this is how a cuisine ends up looking like whatever its most-written-about niche is.",
+      "4_awards": "Michelin {topic} London / {topic} awards 2026 / best {topic} UK — the awards population is different from the listicle population. THIS IS THE FALLOW LESSON and it is the most commonly skipped shape.",
+      "5_local": "best {topic} {neighbourhood} — only for area work, but essential. London-wide lists are overwhelmingly zone 1. The local guides are also the ones that lead with the FREE things, which is how the Canary Wharf roof garden and Jubilee Park were missed."
+    },
+    "harvestingRule": "Take URLs ONLY from the returned result list. Do not build one from a pattern you have seen before, do not adapt a URL from another city, and do not trust a URL quoted inside a page body. Eight guessed URLs 404'd across the Italian and Chinese passes before this was enforced.",
+    "acceptSource": [
+      "Editorial guides with a named publisher - Time Out, The Infatuation, Good Food Guide, Foodism, Harden's, Olive, SquareMeal, Hot Dinners, DesignMyNight, London On The Inside, Londonist, The Nudge",
+      "Award bodies and their reporting - Michelin (via the Wikipedia star tables, since guide.michelin.com blocks the fetcher), National Restaurant Awards, World's 50 Best, Good Food Guide bakery lists",
+      "Specialist single-subject publications - FLTR and BrewAtlas for coffee, Batch for roasteries, Washoku Guide for izakaya, Best Cocktails Guide for bars",
+      "Local area publications for area work - Wharf Life, North London News, area-specific blogs",
+      "The venue's own site, but ONLY as verification of a fact, never as a source of consensus"
+    ],
+    "rejectSource": {
+      "aggregators": "TripAdvisor, Yelp, OpenTable, Wanderlog, Trip101, restaurantguru and similar. These rank by user volume rather than editorial judgement, they repeat each other, and they dominate search results - accepting them would let one crowd-sourced ranking masquerade as several independent opinions.",
+      "knownBlocked": "Check blockedDomains before adding. guide.michelin.com, thatsup.co.uk, quintessentially.com, trip101.com, japannakama.co.uk, londonscout.co.uk, visitlondon.com and londonist.com have all returned 403 to the fetcher. Adding them costs a fetch cycle and returns nothing.",
+      "nationalOrGlobal": "A UK-wide or worldwide list may be USED but must be scoped on the way in, and the scope note must say so. theworlds50best.com put Hong Kong, Mexico City and Barcelona bars into a London query; the Good Food Guide bakery fifty put Scotland, Manchester and Bristol into a London one; Harden's national pages put Edinburgh and Manchester into British.",
+      "singleVenue": "A review of one restaurant is verification, not consensus. It cannot contribute a domain score."
+    },
+    "targets": {
+      "domains": "12+ distinct publisher domains for a tier-1 or tier-2 cuisine. 6-8 is acceptable for tier 3 and below, but record that the set is thin so a later reader knows the score is weak rather than the cuisine being small.",
+      "legs": "At least one AWARDS source and, for anything with sub-categories, at least one source per sub-category. An area pass additionally needs at least two LOCAL sources.",
+      "checkBeforeFetching": "Count distinct domains in the file, not sources. Two Infatuation guides are one domain and score once."
+    },
+    "worked_example_japanese": [
+      "Search 1 (generic): best Japanese restaurants London 2026 Time Out Eater Infatuation Good Food Guide SquareMeal -> The Infatuation, Time Out, Country & Town House, LondonScout, best-japanese.co.uk, Balance Journal",
+      "Search 2 (subtype): best ramen London best sushi London omakase -> DesignMyNight, The Handbook, Thatsup, Quintessentially, Oishii",
+      "Search 3 (subtype): best izakaya / katsu / udon London -> Washoku Guide, Ideal Magazine, Mayfair Foodie, Japan Nakama, London The Inside",
+      "Search 4 (awards): Michelin Guide London Japanese -> guide.michelin.com found but BLOCKED, substituted the Wikipedia star tables",
+      "Result: 20 sources, 15 usable after the dead-source report, 15 distinct domains. Five 403'd and were REMOVED rather than left in place."
+    ]
+  },
+  "scopeProcedure": {
+    "why": "The scope note is written BEFORE fetching, not after. Once names are on screen it is too tempting to keep an interesting venue that does not belong. Every contamination incident in this project happened because scope was decided while looking at results.",
+    "writeItInto": "The `note` field of data/consensus/<topic>.json, so it travels with the data rather than living in a conversation.",
+    "mustAnswer": [
+      "WHAT IS IN. Name the boundaries positively. 'Middle Eastern here means Lebanese, Levantine, Palestinian, Israeli and Syrian.'",
+      "WHAT IS OUT, and where it goes instead. 'It does NOT include Persian or Turkish, both of which have their own tiers. Any that surface go to pending-cross-cuisine.json.'",
+      "WHICH ADJACENT CATEGORY WILL CONTAMINATE, named in advance. This is the part that gets skipped and it is the part that works.",
+      "WHETHER ANY SOURCE IS NATIONAL OR GLOBAL, and that its out-of-London entries are being dropped deliberately.",
+      "WHAT THE PASS CANNOT SEE. The Japanese note recorded the omakase skew before fetching; the coffee note recorded that cuisine would be blank."
+    ],
+    "predictionsThatPaidOff": [
+      "Middle Eastern predicted Persian and Turkish contamination. Berenjak, Mangal 2, Oklava, Durak Tantuni and Nandine all appeared and were all correctly parked instead of written.",
+      "Chinese did NOT predict it and Chinatown lists put Korean, Malaysian and Thai into the results, which had to be unpicked afterwards."
+    ],
+    "template": "SCOPE. {topic} here means {in-list}. It does NOT include {out-list}, which {have their own tier / are a different category} - anything that surfaces goes to pending-cross-cuisine.json rather than into these rows. {Named source} is {national/global} so its non-London entries are dropped by hand. Known-blocked domains are absent by design. Every URL came from a search result."
+  },
+  "buildProcedure": {
+    "file": "data/consensus/<topic>.json",
+    "shape": "{ cuisine: \"<topic>\", note: \"<the scope note>\", recorded: \"YYYY-MM-DD\", sources: [ { name, url, scope, names: [] } ] }",
+    "nameField": "Publisher plus leg, so a dead source is identifiable at a glance: 'The Infatuation (omakase)', not 'source 4'.",
+    "scopeField": {
+      "why": "scope is not decoration - the extractor reads it. Anything matching /award/i takes the table-and-list harvesting path instead of headings-only, because award pages use <ol> and tables.",
+      "convention": "<topic> for the main leg, <topic>-<subtype> for sub-category legs, 'awards' or '<topic>-awards' for award sources.",
+      "incident": "The Wikipedia star tables were first scoped plainly and returned five navigation labels and ZERO restaurants, because the page is heading-rich and the fallback was gated on heading COUNT. Scoping it as awards fixed it: 5 names became 191."
+    },
+    "beforeFetching": "Count DISTINCT DOMAINS, not sources. Confirm there is an awards leg. Confirm no domain in blockedDomains."
+  },
+  "fetchProcedure": {
+    "command": "node scripts/consensus.mjs <topic> --fetch",
+    "whatItDoes": "Fetches each source with no cached names, extracts venue names, and writes them back into the source file. Cached sources are skipped, so a re-run costs nothing and the evidence stays version-controlled and auditable.",
+    "extraction": "Headings (h2/h3) first. Falls back to list items and table cells when headings number fewer than 8, OR whenever the scope is awards. Then a filter chain removes navigation, template placeholders, shouted text, sentences, boilerplate, non-London place names, label prefixes, headlines, section labels, filter chips and award-category lines.",
+    "reFetching": "To re-fetch one source, blank its `names` array and delete its `error`. Do not delete the file - the cached names are the audit trail.",
+    "watchFor": [
+      "A source returning 1-3 names usually means a JS-rendered page, not a short list. DesignMyNight returned 2 on three separate topics.",
+      "A source returning 100+ names is usually a navbox or a global list leaking in. Wikipedia returned 191 including 'Achilles' and 'Active Wheel' until navboxes were stripped."
+    ]
+  },
+  "deadSourceProcedure": {
+    "report": "Printed automatically after every fetch, and shouts separately if an AWARDS source is among the dead - that specific state is how Fallow was missed.",
+    "byErrorClass": {
+      "HTTP 403": "PERMANENT. Remove the source and add the domain to blockedDomains. Do not leave it in the file - a dead source inflates the apparent breadth of the evidence without adding any. Five were removed from Japanese for this reason.",
+      "HTTP 429": "RATE LIMITED, retryable. Leave it in and try again on a later run. corner.inc did this twice. Recorded separately from 403 in blockedDomains for exactly this reason.",
+      "fetch failed": "Usually DNS or a dead site. Treat as permanent unless a search shows the site is alive.",
+      "no names extracted": "The page loaded but nothing survived the filters. Check whether it is JS-rendered before removing - it may need a different source for the same publisher."
+    },
+    "rule": "After removals, re-count distinct domains against the target. If the count has dropped below it, go back to step 1 and search again rather than proceeding with a thin set."
+  },
+  "scoringProcedure": {
+    "unit": "COUNT OF DISTINCT PUBLISHER DOMAINS. Not lists, not mentions. Two guides from one publisher are one opinion, and the Italian pass proved it - a main guide and its fresh-pasta guide shared a template, so the site navigation appeared in both and scored 2.",
+    "deliberatelyBlunt": "No weighting by publisher prestige, no ranking position. Anything cleverer would encode my taste, which is the thing being corrected for.",
+    "thresholds": {
+      "default": "2+ domains is the actionable tier. The full ranking is printed but only 2+ appears in the UNACTIONED report.",
+      "newOpenings": "RELAX IT. A restaurant that opened this year may have one write-up. Read the single-domain tier - but expect more noise, because openings pages use descriptive headings ('The LA-style diner') rather than venue names.",
+      "awards": "IGNORE IT. A Michelin star is not a popularity contest. A. Wong holds two stars and scored 1 domain; Ikoyi holds two and scored 3 while Hakkasan, Park Chinois and Min Jiang scored 0. Write the row on the award.",
+      "ownerKnowledge": "IGNORE IT. Illusionaries scored nothing because it is a temporary venue with rotating shows. Din Tai Fung scored nothing because Taiwanese had no pass. Both were right to add."
+    },
+    "lowScoreIsAFinding": "A famous venue scoring 1 is evidence about the SOURCE SET, not about the venue. Record it in the Source string - 'consensus found it on ONLY 1 of 12 domains, which is a gap in the sources not a judgement on the restaurant' - because it tells the next reader where to look for more gaps."
+  },
+  "triageProcedure": {
+    "report": "UNACTIONED lists every name at 2+ domains that is in neither the sheet nor pending nor rejected.",
+    "threeOutcomes": {
+      "write": "It belongs to this topic. Go to step 8 and verify before writing.",
+      "park": "It is real but belongs to another category. Add to pending-cross-cuisine.json with likelyCuisine, sources count, and a note saying WHY it surfaced here. 26 names are parked this way.",
+      "reject": "It is not a venue, or not in London, or already covered. Add to the `rejected` array with a reason: not-a-venue, not-london, part-of-existing-row, truncated-cluster-name."
+    },
+    "theRuleThatMatters": "EVERY name gets one of the three, recorded. A name with no recorded decision reappears on every run, and once that happens a few times the report stops being read. The Unruly Pig (Suffolk) and The Kensington Arms (Bristol) are real venues that look like London ones - no name-shaped rule can tell them apart, so the decision has to be stored rather than re-derived.",
+    "parkingIsNotDeferral": "A parked name must be picked up when ITS cuisine runs. Six were missed this way - including Speedboat Bar, ranked FOURTH best restaurant in London, which sat parked through the entire Thai pass. consensus.mjs now prints PENDING FOR THIS CUISINE before anything else."
+  },
+  "verifyProcedure": {
+    "rule": "Verify before writing, not after. Every fabrication in this project came from writing first.",
+    "perClaimType": {
+      "neighbourhood": "Confirm against the venue's own site or a listing with a street address. Osteria Vibrato was written as Marylebone and is Soho. Korean Grill Kensington was written as Kensington and is South Kensington.",
+      "tradingStatus": "Confirm it is OPEN NOW, not announced and not recently closed. Barbarella was written from its 2025 announcement and described itself in the future tense on a live page until the owner spotted it. Seoul Bird's Canary Wharf site had closed.",
+      "awards": "AN AWARD IS A CLAIM WITH A DATE. Check the year columns. Hakkasan lost its stars in the 2024 guide and Yauatcha lost its in 2019 - both were written as currently starred. Use the Wikipedia star tables, which carry year-by-year history; guide.michelin.com blocks the fetcher and would not have caught it anyway.",
+      "format": "Confirm what the venue actually IS. Motorino was written as a Neapolitan pizzeria because of the name and is a London-Italian restaurant and bar. Flip Out Canary Wharf is a trampoline-park brand with no trampolines.",
+      "branches": "Never assume a brand's flagship location applies to a branch. Branch rows inherit cuisine and Why Go but take their own address, and must NOT inherit postcode, coordinates or booking URL."
+    },
+    "whenItCannotBeVerified": "Write the row with the field BLANK and NEEDS VERIFYING in the Source string. A blank Why Go is an honest unfinished state; a guessed neighbourhood is a fabrication that looks finished. Ten rows shipped this way and all ten were later resolved."
+  },
+  "sourceStringProcedure": {
+    "purpose": "The Source column is the audit trail and is deliberately WITHHELD from the site export - it carries working notes, not reader-facing text.",
+    "mustContain": [
+      "How many domains, out of how many: 'consensus 3/12 domains'",
+      "WHICH domains, named: '(Time Out, The Infatuation, SquareMeal)'",
+      "Any verification done, with the date: 'VERIFIED 2026-08-18 via motorino.london'",
+      "Anything NOT established, in capitals: 'NEIGHBOURHOOD NEEDS VERIFYING'",
+      "How it was found if not by consensus: 'video-research chapters', 'named by the site owner', 'general-excellence pass'",
+      "Any mistake found and corrected, stated plainly: 'I HAD THIS WRONG - guessed Neapolitan pizza from the name'"
+    ],
+    "whyRecordMistakes": "The Source string is where a later reader learns which rows to distrust. 'THE ITALIAN PASS MISSED THIS' on Osteria Vibrato and Motorino is what told us the Italian source set had a gap."
+  },
+  "guardProcedure": {
+    "runAfterEveryPass": "node scripts/write-restaurants-v2.mjs then node scripts/consensus.mjs <topic> for each topic touched.",
+    "guards": {
+      "vocabularyValidator": "Build FAILS on any value outside a closed list. Caught 'brunch' in goodFor three times in one session - goodFor answers who the table is, not when they are eating.",
+      "slugRegistry": "REFUSES TO WRITE if a known slug would disappear, unless --allow-removals. Stops a rewrite silently deleting rows the site links to.",
+      "unactioned": "Names at 2+ domains with no recorded decision.",
+      "stalePending": "Names in pending that are ALREADY in the sheet. Koya sat like this and read as outstanding work on every run.",
+      "pendingForThisCuisine": "Names parked for the cuisine being researched RIGHT NOW. Added after six were missed.",
+      "preOpeningProse": "Open rows whose prose still says announced or due to open. Added after Barbarella. Narrowed once, because the first version flagged three good rows and a check that cries wolf gets ignored.",
+      "danglingAreaGuides": "Rows pointing at a guide with no file on disk. Seven pointed at knightsbridge-area-guide, which did not exist.",
+      "deadSources": "Printed after every fetch, shouts if an awards source is dead.",
+      "zoneMismatch": "Sheet zone against the guide's frontmatter zone. Benign when a guide spans two zones."
+    },
+    "cleanMeansClean": "All guards reporting zero is the finish line for a pass. On 2026-08-18 all fifteen topics reported zero unactioned and zero stale for the first time."
+  },
+  "areaGuideScope": {
+    "rule": "When neighbourhoods are CONTIGUOUS and a visitor would walk between them without noticing, keep ONE guide and name the sub-areas inside it. Do not split.",
+    "why": "Splitting contiguous areas produces several thin pages and forces a reader to bounce between them to plan a single afternoon. A guide earns a split when the areas are genuinely different DESTINATIONS - a different trip, not a different postcode.",
+    "decidedOn": "2026-08-18, for Shoreditch. It carries 44 restaurant rows across Shoreditch (32), Spitalfields (10) and Brick Lane (2), plus the activities rows - the second-largest guide in the project. The size argued for a split; the geography argued against, and the geography won. Old Spitalfields Market to the Truman Brewery is eight minutes on foot.",
+    "howToDoItProperly": [
+      "Say in the opening lines exactly which areas the guide covers, so a reader searching the sub-area name knows they have landed correctly.",
+      "Give each sub-area its own heading under 'Key streets and micro-districts' - not a clause in someone else's paragraph. Hoxton had been a half-sentence.",
+      "Put every sub-area in the tags.",
+      "Add an FAQ answering 'is X part of Y', because it is a real question and it is what someone searching the sub-area will ask.",
+      "Keep the rows tagged to the single guide. The area filter route is keyed on Area Guide, so one guide means one page and the sub-areas surface through the neighbourhood field on each row."
+    ],
+    "whenToSplitInstead": "Split when the areas need a different TRIP - different transport, a different time of day, a different reason to go. City of London and Shoreditch were split on those grounds, as were Covent Garden and Soho. Greenwich and Canary Wharf are a river apart and were split for the same reason.",
+    "candidatesToWatch": "Any pair where one has under six rows and sits within a fifteen-minute walk of a larger neighbour. Currently: Hoxton and Haggerston into Shoreditch, Spitalfields already folded in, Isle of Dogs into Canary Wharf (already done), Bethnal Green and Columbia Road are the next likely fold-ins."
+  },
+  "imageProcedure": {
+    "purpose": "Source a hero image for an area guide that we are legally allowed to self-host, and that actually shows the area the guide is about.",
+    "platform": {
+      "use": "Wikimedia Commons",
+      "why": "Checked all three on 2026-08-18. Commons documents DOWNLOAD as the route and calls hotlinking 'not recommended'. Unsplash requires hotlinking their CDN for view tracking, which is incompatible with a build that optimises heroes locally, and is 1,000 req/hour in production. Pexels mandates attribution but its docs are SILENT on downloading and self-hosting, so the thing we need is not written down as permitted.",
+      "attribution": "All three require it. Commons' one advantage is self-hosting, and that decides it. Every hero carries heroImageCredit, heroImageSource, heroImageLicense and, where one exists, heroImageLicenseUrl - generated from the Commons metadata by add-hero.mjs, never typed by hand.",
+      "licences": "CC BY, CC BY-SA, CC0 and public domain only. Non-commercial and no-derivatives are reported but never shortlisted."
+    },
+    "steps": [
+      "1. find-images.mjs gathers candidates and licence data. It DOES NOT CHOOSE.",
+      "2. Download previews and LOOK at every shortlisted candidate. The top of the list is not the best of the list.",
+      "3. add-hero.mjs adopts the chosen index, downloads full resolution, and writes the frontmatter from the licence metadata.",
+      "4. Downscale anything over ~5MB to 2400px wide before committing. sharp holds the source open on Windows, so write to a temp file and rename - writing back to the same path fails with UNKNOWN."
+    ],
+    "searchTraps": [
+      "STATION NAME COLLISION. 'Marylebone London' returned EIGHTEEN photographs of Marylebone railway station and nothing else - the station carries the district's name and swamps Commons. Same risk for Victoria, Paddington, Angel, Richmond, Greenwich. Fix: search the High Street or a landmark.",
+      "CROSS-AREA CONTAMINATION. The generic 'High Street' query term returned KENSINGTON High Street under Chelsea, because there is no Chelsea High Street. A neighbouring area's photo would have been adopted as Chelsea's hero if nobody had looked. Fix: --term with a landmark that exists in one place only, e.g. 'Royal Hospital Chelsea'.",
+      "OPAQUE FILENAMES. 'Bloomsbury 7250.jpg' told us nothing; it turned out to be a tree that could have been any park in England. Never adopt on the strength of a title."
+    ],
+    "rejectionCriteria": [
+      "WRONG SUBJECT - a station, an office block, or a council estate when the guide is about a High Street.",
+      "OUT OF DATE - the Chelsea Embankment shot was the most beautiful image in the whole set and was taken in 1988. A hero is a claim about what a place looks like NOW, the same way an award is a claim with a date. A 38-year-old skyline is not a claim we can make.",
+      "FOREGROUND CLUTTER - a car, pole or delivery lorry across the frame; bin bags on the pavement.",
+      "DOMINANT COMMERCIAL SIGNAGE - a bright 'iSmash' shopfront dated Chelsea's candidate and said nothing about the area.",
+      "NOT IDENTIFIABLE - if it could be anywhere, it is not a hero.",
+      "MONOCHROME - looks inconsistent against a set of colour heroes."
+    ],
+    "preferenceOrder": "The street or landmark the guide is actually built around, in colour, in daylight, showing people using the place. Recognisable beats beautiful; current beats both.",
+    "warning": "Commons gives NO WARRANTY on copyright status. The licence is what the uploader declared. A plausible-looking file can be mislabelled or the wrong place entirely."
+  }
+}

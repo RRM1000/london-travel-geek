@@ -1,0 +1,110 @@
+{
+  "note": "Venues surfaced by an occasion-based consensus pass (breakfast, brunch) whose CUISINE is not British. Filing them as British would recreate the 144-cuisine mess - Dishoom is an Indian restaurant that happens to serve a famous breakfast, not a British one. They are held here so the research is not lost, and each is written as a row during its own cuisine pass, carrying the `lists` value recorded below so it still appears on the occasion page.",
+  "recorded": "2026-08-17",
+  "pending": [
+    {
+      "name": "Lolo",
+      "likelyCuisine": "Spanish",
+      "lists": "brunch",
+      "sources": 1,
+      "note": "Bermondsey"
+    },
+    {
+      "name": "Maison François",
+      "likelyCuisine": "French",
+      "lists": "breakfast",
+      "sources": 2
+    },
+    {
+      "name": "Bake Street",
+      "likelyCuisine": "unresolved",
+      "lists": "brunch",
+      "sources": 1,
+      "note": "HELD BACK from the Modern European pass on purpose. A Lower Clapton cafe whose menu is comfort food from many cultures - the signature is a Nashville hot chicken bun. That is not European, and filing it as Modern European would make that cuisine the bin the playbook says it must never become. Revisit if a cafe/brunch cuisine is ever created."
+    },
+    {
+      "name": "Cafe Clement",
+      "likelyCuisine": "French",
+      "lists": "",
+      "sources": 2,
+      "note": "Strand; Sheet1 filed it as French/British. Surfaced by the Italian pass but is not Italian."
+    },
+    {
+      "name": "Asher's Africana",
+      "likelyCuisine": "West African",
+      "lists": "",
+      "sources": 2,
+      "note": "Wembley. Surfaced by the Indian pass because the sources cover Wembley broadly, not because it is Indian."
+    },
+    {
+      "name": "C&R Cafe",
+      "likelyCuisine": "Malaysian",
+      "lists": "",
+      "sources": 2,
+      "note": "Chinatown. Malaysian."
+    },
+    {
+      "name": "Leong's Legend",
+      "likelyCuisine": "Taiwanese",
+      "lists": "",
+      "sources": 2,
+      "note": "Chinatown. Taiwanese."
+    },
+    {
+      "name": "Nandine",
+      "likelyCuisine": "Kurdish",
+      "lists": "",
+      "sources": 3,
+      "note": "Peckham and Camberwell. Kurdish - no tier yet; add one when the Turkish pass runs, as the two are adjacent but distinct."
+    },
+    {
+      "name": "Hanar",
+      "likelyCuisine": "Persian",
+      "lists": "",
+      "sources": 1,
+      "note": "Persian. Separate tier-3 cuisine."
+    },
+    {
+      "name": "Kudu",
+      "likelyCuisine": "South African",
+      "lists": "",
+      "sources": 2,
+      "note": "Peckham. South African - no tier yet.",
+      "foundBy": "general-excellence pass 2026-08-18"
+    }
+  ],
+  "rejectedNote": "Names corroborated by 2+ publisher domains that were deliberately NOT added, with the reason. Distinct from `pending`, which is a deferral - these are decided. Without this list they resurface on every run and the UNACTIONED report loses its meaning.",
+  "rejected": [
+    {
+      "name": "The Unruly Pig",
+      "reason": "not-london",
+      "note": "Woodbridge, Suffolk. Surfaced because top50gastropubs.com is a NATIONAL list, which is also why it is worth keeping as a source.",
+      "decided": "2026-08-18"
+    },
+    {
+      "name": "The Kensington Arms",
+      "reason": "not-london",
+      "note": "Bristol. Surfaced from Harden's national pages. The name reads as London, which is exactly why it needs recording rather than re-judging each run.",
+      "decided": "2026-08-18"
+    },
+    {
+      "name": "London Restaurant Guide",
+      "reason": "not-a-venue",
+      "note": "Harden's site furniture. Also now caught by SECTION_LABEL, but recorded so it stays decided if that rule ever changes.",
+      "decided": "2026-08-18"
+    },
+    {
+      "name": "The Counter at Sabor",
+      "reason": "part-of-existing-row",
+      "note": "The upstairs counter AT Sabor, which is already a row. Not a separate venue - the cluster name just carries the sub-venue.",
+      "decided": "2026-08-18"
+    },
+    {
+      "name": "Bánh",
+      "reason": "truncated-cluster-name",
+      "note": "The extractor truncated Bánh Bánh, which IS in the sheet. A name-match artefact, not a missing venue.",
+      "decided": "2026-08-18"
+    }
+  ],
+  "generalExcellenceNote": "The general-excellence pass on 2026-08-18 surfaced 30 acclaimed London restaurants absent from the sheet. They cluster into two gaps rather than thirty individual misses: (1) WEST AFRICAN, where Ikoyi holds two Michelin stars and Chishuru and Akoko one each - currently tier 3, which the evidence contradicts; and (2) the MODERN EUROPEAN fine-dining tasting-menu tier, which fell between the British pass (traditional British) and the Modern European cuisine (3 rows). Bouchon Racine, the National Restaurant Awards number one in the UK, was missed by every cuisine pass."
+}
