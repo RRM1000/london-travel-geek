@@ -2494,6 +2494,176 @@
     "lng": -0.131402,
     "ward": "West End"
   },
+  "hiddenLondon:banksy-basquiat-ferris-wheel": {
+    "placeId": "ChIJY-QTotQddkgR2ZFwJtw9nQU",
+    "placesName": "Banksy Basquiat",
+    "resolvedAddress": "Golden Ln, Barbican, London EC2Y 8HD, UK",
+    "postcode": "EC2Y 8HD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.520512,
+    "lng": -0.093691,
+    "ward": "Cripplegate"
+  },
+  "hiddenLondon:banksy-basquiat-stop-and-search": {
+    "placeId": "ChIJY-QTotQddkgR2ZFwJtw9nQU",
+    "placesName": "Banksy Basquiat",
+    "resolvedAddress": "Golden Ln, Barbican, London EC2Y 8HD, UK",
+    "postcode": "EC2Y 8HD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.520512,
+    "lng": -0.093691,
+    "ward": "Cripplegate"
+  },
+  "hiddenLondon:banksy-cannon-street-rat": {
+    "placeId": "ChIJ2XKXPvADdkgR91c0Q7duDEA",
+    "placesName": "Cannon Street Railway Bridge",
+    "resolvedAddress": "London EC4R 3TE, UK",
+    "postcode": "EC4R 3TE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.509652,
+    "lng": -0.091723,
+    "ward": "Dowgate"
+  },
+  "hiddenLondon:banksy-chelsea-elephants": {
+    "lat": 51.482258,
+    "lng": -0.182739,
+    "ward": "Stanley"
+  },
+  "hiddenLondon:banksy-fishing-boy": {
+    "placeId": "ChIJc2sNfTgDdkgR_aVp1XoK5vQ",
+    "placesName": "Banksy's Boy Fishing",
+    "resolvedAddress": "49 Bermondsey Wall W, London SE16 4TG, UK",
+    "postcode": "SE16 4TG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.501968,
+    "lng": -0.070013,
+    "ward": "North Bermondsey"
+  },
+  "hiddenLondon:banksy-flag-blinded-statue": {
+    "placeId": "ChIJy2ZZAwAFdkgRbJxWwfSI_88",
+    "placesName": "Man Blinded by Flag - Banksy",
+    "resolvedAddress": "Waterloo Pl, London SW1Y 5ER, UK",
+    "postcode": "SW1Y 5ER",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.506841,
+    "lng": -0.132708,
+    "ward": "St James's"
+  },
+  "hiddenLondon:banksy-guard-dog": {
+    "placeId": "ChIJ15OoorocdkgRG-J55UOtqmw",
+    "placesName": "Guard dog, Banksy",
+    "resolvedAddress": "Rivington St, London EC1V 9LT, UK",
+    "postcode": "EC1V 9LT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.527081,
+    "lng": -0.079677,
+    "ward": "Hoxton East & Shoreditch"
+  },
+  "hiddenLondon:banksy-his-masters-voice": {
+    "placeId": "ChIJe9lUZLocdkgRGGOlKPGJuM0",
+    "placesName": "Banksy's 'Designated Graffiti Area' Shoreditch",
+    "resolvedAddress": "83 Rivington St, London EC2A 3AY, UK",
+    "postcode": "EC2A 3AY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.526082,
+    "lng": -0.079041,
+    "ward": "Hoxton East & Shoreditch"
+  },
+  "hiddenLondon:banksy-knife-fork-rat": {
+    "placeId": "ChIJ2wxwN6UcdkgRmU9Lsb9uoWw",
+    "placesName": "art'otel London Hoxton",
+    "resolvedAddress": "1-3 Rivington St, London EC2A 3DT, UK",
+    "postcode": "EC2A 3DT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.526169,
+    "lng": -0.083262,
+    "ward": "Hoxton East & Shoreditch"
+  },
+  "hiddenLondon:banksy-marble-arch": {
+    "placeId": "ChIJCSGAcwAbdkgRhVvV54iH2vQ",
+    "placesName": "Banksy Child with Beanie",
+    "resolvedAddress": "Flat 4, 132 Charing Cross Rd, London WC2H 0LA, UK",
+    "postcode": "WC2H 0LA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515311,
+    "lng": -0.129825,
+    "ward": "Holborn & Covent Garden"
+  },
+  "hiddenLondon:banksy-notting-hill-graffiti-painter": {
+    "placeId": "ChIJXyr_tL4RdkgRZZN6mcA_6lg",
+    "placesName": "Banksy’s ‘The Painter’",
+    "resolvedAddress": "2 Acklam Rd, London W10 5QZ, UK",
+    "postcode": "W10 5QZ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.51986,
+    "lng": -0.20576,
+    "ward": "Golborne"
+  },
+  "hiddenLondon:banksy-pink-car": {
+    "placeId": "ChIJnxZ5LAAddkgRYlZvnastufM",
+    "placesName": "Banksy - \"Three Monkeys\"",
+    "resolvedAddress": "178b Brick Ln, London E1 6SA, UK",
+    "postcode": "E1 6SA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.524076,
+    "lng": -0.071384,
+    "ward": "Weavers"
+  },
+  "hiddenLondon:banksy-robbo-rat": {
+    "placeId": "ChIJ81xgYAAddkgRBNwLU6FxTWU",
+    "placesName": "Banksy \"I love London, Robbo\"",
+    "resolvedAddress": "Sundial Court, 40 Chiswell St, London EC1Y 4SA, UK",
+    "postcode": "EC1Y 4SA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.520825,
+    "lng": -0.091414,
+    "ward": "Coleman Street"
+  },
+  "hiddenLondon:banksy-royal-courts-protester": {
+    "placeId": "ChIJIeuMMQAFdkgRQ8z6RV2nVVo",
+    "placesName": "Banksy Royal Courts",
+    "resolvedAddress": "48 Carey St, London WC2A 2HD, UK",
+    "postcode": "WC2A 2HD",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "lat": 51.514836,
+    "lng": -0.115893,
+    "ward": "St James's"
+  },
+  "hiddenLondon:banksy-stargazing-children-bayswater": {
+    "placeId": "ChIJ61ZBM2IbdkgRHMqIAOZ1PT4",
+    "placesName": "Banksy Tesco Kids",
+    "resolvedAddress": "166 Essex Rd, London N1 8NE, UK",
+    "postcode": "N1 8NE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.540141,
+    "lng": -0.096331,
+    "ward": "St Mary's & St James'"
+  },
+  "hiddenLondon:banksy-stargazing-children-centre-point": {
+    "placeId": "ChIJE3meifgbdkgRrICKCH8s9eU",
+    "placesName": "Din Tai Fung Centre Point",
+    "resolvedAddress": "Unit R04, 11 St Giles Square, London WC2H 8AP, UK",
+    "postcode": "WC2H 8AP",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515834,
+    "lng": -0.129371,
+    "ward": "Holborn & Covent Garden"
+  },
+  "hiddenLondon:banksy-tonbridge-street-rat": {
+    "lat": 51.529128,
+    "lng": -0.123866,
+    "ward": "King's Cross"
+  },
+  "hiddenLondon:banksy-tv-out-window": {
+    "placeId": "ChIJ2wxwN6UcdkgRmU9Lsb9uoWw",
+    "placesName": "art'otel London Hoxton",
+    "resolvedAddress": "1-3 Rivington St, London EC2A 3DT, UK",
+    "postcode": "EC2A 3DT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.526169,
+    "lng": -0.083262,
+    "ward": "Hoxton East & Shoreditch"
+  },
   "hiddenLondon:barrie-bayswater-road": {
     "placeId": "ChIJt2maFegFdkgRX-tRkS_7bkw",
     "placesName": "Sir James Barrie Blue Plaque",
