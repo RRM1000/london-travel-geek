@@ -1,0 +1,295 @@
+---
+// Site search. Reads ?q= on load, then filters as you type.
+//
+// This is a static site: the query string cannot filter anything server-side,
+// so the matching happens in the browser against /search-index.json. That file
+// is built by src/pages/search-index.json.ts and covers guides, restaurants and
+// activities - the previous search box submitted to /guides/, which ignored the
+// query entirely and showed the unfiltered index every time.
+//
+// Works without JavaScript to the extent that anything can: the form below
+// submits back here, and the no-JS message explains why there are no results.
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import SectionHeading from "../components/SectionHeading.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import restaurantData from "../data/restaurants.json";
+import activityData from "../data/activities.json";
+import eventData from "../data/events.json";
+import hotelData from "../data/hotels.json";
+
+const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Search" }];
+
+// Cache stamp for the index URL. Derived from the data rather than the clock so
+// an unchanged rebuild keeps the same URL and stays cached, while any change to
+// guides, restaurants or activities busts it immediately.
+const stamp = [
+  restaurantData.generated,
+  restaurantData.count,
+  activityData.generated,
+  activityData.count,
+  eventData.generated,
+  eventData.count,
+  hotelData.generated,
+  hotelData.count,
+].join("-").replace(/[^0-9a-z-]/gi, "");
+const indexUrl = `/search-index.json?v=${stamp}`;
+---
+
+<BaseLayout
+  title="Search"
+  description="Search every London Travel Geek guide, restaurant and thing to do."
+  breadcrumbs={breadcrumbs}
+  noindex
+>
+  <section class="search container">
+    <Breadcrumbs items={breadcrumbs} />
+    <SectionHeading
+      eyebrow="Search"
+      title="Search the site"
+      description="Guides, places to eat and things to do."
+    />
+
+    <form class="search__form" role="search" action="/search" method="get">
+      <label class="sr-only" for="search-q">Search</label>
+      <input
+        type="search"
+        id="search-q"
+        name="q"
+        autocomplete="off"
+        placeholder="Try “Soho”, “dim sum”, “Oyster card”…"
+      />
+      <button type="submit">Search</button>
+    </form>
+
+    <p class="search__status" id="search-status" aria-live="polite" role="status"></p>
+
+    <nav class="search__filters" id="search-filters" hidden aria-label="Filter results by type">
+      <button type="button" data-filter="all" class="is-active">All</button>
+      <button type="button" data-filter="g">Guides</button>
+      <button type="button" data-filter="r">Places to eat</button>
+      <button type="button" data-filter="a">Things to do</button>
+      <button type="button" data-filter="e">What's on</button>
+      <button type="button" data-filter="h">Places to stay</button>
+    </nav>
+
+    <ul class="search__results" id="search-results" data-index={indexUrl}></ul>
+
+    <noscript>
+      <p class="search__noscript">
+        Search needs JavaScript, because this site is served as static files and
+        the matching happens in your browser. You can still
+        <a href="/guides/">browse every guide</a> instead.
+      </p>
+    </noscript>
+  </section>
+</BaseLayout>
+
+<script>
+  type Rec = { t: "g" | "r" | "a" | "e" | "h"; n: string; u: string; d?: string; k?: string };
+
+  const input = document.getElementById("search-q") as HTMLInputElement;
+  const status = document.getElementById("search-status")!;
+  const results = document.getElementById("search-results")!;
+  const filters = document.getElementById("search-filters")!;
+
+  const LABEL: Record<string, string> = {
+    g: "Guide",
+    r: "Place to eat",
+    a: "Thing to do",
+    e: "What's on",
+    h: "Place to stay",
+  };
+
+  let records: Rec[] = [];
+  let ready = false;
+  let type = "all";
+
+  const norm = (s: string) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+
+  // Score rather than plain filter, so "soho" puts the Soho guide above the
+  // eighty restaurants that merely sit in Soho.
+  function score(r: Rec, terms: string[]) {
+    const name = norm(r.n);
+    const hay = norm(`${r.n} ${r.d ?? ""} ${r.k ?? ""}`);
+    let total = 0;
+    for (const term of terms) {
+      if (!hay.includes(term)) return 0;              // every term must match
+      if (name === term) total += 100;
+      else if (name.startsWith(term)) total += 50;
+      else if (name.includes(term)) total += 25;
+      else total += 5;
+    }
+    if (r.t === "g") total += 10;                     // guides are the main content
+    return total;
+  }
+
+  function render() {
+    const q = input.value.trim();
+    const terms = norm(q).split(/\s+/).filter(Boolean);
+
+    if (!terms.length) {
+      results.innerHTML = "";
+      filters.hidden = true;
+      status.textContent = ready ? "Type to search guides, places to eat and things to do." : "Loading…";
+      return;
+    }
+    if (!ready) {
+      status.textContent = "Loading…";
+      return;
+    }
+
+    const scored = records
+      .map((r) => ({ r, s: score(r, terms) }))
+      .filter((x) => x.s > 0)
+      .sort((a, b) => b.s - a.s || a.r.n.localeCompare(b.r.n));
+
+    const counts = { all: scored.length, g: 0, r: 0, a: 0, e: 0, h: 0 } as Record<string, number>;
+    for (const { r } of scored) counts[r.t]++;
+    for (const btn of filters.querySelectorAll("button")) {
+      const k = (btn as HTMLElement).dataset.filter!;
+      btn.textContent = `${btn.textContent!.replace(/\s*\(\d+\)$/, "")} (${counts[k] ?? 0})`;
+    }
+    filters.hidden = false;
+
+    const shown = type === "all" ? scored : scored.filter((x) => x.r.t === type);
+    const capped = shown.slice(0, 100);
+
+    status.textContent = shown.length
+      ? `${shown.length} result${shown.length === 1 ? "" : "s"} for “${q}”${shown.length > 100 ? " — showing the first 100" : ""}`
+      : `Nothing matched “${q}”. Try a place name, a cuisine, or a topic like “Oyster card”.`;
+
+    results.innerHTML = capped
+      .map(({ r }) => {
+        const d = r.d ? `<p>${esc(r.d)}</p>` : "";
+        return `<li class="search__result"><a href="${esc(r.u)}"><span class="search__kind" data-kind="${r.t}">${LABEL[r.t]}</span><strong>${esc(r.n)}</strong></a>${d}</li>`;
+      })
+      .join("");
+  }
+
+  function esc(s: string) {
+    return s.replace(/[&<>"']/g, (c) =>
+      ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!,
+    );
+  }
+
+  filters.addEventListener("click", (e) => {
+    const btn = (e.target as HTMLElement).closest("button");
+    if (!btn) return;
+    type = btn.dataset.filter!;
+    for (const b of filters.querySelectorAll("button")) b.classList.toggle("is-active", b === btn);
+    render();
+  });
+
+  // Seed from ?q= so a submitted header search lands on real results, and keep
+  // the URL in step so a result page can be shared or bookmarked.
+  input.value = new URLSearchParams(location.search).get("q") ?? "";
+
+  let timer: number | undefined;
+  input.addEventListener("input", () => {
+    window.clearTimeout(timer);
+    timer = window.setTimeout(() => {
+      const u = new URL(location.href);
+      if (input.value.trim()) u.searchParams.set("q", input.value.trim());
+      else u.searchParams.delete("q");
+      history.replaceState(null, "", u);
+      render();
+    }, 120);
+  });
+
+  document.querySelector(".search__form")!.addEventListener("submit", (e) => {
+    e.preventDefault();
+    render();
+  });
+
+  render();
+  fetch(results.dataset.index || "/search-index.json")
+    .then((r) => r.json())
+    .then((data) => {
+      records = data.records;
+      ready = true;
+      render();
+      input.focus();
+    })
+    .catch(() => {
+      status.textContent = "Search could not load. Please refresh, or browse all guides.";
+    });
+</script>
+
+<!--
+  is:global is REQUIRED here, not laziness.
+
+  Astro scopes component styles by stamping a data-astro-cid-* attribute onto
+  the elements it renders at build time. The result rows below are created in
+  the browser with innerHTML, so they never get that attribute and scoped rules
+  simply do not match them - the first build rendered "GuideSoho Area Guide"
+  as underlined run-together text with no badge and no gap.
+
+  Every selector is prefixed with .search so nothing leaks off this page.
+-->
+<style is:global>
+  .search { padding-block: var(--space-6, 3rem); }
+
+  .search__form { display: flex; gap: 0.5rem; margin-block: 1.5rem; max-width: 34rem; }
+  .search__form input {
+    flex: 1;
+    min-height: 2.75rem;
+    padding: 0.6rem 0.9rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--surface);
+    color: var(--ink);
+    font: inherit;
+  }
+  .search__form button {
+    min-height: 2.75rem;
+    padding: 0.6rem 1.2rem;
+    border: 1px solid var(--accent);
+    border-radius: 999px;
+    background: var(--accent);
+    color: var(--accent-contrast);
+    font: inherit;
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  .search__status { margin-block: 0.75rem; color: var(--muted); }
+
+  .search__filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-block: 1rem 1.5rem; }
+  .search__filters button {
+    padding: 0.35rem 0.8rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    font-size: 0.85rem;
+    cursor: pointer;
+  }
+  .search__filters button.is-active {
+    border-color: var(--accent);
+    background: color-mix(in srgb, var(--accent) 10%, transparent);
+    color: var(--accent);
+    font-weight: 650;
+  }
+
+  .search__results { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.1rem; }
+  .search__result { border-block-end: 1px solid var(--line); padding-block-end: 1.1rem; }
+  .search__result:last-child { border-block-end: 0; }
+  .search__result a { display: flex; align-items: baseline; gap: 0.6rem; text-decoration: none; }
+  .search__result strong { font-size: 1.05rem; }
+  .search__result p { margin: 0.3rem 0 0; color: var(--muted); font-size: 0.92rem; }
+
+  .search__kind {
+    flex: none;
+    padding: 0.1rem 0.45rem;
+    border: 1px solid currentColor;
+    border-radius: 3px;
+    font-size: 0.66rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    opacity: 0.75;
+  }
+
+  .search__noscript { margin-block: 1.5rem; color: var(--muted); }
+</style>
