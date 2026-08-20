@@ -1,0 +1,3333 @@
+{
+  "activities:alcotraz": {
+    "placeId": "ChIJd0Gm6bccdkgRIZZqh6H_6VM",
+    "placesName": "Alcotraz London: Cell Block Two-One-Two",
+    "resolvedAddress": "Unit 3B, 127 Hackney Rd, London E2 8GY, UK",
+    "postcode": "E2 8GY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.530175,
+    "lng": -0.07476,
+    "ward": "Haggerston"
+  },
+  "activities:all-saints-margaret-street": {
+    "placeId": "ChIJvQcD-iobdkgR2yp0LStCthE",
+    "placesName": "All Saints Margaret Street",
+    "resolvedAddress": "7 Margaret St, London W1W 8JG, UK",
+    "postcode": "W1W 8JG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.517215,
+    "lng": -0.138712,
+    "ward": "West End"
+  },
+  "activities:arcelormittal-orbit-slide": {
+    "placeId": "ChIJE1VVZW8ddkgRymJQutSelf0",
+    "placesName": "Zip World London at ArcelorMittal Orbit",
+    "resolvedAddress": "Queen Elizabeth Olympic Park, 5 Thornton St, London E20 2AD, UK",
+    "postcode": "E20 2AD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.538592,
+    "lng": -0.012195,
+    "ward": "Stratford Olympic Park"
+  },
+  "activities:avora": {
+    "placeId": "ChIJD5VfQ0YddkgRsxjrcUw893o",
+    "placesName": "Avora London: A New-World Cocktail Experience",
+    "resolvedAddress": "5C, 127 Hackney Rd, London E2 8GY, UK",
+    "postcode": "E2 8GY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.530175,
+    "lng": -0.07476,
+    "ward": "Haggerston"
+  },
+  "activities:ballie-ballerson": {
+    "placeId": "ChIJN7DLn7ocdkgRAHNTfGExeWY",
+    "placesName": "Ballie Ballerson London",
+    "resolvedAddress": "97-113 Curtain Rd, London EC2A 3BS, UK",
+    "postcode": "EC2A 3BS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.525306,
+    "lng": -0.08053,
+    "ward": "Hoxton East & Shoreditch"
+  },
+  "activities:bank-of-england-museum": {
+    "placeId": "ChIJ08o_oFQDdkgRDZ6tiQDJXOc",
+    "placesName": "Bank of England Museum",
+    "resolvedAddress": "Bartholomew Ln, London EC2R 8AH, UK",
+    "postcode": "EC2R 8AH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.514188,
+    "lng": -0.088622,
+    "ward": "Walbrook"
+  },
+  "activities:barbican-conservatory": {
+    "placeId": "ChIJ4f1sA6ocdkgRtnMFkM3t7o0",
+    "placesName": "Barbican Conservatory",
+    "resolvedAddress": "Silk St, London EC2Y 8DS, UK",
+    "postcode": "EC2Y 8DS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.519961,
+    "lng": -0.094103,
+    "ward": "Cripplegate"
+  },
+  "activities:bat-and-ball-covent-garden": {
+    "placeId": "ChIJZ1zy-PsFdkgRf7uJIbt9viw",
+    "placesName": "Bat & Ball Covent Garden",
+    "resolvedAddress": "A, 50 Earlham St, London WC2H 9LJ, UK",
+    "postcode": "WC2H 9LJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.513823,
+    "lng": -0.12562,
+    "ward": "Holborn & Covent Garden"
+  },
+  "activities:battersea-park": {
+    "placeId": "ChIJOWBQvA4FdkgRQf5iYYFF1v4",
+    "placesName": "Battersea Park",
+    "resolvedAddress": "Battersea Park Rd, London SW11 4NJ, UK",
+    "postcode": "SW11 4NJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.476233,
+    "lng": -0.160801,
+    "ward": "Battersea Park"
+  },
+  "activities:battersea-park-childrens-zoo": {
+    "placeId": "ChIJed76NXMFdkgRVjjPgq8ZIxE",
+    "placesName": "Battersea Park Children's Zoo",
+    "resolvedAddress": "Battersea Park, London SW11 4NJ, UK",
+    "postcode": "SW11 4NJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.476233,
+    "lng": -0.160801,
+    "ward": "Battersea Park"
+  },
+  "activities:battersea-power-station": {
+    "placeId": "ChIJ4Z9Tf_0EdkgRXVFCTtu_oJY",
+    "placesName": "Battersea Power Station",
+    "resolvedAddress": "Circus Rd W, Nine Elms, London SW11 8DD, UK",
+    "postcode": "SW11 8DD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.481512,
+    "lng": -0.145438,
+    "ward": "Nine Elms"
+  },
+  "activities:bermondsey-beer-mile": {
+    "placeId": "ChIJDcCcYAADdkgRje9mBCEnIvY",
+    "placesName": "Fabal Beerhall - Bermondsey Beer Mile",
+    "resolvedAddress": "88 Druid St, London SE1 2AN, UK",
+    "postcode": "SE1 2AN",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.498096,
+    "lng": -0.07192,
+    "ward": "North Bermondsey"
+  },
+  "activities:bfi-imax": {
+    "placeId": "ChIJm_mee7cEdkgRM0sbLsHGeWg",
+    "placesName": "BFI IMAX",
+    "resolvedAddress": "1 Charlie Chaplin Walk, London SE1 8XR, UK",
+    "postcode": "SE1 8XR",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.504818,
+    "lng": -0.113626,
+    "ward": "Waterloo & South Bank"
+  },
+  "activities:bfi-southbank": {
+    "placeId": "ChIJEYfH57cEdkgRvTdhVI3xJzQ",
+    "placesName": "BFI Southbank",
+    "resolvedAddress": "Belvedere Rd, London SE1 8XT, UK",
+    "postcode": "SE1 8XT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.50695,
+    "lng": -0.115944,
+    "ward": "Waterloo & South Bank"
+  },
+  "activities:billingsgate-fish-market": {
+    "placeId": "ChIJK_ex97ACdkgRGJLJV_JwpCE",
+    "placesName": "Billingsgate Market",
+    "resolvedAddress": "Trafalgar Wy., London E14 5ST, UK",
+    "postcode": "E14 5ST",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.506327,
+    "lng": -0.013341,
+    "ward": "Canary Wharf"
+  },
+  "activities:biscuiteers-notting-hill": {
+    "placeId": "ChIJUX0NCB4QdkgRz8LN_ValCX0",
+    "placesName": "Biscuiteers",
+    "resolvedAddress": "194 Kensington Park Rd, London W11 2ES, UK",
+    "postcode": "W11 2ES",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515424,
+    "lng": -0.205546,
+    "ward": "Colville"
+  },
+  "activities:bloomsbury-garden-squares": {
+    "placeId": "ChIJU5XQDDQbdkgRNMhgZhk5T1Y",
+    "placesName": "Bloomsbury Square",
+    "resolvedAddress": "Bloomsbury Square, London WC1A 2NS, UK",
+    "postcode": "WC1A 2NS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.519621,
+    "lng": -0.123234,
+    "ward": "Bloomsbury"
+  },
+  "activities:bold-tendencies": {
+    "placeId": "ChIJO4rSTqADdkgRZXvjf57dWP4",
+    "placesName": "Bold Tendencies",
+    "resolvedAddress": "7th-10th Floors, Multi storey Car park, 95a Rye Ln, London SE15 4ST, UK",
+    "postcode": "SE15 4ST",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.469831,
+    "lng": -0.068044,
+    "ward": "Rye Lane"
+  },
+  "activities:boom-lab-old-street": {
+    "placeId": "ChIJSTyNXe0ddkgR8GDYAmPIHPw",
+    "placesName": "Boom Lab London",
+    "resolvedAddress": "83 Rivington St, London EC2A 3AY, UK",
+    "postcode": "EC2A 3AY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.526082,
+    "lng": -0.079041,
+    "ward": "Hoxton East & Shoreditch"
+  },
+  "activities:bounce-shoreditch": {
+    "placeId": "ChIJqZShbaUcdkgRnfbNFlbTZ-U",
+    "placesName": "Bounce Old Street",
+    "resolvedAddress": "241 Old St, London EC1V 9EY, UK",
+    "postcode": "EC1V 9EY",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "lat": 51.526626,
+    "lng": -0.084295,
+    "ward": "Hoxton West"
+  },
+  "activities:british-library-treasures": {
+    "placeId": "ChIJlRMXcDsbdkgRJdsP3nlUkBg",
+    "placesName": "The British Library",
+    "resolvedAddress": "96 Euston Rd., London NW1 2DB, UK",
+    "postcode": "NW1 2DB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.529987,
+    "lng": -0.126989,
+    "ward": "St Pancras & Somers Town"
+  },
+  "activities:british-museum": {
+    "placeId": "ChIJB9OTMDIbdkgRp0JWbQGZsS8",
+    "placesName": "The British Museum",
+    "resolvedAddress": "Great Russell St, London WC1B 3DG, UK",
+    "postcode": "WC1B 3DG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.519364,
+    "lng": -0.126848,
+    "ward": "Bloomsbury"
+  },
+  "activities:broadway-market": {
+    "placeId": "ChIJaZN7MugcdkgRdBDt4u41D4A",
+    "placesName": "Broadway Market",
+    "resolvedAddress": "Broadway Market, London, UK"
+  },
+  "activities:brown-hart-gardens": {
+    "placeId": "ChIJu-KNby0FdkgRY37T2VfonZU",
+    "placesName": "Brown Hart Gardens",
+    "resolvedAddress": "Brown Hart Gardens, London W1K 6WP, UK",
+    "postcode": "W1K 6WP",
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "lat": 51.512928,
+    "lng": -0.151382,
+    "ward": "West End"
+  },
+  "activities:bunga-90": {
+    "placeId": "ChIJl9RNrjQbdkgRCIXEk6cCM6w",
+    "placesName": "Bunga 90",
+    "resolvedAddress": "167 Drury Ln, London WC2B 5PG, UK",
+    "postcode": "WC2B 5PG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515432,
+    "lng": -0.122772,
+    "ward": "Holborn & Covent Garden"
+  },
+  "activities:bussey-building": {
+    "placeId": "ChIJ85g3GqEDdkgRR7YnXnWnSuM",
+    "placesName": "Copeland Park",
+    "resolvedAddress": "133 Copeland Rd, London SE15 3SN, UK",
+    "postcode": "SE15 3SN",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.469833,
+    "lng": -0.066014,
+    "ward": "Rye Lane"
+  },
+  "activities:buzzattack": {
+    "placeId": "ChIJ6dlI9poddkgRbWb2smr-M6A",
+    "placesName": "BuzzAttack: The Live Game Show Experience",
+    "resolvedAddress": "3a, Rosewood Building, 127 Hackney Rd, London E2 8GY, UK",
+    "postcode": "E2 8GY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.530175,
+    "lng": -0.07476,
+    "ward": "Haggerston"
+  },
+  "activities:cahoots-soho": {
+    "placeId": "ChIJ-2mrB9UEdkgReKgh9HDC-7s",
+    "placesName": "Cahoots Underground",
+    "resolvedAddress": "13 Kingly Ct, Carnaby, London W1B 5PW, UK",
+    "postcode": "W1B 5PW",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.512458,
+    "lng": -0.138704,
+    "ward": "West End"
+  },
+  "activities:camden-market": {
+    "placeId": "ChIJSfFEEuQadkgRCO-FF_-eZUc",
+    "placesName": "Camden Market",
+    "resolvedAddress": "54-56 Camden Lock Pl, London NW1 8AF, UK",
+    "postcode": "NW1 8AF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.541333,
+    "lng": -0.146626,
+    "ward": "Camden Town"
+  },
+  "activities:camden-passage": {
+    "placeId": "ChIJZ83VcV0bdkgR5x9MQBkrZV8",
+    "placesName": "Camden Passage",
+    "resolvedAddress": "Camden Passage, London, UK"
+  },
+  "activities:camley-street-natural-park": {
+    "placeId": "ChIJDes0aT0bdkgREhO6PKNbxd0",
+    "placesName": "Camley Street Natural Park, London Wildlife Trust",
+    "resolvedAddress": "12 Camley St, London N1C 4PW, UK",
+    "postcode": "N1C 4PW",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.535583,
+    "lng": -0.12771,
+    "ward": "St Pancras & Somers Town"
+  },
+  "activities:canary-wharf-ice-rink": {
+    "placeId": "ChIJGXi6VLcCdkgR_OVM4qaiTxQ",
+    "placesName": "Ice Rink Canary Wharf",
+    "resolvedAddress": "Canada Square, Canary Wharf Estate, London E14 5AB, UK",
+    "postcode": "E14 5AB",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "lat": 51.504938,
+    "lng": -0.019496,
+    "ward": "Canary Wharf"
+  },
+  "activities:capital-karts-canary-wharf": {
+    "placeId": "ChIJs3YWk2UDdkgRFXGWoJT_Z9M",
+    "placesName": "K1 Speed Canary Wharf",
+    "resolvedAddress": "15 Cabot Sq, Canary Wharf Estate, London E14 4QT, UK",
+    "postcode": "E14 4QT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.505088,
+    "lng": -0.020931,
+    "ward": "Canary Wharf"
+  },
+  "activities:carnaby-street": {
+    "placeId": "ChIJhYw3EdUEdkgRYaGKThvmX9o",
+    "placesName": "Carnaby Street",
+    "resolvedAddress": "Carnaby St, Carnaby, London, UK"
+  },
+  "activities:castle-cinema-clapton": {
+    "placeId": "ChIJS5lX2gMddkgRAQ_dwtvL2TQ",
+    "placesName": "The Castle Cinema",
+    "resolvedAddress": "First Floor, 64 - 66 Brooksby's Walk, London E9 6DA, UK",
+    "postcode": "E9 6DA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.550962,
+    "lng": -0.043043,
+    "ward": "King's Park"
+  },
+  "activities:changing-the-guard": {
+    "placeId": "ChIJtV5bzSAFdkgRpwLZFPWrJgo",
+    "placesName": "Buckingham Palace",
+    "resolvedAddress": "London SW1A 1AA, UK",
+    "postcode": "SW1A 1AA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.50101,
+    "lng": -0.141563,
+    "ward": "St James's"
+  },
+  "activities:charles-dickens-museum": {
+    "placeId": "ChIJlwm8OUgbdkgRWsaTM35CDTM",
+    "placesName": "Charles Dickens Museum",
+    "resolvedAddress": "48-49 Doughty St, London WC1N 2LX, UK",
+    "postcode": "WC1N 2LX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.523601,
+    "lng": -0.116237,
+    "ward": "Holborn & Covent Garden"
+  },
+  "activities:chelsea-physic-garden": {
+    "placeId": "ChIJG2tYjRIFdkgRQguyIPTqIfg",
+    "placesName": "Chelsea Physic Garden",
+    "resolvedAddress": "66 Royal Hospital Rd, London SW3 4HS, UK",
+    "postcode": "SW3 4HS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.484303,
+    "lng": -0.163343,
+    "ward": "Royal Hospital"
+  },
+  "activities:churchill-war-rooms": {
+    "placeId": "ChIJq4lX1doEdkgR5JXPstgQjc0",
+    "placesName": "Churchill War Rooms",
+    "resolvedAddress": "King Charles St, London SW1A 2AQ, UK",
+    "postcode": "SW1A 2AQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.502166,
+    "lng": -0.126574,
+    "ward": "St James's"
+  },
+  "activities:clays-canary-wharf": {
+    "placeId": "ChIJ95-jbIUDdkgR5_CIioovWvU",
+    "placesName": "Clays, Canary Wharf",
+    "resolvedAddress": "On the wharf 1, Cabot Square, W India Ave, Canary Wharf Estate, London E14 4QJ, UK",
+    "postcode": "E14 4QJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.50596,
+    "lng": -0.023544,
+    "postcodeTerminated": 2025
+  },
+  "activities:clays-the-city": {
+    "placeId": "ChIJScjkYukddkgRhpOieHyLaPQ",
+    "placesName": "Clays, The City",
+    "resolvedAddress": "55 Moorgate, London EC2R 6LL, UK",
+    "postcode": "EC2R 6LL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.516419,
+    "lng": -0.089206,
+    "ward": "Coleman Street"
+  },
+  "activities:coal-drops-yard": {
+    "placeId": "ChIJXbS71BcbdkgRCxCAKCgSJ2E",
+    "placesName": "Coal Drops Yard",
+    "resolvedAddress": "Stable St, London N1C 4LW, UK",
+    "postcode": "N1C 4LW",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.535684,
+    "lng": -0.123943,
+    "postcodeTerminated": 2016
+  },
+  "activities:colosseum-legendary-arena": {
+    "placeId": "ChIJcW7KtK4bdkgRtojue0m21Lw",
+    "placesName": "Eclipso London – Camden",
+    "resolvedAddress": "213 Camden High St, London NW1 7BT, UK",
+    "postcode": "NW1 7BT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.5393,
+    "lng": -0.143218,
+    "ward": "Camden Town"
+  },
+  "activities:columbia-road-flower-market": {
+    "placeId": "ChIJUe_EX7McdkgRUyuFGZPputs",
+    "placesName": "Columbia Road Flower Market",
+    "resolvedAddress": "Columbia Rd, London E2 7RG, UK",
+    "postcode": "E2 7RG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.529302,
+    "lng": -0.069246,
+    "ward": "Weavers"
+  },
+  "activities:cork-street-galleries": {
+    "placeId": "ChIJW-DTqfQFdkgRhr_0FIG8qY0",
+    "placesName": "No.9 Cork Street",
+    "resolvedAddress": "9 Cork St, London W1S 3LL, UK",
+    "postcode": "W1S 3LL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.510282,
+    "lng": -0.141589,
+    "ward": "West End"
+  },
+  "activities:covent-garden-street-performers": {
+    "placeId": "ChIJr4JH_osFdkgRg1--dtEasu8",
+    "placesName": "Covent Garden Street Performers",
+    "resolvedAddress": "London WC2E 8RA, UK",
+    "postcode": "WC2E 8RA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.512119,
+    "lng": -0.123096,
+    "ward": "St James's"
+  },
+  "activities:crazyputt-adventure-golf": {
+    "placeId": "ChIJVVVVoaACdkgRhsBQnZGMOYs",
+    "placesName": "Crazy Putt London",
+    "resolvedAddress": "265 Tunnel Ave, London SE10 0QE, UK",
+    "postcode": "SE10 0QE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.495585,
+    "lng": 0.000671,
+    "ward": "Greenwich Peninsula"
+  },
+  "activities:crossrail-place-roof-garden": {
+    "placeId": "ChIJEzFv5rACdkgRLA2fgj3u0ZY",
+    "placesName": "Crossrail Place Roof Garden",
+    "resolvedAddress": "Crossrail Pl, Canary Wharf Estate, London E14 5AB, UK",
+    "postcode": "E14 5AB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.504938,
+    "lng": -0.019496,
+    "ward": "Canary Wharf"
+  },
+  "activities:crystal-maze-live-experience": {
+    "placeId": "ChIJjzKeFKcFdkgRD85JyyLyBcY",
+    "placesName": "The Crystal Maze LIVE Experience",
+    "resolvedAddress": "22 - 32 Shaftesbury Ave, London W1D 7EU, UK",
+    "postcode": "W1D 7EU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.510874,
+    "lng": -0.133552,
+    "ward": "St James's"
+  },
+  "activities:cutty-sark": {
+    "placeId": "ChIJAVlhMIUCdkgRCJEgHVbITq4",
+    "placesName": "Cutty Sark",
+    "resolvedAddress": "King William Walk, London SE10 9HT, UK",
+    "postcode": "SE10 9HT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.483529,
+    "lng": -0.009594,
+    "ward": "Greenwich Park"
+  },
+  "activities:daunt-books-marylebone": {
+    "placeId": "ChIJTQJH99EadkgRgli4gpxCkOY",
+    "placesName": "Daunt Books Marylebone",
+    "resolvedAddress": "84 Marylebone High St, London W1U 4QW, UK",
+    "postcode": "W1U 4QW",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.520442,
+    "lng": -0.152289,
+    "ward": "Marylebone"
+  },
+  "activities:david-bowie-youre-not-alone": {
+    "placeId": "ChIJH3HGT9MEdkgRbroiQmCl0Co",
+    "placesName": "Plaque: David Bowie at Trident Studios",
+    "resolvedAddress": "17 St Anne's Ct, London W1F 0BQ, UK",
+    "postcode": "W1F 0BQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.514446,
+    "lng": -0.134256,
+    "ward": "West End"
+  },
+  "activities:dennis-severs-house": {
+    "placeId": "ChIJf_GVRLEcdkgR6JZu80EMGOs",
+    "placesName": "Dennis Severs' House",
+    "resolvedAddress": "18 Folgate St, London E1 6BX, UK",
+    "postcode": "E1 6BX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.520982,
+    "lng": -0.077324,
+    "ward": "Spitalfields & Banglatown"
+  },
+  "activities:design-museum": {
+    "placeId": "ChIJs0HnpkcDdkgRJjUYVf4jca4",
+    "placesName": "the Design Museum",
+    "resolvedAddress": "224-238 Kensington High St, London W8 6AG, UK",
+    "postcode": "W8 6AG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.499874,
+    "lng": -0.200163,
+    "ward": "Holland"
+  },
+  "activities:diana-memorial-playground": {
+    "placeId": "ChIJ_X4Ce_0PdkgREqwQu2aBoOY",
+    "placesName": "Diana Princess of Wales Memorial Playground",
+    "resolvedAddress": "Kensington Gardens, Broad Walk, London W2 4RU, UK",
+    "postcode": "W2 4RU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.509943,
+    "lng": -0.188309,
+    "ward": "Campden"
+  },
+  "activities:draughts-stratford": {
+    "placeId": "ChIJw-gxLWwddkgRSwYC5uTJY4o",
+    "placesName": "Draughts Stratford",
+    "resolvedAddress": "Queen Elizabeth Olympic Park, 5 Aquatics Walk, Stratford Cross, London E20 2AS, UK",
+    "postcode": "E20 2AS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.540951,
+    "lng": -0.01238,
+    "ward": "Stratford Olympic Park"
+  },
+  "activities:draughts-waterloo": {
+    "placeId": "ChIJSbFBvpQFdkgREL29YKVgfaA",
+    "placesName": "Draughts - Waterloo",
+    "resolvedAddress": "Arch 16 Leake St, London SE1 7NN, UK",
+    "postcode": "SE1 7NN",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.501779,
+    "lng": -0.115913,
+    "ward": "Waterloo & South Bank"
+  },
+  "activities:electric-cinema-notting-hill": {
+    "placeId": "ChIJoXYg8B0QdkgRg9GdMJtVVh0",
+    "placesName": "Electric Cinema",
+    "resolvedAddress": "191 Portobello Rd, London W11 2ED, UK",
+    "postcode": "W11 2ED",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515524,
+    "lng": -0.205066,
+    "ward": "Colville"
+  },
+  "activities:electric-shuffle-canary-wharf": {
+    "placeId": "ChIJpcqoKYsDdkgREJNq7R8ra9Q",
+    "placesName": "Electric Shuffle Canary Wharf",
+    "resolvedAddress": "Cabot Square, N Colonnade, Canary Wharf Estate, London E14 4EY, UK",
+    "postcode": "E14 4EY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.50591,
+    "lng": -0.021688,
+    "ward": "Canary Wharf"
+  },
+  "activities:everyman-screen-on-the-canal": {
+    "placeId": "ChIJa1KuCPUbdkgRsneEwWhfUOY",
+    "placesName": "Everyman on the Canal",
+    "resolvedAddress": "Granary Square, London N1C 4PW, UK",
+    "postcode": "N1C 4PW",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.535583,
+    "lng": -0.12771,
+    "ward": "St Pancras & Somers Town"
+  },
+  "activities:f1-arcade-london": {
+    "placeId": "ChIJq2ACRWsFdkgRJn_lSL81PM4",
+    "placesName": "F1® Arcade London",
+    "resolvedAddress": "1 New Change, London EC4M 9AF, UK",
+    "postcode": "EC4M 9AF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.513624,
+    "lng": -0.095953,
+    "ward": "Bread Street"
+  },
+  "activities:fairgame-canary-wharf": {
+    "placeId": "ChIJ6ePadIEDdkgRRVH3nx0rILw",
+    "placesName": "Fairgame",
+    "resolvedAddress": "25 Fishermans Walk, Canary Wharf Estate, London E14 4DH, UK",
+    "postcode": "E14 4DH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.505911,
+    "lng": -0.021702,
+    "ward": "Canary Wharf"
+  },
+  "activities:faraday-museum": {
+    "placeId": "ChIJzfGiISoFdkgRQi68A4o6qsA",
+    "placesName": "Faraday Museum at The Royal Institution",
+    "resolvedAddress": "21 Albemarle St, London W1S 4BS, UK",
+    "postcode": "W1S 4BS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.509947,
+    "lng": -0.142554,
+    "ward": "West End"
+  },
+  "activities:fashion-and-textile-museum": {
+    "placeId": "ChIJSep40kQDdkgRPze1yPrhO9U",
+    "placesName": "Fashion and Textile Museum",
+    "resolvedAddress": "83 Bermondsey St, London SE1 3XF, UK",
+    "postcode": "SE1 3XF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.501525,
+    "lng": -0.081919,
+    "ward": "London Bridge & West Bermondsey"
+  },
+  "activities:faulty-towers-dining": {
+    "placeId": "ChIJ_____84EdkgRit_-iv9jPhU",
+    "placesName": "Faulty Towers The Dining Experience",
+    "resolvedAddress": "56 Guilford St, London WC1N 1DP, UK",
+    "postcode": "WC1N 1DP",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.524336,
+    "lng": -0.116639,
+    "ward": "King's Cross"
+  },
+  "activities:fitzrovia-chapel": {
+    "placeId": "ChIJ0Q3GNSobdkgR8Nhax0ezEYA",
+    "placesName": "Fitzrovia Chapel",
+    "resolvedAddress": "2 Pearson Square, London W1T 3BF, UK",
+    "postcode": "W1T 3BF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.51898,
+    "lng": -0.138309,
+    "ward": "West End"
+  },
+  "activities:fitzroy-square": {
+    "placeId": "ChIJl0g50ykbdkgRgU2dE6Up0pA",
+    "placesName": "Fitzroy Square",
+    "resolvedAddress": "Fitzroy Square, London, UK"
+  },
+  "activities:flight-club-bloomsbury": {
+    "placeId": "ChIJsSUS7zIbdkgRh4pgkn0wrP8",
+    "placesName": "Flight Club Bloomsbury",
+    "resolvedAddress": "55 New Oxford St, London WC1A 1BS, UK",
+    "postcode": "WC1A 1BS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.516679,
+    "lng": -0.127074,
+    "ward": "Holborn & Covent Garden"
+  },
+  "activities:flight-club-islington": {
+    "placeId": "ChIJmTPnmN4bdkgRYluKb1dme1o",
+    "placesName": "Flight Club Islington",
+    "resolvedAddress": "56 Upper St, London N1 0NY, UK",
+    "postcode": "N1 0NY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.535939,
+    "lng": -0.103976,
+    "ward": "St Mary's & St James'"
+  },
+  "activities:flight-club-shoreditch": {
+    "placeId": "ChIJBWTd664cdkgRr3oSfWBdQME",
+    "placesName": "Flight Club Shoreditch",
+    "resolvedAddress": "2A Worship St, London EC2A 2AH, UK",
+    "postcode": "EC2A 2AH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.522011,
+    "lng": -0.085282,
+    "ward": "Bunhill"
+  },
+  "activities:flight-club-victoria": {
+    "placeId": "ChIJ4b4PokUFdkgR_Xnc3r2dFRI",
+    "placesName": "Flight Club Victoria",
+    "resolvedAddress": "6 Sir Simon Milton Sq, London SW1E 5DJ, UK",
+    "postcode": "SW1E 5DJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.497418,
+    "lng": -0.143553,
+    "ward": "St James's"
+  },
+  "activities:flip-out-canary-wharf": {
+    "placeId": "ChIJ2fFKeuMDdkgRLHMNKVOxX_s",
+    "placesName": "Flip Out Canary Wharf",
+    "resolvedAddress": "Canary Wharf Shopping Centre, Cabot Square, Canary Wharf Estate, London E14 4QS, UK",
+    "postcode": "E14 4QS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.505181,
+    "lng": -0.021633,
+    "ward": "Canary Wharf"
+  },
+  "activities:foundling-museum": {
+    "placeId": "ChIJ3-M3YTcbdkgRGzQr8JQ8APE",
+    "placesName": "Foundling Museum",
+    "resolvedAddress": "40 Brunswick Square, London WC1N 1AZ, UK",
+    "postcode": "WC1N 1AZ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.525481,
+    "lng": -0.120758,
+    "ward": "King's Cross"
+  },
+  "activities:frameless-london": {
+    "placeId": "ChIJId2oNroFdkgReafXXIrGnkY",
+    "placesName": "Frameless",
+    "resolvedAddress": "6 Marble Arch, London W1H 7AP, UK",
+    "postcode": "W1H 7AP",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.51345,
+    "lng": -0.159994,
+    "postcodeTerminated": 2007
+  },
+  "activities:franks-cafe-peckham": {
+    "placeId": "ChIJBcB2vAUDdkgR7TQSZykwr1Q",
+    "placesName": "Frank's Cafe at Bold Tendencies",
+    "resolvedAddress": "Bold Tendencies, 7th-10th Floor Multi Storey Car Park, 95A Rye Ln, London SE15 4ST, UK",
+    "postcode": "SE15 4ST",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.469831,
+    "lng": -0.068044,
+    "ward": "Rye Lane"
+  },
+  "activities:garden-at-120": {
+    "placeId": "ChIJt_2vdU0DdkgRNXf_foGN20c",
+    "placesName": "The Garden at 120",
+    "resolvedAddress": "120 Fenchurch St, London EC3M 5BA, UK",
+    "postcode": "EC3M 5BA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.512094,
+    "lng": -0.08097,
+    "postcodeTerminated": 2015
+  },
+  "activities:goboat-canary-wharf": {
+    "placeId": "ChIJ88RMJMADdkgROKDD1XMHL88",
+    "placesName": "GoBoat Canary Wharf",
+    "resolvedAddress": "22 Churchill Pl, Canary Wharf Estate, London E14 5RE, UK",
+    "postcode": "E14 5RE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.503691,
+    "lng": -0.014911,
+    "ward": "Blackwall & Cubitt Town"
+  },
+  "activities:goboat-paddington": {
+    "placeId": "ChIJvRnKSLIadkgRJI6m1_v6G9c",
+    "placesName": "GoBoat London - Paddington",
+    "resolvedAddress": "Merchant Sq, London W2 1AS, UK",
+    "postcode": "W2 1AS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.518829,
+    "lng": -0.173326,
+    "ward": "Hyde Park"
+  },
+  "activities:golborne-road": {
+    "placeId": "ChIJGSXeoBkQdkgRU50dAgixBfk",
+    "placesName": "Golborne Road",
+    "resolvedAddress": "Golborne Rd, London, UK"
+  },
+  "activities:granary-square-fountains": {
+    "placeId": "ChIJiTg3sf0bdkgR4jusm4DOBwM",
+    "placesName": "Granary Square",
+    "resolvedAddress": "1 Granary Square, London N1C 4AB, UK",
+    "postcode": "N1C 4AB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.536498,
+    "lng": -0.125322,
+    "ward": "King's Cross"
+  },
+  "activities:grant-museum-of-zoology": {
+    "placeId": "ChIJ66NuMS8bdkgRb0YHGckT794",
+    "placesName": "Grant Museum of Zoology",
+    "resolvedAddress": "Rockefeller Building, 21 University St, London WC1E 6DE, UK",
+    "postcode": "WC1E 6DE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.523625,
+    "lng": -0.134659,
+    "ward": "Bloomsbury"
+  },
+  "activities:greenwich-foot-tunnel": {
+    "placeId": "ChIJVxifNYUCdkgRxjqoqeEkaXQ",
+    "placesName": "Greenwich Foot Tunnel South",
+    "resolvedAddress": "Greenwich Foot Tunnel, London SE10 9HT, UK",
+    "postcode": "SE10 9HT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.483529,
+    "lng": -0.009594,
+    "ward": "Greenwich Park"
+  },
+  "activities:greenwich-market": {
+    "placeId": "ChIJy1h2_oQCdkgRl3802pWBEMM",
+    "placesName": "Greenwich Market",
+    "resolvedAddress": "Greenwich Market, London, UK"
+  },
+  "activities:greenwich-park": {
+    "placeId": "ChIJaeUYnoQCdkgR0Fxns5NICw4",
+    "placesName": "Greenwich Park",
+    "resolvedAddress": "London SE10 8QY, UK",
+    "postcode": "SE10 8QY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.473,
+    "lng": 0.003008,
+    "ward": "Greenwich Park"
+  },
+  "activities:greenwich-peninsula-ecology-park": {
+    "placeId": "ChIJxYKmFhao2EcRlpzGkbvsbh4",
+    "placesName": "Greenwich Peninsula Ecology Park - TCV",
+    "resolvedAddress": "The Ecology Park Gatehouse John Harrison Way, Olympian Way, London SE10 0QZ, UK",
+    "postcode": "SE10 0QZ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.495664,
+    "lng": 0.016003,
+    "ward": "Greenwich Peninsula"
+  },
+  "activities:hackney-city-farm": {
+    "placeId": "ChIJvS60MMEcdkgRSMlH5VxD51Y",
+    "placesName": "Hackney City Farm",
+    "resolvedAddress": "1a Goldsmiths Row, London E2 8QA, UK",
+    "postcode": "E2 8QA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.532028,
+    "lng": -0.066622,
+    "ward": "Haggerston"
+  },
+  "activities:hackney-empire": {
+    "placeId": "ChIJSyU30eQcdkgRjA0iSmbKqR4",
+    "placesName": "Hackney Empire",
+    "resolvedAddress": "291 Mare St, London E8 1EJ, UK",
+    "postcode": "E8 1EJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.54607,
+    "lng": -0.055469,
+    "ward": "Hackney Central"
+  },
+  "activities:hampstead-bathing-ponds": {
+    "placeId": "ChIJHZ9EjWAadkgRq9VgRf2_pX4",
+    "placesName": "Mixed Bathing Pond",
+    "resolvedAddress": "Mixed Bathing Pond, London NW3 2SN, UK",
+    "postcode": "NW3 2SN",
+    "lat": 51.558686,
+    "lng": -0.164227,
+    "ward": "Hampstead Town"
+  },
+  "activities:hampstead-heath": {
+    "placeId": "ChIJN-YJkXsadkgRGje47ILidhI",
+    "placesName": "Heath Brow",
+    "resolvedAddress": "Heath Brow, London, UK"
+  },
+  "activities:handel-hendrix-house": {
+    "placeId": "ChIJ8TcYbCsFdkgREJn6RlCbKjw",
+    "placesName": "Handel Hendrix House",
+    "resolvedAddress": "25 Brook St, London W1K 4HB, UK",
+    "postcode": "W1K 4HB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.512967,
+    "lng": -0.145904,
+    "ward": "West End"
+  },
+  "activities:hays-galleria": {
+    "placeId": "ChIJEa-RP1ADdkgRI61BH7hbvEg",
+    "placesName": "Hay’s Galleria",
+    "resolvedAddress": "Hay’s Galleria, Tooley St, London SE1 2DA, UK",
+    "postcode": "SE1 2DA",
+    "lat": 51.505054,
+    "lng": -0.082707,
+    "ward": "London Bridge & West Bermondsey"
+  },
+  "activities:hayward-gallery": {
+    "placeId": "ChIJEYfH57cEdkgRuNeOk-nbgeo",
+    "placesName": "Hayward Gallery",
+    "resolvedAddress": "Southbank Centre, Belvedere Rd, London SE1 8XX, UK",
+    "postcode": "SE1 8XX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.505768,
+    "lng": -0.1168,
+    "ward": "Waterloo & South Bank"
+  },
+  "activities:hexmoor": {
+    "placeId": "ChIJi970ygcddkgRDmPnL-ZXBBk",
+    "placesName": "Hexmoor: Wizarding Prison",
+    "resolvedAddress": "Unit 11, 127 Hackney Rd, London E2 8GY, UK",
+    "postcode": "E2 8GY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.530175,
+    "lng": -0.07476,
+    "ward": "Haggerston"
+  },
+  "activities:highgate-cemetery": {
+    "placeId": "ChIJcVGPC04adkgRz3sYF-jM_pk",
+    "placesName": "Highgate Cemetery",
+    "resolvedAddress": "Swain's Ln, London N6 6PJ, UK",
+    "postcode": "N6 6PJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.568611,
+    "lng": -0.14745,
+    "ward": "Highgate"
+  },
+  "activities:hijingo": {
+    "placeId": "ChIJS5pvDsIddkgR9117R7bBbbI",
+    "placesName": "Hijingo Bingo",
+    "resolvedAddress": "90 Worship St, London EC2A 2BA, UK",
+    "postcode": "EC2A 2BA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.521933,
+    "lng": -0.080528,
+    "ward": "Hoxton East & Shoreditch"
+  },
+  "activities:house-party-soho": {
+    "placeId": "ChIJI8FtNn0FdkgRZAXyqASXBtY",
+    "placesName": "House Party",
+    "resolvedAddress": "61 Poland St, London W1F 7NU, UK",
+    "postcode": "W1F 7NU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.513693,
+    "lng": -0.136636,
+    "ward": "West End"
+  },
+  "activities:ifs-cloud-cable-car": {
+    "placeId": "ChIJzctoGW2p2EcRPZRecMnPjCM",
+    "placesName": "London Cable Car",
+    "resolvedAddress": "Edmund Halley Way, London SE10 0FR, UK",
+    "postcode": "SE10 0FR",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.499724,
+    "lng": 0.008431,
+    "ward": "Greenwich Peninsula"
+  },
+  "activities:illusionaries": {
+    "placeId": "ChIJQRWWorQDdkgR7UCaR-rO564",
+    "placesName": "Illusionaries",
+    "resolvedAddress": "Crossrail Pl, Canary Wharf Estate, London E14 5AR, UK",
+    "postcode": "E14 5AR",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.506133,
+    "lng": -0.017816,
+    "ward": "Canary Wharf"
+  },
+  "activities:isabella-plantation": {
+    "placeId": "ChIJk2hzn6sOdkgREL5xoUpp7LQ",
+    "placesName": "Isabella Plantation",
+    "resolvedAddress": "Richmond Park, Richmond TW10 5HS, UK",
+    "postcode": "TW10 5HS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.451845,
+    "lng": -0.282407,
+    "ward": "South Richmond"
+  },
+  "activities:jazz-cafe-camden": {
+    "placeId": "ChIJE7bIMRAbdkgRcGolmzD1Du0",
+    "placesName": "Jazz Cafe",
+    "resolvedAddress": "5 Parkway, London NW1 7PG, UK",
+    "postcode": "NW1 7PG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.538582,
+    "lng": -0.143305,
+    "ward": "Camden Town"
+  },
+  "activities:jubilee-park-canary-wharf": {
+    "placeId": "ChIJvVYre7cCdkgRhR_RozTswJA",
+    "placesName": "Jubilee Park",
+    "resolvedAddress": "Bank St, Canary Wharf Estate, London E14 5JP, UK",
+    "postcode": "E14 5JP",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.502937,
+    "lng": -0.020808,
+    "ward": "Canary Wharf"
+  },
+  "activities:junkyard-golf-club-shoreditch": {
+    "placeId": "ChIJIaC1axQddkgRr8Vh6nldo_0",
+    "placesName": "Junkyard Golf Club | Crazy Golf Shoreditch",
+    "resolvedAddress": "88 Worship St, London EC2A 2BE, UK",
+    "postcode": "EC2A 2BE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.522313,
+    "lng": -0.082285,
+    "ward": "Hoxton East & Shoreditch"
+  },
+  "activities:karaoke-box-soho": {
+    "placeId": "ChIJ_0dZ3dIEdkgRWgd-nPKtI8M",
+    "placesName": "Karaoke Box Soho",
+    "resolvedAddress": "18 Frith St, London W1D 4RF, UK",
+    "postcode": "W1D 4RF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.513762,
+    "lng": -0.131402,
+    "ward": "West End"
+  },
+  "activities:kensington-palace": {
+    "placeId": "ChIJ7w-V58oNdkgRhz8svCpc5ok",
+    "placesName": "Kensington Palace",
+    "resolvedAddress": "Kensington Gardens, London W8 4PX, UK",
+    "postcode": "W8 4PX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.505199,
+    "lng": -0.188022,
+    "ward": "Campden"
+  },
+  "activities:kenwood-house": {
+    "placeId": "ChIJTZPtjmkadkgRzYTgxNoj3-Y",
+    "placesName": "Kenwood House",
+    "resolvedAddress": "Kenwood House, 3 Hampstead Ln, London NW3 7JR, UK",
+    "postcode": "NW3 7JR",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.571328,
+    "lng": -0.1676,
+    "ward": "Highgate"
+  },
+  "activities:kew-gardens": {
+    "placeId": "ChIJQzRbYMUNdkgRfvuRYk-Rb9E",
+    "placesName": "Royal Botanic Gardens, Kew",
+    "resolvedAddress": "Richmond, UK",
+    "businessStatus": "OPERATIONAL"
+  },
+  "activities:kings-road-chelsea": {
+    "placeId": "ChIJoeVVuW8FdkgR0KF2UdkB4rU",
+    "placesName": "King's Road",
+    "resolvedAddress": "King's Rd, London, UK"
+  },
+  "activities:koko-camden": {
+    "placeId": "ChIJP63vNSAbdkgR5gk8mcL7EqQ",
+    "placesName": "KOKO",
+    "resolvedAddress": "1A Camden High St, London NW1 7JE, UK",
+    "postcode": "NW1 7JE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.534984,
+    "lng": -0.13927,
+    "ward": "Regent's Park"
+  },
+  "activities:kyoto-garden-holland-park": {
+    "placeId": "ChIJj-aPR-8PdkgR3Q6dwHqMD5w",
+    "placesName": "Kyoto Garden",
+    "resolvedAddress": "Holland Park, Holland Park Ave, London W11 4UA, UK",
+    "postcode": "W11 4UA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.506822,
+    "lng": -0.207613,
+    "ward": "Norland"
+  },
+  "activities:lane7-victoria": {
+    "placeId": "ChIJj5WaTyoFdkgRAqmYl-Vbdfs",
+    "placesName": "Lane7 London Victoria",
+    "resolvedAddress": "Zig Zag, 70 Victoria St, London SW1E 6SQ, UK",
+    "postcode": "SW1E 6SQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.497328,
+    "lng": -0.138442,
+    "ward": "St James's"
+  },
+  "activities:leadenhall-market": {
+    "placeId": "ChIJURt2jFIDdkgRsxERfqYhtSo",
+    "placesName": "Leadenhall Market",
+    "resolvedAddress": "Gracechurch St, London EC3V 1LT, UK",
+    "postcode": "EC3V 1LT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.51237,
+    "lng": -0.083596,
+    "ward": "Langbourn"
+  },
+  "activities:lee-valley-velopark": {
+    "placeId": "ChIJI7uLGHEddkgR5XP-e_bxD20",
+    "placesName": "Lee Valley VeloPark",
+    "resolvedAddress": "Queen Elizabeth Olympic Park, Abercrombie Rd, London E20 3AB, UK",
+    "postcode": "E20 3AB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.550397,
+    "lng": -0.015228,
+    "ward": "Stratford Olympic Park"
+  },
+  "activities:leighton-house": {
+    "placeId": "ChIJWcdBO-wPdkgRlEc3EZWbCvo",
+    "placesName": "Leighton House",
+    "resolvedAddress": "12 Holland Park Rd, London W14 8LZ, UK",
+    "postcode": "W14 8LZ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.498433,
+    "lng": -0.203534,
+    "ward": "Holland"
+  },
+  "activities:lewis-cubitt-park": {
+    "placeId": "ChIJq6qqRRYbdkgRbq-vRf_lNMQ",
+    "placesName": "Lewis Cubitt Park",
+    "resolvedAddress": "Lewis Cubitt Park, Handyside St, London N1C 4UZ, UK",
+    "postcode": "N1C 4UZ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.536814,
+    "lng": -0.124877,
+    "ward": "King's Cross"
+  },
+  "activities:lift-109": {
+    "placeId": "ChIJ8-nGaxsFdkgRV50KLTyuvwU",
+    "placesName": "The Chimney Lift at Battersea Power Station",
+    "resolvedAddress": "The Power Station, Circus Rd W, Nine Elms, London SW8 5BN, UK",
+    "postcode": "SW8 5BN",
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "lat": 51.481194,
+    "lng": -0.140669,
+    "postcodeTerminated": 2016
+  },
+  "activities:lightroom-kings-cross": {
+    "placeId": "ChIJH2_ue28bdkgRNIGqJYRltIY",
+    "placesName": "Lightroom",
+    "resolvedAddress": "12 Lewis Cubitt Walk, London N1C 4DY, UK",
+    "postcode": "N1C 4DY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.537235,
+    "lng": -0.126431,
+    "ward": "King's Cross"
+  },
+  "activities:little-angel-theatre": {
+    "placeId": "ChIJ1wZq52YbdkgRDWX9iIzmiH0",
+    "placesName": "Little Angel Theatre",
+    "resolvedAddress": "14 Dagmar Passage, London N1 2DN, UK",
+    "postcode": "N1 2DN",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.539016,
+    "lng": -0.101267,
+    "ward": "St Mary's & St James'"
+  },
+  "activities:little-venice-canal-boat": {
+    "placeId": "ChIJ_c6npyobdkgRwkGJb16SWVA",
+    "placesName": "Little Venice",
+    "resolvedAddress": "Opposite, 42 Blomfield Rd, London W9 2PF, UK",
+    "postcode": "W9 2PF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.521645,
+    "lng": -0.183218,
+    "ward": "Little Venice"
+  },
+  "activities:london-aquatics-centre": {
+    "placeId": "ChIJ02-cWoin2EcRMsHab0BRUEE",
+    "placesName": "London Aquatics Centre",
+    "resolvedAddress": "Queen Elizabeth Olympic Park, Stratford Cross, London E20 2ZQ, UK",
+    "postcode": "E20 2ZQ",
+    "businessStatus": "OPERATIONAL"
+  },
+  "activities:london-eye": {
+    "placeId": "ChIJ45vrx8cEdkgRVltygzVlGDk",
+    "placesName": "Riverside Building, Westminster Bridge Rd",
+    "resolvedAddress": "Riverside Building, County Hall, Westminster Bridge Rd, London SE1 7JA, UK",
+    "postcode": "SE1 7JA",
+    "lat": 51.501943,
+    "lng": -0.118874,
+    "postcodeTerminated": 2023
+  },
+  "activities:london-fields-lido": {
+    "placeId": "ChIJteLYIO8cdkgRxYGV9AfNElI",
+    "placesName": "London Fields Lido",
+    "resolvedAddress": "London Fields West Side, London E8 3EU, UK",
+    "postcode": "E8 3EU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.543057,
+    "lng": -0.062491,
+    "ward": "London Fields"
+  },
+  "activities:london-museum-smithfield": {
+    "placeId": "ChIJs0nCdVMbdkgRU4LBLvQaGno",
+    "placesName": "St Bartholomew's Hospital Museum",
+    "resolvedAddress": "Barts, North Wing, St Bartholomew's Hospital, W Smithfield, London EC1A 7BE, UK",
+    "postcode": "EC1A 7BE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.517751,
+    "lng": -0.100379,
+    "ward": "Farringdon Without"
+  },
+  "activities:london-stadium-tour": {
+    "placeId": "ChIJWbXodWkddkgRlM62BUak_Oc",
+    "placesName": "London Stadium",
+    "resolvedAddress": "London E20 2ST, UK",
+    "postcode": "E20 2ST",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.538636,
+    "lng": -0.016404,
+    "ward": "Stratford Olympic Park"
+  },
+  "activities:london-transport-museum": {
+    "placeId": "ChIJ4bF21K8FdkgRDXc6FiSVAzE",
+    "placesName": "London Transport Museum",
+    "resolvedAddress": "London WC2E 7BB, UK",
+    "postcode": "WC2E 7BB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.512125,
+    "lng": -0.121222,
+    "ward": "St James's"
+  },
+  "activities:londons-roman-amphitheatre": {
+    "placeId": "ChIJ48rSzqocdkgRH9x2NZRo6_M",
+    "placesName": "London's Roman Amphitheatre",
+    "resolvedAddress": "Guildhall Yard, London EC2V 5AE, UK",
+    "postcode": "EC2V 5AE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515276,
+    "lng": -0.091906,
+    "ward": "Cheap"
+  },
+  "activities:lucky-voice-soho": {
+    "placeId": "ChIJO37rxdQEdkgR-6IuXr0d0Uo",
+    "placesName": "Lucky Voice Soho",
+    "resolvedAddress": "52 Poland St, London W1F 7NQ, UK",
+    "postcode": "W1F 7NQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.514211,
+    "lng": -0.136975,
+    "ward": "West End"
+  },
+  "activities:madame-tussauds": {
+    "placeId": "ChIJgZ24Us4adkgRpDNAwNPO_SY",
+    "placesName": "Madame Tussauds London",
+    "resolvedAddress": "Marylebone Rd, London NW1 5LR, UK",
+    "postcode": "NW1 5LR",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.522967,
+    "lng": -0.155026,
+    "ward": "Regent's Park"
+  },
+  "activities:maltby-street-market": {
+    "placeId": "ChIJZ9jUVEEDdkgRN7k3RDL_908",
+    "placesName": "Maltby Street Market",
+    "resolvedAddress": "Arch 46, Ropewalk, Maltby St, London SE1 3PA, UK",
+    "postcode": "SE1 3PA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.499111,
+    "lng": -0.075652,
+    "ward": "London Bridge & West Bermondsey"
+  },
+  "activities:mission-breakout-camden": {
+    "placeId": "ChIJE-zameIadkgRU3vWiYodAiA",
+    "placesName": "MISSION: BREAKOUT",
+    "resolvedAddress": "141-145 Kentish Town Rd, London NW1 8PB, UK",
+    "postcode": "NW1 8PB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.544348,
+    "lng": -0.1417,
+    "ward": "Camden Town"
+  },
+  "activities:moonshine-saloon": {
+    "placeId": "ChIJyyyenNEFdkgRQ6Uk1wIggFk",
+    "placesName": "Moonshine Saloon",
+    "resolvedAddress": "28-30 Houndsditch, London EC3A 7DB, UK",
+    "postcode": "EC3A 7DB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.514853,
+    "lng": -0.078159,
+    "ward": "Aldgate"
+  },
+  "activities:moth-club": {
+    "placeId": "ChIJ0yYfxOQcdkgRdfZT_zBt1cA",
+    "placesName": "MOTH Club",
+    "resolvedAddress": "Valette St, London E9 6NU, UK",
+    "postcode": "E9 6NU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.545639,
+    "lng": -0.05442,
+    "ward": "Homerton"
+  },
+  "activities:mount-street-gardens": {
+    "placeId": "ChIJW8oafC4FdkgRKzdyh5Xkdqg",
+    "placesName": "Mount Street Gardens",
+    "resolvedAddress": "Mount St, London W1K 2TH, UK",
+    "postcode": "W1K 2TH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.509674,
+    "lng": -0.150347,
+    "ward": "West End"
+  },
+  "activities:murder-express": {
+    "placeId": "ChIJdbbW0MgcdkgRv9Qh7NViDgE",
+    "placesName": "The Murdér Express Part Deux: Jewel Of The Empire",
+    "resolvedAddress": "63 Pedley St, London E1 5BW, UK",
+    "postcode": "E1 5BW",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.522137,
+    "lng": -0.063956,
+    "ward": "Spitalfields & Banglatown"
+  },
+  "activities:museum-of-brands": {
+    "placeId": "ChIJkUcf6v4PdkgRIN0LQBjlSqs",
+    "placesName": "Museum of Brands",
+    "resolvedAddress": "111-117 Lancaster Rd, London W11 1QT, UK",
+    "postcode": "W11 1QT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.516212,
+    "lng": -0.211222,
+    "ward": "Notting Dale"
+  },
+  "activities:museum-of-the-home": {
+    "placeId": "ChIJKUrjG7wcdkgRbfTuKDBgWXI",
+    "placesName": "Museum of the Home",
+    "resolvedAddress": "136 Kingsland Rd, London E2 8EA, UK",
+    "postcode": "E2 8EA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.531557,
+    "lng": -0.076244,
+    "ward": "Haggerston"
+  },
+  "activities:national-maritime-museum": {
+    "placeId": "ChIJs_wmr0cWa0gRHr60qjwn1Mo",
+    "placesName": "National Maritime Museum",
+    "resolvedAddress": "Romney Rd, London SE10 9NF, UK",
+    "postcode": "SE10 9NF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.480285,
+    "lng": -0.00602,
+    "ward": "Greenwich Park"
+  },
+  "activities:natural-history-museum": {
+    "placeId": "ChIJPy8Y5kIFdkgRxGSXw4Xjt3s",
+    "placesName": "Natural History Museum",
+    "resolvedAddress": "Cromwell Rd, South Kensington, London SW7 5BD, UK",
+    "postcode": "SW7 5BD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.496564,
+    "lng": -0.176868,
+    "ward": "Brompton & Hans Town"
+  },
+  "activities:neals-yard": {
+    "placeId": "ChIJ4V9RKM0EdkgRc59GlBoOclQ",
+    "placesName": "Neal's Yard",
+    "resolvedAddress": "Neal's Yard, London, UK"
+  },
+  "activities:nhm-ice-rink": {
+    "placeId": "ChIJvWwa4EIFdkgRk6ksnr71U_A",
+    "placesName": "Natural History Museum Ice Rink",
+    "resolvedAddress": "Cromwell Rd, South Kensington, London SW7 5BD, UK",
+    "postcode": "SW7 5BD",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "lat": 51.496564,
+    "lng": -0.176868,
+    "ward": "Brompton & Hans Town"
+  },
+  "activities:nq64-shoreditch": {
+    "placeId": "ChIJj1mk1OIddkgRH0R6lDNJM0o",
+    "placesName": "NQ64 Arcade Bar - Shoreditch",
+    "resolvedAddress": "256, 260 Old St, London EC1V 9DD, UK",
+    "postcode": "EC1V 9DD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.525894,
+    "lng": -0.085162,
+    "ward": "Bunhill"
+  },
+  "activities:nq64-soho": {
+    "placeId": "ChIJwYbxnssbdkgRBLgNUt4wOfQ",
+    "placesName": "NQ64 Arcade Bar - Soho",
+    "resolvedAddress": "53 Berwick St, London W1F 8SP, UK",
+    "postcode": "W1F 8SP",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515568,
+    "lng": -0.136401,
+    "ward": "West End"
+  },
+  "activities:old-operating-theatre": {
+    "placeId": "ChIJXRDdrFADdkgRT_s4Gh7ORxg",
+    "placesName": "The Old Operating Theatre Museum and Herb Garret",
+    "resolvedAddress": "9a St Thomas St, London SE1 9RY, UK",
+    "postcode": "SE1 9RY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.505,
+    "lng": -0.088229,
+    "ward": "London Bridge & West Bermondsey"
+  },
+  "activities:outernet-london": {
+    "placeId": "ChIJpYgc8KkbdkgRlqCWWIbX_yo",
+    "placesName": "Outernet London",
+    "resolvedAddress": "Charing Cross Rd, London WC2H 8LH, UK",
+    "postcode": "WC2H 8LH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515741,
+    "lng": -0.129159,
+    "ward": "Holborn & Covent Garden"
+  },
+  "activities:paddington-basin-bridges": {
+    "placeId": "ChIJxzZ6lbMadkgRcV_dHTJLrjY",
+    "placesName": "The Fan Bridge",
+    "resolvedAddress": "Paddington Basin, London, UK, London W2 1JZ, UK",
+    "postcode": "W2 1JZ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.519559,
+    "lng": -0.172288,
+    "ward": "Hyde Park"
+  },
+  "activities:paddington-bear-experience": {
+    "placeId": "ChIJg3YybpkFdkgRsz2LKqIdHd8",
+    "placesName": "The Paddington Bear Experience",
+    "resolvedAddress": "Riverside Building, County Hall, Westminster Bridge Rd, London SE1 7PB, UK",
+    "postcode": "SE1 7PB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.501972,
+    "lng": -0.119003,
+    "ward": "Waterloo & South Bank"
+  },
+  "activities:paddington-bear-trail": {
+    "placeId": "ChIJCwv9Eq0adkgRH2u8UdCiF9I",
+    "placesName": "Paddington Bear Statue",
+    "resolvedAddress": "19 Eastbourne Terrace, London W2 6LG, UK",
+    "postcode": "W2 6LG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.516785,
+    "lng": -0.178352,
+    "ward": "Hyde Park"
+  },
+  "activities:painted-hall-orn-college": {
+    "placeId": "ChIJCeWr-qEDdkgRmzeLA3T5SRU",
+    "placesName": "Painted Hall",
+    "resolvedAddress": "College Way, London SE10 9NN, UK",
+    "postcode": "SE10 9NN",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.482186,
+    "lng": -0.007809,
+    "ward": "Greenwich Park"
+  },
+  "activities:peckham-levels": {
+    "placeId": "ChIJ14syqaEDdkgRkysnuc-J8rI",
+    "placesName": "Peckham Levels",
+    "resolvedAddress": "95a Rye Ln, London SE15 4ST, UK",
+    "postcode": "SE15 4ST",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.469831,
+    "lng": -0.068044,
+    "ward": "Rye Lane"
+  },
+  "activities:peckhamplex": {
+    "placeId": "ChIJO4rSTqADdkgRWXF0GwEEESg",
+    "placesName": "Peckhamplex",
+    "resolvedAddress": "95A Rye Ln, London SE15 4ST, UK",
+    "postcode": "SE15 4ST",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.469831,
+    "lng": -0.068044,
+    "ward": "Rye Lane"
+  },
+  "activities:peter-harrison-planetarium": {
+    "placeId": "ChIJ38Kf-oECdkgRSOE48F3BeGM",
+    "placesName": "Peter Harrison Planetarium",
+    "resolvedAddress": "Blackheath Ave, London SE10 8XJ, UK",
+    "postcode": "SE10 8XJ",
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "lat": 51.477346,
+    "lng": -0.000848,
+    "ward": "Greenwich Park"
+  },
+  "activities:petersham-nurseries": {
+    "placeId": "ChIJPxmP76ENdkgR1wYZTx0KUJ8",
+    "placesName": "Petersham Nurseries Restaurant, Richmond",
+    "resolvedAddress": "Off Church Ln, Petersham Rd, Richmond TW10 7AB, UK",
+    "postcode": "TW10 7AB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.447229,
+    "lng": -0.302612,
+    "ward": "Ham, Petersham & Richmond Riverside"
+  },
+  "activities:petrie-museum": {
+    "placeId": "ChIJXzsYqi8bdkgR2wmXF6YbzBU",
+    "placesName": "Petrie Museum of Egyptian Archaeology",
+    "resolvedAddress": "Malet Pl, London WC1E 6BT, UK",
+    "postcode": "WC1E 6BT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.523571,
+    "lng": -0.132398,
+    "ward": "Bloomsbury"
+  },
+  "activities:pitch-canary-wharf": {
+    "placeId": "ChIJbc7H0TsDdkgRQrx8o-60Gnw",
+    "placesName": "Pitch Wharf",
+    "resolvedAddress": "30 Churchill Pl, Canary Wharf Estate, London E14 5RE, UK",
+    "postcode": "E14 5RE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.503691,
+    "lng": -0.014911,
+    "ward": "Blackwall & Cubitt Town"
+  },
+  "activities:plonk-crazy-golf-camden": {
+    "placeId": "ChIJ-8t7_JMbdkgR4V1QT20JyJo",
+    "placesName": "Plonk Crazy Golf - Camden Market",
+    "resolvedAddress": "Unit 63 The Stables Market, 842 Chalk Farm Rd, Chalk Farm, London NW1 8AH, UK",
+    "postcode": "NW1 8AH",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "lat": 51.542339,
+    "lng": -0.147738,
+    "ward": "Camden Town"
+  },
+  "activities:portobello-road-market": {
+    "placeId": "ChIJh_is0x0QdkgRBejvKoP9bnQ",
+    "placesName": "Portobello Road",
+    "resolvedAddress": "Portobello Rd, London, UK"
+  },
+  "activities:postal-museum-mail-rail": {
+    "placeId": "ChIJ-6KrlkgbdkgR3YcTn0mEW5M",
+    "placesName": "Mail Rail at The Postal Museum",
+    "resolvedAddress": "15-20 Phoenix Pl, London WC1X 0DL, UK",
+    "postcode": "WC1X 0DL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.524352,
+    "lng": -0.113727,
+    "ward": "Holborn & Covent Garden"
+  },
+  "activities:postmans-park": {
+    "placeId": "ChIJNz1L7lQbdkgRHKuTVhZjwx0",
+    "placesName": "Postman's Park",
+    "resolvedAddress": "King Edward St, London EC1A 7BT, UK",
+    "postcode": "EC1A 7BT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.516891,
+    "lng": -0.098339,
+    "ward": "Aldersgate"
+  },
+  "activities:primrose-hill": {
+    "placeId": "ChIJ2yb0sesadkgRIQOyE6qMxLU",
+    "placesName": "Primrose Hill",
+    "resolvedAddress": "Primrose Hill Rd, London NW1 4NR, UK",
+    "postcode": "NW1 4NR",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.528483,
+    "lng": -0.151228,
+    "ward": "Regent's Park"
+  },
+  "activities:prince-charles-cinema": {
+    "placeId": "ChIJs_wVR9IEdkgRqColcXYGFE0",
+    "placesName": "Prince Charles Cinema",
+    "resolvedAddress": "7 Leicester Pl, London WC2H 7BY, UK",
+    "postcode": "WC2H 7BY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.511495,
+    "lng": -0.130212,
+    "ward": "St James's"
+  },
+  "activities:prospect-of-whitby": {
+    "placeId": "ChIJDZPR4SgDdkgR2_djyaGslOM",
+    "placesName": "Prospect of Whitby",
+    "resolvedAddress": "57 Wapping Wall, London E1W 3SH, UK",
+    "postcode": "E1W 3SH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.507103,
+    "lng": -0.051019,
+    "ward": "St Katharine's & Wapping"
+  },
+  "activities:puppet-theatre-barge": {
+    "placeId": "ChIJo3VasZQcdkgRHYshAYTUu6g",
+    "placesName": "Puppet Theatre Barge - Little Venice",
+    "resolvedAddress": "opposite, 35 Blomfield Rd, London W9 2PF, UK",
+    "postcode": "W9 2PF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.521645,
+    "lng": -0.183218,
+    "ward": "Little Venice"
+  },
+  "activities:queen-elizabeth-olympic-park": {
+    "placeId": "ChIJkf4NDG8ddkgRXEINXuEbip8",
+    "placesName": "Queen Elizabeth Olympic Park",
+    "resolvedAddress": "London, UK",
+    "businessStatus": "OPERATIONAL"
+  },
+  "activities:race-across-the-world-city": {
+    "placeId": "ChIJqeLSXbIcdkgRqAbi6bi_PEc",
+    "placesName": "Liverpool Street",
+    "resolvedAddress": "Liverpool St, London EC2M 7PY, UK",
+    "postcode": "EC2M 7PY",
+    "lat": 51.518073,
+    "lng": -0.082002,
+    "ward": "Bishopsgate"
+  },
+  "activities:race-across-the-world-west-end": {},
+  "activities:regent-street-cinema": {
+    "placeId": "ChIJ-RweG9UadkgRQiukRRgQbGs",
+    "placesName": "Regent Street Cinema",
+    "resolvedAddress": "307 Regent St., London W1B 2HW, UK",
+    "postcode": "W1B 2HW",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.516794,
+    "lng": -0.143342,
+    "ward": "West End"
+  },
+  "activities:regents-canal-camden-boat": {
+    "placeId": "ChIJ5-RGVcUbdkgRc5BzhktLn7M",
+    "placesName": "London Waterbus Company (Little Venice) Regents Canal Waterbus",
+    "resolvedAddress": "Browning’s Pool, Blomfield Rd, London W9 2PF, UK",
+    "postcode": "W9 2PF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.521645,
+    "lng": -0.183218,
+    "ward": "Little Venice"
+  },
+  "activities:regents-canal-islington-walk": {
+    "placeId": "ChIJHS7Y0F4bdkgRKmd2rUbH0Ps",
+    "placesName": "City Road Basin",
+    "resolvedAddress": "City Road Basin, London, UK"
+  },
+  "activities:regents-park-boating": {
+    "placeId": "ChIJURjEDegbdkgRc2KUNE7mAeo",
+    "placesName": "Regent's Park Boating",
+    "resolvedAddress": "The Regent's Park, Hanover Gate, London NW1 4NU, UK",
+    "postcode": "NW1 4NU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.528336,
+    "lng": -0.154449,
+    "ward": "Regent's Park"
+  },
+  "activities:regents-park-queen-marys-gardens": {
+    "placeId": "ChIJ4-WqJcUadkgRVJNtcAZcBVw",
+    "placesName": "Queen Mary's Rose Garden",
+    "resolvedAddress": "Chester Rd, London NW1 4NR, UK",
+    "postcode": "NW1 4NR",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.528483,
+    "lng": -0.151228,
+    "ward": "Regent's Park"
+  },
+  "activities:rich-mix": {
+    "placeId": "ChIJDT5Fc7ccdkgRTJN0vGqwGNE",
+    "placesName": "Rich Mix",
+    "resolvedAddress": "35-47 Bethnal Grn Rd, London E1 6LA, UK",
+    "postcode": "E1 6LA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.524203,
+    "lng": -0.073614,
+    "ward": "Weavers"
+  },
+  "activities:richmond-hill-view": {
+    "placeId": "ChIJRaxOtzcNdkgRU2KRYUxIDzM",
+    "placesName": "Richmond Hill Viewpoint",
+    "resolvedAddress": "Richmond Hill, Richmond TW10, UK",
+    "businessStatus": "OPERATIONAL"
+  },
+  "activities:richmond-park": {
+    "placeId": "ChIJ_dGXYaUOdkgRjQQ6Whq-jBM",
+    "placesName": "Richmond Park",
+    "resolvedAddress": "Richmond, UK",
+    "businessStatus": "OPERATIONAL"
+  },
+  "activities:rio-cinema-dalston": {
+    "placeId": "ChIJH-DiMIwcdkgR9BHJ_2FI-8Y",
+    "placesName": "Rio Cinema",
+    "resolvedAddress": "107 Kingsland High St, London E8 2PB, UK",
+    "postcode": "E8 2PB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.549468,
+    "lng": -0.075546,
+    "ward": "Dalston"
+  },
+  "activities:rocket-room-leicester-square": {
+    "placeId": "ChIJyU_snhUFdkgRAWBmxTkShHA",
+    "placesName": "Rocket Room",
+    "resolvedAddress": "2nd Floor, Market Place, Leicester Square, London WC2H 7JX, UK",
+    "postcode": "WC2H 7JX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.51077,
+    "lng": -0.129276,
+    "ward": "St James's"
+  },
+  "activities:ronnie-scotts": {
+    "placeId": "ChIJVwS659IEdkgRkDBpUYSalUc",
+    "placesName": "Ronnie Scott's",
+    "resolvedAddress": "47 Frith St, London W1D 4HT, UK",
+    "postcode": "W1D 4HT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.513407,
+    "lng": -0.13169,
+    "ward": "West End"
+  },
+  "activities:rough-trade-east": {
+    "placeId": "ChIJNWOBQbYcdkgRwHyVPW3qnIc",
+    "placesName": "Rough Trade East",
+    "resolvedAddress": "Old Truman Brewery, 91 Brick Ln, London E1 6QL, UK",
+    "postcode": "E1 6QL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.520888,
+    "lng": -0.072197,
+    "ward": "Spitalfields & Banglatown"
+  },
+  "activities:roxy-ball-room-st-mary-axe": {
+    "placeId": "ChIJnQTwcgQDdkgR8JLl31Aebm0",
+    "placesName": "Roxy Ball Room London St Mary Axe",
+    "resolvedAddress": "33 St Mary Axe, London EC3A 8AA, UK",
+    "postcode": "EC3A 8AA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515302,
+    "lng": -0.080317,
+    "ward": "Lime Street"
+  },
+  "activities:royal-academy-of-arts": {
+    "placeId": "ChIJM5ERbdYEdkgRFkMO56hrE_k",
+    "placesName": "Royal Academy of Arts",
+    "resolvedAddress": "Burlington House, Piccadilly, London W1J 0BD, UK",
+    "postcode": "W1J 0BD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.509099,
+    "lng": -0.139576,
+    "ward": "West End"
+  },
+  "activities:royal-albert-hall-tour": {
+    "placeId": "ChIJ0XqGIVsFdkgR2S_aNe6c_l4",
+    "placesName": "Royal Albert Hall",
+    "resolvedAddress": "Kensington Gore, South Kensington, London SW7 2AP, UK",
+    "postcode": "SW7 2AP",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.501269,
+    "lng": -0.177516,
+    "ward": "Knightsbridge & Belgravia"
+  },
+  "activities:royal-hospital-chelsea-grounds": {
+    "placeId": "ChIJXzzVZxEFdkgRHNo0CJBUoYU",
+    "placesName": "Royal Hospital Chelsea",
+    "resolvedAddress": "Royal Hospital Chelsea, Royal Hospital Rd, London SW3 4SR, UK",
+    "postcode": "SW3 4SR",
+    "lat": 51.487401,
+    "lng": -0.157313,
+    "ward": "Royal Hospital"
+  },
+  "activities:royal-observatory-greenwich": {
+    "placeId": "ChIJp9ypjCqo2EcRAoQcRV-yqzE",
+    "placesName": "Royal Observatory Greenwich",
+    "resolvedAddress": "Blackheath Ave, London SE10 8XJ, UK",
+    "postcode": "SE10 8XJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.477346,
+    "lng": -0.000848,
+    "ward": "Greenwich Park"
+  },
+  "activities:royal-opera-house-terrace": {
+    "placeId": "ChIJwUdYXS0FdkgRvPWhMlJaTTQ",
+    "placesName": "Royal Opera House Cafe",
+    "resolvedAddress": "Bow St, London WC2E 9DD, UK",
+    "postcode": "WC2E 9DD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.513047,
+    "lng": -0.122654,
+    "ward": "St James's"
+  },
+  "activities:saatchi-gallery": {
+    "placeId": "ChIJ97pX3M0EdkgR8YFd4G1GZJ8",
+    "placesName": "Saatchi Gallery",
+    "resolvedAddress": "Duke of York's HQ, King's Rd, London SW3 4RY, UK",
+    "postcode": "SW3 4RY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.490733,
+    "lng": -0.158777,
+    "ward": "Royal Hospital"
+  },
+  "activities:science-museum": {
+    "placeId": "ChIJP9oAE0MFdkgR3iKGFKZO1SE",
+    "placesName": "Science Museum",
+    "resolvedAddress": "Exhibition Rd, South Kensington, London SW7 2DD, UK",
+    "postcode": "SW7 2DD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.497296,
+    "lng": -0.176493,
+    "ward": "Brompton & Hans Town"
+  },
+  "activities:sea-life-london-aquarium": {
+    "placeId": "ChIJc2nSALkEdkgRviluWxwFsxA",
+    "placesName": "SEA LIFE London Aquarium",
+    "resolvedAddress": "Riverside Building, County Hall, Westminster Bridge Rd, London SE1 7PB, UK",
+    "postcode": "SE1 7PB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.501972,
+    "lng": -0.119003,
+    "ward": "Waterloo & South Bank"
+  },
+  "activities:serpentine-boating": {
+    "placeId": "ChIJg0OqwsYadkgRP1mYRMgrqPU",
+    "placesName": "Hyde Park Boating",
+    "resolvedAddress": "Boat House/Hyde Pk, London W2 2UH, UK",
+    "postcode": "W2 2UH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.507999,
+    "lng": -0.166252,
+    "ward": "Hyde Park"
+  },
+  "activities:serpentine-galleries": {
+    "placeId": "ChIJOQxY9E8FdkgRe1P4OVUdwM8",
+    "placesName": "Serpentine South Gallery",
+    "resolvedAddress": "London W2 3XA, UK",
+    "postcode": "W2 3XA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.50479,
+    "lng": -0.174983,
+    "ward": "Lancaster Gate"
+  },
+  "activities:seven-dials-market": {
+    "placeId": "ChIJD4dBYbgFdkgRv99UblXvkYw",
+    "placesName": "Seven Dials Market",
+    "resolvedAddress": "Earlham St, London WC2H 9LX, UK",
+    "postcode": "WC2H 9LX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.514079,
+    "lng": -0.125883,
+    "ward": "Holborn & Covent Garden"
+  },
+  "activities:shepherd-market": {
+    "placeId": "ChIJpfHK0igFdkgR66lvlSSEvWM",
+    "placesName": "Shepherd Market",
+    "resolvedAddress": "Shepherd Market, London, UK"
+  },
+  "activities:sherlock-holmes-museum": {
+    "placeId": "ChIJkeddM88adkgR80g3pdkn0vw",
+    "placesName": "The Sherlock Holmes Museum",
+    "resolvedAddress": "221b Baker St, London NW1 6XE, UK",
+    "postcode": "NW1 6XE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.52366,
+    "lng": -0.158516,
+    "ward": "Regent's Park"
+  },
+  "activities:shoreditch-street-art": {},
+  "activities:sir-john-soanes-museum": {
+    "placeId": "ChIJaQQ3lEobdkgRmauadcnji9s",
+    "placesName": "Sir John Soane's Museum",
+    "resolvedAddress": "13 Lincoln's Inn Fields, London WC2A 3BP, UK",
+    "postcode": "WC2A 3BP",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.516956,
+    "lng": -0.117953,
+    "ward": "Holborn & Covent Garden"
+  },
+  "activities:sixes-cricket-fitzrovia": {
+    "placeId": "ChIJkaH92i8bdkgRTIvawz6cwQQ",
+    "placesName": "Sixes - Fitzrovia",
+    "resolvedAddress": "170 Great Portland St, London W1W 5QB, UK",
+    "postcode": "W1W 5QB",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "lat": 51.521048,
+    "lng": -0.142837,
+    "ward": "West End"
+  },
+  "activities:sixes-cricket-london-bridge": {
+    "placeId": "ChIJ_zPTRb4DdkgRYWkZHR_pkQw",
+    "placesName": "Sixes Party Cricket, London Bridge",
+    "resolvedAddress": "50 Bermondsey St, London SE1 3UD, UK",
+    "postcode": "SE1 3UD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.501614,
+    "lng": -0.082405,
+    "ward": "London Bridge & West Bermondsey"
+  },
+  "activities:sixes-cricket-shoreditch": {
+    "placeId": "ChIJuQrbJBQddkgRe7nFuFZcizg",
+    "placesName": "Sixes Party Cricket Stratford",
+    "resolvedAddress": "Riverside East, Queen Elizabeth Olympic Park, 5 Thornton St, London E20 2AD, UK",
+    "postcode": "E20 2AD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.538592,
+    "lng": -0.012195,
+    "ward": "Stratford Olympic Park"
+  },
+  "activities:sky-garden": {
+    "placeId": "ChIJgaI8bFIDdkgRhJJqLMxsFdU",
+    "placesName": "Sky Garden",
+    "resolvedAddress": "1, Sky Garden Walk, London EC3M 8AF, UK",
+    "postcode": "EC3M 8AF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.511141,
+    "lng": -0.083778,
+    "ward": "Bridge"
+  },
+  "activities:smithsonian-starstruck": {
+    "placeId": "ChIJ4_NiNkMFdkgRIuqUgG-avq0",
+    "placesName": "Smithsonian Starstruck: An Immersive Experience - London",
+    "resolvedAddress": "South Kensington, London SW7 2AD, UK",
+    "postcode": "SW7 2AD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.497508,
+    "lng": -0.176268,
+    "ward": "Brompton & Hans Town"
+  },
+  "activities:soho-square": {
+    "placeId": "ChIJkaDW1SwbdkgRwDokRfDt4Zs",
+    "placesName": "Soho Square",
+    "resolvedAddress": "Soho Square, London, UK"
+  },
+  "activities:south-bank-book-market": {
+    "placeId": "ChIJxwt8FlQFdkgRVhyTxAXdopA",
+    "placesName": "Southbank Book Market",
+    "resolvedAddress": "Waterloo Brg, London SE1 8TX, UK",
+    "postcode": "SE1 8TX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.505312,
+    "lng": -0.113029,
+    "ward": "Waterloo & South Bank"
+  },
+  "activities:south-london-gallery": {
+    "placeId": "ChIJ-8-5BioDdkgRveMwa0fi8Q0",
+    "placesName": "South London Gallery",
+    "resolvedAddress": "65 Peckham Rd, London SE5 8UH, UK",
+    "postcode": "SE5 8UH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.474002,
+    "lng": -0.081087,
+    "ward": "St Giles"
+  },
+  "activities:southbank-centre": {
+    "placeId": "ChIJEYfH57cEdkgRzWXeq8neKtI",
+    "placesName": "Southbank Centre",
+    "resolvedAddress": "Southbank Centre, Belvedere Rd, London SE1 8XX, UK",
+    "postcode": "SE1 8XX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.505768,
+    "lng": -0.1168,
+    "ward": "Waterloo & South Bank"
+  },
+  "activities:space-explorers-iss": {
+    "placeId": "ChIJcW7KtK4bdkgRtojue0m21Lw",
+    "placesName": "Eclipso London – Camden",
+    "resolvedAddress": "213 Camden High St, London NW1 7BT, UK",
+    "postcode": "NW1 7BT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.5393,
+    "lng": -0.143218,
+    "ward": "Camden Town"
+  },
+  "activities:st-dunstan-in-the-east": {
+    "placeId": "ChIJbxkx_1EDdkgRLfU_tC9tPb0",
+    "placesName": "St Dunstan in the East Church Garden",
+    "resolvedAddress": "St Dunstan's Hill, London EC3R 5DD, UK",
+    "postcode": "EC3R 5DD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.5102,
+    "lng": -0.082837,
+    "ward": "Billingsgate"
+  },
+  "activities:st-jamess-park": {
+    "placeId": "ChIJG-CxwNoEdkgRXx26gHZwVf8",
+    "placesName": "St James's Park",
+    "resolvedAddress": "London SW1A 2BJ, UK",
+    "postcode": "SW1A 2BJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.503042,
+    "lng": -0.130198,
+    "ward": "St James's"
+  },
+  "activities:st-pauls-actors-church": {
+    "placeId": "ChIJ_YMVEcwEdkgR-C3SheywDBM",
+    "placesName": "St Paul’s Church Covent Garden",
+    "resolvedAddress": "Bedford St, London WC2E 9ED, UK",
+    "postcode": "WC2E 9ED",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.511253,
+    "lng": -0.124644,
+    "ward": "St James's"
+  },
+  "activities:sutton-house": {
+    "placeId": "ChIJUVYS-_wcdkgRXemlWWLNmdA",
+    "placesName": "National Trust - Sutton House and Breaker's Yard",
+    "resolvedAddress": "2 and 4 Homerton High St, London E9 6JQ, UK",
+    "postcode": "E9 6JQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.548486,
+    "lng": -0.050404,
+    "ward": "Homerton"
+  },
+  "activities:swingers-city": {
+    "placeId": "ChIJC6R1OE0DdkgRuO15ZuR3CX0",
+    "placesName": "Swingers City",
+    "resolvedAddress": "8 Brown's Buildings, London EC3A 8AL, UK",
+    "postcode": "EC3A 8AL",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "lat": 51.514009,
+    "lng": -0.080429,
+    "ward": "Aldgate"
+  },
+  "activities:swingers-west-end": {
+    "placeId": "ChIJK7VnItUadkgRIKtptwcYHNw",
+    "placesName": "Swingers West End",
+    "resolvedAddress": "15 John Prince's St, London W1G 0AB, UK",
+    "postcode": "W1G 0AB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515959,
+    "lng": -0.143476,
+    "ward": "West End"
+  },
+  "activities:tate-britain": {
+    "placeId": "ChIJvWjCxekEdkgRoCgQVJHZH_U",
+    "placesName": "Tate Britain",
+    "resolvedAddress": "Millbank, London SW1P 4RG, UK",
+    "postcode": "SW1P 4RG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.490871,
+    "lng": -0.127181,
+    "ward": "Vincent Square"
+  },
+  "activities:the-100-club": {
+    "placeId": "ChIJHyyfXysbdkgRcErjucfOoxE",
+    "placesName": "100 Club",
+    "resolvedAddress": "100 Oxford St, London W1D 1LL, UK",
+    "postcode": "W1D 1LL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.516217,
+    "lng": -0.135308,
+    "ward": "West End"
+  },
+  "activities:the-cartoon-museum": {
+    "placeId": "ChIJjTedqjMbdkgRqmCmSy0Hveg",
+    "placesName": "The Cartoon Museum",
+    "resolvedAddress": "63 Wells St, London W1A 3AE, UK",
+    "postcode": "W1A 3AE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.517612,
+    "lng": -0.138797,
+    "ward": "West End"
+  },
+  "activities:the-cube-canary-wharf": {
+    "placeId": "ChIJD930T3ADdkgR1yf2j3PgndI",
+    "placesName": "THE CUBE Canary Wharf",
+    "resolvedAddress": "14 Charter St, Canary Wharf Estate, London E14 5GZ, UK",
+    "postcode": "E14 5GZ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.503116,
+    "lng": -0.012803,
+    "ward": "Blackwall & Cubitt Town"
+  },
+  "activities:the-garden-cinema": {
+    "placeId": "ChIJr0np8SMbdkgRtth92xsz7zg",
+    "placesName": "The Garden Cinema",
+    "resolvedAddress": "39-41 Parker St, London WC2B 5PQ, UK",
+    "postcode": "WC2B 5PQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.516228,
+    "lng": -0.12137,
+    "ward": "Holborn & Covent Garden"
+  },
+  "activities:the-lookout-8-bishopsgate": {
+    "placeId": "ChIJO7VMSFgDdkgRm4r9qHaUBT4",
+    "placesName": "The Lookout",
+    "resolvedAddress": "Level 50, 8 Bishopsgate, London EC2N 4BQ, UK",
+    "postcode": "EC2N 4BQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.514724,
+    "lng": -0.082878,
+    "ward": "Lime Street"
+  },
+  "activities:the-photographers-gallery": {
+    "placeId": "ChIJ8e-IMtUEdkgRWaAuJKup2GQ",
+    "placesName": "The Photographers' Gallery",
+    "resolvedAddress": "16-18 Ramillies St, London W1F 7LW, UK",
+    "postcode": "W1F 7LW",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.514927,
+    "lng": -0.139022,
+    "ward": "West End"
+  },
+  "activities:the-roundhouse-camden": {
+    "placeId": "ChIJPcr-g-UadkgRHjOPc3ITZdo",
+    "placesName": "Roundhouse",
+    "resolvedAddress": "Chalk Farm Rd, Chalk Farm, London NW1 8EH, UK",
+    "postcode": "NW1 8EH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.543184,
+    "lng": -0.151122,
+    "ward": "Camden Town"
+  },
+  "activities:the-supreme-court": {
+    "placeId": "ChIJKQEnucQEdkgRaTcuPrpamew",
+    "placesName": "The Supreme Court of the United Kingdom",
+    "resolvedAddress": "Parliament Sq, London SW1P 3BD, UK",
+    "postcode": "SW1P 3BD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.500336,
+    "lng": -0.128018,
+    "ward": "St James's"
+  },
+  "activities:the-wallace-collection": {
+    "placeId": "ChIJczuZfc0adkgRc8X-u3ZiHcE",
+    "placesName": "The Wallace Collection",
+    "resolvedAddress": "Hertford House, Manchester Square, London W1U 3BN, UK",
+    "postcode": "W1U 3BN",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.517314,
+    "lng": -0.152949,
+    "ward": "Marylebone"
+  },
+  "activities:tobacco-dock": {
+    "placeId": "ChIJ3WbIwjEDdkgR5H2zj6Rj1m8",
+    "placesName": "Tobacco Dock (Building)",
+    "resolvedAddress": "Wapping Ln, London E1W 2SF, UK",
+    "postcode": "E1W 2SF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.50831,
+    "lng": -0.059254,
+    "ward": "St Katharine's & Wapping"
+  },
+  "activities:toca-social-the-o2": {
+    "placeId": "ChIJGSxXenGp2EcR4hUGc-PfgTo",
+    "placesName": "TOCA Social, The O2",
+    "resolvedAddress": "Peninsula Square, London SE10 0DX, UK",
+    "postcode": "SE10 0DX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.502194,
+    "lng": 0.002819,
+    "ward": "Greenwich Peninsula"
+  },
+  "activities:undercroft-skate-space": {
+    "placeId": "ChIJDY7H1rcEdkgRgkeF8HPADs4",
+    "placesName": "Southbank Skate Space",
+    "resolvedAddress": "337-338 Belvedere Rd, London SE1 8XT, UK",
+    "postcode": "SE1 8XT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.50695,
+    "lng": -0.115944,
+    "ward": "Waterloo & South Bank"
+  },
+  "activities:union-chapel": {
+    "placeId": "ChIJP5Sa4mQbdkgRap5dw8Uncf0",
+    "placesName": "Union Chapel",
+    "resolvedAddress": "19b Compton Terrace, London N1 2UN, UK",
+    "postcode": "N1 2UN",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.544273,
+    "lng": -0.102721,
+    "ward": "Laycock"
+  },
+  "activities:up-at-the-o2": {
+    "placeId": "ChIJC0iNWhyo2EcRlULWiGI64K8",
+    "placesName": "Up at The O2",
+    "resolvedAddress": "Peninsula Square, London SE10 0DX, UK",
+    "postcode": "SE10 0DX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.502194,
+    "lng": 0.002819,
+    "ward": "Greenwich Peninsula"
+  },
+  "activities:upper-street-islington": {
+    "placeId": "ChIJw9C6S2YbdkgRbHBgllY-qmg",
+    "placesName": "Upper Street",
+    "resolvedAddress": "Upper St, London, UK"
+  },
+  "activities:victoria-and-albert-museum": {
+    "placeId": "ChIJw1d-sUMFdkgRH2XN_U0Jt54",
+    "placesName": "Victoria and Albert Museum",
+    "resolvedAddress": "Cromwell Rd, London SW7 2RL, UK",
+    "postcode": "SW7 2RL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.496941,
+    "lng": -0.172199,
+    "ward": "Brompton & Hans Town"
+  },
+  "activities:victoria-park-hackney": {
+    "placeId": "ChIJHUND2RgddkgRarf7ZQfLCw4",
+    "placesName": "Victoria Park",
+    "resolvedAddress": "London E9 5DU, UK",
+    "postcode": "E9 5DU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.543529,
+    "lng": -0.033555,
+    "ward": "Bow East"
+  },
+  "activities:village-underground": {
+    "placeId": "ChIJJ60z5rAcdkgRYQGxIFjuKC8",
+    "placesName": "Village Underground",
+    "resolvedAddress": "54 Holywell Ln, London EC2A 3PQ, UK",
+    "postcode": "EC2A 3PQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.523474,
+    "lng": -0.077969,
+    "ward": "Hoxton East & Shoreditch"
+  },
+  "activities:wapping-thames-path-stairs": {
+    "placeId": "ChIJt3YFGuwDdkgRldCZ4joHMxI",
+    "placesName": "Wapping Old Stairs East",
+    "resolvedAddress": "51 Wapping High St, London E1W 2PL, UK",
+    "postcode": "E1W 2PL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.503692,
+    "lng": -0.062231,
+    "ward": "St Katharine's & Wapping"
+  },
+  "activities:wellcome-collection": {
+    "placeId": "ChIJjwAL8SUbdkgRigNbhm-sUe0",
+    "placesName": "Wellcome Collection",
+    "resolvedAddress": "183 Euston Rd., London NW1 2BE, UK",
+    "postcode": "NW1 2BE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.525898,
+    "lng": -0.133918,
+    "ward": "Bloomsbury"
+  },
+  "activities:westminster-abbey": {
+    "placeId": "ChIJLzVDusQEdkgRelObBaL_jto",
+    "placesName": "Westminster Abbey",
+    "resolvedAddress": "Dean's Yard, London SW1P 3PA, UK",
+    "postcode": "SW1P 3PA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.498763,
+    "lng": -0.128082,
+    "ward": "St James's"
+  },
+  "activities:westminster-cathedral-tower": {
+    "placeId": "ChIJQc8Gx98EdkgR5QHuYQVkxwI",
+    "placesName": "Westminster Cathedral",
+    "resolvedAddress": "Victoria St, London SW1P 1LT, UK",
+    "postcode": "SW1P 1LT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.496449,
+    "lng": -0.140322,
+    "ward": "Vincent Square"
+  },
+  "activities:white-cube-bermondsey": {
+    "placeId": "ChIJ2SOnxbocdkgRxmoRKRwc49M",
+    "placesName": "White Cube Bermondsey",
+    "resolvedAddress": "144-152, Bermondsey St, London SE1 3TQ, UK",
+    "postcode": "SE1 3TQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.498271,
+    "lng": -0.081451,
+    "ward": "London Bridge & West Bermondsey"
+  },
+  "activities:wiltons-music-hall": {
+    "placeId": "ChIJbcQbMTQDdkgRGnjfXht0wPA",
+    "placesName": "Wilton's Music Hall",
+    "resolvedAddress": "1 Graces Alley, London E1 8JB, UK",
+    "postcode": "E1 8JB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.510613,
+    "lng": -0.066938,
+    "ward": "Whitechapel"
+  },
+  "activities:word-on-the-water": {
+    "placeId": "ChIJ16mQBD4bdkgRQ8z5iJUz9fo",
+    "placesName": "Word On The Water - The London Bookbarge",
+    "resolvedAddress": "Regent's Canal Towpath, London N1C 4LW, UK",
+    "postcode": "N1C 4LW",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.535684,
+    "lng": -0.123943,
+    "postcodeTerminated": 2016
+  },
+  "activities:zsl-london-zoo": {
+    "placeId": "ChIJV_iXMtcadkgRqBI84CY_crE",
+    "placesName": "London Zoo",
+    "resolvedAddress": "Outer Cir, London NW1 4RY, UK",
+    "postcode": "NW1 4RY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.53572,
+    "lng": -0.155707,
+    "ward": "Regent's Park"
+  },
+  "events:bbc-proms": {
+    "placeId": "ChIJ0XqGIVsFdkgR2S_aNe6c_l4",
+    "placesName": "Royal Albert Hall",
+    "resolvedAddress": "Kensington Gore, South Kensington, London SW7 2AP, UK",
+    "postcode": "SW7 2AP",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.501269,
+    "lng": -0.177516,
+    "ward": "Knightsbridge & Belgravia"
+  },
+  "events:bfi-london-film-festival": {
+    "placeId": "ChIJEYfH57cEdkgRvTdhVI3xJzQ",
+    "placesName": "BFI Southbank",
+    "resolvedAddress": "Belvedere Rd, London SE1 8XT, UK",
+    "postcode": "SE1 8XT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.50695,
+    "lng": -0.115944,
+    "ward": "Waterloo & South Bank"
+  },
+  "events:bonfire-night-london": {
+    "placeId": "ChIJiQHkaIETdkgRqLZAC_6S3VE",
+    "placesName": "Harrow Fireworks Display",
+    "resolvedAddress": "Byron Park, Peel Rd, Harrow HA3 7QX, UK",
+    "postcode": "HA3 7QX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.593909,
+    "lng": -0.332291,
+    "ward": "Wealdstone South"
+  },
+  "events:chelsea-flower-show": {},
+  "events:chinese-new-year-london": {
+    "placeId": "ChIJYd1uW9IEdkgRF6OuVnyD6B0",
+    "placesName": "Chinatown",
+    "resolvedAddress": "Gerrard St, London W1D 5PT, UK",
+    "postcode": "W1D 5PT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.511914,
+    "lng": -0.131103,
+    "ward": "St James's"
+  },
+  "events:christmas-at-kew": {
+    "placeId": "ChIJZfaHDQANdkgRMWTqfvCMHjE",
+    "placesName": "Christmas at Kew",
+    "resolvedAddress": "Richmond TW9 3EG, UK",
+    "postcode": "TW9 3EG",
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "lat": 51.478331,
+    "lng": -0.289967,
+    "ward": "Kew"
+  },
+  "events:club-nvrlnd": {},
+  "events:diwali-trafalgar-square": {
+    "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+    "placesName": "Trafalgar Square",
+    "resolvedAddress": "Trafalgar Sq, London WC2N 5DS, UK",
+    "postcode": "WC2N 5DS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.50728,
+    "lng": -0.12867,
+    "ward": "St James's"
+  },
+  "events:frieze-london": {
+    "placeId": "ChIJY7x2_JsbdkgRH11KntKZi1E",
+    "placesName": "Frieze London",
+    "resolvedAddress": "Pk Sq W, London NW1 4LL, UK",
+    "postcode": "NW1 4LL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.524682,
+    "lng": -0.14798,
+    "ward": "Regent's Park"
+  },
+  "events:grease-immersive-battersea": {
+    "placeId": "ChIJOWBQvA4FdkgRQf5iYYFF1v4",
+    "placesName": "Battersea Park",
+    "resolvedAddress": "Battersea Park Rd, London SW11 4NJ, UK",
+    "postcode": "SW11 4NJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.476233,
+    "lng": -0.160801,
+    "ward": "Battersea Park"
+  },
+  "events:hyde-park-winter-wonderland": {},
+  "events:larger-than-life-wallace-gromit": {},
+  "events:london-marathon": {
+    "placeId": "ChIJ5ceUoayp2EcRsta6lL3HEHs",
+    "placesName": "Marathon Football Grounds",
+    "resolvedAddress": "246 Wricklemarsh Rd, London SE3 8DW, UK",
+    "postcode": "SE3 8DW",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.471419,
+    "lng": 0.041485,
+    "ward": "Kidbrooke Park"
+  },
+  "events:lord-mayors-show": {
+    "placeId": "ChIJvViOlFQDdkgRG3i1zBz8RMc",
+    "placesName": "The Lord Mayor's Appeal",
+    "resolvedAddress": "Mansion House, London EC4N 8BH, UK",
+    "postcode": "EC4N 8BH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.51299,
+    "lng": -0.089623,
+    "ward": "Walbrook"
+  },
+  "events:luminiscence-westminster-cathedral": {},
+  "events:new-years-eve-fireworks": {
+    "placeId": "ChIJEYfH57cEdkgRzWXeq8neKtI",
+    "placesName": "Southbank Centre",
+    "resolvedAddress": "Southbank Centre, Belvedere Rd, London SE1 8XX, UK",
+    "postcode": "SE1 8XX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.505768,
+    "lng": -0.1168,
+    "ward": "Waterloo & South Bank"
+  },
+  "events:notting-hill-carnival": {
+    "placeId": "ChIJCZVZvOIPdkgRf_a8ca-4su0",
+    "placesName": "The Notting Hill Carnival Roadshow Company Limited",
+    "resolvedAddress": "243 Westbourne Grove, London W11 2SE, UK",
+    "postcode": "W11 2SE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.514227,
+    "lng": -0.200246,
+    "ward": "Colville"
+  },
+  "events:open-house-london": {
+    "placeId": "ChIJH9LCJLoDdkgRXbVjiZXyKIs",
+    "placesName": "Open House Festival",
+    "resolvedAddress": "C1, Design District, Unit 2, Floor 1, Cripps Yard, Soames Walk, London SE10 0BQ, UK",
+    "postcode": "SE10 0BQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.500354,
+    "lng": 0.005778,
+    "ward": "Greenwich Peninsula"
+  },
+  "events:peaky-blinders-underworld": {
+    "placeId": "ChIJ6wUcTggDdkgRbZXXjidHg1M",
+    "placesName": "Peaky Blinders Underworld & Garrison Tavern",
+    "resolvedAddress": "8 Bermondsey St, London SE1 2ER, UK",
+    "postcode": "SE1 2ER",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.504259,
+    "lng": -0.083043,
+    "ward": "London Bridge & West Bermondsey"
+  },
+  "events:phantom-peak-stratford": {
+    "placeId": "ChIJURgVTwAddkgRQtr9o3epXfw",
+    "placesName": "Phantom Peak London – Westfield Stratford City",
+    "resolvedAddress": "7, Chestnut Plaza, Phantom Peak E20 1GL, UK",
+    "postcode": "E20 1GL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.542604,
+    "lng": -0.008039,
+    "ward": "Stratford Olympic Park"
+  },
+  "events:pride-in-london": {
+    "placeId": "ChIJpxRYKc4EdkgRuDiVRuMuBV4",
+    "placesName": "The Admiralty, Trafalgar Square",
+    "resolvedAddress": "66 Trafalgar Sq, London WC2N 5DS, UK",
+    "postcode": "WC2N 5DS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.50728,
+    "lng": -0.12867,
+    "ward": "St James's"
+  },
+  "events:ramses-pharaohs-gold": {
+    "placeId": "ChIJ8bNp5sAFdkgRdsg5eRqykGo",
+    "placesName": "Ramses and the Pharaohs' Gold: The Exhibition London",
+    "resolvedAddress": "NEON at Battersea Power Station, 2 Circus Rd E, Nine Elms, London SW11 8DQ, UK",
+    "postcode": "SW11 8DQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.481301,
+    "lng": -0.143444,
+    "ward": "Nine Elms"
+  },
+  "events:secret-cinema-pirates-caribbean": {
+    "placeId": "ChIJsSoONACp2EcRNBNGsuLJvZY",
+    "placesName": "Secret Cinema",
+    "resolvedAddress": "Secret Cinema, Olympian Way, London SE10, UK",
+    "businessStatus": "OPERATIONAL"
+  },
+  "events:sophies-surprise-christmas": {
+    "placeId": "ChIJDfI7XtoFdkgREU_wl6MeClc",
+    "placesName": "Underbelly Boulevard Soho",
+    "resolvedAddress": "6 Walker's Ct, London W1F 0BT, UK",
+    "postcode": "W1F 0BT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.51268,
+    "lng": -0.134055,
+    "ward": "West End"
+  },
+  "events:the-magicians-table": {
+    "placeId": "ChIJeXdDAogDdkgRIUKbyCrqs94",
+    "placesName": "The Magicians Table",
+    "resolvedAddress": "The Vaults Theatre, Launcelot St, London SE1 7AD, UK",
+    "postcode": "SE1 7AD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.501036,
+    "lng": -0.112774,
+    "ward": "Waterloo & South Bank"
+  },
+  "events:the-traitors-live-experience": {
+    "placeId": "ChIJ5Rbnxd0bdkgRy_-q5NatmX0",
+    "placesName": "The Traitors: Live Experience",
+    "resolvedAddress": "60 Short's Gardens, London WC2H 9AH, UK",
+    "postcode": "WC2H 9AH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515271,
+    "lng": -0.123946,
+    "ward": "Holborn & Covent Garden"
+  },
+  "events:trooping-the-colour": {
+    "placeId": "ChIJIY2hO7kFdkgRezRB3KqHjCI",
+    "placesName": "Horse Guards Parade",
+    "resolvedAddress": "Whitehall, London SW1A 2ET, UK",
+    "postcode": "SW1A 2ET",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.504357,
+    "lng": -0.125821,
+    "ward": "St James's"
+  },
+  "events:waldorf-project-chapter-five": {},
+  "events:wimbledon-championships": {
+    "placeId": "ChIJhfRDWzQPdkgRdGq7Vx4K5M4",
+    "placesName": "All England Lawn Tennis & Croquet Club",
+    "resolvedAddress": "Church Rd, London SW19 5AG, UK",
+    "postcode": "SW19 5AG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.436193,
+    "lng": -0.215256,
+    "ward": "Village"
+  },
+  "hotels:aethos-london-shoreditch": {
+    "placeId": "ChIJz0-W9q8cdkgR6_lUUo-4o54",
+    "placesName": "Aethos London Shoreditch",
+    "resolvedAddress": "10-50 Willow St, London EC2A 4BH, UK",
+    "postcode": "EC2A 4BH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.525269,
+    "lng": -0.082708,
+    "ward": "Hoxton East & Shoreditch"
+  },
+  "hotels:artotel-battersea-power-station": {
+    "placeId": "ChIJIbF8ClYFdkgROOS7LjJBJ8I",
+    "placesName": "art'otel London Battersea Power Station",
+    "resolvedAddress": "1 Electric Blvd, Nine Elms, London SW11 8BJ, UK",
+    "postcode": "SW11 8BJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.480402,
+    "lng": -0.14459,
+    "ward": "Nine Elms"
+  },
+  "hotels:astor-hyde-park": {
+    "placeId": "ChIJxePzolsFdkgRcOKM_XoqmoU",
+    "placesName": "Astor Hyde Park Hostel",
+    "resolvedAddress": "191 Queen's Gate, South Kensington, London SW7 5EU, UK",
+    "postcode": "SW7 5EU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.50061,
+    "lng": -0.179703,
+    "ward": "Knightsbridge & Belgravia"
+  },
+  "hotels:batty-langleys": {
+    "placeId": "ChIJ15CwRLEcdkgRABdfmAO-Fy0",
+    "placesName": "Batty Langley's",
+    "resolvedAddress": "12 Folgate St, London E1 6BX, UK",
+    "postcode": "E1 6BX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.520982,
+    "lng": -0.077324,
+    "ward": "Spitalfields & Banglatown"
+  },
+  "hotels:bermondsey-square-hotel": {
+    "placeId": "ChIJU3VpMEMDdkgRpGZTvZ-x7jI",
+    "placesName": "The Bermondsey Square Hotel",
+    "resolvedAddress": "9 Bermondsey Sq, London SE1 3UN, UK",
+    "postcode": "SE1 3UN",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.497387,
+    "lng": -0.080753,
+    "ward": "London Bridge & West Bermondsey"
+  },
+  "hotels:bingham-riverhouse": {
+    "placeId": "ChIJlZg6qD8MdkgRJpwAF33oLbI",
+    "placesName": "Bingham Riverhouse",
+    "resolvedAddress": "61-63 Petersham Rd, Richmond TW10 6UT, UK",
+    "postcode": "TW10 6UT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.454158,
+    "lng": -0.302902,
+    "ward": "Ham, Petersham & Richmond Riverside"
+  },
+  "hotels:broadwick-soho": {
+    "placeId": "ChIJ1Y_caTIFdkgRyawbVn8jgJI",
+    "placesName": "Broadwick Soho",
+    "resolvedAddress": "20 Broadwick St, London W1F 8HT, UK",
+    "postcode": "W1F 8HT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.513873,
+    "lng": -0.135533,
+    "ward": "West End"
+  },
+  "hotels:browns-hotel": {
+    "placeId": "ChIJP4LZ8ikFdkgRUmF0m4CmccM",
+    "placesName": "Brown's Hotel, a Rocco Forte hotel",
+    "resolvedAddress": "33 Albemarle St, London W1S 4BP, UK",
+    "postcode": "W1S 4BP",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.50917,
+    "lng": -0.142326,
+    "ward": "West End"
+  },
+  "hotels:charlotte-street-hotel": {
+    "placeId": "ChIJZWQtdiwbdkgRDtcPz5yALlU",
+    "placesName": "Charlotte Street Hotel",
+    "resolvedAddress": "15-17 Charlotte St., London W1T 1RJ, UK",
+    "postcode": "W1T 1RJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.518388,
+    "lng": -0.135032,
+    "ward": "West End"
+  },
+  "hotels:citizenm-bankside": {
+    "placeId": "ChIJSSCdl6gEdkgRUQoUq3hE_oE",
+    "placesName": "citizenM London Bankside",
+    "resolvedAddress": "20 Lavington St, London SE1 0NZ, UK",
+    "postcode": "SE1 0NZ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.505254,
+    "lng": -0.099976,
+    "ward": "Borough & Bankside"
+  },
+  "hotels:claridges": {
+    "placeId": "ChIJcZY1XAAFdkgRieYQg6UqpzQ",
+    "placesName": "Claridge's",
+    "resolvedAddress": "Brook St, London W1K 4HR, UK",
+    "postcode": "W1K 4HR",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.512428,
+    "lng": -0.147612,
+    "ward": "West End"
+  },
+  "hotels:clink78": {
+    "placeId": "ChIJmXXcEUcbdkgR9bY2oMXRKQs",
+    "placesName": "Clink78",
+    "resolvedAddress": "78 King's Cross Rd, London WC1X 9QG, UK",
+    "postcode": "WC1X 9QG",
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "lat": 51.528208,
+    "lng": -0.115326,
+    "ward": "Clerkenwell"
+  },
+  "hotels:corinthia-london": {
+    "placeId": "ChIJ0dU6L88EdkgRSRva6TI0lsY",
+    "placesName": "Corinthia London",
+    "resolvedAddress": "Corinthia Hotel, 10 Whitehall Pl, London SW1A 2BD, UK",
+    "postcode": "SW1A 2BD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.506255,
+    "lng": -0.125282,
+    "ward": "St James's"
+  },
+  "hotels:doubletree-greenwich": {
+    "placeId": "ChIJoT_-QYoCdkgRQIWTPOYwm2Y",
+    "placesName": "DoubleTree by Hilton London Greenwich",
+    "resolvedAddress": "Catherine Grove, London SE10 8FR, UK",
+    "postcode": "SE10 8FR",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.47459,
+    "lng": -0.01966,
+    "ward": "Greenwich Park"
+  },
+  "hotels:generator-london": {
+    "placeId": "ChIJM4cpDTobdkgRx8LDQJ76Yu8",
+    "placesName": "Generator London",
+    "resolvedAddress": "37 Tavistock Pl, London WC1H 9SE, UK",
+    "postcode": "WC1H 9SE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.526013,
+    "lng": -0.124816,
+    "ward": "Bloomsbury"
+  },
+  "hotels:georgian-house-wizard-chambers": {
+    "placeId": "ChIJG7dp-B4FdkgRdetG5aiJ49s",
+    "placesName": "Georgian House Hotel",
+    "resolvedAddress": "35 - 39 St George's Dr, Pimlico, London SW1V 4DG, UK",
+    "postcode": "SW1V 4DG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.49046,
+    "lng": -0.143706,
+    "ward": "Pimlico North"
+  },
+  "hotels:greenhouse-capsules": {},
+  "hotels:ham-yard-hotel": {
+    "placeId": "ChIJ6WYai9MEdkgRgVVlop5w_zs",
+    "placesName": "Ham Yard Hotel",
+    "resolvedAddress": "1 Ham Yard, London W1D 7DT, UK",
+    "postcode": "W1D 7DT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.51116,
+    "lng": -0.134578,
+    "ward": "West End"
+  },
+  "hotels:hilton-london-angel-islington": {
+    "placeId": "ChIJI7XXmS8FdkgR4DZkJcyK05I",
+    "placesName": "Hilton London Angel Islington",
+    "resolvedAddress": "53 Upper St, London N1 0UY, UK",
+    "postcode": "N1 0UY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.535942,
+    "lng": -0.104697,
+    "ward": "St Mary's & St James'"
+  },
+  "hotels:hilton-london-paddington": {
+    "placeId": "ChIJnRnMpbIadkgRux4c7OO6-gc",
+    "placesName": "Hilton London Paddington",
+    "resolvedAddress": "146 Praed St, London W2 1EE, UK",
+    "postcode": "W2 1EE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515759,
+    "lng": -0.175957,
+    "ward": "Hyde Park"
+  },
+  "hotels:hotel-cafe-royal": {
+    "placeId": "ChIJawUNG9QEdkgRpSczKlUHWu8",
+    "placesName": "Café Royal Grill",
+    "resolvedAddress": "Café Royal, 68 Regent St., London W1B 4DY, UK",
+    "postcode": "W1B 4DY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.509792,
+    "lng": -0.135628,
+    "ward": "West End"
+  },
+  "hotels:hub-covent-garden": {
+    "placeId": "ChIJSahZ2c0EdkgReUtUI5Mtcvs",
+    "placesName": "hub by Premier Inn London Covent Garden hotel",
+    "resolvedAddress": "110 St Martin's Ln, London WC2N 4BA, UK",
+    "postcode": "WC2N 4BA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.51,
+    "lng": -0.127261,
+    "ward": "St James's"
+  },
+  "hotels:hyatt-regency-stratford": {
+    "placeId": "ChIJ5X9O68sddkgRl6Y6PdWJatQ",
+    "placesName": "Hyatt Regency London Stratford",
+    "resolvedAddress": "10A, Chestnut Plaza, Westfield stratford city, London E20 1GL, UK",
+    "postcode": "E20 1GL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.542604,
+    "lng": -0.008039,
+    "ward": "Stratford Olympic Park"
+  },
+  "hotels:intercontinental-the-o2": {
+    "placeId": "ChIJ4ULQhqcCdkgRNJi19-t9XOc",
+    "placesName": "InterContinental London - the O2 by IHG",
+    "resolvedAddress": "1 Waterview Dr, London SE10 0TW, UK",
+    "postcode": "SE10 0TW",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.503781,
+    "lng": -0.000094,
+    "ward": "Greenwich Peninsula"
+  },
+  "hotels:la-gaffe": {
+    "placeId": "ChIJoZpPHH0adkgRBNCuFfTc7bs",
+    "placesName": "La Gaffe Hotel",
+    "resolvedAddress": "107-111 Heath St, London NW3 6SS, UK",
+    "postcode": "NW3 6SS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.559225,
+    "lng": -0.178575,
+    "ward": "Hampstead Town"
+  },
+  "hotels:locke-at-broken-wharf": {
+    "placeId": "ChIJzx1we_AFdkgR7H2yuICTzec",
+    "placesName": "Locke at Broken Wharf Millennium Bridge",
+    "resolvedAddress": "Broken Wharf House, 2 Broken Wharf, London EC4V 3DT, UK",
+    "postcode": "EC4V 3DT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.51084,
+    "lng": -0.096732,
+    "ward": "Queenhithe"
+  },
+  "hotels:london-marriott-canary-wharf": {
+    "placeId": "ChIJW_npU7YCdkgRA1fvFxuCEeM",
+    "placesName": "London Marriott Hotel Canary Wharf",
+    "resolvedAddress": "22 Hertsmere Rd, London E14 4ED, UK",
+    "postcode": "E14 4ED",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.507109,
+    "lng": -0.02129,
+    "ward": "Canary Wharf"
+  },
+  "hotels:mandarin-oriental-mayfair": {
+    "placeId": "ChIJK1dCDlEFdkgRrJ-GAUSwcHs",
+    "placesName": "Mandarin Oriental Mayfair, London",
+    "resolvedAddress": "22 Hanover Square, London W1S 1JP, UK",
+    "postcode": "W1S 1JP",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.513311,
+    "lng": -0.144305,
+    "ward": "West End"
+  },
+  "hotels:mondrian-shoreditch": {
+    "placeId": "ChIJN2kOR7AcdkgRYBf3A8ebWhQ",
+    "placesName": "Virgin Hotels London-Shoreditch",
+    "resolvedAddress": "45 Curtain Rd, London EC2A 3PT, UK",
+    "postcode": "EC2A 3PT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.523994,
+    "lng": -0.080628,
+    "ward": "Hoxton East & Shoreditch"
+  },
+  "hotels:nell-gwynn-house-pods": {
+    "placeId": "ChIJ1blbzGoFdkgRGMprYY1b-lM",
+    "placesName": "Nell Gwynn House Apartments",
+    "resolvedAddress": "Sloane Ave, London SW3 3AX, UK",
+    "postcode": "SW3 3AX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.49234,
+    "lng": -0.164907,
+    "ward": "Brompton & Hans Town"
+  },
+  "hotels:nhow-london": {
+    "placeId": "ChIJndFliJgbdkgRC_hYU3zyqo8",
+    "placesName": "Hotel nhow London",
+    "resolvedAddress": "2 Macclesfield Rd, London EC1V 8DG, UK",
+    "postcode": "EC1V 8DG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.529168,
+    "lng": -0.096789,
+    "ward": "St Peter's & Canalside"
+  },
+  "hotels:novotel-canary-wharf": {
+    "placeId": "ChIJKVLjgrgCdkgRECscDLIr8Q0",
+    "placesName": "Novotel London Canary Wharf",
+    "resolvedAddress": "40 Marsh Wall, London E14 9TP, UK",
+    "postcode": "E14 9TP",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.500879,
+    "lng": -0.021935,
+    "ward": "Canary Wharf"
+  },
+  "hotels:nox-belsize-park": {
+    "placeId": "ChIJA5nzVfIadkgR_WgDCNE_2Po",
+    "placesName": "NOX Belsize Park",
+    "resolvedAddress": "154 Haverstock Hill, London NW3 2AY, UK",
+    "postcode": "NW3 2AY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.548379,
+    "lng": -0.160647,
+    "ward": "Haverstock"
+  },
+  "hotels:one-hundred-shoreditch": {
+    "placeId": "ChIJGzuTjmsddkgR43phpPP7ktw",
+    "placesName": "One Hundred Shoreditch",
+    "resolvedAddress": "100 Shoreditch High St, London E1 6JQ, UK",
+    "postcode": "E1 6JQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.525721,
+    "lng": -0.077327,
+    "ward": "Hoxton East & Shoreditch"
+  },
+  "hotels:otherwander-soho": {
+    "placeId": "ChIJIeF3tSwbdkgRoOTcs2Pu81g",
+    "placesName": "Otherwander Soho",
+    "resolvedAddress": "91-92 Dean St, London W1D 3SY, UK",
+    "postcode": "W1D 3SY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515447,
+    "lng": -0.133869,
+    "ward": "West End"
+  },
+  "hotels:point-a-kings-cross": {
+    "placeId": "ChIJyQp87jgbdkgR7q5R1uRWeyM",
+    "placesName": "Point A Hotel London, Kings Cross - St Pancras",
+    "resolvedAddress": "324 Gray's Inn Rd, London WC1X 8BU, UK",
+    "postcode": "WC1X 8BU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.528947,
+    "lng": -0.119361,
+    "ward": "King's Cross"
+  },
+  "hotels:premier-inn-county-hall": {
+    "placeId": "ChIJLTMzFXqv2EcRJVvr2rP600M",
+    "placesName": "Premier Inn London County Hall hotel",
+    "resolvedAddress": "County Hall, Belvedere Rd, London SE1 7PB, UK",
+    "postcode": "SE1 7PB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.501972,
+    "lng": -0.119003,
+    "ward": "Waterloo & South Bank"
+  },
+  "hotels:premier-inn-stratford": {
+    "placeId": "ChIJM4tpAWUddkgRzRGi_tdVL48",
+    "placesName": "Premier Inn London Stratford hotel",
+    "resolvedAddress": "9, International Square, Westfield stratford city, Montfichet Rd, London E20 1EE, UK",
+    "postcode": "E20 1EE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.54412,
+    "lng": -0.008867,
+    "ward": "Stratford Olympic Park"
+  },
+  "hotels:raffles-london-owo": {
+    "placeId": "ChIJZfEMTNkFdkgRXHTECATydW8",
+    "placesName": "Raffles London at The OWO",
+    "resolvedAddress": "57 Whitehall, London SW1A 2BX, UK",
+    "postcode": "SW1A 2BX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.506424,
+    "lng": -0.12686,
+    "ward": "St James's"
+  },
+  "hotels:redchurch-townhouse": {
+    "placeId": "ChIJ3S1sPxkddkgRpDh0WReJumU",
+    "placesName": "Redchurch Townhouse",
+    "resolvedAddress": "25-27 Whitby St, London E1 6JU, UK",
+    "postcode": "E1 6JU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.524079,
+    "lng": -0.074844,
+    "ward": "Weavers"
+  },
+  "hotels:rosewood-london": {
+    "placeId": "ChIJi-8-gTUbdkgRvgRcAHEwuyc",
+    "placesName": "Rosewood London",
+    "resolvedAddress": "252 High Holborn, London WC1V 7EN, UK",
+    "postcode": "WC1V 7EN",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.51733,
+    "lng": -0.117764,
+    "ward": "Holborn & Covent Garden"
+  },
+  "hotels:san-domenico-house": {
+    "placeId": "ChIJ1-KdBhUFdkgRtWdM6LeQCu0",
+    "placesName": "San Domenico House Hotel",
+    "resolvedAddress": "29-31 Draycott Pl, London SW3 2SH, UK",
+    "postcode": "SW3 2SH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.491672,
+    "lng": -0.161837,
+    "ward": "Royal Hospital"
+  },
+  "hotels:sanderson-london": {
+    "placeId": "ChIJPZFm_eMbdkgRK1bvX1xZS_4",
+    "placesName": "Sanderson London, a Morgans Originals hotel",
+    "resolvedAddress": "50 Berners St, London W1T 3NG, UK",
+    "postcode": "W1T 3NG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.517733,
+    "lng": -0.137394,
+    "ward": "West End"
+  },
+  "hotels:shangri-la-the-shard": {
+    "placeId": "ChIJl5tV7FoDdkgRcHC9YrS_2Dk",
+    "placesName": "Shangri-La The Shard, London",
+    "resolvedAddress": "31 St Thomas St, London SE1 9QU, UK",
+    "postcode": "SE1 9QU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.50444,
+    "lng": -0.086422,
+    "ward": "London Bridge & West Bermondsey"
+  },
+  "hotels:six-senses-london": {
+    "placeId": "ChIJ1VihIQAPdkgR-rwdFW9PUec",
+    "placesName": "Six Senses London",
+    "resolvedAddress": "1 Redan Pl, London W2 4SA, UK",
+    "postcode": "W2 4SA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515162,
+    "lng": -0.189111,
+    "ward": "Lancaster Gate"
+  },
+  "hotels:st-ermins-hotel": {
+    "placeId": "ChIJ_RmXqN4EdkgRzKAQ29aPpfo",
+    "placesName": "St. Ermin's Hotel, Autograph Collection",
+    "resolvedAddress": "2 Caxton St, London SW1H 0QW, UK",
+    "postcode": "SW1H 0QW",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.499179,
+    "lng": -0.134433,
+    "ward": "St James's"
+  },
+  "hotels:st-pancras-renaissance": {
+    "placeId": "ChIJbSikmDsbdkgR-nC2sxkGYpg",
+    "placesName": "St. Pancras London, Autograph Collection",
+    "resolvedAddress": "Euston Rd., London NW1 2AR, UK",
+    "postcode": "NW1 2AR",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.530168,
+    "lng": -0.125381,
+    "ward": "King's Cross"
+  },
+  "hotels:staycity-dalston": {
+    "placeId": "ChIJq4LOOIwcdkgRDIrEyR6010E",
+    "placesName": "Staycity Aparthotels, London, Dalston",
+    "resolvedAddress": "130 Kingsland High St, London E8 2LQ, UK",
+    "postcode": "E8 2LQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.54969,
+    "lng": -0.074816,
+    "ward": "Dalston"
+  },
+  "hotels:strand-palace": {
+    "placeId": "ChIJa7MYyssEdkgRW0GxGFyDvWw",
+    "placesName": "Strand Palace",
+    "resolvedAddress": "372 Strand, London WC2R 0JJ, UK",
+    "postcode": "WC2R 0JJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.511094,
+    "lng": -0.120861,
+    "ward": "St James's"
+  },
+  "hotels:the-ampersand-hotel": {
+    "placeId": "ChIJm_BvYl0FdkgR5-qNzNVoA3M",
+    "placesName": "The Ampersand Hotel",
+    "resolvedAddress": "10 Harrington Rd, South Kensington, London SW7 3ER, UK",
+    "postcode": "SW7 3ER",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.494305,
+    "lng": -0.175546,
+    "ward": "Brompton & Hans Town"
+  },
+  "hotels:the-beaumont-mayfair": {
+    "placeId": "ChIJjxDGljIFdkgRtvX999m-Jkk",
+    "placesName": "The Beaumont Mayfair",
+    "resolvedAddress": "8 Balderton St, Brown Hart Gardens, London W1K 6TF, UK",
+    "postcode": "W1K 6TF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.513106,
+    "lng": -0.152427,
+    "ward": "West End"
+  },
+  "hotels:the-cadogan-belmond": {
+    "placeId": "ChIJ4STvjj4FdkgRFPN-t7VEWD8",
+    "placesName": "The Cadogan, A Belmond Hotel, London",
+    "resolvedAddress": "75 Sloane St, London SW1X 9SG, UK",
+    "postcode": "SW1X 9SG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.49694,
+    "lng": -0.159478,
+    "postcodeTerminated": 2015
+  },
+  "hotels:the-chelsea-townhouse": {
+    "placeId": "ChIJTTzW7BUFdkgRVN5v6JQ3SaQ",
+    "placesName": "The Chelsea Townhouse",
+    "resolvedAddress": "26 Cadogan Gardens, London SW3 2RP, UK",
+    "postcode": "SW3 2RP",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.492953,
+    "lng": -0.159855,
+    "ward": "Royal Hospital"
+  },
+  "hotels:the-connaught": {
+    "placeId": "ChIJiTyvxdcEdkgRIE3fJmxwzVM",
+    "placesName": "The Connaught",
+    "resolvedAddress": "The Connaught, Carlos Pl, London W1K 2AL, UK",
+    "postcode": "W1K 2AL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.510157,
+    "lng": -0.149607,
+    "ward": "West End"
+  },
+  "hotels:the-dorchester": {
+    "placeId": "ChIJiTyvxdcEdkgR53XBqdKYBFE",
+    "placesName": "The Dorchester",
+    "resolvedAddress": "53 Park Ln, London W1K 1QA, UK",
+    "postcode": "W1K 1QA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.507405,
+    "lng": -0.152471,
+    "ward": "West End"
+  },
+  "hotels:the-emory": {
+    "placeId": "ChIJnTmXt6QFdkgRV1_2XnA4xCA",
+    "placesName": "The Emory",
+    "resolvedAddress": "Old Barrack Yard, London SW1X 7NP, UK",
+    "postcode": "SW1X 7NP",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.501822,
+    "lng": -0.154843,
+    "ward": "Knightsbridge & Belgravia"
+  },
+  "hotels:the-exhibitionist-hotel": {
+    "placeId": "ChIJ5QR6aV0FdkgRt4bw-zhieiM",
+    "placesName": "The Exhibitionist Hotel",
+    "resolvedAddress": "8-10 Queensberry Pl, South Kensington, London SW7 2EA, UK",
+    "postcode": "SW7 2EA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.494817,
+    "lng": -0.177816,
+    "ward": "Courtfield"
+  },
+  "hotels:the-goring": {
+    "placeId": "ChIJpyeYGW8FdkgRqfqKh8Yxrs8",
+    "placesName": "The Goring",
+    "resolvedAddress": "15 Beeston Pl, London SW1W 0JW, UK",
+    "postcode": "SW1W 0JW",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.497476,
+    "lng": -0.145539,
+    "ward": "St James's"
+  },
+  "hotels:the-grafton-arms": {
+    "placeId": "ChIJyXiQUSgbdkgRHpggwMHe6tQ",
+    "placesName": "The Grafton Arms Pub & Rooms",
+    "resolvedAddress": "72 Grafton Way, London W1T 5DU, UK",
+    "postcode": "W1T 5DU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.523303,
+    "lng": -0.138738,
+    "ward": "Bloomsbury"
+  },
+  "hotels:the-hoxton-holborn": {
+    "placeId": "ChIJq--bjDQbdkgR6P4fcGkOnGI",
+    "placesName": "The Hoxton, Holborn",
+    "resolvedAddress": "199-206 High Holborn, London WC1V 7BD, UK",
+    "postcode": "WC1V 7BD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.517111,
+    "lng": -0.122573,
+    "ward": "Holborn & Covent Garden"
+  },
+  "hotels:the-hoxton-shoreditch": {
+    "placeId": "ChIJJ43m-K8cdkgR16GR7K-QIhQ",
+    "placesName": "The Hoxton, Shoreditch",
+    "resolvedAddress": "81 Great Eastern St, London EC2A 3HU, UK",
+    "postcode": "EC2A 3HU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.525237,
+    "lng": -0.082349,
+    "ward": "Hoxton East & Shoreditch"
+  },
+  "hotels:the-hoxton-southwark": {
+    "placeId": "ChIJ7VdXawcFdkgRrLjdOogTz2I",
+    "placesName": "The Hoxton, Southwark",
+    "resolvedAddress": "40 Blackfriars Rd, London SE1 8NY, UK",
+    "postcode": "SE1 8NY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.505773,
+    "lng": -0.104797,
+    "ward": "Borough & Bankside"
+  },
+  "hotels:the-langham-london": {
+    "placeId": "ChIJj375B9UadkgRkmFrWaFBXww",
+    "placesName": "The Langham, London",
+    "resolvedAddress": "1C Portland Pl, London W1B 1JA, UK",
+    "postcode": "W1B 1JA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.517729,
+    "lng": -0.143923,
+    "ward": "Marylebone"
+  },
+  "hotels:the-laslett": {
+    "placeId": "ChIJaybHgPsPdkgRatvCse_3nh0",
+    "placesName": "The Laslett",
+    "resolvedAddress": "8 Pembridge Gardens, London W2 4DU, UK",
+    "postcode": "W2 4DU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.509642,
+    "lng": -0.196766,
+    "ward": "Pembridge"
+  },
+  "hotels:the-londoner": {
+    "placeId": "ChIJ4-BXAUkFdkgRc3sS8jtRf9k",
+    "placesName": "The Londoner",
+    "resolvedAddress": "38 Leicester Square, London WC2H 7DX, UK",
+    "postcode": "WC2H 7DX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.509845,
+    "lng": -0.130496,
+    "ward": "St James's"
+  },
+  "hotels:the-megaro": {
+    "placeId": "ChIJgxfx5TsbdkgRHhChTM1Piis",
+    "placesName": "The Megaro",
+    "resolvedAddress": "1 Belgrove St, London WC1H 8AB, UK",
+    "postcode": "WC1H 8AB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.529681,
+    "lng": -0.123613,
+    "ward": "King's Cross"
+  },
+  "hotels:the-milestone-hotel": {
+    "placeId": "ChIJA9VUCwQFdkgRWhtz87Vv8DQ",
+    "placesName": "The Milestone Hotel and Residences",
+    "resolvedAddress": "1-3 Kensington Ct, London W8 5DL, UK",
+    "postcode": "W8 5DL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.501573,
+    "lng": -0.186696,
+    "ward": "Queen's Gate"
+  },
+  "hotels:the-ned": {
+    "placeId": "ChIJYdET4FQDdkgRbjvXg_CcAm0",
+    "placesName": "The Ned London",
+    "resolvedAddress": "27 Poultry, London EC2R 8AJ, UK",
+    "postcode": "EC2R 8AJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.513674,
+    "lng": -0.090748,
+    "ward": "Walbrook"
+  },
+  "hotels:the-pelican-notting-hill": {
+    "placeId": "ChIJq2LxFRwQdkgRI2E3wiss35I",
+    "placesName": "The Pelican",
+    "resolvedAddress": "The Pelican, 45 All Saints Rd, London W11 1HE, UK",
+    "postcode": "W11 1HE",
+    "lat": 51.51839,
+    "lng": -0.204319,
+    "ward": "Colville"
+  },
+  "hotels:the-peninsula-london": {
+    "placeId": "ChIJWYHD7s4FdkgRUFT2qTJ19-w",
+    "placesName": "The Peninsula London",
+    "resolvedAddress": "The Peninsula, 1 Grosvenor Pl, London SW1X 7HJ, UK",
+    "postcode": "SW1X 7HJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.501739,
+    "lng": -0.151806,
+    "ward": "Knightsbridge & Belgravia"
+  },
+  "hotels:the-petersham-hotel": {
+    "placeId": "ChIJrYzBA78LdkgRnTka2J1DIiw",
+    "placesName": "The Petersham Hotel, Richmond",
+    "resolvedAddress": "Nightingale Ln, Richmond TW10 6UZ, UK",
+    "postcode": "TW10 6UZ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.450898,
+    "lng": -0.299511,
+    "ward": "Ham, Petersham & Richmond Riverside"
+  },
+  "hotels:the-pilgrm": {
+    "placeId": "ChIJARBMxLIadkgR-ahswfwrT8w",
+    "placesName": "The Pilgrm Hotel Paddington",
+    "resolvedAddress": "25 London St, Tyburnia, London W2 1HH, UK",
+    "postcode": "W2 1HH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515789,
+    "lng": -0.174457,
+    "ward": "Hyde Park"
+  },
+  "hotels:the-portobello-hotel": {
+    "placeId": "ChIJb9qdgE2m2EcRDn0gVSkreBI",
+    "placesName": "Portobello Hotel | A Curious Group of Hotels",
+    "resolvedAddress": "22 Stanley Gardens, London W11 2NG, UK",
+    "postcode": "W11 2NG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.512276,
+    "lng": -0.203176,
+    "ward": "Colville"
+  },
+  "hotels:the-rubens-at-the-palace": {
+    "placeId": "ChIJXX6W2iAFdkgREIjlbrOHCOw",
+    "placesName": "The Rubens at the Palace",
+    "resolvedAddress": "39 Buckingham Palace Rd, London SW1W 0PS, UK",
+    "postcode": "SW1W 0PS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.498437,
+    "lng": -0.143166,
+    "ward": "St James's"
+  },
+  "hotels:the-savoy": {
+    "placeId": "ChIJTVquz8sEdkgRKdz7pP3v9BU",
+    "placesName": "The Savoy",
+    "resolvedAddress": "Strand, London WC2R 0EZ, UK",
+    "postcode": "WC2R 0EZ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.510342,
+    "lng": -0.121079,
+    "ward": "St James's"
+  },
+  "hotels:the-soho-hotel": {
+    "placeId": "ChIJE4E1QdMEdkgRSpJ-bmPNffY",
+    "placesName": "The Soho Hotel",
+    "resolvedAddress": "Soho Hotel, 4 Richmond Mews, London W1D 3DH, UK",
+    "postcode": "W1D 3DH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.513736,
+    "lng": -0.13368,
+    "ward": "West End"
+  },
+  "hotels:the-standard-london": {
+    "placeId": "ChIJcW4KxmEbdkgRrRNkLIHuQ2c",
+    "placesName": "The Standard, London",
+    "resolvedAddress": "10 Argyle St, London WC1H 8EG, UK",
+    "postcode": "WC1H 8EG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.529128,
+    "lng": -0.123866,
+    "ward": "King's Cross"
+  },
+  "hotels:the-zetter-townhouse-marylebone": {
+    "placeId": "ChIJ06R2qjQFdkgRXEH7aWCFEuA",
+    "placesName": "The Zetter Marylebone",
+    "resolvedAddress": "28-30 Seymour St, London W1H 7JB, UK",
+    "postcode": "W1H 7JB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.514866,
+    "lng": -0.158553,
+    "ward": "Marylebone"
+  },
+  "hotels:town-hall-hotel": {
+    "placeId": "ChIJy7L-gNscdkgRUIrnHlAHDxY",
+    "placesName": "Town Hall Hotel & Apartments",
+    "resolvedAddress": "1st floor, Town Hall Hotel, 8 Patriot Square, London E2 9NF, UK",
+    "postcode": "E2 9NF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.530465,
+    "lng": -0.055327,
+    "ward": "Bethnal Green West"
+  },
+  "hotels:treehouse-hotel-london": {
+    "placeId": "ChIJiUx2lXcbdkgRkoQ_n7kTF1U",
+    "placesName": "Treehouse Hotel London",
+    "resolvedAddress": "14-15 Langham Pl, London W1B 2QS, UK",
+    "postcode": "W1B 2QS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.517502,
+    "lng": -0.143197,
+    "ward": "Marylebone"
+  },
+  "hotels:wilde-aparthotels-covent-garden": {
+    "placeId": "ChIJYfCA4csEdkgRLBxFMl7u6Vk",
+    "placesName": "Wilde Aparthotels, London, Covent Garden",
+    "resolvedAddress": "11 John Adam St, London WC2R 0DE, UK",
+    "postcode": "WC2R 0DE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.509963,
+    "lng": -0.122089,
+    "ward": "St James's"
+  },
+  "hotels:wombats-city-hostel-london": {
+    "placeId": "ChIJs9UN0DUDdkgRutjvuNcU2no",
+    "placesName": "Wombat's City Hostel London",
+    "resolvedAddress": "7 Dock St, London E1 8LL, UK",
+    "postcode": "E1 8LL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.510341,
+    "lng": -0.067901,
+    "postcodeTerminated": 2015
+  },
+  "hotels:yha-london-st-pancras": {},
+  "hotels:z-hotel-covent-garden": {
+    "placeId": "ChIJE-33qJAFdkgR5PnGpmjGJmI",
+    "placesName": "The Z Hotel Covent Garden",
+    "resolvedAddress": "31-33 Bedford St, London WC2E 9ED, UK",
+    "postcode": "WC2E 9ED",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.511253,
+    "lng": -0.124644,
+    "ward": "St James's"
+  },
+  "hotels:z-hotel-shoreditch": {
+    "placeId": "ChIJoQs3c6YcdkgRpnGcQXwCRPY",
+    "placesName": "The Z Hotel Shoreditch",
+    "resolvedAddress": "136-144 City Rd, London EC1V 2RL, UK",
+    "postcode": "EC1V 2RL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.527101,
+    "lng": -0.0886,
+    "ward": "Bunhill"
+  },
+  "hotels:zedwell-greenwich": {
+    "placeId": "ChIJRar1rY0CdkgRs79BRPfncz8",
+    "placesName": "Zedwell Greenwich",
+    "resolvedAddress": "Cavatina Point, 7 Harmony Pl, London SE8 3FB, UK",
+    "postcode": "SE8 3FB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.480571,
+    "lng": -0.020236,
+    "ward": "Greenwich Creekside"
+  },
+  "hotels:zedwell-piccadilly-circus": {
+    "placeId": "ChIJW4f-VVkFdkgRZaCdgRrlAv0",
+    "placesName": "Zedwell Capsule Hotel Piccadilly Circus",
+    "resolvedAddress": "Shaftesbury Ave, Piccadilly Circus, London W1J 0DA, UK",
+    "postcode": "W1J 0DA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.510276,
+    "lng": -0.133865,
+    "ward": "St James's"
+  },
+  "hotels:zedwell-tottenham-court-road": {
+    "placeId": "ChIJY3gWdC0bdkgRcFVT5a73vlE",
+    "placesName": "Zedwell Underground Tottenham Court Road",
+    "resolvedAddress": "112a Great Russell St, London WC1B 3NQ, UK",
+    "postcode": "WC1B 3NQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.517289,
+    "lng": -0.130378,
+    "postcodeTerminated": 2026
+  }
+}

@@ -47,6 +47,7 @@
 //
 //   node scripts/write-hotels.mjs [--dry-run]
 //
+import fs from "node:fs";
 import { writeTab } from "./sheets.mjs";
 
 const TODAY = new Date().toISOString().slice(0, 10);
@@ -1868,6 +1869,29 @@ const ROWS = [
   },
 ];
 
+// ------------------------------------------------- merge geocoding cache ---
+// data/geo-cache.json is produced by scripts/geocode-listings.mjs. Merging
+// here rather than writing to the sheet directly means this script stays the
+// single owner of the tab, and the Places lookups survive every rebuild.
+// Hand-written values win, matching write-restaurants-v2.mjs's enrichment merge.
+const GEO_PATH = "data/geo-cache.json";
+const GEO_MAP = { postcode: "postcode", lat: "lat", lng: "lng", placeId: "placeId" };
+let geocoded = 0;
+if (fs.existsSync(GEO_PATH)) {
+  const cache = JSON.parse(fs.readFileSync(GEO_PATH, "utf8"));
+  for (const r of ROWS) {
+    const e = cache[`hotels:${r.slug}`];
+    if (!e) continue;
+    for (const [col, key] of Object.entries(GEO_MAP)) {
+      const v = e[key];
+      if (v === undefined || v === "" || v === null) continue;
+      if (String(r[col] ?? "").trim() !== "") continue;
+      r[col] = String(v);
+      geocoded++;
+    }
+  }
+}
+
 // --------------------------------------------------------------- validate ---
 const errors = [];
 for (const r of ROWS) {
@@ -1918,3 +1942,5 @@ const flagged = ROWS.filter((r) => /NEEDS VERIFYING/.test(r.source + r.opSummary
 if (flagged.length) console.log(`  ${flagged.length} row(s) carry a NEEDS VERIFYING note: ${flagged.map((r) => r.name).join(", ")}`);
 const brands = [...new Set(ROWS.map((r) => r.brand))];
 console.log(`  ${brands.length} brands for the affiliate resolver: ${brands.join(", ")}`);
+const withCoords = ROWS.filter((r) => r.lat).length;
+console.log(`  ${withCoords}/${ROWS.length} rows have coordinates (${geocoded} field(s) merged from data/geo-cache.json this run)`);
