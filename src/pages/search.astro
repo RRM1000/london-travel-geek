@@ -16,6 +16,7 @@ import restaurantData from "../data/restaurants.json";
 import activityData from "../data/activities.json";
 import eventData from "../data/events.json";
 import hotelData from "../data/hotels.json";
+import hiddenLondonData from "../data/hiddenLondon.json";
 
 const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Search" }];
 
@@ -31,6 +32,8 @@ const stamp = [
   eventData.count,
   hotelData.generated,
   hotelData.count,
+  hiddenLondonData.generated,
+  hiddenLondonData.count,
 ].join("-").replace(/[^0-9a-z-]/gi, "");
 const indexUrl = `/search-index.json?v=${stamp}`;
 ---
@@ -70,6 +73,7 @@ const indexUrl = `/search-index.json?v=${stamp}`;
       <button type="button" data-filter="a">Things to do</button>
       <button type="button" data-filter="e">What's on</button>
       <button type="button" data-filter="h">Places to stay</button>
+      <button type="button" data-filter="s">Hidden London</button>
     </nav>
 
     <ul class="search__results" id="search-results" data-index={indexUrl}></ul>
@@ -85,7 +89,7 @@ const indexUrl = `/search-index.json?v=${stamp}`;
 </BaseLayout>
 
 <script>
-  type Rec = { t: "g" | "r" | "a" | "e" | "h"; n: string; u: string; d?: string; k?: string };
+  type Rec = { t: "g" | "r" | "a" | "e" | "h" | "s"; n: string; u: string; d?: string; k?: string };
 
   const input = document.getElementById("search-q") as HTMLInputElement;
   const status = document.getElementById("search-status")!;
@@ -98,6 +102,7 @@ const indexUrl = `/search-index.json?v=${stamp}`;
     a: "Thing to do",
     e: "What's on",
     h: "Place to stay",
+    s: "Hidden London",
   };
 
   let records: Rec[] = [];
@@ -143,7 +148,7 @@ const indexUrl = `/search-index.json?v=${stamp}`;
       .filter((x) => x.s > 0)
       .sort((a, b) => b.s - a.s || a.r.n.localeCompare(b.r.n));
 
-    const counts = { all: scored.length, g: 0, r: 0, a: 0, e: 0, h: 0 } as Record<string, number>;
+    const counts = { all: scored.length, g: 0, r: 0, a: 0, e: 0, h: 0, s: 0 } as Record<string, number>;
     for (const { r } of scored) counts[r.t]++;
     for (const btn of filters.querySelectorAll("button")) {
       const k = (btn as HTMLElement).dataset.filter!;

@@ -2469,6 +2469,459 @@
     "lng": -0.215256,
     "ward": "Village"
   },
+  "hiddenLondon:astor-st-james-square": {
+    "placeId": "ChIJ4xwRnoQFdkgRo6Yg1Czs3b0",
+    "placesName": "Nancy Astor Blue Plaque",
+    "resolvedAddress": "4 St James's Square, London SW1Y 4JU, UK",
+    "postcode": "SW1Y 4JU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.508154,
+    "lng": -0.134989,
+    "ward": "St James's"
+  },
+  "hiddenLondon:baird-frith-street": {
+    "placeId": "ChIJBbKU6NIEdkgRkC_IDZgxT1Y",
+    "placesName": "Bar Italia",
+    "resolvedAddress": "22 Frith St, London W1D 4RF, UK",
+    "postcode": "W1D 4RF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.513762,
+    "lng": -0.131402,
+    "ward": "West End"
+  },
+  "hiddenLondon:barrie-bayswater-road": {
+    "placeId": "ChIJt2maFegFdkgRX-tRkS_7bkw",
+    "placesName": "Sir James Barrie Blue Plaque",
+    "resolvedAddress": "100 Bayswater Rd, London W2 3HJ, UK",
+    "postcode": "W2 3HJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.51079,
+    "lng": -0.183203,
+    "ward": "Lancaster Gate"
+  },
+  "hiddenLondon:browning-wimpole-street": {
+    "placeId": "ChIJN4BJqEkbdkgRKyxwyMpgz0M",
+    "placesName": "Elizabeth Barrett Browning Brown Plaque",
+    "resolvedAddress": "Consulting Rooms, 50 Wimpole St, London W1G 8SQ, UK",
+    "postcode": "W1G 8SQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.519728,
+    "lng": -0.149218,
+    "postcodeTerminated": 2017
+  },
+  "hiddenLondon:burton-lyndhurst-road": {
+    "placeId": "ChIJrz2fWVkbdkgRLqVRT3EzAj8",
+    "placesName": "Richard Burton Blue Plaque",
+    "resolvedAddress": "6 Lyndhurst Rd, London NW3 5PX, UK",
+    "postcode": "NW3 5PX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.552683,
+    "lng": -0.173124,
+    "ward": "Hampstead Town"
+  },
+  "hiddenLondon:chopin-st-james-place": {
+    "placeId": "ChIJJUm1pDkFdkgRLpNVw4q-9yQ",
+    "placesName": "Blue Plaque Frederic Chopin",
+    "resolvedAddress": "4 St James's Pl, London SW1A 1NP, UK",
+    "postcode": "SW1A 1NP",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.505794,
+    "lng": -0.139869,
+    "ward": "St James's"
+  },
+  "hiddenLondon:christie-sheffield-terrace": {
+    "placeId": "ChIJgWO6E7oPdkgR2s_bv6r80So",
+    "placesName": "Blue Plaque: Agatha Christie",
+    "resolvedAddress": "58 Sheffield Terrace, London W8 7NA, UK",
+    "postcode": "W8 7NA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.505637,
+    "lng": -0.195973,
+    "ward": "Campden"
+  },
+  "hiddenLondon:churchill-hyde-park-gate": {
+    "placeId": "ChIJyenB5FsFdkgRlzD7jhJFfaM",
+    "placesName": "Blue Plaque: Sir Winston Churchill",
+    "resolvedAddress": "28 Hyde Park Gate, South Kensington, London SW7 5DJ, UK",
+    "postcode": "SW7 5DJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.500002,
+    "lng": -0.181687,
+    "ward": "Queen's Gate"
+  },
+  "hiddenLondon:coleridge-berners-street": {
+    "placeId": "ChIJWwv7QSsbdkgRytW8WVoIzpQ",
+    "placesName": "Blue Plaque: Samuel Taylor Coleridge",
+    "resolvedAddress": "71 Berners St, London W1T 3NL, UK",
+    "postcode": "W1T 3NL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.516669,
+    "lng": -0.136616,
+    "ward": "West End"
+  },
+  "hiddenLondon:collins-gloucester-place": {
+    "placeId": "ChIJl5tbUtAbdkgR_erZrd4hxLU",
+    "placesName": "William Wilkie Collins blue plaque",
+    "resolvedAddress": "65 Gloucester Pl, London W1U 8JL, UK",
+    "postcode": "W1U 8JL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.518579,
+    "lng": -0.158504,
+    "ward": "Marylebone"
+  },
+  "hiddenLondon:conrad-gillingham-street": {
+    "placeId": "ChIJ5ZBGvn8FdkgRPAOZ_TJlmHk",
+    "placesName": "Blue Plaque: Joseph Conrad",
+    "resolvedAddress": "17 Gillingham St, Pimlico, London SW1V 1HN, UK",
+    "postcode": "SW1V 1HN",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.493874,
+    "lng": -0.141234,
+    "ward": "Pimlico North"
+  },
+  "hiddenLondon:darwin-gower-street": {
+    "placeId": "ChIJqz5urVwbdkgRSxHKdnHMRpM",
+    "placesName": "UCL Darwin B40LT",
+    "resolvedAddress": "Gower St, London WC1E 6BT, UK",
+    "postcode": "WC1E 6BT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.523571,
+    "lng": -0.132398,
+    "ward": "Bloomsbury"
+  },
+  "hiddenLondon:disraeli-curzon-street": {
+    "placeId": "ChIJy_fbGvAFdkgRbdUVwk6GxwA",
+    "placesName": "Blue Plaque Benjamin Disraeli",
+    "resolvedAddress": "19 Curzon St, London W1J 7TB, UK",
+    "postcode": "W1J 7TB",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "lat": 51.506195,
+    "lng": -0.150444,
+    "ward": "West End"
+  },
+  "hiddenLondon:eliot-cheyne-walk": {
+    "placeId": "ChIJu0QEht8FdkgR7FMSiuVZ8_E",
+    "placesName": "Blue Plaque: George Eliot",
+    "resolvedAddress": "4 Cheyne Walk, London SW3 4HH, UK",
+    "postcode": "SW3 4HH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.485233,
+    "lng": -0.163017,
+    "ward": "Royal Hospital"
+  },
+  "hiddenLondon:engels-regents-park-road": {
+    "placeId": "ChIJD40DOOkadkgRtUABqYnKddo",
+    "placesName": "Blue Plaque: Friedrich Engels",
+    "resolvedAddress": "122 Regent's Park Rd, London NW1 8XL, UK",
+    "postcode": "NW1 8XL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.540699,
+    "lng": -0.157236,
+    "ward": "Primrose Hill"
+  },
+  "hiddenLondon:faraday-blandford-street": {
+    "placeId": "ChIJizPDvc0adkgRyRPnU7x5hu4",
+    "placesName": "Blue Plaque: Michael Faraday",
+    "resolvedAddress": "48 Blandford St, London W1U 7HU, UK",
+    "postcode": "W1U 7HU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.518495,
+    "lng": -0.154285,
+    "ward": "Marylebone"
+  },
+  "hiddenLondon:fleming-danvers-street": {
+    "placeId": "ChIJzwtTNs4FdkgRuDrksXqsUUY",
+    "placesName": "Blue Plaque: Alexander Fleming",
+    "resolvedAddress": "20a Danvers St, London SW3 5AT, UK",
+    "postcode": "SW3 5AT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.483434,
+    "lng": -0.172768,
+    "ward": "Chelsea Riverside"
+  },
+  "hiddenLondon:fleming-ebury-street": {
+    "placeId": "ChIJARqPMCIFdkgRYw7K0k-Z4Ps",
+    "placesName": "Blue Plaque: Ian Fleming",
+    "resolvedAddress": "22 Ebury St, London SW1W 8LW, UK",
+    "postcode": "SW1W 8LW",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.491136,
+    "lng": -0.152336,
+    "ward": "Knightsbridge & Belgravia"
+  },
+  "hiddenLondon:fonteyn-long-acre": {
+    "placeId": "ChIJbV-N73QFdkgR4P6ZkJKG_Wg",
+    "placesName": "Blue Plaque: Dame Margot Fonteyn",
+    "resolvedAddress": "118 Long Acre, London WC2E 9PA, UK",
+    "postcode": "WC2E 9PA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.512774,
+    "lng": -0.125274,
+    "ward": "St James's"
+  },
+  "hiddenLondon:franklin-drayton-gardens": {
+    "placeId": "ChIJPT4JSmQFdkgRxGh3kNKezTE",
+    "placesName": "Rosalind Franklin Blue Plaque",
+    "resolvedAddress": "Donovan Court, 107 Drayton Gardens, South Kensington, London SW10 9QT, UK",
+    "postcode": "SW10 9QT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.487489,
+    "lng": -0.179045,
+    "ward": "Courtfield"
+  },
+  "hiddenLondon:freud-maresfield-gardens": {
+    "placeId": "ChIJyxFtboUadkgRb0RdlOrRsBs",
+    "placesName": "Freud Museum London",
+    "resolvedAddress": "20 Maresfield Gardens, London NW3 5SX, UK",
+    "postcode": "NW3 5SX",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.548838,
+    "lng": -0.177417,
+    "ward": "Belsize"
+  },
+  "hiddenLondon:garrett-anderson-upper-berkeley-street": {
+    "placeId": "ChIJ0zzsJ68bdkgRZyokdTxWd-k",
+    "placesName": "Elizabeth Garrett Anderson Blue Plaque",
+    "resolvedAddress": "20 Upper Berkeley St, London W1H 7PF, UK",
+    "postcode": "W1H 7PF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515581,
+    "lng": -0.160557,
+    "ward": "Marylebone"
+  },
+  "hiddenLondon:gladstone-carlton-house-terrace": {
+    "placeId": "ChIJ_6XgT9AEdkgRRqq3Ox5jUc4",
+    "placesName": "10-11 Carlton House Terrace",
+    "resolvedAddress": "10-11 Carlton House Terrace, London SW1Y 5ED, UK",
+    "postcode": "SW1Y 5ED",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.507192,
+    "lng": -0.131599,
+    "ward": "St James's"
+  },
+  "hiddenLondon:handel-brook-street": {
+    "placeId": "ChIJ8TcYbCsFdkgREJn6RlCbKjw",
+    "placesName": "Handel Hendrix House",
+    "resolvedAddress": "25 Brook St, London W1K 4HB, UK",
+    "postcode": "W1K 4HB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.512967,
+    "lng": -0.145904,
+    "ward": "West End"
+  },
+  "hiddenLondon:hendrix-brook-street": {
+    "placeId": "ChIJc_wjbisFdkgRS2UapRrswuQ",
+    "placesName": "Jimi Hendrix flat",
+    "resolvedAddress": "23 Brook St, London W1K 4HA, UK",
+    "postcode": "W1K 4HA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.513073,
+    "lng": -0.145756,
+    "ward": "West End"
+  },
+  "hiddenLondon:henry-james-de-vere-gardens": {
+    "placeId": "ChIJb8EY5qwFdkgR0aSlYYfjm7k",
+    "placesName": "Blue Plaque: Henry James",
+    "resolvedAddress": "34 De Vere Gardens, London W8 5AQ, UK",
+    "postcode": "W8 5AQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.500111,
+    "lng": -0.185198,
+    "ward": "Queen's Gate"
+  },
+  "hiddenLondon:henson-downshire-hill": {
+    "placeId": "ChIJl1U0y0MbdkgRibQZke73oKI",
+    "placesName": "Blue Plaque: Jim Henson",
+    "resolvedAddress": "50 Downshire Hill, London NW3 1PA, UK",
+    "postcode": "NW3 1PA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.554821,
+    "lng": -0.171235,
+    "ward": "Hampstead Town"
+  },
+  "hiddenLondon:hitchcock-cromwell-road": {
+    "placeId": "ChIJk-H6VwAPdkgR65qopJ_pg6E",
+    "placesName": "Alfred Hitchcock Blue Plaque",
+    "resolvedAddress": "153 Cromwell Rd, London SW5 0TQ, UK",
+    "postcode": "SW5 0TQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.494512,
+    "lng": -0.190693,
+    "ward": "Courtfield"
+  },
+  "hiddenLondon:johnson-russell-street": {
+    "placeId": "ChIJ_zS9J0AFdkgRNk6sT3eXgvk",
+    "placesName": "James Boswell, Thomas Davies & Dr. Samuel Johnson Blue Plaque",
+    "resolvedAddress": "8 Russell St, London WC2B 5HZ, UK",
+    "postcode": "WC2B 5HZ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.51231,
+    "lng": -0.121531,
+    "ward": "St James's"
+  },
+  "hiddenLondon:joyce-campden-grove": {
+    "placeId": "ChIJ62qwq_APdkgR8TS2vYyNj60",
+    "placesName": "28 Campden Grove",
+    "resolvedAddress": "28 Campden Grove, London W8 4JQ, UK",
+    "postcode": "W8 4JQ",
+    "lat": 51.504107,
+    "lng": -0.194132,
+    "ward": "Campden"
+  },
+  "hiddenLondon:keats-keats-grove": {
+    "placeId": "ChIJy0CuXYoadkgR2yrvJVHxnkA",
+    "placesName": "Keats House",
+    "resolvedAddress": "Keats House, Keats Grove, London NW3 2RR, UK",
+    "postcode": "NW3 2RR",
+    "lat": 51.555484,
+    "lng": -0.168208,
+    "ward": "Hampstead Town"
+  },
+  "hiddenLondon:keynes-gordon-square": {
+    "placeId": "ChIJaZg4IiIbdkgRcWZ9ivfc438",
+    "placesName": "Blue Plaque: John Maynard Keynes",
+    "resolvedAddress": "Gordon Square, 46 Gordon Sq, London WC1H 0PD, UK",
+    "postcode": "WC1H 0PD",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.52447,
+    "lng": -0.130113,
+    "ward": "Bloomsbury"
+  },
+  "hiddenLondon:lennon-montagu-square": {
+    "placeId": "ChIJIxgGlcsadkgRp1aOKBi839A",
+    "placesName": "Blue Plaque: John Lennon",
+    "resolvedAddress": "34 Montagu Square, London W1H 2LJ, UK",
+    "postcode": "W1H 2LJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.518641,
+    "lng": -0.160116,
+    "ward": "Marylebone"
+  },
+  "hiddenLondon:lovelace-st-james-square": {
+    "placeId": "ChIJ8eZUosMFdkgRm2rxzVXTVHw",
+    "placesName": "Blue Plaque: Ada Lovelace",
+    "resolvedAddress": "12 St James's Square, London SW1Y 4LB, UK",
+    "postcode": "SW1Y 4LB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.507514,
+    "lng": -0.136571,
+    "ward": "St James's"
+  },
+  "hiddenLondon:marley-oakley-street": {
+    "placeId": "ChIJV6qjfgAFdkgRRlAWoRBQB2o",
+    "placesName": "Bob Marley Blue Plaque",
+    "resolvedAddress": "42A Oakley St, London SW3 5HA, UK",
+    "postcode": "SW3 5HA",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.484678,
+    "lng": -0.167793,
+    "ward": "Chelsea Riverside"
+  },
+  "hiddenLondon:moon-wardour-street": {
+    "placeId": "ChIJxXypAAAFdkgRL6_L0aPe_eo",
+    "placesName": "Keith Moon's Blue Plaque",
+    "resolvedAddress": "90 Wardour St, London W1F 0TH, UK",
+    "postcode": "W1F 0TH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.513396,
+    "lng": -0.133795,
+    "ward": "West End"
+  },
+  "hiddenLondon:morris-red-lion-square": {
+    "placeId": "ChIJASYThe2u2EcRj3jF9RCXI38",
+    "placesName": "National Trust - Red House",
+    "resolvedAddress": "Red House, Red House Ln, London, Bexleyheath DA6 8JF, UK",
+    "postcode": "DA6 8JF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.455562,
+    "lng": 0.129563,
+    "ward": "Crook Log"
+  },
+  "hiddenLondon:orwell-lawford-road": {
+    "placeId": "ChIJ4xwoA5kbdkgRLuJacimY8as",
+    "placesName": "Blue Plaque: George Orwell",
+    "resolvedAddress": "50 Lawford Rd, London NW5, UK",
+    "businessStatus": "OPERATIONAL"
+  },
+  "hiddenLondon:pankhurst-cheyne-walk": {
+    "placeId": "ChIJfVz9vG8FdkgRziAs8s0_M5o",
+    "placesName": "Sylvia Pankhurst Blue Plaque",
+    "resolvedAddress": "120 Cheyne Walk, London SW10 0ES, UK",
+    "postcode": "SW10 0ES",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.481278,
+    "lng": -0.176959,
+    "ward": "Chelsea Riverside"
+  },
+  "hiddenLondon:pankhursts-clarendon-road": {
+    "placeId": "ChIJb5lW1-APdkgRMjDAJItem8k",
+    "placesName": "50 Clarendon Rd",
+    "resolvedAddress": "50 Clarendon Rd, London W11 2HH, UK",
+    "postcode": "W11 2HH",
+    "lat": 51.510079,
+    "lng": -0.208897,
+    "ward": "Norland"
+  },
+  "hiddenLondon:pepys-buckingham-street": {
+    "placeId": "ChIJKYtdZcYFdkgRNi972lEPfJM",
+    "placesName": "Blue Plaque: Samuel Pepys",
+    "resolvedAddress": "14 Buckingham St, London WC2N 6DF, UK",
+    "postcode": "WC2N 6DF",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.50823,
+    "lng": -0.123428,
+    "ward": "St James's"
+  },
+  "hiddenLondon:plath-chalcot-square": {
+    "placeId": "ChIJlU4866sbdkgRBs3-KpkBVX0",
+    "placesName": "Blue Plaque: Sylvia Plath",
+    "resolvedAddress": "3 Chalcot Square, London NW1 8YB, UK",
+    "postcode": "NW1 8YB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.540682,
+    "lng": -0.155535,
+    "ward": "Primrose Hill"
+  },
+  "hiddenLondon:seacole-soho-square": {
+    "placeId": "ChIJxSAMHwAbdkgRicVNYMPgbSc",
+    "placesName": "Blue Plaque: Mary Seacole",
+    "resolvedAddress": "14 Soho Square, London W1D 3QG, UK",
+    "postcode": "W1D 3QG",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515969,
+    "lng": -0.132176,
+    "ward": "West End"
+  },
+  "hiddenLondon:ts-eliot-kensington-court-gardens": {
+    "placeId": "ChIJ0Suhd3MFdkgRP2B3vtykv5U",
+    "placesName": "Blue Plaque: T S Eliot",
+    "resolvedAddress": "3 Kensington Ct Pl, London W8 5QE, UK",
+    "postcode": "W8 5QE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.499879,
+    "lng": -0.187642,
+    "ward": "Queen's Gate"
+  },
+  "hiddenLondon:woolf-fitzroy-square": {
+    "placeId": "ChIJ510xgBEbdkgRDQ9-NMEhvkI",
+    "placesName": "Bernard Shaw & Virginia Woolf Blue Plaque",
+    "resolvedAddress": "29 Fitzroy Square, London W1T 6LQ, UK",
+    "postcode": "W1T 6LQ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.522542,
+    "lng": -0.140657,
+    "postcodeTerminated": 2025
+  },
+  "hiddenLondon:woolf-hogarth-house-richmond": {
+    "placeId": "ChIJSx8oTdgNdkgRWBq8j2d54PY",
+    "placesName": "Blue Plaque: Virginia Woolf",
+    "resolvedAddress": "34 Paradise Rd, Richmond TW9 1SE, UK",
+    "postcode": "TW9 1SE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.460375,
+    "lng": -0.301895,
+    "ward": "South Richmond"
+  },
   "hotels:aethos-london-shoreditch": {
     "placeId": "ChIJz0-W9q8cdkgR6_lUUo-4o54",
     "placesName": "Aethos London Shoreditch",

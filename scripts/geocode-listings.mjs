@@ -44,7 +44,7 @@ for (const envFile of [".env.local", ".env"]) {
 }
 
 const CACHE_PATH = "data/geo-cache.json";
-const TABS = { hotels: "Hotels", activities: "Activities", events: "Events" };
+const TABS = { hotels: "Hotels", activities: "Activities", events: "Events", hiddenLondon: "Hidden London" };
 
 const force = process.argv.includes("--force");
 const confirmed = process.argv.includes("--confirm");

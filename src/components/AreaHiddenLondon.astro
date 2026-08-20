@@ -1,0 +1,90 @@
+---
+// Blue plaques, and eventually street art / filming locations / general
+// hidden gems, injected into every area guide automatically. See
+// scripts/write-hidden-london.mjs for why this is one tab with a `type`
+// column rather than four separate ones, and why it is not just more rows
+// in Activities: nothing here is bookable, timed or ticketed - it is free,
+// self-guided, "worth a detour if you know it's there".
+//
+// A guide with no spots renders nothing at all.
+import data from "../data/hiddenLondon.json";
+
+interface Props {
+  articleId: string;
+  areaName: string;
+}
+const { articleId, areaName } = Astro.props as Props;
+
+type Spot = {
+  slug: string; name: string; type?: string; subject?: string; scheme?: string;
+  area?: string; station?: string; walkMin?: number;
+  address?: string; whyGo?: string; opNote?: string;
+};
+
+const TYPE_LABEL: Record<string, string> = {
+  "blue-plaque": "Blue plaque",
+  "street-art": "Street art",
+  "filming-location": "Filming location",
+  "hidden-gem": "Hidden gem",
+};
+
+const list = (data.spots as Spot[]).filter((s: any) => s.guide === articleId);
+---
+
+{list.length > 0 && (
+  <section class="area-hidden-london">
+    <h2 id="hidden-london">Hidden {areaName}</h2>
+    <p class="ahl-intro">
+      Free, self-guided and easy to walk past without knowing it's there.
+    </p>
+
+    <ul class="ahl-list">
+      {list.map((s) => (
+        <li class="ahl-item">
+          <div class="ahl-head">
+            <h3>{s.name}</h3>
+            {s.type && <span class="ahl-tag">{TYPE_LABEL[s.type] ?? s.type}</span>}
+          </div>
+
+          {s.subject && <p class="ahl-subject">{s.subject}</p>}
+
+          <p class="ahl-meta">
+            {s.address && <span>{s.address}</span>}
+            {s.station && <span>{s.walkMin ? `${s.walkMin} min from ${s.station}` : s.station}</span>}
+          </p>
+
+          {s.whyGo && <p class="ahl-why">{s.whyGo}</p>}
+          {s.opNote && <p class="ahl-note">{s.opNote}</p>}
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
+
+<style>
+  .area-hidden-london { margin-block: 3rem 2rem; }
+  .ahl-intro { margin: 0 0 1.5rem; opacity: 0.8; }
+  /* ul.<class>, not just .<class> - see AreaEvents.astro for why both the
+     section class and the element are required to beat
+     `.article__body :global(ul) { list-style: disc }` on specificity. */
+  .area-hidden-london ul.ahl-list {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    display: grid;
+    gap: 1.5rem;
+  }
+  .ahl-item { border-block-end: 1px solid var(--line, #e2e2e2); padding-block-end: 1.5rem; }
+  .ahl-list > .ahl-item:last-child { border-block-end: 0; padding-block-end: 0; }
+  .ahl-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 0.5rem; }
+  .ahl-head h3 { margin: 0; font-size: 1.1rem; }
+  .ahl-tag {
+    font-size: 0.7rem; letter-spacing: 0.04em; text-transform: uppercase;
+    padding: 0.1rem 0.45rem; border-radius: 3px; border: 1px solid currentColor;
+    opacity: 0.75;
+  }
+  .ahl-subject { margin: 0.35rem 0 0; font-weight: 650; }
+  .ahl-meta { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; margin: 0.35rem 0 0; font-size: 0.85rem; opacity: 0.75; }
+  .ahl-why { margin: 0.5rem 0 0; }
+  .ahl-note { margin: 0.4rem 0 0; font-size: 0.9rem; opacity: 0.85; }
+</style>

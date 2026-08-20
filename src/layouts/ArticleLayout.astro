@@ -10,6 +10,7 @@ import TableOfContents from "../components/TableOfContents.astro";
 import AreaAtAGlance from "../components/AreaAtAGlance.astro";
 import AreaActivities from "../components/AreaActivities.astro";
 import AreaEvents from "../components/AreaEvents.astro";
+import AreaHiddenLondon from "../components/AreaHiddenLondon.astro";
 import activityData from "../data/activities.json";
 import eventData from "../data/events.json";
 import hotelData from "../data/hotels.json";
@@ -254,6 +255,7 @@ const breadcrumbs = [
         <slot />
         {area && <AreaEvents articleId={articleId} areaName={area.name} />}
         {area && <AreaActivities articleId={articleId} areaName={area.name} />}
+        {area && <AreaHiddenLondon articleId={articleId} areaName={area.name} />}
         {area && <AreaHotels articleId={articleId} areaName={area.name} />}
         {area && (
           <CombineWith

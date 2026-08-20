@@ -18,10 +18,11 @@ import restaurantData from "../data/restaurants.json";
 import activityData from "../data/activities.json";
 import eventData from "../data/events.json";
 import hotelData from "../data/hotels.json";
+import hiddenLondonData from "../data/hiddenLondon.json";
 
 type Record = {
-  /** g = guide, r = restaurant, a = activity, e = event. Short because it repeats ~950 times. */
-  t: "g" | "r" | "a" | "e" | "h";
+  /** g = guide, r = restaurant, a = activity, e = event, h = hotel, s = hidden London spot. Short because it repeats ~950 times. */
+  t: "g" | "r" | "a" | "e" | "h" | "s";
   n: string;
   u: string;
   d?: string;
@@ -96,6 +97,17 @@ export const GET: APIRoute = async () => {
       u: h.guide ? `/articles/${h.guide}/#places-to-stay` : "/",
       d: h.whyGo,
       k: [h.propertyType, h.area, h.style, h.priceBand].filter(Boolean).join(" "),
+    });
+  }
+
+  for (const s of hiddenLondonData.spots as any[]) {
+    if (!s.name) continue;
+    records.push({
+      t: "s",
+      n: s.name,
+      u: s.guide ? `/articles/${s.guide}/#hidden-london` : "/",
+      d: s.whyGo,
+      k: [s.type, s.subject, s.area].filter(Boolean).join(" "),
     });
   }
 
