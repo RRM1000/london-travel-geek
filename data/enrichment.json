@@ -13,7 +13,9 @@
     "station": "Stamford Brook",
     "stationDistanceM": 244,
     "walkMin": 4,
-    "walkFrom": "Stamford Brook Underground Station"
+    "walkFrom": "Stamford Brook Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "130-primrose-hill": {
     "placeId": "ChIJr2pdkYMbdkgRA8NvGNXxsx4",
@@ -29,7 +31,10 @@
     "station": "Chalk Farm",
     "stationDistanceM": 522,
     "walkMin": 8,
-    "walkFrom": "Chalk Farm Underground Station"
+    "walkFrom": "Chalk Farm Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "http://www.130primrose.org/book",
+    "pressChecked": "2026-08-17"
   },
   "45-jermyn-st": {
     "placeId": "ChIJ73tgWNYEdkgR4BpdP758iak",
@@ -80,6 +85,7 @@
     "walkMin": 3,
     "walkFrom": "Goodge Street Underground Station"
   },
+  "a-bar-with-shapes-for-a-name": {},
   "a-wong": {
     "placeId": "ChIJkQhKHeAEdkgRbgw0TGfq-W8",
     "placesName": "A. Wong",
@@ -94,7 +100,11 @@
     "station": "Victoria",
     "stationDistanceM": 431,
     "walkMin": 7,
-    "walkFrom": "Victoria Underground Station"
+    "walkFrom": "Victoria Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/awong",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "addies-thai": {
     "placeId": "ChIJL3A7s4wPdkgR7lTHhI1QOwo",
@@ -110,7 +120,9 @@
     "station": "Earl's Court",
     "stationDistanceM": 113,
     "walkMin": 2,
-    "walkFrom": "Earl's Court Underground Station"
+    "walkFrom": "Earl's Court Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "akara": {
     "placeId": "ChIJUzxOg8UDdkgRiPdFh00wBOQ",
@@ -126,7 +138,10 @@
     "station": "London Bridge",
     "stationDistanceM": 168,
     "walkMin": 3,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/akara?venues=akara,akoko",
+    "pressChecked": "2026-08-17"
   },
   "akira-japan-house": {
     "placeId": "ChIJbYF04XsPdkgRYuY_9zvfWp8",
@@ -142,7 +157,10 @@
     "station": "High Street Kensington",
     "stationDistanceM": 171,
     "walkMin": 3,
-    "walkFrom": "High Street Kensington Underground Station"
+    "walkFrom": "High Street Kensington Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/akira/reservations/create/search?tracking=offers-dir",
+    "pressChecked": "2026-08-17"
   },
   "akoko": {
     "placeId": "ChIJU7uHDYcbdkgRttS28-dNO7E",
@@ -158,7 +176,10 @@
     "station": "Tottenham Court Road",
     "stationDistanceM": 392,
     "walkMin": 6,
-    "walkFrom": "Tottenham Court Road Underground Station"
+    "walkFrom": "Tottenham Court Road Underground Station",
+    "bookingPlatform": "sevenrooms, opentable",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/akoko?venues=akoko,akara",
+    "pressChecked": "2026-08-17"
   },
   "akub": {
     "placeId": "ChIJATbscqsPdkgRCYAYH3uom80",
@@ -174,8 +195,12 @@
     "station": "Notting Hill Gate",
     "stationDistanceM": 182,
     "walkMin": 3,
-    "walkFrom": "Notting Hill Gate Underground Station"
+    "walkFrom": "Notting Hill Gate Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/akub&quot;,",
+    "pressChecked": "2026-08-17"
   },
+  "al-boccon-divino": {},
   "al-jabal-bakery": {
     "placeId": "ChIJN8vmsMIRdkgRYuWzrbRjpEQ",
     "placesName": "Al-Jabal Bakery",
@@ -190,7 +215,9 @@
     "station": "North Acton",
     "stationDistanceM": 204,
     "walkMin": 3,
-    "walkFrom": "North Acton Underground Station"
+    "walkFrom": "North Acton Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "al-waha": {
     "placeId": "ChIJyzHZ3QEQdkgRCY4oi4U7fBo",
@@ -206,7 +233,10 @@
     "station": "Bayswater",
     "stationDistanceM": 413,
     "walkMin": 7,
-    "walkFrom": "Bayswater Underground Station"
+    "walkFrom": "Bayswater Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.alwahalondon.co.uk/",
+    "pressChecked": "2026-08-17"
   },
   "algerian-coffee-stores": {
     "placeId": "ChIJN6ouHdMEdkgRtkZxU06vadA",
@@ -222,7 +252,9 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 250,
     "walkMin": 4,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "alhaji-suya": {
     "placeId": "ChIJF6zSvhep2EcRihaj_--4uQM",
@@ -238,7 +270,9 @@
     "station": "Westcombe Park",
     "stationDistanceM": 384,
     "walkMin": 6,
-    "walkFrom": "Westcombe Park Rail Station"
+    "walkFrom": "Westcombe Park Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "all-roads": {
     "placeId": "ChIJW6ANzfcFdkgRDeYV_Acg_70",
@@ -254,7 +288,10 @@
     "station": "Brixton",
     "stationDistanceM": 212,
     "walkMin": 3,
-    "walkFrom": "Brixton Underground Station"
+    "walkFrom": "Brixton Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "http://www.allroadsldn.com/",
+    "pressChecked": "2026-08-17"
   },
   "all-star-lanes": {
     "placeId": "ChIJP_CVQ2QddkgRHQtdXYSTpZ0",
@@ -270,7 +307,10 @@
     "station": "Stratford",
     "stationDistanceM": 279,
     "walkMin": 5,
-    "walkFrom": "Stratford Underground Station"
+    "walkFrom": "Stratford Underground Station",
+    "bookingPlatform": "designmynight",
+    "bookingUrl": "https://www.allstarlanes.co.uk/book",
+    "pressChecked": "2026-08-17"
   },
   "alta": {
     "placeId": "ChIJafbmZIkFdkgRqp8wbAgkSaE",
@@ -286,7 +326,11 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 363,
     "walkMin": 6,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/altarestaurant/reservations/create/search/?venues=altarestaurant%2Cmoirestaurant",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "amaya": {
     "placeId": "ChIJp_GF9TsFdkgR-LPVooRUYyE",
@@ -302,8 +346,12 @@
     "station": "Knightsbridge",
     "stationDistanceM": 384,
     "walkMin": 6,
-    "walkFrom": "Knightsbridge Underground Station"
+    "walkFrom": "Knightsbridge Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "http://www.amaya.biz/reservations/",
+    "pressChecked": "2026-08-17"
   },
+  "american-bar-savoy": {},
   "andys-taverna": {
     "placeId": "ChIJRyzDxB8bdkgRSHoXhUaj5gk",
     "placesName": "Andy’s Greek Taverna",
@@ -318,7 +366,9 @@
     "station": "Camden Town Station  / Bayham Street",
     "stationDistanceM": 228,
     "walkMin": 4,
-    "walkFrom": "Camden Town Station  / Bayham Street"
+    "walkFrom": "Camden Town Station  / Bayham Street",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "angelina": {
     "placeId": "ChIJMVn0pZIcdkgRhP999ah47qk",
@@ -334,7 +384,9 @@
     "station": "Dalston Junction",
     "stationDistanceM": 356,
     "walkMin": 6,
-    "walkFrom": "Dalston Junction Rail Station"
+    "walkFrom": "Dalston Junction Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "anglothai": {
     "placeId": "ChIJf1zYBOYbdkgRpisa6lDN5es",
@@ -350,7 +402,10 @@
     "station": "Marble Arch",
     "stationDistanceM": 226,
     "walkMin": 4,
-    "walkFrom": "Marble Arch Underground Station"
+    "walkFrom": "Marble Arch Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/anglothai/reservations/create/search/landing",
+    "pressChecked": "2026-08-17"
   },
   "anima-e-cuore": {
     "rating": 4.5,
@@ -388,8 +443,12 @@
     "station": "Harringay Green Lanes",
     "stationDistanceM": 203,
     "walkMin": 3,
-    "walkFrom": "Harringay Green Lanes Rail Station"
+    "walkFrom": "Harringay Green Lanes Rail Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://anteplilerlondon.co.uk/wp-content/plugins/booking/vendors/_custom/bootstrap-css/css/bootstrap.css?ver=10.15.5",
+    "pressChecked": "2026-08-17"
   },
+  "antipodea-richmond": {},
   "appalachia": {
     "placeId": "ChIJOZ3OHgAddkgRhLn7uqAk3I0",
     "placesName": "Appalachia",
@@ -404,7 +463,10 @@
     "station": "Old Street",
     "stationDistanceM": 349,
     "walkMin": 6,
-    "walkFrom": "Old Street Underground Station"
+    "walkFrom": "Old Street Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/appalachia",
+    "pressChecked": "2026-08-17"
   },
   "aqua-shard": {
     "placeId": "ChIJl5tV7FoDdkgR6UIgihrVM4c",
@@ -420,7 +482,10 @@
     "station": "London Bridge",
     "stationDistanceM": 100,
     "walkMin": 2,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/aquashard/reservations/create/search/?venues=aquashard%2Chutonglondon%2Caquakyoto%2Caquanueva%2Cshiro%2Cazzurra%2Cdimsumlibrary&halo=60&start_time=20%3A30%3A00",
+    "pressChecked": "2026-08-17"
   },
   "arcade-food-hall": {
     "placeId": "ChIJq4eXqskbdkgRA71W0BW7-Ss",
@@ -436,7 +501,10 @@
     "station": "Tottenham Court Road",
     "stationDistanceM": 109,
     "walkMin": 2,
-    "walkFrom": "Tottenham Court Road Underground Station"
+    "walkFrom": "Tottenham Court Road Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/arcade/reservations/create/search/?_gl%3D1*1w8h3hi*_gcl_au*MTE5NzE3NDQwLjE3NTUwNzUwOTk.=&date=2026-05-23&venues=arcadecoventgarden%2Carcadebatterseapowerstation%2Cfoodhallground%2Csolis%2Cgraceys",
+    "pressChecked": "2026-08-17"
   },
   "arments-pie-and-mash": {
     "placeId": "ChIJPRYTu2IDdkgRJc6WPN2VmHQ",
@@ -452,8 +520,12 @@
     "station": "Kennington",
     "stationDistanceM": 1081,
     "walkMin": 18,
-    "walkFrom": "Kennington Underground Station"
+    "walkFrom": "Kennington Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
+  "arome-bakery": {},
+  "artesian": {},
   "artusi": {
     "rating": 4.7,
     "ratingCount": 1015,
@@ -491,8 +563,11 @@
     "station": "Leicester Square",
     "stationDistanceM": 191,
     "walkMin": 3,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
+  "august-bakery": {},
   "aun": {
     "placeId": "ChIJR-3oTGMcdkgRoDQRGdy8urs",
     "placesName": "AUN",
@@ -507,7 +582,10 @@
     "station": "Manor House",
     "stationDistanceM": 1459,
     "walkMin": 24,
-    "walkFrom": "Manor House Underground Station"
+    "walkFrom": "Manor House Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "http://www.aun-restaurant.com/book-a-table/",
+    "pressChecked": "2026-08-17"
   },
   "ave-mario": {
     "website": "https://www.bigmammagroup.com/italian-restaurants/ave-mario",
@@ -546,7 +624,10 @@
     "station": "King's Cross St. Pancras",
     "stationDistanceM": 640,
     "walkMin": 10,
-    "walkFrom": "King's Cross St. Pancras Underground Station"
+    "walkFrom": "King's Cross St. Pancras Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "http://www.baba-tang.com/reservations",
+    "pressChecked": "2026-08-17"
   },
   "babur": {
     "placeId": "ChIJw4LAETQCdkgR1C87idsdJR0",
@@ -562,7 +643,10 @@
     "station": "Honor Oak Park",
     "stationDistanceM": 412,
     "walkMin": 7,
-    "walkFrom": "Honor Oak Park Rail Station"
+    "walkFrom": "Honor Oak Park Rail Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.babur.info/reservations",
+    "pressChecked": "2026-08-17"
   },
   "bad-boy-pizza-society": {
     "postcode": "WC2H 9LD",
@@ -587,6 +671,7 @@
     "bookingUrl": "https://www.sevendialsmarket.com/book-a-table/",
     "pressChecked": "2026-08-17"
   },
+  "badiani": {},
   "balady": {
     "placeId": "ChIJDYn3G6MQdkgRvyjEaVwVitU",
     "placesName": "Balady",
@@ -600,8 +685,11 @@
     "station": "Golders Green",
     "stationDistanceM": 1011,
     "walkMin": 16,
-    "walkFrom": "Golders Green Underground Station"
+    "walkFrom": "Golders Green Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
+  "bamboo-mat-stratford": {},
   "bancone": {
     "website": "https://www.bancone.co.uk/",
     "bookingPlatform": "sevenrooms",
@@ -654,7 +742,8 @@
     "station": "Old Street",
     "stationDistanceM": 469,
     "walkMin": 8,
-    "walkFrom": "Old Street Underground Station"
+    "walkFrom": "Old Street Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "baoziinn": {
     "placeId": "ChIJvcL6FQAFdkgRFg4LFK4Asp8",
@@ -670,6 +759,7 @@
     "walkMin": 1,
     "walkFrom": "Leicester Square Underground Station"
   },
+  "bar-crispin": {},
   "bar-etna": {
     "placeId": "ChIJ4-IK9rEddkgRJ17qx-zJ8Xw",
     "placesName": "Bar Etna",
@@ -684,7 +774,9 @@
     "station": "Canonbury",
     "stationDistanceM": 497,
     "walkMin": 8,
-    "walkFrom": "Canonbury Rail Station"
+    "walkFrom": "Canonbury Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "bar-italia": {
     "postcode": "W1D 4RF",
@@ -721,8 +813,12 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 363,
     "walkMin": 6,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/barkroketabroadgate/reservations/create/search/?date=2025-05-15",
+    "pressChecked": "2026-08-17"
   },
+  "bar-termini": {},
   "barbarella": {
     "website": "https://www.bigmammagroup.com/italian-restaurants/barbarella",
     "bookingPlatform": "sevenrooms, opentable",
@@ -746,6 +842,7 @@
     "walkFrom": "Canary Wharf Underground Station",
     "pressChecked": "2026-08-17"
   },
+  "barge-east": {},
   "barrafina-dean-street": {
     "placeId": "ChIJqeYp3NIEdkgRl9hMI8pRL8U",
     "placesName": "Barrafina Dean Street",
@@ -760,8 +857,13 @@
     "station": "Tottenham Court Road",
     "stationDistanceM": 292,
     "walkMin": 5,
-    "walkFrom": "Tottenham Court Road Underground Station"
+    "walkFrom": "Tottenham Court Road Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "http://www.barrafina.com/book-your-private-event/?location=",
+    "pressChecked": "2026-08-17"
   },
+  "beany-green-little-venice": {},
+  "beigel-bake": {},
   "beit-el-zaytoun": {
     "placeId": "ChIJA6xR4OoRdkgR4-UOEEYmmqM",
     "placesName": "Beit el Zaytoun",
@@ -776,7 +878,9 @@
     "station": "Harlesden",
     "stationDistanceM": 511,
     "walkMin": 8,
-    "walkFrom": "Harlesden Underground Station"
+    "walkFrom": "Harlesden Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "belly-bistro": {
     "placeId": "ChIJtQrXZhMbdkgRJxv-z_nrNnI",
@@ -792,7 +896,11 @@
     "station": "Kentish Town",
     "stationDistanceM": 598,
     "walkMin": 10,
-    "walkFrom": "Kentish Town Underground Station"
+    "walkFrom": "Kentish Town Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/belly-reservations-london-2?restref=387702&lang=en-GB&ot_source=Restaurant%20website",
+    "pressKit": "https://www.bellylondon.com/press",
+    "pressChecked": "2026-08-17"
   },
   "benares": {
     "placeId": "ChIJAStk3ysFdkgR8XBBK_CEfuU",
@@ -808,7 +916,8 @@
     "station": "Green Park",
     "stationDistanceM": 243,
     "walkMin": 4,
-    "walkFrom": "Green Park Underground Station"
+    "walkFrom": "Green Park Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "berber-and-q": {
     "placeId": "ChIJp6OY5pUcdkgR_azKFN-fhps",
@@ -823,7 +932,9 @@
     "station": "Haggerston",
     "stationDistanceM": 91,
     "walkMin": 1,
-    "walkFrom": "Haggerston Rail Station"
+    "walkFrom": "Haggerston Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "berbere-stratford": {
     "placeId": "ChIJgXKfp7UddkgRk4BhcOS7n7M",
@@ -839,7 +950,10 @@
     "station": "Stratford",
     "stationDistanceM": 177,
     "walkMin": 3,
-    "walkFrom": "Stratford Underground Station"
+    "walkFrom": "Stratford Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.berberepizzeria.co.uk/book-here/",
+    "pressChecked": "2026-08-17"
   },
   "berenjak": {
     "placeId": "ChIJm2ZLEzMFdkgRZrDcaZENVrw",
@@ -855,7 +969,8 @@
     "station": "Leicester Square",
     "stationDistanceM": 210,
     "walkMin": 3,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingProbe": "HTTP 429"
   },
   "berners-tavern": {
     "placeId": "ChIJ5UF8ZSsbdkgRd4khmyxok1U",
@@ -871,7 +986,10 @@
     "station": "Tottenham Court Road",
     "stationDistanceM": 392,
     "walkMin": 6,
-    "walkFrom": "Tottenham Court Road Underground Station"
+    "walkFrom": "Tottenham Court Road Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.com/booking/restref/availability?restref=96693",
+    "pressChecked": "2026-08-17"
   },
   "berut-bistro": {
     "placeId": "ChIJX4h_BQ0bdkgRjjpa9boAYl4",
@@ -887,7 +1005,10 @@
     "station": "Baker Street",
     "stationDistanceM": 330,
     "walkMin": 5,
-    "walkFrom": "Baker Street Underground Station"
+    "walkFrom": "Baker Street Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.berut.co.uk/reservations",
+    "pressChecked": "2026-08-17"
   },
   "bibi": {
     "placeId": "ChIJYWoeDNwFdkgRO0iJcsoOUQM",
@@ -903,7 +1024,11 @@
     "station": "Bond Street",
     "stationDistanceM": 342,
     "walkMin": 6,
-    "walkFrom": "Bond Street Underground Station"
+    "walkFrom": "Bond Street Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/bibi",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "bjs-pie-and-mash": {
     "placeId": "ChIJFd3WJuen2EcRSTa5kNOY-lE",
@@ -952,7 +1077,10 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 310,
     "walkMin": 5,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/bobbobricardsoho/reservations/create/search/?venues=bobbobricardcity,bebebob,bobbobricardsoho",
+    "pressChecked": "2026-08-17"
   },
   "bocca-di-lupo": {
     "website": "https://www.boccadilupo.com/",
@@ -1012,7 +1140,9 @@
     "station": "Leicester Square",
     "stationDistanceM": 210,
     "walkMin": 3,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "bonheur-by-matt-abe": {
     "placeId": "ChIJmx5ydgAFdkgRr871ONe-sks",
@@ -1028,8 +1158,13 @@
     "station": "Marble Arch",
     "stationDistanceM": 384,
     "walkMin": 6,
-    "walkFrom": "Marble Arch Underground Station"
+    "walkFrom": "Marble Arch Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/bonheur-by-matt-abe-london",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
+  "bonoo-indian-tapas": {},
   "borough-market": {
     "placeId": "ChIJD2bPdVcDdkgRuUSgnOXnKDE",
     "placesName": "Borough Market",
@@ -1044,7 +1179,9 @@
     "station": "London Bridge",
     "stationDistanceM": 112,
     "walkMin": 2,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "bouchon-racine": {
     "placeId": "ChIJyUtvKA0bdkgRSlDGC0DA5VM",
@@ -1060,7 +1197,10 @@
     "station": "Farringdon",
     "stationDistanceM": 204,
     "walkMin": 3,
-    "walkFrom": "Farringdon Underground Station"
+    "walkFrom": "Farringdon Underground Station",
+    "bookingPlatform": "sevenrooms, opentable",
+    "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?rid=288510&lang=en-GB&color=1&r3uid=cfe&dark=false&correlationId=a0d5b239-ba08-41c0-99dd-83b83bd7a961&restRef=288510&partySize=2&dateTime=2026-01-18T19:00&otSource=Restaurant%20website",
+    "pressChecked": "2026-08-17"
   },
   "brasserie-of-light": {
     "placeId": "ChIJtZ0NZlEFdkgRQ_UgH7iIgEw",
@@ -1076,7 +1216,10 @@
     "station": "Bond Street",
     "stationDistanceM": 161,
     "walkMin": 3,
-    "walkFrom": "Bond Street Underground Station"
+    "walkFrom": "Bond Street Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/booking/experiences-availability?rid=166908&#038;restref=166908&#038;experienceId=529598&#038;utm_source=external&#038;utm_medium=referral&#038;utm_campaign=shared",
+    "pressChecked": "2026-08-17"
   },
   "brat": {
     "placeId": "ChIJ7XVltrAcdkgRISmskLX7lbw",
@@ -1085,7 +1228,9 @@
     "postcode": "E1 6JL",
     "website": "http://bratrestaurant.com/",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "None"
+    "closedDays": "None",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "brawn": {
     "placeId": "ChIJr0I4YsccdkgRxIajTnwBuUs",
@@ -1101,7 +1246,10 @@
     "station": "Bethnal Green",
     "stationDistanceM": 955,
     "walkMin": 16,
-    "walkFrom": "Bethnal Green Underground Station"
+    "walkFrom": "Bethnal Green Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "http://www.brawn.co/",
+    "pressChecked": "2026-08-17"
   },
   "bread-ahead": {
     "placeId": "ChIJBwCND1cDdkgR0uUFSNBwcvU",
@@ -1117,7 +1265,9 @@
     "station": "London Bridge",
     "stationDistanceM": 84,
     "walkMin": 1,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "bread-street-kitchen": {
     "placeId": "ChIJIUU-lPsFdkgR8992QN-bR3w",
@@ -1133,8 +1283,12 @@
     "station": "Battersea Power Station",
     "stationDistanceM": 231,
     "walkMin": 4,
-    "walkFrom": "Battersea Power Station Underground Station"
+    "walkFrom": "Battersea Power Station Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?rid=80215&restref=80215&lang=en-GB&color=8&r3uid=cfe&dark=false&ot_source=Restaurant%20website&logo_pid=77125652&background_pid=0&font=arialBlack&ot_logo=subtle&primary_color=edecff&primary_font_color=333333&button_color=beb29d&button_font_col",
+    "pressChecked": "2026-08-17"
   },
+  "bread-street-kitchen-stratford": {},
   "breadstall": {
     "postcode": "W1F 0QB",
     "lat": 51.513205,
@@ -1157,6 +1311,7 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "brick-lane-market": {},
   "brigadiers": {
     "placeId": "ChIJU1e3CVUDdkgRbWhGVEiDv0Y",
     "placesName": "Brigadiers",
@@ -1171,7 +1326,10 @@
     "station": "Cannon Street",
     "stationDistanceM": 67,
     "walkMin": 1,
-    "walkFrom": "Cannon Street Underground Station"
+    "walkFrom": "Cannon Street Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/brigadiers/reservations/create/search?venues=brigadiers%2Cambassadorsclubhouse%2Ctrishna",
+    "pressChecked": "2026-08-17"
   },
   "broadway-market": {
     "placeId": "ChIJE_fFMugcdkgRy_7GrAalYlE",
@@ -1187,7 +1345,9 @@
     "station": "Cambridge Heath (London)",
     "stationDistanceM": 517,
     "walkMin": 8,
-    "walkFrom": "Cambridge Heath (London) Rail Station"
+    "walkFrom": "Cambridge Heath (London) Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "brooklands": {
     "placeId": "ChIJn6GfuNgFdkgRVm_XNMCoaCM",
@@ -1203,7 +1363,8 @@
     "station": "Hyde Park Corner",
     "stationDistanceM": 248,
     "walkMin": 4,
-    "walkFrom": "Hyde Park Corner Underground Station"
+    "walkFrom": "Hyde Park Corner Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "browns-hotel-tea": {
     "placeId": "ChIJP4LZ8ikFdkgRUmF0m4CmccM",
@@ -1261,7 +1422,10 @@
     "station": "Aldgate East",
     "stationDistanceM": 245,
     "walkMin": 4,
-    "walkFrom": "Aldgate East Underground Station"
+    "walkFrom": "Aldgate East Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid=418572&rid=352215&rid=288186&type=multi&theme=wide&color=8&dark=false&iframe=false&domain=couk&lang=en-GB&newtab=false&ot_source=Restaurant%20website&font=brandonText&ot_logo=standard&primary_color=f0f0e4&primary_font_color=333333&button_colo",
+    "pressChecked": "2026-08-17"
   },
   "bun-house": {
     "placeId": "ChIJxfwuvtIEdkgRzkGKnK1ssek",
@@ -1277,7 +1441,10 @@
     "station": "Leicester Square",
     "stationDistanceM": 59,
     "walkMin": 1,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/bunhousedisco/reservations/create/search",
+    "pressChecked": "2026-08-17"
   },
   "burro": {
     "placeId": "ChIJn0cIykwFdkgRkJL_xSjcqYI",
@@ -1293,7 +1460,10 @@
     "station": "Covent Garden",
     "stationDistanceM": 236,
     "walkMin": 4,
-    "walkFrom": "Covent Garden Underground Station"
+    "walkFrom": "Covent Garden Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/burro/reservations/create/search/?venues=burro%2Ctrullo",
+    "pressChecked": "2026-08-17"
   },
   "cafe-cecilia": {
     "placeId": "ChIJCX4xlukddkgR8tsZRDamZIY",
@@ -1309,7 +1479,11 @@
     "station": "Cambridge Heath (London)",
     "stationDistanceM": 294,
     "walkMin": 5,
-    "walkFrom": "Cambridge Heath (London) Rail Station"
+    "walkFrom": "Cambridge Heath (London) Rail Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.cafececilia.com/",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "cafe-deco": {
     "placeId": "ChIJXfFmCi4bdkgRsVdN6uqy7LE",
@@ -1325,7 +1499,10 @@
     "station": "Goodge Street",
     "stationDistanceM": 309,
     "walkMin": 5,
-    "walkFrom": "Goodge Street Underground Station"
+    "walkFrom": "Goodge Street Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "http://cafe-deco.co.uk/reservations",
+    "pressChecked": "2026-08-17"
   },
   "cafe-helen": {
     "placeId": "ChIJY4fpXrUadkgR679-0xPYiQ4",
@@ -1341,7 +1518,9 @@
     "station": "Marble Arch",
     "stationDistanceM": 391,
     "walkMin": 6,
-    "walkFrom": "Marble Arch Underground Station"
+    "walkFrom": "Marble Arch Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "cafe-murano": {
     "placeId": "ChIJGVQ1VMoEdkgRdIvOMEsGuyw",
@@ -1357,7 +1536,10 @@
     "station": "Covent Garden",
     "stationDistanceM": 330,
     "walkMin": 5,
-    "walkFrom": "Covent Garden Underground Station"
+    "walkFrom": "Covent Garden Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/cafemuranomarylebone",
+    "pressChecked": "2026-08-17"
   },
   "cafe-tpt": {
     "placeId": "ChIJG2axStIEdkgRXZSpR-z16rM",
@@ -1373,7 +1555,9 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 163,
     "walkMin": 3,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "cake-and-bingsoo": {
     "placeId": "ChIJvfzjJBMJdkgRYd-vwcKyrCQ",
@@ -1389,7 +1573,9 @@
     "station": "New Malden",
     "stationDistanceM": 231,
     "walkMin": 4,
-    "walkFrom": "New Malden Rail Station"
+    "walkFrom": "New Malden Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "calong": {
     "placeId": "ChIJLQdehE4ddkgRxLFhX21MWJQ",
@@ -1405,7 +1591,10 @@
     "station": "Stoke Newington",
     "stationDistanceM": 477,
     "walkMin": 8,
-    "walkFrom": "Stoke Newington Rail Station"
+    "walkFrom": "Stoke Newington Rail Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/calong/reservations/create/search/",
+    "pressChecked": "2026-08-17"
   },
   "camberwell-arms": {
     "placeId": "ChIJoaxnTn8DdkgRmUPgKypV5uA",
@@ -1440,7 +1629,9 @@
     "station": "Camden Town",
     "stationDistanceM": 295,
     "walkMin": 5,
-    "walkFrom": "Camden Town Underground Station"
+    "walkFrom": "Camden Town Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "camille": {
     "placeId": "ChIJM8wydFcDdkgR1VMuBfgCMjo",
@@ -1456,7 +1647,10 @@
     "station": "London Bridge",
     "stationDistanceM": 168,
     "walkMin": 3,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.camillerestaurant.co.uk/reservations",
+    "pressChecked": "2026-08-17"
   },
   "campania-and-jones": {
     "placeId": "ChIJr7swXMccdkgRyumen_CsjYo",
@@ -1533,7 +1727,8 @@
     "station": "Hyde Park Corner",
     "stationDistanceM": 248,
     "walkMin": 4,
-    "walkFrom": "Hyde Park Corner Underground Station"
+    "walkFrom": "Hyde Park Corner Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "caravan-coffee": {
     "placeId": "ChIJT_W5ikUbdkgRoEa2c9t3e5s",
@@ -1549,7 +1744,10 @@
     "station": "Farringdon",
     "stationDistanceM": 635,
     "walkMin": 10,
-    "walkFrom": "Farringdon Underground Station"
+    "walkFrom": "Farringdon Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/caravanrestaurants/reservations/create/search?venues=caravankingscross,caravancanarywharf,caravancity,caravancoventgarden,caravanexmouthmarket,caravanfitzrovia,caravanbankside,vardochelsea,caravanmanchester",
+    "pressChecked": "2026-08-17"
   },
   "carbon-kopi": {
     "placeId": "ChIJry88BTMPdkgRIwcvwuIfD9E",
@@ -1565,7 +1763,10 @@
     "station": "Barons Court",
     "stationDistanceM": 481,
     "walkMin": 8,
-    "walkFrom": "Barons Court Underground Station"
+    "walkFrom": "Barons Court Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressKit": "https://carbonkopi.com/press/",
+    "pressChecked": "2026-08-17"
   },
   "carlotta": {
     "website": "https://www.bigmammagroup.com/italian-restaurants/carlotta",
@@ -1604,7 +1805,10 @@
     "station": "Queen's Park",
     "stationDistanceM": 98,
     "walkMin": 2,
-    "walkFrom": "Queen's Park Underground Station"
+    "walkFrom": "Queen's Park Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/casafelicia/reservations/create/search",
+    "pressChecked": "2026-08-17"
   },
   "casse-croute": {
     "placeId": "ChIJq-3ryUQDdkgRSZrC9yowifE",
@@ -1620,7 +1824,9 @@
     "station": "London Bridge",
     "stationDistanceM": 838,
     "walkMin": 14,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "catalyst-coffee": {
     "placeId": "ChIJbeLD-0sbdkgRp4IcJrH47b8",
@@ -1636,7 +1842,9 @@
     "station": "Chancery Lane",
     "stationDistanceM": 89,
     "walkMin": 1,
-    "walkFrom": "Chancery Lane Underground Station"
+    "walkFrom": "Chancery Lane Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "cavita": {
     "placeId": "ChIJ1-ByNTkbdkgRwi6Z6EHwE_c",
@@ -1652,7 +1860,10 @@
     "station": "Bond Street",
     "stationDistanceM": 195,
     "walkMin": 3,
-    "walkFrom": "Bond Street Underground Station"
+    "walkFrom": "Bond Street Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/cavita-reservations-london?restref=260439&lang=en-GB&ot_source=Restaurant%20website&quot;,",
+    "pressChecked": "2026-08-17"
   },
   "cay-tre": {
     "placeId": "ChIJrYGa4tIEdkgRGkur5G-08qg",
@@ -1668,7 +1879,10 @@
     "station": "Leicester Square",
     "stationDistanceM": 306,
     "walkMin": 5,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingPlatform": "sevenrooms, resdiary",
+    "bookingUrl": "https://www.sevenrooms.com/explore/caytre/reservations/create/search",
+    "pressChecked": "2026-08-17"
   },
   "cecconis-mayfair": {
     "rating": 4.3,
@@ -1692,6 +1906,7 @@
     "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid=4919",
     "pressChecked": "2026-08-17"
   },
+  "cedric-grolet-berkeley": {},
   "champagne-fromage-greenwich": {
     "placeId": "ChIJAXMIVMoEdkgRiUMNbYDZAt4",
     "placesName": "Champagne+Fromage",
@@ -1706,8 +1921,11 @@
     "station": "Cutty Sark (for Maritime Greenwich)",
     "stationDistanceM": 146,
     "walkMin": 2,
-    "walkFrom": "Cutty Sark (for Maritime Greenwich) DLR Station"
+    "walkFrom": "Cutty Sark (for Maritime Greenwich) DLR Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
+  "chatsworth-bakehouse": {},
   "cheemc-soho": {
     "placeId": "ChIJmVvXllUFdkgRlS7x6wToE4E",
     "placesName": "CheeMC Soho ( ft.Karaoke)",
@@ -1722,7 +1940,11 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 107,
     "walkMin": 2,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.cheemcuk.com/reservations",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "chets": {
     "placeId": "ChIJ5bIj5skPdkgRTKuLl5SHDcE",
@@ -1738,7 +1960,10 @@
     "station": "Shepherd's Bush Market",
     "stationDistanceM": 241,
     "walkMin": 4,
-    "walkFrom": "Shepherd's Bush Market Underground Station"
+    "walkFrom": "Shepherd's Bush Market Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/chets",
+    "pressChecked": "2026-08-17"
   },
   "chez-bruce": {
     "placeId": "ChIJFTMRjekFdkgRNMUgOPPr5VY",
@@ -1754,7 +1979,10 @@
     "station": "Wandsworth Common",
     "stationDistanceM": 173,
     "walkMin": 3,
-    "walkFrom": "Wandsworth Common Rail Station"
+    "walkFrom": "Wandsworth Common Rail Station",
+    "bookingPlatform": "sevenrooms, opentable",
+    "bookingUrl": "http://www.opentable.co.uk/restaurant/profile/80884/reserve?rid=80884&restref=80884",
+    "pressChecked": "2026-08-17"
   },
   "chick-and-beers": {
     "placeId": "ChIJv5S1uBwJdkgR5Wj0c_M1bT0",
@@ -1770,8 +1998,11 @@
     "station": "Motspur Park",
     "stationDistanceM": 545,
     "walkMin": 9,
-    "walkFrom": "Motspur Park Rail Station"
+    "walkFrom": "Motspur Park Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
+  "chin-chin-ice-cream": {},
   "chinatown-bakery": {
     "placeId": "ChIJPXN_fNIEdkgRg6DhnlDgPMU",
     "placesName": "Chinatown Bakery",
@@ -1786,7 +2017,8 @@
     "station": "Leicester Square",
     "stationDistanceM": 59,
     "walkMin": 1,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "chinese-tapas-house": {
     "placeId": "ChIJUQm1hc0EdkgRS4F-XHn_wzs",
@@ -1817,7 +2049,11 @@
     "station": "Oxford Circus",
     "stationDistanceM": 219,
     "walkMin": 4,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "http://www.chishuru.com/reservations",
+    "pressKit": "http://www.chishuru.com/press",
+    "pressChecked": "2026-08-17"
   },
   "chisou-mayfair": {
     "placeId": "ChIJA2F7oSwFdkgRVkmQrSL-ok8",
@@ -1833,7 +2069,10 @@
     "station": "Bond Street",
     "stationDistanceM": 238,
     "walkMin": 4,
-    "walkFrom": "Bond Street Underground Station"
+    "walkFrom": "Bond Street Underground Station",
+    "bookingPlatform": "resdiary",
+    "bookingUrl": "https://booking.resdiary.com/widget/CrossSell/ChisouJapaneseRestaurant/68339",
+    "pressChecked": "2026-08-17"
   },
   "chucs-mayfair": {
     "placeId": "ChIJCcmFhSkFdkgRHDCyjdt3M9o",
@@ -1868,7 +2107,11 @@
     "station": "Seven Sisters",
     "stationDistanceM": 216,
     "walkMin": 4,
-    "walkFrom": "Seven Sisters Underground Station"
+    "walkFrom": "Seven Sisters Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/chukus/reservations/create/search/",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "chungdam": {
     "placeId": "ChIJv8kC4l4FdkgRFyD0Rcge33A",
@@ -1884,7 +2127,10 @@
     "station": "Leicester Square",
     "stationDistanceM": 129,
     "walkMin": 2,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "http://chungdam.co.uk/booking-1",
+    "pressChecked": "2026-08-17"
   },
   "ciao-bella": {
     "rating": 4.4,
@@ -1945,7 +2191,10 @@
     "station": "Aldgate East",
     "stationDistanceM": 671,
     "walkMin": 11,
-    "walkFrom": "Aldgate East Underground Station"
+    "walkFrom": "Aldgate East Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://cityspice.co/book-now/",
+    "pressChecked": "2026-08-17"
   },
   "claridges-tea": {
     "placeId": "ChIJcZY1XAAFdkgRieYQg6UqpzQ",
@@ -1979,7 +2228,9 @@
     "station": "Cambridge Heath (London)",
     "stationDistanceM": 517,
     "walkMin": 8,
-    "walkFrom": "Cambridge Heath (London) Rail Station"
+    "walkFrom": "Cambridge Heath (London) Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "clio": {
     "placeId": "ChIJ0ydGUwAbdkgRrZlMwfaVjOA",
@@ -1995,7 +2246,10 @@
     "station": "Baker Street",
     "stationDistanceM": 353,
     "walkMin": 6,
-    "walkFrom": "Baker Street Underground Station"
+    "walkFrom": "Baker Street Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.com/r/clio-restaurant-london",
+    "pressChecked": "2026-08-17"
   },
   "coal-office": {
     "placeId": "ChIJ1VnckU8bdkgRyBKFAs4NHus",
@@ -2011,7 +2265,10 @@
     "station": "London St Pancras International",
     "stationDistanceM": 194,
     "walkMin": 3,
-    "walkFrom": "London St Pancras International Rail Station"
+    "walkFrom": "London St Pancras International Rail Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/coalofficerestaurant",
+    "pressChecked": "2026-08-17"
   },
   "cockneys-pie-and-mash": {
     "placeId": "ChIJVdDZwRgQdkgRocGvAtlCFW4",
@@ -2042,7 +2299,9 @@
     "station": "Holborn",
     "stationDistanceM": 320,
     "walkMin": 5,
-    "walkFrom": "Holborn Underground Station"
+    "walkFrom": "Holborn Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "colonel-saab": {
     "placeId": "ChIJnVf83AIbdkgR054D55weEBY",
@@ -2058,7 +2317,9 @@
     "station": "Holborn",
     "stationDistanceM": 124,
     "walkMin": 2,
-    "walkFrom": "Holborn Underground Station"
+    "walkFrom": "Holborn Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "comalera": {
     "placeId": "ChIJy7g5ZQAddkgR19BhKczaCaQ",
@@ -2074,7 +2335,9 @@
     "station": "St James Street (London)",
     "stationDistanceM": 126,
     "walkMin": 2,
-    "walkFrom": "St James Street (London) Rail Station"
+    "walkFrom": "St James Street (London) Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "cometa": {
     "placeId": "ChIJ5xXNZQAbdkgRfHnQ8-4e1vc",
@@ -2090,7 +2353,10 @@
     "station": "Goodge Street",
     "stationDistanceM": 293,
     "walkMin": 5,
-    "walkFrom": "Goodge Street Underground Station"
+    "walkFrom": "Goodge Street Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/cometa-reservations-london?restref=462975&#038;lang=en-GB&#038;ot_source=Restaurant%20website",
+    "pressChecked": "2026-08-17"
   },
   "common-breads": {
     "placeId": "ChIJ-xBcaZEFdkgRZ6htuvgyCWI",
@@ -2106,7 +2372,9 @@
     "station": "Victoria",
     "stationDistanceM": 461,
     "walkMin": 7,
-    "walkFrom": "Victoria Underground Station"
+    "walkFrom": "Victoria Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "como-garden": {
     "placeId": "ChIJaeQLjSYPdkgRsYMDcjvWeeA",
@@ -2127,6 +2395,7 @@
     "bookingUrl": "https://comogarden.co.uk/reservation/",
     "pressChecked": "2026-08-17"
   },
+  "connaught-bar": {},
   "connies-pizza": {
     "rating": 4.5,
     "ratingCount": 154,
@@ -2164,7 +2433,9 @@
     "station": "Oxford Circus",
     "stationDistanceM": 431,
     "walkMin": 7,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "core-by-clare-smyth": {
     "placeId": "ChIJVVU8V-IPdkgRzKjRtNrdvDw",
@@ -2180,7 +2451,10 @@
     "station": "Holland Park",
     "stationDistanceM": 572,
     "walkMin": 9,
-    "walkFrom": "Holland Park Underground Station"
+    "walkFrom": "Holland Park Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/core-by-clare-smyth-london",
+    "pressChecked": "2026-08-17"
   },
   "corinthia-afternoon-tea": {
     "placeId": "ChIJ0dU6L88EdkgRSRva6TI0lsY",
@@ -2196,7 +2470,11 @@
     "station": "Embankment",
     "stationDistanceM": 200,
     "walkMin": 3,
-    "walkFrom": "Embankment Underground Station"
+    "walkFrom": "Embankment Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/mezzogiornobyfrancescomazzei/reservations/create/search/?date=2025-11-20",
+    "pressKit": "https://www.corinthia.com/en-gb/press/",
+    "pressChecked": "2026-08-17"
   },
   "corrochios": {
     "placeId": "ChIJuVb3Nf4ddkgRsLKQYx8o44c",
@@ -2212,8 +2490,11 @@
     "station": "Dalston Kingsland",
     "stationDistanceM": 445,
     "walkMin": 7,
-    "walkFrom": "Dalston Kingsland Rail Station"
+    "walkFrom": "Dalston Kingsland Rail Station",
+    "bookingProbe": "HTTP 403"
   },
+  "coupette": {},
+  "crate-brewery": {},
   "crisp-at-the-marlborough": {
     "postcode": "W1K 6WD",
     "lat": 51.513407,
@@ -2251,7 +2532,9 @@
     "station": "Cutty Sark (for Maritime Greenwich)",
     "stationDistanceM": 39,
     "walkMin": 1,
-    "walkFrom": "Cutty Sark (for Maritime Greenwich) DLR Station"
+    "walkFrom": "Cutty Sark (for Maritime Greenwich) DLR Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "da-terra": {
     "placeId": "ChIJn-wx7LQddkgRMWv5bVEiEfQ",
@@ -2267,7 +2550,11 @@
     "station": "Bethnal Green",
     "stationDistanceM": 311,
     "walkMin": 5,
-    "walkFrom": "Bethnal Green Underground Station"
+    "walkFrom": "Bethnal Green Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.daterra.co.uk/reservations/",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "dalla-hackney": {
     "rating": 4.5,
@@ -2328,7 +2615,11 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 163,
     "walkMin": 3,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.darjeeling-express.com/book-a-table",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "darwin-brasserie": {
     "placeId": "ChIJO_02aFIDdkgRf2-gsHxdgEQ",
@@ -2344,7 +2635,11 @@
     "station": "Monument",
     "stationDistanceM": 208,
     "walkMin": 3,
-    "walkFrom": "Monument Underground Station"
+    "walkFrom": "Monument Underground Station",
+    "bookingPlatform": "sevenrooms, designmynight",
+    "bookingUrl": "https://skygarden.london/restaurants/darwin-brasserie/",
+    "pressKit": "https://skygarden.london/press/",
+    "pressChecked": "2026-08-17"
   },
   "dehesa": {
     "placeId": "ChIJy6_-DNUEdkgRY6DEXuVnbPE",
@@ -2360,7 +2655,10 @@
     "station": "Oxford Circus",
     "stationDistanceM": 411,
     "walkMin": 7,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.dehesa.co.uk/reservations",
+    "pressChecked": "2026-08-17"
   },
   "dim-sum-and-duck": {
     "placeId": "ChIJ_VaSF-EbdkgRzhykHlZzu6E",
@@ -2376,7 +2674,9 @@
     "station": "King's Cross St. Pancras",
     "stationDistanceM": 504,
     "walkMin": 8,
-    "walkFrom": "King's Cross St. Pancras Underground Station"
+    "walkFrom": "King's Cross St. Pancras Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "dim-sum-library": {
     "placeId": "ChIJ_cuULhwFdkgRrkoPKONqcwI",
@@ -2392,7 +2692,10 @@
     "station": "Covent Garden",
     "stationDistanceM": 163,
     "walkMin": 3,
-    "walkFrom": "Covent Garden Underground Station"
+    "walkFrom": "Covent Garden Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/dimsumlibrary/reservations/create/search?venues=dimsumlibrary%2Caquashard%2Chutonglondon%2Caquakyoto%2Caquanueva%2Cshiro%2Cazzurra",
+    "pressChecked": "2026-08-17"
   },
   "din-tai-fung-covent-garden": {
     "placeId": "ChIJGco1pPMFdkgRBYvJLBKyJIo",
@@ -2408,7 +2711,10 @@
     "station": "Covent Garden",
     "stationDistanceM": 288,
     "walkMin": 5,
-    "walkFrom": "Covent Garden Underground Station"
+    "walkFrom": "Covent Garden Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/dintaifungcanarywharf",
+    "pressChecked": "2026-08-17"
   },
   "dinings-sw3": {
     "placeId": "ChIJ__9Lhz8FdkgRdyenFjfQu5c",
@@ -2424,8 +2730,12 @@
     "station": "Sloane Square",
     "stationDistanceM": 672,
     "walkMin": 11,
-    "walkFrom": "Sloane Square Underground Station"
+    "walkFrom": "Sloane Square Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/diningssw3",
+    "pressChecked": "2026-08-17"
   },
+  "diogenes-the-dog": {},
   "dishoom": {
     "placeId": "ChIJxZXYx7cEdkgRdgAOZ6OHOJw",
     "placesName": "Dishoom Covent Garden",
@@ -2440,7 +2750,10 @@
     "station": "Covent Garden",
     "stationDistanceM": 163,
     "walkMin": 3,
-    "walkFrom": "Covent Garden Underground Station"
+    "walkFrom": "Covent Garden Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/dishoom/reservations/create/search?venues=dishoombattersea%2Cdishoomcarnaby%2Cdishoomcanarywharf%2Cdishoomcoventgarden%2Cdishoomkensington%2Cdishoomkingscross%2Cdishoomshoreditch%2Cdishoombirmingham%2Cdishoomedinburgh%2Cdishoomglasgow%2Cdishoomleeds%2Cdishoommanche",
+    "pressChecked": "2026-08-17"
   },
   "doma": {
     "placeId": "ChIJYWWuRm8DdkgRCO3Mm87XfZ8",
@@ -2456,7 +2769,11 @@
     "station": "Sydenham",
     "stationDistanceM": 663,
     "walkMin": 11,
-    "walkFrom": "Sydenham Rail Station"
+    "walkFrom": "Sydenham Rail Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "http://mysticburek.com/book",
+    "pressKit": "http://mysticburek.com/press",
+    "pressChecked": "2026-08-17"
   },
   "donia": {
     "placeId": "ChIJTUoBsQAFdkgRNfxmFv7zQIU",
@@ -2472,7 +2789,10 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 363,
     "walkMin": 6,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.com/booking/experiences-availability?rid=345105&restref=345105&experienceId=544139",
+    "pressChecked": "2026-08-17"
   },
   "dorian": {
     "placeId": "ChIJR1l41mURdkgRZuhK2hbBxRM",
@@ -2488,7 +2808,10 @@
     "station": "Westbourne Park",
     "stationDistanceM": 573,
     "walkMin": 9,
-    "walkFrom": "Westbourne Park Underground Station"
+    "walkFrom": "Westbourne Park Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/dorianrestaurant/reservations/create/search/?venues=dorianrestaurant,eelsushi,urchin",
+    "pressChecked": "2026-08-17"
   },
   "dough-hands": {
     "postcode": "E8 1AB",
@@ -2526,7 +2849,10 @@
     "station": "Tower Hill",
     "stationDistanceM": 325,
     "walkMin": 5,
-    "walkFrom": "Tower Hill Underground Station"
+    "walkFrom": "Tower Hill Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://dreamxian.co.uk/reservation/",
+    "pressChecked": "2026-08-17"
   },
   "duck-and-waffle": {
     "placeId": "ChIJX__2lbIcdkgRPCpSjiwV5LM",
@@ -2542,8 +2868,13 @@
     "station": "Liverpool Street",
     "stationDistanceM": 215,
     "walkMin": 3,
-    "walkFrom": "Liverpool Street Underground Station"
+    "walkFrom": "Liverpool Street Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/duckandwaffle",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
+  "dukes-bar": {},
   "dumplings-legend": {
     "placeId": "ChIJgXkeTNIEdkgR37iIbxKkXYM",
     "placesName": "Dumplings' Legend",
@@ -2558,7 +2889,8 @@
     "station": "Leicester Square",
     "stationDistanceM": 183,
     "walkMin": 3,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingProbe": "fetch failed"
   },
   "durak-tantuni": {
     "placeId": "ChIJe8kfzvcbdkgRzNuOyHx5Kj8",
@@ -2589,8 +2921,11 @@
     "station": "Bethnal Green",
     "stationDistanceM": 604,
     "walkMin": 10,
-    "walkFrom": "Bethnal Green Underground Station"
+    "walkFrom": "Bethnal Green Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
+  "e5-bakehouse": {},
   "eat-tokyo": {
     "placeId": "ChIJ572PCpwQdkgR_gTaiwG04Kw",
     "placesName": "Eat Tokyo",
@@ -2605,7 +2940,9 @@
     "station": "Golders Green",
     "stationDistanceM": 140,
     "walkMin": 2,
-    "walkFrom": "Golders Green Underground Station"
+    "walkFrom": "Golders Green Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "eataly-london": {
     "rating": 4.1,
@@ -2642,7 +2979,10 @@
     "station": "London Bridge",
     "stationDistanceM": 168,
     "walkMin": 3,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.tacoselpastor.co.uk/",
+    "pressChecked": "2026-08-17"
   },
   "elephant-hackney": {
     "rating": 4.4,
@@ -2681,7 +3021,9 @@
     "station": "Knightsbridge",
     "stationDistanceM": 344,
     "walkMin": 6,
-    "walkFrom": "Knightsbridge Underground Station"
+    "walkFrom": "Knightsbridge Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "ember-yard": {
     "placeId": "ChIJGVU0SCsbdkgRs9Xe9Ys3q9U",
@@ -2697,7 +3039,10 @@
     "station": "Oxford Circus",
     "stationDistanceM": 410,
     "walkMin": 7,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.emberyard.co.uk/reservations",
+    "pressChecked": "2026-08-17"
   },
   "empire-empire": {
     "placeId": "ChIJYZTHoCgRdkgResU548KLYtU",
@@ -2713,7 +3058,10 @@
     "station": "Westbourne Park",
     "stationDistanceM": 477,
     "walkMin": 8,
-    "walkFrom": "Westbourne Park Underground Station"
+    "walkFrom": "Westbourne Park Underground Station",
+    "bookingPlatform": "sevenrooms, opentable",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/empireempirelondon",
+    "pressChecked": "2026-08-17"
   },
   "enfes-ocakbasi": {
     "placeId": "ChIJt0PQhvQbdkgRp-UB9nlD7pA",
@@ -2729,7 +3077,10 @@
     "station": "Harringay Green Lanes",
     "stationDistanceM": 319,
     "walkMin": 5,
-    "walkFrom": "Harringay Green Lanes Rail Station"
+    "walkFrom": "Harringay Green Lanes Rail Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://enfesocakbasiharingey.co.uk/booking/",
+    "pressChecked": "2026-08-17"
   },
   "engawa": {
     "placeId": "ChIJVfSai9MEdkgRP0tOx-AQT7g",
@@ -2745,7 +3096,10 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 107,
     "walkMin": 2,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/engawa/reservations/create/search?tracking=offers-dir",
+    "pressChecked": "2026-08-17"
   },
   "enoteca-turi": {
     "rating": 4.5,
@@ -2779,7 +3133,10 @@
     "station": "Shepherd's Bush Market",
     "stationDistanceM": 324,
     "walkMin": 5,
-    "walkFrom": "Shepherd's Bush Market Underground Station"
+    "walkFrom": "Shepherd's Bush Market Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://esarnkheaw.com/reservations/",
+    "pressChecked": "2026-08-17"
   },
   "escocesa": {
     "placeId": "ChIJZf_R-GMcdkgRAETZkm4WYc4",
@@ -2795,7 +3152,10 @@
     "station": "Stoke Newington",
     "stationDistanceM": 419,
     "walkMin": 7,
-    "walkFrom": "Stoke Newington Rail Station"
+    "walkFrom": "Stoke Newington Rail Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/escocesa&quot;,",
+    "pressChecked": "2026-08-17"
   },
   "etles": {
     "placeId": "ChIJ42C4jesddkgRXd9iVSYhPrk",
@@ -2811,7 +3171,10 @@
     "station": "Walthamstow Central",
     "stationDistanceM": 255,
     "walkMin": 4,
-    "walkFrom": "Walthamstow Central Underground Station"
+    "walkFrom": "Walthamstow Central Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://etleswalthamstow.com/reservation.html",
+    "pressChecked": "2026-08-17"
   },
   "f-cooke": {
     "placeId": "ChIJl6GXzekcdkgR4gDZF4H8gec",
@@ -2856,7 +3219,9 @@
     "station": "Denmark Hill",
     "stationDistanceM": 646,
     "walkMin": 10,
-    "walkFrom": "Denmark Hill Rail Station"
+    "walkFrom": "Denmark Hill Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "falafel-zaki-zaki": {
     "placeId": "ChIJc_PJ_JgRdkgRbSphAhRTktM",
@@ -2872,7 +3237,9 @@
     "station": "Ladbroke Grove",
     "stationDistanceM": 520,
     "walkMin": 8,
-    "walkFrom": "Ladbroke Grove Underground Station"
+    "walkFrom": "Ladbroke Grove Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "fallow": {
     "placeId": "ChIJSWN4ldUEdkgRGqo3OSnf1CY",
@@ -2888,7 +3255,10 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 171,
     "walkMin": 3,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "sevenrooms, resy",
+    "bookingUrl": "https://www.sevenrooms.com/explore/fallowstjames/reservations/create/search?venues=roe%2Cfallowstjames%2Cfowl",
+    "pressChecked": "2026-08-17"
   },
   "farang": {
     "placeId": "ChIJRQ4C2IEbdkgR7h4L8oxsFqI",
@@ -2904,7 +3274,10 @@
     "station": "Arsenal",
     "stationDistanceM": 680,
     "walkMin": 11,
-    "walkFrom": "Arsenal Underground Station"
+    "walkFrom": "Arsenal Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.payst.co.uk/books/cook-thai",
+    "pressChecked": "2026-08-17"
   },
   "fish-central": {
     "placeId": "ChIJodgyrlkbdkgRpTkiN78fBlc",
@@ -2919,7 +3292,10 @@
     "station": "Old Street",
     "stationDistanceM": 651,
     "walkMin": 11,
-    "walkFrom": "Old Street Underground Station"
+    "walkFrom": "Old Street Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.fishcentral.co.uk/reservations",
+    "pressChecked": "2026-08-17"
   },
   "fish-lounge": {
     "placeId": "ChIJe7CRrUEEdkgRDX9V-HpwDXw",
@@ -2950,7 +3326,9 @@
     "station": "South Wimbledon",
     "stationDistanceM": 307,
     "walkMin": 5,
-    "walkFrom": "South Wimbledon Underground Station"
+    "walkFrom": "South Wimbledon Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "flour-and-grape": {
     "website": "https://www.flourandgrape.com/",
@@ -2989,8 +3367,12 @@
     "station": "Denmark Hill",
     "stationDistanceM": 542,
     "walkMin": 9,
-    "walkFrom": "Denmark Hill Rail Station"
+    "walkFrom": "Denmark Hill Rail Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://static.parastorage.com/services/table-reservations-ooi/1.2801.0/ReservationAddOnViewerWidget.min.css",
+    "pressChecked": "2026-08-17"
   },
+  "fortitude-bakehouse": {},
   "fortnum-and-mason": {
     "placeId": "ChIJ__8_XtYEdkgRtTLtWfASNFg",
     "placesName": "Fortnum & Mason",
@@ -3036,7 +3418,10 @@
     "station": "Waterloo",
     "stationDistanceM": 305,
     "walkMin": 5,
-    "walkFrom": "Waterloo Underground Station"
+    "walkFrom": "Waterloo Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/forzawine/reservations/create/search/",
+    "pressChecked": "2026-08-17"
   },
   "four-seasons-chinatown": {
     "placeId": "ChIJQ2EPIvYFdkgRUiSW5HC-pbU",
@@ -3052,7 +3437,10 @@
     "station": "Leicester Square",
     "stationDistanceM": 183,
     "walkMin": 3,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/restaurant/profile/463200/reserve?rid=463200&restref=463200",
+    "pressChecked": "2026-08-17"
   },
   "franco-manca": {
     "website": "https://www.francomanca.co.uk/",
@@ -3090,7 +3478,9 @@
     "station": "Knightsbridge",
     "stationDistanceM": 383,
     "walkMin": 6,
-    "walkFrom": "Knightsbridge Underground Station"
+    "walkFrom": "Knightsbridge Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "frog-by-adam-handling": {
     "placeId": "ChIJww-u68sEdkgR3lqhkcsnvBY",
@@ -3106,7 +3496,10 @@
     "station": "Embankment",
     "stationDistanceM": 347,
     "walkMin": 6,
-    "walkFrom": "Embankment Underground Station"
+    "walkFrom": "Embankment Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/the-frog-by-adam-handling-reservations-london?restref=138309&lang=en-GB&ot_source=Restaurant%20website",
+    "pressChecked": "2026-08-17"
   },
   "g-kelly": {
     "placeId": "ChIJ93NOWzwddkgRMbtaZ4F_XcQ",
@@ -3122,8 +3515,12 @@
     "station": "Bow Road",
     "stationDistanceM": 656,
     "walkMin": 11,
-    "walkFrom": "Bow Road Underground Station"
+    "walkFrom": "Bow Road Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
+  "gelupo": {},
+  "ginger-and-white": {},
   "gloria": {
     "website": "https://www.bigmammagroup.com/italian-restaurants/gloria",
     "bookingPlatform": "sevenrooms, opentable",
@@ -3161,7 +3558,9 @@
     "station": "Cutty Sark (for Maritime Greenwich)",
     "stationDistanceM": 209,
     "walkMin": 3,
-    "walkFrom": "Cutty Sark (for Maritime Greenwich) DLR Station"
+    "walkFrom": "Cutty Sark (for Maritime Greenwich) DLR Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "gokyuzu": {
     "placeId": "ChIJUSFBifQbdkgRUHyy26cz5pA",
@@ -3177,7 +3576,9 @@
     "station": "Harringay Green Lanes",
     "stationDistanceM": 314,
     "walkMin": 5,
-    "walkFrom": "Harringay Green Lanes Rail Station"
+    "walkFrom": "Harringay Green Lanes Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "golden-phoenix": {
     "placeId": "ChIJG_ojXdIEdkgROUqxGJsvJG8",
@@ -3193,7 +3594,10 @@
     "station": "Leicester Square",
     "stationDistanceM": 117,
     "walkMin": 2,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://goldenphoenixchinatown.co.uk/book-a-table/",
+    "pressChecked": "2026-08-17"
   },
   "golden-union-fish-bar": {
     "placeId": "ChIJLZnILisbdkgR1ok3oOdfcl4",
@@ -3209,7 +3613,8 @@
     "station": "Oxford Circus",
     "stationDistanceM": 340,
     "walkMin": 6,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "good-friend-chicken": {
     "placeId": "ChIJf-oJh80EdkgROLGi4ytKhx8",
@@ -3225,7 +3630,9 @@
     "station": "Leicester Square",
     "stationDistanceM": 52,
     "walkMin": 1,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "graceys-pizza": {
     "postcode": "WC2H 8AJ",
@@ -3264,7 +3671,10 @@
     "station": "Notting Hill Gate",
     "stationDistanceM": 558,
     "walkMin": 9,
-    "walkFrom": "Notting Hill Gate Underground Station"
+    "walkFrom": "Notting Hill Gate Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/grangerandcochelsea/reservations/create/search/?venues=grangerandcochelsea,grangercomarylebone,grangerconottinghill,grangercoclerkenwell,grangercokingcross",
+    "pressChecked": "2026-08-17"
   },
   "green-valley": {
     "placeId": "ChIJ2yECzsoadkgRjTIWZKVNeo4",
@@ -3280,7 +3690,9 @@
     "station": "Marble Arch",
     "stationDistanceM": 274,
     "walkMin": 4,
-    "walkFrom": "Marble Arch Underground Station"
+    "walkFrom": "Marble Arch Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "greenwich-market": {
     "placeId": "ChIJy1h2_oQCdkgRl3802pWBEMM",
@@ -3295,11 +3707,13 @@
     "website": "https://www.bigmammagroup.com/",
     "pressChecked": "2026-08-17"
   },
+  "group:Daisy Green Collection": {},
   "group:Devonshire / Crisp group": {},
   "group:Dorchester Collection": {
     "website": "https://www.dorchestercollection.com/",
     "pressError": "HTTP 403"
   },
+  "group:Gordon Ramsay Restaurants": {},
   "group:InterContinental London Park Lane": {
     "website": "https://www.ihg.com/intercontinental/hotels/gb/en/london/lonhb/hoteldetail",
     "pressChecked": "2026-08-17"
@@ -3308,6 +3722,7 @@
     "website": "https://jksrestaurants.com/",
     "pressChecked": "2026-08-17"
   },
+  "group:Koya": {},
   "group:Langham Hospitality Group": {
     "website": "https://www.langhamhotels.com/",
     "pressKit": "https://www.langhamhospitalitygroup.com/en/media/latest-news/",
@@ -3318,6 +3733,7 @@
     "pressKit": "https://www.mweat.com/media-centre/",
     "pressChecked": "2026-08-17"
   },
+  "group:Maguro Group": {},
   "group:Mandarin Oriental Hotel Group": {
     "website": "https://www.mandarinoriental.com/",
     "pressKit": "contact-only",
@@ -3327,11 +3743,14 @@
     "website": "https://www.maybourne.com/",
     "pressChecked": "2026-08-17"
   },
+  "group:Med Salleh": {},
   "group:Mercato Metropolitano": {},
+  "group:Nobu": {},
   "group:Oetker Collection": {
     "website": "https://www.oetkercollection.com/",
     "pressError": "HTTP 429"
   },
+  "group:Ottolenghi": {},
   "group:Red Carnation Hotels": {
     "website": "https://www.redcarnationhotels.com/",
     "pressKit": "https://www.redcarnationhotels.com/media",
@@ -3384,7 +3803,8 @@
     "station": "Peckham Rye",
     "stationDistanceM": 29,
     "walkMin": 1,
-    "walkFrom": "Peckham Rye Rail Station"
+    "walkFrom": "Peckham Rye Rail Station",
+    "bookingProbe": "HTTP 403"
   },
   "gymkhana": {
     "placeId": "ChIJtwn55ikFdkgRAvOuPIWeLM0",
@@ -3400,7 +3820,8 @@
     "station": "Green Park",
     "stationDistanceM": 170,
     "walkMin": 3,
-    "walkFrom": "Green Park Underground Station"
+    "walkFrom": "Green Park Underground Station",
+    "bookingProbe": "HTTP 429"
   },
   "hakata-ramen-bar": {
     "placeId": "ChIJp1HZnu4DdkgRvTsOY-XpU_4",
@@ -3416,7 +3837,9 @@
     "station": "Borough",
     "stationDistanceM": 958,
     "walkMin": 16,
-    "walkFrom": "Borough Underground Station"
+    "walkFrom": "Borough Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "hakkasan": {
     "placeId": "ChIJydjklNQEdkgRRkTHmCM_92o",
@@ -3432,8 +3855,13 @@
     "station": "Green Park",
     "stationDistanceM": 350,
     "walkMin": 6,
-    "walkFrom": "Green Park Underground Station"
+    "walkFrom": "Green Park Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/hakkasanmayfairlondon/reservations/create/search/",
+    "pressChecked": "2026-08-17"
   },
+  "half-cut-market": {},
+  "happiness-forgets": {},
   "harwood-arms": {
     "placeId": "ChIJYbZdgoUPdkgRrBtAYcMgkBc",
     "placesName": "The Harwood Arms",
@@ -3487,7 +3915,8 @@
     "station": "Holborn",
     "stationDistanceM": 121,
     "walkMin": 2,
-    "walkFrom": "Holborn Underground Station"
+    "walkFrom": "Holborn Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "hide": {
     "placeId": "ChIJn1DE_XsFdkgR6NyYk4IWd64",
@@ -3503,7 +3932,10 @@
     "station": "Green Park",
     "stationDistanceM": 135,
     "walkMin": 2,
-    "walkFrom": "Green Park Underground Station"
+    "walkFrom": "Green Park Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/hidegrounduk/reservations/create/search?date=2026-08-15",
+    "pressChecked": "2026-08-17"
   },
   "himi": {
     "placeId": "ChIJ55chIgAFdkgR88fqT5B_wsM",
@@ -3519,7 +3951,10 @@
     "station": "Oxford Circus",
     "stationDistanceM": 367,
     "walkMin": 6,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingPlatform": "resdiary",
+    "bookingUrl": "https://booking.resdiary.com/widget/Standard/HIMI/57222",
+    "pressChecked": "2026-08-17"
   },
   "hoa-sen": {
     "placeId": "ChIJeU02ZoobdkgRwndbVajk-FU",
@@ -3535,7 +3970,10 @@
     "station": "Covent Garden",
     "stationDistanceM": 234,
     "walkMin": 4,
-    "walkFrom": "Covent Garden Underground Station"
+    "walkFrom": "Covent Garden Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.hoasen.co.uk/book-a-table",
+    "pressChecked": "2026-08-17"
   },
   "hobbs-roast": {
     "placeId": "ChIJ8VG0dlcDdkgRLqK2fsgzCqE",
@@ -3589,7 +4027,10 @@
     "station": "Leytonstone",
     "stationDistanceM": 197,
     "walkMin": 3,
-    "walkFrom": "Leytonstone Underground Station"
+    "walkFrom": "Leytonstone Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/homiesondonkeysrestaurant/reservations/create/search/",
+    "pressChecked": "2026-08-17"
   },
   "honey-and-co": {
     "placeId": "ChIJq0DYJigbdkgRzbM2gAvqJPs",
@@ -3605,7 +4046,10 @@
     "station": "Russell Square",
     "stationDistanceM": 451,
     "walkMin": 7,
-    "walkFrom": "Russell Square Underground Station"
+    "walkFrom": "Russell Square Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://shop.honeyandco.co.uk/collections/books",
+    "pressChecked": "2026-08-17"
   },
   "hons-bbq": {
     "placeId": "ChIJnUSaBiUddkgRHKqF6rGnrac",
@@ -3621,7 +4065,10 @@
     "station": "Hackney Wick",
     "stationDistanceM": 206,
     "walkMin": 3,
-    "walkFrom": "Hackney Wick Rail Station"
+    "walkFrom": "Hackney Wick Rail Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/honsbbq/reservations/create/search/",
+    "pressChecked": "2026-08-17"
   },
   "hoppers-soho": {
     "placeId": "ChIJr0tb59IEdkgRv-YdFGtD1CA",
@@ -3637,7 +4084,10 @@
     "station": "Leicester Square",
     "stationDistanceM": 253,
     "walkMin": 4,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/hopperssoho/reservations/create/search/?searchTab=group_bookings",
+    "pressChecked": "2026-08-17"
   },
   "hoxton-beach-falafel": {
     "placeId": "ChIJ8X-QM6gcdkgRJWUOLyihhmo",
@@ -3668,7 +4118,8 @@
     "station": "Cutty Sark (for Maritime Greenwich)",
     "stationDistanceM": 224,
     "walkMin": 4,
-    "walkFrom": "Cutty Sark (for Maritime Greenwich) DLR Station"
+    "walkFrom": "Cutty Sark (for Maritime Greenwich) DLR Station",
+    "bookingProbe": "HTTP 403"
   },
   "hummus-bar": {
     "placeId": "ChIJHVnb9pkQdkgRBz4WohT_kO4",
@@ -3684,7 +4135,10 @@
     "station": "Golders Green",
     "stationDistanceM": 275,
     "walkMin": 4,
-    "walkFrom": "Golders Green Underground Station"
+    "walkFrom": "Golders Green Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://mytools.aleno.me/reservations/v2.0/reservations.css",
+    "pressChecked": "2026-08-17"
   },
   "hunan-pimlico": {
     "placeId": "ChIJAz_ZYhcFdkgRvs31bOm2Omc",
@@ -3700,7 +4154,10 @@
     "station": "Sloane Square",
     "stationDistanceM": 395,
     "walkMin": 6,
-    "walkFrom": "Sloane Square Underground Station"
+    "walkFrom": "Sloane Square Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/hunan/reservations/create/search/&quot;,",
+    "pressChecked": "2026-08-17"
   },
   "hyderabadi-spice": {
     "placeId": "ChIJ0zceYEym2EcRTZPy1Q4iqsk",
@@ -3716,7 +4173,9 @@
     "station": "East Ham",
     "stationDistanceM": 372,
     "walkMin": 6,
-    "walkFrom": "East Ham Underground Station"
+    "walkFrom": "East Ham Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "ibai": {
     "placeId": "ChIJk3pEE20bdkgReS3Ye_l5sRQ",
@@ -3732,7 +4191,10 @@
     "station": "Barbican",
     "stationDistanceM": 263,
     "walkMin": 4,
-    "walkFrom": "Barbican Underground Station"
+    "walkFrom": "Barbican Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.ibai.london/",
+    "pressChecked": "2026-08-17"
   },
   "ikoyi": {
     "placeId": "ChIJkw2CZtEEdkgRgiNBxbdniHE",
@@ -3748,7 +4210,11 @@
     "station": "Temple",
     "stationDistanceM": 122,
     "walkMin": 2,
-    "walkFrom": "Temple Underground Station"
+    "walkFrom": "Temple Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "http://ikoyilondon.com/",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "il-gattopardo": {
     "website": "https://gattopardo.restaurant/location/london/",
@@ -3787,7 +4253,10 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 363,
     "walkMin": 6,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/imads-syrian-kitchen-reservations-london?restref=244287&lang=en-GB&ot_source=Restaurant%20website&quot;,",
+    "pressChecked": "2026-08-17"
   },
   "imone": {
     "placeId": "ChIJ-Zf-owcJdkgRFWhjku8cSUk",
@@ -3803,7 +4272,10 @@
     "station": "New Malden",
     "stationDistanceM": 569,
     "walkMin": 9,
-    "walkFrom": "New Malden Rail Station"
+    "walkFrom": "New Malden Rail Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://imonebbq.com/bookings",
+    "pressChecked": "2026-08-17"
   },
   "impala": {
     "placeId": "ChIJ7-ZZXQAFdkgRSTL7vNlRbzs",
@@ -3819,7 +4291,10 @@
     "station": "Tottenham Court Road",
     "stationDistanceM": 324,
     "walkMin": 5,
-    "walkFrom": "Tottenham Court Road Underground Station"
+    "walkFrom": "Tottenham Court Road Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/impala/reservations/create/search",
+    "pressChecked": "2026-08-17"
   },
   "imperial-treasure": {
     "placeId": "ChIJpbwBCY4FdkgR4DAgeXXfXro",
@@ -3835,7 +4310,9 @@
     "station": "Charing Cross",
     "stationDistanceM": 330,
     "walkMin": 5,
-    "walkFrom": "Charing Cross Underground Station"
+    "walkFrom": "Charing Cross Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "ishbilia": {
     "placeId": "ChIJvV3f1DsFdkgR2h7GjWyrodk",
@@ -3851,7 +4328,10 @@
     "station": "Knightsbridge",
     "stationDistanceM": 189,
     "walkMin": 3,
-    "walkFrom": "Knightsbridge Underground Station"
+    "walkFrom": "Knightsbridge Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "http://www.sevenrooms.com/reservations/ishbilialebaneserestaurant",
+    "pressChecked": "2026-08-17"
   },
   "ishtar": {
     "placeId": "ChIJFUkYAswadkgRD68ICMQUvEg",
@@ -3867,7 +4347,10 @@
     "station": "Baker Street",
     "stationDistanceM": 326,
     "walkMin": 5,
-    "walkFrom": "Baker Street Underground Station"
+    "walkFrom": "Baker Street Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/ishtar/reservations/create/search/",
+    "pressChecked": "2026-08-17"
   },
   "italian-greyhound": {
     "rating": 4.4,
@@ -3907,7 +4390,10 @@
     "station": "Sloane Square",
     "stationDistanceM": 408,
     "walkMin": 7,
-    "walkFrom": "Sloane Square Underground Station"
+    "walkFrom": "Sloane Square Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/booking/experiences-availability?rid=333117&restref=333117&experienceId=724492",
+    "pressChecked": "2026-08-17"
   },
   "jacuzzi": {
     "website": "https://www.bigmammagroup.com/italian-restaurants/jacuzzi",
@@ -3946,7 +4432,10 @@
     "station": "Bond Street",
     "stationDistanceM": 494,
     "walkMin": 8,
-    "walkFrom": "Bond Street Underground Station"
+    "walkFrom": "Bond Street Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/jamavar-reservations-london?restref=110892&lang=en-GB&ot_source=Restaurant%20website",
+    "pressChecked": "2026-08-17"
   },
   "japes": {
     "postcode": "W1D 3RY",
@@ -3985,7 +4474,10 @@
     "station": "Bond Street",
     "stationDistanceM": 470,
     "walkMin": 8,
-    "walkFrom": "Bond Street Underground Station"
+    "walkFrom": "Bond Street Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/jikoni&quot;,",
+    "pressChecked": "2026-08-17"
   },
   "jin-da-thai": {
     "placeId": "ChIJV6kUWbUPdkgRxyGn6LZYx2M",
@@ -4001,7 +4493,9 @@
     "station": "Ravenscourt Park",
     "stationDistanceM": 235,
     "walkMin": 4,
-    "walkFrom": "Ravenscourt Park Underground Station"
+    "walkFrom": "Ravenscourt Park Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "jin-go-gae": {
     "placeId": "ChIJU5S3uxwJdkgRexJ9r8EHDck",
@@ -4017,7 +4511,9 @@
     "station": "Motspur Park",
     "stationDistanceM": 545,
     "walkMin": 9,
-    "walkFrom": "Motspur Park Rail Station"
+    "walkFrom": "Motspur Park Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "jin-kichi": {
     "placeId": "ChIJd4SrZn0adkgR4KLQPZpPTyk",
@@ -4033,7 +4529,8 @@
     "station": "Hampstead",
     "stationDistanceM": 92,
     "walkMin": 2,
-    "walkFrom": "Hampstead Underground Station"
+    "walkFrom": "Hampstead Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "jinjuu": {
     "placeId": "ChIJXSm4C9UEdkgRLBv_L0TyWHo",
@@ -4048,7 +4545,8 @@
     "station": "Oxford Circus",
     "stationDistanceM": 411,
     "walkMin": 7,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingProbe": "fetch failed"
   },
   "jixiang-baozi": {
     "placeId": "ChIJnaZ7MQAFdkgRv-NhQyX5CD0",
@@ -4078,7 +4576,11 @@
     "station": "Battersea Power Station",
     "stationDistanceM": 129,
     "walkMin": 2,
-    "walkFrom": "Battersea Power Station Underground Station"
+    "walkFrom": "Battersea Power Station Underground Station",
+    "bookingPlatform": "sevenrooms, opentable",
+    "bookingUrl": "https://www.joiabattersea.co.uk/",
+    "pressKit": "https://www.joiabattersea.co.uk/press/",
+    "pressChecked": "2026-08-17"
   },
   "jose": {
     "placeId": "ChIJjfxVy0QDdkgRyz3NnxLFaLU",
@@ -4094,7 +4596,10 @@
     "station": "London Bridge",
     "stationDistanceM": 795,
     "walkMin": 13,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://josepizarro.com/reservations/",
+    "pressChecked": "2026-08-17"
   },
   "joy-king-lau": {
     "placeId": "ChIJOT5hc9IEdkgR4UiChmyE3qY",
@@ -4110,7 +4615,10 @@
     "station": "Leicester Square",
     "stationDistanceM": 183,
     "walkMin": 3,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://joykinglau.co.uk/reservation/",
+    "pressChecked": "2026-08-17"
   },
   "julies": {
     "placeId": "ChIJfc2Arn0FdkgRegJM8kS9G4c",
@@ -4126,7 +4634,10 @@
     "station": "Holland Park",
     "stationDistanceM": 437,
     "walkMin": 7,
-    "walkFrom": "Holland Park Underground Station"
+    "walkFrom": "Holland Park Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/juliesrestaurant/reservations/create/search",
+    "pressChecked": "2026-08-17"
   },
   "jumeirah-carlton-tower-afternoon-tea": {
     "placeId": "ChIJbdSVFjwFdkgRLekCSN-uJMs",
@@ -4141,7 +4652,9 @@
     "station": "Knightsbridge",
     "stationDistanceM": 421,
     "walkMin": 7,
-    "walkFrom": "Knightsbridge Underground Station"
+    "walkFrom": "Knightsbridge Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "k-town-bbq": {
     "placeId": "ChIJaS1l0ZsJdkgR3eem5-RXZLg",
@@ -4156,7 +4669,8 @@
     "station": "New Malden",
     "stationDistanceM": 473,
     "walkMin": 8,
-    "walkFrom": "New Malden Rail Station"
+    "walkFrom": "New Malden Rail Station",
+    "bookingProbe": "fetch failed"
   },
   "kaffeine": {
     "placeId": "ChIJ6dpmcCsbdkgR0wcDN3XFut0",
@@ -4172,7 +4686,9 @@
     "station": "Oxford Circus",
     "stationDistanceM": 350,
     "walkMin": 6,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "kai-mayfair": {
     "placeId": "ChIJJ2HpEy4FdkgR-ZxFLGDPpcg",
@@ -4188,7 +4704,10 @@
     "station": "Hyde Park Corner",
     "stationDistanceM": 562,
     "walkMin": 9,
-    "walkFrom": "Hyde Park Corner Underground Station"
+    "walkFrom": "Hyde Park Corner Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "http://www.kaimayfair.co.uk/reservations",
+    "pressChecked": "2026-08-17"
   },
   "kanada-ya": {
     "placeId": "ChIJvSKkyDIbdkgRLQT2dF3O2KY",
@@ -4204,7 +4723,10 @@
     "station": "Covent Garden",
     "stationDistanceM": 277,
     "walkMin": 4,
-    "walkFrom": "Covent Garden Underground Station"
+    "walkFrom": "Covent Garden Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressKit": "http://www.kanada-ya.com/press",
+    "pressChecked": "2026-08-17"
   },
   "kanishka": {
     "placeId": "ChIJ3fvX0jwFdkgR4zfyvSGfZco",
@@ -4220,7 +4742,10 @@
     "station": "Oxford Circus",
     "stationDistanceM": 255,
     "walkMin": 4,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/kanishka/reservations/create/search/",
+    "pressChecked": "2026-08-17"
   },
   "kappacasein": {
     "placeId": "ChIJnxzKgj8DdkgRV8mWdlJmvJE",
@@ -4236,8 +4761,11 @@
     "station": "London Bridge",
     "stationDistanceM": 168,
     "walkMin": 3,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
+  "kateh": {},
   "kens-fish-bar": {
     "placeId": "ChIJK2-BYHUEdkgR-9mx_hLoWNI",
     "placesName": "Ken’s Fish Bar",
@@ -4252,8 +4780,11 @@
     "station": "North Dulwich",
     "stationDistanceM": 391,
     "walkMin": 6,
-    "walkFrom": "North Dulwich Rail Station"
+    "walkFrom": "North Dulwich Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
+  "kenwood-house-kitchen": {},
   "khao-so-i": {
     "placeId": "ChIJXyToUgAbdkgRLqd2cZV92MY",
     "placesName": "Khao So-i",
@@ -4268,7 +4799,10 @@
     "station": "Oxford Circus",
     "stationDistanceM": 158,
     "walkMin": 3,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "http://www.khaosoilondon.com/reservation",
+    "pressChecked": "2026-08-17"
   },
   "khun-pakin": {
     "placeId": "ChIJr8BUF0QPdkgR5PQrNjC766c",
@@ -4284,7 +4818,9 @@
     "station": "Ravenscourt Park",
     "stationDistanceM": 309,
     "walkMin": 5,
-    "walkFrom": "Ravenscourt Park Underground Station"
+    "walkFrom": "Ravenscourt Park Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "kiez-kebab": {
     "placeId": "ChIJsTFsoC8RdkgR_847QDskd84",
@@ -4300,7 +4836,9 @@
     "station": "Ladbroke Grove",
     "stationDistanceM": 428,
     "walkMin": 7,
-    "walkFrom": "Ladbroke Grove Underground Station"
+    "walkFrom": "Ladbroke Grove Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "kiln": {
     "placeId": "ChIJ_7nqbtQEdkgRuNOUsTUwfTI",
@@ -4316,7 +4854,9 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 186,
     "walkMin": 3,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "kima": {
     "placeId": "ChIJ7_iDHM0bdkgR_x_VEXoLjK4",
@@ -4332,7 +4872,10 @@
     "station": "Baker Street",
     "stationDistanceM": 479,
     "walkMin": 8,
-    "walkFrom": "Baker Street Underground Station"
+    "walkFrom": "Baker Street Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/kima",
+    "pressChecked": "2026-08-17"
   },
   "kinz": {
     "placeId": "ChIJZyDezsMPdkgRKHnbnJTNeOg",
@@ -4348,7 +4891,8 @@
     "station": "Notting Hill Gate",
     "stationDistanceM": 78,
     "walkMin": 1,
-    "walkFrom": "Notting Hill Gate Underground Station"
+    "walkFrom": "Notting Hill Gate Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "kismet": {
     "placeId": "ChIJzaByF8wDdkgRXvA2KnGPenA",
@@ -4364,7 +4908,10 @@
     "station": "London Bridge",
     "stationDistanceM": 112,
     "walkMin": 2,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?lang=en-GB&correlationId=5c5aa72c-5322-4dd1-995b-93b509031328&restRef=508068&otSource=Restaurant%20website",
+    "pressChecked": "2026-08-17"
   },
   "kitchen-table": {
     "placeId": "ChIJ3aa-YCkbdkgRo5LPUQzy0hI",
@@ -4380,7 +4927,10 @@
     "station": "Goodge Street",
     "stationDistanceM": 132,
     "walkMin": 2,
-    "walkFrom": "Goodge Street Underground Station"
+    "walkFrom": "Goodge Street Underground Station",
+    "bookingPlatform": "opentable, resy",
+    "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid=208452&type=standard&theme=standard&color=8&dark=false&iframe=true&domain=couk&lang=en-GB&newtab=false&ot_source=Restaurant%20website&font=arialBlack&ot_logo=standard&primary_color=ffffff&primary_font_color=333333&button_color=001d2d&button_f",
+    "pressChecked": "2026-08-17"
   },
   "knave-of-clubs": {
     "placeId": "ChIJTa9nErccdkgRKQHXOjozCqE",
@@ -4396,7 +4946,10 @@
     "station": "Shoreditch High Street",
     "stationDistanceM": 96,
     "walkMin": 2,
-    "walkFrom": "Shoreditch High Street Rail Station"
+    "walkFrom": "Shoreditch High Street Rail Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/theknaveofclubs/reservations/create/search",
+    "pressChecked": "2026-08-17"
   },
   "kofteci-metin": {
     "placeId": "ChIJy491JjQbdkgRHlSjFaeYH3s",
@@ -4412,7 +4965,10 @@
     "station": "Turnpike Lane",
     "stationDistanceM": 943,
     "walkMin": 15,
-    "walkFrom": "Turnpike Lane Underground Station"
+    "walkFrom": "Turnpike Lane Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://kofteci-metin.orin.app/reservation/new-reservation",
+    "pressChecked": "2026-08-17"
   },
   "kokum": {
     "placeId": "ChIJjyeC74cDdkgRLcXTmik2nvE",
@@ -4428,7 +4984,11 @@
     "station": "East Dulwich",
     "stationDistanceM": 804,
     "walkMin": 13,
-    "walkFrom": "East Dulwich Rail Station"
+    "walkFrom": "East Dulwich Rail Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://order.kokumlondon.com/reservations",
+    "pressKit": "http://www.kokumlondon.com/media",
+    "pressChecked": "2026-08-17"
   },
   "kol": {
     "placeId": "ChIJvfnOCgUbdkgR3FvbixhS2cw",
@@ -4437,7 +4997,10 @@
     "postcode": "W1H 7BA",
     "website": "https://www.kolrestaurant.com/",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Sunday, Monday"
+    "closedDays": "Sunday, Monday",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/",
+    "pressChecked": "2026-08-17"
   },
   "kolae": {
     "placeId": "ChIJawZwMzUDdkgRTmInf-sKA8g",
@@ -4453,7 +5016,10 @@
     "station": "London Bridge",
     "stationDistanceM": 168,
     "walkMin": 3,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/kolae/reservations/create/search?party_size=7&venues=kolae%2Csomsaa",
+    "pressChecked": "2026-08-17"
   },
   "korean-grill-kensington": {
     "placeId": "ChIJmQwdomAFdkgRCau8gCongmQ",
@@ -4469,7 +5035,8 @@
     "station": "Gloucester Road",
     "stationDistanceM": 148,
     "walkMin": 2,
-    "walkFrom": "Gloucester Road Underground Station"
+    "walkFrom": "Gloucester Road Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "koya-ko": {
     "placeId": "ChIJRbrWwx0ddkgR2TWYnmkTOsI",
@@ -4485,7 +5052,10 @@
     "station": "Bethnal Green",
     "stationDistanceM": 1075,
     "walkMin": 17,
-    "walkFrom": "Bethnal Green Underground Station"
+    "walkFrom": "Bethnal Green Underground Station",
+    "bookingPlatform": "sevenrooms, opentable",
+    "bookingUrl": "https://www.sevenrooms.com/explore/koyacity/reservations/create/search",
+    "pressChecked": "2026-08-17"
   },
   "koya-soho": {
     "placeId": "ChIJOVNb59IEdkgR4MHN89sf5aI",
@@ -4501,7 +5071,10 @@
     "station": "Leicester Square",
     "stationDistanceM": 253,
     "walkMin": 4,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingPlatform": "sevenrooms, opentable",
+    "bookingUrl": "https://www.sevenrooms.com/explore/koyacity/reservations/create/search",
+    "pressChecked": "2026-08-17"
   },
   "kricket": {
     "placeId": "ChIJXWnxCtQEdkgRcG32UcQZFVQ",
@@ -4517,7 +5090,10 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 83,
     "walkMin": 1,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "sevenrooms, opentable",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/kricketbrixton",
+    "pressChecked": "2026-08-17"
   },
   "kruk": {
     "placeId": "ChIJneqXI9MDdkgR2IDZjE910rs",
@@ -4533,7 +5109,10 @@
     "station": "Peckham Rye",
     "stationDistanceM": 122,
     "walkMin": 2,
-    "walkFrom": "Peckham Rye Rail Station"
+    "walkFrom": "Peckham Rye Rail Station",
+    "bookingPlatform": "designmynight",
+    "bookingUrl": "https://krukthai.com/bookings",
+    "pressChecked": "2026-08-17"
   },
   "kung-fu-burger": {
     "placeId": "ChIJTSgkOQAFdkgRZU5KzudUR2U",
@@ -4557,7 +5136,9 @@
     "postcode": "W1F 6LU",
     "website": "https://kungfunoodle.shop/",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "None"
+    "closedDays": "None",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "kurisu-omakase": {
     "placeId": "ChIJEy90jC4FdkgRbDp-IFD2BQA",
@@ -4573,7 +5154,10 @@
     "station": "Brixton",
     "stationDistanceM": 324,
     "walkMin": 5,
-    "walkFrom": "Brixton Underground Station"
+    "walkFrom": "Brixton Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/static2/reservations/vendor1-B01FTBpd-121933.js",
+    "pressChecked": "2026-08-17"
   },
   "kutir": {
     "placeId": "ChIJ_UXBBssFdkgRUdKF-u4Hb0w",
@@ -4589,8 +5173,12 @@
     "station": "Sloane Square",
     "stationDistanceM": 350,
     "walkMin": 6,
-    "walkFrom": "Sloane Square Underground Station"
+    "walkFrom": "Sloane Square Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.waterstones.com/book/yatra/rohit-ghai/9781848994355",
+    "pressChecked": "2026-08-17"
   },
+  "kwant-mayfair": {},
   "la-chingada": {
     "placeId": "ChIJsSdyeecDdkgRhey5sj7ADB8",
     "placesName": "La Chingada Mexican Food ( Surrey Quays)",
@@ -4604,7 +5192,9 @@
     "station": "Surrey Quays",
     "stationDistanceM": 300,
     "walkMin": 5,
-    "walkFrom": "Surrey Quays Rail Station"
+    "walkFrom": "Surrey Quays Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "la-poule-au-pot": {
     "placeId": "ChIJM8cvfhcFdkgR1UF2IW8H8mQ",
@@ -4620,7 +5210,9 @@
     "station": "Sloane Square",
     "stationDistanceM": 335,
     "walkMin": 5,
-    "walkFrom": "Sloane Square Underground Station"
+    "walkFrom": "Sloane Square Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "la-tua-pasta": {
     "rating": 4.4,
@@ -4643,6 +5235,8 @@
     "walkFrom": "London Bridge Underground Station",
     "bookingProbe": "HTTP 403"
   },
+  "lahore-kebab-house": {},
+  "lahori-nihaari": {},
   "langosteria-london": {
     "placeId": "ChIJOTEZLcgFdkgRQes0I3JqnkI",
     "placesName": "Langosteria London",
@@ -4657,7 +5251,11 @@
     "station": "Embankment",
     "stationDistanceM": 200,
     "walkMin": 3,
-    "walkFrom": "Embankment Underground Station"
+    "walkFrom": "Embankment Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/langosteria",
+    "pressKit": "https://www.langosteria.com/en/press",
+    "pressChecked": "2026-08-17"
   },
   "lantica-pizzeria-da-michele": {
     "rating": 4.1,
@@ -4704,6 +5302,7 @@
     "bookingUrl": "http://www.lardo.co.uk/book",
     "pressChecked": "2026-08-17"
   },
+  "layla-bakery": {},
   "le-bab": {
     "placeId": "ChIJk383D9UEdkgReldnHq6ek84",
     "placesName": "Le Bab",
@@ -4718,7 +5317,10 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 363,
     "walkMin": 6,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid={rid}&type=standard&theme=standard&color=2&dark=false&iframe=true&domain=couk&lang=en-GB&newtab=false&ot_source=Restaurant%20website&cfe=true",
+    "pressChecked": "2026-08-17"
   },
   "lebo-lebanese-grill": {
     "placeId": "ChIJrdhW2V8DdkgRS3Uijc8ToHc",
@@ -4734,7 +5336,9 @@
     "station": "Elephant & Castle",
     "stationDistanceM": 599,
     "walkMin": 10,
-    "walkFrom": "Elephant & Castle Underground Station"
+    "walkFrom": "Elephant & Castle Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "legado": {
     "placeId": "ChIJie6cOxsddkgRwMuFOl3itdI",
@@ -4750,7 +5354,10 @@
     "station": "Shoreditch High Street",
     "stationDistanceM": 140,
     "walkMin": 2,
-    "walkFrom": "Shoreditch High Street Rail Station"
+    "walkFrom": "Shoreditch High Street Rail Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/legado/reservations/create/search?party_size=2&venues=saborrestaurant%2Clegado",
+    "pressChecked": "2026-08-17"
   },
   "legare": {
     "placeId": "ChIJIWTiZiEDdkgR2BGTzzgcnAc",
@@ -4789,7 +5396,9 @@
     "station": "Chalk Farm",
     "stationDistanceM": 428,
     "walkMin": 7,
-    "walkFrom": "Chalk Farm Underground Station"
+    "walkFrom": "Chalk Farm Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "les-2-garcons": {
     "placeId": "ChIJBUmrulwbdkgREyF_urZP6Dc",
@@ -4805,7 +5414,10 @@
     "station": "Highgate",
     "stationDistanceM": 1627,
     "walkMin": 26,
-    "walkFrom": "Highgate Underground Station"
+    "walkFrom": "Highgate Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/les2garcons/reservations/create/search/",
+    "pressChecked": "2026-08-17"
   },
   "lilibets": {
     "placeId": "ChIJT9u6kt0FdkgR4bjKKXEeIbg",
@@ -4821,8 +5433,13 @@
     "station": "Green Park",
     "stationDistanceM": 350,
     "walkMin": 6,
-    "walkFrom": "Green Park Underground Station"
+    "walkFrom": "Green Park Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/lilibets",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
+  "lily-vanilli": {},
   "lina-stores": {
     "website": "https://linastores.co.uk/",
     "bookingLead": "walk-in",
@@ -4904,7 +5521,10 @@
     "station": "Oxford Circus",
     "stationDistanceM": 158,
     "walkMin": 3,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://lokalrestaurant.co.uk/book",
+    "pressChecked": "2026-08-17"
   },
   "london-naru": {
     "placeId": "ChIJSbN7GzMbdkgRhOb0VsaaA88",
@@ -4920,7 +5540,9 @@
     "station": "Covent Garden",
     "stationDistanceM": 326,
     "walkMin": 5,
-    "walkFrom": "Covent Garden Underground Station"
+    "walkFrom": "Covent Garden Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "los-mochis-notting-hill": {
     "placeId": "ChIJ9288K1sPdkgRw3jHTv0RSec",
@@ -4936,7 +5558,10 @@
     "station": "Notting Hill Gate",
     "stationDistanceM": 126,
     "walkMin": 2,
-    "walkFrom": "Notting Hill Gate Underground Station"
+    "walkFrom": "Notting Hill Gate Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.losmochis.co.uk/reservations",
+    "pressChecked": "2026-08-17"
   },
   "luca": {
     "website": "https://luca.restaurant/",
@@ -4974,8 +5599,12 @@
     "station": "Marble Arch",
     "stationDistanceM": 156,
     "walkMin": 3,
-    "walkFrom": "Marble Arch Underground Station"
+    "walkFrom": "Marble Arch Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "http://www.sevenrooms.com/reservations/lurramarylebone?venues=lurramarylebone,donostiamarylebone,maset",
+    "pressChecked": "2026-08-17"
   },
+  "lyaness": {},
   "m-manze": {
     "placeId": "ChIJldPLKF0DdkgR-EAn_HT6mRI",
     "placesName": "M.Manze Tower Bridge",
@@ -4990,7 +5619,9 @@
     "station": "Borough",
     "stationDistanceM": 977,
     "walkMin": 16,
-    "walkFrom": "Borough Underground Station"
+    "walkFrom": "Borough Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "macellaio-rc": {
     "rating": 4.6,
@@ -5028,7 +5659,9 @@
     "station": "Southall",
     "stationDistanceM": 384,
     "walkMin": 6,
-    "walkFrom": "Southall Rail Station"
+    "walkFrom": "Southall Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "mae-and-harvey": {
     "placeId": "ChIJOTOptDwddkgR5IFuioDXAkY",
@@ -5044,7 +5677,9 @@
     "station": "Mile End",
     "stationDistanceM": 655,
     "walkMin": 11,
-    "walkFrom": "Mile End Underground Station"
+    "walkFrom": "Mile End Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "magic-falafel": {
     "placeId": "ChIJeX_cmLQbdkgRubyaGDLeIIs",
@@ -5060,7 +5695,9 @@
     "station": "Camden Town",
     "stationDistanceM": 422,
     "walkMin": 7,
-    "walkFrom": "Camden Town Underground Station"
+    "walkFrom": "Camden Town Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "maltby-street-market": {
     "placeId": "ChIJZ9jUVEEDdkgRN7k3RDL_908",
@@ -5076,8 +5713,11 @@
     "station": "Bermondsey",
     "stationDistanceM": 775,
     "walkMin": 13,
-    "walkFrom": "Bermondsey Underground Station"
+    "walkFrom": "Bermondsey Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
+  "mamasons": {},
   "mambow": {
     "placeId": "ChIJyZEVG4YddkgRhZtMxBaAFAw",
     "placesName": "Mambow",
@@ -5092,7 +5732,10 @@
     "station": "Hackney Central",
     "stationDistanceM": 613,
     "walkMin": 10,
-    "walkFrom": "Hackney Central Rail Station"
+    "walkFrom": "Hackney Central Rail Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/mambow-reservations-london?restref=277602&lang=en-GB&ot_source=Restaurant%20website",
+    "pressChecked": "2026-08-17"
   },
   "mandarin-oriental-tea": {
     "placeId": "ChIJG4IcmDkFdkgR3IYfJhJy-SM",
@@ -5125,7 +5768,10 @@
     "station": "Dalston Kingsland",
     "stationDistanceM": 237,
     "walkMin": 4,
-    "walkFrom": "Dalston Kingsland Rail Station"
+    "walkFrom": "Dalston Kingsland Rail Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "http://www.mangal2.com/reservations",
+    "pressChecked": "2026-08-17"
   },
   "manteca": {
     "website": "https://mantecarestaurant.co.uk/",
@@ -5164,7 +5810,10 @@
     "station": "Westbourne Park",
     "stationDistanceM": 423,
     "walkMin": 7,
-    "walkFrom": "Westbourne Park Underground Station"
+    "walkFrom": "Westbourne Park Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.maramia.com/reservation/",
+    "pressChecked": "2026-08-17"
   },
   "maresco": {
     "placeId": "ChIJKWSNSlIbdkgRmJ7LCCJYdt0",
@@ -5180,7 +5829,11 @@
     "station": "Oxford Circus",
     "stationDistanceM": 410,
     "walkMin": 7,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/maresco&quot;,",
+    "pressKit": "http://www.maresco.co.uk/press",
+    "pressChecked": "2026-08-17"
   },
   "market-halls-victoria": {
     "placeId": "ChIJxRsDM6cFdkgRm8av7yp2uPw",
@@ -5196,7 +5849,10 @@
     "station": "Victoria",
     "stationDistanceM": 74,
     "walkMin": 1,
-    "walkFrom": "Victoria Underground Station"
+    "walkFrom": "Victoria Underground Station",
+    "bookingPlatform": "designmynight",
+    "bookingUrl": "https://markethalls.co.uk/booking/",
+    "pressChecked": "2026-08-17"
   },
   "maroush": {
     "placeId": "ChIJY9FazsoadkgRfXJNVhh-dac",
@@ -5211,7 +5867,8 @@
     "station": "Marble Arch",
     "stationDistanceM": 156,
     "walkMin": 3,
-    "walkFrom": "Marble Arch Underground Station"
+    "walkFrom": "Marble Arch Underground Station",
+    "bookingProbe": "HTTP 404"
   },
   "marugame-udon": {
     "placeId": "ChIJN7dyCzUddkgRgc_Kk_AytMs",
@@ -5220,7 +5877,9 @@
     "postcode": "E1 7JH",
     "website": "https://marugame.co.uk/",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "None"
+    "closedDays": "None",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "masala-zone": {
     "placeId": "ChIJn-lu1i0FdkgR1vYtPWl85iA",
@@ -5236,7 +5895,10 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 118,
     "walkMin": 2,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.masalazone.com/reservations/",
+    "pressChecked": "2026-08-17"
   },
   "master-wei": {
     "placeId": "ChIJb6KGCcIbdkgR3MJv-42WEK8",
@@ -5252,7 +5914,10 @@
     "station": "Russell Square",
     "stationDistanceM": 280,
     "walkMin": 5,
-    "walkFrom": "Russell Square Underground Station"
+    "walkFrom": "Russell Square Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressKit": "https://master-wei.com/press/",
+    "pressChecked": "2026-08-17"
   },
   "maureens-pie-and-mash": {
     "placeId": "ChIJReIKG7MCdkgRGDDbGaGj6A0",
@@ -5268,7 +5933,9 @@
     "station": "Langdon Park",
     "stationDistanceM": 249,
     "walkMin": 4,
-    "walkFrom": "Langdon Park DLR Station"
+    "walkFrom": "Langdon Park DLR Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "maza": {
     "placeId": "ChIJqy-cHwAFdkgRoABu3g3UlM8",
@@ -5284,7 +5951,10 @@
     "station": "Green Park",
     "stationDistanceM": 350,
     "walkMin": 6,
-    "walkFrom": "Green Park Underground Station"
+    "walkFrom": "Green Park Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/maza/reservations/create/search/",
+    "pressChecked": "2026-08-17"
   },
   "mazi": {
     "placeId": "ChIJ2ayVEvsPdkgRHvnypxIhc_Q",
@@ -5300,7 +5970,11 @@
     "station": "Notting Hill Gate",
     "stationDistanceM": 140,
     "walkMin": 2,
-    "walkFrom": "Notting Hill Gate Underground Station"
+    "walkFrom": "Notting Hill Gate Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/mazinottinghill/reservations/create/search/?date=2025-04-22&venues=mazinottinghill%2Csuzitros",
+    "pressKit": "https://www.mazi.co.uk/press/",
+    "pressChecked": "2026-08-17"
   },
   "med-salleh-viet": {
     "placeId": "ChIJMbESU0wPdkgReQo7KKvSDPk",
@@ -5316,7 +5990,9 @@
     "station": "Earl's Court",
     "stationDistanceM": 195,
     "walkMin": 3,
-    "walkFrom": "Earl's Court Underground Station"
+    "walkFrom": "Earl's Court Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "meraki": {
     "placeId": "ChIJZaSmDCobdkgRBUx6rvr1db0",
@@ -5332,7 +6008,10 @@
     "station": "Oxford Circus",
     "stationDistanceM": 336,
     "walkMin": 5,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/merakiriyadh",
+    "pressChecked": "2026-08-17"
   },
   "mercato-metropolitano": {
     "website": "https://mercatometropolitano.com/",
@@ -5371,7 +6050,10 @@
     "station": "Euston Square",
     "stationDistanceM": 216,
     "walkMin": 4,
-    "walkFrom": "Euston Square Underground Station"
+    "walkFrom": "Euston Square Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/restaurant/profile/15445/reserve?rid=15445&#038;restref=15445",
+    "pressChecked": "2026-08-17"
   },
   "mexican-seoul": {
     "placeId": "ChIJzXZ0VKUddkgRqMoG3LgXTqI",
@@ -5387,7 +6069,8 @@
     "station": "Mile End",
     "stationDistanceM": 920,
     "walkMin": 15,
-    "walkFrom": "Mile End Underground Station"
+    "walkFrom": "Mile End Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "meza-tooting": {
     "placeId": "ChIJLZ1vLNwFdkgRn4N1HWxvQZE",
@@ -5403,7 +6086,10 @@
     "station": "Tooting Bec",
     "stationDistanceM": 40,
     "walkMin": 1,
-    "walkFrom": "Tooting Bec Underground Station"
+    "walkFrom": "Tooting Bec Underground Station",
+    "bookingPlatform": "resdiary",
+    "bookingUrl": "https://www.resdiary.com/restaurant/meza#booking",
+    "pressChecked": "2026-08-17"
   },
   "miga": {
     "placeId": "ChIJtUWINwAddkgRZpNHXJfDHaE",
@@ -5419,7 +6105,9 @@
     "station": "Cambridge Heath (London)",
     "stationDistanceM": 226,
     "walkMin": 4,
-    "walkFrom": "Cambridge Heath (London) Rail Station"
+    "walkFrom": "Cambridge Heath (London) Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "milk-balham": {
     "placeId": "ChIJfQx9bc8FdkgR4z0av_DETgs",
@@ -5435,7 +6123,9 @@
     "station": "Balham",
     "stationDistanceM": 160,
     "walkMin": 3,
-    "walkFrom": "Balham Underground Station"
+    "walkFrom": "Balham Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "min-jiang": {
     "placeId": "ChIJy1y33_cPdkgRy4SK96aOVBM",
@@ -5451,7 +6141,10 @@
     "station": "High Street Kensington",
     "stationDistanceM": 348,
     "walkMin": 6,
-    "walkFrom": "High Street Kensington Underground Station"
+    "walkFrom": "High Street Kensington Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.minjiang.co.uk/book-a-table",
+    "pressChecked": "2026-08-17"
   },
   "monmouth-coffee": {
     "placeId": "ChIJ94DTm1cDdkgRibmgxzXy2EQ",
@@ -5467,7 +6160,9 @@
     "station": "London Bridge",
     "stationDistanceM": 168,
     "walkMin": 3,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "monohon-ramen": {
     "placeId": "ChIJs2QuG6gcdkgRNNpKHG3EKqo",
@@ -5483,7 +6178,8 @@
     "station": "Old Street",
     "stationDistanceM": 417,
     "walkMin": 7,
-    "walkFrom": "Old Street Underground Station"
+    "walkFrom": "Old Street Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "morito-exmouth-market": {
     "placeId": "ChIJYyZ0cUUbdkgRBQPI-hqAyoI",
@@ -5499,7 +6195,10 @@
     "station": "Farringdon",
     "stationDistanceM": 570,
     "walkMin": 9,
-    "walkFrom": "Farringdon Underground Station"
+    "walkFrom": "Farringdon Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/morito-exmouth-market-reservations-london?restref=144279&lang=en-GB&ot_source=Restaurant%20website&quot;,",
+    "pressChecked": "2026-08-17"
   },
   "motorino": {
     "placeId": "ChIJBa2GnBobdkgRgzXHma198LU",
@@ -5515,7 +6214,10 @@
     "station": "Goodge Street",
     "stationDistanceM": 384,
     "walkMin": 6,
-    "walkFrom": "Goodge Street Underground Station"
+    "walkFrom": "Goodge Street Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.motorino.london/reservations/",
+    "pressChecked": "2026-08-17"
   },
   "mount-st-restaurant": {
     "placeId": "ChIJd8Vf0-UFdkgRbSaCIpLtUXo",
@@ -5531,7 +6233,10 @@
     "station": "Bond Street",
     "stationDistanceM": 597,
     "walkMin": 10,
-    "walkFrom": "Bond Street Underground Station"
+    "walkFrom": "Bond Street Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/mountstrestaurant?_gl=1*vqal4p*_gcl_au*MzE1MzU1OTAuMTY5NDY4ODE0MA..*_ga*MTM1ODg0NTE0Mi4xNjk0Njg4MTQw*_ga_P8LB598KQ7*MTY5NDY4ODE0MC4xLjEuMTY5NDY4ODQ1OS4xMC4wLjA.",
+    "pressChecked": "2026-08-17"
   },
   "mour": {
     "placeId": "ChIJJZX5LZwFdkgRvEtjChmwcEo",
@@ -5547,7 +6252,10 @@
     "station": "Marble Arch",
     "stationDistanceM": 150,
     "walkMin": 2,
-    "walkFrom": "Marble Arch Underground Station"
+    "walkFrom": "Marble Arch Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.com/r/mour",
+    "pressChecked": "2026-08-17"
   },
   "mr-bao": {
     "placeId": "ChIJi0WOl6MDdkgRB96wlwOstiE",
@@ -5563,7 +6271,10 @@
     "station": "Peckham Rye",
     "stationDistanceM": 638,
     "walkMin": 10,
-    "walkFrom": "Peckham Rye Rail Station"
+    "walkFrom": "Peckham Rye Rail Station",
+    "bookingPlatform": "sevenrooms, exploretock, resy",
+    "bookingUrl": "https://www.sevenrooms.com/explore/mrbaoryelane/reservations/create/search/",
+    "pressChecked": "2026-08-17"
   },
   "mr-falafel": {
     "placeId": "ChIJlVL-yNEPdkgR_5fn4f-JlwY",
@@ -5579,7 +6290,9 @@
     "station": "Shepherd's Bush Market",
     "stationDistanceM": 78,
     "walkMin": 1,
-    "walkFrom": "Shepherd's Bush Market Underground Station"
+    "walkFrom": "Shepherd's Bush Market Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "muccis": {
     "website": "https://muccisrestaurant.co.uk/",
@@ -5618,7 +6331,9 @@
     "station": "Liverpool Street",
     "stationDistanceM": 537,
     "walkMin": 9,
-    "walkFrom": "Liverpool Street Underground Station"
+    "walkFrom": "Liverpool Street Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "murano": {
     "website": "https://www.muranolondon.com/",
@@ -5657,7 +6372,10 @@
     "station": "Monument",
     "stationDistanceM": 140,
     "walkMin": 2,
-    "walkFrom": "Monument Underground Station"
+    "walkFrom": "Monument Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://murgerhan.com/reservations/",
+    "pressChecked": "2026-08-17"
   },
   "namaaste-highgate": {
     "placeId": "ChIJKapHMdkbdkgRi7lxdEzyOcs",
@@ -5673,8 +6391,10 @@
     "station": "Highgate",
     "stationDistanceM": 851,
     "walkMin": 14,
-    "walkFrom": "Highgate Underground Station"
+    "walkFrom": "Highgate Underground Station",
+    "bookingProbe": "fetch failed"
   },
+  "namak-mandi": {},
   "napoli-on-the-road": {
     "rating": 4.5,
     "ratingCount": 1872,
@@ -5698,6 +6418,8 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/napoliontheroadsoho/reservations",
     "pressChecked": "2026-08-17"
   },
+  "nardulli": {},
+  "nightjar": {},
   "nipa-thai": {
     "placeId": "ChIJaW2seFIFdkgRUS2sQMnqPpA",
     "placesName": "Nipa Thai",
@@ -5712,7 +6434,10 @@
     "station": "Lancaster Gate",
     "stationDistanceM": 46,
     "walkMin": 1,
-    "walkFrom": "Lancaster Gate Underground Station"
+    "walkFrom": "Lancaster Gate Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "http://www.niparestaurant.co.uk/",
+    "pressChecked": "2026-08-17"
   },
   "no-forty-nine": {
     "placeId": "ChIJ_XN4wYgbdkgRo0FTvhj7EwQ",
@@ -5728,7 +6453,11 @@
     "station": "St. John's Wood",
     "stationDistanceM": 321,
     "walkMin": 5,
-    "walkFrom": "St. John's Wood Underground Station"
+    "walkFrom": "St. John's Wood Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.nofortynine.co.uk/book-a-table",
+    "pressKit": "https://www.nofortynine.co.uk/press",
+    "pressChecked": "2026-08-17"
   },
   "noble-rot": {
     "placeId": "ChIJ5x0xOTYbdkgRrqbJFkt8uEI",
@@ -5744,7 +6473,11 @@
     "station": "Holborn",
     "stationDistanceM": 417,
     "walkMin": 7,
-    "walkFrom": "Holborn Underground Station"
+    "walkFrom": "Holborn Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/noblerotsoho/pdr?client_id=6be6bc550f3bb4f086b1d8dd73bff662e3962e52cc23db5e1f7f7cbc38336adddc535fd491ad5e1e6a194e03a4bd386b177db83fc0a2f8a7fd5a4955b4a8b612",
+    "pressKit": "http://www.noblerot.co.uk/media/menus/undefined",
+    "pressChecked": "2026-08-17"
   },
   "nobu-old-park-lane": {
     "placeId": "ChIJtzlJgy8FdkgRe0mah9wlo_0",
@@ -5760,7 +6493,10 @@
     "station": "Hyde Park Corner",
     "stationDistanceM": 323,
     "walkMin": 5,
-    "walkFrom": "Hyde Park Corner Underground Station"
+    "walkFrom": "Hyde Park Corner Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.noburestaurants.com/london-old-park-lane/reservations",
+    "pressChecked": "2026-08-17"
   },
   "nobu-portman-square": {
     "placeId": "ChIJVZwKoFEbdkgREONYIfUMFyE",
@@ -5776,7 +6512,11 @@
     "station": "Marble Arch",
     "stationDistanceM": 317,
     "walkMin": 5,
-    "walkFrom": "Marble Arch Underground Station"
+    "walkFrom": "Marble Arch Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/noburestaurantlondonportmansquare/book-restaurant-button-on-home-page?venues=nobuterraceandbar,noburestaurantlondonportmansquare,theloungenobuhotel",
+    "pressKit": "https://www.nobuhotels.com/london-portman/press/",
+    "pressChecked": "2026-08-17"
   },
   "noci": {
     "placeId": "ChIJE77C6t0bdkgR5E3cqznybFk",
@@ -5834,8 +6574,11 @@
     "station": "Queensway",
     "stationDistanceM": 36,
     "walkMin": 1,
-    "walkFrom": "Queensway Underground Station"
+    "walkFrom": "Queensway Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
+  "oddonos": {},
   "oklava": {
     "placeId": "ChIJRziMIrAcdkgRNobpZPkl4rU",
     "placesName": "Oklava",
@@ -5864,7 +6607,9 @@
     "station": "Peckham Rye",
     "stationDistanceM": 608,
     "walkMin": 10,
-    "walkFrom": "Peckham Rye Rail Station"
+    "walkFrom": "Peckham Rye Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "old-spitalfields-market": {
     "placeId": "ChIJh6-3GrQcdkgRvNQCJqs-8qI",
@@ -5880,7 +6625,9 @@
     "station": "Aldgate East",
     "stationDistanceM": 477,
     "walkMin": 8,
-    "walkFrom": "Aldgate East Underground Station"
+    "walkFrom": "Aldgate East Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "olle": {
     "placeId": "ChIJ5bAUVtIEdkgRSieYHcpYJlA",
@@ -5896,7 +6643,10 @@
     "station": "Leicester Square",
     "stationDistanceM": 191,
     "walkMin": 3,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "http://ollelondon.com/reservations/",
+    "pressChecked": "2026-08-17"
   },
   "oma": {
     "placeId": "ChIJ4co2k5kDdkgROKjVBk6wD8k",
@@ -5912,7 +6662,10 @@
     "station": "London Bridge",
     "stationDistanceM": 112,
     "walkMin": 2,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/oma?default_date=2024-04-16",
+    "pressChecked": "2026-08-17"
   },
   "ombra": {
     "placeId": "ChIJDY_nE90cdkgRaTn-VkjMYcE",
@@ -5965,7 +6718,9 @@
     "station": "Shoreditch High Street",
     "stationDistanceM": 111,
     "walkMin": 2,
-    "walkFrom": "Shoreditch High Street Rail Station"
+    "walkFrom": "Shoreditch High Street Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "opso": {
     "placeId": "ChIJ7YK1As4adkgREHR6mdwfwNE",
@@ -5981,7 +6736,9 @@
     "station": "Baker Street",
     "stationDistanceM": 479,
     "walkMin": 8,
-    "walkFrom": "Baker Street Underground Station"
+    "walkFrom": "Baker Street Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "orient-london": {
     "placeId": "ChIJXQZ2NdIEdkgRQPMVL2rSu08",
@@ -5997,7 +6754,9 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 125,
     "walkMin": 2,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "origin-coffee": {
     "placeId": "ChIJ5c8Nu7ocdkgRh0_YbQ7mWLU",
@@ -6013,8 +6772,11 @@
     "station": "Old Street",
     "stationDistanceM": 469,
     "walkMin": 8,
-    "walkFrom": "Old Street Underground Station"
+    "walkFrom": "Old Street Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
+  "oriole": {},
   "ornella": {
     "placeId": "ChIJHZ8Soe4ddkgR7cR8z-wQ1CM",
     "placesName": "Ornella",
@@ -6029,7 +6791,10 @@
     "station": "Hackney Central",
     "stationDistanceM": 415,
     "walkMin": 7,
-    "walkFrom": "Hackney Central Rail Station"
+    "walkFrom": "Hackney Central Rail Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/ornella-reservations-london?restref=474675&lang=en-GB&ot_source=Restaurant%20website",
+    "pressChecked": "2026-08-17"
   },
   "osteria-angelina": {
     "placeId": "ChIJu9OE0WkddkgR9zHqOJ9L4II",
@@ -6062,7 +6827,10 @@
     "station": "Tottenham Court Road",
     "stationDistanceM": 273,
     "walkMin": 4,
-    "walkFrom": "Tottenham Court Road Underground Station"
+    "walkFrom": "Tottenham Court Road Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/osteriavibrato/reservations",
+    "pressChecked": "2026-08-17"
   },
   "ottolenghi": {
     "placeId": "ChIJYVig82YbdkgRi6zgskkA6TM",
@@ -6078,7 +6846,10 @@
     "station": "Angel",
     "stationDistanceM": 759,
     "walkMin": 12,
-    "walkFrom": "Angel Underground Station"
+    "walkFrom": "Angel Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/ottolenghibicestervillage/reservations/create/search",
+    "pressChecked": "2026-08-17"
   },
   "ottos-french-restaurant": {
     "placeId": "ChIJu28R_kgbdkgRpXymfzLPsOA",
@@ -6094,7 +6865,10 @@
     "station": "Chancery Lane",
     "stationDistanceM": 450,
     "walkMin": 7,
-    "walkFrom": "Chancery Lane Underground Station"
+    "walkFrom": "Chancery Lane Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.ottos-restaurant.com/",
+    "pressChecked": "2026-08-17"
   },
   "oudh-1722": {
     "placeId": "ChIJR7AiWMsFdkgRRYjsKu6-jPA",
@@ -6110,7 +6884,10 @@
     "station": "Borough",
     "stationDistanceM": 315,
     "walkMin": 5,
-    "walkFrom": "Borough Underground Station"
+    "walkFrom": "Borough Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/oudh1722",
+    "pressChecked": "2026-08-17"
   },
   "oxo-tower": {
     "placeId": "ChIJI109CbEEdkgRm6b4oMoOvfE",
@@ -6126,7 +6903,8 @@
     "station": "Southwark",
     "stationDistanceM": 454,
     "walkMin": 7,
-    "walkFrom": "Southwark Underground Station"
+    "walkFrom": "Southwark Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "ozone-coffee": {
     "placeId": "ChIJtczIQ68cdkgR0m45hoeIN8Y",
@@ -6142,7 +6920,10 @@
     "station": "Old Street",
     "stationDistanceM": 214,
     "walkMin": 3,
-    "walkFrom": "Old Street Underground Station"
+    "walkFrom": "Old Street Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "http://www.ozonecoffee.co.uk/pages/bookings",
+    "pressChecked": "2026-08-17"
   },
   "padella": {
     "website": "https://www.padella.co/",
@@ -6181,7 +6962,10 @@
     "station": "Oxford Circus",
     "stationDistanceM": 207,
     "walkMin": 3,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/pahlihill/reservations/create/search",
+    "pressChecked": "2026-08-17"
   },
   "palmyras-kitchen": {
     "placeId": "ChIJp4ISpgcbdkgRTD7ek49zx0A",
@@ -6197,7 +6981,11 @@
     "station": "Finsbury Park",
     "stationDistanceM": 124,
     "walkMin": 2,
-    "walkFrom": "Finsbury Park Underground Station"
+    "walkFrom": "Finsbury Park Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://palmyraskitchen.com/bookings-clifton-terrace/",
+    "pressKit": "https://palmyraskitchen.com/press/",
+    "pressChecked": "2026-08-17"
   },
   "paolina-thai": {
     "placeId": "ChIJ3TTdsjgbdkgRDpO03-kXU1o",
@@ -6213,7 +7001,9 @@
     "station": "King's Cross St. Pancras",
     "stationDistanceM": 367,
     "walkMin": 6,
-    "walkFrom": "King's Cross St. Pancras Underground Station"
+    "walkFrom": "King's Cross St. Pancras Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "paradise-cove": {
     "placeId": "ChIJI7hzcukRdkgRhQfAYVkgRx0",
@@ -6229,7 +7019,9 @@
     "station": "Harlesden",
     "stationDistanceM": 433,
     "walkMin": 7,
-    "walkFrom": "Harlesden Underground Station"
+    "walkFrom": "Harlesden Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "park-chinois": {
     "placeId": "ChIJvYYqnCkFdkgRpJro2gbpZMs",
@@ -6244,8 +7036,13 @@
     "station": "Green Park",
     "stationDistanceM": 118,
     "walkMin": 2,
-    "walkFrom": "Green Park Underground Station"
+    "walkFrom": "Green Park Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/parkchinoisgroup/reservations/create/search/?venues=parkchinoisdoha",
+    "pressKit": "https://parkchinois.com/press-enquiries/",
+    "pressChecked": "2026-08-17"
   },
+  "parliament-hill-cafe": {},
   "parrillan": {
     "placeId": "ChIJTzuTZmQDdkgRgJ4koROrq9o",
     "placesName": "Parrillan Borough Yards",
@@ -6260,7 +7057,10 @@
     "station": "London Bridge",
     "stationDistanceM": 219,
     "walkMin": 4,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingPlatform": "sevenrooms, resy",
+    "bookingUrl": "https://www.sevenrooms.com/explore/parrillancoaldropsyard/reservations/create/search?tracking=heated-terrace-4832107824119808",
+    "pressChecked": "2026-08-17"
   },
   "pastation": {
     "rating": 4.7,
@@ -6298,7 +7098,10 @@
     "station": "Wimbledon",
     "stationDistanceM": 724,
     "walkMin": 12,
-    "walkFrom": "Wimbledon Underground Station"
+    "walkFrom": "Wimbledon Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/platapiansoho/reservations/create/search",
+    "pressChecked": "2026-08-17"
   },
   "patogh": {
     "placeId": "ChIJ6cRhobUadkgRtmm8IuPP07Q",
@@ -6314,7 +7117,9 @@
     "station": "Edgware Road (Circle Line)",
     "stationDistanceM": 342,
     "walkMin": 6,
-    "walkFrom": "Edgware Road (Circle Line) Underground Station"
+    "walkFrom": "Edgware Road (Circle Line) Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "paulette": {
     "placeId": "ChIJ43gFVnIbdkgR0aO_Re8ioko",
@@ -6330,7 +7135,10 @@
     "station": "Warwick Avenue",
     "stationDistanceM": 83,
     "walkMin": 1,
-    "walkFrom": "Warwick Avenue Underground Station"
+    "walkFrom": "Warwick Avenue Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/paulettelondon/reservations/create/search?venues=paulettelondon,josette",
+    "pressChecked": "2026-08-17"
   },
   "pearl-liang": {
     "placeId": "ChIJJ_aKO6wadkgR7MnZKyXovk0",
@@ -6346,8 +7154,12 @@
     "station": "Paddington (H&C Line)-Underground",
     "stationDistanceM": 102,
     "walkMin": 2,
-    "walkFrom": "Paddington (H&C Line)-Underground"
+    "walkFrom": "Paddington (H&C Line)-Underground",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/pearlliang",
+    "pressChecked": "2026-08-17"
   },
+  "pembroke-lodge": {},
   "peninsula-restaurant": {
     "placeId": "ChIJ1QIDabEBdkgRJkSP5dOTQ6M",
     "placesName": "Peninsula Greenwich (Indian,Srilankan & Malaysian Restaurant)",
@@ -6362,7 +7174,10 @@
     "station": "Greenwich",
     "stationDistanceM": 455,
     "walkMin": 7,
-    "walkFrom": "Greenwich DLR Station"
+    "walkFrom": "Greenwich DLR Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://peninsula-london.co.uk/reservation/",
+    "pressChecked": "2026-08-17"
   },
   "perilla": {
     "placeId": "ChIJb4SGhIYcdkgRCs6Uoj5lazI",
@@ -6378,7 +7193,10 @@
     "station": "Canonbury",
     "stationDistanceM": 562,
     "walkMin": 9,
-    "walkFrom": "Canonbury Rail Station"
+    "walkFrom": "Canonbury Rail Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.perilladining.co.uk/bookings",
+    "pressChecked": "2026-08-17"
   },
   "petersham-nurseries": {
     "placeId": "ChIJnQwaxVMNdkgRkNfvOd_RFuw",
@@ -6394,7 +7212,8 @@
     "station": "Richmond",
     "stationDistanceM": 1808,
     "walkMin": 29,
-    "walkFrom": "Richmond Underground Station"
+    "walkFrom": "Richmond Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "pick-and-cheese": {
     "placeId": "ChIJNyR2xTUFdkgRrrRHNhDzuTY",
@@ -6410,7 +7229,10 @@
     "station": "Covent Garden",
     "stationDistanceM": 148,
     "walkMin": 2,
-    "walkFrom": "Covent Garden Underground Station"
+    "walkFrom": "Covent Garden Underground Station",
+    "bookingPlatform": "exploretock, resy",
+    "bookingUrl": "http://www.pickandcheese.com/",
+    "pressChecked": "2026-08-17"
   },
   "pilpel": {
     "placeId": "ChIJTc3R7LMcdkgRvYvzuTaaO40",
@@ -6426,7 +7248,9 @@
     "station": "Aldgate",
     "stationDistanceM": 428,
     "walkMin": 7,
-    "walkFrom": "Aldgate Underground Station"
+    "walkFrom": "Aldgate Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "pique-nique": {
     "placeId": "ChIJmaO06kQDdkgRRajv-Fk3Tao",
@@ -6442,7 +7266,10 @@
     "station": "London Bridge",
     "stationDistanceM": 1014,
     "walkMin": 16,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/pique-nique-london",
+    "pressChecked": "2026-08-17"
   },
   "pizarro": {
     "placeId": "ChIJf6QZWkMDdkgRPwGD_jQMUbc",
@@ -6458,7 +7285,10 @@
     "station": "Borough",
     "stationDistanceM": 928,
     "walkMin": 15,
-    "walkFrom": "Borough Underground Station"
+    "walkFrom": "Borough Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/pizarrorestaurantbermondseystreet",
+    "pressChecked": "2026-08-17"
   },
   "pizza-pilgrims": {
     "website": "https://www.pizzapilgrims.co.uk/",
@@ -6497,7 +7327,10 @@
     "station": "Haggerston",
     "stationDistanceM": 91,
     "walkMin": 1,
-    "walkFrom": "Haggerston Rail Station"
+    "walkFrom": "Haggerston Rail Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/planque",
+    "pressChecked": "2026-08-17"
   },
   "plaza-khao-gaeng": {
     "placeId": "ChIJvQutyiMbdkgRH9iuZGcbIvY",
@@ -6513,7 +7346,10 @@
     "station": "Tottenham Court Road",
     "stationDistanceM": 109,
     "walkMin": 2,
-    "walkFrom": "Tottenham Court Road Underground Station"
+    "walkFrom": "Tottenham Court Road Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/plazakhaogaengcoventgarden/reservations/create/search?date=2026-05-05&#038;venues=plazakhaogaengborough%2Cplazakhaogaengcoventgarden",
+    "pressChecked": "2026-08-17"
   },
   "plum-valley": {
     "placeId": "ChIJ_ed5UtIEdkgRbzKZVZBbRrE",
@@ -6529,7 +7365,10 @@
     "station": "Leicester Square",
     "stationDistanceM": 183,
     "walkMin": 3,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid=82531&type=standard&theme=standard&iframe=true&domain=couk&lang=en-GB&newtab=false&ot_source=Restaurant%20website",
+    "pressChecked": "2026-08-17"
   },
   "pochawa-grill": {
     "placeId": "ChIJH7y8t08FdkgRUg-zca49Y8s",
@@ -6545,8 +7384,13 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 163,
     "walkMin": 3,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid=288222&type=standard&theme=standard&color=1&dark=false&iframe=true&domain=couk&lang=en-GB&newtab=false&ot_source=Restaurant%20website&cfe=true)",
+    "pressChecked": "2026-08-17"
   },
+  "polo-bar": {},
+  "pophams-bakery": {},
   "popolo-shoreditch": {
     "rating": 4.4,
     "ratingCount": 810,
@@ -6583,7 +7427,10 @@
     "station": "Aldgate East",
     "stationDistanceM": 554,
     "walkMin": 9,
-    "walkFrom": "Aldgate East Underground Station"
+    "walkFrom": "Aldgate East Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://poppiesfishandchips.co.uk/reservations/",
+    "pressChecked": "2026-08-17"
   },
   "prospect-of-whitby": {
     "placeId": "ChIJDZPR4SgDdkgR2_djyaGslOM",
@@ -6599,7 +7446,10 @@
     "station": "Shadwell",
     "stationDistanceM": 652,
     "walkMin": 11,
-    "walkFrom": "Shadwell DLR Station"
+    "walkFrom": "Shadwell DLR Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.greeneking.co.uk/pubs/greater-london/prospect-of-whitby/book",
+    "pressChecked": "2026-08-17"
   },
   "prufrock-coffee": {
     "placeId": "ChIJac2MJkwbdkgREaRKCWzWrHc",
@@ -6615,7 +7465,9 @@
     "station": "Chancery Lane",
     "stationDistanceM": 198,
     "walkMin": 3,
-    "walkFrom": "Chancery Lane Underground Station"
+    "walkFrom": "Chancery Lane Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "punjab-covent-garden": {
     "placeId": "ChIJOwZi1DIbdkgR9N8Wcyebz_Q",
@@ -6631,7 +7483,8 @@
     "station": "Covent Garden",
     "stationDistanceM": 108,
     "walkMin": 2,
-    "walkFrom": "Covent Garden Underground Station"
+    "walkFrom": "Covent Garden Underground Station",
+    "bookingProbe": "fetch failed"
   },
   "pyro": {
     "placeId": "ChIJNU_J-D8FdkgRubseG6wcm9Q",
@@ -6647,7 +7500,10 @@
     "station": "Borough",
     "stationDistanceM": 315,
     "walkMin": 5,
-    "walkFrom": "Borough Underground Station"
+    "walkFrom": "Borough Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/pyrolondon/reservations/create/search?venues=pyrolondon,pyroterrace",
+    "pressChecked": "2026-08-17"
   },
   "quality-chop-house": {
     "placeId": "ChIJSblyaE8bdkgRI36jwz2mSas",
@@ -6663,7 +7519,10 @@
     "station": "Farringdon",
     "stationDistanceM": 546,
     "walkMin": 9,
-    "walkFrom": "Farringdon Underground Station"
+    "walkFrom": "Farringdon Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/the-quality-chop-house-reservations-london?restref=96150&#038;lang=en-GB&#038;ot_source=Restaurant%20website",
+    "pressChecked": "2026-08-17"
   },
   "queen-of-sheba": {
     "placeId": "ChIJeRLw_AEbdkgRcp8EvFfY3fo",
@@ -6679,7 +7538,9 @@
     "station": "Kentish Town",
     "stationDistanceM": 195,
     "walkMin": 3,
-    "walkFrom": "Kentish Town Underground Station"
+    "walkFrom": "Kentish Town Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "quilon": {
     "placeId": "ChIJu3jc0d4EdkgRmVLp_Cwwti4",
@@ -6695,7 +7556,11 @@
     "station": "St. James's Park",
     "stationDistanceM": 291,
     "walkMin": 5,
-    "walkFrom": "St. James's Park Underground Station"
+    "walkFrom": "St. James's Park Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/thequilon",
+    "pressKit": "https://www.ihcltata.com/press-room/",
+    "pressChecked": "2026-08-17"
   },
   "quo-vadis": {
     "placeId": "ChIJQdL1JNMEdkgRxbWzk_RxYHI",
@@ -6711,7 +7576,10 @@
     "station": "Tottenham Court Road",
     "stationDistanceM": 292,
     "walkMin": 5,
-    "walkFrom": "Tottenham Court Road Underground Station"
+    "walkFrom": "Tottenham Court Road Underground Station",
+    "bookingPlatform": "designmynight",
+    "bookingUrl": "http://www.quovadissoho.co.uk/",
+    "pressChecked": "2026-08-17"
   },
   "rabieng-thai": {
     "placeId": "ChIJv29u9WYbdkgR2sm2eNVe-cs",
@@ -6727,7 +7595,10 @@
     "station": "Angel",
     "stationDistanceM": 759,
     "walkMin": 12,
-    "walkFrom": "Angel Underground Station"
+    "walkFrom": "Angel Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "http://rabiengthai.co.uk/reservations",
+    "pressChecked": "2026-08-17"
   },
   "ramo-ramen": {
     "placeId": "ChIJV-84VrEbdkgRy9eK_8u0GSY",
@@ -6742,7 +7613,10 @@
     "station": "Kentish Town",
     "stationDistanceM": 598,
     "walkMin": 10,
-    "walkFrom": "Kentish Town Underground Station"
+    "walkFrom": "Kentish Town Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/ramosoho/",
+    "pressChecked": "2026-08-17"
   },
   "ranoush-juice": {
     "placeId": "ChIJEaEJMTUFdkgRk-bgyHni1aI",
@@ -6758,7 +7632,10 @@
     "station": "Marble Arch",
     "stationDistanceM": 221,
     "walkMin": 4,
-    "walkFrom": "Marble Arch Underground Station"
+    "walkFrom": "Marble Arch Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "http://www.maroush.com/",
+    "pressChecked": "2026-08-17"
   },
   "rasa-sayang": {
     "placeId": "ChIJy1_-WdIEdkgRko1fzvb7Eoo",
@@ -6774,7 +7651,8 @@
     "station": "Leicester Square",
     "stationDistanceM": 183,
     "walkMin": 3,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "red-lion-and-sun": {
     "placeId": "ChIJ2yaCKk8adkgRTT3QOxE-aLs",
@@ -6809,7 +7687,8 @@
     "station": "Russell Square",
     "stationDistanceM": 451,
     "walkMin": 7,
-    "walkFrom": "Russell Square Underground Station"
+    "walkFrom": "Russell Square Underground Station",
+    "bookingProbe": "HTTP 404"
   },
   "regency-cafe": {
     "placeId": "ChIJ565hgN0EdkgRMhOboIZ7uJ8",
@@ -6825,7 +7704,9 @@
     "station": "Pimlico",
     "stationDistanceM": 559,
     "walkMin": 9,
-    "walkFrom": "Pimlico Underground Station"
+    "walkFrom": "Pimlico Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "richard-hawards-oysters": {
     "placeId": "ChIJi_XTdVcDdkgRrjp2XK_GYBg",
@@ -6841,7 +7722,9 @@
     "station": "London Bridge",
     "stationDistanceM": 168,
     "walkMin": 3,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "river-cafe": {
     "website": "https://rivercafe.co.uk/",
@@ -6881,7 +7764,9 @@
     "station": "Chingford",
     "stationDistanceM": 469,
     "walkMin": 8,
-    "walkFrom": "Chingford Rail Station"
+    "walkFrom": "Chingford Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "rochelle-canteen": {
     "placeId": "ChIJNfBU2bkcdkgRJoQiLng7HHY",
@@ -6897,7 +7782,8 @@
     "station": "Shoreditch High Street",
     "stationDistanceM": 200,
     "walkMin": 3,
-    "walkFrom": "Shoreditch High Street Rail Station"
+    "walkFrom": "Shoreditch High Street Rail Station",
+    "bookingProbe": "HTTP 403"
   },
   "rock-and-sole-plaice": {
     "placeId": "ChIJ6wsgLTMbdkgRObEIyzQf10g",
@@ -6913,7 +7799,9 @@
     "station": "Covent Garden",
     "stationDistanceM": 216,
     "walkMin": 4,
-    "walkFrom": "Covent Garden Underground Station"
+    "walkFrom": "Covent Garden Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "roka-fitzrovia": {
     "placeId": "ChIJ1SQoZSwbdkgRX7bLXUu3bIc",
@@ -6929,7 +7817,8 @@
     "station": "Goodge Street",
     "stationDistanceM": 293,
     "walkMin": 5,
-    "walkFrom": "Goodge Street Underground Station"
+    "walkFrom": "Goodge Street Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "roma-pizza": {
     "rating": 4.8,
@@ -6981,7 +7870,10 @@
     "station": "Wandsworth Common",
     "stationDistanceM": 349,
     "walkMin": 6,
-    "walkFrom": "Wandsworth Common Rail Station"
+    "walkFrom": "Wandsworth Common Rail Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://rosinarestaurant.co.uk/book-2/",
+    "pressChecked": "2026-08-17"
   },
   "rosslyn-coffee": {
     "placeId": "ChIJ1fRYjo4ddkgRRZq7lphil6E",
@@ -6997,7 +7889,9 @@
     "station": "Moorgate",
     "stationDistanceM": 133,
     "walkMin": 2,
-    "walkFrom": "Moorgate Underground Station"
+    "walkFrom": "Moorgate Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "rovi": {
     "placeId": "ChIJ2RgEeicbdkgRZwQczgnQNN8",
@@ -7013,7 +7907,10 @@
     "station": "Oxford Circus",
     "stationDistanceM": 335,
     "walkMin": 5,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/ottolenghibicestervillage/reservations/create/search",
+    "pressChecked": "2026-08-17"
   },
   "row-on-5": {
     "placeId": "ChIJu8QEs-8FdkgRE0znNGEGBoQ",
@@ -7029,7 +7926,10 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 360,
     "walkMin": 6,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/rowon5/",
+    "pressChecked": "2026-08-17"
   },
   "royal-china": {
     "placeId": "ChIJkcjkqs0adkgRJyq8HDKeitc",
@@ -7045,7 +7945,10 @@
     "station": "Bond Street",
     "stationDistanceM": 473,
     "walkMin": 8,
-    "walkFrom": "Bond Street Underground Station"
+    "walkFrom": "Bond Street Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.royalchinagroup.co.uk/reservation",
+    "pressChecked": "2026-08-17"
   },
   "sabor": {
     "placeId": "ChIJoXHzltUEdkgRc7QLGWRren0",
@@ -7061,8 +7964,13 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 376,
     "walkMin": 6,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/saborrestaurant/reservations/create/search?venues=legado%2Csaborrestaurant",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
+  "sager-and-wilde": {},
   "sagye": {
     "placeId": "ChIJp4CCWMgDdkgRvD94-cfch54",
     "placesName": "Sagye - Canary Wharf",
@@ -7077,7 +7985,10 @@
     "station": "Mudchute",
     "stationDistanceM": 781,
     "walkMin": 13,
-    "walkFrom": "Mudchute DLR Station"
+    "walkFrom": "Mudchute DLR Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://sagyelondon.com/",
+    "pressChecked": "2026-08-17"
   },
   "sale-e-pepe-mare": {
     "placeId": "ChIJMZ-GUpAbdkgRFXrN8dsAPUM",
@@ -7093,8 +8004,12 @@
     "station": "Oxford Circus",
     "stationDistanceM": 212,
     "walkMin": 3,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/sale-e-pepe-mare-reservations-london?restref=423816&lang=en-GB&ot_source=Restaurant%20website",
+    "pressChecked": "2026-08-17"
   },
+  "salloos": {},
   "salt-yard": {
     "placeId": "ChIJqRED6isbdkgRCT80mnwGaVU",
     "placesName": "Salt Yard",
@@ -7109,7 +8024,10 @@
     "station": "Goodge Street",
     "stationDistanceM": 211,
     "walkMin": 3,
-    "walkFrom": "Goodge Street Underground Station"
+    "walkFrom": "Goodge Street Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.saltyard.co.uk/reservations",
+    "pressChecked": "2026-08-17"
   },
   "santa-maria-pizzeria": {
     "rating": 4.5,
@@ -7134,6 +8052,7 @@
     "bookingUrl": "https://booking.resdiary.com/widget/Standard/SantaMariaPaddington/59017",
     "pressChecked": "2026-08-17"
   },
+  "santi-east-village": {},
   "santo-remedio": {
     "placeId": "ChIJnVPRUqUcdkgRcLgam6bOw94",
     "placesName": "Santo Remedio - Asador, London Bridge",
@@ -7148,7 +8067,9 @@
     "station": "London Bridge",
     "stationDistanceM": 624,
     "walkMin": 10,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "sarvs-slice": {
     "postcode": "W5 5FA",
@@ -7172,6 +8093,9 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "satans-whiskers": {},
+  "scarfes-bar": {},
+  "seed-library": {},
   "seoul-bird": {
     "placeId": "ChIJq5CjbxEPdkgRTsUH6XX_bxs",
     "placesName": "Seoul Bird",
@@ -7186,7 +8110,9 @@
     "station": "Shepherd's Bush Market",
     "stationDistanceM": 342,
     "walkMin": 6,
-    "walkFrom": "Shepherd's Bush Market Underground Station"
+    "walkFrom": "Shepherd's Bush Market Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "seoul-matjib": {
     "placeId": "ChIJPSjSGA4JdkgRzW7esYz5ZRQ",
@@ -7202,7 +8128,9 @@
     "station": "New Malden",
     "stationDistanceM": 758,
     "walkMin": 12,
-    "walkFrom": "New Malden Rail Station"
+    "walkFrom": "New Malden Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "sessions-arts-club": {
     "placeId": "ChIJ5c0PZgMbdkgR7pI2mkDeBrY",
@@ -7218,7 +8146,10 @@
     "station": "Farringdon",
     "stationDistanceM": 209,
     "walkMin": 3,
-    "walkFrom": "Farringdon Underground Station"
+    "walkFrom": "Farringdon Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/sessionsartsclub/reservations/create/search/landing",
+    "pressChecked": "2026-08-17"
   },
   "sette-knightsbridge": {
     "rating": 4.5,
@@ -7257,7 +8188,10 @@
     "station": "Covent Garden",
     "stationDistanceM": 108,
     "walkMin": 2,
-    "walkFrom": "Covent Garden Underground Station"
+    "walkFrom": "Covent Garden Underground Station",
+    "bookingPlatform": "exploretock",
+    "bookingUrl": "https://www.sevendialsmarket.com/book-a-table/",
+    "pressChecked": "2026-08-17"
   },
   "shan-shui-social": {
     "placeId": "ChIJsXtpkRMFdkgRGbnTiNwEkvg",
@@ -7273,7 +8207,9 @@
     "station": "Victoria",
     "stationDistanceM": 95,
     "walkMin": 2,
-    "walkFrom": "Victoria Underground Station"
+    "walkFrom": "Victoria Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "shanghai-me": {
     "placeId": "ChIJJ3e7_o8FdkgRzTc1VS01KAA",
@@ -7289,7 +8225,11 @@
     "station": "Hyde Park Corner",
     "stationDistanceM": 276,
     "walkMin": 4,
-    "walkFrom": "Hyde Park Corner Underground Station"
+    "walkFrom": "Hyde Park Corner Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/shanghaimelondon/reservations/create/search/",
+    "pressKit": "https://shanghaime-london.com/press",
+    "pressChecked": "2026-08-17"
   },
   "shankeys": {
     "placeId": "ChIJded3t1sddkgReJfj2iOAS1o",
@@ -7305,7 +8245,9 @@
     "station": "Homerton",
     "stationDistanceM": 419,
     "walkMin": 7,
-    "walkFrom": "Homerton Rail Station"
+    "walkFrom": "Homerton Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "sheba-brick-lane": {
     "placeId": "ChIJMRl6DLYcdkgRt9E0ECCsVcc",
@@ -7321,7 +8263,9 @@
     "station": "Aldgate East",
     "stationDistanceM": 671,
     "walkMin": 11,
-    "walkFrom": "Aldgate East Underground Station"
+    "walkFrom": "Aldgate East Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "shoreditch-fish-and-chips": {
     "placeId": "ChIJAcmfkrccdkgRU3PXPq7Nqaw",
@@ -7337,7 +8281,9 @@
     "station": "Shoreditch High Street",
     "stationDistanceM": 235,
     "walkMin": 4,
-    "walkFrom": "Shoreditch High Street Rail Station"
+    "walkFrom": "Shoreditch High Street Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "shoryu-ramen": {
     "placeId": "ChIJpdON8tMEdkgRIPpJYxMEWAY",
@@ -7353,7 +8299,10 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 15,
     "walkMin": 1,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "shree-krishna-vada-pav": {
     "placeId": "ChIJH3JnJzQbdkgR9d8Mpp7w4WE",
@@ -7369,7 +8318,9 @@
     "station": "Oxford Circus",
     "stationDistanceM": 219,
     "walkMin": 4,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "sichuan-folk": {
     "placeId": "ChIJf-r01bUcdkgRtM09i2F_YVs",
@@ -7384,7 +8335,10 @@
     "station": "Aldgate East",
     "stationDistanceM": 554,
     "walkMin": 9,
-    "walkFrom": "Aldgate East Underground Station"
+    "walkFrom": "Aldgate East Underground Station",
+    "bookingPlatform": "quandoo",
+    "bookingUrl": "https://widget.quandoo.co.uk/widget/reservation/merchant/h49z5?&countryId=GBR",
+    "pressChecked": "2026-08-17"
   },
   "simpsons-in-the-strand": {
     "placeId": "ChIJCyGjxMsEdkgR56s8-gFqDnU",
@@ -7400,7 +8354,10 @@
     "station": "Embankment",
     "stationDistanceM": 347,
     "walkMin": 6,
-    "walkFrom": "Embankment Underground Station"
+    "walkFrom": "Embankment Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/granddivan/reservations/create/search",
+    "pressChecked": "2026-08-17"
   },
   "singburi": {
     "placeId": "ChIJMVmTd3mn2EcRp_LpiaZaM_Q",
@@ -7416,7 +8373,11 @@
     "station": "Shoreditch High Street",
     "stationDistanceM": 140,
     "walkMin": 2,
-    "walkFrom": "Shoreditch High Street Rail Station"
+    "walkFrom": "Shoreditch High Street Rail Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/singburi-reservations-london-2?restref=342303&lang=en-GB&ot_source=Restaurant%20website",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "sketch-afternoon-tea": {
     "placeId": "ChIJa4btjyoFdkgRJAOdAdsAdbA",
@@ -7452,7 +8413,10 @@
     "station": "Bermondsey",
     "stationDistanceM": 709,
     "walkMin": 12,
-    "walkFrom": "Bermondsey Underground Station"
+    "walkFrom": "Bermondsey Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.com/smiths-restaurant-wapping-reservations-london?restref=55036&#038;lang=en-US",
+    "pressChecked": "2026-08-17"
   },
   "smoking-goat": {
     "placeId": "ChIJC_TBt7AcdkgRhkmL-r9VwRU",
@@ -7468,7 +8432,10 @@
     "station": "Shoreditch High Street",
     "stationDistanceM": 87,
     "walkMin": 1,
-    "walkFrom": "Shoreditch High Street Rail Station"
+    "walkFrom": "Shoreditch High Street Rail Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.smokinggoatbar.com/reservations",
+    "pressChecked": "2026-08-17"
   },
   "sohaila": {
     "placeId": "ChIJ6WQRXHAddkgRoAWU8teEds0",
@@ -7484,7 +8451,10 @@
     "station": "Shoreditch High Street",
     "stationDistanceM": 245,
     "walkMin": 4,
-    "walkFrom": "Shoreditch High Street Rail Station"
+    "walkFrom": "Shoreditch High Street Rail Station",
+    "bookingPlatform": "resy",
+    "bookingUrl": "https://sohailarestaurant.com/book-a-table-1",
+    "pressChecked": "2026-08-17"
   },
   "som-saa": {
     "placeId": "ChIJobyn_rQcdkgRE042NxgeR1k",
@@ -7500,7 +8470,10 @@
     "station": "Aldgate East",
     "stationDistanceM": 245,
     "walkMin": 4,
-    "walkFrom": "Aldgate East Underground Station"
+    "walkFrom": "Aldgate East Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/somsaa?venues=somsaa,kolae",
+    "pressChecked": "2026-08-17"
   },
   "song-que": {
     "placeId": "ChIJybk4BLwcdkgRlNpyGIPk3n4",
@@ -7516,7 +8489,9 @@
     "station": "Hoxton",
     "stationDistanceM": 61,
     "walkMin": 1,
-    "walkFrom": "Hoxton Rail Station"
+    "walkFrom": "Hoxton Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "sonora-taqueria": {
     "placeId": "ChIJrwOaCxEddkgREB54Uznpbaw",
@@ -7532,7 +8507,9 @@
     "station": "Stoke Newington",
     "stationDistanceM": 360,
     "walkMin": 6,
-    "walkFrom": "Stoke Newington Rail Station"
+    "walkFrom": "Stoke Newington Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "sorabol": {
     "placeId": "ChIJd_jdfA0JdkgRUgjS1hBMUs8",
@@ -7581,7 +8558,8 @@
     "station": "Golders Green",
     "stationDistanceM": 1433,
     "walkMin": 23,
-    "walkFrom": "Golders Green Underground Station"
+    "walkFrom": "Golders Green Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "sparrow-italian": {
     "rating": 4.6,
@@ -7620,8 +8598,12 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 163,
     "walkMin": 3,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "sevenrooms, opentable",
+    "bookingUrl": "https://www.sevenrooms.com/explore/speedboat/reservations/create/search?searchTab=group_bookings&#038;venues=speedboat%2Cplaza",
+    "pressChecked": "2026-08-17"
   },
+  "spice-village-tooting": {},
   "st-john": {
     "placeId": "ChIJFzO5YVEbdkgR1zdv5_hzZwg",
     "placesName": "St. John",
@@ -7636,8 +8618,12 @@
     "station": "Barbican",
     "stationDistanceM": 210,
     "walkMin": 3,
-    "walkFrom": "Barbican Underground Station"
+    "walkFrom": "Barbican Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.stjohnrestaurant.com/",
+    "pressChecked": "2026-08-17"
   },
+  "st-john-bakery": {},
   "sticks-n-sushi-battersea": {
     "placeId": "ChIJtWIsogMFdkgRBE1MkcaZezo",
     "placesName": "Sticks'n'Sushi Battersea",
@@ -7652,8 +8638,12 @@
     "station": "Battersea Power Station",
     "stationDistanceM": 104,
     "walkMin": 2,
-    "walkFrom": "Battersea Power Station Underground Station"
+    "walkFrom": "Battersea Power Station Underground Station",
+    "bookingPlatform": "opentable, designmynight",
+    "bookingUrl": "https://www.opentable.co.uk/booking/experiences-availability?rid=370581&restref=370581&experienceId=763331",
+    "pressChecked": "2026-08-17"
   },
+  "suba-bakery": {},
   "sud-italia": {
     "postcode": "E1 6EW",
     "lat": 51.519803,
@@ -7691,7 +8681,9 @@
     "station": "Caledonian Road & Barnsbury",
     "stationDistanceM": 283,
     "walkMin": 5,
-    "walkFrom": "Caledonian Road & Barnsbury Rail Station"
+    "walkFrom": "Caledonian Road & Barnsbury Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "supawan": {
     "placeId": "ChIJe7Dr3z4bdkgRUmbggSDRRNw",
@@ -7707,7 +8699,10 @@
     "station": "King's Cross St. Pancras",
     "stationDistanceM": 224,
     "walkMin": 4,
-    "walkFrom": "King's Cross St. Pancras Underground Station"
+    "walkFrom": "King's Cross St. Pancras Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "http://supawan.co.uk/reservations",
+    "pressChecked": "2026-08-17"
   },
   "sushi-atelier": {
     "placeId": "ChIJIyyQ6NUadkgR3_o542CXFt8",
@@ -7723,7 +8718,10 @@
     "station": "Oxford Circus",
     "stationDistanceM": 420,
     "walkMin": 7,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingPlatform": "resdiary",
+    "bookingUrl": "https://booking.resdiary.com/widget/FixedSize/SushiAtelier/1265?includeJquery=false%22",
+    "pressChecked": "2026-08-17"
   },
   "sushi-kanesaka": {
     "placeId": "ChIJz6Z6V5wFdkgRQ9AZGAlIpzU",
@@ -7739,7 +8737,8 @@
     "station": "Hyde Park Corner",
     "stationDistanceM": 345,
     "walkMin": 6,
-    "walkFrom": "Hyde Park Corner Underground Station"
+    "walkFrom": "Hyde Park Corner Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "sushi-tetsu": {
     "placeId": "ChIJoetdiQgbdkgRj3RUZzrWDIU",
@@ -7769,7 +8768,9 @@
     "station": "Liverpool Street",
     "stationDistanceM": 215,
     "walkMin": 3,
-    "walkFrom": "Liverpool Street Underground Station"
+    "walkFrom": "Liverpool Street Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "sutton-and-sons": {
     "placeId": "ChIJGSXWKvscdkgRWK8sRPaQC9M",
@@ -7785,7 +8786,10 @@
     "station": "Hackney Central",
     "stationDistanceM": 143,
     "walkMin": 2,
-    "walkFrom": "Hackney Central Rail Station"
+    "walkFrom": "Hackney Central Rail Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "http://www.suttonandsons.co.uk/book-stoke-newington",
+    "pressChecked": "2026-08-17"
   },
   "sweetings": {
     "placeId": "ChIJrYrCfaoEdkgRiZeNxTC3JZc",
@@ -7800,8 +8804,11 @@
     "station": "Cannon Street",
     "stationDistanceM": 122,
     "walkMin": 2,
-    "walkFrom": "Cannon Street Underground Station"
+    "walkFrom": "Cannon Street Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
+  "swift-soho": {},
   "t-by-tamara": {
     "placeId": "ChIJsz7AB7sbdkgRgNOUckEBDnE",
     "placesName": "T by Tamara",
@@ -7831,7 +8838,10 @@
     "station": "Deptford",
     "stationDistanceM": 96,
     "walkMin": 2,
-    "walkFrom": "Deptford Rail Station"
+    "walkFrom": "Deptford Rail Station",
+    "bookingPlatform": "exploretock",
+    "bookingUrl": "http://www.tacatacos.co.uk/",
+    "pressChecked": "2026-08-17"
   },
   "tacos-padre": {
     "placeId": "ChIJ-drK4dIDdkgRItYBMM9YviA",
@@ -7847,7 +8857,9 @@
     "station": "London Bridge",
     "stationDistanceM": 151,
     "walkMin": 2,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "tamarind": {
     "placeId": "ChIJTUlS0S4FdkgRNcarX5NN-AM",
@@ -7863,7 +8875,11 @@
     "station": "Green Park",
     "stationDistanceM": 292,
     "walkMin": 5,
-    "walkFrom": "Green Park Underground Station"
+    "walkFrom": "Green Park Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "http://www.tamarindrestaurant.com/",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "tamila-clapham": {
     "placeId": "ChIJXU5VdfcFdkgR4IKuTRWUFmo",
@@ -7879,7 +8895,10 @@
     "station": "Clapham Junction",
     "stationDistanceM": 650,
     "walkMin": 11,
-    "walkFrom": "Clapham Junction Rail Station"
+    "walkFrom": "Clapham Junction Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "tamini-lebanese-bakery": {
     "placeId": "ChIJ1xSMcM4PdkgR7TOMP5xRgcQ",
@@ -7895,7 +8914,9 @@
     "station": "Parsons Green",
     "stationDistanceM": 267,
     "walkMin": 4,
-    "walkFrom": "Parsons Green Underground Station"
+    "walkFrom": "Parsons Green Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "tanakatsu": {
     "placeId": "ChIJ3eYJj1sbdkgRnf0nrhaPBR0",
@@ -7911,7 +8932,10 @@
     "station": "Angel",
     "stationDistanceM": 398,
     "walkMin": 6,
-    "walkFrom": "Angel Underground Station"
+    "walkFrom": "Angel Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "http://www.opentable.co.uk/restaurant/profile/140661/reserve?rid=140661&restref=140661",
+    "pressChecked": "2026-08-17"
   },
   "tao-tao-ju": {
     "placeId": "ChIJZbyFQtIEdkgRZcAv68cpaPU",
@@ -7927,7 +8951,10 @@
     "station": "Leicester Square",
     "stationDistanceM": 117,
     "walkMin": 2,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "http://www.taotaoju.co.uk/reservation",
+    "pressChecked": "2026-08-17"
   },
   "tasty-jerk": {
     "placeId": "ChIJ04etHy4BdkgRFYSp2NzSvu0",
@@ -7958,8 +8985,12 @@
     "station": "Shoreditch High Street",
     "stationDistanceM": 269,
     "walkMin": 4,
-    "walkFrom": "Shoreditch High Street Rail Station"
+    "walkFrom": "Shoreditch High Street Rail Station",
+    "bookingPlatform": "designmynight",
+    "bookingUrl": "https://bookings.designmynight.com/book?venue_id=512b2067d5d190d2978ca802&source=partner&type=69931ae6b02bc2319d46cb14&date=2026-07-19",
+    "pressChecked": "2026-08-17"
   },
+  "tayer-elementary": {},
   "tayyabs": {
     "placeId": "ChIJsXHacsscdkgRUnql8CSRexg",
     "placesName": "Tayyabs",
@@ -7974,7 +9005,10 @@
     "station": "Whitechapel",
     "stationDistanceM": 447,
     "walkMin": 7,
-    "walkFrom": "Whitechapel Underground Station"
+    "walkFrom": "Whitechapel Underground Station",
+    "bookingPlatform": "resdiary",
+    "bookingUrl": "https://booking.resdiary.com/widget/Standard/Tayyabs/13658",
+    "pressChecked": "2026-08-17"
   },
   "teal-by-sally-abe": {
     "placeId": "ChIJzVKG4F8ddkgRqoOKQAXRTpo",
@@ -7989,7 +9023,10 @@
     "station": "Hackney Central",
     "stationDistanceM": 415,
     "walkMin": 7,
-    "walkFrom": "Hackney Central Rail Station"
+    "walkFrom": "Hackney Central Rail Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.tealbysallyabe.com/book",
+    "pressChecked": "2026-08-17"
   },
   "temaki-mayfair": {
     "placeId": "ChIJH6C6GO0FdkgRmRXKiX0o2LI",
@@ -8005,7 +9042,10 @@
     "station": "Oxford Circus",
     "stationDistanceM": 255,
     "walkMin": 4,
-    "walkFrom": "Oxford Circus Underground Station"
+    "walkFrom": "Oxford Circus Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?rid=254679&lang=en-GB&color=1&r3uid=cfe&dark=false&correlationId=ee5e3676-1d97-4e63-b1bf-ec56f0b254a7&restRef=254679&otSource=Restaurant%20website",
+    "pressChecked": "2026-08-17"
   },
   "the-ampersand": {
     "placeId": "ChIJm_BvYl0FdkgR5-qNzNVoA3M",
@@ -8034,7 +9074,10 @@
     "postcode": "W1S 3BF",
     "website": "https://the-araki.co.uk/",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Sunday, Monday"
+    "closedDays": "Sunday, Monday",
+    "bookingPlatform": "exploretock",
+    "bookingUrl": "https://the-araki.co.uk/booking-policy",
+    "pressChecked": "2026-08-17"
   },
   "the-attendant": {
     "placeId": "ChIJT3lsCSobdkgRsmpQbI2yp5w",
@@ -8050,7 +9093,9 @@
     "station": "Goodge Street",
     "stationDistanceM": 429,
     "walkMin": 7,
-    "walkFrom": "Goodge Street Underground Station"
+    "walkFrom": "Goodge Street Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "the-aubrey": {
     "placeId": "ChIJQdBkl-QFdkgRol9lF6pdPTo",
@@ -8066,7 +9111,10 @@
     "station": "Knightsbridge",
     "stationDistanceM": 111,
     "walkMin": 2,
-    "walkFrom": "Knightsbridge Underground Station"
+    "walkFrom": "Knightsbridge Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/theaubreymolon/?venues=theaubreymolon,theroseberymolon,dinnerbyhestonmolon,hydeparkgarden",
+    "pressChecked": "2026-08-17"
   },
   "the-barbary": {
     "placeId": "ChIJFQE6KM0EdkgRlUwerzMDqR8",
@@ -8082,7 +9130,11 @@
     "station": "Covent Garden",
     "stationDistanceM": 148,
     "walkMin": 2,
-    "walkFrom": "Covent Garden Underground Station"
+    "walkFrom": "Covent Garden Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/thebarbary/reservations/create/search?venues=thebarbary",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "the-begging-bowl": {
     "placeId": "ChIJFaYJzpgDdkgRstEA5UEW7Wc",
@@ -8098,7 +9150,10 @@
     "station": "Peckham Rye",
     "stationDistanceM": 513,
     "walkMin": 8,
-    "walkFrom": "Peckham Rye Rail Station"
+    "walkFrom": "Peckham Rye Rail Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/thebeggingbowl/reservations/create/search/",
+    "pressChecked": "2026-08-17"
   },
   "the-berkeley-tea": {
     "placeId": "ChIJ5YHhqjsFdkgR3-qEY9FMp_M",
@@ -8133,7 +9188,10 @@
     "station": "Gloucester Road",
     "stationDistanceM": 153,
     "walkMin": 2,
-    "walkFrom": "Gloucester Road Underground Station"
+    "walkFrom": "Gloucester Road Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/bombaybrasserie",
+    "pressChecked": "2026-08-17"
   },
   "the-bull-and-last": {
     "placeId": "ChIJ9YPwQlYadkgRDPXRCtg-Om8",
@@ -8149,7 +9207,10 @@
     "station": "Tufnell Park",
     "stationDistanceM": 675,
     "walkMin": 11,
-    "walkFrom": "Tufnell Park Underground Station"
+    "walkFrom": "Tufnell Park Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/thebullandlast",
+    "pressChecked": "2026-08-17"
   },
   "the-bull-highgate": {
     "placeId": "ChIJ0TSJWUgadkgRTqirut2U4Mc",
@@ -8177,8 +9238,12 @@
     "address": "75 Sloane St, London SW1X 9SG, UK",
     "postcode": "SW1X 9SG",
     "website": "https://www.belmond.com/hotels/europe/uk/london/belmond-cadogan-hotel/?utm_source=local_search&utm_medium=link&utm_campaign=google_business",
-    "businessStatus": "OPERATIONAL"
+    "businessStatus": "OPERATIONAL",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.belmond.com/_nuxt/BookingFlowSidebarMainCta.Ck7Q-ULI.css",
+    "pressChecked": "2026-08-17"
   },
+  "the-captain-kidd": {},
   "the-cinnamon-club": {
     "placeId": "ChIJewr3utwEdkgRw51-rUzWyVo",
     "placesName": "The Cinnamon Club",
@@ -8193,7 +9258,10 @@
     "station": "St. James's Park",
     "stationDistanceM": 427,
     "walkMin": 7,
-    "walkFrom": "St. James's Park Underground Station"
+    "walkFrom": "St. James's Park Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://cinnamonclub.com/",
+    "pressChecked": "2026-08-17"
   },
   "the-cocochine": {
     "placeId": "ChIJiaD7CO4FdkgRD3TU2uCicsQ",
@@ -8209,7 +9277,11 @@
     "station": "Green Park",
     "stationDistanceM": 350,
     "walkMin": 6,
-    "walkFrom": "Green Park Underground Station"
+    "walkFrom": "Green Park Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.thecocochine.com/",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "the-connaught-tea": {
     "placeId": "ChIJiTyvxdcEdkgRIE3fJmxwzVM",
@@ -8244,7 +9316,9 @@
     "station": "Stratford",
     "stationDistanceM": 315,
     "walkMin": 5,
-    "walkFrom": "Stratford Underground Station"
+    "walkFrom": "Stratford Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "the-devonshire": {
     "placeId": "ChIJsc95TQcFdkgRDgDjFkIJCz8",
@@ -8314,8 +9388,13 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 329,
     "walkMin": 5,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/duck-and-rice/reservations/create/search/?venues=Duckandricebatterseapowerstation%2Ctheduckandrice",
+    "pressChecked": "2026-08-17"
   },
+  "the-dusty-knuckle": {},
+  "the-dysart-petersham": {},
   "the-eagle-farringdon": {
     "placeId": "ChIJh9q2bE8bdkgRpzHKqYGtiJY",
     "placesName": "The Eagle Farringdon",
@@ -8330,7 +9409,9 @@
     "station": "Farringdon",
     "stationDistanceM": 546,
     "walkMin": 9,
-    "walkFrom": "Farringdon Underground Station"
+    "walkFrom": "Farringdon Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "the-eight": {
     "placeId": "ChIJk_FZQekFdkgRNhKOTgF_Kp4",
@@ -8346,7 +9427,9 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 163,
     "walkMin": 3,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "the-french-house": {
     "placeId": "ChIJBUj2-9IEdkgRmSNxHI1mals",
@@ -8362,7 +9445,10 @@
     "station": "Leicester Square",
     "stationDistanceM": 191,
     "walkMin": 3,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingPlatform": "sevenrooms, resdiary",
+    "bookingUrl": "https://www.sevenrooms.com/explore/thefrenchhouse/reservations/",
+    "pressChecked": "2026-08-17"
   },
   "the-fryers-delight": {
     "placeId": "ChIJbdMAAzYbdkgRICjp99400zA",
@@ -8378,7 +9464,9 @@
     "station": "Holborn",
     "stationDistanceM": 361,
     "walkMin": 6,
-    "walkFrom": "Holborn Underground Station"
+    "walkFrom": "Holborn Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "the-george-inn": {
     "placeId": "ChIJo15e1lkDdkgR-X84Yf2cA0s",
@@ -8394,7 +9482,10 @@
     "station": "London Bridge",
     "stationDistanceM": 207,
     "walkMin": 3,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.greeneking.co.uk/pubs/greater-london/george-southwark/book",
+    "pressChecked": "2026-08-17"
   },
   "the-golden-hind": {
     "placeId": "ChIJMdRcXNIadkgRbP2CvZv70ng",
@@ -8410,7 +9501,10 @@
     "station": "Bond Street",
     "stationDistanceM": 301,
     "walkMin": 5,
-    "walkFrom": "Bond Street Underground Station"
+    "walkFrom": "Bond Street Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.goldenhindrestaurant.com/wp-content/plugins/booknbook/assets/css/booknbook.css?ver=2.1.1",
+    "pressChecked": "2026-08-17"
   },
   "the-golden-tooth": {
     "placeId": "ChIJ3TgWLoEcdkgR5mQIiz1zpJ8",
@@ -8464,8 +9558,12 @@
     "station": "Blackwall",
     "stationDistanceM": 667,
     "walkMin": 11,
-    "walkFrom": "Blackwall DLR Station"
+    "walkFrom": "Blackwall DLR Station",
+    "bookingPlatform": "designmynight",
+    "bookingUrl": "https://www.thegundocklands.com/?y_source=1_MTIyMzcxOTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "pressChecked": "2026-08-17"
   },
+  "the-holly-bush": {},
   "the-lanesborough-tea": {
     "placeId": "ChIJ2_19mdYEdkgRoZ6Ys0Mcj7I",
     "placesName": "The Lanesborough",
@@ -8513,7 +9611,11 @@
     "station": "Brixton",
     "stationDistanceM": 346,
     "walkMin": 6,
-    "walkFrom": "Brixton Underground Station"
+    "walkFrom": "Brixton Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "http://thelaundrybrixton.com/",
+    "pressKit": "http://thelaundrybrixton.com/press",
+    "pressChecked": "2026-08-17"
   },
   "the-ledbury": {
     "placeId": "ChIJe29QNB0QdkgR5Kkx_0-jdo4",
@@ -8529,7 +9631,10 @@
     "station": "Westbourne Park",
     "stationDistanceM": 573,
     "walkMin": 9,
-    "walkFrom": "Westbourne Park Underground Station"
+    "walkFrom": "Westbourne Park Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.theledbury.com/",
+    "pressChecked": "2026-08-17"
   },
   "the-life-goddess": {
     "placeId": "ChIJGQWm0C0bdkgRDVFxbC3zkoI",
@@ -8545,7 +9650,10 @@
     "station": "Tottenham Court Road",
     "stationDistanceM": 289,
     "walkMin": 5,
-    "walkFrom": "Tottenham Court Road Underground Station"
+    "walkFrom": "Tottenham Court Road Underground Station",
+    "bookingPlatform": "dishcult",
+    "bookingUrl": "https://dishcult.com/restaurant/thelifegoddessexperimentalgreekdevine?covers=2&bookingDate=2023-03-23&bookingTime=19%3A30&sortOrder=0&page=1&promotionId=0",
+    "pressChecked": "2026-08-17"
   },
   "the-mantl": {
     "placeId": "ChIJ53D3yEAFdkgRVnlGzBtMI-k",
@@ -8561,7 +9669,8 @@
     "station": "Knightsbridge",
     "stationDistanceM": 513,
     "walkMin": 8,
-    "walkFrom": "Knightsbridge Underground Station"
+    "walkFrom": "Knightsbridge Underground Station",
+    "bookingProbe": "HTTP 403"
   },
   "the-marksman": {
     "placeId": "ChIJo74Bs8AcdkgRg7RlvkGVKrM",
@@ -8596,7 +9705,10 @@
     "station": "Bond Street",
     "stationDistanceM": 269,
     "walkMin": 4,
-    "walkFrom": "Bond Street Underground Station"
+    "walkFrom": "Bond Street Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "http://www.mayfairchippy.com/",
+    "pressChecked": "2026-08-17"
   },
   "the-melusine": {
     "placeId": "ChIJRTxciuIDdkgR-8ja7ZqOo64",
@@ -8612,7 +9724,10 @@
     "station": "Tower Gateway",
     "stationDistanceM": 482,
     "walkMin": 8,
-    "walkFrom": "Tower Gateway DLR Station"
+    "walkFrom": "Tower Gateway DLR Station",
+    "bookingPlatform": "opentable, designmynight",
+    "bookingUrl": "https://www.opentable.co.uk/r/the-melusine-reservations-london?restref=206064&lang=en-GB&ot_source=Restaurant%20website",
+    "pressChecked": "2026-08-17"
   },
   "the-milestone-tea": {
     "placeId": "ChIJA9VUCwQFdkgRWhtz87Vv8DQ",
@@ -8647,7 +9762,11 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 163,
     "walkMin": 3,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/thepalomar/reservations/create/search?searchTab=group_bookings&venues=thepalomar",
+    "pressKit": "contact-only",
+    "pressChecked": "2026-08-17"
   },
   "the-parakeet": {
     "placeId": "ChIJnZet8bsbdkgRN6CDJw7msAw",
@@ -8699,6 +9818,7 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/theritzrestaurant/reservations/create/search?venues=theritzrestaurant,ritzlondoncigars,thelonggallery,ritzafternoontea,therivolibar",
     "pressChecked": "2026-08-17"
   },
+  "the-roebuck-richmond": {},
   "the-savoy-tea": {
     "placeId": "ChIJTVquz8sEdkgRKdz7pP3v9BU",
     "placesName": "The Savoy",
@@ -8731,7 +9851,9 @@
     "station": "Sloane Square",
     "stationDistanceM": 139,
     "walkMin": 2,
-    "walkFrom": "Sloane Square Underground Station"
+    "walkFrom": "Sloane Square Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "the-seashell-of-lisson-grove": {
     "placeId": "ChIJZ7rcNLYadkgR9MFSAbGgQu4",
@@ -8747,7 +9869,10 @@
     "station": "Marylebone",
     "stationDistanceM": 129,
     "walkMin": 2,
-    "walkFrom": "Marylebone Underground Station"
+    "walkFrom": "Marylebone Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/theseashelloflissongrove/reservations/create/search/",
+    "pressChecked": "2026-08-17"
   },
   "the-stafford": {
     "placeId": "ChIJUcD-3NcEdkgRkzG9rMMCBKE",
@@ -8769,6 +9894,7 @@
     "pressKit": "https://thestaffordlondon.com/press-room/",
     "pressChecked": "2026-08-17"
   },
+  "the-summerhouse": {},
   "the-tamil-crown": {
     "placeId": "ChIJxUzwTicbdkgRV5llToX5iTs",
     "placesName": "The Tamil Crown",
@@ -8783,7 +9909,10 @@
     "station": "Angel",
     "stationDistanceM": 279,
     "walkMin": 5,
-    "walkFrom": "Angel Underground Station"
+    "walkFrom": "Angel Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/thetamilcrown/reservations/create/search?venues=thetamilcrown%2Cthetamilprince%2Ctamilasoho%2Ctamilaclapham%2Ctamilakingscross",
+    "pressChecked": "2026-08-17"
   },
   "the-tamil-prince": {
     "placeId": "ChIJf-CNm5gbdkgRM5-J1EaYN4w",
@@ -8799,7 +9928,10 @@
     "station": "Caledonian Road & Barnsbury",
     "stationDistanceM": 344,
     "walkMin": 6,
-    "walkFrom": "Caledonian Road & Barnsbury Rail Station"
+    "walkFrom": "Caledonian Road & Barnsbury Rail Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/thetamilprince/reservations/create/search?venues=thetamilcrown%2Cthetamilprince%2Ctamilasoho%2Ctamilaclapham%2Ctamilakingscross",
+    "pressChecked": "2026-08-17"
   },
   "the-tapas-room": {
     "placeId": "ChIJ0XHFdGgPdkgRl_ctLa7f570",
@@ -8815,7 +9947,10 @@
     "station": "Wandsworth Town",
     "stationDistanceM": 61,
     "walkMin": 1,
-    "walkFrom": "Wandsworth Town Rail Station"
+    "walkFrom": "Wandsworth Town Rail Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.thetapasroom.co.uk/",
+    "pressChecked": "2026-08-17"
   },
   "the-turks-head": {
     "placeId": "ChIJIZsWgToDdkgRkaQl8KFL7Oc",
@@ -8831,7 +9966,10 @@
     "station": "Wapping",
     "stationDistanceM": 354,
     "walkMin": 6,
-    "walkFrom": "Wapping Rail Station"
+    "walkFrom": "Wapping Rail Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/bistrobardottheturksheadbistroprovencal/reservations/create/search/",
+    "pressChecked": "2026-08-17"
   },
   "the-victory-east-dulwich": {
     "placeId": "ChIJiwpvMAADdkgRjMcZT7Zw6lU",
@@ -8847,8 +9985,12 @@
     "station": "East Dulwich",
     "stationDistanceM": 723,
     "walkMin": 12,
-    "walkFrom": "East Dulwich Rail Station"
+    "walkFrom": "East Dulwich Rail Station",
+    "bookingProbe": "HTTP 403"
   },
+  "the-waterway": {},
+  "the-wells-tavern": {},
+  "the-white-cross-richmond": {},
   "the-wolseley": {
     "placeId": "ChIJr_4cVy8FdkgRIrNbO93eUFM",
     "placesName": "The Wolseley Piccadilly",
@@ -8891,6 +10033,7 @@
     "bookingUrl": "https://www.sevenrooms.com/reservations/theorandallcucinaitaliana/",
     "pressChecked": "2026-08-17"
   },
+  "three-sheets": {},
   "tiella": {
     "placeId": "ChIJLw5kBtcddkgRYVMYXsmueP4",
     "placesName": "Tiella Trattoria & Bar",
@@ -8910,6 +10053,7 @@
     "bookingUrl": "https://www.opentable.com/r/tiella-trattoria-and-bar-london",
     "pressChecked": "2026-08-17"
   },
+  "toad-bakery": {},
   "toffs": {
     "placeId": "ChIJ6zvRDS0adkgRqUvkNI2vhoI",
     "placesName": "Toff’s of Muswell Hill",
@@ -8924,7 +10068,10 @@
     "station": "Highgate",
     "stationDistanceM": 1283,
     "walkMin": 21,
-    "walkFrom": "Highgate Underground Station"
+    "walkFrom": "Highgate Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.toffsfish.co.uk/book",
+    "pressChecked": "2026-08-17"
   },
   "tokii": {
     "placeId": "ChIJVVUpQcsadkgR2eUkAPl_iT0",
@@ -8940,7 +10087,10 @@
     "station": "Marble Arch",
     "stationDistanceM": 175,
     "walkMin": 3,
-    "walkFrom": "Marble Arch Underground Station"
+    "walkFrom": "Marble Arch Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "http://tokii.co.uk/",
+    "pressChecked": "2026-08-17"
   },
   "tokyo-sukiyaki-tei": {
     "placeId": "ChIJgRxDi2oFdkgRgahaiDf_ApY",
@@ -8955,7 +10105,9 @@
     "station": "South Kensington",
     "stationDistanceM": 610,
     "walkMin": 10,
-    "walkFrom": "South Kensington Underground Station"
+    "walkFrom": "South Kensington Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "tollingtons": {
     "placeId": "ChIJL3zjupAbdkgR7SC_AKmoGYY",
@@ -8971,7 +10123,9 @@
     "station": "Finsbury Park",
     "stationDistanceM": 481,
     "walkMin": 8,
-    "walkFrom": "Finsbury Park Underground Station"
+    "walkFrom": "Finsbury Park Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "tongdak": {
     "placeId": "ChIJWfx_C-sJdkgRtZX5GZWnSIo",
@@ -8987,7 +10141,9 @@
     "station": "New Malden",
     "stationDistanceM": 668,
     "walkMin": 11,
-    "walkFrom": "New Malden Rail Station"
+    "walkFrom": "New Malden Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "tonkotsu": {
     "placeId": "ChIJVYnPAtMEdkgRZm7YWOFento",
@@ -9003,8 +10159,10 @@
     "station": "Leicester Square",
     "stationDistanceM": 306,
     "walkMin": 5,
-    "walkFrom": "Leicester Square Underground Station"
+    "walkFrom": "Leicester Square Underground Station",
+    "bookingProbe": "HTTP 403"
   },
+  "town-of-ramsgate": {},
   "trafalgar-tavern": {
     "placeId": "ChIJuYCd54ICdkgRmRF_n6vuMFQ",
     "placesName": "Trafalgar Tavern",
@@ -9019,7 +10177,10 @@
     "station": "Cutty Sark (for Maritime Greenwich)",
     "stationDistanceM": 538,
     "walkMin": 9,
-    "walkFrom": "Cutty Sark (for Maritime Greenwich) DLR Station"
+    "walkFrom": "Cutty Sark (for Maritime Greenwich) DLR Station",
+    "bookingPlatform": "designmynight",
+    "bookingUrl": "http://www.trafalgartavern.co.uk/",
+    "pressChecked": "2026-08-17"
   },
   "trinity-clapham": {
     "placeId": "ChIJHdc2Rq0FdkgRNkQ9YeRS1ig",
@@ -9035,7 +10196,10 @@
     "station": "Clapham Common",
     "stationDistanceM": 233,
     "walkMin": 4,
-    "walkFrom": "Clapham Common Underground Station"
+    "walkFrom": "Clapham Common Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://trinityrestaurant.co.uk/book/",
+    "pressChecked": "2026-08-17"
   },
   "trishna": {
     "placeId": "ChIJ8fHhiM0adkgR5dxGPhTVlvA",
@@ -9051,7 +10215,10 @@
     "station": "Bond Street",
     "stationDistanceM": 470,
     "walkMin": 8,
-    "walkFrom": "Bond Street Underground Station"
+    "walkFrom": "Bond Street Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/trishna/reservations/create/search?venues=ambassadorsclubhouse%2Ctrishna",
+    "pressChecked": "2026-08-17"
   },
   "trivet": {
     "placeId": "ChIJhZkSsNQDdkgRwGJZ7Z2rMjg",
@@ -9067,7 +10234,11 @@
     "station": "London Bridge",
     "stationDistanceM": 534,
     "walkMin": 9,
-    "walkFrom": "London Bridge Underground Station"
+    "walkFrom": "London Bridge Underground Station",
+    "bookingPlatform": "opentable, resy",
+    "bookingUrl": "http://trivetrestaurant.co.uk/",
+    "pressKit": "https://trivetrestaurant.co.uk/press/",
+    "pressChecked": "2026-08-17"
   },
   "trullo": {
     "website": "https://trullorestaurant.com/",
@@ -9106,8 +10277,12 @@
     "station": "Royal Oak",
     "stationDistanceM": 523,
     "walkMin": 9,
-    "walkFrom": "Royal Oak Underground Station"
+    "walkFrom": "Royal Oak Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "http://www.tsiakkos.co.uk/",
+    "pressChecked": "2026-08-17"
   },
+  "turners-old-star": {},
   "udaya-kerala": {
     "placeId": "ChIJ46LYoMqn2EcRg5SCWN1j1_E",
     "placesName": "Udaya Kerala Restaurant",
@@ -9122,7 +10297,9 @@
     "station": "East Ham",
     "stationDistanceM": 614,
     "walkMin": 10,
-    "walkFrom": "East Ham Underground Station"
+    "walkFrom": "East Ham Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "umu": {
     "placeId": "ChIJ9cBDsSsFdkgR79Fc_1y6_cI",
@@ -9138,7 +10315,10 @@
     "station": "Green Park",
     "stationDistanceM": 459,
     "walkMin": 7,
-    "walkFrom": "Green Park Underground Station"
+    "walkFrom": "Green Park Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/embed.js%E2%80%9D",
+    "pressChecked": "2026-08-17"
   },
   "unity-diner": {
     "placeId": "ChIJMf18h20ddkgRKwwdt_iqx7M",
@@ -9154,7 +10334,10 @@
     "station": "Aldgate East",
     "stationDistanceM": 115,
     "walkMin": 2,
-    "walkFrom": "Aldgate East Underground Station"
+    "walkFrom": "Aldgate East Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.com/r/unity-diner-spitalfields-london?corrid=4a7b2b1c-45d0-4aa6-9b20-f2fe9e938429&avt=eyJ2IjozLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2026-06-20T22%3A00%3A00&quot;,",
+    "pressChecked": "2026-08-17"
   },
   "vatavaran": {
     "placeId": "ChIJMSY-ZnIFdkgR9Gl8FyLYYjk",
@@ -9170,7 +10353,9 @@
     "station": "Knightsbridge",
     "stationDistanceM": 573,
     "walkMin": 9,
-    "walkFrom": "Knightsbridge Underground Station"
+    "walkFrom": "Knightsbridge Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "veeraswamy": {
     "placeId": "ChIJnVRkK9QEdkgRz8uiqq2HfjM",
@@ -9186,7 +10371,10 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 251,
     "walkMin": 4,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.veeraswamy.com/reservations/",
+    "pressChecked": "2026-08-17"
   },
   "vesper": {
     "placeId": "ChIJq3ARoBUbdkgR0_u1JdBgh2Y",
@@ -9202,7 +10390,10 @@
     "station": "Farringdon",
     "stationDistanceM": 635,
     "walkMin": 10,
-    "walkFrom": "Farringdon Underground Station"
+    "walkFrom": "Farringdon Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/vesperrestaurant/reservations/create/search/",
+    "pressChecked": "2026-08-17"
   },
   "viet-grill": {
     "placeId": "ChIJe1Pt6LscdkgRh8DkkIe_930",
@@ -9218,8 +10409,13 @@
     "station": "Hoxton",
     "stationDistanceM": 294,
     "walkMin": 5,
-    "walkFrom": "Hoxton Rail Station"
+    "walkFrom": "Hoxton Rail Station",
+    "bookingPlatform": "resdiary",
+    "bookingUrl": "https://booking.resdiary.com/widget/Standard/VietGrill/6417",
+    "pressChecked": "2026-08-17"
   },
+  "violet-cakes": {},
+  "voodoo-rays": {},
   "vori": {
     "placeId": "ChIJtWSL4t4PdkgRO-up-FdlVjs",
     "placesName": "Vori Restaurant Holland Park",
@@ -9234,7 +10430,10 @@
     "station": "Holland Park",
     "stationDistanceM": 157,
     "walkMin": 3,
-    "walkFrom": "Holland Park Underground Station"
+    "walkFrom": "Holland Park Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?lang=en-GB&correlationId=070a828c-de30-4288-a1de-291a6eef9cad&restRef=292815&otSource=Restaurant%20website",
+    "pressChecked": "2026-08-17"
   },
   "wandercrust": {
     "placeId": "ChIJeX7layao2EcRfPajXQKNaaE",
@@ -9250,7 +10449,9 @@
     "station": "Maze Hill",
     "stationDistanceM": 381,
     "walkMin": 6,
-    "walkFrom": "Maze Hill Rail Station"
+    "walkFrom": "Maze Hill Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "watchhouse": {
     "placeId": "ChIJVULiR0MDdkgR1CjSO-2f0ZM",
@@ -9266,7 +10467,9 @@
     "station": "Borough",
     "stationDistanceM": 958,
     "walkMin": 16,
-    "walkFrom": "Borough Underground Station"
+    "walkFrom": "Borough Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "watermans-arms": {
     "placeId": "ChIJKx2CP0APdkgRUX_W8j3ymBw",
@@ -9302,7 +10505,9 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 163,
     "walkMin": 3,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "workshop-coffee": {
     "placeId": "ChIJD1xcEigbdkgR_rS0GDp6t9M",
@@ -9318,7 +10523,9 @@
     "station": "Bond Street",
     "stationDistanceM": 412,
     "walkMin": 7,
-    "walkFrom": "Bond Street Underground Station"
+    "walkFrom": "Bond Street Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "wright-brothers-battersea": {
     "placeId": "ChIJtamkVAMFdkgR4FrSlSH88yY",
@@ -9334,7 +10541,10 @@
     "station": "Battersea Power Station",
     "stationDistanceM": 353,
     "walkMin": 6,
-    "walkFrom": "Battersea Power Station Underground Station"
+    "walkFrom": "Battersea Power Station Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/wrightbrosbatterseapowerstation/web-nav?venues=wrightbrossouthkensington,wrightbrosboroughmarket,wrightbrosbatterseapowerstation",
+    "pressChecked": "2026-08-17"
   },
   "xian-impression": {
     "placeId": "ChIJkfIXjXYbdkgRomIMKvJV1CA",
@@ -9350,7 +10560,9 @@
     "station": "Holloway Road",
     "stationDistanceM": 227,
     "walkMin": 4,
-    "walkFrom": "Holloway Road Underground Station"
+    "walkFrom": "Holloway Road Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "yauatcha": {
     "placeId": "ChIJhfAKn9QEdkgRBBKDiFubnrA",
@@ -9366,7 +10578,10 @@
     "station": "Piccadilly Circus",
     "stationDistanceM": 339,
     "walkMin": 6,
-    "walkFrom": "Piccadilly Circus Underground Station"
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/yauatchasoholondon/reservations/create/search/",
+    "pressChecked": "2026-08-17"
   },
   "ye-olde-cheshire-cheese": {
     "placeId": "ChIJM0n9x7IEdkgRZllOf-c6RYQ",
@@ -9382,7 +10597,10 @@
     "station": "Blackfriars",
     "stationDistanceM": 355,
     "walkMin": 6,
-    "walkFrom": "Blackfriars Underground Station"
+    "walkFrom": "Blackfriars Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://ye-olde-cheshire-cheese.co.uk/book/",
+    "pressChecked": "2026-08-17"
   },
   "yi-ban": {
     "placeId": "ChIJzxfveXyo2EcRoNg-C3FQB_U",
@@ -9398,7 +10616,10 @@
     "station": "Royal Albert",
     "stationDistanceM": 374,
     "walkMin": 6,
-    "walkFrom": "Royal Albert DLR Station"
+    "walkFrom": "Royal Albert DLR Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://yi-ban.co.uk/reservations/",
+    "pressChecked": "2026-08-17"
   },
   "zapote": {
     "placeId": "ChIJG3OR34oddkgRqZbWfKS8OQY",
@@ -9414,7 +10635,10 @@
     "station": "Old Street",
     "stationDistanceM": 390,
     "walkMin": 6,
-    "walkFrom": "Old Street Underground Station"
+    "walkFrom": "Old Street Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/zapote",
+    "pressChecked": "2026-08-17"
   },
   "zeit-and-zaatar": {
     "placeId": "ChIJe6YZ84ENdkgRx6FCty8aghQ",
@@ -9430,7 +10654,9 @@
     "station": "West Ealing",
     "stationDistanceM": 353,
     "walkMin": 6,
-    "walkFrom": "West Ealing Rail Station"
+    "walkFrom": "West Ealing Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "zephyr": {
     "placeId": "ChIJKVCOFHMPdkgR39y9CriYPSw",
@@ -9446,7 +10672,10 @@
     "station": "Notting Hill Gate",
     "stationDistanceM": 466,
     "walkMin": 8,
-    "walkFrom": "Notting Hill Gate Underground Station"
+    "walkFrom": "Notting Hill Gate Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.zephyr.london/book-a-table",
+    "pressChecked": "2026-08-17"
   },
   "zeret-kitchen": {
     "placeId": "ChIJJd_nKX4DdkgRdsLXS_Ey8As",
@@ -9462,7 +10691,10 @@
     "station": "Oval",
     "stationDistanceM": 1348,
     "walkMin": 22,
-    "walkFrom": "Oval Underground Station"
+    "walkFrom": "Oval Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://zeretkitchen.co.uk/reservations/",
+    "pressChecked": "2026-08-17"
   },
   "zia-lucia": {
     "website": "https://zialucia.com/",
@@ -9499,7 +10731,10 @@
     "station": "Knightsbridge",
     "stationDistanceM": 127,
     "walkMin": 2,
-    "walkFrom": "Knightsbridge Underground Station"
+    "walkFrom": "Knightsbridge Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.zumarestaurant.com/en/london/book-a-table",
+    "pressChecked": "2026-08-17"
   },
   "zylia": {
     "placeId": "ChIJbULaEJIFdkgRZW6RTml3Npw",
@@ -9515,6 +10750,8 @@
     "station": "Embankment",
     "stationDistanceM": 328,
     "walkMin": 5,
-    "walkFrom": "Embankment Underground Station"
+    "walkFrom": "Embankment Underground Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   }
 }
