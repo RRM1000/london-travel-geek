@@ -1,6 +1,6 @@
 {
  "generated": "2026-08-20",
- "count": 65,
+ "count": 77,
  "spots": [
   {
    "slug": "lovelace-st-james-square",
@@ -93,6 +93,23 @@
    "opNote": "A private/commercial building on a main road - viewable from the street only."
   },
   {
+   "slug": "battersea-flower-station",
+   "name": "Battersea Flower Station",
+   "type": "hidden-gem",
+   "subject": "A flower shop that opens into a long, hidden garden-centre corridor",
+   "area": "Battersea",
+   "borough": "Wandsworth",
+   "guide": "battersea-area-guide",
+   "zone": "1",
+   "district": "South",
+   "address": "320 Battersea Park Road",
+   "postcode": "SW11 3BX",
+   "lat": 51.471265,
+   "lng": -0.169165,
+   "whyGo": "Looks like an ordinary flower shop from the street; walk through and it opens into a long outdoor corridor of plants, bunting and fairy lights - a garden centre that was shut off to the public for 30 years before reopening. A second entrance exists on Winders Road.",
+   "opNote": "Free to browse, normal shop hours. A genuinely photogenic detour rather than a destination in itself."
+  },
+  {
    "slug": "marley-oakley-street",
    "name": "Bob Marley's Chelsea Flat",
    "type": "blue-plaque",
@@ -109,6 +126,20 @@
    "lng": -0.167793,
    "whyGo": "One of English Heritage's more recent plaques (2019) and a rare popular-music honouree on a street otherwise dense with 19th-century names.",
    "opNote": "A private residential building - viewable from the street only."
+  },
+  {
+   "slug": "cecil-court",
+   "name": "Cecil Court",
+   "type": "hidden-gem",
+   "subject": "An antiquarian bookshop alley, reputedly one inspiration for Diagon Alley",
+   "area": "Covent Garden",
+   "borough": "Westminster",
+   "guide": "covent-garden-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Cecil Court",
+   "whyGo": "A pedestrian alley between Charing Cross Road and St Martin's Lane lined almost entirely with independent antiquarian and specialist bookshops - rare first editions, maps, theatre memorabilia. Its narrow shopfronts and Victorian character are often cited as a real-world echo of Diagon Alley.",
+   "opNote": "A public street, shops keep normal daytime hours and are closed Sundays for the most part - check individual shops."
   },
   {
    "slug": "day-lewis-crooms-hill",
@@ -183,6 +214,23 @@
    "opNote": "A private residential building - viewable from the street only."
   },
   {
+   "slug": "cloth-fair-st-bartholomew",
+   "name": "Cloth Fair & St Bartholomew the Great",
+   "type": "hidden-gem",
+   "subject": "London's oldest parish church (1123) on one of its oldest surviving streets",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "West Smithfield / Cloth Fair",
+   "postcode": "EC1A 9DS",
+   "lat": 51.518602,
+   "lng": -0.100127,
+   "whyGo": "St Bartholomew the Great was founded in 1123 and is the City's oldest parish church, with a Norman interior used in dozens of films. Cloth Fair, right beside it, has some of the only houses in the City to survive the 1666 Great Fire.",
+   "opNote": "The church charges a small entry fee for visitors (free for worship); Cloth Fair itself is a public street, walkable any time."
+  },
+  {
    "slug": "coleridge-berners-street",
    "name": "Coleridge's Fitzrovia Home",
    "type": "blue-plaque",
@@ -199,6 +247,23 @@
    "lng": -0.136616,
    "whyGo": "One of several London addresses for Coleridge, who wrote The Rime of the Ancient Mariner and Kubla Khan - a quieter corner of Fitzrovia's literary map.",
    "opNote": "A private residential building - viewable from the street only."
+  },
+  {
+   "slug": "devonshire-mews-west",
+   "name": "Devonshire Mews West",
+   "type": "hidden-gem",
+   "subject": "A quiet, ivy-clad Marylebone mews, essentially tourist-free",
+   "area": "Marylebone",
+   "borough": "Westminster",
+   "guide": "marylebone-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Devonshire Mews West",
+   "postcode": "W1G 6QE",
+   "lat": 51.522349,
+   "lng": -0.149458,
+   "whyGo": "One of Marylebone's best-kept mews streets - cobbles, climbing ivy, converted coach houses - a couple of minutes off the high street but with almost none of its foot traffic.",
+   "opNote": "A private residential street; walkable and photographable, but treat it as someone's front door, not an attraction."
   },
   {
    "slug": "disraeli-curzon-street",
@@ -612,6 +677,23 @@
    "opNote": "Keats House is a paid museum with set opening hours, not just a street plaque."
   },
   {
+   "slug": "kynance-mews",
+   "name": "Kynance Mews",
+   "type": "hidden-gem",
+   "subject": "A wisteria-clad cobbled mews, a village pocket inside South Kensington",
+   "area": "South Kensington",
+   "borough": "Kensington and Chelsea",
+   "guide": "south-kensington-area-guide",
+   "zone": "1",
+   "district": "West",
+   "address": "Kynance Mews",
+   "postcode": "SW7 4QP",
+   "lat": 51.497348,
+   "lng": -0.184472,
+   "whyGo": "Converted stables on a cobbled cul-de-sac, walls thick with wisteria in late spring - the closest South Kensington gets to a country village lane, a few minutes from the museums.",
+   "opNote": "A private residential street; walkable and photographable, but treat it as someone's front door, not an attraction. Wisteria peaks late April to May."
+  },
+  {
    "slug": "tennyson-upper-belgrave-street",
    "name": "Lord Tennyson's Belgravia Home",
    "type": "blue-plaque",
@@ -792,6 +874,23 @@
    "opNote": "A private residential building - viewable from the street only."
   },
   {
+   "slug": "peace-pagoda-battersea-park",
+   "name": "Peace Pagoda, Battersea Park",
+   "type": "hidden-gem",
+   "subject": "A 1985 Buddhist peace pagoda gifted to London, on the Thames path",
+   "area": "Battersea",
+   "borough": "Wandsworth",
+   "guide": "battersea-area-guide",
+   "zone": "1",
+   "district": "South",
+   "address": "Battersea Park",
+   "postcode": "SW11 4NJ",
+   "lat": 51.476233,
+   "lng": -0.160801,
+   "whyGo": "Built by Buddhist monks and nuns of the Nipponzan Myohoji order and unveiled in 1985, this gilded pagoda sits right on the river inside Battersea Park - a striking landmark most people walking or cycling the Thames path have never actually stopped for.",
+   "opNote": "Free, always accessible within the park's opening hours. Best approached along the riverside path."
+  },
+  {
    "slug": "percy-shelley-poland-street",
    "name": "Percy Bysshe Shelley's Soho Home",
    "type": "blue-plaque",
@@ -918,6 +1017,20 @@
    "opNote": "Two plaques, two buildings, a few doors apart - worth doing both on the same stop."
   },
   {
+   "slug": "shad-thames",
+   "name": "Shad Thames",
+   "type": "hidden-gem",
+   "subject": "A cobbled Victorian warehouse street once nicknamed \"the larder of London\"",
+   "area": "Bermondsey",
+   "borough": "Southwark",
+   "guide": "bermondsey-area-guide",
+   "zone": "1–2",
+   "district": "South",
+   "address": "Shad Thames",
+   "whyGo": "These 1873 warehouses stored the grain, spices and tea that fed Victorian London - the elevated iron walkways crossing the street once moved goods between buildings without disturbing traffic below. Derelict by the 1970s, restored by Terence Conran in the 1980s; the walkways are now balconies, but the cobbled Victorian streetscape is intact.",
+   "opNote": "A public street, walkable any time, best in late afternoon light. A few minutes from Tower Bridge."
+  },
+  {
    "slug": "freud-maresfield-gardens",
    "name": "Sigmund Freud's Final Home",
    "type": "blue-plaque",
@@ -970,6 +1083,23 @@
    "lng": -0.121969,
    "whyGo": "Gresley designed the Flying Scotsman and the world-speed-record-holding Mallard - the plaque is on Platform 8, the platform his locomotives ran from.",
    "opNote": "Inside the station on the platform itself - accessible without a ticket during station opening hours."
+  },
+  {
+   "slug": "st-alphage-ruins-salters-garden",
+   "name": "St Alphage Ruins & Salters' Garden",
+   "type": "hidden-gem",
+   "subject": "Medieval church ruins and a fragment of the Roman city wall, wedged between Barbican towers",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "St Alphage Garden, London Wall",
+   "postcode": "EC2Y 5DE",
+   "lat": 51.51813,
+   "lng": -0.092104,
+   "whyGo": "A tiny public garden holds the ruins of St Alphage London Wall church alongside a real stretch of the Roman and medieval city wall, crenellated in 1477 - genuinely ancient London hiding in the concrete geometry of the Barbican.",
+   "opNote": "Free, always open, easy to walk straight past - it's set back from London Wall itself, reached via Fore Street."
   },
   {
    "slug": "pankhurst-cheyne-walk",
@@ -1026,6 +1156,23 @@
    "opNote": "A private residential building - viewable from the street only."
   },
   {
+   "slug": "london-mithraeum",
+   "name": "Temple of Mithras (London Mithraeum)",
+   "type": "hidden-gem",
+   "subject": "A Roman temple, discovered in 1954, now beneath Bloomberg's HQ",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "12 Walbrook",
+   "postcode": "EC4N 8AA",
+   "lat": 51.512421,
+   "lng": -0.090555,
+   "whyGo": "Roman Londoners worshipped Mithras here around 240 AD; the ruins were rediscovered during 1954 building work and drew such crowds that the Prime Minister had to weigh in. Now sunk seven metres below Bloomberg's building, with a free reconstruction of temple worship - dimmed lights, chanting, atmospheric smoke.",
+   "opNote": "Free, but timed-entry tickets must be booked online in advance - it sells out, especially weekends. Closed Sundays and Mondays."
+  },
+  {
    "slug": "pankhursts-clarendon-road",
    "name": "The Pankhursts' Notting Hill Home",
    "type": "blue-plaque",
@@ -1042,6 +1189,40 @@
    "lng": -0.208897,
    "whyGo": "A mother-and-daughter plaque for two of the central figures of the British suffragette movement, on a residential street off Holland Park Avenue.",
    "opNote": "A private residential building - viewable from the street only."
+  },
+  {
+   "slug": "trafalgar-square-smallest-police-station",
+   "name": "Trafalgar Square's \"Smallest Police Station\"",
+   "type": "hidden-gem",
+   "subject": "A hollowed-out lamppost built as a covert police observation post in 1926",
+   "area": "Westminster",
+   "borough": "Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Trafalgar Square",
+   "postcode": "WC2N 5DP",
+   "lat": 51.508366,
+   "lng": -0.126824,
+   "whyGo": "Tucked into the square's southeast corner, this booth was built in 1926 from a hollowed-out ornamental lamppost so up to two officers could quietly watch the square during demonstrations. It's often billed as \"Britain's smallest police station\", though it never technically had that status.",
+   "opNote": "Free, visible from the street, easy to miss entirely if you don't know to look for it - it looks like a lamppost."
+  },
+  {
+   "slug": "trinity-buoy-wharf",
+   "name": "Trinity Buoy Wharf",
+   "type": "hidden-gem",
+   "subject": "London's only lighthouse, a shipping-container art village, and a Victorian steamship museum",
+   "area": "Canary Wharf",
+   "borough": "Tower Hamlets",
+   "guide": "canary-wharf-area-guide",
+   "zone": "2",
+   "district": "East",
+   "address": "64 Orchard Place",
+   "postcode": "E14 0JW",
+   "lat": 51.50866,
+   "lng": 0.007527,
+   "whyGo": "A genuinely odd little peninsula at the mouth of the Lea: London's only lighthouse (used to test navigation lights, not to guide ships), a village of creative studios built from shipping containers, and the SS Robin, a preserved 1890 steamship.",
+   "opNote": "Free to walk around; the lighthouse's Longplayer sound installation is open weekend afternoons. A fair walk or a short bus ride from Canary Wharf itself - not directly on the Jubilee line."
   },
   {
    "slug": "woolf-hogarth-house-richmond",
@@ -1168,6 +1349,23 @@
    "lng": -0.181687,
    "whyGo": "Churchill's home for the last years of his life, a short walk from the Kensington museums.",
    "opNote": "A private residential building - viewable from the street only."
+  },
+  {
+   "slug": "ye-olde-mitre",
+   "name": "Ye Olde Mitre",
+   "type": "hidden-gem",
+   "subject": "A pub built in 1546 down an alley with no street sign",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "1 Ely Court, Ely Place",
+   "postcode": "EC1N 6SJ",
+   "lat": 51.51844,
+   "lng": -0.107398,
+   "whyGo": "Founded in 1546 for the Bishop of Ely's household staff, tucked down a narrow passage off Hatton Garden with nothing marking the entrance - most people who work nearby never find it. A preserved cherry tree trunk inside is said to mark where Elizabeth I danced with Sir Christopher Hatton.",
+   "opNote": "No sign on the street - look for the narrow gap between the buildings on Hatton Garden opposite number 8. Two tiny wood-panelled rooms, low ceilings, gets busy after work."
   }
  ]
 }

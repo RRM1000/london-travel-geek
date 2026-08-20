@@ -2504,6 +2504,11 @@
     "lng": -0.183203,
     "ward": "Lancaster Gate"
   },
+  "hiddenLondon:battersea-flower-station": {
+    "lat": 51.471265,
+    "lng": -0.169165,
+    "ward": "St Mary's"
+  },
   "hiddenLondon:beckett-paultons-square": {
     "lat": 51.484574,
     "lng": -0.173198,
@@ -2528,6 +2533,11 @@
     "lat": 51.552683,
     "lng": -0.173124,
     "ward": "Hampstead Town"
+  },
+  "hiddenLondon:cecil-court": {
+    "placeId": "ChIJR1QB6s0EdkgRm3yDFB7jlTc",
+    "placesName": "Cecil Court",
+    "resolvedAddress": "Cecil Ct, London, UK"
   },
   "hiddenLondon:chopin-st-james-place": {
     "placeId": "ChIJJUm1pDkFdkgRLpNVw4q-9yQ",
@@ -2558,6 +2568,16 @@
     "lat": 51.500002,
     "lng": -0.181687,
     "ward": "Queen's Gate"
+  },
+  "hiddenLondon:cloth-fair-st-bartholomew": {
+    "placeId": "ChIJ82iME1QbdkgRtpGtv-8yDeA",
+    "placesName": "St Bartholomew the Great",
+    "resolvedAddress": "W Smithfield, Barbican, London EC1A 9DS, UK",
+    "postcode": "EC1A 9DS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.518602,
+    "lng": -0.100127,
+    "ward": "Farringdon Within"
   },
   "hiddenLondon:coleridge-berners-street": {
     "placeId": "ChIJWwv7QSsbdkgRytW8WVoIzpQ",
@@ -2603,6 +2623,11 @@
     "lat": 51.475135,
     "lng": -0.005107,
     "ward": "Greenwich Park"
+  },
+  "hiddenLondon:devonshire-mews-west": {
+    "lat": 51.522349,
+    "lng": -0.149458,
+    "ward": "Marylebone"
   },
   "hiddenLondon:dickens-doughty-street": {
     "lat": 51.523601,
@@ -2827,6 +2852,11 @@
     "lng": -0.130113,
     "ward": "Bloomsbury"
   },
+  "hiddenLondon:kynance-mews": {
+    "lat": 51.497348,
+    "lng": -0.184472,
+    "ward": "Queen's Gate"
+  },
   "hiddenLondon:lennon-montagu-square": {
     "placeId": "ChIJIxgGlcsadkgRp1aOKBi839A",
     "placesName": "Blue Plaque: John Lennon",
@@ -2836,6 +2866,11 @@
     "lat": 51.518641,
     "lng": -0.160116,
     "ward": "Marylebone"
+  },
+  "hiddenLondon:london-mithraeum": {
+    "lat": 51.512421,
+    "lng": -0.090555,
+    "ward": "Cordwainer"
   },
   "hiddenLondon:lovelace-st-james-square": {
     "placeId": "ChIJ8eZUosMFdkgRm2rxzVXTVHw",
@@ -2927,6 +2962,11 @@
     "lng": -0.208897,
     "ward": "Norland"
   },
+  "hiddenLondon:peace-pagoda-battersea-park": {
+    "lat": 51.476233,
+    "lng": -0.160801,
+    "ward": "Battersea Park"
+  },
   "hiddenLondon:pepys-buckingham-street": {
     "placeId": "ChIJKYtdZcYFdkgRNi972lEPfJM",
     "placesName": "Blue Plaque: Samuel Pepys",
@@ -2962,10 +3002,35 @@
     "lng": -0.132176,
     "ward": "West End"
   },
+  "hiddenLondon:shad-thames": {
+    "placeId": "ChIJFfwg0UUDdkgR3kr97Wa_N6A",
+    "placesName": "Shad Thames",
+    "resolvedAddress": "Shad Thames, London, UK"
+  },
+  "hiddenLondon:st-alphage-ruins-salters-garden": {
+    "lat": 51.51813,
+    "lng": -0.092104,
+    "ward": "Bassishaw"
+  },
   "hiddenLondon:tennyson-upper-belgrave-street": {
     "lat": 51.498554,
     "lng": -0.150595,
     "ward": "Knightsbridge & Belgravia"
+  },
+  "hiddenLondon:trafalgar-square-smallest-police-station": {
+    "placeId": "ChIJdy60VRYFdkgR12e5gnoSjNU",
+    "placesName": "Former Police Box (Lamp)",
+    "resolvedAddress": "44 Trafalgar Sq, London WC2N 5DP, UK",
+    "postcode": "WC2N 5DP",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.508366,
+    "lng": -0.126824,
+    "ward": "St James's"
+  },
+  "hiddenLondon:trinity-buoy-wharf": {
+    "lat": 51.50866,
+    "lng": 0.007527,
+    "ward": "Blackwall & Cubitt Town"
   },
   "hiddenLondon:ts-eliot-kensington-court-gardens": {
     "placeId": "ChIJ0Suhd3MFdkgRP2B3vtykv5U",
@@ -3016,6 +3081,11 @@
     "lat": 51.460375,
     "lng": -0.301895,
     "ward": "South Richmond"
+  },
+  "hiddenLondon:ye-olde-mitre": {
+    "lat": 51.51844,
+    "lng": -0.107398,
+    "ward": "Holborn & Covent Garden"
   },
   "hotels:aethos-london-shoreditch": {
     "placeId": "ChIJz0-W9q8cdkgR6_lUUo-4o54",

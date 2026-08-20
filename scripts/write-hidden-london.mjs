@@ -769,6 +769,122 @@ const ROWS = [
     opSummary: "A private residential building - viewable from the street only.",
     source: "ArcGIS London Plaques feature service (English Heritage)",
   },
+
+  // ============ THIRD PASS: hidden gems (first non-plaque type) ============
+  // Filtered against a "would a savvy Londoner nod at this" bar, not a
+  // generic listicle scrape - cross-checked against src/data/activities.json
+  // first and dropped anything already covered there (Neal's Yard, Sky
+  // Garden, Sir John Soane's Museum, Leighton House, Kyoto Garden, St Dunstan
+  // in the East, London's Roman Amphitheatre, Barbican Conservatory, Peckham
+  // Levels and Battersea Power Station were all already Activities rows).
+  {
+    ...base, slug: "ye-olde-mitre", name: "Ye Olde Mitre", type: "hidden-gem", scheme: "",
+    subject: "A pub built in 1546 down an alley with no street sign",
+    hood: "City of London", borough: "City of London", areaGuide: "city-of-london-area-guide",
+    address: "1 Ely Court, Ely Place", postcode: "EC1N 6SJ",
+    whyGo: "Founded in 1546 for the Bishop of Ely's household staff, tucked down a narrow passage off Hatton Garden with nothing marking the entrance - most people who work nearby never find it. A preserved cherry tree trunk inside is said to mark where Elizabeth I danced with Sir Christopher Hatton.",
+    opSummary: "No sign on the street - look for the narrow gap between the buildings on Hatton Garden opposite number 8. Two tiny wood-panelled rooms, low ceilings, gets busy after work.",
+    source: "Historic England listing, Wikipedia, and multiple London pub-history blogs cross-checked",
+  },
+  {
+    ...base, slug: "london-mithraeum", name: "Temple of Mithras (London Mithraeum)", type: "hidden-gem", scheme: "",
+    subject: "A Roman temple, discovered in 1954, now beneath Bloomberg's HQ",
+    hood: "City of London", borough: "City of London", areaGuide: "city-of-london-area-guide",
+    address: "12 Walbrook", postcode: "EC4N 8AA",
+    whyGo: "Roman Londoners worshipped Mithras here around 240 AD; the ruins were rediscovered during 1954 building work and drew such crowds that the Prime Minister had to weigh in. Now sunk seven metres below Bloomberg's building, with a free reconstruction of temple worship - dimmed lights, chanting, atmospheric smoke.",
+    opSummary: "Free, but timed-entry tickets must be booked online in advance - it sells out, especially weekends. Closed Sundays and Mondays.",
+    source: "Wikipedia, London Museum, and Bloomberg's own site cross-checked",
+  },
+  {
+    ...base, slug: "cloth-fair-st-bartholomew", name: "Cloth Fair & St Bartholomew the Great", type: "hidden-gem", scheme: "",
+    subject: "London's oldest parish church (1123) on one of its oldest surviving streets",
+    hood: "City of London", borough: "City of London", areaGuide: "city-of-london-area-guide",
+    address: "West Smithfield / Cloth Fair",
+    whyGo: "St Bartholomew the Great was founded in 1123 and is the City's oldest parish church, with a Norman interior used in dozens of films. Cloth Fair, right beside it, has some of the only houses in the City to survive the 1666 Great Fire.",
+    opSummary: "The church charges a small entry fee for visitors (free for worship); Cloth Fair itself is a public street, walkable any time.",
+    source: "Multiple London hidden-gems roundups cross-checked against the church's own history",
+  },
+  {
+    ...base, slug: "st-alphage-ruins-salters-garden", name: "St Alphage Ruins & Salters' Garden", type: "hidden-gem", scheme: "",
+    subject: "Medieval church ruins and a fragment of the Roman city wall, wedged between Barbican towers",
+    hood: "City of London", borough: "City of London", areaGuide: "city-of-london-area-guide",
+    address: "St Alphage Garden, London Wall", postcode: "EC2Y 5DE",
+    whyGo: "A tiny public garden holds the ruins of St Alphage London Wall church alongside a real stretch of the Roman and medieval city wall, crenellated in 1477 - genuinely ancient London hiding in the concrete geometry of the Barbican.",
+    opSummary: "Free, always open, easy to walk straight past - it's set back from London Wall itself, reached via Fore Street.",
+    source: "Historic England listing, Wikipedia, London Gardens Trust inventory cross-checked",
+  },
+  {
+    ...base, slug: "shad-thames", name: "Shad Thames", type: "hidden-gem", scheme: "",
+    subject: "A cobbled Victorian warehouse street once nicknamed \"the larder of London\"",
+    hood: "Bermondsey", borough: "Southwark", areaGuide: "bermondsey-area-guide",
+    address: "Shad Thames",
+    whyGo: "These 1873 warehouses stored the grain, spices and tea that fed Victorian London - the elevated iron walkways crossing the street once moved goods between buildings without disturbing traffic below. Derelict by the 1970s, restored by Terence Conran in the 1980s; the walkways are now balconies, but the cobbled Victorian streetscape is intact.",
+    opSummary: "A public street, walkable any time, best in late afternoon light. A few minutes from Tower Bridge.",
+    source: "Wikipedia, secretldn.com, and Anderson Rose's local history piece cross-checked",
+  },
+  {
+    ...base, slug: "trinity-buoy-wharf", name: "Trinity Buoy Wharf", type: "hidden-gem", scheme: "",
+    subject: "London's only lighthouse, a shipping-container art village, and a Victorian steamship museum",
+    hood: "Canary Wharf", borough: "Tower Hamlets", areaGuide: "canary-wharf-area-guide",
+    address: "64 Orchard Place", postcode: "E14 0JW",
+    whyGo: "A genuinely odd little peninsula at the mouth of the Lea: London's only lighthouse (used to test navigation lights, not to guide ships), a village of creative studios built from shipping containers, and the SS Robin, a preserved 1890 steamship.",
+    opSummary: "Free to walk around; the lighthouse's Longplayer sound installation is open weekend afternoons. A fair walk or a short bus ride from Canary Wharf itself - not directly on the Jubilee line.",
+    source: "theworkingline.com East London hidden gems roundup, cross-checked against Trinity Buoy Wharf's own site",
+  },
+  {
+    ...base, slug: "cecil-court", name: "Cecil Court", type: "hidden-gem", scheme: "",
+    subject: "An antiquarian bookshop alley, reputedly one inspiration for Diagon Alley",
+    hood: "Covent Garden", borough: "Westminster", areaGuide: "covent-garden-area-guide",
+    address: "Cecil Court",
+    whyGo: "A pedestrian alley between Charing Cross Road and St Martin's Lane lined almost entirely with independent antiquarian and specialist bookshops - rare first editions, maps, theatre memorabilia. Its narrow shopfronts and Victorian character are often cited as a real-world echo of Diagon Alley.",
+    opSummary: "A public street, shops keep normal daytime hours and are closed Sundays for the most part - check individual shops.",
+    source: "fullsuitcase.com and multiple London hidden-gems roundups cross-checked",
+  },
+  {
+    ...base, slug: "trafalgar-square-smallest-police-station", name: "Trafalgar Square's \"Smallest Police Station\"", type: "hidden-gem", scheme: "",
+    subject: "A hollowed-out lamppost built as a covert police observation post in 1926",
+    hood: "Westminster", borough: "Westminster", areaGuide: "westminster-area-guide",
+    address: "Trafalgar Square",
+    whyGo: "Tucked into the square's southeast corner, this booth was built in 1926 from a hollowed-out ornamental lamppost so up to two officers could quietly watch the square during demonstrations. It's often billed as \"Britain's smallest police station\", though it never technically had that status.",
+    opSummary: "Free, visible from the street, easy to miss entirely if you don't know to look for it - it looks like a lamppost.",
+    source: "ianvisits.co.uk (which specifically corrects the myth), historic-uk.com and Tripadvisor cross-checked",
+  },
+  {
+    ...base, slug: "peace-pagoda-battersea-park", name: "Peace Pagoda, Battersea Park", type: "hidden-gem", scheme: "",
+    subject: "A 1985 Buddhist peace pagoda gifted to London, on the Thames path",
+    hood: "Battersea", borough: "Wandsworth", areaGuide: "battersea-area-guide",
+    address: "Battersea Park", postcode: "SW11 4NJ",
+    whyGo: "Built by Buddhist monks and nuns of the Nipponzan Myohoji order and unveiled in 1985, this gilded pagoda sits right on the river inside Battersea Park - a striking landmark most people walking or cycling the Thames path have never actually stopped for.",
+    opSummary: "Free, always accessible within the park's opening hours. Best approached along the riverside path.",
+    source: "myadventuresacrosstheworld.com and multiple Battersea guides cross-checked",
+  },
+  {
+    ...base, slug: "battersea-flower-station", name: "Battersea Flower Station", type: "hidden-gem", scheme: "",
+    subject: "A flower shop that opens into a long, hidden garden-centre corridor",
+    hood: "Battersea", borough: "Wandsworth", areaGuide: "battersea-area-guide",
+    address: "320 Battersea Park Road", postcode: "SW11 3BX",
+    whyGo: "Looks like an ordinary flower shop from the street; walk through and it opens into a long outdoor corridor of plants, bunting and fairy lights - a garden centre that was shut off to the public for 30 years before reopening. A second entrance exists on Winders Road.",
+    opSummary: "Free to browse, normal shop hours. A genuinely photogenic detour rather than a destination in itself.",
+    source: "batterseaflowerstation.co.uk (own site) and Sarah Pratley's \"London's Secret Spots\" piece",
+  },
+  {
+    ...base, slug: "devonshire-mews-west", name: "Devonshire Mews West", type: "hidden-gem", scheme: "",
+    subject: "A quiet, ivy-clad Marylebone mews, essentially tourist-free",
+    hood: "Marylebone", borough: "Westminster", areaGuide: "marylebone-area-guide",
+    address: "Devonshire Mews West", postcode: "W1G 6QE",
+    whyGo: "One of Marylebone's best-kept mews streets - cobbles, climbing ivy, converted coach houses - a couple of minutes off the high street but with almost none of its foot traffic.",
+    opSummary: "A private residential street; walkable and photographable, but treat it as someone's front door, not an attraction.",
+    source: "lurotbrand.co.uk mews directory cross-checked",
+  },
+  {
+    ...base, slug: "kynance-mews", name: "Kynance Mews", type: "hidden-gem", scheme: "",
+    subject: "A wisteria-clad cobbled mews, a village pocket inside South Kensington",
+    hood: "South Kensington", borough: "Kensington and Chelsea", areaGuide: "south-kensington-area-guide",
+    address: "Kynance Mews", postcode: "SW7 4QP",
+    whyGo: "Converted stables on a cobbled cul-de-sac, walls thick with wisteria in late spring - the closest South Kensington gets to a country village lane, a few minutes from the museums.",
+    opSummary: "A private residential street; walkable and photographable, but treat it as someone's front door, not an attraction. Wisteria peaks late April to May.",
+    source: "Wikipedia and lurotbrand.co.uk mews directory cross-checked",
+  },
 ];
 
 // --------------------------------------------------------------- validate ---
