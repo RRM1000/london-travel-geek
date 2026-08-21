@@ -8,6 +8,8 @@ canonicalSite: london
 category: "Food and drink"
 tags: [restaurants, Sunday roast, gastropubs, British food, pubs]
 draft: false
+heroImage: "../../assets/articles/best-sunday-roast-london/sunday-roast-plate.jpg"
+heroImageAlt: "Gravy being poured into a Yorkshire pudding on a Sunday roast plate with beef, roast potatoes, cauliflower cheese and vegetables"
 faq:
   - q: "How far ahead should I book a Sunday roast in London?"
     a: "For The Devonshire, The Harwood Arms or Hawksmoor, book several weeks ahead — Sunday tables at all three go quickly. Most neighbourhood gastropubs release tables two to three weeks out. Canton Arms and Camberwell Arms keep some space for walk-ins, but you will wait at peak time."
