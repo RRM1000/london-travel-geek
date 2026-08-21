@@ -58,6 +58,9 @@ const PUBLIC = {
   "Good For": "goodFor", Dietary: "dietary",
   "Why Go": "whyGo", "Signature Dish": "signature",
   "Operational Summary": "opNote", Signals: "signals", Lists: "lists",
+  // A chapter deep link into a published food video. Public by nature - it is
+  // somebody else's YouTube URL - and the guides cite it, so it ships.
+  Video: "video",
 };
 
 const csv = (v) => String(v ?? "").split(",").map((x) => x.trim()).filter(Boolean);

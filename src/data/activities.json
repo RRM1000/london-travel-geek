@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-20",
- "count": 234,
+ "generated": "2026-08-21",
+ "count": 240,
  "activities": [
   {
    "slug": "the-cube-canary-wharf",
@@ -1077,6 +1077,44 @@
    ],
    "affiliateUrl": "https://www.getyourguide.com/s/?q=ZSL%20London%20Zoo%20London&partner_id=WWP7I0R",
    "affiliateNetwork": "getyourguide"
+  },
+  {
+   "slug": "gorilla-circus-regents-park",
+   "name": "Gorilla Circus Flying Trapeze School",
+   "type": "circus",
+   "style": "Outdoor flying trapeze school",
+   "context": "Regent's Park",
+   "chainType": "mini-chain",
+   "area": "Regent's Park",
+   "borough": "Westminster",
+   "guide": "camden-area-guide",
+   "zone": "1",
+   "district": "North",
+   "address": "Regent's Park",
+   "lat": 51.532785,
+   "lng": -0.164545,
+   "agePolicy": "family-friendly",
+   "seasonal": "summer-only",
+   "duration": "Two hours",
+   "groupSize": "Any",
+   "price": "£36–£44.99",
+   "booking": "required",
+   "indoorOutdoor": "outdoor",
+   "servesFood": "no",
+   "servesAlcohol": "no",
+   "whyGo": "A full-size flying trapeze rig standing in Regent's Park all summer, teaching complete beginners to climb the ladder, swing out and be caught - in one two-hour lesson.",
+   "opNote": "Level 1 classes need no experience and take anyone from age 8 up. Classes are released in four-week blocks about a month ahead and sell out fast, so the release date matters more than booking early in the day. 2026 season runs 3 April to 27 September.",
+   "goodFor": [
+    "date",
+    "groups",
+    "families",
+    "celebration"
+   ],
+   "lists": [
+    "activities"
+   ],
+   "website": "https://flyingtrapezeschool.gorillacircus.com/",
+   "bookingUrl": "https://booking.bookinghound.cloud/fe/book?og=bdffd003-ab61-4b27-8513-d0e8ef0f1425&mode=sl"
   },
   {
    "slug": "royal-observatory-greenwich",
@@ -3768,6 +3806,43 @@
    "lists": [
     "activities"
    ]
+  },
+  {
+   "slug": "gorilla-circus-kensington-gardens",
+   "name": "Gorilla Circus Flying Trapeze School",
+   "type": "circus",
+   "style": "Outdoor flying trapeze school",
+   "context": "Kensington Gardens",
+   "chainType": "mini-chain",
+   "area": "Kensington",
+   "borough": "Westminster",
+   "guide": "kensington-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "Kensington Gardens",
+   "lat": 51.502117,
+   "lng": -0.181068,
+   "agePolicy": "family-friendly",
+   "seasonal": "summer-only",
+   "duration": "Two hours",
+   "groupSize": "Any",
+   "price": "£36–£44.99",
+   "booking": "required",
+   "indoorOutdoor": "outdoor",
+   "servesFood": "no",
+   "servesAlcohol": "no",
+   "whyGo": "The same trapeze rig and the same two-hour beginners' lesson as Regent's Park, pitched in Kensington Gardens a few minutes from the Albert Memorial.",
+   "opNote": "A SHORTER SEASON than Regent's Park - 23 May to 6 September in 2026, against April to late September in Regent's Park. Check which rig is standing before planning a trip. Age 8+, no experience needed.",
+   "goodFor": [
+    "date",
+    "groups",
+    "families"
+   ],
+   "lists": [
+    "activities"
+   ],
+   "website": "https://flyingtrapezeschool.gorillacircus.com/",
+   "bookingUrl": "https://booking.bookinghound.cloud/fe/book?og=bdffd003-ab61-4b27-8513-d0e8ef0f1425&mode=sl"
   },
   {
    "slug": "kensington-palace",
@@ -8167,6 +8242,133 @@
    ],
    "affiliateUrl": "https://www.getyourguide.com/s/?q=Smithsonian%20Starstruck%20London&partner_id=WWP7I0R",
    "affiliateNetwork": "getyourguide"
+  },
+  {
+   "slug": "rooftop-cinema-club-peckham",
+   "name": "Rooftop Cinema Club Peckham",
+   "type": "cinema",
+   "style": "Rooftop outdoor cinema above a former cricket bat factory",
+   "chainType": "chain",
+   "area": "Peckham",
+   "borough": "Southwark",
+   "guide": "peckham-area-guide",
+   "zone": "2",
+   "district": "South",
+   "address": "Bussey Building, 133 Rye Lane",
+   "agePolicy": "family-friendly",
+   "seasonal": "summer-only",
+   "duration": "A film",
+   "groupSize": "Any",
+   "booking": "required",
+   "indoorOutdoor": "outdoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "A curated seasonal programme - new releases, cult favourites, big-screen sport - watched from deckchairs on the Bussey Building's roof with the Peckham skyline behind the screen.",
+   "opNote": "FLAG: same building and address as the existing bussey-building row, which already mentions 'a cinema' among its features - the two rows will read as overlapping. Ticketed, seasonal, sells out for popular titles.",
+   "goodFor": [
+    "date",
+    "groups"
+   ],
+   "lists": [
+    "activities"
+   ]
+  },
+  {
+   "slug": "rooftop-cinema-club-stratford",
+   "name": "Rooftop Cinema Club Stratford",
+   "type": "cinema",
+   "style": "Rooftop outdoor cinema at Roof East",
+   "chainType": "chain",
+   "area": "Stratford",
+   "borough": "Newham",
+   "guide": "stratford-area-guide",
+   "zone": "3",
+   "district": "East",
+   "address": "Roof East",
+   "agePolicy": "family-friendly",
+   "seasonal": "summer-only",
+   "duration": "A film",
+   "groupSize": "Any",
+   "booking": "required",
+   "indoorOutdoor": "outdoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "Sister site to the Peckham rooftop screen, on top of a Stratford car park turned street-food and mini-golf deck - same curated seasonal programme, different skyline.",
+   "opNote": "Ticketed, seasonal (summer), sells out for popular titles - check the site for the current programme before travelling.",
+   "goodFor": [
+    "date",
+    "groups"
+   ],
+   "lists": [
+    "activities"
+   ]
+  },
+  {
+   "slug": "lower-stable-street-market",
+   "name": "Lower Stable Street Market",
+   "type": "market-visit",
+   "style": "Rotating weekend market of independent makers",
+   "chainType": "independent",
+   "area": "King's Cross",
+   "borough": "Camden",
+   "guide": "kings-cross-area-guide",
+   "zone": "1",
+   "district": "North",
+   "address": "Lower Stable Street, Coal Drops Yard",
+   "postcode": "N1C 4LW",
+   "agePolicy": "all-ages",
+   "duration": "An hour",
+   "groupSize": "Any",
+   "price": "Free to browse",
+   "booking": "walk-in",
+   "indoorOutdoor": "outdoor",
+   "servesFood": "yes",
+   "servesAlcohol": "no",
+   "whyGo": "A different set of independent stallholders every weekend - homewares, clothing, art, books and food - alongside the permanent record shop, gallery and coffee roaster on the same street.",
+   "opNote": "Thursdays to Sundays and bank holiday Mondays, 11am-6pm. The lineup genuinely rotates, so two visits a month apart can look completely different.",
+   "goodFor": [
+    "solo",
+    "date",
+    "groups"
+   ],
+   "lists": [
+    "activities",
+    "free"
+   ]
+  },
+  {
+   "slug": "peninsula-al-fresco",
+   "name": "Peninsula Al Fresco",
+   "type": "market-visit",
+   "style": "Mediterranean-inspired open-air summer market",
+   "chainType": "independent",
+   "area": "Greenwich Peninsula",
+   "borough": "Greenwich",
+   "guide": "greenwich-area-guide",
+   "zone": "2",
+   "district": "East",
+   "address": "Peninsula Square",
+   "postcode": "SE10 0DX",
+   "agePolicy": "all-ages",
+   "seasonal": "summer-only",
+   "duration": "An hour or two",
+   "groupSize": "Any",
+   "price": "Free to browse",
+   "booking": "walk-in",
+   "indoorOutdoor": "outdoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "Churros, fried chicken, pizza and a spritz bar under pergolas outside the O2 - free giant Jenga and Connect Four keep it family-friendly rather than purely a food market.",
+   "opNote": "NEEDS VERIFYING - runs summer season only (through 31 August in 2026), Mon-Fri 12-9pm, Sat 11am-9pm, Sun 12-9pm. Confirm current dates before visiting, and note the estate's long-running Urban Village Fete is on pause for 2026 - this is the current alternative, not a replacement for it.",
+   "goodFor": [
+    "families",
+    "groups",
+    "date"
+   ],
+   "lists": [
+    "activities",
+    "free"
+   ]
   }
  ]
 }

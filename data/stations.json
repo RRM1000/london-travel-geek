@@ -38,5 +38,15 @@
     "lat": 51.503035,
     "lng": -0.152441,
     "resolved": "Hyde Park Corner Underground Station"
+  },
+  "Covent Garden": {
+    "lat": 51.513093,
+    "lng": -0.124436,
+    "resolved": "Covent Garden Underground Station"
+  },
+  "Victoria": {
+    "lat": 51.495812,
+    "lng": -0.143826,
+    "resolved": "Victoria"
   }
 }

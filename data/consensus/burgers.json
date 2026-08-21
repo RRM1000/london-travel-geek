@@ -1,0 +1,176 @@
+{
+  "cuisine": "burgers",
+  "note": "Burgers is a format, not a cuisine - the sheet currently has zero coverage, so every name here is a candidate rather than a check. Sources are editorial guides plus two awards reports; Tripadvisor and chain-owned blogs are deliberately excluded because they are not independent editorial authorities.",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/food-and-drink/londons-best-burger-restaurants-1",
+      "names": [
+        "Hanbaagaasuuteeki",
+        "The Plimsoll",
+        "Dumbo",
+        "Bleecker",
+        "Heard Burger",
+        "Chuck’s",
+        "Dove",
+        "Empire Tavern",
+        "Dover Street Counter",
+        "Black Bear Burger",
+        "Jupiter Burger",
+        "Manna",
+        "Burger & Beyond",
+        "Blacklock Shoreditch",
+        "Honest Burgers"
+      ]
+    },
+    {
+      "name": "Hot Dinners",
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-burgers-restaurants",
+      "names": [
+        "Dove",
+        "Jupiter Burgers",
+        "Bleecker",
+        "Supernova",
+        "Black Bear Burger",
+        "Lagom",
+        "Four Legs at The Plimsoll",
+        "Burger & Beyond",
+        "Lucky Chip",
+        "MEATliquor",
+        "Mother Flipper",
+        "Baba G's",
+        "Offers"
+      ]
+    },
+    {
+      "name": "DesignMyNight",
+      "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+      "names": [
+        "Rewards",
+        "Jobs"
+      ]
+    },
+    {
+      "name": "Thatsup London",
+      "url": "https://thatsup.co.uk/london/guide/the-best-burgers-in-london/",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Visit London",
+      "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Wrap Your Lips Around This",
+      "url": "https://wrapyourlipsaroundthis.com/best-burger-in-london/",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "National Burger Awards 2026 (Time Out)",
+      "url": "https://www.timeout.com/london/news/this-london-burger-has-been-named-the-best-in-the-uk-for-2026-032526",
+      "scope": "awards",
+      "names": [
+        "Investor relations",
+        "Work for Time Out",
+        "Privacy notice",
+        "Do not sell my information",
+        "Accessibility statement",
+        "Get Listed",
+        "Time Out Offers FAQ",
+        "Advertising",
+        "Time Out Market",
+        "Time Out Offers",
+        "Time Out Worldwide",
+        "Movies"
+      ]
+    },
+    {
+      "name": "Time Out best burger 2025",
+      "url": "https://www.timeout.com/london/news/the-best-burger-in-london-according-to-time-out-080825",
+      "scope": "awards",
+      "names": [
+        "Investor relations",
+        "Work for Time Out",
+        "Privacy notice",
+        "Do not sell my information",
+        "Accessibility statement",
+        "Get Listed",
+        "Time Out Offers FAQ",
+        "Advertising",
+        "Time Out Market",
+        "Time Out Offers",
+        "Time Out Worldwide",
+        "Movies"
+      ]
+    },
+    {
+      "name": "The Infatuation",
+      "url": "https://www.theinfatuation.com/london/guides/best-burgers-london",
+      "names": [
+        "Vesper",
+        "Lagom at The Three Compasses",
+        "Bolland & Crust",
+        "One Club Row",
+        "Dover Street Counter",
+        "Dove",
+        "The Plimsoll",
+        "Burnt Smokehouse",
+        "Jupiter Burger",
+        "Bun & Sum",
+        "Bake Street",
+        "Chuck’s at No. 23",
+        "GOAT Burger",
+        "Manna",
+        "Buk",
+        "Red Iron Burgers",
+        "Supernova"
+      ]
+    },
+    {
+      "name": "Eater London",
+      "url": "https://london.eater.com/maps/best-burgers-london",
+      "names": [
+        "The Plimsoll",
+        "Bake Street",
+        "Beer and Burger Store",
+        "The Duke of Richmond",
+        "Lucky Chip at the Old Queen’s Head",
+        "Blacklock Shoreditch",
+        "Burger & Beyond",
+        "Bleecker",
+        "Nashville Hot by Manna @ Arcade Food Hall",
+        "Slow Richie's",
+        "BaBa G's Brixton",
+        "Shake Shack Gatwick"
+      ]
+    },
+    {
+      "name": "Mob",
+      "url": "https://www.mob.co.uk/life/best-burgers-in-london",
+      "names": [
+        "Browse All Recipes",
+        "Meals",
+        "Nutrition",
+        "Ingredients",
+        "Dinner tonight",
+        "Lunch today",
+        "Feed the whole family",
+        "Meal Plans",
+        "Batch Cooking",
+        "Freezer-Friendly",
+        "Bake Street",
+        "The Plimsoll",
+        "Bleecker",
+        "Black Bear Burger",
+        "Lagom",
+        "Patty & Bun",
+        "Beer + Burger",
+        "Manna",
+        "The Lowback",
+        "Blacklock",
+        "Burger & Beyond",
+        "Supernova"
+      ]
+    }
+  ]
+}

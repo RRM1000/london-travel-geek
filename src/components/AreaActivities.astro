@@ -20,6 +20,9 @@ type Activity = {
   agePolicy?: string; seasonal?: string; duration?: string;
   price?: string; booking?: string; opNote?: string;
   whyGo?: string; website?: string; bookingUrl?: string;
+  // Not sheet columns: export-activities.mjs generates these from
+  // lib/affiliate.mjs, so only the rows with something to sell carry them.
+  affiliateUrl?: string; affiliateNetwork?: string;
 };
 
 const all = (data.activities as Activity[]).filter((a: any) => a.guide === articleId);

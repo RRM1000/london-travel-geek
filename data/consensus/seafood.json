@@ -1,0 +1,75 @@
+{
+  "cuisine": "seafood",
+  "note": "Seafood is a format, not a cuisine - candidates will land in the sheet under British, Spanish and other existing cuisines. Sources are editorial guides only; Tripadvisor, Yelp, hotel-marketing blogs (sothebysrealty, restaurantsforkings) and OpenTable are deliberately excluded because they are not independent editorial authorities.",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+      "names": [
+        "Tollington's",
+        "Sweetings",
+        "Applebee's",
+        "J Sheekey",
+        "Kima",
+        "Parsons",
+        "Randall & Aubin",
+        "Cometa",
+        "The Seafood Bar",
+        "Faber",
+        "Behind",
+        "Wright Brothers",
+        "Bentley's Oyster Bar & Grill",
+        "The Sea",
+        "Scott's",
+        "Wiltons",
+        "Rick Stein",
+        "Sea Garden & Grill",
+        "Manzi's",
+        "Dinings SW3"
+      ]
+    },
+    {
+      "name": "Hot Dinners",
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+      "names": [
+        "Offers",
+        "Test Drives",
+        "Summer",
+        "All features",
+        "See all offers",
+        "Hot Dinners recommends",
+        "Staying in"
+      ]
+    },
+    {
+      "name": "The Infatuation",
+      "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london",
+      "names": [
+        "Bronek's Fish Restaurant",
+        "Furness Oyster Bar",
+        "J Sheekey",
+        "Randall & Aubin",
+        "The Cow",
+        "El Inca Plebeyo",
+        "Brat",
+        "Oyster Shack & Seafood Bar",
+        "Wright Brothers",
+        "Scott’s Richmond",
+        "Seabird",
+        "Sweetings",
+        "Wiltons",
+        "Parsons",
+        "Trap Kitchen Camden",
+        "Poor Boys"
+      ]
+    },
+    {
+      "name": "DesignMyNight",
+      "url": "https://www.designmynight.com/london/seafood-restaurants-in-london",
+      "names": [
+        "Rewards",
+        "Jobs"
+      ]
+    }
+  ]
+}

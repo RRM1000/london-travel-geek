@@ -144,6 +144,8 @@ const HOODS = {
   "Clerkenwell":        { zone: "1",   district: "Central" },
   "Lewisham":           { zone: "2–3", district: "South" },
   "Lambeth":            { zone: "1–2", district: "South" },
+  "East Dulwich":       { zone: "2–3", district: "South" },
+  "Swiss Cottage":      { zone: "2",   district: "North" },
 };
 
 const base = {
@@ -1485,6 +1487,130 @@ const ROWS = [
     whyGo: "The Victorian pedestrian tunnel under the Thames, already an atmospheric spot in its own right, gets used for a tense sequence in the sequel - worth combining with a normal Greenwich-to-Island Gardens walk under the river.",
     opSummary: "Free and open 24 hours (lifts have restricted hours) - a genuine way to cross the river on foot, film connection aside.",
     source: "railwaymoviedatabase.com 28 Weeks Later location coverage",
+  },
+
+  // ------------------------------------------------------- THIRD HIDDEN-GEM PASS ---
+  // 16 new rows found via YouTube (yt-dlp search + transcripts/descriptions of five
+  // London hidden-gems videos, cross-checked against Wikipedia/Historic England/the
+  // venue's own site for each) plus web research. Every name was checked against all
+  // 136 existing rows first - zero collisions with the earlier passes. Covers three
+  // brand-new neighbourhoods (Holland Park, East Dulwich, Shadwell) per the standing
+  // rule against restricting to the 27 area guides, plus a fifth-in-the-City cluster
+  // alongside the existing Ye Olde Mitre / Mithraeum / Cloth Fair / St Alphage rows.
+  {
+    ...base, slug: "london-stone", name: "London Stone", type: "hidden-gem", scheme: "",
+    subject: "An ancient block of limestone, possibly Roman, that legend says protects the city",
+    hood: "City of London", borough: "City of London", areaGuide: "city-of-london-area-guide",
+    address: "111 Cannon Street",
+    whyGo: "First recorded around 1100, of unknown but probably Roman origin, set behind glass in the wall of an office block on Cannon Street - most people walk past without noticing it. Legend holds that London's fortunes depend on the stone staying put.",
+    opSummary: "On a public street frontage, viewable any time, free.",
+    source: "Wikipedia and londonstone.org.uk cross-checked",
+  },
+  {
+    ...base, slug: "all-hallows-by-the-tower", name: "All Hallows by the Tower", type: "hidden-gem", scheme: "",
+    subject: "The oldest church in the City of London, founded in 675 AD",
+    hood: "City of London", borough: "City of London", areaGuide: "city-of-london-area-guide",
+    address: "Byward Street", postcode: "EC3R 5BJ",
+    whyGo: "Founded in 675 AD, predating St Paul's - Samuel Pepys climbed the tower to watch the Great Fire spread in 1666, and the crypt holds a fragment of Roman pavement. Steps from the Tower of London but far quieter.",
+    opSummary: "Free to enter; crypt museum included. Normal church hours, closed during services.",
+    source: "Wikipedia, ahbtt.org.uk (the church's own site) cross-checked",
+  },
+  {
+    ...base, slug: "old-curiosity-shop", name: "The Old Curiosity Shop", type: "hidden-gem", scheme: "",
+    subject: "Likely London's oldest surviving shop building, dating to around 1567",
+    hood: "Holborn", borough: "Camden", areaGuide: "",
+    address: "13-14 Portsmouth Street",
+    whyGo: "A crooked, half-timbered survivor from the 1560s, built from salvaged ship timber - it outlasted the Great Fire and the Blitz. Long claimed (without firm evidence) as the inspiration for Dickens's novel of the same name.",
+    opSummary: "A shopfront on a public street, viewable any time; now owned by LSE.",
+    source: "Wikipedia, Dickens Museum and Victorian Web cross-checked",
+  },
+  {
+    ...base, slug: "cittie-of-yorke", name: "Cittie of Yorke", type: "hidden-gem", scheme: "",
+    subject: "A pub on this site since 1430, with vast Victorian-Gothic vaulted booths",
+    hood: "Holborn", borough: "Camden", areaGuide: "",
+    address: "22 High Holborn", postcode: "WC1V 6BS",
+    whyGo: "A pub has stood here since 1430, though the current building dates from the 1920s rebuild. The huge main bar has one of the longest bar counters in London and a row of intimate wooden booths that predate the current building.",
+    opSummary: "A working pub, normal licensing hours.",
+    source: "CAMRA, Historic England listing, and the pub's own site cross-checked",
+  },
+  {
+    ...base, slug: "star-yard-urinal", name: "Star Yard Victorian Urinal", type: "hidden-gem", scheme: "",
+    subject: "A Grade II-listed 1851 cast-iron street urinal, one of the last of its kind",
+    hood: "Holborn", borough: "Camden", areaGuide: "",
+    address: "Star Yard, off Chancery Lane",
+    whyGo: "Manufactured in Glasgow in 1851, tucked down a narrow yard off Chancery Lane - one of only a handful of cast-iron pissoirs left in London, and the only one carrying a royal coat of arms. No longer in use, but still standing.",
+    opSummary: "Locked and non-functional, but visible from the street in Star Yard at any time.",
+    source: "Historic England listing and ianvisits.co.uk cross-checked",
+  },
+  {
+    ...base, slug: "st-dunstan-west-elizabeth-statue", name: "Elizabeth I Statue, St Dunstan-in-the-West", type: "hidden-gem", scheme: "",
+    subject: "Likely London's oldest public statue, carved around 1586",
+    hood: "Westminster", borough: "City of Westminster", areaGuide: "westminster-area-guide",
+    address: "186a Fleet Street",
+    whyGo: "Believed carved in 1586, the only surviving statue of Elizabeth I made in her lifetime - it originally stood on Ludgate and was moved here when the gate was demolished in 1760. Easy to walk past on busy Fleet Street.",
+    opSummary: "Set in a niche on the church exterior, visible from the street at any time.",
+    source: "Wikipedia, London Remembers and onlondon.co.uk cross-checked",
+  },
+  {
+    ...base, slug: "ferrymans-seat", name: "The Ferryman's Seat", type: "hidden-gem", scheme: "",
+    subject: "The last surviving stone perch used by Thames boatmen waiting for customers",
+    hood: "South Bank", borough: "Southwark", areaGuide: "south-bank-area-guide",
+    address: "Bear Gardens, Bankside",
+    whyGo: "Before bridges crossed this stretch of the Thames, watermen ferried Londoners across for a fee - this stone seat, set into a wall near the Globe, is the last of the perches they waited on. Genuinely easy to walk straight past.",
+    opSummary: "Set into a wall on a public street, visible any time, a couple of minutes from Shakespeare's Globe.",
+    source: "Wikipedia, Atlas Obscura and Open Plaques cross-checked",
+  },
+  {
+    ...base, slug: "seven-noses-of-soho", name: "The Seven Noses of Soho", type: "hidden-gem", scheme: "",
+    subject: "Sculpted noses glued to buildings in 1997, a protest against rising CCTV surveillance",
+    hood: "Soho", borough: "City of Westminster", areaGuide: "",
+    address: "Multiple sites, incl. Admiralty Arch and Meard Street",
+    whyGo: "Artist Rick Buckley cast his own nose in plaster and stuck copies on buildings across central London in 1997, protesting the spread of CCTV. Most were removed; seven are said to survive, and a rumour promises riches to anyone who finds all of them.",
+    opSummary: "Free, on public building exteriors, findable any time - no official map, part of the appeal is the hunt.",
+    source: "Amusing Planet, Atlas Obscura and londonxlondon.com cross-checked",
+  },
+  {
+    ...base, slug: "gods-own-junkyard", name: "God's Own Junkyard", type: "hidden-gem", scheme: "",
+    subject: "Europe's largest collection of vintage neon signage, in a Walthamstow warehouse",
+    hood: "Walthamstow", borough: "Waltham Forest", areaGuide: "",
+    address: "Unit 12, Ravenswood Industrial Estate, Shernhall Street", postcode: "E17 9HQ",
+    whyGo: "The personal collection of the late neon artist Chris Bracey, who made signage for Soho's sex shops and Hollywood film sets - now filling a warehouse with hundreds of glowing signs and salvaged movie props. A proper trek from the centre, which is part of why it stays uncrowded.",
+    opSummary: "Free entry. NEEDS VERIFYING, was Fri-Sat 11am-10pm, Sun 11am-6pm, closed Mon-Thu at last check. On-site cafe.",
+    source: "The venue's own site (godsownjunkyard.co.uk) and secretldn.com cross-checked",
+  },
+  {
+    ...base, slug: "house-of-dreams-museum", name: "House of Dreams Museum", type: "hidden-gem", scheme: "",
+    subject: "An artist's own terraced house, covered floor-to-ceiling in mosaic and found objects",
+    hood: "East Dulwich", borough: "Southwark", areaGuide: "",
+    address: "45 Melbourne Grove", postcode: "SE22 8RG",
+    whyGo: "Textile designer Stephen Wright has lived here since 1982 and has spent decades covering every wall, ceiling and surface in mosaic and collected objects, partly as a memorial to his late partner and parents. One of the strangest, most personal small museums in London.",
+    opSummary: "NEEDS VERIFYING - open roughly ten days a year, usually the last Saturday of the month, booking required via the museum's own site; confirm current dates before planning a visit, it does not admit walk-ins.",
+    source: "The museum's own site (stephenwrightartist.com), Southwark Council and Wikipedia cross-checked",
+  },
+
+  // ---------------------------------------------------- FOURTH HIDDEN-GEM PASS ---
+  // User-nominated: Alexandra & Ainsworth Estate, checked against all 146 existing
+  // rows and all four other site sheets (Restaurants/Hotels/Activities/Events) -
+  // zero collisions. One place, two genuinely distinct subjects, so two rows -
+  // same pattern as the existing multi-row treatment of a single film (28 Weeks
+  // Later) or a single building across different films.
+  {
+    ...base, slug: "alexandra-ainsworth-estate", name: "Alexandra & Ainsworth Estate", type: "hidden-gem", scheme: "",
+    subject: "A Grade II*-listed council estate - the first postwar public housing ever given that status",
+    hood: "Swiss Cottage", borough: "Camden", areaGuide: "",
+    address: "Rowley Way",
+    whyGo: "Designed by Neave Brown for Camden Council and built 1972-78, its stepped ziggurat terraces and pedestrian street were listed in 1993 - the first postwar council estate to be, and still occupied social housing rather than a museum piece. An architectural pilgrimage site that most visitors to London have never heard of.",
+    opSummary: "A lived-in residential estate - Rowley Way and the public walkways are open to walk through respectfully, but it is people's homes, not a tourist attraction.",
+    source: "Wikipedia, Historic England listing and the estate's own site (alexandraandainsworth.org) cross-checked",
+  },
+  {
+    ...base, slug: "kingsman-eggsys-flat-rowley-way", name: "Kingsman's Eggsy's Flat (90B Rowley Way)", type: "filming-location", scheme: "",
+    subject: "Kingsman: The Secret Service (2014) - Eggsy's council flat",
+    hood: "Swiss Cottage", borough: "Camden", areaGuide: "",
+    address: "90B Rowley Way",
+    whyGo: "Taron Egerton's Eggsy and his mother live here at the start of the film - the production picked the Grade II*-listed Alexandra & Ainsworth Estate for its brutalist scale, a slightly ironic choice given the building's own architectural pedigree.",
+    opSummary: "A private residential flat on a lived-in estate - viewable from the walkway only.",
+    source: "movie-locations.com and tokyofox.net Kingsman location coverage cross-checked",
   },
 ];
 

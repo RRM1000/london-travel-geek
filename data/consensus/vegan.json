@@ -1,0 +1,80 @@
+{
+  "cuisine": "vegan",
+  "note": "Vegan is a dietary category, not a cuisine - candidates will land in the sheet under whatever cuisine the menu actually is (Facing Heaven is Sichuan, Bubala is Middle Eastern). Vegetarian-only venues are out of scope; this pass is fully-vegan menus. Sources are editorial guides only; Contiki, Lonely Planet listicles and hotel-marketing blogs are deliberately excluded because they are not independent editorial authorities.",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/restaurants/the-best-vegan-restaurants-in-london",
+      "names": [
+        "Plates",
+        "Tofu Vegan",
+        "Jam Delish",
+        "Facing Heaven",
+        "Holy Carrot",
+        "En Root at Ritzy Cinema Brixton",
+        "All Nations Vegan House",
+        "King CookDaily",
+        "Naïfs",
+        "Coven of Wiches",
+        "Itadaki Zen",
+        "Purezza",
+        "Tendril",
+        "Mildreds"
+      ]
+    },
+    {
+      "name": "The Infatuation",
+      "url": "https://www.theinfatuation.com/london/guides/vegan-food-restaurants-london",
+      "names": [
+        "The Coven Of Wiches",
+        "Beaten By A Whisker",
+        "Pipoca Vegan",
+        "Deserted Cactus",
+        "Plates",
+        "Mukbap",
+        "Plants Of Roselyn",
+        "Jam Delish",
+        "Tofu Vegan",
+        "Facing Heaven",
+        "Andu Café",
+        "Bunhead Bakery",
+        "Veg & Tings",
+        "Shree Krishna Vada Pav",
+        "Tendril",
+        "Nandine Camberwell Church Street",
+        "Mr Bao",
+        "Bubala",
+        "Zahter",
+        "Chuku’s",
+        "Lahpet West End",
+        "Detroit Pizza London"
+      ]
+    },
+    {
+      "name": "DesignMyNight",
+      "url": "https://www.designmynight.com/london/restaurants/vegan-restaurants-london",
+      "names": [
+        "Rewards",
+        "Jobs"
+      ]
+    },
+    {
+      "name": "Eater London",
+      "url": "https://london.eater.com/maps/best-vegan-restaurants-london",
+      "names": [
+        "Horizon Foods",
+        "Hiba Taboun",
+        "Loving Hut Archway",
+        "Rasa South Indian Vegetarian Restaurant",
+        "Andu Cafe",
+        "Tofu Vegan",
+        "Itadakizen",
+        "Ravishankar Bhelpoori House",
+        "Bubala",
+        "Govinda's Pure Vegetarian Restaurant",
+        "Gauthier Soho",
+        "Nandine"
+      ]
+    }
+  ]
+}

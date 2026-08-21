@@ -1,13 +1,13 @@
 {
- "generated": "2026-08-19",
- "count": 700,
- "withCoords": 554,
+ "generated": "2026-08-21",
+ "count": 708,
+ "withCoords": 558,
  "facets": {
   "cuisine": [
    {
     "value": "British",
     "slug": "british",
-    "count": 145
+    "count": 147
    },
    {
     "value": "Italian",
@@ -17,7 +17,7 @@
    {
     "value": "Indian",
     "slug": "indian",
-    "count": 46
+    "count": 50
    },
    {
     "value": "Middle Eastern",
@@ -65,14 +65,14 @@
     "count": 15
    },
    {
-    "value": "Turkish",
-    "slug": "turkish",
+    "value": "French",
+    "slug": "french",
     "count": 14
    },
    {
-    "value": "French",
-    "slug": "french",
-    "count": 13
+    "value": "Turkish",
+    "slug": "turkish",
+    "count": 14
    },
    {
     "value": "Vietnamese",
@@ -95,13 +95,13 @@
     "count": 4
    },
    {
-    "value": "American",
-    "slug": "american",
-    "count": 3
-   },
-   {
     "value": "Malaysian",
     "slug": "malaysian",
+    "count": 4
+   },
+   {
+    "value": "American",
+    "slug": "american",
     "count": 3
    },
    {
@@ -169,6 +169,11 @@
    {
     "value": "Covent Garden",
     "slug": "covent-garden",
+    "count": 29
+   },
+   {
+    "value": "South Bank",
+    "slug": "south-bank",
     "count": 28
    },
    {
@@ -177,14 +182,9 @@
     "count": 27
    },
    {
-    "value": "South Bank",
-    "slug": "south-bank",
-    "count": 26
-   },
-   {
     "value": "Hackney",
     "slug": "hackney",
-    "count": 21
+    "count": 22
    },
    {
     "value": "City Of London",
@@ -222,14 +222,19 @@
     "count": 9
    },
    {
-    "value": "Chelsea",
-    "slug": "chelsea",
-    "count": 9
-   },
-   {
     "value": "Greenwich",
     "slug": "greenwich",
     "count": 9
+   },
+   {
+    "value": "Peckham",
+    "slug": "peckham",
+    "count": 9
+   },
+   {
+    "value": "Chelsea",
+    "slug": "chelsea",
+    "count": 8
    },
    {
     "value": "Hampstead",
@@ -247,11 +252,6 @@
     "count": 8
    },
    {
-    "value": "Peckham",
-    "slug": "peckham",
-    "count": 8
-   },
-   {
     "value": "Richmond",
     "slug": "richmond",
     "count": 8
@@ -262,6 +262,11 @@
     "count": 8
    },
    {
+    "value": "Westminster",
+    "slug": "westminster",
+    "count": 8
+   },
+   {
     "value": "Battersea",
     "slug": "battersea",
     "count": 7
@@ -269,11 +274,6 @@
    {
     "value": "Wapping",
     "slug": "wapping",
-    "count": 7
-   },
-   {
-    "value": "Westminster",
-    "slug": "westminster",
     "count": 7
    },
    {
@@ -296,12 +296,12 @@
    {
     "value": "regional",
     "slug": "regional",
-    "count": 178
+    "count": 183
    },
    {
     "value": "grill",
     "slug": "grill",
-    "count": 146
+    "count": 145
    },
    {
     "value": "small-plates",
@@ -316,7 +316,7 @@
    {
     "value": "street-food",
     "slug": "street-food",
-    "count": 69
+    "count": 73
    },
    {
     "value": "seasonal",
@@ -366,7 +366,7 @@
    {
     "value": "roast",
     "slug": "roast",
-    "count": 25
+    "count": 26
    },
    {
     "value": "afternoon-tea",
@@ -381,6 +381,11 @@
    {
     "value": "dim-sum",
     "slug": "dim-sum",
+    "count": 21
+   },
+   {
+    "value": "vegetarian",
+    "slug": "vegetarian",
     "count": 21
    },
    {
@@ -399,11 +404,6 @@
     "count": 18
    },
    {
-    "value": "vegetarian",
-    "slug": "vegetarian",
-    "count": 17
-   },
-   {
     "value": "fish-and-chips",
     "slug": "fish-and-chips",
     "count": 14
@@ -416,7 +416,7 @@
    {
     "value": "curry-house",
     "slug": "curry-house",
-    "count": 11
+    "count": 10
    },
    {
     "value": "bbq",
@@ -456,7 +456,7 @@
    {
     "value": "south-indian",
     "slug": "south-indian",
-    "count": 4
+    "count": 6
    },
    {
     "value": "udon",
@@ -483,7 +483,7 @@
    {
     "value": "££",
     "slug": "price-2",
-    "count": 266
+    "count": 269
    },
    {
     "value": "£££",
@@ -498,7 +498,7 @@
    {
     "value": "£",
     "slug": "price-1",
-    "count": 117
+    "count": 122
    }
   ]
  },
@@ -616,7 +616,8 @@
    "signals": "Michelin Bib Gourmand",
    "lists": [
     "nicest-dining"
-   ]
+   ],
+   "video": "https://youtu.be/bXKwEfHnA7c"
   },
   {
    "slug": "legare",
@@ -723,7 +724,8 @@
    "signals": "Michelin Guide",
    "lists": [
     "best-value"
-   ]
+   ],
+   "video": "https://youtu.be/a6sx9OCMEpw?t=209"
   },
   {
    "slug": "padella",
@@ -1054,7 +1056,8 @@
    "whyGo": "Big Mamma group's Fitzrovia room, wall-to-wall bottles and a ceiling of greenery. Booked out well ahead.",
    "lists": [
     "showstopper"
-   ]
+   ],
+   "video": "https://youtu.be/a6sx9OCMEpw?t=69"
   },
   {
    "slug": "bon-vino",
@@ -1083,7 +1086,8 @@
    "goodFor": [
     "date"
    ],
-   "whyGo": "Neighbourhood Italian near London Bridge, picked out by TOPJAW alongside Flour & Grape."
+   "whyGo": "Neighbourhood Italian near London Bridge, picked out by TOPJAW alongside Flour & Grape.",
+   "video": "https://youtu.be/a6sx9OCMEpw?t=406"
   },
   {
    "slug": "flour-and-grape",
@@ -1116,7 +1120,8 @@
    "whyGo": "Bermondsey Street pasta-and-wine spot; short menu, low prices, long queues.",
    "lists": [
     "best-value"
-   ]
+   ],
+   "video": "https://youtu.be/a6sx9OCMEpw?t=623"
   },
   {
    "slug": "napoli-on-the-road",
@@ -2905,6 +2910,7 @@
    "station": "Covent Garden",
    "walkMin": 5,
    "price": "££",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/cafemuranomarylebone",
    "website": "http://www.cafemurano.co.uk/",
    "goodFor": [
     "date",
@@ -2940,6 +2946,7 @@
    "station": "Barbican",
    "walkMin": 3,
    "price": "£££",
+   "bookingUrl": "https://www.stjohnrestaurant.com/",
    "website": "https://www.stjohnrestaurant.com/",
    "goodFor": [
     "groups",
@@ -2974,6 +2981,7 @@
    "station": "Farringdon",
    "walkMin": 9,
    "price": "£££",
+   "bookingUrl": "https://www.opentable.co.uk/the-quality-chop-house-reservations-london?restref=96150&#038;lang=en-GB&#038;ot_source=Restaurant%20website",
    "website": "http://www.thequalitychophouse.com/",
    "setting": "historic-building",
    "goodFor": [
@@ -3010,6 +3018,7 @@
    "station": "Tottenham Court Road",
    "walkMin": 5,
    "price": "£££",
+   "bookingUrl": "http://www.quovadissoho.co.uk/",
    "website": "http://www.quovadissoho.co.uk/",
    "setting": "historic-building",
    "goodFor": [
@@ -3256,6 +3265,7 @@
    "walkMin": 9,
    "price": "££££",
    "booking": "months",
+   "bookingUrl": "https://www.theledbury.com/",
    "website": "https://www.theledbury.com/",
    "goodFor": [
     "celebration",
@@ -3460,6 +3470,7 @@
    "station": "Shadwell",
    "walkMin": 11,
    "price": "££",
+   "bookingUrl": "https://www.greeneking.co.uk/pubs/greater-london/prospect-of-whitby/book",
    "website": "https://www.greeneking.co.uk/pubs/greater-london/prospect-of-whitby?utm_source=g_places&utm_medium=locations&utm_campaign=HT_pubpage",
    "setting": "riverside",
    "outdoor": "terrace",
@@ -3535,6 +3546,7 @@
    "station": "Cutty Sark (for Maritime Greenwich)",
    "walkMin": 9,
    "price": "££",
+   "bookingUrl": "http://www.trafalgartavern.co.uk/",
    "website": "http://www.trafalgartavern.co.uk/",
    "setting": "riverside",
    "outdoor": "terrace",
@@ -3572,6 +3584,7 @@
    "station": "Blackfriars",
    "walkMin": 6,
    "price": "££",
+   "bookingUrl": "https://ye-olde-cheshire-cheese.co.uk/book/",
    "website": "https://ye-olde-cheshire-cheese.co.uk/",
    "setting": "historic-building",
    "goodFor": [
@@ -3608,6 +3621,7 @@
    "station": "London Bridge",
    "walkMin": 3,
    "price": "££",
+   "bookingUrl": "https://www.greeneking.co.uk/pubs/greater-london/george-southwark/book",
    "website": "https://www.greeneking.co.uk/pubs/greater-london/george-southwark?utm_source=g_places&utm_medium=locations&utm_campaign=HT_pubpage",
    "setting": "courtyard",
    "outdoor": "courtyard",
@@ -3720,6 +3734,7 @@
    "station": "Aldgate East",
    "walkMin": 9,
    "price": "££",
+   "bookingUrl": "https://poppiesfishandchips.co.uk/reservations/",
    "website": "http://www.poppiesfishandchips.co.uk/",
    "goodFor": [
     "families",
@@ -3750,6 +3765,7 @@
    "station": "Bond Street",
    "walkMin": 5,
    "price": "££",
+   "bookingUrl": "https://www.goldenhindrestaurant.com/wp-content/plugins/booknbook/assets/css/booknbook.css?ver=2.1.1",
    "website": "https://www.goldenhindrestaurant.com/?utm_source=Google-Maps&utm_medium=Link-Profile&utm_campaign=social_media",
    "setting": "historic-building",
    "goodFor": [
@@ -3781,6 +3797,7 @@
    "station": "Old Street",
    "walkMin": 11,
    "price": "££",
+   "bookingUrl": "https://www.fishcentral.co.uk/reservations",
    "website": "https://www.fishcentral.co.uk/",
    "goodFor": [
     "families",
@@ -3812,6 +3829,7 @@
    "station": "Marylebone",
    "walkMin": 2,
    "price": "££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/theseashelloflissongrove/reservations/create/search/",
    "website": "https://www.seashellrestaurant.co.uk/?utm_source=GMB&utm_medium=GMB%20Profile&utm_campaign=GMB%20Profile",
    "goodFor": [
     "families",
@@ -3873,6 +3891,7 @@
    "station": "Highgate",
    "walkMin": 21,
    "price": "££",
+   "bookingUrl": "https://www.toffsfish.co.uk/book",
    "website": "https://www.toffsfish.co.uk/?y_source=1_MTA0MjA2MDc4Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
    "goodFor": [
     "families"
@@ -3934,6 +3953,7 @@
    "station": "Hackney Central",
    "walkMin": 2,
    "price": "££",
+   "bookingUrl": "http://www.suttonandsons.co.uk/book-stoke-newington",
    "website": "http://www.suttonandsons.co.uk/",
    "goodFor": [
     "families",
@@ -4308,6 +4328,7 @@
    "walkMin": 6,
    "price": "££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/thetamilprince/reservations/create/search?venues=thetamilcrown%2Cthetamilprince%2Ctamilasoho%2Ctamilaclapham%2Ctamilakingscross",
    "website": "http://www.thetamilprince.com/",
    "goodFor": [
     "groups",
@@ -4850,6 +4871,7 @@
    "station": "Tufnell Park",
    "walkMin": 11,
    "price": "££",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/thebullandlast",
    "website": "http://www.thebullandlast.co.uk/",
    "goodFor": [
     "families",
@@ -4885,6 +4907,7 @@
    "station": "Shoreditch High Street",
    "walkMin": 2,
    "price": "££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/theknaveofclubs/reservations/create/search",
    "website": "https://www.theknaveofclubs.co.uk/",
    "goodFor": [
     "groups",
@@ -4916,6 +4939,7 @@
    "station": "Aldgate East",
    "walkMin": 2,
    "price": "££",
+   "bookingUrl": "https://www.opentable.com/r/unity-diner-spitalfields-london?corrid=4a7b2b1c-45d0-4aa6-9b20-f2fe9e938429&avt=eyJ2IjozLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2026-06-20T22%3A00%3A00&quot;,",
    "website": "https://www.unitydiner.co.uk/",
    "goodFor": [
     "groups",
@@ -4947,6 +4971,7 @@
    "station": "Covent Garden",
    "walkMin": 4,
    "price": "££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/burro/reservations/create/search/?venues=burro%2Ctrullo",
    "website": "https://trattoriaburro.com/",
    "goodFor": [
     "date",
@@ -4972,6 +4997,7 @@
    "station": "Queen's Park",
    "walkMin": 2,
    "price": "££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/casafelicia/reservations/create/search",
    "website": "https://casa-felicia.com/",
    "goodFor": [
     "date",
@@ -5004,6 +5030,7 @@
    "walkMin": 8,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/trishna/reservations/create/search?venues=ambassadorsclubhouse%2Ctrishna",
    "website": "http://trishnalondon.com/",
    "goodFor": [
     "date",
@@ -5013,7 +5040,8 @@
    "signature": "Hariyali bream",
    "signals": "6 sources - the strongest Indian consensus; Michelin star",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "best-indian:1"
    ]
   },
   {
@@ -5040,6 +5068,7 @@
    "walkMin": 6,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/bibi",
    "website": "http://bibirestaurants.com/",
    "goodFor": [
     "celebration",
@@ -5050,8 +5079,10 @@
    "signals": "5 sources; Michelin star",
    "lists": [
     "nicest-dining",
-    "special-occasion"
-   ]
+    "special-occasion",
+    "best-indian:4"
+   ],
+   "video": "https://www.youtube.com/watch?v=AHUnqeRroYk&t=440s"
   },
   {
    "slug": "brigadiers",
@@ -5076,6 +5107,7 @@
    "station": "Cannon Street",
    "walkMin": 1,
    "price": "£££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/brigadiers/reservations/create/search?venues=brigadiers%2Cambassadorsclubhouse%2Ctrishna",
    "website": "http://www.brigadierslondon.com/",
    "noise": "loud",
    "goodFor": [
@@ -5084,7 +5116,12 @@
     "business"
    ],
    "whyGo": "Built on the Indian army mess-bar idea - big rooms, sport on the screens, whisky, and barbecue over coals. The loudest Indian restaurant in the City, by design.",
-   "signals": "5 sources; JKS Restaurants"
+   "signature": "Tandoori lamb chops",
+   "signals": "5 sources; JKS Restaurants",
+   "lists": [
+    "best-indian:6"
+   ],
+   "video": "https://www.youtube.com/watch?v=AHUnqeRroYk&t=0s"
   },
   {
    "slug": "dishoom",
@@ -5110,6 +5147,7 @@
    "station": "Covent Garden",
    "walkMin": 3,
    "price": "££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/dishoom/reservations/create/search?venues=dishoombattersea%2Cdishoomcarnaby%2Cdishoomcanarywharf%2Cdishoomcoventgarden%2Cdishoomkensington%2Cdishoomkingscross%2Cdishoomshoreditch%2Cdishoombirmingham%2Cdishoomedinburgh%2Cdishoomglasgow%2Cdishoomleeds%2Cdishoommanche",
    "website": "https://www.dishoom.com/covent-garden/?utm_source=google&utm_medium=organic&utm_campaign=Yext&utm_content=D1-CoventGarden&y_source=1_MjMwNDkyMDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
    "goodFor": [
     "groups",
@@ -5118,11 +5156,12 @@
    ],
    "whyGo": "The Irani cafes of old Bombay recreated in careful detail, and the bacon naan roll that made it a breakfast destination as much as a dinner one.",
    "signature": "Bacon naan roll",
-   "opNote": "No bookings for small groups at peak - the queue is the system. Seven London branches; the Branches tab has six named.",
+   "opNote": "Any party size can book before 6pm; after 6pm bookings are for groups of six or more only. Most tables are held back for walk-ins either way. Seven London branches; the Branches tab has six named.",
    "signals": "4 sources; also a 3-source pick on the breakfast pass",
    "lists": [
     "breakfast",
-    "best-value"
+    "best-value",
+    "best-indian:5"
    ]
   },
   {
@@ -5157,11 +5196,14 @@
     "date"
    ],
    "whyGo": "Modelled on the colonial-era gymkhana clubs of India, and the highest-decorated Indian kitchen in the city.",
+   "signature": "Wild boar biryani",
    "signals": "4 sources; two Michelin stars",
    "lists": [
     "nicest-dining",
-    "special-occasion"
-   ]
+    "special-occasion",
+    "best-indian:2"
+   ],
+   "video": "https://www.youtube.com/watch?v=AHUnqeRroYk&t=855s"
   },
   {
    "slug": "jamavar",
@@ -5187,6 +5229,7 @@
    "walkMin": 8,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/r/jamavar-reservations-london?restref=110892&lang=en-GB&ot_source=Restaurant%20website",
    "website": "https://jamavarrestaurants.com/london/",
    "goodFor": [
     "celebration",
@@ -5196,7 +5239,8 @@
    "whyGo": "Named for the handwoven Kashmiri shawl, cooking across the whole subcontinent rather than one region of it.",
    "signals": "4 sources; Michelin star",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "best-indian:7"
    ]
   },
   {
@@ -5222,6 +5266,7 @@
    "walkMin": 4,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.veeraswamy.com/reservations/",
    "website": "http://www.veeraswamy.com/",
    "setting": "historic-building",
    "goodFor": [
@@ -5230,11 +5275,13 @@
     "business"
    ],
    "whyGo": "Open since 1926 and the oldest surviving Indian restaurant in Britain, above Regent Street, with a Michelin star to go with the history.",
+   "signature": "Dum biryani",
    "signals": "4 sources; est. 1926, Michelin star",
    "lists": [
     "nicest-dining",
     "landmark",
-    "showstopper"
+    "showstopper",
+    "best-indian:3"
    ]
   },
   {
@@ -5269,7 +5316,8 @@
    "whyGo": "Named Best Fine Dining Restaurant in London at the Asian Curry Awards, and a Berkeley Square fixture for two decades.",
    "signals": "Asian Curry Awards - Best Fine Dining, London",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "best-indian:9"
    ]
   },
   {
@@ -5295,13 +5343,18 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.darjeeling-express.com/book-a-table",
    "website": "http://darjeeling-express.com/",
    "goodFor": [
     "groups",
     "date"
    ],
    "whyGo": "Asma Khan's kitchen, staffed entirely by women, cooking the food of Calcutta and the royal Mughlai tradition she grew up in.",
-   "signals": "3 sources"
+   "signals": "3 sources",
+   "lists": [
+    "best-indian:19"
+   ],
+   "video": "https://www.youtube.com/watch?v=AHUnqeRroYk&t=677s"
   },
   {
    "slug": "the-cinnamon-club",
@@ -5327,6 +5380,7 @@
    "station": "St. James's Park",
    "walkMin": 7,
    "price": "££££",
+   "bookingUrl": "https://cinnamonclub.com/",
    "website": "https://cinnamonclub.com/",
    "setting": "historic-building",
    "goodFor": [
@@ -5338,7 +5392,8 @@
    "signals": "3 sources",
    "lists": [
     "nicest-dining",
-    "showstopper"
+    "showstopper",
+    "best-indian:8"
    ]
   },
   {
@@ -5374,9 +5429,11 @@
    ],
    "dietary": "Almost entirely vegetarian",
    "whyGo": "Vada pav - the Mumbai potato-fritter roll - done properly and cheaply, from a counter rather than a dining room.",
+   "signature": "Vada pav",
    "signals": "3 sources",
    "lists": [
-    "best-value"
+    "best-value",
+    "best-indian:25"
    ]
   },
   {
@@ -5402,13 +5459,17 @@
    "station": "Sloane Square",
    "walkMin": 6,
    "price": "£££",
+   "bookingUrl": "https://www.waterstones.com/book/yatra/rohit-ghai/9781848994355",
    "website": "http://kutir.co.uk/",
    "goodFor": [
     "date",
     "groups"
    ],
    "whyGo": "A Chelsea townhouse done as an Indian hunting lodge, with a menu built around game and the outdoors.",
-   "signals": "3 sources"
+   "signals": "3 sources",
+   "lists": [
+    "best-indian:20"
+   ]
   },
   {
    "slug": "kokum",
@@ -5421,6 +5482,10 @@
    ],
    "format": "Restaurant",
    "chainType": "independent",
+   "area": "East Dulwich",
+   "zone": "2",
+   "district": "South",
+   "borough": "Southwark",
    "address": "58-60 E Dulwich Rd, London SE22 9AX, UK",
    "postcode": "SE22 9AX",
    "lat": 51.462105,
@@ -5428,13 +5493,17 @@
    "station": "East Dulwich",
    "walkMin": 13,
    "price": "£££",
+   "bookingUrl": "https://order.kokumlondon.com/reservations",
    "website": "http://www.kokumlondon.com/",
    "goodFor": [
     "date",
     "groups"
    ],
    "whyGo": "Named for the sour coastal fruit, cooking the seafood traditions of India's western shore.",
-   "signals": "3 sources"
+   "signals": "3 sources",
+   "lists": [
+    "best-indian:16"
+   ]
   },
   {
    "slug": "kricket",
@@ -5459,6 +5528,7 @@
    "station": "Piccadilly Circus",
    "walkMin": 1,
    "price": "££",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/kricketbrixton",
    "website": "http://www.kricketrestaurants.com/",
    "goodFor": [
     "date",
@@ -5466,7 +5536,12 @@
     "pre-theatre"
    ],
    "whyGo": "Started in a Brixton shipping container and grew into several sites, doing Indian cooking as small plates rather than curries.",
-   "signals": "2 sources"
+   "signature": "Keralan fried chicken",
+   "signals": "2 sources",
+   "lists": [
+    "best-indian:17"
+   ],
+   "video": "https://www.youtube.com/watch?v=6mDJrJFvllo&t=476s"
   },
   {
    "slug": "amaya",
@@ -5490,6 +5565,7 @@
    "station": "Knightsbridge",
    "walkMin": 6,
    "price": "££££",
+   "bookingUrl": "http://www.amaya.biz/reservations/",
    "website": "http://www.amaya.biz/",
    "goodFor": [
     "date",
@@ -5498,7 +5574,8 @@
    "whyGo": "An open kitchen of tawa, sigri and tandoor in Belgravia, with a Michelin star for grilling rather than saucing.",
    "signals": "2 sources; Michelin star",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "best-indian:12"
    ]
   },
   {
@@ -5523,13 +5600,17 @@
    "station": "Oxford Circus",
    "walkMin": 4,
    "price": "£££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/kanishka/reservations/create/search/",
    "website": "https://kanishkarestaurant.co.uk/",
    "goodFor": [
     "date",
     "business"
    ],
    "whyGo": "Atul Kochhar cooking the north-eastern states - Assam, Nagaland, Sikkim - which almost nowhere else in London attempts.",
-   "signals": "2 sources"
+   "signals": "2 sources",
+   "lists": [
+    "best-indian:13"
+   ]
   },
   {
    "slug": "empire-empire",
@@ -5553,13 +5634,18 @@
    "station": "Westbourne Park",
    "walkMin": 8,
    "price": "£££",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/empireempirelondon",
    "website": "https://empire-empire.restaurant/",
    "goodFor": [
     "date",
     "groups"
    ],
    "whyGo": "A love letter to 1970s Bombay dining rooms, from the JKS group - velvet, brass and disco-era styling.",
-   "signals": "2 sources"
+   "signals": "2 sources",
+   "lists": [
+    "best-indian:18"
+   ],
+   "video": "https://www.youtube.com/watch?v=6mDJrJFvllo&t=1095s"
   },
   {
    "slug": "colonel-saab",
@@ -5607,6 +5693,9 @@
    ],
    "format": "Restaurant",
    "chainType": "independent",
+   "area": "Brockley",
+   "zone": "2–3",
+   "district": "South",
    "borough": "Lewisham",
    "address": "119 Brockley Rise, London SE23 1JP, UK",
    "postcode": "SE23 1JP",
@@ -5615,6 +5704,7 @@
    "station": "Honor Oak Park",
    "walkMin": 7,
    "price": "£££",
+   "bookingUrl": "https://www.babur.info/reservations",
    "website": "http://www.babur.info/",
    "goodFor": [
     "date",
@@ -5654,44 +5744,6 @@
    "signals": "Asian Curry Awards - Asian Restaurant of the Year, London"
   },
   {
-   "slug": "tayyabs",
-   "name": "Tayyabs",
-   "cuisine": "Indian",
-   "style": "Punjabi grill",
-   "specialities": [
-    "grill",
-    "curry-house"
-   ],
-   "format": "Restaurant",
-   "chainType": "independent",
-   "area": "Whitechapel",
-   "zone": "2",
-   "district": "East",
-   "borough": "Tower Hamlets",
-   "address": "83-89 Fieldgate St, London E1 1JU, UK",
-   "postcode": "E1 1JU",
-   "lat": 51.517099,
-   "lng": -0.065957,
-   "station": "Whitechapel",
-   "walkMin": 7,
-   "price": "£",
-   "booking": "walk-in",
-   "website": "http://www.tayyabs.co.uk/",
-   "noise": "loud",
-   "goodFor": [
-    "groups",
-    "large-groups",
-    "quick"
-   ],
-   "whyGo": "A Whitechapel Punjabi institution since 1972, famous for lamb chops off the grill and for queues that form before it opens.",
-   "signature": "Lamb chops",
-   "opNote": "Bring your own alcohol. Queues are the norm - go early or expect to stand.",
-   "signals": "est. 1972; on no consensus list",
-   "lists": [
-    "best-value"
-   ]
-  },
-  {
    "slug": "punjab-covent-garden",
    "name": "Punjab",
    "cuisine": "Indian",
@@ -5723,7 +5775,8 @@
    "whyGo": "Open since 1946 and claimed as the oldest North Indian restaurant in Britain, still run by the same family.",
    "signals": "est. 1946; landmark",
    "lists": [
-    "landmark"
+    "landmark",
+    "best-indian:24"
    ]
   },
   {
@@ -5749,13 +5802,17 @@
    "station": "Aldgate East",
    "walkMin": 11,
    "price": "££",
+   "bookingUrl": "https://cityspice.co/book-now/",
    "website": "https://cityspice.co/",
    "goodFor": [
     "groups",
     "families"
    ],
    "whyGo": "The Brick Lane curry house that gets named most often when people argue about which of them is still worth eating at.",
-   "signals": "video pass; Brick Lane"
+   "signals": "video pass; Brick Lane",
+   "lists": [
+    "best-indian:23"
+   ]
   },
   {
    "slug": "sheba-brick-lane",
@@ -5812,6 +5869,7 @@
    "walkMin": 5,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/thequilon",
    "website": "http://www.quilon.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=Knowledge_Graph",
    "setting": "hotel",
    "goodFor": [
@@ -5820,9 +5878,11 @@
     "celebration"
    ],
    "whyGo": "Michelin-starred cooking from Kerala and the Malabar coast - the one starred kitchen in London doing south-western seafood rather than northern grills.",
+   "signature": "Mangalorean chicken",
    "signals": "2 sources; Michelin star",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "best-indian:14"
    ]
   },
   {
@@ -5849,6 +5909,7 @@
    "walkMin": 5,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "http://www.tamarindrestaurant.com/",
    "website": "http://www.tamarindrestaurant.com/",
    "setting": "basement",
    "goodFor": [
@@ -5859,7 +5920,8 @@
    "whyGo": "The first Indian restaurant in the world to win a Michelin star, and still a Mayfair basement doing tandoor cooking at that level.",
    "signals": "2 sources; Michelin star",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "best-indian:10"
    ]
   },
   {
@@ -5880,6 +5942,7 @@
    "station": "Gloucester Road",
    "walkMin": 2,
    "price": "££",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/bombaybrasserie",
    "website": "http://www.bombayb.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=Knowledge_Graph",
    "goodFor": [
     "families",
@@ -5941,6 +6004,7 @@
    "station": "Piccadilly Circus",
    "walkMin": 2,
    "price": "££",
+   "bookingUrl": "https://www.masalazone.com/reservations/",
    "website": "https://www.masalazone.com/locations/piccadilly-circus/",
    "goodFor": [
     "families",
@@ -5976,6 +6040,7 @@
    "station": "Oxford Circus",
    "walkMin": 3,
    "price": "£££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/pahlihill/reservations/create/search",
    "website": "https://pahlihillbandrabhai.com/",
    "setting": "basement",
    "goodFor": [
@@ -6008,6 +6073,7 @@
    "station": "Angel",
    "walkMin": 5,
    "price": "££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/thetamilcrown/reservations/create/search?venues=thetamilcrown%2Cthetamilprince%2Ctamilasoho%2Ctamilaclapham%2Ctamilakingscross",
    "website": "https://www.thetamilcrown.com/",
    "goodFor": [
     "groups",
@@ -6061,6 +6127,10 @@
    ],
    "format": "Restaurant",
    "chainType": "independent",
+   "area": "East Ham",
+   "zone": "3–4",
+   "district": "East",
+   "borough": "Newham",
    "address": "105 Katherine Rd, London E6 1ES, UK",
    "postcode": "E6 1ES",
    "lat": 51.535875,
@@ -6087,6 +6157,10 @@
    ],
    "format": "Restaurant",
    "chainType": "independent",
+   "area": "East Ham",
+   "zone": "3–4",
+   "district": "East",
+   "borough": "Newham",
    "address": "309 High St N, London E12 6SL, UK",
    "postcode": "E12 6SL",
    "lat": 51.542576,
@@ -6112,11 +6186,10 @@
    ],
    "format": "Restaurant",
    "chainType": "independent",
-   "area": "Chelsea",
-   "zone": "1–2",
+   "area": "Knightsbridge",
+   "zone": "1",
    "district": "West",
    "borough": "Kensington and Chelsea",
-   "guide": "chelsea-area-guide",
    "address": "14-15 Beauchamp Pl, London SW3 1NQ, UK",
    "postcode": "SW3 1NQ",
    "lat": 51.497789,
@@ -6142,6 +6215,11 @@
    ],
    "format": "Restaurant",
    "chainType": "independent",
+   "area": "Homerton",
+   "zone": "2",
+   "district": "East",
+   "borough": "Hackney",
+   "guide": "hackney-area-guide",
    "address": "221 Well St, London E9 6RG, UK",
    "postcode": "E9 6RG",
    "lat": 51.544534,
@@ -6156,6 +6234,187 @@
    ],
    "whyGo": "Named by both The Infatuation and Time Out, which is a narrow overlap to land in.",
    "signals": "2 sources"
+  },
+  {
+   "slug": "rasa-stoke-newington",
+   "name": "Rasa",
+   "cuisine": "Indian",
+   "style": "Keralan vegetarian",
+   "specialities": [
+    "south-indian",
+    "vegetarian",
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Stoke Newington",
+   "zone": "2",
+   "district": "North",
+   "borough": "Hackney",
+   "address": "55 Stoke Newington Church St",
+   "postcode": "N16 0AR",
+   "lat": 51.562071,
+   "lng": -0.076376,
+   "price": "£",
+   "booking": "days",
+   "website": "https://rasarestaurants.com/",
+   "goodFor": [
+    "date",
+    "families",
+    "groups"
+   ],
+   "dietary": "Entirely vegetarian",
+   "whyGo": "An all-vegetarian Keralan kitchen behind a shocking pink shopfront, cooking with coconut and curry leaf rather than cream.",
+   "lists": [
+    "best-value",
+    "vegetarian",
+    "best-indian:15"
+   ]
+  },
+  {
+   "slug": "saravanaa-bhavan",
+   "name": "Saravanaa Bhavan",
+   "cuisine": "Indian",
+   "style": "South Indian vegetarian",
+   "specialities": [
+    "south-indian",
+    "vegetarian"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Leicester Square",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "price": "£",
+   "booking": "walk-in",
+   "website": "https://saravanaabhavan.co.uk/",
+   "goodFor": [
+    "quick",
+    "families",
+    "solo"
+   ],
+   "dietary": "Entirely vegetarian",
+   "whyGo": "The London outpost of the Chennai vegetarian chain, and the cheapest way in the West End to eat a properly made masala dosa.",
+   "signature": "Masala dosa",
+   "lists": [
+    "best-value",
+    "vegetarian"
+   ]
+  },
+  {
+   "slug": "horn-ok-please",
+   "name": "Horn OK Please",
+   "cuisine": "Indian",
+   "style": "Indian vegetarian street food",
+   "specialities": [
+    "street-food",
+    "vegetarian",
+    "regional"
+   ],
+   "format": "Market Stall",
+   "chainType": "independent",
+   "context": "Borough Market",
+   "area": "Borough",
+   "zone": "1",
+   "district": "South",
+   "borough": "Southwark",
+   "guide": "south-bank-area-guide",
+   "lat": 51.5055,
+   "lng": -0.091,
+   "station": "London Bridge",
+   "walkMin": 4,
+   "price": "£",
+   "booking": "walk-in",
+   "setting": "market-stall",
+   "goodFor": [
+    "quick",
+    "solo",
+    "families"
+   ],
+   "dietary": "Entirely vegetarian",
+   "whyGo": "Samosa chaat built to order - the samosas crushed under chickpea curry, yoghurt and tamarind while still hot - from an all-vegetarian Borough Market stall.",
+   "signature": "Samosa chaat",
+   "lists": [
+    "best-value",
+    "vegetarian",
+    "markets",
+    "best-indian:26"
+   ]
+  },
+  {
+   "slug": "gujarati-rasoi",
+   "name": "Gujarati Rasoi",
+   "cuisine": "Indian",
+   "style": "Gujarati home cooking",
+   "specialities": [
+    "street-food",
+    "regional",
+    "vegetarian"
+   ],
+   "format": "Market Stall",
+   "chainType": "independent",
+   "context": "Borough Market",
+   "area": "Borough",
+   "zone": "1",
+   "district": "South",
+   "borough": "Southwark",
+   "guide": "south-bank-area-guide",
+   "lat": 51.5055,
+   "lng": -0.091,
+   "station": "London Bridge",
+   "walkMin": 4,
+   "price": "£",
+   "booking": "walk-in",
+   "setting": "market-stall",
+   "goodFor": [
+    "quick",
+    "solo",
+    "families"
+   ],
+   "whyGo": "Mother-and-son Gujarati cooking from family recipes - thalis, bhajia and dhal - at a market where almost everything else is European.",
+   "lists": [
+    "best-value",
+    "markets",
+    "best-indian:27"
+   ]
+  },
+  {
+   "slug": "kolkati",
+   "name": "Kolkati",
+   "cuisine": "Indian",
+   "style": "Kolkata street food",
+   "specialities": [
+    "street-food",
+    "regional"
+   ],
+   "format": "Market Stall",
+   "chainType": "independent",
+   "context": "Seven Dials Market",
+   "area": "Covent Garden",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "covent-garden-area-guide",
+   "lat": 51.5135,
+   "lng": -0.1265,
+   "station": "Covent Garden",
+   "walkMin": 3,
+   "price": "£",
+   "booking": "walk-in",
+   "setting": "market-stall",
+   "goodFor": [
+    "quick",
+    "solo",
+    "groups"
+   ],
+   "whyGo": "Kati rolls the Kolkata way - paratha cooked with egg through it, wrapped round spiced chicken or paneer with pickled onion and lime.",
+   "signature": "Kati roll",
+   "lists": [
+    "best-value",
+    "markets",
+    "best-indian:28"
+   ]
   },
   {
    "slug": "fallow",
@@ -6181,6 +6440,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/fallowstjames/reservations/create/search?venues=roe%2Cfallowstjames%2Cfowl",
    "website": "http://www.fallowrestaurant.com/",
    "goodFor": [
     "date",
@@ -6253,6 +6513,7 @@
    "walkMin": 9,
    "price": "££££",
    "booking": "months",
+   "bookingUrl": "https://www.opentable.co.uk/r/core-by-clare-smyth-london",
    "website": "https://www.corebyclaresmyth.com/",
    "goodFor": [
     "celebration",
@@ -6288,6 +6549,7 @@
    "station": "Holborn",
    "walkMin": 7,
    "price": "£££",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/noblerotsoho/pdr?client_id=6be6bc550f3bb4f086b1d8dd73bff662e3962e52cc23db5e1f7f7cbc38336adddc535fd491ad5e1e6a194e03a4bd386b177db83fc0a2f8a7fd5a4955b4a8b612",
    "website": "http://www.noblerot.co.uk/",
    "goodFor": [
     "date",
@@ -6323,6 +6585,7 @@
    "station": "Goodge Street",
    "walkMin": 5,
    "price": "££",
+   "bookingUrl": "http://cafe-deco.co.uk/reservations",
    "website": "http://cafe-deco.co.uk/",
    "goodFor": [
     "solo",
@@ -6386,6 +6649,7 @@
    "station": "Cambridge Heath (London)",
    "walkMin": 5,
    "price": "££",
+   "bookingUrl": "https://www.cafececilia.com/",
    "website": "https://www.cafececilia.com/",
    "setting": "canal",
    "goodFor": [
@@ -6419,6 +6683,7 @@
    "station": "Embankment",
    "walkMin": 6,
    "price": "££££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/granddivan/reservations/create/search",
    "website": "https://www.simpsonsinthestrand.co.uk/",
    "setting": "historic-building",
    "goodFor": [
@@ -6459,6 +6724,7 @@
    "walkMin": 2,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/hidegrounduk/reservations/create/search?date=2026-08-15",
    "website": "https://hide.co.uk/?utm_source=gbp&utm_medium=organic",
    "goodFor": [
     "celebration",
@@ -6969,6 +7235,7 @@
    "station": "Leicester Square",
    "walkMin": 3,
    "price": "££",
+   "bookingUrl": "https://www.opentable.co.uk/restaurant/profile/463200/reserve?rid=463200&restref=463200",
    "website": "http://www.fs-restaurants.co.uk/",
    "goodFor": [
     "groups",
@@ -7005,6 +7272,7 @@
    "station": "Leicester Square",
    "walkMin": 3,
    "price": "£££",
+   "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid=82531&type=standard&theme=standard&iframe=true&domain=couk&lang=en-GB&newtab=false&ot_source=Restaurant%20website",
    "website": "https://plumvalley.co.uk/",
    "goodFor": [
     "date",
@@ -7039,6 +7307,7 @@
    "station": "Leicester Square",
    "walkMin": 2,
    "price": "£££",
+   "bookingUrl": "http://www.taotaoju.co.uk/reservation",
    "website": "http://www.taotaoju.co.uk/?utm_source=GMB&utm_medium=website%20click&utm_campaign=SDM&utm_id=GMB",
    "goodFor": [
     "groups",
@@ -7074,6 +7343,7 @@
    "walkMin": 1,
    "price": "£",
    "booking": "walk-in",
+   "bookingUrl": "https://www.sevenrooms.com/explore/bunhousedisco/reservations/create/search",
    "website": "https://bun.house/",
    "setting": "counter",
    "goodFor": [
@@ -7222,6 +7492,7 @@
    "walkMin": 6,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/hunan/reservations/create/search/&quot;,",
    "website": "http://www.hunanlondon.com/",
    "goodFor": [
     "date",
@@ -7257,6 +7528,7 @@
    "station": "Walthamstow Central",
    "walkMin": 4,
    "price": "££",
+   "bookingUrl": "https://etleswalthamstow.com/reservation.html",
    "website": "https://etleswalthamstow.com/Home.html",
    "goodFor": [
     "groups",
@@ -7289,6 +7561,7 @@
    "station": "Tower Hill",
    "walkMin": 5,
    "price": "££",
+   "bookingUrl": "https://dreamxian.co.uk/reservation/",
    "website": "http://www.dreamxian.co.uk/",
    "goodFor": [
     "quick",
@@ -7360,6 +7633,7 @@
    "station": "Covent Garden",
    "walkMin": 3,
    "price": "£££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/dimsumlibrary/reservations/create/search?venues=dimsumlibrary%2Caquashard%2Chutonglondon%2Caquakyoto%2Caquanueva%2Cshiro%2Cazzurra",
    "website": "https://dimsumlibrary.co.uk/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-website",
    "goodFor": [
     "date",
@@ -7466,6 +7740,7 @@
    "station": "Leicester Square",
    "walkMin": 2,
    "price": "££",
+   "bookingUrl": "https://goldenphoenixchinatown.co.uk/book-a-table/",
    "website": "https://goldenphoenixchinatown.co.uk/",
    "goodFor": [
     "groups",
@@ -7562,6 +7837,7 @@
    "walkMin": 7,
    "price": "££££",
    "booking": "months",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/awong",
    "website": "http://www.awong.co.uk/",
    "goodFor": [
     "celebration",
@@ -7601,6 +7877,7 @@
    "walkMin": 6,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/hakkasanmayfairlondon/reservations/create/search/",
    "website": "https://hakkasangroup.com/venues/hakkasan-mayfair-london/?utm_source=google&utm_medium=organic&utm_campaign=gbp_mayfair",
    "setting": "basement",
    "noise": "loud",
@@ -7639,6 +7916,7 @@
    "walkMin": 6,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/yauatchasoholondon/reservations/create/search/",
    "website": "https://hakkasangroup.com/venues/yauatcha-soho-london/?utm_source=google&utm_medium=organic&utm_campaign=gbp_mayfair",
    "goodFor": [
     "date",
@@ -7676,6 +7954,7 @@
    "walkMin": 2,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/parkchinoisgroup/reservations/create/search/?venues=parkchinoisdoha",
    "website": "https://parkchinois.com/",
    "setting": "basement",
    "noise": "loud",
@@ -7749,6 +8028,7 @@
    "walkMin": 6,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.minjiang.co.uk/book-a-table",
    "website": "https://www.minjiang.co.uk/?utm_source=gbp&utm_medium=organic&utm_campaign=minjiang",
    "setting": "hotel",
    "goodFor": [
@@ -7787,6 +8067,7 @@
    "walkMin": 8,
    "price": "£££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.royalchinagroup.co.uk/reservation",
    "website": "http://www.royalchinagroup.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -7824,6 +8105,7 @@
    "station": "King's Cross St. Pancras",
    "walkMin": 10,
    "price": "££",
+   "bookingUrl": "http://www.baba-tang.com/reservations",
    "website": "http://www.baba-tang.com/?utm_campaign=SDM&utm_id=GMB&utm_medium=website+click&utm_source=GMB",
    "goodFor": [
     "date",
@@ -7859,6 +8141,7 @@
    "station": "Leicester Square",
    "walkMin": 3,
    "price": "££",
+   "bookingUrl": "https://joykinglau.co.uk/reservation/",
    "website": "https://joykinglau.co.uk/",
    "goodFor": [
     "families",
@@ -7893,6 +8176,7 @@
    "station": "Piccadilly Circus",
    "walkMin": 5,
    "price": "£££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/duck-and-rice/reservations/create/search/?venues=Duckandricebatterseapowerstation%2Ctheduckandrice",
    "website": "https://www.theduckandrice.com/",
    "setting": "historic-building",
    "goodFor": [
@@ -7923,6 +8207,7 @@
    "station": "Aldgate East",
    "walkMin": 9,
    "price": "££",
+   "bookingUrl": "https://widget.quandoo.co.uk/widget/reservation/merchant/h49z5?&countryId=GBR",
    "website": "https://social.quandoo.com/en/groups/sichuan-folk-14489",
    "goodFor": [
     "groups",
@@ -7953,6 +8238,7 @@
    "walkMin": 9,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "http://www.kaimayfair.co.uk/reservations",
    "website": "http://www.kaimayfair.co.uk/",
    "goodFor": [
     "celebration",
@@ -7991,6 +8277,7 @@
    "walkMin": 2,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/pearlliang",
    "website": "http://www.pearlliang.co.uk/",
    "setting": "basement",
    "goodFor": [
@@ -8068,6 +8355,7 @@
    "walkMin": 2,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://murgerhan.com/reservations/",
    "website": "https://murgerhan.com/",
    "goodFor": [
     "quick",
@@ -8102,6 +8390,7 @@
    "walkMin": 6,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://yi-ban.co.uk/reservations/",
    "website": "http://yi-ban.co.uk/",
    "setting": "riverside",
    "goodFor": [
@@ -8569,6 +8858,7 @@
    "walkMin": 2,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.sevendialsmarket.com/book-a-table/",
    "website": "http://www.sevendialsmarket.com/",
    "setting": "food-hall",
    "noise": "loud",
@@ -8609,6 +8899,7 @@
    "walkMin": 2,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "http://www.pickandcheese.com/",
    "website": "http://www.pickandcheese.com/",
    "setting": "counter",
    "goodFor": [
@@ -8641,6 +8932,7 @@
    "walkMin": 2,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.sevenrooms.com/explore/arcade/reservations/create/search/?_gl%3D1*1w8h3hi*_gcl_au*MTE5NzE3NDQwLjE3NTUwNzUwOTk.=&date=2026-05-23&venues=arcadecoventgarden%2Carcadebatterseapowerstation%2Cfoodhallground%2Csolis%2Cgraceys",
    "website": "https://www.arcade-london.com/",
    "setting": "food-hall",
    "noise": "loud",
@@ -8752,6 +9044,7 @@
    "walkMin": 1,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://markethalls.co.uk/booking/",
    "website": "https://www.markethalls.co.uk/",
    "setting": "food-hall",
    "noise": "loud",
@@ -8869,6 +9162,7 @@
    "walkMin": 10,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/mountstrestaurant?_gl=1*vqal4p*_gcl_au*MzE1MzU1OTAuMTY5NDY4ODE0MA..*_ga*MTM1ODg0NTE0Mi4xNjk0Njg4MTQw*_ga_P8LB598KQ7*MTY5NDY4ODE0MC4xLjEuMTY5NDY4ODQ1OS4xMC4wLjA.",
    "website": "https://mountstrestaurant.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
    "setting": "historic-building",
    "goodFor": [
@@ -8907,6 +9201,7 @@
    "walkMin": 4,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "http://www.mayfairchippy.com/",
    "website": "http://www.mayfairchippy.com/",
    "goodFor": [
     "families",
@@ -8980,6 +9275,7 @@
    "walkMin": 3,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/mezzogiornobyfrancescomazzei/reservations/create/search/?date=2025-11-20",
    "website": "https://www.corinthia.com/london/?utm_source=gmb&utm_medium=seo&utm_campaign=londonlisting",
    "setting": "hotel",
    "noise": "quiet",
@@ -9014,6 +9310,7 @@
    "postcode": "SW1X 9SG",
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.belmond.com/_nuxt/BookingFlowSidebarMainCta.Ck7Q-ULI.css",
    "website": "https://www.belmond.com/hotels/europe/uk/london/belmond-cadogan-hotel/?utm_source=local_search&utm_medium=link&utm_campaign=google_business",
    "setting": "hotel",
    "noise": "quiet",
@@ -9087,6 +9384,7 @@
    "walkMin": 6,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "http://thelaundrybrixton.com/",
    "website": "http://thelaundrybrixton.com/",
    "setting": "historic-building",
    "goodFor": [
@@ -9230,6 +9528,7 @@
    "postcode": "W1S 3BF",
    "price": "££££",
    "booking": "months",
+   "bookingUrl": "https://the-araki.co.uk/booking-policy",
    "website": "https://the-araki.co.uk/",
    "setting": "counter",
    "noise": "quiet",
@@ -9308,6 +9607,7 @@
    "walkMin": 11,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/diningssw3",
    "website": "http://diningssw3.co.uk/",
    "outdoor": "courtyard",
    "goodFor": [
@@ -9345,6 +9645,7 @@
    "walkMin": 7,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://booking.resdiary.com/widget/FixedSize/SushiAtelier/1265?includeJquery=false%22",
    "website": "http://www.sushiatelier.com/",
    "setting": "counter",
    "goodFor": [
@@ -9380,6 +9681,7 @@
    "walkMin": 5,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/static2/reservations/vendor1-B01FTBpd-121933.js",
    "website": "https://www.sevenrooms.com/explore/kurisuomakase/reservations/create/search/",
    "setting": "counter",
    "noise": "quiet",
@@ -9417,6 +9719,7 @@
    "walkMin": 7,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/embed.js%E2%80%9D",
    "website": "http://umurestaurant.com/",
    "noise": "quiet",
    "goodFor": [
@@ -9454,6 +9757,7 @@
    "walkMin": 2,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.zumarestaurant.com/en/london/book-a-table",
    "website": "https://www.zumarestaurant.com/en/london?utm_source=InfoButtonClick&utm_medium=Home&utm_campaign=GoogleBusinessProfile",
    "noise": "loud",
    "goodFor": [
@@ -9530,6 +9834,7 @@
    "walkMin": 5,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.noburestaurants.com/london-old-park-lane/reservations",
    "website": "https://www.noburestaurants.com/london-old-park-lane/home-2",
    "noise": "loud",
    "goodFor": [
@@ -9567,6 +9872,7 @@
    "walkMin": 2,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/theaubreymolon/?venues=theaubreymolon,theroseberymolon,dinnerbyhestonmolon,hydeparkgarden",
    "website": "https://www.mandarinoriental.com/en/london/hyde-park/dine/the-aubrey?src=loc.yext.molon.ggl",
    "setting": "hotel",
    "noise": "loud",
@@ -9642,6 +9948,7 @@
    "walkMin": 6,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://booking.resdiary.com/widget/Standard/HIMI/57222",
    "website": "https://himi.uk/",
    "goodFor": [
     "date",
@@ -9822,6 +10129,7 @@
    "walkMin": 4,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.sevenrooms.com/explore/koyacity/reservations/create/search",
    "website": "https://www.koya.co.uk/restaurant/soho",
    "setting": "counter",
    "goodFor": [
@@ -9860,6 +10168,7 @@
    "walkMin": 17,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.sevenrooms.com/explore/koyacity/reservations/create/search",
    "website": "https://www.koya.co.uk/restaurant/hackney/?utm_campaign=SDM&utm_id=GMB&utm_medium=website+click&utm_source=GMB",
    "setting": "counter",
    "goodFor": [
@@ -9926,6 +10235,7 @@
    "walkMin": 6,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "http://www.opentable.co.uk/restaurant/profile/140661/reserve?rid=140661&restref=140661",
    "website": "http://tanakatsu.co.uk/",
    "goodFor": [
     "quick",
@@ -10032,6 +10342,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/akira/reservations/create/search?tracking=offers-dir",
    "website": "https://salt-uk.co.uk/akira/",
    "goodFor": [
     "solo",
@@ -10096,6 +10407,7 @@
    "walkMin": 24,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "http://www.aun-restaurant.com/book-a-table/",
    "website": "http://www.aun-restaurant.com/",
    "noise": "quiet",
    "goodFor": [
@@ -10133,6 +10445,7 @@
    "walkMin": 4,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://booking.resdiary.com/widget/CrossSell/ChisouJapaneseRestaurant/68339",
    "website": "https://www.chisourestaurant.com/",
    "goodFor": [
     "business",
@@ -10204,6 +10517,7 @@
    "walkMin": 2,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/engawa/reservations/create/search?tracking=offers-dir",
    "website": "https://engawa-london.com/",
    "noise": "quiet",
    "goodFor": [
@@ -10280,6 +10594,7 @@
    "walkMin": 2,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.losmochis.co.uk/reservations",
    "website": "https://www.losmochis.co.uk/nh/notting-hill",
    "noise": "loud",
    "goodFor": [
@@ -10317,6 +10632,7 @@
    "walkMin": 5,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/noburestaurantlondonportmansquare/book-restaurant-button-on-home-page?venues=nobuterraceandbar,noburestaurantlondonportmansquare,theloungenobuhotel",
    "website": "https://www.nobuhotels.com/london-portman/dining/nobu-portman-square/?utm_source=google&utm_medium=organic&utm_campaign=google_local_nobu_restaurant",
    "setting": "hotel",
    "goodFor": [
@@ -10353,6 +10669,7 @@
    "walkMin": 10,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/ramosoho/",
    "website": "http://www.ramoramen.com/",
    "goodFor": [
     "quick",
@@ -10392,6 +10709,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "http://tokii.co.uk/",
    "website": "http://tokii.co.uk/",
    "setting": "hotel",
    "noise": "quiet",
@@ -10464,6 +10782,7 @@
    "walkMin": 7,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.alwahalondon.co.uk/",
    "website": "https://www.alwahalondon.co.uk/",
    "goodFor": [
     "families",
@@ -10497,6 +10816,7 @@
    "walkMin": 4,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid=418572&rid=352215&rid=288186&type=multi&theme=wide&color=8&dark=false&iframe=false&domain=couk&lang=en-GB&newtab=false&ot_source=Restaurant%20website&font=brandonText&ot_logo=standard&primary_color=f0f0e4&primary_font_color=333333&button_colo",
    "website": "http://bubala.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -10535,6 +10855,7 @@
    "walkMin": 6,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/r/imads-syrian-kitchen-reservations-london?restref=244287&lang=en-GB&ot_source=Restaurant%20website&quot;,",
    "website": "http://imadssyriankitchen.co.uk/",
    "goodFor": [
     "groups",
@@ -10567,6 +10888,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "http://www.sevenrooms.com/reservations/ishbilialebaneserestaurant",
    "website": "http://www.ishbilia.com/",
    "goodFor": [
     "families",
@@ -10637,6 +10959,7 @@
    "walkMin": 3,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/akub&quot;,",
    "website": "https://www.akub-restaurant.com/",
    "goodFor": [
     "date",
@@ -10673,6 +10996,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/thepalomar/reservations/create/search?searchTab=group_bookings&venues=thepalomar",
    "website": "https://thepalomar.co.uk/",
    "setting": "counter",
    "noise": "loud",
@@ -10710,6 +11034,7 @@
    "walkMin": 7,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://shop.honeyandco.co.uk/collections/books",
    "website": "http://honeyandco.co.uk/",
    "goodFor": [
     "date",
@@ -10746,6 +11071,7 @@
    "walkMin": 12,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/ottolenghibicestervillage/reservations/create/search",
    "website": "https://ottolenghi.co.uk/pages/locations/islington",
    "goodFor": [
     "solo",
@@ -10781,6 +11107,7 @@
    "walkMin": 3,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/coalofficerestaurant",
    "website": "http://coaloffice.com/",
    "setting": "historic-building",
    "noise": "loud",
@@ -10957,6 +11284,7 @@
    "walkMin": 4,
    "price": "£",
    "booking": "walk-in",
+   "bookingUrl": "http://www.maroush.com/",
    "website": "http://www.maroush.com/",
    "setting": "counter",
    "goodFor": [
@@ -10993,6 +11321,7 @@
    "walkMin": 7,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://www.maramia.com/reservation/",
    "website": "https://www.maramia.com/",
    "goodFor": [
     "families",
@@ -11096,6 +11425,7 @@
    "walkMin": 1,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.resdiary.com/restaurant/meza#booking",
    "website": "http://www.mezarestaurant.com/",
    "goodFor": [
     "groups",
@@ -11236,6 +11566,7 @@
    "walkMin": 5,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://www.berut.co.uk/reservations",
    "website": "https://www.berut.co.uk/",
    "goodFor": [
     "date",
@@ -11267,6 +11598,7 @@
    "walkMin": 2,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://palmyraskitchen.com/bookings-clifton-terrace/",
    "website": "https://palmyraskitchen.com/",
    "goodFor": [
     "quick",
@@ -11481,6 +11813,7 @@
    "walkMin": 4,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://sohailarestaurant.com/book-a-table-1",
    "website": "https://sohailarestaurant.com/",
    "noise": "loud",
    "goodFor": [
@@ -11583,6 +11916,7 @@
    "walkMin": 5,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/ottolenghibicestervillage/reservations/create/search",
    "website": "https://ottolenghi.co.uk/pages/locations/rovi",
    "goodFor": [
     "date",
@@ -11796,6 +12130,7 @@
    "walkMin": 4,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://mytools.aleno.me/reservations/v2.0/reservations.css",
    "website": "http://www.hummusbar.co.uk/",
    "goodFor": [
     "families",
@@ -11874,6 +12209,7 @@
    "walkMin": 4,
    "price": "££££",
    "booking": "months",
+   "bookingUrl": "https://www.sevenrooms.com/explore/anglothai/reservations/create/search/landing",
    "website": "https://anglothai.co.uk/",
    "goodFor": [
     "celebration",
@@ -11910,6 +12246,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/kolae/reservations/create/search?party_size=7&venues=kolae%2Csomsaa",
    "website": "https://www.kolae.com/",
    "noise": "loud",
    "goodFor": [
@@ -11944,6 +12281,7 @@
    "walkMin": 2,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.sevenrooms.com/explore/plazakhaogaengcoventgarden/reservations/create/search?date=2026-05-05&#038;venues=plazakhaogaengborough%2Cplazakhaogaengcoventgarden",
    "website": "https://plazakhaogaeng.com/",
    "setting": "food-hall",
    "noise": "loud",
@@ -11981,6 +12319,7 @@
    "walkMin": 2,
    "price": "££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/r/singburi-reservations-london-2?restref=342303&lang=en-GB&ot_source=Restaurant%20website",
    "website": "https://singburi.london/",
    "goodFor": [
     "groups",
@@ -12014,6 +12353,7 @@
    "walkMin": 11,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.payst.co.uk/books/cook-thai",
    "website": "http://www.faranglondon.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -12047,6 +12387,7 @@
    "walkMin": 8,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/thebeggingbowl/reservations/create/search/",
    "website": "http://www.thebeggingbowl.co.uk/",
    "goodFor": [
     "groups",
@@ -12079,6 +12420,7 @@
    "walkMin": 4,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/somsaa?venues=somsaa,kolae",
    "website": "http://www.somsaa.com/",
    "noise": "loud",
    "goodFor": [
@@ -12112,6 +12454,7 @@
    "walkMin": 1,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.smokinggoatbar.com/reservations",
    "website": "http://www.smokinggoatbar.com/",
    "noise": "loud",
    "goodFor": [
@@ -12144,6 +12487,7 @@
    "walkMin": 4,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "http://supawan.co.uk/reservations",
    "website": "http://supawan.co.uk/",
    "goodFor": [
     "date",
@@ -12179,6 +12523,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "http://www.khaosoilondon.com/reservation",
    "website": "http://www.khaosoilondon.com/",
    "goodFor": [
     "date",
@@ -12212,6 +12557,7 @@
    "walkMin": 2,
    "price": "££",
    "booking": "weeks",
+   "bookingUrl": "https://krukthai.com/bookings",
    "website": "https://krukthai.com/",
    "goodFor": [
     "date",
@@ -12245,6 +12591,7 @@
    "walkMin": 5,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://esarnkheaw.com/reservations/",
    "website": "http://www.esarnkheaw.com/",
    "goodFor": [
     "families",
@@ -12456,6 +12803,7 @@
    "walkMin": 9,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://imonebbq.com/bookings",
    "website": "https://imonebbq.com/",
    "goodFor": [
     "families",
@@ -12527,6 +12875,7 @@
    "walkMin": 2,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.cheemcuk.com/reservations",
    "website": "https://www.cheemcuk.com/",
    "noise": "loud",
    "goodFor": [
@@ -12565,6 +12914,7 @@
    "walkMin": 13,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://sagyelondon.com/",
    "website": "https://sagyelondon.com/",
    "goodFor": [
     "groups",
@@ -12598,6 +12948,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "http://ollelondon.com/reservations/",
    "website": "http://ollelondon.com/",
    "noise": "loud",
    "goodFor": [
@@ -12803,6 +13154,7 @@
    "postcode": "W1H 7BA",
    "price": "££££",
    "booking": "months",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/",
    "website": "https://www.kolrestaurant.com/",
    "goodFor": [
     "celebration",
@@ -12880,6 +13232,7 @@
    "walkMin": 3,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/r/cavita-reservations-london?restref=260439&lang=en-GB&ot_source=Restaurant%20website&quot;,",
    "website": "http://www.cavitarestaurant.com/",
    "noise": "loud",
    "goodFor": [
@@ -12916,6 +13269,7 @@
    "walkMin": 3,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.tacoselpastor.co.uk/",
    "website": "https://www.tacoselpastor.co.uk/",
    "setting": "railway-arch",
    "noise": "loud",
@@ -13022,6 +13376,7 @@
    "walkMin": 3,
    "price": "£",
    "booking": "walk-in",
+   "bookingUrl": "https://www.sevenrooms.com/explore/homiesondonkeysrestaurant/reservations/create/search/",
    "website": "http://www.homiesondonkeys.com/",
    "setting": "counter",
    "goodFor": [
@@ -13057,6 +13412,7 @@
    "walkMin": 5,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/r/cometa-reservations-london?restref=462975&#038;lang=en-GB&#038;ot_source=Restaurant%20website",
    "website": "https://cometa.restaurant/",
    "noise": "loud",
    "goodFor": [
@@ -13089,6 +13445,7 @@
    "walkMin": 7,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/booking/experiences-availability?rid=333117&restref=333117&experienceId=724492",
    "website": "https://www.ixchellondon.com/",
    "noise": "loud",
    "goodFor": [
@@ -13122,6 +13479,7 @@
    "walkMin": 6,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/zapote",
    "website": "http://www.zapote.co.uk/",
    "goodFor": [
     "date",
@@ -13219,6 +13577,7 @@
    "walkMin": 4,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.opentable.co.uk/restaurant/profile/15445/reserve?rid=15445&#038;restref=15445",
    "website": "http://london.mestizomx.com/",
    "goodFor": [
     "groups",
@@ -13285,6 +13644,7 @@
    "walkMin": 1,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "http://www.niparestaurant.co.uk/",
    "website": "http://www.niparestaurant.co.uk/",
    "setting": "hotel",
    "noise": "quiet",
@@ -13386,6 +13746,7 @@
    "walkMin": 12,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/platapiansoho/reservations/create/search",
    "website": "https://www.pataralondon.com/",
    "outdoor": "terrace",
    "goodFor": [
@@ -13554,6 +13915,7 @@
    "walkMin": 8,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/calong/reservations/create/search/",
    "website": "https://www.calonglondon.com/",
    "goodFor": [
     "date",
@@ -13590,6 +13952,7 @@
    "walkMin": 2,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "http://chungdam.co.uk/booking-1",
    "website": "http://chungdam.co.uk/",
    "noise": "moderate",
    "goodFor": [
@@ -13770,6 +14133,7 @@
    "walkMin": 2,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "http://www.tacatacos.co.uk/",
    "website": "http://www.tacatacos.co.uk/",
    "setting": "railway-arch",
    "goodFor": [
@@ -13808,6 +14172,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/speedboat/reservations/create/search?searchTab=group_bookings&#038;venues=speedboat%2Cplaza",
    "website": "https://speedboatbar.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -13845,6 +14210,7 @@
    "walkMin": 4,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/chets",
    "website": "https://www.chetsrestaurant.co.uk/?utm_source=google&utm_medium=local&utm_campaign=restaurant-chets",
    "setting": "hotel",
    "noise": "loud",
@@ -13881,6 +14247,7 @@
    "walkMin": 12,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "http://rabiengthai.co.uk/reservations",
    "website": "http://rabiengthai.co.uk/",
    "goodFor": [
     "pre-theatre",
@@ -13917,6 +14284,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid=288222&type=standard&theme=standard&color=1&dark=false&iframe=true&domain=couk&lang=en-GB&newtab=false&ot_source=Restaurant%20website&cfe=true)",
    "website": "https://www.pochawagrill.com/",
    "noise": "loud",
    "goodFor": [
@@ -13952,6 +14320,7 @@
    "walkMin": 8,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/jikoni",
    "website": "https://jikonilondon.com/",
    "goodFor": [
     "date",
@@ -13961,7 +14330,8 @@
    "whyGo": "Ravinder Bhogal cooks across her Kenyan, Indian and British background without picking one - Ottolenghi called it the restaurant he wished he had opened.",
    "lists": [
     "brunch",
-    "nicest-dining"
+    "nicest-dining",
+    "best-indian:21"
    ]
   },
   {
@@ -13988,6 +14358,7 @@
    "walkMin": 5,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/oudh1722",
    "website": "http://www.oudh1722.com/",
    "setting": "historic-building",
    "goodFor": [
@@ -13998,7 +14369,8 @@
    "whyGo": "Two-Michelin-star chef Aktar Islam cooking the Awadhi food of Lucknow - biryanis and kebabs - across three floors of a Victorian townhouse near London Bridge.",
    "lists": [
     "nicest-dining",
-    "special-occasion"
+    "special-occasion",
+    "best-indian:11"
    ]
   },
   {
@@ -14056,6 +14428,7 @@
    "walkMin": 2,
    "price": "££££",
    "booking": "months",
+   "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid=208452&type=standard&theme=standard&color=8&dark=false&iframe=true&domain=couk&lang=en-GB&newtab=false&ot_source=Restaurant%20website&font=arialBlack&ot_logo=standard&primary_color=ffffff&primary_font_color=333333&button_color=001d2d&button_f",
    "website": "http://kitchentablelondon.co.uk/",
    "setting": "counter",
    "noise": "quiet",
@@ -14094,6 +14467,7 @@
    "walkMin": 5,
    "price": "££££",
    "booking": "months",
+   "bookingUrl": "https://www.daterra.co.uk/reservations/",
    "website": "https://daterra.co.uk/",
    "setting": "hotel",
    "noise": "quiet",
@@ -14132,6 +14506,7 @@
    "walkMin": 9,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "http://trivetrestaurant.co.uk/",
    "website": "http://trivetrestaurant.co.uk/",
    "noise": "quiet",
    "goodFor": [
@@ -14170,6 +14545,7 @@
    "walkMin": 6,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/rowon5/",
    "website": "https://www.rowon5london.com/",
    "noise": "quiet",
    "goodFor": [
@@ -14207,6 +14583,7 @@
    "walkMin": 6,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.thecocochine.com/",
    "website": "https://www.thecocochine.com/",
    "noise": "quiet",
    "goodFor": [
@@ -14245,6 +14622,7 @@
    "walkMin": 6,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/lilibets",
    "website": "https://www.lilibetsrestaurant.com/",
    "goodFor": [
     "celebration",
@@ -14281,6 +14659,7 @@
    "walkMin": 6,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/r/the-frog-by-adam-handling-reservations-london?restref=138309&lang=en-GB&ot_source=Restaurant%20website",
    "website": "https://www.frogbyadamhandling.com/?utm_campaign=SDM&utm_id=GMB&utm_medium=website+click&utm_source=GMB",
    "goodFor": [
     "celebration",
@@ -14317,6 +14696,7 @@
    "walkMin": 3,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "http://www.opentable.co.uk/restaurant/profile/80884/reserve?rid=80884&restref=80884",
    "website": "http://www.chezbruce.co.uk/",
    "noise": "quiet",
    "goodFor": [
@@ -14354,6 +14734,7 @@
    "walkMin": 4,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://trinityrestaurant.co.uk/book/",
    "website": "http://www.trinityrestaurant.co.uk/",
    "goodFor": [
     "celebration",
@@ -14464,6 +14845,7 @@
    "walkMin": 9,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.perilladining.co.uk/bookings",
    "website": "http://www.perilladining.co.uk/",
    "goodFor": [
     "date",
@@ -14499,6 +14881,7 @@
    "walkMin": 1,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/planque",
    "website": "http://www.planque.co.uk/",
    "setting": "railway-arch",
    "goodFor": [
@@ -14536,6 +14919,7 @@
    "walkMin": 16,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "http://www.brawn.co/",
    "website": "http://www.brawn.co/",
    "goodFor": [
     "date",
@@ -14573,6 +14957,7 @@
    "walkMin": 9,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/dorianrestaurant/reservations/create/search/?venues=dorianrestaurant,eelsushi,urchin",
    "website": "http://www.dorianrestaurant.com/",
    "noise": "loud",
    "goodFor": [
@@ -14608,6 +14993,7 @@
    "walkMin": 2,
    "price": "££££",
    "booking": "months",
+   "bookingUrl": "http://ikoyilondon.com/",
    "website": "http://ikoyilondon.com/?utm_campaign=SDM&utm_id=GMB&utm_medium=website+click&utm_source=GMB",
    "noise": "quiet",
    "goodFor": [
@@ -14646,6 +15032,7 @@
    "walkMin": 4,
    "price": "££££",
    "booking": "months",
+   "bookingUrl": "http://www.chishuru.com/reservations",
    "website": "http://www.chishuru.com/",
    "goodFor": [
     "celebration",
@@ -14682,6 +15069,7 @@
    "walkMin": 6,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/akoko?venues=akoko,akara",
    "website": "http://akoko.co.uk/",
    "goodFor": [
     "celebration",
@@ -14718,6 +15106,7 @@
    "walkMin": 4,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/chukus/reservations/create/search/",
    "website": "http://www.chukuslondon.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -14755,6 +15144,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/akara?venues=akara,akoko",
    "website": "https://www.akaralondon.co.uk/",
    "goodFor": [
     "date",
@@ -14825,6 +15215,7 @@
    "walkMin": 4,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/osteriavibrato/reservations",
    "website": "https://osteriavibrato.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -14861,6 +15252,7 @@
    "walkMin": 3,
    "price": "££££",
    "booking": "months",
+   "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?rid=288510&lang=en-GB&color=1&r3uid=cfe&dark=false&correlationId=a0d5b239-ba08-41c0-99dd-83b83bd7a961&restRef=288510&partySize=2&dateTime=2026-01-18T19:00&otSource=Restaurant%20website",
    "website": "https://www.bouchonracine.com/new-home",
    "setting": "historic-building",
    "noise": "loud",
@@ -14900,6 +15292,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.camillerestaurant.co.uk/reservations",
    "website": "https://www.camillerestaurant.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -14970,6 +15363,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/thefrenchhouse/reservations/",
    "website": "http://www.frenchhousesoho.com/",
    "setting": "historic-building",
    "noise": "loud",
@@ -15003,6 +15397,7 @@
    "walkMin": 7,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.ottos-restaurant.com/",
    "website": "https://www.ottos-restaurant.com/?utm_source=google&utm_medium=maps",
    "noise": "quiet",
    "goodFor": [
@@ -15072,6 +15467,7 @@
    "walkMin": 16,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/r/pique-nique-london",
    "website": "http://pique-nique.co.uk/",
    "setting": "garden",
    "goodFor": [
@@ -15103,6 +15499,7 @@
    "walkMin": 26,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/les2garcons/reservations/create/search/",
    "website": "https://www.les2garconsbistro.com/",
    "goodFor": [
     "date",
@@ -15133,6 +15530,7 @@
    "walkMin": 1,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/paulettelondon/reservations/create/search?venues=paulettelondon,josette",
    "website": "https://www.mamiegood.com/paulette-little-venice",
    "goodFor": [
     "date",
@@ -15200,6 +15598,7 @@
    "walkMin": 5,
    "price": "£££",
    "booking": "walk-in",
+   "bookingUrl": "http://www.barrafina.com/book-your-private-event/?location=",
    "website": "http://www.barrafina.com/",
    "setting": "counter",
    "noise": "loud",
@@ -15239,6 +15638,7 @@
    "walkMin": 13,
    "price": "£££",
    "booking": "walk-in",
+   "bookingUrl": "https://josepizarro.com/reservations/",
    "website": "https://josepizarro.com/venues/jose-tapas-bar-bermondsey/",
    "setting": "counter",
    "noise": "loud",
@@ -15276,6 +15676,7 @@
    "walkMin": 9,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.opentable.co.uk/r/morito-exmouth-market-reservations-london?restref=144279&lang=en-GB&ot_source=Restaurant%20website&quot;,",
    "website": "https://www.morito.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -15314,6 +15715,7 @@
    "walkMin": 6,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/saborrestaurant/reservations/create/search?venues=legado%2Csaborrestaurant",
    "website": "http://www.saborrestaurants.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -15386,6 +15788,7 @@
    "walkMin": 7,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.dehesa.co.uk/reservations",
    "website": "https://www.dehesa.co.uk/?utm_source=gmb&utm_medium=organic&utm_campaign=homepage",
    "noise": "loud",
    "goodFor": [
@@ -15419,6 +15822,7 @@
    "walkMin": 6,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.sevenrooms.com/explore/barkroketabroadgate/reservations/create/search/?date=2025-05-15",
    "website": "https://kroketa.co.uk/",
    "setting": "counter",
    "goodFor": [
@@ -15457,6 +15861,7 @@
    "walkMin": 6,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/altarestaurant/reservations/create/search/?venues=altarestaurant%2Cmoirestaurant",
    "website": "https://alta-restaurant.com/",
    "noise": "loud",
    "goodFor": [
@@ -15489,6 +15894,7 @@
    "walkMin": 7,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.emberyard.co.uk/reservations",
    "website": "https://www.emberyard.co.uk/?utm_source=gmb&utm_medium=organic&utm_campaign=homepage",
    "noise": "loud",
    "goodFor": [
@@ -15520,6 +15926,7 @@
    "walkMin": 7,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/escocesa&quot;,",
    "website": "https://www.escocesa.co.uk/",
    "goodFor": [
     "date",
@@ -15550,6 +15957,7 @@
    "walkMin": 4,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "http://www.mangal2.com/reservations",
    "website": "http://www.mangal2.com/",
    "noise": "loud",
    "goodFor": [
@@ -15618,6 +16026,7 @@
    "walkMin": 3,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://anteplilerlondon.co.uk/wp-content/plugins/booking/vendors/_custom/bootstrap-css/css/bootstrap.css?ver=10.15.5",
    "website": "https://anteplilerlondon.co.uk/doner/",
    "noise": "loud",
    "goodFor": [
@@ -15687,6 +16096,7 @@
    "walkMin": 9,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://static.parastorage.com/services/table-reservations-ooi/1.2801.0/ReservationAddOnViewerWidget.min.css",
    "website": "http://www.fmmangal.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -15721,6 +16131,7 @@
    "walkMin": 15,
    "price": "£",
    "booking": "walk-in",
+   "bookingUrl": "https://kofteci-metin.orin.app/reservation/new-reservation",
    "website": "https://koftecimetin.co.uk/",
    "setting": "counter",
    "goodFor": [
@@ -15792,6 +16203,7 @@
    "walkMin": 5,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/ishtar/reservations/create/search/",
    "website": "https://ishtarrestaurant.com/",
    "goodFor": [
     "families",
@@ -15824,6 +16236,7 @@
    "walkMin": 6,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid={rid}&type=standard&theme=standard&color=2&dark=false&iframe=true&domain=couk&lang=en-GB&newtab=false&ot_source=Restaurant%20website&cfe=true",
    "website": "https://www.eatlebab.com/",
    "noise": "loud",
    "goodFor": [
@@ -15894,6 +16307,7 @@
    "walkMin": 5,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/caytre/reservations/create/search",
    "website": "https://www.caytrerestaurant.co.uk/locations/soho/?utm_source=google&utm_medium=organic&utm_campaign=Google_Business_Soho",
    "noise": "loud",
    "goodFor": [
@@ -15969,6 +16383,7 @@
    "walkMin": 5,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://booking.resdiary.com/widget/Standard/VietGrill/6417",
    "website": "https://www.vietgrillrestaurant.co.uk/",
    "goodFor": [
     "date",
@@ -16001,6 +16416,7 @@
    "walkMin": 4,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://www.hoasen.co.uk/book-a-table",
    "website": "https://www.hoasen.co.uk/",
    "goodFor": [
     "date",
@@ -16176,6 +16592,7 @@
    "walkMin": 2,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/mazinottinghill/reservations/create/search/?date=2025-04-22&venues=mazinottinghill%2Csuzitros",
    "website": "http://www.mazi.co.uk/",
    "outdoor": "garden",
    "goodFor": [
@@ -16211,6 +16628,7 @@
    "walkMin": 5,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/merakiriyadh",
    "website": "https://meraki-restaurant.com/london/?utm_source=GMB&utm_medium=website%20click&utm_campaign=SDM&utm_id=GMB",
    "noise": "loud",
    "goodFor": [
@@ -16244,6 +16662,7 @@
    "walkMin": 8,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/kima",
    "website": "http://www.kimarestaurant.com/",
    "goodFor": [
     "date",
@@ -16310,6 +16729,7 @@
    "walkMin": 2,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/oma?default_date=2024-04-16",
    "website": "http://oma.london/",
    "noise": "loud",
    "goodFor": [
@@ -16345,6 +16765,7 @@
    "walkMin": 6,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/maza/reservations/create/search/",
    "website": "https://mazamayfair.com/",
    "goodFor": [
     "date",
@@ -16380,6 +16801,7 @@
    "walkMin": 2,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/legado/reservations/create/search?party_size=2&venues=saborrestaurant%2Clegado",
    "website": "https://www.legadorestaurants.com/",
    "noise": "loud",
    "goodFor": [
@@ -16417,6 +16839,7 @@
    "walkMin": 4,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.ibai.london/",
    "website": "https://www.ibai.london/",
    "noise": "loud",
    "goodFor": [
@@ -16453,6 +16876,7 @@
    "walkMin": 7,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/maresco&quot;,",
    "website": "http://www.maresco.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -16486,6 +16910,7 @@
    "walkMin": 3,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "http://www.sevenrooms.com/reservations/lurramarylebone?venues=lurramarylebone,donostiamarylebone,maset",
    "website": "http://www.lurra.co.uk/",
    "goodFor": [
     "date",
@@ -16522,6 +16947,7 @@
    "walkMin": 15,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/pizarrorestaurantbermondseystreet",
    "website": "https://josepizarro.com/venues/pizarro-restaurant-bermondsey/",
    "goodFor": [
     "date",
@@ -16555,6 +16981,7 @@
    "walkMin": 4,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/parrillancoaldropsyard/reservations/create/search?tracking=heated-terrace-4832107824119808",
    "website": "https://www.parrillan.co.uk/",
    "outdoor": "terrace",
    "noise": "loud",
@@ -16588,6 +17015,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.saltyard.co.uk/reservations",
    "website": "https://www.saltyard.co.uk/?utm_source=gmb&utm_medium=organic&utm_campaign=homepage",
    "goodFor": [
     "date",
@@ -16621,6 +17049,7 @@
    "walkMin": 1,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.thetapasroom.co.uk/",
    "website": "https://www.thetapasroom.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -16657,6 +17086,7 @@
    "walkMin": 5,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/pyrolondon/reservations/create/search?venues=pyrolondon,pyroterrace",
    "website": "https://pyrorestaurant.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -16691,6 +17121,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?lang=en-GB&correlationId=070a828c-de30-4288-a1de-291a6eef9cad&restRef=292815&otSource=Restaurant%20website",
    "website": "http://www.vorigreekitchen.co.uk/?utm_campaign=SDM&utm_id=GMB&utm_medium=website+click&utm_source=GMB",
    "outdoor": "pavement",
    "goodFor": [
@@ -16724,6 +17155,7 @@
    "walkMin": 8,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.zephyr.london/book-a-table",
    "website": "https://www.zephyr.london/book-a-table",
    "noise": "loud",
    "goodFor": [
@@ -16759,6 +17191,7 @@
    "walkMin": 5,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://dishcult.com/restaurant/thelifegoddessexperimentalgreekdevine?covers=2&bookingDate=2023-03-23&bookingTime=19%3A30&sortOrder=0&page=1&promotionId=0",
    "website": "http://www.thelifegoddess.com/",
    "goodFor": [
     "quick",
@@ -16793,6 +17226,7 @@
    "walkMin": 9,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "http://www.tsiakkos.co.uk/",
    "website": "http://www.tsiakkos.co.uk/",
    "outdoor": "garden",
    "noise": "loud",
@@ -16863,6 +17297,7 @@
    "walkMin": 5,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://enfesocakbasiharingey.co.uk/booking/",
    "website": "http://www.enfesocakbasiharingey.co.uk/home",
    "noise": "loud",
    "goodFor": [
@@ -16900,6 +17335,7 @@
    "walkMin": 6,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.motorino.london/reservations/",
    "website": "https://www.motorino.london/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
    "noise": "loud",
    "goodFor": [
@@ -16936,6 +17372,7 @@
    "walkMin": 6,
    "price": "££££",
    "booking": "months",
+   "bookingUrl": "https://www.opentable.co.uk/r/bonheur-by-matt-abe-london",
    "website": "https://www.bonheurbymattabe.com/",
    "noise": "quiet",
    "goodFor": [
@@ -16974,6 +17411,7 @@
    "walkMin": 7,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.tealbysallyabe.com/book",
    "website": "https://www.tealbysallyabe.com/",
    "goodFor": [
     "date",
@@ -17009,6 +17447,7 @@
    "walkMin": 5,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/impala/reservations/create/search",
    "website": "https://impalasoho.com/",
    "noise": "loud",
    "goodFor": [
@@ -17082,6 +17521,7 @@
    "walkMin": 3,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/duckandwaffle",
    "website": "https://duckandwaffle.com/london/?utm_source=gbp&utm_medium=organic&utm_campaign=london_gbp",
    "setting": "rooftop",
    "noise": "loud",
@@ -17124,6 +17564,7 @@
    "walkMin": 2,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/aquashard/reservations/create/search/?venues=aquashard%2Chutonglondon%2Caquakyoto%2Caquanueva%2Cshiro%2Cazzurra%2Cdimsumlibrary&halo=60&start_time=20%3A30%3A00",
    "website": "https://aquashard.co.uk/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-website",
    "setting": "rooftop",
    "noise": "moderate",
@@ -17201,6 +17642,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://skygarden.london/restaurants/darwin-brasserie/",
    "website": "https://skygarden.london/restaurants/darwin-brasserie/",
    "setting": "rooftop",
    "noise": "loud",
@@ -17241,6 +17683,7 @@
    "walkMin": 6,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.com/booking/restref/availability?restref=96693",
    "website": "http://www.bernerstavern.com/",
    "setting": "historic-building",
    "noise": "loud",
@@ -17280,6 +17723,7 @@
    "walkMin": 3,
    "price": "££££",
    "booking": "months",
+   "bookingUrl": "https://www.sevenrooms.com/explore/sessionsartsclub/reservations/create/search/landing",
    "website": "http://sessionsartsclub.com/",
    "setting": "historic-building",
    "noise": "loud",
@@ -17317,6 +17761,7 @@
    "walkMin": 7,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/juliesrestaurant/reservations/create/search",
    "website": "https://juliesrestaurant.com/",
    "setting": "historic-building",
    "noise": "quiet",
@@ -17353,6 +17798,7 @@
    "walkMin": 5,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/bobbobricardsoho/reservations/create/search/?venues=bobbobricardcity,bebebob,bobbobricardsoho",
    "website": "https://bobbobricard.com/soho",
    "noise": "moderate",
    "goodFor": [
@@ -17390,6 +17836,7 @@
    "walkMin": 3,
    "price": "££££",
    "booking": "days",
+   "bookingUrl": "https://www.opentable.co.uk/booking/experiences-availability?rid=166908&#038;restref=166908&#038;experienceId=529598&#038;utm_source=external&#038;utm_medium=referral&#038;utm_campaign=shared",
    "website": "https://brasserie-of-light.co.uk/?utm_source=LocalGoogle&utm_medium=Organic",
    "noise": "loud",
    "goodFor": [
@@ -17507,6 +17954,7 @@
    "walkMin": 4,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/shanghaimelondon/reservations/create/search/",
    "website": "https://shanghaime-london.com/",
    "setting": "rooftop",
    "noise": "loud",
@@ -17546,6 +17994,7 @@
    "walkMin": 5,
    "price": "£££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.sevenrooms.com/explore/forzawine/reservations/create/search/",
    "website": "https://www.forzawine.com/",
    "setting": "rooftop",
    "outdoor": "terrace",
@@ -17586,6 +18035,7 @@
    "walkMin": 2,
    "price": "£££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.sevenrooms.com/explore/thebarbary/reservations/create/search?venues=thebarbary",
    "website": "https://www.thebarbary.co.uk/neals-yard",
    "setting": "counter",
    "noise": "loud",
@@ -17623,6 +18073,7 @@
    "walkMin": 5,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/dintaifungcanarywharf",
    "website": "http://www.dintaifung-uk.com/",
    "noise": "loud",
    "goodFor": [
@@ -17661,6 +18112,7 @@
    "walkMin": 10,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/mrbaoryelane/reservations/create/search/",
    "website": "http://www.mrbao.co.uk/",
    "goodFor": [
     "date",
@@ -17733,6 +18185,7 @@
    "walkMin": 10,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/r/mambow-reservations-london?restref=277602&lang=en-GB&ot_source=Restaurant%20website",
    "website": "https://www.mambow.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -17820,6 +18273,42 @@
    ]
   },
   {
+   "slug": "gopals-corner",
+   "name": "Gopal's Corner",
+   "cuisine": "Malaysian",
+   "style": "Malaysian Tamil",
+   "specialities": [
+    "street-food",
+    "regional"
+   ],
+   "format": "Market Stall",
+   "chainType": "mini-chain",
+   "context": "Market Halls Victoria",
+   "area": "Victoria",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "westminster-area-guide",
+   "lat": 51.4965,
+   "lng": -0.1437,
+   "station": "Victoria",
+   "walkMin": 1,
+   "price": "£",
+   "booking": "walk-in",
+   "setting": "market-stall",
+   "goodFor": [
+    "quick",
+    "solo",
+    "families"
+   ],
+   "whyGo": "Roti canai clapped and folded to order, served with mutton, chicken or dhal curry - from the founder of Soho's Roti King.",
+   "signature": "Roti canai",
+   "lists": [
+    "best-value",
+    "markets"
+   ]
+  },
+  {
    "slug": "donia",
    "name": "Donia",
    "cuisine": "Filipino",
@@ -17844,6 +18333,7 @@
    "walkMin": 6,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.com/booking/experiences-availability?rid=345105&restref=345105&experienceId=544139",
    "website": "https://www.doniarestaurant.com/",
    "noise": "loud",
    "goodFor": [
@@ -17881,6 +18371,7 @@
    "walkMin": 10,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/r/belly-reservations-london-2?restref=387702&lang=en-GB&ot_source=Restaurant%20website",
    "website": "https://www.bellylondon.com/",
    "noise": "loud",
    "goodFor": [
@@ -17918,6 +18409,7 @@
    "walkMin": 22,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://zeretkitchen.co.uk/reservations/",
    "website": "http://www.zeretkitchen.co.uk/",
    "goodFor": [
     "groups",
@@ -18060,6 +18552,7 @@
    "walkMin": 4,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/hopperssoho/reservations/create/search/?searchTab=group_bookings",
    "website": "http://www.hopperslondon.com/",
    "noise": "loud",
    "goodFor": [
@@ -18168,6 +18661,7 @@
    "walkMin": 11,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "http://mysticburek.com/book",
    "website": "http://mysticburek.com/",
    "goodFor": [
     "groups",
@@ -18205,6 +18699,7 @@
    "walkMin": 9,
    "price": "£££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.sevenrooms.com/explore/grangerandcochelsea/reservations/create/search/?venues=grangerandcochelsea,grangercomarylebone,grangerconottinghill,grangercoclerkenwell,grangercokingcross",
    "website": "http://www.grangerandco.com/",
    "noise": "loud",
    "goodFor": [
@@ -18279,6 +18774,7 @@
    "walkMin": 6,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://rosinarestaurant.co.uk/book-2/",
    "website": "https://rosinarestaurant.co.uk/",
    "goodFor": [
     "date",
@@ -18314,6 +18810,7 @@
    "walkMin": 6,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.com/r/clio-restaurant-london",
    "website": "http://www.cliorestaurant.co.uk/",
    "goodFor": [
     "date",
@@ -18344,6 +18841,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "http://www.allroadsldn.com/",
    "website": "http://www.allroadsldn.com/",
    "noise": "loud",
    "goodFor": [
@@ -18376,6 +18874,7 @@
    "walkMin": 10,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/vesperrestaurant/reservations/create/search/",
    "website": "https://vesper.restaurant/",
    "noise": "loud",
    "goodFor": [
@@ -18414,6 +18913,7 @@
    "walkMin": 8,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "http://www.130primrose.org/book",
    "website": "http://www.130primrose.org/",
    "goodFor": [
     "families",
@@ -18488,6 +18988,7 @@
    "walkMin": 5,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.nofortynine.co.uk/book-a-table",
    "website": "https://www.nofortynine.co.uk/",
    "goodFor": [
     "families",
@@ -18524,6 +19025,7 @@
    "walkMin": 4,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://bookings.designmynight.com/book?venue_id=512b2067d5d190d2978ca802&source=partner&type=69931ae6b02bc2319d46cb14&date=2026-07-19",
    "website": "https://www.commercial-tavern.com/?utm_source=gmb&utm_medium=organic&utm_campaign=homepage",
    "goodFor": [
     "date",
@@ -18557,6 +19059,7 @@
    "walkMin": 4,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?rid=254679&lang=en-GB&color=1&r3uid=cfe&dark=false&correlationId=ee5e3676-1d97-4e63-b1bf-ec56f0b254a7&restRef=254679&otSource=Restaurant%20website",
    "website": "http://temaki.co.uk/",
    "setting": "counter",
    "noise": "loud",
@@ -18631,6 +19134,7 @@
    "walkMin": 6,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/r/appalachia",
    "website": "https://appalachia.co.uk/",
    "setting": "counter",
    "noise": "loud",
@@ -18668,6 +19172,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/honsbbq/reservations/create/search/",
    "website": "http://www.honsbbq.com/",
    "setting": "canal",
    "noise": "loud",
@@ -18741,6 +19246,7 @@
    "walkMin": 2,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?lang=en-GB&correlationId=5c5aa72c-5322-4dd1-995b-93b509031328&restRef=508068&otSource=Restaurant%20website",
    "website": "https://kismet.london/",
    "setting": "historic-building",
    "noise": "loud",
@@ -18778,6 +19284,7 @@
    "walkMin": 3,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/langosteria",
    "website": "https://www.langosteria.com/en/langosteria-london",
    "setting": "historic-building",
    "goodFor": [
@@ -18816,6 +19323,7 @@
    "walkMin": 3,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://lokalrestaurant.co.uk/book",
    "website": "https://lokalrestaurant.co.uk/",
    "outdoor": "terrace",
    "noise": "loud",
@@ -18851,6 +19359,7 @@
    "walkMin": 2,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.opentable.com/r/mour",
    "website": "https://mour.uk/",
    "outdoor": "courtyard",
    "goodFor": [
@@ -18887,6 +19396,7 @@
    "walkMin": 7,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/r/ornella-reservations-london?restref=474675&lang=en-GB&ot_source=Restaurant%20website",
    "website": "https://ornella.restaurant/",
    "noise": "loud",
    "goodFor": [
@@ -18921,6 +19431,7 @@
    "walkMin": 3,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.co.uk/r/sale-e-pepe-mare-reservations-london?restref=423816&lang=en-GB&ot_source=Restaurant%20website",
    "website": "https://www.saleepepe.co.uk/sale-e-pepe-mare-the-langham-london",
    "goodFor": [
     "celebration",
@@ -19232,6 +19743,7 @@
    "walkMin": 3,
    "price": "£",
    "booking": "walk-in",
+   "bookingUrl": "http://www.ozonecoffee.co.uk/pages/bookings",
    "website": "http://www.ozonecoffee.co.uk/",
    "goodFor": [
     "groups",
@@ -19266,6 +19778,7 @@
    "walkMin": 10,
    "price": "£",
    "booking": "walk-in",
+   "bookingUrl": "https://www.sevenrooms.com/explore/caravanrestaurants/reservations/create/search?venues=caravankingscross,caravancanarywharf,caravancity,caravancoventgarden,caravanexmouthmarket,caravanfitzrovia,caravanbankside,vardochelsea,caravanmanchester",
    "website": "https://caravanandco.com/pages/exmouth-market?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=exmouth-market",
    "goodFor": [
     "groups",
@@ -19633,6 +20146,7 @@
    "walkMin": 7,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://peninsula-london.co.uk/reservation/",
    "website": "https://www.peninsula-london.co.uk/greenwich",
    "setting": "riverside",
    "noise": "quiet",
@@ -19813,6 +20327,7 @@
    "walkMin": 11,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.thegundocklands.com/?y_source=1_MTIyMzcxOTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
    "website": "https://www.thegundocklands.com/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=yext&utm_content=P194&y_source=1_MTIyMzcxOTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
    "setting": "riverside",
    "outdoor": "terrace",
@@ -19849,6 +20364,7 @@
    "walkMin": 3,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://www.berberepizzeria.co.uk/book-here/",
    "website": "https://www.berberepizzeria.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -19920,6 +20436,7 @@
    "walkMin": 5,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://www.allstarlanes.co.uk/book",
    "website": "http://www.allstarlanes.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -19954,6 +20471,7 @@
    "walkMin": 12,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.com/smiths-restaurant-wapping-reservations-london?restref=55036&#038;lang=en-US",
    "website": "https://smithsrestaurants.com/smiths-wapping/",
    "setting": "riverside",
    "goodFor": [
@@ -19990,6 +20508,7 @@
    "walkMin": 8,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.opentable.co.uk/r/the-melusine-reservations-london?restref=206064&lang=en-GB&ot_source=Restaurant%20website",
    "website": "http://www.themelusine.co.uk/",
    "setting": "riverside",
    "outdoor": "terrace",
@@ -20023,6 +20542,7 @@
    "walkMin": 6,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/bistrobardottheturksheadbistroprovencal/reservations/create/search/",
    "website": "https://www.bistrobardot.co.uk/",
    "goodFor": [
     "date",
@@ -20060,6 +20580,7 @@
    "walkMin": 2,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.joiabattersea.co.uk/",
    "website": "https://www.joiabattersea.co.uk/",
    "setting": "rooftop",
    "noise": "loud",
@@ -20097,6 +20618,7 @@
    "walkMin": 6,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/wrightbrosbatterseapowerstation/web-nav?venues=wrightbrossouthkensington,wrightbrosboroughmarket,wrightbrosbatterseapowerstation",
    "website": "http://thewrightbrothers.co.uk/restaurant/battersea/",
    "goodFor": [
     "date",
@@ -20131,6 +20653,7 @@
    "walkMin": 2,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.opentable.co.uk/booking/experiences-availability?rid=370581&restref=370581&experienceId=763331",
    "website": "https://www.sticksnsushi.com/gb/en/restaurants/battersea/",
    "noise": "loud",
    "goodFor": [
@@ -20166,6 +20689,7 @@
    "walkMin": 4,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?rid=80215&restref=80215&lang=en-GB&color=8&r3uid=cfe&dark=false&ot_source=Restaurant%20website&logo_pid=77125652&background_pid=0&font=arialBlack&ot_logo=subtle&primary_color=edecff&primary_font_color=333333&button_color=beb29d&button_font_col",
    "website": "https://www.gordonramsayrestaurants.com/bread-street-kitchen/battersea/?utm_source=gmb&utm_medium=uberall&utm_campaign=business_profile",
    "noise": "loud",
    "goodFor": [
@@ -21350,6 +21874,7 @@
    "walkMin": 7,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://booking.resdiary.com/widget/Standard/Tayyabs/13658",
    "website": "http://www.tayyabs.co.uk/",
    "noise": "loud",
    "goodFor": [
@@ -21360,10 +21885,13 @@
    "whyGo": "The sizzling lamb chops arrive still spitting and are the reason the queue forms - a Whitechapel institution since the 1970s that has never needed to change.",
    "signature": "Sizzling lamb chops",
    "opNote": "BYOB, no bookings for small groups at peak, and loud. The queue is the system.",
+   "signals": "est. 1972; video pass",
    "lists": [
     "best-value",
-    "late-night"
-   ]
+    "late-night",
+    "best-indian:22"
+   ],
+   "video": "https://www.youtube.com/watch?v=AHUnqeRroYk&t=228s"
   },
   {
    "slug": "lahore-kebab-house",
@@ -22354,6 +22882,97 @@
    ]
   },
   {
+   "slug": "toulouse-lautrec",
+   "name": "Toulouse Lautrec",
+   "cuisine": "French",
+   "style": "French brasserie with a jazz club upstairs",
+   "format": "Restaurant / Bar",
+   "chainType": "independent",
+   "area": "Kennington",
+   "zone": "2",
+   "district": "South",
+   "borough": "Lambeth",
+   "address": "140 Newington Butts",
+   "postcode": "SE11 4RN",
+   "price": "££",
+   "booking": "days",
+   "website": "https://toulouselautrec.co.uk/",
+   "setting": "historic-building",
+   "noise": "moderate",
+   "goodFor": [
+    "date",
+    "groups",
+    "celebration"
+   ],
+   "whyGo": "Three floors of a converted pub run by three brothers since 2008: a rustic French brasserie at street level, a piano bar above it, and a proper jazz club on top for the weekend bands - South London's closest answer to a Soho jazz supper club, at Kennington prices.",
+   "opNote": "Live music most nights; club shows are ticketed separately from dinner (usually £10-20), so book the table and the show together. Piano bar sets are typically free.",
+   "lists": [
+    "live-jazz"
+   ]
+  },
+  {
+   "slug": "bulls-head-barnes",
+   "name": "The Bull's Head",
+   "cuisine": "British",
+   "style": "Riverside gastropub with a dedicated jazz room",
+   "format": "Gastropub",
+   "chainType": "independent",
+   "area": "Barnes",
+   "zone": "3",
+   "district": "West",
+   "borough": "Richmond upon Thames",
+   "address": "373 Lonsdale Road",
+   "price": "££",
+   "booking": "days",
+   "website": "https://www.thebullsheadbarnes.com/",
+   "setting": "riverside",
+   "noise": "moderate",
+   "goodFor": [
+    "date",
+    "groups",
+    "solo"
+   ],
+   "whyGo": "A jazz venue since 1959 - the same year Ronnie Scott's opened - and once nicknamed the suburban Ronnie Scott's: Coleman Hawkins, Ben Webster and Stan Tracey all played the back room, and a young Mick Jagger appeared here too. The music room still runs seven nights a week behind a working Young's gastropub on the Thames towpath.",
+   "opNote": "Music room seats around 70 and is ticketed separately from the pub; the dining rooms and riverside bar are normal pub service. Check the gig listing before travelling - the room is the point.",
+   "signals": "Jazz venue since 1959",
+   "lists": [
+    "live-jazz",
+    "historic-pubs"
+   ]
+  },
+  {
+   "slug": "the-montpelier",
+   "name": "The Montpelier",
+   "cuisine": "British",
+   "style": "Corner pub with Sunday-night jazz",
+   "specialities": [
+    "roast"
+   ],
+   "format": "Pub",
+   "chainType": "independent",
+   "area": "Peckham",
+   "zone": "2",
+   "district": "South",
+   "borough": "Southwark",
+   "guide": "peckham-area-guide",
+   "address": "Choumert Road",
+   "price": "££",
+   "booking": "same-day",
+   "website": "https://themontpelier.net/",
+   "noise": "moderate",
+   "goodFor": [
+    "date",
+    "groups",
+    "families"
+   ],
+   "whyGo": "A Peckham corner local where the Sunday roast comes with a live jazz trio from 7.30pm - the current kitchen residency (Rocco) grills whole fish and shucks some of the better oysters in South London the rest of the week.",
+   "signature": "Sunday roast with live jazz",
+   "opNote": "Jazz is SUNDAYS ONLY, from 7.30pm - the rest of the week is quiz nights and DJs. The kitchen is a residency and changes hands, so check who is cooking before recommending the food specifically.",
+   "lists": [
+    "live-jazz"
+   ]
+  },
+  {
    "slug": "dishoom--covent-garden",
    "name": "Dishoom",
    "cuisine": "Indian",
@@ -22381,11 +23000,12 @@
    ],
    "whyGo": "The Irani cafes of old Bombay recreated in careful detail, and the bacon naan roll that made it a breakfast destination as much as a dinner one.",
    "signature": "Bacon naan roll",
-   "opNote": "No bookings for small groups at peak - the queue is the system. Seven London branches; the Branches tab has six named.",
+   "opNote": "Any party size can book before 6pm; after 6pm bookings are for groups of six or more only. Most tables are held back for walk-ins either way. Seven London branches; the Branches tab has six named.",
    "signals": "4 sources; also a 3-source pick on the breakfast pass",
    "lists": [
     "breakfast",
-    "best-value"
+    "best-value",
+    "best-indian:5"
    ],
    "branchOf": "dishoom",
    "branchName": "Covent Garden"
@@ -22418,11 +23038,12 @@
    ],
    "whyGo": "The Irani cafes of old Bombay recreated in careful detail, and the bacon naan roll that made it a breakfast destination as much as a dinner one.",
    "signature": "Bacon naan roll",
-   "opNote": "No bookings for small groups at peak - the queue is the system. Seven London branches; the Branches tab has six named.",
+   "opNote": "Any party size can book before 6pm; after 6pm bookings are for groups of six or more only. Most tables are held back for walk-ins either way. Seven London branches; the Branches tab has six named.",
    "signals": "4 sources; also a 3-source pick on the breakfast pass",
    "lists": [
     "breakfast",
-    "best-value"
+    "best-value",
+    "best-indian:5"
    ],
    "branchOf": "dishoom",
    "branchName": "King's Cross"
@@ -22455,11 +23076,12 @@
    ],
    "whyGo": "The Irani cafes of old Bombay recreated in careful detail, and the bacon naan roll that made it a breakfast destination as much as a dinner one.",
    "signature": "Bacon naan roll",
-   "opNote": "No bookings for small groups at peak - the queue is the system. Seven London branches; the Branches tab has six named.",
+   "opNote": "Any party size can book before 6pm; after 6pm bookings are for groups of six or more only. Most tables are held back for walk-ins either way. Seven London branches; the Branches tab has six named.",
    "signals": "4 sources; also a 3-source pick on the breakfast pass",
    "lists": [
     "breakfast",
-    "best-value"
+    "best-value",
+    "best-indian:5"
    ],
    "branchOf": "dishoom",
    "branchName": "Shoreditch"
@@ -22492,11 +23114,12 @@
    ],
    "whyGo": "The Irani cafes of old Bombay recreated in careful detail, and the bacon naan roll that made it a breakfast destination as much as a dinner one.",
    "signature": "Bacon naan roll",
-   "opNote": "No bookings for small groups at peak - the queue is the system. Seven London branches; the Branches tab has six named.",
+   "opNote": "Any party size can book before 6pm; after 6pm bookings are for groups of six or more only. Most tables are held back for walk-ins either way. Seven London branches; the Branches tab has six named.",
    "signals": "4 sources; also a 3-source pick on the breakfast pass",
    "lists": [
     "breakfast",
-    "best-value"
+    "best-value",
+    "best-indian:5"
    ],
    "branchOf": "dishoom",
    "branchName": "Canary Wharf"
@@ -22529,11 +23152,12 @@
    ],
    "whyGo": "The Irani cafes of old Bombay recreated in careful detail, and the bacon naan roll that made it a breakfast destination as much as a dinner one.",
    "signature": "Bacon naan roll",
-   "opNote": "No bookings for small groups at peak - the queue is the system. Seven London branches; the Branches tab has six named.",
+   "opNote": "Any party size can book before 6pm; after 6pm bookings are for groups of six or more only. Most tables are held back for walk-ins either way. Seven London branches; the Branches tab has six named.",
    "signals": "4 sources; also a 3-source pick on the breakfast pass",
    "lists": [
     "breakfast",
-    "best-value"
+    "best-value",
+    "best-indian:5"
    ],
    "branchOf": "dishoom",
    "branchName": "Carnaby"
@@ -22566,11 +23190,12 @@
    ],
    "whyGo": "The Irani cafes of old Bombay recreated in careful detail, and the bacon naan roll that made it a breakfast destination as much as a dinner one.",
    "signature": "Bacon naan roll",
-   "opNote": "No bookings for small groups at peak - the queue is the system. Seven London branches; the Branches tab has six named.",
+   "opNote": "Any party size can book before 6pm; after 6pm bookings are for groups of six or more only. Most tables are held back for walk-ins either way. Seven London branches; the Branches tab has six named.",
    "signals": "4 sources; also a 3-source pick on the breakfast pass",
    "lists": [
     "breakfast",
-    "best-value"
+    "best-value",
+    "best-indian:5"
    ],
    "branchOf": "dishoom",
    "branchName": "Battersea"
@@ -23087,6 +23712,7 @@
    "lists": [
     "best-value"
    ],
+   "video": "https://youtu.be/a6sx9OCMEpw?t=209",
    "branchOf": "bancone",
    "branchName": "Covent Garden"
   },
@@ -23118,6 +23744,7 @@
    "lists": [
     "best-value"
    ],
+   "video": "https://youtu.be/a6sx9OCMEpw?t=209",
    "branchOf": "bancone",
    "branchName": "Golden Square"
   },
@@ -23149,6 +23776,7 @@
    "lists": [
     "best-value"
    ],
+   "video": "https://youtu.be/a6sx9OCMEpw?t=209",
    "branchOf": "bancone",
    "branchName": "Borough Yards"
   },
@@ -23180,6 +23808,7 @@
    "lists": [
     "best-value"
    ],
+   "video": "https://youtu.be/a6sx9OCMEpw?t=209",
    "branchOf": "bancone",
    "branchName": "Kensington"
   },
@@ -23211,6 +23840,7 @@
    "lists": [
     "best-value"
    ],
+   "video": "https://youtu.be/a6sx9OCMEpw?t=209",
    "branchOf": "bancone",
    "branchName": "City"
   },
@@ -23242,6 +23872,7 @@
    "lists": [
     "best-value"
    ],
+   "video": "https://youtu.be/a6sx9OCMEpw?t=209",
    "branchOf": "bancone",
    "branchName": "Russell Square"
   },

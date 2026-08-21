@@ -1,7 +1,44 @@
 {
- "generated": "2026-08-20",
- "count": 29,
+ "generated": "2026-08-21",
+ "count": 31,
  "events": [
+  {
+   "slug": "greenwich-fair",
+   "name": "Greenwich Fair",
+   "type": "festival",
+   "style": "Free street theatre, circus and family entertainment",
+   "venue": "General Wolfe Piazza, Greenwich Park",
+   "startsOn": "2026-08-22",
+   "endsOn": "2026-08-23",
+   "recurring": "annual",
+   "typicalWhen": "August bank holiday weekend, as part of the Greenwich+Docklands International Festival",
+   "area": "Greenwich",
+   "borough": "Greenwich",
+   "guide": "greenwich-area-guide",
+   "zone": "2–3",
+   "district": "South",
+   "address": "General Wolfe Piazza, Observatory Hill, Greenwich Park",
+   "postcode": "SE10 8XJ",
+   "agePolicy": "family-friendly",
+   "duration": "An afternoon",
+   "price": "Free",
+   "booking": "walk-in",
+   "indoorOutdoor": "outdoor",
+   "stepFree": "partial",
+   "whyGo": "Two free afternoons of street theatre, circus, puppetry and acrobatics at the top of Greenwich Park - the closing weekend of GDIF, and small enough to still feel like a local fete rather than a festival.",
+   "opNote": "No booking - just turn up. A level access route runs from the Blackheath Gate (about 15 minutes); the step-free route from St Mary's Gate is uphill and takes 10-15 minutes.",
+   "goodFor": [
+    "families",
+    "groups",
+    "solo"
+   ],
+   "lists": [
+    "events",
+    "free"
+   ],
+   "annual": true,
+   "notYetOpen": true
+  },
   {
    "slug": "the-magicians-table",
    "name": "The Magician's Table",
@@ -1022,6 +1059,39 @@
     "events"
    ],
    "annual": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "north-end-road-summer-festival",
+   "name": "North End Road Summer Festival",
+   "type": "festival",
+   "style": "Traffic-free street festival on a Victorian market street",
+   "venue": "North End Road",
+   "recurring": "annual",
+   "typicalWhen": "A Saturday in July",
+   "area": "Fulham",
+   "borough": "Hammersmith and Fulham",
+   "zone": "2",
+   "district": "West",
+   "address": "North End Road",
+   "agePolicy": "family-friendly",
+   "duration": "A day",
+   "price": "Free",
+   "booking": "walk-in",
+   "indoorOutdoor": "outdoor",
+   "whyGo": "North End Road's market has traded six days a week since the 1880s; once a year the council closes it to traffic and adds 150-plus stalls, live music, street entertainers and free kids' workshops on top of the regular fruit-and-veg traders.",
+   "opNote": "10am-6pm, free, no booking. Award-winning as a community market (Best Community/Parish Market, Great British Market Awards 2019) - genuinely council-run rather than a private promotion.",
+   "goodFor": [
+    "families",
+    "groups",
+    "solo"
+   ],
+   "lists": [
+    "events",
+    "free"
+   ],
+   "annual": true,
+   "awaitingDates": true,
    "notYetOpen": false
   }
  ]

@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-20",
- "count": 136,
+ "generated": "2026-08-21",
+ "count": 148,
  "spots": [
   {
    "slug": "28-days-later-centre-point",
@@ -157,6 +157,19 @@
    "opNote": "A private residential building - viewable from the street only."
   },
   {
+   "slug": "alexandra-ainsworth-estate",
+   "name": "Alexandra & Ainsworth Estate",
+   "type": "hidden-gem",
+   "subject": "A Grade II*-listed council estate - the first postwar public housing ever given that status",
+   "area": "Swiss Cottage",
+   "borough": "Camden",
+   "zone": "2",
+   "district": "North",
+   "address": "Rowley Way",
+   "whyGo": "Designed by Neave Brown for Camden Council and built 1972-78, its stepped ziggurat terraces and pedestrian street were listed in 1993 - the first postwar council estate to be, and still occupied social housing rather than a museum piece. An architectural pilgrimage site that most visitors to London have never heard of.",
+   "opNote": "A lived-in residential estate - Rowley Way and the public walkways are open to walk through respectfully, but it is people's homes, not a tourist attraction."
+  },
+  {
    "slug": "hitchcock-cromwell-road",
    "name": "Alfred Hitchcock's South Kensington Home",
    "type": "blue-plaque",
@@ -173,6 +186,21 @@
    "lng": -0.190693,
    "whyGo": "Hitchcock lived here before his move to Hollywood - a plaque for one of cinema's defining directors on one of South Kensington's busiest roads.",
    "opNote": "A private/commercial building on a main road - viewable from the street only."
+  },
+  {
+   "slug": "all-hallows-by-the-tower",
+   "name": "All Hallows by the Tower",
+   "type": "hidden-gem",
+   "subject": "The oldest church in the City of London, founded in 675 AD",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Byward Street",
+   "postcode": "EC3R 5BJ",
+   "whyGo": "Founded in 675 AD, predating St Paul's - Samuel Pepys climbed the tower to watch the Great Fire spread in 1666, and the crypt holds a fragment of Roman pavement. Steps from the Tower of London but far quieter.",
+   "opNote": "Free to enter; crypt museum included. Normal church hours, closed during services."
   },
   {
    "slug": "banksy-marble-arch",
@@ -752,6 +780,20 @@
    "opNote": "A private residential building - viewable from the street only."
   },
   {
+   "slug": "cittie-of-yorke",
+   "name": "Cittie of Yorke",
+   "type": "hidden-gem",
+   "subject": "A pub on this site since 1430, with vast Victorian-Gothic vaulted booths",
+   "area": "Holborn",
+   "borough": "Camden",
+   "zone": "1",
+   "district": "Central",
+   "address": "22 High Holborn",
+   "postcode": "WC1V 6BS",
+   "whyGo": "A pub has stood here since 1430, though the current building dates from the 1920s rebuild. The huge main bar has one of the longest bar counters in London and a row of intimate wooden booths that predate the current building.",
+   "opNote": "A working pub, normal licensing hours."
+  },
+  {
    "slug": "cloth-fair-st-bartholomew",
    "name": "Cloth Fair & St Bartholomew the Great",
    "type": "hidden-gem",
@@ -856,6 +898,20 @@
    "lng": -0.160557,
    "whyGo": "Garrett Anderson forced open the medical profession to women in Britain, later founding what became the New Hospital for Women - a plaque marking a genuine first.",
    "opNote": "A private residential building - viewable from the street only."
+  },
+  {
+   "slug": "st-dunstan-west-elizabeth-statue",
+   "name": "Elizabeth I Statue, St Dunstan-in-the-West",
+   "type": "hidden-gem",
+   "subject": "Likely London's oldest public statue, carved around 1586",
+   "area": "Westminster",
+   "borough": "City of Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "186a Fleet Street",
+   "whyGo": "Believed carved in 1586, the only surviving statue of Elizabeth I made in her lifetime - it originally stood on Ludgate and was moved here when the gate was demolished in 1760. Easy to walk past on busy Fleet Street.",
+   "opNote": "Set in a niche on the church exterior, visible from the street at any time."
   },
   {
    "slug": "nightingale-south-street",
@@ -980,6 +1036,20 @@
    "opNote": "A private/institutional building - viewable from the street only."
   },
   {
+   "slug": "gods-own-junkyard",
+   "name": "God's Own Junkyard",
+   "type": "hidden-gem",
+   "subject": "Europe's largest collection of vintage neon signage, in a Walthamstow warehouse",
+   "area": "Walthamstow",
+   "borough": "Waltham Forest",
+   "zone": "3",
+   "district": "East",
+   "address": "Unit 12, Ravenswood Industrial Estate, Shernhall Street",
+   "postcode": "E17 9HQ",
+   "whyGo": "The personal collection of the late neon artist Chris Bracey, who made signage for Soho's sex shops and Hollywood film sets - now filling a warehouse with hundreds of glowing signs and salvaged movie props. A proper trek from the centre, which is part of why it stays uncrowded.",
+   "opNote": "Free entry. NEEDS VERIFYING, was Fri-Sat 11am-10pm, Sun 11am-6pm, closed Mon-Thu at last check. On-site cafe."
+  },
+  {
    "slug": "dark-knight-farmiloe-clerkenwell",
    "name": "Gotham City Police Station (Farmiloe Building)",
    "type": "filming-location",
@@ -1065,6 +1135,20 @@
    "lng": -0.185198,
    "whyGo": "James wrote several of his major novels while living on this street - part of a dense cluster of literary Kensington plaques worth combining on one walk.",
    "opNote": "A private residential building - viewable from the street only."
+  },
+  {
+   "slug": "house-of-dreams-museum",
+   "name": "House of Dreams Museum",
+   "type": "hidden-gem",
+   "subject": "An artist's own terraced house, covered floor-to-ceiling in mosaic and found objects",
+   "area": "East Dulwich",
+   "borough": "Southwark",
+   "zone": "2–3",
+   "district": "South",
+   "address": "45 Melbourne Grove",
+   "postcode": "SE22 8RG",
+   "whyGo": "Textile designer Stephen Wright has lived here since 1982 and has spent decades covering every wall, ceiling and surface in mosaic and collected objects, partly as a memorial to his late partner and parents. One of the strangest, most personal small museums in London.",
+   "opNote": "NEEDS VERIFYING - open roughly ten days a year, usually the last Saturday of the month, booking required via the museum's own site; confirm current dates before planning a visit, it does not admit walk-ins."
   },
   {
    "slug": "fleming-ebury-street",
@@ -1299,6 +1383,19 @@
    "opNote": "A working shop with normal retail hours - worth a browse regardless of the show."
   },
   {
+   "slug": "kingsman-eggsys-flat-rowley-way",
+   "name": "Kingsman's Eggsy's Flat (90B Rowley Way)",
+   "type": "filming-location",
+   "subject": "Kingsman: The Secret Service (2014) - Eggsy's council flat",
+   "area": "Swiss Cottage",
+   "borough": "Camden",
+   "zone": "2",
+   "district": "North",
+   "address": "90B Rowley Way",
+   "whyGo": "Taron Egerton's Eggsy and his mother live here at the start of the film - the production picked the Grade II*-listed Alexandra & Ainsworth Estate for its brutalist scale, a slightly ironic choice given the building's own architectural pedigree.",
+   "opNote": "A private residential flat on a lived-in estate - viewable from the walkway only."
+  },
+  {
    "slug": "kingsman-huntsman-savile-row",
    "name": "Kingsman's Tailor Shop (Huntsman)",
    "type": "filming-location",
@@ -1382,6 +1479,20 @@
    "lng": -0.129548,
    "whyGo": "Guy Ritchie's breakout film used this Shoreditch street for Hatchet Harry's business - one of several East London corners across his early films that still look almost identical today.",
    "opNote": "A private/commercial building - viewable from the street only."
+  },
+  {
+   "slug": "london-stone",
+   "name": "London Stone",
+   "type": "hidden-gem",
+   "subject": "An ancient block of limestone, possibly Roman, that legend says protects the city",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "111 Cannon Street",
+   "whyGo": "First recorded around 1100, of unknown but probably Roman origin, set behind glass in the wall of an office block on Cannon Street - most people walk past without noticing it. Legend holds that London's fortunes depend on the stone staying put.",
+   "opNote": "On a public street frontage, viewable any time, free."
   },
   {
    "slug": "tennyson-upper-belgrave-street",
@@ -2063,6 +2174,19 @@
    "opNote": "Free, always open, easy to walk straight past - it's set back from London Wall itself, reached via Fore Street."
   },
   {
+   "slug": "star-yard-urinal",
+   "name": "Star Yard Victorian Urinal",
+   "type": "hidden-gem",
+   "subject": "A Grade II-listed 1851 cast-iron street urinal, one of the last of its kind",
+   "area": "Holborn",
+   "borough": "Camden",
+   "zone": "1",
+   "district": "Central",
+   "address": "Star Yard, off Chancery Lane",
+   "whyGo": "Manufactured in Glasgow in 1851, tucked down a narrow yard off Chancery Lane - one of only a handful of cast-iron pissoirs left in London, and the only one carrying a royal coat of arms. No longer in use, but still standing.",
+   "opNote": "Locked and non-functional, but visible from the street in Star Yard at any time."
+  },
+  {
    "slug": "pankhurst-cheyne-walk",
    "name": "Sylvia Pankhurst's Chelsea Home",
    "type": "blue-plaque",
@@ -2151,6 +2275,20 @@
    "opNote": "Free grounds, open daily; the buildings themselves have their own separate opening hours and some charge for entry."
   },
   {
+   "slug": "ferrymans-seat",
+   "name": "The Ferryman's Seat",
+   "type": "hidden-gem",
+   "subject": "The last surviving stone perch used by Thames boatmen waiting for customers",
+   "area": "South Bank",
+   "borough": "Southwark",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Bear Gardens, Bankside",
+   "whyGo": "Before bridges crossed this stretch of the Thames, watermen ferried Londoners across for a fee - this stone seat, set into a wall near the Globe, is the last of the perches they waited on. Genuinely easy to walk straight past.",
+   "opNote": "Set into a wall on a public street, visible any time, a couple of minutes from Shakespeare's Globe."
+  },
+  {
    "slug": "imitation-game-lethaby-holborn",
    "name": "The Imitation Game's MI6 (Lethaby Building)",
    "type": "filming-location",
@@ -2166,6 +2304,19 @@
    "lng": -0.124919,
    "whyGo": "A Central Saint Martins building doubled as MI6's wartime headquarters for Benedict Cumberbatch's Alan Turing to walk through - a working art-school building most passersby would never connect to the film.",
    "opNote": "A working educational building - viewable from the street only."
+  },
+  {
+   "slug": "old-curiosity-shop",
+   "name": "The Old Curiosity Shop",
+   "type": "hidden-gem",
+   "subject": "Likely London's oldest surviving shop building, dating to around 1567",
+   "area": "Holborn",
+   "borough": "Camden",
+   "zone": "1",
+   "district": "Central",
+   "address": "13-14 Portsmouth Street",
+   "whyGo": "A crooked, half-timbered survivor from the 1560s, built from salvaged ship timber - it outlasted the Great Fire and the Blitz. Long claimed (without firm evidence) as the inspiration for Dickens's novel of the same name.",
+   "opNote": "A shopfront on a public street, viewable any time; now owned by LSE."
   },
   {
    "slug": "pankhursts-clarendon-road",
@@ -2184,6 +2335,19 @@
    "lng": -0.208897,
    "whyGo": "A mother-and-daughter plaque for two of the central figures of the British suffragette movement, on a residential street off Holland Park Avenue.",
    "opNote": "A private residential building - viewable from the street only."
+  },
+  {
+   "slug": "seven-noses-of-soho",
+   "name": "The Seven Noses of Soho",
+   "type": "hidden-gem",
+   "subject": "Sculpted noses glued to buildings in 1997, a protest against rising CCTV surveillance",
+   "area": "Soho",
+   "borough": "City of Westminster",
+   "zone": "1",
+   "district": "Central",
+   "address": "Multiple sites, incl. Admiralty Arch and Meard Street",
+   "whyGo": "Artist Rick Buckley cast his own nose in plaster and stuck copies on buildings across central London in 1997, protesting the spread of CCTV. Most were removed; seven are said to survive, and a rumour promises riches to anyone who finds all of them.",
+   "opNote": "Free, on public building exteriors, findable any time - no official map, part of the appeal is the hunt."
   },
   {
    "slug": "trafalgar-square-smallest-police-station",

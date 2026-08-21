@@ -1,0 +1,167 @@
+{
+  "cuisine": "steak",
+  "note": "Steak is a format, not a cuisine - candidates will land in the sheet under British, Spanish, Japanese and Argentine. Sources are editorial guides plus one awards list; Tripadvisor and chain-owned blogs are deliberately excluded because they are not independent editorial authorities.",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak",
+      "names": [
+        "London’s best restaurants for steak",
+        "Ibai",
+        "Lutyens Grill",
+        "Quality Chop House",
+        "CUT at 45 Park Lane",
+        "Stakehaus",
+        "Guinea Grill",
+        "Kudu",
+        "Le Relais de Venise l'Entrecôte",
+        "Flat Iron",
+        "Hawksmoor Seven Dials",
+        "Blacklock Shoreditch",
+        "Sucre"
+      ]
+    },
+    {
+      "name": "Hot Dinners",
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-steak-restaurants-london",
+      "names": [
+        "Offers",
+        "Test Drives",
+        "Summer",
+        "Steak",
+        "Meat",
+        "All features",
+        "See all offers",
+        "Hot Dinners recommends",
+        "Staying in"
+      ]
+    },
+    {
+      "name": "olivemagazine",
+      "url": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/",
+      "names": [
+        "Sucre",
+        "Cooper's Cut at Four Seasons Hotel Tower Bridge",
+        "Meet Bros",
+        "Ibai",
+        "Vivat Bacchus",
+        "The Guinea Grill",
+        "Goodman",
+        "Dorian",
+        "Cut at 45 Park Lane",
+        "Macellaio RC",
+        "Zoilo",
+        "Flat Iron",
+        "Hawksmoor",
+        "NIJŪ",
+        "Blacklock",
+        "Solis",
+        "Fogo de Chão",
+        "Heliot Steak House",
+        "The Butcher’s Tap and Grill",
+        "Daffodil Mulligan",
+        "Lurra",
+        "The Colony Grill Room",
+        "Gaucho",
+        "STK Steakhouse",
+        "Check out more London restaurant guides here:",
+        "Authors"
+      ]
+    },
+    {
+      "name": "Luxury London",
+      "url": "https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/",
+      "names": [
+        "/ Social",
+        "Kobe",
+        "Mr Porter Steakhouse",
+        "Beast",
+        "Blacklock",
+        "Boha London",
+        "Cut at 45 Park Lane",
+        "Flat Iron",
+        "Goodman",
+        "The Guinea Grill",
+        "Hawksmoor",
+        "Lurra",
+        "M Restaurant",
+        "Nusr-Et",
+        "Omnino",
+        "Smith & Wollensky",
+        "STK London",
+        "Temper",
+        "The Coal Shed",
+        "Zelman Meats",
+        "Posts"
+      ]
+    },
+    {
+      "name": "DesignMyNight",
+      "url": "https://www.designmynight.com/london/restaurants/best-steak-restaurants-in-london",
+      "names": [
+        "Rewards",
+        "Jobs"
+      ]
+    },
+    {
+      "name": "Visit London",
+      "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/steak-and-grill",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Thatsup London",
+      "url": "https://thatsup.co.uk/london/guide/the-best-steakhouses-in-london/",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "OpenTable steakhouses",
+      "url": "https://www.opentable.co.uk/cuisine/best-steakhouse-restaurants-london-england",
+      "error": "no headings matched"
+    },
+    {
+      "name": "World's 101 Best Steak Restaurants 2026 (Time Out)",
+      "url": "https://www.timeout.com/london/news/9-london-steak-restaurants-have-been-named-in-the-101-best-in-the-world-for-2026-040126",
+      "scope": "awards",
+      "names": [
+        "Ibai",
+        "Hawksmoor St Pancras",
+        "Brat",
+        "Lutyens Grill",
+        "The Devonshire",
+        "Chelsea Grill",
+        "Sagardi",
+        "Zoilo",
+        "The Guinea Grill",
+        "Investor relations",
+        "Work for Time Out",
+        "Privacy notice",
+        "Do not sell my information",
+        "Accessibility statement",
+        "Get Listed",
+        "Time Out Offers FAQ",
+        "Advertising",
+        "Time Out Market",
+        "Time Out Offers",
+        "Time Out Worldwide",
+        "Movies"
+      ]
+    },
+    {
+      "name": "The Infatuation",
+      "url": "https://www.theinfatuation.com/london/guides/best-steak-restaurants-london",
+      "names": [
+        "Daffodil Mulligan",
+        "Fine Cut Butchers",
+        "Hawksmoor Seven Dials",
+        "The Guinea Grill",
+        "Goodman Steakhouse",
+        "Coya London",
+        "Trattoria Brutto",
+        "Brat",
+        "Quality Chop House",
+        "The Beefsteaks",
+        "Blacklock Soho"
+      ]
+    }
+  ]
+}

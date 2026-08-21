@@ -1427,6 +1427,7 @@
     "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid=418572&rid=352215&rid=288186&type=multi&theme=wide&color=8&dark=false&iframe=false&domain=couk&lang=en-GB&newtab=false&ot_source=Restaurant%20website&font=brandonText&ot_logo=standard&primary_color=f0f0e4&primary_font_color=333333&button_colo",
     "pressChecked": "2026-08-17"
   },
+  "bulls-head-barnes": {},
   "bun-house": {
     "placeId": "ChIJxfwuvtIEdkgRzkGKnK1ssek",
     "placesName": "Bun House Chinatown",
@@ -3634,6 +3635,7 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "gopals-corner": {},
   "graceys-pizza": {
     "postcode": "WC2H 8AJ",
     "lat": 51.481512,
@@ -3806,6 +3808,7 @@
     "walkFrom": "Peckham Rye Rail Station",
     "bookingProbe": "HTTP 403"
   },
+  "gujarati-rasoi": {},
   "gymkhana": {
     "placeId": "ChIJtwn55ikFdkgRAvOuPIWeLM0",
     "placesName": "Gymkhana",
@@ -4089,6 +4092,7 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/hopperssoho/reservations/create/search/?searchTab=group_bookings",
     "pressChecked": "2026-08-17"
   },
+  "horn-ok-please": {},
   "hoxton-beach-falafel": {
     "placeId": "ChIJ8X-QM6gcdkgRJWUOLyihhmo",
     "placesName": "Hoxton Beach Whitecross Street",
@@ -4476,7 +4480,7 @@
     "walkMin": 8,
     "walkFrom": "Bond Street Underground Station",
     "bookingPlatform": "sevenrooms",
-    "bookingUrl": "https://www.sevenrooms.com/reservations/jikoni&quot;,",
+    "bookingUrl": "https://www.sevenrooms.com/reservations/jikoni",
     "pressChecked": "2026-08-17"
   },
   "jin-da-thai": {
@@ -5021,6 +5025,7 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/kolae/reservations/create/search?party_size=7&venues=kolae%2Csomsaa",
     "pressChecked": "2026-08-17"
   },
+  "kolkati": {},
   "korean-grill-kensington": {
     "placeId": "ChIJmQwdomAFdkgRCau8gCongmQ",
     "placesName": "Korean Grill Kensington",
@@ -5174,9 +5179,9 @@
     "stationDistanceM": 350,
     "walkMin": 6,
     "walkFrom": "Sloane Square Underground Station",
+    "pressChecked": "2026-08-17",
     "bookingPlatform": "opentable",
-    "bookingUrl": "https://www.waterstones.com/book/yatra/rohit-ghai/9781848994355",
-    "pressChecked": "2026-08-17"
+    "bookingUrl": "https://www.waterstones.com/book/yatra/rohit-ghai/9781848994355"
   },
   "kwant-mayfair": {},
   "la-chingada": {
@@ -7654,6 +7659,7 @@
     "walkFrom": "Leicester Square Underground Station",
     "bookingProbe": "HTTP 403"
   },
+  "rasa-stoke-newington": {},
   "red-lion-and-sun": {
     "placeId": "ChIJ2yaCKk8adkgRTT3QOxE-aLs",
     "placesName": "The Red Lion & Sun",
@@ -8071,6 +8077,7 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "saravanaa-bhavan": {},
   "sarvs-slice": {
     "postcode": "W5 5FA",
     "lat": 51.512204,
@@ -9748,6 +9755,7 @@
     "bookingUrl": "https://reservations.milestonehotel.com/?Chain=5169&amp;Hotel=10999&amp;locale=en-US&amp;adult=2&amp;child=0&amp;start=availresults",
     "pressChecked": "2026-08-17"
   },
+  "the-montpelier": {},
   "the-palomar": {
     "placeId": "ChIJ37AHt9MEdkgRDVY9ZuyydVA",
     "placesName": "The Palomar",
@@ -10162,6 +10170,7 @@
     "walkFrom": "Leicester Square Underground Station",
     "bookingProbe": "HTTP 403"
   },
+  "toulouse-lautrec": {},
   "town-of-ramsgate": {},
   "trafalgar-tavern": {
     "placeId": "ChIJuYCd54ICdkgRmRF_n6vuMFQ",

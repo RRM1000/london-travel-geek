@@ -114,6 +114,7 @@ const HOODS = {
   "King's Cross":         { zone: "1",   district: "North" },
   "Stratford":            { zone: "3",   district: "East" },
   "Greenwich Peninsula":  { zone: "2",   district: "East" },
+  "Fulham":               { zone: "2",   district: "West" },
 };
 
 const base = { status: "open", statusChecked: TODAY, firstSeen: TODAY, lastChecked: TODAY };
@@ -663,6 +664,48 @@ const ROWS = [
     goodFor: "families, groups",
     lists: "events",
     source: "Annual calendar 2026-08-20. Deliberately vague on price because it genuinely varies by borough and year.",
+  },
+
+  // ===================== LOCAL FETES PASS =====================
+  // User-requested: small, free, local-scale festivals - the shape of thing that
+  // sits well below Carnival or the Marathon but is still worth a day trip if a
+  // visitor's dates line up. Checked against all five site sheets - clean.
+  {
+    ...base, slug: "greenwich-fair",
+    name: "Greenwich Fair",
+    eventType: "festival", style: "Free street theatre, circus and family entertainment",
+    venue: "General Wolfe Piazza, Greenwich Park",
+    startsOn: "2026-08-22", endsOn: "2026-08-23",
+    recurring: "annual", typicalWhen: "August bank holiday weekend, as part of the Greenwich+Docklands International Festival",
+    hood: "Greenwich", borough: "Greenwich", areaGuide: "greenwich-area-guide",
+    address: "General Wolfe Piazza, Observatory Hill, Greenwich Park", postcode: "SE10 8XJ",
+    agePolicy: "family-friendly", duration: "An afternoon",
+    pricePerPerson: "Free",
+    bookingRequired: "walk-in", indoorOutdoor: "outdoor",
+    stepFree: "partial",
+    whyGo: "Two free afternoons of street theatre, circus, puppetry and acrobatics at the top of Greenwich Park - the closing weekend of GDIF, and small enough to still feel like a local fete rather than a festival.",
+    opSummary: "No booking - just turn up. A level access route runs from the Blackheath Gate (about 15 minutes); the step-free route from St Mary's Gate is uphill and takes 10-15 minutes.",
+    goodFor: "families, groups, solo",
+    lists: "events, free",
+    source: "royalgreenwich.gov.uk and festival.org (GDIF's own site) cross-checked",
+  },
+  {
+    ...base, slug: "north-end-road-summer-festival",
+    name: "North End Road Summer Festival",
+    eventType: "festival", style: "Traffic-free street festival on a Victorian market street",
+    venue: "North End Road",
+    startsOn: "2026-07-12", endsOn: "2026-07-12",
+    recurring: "annual", typicalWhen: "A Saturday in July",
+    hood: "Fulham", borough: "Hammersmith and Fulham", areaGuide: "",
+    address: "North End Road",
+    agePolicy: "family-friendly", duration: "A day",
+    pricePerPerson: "Free",
+    bookingRequired: "walk-in", indoorOutdoor: "outdoor",
+    whyGo: "North End Road's market has traded six days a week since the 1880s; once a year the council closes it to traffic and adds 150-plus stalls, live music, street entertainers and free kids' workshops on top of the regular fruit-and-veg traders.",
+    opSummary: "10am-6pm, free, no booking. Award-winning as a community market (Best Community/Parish Market, Great British Market Awards 2019) - genuinely council-run rather than a private promotion.",
+    goodFor: "families, groups, solo",
+    lists: "events, free",
+    source: "lbhf.gov.uk (council's own event pages, 2023-2025 recurrences) cross-checked",
   },
 ];
 

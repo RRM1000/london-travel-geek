@@ -37,6 +37,8 @@ export type Restaurant = {
   opNote?: string;
   signals?: string;
   lists?: string[];
+  /** Chapter deep link into a published food video that visits this venue. */
+  video?: string;
 };
 
 export type Facet = { value: string; slug: string; count: number };

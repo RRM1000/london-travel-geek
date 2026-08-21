@@ -145,6 +145,15 @@ const HOODS = {
   "Whitechapel":         { zone: "2",   district: "East" },
   "Westminster":         { zone: "1",   district: "Central" },
   "Wood Wharf":          { zone: "2",   district: "East" },
+  // Added by the Indian guide pass. Six rows carried "LOCATION UNCONFIRMED"
+  // while the enrichment cache already held their address - the geography was
+  // known, it just had no hood to hang on.
+  "Brockley":            { zone: "2–3", district: "South" },
+  "East Ham":            { zone: "3–4", district: "East" },
+  "Homerton":            { zone: "2",   district: "East" },
+  "Leicester Square":    { zone: "1",   district: "Central" },
+  // Added by the jazz-dining pass.
+  "Kennington":          { zone: "2",   district: "South" },
 };
 
 /** True when a row sits in the visitor core. Zone 1 and 1-2 both count. */
@@ -2539,11 +2548,12 @@ const rows = [
     bookingLead: "weeks",
     goodFor: "date, business",
     signals: "6 sources - the strongest Indian consensus; Michelin star", awardYear: "2026",
-    lists: "nicest-dining",
+    lists: "nicest-dining, best-indian:1",
     source: "consensus 6/12 domains - NEEDS VERIFYING",
   },
   {
     ...ind, slug: "bibi", name: "BiBi",
+    video: "https://www.youtube.com/watch?v=AHUnqeRroYk&t=440s",
     style: "Modern Indian", specialities: "tasting-menu, regional",
     venueFormat: "Restaurant", chainType: "independent", ownerGroup: "JKS Restaurants",
     hood: "Mayfair", borough: "Westminster", areaGuide: "mayfair-area-guide",
@@ -2553,11 +2563,12 @@ const rows = [
     bookingLead: "weeks",
     goodFor: "celebration, date, business",
     signals: "5 sources; Michelin star", awardYear: "2026",
-    lists: "nicest-dining, special-occasion",
+    lists: "nicest-dining, special-occasion, best-indian:4",
     source: "consensus 5/12 domains - NEEDS VERIFYING",
   },
   {
     ...ind, slug: "brigadiers", name: "Brigadiers",
+    video: "https://www.youtube.com/watch?v=AHUnqeRroYk&t=0s",
     style: "Indian barbecue and bar", specialities: "grill, regional",
     venueFormat: "Restaurant / Bar", chainType: "independent", ownerGroup: "JKS Restaurants",
     hood: "City of London", borough: "City of London", areaGuide: "city-of-london-area-guide",
@@ -2565,8 +2576,10 @@ const rows = [
     priceBand: "£££",
     whyGo: "Built on the Indian army mess-bar idea - big rooms, sport on the screens, whisky, and barbecue over coals. The loudest Indian restaurant in the City, by design.",
     angle: "room",
+    signature: "Tandoori lamb chops",
     noise: "loud",
     goodFor: "groups, large-groups, business",
+    lists: "best-indian:6",
     signals: "5 sources; JKS Restaurants",
     source: "consensus 5/12 domains; video-research (Harrison Webb, postcode) - NEEDS VERIFYING",
   },
@@ -2579,25 +2592,32 @@ const rows = [
     priceBand: "££",
     whyGo: "The Irani cafes of old Bombay recreated in careful detail, and the bacon naan roll that made it a breakfast destination as much as a dinner one.",
     angle: "origin",
-    opSummary: "No bookings for small groups at peak - the queue is the system. Seven London branches; the Branches tab has six named.",
+    // CORRECTED 2026-08-21 against dishoom.com (Covent Garden and King's Cross
+    // pages carry identical wording, so this is brand policy not branch policy).
+    // The previous note said "no bookings for small groups", which is the myth
+    // everybody repeats and is wrong: the gate is the CLOCK, not the party size.
+    // A table for two books fine at lunch. Caught by the editor booking one.
+    opSummary: "Any party size can book before 6pm; after 6pm bookings are for groups of six or more only. Most tables are held back for walk-ins either way. Seven London branches; the Branches tab has six named.",
     signature: "Bacon naan roll",
     goodFor: "groups, families, quick",
     signals: "4 sources; also a 3-source pick on the breakfast pass",
-    lists: "breakfast, best-value",
+    lists: "breakfast, best-value, best-indian:5",
     source: "consensus 4/12 domains; last30days breakfast pass - branches already researched",
   },
   {
     ...ind, slug: "gymkhana", name: "Gymkhana",
+    video: "https://www.youtube.com/watch?v=AHUnqeRroYk&t=855s",
     style: "Indian fine dining", specialities: "tasting-menu, grill, regional",
     venueFormat: "Restaurant", chainType: "independent", ownerGroup: "JKS Restaurants",
     hood: "Mayfair", borough: "Westminster", areaGuide: "mayfair-area-guide",
     priceBand: "££££",
     whyGo: "Modelled on the colonial-era gymkhana clubs of India, and the highest-decorated Indian kitchen in the city.",
     angle: "room",
+    signature: "Wild boar biryani",
     bookingLead: "months",
     goodFor: "celebration, business, date",
     signals: "4 sources; two Michelin stars", awardYear: "2026",
-    lists: "nicest-dining, special-occasion",
+    lists: "nicest-dining, special-occasion, best-indian:2",
     source: "consensus 4/12 domains; video-research (TOPJAW chapters) - NEEDS VERIFYING",
   },
   {
@@ -2611,7 +2631,7 @@ const rows = [
     bookingLead: "weeks",
     goodFor: "celebration, business, date",
     signals: "4 sources; Michelin star", awardYear: "2026",
-    lists: "nicest-dining",
+    lists: "nicest-dining, best-indian:7",
     source: "consensus 4/12 domains - NEEDS VERIFYING",
   },
   {
@@ -2622,11 +2642,12 @@ const rows = [
     priceBand: "££££",
     whyGo: "Open since 1926 and the oldest surviving Indian restaurant in Britain, above Regent Street, with a Michelin star to go with the history.",
     angle: "origin",
+    signature: "Dum biryani",
     setting: "historic-building",
     bookingLead: "weeks",
     goodFor: "celebration, date, business",
     signals: "4 sources; est. 1926, Michelin star", awardYear: "2026",
-    lists: "nicest-dining, landmark, showstopper",
+    lists: "nicest-dining, landmark, showstopper, best-indian:3",
     source: "consensus 4/12 domains; video-research chapters - NEEDS VERIFYING",
   },
   {
@@ -2640,11 +2661,12 @@ const rows = [
     bookingLead: "weeks",
     goodFor: "celebration, business",
     signals: "Asian Curry Awards - Best Fine Dining, London", awardYear: "2025",
-    lists: "nicest-dining",
+    lists: "nicest-dining, best-indian:9",
     source: "consensus 3/12 domains; Asian Curry Awards - NEEDS VERIFYING",
   },
   {
     ...ind, slug: "darjeeling-express", name: "Darjeeling Express",
+    video: "https://www.youtube.com/watch?v=AHUnqeRroYk&t=677s",
     style: "Home-style Indian", specialities: "regional",
     venueFormat: "Restaurant", chainType: "independent",
     hood: "Covent Garden", borough: "Westminster", areaGuide: "covent-garden-area-guide",
@@ -2653,6 +2675,7 @@ const rows = [
     angle: "chef",
     bookingLead: "weeks",
     goodFor: "groups, date",
+    lists: "best-indian:19",
     signals: "3 sources",
     source: "consensus 3/12 domains; video-research (TOPJAW) - NEEDS VERIFYING",
   },
@@ -2668,7 +2691,7 @@ const rows = [
     setting: "historic-building",
     goodFor: "business, celebration, date",
     signals: "3 sources",
-    lists: "nicest-dining, showstopper",
+    lists: "nicest-dining, showstopper, best-indian:8",
     source: "consensus 3/12 domains - NEEDS VERIFYING",
   },
   {
@@ -2679,12 +2702,13 @@ const rows = [
     priceBand: "£",
     whyGo: "Vada pav - the Mumbai potato-fritter roll - done properly and cheaply, from a counter rather than a dining room.",
     angle: "value",
+    signature: "Vada pav",
     setting: "counter",
     bookingLead: "walk-in",
     dietary: "Almost entirely vegetarian",
     goodFor: "quick, solo, families",
     signals: "3 sources",
-    lists: "best-value",
+    lists: "best-value, best-indian:25",
     source: "consensus 3/12 domains - NEEDS VERIFYING",
   },
   {
@@ -2696,6 +2720,7 @@ const rows = [
     whyGo: "A Chelsea townhouse done as an Indian hunting lodge, with a menu built around game and the outdoors.",
     angle: "room",
     goodFor: "date, groups",
+    lists: "best-indian:20",
     signals: "3 sources",
     source: "consensus 3/12 domains - NEEDS VERIFYING",
   },
@@ -2703,18 +2728,20 @@ const rows = [
     ...ind, slug: "kokum", name: "Kokum",
     style: "Coastal Indian", specialities: "seafood, south-indian",
     venueFormat: "Restaurant", chainType: "independent",
-    hood: "", borough: "", areaGuide: "",
+    hood: "East Dulwich", borough: "Southwark", areaGuide: "",
     priceBand: "£££",
     whyGo: "Named for the sour coastal fruit, cooking the seafood traditions of India's western shore.",
     angle: "dish",
     goodFor: "date, groups",
+    lists: "best-indian:16",
     signals: "3 sources",
-    source: "consensus 3/12 domains - NEEDS VERIFYING, LOCATION UNCONFIRMED",
+    source: "consensus 3/12 domains. Hood set from the enrichment cache (58-60 East Dulwich Rd, SE22).",
   },
 
   // --- Two-source picks, plus the awards-only population ---
   {
     ...ind, slug: "kricket", name: "Kricket",
+    video: "https://www.youtube.com/watch?v=6mDJrJFvllo&t=476s",
     style: "Modern Indian small plates", specialities: "small-plates, regional",
     venueFormat: "Restaurant", chainType: "mini-chain",
     hood: "Soho", borough: "Westminster", areaGuide: "soho-area-guide",
@@ -2722,7 +2749,9 @@ const rows = [
     priceBand: "££",
     whyGo: "Started in a Brixton shipping container and grew into several sites, doing Indian cooking as small plates rather than curries.",
     angle: "origin",
+    signature: "Keralan fried chicken",
     goodFor: "date, groups, pre-theatre",
+    lists: "best-indian:17",
     signals: "2 sources",
     source: "consensus 2/12 domains; video-research (Harrison Webb, postcode) - NEEDS VERIFYING",
   },
@@ -2736,7 +2765,7 @@ const rows = [
     angle: "dish",
     goodFor: "date, business",
     signals: "2 sources; Michelin star",
-    lists: "nicest-dining",
+    lists: "nicest-dining, best-indian:12",
     source: "consensus 2/12 domains - NEEDS VERIFYING",
   },
   {
@@ -2748,11 +2777,13 @@ const rows = [
     whyGo: "Atul Kochhar cooking the north-eastern states - Assam, Nagaland, Sikkim - which almost nowhere else in London attempts.",
     angle: "chef",
     goodFor: "date, business",
+    lists: "best-indian:13",
     signals: "2 sources",
     source: "consensus 2/12 domains - NEEDS VERIFYING",
   },
   {
     ...ind, slug: "empire-empire", name: "Empire Empire",
+    video: "https://www.youtube.com/watch?v=6mDJrJFvllo&t=1095s",
     style: "Seventies Indian", specialities: "regional",
     venueFormat: "Restaurant", chainType: "independent", ownerGroup: "JKS Restaurants",
     hood: "Notting Hill", borough: "Kensington and Chelsea", areaGuide: "notting-hill-area-guide",
@@ -2761,6 +2792,7 @@ const rows = [
     whyGo: "A love letter to 1970s Bombay dining rooms, from the JKS group - velvet, brass and disco-era styling.",
     angle: "room",
     goodFor: "date, groups",
+    lists: "best-indian:18",
     signals: "2 sources",
     source: "consensus 2/12 domains; video-research (Harrison Webb, postcode) - NEEDS VERIFYING",
   },
@@ -2783,13 +2815,13 @@ const rows = [
     ...ind, slug: "babur", name: "Babur",
     style: "Modern Indian", specialities: "regional",
     venueFormat: "Restaurant", chainType: "independent",
-    hood: "", borough: "Lewisham", areaGuide: "",
+    hood: "Brockley", borough: "Lewisham", areaGuide: "",
     priceBand: "£££",
     whyGo: "A Brockley dining room that has been quietly outcooking most of central London for over thirty years.",
     angle: "value",
     goodFor: "date, groups",
     signals: "2 sources",
-    source: "consensus 2/12 domains; also in Sheet1 - NEEDS VERIFYING, Brockley NOT in HOODS yet",
+    source: "consensus 2/12 domains; also in Sheet1. Hood set from the enrichment cache (119 Brockley Rise, SE23).",
   },
   {
     ...ind, slug: "namaaste-highgate", name: "Namaaste Highgate",
@@ -2805,23 +2837,18 @@ const rows = [
   },
 
   // --- From the video pass. None of these appear in ANY consensus list. ---
-  {
-    ...ind, slug: "tayyabs", name: "Tayyabs",
-    style: "Punjabi grill", specialities: "grill, curry-house",
-    venueFormat: "Restaurant", chainType: "independent",
-    hood: "Whitechapel", borough: "Tower Hamlets", areaGuide: "",
-    priceBand: "£",
-    whyGo: "A Whitechapel Punjabi institution since 1972, famous for lamb chops off the grill and for queues that form before it opens.",
-    angle: "dish",
-    signature: "Lamb chops",
-    opSummary: "Bring your own alcohol. Queues are the norm - go early or expect to stand.",
-    bookingLead: "walk-in",
-    noise: "loud",
-    goodFor: "groups, large-groups, quick",
-    signals: "est. 1972; on no consensus list",
-    lists: "best-value",
-    source: "video-research chapters (TOPJAW) - NEEDS VERIFYING",
-  },
+  //
+  // TAYYABS WAS HERE AND HAS MOVED to the PAKISTANI block below.
+  //
+  // It was written twice - once here on the video pass as Indian £, and again
+  // on the Pakistani pass as Pakistani ££ - and both rows claimed the slug
+  // "tayyabs". The export does not deduplicate, so the site was publishing two
+  // different Tayyabs at one URL with two different price bands. The Pakistani
+  // row is the correct one on both counts: it is the better-researched of the
+  // two, and the Pakistani pass note above it is right that filing Punjabi
+  // Lahori cooking under Indian is the same mistake as filing Sri Lankan there.
+  // Its est. 1972 and TOPJAW provenance have been folded into that row so the
+  // video pass is not lost with the duplicate.
   {
     ...ind, slug: "punjab-covent-garden", name: "Punjab",
     style: "North Indian", specialities: "curry-house, regional",
@@ -2833,7 +2860,7 @@ const rows = [
     setting: "historic-building",
     goodFor: "families, groups",
     signals: "est. 1946; landmark",
-    lists: "landmark",
+    lists: "landmark, best-indian:24",
     source: "video-research chapters (Insider Food) - NEEDS VERIFYING, 1946 claim UNCONFIRMED",
   },
   {
@@ -2845,6 +2872,7 @@ const rows = [
     whyGo: "The Brick Lane curry house that gets named most often when people argue about which of them is still worth eating at.",
     angle: "contrast",
     goodFor: "groups, families",
+    lists: "best-indian:23",
     signals: "video pass; Brick Lane",
     source: "video-research descriptions - NEEDS VERIFYING",
   },
@@ -2873,11 +2901,12 @@ const rows = [
     priceBand: "££££",
     whyGo: "Michelin-starred cooking from Kerala and the Malabar coast - the one starred kitchen in London doing south-western seafood rather than northern grills.",
     angle: "dish",
+    signature: "Mangalorean chicken",
     setting: "hotel",
     bookingLead: "weeks",
     goodFor: "business, date, celebration",
     signals: "2 sources; Michelin star", awardYear: "2026",
-    lists: "nicest-dining",
+    lists: "nicest-dining, best-indian:14",
     source: "consensus 2/12 domains - NEEDS VERIFYING",
   },
   {
@@ -2892,7 +2921,7 @@ const rows = [
     bookingLead: "weeks",
     goodFor: "celebration, business, date",
     signals: "2 sources; Michelin star", awardYear: "2026",
-    lists: "nicest-dining",
+    lists: "nicest-dining, best-indian:10",
     source: "consensus 2/12 domains - NEEDS VERIFYING, first-starred claim UNCONFIRMED",
   },
   {
@@ -2905,7 +2934,13 @@ const rows = [
     angle: "value",
     goodFor: "families, groups",
     signals: "3 sources - the strongest of the remaining tier",
-    source: "consensus 3/12 domains - NEEDS VERIFYING, LOCATION UNCONFIRMED",
+    // IDENTITY UNRESOLVED - deliberately kept off the best-indian list.
+    // Places resolved this slug to "Bombay Brasserie" on Courtfield Road SW7,
+    // which is a different, much older and much grander restaurant. Either the
+    // consensus sources meant Bombay Brasserie and the name here is wrong, or
+    // the enrichment matched the wrong venue. Until someone establishes which,
+    // publishing it would be asserting an identity we do not have.
+    source: "consensus 3/12 domains - NEEDS VERIFYING. Enrichment matched \"Bombay Brasserie\" (SW7), not this name; identity unresolved, so hood is left blank rather than taking the match on trust.",
   },
   {
     ...ind, slug: "madhus-southall", name: "Madhu's",
@@ -2976,49 +3011,166 @@ const rows = [
     ...ind, slug: "udaya-kerala", name: "Udaya Kerala Restaurant",
     style: "Keralan", specialities: "south-indian, seafood",
     venueFormat: "Restaurant", chainType: "independent",
-    hood: "", borough: "", areaGuide: "",
+    hood: "East Ham", borough: "Newham", areaGuide: "",
     priceBand: "££",
     whyGo: "Keralan cooking - appam, coastal fish, coconut - rather than the northern menu most London curry houses run.",
     angle: "dish",
     goodFor: "families, groups",
     signals: "2 sources",
-    source: "consensus 2/12 domains - NEEDS VERIFYING, LOCATION UNCONFIRMED",
+    source: "consensus 2/12 domains. Hood set from the enrichment cache (105 Katherine Rd, E6).",
   },
   {
     ...ind, slug: "hyderabadi-spice", name: "Hyderabadi Spice",
     style: "Hyderabadi", specialities: "regional, curry-house",
     venueFormat: "Restaurant", chainType: "independent",
-    hood: "", borough: "", areaGuide: "",
+    hood: "East Ham", borough: "Newham", areaGuide: "",
     priceBand: "££",
     whyGo: "Hyderabadi biryani done as its own tradition rather than as a side dish on a north Indian menu.",
     angle: "dish",
     goodFor: "families, groups",
     signals: "2 sources",
-    source: "consensus 2/12 domains - NEEDS VERIFYING, LOCATION UNCONFIRMED",
+    source: "consensus 2/12 domains. Hood set from the enrichment cache (309 High St North, E12).",
   },
   {
     ...ind, slug: "vatavaran", name: "Vatavaran",
     style: "Himalayan Indian", specialities: "regional",
     venueFormat: "Restaurant", chainType: "independent",
-    hood: "Chelsea", borough: "Kensington and Chelsea", areaGuide: "chelsea-area-guide",
+    hood: "Knightsbridge", borough: "Kensington and Chelsea", areaGuide: "",
     priceBand: "£££",
     whyGo: "Cooking from the Himalayan foothills - a region almost nowhere else in London represents.",
     angle: "dish",
     goodFor: "date, groups",
     signals: "2 sources",
-    source: "consensus 2/12 domains - NEEDS VERIFYING, Chelsea location UNCONFIRMED",
+    source: "consensus 2/12 domains. Was filed Chelsea; the enrichment cache puts it on Beauchamp Place SW3, which is Knightsbridge. Corrected.",
   },
   {
     ...ind, slug: "shankeys", name: "Shankeys",
     style: "Neighbourhood Indian", specialities: "regional",
     venueFormat: "Restaurant", chainType: "independent",
-    hood: "", borough: "", areaGuide: "",
+    hood: "Homerton", borough: "Hackney", areaGuide: "hackney-area-guide",
     priceBand: "££",
     whyGo: "Named by both The Infatuation and Time Out, which is a narrow overlap to land in.",
     angle: "contrast",
     goodFor: "date, groups",
     signals: "2 sources",
-    source: "consensus 2/12 domains - NEEDS VERIFYING, LOCATION UNCONFIRMED",
+    source: "consensus 2/12 domains. Hood set from the enrichment cache (221 Well St, E9).",
+  },
+
+  // --- The vegetarian gap the consensus pass never closed. ---
+  //
+  // Both of these carried the affordable South Indian half of the published
+  // guide since July and neither was ever on the sheet, so the sheet could not
+  // be used to rebuild the article without silently deleting them. That is the
+  // failure mode this block exists to fix: the consensus sources are Mayfair-
+  // heavy and simply do not reach a £ Keralan vegetarian dining room in Stoke
+  // Newington. Awards did not reach them either. They are here on the standing
+  // of the published guide that already recommends them.
+  //
+  // NO COORDINATES. Neither is in the enrichment cache and the Places stage is
+  // billed, so lat/lng stay blank and both are absent from the map until
+  // someone chooses to pay for that run. A blank is honest; a guessed pin is a
+  // reader standing outside the wrong building.
+  {
+    ...ind, slug: "rasa-stoke-newington", name: "Rasa",
+    style: "Keralan vegetarian", specialities: "south-indian, vegetarian, regional",
+    venueFormat: "Restaurant", chainType: "independent",
+    hood: "Stoke Newington", borough: "Hackney", areaGuide: "",
+    priceBand: "£",
+    address: "55 Stoke Newington Church St",
+    postcode: "N16 0AR",
+    // Supplied by the editor, so this is the door rather than the centroid of
+    // the postcode - kept in preference to the postcodes.io derivation, which
+    // put it about ten metres off. No billed Places call was made either way.
+    // Nearest station and walk time are still blank: naming a station is easy,
+    // timing the walk to it needs the station's own coordinates and we do not
+    // hold them, so the facts strip omits the line rather than estimating it.
+    lat: "51.562071", lng: "-0.076376",
+    website: "https://rasarestaurants.com/",
+    whyGo: "An all-vegetarian Keralan kitchen behind a shocking pink shopfront, cooking with coconut and curry leaf rather than cream.",
+    angle: "value",
+    dietary: "Entirely vegetarian",
+    bookingLead: "days",
+    goodFor: "date, families, groups",
+    lists: "best-value, vegetarian, best-indian:15",
+    source: "Carried across from our own published Indian guide (Jul 2026), which cites a Time Out review. Absent from all 12 consensus domains and from the awards pass - the £ vegetarian tier is a known blind spot of both. Address and coordinates supplied by the editor 2026-08-21.",
+  },
+  {
+    ...ind, slug: "saravanaa-bhavan", name: "Saravanaa Bhavan",
+    style: "South Indian vegetarian", specialities: "south-indian, vegetarian",
+    venueFormat: "Restaurant", chainType: "mini-chain",
+    hood: "Leicester Square", borough: "Westminster", areaGuide: "",
+    priceBand: "£",
+    website: "https://saravanaabhavan.co.uk/",
+    whyGo: "The London outpost of the Chennai vegetarian chain, and the cheapest way in the West End to eat a properly made masala dosa.",
+    angle: "value",
+    signature: "Masala dosa",
+    dietary: "Entirely vegetarian",
+    bookingLead: "walk-in",
+    goodFor: "quick, families, solo",
+    lists: "best-value, vegetarian",
+    source: "Carried across from our own published Indian guide (Jul 2026). Global chain of Chennai origin; London sites include Charing Cross Road, Wembley and East Ham. BRANCHES NOT RESEARCHED - the Branches tab has none, so zone/district describe the Leicester Square site only.",
+  },
+
+  // --- Market stalls. The street food half of the guide, none of it on the
+  // sheet until now. Hullabaloo in Greenwich Market already proved the format
+  // works; these are the same thing in Borough and Seven Dials.
+  //
+  // Coordinates are MARKET-LEVEL, carried from src/data/restaurantMaps.ts where
+  // they were hand-entered for the published map. A stall does not have its own
+  // postcode and the market's position is the honest precision here.
+  {
+    ...ind, slug: "horn-ok-please", name: "Horn OK Please",
+    style: "Indian vegetarian street food", specialities: "street-food, vegetarian, regional",
+    venueFormat: "Market Stall", chainType: "independent",
+    hood: "Borough", borough: "Southwark", areaGuide: "south-bank-area-guide",
+    priceBand: "£",
+    lat: "51.5055", lng: "-0.091",
+    station: "London Bridge", walkMin: "4",
+    setting: "market-stall",
+    venueContext: "Borough Market",
+    whyGo: "Samosa chaat built to order - the samosas crushed under chickpea curry, yoghurt and tamarind while still hot - from an all-vegetarian Borough Market stall.",
+    angle: "dish",
+    signature: "Samosa chaat",
+    bookingLead: "walk-in",
+    dietary: "Entirely vegetarian",
+    goodFor: "quick, solo, families",
+    lists: "best-value, vegetarian, markets, best-indian:26",
+    source: "Carried across from our own published Indian guide (Jul 2026); boroughmarket.org.uk trader listing. Market-level coordinates from restaurantMaps.ts.",
+  },
+  {
+    ...ind, slug: "gujarati-rasoi", name: "Gujarati Rasoi",
+    style: "Gujarati home cooking", specialities: "street-food, regional, vegetarian",
+    venueFormat: "Market Stall", chainType: "independent",
+    hood: "Borough", borough: "Southwark", areaGuide: "south-bank-area-guide",
+    priceBand: "£",
+    lat: "51.5055", lng: "-0.091",
+    station: "London Bridge", walkMin: "4",
+    setting: "market-stall",
+    venueContext: "Borough Market",
+    whyGo: "Mother-and-son Gujarati cooking from family recipes - thalis, bhajia and dhal - at a market where almost everything else is European.",
+    angle: "origin",
+    bookingLead: "walk-in",
+    goodFor: "quick, solo, families",
+    lists: "best-value, markets, best-indian:27",
+    source: "Carried across from our own published Indian guide (Jul 2026); boroughmarket.org.uk trader listing. Market-level coordinates from restaurantMaps.ts.",
+  },
+  {
+    ...ind, slug: "kolkati", name: "Kolkati",
+    style: "Kolkata street food", specialities: "street-food, regional",
+    venueFormat: "Market Stall", chainType: "independent",
+    hood: "Covent Garden", borough: "Westminster", areaGuide: "covent-garden-area-guide",
+    priceBand: "£",
+    lat: "51.5135", lng: "-0.1265",
+    station: "Covent Garden", walkMin: "3",
+    setting: "market-stall",
+    venueContext: "Seven Dials Market",
+    whyGo: "Kati rolls the Kolkata way - paratha cooked with egg through it, wrapped round spiced chicken or paneer with pickled onion and lime.",
+    angle: "dish",
+    signature: "Kati roll",
+    bookingLead: "walk-in",
+    goodFor: "quick, solo, groups",
+    lists: "best-value, markets, best-indian:28",
+    source: "Carried across from our own published Indian guide (Jul 2026); KERB Seven Dials Market trader. Market-level coordinates from restaurantMaps.ts.",
   },
 
   // --- The British backlog the UNACTIONED report kept flagging every run. ---
@@ -6299,7 +6451,7 @@ const rows = [
     angle: "chef",
     bookingLead: "weeks",
     goodFor: "date, solo, groups",
-    lists: "brunch, nicest-dining",
+    lists: "brunch, nicest-dining, best-indian:21",
     source: "held in pending-cross-cuisine from the brunch pass. Filed INDIAN as the closest single label, but the kitchen is deliberately cross-cultural (Kenyan, Indian, Middle Eastern, British) - a borderline call, recorded as such.",
   },
   {
@@ -6313,7 +6465,7 @@ const rows = [
     angle: "chef",
     bookingLead: "weeks",
     goodFor: "celebration, date, business",
-    lists: "nicest-dining, special-occasion",
+    lists: "nicest-dining, special-occasion, best-indian:11",
     source: "held in pending-cross-cuisine since the Italian pass surfaced it. The Infatuation, Hot Dinners, DesignMyNight. Should have been written during the Indian pass.",
   },
   {
@@ -7908,6 +8060,29 @@ const rows = [
     goodFor: "families, quick, groups",
     lists: "best-value",
     source: "held in pending-cross-cuisine from the Chinese pass.",
+  },
+  // Found on the Indian guide pass and filed here, NOT under Indian, on the
+  // selfDescriptionWins rule. Roti canai with mutton curry is Malaysian Tamil
+  // cooking and the stall says so itself; the fact that an Indian street food
+  // section is where a reader would look for it is not a reason to mislabel it.
+  // The guide links to it across the cuisine boundary and says why.
+  {
+    ...may, slug: "gopals-corner", name: "Gopal's Corner",
+    style: "Malaysian Tamil", specialities: "street-food, regional",
+    venueFormat: "Market Stall", chainType: "mini-chain",
+    hood: "Victoria", borough: "Westminster", areaGuide: "westminster-area-guide",
+    priceBand: "£",
+    lat: "51.4965", lng: "-0.1437",
+    station: "Victoria", walkMin: "1",
+    setting: "market-stall",
+    venueContext: "Market Halls Victoria",
+    whyGo: "Roti canai clapped and folded to order, served with mutton, chicken or dhal curry - from the founder of Soho's Roti King.",
+    angle: "chef",
+    signature: "Roti canai",
+    bookingLead: "walk-in",
+    goodFor: "quick, solo, families",
+    lists: "best-value, markets",
+    source: "Carried across from our own published Indian guide (Jul 2026). Sugen Gopal of Roti King; counters inside Market Halls Victoria, Oxford Street, Canary Wharf and Paddington. BRANCHES NOT RESEARCHED. Market-level coordinates from restaurantMaps.ts.",
   },
   {
     ...fil, slug: "donia", name: "Donia",
@@ -9555,6 +9730,7 @@ const rows = [
   // hid two London institutions for 606 rows.
   {
     ...pak, slug: "tayyabs", name: "Tayyabs",
+    video: "https://www.youtube.com/watch?v=AHUnqeRroYk&t=228s",
     style: "Punjabi grill", specialities: "grill, curry-house, regional",
     venueFormat: "Restaurant", chainType: "independent",
     hood: "Whitechapel", borough: "Tower Hamlets", areaGuide: "",
@@ -9567,8 +9743,9 @@ const rows = [
     bookingLead: "walk-in",
     noise: "loud",
     goodFor: "groups, families, quick",
-    lists: "best-value, late-night",
-    source: "Pakistani pass. THE EXTRACTOR MISSED THIS ENTIRELY - it appears in neither source's harvested names despite being the best-known Pakistani restaurant in London, so it is added on its own standing. Fallow-shaped miss. ADDRESS NEEDS VERIFYING.",
+    signals: "est. 1972; video pass",
+    lists: "best-value, late-night, best-indian:22",
+    source: "Pakistani pass. THE EXTRACTOR MISSED THIS ENTIRELY - it appears in neither source's harvested names despite being the best-known Pakistani restaurant in London, so it is added on its own standing. Fallow-shaped miss. Absorbed the duplicate Indian row from the video pass (TOPJAW chapter at 3:48). ADDRESS NEEDS VERIFYING.",
   },
   {
     ...pak, slug: "lahore-kebab-house", name: "Original Lahore Kebab House",
@@ -10085,6 +10262,70 @@ const rows = [
     bookingLead: "walk-in", outdoor: "pavement", noise: "quiet",
     lists: "historic-pubs",
     source: "Thin-guide backfill 2026-08-19; Londonist and the Wapping guides collected. Not on the river, which is why it stays quiet when the others fill.",
+  },
+
+  // ========================= JAZZ-DINING PASS 2026-08-21 =========================
+  // User-requested: dinner-and-live-jazz venues, South London in particular - the
+  // sheet had NO jazz venue south of the river (Scarfes and Nightjar are the only
+  // jazz mentions, both north/central). Each row individually verified against the
+  // venue's own site plus an independent source, and checked against all five site
+  // sheets for duplicates - clean. All three carry lists: "live-jazz" so a future
+  // /live-jazz-london page has a population to filter on.
+  {
+    ...fr, slug: "toulouse-lautrec", name: "Toulouse Lautrec",
+    style: "French brasserie with a jazz club upstairs",
+    venueFormat: "Restaurant / Bar", chainType: "independent",
+    hood: "Kennington", borough: "Lambeth", areaGuide: "",
+    address: "140 Newington Butts", postcode: "SE11 4RN",
+    priceBand: "££",
+    setting: "historic-building",
+    whyGo: "Three floors of a converted pub run by three brothers since 2008: a rustic French brasserie at street level, a piano bar above it, and a proper jazz club on top for the weekend bands - South London's closest answer to a Soho jazz supper club, at Kennington prices.",
+    angle: "room",
+    opSummary: "Live music most nights; club shows are ticketed separately from dinner (usually £10-20), so book the table and the show together. Piano bar sets are typically free.",
+    noise: "moderate",
+    goodFor: "date, groups, celebration",
+    bookingLead: "days",
+    website: "https://toulouselautrec.co.uk/",
+    lists: "live-jazz",
+    source: "Jazz-dining pass 2026-08-21; venue's own site, CAMRA and Time Out cross-checked.",
+  },
+  {
+    ...brit, slug: "bulls-head-barnes", name: "The Bull's Head",
+    style: "Riverside gastropub with a dedicated jazz room",
+    venueFormat: "Gastropub", chainType: "independent",
+    hood: "Barnes", borough: "Richmond upon Thames", areaGuide: "",
+    address: "373 Lonsdale Road",
+    priceBand: "££",
+    setting: "riverside",
+    whyGo: "A jazz venue since 1959 - the same year Ronnie Scott's opened - and once nicknamed the suburban Ronnie Scott's: Coleman Hawkins, Ben Webster and Stan Tracey all played the back room, and a young Mick Jagger appeared here too. The music room still runs seven nights a week behind a working Young's gastropub on the Thames towpath.",
+    angle: "origin",
+    opSummary: "Music room seats around 70 and is ticketed separately from the pub; the dining rooms and riverside bar are normal pub service. Check the gig listing before travelling - the room is the point.",
+    noise: "moderate",
+    goodFor: "date, groups, solo",
+    bookingLead: "days",
+    website: "https://www.thebullsheadbarnes.com/",
+    signals: "Jazz venue since 1959",
+    lists: "live-jazz, historic-pubs",
+    source: "Jazz-dining pass 2026-08-21; venue's own site, Wikipedia and Jazzwise cross-checked.",
+  },
+  {
+    ...brit, slug: "the-montpelier", name: "The Montpelier",
+    style: "Corner pub with Sunday-night jazz",
+    venueFormat: "Pub", chainType: "independent",
+    hood: "Peckham", borough: "Southwark", areaGuide: "peckham-area-guide",
+    address: "Choumert Road",
+    priceBand: "££",
+    specialities: "roast",
+    whyGo: "A Peckham corner local where the Sunday roast comes with a live jazz trio from 7.30pm - the current kitchen residency (Rocco) grills whole fish and shucks some of the better oysters in South London the rest of the week.",
+    angle: "dish",
+    signature: "Sunday roast with live jazz",
+    opSummary: "Jazz is SUNDAYS ONLY, from 7.30pm - the rest of the week is quiz nights and DJs. The kitchen is a residency and changes hands, so check who is cooking before recommending the food specifically.",
+    noise: "moderate",
+    goodFor: "date, groups, families",
+    bookingLead: "same-day",
+    website: "https://themontpelier.net/",
+    lists: "live-jazz",
+    source: "Jazz-dining pass 2026-08-21; venue's own site, Londonist and DesignMyNight cross-checked. Kitchen residency detail is perishable.",
   },
 ];
 
