@@ -137,7 +137,17 @@ for (const f of files) {
     `  ${mb(size)} -> ${mb(buf.length)}  (${Math.round((1 - buf.length / size) * 100)}% smaller)  ` +
     `${meta.width}px${needsResize ? ` -> ${MAX_WIDTH}px` : ""}  ${path.relative(ROOT, f)}`,
   );
-  if (WRITE) fs.writeFileSync(f, buf);
+  // Write-then-rename, not a direct overwrite. sharp(f) above still holds a
+  // native (libvips) handle on f when this runs - on Windows that handle can
+  // outlive the resolved promise long enough that an in-place writeFileSync
+  // hits EBUSY/UNKNOWN. A rename does not require the old handle to be gone,
+  // and it is atomic, so a crash mid-write cannot leave a half-written file
+  // in an original that git has never seen.
+  if (WRITE) {
+    const tmp = `${f}.tmp${process.pid}`;
+    fs.writeFileSync(tmp, buf);
+    fs.renameSync(tmp, f);
+  }
   after += buf.length;
   changed++;
   if (buf.length > WARN_BYTES) stillBig.push([f, buf.length]);
