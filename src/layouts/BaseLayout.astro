@@ -2,6 +2,8 @@
 import { activeSite } from "../sites";
 import SiteFooter from "../components/SiteFooter.astro";
 import SiteHeader from "../components/SiteHeader.astro";
+import "@fontsource-variable/fraunces";
+import "@fontsource-variable/hanken-grotesk";
 import "../styles/global.css";
 
 interface Props {
@@ -90,7 +92,7 @@ const jsonLd = JSON.stringify(
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
-    <meta name="theme-color" content="#132a38" />
+    <meta name="theme-color" content="#0e1b2c" />
     {googleVerification && (
       <meta name="google-site-verification" content={googleVerification} />
     )}

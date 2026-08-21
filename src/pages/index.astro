@@ -1,11 +1,14 @@
 ---
 import { Image } from "astro:assets";
 import { getCollection } from "astro:content";
-import londonHero from "../assets/landing/london-westminster-hero.png";
+import londonHero from "../assets/landing/westminster-golden-hour.jpg";
 import oysterHero from "../assets/articles/oyster-card/oyster-visitor-card.jpg";
 import areasHero from "../assets/articles/best-areas-to-visit-london/best-areas-to-visit-london.jpg";
 import airportHero from "../assets/articles/heathrow-airport/heathrow-terminal-5.jpg";
 import itineraryHero from "../assets/articles/three-days-in-london-itinerary/three-days-in-london-itinerary.jpg";
+import eatHero from "../assets/articles/eat-in-london-guide/eat-in-london-guide.jpg";
+import tubeHero from "../assets/articles/london-underground/piccadilly-circus-underground.jpg";
+import simHero from "../assets/articles/travel-sim-esim-guide/travel-sim-esim-guide.jpg";
 import ArticleCard from "../components/ArticleCard.astro";
 import SectionHeading from "../components/SectionHeading.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
@@ -36,15 +39,24 @@ const heroTitle =
   activeSite.id === "london"
     ? "A Geek's Guide to London."
     : "Clear answers for smoother journeys.";
+
+const topicTiles = [
+  { label: "Eat & Drink", href: "/topics/food-and-drink/", image: eatHero },
+  { label: "Areas", href: "/topics/london-areas/", image: areasHero },
+  { label: "Itineraries", href: "/topics/london-itineraries/", image: itineraryHero },
+  { label: "Transport", href: "/topics/getting-around-london/", image: tubeHero },
+  { label: "SIM & eSIM", href: "/topics/travel-sim-cards/", image: simHero },
+];
 ---
 
 <BaseLayout>
-  <section class="hero hero--has-bg">
+  <!-- ============================================================ hero -->
+  <section class="hero">
     <div class="hero__bg">
       <Image
         src={londonHero}
-        alt="Elizabeth Tower and Westminster Bridge illuminated beside the Thames at blue hour"
-        widths={[720, 1080, 1440, 1920]}
+        alt="The Houses of Parliament, Elizabeth Tower and Westminster Bridge lit by low golden sunlight from across the Thames"
+        widths={[720, 1080, 1440, 1920, 2560]}
         sizes="100vw"
         loading="eager"
       />
@@ -52,45 +64,67 @@ const heroTitle =
     </div>
     <div class="container hero__content">
       <div class="hero__copy">
-        <p class="eyebrow">{activeSite.accentLabel}</p>
+        <p class="eyebrow eyebrow--on-dark">{activeSite.accentLabel}</p>
         <h1>{heroTitle}</h1>
         <p class="hero__subtitle">
           We do the research so you can focus on having fun.
         </p>
         <div class="hero__actions">
-          <a class="button button--primary" href="/guides/">Explore all guides</a>
-          <a class="button button--hero-secondary" href="/articles/london-itineraries-by-days-and-interests/">Plan your trip</a>
+          <a class="button" href="/guides/">Explore all guides</a>
+          <a class="button button--ghost-dark" href="/articles/london-itineraries-by-days-and-interests/">Plan your trip</a>
         </div>
       </div>
       <div class="hero__caption">
-        Elizabeth Tower and Westminster Bridge at blue hour
+        The Houses of Parliament and Westminster Bridge from the Thames
       </div>
     </div>
   </section>
 
-  <!-- Start Here: 4 Essential Guides -->
+  <!-- ================================================== topic tiles -->
+  <section class="topics" aria-label="Browse by topic">
+    <div class="container">
+      <ul class="topics__rail">
+        {topicTiles.map((tile) => (
+          <li>
+            <a class="topic-tile" href={tile.href}>
+              <Image
+                src={tile.image}
+                alt=""
+                widths={[360, 540]}
+                sizes="(max-width: 48rem) 70vw, 15rem"
+                loading="lazy"
+              />
+              <span class="topic-tile__label">{tile.label}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ==================================================== start here -->
   <section class="section start-here">
     <div class="container">
       <SectionHeading
-        eyebrow="START HERE"
-        title="Essential London Travel Guides"
+        eyebrow="Start here"
+        title="Essential London travel guides"
         description="First time in London? Start with our most popular guides for transport, neighbourhoods, and itineraries."
       />
-      <div class="grid grid--4">
-        <a href="/articles/oyster-card-guide-london/" class="start-card">
+      <div class="start-grid">
+        <a href="/articles/oyster-card-guide-london/" class="start-card start-card--feature">
           <div class="start-card__image">
             <Image
               src={oysterHero}
               alt="Yellow Oyster visitor card reader"
-              widths={[480, 720]}
-              sizes="(max-width: 54rem) 100vw, 25vw"
+              widths={[720, 1080]}
+              sizes="(max-width: 54rem) 100vw, 50vw"
               loading="lazy"
             />
           </div>
           <div class="start-card__body">
-            <p class="eyebrow">FARES & TICKETS</p>
+            <p class="eyebrow">Fares &amp; tickets</p>
             <h3>Which Transport Ticket Do I Need?</h3>
-            <p>Oyster cards vs Contactless payment & daily capping explained.</p>
+            <p>Oyster cards vs contactless payment &amp; daily capping explained.</p>
             <span class="start-card__link">Read guide &rarr;</span>
           </div>
         </a>
@@ -105,9 +139,9 @@ const heroTitle =
             />
           </div>
           <div class="start-card__body">
-            <p class="eyebrow">NEIGHBOURHOODS</p>
+            <p class="eyebrow">Neighbourhoods</p>
             <h3>Best Areas to Visit in London</h3>
-            <p>The top 7 neighbourhoods compared for first-time visitors.</p>
+            <p>The top neighbourhoods compared for first-time visitors.</p>
             <span class="start-card__link">Read guide &rarr;</span>
           </div>
         </a>
@@ -122,9 +156,9 @@ const heroTitle =
             />
           </div>
           <div class="start-card__body">
-            <p class="eyebrow">AIRPORTS</p>
+            <p class="eyebrow">Airports</p>
             <h3>Airport Transfer Cheat Sheets</h3>
-            <p>The fastest and cheapest routes from Heathrow, Gatwick & Stansted.</p>
+            <p>The fastest and cheapest routes from Heathrow, Gatwick &amp; Stansted.</p>
             <span class="start-card__link">Read guide &rarr;</span>
           </div>
         </a>
@@ -139,8 +173,8 @@ const heroTitle =
             />
           </div>
           <div class="start-card__body">
-            <p class="eyebrow">ITINERARIES</p>
-            <h3>3-Day & 5-Day London Itineraries</h3>
+            <p class="eyebrow">Itineraries</p>
+            <h3>3-Day &amp; 5-Day London Itineraries</h3>
             <p>Optimised route plans to see the best sights without rushing.</p>
             <span class="start-card__link">Read guide &rarr;</span>
           </div>
@@ -149,12 +183,12 @@ const heroTitle =
     </div>
   </section>
 
-  <!-- GetYourGuide Section -->
+  <!-- =========================================================== GYG -->
   <section class="gyg-home section" aria-label="London activities">
     <div class="container">
       <SectionHeading
-        eyebrow="CURATED EXPERIENCES"
-        title="Top London Tours & Sights"
+        eyebrow="Curated experiences"
+        title="Top London Tours &amp; Sights"
         description="Book skip-the-line tickets and top-rated tours directly through our trusted travel partners."
       />
       <div
@@ -164,6 +198,7 @@ const heroTitle =
     </div>
   </section>
 
+  <!-- ======================================================== latest -->
   <section id="articles" class="section">
     <div class="container">
       <SectionHeading
@@ -191,50 +226,56 @@ const heroTitle =
     </div>
   </section>
 
+  <!-- ========================================================= about -->
   <section id="about" class="section about">
-    <div class="container">
+    <div class="container about__inner">
       <div class="about__header">
-        <p class="eyebrow">ABOUT LONDON TRAVEL GEEK</p>
-        <h2>Independent, No-Nonsense London Advice</h2>
+        <p class="eyebrow eyebrow--on-dark">About London Travel Geek</p>
+        <h2>Independent, no-nonsense London advice.</h2>
       </div>
       <div class="about__content">
         <p>
           Navigating London shouldn't feel like a maths problem. We dig past the marketing fluff, test every route, and break down complex TfL fares, airport links, and neighbourhood choices into clear, practical advice.
         </p>
         <p>
-          No sponsored rankings, no confusing jargon—just honest guidance to save you time and money.
+          No sponsored rankings, no confusing jargon &mdash; just honest guidance to save you time and money.
         </p>
       </div>
     </div>
   </section>
 
+  <!-- ==================================================== categories -->
   <section id="categories" class="section categories">
     <div class="container">
       <SectionHeading
-        eyebrow="EXPLORE BY TOPIC"
-        title="Find Exactly What You Need"
-        description="From Oyster card hacks and airport transfers to neighbourhood breakdowns and daily itineraries—browse our guides by category."
+        eyebrow="Explore by topic"
+        title="Find exactly what you need"
+        description="From Oyster card hacks and airport transfers to neighbourhood breakdowns and daily itineraries — browse our guides by category."
       />
       <div class="category-grid">
-        {categoryGroups.map((category, index) => (
-          <article class="category-card slot">
-            <span>{String(index + 1).padStart(2, "0")}</span>
-            <p class="category-card__count">{category.count} {category.count === 1 ? "guide" : "guides"}</p>
+        {categoryGroups.map((category) => (
+          <a class="category-card" href={categoryHref(category.label)}>
+            <span class="category-card__count">{category.count}</span>
             <h3>{category.label}</h3>
-            <a href={categoryHref(category.label)}>View all {category.count} guides &rarr;</a>
-          </article>
+            <span class="category-card__cta">
+              View {category.count === 1 ? "the guide" : `all ${category.count} guides`}
+              <svg width="14" height="14" viewBox="0 0 16 16" aria-hidden="true">
+                <path d="M3 8h10M9 4l4 4-4 4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+              </svg>
+            </span>
+          </a>
         ))}
       </div>
     </div>
   </section>
-
 </BaseLayout>
 
 <style>
+  /* -------------------------------------------------------------- hero --- */
   .hero {
     position: relative;
     width: 100%;
-    background: var(--ink, #132a38);
+    background: var(--chrome);
     color: #ffffff;
   }
 
@@ -248,179 +289,225 @@ const heroTitle =
     width: 100%;
     height: 100%;
     object-fit: cover;
-    object-position: center 35%;
+    /* Both values are measured against the source frame, not guessed.
+       Vertical: Elizabeth Tower's spire tip sits at 7.8% of image height.
+       A wide desktop hero is shallow, so it crops hard vertically - at 45%
+       the crop began around 18% and beheaded the tower. 8% keeps the tip
+       (plus a little sky) in shot across the whole desktop range. The lost
+       foreground water is no loss: the bottom sits under the dark gradient.
+       Horizontal: only bites on narrow screens, where the crop is severe -
+       88% pulls it right so the tower (~82-92% across) survives on a phone.
+       Portrait viewports have no vertical crop at all, so the 8% is
+       desktop-only in effect. */
+    object-position: 88% 8%;
   }
 
   .hero__overlay {
     position: absolute;
     inset: 0;
     z-index: 2;
-    background: linear-gradient(
-      180deg,
-      rgba(15, 23, 32, 0.60) 0%,
-      rgba(15, 23, 32, 0.85) 65%,
-      rgba(15, 23, 32, 0.96) 100%
-    );
+    background:
+      linear-gradient(
+        180deg,
+        rgb(14 27 44 / 0.55) 0%,
+        rgb(14 27 44 / 0.35) 40%,
+        rgb(14 27 44 / 0.92) 100%
+      );
   }
 
   .hero__content {
     position: relative;
     z-index: 3;
-    padding-block: clamp(3.5rem, 8vw, 6.5rem);
+    padding-block: clamp(4.5rem, 11vw, 9rem) clamp(3rem, 6vw, 4.5rem);
   }
 
   .hero__copy {
     display: grid;
     gap: var(--space-3);
-    max-width: 44rem;
-  }
-
-  .hero__copy .eyebrow {
-    color: #f59e0b;
+    max-width: 46rem;
   }
 
   .hero__copy h1 {
     color: #ffffff;
-    font-size: clamp(2.6rem, 7vw, 5.2rem);
-    line-height: 1.08;
-    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.4);
+    font-size: clamp(2.9rem, 8vw, 6rem);
+    line-height: 1.02;
+    text-shadow: 0 2px 24px rgb(0 0 0 / 0.35);
   }
 
   .hero__subtitle {
-    max-width: 39rem;
-    color: rgba(255, 255, 255, 0.92);
-    font-size: clamp(1.1rem, 2vw, 1.3rem);
+    max-width: 38rem;
+    color: rgb(255 255 255 / 0.92);
+    font-size: clamp(1.1rem, 2vw, 1.35rem);
     line-height: 1.55;
-    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
   }
 
   .hero__actions {
     display: flex;
     flex-wrap: wrap;
     gap: 0.85rem;
-    margin-top: 0.75rem;
-  }
-
-  .button--primary {
-    background: #e63946;
-    color: #ffffff;
-    border-color: #e63946;
-    font-weight: 800;
-    box-shadow: 0 4px 14px rgba(230, 57, 70, 0.35);
-  }
-
-  .button--primary:hover {
-    background: #b52d36;
-    border-color: #b52d36;
-    color: #ffffff;
-  }
-
-  .button--hero-secondary {
-    background: rgba(255, 255, 255, 0.15);
-    color: #ffffff;
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    backdrop-filter: blur(6px);
-    font-weight: 800;
-  }
-
-  .button--hero-secondary:hover {
-    background: rgba(255, 255, 255, 0.28);
-    color: #ffffff;
-    border-color: rgba(255, 255, 255, 0.5);
+    margin-top: 0.9rem;
   }
 
   .hero__caption {
-    margin-top: 2.25rem;
-    color: rgba(255, 255, 255, 0.65);
+    margin-top: clamp(2.5rem, 6vw, 4.5rem);
+    color: rgb(255 255 255 / 0.55);
     font-size: 0.75rem;
+    letter-spacing: 0.04em;
   }
 
-  /* Start Here Image Cards Grid */
-  .grid--4 {
+  /* ------------------------------------------------------- topic tiles --- */
+  .topics {
+    background: var(--chrome);
+    padding-block: 0 var(--space-6);
+  }
+
+  .topics__rail {
     display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(5, minmax(0, 1fr));
     gap: var(--space-3);
+  }
+
+  .topic-tile {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    border-radius: var(--radius-md);
+    aspect-ratio: 4 / 5;
+    text-decoration: none;
+    box-shadow: 0 10px 30px rgb(5 12 22 / 0.35);
+    transition: translate var(--transition), box-shadow var(--transition);
+  }
+
+  .topic-tile:hover {
+    translate: 0 -4px;
+    box-shadow: 0 18px 44px rgb(5 12 22 / 0.5);
+  }
+
+  .topic-tile :global(img) {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: scale var(--transition-slow);
+  }
+
+  .topic-tile:hover :global(img) {
+    scale: 1.06;
+  }
+
+  .topic-tile__label {
+    position: absolute;
+    inset: auto 0 0 0;
+    padding: 2.4rem 0.95rem 0.85rem;
+    background: linear-gradient(to top, rgb(5 12 22 / 0.9), transparent);
+    color: #ffffff;
+    font-size: 1.02rem;
+    font-variation-settings: "wght" 700;
+    letter-spacing: 0.02em;
+  }
+
+  /* -------------------------------------------------------- start here --- */
+  .start-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-rows: auto auto;
+    gap: var(--space-4);
   }
 
   .start-card {
     display: flex;
     flex-direction: column;
-    height: 100%;
-    background: var(--surface);
-    border: 1px solid var(--line);
-    border-radius: var(--radius-md);
     overflow: hidden;
+    border: 1px solid var(--line);
+    border-radius: var(--card-radius);
+    background: var(--surface);
     text-decoration: none;
-    transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+    box-shadow: var(--shadow-sm);
+    transition: translate var(--transition), box-shadow var(--transition), border-color var(--transition);
+  }
+
+  .start-card--feature {
+    grid-row: span 2;
+    grid-column: 1;
+  }
+
+  .start-card:not(.start-card--feature) {
+    flex-direction: row;
+    grid-column: span 2;
   }
 
   .start-card:hover {
-    transform: translateY(-4px);
-    border-color: var(--accent);
-    box-shadow: 0 10px 28px rgba(19, 42, 56, 0.12);
+    translate: 0 -4px;
+    border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
+    box-shadow: var(--shadow-md);
   }
 
   .start-card__image {
     position: relative;
-    width: 100%;
-    aspect-ratio: 16 / 10;
     overflow: hidden;
-    background: var(--ink);
+    flex-shrink: 0;
+    background: var(--chrome);
+  }
+
+  .start-card--feature .start-card__image {
+    aspect-ratio: 16 / 10;
+  }
+
+  .start-card:not(.start-card--feature) .start-card__image {
+    width: clamp(9rem, 18vw, 15rem);
   }
 
   .start-card__image :global(img) {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transition: transform 0.3s ease;
+    transition: scale var(--transition-slow);
   }
 
   .start-card:hover .start-card__image :global(img) {
-    transform: scale(1.06);
+    scale: 1.05;
   }
 
   .start-card__body {
     display: flex;
-    flex-direction: column;
     flex: 1;
-    padding: 1.15rem;
-    gap: 0.35rem;
+    flex-direction: column;
+    gap: 0.4rem;
+    padding: 1.25rem 1.35rem;
   }
 
-  .start-card__body .eyebrow {
-    color: var(--accent);
-    font-size: 0.72rem;
-    letter-spacing: 0.06em;
-    font-weight: 800;
+  .start-card--feature .start-card__body {
+    padding: 1.5rem 1.6rem;
   }
 
   .start-card__body h3 {
-    margin: 0;
     color: var(--ink);
-    font-size: 1.05rem;
-    font-weight: 800;
-    line-height: 1.3;
+    line-height: 1.22;
+  }
+
+  .start-card--feature h3 {
+    font-size: clamp(1.4rem, 2.4vw, 1.85rem);
   }
 
   .start-card__body p:not(.eyebrow) {
-    margin: 0;
-    color: var(--muted);
-    font-size: 0.86rem;
-    line-height: 1.45;
     flex: 1;
+    color: var(--muted);
+    font-size: 0.94rem;
+    line-height: 1.5;
   }
 
   .start-card__link {
-    margin-top: 0.6rem;
+    margin-top: 0.7rem;
     color: var(--accent);
-    font-size: 0.85rem;
-    font-weight: 800;
+    font-size: 0.9rem;
+    font-variation-settings: "wght" 700;
   }
 
   .start-card:hover .start-card__link {
     text-decoration: underline;
+    text-underline-offset: 0.2em;
   }
 
+  /* --------------------------------------------------------------- GYG --- */
   .gyg-home {
     padding-bottom: var(--space-5);
   }
@@ -432,42 +519,43 @@ const heroTitle =
     border: 0;
   }
 
-  .advert-wrap {
-    padding-block: var(--space-3);
-  }
-
-  .categories {
-    background: color-mix(in srgb, var(--surface-strong) 58%, transparent);
-  }
-
-  /* About Section & Badges */
+  /* ------------------------------------------------------------- about --- */
   .about {
-    background: var(--ink);
-    color: var(--surface);
-    padding-block: var(--space-7);
+    background: var(--chrome);
+    color: var(--chrome-text);
   }
 
-  .about .eyebrow {
-    color: #f59e0b;
+  .about__inner {
+    display: grid;
+    grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+    gap: var(--space-5);
+    align-items: start;
+  }
+
+  .about__header {
+    display: grid;
+    gap: 0.6rem;
   }
 
   .about__header h2 {
     color: #ffffff;
-    font-size: clamp(2rem, 4vw, 3rem);
-    margin-top: 0.4rem;
   }
 
   .about__content {
     display: grid;
     gap: 1rem;
-    max-width: 48rem;
-    margin-top: 1.25rem;
+    padding-top: 0.4rem;
   }
 
   .about__content p {
-    color: color-mix(in srgb, var(--surface) 82%, transparent);
-    font-size: 1.1rem;
-    line-height: 1.65;
+    color: color-mix(in srgb, var(--chrome-text) 88%, transparent);
+    font-size: 1.08rem;
+    line-height: 1.7;
+  }
+
+  /* -------------------------------------------------------- categories --- */
+  .categories {
+    background: color-mix(in srgb, var(--surface-strong) 55%, var(--bg));
   }
 
   .category-grid {
@@ -478,55 +566,113 @@ const heroTitle =
 
   .category-card {
     display: grid;
-    min-height: 15rem;
-    align-content: end;
-    gap: 0.4rem;
+    gap: 0.5rem;
+    align-content: start;
     padding: var(--space-4);
+    border: 1px solid var(--line);
+    border-radius: var(--card-radius);
+    background: var(--surface);
+    text-decoration: none;
+    box-shadow: var(--shadow-sm);
+    transition: translate var(--transition), box-shadow var(--transition), border-color var(--transition);
   }
 
-  .category-card > span {
-    position: absolute;
-    top: 1rem;
-    left: 1rem;
-    color: var(--accent);
-    font-family: var(--display);
-    font-size: 1.5rem;
-  }
-
-  .category-card p,
-  .category-card a {
-    color: var(--muted);
-    font-size: 0.85rem;
+  .category-card:hover {
+    translate: 0 -3px;
+    border-color: color-mix(in srgb, var(--accent) 40%, var(--line));
+    box-shadow: var(--shadow-md);
   }
 
   .category-card__count {
-    color: var(--accent) !important;
-    font-weight: 800;
+    color: var(--accent);
+    font-family: var(--display);
+    font-variation-settings: "opsz" 40, "wght" 600;
+    font-size: 2rem;
+    line-height: 1;
   }
 
-  .category-card a {
+  .category-card h3 {
     color: var(--ink);
-    font-weight: 700;
-    line-height: 1.35;
-    text-decoration-color: color-mix(in srgb, var(--accent) 62%, transparent);
-    text-underline-offset: 0.18em;
+    font-size: 1.15rem;
+    line-height: 1.25;
   }
 
+  .category-card__cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-top: 0.35rem;
+    color: var(--muted);
+    font-size: 0.85rem;
+    font-variation-settings: "wght" 600;
+    transition: color var(--transition);
+  }
+
+  .category-card__cta svg {
+    translate: 0 0;
+    transition: translate var(--transition);
+  }
+
+  .category-card:hover .category-card__cta {
+    color: var(--accent);
+  }
+
+  .category-card:hover .category-card__cta svg {
+    translate: 3px 0;
+  }
+
+  /* ------------------------------------------------------- breakpoints --- */
   @media (max-width: 64rem) {
-    .grid--4 {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+    .topics__rail {
+      display: flex;
+      margin-inline: calc(-1 * (100vw - min(100vw - 2.5rem, var(--page-width))) / 2);
+      padding-inline: calc((100vw - min(100vw - 2.5rem, var(--page-width))) / 2);
+      overflow-x: auto;
+      scroll-snap-type: x mandatory;
+      scrollbar-width: none;
     }
-  }
 
-  @media (max-width: 54rem) {
+    .topics__rail::-webkit-scrollbar {
+      display: none;
+    }
+
+    .topics__rail li {
+      flex: 0 0 clamp(11rem, 40vw, 14rem);
+      scroll-snap-align: start;
+    }
+
+    .about__inner {
+      grid-template-columns: 1fr;
+    }
+
     .category-grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
   }
 
-  @media (max-width: 36rem) {
-    .grid--4 {
+  @media (max-width: 54rem) {
+    .start-grid {
       grid-template-columns: 1fr;
+    }
+
+    .start-card--feature {
+      grid-row: auto;
+      grid-column: auto;
+    }
+
+    .start-card:not(.start-card--feature) {
+      grid-column: auto;
+    }
+  }
+
+  @media (max-width: 36rem) {
+    .start-card:not(.start-card--feature) {
+      flex-direction: column;
+    }
+
+    .start-card:not(.start-card--feature) .start-card__image {
+      width: 100%;
+      aspect-ratio: 16 / 9;
     }
 
     .category-grid {

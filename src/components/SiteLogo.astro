@@ -58,24 +58,30 @@ const { site, variant = "light" } = Astro.props;
     display: inline-flex;
     align-items: center;
     gap: 0.35rem;
-    font-family: var(--display), "Outfit", "Arial Black", sans-serif;
-    font-weight: 900;
-    font-size: clamp(1.35rem, 2.6vw, 1.9rem);
+    font-family: var(--body, "Segoe UI"), sans-serif;
+    font-weight: 800;
+    font-variation-settings: "wght" 800;
+    font-size: clamp(1.2rem, 2.3vw, 1.55rem);
     line-height: 1;
-    letter-spacing: -0.02em;
+    letter-spacing: -0.01em;
     text-transform: uppercase;
     white-space: nowrap;
   }
 
   .logo--light .logo__black {
-    color: #132a38;
+    color: var(--ink, #0e1b2c);
   }
 
   .logo--dark .logo__black {
     color: #ffffff;
   }
 
-  .logo__red {
-    color: #e63946;
+  /* Bus red on paper; lifted a step on the ink ground so it stays vivid. */
+  .logo--light .logo__red {
+    color: var(--accent, #d6392f);
+  }
+
+  .logo--dark .logo__red {
+    color: #e8564c;
   }
 </style>

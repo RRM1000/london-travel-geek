@@ -30,16 +30,18 @@ const walkabilityLabel = `${walkability} out of 5`;
 ---
 
 <section class="at-a-glance" aria-labelledby="at-a-glance-title">
-  <h2 id="at-a-glance-title" class="at-a-glance__title">At a glance</h2>
+  <header class="at-a-glance__head">
+    <h2 id="at-a-glance-title" class="at-a-glance__title">At a glance</h2>
+  </header>
 
   <dl class="at-a-glance__grid">
-    <div class="at-a-glance__item">
+    <div class="at-a-glance__item at-a-glance__item--wide">
       <dt>Vibe</dt>
       <dd>{vibe}</dd>
     </div>
     <div class="at-a-glance__item">
       <dt>Time needed</dt>
-      <dd>{timeNeeded}</dd>
+      <dd class="at-a-glance__stat">{timeNeeded}</dd>
     </div>
     <div class="at-a-glance__item">
       <dt>Best day</dt>
@@ -47,7 +49,7 @@ const walkabilityLabel = `${walkability} out of 5`;
     </div>
     <div class="at-a-glance__item">
       <dt>Travel zone</dt>
-      <dd>{zone}</dd>
+      <dd class="at-a-glance__stat at-a-glance__stat--big">{zone}</dd>
     </div>
     <div class="at-a-glance__item">
       <dt>Walkability</dt>
@@ -68,7 +70,7 @@ const walkabilityLabel = `${walkability} out of 5`;
     </div>
     <div class="at-a-glance__item">
       <dt>Typical spend</dt>
-      <dd>{budget}</dd>
+      <dd class="at-a-glance__stat at-a-glance__stat--big">{budget}</dd>
     </div>
   </dl>
 
@@ -84,8 +86,11 @@ const walkabilityLabel = `${walkability} out of 5`;
       <ul class="at-a-glance__stations">
         {nearestStations.map((station) => (
           <li>
-            <strong>{station.name}</strong>
-            <span>{station.lines.join(", ")}</span>
+            <span class="at-a-glance__roundel" aria-hidden="true"></span>
+            <span class="at-a-glance__station-body">
+              <strong>{station.name}</strong>
+              <span>{station.lines.join(" · ")}</span>
+            </span>
           </li>
         ))}
       </ul>
@@ -99,89 +104,139 @@ const walkabilityLabel = `${walkability} out of 5`;
      which compiles to specificity 0,2,1 and would otherwise beat the single
      scoped class this component would normally need. */
   .at-a-glance {
+    overflow: hidden;
     margin: var(--space-5) 0;
-    padding: var(--space-4);
-    background: var(--surface);
     border: 1px solid var(--line);
-    border-radius: var(--radius-md);
+    border-radius: var(--radius-lg);
+    background: var(--surface);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .at-a-glance .at-a-glance__head {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1.1rem var(--space-4) 0;
+  }
+
+  /* The rule runs from the title to the card edge - a labelled divider,
+     not a floating caption. */
+  .at-a-glance .at-a-glance__head::after {
+    flex: 1;
+    height: 1px;
+    background: var(--line);
+    content: "";
   }
 
   .at-a-glance .at-a-glance__title {
-    margin: 0 0 var(--space-3);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0;
+    color: var(--ink);
     font-family: var(--body);
-    font-size: 0.75rem;
-    font-weight: 700;
-    letter-spacing: 0.1em;
+    font-size: 0.76rem;
+    font-variation-settings: "wght" 700;
+    letter-spacing: 0.14em;
     text-transform: uppercase;
-    color: var(--muted);
+  }
+
+  /* A little roundel in front of the title - the one decorative note. */
+  .at-a-glance .at-a-glance__title::before {
+    width: 0.6rem;
+    height: 0.6rem;
+    border: 2.5px solid var(--accent);
+    border-radius: 50%;
+    content: "";
   }
 
   .at-a-glance .at-a-glance__grid {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: var(--space-3) var(--space-4);
+    gap: var(--space-4) var(--space-4);
     margin: 0;
-    padding: 0;
+    padding: var(--space-4);
   }
 
   .at-a-glance .at-a-glance__item dt {
-    font-size: 0.72rem;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
     color: var(--muted);
+    font-size: 0.7rem;
+    font-variation-settings: "wght" 650;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
   }
 
   .at-a-glance .at-a-glance__item dd {
-    margin: 0.2rem 0 0;
-    font-size: 0.95rem;
-    font-weight: 600;
-    line-height: 1.35;
+    margin: 0.3rem 0 0;
+    font-size: 0.97rem;
+    font-variation-settings: "wght" 550;
+    line-height: 1.45;
+  }
+
+  /* Hard stats get the display face - they should read like numbers on a
+     departure board, not body copy. */
+  .at-a-glance .at-a-glance__stat {
+    font-family: var(--display);
+    font-variation-settings: "opsz" 30, "wght" 560;
+    font-size: 1.25rem;
+    line-height: 1.15;
+  }
+
+  .at-a-glance .at-a-glance__stat--big {
+    font-size: 1.7rem;
+    color: var(--ink);
   }
 
   .at-a-glance__meter {
     display: inline-flex;
-    gap: 3px;
+    gap: 4px;
+    align-items: center;
     vertical-align: middle;
   }
 
   .at-a-glance__pip {
-    width: 14px;
-    height: 6px;
+    width: 1.05rem;
+    height: 0.5rem;
     border-radius: 999px;
-    background: var(--line);
+    background: var(--surface-strong);
+    box-shadow: inset 0 0 0 1px var(--line);
   }
 
   .at-a-glance__pip--on {
     background: var(--accent);
+    box-shadow: none;
   }
 
-  .at-a-glance__meter-value {
-    margin-left: 0.4rem;
-    font-size: 0.9rem;
+  .at-a-glance .at-a-glance__meter-value {
+    margin-left: 0.5rem;
     color: var(--muted);
+    font-size: 0.88rem;
+    font-variation-settings: "wght" 650;
   }
 
+  /* Footer band: tinted, so the card reads as stats-above, lists-below. */
   .at-a-glance .at-a-glance__lists {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: var(--space-4);
-    margin-top: var(--space-3);
-    padding-top: var(--space-3);
+    padding: var(--space-4);
     border-top: 1px solid var(--line);
+    background: color-mix(in srgb, var(--surface-strong) 42%, var(--surface));
   }
 
   .at-a-glance .at-a-glance__label {
-    margin: 0 0 0.5rem;
-    font-size: 0.72rem;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
+    margin: 0 0 0.65rem;
     color: var(--muted);
+    font-size: 0.7rem;
+    font-variation-settings: "wght" 650;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
   }
 
   .at-a-glance .at-a-glance__tags {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.35rem;
+    gap: 0.45rem;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -189,35 +244,49 @@ const walkabilityLabel = `${walkability} out of 5`;
 
   .at-a-glance .at-a-glance__tags li {
     display: inline-block;
-    padding: 0.15rem 0.55rem;
-    font-size: 0.82rem;
-    background: var(--surface-strong);
+    padding: 0.28rem 0.7rem;
+    border: 1px solid var(--line);
     border-radius: 999px;
+    background: var(--surface);
+    font-size: 0.84rem;
+    font-variation-settings: "wght" 600;
   }
 
   .at-a-glance .at-a-glance__stations {
-    display: block;
+    display: grid;
+    gap: 0.65rem;
     margin: 0;
     padding: 0;
     list-style: none;
   }
 
   .at-a-glance .at-a-glance__stations li {
-    display: block;
-    margin: 0 0 0.5rem;
-    font-size: 0.88rem;
+    display: flex;
+    gap: 0.6rem;
+    align-items: baseline;
+    margin: 0;
+    font-size: 0.9rem;
     line-height: 1.35;
-  }
-
-  .at-a-glance .at-a-glance__stations li:last-child {
-    margin-bottom: 0;
   }
 
   .at-a-glance .at-a-glance__stations li::marker {
     content: none;
   }
 
-  .at-a-glance .at-a-glance__stations span {
+  .at-a-glance .at-a-glance__roundel {
+    flex: 0 0 auto;
+    width: 0.55rem;
+    height: 0.55rem;
+    border: 2px solid var(--accent);
+    border-radius: 50%;
+    translate: 0 -1px;
+  }
+
+  .at-a-glance .at-a-glance__station-body strong {
+    font-variation-settings: "wght" 700;
+  }
+
+  .at-a-glance .at-a-glance__station-body span {
     display: block;
     color: var(--muted);
     font-size: 0.82rem;
@@ -226,6 +295,10 @@ const walkabilityLabel = `${walkability} out of 5`;
   @media (max-width: 48rem) {
     .at-a-glance .at-a-glance__grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .at-a-glance .at-a-glance__item--wide {
+      grid-column: 1 / -1;
     }
 
     .at-a-glance .at-a-glance__lists {

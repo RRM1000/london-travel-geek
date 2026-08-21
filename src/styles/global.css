@@ -9,14 +9,20 @@
 
   html {
     scroll-behavior: smooth;
+    /* The header is sticky - keep anchor targets clear of it. */
+    scroll-padding-top: 5.5rem;
   }
 
   body,
   h1,
   h2,
   h3,
+  h4,
   p,
-  ul {
+  ul,
+  ol,
+  figure,
+  blockquote {
     margin: 0;
   }
 
@@ -26,13 +32,16 @@
   }
 
   img,
-  svg {
+  svg,
+  video {
     display: block;
     max-width: 100%;
   }
 
   button,
-  input {
+  input,
+  select,
+  textarea {
     font: inherit;
   }
 }
@@ -47,44 +56,72 @@
     --space-4: 1.5rem;
     --space-5: 2.25rem;
     --space-6: 3.5rem;
-    --space-7: 5rem;
+    --space-7: 5.5rem;
     --radius-sm: 0.5rem;
-    --radius-md: 0.9rem;
-    --radius-lg: 1.4rem;
-    --shadow: 0 18px 48px rgb(15 39 54 / 0.12);
-    --transition: 180ms ease;
+    --radius-md: 1rem;
+    --radius-lg: 1.5rem;
+    --ease: cubic-bezier(0.22, 1, 0.36, 1);
+    --transition: 220ms var(--ease);
+    --transition-slow: 320ms var(--ease);
   }
 
+  /* ------------------------------------------------------ Blue Hour ----
+     London Travel Geek's identity. Derived from the site's own hero
+     photograph - Westminster at blue hour: deep twilight navy for chrome,
+     warm paper for reading, bus-red used sparingly, sodium-lamp amber as
+     the highlight that only ever sits on dark ground. */
   [data-theme="editorial"] {
-    --bg: #f6f3eb;
-    --surface: #fffdfa;
-    --surface-strong: #e7eef2;
-    --ink: #132a38;
-    --muted: #53656f;
-    --accent: #b52d36;
+    --bg: #faf7f2;
+    --surface: #ffffff;
+    --surface-strong: #f0ebe2;
+    --ink: #0e1b2c;
+    --ink-soft: #22344a;
+    --muted: #5a6a7d;
+    --accent: #d6392f;
+    --accent-deep: #b02c24;
     --accent-contrast: #ffffff;
-    --secondary: #08776d;
-    --highlight: #efb83f;
-    --line: #d4d9d5;
-    --display: Georgia, Cambria, "Times New Roman", serif;
-    --body: "Aptos", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    --card-radius: 0.8rem;
+    --secondary: #1d4e89;
+    --highlight: #f2a93b;
+    --line: #e2dbcf;
+    --line-strong: #cbc2b2;
+    --chrome: #0e1b2c;
+    --chrome-soft: #16273c;
+    --chrome-text: #eef2f7;
+    --chrome-muted: #9fb0c4;
+    --display: "Fraunces Variable", Georgia, "Times New Roman", serif;
+    --body: "Hanken Grotesk Variable", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --card-radius: 1rem;
+    --shadow-sm: 0 1px 2px rgb(14 27 44 / 0.06), 0 2px 8px rgb(14 27 44 / 0.05);
+    --shadow-md: 0 2px 6px rgb(14 27 44 / 0.07), 0 12px 32px rgb(14 27 44 / 0.1);
+    --shadow-lg: 0 4px 12px rgb(14 27 44 / 0.09), 0 24px 64px rgb(14 27 44 / 0.16);
   }
 
+  /* The toolkit sister site keeps its teal identity, mapped onto the SAME
+     token names so every shared component renders correctly on both. */
   [data-theme="utility"] {
     --bg: #f7fafa;
     --surface: #ffffff;
-    --surface-strong: #dceff2;
+    --surface-strong: #e4f0f2;
     --ink: #102536;
+    --ink-soft: #24384a;
     --muted: #5a6d78;
     --accent: #007f78;
+    --accent-deep: #00655f;
     --accent-contrast: #ffffff;
     --secondary: #e66b32;
     --highlight: #ffcf5a;
-    --line: #cbdadd;
-    --display: "Trebuchet MS", "Segoe UI", sans-serif;
-    --body: "Segoe UI", Arial, sans-serif;
+    --line: #d4e2e5;
+    --line-strong: #b8ccd0;
+    --chrome: #102536;
+    --chrome-soft: #1b3448;
+    --chrome-text: #eef5f7;
+    --chrome-muted: #94aab6;
+    --display: "Hanken Grotesk Variable", "Trebuchet MS", "Segoe UI", sans-serif;
+    --body: "Hanken Grotesk Variable", "Segoe UI", Arial, sans-serif;
     --card-radius: 1rem;
+    --shadow-sm: 0 1px 2px rgb(16 37 54 / 0.06), 0 2px 8px rgb(16 37 54 / 0.05);
+    --shadow-md: 0 2px 6px rgb(16 37 54 / 0.07), 0 12px 32px rgb(16 37 54 / 0.1);
+    --shadow-lg: 0 4px 12px rgb(16 37 54 / 0.09), 0 24px 64px rgb(16 37 54 / 0.16);
   }
 }
 
@@ -95,27 +132,23 @@
     background: var(--bg);
     color: var(--ink);
     font-family: var(--body);
-    font-size: 1rem;
-    line-height: 1.65;
+    font-size: 1.02rem;
+    line-height: 1.7;
+    font-variation-settings: "wght" 430;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
   }
 
-  body::before {
-    position: fixed;
-    z-index: -1;
-    inset: 0;
-    background:
-      radial-gradient(circle at 8% 2%, color-mix(in srgb, var(--highlight) 12%, transparent), transparent 24rem),
-      radial-gradient(circle at 92% 18%, color-mix(in srgb, var(--secondary) 8%, transparent), transparent 28rem);
-    content: "";
-    pointer-events: none;
-  }
-
   a {
     color: inherit;
-    text-decoration-thickness: 0.08em;
-    text-underline-offset: 0.18em;
+    text-decoration-thickness: 0.07em;
+    text-underline-offset: 0.2em;
+    text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+    transition: text-decoration-color var(--transition), color var(--transition);
+  }
+
+  a:hover {
+    text-decoration-color: var(--accent);
   }
 
   a:focus-visible,
@@ -123,47 +156,60 @@
   input:focus-visible,
   summary:focus-visible {
     outline: 3px solid var(--highlight);
-    outline-offset: 4px;
-    box-shadow: 0 0 0 2px var(--ink);
+    outline-offset: 3px;
+    border-radius: 2px;
   }
 
   h1,
   h2,
-  h3 {
+  h3,
+  h4 {
     font-family: var(--display);
-    line-height: 1.05;
+    font-variation-settings: "opsz" 72, "wght" 560;
+    line-height: 1.04;
+    letter-spacing: -0.015em;
     text-wrap: balance;
   }
 
   h1 {
-    font-size: clamp(2.6rem, 8vw, 6rem);
-    letter-spacing: -0.04em;
+    font-size: clamp(2.5rem, 6.5vw, 4.75rem);
+    letter-spacing: -0.025em;
   }
 
   h2 {
-    font-size: clamp(1.9rem, 4vw, 3.4rem);
-    letter-spacing: -0.03em;
+    font-size: clamp(1.75rem, 3.6vw, 2.75rem);
+    letter-spacing: -0.02em;
   }
 
   h3 {
-    font-size: clamp(1.25rem, 2vw, 1.65rem);
+    font-size: clamp(1.2rem, 2vw, 1.55rem);
+    font-variation-settings: "opsz" 40, "wght" 580;
+  }
+
+  h4 {
+    font-size: 1.08rem;
+    font-variation-settings: "opsz" 24, "wght" 600;
+  }
+
+  strong {
+    font-variation-settings: "wght" 650;
   }
 
   ::selection {
     background: var(--highlight);
-    color: var(--ink);
+    color: var(--chrome);
   }
 }
 
 @layer components {
   .container {
-    width: min(calc(100% - 2rem), var(--page-width));
+    width: min(calc(100% - 2.5rem), var(--page-width));
     margin-inline: auto;
   }
 
   @media (max-width: 48rem) {
     .container {
-      width: min(calc(100% - 1rem), var(--page-width));
+      width: min(calc(100% - 1.5rem), var(--page-width));
     }
   }
 
@@ -173,10 +219,17 @@
 
   .eyebrow {
     color: var(--accent);
-    font-size: 0.74rem;
-    font-weight: 800;
-    letter-spacing: 0.13em;
+    font-family: var(--body);
+    font-size: 0.76rem;
+    font-variation-settings: "wght" 700;
+    letter-spacing: 0.16em;
     text-transform: uppercase;
+  }
+
+  /* On chrome/dark ground the eyebrow switches to amber - red vanishes
+     against the navy, amber is what sodium light does to it. */
+  .eyebrow--on-dark {
+    color: var(--highlight);
   }
 
   .muted {
@@ -185,30 +238,60 @@
 
   .button {
     display: inline-flex;
-    min-height: 2.75rem;
+    min-height: 2.9rem;
     align-items: center;
     justify-content: center;
-    padding: 0.7rem 1.1rem;
-    border: 1px solid var(--accent);
+    gap: 0.45rem;
+    padding: 0.75rem 1.5rem;
+    border: 1.5px solid var(--accent);
     border-radius: 999px;
     background: var(--accent);
     color: var(--accent-contrast);
-    font-weight: 750;
+    font-variation-settings: "wght" 650;
+    letter-spacing: 0.01em;
     line-height: 1;
     text-decoration: none;
+    cursor: pointer;
     transition:
+      background var(--transition),
+      border-color var(--transition),
       translate var(--transition),
       box-shadow var(--transition);
   }
 
   .button:hover {
     translate: 0 -2px;
-    box-shadow: 0 8px 20px color-mix(in srgb, var(--accent) 25%, transparent);
+    background: var(--accent-deep);
+    border-color: var(--accent-deep);
+    box-shadow: 0 10px 26px color-mix(in srgb, var(--accent) 32%, transparent);
+  }
+
+  .button:active {
+    translate: 0 0;
   }
 
   .button--secondary {
     background: transparent;
+    border-color: var(--line-strong);
     color: var(--ink);
+  }
+
+  .button--secondary:hover {
+    background: var(--surface);
+    border-color: var(--ink);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .button--ghost-dark {
+    background: transparent;
+    border-color: color-mix(in srgb, var(--chrome-text) 40%, transparent);
+    color: var(--chrome-text);
+  }
+
+  .button--ghost-dark:hover {
+    background: color-mix(in srgb, var(--chrome-text) 10%, transparent);
+    border-color: var(--chrome-text);
+    box-shadow: none;
   }
 
   .grid {
@@ -220,24 +303,16 @@
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
+  .grid--4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
   .slot {
     position: relative;
     overflow: hidden;
     border: 1px dashed color-mix(in srgb, var(--muted) 55%, transparent);
     border-radius: var(--card-radius);
     background: color-mix(in srgb, var(--surface) 86%, transparent);
-  }
-
-  .slot::after {
-    position: absolute;
-    right: -1.8rem;
-    bottom: -2.8rem;
-    width: 8rem;
-    height: 8rem;
-    border: 1.2rem solid color-mix(in srgb, var(--accent) 8%, transparent);
-    border-radius: 50%;
-    content: "";
-    pointer-events: none;
   }
 
   /* "See all N places to eat and drink in X", injected beneath each area
@@ -252,19 +327,20 @@
     display: inline-flex;
     align-items: baseline;
     gap: 0.4rem;
-    padding: 0.55rem 0.95rem;
-    border: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+    padding: 0.6rem 1.1rem;
+    border: 1.5px solid color-mix(in srgb, var(--accent) 35%, transparent);
     border-radius: 999px;
-    background: color-mix(in srgb, var(--accent) 6%, transparent);
+    background: transparent;
     color: var(--accent);
-    font-weight: 650;
+    font-variation-settings: "wght" 650;
     text-decoration: none;
-    transition: background var(--transition), border-color var(--transition);
+    transition: background var(--transition), border-color var(--transition), color var(--transition);
   }
 
   .area-all-restaurants a:hover {
     border-color: var(--accent);
-    background: color-mix(in srgb, var(--accent) 12%, transparent);
+    background: var(--accent);
+    color: var(--accent-contrast);
   }
 }
 
@@ -280,12 +356,19 @@
     border: 0;
   }
 
+  @media (max-width: 60rem) {
+    .grid--4 {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
   @media (max-width: 48rem) {
     .section {
       padding-block: var(--space-6);
     }
 
-    .grid--3 {
+    .grid--3,
+    .grid--4 {
       grid-template-columns: 1fr;
     }
   }
@@ -296,6 +379,8 @@
     *::after {
       scroll-behavior: auto !important;
       transition-duration: 0.01ms !important;
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
     }
   }
 }

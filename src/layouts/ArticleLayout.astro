@@ -539,16 +539,16 @@ const breadcrumbs = [
     z-index: 2;
     background: linear-gradient(
       180deg,
-      rgba(15, 23, 32, 0.60) 0%,
-      rgba(15, 23, 32, 0.85) 65%,
-      rgba(15, 23, 32, 0.96) 100%
+      rgb(14 27 44 / 0.55) 0%,
+      rgb(14 27 44 / 0.7) 55%,
+      rgb(14 27 44 / 0.94) 100%
     );
   }
 
   .article__hero-banner .article__hero-content {
     position: relative;
     z-index: 3;
-    padding-block: 3.5rem 3rem;
+    padding-block: clamp(3.5rem, 8vw, 6rem) 3rem;
   }
 
   @media (max-width: 48rem) {
@@ -582,7 +582,7 @@ const breadcrumbs = [
   }
 
   .article__hero-banner--has-image .eyebrow {
-    color: #f59e0b;
+    color: var(--highlight);
   }
 
   .article__header h1 {
@@ -1477,11 +1477,19 @@ const breadcrumbs = [
   .article__sidebar {
     display: grid;
     position: sticky;
-    /* Clear the 5rem sticky site header before this sidebar sticks. */
+    /* Clear the sticky site header before this sidebar sticks. */
     top: 6rem;
     align-content: start;
     align-self: start;
     gap: var(--space-4);
+    /* The sidebar must fit the viewport or sticky can never pin - the GYG
+       widget alone is taller than most screens. Cap it and scroll inside,
+       so "In this guide" stays put for the whole article. */
+    max-height: calc(100vh - 7rem);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    scrollbar-width: thin;
+    padding-right: 2px;
   }
 
   .article__activities {
