@@ -1,7 +1,7 @@
 {
   "cuisine": "live-music",
   "note": "Seeded 2026-08-25.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-26",
   "sources": [
     {
       "name": "The Nudge",
@@ -44,6 +44,101 @@
         "Live Music In South London",
         "Live Music In North London",
         "Live Music In West London"
+      ]
+    },
+    {
+      "name": "The Forty-Five (grassroots)",
+      "url": "https://thefortyfive.com/opinion/londons-best-grassroots-music-venues/",
+      "scope": "live-music",
+      "names": [
+        "The Windmill",
+        "Moth Club",
+        "The Lexington",
+        "Shacklewell Arms",
+        "Omeara",
+        "Heaven",
+        "100 Club",
+        "EartH",
+        "Scala"
+      ]
+    },
+    {
+      "name": "Pirate (20 venues)",
+      "url": "https://pirate.com/en/blog/london-live-music-venues/",
+      "scope": "live-music",
+      "names": [
+        "For Bands",
+        "The Dublin Castle",
+        "The Good Mixer",
+        "The Black Heart",
+        "The Shacklewell Arms",
+        "The Amersham Arms",
+        "New Cross Inn",
+        "Hope and Anchor",
+        "Blondies",
+        "For DJs/Promoters",
+        "Sebright Arms",
+        "The Grace",
+        "The Waiting Room",
+        "Bunker",
+        "For A Little Bit Of Everything",
+        "Moth Club",
+        "Matchstick Piehouse",
+        "The Victoria",
+        "Road Trip Bar",
+        "Dalston Den",
+        "Bethnal Green Working Mens Club",
+        "Fox and Firkin",
+        "Support",
+        "Company",
+        "Studios"
+      ]
+    },
+    {
+      "name": "ICMP (top 10)",
+      "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues",
+      "scope": "live-music",
+      "names": [
+        "ICMP Open Days",
+        "Upcoming Events",
+        "Featured Story",
+        "Essential Marketing Tools for Musicians",
+        "The Royal Albert Hall",
+        "The Union Chapel",
+        "Brixton Academy",
+        "Alexandra Palace",
+        "The Moth Club",
+        "The O2 Arena",
+        "ICA",
+        "The 100 Club",
+        "Fox & Firkin",
+        "The Roundhouse",
+        "Interview | WKDAIZ",
+        "Interview | Alex Garnier | UNMUTE"
+      ]
+    },
+    {
+      "name": "ICMP (small venues)",
+      "url": "https://www.icmp.ac.uk/blog/londons-best-small-venues-young-musicians-and-promoters",
+      "scope": "live-music",
+      "names": [
+        "ICMP Open Days",
+        "Upcoming Events",
+        "Featured Story",
+        "Essential Marketing Tools for Musicians",
+        "Interview | WKDAIZ",
+        "Interview | Alex Garnier | UNMUTE",
+        "The Half Moon",
+        "The 100 Club",
+        "The Moth Club",
+        "The Windmill",
+        "The Shacklewell Arms",
+        "Cafe Oto",
+        "229 London",
+        "Blondies",
+        "The Lexington",
+        "Notting Hill Arts Club",
+        "Hootananny"
       ]
     }
   ]

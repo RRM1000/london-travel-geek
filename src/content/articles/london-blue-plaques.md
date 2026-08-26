@@ -127,6 +127,17 @@ One of several Orwell addresses across London, marking a working writer's home r
 
 ---
 
+## What it costs
+
+**Nothing at all.** Every plaque in this guide is on a public street and free to look at, which makes this the cheapest way to spend a day in London.
+
+* **The official English Heritage scheme** has put up more than 1,000 plaques since 1866 and is the oldest of its kind in the world. Its online map is free and searchable.
+* **Other bodies run their own** — councils, the Heritage Foundation, the Nubian Jak Trust and dozens of local societies — so a plaque that is not blue is not necessarily unofficial.
+* **Combine them with a walk.** Marylebone, Bloomsbury, Chelsea and Hampstead have the highest density, and a plaque route through any of them costs nothing and takes an afternoon.
+* **The buildings are usually private homes.** Look, photograph, do not knock.
+
+---
+
 ## What to know
 
 * **Nearly all are private homes.** Look from the pavement.

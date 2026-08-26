@@ -1,5 +1,5 @@
 ---
-title: "The Best Art Galleries in London: 15 Compared"
+title: "The Best Art Galleries in London: 20 Compared"
 seoTitle: "Best Art Galleries London 2026: Free & Ticketed Compared"
 description: "The world's first purpose-built public gallery, 54,000 square feet behind a plain Bermondsey frontage, and a vault of silver under Chancery Lane."
 heroImage: "../../assets/articles/best-galleries-london/best-galleries-london.jpg"
@@ -105,6 +105,48 @@ Seventy thousand square feet of white gallery in a former military headquarters,
 
 ---
 
+### Whitechapel Gallery, Whitechapel
+
+*Free · Tue–Sun 11am–6pm · closed Mondays*
+
+The most-cited gallery in London that visitors never reach, and the one with the strongest claim to having changed British art — it gave **Picasso's Guernica its only British showing in 1939**, and gave Jackson Pollock, Mark Rothko and Frida Kahlo their first UK exhibitions.
+
+Still free, still contemporary, still doing the thing it has done since 1901: showing work before anyone else does.
+
+### The Photographers' Gallery, Soho
+
+*Free before noon · Ramillies Street*
+
+The first gallery in Britain devoted entirely to photography, founded in 1971, on a Soho side street behind Oxford Street.
+
+**Free before noon on weekdays**, which is the detail worth planning around — after that there is a modest charge, and the bookshop and print sales room are free all day regardless.
+
+### Barbican Art Gallery, City of London
+
+*Ticketed · inside the Barbican Centre*
+
+Big, ambitious, thematic shows in the middle of the Barbican — architecture, design and photography as often as painting, and generally the most interesting exhibition programme in the City.
+
+**The Curve** downstairs is a free, curved gallery space running commissioned installations, and is worth going in for on its own.
+
+### The Courtauld, Strand
+
+*Ticketed · Somerset House*
+
+One of the great small collections anywhere — Cézanne, Manet's *A Bar at the Folies-Bergère*, and a room of Impressionists that would anchor a national museum.
+
+It is in **Somerset House**, so you can pair it with the courtyard fountains in summer or the ice rink in winter, both free.
+
+### South London Gallery, Peckham
+
+*Free · Camberwell Road*
+
+A Victorian gallery on Peckham Road with a **Fire Station building** opposite converted into more space, running genuinely experimental contemporary work — and free, which matters in an area where most of the good art has moved into commercial spaces.
+
+The garden behind it is one of the quietest places in south London.
+
+---
+
 ## Collections you can finish
 
 ### The Wallace Collection, Marylebone
@@ -158,6 +200,26 @@ The permanent collection is free, inside the old Commonwealth Institute's hyperb
 *Ticketed · VR*
 
 Headset reconstructions you walk through rather than watch — the Colosseum as it stood, and free-roaming VR filmed aboard the actual International Space Station.
+
+---
+
+## Free, and how far that goes
+
+London's position on this is unusual and worth stating plainly: **almost every major public gallery in the city is free to enter, permanently.**
+
+**Free permanent collections:** the National Gallery, the National Portrait Gallery, Tate Modern, Tate Britain, the V&A, the Wallace Collection, the Serpentine Galleries, Whitechapel Gallery, the Guildhall Art Gallery, South London Gallery and the commercial galleries — White Cube, Saatchi and the Mayfair dealers — all cost nothing.
+
+**What you pay for is the temporary exhibition.** The big shows at the Tates, the National Gallery and the Barbican are ticketed, often £20 or more, and are the only reason to book anything.
+
+**Ways to spend less:**
+
+* **The Photographers' Gallery is free before noon** on weekdays.
+* **Barbican's The Curve** is a free commissioned installation space inside a ticketed building.
+* **National Art Pass** pays for itself in about three exhibitions if you are going to several — half-price entry at most ticketed shows across the country.
+* **Under-25s and students** get free or heavily reduced entry at the Tates, and several galleries run free late openings once a month.
+* **Go on a weekday morning.** Free does not mean quiet, and the National Gallery at 10am is a different building from the National Gallery at 2pm on a Saturday.
+
+> **Commercial galleries are free and nobody uses them.** White Cube, Gagosian, Hauser & Wirth and the Cork Street dealers all show museum-quality work at no charge and with no crowd. You are allowed to walk in.
 
 ---
 

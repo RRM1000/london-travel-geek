@@ -19,13 +19,19 @@
   "oldspitalfieldsmarket": {
     "name": "Old Spitalfields Market",
     "topics": [
-      "activities-shoreditch"
+      "activities-shoreditch",
+      "markets"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
+    "sourceCount": 5,
+    "tierSpread": "B1 C4",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      },
       {
         "tier": "C",
         "source": "The Nudge",
@@ -35,6 +41,16 @@
         "tier": "C",
         "source": "Things To Do In London",
         "url": "https://www.thingstodoinlondon.com/things-to-do/shoreditch/"
+      },
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Little Grey Box",
+        "url": "https://littlegreybox.net/must-visit-london-markets/"
       }
     ]
   },
@@ -79,10 +95,11 @@
   "closeupcinema": {
     "name": "Close-Up Cinema",
     "topics": [
-      "activities-shoreditch"
+      "activities-shoreditch",
+      "cinemas"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 3,
+    "tierSpread": "C3",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -90,6 +107,16 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/collections/things-to-do-in-shoreditch/"
+      },
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
       }
     ]
   },
@@ -115,10 +142,11 @@
   "columbiaroadflowermarket": {
     "name": "Columbia Road Flower Market",
     "topics": [
-      "activities-shoreditch"
+      "activities-shoreditch",
+      "markets"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B1 C5",
+    "sourceCount": 9,
+    "tierSpread": "B1 C8",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -151,16 +179,32 @@
         "tier": "C",
         "source": "Things To Do In London",
         "url": "https://www.thingstodoinlondon.com/things-to-do/shoreditch/"
+      },
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Go Wanderly",
+        "url": "https://gowanderly.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Little Grey Box",
+        "url": "https://littlegreybox.net/must-visit-london-markets/"
       }
     ]
   },
   "richmix": {
     "name": "Rich Mix",
     "topics": [
-      "activities-shoreditch"
+      "activities-shoreditch",
+      "cinemas"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
+    "sourceCount": 5,
+    "tierSpread": "B1 C4",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -178,6 +222,16 @@
         "tier": "C",
         "source": "Candace Abroad",
         "url": "https://candaceabroad.com/best-things-to-do-in-shoreditch/"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
       }
     ]
   },
@@ -387,8 +441,8 @@
       "activities-shoreditch",
       "galleries"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C3",
+    "sourceCount": 7,
+    "tierSpread": "B1 C6",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -411,6 +465,21 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/art-galleries-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      },
+      {
+        "tier": "C",
+        "source": "London Living",
+        "url": "https://www.londonliving.info/blog/best-free-art-galleries"
+      },
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
       }
     ]
   },
@@ -644,6 +713,7 @@
       "bars",
       "british",
       "burgers",
+      "comedy",
       "french",
       "general",
       "greek",
@@ -677,6 +747,7 @@
       "bars",
       "british",
       "burgers",
+      "comedy",
       "french",
       "general",
       "greek",
@@ -1181,17 +1252,33 @@
   "bricklanemarket": {
     "name": "Brick Lane Market",
     "topics": [
-      "activities-shoreditch"
+      "activities-shoreditch",
+      "markets"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
       {
         "tier": "B",
         "source": "Time Out",
         "url": "https://timeout.com/london/things-to-do/shoreditch-area-guide"
+      },
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Go Wanderly",
+        "url": "https://gowanderly.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Little Grey Box",
+        "url": "https://littlegreybox.net/must-visit-london-markets/"
       }
     ]
   },
@@ -2208,6 +2295,7 @@
     "topics": [
       "activities",
       "activities-shoreditch",
+      "cinemas",
       "french",
       "japanese",
       "korean",
@@ -2376,10 +2464,11 @@
   "spitalfieldsmarket": {
     "name": "Spitalfields Market",
     "topics": [
-      "activities-shoreditch"
+      "activities-shoreditch",
+      "markets"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
+    "sourceCount": 3,
+    "tierSpread": "C3",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -2392,6 +2481,11 @@
         "tier": "C",
         "source": "Travelled Road",
         "url": "https://www.travelledroad.com/things-to-do-in-shoreditch-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Go Wanderly",
+        "url": "https://gowanderly.com/best-markets-in-london/"
       }
     ]
   },
@@ -7682,13 +7776,14 @@
     ]
   },
   "royalalberthall": {
-    "name": "Royal Albert Hall",
+    "name": "The Royal Albert Hall",
     "topics": [
       "afternoon-tea",
-      "british"
+      "british",
+      "live-music"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -7706,6 +7801,11 @@
         "tier": "C",
         "source": "Londonist",
         "url": "https://londonist.com/london/food-and-drink/best-afternoon-tea-high-tea-london"
+      },
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
       }
     ]
   },
@@ -8174,41 +8274,6 @@
       "galleries",
       "museums"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C3",
-    "tierCount": 2,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/art-galleries-london"
-      },
-      {
-        "tier": "C",
-        "source": "Londonist",
-        "url": "https://londonist.com/london/food-and-drink/best-afternoon-tea-high-tea-london"
-      },
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/art-galleries-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Museums Made Easy",
-        "url": "https://www.museumsmadeeasy.com/free-museums/london"
-      }
-    ]
-  },
-  "nationalgallery": {
-    "name": "The National Gallery",
-    "topics": [
-      "afternoon-tea",
-      "galleries",
-      "london-with-children",
-      "museums"
-    ],
     "sourceCount": 6,
     "tierSpread": "B1 C5",
     "tierCount": 2,
@@ -8228,6 +8293,66 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/art-galleries-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      },
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Museums Made Easy",
+        "url": "https://www.museumsmadeeasy.com/free-museums/london"
+      }
+    ]
+  },
+  "nationalgallery": {
+    "name": "The National Gallery",
+    "topics": [
+      "afternoon-tea",
+      "galleries",
+      "london-with-children",
+      "museums"
+    ],
+    "sourceCount": 9,
+    "tierSpread": "B1 C8",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/art-galleries-london"
+      },
+      {
+        "tier": "C",
+        "source": "Londonist",
+        "url": "https://londonist.com/london/food-and-drink/best-afternoon-tea-high-tea-london"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/art-galleries-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      },
+      {
+        "tier": "C",
+        "source": "London Living",
+        "url": "https://www.londonliving.info/blog/best-free-art-galleries"
+      },
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
       },
       {
         "tier": "C",
@@ -8254,8 +8379,8 @@
       "historic-houses",
       "museums"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B1 C5",
+    "sourceCount": 9,
+    "tierSpread": "B1 C8",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -8278,6 +8403,21 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/art-galleries-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      },
+      {
+        "tier": "C",
+        "source": "London Living",
+        "url": "https://www.londonliving.info/blog/best-free-art-galleries"
+      },
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
       },
       {
         "tier": "C",
@@ -8920,6 +9060,7 @@
     "name": "My Account",
     "topics": [
       "afternoon-tea",
+      "comedy",
       "french",
       "seafood",
       "spanish"
@@ -36698,8 +36839,8 @@
     "topics": [
       "cinemas"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -36717,6 +36858,11 @@
         "tier": "C",
         "source": "Saint + Sofia",
         "url": "https://uk.saintandsofia.com/blogs/london/best-independent-cinemas-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
       }
     ]
   },
@@ -36742,15 +36888,20 @@
     "topics": [
       "cinemas"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
       {
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/london-independent-cinemas/"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
       }
     ]
   },
@@ -36776,15 +36927,30 @@
     "topics": [
       "cinemas"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
       {
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/london-independent-cinemas/"
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/culture/guide-london-independent-cinema"
+      },
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
       }
     ]
   },
@@ -36850,25 +37016,8 @@
     "topics": [
       "cinemas"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/london-independent-cinemas/"
-      }
-    ]
-  },
-  "castlecinema": {
-    "name": "The Castle Cinema",
-    "topics": [
-      "cinemas"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -36878,9 +37027,51 @@
         "url": "https://www.thehandbook.com/london-independent-cinemas/"
       },
       {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/culture/guide-london-independent-cinema"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
+      }
+    ]
+  },
+  "castlecinema": {
+    "name": "The Castle Cinema",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-independent-cinemas/"
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/culture/guide-london-independent-cinema"
+      },
+      {
         "tier": "C",
         "source": "Saint + Sofia",
         "url": "https://uk.saintandsofia.com/blogs/london/best-independent-cinemas-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
       }
     ]
   },
@@ -36889,8 +37080,8 @@
     "topics": [
       "cinemas"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -36898,19 +37089,29 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/best-independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
       }
     ]
   },
   "princecharlescinema": {
-    "name": "Prince Charles Cinema",
+    "name": "The Prince Charles Cinema",
     "topics": [
       "cinemas"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
-    "tierCount": 1,
+    "sourceCount": 7,
+    "tierSpread": "B1 C6",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/culture/guide-london-independent-cinema"
+      },
       {
         "tier": "C",
         "source": "London x London",
@@ -36925,6 +37126,21 @@
         "tier": "C",
         "source": "Mayor of London",
         "url": "https://www.london.gov.uk/who-we-are/city-hall-blog/love-londons-independent-cinemas"
+      },
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
       }
     ]
   },
@@ -36972,11 +37188,16 @@
     "topics": [
       "cinemas"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
-    "tierCount": 1,
+    "sourceCount": 7,
+    "tierSpread": "B1 C6",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/culture/guide-london-independent-cinema"
+      },
       {
         "tier": "C",
         "source": "London x London",
@@ -36991,6 +37212,21 @@
         "tier": "C",
         "source": "Mayor of London",
         "url": "https://www.london.gov.uk/who-we-are/city-hall-blog/love-londons-independent-cinemas"
+      },
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
       }
     ]
   },
@@ -36999,8 +37235,8 @@
     "topics": [
       "cinemas"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 3,
+    "tierSpread": "C3",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -37008,6 +37244,16 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/best-independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
       }
     ]
   },
@@ -37016,8 +37262,8 @@
     "topics": [
       "cinemas"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
+    "sourceCount": 4,
+    "tierSpread": "C4",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -37035,6 +37281,11 @@
         "tier": "C",
         "source": "Mayor of London",
         "url": "https://www.london.gov.uk/who-we-are/city-hall-blog/love-londons-independent-cinemas"
+      },
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
       }
     ]
   },
@@ -37077,8 +37328,8 @@
     "topics": [
       "cinemas"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
+    "sourceCount": 4,
+    "tierSpread": "C4",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -37091,6 +37342,16 @@
         "tier": "C",
         "source": "Mayor of London",
         "url": "https://www.london.gov.uk/who-we-are/city-hall-blog/love-londons-independent-cinemas"
+      },
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
       }
     ]
   },
@@ -37133,8 +37394,8 @@
     "topics": [
       "cinemas"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -37142,6 +37403,11 @@
         "tier": "C",
         "source": "Mayor of London",
         "url": "https://www.london.gov.uk/who-we-are/city-hall-blog/love-londons-independent-cinemas"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
       }
     ]
   },
@@ -37150,8 +37416,8 @@
     "topics": [
       "cinemas"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -37159,6 +37425,11 @@
         "tier": "C",
         "source": "Mayor of London",
         "url": "https://www.london.gov.uk/who-we-are/city-hall-blog/love-londons-independent-cinemas"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
       }
     ]
   },
@@ -37216,6 +37487,931 @@
         "tier": "C",
         "source": "Best Japanese",
         "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
+      }
+    ]
+  },
+  "whowhatwhereno167": {
+    "name": "Who. What. Where? No. 167",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      }
+    ]
+  },
+  "fashion": {
+    "name": "Fashion",
+    "topics": [
+      "cinemas",
+      "indian",
+      "middle-eastern"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "C3",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      },
+      {
+        "tier": "C",
+        "source": "Curry Life",
+        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
+      },
+      {
+        "tier": "C",
+        "source": "The Travelista",
+        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
+      }
+    ]
+  },
+  "music": {
+    "name": "Music",
+    "topics": [
+      "cinemas",
+      "comedy",
+      "italian"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "ShortList",
+        "url": "https://www.shortlist.com/entertainment/best-comedy-london-stand-up-comedians-venues"
+      },
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      }
+    ]
+  },
+  "beauty": {
+    "name": "Beauty",
+    "topics": [
+      "cinemas",
+      "middle-eastern"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      },
+      {
+        "tier": "C",
+        "source": "The Travelista",
+        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
+      }
+    ]
+  },
+  "artculture": {
+    "name": "Art + Culture",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      }
+    ]
+  },
+  "society": {
+    "name": "Society",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      }
+    ]
+  },
+  "writerfloreboitel": {
+    "name": "Writer Flore Boitel",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      }
+    ]
+  },
+  "series": {
+    "name": "Series",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      }
+    ]
+  },
+  "fiveminuteswith": {
+    "name": "Five Minutes With",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      }
+    ]
+  },
+  "hitsoftheweek": {
+    "name": "Hits of the Week",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      }
+    ]
+  },
+  "speakerscorner": {
+    "name": "Speakers' Corner",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      }
+    ]
+  },
+  "hungermagazine": {
+    "name": "Hunger Magazine",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      }
+    ]
+  },
+  "issue34": {
+    "name": "Issue 34",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      }
+    ]
+  },
+  "purchase": {
+    "name": "Purchase",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      }
+    ]
+  },
+  "stockists": {
+    "name": "Stockists",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      }
+    ]
+  },
+  "community": {
+    "name": "Community",
+    "topics": [
+      "cinemas",
+      "coffee"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      },
+      {
+        "tier": "C",
+        "source": "Brew Atlas",
+        "url": "https://brewatlas.co/london"
+      }
+    ]
+  },
+  "instagram": {
+    "name": "Instagram",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      }
+    ]
+  },
+  "tiktok": {
+    "name": "Tik Tok",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      }
+    ]
+  },
+  "cinelumiere": {
+    "name": "Ciné Lumière",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/culture/guide-london-independent-cinema"
+      },
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "cinemainthepowerstation": {
+    "name": "The Cinema in The Power Station",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hunger Magazine",
+        "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "glossaryedit": {
+    "name": "The Glossary Edit",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "everyman": {
+    "name": "Everyman",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "curzon": {
+    "name": "Curzon",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "genesis": {
+    "name": "Genesis",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "gardencinema": {
+    "name": "The Garden Cinema",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/culture/guide-london-independent-cinema"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
+      }
+    ]
+  },
+  "ealingpicturehouse": {
+    "name": "Ealing Picturehouse",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "chiswickcinema": {
+    "name": "The Chiswick Cinema",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "kensalrise": {
+    "name": "Kensal Rise",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "phoenix": {
+    "name": "The Phoenix",
+    "topics": [
+      "cinemas",
+      "general"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "eastfinchley": {
+    "name": "East Finchley",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "closeupfilmcentre": {
+    "name": "Close-Up Film Centre",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/culture/guide-london-independent-cinema"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "arthouse": {
+    "name": "ArtHouse",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
+      }
+    ]
+  },
+  "olympicstudios": {
+    "name": "Olympic Studios",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
+      }
+    ]
+  },
+  "arzner": {
+    "name": "The Arzner",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
+      }
+    ]
+  },
+  "everymanatthewhiteley": {
+    "name": "Everyman at The Whiteley",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "nickel": {
+    "name": "The Nickel",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
+      }
+    ]
+  },
+  "coldharbourblue": {
+    "name": "Coldharbour Blue",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "loughboroughjunction": {
+    "name": "Loughborough Junction",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "forestcinemas": {
+    "name": "Forest Cinemas",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "longlensonluxury": {
+    "name": "The Long Lens on Luxury",
+    "topics": [
+      "cinemas",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/culture/guide-london-independent-cinema"
+      }
+    ]
+  },
+  "mainnavigation": {
+    "name": "Main navigation",
+    "topics": [
+      "cinemas",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/culture/guide-london-independent-cinema"
+      }
+    ]
+  },
+  "footermenu": {
+    "name": "Footer menu",
+    "topics": [
+      "cinemas",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/culture/guide-london-independent-cinema"
+      }
+    ]
+  },
+  "stayintheluxuryloop": {
+    "name": "Stay in the Luxury Loop",
+    "topics": [
+      "cinemas",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/culture/guide-london-independent-cinema"
+      }
+    ]
+  },
+  "withsphere": {
+    "name": "with SPHERE",
+    "topics": [
+      "cinemas",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/culture/guide-london-independent-cinema"
+      }
+    ]
+  },
+  "umitandson": {
+    "name": "Umit & Son",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
+      }
+    ]
+  },
+  "riversidestudios": {
+    "name": "Riverside Studios",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
+      }
+    ]
+  },
+  "davidleancinema": {
+    "name": "David Lean Cinema",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
+      }
+    ]
+  },
+  "actonecinema": {
+    "name": "Actone Cinema",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
+      }
+    ]
+  },
+  "cinemamuseum": {
+    "name": "The Cinema Museum",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/independent-cinemas/"
       }
     ]
   },
@@ -37920,23 +39116,6 @@
       }
     ]
   },
-  "community": {
-    "name": "Community",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Brew Atlas",
-        "url": "https://brewatlas.co/london"
-      }
-    ]
-  },
   "14november2025": {
     "name": "14 November 2025",
     "topics": [
@@ -38177,11 +39356,12 @@
     "name": "Quick Links",
     "topics": [
       "coffee",
+      "galleries",
       "italian",
       "vegan"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
+    "sourceCount": 4,
+    "tierSpread": "C4",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -38189,6 +39369,11 @@
         "tier": "C",
         "source": "Coffee the Canvas",
         "url": "https://coffeethecanvas.com/best-coffee-shops-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
       },
       {
         "tier": "C",
@@ -38904,10 +40089,11 @@
     "topics": [
       "coffee",
       "fish-and-chips",
+      "live-music",
       "vegan"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
+    "sourceCount": 4,
+    "tierSpread": "C4",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -38923,6 +40109,11 @@
       },
       {
         "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      },
+      {
+        "tier": "C",
         "source": "Dinespotter",
         "url": "https://dinespotter.co.uk/london-best-vegetarian-vegan-restaurants-2026/"
       }
@@ -38931,10 +40122,12 @@
   "support": {
     "name": "Support",
     "topics": [
-      "coffee"
+      "coffee",
+      "galleries",
+      "live-music"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 3,
+    "tierSpread": "C3",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -38942,6 +40135,16 @@
         "tier": "C",
         "source": "Batch Coffee",
         "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
+      },
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
       }
     ]
   },
@@ -39226,24 +40429,6 @@
       }
     ]
   },
-  "music": {
-    "name": "Music",
-    "topics": [
-      "comedy",
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "ShortList",
-        "url": "https://www.shortlist.com/entertainment/best-comedy-london-stand-up-comedians-venues"
-      }
-    ]
-  },
   "books": {
     "name": "Books",
     "topics": [
@@ -39299,6 +40484,528 @@
         "tier": "C",
         "source": "Comedy In Your Eye",
         "url": "https://www.comedyinyoureye.com/post/the-best-london-comedy-clubs"
+      }
+    ]
+  },
+  "nathancaton": {
+    "name": "Nathan Caton",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/whats-on/best-comedy-nights-in-london"
+      }
+    ]
+  },
+  "spencerbrown": {
+    "name": "Spencer Brown",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/whats-on/best-comedy-nights-in-london"
+      }
+    ]
+  },
+  "attractions": {
+    "name": "Attractions",
+    "topics": [
+      "comedy",
+      "historic-pubs"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Lonely Planet",
+        "url": "https://www.lonelyplanet.com/news/most-beautiful-bank-wetherspoons"
+      },
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "eventsandshows": {
+    "name": "Events & Shows",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "busesandtrains": {
+    "name": "Buses & Trains",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "planner": {
+    "name": "Planner",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "walks": {
+    "name": "Walks",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "book": {
+    "name": "Book",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "forum": {
+    "name": "Forum",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "itinerary": {
+    "name": "Itinerary",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "comedygigs": {
+    "name": "Comedy gigs:",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "today": {
+    "name": "Today",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "tomorrow": {
+    "name": "Tomorrow",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "thisweek": {
+    "name": "This week",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "thisweekend": {
+    "name": "This weekend",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "thismonth": {
+    "name": "This month",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "28aug": {
+    "name": "28 Aug",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "29aug": {
+    "name": "29 Aug",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "30aug": {
+    "name": "30 Aug",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "31aug": {
+    "name": "31 Aug",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "1sep": {
+    "name": "1 Sep",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "2sep": {
+    "name": "2 Sep",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "3sep": {
+    "name": "3 Sep",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "4sep": {
+    "name": "4 Sep",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "5sep": {
+    "name": "5 Sep",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "6sep": {
+    "name": "6 Sep",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "7sep": {
+    "name": "7 Sep",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "8sep": {
+    "name": "8 Sep",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "sitemap": {
+    "name": "Site map",
+    "topics": [
+      "comedy",
+      "general"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
+      }
+    ]
+  },
+  "2026londondrum": {
+    "name": "2026 London Drum",
+    "topics": [
+      "comedy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Drum",
+        "url": "https://londondrum.com/events/?cat=9"
       }
     ]
   },
@@ -43176,17 +44883,28 @@
   "sevendialsmarket": {
     "name": "Seven Dials Market",
     "topics": [
-      "dim-sum"
+      "dim-sum",
+      "markets"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
       {
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+      },
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Little Grey Box",
+        "url": "https://littlegreybox.net/must-visit-london-markets/"
       }
     ]
   },
@@ -45239,8 +46957,8 @@
       "museums",
       "views"
     ],
-    "sourceCount": 7,
-    "tierSpread": "C7",
+    "sourceCount": 10,
+    "tierSpread": "C10",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -45253,6 +46971,21 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/art-galleries-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      },
+      {
+        "tier": "C",
+        "source": "London Living",
+        "url": "https://www.londonliving.info/blog/best-free-art-galleries"
+      },
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
       },
       {
         "tier": "C",
@@ -45286,8 +47019,8 @@
     "topics": [
       "galleries"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -45300,6 +47033,11 @@
         "tier": "C",
         "source": "Art Fund",
         "url": "https://www.artfund.org/explore/get-inspired/features/top-10-london-contemporary-galleries"
+      },
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
       }
     ]
   },
@@ -45347,8 +47085,8 @@
     "topics": [
       "galleries"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -45366,6 +47104,11 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/art-galleries-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
       }
     ]
   },
@@ -45404,12 +47147,12 @@
     ]
   },
   "saatchigallery": {
-    "name": "Saatchi Gallery",
+    "name": "The Saatchi Gallery",
     "topics": [
       "galleries"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 5,
+    "tierSpread": "B1 C4",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -45422,6 +47165,21 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/art-galleries-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      },
+      {
+        "tier": "C",
+        "source": "London Living",
+        "url": "https://www.londonliving.info/blog/best-free-art-galleries"
+      },
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
       }
     ]
   },
@@ -45533,8 +47291,8 @@
       "galleries",
       "museums"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
+    "sourceCount": 6,
+    "tierSpread": "C6",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -45542,6 +47300,21 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/art-galleries-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      },
+      {
+        "tier": "C",
+        "source": "London Living",
+        "url": "https://www.londonliving.info/blog/best-free-art-galleries"
+      },
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
       },
       {
         "tier": "C",
@@ -45594,8 +47367,8 @@
     "topics": [
       "galleries"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -45608,6 +47381,11 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/art-galleries-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
       }
     ]
   },
@@ -45616,8 +47394,8 @@
     "topics": [
       "galleries"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -45630,6 +47408,11 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/art-galleries-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
       }
     ]
   },
@@ -45638,8 +47421,8 @@
     "topics": [
       "galleries"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -45652,6 +47435,11 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/art-galleries-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London Living",
+        "url": "https://www.londonliving.info/blog/best-free-art-galleries"
       }
     ]
   },
@@ -45660,8 +47448,8 @@
     "topics": [
       "galleries"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -45674,6 +47462,11 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/art-galleries-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
       }
     ]
   },
@@ -47867,15 +49660,25 @@
     "topics": [
       "galleries"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
       {
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/art-galleries-london"
+      },
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      },
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
       }
     ]
   },
@@ -47893,6 +49696,273 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/art-galleries-london"
+      }
+    ]
+  },
+  "londonsmostfamous": {
+    "name": "London’s most famous",
+    "topics": [
+      "galleries"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      }
+    ]
+  },
+  "royalacademyofart": {
+    "name": "The Royal Academy of Art",
+    "topics": [
+      "galleries"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      }
+    ]
+  },
+  "slightlyundertheradarfineartgalleries": {
+    "name": "Slightly under-the-radar fine art galleries",
+    "topics": [
+      "galleries"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      }
+    ]
+  },
+  "barbican": {
+    "name": "The Barbican",
+    "topics": [
+      "galleries"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      }
+    ]
+  },
+  "victoriamirogallery": {
+    "name": "Victoria Miro Gallery",
+    "topics": [
+      "galleries"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      }
+    ]
+  },
+  "victoriaandalbertmuseum": {
+    "name": "The Victoria and Albert Museum",
+    "topics": [
+      "galleries",
+      "london-with-children",
+      "museums"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "C3",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      },
+      {
+        "tier": "C",
+        "source": "Mummy Travels",
+        "url": "https://www.mummytravels.com/things-to-do-in-london-with-kids/"
+      },
+      {
+        "tier": "C",
+        "source": "Museums Made Easy",
+        "url": "https://www.museumsmadeeasy.com/free-museums/london"
+      }
+    ]
+  },
+  "designmuseum": {
+    "name": "Design Museum",
+    "topics": [
+      "galleries"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      }
+    ]
+  },
+  "londonlivingsbankholidaybucketlist": {
+    "name": "London Living’s Bank Holiday Bucket List",
+    "topics": [
+      "galleries"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Living",
+        "url": "https://www.londonliving.info/blog/best-free-art-galleries"
+      }
+    ]
+  },
+  "londonshippestcocktailhotspots": {
+    "name": "London's Hippest Cocktail Hotspots",
+    "topics": [
+      "galleries"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Living",
+        "url": "https://www.londonliving.info/blog/best-free-art-galleries"
+      }
+    ]
+  },
+  "serpentinegallery": {
+    "name": "Serpentine Gallery",
+    "topics": [
+      "galleries"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Living",
+        "url": "https://www.londonliving.info/blog/best-free-art-galleries"
+      }
+    ]
+  },
+  "free": {
+    "name": "free",
+    "topics": [
+      "galleries"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Living",
+        "url": "https://www.londonliving.info/blog/best-free-art-galleries"
+      }
+    ]
+  },
+  "johnlubbock": {
+    "name": "― John Lubbock",
+    "topics": [
+      "galleries"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Living",
+        "url": "https://www.londonliving.info/blog/best-free-art-galleries"
+      }
+    ]
+  },
+  "camdenartscentre": {
+    "name": "Camden Arts Centre",
+    "topics": [
+      "galleries"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
+      }
+    ]
+  },
+  "email": {
+    "name": "Email",
+    "topics": [
+      "galleries"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
+      }
+    ]
+  },
+  "address": {
+    "name": "Address",
+    "topics": [
+      "galleries"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
       }
     ]
   },
@@ -50416,23 +52486,6 @@
       }
     ]
   },
-  "phoenix": {
-    "name": "Phoenix",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london"
-      }
-    ]
-  },
   "phuket": {
     "name": "Phuket",
     "topics": [
@@ -51190,23 +53243,6 @@
   },
   "yountville": {
     "name": "Yountville",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london"
-      }
-    ]
-  },
-  "sitemap": {
-    "name": "Sitemap",
     "topics": [
       "general"
     ],
@@ -53988,15 +56024,35 @@
       "general",
       "markets"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C1 D1",
-    "tierCount": 2,
+    "sourceCount": 6,
+    "tierSpread": "B1 C4 D1",
+    "tierCount": 3,
     "hasAward": false,
     "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      },
       {
         "tier": "C",
         "source": "Lamplit London",
         "url": "https://www.lamplitlondon.com/guides/best-food-markets-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Go Wanderly",
+        "url": "https://gowanderly.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Little Grey Box",
+        "url": "https://littlegreybox.net/must-visit-london-markets/"
       },
       {
         "tier": "D",
@@ -59114,23 +61170,6 @@
       }
     ]
   },
-  "attractions": {
-    "name": "Attractions",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Lonely Planet",
-        "url": "https://www.lonelyplanet.com/news/most-beautiful-bank-wetherspoons"
-      }
-    ]
-  },
   "sport": {
     "name": "Sport",
     "topics": [
@@ -62837,29 +64876,6 @@
         "tier": "C",
         "source": "Curry Life",
         "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "fashion": {
-    "name": "Fashion",
-    "topics": [
-      "indian",
-      "middle-eastern"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      },
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
       }
     ]
   },
@@ -70015,10 +72031,11 @@
   "practicalinformation": {
     "name": "Practical information",
     "topics": [
-      "korean"
+      "korean",
+      "markets"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -70026,6 +72043,11 @@
         "tier": "C",
         "source": "Kingston Compass",
         "url": "https://kingstoncompass.com/guides/best-korean-food-new-malden/"
+      },
+      {
+        "tier": "C",
+        "source": "Hampstead Village",
+        "url": "https://hampstead-village.com/blog/best-flea-markets-vintage-london"
       }
     ]
   },
@@ -71122,12 +73144,12 @@
     ]
   },
   "mothclub": {
-    "name": "MOTH Club",
+    "name": "The Moth Club",
     "topics": [
       "live-music"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 4,
+    "tierSpread": "C4",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -71135,6 +73157,21 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/the-best-live-music-venues-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Forty-Five",
+        "url": "https://thefortyfive.com/opinion/londons-best-grassroots-music-venues/"
+      },
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      },
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
       }
     ]
   },
@@ -71173,12 +73210,12 @@
     ]
   },
   "unionchapel": {
-    "name": "Union Chapel",
+    "name": "The Union Chapel",
     "topics": [
       "live-music"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -71186,6 +73223,11 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/the-best-live-music-venues-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
       }
     ]
   },
@@ -71241,12 +73283,12 @@
     ]
   },
   "roundhouse": {
-    "name": "Roundhouse",
+    "name": "The Roundhouse",
     "topics": [
       "live-music"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -71254,6 +73296,11 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/the-best-live-music-venues-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
       }
     ]
   },
@@ -71262,8 +73309,8 @@
     "topics": [
       "live-music"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -71271,6 +73318,11 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/the-best-live-music-venues-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
       }
     ]
   },
@@ -71526,6 +73578,755 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/live-music-in-london"
+      }
+    ]
+  },
+  "windmill": {
+    "name": "The Windmill",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Forty-Five",
+        "url": "https://thefortyfive.com/opinion/londons-best-grassroots-music-venues/"
+      },
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-best-small-venues-young-musicians-and-promoters"
+      }
+    ]
+  },
+  "lexington": {
+    "name": "The Lexington",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Forty-Five",
+        "url": "https://thefortyfive.com/opinion/londons-best-grassroots-music-venues/"
+      },
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-best-small-venues-young-musicians-and-promoters"
+      }
+    ]
+  },
+  "shacklewellarms": {
+    "name": "The Shacklewell Arms",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "C3",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Forty-Five",
+        "url": "https://thefortyfive.com/opinion/londons-best-grassroots-music-venues/"
+      },
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      },
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-best-small-venues-young-musicians-and-promoters"
+      }
+    ]
+  },
+  "omeara": {
+    "name": "Omeara",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Forty-Five",
+        "url": "https://thefortyfive.com/opinion/londons-best-grassroots-music-venues/"
+      }
+    ]
+  },
+  "heaven": {
+    "name": "Heaven",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Forty-Five",
+        "url": "https://thefortyfive.com/opinion/londons-best-grassroots-music-venues/"
+      }
+    ]
+  },
+  "100club": {
+    "name": "The 100 Club",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Forty-Five",
+        "url": "https://thefortyfive.com/opinion/londons-best-grassroots-music-venues/"
+      },
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
+      }
+    ]
+  },
+  "earth": {
+    "name": "EartH",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Forty-Five",
+        "url": "https://thefortyfive.com/opinion/londons-best-grassroots-music-venues/"
+      }
+    ]
+  },
+  "scala": {
+    "name": "Scala",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Forty-Five",
+        "url": "https://thefortyfive.com/opinion/londons-best-grassroots-music-venues/"
+      }
+    ]
+  },
+  "forbands": {
+    "name": "For Bands",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "dublincastle": {
+    "name": "The Dublin Castle",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "goodmixer": {
+    "name": "The Good Mixer",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "blackheart": {
+    "name": "The Black Heart",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "amershamarms": {
+    "name": "The Amersham Arms",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "newcrossinn": {
+    "name": "New Cross Inn",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "hopeandanchor": {
+    "name": "Hope and Anchor",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "blondies": {
+    "name": "Blondies",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      },
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-best-small-venues-young-musicians-and-promoters"
+      }
+    ]
+  },
+  "fordjspromoters": {
+    "name": "For DJs/Promoters",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "sebrightarms": {
+    "name": "Sebright Arms",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "grace": {
+    "name": "The Grace",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "waitingroom": {
+    "name": "The Waiting Room",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "bunker": {
+    "name": "Bunker",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "foralittlebitofeverything": {
+    "name": "For A Little Bit Of Everything",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "matchstickpiehouse": {
+    "name": "Matchstick Piehouse",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "victoria": {
+    "name": "The Victoria",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "roadtripbar": {
+    "name": "Road Trip Bar",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "dalstonden": {
+    "name": "Dalston Den",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "bethnalgreenworkingmensclub": {
+    "name": "Bethnal Green Working Mens Club",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "foxandfirkin": {
+    "name": "Fox and Firkin",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      },
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
+      }
+    ]
+  },
+  "studios": {
+    "name": "Studios",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
+  "icmpopendays": {
+    "name": "ICMP Open Days",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
+      }
+    ]
+  },
+  "upcomingevents": {
+    "name": "Upcoming Events",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
+      }
+    ]
+  },
+  "featuredstory": {
+    "name": "Featured Story",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
+      }
+    ]
+  },
+  "essentialmarketingtoolsformusicians": {
+    "name": "Essential Marketing Tools for Musicians",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
+      }
+    ]
+  },
+  "brixtonacademy": {
+    "name": "Brixton Academy",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
+      }
+    ]
+  },
+  "o2arena": {
+    "name": "The O2 Arena",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
+      }
+    ]
+  },
+  "interviewwkdaiz": {
+    "name": "Interview | WKDAIZ",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
+      }
+    ]
+  },
+  "interviewalexgarnierunmute": {
+    "name": "Interview | Alex Garnier | UNMUTE",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
+      }
+    ]
+  },
+  "halfmoon": {
+    "name": "The Half Moon",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-best-small-venues-young-musicians-and-promoters"
+      }
+    ]
+  },
+  "cafeoto": {
+    "name": "Cafe Oto",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-best-small-venues-young-musicians-and-promoters"
+      }
+    ]
+  },
+  "229london": {
+    "name": "229 London",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-best-small-venues-young-musicians-and-promoters"
+      }
+    ]
+  },
+  "nottinghillartsclub": {
+    "name": "Notting Hill Arts Club",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-best-small-venues-young-musicians-and-promoters"
+      }
+    ]
+  },
+  "hootananny": {
+    "name": "Hootananny",
+    "topics": [
+      "live-music"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-best-small-venues-young-musicians-and-promoters"
       }
     ]
   },
@@ -72399,29 +75200,6 @@
         "tier": "C",
         "source": "Mummy Travels",
         "url": "https://www.mummytravels.com/things-to-do-in-london-with-kids/"
-      }
-    ]
-  },
-  "victoriaandalbertmuseum": {
-    "name": "The Victoria and Albert Museum",
-    "topics": [
-      "london-with-children",
-      "museums"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mummy Travels",
-        "url": "https://www.mummytravels.com/things-to-do-in-london-with-kids/"
-      },
-      {
-        "tier": "C",
-        "source": "Museums Made Easy",
-        "url": "https://www.museumsmadeeasy.com/free-museums/london"
       }
     ]
   },
@@ -73419,15 +76197,30 @@
       "markets",
       "unusual"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
+    "sourceCount": 5,
+    "tierSpread": "B1 C4",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      },
       {
         "tier": "C",
         "source": "Lamplit London",
         "url": "https://www.lamplitlondon.com/guides/best-food-markets-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Go Wanderly",
+        "url": "https://gowanderly.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Little Grey Box",
+        "url": "https://littlegreybox.net/must-visit-london-markets/"
       },
       {
         "tier": "C",
@@ -73441,15 +76234,30 @@
     "topics": [
       "markets"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      },
       {
         "tier": "C",
         "source": "Lamplit London",
         "url": "https://www.lamplitlondon.com/guides/best-food-markets-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Go Wanderly",
+        "url": "https://gowanderly.com/best-markets-in-london/"
       }
     ]
   },
@@ -73458,8 +76266,8 @@
     "topics": [
       "markets"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -73467,6 +76275,11 @@
         "tier": "C",
         "source": "Lamplit London",
         "url": "https://www.lamplitlondon.com/guides/best-food-markets-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Little Grey Box",
+        "url": "https://littlegreybox.net/must-visit-london-markets/"
       }
     ]
   },
@@ -73762,6 +76575,480 @@
         "tier": "C",
         "source": "Secret Food Tours",
         "url": "https://www.secretfoodtours.com/blog/get-to-know-the-best-food-markets-in-london/"
+      }
+    ]
+  },
+  "victoriaparkmarket": {
+    "name": "Victoria Park Market",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Go Wanderly",
+        "url": "https://gowanderly.com/best-markets-in-london/"
+      }
+    ]
+  },
+  "leatherlanemarket": {
+    "name": "Leather Lane Market",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      }
+    ]
+  },
+  "mercatomayfair": {
+    "name": "Mercato Mayfair",
+    "topics": [
+      "markets",
+      "unusual"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "C3",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Away to the City",
+        "url": "https://awaytothecity.com/unique-things-to-do-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/unusual-things-to-do-in-london/"
+      }
+    ]
+  },
+  "camdenmarket": {
+    "name": "Camden Market",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      },
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Go Wanderly",
+        "url": "https://gowanderly.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Little Grey Box",
+        "url": "https://littlegreybox.net/must-visit-london-markets/"
+      }
+    ]
+  },
+  "maltbystreet": {
+    "name": "Maltby Street",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      }
+    ]
+  },
+  "greenwichmarket": {
+    "name": "Greenwich Market",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      },
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Go Wanderly",
+        "url": "https://gowanderly.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Little Grey Box",
+        "url": "https://littlegreybox.net/must-visit-london-markets/"
+      }
+    ]
+  },
+  "portobelloroadmarket": {
+    "name": "Portobello Road Market",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      },
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Go Wanderly",
+        "url": "https://gowanderly.com/best-markets-in-london/"
+      }
+    ]
+  },
+  "alfiesantiquemarket": {
+    "name": "Alfie’s Antique Market",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      },
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Go Wanderly",
+        "url": "https://gowanderly.com/best-markets-in-london/"
+      }
+    ]
+  },
+  "southbankcentremarket": {
+    "name": "Southbank Centre Market",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Go Wanderly",
+        "url": "https://gowanderly.com/best-markets-in-london/"
+      }
+    ]
+  },
+  "marylebonefarmersmarket": {
+    "name": "Marylebone Farmers’ Market",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Go Wanderly",
+        "url": "https://gowanderly.com/best-markets-in-london/"
+      }
+    ]
+  },
+  "tripideasfornorthamericaandthecaribbean": {
+    "name": "Trip ideas for North America & the Caribbean",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Go Wanderly",
+        "url": "https://gowanderly.com/best-markets-in-london/"
+      }
+    ]
+  },
+  "bermondseyantiquesmarket": {
+    "name": "Bermondsey Antiques Market",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Little Grey Box",
+        "url": "https://littlegreybox.net/must-visit-london-markets/"
+      }
+    ]
+  },
+  "londonsbestmarketsataglance": {
+    "name": "London ' s best markets at a glance:",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      }
+    ]
+  },
+  "12brilliantlondonmarkets": {
+    "name": "12 brilliant London markets",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      }
+    ]
+  },
+  "coventgardenmarket": {
+    "name": "Covent Garden Market",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      }
+    ]
+  },
+  "brixtonvillageandmarketrow": {
+    "name": "Brixton Village and Market Row",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      }
+    ]
+  },
+  "londonsbestcarbootsales": {
+    "name": "London’s best car-boot sales",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      }
+    ]
+  },
+  "gyglondonwidget": {
+    "name": "GYG London Widget",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      }
+    ]
+  },
+  "columbiaroad": {
+    "name": "Columbia Road",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hampstead Village",
+        "url": "https://hampstead-village.com/blog/best-flea-markets-vintage-london"
+      }
+    ]
+  },
+  "othernotablemarkets": {
+    "name": "Other Notable Markets",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hampstead Village",
+        "url": "https://hampstead-village.com/blog/best-flea-markets-vintage-london"
+      }
+    ]
+  },
+  "timing": {
+    "name": "Timing",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hampstead Village",
+        "url": "https://hampstead-village.com/blog/best-flea-markets-vintage-london"
+      }
+    ]
+  },
+  "haggling": {
+    "name": "Haggling",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hampstead Village",
+        "url": "https://hampstead-village.com/blog/best-flea-markets-vintage-london"
+      }
+    ]
+  },
+  "cash": {
+    "name": "Cash",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hampstead Village",
+        "url": "https://hampstead-village.com/blog/best-flea-markets-vintage-london"
+      }
+    ]
+  },
+  "northlondonvintageday": {
+    "name": "A North London Vintage Day",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hampstead Village",
+        "url": "https://hampstead-village.com/blog/best-flea-markets-vintage-london"
       }
     ]
   },
@@ -76753,23 +80040,6 @@
   },
   "mentalhealth": {
     "name": "Mental Health",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "beauty": {
-    "name": "Beauty",
     "topics": [
       "middle-eastern"
     ],
@@ -87899,93 +91169,8 @@
       }
     ]
   },
-  "longlensonluxury": {
-    "name": "The Long Lens on Luxury",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Sphere Magazine",
-        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
-      }
-    ]
-  },
-  "mainnavigation": {
-    "name": "Main navigation",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Sphere Magazine",
-        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
-      }
-    ]
-  },
   "charliesatbrownshotel": {
     "name": "Charlie’s at Brown’s Hotel",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Sphere Magazine",
-        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
-      }
-    ]
-  },
-  "footermenu": {
-    "name": "Footer menu",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Sphere Magazine",
-        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
-      }
-    ]
-  },
-  "stayintheluxuryloop": {
-    "name": "Stay in the Luxury Loop",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Sphere Magazine",
-        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
-      }
-    ]
-  },
-  "withsphere": {
-    "name": "with SPHERE",
     "topics": [
       "sunday-roast"
     ],
@@ -92458,28 +95643,6 @@
         "tier": "C",
         "source": "Away to the City",
         "url": "https://awaytothecity.com/unique-things-to-do-in-london/"
-      }
-    ]
-  },
-  "mercatomayfair": {
-    "name": "Mercato Mayfair",
-    "topics": [
-      "unusual"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Away to the City",
-        "url": "https://awaytothecity.com/unique-things-to-do-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Hues of Delahaye",
-        "url": "https://www.huesofdelahaye.com/unusual-things-to-do-in-london/"
       }
     ]
   },

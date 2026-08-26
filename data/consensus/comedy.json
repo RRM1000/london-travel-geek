@@ -1,7 +1,7 @@
 {
   "cuisine": "comedy",
   "note": "Seeded 2026-08-25.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-26",
   "sources": [
     {
       "name": "Shortlist",
@@ -24,6 +24,55 @@
         "Recent Posts",
         "Dec 16",
         "3 min read"
+      ]
+    },
+    {
+      "name": "DesignMyNight (60 comedy nights)",
+      "url": "https://www.designmynight.com/london/whats-on/best-comedy-nights-in-london",
+      "scope": "comedy",
+      "names": [
+        "Rewards",
+        "Jobs",
+        "My Account",
+        "Nathan Caton",
+        "Spencer Brown"
+      ]
+    },
+    {
+      "name": "London Drum",
+      "url": "https://londondrum.com/events/?cat=9",
+      "scope": "comedy",
+      "names": [
+        "Attractions",
+        "Events & Shows",
+        "Buses & Trains",
+        "Planner",
+        "Hotels",
+        "Walks",
+        "Book",
+        "Forum",
+        "Itinerary",
+        "Comedy Gigs",
+        "Comedy gigs:",
+        "Today",
+        "Tomorrow",
+        "This week",
+        "This weekend",
+        "This month",
+        "28 Aug",
+        "29 Aug",
+        "30 Aug",
+        "31 Aug",
+        "1 Sep",
+        "2 Sep",
+        "3 Sep",
+        "4 Sep",
+        "5 Sep",
+        "6 Sep",
+        "7 Sep",
+        "8 Sep",
+        "Site map",
+        "2026 London Drum"
       ]
     }
   ]

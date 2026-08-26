@@ -928,6 +928,54 @@
     "spherelife.com": {
       "tier": "B",
       "name": "Sphere Magazine"
+    },
+    "hungermag.com": {
+      "tier": "C",
+      "name": "Hunger Magazine"
+    },
+    "theglossarymagazine.com": {
+      "tier": "C",
+      "name": "The Glossary"
+    },
+    "thefortyfive.com": {
+      "tier": "C",
+      "name": "The Forty-Five"
+    },
+    "pirate.com": {
+      "tier": "C",
+      "name": "Pirate"
+    },
+    "icmp.ac.uk": {
+      "tier": "C",
+      "name": "ICMP"
+    },
+    "londondrum.com": {
+      "tier": "C",
+      "name": "London Drum"
+    },
+    "solosophie.com": {
+      "tier": "C",
+      "name": "Solosophie"
+    },
+    "gowanderly.com": {
+      "tier": "C",
+      "name": "Go Wanderly"
+    },
+    "littlegreybox.net": {
+      "tier": "C",
+      "name": "Little Grey Box"
+    },
+    "hampstead-village.com": {
+      "tier": "C",
+      "name": "Hampstead Village"
+    },
+    "londonliving.info": {
+      "tier": "C",
+      "name": "London Living"
+    },
+    "letmeshowyoulondon.com": {
+      "tier": "C",
+      "name": "Let Me Show You London"
     }
   }
 }

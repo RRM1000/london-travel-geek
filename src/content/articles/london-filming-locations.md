@@ -156,6 +156,17 @@ There is also a **Paddington Bear trail** around Paddington station itself, and 
 
 ---
 
+## What it costs
+
+**Almost all of it is free**, because a filming location is usually just a street.
+
+* **Free and public:** Leadenhall Market, Millennium Bridge, Borough Market, the South Bank, St Pancras, Notting Hill's streets and almost every exterior in this guide.
+* **Ticketed:** the **Warner Bros. Studio Tour** at Leavesden is the expensive one and needs booking weeks ahead — and it is a studio tour rather than a location. **Platform 9¾** at King's Cross is free to look at; the photograph with the trolley and scarf is the paid part, and the queue is long.
+* **Working buildings.** Several locations here are private homes, offices or churches. Exteriors are fair game; do not go in.
+* **Guided film tours** run £20–£40 and are mostly worth skipping — the locations are easy to find yourself and the guides rarely know more than the internet does.
+
+---
+
 ## What to know
 
 * **Almost all of these are free** because almost all are streets and exteriors.

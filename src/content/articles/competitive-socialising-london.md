@@ -146,6 +146,20 @@ A Wild West saloon where you help run the still, and the cocktails are made in f
 
 ---
 
+## What it costs
+
+This is not a cheap night out, and the pricing is deliberately opaque — most venues charge per lane or per oche rather than per person, so the number you see is not the number you pay.
+
+* **Expect £10–£20 a head for an hour** of darts, mini golf or shuffleboard once a group splits a lane. Bowling and karting run higher.
+* **Book the earliest slot.** Almost every venue here is materially cheaper before about 6pm on a weekday, and quieter, which matters more than the money in a room built for noise.
+* **Off-peak and weekday deals** are where the real difference is — several venues halve their per-lane rate Monday to Wednesday.
+* **The bar is where the cost goes.** Drinks are priced for a captive audience. One session then move on is both cheaper and, as the format is designed as a first act rather than a whole evening, more fun.
+* **Free alternatives exist and nobody mentions them.** Most London pubs have a dartboard, several have a pool table, and the parks run free table tennis. A pub darts night costs the price of a pint.
+
+> **Keep it to one activity.** The value drops sharply when you stack three, and the venues know that — the whole format works best as the opening ninety minutes of an evening rather than the evening itself.
+
+---
+
 ## What to know
 
 * **Book ahead**, especially Thursday to Saturday. Walk-in space is limited at almost all of these.

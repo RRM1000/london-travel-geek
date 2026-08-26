@@ -154,6 +154,25 @@ Founded by the Apothecaries in **1673 to grow medicinal plants**, and still grow
 
 ---
 
+## All free, with a few exceptions
+
+**Almost every park in this guide is free and open every day**, which is the single best thing about London as a city to spend time in. Nearly half its surface area is green space, and it was designated the world's first National Park City in 2019.
+
+**The exceptions worth knowing:**
+
+* **Kew Gardens** is ticketed and the most expensive — but it is a botanical research institution rather than a park, and priced as one.
+* **The Chelsea Physic Garden** and **the Garden Museum** both charge, both are small, and both are worth it.
+* **Deer parks close at dusk** — Richmond and Bushy gates shut to vehicles earlier than to pedestrians.
+
+**Free things people pay for elsewhere:**
+
+* **The Kyoto Garden** in Holland Park, with the waterfall and the peacocks.
+* **Hampstead Heath's swimming ponds** — the mixed pond is free at quiet times, the single-sex ponds charge a small fee.
+* **Sky-high views** from Primrose Hill, Parliament Hill and Alexandra Palace, all covered in our views guide, all free.
+* **Deckchairs in the royal parks** are the one thing that catches people out — they are hired, not free, and the attendant will find you.
+
+---
+
 ## What to know
 
 * **All eight Royal Parks are free** and open dawn to dusk. Gates close at nightfall and the times change monthly.

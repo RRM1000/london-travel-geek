@@ -47,7 +47,10 @@ const ARTICLE = {
   markets: "best-london-markets", "historic-pubs": "historic-pubs-dining-rooms-london",
   views: "best-views-london", comedy: "best-comedy-clubs-london",
   "parks-gardens": "best-parks-gardens-london",
-  "london-with-children": "london-with-children", unusual: "unusual-restaurants-london",
+  "london-with-children": "london-with-children", // The `unusual` topic was seeded from "quirky things to do in London"
+  // searches, so it holds attractions rather than restaurants - it was
+  // reporting Sir John Soane's Museum as a missing RESTAURANT.
+  unusual: "hidden-london-secret-places",
   "competitive-socialising": "competitive-socialising-london",
   "historic-houses": "historic-houses-london", "live-music": "best-live-music-venues-london",
   museums: "best-museums-london", cinemas: "best-cinemas-london",

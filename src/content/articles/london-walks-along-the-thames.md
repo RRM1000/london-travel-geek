@@ -120,6 +120,18 @@ Coming up on the north side with the whole Greenwich skyline behind you is the b
 
 ---
 
+## What it costs
+
+**Nothing.** The Thames Path is a National Trail, free and open at all hours along almost its entire London length.
+
+* **The whole path runs 185 miles** from the source in Gloucestershire to the Thames Barrier, and the London stretch is the most consistently walkable part of it.
+* **Bridges are free**, including Tower Bridge's pavement — you only pay for the high-level walkways.
+* **The one thing you pay for is getting back.** Walk one way and take the Tube, the DLR or a Thames Clipper back. The Clipper is the most enjoyable and the most expensive; a river bus fare is well above a Tube one.
+* **The Greenwich Foot Tunnel is free**, open 24 hours to pedestrians, and the most interesting way to cross the river in east London — though the lifts keep shorter hours than the tunnel.
+* **Tide times matter** on the foreshore sections. The river comes in fast, and the stairs down to the beach at Wapping and Bankside are only usable at low water.
+
+---
+
 ## What to know
 
 * **The Thames Path is signposted** and runs on at least one bank the whole way through London.

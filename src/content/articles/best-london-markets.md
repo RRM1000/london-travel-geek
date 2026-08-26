@@ -1,5 +1,5 @@
 ---
-title: "London's Best Markets: 14 Compared"
+title: "London's Best Markets: 18 Compared"
 seoTitle: "Best Markets in London 2026: Food, Flowers & Antiques"
 description: "A banana-ripening warehouse full of food traders, a flower market that only exists on Sundays, and a fish market trading before dawn — London's markets by what they sell."
 heroImage: "../../assets/articles/best-london-markets/canopy-market-kings-cross.jpg"
@@ -159,6 +159,38 @@ A covered Victorian market hall with different themes by day: antiques Thursday,
 
 ---
 
+### Brick Lane Market, Shoreditch
+
+*Sundays · vintage, antiques and street food*
+
+On Sundays the whole stretch turns into a patchwork of markets — **Backyard Market, Sunday UpMarket, the Boiler House** and the Old Truman Brewery yards — selling vintage clothes, records, antiques and some of the best street food in east London.
+
+Chaotic, crowded and much larger than it looks from the street. Go early if you want the vintage, late if you want the food.
+
+### Alfies Antique Market, Marylebone
+
+*Tue–Sat · Church Street*
+
+**Britain's largest indoor antiques market**, four floors of it in an old Edwardian department store on Church Street, with a rooftop café most people never find.
+
+Twentieth-century design, vintage fashion and jewellery rather than genuine antiques in the auction-house sense. Closed Sundays and Mondays.
+
+### Brixton Village and Market Row, Brixton
+
+*Daily · covered arcades*
+
+Two covered arcades off Electric Avenue that went from near-derelict to one of the best places to eat in south London — and still hold the Caribbean grocers, fishmongers and butchers that were there first.
+
+The mix is the point: a Colombian bakery next to a record shop next to a family greengrocer.
+
+### Victoria Park Market, Hackney
+
+*Sundays · east London*
+
+Street food, groceries, fashion and cut flowers on the edge of Victoria Park, and the one east London market that is still mostly locals rather than visitors.
+
+---
+
 ## Covered and historic
 
 ### Leadenhall Market, City of London
@@ -184,6 +216,19 @@ Worth knowing the difference before you plan a morning around one.
 * **Battersea Power Station** — 150 shops and restaurants inside Gilbert Scott's power station. A shopping centre in an extraordinary building.
 * **The King's Road**, Chelsea — a shopping street with history rather than a market. Mary Quant opened Bazaar here in 1955.
 * **Coal Drops Yard**, King's Cross — Heatherwick's converted coal drops, now retail.
+
+---
+
+## What things cost, and the free part
+
+Markets are the cheapest good food in London and one of the few genuinely free things to do that is not a museum.
+
+* **Walking round costs nothing.** Borough, Spitalfields, Columbia Road, Portobello, Camden and Leadenhall are all free to enter and worth an hour on their own. Columbia Road on a Sunday morning is one of the best free hours in London.
+* **Street food runs roughly £8–£14 a dish** across Borough, Seven Dials, Maltby Street and Brick Lane — cheaper than a restaurant, more expensive than a supermarket, and the quality at the top end matches restaurants charging double.
+* **Go at closing time for flowers.** Columbia Road traders cut prices hard in the last hour, and the shouting is half the entertainment.
+* **Borough's free samples are real.** The cheese, charcuterie and oil stalls expect you to taste, and a slow circuit of the market is close to a free lunch, though buying something is the decent thing.
+* **Billingsgate is free to walk into** and over by 8am. Bring cash and a cool bag.
+* **Maltby Street is cheaper than Borough** for the same standard of food, ten minutes away, at weekends only.
 
 ---
 

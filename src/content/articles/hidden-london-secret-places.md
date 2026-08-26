@@ -183,6 +183,24 @@ An ordinary underpass connecting the stations to Granary Square, **lit end to en
 
 ---
 
+## What it costs
+
+Most of this guide is free. The parts that are not are worth knowing about in advance, because several book out weeks ahead.
+
+**Free, walk in:**
+St Dunstan-in-the-East, the Kyoto Garden, Postman's Park, Leadenhall Market, the Seven Noses of Soho, Little Compton Street's buried sign, and the churchyards and alleys generally.
+
+**Ticketed, and worth booking early:**
+
+* **London Transport Museum's Hidden London tours** of disused stations and tunnels are the best of these and sell out fastest — several months for the popular ones.
+* **The Clapham South deep shelter** and the **Kingsway tram subway** run separately and both book out.
+* **Dennis Severs' House** — the candlelit silent tours are the ones to book; the daytime visits are cheaper and a different experience.
+* **Leighton House** and **Sir John Soane's Museum** both charge, though Soane's runs free entry slots and its candlelit evenings are the thing to aim for.
+
+**The cheapest way to see hidden London** is to walk it. Almost everything genuinely strange here — the alleys, the ghost signs, the parish boundary markers, the buried rivers — costs nothing and is not signposted, which is rather the point.
+
+---
+
 ## What to know
 
 * **Most of this is free** and visible from a public pavement.

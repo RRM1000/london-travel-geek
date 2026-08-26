@@ -135,6 +135,17 @@ The Stables Market walls and the canal bridges, plus the Amy Winehouse mural on 
 
 ---
 
+## What it costs
+
+**Nothing.** This is the most genuinely free thing to do in London, and one of the very few that changes week to week.
+
+* **Walk it yourself.** Shoreditch, Hackney Wick, Camden, Brixton, Croydon and Penge all reward an aimless hour, and everything in this guide is on a public street.
+* **Guided tours** run roughly £15–£30 and are worth it once, because the good guides know which pieces are painted over what, and who fell out with whom. The free walking tours are tip-based rather than actually free.
+* **Leake Street tunnel** under Waterloo is legal, free, open all hours, and repainted constantly — the only place in London you can watch it being made.
+* **Nothing here is permanent.** Everything in this guide was checked in August 2026 and a piece can go the week after publication, which is the nature of the form rather than a flaw in it.
+
+---
+
 ## What to know
 
 * **All of it is free.** It is on the outside of buildings.

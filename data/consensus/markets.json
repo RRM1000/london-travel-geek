@@ -1,7 +1,7 @@
 {
   "cuisine": "markets",
   "note": "Seeded 2026-08-25.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-26",
   "sources": [
     {
       "name": "Lamplit London",
@@ -53,6 +53,105 @@
         "Local Tips",
         "Restaurant Reviews",
         "Fun Facts"
+      ]
+    },
+    {
+      "name": "Solosophie",
+      "url": "https://www.solosophie.com/best-markets-in-london/",
+      "scope": "markets",
+      "names": [
+        "Victoria Park Market",
+        "Broadway Market",
+        "Leather Lane Market",
+        "Exmouth Market",
+        "Old Spitalfields Market",
+        "Mercato Mayfair",
+        "Camden Market",
+        "Seven Dials Market",
+        "Maltby Street",
+        "Borough Market",
+        "Columbia Road Flower Market",
+        "Greenwich Market",
+        "Portobello Road Market",
+        "Brick Lane Market",
+        "Alfies Antique Market"
+      ]
+    },
+    {
+      "name": "Go Wanderly",
+      "url": "https://gowanderly.com/best-markets-in-london/",
+      "scope": "markets",
+      "names": [
+        "Borough Market",
+        "Portobello Road Market",
+        "Camden Market",
+        "Columbia Road Flower Market",
+        "Greenwich Market",
+        "Victoria Park Market",
+        "Brick Lane Market",
+        "Spitalfields Market",
+        "Maltby Street Market",
+        "Broadway Market",
+        "Alfie’s Antique Market",
+        "Southbank Centre Market",
+        "Marylebone Farmers’ Market",
+        "Trip ideas for North America & the Caribbean"
+      ]
+    },
+    {
+      "name": "Little Grey Box",
+      "url": "https://littlegreybox.net/must-visit-london-markets/",
+      "scope": "markets",
+      "names": [
+        "Maltby Street Market",
+        "Borough Market",
+        "Brick Lane Market",
+        "Camden Market",
+        "Brixton Village",
+        "Columbia Road Flower Market",
+        "Seven Dials Market",
+        "Old Spitalfields Market",
+        "Greenwich Market",
+        "Bermondsey Antiques Market"
+      ]
+    },
+    {
+      "name": "Time Out (best markets)",
+      "url": "https://www.timeout.com/london/shopping/best-london-markets",
+      "scope": "markets",
+      "names": [
+        "London ' s best markets at a glance:",
+        "12 brilliant London markets",
+        "Greenwich Market",
+        "Columbia Road Flower Market",
+        "Broadway Market",
+        "Portobello Road Market",
+        "Maltby Street Market",
+        "Borough Market",
+        "Alfies Antique Market",
+        "Covent Garden Market",
+        "Old Spitalfields Market",
+        "Brixton Village and Market Row",
+        "Brick Lane Market",
+        "Camden Market",
+        "London’s best car-boot sales",
+        "GYG London Widget"
+      ]
+    },
+    {
+      "name": "Hampstead Village (vintage)",
+      "url": "https://hampstead-village.com/blog/best-flea-markets-vintage-london",
+      "scope": "markets",
+      "names": [
+        "Brick Lane",
+        "Columbia Road",
+        "Other Notable Markets",
+        "Timing",
+        "Haggling",
+        "Cash",
+        "A North London Vintage Day",
+        "Practical Information",
+        "Leave a comment"
       ]
     }
   ]

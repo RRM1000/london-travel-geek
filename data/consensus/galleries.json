@@ -1,7 +1,7 @@
 {
   "cuisine": "galleries",
   "note": "SCOPE. Art galleries in London - public institutions and commercial contemporary galleries. Museums live in the museums topic.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-26",
   "sources": [
     {
       "name": "Corinthia",
@@ -234,6 +234,73 @@
         "White Cube",
         "The Wallace Collection",
         "The Author"
+      ]
+    },
+    {
+      "name": "London Walks (galleries)",
+      "url": "https://www.walks.com/blog/best-london-art-galleries/",
+      "scope": "galleries",
+      "names": [
+        "London’s most famous",
+        "The National Gallery",
+        "The Royal Academy of Art",
+        "National Portrait Gallery",
+        "Tate Britain",
+        "Tate Modern",
+        "Slightly under-the-radar fine art galleries",
+        "Dulwich Picture Gallery",
+        "The Wallace Collection",
+        "Courtauld Gallery",
+        "The Barbican",
+        "Serpentine Galleries",
+        "Hayward Gallery",
+        "Saatchi Gallery",
+        "Whitechapel Gallery",
+        "Victoria Miro Gallery",
+        "Not officially art galleries but definitely worth visiting",
+        "Victoria and Albert Museum",
+        "Photographers’ Gallery",
+        "Design Museum"
+      ]
+    },
+    {
+      "name": "London Living (free galleries)",
+      "url": "https://www.londonliving.info/blog/best-free-art-galleries",
+      "scope": "galleries",
+      "names": [
+        "London Living’s Bank Holiday Bucket List",
+        "London's Hippest Cocktail Hotspots",
+        "The National Gallery",
+        "Serpentine Gallery",
+        "Tate Britain",
+        "free",
+        "Tate Modern",
+        "The Wallace Collection",
+        "White Chapel Gallery",
+        "White Cube",
+        "The Saatchi Gallery",
+        "― John Lubbock"
+      ]
+    },
+    {
+      "name": "Let Me Show You London",
+      "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/",
+      "scope": "galleries",
+      "names": [
+        "National Gallery",
+        "National Portrait Gallery",
+        "Tate Modern",
+        "Saatchi Gallery",
+        "Camden Arts Centre",
+        "Wallace Collection",
+        "Tate Britain",
+        "Barbican Art Gallery",
+        "Whitechapel Gallery",
+        "Serpentine Galleries",
+        "Email",
+        "Address",
+        "Quick Links",
+        "Support"
       ]
     }
   ]

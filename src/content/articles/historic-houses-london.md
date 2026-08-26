@@ -177,6 +177,27 @@ Every English monarch since 1066 has been crowned here. As with St Paul's, atten
 
 ---
 
+## What they cost, and which are free
+
+Historic houses are the one category where London does not give everything away — but several of the best are still free.
+
+**Free:**
+
+* **Sir John Soane's Museum** — free entry, and the most extraordinary interior on this page. Book ahead for the candlelit evenings, which are the way to see it.
+* **The Wallace Collection** — a Manchester Square townhouse with one of the great private art collections in Europe, free, permanently.
+* **Guildhall Art Gallery** — free, and the Roman amphitheatre in the basement is included.
+* **Burgh House** in Hampstead — free, with the Hampstead Museum inside it.
+
+**Ticketed:**
+
+* **Strawberry Hill House**, **Leighton House**, **Syon House**, **Chiswick House**, **Eltham Palace** and **Ham House** all charge, generally £10–£20.
+* **Historic Houses membership** covers many privately owned houses and pays for itself in about three visits if you are doing several.
+* **English Heritage and the National Trust** each cover a different set — check which body runs a house before buying either.
+
+**Worth knowing:** several are **seasonal**, closing entirely over winter or opening only a few days a week. Strawberry Hill and Ham House in particular are not year-round propositions, so check before travelling.
+
+---
+
 ## What to know
 
 * **Evensong is free** at both St Paul's and Westminster Abbey, daily, and is the cheapest way inside either.

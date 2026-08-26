@@ -179,6 +179,21 @@ Live music, cocktails and dining combined right on the Piazza — the polished, 
 
 ---
 
+## Free and cheap gigs
+
+Live music in London does not have to cost £40 and a booking fee.
+
+* **The Windmill**, Brixton — the room where Black Country, New Road, Squid and most of the south London scene played first. Entry is often a few pounds, and on a good night you are watching a band before anyone else has heard of them.
+* **The Lexington**, Angel — above a pub, one of the most respected small rooms on the circuit, and priced accordingly.
+* **Free jazz.** The Vortex, Ronnie Scott's late show and several Soho pubs run free or near-free sessions. **The Sunday jam at Ronnie's** is the cheapest way into that room by a distance.
+* **Church and lunchtime concerts.** St Martin-in-the-Fields, St James's Piccadilly and the Southbank Centre all run free or pay-what-you-can lunchtime recitals, usually by conservatoire students who are very good.
+* **The Southbank Centre foyers** have free live music most days — a real programme, not background.
+* **Grassroots venues are the point.** Almost every act now filling an arena spent years in rooms like these, and a £6 ticket at The Windmill has better odds of being memorable than £80 at the O2.
+
+> Buy directly from the venue where you can. The resale sites add 20–30% and the grassroots rooms keep more of the money.
+
+---
+
 ## What to know
 
 * **Buy direct from the venue.** Every room here sells its own tickets, and resale prices are frequently multiples of face value.
