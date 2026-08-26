@@ -1,6 +1,6 @@
 ---
-title: "The Best Cocktail Bars in London: 17 Compared"
-seoTitle: "Best Cocktail Bars London 2026: 17 Rooms Compared"
+title: "The Best Cocktail Bars in London: 22 Compared"
+seoTitle: "Best Cocktail Bars London 2026: 22 Rooms Compared"
 description: "Where the Savoy Cocktail Book was written, a martini mixed at your table from a trolley, and a two-drink limit that tells you everything — London's best bars."
 heroImage: "../../assets/articles/best-cocktail-bars-london/best-cocktail-bars-london.jpg"
 heroImageAlt: "A bartender measuring spirits into a jigger behind a dimly lit bar"
