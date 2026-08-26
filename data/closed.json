@@ -223,6 +223,12 @@
         "closes": "REOPENS 2026-09-03",
         "detail": "126 Newgate Street EC1A 7AA. Temporarily closed; its own site states it reopens Thursday 3 September 2026. Closed Sundays thereafter. Not a permanent closure - remove this entry once reopening is confirmed.",
         "recorded": "2026-08-26"
+      },
+      "cine lumiere": {
+        "name": "Ciné Lumière",
+        "closes": "SUMMER CLOSURES 2026-2028",
+        "detail": "17 Queensberry Place SW7 2DT. A three-stage refurbishment of the Institut français runs across the summers of 2026, 2027 and 2028, closing the building for several weeks each time. Stage 1 ran 13 July - 27 August 2026, reopening 28 August. Not a closure - but do not send readers in July or August without a check.",
+        "recorded": "2026-08-26"
       }
     }
   }
