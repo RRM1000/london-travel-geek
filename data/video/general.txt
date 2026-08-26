@@ -1,0 +1,9 @@
+# London food videos - tier D evidence. One URL per line, # to comment out.
+# Counted per CHANNEL by scripts/video-pass.mjs, so several videos from one
+# creator remain one opinion.
+https://www.youtube.com/watch?v=dJcGUPNbOJQ
+https://www.youtube.com/watch?v=Oeyp4NCrg6A
+https://www.youtube.com/watch?v=VlYD4iSEe-4
+https://www.youtube.com/watch?v=En0rWGJaEHI
+https://www.youtube.com/watch?v=RdKbfL0LYL4
+https://www.youtube.com/watch?v=181NqpfjCOc

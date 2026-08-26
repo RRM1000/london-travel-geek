@@ -1,0 +1,116 @@
+{
+  "purpose": "External reference lists of London's major attractions, used by scripts/audit-attractions.mjs to answer 'what are we missing?' with a list rather than a guess.",
+  "why": "Every research pass in the playbook starts from an editorial list - Time Out, The Infatuation, a cuisine guide. That finds what critics write about and structurally cannot find what they do not cover. This file is the opposite: a register of what is objectively big, ranked by visitor numbers or named by the official tourist board, so coverage can be measured against reality instead of against taste.",
+  "howToUse": "node scripts/audit-attractions.mjs",
+  "lists": [
+    {
+      "name": "ALVA / Wikipedia most-visited UK attractions (London entries)",
+      "recorded": "2026-08-23",
+      "source": "https://en.wikipedia.org/wiki/List_of_the_most-visited_attractions_in_the_United_Kingdom",
+      "note": "Ranked by audited visitor numbers for 2025. ALVA is the Association of Leading Visitor Attractions; these are the hard numbers, not an opinion.",
+      "names": [
+        "Natural History Museum",
+        "British Museum",
+        "Tate Modern",
+        "National Gallery",
+        "Southbank Centre",
+        [
+          "Victoria and Albert Museum",
+          "V&A"
+        ],
+        "Somerset House",
+        "Tower of London",
+        "Science Museum",
+        [
+          "Royal Museums Greenwich",
+          "National Maritime Museum",
+          "Royal Observatory Greenwich"
+        ],
+        "Royal Albert Hall",
+        "Westminster Abbey",
+        "St Paul's Cathedral",
+        "British Library",
+        "London Zoo",
+        [
+          "Barbican Centre",
+          "Barbican Conservatory"
+        ],
+        "National Portrait Gallery",
+        "Tate Britain",
+        "Old Royal Naval College",
+        "Imperial War Museum",
+        "Shakespeare's Globe",
+        [
+          "Royal Ballet and Opera",
+          "Royal Opera House"
+        ],
+        "Royal Academy of Arts"
+      ]
+    },
+    {
+      "name": "Paid-ticket landmarks and family attractions",
+      "recorded": "2026-08-23",
+      "source": "visitlondon.com top attractions; Merlin Entertainments London estate; commonly-cited visitor lists",
+      "note": "ALVA members are mostly free museums and heritage sites, so its table under-represents paid attractions and anything aimed at children - which is exactly the gap that let Babylon Park sit unlisted. These are the names a first-time visitor asks about.",
+      "names": [
+        "London Eye",
+        "Madame Tussauds",
+        "The London Dungeon",
+        "SEA LIFE London Aquarium",
+        "Shrek's Adventure",
+        [
+          "The View from The Shard",
+          "The Shard"
+        ],
+        "Sky Garden",
+        [
+          "Kew Gardens",
+          "Royal Botanic Gardens, Kew"
+        ],
+        "Hampton Court Palace",
+        "Kensington Palace",
+        [
+          "Buckingham Palace State Rooms",
+          "Buckingham Palace"
+        ],
+        "Churchill War Rooms",
+        "HMS Belfast",
+        "Cutty Sark",
+        "The Postal Museum",
+        "ArcelorMittal Orbit",
+        "Up at The O2",
+        "IFS Cloud Cable Car",
+        [
+          "Tower Bridge Exhibition",
+          "Tower Bridge"
+        ]
+      ]
+    },
+    {
+      "name": "Day trips from London - OUTSIDE the M25",
+      "recorded": "2026-08-23",
+      "status": "deferred",
+      "statusNote": "DEFERRED BY DECISION, NOT MISSED. These sit outside London and need a decision about how the sheet represents somewhere you take a train to for the day - the geography table, the area guides and the Zone/District model all assume a London location. Recorded here so the audit does not keep re-reporting them as gaps and so they are not lost. Revisit when out-of-London day trips get their own treatment.",
+      "source": "ALVA visitor figures; visitlondon.com day trips; Merlin Entertainments",
+      "auditSkip": true,
+      "names": [
+        "Warner Bros. Studio Tour London - The Making of Harry Potter",
+        "LEGOLAND Windsor Resort",
+        "Chessington World of Adventures",
+        "Thorpe Park",
+        "Windsor Castle",
+        "Hampton Court Palace gardens",
+        "RHS Garden Wisley",
+        "Bicester Village",
+        "Brighton",
+        "Oxford",
+        "Cambridge",
+        "Bath",
+        "Stonehenge",
+        "Canterbury",
+        "Whitstable"
+      ]
+    }
+  ],
+  "aliasNote": "A name may be a string or a list whose first item is canonical and the rest are alternate names the sheet might use. Added after Kew Gardens was reported missing while a row existed as 'Royal Botanic Gardens, Kew'."
+}
