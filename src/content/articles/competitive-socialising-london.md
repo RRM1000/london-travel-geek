@@ -146,6 +146,38 @@ A Wild West saloon where you help run the still, and the cocktails are made in f
 
 ---
 
+## The traditional versions, which are cheaper
+
+Before the format had a name, London had all of this in pubs and clubs, and most of it is still there at a fraction of the price.
+
+### Bloomsbury Lanes, Bloomsbury
+
+*Under a hotel · bowling and karaoke*
+
+A basement bowling alley under the Tavistock Hotel with an American diner attached, karaoke rooms and a proper bar — the last of the old-style London bowling alleys, and considerably cheaper than the branded ones.
+
+### The Ten Pin and Rowans, Finsbury Park
+
+*Bowling, pool and bingo*
+
+Rowans in Finsbury Park is a genuine north London institution: bowling, pool, bingo and karaoke in a building that has changed very little, at prices the new venues cannot touch. Late, loud, and not remotely polished.
+
+### Pub darts and pool
+
+*Free, or the price of a pint*
+
+**Most London pubs still have a dartboard**, and a fair number have a pool table. The competitive socialising venues in this guide are, at bottom, a pub game with a booking system and a lighting rig.
+
+If the game is the point rather than the production, a pub is both cheaper and easier — and several have proper leagues you can watch.
+
+### The parks
+
+*Free · tennis, table tennis and outdoor gyms*
+
+The royal parks and most borough parks have **free table tennis tables** in summer, and many have free or nearly free tennis courts you can book online. Victoria Park, Clapham Common and Hyde Park all do.
+
+---
+
 ## What it costs
 
 This is not a cheap night out, and the pricing is deliberately opaque — most venues charge per lane or per oche rather than per person, so the number you see is not the number you pay.

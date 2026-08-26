@@ -103,6 +103,32 @@ Rain is the correct excuse for a proper meal.
 
 ---
 
+## Whole days indoors without going outside
+
+A few places in London are big enough to spend a full wet day in without stepping out at all.
+
+**The Barbican** is the best of them: two art galleries, three cinemas, a concert hall, a theatre, a library, a conservatory full of tropical plants open on Sundays, and a network of raised walkways connecting the lot. You can arrive at Barbican station and not see weather again until you leave.
+
+**The V&A** is 145 galleries across seven floors and a courtyard café in the world's first museum restaurant. **The British Museum's** Great Court is covered by the Foster roof and is a genuinely pleasant place to sit and wait out a shower.
+
+**Somerset House** links the courtyard, the Courtauld and a warren of rooms under one roof, and **the Southbank Centre** runs from the Royal Festival Hall through to the Hayward with cover most of the way.
+
+## Swimming pools and Turkish baths
+
+Rain stops mattering once you are already wet.
+
+**The Porchester Spa** in Bayswater is the one to know: an Art Deco Turkish bath from 1929, run by the council, with three hot rooms, a Russian steam room, a plunge pool and an ice room, at a fraction of a private spa. Single-sex days most of the week.
+
+**London Fields Lido** is heated to 25°C and open all year — swimming outdoors in the rain is one of the better things you can do in this city, and the pool is emptiest in bad weather.
+
+## Bookshops you can lose an hour in
+
+**Daunt Books** on Marylebone High Street is the famous one, with its Edwardian oak galleries and skylight, and books arranged by country rather than genre.
+
+**Foyles** on Charing Cross Road runs to five floors with a café at the top. **Persephone Books** in Bloomsbury reprints forgotten women writers with endpapers taken from period fabrics. **Word on the Water**, the canal-boat bookshop moored at Granary Square, has a wood stove and a roof, which is exactly what is wanted.
+
+---
+
 ## What to know
 
 * **Museums are quietest in the last two hours** before closing, and everyone else has the same rainy-day idea at 11am.

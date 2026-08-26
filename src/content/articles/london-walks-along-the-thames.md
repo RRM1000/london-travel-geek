@@ -110,6 +110,34 @@ Coming up on the north side with the whole Greenwich skyline behind you is the b
 
 ---
 
+## Rotherhithe to Greenwich: the quiet stretch
+
+*About 4 miles · 1 hour 45 · Rotherhithe to Cutty Sark DLR*
+
+The bit of the Thames Path almost nobody walks, and the better for it. From Rotherhithe the route runs past the **Mayflower** — the pub beside the steps the Pilgrims' ship left from — through Surrey Docks and the old timber ponds, round the peninsula at Greenland Dock, and into Deptford past the site of Henry VIII's naval dockyard.
+
+You emerge at the Cutty Sark with the Old Royal Naval College ahead of you, which is the best arrival on the whole river.
+
+**Stave Hill** is a short detour inland: an artificial mound with a bronze relief on top mapping the docks that used to be here, and a 360-degree view over what replaced them.
+
+## Battersea to Putney: the boat race stretch
+
+*About 4.5 miles · 1 hour 45 · Battersea Power Station to Putney Bridge*
+
+Mostly flat, mostly quiet, and the reverse of the Championship Course the Boat Race is rowed on. Past **Battersea Park** and the Peace Pagoda, under the pink-and-green Albert Bridge, along the Wandsworth reach and into Putney where the rowing clubs line the embankment.
+
+Best done on a spring morning when the crews are out. On Boat Race day itself the towpath is packed for hours before the start.
+
+## Thames Barrier to the Woolwich Ferry
+
+*About 2 miles · 45 minutes · Charlton to Woolwich*
+
+Short, strange and almost empty. The **Thames Barrier** is the end of the Thames Path's London section — ten steel gates across 520 metres of river, each as tall as a five-storey building, and the Information Centre on the south bank explains what happens when they close.
+
+Walk east from there to the **Woolwich Ferry**, which is free, takes vehicles and foot passengers, and has crossed the river on that spot since 1889.
+
+---
+
 ## Short central walks people take the Tube for
 
 * **Covent Garden → Leicester Square** — 4 minutes. One Tube stop, and further through the station tunnels.
@@ -117,6 +145,16 @@ Coming up on the north side with the whole Greenwich skyline behind you is the b
 * **Westminster → South Bank** — 10 minutes over the bridge.
 * **St Paul's → Tate Modern** — 8 minutes over the Millennium Bridge.
 * **King's Cross → Bloomsbury** — 12 minutes.
+
+---
+
+## Practical notes for walking the river
+
+* **The tide runs fast and the foreshore is not a beach.** The stairs at Wapping, Bankside and Rotherhithe are only usable around low water, and the river comes back in more quickly than people expect. Check a tide table before going down.
+* **Mudlarking needs a permit.** Even picking things up off the foreshore requires a Port of London Authority licence, and they are limited. Looking is free.
+* **The path is not continuous.** Development, private wharves and construction close sections at both ends of the city. The signage is good where it exists and absent where it does not.
+* **North bank or south?** The south is more continuous and greener; the north has more of the historic pubs and the City. Between Westminster and Tower Bridge the south bank is the better walk by some margin.
+* **Bridges are the decision points.** Every bridge is free to cross, and most walks work better as a loop over two of them than as an out-and-back.
 
 ---
 

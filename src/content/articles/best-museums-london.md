@@ -205,6 +205,20 @@ A Victorian tea trader's collection, most famous for **a walrus stuffed by taxid
 
 ---
 
+## How to actually do the big ones
+
+The free national museums are enormous and most people do them badly. These are the things that make the difference.
+
+* **Pick three things and leave.** The British Museum has around eight million objects and about 80,000 on display. Completeness is not available, and trying for it is how people end up exhausted in Room 62 having enjoyed none of it.
+* **Go at opening or in the last two hours.** The V&A, the Natural History Museum and the British Museum are all substantially quieter before 11am and after 4pm. The queues at the Natural History Museum in half-term are the worst in London.
+* **Use the side entrances.** The Natural History Museum's Exhibition Road entrance is almost always shorter than the Cromwell Road one. The V&A's tunnel entrance from South Kensington station skips the street entirely.
+* **Free does not mean no booking.** Several still ask for a timed slot at busy periods even though entry costs nothing, and turning up without one on a Saturday can mean a wait.
+* **The temporary exhibitions are what you pay for**, and they are where the queues are. The permanent collections are free, permanently, and are the reason these museums are internationally famous.
+* **Lates are the best-kept secret.** The V&A, the Science Museum, the Natural History Museum and the Wellcome Collection all run evening openings, usually monthly, usually free, and usually with a bar and a much better atmosphere than a Saturday afternoon.
+* **The gift shops and cafés are the funding.** Entry is free because of them, so buying a coffee is closer to paying admission than it looks.
+
+---
+
 ## What to know
 
 * **Free means free.** The national museums have no admission charge and never ask for one at the door, though donation boxes are prominent.
