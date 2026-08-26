@@ -156,6 +156,46 @@
       ],
       "source": "venue check 2026-08-26",
       "recorded": "2026-08-26"
+    },
+    "claude bosi at bibendum": {
+      "name": "Claude Bosi at Bibendum",
+      "closed": "2026",
+      "detail": "Two Michelin stars. Closed after the lease could not be agreed.",
+      "stillRecommendedBy": [
+        "fine dining listicles"
+      ],
+      "source": "Michelin Guide 2026 star losses",
+      "recorded": "2026-08-26"
+    },
+    "la dame de pic london": {
+      "name": "La Dame de Pic London",
+      "closed": "2026",
+      "detail": "Two Michelin stars. Closed when the Four Seasons partnership ended.",
+      "stillRecommendedBy": [
+        "fine dining listicles"
+      ],
+      "source": "Michelin Guide 2026 star losses",
+      "recorded": "2026-08-26"
+    },
+    "club gascon": {
+      "name": "Club Gascon",
+      "closed": "2026-03",
+      "detail": "Smithfield. Closed March 2026 after roughly thirty years, holding a star since 2002.",
+      "stillRecommendedBy": [
+        "fine dining listicles"
+      ],
+      "source": "Michelin Guide 2026 star losses",
+      "recorded": "2026-08-26"
+    },
+    "the five fields": {
+      "name": "The Five Fields",
+      "closed": "2025-02",
+      "detail": "Chelsea. Closed February 2025 after twelve years, one Michelin star.",
+      "stillRecommendedBy": [
+        "fine dining listicles"
+      ],
+      "source": "Michelin Guide 2026 star losses",
+      "recorded": "2026-08-26"
     }
   },
   "uncertain": {
@@ -182,6 +222,11 @@
     "sonora taqueria postcode": {
       "name": "Sonora Taqueria (postcode conflict)",
       "detail": "208 Stoke Newington High Street. Sources split between N16 7HU and N16 8BP. Do not print a postcode until one is confirmed.",
+      "recorded": "2026-08-26"
+    },
+    "humo": {
+      "name": "Humo (star lost, still open)",
+      "detail": "Mayfair. LOST its Michelin star in the 2026 guide but is STILL TRADING NORMALLY. Not a closure - the hazard is the opposite: any guide still calling it Michelin-starred is wrong. Chef Miller Prada left in early 2025; Robbie Jameson took over.",
       "recorded": "2026-08-26"
     }
   },
@@ -228,6 +273,12 @@
         "name": "Ciné Lumière",
         "closes": "SUMMER CLOSURES 2026-2028",
         "detail": "17 Queensberry Place SW7 2DT. A three-stage refurbishment of the Institut français runs across the summers of 2026, 2027 and 2028, closing the building for several weeks each time. Stage 1 ran 13 July - 27 August 2026, reopening 28 August. Not a closure - but do not send readers in July or August without a check.",
+        "recorded": "2026-08-26"
+      },
+      "dinner by heston blumenthal": {
+        "name": "Dinner by Heston Blumenthal",
+        "closes": "2027-01",
+        "detail": "Mandarin Oriental Hyde Park. Two Michelin stars. Closure announced March 2026, closing January 2027 as the contract ends. Still trading until then.",
         "recorded": "2026-08-26"
       }
     }

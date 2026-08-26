@@ -20,14 +20,14 @@ faq:
   - q: "How far ahead do I need to book?"
     a: "Months for the three-star rooms and for River Café's terrace. Weeks for most one-star restaurants. Sushi Tetsu releases seven seats in batches and they go in minutes."
   - q: "What is the cheapest way to eat at a Michelin-starred restaurant in London?"
-    a: "Lunch. Almost every starred kitchen runs a set lunch at a fraction of dinner — A. Wong's dim sum lunch and Restaurant Gordon Ramsay's lunch menu are both materially cheaper for the same kitchen."
+    a: "Lunch, and the gap is bigger than most people expect. Pied à Terre runs a three-course set lunch at £35, which is the cheapest verified route into a Michelin-starred London dining room. Restaurant Gordon Ramsay's set lunch is £125 against £180 à la carte, and The Ledbury's six-course lunch is £220 against £295 at dinner."
   - q: "Which London restaurant is best for a proposal?"
     a: "Clos Maggiore in Covent Garden is regularly called the most romantic room in London — a blossom-covered conservatory with a fire. Book the conservatory specifically, well ahead, and say why."
   - q: "Is Dinner by Heston still open?"
     a: "It is trading now but closes in January 2027 when its Knightsbridge lease ends. If you want to eat there, this is the year."
 ---
 
-London has **six three-Michelin-star restaurants**, more than any city outside Paris and Tokyo, and a second tier of rooms where the building does as much work as the kitchen.
+London has **six three-Michelin-star restaurants** in the 2026 guide, and a second tier of rooms where the building does as much work as the kitchen.
 
 This guide separates the two, because a milestone dinner and a spectacular room are different bookings.
 
@@ -49,7 +49,7 @@ This guide separates the two, because a milestone dinner and a spectacular room 
 | **The City** | Duck & Waffle, SUSHISAMBA |
 | **Soho** | Bob Bob Ricard |
 
-**Price guide:** **£££** £40–£70 · **££££** £90+ · three-star tasting menus £150–£310.
+**Price guide:** **£££** £40–£70 · **££££** £90+. Among the three-star rooms, the range actually runs from **£125** for Restaurant Gordon Ramsay's set lunch to **£295** for dinner at The Ledbury.
 
 ---
 
@@ -93,7 +93,9 @@ Brett Graham's, and it took its third star in 2024. Grows its own mushrooms.
 
 *££££*
 
-Pierre Gagnaire's London expression, and **the only three-star restaurant in Soho or Mayfair's western edge**. The rest of Sketch — the pink room, the egg lavatories — is a separate, cheaper experience.
+Pierre Gagnaire's London expression, on Conduit Street. The rest of sketch — the pink room, the egg lavatories — is a separate and cheaper experience in the same building, which makes it the one three-star address where you can have a version of the evening without the tasting menu.
+
+> sketch publishes no prices anywhere on its site; they appear only once you are inside the booking flow.
 
 ---
 
@@ -151,11 +153,39 @@ The only place in London where a celebration can start at 2am and end with sunri
 
 ---
 
+## Recently closed, and still in older guides
+
+Fine dining turns over fast and the guides lag. All of these were starred and are gone:
+
+* **Claude Bosi at Bibendum**, South Kensington — two stars, closed after the lease could not be agreed.
+* **La Dame de Pic London** — two stars, closed when the Four Seasons partnership ended.
+* **Club Gascon**, Smithfield — closed March 2026 after roughly thirty years and a star held since 2002.
+* **The Five Fields**, Chelsea — closed February 2025 after twelve years.
+* **Lyle's**, Shoreditch — closed in its starred form in May 2025.
+
+> ⚠️ **One to watch for the opposite reason.** **Humo** in Mayfair **lost its star in the 2026 guide and is still trading normally.** It remains a good restaurant, but anything still describing it as Michelin-starred is out of date — and that is the error most likely to be repeated across London guides this year.
+
+**And two arrivals:** **Bonheur by Matt Abé** opened with **two stars** in Le Gavroche's old Mayfair site, and **Row on 5** was promoted from one star to two.
+
+---
+
 ## Cheaper ways into serious kitchens
 
-* **Lunch, everywhere.** Almost every starred restaurant runs a set lunch at a fraction of dinner.
-* **A. Wong's dim sum lunch** — the cheapest route into a two-star kitchen anywhere in London.
-* **Café Murano** — Angela Hartnett's everyday room, the same thinking at a third of Murano's price.
+The gap between lunch and dinner at a starred restaurant is the single biggest saving available in London dining, and it is for the same kitchen and the same room.
+
+**Verified set lunches, cheapest first:**
+
+* **Pied à Terre**, Fitzrovia — **£35** for three courses, on its 35th-anniversary menu. **The cheapest verified way into a Michelin-starred dining room in London**, and you have to mention it when booking or you will not be offered it.
+* **La Trompette**, Chiswick — **£45** for three courses, Wednesday to Friday.
+* **Chez Bruce**, Wandsworth — **£68.50** for three courses, at every lunch service.
+* **Restaurant Gordon Ramsay**, Chelsea — **£125**, Tuesday to Friday, against £180 à la carte and £210 for the Prestige menu.
+* **The Ledbury**, Notting Hill — **£220** for six courses at lunch against **£295** for dinner. A £75 saving on the same kitchen.
+* **Hélène Darroze at The Connaught** — à la carte is served **at lunch only**, and two courses come in around £96 against £230 for the shortest tasting menu. The best-value three-star lunch in London and almost nobody knows it exists.
+
+**Where lunch does not help:** Core by Clare Smyth saves only £30 at lunch, and Alain Ducasse at The Dorchester publishes no set lunch at all — its cheapest route in is the £215 three-course menu.
+
+* **A. Wong**, Pimlico — dim sum at lunch is **à la carte per dish**, not a set menu, which is why no headline price is quoted. Dumplings start around **£4.50–£6** and the top items reach £15–£16, so you control the bill. Still the cheapest way into a two-star kitchen in London.
+* **Café Murano** — Angela Hartnett's everyday room, and considerably cheaper than Murano. Note it is a sibling restaurant at a different address rather than a cheaper room in the same building.
 * **Sushi Atelier** — repeatedly named the best-value serious omakase in central London.
 * **Trullo** — what London chefs recommend when they are paying themselves.
 

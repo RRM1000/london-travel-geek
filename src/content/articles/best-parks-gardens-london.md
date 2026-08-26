@@ -1,6 +1,6 @@
 ---
-title: "London's Best Parks and Gardens: 12 Green Spaces"
-seoTitle: "Best Parks & Gardens London 2026: 12 Compared, Mostly Free"
+title: "London's Best Parks and Gardens: 16 Green Spaces"
+seoTitle: "Best Parks & Gardens London 2026: 16 Compared, Mostly Free"
 description: "A Wren church left as a shell and filled with vines, dinosaurs built in 1854, and a tropical conservatory inside a brutalist fly tower — London's green spaces."
 heroImage: "../../assets/articles/best-parks-gardens-london/best-parks-gardens-london.jpg"
 heroImageAlt: "Autumn colour on the trees along a path in Hyde Park"
@@ -77,6 +77,40 @@ The best formal gardens in London, plus the Open Air Theatre, London Zoo and Pri
 *Free · 200 acres*
 
 A boating lake, a children's zoo, a **Japanese Peace Pagoda** on the Thames path, and a bandstand. The most family-usable of the big parks.
+
+---
+
+### Greenwich Park
+
+*Free · London's oldest enclosed royal park*
+
+**183 acres and the oldest enclosed royal park in London**, rising steeply from the Old Royal Naval College to the Observatory on the hill — which gives it the best composed view in the city and, in The Wilderness, a wild deer herd.
+
+The view from the General Wolfe statue is free and sits outside the ticketed Observatory, which is the thing most visitors get wrong.
+
+### Kensington Gardens
+
+*Free · beside Hyde Park*
+
+Quieter and more formal than Hyde Park next door, and easy to treat as the same place when it is not. The **Italian Gardens** at the Lancaster Gate end, the Serpentine Galleries, the Albert Memorial, and Kensington Palace at the western edge.
+
+The Round Pond and the Diana Memorial Playground are the two things families come back for.
+
+### St James's Park
+
+*Free · the pelicans*
+
+The oldest of the royal parks and the most central, running from Buckingham Palace to Horse Guards, with a lake full of waterfowl and **a resident colony of pelicans** first presented to Charles II by a Russian ambassador in 1664.
+
+The bridge over the lake gives the postcard view of Buckingham Palace one way and the Horse Guards rooftops the other.
+
+### Crystal Palace Park
+
+*Free · the Victorian dinosaurs*
+
+Two hundred acres in south London built around the **Crystal Palace Dinosaurs** — thirty Victorian sculptures from 1854, the first attempt anywhere to model prehistoric animals at full size, and gloriously wrong about most of them.
+
+The park is in transition after a long programme of works, and the restored **Crystal Palace Subway** opens to the public on occasional free days.
 
 ---
 

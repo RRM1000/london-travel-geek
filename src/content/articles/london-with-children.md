@@ -175,6 +175,56 @@ A guided walkthrough with live actors and a 4D bus ride, aimed at roughly ages 5
 
 ---
 
+## The big attractions, and whether they are worth it with children
+
+The famous ones are famous for a reason, but they are not equally good with children and they are not equally priced.
+
+### Tower of London
+
+*Ticketed · book ahead*
+
+**The best of the big-ticket attractions for children by a distance.** Armour, the Crown Jewels, ravens, a genuinely good Yeoman Warder tour that is included and is funnier than it needs to be, and a thousand years of grim stories told at exactly the right pitch.
+
+Arrive at opening. By midday the Jewel House queue is the whole experience.
+
+### The British Museum
+
+*Free · Great Court*
+
+Free, enormous, and the mummies are the reason most children want to come. The trick is to **pick three things and leave** — the museum is designed to defeat completeness and a tired child in Room 62 is nobody's good afternoon.
+
+Free family trails at the desk, and the Great Court is a decent place to sit down.
+
+### Tower Bridge
+
+*Ticketed · glass floors*
+
+The **glass floors in the high-level walkways** are the draw, plus the Victorian engine rooms underneath, which are better than they sound.
+
+Check the bridge lift times on their site — watching it open from the pavement is free and is the better experience of the two for small children.
+
+### The London Eye
+
+*Ticketed · £29+ online*
+
+Thirty minutes, a slow rotation, and no way off once you are on — which suits some children and very much does not suit others. **Buy online**, where it is meaningfully cheaper than the walk-up price.
+
+Honest note: for the money, the Tower of London is a longer and more interesting day.
+
+### Westminster Abbey and Buckingham Palace
+
+*Ticketed · seasonal for the Palace*
+
+Both are magnificent and neither is designed for children. **The Changing of the Guard is free** and outside, which is the version most families actually want — and the State Rooms at Buckingham Palace open only in summer.
+
+### Madame Tussauds
+
+*Ticketed · the divisive one*
+
+Expensive, always busy, and entirely about whether your child wants a photograph with a waxwork. If they do, they will love it. If they do not, there is nothing else there.
+
+---
+
 ## Free spectacle
 
 * **Changing the Guard**, St James's — guards in bearskins and a full regimental band, free to watch. Check the schedule; it does not run daily.
