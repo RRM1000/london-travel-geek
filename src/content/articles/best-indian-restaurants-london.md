@@ -35,7 +35,7 @@ So this guide is arranged by **what each kitchen actually cooks**: Awadhi, Keral
 > 💡 **The Short Version:** **Trishna** is the single most-recommended Indian restaurant in London and the safest booking on this page. Go to **Gymkhana** for a milestone and book months out; **Veeraswamy** for a hundred years of Regent Street; **Dishoom** or **Kricket** for a good central meal without a plan; **Tayyabs** for the best £25 you will spend on food in this city; and **Rasa** for South Indian vegetarian cooking that shames most of the Mayfair vegetable courses.
 
 > 📘 **How we choose these (editorial note)**
-> No paid placements, and nothing ranked on customer star averages. Each guide draws on more than twenty sources — restaurant guides, food magazines, blogs, the curry award circuit, YouTube tours and social — and a place earns its spot by turning up repeatedly across sources that don't read each other. Prices and booking rules change; check before you travel.
+> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Prices and booking rules change; check before you travel.
 
 ## Where they are
 
@@ -190,7 +190,7 @@ Named Best Fine Dining Restaurant in London at the Asian Curry Awards, and a Ber
 
 *££££ · Mayfair · 5 min from Green Park · book weeks ahead · 2 sources; Michelin star*
 
-The first Indian restaurant anywhere in the world to win a Michelin star, which it did in 2001 and holds today. It is still a Mayfair basement doing tandoor cooking, and it has never tried to become anything else — no reinvention, no small plates, no counter.
+One of the first two Indian restaurants anywhere in the world to win a Michelin star — it and Zaika were awarded jointly in 2001 — and it holds one today. It is still a Mayfair basement doing tandoor cooking, and it has never tried to become anything else — no reinvention, no small plates, no counter.
 
 **6 minutes from Benares.**
 
@@ -393,8 +393,6 @@ Mother-and-son Gujarati cooking from family recipes, a few steps from Horn OK Pl
 *£ · Covent Garden · 3 min from Covent Garden · walk-in only*
 
 Kati rolls the Kolkata way, inside Seven Dials Market: paratha cooked with egg through it, wrapped around spiced chicken or paneer with pickled onion, coriander chutney and lime. The best thing you can eat in Covent Garden for a fiver.
-
-> 🍜 **Also worth knowing, though it is not Indian.** [Gopal's Corner](https://markethalls.co.uk/) in Market Halls Victoria serves roti canai clapped to order with mutton or dhal curry, from the founder of Soho's Roti King. It is Malaysian Tamil cooking rather than Indian and we file it that way — but if you came to this page looking for flaky flatbread and curry, it is what you actually want.
 
 ---
 

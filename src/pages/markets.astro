@@ -1,0 +1,197 @@
+---
+// London markets, grouped by the day they actually trade.
+//
+// WHY BY DAY: it is the one thing that changes whether a visit works at all.
+// Columbia Road does not exist on a Tuesday; Broadway Market is a Saturday and
+// an ordinary street the rest of the week. Every other markets list on the
+// internet is alphabetical or by area, which is exactly the ordering that
+// sends someone to a flower market on the wrong day.
+//
+// A row qualifies for this page by carrying `marketDays` - set in
+// write-activities.mjs. That deliberately excludes the shopping streets and
+// malls that share activityType "market-visit" (Carnaby Street, the King's
+// Road, Battersea Power Station): they are places to shop, not markets with
+// trading days.
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import activityData from "../data/activities.json";
+
+// See free.astro - a row's `area` is the venue's own neighbourhood, which is
+// not always what its guide is called (Columbia Road sits in Bethnal Green but
+// belongs to the Shoreditch guide). Link labels come from the guide itself.
+const guideNames = new Map(
+  (await getCollection("articles"))
+    .filter((a) => a.data.area)
+    .map((a) => [a.id, a.data.area!.name]),
+);
+
+type Market = {
+  slug: string; name: string; marketDays?: string; area?: string;
+  guide?: string; station?: string; walkMin?: number;
+  whyGo?: string; opNote?: string; indoorOutdoor?: string;
+  foodOffer?: string;
+};
+
+// "Market" tells you nothing about whether you can eat. These labels do.
+const FOOD_OFFER: Record<string, string> = {
+  "hot-food": "Hot food",
+  provisions: "Produce, not meals",
+  both: "Hot food and produce",
+};
+
+const markets = (activityData.activities as Market[])
+  .filter((m) => m.marketDays)
+  .sort((a, b) => a.name.localeCompare(b.name));
+
+const DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"] as const;
+const SHORT: Record<string, number> = {
+  mon: 0, tue: 1, wed: 2, thu: 3, fri: 4, sat: 5, sun: 6,
+};
+
+// "Thu-Sun" / "Wed & Sat" / "Daily" / "Saturday" -> the day indices it covers.
+function daysOf(spec: string): number[] {
+  const s = spec.toLowerCase();
+  if (s.includes("daily")) return [0, 1, 2, 3, 4, 5, 6];
+
+  const out = new Set<number>();
+  for (const part of s.split(/\s*(?:&|,|and)\s*/)) {
+    const range = part.match(/([a-z]{3})[a-z]*\s*[-–]\s*([a-z]{3})/);
+    if (range) {
+      const from = SHORT[range[1]];
+      const to = SHORT[range[2]];
+      if (from != null && to != null) {
+        for (let i = from; i !== (to + 1) % 7; i = (i + 1) % 7) out.add(i);
+      }
+      continue;
+    }
+    const single = part.trim().slice(0, 3);
+    if (SHORT[single] != null) out.add(SHORT[single]);
+  }
+  return [...out];
+}
+
+const byDay = DAYS.map((day, i) => ({
+  day,
+  markets: markets.filter((m) => daysOf(m.marketDays!).includes(i)),
+}));
+
+// The ones worth planning around - they exist on one or two days only.
+const limited = markets.filter((m) => daysOf(m.marketDays!).length <= 2);
+
+const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Markets" }];
+---
+
+<BaseLayout
+  title="London markets by day: which markets are on today"
+  description={`Every London market we cover — ${markets.length} of them — grouped by the days they actually trade, so you never turn up to a flower market on a Tuesday.`}
+  breadcrumbs={breadcrumbs}
+>
+  <section class="container mk">
+    <header class="mk-hero">
+      <h1>London markets, by day</h1>
+      <p class="mk-lede">
+        {markets.length} markets, grouped by when they actually trade. Several of
+        the best ones run on a single day a week — turning up on the wrong day is
+        the most common way to waste a morning here.
+      </p>
+    </header>
+
+    <section class="mk-callout">
+      <h2>The ones you have to plan around</h2>
+      <p>These trade on one or two days a week. Everything else is open most of the week.</p>
+      <ul class="mk-chips">
+        {limited.map((m) => (
+          <li><strong>{m.name}</strong> <span>{m.marketDays}</span></li>
+        ))}
+      </ul>
+    </section>
+
+    {byDay.map(({ day, markets: list }) => (
+      <section class="mk-day">
+        <h2 id={day.toLowerCase()}>{day}</h2>
+        <p class="mk-count">{list.length} {list.length === 1 ? "market" : "markets"}</p>
+        <ul class="mk-list">
+          {list.map((m) => (
+            <li>
+              <div class="mk-head">
+                <h3>{m.name}</h3>
+                <span class="mk-days">{m.marketDays}</span>
+                {m.foodOffer && FOOD_OFFER[m.foodOffer] && (
+                  <span class:list={["mk-food", `mk-food--${m.foodOffer}`]}>
+                    {FOOD_OFFER[m.foodOffer]}
+                  </span>
+                )}
+              </div>
+              <p class="mk-meta">
+                {m.area && <span>{m.area}</span>}
+                {m.station && m.walkMin && <span>{m.walkMin} min from {m.station}</span>}
+                {m.indoorOutdoor === "indoor" && <span>Covered</span>}
+              </p>
+              {m.whyGo && <p class="mk-why">{m.whyGo}</p>}
+              {m.guide && guideNames.has(m.guide) && (
+                <p class="mk-link">
+                  <a href={`/articles/${m.guide}/`}>Read the {guideNames.get(m.guide)} guide</a>
+                </p>
+              )}
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </section>
+</BaseLayout>
+
+<style>
+  .mk { padding-block: 2rem 4rem; max-width: 48rem; }
+  .mk-hero { margin-block-end: 2rem; }
+  .mk-hero h1 { margin: 0 0 0.5rem; text-wrap: balance; }
+  .mk-lede { margin: 0; max-width: 40rem; }
+
+  .mk-callout {
+    margin-block-end: 3rem;
+    padding: 1.25rem 1.4rem;
+    border: 1px solid var(--line);
+    border-radius: var(--card-radius);
+    background: var(--surface);
+  }
+  .mk-callout h2 { margin: 0 0 0.4rem; font-size: 1.05rem; }
+  .mk-callout p { margin: 0 0 0.9rem; font-size: 0.92rem; opacity: 0.8; }
+  .mk-chips { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.45rem; }
+  .mk-chips li { font-size: 0.95rem; }
+  .mk-chips span {
+    margin-inline-start: 0.4rem; padding: 0.1rem 0.45rem;
+    border-radius: 3px; background: var(--surface-strong);
+    font-size: 0.78rem; font-weight: 700;
+  }
+
+  .mk-day { margin-block-end: 2.75rem; }
+  .mk-day h2 { margin: 0 0 0.15rem; scroll-margin-top: 5rem; }
+  .mk-count { margin: 0 0 1.1rem; font-size: 0.85rem; opacity: 0.65; font-variant-numeric: tabular-nums; }
+
+  .mk-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.5rem; }
+  .mk-list > li { border-block-end: 1px solid var(--line); padding-block-end: 1.5rem; }
+  .mk-list > li:last-child { border-block-end: 0; padding-block-end: 0; }
+
+  .mk-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 0.5rem; }
+  .mk-head h3 { margin: 0; font-size: 1.1rem; }
+  .mk-days {
+    padding: 0.1rem 0.45rem; border-radius: 3px;
+    background: var(--surface-strong); font-size: 0.75rem; font-weight: 700;
+  }
+  /* Semantic, not decorative: green where you can eat, neutral where you
+     cannot. Someone scanning for lunch should not have to read the prose. */
+  .mk-food {
+    padding: 0.1rem 0.45rem; border-radius: 3px;
+    font-size: 0.75rem; font-weight: 700;
+    border: 1px solid currentColor;
+  }
+  .mk-food--hot-food { color: #1f7a4d; }
+  .mk-food--both { color: #1f7a4d; }
+  .mk-food--provisions { color: var(--muted); }
+  .mk-meta {
+    display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem;
+    margin: 0.35rem 0 0; font-size: 0.85rem; opacity: 0.75;
+  }
+  .mk-why { margin: 0.5rem 0 0; }
+  .mk-link { margin: 0.45rem 0 0; font-size: 0.9rem; }
+</style>

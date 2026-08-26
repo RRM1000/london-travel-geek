@@ -92,9 +92,18 @@ It is also two different places depending on when you arrive. By day it is a wor
 ## Key streets and micro-districts
 
 ### Gerrard Street and Chinatown
+
+![Red lanterns strung above a crowded Gerrard Street in Chinatown](../../assets/articles/soho-area-guide/chinatown-gerrard-street.jpg)
+
+*Gerrard Street under its lanterns. The street is pedestrianised, and busiest between about 6pm and 9pm.*
+
 Pedestrianised and lantern-strung. Cantonese roast meats, dim sum, hotpot and late-night bakeries. Busiest on Sunday afternoons.
 
 ### Old Compton Street
+
+![Old Compton Street at dusk, busy with people, lined with bars and a florally decorated frontage](../../assets/articles/soho-area-guide/old-compton-street.jpg)
+
+*Old Compton Street at dusk. It is the centre of Soho's LGBTQ+ scene and the street most people picture when they picture Soho.*
 The east–west spine of Soho nightlife, and the centre of its LGBTQ+ scene. Cafes by day, packed by 21:00.
 
 ### Carnaby Street and Kingly Court
@@ -104,6 +113,10 @@ Pedestrian shopping to the west. Kingly Court is the reason to come.
 Market stalls, record shops and some of Soho's better restaurants. Broadwick Street has the John Snow pump replica — the origin point of modern epidemiology.
 
 ### Dean Street and Frith Street
+
+![The corner of Frith Street in Soho, with the street sign above a red-awninged restaurant frontage](../../assets/articles/soho-area-guide/frith-street-corner.jpg)
+
+*Frith Street where it meets Shaftesbury Avenue. Ronnie Scott's, Bar Italia and a run of long-standing restaurants are all on this stretch.*
 North–south restaurant streets, plus Ronnie Scott's and the Soho private members' clubs.
 
 ## Where to eat and drink

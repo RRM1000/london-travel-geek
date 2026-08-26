@@ -5,6 +5,7 @@
 // the right page with no edit to the markdown. A guide with no activity rows
 // renders nothing at all rather than an empty heading.
 import data from "../data/activities.json";
+import { sheetPhotos } from "../lib/sheetPhotos";
 
 interface Props {
   /** The article id, e.g. "shoreditch-area-guide". */
@@ -18,14 +19,21 @@ type Activity = {
   slug: string; name: string; type?: string; style?: string;
   area?: string; station?: string; walkMin?: number;
   agePolicy?: string; seasonal?: string; duration?: string;
-  price?: string; booking?: string; opNote?: string;
+  price?: string; booking?: string; opNote?: string; guidePlacement?: string;
   whyGo?: string; website?: string; bookingUrl?: string;
   // Not sheet columns: export-activities.mjs generates these from
   // lib/affiliate.mjs, so only the rows with something to sell carry them.
   affiliateUrl?: string; affiliateNetwork?: string;
 };
 
-const all = (data.activities as Activity[]).filter((a: any) => a.guide === articleId);
+// guidePlacement "prose" means this guide's own hand-written text already
+// covers the venue, so listing it here would print it twice on one page - the
+// bug Neal's Yard, Seven Dials Market and the Guinness brewery all had. The row
+// still appears in /things-to-do, the filters, the maps and search; it is only
+// this one page's auto-list that stands down. See write-activities.mjs.
+const all = (data.activities as Activity[])
+  .filter((a: any) => a.guide === articleId)
+  .filter((a: any) => a.guidePlacement !== "prose");
 
 // Free things first — they are the ones readers most often do not know about,
 // and the ones the local guides lead with.
@@ -47,6 +55,11 @@ const SEASON_LABEL: Record<string, string> = {
   "summer-only": "Summer only",
   seasonal: "Seasonal",
 };
+
+// Photos are matched by slug from the assets tree - see lib/sheetPhotos. Most
+// rows have none, and a card without one is the normal layout rather than a
+// gap: the grid collapses to a single column when there is nothing to show.
+const photos = await sheetPhotos(list.map((a) => a.slug));
 ---
 
 {list.length > 0 && (
@@ -63,7 +76,21 @@ const SEASON_LABEL: Record<string, string> = {
 
     <ul class="aa-list">
       {list.map((a) => (
-        <li class="aa-item">
+        <li class:list={["aa-item", photos.has(a.slug) && "aa-item--photo"]}>
+          {photos.has(a.slug) && (
+            <img
+              class="aa-photo"
+              src={photos.get(a.slug)!.src}
+              srcset={photos.get(a.slug)!.srcset}
+              sizes={photos.get(a.slug)!.sizes}
+              width={photos.get(a.slug)!.width}
+              height={photos.get(a.slug)!.height}
+              alt=""
+              loading="lazy"
+              decoding="async"
+            />
+          )}
+          <div class="aa-body">
           <div class="aa-head">
             <h3>{a.name}</h3>
             {isFree(a) && <span class="aa-tag aa-free">Free</span>}
@@ -101,6 +128,7 @@ const SEASON_LABEL: Record<string, string> = {
               )}
             </p>
           )}
+          </div>
         </li>
       ))}
     </ul>
@@ -124,6 +152,23 @@ const SEASON_LABEL: Record<string, string> = {
     gap: 1.5rem;
   }
   .aa-item { border-block-end: 1px solid var(--color-border, #e2e2e2); padding-block-end: 1.5rem; }
+  /* A card only becomes two columns when it actually has a photo, so rows
+     without one keep the exact layout they had before this existed.
+     Scoped through .area-activities .aa-list for the SAME reason ul.aa-list is
+     above: ArticleLayout's global list styling in .article__body otherwise wins
+     and holds these at display:list-item, which silently kills the grid. */
+  .area-activities .aa-list > .aa-item--photo {
+    display: grid; grid-template-columns: 14rem 1fr; gap: 1.25rem; align-items: start;
+  }
+  .aa-photo {
+    width: 100%; height: 100%; max-height: 11rem;
+    object-fit: cover; border-radius: var(--card-radius, 0.5rem);
+    background: var(--surface, #f2f2f2);
+  }
+  @media (max-width: 40rem) {
+    .area-activities .aa-list > .aa-item--photo { grid-template-columns: 1fr; }
+    .aa-photo { max-height: 13rem; }
+  }
   .aa-list > .aa-item:last-child { border-block-end: 0; padding-block-end: 0; }
   .aa-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 0.5rem; }
   .aa-head h3 { margin: 0; font-size: 1.1rem; }

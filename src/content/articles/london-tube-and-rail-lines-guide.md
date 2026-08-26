@@ -40,6 +40,11 @@ The Elizabeth line runs west–east through central London, linking Paddington, 
 
 ## London Underground
 
+![A platform line diagram at Great Portland Street showing westbound stops on the Hammersmith & City and Circle lines](../../assets/articles/oyster-train-lines/circle-hammersmith-line-diagram.jpg)
+
+*Every platform carries a diagram of that platform's line and direction. Checking it before boarding is the simplest way to avoid taking the wrong branch.*
+
+
 All 11 Tube lines are rated below. The Elizabeth line, DLR and London Overground are covered after this section.
 
 **Rating key:**

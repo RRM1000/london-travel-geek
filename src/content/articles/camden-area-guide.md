@@ -56,13 +56,13 @@ faq:
   - q: "What days is Camden Market open?"
     a: "Every day, roughly 10:00 to 18:00. Unlike most London markets it does not depend on the weekend — though Saturday and Sunday are considerably busier, and some stalls only trade then. A weekday morning gets you the same market with room to move."
   - q: "Can you take a boat from Camden to Little Venice?"
-    a: "Yes. Narrowboat waterbuses run along the Regent's Canal from Camden Lock to Little Venice via Regent's Park and London Zoo, taking about 50 minutes. Services are frequent in summer and much reduced in winter."
+    a: "Yes. Narrowboat waterbuses run along the Regent's Canal from Camden Lock to Little Venice through Regent's Park and the London Zoo grounds, taking about 45 minutes. They do not stop at the zoo — the nearest stop is Camden Market, about fifteen minutes' walk from the entrance. Services are frequent in summer and much reduced in winter."
   - q: "Is Primrose Hill worth the walk?"
     a: "Yes. It is fifteen minutes north-west of Camden Lock and the view from the top is one of the best free panoramas in London — the whole central skyline laid out, with a plaque naming the buildings. It is a proper hill, so allow for the climb."
   - q: "Where was the Paddington film house?"
     a: "Chalcot Crescent in Primrose Hill, about fifteen minutes north-west of Camden Lock. The address in the books and films is 32 Windsor Gardens, which is fictional — the curving terrace of pastel houses used for the exterior is on Chalcot Crescent. They are private homes on an ordinary residential street, so photograph from the pavement and keep off the steps."
   - q: "Is Camden safe?"
-    a: "Yes, though it is very crowded and pickpocketing around the market and Camden Town station is a real risk. The station becomes exit-only on Sunday afternoons to manage the crush. Keep your phone and bag secure, and be aware that the area around the station gets rowdy late at night."
+    a: "Yes, though it is very crowded and pickpocketing around the market and Camden Town station is a real risk. Camden Town station used to run exit-only on Sunday afternoons to manage the crush; that restriction was lifted in 2019, but the crowding it existed to control has not gone away. Keep your phone and bag secure, and be aware that the area around the station gets rowdy late at night."
 heroImage: "../../assets/articles/camden-area-guide/camden-market-umbrellas.jpg"
 heroImageAlt: "A cobbled alley in Camden Market roofed with hundreds of pink and yellow umbrellas"
 ---
@@ -75,7 +75,7 @@ It is not subtle, and it is not for everyone. But the canal, Primrose Hill fifte
 
 **Come here if** you want street food, vintage, or live music, or you want to walk the Regent's Canal. The food at Camden Lock is genuinely good and genuinely cheap — dozens of traders, most under £10.
 
-**Skip it if** crowds bother you. Camden on a Sunday afternoon is among the most congested places in London, to the point that the Tube station runs exit-only. If you want the market without the crush, come on a weekday morning.
+**Skip it if** crowds bother you. Camden on a Sunday afternoon is among the most congested places in London — crowded enough that the Tube station ran exit-only for years to cope. If you want the market without the crush, come on a weekday morning.
 
 ## Top sights and activities
 
@@ -92,8 +92,16 @@ It is not subtle, and it is not for everyone. But the canal, Primrose Hill fifte
 ### Camden Lock and the canal
 The centre of it. The lock, the market buildings and the towpath in both directions.
 
+![A narrowboat moored at Camden Lock beneath a willow tree, with street food counters along the far bank](../../assets/articles/camden-area-guide/camden-lock-narrowboat.jpg)
+
+*Camden Lock. The boat on the right is a London Waterbus service — it runs from here to Little Venice, through Regent's Park and the London Zoo grounds.*
+
 ### Stables Market and Chalk Farm Road
 North past the railway bridge. The horse hospital tunnels, the vintage dealers and the Roundhouse opposite.
+
+![Rails of vintage coats and dresses under a brick railway arch in Camden Stables Market](../../assets/articles/camden-area-guide/stables-market-vintage.jpg)
+
+*The vintage dealers under the arches in Stables Market. This is the part of Camden worth going slowly through.*
 
 ![The circular auditorium inside the Roundhouse, a converted Victorian railway engine shed](../../assets/articles/camden-area-guide/roundhouse-interior.jpg)
 
@@ -101,6 +109,22 @@ North past the railway bridge. The horse hospital tunnels, the vintage dealers a
 
 ### Camden High Street
 From the Tube station north. The loudest and least interesting part — chain shops, tattoo studios and the oversized shop-front sculptures.
+
+![Camden High Street shopfronts with a giant painted dragon and an oversized boot mounted above the shops](../../assets/articles/camden-area-guide/camden-high-street-shopfronts.jpg)
+
+*The High Street sculptures. They date from the 1980s, when shops competed to be findable in a crowd — the dragon and the boot are the two everybody photographs.*
+
+Two things on this stretch are worth stopping for. **[Cyberdog](https://www.cyberdog.net/)**, under the Stables, is a cybergoth and rave clothing shop built like a nightclub — neon, a DJ booth and staff dancing on podiums. It has been there since 1994 and there is nothing else like it in Britain.
+
+![The neon-lit interior of Cyberdog in Camden, with a DJ booth and a sign reading Raving Since '94](../../assets/articles/camden-area-guide/cyberdog-dj-booth.jpg)
+
+*Cyberdog. Free to walk into, and worth it whether or not you would ever wear any of it.*
+
+**BOXPARK Camden** on the High Street is the newer container development — street food counters, bars and a roof terrace.
+
+![The BOXPARK Camden building, made of stacked shipping containers lettered Eat Drink Play](../../assets/articles/camden-area-guide/boxpark-camden.jpg)
+
+*BOXPARK Camden. Sushidog and a run of other counters downstairs, with a roof terrace above.*
 
 ### Inverness Street and Parkway
 West of the High Street. A small street market and the better local restaurants, away from the crowds.
@@ -117,19 +141,43 @@ North-west across the railway. Pastel houses, good pubs and a completely differe
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
 | **Camden Lock food stalls** | Global street food | £ | Dozens of traders, most under £10; eat on the canal terraces |
+| **Poppies** | Fish and chips | ££ | A 1950s-styled chippy on Hawley Crescent, and the best-known name in Camden for it |
 | **Hook Camden Town** | Fish and chips | ££ | Sustainable, freshly battered, on Parkway |
+| **BOXPARK Camden** | Street food hall | £ | Containers on the High Street — counters, bars and a roof terrace |
 | **The Dublin Castle** | Music pub | £ | Small back room with a genuine claim on Britpop history |
 | **Namaaste Kitchen** | Indian grill | ££ | Parkway; a step up from the market food |
 | **The Lansdowne** | Gastropub | ££ | Primrose Hill; where locals go to escape the market |
 | **Chin Chin Labs** | Ice cream | £ | Liquid-nitrogen ice cream made in front of you |
 
+## Canal boat trips from Camden
+
+Five different operators run from Camden Lock, and they are genuinely different trips rather than the same ride at different prices. All of them use the same stretch of the Regent's Canal — through Regent's Park and **the grounds of London Zoo**, where the painted wolves and the colobus monkeys are visible from the water, and in most cases through the **Maida Hill tunnel**, a little over 240 metres long, which has no towpath and is worth the ticket on its own.
+
+| Trip | Route | How long | From | What makes it different |
+| --- | --- | --- | --- | --- |
+| **[London Waterbus](https://www.londonwaterbus.com/)** | Camden ↔ Little Venice | ~45 min each way | £17 adult, £14 child | Pick the historic narrowboat, which is guided and has forward-facing seats, or the Comfort Cruiser barge, which has booth seating, tables and a licensed bar |
+| **[Jason's Trip](https://www.jasons.co.uk/)** | Little Venice ↔ Camden | ~45 min | £19 single, £25 return | Running since **1951** — the original Regent's Canal tour — on a canal boat built in **1906** |
+| **[Jenny Wren](https://walkersquay.com/)** | Camden → Little Venice → back | **~90 min round trip** | Phone to book | Guided the whole way, and the only one that **works a lock while you are aboard**. Ends where it started, so no walk back |
+| **[My Fair Lady](https://walkersquay.com/my-fair-lady/)** | Regent's Canal | An evening, a Sunday lunch or afternoon tea | Phone to book | A **restaurant boat** — fully enclosed and heated, three courses cooked in a galley on board |
+| **[The Music Boat](https://www.getyourguide.com/london-l57/london-regent-s-canal-punting-boat-ride-with-live-music-t1298125/)** | Camden loop | ~45 min | £16.25 | A **punt with live musicians** aboard, from Camden Lock from 11am. Passes the Pirate Castle and St Mark's Church |
+
+![A wooden punt on the Regent's Canal under a bridge, with a guitarist playing to the passengers aboard](../../assets/articles/camden-area-guide/regents-canal-boat-bridge.jpg)
+
+*The Music Boat. It is a punt rather than a narrowboat, so it is open to the weather and much closer to the water than the waterbus.*
+
+**Which to pick.** For getting somewhere, the Waterbus or Jason's Trip — both are one-way journeys that happen to be scenic. For a round trip with no walk back, Jenny Wren, which also takes you through a working lock. For an evening out rather than a sightseeing trip, My Fair Lady. The Music Boat is the one people remember, and the one to avoid in bad weather.
+
+> ⚠️ **None of them stop at London Zoo.** The route runs through the zoo's grounds and you can see the painted wolves and colobus monkeys from the water, but there is no zoo landing — the old combined boat-and-zoo ticket is long gone, and plenty of guides still say otherwise. The nearest stop is Camden Market, about fifteen minutes' walk from the entrance.
+
+> ⚠️ Timetables are seasonal and several of these run a reduced winter service or stop entirely. Check before travelling for a specific boat, and note that one-way tickets mean walking or taking the Tube back.
+
 ## Getting there
 
-**By Tube.** **Camden Town** (Northern) is the obvious choice, but on Sunday afternoons it becomes **exit-only** for crowd control — you cannot board there. Use **Chalk Farm** one stop north instead, which also puts you at the Stables Market end.
+**By Tube.** **Camden Town** (Northern) is the obvious choice, but it is severely congested at weekends. For years it ran **exit-only on Sunday afternoons**; that was lifted in 2019, so you can board there again, but queues to enter still build badly. **Chalk Farm** one stop north is the better approach, and it puts you at the Stables Market end.
 
 **By Overground.** **Camden Road** is a five-minute walk east and far less crowded.
 
-**By canal.** The towpath from King's Cross takes 30 minutes on foot. The narrowboat waterbus from Little Venice takes about 50 minutes.
+**By canal.** The towpath from King's Cross takes 30 minutes on foot. The narrowboat waterbus from Little Venice takes about 45 minutes — see [canal boat trips](#canal-boat-trips-from-camden) above for which service is which.
 
 **Best approach.** Arrive at Chalk Farm and walk south through Stables Market to the Lock. You start at the good end and finish near the station.
 
@@ -143,7 +191,7 @@ North-west across the railway. Pastel houses, good pubs and a completely differe
 
 **Best time:** Weekday mornings. Same markets, a fraction of the people.
 
-**Avoid:** Sunday afternoon, the single busiest period, when Camden Town station goes exit-only.
+**Avoid:** Sunday afternoon, the single busiest period, when queues build just to get into Camden Town station.
 
 ## Suggested three-hour route
 
@@ -156,7 +204,7 @@ North-west across the railway. Pastel houses, good pubs and a completely differe
 
 ## Common mistakes to avoid
 
-1. **Arriving at Camden Town station on a Sunday afternoon.** It is exit-only. Use Chalk Farm.
+1. **Arriving at Camden Town station on a Sunday afternoon.** You can board there — the old exit-only rule ended in 2019 — but the queues are grim. Use Chalk Farm.
 2. **Walking north up the High Street and stopping there.** The good part is past the bridge at the Lock and Stables.
 3. **Eating on the High Street.** The canal-side food stalls are cheaper and much better.
 4. **Missing Primrose Hill.** Fifteen minutes away, free, and the best view in north London.

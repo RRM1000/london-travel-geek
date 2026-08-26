@@ -1,10 +1,16 @@
 ---
 // Places to stay in an area, injected into every area guide automatically.
 //
-// NOT titled "Where to stay" on purpose: the guides already have a prose
-// "## Where to stay" section written in markdown, which gives AREA-level advice
-// ("stay in Bermondsey, it is twenty minutes and better connected"). This is the
-// property-level list that follows it. Two different jobs, so two headings.
+// Titled "Where to stay", not "Places to stay": this used to be a second,
+// separate heading below the guide's own prose "## Where to stay" section
+// (area-level advice - "stay in Bermondsey, it is twenty minutes and better
+// connected"). Two headings back to back said the same thing twice. That
+// prose is now extracted at build time (see splitAreaGuideBody /
+// src/pages/articles/[...id].astro) and passed in as introHtml, rendered
+// under this ONE heading, above the property list.
+//
+// Peckham has the prose with no hotel-card data yet, so the section has to
+// render on introHtml alone - it cannot be gated on `list.length > 0` only.
 //
 // Affiliate disclosure renders ONLY when a row on this page actually carries an
 // affiliate link. No programmes are enabled yet, so today it renders nothing -
@@ -14,9 +20,14 @@ import data from "../data/hotels.json";
 
 interface Props {
   articleId: string;
+  // Accepted for a consistent call signature with the other Area* components
+  // (AreaEvents, AreaActivities, AreaHiddenLondon all take it) - unused here
+  // since the heading is now the fixed "Where to stay" rather than
+  // "Places to stay in {areaName}".
   areaName: string;
+  introHtml?: string;
 }
-const { articleId, areaName } = Astro.props as Props;
+const { articleId, introHtml = "" } = Astro.props as Props;
 
 type Hotel = {
   slug: string; name: string; propertyType?: string; style?: string;
@@ -57,9 +68,12 @@ const cards = list.map((h) => {
 const hasAffiliate = list.some((h) => h.affiliateUrl);
 ---
 
-{list.length > 0 && (
+{(introHtml || list.length > 0) && (
   <section class="area-hotels">
-    <h2 id="places-to-stay">Places to stay in {areaName}</h2>
+    <h2 id="where-to-stay">Where to stay</h2>
+    {introHtml && <div class="ah-area-intro" set:html={introHtml} />}
+
+    {list.length > 0 && (
     <p class="ah-intro">
       Cheapest first. Prices are a typical starting rate per night, not a quote.
       {hasAffiliate && (
@@ -70,7 +84,9 @@ const hasAffiliate = list.some((h) => h.affiliateUrl);
         </span>
       )}
     </p>
+    )}
 
+    {list.length > 0 && (
     <ul class="ah-list">
       {cards.map(({ h, badges }) => (
         <li class="ah-item">
@@ -108,11 +124,24 @@ const hasAffiliate = list.some((h) => h.affiliateUrl);
         </li>
       ))}
     </ul>
+    )}
   </section>
 )}
 
 <style>
   .area-hotels { margin-block: 3rem 2rem; }
+  /* The extracted markdown prose - same rhythm as the rest of the article
+     body, but scoped here since it arrives as a raw HTML fragment rather
+     than through .article__body's own :global() rules. */
+  .area-hotels .ah-area-intro :global(p) { margin: 0 0 1rem; }
+  .area-hotels .ah-area-intro :global(ul) {
+    display: grid;
+    gap: 0.5rem;
+    margin: 0 0 1.5rem;
+    padding-left: 1.35rem;
+    list-style: disc;
+  }
+  .area-hotels .ah-area-intro :global(li::marker) { color: var(--accent); font-weight: 800; }
   .ah-intro { margin: 0 0 1.5rem; opacity: 0.8; }
   .ah-disclosure { display: block; margin-block-start: 0.5rem; font-size: 0.85rem; }
   /* Section class AND element, for the same reason as the other two sections:

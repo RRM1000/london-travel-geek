@@ -109,7 +109,7 @@ The north-west edge. Smithfield meat market, St Bartholomew the Great, and the B
 
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
-| **Leadenhall Market** | Pubs and cafes | ££ | Under the painted arcade; weekdays only |
+| **Leadenhall Market** | Pubs and cafes | ££ | Under the painted arcade; City hours, so best on a weekday |
 | **St. JOHN Smithfield** | British nose-to-tail | £££ | Bone marrow and eccles cakes; a genuine institution |
 | **Ye Olde Cheshire Cheese** | Historic pub | ££ | Rebuilt 1667, off Fleet Street, a warren of dark rooms |
 | **The Blackfriar** | Art nouveau pub | ££ | Extraordinary 1905 interior by Blackfriars station |

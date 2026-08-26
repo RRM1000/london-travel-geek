@@ -98,15 +98,30 @@ The area is a rough square between Oxford Street and Euston Road, walked through
 ## Key streets and micro-districts
 
 ### Charlotte Street
+
+![Diners at pavement tables on Charlotte Street in the evening](../../assets/articles/fitzrovia-area-guide/charlotte-street-dining.jpg)
+
+*Charlotte Street in the evening. The pavement widens here specifically to take the tables.*
+
 The spine. Restaurants along most of its length, pavement seating in summer, and the Charlotte Street Hotel at the southern end.
 
 ### Goodge Street
 Running east to west across the middle. More casual than Charlotte Street — counters, cafes and lunch places rather than dining rooms.
 
 ### Fitzroy Square and the north
+
+![The BT Tower rising above Georgian rooftops in Fitzrovia at dusk](../../assets/articles/fitzrovia-area-guide/bt-tower-fitzrovia.jpg)
+
+*The BT Tower from street level. It is the landmark you navigate Fitzrovia by, and you cannot go up it.*
+
 Quiet Georgian streets between the square and Euston Road. Almost entirely residential and worth a short detour for the architecture.
 
 ### Rathbone Place and Newman Street
+
+![Colville Place, a narrow pedestrian lane of Georgian houses lined with potted plants](../../assets/articles/fitzrovia-area-guide/colville-place.jpg)
+
+*Colville Place, a pedestrian lane of 1760s houses running between Charlotte Street and Whitfield Street.*
+
 The southern edge, running down to Oxford Street. Increasingly where the newer openings land.
 
 ### Great Titchfield Street
@@ -114,7 +129,7 @@ The western side, towards Great Portland Street. Small independent shops and the
 
 ## Where to eat and drink
 
-The point of Fitzrovia. This is a small selection — see the [full restaurant list](/eat-in-london-guide) for more.
+The point of Fitzrovia. This is a small selection — see the [full restaurant list](/articles/eat-in-london-guide/) for more.
 
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
@@ -138,6 +153,10 @@ The point of Fitzrovia. This is a small selection — see the [full restaurant l
 | **Shree Krishna Vada Pav** | Mumbai street food | £ | Vada pav for the price of a coffee |
 | **Kaffeine** | Coffee | £ | Australian-run, and the food counter is as good as the espresso |
 | **The Attendant** | Coffee | £ | Inside a restored Victorian public lavatory; the urinals are the counter |
+
+![The dining room at Circolo Popolare, its walls stacked with thousands of bottles under a ceiling of hanging greenery and fairy lights](../../assets/articles/fitzrovia-area-guide/circolo-popolare-room.jpg)
+
+*Circolo Popolare on Rathbone Place. The room is the reason it books weeks out.*
 
 **Seventeen different cuisines sit within a ten-minute walk here** — West African, Thai, Japanese, Mexican, Greek, Spanish, Chinese, Italian, Indian, Turkish, French and more. No other central district comes close to that range in the same space.
 

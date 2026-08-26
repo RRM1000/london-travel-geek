@@ -1,0 +1,212 @@
+---
+title: "The Best Middle Eastern and Eastern Mediterranean Restaurants in London"
+seoTitle: "Best Middle Eastern Restaurants London 2026: Levantine to Turkish"
+description: "Levantine mezze, Turkish ocakbaşı grills, Palestinian and Syrian kitchens, and modern Greek small plates — arranged by tradition, with the best cheap falafel in London."
+heroImage: "../../assets/articles/best-middle-eastern-restaurants-london/best-middle-eastern-restaurants-london.jpg"
+heroImageAlt: "Bowls of hummus, muhammara and labneh with flatbread on a stone table"
+heroImageCredit: "Shameel Mukkath"
+heroImageSource: "https://www.pexels.com/photo/a-table-with-four-bowls-of-hummus-and-a-bowl-of-olives-14930656/"
+heroImageLicense: "Pexels License"
+heroImageLicenseUrl: "https://www.pexels.com/license/"
+publishedAt: 2026-08-23
+sites: [london]
+canonicalSite: london
+category: "Food and drink"
+tags: [restaurants, Middle Eastern, Lebanese, Turkish restaurants, Greek restaurants, dining]
+draft: false
+faq:
+  - q: "What is the best Middle Eastern restaurant in London?"
+    a: "Al Waha in Bayswater is the most-cited Lebanese room across independent guides and has been quietly excellent for years. For something more modern, The Barbary in Neal's Yard seats about twenty around an open grill, and Akub in Notting Hill is the only serious Palestinian restaurant in the city."
+  - q: "Where do I find the best Turkish food in London?"
+    a: "Dalston and Green Lanes. Mangal 2 in Dalston is an ocakbaşı the Dirik brothers took over from their father and turned into one of the most inventive Turkish kitchens in Britain."
+  - q: "What is an ocakbaşı?"
+    a: "A Turkish charcoal grill where you sit around the fire and the cooking happens in front of you. Dalston and Green Lanes have the highest concentration in London, and they are typically open very late and cheap for what you get."
+  - q: "Where can I eat Middle Eastern food in London cheaply?"
+    a: "Falafel. Pilpel at Spitalfields, Hoxton Beach in Shoreditch and Magic Falafel in Camden all come in under £10 and are entirely vegetarian. Hiba Express in Holborn is the lunch counter people who work there actually queue at."
+  - q: "Which of these are vegetarian-friendly?"
+    a: "Almost all of them, and unusually genuinely so — mezze is vegetable-led by tradition rather than by adaptation. Bubala in Spitalfields is entirely vegetarian, and Rovi in Fitzrovia puts vegetables on the grill and gives them the treatment meat usually gets."
+---
+
+This is the broadest category on the site and the one where the label does the least work. Lebanese mezze, a Turkish charcoal grill in Dalston, Palestinian home cooking in a Notting Hill townhouse, Kuwaiti machboos in Knightsbridge and modern Greek small plates in Marylebone are five different cuisines, and London does all of them well.
+
+Arranged **by tradition**, because that is what actually determines the meal.
+
+> 💡 **The Short Version:** **Al Waha** is the Lebanese room the guides agree on. **The Barbary** is the best seat in London if you like watching food cooked. **Mangal 2** in Dalston is the most inventive Turkish kitchen in Britain. **Akub** is the only serious Palestinian restaurant here. And **Pilpel** does the best £8 lunch in the City.
+
+> 📘 **How we choose these (editorial note)**
+> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. We treat Turkish, Persian and Greek as their own cuisines rather than folding them into a single "Middle Eastern" bin — published lists mix all of them and it makes the category useless.
+
+## Where they are
+
+| If you are near… | Where to eat |
+| --- | --- |
+| **Marylebone** | Fairuz, Ishtar, OPSO, Kima, Clio |
+| **Soho & Covent Garden** | The Barbary, Imad's Syrian Kitchen |
+| **Fitzrovia** | Rovi, Meraki, Lokal |
+| **Notting Hill** | Akub, Mazi, Zephyr, Kinz |
+| **Knightsbridge** | Em Sherif, Ishbilia, Freej Swaileh, The Mantl |
+| **Shoreditch & Dalston** | Mangal 2, Sohaila, Berber & Q |
+| **Borough & London Bridge** | Oma, Pyro, Kismet |
+| **Bayswater & west** | Al Waha, Vori |
+| **Islington & Bloomsbury** | Ottolenghi, Honey & Co |
+
+**Price guide:** **£** under £15 · **££** £15–£35 · **£££** £40–£70 · **££££** £90+.
+
+---
+
+## Levantine
+
+### Al Waha, Bayswater
+
+*£££ · 7 min from Bayswater · the consensus pick*
+
+The most-cited Lebanese room in London across independent guides — white walls, hanging foliage, and mezze taken seriously rather than as a warm-up. Quietly excellent for years.
+
+### The Barbary, Covent Garden
+
+*£££ · Neal's Yard · about twenty seats*
+
+A **horseshoe counter wrapped around an open grill** in Neal's Yard, seating around twenty. You watch every plate being made. No bookings for most of the counter — turn up and wait.
+
+### Akub, Notting Hill
+
+*££££ · 3 min from Notting Hill Gate*
+
+Fadi Kattan opened Fawda in Bethlehem before bringing **Palestinian cooking** to a Notting Hill townhouse. Almost nothing else in London attempts this at any level.
+
+### Imad's Syrian Kitchen, Soho
+
+*£££ · Kingly Court*
+
+Imad Alarnab cooked his way from Damascus to a Kingly Court balcony. Syrian home cooking, and the story is genuine rather than marketing.
+
+### Em Sherif at Harrods, Knightsbridge
+
+*££££ · a set menu in sequence*
+
+The Beirut group's London outpost — a set Lebanese menu served in waves rather than a list you order from. Expensive, and deliberately theatrical.
+
+### Freej Swaileh, Knightsbridge
+
+*£££ · Kuwaiti*
+
+One of very few **Kuwaiti** kitchens in London — machboos and kabsa rather than the Levantine mezze everywhere else does.
+
+---
+
+## Turkish
+
+### Mangal 2, Dalston
+
+*£££ · 4 min from Dalston Kingsland*
+
+The Dirik brothers took over their father's Dalston **ocakbaşı** and turned it into one of the most inventive Turkish kitchens in Britain, without losing the charcoal grill it was built on.
+
+### Kismet, Borough
+
+*£££ · upstairs at The Globe*
+
+A meyhane in the style of Istanbul and north Cyprus, in the building used as Bridget Jones's flat. Long tables, raki, and food that keeps arriving.
+
+### Ishtar, Marylebone and Lokal, Fitzrovia
+
+*£££ · central and reliable*
+
+Ishtar is the long-running Marylebone room with a mezze list built for a table that wants to stay put. Lokal is the modern counterpart, with counter dining and a cocktail bar.
+
+---
+
+## Modern Greek
+
+### OPSO, Marylebone
+
+*£££ · 8 min from Baker Street*
+
+Greek small plates reworked with restaurant technique — the room most responsible for London taking modern Greek cooking seriously.
+
+### Oma and Pyro, Borough
+
+*££££ / £££ · London Bridge*
+
+Oma cooks Greek food over fire at serious prices, upstairs from its own more casual sibling. Pyro is Yiannis Mexis' first restaurant, built around an open fire — the potato pittas with smoked aubergine are the dish.
+
+### Kima, Marylebone
+
+*££££ · whole fish*
+
+Greek **seafood** treated at fine-dining level, which almost nothing else in London does.
+
+### Vori, Holland Park
+
+*£££ · the wine list*
+
+The only wine list in London built entirely on **indigenous Greek varieties**, in a Holland Park Avenue taverna.
+
+### Mazi and Zephyr, Notting Hill
+
+*£££ · garden and photographs*
+
+Mazi treats the classics as a starting point and has a garden at the back. Zephyr, from the Pachamama group, is one of the most photographed rooms in west London.
+
+---
+
+## Vegetable-led
+
+Mezze is vegetable-led by tradition, which makes this the easiest category on the site to eat well in without meat.
+
+### Rovi, Fitzrovia
+
+*£££ · Ottolenghi group*
+
+The **fermentation-and-fire** room, where vegetables go on the grill and get the treatment meat usually gets. The best of its kind in London.
+
+### Bubala, Spitalfields
+
+*£££ · entirely vegetarian*
+
+Middle Eastern small plates, entirely vegetarian, and busy enough that nobody books it as a concession.
+
+### Ottolenghi, Islington
+
+*£££ · 12 min from Angel*
+
+The window display of salads and cakes is the London original. Communal tables behind it, deli counter alongside.
+
+### Berber & Q, Haggerston
+
+*£££ · a railway arch*
+
+Charcoal and smoke — lamb shawarma and the **whole roast cauliflower** off the same grill.
+
+---
+
+## Best value
+
+Falafel is where this cuisine is cheapest and best, and all of these are entirely vegetarian.
+
+* **Pilpel**, Spitalfields — the best £8 lunch in the City, and several sites.
+* **Hoxton Beach Falafel**, Shoreditch — market-stall origins, still under £10.
+* **Magic Falafel**, Camden Town — under £10 and entirely vegetarian.
+* **Hiba Express**, Holborn — the lunch counter people who work in Holborn actually queue at.
+* **Zeit & Za'atar**, Ealing — wood-fired manakish, and the cheapest proper Levantine bakery food in west London.
+
+---
+
+## What to know
+
+* **Mezze is ordered across the table** in waves, not as a starter. Over-ordering is the standard mistake and most kitchens will steer you.
+* **Ocakbaşı grills in Dalston and on Green Lanes** run very late and are cheap for the quality.
+* **Turkish, Greek and Persian are separate cuisines** and we file them that way — most published lists do not, which is why their "best Middle Eastern" lists read oddly.
+* **Vegetarians do unusually well here** without anything being adapted for them.
+* **Service charge** of 12.5% is discretionary and standard.
+
+---
+
+## Continue planning your London trip
+
+- 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
+- 🌿 **[Best Vegetarian and Vegan Restaurants](/articles/best-vegetarian-vegan-restaurants-london/)**
+- 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
+- 🍛 **[The Best Indian Restaurants in London](/articles/best-indian-restaurants-london/)**
+- 🎨 **[Shoreditch Area Guide](/articles/shoreditch-area-guide/)**
+- 🛍️ **[Notting Hill Area Guide](/articles/notting-hill-area-guide/)**

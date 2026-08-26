@@ -1,4 +1,6 @@
 ---
+import { lineBadge } from "../lib/tubeLines";
+
 interface Station {
   name: string;
   lines: string[];
@@ -84,15 +86,30 @@ const walkabilityLabel = `${walkability} out of 5`;
     <div>
       <p class="at-a-glance__label">Nearest stations</p>
       <ul class="at-a-glance__stations">
-        {nearestStations.map((station) => (
-          <li>
-            <span class="at-a-glance__roundel" aria-hidden="true"></span>
-            <span class="at-a-glance__station-body">
-              <strong>{station.name}</strong>
-              <span>{station.lines.join(" · ")}</span>
-            </span>
-          </li>
-        ))}
+        {nearestStations.map((station) => {
+          const badges = station.lines.map(lineBadge);
+          const notes = badges.map((b) => b.note).filter(Boolean);
+          return (
+            <li>
+              <span class="at-a-glance__roundel" aria-hidden="true"></span>
+              <span class="at-a-glance__station-body">
+                <strong>{station.name}</strong>
+                <span class="at-a-glance__lines">
+                  {badges.map((b) =>
+                    b.bg ? (
+                      <span class="at-a-glance__line" style={`background:${b.bg};color:${b.ink}`}>{b.label}</span>
+                    ) : (
+                      <span class="at-a-glance__line at-a-glance__line--neutral">{b.label}</span>
+                    ),
+                  )}
+                </span>
+                {notes.length > 0 && (
+                  <span class="at-a-glance__station-note">{notes.join(" · ")}</span>
+                )}
+              </span>
+            </li>
+          );
+        })}
       </ul>
     </div>
   </div>
@@ -282,14 +299,43 @@ const walkabilityLabel = `${walkability} out of 5`;
     translate: 0 -1px;
   }
 
+  .at-a-glance .at-a-glance__station-body {
+    display: grid;
+    gap: 0.3rem;
+  }
+
   .at-a-glance .at-a-glance__station-body strong {
     font-variation-settings: "wght" 700;
   }
 
-  .at-a-glance .at-a-glance__station-body span {
-    display: block;
+  .at-a-glance .at-a-glance__lines {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+  }
+
+  /* Official line colours arrive inline from lib/tubeLines - brand colours,
+     so they deliberately do not change with the theme. */
+  .at-a-glance .at-a-glance__line {
+    padding: 0.14em 0.5em;
+    border-radius: 4px;
+    font-size: 0.68rem;
+    font-variation-settings: "wght" 750;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+  }
+
+  /* Train operators without a colour in the token set - honest neutral
+     rather than a guessed brand colour. */
+  .at-a-glance .at-a-glance__line--neutral {
+    border: 1px solid var(--line);
+    background: var(--surface-strong);
+    color: var(--ink-soft, var(--ink));
+  }
+
+  .at-a-glance .at-a-glance__station-note {
     color: var(--muted);
-    font-size: 0.82rem;
+    font-size: 0.78rem;
   }
 
   @media (max-width: 48rem) {

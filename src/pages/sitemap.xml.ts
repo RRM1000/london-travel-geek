@@ -29,10 +29,21 @@ export const GET: APIRoute = async ({ site }) => {
       modified: entry.data.updatedAt ?? entry.data.publishedAt,
     }));
 
+  // London-only hubs - they are built from the London data files, so they do
+  // not exist on the toolkit site and must not be advertised there.
+  const londonHubs =
+    activeSite.id === "london"
+      ? [
+          { path: "/markets/", modified: undefined },
+          { path: "/free/", modified: undefined },
+        ]
+      : [];
+
   const pages = [
     { path: "/", modified: undefined },
     { path: "/privacy/", modified: undefined },
     { path: "/rss.xml", modified: undefined },
+    ...londonHubs,
     ...articles,
   ];
 

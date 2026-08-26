@@ -101,6 +101,10 @@ The arches. Market at weekends, and a handful of permanent traders through the w
 ### Shad Thames and Butler's Wharf
 East of Tower Bridge. Warehouse conversions, overhead gantries and riverside restaurants.
 
+![A narrow cobbled street between tall Victorian warehouses, crossed overhead by cast-iron gantry bridges](../../assets/articles/bermondsey-area-guide/shad-thames.jpg)
+
+*Shad Thames. The gantries were working bridges — porters wheeled tea, coffee and spices across them between the warehouses, which is why they are at every floor rather than just one.*
+
 ### The Beer Mile arches
 South-east, along the viaduct towards South Bermondsey. Breweries, taprooms and very little else.
 

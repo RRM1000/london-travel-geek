@@ -26,7 +26,7 @@ heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 London Stansted (STN) is London's primary hub for low-cost airlines like Ryanair and Jet2, situated 40 miles (64 km) northeast of Central London. 
 
 > 💡 **Quick Verdict: Stansted to London (2026)**  
-> - **Fastest & Most Reliable:** **Stansted Express** train. Takes **37 mins** to Tottenham Hale (Victoria line interchange) and **48 mins** to London Liverpool Street (The City & Elizabeth line). Fares start from **£9.45 advance** (or ~£21.90 walk-up/contactless).  
+> - **Fastest & Most Reliable:** **Stansted Express** train. Takes **37 mins** to Tottenham Hale (Victoria line interchange) and **48 mins** to London Liverpool Street (The City & Elizabeth line). Fares start from **£9.90 advance** (or ~£21.90 walk-up/contactless).  
 > - **Cheapest Budget Option:** **National Express / Airport Bus** (from **£5.00** advance). Takes 50–100 mins depending on traffic to Stratford, Victoria, or Baker Street.  
 > - **Contactless vs. Oyster:** Contactless bank cards and Apple/Google Pay ARE accepted on Stansted Express, but **Oyster cards are NOT accepted**!
 
@@ -38,8 +38,8 @@ London Stansted (STN) is London's primary hub for low-cost airlines like Ryanair
 
 | Transport Option | Central London Station | Journey Time | Single Adult Fare | Best Used For |
 | --- | --- | --- | --- | --- |
-| **Stansted Express (Train)** | London Liverpool Street | 48 mins | From **£9.45** *(Advance)* / **£21.90** *(PAYG)* | **Fastest direct route** into the City & Elizabeth Line |
-| **Stansted Express (Train)** | Tottenham Hale | 37 mins | From **£9.45** *(Advance)* / **£19.90** *(PAYG)* | **Best interchange** for Victoria Line & West End |
+| **Stansted Express (Train)** | London Liverpool Street | 48 mins | From **£9.90** *(Advance)* / **£21.90** *(PAYG)* | **Fastest direct route** into the City & Elizabeth Line |
+| **Stansted Express (Train)** | Tottenham Hale | 37 mins | From **£9.90** *(Advance)* / **£19.90** *(PAYG)* | **Best interchange** for Victoria Line & West End |
 | **National Express Bus** | Stratford / Liverpool St / Victoria | 50–100 mins | From **£5.00** *(Advance)* | Budget travel & 24/7 overnight transfers |
 | **Taxi / Uber / Private Transfer** | Door-to-door anywhere in London | 60–100 mins | **£90.00 – £140.00+** | Groups, families & heavy luggage |
 
@@ -70,7 +70,7 @@ London Stansted (STN) is London's primary hub for low-cost airlines like Ryanair
 * **Station Location:** Train station is located directly beneath the single main passenger terminal (a 2-minute signed escalator/lift walk from arrivals).
 * **Frequency:** Departs every 15 minutes.
 * **Payment Rules:** Tapping a **contactless bank card or device** at station turnstiles is accepted, but **Oyster cards are NOT valid** to Stansted Airport!
-* **Advance Discount:** Booking tickets 2–4 weeks early online at *stanstedexpress.com* drops the fare to **£9.45 single** (vs ~£21.90 walk-up).
+* **Advance Discount:** Booking tickets 2–4 weeks early online at *stanstedexpress.com* drops the fare to **£9.90 single** (vs ~£21.90 walk-up).
 
 ### 2. National Express & Airport Coaches
 * **Station Location:** Stansted Coach Station is directly opposite the terminal main entrance (2-minute walk).
@@ -95,7 +95,7 @@ Stansted has **one single main terminal building**, making navigation straightfo
 
 1. **Trying to use an Oyster card:** Oyster cards are **NOT valid** on trains to Stansted Airport (contactless bank cards or paper tickets are required).
 2. **Staying on the train to Liverpool Street when going to West End:** Change at **Tottenham Hale** for the Victoria Line—it is much faster!
-3. **Paying full walk-up train fares (£21.90):** Book Stansted Express online in advance for fares as low as **£9.45**.
+3. **Paying full walk-up train fares (£21.90):** Book Stansted Express online in advance for fares as low as **£9.90**.
 4. **Underestimating coach traffic delays:** Road congestion on the M11/A12 during rush hours can add 30–60 minutes to coach journeys.
 5. **Leaving gate transit too late:** Stansted's satellite gates require a 15-minute transit ride from the main terminal departure lounge.
 6. **Hailing illegal cabs:** Always use official airport taxi desks or pre-booked private hire.

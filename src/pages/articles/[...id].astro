@@ -1,7 +1,12 @@
 ---
 import { getCollection, render } from "astro:content";
+import { createMarkdownProcessor } from "@astrojs/markdown-remark";
 import ArticleLayout from "../../layouts/ArticleLayout.astro";
 import { activeSite } from "../../sites";
+import { splitAreaGuideBody } from "../../lib/splitAreaGuideBody";
+import { resolveMarkdownImages } from "../../lib/resolveMarkdownImages";
+import remarkAreaRestaurants from "../../lib/remark-area-restaurants.mjs";
+import rehypeTableAlign from "../../lib/rehype-table-align.mjs";
 
 export async function getStaticPaths() {
   const articles = await getCollection("articles");
@@ -15,7 +20,54 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const { Content, headings } = await render(entry);
+
+// Area guides get their closing sections (Suggested route, Common mistakes)
+// and their "Where to stay" prose pulled out of the main flow at build time,
+// so ArticleLayout can slot them in around the data-driven sections (What's
+// on, Things to do, Where to stay's hotel cards) instead of leaving them
+// stuck wherever they fall in the markdown. See splitAreaGuideBody for why.
+// Everything else renders exactly as before via the normal Content component.
+let Content;
+let headings;
+let closingHtml = "";
+let closingHeadings: { depth: number; slug: string; text: string }[] = [];
+let whereToStayHtml = "";
+
+if (entry.data.area) {
+  const { main, whereToStayProse, closing } = splitAreaGuideBody(entry.body ?? "");
+  // Same plugins astro.config.mjs gives every markdown file, so a fragment
+  // rendered here behaves identically to one rendered through the normal
+  // content pipeline - same heading IDs, same "see all N places" link logic.
+  const processor = await createMarkdownProcessor({
+    remarkPlugins: [remarkAreaRestaurants],
+    rehypePlugins: [rehypeTableAlign],
+  });
+  // remarkAreaRestaurants identifies the guide from the file path's slug -
+  // this has to look like a real path to that file for its regex to match.
+  const fileURL = new URL(`../../content/articles/${entry.id}.md`, import.meta.url);
+  const frontmatter = entry.data as unknown as Record<string, unknown>;
+
+  const mainResult = await processor.render(main, { fileURL, frontmatter });
+  // The hand-built processor above leaves markdown images as unresolved
+  // __ASTRO_IMAGE_ placeholders - see resolveMarkdownImages for why, and for
+  // what that looked like on the live site.
+  Content = await resolveMarkdownImages(mainResult.code, entry.id);
+  headings = mainResult.metadata.headings;
+
+  if (closing.trim()) {
+    const closingResult = await processor.render(closing, { fileURL, frontmatter });
+    closingHtml = await resolveMarkdownImages(closingResult.code, entry.id);
+    closingHeadings = closingResult.metadata.headings;
+  }
+  if (whereToStayProse.trim()) {
+    const stayResult = await processor.render(whereToStayProse, { fileURL, frontmatter });
+    whereToStayHtml = await resolveMarkdownImages(stayResult.code, entry.id);
+  }
+} else {
+  const rendered = await render(entry);
+  Content = rendered.Content;
+  headings = rendered.headings;
+}
 ---
 
 <ArticleLayout
@@ -34,8 +86,11 @@ const { Content, headings } = await render(entry);
   heroImageLicense={entry.data.heroImageLicense}
   heroImageLicenseUrl={entry.data.heroImageLicenseUrl}
   headings={headings}
+  closingHtml={closingHtml}
+  closingHeadings={closingHeadings}
+  whereToStayHtml={whereToStayHtml}
   area={entry.data.area}
   faq={entry.data.faq}
 >
-  <Content />
+  {typeof Content === "string" ? <Fragment set:html={Content} /> : <Content />}
 </ArticleLayout>

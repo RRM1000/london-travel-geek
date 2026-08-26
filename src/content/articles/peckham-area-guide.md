@@ -105,7 +105,7 @@ South, towards the park. More residential, and where the area calms down.
 
 ## Where to eat and drink
 
-Peckham eats well and cheaply. This is a selection — see the [full restaurant list](/eat-in-london-guide) for more.
+Peckham eats well and cheaply. This is a selection — see the [full restaurant list](/articles/eat-in-london-guide/) for more.
 
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
@@ -114,7 +114,6 @@ Peckham eats well and cheaply. This is a selection — see the [full restaurant 
 | **Artusi** | Seasonal Italian | ££ | A Bellenden Road neighbourhood restaurant with a short changing menu |
 | **Bánh Bánh** | Vietnamese | ££ | A family recipe book turned into a restaurant by the grandchildren |
 | **Mr Bao** | Taiwanese | ££ | Gua bao and Taiwanese small plates |
-| **The Tapas Room** | Spanish | ££ | Small, loud, and the wine list matters as much as the plates |
 | **Guacamoles** | Birria tacos | £ | Tortillas pressed to order and dipped in birria juice, in Rye Lane Market |
 | **Old Spike** | Coffee | £ | A roastery that trains and employs people who have experienced homelessness |
 

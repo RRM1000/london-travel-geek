@@ -1,0 +1,245 @@
+---
+title: "The Best Afternoon Tea in London: 22 Compared"
+seoTitle: "Best Afternoon Tea London 2026: 22 Hotels Compared"
+description: "London's afternoon teas compared — where the ritual began, which have a dress code, which work with children, and which are worth the money."
+heroImage: "../../assets/articles/best-afternoon-tea-london/best-afternoon-tea-london.jpg"
+heroImageAlt: "The gilded Palm Court at the Ritz in London, set for afternoon tea"
+heroImageCredit: "Northmetpit"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Ritz_Hotel_London_Palm_Court.JPG"
+heroImageLicense: "CC0"
+heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
+publishedAt: 2026-08-23
+sites: [london]
+canonicalSite: london
+category: "Food and drink"
+tags: [afternoon tea, restaurants, hotels, dining, London traditions]
+draft: false
+faq:
+  - q: "Where is the best afternoon tea in London?"
+    a: "The Langham's Palm Court claims to be where the ritual began in the 1860s and is still the benchmark. The Ritz is the most recognised and has the strictest dress code. Claridge's is the Art Deco one with its own house blend. All three book weeks ahead."
+  - q: "Is there a dress code for afternoon tea?"
+    a: "At The Ritz, yes and it is enforced — jacket and tie for men, no jeans or trainers. Claridge's, The Dorchester and The Savoy prefer smart-casual. Most others have no code at all. Check when booking rather than at the door."
+  - q: "Which afternoon tea is best with children?"
+    a: "One Aldwych runs a Charlie and the Chocolate Factory tea that works for children who would be bored elsewhere, and The Ampersand in South Kensington themes its around the museums on its doorstep — fossils and periodic-table biscuits. Both are cheaper than the grand hotels."
+  - q: "How much does afternoon tea cost in London?"
+    a: "Roughly £70–£95 at a grand hotel, and £45–£65 at the smaller ones. Champagne usually adds £15–£25. The Wolseley, The Connaught and The Stafford all deliver most of the experience for materially less than the Mayfair headline names."
+  - q: "How far ahead should I book?"
+    a: "The Ritz takes months for weekend sittings. Claridge's, The Savoy and The Langham want weeks. The Jumeirah Carlton Tower serves daily rather than in sittings, which makes it one of the easier Knightsbridge bookings."
+---
+
+Afternoon tea is the one London ritual that is genuinely worth doing as a tourist and genuinely easy to overpay for. The difference between a £95 sitting and a £55 one is very often the address rather than the food.
+
+Arranged by **what you are actually buying** — the historic claim, the room, the spectacle, or the tea itself.
+
+> 💡 **The Short Version:** **The Langham** is where the ritual began and still the benchmark. **The Ritz** is the most recognised and the most formal. **The Berkeley** does fashion-week pastries. **Sketch** is an art installation. **The Wolseley** and **The Connaught** give you most of it for less. **One Aldwych** is the one that works with children.
+
+> 📘 **How we choose these (editorial note)**
+> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Afternoon tea prices move every season — treat figures here as indicative and confirm when booking.
+
+## Where they are
+
+<details class="restaurant-map-shell" open>
+  <summary>
+    <span>Map of the best afternoon tea in London</span>
+  </summary>
+  <div class="restaurant-map" data-restaurant-map="afternoon-tea-london" role="region" aria-label="Interactive map of the best afternoon tea in London">
+    <p>Loading the interactive map…</p>
+  </div>
+  <noscript>
+    <p>The interactive map requires JavaScript. Every entry below lists its area.</p>
+  </noscript>
+</details>
+
+| If you are near… | Where to eat |
+| --- | --- |
+| **Mayfair & Piccadilly** | The Ritz, Claridge's, The Dorchester, Brown's, The Connaught, Sketch, Fortnum & Mason, The Wolseley, The Stafford |
+| **Knightsbridge** | The Berkeley, The Lanesborough, Mandarin Oriental, Jumeirah Carlton Tower |
+| **Marylebone** | The Langham, Winter Garden (The Landmark) |
+| **Covent Garden & Strand** | The Savoy, One Aldwych |
+| **Belgravia & Westminster** | The Goring, Corinthia |
+| **Kensington** | The Milestone, The Ampersand |
+| **Bloomsbury** | Rosewood London |
+
+**Price guide:** **£££** £45–£65 · **££££** £70+.
+
+---
+
+## Where the ritual began
+
+### The Langham, Marylebone
+
+*££££ · 3 min from Oxford Circus*
+
+The **Palm Court claims to be where afternoon tea began** in the 1860s, and it is still the benchmark against which the others are judged. Book weeks ahead.
+
+### The Ritz, Piccadilly
+
+*££££ · 2 min from Green Park · dress code enforced*
+
+The most recognised afternoon tea in London, served in the Palm Court with a pianist.
+
+> ⚠️ **The dress code is real and enforced.** Jacket and tie for men; no jeans or trainers. Weekend sittings book months out.
+
+### Claridge's, Mayfair
+
+*££££ · 5 min from Bond Street*
+
+Art Deco Mayfair, with its own house blend of Assam and Darjeeling, served in the Foyer and Reading Room.
+
+### Fortnum & Mason, Piccadilly
+
+*££££ · the tea merchant's own salon*
+
+Opened by the Queen in 2012, and **the one place where the tea list is the point** rather than the pastries. If you care about the leaf rather than the room, come here.
+
+---
+
+## The grand hotels
+
+### The Dorchester, Mayfair
+
+*££££ · the Promenade*
+
+Served the length of the Promenade, opening with a glass of Veuve Clicquot poured tableside. The grandest of the grand.
+
+### The Savoy, Covent Garden
+
+*££££ · the Thames Foyer*
+
+Under the glass cupola of the Thames Foyer, with a pianist, in London's first purpose-built luxury hotel.
+
+### The Lanesborough, Knightsbridge
+
+*££££ · under a glass dome*
+
+Taken under the glass dome of the Céleste dining room at Hyde Park Corner — the brightest of the grand-hotel rooms.
+
+### Corinthia London, Westminster
+
+*££££ · a tea master*
+
+Under a Baccarat crystal chandelier with a Steinway playing, and a tea master who weighs and blends each pot.
+
+### Mandarin Oriental Hyde Park, Knightsbridge
+
+*££££ · a garden view*
+
+The Rosebery lounge backs onto Hyde Park — the one grand tea with a park view rather than a room view.
+
+---
+
+## Easier to book
+
+### Brown's Hotel, Mayfair
+
+*££££ · 4 min from Green Park*
+
+The **intimate, club-like** option — panelled and low-ceilinged where The Dorchester is a long bright promenade. The one to pick if the grand hotels feel like too much room.
+
+### Rosewood London, Bloomsbury
+
+*££££ · 4 min from Holborn*
+
+Taken in the **Mirror Room** of a Belle Époque building off High Holborn — the grand-hotel format, well outside the Mayfair cluster and easier to book because of it.
+
+### Jumeirah Carlton Tower, Knightsbridge
+
+*££££ · 7 min from Knightsbridge*
+
+The **Chinoiserie tea room serves all afternoon rather than in fixed sittings**, which makes it one of the easier Knightsbridge teas to get into at short notice — genuinely useful if you have not booked weeks ahead.
+
+---
+
+## The spectacle
+
+### Winter Garden, Marylebone
+
+*££££ · The Landmark London, 222 Marylebone Road*
+
+Afternoon tea taken on the floor of an **eight-storey glass atrium among full-grown palm trees**, with a pianist and a harpist playing. The most theatrical tea room in London that is not a palace, and the one that photographs best by a distance.
+
+> ⚠️ **Go for the room.** Reviews of the food itself are genuinely mixed for something over £70 a head. The atrium is extraordinary; the sandwiches are not. Ask for a table on the atrium floor rather than the gallery above.
+
+### The Berkeley, Knightsbridge
+
+*££££ · Prêt-à-Portea*
+
+Pastries modelled on the **current season's runway** — handbags, heels, a new collection each time the shows change. The most photographed tea in London and genuinely skilful.
+
+### Sketch, Mayfair
+
+*££££ · the pink room*
+
+Afternoon tea **inside an art installation**. The pink Gallery room and the egg-shaped lavatories are as photographed as the food.
+
+---
+
+## Quieter, and better value
+
+### The Wolseley, Piccadilly
+
+*£££ · 3 min from Green Park*
+
+A 1920s car showroom turned Viennese-style grand café. The London power breakfast, and one of the best-value teas in the centre.
+
+### The Connaught, Mayfair
+
+*£££ · 8 min from Bond Street*
+
+Understated where the rest of Mayfair is gilded — precision and craft rather than spectacle, and cheaper for it.
+
+### The Stafford, Piccadilly
+
+*£££ · a St James's cul-de-sac*
+
+Down a cul-de-sac with 380-year-old wine cellars beneath, and far fewer tourists than the Piccadilly names a two-minute walk away.
+
+### The Goring, Belgravia
+
+*££££ · 2 min from Victoria*
+
+The last family-owned grand hotel in London, and the quietest of the big teas — taken in the garden room.
+
+### The Milestone, Kensington
+
+*£££ · opposite Kensington Palace*
+
+A small townhouse hotel and the quietest listed tea here.
+
+---
+
+## With children
+
+### One Aldwych, Covent Garden
+
+*£££ · 5 min from Temple*
+
+A themed tea built around **Charlie and the Chocolate Factory** — the one that works with children who would be bored anywhere else.
+
+### The Ampersand, South Kensington
+
+*£££ · 1 min from South Kensington*
+
+Themed around the museums on its doorstep: planets, fossils and periodic-table biscuits. Sensible if you are doing the Science Museum the same day.
+
+---
+
+## What to know
+
+* **Book weeks ahead**, months for The Ritz at a weekend.
+* **Check the dress code when booking.** Only The Ritz strictly enforces one, but several prefer smart-casual and it is awkward to discover at the door.
+* **Sittings are timed**, usually 90 minutes to two hours. You will be asked to leave on time.
+* **Dietary requirements need 24–48 hours' notice** at most of these — vegetarian and gluten-free versions are near-universal but rarely available on the day.
+* **Champagne adds £15–£25.** The tea is the same either way.
+* **You can ask for more.** Sandwiches and scones are refillable at most grand hotels and almost nobody asks.
+
+---
+
+## Continue planning your London trip
+
+- 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
+- 🏛️ **[Historic Pubs and Dining Rooms in London](/articles/historic-pubs-dining-rooms-london/)**
+- 🥩 **[The Best Sunday Roast in London](/articles/best-sunday-roast-london/)**
+- 🎭 **[Covent Garden Area Guide](/articles/covent-garden-area-guide/)**
+- 👑 **[Westminster Area Guide](/articles/westminster-area-guide/)**
+- 🛍️ **[Mayfair Area Guide](/articles/mayfair-area-guide/)**

@@ -1,0 +1,289 @@
+---
+// One map per area guide, plotting everything the sheets know about the area:
+// restaurants, things to do, Hidden London spots and hotels. Injected by
+// ArticleLayout right after the markdown body, same contract as AreaEvents -
+// a new area guide picks it up with no edit, and a guide with fewer than
+// three mappable pins renders nothing rather than an empty map.
+//
+// WHY A LAYOUT COMPONENT, NOT MARKDOWN: Fitzrovia and Peckham have no
+// "Getting there" heading, so there is no universal markdown anchor to hang
+// a map on. The layout slot boundary is the one place all 27 share.
+//
+// Events are deliberately NOT plotted: they expire, several have no venue
+// coordinates, and a pin that vanishes next month is exactly the kind of
+// stale content the sheets are designed to age visibly rather than silently.
+//
+// The map itself follows the existing restaurant-map pattern from
+// ArticleLayout: collapsed <details>, Leaflet loaded only on first open, and
+// the same shell classes so the styling is shared rather than duplicated.
+import restaurantData from "../data/restaurants.json";
+import activityData from "../data/activities.json";
+import hotelData from "../data/hotels.json";
+import hiddenLondonData from "../data/hiddenLondon.json";
+
+interface Props {
+  articleId: string;
+  areaName: string;
+}
+const { articleId, areaName } = Astro.props as Props;
+
+type Row = {
+  guide?: string;
+  name: string;
+  lat?: number;
+  lng?: number;
+  area?: string;
+  station?: string;
+  walkMin?: number;
+};
+
+const mappable = (rows: Row[]) =>
+  rows.filter((r) => r.guide === articleId && r.lat != null && r.lng != null);
+
+// `summaryNoun` is what the counts line lowercases to - "Hidden London" is a
+// proper noun and reads wrong as "7 hidden london", so it gets its own noun.
+const groups = [
+  { type: "restaurant", label: "Eat & drink", summaryNoun: "places to eat", rows: mappable(restaurantData.restaurants as Row[]) },
+  { type: "activity", label: "Things to do", summaryNoun: "things to do", rows: mappable(activityData.activities as Row[]) },
+  { type: "hidden", label: "Hidden London", summaryNoun: "hidden spots", rows: mappable(hiddenLondonData.spots as Row[]) },
+  { type: "hotel", label: "Stay", summaryNoun: "places to stay", rows: mappable(hotelData.hotels as Row[]) },
+].filter((g) => g.rows.length > 0);
+
+const markers = groups.flatMap((g) =>
+  g.rows.map((r) => ({
+    name: r.name,
+    lat: r.lat,
+    lng: r.lng,
+    type: g.type,
+    label: g.label,
+    station: r.station && r.walkMin ? `${r.walkMin} min from ${r.station}` : undefined,
+  })),
+);
+
+const total = markers.length;
+const summaryParts = groups.map((g) => `${g.rows.length} ${g.summaryNoun}`);
+---
+
+{total >= 3 && (
+  <section class="area-map" aria-labelledby="area-map-title">
+    <h2 id="area-map">Map of {areaName}</h2>
+    <details class="restaurant-map-shell">
+      <summary>
+        Open the map
+        <small>{total} places: {summaryParts.join(" · ")}</small>
+      </summary>
+      <div class="restaurant-map" data-area-map>
+        <p>The map loads when you open this section.</p>
+      </div>
+      <p class="restaurant-map-legend">
+        {groups.map((g) => (
+          <span><span class={`restaurant-map-key area-map-key--${g.type}`}></span>{g.label}</span>
+        ))}
+      </p>
+    </details>
+    {/* is:inline - this is a JSON data island, not a script to bundle. Without
+        it Astro treats the contents as JS and processes them. */}
+    <script is:inline type="application/json" data-area-map-data set:html={JSON.stringify(markers)} />
+  </section>
+)}
+
+<style>
+  .area-map :global(h2) {
+    scroll-margin-top: 2rem;
+  }
+
+  /* Category colours for the pins and legend keys. Leaflet injects the pin
+     markup at runtime, so these must be :global. The pin shape itself comes
+     from .restaurant-map-marker in ArticleLayout - only the fill is ours. */
+  :global(.area-map-key--restaurant),
+  :global(.area-map-marker--restaurant) {
+    background: var(--accent);
+  }
+
+  :global(.area-map-key--activity),
+  :global(.area-map-marker--activity) {
+    background: #1d6fa5;
+  }
+
+  :global(.area-map-key--hidden),
+  :global(.area-map-marker--hidden) {
+    background: #6941c6;
+  }
+
+  :global(.area-map-key--hotel),
+  :global(.area-map-marker--hotel) {
+    background: #1f7a4d;
+  }
+</style>
+
+<script>
+  // Same lazy-load contract as ArticleLayout's restaurant maps: Leaflet is
+  // fetched on first open, never on page load. The loader cooperates with
+  // ArticleLayout's copy via the shared window.L check and the
+  // data-leaflet-script/styles markers, so whichever runs first wins and the
+  // other attaches to it.
+  type Leaflet = {
+    map: (element: HTMLElement, options?: Record<string, unknown>) => any;
+    tileLayer: (url: string, options?: Record<string, unknown>) => any;
+    divIcon: (options: Record<string, unknown>) => any;
+    marker: (position: [number, number], options?: Record<string, unknown>) => any;
+    latLngBounds: (positions: [number, number][]) => any;
+  };
+
+  const leafletWindow = window as Window & { L?: Leaflet };
+  let leafletPromise: Promise<Leaflet> | undefined;
+
+  const loadLeaflet = () => {
+    if (leafletWindow.L) return Promise.resolve(leafletWindow.L);
+    if (leafletPromise) return leafletPromise;
+
+    leafletPromise = new Promise<Leaflet>((resolve, reject) => {
+      if (!document.querySelector("link[data-leaflet-styles]")) {
+        const stylesheet = document.createElement("link");
+        stylesheet.rel = "stylesheet";
+        stylesheet.href = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css";
+        stylesheet.dataset.leafletStyles = "";
+        document.head.append(stylesheet);
+      }
+
+      const existingScript = document.querySelector<HTMLScriptElement>(
+        "script[data-leaflet-script]",
+      );
+
+      const finish = () => {
+        if (leafletWindow.L) resolve(leafletWindow.L);
+        else reject(new Error("Leaflet did not load."));
+      };
+
+      if (existingScript) {
+        existingScript.addEventListener("load", finish, { once: true });
+        existingScript.addEventListener("error", reject, { once: true });
+        return;
+      }
+
+      const script = document.createElement("script");
+      script.src = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js";
+      script.dataset.leafletScript = "";
+      script.addEventListener("load", finish, { once: true });
+      script.addEventListener("error", reject, { once: true });
+      document.head.append(script);
+    });
+
+    return leafletPromise;
+  };
+
+  type AreaMarker = {
+    name: string;
+    lat: number;
+    lng: number;
+    type: string;
+    label: string;
+    station?: string;
+  };
+
+  const createPopup = (marker: AreaMarker) => {
+    const content = document.createElement("div");
+    content.className = "restaurant-map-popup";
+
+    const name = document.createElement("strong");
+    name.textContent = marker.name;
+    content.append(name);
+
+    const details = document.createElement("span");
+    details.textContent = [marker.label, marker.station].filter(Boolean).join(" · ");
+    content.append(details);
+
+    const links = document.createElement("span");
+    const mapLink = document.createElement("a");
+    mapLink.href = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+      `${marker.name}, London`,
+    )}`;
+    mapLink.target = "_blank";
+    mapLink.rel = "noopener noreferrer";
+    mapLink.textContent = "Open in Google Maps";
+    links.append(mapLink);
+    content.append(links);
+
+    return content;
+  };
+
+  const initialiseAreaMap = async (element: HTMLElement, markers: AreaMarker[]) => {
+    if (element.dataset.mapReady === "true") return;
+    element.dataset.mapReady = "true";
+
+    try {
+      const L = await loadLeaflet();
+      element.replaceChildren();
+
+      const map = L.map(element, { scrollWheelZoom: false });
+      L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 19,
+        attribution:
+          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      }).addTo(map);
+
+      const positions: [number, number][] = [];
+
+      for (const markerData of markers) {
+        const position: [number, number] = [markerData.lat, markerData.lng];
+        positions.push(position);
+
+        const icon = L.divIcon({
+          className: "restaurant-map-marker-wrap",
+          html: `<span class="restaurant-map-marker area-map-marker--${markerData.type}" aria-hidden="true"></span>`,
+          iconSize: [26, 34],
+          iconAnchor: [13, 34],
+          popupAnchor: [0, -30],
+        });
+
+        L.marker(position, {
+          icon,
+          title: markerData.name,
+          alt: markerData.name,
+        })
+          .addTo(map)
+          .bindPopup(createPopup(markerData));
+      }
+
+      map.fitBounds(L.latLngBounds(positions), {
+        padding: [28, 28],
+        maxZoom: 15,
+      });
+
+      const shell = element.closest<HTMLDetailsElement>("details");
+      shell?.addEventListener("toggle", () => {
+        if (shell.open) window.setTimeout(() => map.invalidateSize(), 0);
+      });
+    } catch {
+      element.innerHTML =
+        "<p>The map could not load. Every place on it is listed in the sections of this guide.</p>";
+      delete element.dataset.mapReady;
+    }
+  };
+
+  for (const element of document.querySelectorAll<HTMLElement>("[data-area-map]")) {
+    const section = element.closest("section");
+    const dataTag = section?.querySelector<HTMLScriptElement>("[data-area-map-data]");
+    if (!dataTag?.textContent) continue;
+
+    let markers: AreaMarker[];
+    try {
+      markers = JSON.parse(dataTag.textContent);
+    } catch {
+      continue;
+    }
+
+    const shell = element.closest<HTMLDetailsElement>("details");
+    if (shell?.open) {
+      void initialiseAreaMap(element, markers);
+    } else {
+      shell?.addEventListener(
+        "toggle",
+        () => {
+          if (shell.open) void initialiseAreaMap(element, markers);
+        },
+        { once: true },
+      );
+    }
+  }
+</script>

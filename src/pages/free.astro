@@ -1,0 +1,180 @@
+---
+// Free things to do in London, grouped by what kind of thing they are.
+//
+// Two sources, deliberately:
+//   1. Activities rows tagged `free` in their lists column.
+//   2. Every Hidden London spot - the whole tab is defined as free,
+//      self-guided and unticketed (see write-hidden-london.mjs), so it
+//      qualifies wholesale rather than row by row.
+//
+// Restaurants and hotels are excluded: "free to walk into" is not the same
+// promise as "free to do", and a page that mixes them stops being useful.
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import activityData from "../data/activities.json";
+import hiddenLondonData from "../data/hiddenLondon.json";
+
+// A row's own `area` is where the venue IS (Hoxton, Bethnal Green); the guide
+// it belongs to may be named for a bigger neighbouring area (Shoreditch).
+// "Read the Hoxton guide" pointing at the Shoreditch guide is wrong, so the
+// link label comes from the guide's own frontmatter, not the row.
+const guideNames = new Map(
+  (await getCollection("articles"))
+    .filter((a) => a.data.area)
+    .map((a) => [a.id, a.data.area!.name]),
+);
+
+type Item = {
+  slug: string; name: string; area?: string; guide?: string;
+  station?: string; walkMin?: number; whyGo?: string;
+  type?: string; price?: string;
+};
+
+const freeActivities = (activityData.activities as (Item & { lists?: string[] })[])
+  .filter((a) => (a.lists ?? []).includes("free"));
+
+const hidden = (hiddenLondonData.spots as Item[]);
+
+// Activity types collapsed into groups a reader would actually browse by.
+// Anything unmapped falls into "More free things", so a new activityType can
+// never silently vanish from this page.
+const GROUPS: { label: string; blurb: string; types: string[] }[] = [
+  {
+    label: "Museums and galleries",
+    blurb: "London's national museums are free by law, and most people only ever visit two of them.",
+    types: ["museum", "gallery-experience", "historic-house", "planetarium"],
+  },
+  {
+    label: "Parks and gardens",
+    blurb: "Including the roof gardens and glasshouses that are free but need booking.",
+    types: ["park", "garden", "roof-garden", "farm"],
+  },
+  {
+    label: "Markets and shopping",
+    blurb: "Free to walk into. What you spend once you are inside is your own business.",
+    types: ["market-visit", "record-shop", "bookshop"],
+  },
+  {
+    label: "Views",
+    blurb: "Every one of these is free. The ones people queue and pay for are not on this list.",
+    types: ["viewpoint"],
+  },
+  {
+    label: "Walks and street art",
+    blurb: "Self-guided, no ticket, no booking.",
+    types: ["walking-tour", "street-art", "cemetery", "skate-park"],
+  },
+];
+
+const mapped = new Set(GROUPS.flatMap((g) => g.types));
+const groups = [
+  ...GROUPS.map((g) => ({
+    ...g,
+    items: freeActivities.filter((a) => g.types.includes(a.type ?? "")),
+  })),
+  {
+    label: "More free things",
+    blurb: "Everything else we have found that costs nothing.",
+    types: [],
+    items: freeActivities.filter((a) => !mapped.has(a.type ?? "")),
+  },
+].filter((g) => g.items.length > 0);
+
+const total = freeActivities.length + hidden.length;
+const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Free London" }];
+---
+
+<BaseLayout
+  title="Free things to do in London: everything that costs nothing"
+  description={`${total} things to do in London that are genuinely free — museums, parks, markets, viewpoints, blue plaques and street art, with what each one is actually for.`}
+  breadcrumbs={breadcrumbs}
+>
+  <section class="container fr">
+    <header class="fr-hero">
+      <h1>Free things to do in London</h1>
+      <p class="fr-lede">
+        {freeActivities.length} places that charge nothing to get in, plus
+        {" "}{hidden.length} plaques, murals and filming locations you can find on
+        foot. Some need a free ticket booked in advance; where that applies, the
+        entry says so.
+      </p>
+    </header>
+
+    {groups.map((g) => (
+      <section class="fr-group">
+        <h2 id={g.label.toLowerCase().replace(/[^a-z]+/g, "-")}>{g.label}</h2>
+        <p class="fr-blurb">{g.blurb}</p>
+        <ul class="fr-list">
+          {g.items.map((a) => (
+            <li>
+              <div class="fr-head">
+                <h3>{a.name}</h3>
+                {a.area && <span class="fr-area">{a.area}</span>}
+              </div>
+              {a.whyGo && <p class="fr-why">{a.whyGo}</p>}
+              {a.guide && guideNames.has(a.guide) && (
+                <p class="fr-link">
+                  <a href={`/articles/${a.guide}/`}>Read the {guideNames.get(a.guide)} guide</a>
+                </p>
+              )}
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+
+    <section class="fr-group">
+      <h2 id="hidden-london">Hidden London</h2>
+      <p class="fr-blurb">
+        {hidden.length} blue plaques, Banksy pieces, filming locations and oddities.
+        All free, all on public streets, none of them ticketed — they live on the
+        area guides rather than a list of their own.
+      </p>
+      <ul class="fr-chips">
+        {[...new Set(hidden.map((s) => s.guide).filter(Boolean))]
+          .sort()
+          .map((guide) => {
+            const area = hidden.find((s) => s.guide === guide)?.area;
+            const count = hidden.filter((s) => s.guide === guide).length;
+            return (
+              <li>
+                <a href={`/articles/${guide}/#hidden-london`}>
+                  {area} <span>{count}</span>
+                </a>
+              </li>
+            );
+          })}
+      </ul>
+    </section>
+  </section>
+</BaseLayout>
+
+<style>
+  .fr { padding-block: 2rem 4rem; max-width: 48rem; }
+  .fr-hero { margin-block-end: 2.5rem; }
+  .fr-hero h1 { margin: 0 0 0.5rem; text-wrap: balance; }
+  .fr-lede { margin: 0; max-width: 42rem; }
+
+  .fr-group { margin-block-end: 2.75rem; }
+  .fr-group h2 { margin: 0 0 0.25rem; scroll-margin-top: 5rem; }
+  .fr-blurb { margin: 0 0 1.2rem; font-size: 0.92rem; opacity: 0.75; max-width: 40rem; }
+
+  .fr-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.4rem; }
+  .fr-list > li { border-block-end: 1px solid var(--line); padding-block-end: 1.4rem; }
+  .fr-list > li:last-child { border-block-end: 0; padding-block-end: 0; }
+
+  .fr-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 0.5rem; }
+  .fr-head h3 { margin: 0; font-size: 1.08rem; }
+  .fr-area { font-size: 0.82rem; opacity: 0.7; }
+  .fr-why { margin: 0.4rem 0 0; }
+  .fr-link { margin: 0.4rem 0 0; font-size: 0.9rem; }
+
+  .fr-chips { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .fr-chips a {
+    display: inline-flex; align-items: baseline; gap: 0.4rem;
+    border: 1px solid var(--line); border-radius: 999px;
+    padding: 0.3rem 0.8rem; text-decoration: none; font-size: 0.9rem;
+  }
+  .fr-chips a:hover, .fr-chips a:focus-visible { border-color: currentColor; }
+  .fr-chips span { font-variant-numeric: tabular-nums; font-size: 0.78rem; opacity: 0.65; }
+</style>

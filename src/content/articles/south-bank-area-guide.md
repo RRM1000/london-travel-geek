@@ -93,6 +93,10 @@ It is also the answer to bad weather: Tate Modern, the Southbank Centre, the BFI
 ### Queen's Walk (London Eye to Southbank Centre)
 The busiest stretch. Street performers, the skate park at the Undercroft, food stalls and the secondhand book market under Waterloo Bridge.
 
+![The steel A-frame and capsule of the London Eye seen from directly underneath at dusk](../../assets/articles/south-bank-area-guide/london-eye-from-below.jpg)
+
+*The Eye from underneath. It is a cantilevered wheel supported from one side only, which is why the whole structure leans out over the river.*
+
 ![The graffiti-covered walls and vaulted ceiling of Leake Street Arches under Waterloo station](../../assets/articles/south-bank-area-guide/leake-street-arches.jpg)
 
 *Leake Street Arches. The whole tunnel is repainted every few days.*

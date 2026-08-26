@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.6",
+    "@types/node": "^26.2.0",
     "googleapis": "^174.0.1",
     "typescript": "^5.9.3"
   }

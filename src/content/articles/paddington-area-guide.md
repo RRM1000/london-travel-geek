@@ -56,7 +56,7 @@ faq:
   - q: "How do I get from Paddington to Heathrow?"
     a: "The Elizabeth line runs roughly every ten minutes and takes about 30 minutes. Heathrow Express takes 15 minutes non-stop but costs considerably more at walk-up prices. Both accept Oyster and contactless."
   - q: "Can you take a boat from Little Venice to Camden?"
-    a: "Yes. Narrowboat waterbuses run along Regent's Canal from Little Venice to Camden Lock via Regent's Park and London Zoo. The trip takes about 50 minutes. Services are frequent in summer and reduced in winter, so check before travelling."
+    a: "Yes. Narrowboat waterbuses run along Regent's Canal from Little Venice to Camden Lock, through the Maida Hill tunnel, Regent's Park and the London Zoo grounds. The trip takes about 45 minutes. They do not stop at the zoo itself — the far end is Camden Market, about fifteen minutes' walk from the zoo entrance. Services are frequent in summer and reduced in winter, so check before travelling."
   - q: "Where is the Paddington Bear statue?"
     a: "On the station concourse near Platform 1, under the departure boards. There is a second, larger bronze at the station's Praed Street entrance. The Browns' house from the films is not here — that exterior was shot on Chalcot Crescent in Primrose Hill, about half an hour north-east."
   - q: "How long do I need in Paddington?"
@@ -78,7 +78,7 @@ But ten minutes north of the platforms the character changes completely. **Littl
 ## Top sights and activities
 
 1. **Little Venice** — The basin where the Grand Union and Regent's Canals meet, lined with painted narrowboats. Waterside pubs, a floating cafe and a puppet theatre barge.
-2. **The narrowboat waterbus to Camden** — Fifty minutes along Regent's Canal through Regent's Park and past London Zoo. Far more pleasant than the equivalent Tube journey.
+2. **The narrowboat waterbus to Camden** — About 45 minutes along Regent's Canal, through the Maida Hill tunnel and the grounds of London Zoo. Far more pleasant than the equivalent Tube journey. It does not stop at the zoo.
 3. **The canal towpath west** — Follow the Grand Union towards Westbourne Park and Notting Hill. Quiet, flat and almost entirely traffic-free.
 4. **Paddington station itself** — Brunel's 1854 trainshed is worth two minutes of looking up before you leave, alongside the Paddington Bear statue on the concourse. Outside, on the plaza, a bronze group of animals sits around a dining table — easy to walk straight past on the way to the Tube.
 5. **Paddington Basin** — The modern waterfront east of the station, with the rolling and fan bridges and a run of canalside restaurants.

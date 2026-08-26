@@ -96,11 +96,44 @@ It is also the point where two great stations, six Tube lines, the Eurostar and 
 ### Granary Square and Coal Drops Yard
 The centre of the redevelopment. Fountains, the granary building, the shopping yard and the canal steps.
 
+![The entrance to Coal Drops Yard under a brick railway viaduct, lettered Welcome to Coal Drops Yard](../../assets/articles/kings-cross-area-guide/coal-drops-yard-entrance.jpg)
+
+*The entrance to Coal Drops Yard. The arches were built in the 1850s to drop coal from rail wagons into carts below.*
+
+![Market stalls with festoon lighting strung along the upper level of Coal Drops Yard](../../assets/articles/kings-cross-area-guide/coal-drops-yard-market-stalls.jpg)
+
+*The upper level, which runs stalls and events through the summer.*
+
 ### The two stations
 King's Cross for the north of England and Scotland; St Pancras for Eurostar and Thameslink. Two minutes apart and easy to confuse.
 
+![The white lattice roof of the Western Concourse at King's Cross station fanning out above the crowds](../../assets/articles/kings-cross-area-guide/kings-cross-western-concourse.jpg)
+
+*The Western Concourse, opened in 2012. The lattice is a single fan of steel springing from one central funnel — and Platform 9¾ is against the wall on the left.*
+
+![A luggage trolley half-embedded in the wall at Platform 9 3/4, with an owl cage on top](../../assets/articles/kings-cross-area-guide/platform-nine-three-quarters-trolley.jpg)
+
+*The Platform 9¾ trolley. Queuing is free; the photograph taken by the staff photographer is not, and the shop beside it is where the queue ends.*
+
 ### Regent's Canal and St Pancras Lock
 Behind Granary Square. The towpath west to Camden and the nature reserve.
+
+![Narrowboats moored on the Regent's Canal beside the grass steps at Granary Square](../../assets/articles/kings-cross-area-guide/regents-canal-granary-square.jpg)
+
+*The canal steps below Granary Square — the best place to sit in King's Cross, and free.*
+
+![St Pancras Lock on the Regent's Canal, with the restored Victorian gasholder frames behind it](../../assets/articles/kings-cross-area-guide/st-pancras-lock-gasholders.jpg)
+
+*St Pancras Lock, with the gasholder frames behind. Three of them now hold flats; the fourth is a park.*
+
+### Camley Street Natural Park
+Off the towpath between the canal and the railway. **Two acres of woodland, marsh and pond**, made a nature reserve in 1984 on the site of a former coal drop — and the fastest way to stop hearing King's Cross without leaving it.
+
+![A woodland path winding through Camley Street Natural Park, a nature reserve behind King's Cross](../../assets/articles/kings-cross-area-guide/camley-street-natural-park.jpg)
+
+*Camley Street. The mainline into St Pancras runs along the far side of this, which is the surprise of the place.*
+
+Free, with a visitor centre and a café. It keeps daytime hours and closes earlier in winter, so check if you are making a trip for it rather than passing on the towpath.
 
 ### Caledonian Road and Keystone Crescent
 North. Ordinary London, plus Keystone Crescent — reputedly the tightest-radius terrace crescent in Europe.
@@ -112,7 +145,6 @@ West of the stations. The Library, the Francis Crick Institute and a quiet resid
 
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
-| **Coal Drops Yard** | Mixed | ££ | The main cluster; a dozen restaurants around the yard |
 | **Dishoom King's Cross** | Bombay-inspired Indian | ££ | In a former transit shed; the biggest of the group |
 | **Caravan** | All-day dining | ££ | In the granary building on Granary Square |
 | **The German Gymnasium** | Grand European | £££ | An 1865 gymnasium beside St Pancras |

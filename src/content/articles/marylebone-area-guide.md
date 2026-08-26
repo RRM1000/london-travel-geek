@@ -95,6 +95,11 @@ It also holds one of the best free museums in London — a townhouse full of Old
 The centre. Independents, delis, Daunt Books and the best of the eating.
 
 ### Marylebone Lane
+
+![Outdoor tables outside 108 Brasserie on the curve of Marylebone Lane](../../assets/articles/marylebone-area-guide/marylebone-lane-108-brasserie.jpg)
+
+*Marylebone Lane keeps the curve of the old Tyburn riverbed, which is why it wanders while everything around it runs straight.*
+
 A curving lane following the course of the buried River Tyburn, which is why it bends oddly against the grid. Small shops and pubs.
 
 ### Manchester Square
@@ -107,6 +112,11 @@ North. The Sherlock Holmes Museum, Madame Tussauds and the traffic. The least pl
 Red-brick Victorian gothic, bridal shops, instrument dealers and the Chiltern Firehouse in an old fire station.
 
 ## Where to eat and drink
+
+![The Barley Mow pub on Dorset Street, its frontage hung with flowers and a painted sign reading the oldest pub in Marylebone](../../assets/articles/marylebone-area-guide/barley-mow-marylebone.jpg)
+
+*The Barley Mow on Dorset Street, trading since 1791 and claiming the title of Marylebone's oldest pub.*
+
 
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |

@@ -88,23 +88,50 @@ It is also the most walkable part of the West End, and the easiest to combine wi
 
 ## Key streets and micro-districts
 
-![The Apple Market hall in Covent Garden under Christmas decorations, with giant baubles hanging from the glass roof](../../assets/articles/covent-garden-area-guide/apple-market-christmas.jpg)
+![The interior of Covent Garden Market, its green cast-iron arches and glass roof above a crowd watching a street performer](../../assets/articles/covent-garden-area-guide/covent-garden-market-hall.jpg)
 
-*The Apple Market under its Christmas decorations. The market halls are decorated from mid-November.*
+*Charles Fowler's market hall, built 1828–30. The arched glass roofs came half a century later, covering what had until then been open yards between the ranges — the produce market itself left for Nine Elms in 1974.*
 
 ### The Piazza and market halls
 The centre. Market stalls, the performers, the Royal Opera House on the north-east corner and St Paul's Church to the west.
 
 ### Seven Dials
-Seven short streets radiating from a sundial pillar, each with its own character. Independent fashion, coffee and Seven Dials Market in a former banana warehouse.
+
+Seven short streets radiating from a sundial pillar, each with its own character. Independent fashion, coffee, two West End theatres on the junction, and Seven Dials Market.
+
+![The sundial pillar at the Seven Dials junction, with the Cambridge Theatre behind it and people sitting on the steps](../../assets/articles/covent-garden-area-guide/seven-dials-sundial.jpg)
+
+*The sundial pillar the district is named after. The Cambridge Theatre is on the corner behind it.*
+
+![The two-level hall of Seven Dials Market, with communal benches and festoon lighting](../../assets/articles/covent-garden-area-guide/seven-dials-market.jpg)
+
+*Seven Dials Market fills Thomas Neal's Warehouse, which stored bananas and cucumbers for the old Covent Garden fruit market. Its two halls are still called Banana Warehouse and Cucumber Alley.*
+
+
+### Old Brewer's Yard
+
+A courtyard off Mercer Walk, opened in December 2025 on a plot that was brewing beer in the 1740s. Bars, two restaurants and shops around a cobbled yard you can walk into for nothing — the ticketed brewery tour is listed under Things to do below.
+
+![The cobbled courtyard of Old Brewer's Yard with a vintage Guinness delivery lorry parked in it](../../assets/articles/covent-garden-area-guide/old-brewers-yard-guinness.jpg)
+
+*Old Brewer's Yard. The courtyard bar needs no ticket — only the brewery tours upstairs do.*
 
 ### Neal's Yard
+
+![The brightly painted buildings and packed outdoor tables of Neal's Yard](../../assets/articles/covent-garden-area-guide/neals-yard.jpg)
+
+*Neal's Yard. The entrances are narrow alleys off Monmouth Street and Short's Gardens, which is why so many people walk past without ever finding it.*
+
 A single small courtyard off Short's Gardens. Painted buildings, cafe tables and the original Neal's Yard Remedies shop.
 
 ### Floral Street and Long Acre
 The main east–west shopping streets, with the bridge linking the Royal Opera House buildings over Floral Street.
 
 ### Bow Street and Drury Lane
+
+![The colonnaded front of the Lyceum Theatre on Wellington Street, with The Lion King billboards and a rank of hire bikes outside](../../assets/articles/covent-garden-area-guide/lyceum-theatre-wellington-street.jpg)
+
+*The Lyceum on Wellington Street, home to The Lion King since 1999. Several of the West End's biggest houses are within five minutes of the Piazza.*
 The theatre spine, including the Theatre Royal Drury Lane — the oldest theatre site in continuous use in London.
 
 ## Where to eat and drink

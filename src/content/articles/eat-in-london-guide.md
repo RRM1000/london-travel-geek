@@ -119,7 +119,7 @@ Quick food in London doesn't mean resorting to global fast-food chains. We highl
 - **Near Major Station Hubs**: King's Cross, Paddington, Victoria, and Waterloo.
 - **Pre-Theatre Dining**: 60-minute, multi-course set menus served between 5:00 PM and 6:30 PM across the West End.
 - **Affordable Quick Meals**: Mumbai street food (*SKVP*), Brick Lane salt-beef beigels (*Beigel Bake*), and South Indian dosas (*Saravanaa Bhavan*).
-- **Market & Food Hall Stalls**: Borough Market samosas (*Horn OK Please*), Seven Dials kati rolls (*Kolkati*), and Market Halls Tamil curries (*Gopal's Corner*). See our [Indian Street Food & Restaurants Guide](/articles/best-indian-restaurants-london/).
+- **Market & Food Hall Stalls**: Borough Market samosas (*Horn OK Please*) and Seven Dials kati rolls (*Kolkati*) — see our [Indian Street Food & Restaurants Guide](/articles/best-indian-restaurants-london/). For Malaysian roti canai, *Gopal's Corner* at Market Halls Victoria, from the founder of Soho's Roti King.
 
 ---
 

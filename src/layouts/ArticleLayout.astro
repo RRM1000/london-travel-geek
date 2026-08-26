@@ -8,12 +8,15 @@ import Breadcrumbs from "../components/Breadcrumbs.astro";
 import RelatedGuides from "../components/RelatedGuides.astro";
 import TableOfContents from "../components/TableOfContents.astro";
 import AreaAtAGlance from "../components/AreaAtAGlance.astro";
+import AreaMap from "../components/AreaMap.astro";
 import AreaActivities from "../components/AreaActivities.astro";
 import AreaEvents from "../components/AreaEvents.astro";
 import AreaHiddenLondon from "../components/AreaHiddenLondon.astro";
 import activityData from "../data/activities.json";
 import eventData from "../data/events.json";
 import hotelData from "../data/hotels.json";
+import hiddenLondonData from "../data/hiddenLondon.json";
+import restaurantMapData from "../data/restaurants.json";
 import AreaHotels from "../components/AreaHotels.astro";
 import CombineWith from "../components/CombineWith.astro";
 import ArticleFaq from "../components/ArticleFaq.astro";
@@ -57,6 +60,14 @@ interface Props {
   headings?: Heading[];
   area?: AreaMeta;
   faq?: { q: string; a: string }[];
+  // Area guides only - see splitAreaGuideBody. closingHtml is the "Suggested
+  // route" + "Common mistakes" pair, rendered after the data-driven sections
+  // instead of wherever it fell in the markdown. whereToStayHtml is the
+  // area-level "stay in X neighbourhood" prose, merged into AreaHotels under
+  // one heading instead of duplicating "Where to stay" / "Places to stay".
+  closingHtml?: string;
+  closingHeadings?: Heading[];
+  whereToStayHtml?: string;
 }
 
 const {
@@ -77,6 +88,9 @@ const {
   headings = [],
   area,
   faq = [],
+  closingHtml = "",
+  closingHeadings = [],
+  whereToStayHtml = "",
 } = Astro.props;
 
 const contentsHeadings = headings.filter(
@@ -88,7 +102,23 @@ const contentsHeadings = headings.filter(
 // The activities section is injected by this layout rather than written in the
 // markdown, so it never appears in `headings` and would otherwise be a section
 // on the page with no entry in the contents. Append it when it will render.
-// Events come FIRST on the page, so they go first in the contents too.
+// The map leads, then events - the same order they render in below.
+const mappable = (rows: { guide?: string; lat?: number; lng?: number }[]) =>
+  rows.filter((r) => r.guide === articleId && r.lat != null && r.lng != null).length;
+const mapPinCount =
+  !area
+    ? 0
+    : mappable(restaurantMapData.restaurants) +
+      mappable(activityData.activities) +
+      mappable(hiddenLondonData.spots) +
+      mappable(hotelData.hotels);
+if (mapPinCount >= 3 && area) {
+  contentsHeadings.push({
+    depth: 2,
+    slug: "area-map",
+    text: `Map of ${area.name}`,
+  });
+}
 const hasEvents =
   !!area && (eventData.events as { guide?: string }[]).some((e) => e.guide === articleId);
 if (hasEvents && area) {
@@ -107,18 +137,33 @@ if (hasActivities && area) {
     text: `Things to do in ${area.name}`,
   });
 }
-// Placed after Things to do, mirroring the render order: events lead (they are
-// time-limited), then things to do, then places to stay - the least urgent of
-// the three, since a hotel choice is not going anywhere.
-const hasHotels =
-  !!area && (hotelData.hotels as { guide?: string }[]).some((h) => h.guide === articleId);
-if (hasHotels && area) {
+// This section renders on the page (AreaHiddenLondon.astro) but was never
+// added to the contents list - genuinely missing before, not a reorder.
+const hasHiddenLondon =
+  !!area && (hiddenLondonData.spots as { guide?: string }[]).some((s) => s.guide === articleId);
+if (hasHiddenLondon && area) {
   contentsHeadings.push({
     depth: 2,
-    slug: "places-to-stay",
-    text: `Places to stay in ${area.name}`,
+    slug: "hidden-london",
+    text: `Hidden ${area.name}`,
   });
 }
+// One heading now, not two: the area-level "Where to stay" prose merges into
+// AreaHotels's property list. Gated on EITHER having content, because Peckham
+// has the prose with no hotel-card data yet - the section still has to render.
+const hasHotels =
+  !!area && (hotelData.hotels as { guide?: string }[]).some((h) => h.guide === articleId);
+const hasStaySection = hasHotels || whereToStayHtml.trim().length > 0;
+if (hasStaySection && area) {
+  contentsHeadings.push({
+    depth: 2,
+    slug: "where-to-stay",
+    text: "Where to stay",
+  });
+}
+// Suggested route + Common mistakes render last, right before the FAQ - see
+// splitAreaGuideBody for why this can't just be markdown heading order.
+contentsHeadings.push(...closingHeadings);
 const showContents = contentsHeadings.length >= 4;
 const siteArticles = (await getCollection("articles")).filter(
   (article) =>
@@ -253,10 +298,13 @@ const breadcrumbs = [
           />
         )}
         <slot />
+        {area && <AreaMap articleId={articleId} areaName={area.name} />}
         {area && <AreaEvents articleId={articleId} areaName={area.name} />}
         {area && <AreaActivities articleId={articleId} areaName={area.name} />}
         {area && <AreaHiddenLondon articleId={articleId} areaName={area.name} />}
-        {area && <AreaHotels articleId={articleId} areaName={area.name} />}
+        {area && (
+          <AreaHotels articleId={articleId} areaName={area.name} introHtml={whereToStayHtml} />
+        )}
         {area && (
           <CombineWith
             areas={area.nearby}
@@ -264,6 +312,7 @@ const breadcrumbs = [
             publishedIds={publishedIds}
           />
         )}
+        {closingHtml && <Fragment set:html={closingHtml} />}
         <ArticleFaq items={faq} />
       </div>
       <aside class="article__sidebar">
@@ -839,6 +888,19 @@ const breadcrumbs = [
     table-layout: fixed;
   }
 
+  /* FIVE-COLUMN COMPARISON TABLES
+     table-layout: fixed splits the width evenly, so a five-column table gives
+     the last column 20%. On this site that column is almost always the prose
+     one - the "what makes it different" note carrying the actual argument -
+     while the four before it hold a name, a route, a duration and a price.
+     Equal fifths squeezes the useful column into a ribbon of two-word lines,
+     so weight it toward the end and let the short factual columns shrink. */
+  .article__body :global(table:has(> thead > tr > :nth-child(5):last-child) th:nth-child(1)) { width: 15%; }
+  .article__body :global(table:has(> thead > tr > :nth-child(5):last-child) th:nth-child(2)) { width: 15%; }
+  .article__body :global(table:has(> thead > tr > :nth-child(5):last-child) th:nth-child(3)) { width: 12%; }
+  .article__body :global(table:has(> thead > tr > :nth-child(5):last-child) th:nth-child(4)) { width: 14%; }
+  .article__body :global(table:has(> thead > tr > :nth-child(5):last-child) th:nth-child(5)) { width: 44%; }
+
   .article__body :global(.line-attractions) {
     margin-top: 0.45rem;
     margin-bottom: 1.4rem;
@@ -1389,6 +1451,17 @@ const breadcrumbs = [
     min-height: 32rem;
     background: var(--surface-strong);
     font-size: 0.9rem;
+    /* CONTAIN LEAFLET'S Z-INDEXES.
+       Leaflet gives its own panes z-index 200-700 (markers 600, popups 700).
+       The sticky site header is z-index 90. Because .leaflet-container is
+       positioned but has z-index:auto it creates NO stacking context, so those
+       panes compete with the header directly and win - pins and popups scroll
+       up and paint over the nav bar.
+       position + a z-index of 0 makes this element a stacking context, which
+       traps every Leaflet layer inside it. 0 rather than a bigger number so the
+       map still sits below the header rather than above it. */
+    position: relative;
+    z-index: 0;
   }
 
   .article__body :global(.restaurant-map > p) {

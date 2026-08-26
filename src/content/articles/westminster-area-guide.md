@@ -100,6 +100,11 @@ It is also the most concentrated sightseeing in the city. Almost everything wort
 The green at the centre, ringed by statues — Churchill, Mandela, Millicent Fawcett — with the Abbey on one side and Parliament on the other.
 
 ### Whitehall
+
+![Nelson's Column and the fountains of Trafalgar Square in late afternoon](../../assets/articles/westminster-area-guide/trafalgar-square.jpg)
+
+*Trafalgar Square sits at the top of Whitehall, a ten-minute walk from Parliament Square and free to wander.*
+
 The government spine running north to Trafalgar Square. Downing Street's gates, the Cenotaph and Horse Guards Parade are all on it.
 
 ![Mounted Household Cavalry on parade at Horse Guards, Whitehall](../../assets/articles/westminster-area-guide/horse-guards-parade.jpg)

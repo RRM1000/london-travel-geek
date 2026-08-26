@@ -57,7 +57,7 @@ faq:
   - q: "Is Upper Street worth visiting?"
     a: "Yes, if you are eating. Upper Street has one of the highest concentrations of restaurants in London along a single mile, at every price point, plus the Almeida and Little Angel theatres and the Union Chapel. It is a street for an evening rather than a sightseeing stop — there are no landmarks."
   - q: "Does the Regent's Canal go through Islington?"
-    a: "Yes, but it disappears. The canal enters the 960-metre Islington Tunnel at City Road Basin and does not resurface until Muriel Street near Caledonian Road. There is no towpath through it — walkers follow a signed street-level route over the top, which takes about fifteen minutes."
+    a: "Yes, but it disappears. The canal enters the 878-metre Islington Tunnel at City Road Basin and does not resurface until Muriel Street near Caledonian Road. There is no towpath through it — walkers follow a signed street-level route over the top, which takes about fifteen minutes."
   - q: "What is on at Sadler's Wells?"
     a: "It is Britain's leading dance venue, programming contemporary dance, flamenco, hip hop and ballet year-round. It sits at the southern end of Islington near Angel. Book ahead — popular runs sell out, and the theatre has a second stage at the Peacock Theatre in Holborn."
   - q: "Is the Union Chapel still a working church?"

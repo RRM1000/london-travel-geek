@@ -267,7 +267,7 @@ For almost all adult visitors, tapping a **contactless bank card or mobile walle
 | Payment Method | Adult Single (Zone 1) | Daily Cap (Zones 1–2) | Setup Required |
 | --- | ---: | ---: | --- |
 | **Contactless Card / Phone** | **£3.10** *(Peak)* / **£3.00** *(Off-peak)* | **£8.90** | None—just tap at the gate |
-| **Oyster Card** | **£3.10** *(Peak)* / **£3.00** *(Off-peak)* | **£8.90** | Buy for £7 fee & load credit |
+| **Oyster Card** | **£3.10** *(Peak)* / **£3.00** *(Off-peak)* | **£8.90** | Buy for £10.50 fee & load credit |
 | **Paper Single Ticket** | **£6.70** | None *(No capping)* | Must buy at machine *(Avoid!)* |
 
 > ⚠️ **Critical Payment Rules:**  
@@ -284,12 +284,22 @@ For full pricing details, peak hours, and Travelcard comparisons, read our compl
 ![A yellow Oyster and contactless card reader on a London Underground ticket barrier.](../../assets/articles/london-underground/oyster-card-reader.jpg)
 
 ### Step 1: Find the station & touch in
+
+![The Underground roundel and station name sign on the platform wall at Great Portland Street](../../assets/articles/london-underground/great-portland-street-roundel.jpg)
+
+*Every platform repeats the station name inside the roundel. It is the quickest way to confirm where you are when a train pulls in.*
+
 Look for the famous red-and-blue Underground roundel outside. Touch your card or device flat against the **yellow reader** on the right side of the ticket barrier. Wait for the green light and a single chime before walking through. Use the wider gates if carrying large luggage or a stroller.
 
 ### Step 2: Follow the color-coded line signs
 Inside the station, follow the overhead signs matching your line's color. Directional signs indicate the compass heading and final destination (e.g. *"Piccadilly line Eastbound towards Cockfosters"*).
 
 ### Step 3: Check the platform display
+
+![A sub-surface line train waiting at the tiled platform at Great Portland Street station](../../assets/articles/london-underground/great-portland-street-platform.jpg)
+
+*Great Portland Street, one of the original 1863 cut-and-cover stations. The wide, shallow tunnels here are shared by the Circle, Hammersmith & City and Metropolitan lines.*
+
 Electronic digital displays on the platform show the destination and arrival time of upcoming trains. 
 > 🛑 **Check the Branch:** Lines like the Northern, District, and Piccadilly lines split into multiple branches. Always verify the train's destination on the platform display screen before boarding!
 
@@ -352,6 +362,10 @@ Standard off-peak fares apply, and night journeys count towards the previous day
 TfL frequently performs track maintenance and signaling upgrades over weekends. Before heading out on Saturday or Sunday—especially for airport flights or theatre shows—check the [TfL Planned Closures Page](https://tfl.gov.uk/status-updates/planned-track-closures) or use the **TfL Go App**.
 
 ---
+
+![A long curving pedestrian tunnel lined with a colour-changing light wall, linking King's Cross and St Pancras](../../assets/articles/how-to-use-the-london-underground/kings-cross-lightwall-tunnel.jpg)
+
+*The King's Cross Lightwall, on the pedestrian tunnel between King's Cross St Pancras Tube and the main line stations. It is the quickest way between the two and the signage is easy to miss — follow signs for St Pancras International rather than trying to go back up to street level.*
 
 ## Step-free access & travelling with luggage
 

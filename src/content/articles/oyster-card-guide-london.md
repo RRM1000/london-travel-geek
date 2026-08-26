@@ -142,6 +142,10 @@ If your bank card is issued outside the UK, your bank may charge a foreign trans
 
 If using an Oyster card, keep your balance topped up at any station ticket machine:
 
+![A Transport for London ticket machine showing the Oyster top-up screen and a contactless prompt reading In a hurry?](../../assets/articles/oyster-card-guide-london/tfl-ticket-machine-oyster.jpg)
+
+*A ticket machine at King's Cross St Pancras. The yellow disc to the right of the screen is the Oyster reader — that is where the card goes, both to start and to finish. The machine language can be changed using the flags along the bottom of the screen.*
+
 1. **Touch Card on Yellow Reader:** Touch your Oyster card against the yellow reader on the ticket machine.
 2. **Check Balance:** Your current credit balance will display on the screen. Select **Top Up Pay As You Go**.
 3. **Select Amount:** Choose the top-up amount (e.g. £10, £20, £30).
@@ -151,6 +155,11 @@ If using an Oyster card, keep your balance topped up at any station ticket machi
 ---
 
 ## 🛑 Card Clash: A Crucial Warning
+
+![Ticket barriers at a London Underground station, with a yellow contactless reader on the gate](../../assets/articles/oyster-card/ticket-gateline-contactless.jpg)
+
+*The yellow reader sits on top of the gate to your right. Touch one card flat against it — not a whole wallet.*
+
 
 > ⚠️ **Avoid Card Clash!**  
 > "Card clash" happens when you touch a wallet or purse containing multiple contactless bank cards or an Oyster card against a yellow gate reader. The reader may:  
