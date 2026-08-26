@@ -195,5 +195,29 @@
       "wongkeilondon.com",
       "balady.co.uk"
     ]
+  },
+  "closingSoon": {
+    "note": "Trading now but with a known end date. A guide with any shelf life must not send readers here without saying so. Re-check these before each publish.",
+    "venues": {
+      "boxpark shoreditch": {
+        "name": "Boxpark Shoreditch",
+        "closes": "2026-09-30",
+        "detail": "Closes permanently at the end of September 2026. The lease expired, rescue talks failed, and the Bishopsgate Goodsyard site has redevelopment consent. Boxpark Croydon and Wembley are unaffected but are event and sports venues rather than food halls.",
+        "recorded": "2026-08-26"
+      },
+      "mercato metropolitano elephant and castle": {
+        "name": "Mercato Metropolitano (Elephant & Castle)",
+        "closes": "2026-12-31",
+        "detail": "Trades to the end of 2026, then the site goes for the Borough Triangle redevelopment (Berkeley Group, towers of 44 and 38 storeys, completion 2034). A move to a neighbouring temporary site is reported but unconfirmed. Mercato Mayfair is unaffected.",
+        "source": "The Caterer, 17 Dec 2025",
+        "recorded": "2026-08-26"
+      },
+      "pop brixton": {
+        "name": "Pop Brixton",
+        "closes": "UNVERIFIED",
+        "detail": "Redevelopment plans for the Brixton Station Road site were submitted in March 2026 and would end Pop Brixton; the operator entered administration in 2024. Events were still scheduled for August 2026. Needs a check before travelling.",
+        "recorded": "2026-08-26"
+      }
+    }
   }
 }

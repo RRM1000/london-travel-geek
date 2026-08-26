@@ -210,20 +210,20 @@ Neither sushi counter nor ramen shop — **everyday Japanese home cooking**, don
 
 Omakase counters get the attention, but the everyday end of Japanese London is where most of the eating happens — and it is cheap.
 
-### Under £15
+#### Under £15
 
 * **Kanada-Ya**, Covent Garden — a bowl of eighteen-hour tonkotsu for less than a central London sandwich.
 * **Koya Ko**, Bloomsbury — hand-cut udon, and the breakfast service is cheaper still.
 * **Marugame Udon** — a canteen where you walk the line watching the noodles being cut, under £12, with sites across London.
 * **Monohon** and **Tonkotsu** — both consistent, both around the same money.
 
-### Markets and food halls
+#### Markets and food halls
 
 * **Seven Dials Market**, Covent Garden — Japanese counters in a two-floor food hall, and the best way to eat one good dish without committing to a restaurant.
-* **Arcade Food Hall** at Centre Point and **Boxpark** carry Japanese and Japanese-adjacent counters, generally around £10–£14 a dish.
+* **Arcade Food Hall** at Centre Point and Battersea Power Station carries several Japanese and Japanese-adjacent counters, generally around £10–£14 a dish.
 * **Japan Centre**, Panton Street — as much a food shop as a restaurant. The bento and onigiri counter is the cheapest genuinely Japanese food in the West End, and the supermarket behind it is where Londoners buy the ingredients.
 
-### Worth the money rather than cheap
+#### Worth the money rather than cheap
 
 * **Jin Kichi**, Hampstead — charcoal yakitori, and the best value-for-quality on this page.
 * **Cocoro** — home-style set meals, the category London under-serves.

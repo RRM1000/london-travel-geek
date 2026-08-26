@@ -200,14 +200,14 @@ The cheapest French food in London is **standing up at Borough Market**. There i
 
 **Maltby Street Market** ten minutes away does the same trick on Saturdays, with fewer people.
 
-### Pre-theatre and set lunch
+#### Pre-theatre and set lunch
 
 * **Mon Plaisir's pre-theatre menu** is among the cheapest sit-down French meals in Covent Garden, in London's oldest French restaurant.
 * **Pique-Nique's set menu** is materially cheaper than its sibling Casse-Croûte for the same kitchen's thinking.
 * **Otto's set lunch** costs a fraction of the pressed duck — and the duck needs ordering in advance anyway.
 * **Lunch menus generally.** Every restaurant on this page runs one at a fraction of dinner, from the same kitchen. This is more true of French restaurants in London than of any other cuisine.
 
-### The bistros
+#### The bistros
 
 * **Bouchon Racine** is still the best-value serious French cooking in London, and it is above a pub.
 * **Casse-Croûte** and **Les 2 Garçons** both run about £40–£55 a head for three courses.

@@ -207,7 +207,7 @@ Speciality coffee in London settles around £3.20–£4.20 for a flat white almo
 
 * **Buy beans from the roasters.** A bag from Monmouth, Square Mile, Assembly or Origin costs about the same as three flat whites and makes forty. The roasteries in this guide all sell retail, and several will grind to your method.
 * **Markets.** **Monmouth at Borough Market** is the original and still the best queue in London coffee. **Maltby Street** and **Netil Market** both have serious coffee carts at market prices rather than café ones.
-* **Food halls.** **Seven Dials Market**, **Mercato Metropolitano** and **Old Spitalfields** all carry independent coffee counters — useful when you want a good flat white without hunting for a specific address.
+* **Food halls.** **Seven Dials Market**, **Mercato Mayfair** and **Old Spitalfields** all carry independent coffee counters — useful when you want a good flat white without hunting for a specific address.
 * **Filter over espresso.** Batch brew is usually £1 cheaper than a flat white and, at a shop that roasts its own, it is the drink that actually shows the roast off.
 * **Bring a cup.** Most independents take 25–50p off, and a few take more.
 

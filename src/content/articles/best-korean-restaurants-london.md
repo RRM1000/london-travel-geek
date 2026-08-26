@@ -186,19 +186,19 @@ Hotpots and barbecue, and one of the survivors of the **demolished St Giles Kore
 
 Korean barbecue is not cheap. Almost everything else on a Korean menu is.
 
-### The cheapest good meals
+#### The cheapest good meals
 
 * **Seoul Bakery**, Bloomsbury — the cheapest proper Korean food in central London, in a room the size of a corridor.
 * **Dotori**, Finsbury Park — cash only, walk-in only, and the reason there is always a queue.
 * **Chick and Beers** or **Tongdak**, New Malden — fried chicken feeds two for the price of one barbecue cover.
 * **Stews and rice dishes** — kimchi jjigae, sundubu and bibimbap run roughly £12–£16 almost everywhere, *including* at the barbecue restaurants. Order those and the same room becomes affordable.
 
-### Supermarkets and food halls
+#### Supermarkets and food halls
 
 * **The New Malden Korean supermarkets** are the real bargain. H Mart and the smaller independents along the High Street sell excellent prepared banchan, kimbap and marinated meat to take away, at a fraction of restaurant prices — and they are the reason locals shop there rather than eat out.
 * **Seven Dials Market** and **Arcade Food Hall** in central London both carry Korean counters if you want a single dish without committing to a full table.
 
-### General rules
+#### General rules
 
 * **New Malden is cheaper than central** across the board, for better food. The train fare is less than the price difference.
 * **Lunch sets** at the central restaurants are materially cheaper than dinner.

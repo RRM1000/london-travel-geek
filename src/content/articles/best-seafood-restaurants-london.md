@@ -243,7 +243,7 @@ Go early, wear boots you do not mind ruining, and bring cash and a cool bag.
 
 Seafood has a reputation as the most expensive thing on a London menu. These are the ways round it.
 
-### Oyster happy hours
+#### Oyster happy hours
 
 The best-value trick in London dining. Several serious oyster bars discount hard in the dead hour between lunch and dinner:
 
@@ -253,13 +253,13 @@ The best-value trick in London dining. Several serious oyster bars discount hard
 * **The Oystermen**, Covent Garden — Bubbles 'n' Oysters, daily 3–5pm: **six oysters and a glass of crémant for £10.**
 * **Wright Brothers** run their own at under £2 an oyster.
 
-### Markets, and eating standing up
+#### Markets, and eating standing up
 
 * **Borough Market** — **Applebee's** fish sandwich counter is around £8 and one of the best cheap lunches in London, from a stall trading since 1999.
 * **Maltby Street Market**, weekends — oysters and shellfish eaten standing up in a railway arch at a fraction of restaurant prices.
 * **Billingsgate Fish Market** — the traders' café does a bacon and scallop roll, and the whole thing is over by 8am.
 
-### Sit-down value
+#### Sit-down value
 
 * **Sweetings** — Dover sole £31, fish pie £13.50, in a room from 1889. Weekday lunch only.
 * **Sam's Riverside** — two courses £26.60, three for £31.50.

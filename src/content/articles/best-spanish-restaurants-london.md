@@ -180,19 +180,19 @@ The most neighbourhood-feeling restaurant on this page, and the one Londoners ar
 
 Tapas is designed to be cheap and London has mostly forgotten that. These are the places where it still is.
 
-### Markets and food halls
+#### Markets and food halls
 
 * **Borough Market** — **Brindisa** has traded here since the 1980s and started as an importer rather than a restaurant. The chorizo roll from its stall, with rocket and piquillo peppers, is around a fiver and is one of the great cheap lunches in London.
 * **Mercado Metropolitano**, Elephant & Castle — a Spanish-founded food hall with several Iberian counters, and the cheapest jamón and pan con tomate in the city.
 * **Seven Dials Market** and **Arcade Food Hall** both carry Spanish counters if you want one dish rather than a table.
 
-### Counters rather than tables
+#### Counters rather than tables
 
 * **José**, Bermondsey — standing room, no bookings, and still the cheapest way to eat seriously good Spanish food in London.
 * **Barrafina at the counter** — the counter is the only seating, so you are not paying for a table.
 * **Bar Kroketa** — a plate of croquettes and a glass of fino is a genuinely cheap meal.
 
-### How to order
+#### How to order
 
 * **Order tapas in waves** rather than all at once. It stops the bill running away and it is how the format is meant to work.
 * **Sherry is underpriced** almost everywhere in London and is the correct drink with jamón — a copita of fino usually costs less than a glass of house white.

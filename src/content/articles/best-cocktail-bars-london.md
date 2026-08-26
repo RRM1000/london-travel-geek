@@ -1,6 +1,6 @@
 ---
-title: "The Best Cocktail Bars in London: 26 Compared"
-seoTitle: "Best Cocktail Bars London 2026: 26 Rooms Compared"
+title: "The Best Cocktail Bars in London: 21 Compared"
+seoTitle: "Best Cocktail Bars London 2026: 21 Rooms Compared"
 description: "Where the Savoy Cocktail Book was written, a martini mixed at your table from a trolley, and a two-drink limit that tells you everything — London's best bars."
 heroImage: "../../assets/articles/best-cocktail-bars-london/best-cocktail-bars-london.jpg"
 heroImageAlt: "A bartender measuring spirits into a jigger behind a dimly lit bar"
@@ -248,7 +248,7 @@ Live music nightly and a menu organised by continent. Sibling to Nightjar, and t
 
 Cocktail bars are where London prices get least transparent — most publish nothing at all. These are the ones where a real figure could be verified, and they are the ones to use.
 
-### Genuinely cheap drinks
+#### Genuinely cheap drinks
 
 * **Little Mercies**, Crouch End — **30% off all drinks, 6–7pm, every single day.** That takes an £11 Snickers Old Fashioned to about £7.70, and it runs seven nights a week rather than on weekdays only. The best standing offer of any serious bar in London. Takeaway drinks excluded.
 * **Swift**, Soho, Shoreditch and Borough — **named cocktails at £7, Monday to Thursday before 6pm**, printed on the menu against drinks that are otherwise £12–£15.
@@ -257,11 +257,24 @@ Cocktail bars are where London prices get least transparent — most publish not
 * **Coupette**, Bethnal Green — **Sunday Development Sessions, all drinks £9** from 4pm, experimental pours that are not on the menu. The regular list runs £11–£15, which is already below the West End.
 * **Lyaness** runs a weekday happy hour from 5–7pm, though it does not publish the prices.
 
-### For comparison, the top end
+#### For comparison, the top end
 
 The **Connaught Martini is £30**, mixed at your table from the trolley. **Nightjar** is around £15 a drink *plus* a £6–£10 music cover and a £15 per person per hour minimum spend. Knowing those numbers is what makes the £7 and £9.50 above worth planning around.
 
-### Cheap by the glass, not by the hour
+#### The flat-price bars
+
+* **Discount Suit Company**, Spitalfields — **every cocktail on the list is £10**, flat, no exceptions and no offer required. A serious, ingredient-driven bar in a former tailor's on Wentworth Street, and the best straight answer to "where can I drink well cheaply in London".
+* **FAM Bar**, Marylebone — **£8.50 a cocktail, Tuesday to Saturday 4–7pm**, stated as a flat price rather than a two-for-one you have to do arithmetic on.
+* **Zapoi**, Peckham — **any four classics for £35** — £8.75 each — daily until 7pm, in a plant-filled Rye Lane room that pays the London Living Wage.
+
+#### Two-for-one, properly checked
+
+* **Simmons Bar** — **two-for-one on all cocktails, seven days a week**, 4–9pm at most sites and 3–8pm across the West End ones. With a list running £10.50–£12.80, that is around **£5.25 a drink** — the cheapest verified cocktail in central London. Fifteen branches.
+* **The Tommyfield**, Kennington — two-for-one **Monday to Friday, 4.30–6.30pm**, on margaritas, espresso martinis and Aperol spritzes. The list price is £11.50, so about **£5.75** each.
+
+> ⚠️ Two traps in this category. **Be At One's two-for-one only works on two of the same cocktail**, and its widely reported "£6 cocktails" is a **student price requiring ID**, not the standard rate. And **Bar Termini is not a cheap bar** despite its reputation — the £9.50 is the house negroni alone; everything else on that menu is £15.50.
+
+#### Cheap by the glass, not by the hour
 
 Some bars are simply priced below the market and do not need an offer:
 
@@ -269,11 +282,13 @@ Some bars are simply priced below the market and do not need an offer:
 * **Little Mercies**, Crouch End — the signatures run £10.50–£12.50 and the "mini drinks" are **£7**.
 * **Three Sheets Dalston** — the house list is £15.50–£16, but the menu states **classics from £13**, which is the way in.
 
-### Food halls and markets
+#### Food halls and markets
 
-The bars inside **Mercato Metropolitano**, **Seven Dials Market** and **Boxpark** serve proper drinks at market rather than bar prices — the most reliable cheap route in central and south London when you do not want to plan around an offer.
+**Seven Dials Market** in Covent Garden has two — Bar Nana on the ground floor and the Warehouse Bar below it, pouring East London Liquor Co. spirits — and **Market Halls** runs bars at Oxford Street, Canary Wharf and Paddington with **two spritzes for £20 between 3pm and 5pm** on its free Hall Pass app. That offer does not run at Market Halls Victoria.
 
-### General
+**Jim & Tonic at Mercato Mayfair** pours from its own distillery on the altar of a deconsecrated church, which is the most striking room of any of them.
+
+#### General
 
 * **Go early.** Almost every bar here is cheaper and calmer before 7pm.
 * **Ask for the classics.** A well-made negroni or daiquiri usually sits at the bottom of the list, and at a bar this good it is the better test of the room anyway.
