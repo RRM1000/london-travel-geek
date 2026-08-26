@@ -14,6 +14,26 @@
 //   node scripts/audit-counts.mjs
 import fs from "node:fs";
 
+// A few titles count a SUBSET of the page rather than its ### headings, because
+// the heading count is measuring the wrong thing. "10 Banksys" sits above a page
+// whose headings are mostly neighbourhoods; "23 Worth Walking To" counts plaque
+// subjects, six of which live in a bullet list rather than a heading.
+//
+// The number here is hand-verified against the article body. The audit still
+// compares the title against it, so a title that drifts is still caught - this
+// only changes WHAT the title is checked against, it does not switch the check
+// off. If you add entries to one of these pages, update the number here too.
+const SUBSET = {
+  "london-street-art": {
+    n: 10,
+    why: "Banksys viewable as originals in situ; the ### are mostly areas",
+  },
+  "london-blue-plaques": {
+    n: 23,
+    why: "plaque subjects, six of which are bullets in the Elsewhere section",
+  },
+};
+
 const DIR = "src/content/articles";
 const rows = [];
 
@@ -23,7 +43,7 @@ for (const f of fs.readdirSync(DIR).filter((x) => x.endsWith(".md"))) {
 
   const h3 = (md.match(/^### /gm) ?? []).length;
   const numbered = (md.match(/^## \d+\.\s/gm) ?? []).length;
-  const actual = Math.max(h3, numbered);
+  const actual = SUBSET[slug]?.n ?? Math.max(h3, numbered);
   if (!actual) continue;   // prose pages have no entry count to check
 
   for (const field of ["title", "seoTitle"]) {
@@ -52,7 +72,12 @@ if (!rows.length) {
   console.log(`${rows.length} title(s) claiming a count that does not match the page:\n`);
   for (const r of rows) {
     console.log(`  ${r.slug}`);
-    console.log(`    ${r.field} says ${r.claimed}, the page has ${r.actual} entries`);
+    const sub = SUBSET[r.slug];
+    console.log(
+      sub
+        ? `    ${r.field} says ${r.claimed}, but scripts/audit-counts.mjs records ${r.actual} (${sub.why})`
+        : `    ${r.field} says ${r.claimed}, the page has ${r.actual} entries`,
+    );
     console.log(`    "${r.text}"`);
   }
   process.exitCode = 1;

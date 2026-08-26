@@ -1,5 +1,5 @@
 ---
-title: "The Best Comedy Clubs in London: 13 Nights Compared"
+title: "The Best Comedy Clubs in London: 17 Nights Compared"
 seoTitle: "Best Comedy Clubs London 2026: Free Nights & Big Names"
 description: "Where alternative comedy started in 1979, a pub running free stand-up seven nights a week, and a Kennington night where famous comedians turn up unannounced."
 heroImage: "../../assets/articles/best-comedy-clubs-london/best-comedy-clubs-london.jpg"
@@ -109,6 +109,12 @@ Angel Comedy's second venue, a refurbished pub a short walk from the first, runn
 
 The Edinburgh preview season, roughly June to early August, is when this room is at its best: full-length shows for a few pounds before they go north and cost thirty.
 
+### Comedy Virgins
+
+*Free · four pubs across London*
+
+Free nights running at **Signature Brew in Haggerston, The Railway in Putney, The Gipsy Queen in Kentish Town and The Wheatsheaf in Tooting Bec**. Open-mic in structure but with a long-standing reputation, and the most geographically spread of the free options — there is usually one near wherever you are staying.
+
 ### Comedy Cabin, Hoxton
 
 *Free Thursdays · around £5 otherwise*
@@ -147,9 +153,33 @@ Big names and hot new acts in the **glittery ex-servicemen's club** that is one 
 
 MOTH Club's tinsel-and-Artex ceiling is worth seeing on its own account.
 
+> **Knock2Bag is sometimes listed as free. It is not** — mailing-list subscribers occasionally get free or heavily reduced tickets, which is probably where the confusion comes from.
+
 ---
 
 ## The rest of the circuit
+
+### Up the Creek, Greenwich
+
+*££ · around 275 · Thu–Sun*
+
+Founded in **1991 by Malcolm Hardee** in an old church hall, and still the most gleefully hostile room in London — **the heckling is part of the format** rather than an interruption of it, and comedians either handle it or are eaten. It won the **first ever Chortle Award for Best Large Venue** in 2002.
+
+Not the room for a nervous first-timer, and exactly the room if you want to see what stand-up is actually like without a net.
+
+### 2Northdown, King's Cross
+
+*£ · 100 seats · 2 min from King's Cross St Pancras*
+
+Opened in **June 2017** and now one of the industry's favourite rooms for previews and works-in-progress — the place comedians take a show that is not finished yet. A hundred seats, step-free from the street, and two minutes from the station.
+
+### Soho Theatre, Soho
+
+*££ · Dean Street*
+
+Less a comedy club than the room where comedy becomes a show. New theatre, cabaret and full-length stand-up hours, and the London stop for most Edinburgh transfers.
+
+**There is now a second venue, Soho Theatre Walthamstow**, on Hoe Street — a restored art deco cinema, and worth the Victoria line trip for the building alone.
 
 ### Camden Comedy Club, Camden Town
 
@@ -179,6 +209,7 @@ In a brick cellar bar near Waterloo, with late shows at weekends. The room is a 
 * **Front-row seats get spoken to.** At every club on this page. Sit further back if that is not what you want.
 * **Most pub nights are cash-light but card-friendly**, and the ticket price does not include a drink.
 * **Check the line-up the same week.** Comedy bills change constantly and a name announced a month out is not a guarantee.
+* **Angel Comedy is free seven nights a week at The Camden Head**, but The Bill Murray also runs paid shows — the two venues are not the same offer.
 
 ---
 

@@ -26,7 +26,14 @@ const FURNITURE = [
   /accessibility/i, /get listed/i, /advertis/i, /^offers?$/i, /^faq/i,
   /terms of use/i, /manage cookies/i, /^time out/i, /newsletter/i,
   /^(design|journeys|hotels|arts|fiction|culture|travel|style|beauty)$/i,
-  /^[A-Z][a-z]+ [A-Z][a-z]+$/,   // a byline: "Iona Goulder"
+  // NOTE: there used to be a /^[A-Z][a-z]+ [A-Z][a-z]+$/ rule here to catch
+  // bylines like "Iona Goulder". It also matched Forza Wine, Ave Mario,
+  // Circolo Popolare, Lutyens Grill and Locanda Locatelli, so every
+  // hand-recorded single-venue review scored ALL JUNK - and
+  // purge-dead-sources.mjs deletes ALL JUNK sources. The heuristic was one
+  // --write away from destroying the most carefully sourced entries on the
+  // site. Two-word capitalised strings are how London restaurants are named;
+  // there is no safe version of this rule, so it is gone.
   /valentine|christmas|easter|halloween/i,
   /^\d+ (at-home|things|ways|reasons)/i,
 ];
@@ -54,8 +61,13 @@ for (const f of fs.readdirSync("data/consensus").filter((x) => x.endsWith(".json
     try { host = new URL(s.url).hostname.replace(/^www\./, ""); } catch {}
     // Zero names = the fetch produced nothing. All-suspect = it produced junk.
     // Both are dead sources wearing the costume of a live one.
+    // A source with exactly one name is a hand-recorded single-venue review
+    // (see record-source.mjs), not a scrape that returned furniture. Judge it
+    // on whether that one name is junk, not on the ratio.
+    const singleVenue = names.length === 1 && !isSuspect(names[0]);
     const verdict =
       names.length === 0 ? "EMPTY"
+      : singleVenue ? "ok"
       : clean === 0 ? "ALL JUNK"
       : suspect / names.length > 0.6 ? "MOSTLY JUNK"
       : suspect / names.length > 0.3 ? "noisy"

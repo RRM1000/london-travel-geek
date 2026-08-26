@@ -1,7 +1,7 @@
 ---
-title: "London Street Art: 11 Banksys and Where to Actually Find Them"
+title: "London Street Art: The 10 Banksys You Can Still See"
 seoTitle: "London Street Art & Banksy Map 2026: What Survives"
-description: "Which London Banksys still exist, which have been removed, and where the city's other street art is — a guide that admits what has already gone."
+description: "Ten Banksys still standing in London, the six from the 2024 animal series that are gone, and where the city's other street art actually is."
 heroImage: "../../assets/articles/london-street-art/london-street-art.jpg"
 heroImageAlt: "A large painted mural covering a brick wall on Bacon Street off Brick Lane"
 heroImageCredit: "Fred Romero"
@@ -16,20 +16,22 @@ tags: [street art, Banksy, free things to do, things to do, Shoreditch]
 draft: false
 faq:
   - q: "Where can I see Banksy in London?"
-    a: "The Cannon Street rat in the City is one of the earliest survivors. Two 2017 Basquiat tributes sit in the same tunnel near the Barbican. The 2024 nine-day animal series left pieces across the city — the Camden gorilla original was removed and replaced with a replica."
+    a: "Ten works are still viewable as originals. The Cannon Street rat is one of the earliest survivors, two 2017 Basquiat tributes sit in one tunnel by the Barbican, and of the 2024 animal series only the Chelsea elephants, the Walthamstow pelicans and the Charlton rhino remain in place. The newest is Blind Patriotism, a statue installed at Waterloo Place in April 2026."
   - q: "Are Banksy works still in place?"
-    a: "Some. Many have been removed, painted over, stolen or covered with perspex. This guide marks which are gone — most published Banksy maps do not, which is why people travel to blank walls."
+    a: "Some. Six of the nine 2024 animals have been removed, stolen, dismantled or swapped for a replica, and the Royal Courts of Justice mural was scrubbed off within two days. This guide marks which are gone — most published Banksy maps do not, which is why people travel to blank walls."
   - q: "Where is the best street art in London?"
     a: "Shoreditch and Hackney Wick have the densest concentrations, and both change constantly. Leake Street tunnel under Waterloo is legal graffiti, repainted continuously, and the only place you can watch it being made."
   - q: "Is street art free to see?"
     a: "Yes, all of it. It is on the outside of buildings. Some tours charge for the commentary, but nothing here requires a ticket."
   - q: "What was Banksy's animal series?"
-    a: "Nine pieces appearing on nine consecutive days in August 2024 across London — a goat, elephants, monkeys, a wolf, pelicans, a cat, piranhas, a rhinoceros and finally a gorilla at London Zoo. Several were removed within days. The Bayswater stargazing children are often listed with them but came later, in December 2025."
+    a: "Nine pieces on nine consecutive days in August 2024 — a goat, elephants, monkeys, a wolf, pelicans, a big cat, piranhas, a rhinoceros and a gorilla at London Zoo. Six are gone. Only the Chelsea elephants, the Walthamstow pelicans and the Charlton rhino can still be seen in place, so it is not the walkable trail it is often written up as."
 ---
 
 Most Banksy maps of London send you to walls where the work no longer exists. Pieces get removed, painted over, stolen, sold with the wall attached, or covered in perspex that makes them impossible to photograph.
 
 This guide **says which are gone**, which is the single most useful thing a street art guide can do.
+
+**Ten Banksys are still viewable as originals in situ**: the Cannon Street rat, the two Basquiat tributes, the Bermondsey fishing boy, the Chelsea elephants, the Walthamstow pelicans, the Charlton rhino, the Finsbury Park tree, the Stargazing Children on New Oxford Street, and Blind Patriotism at Waterloo Place. Everything else you will read about has been removed, stolen, boarded over, scrubbed off or replaced with a replica.
 
 > 💡 **The Short Version:** The **Cannon Street rat** is one of the earliest survivors. Two **Basquiat tributes** sit in one tunnel by the Barbican. The **2024 animal series** left work across the city, though several pieces vanished within days. **Leake Street** is legal graffiti under Waterloo and repainted constantly. And **Shoreditch** is still the densest area.
 
@@ -43,11 +45,13 @@ This guide **says which are gone**, which is the single most useful thing a stre
 | **The City** | Cannon Street rat, two Basquiat tributes |
 | **Shoreditch & Brick Lane** | The densest concentration in London, changing constantly |
 | **Waterloo** | Leake Street tunnel — legal, and repainted continuously |
-| **Camden** | Banksy's gorilla (replica in place) |
 | **Chelsea** | Banksy's elephants |
+| **Walthamstow** | Banksy's pelicans, the best-preserved of the 2024 series |
+| **Charlton** | Banksy's rhinoceros |
 | **Bermondsey** | Banksy's fishing boy, on the Thames Path |
-| **Bayswater** | Banksy's stargazing children |
+| **Trafalgar Square** | Blind Patriotism, the 2026 statue |
 | **Hackney Wick** | Large-scale murals along the canal |
+| **Brixton** | The Bowie mural, protected and locally listed |
 
 ---
 
@@ -79,29 +83,58 @@ Two elephant heads stencilled reaching toward one another from **a pair of brick
 
 ---
 
-## The 2024 animal series
+## The 2024 animal series: what is left
 
-Nine pieces on nine consecutive days in August 2024. Several were removed almost immediately.
+Banksy put up nine animal works across London over nine days in August 2024. **Six are gone** — removed, stolen, dismantled or swapped for a copy. It is routinely written up as a walkable trail. It is not one.
 
-### The Gorilla, Camden
+| The work | Where | What is there now |
+| --- | --- | --- |
+| **Elephants** | Edith Grove, Chelsea | **Still there.** Defaced and since repaired |
+| **Pelicans** | Bonners Fish Bar, Walthamstow | **Still there**, and the best preserved of the nine |
+| **Rhinoceros** | Westmoor Street, Charlton | **Partly there.** The wall stencil survives; the car it was mounting has gone |
+| Goat | Kew Green | Cut out and removed, February 2025. Now in Colorado |
+| Monkeys | Brick Lane railway bridge | Removed by Transport for London, December 2024 |
+| Wolf | Rye Lane, Peckham | **Stolen** within about an hour. No arrests |
+| Big cat | Edgware Road, Cricklewood | Dismantled over billboard safety concerns |
+| Piranhas | Police sentry box, Ludgate Hill | In storage — **free display at the London Museum from 28 November 2026** |
+| Gorilla | London Zoo shutter, Regent's Park | Original removed. What is on the shutter is a replica |
 
-> ⚠️ **The original has been removed.** A replica is in place. The finale of the series showed a gorilla appearing to lift London Zoo's roller shutter to free a sea lion and some birds.
-
-### Rhinoceros, Charlton
-
-*Free · still in place at last check*
-
-Day eight — a large rhino stencilled as though mounting a parked car below it.
+**Go to Chelsea, Walthamstow and Charlton.** The other six are a wasted journey.
 
 ---
 
-## Later work
+## Later work, and what happened to it
 
-### Stargazing Children, Bayswater
+### Blind Patriotism, Waterloo Place
 
-*Free · December 2025*
+*Free · April 2026 · in place, behind barriers*
 
-Not part of the animal series, despite often being listed with it — this appeared in **December 2025**, more than a year after the nine days of August 2024.
+The newest Banksy in London and the easiest to see. A suited figure stepping down off his plinth, holding a flag that blows back and covers his own face. It went up overnight on **29 April 2026** near Trafalgar Square and he confirmed it three days later.
+
+**Westminster City Council has spent almost £60,000 on it** and is still deciding whether to make it permanent. It stands behind barriers, in the open, free to walk up to.
+
+### The Finsbury Park tree
+
+*Free · March 2024 · damaged but visible*
+
+Green paint sprayed across a wall behind a **pollarded cherry tree**, so the wall reads as the foliage the tree has lost. It was defaced with white paint within days; Islington Council fenced it, installed CCTV and sent patrols.
+
+Still there, still fenced, still damaged. It is on Hornsey Road in **Islington** — a lot of guides put it in Hackney.
+
+### Stargazing Children — two versions
+
+*Free · December 2025 · one visible, one boarded over*
+
+Two identical murals of children lying on their backs, one pointing upward, widely read as a comment on the housing crisis. Often listed with the animal series; they came more than a year later.
+
+* **New Oxford Street**, in front of Centre Point — behind transparent protection, and damaged, but visible.
+* **Queen's Mews, Bayswater** — **boarded over.** It physically survives and you cannot see it.
+
+### Royal Courts of Justice, the Strand
+
+> ⚠️ **Gone.** A judge striking a cowering protester, painted on the **Grade I listed** Royal Courts of Justice on 8 September 2025 and scrubbed off within two days because the building is heritage-protected. **Over £85,000 has been spent removing it** and a faded trace is still there behind screens.
+
+> **Girl with Balloon is not where people look for it, and has not been for twenty years.** The original stencil was under **Waterloo Bridge** in 2002, with the words "There is always hope" beside it, and the council painted over it. The famous self-shredding at auction in 2018 was a **framed canvas** — a different object entirely. There is nothing to see at Waterloo.
 
 ---
 
@@ -114,6 +147,10 @@ Banksy is a fraction of it, and the rest is more interesting.
 *Free · legal · always changing*
 
 A tunnel under Waterloo station where graffiti is **legal and repainted continuously**. The only place in London where you can reliably watch work being made rather than just look at it. There are bars and a bowling alley in the arches off it.
+
+> **The rules, which are published and almost never mentioned.** Painting here is not merely tolerated, it is actively encouraged, and you do not need permission. But discriminatory content and **political messaging** are both removed, as is unauthorised advertising. Keep noise down after 10pm. Organised events, filming and photoshoots need clearing in advance. And anything you paint may be painted over within days — the tunnel is managed by Platform4, and that is the deal.
+>
+> Do not come looking for a Banksy. He ran the Cans Festival here in 2008, but with constant repainting it should be assumed none of that work survives.
 
 ### Shoreditch and Brick Lane
 
@@ -132,6 +169,42 @@ Large-scale murals along the canal towpath, and a working artists' community tha
 *Free*
 
 The Stables Market walls and the canal bridges, plus the Amy Winehouse mural on Camden Road.
+
+---
+
+### Brixton
+
+*Free · the Bowie mural, Tunstall Road*
+
+James Cochran's **Aladdin Sane portrait** on the side of Morleys, painted in 2013 and now a permanent shrine — flowers appear against it every January.
+
+It is behind protective glass and has been **locally listed by Lambeth Council since 2016**, so it cannot be altered or demolished without planning permission. Almost uniquely for London street art, this one is not going anywhere.
+
+### Walthamstow
+
+*Free · Wood Street Walls*
+
+One of the real hubs of large-scale London street art, built up over a decade by the **Wood Street Walls** project, which has put dozens of community-backed murals on gable ends across E17. It also has the best-surviving Banksy in the city.
+
+### Dulwich
+
+*Free · the Dulwich Outdoor Gallery*
+
+The quiet alternative to east London, and much the strangest idea. International street artists were invited to reinterpret **Baroque Old Masters from the Dulwich Picture Gallery collection**, and the results are scattered through ordinary residential streets. Founded by the late Ingrid Beazley.
+
+### Croydon
+
+*Free · RISE Gallery and the Croydon Collection*
+
+Genuinely underrated and rarely walked by visitors. RISE Gallery, founded in 2014, brokered most of it — negotiating between artists and building owners to get work up. **The Croydon Collection** is the umbrella name for the borough's permanent murals.
+
+### Penge
+
+*Free · Penge High Street*
+
+Dozens of murals along and around the high street, coordinated locally over several years.
+
+> ⚠️ The **Penge Rooftop Gallery is set for demolition and can no longer be visited.** A number of guides still list it.
 
 ---
 
@@ -154,6 +227,7 @@ The Stables Market walls and the canal bridges, plus the Amy Winehouse mural on 
 * **Leake Street is the reliable one** because it is legal and constantly renewed — you will always find something.
 * **Shoreditch changes fastest.** A guided tour is worth it there specifically, because the commentary is about what is new.
 * **Respect residents.** Much of this is on the side of people's homes and businesses.
+* **The London Mural Festival runs every four years**, not annually — 2020, 2024, and next in 2028. There was no 2022 edition and there is no 2026 one, whatever some listings say.
 
 ---
 

@@ -65,7 +65,9 @@ for (const f of fs.readdirSync("data/consensus").filter((x) => x.endsWith(".json
       keptForRetry++;
       return true;
     }
-    if (clean === 0) {
+    // Never purge a hand-recorded single-venue review. See the note in
+    // audit-extraction.mjs: the byline heuristic used to score these ALL JUNK.
+    if (clean === 0 && names.length > 1) {
       console.log(`  purge ALL-JUNK        ${f.replace(".json", "")} / ${host}  (${names.length} names)`);
       purged++;
       return false;

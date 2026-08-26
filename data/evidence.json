@@ -46451,23 +46451,6 @@
       }
     ]
   },
-  "clubgascon": {
-    "name": "Club Gascon",
-    "topics": [
-      "french"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/best-french-restaurants-london/"
-      }
-    ]
-  },
   "frenchie": {
     "name": "Frenchie",
     "topics": [

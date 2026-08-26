@@ -1,6 +1,6 @@
 ---
-title: "The Best Live Music Venues in London: 17 Rooms"
-seoTitle: "Best Live Music Venues London 2026: 17 Rooms Compared"
+title: "The Best Live Music Venues in London: 21 Rooms"
+seoTitle: "Best Live Music Venues London 2026: 21 Rooms Compared"
 description: "A Victorian railway turning shed, a veterans' club with a gold tinsel curtain, and the sloping floor at Brixton that bands talk about — London's music rooms."
 heroImage: "../../assets/articles/best-live-music-venues-london/jazz-cafe-camden.jpg"
 heroImageAlt: "The Jazz Cafe in Camden, its white stucco frontage lettered London's Famous Jazz Venue"
@@ -16,7 +16,7 @@ faq:
   - q: "Where do I see live jazz in London?"
     a: "Ronnie Scott's in Soho is the institution, trading since 1959. The Jazz Cafe in Camden covers a far wider range than the name suggests, and The Bull's Head in Barnes has run jazz since 1959 too — the same year as Ronnie's."
   - q: "Which London music venues are historic buildings?"
-    a: "The Roundhouse is a circular Victorian railway turning shed. KOKO is a gilded Victorian theatre reopened after a fire. Union Chapel in Islington is a working church. MOTH Club in Hackney is a veterans' social club with a gold tinsel stage curtain."
+    a: "The Roundhouse is a circular Victorian railway turning shed. KOKO is a gilded Victorian theatre reopened after a fire. Union Chapel in Islington is a Grade I listed working church. MOTH Club in Hackney is a veterans' social club with a gold tinsel stage curtain. And the 100 Club on Oxford Street has had live music in it since 1942."
   - q: "How do I find gigs in London?"
     a: "Most of these venues publish their own listings and sell direct, which is cheaper than resale. Cafe OTO, the Shacklewell Arms and MOTH Club all run several nights a week and rarely sell out far ahead."
   - q: "What is the biggest music venue in London?"
@@ -37,10 +37,12 @@ This guide covers the rooms rather than the listings, arranged by size, because 
 | If you are near… | Where to go |
 | --- | --- |
 | **Camden & Chalk Farm** | The Roundhouse, KOKO, Jazz Cafe |
-| **Soho** | Ronnie Scott's, Below Stone Nest |
+| **Soho & Oxford Street** | Ronnie Scott's, the 100 Club, Below Stone Nest |
+| **Shoreditch** | Village Underground |
+| **Wood Green** | Alexandra Palace |
 | **Islington** | Union Chapel |
 | **The City** | Barbican Hall |
-| **Dalston & Hackney** | Cafe OTO, Shacklewell Arms, MOTH Club |
+| **Dalston & Hackney** | Cafe OTO, EartH, Shacklewell Arms, MOTH Club |
 | **Brixton** | O2 Academy Brixton |
 | **Greenwich** | The O2 |
 | **Covent Garden** | Stereo |
@@ -55,7 +57,11 @@ This guide covers the rooms rather than the listings, arranged by size, because 
 
 *around 5,000 · Brixton*
 
-**The floor slopes down towards the stage**, which is why everyone can see and why bands talk about it the way they do. The best big room in London by a distance.
+**The floor slopes down towards the stage**, which is why everyone can see and why bands talk about it the way they do. A **Grade II\* listed art deco former cinema**, and the best big room in London by a distance.
+
+It is worth knowing what happened here. The venue lost its licence after a fatal crush at a show in December 2022 in which two people died. Lambeth ruled in September 2023 that it could reopen, but only once **77 new safety conditions** were met — reinforced doors, a rebuilt crowd management system, new ticketing, a centralised control room and new security management. The council's own decision described it as set to become **among the most highly regulated licensed venues in the country**.
+
+It ran test events at half capacity in April 2024 and has been trading normally since, and is currently booking well into 2027.
 
 ### The O2, Greenwich
 
@@ -68,6 +74,14 @@ The largest indoor venue in the country. Arena shows only, and **Up at The O2** 
 *around 5,000*
 
 An art deco former cinema, and the other room in Brixton's class.
+
+### Alexandra Palace, Wood Green
+
+*up to around 10,400 · N22*
+
+A **Victorian palace of 1873** on a hill with one of the best views in north London, and its Great Hall takes upwards of ten thousand for a concert. Also a Victorian theatre, an ice rink and the World Darts Championship, which is a sentence that only works in London.
+
+The hill it stands on is free, and the view over the city from the terrace is worth the trip on its own.
 
 ### Barbican Hall, City of London
 
@@ -91,17 +105,45 @@ A **circular Victorian railway turning shed** turned concert hall, and a charity
 
 A **gilded Victorian theatre** with tiered balconies, reopened after a fire and a long restoration. One of the most beautiful rooms in London to see a band in.
 
+### The 100 Club, Oxford Street
+
+*around 350 · since 1942*
+
+A basement under Oxford Street that has had **live music in it continuously since 1942**, when it opened as the Feldman Jazz Club. It has traded as the 100 Club since 1964 and claims to be **the oldest independent music venue in the world**.
+
+It hosted the **1976 Punk Festival** — the Sex Pistols, The Clash and Siouxsie and the Banshees on the same small stage — and Oasis, The Rolling Stones and Metallica have all played it since. Tickets are usually **£10–£25**, which for the room's history is absurd.
+
+The stage is at floor level with pillars in the way. That is part of it.
+
 ### Union Chapel, Islington
 
-*around 900*
+*around 900 · Grade I listed*
 
-A **working church** that runs gigs between services, with acoustics nothing purpose-built can match. Pews rather than seats.
+A **working Congregational church**, built 1874–77, that runs around 250 gigs a year between Sunday services. The acoustics are what nothing purpose-built can match.
+
+Three things nobody tells you before you go. **The seating is unreserved**, first-come-first-served on the original wooden pews, so arrive early and expect a queue. **There is a bar**, on the first floor — but alcohol has to stay in the bar area and cannot come into the chapel itself, though soft drinks and snacks can. And the building runs the **Margins Project**, a homelessness charity with a twice-weekly drop-in, showers, laundry and a winter night shelter, funded partly by the gigs.
+
+It is fully accessible by ramp, with a platform lift up to the bar, and it houses an 1877 Henry Willis organ that still runs on its original hydraulic blowing system.
+
+### Village Underground, Shoreditch
+
+*Holywell Lane*
+
+A Victorian warehouse with **four disused Jubilee line tube carriages on the roof**, converted into studios. The main space below is one of Shoreditch's better rooms and the rooftop has recently opened to the public.
+
+### EartH, Dalston
+
+*1,200 standing · 680 seated*
+
+The former **Savoy art deco cinema**, reopened in 2018 as two venues in one building: EartH Hall, a stripped-back standing room, and EartH Theatre, 680 seats in the original tiered auditorium with the decay left visible.
 
 ### MOTH Club, Hackney
 
 *around 200*
 
 A **Memorable Order of Tin Hats veterans' club** with a gold-tinsel stage curtain, still run as a members' social club during the day. Unlike anywhere else in London.
+
+> ⚠️ **Go while you can.** MOTH Club is fighting two planning applications for flats next door and has been since 2025. Hackney Council refused the first in March 2026, citing the developer's failure to show the flats would not restrict the club — **a second application on the adjoining plot is still undecided**. The petition passed 30,000 signatures and the venue's own programmer says they are not out of the woods.
 
 ---
 
@@ -151,7 +193,7 @@ Where London's music actually happens most nights.
 
 *around 150*
 
-**Time Out's own pick as London's most consistently committed live venue** — free jazz, noise and experimental music, most nights of the week, in a room that treats an audience as participants.
+**Time Out's own pick as London's most consistently committed live venue** — free jazz, noise and experimental music, most nights of the week, in a room that treats an audience as participants. Usually **£8 to £20**, with advance and member discounts and some nights free to members. It runs its own record label and shop.
 
 ### Shacklewell Arms, Dalston
 
@@ -184,7 +226,8 @@ Live music, cocktails and dining combined right on the Piazza — the polished, 
 Live music in London does not have to cost £40 and a booking fee.
 
 * **The Windmill**, Brixton — the room where Black Country, New Road, Squid and most of the south London scene played first. Entry is often a few pounds, and on a good night you are watching a band before anyone else has heard of them.
-* **The Lexington**, Angel — above a pub, one of the most respected small rooms on the circuit, and priced accordingly.
+* **The Lexington**, Angel — a **200-capacity** indie gig room above a bourbon bar on Pentonville Road, open since 2008 and one of the most respected small rooms on the circuit.
+* **The Shacklewell Arms**, Dalston — several of its club nights are **free entry**, in a proper back-room venue with a heated courtyard.
 * **Free jazz.** The Vortex, Ronnie Scott's late show and several Soho pubs run free or near-free sessions. **The Sunday jam at Ronnie's** is the cheapest way into that room by a distance.
 * **Church and lunchtime concerts.** St Martin-in-the-Fields, St James's Piccadilly and the Southbank Centre all run free or pay-what-you-can lunchtime recitals, usually by conservatoire students who are very good.
 * **The Southbank Centre foyers** have free live music most days — a real programme, not background.
@@ -198,7 +241,8 @@ Live music in London does not have to cost £40 and a booking fee.
 
 * **Buy direct from the venue.** Every room here sells its own tickets, and resale prices are frequently multiples of face value.
 * **Brixton Academy's sloping floor** means the back is genuinely fine. Do not pay extra to be near the front.
-* **Union Chapel is unheated in winter** and the seating is pews. Dress accordingly.
+* **Union Chapel seating is unreserved.** Original wooden pews, first come first served, so arrive early. It is a Victorian church, so dress for the temperature.
+* **The grassroots circuit is genuinely under pressure.** Thirty UK venues closed permanently between mid-2024 and mid-2025, more than half made no profit, and around 200 are on the Music Venue Trust's red alert list. Buying direct from a small venue is not a small gesture.
 * **The late set at Ronnie Scott's** is cheaper and the room is better.
 * **Cafe OTO and MOTH Club** rarely sell out weeks ahead — you can decide on the day.
 * **Night Tube runs Friday and Saturday** on the Victoria line for Brixton and the Northern for Camden.
