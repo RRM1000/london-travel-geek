@@ -126,6 +126,13 @@ const MAPS = [
   {
     key: "cocktail-bars-london",
     list: "cocktails",
+    // Tayer moved heading from Shoreditch to Old Street when its closure was
+    // noted, and Three Sheets now names both sites because the ranked venue is
+    // the Soho one. Neither matches the sheet's area value any more.
+    anchors: {
+      "tayer-elementary": "#tayēr--elementary-old-street",
+      "three-sheets": "#three-sheets-soho-and-dalston",
+    },
     streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
     tableOnly: ["nightjar"],
     article: "src/content/articles/best-cocktail-bars-london.md",

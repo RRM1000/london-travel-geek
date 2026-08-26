@@ -2057,7 +2057,7 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.525032,
       longitude: -0.091296,
       type: "editorial",
-      articleAnchor: "#tayēr--elementary-shoreditch",
+      articleAnchor: "#tayēr--elementary-old-street",
     },
     {
       name: "Satan's Whiskers",
@@ -2084,7 +2084,7 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.544096,
       longitude: -0.076451,
       type: "editorial",
-      articleAnchor: "#three-sheets-dalston",
+      articleAnchor: "#three-sheets-soho-and-dalston",
     },
     {
       name: "Kwãnt",
