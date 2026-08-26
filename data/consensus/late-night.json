@@ -99,13 +99,6 @@
         "Solaya London",
         "Posts"
       ]
-    },
-    {
-      "name": "Quintessentially (late-night)",
-      "url": "https://quintessentially.com/noted/best-late-night-restaurants-london",
-      "scope": "late-night",
-      "names": [],
-      "error": "HTTP 403"
     }
   ]
 }

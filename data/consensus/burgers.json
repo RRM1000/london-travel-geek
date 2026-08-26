@@ -51,19 +51,9 @@
       ]
     },
     {
-      "name": "Thatsup London",
-      "url": "https://thatsup.co.uk/london/guide/the-best-burgers-in-london/",
-      "error": "HTTP 403"
-    },
-    {
-      "name": "Visit London",
-      "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
-      "error": "HTTP 403"
-    },
-    {
       "name": "Wrap Your Lips Around This",
       "url": "https://wrapyourlipsaroundthis.com/best-burger-in-london/",
-      "error": "HTTP 403"
+      "error": "no headings matched"
     },
     {
       "name": "National Burger Awards 2026 (Time Out)",
@@ -81,7 +71,11 @@
         "Time Out Market",
         "Time Out Offers",
         "Time Out Worldwide",
-        "Movies"
+        "Movies",
+        "The Honest",
+        "Burger & Beyond",
+        "Meat Stack",
+        "for the best of the city"
       ]
     },
     {
@@ -100,7 +94,8 @@
         "Time Out Market",
         "Time Out Offers",
         "Time Out Worldwide",
-        "Movies"
+        "Movies",
+        "Dumbo"
       ]
     },
     {

@@ -116,6 +116,15 @@ const BRANCHES = [
   ["Mercato Metropolitano", "Elephant & Castle", "Elephant and Castle", "Southwark", "", "Elephant & Castle", "", "FALSE", "mercatometropolitano.com - 17,000 sq ft, the original"],
   ["Mercato Metropolitano", "Mayfair", "Mayfair", "Westminster", "St Mark's Church, North Audley St", "Bond Street", "mayfair-area-guide", "FALSE", "mercatometropolitano.com - Grade I listed church"],
   ["Mercato Metropolitano", "Wood Wharf", "Canary Wharf", "Tower Hamlets", "", "Canary Wharf", "canary-wharf-area-guide", "FALSE", "mercatometropolitano.com - open since May 2022"],
+
+  // --- SUSHISAMBA: 2 London sites, both named ---
+  // The parent row in Restaurants v2 describes the Heron Tower site, so the
+  // City of London entry below is deduped away on export (its Branch label is
+  // just the parent's own neighbourhood). It is listed anyway because the
+  // brand's zone/district are aggregated from THIS tab - drop it and the
+  // aggregate would claim SUSHISAMBA is a Covent Garden-only restaurant.
+  ["SUSHISAMBA", "City of London", "City of London", "City of London", "Heron Tower, 110 Bishopsgate EC2N 4AY", "Liverpool Street", "city-of-london-area-guide", "FALSE", "sushisamba.com/locations - 38th and 39th floors"],
+  ["SUSHISAMBA", "Covent Garden", "Covent Garden", "Westminster", "Opera Terrace, Market Building WC2E 8RD", "Covent Garden", "covent-garden-area-guide", "FALSE", "sushisamba.com/locations; Hot Dinners - opened 1 Nov 2018 on the Opera Terrace"],
 ];
 
 const n = await writeTab("Branches", HEADER, BRANCHES);

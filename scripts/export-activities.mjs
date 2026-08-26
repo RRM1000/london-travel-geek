@@ -17,9 +17,15 @@ const PUBLIC = {
   Slug: "slug", Name: "name", "Activity Type": "type", Style: "style",
   "Venue Context": "context", "Chain Type": "chainType",
   Neighbourhood: "area", Borough: "borough", "Area Guide": "guide",
+  // "prose" means the area guide writes about this venue itself, so
+  // AreaActivities skips it rather than printing it a second time. Public
+  // because the component needs it; see the column comment in write-activities.
+  "Guide Placement": "guidePlacement",
   Zone: "zone", District: "district", Address: "address", Postcode: "postcode",
   Lat: "lat", Lng: "lng", "Nearest Station": "station", "Walk Min": "walkMin",
-  "Age Policy": "agePolicy", Seasonal: "seasonal", "Typical Duration": "duration",
+  "Age Policy": "agePolicy", Seasonal: "seasonal", "Market Days": "marketDays",
+  "Food Offer": "foodOffer",
+  "Typical Duration": "duration",
   "Group Size": "groupSize", "Price Per Person": "price",
   "Booking Required": "booking", "Indoor / Outdoor": "indoorOutdoor",
   "Step-Free": "stepFree", "Serves Food": "servesFood", "Serves Alcohol": "servesAlcohol",

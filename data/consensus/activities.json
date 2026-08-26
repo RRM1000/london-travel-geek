@@ -4,13 +4,6 @@
   "recorded": "2026-08-18",
   "sources": [
     {
-      "name": "VisitLondon (activity bars)",
-      "url": "https://www.visitlondon.com/things-to-do/experiences/activity-bars",
-      "scope": "activities",
-      "names": [],
-      "error": "HTTP 403"
-    },
-    {
       "name": "CK Travels (32 games bars and arcades)",
       "url": "https://www.cktravels.com/london-games-bars-arcades/",
       "scope": "activities",
@@ -72,13 +65,6 @@
       ]
     },
     {
-      "name": "Londonist (activity bars)",
-      "url": "https://londonist.com/london/best-of-london/activity-bars-in-london",
-      "scope": "activities",
-      "names": [],
-      "error": "HTTP 403"
-    },
-    {
       "name": "The Nudge (top activity bars)",
       "url": "https://thenudge.com/london-top-activity-bars/",
       "scope": "activities",
@@ -134,25 +120,6 @@
       ]
     },
     {
-      "name": "Flavour Search (games bars)",
-      "url": "https://flavoursearch.com/games-bars-and-activity-venues-in-london",
-      "scope": "activities",
-      "names": [
-        "Clays Soho Private Room",
-        "Crazy Boules Venue Hire",
-        "Sixes Social Cricket London Bridge Full Venue Hire",
-        "Electric Shuffle London Bridge The Lonsdale",
-        "Lucky Voice Waterloo Private Karaoke Room",
-        "Boulebar South Bank Venue Hire",
-        "Puttshack Bank Full Venue Hire",
-        "Fairgame City The Fun House",
-        "F1 Arcade St Paul’s Full Venue Hire",
-        "Boom Battle Bar Aldgate East Whole Venue Hire",
-        "Lane 7 London Victoria",
-        "Free Venue Finding"
-      ]
-    },
-    {
       "name": "DesignMyNight (Canary Wharf)",
       "url": "https://www.designmynight.com/london/fun-things-to-do-in-canary-wharf",
       "scope": "activities-canary-wharf",
@@ -164,13 +131,6 @@
         "Rewards",
         "Jobs"
       ]
-    },
-    {
-      "name": "VisitLondon (Canary Wharf)",
-      "url": "https://www.visitlondon.com/things-to-do/london-areas/canary-wharf/things-to-do-in-canary-wharf",
-      "scope": "activities-canary-wharf",
-      "names": [],
-      "error": "HTTP 403"
     },
     {
       "name": "Hues of Delahaye (35 things Canary Wharf)",

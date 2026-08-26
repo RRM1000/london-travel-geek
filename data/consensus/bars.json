@@ -368,13 +368,6 @@
       ]
     },
     {
-      "name": "VisitLondon (101 best pubs)",
-      "url": "https://www.visitlondon.com/things-to-do/food-and-drink/pub-and-bar/101-best-pubs-in-london",
-      "scope": "bars-pubs",
-      "names": [],
-      "error": "HTTP 403"
-    },
-    {
       "name": "DesignMyNight (best pubs)",
       "url": "https://www.designmynight.com/london/pubs/best-london-pubs",
       "scope": "bars-pubs",

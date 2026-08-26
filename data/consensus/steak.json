@@ -104,21 +104,6 @@
       ]
     },
     {
-      "name": "Visit London",
-      "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/steak-and-grill",
-      "error": "HTTP 403"
-    },
-    {
-      "name": "Thatsup London",
-      "url": "https://thatsup.co.uk/london/guide/the-best-steakhouses-in-london/",
-      "error": "HTTP 403"
-    },
-    {
-      "name": "OpenTable steakhouses",
-      "url": "https://www.opentable.co.uk/cuisine/best-steakhouse-restaurants-london-england",
-      "error": "no headings matched"
-    },
-    {
       "name": "World's 101 Best Steak Restaurants 2026 (Time Out)",
       "url": "https://www.timeout.com/london/news/9-london-steak-restaurants-have-been-named-in-the-101-best-in-the-world-for-2026-040126",
       "scope": "awards",
@@ -143,7 +128,9 @@
         "Time Out Market",
         "Time Out Offers",
         "Time Out Worldwide",
-        "Movies"
+        "Movies",
+        "Hawksmoor in St Pancras",
+        "Guinea Grill"
       ]
     },
     {
@@ -162,6 +149,68 @@
         "The Beefsteaks",
         "Blacklock Soho"
       ]
+    },
+    {
+      "name": "Walk Eat London",
+      "url": "https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/",
+      "scope": "steak",
+      "names": [
+        "Hawksmoor Seven Dials",
+        "Sagardi",
+        "Goodman",
+        "Flat Iron",
+        "CUT at 45 Park Lane",
+        "M Restaurant",
+        "Gaucho",
+        "Smith & Wollensky",
+        "Zelman Meats",
+        "The Guinea Grill"
+      ]
+    },
+    {
+      "name": "The Guinea Grill (own site, verified 2026-08-25)",
+      "url": "https://www.theguinea.co.uk/",
+      "scope": "steak",
+      "names": [
+        "The Guinea Grill"
+      ],
+      "quotes": {
+        "The Guinea Grill": "dry-aged grass-fed English beef from Godfreys of Finsbury Park, grilled since 1952"
+      }
+    },
+    {
+      "name": "Goodman (own site, verified 2026-08-25)",
+      "url": "https://www.goodmanrestaurants.com/",
+      "scope": "steak",
+      "names": [
+        "Goodman"
+      ],
+      "quotes": {
+        "Goodman": "no. 54 on the World's 101 Best Steak Restaurants; Canary Wharf closed June 2025"
+      }
+    },
+    {
+      "name": "Lutyens Grill at The Ned (own site, verified 2026-08-25)",
+      "url": "https://www.thened.com/london/restaurants/lutyens-grill",
+      "scope": "steak",
+      "names": [
+        "Lutyens Grill"
+      ],
+      "quotes": {
+        "Lutyens Grill": "44-day-aged rare-breed prime rib carved tableside from the trolley"
+      }
+    },
+    {
+      "name": "Sagardi (own site, verified 2026-08-25)",
+      "url": "http://sagardi.co.uk/",
+      "scope": "steak",
+      "names": [
+        "Sagardi"
+      ],
+      "quotes": {
+        "Sagardi": "txuleton rib steaks from old free-range cows over a centrepiece charcoal Basque grill"
+      }
     }
-  ]
+  ],
+  "recorded": "2026-08-25"
 }

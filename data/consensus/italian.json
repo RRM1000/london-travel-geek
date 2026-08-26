@@ -1,6 +1,6 @@
 {
   "cuisine": "italian",
-  "note": "Each source is one published list. 'names' extracted by scripts/consensus.mjs --fetch, or filled by hand when a site blocks scripted access. Hand-filled entries are marked extractedBy: manual so the provenance stays honest. EXPANDED 2026-08-17: added awards (Italian Awards, Michelin Bib Gourmand, Gambero Rosso) and new-openings sources, matching the treatment British got after Fallow was missed. ADDITIVE ONLY - no existing source or extracted name was removed.",
+  "note": "Each source is one published list. 'names' extracted by scripts/consensus.mjs --fetch, or filled by hand when a site blocks scripted access. Hand-filled entries are marked extractedBy: manual so the provenance stays honest. EXPANDED 2026-08-17: added awards (Italian Awards, Michelin Bib Gourmand, Gambero Rosso) and new-openings sources, matching the treatment British got after Fallow was missed. ADDITIVE ONLY - no existing source or extracted name was removed. CLEANED 2026-08-25: seven all-cuisine lists (Bib Gourmand round-ups, Forbes and Time Out new-openings) moved to general.json - they were injecting French and British venues into Italian evidence.",
   "sources": [
     {
       "name": "Time Out",
@@ -100,41 +100,6 @@
         "MICHELIN Guide Plus"
       ],
       "note": "JS-rendered - needs manual extraction, plain fetch returns template placeholders"
-    },
-    {
-      "name": "Hot Dinners (Hot Right Now)",
-      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/hot-right-now-london-s-hottest-restaurants",
-      "names": [
-        "Hon's BBQ",
-        "Rosina",
-        "Cremer",
-        "Kismet",
-        "Johnny Boy's",
-        "RH London",
-        "Vesper",
-        "Chez Rose",
-        "Cafe Clement",
-        "Zylia",
-        "Tavern",
-        "Cantinera",
-        "Czer",
-        "Ornella",
-        "Bar Etna",
-        "The Victory",
-        "The Golden Tooth",
-        "The Latimer",
-        "Oudh 1722",
-        "Kawan",
-        "Teal by Sally Abé",
-        "Weezie's",
-        "Impala",
-        "Simpson's in The Strand",
-        "Tiella",
-        "Dover Street Counter",
-        "Get our newsletter",
-        "New and coming soon",
-        "Offers"
-      ]
     },
     {
       "name": "Eater London",
@@ -317,27 +282,6 @@
       ]
     },
     {
-      "name": "Michelin Bib Gourmand (The Nudge)",
-      "url": "https://thenudge.com/bib-gourmands-in-london/",
-      "scope": "awards",
-      "names": [
-        "The Details"
-      ]
-    },
-    {
-      "name": "Michelin new stars London 2026",
-      "url": "https://guide.michelin.com/us/en/article/travel/new-michelin-star-restaurants-london",
-      "scope": "awards",
-      "names": [
-        "London by the MICHELIN Guide",
-        "Fresh Challenges for Familiar Faces",
-        "East and Southeast Asian Cuisines Continue to Grow",
-        "New MICHELIN-Star Restaurants in London",
-        "Keep Exploring",
-        "MICHELIN Guide Plus"
-      ]
-    },
-    {
       "name": "Gambero Rosso Top Italian Restaurants",
       "url": "https://www.gamberorossointernational.com/restaurants/",
       "scope": "awards",
@@ -359,175 +303,336 @@
         "Tasting Menu",
         "Wine List",
         "Cocktails List",
-        "Gift Card",
         "Gallery",
         "The Chef",
-        "The Maitre D'",
-        "Events"
+        "The Maitre D'"
       ]
     },
     {
-      "name": "Hot Dinners new openings 2026",
-      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-new-london-restaurants-openings-2026",
-      "scope": "general",
+      "name": "The Handbook (pasta)",
+      "url": "https://www.thehandbook.com/best-pasta-restaurants-london/",
+      "scope": "italian",
       "names": [
-        "Cantinera",
-        "Get our newsletter",
-        "New and coming soon",
-        "Offers"
+        "Alba",
+        "Padella",
+        "Luca",
+        "Bancone",
+        "Il Gattopardo",
+        "Tortello",
+        "Lina Stores",
+        "Sale E Pepe",
+        "Emilia’s",
+        "Jacuzzi",
+        "Campania",
+        "The Italian Greyhound",
+        "Pastificio Al Dente",
+        "Officina 00",
+        "Manteca",
+        "Ida",
+        "Noci",
+        "Flour and Grape",
+        "Eataly",
+        "Locanda Locatelli",
+        "Ciao Bella",
+        "Cafe Murano"
       ]
     },
     {
-      "name": "Time Out new openings Jan 2026",
-      "url": "https://www.timeout.com/london/news/best-new-london-restaurants-january-2026-122925",
-      "scope": "general",
+      "name": "Balance Journal",
+      "url": "https://balancejournal.co/food-drink/best-italian-restaurants-london",
+      "scope": "italian",
       "names": [
-        "The Italian hotspot",
-        "The world-beating bakery",
-        "The tasty Trullo offshoot",
-        "Burro",
-        "The petite noodle parlour",
-        "The glam Georgian gaff",
-        "The pricey Japanese restaurant",
-        "The cosy cocktail den",
-        "The Sri Lankan failsafe"
+        "Murano",
+        "Trullo",
+        "Padella",
+        "Bocca di Lupo",
+        "Bancone",
+        "Casa Tua",
+        "Flour and Grape",
+        "Luca",
+        "Campania and Jones",
+        "Cacio and Pepe",
+        "Luce e Limoni",
+        "Sale e Pepe",
+        "Mezzogiorno",
+        "Manteca",
+        "Legare"
       ]
     },
     {
-      "name": "OpenTable best new London",
-      "url": "https://www.opentable.co.uk/lists/best-new-restaurants-london",
-      "scope": "general",
-      "names": [],
-      "error": "HTTP 403"
-    },
-    {
-      "name": "Forbes new London restaurants 2026",
-      "url": "https://www.forbes.com/sites/joanneshurvell/2026/08/09/7-new-london-restaurants-to-try-summer-2026/",
-      "scope": "general",
+      "name": "Time Out (best Italian 2025)",
+      "url": "https://www.timeout.com/london/news/the-best-italian-restaurant-in-london-in-2025-according-to-time-out-061625",
+      "scope": "italian",
       "names": [
-        "Miko Mei Fair",
-        "Miokuru",
-        "Oudh 1722",
-        "Latine",
-        "Langosteria",
-        "Cafe Clement",
-        "MA/NA",
-        "Breaking News",
-        "White House Watch",
-        "Forbes 400",
-        "AI",
-        "Gaming",
-        "Big Data",
-        "Cloud",
-        "Cloud 100",
-        "Healthcare",
-        "Science",
-        "Social Media",
-        "Under 30",
-        "Careers",
-        "Education",
-        "ForbesBLK",
-        "ForbesWomen",
-        "Fintech",
-        "Investing",
-        "Markets",
-        "Retirement",
-        "Taxes",
-        "News",
-        "Energy",
-        "Law",
-        "Manufacturing",
-        "Media",
-        "Policy",
-        "Retail",
-        "SportsMoney",
-        "Entrepreneurs",
-        "Arts",
-        "Cars & Bikes",
-        "Dining",
-        "ForbesLife",
-        "Spirits",
-        "Vices",
-        "Watches",
-        "30 Under 30",
-        "50 Over 50",
-        "Top Colleges",
-        "Frase by Forbes",
-        "Forbes Video",
-        "Forbes 101",
-        "Forbes Wine Club",
-        "Report a Security Issue",
-        "Site Feedback",
-        "Careers at Forbes",
-        "Tips",
-        "Privacy Statement",
-        "Terms of Service",
-        "AdChoices",
-        "Digital Terms of Sale",
-        "Jobs At Forbes",
-        "Reprints & Permissions",
-        "Forbes Press Room",
-        "Advertise"
+        "Investor relations",
+        "Work for Time Out",
+        "Privacy notice",
+        "Do not sell my information",
+        "Accessibility statement",
+        "Get Listed",
+        "Time Out Offers FAQ",
+        "Advertising",
+        "Time Out Market",
+        "Time Out Offers",
+        "Time Out Worldwide",
+        "Movies",
+        "Trullo"
       ]
     },
     {
-      "name": "DesignMyNight Bib Gourmand",
-      "url": "https://www.designmynight.com/london/londons-bib-gourmand-restaurants",
-      "scope": "awards",
+      "name": "The Infatuation (Big Mamma Power Rankings)",
+      "url": "https://www.theinfatuation.com/london/guides/big-mamma-power-rankings",
+      "scope": "italian",
       "names": [
-        "Bib Gourmand London: Our Guide To The Best Restaurants",
-        "Location: 213 Blenheim Grove",
-        "Price:",
-        "Cuisine: Thai",
-        "Location: 35 Stoke Newington Church Street",
-        "Cuisine: Korean",
-        "Location: 310 Portobello Road",
-        "Cuisine: Italian",
-        "Location: Unit 7",
-        "Location: 39 William IV Street",
-        "Location: 11 White's Row",
-        "Cuisine: Indian",
-        "Location: 45 All Saints Road",
-        "Cuisine: modern British pub food",
-        "Location: 34 Drayton Park",
-        "Cuisine: British",
-        "Location: 7 Moxon Street",
-        "Cuisine: South African",
-        "Location: 13 Stoney Street",
-        "Cuisine: Taiwan",
-        "Location: 57 Newington Green",
-        "Cuisine: French",
-        "Location: 21 Halliford Street",
-        "Cuisine: European small plates",
-        "Location: 78 Lower Clapton Road",
-        "Cuisine: Malaysian",
-        "Location: 112 Westbourne Grove",
-        "Cuisine: Southern European",
-        "Location: 89 Shacklewell Lane",
-        "Cuisine: Middle Eastern",
-        "Location: Arch 208",
-        "Cuisine: West African",
-        "Location: 6 Park Street",
-        "Location: 41-43 Atlantic Road",
-        "Locations: 1 Phipp Street",
-        "Location: 58 Brewer Street",
-        "Location: 34 Rupert Street",
-        "Location: 49-51 Curtain Road",
-        "Location: 149 Merton Road",
-        "Location: 4 Bedale Street",
-        "Cuisine: Greek",
-        "Location: 84-86 Rosebery Avenue",
-        "Location: 72 Highbury Park",
-        "Location: 1 Bedale St",
-        "Location: 1 Mare Street",
-        "Location: 181 Rye Lane",
-        "Cuisine: Vietnamese",
-        "Location: 35-37 Greenhill Rents",
-        "Rewards",
-        "Jobs",
-        "Media",
-        "Cookie Policy"
+        "Ave Mario",
+        "Circolo Popolare"
+      ],
+      "quotes": {
+        "Ave Mario": "stripy humbug walls and bright red seats - the third Big Mamma room in London",
+        "Circolo Popolare": "like an Italian film set, with lemon meringue pies the size of a shark fin"
+      }
+    },
+    {
+      "name": "Hot Dinners (Test Drive: Circolo Popolare)",
+      "url": "https://www.hot-dinners.com/Gastroblog/Test-drive/circolo-poplare-big-mamma-london-restaurant-review-italian-fitzrovia-oxford-street",
+      "scope": "italian",
+      "names": [
+        "Circolo Popolare"
+      ],
+      "quotes": {
+        "Circolo Popolare": "Big Mamma are onto a huge hit - amazing design, friendly staff, really good food despite doing things to excess"
+      }
+    },
+    {
+      "name": "Berkeley Square Barbarian (ICCO review)",
+      "url": "https://www.berkeleysquarebarbarian.com/2024/10/11/icco-pizza-london/",
+      "scope": "italian",
+      "names": [
+        "ICCO"
+      ],
+      "quotes": {
+        "ICCO": "cheap does not mean poor quality - whole 12-inch pizzas from £6.50, serving Goodge Street since 1999"
+      }
+    },
+    {
+      "name": "GourmandGunno (Forza Wine review)",
+      "url": "http://www.gourmandgunno.com/blog/2026/5/11/forza-wine-strong-showing-in-the-sun",
+      "scope": "italian",
+      "names": [
+        "Forza Wine"
+      ],
+      "quotes": {
+        "Forza Wine": "after seven years in the game Forza knows what it is doing, and it does it well"
+      }
+    },
+    {
+      "name": "Travel Gourmet (Al Boccon di'vino review)",
+      "url": "https://travel-gourmet.com/2012/05/06/restaurant-review-al-boccon-divino-richmond/",
+      "scope": "italian",
+      "names": [
+        "Al Boccon di'vino"
+      ],
+      "quotes": {
+        "Al Boccon di'vino": "a no-choice multi-course Venetian wedding feast over three or four hours"
+      }
+    },
+    {
+      "name": "Time Out (Forza Wine, National Theatre)",
+      "url": "https://www.timeout.com/london/restaurants/forza-wine-at-the-national-theatre",
+      "scope": "italian",
+      "names": [
+        "Time Out says",
+        "Restaurants | Italian",
+        "South Bank",
+        "Investor relations",
+        "Work for Time Out",
+        "Privacy notice",
+        "Do not sell my information",
+        "Accessibility statement",
+        "Get Listed",
+        "Time Out Offers FAQ",
+        "Advertising",
+        "Time Out Market",
+        "Time Out Offers",
+        "Time Out Worldwide",
+        "Movies",
+        "The vibe",
+        "The food",
+        "The drink",
+        "Time Out tip",
+        "Forza Wine"
       ]
+    },
+    {
+      "name": "The Good Food Guide (Forza Wine)",
+      "url": "https://www.thegoodfoodguide.co.uk/restaurant/forza-wine-at-the-national-theatre/id/59592",
+      "scope": "italian",
+      "names": [
+        "It’s a family affair",
+        "Like father",
+        "The legal bit",
+        "Essential Cookies",
+        "Analytical Cookies",
+        "Forza Wine"
+      ]
+    },
+    {
+      "name": "Harden's (Icco Pizza)",
+      "url": "https://www.hardens.com/az/restaurants/london/w1/icco-pizza.htm",
+      "scope": "italian",
+      "names": [
+        "Harden's 100",
+        "Hot Newcomers",
+        "IOs / Android Apps",
+        "Corporate Gifts",
+        "Kensington",
+        "Canary Wharf",
+        "Chelsea",
+        "Fulham",
+        "City",
+        "Southbank",
+        "Islington",
+        "+ Over 3000 entries",
+        "+ Constantly updated",
+        "+ Club access",
+        "+ Restaurant diary",
+        "+ Works offline",
+        "Monday",
+        "7 am‑11 pm",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "7 am‑11:30 pm",
+        "Friday",
+        "7 am‑1 am",
+        "Saturday",
+        "8 am‑11:30 pm",
+        "Sunday",
+        "9 am‑11 pm",
+        "ICCO"
+      ]
+    },
+    {
+      "name": "Andy Hayler (Al Boccon di'vino)",
+      "url": "https://www.andyhayler.com/restaurant/al-boccon-divino",
+      "scope": "italian",
+      "names": [
+        "Country",
+        "Town/City",
+        "Add a comment",
+        "User comments",
+        "Quick links",
+        "Feedback",
+        "cookies on the andy hayler website",
+        "Al Boccon di'vino"
+      ]
+    },
+    {
+      "name": "Foodism (Ave Mario)",
+      "url": "https://foodism.co.uk/features/big-mamma-ave-mario/",
+      "scope": "italian",
+      "names": [
+        "by Lucas Oakeley",
+        "Manteca",
+        "Bar Crispin",
+        "Ave Mario"
+      ]
+    },
+    {
+      "name": "Hot Dinners (Test Drive: Ave Mario)",
+      "url": "https://www.hot-dinners.com/Gastroblog/Test-drive/ave-mario-london-restaurant-review-big-mamma-covent-garden-italian",
+      "scope": "italian",
+      "names": [
+        "Ave Mario"
+      ]
+    },
+    {
+      "name": "The Infatuation (Forza Wine review)",
+      "url": "https://www.theinfatuation.com/london/reviews/forza-wine",
+      "scope": "italian",
+      "names": [
+        "Forza Wine"
+      ]
+    },
+    {
+      "name": "Time Out (Norma review, 3/5)",
+      "url": "https://www.timeout.com/london/restaurants/norma",
+      "scope": "italian",
+      "names": [
+        "Norma"
+      ],
+      "quotes": {
+        "Norma": "spaghettini fritters with parmesan sauce were crunchy angels - but nothing else matched them"
+      }
+    },
+    {
+      "name": "The Infatuation (Norma review - critical)",
+      "url": "https://www.theinfatuation.com/london/reviews/norma",
+      "scope": "italian",
+      "names": [
+        "Norma"
+      ],
+      "quotes": {
+        "Norma": "went from a sophisticated Sicilian pasta spot to a let-down in the space of a month"
+      }
+    },
+    {
+      "name": "Michelin Guide (Norma)",
+      "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurant/norma",
+      "scope": "italian",
+      "names": [
+        "Norma"
+      ]
+    },
+    {
+      "name": "London Unattached (Mucci's review)",
+      "url": "https://www.london-unattached.com/muccis-italian-restaurant-chelsea/",
+      "scope": "italian",
+      "names": [
+        "Mucci's"
+      ],
+      "quotes": {
+        "Mucci's": "excellent value for a King's Road restaurant - every starter £10 and every main £20"
+      }
+    },
+    {
+      "name": "Foodepedia (Mucci's)",
+      "url": "https://www.foodepedia.co.uk/restaurant-news/every-starter-is-priced-at-10-and-every-main-at-20-at-chelseas-muccis/",
+      "scope": "italian",
+      "names": [
+        "Mucci's"
+      ]
+    },
+    {
+      "name": "SquareMeal (Mucci's)",
+      "url": "https://www.squaremeal.co.uk/restaurants/muccis_16674",
+      "scope": "italian",
+      "names": [
+        "Mucci's"
+      ]
+    },
+    {
+      "name": "Time & Leisure (Mucci's review)",
+      "url": "https://timeandleisure.co.uk/food/muccis-chelsea/",
+      "scope": "italian",
+      "names": [
+        "Mucci's"
+      ]
+    },
+    {
+      "name": "Hot Dinners (Locanda Locatelli CLOSED, Jan 2025)",
+      "url": "https://www.hot-dinners.com/2025010413832/Gastroblog/Latest-news/locanda-locatelli-closing-restaurant-london",
+      "scope": "italian",
+      "names": [
+        "Locanda Locatelli"
+      ],
+      "quotes": {
+        "Locanda Locatelli": "CLOSED January 2025 after 23 years - do not recommend"
+      }
     }
-  ]
+  ],
+  "recorded": "2026-08-25",
+  "closed": {
+    "Locanda Locatelli": "Closed January 2025 after 23 years and a 20-year Michelin star. Still carried by Eater London, The Handbook and Secret London - 3 sources recommending a shut restaurant."
+  }
 }

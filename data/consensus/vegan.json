@@ -75,6 +75,136 @@
         "Gauthier Soho",
         "Nandine"
       ]
+    },
+    {
+      "name": "Dinespotter",
+      "url": "https://dinespotter.co.uk/london-best-vegetarian-vegan-restaurants-2026/",
+      "scope": "vegan",
+      "names": [
+        "The Top Picks for 2026",
+        "Company",
+        "Legal & Support",
+        "Stay Connected",
+        "' + pTitle + '"
+      ]
+    },
+    {
+      "name": "Veggies Abroad",
+      "url": "https://veggiesabroad.com/vegan-london-a-royal-guide-to-the-uk-capital/",
+      "scope": "vegan",
+      "names": [
+        "Mildred’s",
+        "Mallow",
+        "Holy Carrot",
+        "Facing Heaven",
+        "Purezza Camden",
+        "DAUNS",
+        "Temple of Seitan",
+        "En Root",
+        "Tofu Vegan",
+        "Vida Bakery",
+        "Arapina Bakery",
+        "The Third Estate",
+        "One Comment"
+      ]
+    },
+    {
+      "name": "Balance Journal",
+      "url": "https://balancejournal.co/food-drink/best-vegan-restaurants-london",
+      "scope": "vegan",
+      "names": [
+        "Plates",
+        "Gauthier Soho",
+        "Farm Girl",
+        "Mildreds",
+        "Purezza",
+        "Tofu Vegan",
+        "Club Mexicana",
+        "Mallow",
+        "The Gate",
+        "Bubala",
+        "Jam Delish",
+        "En Root",
+        "Tendril",
+        "Unity Diner",
+        "Mali Vegan Thai"
+      ]
+    },
+    {
+      "name": "Vegpreneur",
+      "url": "https://www.vegpreneur.org/blog/the-best-vegan-restaurants-in-london-in-2026",
+      "scope": "vegan",
+      "names": [
+        "Tofu Vegan",
+        "Club Mexicana",
+        "En Root",
+        "Purezza",
+        "Gauthier",
+        "Jam Delish",
+        "Naïfs",
+        "Facing Heaven",
+        "The Spread Eagle"
+      ]
+    },
+    {
+      "name": "My Vegan Travels",
+      "url": "https://myvegantravels.com/destinations/vegan-food-spots-london/",
+      "scope": "vegan",
+      "names": [
+        "Quick links",
+        "Plates",
+        "Purezza",
+        "Beaten by a Whisker",
+        "Mildreds",
+        "Jam Delish",
+        "Club Mexicana",
+        "The Fields Beneath",
+        "Temple of Seitan",
+        "Tofu Vegan",
+        "Cream Dream"
+      ]
+    },
+    {
+      "name": "Absolutely London",
+      "url": "https://absolutelymagazines.com/best-vegan-restaurants-london/",
+      "scope": "vegan",
+      "names": [
+        "Top Eats",
+        "What The Pitta",
+        "Plates",
+        "Alter",
+        "Tendril",
+        "Pied à Terre",
+        "Decimo",
+        "Gauthier",
+        "Mildreds",
+        "Café Petiole",
+        "Acme Fire Cult",
+        "The Fish and Chips Spots Londoners Swear By",
+        "eat",
+        "Absolutely Magazines",
+        "Topics",
+        "Other Absolutely Titles"
+      ]
+    },
+    {
+      "name": "Tempus Magazine",
+      "url": "https://tempusmagazine.co.uk/news/veganuary-2026-5-vegan-friendly-fine-dining-restaurants-london/",
+      "scope": "vegan",
+      "names": [
+        "Recent Articles",
+        "Cars & Yachts",
+        "Culture",
+        "Design",
+        "Lifestyle",
+        "Sport",
+        "Style",
+        "Wealth",
+        "Issues",
+        "Galleries",
+        "Amalgam Collection"
+      ]
     }
-  ]
+  ],
+  "recorded": "2026-08-25"
 }

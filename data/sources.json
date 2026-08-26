@@ -1,0 +1,917 @@
+{
+  "purpose": "The tiered register of every source the research is allowed to count, and what a mention from it is worth. It exists because the corpus had drifted: Time Out, The Infatuation and DesignMyNight alone account for roughly a third of all source records, so 'cross-referenced across many sources' often meant three publications and their echoes.",
+  "howToUse": "scripts/build-evidence.mjs reads this to tier every mention. A domain that is not listed here is counted as tier C with a warning, so an unknown source is visible rather than silently weighted.",
+  "tiers": {
+    "A": {
+      "label": "Judged, dated ranking",
+      "weight": 3,
+      "what": "A named panel or inspectorate published a ranked or starred list with a YEAR on it. The strongest single signal, because it is falsifiable and re-run annually.",
+      "caution": "A star is a claim with a date. Verify the year before writing 'holds a Michelin star' - Hakkasan and Yauatcha were both written as current after losing theirs."
+    },
+    "B": {
+      "label": "Editorial publication",
+      "weight": 2,
+      "what": "A masthead with editors, paying writers to visit. Broad and useful, but this tier is over-represented and its members copy each other."
+    },
+    "C": {
+      "label": "Independent blog or specialist",
+      "weight": 2,
+      "what": "One or two people writing from their own visits, or a single-subject specialist. Often earlier and more specific than the publications, and much closer to what a local would actually say."
+    },
+    "D": {
+      "label": "Video",
+      "weight": 2,
+      "what": "YouTube and TikTok creators. Currently ZERO sources across all 27 topics, which is the single largest gap in the corpus.",
+      "method": "Venue names come from the description and chapter timestamps first - creators list them - and from the transcript only as a fallback."
+    },
+    "E": {
+      "label": "Community",
+      "weight": 2,
+      "what": "Reddit threads and forum posts where named people argue about where to eat.",
+      "whyNotAnAggregator": "The aggregator rule below bans TripAdvisor and Yelp because a volume-ranked list lets ONE crowd-sourced ranking pose as several independent opinions. A Reddit thread is the opposite: individual, attributable, argued, and frequently contradicts the published lists. Counted per THREAD, never per comment, so one busy thread cannot outweigh a publication."
+    },
+    "F": {
+      "label": "Venue's own site (fact check only)",
+      "weight": 0,
+      "what": "The restaurant's own website or its hotel group's page. Used to verify address, postcode, price and which branches are open. NEVER counted toward consensus - a venue recommending itself is not evidence."
+    }
+  },
+  "rules": {
+    "distinctDomains": "Support is counted in distinct DOMAINS, never in URLs. Two lists from one publication is one opinion.",
+    "tierSpread": "An entry needs 2+ domains across 2+ TIERS, or one tier-A award. Five publications agreeing is weaker evidence than a publication, a blogger and a video agreeing - they read each other.",
+    "syndication": "Where one outlet REPORTS another's ranking, that is the original source, not a second one. Time Out publishes 'X has been crowned by the Telegraph' constantly; counting both double-counts a single judgement.",
+    "recency": "A mention older than 36 months still counts but is flagged. A venue with no mention inside 24 months is a closure candidate - the check that caught Oklava and Jinjuu.",
+    "aggregators": "TripAdvisor, Yelp, OpenTable, Wanderlog, Trip101, restaurantguru, Corner and similar are EXCLUDED. They rank by user volume, repeat each other, and dominate search results."
+  },
+  "blocked": {
+    "note": "Refuse the fetcher. A dead source inflates apparent breadth without adding any. Kept here so the same URLs are not retried every topic.",
+    "permanent403": [
+      "guide.michelin.com",
+      "thatsup.co.uk",
+      "quintessentially.com",
+      "trip101.com",
+      "japannakama.co.uk",
+      "londonscout.co.uk",
+      "visitlondon.com",
+      "londonist.com"
+    ],
+    "substitutes": {
+      "guide.michelin.com": "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_Greater_London"
+    }
+  },
+  "excluded": [
+    "opentable.co.uk",
+    "wanderlog.com",
+    "trip101.com",
+    "corner.inc",
+    "thatsup.co.uk",
+    "gayot.com",
+    "theculturetrip.com",
+    "tripadvisor.com",
+    "yelp.com",
+    "withinking.mystrikingly.com",
+    "londonwebcam.co.uk",
+    "amberstudent.com",
+    "insideasiatours.com",
+    "thistle.com",
+    "evanevanstours.com",
+    "takewalks.com",
+    "klook.com",
+    "en.uhomes.com",
+    "veeve.com",
+    "londonpass.info",
+    "staygenerator.com",
+    "what2book.com",
+    "freetoursbyfoot.com",
+    "oreateai.com",
+    "vyapargrow.com",
+    "bestoflondon.com",
+    "bollywoodview.in",
+    "headbox.com",
+    "hu.hotels.com",
+    "plumguide.com",
+    "viator.com",
+    "pacaso.com",
+    "tagvenue.com",
+    "imperialhotels.co.uk",
+    "flavoursearch.com",
+    "hortonandgarton.co.uk",
+    "ticketsforgood.com",
+    "tickts.co.uk",
+    "theroxy.co.uk",
+    "alcotraz.co.uk",
+    "pitchgolf.com",
+    "jkcomedyclub.co.uk"
+  ],
+  "domains": {
+    "thegoodfoodguide.co.uk": {
+      "tier": "A",
+      "name": "The Good Food Guide"
+    },
+    "guide.michelin.com": {
+      "tier": "A",
+      "name": "Michelin Guide",
+      "blocked": true
+    },
+    "theworlds50best.com": {
+      "tier": "A",
+      "name": "The World's 50 Best"
+    },
+    "top50gastropubs.com": {
+      "tier": "A",
+      "name": "Top 50 Gastropubs"
+    },
+    "asiancurryawards.com": {
+      "tier": "A",
+      "name": "Asian Curry Awards"
+    },
+    "gamberorossointernational.com": {
+      "tier": "A",
+      "name": "Gambero Rosso"
+    },
+    "50toppizza.it": {
+      "tier": "A",
+      "name": "50 Top Pizza"
+    },
+    "hardens.com": {
+      "tier": "A",
+      "name": "Harden's",
+      "note": "Reader survey at scale rather than a panel - dated and ranked, so tier A, but a different kind of judgement."
+    },
+    "timeout.com": {
+      "tier": "B",
+      "name": "Time Out",
+      "note": "OVER-REPRESENTED: 46 source records, the most of any domain. Frequently REPORTS other rankings rather than judging - check for syndication before counting."
+    },
+    "theinfatuation.com": {
+      "tier": "B",
+      "name": "The Infatuation",
+      "note": "37 records, second most."
+    },
+    "designmynight.com": {
+      "tier": "B",
+      "name": "DesignMyNight",
+      "note": "24 records. Listings-led with editorial on top; weaker than a masthead."
+    },
+    "london.eater.com": {
+      "tier": "B",
+      "name": "Eater London"
+    },
+    "squaremeal.co.uk": {
+      "tier": "B",
+      "name": "SquareMeal"
+    },
+    "olivemagazine.com": {
+      "tier": "B",
+      "name": "Olive Magazine"
+    },
+    "foodism.co.uk": {
+      "tier": "B",
+      "name": "Foodism"
+    },
+    "forbes.com": {
+      "tier": "B",
+      "name": "Forbes"
+    },
+    "countryandtownhouse.com": {
+      "tier": "B",
+      "name": "Country & Town House"
+    },
+    "luxurylondon.co.uk": {
+      "tier": "B",
+      "name": "Luxury London"
+    },
+    "absolutelymagazines.com": {
+      "tier": "B",
+      "name": "Absolutely"
+    },
+    "suitcasemag.com": {
+      "tier": "B",
+      "name": "Suitcase"
+    },
+    "shortlist.com": {
+      "tier": "B",
+      "name": "ShortList"
+    },
+    "elledecoration.co.uk": {
+      "tier": "B",
+      "name": "Elle Decoration"
+    },
+    "roadbook.com": {
+      "tier": "B",
+      "name": "Roadbook"
+    },
+    "thehandbook.com": {
+      "tier": "B",
+      "name": "The Handbook"
+    },
+    "nationalworld.com": {
+      "tier": "B",
+      "name": "NationalWorld"
+    },
+    "kilburntimes.co.uk": {
+      "tier": "B",
+      "name": "Kilburn Times"
+    },
+    "fltrmagazine.com": {
+      "tier": "B",
+      "name": "FLTR Magazine"
+    },
+    "thehoteljournal.com": {
+      "tier": "B",
+      "name": "The Hotel Journal"
+    },
+    "idealmagazine.co.uk": {
+      "tier": "B",
+      "name": "Ideal Magazine"
+    },
+    "luxlifelondon.com": {
+      "tier": "B",
+      "name": "LuxLife"
+    },
+    "factmagazines.com": {
+      "tier": "B",
+      "name": "Fact Magazines"
+    },
+    "factlondon.com": {
+      "tier": "B",
+      "name": "Fact London"
+    },
+    "mob.co.uk": {
+      "tier": "B",
+      "name": "Mob"
+    },
+    "thesaucemag.com": {
+      "tier": "B",
+      "name": "The Sauce"
+    },
+    "en.wikipedia.org": {
+      "tier": "B",
+      "name": "Wikipedia",
+      "note": "Used for the Michelin star tables, which carry year-by-year history. Reference rather than recommendation - never counts as an opinion, only as an award record."
+    },
+    "hot-dinners.com": {
+      "tier": "C",
+      "name": "Hot Dinners"
+    },
+    "thenudge.com": {
+      "tier": "C",
+      "name": "The Nudge"
+    },
+    "secretldn.com": {
+      "tier": "C",
+      "name": "Secret London"
+    },
+    "londontheinside.com": {
+      "tier": "C",
+      "name": "London the Inside"
+    },
+    "londonxlondon.com": {
+      "tier": "C",
+      "name": "London x London"
+    },
+    "aladyinlondon.com": {
+      "tier": "C",
+      "name": "A Lady in London"
+    },
+    "cktravels.com": {
+      "tier": "C",
+      "name": "CK Travels"
+    },
+    "wanderlustchloe.com": {
+      "tier": "C",
+      "name": "Wanderlust Chloe"
+    },
+    "candaceabroad.com": {
+      "tier": "C",
+      "name": "Candace Abroad"
+    },
+    "huesofdelahaye.com": {
+      "tier": "C",
+      "name": "Hues of Delahaye"
+    },
+    "thelondonmother.net": {
+      "tier": "C",
+      "name": "The London Mother"
+    },
+    "dutchbloggeronthemove.com": {
+      "tier": "C",
+      "name": "Dutch Blogger on the Move"
+    },
+    "wrapyourlipsaroundthis.com": {
+      "tier": "C",
+      "name": "Wrap Your Lips Around This"
+    },
+    "doubleskinnymacchiato.com": {
+      "tier": "C",
+      "name": "Double Skinny Macchiato"
+    },
+    "coffeethecanvas.com": {
+      "tier": "C",
+      "name": "Coffee the Canvas"
+    },
+    "batchcoffee.co.uk": {
+      "tier": "C",
+      "name": "Batch Coffee"
+    },
+    "mayfairfoodie.com": {
+      "tier": "C",
+      "name": "Mayfair Foodie"
+    },
+    "curiousinlondon.com": {
+      "tier": "C",
+      "name": "Curious in London"
+    },
+    "theworkingline.com": {
+      "tier": "C",
+      "name": "The Working Line"
+    },
+    "thehungrysoles.com": {
+      "tier": "C",
+      "name": "The Hungry Soles"
+    },
+    "londonyaar.com": {
+      "tier": "C",
+      "name": "Londonyaar"
+    },
+    "balancejournal.co": {
+      "tier": "C",
+      "name": "Balance Journal"
+    },
+    "britishfoodcrew.com": {
+      "tier": "C",
+      "name": "British Food Crew"
+    },
+    "oishii.london": {
+      "tier": "C",
+      "name": "Oishii London"
+    },
+    "garum.co.uk": {
+      "tier": "C",
+      "name": "Garum"
+    },
+    "best-japanese.co.uk": {
+      "tier": "C",
+      "name": "Best Japanese"
+    },
+    "washoku-guide.com": {
+      "tier": "C",
+      "name": "Washoku Guide"
+    },
+    "japannakama.co.uk": {
+      "tier": "C",
+      "name": "Japan Nakama",
+      "blocked": true
+    },
+    "brewatlas.co": {
+      "tier": "C",
+      "name": "Brew Atlas"
+    },
+    "kingstoncompass.com": {
+      "tier": "C",
+      "name": "Kingston Compass"
+    },
+    "londonbest.uk": {
+      "tier": "C",
+      "name": "London Best"
+    },
+    "citydays.com": {
+      "tier": "C",
+      "name": "CityDays"
+    },
+    "travelledroad.com": {
+      "tier": "C",
+      "name": "Travelled Road"
+    },
+    "fullsuitcase.com": {
+      "tier": "C",
+      "name": "Full Suitcase"
+    },
+    "flavoursearch.com": {
+      "tier": "C",
+      "name": "Flavour Search"
+    },
+    "bestcocktailsguide.com": {
+      "tier": "C",
+      "name": "Best Cocktails Guide"
+    },
+    "diffordsguide.com": {
+      "tier": "C",
+      "name": "Difford's Guide",
+      "note": "Drinks specialist with real depth - closer to tier A for bars."
+    },
+    "essentialliving.co.uk": {
+      "tier": "C",
+      "name": "Essential Living"
+    },
+    "thingstodoinlondon.com": {
+      "tier": "C",
+      "name": "Things To Do In London"
+    },
+    "dayoutwiththekids.co.uk": {
+      "tier": "C",
+      "name": "Day Out With The Kids"
+    },
+    "leadingrestaurants.co.uk": {
+      "tier": "C",
+      "name": "Leading Restaurants"
+    },
+    "currylife.uk": {
+      "tier": "C",
+      "name": "Curry Life"
+    },
+    "londonist.com": {
+      "tier": "C",
+      "name": "Londonist",
+      "blocked": true
+    },
+    "visitlondon.com": {
+      "tier": "C",
+      "name": "Visit London",
+      "blocked": true,
+      "note": "Official tourism board. 403s the fetcher but loads fine in a browser."
+    },
+    "youtube.com": {
+      "tier": "D",
+      "name": "YouTube",
+      "note": "Count per CHANNEL, not per video - a channel posting five London lists is one opinion."
+    },
+    "tiktok.com": {
+      "tier": "D",
+      "name": "TikTok"
+    },
+    "reddit.com": {
+      "tier": "E",
+      "name": "Reddit",
+      "note": "Count per THREAD. r/london, r/LondonFood, r/AskLondon, r/uklifestyle."
+    },
+    "quintessentially.com": {
+      "tier": "B",
+      "name": "Quintessentially",
+      "blocked": true
+    },
+    "critmas.substack.com": {
+      "tier": "C",
+      "name": "Critmas",
+      "note": "First-person Substack - joins the queues and reports back. Exactly the kind of source the corpus was short of."
+    },
+    "youtube.com/@HarrisonWebb97": {
+      "tier": "D",
+      "name": "Harrison Webb (YouTube)"
+    },
+    "youtube.com/@harrykersh": {
+      "tier": "D",
+      "name": "Harry Kersh (YouTube)"
+    },
+    "youtube.com/@MarkWiens": {
+      "tier": "D",
+      "name": "Mark Wiens (YouTube)"
+    },
+    "youtube.com/@strictlydumpling": {
+      "tier": "D",
+      "name": "Strictly Dumpling (YouTube)"
+    },
+    "youtube.com/@claudia-romeo": {
+      "tier": "D",
+      "name": "Claudia Romeo (YouTube)"
+    },
+    "youtube.com/@thetourguy": {
+      "tier": "D",
+      "name": "The Tour Guy (YouTube)"
+    },
+    "youtube.com/@AshleyTravel": {
+      "tier": "D",
+      "name": "Ashley Travel (YouTube)"
+    },
+    "youtube.com/@jolly": {
+      "tier": "D",
+      "name": "JOLLY (YouTube)"
+    },
+    "youtube.com/@FindEatGo": {
+      "tier": "D",
+      "name": "Find Eat Go (YouTube)"
+    },
+    "youtube.com/@MoreFallow": {
+      "tier": "D",
+      "name": "More Fallow (YouTube)"
+    },
+    "pickyglutton.com": {
+      "tier": "C",
+      "name": "The Picky Glutton",
+      "note": "Eats basically every dish, over multiple visits, before writing. The most rigorous independent reviewer in the corpus."
+    },
+    "cheeseandbiscuits.com": {
+      "tier": "C",
+      "name": "Cheese and Biscuits",
+      "note": "Long-running independent London reviewer, famous for the restaurant tube map."
+    },
+    "majorfoodie.com": {
+      "tier": "C",
+      "name": "Major Foodie"
+    },
+    "foodgoblin.co.uk": {
+      "tier": "C",
+      "name": "Food Goblin"
+    },
+    "chicome.co.uk": {
+      "tier": "C",
+      "name": "Chicome"
+    },
+    "civilianglobal.com": {
+      "tier": "C",
+      "name": "Civilian Global"
+    },
+    "abouttimemagazine.co.uk": {
+      "tier": "C",
+      "name": "About Time"
+    },
+    "londonlife.org": {
+      "tier": "C",
+      "name": "London Life"
+    },
+    "chinatown.co.uk": {
+      "tier": "C",
+      "name": "Chinatown London"
+    },
+    "cozymeal.com": {
+      "tier": "C",
+      "name": "Cozymeal"
+    },
+    "klook.com": {
+      "tier": "C",
+      "name": "Klook"
+    },
+    "traveliciousbites.com": {
+      "tier": "C",
+      "name": "Travelicious Bites"
+    },
+    "thebettervacation.com": {
+      "tier": "C",
+      "name": "The Better Vacation"
+    },
+    "artvisitguide.com": {
+      "tier": "C",
+      "name": "Art Visit Guide"
+    },
+    "museumsmadeeasy.com": {
+      "tier": "C",
+      "name": "Museums Made Easy"
+    },
+    "civitatis.com": {
+      "tier": "C",
+      "name": "Civitatis"
+    },
+    "ocula.com": {
+      "tier": "C",
+      "name": "Ocula"
+    },
+    "artfund.org": {
+      "tier": "C",
+      "name": "Art Fund"
+    },
+    "rossettiart.com": {
+      "tier": "C",
+      "name": "Rossetti Art"
+    },
+    "art-collecting.com": {
+      "tier": "C",
+      "name": "Art Collecting"
+    },
+    "corinthia.com": {
+      "tier": "C",
+      "name": "Corinthia"
+    },
+    "explorelondon.co.uk": {
+      "tier": "C",
+      "name": "Explore London"
+    },
+    "saintandsofia.com": {
+      "tier": "C",
+      "name": "Saint + Sofia"
+    },
+    "uk.saintandsofia.com": {
+      "tier": "C",
+      "name": "Saint + Sofia"
+    },
+    "london.gov.uk": {
+      "tier": "C",
+      "name": "Mayor of London"
+    },
+    "resident.com": {
+      "tier": "C",
+      "name": "Resident"
+    },
+    "thebritishtravellist.substack.com": {
+      "tier": "C",
+      "name": "The British Travel List"
+    },
+    "thelondonpizzablog.com": {
+      "tier": "C",
+      "name": "The London Pizza Blog"
+    },
+    "dinespotter.co.uk": {
+      "tier": "C",
+      "name": "Dinespotter"
+    },
+    "veggiesabroad.com": {
+      "tier": "C",
+      "name": "Veggies Abroad"
+    },
+    "vegpreneur.org": {
+      "tier": "C",
+      "name": "Vegpreneur"
+    },
+    "myvegantravels.com": {
+      "tier": "C",
+      "name": "My Vegan Travels"
+    },
+    "blogs.lse.ac.uk": {
+      "tier": "C",
+      "name": "LSE Students Blog"
+    },
+    "timewellspentmag.com": {
+      "tier": "C",
+      "name": "Time Well Spent"
+    },
+    "culturecalling.com": {
+      "tier": "C",
+      "name": "Culture Calling"
+    },
+    "tempusmagazine.co.uk": {
+      "tier": "B",
+      "name": "Tempus Magazine"
+    },
+    "blog.resy.com": {
+      "tier": "C",
+      "name": "Resy"
+    },
+    "tbmag.co.uk": {
+      "tier": "C",
+      "name": "TB Mag"
+    },
+    "walkeatlondon.com": {
+      "tier": "C",
+      "name": "Walk Eat London"
+    },
+    "worldofmouth.app": {
+      "tier": "C",
+      "name": "World of Mouth"
+    },
+    "thetravelista.net": {
+      "tier": "C",
+      "name": "The Travelista"
+    },
+    "londontapasguide.wordpress.com": {
+      "tier": "C",
+      "name": "London Tapas Guide"
+    },
+    "devourtours.com": {
+      "tier": "C",
+      "name": "Devour Tours"
+    },
+    "etfoodvoyage.com": {
+      "tier": "C",
+      "name": "ET Food Voyage"
+    },
+    "honestfoodtalks.substack.com": {
+      "tier": "C",
+      "name": "Honest Food Talks"
+    },
+    "orlaghclaire.com": {
+      "tier": "C",
+      "name": "Orlagh Claire"
+    },
+    "budgettraveller.org": {
+      "tier": "C",
+      "name": "BudgetTraveller"
+    },
+    "lamplitlondon.com": {
+      "tier": "C",
+      "name": "Lamplit London"
+    },
+    "sunnyinlondon.com": {
+      "tier": "C",
+      "name": "Sunny in London"
+    },
+    "secretfoodtours.com": {
+      "tier": "C",
+      "name": "Secret Food Tours"
+    },
+    "walks.com": {
+      "tier": "C",
+      "name": "London Walks"
+    },
+    "londontravelplanning.com": {
+      "tier": "C",
+      "name": "London Travel Planning"
+    },
+    "pubguidelondon.com": {
+      "tier": "C",
+      "name": "Pub Guide London"
+    },
+    "londondrinksguide.com": {
+      "tier": "C",
+      "name": "London Drinks Guide"
+    },
+    "wildsidetravellers.com": {
+      "tier": "C",
+      "name": "Wildside Travellers"
+    },
+    "alexjessicamills.com": {
+      "tier": "C",
+      "name": "Alex Jessica Mills"
+    },
+    "salutbyebye.com": {
+      "tier": "C",
+      "name": "Salut Bye Bye"
+    },
+    "theemptynestexplorers.com": {
+      "tier": "C",
+      "name": "The Empty Nest Explorers"
+    },
+    "comedyinyoureye.com": {
+      "tier": "C",
+      "name": "Comedy In Your Eye"
+    },
+    "greatbritishgardens.co.uk": {
+      "tier": "C",
+      "name": "Great British Gardens"
+    },
+    "mummytravels.com": {
+      "tier": "C",
+      "name": "Mummy Travels"
+    },
+    "emilymkrause.com": {
+      "tier": "C",
+      "name": "A Mom Explores"
+    },
+    "wanderlustcrew.com": {
+      "tier": "C",
+      "name": "Wanderlust Crew"
+    },
+    "bigpittstop.com": {
+      "tier": "C",
+      "name": "Big Pitt Stop"
+    },
+    "awaytothecity.com": {
+      "tier": "C",
+      "name": "Away to the City"
+    },
+    "brightnomad.net": {
+      "tier": "C",
+      "name": "Bright Nomad"
+    },
+    "londonnightguide.com": {
+      "tier": "C",
+      "name": "London Night Guide"
+    },
+    "hamandeggerfiles.blogspot.com": {
+      "tier": "C",
+      "name": "Ham and Egger Files"
+    },
+    "culturalwednesday.co.uk": {
+      "tier": "C",
+      "name": "Cultural Wednesday"
+    },
+    "flolondon.co.uk": {
+      "tier": "C",
+      "name": "FLO London"
+    },
+    "apeaceoflondon.wordpress.com": {
+      "tier": "C",
+      "name": "A Peace of London"
+    },
+    "tat-london.co.uk": {
+      "tier": "C",
+      "name": "TAT London"
+    },
+    "lonelyplanet.com": {
+      "tier": "B",
+      "name": "Lonely Planet"
+    },
+    "citymatters.london": {
+      "tier": "B",
+      "name": "City Matters"
+    },
+    "theguinea.co.uk": {
+      "tier": "F",
+      "name": "The Guinea Grill (own site)"
+    },
+    "goodmanrestaurants.com": {
+      "tier": "F",
+      "name": "Goodman (own site)"
+    },
+    "thened.com": {
+      "tier": "F",
+      "name": "The Ned (own site)"
+    },
+    "sagardi.co.uk": {
+      "tier": "F",
+      "name": "Sagardi (own site)"
+    },
+    "flatironsteak.co.uk": {
+      "tier": "F",
+      "name": "Flat Iron (own site)"
+    },
+    "dorchestercollection.com": {
+      "tier": "F",
+      "name": "Dorchester Collection (own site)"
+    },
+    "andyhayler.com": {
+      "tier": "C",
+      "name": "Andy Hayler"
+    },
+    "berkeleysquarebarbarian.com": {
+      "tier": "C",
+      "name": "Berkeley Square Barbarian"
+    },
+    "gourmandgunno.com": {
+      "tier": "C",
+      "name": "GourmandGunno"
+    },
+    "travel-gourmet.com": {
+      "tier": "C",
+      "name": "Travel Gourmet"
+    },
+    "london-unattached.com": {
+      "tier": "C",
+      "name": "London Unattached"
+    },
+    "foodepedia.co.uk": {
+      "tier": "C",
+      "name": "Foodepedia"
+    },
+    "timeandleisure.co.uk": {
+      "tier": "C",
+      "name": "Time & Leisure"
+    },
+    "sowhatsthesitch.substack.com": {
+      "tier": "C",
+      "name": "So What's The Sitch"
+    },
+    "tikkanation.com": {
+      "tier": "C",
+      "name": "Tikka Nation"
+    },
+    "passportpalate.com": {
+      "tier": "C",
+      "name": "Passport Palate"
+    },
+    "halimabobs.com": {
+      "tier": "C",
+      "name": "Halima Bobs"
+    },
+    "londonbesteats.com": {
+      "tier": "C",
+      "name": "London Best Eats"
+    },
+    "allinlondon.co.uk": {
+      "tier": "C",
+      "name": "All In London"
+    },
+    "london-now.co.uk": {
+      "tier": "C",
+      "name": "London Now"
+    },
+    "cityam.com": {
+      "tier": "B",
+      "name": "City AM"
+    },
+    "jamesdimitri.co.uk": {
+      "tier": "C",
+      "name": "James Dimitri"
+    },
+    "canastajournal.substack.com": {
+      "tier": "C",
+      "name": "Canasta Journal"
+    },
+    "spinach.guide": {
+      "tier": "C",
+      "name": "Spinach"
+    },
+    "messyvegancook.com": {
+      "tier": "C",
+      "name": "Messy Vegan Cook"
+    },
+    "gourmetgorro.blogspot.com": {
+      "tier": "C",
+      "name": "Gourmet Gorro"
+    },
+    "ps-london.com": {
+      "tier": "C",
+      "name": "PS London"
+    },
+    "restaurantsforkings.com": {
+      "tier": "C",
+      "name": "Restaurants for Kings"
+    },
+    "anothermag.com": {
+      "tier": "B",
+      "name": "AnOther Magazine"
+    },
+    "wallpaper.com": {
+      "tier": "B",
+      "name": "Wallpaper"
+    }
+  }
+}

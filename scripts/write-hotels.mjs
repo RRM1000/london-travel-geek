@@ -173,6 +173,7 @@ const HOODS = {
   "Bayswater":          { zone: "1",   district: "West" },
   "Dalston":            { zone: "2",   district: "East" },
   "Greenwich Peninsula":{ zone: "2",   district: "East" },
+  "Olympia":            { zone: "2",   district: "West" },
 };
 
 const base = {
@@ -799,7 +800,7 @@ const ROWS = [
     ...base, slug: "st-pancras-renaissance", name: "St Pancras Renaissance Hotel London",
     propertyType: "hotel", style: "Gothic Revival railway hotel",
     brand: "marriott", chainType: "chain", starRating: "5",
-    hood: "Camden Town", borough: "Camden", areaGuide: "camden-area-guide",
+    hood: "King's Cross", borough: "Camden", areaGuide: "kings-cross-area-guide",
     address: "Euston Road, NW1",
     priceBand: "££££", typicalFrom: "About £350", breakfast: "extra",
     rooms: "207", roomTypes: "Double, Chambers Suite", accessibility: "accessible-rooms",
@@ -817,7 +818,7 @@ const ROWS = [
     ...base, slug: "the-megaro", name: "The Megaro",
     propertyType: "boutique", style: "Mural-fronted hotel opposite King's Cross",
     brand: "megaro", chainType: "independent", starRating: "4",
-    hood: "Camden Town", borough: "Camden", areaGuide: "camden-area-guide",
+    hood: "King's Cross", borough: "Camden", areaGuide: "kings-cross-area-guide",
     address: "Belgrove Street",
     priceBand: "£££", typicalFrom: "About £180", breakfast: "extra",
     rooms: "40", roomTypes: "Double, suite", accessibility: "accessible-rooms",
@@ -1866,6 +1867,46 @@ const ROWS = [
     signals: "4 sources: The Luxury Editor, Oyster.com, Qantas Travel Insider, Tripadvisor Travellers' Choice",
     lists: "design",
     source: "YouTube-led hotel sweep 2026-08-20, same follow-up pass as Aethos London Shoreditch.",
+  },
+
+  // ------------------------------------------------------- Olympia, 2026 ---
+  // Both opened inside the £1.3bn Olympia redevelopment during 2026. New
+  // enough to have no review history worth citing, which is said plainly in
+  // the notes rather than dressed up - the reason to know about them is the
+  // location relative to the new music venue, not a track record.
+  {
+    ...base, slug: "hyatt-regency-london-olympia", name: "Hyatt Regency London Olympia",
+    propertyType: "hotel", style: "Full-service hotel inside the Olympia redevelopment",
+    brand: "hyatt", chainType: "chain", starRating: "4",
+    hood: "Olympia", borough: "Hammersmith and Fulham", areaGuide: "",
+    address: "Olympia, Hammersmith Road",
+    priceBand: "£££", typicalFrom: "About £220", breakfast: "extra",
+    rooms: "204", roomTypes: "Double, twin, suite",
+    accessibility: "accessible-rooms", hasLift: "yes", airCon: "yes", luggageStorage: "yes",
+    whyGo: "Opened 2026 as part of the Olympia rebuild, so it is a minute from the exhibition halls and the new 3,800-capacity music venue - the obvious choice if you are here for a show or a trade fair rather than for London.",
+    angle: "access",
+    opSummary: "NEEDS VERIFYING - opened July 2026, so there is no meaningful review record yet and the rate is a first-year guess. Kensington (Olympia) station has a limited Tube service; Overground and buses are usually faster.",
+    goodFor: "business, couples",
+    website: "https://www.hyatt.com/",
+    lists: "",
+    source: "Olympia redevelopment coverage 2026; NEEDS VERIFYING - single-source and newly opened.",
+  },
+  {
+    ...base, slug: "citizenm-london-olympia", name: "citizenM London Olympia",
+    propertyType: "hotel", style: "Compact design rooms, self-service",
+    brand: "citizenm", chainType: "chain", starRating: "4",
+    hood: "Olympia", borough: "Hammersmith and Fulham", areaGuide: "",
+    address: "Olympia, Hammersmith Road",
+    priceBand: "££", typicalFrom: "About £150", breakfast: "extra",
+    rooms: "146", roomTypes: "One room type only",
+    accessibility: "accessible-rooms", hasLift: "yes", airCon: "yes", luggageStorage: "yes",
+    whyGo: "The citizenM format - one room type, wall-to-wall window, tablet-controlled everything - dropped into the Olympia redevelopment, and the cheaper of the two hotels on the site.",
+    angle: "value",
+    opSummary: "NEEDS VERIFYING - opened 2026, no review record yet. Rooms are genuinely SMALL, which is the format rather than a fault; see the Bankside branch for the same trade-off.",
+    goodFor: "solo, couples, business",
+    website: "https://www.citizenm.com/",
+    lists: "best-value",
+    source: "Olympia redevelopment coverage 2026; NEEDS VERIFYING - single-source and newly opened.",
   },
 ];
 

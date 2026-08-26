@@ -239,7 +239,8 @@
         "Time Out Market",
         "Time Out Offers",
         "Time Out Worldwide",
-        "Movies"
+        "Movies",
+        "for the best of the city"
       ]
     },
     {
@@ -493,8 +494,36 @@
       "name": "SquareMeal (all latest openings)",
       "url": "https://www.squaremeal.co.uk/restaurants/best/all-latest-openings_11",
       "scope": "new-openings",
-      "names": [],
-      "error": "HTTP 403"
+      "names": [
+        "Appalachia",
+        "No. Forty Nine",
+        "Banquet 88",
+        "Hon's BBQ",
+        "Chez Rose",
+        "AVI Bistrot",
+        "Rosina",
+        "TEMAKI",
+        "Vesper",
+        "Ornella",
+        "The Sea",
+        "MAAI",
+        "Cue Point London",
+        "The Latimer",
+        "MA/NA",
+        "Oudh 1722",
+        "Idalia at Pillar Hall",
+        "MIKO Mei Fair",
+        "Impala",
+        "Tavern",
+        "Willett's",
+        "Simpson's in the Strand",
+        "Teal by Sally Abe",
+        "Wild Izakaya",
+        "Sale e Pepe Mare",
+        "Osteria Vibrato",
+        "Cometa",
+        "DakaDaka"
+      ]
     }
   ]
 }

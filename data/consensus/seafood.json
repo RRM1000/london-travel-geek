@@ -70,6 +70,135 @@
         "Rewards",
         "Jobs"
       ]
+    },
+    {
+      "name": "The Good Food Guide",
+      "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london",
+      "scope": "seafood",
+      "names": [
+        "Angler",
+        "Behind",
+        "Bentley's Oyster Bar & Grill",
+        "Oystermen",
+        "Parsons",
+        "Pearly Queen",
+        "The Mayfair Chippy",
+        "Wright Brothers Borough Market",
+        "The legal bit",
+        "Essential Cookies",
+        "Analytical Cookies"
+      ]
+    },
+    {
+      "name": "The Handbook (20 seafood)",
+      "url": "https://www.thehandbook.com/london-seafood-restaurants/",
+      "scope": "seafood",
+      "names": [
+        "Bentley’s Oyster Bar & Grill",
+        "Rake at The Compton Arms",
+        "J. Sheekey",
+        "Tokii",
+        "Lilibet’s",
+        "The Sea",
+        "The River Restaurant by Gordon Ramsay",
+        "Idalia",
+        "Sea Containers Restaurant",
+        "GǑNG",
+        "Straits Kitchen",
+        "La Petite Poissonnerie",
+        "Sam’s Riverside",
+        "Prawn on the Lawn",
+        "Vori",
+        "Applebee’s",
+        "Scott’s",
+        "Chicama",
+        "Manzi’s",
+        "Seabird",
+        "The Seafood Bar"
+      ]
+    },
+    {
+      "name": "The Handbook (oysters)",
+      "url": "https://www.thehandbook.com/londons-best-oysters/",
+      "scope": "seafood",
+      "names": [
+        "Bentley’s Oyster Bar",
+        "Sea Containers Restaurant",
+        "Three Sheets",
+        "J.Sheekey",
+        "Rosi At The Beaumont",
+        "Aviary",
+        "Fulham Pier",
+        "The Lighterman",
+        "The Sea",
+        "Sam’s Riverside",
+        "Willett’s At The Cadogan",
+        "Ekstedt At The Yard",
+        "Smith’s Bar & Grill",
+        "Quilon",
+        "Rosewood London",
+        "Park Hyatt London River Thames",
+        "Sale e Pepe Mare",
+        "IGNI",
+        "Pyro",
+        "Brasserie Constance",
+        "Lutyens Grill",
+        "The Sun Inn"
+      ]
+    },
+    {
+      "name": "Luxury London (oyster bars)",
+      "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/",
+      "scope": "seafood",
+      "names": [
+        "/ Social",
+        "Langan’s Brasserie",
+        "Sam’s Riverside",
+        "J Sheekey",
+        "The Seafood Bar",
+        "Bentley’s Oyster Bar & Grill",
+        "The Oyster Shed",
+        "The Wright Brothers",
+        "Seabird",
+        "Oyster Boy",
+        "Richard Haward’s Oysters",
+        "Furness Fish",
+        "Boisdale",
+        "Oystermen Seafood Bar & Kitchen",
+        "Posts"
+      ]
+    },
+    {
+      "name": "DesignMyNight (oysters)",
+      "url": "https://www.designmynight.com/london/best-oysters-in-london",
+      "scope": "seafood",
+      "names": [
+        "Rewards",
+        "Jobs",
+        "My Account"
+      ]
+    },
+    {
+      "name": "Restaurants for Kings",
+      "url": "https://restaurantsforkings.com/blog/best-seafood-restaurants-london-2026",
+      "scope": "seafood",
+      "names": [
+        "Eight London Seafood Rooms Worth the Booking",
+        "Booking Strategy for London Seafood in 2026",
+        "The full London dining directory",
+        "Scott's Mayfair full review",
+        "J Sheekey full review",
+        "Angler at South Place full review",
+        "Ask the AI Concierge",
+        "First Date",
+        "Proposal",
+        "Solo Dining",
+        "Submit",
+        "Sexy Fish",
+        "Outlaw's at the Capital",
+        "Bob Bob Ricard's caviar service"
+      ]
     }
-  ]
+  ],
+  "recorded": "2026-08-26"
 }

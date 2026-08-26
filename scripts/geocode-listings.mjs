@@ -43,6 +43,63 @@ for (const envFile of [".env.local", ".env"]) {
   }
 }
 
+// A postcode the live endpoint does not know is usually RETIRED, not wrong.
+// Postcodes get withdrawn when a building is renumbered or a site redeveloped,
+// and the business carries on in the same place. postcodes.io keeps the last
+// known position - but only at /terminated_postcodes/{pc}. The plain
+// /postcodes/{pc} endpoint 404s for these, which is why an earlier version of
+// this fallback (checking for a "terminated" block on the 404 response) never
+// fired once.
+//
+// The OUTCODE centroid is deliberately the last resort: accurate to the
+// district rather than the building, worth having only to stop a pin vanishing
+// altogether. Anything resolved that way says so in the log, so it can be
+// corrected properly later.
+//
+// All of this stays postcodes.io / ONS under the Open Government Licence. We
+// never store Google's own coordinates - which is the entire reason geocoding
+// runs as a separate stage rather than reading them off the Places response.
+async function resolveStubbornPostcode(pc) {
+  try {
+    const term = await fetch(
+      `https://api.postcodes.io/terminated_postcodes/${encodeURIComponent(pc)}`,
+    );
+    if (term.ok) {
+      const j = await term.json();
+      if (j.result) {
+        return {
+          lat: j.result.latitude,
+          lng: j.result.longitude,
+          ward: null,
+          note: `retired ${j.result.year_terminated}`,
+        };
+      }
+    }
+    // A bare outcode ("WC1V") is a legitimate input here too - some sources
+    // only ever record the district - so do NOT require it to differ from pc.
+    const outcode = String(pc).trim().split(/\s+/)[0];
+    if (outcode) {
+      const oc = await fetch(
+        `https://api.postcodes.io/outcodes/${encodeURIComponent(outcode)}`,
+      );
+      if (oc.ok) {
+        const j = await oc.json();
+        if (j.result) {
+          return {
+            lat: j.result.latitude,
+            lng: j.result.longitude,
+            ward: null,
+            note: `OUTCODE ONLY (${outcode}) - approximate, fix the postcode`,
+          };
+        }
+      }
+    }
+  } catch {
+    /* network wobble - treat as unresolved rather than crashing the run */
+  }
+  return null;
+}
+
 const CACHE_PATH = "data/geo-cache.json";
 const TABS = { hotels: "Hotels", activities: "Activities", events: "Events", hiddenLondon: "Hidden London" };
 
@@ -177,23 +234,17 @@ async function geoStage(tabKey, tabName, rows) {
     }
   }
 
-  for (const [pc, v] of coords) {
+  for (const [pc, v] of [...coords]) {
     if (!v.pending) continue;
-    const res = await fetch(`https://api.postcodes.io/postcodes/${encodeURIComponent(pc)}`);
-    const j = await res.json();
-    if (j.result) {
-      coords.set(pc, { lat: j.result.latitude, lng: j.result.longitude, ward: j.result.admin_ward });
-    } else if (j.terminated) {
-      coords.set(pc, {
-        lat: j.terminated.latitude, lng: j.terminated.longitude,
-        ward: null, terminated: j.terminated.year_terminated,
-      });
-      console.log(`  [${tabName}] ${pc}: postcode retired ${j.terminated.year_terminated} - using its last known coordinates`);
+    const found = await resolveStubbornPostcode(pc);
+    if (found) {
+      coords.set(pc, found);
+      console.log(`  [${tabName}] ${pc}: ${found.note} - using its last known coordinates`);
     } else {
       coords.delete(pc);
-      console.log(`  [${tabName}] postcode not found (not even historically): ${pc}`);
+      console.log(`  [${tabName}] postcode not found, not even historically: ${pc}`);
     }
-    await sleep(100);
+    await new Promise((r) => setTimeout(r, 120));
   }
 
   let n = 0;

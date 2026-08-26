@@ -1,0 +1,59 @@
+{
+  "cuisine": "markets",
+  "note": "Seeded 2026-08-25.",
+  "recorded": "2026-08-25",
+  "sources": [
+    {
+      "name": "Lamplit London",
+      "url": "https://www.lamplitlondon.com/guides/best-food-markets-london/",
+      "scope": "markets",
+      "names": [
+        "Borough Market",
+        "Maltby Street Market",
+        "Broadway Market",
+        "Brixton Village",
+        "Mercato Metropolitano",
+        "Common questions",
+        "ping pong london",
+        "From the Journal",
+        "The Art of the London Date Night",
+        "Keep exploring London"
+      ]
+    },
+    {
+      "name": "Sunny in London",
+      "url": "https://sunnyinlondon.com/london-food-markets-itinerary/",
+      "scope": "markets",
+      "names": [
+        "The Insider's Solution",
+        "Sunny's Solution",
+        "The Problem",
+        "London Travel Planners & Custom Itineraries",
+        "Blog"
+      ]
+    },
+    {
+      "name": "Secret Food Tours",
+      "url": "https://www.secretfoodtours.com/blog/get-to-know-the-best-food-markets-in-london/",
+      "scope": "markets",
+      "names": [
+        "Book Our Food Tours",
+        "Athens",
+        "Bangkok",
+        "Bologna",
+        "England",
+        "Lima",
+        "Milwaukee",
+        "Porto",
+        "Prague",
+        "Puerto Vallarta",
+        "Rio",
+        "Seville",
+        "Vancouver",
+        "Local Tips",
+        "Restaurant Reviews",
+        "Fun Facts"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "cuisine": "pizza",
+  "note": "",
+  "recorded": "2026-08-25",
+  "sources": [
+    {
+      "name": "Harry Kersh (YouTube)",
+      "url": "https://www.youtube.com/@harrykersh",
+      "scope": "pizza",
+      "channel": "@harrykersh",
+      "videos": [
+        {
+          "title": "Finding The Best Pizza In London | Harry's Food Tours",
+          "url": "https://www.youtube.com/watch?v=8X_PxlVWODc",
+          "published": "2025-12-02"
+        }
+      ],
+      "names": [],
+      "error": "no headings matched"
+    },
+    {
+      "name": "Harrison Webb (YouTube)",
+      "url": "https://www.youtube.com/@HarrisonWebb97",
+      "scope": "pizza",
+      "channel": "@HarrisonWebb97",
+      "videos": [
+        {
+          "title": "Finding the Best Pizza in London",
+          "url": "https://www.youtube.com/watch?v=EusVlKeTQLM",
+          "published": "2025-11-09"
+        }
+      ],
+      "names": [
+        "Breadstall",
+        "Japes",
+        "Bad Boy Pizza Society",
+        "Sarv's Slice",
+        "Gracey's Pizza",
+        "50 Kalò",
+        "Sud Italia",
+        "Dough Hands",
+        "Battersea Power Station"
+      ]
+    },
+    {
+      "name": "JOLLY (YouTube)",
+      "url": "https://www.youtube.com/@jolly",
+      "scope": "pizza",
+      "channel": "@jolly",
+      "videos": [
+        {
+          "title": "We tried the Best Pizza in London!",
+          "url": "https://www.youtube.com/watch?v=k84hpLHGnoI",
+          "published": "2025-12-12"
+        }
+      ],
+      "names": [
+        "Big thanks to",
+        "Ijustwantogohome",
+        "Wolvesarefirst1134",
+        "Bettie Meier",
+        "Skip Allen",
+        "Dawn’s HEart",
+        "Nora yousef",
+        "Raileigh GJ",
+        "Li Winslow",
+        "Nolan Fan",
+        "Miguel Benitez Jr",
+        "MyNameIsTokyo",
+        "63angel",
+        "B Strauss",
+        "Reilly Willoughby",
+        "Axel Murillo",
+        "Jadexnyc",
+        "Claim2Game (a.k.a isaiah gollan 20)",
+        "Florian Adamek",
+        "12rose3",
+        "Julian Leung",
+        "Yun Lim",
+        "Laykan Dowdy",
+        "CitrusQuill",
+        "Gloria Kwon"
+      ]
+    },
+    {
+      "name": "Find Eat Go (YouTube)",
+      "url": "https://www.youtube.com/@FindEatGo",
+      "scope": "pizza",
+      "channel": "@FindEatGo",
+      "videos": [
+        {
+          "title": "The London Pizza Awarded Best in the World - Behind the Scenes at Busy Pizzeria",
+          "url": "https://www.youtube.com/watch?v=uECDlkQpiHg",
+          "published": "2026-04-16"
+        }
+      ],
+      "names": [
+        "Napoli on the Road",
+        "This is real authentic Napoli pizza!"
+      ]
+    },
+    {
+      "name": "Mayfair Foodie",
+      "url": "https://mayfairfoodie.com/best-pizzas-in-london/",
+      "scope": "pizza",
+      "names": [
+        "1 My Guide to London’s Best Pizzas",
+        "2 Neapolitan",
+        "Napoli on the Road",
+        "50 Kalò di Ciro Salvo",
+        "L’Antica Pizzeria da Michele",
+        "Santa Maria",
+        "Crust Brothers",
+        "Pizza Pilgrims",
+        "Berberè",
+        "Franco Manca",
+        "3 New York Style",
+        "Crisp Pizza",
+        "Spring Street Pizza",
+        "Bad Boy Pizza Society",
+        "4 London Style",
+        "ACE Pizza",
+        "Yard Sale Pizza",
+        "Alley Cats",
+        "5 Pub Residencies",
+        "Dough Hands",
+        "Little Earthquakes",
+        "6 South London",
+        "Theo’s",
+        "7 Worth the Journey",
+        "L’Oro di Napoli",
+        "Rudy’s Pizza Napoletana",
+        "Sodo Pizza",
+        "Martin",
+        "The Mayfair Foodie",
+        "HexClad pans"
+      ]
+    },
+    {
+      "name": "Hungry Soles",
+      "url": "https://www.thehungrysoles.com/blog/best-pizza-london",
+      "scope": "pizza",
+      "names": [
+        "Bon Vino Enoteca",
+        "50 Kalò di Ciro Salvo Pizzeria",
+        "Dough Hands",
+        "Alley Cats Pizza",
+        "L'Antica Pizzeria Da Michele",
+        "Rudy's Pizza",
+        "Biancho 43",
+        "Florencio",
+        "Crisp Pizza",
+        "Theo's Pizzeria",
+        "Pizza East",
+        "Mamma Dough",
+        "081 Pizzeria",
+        "Pizza Nerds",
+        "Bad Boy Pizza Society",
+        "Franco Manca",
+        "Pizza Pilgrims",
+        "Yard Sale Pizza",
+        "Places on our list to visit",
+        "Places that don’t make it onto our list",
+        "Surfing as a beginner in Puerto Escondido"
+      ]
+    },
+    {
+      "name": "Wrap Your Lips Around This",
+      "url": "https://wrapyourlipsaroundthis.com/best-pizza-in-london-restaurant-review/",
+      "scope": "pizza",
+      "names": [],
+      "error": "no headings matched"
+    },
+    {
+      "name": "Country & Town House",
+      "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/",
+      "scope": "pizza",
+      "names": [
+        "A Brief History of Pizza",
+        "C&TH Newsletters"
+      ]
+    },
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+      "scope": "pizza",
+      "names": [
+        "London ' s best pizza at a glance:",
+        "Short Road Pizza",
+        "Dough Hands",
+        "Bad Boy Pizzeria",
+        "Spring Street Pizza",
+        "Ace Pizza",
+        "Alley Cats Pizza",
+        "Rudy's",
+        "Yard Sale Pizza",
+        "Vincenzo’s",
+        "Breadstall",
+        "Bar Etna",
+        "Carmela’s Pizzeria",
+        "Berberè",
+        "Fatto a Mano",
+        "Crisp Pizza",
+        "Napoli on the Road",
+        "Hot Saint Pizza",
+        "Little Earthquakes",
+        "Japes",
+        "Sodo Pizza Cafe",
+        "Ria's"
+      ]
+    },
+    {
+      "name": "DesignMyNight",
+      "url": "https://www.designmynight.com/london/restaurants/best-pizza-restaurants-london",
+      "scope": "pizza",
+      "names": [
+        "Rewards",
+        "Jobs"
+      ]
+    }
+  ]
+}

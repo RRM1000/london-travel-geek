@@ -1,0 +1,105 @@
+{
+  "cuisine": "dim-sum",
+  "note": "SCOPE. Dim sum specifically - the Cantonese small-plate tradition, trolley or menu. Chinatown and beyond. General Chinese restaurants live in the chinese topic.",
+  "recorded": "2026-08-25",
+  "sources": [
+    {
+      "name": "About Time",
+      "url": "https://www.abouttimemagazine.co.uk/food/5-of-the-best-dim-sum-spots-in-chinatown/",
+      "scope": "dim-sum",
+      "names": [
+        "Iona Goulder",
+        "Valentine’s Day 2026: 5 At-Home Ideas"
+      ]
+    },
+    {
+      "name": "Time Out (best 2025)",
+      "url": "https://www.timeout.com/london/news/londons-best-dim-sum-restaurant-has-been-crowned-for-2025-by-time-out-012125",
+      "scope": "dim-sum",
+      "names": [
+        "Investor relations",
+        "Work for Time Out",
+        "Privacy notice",
+        "Do not sell my information",
+        "Accessibility statement",
+        "Get Listed",
+        "Time Out Offers FAQ",
+        "Advertising",
+        "Time Out Market",
+        "Time Out Offers",
+        "Time Out Worldwide",
+        "Movies",
+        "Baba Tang",
+        "for the best of the city"
+      ]
+    },
+    {
+      "name": "The Good Food Guide",
+      "url": "https://www.thegoodfoodguide.co.uk/editorial/local-guide/where-to-eat-in-chinatown-a-locals-top-eight",
+      "scope": "dim-sum",
+      "names": [
+        "The legal bit",
+        "Essential Cookies",
+        "Analytical Cookies"
+      ]
+    },
+    {
+      "name": "Civilian Global",
+      "url": "https://civilianglobal.com/food-and-drink/the-best-dim-sum-in-london-from-dumpling-legends-in-chinatown-to-duddells/",
+      "scope": "dim-sum",
+      "names": [
+        "DESIGN",
+        "JOURNEYS",
+        "HOTELS",
+        "ARTS",
+        "FICTION",
+        "The New World",
+        "Chuen Cheng Ku",
+        "UPSCALE",
+        "Yauatcha",
+        "Yauatcha City",
+        "BASIC",
+        "Mamalan"
+      ]
+    },
+    {
+      "name": "The Infatuation",
+      "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london",
+      "scope": "dim-sum",
+      "names": [
+        "Happy Dim Sum",
+        "Dim Sum & Duck",
+        "Royal China",
+        "Dim Sum Library",
+        "Imperial Treasure Fine Chinese Cuisine",
+        "Tofu Vegan",
+        "Orient London",
+        "Din Tai Fung",
+        "Gold Mine",
+        "Yi-Ban",
+        "Good Fortune Club",
+        "Shan Shui Social",
+        "Pearl Liang",
+        "Dragon Castle",
+        "Plum Valley"
+      ]
+    },
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/food-drink/londons-best-dim-sum-restaurants",
+      "scope": "dim-sum",
+      "names": [
+        "Baba Tang",
+        "Yauatcha",
+        "Dim Sum Duck",
+        "Golden Dragon",
+        "Saikei Chinese Restaurant",
+        "MamaMei",
+        "Golden Phoenix",
+        "Panda Dim Sum",
+        "Canton Blue",
+        "Yi-Ban"
+      ]
+    }
+  ]
+}

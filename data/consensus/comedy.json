@@ -1,0 +1,30 @@
+{
+  "cuisine": "comedy",
+  "note": "Seeded 2026-08-25.",
+  "recorded": "2026-08-25",
+  "sources": [
+    {
+      "name": "Shortlist",
+      "url": "https://www.shortlist.com/entertainment/best-comedy-london-stand-up-comedians-venues",
+      "scope": "comedy",
+      "names": [
+        "View Profile",
+        "Gear",
+        "Style",
+        "Alcohol",
+        "Music",
+        "Books"
+      ]
+    },
+    {
+      "name": "Comedy In Your Eye",
+      "url": "https://www.comedyinyoureye.com/post/the-best-london-comedy-clubs",
+      "scope": "comedy",
+      "names": [
+        "Recent Posts",
+        "Dec 16",
+        "3 min read"
+      ]
+    }
+  ]
+}

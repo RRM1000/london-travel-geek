@@ -48,5 +48,15 @@
     "lat": 51.495812,
     "lng": -0.143826,
     "resolved": "Victoria"
+  },
+  "Colindale": {
+    "lat": 51.595424,
+    "lng": -0.249919,
+    "resolved": "Colindale Underground Station"
+  },
+  "Walthamstow Central": {
+    "lat": 51.582948,
+    "lng": -0.019842,
+    "resolved": "Walthamstow Central"
   }
 }

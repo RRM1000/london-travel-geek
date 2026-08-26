@@ -115,6 +115,7 @@ const HOODS = {
   "Stratford":            { zone: "3",   district: "East" },
   "Greenwich Peninsula":  { zone: "2",   district: "East" },
   "Fulham":               { zone: "2",   district: "West" },
+  "Wembley":              { zone: "4",   district: "North" },
 };
 
 const base = { status: "open", statusChecked: TODAY, firstSeen: TODAY, lastChecked: TODAY };
@@ -581,7 +582,7 @@ const ROWS = [
     venue: "Across London",
     startsOn: "", endsOn: "",
     recurring: "annual", typicalWhen: "A weekend in September",
-    hood: "City of London", borough: "City of London", areaGuide: "city-of-london-area-guide",
+    hood: "City of London", borough: "City of London", areaGuide: "",
     address: "Across London",
     agePolicy: "all-ages", duration: "A weekend",
     pricePerPerson: "Free",
@@ -636,7 +637,7 @@ const ROWS = [
     venue: "All England Club, SW19",
     startsOn: "", endsOn: "",
     recurring: "annual", typicalWhen: "Two weeks from late June",
-    hood: "Richmond", borough: "Richmond upon Thames", areaGuide: "richmond-area-guide",
+    hood: "Richmond", borough: "Richmond upon Thames", areaGuide: "",
     address: "Church Road, Wimbledon SW19",
     agePolicy: "all-ages", duration: "A full day",
     bookingRequired: "required", indoorOutdoor: "outdoor",
@@ -654,7 +655,7 @@ const ROWS = [
     venue: "Parks across London",
     startsOn: "", endsOn: "",
     recurring: "annual", typicalWhen: "The weekend nearest 5 November",
-    hood: "Hackney", borough: "Hackney", areaGuide: "hackney-area-guide",
+    hood: "Hackney", borough: "Hackney", areaGuide: "",
     address: "Victoria Park and parks across London",
     agePolicy: "all-ages", duration: "An evening",
     pricePerPerson: "Free to ticketed depending on the park",
@@ -706,6 +707,71 @@ const ROWS = [
     goodFor: "families, groups, solo",
     lists: "events, free",
     source: "lbhf.gov.uk (council's own event pages, 2023-2025 recurrences) cross-checked",
+  },
+
+  // ===================== KING'S CROSS + WEMBLEY =====================
+  // From kingscross.co.uk/whats-on, taking only what RECURS. That page is
+  // mostly summer pop-ups running two or three weeks; entered with their
+  // literal dates they would have expired before anyone read them. Summer
+  // Sounds and the Classic Car Boot Sale are annual fixtures, so they go in
+  // as recurring with Typical When - the same treatment as Notting Hill
+  // Carnival, and the reason the export keeps them between editions.
+  {
+    ...base, slug: "kings-cross-summer-sounds",
+    name: "Summer Sounds",
+    eventType: "festival", style: "Free open-air live music",
+    venue: "Granary Square, King's Cross",
+    startsOn: "", endsOn: "",
+    recurring: "annual", typicalWhen: "Mid-to-late August, over about ten days",
+    hood: "King's Cross", borough: "Camden", areaGuide: "kings-cross-area-guide",
+    address: "Granary Square", postcode: "N1C 4AB",
+    agePolicy: "all-ages", duration: "An evening",
+    pricePerPerson: "Free",
+    bookingRequired: "walk-in", indoorOutdoor: "outdoor",
+    stepFree: "yes",
+    whyGo: "Ten days of free live music outdoors by the fountains at Granary Square - no ticket, no booking, and one of the better free things London puts on in August.",
+    opSummary: "Free and unticketed, so it gets busy at the front. The canal steps behind the square are the sensible place to sit. Dates shift slightly each year.",
+    goodFor: "families, groups, date",
+    lists: "events, free",
+    source: "kingscross.co.uk what's on, described there as the annual festival returning.",
+  },
+  {
+    ...base, slug: "classic-car-boot-sale-kings-cross",
+    name: "The Classic Car Boot Sale",
+    eventType: "festival", style: "Vintage traders, classic cars and street food",
+    venue: "Granary Square, Lewis Cubitt Square and Coal Drops Yard",
+    startsOn: "", endsOn: "",
+    recurring: "annual", typicalWhen: "Twice a year - a spring edition around April and an autumn one in September",
+    hood: "King's Cross", borough: "Camden", areaGuide: "kings-cross-area-guide",
+    address: "Granary Square and Lewis Cubitt Square", postcode: "N1C 4AB",
+    agePolicy: "all-ages", duration: "A day",
+    pricePerPerson: "Free to browse",
+    bookingRequired: "walk-in", indoorOutdoor: "outdoor",
+    stepFree: "yes",
+    whyGo: "Over a hundred vintage traders and seventy-odd classic cars spread across three King's Cross squares, plus the UK's largest open-air Charity Super.Mkt. It passed its tenth year at King's Cross in 2025.",
+    opSummary: "Runs 10am to 6pm across two days, and happens TWICE a year rather than once - check which edition is next before planning around it.",
+    goodFor: "families, groups, solo",
+    lists: "events, free",
+    source: "kingscross.co.uk and hemingwaydesign.co.uk (the organisers) cross-checked.",
+  },
+  {
+    ...base, slug: "mundo-pixar-wembley",
+    name: "Mundo Pixar Experience",
+    eventType: "exhibition", style: "Walk-through recreations of fourteen Pixar films",
+    venue: "Wembley Park",
+    startsOn: "2026-02-13", endsOn: "2026-11-01",
+    recurring: "", typicalWhen: "",
+    hood: "Wembley", borough: "Brent", areaGuide: "",
+    address: "Fulton Road, Wembley Park", postcode: "HA9 0TF",
+    agePolicy: "family-friendly", duration: "About 90 minutes",
+    pricePerPerson: "Varies; family tickets available",
+    bookingRequired: "required", indoorOutdoor: "indoor",
+    stepFree: "yes",
+    whyGo: "Fourteen Pixar worlds rebuilt at full size across 3,500 square metres - Andy's room from Toy Story at toy scale, the Monsters, Inc. scare floor, Flo's café from Cars. The London run has a room built for it that no other city got.",
+    opSummary: "Closes 1 November 2026 and the organisers say it does not return afterwards. Wembley Park station, then a short walk past the stadium.",
+    goodFor: "families, groups",
+    lists: "events",
+    source: "thewaltdisneycompany.eu and wembleypark.com cross-checked.",
   },
 ];
 

@@ -9,6 +9,11 @@
     "lng": -0.07476,
     "ward": "Haggerston"
   },
+  "activities:alexandra-palace": {
+    "lat": 51.594483,
+    "lng": -0.130502,
+    "ward": "Alexandra Park"
+  },
   "activities:all-saints-margaret-street": {
     "placeId": "ChIJvQcD-iobdkgR2yp0LStCthE",
     "placesName": "All Saints Margaret Street",
@@ -39,6 +44,11 @@
     "lng": -0.07476,
     "ward": "Haggerston"
   },
+  "activities:babylon-park": {
+    "lat": 51.542099,
+    "lng": -0.145066,
+    "ward": "Camden Town"
+  },
   "activities:ballie-ballerson": {
     "placeId": "ChIJN7DLn7ocdkgRAHNTfGExeWY",
     "placesName": "Ballie Ballerson London",
@@ -65,6 +75,11 @@
     "resolvedAddress": "Silk St, London EC2Y 8DS, UK",
     "postcode": "EC2Y 8DS",
     "businessStatus": "OPERATIONAL",
+    "lat": 51.519961,
+    "lng": -0.094103,
+    "ward": "Cripplegate"
+  },
+  "activities:barbican-hall": {
     "lat": 51.519961,
     "lng": -0.094103,
     "ward": "Cripplegate"
@@ -108,6 +123,16 @@
     "lat": 51.481512,
     "lng": -0.145438,
     "ward": "Nine Elms"
+  },
+  "activities:bbc-television-centre-audience": {
+    "lat": 51.511373,
+    "lng": -0.224815,
+    "ward": "White City"
+  },
+  "activities:below-stone-nest": {
+    "lat": 51.513035,
+    "lng": -0.129212,
+    "ward": "St James's"
   },
   "activities:bermondsey-beer-mile": {
     "placeId": "ChIJDcCcYAADdkgRje9mBCEnIvY",
@@ -199,6 +224,10 @@
     "lng": -0.084295,
     "ward": "Hoxton West"
   },
+  "activities:british-airways-arc-olympia": {
+    "lat": 51.496633,
+    "lng": -0.210549
+  },
   "activities:british-library-treasures": {
     "placeId": "ChIJlRMXcDsbdkgRJdsP3nlUkBg",
     "placesName": "The British Library",
@@ -234,6 +263,11 @@
     "lng": -0.151382,
     "ward": "West End"
   },
+  "activities:buckingham-palace-state-rooms": {
+    "lat": 51.50101,
+    "lng": -0.141563,
+    "ward": "St James's"
+  },
   "activities:bunga-90": {
     "placeId": "ChIJl9RNrjQbdkgRCIXEk6cCM6w",
     "placesName": "Bunga 90",
@@ -263,6 +297,11 @@
     "lat": 51.530175,
     "lng": -0.07476,
     "ward": "Haggerston"
+  },
+  "activities:cafe-oto": {
+    "lat": 51.546913,
+    "lng": -0.074947,
+    "ward": "Dalston"
   },
   "activities:cahoots-soho": {
     "placeId": "ChIJ-2mrB9UEdkgReKgh9HDC-7s",
@@ -308,6 +347,11 @@
     "lat": 51.504938,
     "lng": -0.019496,
     "ward": "Canary Wharf"
+  },
+  "activities:canopy-market": {
+    "lat": 51.536042,
+    "lng": -0.123222,
+    "ward": "King's Cross"
   },
   "activities:capital-karts-canary-wharf": {
     "placeId": "ChIJs3YWk2UDdkgRFXGWoJT_Z9M",
@@ -373,6 +417,11 @@
     "lat": 51.502166,
     "lng": -0.126574,
     "ward": "St James's"
+  },
+  "activities:clapham-south-deep-shelter": {
+    "lat": 51.451817,
+    "lng": -0.148209,
+    "ward": "Balham"
   },
   "activities:clays-canary-wharf": {
     "placeId": "ChIJ95-jbIUDdkgR5_CIioovWvU",
@@ -474,6 +523,10 @@
     "lng": -0.133552,
     "ward": "St James's"
   },
+  "activities:crystal-palace-dinosaurs": {
+    "lat": 51.420916,
+    "lng": -0.06736
+  },
   "activities:cutty-sark": {
     "placeId": "ChIJAVlhMIUCdkgRCJEgHVbITq4",
     "placesName": "Cutty Sark",
@@ -495,14 +548,17 @@
     "ward": "Marylebone"
   },
   "activities:david-bowie-youre-not-alone": {
-    "placeId": "ChIJH3HGT9MEdkgRbroiQmCl0Co",
-    "placesName": "Plaque: David Bowie at Trident Studios",
-    "resolvedAddress": "17 St Anne's Ct, London W1F 0BQ, UK",
-    "postcode": "W1F 0BQ",
+    "postcode": "N1C 4DY",
     "businessStatus": "OPERATIONAL",
-    "lat": 51.514446,
-    "lng": -0.134256,
-    "ward": "West End"
+    "lat": 51.537235,
+    "lng": -0.126431,
+    "ward": "King's Cross",
+    "pinned": true
+  },
+  "activities:deen-city-farm": {
+    "lat": 51.410901,
+    "lng": -0.185051,
+    "ward": "Abbey"
   },
   "activities:dennis-severs-house": {
     "placeId": "ChIJf_GVRLEcdkgR6JZu80EMGOs",
@@ -554,6 +610,16 @@
     "lng": -0.115913,
     "ward": "Waterloo & South Bank"
   },
+  "activities:drumsheds": {
+    "lat": 51.610171,
+    "lng": -0.047981,
+    "ward": "Upper Edmonton"
+  },
+  "activities:dulwich-picture-gallery": {
+    "lat": 51.445632,
+    "lng": -0.086723,
+    "ward": "Dulwich Village"
+  },
   "activities:electric-cinema-notting-hill": {
     "placeId": "ChIJoXYg8B0QdkgRg9GdMJtVVh0",
     "placesName": "Electric Cinema",
@@ -574,6 +640,21 @@
     "lng": -0.021688,
     "ward": "Canary Wharf"
   },
+  "activities:eltham-palace": {
+    "lat": 51.448212,
+    "lng": 0.049517,
+    "ward": "Eltham Town & Avery Hill"
+  },
+  "activities:emirates-stadium-tour": {
+    "lat": 51.554293,
+    "lng": -0.108449,
+    "ward": "Arsenal"
+  },
+  "activities:eventim-apollo-hammersmith": {
+    "lat": 51.490693,
+    "lng": -0.224423,
+    "ward": "Hammersmith Broadway"
+  },
   "activities:everyman-screen-on-the-canal": {
     "placeId": "ChIJa1KuCPUbdkgRsneEwWhfUOY",
     "placesName": "Everyman on the Canal",
@@ -583,6 +664,11 @@
     "lat": 51.535583,
     "lng": -0.12771,
     "ward": "St Pancras & Somers Town"
+  },
+  "activities:excel-london": {
+    "lat": 51.508134,
+    "lng": 0.028673,
+    "ward": "Royal Victoria"
   },
   "activities:f1-arcade-london": {
     "placeId": "ChIJq2ACRWsFdkgRJn_lSL81PM4",
@@ -729,6 +815,11 @@
     "lng": -0.068044,
     "ward": "Rye Lane"
   },
+  "activities:freightliners-farm": {
+    "lat": 51.547944,
+    "lng": -0.110645,
+    "ward": "Laycock"
+  },
   "activities:garden-at-120": {
     "placeId": "ChIJt_2vdU0DdkgRNXf_foGN20c",
     "placesName": "The Garden at 120",
@@ -738,6 +829,16 @@
     "lat": 51.512094,
     "lng": -0.08097,
     "postcodeTerminated": 2015
+  },
+  "activities:go-ape-battersea": {
+    "placeId": "ChIJS0jABgsFdkgRrOJEDDwQmfs",
+    "placesName": "Go Ape Battersea Park",
+    "resolvedAddress": "Battersea Park, London SW11 4NJ, UK",
+    "postcode": "SW11 4NJ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.476233,
+    "lng": -0.160801,
+    "ward": "Battersea Park"
   },
   "activities:goboat-canary-wharf": {
     "placeId": "ChIJ88RMJMADdkgROKDD1XMHL88",
@@ -763,6 +864,26 @@
     "placeId": "ChIJGSXeoBkQdkgRU50dAgixBfk",
     "placesName": "Golborne Road",
     "resolvedAddress": "Golborne Rd, London, UK"
+  },
+  "activities:gorilla-circus-kensington-gardens": {
+    "placeId": "ChIJOReEMzEFdkgR8lNp630sUTA",
+    "placesName": "Gorilla Circus Kensington Gardens and The Albert Flying Trapeze School",
+    "resolvedAddress": "Queen's Gate Pl, London SW7 5ET, UK",
+    "postcode": "SW7 5ET",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.501697,
+    "lng": -0.180784,
+    "ward": "Lancaster Gate"
+  },
+  "activities:gorilla-circus-regents-park": {
+    "placeId": "ChIJK_jnfMAadkgRRt8gLQ_bAus",
+    "placesName": "Gorilla Circus Regents Park Flying Trapeze School",
+    "resolvedAddress": "Outer Cir, London NW1 4RT, UK",
+    "postcode": "NW1 4RT",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.530742,
+    "lng": -0.16453,
+    "ward": "Regent's Park"
   },
   "activities:granary-square-fountains": {
     "placeId": "ChIJiTg3sf0bdkgR4jusm4DOBwM",
@@ -819,6 +940,21 @@
     "lng": 0.016003,
     "ward": "Greenwich Peninsula"
   },
+  "activities:guildhall-art-gallery": {
+    "lat": 51.515276,
+    "lng": -0.091906,
+    "ward": "Cheap"
+  },
+  "activities:guinness-open-gate-brewery": {
+    "lat": 51.513003,
+    "lng": -0.125524,
+    "ward": "St James's"
+  },
+  "activities:gunnersbury-triangle": {
+    "lat": 51.494244,
+    "lng": -0.271277,
+    "ward": "Chiswick Gunnersbury"
+  },
   "activities:hackney-city-farm": {
     "placeId": "ChIJvS60MMEcdkgRSMlH5VxD51Y",
     "placesName": "Hackney City Farm",
@@ -839,6 +975,11 @@
     "lng": -0.055469,
     "ward": "Hackney Central"
   },
+  "activities:ham-house": {
+    "lat": 51.44424,
+    "lng": -0.314193,
+    "ward": "Ham, Petersham & Richmond Riverside"
+  },
   "activities:hampstead-bathing-ponds": {
     "placeId": "ChIJHZ9EjWAadkgRq9VgRf2_pX4",
     "placesName": "Mixed Bathing Pond",
@@ -852,6 +993,11 @@
     "placeId": "ChIJN-YJkXsadkgRGje47ILidhI",
     "placesName": "Heath Brow",
     "resolvedAddress": "Heath Brow, London, UK"
+  },
+  "activities:hampton-court-palace": {
+    "lat": 51.403812,
+    "lng": -0.337649,
+    "ward": "Hampton"
   },
   "activities:handel-hendrix-house": {
     "placeId": "ChIJ8TcYbCsFdkgREJn6RlCbKjw",
@@ -912,6 +1058,16 @@
     "lng": -0.080528,
     "ward": "Hoxton East & Shoreditch"
   },
+  "activities:hms-belfast": {
+    "lat": 51.506589,
+    "lng": -0.081461,
+    "ward": "London Bridge & West Bermondsey"
+  },
+  "activities:horniman-museum": {
+    "lat": 51.441131,
+    "lng": -0.060737,
+    "ward": "Forest Hill"
+  },
   "activities:house-party-soho": {
     "placeId": "ChIJI8FtNn0FdkgRZAXyqASXBtY",
     "placesName": "House Party",
@@ -941,6 +1097,11 @@
     "lat": 51.506133,
     "lng": -0.017816,
     "ward": "Canary Wharf"
+  },
+  "activities:imperial-war-museum": {
+    "lat": 51.496009,
+    "lng": -0.108328,
+    "ward": "St George's"
   },
   "activities:isabella-plantation": {
     "placeId": "ChIJk2hzn6sOdkgREL5xoUpp7LQ",
@@ -1002,6 +1163,11 @@
     "lng": -0.188022,
     "ward": "Campden"
   },
+  "activities:kentish-town-city-farm": {
+    "lat": 51.552199,
+    "lng": -0.148549,
+    "ward": "Gospel Oak"
+  },
   "activities:kenwood-house": {
     "placeId": "ChIJTZPtjmkadkgRzYTgxNoj3-Y",
     "placesName": "Kenwood House",
@@ -1022,6 +1188,10 @@
     "placeId": "ChIJoeVVuW8FdkgR0KF2UdkB4rU",
     "placesName": "King's Road",
     "resolvedAddress": "King's Rd, London, UK"
+  },
+  "activities:kingsway-tram-tunnel-tour": {
+    "lat": 51.51802,
+    "lng": -0.11655
   },
   "activities:koko-camden": {
     "placeId": "ChIJP63vNSAbdkgR5gk8mcL7EqQ",
@@ -1103,6 +1273,11 @@
     "lng": -0.140669,
     "postcodeTerminated": 2016
   },
+  "activities:lightroom": {
+    "lat": 51.537235,
+    "lng": -0.126431,
+    "ward": "King's Cross"
+  },
   "activities:lightroom-kings-cross": {
     "placeId": "ChIJH2_ue28bdkgRNIGqJYRltIY",
     "placesName": "Lightroom",
@@ -1138,7 +1313,9 @@
     "placesName": "London Aquatics Centre",
     "resolvedAddress": "Queen Elizabeth Olympic Park, Stratford Cross, London E20 2ZQ, UK",
     "postcode": "E20 2ZQ",
-    "businessStatus": "OPERATIONAL"
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.546305,
+    "lng": -0.010622
   },
   "activities:london-eye": {
     "placeId": "ChIJ45vrx8cEdkgRVltygzVlGDk",
@@ -1159,6 +1336,11 @@
     "lng": -0.062491,
     "ward": "London Fields"
   },
+  "activities:london-museum-docklands": {
+    "lat": 51.507613,
+    "lng": -0.024539,
+    "ward": "Canary Wharf"
+  },
   "activities:london-museum-smithfield": {
     "placeId": "ChIJs0nCdVMbdkgRU4LBLvQaGno",
     "placesName": "St Bartholomew's Hospital Museum",
@@ -1167,6 +1349,11 @@
     "businessStatus": "OPERATIONAL",
     "lat": 51.517751,
     "lng": -0.100379,
+    "ward": "Farringdon Without"
+  },
+  "activities:london-silver-vaults": {
+    "lat": 51.517486,
+    "lng": -0.112915,
     "ward": "Farringdon Without"
   },
   "activities:london-stadium-tour": {
@@ -1198,6 +1385,15 @@
     "lat": 51.515276,
     "lng": -0.091906,
     "ward": "Cheap"
+  },
+  "activities:lords-cricket-ground-tour": {
+    "lat": 51.528546,
+    "lng": -0.173053,
+    "ward": "Abbey Road"
+  },
+  "activities:lower-stable-street-market": {
+    "lat": 51.535684,
+    "lng": -0.123943
   },
   "activities:lucky-voice-soho": {
     "placeId": "ChIJO37rxdQEdkgR-6IuXr0d0Uo",
@@ -1269,6 +1465,11 @@
     "lng": -0.150347,
     "ward": "West End"
   },
+  "activities:mudchute-park-farm": {
+    "lat": 51.491462,
+    "lng": -0.009666,
+    "ward": "Island Gardens"
+  },
   "activities:murder-express": {
     "placeId": "ChIJdbbW0MgcdkgRv9Qh7NViDgE",
     "placesName": "The Murdér Express Part Deux: Jewel Of The Empire",
@@ -1289,6 +1490,11 @@
     "lng": -0.211222,
     "ward": "Notting Dale"
   },
+  "activities:museum-of-comedy": {
+    "lat": 51.517838,
+    "lng": -0.124186,
+    "ward": "Bloomsbury"
+  },
   "activities:museum-of-the-home": {
     "placeId": "ChIJKUrjG7wcdkgRbfTuKDBgWXI",
     "placesName": "Museum of the Home",
@@ -1299,6 +1505,21 @@
     "lng": -0.076244,
     "ward": "Haggerston"
   },
+  "activities:musical-museum-brentford": {
+    "lat": 51.488006,
+    "lng": -0.292342,
+    "ward": "Brentford East"
+  },
+  "activities:national-army-museum": {
+    "lat": 51.486225,
+    "lng": -0.160342,
+    "ward": "Royal Hospital"
+  },
+  "activities:national-gallery": {
+    "lat": 51.509098,
+    "lng": -0.127658,
+    "ward": "St James's"
+  },
   "activities:national-maritime-museum": {
     "placeId": "ChIJs_wmr0cWa0gRHr60qjwn1Mo",
     "placesName": "National Maritime Museum",
@@ -1308,6 +1529,11 @@
     "lat": 51.480285,
     "lng": -0.00602,
     "ward": "Greenwich Park"
+  },
+  "activities:national-portrait-gallery": {
+    "lat": 51.509399,
+    "lng": -0.128453,
+    "ward": "St James's"
   },
   "activities:natural-history-museum": {
     "placeId": "ChIJPy8Y5kIFdkgRxGSXw4Xjt3s",
@@ -1324,6 +1550,11 @@
     "placesName": "Neal's Yard",
     "resolvedAddress": "Neal's Yard, London, UK"
   },
+  "activities:neasden-temple": {
+    "lat": 51.547477,
+    "lng": -0.261385,
+    "ward": "Stonebridge"
+  },
   "activities:nhm-ice-rink": {
     "placeId": "ChIJvWwa4EIFdkgRk6ksnr71U_A",
     "placesName": "Natural History Museum Ice Rink",
@@ -1333,6 +1564,11 @@
     "lat": 51.496564,
     "lng": -0.176868,
     "ward": "Brompton & Hans Town"
+  },
+  "activities:notting-hill-arts-club": {
+    "lat": 51.509176,
+    "lng": -0.194536,
+    "ward": "Campden"
   },
   "activities:nq64-shoreditch": {
     "placeId": "ChIJj1mk1OIddkgRH0R6lDNJM0o",
@@ -1354,6 +1590,11 @@
     "lng": -0.136401,
     "ward": "West End"
   },
+  "activities:o2-academy-brixton": {
+    "lat": 51.465346,
+    "lng": -0.115139,
+    "ward": "Brixton North"
+  },
   "activities:old-operating-theatre": {
     "placeId": "ChIJXRDdrFADdkgRT_s4Gh7ORxg",
     "placesName": "The Old Operating Theatre Museum and Herb Garret",
@@ -1364,6 +1605,20 @@
     "lng": -0.088229,
     "ward": "London Bridge & West Bermondsey"
   },
+  "activities:old-royal-naval-college": {
+    "lat": 51.482186,
+    "lng": -0.007809,
+    "ward": "Greenwich Park"
+  },
+  "activities:olympia-london": {
+    "lat": 51.496633,
+    "lng": -0.210549
+  },
+  "activities:orleans-house-gallery": {
+    "lat": 51.449946,
+    "lng": -0.317681,
+    "ward": "Twickenham Riverside"
+  },
   "activities:outernet-london": {
     "placeId": "ChIJpYgc8KkbdkgRlqCWWIbX_yo",
     "placesName": "Outernet London",
@@ -1373,6 +1628,11 @@
     "lat": 51.515741,
     "lng": -0.129159,
     "ward": "Holborn & Covent Garden"
+  },
+  "activities:ovo-arena-wembley": {
+    "lat": 51.558134,
+    "lng": -0.28282,
+    "ward": "Wembley Park"
   },
   "activities:paddington-basin-bridges": {
     "placeId": "ChIJxzZ6lbMadkgRcV_dHTJLrjY",
@@ -1433,6 +1693,11 @@
     "lat": 51.469831,
     "lng": -0.068044,
     "ward": "Rye Lane"
+  },
+  "activities:peninsula-al-fresco": {
+    "lat": 51.502194,
+    "lng": 0.002819,
+    "ward": "Greenwich Peninsula"
   },
   "activities:peter-harrison-planetarium": {
     "placeId": "ChIJ38Kf-oECdkgRSOE48F3BeGM",
@@ -1555,6 +1820,11 @@
     "resolvedAddress": "London, UK",
     "businessStatus": "OPERATIONAL"
   },
+  "activities:queer-britain": {
+    "lat": 51.535269,
+    "lng": -0.124378,
+    "ward": "King's Cross"
+  },
   "activities:race-across-the-world-city": {
     "placeId": "ChIJqeLSXbIcdkgRqAbi6bi_PEc",
     "placesName": "Liverpool Street",
@@ -1565,6 +1835,11 @@
     "ward": "Bishopsgate"
   },
   "activities:race-across-the-world-west-end": {},
+  "activities:raf-museum-london": {
+    "lat": 51.598946,
+    "lng": -0.238164,
+    "ward": "Colindale North"
+  },
   "activities:regent-street-cinema": {
     "placeId": "ChIJ-RweG9UadkgRQiukRRgQbGs",
     "placesName": "Regent Street Cinema",
@@ -1596,6 +1871,11 @@
     "resolvedAddress": "The Regent's Park, Hanover Gate, London NW1 4NU, UK",
     "postcode": "NW1 4NU",
     "businessStatus": "OPERATIONAL",
+    "lat": 51.528336,
+    "lng": -0.154449,
+    "ward": "Regent's Park"
+  },
+  "activities:regents-park-open-air-theatre": {
     "lat": 51.528336,
     "lng": -0.154449,
     "ward": "Regent's Park"
@@ -1662,6 +1942,26 @@
     "lng": -0.13169,
     "ward": "West End"
   },
+  "activities:rooftop-cinema-club-peckham": {
+    "placeId": "ChIJKRyYqaEDdkgRnF-oYo0hPf0",
+    "placesName": "Rooftop Cinema Club Peckham",
+    "resolvedAddress": "Roof A, Bussey Building, 133 Rye Ln, London SE15 4ST, UK",
+    "postcode": "SE15 4ST",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.469831,
+    "lng": -0.068044,
+    "ward": "Rye Lane"
+  },
+  "activities:rooftop-cinema-club-stratford": {
+    "placeId": "ChIJB52Y_zoddkgROdomIZ5_nGQ",
+    "placesName": "Rooftop Cinema Club Stratford",
+    "resolvedAddress": "Roof East Stratford Multi Storey Car Park, Level 8 Great Eastern Rd, London E15 1XE, UK",
+    "postcode": "E15 1XE",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.541817,
+    "lng": -0.000387,
+    "ward": "Stratford"
+  },
   "activities:rough-trade-east": {
     "placeId": "ChIJNWOBQbYcdkgRwHyVPW3qnIc",
     "placesName": "Rough Trade East",
@@ -1691,6 +1991,11 @@
     "lat": 51.509099,
     "lng": -0.139576,
     "ward": "West End"
+  },
+  "activities:royal-albert-hall-concerts": {
+    "lat": 51.501269,
+    "lng": -0.177516,
+    "ward": "Knightsbridge & Belgravia"
   },
   "activities:royal-albert-hall-tour": {
     "placeId": "ChIJ0XqGIVsFdkgR2S_aNe6c_l4",
@@ -1731,6 +2036,10 @@
     "lng": -0.122654,
     "ward": "St James's"
   },
+  "activities:royal-victoria-dock-bridge": {
+    "lat": 51.507283,
+    "lng": 0.032152
+  },
   "activities:saatchi-gallery": {
     "placeId": "ChIJ97pX3M0EdkgR8YFd4G1GZJ8",
     "placesName": "Saatchi Gallery",
@@ -1740,6 +2049,11 @@
     "lat": 51.490733,
     "lng": -0.158777,
     "ward": "Royal Hospital"
+  },
+  "activities:sands-films-rotherhithe": {
+    "lat": 51.500989,
+    "lng": -0.053787,
+    "ward": "Rotherhithe"
   },
   "activities:science-museum": {
     "placeId": "ChIJP9oAE0MFdkgR3iKGFKZO1SE",
@@ -1791,6 +2105,16 @@
     "lng": -0.125883,
     "ward": "Holborn & Covent Garden"
   },
+  "activities:shacklewell-arms": {
+    "lat": 51.55289,
+    "lng": -0.070354,
+    "ward": "Shacklewell"
+  },
+  "activities:shakespeares-globe": {
+    "lat": 51.508112,
+    "lng": -0.096572,
+    "ward": "Borough & Bankside"
+  },
   "activities:shepherd-market": {
     "placeId": "ChIJpfHK0igFdkgR66lvlSSEvWM",
     "placesName": "Shepherd Market",
@@ -1807,6 +2131,11 @@
     "ward": "Regent's Park"
   },
   "activities:shoreditch-street-art": {},
+  "activities:shreks-adventure": {
+    "lat": 51.501972,
+    "lng": -0.119003,
+    "ward": "Waterloo & South Bank"
+  },
   "activities:sir-john-soanes-museum": {
     "placeId": "ChIJaQQ3lEobdkgRmauadcnji9s",
     "placesName": "Sir John Soane's Museum",
@@ -1838,14 +2167,12 @@
     "ward": "London Bridge & West Bermondsey"
   },
   "activities:sixes-cricket-shoreditch": {
-    "placeId": "ChIJuQrbJBQddkgRe7nFuFZcizg",
-    "placesName": "Sixes Party Cricket Stratford",
-    "resolvedAddress": "Riverside East, Queen Elizabeth Olympic Park, 5 Thornton St, London E20 2AD, UK",
-    "postcode": "E20 2AD",
+    "postcode": "EC2A 3AY",
     "businessStatus": "OPERATIONAL",
-    "lat": 51.538592,
-    "lng": -0.012195,
-    "ward": "Stratford Olympic Park"
+    "lat": 51.526082,
+    "lng": -0.079041,
+    "ward": "Hoxton East & Shoreditch",
+    "pinned": true
   },
   "activities:sky-garden": {
     "placeId": "ChIJgaI8bFIDdkgRhJJqLMxsFdU",
@@ -1871,6 +2198,11 @@
     "placeId": "ChIJkaDW1SwbdkgRwDokRfDt4Zs",
     "placesName": "Soho Square",
     "resolvedAddress": "Soho Square, London, UK"
+  },
+  "activities:somerset-house": {
+    "lat": 51.510734,
+    "lng": -0.116912,
+    "ward": "St James's"
   },
   "activities:south-bank-book-market": {
     "placeId": "ChIJxwt8FlQFdkgRVhyTxAXdopA",
@@ -1902,6 +2234,11 @@
     "lng": -0.1168,
     "ward": "Waterloo & South Bank"
   },
+  "activities:southbank-centre-food-market": {
+    "lat": 51.505768,
+    "lng": -0.1168,
+    "ward": "Waterloo & South Bank"
+  },
   "activities:space-explorers-iss": {
     "placeId": "ChIJcW7KtK4bdkgRtojue0m21Lw",
     "placesName": "Eclipso London – Camden",
@@ -1911,6 +2248,11 @@
     "lat": 51.5393,
     "lng": -0.143218,
     "ward": "Camden Town"
+  },
+  "activities:spitalfields-city-farm": {
+    "lat": 51.521747,
+    "lng": -0.064837,
+    "ward": "Spitalfields & Banglatown"
   },
   "activities:st-dunstan-in-the-east": {
     "placeId": "ChIJbxkx_1EDdkgRLfU_tC9tPb0",
@@ -1942,6 +2284,31 @@
     "lng": -0.124644,
     "ward": "St James's"
   },
+  "activities:st-pauls-cathedral": {
+    "lat": 51.514251,
+    "lng": -0.099141,
+    "ward": "Bread Street"
+  },
+  "activities:stamford-bridge-tour": {
+    "lat": 51.481125,
+    "lng": -0.190273,
+    "ward": "Walham Green"
+  },
+  "activities:stepney-city-farm": {
+    "lat": 51.517138,
+    "lng": -0.042836,
+    "ward": "Stepney Green"
+  },
+  "activities:stereo-covent-garden": {
+    "lat": 51.511632,
+    "lng": -0.121891,
+    "ward": "St James's"
+  },
+  "activities:surrey-docks-farm": {
+    "lat": 51.499818,
+    "lng": -0.033176,
+    "ward": "Surrey Docks"
+  },
   "activities:sutton-house": {
     "placeId": "ChIJUVYS-_wcdkgRXemlWWLNmdA",
     "placesName": "National Trust - Sutton House and Breaker's Yard",
@@ -1972,6 +2339,11 @@
     "lng": -0.143476,
     "ward": "West End"
   },
+  "activities:sydenham-hill-wood": {
+    "lat": 51.434268,
+    "lng": -0.065559,
+    "ward": "Forest Hill"
+  },
   "activities:tate-britain": {
     "placeId": "ChIJvWjCxekEdkgRoCgQVJHZH_U",
     "placesName": "Tate Britain",
@@ -1981,6 +2353,21 @@
     "lat": 51.490871,
     "lng": -0.127181,
     "ward": "Vincent Square"
+  },
+  "activities:tate-modern": {
+    "lat": 51.507618,
+    "lng": -0.099374,
+    "ward": "Borough & Bankside"
+  },
+  "activities:thames-rockets": {
+    "placeId": "ChIJs9QAxccEdkgRq8MF9gkYFvs",
+    "placesName": "Thames Rockets",
+    "resolvedAddress": "Boarding Gate One, The London Eye Millennium Pier, London SE1 7PB, UK",
+    "postcode": "SE1 7PB",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.501972,
+    "lng": -0.119003,
+    "ward": "Waterloo & South Bank"
   },
   "activities:the-100-club": {
     "placeId": "ChIJHyyfXysbdkgRcErjucfOoxE",
@@ -2022,6 +2409,11 @@
     "lng": -0.12137,
     "ward": "Holborn & Covent Garden"
   },
+  "activities:the-london-dungeon": {
+    "lat": 51.501972,
+    "lng": -0.119003,
+    "ward": "Waterloo & South Bank"
+  },
   "activities:the-lookout-8-bishopsgate": {
     "placeId": "ChIJO7VMSFgDdkgRm4r9qHaUBT4",
     "placesName": "The Lookout",
@@ -2031,6 +2423,16 @@
     "lat": 51.514724,
     "lng": -0.082878,
     "ward": "Lime Street"
+  },
+  "activities:the-o2-arena": {
+    "lat": 51.502194,
+    "lng": 0.002819,
+    "ward": "Greenwich Peninsula"
+  },
+  "activities:the-oval-tour": {
+    "lat": 51.482955,
+    "lng": -0.114629,
+    "ward": "Oval"
   },
   "activities:the-photographers-gallery": {
     "placeId": "ChIJ8e-IMtUEdkgRWaAuJKup2GQ",
@@ -2062,6 +2464,11 @@
     "lng": -0.128018,
     "ward": "St James's"
   },
+  "activities:the-view-from-the-shard": {
+    "lat": 51.504963,
+    "lng": -0.087625,
+    "ward": "London Bridge & West Bermondsey"
+  },
   "activities:the-wallace-collection": {
     "placeId": "ChIJczuZfc0adkgRc8X-u3ZiHcE",
     "placesName": "The Wallace Collection",
@@ -2091,6 +2498,31 @@
     "lat": 51.502194,
     "lng": 0.002819,
     "ward": "Greenwich Peninsula"
+  },
+  "activities:tottenham-hotspur-stadium-tour": {
+    "lat": 51.605745,
+    "lng": -0.066367,
+    "ward": "Northumberland Park"
+  },
+  "activities:tower-bridge-exhibition": {
+    "lat": 51.503379,
+    "lng": -0.076553,
+    "ward": "North Bermondsey"
+  },
+  "activities:tower-of-london": {
+    "lat": 51.508275,
+    "lng": -0.076246,
+    "ward": "St Katharine's & Wapping"
+  },
+  "activities:troxy": {
+    "lat": 51.51302,
+    "lng": -0.043978,
+    "ward": "Shadwell"
+  },
+  "activities:twickenham-stadium-tour": {
+    "lat": 51.455086,
+    "lng": -0.340076,
+    "ward": "St Margarets & North Twickenham"
   },
   "activities:undercroft-skate-space": {
     "placeId": "ChIJDY7H1rcEdkgRgkeF8HPADs4",
@@ -2127,6 +2559,11 @@
     "placesName": "Upper Street",
     "resolvedAddress": "Upper St, London, UK"
   },
+  "activities:vauxhall-city-farm": {
+    "lat": 51.48792,
+    "lng": -0.119192,
+    "ward": "Vauxhall"
+  },
   "activities:victoria-and-albert-museum": {
     "placeId": "ChIJw1d-sUMFdkgRH2XN_U0Jt54",
     "placesName": "Victoria and Albert Museum",
@@ -2157,6 +2594,11 @@
     "lng": -0.077969,
     "ward": "Hoxton East & Shoreditch"
   },
+  "activities:walthamstow-wetlands": {
+    "lat": 51.57913,
+    "lng": -0.043754,
+    "ward": "St James"
+  },
   "activities:wapping-thames-path-stairs": {
     "placeId": "ChIJt3YFGuwDdkgRldCZ4joHMxI",
     "placesName": "Wapping Old Stairs East",
@@ -2176,6 +2618,11 @@
     "lat": 51.525898,
     "lng": -0.133918,
     "ward": "Bloomsbury"
+  },
+  "activities:wembley-stadium-tour": {
+    "lat": 51.556694,
+    "lng": -0.279643,
+    "ward": "Wembley Park"
   },
   "activities:westminster-abbey": {
     "placeId": "ChIJLzVDusQEdkgRelObBaL_jto",
@@ -2207,6 +2654,11 @@
     "lng": -0.081451,
     "ward": "London Bridge & West Bermondsey"
   },
+  "activities:wigmore-hall": {
+    "lat": 51.516656,
+    "lng": -0.148262,
+    "ward": "Marylebone"
+  },
   "activities:wiltons-music-hall": {
     "placeId": "ChIJbcQbMTQDdkgRGnjfXht0wPA",
     "placesName": "Wilton's Music Hall",
@@ -2217,6 +2669,11 @@
     "lng": -0.066938,
     "ward": "Whitechapel"
   },
+  "activities:woodberry-wetlands": {
+    "lat": 51.569251,
+    "lng": -0.087064,
+    "ward": "Stamford Hill West"
+  },
   "activities:word-on-the-water": {
     "placeId": "ChIJ16mQBD4bdkgRQ8z5iJUz9fo",
     "placesName": "Word On The Water - The London Bookbarge",
@@ -2226,6 +2683,16 @@
     "lat": 51.535684,
     "lng": -0.123943,
     "postcodeTerminated": 2016
+  },
+  "activities:wwt-london-wetland-centre": {
+    "lat": 51.477141,
+    "lng": -0.235721,
+    "ward": "Barnes"
+  },
+  "activities:young-va": {
+    "lat": 51.527774,
+    "lng": -0.055182,
+    "ward": "Bethnal Green East"
   },
   "activities:zsl-london-zoo": {
     "placeId": "ChIJV_iXMtcadkgRqBI84CY_crE",
@@ -2288,6 +2755,11 @@
     "lng": -0.289967,
     "ward": "Kew"
   },
+  "events:classic-car-boot-sale-kings-cross": {
+    "lat": 51.536498,
+    "lng": -0.125322,
+    "ward": "King's Cross"
+  },
   "events:club-nvrlnd": {},
   "events:diwali-trafalgar-square": {
     "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
@@ -2319,7 +2791,17 @@
     "lng": -0.160801,
     "ward": "Battersea Park"
   },
+  "events:greenwich-fair": {
+    "lat": 51.477346,
+    "lng": -0.000848,
+    "ward": "Greenwich Park"
+  },
   "events:hyde-park-winter-wonderland": {},
+  "events:kings-cross-summer-sounds": {
+    "lat": 51.536498,
+    "lng": -0.125322,
+    "ward": "King's Cross"
+  },
   "events:larger-than-life-wallace-gromit": {},
   "events:london-marathon": {
     "placeId": "ChIJ5ceUoayp2EcRsta6lL3HEHs",
@@ -2342,6 +2824,11 @@
     "ward": "Walbrook"
   },
   "events:luminiscence-westminster-cathedral": {},
+  "events:mundo-pixar-wembley": {
+    "lat": 51.559786,
+    "lng": -0.275847,
+    "ward": "Wembley Park"
+  },
   "events:new-years-eve-fireworks": {
     "placeId": "ChIJEYfH57cEdkgRzWXeq8neKtI",
     "placesName": "Southbank Centre",
@@ -2351,6 +2838,16 @@
     "lat": 51.505768,
     "lng": -0.1168,
     "ward": "Waterloo & South Bank"
+  },
+  "events:north-end-road-summer-festival": {
+    "placeId": "ChIJEdoObpAPdkgRf9IJgDldHNg",
+    "placesName": "North End Road Market",
+    "resolvedAddress": "369 North End Rd, London SW6 1NW, UK",
+    "postcode": "SW6 1NW",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.484136,
+    "lng": -0.201316,
+    "ward": "Lillie"
   },
   "events:notting-hill-carnival": {
     "placeId": "ChIJCZVZvOIPdkgRf_a8ca-4su0",
@@ -2509,6 +3006,55 @@
     "lat": 51.502647,
     "lng": -0.020143,
     "ward": "Canary Wharf"
+  },
+  "hiddenLondon:abbey-road-crossing": {
+    "lat": 51.537192,
+    "lng": -0.183146,
+    "ward": "Abbey Road"
+  },
+  "hiddenLondon:alexandra-ainsworth-estate": {
+    "placeId": "ChIJSRDYsp4adkgRKOuwRRZgHcE",
+    "placesName": "Alexandra & Ainsworth Estate",
+    "resolvedAddress": "90B Rowley Way, London NW8 0SN, UK",
+    "postcode": "NW8 0SN",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.540408,
+    "lng": -0.182355,
+    "ward": "Kilburn"
+  },
+  "hiddenLondon:all-hallows-by-the-tower": {
+    "lat": 51.509331,
+    "lng": -0.079184,
+    "ward": "Tower"
+  },
+  "hiddenLondon:amy-winehouse-camden-square": {
+    "placeId": "ChIJcXealRobdkgRxKYz8c_lb1Y",
+    "placesName": "30 Camden Square",
+    "resolvedAddress": "30 Camden Square, London NW1 9XA, UK",
+    "postcode": "NW1 9XA",
+    "lat": 51.544474,
+    "lng": -0.13147,
+    "ward": "Camden Square"
+  },
+  "hiddenLondon:amy-winehouse-fallen-angel": {
+    "placeId": "ChIJOaBjXEcbdkgR_wxKfdzbJIs",
+    "placesName": "Amy Winehouse mural by JXC",
+    "resolvedAddress": "2 Castlehaven Rd, London NW1 8QU, UK",
+    "postcode": "NW1 8QU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.542099,
+    "lng": -0.145066,
+    "ward": "Camden Town"
+  },
+  "hiddenLondon:amy-winehouse-statue": {
+    "placeId": "ChIJfR2YFOQadkgRkui_JRng7IA",
+    "placesName": "Amy Winehouse Statue",
+    "resolvedAddress": "407 Chalk Farm Rd, Chalk Farm, London NW1 8AH, UK",
+    "postcode": "NW1 8AH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.542339,
+    "lng": -0.147738,
+    "ward": "Camden Town"
   },
   "hiddenLondon:astor-st-james-square": {
     "placeId": "ChIJ4xwRnoQFdkgRo6Yg1Czs3b0",
@@ -2705,14 +3251,12 @@
     "ward": "Cripplegate"
   },
   "hiddenLondon:banksy-piranhas-london-museum": {
-    "placeId": "ChIJaybSt2EcdkgRt_YlAtBGocM",
-    "placesName": "Hang-Up Gallery",
-    "resolvedAddress": "Regent's Canal, 10D Branch Pl, London N1 5PH, UK",
-    "postcode": "N1 5PH",
+    "postcode": "EC1A 9PS",
     "businessStatus": "OPERATIONAL",
-    "lat": 51.537209,
-    "lng": -0.084773,
-    "ward": "Hoxton East & Shoreditch"
+    "lat": 51.519135,
+    "lng": -0.101964,
+    "ward": "Farringdon Without",
+    "pinned": true
   },
   "hiddenLondon:banksy-robbo-rat": {
     "placeId": "ChIJ81xgYAAddkgRBNwLU6FxTWU",
@@ -2735,14 +3279,11 @@
     "ward": "St James's"
   },
   "hiddenLondon:banksy-stargazing-children-bayswater": {
-    "placeId": "ChIJ61ZBM2IbdkgRHMqIAOZ1PT4",
-    "placesName": "Banksy Tesco Kids",
-    "resolvedAddress": "166 Essex Rd, London N1 8NE, UK",
-    "postcode": "N1 8NE",
-    "businessStatus": "OPERATIONAL",
-    "lat": 51.540141,
-    "lng": -0.096331,
-    "ward": "St Mary's & St James'"
+    "resolvedAddress": "Queen's Mews, London W2 4BZ, UK",
+    "postcode": "W2 4BZ",
+    "lat": 51.513318,
+    "lng": -0.189689,
+    "ward": "Bayswater"
   },
   "hiddenLondon:banksy-stargazing-children-centre-point": {
     "placeId": "ChIJE3meifgbdkgRrICKCH8s9eU",
@@ -2793,6 +3334,11 @@
     "lat": 51.471265,
     "lng": -0.169165,
     "ward": "St Mary's"
+  },
+  "hiddenLondon:beatles-rooftop-savile-row": {
+    "lat": 51.510483,
+    "lng": -0.13952,
+    "ward": "West End"
   },
   "hiddenLondon:beckett-paultons-square": {
     "lat": 51.484574,
@@ -2894,6 +3440,11 @@
     "lng": -0.181687,
     "ward": "Queen's Gate"
   },
+  "hiddenLondon:cittie-of-yorke": {
+    "lat": 51.518497,
+    "lng": -0.112585,
+    "ward": "Holborn & Covent Garden"
+  },
   "hiddenLondon:cloth-fair-st-bartholomew": {
     "placeId": "ChIJ82iME1QbdkgRtpGtv-8yDeA",
     "placesName": "St Bartholomew the Great",
@@ -2989,6 +3540,16 @@
     "lng": -0.150444,
     "ward": "West End"
   },
+  "hiddenLondon:dublin-castle-amy-winehouse": {
+    "placeId": "ChIJhx21weAadkgRd0ptN9R0SZI",
+    "placesName": "The Dublin Castle",
+    "resolvedAddress": "94 Parkway, London NW1 7AN, UK",
+    "postcode": "NW1 7AN",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.537415,
+    "lng": -0.145674,
+    "ward": "Camden Town"
+  },
   "hiddenLondon:eliot-cheyne-walk": {
     "placeId": "ChIJu0QEht8FdkgR7FMSiuVZ8_E",
     "placesName": "Blue Plaque: George Eliot",
@@ -3019,10 +3580,25 @@
     "lng": -0.154285,
     "ward": "Marylebone"
   },
+  "hiddenLondon:ferrymans-seat": {
+    "placeId": "ChIJD0vDvqkEdkgREY7jn_R7GXw",
+    "placesName": "The Ferryman's Seat",
+    "resolvedAddress": "London SE1 9DS, UK",
+    "postcode": "SE1 9DS",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.508048,
+    "lng": -0.095912,
+    "ward": "Borough & Bankside"
+  },
   "hiddenLondon:fields-upper-street": {
     "lat": 51.535939,
     "lng": -0.103976,
     "ward": "St Mary's & St James'"
+  },
+  "hiddenLondon:fleabag-cafe": {
+    "lat": 51.560592,
+    "lng": -0.149291,
+    "ward": "Highgate"
   },
   "hiddenLondon:fleming-danvers-street": {
     "placeId": "ChIJzwtTNs4FdkgRuDrksXqsUUY",
@@ -3104,6 +3680,11 @@
     "lng": -0.131599,
     "ward": "St James's"
   },
+  "hiddenLondon:gods-own-junkyard": {
+    "lat": 51.58389,
+    "lng": -0.008111,
+    "ward": "Wood Street"
+  },
   "hiddenLondon:gresley-kings-cross": {
     "lat": 51.534241,
     "lng": -0.121969,
@@ -3125,14 +3706,22 @@
     "ward": "West End"
   },
   "hiddenLondon:harry-potter-australia-house": {
-    "placeId": "ChIJgdcFkY1BdkgR7gaglcbClwE",
-    "placesName": "Gringotts Wizarding Bank",
-    "resolvedAddress": "Leavesden, London, Watford WD25 7LR, UK",
-    "postcode": "WD25 7LR",
+    "postcode": "WC2B 4LA",
     "businessStatus": "OPERATIONAL",
-    "lat": 51.690573,
-    "lng": -0.418456,
-    "ward": "Leavesden"
+    "lat": 51.512917,
+    "lng": -0.115669,
+    "ward": "St James's",
+    "pinned": true
+  },
+  "hiddenLondon:hawley-arms-amy-winehouse": {
+    "placeId": "ChIJd7_CwuMadkgR1iI2gEAlQHs",
+    "placesName": "The Hawley Arms",
+    "resolvedAddress": "2 Castlehaven Rd, London NW1 8QU, UK",
+    "postcode": "NW1 8QU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.542099,
+    "lng": -0.145066,
+    "ward": "Camden Town"
   },
   "hiddenLondon:hendrix-brook-street": {
     "placeId": "ChIJc_wjbisFdkgRS2UapRrswuQ",
@@ -3173,6 +3762,11 @@
     "lat": 51.494512,
     "lng": -0.190693,
     "ward": "Courtfield"
+  },
+  "hiddenLondon:house-of-dreams-museum": {
+    "lat": 51.460361,
+    "lng": -0.079485,
+    "ward": "Goose Green"
   },
   "hiddenLondon:imitation-game-lethaby-holborn": {
     "placeId": "ChIJfbuz9j0bdkgRp1aWryc8HW4",
@@ -3242,6 +3836,17 @@
     "lng": -0.123714,
     "ward": "Vauxhall"
   },
+  "hiddenLondon:kings-cross-light-tunnel": {},
+  "hiddenLondon:kingsman-eggsys-flat-rowley-way": {
+    "placeId": "ChIJSRDYsp4adkgRKOuwRRZgHcE",
+    "placesName": "Alexandra & Ainsworth Estate",
+    "resolvedAddress": "90B Rowley Way, London NW8 0SN, UK",
+    "postcode": "NW8 0SN",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.540408,
+    "lng": -0.182355,
+    "ward": "Kilburn"
+  },
   "hiddenLondon:kingsman-huntsman-savile-row": {
     "placeId": "ChIJrxic8tUEdkgRTL9cRt9ioAs",
     "placesName": "Huntsman & Sons",
@@ -3287,29 +3892,35 @@
     "ward": "Marylebone"
   },
   "hiddenLondon:lock-stock-hatchet-harry-cheshire-street": {
-    "placeId": "ChIJnVImotIEdkgRASe6mZ36UuE",
-    "placesName": "Harmony Sex Shop - Charing Cross Road",
-    "resolvedAddress": "99A Charing Cross Rd, London WC2H 0DP, UK",
-    "postcode": "WC2H 0DP",
+    "postcode": "E2 6EH",
     "businessStatus": "OPERATIONAL",
-    "lat": 51.513616,
-    "lng": -0.129548,
-    "ward": "West End"
+    "lat": 51.523534,
+    "lng": -0.069591,
+    "ward": "Weavers",
+    "pinned": true
   },
   "hiddenLondon:london-mithraeum": {
     "lat": 51.512421,
     "lng": -0.090555,
     "ward": "Cordwainer"
   },
-  "hiddenLondon:love-actually-ema-house": {
-    "placeId": "ChIJYzUwkrcTdkgRWdHt7YVWMK4",
-    "placesName": "Authentic Leadership Associates Ltd",
-    "resolvedAddress": "11 East Ct, Wembley HA0 3QJ, UK",
-    "postcode": "HA0 3QJ",
+  "hiddenLondon:london-stone": {
+    "placeId": "ChIJA6hWLzQDdkgRG_01kVFaYVE",
+    "placesName": "London Stone",
+    "resolvedAddress": "111 Cannon St, London EC4N 5AR, UK",
+    "postcode": "EC4N 5AR",
     "businessStatus": "OPERATIONAL",
-    "lat": 51.565921,
-    "lng": -0.308138,
-    "ward": "Northwick Park"
+    "lat": 51.511567,
+    "lng": -0.089496,
+    "postcodeTerminated": 2016
+  },
+  "hiddenLondon:love-actually-ema-house": {
+    "postcode": "EC2A 4LU",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.52255,
+    "lng": -0.08634,
+    "ward": "Bunhill",
+    "pinned": true
   },
   "hiddenLondon:love-actually-grosvenor-chapel": {
     "placeId": "ChIJTxHIci4FdkgR5yDmVyd8mTM",
@@ -3371,14 +3982,12 @@
     "ward": "West End"
   },
   "hiddenLondon:morris-red-lion-square": {
-    "placeId": "ChIJASYThe2u2EcRj3jF9RCXI38",
-    "placesName": "National Trust - Red House",
-    "resolvedAddress": "Red House, Red House Ln, London, Bexleyheath DA6 8JF, UK",
-    "postcode": "DA6 8JF",
+    "postcode": "WC1R 4QH",
     "businessStatus": "OPERATIONAL",
-    "lat": 51.455562,
-    "lng": 0.129563,
-    "ward": "Crook Log"
+    "lat": 51.51895,
+    "lng": -0.118418,
+    "ward": "Holborn & Covent Garden",
+    "pinned": true
   },
   "hiddenLondon:mozart-ebury-street": {
     "lat": 51.491561,
@@ -3445,6 +4054,21 @@
     "lng": -0.18566,
     "ward": "Queen's Gate"
   },
+  "hiddenLondon:oasis-morning-glory-berwick-street": {
+    "lat": 51.513636,
+    "lng": -0.134736,
+    "ward": "West End"
+  },
+  "hiddenLondon:old-curiosity-shop": {
+    "placeId": "ChIJHTXEqkobdkgRrSBhS4e7I0U",
+    "placesName": "The Old Curiosity Shop",
+    "resolvedAddress": "2es, 13-14 Portsmouth St, London WC2A 2ES, UK",
+    "postcode": "WC2A 2ES",
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "lat": 51.515003,
+    "lng": -0.117298,
+    "ward": "St James's"
+  },
   "hiddenLondon:orwell-lawford-road": {
     "placeId": "ChIJ4xwoA5kbdkgRLuJacimY8as",
     "placesName": "Blue Plaque: George Orwell",
@@ -3460,6 +4084,16 @@
     "lat": 51.512833,
     "lng": -0.201972,
     "ward": "Colville"
+  },
+  "hiddenLondon:paddington-basin-floating-park": {
+    "placeId": "ChIJyb7LkrMadkgRiNEkwIqohQU",
+    "placesName": "Floating Pocket Park",
+    "resolvedAddress": "London W2 1JZ, UK",
+    "postcode": "W2 1JZ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.519559,
+    "lng": -0.172288,
+    "ward": "Hyde Park"
   },
   "hiddenLondon:paddington-chalcot-crescent": {
     "placeId": "ChIJA_xVAQAbdkgRrdgDuMtyknQ",
@@ -3510,6 +4144,11 @@
     "lng": -0.136895,
     "ward": "West End"
   },
+  "hiddenLondon:pink-floyd-animals-battersea": {
+    "lat": 51.479837,
+    "lng": -0.142424,
+    "ward": "Nine Elms"
+  },
   "hiddenLondon:plath-chalcot-square": {
     "placeId": "ChIJlU4866sbdkgRBs3-KpkBVX0",
     "placesName": "Blue Plaque: Sylvia Plath",
@@ -3529,6 +4168,16 @@
     "lat": 51.515969,
     "lng": -0.132176,
     "ward": "West End"
+  },
+  "hiddenLondon:seven-noses-of-soho": {
+    "placeId": "ChIJj1QIeuMbdkgRDQOA_nJMLIw",
+    "placesName": "Admiralty Arch",
+    "resolvedAddress": "The Mall, London SW1A 2WH, UK",
+    "postcode": "SW1A 2WH",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.506749,
+    "lng": -0.128663,
+    "ward": "St James's"
   },
   "hiddenLondon:shad-thames": {
     "placeId": "ChIJFfwg0UUDdkgR3kr97Wa_N6A",
@@ -3565,6 +4214,11 @@
     "lng": -0.027951,
     "ward": "Canary Wharf"
   },
+  "hiddenLondon:slow-horses-slough-house": {
+    "lat": 51.520956,
+    "lng": -0.097823,
+    "ward": "Bunhill"
+  },
   "hiddenLondon:snatch-doug-diamond-store": {
     "placeId": "ChIJj1TOsE0bdkgRbKimIzCD9TU",
     "placesName": "Hatton Garden Diamond | Lab Grown Diamonds And Traditional Mined",
@@ -3595,15 +4249,50 @@
     "lng": -0.066904,
     "ward": "Weavers"
   },
+  "hiddenLondon:spice-girls-wannabe-st-pancras": {
+    "lat": 51.530168,
+    "lng": -0.125381,
+    "ward": "King's Cross"
+  },
   "hiddenLondon:st-alphage-ruins-salters-garden": {
     "lat": 51.51813,
     "lng": -0.092104,
     "ward": "Bassishaw"
   },
+  "hiddenLondon:st-dunstan-west-elizabeth-statue": {
+    "placeId": "ChIJa4fBLgAFdkgRlKSGgNfjNSA",
+    "placesName": "Elizabeth I statue",
+    "resolvedAddress": "186c Fleet St, London EC4A 2HR, UK",
+    "postcode": "EC4A 2HR",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.514255,
+    "lng": -0.109979,
+    "ward": "Farringdon Without"
+  },
+  "hiddenLondon:star-yard-urinal": {
+    "placeId": "ChIJSUIsIwAbdkgR7MtO5vSZX7c",
+    "placesName": "Star Yard",
+    "resolvedAddress": "4 Star Yard, London WC2A 2JL, UK",
+    "postcode": "WC2A 2JL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.515679,
+    "lng": -0.112413,
+    "ward": "Holborn & Covent Garden"
+  },
+  "hiddenLondon:ted-lasso-crown-and-anchor": {
+    "lat": 51.460425,
+    "lng": -0.306571,
+    "ward": "South Richmond"
+  },
   "hiddenLondon:tennyson-upper-belgrave-street": {
     "lat": 51.498554,
     "lng": -0.150595,
     "ward": "Knightsbridge & Belgravia"
+  },
+  "hiddenLondon:the-crown-buckingham-palace": {
+    "lat": 51.482186,
+    "lng": -0.007809,
+    "ward": "Greenwich Park"
   },
   "hiddenLondon:trafalgar-square-smallest-police-station": {
     "placeId": "ChIJdy60VRYFdkgR12e5gnoSjNU",
@@ -3645,6 +4334,11 @@
     "lng": -0.160845,
     "ward": "Royal Hospital"
   },
+  "hiddenLondon:winchester-palace-ruins": {
+    "lat": 51.507218,
+    "lng": -0.091868,
+    "ward": "Borough & Bankside"
+  },
   "hiddenLondon:wodehouse-dunraven-street": {
     "lat": 51.512629,
     "lng": -0.156943,
@@ -3674,6 +4368,11 @@
     "lat": 51.51844,
     "lng": -0.107398,
     "ward": "Holborn & Covent Garden"
+  },
+  "hiddenLondon:ziggy-stardust-heddon-street": {
+    "lat": 51.511127,
+    "lng": -0.139883,
+    "ward": "West End"
   },
   "hotels:aethos-london-shoreditch": {
     "placeId": "ChIJz0-W9q8cdkgR6_lUUo-4o54",
@@ -3766,6 +4465,16 @@
     "ward": "West End"
   },
   "hotels:citizenm-bankside": {
+    "placeId": "ChIJSSCdl6gEdkgRUQoUq3hE_oE",
+    "placesName": "citizenM London Bankside",
+    "resolvedAddress": "20 Lavington St, London SE1 0NZ, UK",
+    "postcode": "SE1 0NZ",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.505254,
+    "lng": -0.099976,
+    "ward": "Borough & Bankside"
+  },
+  "hotels:citizenm-london-olympia": {
     "placeId": "ChIJSSCdl6gEdkgRUQoUq3hE_oE",
     "placesName": "citizenM London Bankside",
     "resolvedAddress": "20 Lavington St, London SE1 0NZ, UK",
@@ -3889,6 +4598,16 @@
     "lat": 51.51,
     "lng": -0.127261,
     "ward": "St James's"
+  },
+  "hotels:hyatt-regency-london-olympia": {
+    "placeId": "ChIJ3VaboQAPdkgRsK-lxDhWm58",
+    "placesName": "Hyatt Regency London Olympia",
+    "resolvedAddress": "7 Olympia Way, London W14 0EY, UK",
+    "postcode": "W14 0EY",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.500628,
+    "lng": -0.217755,
+    "ward": "Addison"
   },
   "hotels:hyatt-regency-stratford": {
     "placeId": "ChIJ5X9O68sddkgRl6Y6PdWJatQ",

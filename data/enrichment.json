@@ -85,7 +85,18 @@
     "walkMin": 3,
     "walkFrom": "Goodge Street Underground Station"
   },
-  "a-bar-with-shapes-for-a-name": {},
+  "a-bar-with-shapes-for-a-name": {
+    "placeId": "ChIJrx4282IddkgRTeHNjFC_CEA",
+    "placesName": "A Bar with Shapes for a Name",
+    "address": "232 Kingsland Rd, Whitmore Estate, London E2 8AX, UK",
+    "postcode": "E2 8AX",
+    "website": "https://www.clubbauhaus.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.535647,
+    "lng": -0.076677,
+    "ward": "Haggerston"
+  },
   "a-wong": {
     "placeId": "ChIJkQhKHeAEdkgRbgw0TGfq-W8",
     "placesName": "A. Wong",
@@ -200,7 +211,18 @@
     "bookingUrl": "https://www.sevenrooms.com/reservations/akub&quot;,",
     "pressChecked": "2026-08-17"
   },
-  "al-boccon-divino": {},
+  "al-boccon-divino": {
+    "placeId": "ChIJQz3ZI0YLdkgRQA_P9iAvHsU",
+    "placesName": "Al Boccon Di' Vino 🇮🇹",
+    "address": "14 Red Lion St, Richmond TW9 1RW, UK",
+    "postcode": "TW9 1RW",
+    "website": "https://www.nonsolovinoltd.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday",
+    "lat": 51.459504,
+    "lng": -0.304489,
+    "ward": "South Richmond"
+  },
   "al-jabal-bakery": {
     "placeId": "ChIJN8vmsMIRdkgRYuWzrbRjpEQ",
     "placesName": "Al-Jabal Bakery",
@@ -237,6 +259,18 @@
     "bookingPlatform": "opentable",
     "bookingUrl": "https://www.alwahalondon.co.uk/",
     "pressChecked": "2026-08-17"
+  },
+  "alain-ducasse-dorchester": {
+    "placeId": "ChIJDaP2Ky4FdkgR7VspCxVWiDk",
+    "placesName": "Alain Ducasse at The Dorchester",
+    "address": "The Dorchester, 53 Park Ln, London W1K 1QA, UK",
+    "postcode": "W1K 1QA",
+    "website": "https://www.dorchestercollection.com/london/the-dorchester/dining/alain-ducasse-at-the-dorchester?utm_source=google&utm_medium=tdl_local_profile&utm_campaign=alain_ducasse&utm_content=london_dining",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday, Monday",
+    "lat": 51.507405,
+    "lng": -0.152471,
+    "ward": "West End"
   },
   "algerian-coffee-stores": {
     "placeId": "ChIJN6ouHdMEdkgRtkZxU06vadA",
@@ -312,6 +346,25 @@
     "bookingUrl": "https://www.allstarlanes.co.uk/book",
     "pressChecked": "2026-08-17"
   },
+  "alley-cats-pizza": {
+    "placeId": "ChIJqdMH284bdkgRrxTVotVWv7Y",
+    "placesName": "Alley Cats Pizza",
+    "address": "22 Paddington St, London W1U 5QY, UK",
+    "postcode": "W1U 5QY",
+    "website": "http://www.alleycatspizza.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.520677,
+    "lng": -0.15522,
+    "ward": "Marylebone",
+    "station": "Baker Street",
+    "stationDistanceM": 353,
+    "walkMin": 6,
+    "walkFrom": "Baker Street Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/alleycatsmarylebone/reservations/create/search/",
+    "pressChecked": "2026-08-17"
+  },
   "alta": {
     "placeId": "ChIJafbmZIkFdkgRqp8wbAgkSaE",
     "placesName": "ALTA Kingly Court",
@@ -351,7 +404,18 @@
     "bookingUrl": "http://www.amaya.biz/reservations/",
     "pressChecked": "2026-08-17"
   },
-  "american-bar-savoy": {},
+  "american-bar-savoy": {
+    "placeId": "ChIJgXiP3MsEdkgRRp0YhagxGsg",
+    "placesName": "AMERICAN BAR",
+    "address": "Strand, London WC2R 0EZ, UK",
+    "postcode": "WC2R 0EZ",
+    "website": "https://www.thesavoylondon.com/restaurant/american-bar/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.510342,
+    "lng": -0.121079,
+    "ward": "St James's"
+  },
   "andys-taverna": {
     "placeId": "ChIJRyzDxB8bdkgRSHoXhUaj5gk",
     "placesName": "Andy’s Greek Taverna",
@@ -448,7 +512,17 @@
     "bookingUrl": "https://anteplilerlondon.co.uk/wp-content/plugins/booking/vendors/_custom/bootstrap-css/css/bootstrap.css?ver=10.15.5",
     "pressChecked": "2026-08-17"
   },
-  "antipodea-richmond": {},
+  "antipodea-richmond": {
+    "placeId": "ChIJAVexfEcMdkgRZPyQaA4ISgQ",
+    "placesName": "Antipodea Richmond",
+    "address": "30 Hill St, Richmond TW9 1TW, UK",
+    "postcode": "TW9 1TW",
+    "website": "http://antipodea.co.uk/richmond/",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "lat": 51.45862,
+    "lng": -0.305515,
+    "ward": "South Richmond"
+  },
   "appalachia": {
     "placeId": "ChIJOZ3OHgAddkgRhLn7uqAk3I0",
     "placesName": "Appalachia",
@@ -524,8 +598,30 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "arome-bakery": {},
-  "artesian": {},
+  "arome-bakery": {
+    "placeId": "ChIJ7Yxgn3EFdkgRUv6ODgfGHew",
+    "placesName": "Arôme Bakery - Mercer Street",
+    "address": "9 Mercer St, London WC2H 9QJ, UK",
+    "postcode": "WC2H 9QJ",
+    "website": "https://aromebakery.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday",
+    "lat": 51.513006,
+    "lng": -0.126273,
+    "ward": "St James's"
+  },
+  "artesian": {
+    "placeId": "ChIJEx8Vq9UadkgRaPTTkQzdmmk",
+    "placesName": "Artesian",
+    "address": "1C Portland Pl, London W1B 1JA, UK",
+    "postcode": "W1B 1JA",
+    "website": "http://www.artesian-bar.co.uk/?utm_source=yext&utm_medium=referral&utm_campaign=yext_profile&y_source=1_MTAxMjgwNTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.517729,
+    "lng": -0.143923,
+    "ward": "Marylebone"
+  },
   "artusi": {
     "rating": 4.7,
     "ratingCount": 1015,
@@ -567,7 +663,18 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "august-bakery": {},
+  "august-bakery": {
+    "placeId": "ChIJ1wGLh_oFdkgRwq_-G4Bkv4U",
+    "placesName": "August Bakery",
+    "address": "4-6a Battersea Rise, London SW11 1ED, UK",
+    "postcode": "SW11 1ED",
+    "website": "https://www.august-bakery.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday",
+    "lat": 51.461175,
+    "lng": -0.162846,
+    "ward": "Lavender"
+  },
   "aun": {
     "placeId": "ChIJR-3oTGMcdkgRoDQRGdy8urs",
     "placesName": "AUN",
@@ -671,7 +778,18 @@
     "bookingUrl": "https://www.sevendialsmarket.com/book-a-table/",
     "pressChecked": "2026-08-17"
   },
-  "badiani": {},
+  "badiani": {
+    "placeId": "ChIJOWQiRBIFdkgRw3N2RsBUpLs",
+    "placesName": "Badiani Gelato Covent Garden",
+    "address": "2 Mercer Walk, London WC2H 9QP, UK",
+    "postcode": "WC2H 9QP",
+    "website": "http://www.badiani1932.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.512765,
+    "lng": -0.125822,
+    "ward": "St James's"
+  },
   "balady": {
     "placeId": "ChIJDYn3G6MQdkgRvyjEaVwVitU",
     "placesName": "Balady",
@@ -689,7 +807,18 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "bamboo-mat-stratford": {},
+  "bamboo-mat-stratford": {
+    "placeId": "ChIJTXB6froddkgRuEaYCnTkgp8",
+    "placesName": "Bamboo-Mat Stratford",
+    "address": "21-24 Victory Parade, East Village, London E20 1FS, UK",
+    "postcode": "E20 1FS",
+    "website": "https://www.bamboo-mat.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.547133,
+    "lng": -0.011563,
+    "ward": "Stratford Olympic Park"
+  },
   "bancone": {
     "website": "https://www.bancone.co.uk/",
     "bookingPlatform": "sevenrooms",
@@ -712,6 +841,18 @@
     "walkMin": 3,
     "walkFrom": "Charing Cross Underground Station",
     "pressChecked": "2026-08-17"
+  },
+  "bang-bang-oriental": {
+    "placeId": "ChIJVVVV4kkRdkgRT9CUiFicvTc",
+    "placesName": "Bang Bang Oriental Foodhall",
+    "address": "399 Edgware Rd, London NW9 0FH, UK",
+    "postcode": "NW9 0FH",
+    "website": "http://www.bangbangoriental.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.593347,
+    "lng": -0.259517,
+    "ward": "Kingsbury"
   },
   "banh-banh": {
     "placeId": "ChIJHZjDqaEDdkgRgbfh2fa10L0",
@@ -743,7 +884,9 @@
     "stationDistanceM": 469,
     "walkMin": 8,
     "walkFrom": "Old Street Underground Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "baoziinn": {
     "placeId": "ChIJvcL6FQAFdkgRFg4LFK4Asp8",
@@ -759,7 +902,18 @@
     "walkMin": 1,
     "walkFrom": "Leicester Square Underground Station"
   },
-  "bar-crispin": {},
+  "bar-crispin": {
+    "placeId": "ChIJE6-tG_gFdkgRkfw9f0Ruknc",
+    "placesName": "Bar Crispin",
+    "address": "19 Kingly St, Carnaby, London W1B 5PY, UK",
+    "postcode": "W1B 5PY",
+    "website": "https://www.crispinlondon.com/bar-crispin",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.512938,
+    "lng": -0.139521,
+    "ward": "West End"
+  },
   "bar-etna": {
     "placeId": "ChIJ4-IK9rEddkgRJ17qx-zJ8Xw",
     "placesName": "Bar Etna",
@@ -818,7 +972,30 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/barkroketabroadgate/reservations/create/search/?date=2025-05-15",
     "pressChecked": "2026-08-17"
   },
-  "bar-termini": {},
+  "bar-shu": {
+    "placeId": "ChIJc8i289IEdkgRdlS2ZozZPAM",
+    "placesName": "Barshu Restaurant",
+    "address": "28 Frith St, London W1D 5LF, UK",
+    "postcode": "W1D 5LF",
+    "website": "http://www.barshurestaurant.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.512827,
+    "lng": -0.13082,
+    "ward": "West End"
+  },
+  "bar-termini": {
+    "placeId": "ChIJ7zNxmNIEdkgR-59PV4KAVhg",
+    "placesName": "Bar Termini",
+    "address": "7 Old Compton St, London W1D 5JE, UK",
+    "postcode": "W1D 5JE",
+    "website": "http://www.bar-termini.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.513672,
+    "lng": -0.12969,
+    "ward": "West End"
+  },
   "barbarella": {
     "website": "https://www.bigmammagroup.com/italian-restaurants/barbarella",
     "bookingPlatform": "sevenrooms, opentable",
@@ -842,7 +1019,18 @@
     "walkFrom": "Canary Wharf Underground Station",
     "pressChecked": "2026-08-17"
   },
-  "barge-east": {},
+  "barge-east": {
+    "placeId": "ChIJh83xPGIddkgRwPm78Tvl47w",
+    "placesName": "Barge East",
+    "address": "River Lee, Sweetwater Mooring, White Post Ln, London E9 5EN, UK",
+    "postcode": "E9 5EN",
+    "website": "https://www.bargeeast.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.542958,
+    "lng": -0.023109,
+    "ward": "Bow East"
+  },
   "barrafina-dean-street": {
     "placeId": "ChIJqeYp3NIEdkgRl9hMI8pRL8U",
     "placesName": "Barrafina Dean Street",
@@ -862,8 +1050,30 @@
     "bookingUrl": "http://www.barrafina.com/book-your-private-event/?location=",
     "pressChecked": "2026-08-17"
   },
-  "beany-green-little-venice": {},
-  "beigel-bake": {},
+  "beany-green-little-venice": {
+    "placeId": "ChIJ4eVgJqwadkgR0KQVJR72cdk",
+    "placesName": "Beany Green - Little Venice",
+    "address": "6C Sheldon Square, London W2 6EZ, UK",
+    "postcode": "W2 6EZ",
+    "website": "https://www.daisygreenfood.com/location-beany-green-little-venice",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.519135,
+    "lng": -0.179728,
+    "ward": "Hyde Park"
+  },
+  "beigel-bake": {
+    "placeId": "ChIJjUgahq0ddkgRDLV2zZrg4ck",
+    "placesName": "Beigel Bake",
+    "address": "159 Brick Ln, London E1 6SB, UK",
+    "postcode": "E1 6SB",
+    "website": "https://www.beigelbake.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "lat": 51.524118,
+    "lng": -0.0717,
+    "ward": "Weavers"
+  },
   "beit-el-zaytoun": {
     "placeId": "ChIJA6xR4OoRdkgR4-UOEEYmmqM",
     "placesName": "Beit el Zaytoun",
@@ -917,7 +1127,9 @@
     "stationDistanceM": 243,
     "walkMin": 4,
     "walkFrom": "Green Park Underground Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "berber-and-q": {
     "placeId": "ChIJp6OY5pUcdkgR_azKFN-fhps",
@@ -990,6 +1202,18 @@
     "bookingPlatform": "opentable",
     "bookingUrl": "https://www.opentable.com/booking/restref/availability?restref=96693",
     "pressChecked": "2026-08-17"
+  },
+  "bertie-blossoms": {
+    "placeId": "ChIJxYVNVGQRdkgRMMB6BvXUyjM",
+    "placesName": "Bertie Blossoms",
+    "address": "323 Portobello Rd, London W10 5SY, UK",
+    "postcode": "W10 5SY",
+    "website": "https://www.bertieblossoms.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday, Monday",
+    "lat": 51.520808,
+    "lng": -0.209514,
+    "ward": "Golborne"
   },
   "berut-bistro": {
     "placeId": "ChIJX4h_BQ0bdkgRjjpa9boAYl4",
@@ -1164,7 +1388,18 @@
     "pressKit": "contact-only",
     "pressChecked": "2026-08-17"
   },
-  "bonoo-indian-tapas": {},
+  "bonoo-indian-tapas": {
+    "placeId": "ChIJ6WzEYoYQdkgRV76e176Wii4",
+    "placesName": "Bonoo Indian Tapas Hampstead",
+    "address": "675 Finchley Rd, London NW2 2JP, UK",
+    "postcode": "NW2 2JP",
+    "website": "http://www.bonoo.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.561422,
+    "lng": -0.197387,
+    "ward": "Childs Hill"
+  },
   "borough-market": {
     "placeId": "ChIJD2bPdVcDdkgRuUSgnOXnKDE",
     "placesName": "Borough Market",
@@ -1202,6 +1437,51 @@
     "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?rid=288510&lang=en-GB&color=1&r3uid=cfe&dark=false&correlationId=a0d5b239-ba08-41c0-99dd-83b83bd7a961&restRef=288510&partySize=2&dateTime=2026-01-18T19:00&otSource=Restaurant%20website",
     "pressChecked": "2026-08-17"
   },
+  "boxhall-city": {
+    "placeId": "ChIJVVUyI3WFdUgRcF-hf3Pbcgo",
+    "placesName": "BOXHALL City",
+    "address": "1-27, The Arcade, Liverpool St, London EC2M 7PN, UK",
+    "postcode": "EC2M 7PN",
+    "website": "https://www.boxhall.co.uk/?utm_medium=organic&utm_source=gbp&utm_campaign=homepage",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.517183,
+    "lng": -0.08201,
+    "ward": "Bishopsgate"
+  },
+  "boxpark-camden": {
+    "placeId": "ChIJx1gomOEadkgRDkN-_n2gwZ8",
+    "placesName": "BOXPARK Camden",
+    "address": "192, 198 Camden High St, London NW1 8QP, UK",
+    "postcode": "NW1 8QP",
+    "website": "https://www.boxpark.co.uk/camden/?utm_medium=organic&utm_source=gbp&utm_campaign=homepage",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.539747,
+    "lng": -0.143013,
+    "ward": "Camden Town"
+  },
+  "boxpark-croydon": {
+    "placeId": "ChIJfd_SMDMHdkgRTiGI7U4HaDE",
+    "placesName": "Boxpark",
+    "address": "Boxpark, 99 George St, Croydon CR0 1LD, UK",
+    "postcode": "CR0 1LD",
+    "lat": 51.374851,
+    "lng": -0.094532,
+    "ward": "Fairfield"
+  },
+  "boxpark-wembley": {
+    "placeId": "ChIJ1WE10xoRdkgRHUIUP3OVu70",
+    "placesName": "BOXPARK Wembley",
+    "address": "Olympic Way, Wembley Park, Wembley HA9 0JT, UK",
+    "postcode": "HA9 0JT",
+    "website": "https://www.boxpark.co.uk/venues/wembley/?utm_medium=organic&utm_source=gbp&utm_campaign=homepage",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.560518,
+    "lng": -0.280393,
+    "ward": "Wembley Park"
+  },
   "brasserie-of-light": {
     "placeId": "ChIJtZ0NZlEFdkgRQ_UgH7iIgEw",
     "placesName": "Brasserie of Light",
@@ -1230,7 +1510,10 @@
     "businessStatus": "OPERATIONAL",
     "closedDays": "None",
     "bookingHint": "no booking route in static HTML - check walk-in",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "lat": 51.524403,
+    "lng": -0.077051,
+    "ward": null
   },
   "brawn": {
     "placeId": "ChIJr0I4YsccdkgRxIajTnwBuUs",
@@ -1288,7 +1571,18 @@
     "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?rid=80215&restref=80215&lang=en-GB&color=8&r3uid=cfe&dark=false&ot_source=Restaurant%20website&logo_pid=77125652&background_pid=0&font=arialBlack&ot_logo=subtle&primary_color=edecff&primary_font_color=333333&button_color=beb29d&button_font_col",
     "pressChecked": "2026-08-17"
   },
-  "bread-street-kitchen-stratford": {},
+  "bread-street-kitchen-stratford": {
+    "placeId": "ChIJZwXq3WUddkgRhLmi8i0FI7w",
+    "placesName": "Bread Street Kitchen, Bar & Rooftop - Stratford",
+    "address": "9 Endeavour Square, Stratford Cross, London E20 1JN, UK",
+    "postcode": "E20 1JN",
+    "website": "https://www.gordonramsayrestaurants.com/bread-street-kitchen/stratford/?utm_source=gmb&utm_medium=uberall&utm_campaign=business_profile",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.542021,
+    "lng": -0.00919,
+    "ward": "Stratford Olympic Park"
+  },
   "breadstall": {
     "postcode": "W1F 0QB",
     "lat": 51.513205,
@@ -1311,7 +1605,18 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "brick-lane-market": {},
+  "brick-lane-market": {
+    "placeId": "ChIJ8e3U57UcdkgRWcNZ5iPdR-g",
+    "placesName": "The Truman Brewery Markets",
+    "address": "Brick Ln, London E1 6QR, UK",
+    "postcode": "E1 6QR",
+    "website": "http://www.bricklanemarket.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "lat": 51.520229,
+    "lng": -0.073104,
+    "ward": "Spitalfields & Banglatown"
+  },
   "brigadiers": {
     "placeId": "ChIJU1e3CVUDdkgRbWhGVEiDv0Y",
     "placesName": "Brigadiers",
@@ -1427,7 +1732,18 @@
     "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid=418572&rid=352215&rid=288186&type=multi&theme=wide&color=8&dark=false&iframe=false&domain=couk&lang=en-GB&newtab=false&ot_source=Restaurant%20website&font=brandonText&ot_logo=standard&primary_color=f0f0e4&primary_font_color=333333&button_colo",
     "pressChecked": "2026-08-17"
   },
-  "bulls-head-barnes": {},
+  "bulls-head-barnes": {
+    "placeId": "ChIJuXb-7lgOdkgRIlUddh4a3MY",
+    "placesName": "Bull's Head",
+    "address": "373 Lonsdale Rd, London SW13 9PY, UK",
+    "postcode": "SW13 9PY",
+    "website": "https://www.thebullsheadbarnes.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.47445,
+    "lng": -0.25057,
+    "ward": "Barnes"
+  },
   "bun-house": {
     "placeId": "ChIJxfwuvtIEdkgRzkGKnK1ssek",
     "placesName": "Bun House Chinatown",
@@ -1672,6 +1988,18 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/campania/reservations/create/search/",
     "pressChecked": "2026-08-17"
   },
+  "canteen-food-hall-greenwich": {
+    "placeId": "ChIJd3qsOc-p2EcRkpwubJ077hs",
+    "placesName": "Canteen Food Hall & Bar",
+    "address": "7 Soames Walk, London SE10 0AX, UK",
+    "postcode": "SE10 0AX",
+    "website": "https://canteenfoodhall.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.500084,
+    "lng": 0.005767,
+    "ward": "Greenwich Peninsula"
+  },
   "canteen-notting-hill": {
     "rating": 4.1,
     "ratingCount": 516,
@@ -1907,7 +2235,18 @@
     "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid=4919",
     "pressChecked": "2026-08-17"
   },
-  "cedric-grolet-berkeley": {},
+  "cedric-grolet-berkeley": {
+    "placeId": "ChIJjeN5I2UFdkgRuHcHKtLFwME",
+    "placesName": "Cedric Grolet at The Berkeley",
+    "address": "Wilton Pl, London SW1X 7RL, UK",
+    "postcode": "SW1X 7RL",
+    "website": "https://www.maybourne.com/en/hotels/the-berkeley/restaurants-bars/cedric-grolet-at-the-berkeley?utm_source=google&utm_medium=organic&utm_campaign=local",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.501924,
+    "lng": -0.156136,
+    "ward": "Knightsbridge & Belgravia"
+  },
   "champagne-fromage-greenwich": {
     "placeId": "ChIJAXMIVMoEdkgRiUMNbYDZAt4",
     "placesName": "Champagne+Fromage",
@@ -1926,7 +2265,18 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "chatsworth-bakehouse": {},
+  "chatsworth-bakehouse": {
+    "placeId": "ChIJMeN-I3oHdkgRhLUN2KN2AqA",
+    "placesName": "Chatsworth Bakehouse",
+    "address": "120a Anerley Rd, London SE19 2AN, UK",
+    "postcode": "SE19 2AN",
+    "website": "http://chatsworthbakehouse.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday, Monday, Tuesday",
+    "lat": 51.416189,
+    "lng": -0.072981,
+    "ward": "Crystal Palace & Anerley"
+  },
   "cheemc-soho": {
     "placeId": "ChIJmVvXllUFdkgRlS7x6wToE4E",
     "placesName": "CheeMC Soho ( ft.Karaoke)",
@@ -1946,6 +2296,18 @@
     "bookingUrl": "https://www.cheemcuk.com/reservations",
     "pressKit": "contact-only",
     "pressChecked": "2026-08-17"
+  },
+  "cheese-barge": {
+    "placeId": "ChIJSUpIyEAbdkgRRj5PgAxTHCE",
+    "placesName": "The Cheese Barge",
+    "address": "Sheldon Square, London W2 6DL, UK",
+    "postcode": "W2 6DL",
+    "website": "http://www.thecheesebar.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.519465,
+    "lng": -0.179542,
+    "ward": "Hyde Park"
   },
   "chets": {
     "placeId": "ChIJ5bIj5skPdkgRTKuLl5SHDcE",
@@ -2003,7 +2365,18 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "chin-chin-ice-cream": {},
+  "chin-chin-ice-cream": {
+    "placeId": "ChIJFZCEVuEadkgRj1ZhijKnjTY",
+    "placesName": "Chin Chin Ice Cream",
+    "address": "Seven Dials Market, 35 Earlham St, London WC2H 9LX, UK",
+    "postcode": "WC2H 9LX",
+    "website": "http://www.chinchinicecream.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.514079,
+    "lng": -0.125883,
+    "ward": "Holborn & Covent Garden"
+  },
   "chinatown-bakery": {
     "placeId": "ChIJPXN_fNIEdkgRg6DhnlDgPMU",
     "placesName": "Chinatown Bakery",
@@ -2019,7 +2392,9 @@
     "stationDistanceM": 59,
     "walkMin": 1,
     "walkFrom": "Leicester Square Underground Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "chinese-tapas-house": {
     "placeId": "ChIJUQm1hc0EdkgRS4F-XHn_wzs",
@@ -2252,6 +2627,21 @@
     "bookingUrl": "https://www.opentable.com/r/clio-restaurant-london",
     "pressChecked": "2026-08-17"
   },
+  "club-mexicana": {
+    "placeId": "ChIJZ5CKaooFdkgR94WiUGx0Hs4",
+    "placesName": "Club Mexicana, Soho",
+    "address": "Kingly Court, Carnaby, London W1B 5PW, UK",
+    "postcode": "W1K 6ZA",
+    "website": "http://clubmexicana.com/",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "lat": 51.513001,
+    "lng": -0.153166,
+    "ward": "West End",
+    "station": "Bond Street",
+    "walkFrom": "Bond Street Underground Station",
+    "stationDistanceM": 269,
+    "walkMin": 4
+  },
   "coal-office": {
     "placeId": "ChIJ1VnckU8bdkgRyBKFAs4NHus",
     "placesName": "Coal Office Restaurant",
@@ -2396,7 +2786,18 @@
     "bookingUrl": "https://comogarden.co.uk/reservation/",
     "pressChecked": "2026-08-17"
   },
-  "connaught-bar": {},
+  "connaught-bar": {
+    "placeId": "ChIJ0aqjLCwFdkgRsvmYeG290jE",
+    "placesName": "The Connaught Bar",
+    "address": "The Connaught, 16 Carlos Pl, London W1K 2AL, UK",
+    "postcode": "W1K 2AL",
+    "website": "https://www.maybourne.com/en/hotels/the-connaught/restaurants-bars/connaught-bar?utm_source=google&utm_medium=organic&utm_campaign=local",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday",
+    "lat": 51.510157,
+    "lng": -0.149607,
+    "ward": "West End"
+  },
   "connies-pizza": {
     "rating": 4.5,
     "ratingCount": 154,
@@ -2477,6 +2878,18 @@
     "pressKit": "https://www.corinthia.com/en-gb/press/",
     "pressChecked": "2026-08-17"
   },
+  "corner-corner": {
+    "placeId": "ChIJi2ZmmiYDdkgR0Fls7OBODjE",
+    "placesName": "Corner Corner",
+    "address": "Maritime St, Canada Water, London SE16 7LL, UK",
+    "postcode": "SE16 7LL",
+    "website": "http://www.cornercorner.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Tuesday",
+    "lat": 51.495399,
+    "lng": -0.046937,
+    "ward": "Rotherhithe"
+  },
   "corrochios": {
     "placeId": "ChIJuVb3Nf4ddkgRsLKQYx8o44c",
     "placesName": "Corrochio's",
@@ -2492,10 +2905,45 @@
     "stationDistanceM": 445,
     "walkMin": 7,
     "walkFrom": "Dalston Kingsland Rail Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
-  "coupette": {},
-  "crate-brewery": {},
+  "coupette": {
+    "placeId": "ChIJ0fVMMcUcdkgRDIJa3lWNd4Y",
+    "placesName": "Coupette",
+    "address": "423 Bethnal Grn Rd, London E2 0AN, UK",
+    "postcode": "E2 0AN",
+    "website": "https://www.coupette.co.uk/coupette-bethnal-green",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "lat": 51.527163,
+    "lng": -0.059504,
+    "ward": "Bethnal Green West"
+  },
+  "crate-brewery": {
+    "placeId": "ChIJz6d5wWwddkgRfjfdJoICDvE",
+    "placesName": "CRATE Bar & Pizzeria Hackney Wick",
+    "address": "Unit 7 Queen's Yard, London E9 5EN, UK",
+    "postcode": "E9 5EN",
+    "website": "http://www.cratebrewery.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.542958,
+    "lng": -0.023109,
+    "ward": "Bow East"
+  },
+  "crate-walthamstow": {
+    "placeId": "ChIJAWOKzB4ddkgREd8sl0p9CIU",
+    "placesName": "Food Hall @ 17&Central",
+    "address": "17&Central, Food Hall @ 17&Central, Selborne Rd, London E17 7JR, UK",
+    "postcode": "E17 7JR",
+    "website": "https://17foodhall.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.583368,
+    "lng": -0.023478,
+    "ward": "High Street"
+  },
   "crisp-at-the-marlborough": {
     "postcode": "W1K 6WD",
     "lat": 51.513407,
@@ -2736,7 +3184,30 @@
     "bookingUrl": "https://www.sevenrooms.com/reservations/diningssw3",
     "pressChecked": "2026-08-17"
   },
-  "diogenes-the-dog": {},
+  "dinner-by-heston-blumenthal": {
+    "placeId": "ChIJRzX0mDkFdkgR-qAx8kL982A",
+    "placesName": "Dinner by Heston Blumenthal",
+    "address": "66 Knightsbridge, London SW1X 7LA, UK",
+    "postcode": "SW1X 7LA",
+    "website": "https://www.mandarinoriental.com/en/london/hyde-park/dine/dinner-by-heston-blumenthal?src=loc.yext.molon.ggl",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Tuesday",
+    "lat": 51.502397,
+    "lng": -0.159935,
+    "ward": "Knightsbridge & Belgravia"
+  },
+  "diogenes-the-dog": {
+    "placeId": "ChIJyXw4TdcDdkgRenNT4AGNrKI",
+    "placesName": "Diogenes The Dog",
+    "address": "96 Rodney Rd, London SE17 1BG, UK",
+    "postcode": "SE17 1BG",
+    "website": "https://www.diogenesthedog.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday",
+    "lat": 51.491512,
+    "lng": -0.091055,
+    "ward": "North Walworth"
+  },
   "dishoom": {
     "placeId": "ChIJxZXYx7cEdkgRdgAOZ6OHOJw",
     "placesName": "Dishoom Covent Garden",
@@ -2755,6 +3226,18 @@
     "bookingPlatform": "sevenrooms",
     "bookingUrl": "https://www.sevenrooms.com/explore/dishoom/reservations/create/search?venues=dishoombattersea%2Cdishoomcarnaby%2Cdishoomcanarywharf%2Cdishoomcoventgarden%2Cdishoomkensington%2Cdishoomkingscross%2Cdishoomshoreditch%2Cdishoombirmingham%2Cdishoomedinburgh%2Cdishoomglasgow%2Cdishoomleeds%2Cdishoommanche",
     "pressChecked": "2026-08-17"
+  },
+  "diwana-bhel-poori-house": {
+    "placeId": "ChIJG4khQiYbdkgR3AHuznzRzRc",
+    "placesName": "Diwana Bhel Poori House",
+    "address": "121, 123 Drummond St, London NW1 2HL, UK",
+    "postcode": "NW1 2HL",
+    "website": "https://www.diwanalondon.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.527074,
+    "lng": -0.136623,
+    "ward": "Regent's Park"
   },
   "doma": {
     "placeId": "ChIJYWWuRm8DdkgRCO3Mm87XfZ8",
@@ -2836,6 +3319,18 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "dragon-castle": {
+    "placeId": "ChIJWwBL554EdkgREPRMjjD-LC8",
+    "placesName": "Dragon Castle",
+    "address": "100 Walworth Rd, London SE17 1JL, UK",
+    "postcode": "SE17 1JL",
+    "website": "https://dragoncastlechinesesouthwark.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.491739,
+    "lng": -0.098363,
+    "ward": "North Walworth"
+  },
   "dream-xian": {
     "placeId": "ChIJp5J81WcDdkgR05rrtbl0i6E",
     "placesName": "Dream Xi’an",
@@ -2875,7 +3370,18 @@
     "pressKit": "contact-only",
     "pressChecked": "2026-08-17"
   },
-  "dukes-bar": {},
+  "dukes-bar": {
+    "placeId": "ChIJLds3OEkFdkgRcYk3My6S59o",
+    "placesName": "Dukes Bar",
+    "address": "35 St James's Pl, London SW1A 1NY, UK",
+    "postcode": "SW1A 1NY",
+    "website": "https://www.dukeshotel.com/dukesbar.html",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday",
+    "lat": 51.505539,
+    "lng": -0.139664,
+    "ward": "St James's"
+  },
   "dumplings-legend": {
     "placeId": "ChIJgXkeTNIEdkgR37iIbxKkXYM",
     "placesName": "Dumplings' Legend",
@@ -2926,7 +3432,18 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "e5-bakehouse": {},
+  "e5-bakehouse": {
+    "placeId": "ChIJs0RsDuYcdkgRZtmvLKMG934",
+    "placesName": "E5 Bakehouse",
+    "address": "396 Mentmore Terrace, London E8 3PH, UK",
+    "postcode": "E8 3PH",
+    "website": "http://e5bakehouse.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.540989,
+    "lng": -0.057661,
+    "ward": "London Fields"
+  },
   "eat-tokyo": {
     "placeId": "ChIJ572PCpwQdkgR_gTaiwG04Kw",
     "placesName": "Eat Tokyo",
@@ -2964,7 +3481,9 @@
     "stationDistanceM": 99,
     "walkMin": 2,
     "walkFrom": "London Liverpool Street Rail Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "el-pastor": {
     "placeId": "ChIJkwBYnFcDdkgRM3NwbxfKzHY",
@@ -3280,6 +3799,30 @@
     "bookingUrl": "https://www.payst.co.uk/books/cook-thai",
     "pressChecked": "2026-08-17"
   },
+  "faulkners": {
+    "placeId": "ChIJiWjX4pMcdkgRv-vZ9ub7_DQ",
+    "placesName": "Faulkners Fish & Chips",
+    "address": "424-426 Kingsland Rd, London E8 4AA, UK",
+    "postcode": "E8 4AA",
+    "website": "http://www.faulknersfishandchips.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.541525,
+    "lng": -0.075939,
+    "ward": "London Fields"
+  },
+  "feng-shang-princess": {
+    "placeId": "ChIJRWQwBeoadkgRvutPloZNcGg",
+    "placesName": "Feng Shang Princess",
+    "address": "Southern Star Cumberland Basin, Prince Albert Rd, London NW1 7SS, UK",
+    "postcode": "NW1 7SS",
+    "website": "http://www.fengshang.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.537298,
+    "lng": -0.151375,
+    "ward": "Regent's Park"
+  },
   "fish-central": {
     "placeId": "ChIJodgyrlkbdkgRpTkiN78fBlc",
     "placesName": "Fish Central",
@@ -3313,21 +3856,33 @@
     "walkMin": 16,
     "walkFrom": "Brixton Underground Station"
   },
+  "flat-iron-square": {
+    "placeId": "ChIJjQgs4acEdkgRQfSEih1EjSw",
+    "placesName": "Flat Iron Square",
+    "address": "45 Southwark St, London SE1 9HP, UK",
+    "postcode": "SE1 9HP",
+    "website": "https://www.flatironsquare.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.504969,
+    "lng": -0.092971,
+    "ward": "Borough & Bankside"
+  },
   "flavour-hubb": {
     "placeId": "ChIJIf6gu5IJdkgRzTQDbWeFh6U",
     "placesName": "Flavour Hubb",
     "address": "136 Merton Rd, London SW19 1EH, UK",
-    "postcode": "SW19 1EH",
+    "postcode": "SW19 4HD",
     "website": "https://flavourhubb.com/",
     "businessStatus": "OPERATIONAL",
     "closedDays": "Monday, Tuesday",
-    "lat": 51.418833,
-    "lng": -0.19328,
-    "ward": "Abbey",
-    "station": "South Wimbledon",
-    "stationDistanceM": 307,
-    "walkMin": 5,
-    "walkFrom": "South Wimbledon Underground Station",
+    "lat": 51.417291,
+    "lng": -0.214137,
+    "ward": "Hillside",
+    "station": "Dundonald Road Tram Stop",
+    "stationDistanceM": 443,
+    "walkMin": 7,
+    "walkFrom": "Dundonald Road Tram Stop",
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
@@ -3373,7 +3928,18 @@
     "bookingUrl": "https://static.parastorage.com/services/table-reservations-ooi/1.2801.0/ReservationAddOnViewerWidget.min.css",
     "pressChecked": "2026-08-17"
   },
-  "fortitude-bakehouse": {},
+  "fortitude-bakehouse": {
+    "placeId": "ChIJVxsH2DAbdkgRONMO5bA31EA",
+    "placesName": "Fortitude Bakehouse",
+    "address": "35 Colonnade, London WC1N 1JD, UK",
+    "postcode": "WC1N 1JD",
+    "website": "http://www.fortitudebakehouse.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.522795,
+    "lng": -0.124329,
+    "ward": "Bloomsbury"
+  },
   "fortnum-and-mason": {
     "placeId": "ChIJ__8_XtYEdkgRtTLtWfASNFg",
     "placesName": "Fortnum & Mason",
@@ -3382,15 +3948,16 @@
     "website": "http://www.fortnumandmason.com/",
     "businessStatus": "OPERATIONAL",
     "closedDays": "None",
-    "lat": 51.524567,
-    "lng": -0.112017,
-    "ward": "Clerkenwell",
-    "station": "Chancery Lane",
-    "stationDistanceM": 641,
-    "walkMin": 10,
-    "walkFrom": "Chancery Lane Underground Station",
+    "lat": 51.5086,
+    "lng": -0.1381,
+    "ward": "St James's",
+    "station": "Green Park",
+    "stationDistanceM": 352,
+    "walkMin": 5,
+    "walkFrom": "Green Park Underground Station",
     "bookingHint": "no booking route in static HTML - check walk-in",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "pinned": true
   },
   "forty-maltby-street": {
     "placeId": "ChIJBb7hqUYDdkgR0EQy_YHb-Oc",
@@ -3443,6 +4010,18 @@
     "bookingUrl": "https://www.opentable.co.uk/restaurant/profile/463200/reserve?rid=463200&restref=463200",
     "pressChecked": "2026-08-17"
   },
+  "fox-and-pheasant": {
+    "placeId": "ChIJcRfgYH0FdkgRSJKO--T2rqs",
+    "placesName": "The Fox and Pheasant",
+    "address": "1 Billing Rd, London SW10 9UJ, UK",
+    "postcode": "SW10 9UJ",
+    "website": "http://www.thefoxandpheasant.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.48207,
+    "lng": -0.188017,
+    "ward": "Redcliffe"
+  },
   "franco-manca": {
     "website": "https://www.francomanca.co.uk/",
     "bookingPlatform": "sevenrooms",
@@ -3450,20 +4029,22 @@
     "rating": 4.5,
     "ratingCount": 2032,
     "googlePriceLevel": "PRICE_LEVEL_MODERATE",
-    "placeId": "ChIJAYMKmmgEdkgRGYjMYNt3-oc",
     "ratingChecked": "2026-08-17",
-    "placesName": "Franco Manca Brixton",
-    "address": "20 Atlantic Rd, London SW9 8JA, UK",
-    "postcode": "SW9 8JA",
-    "businessStatus": "CLOSED_PERMANENTLY",
-    "lat": 51.462623,
-    "lng": -0.113595,
-    "ward": "Brixton Windrush",
-    "station": "Brixton",
-    "stationDistanceM": 148,
-    "walkMin": 2,
-    "walkFrom": "Brixton Underground Station",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "branchNote": "Places resolves this chain to its Brixton branch, which closed permanently in May 2026. Branch-specific location fields were removed by hand on 2026-08-22 so no row inherits a dead address. Re-running enrich.mjs will re-fetch them - check which branch it matched before trusting them.",
+    "placeId": "ChIJlwM6SCsbdkgRNopGxwy14ag",
+    "placesName": "Franco Manca Soho",
+    "address": "51 Berwick St, London W1F 8SJ, UK",
+    "postcode": "W1F 8SJ",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.515457,
+    "lng": -0.136175,
+    "ward": "West End",
+    "station": "Oxford Circus",
+    "stationDistanceM": 410,
+    "walkMin": 7,
+    "walkFrom": "Oxford Circus Underground Station"
   },
   "freej-swaileh": {
     "placeId": "ChIJFxTjcswFdkgRGVmDNsF9QCU",
@@ -3520,8 +4101,42 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "gelupo": {},
-  "ginger-and-white": {},
+  "gauthier-soho": {
+    "placeId": "ChIJP8v1-tIEdkgRAdetOMmCKDg",
+    "placesName": "Gauthier Soho",
+    "address": "21 Romilly St, London W1D 5AF, UK",
+    "postcode": "W1D 5AF",
+    "website": "http://www.gauthiersoho.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday, Monday",
+    "lat": 51.51281,
+    "lng": -0.131484,
+    "ward": "West End"
+  },
+  "gelupo": {
+    "placeId": "ChIJa7y4l9MEdkgRn5riH0uAjyA",
+    "placesName": "Gelupo",
+    "address": "7 Archer St, London W1D 7AU, UK",
+    "postcode": "W1D 7AU",
+    "website": "http://gelupo.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.511541,
+    "lng": -0.133669,
+    "ward": "West End"
+  },
+  "ginger-and-white": {
+    "placeId": "ChIJYc9p6ocadkgRIVlSgDhx3wc",
+    "placesName": "Ginger & White",
+    "address": "4a, 5a Perrin's Ct, London NW3 1QU, UK",
+    "postcode": "NW3 1QU",
+    "website": "http://www.gingerandwhite.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.555549,
+    "lng": -0.178173,
+    "ward": "Hampstead Town"
+  },
   "gloria": {
     "website": "https://www.bigmammagroup.com/italian-restaurants/gloria",
     "bookingPlatform": "sevenrooms, opentable",
@@ -3581,6 +4196,18 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "gold-mine": {
+    "placeId": "ChIJo9_aYFUFdkgRAudTdQFvIxU",
+    "placesName": "Gold Mine",
+    "address": "100-102 Queensway, London W2 3RR, UK",
+    "postcode": "W2 3RR",
+    "website": "https://www.goldminerestaurant.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.51323,
+    "lng": -0.187458,
+    "ward": "Lancaster Gate"
+  },
   "golden-phoenix": {
     "placeId": "ChIJG_ojXdIEdkgROUqxGJsvJG8",
     "placesName": "Golden Phoenix",
@@ -3615,7 +4242,9 @@
     "stationDistanceM": 340,
     "walkMin": 6,
     "walkFrom": "Oxford Circus Underground Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "good-friend-chicken": {
     "placeId": "ChIJf-oJh80EdkgROLGi4ytKhx8",
@@ -3635,11 +4264,31 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "gopals-corner": {},
+  "goods-way-kings-cross": {
+    "placeId": "ChIJ83uKXGUbdkgROCa4I5G9k7I",
+    "placesName": "Goods Way",
+    "address": "11 Goods Way, London N1C 4DP, UK",
+    "postcode": "N1C 4DP",
+    "website": "https://www.goodsway.co.uk/",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "lat": 51.534209,
+    "lng": -0.125604,
+    "ward": "King's Cross"
+  },
+  "gopals-corner": {
+    "placeId": "ChIJ_9Jm7XUFdkgRLwiKJrBIE3g",
+    "placesName": "Gopal's Corner Victoria",
+    "address": "Market Halls, 191 Victoria St, London SW1E 5NE, UK",
+    "postcode": "SW1E 5NE",
+    "website": "http://www.instagram.com/gopalscorner",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.496492,
+    "lng": -0.144138,
+    "ward": "Pimlico North"
+  },
   "graceys-pizza": {
-    "postcode": "WC2H 8AJ",
-    "lat": 51.481512,
-    "lng": -0.145438,
+    "postcode": "SW11 8DD",
     "ward": "Nine Elms",
     "station": "Battersea Power Station",
     "stationDistanceM": 231,
@@ -3648,7 +4297,6 @@
     "rating": 4.6,
     "ratingCount": 145,
     "googlePriceLevel": "PRICE_LEVEL_MODERATE",
-    "placeId": "ChIJffg-LNMbdkgRVERoB_D5_ww",
     "ratingChecked": "2026-08-17",
     "placesName": "Gracey's Pizza",
     "address": "Arcade Food Hall, 103-105 New Oxford St, London WC2H 8AJ, UK",
@@ -3657,7 +4305,9 @@
     "closedDays": "None",
     "bookingPlatform": "sevenrooms",
     "bookingUrl": "https://www.sevenrooms.com/explore/graceyspizza/reservations/create/search/",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "lat": 51.481512,
+    "lng": -0.145438
   },
   "granger-and-co": {
     "placeId": "ChIJK44GY_0PdkgRZqwjZA3l7-w",
@@ -3808,7 +4458,18 @@
     "walkFrom": "Peckham Rye Rail Station",
     "bookingProbe": "HTTP 403"
   },
-  "gujarati-rasoi": {},
+  "gujarati-rasoi": {
+    "placeId": "ChIJXZ20dlcDdkgRpuGSlDNMDTc",
+    "placesName": "Gujarati Rasoi Indian Food",
+    "address": "Kitchen, Borough Market, Jubilee, Winchester Walk, London SE1 9AG, UK",
+    "postcode": "SE1 9AG",
+    "website": "http://gujaratirasoi.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday",
+    "lat": 51.506273,
+    "lng": -0.091288,
+    "ward": "Borough & Bankside"
+  },
   "gymkhana": {
     "placeId": "ChIJtwn55ikFdkgRAvOuPIWeLM0",
     "placesName": "Gymkhana",
@@ -3825,6 +4486,30 @@
     "walkMin": 3,
     "walkFrom": "Green Park Underground Station",
     "bookingProbe": "HTTP 429"
+  },
+  "hackney-bridge": {
+    "placeId": "ChIJd54HB6IddkgRoe6mnIAS614",
+    "placesName": "Hackney Bridge",
+    "address": "Units 1-28, Echo Building, E Bay Ln, London E15 2SJ, UK",
+    "postcode": "E15 2SJ",
+    "website": "http://www.hackneybridge.org/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday",
+    "lat": 51.544647,
+    "lng": -0.021406,
+    "ward": "Hackney Wick"
+  },
+  "hainan-house": {
+    "placeId": "ChIJqaYEwt0FdkgRlvyCvf0sTHE",
+    "placesName": "Hainan house London 海南小馆",
+    "address": "88 Upper St, London N1 0NP, UK",
+    "postcode": "N1 0NP",
+    "website": "https://www.hainanhouse.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.537188,
+    "lng": -0.103333,
+    "ward": "St Mary's & St James'"
   },
   "hakata-ramen-bar": {
     "placeId": "ChIJp1HZnu4DdkgRvTsOY-XpU_4",
@@ -3863,8 +4548,54 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/hakkasanmayfairlondon/reservations/create/search/",
     "pressChecked": "2026-08-17"
   },
-  "half-cut-market": {},
-  "happiness-forgets": {},
+  "half-cut-market": {
+    "placeId": "ChIJQVRgKD4bdkgR-7TCF5Wpsd4",
+    "placesName": "Half Cut Market",
+    "address": "396 York Wy, London N7 9LW, UK",
+    "postcode": "N7 9LW",
+    "website": "http://www.halfcut.world/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday, Monday",
+    "lat": 51.5485,
+    "lng": -0.127944,
+    "ward": "Holloway"
+  },
+  "hamilton-hall": {
+    "placeId": "ChIJFyBBg7IcdkgRy-Vn3JRU950",
+    "placesName": "Hamilton Hall",
+    "address": "Liverpool St, London EC2M 7PY, UK",
+    "postcode": "EC2M 7PY",
+    "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/london/hamilton-hall-city-of-london",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.518073,
+    "lng": -0.082002,
+    "ward": "Bishopsgate"
+  },
+  "happiness-forgets": {
+    "placeId": "ChIJc71T0bocdkgRrt_uEpoLBoE",
+    "placesName": "Happiness Forgets",
+    "address": "8-9 Hoxton Square, London N1 6NU, UK",
+    "postcode": "N1 6NU",
+    "website": "http://www.happinessforgets.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.527781,
+    "lng": -0.081795,
+    "ward": "Hoxton East & Shoreditch"
+  },
+  "harrods-dining-hall": {
+    "placeId": "ChIJaZ3batMFdkgREM_5SzO6ZE4",
+    "placesName": "Harrods Food Halls",
+    "address": "Food Halls, GROUND FLOOR, Harrods, 87-135 Brompton Rd, London SW1X 7XL, UK",
+    "postcode": "SW1X 7XL",
+    "website": "https://www.harrods.com/c/restaurants/dining-hall?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing-harrods-the-deli-food-hall",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.499445,
+    "lng": -0.16321,
+    "ward": "Brompton & Hans Town"
+  },
   "harwood-arms": {
     "placeId": "ChIJYbZdgoUPdkgRrBtAYcMgkBc",
     "placesName": "The Harwood Arms",
@@ -3904,6 +4635,23 @@
     "pressKit": "https://thehawksmoor.com/blog/press/",
     "pressChecked": "2026-08-17"
   },
+  "hawley-wharf-camden": {
+    "placeId": "ChIJocm10eMadkgRiP1A5Za44Og",
+    "placesName": "Hawley Wharf",
+    "address": "Hawley Wharf, London, UK"
+  },
+  "helene-darroze-connaught": {
+    "placeId": "ChIJNdaqLSwFdkgRcp3iqGlL6Ek",
+    "placesName": "Hélène Darroze at The Connaught",
+    "address": "The Connaught, Carlos Pl, London W1K 2AL, UK",
+    "postcode": "W1K 2AL",
+    "website": "https://www.maybourne.com/en/hotels/the-connaught/restaurants-bars/helene-darroze-at-the-connaught?utm_source=google&utm_medium=organic&utm_campaign=local",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday, Monday",
+    "lat": 51.510157,
+    "lng": -0.149607,
+    "ward": "West End"
+  },
   "hiba-express": {
     "placeId": "ChIJ0TnlqDUbdkgRIuduE4YaIPY",
     "placesName": "Hiba Express",
@@ -3919,7 +4667,9 @@
     "stationDistanceM": 121,
     "walkMin": 2,
     "walkFrom": "Holborn Underground Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "hide": {
     "placeId": "ChIJn1DE_XsFdkgR6NyYk4IWd64",
@@ -4092,7 +4842,18 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/hopperssoho/reservations/create/search/?searchTab=group_bookings",
     "pressChecked": "2026-08-17"
   },
-  "horn-ok-please": {},
+  "horn-ok-please": {
+    "placeId": "ChIJIfC0dlcDdkgRNF4k9xmPN_Q",
+    "placesName": "Horn OK Please",
+    "address": "Unit 55, Borough Market Kitchen, Jubilee Pl, Winchester Walk, London SE1 9AG, UK",
+    "postcode": "SE1 9AG",
+    "website": "http://www.hop.st/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday",
+    "lat": 51.506273,
+    "lng": -0.091288,
+    "ward": "Borough & Bankside"
+  },
   "hoxton-beach-falafel": {
     "placeId": "ChIJ8X-QM6gcdkgRJWUOLyihhmo",
     "placesName": "Hoxton Beach Whitecross Street",
@@ -4123,7 +4884,9 @@
     "stationDistanceM": 224,
     "walkMin": 4,
     "walkFrom": "Cutty Sark (for Maritime Greenwich) DLR Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "hummus-bar": {
     "placeId": "ChIJHVnb9pkQdkgRBz4WohT_kO4",
@@ -4199,6 +4962,18 @@
     "bookingPlatform": "sevenrooms",
     "bookingUrl": "https://www.ibai.london/",
     "pressChecked": "2026-08-17"
+  },
+  "icco-pizza": {
+    "placeId": "ChIJNaDQ7ysbdkgRDy6jd1VTylI",
+    "placesName": "ICCO Pizza - Fitzrovia",
+    "address": "46 Goodge St, London W1T 4LU, UK",
+    "postcode": "W1T 4LU",
+    "website": "https://icco.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.519439,
+    "lng": -0.13607,
+    "ward": "Bloomsbury"
   },
   "ikoyi": {
     "placeId": "ChIJkw2CZtEEdkgRgiNBxbdniHE",
@@ -4769,7 +5544,17 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "kateh": {},
+  "kateh": {
+    "placeId": "ChIJiXZx8TgFdkgRgHLsZ8cg-sA",
+    "placesName": "Kateh",
+    "address": "5 Warwick Pl, London W9 2PX, UK",
+    "postcode": "W9 2PX",
+    "website": "http://www.katehrestaurant.co.uk/",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "lat": 51.522102,
+    "lng": -0.183733,
+    "ward": "Little Venice"
+  },
   "kens-fish-bar": {
     "placeId": "ChIJK2-BYHUEdkgR-9mx_hLoWNI",
     "placesName": "Ken’s Fish Bar",
@@ -4788,7 +5573,16 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "kenwood-house-kitchen": {},
+  "kenwood-house-kitchen": {
+    "placeId": "ChIJdXFNBQAbdkgRE0v-gGB5dxI",
+    "placesName": "The Kenwood House Kitchen Garden",
+    "address": "Oak Tree Cottage, Hampstead Ln, London N6 4LL, UK",
+    "postcode": "N6 4LL",
+    "businessStatus": "OPERATIONAL",
+    "lat": 51.572952,
+    "lng": -0.164446,
+    "ward": "Highgate"
+  },
   "khao-so-i": {
     "placeId": "ChIJXyToUgAbdkgRLqd2cZV92MY",
     "placesName": "Khao So-i",
@@ -4896,7 +5690,9 @@
     "stationDistanceM": 78,
     "walkMin": 1,
     "walkFrom": "Notting Hill Gate Underground Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "kismet": {
     "placeId": "ChIJzaByF8wDdkgRXvA2KnGPenA",
@@ -5004,7 +5800,10 @@
     "closedDays": "Sunday, Monday",
     "bookingPlatform": "sevenrooms",
     "bookingUrl": "https://www.sevenrooms.com/reservations/",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "lat": 51.5148,
+    "lng": -0.157187,
+    "ward": null
   },
   "kolae": {
     "placeId": "ChIJawZwMzUDdkgRTmInf-sKA8g",
@@ -5025,7 +5824,18 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/kolae/reservations/create/search?party_size=7&venues=kolae%2Csomsaa",
     "pressChecked": "2026-08-17"
   },
-  "kolkati": {},
+  "kolkati": {
+    "placeId": "ChIJ4fahAQAFdkgRxsfiTxyC2Vo",
+    "placesName": "Kolkati Seven Dials",
+    "address": "Seven Dials, London WC2H 9AU, UK",
+    "postcode": "WC2H 9AU",
+    "website": "http://kolkati.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.513951,
+    "lng": -0.126335,
+    "ward": "Holborn & Covent Garden"
+  },
   "korean-grill-kensington": {
     "placeId": "ChIJmQwdomAFdkgRCau8gCongmQ",
     "placesName": "Korean Grill Kensington",
@@ -5143,7 +5953,10 @@
     "businessStatus": "OPERATIONAL",
     "closedDays": "None",
     "bookingHint": "no booking route in static HTML - check walk-in",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "lat": 51.513486,
+    "lng": -0.136438,
+    "ward": null
   },
   "kurisu-omakase": {
     "placeId": "ChIJEy90jC4FdkgRbDp-IFD2BQA",
@@ -5183,7 +5996,18 @@
     "bookingPlatform": "opentable",
     "bookingUrl": "https://www.waterstones.com/book/yatra/rohit-ghai/9781848994355"
   },
-  "kwant-mayfair": {},
+  "kwant-mayfair": {
+    "placeId": "ChIJ1x7C-XsFdkgRODpYDs4BDUA",
+    "placesName": "Kwãnt Mayfair",
+    "address": "52 Stratton St, London W1J 8LN, UK",
+    "postcode": "W1J 8LN",
+    "website": "http://5coursedrinktastingmenu.square.site/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.507198,
+    "lng": -0.143328,
+    "ward": "West End"
+  },
   "la-chingada": {
     "placeId": "ChIJsSdyeecDdkgRhey5sj7ADB8",
     "placesName": "La Chingada Mexican Food ( Surrey Quays)",
@@ -5238,10 +6062,33 @@
     "stationDistanceM": 168,
     "walkMin": 3,
     "walkFrom": "London Bridge Underground Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
-  "lahore-kebab-house": {},
-  "lahori-nihaari": {},
+  "lahore-kebab-house": {
+    "placeId": "ChIJQz3wNTMDdkgRYiTWfQvnb3M",
+    "placesName": "Lahore Kebab House",
+    "address": "2-10 Umberston St, London E1 1PY, UK",
+    "postcode": "E1 1PY",
+    "website": "http://www.lahore-kebabhouse.com/",
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "lat": 51.514182,
+    "lng": -0.063083,
+    "ward": "Whitechapel"
+  },
+  "lahori-nihaari": {
+    "placeId": "ChIJRU8C6ren2EcRVbeANbHzvKg",
+    "placesName": "Lahori Nihaari London",
+    "address": "50 Plashet Grove, London E6 1AE, UK",
+    "postcode": "E6 1AE",
+    "website": "https://lahorinihaarilondon.shop/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.537003,
+    "lng": 0.036345,
+    "ward": "Green Street East"
+  },
   "langosteria-london": {
     "placeId": "ChIJOTEZLcgFdkgRQes0I3JqnkI",
     "placesName": "Langosteria London",
@@ -5307,7 +6154,18 @@
     "bookingUrl": "http://www.lardo.co.uk/book",
     "pressChecked": "2026-08-17"
   },
-  "layla-bakery": {},
+  "layla-bakery": {
+    "placeId": "ChIJXTm9ihQRdkgRhUkzWtyZCuc",
+    "placesName": "Layla Bakery",
+    "address": "332 Portobello Rd, London W10 5SA, UK",
+    "postcode": "W10 5SA",
+    "website": "https://www.laylabakery.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.521336,
+    "lng": -0.210517,
+    "ward": "Golborne"
+  },
   "le-bab": {
     "placeId": "ChIJk383D9UEdkgReldnHq6ek84",
     "placesName": "Le Bab",
@@ -5444,7 +6302,18 @@
     "pressKit": "contact-only",
     "pressChecked": "2026-08-17"
   },
-  "lily-vanilli": {},
+  "lily-vanilli": {
+    "placeId": "ChIJ4bFDQsccdkgRJNXzmcS51bA",
+    "placesName": "Lily Vanilli Bakery",
+    "address": "The Courtyard, 18 Ezra St, London E2 7RH, UK",
+    "postcode": "E2 7RH",
+    "website": "http://www.lilyvanilli.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "lat": 51.529759,
+    "lng": -0.069688,
+    "ward": "Weavers"
+  },
   "lina-stores": {
     "website": "https://linastores.co.uk/",
     "bookingLead": "walk-in",
@@ -5549,6 +6418,18 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "lore-of-the-land": {
+    "placeId": "ChIJdzJhPHgbdkgRIN-GeZsneZk",
+    "placesName": "Lore of the Land",
+    "address": "4 Conway St, London W1T 6BB, UK",
+    "postcode": "W1T 6BB",
+    "website": "https://gritchiepubs.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.522085,
+    "lng": -0.139609,
+    "ward": "Bloomsbury"
+  },
   "los-mochis-notting-hill": {
     "placeId": "ChIJ9288K1sPdkgRw3jHTv0RSec",
     "placesName": "Los Mochis Notting Hill",
@@ -5609,7 +6490,18 @@
     "bookingUrl": "http://www.sevenrooms.com/reservations/lurramarylebone?venues=lurramarylebone,donostiamarylebone,maset",
     "pressChecked": "2026-08-17"
   },
-  "lyaness": {},
+  "lyaness": {
+    "placeId": "ChIJ5WKTw7EEdkgRRhwij-alVfA",
+    "placesName": "Lyaness",
+    "address": "20 Upper Ground, London SE1 9PD, UK",
+    "postcode": "SE1 9PD",
+    "website": "https://lyaness.com/?utm_source=google&utm_medium=local&utm_campaign=restaurant-lyaness",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.508115,
+    "lng": -0.107264,
+    "ward": "Borough & Bankside"
+  },
   "m-manze": {
     "placeId": "ChIJldPLKF0DdkgR-EAn_HT6mRI",
     "placesName": "M.Manze Tower Bridge",
@@ -5722,7 +6614,17 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "mamasons": {},
+  "mamasons": {
+    "placeId": "ChIJSZ5oe-IadkgRuE05IqQQBxI",
+    "placesName": "Mamasons Dirty Ice Cream",
+    "address": "91 Kentish Town Rd, London NW1 8NY, UK",
+    "postcode": "NW1 8NY",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.5433,
+    "lng": -0.141974,
+    "ward": "Camden Town"
+  },
   "mambow": {
     "placeId": "ChIJyZEVG4YddkgRhZtMxBaAFAw",
     "placesName": "Mambow",
@@ -5741,6 +6643,18 @@
     "bookingPlatform": "opentable",
     "bookingUrl": "https://www.opentable.co.uk/r/mambow-reservations-london?restref=277602&lang=en-GB&ot_source=Restaurant%20website",
     "pressChecked": "2026-08-17"
+  },
+  "mandarin-kitchen": {
+    "placeId": "ChIJk8-P7FUFdkgRlc5ayEMWzrw",
+    "placesName": "Mandarin Kitchen",
+    "address": "14-16 Queensway, London W2 3RX, UK",
+    "postcode": "W2 3RX",
+    "website": "http://mandarin.kitchen/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.510956,
+    "lng": -0.186929,
+    "ward": "Lancaster Gate"
   },
   "mandarin-oriental-tea": {
     "placeId": "ChIJG4IcmDkFdkgR3IYfJhJy-SM",
@@ -5840,6 +6754,42 @@
     "pressKit": "http://www.maresco.co.uk/press",
     "pressChecked": "2026-08-17"
   },
+  "market-halls-canary-wharf": {
+    "placeId": "ChIJWdRllwIDdkgR5VFsTq8Cn_c",
+    "placesName": "Market Halls Cargo Canary Wharf",
+    "address": "25 N Colonnade, Canary Wharf Estate, London E14 5HD, UK",
+    "postcode": "E14 5HD",
+    "website": "https://www.markethalls.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.505703,
+    "lng": -0.020083,
+    "ward": "Canary Wharf"
+  },
+  "market-halls-oxford-street": {
+    "placeId": "ChIJx16ERCYbdkgRGtJ_dVJ3fzM",
+    "placesName": "Market Halls Oxford Street",
+    "address": "9 Holles St, London W1G 0BD, UK",
+    "postcode": "W1G 0BD",
+    "website": "https://www.markethalls.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.515605,
+    "lng": -0.144384,
+    "ward": "West End"
+  },
+  "market-halls-paddington": {
+    "placeId": "ChIJ0fxUtAIbdkgRQQczqhOjoVU",
+    "placesName": "Market Halls Paddington",
+    "address": "1 Paddington Sq, London W2 1DL, UK",
+    "postcode": "W2 1DL",
+    "website": "https://markethalls.co.uk/venue/paddington/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.51642,
+    "lng": -0.175095,
+    "ward": "Hyde Park"
+  },
   "market-halls-victoria": {
     "placeId": "ChIJxRsDM6cFdkgRm8av7yp2uPw",
     "placesName": "Market Halls Victoria",
@@ -5858,6 +6808,18 @@
     "bookingPlatform": "designmynight",
     "bookingUrl": "https://markethalls.co.uk/booking/",
     "pressChecked": "2026-08-17"
+  },
+  "market-place-vauxhall": {
+    "placeId": "ChIJlwuxq3cFdkgRqCnaLJ31lZ8",
+    "placesName": "Market Place Food Hall Vauxhall",
+    "address": "7 S Lambeth Pl, London SW8 1SP, UK",
+    "postcode": "SW8 1SP",
+    "website": "http://www.marketplacelondon.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.485616,
+    "lng": -0.12358,
+    "ward": "Vauxhall"
   },
   "maroush": {
     "placeId": "ChIJY9FazsoadkgRfXJNVhh-dac",
@@ -5884,7 +6846,10 @@
     "businessStatus": "OPERATIONAL",
     "closedDays": "None",
     "bookingHint": "no booking route in static HTML - check walk-in",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "lat": 51.517996,
+    "lng": -0.078402,
+    "ward": null
   },
   "masala-zone": {
     "placeId": "ChIJn-lu1i0FdkgR1vYtPWl85iA",
@@ -5923,6 +6888,17 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressKit": "https://master-wei.com/press/",
     "pressChecked": "2026-08-17"
+  },
+  "masters-superfish": {
+    "placeId": "ChIJjTLFErsEdkgRz-x8WQlZaK0",
+    "placesName": "Masters Superfish",
+    "address": "191 Waterloo Rd, London SE1 8UX, UK",
+    "postcode": "SE1 8UX",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday, Monday",
+    "lat": 51.500722,
+    "lng": -0.107773,
+    "ward": "St George's"
   },
   "maureens-pie-and-mash": {
     "placeId": "ChIJReIKG7MCdkgRGDDbGaGj6A0",
@@ -6060,6 +7036,18 @@
     "bookingUrl": "https://www.opentable.co.uk/restaurant/profile/15445/reserve?rid=15445&#038;restref=15445",
     "pressChecked": "2026-08-17"
   },
+  "metropolis-vauxhall": {
+    "placeId": "ChIJyeyUudUFdkgRyojpz5LI4S8",
+    "placesName": "Metropolis - Vauxhall",
+    "address": "72 Albert Embankment, London SE1 7TP, UK",
+    "postcode": "SE1 7TP",
+    "website": "http://www.metropolisfoodhall.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday",
+    "lat": 51.487956,
+    "lng": -0.123714,
+    "ward": "Vauxhall"
+  },
   "mexican-seoul": {
     "placeId": "ChIJzXZ0VKUddkgRqMoG3LgXTqI",
     "placesName": "Mexican Seoul",
@@ -6075,7 +7063,9 @@
     "stationDistanceM": 920,
     "walkMin": 15,
     "walkFrom": "Mile End Underground Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "meza-tooting": {
     "placeId": "ChIJLZ1vLNwFdkgRn4N1HWxvQZE",
@@ -6096,6 +7086,28 @@
     "bookingUrl": "https://www.resdiary.com/restaurant/meza#booking",
     "pressChecked": "2026-08-17"
   },
+  "michaels-fish-bar": {
+    "placeId": "ChIJr6kh8ogddkgRstkOYE7zvr8",
+    "placesName": "Michael's Fish Bar",
+    "address": "The Pavement, Hainault Rd, London E11 1EG, UK",
+    "postcode": "E11 1EG",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday",
+    "lat": 51.56926,
+    "lng": -0.003397,
+    "ward": "Leytonstone"
+  },
+  "mickeys-chippy": {
+    "placeId": "ChIJb30c1I4cdkgR31uaKM5Cauc",
+    "placesName": "Micky's Chippy",
+    "address": "2 Pellerin Rd, London N16 8AT, UK",
+    "postcode": "N16 8AT",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday",
+    "lat": 51.551767,
+    "lng": -0.077556,
+    "ward": "Shacklewell"
+  },
   "miga": {
     "placeId": "ChIJtUWINwAddkgRZpNHXJfDHaE",
     "placesName": "Miga",
@@ -6113,6 +7125,18 @@
     "walkFrom": "Cambridge Heath (London) Rail Station",
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
+  },
+  "mildreds-soho": {
+    "placeId": "ChIJsclcktQEdkgRixfvZ2ewghM",
+    "placesName": "Mildreds Soho",
+    "address": "45 Lexington St, Carnaby, London W1F 9AN, UK",
+    "postcode": "W1F 9AN",
+    "website": "https://www.mildreds.com/soho/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.513015,
+    "lng": -0.136448,
+    "ward": "West End"
   },
   "milk-balham": {
     "placeId": "ChIJfQx9bc8FdkgR4z0av_DETgs",
@@ -6184,7 +7208,9 @@
     "stationDistanceM": 417,
     "walkMin": 7,
     "walkFrom": "Old Street Underground Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "morito-exmouth-market": {
     "placeId": "ChIJYyZ0cUUbdkgRBQPI-hqAyoI",
@@ -6367,17 +7393,17 @@
     "placeId": "ChIJnQgyBLgDdkgR8g_Vu7LpC04",
     "placesName": "Murger Han City",
     "address": "9-10 Philpot Ln, London EC3M 8AA, UK",
-    "postcode": "EC3M 8AA",
+    "postcode": "NW1 1DA",
     "website": "https://murgerhan.com/",
     "businessStatus": "OPERATIONAL",
     "closedDays": "None",
-    "lat": 51.511032,
-    "lng": -0.084229,
-    "ward": "Bridge",
-    "station": "Monument",
-    "stationDistanceM": 140,
+    "lat": 51.529378,
+    "lng": -0.13278,
+    "ward": "St Pancras & Somers Town",
+    "station": "Euston",
+    "stationDistanceM": 131,
     "walkMin": 2,
-    "walkFrom": "Monument Underground Station",
+    "walkFrom": "Euston Underground Station",
     "bookingPlatform": "own-site",
     "bookingUrl": "https://murgerhan.com/reservations/",
     "pressChecked": "2026-08-17"
@@ -6399,7 +7425,18 @@
     "walkFrom": "Highgate Underground Station",
     "bookingProbe": "fetch failed"
   },
-  "namak-mandi": {},
+  "namak-mandi": {
+    "placeId": "ChIJ_eL3i94FdkgRxXt7vpdq3SM",
+    "placesName": "Namak Mandi",
+    "address": "25 Upper Tooting Rd, Tooting Bec, London SW17 7TS, UK",
+    "postcode": "SW17 7TS",
+    "website": "https://namakmandi.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.435235,
+    "lng": -0.160217,
+    "ward": "Tooting Bec"
+  },
   "napoli-on-the-road": {
     "rating": 4.5,
     "ratingCount": 1872,
@@ -6423,8 +7460,60 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/napoliontheroadsoho/reservations",
     "pressChecked": "2026-08-17"
   },
-  "nardulli": {},
-  "nightjar": {},
+  "napoli-on-the-road-soho": {
+    "placeId": "ChIJH53v1FQFdkgRCLWQP1d7iNM",
+    "placesName": "Napoli on the Road • Soho",
+    "address": "140 Wardour St, London W1F 8ZT, UK",
+    "postcode": "W1F 8ZT",
+    "website": "https://napoliontheroad.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.514567,
+    "lng": -0.134482,
+    "ward": "West End",
+    "station": "Tottenham Court Road",
+    "stationDistanceM": 367,
+    "walkMin": 6,
+    "walkFrom": "Tottenham Court Road Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/napoliontheroadsoho/reservations",
+    "pressChecked": "2026-08-17"
+  },
+  "nardulli": {
+    "placeId": "ChIJe35grVIEdkgRYyOVqJShC3s",
+    "placesName": "Nardulli",
+    "address": "29 The Pavement, London SW4 0JE, UK",
+    "postcode": "SW4 0JE",
+    "website": "http://www.nardulli.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.463028,
+    "lng": -0.140586,
+    "ward": "Clapham Town"
+  },
+  "nautilus-fish": {
+    "placeId": "ChIJvzw3UnwQdkgRGRIIUbxfSHg",
+    "placesName": "Nautilus",
+    "address": "27-29 Fortune Green Rd, London NW6 1DU, UK",
+    "postcode": "NW6 1DU",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.554,
+    "lng": -0.196613,
+    "ward": "Fortune Green"
+  },
+  "nightjar": {
+    "placeId": "ChIJO5NM4aUcdkgR-XrNmE-75f8",
+    "placesName": "Nightjar",
+    "address": "129 City Rd, London EC1V 1JB, UK",
+    "postcode": "EC1V 1JB",
+    "website": "http://www.barnightjar.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.526529,
+    "lng": -0.087687,
+    "ward": "Hoxton West"
+  },
   "nipa-thai": {
     "placeId": "ChIJaW2seFIFdkgRUS2sQMnqPpA",
     "placesName": "Nipa Thai",
@@ -6583,7 +7672,18 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "oddonos": {},
+  "oddonos": {
+    "placeId": "ChIJzbQe_mcFdkgRxF3T4Sqhngo",
+    "placesName": "Oddono's South Kensington",
+    "address": "14 Bute St, South Kensington, London SW7 3EX, UK",
+    "postcode": "SW7 3EX",
+    "website": "http://www.oddonos.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.49372,
+    "lng": -0.176146,
+    "ward": "Brompton & Hans Town"
+  },
   "oklava": {
     "placeId": "ChIJRziMIrAcdkgRNobpZPkl4rU",
     "placesName": "Oklava",
@@ -6781,7 +7881,18 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "oriole": {},
+  "oriole": {
+    "placeId": "ChIJP-efSFIbdkgRnCF-jDmn864",
+    "placesName": "Oriole",
+    "address": "7-9 Slingsby Pl, London WC2E 9AB, UK",
+    "postcode": "WC2E 9AB",
+    "website": "https://www.oriolebar.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday, Monday",
+    "lat": 51.512648,
+    "lng": -0.126374,
+    "ward": "St James's"
+  },
   "ornella": {
     "placeId": "ChIJHZ8Soe4ddkgR7cR8z-wQ1CM",
     "placesName": "Ornella",
@@ -6909,7 +8020,9 @@
     "stationDistanceM": 454,
     "walkMin": 7,
     "walkFrom": "Southwark Underground Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "ozone-coffee": {
     "placeId": "ChIJtczIQ68cdkgR0m45hoeIN8Y",
@@ -7003,10 +8116,10 @@
     "lat": 51.530452,
     "lng": -0.11842,
     "ward": "King's Cross",
-    "station": "King's Cross St. Pancras",
-    "stationDistanceM": 367,
+    "station": "London King's Cross",
+    "stationDistanceM": 355,
     "walkMin": 6,
-    "walkFrom": "King's Cross St. Pancras Underground Station",
+    "walkFrom": "London King's Cross Rail Station",
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
@@ -7047,7 +8160,18 @@
     "pressKit": "https://parkchinois.com/press-enquiries/",
     "pressChecked": "2026-08-17"
   },
-  "parliament-hill-cafe": {},
+  "parliament-hill-cafe": {
+    "placeId": "ChIJ6-S0dPgadkgROsFVlxrHazw",
+    "placesName": "Parliament Hill Café by Daisy Green",
+    "address": "Parliament Hill Fields, Highgate Rd, London NW5 1QR, UK",
+    "postcode": "NW5 1QR",
+    "website": "https://www.daisygreenfood.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.559304,
+    "lng": -0.149747,
+    "ward": "Highgate"
+  },
   "parrillan": {
     "placeId": "ChIJTzuTZmQDdkgRgJ4koROrq9o",
     "placesName": "Parrillan Borough Yards",
@@ -7164,7 +8288,18 @@
     "bookingUrl": "https://www.sevenrooms.com/reservations/pearlliang",
     "pressChecked": "2026-08-17"
   },
-  "pembroke-lodge": {},
+  "pembroke-lodge": {
+    "placeId": "ChIJ03vU7d8NdkgRCIdfXP2Ez4k",
+    "placesName": "Pembroke Lodge",
+    "address": "Richmond TW10 5HX, UK",
+    "postcode": "TW10 5HX",
+    "website": "https://www.pembroke-lodge.co.uk/contact/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.4443,
+    "lng": -0.294101,
+    "ward": "Ham, Petersham & Richmond Riverside"
+  },
   "peninsula-restaurant": {
     "placeId": "ChIJ1QIDabEBdkgRJkSP5dOTQ6M",
     "placesName": "Peninsula Greenwich (Indian,Srilankan & Malaysian Restaurant)",
@@ -7183,6 +8318,18 @@
     "bookingPlatform": "own-site",
     "bookingUrl": "https://peninsula-london.co.uk/reservation/",
     "pressChecked": "2026-08-17"
+  },
+  "pergola-on-the-wharf": {
+    "placeId": "ChIJGZCpa_4DdkgRhp_45r0lcTs",
+    "placesName": "Pergola on the Wharf",
+    "address": "Crossrail Pl, Canary Wharf Estate, London E14 5AR, UK",
+    "postcode": "E14 5AR",
+    "website": "https://www.pergolacanarywharf.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.506133,
+    "lng": -0.017816,
+    "ward": "Canary Wharf"
   },
   "perilla": {
     "placeId": "ChIJb4SGhIYcdkgRCs6Uoj5lazI",
@@ -7218,7 +8365,9 @@
     "stationDistanceM": 1808,
     "walkMin": 29,
     "walkFrom": "Richmond Underground Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "pick-and-cheese": {
     "placeId": "ChIJNyR2xTUFdkgRrrRHNhDzuTY",
@@ -7337,6 +8486,18 @@
     "bookingUrl": "https://www.sevenrooms.com/reservations/planque",
     "pressChecked": "2026-08-17"
   },
+  "plates-london": {
+    "placeId": "ChIJ8UUT9LscdkgRUpwod2WlxEg",
+    "placesName": "Plates Restaurant & Food Studio",
+    "address": "320 Old St, London EC1V 9DR, UK",
+    "postcode": "EC1V 9DR",
+    "website": "https://plates-london.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday, Monday, Tuesday",
+    "lat": 51.5266,
+    "lng": -0.081586,
+    "ward": "Hoxton East & Shoreditch"
+  },
   "plaza-khao-gaeng": {
     "placeId": "ChIJvQutyiMbdkgRH9iuZGcbIvY",
     "placesName": "Plaza Khao Gaeng Tottenham Court Road",
@@ -7349,9 +8510,9 @@
     "lng": -0.129467,
     "ward": "Holborn & Covent Garden",
     "station": "Tottenham Court Road",
-    "stationDistanceM": 109,
+    "stationDistanceM": 105,
     "walkMin": 2,
-    "walkFrom": "Tottenham Court Road Underground Station",
+    "walkFrom": "Tottenham Court Road",
     "bookingPlatform": "sevenrooms",
     "bookingUrl": "https://www.sevenrooms.com/explore/plazakhaogaengcoventgarden/reservations/create/search?date=2026-05-05&#038;venues=plazakhaogaengborough%2Cplazakhaogaengcoventgarden",
     "pressChecked": "2026-08-17"
@@ -7394,8 +8555,30 @@
     "bookingUrl": "https://www.opentable.co.uk/widget/reservation/loader?rid=288222&type=standard&theme=standard&color=1&dark=false&iframe=true&domain=couk&lang=en-GB&newtab=false&ot_source=Restaurant%20website&cfe=true)",
     "pressChecked": "2026-08-17"
   },
-  "polo-bar": {},
-  "pophams-bakery": {},
+  "polo-bar": {
+    "placeId": "ChIJM2nE97IcdkgRR7nvciwgIWY",
+    "placesName": "Polo Bar - 24 Hour Great British Cafe",
+    "address": "176 Bishopsgate, London EC2M 4NQ, UK",
+    "postcode": "EC2M 4NQ",
+    "website": "https://polobar.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "lat": 51.517456,
+    "lng": -0.080053,
+    "ward": "Bishopsgate"
+  },
+  "pophams-bakery": {
+    "placeId": "ChIJ6ah3ZWAbdkgRnIohEE0UryM",
+    "placesName": "Pophams",
+    "address": "19 Prebend St, London N1 8PF, UK",
+    "postcode": "N1 8PF",
+    "website": "http://www.pophamsbakery.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.536683,
+    "lng": -0.096605,
+    "ward": "St Mary's & St James'"
+  },
   "popolo-shoreditch": {
     "rating": 4.4,
     "ratingCount": 810,
@@ -7436,6 +8619,18 @@
     "bookingPlatform": "sevenrooms",
     "bookingUrl": "https://poppiesfishandchips.co.uk/reservations/",
     "pressChecked": "2026-08-17"
+  },
+  "porte-noire": {
+    "placeId": "ChIJDeThslcbdkgR3XYUBKnHw7M",
+    "placesName": "Porte Noire Kings Cross",
+    "address": "Gasholder 10, A, 1 Lewis Cubitt Walk, London N1C 4BX, UK",
+    "postcode": "N1C 4BX",
+    "website": "http://www.portenoire.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.53669,
+    "lng": -0.127232,
+    "ward": "King's Cross"
   },
   "prospect-of-whitby": {
     "placeId": "ChIJDZPR4SgDdkgR2_djyaGslOM",
@@ -7657,9 +8852,22 @@
     "stationDistanceM": 183,
     "walkMin": 3,
     "walkFrom": "Leicester Square Underground Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
-  "rasa-stoke-newington": {},
+  "rasa-stoke-newington": {
+    "placeId": "ChIJ5YzX_WMcdkgRMu9XceGWvpk",
+    "placesName": "Rasa N16",
+    "address": "55 Stoke Newington Church St, London N16 0AR, UK",
+    "postcode": "N16 0AR",
+    "website": "http://rasarestaurants.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday",
+    "lat": 51.562056,
+    "lng": -0.076531,
+    "ward": "Stoke Newington"
+  },
   "red-lion-and-sun": {
     "placeId": "ChIJ2yaCKk8adkgRTT3QOxE-aLs",
     "placesName": "The Red Lion & Sun",
@@ -7712,6 +8920,37 @@
     "walkMin": 9,
     "walkFrom": "Pimlico Underground Station",
     "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
+  },
+  "restaurant-gordon-ramsay": {
+    "placeId": "ChIJkUBQqPAFdkgRtPhH7EIvzJU",
+    "placesName": "Restaurant Gordon Ramsay",
+    "address": "68 Royal Hospital Rd, London SW3 4HP, UK",
+    "postcode": "SW3 4HP",
+    "website": "https://www.gordonramsayrestaurants.com/restaurant-gordon-ramsay/?utm_source=gmb&utm_medium=uberall&utm_campaign=business_profile",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday, Monday",
+    "lat": 51.485576,
+    "lng": -0.161923,
+    "ward": "Royal Hospital"
+  },
+  "rias-notting-hill": {
+    "placeId": "ChIJFf8shMgRdkgRlgj1_gNnq6Y",
+    "placesName": "Ria's",
+    "address": "29 All Saints Rd, London W11 1HE, UK",
+    "postcode": "W11 1HE",
+    "website": "https://www.rias.world/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.51839,
+    "lng": -0.204319,
+    "ward": "Colville",
+    "station": "Westbourne Park",
+    "stationDistanceM": 401,
+    "walkMin": 7,
+    "walkFrom": "Westbourne Park Underground Station",
+    "bookingPlatform": "sevenrooms",
+    "bookingUrl": "https://www.sevenrooms.com/explore/riasnottinghill/reservations/create/search/?venues=riasnottinghill%2Criassoho",
     "pressChecked": "2026-08-17"
   },
   "richard-hawards-oysters": {
@@ -7789,7 +9028,9 @@
     "stationDistanceM": 200,
     "walkMin": 3,
     "walkFrom": "Shoreditch High Street Rail Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "rock-and-sole-plaice": {
     "placeId": "ChIJ6wsgLTMbdkgRObEIyzQf10g",
@@ -7956,6 +9197,25 @@
     "bookingUrl": "https://www.royalchinagroup.co.uk/reservation",
     "pressChecked": "2026-08-17"
   },
+  "rudys-pizza-napoletana": {
+    "placeId": "ChIJIYHXYKMFdkgRuY7lFulwfz8",
+    "placesName": "Rudy's Pizza Napoletana",
+    "address": "80 Wardour St, London W1F 0TF, UK",
+    "postcode": "W1F 0TF",
+    "website": "https://www.rudyspizza.co.uk/pizzerias/soho",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.513266,
+    "lng": -0.133526,
+    "ward": "West End",
+    "station": "Piccadilly Circus",
+    "stationDistanceM": 333,
+    "walkMin": 5,
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.rudyspizza.co.uk/book-now",
+    "pressChecked": "2026-08-17"
+  },
   "sabor": {
     "placeId": "ChIJoXHzltUEdkgRc7QLGWRren0",
     "placesName": "Sabor",
@@ -7976,7 +9236,18 @@
     "pressKit": "contact-only",
     "pressChecked": "2026-08-17"
   },
-  "sager-and-wilde": {},
+  "sager-and-wilde": {
+    "placeId": "ChIJyw9JNL8cdkgRGZ-M1ysKKk4",
+    "placesName": "Sager + Wilde",
+    "address": "193 Hackney Rd, London E2 8JL, UK",
+    "postcode": "E2 8JL",
+    "website": "https://www.sagerandwilde.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.530595,
+    "lng": -0.073531,
+    "ward": "Haggerston"
+  },
   "sagye": {
     "placeId": "ChIJp4CCWMgDdkgRvD94-cfch54",
     "placesName": "Sagye - Canary Wharf",
@@ -8015,7 +9286,18 @@
     "bookingUrl": "https://www.opentable.co.uk/r/sale-e-pepe-mare-reservations-london?restref=423816&lang=en-GB&ot_source=Restaurant%20website",
     "pressChecked": "2026-08-17"
   },
-  "salloos": {},
+  "salloos": {
+    "placeId": "ChIJk8aTSjoFdkgRL5VQKVye6aU",
+    "placesName": "Salloos",
+    "address": "62-64 Kinnerton St, London SW1X 8ER, UK",
+    "postcode": "SW1X 8ER",
+    "website": "https://salloos.co.uk/#utm_source=GMBlisting&utm_medium=Organic&utm_campaign=Website",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday",
+    "lat": 51.501874,
+    "lng": -0.156974,
+    "ward": "Knightsbridge & Belgravia"
+  },
   "salt-yard": {
     "placeId": "ChIJqRED6isbdkgRCT80mnwGaVU",
     "placesName": "Salt Yard",
@@ -8058,7 +9340,18 @@
     "bookingUrl": "https://booking.resdiary.com/widget/Standard/SantaMariaPaddington/59017",
     "pressChecked": "2026-08-17"
   },
-  "santi-east-village": {},
+  "santi-east-village": {
+    "placeId": "ChIJN-tI43oddkgRVRx3nWXx1jE",
+    "placesName": "Santi",
+    "address": "42-45 Victory Parade, East Village, London E20 1FS, UK",
+    "postcode": "E20 1FS",
+    "website": "http://www.santirestaurant.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.547133,
+    "lng": -0.011563,
+    "ward": "Stratford Olympic Park"
+  },
   "santo-remedio": {
     "placeId": "ChIJnVPRUqUcdkgRcLgam6bOw94",
     "placesName": "Santo Remedio - Asador, London Bridge",
@@ -8077,7 +9370,18 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "saravanaa-bhavan": {},
+  "saravanaa-bhavan": {
+    "placeId": "ChIJ7wWM-s0EdkgRE4IB5PjkRZc",
+    "placesName": "NK Arya Bhavan - South Indian Pure Vegetarian Restaurant Central London",
+    "address": "17 Charing Cross Rd, London WC2H 0EP, UK",
+    "postcode": "WC2H 0EP",
+    "website": "https://nkaryabhavan.com/central-london/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.510023,
+    "lng": -0.128658,
+    "ward": "St James's"
+  },
   "sarvs-slice": {
     "postcode": "W5 5FA",
     "lat": 51.512204,
@@ -8100,9 +9404,42 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "satans-whiskers": {},
-  "scarfes-bar": {},
-  "seed-library": {},
+  "satans-whiskers": {
+    "placeId": "ChIJf9GjdNscdkgRPi-9Fxb6iDo",
+    "placesName": "Satan's Whiskers",
+    "address": "Satan's Whiskers, 343 Cambridge Heath Rd, London E2 9RA, UK",
+    "postcode": "E2 9RA",
+    "website": "http://www.satanswhiskers.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.530061,
+    "lng": -0.056396,
+    "ward": "Bethnal Green West"
+  },
+  "scarfes-bar": {
+    "placeId": "ChIJi-8-gTUbdkgRlnM1J18fB24",
+    "placesName": "Scarfes Bar",
+    "address": "252 High Holborn, London WC1V 7EN, UK",
+    "postcode": "WC1V 7EN",
+    "website": "https://www.rosewoodhotels.com/en/london/dining/scarfes-bar",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.51733,
+    "lng": -0.117764,
+    "ward": "Holborn & Covent Garden"
+  },
+  "seed-library": {
+    "placeId": "ChIJK0w18ZgddkgRQYTOSLWTceY",
+    "placesName": "Seed Library",
+    "address": "100 Shoreditch High St, London E1 6JQ, UK",
+    "postcode": "E1 6JQ",
+    "website": "https://www.seedlibraryshoreditch.com/?utm_source=google&utm_medium=local&utm_campaign=bar-seedlibrary",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday, Tuesday",
+    "lat": 51.525721,
+    "lng": -0.077327,
+    "ward": "Hoxton East & Shoreditch"
+  },
   "seoul-bird": {
     "placeId": "ChIJq5CjbxEPdkgRTsUH6XX_bxs",
     "placesName": "Seoul Bird",
@@ -8290,6 +9627,25 @@
     "walkMin": 4,
     "walkFrom": "Shoreditch High Street Rail Station",
     "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
+  },
+  "short-road-pizza": {
+    "placeId": "ChIJb0scftsddkgRPZ3cgTY8ctE",
+    "placesName": "Short Road Pizza",
+    "address": "William The Fourth, 816 High Rd, London E10 6AE, UK",
+    "postcode": "E10 6AE",
+    "website": "https://shortroadpizza.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.57482,
+    "lng": -0.01148,
+    "ward": "Forest",
+    "station": "Leyton Midland Road",
+    "stationDistanceM": 518,
+    "walkMin": 8,
+    "walkFrom": "Leyton Midland Road Rail Station",
+    "bookingPlatform": "own-site",
+    "bookingUrl": "https://www.william-the-fourth.com/book-a-table",
     "pressChecked": "2026-08-17"
   },
   "shoryu-ramen": {
@@ -8610,7 +9966,36 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/speedboat/reservations/create/search?searchTab=group_bookings&#038;venues=speedboat%2Cplaza",
     "pressChecked": "2026-08-17"
   },
-  "spice-village-tooting": {},
+  "spice-village-tooting": {
+    "placeId": "ChIJ1TnjZ94FdkgRyn0dO5vTp_o",
+    "placesName": "Spice Village",
+    "address": "121 Upper Tooting Rd, London SW17 7TJ, UK",
+    "postcode": "SW17 7TJ",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.432025,
+    "lng": -0.163684,
+    "ward": "Tooting Bec"
+  },
+  "spring-street-pizza": {
+    "placeId": "ChIJvzUkv6EEdkgR-DJoPcr_tfI",
+    "placesName": "Spring Street Pizza",
+    "address": "Arch 32, Southwark Quarter, Southwark St, London SE1 1TE, UK",
+    "postcode": "SE1 1TE",
+    "website": "http://www.springstpizza.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday",
+    "lat": 51.504133,
+    "lng": -0.094619,
+    "ward": "Borough & Bankside",
+    "station": "Borough",
+    "stationDistanceM": 315,
+    "walkMin": 5,
+    "walkFrom": "Borough Underground Station",
+    "bookingPlatform": "opentable",
+    "bookingUrl": "https://www.opentable.co.uk/r/spring-street-pizza-southwark",
+    "pressChecked": "2026-08-17"
+  },
   "st-john": {
     "placeId": "ChIJFzO5YVEbdkgR1zdv5_hzZwg",
     "placesName": "St. John",
@@ -8630,7 +10015,18 @@
     "bookingUrl": "https://www.stjohnrestaurant.com/",
     "pressChecked": "2026-08-17"
   },
-  "st-john-bakery": {},
+  "st-john-bakery": {
+    "placeId": "ChIJm3-SykYDdkgR0zKp9TrIZH4",
+    "placesName": "St. JOHN Bakery",
+    "address": "72 Druid St, London SE1 2HQ, UK",
+    "postcode": "SE1 2HQ",
+    "website": "https://stjohnrestaurant.com/pages/bakery",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday, Tuesday, Wednesday, Thursday",
+    "lat": 51.499348,
+    "lng": -0.072573,
+    "ward": "London Bridge & West Bermondsey"
+  },
   "sticks-n-sushi-battersea": {
     "placeId": "ChIJtWIsogMFdkgRBE1MkcaZezo",
     "placesName": "Sticks'n'Sushi Battersea",
@@ -8650,7 +10046,18 @@
     "bookingUrl": "https://www.opentable.co.uk/booking/experiences-availability?rid=370581&restref=370581&experienceId=763331",
     "pressChecked": "2026-08-17"
   },
-  "suba-bakery": {},
+  "suba-bakery": {
+    "placeId": "ChIJu7rb0FcddkgRycuf6rnxO0Y",
+    "placesName": "SUBA Walthamstow",
+    "address": "372 Hoe St, London E17 9AA, UK",
+    "postcode": "E17 9AA",
+    "website": "http://www.subabakery.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.577666,
+    "lng": -0.017043,
+    "ward": "Markhouse"
+  },
   "sud-italia": {
     "postcode": "E1 6EW",
     "lat": 51.519803,
@@ -8815,7 +10222,18 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
-  "swift-soho": {},
+  "swift-soho": {
+    "placeId": "ChIJGa3wvNIEdkgRN1HW-os2NzY",
+    "placesName": "Swift Soho",
+    "address": "12 Old Compton St, London W1D 4TQ, UK",
+    "postcode": "W1D 4TQ",
+    "website": "http://www.barswift.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.513777,
+    "lng": -0.130061,
+    "ward": "West End"
+  },
   "t-by-tamara": {
     "placeId": "ChIJsz7AB7sbdkgRgNOUckEBDnE",
     "placesName": "T by Tamara",
@@ -8978,6 +10396,18 @@
     "walkMin": 11,
     "walkFrom": "Selhurst Rail Station"
   },
+  "tattu-london": {
+    "placeId": "ChIJHdd94hwbdkgRihDCyn0FD1Y",
+    "placesName": "Tattu London",
+    "address": "The Now Building Rooftop, Outernet, Denmark St, London WC2H 0LA, UK",
+    "postcode": "WC2H 0LA",
+    "website": "https://tattu.co.uk/locations/tattu-london/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.515311,
+    "lng": -0.129825,
+    "ward": "Holborn & Covent Garden"
+  },
   "tavern-shoreditch": {
     "placeId": "ChIJhc0LzLYcdkgRZx_OHXW7mf4",
     "placesName": "Commercial Tavern",
@@ -8997,7 +10427,17 @@
     "bookingUrl": "https://bookings.designmynight.com/book?venue_id=512b2067d5d190d2978ca802&source=partner&type=69931ae6b02bc2319d46cb14&date=2026-07-19",
     "pressChecked": "2026-08-17"
   },
-  "tayer-elementary": {},
+  "tayer-elementary": {
+    "placeId": "ChIJP72YPh8ddkgRHAMOeJp_gEI",
+    "placesName": "Tayēr + Elementary",
+    "address": "152 Old St, London EC1V 9BW, UK",
+    "postcode": "EC1V 9BW",
+    "website": "https://tayer-elementary.com/",
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "lat": 51.525032,
+    "lng": -0.091296,
+    "ward": "Bunhill"
+  },
   "tayyabs": {
     "placeId": "ChIJsXHacsscdkgRUnql8CSRexg",
     "placesName": "Tayyabs",
@@ -9054,6 +10494,18 @@
     "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?rid=254679&lang=en-GB&color=1&r3uid=cfe&dark=false&correlationId=ee5e3676-1d97-4e63-b1bf-ec56f0b254a7&restRef=254679&otSource=Restaurant%20website",
     "pressChecked": "2026-08-17"
   },
+  "temple-of-seitan": {
+    "placeId": "ChIJE0Hsc6gddkgR9_LjrWFKkLQ",
+    "placesName": "Temple of Seitan",
+    "address": "10 Morning Ln, London E9 6NA, UK",
+    "postcode": "E9 6NA",
+    "website": "http://www.templeofseitan.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.545898,
+    "lng": -0.053775,
+    "ward": "Homerton"
+  },
   "the-ampersand": {
     "placeId": "ChIJm_BvYl0FdkgR5-qNzNVoA3M",
     "placesName": "The Ampersand Hotel",
@@ -9084,7 +10536,10 @@
     "closedDays": "Sunday, Monday",
     "bookingPlatform": "exploretock",
     "bookingUrl": "https://the-araki.co.uk/booking-policy",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "lat": 51.511584,
+    "lng": -0.140311,
+    "ward": null
   },
   "the-attendant": {
     "placeId": "ChIJT3lsCSobdkgRsmpQbI2yp5w",
@@ -9248,9 +10703,20 @@
     "businessStatus": "OPERATIONAL",
     "bookingPlatform": "own-site",
     "bookingUrl": "https://www.belmond.com/_nuxt/BookingFlowSidebarMainCta.Ck7Q-ULI.css",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "lat": 51.49694,
+    "lng": -0.159478,
+    "ward": null
   },
-  "the-captain-kidd": {},
+  "the-captain-kidd": {
+    "placeId": "ChIJUZ3TSyUDdkgR7Yab8Zp6-vI",
+    "placesName": "The Captain Kidd",
+    "address": "The Captain Kidd, 108 Wapping High St, London E1W 2NE, UK",
+    "postcode": "E1W 2NE",
+    "lat": 51.503027,
+    "lng": -0.060098,
+    "ward": "St Katharine's & Wapping"
+  },
   "the-cinnamon-club": {
     "placeId": "ChIJewr3utwEdkgRw51-rUzWyVo",
     "placesName": "The Cinnamon Club",
@@ -9327,6 +10793,18 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "the-crosse-keys": {
+    "placeId": "ChIJaXXC_VIDdkgRo16i2V8aKMA",
+    "placesName": "The Crosse Keys",
+    "address": "9 Gracechurch St, London EC3V 0DR, UK",
+    "postcode": "EC3V 0DR",
+    "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/london/the-crosse-keys-city-of-london",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.512792,
+    "lng": -0.084659,
+    "ward": "Langbourn"
+  },
   "the-devonshire": {
     "placeId": "ChIJsc95TQcFdkgRDgDjFkIJCz8",
     "placesName": "The Devonshire",
@@ -9400,8 +10878,30 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/duck-and-rice/reservations/create/search/?venues=Duckandricebatterseapowerstation%2Ctheduckandrice",
     "pressChecked": "2026-08-17"
   },
-  "the-dusty-knuckle": {},
-  "the-dysart-petersham": {},
+  "the-dusty-knuckle": {
+    "placeId": "ChIJOVkn7o0cdkgRByZ9dlIWeUA",
+    "placesName": "The Dusty Knuckle Bakery",
+    "address": "Abbot St, London E8 3DP, UK",
+    "postcode": "E8 3DP",
+    "website": "http://www.thedustyknuckle.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.547129,
+    "lng": -0.074982,
+    "ward": "Dalston"
+  },
+  "the-dysart-petersham": {
+    "placeId": "ChIJDauqLMw0cEERuqNQ5irvxGk",
+    "placesName": "The Dysart Petersham",
+    "address": "135 Petersham Rd, Richmond TW10 7AA, UK",
+    "postcode": "TW10 7AA",
+    "website": "http://www.thedysartpetersham.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday, Tuesday",
+    "lat": 51.446534,
+    "lng": -0.300566,
+    "ward": "Ham, Petersham & Richmond Riverside"
+  },
   "the-eagle-farringdon": {
     "placeId": "ChIJh9q2bE8bdkgRpzHKqYGtiJY",
     "placesName": "The Eagle Farringdon",
@@ -9475,6 +10975,18 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "the-gate-hammersmith": {
+    "placeId": "ChIJMXl1GrcPdkgRk8p4Yntqsw8",
+    "placesName": "The Gate Hammersmith",
+    "address": "51 Queen Caroline St, London W6 9QL, UK",
+    "postcode": "W6 9QL",
+    "website": "http://thegaterestaurants.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.49024,
+    "lng": -0.225391,
+    "ward": "Hammersmith Broadway"
+  },
   "the-george-inn": {
     "placeId": "ChIJo15e1lkDdkgR-X84Yf2cA0s",
     "placesName": "George",
@@ -9493,6 +11005,18 @@
     "bookingPlatform": "own-site",
     "bookingUrl": "https://www.greeneking.co.uk/pubs/greater-london/george-southwark/book",
     "pressChecked": "2026-08-17"
+  },
+  "the-golden-chippy": {
+    "placeId": "ChIJ9TcxzIsCdkgRLLOxHs9H6OQ",
+    "placesName": "Golden Chippy",
+    "address": "62 Greenwich High Rd, London SE10 8LF, UK",
+    "postcode": "SE10 8LF",
+    "website": "http://www.thegoldenchippy.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.475279,
+    "lng": -0.019486,
+    "ward": "Greenwich Park"
   },
   "the-golden-hind": {
     "placeId": "ChIJMdRcXNIadkgRbP2CvZv70ng",
@@ -9551,6 +11075,18 @@
     "bookingUrl": "https://eu.sevenrooms.com/reservations/afternoonteaatthegoringtheveranda#",
     "pressChecked": "2026-08-17"
   },
+  "the-grapes-limehouse": {
+    "placeId": "ChIJ05WkE84CdkgRH6RzB264YGE",
+    "placesName": "The Grapes",
+    "address": "76 Narrow St, London E14 8BP, UK",
+    "postcode": "E14 8BP",
+    "website": "http://thegrapes.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.508547,
+    "lng": -0.032987,
+    "ward": "Limehouse"
+  },
   "the-gun": {
     "placeId": "ChIJGdgRt6UCdkgRfP95cuqWvm0",
     "placesName": "The Gun, Docklands",
@@ -9570,7 +11106,18 @@
     "bookingUrl": "https://www.thegundocklands.com/?y_source=1_MTIyMzcxOTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "pressChecked": "2026-08-17"
   },
-  "the-holly-bush": {},
+  "the-holly-bush": {
+    "placeId": "ChIJLUnmeX0adkgRXNl19ShDnog",
+    "placesName": "The Holly Bush, Hampstead",
+    "address": "22 Holly Mount, Hampstead Gate, London NW3 6SG, UK",
+    "postcode": "NW3 6SG",
+    "website": "https://www.hollybushhampstead.co.uk/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=yext&utm_content=P151&y_source=1_MTIyMzcxOTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.557561,
+    "lng": -0.179175,
+    "ward": "Hampstead Town"
+  },
   "the-lanesborough-tea": {
     "placeId": "ChIJ2_19mdYEdkgRoZ6Ys0Mcj7I",
     "placesName": "The Lanesborough",
@@ -9643,6 +11190,18 @@
     "bookingUrl": "https://www.theledbury.com/",
     "pressChecked": "2026-08-17"
   },
+  "the-ledger-building": {
+    "placeId": "ChIJ4TTS0MkCdkgRmGGFTrT6g5I",
+    "placesName": "The Ledger Building",
+    "address": "West India Quay, 4 Hertsmere Rd, London E14 4AL, UK",
+    "postcode": "E14 4AL",
+    "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/london/the-ledger-building-docklands?utm_source=google&utm_medium=maps&utm_campaign=gmb",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.507613,
+    "lng": -0.024539,
+    "ward": "Canary Wharf"
+  },
   "the-life-goddess": {
     "placeId": "ChIJGQWm0C0bdkgRDVFxbC3zkoI",
     "placesName": "The Life Goddess Store Street 🇬🇷",
@@ -9677,7 +11236,9 @@
     "stationDistanceM": 513,
     "walkMin": 8,
     "walkFrom": "Knightsbridge Underground Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "the-marksman": {
     "placeId": "ChIJo74Bs8AcdkgRg7RlvkGVKrM",
@@ -9755,7 +11316,30 @@
     "bookingUrl": "https://reservations.milestonehotel.com/?Chain=5169&amp;Hotel=10999&amp;locale=en-US&amp;adult=2&amp;child=0&amp;start=availresults",
     "pressChecked": "2026-08-17"
   },
-  "the-montpelier": {},
+  "the-montagu-pyke": {
+    "placeId": "ChIJoTzQuNIEdkgRVcmqQG_jpzI",
+    "placesName": "The Montagu Pyke",
+    "address": "105-107 Charing Cross Rd, London WC2H 0DT, UK",
+    "postcode": "WC2H 0DT",
+    "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/london/the-montagu-pyke-west-end",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.514196,
+    "lng": -0.129856,
+    "ward": "West End"
+  },
+  "the-montpelier": {
+    "placeId": "ChIJBdJ1rZgDdkgRD1UhE2S44xo",
+    "placesName": "The Montpelier",
+    "address": "43 Choumert Rd, London SE15 4AR, UK",
+    "postcode": "SE15 4AR",
+    "website": "http://www.themontpelier.net/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.467541,
+    "lng": -0.070948,
+    "ward": "Rye Lane"
+  },
   "the-palomar": {
     "placeId": "ChIJ37AHt9MEdkgRDVY9ZuyydVA",
     "placesName": "The Palomar",
@@ -9826,7 +11410,18 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/theritzrestaurant/reservations/create/search?venues=theritzrestaurant,ritzlondoncigars,thelonggallery,ritzafternoontea,therivolibar",
     "pressChecked": "2026-08-17"
   },
-  "the-roebuck-richmond": {},
+  "the-roebuck-richmond": {
+    "placeId": "ChIJ87ob7j0MdkgRliyS5YzB9a8",
+    "placesName": "Roebuck",
+    "address": "130 Richmond Hill, Richmond TW10 6RN, UK",
+    "postcode": "TW10 6RN",
+    "website": "https://www.greeneking.co.uk/pubs/surrey/roebuck?utm_source=g_places&utm_medium=locations&utm_campaign=HT_pubpage",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.452239,
+    "lng": -0.298353,
+    "ward": "Ham, Petersham & Richmond Riverside"
+  },
   "the-savoy-tea": {
     "placeId": "ChIJTVquz8sEdkgRKdz7pP3v9BU",
     "placesName": "The Savoy",
@@ -9902,7 +11497,18 @@
     "pressKit": "https://thestaffordlondon.com/press-room/",
     "pressChecked": "2026-08-17"
   },
-  "the-summerhouse": {},
+  "the-summerhouse": {
+    "placeId": "ChIJYVcttKkadkgR6Mjx91YLlV8",
+    "placesName": "The Summerhouse",
+    "address": "Blomfield Rd, London W9 2PA, UK",
+    "postcode": "W9 2PA",
+    "website": "http://www.thesummerhouse.co/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.522458,
+    "lng": -0.186414,
+    "ward": "Little Venice"
+  },
   "the-tamil-crown": {
     "placeId": "ChIJxUzwTicbdkgRV5llToX5iTs",
     "placesName": "The Tamil Crown",
@@ -9994,11 +11600,46 @@
     "stationDistanceM": 723,
     "walkMin": 12,
     "walkFrom": "East Dulwich Rail Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
-  "the-waterway": {},
-  "the-wells-tavern": {},
-  "the-white-cross-richmond": {},
+  "the-waterway": {
+    "placeId": "ChIJs_mu1KkadkgRfbIeYOAvXbc",
+    "placesName": "The Waterway",
+    "address": "54 Formosa St, London W9 2JU, UK",
+    "postcode": "W9 2JU",
+    "website": "http://www.thewaterway.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.52274,
+    "lng": -0.187758,
+    "ward": "Westbourne"
+  },
+  "the-wells-tavern": {
+    "placeId": "ChIJP_cx9mIadkgRYFS2LDApgQE",
+    "placesName": "The Wells Tavern",
+    "address": "30 Well Walk, London NW3 1BX, UK",
+    "postcode": "NW3 1BX",
+    "website": "http://thewellshampstead.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.55891,
+    "lng": -0.173365,
+    "ward": "Hampstead Town"
+  },
+  "the-white-cross-richmond": {
+    "placeId": "ChIJW6LQDkcMdkgRLyBmYJ3BpZc",
+    "placesName": "White Cross",
+    "address": "Surrey, Riverside House, Water Ln, Richmond TW9 1NR, UK",
+    "postcode": "TW9 1NR",
+    "website": "https://www.thewhitecrossrichmond.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.459132,
+    "lng": -0.308606,
+    "ward": "South Richmond"
+  },
   "the-wolseley": {
     "placeId": "ChIJr_4cVy8FdkgRIrNbO93eUFM",
     "placesName": "The Wolseley Piccadilly",
@@ -10041,7 +11682,18 @@
     "bookingUrl": "https://www.sevenrooms.com/reservations/theorandallcucinaitaliana/",
     "pressChecked": "2026-08-17"
   },
-  "three-sheets": {},
+  "three-sheets": {
+    "placeId": "ChIJ1TU305McdkgRca2LGIqPjlQ",
+    "placesName": "Three Sheets Dalston",
+    "address": "510b Kingsland Rd, London E8 4AB, UK",
+    "postcode": "E8 4AB",
+    "website": "http://www.threesheets-bar.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday",
+    "lat": 51.544096,
+    "lng": -0.076451,
+    "ward": "De Beauvoir"
+  },
   "tiella": {
     "placeId": "ChIJLw5kBtcddkgRYVMYXsmueP4",
     "placesName": "Tiella Trattoria & Bar",
@@ -10061,7 +11713,18 @@
     "bookingUrl": "https://www.opentable.com/r/tiella-trattoria-and-bar-london",
     "pressChecked": "2026-08-17"
   },
-  "toad-bakery": {},
+  "toad-bakery": {
+    "placeId": "ChIJ8Wy2dvADdkgRr4cikvURs_0",
+    "placesName": "TOAD Bakery",
+    "address": "44 Peckham Rd, London SE5 8PX, UK",
+    "postcode": "SE5 8PX",
+    "website": "http://www.toadbakery.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday",
+    "lat": 51.473597,
+    "lng": -0.079952,
+    "ward": "St Giles"
+  },
   "toffs": {
     "placeId": "ChIJ6zvRDS0adkgRqUvkNI2vhoI",
     "placesName": "Toff’s of Muswell Hill",
@@ -10080,6 +11743,18 @@
     "bookingPlatform": "own-site",
     "bookingUrl": "https://www.toffsfish.co.uk/book",
     "pressChecked": "2026-08-17"
+  },
+  "tofu-vegan": {
+    "placeId": "ChIJi-8ryNwbdkgRP6r0Xl6-HRA",
+    "placesName": "Tofu Vegan Islington",
+    "address": "105 Upper St, London N1 1QN, UK",
+    "postcode": "N1 1QN",
+    "website": "https://tofuvegan.com/reservation",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.537989,
+    "lng": -0.102867,
+    "ward": "St Mary's & St James'"
   },
   "tokii": {
     "placeId": "ChIJVVUpQcsadkgR2eUkAPl_iT0",
@@ -10168,10 +11843,34 @@
     "stationDistanceM": 306,
     "walkMin": 5,
     "walkFrom": "Leicester Square Underground Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
-  "toulouse-lautrec": {},
-  "town-of-ramsgate": {},
+  "toulouse-lautrec": {
+    "placeId": "ChIJtc1xspkEdkgRW4g71z3bYbE",
+    "placesName": "Toulouse Lautrec",
+    "address": "140 Newington Butts, London SE11 4RN, UK",
+    "postcode": "SE11 4RN",
+    "website": "https://www.toulouselautrec.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.490971,
+    "lng": -0.103696,
+    "ward": "Kennington"
+  },
+  "town-of-ramsgate": {
+    "placeId": "ChIJ7QtQYToDdkgRVUNbGjYt2LU",
+    "placesName": "Town of Ramsgate",
+    "address": "62 Wapping High St, London E1W 2PN, UK",
+    "postcode": "E1W 2PN",
+    "website": "http://www.townoframsgate.pub/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.503365,
+    "lng": -0.062058,
+    "ward": "St Katharine's & Wapping"
+  },
   "trafalgar-tavern": {
     "placeId": "ChIJuYCd54ICdkgRmRF_n6vuMFQ",
     "placesName": "Trafalgar Tavern",
@@ -10291,7 +11990,18 @@
     "bookingUrl": "http://www.tsiakkos.co.uk/",
     "pressChecked": "2026-08-17"
   },
-  "turners-old-star": {},
+  "turners-old-star": {
+    "placeId": "ChIJe_pPGjADdkgRIEqt7g-LTpE",
+    "placesName": "Turner's Old Star",
+    "address": "14 Watts St, London E1W 2QG, UK",
+    "postcode": "E1W 2QG",
+    "website": "https://www.turnersoldstar.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.505362,
+    "lng": -0.059365,
+    "ward": "St Katharine's & Wapping"
+  },
   "udaya-kerala": {
     "placeId": "ChIJ46LYoMqn2EcRg5SCWN1j1_E",
     "placesName": "Udaya Kerala Restaurant",
@@ -10423,8 +12133,60 @@
     "bookingUrl": "https://booking.resdiary.com/widget/Standard/VietGrill/6417",
     "pressChecked": "2026-08-17"
   },
-  "violet-cakes": {},
-  "voodoo-rays": {},
+  "vincenzos-pizza": {
+    "placeId": "ChIJc5AZnQwddkgRxhfhZT81jSs",
+    "placesName": "Vincenzo's Pizza",
+    "address": "122 Bethnal Grn Rd, London E2 6DG, UK",
+    "postcode": "E2 6DG",
+    "website": "https://vincenzospizzas.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.524954,
+    "lng": -0.071174,
+    "ward": "Weavers",
+    "station": "Shoreditch High Street",
+    "stationDistanceM": 302,
+    "walkMin": 5,
+    "walkFrom": "Shoreditch High Street Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
+  },
+  "vinegar-yard": {
+    "placeId": "ChIJbe4ErJgDdkgRRFNcc1WBF4g",
+    "placesName": "Vinegar Yard",
+    "address": "72-82 St Thomas St, London SE1 3QX, UK",
+    "postcode": "SE1 3QX",
+    "website": "https://www.vinegaryard.london/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday",
+    "lat": 51.503164,
+    "lng": -0.084271,
+    "ward": "London Bridge & West Bermondsey"
+  },
+  "violet-cakes": {
+    "placeId": "ChIJOd435u0cdkgRfZtUjmTNMqE",
+    "placesName": "Violet Cakes",
+    "address": "47 Wilton Way, London E8 3ED, UK",
+    "postcode": "E8 3ED",
+    "website": "http://www.violetcakes.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.545422,
+    "lng": -0.065246,
+    "ward": "Dalston"
+  },
+  "voodoo-rays": {
+    "placeId": "ChIJ5dp1MYwcdkgRfpUNSp0rWLg",
+    "placesName": "Voodoo Ray's Dalston",
+    "address": "95 Kingsland High St, London E8 2PB, UK",
+    "postcode": "E8 2PB",
+    "website": "http://www.voodoorays.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.549468,
+    "lng": -0.075546,
+    "ward": "Dalston"
+  },
   "vori": {
     "placeId": "ChIJtWSL4t4PdkgRO-up-FdlVjs",
     "placesName": "Vori Restaurant Holland Park",
@@ -10500,6 +12262,18 @@
     "pressKit": "contact-only",
     "pressChecked": "2026-08-17"
   },
+  "winter-garden-landmark": {
+    "placeId": "ChIJjV7c58kadkgR7n-X57VaZv8",
+    "placesName": "Winter Garden Restaurant",
+    "address": "The Landmark, 222 Marylebone Rd, London NW1 6JQ, UK",
+    "postcode": "NW1 6JQ",
+    "website": "https://www.landmarklondon.co.uk/dining/winter-garden/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.521776,
+    "lng": -0.162801,
+    "ward": "Regent's Park"
+  },
   "wong-kei": {
     "placeId": "ChIJz-VvsdMEdkgR1lQfyxijRMw",
     "placesName": "Wong Kei",
@@ -10573,6 +12347,24 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "yard-sale-pizza": {
+    "placeId": "ChIJ38g2qf4cdkgRsKsvVgXs7Sk",
+    "placesName": "Yard Sale Pizza",
+    "address": "105 Lower Clapton Rd, Lower Clapton, London E5 0NP, UK",
+    "postcode": "E5 0NP",
+    "website": "https://yardsalepizza.com/shop/clapton/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.552037,
+    "lng": -0.052532,
+    "ward": "Homerton",
+    "station": "Hackney Central",
+    "stationDistanceM": 613,
+    "walkMin": 10,
+    "walkFrom": "Hackney Central Rail Station",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
+  },
   "yauatcha": {
     "placeId": "ChIJhfAKn9QEdkgRBBKDiFubnrA",
     "placesName": "Yauatcha Soho",
@@ -10629,6 +12421,18 @@
     "bookingPlatform": "own-site",
     "bookingUrl": "https://yi-ban.co.uk/reservations/",
     "pressChecked": "2026-08-17"
+  },
+  "yurt-cafe": {
+    "placeId": "ChIJSWdwgdMCdkgRSqqVYyuPDJM",
+    "placesName": "The Yurt Café",
+    "address": "St. Katharine's Precinct, 2 Butcher Row, London E14 8DS, UK",
+    "postcode": "E14 8DS",
+    "website": "http://www.rfsk.org.uk/yurt-cafe",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None",
+    "lat": 51.511594,
+    "lng": -0.041488,
+    "ward": "Shadwell"
   },
   "zapote": {
     "placeId": "ChIJG3OR34oddkgRqZbWfKS8OQY",
@@ -10724,7 +12528,9 @@
     "stationDistanceM": 438,
     "walkMin": 7,
     "walkFrom": "Highbury & Islington Underground Station",
-    "bookingProbe": "HTTP 403"
+    "bookingProbe": "HTTP 403",
+    "bookingHint": "no booking route in static HTML - check walk-in",
+    "pressChecked": "2026-08-17"
   },
   "zuma-london": {
     "placeId": "ChIJZdN_kTgFdkgR0NR3z813cBw",
@@ -10762,5 +12568,265 @@
     "walkFrom": "Embankment Underground Station",
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
+  },
+  "the-guinea-grill": {
+    "postcode": "W1J 6NL",
+    "lat": 51.511082,
+    "lng": -0.145001,
+    "ward": "West End",
+    "station": "Green Park",
+    "walkFrom": "Green Park Underground Station",
+    "stationDistanceM": 476,
+    "walkMin": 7
+  },
+  "cut-at-45-park-lane": {
+    "postcode": "W1K 1PN",
+    "lat": 51.506384,
+    "lng": -0.151575,
+    "ward": "West End",
+    "station": "Hyde Park Corner",
+    "walkFrom": "Hyde Park Corner Underground Station",
+    "stationDistanceM": 345,
+    "walkMin": 5
+  },
+  "goodman-mayfair": {
+    "postcode": "W1S 1QH",
+    "lat": 51.513117,
+    "lng": -0.142295,
+    "ward": "West End",
+    "station": "Oxford Circus",
+    "walkFrom": "Oxford Circus Underground Station",
+    "stationDistanceM": 248,
+    "walkMin": 4
+  },
+  "lutyens-grill": {
+    "postcode": "EC2R 8AJ",
+    "lat": 51.513674,
+    "lng": -0.090748,
+    "ward": "Walbrook",
+    "station": "Bank",
+    "walkFrom": "Bank Underground Station",
+    "stationDistanceM": 86,
+    "walkMin": 1
+  },
+  "sagardi": {
+    "postcode": "EC2A 3BS",
+    "lat": 51.525306,
+    "lng": -0.08053,
+    "ward": "Hoxton East & Shoreditch",
+    "station": "Old Street",
+    "walkFrom": "Old Street Underground Station",
+    "stationDistanceM": 547,
+    "walkMin": 9
+  },
+  "zelman-meats": {
+    "postcode": "SW1X 7RJ",
+    "lat": 51.501576,
+    "lng": -0.159795,
+    "ward": "Brompton & Hans Town",
+    "station": "Knightsbridge",
+    "walkFrom": "Knightsbridge Underground Station",
+    "stationDistanceM": 128,
+    "walkMin": 2
+  },
+  "flat-iron": {
+    "postcode": "W1F 9RW",
+    "lat": 51.51212,
+    "lng": -0.138401,
+    "ward": "West End",
+    "station": "Piccadilly Circus",
+    "walkFrom": "Piccadilly Circus Underground Station",
+    "stationDistanceM": 363,
+    "walkMin": 6
+  },
+  "sale-e-pepe": {
+    "postcode": "SW1X 0HD",
+    "lat": 51.500256,
+    "lng": -0.160439,
+    "ward": "Brompton & Hans Town",
+    "station": "Knightsbridge",
+    "walkFrom": "Knightsbridge Underground Station",
+    "stationDistanceM": 189,
+    "walkMin": 3
+  },
+  "al-dente": {
+    "postcode": "W1T 1TG",
+    "lat": 51.519071,
+    "lng": -0.136099,
+    "ward": "Bloomsbury",
+    "station": "Goodge Street",
+    "walkFrom": "Goodge Street Underground Station",
+    "stationDistanceM": 211,
+    "walkMin": 3
+  },
+  "golden-chip-hanwell": {
+    "postcode": "W7 3SH",
+    "lat": 51.507483,
+    "lng": -0.33738,
+    "ward": "Hanwell Broadway",
+    "station": "Hanwell",
+    "walkFrom": "Hanwell Rail Station",
+    "stationDistanceM": 549,
+    "walkMin": 9
+  },
+  "facing-heaven": {
+    "postcode": "E8 3SE",
+    "lat": 51.539809,
+    "lng": -0.056976,
+    "ward": "London Fields",
+    "station": "London Fields",
+    "walkFrom": "London Fields Rail Station",
+    "stationDistanceM": 269,
+    "walkMin": 4
+  },
+  "jam-delish": {
+    "postcode": "N1 0XT",
+    "lat": 51.534458,
+    "lng": -0.108579,
+    "ward": "Barnsbury",
+    "station": "Angel",
+    "walkFrom": "Angel Underground Station",
+    "stationDistanceM": 266,
+    "walkMin": 4
+  },
+  "itadaki-zen": {
+    "postcode": "WC1X 9BJ",
+    "lat": 51.529587,
+    "lng": -0.116077,
+    "ward": "King's Cross",
+    "station": "London King's Cross",
+    "walkFrom": "London King's Cross Rail Station",
+    "stationDistanceM": 523,
+    "walkMin": 8
+  },
+  "en-root": {
+    "postcode": "SW4 7EY",
+    "lat": 51.459907,
+    "lng": -0.129859,
+    "ward": "Clapham East",
+    "station": "Clapham North",
+    "walkFrom": "Clapham North Underground Station",
+    "stationDistanceM": 686,
+    "walkMin": 11
+  },
+  "purezza-camden": {
+    "postcode": "NW1 7PN",
+    "lat": 51.538191,
+    "lng": -0.144172,
+    "ward": "Camden Town",
+    "station": "Camden Town",
+    "walkFrom": "Camden Town Underground Station",
+    "stationDistanceM": 168,
+    "walkMin": 3
+  },
+  "naifs": {
+    "postcode": "SE15 5TN",
+    "lat": 51.475497,
+    "lng": -0.065328,
+    "ward": "Peckham",
+    "station": "Queens Road Peckham",
+    "walkFrom": "Queens Road Peckham Rail Station",
+    "stationDistanceM": 556,
+    "walkMin": 9
+  },
+  "tendril": {
+    "postcode": "W1B 2LQ",
+    "lat": 51.51463,
+    "lng": -0.142997,
+    "ward": "West End",
+    "station": "Oxford Circus",
+    "walkFrom": "Oxford Circus Underground Station",
+    "stationDistanceM": 136,
+    "walkMin": 2
+  },
+  "holy-carrot": {
+    "postcode": "W11 2EB",
+    "lat": 51.515535,
+    "lng": -0.204576,
+    "ward": "Colville",
+    "station": "Ladbroke Grove",
+    "walkFrom": "Ladbroke Grove Underground Station",
+    "stationDistanceM": 520,
+    "walkMin": 8
+  },
+  "mallow-borough": {
+    "postcode": "SE1 9DE",
+    "lat": 51.50626,
+    "lng": -0.090481,
+    "ward": "Borough & Bankside",
+    "station": "London Bridge",
+    "walkFrom": "London Bridge Underground Station",
+    "stationDistanceM": 84,
+    "walkMin": 1
+  },
+  "silk-road-camberwell": {
+    "postcode": "SE5 8TR",
+    "lat": 51.474008,
+    "lng": -0.089683,
+    "ward": "St Giles",
+    "station": "Denmark Hill",
+    "walkFrom": "Denmark Hill Rail Station",
+    "stationDistanceM": 646,
+    "walkMin": 10
+  },
+  "maries-cafe": {
+    "postcode": "SE1 7AB",
+    "lat": 51.501502,
+    "lng": -0.111573,
+    "ward": "Waterloo & South Bank",
+    "station": "Lambeth North",
+    "walkFrom": "Lambeth North Underground Station",
+    "stationDistanceM": 260,
+    "walkMin": 4
+  },
+  "govindas": {
+    "postcode": "W1D 3DL",
+    "lat": 51.51587,
+    "lng": -0.132771,
+    "ward": "West End",
+    "station": "Tottenham Court Road",
+    "walkFrom": "Tottenham Court Road",
+    "stationDistanceM": 133,
+    "walkMin": 2
+  },
+  "indian-veg": {
+    "postcode": "N1 9EX",
+    "lat": 51.533292,
+    "lng": -0.10994,
+    "ward": "Barnsbury",
+    "station": "Angel",
+    "walkFrom": "Angel Underground Station",
+    "stationDistanceM": 224,
+    "walkMin": 4
+  },
+  "sagar": {
+    "postcode": "WC2B 5JS",
+    "lat": 51.512472,
+    "lng": -0.120444,
+    "ward": "St James's",
+    "station": "Covent Garden",
+    "walkFrom": "Covent Garden Underground Station",
+    "stationDistanceM": 330,
+    "walkMin": 5
+  },
+  "tongue-and-brisket": {
+    "postcode": "EC1N 7SU",
+    "lat": 51.519582,
+    "lng": -0.109052,
+    "ward": "Holborn & Covent Garden",
+    "station": "Chancery Lane",
+    "walkFrom": "Chancery Lane Underground Station",
+    "stationDistanceM": 198,
+    "walkMin": 3
+  },
+  "khun-pakin-thai": {
+    "postcode": "W6 0QU",
+    "lat": 51.492918,
+    "lng": -0.233009,
+    "ward": "Hammersmith Broadway",
+    "station": "Ravenscourt Park",
+    "walkFrom": "Ravenscourt Park Underground Station",
+    "stationDistanceM": 309,
+    "walkMin": 5
   }
 }

@@ -1,0 +1,171 @@
+{
+  "cuisine": "historic-pubs",
+  "note": "Seeded 2026-08-25.",
+  "recorded": "2026-08-25",
+  "sources": [
+    {
+      "name": "London Walks",
+      "url": "https://www.walks.com/blog/londons-oldest-pubs/",
+      "scope": "historic-pubs",
+      "names": [
+        "The George Inn",
+        "The Spaniards Inn",
+        "Ye Olde Cheshire Cheese",
+        "The Old Bell Tavern",
+        "The Mayflower",
+        "The Flask",
+        "The Prospect of Whitby",
+        "The Grapes",
+        "The Hoop and Grapes",
+        "The Seven Stars",
+        "Ye Olde Mitre",
+        "The Lamb and Flag"
+      ]
+    },
+    {
+      "name": "London Travel Planning",
+      "url": "https://londontravelplanning.com/guide-to-londons-oldest-pubs/",
+      "scope": "historic-pubs",
+      "names": [
+        "The Blackfriar",
+        "The Cittie of Yorke",
+        "The Cockpit",
+        "The George",
+        "The Grapes",
+        "The Guinea",
+        "Hoop and Grapes",
+        "The Jamaica Wine House",
+        "Lamb and Flag",
+        "The Mayflower",
+        "The Prospect of Whitby",
+        "The Red Lion",
+        "The Salisbury",
+        "The Seven Stars",
+        "The Ship",
+        "The Ship and Shovell",
+        "The Spaniard’s Inn",
+        "The Viaduct Tavern",
+        "Ye Olde Bell Tavern",
+        "Ye Olde Cheshire Cheese",
+        "Ye Olde Cock Tavern",
+        "Ye Olde Mitre",
+        "Old Bank of England",
+        "7 of the Best London Pub Tours",
+        "6 Other Historic London Pubs Tours"
+      ]
+    },
+    {
+      "name": "Pub Guide London",
+      "url": "https://pubguidelondon.com/blog/history-london-pubs.html",
+      "scope": "historic-pubs",
+      "names": [
+        "The Great Fire and Rebuilding",
+        "The Victorian Gin Palaces",
+        "Wartime and the 20th Century"
+      ]
+    },
+    {
+      "name": "Secret London",
+      "url": "https://secretldn.com/oldest-pubs-in-london/",
+      "scope": "historic-pubs",
+      "names": [
+        "Hoop & Grapes",
+        "Cittie of Yorke",
+        "The Old Bell Tavern",
+        "The Seven Stars",
+        "The Mayflower",
+        "Discover our cities",
+        "Privacy Settings"
+      ]
+    },
+    {
+      "name": "Mayfair Foodie",
+      "url": "https://mayfairfoodie.com/oldest-pub-in-london/",
+      "scope": "historic-pubs",
+      "names": [
+        "1 Introduction",
+        "5 The Mayflower",
+        "9 The Wrestlers",
+        "10 The Grapes",
+        "12 The Seven Stars",
+        "13 The Footman",
+        "14 Conclusion",
+        "Martin",
+        "The Mayfair Foodie",
+        "HexClad pans"
+      ]
+    },
+    {
+      "name": "London Drinks Guide",
+      "url": "https://londondrinksguide.com/en/blog/where-to-drink-93/pubs-97/oldest-pubs-in-london-31.htm",
+      "scope": "historic-pubs",
+      "names": [
+        "Enjoy a pint with a side of history",
+        "The Guinea",
+        "The Spaniards Inn",
+        "Hoop & Grapes",
+        "Lamb & Flag",
+        "Cittie of Yorke",
+        "The Old Bell",
+        "Ye Olde Cheshire Cheese",
+        "Ye Olde Mitre",
+        "The Prospect of Whitby",
+        "The Seven Stars",
+        "The George",
+        "The Mayflower",
+        "The Grapes",
+        "The Black Friar",
+        "The Viaduct Tavern",
+        "Midwest Conference Center",
+        "Bartender Spirits Awards 2027",
+        "Asia Wine Ratings 2026",
+        "St Mary's London",
+        "London Wine Competition 2027",
+        "Christ Church Spitalfields",
+        "London Spirits Competition 2027",
+        "'+brandName+'",
+        "'+producerName+'",
+        "Partners"
+      ]
+    },
+    {
+      "name": "City AM (most beautiful Wetherspoons)",
+      "url": "https://www.cityam.com/heres-the-most-beautiful-wetherspoons-pub-in-london/",
+      "scope": "historic-pubs",
+      "names": [
+        "The Wetherspoons pub with the best vibe",
+        "Similarly tagged content:",
+        "Sections",
+        "People & Organisations"
+      ]
+    },
+    {
+      "name": "Lonely Planet (bank Wetherspoons)",
+      "url": "https://www.lonelyplanet.com/news/most-beautiful-bank-wetherspoons",
+      "scope": "historic-pubs",
+      "names": [
+        "Explore More",
+        "Attractions",
+        "Destinations",
+        "Books"
+      ]
+    },
+    {
+      "name": "London Now (Crosse Keys)",
+      "url": "https://www.london-now.co.uk/news/25912302.crosse-keys-wetherspoon-pub-old-hsbc-bank-hall/",
+      "scope": "historic-pubs",
+      "names": [
+        "Sport",
+        "Transport",
+        "Crime",
+        "Property",
+        "A touch of grandeur",
+        "A space with history",
+        "Visitor experience",
+        "Get involved with the news",
+        "Useful Links",
+        "Modal headline"
+      ]
+    }
+  ]
+}

@@ -77,6 +77,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "al-dente": {
+    "name": "Al Dente",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "al-jabal-bakery": {
     "name": "Al-Jabal Bakery",
     "firstSeen": "2026-08-17",
@@ -85,6 +91,12 @@
   },
   "al-waha": {
     "name": "Al Waha",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "alain-ducasse-dorchester": {
+    "name": "Alain Ducasse at The Dorchester",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -109,6 +121,12 @@
   },
   "all-star-lanes": {
     "name": "All Star Lanes",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "alley-cats-pizza": {
+    "name": "Alley Cats Pizza",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -275,6 +293,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "bang-bang-oriental": {
+    "name": "Bang Bang Oriental Foodhall",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "banh-banh": {
     "name": "Bánh Bánh",
     "firstSeen": "2026-08-17",
@@ -313,6 +337,12 @@
   },
   "bar-kroketa": {
     "name": "Bar Kroketa",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "bar-shu": {
+    "name": "Bar Shu",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -395,6 +425,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "bertie-blossoms": {
+    "name": "Bertie Blossoms",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "berut-bistro": {
     "name": "Berut Bistro",
     "firstSeen": "2026-08-17",
@@ -463,6 +499,30 @@
   },
   "bouchon-racine": {
     "name": "Bouchon Racine",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "boxhall-city": {
+    "name": "BoxHall City",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "boxpark-camden": {
+    "name": "BOXPARK Camden",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "boxpark-croydon": {
+    "name": "BOXPARK Croydon",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "boxpark-wembley": {
+    "name": "BOXPARK Wembley",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -635,6 +695,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "canteen-food-hall-greenwich": {
+    "name": "Canteen Food Hall & Bar",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "canteen-notting-hill": {
     "name": "Canteen",
     "firstSeen": "2026-08-17",
@@ -727,6 +793,12 @@
   },
   "cheemc-soho": {
     "name": "CheeMc",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "cheese-barge": {
+    "name": "The Cheese Barge",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -833,6 +905,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "club-mexicana": {
+    "name": "Club Mexicana",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "coal-office": {
     "name": "Coal Office",
     "firstSeen": "2026-08-17",
@@ -911,6 +989,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "corner-corner": {
+    "name": "Corner Corner",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "corrochios": {
     "name": "Corrochio's",
     "firstSeen": "2026-08-17",
@@ -929,8 +1013,20 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "crate-walthamstow": {
+    "name": "CRATE Walthamstow",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "crisp-at-the-marlborough": {
     "name": "Crisp Pizza at The Marlborough",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "cut-at-45-park-lane": {
+    "name": "CUT at 45 Park Lane",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -1001,6 +1097,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "dinner-by-heston-blumenthal": {
+    "name": "Dinner by Heston Blumenthal",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "diogenes-the-dog": {
     "name": "Diogenes the Dog",
     "firstSeen": "2026-08-17",
@@ -1009,6 +1111,12 @@
   },
   "dishoom": {
     "name": "Dishoom",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "diwana-bhel-poori-house": {
+    "name": "Diwana Bhel Poori House",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -1033,6 +1141,12 @@
   },
   "dough-hands": {
     "name": "Dough Hands",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "dragon-castle": {
+    "name": "Dragon Castle",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -1121,6 +1235,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "en-root": {
+    "name": "En Root",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "enfes-ocakbasi": {
     "name": "Enfes Ocakbaşı",
     "firstSeen": "2026-08-17",
@@ -1163,6 +1283,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "facing-heaven": {
+    "name": "Facing Heaven",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "fairuz": {
     "name": "Fairuz",
     "firstSeen": "2026-08-17",
@@ -1193,6 +1319,18 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "faulkners": {
+    "name": "Faulkners",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "feng-shang-princess": {
+    "name": "Feng Shang Princess",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "fish-central": {
     "name": "Fish Central",
     "firstSeen": "2026-08-17",
@@ -1201,6 +1339,18 @@
   },
   "fish-lounge": {
     "name": "Fish Lounge",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "flat-iron": {
+    "name": "Flat Iron",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "flat-iron-square": {
+    "name": "Flat Iron Square",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -1253,6 +1403,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "fox-and-pheasant": {
+    "name": "The Fox & Pheasant",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "franco-manca": {
     "name": "Franco Manca",
     "firstSeen": "2026-08-17",
@@ -1273,6 +1429,12 @@
   },
   "g-kelly": {
     "name": "G. Kelly",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "gauthier-soho": {
+    "name": "Gauthier Soho",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -1307,6 +1469,18 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "gold-mine": {
+    "name": "Gold Mine",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "golden-chip-hanwell": {
+    "name": "The Golden Chip of Hanwell",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "golden-phoenix": {
     "name": "Golden Phoenix",
     "firstSeen": "2026-08-17",
@@ -1325,8 +1499,26 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "goodman-mayfair": {
+    "name": "Goodman",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "goods-way-kings-cross": {
+    "name": "Goods Way",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "gopals-corner": {
     "name": "Gopal's Corner",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "govindas": {
+    "name": "Govinda's",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -1373,6 +1565,18 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "hackney-bridge": {
+    "name": "Hackney Bridge",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "hainan-house": {
+    "name": "Hainan House",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "hakata-ramen-bar": {
     "name": "Hakata Ramen + Bar",
     "firstSeen": "2026-08-17",
@@ -1391,8 +1595,20 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "hamilton-hall": {
+    "name": "Hamilton Hall",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "happiness-forgets": {
     "name": "Happiness Forgets",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "harrods-dining-hall": {
+    "name": "Harrods Dining Hall",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -1405,6 +1621,18 @@
   },
   "hawksmoor": {
     "name": "Hawksmoor",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "hawley-wharf-camden": {
+    "name": "Hawley Wharf",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "helene-darroze-connaught": {
+    "name": "Hélène Darroze at The Connaught",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -1435,6 +1663,12 @@
   },
   "hobbs-roast": {
     "name": "Hobbs Roast",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "holy-carrot": {
+    "name": "Holy Carrot",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -1511,6 +1745,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "icco-pizza": {
+    "name": "ICCO",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "ikoyi": {
     "name": "Ikoyi",
     "firstSeen": "2026-08-17",
@@ -1547,6 +1787,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "indian-veg": {
+    "name": "Indian Veg",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "ishbilia": {
     "name": "Ishbilia",
     "firstSeen": "2026-08-17",
@@ -1555,6 +1801,12 @@
   },
   "ishtar": {
     "name": "Ishtar",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "itadaki-zen": {
+    "name": "Itadaki Zen",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -1573,6 +1825,12 @@
   },
   "jacuzzi": {
     "name": "Jacuzzi",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "jam-delish": {
+    "name": "Jam Delish",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -1617,7 +1875,7 @@
     "name": "Jinjuu",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
-    "status": "open"
+    "status": "closed"
   },
   "jixiang-baozi": {
     "name": "Jixiang Baozi",
@@ -1716,6 +1974,12 @@
     "status": "open"
   },
   "khun-pakin": {
+    "name": "Khun Pakin Thai",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "khun-pakin-thai": {
     "name": "Khun Pakin Thai",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
@@ -1985,6 +2249,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "lore-of-the-land": {
+    "name": "Lore of the Land",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "los-mochis-notting-hill": {
     "name": "Los Mochis Notting Hill",
     "firstSeen": "2026-08-17",
@@ -1999,6 +2269,12 @@
   },
   "lurra": {
     "name": "Lurra",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "lutyens-grill": {
+    "name": "Lutyens Grill",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -2039,6 +2315,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "mallow-borough": {
+    "name": "Mallow",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "maltby-street-market": {
     "name": "Maltby Street Market",
     "firstSeen": "2026-08-17",
@@ -2053,6 +2335,12 @@
   },
   "mambow": {
     "name": "Mambow",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "mandarin-kitchen": {
+    "name": "Mandarin Kitchen",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -2087,8 +2375,38 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "maries-cafe": {
+    "name": "Marie's Café",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "market-halls-canary-wharf": {
+    "name": "Market Halls Canary Wharf",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "market-halls-oxford-street": {
+    "name": "Market Halls Oxford Street",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "market-halls-paddington": {
+    "name": "Market Halls Paddington",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "market-halls-victoria": {
     "name": "Market Halls Victoria",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "market-place-vauxhall": {
+    "name": "Market Place Food Hall Vauxhall",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -2113,6 +2431,12 @@
   },
   "master-wei": {
     "name": "Master Wei",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "masters-superfish": {
+    "name": "Masters Superfish",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -2159,6 +2483,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "metropolis-vauxhall": {
+    "name": "Metropolis Vauxhall",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "mexican-seoul": {
     "name": "Mexican Seoul",
     "firstSeen": "2026-08-17",
@@ -2171,8 +2501,26 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "michaels-fish-bar": {
+    "name": "Michael's Fish Bar",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "mickeys-chippy": {
+    "name": "Mickey's Chippy",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "miga": {
     "name": "Miga",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "mildreds-soho": {
+    "name": "Mildreds",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -2261,6 +2609,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "naifs": {
+    "name": "Naïfs",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "namaaste-highgate": {
     "name": "Namaaste Highgate",
     "firstSeen": "2026-08-17",
@@ -2279,8 +2633,20 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "napoli-on-the-road-soho": {
+    "name": "Napoli on the Road Soho",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "nardulli": {
     "name": "Nardulli",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "nautilus-fish": {
+    "name": "Nautilus",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -2349,7 +2715,7 @@
     "name": "Oklava",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
-    "status": "open"
+    "status": "closed"
   },
   "old-spike": {
     "name": "Old Spike",
@@ -2555,6 +2921,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "pergola-on-the-wharf": {
+    "name": "Pergola on the Wharf",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "perilla": {
     "name": "Perilla",
     "firstSeen": "2026-08-17",
@@ -2603,6 +2975,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "plates-london": {
+    "name": "Plates",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "plaza-khao-gaeng": {
     "name": "Plaza Khao Gaeng",
     "firstSeen": "2026-08-17",
@@ -2645,6 +3023,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "porte-noire": {
+    "name": "Porte Noire",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "prospect-of-whitby": {
     "name": "The Prospect of Whitby",
     "firstSeen": "2026-08-17",
@@ -2659,6 +3043,12 @@
   },
   "punjab-covent-garden": {
     "name": "Punjab",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "purezza-camden": {
+    "name": "Purezza",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -2741,6 +3131,18 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "restaurant-gordon-ramsay": {
+    "name": "Restaurant Gordon Ramsay",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "rias-notting-hill": {
+    "name": "Ria's",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "richard-hawards-oysters": {
     "name": "Richard Haward's Oysters",
     "firstSeen": "2026-08-17",
@@ -2781,7 +3183,7 @@
     "name": "Roma Pizza",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
-    "status": "temporarily-closed"
+    "status": "open"
   },
   "rosewood-london-tea": {
     "name": "Rosewood London",
@@ -2819,8 +3221,26 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "rudys-pizza-napoletana": {
+    "name": "Rudy's Pizza Napoletana",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "sabor": {
     "name": "Sabor",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "sagar": {
+    "name": "Sagar",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "sagardi": {
+    "name": "Sagardi",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -2833,6 +3253,12 @@
   },
   "sagye": {
     "name": "Sagye",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "sale-e-pepe": {
+    "name": "Sale e Pepe",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -2963,6 +3389,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "short-road-pizza": {
+    "name": "Short Road Pizza",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "shoryu-ramen": {
     "name": "Shoryu Ramen",
     "firstSeen": "2026-08-17",
@@ -2977,6 +3409,12 @@
   },
   "sichuan-folk": {
     "name": "Sichuan Folk",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "silk-road-camberwell": {
+    "name": "Silk Road",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -3067,6 +3505,12 @@
   },
   "spice-village-tooting": {
     "name": "Spice Village",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "spring-street-pizza": {
+    "name": "Spring Street Pizza",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -3209,6 +3653,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "tattu-london": {
+    "name": "Tattu London",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "tavern-shoreditch": {
     "name": "Tavern",
     "firstSeen": "2026-08-17",
@@ -3235,6 +3685,18 @@
   },
   "temaki-mayfair": {
     "name": "Temaki Mayfair",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "temple-of-seitan": {
+    "name": "Temple of Seitan",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "tendril": {
+    "name": "Tendril",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -3335,6 +3797,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "the-crosse-keys": {
+    "name": "The Crosse Keys",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "the-devonshire": {
     "name": "The Devonshire",
     "firstSeen": "2026-08-17",
@@ -3395,8 +3863,20 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "the-gate-hammersmith": {
+    "name": "The Gate",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "the-george-inn": {
     "name": "The George Inn",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "the-golden-chippy": {
+    "name": "The Golden Chippy",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -3415,6 +3895,18 @@
   },
   "the-goring": {
     "name": "The Goring",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "the-grapes-limehouse": {
+    "name": "The Grapes",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "the-guinea-grill": {
+    "name": "The Guinea Grill",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -3455,6 +3947,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "the-ledger-building": {
+    "name": "The Ledger Building",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "the-life-goddess": {
     "name": "The Life Goddess",
     "firstSeen": "2026-08-17",
@@ -3487,6 +3985,12 @@
   },
   "the-milestone-tea": {
     "name": "The Milestone Hotel",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "the-montagu-pyke": {
+    "name": "The Montagu Pyke",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -3573,7 +4077,7 @@
     "name": "The Tapas Room",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
-    "status": "open"
+    "status": "closed"
   },
   "the-turks-head": {
     "name": "The Turk's Head",
@@ -3641,6 +4145,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "tofu-vegan": {
+    "name": "Tofu Vegan",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "tokii": {
     "name": "TOKii",
     "firstSeen": "2026-08-17",
@@ -3661,6 +4171,12 @@
   },
   "tongdak": {
     "name": "Tongdak",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "tongue-and-brisket": {
+    "name": "Tongue & Brisket",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"
@@ -3767,6 +4283,18 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "vincenzos-pizza": {
+    "name": "Vincenzo's",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "vinegar-yard": {
+    "name": "Vinegar Yard",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "violet-cakes": {
     "name": "Violet Cakes",
     "firstSeen": "2026-08-17",
@@ -3803,6 +4331,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "winter-garden-landmark": {
+    "name": "Winter Garden",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "wong-kei": {
     "name": "Wong Kei",
     "firstSeen": "2026-08-17",
@@ -3827,6 +4361,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "yard-sale-pizza": {
+    "name": "Yard Sale Pizza",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "yauatcha": {
     "name": "Yauatcha",
     "firstSeen": "2026-08-17",
@@ -3845,6 +4385,12 @@
     "lastSeen": "2026-08-17",
     "status": "open"
   },
+  "yurt-cafe": {
+    "name": "The Yurt Café",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
   "zapote": {
     "name": "Zapote",
     "firstSeen": "2026-08-17",
@@ -3853,6 +4399,12 @@
   },
   "zeit-and-zaatar": {
     "name": "Zeit & Za'atar",
+    "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-17",
+    "status": "open"
+  },
+  "zelman-meats": {
+    "name": "Zelman Meats",
     "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17",
     "status": "open"

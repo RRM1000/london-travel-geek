@@ -1,0 +1,50 @@
+{
+  "cuisine": "live-music",
+  "note": "Seeded 2026-08-25.",
+  "recorded": "2026-08-25",
+  "sources": [
+    {
+      "name": "The Nudge",
+      "url": "https://thenudge.com/the-best-live-music-venues-in-london/",
+      "scope": "live-music",
+      "names": [
+        "Bush Hall",
+        "Servant Jazz Quarters",
+        "The Old Blue Last",
+        "MOTH Club",
+        "The Blues Kitchen Camden",
+        "Ronnie Scott’s",
+        "Union Chapel",
+        "Shepherd’s Bush Empire",
+        "Wilton’s Music Hall",
+        "O2 Academy Brixton",
+        "Roundhouse",
+        "KOKO",
+        "Alexandra Palace",
+        "The Blues Kitchen Shoreditch",
+        "Jazz Cafe Camden",
+        "Dalston Jazz Bar",
+        "Jumbi",
+        "Cadogan Hall",
+        "Southbank Centre",
+        "Mu",
+        "Brilliant Corners",
+        "Upstairs At Ronnie’s",
+        "Somerset House",
+        "Night Tales"
+      ]
+    },
+    {
+      "name": "DesignMyNight",
+      "url": "https://www.designmynight.com/london/live-music-in-london",
+      "scope": "live-music",
+      "names": [
+        "Live Music In Central London",
+        "Live Music In East London",
+        "Live Music In South London",
+        "Live Music In North London",
+        "Live Music In West London"
+      ]
+    }
+  ]
+}

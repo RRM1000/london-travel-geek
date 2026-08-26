@@ -93,7 +93,6 @@
       "url": "https://www.timeout.com/london/news/londons-best-dim-sum-restaurant-has-been-crowned-for-2025-by-time-out-012125",
       "scope": "dim-sum",
       "names": [
-        "Press office",
         "Investor relations",
         "Work for Time Out",
         "Privacy notice",
@@ -105,7 +104,9 @@
         "Time Out Market",
         "Time Out Offers",
         "Time Out Worldwide",
-        "Movies"
+        "Movies",
+        "Baba Tang",
+        "for the best of the city"
       ]
     },
     {
@@ -242,11 +243,6 @@
       "url": "https://www.timeout.com/london/news/the-best-asian-restaurant-in-every-part-of-london-100925",
       "scope": "chinese",
       "names": [
-        "North London Restaurant of the Year: Taste of Goa",
-        "South London Restaurant of the Year: Saka Maka",
-        "City & East London Restaurant of the Year: Bengal Village",
-        "Central & West London Restaurant of the Year: BKC",
-        "Press office",
         "Investor relations",
         "Work for Time Out",
         "Privacy notice",
@@ -265,8 +261,34 @@
       "name": "SquareMeal (26 best Chinese)",
       "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876",
       "scope": "chinese",
-      "names": [],
-      "error": "HTTP 403"
+      "names": [
+        "Fresh Feast",
+        "Dim Sum Duck",
+        "Park Chinois",
+        "Master Wei",
+        "A. Wong",
+        "JM Oriental",
+        "Feng Shang Princess",
+        "San Hao",
+        "Lucky and Joy",
+        "Etles",
+        "Murger Han",
+        "Facing Heaven",
+        "Four Seasons",
+        "Bright Courtyard Club",
+        "Three Uncles",
+        "Kai",
+        "The Duck and Rice",
+        "Min Jiang at the Royal Garden Hotel",
+        "MiMi Mei Fair",
+        "Yauatcha",
+        "Hakkasan",
+        "Din Tai Fung",
+        "Imperial Treasure",
+        "Hunan",
+        "Mei Ume",
+        "Barshu"
+      ]
     },
     {
       "name": "SquareMeal (Chinatown)",
@@ -298,6 +320,35 @@
         "Login",
         "Forgot Password"
       ]
+    },
+    {
+      "name": "Olive Magazine",
+      "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/",
+      "scope": "chinese",
+      "names": [
+        "Noodle & Beer",
+        "Fiery Flavours",
+        "Poons",
+        "Dim Sum Library",
+        "Tao Tao Ju",
+        "Master Wei",
+        "Barshu",
+        "Three Uncles",
+        "Noodle Nova",
+        "Chilli Cool",
+        "YiQi",
+        "Pearl Liang",
+        "Murger Han Han",
+        "Imperial Treasure",
+        "China Tang",
+        "Xi’an Impression",
+        "Hutong",
+        "Silk Road",
+        "Etles",
+        "A Wong",
+        "Authors"
+      ]
     }
-  ]
+  ],
+  "recorded": "2026-08-25"
 }

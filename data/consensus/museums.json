@@ -1,0 +1,70 @@
+{
+  "cuisine": "museums",
+  "note": "SCOPE. Museums in London. Nationals, independents and specialist collections. Galleries live in the galleries topic; historic houses in historic-houses.",
+  "recorded": "2026-08-25",
+  "sources": [
+    {
+      "name": "Civitatis",
+      "url": "https://www.civitatis.com/blog/en/museums-london/",
+      "scope": "museums",
+      "names": [
+        "National Gallery",
+        "Science Museum",
+        "Tate Modern",
+        "The V&A Museum",
+        "Tate Britain",
+        "Madame Tussauds"
+      ]
+    },
+    {
+      "name": "The Better Vacation",
+      "url": "https://thebettervacation.com/london/best-museums-in-london/",
+      "scope": "museums",
+      "names": [
+        "Quick-pick table",
+        "The great free national museums",
+        "Specialist museums worth paying for",
+        "Opening days and late nights",
+        "Practical tips for visiting London’s museums",
+        "Important Links"
+      ]
+    },
+    {
+      "name": "Art Visit Guide (free)",
+      "url": "https://www.artvisitguide.com/free-museums-london/",
+      "scope": "museums",
+      "names": [
+        "The permanently free museums",
+        "The catch with \"free\"",
+        "One honest paid recommendation"
+      ]
+    },
+    {
+      "name": "Museums Made Easy",
+      "url": "https://www.museumsmadeeasy.com/free-museums/london",
+      "scope": "museums",
+      "names": [
+        "British Museum",
+        "Natural History Museum",
+        "National Gallery",
+        "Science Museum",
+        "Victoria and Albert Museum",
+        "Tate Modern",
+        "Tate Britain",
+        "National Portrait Gallery",
+        "Hidden Gems",
+        "Wallace Collection",
+        "National Maritime Museum",
+        "Bank of England Museum",
+        "Sir John Soane's Museum",
+        "Museum of Freemasonry",
+        "Perfect Free Days Used",
+        "South Kensington District",
+        "Trafalgar to Bankside",
+        "Greenwich Day Trip",
+        "Explore Other Cities",
+        "New York City"
+      ]
+    }
+  ]
+}

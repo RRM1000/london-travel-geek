@@ -1,0 +1,95 @@
+{
+  "cuisine": "historic-houses",
+  "note": "Seeded 2026-08-25.",
+  "recorded": "2026-08-25",
+  "sources": [
+    {
+      "name": "Cultural Wednesday",
+      "url": "https://www.culturalwednesday.co.uk/houses-to-visit-in-london/",
+      "scope": "historic-houses",
+      "names": [],
+      "error": "no headings matched"
+    },
+    {
+      "name": "FLO London",
+      "url": "https://www.flolondon.co.uk/all-posts/a-guide-to-the-most-beautiful-historic-homes-to-visit-in-london",
+      "scope": "historic-houses",
+      "names": [
+        "FLO Helps",
+        "Copyright flo london 2020"
+      ]
+    },
+    {
+      "name": "The Working Line",
+      "url": "https://theworkingline.com/beautiful-historic-houses-stately-homes-london/",
+      "scope": "historic-houses",
+      "names": [
+        "Published Novels",
+        "NYC",
+        "Around the World",
+        "Work With Me"
+      ]
+    },
+    {
+      "name": "A Peace of London",
+      "url": "https://apeaceoflondon.wordpress.com/category/museums-historic-houses/",
+      "scope": "historic-houses",
+      "names": [
+        "Carlyle’s House: the essentials",
+        "Shakespeare had some of his plays licensed here",
+        "St John’s Gate: the essentials",
+        "Robert Adam",
+        "Edward Cecil Guinness",
+        "Dido Elizabeth Belle",
+        "William Murray",
+        "The history of Burgh House",
+        "Burgh House today",
+        "Other quiet places nearby",
+        "The Charterhouse essentials…",
+        "The Wallace Collection",
+        "William Morris Gallery",
+        "Burgh House and Hampstead Museum",
+        "Queen Elizabeth’s Hunting Lodge",
+        "Valentines Mansion",
+        "The Geffrye Museum of the Home",
+        "Bethlem Museum of the Mind",
+        "The Faraday Museum",
+        "The Museum of the Order of St John",
+        "Grant Museum of Zoology",
+        "Guildhall",
+        "St Bart’s Hospital Museum",
+        "The BDA Dental Museum",
+        "Horniman Museum and Gardens",
+        "London Sewing Machine Museum",
+        "V&A Museum of Childhood",
+        "The Hunterian Museum",
+        "The Ragged School Museum",
+        "The Royal London Museum",
+        "Bank of England Museum",
+        "New London Architecture",
+        "Petrie Museum of Egyptian Archaeology",
+        "Sir John Soane’s Museum",
+        "The Library and Museum of Freemasonry",
+        "Anaesthesia Heritage Centre",
+        "Old Royal Naval College",
+        "The history of London Sewing Machine Museum",
+        "Highlights of the collection",
+        "Essentials",
+        "I admired the beautiful wall panels",
+        "I learned the perils of a Tudor kitchen",
+        "The essentials",
+        "Posts navigation"
+      ]
+    },
+    {
+      "name": "TAT London",
+      "url": "https://www.tat-london.co.uk/post/historic-homes-london",
+      "scope": "historic-houses",
+      "names": [
+        "Recent Posts",
+        "May 30",
+        "9 min read"
+      ]
+    }
+  ]
+}

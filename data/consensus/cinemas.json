@@ -1,0 +1,79 @@
+{
+  "cuisine": "cinemas",
+  "note": "SCOPE. Cinemas in London worth choosing FOR THE ROOM or the programming: independents, art deco survivors, repertory houses, luxury screens. NOT multiplex chains, which are interchangeable. Blocked/aggregator domains refused at the door.",
+  "recorded": "2026-08-25",
+  "sources": [
+    {
+      "name": "The Handbook",
+      "url": "https://www.thehandbook.com/london-independent-cinemas/",
+      "scope": "cinemas",
+      "names": [
+        "Electric Cinema",
+        "The Prince Charles",
+        "The Cinema at Selfridges",
+        "BFI at Southbank",
+        "The Barbican Cinema",
+        "Clapham Picturehouse",
+        "The Cinema in The Arches",
+        "The Rio",
+        "The Regent Street Cinema",
+        "The Castle Cinema"
+      ]
+    },
+    {
+      "name": "London x London",
+      "url": "https://www.londonxlondon.com/best-independent-cinemas-london/",
+      "scope": "cinemas",
+      "names": [
+        "Peckhamplex",
+        "Prince Charles Cinema",
+        "ActOne Cinema & Café",
+        "Electric Cinema",
+        "Phoenix Cinema",
+        "Rio Cinema",
+        "The Lexi Cinema",
+        "BFI Southbank",
+        "London’s Independent Cinemas: Map"
+      ]
+    },
+    {
+      "name": "Explore London",
+      "url": "https://www.explorelondon.co.uk/entertainment/best-cinemas.php",
+      "scope": "cinemas",
+      "names": [],
+      "error": "no headings matched"
+    },
+    {
+      "name": "Saint + Sofia",
+      "url": "https://uk.saintandsofia.com/blogs/london/best-independent-cinemas-in-london",
+      "scope": "cinemas",
+      "names": [
+        "The Electric Cinema",
+        "Prince Charles Cinema",
+        "Curzon Bloomsbury",
+        "Rio Cinema",
+        "BFI Southbank",
+        "Genesis Cinema",
+        "ICA Cinema",
+        "Castle Cinema",
+        "Added to Shopping Bag"
+      ]
+    },
+    {
+      "name": "London.gov",
+      "url": "https://www.london.gov.uk/who-we-are/city-hall-blog/love-londons-independent-cinemas",
+      "scope": "cinemas",
+      "names": [
+        "BFI Southbank",
+        "Prince Charles Cinema",
+        "Electric Cinema Portobello",
+        "Genesis Cinema",
+        "Phoenix Cinema",
+        "Rio Cinema",
+        "The Ritzy",
+        "In partnership with Film London",
+        "Useful links"
+      ]
+    }
+  ]
+}

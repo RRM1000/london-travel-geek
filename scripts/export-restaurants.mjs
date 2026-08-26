@@ -15,6 +15,7 @@
 //   node scripts/export-restaurants.mjs
 //
 import fs from "node:fs";
+import path from "node:path";
 import { readTab } from "./sheets.mjs";
 
 const OUT = "src/data/restaurants.json";
@@ -55,12 +56,21 @@ const PUBLIC = {
   "Price Band": "price", Deals: "deals", "Booking Lead Time": "booking",
   "Booking URL": "bookingUrl", Website: "website",
   Setting: "setting", "Outdoor Seating": "outdoor", Noise: "noise",
-  "Good For": "goodFor", Dietary: "dietary",
+  "Good For": "goodFor", Dietary: "dietary", "Food Offer": "foodOffer",
   "Why Go": "whyGo", "Signature Dish": "signature",
   "Operational Summary": "opNote", Signals: "signals", Lists: "lists",
   // A chapter deep link into a published food video. Public by nature - it is
   // somebody else's YouTube URL - and the guides cite it, so it ships.
   Video: "video",
+  // PROVENANCE. How many independent sources named this venue, across which
+  // tiers, and three of the links. Derived by scripts/build-evidence.mjs and
+  // recomputed on every write, so a page can state its own support and still
+  // be right a year later. Public deliberately: "named by six independent
+  // sources across an award, three publications, a blog and a video" is the
+  // strongest thing a recommendation page can say, and it is checkable.
+  "Source Count": "sourceCount",
+  "Source Tiers": "sourceTiers",
+  "Source Links": "sourceUrls",
 };
 
 const csv = (v) => String(v ?? "").split(",").map((x) => x.trim()).filter(Boolean);
@@ -87,7 +97,21 @@ for (const r of rows) {
 // because "Dishoom, Canary Wharf" is a different promise from the Covent Garden
 // original and the page should not pretend otherwise.
 const byName = new Map(out.map((r) => [r.name.toLowerCase(), r]));
-let branchesAdded = 0, branchesOrphaned = [];
+
+// A brand's FLAGSHIP is already in the sheet as its own row, and the Branches
+// tab usually lists that same site again alongside the others. Emitting both
+// puts the venue on the site twice - Mercato Metropolitano appeared at
+// Elephant & Castle twice for exactly this reason.
+//
+// The test is deliberately CONSERVATIVE: drop the branch only when its label
+// adds no location the parent row does not already state, i.e. the branch name
+// is just the parent's own neighbourhood. Lina Stores has genuinely separate
+// Brewer Street and Greek Street sites, both in Soho, and a looser
+// same-neighbourhood rule would delete one of them.
+const norm = (s) =>
+  String(s ?? "").toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, " ").trim();
+
+let branchesAdded = 0, branchesOrphaned = [], branchesDeduped = [];
 for (const b of branchRows) {
   const parentName = String(b.Restaurant ?? "").trim();
   const parent = byName.get(parentName.toLowerCase());
@@ -96,6 +120,12 @@ for (const b of branchRows) {
   const guide = String(b["Area Guide"] ?? "").trim();
   const area = String(b.Neighbourhood ?? "").trim();
   if (!guide && !area) continue;
+
+  const branchLabel = String(b.Branch ?? "").trim();
+  if (norm(branchLabel) && norm(branchLabel) === norm(parent.area)) {
+    branchesDeduped.push(`${parentName} (${branchLabel})`);
+    continue;
+  }
   out.push({
     ...parent,
     slug: parent.slug + "--" + String(b.Branch ?? area).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""),
@@ -146,33 +176,67 @@ fs.writeFileSync(OUT, JSON.stringify(payload, null, 1));
 console.log(`${OUT}: ${out.length} open rows, ${payload.withCoords} with coordinates`);
 console.log(`  cuisines ${payload.facets.cuisine.length}, areas ${payload.facets.area.length}, specialities ${payload.facets.speciality.length}`);
 console.log(`  branches: ${branchesAdded} added from ${branchRows.length} rows in the Branches tab`);
+if (branchesDeduped.length) {
+  console.log(`  ${branchesDeduped.length} branch row(s) SKIPPED as the parent's own site: ${branchesDeduped.join(", ")}`);
+}
 if (branchesOrphaned.length) {
   const uniq = [...new Set(branchesOrphaned)];
   console.log(`  ORPHANED BRANCHES - ${uniq.length} brand(s) have branches but no parent row: ${uniq.join(", ")}`);
 }
 console.log(`  withheld: Google Rating/Reviews (internal), Source, and every column not in PUBLIC`);
 
-// INVALIDATE ASTRO'S CONTENT CACHE.
+// INVALIDATE ASTRO'S RENDER CACHE - WITHOUT BREAKING A RUNNING DEV SERVER.
 //
 // src/lib/remark-area-restaurants.mjs bakes a count out of the file we just
 // wrote into each area guide's RENDERED MARKDOWN. Astro caches that render
-// against the .md file, which has not changed - so without this, new rows are
-// exported, the build succeeds, and the guides still show yesterday's number.
+// against the .md file, which has not changed - so without invalidation, new
+// rows are exported, the build succeeds, and the guides still show yesterday's
+// number. That happened on 2026-08-19: four guides gained rows and only Wapping
+// picked them up, because its .md file had been edited in the same pass.
 //
-// That is exactly what happened on 2026-08-19: four guides gained rows, the
-// build reported success, and only Wapping picked them up because its .md file
-// happened to have been edited in the same pass.
+// This USED TO delete .astro and node_modules/.astro outright. That fixed the
+// stale counts and introduced a worse bug: deleting the content-layer store out
+// from under a RUNNING dev server leaves it with no "articles" collection, so
+// every article 404s and the search index rebuilds with zero guides. It looked
+// like the site was broken. It was not - the dev server just needed restarting,
+// which is not something anyone should have to know.
 //
-// Deleting the cache is safe - Astro rebuilds it - and costs about thirty
-// seconds on the next build. Exports are infrequent; silently stale pages are
-// not an acceptable trade for that.
-let cleared = 0;
-for (const dir of [".astro", "node_modules/.astro"]) {
-  if (fs.existsSync(dir)) {
-    fs.rmSync(dir, { recursive: true, force: true });
-    cleared++;
+// So: touch the area guides instead. Bumping mtime is what actually invalidates
+// the render cache, it is what the 2026-08-19 accident did by hand, and a
+// running dev server treats it as an ordinary file change and reloads cleanly.
+// The hard delete is kept for the no-dev-server case, where it is free.
+async function devServerRunning(port = 4321) {
+  try {
+    const c = new AbortController();
+    const t = setTimeout(() => c.abort(), 400);
+    await fetch(`http://localhost:${port}/`, { signal: c.signal });
+    clearTimeout(t);
+    return true;
+  } catch {
+    return false;
   }
 }
-if (cleared) {
-  console.log(`  cleared ${cleared} Astro content cache dir(s) - the next build re-renders the guides`);
-}
+
+const guides = fs.readdirSync("src/content/articles").filter((f) => f.endsWith(".md"));
+const now = new Date();
+for (const f of guides) fs.utimesSync(path.join("src/content/articles", f), now, now);
+console.log(`  touched ${guides.length} article file(s) - forces Astro to re-render the baked-in counts`);
+
+// DO NOT DELETE .astro HERE.
+//
+// Touching the markdown above is enough: it changes their mtimes, so Astro
+// re-renders every guide and picks up the new counts. Removing the cache as
+// well was meant to be belt-and-braces and is actively harmful - Astro 5
+// keeps the content collection in .astro/data-store.json, and a half-deleted
+// .astro leaves a `collections` directory with no store beside it. A dev
+// server pointed at that state serves 404 for EVERY article, because as far
+// as it is concerned the collection is empty.
+//
+// The guard used to be "only delete when no dev server is running", which
+// still broke: the export runs, deletes the cache, and the NEXT dev server
+// starts on the wreckage. There is no version of deleting this that is safe,
+// and nothing needs it - a cold `astro dev` or `astro build` rebuilds the
+// store on its own.
+//
+// This has now been diagnosed three times from the same symptom (every
+// article 404s in dev, build passes fine). Leave the cache alone.

@@ -88,7 +88,12 @@ const COLUMNS = [
 ];
 
 const VOCAB = {
-  type: ["blue-plaque", "street-art", "filming-location", "hidden-gem"],
+  // music-location is the fifth subject, added when TV and music coverage was
+  // widened. It is NOT filming-location: an album cover shoot and a rooftop
+  // concert are not filming, and lumping them in would make a "filming
+  // locations" filter dishonest. Same one-tab-with-a-type-column reasoning
+  // that put street art and blue plaques together in the first place.
+  type: ["blue-plaque", "street-art", "filming-location", "hidden-gem", "music-location"],
 };
 
 // Same table as write-hotels.mjs / write-activities.mjs / write-events.mjs -
@@ -146,6 +151,8 @@ const HOODS = {
   "Lambeth":            { zone: "1–2", district: "South" },
   "East Dulwich":       { zone: "2–3", district: "South" },
   "Swiss Cottage":      { zone: "2",   district: "North" },
+  "St John's Wood":     { zone: "2",   district: "North" },
+  "Dartmouth Park":     { zone: "2–3", district: "North" },
 };
 
 const base = {
@@ -841,7 +848,7 @@ const ROWS = [
     hood: "Canary Wharf", borough: "Tower Hamlets", areaGuide: "canary-wharf-area-guide",
     address: "64 Orchard Place", postcode: "E14 0JW",
     whyGo: "A genuinely odd little peninsula at the mouth of the Lea: London's only lighthouse (used to test navigation lights, not to guide ships), a village of creative studios built from shipping containers, and the SS Robin, a preserved 1890 steamship.",
-    opSummary: "Free to walk around; the lighthouse's Longplayer sound installation is open weekend afternoons. A fair walk or a short bus ride from Canary Wharf itself - not directly on the Jubilee line.",
+    opSummary: "Free to walk around; the lighthouse's Longplayer sound installation is open weekend afternoons. It is NOT next to Canary Wharf - allow 20-30 minutes on foot from the Wharf, or take the DLR to East India and walk about 10 minutes. Nothing on the Jubilee line goes near it.",
     source: "theworkingline.com East London hidden gems roundup, cross-checked against Trinity Buoy Wharf's own site",
   },
   {
@@ -1433,6 +1440,51 @@ const ROWS = [
     source: "Smithsonian Magazine, ArtNews and Londonist coverage of the museum donation, cross-checked against the museum's own 2026 opening announcement",
   },
   {
+    ...base, slug: "hawley-arms-amy-winehouse", name: "The Hawley Arms", type: "music-location", scheme: "",
+    subject: "Amy Winehouse's Camden local - she worked behind the bar and kept coming back",
+    hood: "Camden Town", borough: "Camden", areaGuide: "camden-area-guide",
+    address: "2 Castlehaven Road",
+    whyGo: "The Victorian pub just off the market where Amy Winehouse pulled pints - first as staff, later as a regular who would hop back behind the bar for the sake of it. She stayed loyal to it after fame arrived, drinking and playing pool here, and helped raise the money to reopen it after the February 2008 Camden Lock fire gutted the building.",
+    opSummary: "A working pub, not a shrine - it does not trade on her and there is no memorial inside. Also the 2000s haunt of Kate Moss, Noel Fielding and most of the indie scene. Her drink here was the 'Rickstasy': three parts vodka to one each of banana liqueur, Southern Comfort and Baileys.",
+    source: "Vice, Time Out and Camden New Journal coverage; the 2008 fire and reopening confirmed across all three.",
+  },
+  {
+    ...base, slug: "dublin-castle-amy-winehouse", name: "The Dublin Castle", type: "music-location", scheme: "",
+    subject: "The small back room where Madness, Blur and Amy Winehouse all played",
+    hood: "Camden Town", borough: "Camden", areaGuide: "camden-area-guide",
+    address: "94 Parkway",
+    whyGo: "A back room the size of a living room with a genuine claim on British music - Madness effectively started here, Blur played early sets, and Amy Winehouse both performed and worked behind the bar. Still a working music pub putting on new bands most nights.",
+    opSummary: "Free or a few pounds on the door depending on the night. Small enough that arriving late means standing in the corridor.",
+    source: "Time Out's Amy Winehouse London locations; the venue's own history page.",
+  },
+  {
+    ...base, slug: "amy-winehouse-fallen-angel", name: "Amy Winehouse's 'Fallen Angel' Mural", type: "street-art", scheme: "",
+    subject: "Pegasus's tribute on the canalside information centre",
+    hood: "Camden Town", borough: "Camden", areaGuide: "camden-area-guide",
+    address: "Camden Lock Place",
+    whyGo: "A mural of Winehouse as a winged angel by the street artist Pegasus, on the side of the canalside visitor information centre. The wall became an unofficial shrine in the days after her death in 2011, and the piece was formally reopened by her mother Janis in December 2013.",
+    opSummary: "It has been whitewashed and repainted at least once already, and we could not confirm its condition for 2026 - check a recent photograph before making a special trip for it. Free and outdoors, right by the lock.",
+    source: "Camden New Journal, Jewish News and Fred Perry Subculture on the Pegasus piece and the 2013 reopening. CURRENT CONDITION NEEDS VERIFYING.",
+  },
+  {
+    ...base, slug: "amy-winehouse-camden-square", name: "30 Camden Square", type: "music-location", scheme: "",
+    subject: "Amy Winehouse's last home, where she died in July 2011",
+    hood: "Camden Town", borough: "Camden", areaGuide: "camden-area-guide",
+    address: "Camden Square",
+    whyGo: "The house Winehouse was living in when she died on 23 July 2011. It drew a wall of flowers and messages in the weeks afterwards and is still listed on most Amy Winehouse trails.",
+    opSummary: "We would think twice. It is a private house with somebody else living in it, there is no plaque and nothing to see, and the flowers went years ago. The statue in the Stables Market and the Hawley Arms are the places actually built for remembering her - this is just an address on a quiet residential square.",
+    source: "Widely documented; listed on Time Out's Amy Winehouse London. Included because guides send people here, with the caveat they usually leave out.",
+  },
+  {
+    ...base, slug: "amy-winehouse-statue", name: "The Amy Winehouse Statue", type: "music-location", scheme: "",
+    subject: "Amy Winehouse (1983-2011), in the market she lived beside and sang about",
+    hood: "Camden Town", borough: "Camden", areaGuide: "camden-area-guide",
+    address: "Stables Market, Chalk Farm Road",
+    whyGo: "A life-size bronze by Scott Eaton, unveiled on 14 September 2014 - what would have been her 31st birthday - standing in the Stables Market a few minutes from where she lived. She is in the beehive and the winged eyeliner, with a Star of David at her throat, and the plinth carries the line 'Love is a losing game'.",
+    opSummary: "Free, outdoors and always accessible, in the Stables Market end of Camden rather than by the lock - walk north past the railway bridge. Fans leave flowers, notes and lipstick marks on it, particularly around her birthday in September and the anniversary of her death in July.",
+    source: "Amy Winehouse Foundation, BBC and NBC coverage of the 2014 unveiling; sculptor confirmed as Scott Eaton across all three.",
+  },
+  {
     ...base, slug: "banksy-london-zoo-gorilla", name: "Banksy's Gorilla (original REMOVED, replica in place)", type: "street-art", scheme: "",
     subject: "Day nine of the August 2024 animal series - the finale, a gorilla lifting the zoo's shutter",
     hood: "Camden Town", borough: "Camden", areaGuide: "camden-area-guide",
@@ -1545,7 +1597,7 @@ const ROWS = [
   {
     ...base, slug: "st-dunstan-west-elizabeth-statue", name: "Elizabeth I Statue, St Dunstan-in-the-West", type: "hidden-gem", scheme: "",
     subject: "Likely London's oldest public statue, carved around 1586",
-    hood: "Westminster", borough: "City of Westminster", areaGuide: "westminster-area-guide",
+    hood: "City of London", borough: "City of London", areaGuide: "city-of-london-area-guide",
     address: "186a Fleet Street",
     whyGo: "Believed carved in 1586, the only surviving statue of Elizabeth I made in her lifetime - it originally stood on Ludgate and was moved here when the gate was demolished in 1760. Easy to walk past on busy Fleet Street.",
     opSummary: "Set in a niche on the church exterior, visible from the street at any time.",
@@ -1611,6 +1663,139 @@ const ROWS = [
     whyGo: "Taron Egerton's Eggsy and his mother live here at the start of the film - the production picked the Grade II*-listed Alexandra & Ainsworth Estate for its brutalist scale, a slightly ironic choice given the building's own architectural pedigree.",
     opSummary: "A private residential flat on a lived-in estate - viewable from the walkway only.",
     source: "movie-locations.com and tokyofox.net Kingsman location coverage cross-checked",
+  },
+
+  // ===================== TV AND MUSIC PASS =====================
+  // The filming-location set was heavily FILM-weighted - 38 rows, of which only
+  // Bridgerton, Killing Eve and Sherlock were television, and nothing at all
+  // covered music. These nine fill both gaps with shows and records famous
+  // enough that a visitor recognises them without a caption.
+  //
+  // Each location was verified to a specific street address rather than an
+  // area. Luther was researched and DROPPED: its two signature locations are
+  // the Aylesbury Estate (being demolished) and Liverpool Street Station (too
+  // generic to send anyone to). A row that cannot survive its own address is
+  // not worth writing.
+
+  // ------------------------------------------------------------ television ---
+  {
+    ...base, slug: "slow-horses-slough-house", name: "Slow Horses' Slough House", type: "filming-location", scheme: "",
+    subject: "Slow Horses (2022-) - the exterior of Jackson Lamb's dumping ground for failed spies",
+    hood: "City of London", borough: "City of London", areaGuide: "city-of-london-area-guide",
+    address: "126 Aldersgate Street", postcode: "EC1A 4JQ",
+    whyGo: "The grubby door the slow horses trudge through in nearly every episode is a real one, on the corner of Aldersgate and Carthusian Street above an Italian restaurant - a genuinely unremarkable building doing a lot of work. The fire escape from the series is around the corner on St John's Street.",
+    opSummary: "A working office building above a restaurant - the point is the doorway and the street, both public. Two minutes from Barbican station and Smithfield.",
+    source: "Londonist and squaremilesecrets.com Slow Horses location coverage cross-checked",
+  },
+  {
+    ...base, slug: "ted-lasso-crown-and-anchor", name: "Ted Lasso's Crown & Anchor (The Prince's Head)", type: "filming-location", scheme: "",
+    subject: "Ted Lasso (2020-2023) - the team's local pub",
+    hood: "Richmond", borough: "Richmond upon Thames", areaGuide: "richmond-area-guide",
+    address: "28 The Green", postcode: "TW9 1LX",
+    whyGo: "The pub Ted and the Greyhounds fans drink in is The Prince's Head on Richmond Green, and the exterior is exactly as it appears on screen. Richmond doubles for itself throughout - unusually for London television, the show is set where it was shot.",
+    opSummary: "A working Fuller's pub, normal opening hours. The interior scenes were shot on a set, so do not expect the inside to match.",
+    source: "Wikipedia and the pub's own site (princeshead.co.uk) cross-checked",
+  },
+  {
+    ...base, slug: "fleabag-cafe", name: "Fleabag's Guinea Pig Cafe", type: "filming-location", scheme: "",
+    subject: "Fleabag (2016-2019) - the failing cafe Fleabag runs",
+    hood: "Dartmouth Park", borough: "Camden", areaGuide: "",
+    address: "20 York Rise", postcode: "NW5 1RB",
+    whyGo: "The cafe with the guinea pig in the window was a real one - the Village Cafe on York Rise, a quiet residential parade in Dartmouth Park. Almost the whole series was shot within a few streets of here rather than in central London.",
+    opSummary: "NEEDS VERIFYING - the Village Cafe closed and the site has since traded under new ownership, so the frontage no longer matches the series. Confirm what is there before making a trip.",
+    source: "Trainline and Kentishtowner Fleabag location coverage cross-checked",
+  },
+  {
+    ...base, slug: "the-crown-buckingham-palace", name: "The Crown's Buckingham Palace (Old Royal Naval College)", type: "filming-location", scheme: "",
+    subject: "The Crown (2016-2023) - the Buckingham Palace exterior and courtyard",
+    hood: "Greenwich", borough: "Greenwich", areaGuide: "greenwich-area-guide",
+    address: "Old Royal Naval College, King William Walk", postcode: "SE10 9NN",
+    whyGo: "Wren's naval college stands in for Buckingham Palace throughout the series - the real palace does not allow filming, so the courtyard scenes you remember were shot in Greenwich. The same colonnades appear in Les Miserables, Thor and The Dark Knight Rises.",
+    opSummary: "The grounds are free and open daily; the Painted Hall and Chapel are ticketed separately. Already the most-filmed building in London, so expect to recognise it from several things at once.",
+    source: "Secret London and Londontopia The Crown location coverage cross-checked",
+  },
+
+  // ----------------------------------------------------------------- music ---
+  {
+    ...base, slug: "abbey-road-crossing", name: "The Abbey Road Crossing", type: "music-location", scheme: "",
+    subject: "The Beatles, Abbey Road (1969) - the album cover crossing",
+    hood: "St John's Wood", borough: "Westminster", areaGuide: "",
+    address: "Abbey Road at Grove End Road", postcode: "NW8 0QH",
+    whyGo: "The most photographed zebra crossing in the world, outside the studios where most of the Beatles' catalogue was recorded. The crossing itself is Grade II listed - the only pedestrian crossing in Britain that is.",
+    opSummary: "A LIVE ROAD with real traffic, and drivers here have seen the joke several thousand times. The studio is a working facility and is not open to the public; the wall outside is covered in graffiti and repainted regularly.",
+    source: "Wikipedia and Abbey Road Studios' own site cross-checked",
+  },
+  {
+    ...base, slug: "beatles-rooftop-savile-row", name: "The Beatles' Rooftop Concert (3 Savile Row)", type: "music-location", scheme: "",
+    subject: "The Beatles' final public performance, 30 January 1969",
+    hood: "Mayfair", borough: "Westminster", areaGuide: "mayfair-area-guide",
+    address: "3 Savile Row", postcode: "W1S 3PB",
+    whyGo: "The Beatles played their last ever public set on this roof - a 42-minute performance from the top of their Apple Corps headquarters that stopped traffic on Savile Row until the police arrived and asked them to turn it down.",
+    opSummary: "The roof is not accessible and the building is in private commercial use - this is a look-up-from-the-pavement stop. A few doors from the Kingsman tailor at number 11.",
+    source: "Wikipedia and beatlesbible.com cross-checked",
+  },
+  {
+    ...base, slug: "ziggy-stardust-heddon-street", name: "The Ziggy Stardust Cover Site", type: "music-location", scheme: "",
+    subject: "David Bowie, The Rise and Fall of Ziggy Stardust and the Spiders from Mars (1972)",
+    hood: "Mayfair", borough: "Westminster", areaGuide: "mayfair-area-guide",
+    address: "23 Heddon Street", postcode: "W1B 4BQ",
+    whyGo: "Bowie posed under a streetlamp here on a wet January night in 1972 for the Ziggy Stardust sleeve. The K. West furrier's sign behind him is long gone, but a black plaque marks the exact spot - black rather than blue because the Crown Estate put it up, not English Heritage.",
+    opSummary: "Free, on a pedestrianised street now full of restaurant tables. The plaque is at pavement level and easy to walk straight past.",
+    source: "Atlas Obscura and davidbowieworld.com cross-checked",
+  },
+  {
+    ...base, slug: "oasis-morning-glory-berwick-street", name: "The (What's the Story) Morning Glory? Cover Site", type: "music-location", scheme: "",
+    subject: "Oasis, (What's the Story) Morning Glory? (1995) - the album cover street",
+    hood: "Soho", borough: "Westminster", areaGuide: "soho-area-guide",
+    address: "Berwick Street", postcode: "W1F 0PT",
+    whyGo: "Shot at dawn on a Sunday in July 1995, between the record shops that made Berwick Street the centre of London's vinyl trade. Sister Ray still trades on the street, which is more than most locations on this list can say.",
+    opSummary: "A public street, walkable any time. Best early on a Sunday if you want the empty-street look of the sleeve - the market stalls fill it on weekdays.",
+    source: "Time Out and Radio X Berwick Street cover coverage cross-checked",
+  },
+  {
+    ...base, slug: "pink-floyd-animals-battersea", name: "Pink Floyd's Animals Power Station", type: "music-location", scheme: "",
+    subject: "Pink Floyd, Animals (1977) - the album cover, and the inflatable pig",
+    hood: "Battersea", borough: "Wandsworth", areaGuide: "battersea-area-guide",
+    address: "Battersea Power Station, Circus Road West", postcode: "SW11 8AL",
+    whyGo: "The Animals sleeve put an inflatable pig between the chimneys in 1976. It broke loose on the second day of the shoot, drifted into Heathrow's flight path and grounded aircraft - which is why the cover is a composite of two days' photographs.",
+    opSummary: "The building is now a shopping and office development, free to walk into. Turbine Hall A is the art deco one worth seeing even if you buy nothing.",
+    source: "Wikipedia Animals (Pink Floyd album) and the power station's own history pages cross-checked",
+  },
+  {
+    ...base, slug: "spice-girls-wannabe-st-pancras", name: "The Wannabe Staircase (St Pancras Renaissance)", type: "music-location", scheme: "",
+    subject: "Spice Girls, Wannabe (1996) - the video's grand staircase",
+    hood: "King's Cross", borough: "Camden", areaGuide: "kings-cross-area-guide",
+    address: "St Pancras Renaissance Hotel, Euston Road", postcode: "NW1 2AR",
+    whyGo: "The single-take video that launched the band was shot on George Gilbert Scott's Grand Staircase and through the lobby here. It was only filmed in London by accident - the shoot was booked for a building in Barcelona and the permissions fell through days before.",
+    opSummary: "A WORKING HOTEL, and the staircase is not a public thoroughfare - it is reachable if you are staying or eating at the Booking Office bar, otherwise ask at reception rather than wandering in. The station side is public and free.",
+    source: "Atlas Obscura and Wikipedia (Wannabe) cross-checked",
+  },
+  {
+    ...base, slug: "winchester-palace-ruins", name: "Winchester Palace Ruins", type: "hidden-gem", scheme: "",
+    subject: "The Great Hall wall and rose window of a medieval bishop's palace",
+    hood: "South Bank", borough: "Southwark", areaGuide: "south-bank-area-guide",
+    address: "Clink Street", postcode: "SE1 9DG",
+    whyGo: "One wall of the Bishop of Winchester's Great Hall, rose window still intact, standing on an ordinary pavement between the Golden Hinde and the Clink Prison Museum - surrounded now by Borough Market's restaurant crowds rather than the medieval palace it was once part of. Surfaced in research months ago and never actually written up until now.",
+    opSummary: "Free, viewable from the street at any time. A small medieval-style garden sits inside the ruin, planted by the Bankside Open Spaces Trust.",
+    source: "English Heritage, Historic England listing and Bankside Open Spaces Trust cross-checked",
+  },
+  {
+    ...base, slug: "kings-cross-light-tunnel", name: "The King's Cross Light Tunnel", type: "hidden-gem", scheme: "",
+    subject: "A permanently colour-lit pedestrian subway between the stations and Granary Square",
+    hood: "King's Cross", borough: "Camden", areaGuide: "kings-cross-area-guide",
+    address: "King's Boulevard", postcode: "N1C",
+    whyGo: "An ordinary underpass connecting the stations to Granary Square, lit end to end in shifting colour - free, always open, and one of the most photographed short walks in the area precisely because almost nobody expects a subway to look like this.",
+    opSummary: "Open to pedestrians 7am-8pm daily. Takes about two minutes to walk; most of what there is to see, you see from either end.",
+    source: "kingscross.co.uk (venue's own site), Londonist and londonxlondon.com cross-checked",
+  },
+  {
+    ...base, slug: "paddington-basin-floating-park", name: "The Floating Pocket Park", type: "hidden-gem", scheme: "",
+    subject: "A small planted island moored in Paddington Basin",
+    hood: "Paddington", borough: "City of Westminster", areaGuide: "paddington-area-guide",
+    address: "Paddington Basin", postcode: "",
+    whyGo: "A genuinely floating garden moored in the basin, reached across the Rolling Bridge already on this site - trees, planting and benches on a platform that rises and falls with the water, which is not a sentence most London green spaces earn.",
+    opSummary: "Free, always accessible on foot from the towpath. Small - ten minutes is enough unless you plan to sit and stay.",
+    source: "YouTube travel-guide coverage (Sophie Nadeau) cross-checked against Paddington Basin's own estate information",
   },
 ];
 

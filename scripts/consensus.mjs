@@ -18,13 +18,26 @@
 //
 import fs from "node:fs";
 import path from "node:path";
+import { execFileSync } from "node:child_process";
 import { readTab } from "./sheets.mjs";
 
 const cuisine = (process.argv[2] ?? "italian").toLowerCase();
 const doFetch = process.argv.includes("--fetch");
 const DIR = "data/consensus";
 const FILE = path.join(DIR, `${cuisine}.json`);
-const UA = { "user-agent": "Mozilla/5.0 (compatible; london-travel-geek research)" };
+// Eleven sources scored EMPTY purely because of this header. SquareMeal's Top
+// 100, The Handbook and NationalWorld all serve a full page to a normal browser
+// UA and a bot page to the old "london-travel-geek research" string - the Top
+// 100 is 580KB of content we were recording as "fetch returned nothing".
+//
+// These are public pages with no login, paywall or challenge. Where a site does
+// put up a real barrier - chinatown.co.uk serves a CAPTCHA - the source is
+// dropped as unreadable rather than worked around.
+const UA = {
+  "user-agent":
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+  "accept-language": "en-GB,en;q=0.9",
+};
 
 if (!fs.existsSync(FILE)) {
   console.error(`no source file at ${FILE}`);
@@ -150,6 +163,13 @@ const AWARD_CATEGORY = /\b(of the year|award|winner)s?\s*:/i;
 const LIST_ITEM = /<li[^>]*>([\s\S]{2,140}?)<\/li>/gi;
 const TABLE_CELL = /<td[^>]*>([\s\S]{2,140}?)<\/td>/gi;
 
+// Some blogs write the venue as a bold lead-in inside a paragraph rather than
+// as a heading. Civilian Global's dim sum guide has exactly THREE headings on
+// the whole page - all furniture - while The New World, Chuen Cheng Ku,
+// Yauatcha and Mamalan sit in <strong>. Reading headings alone scored that
+// source ALL JUNK and left dim-sum with no usable evidence at all.
+const BOLD_LEAD = /<(?:strong|b)[^>]*>([\s\S]{2,60}?)<\/(?:strong|b)>/gi;
+
 function harvest(html, re) {
   const out = [];
   for (const m of html.matchAll(re)) {
@@ -195,7 +215,8 @@ function extractNames(html, scope = "") {
   const isAwards = /award/i.test(scope);
   const raw = headings.length >= 8 && !isAwards
     ? headings
-    : [...headings, ...harvest(html, LIST_ITEM), ...harvest(html, TABLE_CELL)];
+    : [...headings, ...harvest(html, LIST_ITEM), ...harvest(html, TABLE_CELL),
+       ...harvest(html, BOLD_LEAD)];
   for (const chunk of raw) {
     let t = chunk.replace(STRIP_TAGS, " ");
     t = decodeEntities(t).replace(/\s+/g, " ").trim();
@@ -225,14 +246,39 @@ function extractNames(html, scope = "") {
 }
 
 // ---------------------------------------------------------------- fetch ---
+function curlFetch(url) {
+  try {
+    const out = execFileSync("curl", [
+      "-sL", "--compressed", "-m", "25",
+      "-A", UA["user-agent"],
+      "-H", `Accept-Language: ${UA["accept-language"]}`,
+      url,
+    ], { maxBuffer: 32 * 1024 * 1024, encoding: "utf8" });
+    return out && out.length > 500 ? out : null;
+  } catch {
+    return null;
+  }
+}
+
 if (doFetch) {
   for (const s of data.sources) {
     if (s.names?.length) continue;          // already have it
     if (!s.url) continue;
     try {
+      let body = null;
       const res = await fetch(s.url, { headers: UA, redirect: "follow" });
-      if (!res.ok) { s.error = `HTTP ${res.status}`; console.log(`  ${s.name}: HTTP ${res.status}`); continue; }
-      const names = extractNames(await res.text(), s.scope ?? "");
+      if (res.ok) {
+        body = await res.text();
+      } else if (res.status === 403 || res.status === 429) {
+        // Some CDNs fingerprint the TLS handshake, not the header: SquareMeal
+        // serves 200 to curl and 403 to Node's fetch with identical headers.
+        // Same public page, different HTTP client - so retry through curl
+        // before writing the source off as dead.
+        body = curlFetch(s.url);
+        if (body) console.log(`  ${s.name}: recovered via curl`);
+      }
+      if (body === null) { s.error = `HTTP ${res.status}`; console.log(`  ${s.name}: HTTP ${res.status}`); continue; }
+      const names = extractNames(body, s.scope ?? "");
       if (!names.length) { s.error = "no headings matched"; console.log(`  ${s.name}: no names extracted`); continue; }
       s.names = names;
       delete s.error;

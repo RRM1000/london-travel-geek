@@ -27,16 +27,159 @@ const OUT = "src/data/restaurantMaps.ts";
 // `list` is the Lists value that drives the article, so the map and the article
 // cannot drift apart: adding a venue to the guide adds its pin.
 //
-// `also` carries venues the guide references but which are not on its list -
-// here, one Malaysian stall the street food section links to across the cuisine
-// boundary. They are pinned as street food, not as guide picks.
+// `also` carries venues a guide references but which are not on its list. It is
+// currently unused: it existed to pin Gopal's Corner (Malaysian) on the Indian
+// map, which was removed on 2026-08-23 because the guide no longer cites it.
+//
+// `ranked: true` means the Lists value carries a position ("best-indian:4") and
+// only ranked rows get a section in the guide, so only they get a pin link.
+// Without it every row is assumed to have a heading - the broken-anchor check
+// below still catches any that does not, so the failure stays loud either way.
 const MAPS = [
   {
     key: "indian-restaurants-london",
     list: "best-indian",
+    ranked: true,
     streetFoodFormats: ["Market Stall", "Counter"],
-    also: ["gopals-corner"],
     article: "src/content/articles/best-indian-restaurants-london.md",
+  },
+  {
+    key: "pizza-london",
+    list: "best-pizza",
+    streetFoodFormats: ["Market Stall", "Counter", "Pub Residency"],
+    // Named in the guide's summary table rather than given a section of their
+    // own. They still earn a pin - the map is more useful for showing them -
+    // but they get no anchor, because there is no heading to land on. Listing
+    // them here makes that an editorial decision rather than a silent miss:
+    // anything NOT on this list that lacks a heading still fails loudly below.
+    tableOnly: ["graceys-pizza", "sarvs-slice", "lardo", "roma-pizza"],
+    article: "src/content/articles/best-pizza-london.md",
+  },
+  {
+    key: "fish-and-chips-london",
+    list: "fish-and-chips",
+    streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
+    article: "src/content/articles/best-fish-and-chips-london.md",
+  },
+  {
+    key: "cheap-eats-london",
+    list: "cheap-eats",
+    streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
+        tableOnly: ["the-montagu-pyke"],
+    exclude: ["diwana-bhel-poori-house","temple-of-seitan"],
+    // The heading names the branch street, not the sheet's area value.
+    anchors: { "tongue-and-brisket": "#tongue--brisket-leather-lane" },
+    article: "src/content/articles/cheap-eats-london.md",
+  },
+  {
+    key: "unusual-restaurants-london",
+    list: "unusual",
+    streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
+        tableOnly: ["boxpark-wembley","the-ledger-building"],
+    exclude: ["the-cinnamon-club"],
+    article: "src/content/articles/unusual-restaurants-london.md",
+  },
+  {
+    key: "afternoon-tea-london",
+    list: "afternoon-tea",
+    streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
+        tableOnly: ["rosewood-london-tea","jumeirah-carlton-tower-afternoon-tea"],
+    exclude: ["the-ampersand","browns-hotel-tea","the-milestone-tea","the-cadogan-afternoon-tea"],
+    article: "src/content/articles/best-afternoon-tea-london.md",
+  },
+  {
+    key: "coffee-london",
+    list: "coffee",
+    streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
+    tableOnly: ["beany-green-little-venice"],
+    exclude: ["yurt-cafe"],
+    article: "src/content/articles/best-coffee-london.md",
+  },
+  {
+    key: "steak-london",
+    list: "best-steak",
+    ranked: true,
+    streetFoodFormats: ["Market Stall", "Counter"],
+    // Named in the area table or the value list but with no section of their
+    // own, so no anchor. They still earn a pin.
+    tableOnly: ["il-gattopardo", "gymkhana", "muccis", "zelman-meats"],
+    article: "src/content/articles/best-steak-restaurants-london.md",
+  },
+  {
+    key: "italian-london",
+    list: "best-italian",
+    ranked: true,
+    streetFoodFormats: ["Market Stall", "Counter", "Deli / Restaurant"],
+    // The regional sections name the region in the heading, so the derived
+    // "Name, Area" slug does not match. The region is the point of the guide.
+    anchors: {
+      "norma-fitzrovia": "#norma-fitzrovia--sicilian",
+      "campania-and-jones": "#campania--jones-bethnal-green--campanian",
+      brutto: "#brutto-clerkenwell--florentine",
+      "macellaio-rc": "#macellaio-rc-south-kensington--piedmontese",
+      "bar-etna": "#bar-etna-newington-green--sicilian-american",
+      "ave-mario": "#ave-mario-covent-garden-and-circolo-popolare-fitzrovia",
+      ornella: "#ornella-london-fields--milanese",
+    },
+    article: "src/content/articles/best-italian-restaurants-london.md",
+  },
+  {
+    key: "cocktail-bars-london",
+    list: "cocktails",
+    streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
+    tableOnly: ["nightjar"],
+    article: "src/content/articles/best-cocktail-bars-london.md",
+  },
+  {
+    key: "dim-sum-london",
+    list: "dim-sum",
+    streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
+        tableOnly: ["plum-valley","dumplings-legend","joy-king-lau","orient-london","baoziinn"],
+    exclude: ["dim-sum-and-duck","baba-tang","yi-ban"],
+    article: "src/content/articles/best-dim-sum-london.md",
+  },
+  {
+    key: "late-night-london",
+    list: "late-night",
+    streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
+        exclude: ["bar-italia","lebo-lebanese-grill","beigel-bake"],
+    article: "src/content/articles/late-night-eating-london.md",
+  },
+  {
+    key: "historic-pubs-london",
+    list: "historic-pubs",
+    streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
+        tableOnly: ["the-holly-bush","bulls-head-barnes","fox-and-pheasant"],
+    article: "src/content/articles/historic-pubs-dining-rooms-london.md",
+  },
+  {
+    key: "vegetarian-london",
+    list: "vegetarian",
+    streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
+        tableOnly: ["sutton-and-sons","horn-ok-please","gujarati-rasoi","pilpel","magic-falafel","plates-london"],
+    exclude: ["balady","zeit-and-zaatar","hoxton-beach-falafel","falafel-zaki-zaki","falafel-and-shawarma","hummus-bar","mukbap","zeret-kitchen","queen-of-sheba","hullabaloo","yurt-cafe"],
+    // The "Vegan by cuisine" sections name the cuisine in the heading, which the
+    // derived "Name, Area" slug cannot know about. Two others differ because the
+    // sheet's area and the heading's area are not the same word (Mallow is filed
+    // under Borough, the heading says Borough Market).
+    anchors: {
+      "facing-heaven": "#facing-heaven-hackney--sichuan",
+      "jam-delish": "#jam-delish-islington--caribbean",
+      "itadaki-zen": "#itadaki-zen-kings-cross--japanese",
+      "en-root": "#en-root-clapham-and-peckham--indian-and-east-african",
+      "purezza-camden": "#purezza-camden--pizza",
+      tendril: "#tendril-oxford-circus",
+      "mallow-borough": "#mallow-borough-market",
+    },
+    article: "src/content/articles/best-vegetarian-vegan-restaurants-london.md",
+  },
+  {
+    key: "markets-london",
+    list: "markets",
+    streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
+        tableOnly: ["horn-ok-please","gujarati-rasoi","kolkati","borough-market","old-spitalfields-market","broadway-market"],
+    exclude: ["arcade-food-hall","market-halls-victoria","market-halls-oxford-street","market-halls-canary-wharf","market-halls-paddington","flat-iron-square","gopals-corner","cutty-sark-street-food-market","brick-lane-market"],
+    article: "src/content/articles/best-london-markets.md",
   },
 ];
 
@@ -45,14 +188,38 @@ const bySlug = new Map(restaurants.map((r) => [r.slug, r]));
 
 // Must match the slugger Astro uses for heading anchors, or every articleAnchor
 // on the map points at nothing. Headings in the guide are "Name, Area".
-const anchor = (r) =>
-  `${r.name}, ${r.area}`.toLowerCase()
-    .replace(/['’]/g, "")
-    .replace(/[^a-z0-9]+/g, "-")
+//
+// ACCENTED LETTERS ARE KEPT. github-slugger, which Astro uses, preserves them:
+// "50 Kalò, Trafalgar Square" becomes "50-kalò-trafalgar-square". A plain
+// [^a-z0-9] class instead turns the "ò" into a separator and yields
+// "50-kal-trafalgar-square", which points at nothing.
+//
+// That bug shipped once and the check below did not catch it, because the check
+// built its list of valid ids with THIS SAME function - so both sides were
+// wrong in the same way and agreed. Hence \p{L}: match the real slugger, and
+// the comparison becomes meaningful again.
+// github-slugger DELETES punctuation rather than treating it as a separator,
+// so "Duck & Waffle" becomes "duck--waffle" - two hyphens, because the spaces
+// either side of the ampersand each become one and the ampersand itself just
+// disappears. Collapsing that run to a single hyphen produced "duck-waffle",
+// which points at nothing.
+//
+// This check has now agreed with itself and been wrong TWICE - first on
+// accented letters, then on ampersands - because both sides of the comparison
+// call this function. Verify any change against the ids in the BUILT html.
+//
+// ACCENTED LETTERS ARE KEPT, for the same reason github-slugger keeps them:
+// "50 Kalò" stays "50-kalò" rather than collapsing to "50-kal".
+const slug = (s) =>
+  s.toLowerCase()
+    .replace(/[^\p{L}\p{N}\s-]/gu, "") // drop punctuation outright, do not collapse
+    .replace(/\s/g, "-")                 // one hyphen per space
     .replace(/^-|-$/g, "");
 
-const rank = (r) => {
-  const hit = (r.lists ?? []).find((l) => l.startsWith("best-indian:"));
+const anchor = (r) => slug(`${r.name}, ${r.area}`);
+
+const rank = (r, list) => {
+  const hit = (r.lists ?? []).find((l) => l.startsWith(`${list}:`));
   return hit ? Number(hit.split(":")[1]) : 999;
 };
 
@@ -62,8 +229,12 @@ const dropped = [];
 for (const m of MAPS) {
   const rows = restaurants
     .filter((r) => !r.branchOf && (r.lists ?? []).some((l) => l.split(":")[0] === m.list))
+    // `exclude` drops a row the LIST tag claims but the GUIDE does not cite.
+    // A pin for a venue the article never mentions is worse than no pin: the
+    // reader clicks it and finds nothing written about it.
+    .filter((r) => !(m.exclude ?? []).includes(r.slug))
     .concat((m.also ?? []).map((s) => bySlug.get(s)).filter(Boolean))
-    .sort((a, b) => rank(a) - rank(b));
+    .sort((a, b) => rank(a, m.list) - rank(b, m.list));
 
   const markers = [];
   for (const r of rows) {
@@ -78,8 +249,16 @@ for (const m of MAPS) {
       longitude: r.lng,
       type: streetFood ? "streetfood" : "editorial",
       // A venue the guide does not have a section for gets no anchor - a link
-      // to a heading that is not there is worse than no link.
-      ...(rank(r) === 999 ? {} : { articleAnchor: `#${anchor(r)}` }),
+      // to a heading that is not there is worse than no link. On an unranked
+      // map every row is expected to have one; the check below proves it.
+      // `anchors` overrides the derived "Name, Area" slug for a heading that
+      // carries editorial detail the sheet does not know about - the Italian
+      // guide titles its regional sections "Norma, Fitzrovia — Sicilian", and
+      // the region is the whole reason the section exists. Better to record the
+      // real anchor than to flatten the heading to suit the exporter.
+      ...((m.ranked && rank(r, m.list) === 999) || (m.tableOnly ?? []).includes(r.slug)
+        ? {}
+        : { articleAnchor: (m.anchors ?? {})[r.slug] ?? `#${anchor(r)}` }),
       ...(r.video ? { videoUrl: r.video } : {}),
     });
   }
@@ -95,10 +274,7 @@ const brokenAnchors = [];
 for (const { key, markers, article } of out) {
   if (!article || !fs.existsSync(article)) continue;
   const md = fs.readFileSync(article, "utf8");
-  const ids = new Set(
-    [...md.matchAll(/^#{2,3} (.+)$/gm)].map(([, t]) =>
-      t.trim().toLowerCase().replace(/['’]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")),
-  );
+  const ids = new Set([...md.matchAll(/^#{2,3} (.+)$/gm)].map(([, t]) => slug(t.trim())));
   for (const mk of markers) {
     if (mk.articleAnchor && !ids.has(mk.articleAnchor.slice(1))) {
       brokenAnchors.push(`${key}: ${mk.name} -> ${mk.articleAnchor} (no such heading in ${article})`);

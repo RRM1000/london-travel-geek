@@ -1,0 +1,63 @@
+{
+  "cuisine": "competitive-socialising",
+  "note": "Seeded 2026-08-25.",
+  "recorded": "2026-08-25",
+  "sources": [
+    {
+      "name": "London Night Guide",
+      "url": "https://londonnightguide.com/competitive-socialising-london/",
+      "scope": "competitive-socialising",
+      "names": [
+        "The Practical Details That Decide the Night",
+        "Which Areas Do It Best",
+        "Making It Work for the Occasion",
+        "Turning a Game Into a Night Out",
+        "Navigate"
+      ]
+    },
+    {
+      "name": "Ham and Egger Files",
+      "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising",
+      "scope": "competitive-socialising",
+      "names": [
+        "Tuesday",
+        "Saturday",
+        "Lane7 at Trinity Leeds",
+        "Thursday",
+        "Wednesday",
+        "Monday",
+        "Friday",
+        "Minigolf",
+        "Crazy Pool:",
+        "Arcade Games:",
+        "Axe Throwing:",
+        "Beer Pong / Prosecco Pong:",
+        "Cricket / Batting Cages:",
+        "Escape Rooms:",
+        "'Game Shows':",
+        "Golf / Virtual Golf:",
+        "Ice Free Curling:",
+        "Interactive / Tech / AR Darts:",
+        "Ping Pong / Table Tennis:",
+        "Shooting Galleries:",
+        "Shuffleboard:",
+        "Ten Pin Bowling / Duck Pin Bowling:",
+        "Virtual Reality (VR) / Gaming:",
+        "All-round venues:",
+        "Sunday",
+        "Loft Social in Stockport",
+        "Blog Archive",
+        "Featured post",
+        "Links",
+        "Total Pageviews"
+      ]
+    },
+    {
+      "name": "City Matters",
+      "url": "https://www.citymatters.london/competitive-socialising/",
+      "scope": "competitive-socialising",
+      "names": [],
+      "error": "HTTP 404"
+    }
+  ]
+}
