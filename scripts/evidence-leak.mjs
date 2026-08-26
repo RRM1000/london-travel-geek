@@ -34,7 +34,8 @@ const ARTICLE = {
   turkish: "best-middle-eastern-restaurants-london", greek: "best-middle-eastern-restaurants-london",
   "late-night": "late-night-eating-london", burgers: "cheap-eats-london",
   vietnamese: "best-chinese-east-asian-restaurants-london",
-  pakistani: "best-indian-restaurants-london", british: "best-sunday-roast-london",
+  pakistani: "best-indian-restaurants-london",
+  "sunday-roast": "best-sunday-roast-london",
   // Topics added 2026-08-25 by the SERP pass. Without these the leak report was
   // silently blind to twelve articles - and "burgers -> cheap-eats-london" was
   // checking the cheap eats guide against a burger corpus, which is why every

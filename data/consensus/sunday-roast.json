@@ -1,0 +1,111 @@
+{
+  "cuisine": "sunday-roast",
+  "note": "Seeded 2026-08-26.",
+  "recorded": "2026-08-26",
+  "sources": [
+    {
+      "name": "Time Out (28 best Sunday lunches)",
+      "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches",
+      "scope": "sunday-roast",
+      "names": [
+        "London's best Sunday roasts at a glance:",
+        "The Golden Tooth",
+        "Rice Paddy at The White Horse",
+        "Sessions Arts Club",
+        "The Macbeth",
+        "The Duke Organic",
+        "Old Nun's Head",
+        "The Angel",
+        "DakaDaka",
+        "The Mall Tavern",
+        "Rake at The Compton Arms",
+        "The Prince Arthur",
+        "Quality Chop House",
+        "Camberwell Arms",
+        "Buster Mantis",
+        "Bistro Sable",
+        "The Nelson’s",
+        "The Salusbury",
+        "Ekstedt at the Yard",
+        "Canton Arms",
+        "The Parakeet",
+        "The Dragon Flame at Star by Hackney Downs",
+        "The Chalk Freehouse",
+        "William IV",
+        "Jones & Sons",
+        "The Audley Public House",
+        "Black Cactus",
+        "Julie's",
+        "Clapton Country Club"
+      ]
+    },
+    {
+      "name": "The Infatuation (17 best roasts)",
+      "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london",
+      "scope": "sunday-roast",
+      "names": [
+        "Garden Bar Grill & Smokehouse By Cue Point",
+        "The Macbeth",
+        "The Waterman's Arms",
+        "Café François",
+        "The Devonshire",
+        "Inis",
+        "The George",
+        "The Tamil Crown",
+        "Guanabana",
+        "The Selkirk",
+        "The Baring",
+        "The Clarence Tavern",
+        "The Camberwell Arms",
+        "Marksman",
+        "Hawksmoor Borough",
+        "The Drapers Arms",
+        "The Bull & Last"
+      ]
+    },
+    {
+      "name": "DesignMyNight (best roasts 2026)",
+      "url": "https://www.designmynight.com/london/blog/best-sunday-roasts-london",
+      "scope": "sunday-roast",
+      "names": [
+        "The Blue Boar Pub",
+        "MR PORTER Restaurant",
+        "The Talbot",
+        "Sunday Roast FAQs",
+        "The Author"
+      ]
+    },
+    {
+      "name": "Sphere Magazine",
+      "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026",
+      "scope": "sunday-roast",
+      "names": [
+        "The Long Lens on Luxury",
+        "Main navigation",
+        "Eat",
+        "Elliot's",
+        "The Quality Chop House",
+        "CUT at 45 Park Lane",
+        "2210 by Nattycancook",
+        "The Camberwell Arms",
+        "Charlie’s at Brown’s Hotel",
+        "Clarence Tavern",
+        "The Red Lion & Sun",
+        "Footer menu",
+        "Stay in the Luxury Loop",
+        "with SPHERE"
+      ]
+    },
+    {
+      "name": "Pub Guide London (roasts)",
+      "url": "https://pubguidelondon.com/best-sunday-roasts.html",
+      "scope": "sunday-roast",
+      "names": [
+        "From the Blog",
+        "star rating",
+        "price range",
+        "' + p.name + '"
+      ]
+    }
+  ]
+}

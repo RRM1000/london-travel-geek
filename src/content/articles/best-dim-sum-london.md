@@ -1,5 +1,5 @@
 ---
-title: "The Best Dim Sum in London: 12 Rooms Compared"
+title: "The Best Dim Sum in London: 15 Rooms Compared"
 seoTitle: "Best Dim Sum London 2026: Chinatown to Two Michelin Stars"
 description: "London dim sum from a two-starred kitchen in Victoria to a Chinatown room doing it the trolley-era way — with which serve all day and which are half the price."
 heroImage: "../../assets/articles/best-dim-sum-london/best-dim-sum-london.jpg"
@@ -122,6 +122,28 @@ Northern Chinese street food tidied up for London, in a room done out in Communi
 
 ---
 
+### Dim Sum & Duck, King's Cross
+
+*££ · Cantonese · walk-in*
+
+Handmade dumplings and roast meats hanging in the window, on the King's Cross Road stretch that has quietly become one of the better places to eat in the area.
+
+The name is the menu: dim sum, and Cantonese roast duck carved to order. Cheaper and less polished than anything in Chinatown, and better than most of it.
+
+### Yauatcha City, Broadgate
+
+*£££ · the City sibling*
+
+The Broadgate branch of the Soho dim sum room, and the one to use if you are in the City — the same kitchen, usually easier to book, and a dining room built for the working week rather than for Soho.
+
+### Yi-Ban, Royal Docks
+
+*££ · closed Thursdays · dim sum to 4.30pm only*
+
+A Cantonese dining room over the Royal Albert Dock with **City Airport's runway through the window**, trading since 2003 — planes landing over your dumplings is not something anywhere else offers.
+
+**Dim sum is served until 4.30pm only, and it closes on Thursdays.** Worth the DLR trip, but not worth turning up unplanned.
+
 ## Best value
 
 ### Dragon Castle, Elephant and Castle
@@ -135,6 +157,10 @@ South London's proper dim sum hall — a **full-size Cantonese banqueting room**
 *£££ · 2 min from Paddington*
 
 An unexpectedly large **basement dining room behind Paddington station**, routinely rated above the Chinatown names by people who have eaten at both.
+
+---
+
+> **Two cheaper routes.** **Chinatown's supermarkets** — Loon Fung and See Woo — sell roast meats and some frozen dim sum over the counter at a fraction of restaurant prices. And **Bang Bang Oriental** in Colindale, Britain's largest Asian food hall, has several dim sum counters where you can eat a few baskets for well under £15.
 
 ---
 

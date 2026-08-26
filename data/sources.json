@@ -924,6 +924,10 @@
     "sconeworkshop.com": {
       "tier": "C",
       "name": "Scone Workshop"
+    },
+    "spherelife.com": {
+      "tier": "B",
+      "name": "Sphere Magazine"
     }
   }
 }

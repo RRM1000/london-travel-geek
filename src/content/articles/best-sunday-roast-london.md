@@ -178,3 +178,64 @@ The expensive answer. British beef, dry-aged and grilled over charcoal, with bon
 **Known for:** Sunday roast with bone-marrow gravy
 
 **Book:** [Reserve a table](https://www.opentable.com/booking/experiences-availability?rid=11335&restref=11335&experienceId=682033)
+
+---
+
+## What a roast costs, and where the value is
+
+Sunday roast is one of the few London meals where price maps fairly closely onto quality — but the bottom of the range is a genuinely good meal rather than a compromise.
+
+**The three tiers, roughly:**
+
+* **£14–£18** — neighbourhood pubs doing a proper roast with no chef's name attached. Most good local pubs south and east sit here.
+* **£17–£24** — the mid-range, where most of the pubs in this guide live. Dry-aged beef, a real Yorkshire, and vegetables that have been thought about.
+* **£28–£38** — the top gastropubs. The Harwood Arms, The Guinea Grill and The Pelican all land here, and you are buying provenance and a kitchen with ambitions well beyond Sunday.
+
+**How to spend less:**
+
+* **Go to a neighbourhood pub rather than a destination one.** The gap in quality between a £17 roast and a £30 one is much smaller than the gap in price.
+* **Blacklock's All In** is priced per person and is among the better-value roasts in central London for a group, because the meat keeps coming.
+* **Share the sides.** Almost every pub here charges separately for cauliflower cheese and extra potatoes, and one between two is plenty.
+* **Book early in the sitting.** The 12pm and 1pm slots are easier to get and the kitchen is fresher — by four o'clock the beef has usually been resting a while.
+
+> **Markets and food halls do not really do roasts.** This is the one London meal that has stayed in pubs. If you see a roast on a market stall it is a sandwich — which can be excellent, but it is a different thing.
+
+---
+
+## What a roast costs, and where the value is
+
+Sunday roast is one of the few London meals where price maps fairly closely onto quality — but the bottom of the range is a genuinely good meal, not a compromise.
+
+**The three tiers, roughly:**
+
+* **£14–£18** — neighbourhood pubs doing a proper roast without a chef's name attached. The Selkirk in Tooting sits here, and so do most good local pubs south and east.
+* **£17–£24** — the mid-range, which is where most of the pubs in this guide live. This is the sweet spot: dry-aged beef, a real Yorkshire, and vegetables that have been thought about.
+* **£28–£38** — the top gastropubs. The Harwood Arms, The Guinea Grill and The Pelican all land here, and at that price you are buying provenance and a kitchen with ambitions beyond Sunday.
+
+**How to spend less:**
+
+* **Go to a neighbourhood pub rather than a destination one.** The gap in quality between a £17 roast and a £30 one is much smaller than the gap in price.
+* **Blacklock's All In** is priced per person and works out as one of the better value roasts in central London for a group, because the meat keeps coming.
+* **Share the sides.** Almost every pub here charges separately for cauliflower cheese and extra potatoes, and one between two is plenty.
+* **Book early in the sitting.** The 12pm and 1pm slots are easier to get and the kitchen is fresher; by 4pm the beef has usually been resting a while.
+
+> **Markets and food halls do not really do roasts.** This is the one London meal that stays in pubs — if you see a roast on a market stall, it is a sandwich. Which can be excellent, but it is a different thing.
+
+---
+
+## What to know
+
+* **Roasts run roughly 12pm to 5pm** and stop when the meat runs out. Arrive by 3pm at the latest.
+* **Book at least two weeks ahead** for The Harwood Arms, The Pelican and The Marksman. A few days is enough almost everywhere else.
+* **Ask what the beef is.** The pubs worth travelling for will tell you the breed and the ageing without being asked; the ones that cannot are usually the ones charging most for it.
+* **Vegetarian roasts are now standard**, but they vary enormously — a good one is a proper dish rather than a nut roast apology. Ask before booking if it matters.
+* **Sunday is not the day to be spontaneous.** The best roasts in London are all booked out by Friday.
+
+---
+
+## Continue planning your London trip
+
+- 🥩 **[The Best Steak in London](/articles/best-steak-restaurants-london/)**
+- 🍺 **[London's Historic Pubs and Dining Rooms](/articles/historic-pubs-dining-rooms-london/)**
+- 🍳 **[The Best Breakfast and Brunch in London](/articles/best-breakfast-brunch-london/)**
+- 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**

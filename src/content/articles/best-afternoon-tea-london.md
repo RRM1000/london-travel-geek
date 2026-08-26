@@ -15,6 +15,8 @@ category: "Food and drink"
 tags: [afternoon tea, restaurants, hotels, dining, London traditions]
 draft: false
 faq:
+  - q: "Where can I do afternoon tea in London cheaply?"
+    a: "The museums are the answer. Tate Modern does one for around £30 and the British Museum around £40, both in far better rooms than a hotel lounge. Under £30, the Memoir Club in Bloomsbury and the Chocolate Cocktail Club both start around £27.50, and Bishops Park Tea House in Fulham is £29 in a park. Going on a weekday rather than a weekend also cuts the price at almost every grand hotel."
   - q: "Where is the best afternoon tea in London?"
     a: "The Langham's Palm Court claims to be where the ritual began in the 1860s and is still the benchmark. The Ritz is the most recognised and has the strictest dress code. Claridge's is the Art Deco one with its own house blend. All three book weeks ahead."
   - q: "Is there a dress code for afternoon tea?"
@@ -221,6 +223,42 @@ A themed tea built around **Charlie and the Chocolate Factory** — the one that
 *£££ · 1 min from South Kensington*
 
 Themed around the museums on its doorstep: planets, fossils and periodic-table biscuits. Sensible if you are doing the Science Museum the same day.
+
+---
+
+## Afternoon tea on a budget
+
+The grand hotels run from about £75 to well over £100 a head. These do the same three tiers for a third of that, and several are in better buildings.
+
+#### The museums and galleries
+
+The most reliable value in London afternoon tea, and the rooms are the reason to go.
+
+* **The Wallace Collection**, Marylebone — tea in the glass-roofed courtyard of a Manchester Square townhouse full of Old Masters, and the museum itself is free.
+* **The British Museum** — around **£40**, in the Great Court under the Foster roof.
+* **Tate Modern** — around **£30**, with the river and St Paul's through the window.
+* **The Royal Albert Hall** — tea inside the building rather than a hotel dining room, which is a different kind of occasion.
+
+#### Under £30
+
+* **Memoir Club**, Bloomsbury — a classic afternoon tea from about **£27.50**.
+* **The Chocolate Cocktail Club** — **£27.50** with unlimited tea, coffee or hot chocolate, and a chocolate-led menu rather than the standard tiers.
+* **Bishops Park Tea House**, Fulham — **£29** for finger sandwiches, scones with jam and clotted cream and mini cakes on a proper three-tier stand, in a park rather than a hotel.
+* **Candella Tea Room**, Kensington — a small independent tea room a few minutes from the palace, and a fraction of what the hotels opposite charge.
+
+#### Different, and cheaper
+
+* **Cinnamon Bazaar**, Covent Garden — an Indian-spiced afternoon tea rather than the English format, which is both more interesting and less expensive.
+* **Cutter & Squidge**, Soho — a pared-back signature tea with three sandwiches and two scones.
+* **Dean Street Townhouse**, Soho — a proper English tea in a Georgian room, at Soho rather than Mayfair prices.
+
+#### How to spend less at the grand hotels
+
+* **Go on a weekday.** Almost every hotel here charges less Monday to Thursday than at a weekend, for the identical menu.
+* **Skip the champagne.** It adds £15–£25 and the tea is the same either way.
+* **Ask for more sandwiches and scones.** They are refillable at most grand hotels and almost nobody asks, which changes the value calculation considerably.
+
+> Prices move every season and these were checked in August 2026. Treat them as indicative and confirm when you book.
 
 ---
 

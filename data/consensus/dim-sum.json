@@ -1,7 +1,7 @@
 {
   "cuisine": "dim-sum",
   "note": "SCOPE. Dim sum specifically - the Cantonese small-plate tradition, trolley or menu. Chinatown and beyond. General Chinese restaurants live in the chinese topic.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-26",
   "sources": [
     {
       "name": "About Time",
@@ -99,6 +99,28 @@
         "Panda Dim Sum",
         "Canton Blue",
         "Yi-Ban"
+      ]
+    },
+    {
+      "name": "The Infatuation (dim sum)",
+      "url": "https://www.theinfatuation.com/london/cuisines/dim-sum",
+      "scope": "dim-sum",
+      "names": [
+        "Happy Dim Sum",
+        "Dim Sum Duck",
+        "Dayu",
+        "Royal China",
+        "Tao Tao Ju",
+        "Dim Sum & Duck",
+        "Gouqi",
+        "Tea House Chinese",
+        "The Duck and Rice",
+        "My Neighbours The Dumplings",
+        "Shikumen",
+        "Seven Dials Market",
+        "Bang Bang Oriental Foodhall",
+        "Opium Cocktails & Dim Sum Parlour",
+        "Yauatcha City"
       ]
     }
   ]

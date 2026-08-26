@@ -12807,7 +12807,8 @@
     "name": "The Drapers Arms",
     "topics": [
       "bars",
-      "british"
+      "british",
+      "sunday-roast"
     ],
     "sourceCount": 2,
     "tierSpread": "B2",
@@ -13216,10 +13217,11 @@
   "elliots": {
     "name": "Elliot’s",
     "topics": [
-      "bars"
+      "bars",
+      "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -13227,6 +13229,11 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
       }
     ]
   },
@@ -14448,7 +14455,8 @@
     "name": "Inis",
     "topics": [
       "breakfast-brunch",
-      "british"
+      "british",
+      "sunday-roast"
     ],
     "sourceCount": 2,
     "tierSpread": "B1 C1",
@@ -15177,13 +15185,19 @@
   "jonesandsons": {
     "name": "Jones & Sons",
     "topics": [
-      "breakfast-brunch"
+      "breakfast-brunch",
+      "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
       {
         "tier": "C",
         "source": "The Nudge",
@@ -15855,10 +15869,11 @@
     "topics": [
       "british",
       "general",
-      "steak"
+      "steak",
+      "sunday-roast"
     ],
-    "sourceCount": 7,
-    "tierSpread": "B5 C1 D1",
+    "sourceCount": 8,
+    "tierSpread": "B6 C1 D1",
     "tierCount": 3,
     "hasAward": false,
     "sources": [
@@ -15888,6 +15903,11 @@
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
       },
       {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
+      },
+      {
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-british-restaurants-in-london"
@@ -15904,7 +15924,8 @@
     "topics": [
       "british",
       "general",
-      "steak"
+      "steak",
+      "sunday-roast"
     ],
     "sourceCount": 6,
     "tierSpread": "A1 B3 C2",
@@ -16244,7 +16265,8 @@
   "marksman": {
     "name": "The Marksman",
     "topics": [
-      "british"
+      "british",
+      "sunday-roast"
     ],
     "sourceCount": 2,
     "tierSpread": "B1 C1",
@@ -16545,10 +16567,11 @@
   "cantonarms": {
     "name": "The Canton Arms",
     "topics": [
-      "british"
+      "british",
+      "sunday-roast"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -16556,6 +16579,11 @@
         "tier": "B",
         "source": "Eater London",
         "url": "https://london.eater.com/maps/best-british-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
       },
       {
         "tier": "C",
@@ -17471,7 +17499,8 @@
     "topics": [
       "british",
       "general",
-      "new-openings"
+      "new-openings",
+      "sunday-roast"
     ],
     "sourceCount": 5,
     "tierSpread": "B4 C1",
@@ -17542,7 +17571,8 @@
   "bullandlast": {
     "name": "The Bull & Last",
     "topics": [
-      "british"
+      "british",
+      "sunday-roast"
     ],
     "sourceCount": 2,
     "tierSpread": "B1 C1",
@@ -17581,10 +17611,11 @@
   "redlionandsun": {
     "name": "The Red Lion and Sun",
     "topics": [
-      "british"
+      "british",
+      "sunday-roast"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B1 C1",
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 C1",
     "tierCount": 3,
     "hasAward": true,
     "sources": [
@@ -17597,6 +17628,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/perfect-for/sunday-roast"
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
       },
       {
         "tier": "C",
@@ -17642,7 +17678,8 @@
   "watermansarms": {
     "name": "The Waterman’s Arms",
     "topics": [
-      "british"
+      "british",
+      "sunday-roast"
     ],
     "sourceCount": 2,
     "tierSpread": "B1 C1",
@@ -17682,7 +17719,8 @@
     "name": "The Tamil Crown",
     "topics": [
       "british",
-      "indian"
+      "indian",
+      "sunday-roast"
     ],
     "sourceCount": 3,
     "tierSpread": "A1 B1 C1",
@@ -17805,7 +17843,8 @@
   "guanabana": {
     "name": "Guanabana",
     "topics": [
-      "british"
+      "british",
+      "sunday-roast"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -17822,7 +17861,8 @@
   "selkirk": {
     "name": "The Selkirk",
     "topics": [
-      "british"
+      "british",
+      "sunday-roast"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -18348,13 +18388,19 @@
   "baring": {
     "name": "The Baring",
     "topics": [
-      "british"
+      "british",
+      "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london"
+      },
       {
         "tier": "C",
         "source": "Hot Dinners",
@@ -19748,6 +19794,7 @@
       "new-openings",
       "pakistani",
       "parks-gardens",
+      "sunday-roast",
       "views"
     ],
     "sourceCount": 2,
@@ -25804,8 +25851,8 @@
       "dim-sum",
       "general"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
+    "sourceCount": 3,
+    "tierSpread": "B3",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -25818,6 +25865,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
       }
     ]
   },
@@ -25914,10 +25966,11 @@
     "name": "2210 by NattyCanCook",
     "topics": [
       "british",
-      "general"
+      "general",
+      "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -25925,6 +25978,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
       }
     ]
   },
@@ -26404,7 +26462,8 @@
     "name": "Sessions Arts Club",
     "topics": [
       "british",
-      "general"
+      "general",
+      "sunday-roast"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -35498,7 +35557,8 @@
   "taotaoju": {
     "name": "Tao Tao Ju",
     "topics": [
-      "chinese"
+      "chinese",
+      "dim-sum"
     ],
     "sourceCount": 3,
     "tierSpread": "B3",
@@ -36186,10 +36246,11 @@
   "duckandrice": {
     "name": "The Duck and Rice",
     "topics": [
-      "chinese"
+      "chinese",
+      "dim-sum"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -36197,6 +36258,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
       }
     ]
   },
@@ -42982,11 +43048,16 @@
     "topics": [
       "dim-sum"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+      },
       {
         "tier": "C",
         "source": "Civilian Global",
@@ -43008,6 +43079,154 @@
         "tier": "C",
         "source": "Civilian Global",
         "url": "https://civilianglobal.com/food-and-drink/the-best-dim-sum-in-london-from-dumpling-legends-in-chinatown-to-duddells/"
+      }
+    ]
+  },
+  "dayu": {
+    "name": "Dayu",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+      }
+    ]
+  },
+  "gouqi": {
+    "name": "Gouqi",
+    "topics": [
+      "dim-sum",
+      "general"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      }
+    ]
+  },
+  "teahousechinese": {
+    "name": "Tea House Chinese",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+      }
+    ]
+  },
+  "myneighboursthedumplings": {
+    "name": "My Neighbours The Dumplings",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+      }
+    ]
+  },
+  "shikumen": {
+    "name": "Shikumen",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+      }
+    ]
+  },
+  "sevendialsmarket": {
+    "name": "Seven Dials Market",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+      }
+    ]
+  },
+  "bangbangorientalfoodhall": {
+    "name": "Bang Bang Oriental Foodhall",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+      }
+    ]
+  },
+  "opiumcocktailsanddimsumparlour": {
+    "name": "Opium Cocktails and Dim Sum Parlour",
+    "topics": [
+      "dim-sum",
+      "late-night"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/late-night-restaurants-london/"
       }
     ]
   },
@@ -43116,13 +43335,19 @@
     "name": "The George",
     "topics": [
       "fish-and-chips",
-      "historic-pubs"
+      "historic-pubs",
+      "sunday-roast"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C2 D1",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "B1 C2 D1",
+    "tierCount": 3,
     "hasAward": false,
     "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london"
+      },
       {
         "tier": "C",
         "source": "London Travel Planning",
@@ -43884,17 +44109,23 @@
     "name": "Café François",
     "topics": [
       "french",
-      "general"
+      "general",
+      "sunday-roast"
     ],
-    "sourceCount": 2,
-    "tierSpread": "A1 C1",
-    "tierCount": 2,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
     "hasAward": true,
     "sources": [
       {
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london"
       },
       {
         "tier": "C",
@@ -43992,10 +44223,11 @@
     "name": "Julie's",
     "topics": [
       "french",
-      "italian"
+      "italian",
+      "sunday-roast"
     ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
+    "sourceCount": 3,
+    "tierSpread": "A1 B2",
     "tierCount": 2,
     "hasAward": true,
     "sources": [
@@ -44008,6 +44240,11 @@
         "tier": "B",
         "source": "LuxLife",
         "url": "https://luxlifelondon.com/best-italian-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
       }
     ]
   },
@@ -44255,10 +44492,11 @@
   "bistrosable": {
     "name": "Bistro Sablé",
     "topics": [
-      "french"
+      "french",
+      "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -44266,6 +44504,11 @@
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/french-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
       }
     ]
   },
@@ -52267,23 +52510,6 @@
       }
     ]
   },
-  "gouqi": {
-    "name": "Gouqi",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      }
-    ]
-  },
   "calong": {
     "name": "Cálong",
     "topics": [
@@ -52332,10 +52558,11 @@
   "parakeet": {
     "name": "The Parakeet",
     "topics": [
-      "general"
+      "general",
+      "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -52343,16 +52570,22 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
       }
     ]
   },
   "macbeth": {
     "name": "The Macbeth",
     "topics": [
-      "general"
+      "general",
+      "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 3,
+    "tierSpread": "B3",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -52360,6 +52593,16 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london"
       }
     ]
   },
@@ -52994,10 +53237,11 @@
     "name": "CUT at 45 Park Lane",
     "topics": [
       "general",
-      "steak"
+      "steak",
+      "sunday-roast"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B3 C1 D1",
+    "sourceCount": 6,
+    "tierSpread": "B4 C1 D1",
     "tierCount": 3,
     "hasAward": false,
     "sources": [
@@ -53015,6 +53259,11 @@
         "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
       },
       {
         "tier": "C",
@@ -70578,23 +70827,6 @@
       }
     ]
   },
-  "opiumcocktailsanddimsumparlour": {
-    "name": "Opium Cocktails and Dim Sum Parlour",
-    "topics": [
-      "late-night"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/late-night-restaurants-london/"
-      }
-    ]
-  },
   "oldcomptonbrasserie": {
     "name": "Old Compton Brasserie",
     "topics": [
@@ -76023,33 +76255,6 @@
       }
     ]
   },
-  "balady": {
-    "name": "Balady",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-falafel-london"
-      },
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/the-best-falafel-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/falafel-in-london/"
-      }
-    ]
-  },
   "falafelhut": {
     "name": "Falafel Hut",
     "topics": [
@@ -78354,7 +78559,8 @@
   "gardenbargrillandsmokehousebycuepoint": {
     "name": "Garden Bar Grill & Smokehouse By Cue Point",
     "topics": [
-      "new-openings"
+      "new-openings",
+      "sunday-roast"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -80141,10 +80347,11 @@
   "dakadaka": {
     "name": "DakaDaka",
     "topics": [
-      "new-openings"
+      "new-openings",
+      "sunday-roast"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
+    "sourceCount": 3,
+    "tierSpread": "B3",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -80157,6 +80364,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/all-latest-openings_11"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
       }
     ]
   },
@@ -80353,12 +80565,13 @@
     ]
   },
   "princearthur": {
-    "name": "Prince Arthur",
+    "name": "The Prince Arthur",
     "topics": [
-      "new-openings"
+      "new-openings",
+      "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -80366,6 +80579,11 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
       }
     ]
   },
@@ -84622,10 +84840,11 @@
   "rakeatthecomptonarms": {
     "name": "Rake at The Compton Arms",
     "topics": [
-      "seafood"
+      "seafood",
+      "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -84633,6 +84852,11 @@
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/london-seafood-restaurants/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
       }
     ]
   },
@@ -84877,10 +85101,11 @@
   "ekstedtattheyard": {
     "name": "Ekstedt At The Yard",
     "topics": [
-      "seafood"
+      "seafood",
+      "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -84888,6 +85113,11 @@
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/londons-best-oysters/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
       }
     ]
   },
@@ -87277,6 +87507,565 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-steak-restaurants-london"
+      }
+    ]
+  },
+  "londonsbestsundayroastsataglance": {
+    "name": "London's best Sunday roasts at a glance:",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "ricepaddyatthewhitehorse": {
+    "name": "Rice Paddy at The White Horse",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "dukeorganic": {
+    "name": "The Duke Organic",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "oldnunshead": {
+    "name": "Old Nun's Head",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "angel": {
+    "name": "The Angel",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "malltavern": {
+    "name": "The Mall Tavern",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "camberwellarms": {
+    "name": "The Camberwell Arms",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london"
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
+      }
+    ]
+  },
+  "bustermantis": {
+    "name": "Buster Mantis",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "nelsons": {
+    "name": "The Nelson’s",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "salusbury": {
+    "name": "The Salusbury",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "dragonflameatstarbyhackneydowns": {
+    "name": "The Dragon Flame at Star by Hackney Downs",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "chalkfreehouse": {
+    "name": "The Chalk Freehouse",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "williamiv": {
+    "name": "William IV",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "audleypublichouse": {
+    "name": "The Audley Public House",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "blackcactus": {
+    "name": "Black Cactus",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "claptoncountryclub": {
+    "name": "Clapton Country Club",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "clarencetavern": {
+    "name": "The Clarence Tavern",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london"
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
+      }
+    ]
+  },
+  "hawksmoorborough": {
+    "name": "Hawksmoor Borough",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london"
+      }
+    ]
+  },
+  "blueboarpub": {
+    "name": "The Blue Boar Pub",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-sunday-roasts-london"
+      }
+    ]
+  },
+  "mrporterrestaurant": {
+    "name": "MR PORTER Restaurant",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-sunday-roasts-london"
+      }
+    ]
+  },
+  "talbot": {
+    "name": "The Talbot",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-sunday-roasts-london"
+      }
+    ]
+  },
+  "sundayroastfaqs": {
+    "name": "Sunday Roast FAQs",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-sunday-roasts-london"
+      }
+    ]
+  },
+  "longlensonluxury": {
+    "name": "The Long Lens on Luxury",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
+      }
+    ]
+  },
+  "mainnavigation": {
+    "name": "Main navigation",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
+      }
+    ]
+  },
+  "charliesatbrownshotel": {
+    "name": "Charlie’s at Brown’s Hotel",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
+      }
+    ]
+  },
+  "footermenu": {
+    "name": "Footer menu",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
+      }
+    ]
+  },
+  "stayintheluxuryloop": {
+    "name": "Stay in the Luxury Loop",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
+      }
+    ]
+  },
+  "withsphere": {
+    "name": "with SPHERE",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
+      }
+    ]
+  },
+  "fromtheblog": {
+    "name": "From the Blog",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pub Guide London",
+        "url": "https://pubguidelondon.com/best-sunday-roasts.html"
+      }
+    ]
+  },
+  "starrating": {
+    "name": "star rating",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pub Guide London",
+        "url": "https://pubguidelondon.com/best-sunday-roasts.html"
+      }
+    ]
+  },
+  "pricerange": {
+    "name": "price range",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pub Guide London",
+        "url": "https://pubguidelondon.com/best-sunday-roasts.html"
+      }
+    ]
+  },
+  "pname": {
+    "name": "' + p.name + '",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pub Guide London",
+        "url": "https://pubguidelondon.com/best-sunday-roasts.html"
       }
     ]
   },
