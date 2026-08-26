@@ -1,6 +1,6 @@
 ---
-title: "The Best Cocktail Bars in London: 22 Compared"
-seoTitle: "Best Cocktail Bars London 2026: 22 Rooms Compared"
+title: "The Best Cocktail Bars in London: 26 Compared"
+seoTitle: "Best Cocktail Bars London 2026: 26 Rooms Compared"
 description: "Where the Savoy Cocktail Book was written, a martini mixed at your table from a trolley, and a two-drink limit that tells you everything — London's best bars."
 heroImage: "../../assets/articles/best-cocktail-bars-london/best-cocktail-bars-london.jpg"
 heroImageAlt: "A bartender measuring spirits into a jigger behind a dimly lit bar"
@@ -59,7 +59,8 @@ Both are worth your time and they are not competing.
 | **Soho** | Swift, Bar Termini |
 | **Shoreditch & Bethnal Green** | Tayēr + Elementary, Satan's Whiskers, Coupette, Seed Library |
 | **Hoxton, Haggerston & Dalston** | Happiness Forgets, A Bar with Shapes for a Name, Three Sheets (Dalston) |
-| **Soho** | Swift, Bar Termini, Three Sheets Soho |
+| **Soho** | Swift, Bar Termini, Three Sheets Soho, Bar Crispin |
+| **North London** | Little Mercies (Crouch End), Half Cut Market (York Way) |
 | **Smithfield** | Oriole |
 | **South Bank** | Lyaness |
 
@@ -171,7 +172,7 @@ Twenty-odd seats, **negronis aged in the bottle**, and an espresso counter by da
 
 *£££*
 
-**No.80 in the World's 50 Best Bars 2025**
+**Soho: No.80 in the World's 50 Best Bars 2025** · **Dalston: No.16 in 2019**
 
 Two brothers, a short menu and **no theatre at all** — the drinks arrive without a speech, which in this scene is very much the point.
 
@@ -182,6 +183,36 @@ Two brothers, a short menu and **no theatre at all** — the drinks arrive witho
 **No.73 in the World's 50 Best Bars 2025**
 
 Built on **Bauhaus principles down to the glassware**, with a menu of about a dozen drinks and nothing surplus to it. The name is a joke about its own signage, which is three shapes.
+
+### Little Mercies, Crouch End
+
+*££ · 20 Broadway Parade · 30% off 6–7pm daily*
+
+A low-waste neighbourhood bar from the same family behind Three Sheets, built around house distillates, ferments and bottled spirits — and named **Sustainable Bar of the Year in 2022, 2023 and 2025**.
+
+The Snickers Old Fashioned, Moro Margarita and Rhubarb Negroni are the signatures, £10.50–£12.50, with £7 "mini drinks" for something smaller.
+
+**Thirty per cent off every drink between 6 and 7pm, seven nights a week** — the most generous standing offer of any bar in this guide.
+
+> The kitchen is closed until 25 September 2026, reopening with chef Christine Walsh. The bar is trading throughout.
+
+### Half Cut Market, York Way
+
+*££ · 396 York Way · wine bar and bottle shop*
+
+A tiny York Way bottle shop that became a wine bar and restaurant, with around eighty low-intervention bottles to drink in or carry out, and a Konro-grilled seasonal menu.
+
+The cocktails are a short sideline and priced accordingly — the **Half Cut Martini is £10** and a vermouth and soda **£7**, which in London is close to unheard of for drinks made this carefully.
+
+Despite the name, it is a shopfront rather than anything inside a market.
+
+### Bar Crispin, Soho
+
+*££ · 19 Kingly Street · wine-led*
+
+Soho's benchmark low-intervention wine bar, and the cocktail list is short but unusually good: an **olive oil negroni** and a burnt butter old fashioned among four, at £13–£14.
+
+Worth being clear that wine is the point here and cocktails are the sideline. The set menu is £29 for two courses or £39 for three, restricted to groups of three or fewer.
 
 ### Seed Library, Shoreditch
 
@@ -219,7 +250,9 @@ Cocktail bars are where London prices get least transparent — most publish not
 
 ### Genuinely cheap drinks
 
-* **Swift**, Soho, Shoreditch and Borough — **named cocktails at £7, Monday to Thursday before 6pm**, printed on the menu against drinks that are otherwise £12–£15. The best happy hour of any serious bar in London.
+* **Little Mercies**, Crouch End — **30% off all drinks, 6–7pm, every single day.** That takes an £11 Snickers Old Fashioned to about £7.70, and it runs seven nights a week rather than on weekdays only. The best standing offer of any serious bar in London. Takeaway drinks excluded.
+* **Swift**, Soho, Shoreditch and Borough — **named cocktails at £7, Monday to Thursday before 6pm**, printed on the menu against drinks that are otherwise £12–£15.
+* **Three Sheets Soho** — no drinks offer, but **three free oysters with any martini or champagne, Sunday to Friday before 6pm**, which is a better deal than it sounds given oysters are £3.95 each there.
 * **Bar Termini**, Old Compton Street — the **house Negroni is £9.50**, all four builds, all day. Not a happy hour, just the price. A thirty-seat Italian aperitivo bar making drinks with the precision of rooms charging double.
 * **Coupette**, Bethnal Green — **Sunday Development Sessions, all drinks £9** from 4pm, experimental pours that are not on the menu. The regular list runs £11–£15, which is already below the West End.
 * **Lyaness** runs a weekday happy hour from 5–7pm, though it does not publish the prices.
@@ -228,9 +261,17 @@ Cocktail bars are where London prices get least transparent — most publish not
 
 The **Connaught Martini is £30**, mixed at your table from the trolley. **Nightjar** is around £15 a drink *plus* a £6–£10 music cover and a £15 per person per hour minimum spend. Knowing those numbers is what makes the £7 and £9.50 above worth planning around.
 
+### Cheap by the glass, not by the hour
+
+Some bars are simply priced below the market and do not need an offer:
+
+* **Half Cut Market**, York Way — the **Half Cut Martini is £10** and a vermouth and soda is **£7**, in a wine bar that also sells you the bottle to take home. Despite the name it is a shopfront on York Way, not a market hall.
+* **Little Mercies**, Crouch End — the signatures run £10.50–£12.50 and the "mini drinks" are **£7**.
+* **Three Sheets Dalston** — the house list is £15.50–£16, but the menu states **classics from £13**, which is the way in.
+
 ### Food halls and markets
 
-**Half Cut Market** in Peckham and the bars inside **Mercato Metropolitano**, **Seven Dials Market** and **Boxpark** all serve proper drinks at market rather than bar prices — the most reliable cheap route in central and south London.
+The bars inside **Mercato Metropolitano**, **Seven Dials Market** and **Boxpark** serve proper drinks at market rather than bar prices — the most reliable cheap route in central and south London when you do not want to plan around an offer.
 
 ### General
 
