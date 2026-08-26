@@ -47,7 +47,9 @@ The city has the deepest omakase scene outside Japan and a thinner budget end th
 | **Soho & Piccadilly** | Engawa |
 | **Chelsea & Kensington** | Dinings SW3, Akira at Japan House |
 | **The City** | SUSHISAMBA |
-| **North London** | Jin Kichi (Hampstead) |
+| **Bloomsbury & Holborn** | Koya Ko, Cocoro |
+| **Islington & north** | Jin Kichi (Hampstead), Monohon Ramen, Ramo Ramen |
+| **Covent Garden** | Kanada-Ya |
 | **South London** | Kurisu Omakase (Brixton) |
 
 **Price guide:** **£** under £20 · **££** £20–£45 · **£££** £50–£90 · **££££** £120+.
@@ -164,15 +166,69 @@ Sashimi and maki on the same menu as ceviche, tiradito and tacos. Sounds like a 
 
 ---
 
+## Ramen and noodles
+
+The part of Japanese London that has improved most in the last decade, and the part you can eat on any budget.
+
+### Kanada-Ya, Covent Garden
+
+*£ · no bookings*
+
+**Tonkotsu broth simmered for eighteen hours** and no bookings, which is why there is usually a queue on St Giles High Street. The original London site and still the benchmark for pork-bone ramen here.
+
+Order the extra chashu. The queue moves faster than it looks.
+
+### Monohon Ramen, Old Street
+
+*£ · walk-in*
+
+The specialist's choice, doing a lighter, cleaner broth than the tonkotsu shops — and taken seriously enough by ramen obsessives to be the name that comes up when you ask them rather than a magazine.
+
+### Ramo Ramen, Kentish Town
+
+*££ · Filipino-Japanese*
+
+**Filipino-Japanese ramen**, which sounds like a fusion gimmick and is actually a coherent tradition — sisig, kare-kare and adobo flavours built into a ramen framework.
+
+The most interesting noodle bowl in London and not much like anything else on this page.
+
+### Koya Ko, Bloomsbury
+
+*£ · udon*
+
+Hand-cut **udon** rather than ramen, in a broth made to order, from the Koya group. The udon is thicker and chewier than the supermarket version by a wide margin, and the breakfast service is one of London's quiet bargains.
+
+### Cocoro, Bloomsbury
+
+*££ · Japanese home cooking*
+
+Neither sushi counter nor ramen shop — **everyday Japanese home cooking**, donburi and set meals, which is the category London has least of and needs most.
+
+---
+
 ## Everyday and best value
 
-London's budget Japanese end is thinner than it should be, but these are genuinely good rather than merely cheap.
+Omakase counters get the attention, but the everyday end of Japanese London is where most of the eating happens — and it is cheap.
 
-* **Jin Kichi**, Hampstead — charcoal yakitori, and the best value on this page.
-* **Marugame Udon** — a canteen where you walk the line watching the noodles being cut. Under £12.
-* **Tonkotsu** — ramen across London, consistent at every site.
-* **Sticks'n'Sushi**, Battersea — a Danish-Japanese format putting sushi and skewers on one menu. Reliable rather than remarkable.
-* **Akira at Japan House**, Kensington — sourcing directly from Japan, with bento and donburi using produce nowhere else has.
+### Under £15
+
+* **Kanada-Ya**, Covent Garden — a bowl of eighteen-hour tonkotsu for less than a central London sandwich.
+* **Koya Ko**, Bloomsbury — hand-cut udon, and the breakfast service is cheaper still.
+* **Marugame Udon** — a canteen where you walk the line watching the noodles being cut, under £12, with sites across London.
+* **Monohon** and **Tonkotsu** — both consistent, both around the same money.
+
+### Markets and food halls
+
+* **Seven Dials Market**, Covent Garden — Japanese counters in a two-floor food hall, and the best way to eat one good dish without committing to a restaurant.
+* **Arcade Food Hall** at Centre Point and **Boxpark** carry Japanese and Japanese-adjacent counters, generally around £10–£14 a dish.
+* **Japan Centre**, Panton Street — as much a food shop as a restaurant. The bento and onigiri counter is the cheapest genuinely Japanese food in the West End, and the supermarket behind it is where Londoners buy the ingredients.
+
+### Worth the money rather than cheap
+
+* **Jin Kichi**, Hampstead — charcoal yakitori, and the best value-for-quality on this page.
+* **Cocoro** — home-style set meals, the category London under-serves.
+* **Akira at Japan House**, Kensington — sourcing directly from Japan, with bento and donburi built on produce nowhere else here has.
+* **Lunch sets** at the omakase counters run at a fraction of dinner for the same fish. This is the single biggest saving in this guide.
 
 ---
 

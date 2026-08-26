@@ -38,12 +38,15 @@ Spanish food in London has quietly become one of the city's strongest cuisines, 
 
 | If you are near… | Where to eat |
 | --- | --- |
-| **Mayfair & Soho** | Sabor, Barrafina |
-| **Marylebone** | Lurra |
-| **Farringdon & Clerkenwell** | Ibai |
-| **Shoreditch** | Legado |
+| **Mayfair & Soho** | Sabor, The Counter at Sabor, Barrafina, Lobos, Dehesa |
+| **Marylebone** | Lurra, ALTA (Soho) |
+| **Farringdon & Clerkenwell** | Ibai, Bar Kroketa |
+| **Exmouth Market** | Morito |
+| **Shoreditch** | Legado, Ember Yard |
 | **Bermondsey** | José, Pizarro |
 | **Fitzrovia** | Salt Yard |
+| **Covent Garden & King's Cross** | Copita, Parrillan |
+| **Borough & south** | Escocesa (Stoke Newington), Maresco |
 
 **Price guide:** **££** £15–£35 · **£££** £40–£70 · **££££** £90+.
 
@@ -111,12 +114,88 @@ The **sit-down sibling to José** — same chef, tables instead of stools, and y
 
 ---
 
+## The new wave
+
+### ALTA, Soho
+
+*£££ · Kingly Court*
+
+Basque-influenced live-fire cooking from Rob Roy Cameron, who spent years at elBulli — and one of the most talked-about Spanish openings London has had in a decade.
+
+Everything runs off the grill and the wood oven. Book well ahead; the counter is the seat to want.
+
+### Bar Kroketa, Clerkenwell
+
+*££ · croquettes and little else*
+
+A bar built almost entirely around the **croqueta** — a dozen or so varieties, made properly, at a counter with a short sherry list.
+
+It is a single-dish restaurant in the way a good ramen shop is, and the discipline is the point.
+
+### Morito, Exmouth Market
+
+*££ · a counter, no bookings for small tables*
+
+Sam and Sam Clark's small tapas counter next door to their Moro, and the more useful of the two for a walk-in.
+
+Twenty-odd covers, an all-Spanish drinks list heavy on sherry, and the charm of a place that has been full every night for years without expanding.
+
+### Copita, Soho
+
+*££ · d'Arblay Street*
+
+A standing-and-perching tapas bar of the kind Soho used to be full of, with a genuinely good Spanish wine list sold by the copita — the small glass the place is named after.
+
+### Dehesa, Soho
+
+*££ · Carnaby Street*
+
+Spanish-Italian charcuterie and small plates on a corner site off Carnaby Street, from the same group as Salt Yard. The Ibérico ham and the courgette flower are the two things people order every time.
+
+### Parrillan, King's Cross
+
+*£££ · Coal Drops Yard · grill at the table*
+
+From the Hart brothers, who run Barrafina — and the gimmick is real: **each table gets its own small charcoal grill** and you cook the skewers yourself.
+
+Coal Drops Yard has the terrace; there is a Borough Yards site too.
+
+### Lobos, Soho and Borough
+
+*££ · under a railway arch at Borough*
+
+Meat and tapas, and the Borough site is squeezed under a railway arch in a way that makes it feel much older than it is. The Ibérico presa is the order.
+
+### Escocesa, Stoke Newington
+
+*££ · seafood tapas*
+
+Spanish seafood cooking on Stoke Newington Church Street, sourcing from Scottish waters — hence the name, which is a joke that takes a second.
+
+The most neighbourhood-feeling restaurant on this page, and the one Londoners are most likely to name.
+
+---
+
 ## Best value
 
-* **José** — standing room, no booking, and the cheapest way to eat seriously good Spanish food in London.
-* **Barrafina at the counter** — you are not paying for a table.
-* **Tapas ordered in waves** rather than all at once stops the bill running away, and is how it is meant to work.
-* **Sherry is underpriced** almost everywhere and is the correct drink with jamón.
+Tapas is designed to be cheap and London has mostly forgotten that. These are the places where it still is.
+
+### Markets and food halls
+
+* **Borough Market** — **Brindisa** has traded here since the 1980s and started as an importer rather than a restaurant. The chorizo roll from its stall, with rocket and piquillo peppers, is around a fiver and is one of the great cheap lunches in London.
+* **Mercado Metropolitano**, Elephant & Castle — a Spanish-founded food hall with several Iberian counters, and the cheapest jamón and pan con tomate in the city.
+* **Seven Dials Market** and **Arcade Food Hall** both carry Spanish counters if you want one dish rather than a table.
+
+### Counters rather than tables
+
+* **José**, Bermondsey — standing room, no bookings, and still the cheapest way to eat seriously good Spanish food in London.
+* **Barrafina at the counter** — the counter is the only seating, so you are not paying for a table.
+* **Bar Kroketa** — a plate of croquettes and a glass of fino is a genuinely cheap meal.
+
+### How to order
+
+* **Order tapas in waves** rather than all at once. It stops the bill running away and it is how the format is meant to work.
+* **Sherry is underpriced** almost everywhere in London and is the correct drink with jamón — a copita of fino usually costs less than a glass of house white.
 
 ---
 

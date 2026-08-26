@@ -158,6 +158,18 @@ The dim sum benchmark, and open later than most of the halls it is measured agai
 
 ---
 
+## Best value after midnight
+
+Late-night prices in London usually go one of two ways: a nightclub markup, or the cheapest food in the city. These are the second kind.
+
+* **Beigel Bake**, Brick Lane — open **twenty-four hours**, salt beef beigel **£7.50**, smoked salmon **£4.50**. The definitive London 4am meal.
+* **Whitechapel and Edgware Road** are the two genuinely cheap late corridors. Grills, bakeries and sweet shops on both run well past midnight at daytime prices.
+* **Chinatown** — the late noodle and roast-meat places are open past 1am and priced for people who work in them rather than for tourists.
+* **Food halls run later than you think.** **Boxpark Shoreditch** and **Mercato Metropolitano** both trade late at weekends, with a dozen counters at market prices.
+* **Night Tube nights.** Friday and Saturday only — factor it in, because a night bus plus a cheap meal is often less than the meal alone plus a cab.
+
+---
+
 ## What to know
 
 * **London closes early.** Most kitchens stop at 10pm. Assume nothing is open late unless it is on this list.

@@ -262,6 +262,19 @@ Six **bánh mì** on the menu — char siu pork, pâté, pork belly — on the s
 
 ---
 
+## Best value
+
+A sandwich is already the cheap option, but the spread here runs from about £4.50 to £11 and the cheapest things are often the best.
+
+* **Beigel Bake**, Brick Lane — **smoked salmon and cream cheese at £4.50**, salt beef at £7.50, twenty-four hours a day. The best value on this page and arguably in London.
+* **Tongue & Brisket** — **£8** for home-cured salt beef, which undercuts most central London sandwich shops selling considerably less.
+* **Kappacasein**, Borough Market — **£8** for the four-cheese toastie, Thursday to Saturday.
+* **The caffs.** Regency Café's set breakfast is **£9.99**; Terry's and Scotti's are cheaper still for a bacon roll. These are full meals, not snacks.
+* **Markets.** **Borough Market**, **Shepherd's Bush Market** (Sam Sandwiches and Mr Falafel, both enormous and both cheap) and **Old Spitalfields** are where the value is concentrated.
+* **Go at the right time.** Porterford's hot counter stops at 2pm and Secret Sandwich Shop trades four hours a day — the cheap places are often the ones with the shortest hours.
+
+---
+
 ## What to know
 
 * **Check the trading days before you travel.** Kappacasein is Thursday to Saturday. Secret Sandwich Shop opens for four hours. Chatsworth Bakehouse is pre-order only, Mondays at 12:30. Porterford and Regency close at weekends. This category keeps shorter hours than any other kind of food business in London.

@@ -199,6 +199,18 @@ Lebanese **booza** — stretched, pounded ice cream made with mastic and salep, 
 
 ---
 
+## Best value
+
+Ice cream is cheap by definition, but the range in London is wider than people expect — a scoop runs from about £3.45 to over £6 depending on the postcode.
+
+* **Crosstown** publishes the clearest price in London coffee-shop gelato: **£3.45 a scoop**, cup or cone, in store. Most parlours publish nothing at all.
+* **Caliendo's** sells **pints for £12 online**, which is the cheapest way to eat award-winning gelato at home.
+* **Markets and food halls.** **Borough Market**, **Mercato Metropolitano** and **Seven Dials Market** all carry gelato counters, and market pitches are consistently cheaper than shopfronts in the same postcode.
+* **Buy a tub, not a cone.** Almost every parlour here sells takeaway tubs at a much better rate per scoop, and most will pack them with dry ice if you ask.
+* **Avoid delivery apps.** They mark ice cream up substantially over the counter price, and it arrives in worse condition than anything else you can order.
+
+---
+
 ## What to know
 
 * **Check the season and the days.** Marcelo's is weekends only; Ice Cream Union's factory shop shuts for January and February. Ice cream keeps stranger hours than restaurants.
