@@ -1,6 +1,6 @@
 ---
-title: "London's Most Unusual Restaurants: 23 Strange Rooms"
-seoTitle: "Unusual Restaurants London 2026: 23 Strange Places to Eat"
+title: "London's Most Unusual Restaurants: 22 Strange Rooms"
+seoTitle: "Unusual Restaurants London 2026: 22 Strange Places to Eat"
 description: "A Mongolian yurt, a floating pagoda, a Victorian lavatory, a prison-roasted coffee shop and a former school bike shed — London restaurants where the room is the story."
 heroImage: "../../assets/articles/unusual-restaurants-london/feng-shang-princess.jpg"
 heroImageAlt: "The Feng Shang Princess, a red three-tiered Chinese pagoda restaurant moored on the Regent's Canal"
@@ -59,7 +59,7 @@ The test we applied: a rooftop with a good view is not unusual in London, becaus
 | **King's Cross & Clerkenwell** | Coal Office, Sessions Arts Club |
 | **Paddington & Regent's Park** | The Cheese Barge, Feng Shang Princess |
 | **Wapping & Limehouse** | The Captain Kidd, The Yurt Café |
-| **Elsewhere** | BOXPARK Wembley, Kinz (Notting Hill), Redemption Roasters (Bloomsbury), The Ledger Building (Canary Wharf) |
+| **Elsewhere** | Kinz (Notting Hill), Redemption Roasters (Bloomsbury), The Ledger Building (Canary Wharf) |
 
 **Price guide:** **£** under £15 · **££** £15–£35 · **£££** £40–£70 · **££££** £80+.
 
@@ -142,12 +142,6 @@ A **1930s Lloyds Bank** on Notting Hill Gate turned Lebanese brasserie — tripl
 *££ · a warehouse as a ship*
 
 A converted warehouse **laid out like a ship's hull**, named for the pirate hanged a few yards away.
-
-### BOXPARK Wembley
-
-*£ · shipping containers*
-
-Shipping containers stacked around a 20,000 sq ft events space on Wembley Way, built for match days.
 
 ---
 

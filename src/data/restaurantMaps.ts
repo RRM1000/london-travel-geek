@@ -1139,14 +1139,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       articleAnchor: "#sketch-mayfair",
     },
     {
-      name: "BOXPARK Wembley",
-      area: "Wembley",
-      price: "£",
-      latitude: 51.560518,
-      longitude: -0.280393,
-      type: "streetfood",
-    },
-    {
       name: "Coal Office",
       area: "King's Cross",
       price: "££££",

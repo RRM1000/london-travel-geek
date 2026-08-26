@@ -75,8 +75,9 @@ const MAPS = [
     key: "unusual-restaurants-london",
     list: "unusual",
     streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
-        tableOnly: ["boxpark-wembley","the-ledger-building"],
-    exclude: ["the-cinnamon-club"],
+    tableOnly: ["the-ledger-building"],
+    // Boxpark Wembley is a stadium food court, not an unusual room.
+    exclude: ["the-cinnamon-club", "boxpark-wembley"],
     article: "src/content/articles/unusual-restaurants-london.md",
   },
   {
