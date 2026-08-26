@@ -1,6 +1,6 @@
 ---
 title: "The Best Breakfast and Brunch in London"
-seoTitle: "Best Breakfast & Brunch London 2026: 13 Places Compared"
+seoTitle: "Best Breakfast & Brunch London 2026: 24 Places Compared"
 description: "From a bacon naan roll to a 24-hour fry-up forty floors up — London breakfast and brunch, with what each costs and which need booking."
 heroImage: "../../assets/articles/best-breakfast-brunch-london/the-table-full-english.jpg"
 heroImageAlt: "A full English breakfast of fried eggs, sausage, bacon, beans, grilled tomato and a field mushroom at The Table Cafe in Southwark"
@@ -160,12 +160,119 @@ Serious coffee and a proper British breakfast — the default Hampstead morning,
 
 ---
 
+## Weekend-only, and worth planning around
+
+The thing that catches people out. Several of London's best brunches run **on Saturday and Sunday only** — turn up on a Wednesday and the kitchen is doing something else entirely.
+
+### Akub, Notting Hill
+
+*Weekend only · Sat 11am–3pm, Sun 11am–4pm*
+
+Modern Palestinian cooking from Fadi Kattan, and the brunch is not a translation of an English one — **Arabic coffee French toast** with cocoa and pistachio, and aubergine fatteh.
+
+The most distinctive weekend brunch in London, and the one most worth rearranging a weekend for.
+
+### Bistrotheque, Bethnal Green
+
+*Weekend only · live piano 12–3pm*
+
+A French bistro at the end of an unmarked Bethnal Green side street, with **a pianist playing through the middle of the day**. That is the whole proposition and it has worked for years.
+
+### Carmel, Queen's Park
+
+*Weekend only · Sat and Sun 10am–3.30pm*
+
+Eastern Mediterranean, and the **flatbreads come out of a tabun oven** with whatever is seasonal on top, alongside morning mezze and pastries.
+
+Tuesday to Friday it does lunch and dinner only, so the brunch really is a weekend thing.
+
+### Mr Bao, Peckham
+
+*Weekend only · bottomless £24 an hour*
+
+Taiwanese steamed buns turned into breakfast: a **bacon and egg bao** with char siu bacon and burnt cheese, and a crispy hash brown bao.
+
+**Bottomless is £24 an hour** — prosecco, mimosas and Bloody Marys — and it is the only confirmed bottomless offer among the modern brunch rooms in this guide.
+
+### Christopher's, Covent Garden
+
+*Weekend only · Sat 11am–3pm, Sun 11am–3.30pm*
+
+An American grill in a Grade II Covent Garden building, and the **warm brioche French toast** is what it is known for.
+
+### Esters, Stoke Newington
+
+*Saturday only · no bookings, card only*
+
+Seasonal café cooking and Hasbean coffee, and full brunch runs **on Saturday alone** — not Sunday, which even regular guides get wrong.
+
+No reservations, card only, and no laptops on Fridays and Saturdays.
+
+---
+
+## Every day of the week
+
+### Sunday in Brooklyn, Notting Hill
+
+*Daily · also Marylebone*
+
+The Williamsburg original's first site outside New York, and the **hazelnut and brown butter pancakes** are the reason to come.
+
+Prices are published, which is rarer than it should be: avocado toast **£12.80**, cheddar scramble **£17.50**, shakshuka **£15.50**, an egg sandwich **£13.80**, and chia pudding at **£8** if you want the cheap way in.
+
+### TAB x TAB, Westbourne Grove
+
+*Daily · last food orders 3pm*
+
+Seven days a week from 8.30am on weekdays and 9am at weekends, which makes it the reliable answer in a part of London where most of the good rooms are weekend-only.
+
+### The Laundry, Brixton
+
+*Daily · a former laundry*
+
+All-day cooking and a wine shop in a converted Coldharbour Lane laundry — **Turkish eggs** and the Laundry Fry Up are the two orders.
+
+Table times are limited: 90 minutes for up to three people, two and a half hours for four or more. Not a bottomless venue, and says so.
+
+### Inis, Fish Island
+
+*Wed–Sun · mornings end at 11.30am*
+
+British-Irish cooking on the canal at Fish Island, and the caveat matters more than the food: **morning service runs 8am to 11.30am and then the room turns over.**
+
+This is not a lie-in brunch. Closed Mondays and Tuesdays.
+
+### Burnt Arches, Bethnal Green
+
+*Tue–Sun · a railway arch*
+
+A bakery and café under a railway arch doing a **crab and 'nduja herby omelette** with brown crab aioli, and aloo gobi fried eggs. Closed Mondays.
+
+The group's third site — there are two others, so check which one a listing means.
+
+---
+
 ## Cheap, and open early
 
-* **Wetherspoons** — The Crosse Keys, Hamilton Hall, The Ledger Building and The Montagu Pyke all open at 8am and serve a cooked breakfast for a few pounds, in buildings people would otherwise pay to look at.
-* **Polo Bar**, Liverpool Street — **no front door to close**. A fry-up at any hour.
+**The honest finding: the London greasy spoon is no longer cheap.** A proper sit-down cooked breakfast now runs £10 to £18 in most caffs, and the modern brunch rooms start around £13 for a plate of eggs. These are the exceptions.
+
+#### The caffs
+
+* **Regency Café**, Westminster — a **set breakfast at £9.99**, which is close to the floor for a sit-down cooked breakfast in central London. Open since 1946, black-tiled, order shouted across the room. Monday to Saturday, 7am to 3.30pm, closed Sundays.
+* **Terry's Café**, Southwark — the Standard is **£15.50** and the Works **£18.50** with Cumberland sausage, bubble and squeak and black pudding. Daily 7.30am–3pm. Not cheap any more, but home-cured bacon and a family running it since 1982.
+* **E Pellicci**, Bethnal Green — Grade II listed, family-run since 1900, and one of the last genuinely unchanged rooms in the East End. Cash-friendly, closed Sundays.
+
+#### Pubs and odd hours
+
+* **Wetherspoons** — The Crosse Keys, Hamilton Hall, The Ledger Building and The Montagu Pyke all open at 8am and serve a cooked breakfast for a few pounds, in buildings people would otherwise queue to look at. The cheapest cooked breakfast in central London by a distance.
+* **Polo Bar**, Liverpool Street — **no front door to close**. A fry-up at any hour of the day or night.
 * **The Attendant**, Fitzrovia — brunch inside a Victorian public lavatory, with the urinals as the counter.
-* **Ranoush Juice**, Edgware Road — not breakfast exactly, but open when nothing else is.
+
+#### Markets and bakeries
+
+* **Borough Market** opens early and the bakery counters are the cheapest good breakfast in the area — coffee and a pastry for a few pounds while the traders are still setting up.
+* **Maltby Street Market**, weekends — **St John Bakery Room** does the Old Spot bacon sandwich that people cross London for.
+* **Old Spitalfields** and **Seven Dials Market** both have breakfast counters open before the shops around them.
 
 ---
 

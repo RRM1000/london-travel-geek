@@ -217,6 +217,12 @@
         "closes": "UNVERIFIED",
         "detail": "Redevelopment plans for the Brixton Station Road site were submitted in March 2026 and would end Pop Brixton; the operator entered administration in 2024. Events were still scheduled for August 2026. Needs a check before travelling.",
         "recorded": "2026-08-26"
+      },
+      "viaduct tavern": {
+        "name": "The Viaduct Tavern",
+        "closes": "REOPENS 2026-09-03",
+        "detail": "126 Newgate Street EC1A 7AA. Temporarily closed; its own site states it reopens Thursday 3 September 2026. Closed Sundays thereafter. Not a permanent closure - remove this entry once reopening is confirmed.",
+        "recorded": "2026-08-26"
       }
     }
   }

@@ -162,6 +162,112 @@ Most of the pubs above serve food that is fine rather than the point. **The Holl
 
 ---
 
+## The listed interiors
+
+Age is the wrong measure for several of London's best pubs. These are protected for what is inside them.
+
+### The Blackfriar, Blackfriars
+
+*££ · 174 Queen Victoria Street · Grade II\**
+
+**The finest surviving Arts and Crafts pub interior in Britain**, and the highest-listed pub on this page after The George.
+
+Built around 1875 and remodelled in 1905 and 1917 by H. Fuller Clark with sculptors Frederick Callcott and Henry Poole: variegated marble, brass, mosaic, copper reliefs and bronze friars, wrapped round a wedge-shaped corner site. The Dominican friary that stood here is the source of the theme, not of the pub.
+
+**It was saved from demolition by a campaign led by John Betjeman**, which is most of why it is still standing. Note it is Grade II*, not Grade II — its own marketing undersells it.
+
+### The George, Southwark
+
+*££ · 75–77 Borough High Street · Grade I*
+
+**London's last galleried coaching inn**, and per CAMRA the only purpose-built pub in the city listed **Grade I**.
+
+The current building dates precisely to **1676–77**, put up immediately after the Southwark Fire destroyed its predecessor — which makes it the only pub in this guide whose age is beyond argument. What survives is one range of what once enclosed three sides of the courtyard; two tiers of galleries remain on the west half, the lower on cantilevered beams, the upper on wooden Doric columns.
+
+**Owned by the National Trust since 1937** and operated under lease by Greene King. Dickens knew it and put it in *Little Dorrit*.
+
+### The Guinea, Mayfair
+
+*£££ · 30–32 Bruton Place · CAMRA three-star interior*
+
+A Mayfair mews pub with **an interior CAMRA rates three-star — of outstanding national historic importance**, the highest rating of any pub here. It is not statutorily listed at all, which is a good illustration of how little the two systems overlap.
+
+Rebuilt in 1741 and licensed in 1754. The Guinea Grill behind it opened in **1952** and claims to be London's original steakhouse; the pies have won awards and the beef is the reason Mayfair keeps coming back.
+
+### The Viaduct Tavern, Holborn
+
+*££ · 126 Newgate Street · Grade II*
+
+One of the best-surviving **Victorian gin palaces** in London — etched and gilded glass, three pre-Raphaelite-style painted panels, and a rare surviving cashier's booth. Built 1874–75 and remodelled by Arthur Dixon around 1900.
+
+> ⚠️ **Currently closed, reopening 3 September 2026.** Closed Sundays thereafter.
+
+The cellars are widely sold as Newgate Prison cells. Newgate did stand across the road, but the evidence points to these being storage cellars — and the pub's own site makes no such claim.
+
+### Ye Olde Mitre, Holborn
+
+*££ · 1 Ely Court · closed Sundays*
+
+Hidden up an alley off Ely Place, a private road that was legally part of Cambridgeshire — which is the genuinely interesting thing about it, along with the preserved cherry tree trunk in the front bar.
+
+A Fuller's pub, and **food is bar snacks and toasties only**, so come for a pint rather than dinner. Closed Sundays.
+
+### The Seven Stars, Holborn
+
+*££ · 53 Carey Street · no reservations*
+
+Behind the Royal Courts of Justice, tiny, and with **the best food of any pub in this section** — a blackboard menu that changes daily and no reservations.
+
+Grade II listed, partly timber-framed under painted brick, with a jettied bay that may once have been a separate building.
+
+### The Old Bell Tavern, Fleet Street
+
+*££ · 95 Fleet Street · a pie house*
+
+A seventeenth-century tavern directly behind St Bride's, the printers' and journalists' church, and a survivor of the whole Fleet Street newspaper era. Stained glass and an old wooden staircase remain.
+
+Now a Nicholson's **pie house**, and the food is better than the average heritage pub by some margin.
+
+### The Mayflower, Rotherhithe
+
+*££ · 117 Rotherhithe Street · river terrace*
+
+The Pilgrims' ship sailed from **the landing steps next door** in 1620, and the mooring point is still visible at low tide from the pub's small river terrace.
+
+Be clear about what the building is: put up around 1780 as the Shippe Inn, bomb-damaged in the war, and given its Tudor-style interior in a **1957 refurbishment** — when it took the Mayflower name. A well-executed antiquarian reconstruction rather than surviving 17th-century fabric, and none the worse for it.
+
+### The Spaniards Inn, Hampstead
+
+*££ · Spaniards Road · by the Heath*
+
+A seventeenth-century brick and weatherboarded inn on the edge of Hampstead Heath, with the old toll house opposite still narrowing the road to a single lane.
+
+The Dick Turpin stories attached to it are folklore — he was born in Essex and died in York, and nothing places him here.
+
+---
+
+## What those dates on the signs actually mean
+
+Almost every old London pub advertises a founding year, and **almost none of those years survives contact with the record**. It is worth knowing which is which before you plan a day around one.
+
+| The pub claims | What is documented |
+| --- | --- |
+| **The Guinea**, 1423 | Rebuilt 1741, licensed 1754. CAMRA calls the old date "highly unlikely" — and gives it as 1473, where the pub says 1423 |
+| **Ye Olde Mitre**, 1546 | The building is from about 1773. A 227-year gap |
+| **The Spaniards Inn**, 1585 | Building is 17th century; the earliest hard record is a licence granted in 1721 |
+| **The Seven Stars**, 1602 | Historic England says "perhaps... dated 1602"; the fabric is probably 1680s, and maps show fields on the site until about 1700 |
+| **The Mayflower**, 1620 implied | 1620 is when the ship sailed. The building is about 1780 and the interior is from 1957 |
+| **The George**, 1676 | **1676–77, documented.** The only one beyond argument |
+| **The Old Bell**, "built by Wren" | 17th century, undated. The Wren attribution is traditional |
+| **The Viaduct Tavern**, 1869 | Built 1874–75. 1869 is when the viaduct opened, not the pub |
+| **The Blackfriar**, c.1875 | c.1875. Makes no inflated claim, and is the best interior of the lot |
+
+**The pattern is consistent: every pre-1676 claim on this page is traditional rather than evidenced.** Not one is supported by documentary proof of a business trading continuously from the year on the sign.
+
+If you want a defensible answer to "which is oldest": **The Seven Stars** has the best case, because Historic England itself records the 1602 date in the official listing rather than leaving it to the pub — but even that entry hedges, and the building you stand in is probably eighty years younger. **The George is the oldest whose date nobody disputes.**
+
+---
+
 ## What to know
 
 * **"Oldest pub in London" is unprovable.** Several have good claims and none has a decisive one. Enjoy the argument.
