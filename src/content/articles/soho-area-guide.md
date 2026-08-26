@@ -87,7 +87,7 @@ It is also two different places depending on when you arrive. By day it is a wor
 4. **Berwick Street** — A street market since the 1770s, plus the surviving record shops that made this the centre of London's vinyl trade.
 5. **Denmark Street** — "Tin Pan Alley". The guitar shops and the studios where the Rolling Stones and David Bowie recorded. Much reduced by redevelopment but still recognisable.
 6. **Soho Square** — The only real green space, with the mock-Tudor gardener's hut at its centre. Full of office workers at lunchtime and the quietest spot in the area.
-7. **Ronnie Scott's** — The jazz club on Frith Street, running since 1959. Book ahead for the main show.
+7. **Ronnie Scott's** — The jazz club on Frith Street. Founded in 1959, though it opened on Gerrard Street and only moved here in 1965. Book ahead for the main show, or turn up for the 11.15pm Late Late Show at £12.
 
 ## Key streets and micro-districts
 

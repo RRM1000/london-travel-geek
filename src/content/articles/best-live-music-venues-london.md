@@ -1,6 +1,6 @@
 ---
-title: "The Best Live Music Venues in London: 21 Rooms"
-seoTitle: "Best Live Music Venues London 2026: 21 Rooms Compared"
+title: "The Best Live Music Venues in London: 22 Rooms"
+seoTitle: "Best Live Music Venues London 2026: 22 Rooms Compared"
 description: "A Victorian railway turning shed, a veterans' club with a gold tinsel curtain, and the sloping floor at Brixton that bands talk about — London's music rooms."
 heroImage: "../../assets/articles/best-live-music-venues-london/jazz-cafe-camden.jpg"
 heroImageAlt: "The Jazz Cafe in Camden, its white stucco frontage lettered London's Famous Jazz Venue"
@@ -14,7 +14,7 @@ faq:
   - q: "What is the best live music venue in London?"
     a: "For big shows, O2 Academy Brixton — the floor slopes down towards the stage, which is why everyone can see and why bands talk about it the way they do. For small ones, Cafe OTO in Dalston is Time Out's own pick as London's most consistently committed venue."
   - q: "Where do I see live jazz in London?"
-    a: "Ronnie Scott's in Soho is the institution, trading since 1959. The Jazz Cafe in Camden covers a far wider range than the name suggests, and The Bull's Head in Barnes has run jazz since 1959 too — the same year as Ronnie's."
+    a: "Ronnie Scott's in Soho is the institution, founded in 1959, though the Frith Street room everyone knows dates from 1965 — it opened on Gerrard Street. The Jazz Cafe in Camden covers a far wider range than the name suggests, and The Bull's Head in Barnes has run jazz since 1959 too, the same year as Ronnie's."
   - q: "Which London music venues are historic buildings?"
     a: "The Roundhouse is a circular Victorian railway turning shed. KOKO is a gilded Victorian theatre reopened after a fire. Union Chapel in Islington is a Grade I listed working church. MOTH Club in Hackney is a veterans' social club with a gold tinsel stage curtain. And the 100 Club on Oxford Street has had live music in it since 1942."
   - q: "How do I find gigs in London?"
@@ -163,9 +163,30 @@ The two-sets-a-night format is the thing to understand: the 7pm show is the civi
 
 ### Ronnie Scott's, Soho
 
-*since 1959 · Frith Street*
+*since 1959 · 47 Frith Street*
 
-The institution. Two sets a night, and the late set is cheaper and looser than the first.
+The institution, and the first UK club to book American jazz musicians regularly. Ronnie Scott and Pete King opened it on **30 October 1959** — but in a basement at **39 Gerrard Street**. The Frith Street room everybody pictures is the second one, taken over in **1965**, and a lot of guides quietly merge the two.
+
+Miles Davis, Nina Simone, Ella Fitzgerald, Chet Baker, Jimi Hendrix, Prince and Amy Winehouse have all played it. **Depeche Mode played their first ever gig under that name here**, in October 1980, which is not what anyone expects.
+
+**The programme is four things, not one**, and the difference is most of the price:
+
+* **Main shows** — two every evening, seven nights a week, seated at tables with food and drink served throughout. Usually **£40–£65**.
+* **The Late Late Show** — Wednesday to Saturday, on at **11.15pm**, and **£12**. The cheapest way into the main room by a distance.
+* **The Monday Jazz Jam** — long-running, and the one night the club shuts at 1am rather than 3am.
+* **Afternoon shows** on Saturdays and Sundays, including the Sunday lunch sittings.
+
+> **The Late Late Show is the move.** Same room, same stage, a fifth of the price, and it runs until the club closes at 3am.
+
+### Upstairs at Ronnie's, Soho
+
+*140 capacity · reopened after a rebuild*
+
+A **140-capacity room above the main club**, rebuilt with purpose-built acoustics, a Yamaha S3X grand and its own kitchen. It runs the same shape as downstairs — two shows a night, late shows Thursday to Saturday, a vocal jazz jam on Wednesdays and Sunday afternoon shows — but ranges wider than jazz, into soul, R&B, gospel, hip hop and classical.
+
+Tickets run around **£20–£30**, roughly half the main room, which makes it the sensible way into the building if the headline downstairs is out of reach.
+
+> **The Greene Rooms open in 2027** — a members-only backstage lounge above the club, and the first time that part of the building has been open to anyone.
 
 ### Jazz Cafe, Camden Town
 
@@ -228,7 +249,9 @@ Live music in London does not have to cost £40 and a booking fee.
 * **The Windmill**, Brixton — the room where Black Country, New Road, Squid and most of the south London scene played first. Entry is often a few pounds, and on a good night you are watching a band before anyone else has heard of them.
 * **The Lexington**, Angel — a **200-capacity** indie gig room above a bourbon bar on Pentonville Road, open since 2008 and one of the most respected small rooms on the circuit.
 * **The Shacklewell Arms**, Dalston — several of its club nights are **free entry**, in a proper back-room venue with a heated courtyard.
-* **Free jazz.** The Vortex, Ronnie Scott's late show and several Soho pubs run free or near-free sessions. **The Sunday jam at Ronnie's** is the cheapest way into that room by a distance.
+* **The Late Late Show at Ronnie Scott's** is **£12** for the same room that costs £40–£65 earlier in the evening. It starts at 11.15pm, Wednesday to Saturday, and most tickets are available on the door if the advance ones have gone.
+* **Ronnie's concessions are unusually generous** if you qualify. On Wednesdays and Thursdays, **Musicians' Union members get into the Late Late Show free** on production of a card, and students and other musicians pay **£6**.
+* **The Vortex** in Dalston and several Soho pubs run free or near-free jazz sessions most weeks.
 * **Church and lunchtime concerts.** St Martin-in-the-Fields, St James's Piccadilly and the Southbank Centre all run free or pay-what-you-can lunchtime recitals, usually by conservatoire students who are very good.
 * **The Southbank Centre foyers** have free live music most days — a real programme, not background.
 * **Grassroots venues are the point.** Almost every act now filling an arena spent years in rooms like these, and a £6 ticket at The Windmill has better odds of being memorable than £80 at the O2.
@@ -243,7 +266,7 @@ Live music in London does not have to cost £40 and a booking fee.
 * **Brixton Academy's sloping floor** means the back is genuinely fine. Do not pay extra to be near the front.
 * **Union Chapel seating is unreserved.** Original wooden pews, first come first served, so arrive early. It is a Victorian church, so dress for the temperature.
 * **The grassroots circuit is genuinely under pressure.** Thirty UK venues closed permanently between mid-2024 and mid-2025, more than half made no profit, and around 200 are on the Music Venue Trust's red alert list. Buying direct from a small venue is not a small gesture.
-* **The late set at Ronnie Scott's** is cheaper and the room is better.
+* **The late set at Ronnie Scott's costs £12** against £40–£65 for a main show, in the same room. It is the single biggest price gap in London live music.
 * **Cafe OTO and MOTH Club** rarely sell out weeks ahead — you can decide on the day.
 * **Night Tube runs Friday and Saturday** on the Victoria line for Brixton and the Northern for Camden.
 
