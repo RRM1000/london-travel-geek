@@ -1,7 +1,7 @@
 {
   "cuisine": "afternoon-tea",
   "note": "SCOPE. Afternoon tea served as a sitting, with a stand. Hotel tea rooms, department-store salons and the historic claims. NOT cafes that happen to sell scones, and NOT cream teas.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-26",
   "sources": [
     {
       "name": "Olive Magazine",
@@ -211,6 +211,84 @@
         "Fortnum & Mason",
         "The Landmark London",
         "The Langham"
+      ]
+    },
+    {
+      "name": "Candace Abroad (affordable)",
+      "url": "https://candaceabroad.com/the-best-affordable-afternoon-teas-in-london/",
+      "scope": "afternoon-tea",
+      "names": [
+        "Candella Tea Room",
+        "The Wallace Collection",
+        "Tea and Tattle",
+        "Browns",
+        "The Wolseley",
+        "Bbar",
+        "The Ivy Chelsea Garden",
+        "Ladurée Covent Garden",
+        "MAP Maison",
+        "Crusting Pipe",
+        "Café Rouge",
+        "Number Twelve Restaurant",
+        "Cinnamon Bazaar",
+        "Dean Street Townhouse",
+        "The Melody Restaurant",
+        "The Great Court Restaurant at The British Museum",
+        "Hey lovely",
+        "candaceabroad"
+      ]
+    },
+    {
+      "name": "Travels with Louise (budget)",
+      "url": "https://travelswithlouise.com/london/best-affordable-afternoon-tea-in-london/",
+      "scope": "afternoon-tea",
+      "names": [
+        "Candella Tea Room",
+        "The Swan at the Globe",
+        "The Memoir Club",
+        "Cafe Concerto",
+        "Browns in Covent Garden",
+        "The British Museum",
+        "Cafe Rouge",
+        "Afternoon Tea at Melody at St Paul's",
+        "The Wolseley",
+        "The Cutty Sark",
+        "English Rose Cafe",
+        "Bridget's Bakery Bus Tour",
+        "Afternoon Tea on The River Thames Cruise",
+        "Afternoon Teas",
+        "Pin Me For Later",
+        "Recent Posts"
+      ]
+    },
+    {
+      "name": "DesignMyNight (cheap)",
+      "url": "https://www.designmynight.com/london/cheap-afternoon-tea-london",
+      "scope": "afternoon-tea",
+      "names": [
+        "Splurge-Worthy But Still A Bargain",
+        "Rewards",
+        "Jobs",
+        "My Account",
+        "affordable afternoon tea London",
+        "Location:",
+        "When:",
+        "Price:",
+        "Locations:"
+      ]
+    },
+    {
+      "name": "Scone Workshop (price breakdown)",
+      "url": "https://sconeworkshop.com/blog/how-much-does-afternoon-tea-cost-london/",
+      "scope": "afternoon-tea",
+      "names": [
+        "The four price tiers",
+        "What the price actually covers",
+        "Where the maths doesn’t add up",
+        "Hidden costs to budget for",
+        "The £34 alternative",
+        "Honest recommendations by budget",
+        "Settle the debate in person"
       ]
     }
   ]

@@ -198,6 +198,97 @@ A family kitchen that moved from New Malden to Hackney in 2024 and was named Tim
 
 ---
 
+## Regional Chinese
+
+Most of London's Chinese food is Cantonese. These kitchens are not, and the difference is the whole reason to seek them out.
+
+### Xi'an Impression, Holloway — Shaanxi
+
+*£ · 117 Benwell Road · BYOB · no bookings*
+
+**Shaanxi cooking** from China's north-west, opposite the Emirates Stadium — hand-pulled **biang biang noodles**, cold liangpi noodles, and a **Xi'an beef bun for around £5**.
+
+BYOB, no bookings, and one of very few kitchens in Britain cooking this province at all. Guides routinely file it under Highbury; it is Holloway.
+
+### Master Wei, Bloomsbury — Shaanxi
+
+*££ · 13 Cosmo Place*
+
+The same tradition from **Guirong Wei**, who was the only female head chef in Xi'an before she came to London and set up Xi'an Impression — this is her own restaurant.
+
+**Best Newcomer at the OFM Awards in 2019**, biang biang noodles at around £10, and a second branch opening in Hammersmith.
+
+### Etles, Walthamstow — Uyghur
+
+*££ · 235 Hoe Street · closed Mondays*
+
+**Uyghur cooking from Xinjiang** — a Turkic-Chinese tradition with cumin, lamb and hand-pulled laghman noodles that is barely represented anywhere else in Britain.
+
+Husband-and-wife run, and unlike anything in Chinatown.
+
+### Barshu, Soho — Sichuan
+
+*£££ · 28 Frith Street*
+
+Soho's serious **Sichuan** kitchen since 2006, and unapologetic about the heat. Fragrant chicken buried in a pile of dried chillies, and seabass with Sichuan pickles in golden soup.
+
+### Noodle & Beer, Chinatown — Sichuan
+
+*££ · 27 Wardour Street · kitchen to 4am*
+
+Sichuan cooking built for the small hours — **the kitchen runs to 4am Thursday to Saturday**, which makes it one of the genuinely late options in the centre. A second branch in Spitalfields.
+
+### Rasa Sayang, Chinatown — Malaysian-Peranakan
+
+*££ · 5 Macclesfield Street*
+
+**Peranakan cooking** — Chinese technique with Malay spicing — and reportedly the only halal restaurant in Chinatown. Nasi lemak and Singapore chilli crab.
+
+---
+
+## The Chinatown institutions
+
+### Four Seasons, Bayswater
+
+*££ · 84 Queensway · also Chinatown and Colindale*
+
+**London's benchmark Hong Kong-style roast duck**, and the Queensway room is the original — the business started here in **1990** before it ever reached Chinatown.
+
+There are now three Chinatown sites and a counter in the **Bang Bang Oriental food hall** at Colindale, which is the cheapest way to eat the duck.
+
+### Wong Kei, Chinatown
+
+*££ · 41–43 Wardour Street*
+
+One of the largest Chinese restaurants in Britain at around five hundred covers, and for decades famous less for the food than for the rudeness of the service.
+
+**That reputation is a period piece.** The room was refurbished in 2001 and changed hands in 2014, and what you get now is brisk and impersonal rather than hostile. Char siu, roast duck and stuffed bean curd, fast.
+
+### Dumplings' Legend, Chinatown
+
+*££ · 15–16 Gerrard Street*
+
+A glass-walled dumpling kitchen on Gerrard Street where you watch the **xiao long bao** being folded. Open since 2010 and still the most watchable thing on the street.
+
+---
+
+## Best value
+
+Chinese food is where London's cheap eating is strongest, and almost none of it is in a restaurant with tablecloths.
+
+* **Kung Fu Burger**, Shaftesbury Avenue — a 100 sq ft kiosk with no seating doing a shredded pork belly bun **under a tenner**. Cash only.
+* **Xi'an Impression**, Holloway — a **£5** Xi'an beef bun, and BYOB, so the drinks cost nothing either.
+* **Master Wei**, Bloomsbury — biang biang noodles around **£10** from the chef who introduced them to London.
+* **Chinatown Bakery**, Newport Place — egg tarts, bolo bao and taiyaki made in the window, at bakery prices. Six branches across London.
+
+### Food halls and supermarkets
+
+* **Bang Bang Oriental**, Colindale — the biggest Asian food hall in Britain, with a **Four Seasons counter** serving the same roast duck as the Queensway restaurant for less.
+* **Chinatown's supermarkets** — Loon Fung and See Woo sell roast meats by weight over the counter. Half a roast duck to take away costs a fraction of a sit-down plate.
+* **Arcade Food Hall** at Centre Point carries several Chinese and East Asian counters if you want one dish rather than a table.
+
+---
+
 ## What to know
 
 * **Dim sum is a lunch service** at most traditional halls, finishing around 5pm. Yauatcha and Dragon Castle are the exceptions.

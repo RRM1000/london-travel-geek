@@ -912,6 +912,18 @@
     "wallpaper.com": {
       "tier": "B",
       "name": "Wallpaper"
+    },
+    "balancecoffee.co.uk": {
+      "tier": "C",
+      "name": "Balance Coffee"
+    },
+    "travelswithlouise.com": {
+      "tier": "C",
+      "name": "Travels with Louise"
+    },
+    "sconeworkshop.com": {
+      "tier": "C",
+      "name": "Scone Workshop"
     }
   }
 }

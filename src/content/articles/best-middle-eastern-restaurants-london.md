@@ -180,6 +180,102 @@ Charcoal and smoke — lamb shawarma and the **whole roast cauliflower** off the
 
 ---
 
+## By country, not "Middle Eastern"
+
+"Middle Eastern" covers a dozen cuisines that share a mezze format and very little else. These kitchens each cook somewhere specific.
+
+### Imad's Syrian Kitchen, Soho — Syrian
+
+*££ · Top Floor, Kingly Court · Michelin Bib Gourmand*
+
+**Damascene cooking**, and a **Michelin Bib Gourmand for 2026**, from a restaurateur who lost a Damascus business to the war, crossed six countries, and spent 64 nights sleeping on the steps of a church in Calais cooking for the people around him.
+
+He ran his first London pop-up on Columbia Road in 2017 and moved to this Kingly Court room in 2023. Mezze, grilled meats and spiced salads.
+
+### Berenjak, Soho — Persian
+
+*££ · 27 Romilly Street · also Borough Market*
+
+Modelled on **Tehran's hole-in-the-wall kabab houses**, from Kian Samyani. Charcoal kabab and mazeh small plates, in a room deliberately built to feel like a working grill rather than a restaurant.
+
+### Nandine, Camberwell — Kurdish
+
+*££ · 82 Vestry Road · also Camberwell Church Street*
+
+**The only Kurdish kitchen of any profile in London.** Pary Baban came to the UK from Kurdistan in 1995 after displacement under Saddam Hussein, started selling Kurdish food at Elephant & Castle in 2007, and opened Nandine in 2016.
+
+*Nandine* means "kitchen" in old Kurdish, which is about right for the register of the food.
+
+### The Palomar, Soho — Jerusalem
+
+*£££ · 34 Rupert Street · Bib Gourmand since 2014*
+
+The Soho counter that made **modern Jerusalem cooking** mainstream in London, open since 2014 and holding a Bib Gourmand from the start. Its own description is "Eastern Mediterranean" rather than a national label.
+
+The **Sunday set lunch is £30 a head**, which for this kitchen is the value on the page.
+
+### Palmyra's Kitchen, Finsbury Park — Syrian and Lebanese
+
+*££ · 5–7 Wells Terrace · open to midnight*
+
+Named for Palmyra deliberately, to put Syrian cooking in the foreground. Mezze platters, charcoal-grilled meats and stews, served until midnight every day, with a second site round the corner on Clifton Terrace.
+
+### Maramia Cafe, Golborne Road — Palestinian
+
+*££ · 48 Golborne Road · closed Mondays*
+
+**Palestinian home cooking** on Golborne Road, all day, with set-menu nights and live music on Fridays and Saturdays. A second site sits on Portobello Road.
+
+### Meza, Tooting — Lebanese
+
+*££ · 34 Trinity Road*
+
+A tiny, long-running Lebanese mezze room in Tooting, and the sort of place that survives on regulars rather than reviews. Note the Mitcham Road branch has closed — several listings still carry it.
+
+---
+
+## Bakeries and counters
+
+The cheapest and often the best Middle Eastern food in London is sold across a counter, not at a table.
+
+### Al-Jabal Bakery, Park Royal
+
+*£ · manakeesh £2–£3 · 8am–4pm*
+
+A Lebanese bakery of more than twenty years in an Acton business centre — **no dining room at all**, just manakeesh from £2 and trays of baklawa.
+
+**The cheapest verified thing in this guide**, and worth the trip if you are anywhere near Park Royal.
+
+### Ta'mini Lebanese Bakery, Fulham, Bloomsbury and Kensington
+
+*£ · ka'ak £3.00 · za'atar manakish £3.95*
+
+Husband-and-wife Lebanese bakers with three London counters. **Za'atar manakish £3.95**, ka'ak with za'atar or sumac **£3.00**, falafel wrap £8.95, kafta wrap £9.45.
+
+The most reliable cheap Lebanese food in central London, and the prices are published, which almost nothing here does.
+
+### Common Breads, Belgravia
+
+*£ · ka'ak from £2.50 · manouche from £4.50 · 8am–6pm*
+
+A **Beirut bakery counter** opposite Victoria station, from three childhood friends from Lebanon. Purse-shaped **ka'ak from £2.50** and manouche flatbread **from £4.50**, including a musakhan version.
+
+### Mr Falafel, Shepherd's Bush Market
+
+*£ · Palestinian · market stall*
+
+Twenty-four years of **Palestinian falafel** from a Shepherd's Bush Market stall — wraps in two sizes, wholemeal available, and almost the entire menu vegan.
+
+### Green Valley, Edgware Road
+
+*£ · grocery and hot counter · 8am to midnight*
+
+Established in **1986** and the anchor of the Edgware Road quarter: a Lebanese **grocery and food hall** with a hot counter of rice dishes, breads and salads, a halal butchery, Turkish sujuk and fresh dates.
+
+Open until midnight, and the best place in London to assemble a Middle Eastern meal to take away.
+
+---
+
 ## Best value
 
 Falafel is where this cuisine is cheapest and best, and all of these are entirely vegetarian.
@@ -189,6 +285,14 @@ Falafel is where this cuisine is cheapest and best, and all of these are entirel
 * **Magic Falafel**, Camden Town — under £10 and entirely vegetarian.
 * **Hiba Express**, Holborn — the lunch counter people who work in Holborn actually queue at.
 * **Zeit & Za'atar**, Ealing — wood-fired manakish, and the cheapest proper Levantine bakery food in west London.
+
+---
+
+## The two streets
+
+**Edgware Road** is the Arab Middle Eastern quarter — Lebanese, Syrian, Egyptian and Iraqi — running north from Marble Arch. Green Valley is the anchor grocer, and **Maroush**, **Ranoush Juice** (shawarma to 3am) and the tiny Persian grill **Patogh** are the other names locals give. Late-night is the point of this street.
+
+**Green Lanes** in Harringay is a different thing entirely: **Turkish and Turkish-Kurdish**, not Arab. **Gökyüzü**, **Antepliler** for Gaziantep kebabs and baklava, and **Yaşar Halim** for the bakery-supermarket. Do not go looking for Lebanese mezze there.
 
 ---
 

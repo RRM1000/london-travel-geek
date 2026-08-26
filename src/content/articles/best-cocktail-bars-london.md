@@ -20,7 +20,7 @@ faq:
   - q: "Where do I get the best martini in London?"
     a: "Dukes Bar in St James's makes it at your table from frozen bottles and imposes a two-drink limit, which tells you how strong it is — this is the bar Ian Fleming drank in. The Connaught Martini is the other answer, mixed from a trolley."
   - q: "How much is a cocktail in London?"
-    a: "£16–£22 at a hotel bar in Mayfair, £12–£16 at a good independent. Satan's Whiskers in Bethnal Green and Coupette are materially cheaper than the West End for drinks made just as carefully."
+    a: "Most London cocktail bars do not publish prices, so treat any figure you see with suspicion. What is reliable is the gap: the Mayfair and St James's hotel bars are the most expensive rooms in the city, and the east London independents — Satan's Whiskers, Coupette, Happiness Forgets — charge considerably less for drinks made just as carefully."
   - q: "Which London cocktail bars do not take bookings?"
     a: "Satan's Whiskers in Bethnal Green takes none at all — turn up. Dukes takes bookings and you should make one. Most hotel bars will seat walk-ins early in the evening and not after about 8pm."
   - q: "Is there a dress code?"
@@ -31,10 +31,10 @@ London's cocktail scene splits neatly in two. There are the **Mayfair and St Jam
 
 Both are worth your time and they are not competing.
 
-> 💡 **The Short Version:** **The Connaught Bar** has twice been voted the world's best and mixes the martini at your table. **Dukes** imposes a two-drink limit, which tells you everything. **The American Bar** at the Savoy is where the Savoy Cocktail Book was written. **Satan's Whiskers** takes no bookings and rewrites its menu daily. And **Tayēr + Elementary** is two bars in one room.
+> 💡 **The Short Version:** **The Connaught Bar** has twice been voted the world's best and mixes the martini at your table. **Dukes** imposes a two-drink limit, which tells you everything. **The American Bar** at the Savoy is where the Savoy Cocktail Book was written. **Satan's Whiskers** rewrites its menu by hand every day and is the most decorated bar in London right now. And **Tayēr + Elementary** is two bars in one room.
 
 > 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Where a bar has held a world ranking we say which year — those lists move fast.
+> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Where a bar holds a world ranking we give the position and the year, because those lists move every autumn. All rankings here are from the World's 50 Best Bars 2025 — the 2026 list is announced in Milan in October 2026, and anything claiming a 2026 ranking before then is not real.
 
 ## Where they are
 
@@ -58,11 +58,12 @@ Both are worth your time and they are not competing.
 | **Holborn** | Scarfes Bar |
 | **Soho** | Swift, Bar Termini |
 | **Shoreditch & Bethnal Green** | Tayēr + Elementary, Satan's Whiskers, Coupette, Seed Library |
-| **Hoxton, Haggerston & Dalston** | Happiness Forgets, A Bar with Shapes for a Name, Three Sheets |
+| **Hoxton, Haggerston & Dalston** | Happiness Forgets, A Bar with Shapes for a Name, Three Sheets (Dalston) |
+| **Soho** | Swift, Bar Termini, Three Sheets Soho |
 | **Smithfield** | Oriole |
 | **South Bank** | Lyaness |
 
-**Price guide:** **£££** £12–£16 a drink · **££££** £16–£22.
+**On prices:** London cocktail bars very rarely publish their lists online, so this guide does not quote a price per drink unless the bar states one. Expect the hotel bars in Mayfair and St James's to be the most expensive rooms here by some distance, and the east London independents to be materially cheaper for drinks made just as carefully.
 
 ---
 
@@ -72,6 +73,8 @@ Both are worth your time and they are not competing.
 
 *££££ · twice voted the world's best bar*
 
+**No.6 in the World's 50 Best Bars 2025** · world No.1 in 2020 and 2021
+
 The **martini is mixed at your table** from a trolley of tinctures, and you choose as it goes. Twice the World's 50 Best number one, and the single most polished drink service in London.
 
 ### Artesian, Marylebone
@@ -80,11 +83,15 @@ The **martini is mixed at your table** from a trolley of tinctures, and you choo
 
 **Four consecutive years as the best bar in the world** in the 2010s, and still a room built for a long drink rather than a quick one.
 
-### Tayēr + Elementary, Shoreditch
+### Tayēr + Elementary, Old Street
 
-*££££ · two bars, one room*
+*££££ · currently closed after a fire*
 
-Alex Kratena and Monica Berg split it in two — a standing bar at the front for a fast drink, a seated tasting room behind for a slow one. Among the most technically serious bars in Europe.
+**No.5 in the World's 50 Best Bars 2025** — the highest-ranked London bar on that list
+
+Alex Kratena and Monica Berg split it in two: a standing bar at the front for a fast drink, a seated room behind for a slow one. Among the most technically serious bars in Europe.
+
+> ⚠️ **Closed since a fire in the building on 5 May 2026**, with no reopening date announced. It is listed here because it remains London's highest-ranked bar and because it is expected back — but do not travel for it. Check their Instagram before you plan anything around it.
 
 ### Lyaness, South Bank
 
@@ -98,9 +105,11 @@ Ryan Chetiyawardana builds the menu around a handful of house-made ingredients a
 
 ### The American Bar, Covent Garden
 
-*££££ · The Savoy · trading since the 1890s*
+*££££ · The Savoy · open since 1893*
 
-The room where **the Savoy Cocktail Book was written**. A pianist, white jackets, and more history per square foot than any bar in the country.
+The room where **Harry Craddock compiled the Savoy Cocktail Book in 1930**, and where the White Lady was popularised. Britain's oldest surviving cocktail bar, with a pianist, white jackets and more history per square foot than anywhere else in the country.
+
+It was **World's Best Bar in 2017** and is not in the current top 100 — which says more about how fast those lists move than about the room.
 
 ### Dukes Bar, St James's
 
@@ -114,11 +123,15 @@ Book. It is small and it fills.
 
 *££££ · Rosewood London*
 
+**No.31 in the World's 50 Best Bars 2025**
+
 Gerald Scarfe's caricatures cover the walls, there is a fire, and a live band most nights. Closer to a private library than a hotel bar.
 
 ### Kwãnt, Mayfair
 
-*££££ · under Shepherd Market*
+*££££ · 52 Stratton Street*
+
+**No.79 in the World's 50 Best Bars 2025**
 
 Erik Lorincz, formerly of the Savoy's American Bar, running a basement room. The technical end of Mayfair.
 
@@ -130,7 +143,9 @@ Cheaper, later, and no less serious.
 
 ### Satan's Whiskers, Bethnal Green
 
-*£££ · no bookings*
+*£££ · book by phone only*
+
+**No.21 in the World's 50 Best Bars 2025**
 
 **No bookings, taxidermy on the walls, hip-hop loud enough to talk over**, and a menu rewritten daily. Consistently named one of the best bars in London by people who go to bars for a living.
 
@@ -152,15 +167,19 @@ Calvados and apple run through the whole menu — a bar with an argument rather 
 
 Twenty-odd seats, **negronis aged in the bottle**, and an espresso counter by day. Closer to Rome than to Soho, and small enough that you should expect to wait.
 
-### Three Sheets, Dalston
+### Three Sheets, Soho and Dalston
 
 *£££*
+
+**No.80 in the World's 50 Best Bars 2025**
 
 Two brothers, a short menu and **no theatre at all** — the drinks arrive without a speech, which in this scene is very much the point.
 
 ### A Bar with Shapes for a Name, Haggerston
 
 *£££*
+
+**No.73 in the World's 50 Best Bars 2025**
 
 Built on **Bauhaus principles down to the glassware**, with a menu of about a dozen drinks and nothing surplus to it. The name is a joke about its own signage, which is three shapes.
 
@@ -176,11 +195,47 @@ Ryan Chetiyawardana again — the Lyaness man — in a stripped concrete basemen
 
 Low ceilings, low light and a short menu under Hoxton Square. **One of the rooms that started London's basement bar habit**, and still doing it without fuss.
 
+### Nightjar, Shoreditch
+
+*£££ · 129 City Road · live jazz*
+
+Fifteen years of deeply researched historic cocktails in a basement off Old Street — Singapore Slings, Zombies and Charlie Chaplins rebuilt from the original specifications, at **£15 or so a drink**.
+
+Live jazz three sets a night, and the charges nobody mentions until you arrive: a **music cover of £6 standard or £10 premium per person**, paid to the musicians, and a **minimum spend of £15 per person per hour**. No bookings between 9.15pm and 11pm during live sets. Over-21s.
+
+> The Carnaby Street site closed permanently in September 2025. Shoreditch is the one that trades.
+
 ### Oriole, Smithfield
 
 *££££ · a basement off the market*
 
 Live music nightly and a menu organised by continent. Sibling to Nightjar, and the same approach to theatre.
+
+---
+
+## Best value
+
+Cocktail bars are where London prices get least transparent — most publish nothing at all. These are the ones where a real figure could be verified, and they are the ones to use.
+
+### Genuinely cheap drinks
+
+* **Swift**, Soho, Shoreditch and Borough — **named cocktails at £7, Monday to Thursday before 6pm**, printed on the menu against drinks that are otherwise £12–£15. The best happy hour of any serious bar in London.
+* **Bar Termini**, Old Compton Street — the **house Negroni is £9.50**, all four builds, all day. Not a happy hour, just the price. A thirty-seat Italian aperitivo bar making drinks with the precision of rooms charging double.
+* **Coupette**, Bethnal Green — **Sunday Development Sessions, all drinks £9** from 4pm, experimental pours that are not on the menu. The regular list runs £11–£15, which is already below the West End.
+* **Lyaness** runs a weekday happy hour from 5–7pm, though it does not publish the prices.
+
+### For comparison, the top end
+
+The **Connaught Martini is £30**, mixed at your table from the trolley. **Nightjar** is around £15 a drink *plus* a £6–£10 music cover and a £15 per person per hour minimum spend. Knowing those numbers is what makes the £7 and £9.50 above worth planning around.
+
+### Food halls and markets
+
+**Half Cut Market** in Peckham and the bars inside **Mercato Metropolitano**, **Seven Dials Market** and **Boxpark** all serve proper drinks at market rather than bar prices — the most reliable cheap route in central and south London.
+
+### General
+
+* **Go early.** Almost every bar here is cheaper and calmer before 7pm.
+* **Ask for the classics.** A well-made negroni or daiquiri usually sits at the bottom of the list, and at a bar this good it is the better test of the room anyway.
 
 ---
 

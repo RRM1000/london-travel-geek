@@ -1,7 +1,7 @@
 {
   "cuisine": "coffee",
   "note": "THE COFFEE PASS. Coffee is a SPECIALITY, not a cuisine - see notCuisines. A specialty coffee shop has no cooking tradition to describe, so forcing one would break the meaning of the Cuisine column the way 'rooftop' would have. Rows from this pass carry specialities 'coffee' and venueFormat 'Coffee Shop'; cuisine is set only where the venue genuinely cooks to a tradition (many serious London coffee shops cook Australian-influenced or Modern European food, which the sheet already handles), and is left BLANK where the venue is coffee and pastry only. Blank is honest; a guessed cuisine is not. Coffee guides share almost no venues with restaurant lists, which is the same reason the ramen and falafel legs were needed. Every URL came from a search result.",
-  "recorded": "2026-08-18",
+  "recorded": "2026-08-26",
   "sources": [
     {
       "name": "Roadbook (best coffee shops)",
@@ -189,6 +189,20 @@
         "Decaf Coffee Subscription",
         "DECAF Coffee Subscription Gift Package",
         "Batch Espresso Blend Subscription"
+      ]
+    },
+    {
+      "name": "Balance Coffee",
+      "url": "https://balancecoffee.co.uk/blogs/blog/best-coffee-roasters-london",
+      "scope": "coffee",
+      "names": [
+        "James Bellis | Founder",
+        "Quality of Beans",
+        "Freshness of the Beans",
+        "Coffee Varieties",
+        "Sustainable Sourcing",
+        "Five best coffee roasters London",
+        "Continue reading"
       ]
     }
   ]

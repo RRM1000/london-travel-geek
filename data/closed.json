@@ -106,6 +106,56 @@
       ],
       "source": "https://www.hardens.com/uk-london/05-06-2024/tom-brown-calls-time-on-cornerstone/",
       "recorded": "2026-08-26"
+    },
+    "nightjar carnaby": {
+      "name": "Nightjar (Carnaby)",
+      "closed": "2025-09-27",
+      "detail": "Kingly Court, 49-51 Carnaby Street W1F 9PY. Final service Saturday 27 September 2025. The Shoreditch site at 129 City Road still trades.",
+      "stillRecommendedBy": [
+        "current bar listicles"
+      ],
+      "source": "https://www.barnightjar.com/carnaby-closure",
+      "recorded": "2026-08-26"
+    },
+    "bar termini centrale": {
+      "name": "Bar Termini Centrale",
+      "closed": "2021-08",
+      "detail": "31 Duke Street, Marylebone. Removed from the Bar Termini website August 2021. The Old Compton Street original still trades.",
+      "stillRecommendedBy": [
+        "older bar listicles"
+      ],
+      "source": "https://bar-termini-soho.com/",
+      "recorded": "2026-08-26"
+    },
+    "kwant heddon street": {
+      "name": "Kwant (original, Heddon Street)",
+      "closed": "2021",
+      "detail": "110 Heddon Street, the basement under Momo - closed 2021 when Momo went into liquidation. Erik Lorincz reopened as Kwant Mayfair at 52 Stratton Street W1J 8LN in summer 2023. Guides still describe it as a basement under Shepherd Market, which was never right.",
+      "stillRecommendedBy": [
+        "current bar listicles"
+      ],
+      "source": "https://www.diffordsguide.com/bars/O936J7/kwant-closed",
+      "recorded": "2026-08-26"
+    },
+    "balady": {
+      "name": "Balady",
+      "closed": "UNVERIFIED",
+      "detail": "750-756 Finchley Road, Temple Fortune NW11 7TH. Israeli kosher, NOT Palestinian and not on Edgware Road as often listed. Uber Eats storefront closed July 2025 and balady.co.uk serves a Coming Soon placeholder. Treat as closed/uncertain pending a phone check.",
+      "stillRecommendedBy": [
+        "current Middle Eastern listicles"
+      ],
+      "source": "https://thatsup.co.uk/",
+      "recorded": "2026-08-26"
+    },
+    "meza mitcham road": {
+      "name": "Meza (Mitcham Road)",
+      "closed": "UNVERIFIED",
+      "detail": "70 Mitcham Road SW17 9NA has closed. The Trinity Road site (SW17 7RE) still trades. Both addresses still circulate on aggregators.",
+      "stillRecommendedBy": [
+        "aggregator listings"
+      ],
+      "source": "venue check 2026-08-26",
+      "recorded": "2026-08-26"
     }
   },
   "uncertain": {
@@ -141,7 +191,9 @@
       "thebeigelshop.com",
       "epellicci.com",
       "sonsanddaughterslondon.com",
-      "cornerstonehackney.com"
+      "cornerstonehackney.com",
+      "wongkeilondon.com",
+      "balady.co.uk"
     ]
   }
 }
