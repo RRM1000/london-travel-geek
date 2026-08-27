@@ -1,5 +1,5 @@
 ---
-title: "London's Best Independent Cinemas: 18 Screens"
+title: "London's Best Independent Cinemas: 19 Screens"
 seoTitle: "Best Independent Cinemas London 2026: Repertory & Historic"
 description: "Where the Lumière brothers first showed film in Britain, a 1913 cinema Clapton crowdfunded back, and a Peckham screen where seats cost a few pounds."
 heroImage: "../../assets/articles/best-cinemas-london/best-cinemas-london.jpg"
@@ -16,7 +16,7 @@ tags: [cinema, film, things to do, cheap eats, London experiences]
 draft: false
 faq:
   - q: "What is the best independent cinema in London?"
-    a: "The Prince Charles off Leicester Square is the cult one — repertory prints, quote-alongs, sing-alongs and all-night marathons, and a £15 membership that buys £1 screenings. The Electric in Notting Hill opened in 1911 and has leather armchairs, sofas and front-row beds."
+    a: "The Prince Charles off Leicester Square is the cult one — repertory prints, quote-alongs, sing-alongs and all-night marathons. Electric Portobello opened in 1911, is London's oldest purpose-built cinema, and has 98 leather armchairs, back-row sofas and double beds in the front row. Its sister site sits inside BBC Television Centre at White City."
   - q: "Where is the cheapest cinema in London?"
     a: "Peckhamplex shows current releases for a few pounds a seat, which in central London would buy you a small drink. It is an independent showing mainstream films and has been undercutting the chains for years."
   - q: "Where was the first film shown in Britain?"
@@ -31,7 +31,7 @@ London's independent cinemas are mostly buildings that survived by being useful 
 
 Several are cheaper than the chains, and one is where film was first shown in Britain.
 
-> 💡 **The Short Version:** **The Prince Charles** is the cult cinema of London, with 35mm and all-night marathons. **Regent Street Cinema** is where the Lumières first showed film in Britain in 1896. **The Electric** opened in 1911 and has armchairs and front-row beds. **Peckhamplex** shows current releases for a few pounds. And **Screen on the Canal** is free.
+> 💡 **The Short Version:** **The Prince Charles** is the cult cinema of London, with 35mm and all-night marathons. **Regent Street Cinema** is where the Lumières first showed film in Britain in 1896. **Electric Portobello** opened in 1911, is London's oldest purpose-built cinema, and has armchairs, sofas and front-row beds. **Peckhamplex** shows current releases for a few pounds. And **Screen on the Canal** is free.
 
 > 📘 **How we choose these (editorial note)**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. No chains, except where a chain operates a genuinely historic building. Programmes change weekly — check the cinema's own listings rather than an aggregator.
@@ -43,7 +43,8 @@ Several are cheaper than the chains, and one is where film was first shown in Br
 | **Leicester Square & Covent Garden** | Prince Charles Cinema, The Garden Cinema |
 | **Oxford Circus** | Regent Street Cinema |
 | **South Bank** | BFI Southbank, BFI IMAX |
-| **Notting Hill** | The Electric |
+| **Notting Hill** | Electric Portobello |
+| **White City** | Electric White City |
 | **Hackney & Clapton** | Rio Cinema, The Castle Cinema |
 | **King's Cross** | Everyman Screen on the Canal |
 | **Peckham** | Peckhamplex, Rooftop Cinema Club |
@@ -66,13 +67,30 @@ The programming is the point: this is where you see *The Thing* at midnight, not
 
 Where the **Lumière brothers' Cinematographe had its first British showing in 1896** — the birthplace of cinema in Britain, still operating as one.
 
-### The Electric Cinema, Notting Hill
+### Electric Portobello, Notting Hill
 
-*Opened 1911*
+*191 Portobello Road, W11 2ED · opened 1911*
 
-**Opened on 27 February 1911**, which makes it older than the Phoenix — but it closed in 1983, closed again in 1987, and did not reopen until 2002, so it cannot claim continuous operation.
+**London's oldest purpose-built cinema**, opened on **27 February 1911** with **564 seats**. The first thing shown on the screen was a twenty-minute silent film of Henry VIII starring Sir Herbert Tree — **a film now lost, with no known copy anywhere**.
 
-Eighty-three leather armchairs, two large sofas and beds in the front row. Expensive, and the room is what you are paying for.
+It is older than the Phoenix, and it has been closed and reopened so many times that the Phoenix keeps the "continuously operating" title. The real sequence is worth knowing, because most guides compress it into "closed twice":
+
+* Became the **Imperial Playhouse** in 1919, and by the 1960s was the local fleapit.
+* Reborn in the 1970s as the Electric Cinema Club, west London's answer to the National Film Theatre.
+* **Closed 31 October 1983** with a Powell and Pressburger double bill.
+* Reopened five months later as the Electric Screen, then **closed again in May 1987** despite a 10,000-signature campaign backed by Audrey Hepburn, Anthony Hopkins and Julie Christie.
+* **Reopened in September 1993** as a centre for Black independent cinema, funded by Choice FM and The Voice.
+* Closed once more, and reopened **22 April 2002** as Soho House's first public cinema.
+
+The 2002 refit is what people come for: **98 leather armchairs**, some with footstools, **two enormous leather sofas across the back row**, and **double beds in the front row**. There is a full bar and no popcorn.
+
+**It is not one price.** A non-member armchair is **£25** on Friday evening and all weekend, **£20** on weekday evenings, and **£15 before 5pm Monday to Friday** — the same chair for £10 less if you go in the afternoon. Front-row beds are £30–£40 and back-row sofas £40–£50, both sold for two people. **Children are £10 at any time.**
+
+### Electric White City
+
+*2 Television Centre, 101 Wood Lane, W12 7FR*
+
+The second Electric, inside **BBC Television Centre** — the building that made Top of the Pops, Doctor Who and Blue Peter between 1960 and 2013, with artwork on the walls drawn from that history. Same armchair-and-sofa format, a proper kitchen rather than a snack counter, and far easier to get into than Portobello.
 
 ### BFI Southbank
 
@@ -136,7 +154,7 @@ Three screens split between the Centre itself and Beech Street, running one of t
 
 **London's oldest continuously operating cinema**, opened as the East Finchley Picturedrome on **11 May 1912** and running ever since — an Edwardian barrel-vaulted ceiling, fourteen Art Deco panels, and a large neon side sign.
 
-Two things worth being precise about. It is often called *Britain's* oldest, and it is not: **the Duke of York's in Brighton opened in September 1910**, and the Phoenix's own website makes no such claim. And the Electric in Notting Hill opened in 1911, earlier — the Phoenix keeps the London title only because the Electric closed twice and it never did.
+Two things worth being precise about. It is often called *Britain's* oldest, and it is not: **the Duke of York's in Brighton opened in September 1910**, and the Phoenix's own website makes no such claim. And Electric Portobello opened in 1911, earlier — the Phoenix keeps the London title only because the Electric has closed and reopened repeatedly since, and the Phoenix never has.
 
 Saved from demolition in 1983 and now run as a registered charity.
 
@@ -225,7 +243,8 @@ Cinema in London runs from £4.99 to nearly £19 for the same film, so this is o
 
 * **The Prince Charles membership** costs a few pounds and pays for itself almost immediately.
 * **Peckhamplex is genuinely that cheap** and shows the same films as the West End.
-* **The Electric charges accordingly** — you are buying the armchair, not the film.
+* **The Electric charges accordingly** — you are buying the armchair, not the film. Going **before 5pm on a weekday** takes a non-member armchair from £25 to £15, which is the single biggest saving on this page.
+* **Soho House and Soho Friends members pay less at both Electrics** all week, and under-27 members get a further discount on Mondays, bookable only at the box office.
 * **BFI Southbank's Mediatheque is free** and lets you watch archive film with no ticket at all.
 * **Screen on the Canal is summer only** and weather-dependent.
 * **Check the cinema's own site.** Repertory programmes change weekly and aggregators miss them.
