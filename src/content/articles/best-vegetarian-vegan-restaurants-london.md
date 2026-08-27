@@ -244,7 +244,7 @@ Not a substitution menu: most dishes are traditionally vegetable-based Chinese c
 
 Tacos, nachos and burritos built on jackfruit and vegan chicken. Started as a market stall and now inside **Mercato Mayfair**, the food hall in a deconsecrated church on North Audley Street — the rare vegan restaurant nobody eats at *because* it is vegan.
 
-Also at Boxhall City by Liverpool Street. The old Kingly Court site closed in February 2026 and a lot of guides still send people there.
+Also at Boxhall City by Liverpool Street.
 
 ### Naïfs, Peckham
 

@@ -151,8 +151,6 @@ The **huarache** — a long handmade corn "fatbread" with guajillo in the masa �
 
 **Mexico City street food** with a rotating al pastor spit, and *suadero* — the slow-cooked beef cut that is a Mexico City taqueria staple and almost absent from London menus.
 
-Two sites now. The old Deptford room has closed, and several guides still send people there.
-
 ### Fonda, Mayfair
 
 *£££ · 12 Heddon Street*
@@ -216,8 +214,6 @@ A stall **pressing its own tortillas** — the cheapest serious tacos in London,
 *£ · entirely vegan*
 
 Tacos, nachos and burritos on jackfruit and vegan chicken. Started as a market stall and now in **Mercato Mayfair**, the food hall inside a deconsecrated church on North Audley Street, plus Boxhall City by Liverpool Street. **The rare vegan restaurant nobody eats at because it is vegan.**
-
-> ⚠️ **The Kingly Court site is gone.** It closed on 7 February 2026 when the building was remodelled — plenty of guides still send people there.
 
 ---
 

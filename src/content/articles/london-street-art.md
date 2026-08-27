@@ -204,8 +204,6 @@ Genuinely underrated and rarely walked by visitors. RISE Gallery, founded in 201
 
 Dozens of murals along and around the high street, coordinated locally over several years.
 
-> ⚠️ The **Penge Rooftop Gallery is set for demolition and can no longer be visited.** A number of guides still list it.
-
 ---
 
 ## What it costs

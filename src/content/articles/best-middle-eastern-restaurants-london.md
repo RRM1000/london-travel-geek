@@ -230,7 +230,7 @@ Named for Palmyra deliberately, to put Syrian cooking in the foreground. Mezze p
 
 *££ · 34 Trinity Road*
 
-A tiny, long-running Lebanese mezze room in Tooting, and the sort of place that survives on regulars rather than reviews. Note the Mitcham Road branch has closed — several listings still carry it.
+A tiny, long-running Lebanese mezze room in Tooting, and the sort of place that survives on regulars rather than reviews.
 
 ---
 

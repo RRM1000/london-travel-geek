@@ -134,8 +134,6 @@ From James Ramsden and Sam Herlihy of Pidgin, relaunched in 2024 with a more che
 
 There is also **S+D Go**, a van on Granary Square, for when the queue inside is long.
 
-> ⚠️ The **Borough Market branch has gone** — that unit is now Camille. Several guides still list it. King's Cross is the one.
-
 ### The Dusty Knuckle, Dalston
 
 *Abbot Street car park · also Harringay and Highbury*
@@ -279,5 +277,4 @@ A sandwich is already the cheap option, but the spread here runs from about £4.
 
 * **Check the trading days before you travel.** Kappacasein is Thursday to Saturday. Secret Sandwich Shop opens for four hours. Chatsworth Bakehouse is pre-order only, Mondays at 12:30. Porterford and Regency close at weekends. This category keeps shorter hours than any other kind of food business in London.
 * **The egg sandwich is the tell.** Max's, Paul Rothe, Secret Sandwich Shop, Sons + Daughters and the Dusty Knuckle are each best known for one. If a new sandwich shop is good, its egg sandwich will show it.
-* **Two names to ignore in old guides.** Monty's Deli and Dom's Subs were both fixtures of these lists; Monty's wound down after the pandemic, and Dom's has closed its City, Ludgate Circus and Hackney Road sites. Lists take years to catch up.
 * **Cash is still a thing here.** The beigel shops and several of the caffs are cash-friendly in a way the rest of London stopped being. Carry some.

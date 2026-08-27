@@ -153,19 +153,11 @@ The only place in London where a celebration can start at 2am and end with sunri
 
 ---
 
-## Recently closed, and still in older guides
+## What changed at the top end this year
 
-Fine dining turns over fast and the guides lag. All of these were starred and are gone:
+**Two arrivals worth knowing about.** **Bonheur by Matt Abé** opened with **two stars** in Le Gavroche's old Mayfair site, and **Row on 5** was promoted from one star to two.
 
-* **Claude Bosi at Bibendum**, South Kensington — two stars, closed after the lease could not be agreed.
-* **La Dame de Pic London** — two stars, closed when the Four Seasons partnership ended.
-* **Club Gascon**, Smithfield — closed March 2026 after roughly thirty years and a star held since 2002.
-* **The Five Fields**, Chelsea — closed February 2025 after twelve years.
-* **Lyle's**, Shoreditch — closed in its starred form in May 2025.
-
-> ⚠️ **One to watch for the opposite reason.** **Humo** in Mayfair **lost its star in the 2026 guide and is still trading normally.** It remains a good restaurant, but anything still describing it as Michelin-starred is out of date — and that is the error most likely to be repeated across London guides this year.
-
-**And two arrivals:** **Bonheur by Matt Abé** opened with **two stars** in Le Gavroche's old Mayfair site, and **Row on 5** was promoted from one star to two.
+> ⚠️ **And one correction.** **Humo** in Mayfair **lost its star in the 2026 guide and is still trading normally.** It remains a good restaurant, but anything still describing it as Michelin-starred is out of date — and that is the error most likely to be repeated across London guides this year.
 
 ---
 
