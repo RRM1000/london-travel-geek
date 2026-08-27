@@ -148,7 +148,6 @@ West of the stations. The Library, the Francis Crick Institute and a quiet resid
 | **Dishoom King's Cross** | Bombay-inspired Indian | ££ | In a former transit shed; the biggest of the group |
 | **Caravan** | All-day dining | ££ | In the granary building on Granary Square |
 | **The German Gymnasium** | Grand European | £££ | An 1865 gymnasium beside St Pancras |
-| **Ruby Violet** | Ice cream | £ | Wharf Road; made on site |
 | **Vermuteria** | Bar and cafe | ££ | In Coal Drops Yard, with a cycling theme |
 
 ## Getting there

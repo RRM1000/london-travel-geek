@@ -61663,23 +61663,6 @@
       }
     ]
   },
-  "rubyviolet": {
-    "name": "Ruby Violet",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-ice-cream-in-london"
-      }
-    ]
-  },
   "potli": {
     "name": "Potli",
     "topics": [
