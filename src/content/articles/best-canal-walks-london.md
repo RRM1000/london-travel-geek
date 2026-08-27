@@ -20,7 +20,7 @@ faq:
   - q: "Can you cycle on London canal towpaths?"
     a: "Yes on most of the Regent's Canal, but pedestrians have priority and the path is narrow under bridges. Ring a bell, pass slowly, and expect to dismount in crowded stretches around Camden and King's Cross."
 heroImage: "../../assets/articles/best-canal-walks-london/best-canal-walks-london.jpg"
-heroImageAlt: "Narrowboats moored along the Regent's Canal at Little Venice with trees and the Westway flyover behind"
+heroImageAlt: "Narrowboats moored along the Paddington Arm of the Grand Union Canal, with the Westway flyover crossing behind"
 ---
 
 London's canals are the best walking the city has, and most visitors never find them. They are flat, free, almost entirely traffic-free, and they run through the back of the city rather than the front — past gasholders, warehouse conversions, allotments and boatyards you cannot see from any road.
@@ -29,9 +29,9 @@ The spine is the **Regent's Canal**: **8.6 miles and 13 locks** from Little Veni
 
 > 💡 **The Short Version:** **Little Venice to Camden** is the prettiest two miles. **King's Cross to Victoria Park** is the one Londoners walk. **Victoria Park to Limehouse** is the most interesting and ends on the Thames. Two tunnels have **no towpath** and you walk over the top. All of it is free.
 
-![Narrowboats moored at Little Venice, with a green canal, trees and the Westway flyover behind](../../assets/articles/best-canal-walks-london/best-canal-walks-london.jpg)
+![Narrowboats moored on the Paddington Arm, the water covered in duckweed, with the Westway flyover crossing behind](../../assets/articles/best-canal-walks-london/best-canal-walks-london.jpg)
 
-*Little Venice, where the Paddington Arm meets the Regent's Canal. The moorings here are permanent, which is why the boats look lived-in.*
+*The Paddington Arm between Little Venice and Paddington Basin, with the Westway overhead. The moorings along here are permanent, which is why the boats look lived-in.*
 
 ## The sections, and how long each takes
 
@@ -93,10 +93,6 @@ A short, pleasant stretch past **Battlebridge Basin** — where the London Canal
 
 This is where the canal stops being pretty and starts being interesting. Warehouse conversions, boatyards, moored liveaboards, and some of the best **canalside graffiti** in London — a continuously repainted wall that changes month to month.
 
-![The Regent's Canal towpath in east London, with a long graffiti-covered wall on one side and moored narrowboats on the other](../../assets/articles/best-canal-walks-london/regents-canal-graffiti-narrowboats.jpg)
-
-*East of Angel the towpath narrows between a graffiti wall and the moorings. This stretch is repainted constantly.*
-
 You pass **Kingsland Basin** and **Broadway Market** — worth leaving the canal for on a Saturday — then reach **Victoria Park**, which is the largest and best of east London's parks.
 
 ![The boating lake in Victoria Park with a fountain playing and trees along the far bank](../../assets/articles/best-canal-walks-london/victoria-park-boating-lake.jpg)
@@ -121,23 +117,23 @@ The final run, and the most varied. The canal turns south through **Mile End Par
 
 *The ecology park boardwalk in Mile End Park, a few metres off the towpath and almost always empty.*
 
+![The Regent's Canal towpath in east London, with a long graffiti-covered wall on one side and moored narrowboats on the other](../../assets/articles/best-canal-walks-london/regents-canal-graffiti-narrowboats.jpg)
+
+*The towpath at Bow, narrowing between a graffiti wall and the moorings. This stretch is repainted constantly.*
+
 **The Green Bridge** is the thing to look for — a bridge carrying the park itself, planted with trees, over the four lanes of Mile End Road. You walk through a park and only afterwards realise you crossed a main road.
 
 Then the towpath tightens into its best stretch: low bridges, tunnels under the streets, and the light changing every hundred yards.
 
 ![A walker on the Regent's Canal towpath passing under a low brick bridge, with the canal and moored boats beyond](../../assets/articles/best-canal-walks-london/regents-canal-towpath-tunnel.jpg)
 
-*Under the bridges south of Mile End. The towpath runs through rather than over, which is what makes this section feel like a different city.*
+*Under the bridges around Bethnal Green. The towpath runs through rather than over, which is what makes this section feel like a different city.*
 
 **It ends at Limehouse Basin**, where the canal locks down into the Thames. Once the busiest freight interchange in London, now a marina ringed with apartments, with masts and narrowboats side by side.
 
 ![Narrowboats and cruisers moored in Limehouse Basin, surrounded by brick apartment buildings](../../assets/articles/best-canal-walks-london/limehouse-basin-narrowboats.jpg)
 
 *Limehouse Basin, where the Regent's Canal meets the Thames. The lock down to the river is at the southern corner.*
-
-![Limehouse Basin at sunset, with boats silhouetted and the Canary Wharf towers catching the last light](../../assets/articles/best-canal-walks-london/limehouse-basin-sunset.jpg)
-
-*The same basin at dusk. Time the walk to finish here and this is what you get.*
 
 **Limehouse DLR** is two minutes away, and Canary Wharf is one stop.
 

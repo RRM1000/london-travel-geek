@@ -133,6 +133,11 @@ South, facing the water towards Greenwich, and the quietest part to walk.
 
 *The hot tub boats run year-round. The chimney is a wood burner, and the water is properly hot in January.*
 
+
+![Middle Dock at Canary Wharf at sunset, with Skuna boats on the water and the office towers reflected](../../assets/articles/canary-wharf-area-guide/middle-dock-sunset.jpg)
+
+*Middle Dock at sunset, with the barbecue boats out. The docks face west, so this is what the last hour of light does to them.*
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
