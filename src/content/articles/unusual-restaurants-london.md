@@ -14,7 +14,7 @@ faq:
   - q: "What is the most unusual restaurant in London?"
     a: "The Yurt Café in Limehouse is a working café inside an actual Mongolian yurt, run as a social enterprise by a charity that has been on the site since 1950. The Feng Shang Princess is a three-tiered Chinese pagoda moored on the Regent's Canal, and The Attendant in Fitzrovia is built inside a restored Victorian public lavatory."
   - q: "Which London restaurants are on boats?"
-    a: "The Cheese Barge is a 96-foot double-decker barge at Paddington Basin, Barge East is a 1985 Dutch barge sailed over and moored on the River Lea, and the Feng Shang Princess is a floating pagoda on the Regent's Canal near Regent's Park."
+    a: "The Cheese Barge is a 96-foot double-decker barge at Paddington Basin, Barge East is a 125-year-old Dutch barge sailed over from the Netherlands and moored on the River Lea, and the Feng Shang Princess is a floating pagoda on the Regent's Canal near Regent's Park."
   - q: "Are unusual restaurants in London expensive?"
     a: "Not necessarily. The Yurt Café, The Attendant and three Wetherspoons in extraordinary buildings all come in under £15. At the other end, Sketch, Bob Bob Ricard and Sessions Arts Club are £80 and up."
   - q: "Which restaurant is hardest to find?"
@@ -87,7 +87,7 @@ The boat is the reason to book rather than the kitchen — reviews of the food a
 
 ### The Cheese Barge, Paddington
 
-*££ · Paddington Basin*
+*£££ · Paddington Basin*
 
 A **96-foot double-decker barge** on the canal, serving British cheese in small plates. Genuinely eating on the water rather than beside it.
 
@@ -95,7 +95,7 @@ A **96-foot double-decker barge** on the canal, serving British cheese in small 
 
 *£££ · the River Lea*
 
-A **1985 Dutch barge** sailed over and permanently moored, with a garden alongside and the Olympic Park skyline behind it.
+A **125-year-old Dutch barge** sailed over from the Netherlands and permanently moored, with a garden alongside and the Olympic Park skyline behind it.
 
 ---
 
@@ -109,15 +109,15 @@ Built inside a **restored Victorian public lavatory**, with the original porcela
 
 ### Rochelle Canteen, Shoreditch
 
-*££ · no sign*
+*£££ · no sign*
 
 Hidden behind a wall in a **former school bike shed**, with no signage at all — you ring a buzzer marked 'canteen' and walk through a gate. The hardest room in London to find on purpose.
 
 ### Sessions Arts Club, Clerkenwell
 
-*££££ · a former courthouse*
+*££££ · the judges' dining room*
 
-A crumbling courthouse left **deliberately unrestored** — peeling plaster, enormous windows, no attempt to tidy any of it.
+Not just a former courthouse — the **old judges' dining room** inside Sessions House on Clerkenwell Green, a **Grade II\*** listed building. Left deliberately unrestored: peeling plaster, enormous windows, no attempt to tidy any of it.
 
 ### Coal Office, King's Cross
 
@@ -228,7 +228,7 @@ Forty floors up and **open around the clock** — the only place in London where
 ## What to know
 
 * **Several of these are small.** Rochelle Canteen, The Attendant and The Yurt Café all fill quickly and some take no bookings.
-* **The Yurt Café's yurt is being replaced** — the structure is around ten years old and the charity is fundraising for a new one. Check it is standing before making a special trip.
+* **The Yurt Café's yurt is at the end of its life.** The charity is running an **£80,000 appeal for a replacement, closing 30 September 2026**, and had raised roughly a third of it by late August. The café is open and the appeal is about the structure rather than the business, but check before making a special trip for it.
 * **Feng Shang Princess is about the boat.** Go for the pagoda, not the cooking.
 * **Duck & Waffle is genuinely 24 hours**, which makes it the answer to a very specific question.
 * **Bob Bob Ricard's button** works and there is no minimum spend attached to pressing it.
