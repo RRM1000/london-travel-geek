@@ -86,6 +86,11 @@ Fifteen minutes west is Battersea Park, which was here long before the power sta
 6. **Battersea Park Children's Zoo** — Small, well run and good for young children. Ticketed.
 7. **The Thames Path** — East towards Vauxhall and Westminster, west towards Wandsworth. Flat the whole way.
 
+
+![The restored interior of Battersea Power Station, with shops on multiple levels under the original steel roof](../../assets/articles/battersea-area-guide/battersea-control-room.jpg)
+
+*Inside the restored power station. Control Room B is now a bar, and Control Room A is kept as it was.*
+
 ## Key streets and micro-districts
 
 ![The interior of Turbine Hall A at Battersea Power Station, with its restored art deco detailing](../../assets/articles/battersea-area-guide/turbine-hall-a.jpg)

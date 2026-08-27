@@ -92,6 +92,11 @@ Home of the **London Symphony Orchestra**, at the centre of the Barbican's bruta
 
 ---
 
+
+![The Royal Albert Hall auditorium during a concert, tiers of red seating curving around a lit stage](../../assets/articles/best-live-music-venues-london/royal-albert-hall.jpg)
+
+*The Royal Albert Hall mid-performance. It seats over 5,000 and the Proms run here every summer.*
+
 ## Historic buildings
 
 ### The Roundhouse, Chalk Farm

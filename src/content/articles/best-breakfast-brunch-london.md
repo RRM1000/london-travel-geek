@@ -84,6 +84,11 @@ Every inch of wall covered in framed pictures — probably the most photographed
 
 ---
 
+
+![A Dishoom breakfast plate with bacon, sausages, mushrooms, baked beans, akuri scrambled eggs and buttered buns](../../assets/articles/best-breakfast-brunch-london/dishoom-breakfast.jpg)
+
+*The full Bombay at Dishoom. The yellow scramble is akuri - eggs with chilli, coriander and ginger - and it is what makes this different from every other fry-up in London.*
+
 ## Australian brunch
 
 The format that changed London breakfast, still done best by the people who brought it.

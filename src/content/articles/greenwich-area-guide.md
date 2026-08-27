@@ -102,6 +102,11 @@ They are on opposite sides of the Greenwich Peninsula and are **not walkable fro
 
 What is at North Greenwich: **The O2**, one of the busiest arenas in the world, with the **Up at The O2** roof climb over the dome; the **IFS Cloud Cable Car** across the river to the Royal Docks; and the **Design District**, a cluster of small studios and a good canteen.
 
+
+![The red brick and glass domed rotunda entrance to the Greenwich Foot Tunnel beside the Thames](../../assets/articles/greenwich-area-guide/greenwich-foot-tunnel-rotunda.jpg)
+
+*The southern rotunda of the Greenwich Foot Tunnel, beside the Cutty Sark. The lifts run during staffed hours; the stairs are always open.*
+
 ## Key streets and micro-districts
 
 ![The tiled, cast-iron interior of the Greenwich Foot Tunnel running under the Thames](../../assets/articles/greenwich-area-guide/foot-tunnel-interior.jpg)
@@ -133,6 +138,11 @@ Two miles north. The O2, the cable car and the Design District.
 | **Goddards at Greenwich** | Pie and mash | £ | Serving since 1890; the traditional London plate |
 | **The Old Brewery** | Brewery and dining | ££ | In the Naval College grounds |
 | **Design District Canteen** | Food hall | £ | At North Greenwich, and useful before an O2 event |
+
+
+![Inside the tiled Greenwich Foot Tunnel, with people walking and cycling through the long white passage](../../assets/articles/greenwich-area-guide/greenwich-foot-tunnel-interior.jpg)
+
+*Inside the tunnel. It opened in 1902, runs under the Thames to Island Gardens, and is free at any hour.*
 
 ## Getting there
 

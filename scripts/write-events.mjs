@@ -114,6 +114,7 @@ const HOODS = {
   "King's Cross":         { zone: "1",   district: "North" },
   "Stratford":            { zone: "3",   district: "East" },
   "Greenwich Peninsula":  { zone: "2",   district: "East" },
+  "Canary Wharf":         { zone: "2",   district: "East" },
   "Fulham":               { zone: "2",   district: "West" },
   "Wembley":              { zone: "4",   district: "North" },
 };
@@ -121,6 +122,26 @@ const HOODS = {
 const base = { status: "open", statusChecked: TODAY, firstSeen: TODAY, lastChecked: TODAY };
 
 const ROWS = [
+  {
+    ...base, slug: "winter-lights-canary-wharf",
+    name: "Winter Lights",
+    eventType: "festival", style: "Free outdoor light-art trail",
+    venue: "Across the Canary Wharf estate",
+    // The 2026 edition. Kept with recurring:"annual" so export-events does not
+    // drop it once the dates pass - typicalWhen is what the page falls back to.
+    startsOn: "2026-01-20", endsOn: "2026-01-31",
+    recurring: "annual", typicalWhen: "Second half of January, nightly from about 5pm to 10pm",
+    hood: "Canary Wharf", borough: "Tower Hamlets", areaGuide: "canary-wharf-area-guide",
+    address: "Canada Square",
+    agePolicy: "all-ages", duration: "One to two hours",
+    pricePerPerson: "Free",
+    bookingRequired: "walk-in", indoorOutdoor: "outdoor", stepFree: "yes",
+    whyGo: "Around twenty light installations by international artists, spread across the estate and the dockside after dark, free and with no ticket. The 2026 edition was the tenth.",
+    opSummary: "No booking and no entry point - it is a self-guided trail across the whole estate, so arrive at any stop. Busiest at weekends; a weekday evening is much quieter.",
+    goodFor: "families, date, groups",
+    lists: "events, free",
+    source: "Canary Wharf Group press material, verified 2026-08-27. 2027 dates were not published at the time of writing - update startsOn/endsOn when they are, and leave typicalWhen alone.",
+  },
   // ============================================================================
   // SOURCED FROM ONE AGGREGATOR, 2026-08-20.
   //

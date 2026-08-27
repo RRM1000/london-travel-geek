@@ -98,6 +98,11 @@ The docks are the point. Nearly every walkway here runs alongside a stretch of V
 
 *Inside the Crossrail Place Roof Garden. It sits directly on top of the Elizabeth line station and is free to enter.*
 
+
+![Small round boats with sun umbrellas and built-in barbecues on the dock at Canary Wharf, with people cooking on board](../../assets/articles/canary-wharf-area-guide/skuna-bbq-boats.jpg)
+
+*Skuna's barbecue boats on Middle Dock. You drive them yourself and cook while you go - no licence needed.*
+
 ## Key streets and micro-districts
 
 ### Canada Square and the malls
@@ -123,6 +128,11 @@ East. New residential blocks, the boardwalk and the best of the waterside dining
 ### Heron Quays and South Dock
 South, facing the water towards Greenwich, and the quietest part to walk.
 
+
+![People sitting in a wood-fired hot tub built into a small boat on the dock at Canary Wharf](../../assets/articles/canary-wharf-area-guide/skuna-hot-tub-boat.jpg)
+
+*The hot tub boats run year-round. The chimney is a wood burner, and the water is properly hot in January.*
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -136,6 +146,11 @@ South, facing the water towards Greenwich, and the quietest part to walk.
 | **Fairgame** | Games and street food | ££ | Fisherman's Walk; open to 1am Saturdays |
 | **Big Easy / Roka** | Various | ££ | Crossrail Place; reliably busy at weekends |
 
+
+![The interior of Adams Plaza Bridge at Canary Wharf, a mirrored tunnel lined with bands of coloured glass](../../assets/articles/canary-wharf-area-guide/adams-plaza-bridge.jpg)
+
+*Adams Plaza Bridge, the covered walkway between Canary Wharf station and Crossrail Place. It is a short cut people photograph rather than a sight in itself.*
+
 ## Getting there
 
 **By Elizabeth line.** The fastest option by a distance: **six minutes** from Liverpool Street, about thirteen from Bond Street. Spacious, air-conditioned and step-free.
@@ -145,6 +160,11 @@ South, facing the water towards Greenwich, and the quietest part to walk.
 **By DLR.** Slower but far more scenic — it runs on a viaduct through the docks. Sit at the front; there is no driver.
 
 **On foot to Greenwich.** DLR two stops to **Island Gardens**, then the **Greenwich Foot Tunnel** under the river. Free and open at all hours.
+
+
+![A large illuminated WINTER LIGHTS sign at Canary Wharf at dusk, with people walking past](../../assets/articles/canary-wharf-area-guide/winter-lights-canary-wharf.jpg)
+
+*Winter Lights runs across the estate for two weeks each January. It is free, needs no ticket, and is the busiest the walkways get all year.*
 
 ## How long to spend, and when to go
 

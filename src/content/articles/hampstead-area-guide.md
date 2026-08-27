@@ -89,6 +89,11 @@ It also has a free house full of Old Masters, and three ponds you can legally sw
 6. **The Spaniards Inn** — A 1585 coaching inn on the Heath's northern edge, associated with Dick Turpin and mentioned in *Dracula*. Big garden.
 7. **Keats House** — The Hampstead villa where Keats wrote *Ode to a Nightingale*. Small, ticketed and quiet.
 
+
+![The brick and stone Hill Garden Pergola on Hampstead Heath, with planting along its raised walkway](../../assets/articles/hampstead-area-guide/hill-garden-pergola.jpg)
+
+*The Hill Garden and Pergola, built as a private Edwardian folly and now free to walk. Most visitors to the Heath never find it.*
+
 ## Key streets and micro-districts
 
 ### Hampstead village and the high street
@@ -106,6 +111,11 @@ The top. Kenwood House, the lake and the Spaniards Inn beyond.
 ### Church Row
 A single street of unbroken early-Georgian terrace, generally reckoned the finest in London outside Bloomsbury.
 
+
+![The raised colonnaded walkway of the Hill Garden Pergola, overgrown with climbing plants](../../assets/articles/hampstead-area-guide/hill-garden-pergola-walkway.jpg)
+
+*The pergola walkway. It is at its best in late spring when the wisteria is out.*
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -117,6 +127,11 @@ A single street of unbroken early-Georgian terrace, generally reckoned the fines
 | **Parliament Hill Cafe** | Park cafe | £ | At the foot of the hill, useful before or after the climb |
 | **The Wells Tavern** | Gastropub | ££ | Between the village and the Heath |
 
+
+![One of the Hampstead Heath bathing ponds, ringed by trees, with a swimmers' noticeboard in the foreground](../../assets/articles/hampstead-area-guide/hampstead-heath-bathing-pond.jpg)
+
+*One of the Heath's bathing ponds. They are open year-round, and there are separate men's, ladies' and mixed ponds.*
+
 ## Getting there
 
 **By Tube.** **Hampstead** on the Northern line serves the village. It is the **deepest station on the Underground** at 58.5 metres, served by lifts rather than escalators — allow a few extra minutes.
@@ -124,6 +139,11 @@ A single street of unbroken early-Georgian terrace, generally reckoned the fines
 **By Overground.** **Hampstead Heath** puts you at the south-east corner, closest to Parliament Hill and the ponds. This is the better choice if the Heath is your main target.
 
 **Best approach.** Arrive at Hampstead Heath Overground, walk up Parliament Hill for the view, cross the Heath north to Kenwood, then down into the village and out via the Northern line. That way the climbing is front-loaded.
+
+
+![A wide woodland path through mature trees on Hampstead Heath](../../assets/articles/hampstead-area-guide/heath-woodland-path.jpg)
+
+*The Heath is 790 acres and genuinely easy to get lost in, which is the point.*
 
 ## How long to spend, and when to go
 

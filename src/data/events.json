@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-25",
- "count": 34,
+ "generated": "2026-08-27",
+ "count": 35,
  "events": [
   {
    "slug": "the-magicians-table",
@@ -491,6 +491,41 @@
    "affiliateNetwork": "getyourguide",
    "annual": false,
    "notYetOpen": true
+  },
+  {
+   "slug": "winter-lights-canary-wharf",
+   "name": "Winter Lights",
+   "type": "festival",
+   "style": "Free outdoor light-art trail",
+   "venue": "Across the Canary Wharf estate",
+   "recurring": "annual",
+   "typicalWhen": "Second half of January, nightly from about 5pm to 10pm",
+   "area": "Canary Wharf",
+   "borough": "Tower Hamlets",
+   "guide": "canary-wharf-area-guide",
+   "zone": "2",
+   "district": "East",
+   "address": "Canada Square",
+   "agePolicy": "all-ages",
+   "duration": "One to two hours",
+   "price": "Free",
+   "booking": "walk-in",
+   "indoorOutdoor": "outdoor",
+   "stepFree": "yes",
+   "whyGo": "Around twenty light installations by international artists, spread across the estate and the dockside after dark, free and with no ticket. The 2026 edition was the tenth.",
+   "opNote": "No booking and no entry point - it is a self-guided trail across the whole estate, so arrive at any stop. Busiest at weekends; a weekday evening is much quieter.",
+   "goodFor": [
+    "families",
+    "date",
+    "groups"
+   ],
+   "lists": [
+    "events",
+    "free"
+   ],
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
   },
   {
    "slug": "larger-than-life-wallace-gromit",

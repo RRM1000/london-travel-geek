@@ -281,6 +281,38 @@ const HOODS = {
 const base = { status: "open", statusChecked: TODAY, firstSeen: TODAY, lastChecked: TODAY, verified: TODAY };
 
 const ROWS = [
+  {
+    ...base, slug: "skuna-bbq-boats", name: "Skuna BBQ Boats",
+    activityType: "boating", style: "Self-drive boat with a barbecue in the middle",
+    chainType: "independent",
+    hood: "Canary Wharf", borough: "Tower Hamlets", areaGuide: "canary-wharf-area-guide",
+    address: "Middle Dock, Canary Wharf",
+    agePolicy: "family-friendly", duration: "About 90 minutes", groupSize: "Up to 10",
+    bookingRequired: "required", indoorOutdoor: "outdoor",
+    servesFood: "yes", servesAlcohol: "no",
+    whyGo: "A round electric boat with a charcoal barbecue in the centre of the table, which you drive yourself around the dock between the towers while cooking. No licence needed.",
+    angle: "contrast",
+    opSummary: "Self-drive, no experience required, and one of the group is designated skipper. Food can be brought or bought as a package; alcohol is not sold on board.",
+    goodFor: "groups, celebration, families",
+    lists: "activities, unusual",
+    source: "skunaboats.com, verified 2026-08-27, and owner photography from Middle Dock.",
+  },
+  {
+    ...base, slug: "skuna-hot-tub-boats", name: "Skuna Hot Tub Boats",
+    activityType: "boating", style: "Wood-fired hot tub on a self-drive boat",
+    chainType: "independent",
+    hood: "Canary Wharf", borough: "Tower Hamlets", areaGuide: "canary-wharf-area-guide",
+    address: "Middle Dock, Canary Wharf",
+    agePolicy: "over-18", duration: "About an hour", groupSize: "Up to 6",
+    bookingRequired: "required", indoorOutdoor: "outdoor",
+    servesFood: "no", servesAlcohol: "no",
+    whyGo: "A wood-fired hot tub built into a small boat, which you drive yourself around the dock with the Canary Wharf towers overhead. Swimwear and a towel; the water is heated by the stove you can see smoking on deck.",
+    angle: "contrast",
+    opSummary: "Bring swimwear and a towel and expect to change on site. Runs year-round and is arguably better in winter, when the contrast is the whole point.",
+    goodFor: "groups, date, celebration",
+    lists: "activities, unusual",
+    source: "skunaboats.com, verified 2026-08-27, and owner photography from Middle Dock.",
+  },
   // ============================== CANARY WHARF ==============================
   // CINEMA RULE: chain multiplexes are deliberately excluded. Canary Wharf has
   // an Everyman and it is not here, because a cinema only earns a row when the

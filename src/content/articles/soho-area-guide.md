@@ -119,6 +119,11 @@ Market stalls, record shops and some of Soho's better restaurants. Broadwick Str
 *Frith Street where it meets Shaftesbury Avenue. Ronnie Scott's, Bar Italia and a run of long-standing restaurants are all on this stretch.*
 North–south restaurant streets, plus Ronnie Scott's and the Soho private members' clubs.
 
+
+![The mock-Tudor timbered frontage of Liberty department store on Great Marlborough Street](../../assets/articles/soho-area-guide/liberty-store.jpg)
+
+*Liberty, built in the 1920s from the timbers of two Royal Navy ships. Free to walk into, and worth it for the atrium.*
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
