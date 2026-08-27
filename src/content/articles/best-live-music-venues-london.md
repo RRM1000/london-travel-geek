@@ -1,6 +1,6 @@
 ---
-title: "The Best Live Music Venues in London: 22 Rooms"
-seoTitle: "Best Live Music Venues London 2026: 22 Rooms Compared"
+title: "The Best Live Music Venues in London: 23 Rooms"
+seoTitle: "Best Live Music Venues London 2026: 23 Rooms Compared"
 description: "A Victorian railway turning shed, a veterans' club with a gold tinsel curtain, and the sloping floor at Brixton that bands talk about — London's music rooms."
 heroImage: "../../assets/articles/best-live-music-venues-london/jazz-cafe-camden.jpg"
 heroImageAlt: "The Jazz Cafe in Camden, its white stucco frontage lettered London's Famous Jazz Venue"
@@ -14,7 +14,7 @@ faq:
   - q: "What is the best live music venue in London?"
     a: "For big shows, O2 Academy Brixton — the floor slopes down towards the stage, which is why everyone can see and why bands talk about it the way they do. For small ones, Cafe OTO in Dalston is Time Out's own pick as London's most consistently committed venue."
   - q: "Where do I see live jazz in London?"
-    a: "Ronnie Scott's in Soho is the institution, founded in 1959, though the Frith Street room everyone knows dates from 1965 — it opened on Gerrard Street. The Jazz Cafe in Camden covers a far wider range than the name suggests, and The Bull's Head in Barnes has run jazz since 1959 too, the same year as Ronnie's."
+    a: "Ronnie Scott's in Soho is the institution, founded in 1959, though the Frith Street room everyone knows dates from 1965 — it opened on Gerrard Street. The Jazz Cafe in Camden covers a far wider range than the name suggests, and The Bull's Head in Barnes has run jazz since 1959 too, the same year as Ronnie's, still weekly in its own Jazz Room. The 606 Club in Chelsea is the one people wrongly assume is members-only; it is not."
   - q: "Which London music venues are historic buildings?"
     a: "The Roundhouse is a circular Victorian railway turning shed. KOKO is a gilded Victorian theatre reopened after a fire. Union Chapel in Islington is a Grade I listed working church. MOTH Club in Hackney is a veterans' social club with a gold tinsel stage curtain. And the 100 Club on Oxford Street has had live music in it since 1942."
   - q: "How do I find gigs in London?"
@@ -45,7 +45,8 @@ This guide covers the rooms rather than the listings, arranged by size, because 
 | **Dalston & Hackney** | Cafe OTO, EartH, Shacklewell Arms, MOTH Club |
 | **Brixton** | O2 Academy Brixton |
 | **Greenwich** | The O2 |
-| **Covent Garden** | Stereo |
+| **Covent Garden** | Stereo, Blue Note London |
+| **Chelsea** | The 606 Club |
 | **Notting Hill** | Notting Hill Arts Club |
 | **Barnes & west** | The Bull's Head, Eventim Apollo |
 
@@ -157,7 +158,9 @@ A **Memorable Order of Tin Hats veterans' club** with a gold-tinsel stage curtai
 
 The New York institution's **first UK venue**, in the basement beneath the St Martins Lane hotel. A **250-capacity main room running two sets a night at 7pm and 9.30pm**, food served at the tables, and a second 100-seat room called **B-Side** given over to emerging UK musicians.
 
-**Robert Glasper** opens it on the 23rd and 24th, with Erykah Badu, Jamie Cullum, Nubya Garcia, Yussef Dayes, KOKOROKO and Hak Baker already announced.
+**Robert Glasper** opens it on the 23rd and 24th — **both grand opening sets are already sold out** — with Erykah Badu, Jamie Cullum, Nubya Garcia, Yussef Dayes, KOKOROKO and Hak Baker announced behind him. Sinead Harnett follows on the 25th.
+
+The address is **42–49 St Martin's Lane, WC2N 4EJ**.
 
 The two-sets-a-night format is the thing to understand: the 7pm show is the civilised one and the 9.30 is where it loosens up.
 
@@ -188,6 +191,16 @@ Tickets run around **£20–£30**, roughly half the main room, which makes it t
 
 > **The Greene Rooms open in 2027** — a members-only backstage lounge above the club, and the first time that part of the building has been open to anyone.
 
+### The 606 Club, Chelsea
+
+*90 Lots Road, SW10 0QD · two sets a night*
+
+A basement on Lots Road that has been one of London's serious jazz rooms for decades, and the one most people wrongly assume they cannot get into. **Non-members are welcome** — the club says so on every page of its own site.
+
+It charges a **music charge per person** rather than a ticket price, which is unusually transparent: **£18** Monday to Thursday and Sunday evening, **£23** Friday and Saturday, and **£16** for Sunday lunch. Two sets a night in every case, doors from 6.30pm on weeknights and 7pm at weekends, with music from 8pm or 9pm.
+
+Booking is recommended rather than required, and it runs a full kitchen — this is a room you eat in while the band plays.
+
 ### Jazz Cafe, Camden Town
 
 *live every night*
@@ -200,9 +213,11 @@ Live acts **every night of the week** across a far wider range than the name sug
 
 ### The Bull's Head, Barnes
 
-*since 1959*
+*since 1959 · 373 Lonsdale Road, SW13 9PY*
 
-A jazz venue since 1959 — the same year Ronnie Scott's opened — and once nicknamed the suburban Ronnie's.
+A jazz venue since 1959 — the same year Ronnie Scott's opened — and once nicknamed the suburban Ronnie's. It still is one: a **Young's pub on the Thames** that calls itself a historic London jazz venue and programmes live music **every week** in a dedicated **Jazz Room** behind the bar, rather than in a corner of the pub.
+
+Five minutes from Barnes Bridge, and the only room on this list where the gig and a proper Sunday lunch are the same outing.
 
 ---
 
@@ -251,7 +266,7 @@ Live music in London does not have to cost £40 and a booking fee.
 * **The Shacklewell Arms**, Dalston — several of its club nights are **free entry**, in a proper back-room venue with a heated courtyard.
 * **The Late Late Show at Ronnie Scott's** is **£12** for the same room that costs £40–£65 earlier in the evening. It starts at 11.15pm, Wednesday to Saturday, and most tickets are available on the door if the advance ones have gone.
 * **Ronnie's concessions are unusually generous** if you qualify. On Wednesdays and Thursdays, **Musicians' Union members get into the Late Late Show free** on production of a card, and students and other musicians pay **£6**.
-* **The Vortex** in Dalston and several Soho pubs run free or near-free jazz sessions most weeks.
+* **The Vortex**, Dalston — **not free**, and often listed as though it were. Tickets are usually **£15–£25**, though **Vortex members, students and Universal Credit recipients** pay substantially less, sometimes half. Gigs run Tuesday to Sunday from 7.45pm, and seats are only guaranteed to members.
 * **Church and lunchtime concerts.** St Martin-in-the-Fields, St James's Piccadilly and the Southbank Centre all run free or pay-what-you-can lunchtime recitals, usually by conservatoire students who are very good.
 * **The Southbank Centre foyers** have free live music most days — a real programme, not background.
 * **Grassroots venues are the point.** Almost every act now filling an arena spent years in rooms like these, and a £6 ticket at The Windmill has better odds of being memorable than £80 at the O2.
@@ -267,6 +282,7 @@ Live music in London does not have to cost £40 and a booking fee.
 * **Union Chapel seating is unreserved.** Original wooden pews, first come first served, so arrive early. It is a Victorian church, so dress for the temperature.
 * **The grassroots circuit is genuinely under pressure.** Thirty UK venues closed permanently between mid-2024 and mid-2025, more than half made no profit, and around 200 are on the Music Venue Trust's red alert list. Buying direct from a small venue is not a small gesture.
 * **The late set at Ronnie Scott's costs £12** against £40–£65 for a main show, in the same room. It is the single biggest price gap in London live music.
+* **Jazz in London is rarely free**, whatever the listings say. The 606 charges a music charge, the Vortex charges £15–£25, and Ronnie's late show is £12. The genuine free jazz is in pubs and at lunchtime recitals, not in the clubs.
 * **Cafe OTO and MOTH Club** rarely sell out weeks ahead — you can decide on the day.
 * **Night Tube runs Friday and Saturday** on the Victoria line for Brixton and the Northern for Camden.
 
