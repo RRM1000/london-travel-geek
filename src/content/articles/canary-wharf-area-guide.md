@@ -1,9 +1,9 @@
 ---
-title: "Canary Wharf Area Guide: Towers, Docks and the Roof Garden"
-seoTitle: "Canary Wharf Guide: What to See, Eat & the Roof Garden"
-description: "A complete Canary Wharf guide: the Crossrail roof garden, the Museum of London Docklands, dockside walks, and why weekends are the quiet time to come."
+title: "Canary Wharf Area Guide: Docks, Swimming and the Roof Garden"
+seoTitle: "Canary Wharf Guide 2026: Eden Dock, Swimming & What to Do"
+description: "A complete Canary Wharf guide: Eden Dock, a 50-metre floating pool, the Crossrail roof garden, the free Docklands museum and the Wood Wharf restaurants."
 publishedAt: 2026-08-16
-updatedAt: 2026-08-16
+updatedAt: 2026-08-27
 sites:
   - london
 canonicalSite: london
@@ -17,14 +17,14 @@ draft: false
 area:
   name: "Canary Wharf"
   zone: "2"
-  vibe: "Glass towers over Victorian docks — a business district that empties at weekends"
+  vibe: "Glass towers over Victorian docks, and an office estate halfway through becoming a neighbourhood"
   walkability: 5
-  timeNeeded: "Two to three hours"
+  timeNeeded: "Half a day"
   budget: "££"
-  bestDay: "Weekdays for atmosphere and open restaurants; weekends for empty walkways"
+  bestDay: "Any day — weekdays for the offices buzzing, weekends now for the water and the restaurants"
   bestFor:
     - Modern architecture
-    - Dockside walks
+    - Dockside walks and swimming
     - Free museums
     - Shopping under cover
   nearestStations:
@@ -52,11 +52,11 @@ area:
       note: "One stop on the Jubilee line, or across the river by cable car from the Royal Docks."
 faq:
   - q: "Is Canary Wharf worth visiting as a tourist?"
-    a: "For two or three hours, yes — for the architecture, the free Museum of London Docklands, the Crossrail roof garden and the dockside walks. It is not a full day out and it has no traditional sights. It combines best with Greenwich, twenty minutes south."
+    a: "More than it used to be. Alongside the architecture, the free Museum of London Docklands and the Crossrail roof garden, there is now Eden Dock, a 50-metre floating swimming pool that opened in June 2026, open-water swimming in the dock, hot-tub boats and a serious run of restaurants at Wood Wharf. Half a day is realistic. It still has no traditional sights, and it pairs well with Greenwich twenty minutes south."
   - q: "What is the Crossrail Place Roof Garden?"
     a: "A free public garden under a timber lattice roof on top of the Elizabeth line station. It is planted along the line of the old dock and split roughly by hemisphere — species from east of the meridian on one side, west on the other. Open daily, free, and one of the more unexpected things in London."
   - q: "Is Canary Wharf open at weekends?"
-    a: "The shopping malls and the Elizabeth line run all week, but this is a business district — many restaurants and bars close or shorten hours on Saturdays and Sundays, and the walkways are close to deserted. That makes it excellent for photography and poor for atmosphere."
+    a: "Yes, and this has changed. The original shopping malls still wind down on Sundays, and some of the older chain units keep short weekend hours. But the newer layer runs properly at weekends — Fairgame is open until 1am on Saturday, the Sea Lanes pool swims 7am to 7pm, and the Wood Wharf restaurants and Eden Dock run all week. Older guides saying the place empties completely are out of date."
   - q: "Can you walk from Canary Wharf to Greenwich?"
     a: "Yes, via the Greenwich Foot Tunnel. Take the DLR two stops to Island Gardens, then walk through the 1902 tiled tunnel under the Thames — it comes up beside the Cutty Sark. It is free and open at all hours, with lifts at both ends during staffed hours."
   - q: "Is the Museum of London Docklands free?"
@@ -71,9 +71,13 @@ The docks are the point. Nearly every walkway here runs alongside a stretch of V
 
 ## Why visit — and who should skip it
 
-**Come here if** you like modern architecture, or you want a free museum and a garden almost nobody visits, or it is raining — much of Canary Wharf is connected by covered walkway and underground mall.
+**Come here if** you like modern architecture, or want to swim in a dock between skyscrapers, or want a free museum and a roof garden almost nobody visits, or it is raining — much of Canary Wharf is connected by covered walkway and underground mall.
 
-**Skip it if** you want history or evening life. This is an office district: no old streets, no pub culture worth the trip, and it empties completely at weekends. Two hours is the right length, ideally bolted onto a Greenwich day.
+**Skip it if** you came to London for old streets and traditional pubs. That part of the old advice still holds: this is a purpose-built estate, and nothing here is historic except the docks themselves and a handful of Georgian warehouses.
+
+> **What changed.** Guides written before about 2023 describe an office district that empties at weekends, and that is no longer accurate. **Eden Dock** opened in October 2024, **Mercato Metropolitano** arrived at Wood Wharf, **Fairgame** now trades until 1am on Saturdays, and a **50-metre floating swimming pool opened in June 2026**. Around 3,500 people live here, and that is projected to roughly double by 2027 as Wood Wharf completes.
+>
+> It is honest to call it an estate halfway through becoming a neighbourhood — the new leisure sits alongside the old mall rather than replacing it.
 
 ## Top sights and activities
 
@@ -81,11 +85,14 @@ The docks are the point. Nearly every walkway here runs alongside a stretch of V
 2. **Museum of London Docklands** — Free, in a Georgian sugar warehouse on West India Quay. The story of the docks, the river, and London's part in the transatlantic slave trade. Rarely busy.
 3. **Eden Dock** — Floating planted islands and wetland walkways installed in Middle Dock, turning a stretch of open water into a genuine habitat. Free, and best seen from the boardwalk on the north side.
 4. **The dockside walks** — Middle Dock, West India Quay and the Wood Wharf boardwalks. Flat, quiet and lined with water on both sides.
-5. **Open water swimming in Middle Dock** — There is a marked, lifeguarded open water swimming venue in the dock between the towers. Sessions are booked in advance and run seasonally.
-6. **The public art** — Around seventy works scattered across the estate, all free to see and mostly unmarked. There is a printed trail if you want one.
-7. **Wood Wharf** — The newest quarter, east of the towers, with a floating restaurant and a genuine waterside promenade.
-8. **One Canada Square** — The pyramid-topped tower that was Britain's tallest building from 1991 to 2012. No public viewing floor, but the lobby is worth a look.
-9. **The winter ice rink and Canary Wharf Festival** — Seasonal, in Canada Square Park. Free events run through the summer.
+5. **Sea Lanes** — A **50-metre heated floating swimming pool** at the western end of Eden Dock, open since **19 June 2026**. **£10** to swim, **£18** with the sauna. Weekdays 6am–9pm, weekends 7am–7pm.
+6. **Open water swimming in Middle Dock** — Separate from the pool, and colder: a marked, lifeguarded open-water venue in the dock between the towers, running seasonally from roughly June to October since 2022. Booked in advance, and around £9.50 a session plus annual membership.
+7. **Fairgame** — Electronic fairground games and street food on Fisherman's Walk, and the clearest sign the estate's weekends have changed: **open until 1am on Saturdays and midnight on Sundays**. From £15 a head for 75 minutes off-peak.
+8. **Skuna hot tub and barbecue boats** — Self-drive boats on the dock with a hot tub or a barbecue on board, and heated igloo boats in winter.
+9. **The public art** — Around seventy works scattered across the estate, all free to see and mostly unmarked. There is a printed trail if you want one.
+10. **Wood Wharf** — The newest quarter, east of the towers, and where the good restaurants are. A floating Hawksmoor, a genuine waterside promenade, and Mercato Metropolitano's food hall on George Street.
+11. **One Canada Square** — The pyramid-topped tower that was Britain's tallest building from 1991 to 2012. No public viewing floor, but the lobby is worth a look.
+12. **Winter Lights** — A **free** light-art festival across the estate every January, no booking needed. The 2026 edition ran 20–31 January, 5pm to 10pm, and was the tenth. Dates for 2027 are not published yet.
 
 ![Inside the Crossrail Place Roof Garden, with dense planting beneath a triangulated timber and glass roof](../../assets/articles/canary-wharf-area-guide/crossrail-place-roof-garden.jpg)
 
@@ -125,7 +132,9 @@ South, facing the water towards Greenwich, and the quietest part to walk.
 | **Crossrail Place food court** | Mixed | ££ | Under the roof garden; quick and covered |
 | **West India Quay arches** | Chain restaurants | ££ | Reliable, waterside, open at weekends |
 | **The Gun** | Historic riverside pub | ££ | Fifteen minutes east on the Thames; genuinely old, with a Tower Bridge view |
-| **Big Easy / Roka** | Various | ££ | Crossrail Place; among the few places busy on a Saturday |
+| **Mercato Metropolitano** | Food hall | £ | 10 George Street, Wood Wharf; the budget option, open since 2022 |
+| **Fairgame** | Games and street food | ££ | Fisherman's Walk; open to 1am Saturdays |
+| **Big Easy / Roka** | Various | ££ | Crossrail Place; reliably busy at weekends |
 
 ## Getting there
 
@@ -143,15 +152,16 @@ South, facing the water towards Greenwich, and the quietest part to walk.
 | --- | --- |
 | **One hour** | Crossrail Place Roof Garden and the Middle Dock walk |
 | **Two to three hours** | Add the Museum of London Docklands, Eden Dock and Wood Wharf |
-| **Half a day** | Combine with Greenwich via the Foot Tunnel |
+| **Half a day** | Add a swim at Sea Lanes and lunch at Wood Wharf |
+| **A full day** | All of the above, then Greenwich via the Foot Tunnel |
 
 ![Floating planted islands and wetland walkways at Eden Dock, with Canary Wharf towers rising behind](../../assets/articles/canary-wharf-area-guide/eden-dock.jpg)
 
 *Eden Dock, the planted wetland installed in Middle Dock. The timber terracing doubles as seating.*
 
-**Best time:** Weekday lunchtime for atmosphere and open restaurants. Early evening on a weekday gives the best photographs, with the towers lit and reflecting in the docks.
+**Best time:** Early evening gives the best photographs, with the towers lit and reflecting in the docks. Weekday lunchtimes are the busiest and most alive; weekends are quieter on the walkways but the water and the restaurants are now the reason to come.
 
-**Avoid:** Sunday, unless empty walkways are what you are after. Much of the estate closes.
+**Sundays are no longer a write-off.** The malls keep short Sunday hours and some older chain units shorten further, so do not plan a shopping trip. Everything else — Eden Dock, the pool, the museum, the roof garden, Wood Wharf — runs as normal.
 
 ## Suggested two-hour route
 
@@ -163,17 +173,18 @@ South, facing the water towards Greenwich, and the quietest part to walk.
 
 ## Common mistakes to avoid
 
-1. **Coming at the weekend expecting it to be lively.** It is an office district and it empties.
-2. **Allowing a full day.** Two to three hours covers it. Pair it with Greenwich.
+1. **Reading a guide written before 2023.** Most still say the estate empties at weekends and is worth two hours. Eden Dock, the swimming and the Wood Wharf restaurants have changed that.
+2. **Planning a Sunday shopping trip.** The malls keep short Sunday hours. Everything else is open.
 3. **Missing the roof garden.** It is on top of the station and free, and most visitors walk underneath it without knowing.
 4. **Taking the Jubilee line from the City.** The Elizabeth line from Liverpool Street takes six minutes.
 5. **Trying to walk here from the Tower.** Much further than the map suggests. Use the DLR.
-6. **Looking for a viewing platform in One Canada Square.** There is not one. The free views are Horizon 22 and the Sky Garden in the City.
+6. **Looking for a viewing platform.** There is not one anywhere in Canary Wharf. One has been proposed for 8 Canada Square, but building cannot start until HSBC leaves in 2027, so it is years away. The free views are Horizon 22 and the Sky Garden in the City.
+7. **Expecting the ice rink.** It ran for years in Canada Square Park but is **paused for winter 2026**. Winter Lights in January is unaffected.
 
 ## Where to stay
 
 Modern, well connected and often cheaper than Zone 1, with the trade-off of a quiet evening.
 
-- **Canary Wharf** — Large business hotels, best value at weekends when corporate demand drops.
+- **Canary Wharf** — Large business hotels, and **often much cheaper at weekends** when corporate demand drops. That inversion is the single best-value thing about staying here.
 - **Wood Wharf** — Newer, on the water, and closer to the better restaurants.
 - **North Greenwich** — One stop on the Jubilee line, handy for the O2.
