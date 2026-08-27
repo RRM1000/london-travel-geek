@@ -116,14 +116,32 @@ if (!buildOnly) {
 }
 
 // ------------------------------------------------------------------ building
+// TWO SOURCES, SEED THEN CACHE. Open Plaques' live CSV endpoint was down hard
+// when this map was built - eight attempts over 35 minutes, every one a 503 -
+// but their official GB dump of 2021-05-14 survives, mirrored bit-identically
+// in two independent GitHub repos. Public domain data, so the mirror is as
+// legitimate as the original. data/plaques-seed.csv is that dump; the live
+// cache pages overlay it by id whenever the fetcher manages to run, so the
+// dataset starts complete-but-2021 and freshens toward current.
 const files = fs.readdirSync(CACHE).filter((f) => f.endsWith(".csv")).sort();
-if (!files.length) {
-  console.log("no cached pages yet - nothing to build.");
+const SEED = "data/plaques-seed.csv";
+if (!files.length && !fs.existsSync(SEED)) {
+  console.log("no cached pages and no seed dump - nothing to build.");
   process.exit(0);
 }
 
 let header = null;
 const seen = new Map();
+
+if (fs.existsSync(SEED)) {
+  const rows = parseCsv(fs.readFileSync(SEED, "utf8"));
+  const seedHeader = rows[0].map((h) => h.replace(/^﻿/, "").trim());
+  for (const r of rows.slice(1)) {
+    const o = Object.fromEntries(seedHeader.map((h, i) => [h, r[i] ?? ""]));
+    if (o.id) seen.set(o.id, o);
+  }
+  console.log(`seed dump: ${seen.size} GB plaques from 2021-05-14`);
+}
 for (const f of files) {
   const rows = parseCsv(fs.readFileSync(path.join(CACHE, f), "utf8"));
   if (!rows.length) continue;
@@ -169,7 +187,9 @@ fs.writeFileSync(
       note:
         "Open Plaques data, public domain per openplaques.org/about. " +
         "Fetched by scripts/fetch-plaques.mjs; rerun it to refresh.",
-      fetched: new Date().toISOString().slice(0, 10),
+      fetched: files.length
+        ? new Date().toISOString().slice(0, 10)
+        : "2021-05-14 dump; live refresh pending",
       count: plaques.length,
       plaques,
     },
