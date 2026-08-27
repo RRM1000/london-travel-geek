@@ -209,8 +209,18 @@ const description = `Every commemorative plaque in London on one searchable map 
     loadCss("https://unpkg.com/leaflet@1.9.4/dist/leaflet.css", "data-leaflet-styles");
     loadCss("https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css", "data-mc-styles");
     loadCss("https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css", "data-mcd-styles");
-    if (!w.L) await loadScript("https://unpkg.com/leaflet@1.9.4/dist/leaflet.js");
-    if (!w.L.markerClusterGroup) await loadScript("https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js");
+    // CDN plugin loads can race, so each step verifies its symbol actually
+    // arrived and retries once with a cache-buster before giving up.
+    const ensure = async (src: string, ok: () => boolean) => {
+      for (let attempt = 0; attempt < 2 && !ok(); attempt++) {
+        await loadScript(attempt ? `${src}?retry=1` : src).catch(() => {});
+        for (let i = 0; i < 20 && !ok(); i++) await new Promise((r) => setTimeout(r, 50));
+      }
+      if (!ok()) throw new Error(`failed to load ${src}`);
+    };
+    await ensure("https://unpkg.com/leaflet@1.9.4/dist/leaflet.js", () => !!w.L);
+    await ensure("https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js",
+                 () => !!(w.L && w.L.markerClusterGroup));
     return w.L;
   }
 
