@@ -1,0 +1,363 @@
+---
+// Every commemorative plaque in London on one searchable map.
+//
+// DATA: Open Plaques (openplaques.org), whose About page declares the data
+// public domain. Fetched into public/plaques.json by scripts/fetch-plaques.mjs
+// and served as a static asset - the page fetches it client-side because
+// ~3,500 inscriptions inlined into the HTML would triple the page weight.
+//
+// The map is Leaflet plus markercluster, loaded from unpkg on first paint the
+// same way ArticleLayout's restaurant maps load Leaflet - one loader, cached
+// by the browser. Clustering is not optional at this scale: 3,500 individual
+// DOM markers locks up a phone.
+//
+// London build only - the toolkit site has no reason to carry this.
+import fs from "node:fs";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+
+// Count and freshness for the header come from the same file the client
+// fetches, read at build time.
+let count = 0;
+let fetched = "";
+try {
+  const data = JSON.parse(fs.readFileSync("public/plaques.json", "utf8"));
+  count = data.count ?? 0;
+  fetched = data.fetched ?? "";
+} catch {
+  /* page still builds; the client shows its own error state */
+}
+
+const title = "London Plaques Map";
+const description = `Every commemorative plaque in London on one searchable map — ${count.toLocaleString("en-GB")} of them, from official blue plaques to borough, Nubian Jak and rainbow schemes.`;
+---
+
+<BaseLayout title={title} description={description}>
+  <main class="plaques-page">
+    <header class="plaques-header">
+      <p class="eyebrow">Things to do · Free</p>
+      <h1>Every plaque in London, on one map</h1>
+      <p class="stand">
+        {count.toLocaleString("en-GB")} commemorative plaques — the official English
+        Heritage blue ones, the green Westminster ones, the Nubian Jak, borough and
+        rainbow schemes — searchable by name, inscription or organisation.
+        Reading first? Start with <a href="/articles/london-blue-plaques/">the 23 worth walking to</a>.
+      </p>
+    </header>
+
+    <div class="plaques-controls" role="search">
+      <input
+        id="plaque-search"
+        type="search"
+        placeholder="Search names, inscriptions, organisations — try Hendrix, nurse, or Nubian Jak"
+        aria-label="Search plaques"
+        autocomplete="off"
+      />
+      <div class="plaques-filters" id="colour-filters" aria-label="Filter by plaque colour"></div>
+      <p class="plaques-count" id="plaque-count" aria-live="polite"></p>
+    </div>
+
+    <div id="plaques-map" class="plaques-map">
+      <noscript><p>The map needs JavaScript. The plaque data itself is
+        <a href="/plaques.json">available as JSON</a>, public domain.</p></noscript>
+    </div>
+
+    <ul id="plaque-results" class="plaques-results" aria-label="Matching plaques"></ul>
+
+    <footer class="plaques-footer">
+      <p>
+        Data: <a href="https://openplaques.org" rel="noopener">Open Plaques</a>
+        (public domain){fetched && fetched !== "stub" ? `, fetched ${fetched}` : ""}.
+        Map © <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap</a> contributors.
+        Spotted an error? Open Plaques takes corrections — each popup links to the plaque's own page.
+      </p>
+      <p>
+        More like this: <a href="/articles/london-blue-plaques/">Blue Plaques guide</a> ·
+        <a href="/articles/london-street-art/">Street art</a> ·
+        <a href="/articles/hidden-london-secret-places/">Hidden London</a> ·
+        <a href="/free/">Free things to do</a>
+      </p>
+    </footer>
+  </main>
+</BaseLayout>
+
+<style>
+  .plaques-page {
+    max-width: var(--page-width, 76rem);
+    margin: 0 auto;
+    padding: 1.5rem 1rem 3rem;
+  }
+  .plaques-header { max-width: 46rem; margin-bottom: 1.25rem; }
+  .eyebrow {
+    font-size: 0.72rem; font-weight: 600; letter-spacing: 0.14em;
+    text-transform: uppercase; color: var(--accent, #d6392f); margin: 0 0 0.4rem;
+  }
+  .plaques-header h1 {
+    font-family: var(--display, Georgia, serif);
+    font-size: clamp(1.9rem, 5vw, 2.8rem);
+    line-height: 1.08; margin: 0 0 0.6rem;
+  }
+  .stand { color: var(--ink-soft, #22344a); margin: 0; }
+
+  .plaques-controls { display: flex; flex-direction: column; gap: 0.6rem; margin-bottom: 0.9rem; }
+  #plaque-search {
+    width: 100%; max-width: 34rem;
+    padding: 0.65rem 0.9rem;
+    font: inherit;
+    border: 1px solid var(--line-strong, #cbc2b2);
+    border-radius: 0.6rem;
+    background: var(--surface, #fff);
+    color: var(--ink, #0e1b2c);
+  }
+  #plaque-search:focus-visible { outline: 2px solid var(--accent, #d6392f); outline-offset: 1px; }
+
+  .plaques-filters { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .plaques-filters button {
+    font: inherit; font-size: 0.82rem;
+    padding: 0.28rem 0.7rem 0.28rem 0.5rem;
+    border-radius: 999px;
+    border: 1px solid var(--line-strong, #cbc2b2);
+    background: var(--surface, #fff);
+    color: var(--ink, #0e1b2c);
+    cursor: pointer;
+    display: inline-flex; align-items: center; gap: 0.4rem;
+  }
+  .plaques-filters button .dot {
+    width: 0.7rem; height: 0.7rem; border-radius: 50%;
+    border: 1px solid rgb(0 0 0 / 0.25);
+    display: inline-block;
+  }
+  .plaques-filters button[aria-pressed="true"] {
+    background: var(--ink, #0e1b2c); color: #fff; border-color: var(--ink, #0e1b2c);
+  }
+  .plaques-count { font-size: 0.88rem; color: var(--muted, #5a6a7d); margin: 0; }
+
+  .plaques-map {
+    height: min(72vh, 40rem);
+    border-radius: 0.9rem;
+    border: 1px solid var(--line, #e2dbcf);
+    overflow: hidden;
+    background: var(--surface-strong, #f0ebe2);
+  }
+
+  .plaques-results {
+    list-style: none; padding: 0;
+    margin: 0.9rem 0 0;
+    display: grid; gap: 0.4rem;
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+  }
+  .plaques-results li { margin: 0; }
+  .plaques-results button {
+    font: inherit; font-size: 0.85rem; text-align: left; width: 100%;
+    padding: 0.5rem 0.7rem;
+    border: 1px solid var(--line, #e2dbcf);
+    border-radius: 0.6rem;
+    background: var(--surface, #fff);
+    color: var(--ink, #0e1b2c);
+    cursor: pointer;
+  }
+  .plaques-results button:hover { border-color: var(--accent, #d6392f); }
+  .plaques-results .where { display: block; color: var(--muted, #5a6a7d); font-size: 0.78rem; }
+
+  .plaques-footer { margin-top: 1.5rem; font-size: 0.85rem; color: var(--muted, #5a6a7d); }
+  .plaques-footer p { margin: 0.3rem 0; }
+</style>
+
+<script>
+  // Everything below runs client-side. Data arrives by fetch, the map lazily.
+  const COLOUR_HEX: Record<string, string> = {
+    blue: "#2b6cb0", green: "#2f855a", brown: "#8b5e34", black: "#2d3242",
+    grey: "#718096", gray: "#718096", red: "#c53030", white: "#e2e8f0",
+    bronze: "#b0793a", gold: "#b7791f",
+    rainbow: "#d53f8c", terracotta: "#c05621", unknown: "#4a5568",
+  };
+  const colourHex = (c: string) => COLOUR_HEX[c] || COLOUR_HEX.unknown;
+
+  type Plaque = {
+    id: number; title: string; inscription: string;
+    lat: number; lng: number; colour: string;
+    org: string; erected: string; address: string; subject: string;
+  };
+
+  const mapEl = document.getElementById("plaques-map")!;
+  const searchEl = document.getElementById("plaque-search") as HTMLInputElement;
+  const filtersEl = document.getElementById("colour-filters")!;
+  const countEl = document.getElementById("plaque-count")!;
+  const resultsEl = document.getElementById("plaque-results")!;
+
+  const esc = (s: string) =>
+    s.replace(/[&<>"']/g, (m) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[m]!);
+
+  // ------------------------------------------------------------ leaflet load
+  // Same one-loader pattern as the article maps: reuse window.L if another
+  // component got there first, otherwise inject once.
+  function loadCss(href: string, marker: string) {
+    if (document.querySelector(`link[${marker}]`)) return;
+    const l = document.createElement("link");
+    l.rel = "stylesheet"; l.href = href; l.setAttribute(marker, "");
+    document.head.appendChild(l);
+  }
+  function loadScript(src: string): Promise<void> {
+    return new Promise((res, rej) => {
+      const s = document.createElement("script");
+      s.src = src; s.onload = () => res(); s.onerror = rej;
+      document.head.appendChild(s);
+    });
+  }
+  async function loadLeaflet(): Promise<any> {
+    const w = window as any;
+    loadCss("https://unpkg.com/leaflet@1.9.4/dist/leaflet.css", "data-leaflet-styles");
+    loadCss("https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css", "data-mc-styles");
+    loadCss("https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css", "data-mcd-styles");
+    if (!w.L) await loadScript("https://unpkg.com/leaflet@1.9.4/dist/leaflet.js");
+    if (!w.L.markerClusterGroup) await loadScript("https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js");
+    return w.L;
+  }
+
+  // ------------------------------------------------------------------- state
+  let plaques: Plaque[] = [];
+  let activeColours = new Set<string>();   // empty = all
+  let query = "";
+  let map: any, cluster: any, L: any;
+  const markerById = new Map<number, any>();
+
+  function matches(p: Plaque): boolean {
+    if (activeColours.size && !activeColours.has(p.colour || "unknown")) return false;
+    if (!query) return true;
+    const hay = `${p.title} ${p.inscription} ${p.org} ${p.subject} ${p.address}`.toLowerCase();
+    return query.split(/\s+/).every((t) => hay.includes(t));
+  }
+
+  function popupHtml(p: Plaque): string {
+    const bits = [
+      p.erected && `Erected ${esc(p.erected)}`,
+      p.colour && esc(p.colour[0].toUpperCase() + p.colour.slice(1)),
+      p.org && esc(p.org),
+    ].filter(Boolean).join(" · ");
+    return `
+      <div style="max-width:16rem">
+        <strong>${esc(p.title)}</strong>
+        <p style="margin:.4em 0;font-style:italic">&ldquo;${esc(p.inscription)}&rdquo;</p>
+        ${p.address ? `<p style="margin:.2em 0">${esc(p.address)}</p>` : ""}
+        ${bits ? `<p style="margin:.2em 0;color:#666;font-size:.85em">${bits}</p>` : ""}
+        <a href="https://openplaques.org/plaques/${p.id}" rel="noopener" target="_blank">On Open Plaques →</a>
+      </div>`;
+  }
+
+  function render() {
+    const visible = plaques.filter(matches);
+    cluster.clearLayers();
+    markerById.clear();
+    const markers = visible.map((p) => {
+      const m = L.circleMarker([p.lat, p.lng], {
+        radius: 7, weight: 1.5, color: "#fff",
+        fillColor: colourHex(p.colour || "unknown"), fillOpacity: 0.92,
+      }).bindPopup(popupHtml(p));
+      markerById.set(p.id, m);
+      return m;
+    });
+    cluster.addLayers(markers);
+
+    countEl.textContent =
+      visible.length === plaques.length
+        ? `${plaques.length.toLocaleString("en-GB")} plaques`
+        : `${visible.length.toLocaleString("en-GB")} of ${plaques.length.toLocaleString("en-GB")} plaques match`;
+
+    // Result list only while actively filtering; capped so the DOM stays light.
+    resultsEl.innerHTML = "";
+    if ((query || activeColours.size) && visible.length && visible.length <= 60) {
+      for (const p of visible.slice(0, 60)) {
+        const li = document.createElement("li");
+        const b = document.createElement("button");
+        b.innerHTML = `${esc(p.title)}<span class="where">${esc(p.address || p.org || "")}</span>`;
+        b.addEventListener("click", () => focusPlaque(p.id));
+        li.appendChild(b);
+        resultsEl.appendChild(li);
+      }
+    }
+  }
+
+  function focusPlaque(id: number) {
+    const p = plaques.find((x) => x.id === id);
+    const m = markerById.get(id);
+    if (!p || !m) return;
+    map.setView([p.lat, p.lng], 17);
+    // markercluster needs a beat to unspiderfy before the popup can open
+    setTimeout(() => { cluster.zoomToShowLayer(m, () => m.openPopup()); }, 100);
+    history.replaceState(null, "", `#plaque-${id}`);
+  }
+
+  function buildColourFilters() {
+    const counts = new Map<string, number>();
+    for (const p of plaques) {
+      const c = p.colour || "unknown";
+      counts.set(c, (counts.get(c) ?? 0) + 1);
+    }
+    const ordered = [...counts.entries()].sort((a, b) => b[1] - a[1]);
+    for (const [colour, n] of ordered) {
+      if (n < 3) continue; // singleton colours are noise as filters
+      const b = document.createElement("button");
+      b.setAttribute("aria-pressed", "false");
+      b.innerHTML = `<span class="dot" style="background:${colourHex(colour)}"></span>${esc(colour)} (${n.toLocaleString("en-GB")})`;
+      b.addEventListener("click", () => {
+        const on = activeColours.has(colour);
+        if (on) activeColours.delete(colour);
+        else activeColours.add(colour);
+        b.setAttribute("aria-pressed", String(!on));
+        render();
+      });
+      filtersEl.appendChild(b);
+    }
+  }
+
+  let debounce: ReturnType<typeof setTimeout>;
+  searchEl.addEventListener("input", () => {
+    clearTimeout(debounce);
+    debounce = setTimeout(() => {
+      query = searchEl.value.trim().toLowerCase();
+      const url = new URL(location.href);
+      if (query) url.searchParams.set("q", searchEl.value.trim());
+      else url.searchParams.delete("q");
+      history.replaceState(null, "", url);
+      render();
+    }, 150);
+  });
+
+  // -------------------------------------------------------------------- boot
+  (async () => {
+    countEl.textContent = "Loading the map…";
+    try {
+      const [data, LL] = await Promise.all([
+        fetch("/plaques.json").then((r) => r.json()),
+        loadLeaflet(),
+      ]);
+      L = LL;
+      plaques = data.plaques;
+
+      map = L.map(mapEl, { scrollWheelZoom: true }).setView([51.5072, -0.1276], 12);
+      L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 19,
+        attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+      }).addTo(map);
+      cluster = L.markerClusterGroup({
+        chunkedLoading: true,
+        maxClusterRadius: 46,
+        spiderfyOnMaxZoom: true,
+        disableClusteringAtZoom: 17,
+      });
+      map.addLayer(cluster);
+
+      buildColourFilters();
+
+      // Deep links: ?q= pre-fills search, #plaque-N opens one plaque.
+      const qs = new URL(location.href).searchParams.get("q");
+      if (qs) { searchEl.value = qs; query = qs.toLowerCase(); }
+      render();
+      const m = location.hash.match(/^#plaque-(\d+)$/);
+      if (m) focusPlaque(Number(m[1]));
+    } catch (e) {
+      countEl.textContent = "The map could not load. The data is at /plaques.json.";
+      console.error(e);
+    }
+  })();
+</script>

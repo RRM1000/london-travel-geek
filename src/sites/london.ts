@@ -36,6 +36,7 @@ export const londonSite: SiteConfig = {
       imageKey: "areas",
       children: [
         { label: "Free things to do", href: "/free/" },
+        { label: "Plaques map", href: "/plaques/" },
         { label: "Best museums", href: "/articles/best-museums-london/" },
         { label: "Best views", href: "/articles/best-views-london/" },
         { label: "Hidden London", href: "/articles/hidden-london-secret-places/" },
