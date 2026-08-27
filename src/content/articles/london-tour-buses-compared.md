@@ -19,6 +19,12 @@ faq:
     a: "Not on a scheduled route. Transport for London's own route 15 page lists no heritage service, so the old Routemaster running you can hop onto is gone. Golden Tours runs an electric vintage Routemaster as a paid tour instead."
   - q: "How much does a London bus cost?"
     a: "£1.75 a journey with contactless or Oyster, capped at £5.25 a day. The Hopper fare means any further bus journeys within an hour of touching in are free, so a morning of hopping between sights can cost a single £1.75."
+heroImage: "../../assets/articles/london-tour-buses-compared/london-tour-buses-compared.jpg"
+heroImageAlt: "An open-top red sightseeing tour bus passing the Palace of Westminster"
+heroImageCredit: "Editor5807"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Big_Bus_Company_MHO358_E358_NUV_and_the_Palace_of_Westminster.JPG"
+heroImageLicense: "CC BY 3.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 ---
 
 Almost everything written about London tour buses is written by someone earning a commission on the ticket. So here is the thing those pages leave out: **London's ordinary red buses cover much of the same route for £1.75, capped at £5.25 a day**, and the top deck of a normal double-decker has the same view as the top deck of a tour bus.

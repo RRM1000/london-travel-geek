@@ -19,6 +19,12 @@ faq:
     a: "No. Helmets are not a legal requirement for cyclists or for rental e-scooter riders in the UK, though they are recommended. Hire schemes do not provide them, so bring your own if you want one."
   - q: "Can you cycle in London's Royal Parks?"
     a: "In most of them, on designated routes rather than everywhere. Hyde Park and Kensington Gardens have marked cycle routes, and Regent's Park has the Outer Circle road. Look for the signs — cycling off the permitted routes is an offence in the Royal Parks and is enforced."
+heroImage: "../../assets/articles/cycling-bike-hire-scooters-london/cycling-bike-hire-scooters-london.jpg"
+heroImageAlt: "A row of red Santander Cycles hire bikes locked into a docking station on a London street"
+heroImageCredit: "Nick-D"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Santander_Cycles_docking_station_in_Southwark_during_November_2015.jpg"
+heroImageLicense: "CC BY-SA 4.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
 
 Cycling is the fastest way to cover central London at street level, and the hire schemes make it possible without owning anything. The rules, though, are genuinely confusing — and one of them will get your vehicle impounded.
