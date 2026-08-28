@@ -90,6 +90,10 @@ Greenwich has its own share of the commemorative plaques marking where notable p
 7. **Greenwich Market** — Covered, daily, fullest Wednesday to Sunday. Food, crafts and antiques.
 8. **The Greenwich Foot Tunnel** — An 1902 tiled tunnel under the Thames to the Isle of Dogs. Free, open always, and the classic view back at Greenwich from the far side.
 
+![The National Maritime Museum's columned entrance, with two giant white anchors standing either side of the doorway](../../assets/articles/greenwich-area-guide/national-maritime-museum.jpg)
+
+*The National Maritime Museum, with the giant anchors outside its entrance.*
+
 ## Greenwich and North Greenwich Are Not the Same Place
 
 This is the single most common Greenwich mistake, so it is worth stating plainly.
