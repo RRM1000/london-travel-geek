@@ -155,7 +155,10 @@ const breadcrumbs = [
   #plaque-search:focus-visible { outline: 2px solid var(--accent, #d6392f); outline-offset: 1px; }
 
   .plaques-filters { display: flex; flex-wrap: wrap; gap: 0.4rem; }
-  .plaques-filters button {
+  /* :global() throughout this block - the chips themselves are built with
+     document.createElement in the client script, not written in this
+     template, so Astro's compile-time scoping attribute never reaches them. */
+  :global(.plaques-filters button) {
     font: inherit; font-size: 0.82rem;
     padding: 0.28rem 0.7rem 0.28rem 0.5rem;
     border-radius: 999px;
@@ -165,19 +168,19 @@ const breadcrumbs = [
     cursor: pointer;
     display: inline-flex; align-items: center; gap: 0.4rem;
   }
-  .plaques-filters button .dot {
+  :global(.plaques-filters button .dot) {
     width: 0.7rem; height: 0.7rem; border-radius: 50%;
     border: 1px solid rgb(0 0 0 / 0.25);
     display: inline-block;
   }
-  .plaques-filters button[aria-pressed="true"] {
+  :global(.plaques-filters button[aria-pressed="true"]) {
     background: var(--ink, #0e1b2c); color: #fff; border-color: var(--ink, #0e1b2c);
   }
-  .plaques-filters button.is-star {
+  :global(.plaques-filters button.is-star) {
     border-color: var(--highlight, #f2a93b); color: var(--amber-ink, #8a5a0d);
     font-weight: 600;
   }
-  .plaques-filters button.is-star[aria-pressed="true"] {
+  :global(.plaques-filters button.is-star[aria-pressed="true"]) {
     background: var(--highlight, #f2a93b); color: #402c04; border-color: var(--highlight, #f2a93b);
   }
   .plaques-typeahead { position: relative; max-width: 34rem; }
@@ -193,29 +196,31 @@ const breadcrumbs = [
     box-shadow: 0 12px 32px rgb(14 27 44 / 0.16);
     max-height: 19rem; overflow-y: auto;
   }
-  .plaques-suggest li { margin: 0; }
-  .plaques-suggest button {
+  /* :global() - every <li>/<button> here is built by updateSuggest() in the
+     client script, not written in this template, same scoping gap as above. */
+  :global(.plaques-suggest li) { margin: 0; }
+  :global(.plaques-suggest button) {
     display: flex; gap: 0.5rem; align-items: baseline;
     width: 100%; text-align: left; font: inherit; font-size: 0.88rem;
     padding: 0.42rem 0.55rem; border: 0; border-radius: 0.4rem;
     background: none; color: var(--ink, #0e1b2c); cursor: pointer;
   }
-  .plaques-suggest button:hover,
-  .plaques-suggest li[aria-selected="true"] button {
+  :global(.plaques-suggest button:hover),
+  :global(.plaques-suggest li[aria-selected="true"] button) {
     background: var(--surface-strong, #f0ebe2);
   }
-  .plaques-suggest .s-dot {
+  :global(.plaques-suggest .s-dot) {
     flex: none; width: 0.6rem; height: 0.6rem; border-radius: 50%;
     border: 1px solid rgb(0 0 0 / 0.25); margin-top: 0.28rem;
   }
-  .plaques-suggest .s-main { flex: 1; min-width: 0; }
-  .plaques-suggest .s-name { display: block; font-weight: 600; }
-  .plaques-suggest .s-where {
+  :global(.plaques-suggest .s-main) { flex: 1; min-width: 0; }
+  :global(.plaques-suggest .s-name) { display: block; font-weight: 600; }
+  :global(.plaques-suggest .s-where) {
     display: block; color: var(--muted, #5a6a7d); font-size: 0.78rem;
     overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
   }
-  .plaques-suggest mark { background: #ffe9a8; color: inherit; border-radius: 0.15rem; }
-  .plaques-suggest .s-more {
+  :global(.plaques-suggest mark) { background: #ffe9a8; color: inherit; border-radius: 0.15rem; }
+  :global(.plaques-suggest .s-more) {
     padding: 0.35rem 0.55rem; font-size: 0.78rem; color: var(--muted, #5a6a7d);
   }
 
@@ -265,26 +270,27 @@ const breadcrumbs = [
     padding: 0.15rem 0.4rem;
   }
   .plaques-list-items { list-style: none; margin: 0; padding: 0; }
-  .plaques-list-items li {
+  /* :global() - rows are built by renderListRow() in the client script. */
+  :global(.plaques-list-items li) {
     border-bottom: 1px solid var(--line, #e2dbcf);
   }
-  .plaques-list-items li:last-child { border-bottom: 0; }
-  .plaques-list-items button {
+  :global(.plaques-list-items li:last-child) { border-bottom: 0; }
+  :global(.plaques-list-items button) {
     display: flex; gap: 0.65rem; align-items: baseline; width: 100%;
     font: inherit; text-align: left; padding: 0.55rem 0.3rem;
     border: 0; background: none; color: var(--ink, #0e1b2c); cursor: pointer;
   }
-  .plaques-list-items button:hover { background: var(--surface-strong, #f0ebe2); }
-  .plaques-list-items .l-dot {
+  :global(.plaques-list-items button:hover) { background: var(--surface-strong, #f0ebe2); }
+  :global(.plaques-list-items .l-dot) {
     flex: none; width: 0.7rem; height: 0.7rem; border-radius: 50%;
     margin-top: 0.3rem; border: 1px solid rgb(0 0 0 / 0.25);
   }
-  .plaques-list-items .l-star {
+  :global(.plaques-list-items .l-star) {
     flex: none; color: var(--highlight, #f2a93b); font-weight: 700;
   }
-  .plaques-list-items .l-main { flex: 1; min-width: 0; }
-  .plaques-list-items .l-name { display: block; font-weight: 600; }
-  .plaques-list-items .l-where {
+  :global(.plaques-list-items .l-main) { flex: 1; min-width: 0; }
+  :global(.plaques-list-items .l-name) { display: block; font-weight: 600; }
+  :global(.plaques-list-items .l-where) {
     display: block; color: var(--muted, #5a6a7d); font-size: 0.82rem;
   }
   .plaques-list-more {
@@ -301,8 +307,9 @@ const breadcrumbs = [
     display: grid; gap: 0.4rem;
     grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
   }
-  .plaques-results li { margin: 0; }
-  .plaques-results button {
+  /* :global() - rows are built by render() in the client script. */
+  :global(.plaques-results li) { margin: 0; }
+  :global(.plaques-results button) {
     font: inherit; font-size: 0.85rem; text-align: left; width: 100%;
     padding: 0.5rem 0.7rem;
     border: 1px solid var(--line, #e2dbcf);
@@ -311,8 +318,8 @@ const breadcrumbs = [
     color: var(--ink, #0e1b2c);
     cursor: pointer;
   }
-  .plaques-results button:hover { border-color: var(--accent, #d6392f); }
-  .plaques-results .where { display: block; color: var(--muted, #5a6a7d); font-size: 0.78rem; }
+  :global(.plaques-results button:hover) { border-color: var(--accent, #d6392f); }
+  :global(.plaques-results .where) { display: block; color: var(--muted, #5a6a7d); font-size: 0.78rem; }
 
   .plaques-footer { margin-top: 1.5rem; font-size: 0.85rem; color: var(--muted, #5a6a7d); }
   .plaques-footer p { margin: 0.3rem 0; }
