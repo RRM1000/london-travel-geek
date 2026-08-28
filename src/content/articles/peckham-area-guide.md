@@ -70,7 +70,7 @@ Peckham is the most-changed part of London in the last fifteen years and still t
 
 Both things are true at once, and neither has replaced the other. That is the whole appeal.
 
-Peckham has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=peckham).
+Peckham has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=peckham).
 
 ## Why visit — and who should skip it
 

@@ -32,7 +32,7 @@ faq:
 
 More than a thousand official blue plaques exist in London, and the pleasure of them is entirely in the specifics: Mozart wrote his first symphony in Belgravia **aged eight**, Engels hosted Marx in Primrose Hill for twenty years, and Handel and Hendrix lived in adjoining Mayfair houses two centuries apart.
 
-This is a guide to the ones worth building a walk around. For everything else, [our interactive map](/plaques/) has every plaque in London — official and unofficial — searchable by name and inscription.
+This is a guide to the ones worth building a walk around. For everything else, our [interactive map](/plaques/) has every plaque in London — official and unofficial — searchable by name and inscription.
 
 > 💡 **The Short Version:** **Belgravia** has Mozart, Mary Shelley, Fleming and Tennyson in one short walk. **Bloomsbury** has Dickens, Darwin and Keynes. **Mayfair** has Handel and Hendrix next door to each other, and both houses are open as one museum. **St James's** has the oldest surviving plaque in London, put up in 1867 while its subject was still alive and still ruling France.
 
@@ -194,7 +194,7 @@ Where Van Gogh lodged as a young art dealer in his twenties, **years before he h
 
 ## Beyond the walk: names famous the world over
 
-The guide above is organised around **proximity** — plaques worth detouring for because several sit close together. This list is organised around something else: people whose fame has nothing to do with London at all, gathered here because their London plaque is often the only physical marker of them anywhere. Every name below is also starred on [the interactive map](/plaques/).
+The guide above is organised around **proximity** — plaques worth detouring for because several sit close together. This list is organised around something else: people whose fame has nothing to do with London at all, gathered here because their London plaque is often the only physical marker of them anywhere. Every name below is also starred on the [interactive map](/plaques/).
 
 **Science**
 

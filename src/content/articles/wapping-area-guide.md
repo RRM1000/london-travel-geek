@@ -70,7 +70,7 @@ Wapping is a narrow strip between the Thames and the old dock walls, and for two
 
 The warehouses that replaced all that were converted into flats in the 1980s, and what is left is a cobbled, quiet, remarkably intact piece of riverside London with three very old pubs in it.
 
-Wapping has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=wapping).
+Wapping has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=wapping).
 
 ## Why visit — and who should skip it
 

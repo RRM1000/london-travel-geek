@@ -73,7 +73,7 @@ Soho is roughly one square kilometre bounded by Oxford Street, Regent Street, Sh
 
 It is also two different places depending on when you arrive. By day it is a working media district with good coffee and quiet streets. From about 18:00 it becomes the busiest nightlife area in London.
 
-Soho has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=soho).
+Soho has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=soho).
 
 ## Why visit — and who should skip it
 

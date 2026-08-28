@@ -70,7 +70,7 @@ Mayfair is a Georgian grid laid out from the 1720s between Oxford Street, Regent
 
 It is also less closed off than it looks. The Victorian arcades are public passages, the Royal Academy's courtyard is free, and the dozens of commercial art galleries on and around Cork Street will let anyone walk in.
 
-Mayfair has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=mayfair).
+Mayfair has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=mayfair).
 
 ## Why visit — and who should skip it
 

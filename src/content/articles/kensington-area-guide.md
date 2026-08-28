@@ -74,7 +74,7 @@ Kensington is the stretch between Notting Hill and the museums: a royal palace, 
 
 It is also where several of London's best-known sights actually sit — Kensington Palace, the Albert Memorial and the Serpentine galleries are all here, in Kensington Gardens rather than Hyde Park, which is the adjoining park to the east.
 
-Kensington has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=kensington).
+Kensington has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=kensington).
 
 ## Why visit — and who should skip it
 

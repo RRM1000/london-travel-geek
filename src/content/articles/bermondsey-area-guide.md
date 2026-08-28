@@ -74,7 +74,7 @@ Bermondsey is what happens when a Victorian goods yard is left alone long enough
 
 It sits immediately east of Borough Market, and the two make an obvious pair.
 
-Bermondsey has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=bermondsey).
+Bermondsey has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=bermondsey).
 
 ## Why visit — and who should skip it
 

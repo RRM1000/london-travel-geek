@@ -29,7 +29,7 @@ faq:
 
 There are around **3,630 commemorative plaques** across Greater London — small round markers noting that someone notable lived, worked or died in a particular building. Most people walk past them without knowing who put them there, why they come in different colours, or what a person has to do to get one.
 
-This guide covers how they work. For the ones worth making a trip for, see **[the plaques worth walking to](/articles/london-blue-plaques/)**; to find any of them by name or address, use **[our interactive map](/plaques/)**.
+This guide covers how they work. For the ones worth making a trip for, see **[the plaques worth walking to](/articles/london-blue-plaques/)**; to find any of them by name or address, use **our [interactive map](/plaques/)**.
 
 > 💡 **The Short Version:** English Heritage runs the official scheme, but it is only one of many. Of London's 3,630 plaques, fewer than 1,000 are official ones. The rest come from the City of London Corporation, borough councils and dozens of independent trusts and societies — which is why the colours vary so much.
 

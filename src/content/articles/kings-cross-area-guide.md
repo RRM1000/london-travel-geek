@@ -71,7 +71,7 @@ King's Cross is the most complete piece of urban redevelopment in modern London.
 
 It is also the point where two great stations, six Tube lines, the Eurostar and the Regent's Canal all meet, which makes it the most useful arrival point in London.
 
-King's Cross has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=kings-cross).
+King's Cross has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=kings-cross).
 
 ## Why visit — and who should skip it
 
