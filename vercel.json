@@ -2,6 +2,16 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     {
+      "source": "/articles/london-plaque-colours",
+      "destination": "/articles/london-plaques-guide",
+      "permanent": true
+    },
+    {
+      "source": "/articles/london-plaque-colours/",
+      "destination": "/articles/london-plaques-guide/",
+      "permanent": true
+    },
+    {
       "source": "/articles/oyster-card-train-lines-in-london",
       "destination": "/articles/london-tube-and-rail-lines-guide",
       "permanent": true

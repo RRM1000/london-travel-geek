@@ -263,7 +263,7 @@ Most people assume any blue disc is official. Most are not — of the 3,630 plaq
 
 **The quick test:** if it commemorates a shop, a band, an event, a building or somebody still alive, it is not an English Heritage plaque.
 
-For the full breakdown — which colour belongs to which scheme, and what the specialist ones like the film-cell plaques mean — see **[what London's plaque colours actually mean](/articles/london-plaque-colours/)**.
+For the full breakdown of the schemes, the colours and the rules, see our **[guide to how London's plaques work](/articles/london-plaques-guide/)**.
 
 ---
 
@@ -281,7 +281,7 @@ For the full breakdown — which colour belongs to which scheme, and what the sp
 ## What to know
 
 * **Nearly all are private homes.** Look from the pavement.
-* **The criteria are strict** — 20 years since death, a surviving building outside the City, visible from the street. Churches, schools and theatres are not normally considered because too many people passed through them. [The full rules, and how the other schemes differ](/articles/london-plaque-colours/).
+* **The criteria are strict** — 20 years since death, a surviving building outside the City, visible from the street. Churches, schools and theatres are not normally considered because too many people passed through them. [The full rules, and how the other schemes differ](/articles/london-plaques-guide/).
 * **English Heritage publish a searchable map** of every official plaque, which is more complete than any guide.
 * **Four addresses are open to the public**: Handel Hendrix House, the Charles Dickens Museum, Keats House and the Freud Museum. Everything else is somebody's front wall.
 * **New plaques go up every year.** 2025 brought Audrey Hepburn and Marc Bolan among others; the 2026 round includes the astronomer **Cecilia Payne-Gaposchkin** in Notting Hill and **Laurence Olivier** in Pimlico. Announcement and installation are not the same day, so check before travelling for a brand-new one.
