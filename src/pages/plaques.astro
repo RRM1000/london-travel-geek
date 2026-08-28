@@ -34,6 +34,29 @@ try {
 // the note in plaques-featured.json for why that matters.
 const featuredIds = featured.plaques.map((p) => p.id);
 
+// What each colour actually means - checked against this dataset's own
+// `organisations` field, not a general "blue plaques" explainer, since real
+// schemes vary a lot by borough. Only colours with one clear dominant issuer
+// get a specific line; the rest are covered by the closing note below.
+const COLOUR_LEGEND = [
+  { colour: "blue", hex: "#2b6cb0", label: "Blue",
+    note: "The official scheme — mostly English Heritage's London-wide plaques, plus some from the City of London Corporation." },
+  { colour: "green", hex: "#2f855a", label: "Green",
+    note: "Mostly the City of Westminster's own scheme, plus several boroughs running their own." },
+  { colour: "brown", hex: "#8b5e34", label: "Brown",
+    note: "Mostly the London Borough of Hackney's own scheme." },
+  { colour: "film cell", hex: "#33363b", label: "Film cell",
+    note: "British Film Institute plaques for people in film — shaped like a strip of celluloid, whatever the actual colour." },
+  { colour: "maroon", hex: "#7b241c", label: "Maroon",
+    note: "Mostly the London Borough of Lewisham's own scheme." },
+  { colour: "marble", hex: "#c7c2b8", label: "Marble",
+    note: "Mostly the Police Memorial Trust, commemorating police officers." },
+  { colour: "red and black", hex: "#c53030", label: "Red & black",
+    note: "Mostly the Institution of Mechanical Engineers' own scheme." },
+  { colour: "pink", hex: "#d391b0", label: "Pink",
+    note: "Highgate Heritage's own scheme." },
+];
+
 const title = "London Plaques Map";
 const description = `Every commemorative plaque in London on one searchable map — ${count.toLocaleString("en-GB")} of them, from official blue plaques to borough, Nubian Jak and rainbow schemes.`;
 
@@ -51,11 +74,12 @@ const breadcrumbs = [
     <header class="plaques-header">
       <Breadcrumbs items={breadcrumbs} />
       <p class="eyebrow">Things to do · Free</p>
-      <h1>Every plaque in London</h1>
+      <h1>The London Plaques Map</h1>
       <p class="stand">
-        {count.toLocaleString("en-GB")} commemorative plaques — the official English
-        Heritage blue ones, the green Westminster ones, the Nubian Jak, borough and
-        rainbow schemes — searchable by name, inscription or organisation.
+        Those blue, green, brown and black roundels fixed to buildings across the
+        city mark where someone notable lived, worked or made history — this map
+        has all {count.toLocaleString("en-GB")} of them. Search a name, filter by
+        colour or subject, or switch to the list to browse.
         Reading first? Start with <a href="/articles/london-blue-plaques/">the 23 worth walking to</a>.
       </p>
     </header>
@@ -78,6 +102,26 @@ const breadcrumbs = [
       </div>
       <div class="plaques-filters" id="category-filters" aria-label="Filter by subject"></div>
       <div class="plaques-filters" id="colour-filters" aria-label="Filter by plaque colour"></div>
+
+      <details class="plaques-legend">
+        <summary>What do the plaque colours mean?</summary>
+        <dl>
+          {COLOUR_LEGEND.map((c) => (
+            <div class="legend-row">
+              <dt><span class="legend-dot" style={`background:${c.hex}`}></span>{c.label}</dt>
+              <dd>{c.note}</dd>
+            </div>
+          ))}
+        </dl>
+        <p class="legend-more">
+          Black, bronze, stone, white, grey, brass, slate, red, multicoloured
+          and the rest are mostly individual boroughs, heritage societies and
+          specialist trusts (the Transport Trust, Firemen Remembered, and
+          others) — no single scheme, but a real one behind each. Filter by
+          colour above to see who's behind any of them.
+        </p>
+      </details>
+
       <div class="plaques-viewrow">
         <p class="plaques-count" id="plaque-count" aria-live="polite"></p>
         <div class="plaques-viewtoggle" role="group" aria-label="Map or list view">
@@ -173,8 +217,11 @@ const breadcrumbs = [
     border: 1px solid rgb(0 0 0 / 0.25);
     display: inline-block;
   }
+  /* A light tint of the accent, not a solid fill - a solid dark/red chip
+     read as harsh once several were active at once. */
   :global(.plaques-filters button[aria-pressed="true"]) {
-    background: var(--ink, #0e1b2c); color: #fff; border-color: var(--ink, #0e1b2c);
+    background: rgb(214 57 47 / 0.12); color: var(--accent, #d6392f);
+    border-color: var(--accent, #d6392f); font-weight: 600;
   }
   :global(.plaques-filters button.is-star) {
     border-color: var(--highlight, #f2a93b); color: var(--amber-ink, #8a5a0d);
@@ -224,6 +271,40 @@ const breadcrumbs = [
     padding: 0.35rem 0.55rem; font-size: 0.78rem; color: var(--muted, #5a6a7d);
   }
 
+  .plaques-legend {
+    border: 1px solid var(--line, #e2dbcf);
+    border-radius: 0.6rem;
+    background: var(--surface, #fff);
+    padding: 0.15rem 0.8rem;
+  }
+  .plaques-legend summary {
+    padding: 0.55rem 0; font-size: 0.85rem; font-weight: 600; cursor: pointer;
+    list-style: none;
+  }
+  .plaques-legend summary::-webkit-details-marker { display: none; }
+  .plaques-legend summary::before { content: "▸ "; color: var(--muted, #5a6a7d); }
+  .plaques-legend[open] summary::before { content: "▾ "; }
+  .plaques-legend dl {
+    margin: 0 0 0.7rem;
+    display: grid; gap: 0.5rem 1.2rem;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  }
+  .legend-row dt {
+    display: flex; align-items: center; gap: 0.45rem;
+    font-weight: 600; font-size: 0.85rem; margin: 0;
+  }
+  .legend-row dd {
+    margin: 0.15rem 0 0; font-size: 0.82rem; color: var(--muted, #5a6a7d);
+  }
+  .legend-dot {
+    width: 0.75rem; height: 0.75rem; border-radius: 50%; flex: none;
+    border: 1px solid rgb(0 0 0 / 0.25);
+  }
+  .legend-more {
+    margin: 0 0 0.7rem; font-size: 0.82rem; color: var(--muted, #5a6a7d);
+    border-top: 1px solid var(--line, #e2dbcf); padding-top: 0.6rem;
+  }
+
   .plaques-viewrow {
     display: flex; align-items: center; justify-content: space-between;
     gap: 0.75rem; flex-wrap: wrap;
@@ -240,7 +321,7 @@ const breadcrumbs = [
     background: none; color: var(--muted, #5a6a7d); cursor: pointer;
   }
   .plaques-viewtoggle button[aria-pressed="true"] {
-    background: var(--ink, #0e1b2c); color: #fff;
+    background: rgb(214 57 47 / 0.12); color: var(--accent, #d6392f);
   }
 
   .plaques-map {
@@ -249,6 +330,13 @@ const breadcrumbs = [
     border: 1px solid var(--line, #e2dbcf);
     overflow: hidden;
     background: var(--surface-strong, #f0ebe2);
+    /* Leaflet's own panes/controls run z-index up to 700-1000. Without this,
+       that competes directly against the site's sticky header (z-index: 90)
+       in the SAME stacking context and wins, so the map visibly renders on
+       top of the header once it's scrolled up over the map. isolation walls
+       off everything inside the map so its internal z-index chaos can never
+       be compared against anything outside this box. */
+    isolation: isolate;
   }
 
   .plaques-list {
@@ -352,19 +440,31 @@ const breadcrumbs = [
   :global(.plaque-pop a) { color: var(--secondary, #1d4e89); font-weight: 600; font-size: 0.88em; }
 
   /* Clusters: the plugin's default green-yellow traffic lights fight every
-     palette. Ink circles with white counts match the site instead. */
+     palette, but a solid dark disc (ink black, then accent red) read as
+     harsh at this density - dozens of them covering the whole map. A pale
+     warm amber with dark text carries the same "here's a count" job without
+     the wall-of-dark-dots effect. */
   :global(.plaques-map .marker-cluster),
   :global(.plaques-map .marker-cluster div) {
-    background: rgb(14 27 44 / 0.82);
-    color: #fff;
+    background: rgb(242 169 59 / 0.92);
+    color: var(--ink, #0e1b2c);
   }
   :global(.plaques-map .marker-cluster) {
-    border: 3px solid rgb(255 255 255 / 0.85);
-    box-shadow: 0 1px 4px rgb(14 27 44 / 0.3);
+    border: 3px solid rgb(255 255 255 / 0.9);
+    box-shadow: 0 1px 4px rgb(14 27 44 / 0.22);
   }
   :global(.plaques-map .marker-cluster div) {
     font: 600 0.78rem/1 var(--body, system-ui, sans-serif);
     display: flex; align-items: center; justify-content: center;
+  }
+  /* The plugin's own CSS gives the count <span> a fixed line-height matching
+     the circle's full height (e.g. 30px), which fills the flex parent
+     completely and leaves flex nothing left to centre - the number then
+     sits whatever way that line-height's leading happens to fall, usually
+     a little high. Collapsing it to the text's natural height lets the
+     parent's flex centring actually do the job. */
+  :global(.plaques-map .marker-cluster span) {
+    line-height: 1;
   }
 </style>
 
@@ -375,8 +475,20 @@ const breadcrumbs = [
     grey: "#718096", gray: "#718096", red: "#c53030", white: "#e2e8f0",
     bronze: "#b0793a", gold: "#b7791f",
     rainbow: "#d53f8c", terracotta: "#c05621", unknown: "#4a5568",
+    maroon: "#7b241c", pink: "#d391b0", brass: "#a68a3c", stone: "#9c9284",
+    slate: "#51606b", "brushed metal": "#9aa5ad", "film cell": "#33363b",
+    marble: "#c7c2b8", yellow: "#c9a227", claret: "#6e1423",
+    purple: "#6b46c1", orange: "#dd6b20", clear: "#cbd5e0", wood: "#7c5a3a",
   };
-  const colourHex = (c: string) => COLOUR_HEX[c] || COLOUR_HEX.unknown;
+  // A couple of colours are genuinely two-tone or many-tone - a single hex
+  // can't represent them honestly, so these get a small gradient instead.
+  const COLOUR_GRADIENT: Record<string, string> = {
+    "red and black": "conic-gradient(#c53030 0deg 180deg, #2d3242 180deg 360deg)",
+    multicoloured: "conic-gradient(#d6392f, #f2a93b, #2f855a, #2b6cb0, #6b46c1, #d6392f)",
+    "green and red": "conic-gradient(#2f855a 0deg 180deg, #c53030 180deg 360deg)",
+    "belgian blue stone": "#51606b",
+  };
+  const colourHex = (c: string) => COLOUR_GRADIENT[c] || COLOUR_HEX[c] || COLOUR_HEX.unknown;
 
   type Plaque = {
     id: number; title: string; inscription: string;
