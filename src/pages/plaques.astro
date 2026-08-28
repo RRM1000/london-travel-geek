@@ -160,7 +160,7 @@ const breadcrumbs = [
 
     <footer class="plaques-footer">
       <p>
-        Data: Open Plaques (public domain){fetched && fetched !== "stub" ? `, fetched ${fetched}` : ""}.
+        Data: <a href="https://openplaques.org" target="_blank" rel="noopener">Open Plaques</a> (public domain){fetched && fetched !== "stub" ? `, fetched ${fetched}` : ""}.
         Map © <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap</a> contributors.
       </p>
       <p>
@@ -467,6 +467,7 @@ const breadcrumbs = [
     color: var(--amber-ink, #8a5a0d); font-weight: 600; font-size: 0.85em;
   }
   :global(.plaque-pop-featured a) { color: inherit; text-decoration: underline; }
+  :global(.plaque-pop-src) { margin: 0.45em 0 0; font-size: 0.82em; }
   :global(.plaque-pop a) { color: var(--secondary, #1d4e89); font-weight: 600; font-size: 0.88em; }
 
   /* Clusters: the plugin's default green-yellow traffic lights fight every
@@ -684,6 +685,7 @@ const breadcrumbs = [
         ${p.address ? `<p class="plaque-pop-addr">${esc(p.address)}</p>` : ""}
         ${bits ? `<p class="plaque-pop-meta">${bits}</p>` : ""}
         ${featured}
+        <p class="plaque-pop-src"><a href="https://openplaques.org/plaques/${p.id}" target="_blank" rel="noopener">Photos and details on Open Plaques →</a></p>
       </div>`;
   }
 
