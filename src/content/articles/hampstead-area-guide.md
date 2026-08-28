@@ -73,6 +73,8 @@ Hampstead is a hilltop village that London grew around without ever quite absorb
 
 It also has a free house full of Old Masters, and three ponds you can legally swim in year-round.
 
+Curious what else is nearby? [Every plaque in Hampstead](/plaques/?area=hampstead) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you want a day outdoors that still feels like London. The Heath is the best walking in the city, Parliament Hill has a legally protected view over the whole skyline, and Kenwood House at the top is free and holds a Rembrandt and a Vermeer.

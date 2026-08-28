@@ -73,6 +73,8 @@ Soho is roughly one square kilometre bounded by Oxford Street, Regent Street, Sh
 
 It is also two different places depending on when you arrive. By day it is a working media district with good coffee and quiet streets. From about 18:00 it becomes the busiest nightlife area in London.
 
+Curious what else is nearby? [Every plaque in Soho](/plaques/?area=soho) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you want to eat and drink well, or you want London with the volume turned up. Soho has the best concentration of restaurants in the city at every price point, from £8 roast duck on Gerrard Street to tasting menus on Lexington Street.

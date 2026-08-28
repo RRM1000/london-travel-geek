@@ -69,6 +69,8 @@ Canary Wharf is built on the West India Docks, which handled the sugar and rum t
 
 The docks are the point. Nearly every walkway here runs alongside a stretch of Victorian dock, and the contrast between the water, the surviving warehouses and the glass above them is what makes the place worth an afternoon.
 
+Curious what else is nearby? [Every plaque in Canary Wharf](/plaques/?area=canary-wharf) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you like modern architecture, or want to swim in a dock between skyscrapers, or want a free museum and a roof garden almost nobody visits, or it is raining — much of Canary Wharf is connected by covered walkway and underground mall.

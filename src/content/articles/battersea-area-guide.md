@@ -70,6 +70,8 @@ For forty years Battersea Power Station was a ruin with four chimneys — the mo
 
 Fifteen minutes west is Battersea Park, which was here long before the power station and is the better half of the visit.
 
+Curious what else is nearby? [Every plaque in Battersea](/plaques/?area=battersea) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you like industrial architecture, or you want a park with a river view that is not full of tourists. The two turbine halls are genuinely impressive and cost nothing to walk into.

@@ -74,6 +74,8 @@ Westminster is the London of postcards: the Elizabeth Tower, the Palace of Westm
 
 It is also the most concentrated sightseeing in the city. Almost everything worth seeing sits within a fifteen-minute walk, which is both the appeal and the problem.
 
+Curious what else is nearby? [Every plaque in Westminster](/plaques/?area=westminster) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** it is your first trip to London. This is the non-negotiable half day — the landmarks that make the city recognisable, all within walking distance of each other, most of them viewable for free from the street.

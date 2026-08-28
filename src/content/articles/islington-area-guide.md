@@ -74,6 +74,8 @@ Islington is a mile of Georgian terrace running north from Angel, and it has mor
 
 There are no landmarks here. Islington is a place to eat, drink, browse and see something in the evening.
 
+Curious what else is nearby? [Every plaque in Islington](/plaques/?area=islington) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you want dinner and a show without West End prices, or you like antiques and secondhand books. The Almeida punches well above its 325 seats, and the Union Chapel is the most atmospheric small venue in London.

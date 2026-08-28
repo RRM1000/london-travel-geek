@@ -70,6 +70,8 @@ Peckham is the most-changed part of London in the last fifteen years and still t
 
 Both things are true at once, and neither has replaced the other. That is the whole appeal.
 
+Curious what else is nearby? [Every plaque in Peckham](/plaques/?area=peckham) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you want to see how London actually eats and drinks outside the centre, and you want a view over the city that costs the price of a beer.

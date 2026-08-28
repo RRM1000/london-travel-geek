@@ -71,6 +71,8 @@ Greenwich is a UNESCO World Heritage Site and the only part of London where the 
 
 It also holds the line the world sets its clocks by. Greenwich Mean Time and longitude zero are both defined here.
 
+Curious what else is nearby? [Every plaque in Greenwich](/plaques/?area=greenwich) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you want a full day out of central London that still feels essential. Greenwich has the best free view in the city, a genuine village centre, a market, a park with deer, and enough maritime history to fill a day.

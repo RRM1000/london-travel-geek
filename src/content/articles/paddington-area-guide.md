@@ -69,6 +69,8 @@ Paddington is where most visitors arrive rather than somewhere they set out to s
 
 But ten minutes north of the platforms the character changes completely. **Little Venice** is a canal basin lined with moored narrowboats, waterside pubs and floating cafes, and it is the start of one of the best walks in London.
 
+Curious what else is nearby? [Every plaque in Paddington](/plaques/?area=paddington) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you want a canal walk, a narrowboat trip to Camden, or a well-connected and comparatively affordable base for a first London trip. Little Venice is genuinely lovely and surprisingly quiet given how central it is.

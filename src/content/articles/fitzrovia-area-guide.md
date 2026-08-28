@@ -78,6 +78,8 @@ Fitzrovia has no famous sight, no market and no reason to appear on a first-time
 
 The area is a rough square between Oxford Street and Euston Road, walked through constantly by people going somewhere else. Look up and it is Georgian terraces and the BT Tower. Look at street level on Charlotte Street or Goodge Street and it is thirty years of restaurant history stacked side by side.
 
+Curious what else is nearby? [Every plaque in Fitzrovia](/plaques/?area=fitzrovia) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you want dinner. Fitzrovia holds more good restaurants across more cuisines than any comparable patch of central London, and unlike Soho you can usually get a table.

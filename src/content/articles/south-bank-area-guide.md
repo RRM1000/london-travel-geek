@@ -70,6 +70,8 @@ The South Bank is a continuous riverside walk from Westminster Bridge east to To
 
 It is also the answer to bad weather: Tate Modern, the Southbank Centre, the BFI and Borough Market's covered halls are all on the route and all free to walk into.
 
+Curious what else is nearby? [Every plaque in the South Bank](/plaques/?area=south-bank) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you have half a day and want to see a lot of London without planning anything. The walk connects Westminster, the Thames, three major free galleries, a great food market and Tower Bridge in one flat, signposted line.

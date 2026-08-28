@@ -72,6 +72,8 @@ The City of London is the original city: a square mile on the Roman street plan,
 
 It is also the strangest place in London to visit, because roughly half a million people work here and only about eight thousand live here. On a weekday it is a crush. On a Sunday morning you can stand in the middle of a medieval street and hear nothing.
 
+Curious what else is nearby? [Every plaque in the City of London](/plaques/?area=city-of-london) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you want history stacked on history — a Wren cathedral, a Norman keep, fragments of Roman wall, and glass towers built over all of it. It also has the two best free viewpoints in London.

@@ -75,6 +75,8 @@ Notting Hill is a west London village of pastel terraces, antique arcades and a 
 
 This guide covers what is actually open when, which streets have the houses you have seen online, and how to combine Notting Hill with the canal walk east that most people miss entirely.
 
+Curious what else is nearby? [Every plaque in Notting Hill](/plaques/?area=notting-hill) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you like browsing more than ticking off landmarks. Notting Hill rewards slow wandering: antique arcades, secondhand bookshops, independent boutiques on Westbourne Grove and a genuinely excellent pub scene. It is the best area in London for vintage and antiques by a wide margin, and one of the prettiest to walk through in good weather.

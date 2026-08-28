@@ -71,6 +71,8 @@ Camden built its reputation on markets and music, and it still trades on both. W
 
 It is not subtle, and it is not for everyone. But the canal, Primrose Hill fifteen minutes north-west, and the surviving music venues make it more than the T-shirt stalls suggest.
 
+Curious what else is nearby? [Every plaque in Camden](/plaques/?area=camden) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you want street food, vintage, or live music, or you want to walk the Regent's Canal. The food at Camden Lock is genuinely good and genuinely cheap — dozens of traders, most under £10.

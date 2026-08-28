@@ -70,6 +70,8 @@ Wapping is a narrow strip between the Thames and the old dock walls, and for two
 
 The warehouses that replaced all that were converted into flats in the 1980s, and what is left is a cobbled, quiet, remarkably intact piece of riverside London with three very old pubs in it.
 
+Curious what else is nearby? [Every plaque in Wapping](/plaques/?area=wapping) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you like old pubs and river walks. Wapping has the best concentration of genuinely historic riverside pubs in London, all with terraces over the water, and you can walk the whole area in an hour.

@@ -72,6 +72,8 @@ Richmond is a Georgian riverside town that London grew around rather than absorb
 
 It is about 30 minutes from central London on the District line, and it is the most straightforward way to spend a day outdoors without leaving the city.
 
+Curious what else is nearby? [Every plaque in Richmond](/plaques/?area=richmond) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you want space, wildlife and a river. Richmond Park has around 600 free-roaming deer, a legally protected view of St Paul's ten miles away, and an azalea garden that is one of the best things in London for two weeks in May.

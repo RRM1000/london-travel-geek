@@ -70,6 +70,8 @@ Hackney has no Underground station, no major museum and no monument. What it has
 
 This is residential London — the version most visitors never see, and the one that rewards a Saturday rather than a sightseeing itinerary.
 
+Curious what else is nearby? [Every plaque in Hackney](/plaques/?area=hackney) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** it is Saturday and you like food. Broadway Market, London Fields and the canal make an easy, genuinely good half day, and it is fifteen minutes from Liverpool Street on the Overground.

@@ -74,6 +74,8 @@ Bermondsey is what happens when a Victorian goods yard is left alone long enough
 
 It sits immediately east of Borough Market, and the two make an obvious pair.
 
+Curious what else is nearby? [Every plaque in Bermondsey](/plaques/?area=bermondsey) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** it is a weekend and you like eating and drinking. Maltby Street Market and the Beer Mile are both Saturday propositions, both under railway arches, and both about fifteen minutes apart on foot.

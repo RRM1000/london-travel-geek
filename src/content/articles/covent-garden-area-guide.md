@@ -70,6 +70,8 @@ Covent Garden is a former fruit and vegetable market turned pedestrian district,
 
 It is also the most walkable part of the West End, and the easiest to combine with somewhere else — Soho is eight minutes west, the British Museum twelve minutes north.
 
+Curious what else is nearby? [Every plaque in Covent Garden](/plaques/?area=covent-garden) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you want theatre, street performance and browsing in a compact area you can cover on foot. The Piazza performers are auditioned by the estate rather than turning up unannounced, so the standard is high. Seven Dials and Neal's Yard just north are among the prettiest corners in central London.

@@ -74,6 +74,8 @@ Bloomsbury is the quietest central district in London and the one with the most 
 
 Almost everyone comes for the British Museum and leaves immediately afterwards. The squares three minutes north are empty by comparison.
 
+Curious what else is nearby? [Every plaque in Bloomsbury](/plaques/?area=bloomsbury) is on our interactive map — zoomed straight to this neighbourhood.
+
 ## Why visit — and who should skip it
 
 **Come here if** you want the British Museum, or you want somewhere calm to walk in Zone 1. Bloomsbury is the only part of central London where you can sit in a garden square in silence and still be ten minutes from Covent Garden.
