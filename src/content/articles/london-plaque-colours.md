@@ -2,6 +2,12 @@
 title: "London Plaque Colours: What Blue, Green and Brown Actually Mean"
 seoTitle: "London Plaque Colours Explained: Blue, Green, Brown & the Rest"
 description: "Blue does not mean official. A guide to what London's plaque colours actually tell you, who puts each one up, and how to spot the difference on the street."
+heroImage: "../../assets/articles/london-plaque-colours/london-plaque-colours.jpg"
+heroImageAlt: "A brown London Borough of Hackney plaque on a brick wall, reading FIRST PLASTIC IN THE WORLD"
+heroImageCredit: "Sludge G"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Alexander_Parkes_plaque,_Hackney_Wick_2025-12-02.jpg"
+heroImageLicense: "CC BY-SA 4.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-08-28
 sites: [london]
 canonicalSite: london
