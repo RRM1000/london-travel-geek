@@ -87,12 +87,20 @@ Two elephant heads stencilled reaching toward one another from **a pair of brick
 
 Banksy put up nine animal works across London over nine days in August 2024. **Six are gone** — removed, stolen, dismantled or swapped for a copy. It is routinely written up as a walkable trail. It is not one.
 
+![Banksy's stencilled goat balanced on a ledge above a stone plinth, protected behind a screwed-down perspex sheet, on a building near Kew Bridge](../../assets/articles/london-street-art/banksy-goat-kew-bridge.jpg)
+
+*The goat in place near Kew Bridge in August 2024, already under protective perspex. It was cut out of the wall six months later and has not reappeared.*
+
+![Banksy's piranha shoal stencilled onto the glass of a police sentry box in Guildhall Yard, City of London, tinted blue to look like an aquarium](../../assets/articles/london-street-art/banksy-piranhas-guildhall-yard.jpg)
+
+*The piranhas at Guildhall Yard, where the City of London Corporation put the sentry box on public view behind barriers after relocating it from its original spot on Ludgate Hill. It has since gone into storage ahead of permanent display at the new London Museum.*
+
 | The work | Where | What is there now |
 | --- | --- | --- |
 | **Elephants** | Edith Grove, Chelsea | **Still there.** Defaced and since repaired |
 | **Pelicans** | Bonners Fish Bar, Walthamstow | **Still there**, and the best preserved of the nine |
 | **Rhinoceros** | Westmoor Street, Charlton | **Partly there.** The wall stencil survives; the car it was mounting has gone |
-| Goat | Kew Green | Cut out and removed, February 2025. Now in Colorado |
+| Goat | Kew Green | Cut out and removed, February 2025, by the building's owner "for protection during building works". Not returned as of January 2026, when the bare wall was found daubed with paint |
 | Monkeys | Brick Lane railway bridge | Removed by Transport for London, December 2024 |
 | Wolf | Rye Lane, Peckham | **Stolen** within about an hour. No arrests |
 | Big cat | Edgware Road, Cricklewood | Dismantled over billboard safety concerns |
