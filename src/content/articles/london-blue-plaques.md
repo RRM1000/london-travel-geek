@@ -9,6 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:English_Heritage_Blue_
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-08-23
+updatedAt: 2026-08-28
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -25,6 +26,8 @@ faq:
     a: "Almost never — nearly all are private homes. The exceptions are the ones that became museums: Handel Hendrix House in Mayfair, the Charles Dickens Museum in Bloomsbury, Keats House in Hampstead and the Freud Museum."
   - q: "How do you get a blue plaque?"
     a: "English Heritage require that at least 20 years have passed since the subject died, that a building associated with them survives in Greater London outside the City, that it survives in a form they would recognise, and that it is visible from a public highway. Only one plaque is put up per person and no more than two on any one building. Anyone can nominate."
+  - q: "Which world-famous, non-British figures have blue plaques in London?"
+    a: "More than you'd expect — Mahatma Gandhi, Vladimir Lenin, Simón Bolívar, Ho Chi Minh, Charles de Gaulle, Mark Twain, Rabindranath Tagore and Natsume Soseki all lodged, worked or stayed in London long enough to earn one. See the 'Beyond the 23' section above for the full list, alongside worldwide names in science, music, film and art."
 ---
 
 More than a thousand official blue plaques exist in London, and the pleasure of them is entirely in the specifics: Mozart wrote his first symphony in Belgravia **aged eight**, Engels hosted Marx in Primrose Hill for twenty years, and Handel and Hendrix lived in adjoining Mayfair houses two centuries apart.
@@ -186,6 +189,71 @@ Where Van Gogh lodged as a young art dealer in his twenties, **years before he h
 * **George Bernard Shaw and Virginia Woolf**, 29 Fitzroy Square — two literary giants, the same front door, different decades.
 
 > ⚠️ **One to admire from a distance.** The best inscription in London is Luke Howard's at 7 Bruce Grove, Tottenham: **"Namer of Clouds"**, for the man who gave us cumulus, stratus and cirrus. English Heritage's own page states the plaque is **not currently on view to the public**, so do not build a walk around it.
+
+---
+
+## Beyond the 23: names famous the world over
+
+The walk above is organised around **proximity** — plaques worth detouring for because several sit close together. This list is organised around something else: people whose fame has nothing to do with London at all, gathered here because their London plaque is often the only physical marker of them anywhere. Every name below is also starred on [the interactive map](/plaques/).
+
+**Science**
+
+* **Isaac Newton**, 87 Jermyn Street — laws of motion and gravity, the foundation of classical physics.
+* **Michael Faraday**, 48 Blandford Street — electromagnetic induction, behind every electric motor and generator since.
+* **Alexander Fleming**, 20a Danvers Street — discovered penicillin.
+* **Alan Turing**, 2 Warrington Crescent — his birthplace; father of computer science and a WWII Enigma codebreaker.
+* **Guglielmo Marconi**, 71 Hereford Road — pioneer of wireless communication, Nobel laureate.
+* **James Watson**, 18 Vincent Square, and **Francis Crick**, 56 St George's Square — separately plaqued, joint discoverers of the structure of DNA.
+
+**Music**
+
+* **John Lennon**, 34 Montagu Square — the Beatles, still the best-selling band in history.
+* **Paul McCartney**, 9 Kingly Street — where he met Linda Eastman in 1967, at the Bag O'Nails club.
+* **David Bowie**, 157 High Street, Beckenham — where his career launched at the Three Tuns pub, 1969–73.
+* **Freddie Mercury**, 22 Gladstone Avenue, Feltham — his childhood home.
+* **Bob Marley**, 34 Ridgmount Gardens — lived here in 1972; reggae's best-known global ambassador.
+* **Fela Kuti**, Greenwich Peninsula — father of Afrobeat.
+* **Frédéric Chopin**, 4 St James's Place — left this house in 1848 for his final public performance.
+
+**Literature**
+
+* **William Shakespeare**, 5 St Andrew's Hill — bought lodgings near here in 1613, the only London property he's known to have owned.
+* **Agatha Christie**, 58 Sheffield Terrace — the best-selling novelist of all time, outsold only by the Bible and Shakespeare.
+* **Mark Twain**, 23 Tedworth Square — lived here 1896–97.
+* **Rabindranath Tagore**, 3 Villas on the Heath, Hampstead — stayed here in 1912; first non-European Nobel laureate in Literature, and author of two national anthems (India's and Bangladesh's).
+* **Natsume Soseki**, 81 The Chase, Clapham — lived here 1901–02; considered Japan's most important modern novelist, and once the face on the ¥1,000 note.
+
+**Film and dance**
+
+* **Charlie Chaplin**, East Street, Walworth — born here; the most recognisable figure of the silent-film era worldwide.
+* **Alfred Hitchcock**, 153 Cromwell Road — lived here 1926–39, already directing before his most famous films.
+* **Rudolf Nureyev**, 27 Victoria Road — widely considered the greatest male ballet dancer of the 20th century.
+
+**Art**
+
+* **Pablo Picasso**, Floral Street — painted a ballet backdrop here in 1919 for Diaghilev's Ballets Russes.
+* **J.M.W. Turner**, 40 Sandycoombe Road, Twickenham — designed and lived in this riverside house himself.
+* **Henry Moore**, 11a Parkhill Road — lived and worked here 1929–40, before becoming Britain's most internationally exhibited sculptor.
+
+**Politics and world leaders**
+
+* **Winston Churchill**, 28 Hyde Park Gate — lived and died here.
+* **Mahatma Gandhi**, Kingsley Hall, Tower Hamlets — stayed here in 1931.
+* **Charles de Gaulle**, 4 Carlton Gardens — set up the Free French Forces' headquarters here in 1940.
+* **Simón Bolívar**, 4 Duke Street — lodged here in 1810, decades before leading much of South America to independence.
+* **Ho Chi Minh**, Haymarket — worked in 1913 at the Carlton Hotel, which stood on this site.
+* **Vladimir Lenin**, 16 Percy Circus — stayed on this site in 1905.
+
+**Exploration**
+
+* **Captain James Cook**, 88 Mile End Road — a house on this site was his for some years before his Pacific voyages.
+* **Ernest Shackleton**, 12 Westwood Hill — the Antarctic explorer of the *Endurance* expedition.
+* **Robert Falcon Scott**, 56 Oakley Street — "Scott of the Antarctic."
+
+**Other**
+
+* **Robert Baden-Powell**, 9 Hyde Park Gate — founded the Scouting movement, active in nearly every country today.
+* **Emmeline and Christabel Pankhurst**, 50 Clarendon Road — mother and daughter, leaders of the women's suffrage movement.
 
 ---
 

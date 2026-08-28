@@ -1,5 +1,5 @@
 {
-  "note": "Plaque IDs (Open Plaques numbering) already named in src/content/articles/london-blue-plaques.md. Checked by hand against that article on 2026-08-27 - do not regenerate by fuzzy match, two of these (lord-byron, samuel-johnson) only resolved correctly after the naive title match picked the wrong plaque. Add a slug here whenever the article gains a new plaque; the map star and filter read straight off the id list.",
+  "note": "Plaque IDs (Open Plaques numbering) named in src/content/articles/london-blue-plaques.md. Checked by hand against that article, not by fuzzy title match - two early entries (lord-byron, samuel-johnson) only resolved correctly after a naive match picked the wrong plaque, and jm-barrie was wrongly marked notFound until a later pass found id 416. The 28 Aug 2026 batch (isaac-newton through pankhurst) is the 'Beyond the 23' section added the same day - each id/address was cross-checked against this dataset's own inscription/address fields before writing the section, not against general knowledge alone. Add a slug here whenever the article gains a new plaque; the map star and filter read straight off the id list.",
   "article": "/articles/london-blue-plaques/",
   "plaques": [
     { "slug": "lord-byron", "id": 12011, "note": "The first plaque, 1867 - the house was demolished in 1889" },
@@ -23,9 +23,45 @@
     { "slug": "keats", "id": 469 },
     { "slug": "freud", "id": 79 },
     { "slug": "bernard-shaw", "id": 392 },
-    { "slug": "virginia-woolf", "id": 13 }
+    { "slug": "virginia-woolf", "id": 13 },
+    { "slug": "jm-barrie", "id": 416, "note": "Corrects the earlier notFound entry - id 416 matches the article's own '100 Bayswater Road' address exactly" },
+
+    { "slug": "isaac-newton", "id": 651, "note": "Added 28 Aug 2026 - worldwide-fame batch, see 'Beyond the 23' section" },
+    { "slug": "michael-faraday", "id": 19 },
+    { "slug": "alexander-fleming", "id": 70 },
+    { "slug": "alan-turing", "id": 381 },
+    { "slug": "guglielmo-marconi", "id": 7 },
+    { "slug": "james-watson", "id": 30687 },
+    { "slug": "francis-crick", "id": 7474 },
+    { "slug": "john-lennon", "id": 1994 },
+    { "slug": "paul-mccartney", "id": 33059 },
+    { "slug": "david-bowie", "id": 8509 },
+    { "slug": "freddie-mercury", "id": 41802 },
+    { "slug": "bob-marley", "id": 4180 },
+    { "slug": "fela-kuti", "id": 54742 },
+    { "slug": "chopin", "id": 297 },
+    { "slug": "shakespeare", "id": 41820 },
+    { "slug": "agatha-christie", "id": 178 },
+    { "slug": "mark-twain", "id": 256 },
+    { "slug": "tagore", "id": 565 },
+    { "slug": "natsume-soseki", "id": 147 },
+    { "slug": "charlie-chaplin", "id": 1141 },
+    { "slug": "alfred-hitchcock", "id": 35 },
+    { "slug": "rudolf-nureyev", "id": 43811 },
+    { "slug": "picasso", "id": 40720 },
+    { "slug": "turner", "id": 545 },
+    { "slug": "henry-moore", "id": 9245 },
+    { "slug": "churchill", "id": 138 },
+    { "slug": "gandhi", "id": 319 },
+    { "slug": "de-gaulle", "id": 550 },
+    { "slug": "simon-bolivar", "id": 3 },
+    { "slug": "ho-chi-minh", "id": 1968 },
+    { "slug": "lenin", "id": 2210 },
+    { "slug": "james-cook", "id": 54 },
+    { "slug": "shackleton", "id": 345 },
+    { "slug": "scott-of-the-antarctic", "id": 668 },
+    { "slug": "baden-powell", "id": 476 },
+    { "slug": "pankhurst", "id": 582 }
   ],
-  "notFound": [
-    { "slug": "jm-barrie", "reason": "No matching plaque in the Open Plaques London dataset as of the 2021 seed dump - check again once a live refresh lands" }
-  ]
+  "notFound": []
 }
