@@ -128,6 +128,7 @@ const breadcrumbs = [
         <button type="button" id="area-chip" class="area-chip" hidden aria-label="Clear area filter">
           📍 <span id="area-chip-name"></span> <span aria-hidden="true">✕</span>
         </button>
+        <button type="button" id="reset-filters" class="reset-btn" hidden>Reset filters</button>
         <div class="plaques-viewtoggle" role="group" aria-label="Map or list view">
           <button type="button" id="view-map-btn" aria-pressed="true">Map</button>
           <button type="button" id="view-list-btn" aria-pressed="false">List</button>
@@ -324,6 +325,21 @@ const breadcrumbs = [
     background: rgb(214 57 47 / 0.12); color: var(--accent, #d6392f);
     cursor: pointer;
   }
+
+  /* A class-level display beats the hidden attribute (author sheet wins over
+     the UA sheet at equal specificity), so these need it stated explicitly
+     or the button shows through its own hidden attribute. */
+  .area-chip[hidden], .reset-btn[hidden] { display: none; }
+
+  .reset-btn {
+    display: inline-flex; align-items: center;
+    font: inherit; font-size: 0.82rem; font-weight: 600;
+    padding: 0.25rem 0.7rem; border-radius: 999px;
+    border: 1px solid var(--line-strong, #cbc2b2);
+    background: var(--surface, #fff); color: var(--muted, #5a6a7d);
+    cursor: pointer;
+  }
+  .reset-btn:hover { border-color: var(--accent, #d6392f); color: var(--accent, #d6392f); }
 
   .plaques-viewtoggle {
     display: inline-flex; border: 1px solid var(--line-strong, #cbc2b2);
@@ -531,6 +547,7 @@ const breadcrumbs = [
   const viewListBtn = document.getElementById("view-list-btn")!;
   const areaChipEl = document.getElementById("area-chip")!;
   const areaChipNameEl = document.getElementById("area-chip-name")!;
+  const resetBtn = document.getElementById("reset-filters")!;
 
   const esc = (s: string) =>
     s.replace(/[&<>"']/g, (m) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[m]!);
@@ -876,10 +893,47 @@ const breadcrumbs = [
     refresh();
   });
 
+  // Any filter active? Drives whether the reset button is offered at all.
+  function anyFilterActive(): boolean {
+    return !!(query || activeColours.size || activeCategories.size || showFeaturedOnly || activeArea);
+  }
+
+  resetBtn.addEventListener("click", () => {
+    query = "";
+    searchEl.value = "";
+    activeColours.clear();
+    activeCategories.clear();
+    showFeaturedOnly = false;
+    activeArea = null;
+    areaChipEl.hidden = true;
+    closeSuggest();
+
+    // Every chip is built by JS, so un-press them all rather than tracking
+    // each one individually.
+    for (const b of [...filtersEl.querySelectorAll("button"), ...categoryFiltersEl.querySelectorAll("button")]) {
+      b.setAttribute("aria-pressed", "false");
+    }
+
+    listSort = "name";
+    listSortEl.value = "name";
+
+    // Drop the deep-link params too, so a refresh does not restore what was
+    // just cleared.
+    const url = new URL(location.href);
+    url.searchParams.delete("q");
+    url.searchParams.delete("area");
+    url.hash = "";
+    history.replaceState(null, "", url);
+
+    map.setView([51.5072, -0.1276], 12);
+    refresh();
+  });
+
   // Every filter/search change updates whichever view is on screen.
   function refresh() {
     render();
     if (viewMode === "list") renderListReset();
+    resetBtn.hidden = !anyFilterActive();
   }
 
   // ------------------------------------------------------------- typeahead
@@ -1045,6 +1099,7 @@ const breadcrumbs = [
         areaChipEl.hidden = false;
       }
       render();
+      resetBtn.hidden = !anyFilterActive();
       const m = location.hash.match(/^#plaque-(\d+)$/);
       if (m) focusPlaque(Number(m[1]));
     } catch (e) {
