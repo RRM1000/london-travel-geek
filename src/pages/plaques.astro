@@ -14,7 +14,7 @@
 // London build only - the toolkit site has no reason to carry this.
 import fs from "node:fs";
 import BaseLayout from "../layouts/BaseLayout.astro";
-
+import featured from "../data/plaques-featured.json";
 
 // Count and freshness for the header come from the same file the client
 // fetches, read at build time.
@@ -27,6 +27,11 @@ try {
 } catch {
   /* page still builds; the client shows its own error state */
 }
+
+// The IDs already written up in the blue plaques article get a gold ring on
+// the map and a line in their popup. Hand-checked, not fuzzy-matched - see
+// the note in plaques-featured.json for why that matters.
+const featuredIds = featured.plaques.map((p) => p.id);
 
 const title = "London Plaques Map";
 const description = `Every commemorative plaque in London on one searchable map — ${count.toLocaleString("en-GB")} of them, from official blue plaques to borough, Nubian Jak and rainbow schemes.`;
@@ -45,14 +50,22 @@ const description = `Every commemorative plaque in London on one searchable map 
       </p>
     </header>
 
+    <script type="application/json" id="featured-ids" set:html={JSON.stringify(featuredIds)} />
     <div class="plaques-controls" role="search">
-      <input
-        id="plaque-search"
-        type="search"
-        placeholder="Search names, inscriptions, organisations — try Hendrix, nurse, or Nubian Jak"
-        aria-label="Search plaques"
-        autocomplete="off"
-      />
+      <div class="plaques-typeahead">
+        <input
+          id="plaque-search"
+          type="search"
+          placeholder="Search names, inscriptions, organisations — try Hendrix, nurse, or Nubian Jak"
+          aria-label="Search plaques"
+          autocomplete="off"
+          role="combobox"
+          aria-expanded="false"
+          aria-controls="plaque-suggest"
+          aria-autocomplete="list"
+        />
+        <ul id="plaque-suggest" class="plaques-suggest" role="listbox" hidden></ul>
+      </div>
       <div class="plaques-filters" id="colour-filters" aria-label="Filter by plaque colour"></div>
       <p class="plaques-count" id="plaque-count" aria-live="polite"></p>
     </div>
@@ -66,10 +79,8 @@ const description = `Every commemorative plaque in London on one searchable map 
 
     <footer class="plaques-footer">
       <p>
-        Data: <a href="https://openplaques.org" rel="noopener">Open Plaques</a>
-        (public domain){fetched && fetched !== "stub" ? `, fetched ${fetched}` : ""}.
+        Data: Open Plaques (public domain){fetched && fetched !== "stub" ? `, fetched ${fetched}` : ""}.
         Map © <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap</a> contributors.
-        Spotted an error? Open Plaques takes corrections — each popup links to the plaque's own page.
       </p>
       <p>
         More like this: <a href="/articles/london-blue-plaques/">Blue Plaques guide</a> ·
@@ -130,6 +141,49 @@ const description = `Every commemorative plaque in London on one searchable map 
   .plaques-filters button[aria-pressed="true"] {
     background: var(--ink, #0e1b2c); color: #fff; border-color: var(--ink, #0e1b2c);
   }
+  .plaques-filters button.is-star {
+    border-color: var(--highlight, #f2a93b); color: var(--amber-ink, #8a5a0d);
+    font-weight: 600;
+  }
+  .plaques-filters button.is-star[aria-pressed="true"] {
+    background: var(--highlight, #f2a93b); color: #402c04; border-color: var(--highlight, #f2a93b);
+  }
+  .plaques-typeahead { position: relative; max-width: 34rem; }
+  .plaques-suggest {
+    position: absolute; z-index: 500; left: 0; right: 0; top: calc(100% + 0.25rem);
+    margin: 0; padding: 0.25rem; list-style: none;
+    background: var(--surface, #fff);
+    border: 1px solid var(--line-strong, #cbc2b2);
+    border-radius: 0.6rem;
+    box-shadow: 0 12px 32px rgb(14 27 44 / 0.16);
+    max-height: 19rem; overflow-y: auto;
+  }
+  .plaques-suggest li { margin: 0; }
+  .plaques-suggest button {
+    display: flex; gap: 0.5rem; align-items: baseline;
+    width: 100%; text-align: left; font: inherit; font-size: 0.88rem;
+    padding: 0.42rem 0.55rem; border: 0; border-radius: 0.4rem;
+    background: none; color: var(--ink, #0e1b2c); cursor: pointer;
+  }
+  .plaques-suggest button:hover,
+  .plaques-suggest li[aria-selected="true"] button {
+    background: var(--surface-strong, #f0ebe2);
+  }
+  .plaques-suggest .s-dot {
+    flex: none; width: 0.6rem; height: 0.6rem; border-radius: 50%;
+    border: 1px solid rgb(0 0 0 / 0.25); margin-top: 0.28rem;
+  }
+  .plaques-suggest .s-main { flex: 1; min-width: 0; }
+  .plaques-suggest .s-name { display: block; font-weight: 600; }
+  .plaques-suggest .s-where {
+    display: block; color: var(--muted, #5a6a7d); font-size: 0.78rem;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .plaques-suggest mark { background: #ffe9a8; color: inherit; border-radius: 0.15rem; }
+  .plaques-suggest .s-more {
+    padding: 0.35rem 0.55rem; font-size: 0.78rem; color: var(--muted, #5a6a7d);
+  }
+
   .plaques-count { font-size: 0.88rem; color: var(--muted, #5a6a7d); margin: 0; }
 
   .plaques-map {
@@ -161,6 +215,49 @@ const description = `Every commemorative plaque in London on one searchable map 
 
   .plaques-footer { margin-top: 1.5rem; font-size: 0.85rem; color: var(--muted, #5a6a7d); }
   .plaques-footer p { margin: 0.3rem 0; }
+
+  /* Leaflet chrome, restyled to the site's own tokens. :global() because
+     Leaflet builds these nodes at runtime, outside Astro's scoping. */
+  :global(.plaques-map .leaflet-popup-content-wrapper) {
+    border-radius: 0.7rem;
+    box-shadow: 0 2px 6px rgb(14 27 44 / 0.12), 0 12px 32px rgb(14 27 44 / 0.18);
+  }
+  :global(.plaque-pop) { font-family: inherit; max-width: 17rem; padding: 0.15rem 0.1rem; }
+  :global(.plaque-pop strong) { font-size: 0.98rem; line-height: 1.3; }
+  :global(.plaque-pop-dot) {
+    display: inline-block; width: 0.65rem; height: 0.65rem;
+    border-radius: 50%; margin-right: 0.4rem;
+    border: 1px solid rgb(0 0 0 / 0.25); vertical-align: baseline;
+  }
+  :global(.plaque-pop-insc) {
+    margin: 0.45em 0; font-style: italic;
+    color: var(--ink-soft, #22344a); line-height: 1.45;
+  }
+  :global(.plaque-pop-addr) { margin: 0.2em 0; font-size: 0.86em; }
+  :global(.plaque-pop-meta) { margin: 0.2em 0 0.5em; color: var(--muted, #5a6a7d); font-size: 0.82em; }
+  :global(.plaque-pop-featured) {
+    margin: 0.4em 0 0; padding-top: 0.4em;
+    border-top: 1px dashed var(--line, #e2dbcf);
+    color: var(--amber-ink, #8a5a0d); font-weight: 600; font-size: 0.85em;
+  }
+  :global(.plaque-pop-featured a) { color: inherit; text-decoration: underline; }
+  :global(.plaque-pop a) { color: var(--secondary, #1d4e89); font-weight: 600; font-size: 0.88em; }
+
+  /* Clusters: the plugin's default green-yellow traffic lights fight every
+     palette. Ink circles with white counts match the site instead. */
+  :global(.plaques-map .marker-cluster),
+  :global(.plaques-map .marker-cluster div) {
+    background: rgb(14 27 44 / 0.82);
+    color: #fff;
+  }
+  :global(.plaques-map .marker-cluster) {
+    border: 3px solid rgb(255 255 255 / 0.85);
+    box-shadow: 0 1px 4px rgb(14 27 44 / 0.3);
+  }
+  :global(.plaques-map .marker-cluster div) {
+    font: 600 0.78rem/1 var(--body, system-ui, sans-serif);
+    display: flex; align-items: center; justify-content: center;
+  }
 </style>
 
 <script>
@@ -181,6 +278,7 @@ const description = `Every commemorative plaque in London on one searchable map 
 
   const mapEl = document.getElementById("plaques-map")!;
   const searchEl = document.getElementById("plaque-search") as HTMLInputElement;
+  const suggestEl = document.getElementById("plaque-suggest")!;
   const filtersEl = document.getElementById("colour-filters")!;
   const countEl = document.getElementById("plaque-count")!;
   const resultsEl = document.getElementById("plaque-results")!;
@@ -227,11 +325,19 @@ const description = `Every commemorative plaque in London on one searchable map 
   // ------------------------------------------------------------------- state
   let plaques: Plaque[] = [];
   let activeColours = new Set<string>();   // empty = all
+  let showFeaturedOnly = false;
   let query = "";
   let map: any, cluster: any, L: any;
   const markerById = new Map<number, any>();
 
+  // IDs already written up in the blue plaques article, inlined at build
+  // time by Astro - see plaques-featured.json for how these were checked.
+  const featuredIds: Set<number> = new Set(
+    JSON.parse(document.getElementById("featured-ids")!.textContent || "[]"),
+  );
+
   function matches(p: Plaque): boolean {
+    if (showFeaturedOnly && !featuredIds.has(p.id)) return false;
     if (activeColours.size && !activeColours.has(p.colour || "unknown")) return false;
     if (!query) return true;
     const hay = `${p.title} ${p.inscription} ${p.org} ${p.subject} ${p.address}`.toLowerCase();
@@ -244,13 +350,17 @@ const description = `Every commemorative plaque in London on one searchable map 
       p.colour && esc(p.colour[0].toUpperCase() + p.colour.slice(1)),
       p.org && esc(p.org),
     ].filter(Boolean).join(" · ");
+    const featured = featuredIds.has(p.id)
+      ? `<p class="plaque-pop-featured">★ In our <a href="/articles/london-blue-plaques/">Blue Plaques guide</a></p>`
+      : "";
     return `
-      <div style="max-width:16rem">
+      <div class="plaque-pop">
+        <span class="plaque-pop-dot" style="background:${colourHex(p.colour || "unknown")}"></span>
         <strong>${esc(p.title)}</strong>
-        <p style="margin:.4em 0;font-style:italic">&ldquo;${esc(p.inscription)}&rdquo;</p>
-        ${p.address ? `<p style="margin:.2em 0">${esc(p.address)}</p>` : ""}
-        ${bits ? `<p style="margin:.2em 0;color:#666;font-size:.85em">${bits}</p>` : ""}
-        <a href="https://openplaques.org/plaques/${p.id}" rel="noopener" target="_blank">On Open Plaques →</a>
+        <p class="plaque-pop-insc">&ldquo;${esc(p.inscription)}&rdquo;</p>
+        ${p.address ? `<p class="plaque-pop-addr">${esc(p.address)}</p>` : ""}
+        ${bits ? `<p class="plaque-pop-meta">${bits}</p>` : ""}
+        ${featured}
       </div>`;
   }
 
@@ -259,10 +369,15 @@ const description = `Every commemorative plaque in London on one searchable map 
     cluster.clearLayers();
     markerById.clear();
     const markers = visible.map((p) => {
-      const m = L.circleMarker([p.lat, p.lng], {
-        radius: 7, weight: 1.5, color: "#fff",
-        fillColor: colourHex(p.colour || "unknown"), fillOpacity: 0.92,
-      }).bindPopup(popupHtml(p));
+      const star = featuredIds.has(p.id);
+      // Featured plaques get a bigger, gold-ringed marker drawn ON TOP of
+      // the palette, so they read as "special" at any zoom without needing
+      // a whole second icon system.
+      const m = L.circleMarker([p.lat, p.lng], star
+        ? { radius: 9, weight: 3, color: "#f2a93b", fillColor: colourHex(p.colour || "unknown"), fillOpacity: 1 }
+        : { radius: 7, weight: 1.5, color: "#fff", fillColor: colourHex(p.colour || "unknown"), fillOpacity: 0.92 },
+      ).bindPopup(popupHtml(p));
+      if (star) m.bringToFront();
       markerById.set(p.id, m);
       return m;
     });
@@ -272,6 +387,15 @@ const description = `Every commemorative plaque in London on one searchable map 
       visible.length === plaques.length
         ? `${plaques.length.toLocaleString("en-GB")} plaques`
         : `${visible.length.toLocaleString("en-GB")} of ${plaques.length.toLocaleString("en-GB")} plaques match`;
+
+    // Zoom the map to the matching pins whenever a filter is active, so a
+    // search visibly answers "where are they" without any panning. Skips the
+    // unfiltered state - resetting to the full-London view on every cleared
+    // search would be more jarring than helpful.
+    if ((query || activeColours.size) && visible.length) {
+      const bounds = L.latLngBounds(visible.map((p) => [p.lat, p.lng]));
+      map.fitBounds(bounds, { padding: [40, 40], maxZoom: 16 });
+    }
 
     // Result list only while actively filtering; capped so the DOM stays light.
     resultsEl.innerHTML = "";
@@ -298,6 +422,22 @@ const description = `Every commemorative plaque in London on one searchable map 
   }
 
   function buildColourFilters() {
+    // The starred toggle leads the row - it is the one filter that answers
+    // "what has this website already written about", which is a different
+    // question from "what colour is it" and deserves top billing.
+    if (featuredIds.size) {
+      const star = document.createElement("button");
+      star.className = "is-star";
+      star.setAttribute("aria-pressed", "false");
+      star.innerHTML = `★ On this site (${featuredIds.size})`;
+      star.addEventListener("click", () => {
+        showFeaturedOnly = !showFeaturedOnly;
+        star.setAttribute("aria-pressed", String(showFeaturedOnly));
+        render();
+      });
+      filtersEl.appendChild(star);
+    }
+
     const counts = new Map<string, number>();
     for (const p of plaques) {
       const c = p.colour || "unknown";
@@ -320,17 +460,128 @@ const description = `Every commemorative plaque in London on one searchable map 
     }
   }
 
+  // ------------------------------------------------------------- typeahead
+  // A dropdown of specific plaques as you type, ranked so a name match beats
+  // an inscription-only match, capped so it never grows past the fold.
+  const MAX_SUGGEST = 8;
+  let suggestItems: Plaque[] = [];
+  let activeIndex = -1;
+
+  function rank(p: Plaque, q: string): number {
+    const title = p.title.toLowerCase(), subject = (p.subject || "").toLowerCase();
+    if (title.startsWith(q) || subject.startsWith(q)) return 0;
+    if (title.includes(q) || subject.includes(q)) return 1;
+    if ((p.org || "").toLowerCase().includes(q)) return 2;
+    return 3; // inscription or address only
+  }
+
+  function highlight(text: string, q: string): string {
+    if (!q) return esc(text);
+    const i = text.toLowerCase().indexOf(q);
+    if (i === -1) return esc(text);
+    return esc(text.slice(0, i)) + "<mark>" + esc(text.slice(i, i + q.length)) + "</mark>" + esc(text.slice(i + q.length));
+  }
+
+  function closeSuggest() {
+    suggestEl.hidden = true;
+    suggestEl.innerHTML = "";
+    searchEl.setAttribute("aria-expanded", "false");
+    searchEl.removeAttribute("aria-activedescendant");
+    activeIndex = -1;
+    suggestItems = [];
+  }
+
+  function paintActive() {
+    [...suggestEl.querySelectorAll("li")].forEach((li, i) => {
+      const on = i === activeIndex;
+      li.setAttribute("aria-selected", String(on));
+      if (on) searchEl.setAttribute("aria-activedescendant", li.id);
+    });
+    (suggestEl.children[activeIndex] as HTMLElement | undefined)?.scrollIntoView({ block: "nearest" });
+  }
+
+  function selectSuggestion(p: Plaque) {
+    searchEl.value = p.title;
+    query = p.title.toLowerCase();
+    const url = new URL(location.href);
+    url.searchParams.set("q", p.title);
+    history.replaceState(null, "", url);
+    closeSuggest();
+    render();
+    focusPlaque(p.id);
+  }
+
+  function updateSuggest(raw: string) {
+    const q = raw.trim().toLowerCase();
+    if (!q) { closeSuggest(); return; }
+
+    suggestItems = plaques
+      .map((p) => ({ p, r: rank(p, q) }))
+      .filter(({ r, p }) => r < 3 || `${p.title} ${p.inscription} ${p.subject} ${p.address}`.toLowerCase().includes(q))
+      .sort((a, b) => a.r - b.r)
+      .slice(0, MAX_SUGGEST)
+      .map(({ p }) => p);
+
+    if (!suggestItems.length) { closeSuggest(); return; }
+
+    suggestEl.innerHTML = suggestItems
+      .map((p, i) => {
+        const where = p.address || p.org || "";
+        return `
+          <li id="plaque-opt-${p.id}" role="option">
+            <button type="button" data-idx="${i}">
+              <span class="s-dot" style="background:${colourHex(p.colour || "unknown")}"></span>
+              <span class="s-main">
+                <span class="s-name">${highlight(p.title, q)}</span>
+                ${where ? `<span class="s-where">${esc(where)}</span>` : ""}
+              </span>
+            </button>
+          </li>`;
+      })
+      .join("");
+    suggestEl.hidden = false;
+    searchEl.setAttribute("aria-expanded", "true");
+    activeIndex = -1;
+
+    suggestEl.querySelectorAll("button").forEach((b, i) =>
+      b.addEventListener("click", () => selectSuggestion(suggestItems[i])));
+  }
+
+  searchEl.addEventListener("keydown", (e) => {
+    if (suggestEl.hidden) return;
+    if (e.key === "ArrowDown") {
+      e.preventDefault();
+      activeIndex = Math.min(activeIndex + 1, suggestItems.length - 1);
+      paintActive();
+    } else if (e.key === "ArrowUp") {
+      e.preventDefault();
+      activeIndex = Math.max(activeIndex - 1, -1);
+      paintActive();
+    } else if (e.key === "Enter" && activeIndex >= 0) {
+      e.preventDefault();
+      selectSuggestion(suggestItems[activeIndex]);
+    } else if (e.key === "Escape") {
+      closeSuggest();
+    }
+  });
+
+  document.addEventListener("click", (e) => {
+    if (!(e.target as Node) || !searchEl.parentElement?.contains(e.target as Node)) closeSuggest();
+  });
+
   let debounce: ReturnType<typeof setTimeout>;
   searchEl.addEventListener("input", () => {
     clearTimeout(debounce);
+    const raw = searchEl.value;
     debounce = setTimeout(() => {
-      query = searchEl.value.trim().toLowerCase();
+      updateSuggest(raw);
+      query = raw.trim().toLowerCase();
       const url = new URL(location.href);
-      if (query) url.searchParams.set("q", searchEl.value.trim());
+      if (query) url.searchParams.set("q", raw.trim());
       else url.searchParams.delete("q");
       history.replaceState(null, "", url);
       render();
-    }, 150);
+    }, 120);
   });
 
   // -------------------------------------------------------------------- boot

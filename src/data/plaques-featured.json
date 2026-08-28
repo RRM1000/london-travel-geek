@@ -1,0 +1,31 @@
+{
+  "note": "Plaque IDs (Open Plaques numbering) already named in src/content/articles/london-blue-plaques.md. Checked by hand against that article on 2026-08-27 - do not regenerate by fuzzy match, two of these (lord-byron, samuel-johnson) only resolved correctly after the naive title match picked the wrong plaque. Add a slug here whenever the article gains a new plaque; the map star and filter read straight off the id list.",
+  "article": "/articles/london-blue-plaques/",
+  "plaques": [
+    { "slug": "lord-byron", "id": 12011, "note": "The first plaque, 1867 - the house was demolished in 1889" },
+    { "slug": "napoleon-iii", "id": 489, "note": "Oldest surviving plaque, 1867" },
+    { "slug": "mozart", "id": 1103 },
+    { "slug": "mary-shelley", "id": 431 },
+    { "slug": "ian-fleming", "id": 395 },
+    { "slug": "tennyson", "id": 97 },
+    { "slug": "charles-dickens", "id": 426 },
+    { "slug": "keynes", "id": 307 },
+    { "slug": "charles-darwin", "id": 559 },
+    { "slug": "friedrich-engels", "id": 213 },
+    { "slug": "sylvia-plath", "id": 61 },
+    { "slug": "george-orwell", "id": 189 },
+    { "slug": "karl-marx", "id": 1105 },
+    { "slug": "willy-clarkson", "id": 154 },
+    { "slug": "samuel-johnson", "id": 1364, "note": "17 Gough Square, brown plaque - the only official one inside the City" },
+    { "slug": "van-gogh", "id": 524 },
+    { "slug": "oscar-wilde", "id": 287 },
+    { "slug": "bram-stoker", "id": 396 },
+    { "slug": "keats", "id": 469 },
+    { "slug": "freud", "id": 79 },
+    { "slug": "bernard-shaw", "id": 392 },
+    { "slug": "virginia-woolf", "id": 13 }
+  ],
+  "notFound": [
+    { "slug": "jm-barrie", "reason": "No matching plaque in the Open Plaques London dataset as of the 2021 seed dump - check again once a live refresh lands" }
+  ]
+}
