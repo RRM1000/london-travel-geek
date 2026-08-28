@@ -79,7 +79,7 @@ The two things worth planning around are the markets, which mostly run at the we
 
 **This guide covers Shoreditch, Spitalfields, Brick Lane and Hoxton together.** They run into one another with no gap, and nobody walking between them notices a boundary — Old Spitalfields Market to the Truman Brewery is eight minutes, and Hoxton Square is ten minutes the other way. Splitting them into separate guides would mean four thin pages and a reader bouncing between them to plan one afternoon.
 
-Curious what else is nearby? [Every plaque in Shoreditch](/plaques/?area=shoreditch) is on our interactive map — zoomed straight to this neighbourhood.
+Shoreditch has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=shoreditch).
 
 ## Why visit — and who should skip it
 

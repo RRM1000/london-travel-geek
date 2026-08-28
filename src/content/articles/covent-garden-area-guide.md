@@ -70,7 +70,7 @@ Covent Garden is a former fruit and vegetable market turned pedestrian district,
 
 It is also the most walkable part of the West End, and the easiest to combine with somewhere else — Soho is eight minutes west, the British Museum twelve minutes north.
 
-Curious what else is nearby? [Every plaque in Covent Garden](/plaques/?area=covent-garden) is on our interactive map — zoomed straight to this neighbourhood.
+Covent Garden has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=covent-garden).
 
 ## Why visit — and who should skip it
 

@@ -72,7 +72,7 @@ heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/3.0
 
 Chelsea is a low-rise, well-kept stretch between the King's Road and the Thames, and it is more interesting for walking than for shopping. The King's Road made its name in the 1960s and again with punk in the 1970s; most of that has been replaced by chains, and the reasons to come now are the side streets, the river and two very good gardens.
 
-Curious what else is nearby? [Every plaque in Chelsea](/plaques/?area=chelsea) is on our interactive map — zoomed straight to this neighbourhood.
+Chelsea has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=chelsea).
 
 ## Why visit — and who should skip it
 

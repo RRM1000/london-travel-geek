@@ -70,7 +70,7 @@ Stratford was a rail junction and a shopping centre until 2012, when the Olympic
 
 It is also one of the best-connected places in London — six lines meet at Stratford, and the Elizabeth line reaches Liverpool Street in nine minutes.
 
-Curious what else is nearby? [Every plaque in Stratford](/plaques/?area=stratford) is on our interactive map — zoomed straight to this neighbourhood.
+Stratford has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=stratford).
 
 ## Why visit — and who should skip it
 

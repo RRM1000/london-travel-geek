@@ -69,7 +69,7 @@ South Kensington exists because of the 1851 Great Exhibition. Its profits bought
 
 The result is three of the world's great museums within 400 metres of each other, all free, plus the Royal Albert Hall at the top of the road. It is the highest concentration of free culture anywhere in Britain.
 
-Curious what else is nearby? [Every plaque in South Kensington](/plaques/?area=south-kensington) is on our interactive map — zoomed straight to this neighbourhood.
+South Kensington has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=south-kensington).
 
 ## Why visit — and who should skip it
 

@@ -71,7 +71,7 @@ Greenwich is a UNESCO World Heritage Site and the only part of London where the 
 
 It also holds the line the world sets its clocks by. Greenwich Mean Time and longitude zero are both defined here.
 
-Curious what else is nearby? [Every plaque in Greenwich](/plaques/?area=greenwich) is on our interactive map — zoomed straight to this neighbourhood.
+Greenwich has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=greenwich).
 
 ## Why visit — and who should skip it
 

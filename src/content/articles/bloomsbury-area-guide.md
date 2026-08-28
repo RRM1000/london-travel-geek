@@ -74,7 +74,7 @@ Bloomsbury is the quietest central district in London and the one with the most 
 
 Almost everyone comes for the British Museum and leaves immediately afterwards. The squares three minutes north are empty by comparison.
 
-Curious what else is nearby? [Every plaque in Bloomsbury](/plaques/?area=bloomsbury) is on our interactive map — zoomed straight to this neighbourhood.
+Bloomsbury has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=bloomsbury).
 
 ## Why visit — and who should skip it
 
