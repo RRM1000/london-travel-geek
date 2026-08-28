@@ -92,6 +92,14 @@ South Kensington has its own share of the commemorative plaques marking where no
 
 *The Natural History Museum. Alfred Waterhouse's 1881 building is as much the attraction as the collection.*
 
+![The blue whale skeleton "Hope" suspended from the ceiling of Hintze Hall at the Natural History Museum](../../assets/articles/south-kensington-area-guide/natural-history-museum-whale.jpg)
+
+*"Hope" the blue whale skeleton, suspended over Hintze Hall since 2017. Free, and the first thing you see through the main doors.*
+
+![Visitors looking at framed prints on the walls of the Wildlife Photographer of the Year exhibition at the Natural History Museum](../../assets/articles/south-kensington-area-guide/wildlife-photographer-of-the-year.jpg)
+
+*Inside the **Wildlife Photographer of the Year** exhibition, the Museum's ticketed annual show of the year's 100 winning images. It typically runs from mid-October to the following July, so check what's on before planning around it specifically.*
+
 ### Exhibition Road
 The spine, resurfaced as a shared pedestrian-priority space. All three museums, Imperial College and the Royal Geographical Society sit on it.
 
@@ -101,6 +109,10 @@ The tiled Victorian tunnel from the station to the museums. Free, dry, and the s
 ![The Royal Albert Hall in low evening sun, with the Prince Consort memorial in front](../../assets/articles/south-kensington-area-guide/royal-albert-hall.jpg)
 
 *The Royal Albert Hall at the top of Exhibition Road. Standing tickets for the Proms go for a few pounds on the day.*
+
+![Looking down over the circular auditorium of the Royal Albert Hall mid-concert, with stage lighting and a full audience in the stalls and circle](../../assets/articles/south-kensington-area-guide/royal-albert-hall-interior.jpg)
+
+*Inside during a show. The circular auditorium seats over 5,000 and there is not a bad view in the house.*
 
 ### Cromwell Road and Thurloe Square
 Grand stucco terraces and garden squares south of the museums, and the quieter side of South Kensington.

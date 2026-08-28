@@ -120,6 +120,10 @@ A **1913 cinema that became a bingo hall, a shoe factory and a snooker club** be
 
 Three small screens and two art deco bars on a back street, running repertory alongside new independent releases.
 
+![One of The Garden Cinema's two art deco bars, with a curved red bar front, a comic-book mural and red banquette seating](../../assets/articles/best-cinemas-london/garden-cinema-bar.jpg)
+
+*One of the two art deco bars, worth arriving early for on its own.*
+
 ---
 
 ## The ones that still project film

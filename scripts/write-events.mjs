@@ -2158,6 +2158,24 @@ const ROWS = [
     lists: "events",
     source: "thewaltdisneycompany.eu and wembleypark.com cross-checked.",
   },
+  {
+    ...base, slug: "wildlife-photographer-of-the-year",
+    name: "Wildlife Photographer of the Year",
+    eventType: "exhibition", style: "The 100 winning images from the world's biggest nature photography competition",
+    venue: "Natural History Museum",
+    startsOn: "2025-10-17", endsOn: "2026-07-12",
+    recurring: "annual", typicalWhen: "Mid-October to the following July",
+    hood: "South Kensington", borough: "Kensington and Chelsea", areaGuide: "south-kensington-area-guide",
+    address: "Cromwell Road", postcode: "SW7 5BD",
+    agePolicy: "all-ages", duration: "About an hour",
+    pricePerPerson: "£15.50 off-peak, £18 peak (adult)",
+    bookingRequired: "recommended", indoorOutdoor: "indoor", stepFree: "yes",
+    whyGo: "The longest-running nature photography competition in the world, and consistently the Museum's strongest temporary show - 100 images chosen from tens of thousands of entries, with the conservation story behind each one.",
+    opSummary: "Between editions as of this run - the 2025/26 exhibition closed 12 July 2026 and the next opens in October 2026. Check nhm.ac.uk before planning a visit around it specifically.",
+    goodFor: "families, art, photography",
+    lists: "events",
+    source: "nhm.ac.uk/visit/exhibitions/wildlife-photographer-of-the-year.html, fetched 2026-08-28.",
+  },
 ];
 
 // ------------------------------------------------- merge geocoding cache ---

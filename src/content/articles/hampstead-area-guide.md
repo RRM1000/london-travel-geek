@@ -113,6 +113,12 @@ The top. Kenwood House, the lake and the Spaniards Inn beyond.
 ### Church Row
 A single street of unbroken early-Georgian terrace, generally reckoned the finest in London outside Bloomsbury.
 
+### The Vale of Health
+A genuine hamlet marooned inside the Heath itself, near North End — a handful of ivy-covered cottages down a single lane, easy to walk past without noticing the turning.
+
+![An ivy-covered brick cottage in the Vale of Health, a small hamlet inside Hampstead Heath](../../assets/articles/hampstead-area-guide/vale-of-health.jpg)
+
+*One of the Vale of Health's cottages. D.H. Lawrence lived here in 1915, at 1 Byron Villas — reportedly the only London address he ever called home.*
 
 ![The raised colonnaded walkway of the Hill Garden Pergola, overgrown with climbing plants](../../assets/articles/hampstead-area-guide/hill-garden-pergola-walkway.jpg)
 

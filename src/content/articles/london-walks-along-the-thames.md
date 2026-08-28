@@ -74,6 +74,10 @@ The oldest pubs in London, in order, along the river.
 
 **The route:** Tower Bridge → St Katharine Docks → **The Town of Ramsgate** (a pub here since 1545) → Wapping Old Stairs → **Turner's Old Star** → **The Captain Kidd** → **The Prospect of Whitby** → **The Grapes** in Limehouse.
 
+![A still Wapping dock lined with converted Georgian and Victorian warehouse flats, reflecting the buildings and sky, with the Shard visible on the skyline in the distance](../../assets/articles/london-walks-along-the-thames/wapping-dock.jpg)
+
+*One of Wapping's old docks, now ringed by warehouse conversions — the calm water and the Shard on the skyline make an odd pair.*
+
 **Worth knowing:** Wapping Old Stairs is where condemned prisoners were chained at low tide. The Grapes is part-owned by Ian McKellen and Dickens drank there.
 
 ---

@@ -55,6 +55,12 @@ The pretty one, and the one to walk if you only walk one. Little Venice is where
 
 *The Waterside Cafe at Little Venice, which is a narrowboat rather than a building with a view of one.*
 
+Little Venice's moored boats are not all homes and cafes, either — **The BoAt Pod** is a converted narrowboat running as a podcast and DJ studio, bookable by the hour.
+
+![The gold lettered "The BoAt Pod" signage on the roof of a black narrowboat moored at Little Venice, with "Podcast Facilities" and "Studio" painted on the side](../../assets/articles/best-canal-walks-london/the-boat-pod.jpg)
+
+*The BoAt Pod, a working podcast and radio studio on a moored narrowboat at Little Venice.*
+
 From there the canal runs east through **Maida Hill Tunnel**, which you cannot walk through — see the tunnels section below — then along the north edge of **Regent's Park**, past the **aviary at London Zoo**, and into Camden.
 
 **The zoo stretch is the surprise.** The towpath runs directly beneath the Snowdon Aviary, and you get a free look at part of the zoo from the water.

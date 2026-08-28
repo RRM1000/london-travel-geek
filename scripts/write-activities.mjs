@@ -164,6 +164,12 @@ const VOCAB = {
     // is a performance and belongs to the sister theatre site under the same
     // rule that keeps playhouses out of this tab.
     "circus",
+    // A bookable creative production space - podcast studio, radio station,
+    // DJ booth - is not a "masterclass" (nobody is teaching you anything) and
+    // not "music-venue" (nobody is performing to an audience). You are hiring
+    // the room and its equipment by the hour. Distinct enough from everything
+    // above to need its own category rather than being bent to fit one.
+    "studio-hire",
   ],
   // "18+ after 6pm" is the single most useful fact for a family and almost
   // nobody publishes it clearly. Fairgame is 18+ at ALL times and reads like a
@@ -6260,6 +6266,24 @@ const ROWS = [
     lists: "activities, free",
     website: "https://www.nationalgallery.org.uk/",
     source: "nationalgallery.org.uk; ALVA - 4.1m visits in 2025. Row added 2026-08-23 by the completeness sweep; the Westminster guide already covers it in prose.",
+  },
+  {
+    ...base, slug: "the-boat-pod", name: "The BoAt Pod",
+    activityType: "studio-hire", style: "Podcast, radio and DJ studio on a moored narrowboat",
+    chainType: "independent",
+    hood: "Little Venice", borough: "Westminster", areaGuide: "paddington-area-guide",
+    address: "Warwick Crescent, Little Venice",
+    agePolicy: "all-ages", duration: "By the hour", groupSize: "Up to 4 (podcast studio)",
+    pricePerPerson: "From £75 per session (Tagvenue)",
+    bookingRequired: "required", indoorOutdoor: "indoor", stepFree: "no",
+    servesFood: "no", servesAlcohol: "no",
+    whyGo: "A converted narrowboat fitted out as a full podcast and radio studio - Shure microphones, a Rodecaster, DJ decks - moored on the canal at Little Venice. A genuinely unusual place to record something, or just to spot from the towpath.",
+    angle: "contrast",
+    opSummary: "Female-founded; also runs as a radio station, DJ agency and pop-up event space. Book the podcast studio room via Tagvenue; other formats via the boat's own site/Instagram.",
+    goodFor: "groups, solo, creative",
+    lists: "activities, unusual",
+    website: "https://www.theboatpod.com/",
+    source: "theboatpod.com, tagvenue.com/venues/london/19523/the-boat-pod, and owner photography from Little Venice. Fetched 2026-08-28.",
   },
 ];
 

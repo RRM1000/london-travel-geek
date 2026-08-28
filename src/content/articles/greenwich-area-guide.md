@@ -139,6 +139,10 @@ Up behind the Maritime Museum. The Observatory at the top, the deer in The Wilde
 ### The riverside and the Foot Tunnel
 West past the Cutty Sark to the tunnel entrance and the Trafalgar Tavern.
 
+![The Trafalgar Tavern's riverside terrace strung with rows of colourful nautical signal flags](../../assets/articles/greenwich-area-guide/trafalgar-tavern.jpg)
+
+*The Trafalgar Tavern, dressed in signal flags. Dickens set the wedding breakfast in* Our Mutual Friend *here, in the pub's Hawke Room.*
+
 ![The cast-iron ribbed interior of the Greenwich Foot Tunnel running under the Thames](../../assets/articles/greenwich-area-guide/foot-tunnel-interior.jpg)
 
 *Inside the Foot Tunnel. Opened in 1902, free, and open at all hours — the stairs work even when the lifts are not staffed.*
