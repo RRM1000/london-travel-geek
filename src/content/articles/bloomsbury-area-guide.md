@@ -92,6 +92,10 @@ Bloomsbury has its own share of the commemorative plaques marking where notable 
 6. **The Foundling Museum** — The story of Britain's first children's charity and its Hogarth collection. Small, moving and rarely busy.
 7. **The Cartoon Museum and the Wellcome Collection** — Two small free museums on the edges. The Wellcome's medical curiosities are genuinely strange.
 
+![The glass and steel lattice roof of the British Museum's Great Court](../../assets/articles/bloomsbury-area-guide/british-museum-great-court.jpg)
+
+*Norman Foster's roof over the Great Court, opened in 2000. No two panes of glass in it are the same shape. Photo: [rbrwr](https://www.flickr.com/photos/38411862@N00/467099756), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ## Key streets and micro-districts
 
 ### Great Russell Street and the museum precinct
@@ -108,6 +112,10 @@ Small local shopping streets north and west of the museum, with better cafes tha
 
 ### Museum Street
 The short run of antiquarian bookshops and print dealers between the museum and Holborn.
+
+![The green front door and museum sign of the Charles Dickens Museum on Doughty Street](../../assets/articles/bloomsbury-area-guide/charles-dickens-museum.jpg)
+
+*48 Doughty Street, where Dickens wrote Oliver Twist and Nicholas Nickleby. He lived here under three years. Photo: [Matt From London](https://www.flickr.com/photos/57868312@N00/38375015794), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ## Where to eat and drink
 

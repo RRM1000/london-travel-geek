@@ -86,6 +86,10 @@ Paddington has its own share of the commemorative plaques marking where notable 
 5. **Paddington Basin** — The modern waterfront east of the station, with the rolling and fan bridges and a run of canalside restaurants.
 6. **St Mary's Hospital and the Fleming Museum** — The small laboratory museum where penicillin was discovered in 1928. Limited opening hours; check before going.
 
+![A narrowboat moored at Little Venice, with white stucco villas and a church behind](../../assets/articles/paddington-area-guide/little-venice.jpg)
+
+*Little Venice, where the Grand Union and Regent's Canal meet. The towpath to Camden starts here. Photo: [Kathleen Tyler Conklin](https://www.flickr.com/photos/79865753@N00/2122563341), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ## Key streets and micro-districts
 
 ### Little Venice and Blomfield Road
@@ -103,6 +107,10 @@ The hotel strip. Functional rather than attractive, but convenient and comparati
 
 ### Bayswater and Queensway
 South-west of the station. A dense, diverse restaurant quarter — Chinese, Middle Eastern and Greek — and the best-value eating near Paddington.
+
+![The still water of Paddington Basin lined with modern glass office buildings](../../assets/articles/paddington-area-guide/paddington-basin.jpg)
+
+*Paddington Basin, the canal's dead end, rebuilt in glass. The rolling and fan bridges here open on schedule. Photo: [trolvag](https://commons.wikimedia.org/w/index.php?curid=56959884), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
 ## Where to eat and drink
 

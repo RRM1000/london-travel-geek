@@ -93,6 +93,10 @@ Battersea has its own share of the commemorative plaques marking where notable p
 
 *Inside the restored power station. Control Room B is now a bar, and Control Room A is kept as it was.*
 
+![The view from the top of a Battersea Power Station chimney, looking down over the development and out across south London](../../assets/articles/battersea-area-guide/lift-109.jpg)
+
+*The view from Lift 109, which takes you up inside one of the chimneys. The glass lift is the only way to the top. Photo: [amandabhslater](https://www.flickr.com/photos/15181848@N02/53077081501), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ## Key streets and micro-districts
 
 ![The interior of Turbine Hall A at Battersea Power Station, with its restored art deco detailing](../../assets/articles/battersea-area-guide/turbine-hall-a.jpg)
@@ -113,6 +117,10 @@ West. The boating lake, the pagoda, the zoo and the bandstand.
 
 ### Battersea Village and Battersea Square
 South-west, past the park. The older, low-rise part of Battersea, with pubs that predate all of this.
+
+![The Japanese Peace Pagoda in Battersea Park silhouetted against a pink and orange sunset](../../assets/articles/battersea-area-guide/peace-pagoda.jpg)
+
+*The Peace Pagoda, given to London in 1985 by a Japanese Buddhist order. A monk still tends it. Photo: [It's No Game](https://www.flickr.com/photos/29057345@N04/8558114758), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ## Where to eat and drink
 

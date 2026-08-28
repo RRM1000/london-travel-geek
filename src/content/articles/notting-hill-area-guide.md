@@ -95,6 +95,10 @@ Notting Hill has its own share of the commemorative plaques marking where notabl
 6. **Notting Hill Bookshop** — The Blenheim Crescent shop that inspired the film. Small, busy, and a working bookshop rather than a museum piece.
 7. **Golborne Road** — The far northern end, past the flea market. Portuguese cafes, Moroccan grocers and far fewer visitors. This is where locals actually shop.
 
+![The Churchill Arms in Notting Hill, its frontage covered in flowers, plants and flags](../../assets/articles/notting-hill-area-guide/churchill-arms.jpg)
+
+*The Churchill Arms. The landlord spends a five-figure sum a year on the flowers, and there is a Thai kitchen in the back. Photo: [itwasalladream](https://www.flickr.com/photos/35635854@N08/24487430799), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ## Key streets and micro-districts
 
 ![Colourful houses on Lancaster Road, Notting Hill](../../assets/articles/notting-hill-area-guide/notting-hill-lancaster-road.jpg)

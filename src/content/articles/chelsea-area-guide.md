@@ -90,6 +90,10 @@ Chelsea has its own share of the commemorative plaques marking where notable peo
 6. **Albert Bridge** — Cast-iron, painted pink and green, and lit by 4,000 bulbs at night. Still signed to ask troops to break step when crossing.
 7. **Duke of York Square** — A pedestrian square off the King's Road with a Saturday fine food market and the Saatchi Gallery behind it.
 
+![A white-walled gallery room at the Saatchi Gallery hung with framed prints](../../assets/articles/chelsea-area-guide/saatchi-gallery.jpg)
+
+*The Saatchi Gallery in the old Duke of York's HQ. Free to enter, and the rooms are as much of the draw as what is hung in them. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/31367858771), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ## Key streets and micro-districts
 
 ### Sloane Square and the eastern King's Road
@@ -107,6 +111,10 @@ Past the bend. Where the independent shops still are, including the surviving Vi
 ### The Chelsea backstreets
 Between the King's Road and the river: Bywater Street, St Leonard's Terrace, Margaretta Terrace. Painted terraces and almost no traffic.
 
+![The ornate red brick and stone frontage of the World's End Distillery pub on the King's Road](../../assets/articles/chelsea-area-guide/kings-road.jpg)
+
+*The World's End, at the far end of the King's Road. The stretch around it is where the punk shops were. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/5506552067), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -117,6 +125,10 @@ Between the King's Road and the river: Bywater Street, St Leonard's Terrace, Mar
 | **Bluebird** | Modern British | £££ | In a 1923 art deco garage on the King's Road |
 | **The Pig's Ear** | Gastropub | ££ | Backstreet pub off the river end, popular with locals |
 | **Chelsea Physic Garden Cafe** | Garden cafe | ££ | Requires garden admission, but you are sitting in it |
+
+![Albert Bridge over the Thames, its cast-iron towers and cables painted in pale pink, green and blue](../../assets/articles/chelsea-area-guide/albert-bridge.jpg)
+
+*Albert Bridge, repainted in 1992 in the pink, green and blue it wears now. Troops crossing it are still told to break step. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/6769918981), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ## Getting there
 

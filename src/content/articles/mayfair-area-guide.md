@@ -88,6 +88,10 @@ Mayfair has its own share of the commemorative plaques marking where notable peo
 6. **The other arcades** — Piccadilly Arcade, Princes Arcade and the Royal Arcade, all free to walk through and all quieter than Burlington.
 7. **Green Park and Berkeley Square** — Green Park to the south, and the plane trees of Berkeley Square, planted in 1789 and among the oldest in London.
 
+![The glass-roofed Burlington Arcade lined with jewellers' windows](../../assets/articles/mayfair-area-guide/burlington-arcade.jpg)
+
+*Burlington Arcade, open since 1819 and still patrolled by beadles who can stop you whistling or running in it. Photo: [Reading Tom](https://www.flickr.com/photos/16801915@N06/3282398164), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ## Key streets and micro-districts
 
 ### Bond Street
@@ -104,6 +108,10 @@ Between Curzon Street and Piccadilly. Narrow lanes, pubs with pavement tables, a
 
 ### Mount Street and Berkeley Square
 Red-brick Victorian Gothic on Mount Street, plane trees on the square, and the quietest walking in Mayfair.
+
+![Two adjoining Mayfair townhouses with blue plaques, one to Handel and one to Hendrix](../../assets/articles/mayfair-area-guide/handel-hendrix-house.jpg)
+
+*Two blue plaques, next door to each other. Handel lived at 25 Brook Street; Jimi Hendrix lived at 23, two centuries later. Photo: [HandelandHendrix](https://commons.wikimedia.org/w/index.php?curid=150507869), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ## Where to eat and drink
 

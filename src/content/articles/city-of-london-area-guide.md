@@ -90,6 +90,10 @@ The City of London has its own share of the commemorative plaques marking where 
 6. **The Roman remains** — The London Wall at Tower Hill and Noble Street, the Temple of Mithras rebuilt in situ beneath Bloomberg's building (free, booked), and the amphitheatre under the Guildhall Art Gallery.
 7. **The Wren churches** — Around 50 were built after the Great Fire; roughly half survive. St Stephen Walbrook, St Mary-le-Bow and St Bartholomew the Great are the best, and all are free.
 
+![St Paul's Cathedral rising above the City skyline, with the Millennium Bridge crossing the Thames below](../../assets/articles/city-of-london-area-guide/st-pauls-from-the-river.jpg)
+
+*St Paul's from the South Bank, with the Millennium Bridge running to its door. The bridge was built to frame exactly this. Photo: [damo1977](https://www.flickr.com/photos/60754591@N00/3467579254), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ## Key streets and micro-districts
 
 ### St Paul's and Paternoster Square
@@ -106,6 +110,10 @@ The Tower, the surviving stretch of Roman wall, and the approach to Tower Bridge
 
 ### Smithfield and Barbican
 The north-west edge. Smithfield meat market, St Bartholomew the Great, and the Barbican's brutalist estate and arts centre.
+
+![The painted ironwork and glass roof of Leadenhall Market, lit by hanging lamps](../../assets/articles/city-of-london-area-guide/leadenhall-market.jpg)
+
+*Leadenhall Market, rebuilt in 1881 on a site that has traded since the Roman forum stood here. It played Diagon Alley in the first Harry Potter film. Photo: [Loco Steve](https://www.flickr.com/photos/36989019@N08/7060927125), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ## Where to eat and drink
 

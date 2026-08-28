@@ -90,6 +90,10 @@ Richmond has its own share of the commemorative plaques marking where notable pe
 6. **Richmond Green** — A wide green ringed by Georgian houses, with the remains of Richmond Palace at one corner. Cricket in summer.
 7. **Kew Gardens** — Two stops north, or a 30-minute river walk. Ticketed, and a full half day on its own.
 
+![A red deer stag with full antlers lying in the grass beneath a tree in Richmond Park](../../assets/articles/richmond-area-guide/richmond-park-deer.jpg)
+
+*One of about 600 red and fallow deer roaming Richmond Park. Keep 50 metres back, and much further during the autumn rut. Photo: [Bruno Girin](https://www.flickr.com/photos/16405999@N00/19873390), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ## Key streets and micro-districts
 
 ### Richmond town centre
@@ -107,6 +111,10 @@ Below the hill. Pubs with terraces, boat hire, and the towpath south past the me
 ### Richmond Park
 Behind the hill. Pembroke Lodge, the Isabella Plantation and the Pen Ponds are the three things to aim for.
 
+![A stream running through the Isabella Plantation between banks of pink and red azaleas](../../assets/articles/richmond-area-guide/isabella-plantation.jpg)
+
+*The Isabella Plantation in late April. It is a 40-acre woodland garden inside the park, and spectacular for about two weeks a year. Photo: [Diliff](https://commons.wikimedia.org/w/index.php?curid=14946838), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -118,6 +126,10 @@ Behind the hill. Pembroke Lodge, the Isabella Plantation and the Pen Ponds are t
 | **Richmond Station arcade** | Cafes and delis | £ | Quick and practical before heading into the park |
 | **Al Boccon di'vino** | Italian set menu | £££ | No menu — they bring what they are cooking |
 
+![The red brick frontage of The Cricketers pub on Richmond Green](../../assets/articles/richmond-area-guide/richmond-green.jpg)
+
+*The Cricketers, on Richmond Green. Cricket is still played on the green in front of it in summer. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/2231008770), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ## Getting there
 
 **By Tube.** The **District line** runs direct to Richmond, the end of the Richmond branch, in about 30 minutes from Earl's Court. Step-free at Richmond.
@@ -127,6 +139,10 @@ Behind the hill. Pembroke Lodge, the Isabella Plantation and the Pen Ponds are t
 **Into the park.** **Richmond Gate** is the closest, up the hill from the town centre and about 20 minutes on foot. The **371 or 65 bus** saves the climb. Petersham Gate is the flatter approach.
 
 **By river.** Boats run upstream to Hampton Court in summer, and downstream towards Kew and Westminster — slow but scenic.
+
+![The ten-storey Great Pagoda at Kew Gardens against a blue sky](../../assets/articles/richmond-area-guide/kew-pagoda.jpg)
+
+*Kew's Great Pagoda, built in 1762. The eighty dragons on its roofs were restored and put back in 2018. Photo: [Atlaj123](https://commons.wikimedia.org/w/index.php?curid=72795184), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ## How long to spend, and when to go
 

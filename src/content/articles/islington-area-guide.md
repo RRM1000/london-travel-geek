@@ -92,6 +92,10 @@ Islington has its own share of the commemorative plaques marking where notable p
 6. **Chapel Market** — A traditional London street market off Liverpool Road, running most days. Fruit and veg, household goods and no pretensions.
 7. **The Regent's Canal and Islington Tunnel** — The canal vanishes into a 960-metre tunnel at City Road Basin. There is no towpath; a signed street route crosses over the top.
 
+![Antique shopfronts along Camden Passage in Islington](../../assets/articles/islington-area-guide/camden-passage.jpg)
+
+*Camden Passage, an alley of antique dealers behind Upper Street. Busiest for the market on Wednesdays and Saturdays. Photo: [David Hallam-Jones](https://commons.wikimedia.org/w/index.php?curid=122641586), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ## Key streets and micro-districts
 
 ### Angel and the southern end
@@ -109,6 +113,10 @@ West of Upper Street. Gibson Square, Lonsdale Square and Thornhill Square — qu
 ### Highbury and the northern end
 Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential streets around the old Arsenal stadium site.
 
+![The white stucco frontage of the Almeida Theatre in Islington](../../assets/articles/islington-area-guide/almeida-theatre.jpg)
+
+*The Almeida. Three hundred and twenty-five seats, and a habit of sending its productions to the West End. Photo: [Photo: Andreas Praefcke](https://commons.wikimedia.org/w/index.php?curid=15582698), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).*
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -119,6 +127,10 @@ Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential st
 | **The Castle** | Pub | ££ | Corner pub off Upper Street with a roof terrace |
 | **Gallipoli** | Turkish | ££ | Upper Street mainstay; loud, cheap and busy |
 | **Chapel Market stalls** | Street market | £ | Everyday food and produce, no tourists |
+
+![The Chapel Market sign spanning the street in Islington](../../assets/articles/islington-area-guide/chapel-market.jpg)
+
+*Chapel Market, a working street market rather than a curated one. Fruit and veg, and cheaper than anywhere on Upper Street. Photo: [David Hallam-Jones](https://commons.wikimedia.org/w/index.php?curid=122596944), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ## Getting there
 

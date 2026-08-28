@@ -105,6 +105,10 @@ Canary Wharf has its own share of the commemorative plaques marking where notabl
 
 *Skuna's barbecue boats on Middle Dock. You drive them yourself and cook while you go - no licence needed.*
 
+![The brick Georgian warehouse on West India Quay that houses the Museum of London Docklands](../../assets/articles/canary-wharf-area-guide/museum-of-london-docklands.jpg)
+
+*The Museum of London Docklands, in a Georgian sugar warehouse on West India Quay. Free, and much quieter than the Canary Wharf towers opposite. Photo: [ell brown](https://www.flickr.com/photos/39415781@N06/6455266221), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ## Key streets and micro-districts
 
 ### Canada Square and the malls

@@ -92,6 +92,10 @@ Kensington has its own share of the commemorative plaques marking where notable 
 6. **Serpentine Galleries** — Two free contemporary art spaces in Kensington Gardens, with the annual summer **Pavilion** commissioned from a different architect each year.
 7. **Opera Holland Park** — Summer opera under canvas in the ruins of Holland House, cheaper and far less formal than the major houses.
 
+![The Round Pond in Kensington Gardens at dusk, with Kensington Palace low on the horizon beyond](../../assets/articles/kensington-area-guide/kensington-gardens.jpg)
+
+*The Round Pond in Kensington Gardens, with the palace beyond it. The gardens close at dusk; Hyde Park next door does not. Photo: [Ray in Manila](https://www.flickr.com/photos/21186555@N07/27960679866), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ## Key streets and micro-districts
 
 ### Kensington High Street

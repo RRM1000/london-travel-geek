@@ -92,6 +92,10 @@ Bermondsey has its own share of the commemorative plaques marking where notable 
 6. **Fashion and Textile Museum** — Zandra Rhodes's bright orange and pink building on Bermondsey Street. Small, ticketed, and focused on textiles and design.
 7. **The Thames Path and Bermondsey Beach** — East from Tower Bridge past Butler's Wharf. At low tide a shingle foreshore is exposed with views back to the bridge.
 
+![The iron walkways spanning the narrow brick canyon of Shad Thames, in black and white](../../assets/articles/bermondsey-area-guide/shad-thames.jpg)
+
+*Shad Thames. The overhead walkways moved sacks of spice between warehouses; the buildings are flats now, the bridges left in place. Photo: [Rob Oo](https://commons.wikimedia.org/w/index.php?curid=152631540), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ## Key streets and micro-districts
 
 ### Bermondsey Street
@@ -112,6 +116,10 @@ South-east, along the viaduct towards South Bermondsey. Breweries, taprooms and 
 
 ### Bermondsey Square
 The Friday antiques market, a cinema and a hotel, at the southern end of Bermondsey Street.
+
+![The orange and pink exterior of the Fashion and Textile Museum on Bermondsey Street](../../assets/articles/bermondsey-area-guide/fashion-and-textile-museum.jpg)
+
+*The Fashion and Textile Museum, painted orange and pink by the Mexican architect Ricardo Legorreta. Impossible to walk past. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3612012652), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ## Where to eat and drink
 

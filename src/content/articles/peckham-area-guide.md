@@ -88,6 +88,10 @@ Peckham has its own share of the commemorative plaques marking where notable peo
 6. **Peckham Rye Park and Common** — Large, genuinely local, and where the area goes at the weekend. William Blake claimed to have seen angels in a tree here.
 7. **Peckhamplex** — A cinema selling tickets at a few pounds, which in central London is roughly a fifth of the price. Beloved locally and rightly so.
 
+![The red canopy of Frank's Cafe on a Peckham car park roof, with the London skyline beyond](../../assets/articles/peckham-area-guide/franks-cafe.jpg)
+
+*Frank's, on the top floor of a multi-storey car park. Summer only, and the view is the entire point. Photo: [Loz Flowers](https://www.flickr.com/photos/99245765@N00/4800919009), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ## Key streets and micro-districts
 
 ### Rye Lane
@@ -104,6 +108,10 @@ North towards Camberwell, with the South London Gallery on it.
 
 ### Peckham Rye
 South, towards the park. More residential, and where the area calms down.
+
+![The bright pink Peckhamplex cinema frontage advertising all tickets at £5.99](../../assets/articles/peckham-area-guide/peckhamplex.jpg)
+
+*Peckhamplex. Every ticket, every showing, is a flat few pounds - the cheapest cinema in London by a distance. Photo: [Rhagfyr](https://commons.wikimedia.org/w/index.php?curid=144499998), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
 ## Where to eat and drink
 

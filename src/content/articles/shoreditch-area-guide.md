@@ -97,6 +97,10 @@ Shoreditch has its own share of the commemorative plaques marking where notable 
 6. **Dennis Severs' House** — A candlelit Georgian house on Folgate Street presented as if the family has just left the room. Silent, strange and unlike anything else in the city. Booked in advance.
 7. **Boxpark Shoreditch** — Shipping containers stacked into a food and retail court by Shoreditch High Street station.
 
+![A large mural of a woman in a pink beanie hat with teal and orange hair, on a Shoreditch wall](../../assets/articles/shoreditch-area-guide/shoreditch-street-art.jpg)
+
+*Shoreditch changes month to month. Nothing here is permanent, which is the reason to walk it more than once. Photo: [Loco Steve](https://www.flickr.com/photos/36989019@N08/39711836800), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ## Key streets and micro-districts
 
 ![A large boot mural painted on a building in Shoreditch](../../assets/articles/shoreditch-area-guide/shoreditch-street-art.jpg)
@@ -121,6 +125,10 @@ North of Old Street and noticeably calmer. **Hoxton Square** is a proper garden 
 ### Columbia Road
 North-east and residential all week, then a wall of flowers on Sunday morning.
 
+![The Truman Brewery chimney and clock tower rising over Brick Lane](../../assets/articles/shoreditch-area-guide/truman-brewery.jpg)
+
+*The Truman Brewery. Brewing stopped in 1989 and the buildings now hold markets, studios and bars across both sides of Brick Lane. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2403737549), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -131,6 +139,10 @@ North-east and residential all week, then a wall of flowers on Sunday morning.
 | **Smoking Goat** | Thai barbecue | ££ | Shoreditch High Street; walk-in only downstairs |
 | **The Ten Bells** | Historic pub | ££ | Beside Spitalfields, with its Victorian tiling intact |
 | **Brick Lane Sunday food halls** | Street food | £ | Truman Brewery; dozens of traders under cover |
+
+![Shipping-container units and long wooden benches at Boxpark Shoreditch](../../assets/articles/shoreditch-area-guide/boxpark-shoreditch.jpg)
+
+*Boxpark, built out of shipping containers in 2011. The upper deck is food stalls and long shared tables. Photo: [JasonParis](https://www.flickr.com/photos/94064020@N00/8063833095), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ## Getting there
 

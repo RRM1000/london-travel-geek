@@ -91,6 +91,10 @@ Marylebone has its own share of the commemorative plaques marking where notable 
 6. **Wigmore Hall** — A 1901 chamber music hall with near-perfect acoustics. Sunday morning coffee concerts are cheap and excellent.
 7. **The Sherlock Holmes Museum and Madame Tussauds** — Both on Baker Street, both ticketed, both usually with a queue. Manage expectations.
 
+![A row of medieval helmets and shields mounted along a wall in the Wallace Collection](../../assets/articles/marylebone-area-guide/wallace-collection.jpg)
+
+*The Wallace Collection's armoury. The whole museum was left to the nation on the condition that nothing ever leaves it. Photo: [gruntzooki](https://www.flickr.com/photos/37996580417@N01/55292433963), [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 ## Key streets and micro-districts
 
 ### Marylebone High Street
@@ -112,6 +116,10 @@ North. The Sherlock Holmes Museum, Madame Tussauds and the traffic. The least pl
 
 ### Chiltern Street
 Red-brick Victorian gothic, bridal shops, instrument dealers and the Chiltern Firehouse in an old fire station.
+
+![The green Edwardian shopfront of Daunt Books on Marylebone High Street](../../assets/articles/marylebone-area-guide/daunt-books.jpg)
+
+*Daunt Books, an Edwardian shop built for a bookseller and still one. The travel section is arranged by country. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2417477044), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ## Where to eat and drink
 

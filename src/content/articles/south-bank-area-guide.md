@@ -90,6 +90,10 @@ The South Bank has its own share of the commemorative plaques marking where nota
 8. **HMS Belfast and Tower Bridge** — At the eastern end. The Tower Bridge glass floor walkway looks down on the traffic 42 metres below.
 9. **Hay's Galleria** — The old Hay's Wharf, where Britain's tea came ashore, roofed over in 1987 with a glass barrel vault modelled on Milan's Galleria Vittorio Emanuele II. Free, covered, and holding a sixty-foot kinetic sculpture called The Navigators. Directly behind HMS Belfast.
 
+![The London Eye turning behind the curved stone frontage of County Hall on the South Bank](../../assets/articles/south-bank-area-guide/london-eye-county-hall.jpg)
+
+*The Eye behind County Hall. It went up in 1999 as a temporary structure with a five-year permit. Photo: [barry.marsh1944](https://www.flickr.com/photos/126409951@N04/49097008366), [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/).*
+
 ## Key streets and micro-districts
 
 ### Queen's Walk (London Eye to Southbank Centre)
@@ -114,6 +118,10 @@ The eastern end, with City Hall's old building, HMS Belfast and the approach to 
 
 ### Lower Marsh and Leake Street
 Behind Waterloo station. Lower Marsh is a genuine local street of independent cafes and a weekday market, five minutes off the tourist route and far better value. **Leake Street** runs under the station alongside it.
+
+![The underside of the Millennium Bridge, its steel arms spreading above the Thames path, with Tate Modern beyond](../../assets/articles/south-bank-area-guide/millennium-bridge.jpg)
+
+*Under the Millennium Bridge on the south bank. It swayed so badly on opening that it shut for two years. Photo: [SLR Jester](https://www.flickr.com/photos/16549191@N00/325850961), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ## Where to eat and drink
 

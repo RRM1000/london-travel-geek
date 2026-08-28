@@ -88,6 +88,10 @@ Stratford has its own share of the commemorative plaques marking where notable p
 6. **Lee Valley VeloPark** — The Olympic velodrome, open for taster sessions on the boards, plus BMX and mountain bike tracks.
 7. **Hackney Wick and the canal** — West across the water. Warehouse studios and canal-side breweries, twenty minutes on foot.
 
+![Wetland planting along the River Lea in the Queen Elizabeth Olympic Park, with the ArcelorMittal Orbit beyond](../../assets/articles/stratford-area-guide/olympic-park.jpg)
+
+*The planted river valley running through the Olympic Park. Most of the park is this rather than the venues. Photo: [Peter O'Connor aka anemoneprojectors](https://www.flickr.com/photos/58414938@N00/25121703793), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ## Key streets and micro-districts
 
 ### The Olympic Park (south)
@@ -108,6 +112,10 @@ East of the station. The older Stratford — a covered market, Theatre Royal Str
 
 ### Hackney Wick
 West across the canal. Artists' studios, breweries and the footbridges into the park.
+
+![A track cyclist banking high on the wooden boards of the Lee Valley VeloPark velodrome](../../assets/articles/stratford-area-guide/lee-valley-velopark.jpg)
+
+*The velodrome from the 2012 Games. You can book taster sessions and ride the boards yourself. Photo: [kevin.gale](https://www.flickr.com/photos/52647449@N04/23204273471), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ## Where to eat and drink
 

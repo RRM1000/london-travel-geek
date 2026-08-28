@@ -88,6 +88,10 @@ Wapping has its own share of the commemorative plaques marking where notable peo
 6. **Brunel's Thames Tunnel** — The first tunnel ever built under a navigable river, completed 1843. It now carries Overground trains between Wapping and Rotherhithe. The **Brunel Museum** on the far side opens the original shaft.
 7. **Wapping Rose Garden and the Thames Path** — Small riverside gardens with clear views across to Rotherhithe and downstream to Canary Wharf.
 
+![The white weatherboarded Prospect of Whitby pub seen from the Thames at low tide](../../assets/articles/wapping-area-guide/prospect-of-whitby.jpg)
+
+*The Prospect of Whitby, claiming a licence back to 1520. The terrace over the water is the reason to come. Photo: [Christine Matthews](https://commons.wikimedia.org/w/index.php?curid=174127501), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ## Key streets and micro-districts
 
 ### Wapping High Street

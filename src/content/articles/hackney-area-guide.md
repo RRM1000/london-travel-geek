@@ -88,6 +88,10 @@ Hackney has its own share of the commemorative plaques marking where notable peo
 6. **Hackney Wick** — Converted warehouses, artists' studios and canal-side breweries opposite the Olympic Park. Best on a summer afternoon.
 7. **Hackney Empire** — A restored 1901 music hall on Mare Street, still programming comedy, pantomime and variety.
 
+![The boating lake in Victoria Park with a pagoda on the far bank and people along the path](../../assets/articles/hackney-area-guide/victoria-park.jpg)
+
+*Victoria Park's boating lake. It opened in 1845 as the first public park in Britain built for the working poor. Photo: [martin_vmorris](https://www.flickr.com/photos/24108242@N05/50050092236), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ## Key streets and micro-districts
 
 ### Broadway Market and London Fields
