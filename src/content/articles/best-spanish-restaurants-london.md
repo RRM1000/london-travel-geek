@@ -100,17 +100,29 @@ The counter format everyone else in London copied. **No bookings** — you put y
 
 José Pizarro's **standing-room sherry bar** on Bermondsey Street — a handful of stools, a lot of jamón, and no reservations. Jamón, a few plates and a glass of fino comes in well under £25.
 
+![Croquetas on a white plate](../../assets/articles/best-spanish-restaurants-london/jose.jpg)
+
+*Twenty covers, standing room only, and no bookings. Jose Pizarro's first place on Bermondsey Street. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/8722630539), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Pizarro, Bermondsey
 
 *£££ · a few doors up*
 
 The **sit-down sibling to José** — same chef, tables instead of stools, and you can book. The pragmatic choice with a group.
 
+![Crab with olives and herbs on a white plate](../../assets/articles/best-spanish-restaurants-london/pizarro.jpg)
+
+*Jose Pizarro's larger Bermondsey Street room, where you can actually book a table. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/53936325626), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ### Salt Yard, Fitzrovia
 
 *£££ · Spanish-Italian*
 
 **Courgette flowers with goat's cheese and honey** — the dish that launched a hundred imitations, from one of the originals of the London tapas wave.
+
+![Croquetas topped with sauce on a white plate](../../assets/articles/best-spanish-restaurants-london/salt-yard.jpg)
+
+*Spanish-Italian small plates, and the courgette flower stuffed with goat's cheese has been on since it opened. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4094273174), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ---
 
@@ -146,11 +158,19 @@ Twenty-odd covers, an all-Spanish drinks list heavy on sherry, and the charm of 
 
 A standing-and-perching tapas bar of the kind Soho used to be full of, with a genuinely good Spanish wine list sold by the copita — the small glass the place is named after.
 
+![The dark frontage and pavement tables of Copita on d'Arblay Street](../../assets/articles/best-spanish-restaurants-london/copita.jpg)
+
+*Small plates and sherry, standing up if it is busy. No bookings for most of the room. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/6435938511), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Dehesa, Soho
 
 *££ · Carnaby Street*
 
 Spanish-Italian charcuterie and small plates on a corner site off Carnaby Street, from the same group as Salt Yard. The Ibérico ham and the courgette flower are the two things people order every time.
+
+![The awnings and pavement seating of Dehesa on Ganton Street](../../assets/articles/best-spanish-restaurants-london/dehesa.jpg)
+
+*Spanish-Italian small plates off Carnaby Street, and one of the better places to eat alone at the counter. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2512459014), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Parrillan, King's Cross
 

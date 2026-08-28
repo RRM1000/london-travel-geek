@@ -120,6 +120,10 @@ The useful quirk is that **USDA and British dry-aged cuts sit on the same menu**
 
 Mayfair and the City are the sites to use.
 
+![A grilled steak with a bowl of chips](../../assets/articles/best-steak-restaurants-london/goodman.jpg)
+
+*A Russian-owned New York-style steakhouse, and the dry-aging is done in-house. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4567552384), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### CUT at 45 Park Lane, Mayfair
 
 *££££ · 5 min from Hyde Park Corner*

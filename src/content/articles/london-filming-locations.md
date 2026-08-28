@@ -126,6 +126,10 @@ Doug the Head's diamond shop is on **Hatton Garden, London's real diamond distri
 
 The floating Chinese pagoda appears in *The Gentlemen* and as a backdrop in *Slow Horses*. It is a working restaurant you can book.
 
+![A red floating Chinese pagoda restaurant moored on Regent's Canal](../../assets/articles/london-filming-locations/feng-shang-princess.jpg)
+
+*A floating pagoda moored at Cumberland Basin. You pass it on the canal walk between Little Venice and Camden. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/14431541920), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ---
 
 ## Batman and dystopia

@@ -82,6 +82,10 @@ The **deep-fried whole seabass** with herbs has survived every menu change since
 
 > A kitchen fire in May 2025 wrecked the extraction and shut it for six months. It **reopened on 11 November 2025** and is back at full strength — some guides still carry a "temporarily closed" flag that is long out of date.
 
+![A cocktail with mint in a tall glass](../../assets/articles/best-thai-restaurants-london/som-saa.jpg)
+
+*Northern Thai cooking in a Spitalfields warehouse, and hotter than most London Thai food dares to be. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/34780201915), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ### Khun Pakin Thai, Hammersmith
 
 *££ · inside The Salutation, 154 King Street*
@@ -151,6 +155,10 @@ The short rib curry is the order. The best Thai cooking in central London, and o
 *£££ · 1 min from Shoreditch High Street*
 
 Kiln's sibling, doing **Thai drinking food and live-fire cooking** in a room that behaves like a bar. Later and louder, and the better choice if you want to stay a while.
+
+![The corner frontage of Smoking Goat in Shoreditch](../../assets/articles/best-thai-restaurants-london/smoking-goat.jpg)
+
+*Thai barbecue and a lot of noise. The chicken wings are the thing. Photo: [Ewan-M](https://commons.wikimedia.org/w/index.php?curid=174581316), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Kolae, Borough
 

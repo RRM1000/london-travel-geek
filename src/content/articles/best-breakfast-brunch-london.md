@@ -68,6 +68,10 @@ The Irani cafés of old Bombay recreated in careful detail, and the **bacon naan
 
 *The bacon naan. Smoked streaky, cream cheese and chilli-tomato jam in a fresh naan — it travels well, which is why half of them leave the building.*
 
+![A Dishoom breakfast plate with bacon, sausages, mushrooms, baked beans, akuri scrambled eggs and buttered buns](../../assets/articles/best-breakfast-brunch-london/dishoom-breakfast.jpg)
+
+*The full Bombay, if you want the whole thing rather than the roll. The yellow scramble is akuri — eggs with chilli, coriander and ginger.*
+
 Breakfast and lunch barely queue, unlike the evenings. Any party size can book before 6pm.
 
 ### Duck & Waffle, City of London
@@ -83,11 +87,6 @@ Forty floors up and **open around the clock** — the only place in London where
 Every inch of wall covered in framed pictures — probably the most photographed dining room in London, and quietest at breakfast.
 
 ---
-
-
-![A Dishoom breakfast plate with bacon, sausages, mushrooms, baked beans, akuri scrambled eggs and buttered buns](../../assets/articles/best-breakfast-brunch-london/dishoom-breakfast.jpg)
-
-*The full Bombay at Dishoom. The yellow scramble is akuri - eggs with chilli, coriander and ginger - and it is what makes this different from every other fry-up in London.*
 
 ## Australian brunch
 
@@ -105,11 +104,19 @@ Bill Granger brought Sydney brunch to London and the **ricotta hotcakes** have b
 
 An all-day kitchen with a roastery attached — the room most responsible for London's brunch-and-flat-white culture.
 
+![Bacon, avocado and rocket on toast](../../assets/articles/best-breakfast-brunch-london/caravan.jpg)
+
+*Caravan roasts its own coffee and treats brunch as a proper kitchen exercise rather than a holding pattern until dinner. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5624757340), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Milk, Balham
 
 *££ · 3 min from Balham*
 
 A Balham café that has topped London brunch lists for years without ever opening a second site, which tells you something.
+
+![The frontage of Milk café in Balham with pavement tables](../../assets/articles/best-breakfast-brunch-london/milk.jpg)
+
+*The Balham café that drew people across the river before south London brunch was a thing. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/28220076190), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Beany Green, Little Venice
 
@@ -133,6 +140,18 @@ An independent on Southwark Street since **2005**, doing a proper cooked breakfa
 
 **The terrace runs seven days and takes no bookings**, which makes it one of the more likely places to get a table on a Saturday in Bankside.
 
+### Hawksmoor, several sites
+
+*£££ · a separate breakfast menu*
+
+The steakhouse does a full English built out of its own butchery — **bone marrow, a smoked bacon chop and short rib** alongside the eggs — which makes it a different proposition from a café fry-up at roughly a café-fry-up-plus price.
+
+![A Hawksmoor breakfast of fried eggs, black pudding, sausages, mushrooms and bone marrow in a cast iron pan](../../assets/articles/best-breakfast-brunch-london/hawksmoor-breakfast.jpg)
+
+*Bone marrow and a short rib on the same plate as the eggs. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5652623969), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
+> ⚠️ **Breakfast is not served at every branch, or every day.** Guildhall has run it on weekdays and Air Street on Saturdays, but the schedule moves. Check the specific site before travelling for it.
+
 ---
 
 ## Coffee-first
@@ -145,6 +164,10 @@ Places where the coffee is the reason and the food is very good anyway.
 
 Australian-run, and one of the shops that brought antipodean coffee culture to London. The food counter is better than it needs to be.
 
+![A slice of tart with a green salad on a wooden counter](../../assets/articles/best-breakfast-brunch-london/kaffeine.jpg)
+
+*An Australian-run café on Great Titchfield Street that set the template a lot of London coffee shops followed. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3859693639), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Prufrock, Clerkenwell
 
 *£ · Leather Lane*
@@ -156,6 +179,10 @@ The shop that trained a generation of London baristas, with its own training cen
 *£ · a watchman's hut*
 
 Started in a nineteenth-century watchman's hut on Bermondsey Street and has become the most polished coffee group in London.
+
+![The marble counter and espresso machine inside a WatchHouse café](../../assets/articles/best-breakfast-brunch-london/watchhouse.jpg)
+
+*The Bermondsey original is in a Victorian watch house built to guard the graveyard next door. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/51668939250), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Ginger & White, Hampstead
 
@@ -183,6 +210,10 @@ The most distinctive weekend brunch in London, and the one most worth rearrangin
 
 A French bistro at the end of an unmarked Bethnal Green side street, with **a pianist playing through the middle of the day**. That is the whole proposition and it has worked for years.
 
+![The brick exterior of a converted warehouse in Bethnal Green](../../assets/articles/best-breakfast-brunch-london/bistrotheque.jpg)
+
+*There is no sign. You find the door, go up the stairs, and the room opens out white and full of light. Photo: [Ewan-M](https://commons.wikimedia.org/w/index.php?curid=187564628), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 ### Carmel, Queen's Park
 
 *Weekend only · Sat and Sun 10am–3.30pm*
@@ -205,6 +236,10 @@ Taiwanese steamed buns turned into breakfast: a **bacon and egg bao** with char 
 
 An American grill in a Grade II Covent Garden building, and the **warm brioche French toast** is what it is known for.
 
+![The Victorian stone entrance of Christopher's on Wellington Street](../../assets/articles/best-breakfast-brunch-london/christopher-s.jpg)
+
+*The American brunch in a grand Covent Garden townhouse, up a spiral staircase. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3588167076), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Esters, Stoke Newington
 
 *Saturday only · no bookings, card only*
@@ -225,11 +260,19 @@ The Williamsburg original's first site outside New York, and the **hazelnut and 
 
 Prices are published, which is rarer than it should be: avocado toast **£12.80**, cheddar scramble **£17.50**, shakshuka **£15.50**, an egg sandwich **£13.80**, and chia pudding at **£8** if you want the cheap way in.
 
+![A breakfast sandwich with egg and cheese on a brioche bun](../../assets/articles/best-breakfast-brunch-london/sunday-in-brooklyn.jpg)
+
+*A New York import in Shoreditch. The pancakes with hazelnut praline are what it is known for. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/51995111426), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ### TAB x TAB, Westbourne Grove
 
 *Daily · last food orders 3pm*
 
 Seven days a week from 8.30am on weekdays and 9am at weekends, which makes it the reliable answer in a part of London where most of the good rooms are weekend-only.
+
+![A flat white in a ceramic cup on a wooden tray](../../assets/articles/best-breakfast-brunch-london/tab-x-tab.jpg)
+
+*A Bayswater café that roasts its own and does the food properly rather than as an afterthought. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/36652781816), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### The Laundry, Brixton
 

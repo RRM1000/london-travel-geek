@@ -172,6 +172,10 @@ Middle Eastern small plates, entirely vegetarian, and busy enough that nobody bo
 
 The window display of salads and cakes is the London original. Communal tables behind it, deli counter alongside.
 
+![A slice of tart with poached egg, tomato and watercress on a blue plate](../../assets/articles/best-middle-eastern-restaurants-london/ottolenghi.jpg)
+
+*The counters are stacked with salads by the metre. Islington is the original branch. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2466885795), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Berber & Q, Haggerston
 
 *£££ · a railway arch*

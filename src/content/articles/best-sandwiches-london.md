@@ -186,6 +186,10 @@ Thirty seconds from Kappacasein and the porchetta counterweight to it: slow-roas
 
 Fergus Henderson's **bacon sandwich** on soft white bread is the benchmark every other London bacon butty is measured against. Simple to the point of austerity, and correct.
 
+![A bowl of dark braised mussels with aioli](../../assets/articles/best-sandwiches-london/st-john-bread-and-wine.jpg)
+
+*The smaller, more casual St John. The doughnuts sell out and the bacon sandwich is the famous one. Photo: [gruntzooki](https://www.flickr.com/photos/37996580417@N01/30397319856), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Regency Café, Westminster
 
 *17–19 Regency Street · Mon–Sat, closed Sundays*
@@ -217,6 +221,10 @@ The caff that people in the food world actually eat at, known for a **chicken es
 **The smoked eel sandwich** — toasted bread, horseradish cream, pickled onion — is the most famous individual sandwich in London, and the only one here that comes from a proper restaurant kitchen.
 
 Jeremy Lee has been making it for years and it has outlasted every trend that has passed through Soho since.
+
+![The black frontage of Quo Vadis on Dean Street](../../assets/articles/best-sandwiches-london/quo-vadis.jpg)
+
+*Karl Marx lived upstairs. The smoked eel sandwich at the bar is the cheap way in. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2588280146), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Milk, Balham
 

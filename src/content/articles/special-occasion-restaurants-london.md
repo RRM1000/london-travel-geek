@@ -109,6 +109,10 @@ Dishes rebuilt from British recipes as far back as the fourteenth century — th
 
 > ⚠️ **Confirmed closing in January 2027** when the Knightsbridge lease ends. If you have been meaning to go, this is the year.
 
+![Sliced bread with a slab of butter on a black board](../../assets/articles/special-occasion-restaurants-london/dinner-by-heston-blumenthal.jpg)
+
+*The menu is built from historic British recipes, each dated. The meat fruit is the one everybody orders. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5881670409), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ---
 
 ## Book for the room
@@ -120,6 +124,10 @@ Where the building is the occasion.
 *£££ · the conservatory*
 
 Regularly called **the most romantic room in London** — a blossom-covered conservatory with a fire and a retractable roof. Book the conservatory specifically and say why; it is the difference between a good dinner and the one people remember.
+
+![The frontage of Clos Maggiore in Covent Garden, lit and decorated](../../assets/articles/special-occasion-restaurants-london/clos-maggiore.jpg)
+
+*Ask for the conservatory when you book. The blossom-covered room is the whole point and it is not where they seat you by default. Photo: [James E. Petts](https://www.flickr.com/photos/14730981@N08/52553938990), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### River Café, Hammersmith
 
@@ -138,6 +146,10 @@ Afternoon tea inside an art installation. The Gallery is the photographed one; t
 *££££ · Press for Champagne*
 
 Booth-only, art deco throughout, and a **button at every table marked Press for Champagne**. It works.
+
+![Blinis with caviar and soured cream on a gold-rimmed plate](../../assets/articles/special-occasion-restaurants-london/bob-bob-ricard.jpg)
+
+*The booths all have a button marked Press for Champagne, which is exactly as silly and enjoyable as it sounds. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5111925674), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Duck & Waffle, City of London
 

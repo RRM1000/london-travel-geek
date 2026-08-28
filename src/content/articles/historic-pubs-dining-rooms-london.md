@@ -74,6 +74,10 @@ Rebuilt in **1667, immediately after the Great Fire**, down an alley off Fleet S
 
 The single most atmospheric room on this page, and the easiest to walk past — the entrance is a gap in the buildings rather than a frontage.
 
+![The black frontage and hanging sign of Ye Olde Cheshire Cheese off Fleet Street](../../assets/articles/historic-pubs-dining-rooms-london/ye-olde-cheshire-cheese.jpg)
+
+*Rebuilt in 1667 after the Great Fire. A warren of dark rooms down an alley, and Dickens drank here. Photo: [Adam Bruderer](https://www.flickr.com/photos/50191609@N00/9622652945), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ### The Town of Ramsgate, Wapping
 
 *££ · a pub here since at least 1545*
@@ -115,6 +119,10 @@ A converted warehouse laid out like a ship's hull, named for the pirate hanged a
 *£ · a back-street local*
 
 An 1830 pub that **JMW Turner is said to have owned and run for a mistress**. The last plain, unreconstructed local in an area whose riverside pubs have all been discovered.
+
+![The frontage of the Turner's Old Star pub in Wapping in autumn](../../assets/articles/historic-pubs-dining-rooms-london/turner-s-old-star.jpg)
+
+*Turner supposedly kept a mistress here. A proper backstreet local, off the tourist stretch of Wapping. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2468561619), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ---
 
@@ -211,6 +219,10 @@ The cellars are widely sold as Newgate Prison cells. Newgate did stand across th
 Hidden up an alley off Ely Place, a private road that was legally part of Cambridgeshire — which is the genuinely interesting thing about it, along with the preserved cherry tree trunk in the front bar.
 
 A Fuller's pub, and **food is bar snacks and toasties only**, so come for a pint rather than dinner. Closed Sundays.
+
+![The painted hanging sign of Ye Olde Mitre showing a bishop's mitre and the date 1546](../../assets/articles/historic-pubs-dining-rooms-london/ye-olde-mitre.jpg)
+
+*The sign in Ely Court, carrying the mitre and the 1546 date. It is the only thing marking the alley, and easy to walk past twice. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4224779897), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### The Seven Stars, Holborn
 

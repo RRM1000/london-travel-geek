@@ -332,6 +332,10 @@ The former Hongkong and Shanghai Banking Corporation headquarters, opened 1913 �
 
 The former ballroom of the Great Eastern Hotel, Grade II listed, with the gilded plasterwork and chandeliers intact. On the station concourse, so it is the useful one if you are waiting for a train.
 
+![The ornate entrance of Hamilton Hall pub at Liverpool Street station](../../assets/articles/cheap-eats-london/hamilton-hall.jpg)
+
+*A Wetherspoons in the former ballroom of the Great Eastern Hotel, complete with chandeliers and gilt mirrors. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2804281208), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### The Ledger Building, Canary Wharf
 
 *£ · 4 Hertsmere Road, West India Quay*

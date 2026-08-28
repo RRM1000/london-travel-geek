@@ -127,6 +127,10 @@ An all-day kitchen with its own roastery attached — the room most responsible 
 
 The beans are **roasted inside prisons** by people the company then trains and employs on release. A coffee business built around reducing reoffending, and the coffee stands up without the story.
 
+![A cappuccino in a blue cup](../../assets/articles/best-coffee-london/redemption-roasters.jpg)
+
+*The coffee is roasted in a young offenders institution as part of a training programme. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/36031309506), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ---
 
 ## The roasters
@@ -151,6 +155,10 @@ A **working roastery in the basement with a full kitchen above it** — closer t
 
 A roaster's shop where **the filter list changes constantly** and the staff will talk you through it if you want them to, and leave you alone if you do not.
 
+![The open frontage of Workshop Coffee with a passer-by](../../assets/articles/best-coffee-london/workshop-coffee.jpg)
+
+*One of the early London roasteries, and still the reference point for a lot of what followed. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/8401291269), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Climpson & Sons, London Fields
 
 *£ · 6 min from Cambridge Heath*
@@ -163,11 +171,19 @@ On **Broadway Market since before the street became what it is now**, roasting i
 
 A pared-back Scandinavian room a few streets from Prufrock, and **named among the best coffee shops in the UK for 2026**.
 
+![A flat white with heart latte art in a glass cup](../../assets/articles/best-coffee-london/catalyst.jpg)
+
+*A roastery café near King's Cross that takes the coffee seriously and the room lightly. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/33625242186), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ### Old Spike, Peckham
 
 *£ · 5 min from Peckham Rye*
 
 A Peckham roastery that **employs and trains people who have experienced homelessness**. The coffee stands on its own merits, which is rather the point — it is not a charity you buy from out of sympathy.
+
+![A cappuccino in a blue cup on a wooden table](../../assets/articles/best-coffee-london/old-spike.jpg)
+
+*A Peckham roastery that trains and employs people who have experienced homelessness. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/33666350895), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ---
 
@@ -180,6 +196,10 @@ A Peckham roastery that **employs and trains people who have experienced homeles
 Trading on Old Compton Street since **1887**, selling beans over the counter with an espresso hatch and **nowhere at all to sit**. An espresso costs less than almost anywhere in central London and you drink it on the pavement.
 
 The oldest thing on this list by a century, and still a working merchant rather than a museum.
+
+![The red-painted Victorian shopfront of Algerian Coffee Stores on Old Compton Street](../../assets/articles/best-coffee-london/algerian-coffee-stores.jpg)
+
+*The shopfront has barely changed since 1887. Espresso to take away costs a fraction of what the cafés around it charge. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2441960131), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### The Attendant, Fitzrovia
 

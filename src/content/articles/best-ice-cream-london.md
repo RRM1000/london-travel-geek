@@ -69,6 +69,10 @@ The vegan sorbets are marked on the menu — watermelon, apricot, almond, lemon 
 
 Open to **midnight on Fridays and Saturdays**, which makes it one of the few genuinely late desserts in the West End.
 
+![A tub of chocolate gelato with a wafer and a brownie](../../assets/articles/best-ice-cream-london/gelupo.jpg)
+
+*Across the road from its own restaurant, Bocca di Lupo. The ricotta and sour cherry is the one to get. Photo: [andreasivarsson](https://www.flickr.com/photos/35254833@N04/7555706866), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ### Romeo & Giulietta, Stoke Newington
 
 *137 Albion Road*

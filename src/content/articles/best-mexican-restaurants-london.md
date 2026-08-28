@@ -65,6 +65,10 @@ This guide skips the burrito.
 
 Santiago Lastra cooks **Mexican technique using British ingredients — no imported produce at all**. The constraint is the entire concept, and it produces food that could not exist anywhere else.
 
+![A clay bowl of shredded meat with herbs and pickled onion](../../assets/articles/best-mexican-restaurants-london/kol.jpg)
+
+*Mexican technique applied strictly to British ingredients — no imported produce, which is the whole conceit. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/51604595625), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ### Cavita, Marylebone
 
 *££££ · 3 min from Bond Street*
@@ -127,6 +131,10 @@ The most serious corn programme in London. Chef Yahir Gonzalez, from Aguascalien
 
 Sourcing that specific tells you the masa is made from scratch daily. The scallop aguachile with Clamato and pomegranate is the dish.
 
+![Sliced meat with pineapple on a corn tortilla](../../assets/articles/best-mexican-restaurants-london/zapote.jpg)
+
+*Mexican cooking in Hackney with the corn treated as the main event rather than the wrapper. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/53436663110), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ### Sonora Taquería, Stoke Newington
 
 *££ · 208 Stoke Newington High Street*
@@ -188,6 +196,10 @@ Veracruz roots, **hand-pressed tortillas made fresh daily**, and a birria simmer
 **A market stall by day and a counter restaurant by night**, from Nick Fitzgerald, who cooked at Pujol in Mexico City — which is not a line most London taquerias can offer.
 
 The crab tostada is the order, and there is Yucatecan xni-pec salsa on the table.
+
+![Two tacos on corn tortillas with salsa and coriander](../../assets/articles/best-mexican-restaurants-london/tacos-padre.jpg)
+
+*Borough Market. They nixtamalise their own corn on site, which almost nobody else in London does. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/50251889493), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Taquiza, Peckham
 

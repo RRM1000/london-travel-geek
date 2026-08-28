@@ -128,6 +128,10 @@ Book. It is small and it fills.
 
 Gerald Scarfe's caricatures cover the walls, there is a fire, and a live band most nights. Closer to a private library than a hotel bar.
 
+![A cocktail on a bar counter](../../assets/articles/best-cocktail-bars-london/scarfes-bar.jpg)
+
+*Named for the caricaturist Gerald Scarfe, whose drawings cover the walls. Live jazz most nights. Photo: [Bex Walton](https://commons.wikimedia.org/w/index.php?curid=189969117), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
+
 ### Kwãnt, Mayfair
 
 *££££ · 52 Stratton Street*
@@ -135,6 +139,10 @@ Gerald Scarfe's caricatures cover the walls, there is a fire, and a live band mo
 **No.79 in the World's 50 Best Bars 2025**
 
 Erik Lorincz, formerly of the Savoy's American Bar, running a basement room. The technical end of Mayfair.
+
+![Two cocktails on yellow coasters on a wood bar](../../assets/articles/best-cocktail-bars-london/kwant.jpg)
+
+*A Mayfair basement bar from a Connaught alumnus, and quieter than its postcode suggests. Photo: [Bex Walton](https://commons.wikimedia.org/w/index.php?curid=193540390), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 ---
 
@@ -156,17 +164,29 @@ Cheaper, later, and no less serious.
 
 Calvados and apple run through the whole menu — a bar with an argument rather than a list.
 
+![The corner frontage of Coupette in Bethnal Green](../../assets/articles/best-cocktail-bars-london/coupette.jpg)
+
+*A French-leaning cocktail bar that made its name on Calvados and apples. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/48470775107), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Swift, Soho
 
 *£££ · Old Compton Street*
 
 **Two bars in one building, built so you can use it either way** — quick drinks upstairs before dinner, and a dark room with a long whisky list downstairs for after it. The most useful cocktail bar in Soho for that reason alone.
 
+![The blue frontage of Swift on Old Compton Street](../../assets/articles/best-cocktail-bars-london/swift.jpg)
+
+*Upstairs is a quick aperitivo bar, downstairs is a dark room for staying in. Two bars, one door. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/34156340355), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Bar Termini, Soho
 
 *£££ · Old Compton Street*
 
 Twenty-odd seats, **negronis aged in the bottle**, and an espresso counter by day. Closer to Rome than to Soho, and small enough that you should expect to wait.
+
+![A single espresso in a striped cup on a dark wood counter](../../assets/articles/best-cocktail-bars-london/bar-termini.jpg)
+
+*Termini is a standing bar first and a cocktail bar second — the espresso is the reason to come in daylight. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/28064635233), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Three Sheets, Soho and Dalston
 
@@ -226,6 +246,10 @@ Ryan Chetiyawardana again — the Lyaness man — in a stripped concrete basemen
 
 Low ceilings, low light and a short menu under Hoxton Square. **One of the rooms that started London's basement bar habit**, and still doing it without fuss.
 
+![A pavement A-board outside Happiness Forgets in Hoxton Square](../../assets/articles/best-cocktail-bars-london/happiness-forgets.jpg)
+
+*A basement bar with no sign at street level beyond the board. Book, because it holds about thirty people. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/6258205723), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Nightjar, Shoreditch
 
 *£££ · 129 City Road · live jazz*
@@ -235,6 +259,10 @@ Fifteen years of deeply researched historic cocktails in a basement off Old Stre
 Live jazz three sets a night, and the charges nobody mentions until you arrive: a **music cover of £6 standard or £10 premium per person**, paid to the musicians, and a **minimum spend of £15 per person per hour**. No bookings between 9.15pm and 11pm during live sets. Over-21s.
 
 > The Carnaby Street site closed permanently in September 2025. Shoreditch is the one that trades.
+
+![An unmarked wooden door beside a green wall](../../assets/articles/best-cocktail-bars-london/nightjar.jpg)
+
+*There is no sign. You ring, you go down, and there is live music every night. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/8473655212), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Oriole, Smithfield
 

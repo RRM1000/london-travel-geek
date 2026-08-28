@@ -119,6 +119,10 @@ A marble-topped oyster bar, Dover sole meunière and a carving trolley, none of 
 
 > The certificate displayed on its website is a Michelin Guide listing rather than a star. Wiltons does not hold one, and several guides get this wrong.
 
+![The frontage of Wiltons Restaurant on Jermyn Street at night](../../assets/articles/best-seafood-restaurants-london/wiltons.jpg)
+
+*Trading since 1742. Oysters, game and a dress code that is not entirely a joke. Photo: [Spudgun67](https://commons.wikimedia.org/w/index.php?curid=72552746), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 ### Scott's, Mayfair
 
 *££££ · 20 Mount Street*
@@ -126,6 +130,10 @@ A marble-topped oyster bar, Dover sole meunière and a carving trolley, none of 
 **Trading since 1851**, and the grandest seafood dining room in London — the Mount Street room where Mayfair goes to be seen eating crustacea.
 
 Two policies worth knowing before you book: under-sixes are admitted only at weekend and holiday lunch, and from May 2026 it takes assistance dogs only.
+
+![The awnings and frontage of Scott's on Mount Street](../../assets/articles/best-seafood-restaurants-london/scott-s.jpg)
+
+*Mayfair's grand fish restaurant, and the crustacea counter is the thing to sit at. Photo: [La Citta Vita](https://www.flickr.com/photos/49539505@N04/12620350394), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Sweetings, City of London
 

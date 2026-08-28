@@ -146,6 +146,10 @@ Run by the Hare Krishna temple it shares a building with, and feeding Soho since
 
 Entirely vegetarian, largely vegan, and completely unbothered about whether you are either. One of the last places in central Soho where a full meal costs less than a pint.
 
+![The red awning of Govinda's Pure Vegetarian Restaurant on Soho Street](../../assets/articles/best-vegetarian-vegan-restaurants-london/govinda-s.jpg)
+
+*Run by the Hare Krishna temple next door. Cheap, plain and entirely vegetarian. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3085944256), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Indian Veg, Islington
 
 *£ · 92-93 Chapel Market · all-you-can-eat*

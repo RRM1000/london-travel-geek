@@ -90,12 +90,12 @@ The hill it stands on is free, and the view over the city from the terrace is wo
 
 Home of the **London Symphony Orchestra**, at the centre of the Barbican's brutalist estate. Classical, jazz and contemporary programming in the same season.
 
----
-
 
 ![The Royal Albert Hall auditorium during a concert, tiers of red seating curving around a lit stage](../../assets/articles/best-live-music-venues-london/royal-albert-hall.jpg)
 
 *The Royal Albert Hall mid-performance. It seats over 5,000 and the Proms run here every summer.*
+
+---
 
 ## Historic buildings
 

@@ -162,6 +162,10 @@ An unexpectedly large **basement dining room behind Paddington station**, routin
 
 > **Two cheaper routes.** **Chinatown's supermarkets** — Loon Fung and See Woo — sell roast meats and some frozen dim sum over the counter at a fraction of restaurant prices. And **Bang Bang Oriental** in Colindale, Britain's largest Asian food hall, has several dim sum counters where you can eat a few baskets for well under £15.
 
+![A steamed rice noodle roll in soy sauce on a white plate](../../assets/articles/best-dim-sum-london/pearl-liang.jpg)
+
+*Hidden in a Paddington basement behind the station, and much better than its location suggests. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3676852528), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ---
 
 ## For an evening
@@ -179,6 +183,10 @@ Dim sum in a **bar-led room** rather than a banquet hall, which makes it the one
 *£££ · Taiwanese*
 
 **Xiao long bao folded to eighteen pleats** behind glass — the Taiwanese chain Ken Hom put in the New York Times' top ten. A chain, but a serious one, and open into the evening.
+
+![The white frontage of Din Tai Fung in Covent Garden with people queueing](../../assets/articles/best-dim-sum-london/din-tai-fung.jpg)
+
+*The Taiwanese soup-dumpling chain. You can watch them pleated through the window while you wait. Photo: [Heeheemalu](https://commons.wikimedia.org/w/index.php?curid=127443026), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ---
 

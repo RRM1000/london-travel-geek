@@ -264,11 +264,19 @@ Twenty-inch pizzas sold whole or by the slice, with toppings split across halves
 
 Started as a Soho market cart in 2012 and now runs across London, ranked seventh in the 50 Top World Artisan Pizza Chains list. Reliable rather than remarkable — but genuinely consistent, and you can walk into any of them.
 
+![A margherita pizza on a checked tablecloth](../../assets/articles/best-pizza-london/pizza-pilgrims.jpg)
+
+*Started as a three-wheeled van and kept the Neapolitan dough. The fried pizza starter is the outlier worth ordering. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/35140239561), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ### Santa Maria, Ealing
 
 *££ · Ealing · 7 min from Ealing Broadway*
 
 A small Ealing pizzeria that built its reputation on strict Neapolitan method years before the current wave arrived. Worth knowing if you are anywhere in west London.
+
+![The white frontage of Santa Maria pizzeria at night](../../assets/articles/best-pizza-london/santa-maria.jpg)
+
+*Ealing, of all places, has one of London's better Neapolitan pizzas. Photo: [markhillary](https://www.flickr.com/photos/56087830@N00/4429138753), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ---
 

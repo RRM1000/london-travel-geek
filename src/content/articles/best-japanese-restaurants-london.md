@@ -66,6 +66,10 @@ Omakase means the chef chooses. You sit at the counter, courses arrive in sequen
 
 Toru Takahashi and his wife Harumi run **seven seats** at a pale hinoki counter in a Clerkenwell alley. Tables release in batches and go in minutes. Nothing else in London is this small or this precise.
 
+![The plain frontage of Sushi Tetsu in Clerkenwell](../../assets/articles/best-japanese-restaurants-london/sushi-tetsu.jpg)
+
+*Seven seats and one chef. Booking is genuinely difficult and the reason people persist is the omakase. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/7670311580), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### The Araki, Mayfair
 
 *££££ · around £310 · two sittings a night*
@@ -100,6 +104,10 @@ Chris Restrepo runs Japanese technique through his Thai-Colombian background acr
 
 **Kaiseki in the Kyoto tradition** — a fixed seasonal progression rather than a sushi counter, which makes it a genuinely different meal from everything above.
 
+![The wooden frontage and doorway of Umu in Mayfair](../../assets/articles/best-japanese-restaurants-london/umu.jpg)
+
+*Kyoto-style kaiseki, and one of the most expensive rooms in London to eat in. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2570835137), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Engawa, Soho
 
 *££££ · 2 min from Piccadilly Circus*
@@ -124,6 +132,10 @@ The Japanese pub format — small plates and grilled skewers, ordered across the
 
 The **robata grill sits in the middle of the room** and everything comes off it. Open since 2003 and still the template. Black cod on a hoba leaf is the order.
 
+![The corner frontage of Roka on Charlotte Street](../../assets/articles/best-japanese-restaurants-london/roka.jpg)
+
+*Robata grilling around a central counter. Sit at it rather than at a table. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3694773151), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Zuma, Knightsbridge
 
 *££££ · 2 min from Knightsbridge*
@@ -141,6 +153,10 @@ A maximalist take on a Ginza night out — closer to a bar with exceptional food
 *£££ · 2 min from Hampstead*
 
 A small family-run izakaya on Heath Street doing **charcoal yakitori at prices that have never caught up with its reputation**. The best-value serious Japanese meal in London.
+
+![Salmon roe over grated daikon in a ceramic bowl](../../assets/articles/best-japanese-restaurants-london/jin-kichi.jpg)
+
+*A cramped Hampstead grill house that has been doing charcoal skewers since 1978. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3955871266), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ---
 

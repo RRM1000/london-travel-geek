@@ -120,6 +120,10 @@ Checked tablecloths, a blackboard *menu du jour* written in French, and about tw
 
 The most convincingly Parisian room in London, and small enough that booking is not optional.
 
+![A plate of galette with charcuterie and salad on a checked tablecloth](../../assets/articles/best-french-restaurants-london/casse-croute.jpg)
+
+*A tiny Bermondsey bistro with a blackboard menu of three starters, three mains, three puddings. It changes daily. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/34881836400), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ### Pique-Nique, Bermondsey
 
 *£££ · Tanner Street Park*
@@ -156,11 +160,19 @@ Grand-café proportions — booths, high ceilings, a wine bar downstairs — doi
 
 The pre-theatre menu is the reason most people go, and it is genuinely cheap for the postcode.
 
+![A tureen of soup with croutons on a lion-footed bowl](../../assets/articles/best-french-restaurants-london/mon-plaisir.jpg)
+
+*London's oldest French restaurant, four knocked-together rooms of it, and the pre-theatre menu is the bargain. Photo: [Ewan Munro from London, UK](https://commons.wikimedia.org/w/index.php?curid=24281649), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### L'Escargot, Soho
 
 *£££ · Greek Street*
 
 Trading in Soho **since 1927**, and still doing snails in garlic butter in a first-floor dining room hung with art. More of an institution than a destination, which is rather the point.
+
+![The green awnings and frontage of L'Escargot on Greek Street](../../assets/articles/best-french-restaurants-london/l-escargot.jpg)
+
+*Soho's oldest French restaurant, open since 1927, and still serving the snails. Photo: [michaeljohnbutton](https://www.flickr.com/photos/73156278@N08/9671711481), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### The French House, Soho
 
@@ -176,11 +188,19 @@ The dining room upstairs is a proper restaurant with its own following. The bar 
 
 A Victorian school chapel with a vaulted ceiling and a mezzanine, holding a **Michelin star**, doing precise French cooking in what is easily the most dramatic dining room in east London.
 
+![Sliced duck breast with red cabbage and a dark sauce](../../assets/articles/best-french-restaurants-london/galvin-la-chapelle.jpg)
+
+*A Victorian former school hall in Spitalfields, with a vaulted ceiling that does most of the work. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4286655868), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Chez Bruce, Wandsworth
 
 *££££ · Michelin star · by Wandsworth Common*
 
 A neighbourhood restaurant with a **Michelin star** that has never behaved like a starred room — no theatrics, no tasting-menu-only rule, and a set price that includes the whole meal.
+
+![The frontage of Chez Bruce beside Wandsworth Common](../../assets/articles/best-french-restaurants-london/chez-bruce.jpg)
+
+*The neighbourhood restaurant other chefs name when asked where they eat on a night off. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2879798210), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Planque, Haggerston
 
@@ -212,6 +232,10 @@ The cheapest French food in London is **standing up at Borough Market**. There i
 * **Bouchon Racine** is still the best-value serious French cooking in London, and it is above a pub.
 * **Casse-Croûte** and **Les 2 Garçons** both run about £40–£55 a head for three courses.
 * **The French House** is a pub, and priced like one downstairs.
+
+![A cheese stall at Borough Market piled with wheels and wedges](../../assets/articles/best-french-restaurants-london/borough-market.jpg)
+
+*Borough is at its best for raw materials rather than lunch — the cheese, fish and produce stalls are what the traders come for. Photo: [tonylanciabeta](https://www.flickr.com/photos/88589821@N00/3871464899), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ---
 

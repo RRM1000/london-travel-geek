@@ -88,6 +88,10 @@ The most recognised afternoon tea in London, served in the Palm Court with a pia
 
 Art Deco Mayfair, with its own house blend of Assam and Darjeeling, served in the Foyer and Reading Room.
 
+![The art deco entrance canopy of Claridge's in Mayfair](../../assets/articles/best-afternoon-tea-london/claridge-s.jpg)
+
+*The most formal of the grand teas, in a foyer designed to be walked through slowly. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2611316232), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Fortnum & Mason, Piccadilly
 
 *££££ · the tea merchant's own salon*
@@ -128,6 +132,10 @@ Under a Baccarat crystal chandelier with a Steinway playing, and a tea master wh
 
 The Rosebery lounge backs onto Hyde Park — the one grand tea with a park view rather than a room view.
 
+![The red brick and terracotta facade of the Mandarin Oriental on Knightsbridge](../../assets/articles/best-afternoon-tea-london/mandarin-oriental-hyde-park.jpg)
+
+*The tea room looks over Hyde Park, which is worth the surcharge over the ones that look at a lobby. Photo: [ell brown](https://www.flickr.com/photos/39415781@N06/20826604740), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ---
 
 ## Easier to book
@@ -137,6 +145,10 @@ The Rosebery lounge backs onto Hyde Park — the one grand tea with a park view 
 *££££ · 4 min from Green Park*
 
 The **intimate, club-like** option — panelled and low-ceilinged where The Dorchester is a long bright promenade. The one to pick if the grand hotels feel like too much room.
+
+![The Georgian frontage of Brown's Hotel on Albemarle Street](../../assets/articles/best-afternoon-tea-london/brown-s-hotel.jpg)
+
+*London's oldest hotel, and its afternoon tea is the least stiff of the grand ones. Photo: [Londonmatt](https://commons.wikimedia.org/w/index.php?curid=8743312), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Rosewood London, Bloomsbury
 
@@ -173,6 +185,10 @@ Pastries modelled on the **current season's runway** — handbags, heels, a new 
 *££££ · the pink room*
 
 Afternoon tea **inside an art installation**. The pink Gallery room and the egg-shaped lavatories are as photographed as the food.
+
+![The pink upholstered dining room at Sketch, hung with drawings](../../assets/articles/best-afternoon-tea-london/sketch.jpg)
+
+*The Gallery, David Shrigley's pink room, is where afternoon tea is served. Photo: [Glam UK](https://www.flickr.com/photos/135288089@N05/27039938264), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ---
 

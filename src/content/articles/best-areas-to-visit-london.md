@@ -30,10 +30,10 @@ London is not a monolithic city—it is a tapestry of distinct, walkable village
 > - **Returning, or staying a week:** work through the second.
 > - **Been three times already:** the third is where London actually lives.
 
----
-
 ![Illustrated map of London's neighbourhoods along the River Thames](../../assets/articles/best-areas-to-visit-london/london-areas-map.jpg)
 *Central London neighbourhood map: the key visitor districts along the River Thames.*
+
+---
 
 ---
 

@@ -204,6 +204,10 @@ Croissants and pains au chocolat are straightforwardly excellent. The north Lond
 
 Built its reputation on the **cruffin** — the croissant-muffin hybrid that most bakeries do badly — and is the reason people cross north London on a Saturday morning. Also does a serious sourdough, which the queue tends to ignore.
 
+![The frontage of Sourdough Sophia bakery with pavement seating](../../assets/articles/best-bakeries-london/sourdough-sophia.jpg)
+
+*An Islington bakery doing long-fermented loaves and a very good cardamom bun. Photo: [Keith Page](https://commons.wikimedia.org/w/index.php?curid=196207114), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 ---
 
 ## The one that is everywhere
@@ -238,6 +242,10 @@ This is the north end of Portobello, past the antiques and past most of the tour
 
 The other Brick Lane beigel shop a few doors down has its own partisans and a long-running rivalry with this one. Try both; people have opinions about this that are out of proportion to the stakes.
 
+![Customers outside the Beigel Bake shopfront on Brick Lane in the rain](../../assets/articles/best-bakeries-london/beigel-bake.jpg)
+
+*Open around the clock, and the queue is the same at four in the morning as at lunchtime. Photo: [chas679](https://www.flickr.com/photos/128863823@N04/20362225603), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ### Bread Ahead, Borough Market
 
 *Doughnuts*
@@ -245,6 +253,10 @@ The other Brick Lane beigel shop a few doors down has its own partisans and a lo
 Custard-filled doughnuts finished in front of you at Borough Market — the filling goes in to order, which is the entire difference between this and a supermarket doughnut. A baking school runs upstairs if you want to be taught rather than fed.
 
 Now in several locations, but Borough is the original and the one with the theatre.
+
+![A sugar-dusted doughnut with a honeycomb shard on a blue plate](../../assets/articles/best-bakeries-london/bread-ahead.jpg)
+
+*The doughnuts are the draw, filled to order. The bakery school upstairs teaches you to make them. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/35138538481), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ---
 
@@ -261,6 +273,10 @@ A tiny Swedish bakery on Rose Street doing **cardamom buns and princess cake** a
 *Italian · since 1944*
 
 The mint-green Brewer Street deli, with fresh pasta and Italian baking, trading since 1944.
+
+![The green-tiled corner shopfront of Lina Stores on Brewer Street](../../assets/articles/best-bakeries-london/lina-stores.jpg)
+
+*A 1944 Italian deli that turned into a pasta bar. The green stripes are on everything they own now. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/48224733512), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ---
 

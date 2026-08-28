@@ -361,11 +361,11 @@ Standard off-peak fares apply, and night journeys count towards the previous day
 ### Weekend Engineering Work
 TfL frequently performs track maintenance and signaling upgrades over weekends. Before heading out on Saturday or Sunday—especially for airport flights or theatre shows—check the [TfL Planned Closures Page](https://tfl.gov.uk/status-updates/planned-track-closures) or use the **TfL Go App**.
 
----
-
 ![A long curving pedestrian tunnel lined with a colour-changing light wall, linking King's Cross and St Pancras](../../assets/articles/how-to-use-the-london-underground/kings-cross-lightwall-tunnel.jpg)
 
 *The King's Cross Lightwall, on the pedestrian tunnel between King's Cross St Pancras Tube and the main line stations. It is the quickest way between the two and the signage is easy to miss — follow signs for St Pancras International rather than trying to go back up to street level.*
+
+---
 
 ## Step-free access & travelling with luggage
 

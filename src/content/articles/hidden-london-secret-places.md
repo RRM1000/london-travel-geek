@@ -101,12 +101,12 @@ One of eight **WWII deep-level shelters** built under Underground stations, hold
 
 Walk **under the Thames** through a tiled Victorian tunnel and come up on the Isle of Dogs with the whole Greenwich skyline behind you.
 
----
-
 
 ![The stepped concrete terraces of the Alexandra Road Estate, planted with shrubs along a pedestrian street](../../assets/articles/hidden-london-secret-places/alexandra-road-terraces.jpg)
 
 *Alexandra Road in Camden - a Grade II* listed concrete street with no cars on it at all. It is a public right of way and you can simply walk down it.*
+
+---
 
 ## Courtyards and alleys
 

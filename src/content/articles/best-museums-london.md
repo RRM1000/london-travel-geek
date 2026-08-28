@@ -96,12 +96,12 @@ Housed in what was **Bethlem Royal Hospital — the original Bedlam** — with t
 
 Two thousand paintings from the 1200s to 1900 at the National, including Van Gogh's Sunflowers. The Portrait Gallery round the corner reopened in 2023 and is markedly quieter.
 
----
-
 
 ![The blue whale skeleton suspended in the vaulted Hintze Hall of the Natural History Museum](../../assets/articles/best-museums-london/natural-history-museum-hintze-hall.jpg)
 
 *Hintze Hall at the Natural History Museum. The blue whale replaced Dippy the diplodocus in 2017.*
+
+---
 
 ## The best small museums
 

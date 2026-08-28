@@ -136,6 +136,10 @@ South London's proper dim sum hall, at roughly half the central mark-up, and ser
 
 All-day dim sum with a patisserie counter downstairs, from the Hakkasan founder. Held a star for four years.
 
+![The blue-lit frontage of Yauatcha in Soho](../../assets/articles/best-chinese-east-asian-restaurants-london/yauatcha.jpg)
+
+*Dim sum served all day under a fish tank, plus a patisserie counter that is a separate business in spirit. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2255139672), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ---
 
 ## Thai
@@ -145,6 +149,10 @@ All-day dim sum with a patisserie counter downstairs, from the Hakkasan founder.
 *£££ · 3 min from Piccadilly Circus*
 
 Everything comes off wood and charcoal along a single counter. Sit at the bar and order the **short rib curry**. The best Thai cooking in central London.
+
+![Sliced grilled pork with a wedge of lime on a stone plate](../../assets/articles/best-chinese-east-asian-restaurants-london/kiln.jpg)
+
+*Cook over live fire in clay pots along an open counter. Sit at the bar and watch it happen. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/50584857087), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Speedboat Bar, Chinatown
 

@@ -97,6 +97,10 @@ A **96-foot double-decker barge** on the canal, serving British cheese in small 
 
 A **125-year-old Dutch barge** sailed over from the Netherlands and permanently moored, with a garden alongside and the Olympic Park skyline behind it.
 
+![A converted Dutch barge moored on the River Lea with a canopied deck](../../assets/articles/unusual-restaurants-london/barge-east.jpg)
+
+*A hundred-year-old Dutch barge dragged from Holland and moored on the Lea. The garden alongside it does most of the covers in summer. Photo: [Ewan-M](https://commons.wikimedia.org/w/index.php?curid=174581442), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 ---
 
 ## Buildings that used to be something else

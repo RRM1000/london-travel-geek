@@ -83,6 +83,10 @@ Angela Hartnett's Mayfair dining room, starred within four months of opening in 
 
 If the price is the obstacle, **Café Murano** in Covent Garden is the same kitchen thinking at roughly a third of it.
 
+![A charcuterie board with olive oil and grissini](../../assets/articles/best-italian-restaurants-london/murano.jpg)
+
+*Angela Hartnett's Mayfair dining room. The pasta course is the one to build the meal around. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5210809193), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Langosteria London, Westminster
 
 *££££ · 3 min from Embankment*
@@ -185,11 +189,19 @@ Worth the trip north, and quieter midweek.
 
 Tim Siadatan, ex-St John and Moro, cooking a frequently changing seasonal menu of hand-made pasta and charcoal-grilled meat. The **pappardelle with eight-hour beef shin ragu** is the dish, and this is the Italian restaurant London chefs name most.
 
+![A grilled steak with mashed peas and gravy](../../assets/articles/best-italian-restaurants-london/trullo.jpg)
+
+*Islington. The hand-rolled pasta changes daily and the beef over charcoal is the constant. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/14194656052), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Padella, Borough
 
 *£ · walk-in only*
 
 A short menu of hand-rolled pasta at low prices, which is why the queue exists. Original site at Borough Market takes no bookings — use the virtual queue app. Also in Shoreditch and Soho.
+
+![The interior counter of Padella with cooks working behind it](../../assets/articles/best-italian-restaurants-london/padella.jpg)
+
+*Sit at the counter and watch the pasta being rolled. The queue moves faster than it looks. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/28035454561), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Bancone, Covent Garden
 

@@ -196,6 +196,10 @@ One of the first two Indian restaurants anywhere in the world to win a Michelin 
 
 **Book:** [Reserve a table](http://www.tamarindrestaurant.com/)
 
+![The dark frontage of Tamarind restaurant in Mayfair](../../assets/articles/best-indian-restaurants-london/tamarind.jpg)
+
+*The first Indian restaurant in the world to get a Michelin star, in 2001. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5211344376), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Oudh 1722, Borough
 
 *££££ · Borough · 5 min from Borough · book weeks ahead*
@@ -252,6 +256,10 @@ The same coast as Quilon for a fifth of the price. An entirely vegetarian Kerala
 
 Cheaper than almost anything in this guide and better than most of it.
 
+![A bowl of aubergine curry in a steel dish](../../assets/articles/best-indian-restaurants-london/rasa.jpg)
+
+*Keralan vegetarian cooking in Stoke Newington, and one of the few places in London doing it properly. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4829536059), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Kokum, East Dulwich
 
 *£££ · East Dulwich · 13 min from East Dulwich · 3 sources*
@@ -289,6 +297,10 @@ A love letter to the Bombay dining rooms of the 1970s, from the group behind Gym
 ▶ **In the videos:** [Harrison Webb visits from 18:15](https://www.youtube.com/watch?v=6mDJrJFvllo&t=1095s).
 
 **Book:** [Reserve a table](https://www.sevenrooms.com/reservations/empireempirelondon)
+
+![A bowl of aloo dish served on floral vintage china](../../assets/articles/best-indian-restaurants-london/empire-empire.jpg)
+
+*Styled as a 1970s Bombay drinking den, down to the crockery. The food is more serious than the theming suggests. Photo: [Brokentaco](https://www.flickr.com/photos/92024986@N00/54019764399), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Darjeeling Express, Covent Garden
 
@@ -342,6 +354,10 @@ It is also BYOB, which is where the real saving is: a full meal with your own wi
 
 **Book:** [Reserve a table](https://booking.resdiary.com/widget/Standard/Tayyabs/13658)
 
+![Grilled lamb chops sizzling on a cast iron platter](../../assets/articles/best-indian-restaurants-london/tayyabs.jpg)
+
+*The lamb chops are the entire reason for the queue. Bring your own drink; they do not serve alcohol. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3103113765), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### City Spice, Brick Lane
 
 *££ · Brick Lane · 11 min from Aldgate East · video pass; Brick Lane*
@@ -361,6 +377,10 @@ Be clear-eyed about the trade, though: Tayyabs is a ten-minute walk away and it 
 Open since 1946, claimed as the oldest North Indian restaurant in Britain, and still run by the same family four generations in. It predates Britain's entire curry-house boom, which makes the menu a genuine historical document as much as a dinner.
 
 **4 minutes from Dishoom.**
+
+![The blue frontage of Punjab restaurant in Covent Garden](../../assets/articles/best-indian-restaurants-london/punjab.jpg)
+
+*Open since 1946 and calling itself the UK's oldest Punjabi restaurant, which as far as anyone can tell it is. Photo: [Mr ATM](https://www.flickr.com/photos/77551055@N00/52709251817), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ---
 
