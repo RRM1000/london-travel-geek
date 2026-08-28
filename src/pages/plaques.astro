@@ -689,7 +689,7 @@ const breadcrumbs = [
       </div>`;
   }
 
-  function render() {
+  function render(opts?: { skipFitBounds?: boolean }) {
     const visible = plaques.filter(matches);
     cluster.clearLayers();
     markerById.clear();
@@ -729,8 +729,13 @@ const breadcrumbs = [
     // Zoom the map to the matching pins whenever a filter is active, so a
     // search or category pick visibly answers "where are they" without any
     // panning. Skips the unfiltered state - resetting to the full-London view
-    // on every cleared search would be more jarring than helpful.
-    if (filtered && visible.length) {
+    // on every cleared search would be more jarring than helpful. Also
+    // skipped when the caller is about to call focusPlaque() itself right
+    // after (selectSuggestion) - that does its own precise setView(), and
+    // firing an animated fitBounds() a moment before it competed with that
+    // for the map's in-progress transition, which was silently swallowing
+    // the popup-open callback more often than not.
+    if (filtered && visible.length && !opts?.skipFitBounds) {
       const bounds = L.latLngBounds(visible.map((p) => [p.lat, p.lng]));
       map.fitBounds(bounds, { padding: [40, 40], maxZoom: 16 });
     }
@@ -753,9 +758,19 @@ const breadcrumbs = [
     const p = plaques.find((x) => x.id === id);
     const m = markerById.get(id);
     if (!p || !m) return;
+    // Not cluster.zoomToShowLayer(): its job is unspiderfying a marker that
+    // may still be buried in a cluster bubble, but 17 is disableClusteringAt
+    // Zoom - nothing is ever clustered there, so that machinery is not
+    // needed, and its callback turned out not to fire reliably when the
+    // marker happened to already be visible before the call. Open once the
+    // pan/zoom this triggers actually finishes (moveend), with a timeout
+    // backstop in case the view was already exactly this - Leaflet does not
+    // fire moveend for a no-op setView.
+    let opened = false;
+    const open = () => { if (!opened) { opened = true; m.openPopup(); } };
+    map.once("moveend", open);
     map.setView([p.lat, p.lng], 17);
-    // markercluster needs a beat to unspiderfy before the popup can open
-    setTimeout(() => { cluster.zoomToShowLayer(m, () => m.openPopup()); }, 100);
+    setTimeout(open, 400);
     history.replaceState(null, "", `#plaque-${id}`);
   }
 
@@ -866,6 +881,12 @@ const breadcrumbs = [
   }
 
   function setView(mode: "map" | "list") {
+    // No-op when already there. Without this, selecting a suggestion while
+    // already on the map view still queued an invalidateSize() below on
+    // every single pick, which could land mid-way through the animated
+    // setView()/zoomToShowLayer() sequence focusPlaque() starts right after
+    // this returns and interrupt it - the popup silently failing to open.
+    if (mode === viewMode) return;
     viewMode = mode;
     const toMap = mode === "map";
     mapEl.hidden = !toMap;
@@ -983,10 +1004,36 @@ const breadcrumbs = [
     query = p.title.toLowerCase();
     const url = new URL(location.href);
     url.searchParams.set("q", p.title);
+
+    // The dropdown deliberately searches every plaque regardless of active
+    // filters (so you can always find one by name), but render() only ever
+    // builds a marker for the currently-filtered set - so picking a plaque
+    // a colour/category/star/area filter excludes left focusPlaque() with no
+    // marker to find, and it silently did nothing. Picking a specific plaque
+    // by name is an explicit "show me this one"; only the filters actually
+    // in its way get cleared, so one that already matches is left alone.
+    if (showFeaturedOnly && !featuredIds.has(p.id)) {
+      showFeaturedOnly = false;
+      filtersEl.querySelector(".is-star")?.setAttribute("aria-pressed", "false");
+    }
+    if (activeColours.size && !activeColours.has(p.colour || "unknown")) {
+      activeColours.clear();
+      filtersEl.querySelectorAll("button:not(.is-star)").forEach((b) => b.setAttribute("aria-pressed", "false"));
+    }
+    if (activeCategories.size && !activeCategories.has(p.category || "other")) {
+      activeCategories.clear();
+      categoryFiltersEl.querySelectorAll("button").forEach((b) => b.setAttribute("aria-pressed", "false"));
+    }
+    if (activeArea && AREA_BOUNDS[activeArea] && !inArea(p, AREA_BOUNDS[activeArea])) {
+      activeArea = null;
+      areaChipEl.hidden = true;
+      url.searchParams.delete("area");
+    }
+
     history.replaceState(null, "", url);
     closeSuggest();
     setView("map");
-    render();
+    render({ skipFitBounds: true });
     focusPlaque(p.id);
   }
 
