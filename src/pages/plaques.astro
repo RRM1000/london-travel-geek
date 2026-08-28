@@ -124,6 +124,9 @@ const breadcrumbs = [
 
       <div class="plaques-viewrow">
         <p class="plaques-count" id="plaque-count" aria-live="polite"></p>
+        <button type="button" id="area-chip" class="area-chip" hidden aria-label="Clear area filter">
+          📍 <span id="area-chip-name"></span> <span aria-hidden="true">✕</span>
+        </button>
         <div class="plaques-viewtoggle" role="group" aria-label="Map or list view">
           <button type="button" id="view-map-btn" aria-pressed="true">Map</button>
           <button type="button" id="view-list-btn" aria-pressed="false">List</button>
@@ -310,6 +313,15 @@ const breadcrumbs = [
     gap: 0.75rem; flex-wrap: wrap;
   }
   .plaques-count { font-size: 0.88rem; color: var(--muted, #5a6a7d); margin: 0; }
+
+  .area-chip {
+    display: inline-flex; align-items: center; gap: 0.35rem;
+    font: inherit; font-size: 0.82rem; font-weight: 600;
+    padding: 0.25rem 0.65rem; border-radius: 999px;
+    border: 1px solid var(--accent, #d6392f);
+    background: rgb(214 57 47 / 0.12); color: var(--accent, #d6392f);
+    cursor: pointer;
+  }
 
   .plaques-viewtoggle {
     display: inline-flex; border: 1px solid var(--line-strong, #cbc2b2);
@@ -524,6 +536,8 @@ const breadcrumbs = [
   const listMoreBtn = document.getElementById("list-load-more") as HTMLButtonElement;
   const viewMapBtn = document.getElementById("view-map-btn")!;
   const viewListBtn = document.getElementById("view-list-btn")!;
+  const areaChipEl = document.getElementById("area-chip")!;
+  const areaChipNameEl = document.getElementById("area-chip-name")!;
 
   const esc = (s: string) =>
     s.replace(/[&<>"']/g, (m) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[m]!);
@@ -578,6 +592,55 @@ const breadcrumbs = [
   let listShown = 0;
   const LIST_PAGE = 300;
 
+  // ---------------------------------------------------------------- areas
+  // Lets an area guide link straight to "just this neighbourhood" via
+  // ?area=slug. The dataset only records borough-level location text, not
+  // neighbourhood polygons, so this is a best-effort centre + radius per
+  // area guide, not a surveyed boundary - good enough for "roughly here".
+  const AREA_BOUNDS: Record<string, { name: string; lat: number; lng: number; km: number }> = {
+    battersea: { name: "Battersea", lat: 51.4720, lng: -0.1649, km: 1.3 },
+    bermondsey: { name: "Bermondsey", lat: 51.4979, lng: -0.0827, km: 1.1 },
+    bloomsbury: { name: "Bloomsbury", lat: 51.5220, lng: -0.1257, km: 0.9 },
+    camden: { name: "Camden", lat: 51.5390, lng: -0.1426, km: 1.1 },
+    "canary-wharf": { name: "Canary Wharf", lat: 51.5054, lng: -0.0235, km: 1.2 },
+    chelsea: { name: "Chelsea", lat: 51.4875, lng: -0.1687, km: 1.1 },
+    "city-of-london": { name: "the City of London", lat: 51.5155, lng: -0.0922, km: 1.2 },
+    "covent-garden": { name: "Covent Garden", lat: 51.5117, lng: -0.1240, km: 0.7 },
+    fitzrovia: { name: "Fitzrovia", lat: 51.5185, lng: -0.1395, km: 0.7 },
+    greenwich: { name: "Greenwich", lat: 51.4826, lng: -0.0077, km: 1.3 },
+    hackney: { name: "Hackney", lat: 51.5450, lng: -0.0553, km: 1.3 },
+    hampstead: { name: "Hampstead", lat: 51.5560, lng: -0.1780, km: 1.2 },
+    islington: { name: "Islington", lat: 51.5416, lng: -0.1022, km: 1.1 },
+    kensington: { name: "Kensington", lat: 51.5010, lng: -0.1935, km: 1.1 },
+    "kings-cross": { name: "King's Cross", lat: 51.5308, lng: -0.1238, km: 0.9 },
+    marylebone: { name: "Marylebone", lat: 51.5183, lng: -0.1500, km: 0.9 },
+    mayfair: { name: "Mayfair", lat: 51.5100, lng: -0.1490, km: 0.8 },
+    "notting-hill": { name: "Notting Hill", lat: 51.5150, lng: -0.1964, km: 1.0 },
+    paddington: { name: "Paddington", lat: 51.5154, lng: -0.1755, km: 0.9 },
+    peckham: { name: "Peckham", lat: 51.4730, lng: -0.0693, km: 1.2 },
+    richmond: { name: "Richmond", lat: 51.4613, lng: -0.3037, km: 1.4 },
+    shoreditch: { name: "Shoreditch", lat: 51.5259, lng: -0.0784, km: 1.0 },
+    soho: { name: "Soho", lat: 51.5136, lng: -0.1355, km: 0.7 },
+    "south-bank": { name: "the South Bank", lat: 51.5062, lng: -0.1104, km: 1.0 },
+    "south-kensington": { name: "South Kensington", lat: 51.4941, lng: -0.1738, km: 0.9 },
+    stratford: { name: "Stratford", lat: 51.5416, lng: -0.0042, km: 1.3 },
+    wapping: { name: "Wapping", lat: 51.5044, lng: -0.0552, km: 1.0 },
+    westminster: { name: "Westminster", lat: 51.4995, lng: -0.1357, km: 1.1 },
+  };
+  let activeArea: string | null = null;
+
+  function kmBetween(lat1: number, lng1: number, lat2: number, lng2: number): number {
+    const R = 6371;
+    const dLat = (lat2 - lat1) * Math.PI / 180;
+    const dLng = (lng2 - lng1) * Math.PI / 180;
+    const a = Math.sin(dLat / 2) ** 2 +
+      Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * Math.sin(dLng / 2) ** 2;
+    return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  }
+  function inArea(p: Plaque, area: { lat: number; lng: number; km: number }): boolean {
+    return kmBetween(p.lat, p.lng, area.lat, area.lng) <= area.km;
+  }
+
   // IDs already written up in the blue plaques article, inlined at build
   // time by Astro - see plaques-featured.json for how these were checked.
   const featuredIds: Set<number> = new Set(
@@ -588,6 +651,7 @@ const breadcrumbs = [
     if (showFeaturedOnly && !featuredIds.has(p.id)) return false;
     if (activeColours.size && !activeColours.has(p.colour || "unknown")) return false;
     if (activeCategories.size && !activeCategories.has(p.category || "other")) return false;
+    if (activeArea && AREA_BOUNDS[activeArea] && !inArea(p, AREA_BOUNDS[activeArea])) return false;
     if (!query) return true;
     const hay = `${p.title} ${p.inscription} ${p.org} ${p.subject} ${p.address}`.toLowerCase();
     return query.split(/\s+/).every((t) => hay.includes(t));
@@ -632,14 +696,23 @@ const breadcrumbs = [
     });
     cluster.addLayers(markers);
 
-    countEl.textContent =
-      visible.length === plaques.length
-        ? `${plaques.length.toLocaleString("en-GB")} plaques`
-        : `${visible.length.toLocaleString("en-GB")} of ${plaques.length.toLocaleString("en-GB")} plaques match`;
+    const area = activeArea ? AREA_BOUNDS[activeArea] : null;
+    if (area) {
+      const areaTotal = plaques.filter((p) => inArea(p, area)).length;
+      countEl.textContent =
+        visible.length === areaTotal
+          ? `${visible.length.toLocaleString("en-GB")} plaques in ${area.name}`
+          : `${visible.length.toLocaleString("en-GB")} of ${areaTotal.toLocaleString("en-GB")} plaques in ${area.name} match`;
+    } else {
+      countEl.textContent =
+        visible.length === plaques.length
+          ? `${plaques.length.toLocaleString("en-GB")} plaques`
+          : `${visible.length.toLocaleString("en-GB")} of ${plaques.length.toLocaleString("en-GB")} plaques match`;
+    }
 
-    // True whenever any filter narrows the set - search, colour, category or
-    // the featured-only star. Any one of them should zoom the map to fit.
-    const filtered = !!(query || activeColours.size || activeCategories.size || showFeaturedOnly);
+    // True whenever any filter narrows the set - search, colour, category,
+    // area or the featured-only star. Any one of them should zoom to fit.
+    const filtered = !!(query || activeColours.size || activeCategories.size || showFeaturedOnly || activeArea);
 
     // Zoom the map to the matching pins whenever a filter is active, so a
     // search or category pick visibly answers "where are they" without any
@@ -801,6 +874,15 @@ const breadcrumbs = [
   });
   listMoreBtn.addEventListener("click", renderListMore);
 
+  areaChipEl.addEventListener("click", () => {
+    activeArea = null;
+    areaChipEl.hidden = true;
+    const url = new URL(location.href);
+    url.searchParams.delete("area");
+    history.replaceState(null, "", url);
+    refresh();
+  });
+
   // Every filter/search change updates whichever view is on screen.
   function refresh() {
     render();
@@ -959,9 +1041,16 @@ const breadcrumbs = [
       buildColourFilters();
       buildCategoryFilters();
 
-      // Deep links: ?q= pre-fills search, #plaque-N opens one plaque.
+      // Deep links: ?q= pre-fills search, #plaque-N opens one plaque, ?area=
+      // scopes to one area guide's neighbourhood (see AREA_BOUNDS above).
       const qs = new URL(location.href).searchParams.get("q");
       if (qs) { searchEl.value = qs; query = qs.toLowerCase(); }
+      const areaParam = new URL(location.href).searchParams.get("area");
+      if (areaParam && AREA_BOUNDS[areaParam]) {
+        activeArea = areaParam;
+        areaChipNameEl.textContent = AREA_BOUNDS[areaParam].name;
+        areaChipEl.hidden = false;
+      }
       render();
       const m = location.hash.match(/^#plaque-(\d+)$/);
       if (m) focusPlaque(Number(m[1]));
