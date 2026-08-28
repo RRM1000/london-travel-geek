@@ -104,6 +104,10 @@ They are on opposite sides of the Greenwich Peninsula and are **not walkable fro
 
 What is at North Greenwich: **The O2**, one of the busiest arenas in the world, with the **Up at The O2** roof climb over the dome; the **IFS Cloud Cable Car** across the river to the Royal Docks; and the **Design District**, a cluster of small studios and a good canteen.
 
+![A red and white IFS Cloud Cable Car cabin crossing high above the Thames, with the O2 dome and the Canary Wharf skyline behind](../../assets/articles/greenwich-area-guide/ifs-cloud-cable-car.jpg)
+
+*The IFS Cloud Cable Car crossing to the Royal Docks, with the O2 and Canary Wharf behind. Contactless is accepted, and it counts as a TfL journey.*
+
 
 ![The red brick and glass domed rotunda entrance to the Greenwich Foot Tunnel beside the Thames](../../assets/articles/greenwich-area-guide/greenwich-foot-tunnel-rotunda.jpg)
 
@@ -111,12 +115,12 @@ What is at North Greenwich: **The O2**, one of the busiest arenas in the world, 
 
 ## Key streets and micro-districts
 
-![The tiled, cast-iron interior of the Greenwich Foot Tunnel running under the Thames](../../assets/articles/greenwich-area-guide/foot-tunnel-interior.jpg)
-
-*The Greenwich Foot Tunnel. Opened in 1902, free, and open at all hours.*
-
 ### Maritime Greenwich
 The UNESCO core: Naval College, Queen's House, National Maritime Museum and Cutty Sark, all within five minutes of each other.
+
+![The colonnade beside the Queen's House at the Old Royal Naval College, its white columns throwing long shadows across the flagstones](../../assets/articles/greenwich-area-guide/naval-college-colonnade.jpg)
+
+*The colonnade beside the Queen's House. The whole UNESCO core sits within a five-minute walk of this spot.*
 
 ### Greenwich town centre
 Around the covered market. Church Street, Nelson Road and College Approach — pubs, bookshops and the market hall.
@@ -124,8 +128,16 @@ Around the covered market. Church Street, Nelson Road and College Approach — p
 ### Greenwich Park and the hill
 Up behind the Maritime Museum. The Observatory at the top, the deer in The Wilderness, and the rose garden.
 
+![Greenwich Park looking down over the Old Royal Naval College to the Thames, Canary Wharf and the O2](../../assets/articles/greenwich-area-guide/greenwich-park-view.jpg)
+
+*The view north from the hill: the Queen's House and Naval College below, Canary Wharf across the river, the O2 to the right.*
+
 ### The riverside and the Foot Tunnel
 West past the Cutty Sark to the tunnel entrance and the Trafalgar Tavern.
+
+![The cast-iron ribbed interior of the Greenwich Foot Tunnel running under the Thames](../../assets/articles/greenwich-area-guide/foot-tunnel-interior.jpg)
+
+*Inside the Foot Tunnel. Opened in 1902, free, and open at all hours — the stairs work even when the lifts are not staffed.*
 
 ### Greenwich Peninsula and North Greenwich
 Two miles north. The O2, the cable car and the Design District.
@@ -141,10 +153,6 @@ Two miles north. The O2, the cable car and the Design District.
 | **The Old Brewery** | Brewery and dining | ££ | In the Naval College grounds |
 | **Design District Canteen** | Food hall | £ | At North Greenwich, and useful before an O2 event |
 
-
-![Inside the tiled Greenwich Foot Tunnel, with people walking and cycling through the long white passage](../../assets/articles/greenwich-area-guide/greenwich-foot-tunnel-interior.jpg)
-
-*Inside the tunnel. It opened in 1902, runs under the Thames to Island Gardens, and is free at any hour.*
 
 ## Getting there
 

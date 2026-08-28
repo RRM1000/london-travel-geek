@@ -88,6 +88,10 @@ A boating lake, a children's zoo, a **Japanese Peace Pagoda** on the Thames path
 
 The view from the General Wolfe statue is free and sits outside the ticketed Observatory, which is the thing most visitors get wrong.
 
+![Greenwich Park in spring, looking down the grass slope over the Old Royal Naval College to Canary Wharf and the O2 under a clear blue sky](../../assets/articles/best-parks-gardens-london/greenwich-park-spring.jpg)
+
+*The view down the hill from near the Observatory — the Queen's House and Naval College below, Canary Wharf and the O2 beyond.*
+
 ### Kensington Gardens
 
 *Free · beside Hyde Park*
