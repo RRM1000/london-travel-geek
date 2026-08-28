@@ -465,22 +465,9 @@ const breadcrumbs = [
     border: 3px solid rgb(255 255 255 / 0.9);
     box-shadow: 0 1px 4px rgb(14 27 44 / 0.22);
   }
-  /* Centring the count: rather than lean on flex-as-a-line-height-fix (which
-     still depends on the exact font's ascent/descent metrics to land the
-     glyph in the middle of its own line box - close enough in some
-     browsers/fonts, visibly off in others), the count <span> is pulled out
-     of normal flow entirely and made to fill the circle itself, centring
-     its own content independently. This doesn't depend on line-height,
-     baseline behaviour or font metrics at all - just the span's own box
-     against the div's box, both plain geometry. */
   :global(.plaques-map .marker-cluster div) {
-    position: relative;
-  }
-  :global(.plaques-map .marker-cluster span) {
-    position: absolute; inset: 0;
-    display: flex; align-items: center; justify-content: center;
     font: 600 0.78rem/1 var(--body, system-ui, sans-serif);
-    line-height: 1;
+    display: flex; align-items: center; justify-content: center;
   }
 </style>
 
