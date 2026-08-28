@@ -147,7 +147,7 @@ The organisation's name is normally on the plaque, so the reliable answer is sim
 
 Every plaque in this guide is on a public street and free to look at. **[Our map has all 3,630 of them](/plaques/)**, searchable by name, inscription or organisation, and filterable by colour and subject.
 
-Nearly all are private homes, so look from the pavement rather than knocking. Four addresses are open to the public as museums: **Handel Hendrix House** in Mayfair, the **Charles Dickens Museum** in Bloomsbury, **Keats House** in Hampstead and the **Freud Museum**.
+Nearly all are on private homes, but four addresses are open to the public as museums: **Handel Hendrix House** in Mayfair, the **Charles Dickens Museum** in Bloomsbury, **Keats House** in Hampstead and the **Freud Museum**.
 
 ---
 

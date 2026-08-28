@@ -37,7 +37,7 @@ This is a guide to the ones worth building a walk around. For everything else, [
 > 💡 **The Short Version:** **Belgravia** has Mozart, Mary Shelley, Fleming and Tennyson in one short walk. **Bloomsbury** has Dickens, Darwin and Keynes. **Mayfair** has Handel and Hendrix next door to each other, and both houses are open as one museum. **St James's** has the oldest surviving plaque in London, put up in 1867 while its subject was still alive and still ruling France.
 
 > 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. These are English Heritage plaques unless noted. Nearly all mark private homes — please look from the pavement and do not knock.
+> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. These are English Heritage plaques unless noted. Nearly all mark private homes rather than anywhere you can go inside.
 
 ## Where they are
 
@@ -274,13 +274,12 @@ For the full breakdown of the schemes, the colours and the rules, see our **[gui
 * **The official English Heritage scheme** has put up more than 1,000 plaques since its first in 1867 and is the oldest of its kind in the world. Its online map is free and searchable.
 * **Other bodies run their own** — councils, the City of London Corporation, the Heritage Foundation, the Nubian Jak Trust and dozens of local societies — so a plaque that is not blue is not necessarily unofficial.
 * **Combine them with a walk.** Marylebone, Bloomsbury, Chelsea and Hampstead have the highest density, and a plaque route through any of them costs nothing and takes an afternoon.
-* **The buildings are usually private homes.** Look, photograph, do not knock.
+* **The buildings are usually private homes.** The plaque on the wall is the whole of the visit.
 
 ---
 
 ## What to know
 
-* **Nearly all are private homes.** Look from the pavement.
 * **The criteria are strict** — 20 years since death, a surviving building outside the City, visible from the street. Churches, schools and theatres are not normally considered because too many people passed through them. [The full rules, and how the other schemes differ](/articles/london-plaques-guide/).
 * **English Heritage publish a searchable map** of every official plaque, which is more complete than any guide.
 * **Four addresses are open to the public**: Handel Hendrix House, the Charles Dickens Museum, Keats House and the Freud Museum. Everything else is somebody's front wall.
