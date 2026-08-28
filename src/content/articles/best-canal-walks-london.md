@@ -117,6 +117,8 @@ The final run, and the most varied. The canal turns south through **Mile End Par
 
 *The ecology park boardwalk in Mile End Park, a few metres off the towpath and almost always empty.*
 
+The reeds and lakes here belong to **the Ecology Pavilion**, a Tower Hamlets events venue — the building itself is only open to the public during a hired event, but the wetland boardwalk around it is free and open at all times. Further along, **the Art Pavilion** does the same trick with a different material: a gallery space built low into the bank with a glass wall onto its own small lake, easy to miss because it too is closed except when an exhibition is on.
+
 ![The Regent's Canal towpath in east London, with a long graffiti-covered wall on one side and moored narrowboats on the other](../../assets/articles/best-canal-walks-london/regents-canal-graffiti-narrowboats.jpg)
 
 *The towpath at Bow, narrowing between a graffiti wall and the moorings. This stretch is repainted constantly.*

@@ -100,13 +100,23 @@ Two of London's best skyline views in one walk, plus a Robert Adam interior with
 
 ---
 
-## Greenwich and the foot tunnel
+## Canary Wharf to Greenwich, via the Isle of Dogs
 
-*About an hour · free*
+*About 2 hours · free*
 
-**The route:** Cutty Sark → the Old Royal Naval College grounds (free) → the National Maritime Museum (free) → up through Greenwich Park to the Observatory for the view → back down and **under the Thames through the Victorian foot tunnel** to the Isle of Dogs.
+**The route:** Canary Wharf → south down the Isle of Dogs, past the old docks — now marinas ringed with moorings and waterside flats → **Mudchute Park and Farm**, 32 acres of open farmland with the financial district's towers still visible over the fence → Island Gardens, at the southern tip → **under the Thames through the Victorian foot tunnel** to Greenwich → the Old Royal Naval College grounds (free) → the National Maritime Museum (free) → up through Greenwich Park to the Observatory for the view.
 
-Coming up on the north side with the whole Greenwich skyline behind you is the best free reveal in London.
+![Swans and pigeons on a floating dock in an Isle of Dogs marina, with the converted Victorian warehouse flats behind and Canary Wharf's towers rising in the distance](../../assets/articles/london-walks-along-the-thames/isle-of-dogs-marina-swans.jpg)
+
+*One of the Isle of Dogs' old docks, now a marina of moorings and waterside flats — this stretch is easy to have almost entirely to yourself.*
+
+![A canal-side dock on the Isle of Dogs lined with converted warehouse flats, with the Canary Wharf skyline reflected in the water and a floating "Tern Raft" nesting platform in the foreground](../../assets/articles/london-walks-along-the-thames/isle-of-dogs-marina-canary-wharf.jpg)
+
+*Further down the same dock — the towers you just walked away from are still following you.*
+
+**Mudchute Farm** is the surprise in the middle of the route: llamas and a rare-breed herd grazing with the skyline still visible over the fence, and by far the largest of London's city farms.
+
+Coming up on the Greenwich side with the whole skyline behind you is the best free reveal in London, and it works better in this direction — forty minutes of docks and farmland not quite believing you're still in Zone 2, then straight out of a Victorian tunnel into the Old Royal Naval College.
 
 ---
 
