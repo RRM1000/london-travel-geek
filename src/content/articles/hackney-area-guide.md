@@ -70,7 +70,7 @@ Hackney has no Underground station, no major museum and no monument. What it has
 
 This is residential London — the version most visitors never see, and the one that rewards a Saturday rather than a sightseeing itinerary.
 
-Hackney has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=hackney).
+Hackney has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=hackney).
 
 ## Why visit — and who should skip it
 

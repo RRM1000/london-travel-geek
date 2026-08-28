@@ -69,7 +69,7 @@ Canary Wharf is built on the West India Docks, which handled the sugar and rum t
 
 The docks are the point. Nearly every walkway here runs alongside a stretch of Victorian dock, and the contrast between the water, the surviving warehouses and the glass above them is what makes the place worth an afternoon.
 
-Canary Wharf has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=canary-wharf).
+Canary Wharf has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=canary-wharf).
 
 ## Why visit — and who should skip it
 

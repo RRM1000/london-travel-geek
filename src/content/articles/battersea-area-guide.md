@@ -70,7 +70,7 @@ For forty years Battersea Power Station was a ruin with four chimneys — the mo
 
 Fifteen minutes west is Battersea Park, which was here long before the power station and is the better half of the visit.
 
-Battersea has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=battersea).
+Battersea has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=battersea).
 
 ## Why visit — and who should skip it
 

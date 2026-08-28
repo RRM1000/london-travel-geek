@@ -73,7 +73,7 @@ Marylebone runs parallel to Oxford Street about four minutes north, and it is th
 
 It also holds one of the best free museums in London — a townhouse full of Old Masters and armour that most visitors have never heard of — and backs directly onto Regent's Park.
 
-Marylebone has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=marylebone).
+Marylebone has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=marylebone).
 
 ## Why visit — and who should skip it
 

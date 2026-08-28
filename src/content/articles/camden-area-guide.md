@@ -71,7 +71,7 @@ Camden built its reputation on markets and music, and it still trades on both. W
 
 It is not subtle, and it is not for everyone. But the canal, Primrose Hill fifteen minutes north-west, and the surviving music venues make it more than the T-shirt stalls suggest.
 
-Camden has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=camden).
+Camden has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=camden).
 
 ## Why visit — and who should skip it
 

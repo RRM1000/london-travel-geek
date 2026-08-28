@@ -75,7 +75,7 @@ Notting Hill is a west London village of pastel terraces, antique arcades and a 
 
 This guide covers what is actually open when, which streets have the houses you have seen online, and how to combine Notting Hill with the canal walk east that most people miss entirely.
 
-Notting Hill has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=notting-hill).
+Notting Hill has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=notting-hill).
 
 ## Why visit — and who should skip it
 

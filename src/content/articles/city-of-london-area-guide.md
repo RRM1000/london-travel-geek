@@ -72,7 +72,7 @@ The City of London is the original city: a square mile on the Roman street plan,
 
 It is also the strangest place in London to visit, because roughly half a million people work here and only about eight thousand live here. On a weekday it is a crush. On a Sunday morning you can stand in the middle of a medieval street and hear nothing.
 
-The City of London has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=city-of-london).
+The City of London has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=city-of-london).
 
 ## Why visit — and who should skip it
 

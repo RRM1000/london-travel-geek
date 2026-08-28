@@ -72,7 +72,7 @@ Richmond is a Georgian riverside town that London grew around rather than absorb
 
 It is about 30 minutes from central London on the District line, and it is the most straightforward way to spend a day outdoors without leaving the city.
 
-Richmond has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=richmond).
+Richmond has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=richmond).
 
 ## Why visit — and who should skip it
 

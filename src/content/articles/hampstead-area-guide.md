@@ -73,7 +73,7 @@ Hampstead is a hilltop village that London grew around without ever quite absorb
 
 It also has a free house full of Old Masters, and three ponds you can legally swim in year-round.
 
-Hampstead has its own share of the commemorative plaques marking where notable people lived or worked. [Browse them on the map](/plaques/?area=hampstead).
+Hampstead has its own share of the commemorative plaques marking where notable people lived or worked - see them on [our interactive map](/plaques/?area=hampstead).
 
 ## Why visit — and who should skip it
 
