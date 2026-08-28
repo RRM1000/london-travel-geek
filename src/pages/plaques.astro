@@ -150,7 +150,10 @@ const description = `Every commemorative plaque in London on one searchable map 
   }
   .plaques-typeahead { position: relative; max-width: 34rem; }
   .plaques-suggest {
-    position: absolute; z-index: 500; left: 0; right: 0; top: calc(100% + 0.25rem);
+    /* Leaflet's own panes and controls run z-index 400-1000, so anything
+       meant to sit above the map needs to clear that whole range, not just
+       beat an arbitrary round number. */
+    position: absolute; z-index: 1001; left: 0; right: 0; top: calc(100% + 0.25rem);
     margin: 0; padding: 0.25rem; list-style: none;
     background: var(--surface, #fff);
     border: 1px solid var(--line-strong, #cbc2b2);
