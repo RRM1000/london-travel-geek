@@ -14,6 +14,7 @@
 // London build only - the toolkit site has no reason to carry this.
 import fs from "node:fs";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
 import featured from "../data/plaques-featured.json";
 
 // Count and freshness for the header come from the same file the client
@@ -35,13 +36,22 @@ const featuredIds = featured.plaques.map((p) => p.id);
 
 const title = "London Plaques Map";
 const description = `Every commemorative plaque in London on one searchable map — ${count.toLocaleString("en-GB")} of them, from official blue plaques to borough, Nubian Jak and rainbow schemes.`;
+
+// Same pattern as guides/index.astro and topics/[category].astro - drives
+// both the visible trail and BaseLayout's BreadcrumbList JSON-LD.
+const breadcrumbs = [
+  { label: "Home", href: "/" },
+  { label: "Things to Do", href: "/topics/things-to-do/" },
+  { label: "Plaques map" },
+];
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} breadcrumbs={breadcrumbs}>
   <main class="plaques-page">
     <header class="plaques-header">
+      <Breadcrumbs items={breadcrumbs} />
       <p class="eyebrow">Things to do · Free</p>
-      <h1>Every plaque in London, on one map</h1>
+      <h1>Every plaque in London</h1>
       <p class="stand">
         {count.toLocaleString("en-GB")} commemorative plaques — the official English
         Heritage blue ones, the green Westminster ones, the Nubian Jak, borough and
@@ -66,13 +76,35 @@ const description = `Every commemorative plaque in London on one searchable map 
         />
         <ul id="plaque-suggest" class="plaques-suggest" role="listbox" hidden></ul>
       </div>
+      <div class="plaques-filters" id="category-filters" aria-label="Filter by subject"></div>
       <div class="plaques-filters" id="colour-filters" aria-label="Filter by plaque colour"></div>
-      <p class="plaques-count" id="plaque-count" aria-live="polite"></p>
+      <div class="plaques-viewrow">
+        <p class="plaques-count" id="plaque-count" aria-live="polite"></p>
+        <div class="plaques-viewtoggle" role="group" aria-label="Map or list view">
+          <button type="button" id="view-map-btn" aria-pressed="true">Map</button>
+          <button type="button" id="view-list-btn" aria-pressed="false">List</button>
+        </div>
+      </div>
     </div>
 
     <div id="plaques-map" class="plaques-map">
       <noscript><p>The map needs JavaScript. The plaque data itself is
         <a href="/plaques.json">available as JSON</a>, public domain.</p></noscript>
+    </div>
+
+    <div id="plaques-list" class="plaques-list" hidden>
+      <div class="plaques-list-head">
+        <label>
+          Sort
+          <select id="list-sort">
+            <option value="name">Name, A–Z</option>
+            <option value="area">Area, A–Z</option>
+            <option value="erected">Newest first</option>
+          </select>
+        </label>
+      </div>
+      <ul id="plaque-list-items" class="plaques-list-items"></ul>
+      <button type="button" id="list-load-more" class="plaques-list-more" hidden>Show 300 more</button>
     </div>
 
     <ul id="plaque-results" class="plaques-results" aria-label="Matching plaques"></ul>
@@ -187,7 +219,24 @@ const description = `Every commemorative plaque in London on one searchable map 
     padding: 0.35rem 0.55rem; font-size: 0.78rem; color: var(--muted, #5a6a7d);
   }
 
+  .plaques-viewrow {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 0.75rem; flex-wrap: wrap;
+  }
   .plaques-count { font-size: 0.88rem; color: var(--muted, #5a6a7d); margin: 0; }
+
+  .plaques-viewtoggle {
+    display: inline-flex; border: 1px solid var(--line-strong, #cbc2b2);
+    border-radius: 999px; padding: 0.15rem; gap: 0.15rem;
+  }
+  .plaques-viewtoggle button {
+    font: inherit; font-size: 0.82rem; font-weight: 600;
+    padding: 0.28rem 0.85rem; border: 0; border-radius: 999px;
+    background: none; color: var(--muted, #5a6a7d); cursor: pointer;
+  }
+  .plaques-viewtoggle button[aria-pressed="true"] {
+    background: var(--ink, #0e1b2c); color: #fff;
+  }
 
   .plaques-map {
     height: min(72vh, 40rem);
@@ -195,6 +244,55 @@ const description = `Every commemorative plaque in London on one searchable map 
     border: 1px solid var(--line, #e2dbcf);
     overflow: hidden;
     background: var(--surface-strong, #f0ebe2);
+  }
+
+  .plaques-list {
+    border: 1px solid var(--line, #e2dbcf);
+    border-radius: 0.9rem;
+    background: var(--surface, #fff);
+    padding: 0.6rem 0.9rem 0.9rem;
+  }
+  .plaques-list-head {
+    display: flex; justify-content: flex-end;
+    padding: 0.4rem 0.1rem 0.6rem;
+    border-bottom: 1px solid var(--line, #e2dbcf);
+    font-size: 0.85rem; color: var(--muted, #5a6a7d);
+  }
+  .plaques-list-head select {
+    font: inherit; margin-left: 0.4rem;
+    border: 1px solid var(--line-strong, #cbc2b2); border-radius: 0.4rem;
+    background: var(--surface, #fff); color: var(--ink, #0e1b2c);
+    padding: 0.15rem 0.4rem;
+  }
+  .plaques-list-items { list-style: none; margin: 0; padding: 0; }
+  .plaques-list-items li {
+    border-bottom: 1px solid var(--line, #e2dbcf);
+  }
+  .plaques-list-items li:last-child { border-bottom: 0; }
+  .plaques-list-items button {
+    display: flex; gap: 0.65rem; align-items: baseline; width: 100%;
+    font: inherit; text-align: left; padding: 0.55rem 0.3rem;
+    border: 0; background: none; color: var(--ink, #0e1b2c); cursor: pointer;
+  }
+  .plaques-list-items button:hover { background: var(--surface-strong, #f0ebe2); }
+  .plaques-list-items .l-dot {
+    flex: none; width: 0.7rem; height: 0.7rem; border-radius: 50%;
+    margin-top: 0.3rem; border: 1px solid rgb(0 0 0 / 0.25);
+  }
+  .plaques-list-items .l-star {
+    flex: none; color: var(--highlight, #f2a93b); font-weight: 700;
+  }
+  .plaques-list-items .l-main { flex: 1; min-width: 0; }
+  .plaques-list-items .l-name { display: block; font-weight: 600; }
+  .plaques-list-items .l-where {
+    display: block; color: var(--muted, #5a6a7d); font-size: 0.82rem;
+  }
+  .plaques-list-more {
+    display: block; width: 100%; margin-top: 0.7rem;
+    font: inherit; font-weight: 600; padding: 0.6rem;
+    border: 1px dashed var(--line-strong, #cbc2b2); border-radius: 0.6rem;
+    background: var(--surface-strong, #f0ebe2); color: var(--ink, #0e1b2c);
+    cursor: pointer;
   }
 
   .plaques-results {
@@ -277,14 +375,36 @@ const description = `Every commemorative plaque in London on one searchable map 
     id: number; title: string; inscription: string;
     lat: number; lng: number; colour: string;
     org: string; erected: string; address: string; subject: string;
+    category: string;
+  };
+
+  // Reader-facing labels for the buckets scripts/fetch-plaques.mjs sorts
+  // lead_subject_roles into. Order here is the order the chips render in.
+  const CATEGORY_LABELS: Record<string, string> = {
+    music: "Music",
+    "film-tv-theatre": "Film, TV & theatre",
+    literature: "Literature",
+    "art-design": "Art & design",
+    "science-medicine": "Science & medicine",
+    "politics-military": "Politics & military",
+    sport: "Sport",
+    royalty: "Royalty",
+    other: "Other / unclassified",
   };
 
   const mapEl = document.getElementById("plaques-map")!;
   const searchEl = document.getElementById("plaque-search") as HTMLInputElement;
   const suggestEl = document.getElementById("plaque-suggest")!;
   const filtersEl = document.getElementById("colour-filters")!;
+  const categoryFiltersEl = document.getElementById("category-filters")!;
   const countEl = document.getElementById("plaque-count")!;
   const resultsEl = document.getElementById("plaque-results")!;
+  const listContainerEl = document.getElementById("plaques-list")!;
+  const listItemsEl = document.getElementById("plaque-list-items")!;
+  const listSortEl = document.getElementById("list-sort") as HTMLSelectElement;
+  const listMoreBtn = document.getElementById("list-load-more") as HTMLButtonElement;
+  const viewMapBtn = document.getElementById("view-map-btn")!;
+  const viewListBtn = document.getElementById("view-list-btn")!;
 
   const esc = (s: string) =>
     s.replace(/[&<>"']/g, (m) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[m]!);
@@ -328,10 +448,16 @@ const description = `Every commemorative plaque in London on one searchable map 
   // ------------------------------------------------------------------- state
   let plaques: Plaque[] = [];
   let activeColours = new Set<string>();   // empty = all
+  let activeCategories = new Set<string>(); // empty = all
   let showFeaturedOnly = false;
   let query = "";
   let map: any, cluster: any, L: any;
   const markerById = new Map<number, any>();
+  let viewMode: "map" | "list" = "map";
+  let listSort = "name";
+  let listVisible: Plaque[] = [];
+  let listShown = 0;
+  const LIST_PAGE = 300;
 
   // IDs already written up in the blue plaques article, inlined at build
   // time by Astro - see plaques-featured.json for how these were checked.
@@ -342,6 +468,7 @@ const description = `Every commemorative plaque in London on one searchable map 
   function matches(p: Plaque): boolean {
     if (showFeaturedOnly && !featuredIds.has(p.id)) return false;
     if (activeColours.size && !activeColours.has(p.colour || "unknown")) return false;
+    if (activeCategories.size && !activeCategories.has(p.category || "other")) return false;
     if (!query) return true;
     const hay = `${p.title} ${p.inscription} ${p.org} ${p.subject} ${p.address}`.toLowerCase();
     return query.split(/\s+/).every((t) => hay.includes(t));
@@ -391,23 +518,27 @@ const description = `Every commemorative plaque in London on one searchable map 
         ? `${plaques.length.toLocaleString("en-GB")} plaques`
         : `${visible.length.toLocaleString("en-GB")} of ${plaques.length.toLocaleString("en-GB")} plaques match`;
 
+    // True whenever any filter narrows the set - search, colour, category or
+    // the featured-only star. Any one of them should zoom the map to fit.
+    const filtered = !!(query || activeColours.size || activeCategories.size || showFeaturedOnly);
+
     // Zoom the map to the matching pins whenever a filter is active, so a
-    // search visibly answers "where are they" without any panning. Skips the
-    // unfiltered state - resetting to the full-London view on every cleared
-    // search would be more jarring than helpful.
-    if ((query || activeColours.size) && visible.length) {
+    // search or category pick visibly answers "where are they" without any
+    // panning. Skips the unfiltered state - resetting to the full-London view
+    // on every cleared search would be more jarring than helpful.
+    if (filtered && visible.length) {
       const bounds = L.latLngBounds(visible.map((p) => [p.lat, p.lng]));
       map.fitBounds(bounds, { padding: [40, 40], maxZoom: 16 });
     }
 
     // Result list only while actively filtering; capped so the DOM stays light.
     resultsEl.innerHTML = "";
-    if ((query || activeColours.size) && visible.length && visible.length <= 60) {
+    if (filtered && visible.length && visible.length <= 60) {
       for (const p of visible.slice(0, 60)) {
         const li = document.createElement("li");
         const b = document.createElement("button");
         b.innerHTML = `${esc(p.title)}<span class="where">${esc(p.address || p.org || "")}</span>`;
-        b.addEventListener("click", () => focusPlaque(p.id));
+        b.addEventListener("click", () => { setView("map"); focusPlaque(p.id); });
         li.appendChild(b);
         resultsEl.appendChild(li);
       }
@@ -436,7 +567,7 @@ const description = `Every commemorative plaque in London on one searchable map 
       star.addEventListener("click", () => {
         showFeaturedOnly = !showFeaturedOnly;
         star.setAttribute("aria-pressed", String(showFeaturedOnly));
-        render();
+        refresh();
       });
       filtersEl.appendChild(star);
     }
@@ -457,10 +588,104 @@ const description = `Every commemorative plaque in London on one searchable map 
         if (on) activeColours.delete(colour);
         else activeColours.add(colour);
         b.setAttribute("aria-pressed", String(!on));
-        render();
+        refresh();
       });
       filtersEl.appendChild(b);
     }
+  }
+
+  function buildCategoryFilters() {
+    const counts = new Map<string, number>();
+    for (const p of plaques) counts.set(p.category || "other", (counts.get(p.category || "other") ?? 0) + 1);
+    // Fixed order (CATEGORY_LABELS' own order), not sorted by count - a
+    // stable chip row is easier to scan than one that reshuffles per dataset.
+    for (const key of Object.keys(CATEGORY_LABELS)) {
+      const n = counts.get(key) ?? 0;
+      if (!n) continue;
+      const b = document.createElement("button");
+      b.setAttribute("aria-pressed", "false");
+      b.textContent = `${CATEGORY_LABELS[key]} (${n.toLocaleString("en-GB")})`;
+      b.addEventListener("click", () => {
+        const on = activeCategories.has(key);
+        if (on) activeCategories.delete(key);
+        else activeCategories.add(key);
+        b.setAttribute("aria-pressed", String(!on));
+        refresh();
+      });
+      categoryFiltersEl.appendChild(b);
+    }
+  }
+
+  // --------------------------------------------------------------- list view
+  // A full, sortable, paginated browse list - distinct from the ≤60-item
+  // grid above, which is only meant as a map companion for narrow searches.
+  function sortForList(list: Plaque[]): Plaque[] {
+    const arr = list.slice();
+    if (listSort === "area") arr.sort((a, b) => (a.address || "").localeCompare(b.address || ""));
+    else if (listSort === "erected") {
+      arr.sort((a, b) => (parseInt(b.erected) || 0) - (parseInt(a.erected) || 0));
+    } else {
+      arr.sort((a, b) => a.title.localeCompare(b.title));
+    }
+    return arr;
+  }
+
+  function renderListRow(p: Plaque) {
+    const li = document.createElement("li");
+    const b = document.createElement("button");
+    b.type = "button";
+    const star = featuredIds.has(p.id) ? `<span class="l-star">★</span>` : "";
+    const where = p.address || p.org || "";
+    b.innerHTML = `
+      <span class="l-dot" style="background:${colourHex(p.colour || "unknown")}"></span>
+      <span class="l-main">
+        <span class="l-name">${star}${esc(p.title)}</span>
+        ${where ? `<span class="l-where">${esc(where)}</span>` : ""}
+      </span>`;
+    b.addEventListener("click", () => { setView("map"); focusPlaque(p.id); });
+    li.appendChild(b);
+    listItemsEl.appendChild(li);
+  }
+
+  function renderListMore() {
+    const next = listVisible.slice(listShown, listShown + LIST_PAGE);
+    next.forEach(renderListRow);
+    listShown += next.length;
+    listMoreBtn.hidden = listShown >= listVisible.length;
+  }
+
+  function renderListReset() {
+    listVisible = sortForList(plaques.filter(matches));
+    listShown = 0;
+    listItemsEl.innerHTML = "";
+    renderListMore();
+  }
+
+  function setView(mode: "map" | "list") {
+    viewMode = mode;
+    const toMap = mode === "map";
+    mapEl.hidden = !toMap;
+    listContainerEl.hidden = toMap;
+    viewMapBtn.setAttribute("aria-pressed", String(toMap));
+    viewListBtn.setAttribute("aria-pressed", String(!toMap));
+    if (!toMap) renderListReset();
+    // Leaflet sizes itself from the DOM while visible; a map hidden via
+    // display:none reports a 0x0 box, so returning to it needs a nudge.
+    else if (map) setTimeout(() => map.invalidateSize(), 0);
+  }
+
+  viewMapBtn.addEventListener("click", () => setView("map"));
+  viewListBtn.addEventListener("click", () => setView("list"));
+  listSortEl.addEventListener("change", () => {
+    listSort = listSortEl.value;
+    renderListReset();
+  });
+  listMoreBtn.addEventListener("click", renderListMore);
+
+  // Every filter/search change updates whichever view is on screen.
+  function refresh() {
+    render();
+    if (viewMode === "list") renderListReset();
   }
 
   // ------------------------------------------------------------- typeahead
@@ -510,6 +735,7 @@ const description = `Every commemorative plaque in London on one searchable map 
     url.searchParams.set("q", p.title);
     history.replaceState(null, "", url);
     closeSuggest();
+    setView("map");
     render();
     focusPlaque(p.id);
   }
@@ -583,7 +809,7 @@ const description = `Every commemorative plaque in London on one searchable map 
       if (query) url.searchParams.set("q", raw.trim());
       else url.searchParams.delete("q");
       history.replaceState(null, "", url);
-      render();
+      refresh();
     }, 120);
   });
 
@@ -612,6 +838,7 @@ const description = `Every commemorative plaque in London on one searchable map 
       map.addLayer(cluster);
 
       buildColourFilters();
+      buildCategoryFilters();
 
       // Deep links: ?q= pre-fills search, #plaque-N opens one plaque.
       const qs = new URL(location.href).searchParams.get("q");
