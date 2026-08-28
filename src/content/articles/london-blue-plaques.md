@@ -1,5 +1,5 @@
 ---
-title: "London Blue Plaques: The 23 Worth Walking To"
+title: "London Blue Plaques: The Ones Worth Walking To"
 seoTitle: "London Blue Plaques 2026: Famous Homes & Where to Find Them"
 description: "Mozart wrote his first symphony here aged eight, Engels hosted Marx for twenty years, and Hendrix and Handel lived in adjoining houses two centuries apart."
 heroImage: "../../assets/articles/london-blue-plaques/london-blue-plaques.jpg"
@@ -27,7 +27,7 @@ faq:
   - q: "How do you get a blue plaque?"
     a: "English Heritage require that at least 20 years have passed since the subject died, that a building associated with them survives in Greater London outside the City, that it survives in a form they would recognise, and that it is visible from a public highway. Only one plaque is put up per person and no more than two on any one building. Anyone can nominate."
   - q: "Which world-famous, non-British figures have blue plaques in London?"
-    a: "More than you'd expect — Mahatma Gandhi, Vladimir Lenin, Simón Bolívar, Ho Chi Minh, Charles de Gaulle, Mark Twain, Rabindranath Tagore and Natsume Soseki all lodged, worked or stayed in London long enough to earn one. See the 'Beyond the 23' section above for the full list, alongside worldwide names in science, music, film and art."
+    a: "More than you'd expect — Mahatma Gandhi, Vladimir Lenin, Simón Bolívar, Ho Chi Minh, Charles de Gaulle, Mark Twain, Rabindranath Tagore and Natsume Soseki all lodged, worked or stayed in London long enough to earn one. See the 'Beyond the walk' section above for the full list, alongside worldwide names in science, music, film and art."
 ---
 
 More than a thousand official blue plaques exist in London, and the pleasure of them is entirely in the specifics: Mozart wrote his first symphony in Belgravia **aged eight**, Engels hosted Marx in Primrose Hill for twenty years, and Handel and Hendrix lived in adjoining Mayfair houses two centuries apart.
@@ -192,9 +192,9 @@ Where Van Gogh lodged as a young art dealer in his twenties, **years before he h
 
 ---
 
-## Beyond the 23: names famous the world over
+## Beyond the walk: names famous the world over
 
-The walk above is organised around **proximity** — plaques worth detouring for because several sit close together. This list is organised around something else: people whose fame has nothing to do with London at all, gathered here because their London plaque is often the only physical marker of them anywhere. Every name below is also starred on [the interactive map](/plaques/).
+The guide above is organised around **proximity** — plaques worth detouring for because several sit close together. This list is organised around something else: people whose fame has nothing to do with London at all, gathered here because their London plaque is often the only physical marker of them anywhere. Every name below is also starred on [the interactive map](/plaques/).
 
 **Science**
 
@@ -259,21 +259,11 @@ The walk above is organised around **proximity** — plaques worth detouring for
 
 ## Not every plaque is an English Heritage plaque
 
-Most people assume any blue disc is official. Most are not, and telling them apart is half the fun.
-
-| Scheme | What it looks like | What it covers |
-| --- | --- | --- |
-| **English Heritage** | Blue ceramic, the 1938 design | Greater London outside the City. **People only**, dead at least 20 years |
-| **City of London Corporation** | Glazed dark blue | Around **140** in the Square Mile, and it commemorates **lost buildings as well as people** — vanished inns, churches and livery halls |
-| **Borough councils** | **Westminster's are green**, Camden's are blue and easily confused with the official ones | Much looser criteria. **Living people, buildings and events all qualify** |
-| **Nubian Jak Community Trust** | Blue, bronze, stone and black | Black and minority-ethnic history. First was **Bob Marley at County Hall in 2006**; now more than 120 |
-| **Rainbow plaques** | Unmistakable rainbow design | LGBTQIA+ heritage. Seven in London so far |
-| **Heritage Foundation** | Varies | Entertainers — comedians, actors and TV names the official scheme will not touch yet |
-| **Private and museum plaques** | Anything at all | The **221B Baker Street** Sherlock Holmes plaque is the museum's own. English Heritage will never plaque a fictional character |
+Most people assume any blue disc is official. Most are not — of the 3,630 plaques on our map of London, fewer than 1,000 come from the official scheme and the councils that ran it before. The City of London Corporation, the Nubian Jak Community Trust, the Heritage Foundation and several boroughs all use blue too, and a few genuine English Heritage plaques are brown, black or stone.
 
 **The quick test:** if it commemorates a shop, a band, an event, a building or somebody still alive, it is not an English Heritage plaque.
 
-> **Historic England's National Blue Plaque Scheme is a different thing again** — it covers England *outside* London, so it will never overlap with anything in this guide.
+For the full breakdown — which colour belongs to which scheme, and what the specialist ones like the film-cell plaques mean — see **[what London's plaque colours actually mean](/articles/london-plaque-colours/)**.
 
 ---
 
@@ -291,9 +281,7 @@ Most people assume any blue disc is official. Most are not, and telling them apa
 ## What to know
 
 * **Nearly all are private homes.** Look from the pavement.
-* **The criteria are strict.** At least 20 years since the subject died; a surviving building in Greater London outside the City; **it must survive in a form the person would recognise**; and it must be visible from a public highway. Churches, schools and theatres are not normally considered because too many people passed through them.
-* **One plaque per person, two per building maximum** — but that rule is modern. **Gandhi has two**, and **Palmerston, Gladstone and Thackeray have three each**, from the schemes that ran before English Heritage took over in 1986.
-* **Borough plaques are different** from English Heritage ones and use different colours and shapes. Both are legitimate.
+* **The criteria are strict** — 20 years since death, a surviving building outside the City, visible from the street. Churches, schools and theatres are not normally considered because too many people passed through them. [The full rules, and how the other schemes differ](/articles/london-plaque-colours/).
 * **English Heritage publish a searchable map** of every official plaque, which is more complete than any guide.
 * **Four addresses are open to the public**: Handel Hendrix House, the Charles Dickens Museum, Keats House and the Freud Museum. Everything else is somebody's front wall.
 * **New plaques go up every year.** 2025 brought Audrey Hepburn and Marc Bolan among others; the 2026 round includes the astronomer **Cecilia Payne-Gaposchkin** in Notting Hill and **Laurence Olivier** in Pimlico. Announcement and installation are not the same day, so check before travelling for a brand-new one.
