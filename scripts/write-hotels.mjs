@@ -1024,6 +1024,24 @@ const ROWS = [
     lists: "luxury, design, showstopper",
     source: "Consensus pass 2026-08-20; VERIFIED via artotel.com and The Caterer award.",
   },
+  {
+    ...base, slug: "artotel-london-hoxton", name: "art'otel London Hoxton",
+    propertyType: "hotel", style: "D*Face-designed tower with a 25th-floor restaurant",
+    brand: "artotel", chainType: "chain", starRating: "",
+    hood: "Shoreditch", borough: "Hackney", areaGuide: "shoreditch-area-guide",
+    address: "1-3 Rivington Street",
+    priceBand: "££££", typicalFrom: "About £230", breakfast: "extra",
+    roomTypes: "Double, suite", accessibility: "accessible-rooms", hasLift: "yes",
+    airCon: "yes", luggageStorage: "yes",
+    whyGo: "A 26-storey tower wrapped in twisted black fins, with the street artist D*Face's work running through every room and public space. There is a public gallery, a 60-seat screening room, and an indoor pool non-residents can book. Two original Banksys, rescued from The Foundry which stood on this site, are preserved on the outside of the building and free to see from the street.",
+    angle: "room",
+    opSummary: "NEEDS VERIFYING - marketed as \"a five-star experience\" but no official star classification found, so starRating is deliberately blank. Sources conflict on 26 vs 27 storeys. Solaya, the 25th-floor restaurant, is closed Sundays and Mondays. Breakfast is about £56 extra. Pool day access for non-residents was £65 (11:00-16:00) when checked.",
+    goodFor: "couples, business, celebration",
+    website: "https://artotel.com/hotels/london/hoxton/",
+    signals: "357 rooms incl. 48 suites; opened 24 April 2024; Squire & Partners concept architect; Time Out 4/5",
+    lists: "luxury, design, showstopper",
+    source: "Primary-source pass 2026-08-28: artotel.com, PPHE press release, Squire & Partners, Radisson booking engine (live rates), Time Out.",
+  },
 
   // ------------------------------- STRATFORD -------------------------------
   {

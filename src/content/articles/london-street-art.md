@@ -1,7 +1,7 @@
 ---
-title: "London Street Art: The 10 Banksys You Can Still See"
+title: "London Street Art: The 12 Banksys You Can Still See"
 seoTitle: "London Street Art & Banksy Map 2026: What Survives"
-description: "Ten Banksys still standing in London, the six from the 2024 animal series that are gone, and where the city's other street art actually is."
+description: "Twelve Banksys still standing in London, the six from the 2024 animal series that are gone, and where the city's other street art actually is."
 heroImage: "../../assets/articles/london-street-art/london-street-art.jpg"
 heroImageAlt: "A large painted mural covering a brick wall on Bacon Street off Brick Lane"
 heroImageCredit: "Fred Romero"
@@ -16,7 +16,7 @@ tags: [street art, Banksy, free things to do, things to do, Shoreditch]
 draft: false
 faq:
   - q: "Where can I see Banksy in London?"
-    a: "Ten works are still viewable as originals. The Cannon Street rat is one of the earliest survivors, two 2017 Basquiat tributes sit in one tunnel by the Barbican, and of the 2024 animal series only the Chelsea elephants, the Walthamstow pelicans and the Charlton rhino remain in place. The newest is Blind Patriotism, a statue installed at Waterloo Place in April 2026."
+    a: "Twelve works are still viewable as originals. The Cannon Street rat is one of the earliest survivors, two 2017 Basquiat tributes sit in one tunnel by the Barbican, and two 2004 stencils rescued from The Foundry are mounted on the front of art'otel Hoxton. Of the 2024 animal series only the Chelsea elephants, the Walthamstow pelicans and the Charlton rhino remain in place. The newest is Blind Patriotism, a statue installed at Waterloo Place in April 2026."
   - q: "Are Banksy works still in place?"
     a: "Some. Six of the nine 2024 animals have been removed, stolen, dismantled or swapped for a replica, and the Royal Courts of Justice mural was scrubbed off within two days. This guide marks which are gone — most published Banksy maps do not, which is why people travel to blank walls."
   - q: "Where is the best street art in London?"
@@ -31,7 +31,7 @@ Most Banksy maps of London send you to walls where the work no longer exists. Pi
 
 This guide **says which are gone**, which is the single most useful thing a street art guide can do.
 
-**Ten Banksys are still viewable as originals in situ**: the Cannon Street rat, the two Basquiat tributes, the Bermondsey fishing boy, the Chelsea elephants, the Walthamstow pelicans, the Charlton rhino, the Finsbury Park tree, the Stargazing Children on New Oxford Street, and Blind Patriotism at Waterloo Place. Everything else you will read about has been removed, stolen, boarded over, scrubbed off or replaced with a replica.
+**Twelve Banksys are still viewable as originals in situ**: the Cannon Street rat, the two Basquiat tributes, the two Foundry pieces now on the front of art'otel Hoxton, the Bermondsey fishing boy, the Chelsea elephants, the Walthamstow pelicans, the Charlton rhino, the Finsbury Park tree, the Stargazing Children on New Oxford Street, and Blind Patriotism at Waterloo Place. Everything else you will read about has been removed, stolen, boarded over, scrubbed off or replaced with a replica.
 
 > 💡 **The Short Version:** The **Cannon Street rat** is one of the earliest survivors. Two **Basquiat tributes** sit in one tunnel by the Barbican. The **2024 animal series** left work across the city, though several pieces vanished within days. **Leake Street** is legal graffiti under Waterloo and repainted constantly. And **Shoreditch** is still the densest area.
 
@@ -43,7 +43,7 @@ This guide **says which are gone**, which is the single most useful thing a stre
 | If you are near… | What to see |
 | --- | --- |
 | **The City** | Cannon Street rat, two Basquiat tributes |
-| **Shoreditch & Brick Lane** | The densest concentration in London, changing constantly |
+| **Shoreditch & Brick Lane** | The densest concentration in London, changing constantly — plus the two Foundry Banksys on art'otel Hoxton |
 | **Waterloo** | Leake Street tunnel — legal, and repainted continuously |
 | **Chelsea** | Banksy's elephants |
 | **Walthamstow** | Banksy's pelicans, the best-preserved of the 2024 series |
@@ -68,6 +68,14 @@ One of Banksy's **earliest surviving London rats**, on the railway bridge over C
 *Free · still in place*
 
 Painted in **2017 to coincide with a Basquiat exhibition at the Barbican**: a ferris wheel reworking Basquiat's crown motif, and a police officer frisking a crowned figure. Both in the same tunnel, which makes them the easiest pair to see together.
+
+### The Foundry pair, Shoreditch
+
+*Free · still in place*
+
+Two stencils from **2004** — a giant rat carrying a knife and fork, and a television thrown through a window — painted on a wall behind **The Foundry**, the alt-culture bar that stood on the Old Street roundabout. They were boarded over for around twelve years when the bar closed, and were salvaged during demolition.
+
+They are now mounted on the front of **art'otel London Hoxton**, which was built on the site, above the entrance on the Great Eastern Street corner. **Free, outdoors, and visible from the pavement** — you do not need to go into the hotel.
 
 ### Fishing Boy, Bermondsey
 
