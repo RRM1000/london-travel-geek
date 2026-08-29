@@ -70,3 +70,21 @@ The National Theatre is the one worth spelling out, because plenty of older arti
 **Outside London**, the RSC hires to the public from Stratford-upon-Avon at around **£90 plus VAT** for a full costume, though the minimum hire is a week and it is appointment-only through an online form.
 
 ---
+
+## Scare attractions
+
+Most of London's big scare attractions are a train ride out — Thorpe Park and Chessington are in Surrey, Tulleys is in Sussex. If you want a proper scare without leaving the city, there is now one option.
+
+### The Nightmare Realm, Avery Hill Mansion
+
+The Gatehouse to Avery Hill, Bexley Road, London SE9 2PQ. **9 October to 1 November 2026**, on **18 selected nights** through the season.
+
+An Irish attraction making its first London appearance, built inside a genuine Victorian mansion in Greenwich, with two headline immersive experiences plus five smaller "secret" ones hidden around the building. Allow **1.5–2 hours**, and arrive 15 minutes before your slot.
+
+**Recommended for ages 13 and over**; under-16s need a responsible adult with them. It runs a strict no-touch policy, bans alcohol and full-face masks, and warns of strobe lighting, theatrical smoke and sudden scares.
+
+**Getting there:** Jubilee line to North Greenwich, then the 132 bus (a two-to-five-minute walk from the stop), or Southeastern rail to New Eltham or Falconwood, both a 15–20 minute walk. Free on-site parking if you are driving.
+
+Prices are not published on the event's own pages — book through [the official ticketing site](https://thenightmarerealmuk.rezgo.com/) to see the current tiers.
+
+---
