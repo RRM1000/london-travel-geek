@@ -32,9 +32,9 @@ heroImage: "../../assets/articles/bonfire-night-london/alexandra-palace-firework
 heroImageAlt: "A large red firework bursting over the crowd at the Alexandra Palace fireworks, with the lights of London visible below"
 ---
 
-**Bonfire Night 2026 falls on a Thursday**, and that single fact rearranges the whole evening. Almost every major London display has moved to the weekend. **Saturday 7 November is the busiest night of the season by a wide margin**, with Sunday 8 November second, and only a handful of events on 5 November itself.
+**Bonfire Night 2026 is Thursday 5 November, but the fireworks are on Saturday 7th** — **thirteen displays land on that one night**, with a second wave on the Sunday.
 
-**Thirteen separate displays land on Saturday 7 November alone.** So if you climb a hill on Bonfire Night itself expecting a skyline full of rockets, you will mostly see other people's back gardens.
+Just three run on the 5th itself: Coram's Fields, Wimbledon Park and Stow. So if you climb a hill on Bonfire Night expecting a skyline full of rockets, you will mostly see other people's back gardens.
 
 This guide lists every display you can buy a ticket for, the one that is still free, which famous ones no longer run at all, and — the part most guides get wrong — the free viewpoints that are actually open after dark.
 
