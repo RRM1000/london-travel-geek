@@ -121,7 +121,13 @@ A few independents run smaller Halloween-night screenings worth knowing about: *
 
 ## Theatre and immersive experiences
 
-Two long-running West End shows do the job without needing a Halloween theme at all, plus one genuine immersive horror production built for the season.
+One West End show is a horror title outright, two long-running shows do the job without needing a Halloween theme at all, and one production is a genuine immersive experience built for the season.
+
+### Paranormal Activity, Ambassadors Theatre
+
+West Street, WC2H 9ND. A stage adaptation of the horror film franchise, running at the Ambassadors until **7 November 2026** — so it covers Halloween but closes shortly after, unlike the longer-running shows on this list. **2 hours 20 minutes including one interval.**
+
+This one is genuinely worth booking early. It is a small venue — 444 seats — running a well-known horror title right through Halloween week with weekend and peak pricing already running around **18% above the mid-week rate**, which is usually a sign a show is filling up. **£30 rush tickets** are released via the TodayTix app at 10am daily if you want to try for a cheaper seat closer to the date, but do not rely on that as your only plan for Halloween weekend itself.
 
 ### Stranger Things: The First Shadow, Phoenix Theatre
 
