@@ -178,6 +178,10 @@ South, facing the water towards Greenwich, and the quietest part to walk.
 
 **By DLR.** Slower but far more scenic — it runs on a viaduct through the docks. Sit at the front; there is no driver.
 
+![The DLR viaduct running between glass office towers over a Canary Wharf dock, with a crowd gathered below](../../assets/articles/canary-wharf-area-guide/dlr-viaduct.jpg)
+
+*The DLR viaduct threading between the towers. The elevated track is why the front-seat view works.*
+
 **On foot to Greenwich.** DLR two stops to **Island Gardens**, then the **Greenwich Foot Tunnel** under the river. Free and open at all hours.
 
 

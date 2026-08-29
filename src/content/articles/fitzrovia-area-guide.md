@@ -93,6 +93,10 @@ Fitzrovia has its own share of the commemorative plaques marking where notable p
 3. **Fitzroy Square** — A Georgian square with Robert Adam frontages on two sides, pedestrianised and almost always empty. Virginia Woolf and George Bernard Shaw both lived on it.
 4. **The Fitzroy Tavern** — The pub that gave the area its name. George Orwell and Dylan Thomas drank here in its bohemian heyday.
 5. **The Fitzrovia Chapel** — The last surviving fragment of the Middlesex Hospital, which was demolished around it. A plain brick exterior on Pearson Square hides a ceiling of gold mosaic. Free, no booking, but open only about three days a week.
+
+![The gold mosaic vaulted ceiling and stained glass windows inside the Fitzrovia Chapel](../../assets/articles/fitzrovia-area-guide/fitzrovia-chapel-ceiling.jpg)
+
+*Nothing on the plain brick exterior gives this away. Photo: [The wub](https://commons.wikimedia.org/w/index.php?curid=44693137), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 6. **All Saints, Margaret Street** — A Victorian Gothic church by William Butterfield, and one of the most intensely decorated interiors in London. Small, free, and easy to walk straight past.
 7. **Goodge Street** — The other eating street, and the more casual of the two.
 8. **The Wellcome Collection** — Technically on the Bloomsbury edge at Euston Road, free, and genuinely strange. Worth the ten-minute walk.
