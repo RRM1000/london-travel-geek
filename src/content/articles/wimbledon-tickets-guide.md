@@ -50,9 +50,9 @@ There are a small number of legitimate ways in, and the All England Club control
 
 The 2026 Championships drew a record **550,151 people** through the gates, and the ground has not got any bigger. The expansion into Wimbledon Park is still in court — the Court of Appeal granted objectors permission to appeal in July 2026 — so there will be no extra capacity for 2027. Demand goes up, supply does not.
 
-**The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.** Both free ballots for those tickets are decided over the next few weeks — one closes on **31 August 2026**, the other opens days later — which makes right now the most important window in the Wimbledon year.
+**The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.** Both advance ballots for those tickets are decided over the next few weeks — one closes on **31 August 2026**, the other opens days later — which makes right now the most important window in the Wimbledon year.
 
-> 💡 **The Short Version:** There are **two free advance ballots**, and both are decided in September. The **AELTC Public Ballot** opens in **early September** and is open to anyone in the world. The **LTA Advantage ballot** is a separate second chance — and its opt-in **closes at 23:59 on Monday 31 August 2026**. If you miss both, **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £21**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
+> 💡 **The Short Version:** **The AELTC Public Ballot is the only ballot open to the general public.** It is free, open to anyone in the world, and opens in **early September** — enter it. There is a second draw, the **LTA Advantage ballot**, but it is for **members only**: you need an LTA Advantage membership (from **£25 a year**, or free if you belong to an LTA-registered tennis club), and its opt-in **closes at 23:59 on Monday 31 August 2026**. If you miss both, **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £21**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
 
 ---
 
@@ -60,7 +60,7 @@ The 2026 Championships drew a record **550,151 people** through the gates, and t
 
 | What | When | Notes |
 | --- | --- | --- |
-| **LTA ballot opt-in closes** | **23:59, Mon 31 August 2026** | Opened 23 July. Needs an LTA Advantage Fan+, Play+ or Compete membership |
+| **LTA ballot opt-in closes** | **23:59, Mon 31 August 2026** | Members only — opened 23 July, and needs an LTA Advantage Fan+, Play+ or Compete membership |
 | **Public Ballot opens** | **Early September 2026** (expected) | The 2026 ballot opened Tue 2 Sept 2025. AELTC emailed members on 27 Aug 2026 to say it "opens soon" |
 | **Public Ballot closes** | Roughly three weeks later | The 2026 ballot closed at **23:59 BST** on Sun 21 Sept 2025 — a hard deadline |
 | **LTA ballot draws** | September to November 2026 | Winners contacted through the balloting period |
@@ -75,7 +75,7 @@ The 2026 Championships drew a record **550,151 people** through the gates, and t
 
 ## Route 1: The Wimbledon Public Ballot
 
-The ballot has run since 1924 and remains the only way to buy a Show Court ticket at face value months in advance. It is free to enter and it is genuinely random — the AELTC states plainly that it gives no preferential treatment to people who have applied for years without success.
+**This is the only Wimbledon ballot open to the general public**, and for most people it is the only advance route worth thinking about. It has run since 1924, it is free to enter, it needs no membership of anything, and it is genuinely random — the AELTC states plainly that it gives no preferential treatment to people who have applied for years without success. It is also the only way to buy a Show Court ticket at face value months ahead.
 
 ### When it runs
 

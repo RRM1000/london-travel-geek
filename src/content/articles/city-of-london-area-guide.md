@@ -90,6 +90,10 @@ The City of London has its own share of the commemorative plaques marking where 
 6. **The Roman remains** — The London Wall at Tower Hill and Noble Street, the Temple of Mithras rebuilt in situ beneath Bloomberg's building (free, booked), and the amphitheatre under the Guildhall Art Gallery.
 7. **The Wren churches** — Around 50 were built after the Great Fire; roughly half survive. St Stephen Walbrook, St Mary-le-Bow and St Bartholomew the Great are the best, and all are free.
 
+![Guildhall Yard at sunset, with the medieval Guildhall on one side and the Guildhall Art Gallery, entrance to the Roman amphitheatre, on the other](../../assets/articles/city-of-london-area-guide/guildhall-yard.jpg)
+
+*Guildhall Yard. The paving traces the outline of the Roman amphitheatre buried beneath it — the real remains are inside the gallery, free to visit.*
+
 ![St Paul's Cathedral rising above the City skyline, with the Millennium Bridge crossing the Thames below](../../assets/articles/city-of-london-area-guide/st-pauls-from-the-river.jpg)
 
 *St Paul's from the South Bank, with the Millennium Bridge running to its door. The bridge was built to frame exactly this. Photo: [damo1977](https://www.flickr.com/photos/60754591@N00/3467579254), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
