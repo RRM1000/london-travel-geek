@@ -103,6 +103,28 @@ Two smaller slices are documented. In 2026 the AELTC's **Family Ballot** gave ti
 
 ---
 
+## What a ticket costs
+
+These are the 2026 prices as published by the AELTC. They are the same whichever route you buy through — ballot, LTA or the Queue — so expect 2027 to land close to them.
+
+| | Days 1–2 | Days 3–4 | Days 5–6 | Days 7–8 | Days 9–10 | Day 11 | Day 12 | Days 13–14 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Centre Court** rows A–T | £115 | £135 | £175 | £220 | £255 | £300 | £300 | £350 |
+| **Centre Court** rows U–Z | £105 | £120 | £160 | £195 | £225 | £265 | £265 | £305 |
+| **Centre Court** rows ZA–ZF | £80 | £100 | £125 | £155 | £180 | £215 | £215 | £245 |
+| **No.1 Court** rows A–Q | £100 | £125 | £160 | £200 | £235 | £110 | £110 | £65 |
+| **No.1 Court** rows R–W | £90 | £110 | £145 | £170 | £210 | £100 | £100 | £55 |
+| **No.1 Court** rows X–ZC | £70 | £90 | £115 | £140 | £170 | £70 | £70 | £40 |
+| **No.2 Court** | £55 | £70 | £90 | £105 | £55 | — | — | — |
+| **No.3 Court** | £55 | £70 | £90 | £70 | — | — | — | — |
+| **Grounds Pass** | £33 | £33 | £33 | £33 | £26 | £26 | £21 | £21 |
+
+> 💡 **No.1 Court collapses in price at the end of the fortnight** — **£40** for a seat on the final Sunday against £350 for Centre Court the same day, because the finals are on Centre. A **£21 Grounds Pass** on the last weekend puts you on The Hill in front of the big screen for the finals.
+
+**No.3 Court** is in the table because the ballot can allocate it. It is **not** sold through the Queue.
+
+---
+
 ## Route 1: The Wimbledon Public Ballot
 
 This is the ballot that needs no membership of anything, and for most people it is the main advance route. It has run since 1924, it is free to enter, and it is genuinely random — the AELTC states that it gives no preferential treatment to people who have applied for years without success. It is the main way to buy a Show Court ticket at face value months ahead.
@@ -226,25 +248,11 @@ A **Grounds Pass** gets you into the Grounds and every outside court: unreserved
 
 > ⚠️ **You cannot buy a Grounds Pass in advance. At all.** The AELTC's own wording is that a Grounds Pass is "only able to be purchased via The Queue". It is not in the Public Ballot, which allocates Show Court tickets only — Centre, No.1, No.2 or No.3 Court. There is no online sale, no advance booking and no way to reserve one. **If you want the cheapest way into Wimbledon, queueing is not one option among several. It is the only option.**
 
-Tickets are **one per person**, **non-transferable**, and **card only** — no cash at the sales structure.
-
 ### What it costs
 
-These are the 2026 prices as published by the AELTC, and they are the same whichever route you buy through. Expect 2027 to land close to them. Note that **No.3 Court is not sold in the Queue** — it appears here because the ballot can allocate it.
+Queue prices are the same as every other route — see [what a ticket costs](#what-a-ticket-costs) above. A Grounds Pass is **£33** for the first eight days, **£26** for days 9 to 11 and **£21** for the last three.
 
-| | Days 1–2 | Days 3–4 | Days 5–6 | Days 7–8 | Days 9–10 | Day 11 | Day 12 | Days 13–14 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Centre Court** rows A–T | £115 | £135 | £175 | £220 | £255 | £300 | £300 | £350 |
-| **Centre Court** rows U–Z | £105 | £120 | £160 | £195 | £225 | £265 | £265 | £305 |
-| **Centre Court** rows ZA–ZF | £80 | £100 | £125 | £155 | £180 | £215 | £215 | £245 |
-| **No.1 Court** rows A–Q | £100 | £125 | £160 | £200 | £235 | £110 | £110 | £65 |
-| **No.1 Court** rows R–W | £90 | £110 | £145 | £170 | £210 | £100 | £100 | £55 |
-| **No.1 Court** rows X–ZC | £70 | £90 | £115 | £140 | £170 | £70 | £70 | £40 |
-| **No.2 Court** | £55 | £70 | £90 | £105 | £55 | — | — | — |
-| **No.3 Court** | £55 | £70 | £90 | £70 | — | — | — | — |
-| **Grounds Pass** | £33 | £33 | £33 | £33 | £26 | £26 | £21 | £21 |
-
-> 💡 **No.1 Court collapses in price at the end of the fortnight** — **£40** for a seat on the final Sunday against £350 for Centre Court the same day, because the finals are on Centre. A **£21 Grounds Pass** on the last weekend puts you on The Hill in front of the big screen for the finals.
+Tickets are **one per person**, **non-transferable**, and **card only** — no cash at the sales structure.
 
 ### The queue card system
 
