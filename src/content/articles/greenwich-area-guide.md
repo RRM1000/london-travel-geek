@@ -22,7 +22,7 @@ area:
   walkability: 4
   timeNeeded: "A full day"
   budget: "££"
-  bestDay: "Any day; the market is fullest Wednesday to Sunday"
+  bestDay: "Any day but Monday; Tuesday to Sunday has the full market"
   bestFor:
     - Maritime history
     - Park walks and views
@@ -58,11 +58,11 @@ faq:
   - q: "Do you have to pay to stand on the Prime Meridian?"
     a: "To stand on the marked meridian line in the Royal Observatory courtyard, yes — that is inside the ticketed area. The meridian's actual path continues across Greenwich Park for free, and there is a marker outside the paid zone. The view from the hill outside the Observatory is free and is the famous one."
   - q: "Is the Painted Hall worth the ticket?"
-    a: "Yes. It took James Thornhill nineteen years to paint and is often called Britain's Sistine Chapel. It sits in the Old Royal Naval College, separate from the Observatory, with its own ticket. The adjacent chapel is free."
+    a: "Yes. It took James Thornhill nineteen years to paint and is often called the UK's Sistine Chapel. It sits in the Old Royal Naval College, separate from the Observatory, with its own ticket. The adjacent chapel is free."
   - q: "What is the best way to get to Greenwich?"
     a: "By river. Uber Boat by Thames Clippers runs from Westminster, Embankment, Bankside and Tower piers and takes 30 to 60 minutes depending on where you start. It costs more than the DLR but is a far better journey. Oyster and contactless are accepted, though river fares are separate from the daily cap."
   - q: "What days is Greenwich Market open?"
-    a: "Every day, but the range varies. Wednesday to Sunday is the full market with food, crafts and antiques under the covered hall. Monday and Tuesday are reduced. It is a five-minute walk from Cutty Sark DLR station."
+    a: "Every day except Monday, when it is closed. Arts, crafts and food stalls run Tuesday to Sunday; antiques and vintage traders only set up on Tuesday, Thursday and Friday. It is a five-minute walk from Cutty Sark DLR station."
 heroImage: "../../assets/articles/greenwich-area-guide/greenwich-hill-view.jpg"
 heroImageAlt: "The view from Greenwich Park over the Old Royal Naval College to Canary Wharf and the City"
 ---
@@ -85,9 +85,13 @@ Greenwich has its own share of the commemorative plaques marking where notable p
 2. **The view from Observatory Hill** — Free, and the best panorama in London: the Naval College, the river, Canary Wharf and the City. Go up even if you skip the Observatory itself.
 3. **Cutty Sark** — The last surviving tea clipper, dry-docked and raised so you can walk beneath the hull.
 4. **The Painted Hall** — Thornhill's ceiling in the Old Royal Naval College, nineteen years in the painting. Separate ticket; the chapel opposite is free.
+
+![Looking straight up at the ornate painted dome ceiling of the Painted Hall in the Old Royal Naval College](../../assets/articles/greenwich-area-guide/painted-hall-ceiling.jpg)
+
+*James Thornhill spent nineteen years on this ceiling. It's known as the UK's Sistine Chapel, and the comparison holds up better than you'd expect. Photo: [Maciek Lulko](https://www.flickr.com/photos/62401943@N06/10402473936), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 5. **National Maritime Museum** — Free. Nelson's coat with the bullet hole from Trafalgar, and a good children's gallery.
 6. **Greenwich Park and the deer** — 183 acres, London's oldest enclosed royal park, with a wild deer herd in The Wilderness.
-7. **Greenwich Market** — Covered, daily, fullest Wednesday to Sunday. Food, crafts and antiques.
+7. **Greenwich Market** — Covered, closed Mondays. Arts, crafts and food run Tuesday to Sunday; antiques only trade Tuesday, Thursday and Friday.
 8. **The Greenwich Foot Tunnel** — An 1902 tiled tunnel under the Thames to the Isle of Dogs. Free, open always, and the classic view back at Greenwich from the far side.
 
 ![The National Maritime Museum's columned entrance, with two giant white anchors standing either side of the doorway](../../assets/articles/greenwich-area-guide/national-maritime-museum.jpg)
@@ -168,6 +172,9 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 | **The Old Brewery** | Brewery and dining | ££ | In the Naval College grounds |
 | **Design District Canteen** | Food hall | £ | At North Greenwich, and useful before an O2 event |
 
+![Food stalls under the glass and iron roof of Greenwich Market, with banners reading I Heart Greenwich Market](../../assets/articles/greenwich-area-guide/greenwich-market-stalls.jpg)
+
+*Greenwich Market under its Victorian roof. Arts, crafts and food stalls run Tuesday to Sunday; the antiques and vintage traders only set up on Tuesday, Thursday and Friday.*
 
 ## Getting there
 
@@ -207,7 +214,7 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 3. **Paying for the Observatory just for the view.** The famous panorama from the hill outside is free.
 4. **Underestimating the hill.** It is a genuine climb from the Maritime Museum. There is a gentler path from Blackheath Gate.
 5. **Buying three separate tickets.** A combined ticket covers the Observatory, Cutty Sark and Maritime Museum attractions.
-6. **Coming on a Monday or Tuesday for the market.** It runs, but reduced. Wednesday to Sunday is the full version.
+6. **Coming on a Monday for the market.** It's closed. Tuesday to Sunday has the full range, though antiques only trade Tuesday, Thursday and Friday.
 
 ## Where to stay
 
