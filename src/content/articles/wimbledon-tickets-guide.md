@@ -80,7 +80,7 @@ The official Wimbledon app is no longer optional. It holds your tickets, it is s
 - **iPhone and iPad:** [Wimbledon on the App Store](https://apps.apple.com/gb/app/id319284643)
 - **Android:** [Wimbledon on Google Play](https://play.google.com/store/apps/details?id=com.ibm.events.android.wimbledon)
 
-> ⚠️ **Check your phone is new enough.** The 2026 app required iOS 18 or later, which means **iPhone XR, XS, 11 or newer** — and devices still on iOS 17 had to update even if the handset was on that list. If you are queueing overnight on an old phone, find this out at home rather than at the ticket sales tent. Bring a power bank too: the app is the one thing you cannot afford to have a flat battery for.
+> ⚠️ **Check your phone is new enough.** The 2026 app required iOS 18 or later, which means **iPhone XR, XS, 11 or newer** — and devices still on iOS 17 had to update even if the handset was on that list.
 
 ---
 
