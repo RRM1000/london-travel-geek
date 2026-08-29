@@ -86,7 +86,7 @@ The official Wimbledon app is no longer optional. It holds your tickets, it is s
 
 ## Where the tickets actually go
 
-It is worth knowing what you are competing for. **The AELTC has never published a tournament-wide breakdown** of how its 550,000 admissions divide between the ballot, the Queue, debentures, hospitality and guests — so anyone showing you a full pie chart has made it up.
+**The AELTC has never published a tournament-wide breakdown** of how its 550,000 admissions divide between the ballot, the Queue, debentures, hospitality and guests — so anyone showing you a full pie chart has made it up.
 
 What has been published, and independently reported by two outlets two years apart, is the split for **Centre Court**:
 
