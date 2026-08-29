@@ -69,7 +69,7 @@ Also on site across the weekend: a bonfire, funfair, **ice skating** on the perm
 
 ![The Alexandra Palace bonfire fully ablaze, with a large crowd silhouetted against the flames](../../assets/articles/bonfire-night-london/alexandra-palace-bonfire.jpg)
 
-The drone show is part of the billing, not an afterthought — the event is now called the Fireworks and Drone Festival, and the drones fly formations above the park between the other elements.
+The event is now called the Fireworks and Drone Festival. The drones fly formations above the park alongside the fireworks.
 
 ![A drone display forming a lit figure in the night sky above Alexandra Park, watched by a crowd](../../assets/articles/bonfire-night-london/alexandra-palace-drone-show.jpg)
 
