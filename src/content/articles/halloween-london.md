@@ -30,7 +30,7 @@ heroImageLicense: "CC BY 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
 ---
 
-**Halloween 2026 falls on a Saturday**, which makes it the busiest version of the night London gets. Everything that sells out will sell out earlier than usual, and the club nights and one-off parties will run at full strength rather than being squeezed into the nearest weekend.
+**Halloween 2026 lands on a Saturday** — the one date on the calendar that turns London's Halloween up to full volume. Scare attractions, club nights, ghost walks and one-off parties all run at full strength instead of being squeezed into the nearest weekend, which means more is on, and the best of it will sell out earlier than usual. Here's what's actually worth booking, from genuine scares to where to find a costume at this notice.
 
 ---
 
