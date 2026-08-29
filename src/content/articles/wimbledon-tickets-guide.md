@@ -119,8 +119,6 @@ These are the 2026 prices as published by the AELTC. They are the same whichever
 | **No.3 Court** | £55 | £70 | £90 | £70 | — | — | — | — |
 | **Grounds Pass** | £33 | £33 | £33 | £33 | £26 | £26 | £21 | £21 |
 
-> 💡 **No.1 Court collapses in price at the end of the fortnight** — **£40** for a seat on the final Sunday against £350 for Centre Court the same day, because the finals are on Centre. A **£21 Grounds Pass** on the last weekend puts you on The Hill in front of the big screen for the finals.
-
 **No.3 Court** is in the table because the ballot can allocate it. It is **not** sold through the Queue.
 
 ---
