@@ -44,7 +44,7 @@ Almost all of it is free.
 | **Central** | Regent's Park, Hyde Park, St James's Park, Green Park |
 | **Chelsea & Battersea** | Chelsea Physic Garden, Battersea Park |
 | **Hampstead & north** | Hampstead Heath, Primrose Hill, Kenwood |
-| **Richmond & west** | Richmond Park, Kew Gardens, Isabella Plantation, WWT London Wetland Centre |
+| **Richmond & west** | Richmond Park, Kew Gardens, Isabella Plantation, WWT London Wetland Centre, Gunnersbury Park |
 | **East** | Victoria Park, Queen Elizabeth Olympic Park, Camley Street Natural Park |
 | **South** | Crystal Palace Dinosaurs, Dulwich Park, Brockwell Park |
 
@@ -66,11 +66,23 @@ The largest of the Royal Parks and the only one with **free-roaming red and fall
 
 Eight hundred acres of genuinely wild-feeling ground, with **three swimming ponds open year-round** — men's, women's and mixed — and the protected Parliament Hill view south over the City.
 
+![A duckweed-covered pond in woodland on Hampstead Heath](../../assets/articles/best-parks-gardens-london/hampstead-heath-pond.jpg)
+
+*One of the Heath's smaller, wilder ponds — not a swimming one, just left to itself.*
+
+![Dense woodland and shrubbery near the Hill Garden and Pergola on Hampstead Heath](../../assets/articles/best-parks-gardens-london/hampstead-heath-woodland.jpg)
+
+*The planting around the Hill Garden and Pergola spreads well beyond the walkway itself.*
+
 ### Regent's Park
 
 *Free*
 
 The best formal gardens in London, plus the Open Air Theatre, London Zoo and Primrose Hill at the north end for the skyline.
+
+![A flowerbed of white and near-black tulips in Regent's Park, with people walking behind](../../assets/articles/best-parks-gardens-london/regents-park-tulips.jpg)
+
+*The Outer Circle flowerbeds in late April — Queen Mary's Gardens further in have the bigger rose display, but this is the first colour of the year.*
 
 ### Battersea Park
 
@@ -98,6 +110,14 @@ The view from the General Wolfe statue is free and sits outside the ticketed Obs
 
 Quieter and more formal than Hyde Park next door, and easy to treat as the same place when it is not. The **Italian Gardens** at the Lancaster Gate end, the Serpentine Galleries, the Albert Memorial, and Kensington Palace at the western edge.
 
+![The still, fountain-fed pool of the Italian Gardens in Kensington Gardens, reflecting clouds](../../assets/articles/best-parks-gardens-london/kensington-gardens-italian-gardens.jpg)
+
+*The Italian Gardens at the Lancaster Gate end — a Victorian water garden rather than anything actually Italian.*
+
+![Geese, ducks and a swan lined up on the gravel shore of the Serpentine](../../assets/articles/best-parks-gardens-london/serpentine-birds.jpg)
+
+*The Serpentine's shore, which straddles Hyde Park and Kensington Gardens - the birds do not recognise the boundary.*
+
 The Round Pond and the Diana Memorial Playground are the two things families come back for.
 
 ### St James's Park
@@ -105,6 +125,10 @@ The Round Pond and the Diana Memorial Playground are the two things families com
 *Free · the pelicans*
 
 The oldest of the royal parks and the most central, running from Buckingham Palace to Horse Guards, with a lake full of waterfowl and **a resident colony of pelicans** first presented to Charles II by a Russian ambassador in 1664.
+
+![A flowerbed of red and pink tulips and wallflowers in St James's Park](../../assets/articles/best-parks-gardens-london/st-james-park-tulips.jpg)
+
+*The bedding along The Mall side of the park changes with the season - this is late April.*
 
 The bridge over the lake gives the postcard view of Buckingham Palace one way and the Horse Guards rooftops the other.
 
@@ -119,6 +143,16 @@ The park is in transition after a long programme of works, and the restored **Cr
 ---
 
 ## Small and strange
+
+### Gunnersbury Park, Ealing/Hounslow
+
+*Free*
+
+A 186-acre former Rothschild estate, and most of it is given over to sports pitches and a boating lake rather than anything to linger in. **Head for the old pleasure gardens around the mansion and museum instead of the open parkland** — that is where the Rothschilds actually spent their money, and where the Gothic Ruins folly, an orangery and a walled kitchen garden survive.
+
+![The small castellated Gothic Ruins folly on a lawn at Gunnersbury Park](../../assets/articles/best-parks-gardens-london/gunnersbury-park-gothic-ruins.jpg)
+
+*The Gothic Ruins, a Grade II listed folly built on the edge of what was once a Japanese garden. It is a five-minute walk from the mansion, not the sports fields.*
 
 ### St Dunstan in the East, City of London
 
@@ -205,6 +239,10 @@ Founded by the Apothecaries in **1673 to grow medicinal plants**, and still grow
 **Free things people pay for elsewhere:**
 
 * **The Kyoto Garden** in Holland Park, with the waterfall and the peacocks.
+
+![The Kyoto Garden in Holland Park, with a stone lantern beside a still pond and Japanese maples](../../assets/articles/best-parks-gardens-london/kyoto-garden-holland-park.jpg)
+
+*A gift from the Chamber of Commerce of Kyoto in 1991. Free, and easy to miss inside the much larger Holland Park.*
 * **Hampstead Heath's swimming ponds** — the mixed pond is free at quiet times, the single-sex ponds charge a small fee.
 * **Sky-high views** from Primrose Hill, Parliament Hill and Alexandra Palace, all covered in our views guide, all free.
 * **Deckchairs in the royal parks** are the one thing that catches people out — they are hired, not free, and the attendant will find you.

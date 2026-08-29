@@ -121,6 +121,10 @@ The government spine running north to Trafalgar Square. Downing Street's gates, 
 
 *The Horse Guards ceremony on Whitehall — the same 11:00 slot as Buckingham Palace, and far easier to see.*
 
+![The Horse Guards building on a quiet afternoon, with tourists on the parade ground and the London Eye visible behind](../../assets/articles/westminster-area-guide/horse-guards-parade-building.jpg)
+
+*Horse Guards outside ceremony hours — you can walk right onto the parade ground, which is not obvious from the street.*
+
 ### St James's Park and The Mall
 The ceremonial route to Buckingham Palace. The park is the reason to walk it rather than take the Tube.
 

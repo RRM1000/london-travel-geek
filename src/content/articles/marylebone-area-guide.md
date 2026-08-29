@@ -91,6 +91,10 @@ Marylebone has its own share of the commemorative plaques marking where notable 
 6. **Wigmore Hall** — A 1901 chamber music hall with near-perfect acoustics. Sunday morning coffee concerts are cheap and excellent.
 7. **The Sherlock Holmes Museum and Madame Tussauds** — Both on Baker Street, both ticketed, both usually with a queue. Manage expectations.
 
+![The Sherlock Holmes Museum shopfront on Baker Street, with a costumed Victorian policeman standing outside](../../assets/articles/marylebone-area-guide/sherlock-holmes-museum.jpg)
+
+*The Sherlock Holmes Museum, signed 221B by special arrangement - the building actually sits between numbers 237 and 241.*
+
 ![A row of medieval helmets and shields mounted along a wall in the Wallace Collection](../../assets/articles/marylebone-area-guide/wallace-collection.jpg)
 
 *The Wallace Collection's armoury. The whole museum was left to the nation on the condition that nothing ever leaves it. Photo: [gruntzooki](https://www.flickr.com/photos/37996580417@N01/55292433963), [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/).*
