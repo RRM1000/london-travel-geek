@@ -94,6 +94,15 @@ Notting Hill has its own share of the commemorative plaques marking where notabl
 5. **Holland Park and the Kyoto Garden** — Fifteen minutes south, and the quietest good park in west London. The Japanese garden has koi ponds, a waterfall and resident peacocks.
 6. **Notting Hill Bookshop** — The Blenheim Crescent shop that inspired the film. Small, busy, and a working bookshop rather than a museum piece.
 7. **Golborne Road** — The far northern end, past the flea market. Portuguese cafes, Moroccan grocers and far fewer visitors. This is where locals actually shop.
+8. **Notting Hill Carnival** — Europe's biggest street carnival, over the August bank holiday weekend. Sound systems, mas bands and steel pan through the streets of W11, led by London's Caribbean communities since 1966. Not a normal sightseeing day — shops board up and stations near the route go exit-only or close entirely.
+
+![A decorated Georgian townhouse hung with Caribbean flags and balloons on the Notting Hill Carnival route, with a crowd gathered outside](../../assets/articles/notting-hill-area-guide/notting-hill-carnival.jpg)
+
+*A decorated house on the Carnival route, hung with the flags of the Caribbean nations it celebrates.*
+
+![A dense crowd dancing in front of a sound system truck at Notting Hill Carnival](../../assets/articles/notting-hill-area-guide/notting-hill-carnival-crowd.jpg)
+
+*One of the sound systems that line the route - this is the scale of it away from the main procession.*
 
 ![The Churchill Arms in Notting Hill, its frontage covered in flowers, plants and flags](../../assets/articles/notting-hill-area-guide/churchill-arms.jpg)
 
