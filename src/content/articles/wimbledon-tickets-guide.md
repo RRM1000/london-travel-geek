@@ -28,6 +28,8 @@ faq:
     a: "The first District line train reaches Southfields at about 05:16 Monday to Saturday, and from central London you will realistically arrive around 05:44. On a Sunday there is no train until 06:46 — barely 40 minutes before Show Court wristbands start being issued at 7.30am. If you need to be there earlier, the N87 night bus runs all night and stops at Wimbledon Station, Wimbledon Park / Arthur Road and Standen Road in Southfields."
   - q: "What time do you need to queue at Wimbledon to get Centre Court tickets?"
     a: "You effectively need to camp overnight. Wristbands are issued from 7.30am to the front of the Queue in exactly the number of tickets available — 500 for Centre Court on the first ten days — and by then thousands of people have already been there since the previous afternoon. The first Tube does not reach Southfields until about 05:16, so arriving by train on the day is a Grounds Pass plan, not a Centre Court one."
+  - q: "Can you buy a Wimbledon Grounds Pass in advance?"
+    a: "No. The AELTC's own wording is that a Grounds Pass is 'only able to be purchased via The Queue'. It is not sold online, it cannot be booked ahead, and it is not part of the Public Ballot, which allocates Show Court tickets only — Centre, No.1, No.2 or No.3 Court. If you want the cheapest way in, from £21, queueing on the day is the only route."
   - q: "How many tickets are sold through the Wimbledon Queue each day?"
     a: "500 tickets each for Centre Court, No.1 Court and No.2 Court, plus several thousand Grounds Passes. Centre Court and No.2 Court tickets are only sold through the Queue on the first ten days. No.1 Court tickets are sold every day of the event, and there are no Centre Court tickets in the Queue for the last four days."
   - q: "Can you leave the Wimbledon queue once you have a queue card?"
@@ -82,6 +84,31 @@ The official Wimbledon app is no longer optional. It holds your tickets, it is s
 
 ---
 
+## Where the tickets actually go
+
+It is worth knowing what you are competing for. **The AELTC has never published a tournament-wide breakdown** of how its 550,000 admissions divide between the ballot, the Queue, debentures, hospitality and guests — so anyone showing you a full pie chart has made it up.
+
+What has been published, and independently reported by two outlets two years apart, is the split for **Centre Court**:
+
+| Who gets Centre Court's 14,979 seats | Seats | Share |
+| --- | --- | --- |
+| **The public** — every route below combined | ~8,014 | **53.5%** |
+| Invited guests — media, schools, overseas tennis associations | ~3,146 | 21% |
+| **Debentures** | **2,520** | **16.7%** |
+| Corporate hospitality | 1,340 | ~8.9% |
+
+Two things to take from that, and one trap.
+
+**Just over half of Centre Court is genuinely available to the public** — which is more than most people assume, and a reasonable answer to anyone who tells you the ballot is a stitch-up.
+
+**Debentures are a sixth of Centre Court**, and those seats are guaranteed to their holders for all fourteen days: 2,520 seats across the fortnight is **35,280 seat-days** locked up before a single ballot entry is drawn. That is the price of the roof, the courts and the Grounds you get to walk around.
+
+> ⚠️ **The trap: that 53.5% is not the ballot.** It is a lump that contains the Public Ballot, the LTA ballots, the Queue, the on-site resale and Amex cardholder sales all together. Nobody publishes how it divides. And it is Centre Court only — it tells you nothing about No.1, No.2, No.3, the outside courts or Grounds Passes, which between them account for the large majority of everyone who comes through the gates.
+
+A few smaller slices are documented. In 2026 the AELTC's **Family Ballot** gave tickets to a record **1,000 guests from more than 50 local schools**, and a further **1,000 refugees** and their support organisations were given tickets.
+
+---
+
 ## Route 1: The Wimbledon Public Ballot
 
 **This is the only Wimbledon ballot open to the general public**, and for most people it is the only advance route worth thinking about. It has run since 1924, it is free to enter, it needs no membership of anything, and it is genuinely random — the AELTC states plainly that it gives no preferential treatment to people who have applied for years without success. It is also the only way to buy a Show Court ticket at face value months ahead.
@@ -108,7 +135,7 @@ You apply once, in a window of about three weeks. Successful applicants are pick
 | **Minimum age** | **16** — applications from anyone 15 or under are voided |
 | **Applications allowed** | **One per household, per email address, per myWimbledon account** |
 | **Tickets per application** | Up to **two** |
-| **Courts you might be offered** | Centre Court, No.1 Court, No.2 Court or No.3 Court |
+| **Courts you might be offered** | Centre Court, No.1 Court, No.2 Court or No.3 Court — **Show Courts only, never a Grounds Pass** |
 | **Can you choose day, court or seat?** | **No** |
 | **When you hear** | From **October**, by email |
 | **How you pay** | Credit or debit card, by a fixed deadline, by the applicant only |
@@ -190,7 +217,27 @@ Being able to pick the day and court is the whole appeal. The Public Ballot hand
 
 LTA Wimbledon tickets are still **non-transferable**, and the named ticket holder has to be there on the day for them to be valid. If you cannot go, you request a refund rather than passing them on.
 
-Advantage membership also carries a second Wimbledon benefit worth knowing about: **members-only access to a resale of returned Wimbledon tickets**, plus discounted entry to the Wimbledon Museum.
+### The members' resale, which is the part worth paying for
+
+Advantage membership carries a second Wimbledon route that is barely known and, on the details, is arguably better value than the ballot itself: a **members-only resale of returned Wimbledon tickets**, run in **late March** (in 2026 it ran 25–31 March).
+
+Three things make it interesting:
+
+- **It is open to members who were unsuccessful in the ballot, and to those who were never offered anything.** Losing the draw is what qualifies you.
+- **You can join after the ballot window has closed and still be eligible.** The LTA's own eligibility list explicitly includes "members who have subsequently become members after the opt in window closed". So a Fan+ membership bought in, say, February still gets you into the March resale — even though the ballot itself shut the previous August.
+- It is one pair maximum, first come first served, day and court subject to availability.
+
+> ⚠️ **This is the one benefit Play+ does not get.** The free Play+ tier carries the ballot but is **excluded from the members' resale** — it is limited to **Fan+ and Compete**. If the resale is what you are after, the free club route will not do it.
+
+Membership also gets you discounted entry to the Wimbledon Museum.
+
+### The small print
+
+- **You still pay full price for the tickets.** Winning the LTA ballot buys you the right to purchase, nothing more; travel and everything else is on you.
+- **Your membership tier has to be live at the opt-in deadline.** A lapsed Fan+ or Compete that has not renewed in time is ineligible — and Play+ silently drops to plain Play if you leave your club or your venue stops being LTA-registered, taking your ballot entry with it.
+- **The paid tiers auto-renew.** The LTA has a dedicated page for cancelling auto-renewal, so set a reminder if you only ever intend to pay for one year.
+- **Opt-ins are subject to safeguarding checks** after the deadline closes, which can remove an entry.
+- **Which courts and days the LTA allocation actually covers is not published.** You choose "subject to availability", and what is available is not something either body discloses in advance.
 
 ### Is it worth £25?
 
@@ -198,7 +245,19 @@ The two ballots are run by different organisations, drawn separately, and neithe
 
 Be clear-eyed about the rest of it, though.
 
-> ⚠️ **Nobody publishes the odds for either ballot.** The AELTC has never released applicant numbers or success rates, and the LTA does not publish its allocation size or how many members enter. So while it is reasonable to assume a members-only draw has a smaller pool than a worldwide free-for-all, **that is an assumption, not a published fact** — and anyone quoting you a percentage for either ballot has invented it. What you are buying for £25 is an extra ticket in a lottery of unknown odds.
+> ⚠️ **Nobody publishes the odds for either ballot.** The AELTC has never released applicant numbers or success rates. The LTA has 2.5 million Advantage members, but most of those are on free tiers that carry no ballot entry, and it publishes neither the tier breakdown nor its Wimbledon allocation. So **no honest odds comparison is possible**, and anyone quoting you a percentage for either ballot has invented it. Every "1 in 10" or "4% acceptance rate" figure online traces back to nothing.
+
+But there is one documented advantage, and it is a big one.
+
+### The household rule, which is where the LTA genuinely wins
+
+The AELTC accepts **one application per household**, tied to the address you are registered at on the electoral roll. One household, one entry, however many adults live there.
+
+The LTA does the opposite. Every adult member of a household enters **on their own account**, and a household account holder can additionally opt in on behalf of members under 18.
+
+**So a household of four eligible people gets one AELTC entry and four LTA entries.** That is not an estimate — it is what both sets of rules say. For a couple or a family, the LTA route multiplies in a way the public ballot flatly refuses to.
+
+There is also **no advantage to joining early or having been a member for years**. The LTA states plainly that every eligible entry has an equal, random chance, and that there is no benefit to opting in early or being long-standing. You can join today and be on the same footing as someone who has paid for a decade.
 
 And if both draws miss, the £25 is gone. There is no refund for an unsuccessful ballot, and no rollover to next year.
 
@@ -224,6 +283,8 @@ This is the part that makes Wimbledon different from every other major sporting 
 | **Grounds Pass** | Several thousand daily, until the Grounds reach capacity |
 
 A **Grounds Pass** gets you into the Grounds and every outside court: unreserved seating on No.3 Court, Court 12 and Court 18, plus courts 4–11 and 14–17, and a place on **The Hill** in front of the big screen showing Centre and No.1 Court. For No.3 Court, a separate queue runs from the southern end of the court.
+
+> ⚠️ **You cannot buy a Grounds Pass in advance. At all.** The AELTC's own wording is that a Grounds Pass is "only able to be purchased via The Queue". It is not in the Public Ballot, which allocates Show Court tickets only — Centre, No.1, No.2 or No.3 Court. There is no online sale, no advance booking and no way to reserve one. **If you want the cheapest way into Wimbledon, queueing is not one option among several. It is the only option.**
 
 Tickets are **one per person**, **non-transferable**, and **card only** — no cash at the sales structure.
 
@@ -515,7 +576,7 @@ The queue for it is now **virtual, and run through the Wimbledon app** — a cha
 
 **Does it work?** Sometimes, and honestly, not always. One 2025 visitor queued from 5am for a £25 Grounds Pass on quarter-finals day, registered on entry, got the text mid-afternoon and watched Alcaraz on Centre Court — **£40 for the whole day**. Another party registered on two consecutive days and got in only very late each time. It is a lottery with good odds and a tiny stake, not a plan you can build a trip around.
 
-The scale is real, though: Ticket Resale raised **£195,000 for the Wimbledon Foundation in 2025**. That is a lot of returned seats.
+The scale is real, though: Ticket Resale raised **£278,000 for the Wimbledon Foundation in 2026**, up from £195,000 the year before. At £15 and £10 a ticket, that is a great many returned seats going back on sale.
 
 Two things before you count on it: resale tickets are **not eligible for a refund** if play is curtailed, and neither is any ticket bought after 5pm. And if you join the virtual queue and then decide you no longer want a seat, or you leave for the day, drop out so someone else moves up.
 
