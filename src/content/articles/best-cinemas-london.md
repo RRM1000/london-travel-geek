@@ -98,6 +98,16 @@ The second Electric, inside **BBC Television Centre** — the building that made
 
 The national film archive's own cinema, with the deepest repertory programme in the country and a Mediatheque where you can watch archive material free.
 
+### BFI IMAX, Waterloo
+
+*South Bank · the biggest screen in Britain*
+
+A freestanding glass drum on the roundabout north of Waterloo station, and **the largest cinema screen in the UK** by the BFI's own measure. One of only three UK cinemas that can still show genuine 70mm IMAX film.
+
+![The cylindrical glass exterior of the BFI IMAX cinema at Waterloo](../../assets/articles/best-cinemas-london/bfi-imax.jpg)
+
+*The BFI IMAX's glass drum, on the roundabout just north of Waterloo station.*
+
 ---
 
 ## Saved by their neighbourhoods

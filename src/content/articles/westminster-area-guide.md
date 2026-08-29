@@ -86,11 +86,19 @@ Westminster has its own share of the commemorative plaques marking where notable
 
 1. **The Elizabeth Tower and Palace of Westminster** — Best photographed from the far side of Westminster Bridge. UK residents can book a tower climb; everyone can tour Parliament on Saturdays and during recess.
 2. **Westminster Abbey** — Nearly a thousand years of coronations, royal tombs and Poets' Corner. Closed to sightseers on Sundays. Allow two hours, and take the included audio guide.
+
+![Westminster Abbey's twin west towers rising above a red London bus in the foreground](../../assets/articles/westminster-area-guide/westminster-abbey-towers.jpg)
+
+*The Abbey's west towers, added in the 1740s - centuries after the rest of the building.*
 3. **Churchill War Rooms** — The underground bunker left largely as it was in 1945, with the map room untouched. Book timed entry well ahead.
 4. **Changing the Guard** — At Buckingham Palace at 11:00 on selected days. The **Horse Guards** ceremony on Whitehall at the same time is smaller, easier to see and far less crowded.
 5. **St James's Park** — The best park in central London, with the pelicans and the view from the blue bridge back towards Whitehall.
 6. **Trafalgar Square and the National Gallery** — At the top of Whitehall. The gallery is free and one of the great collections in Europe.
 7. **Westminster Cathedral** — Not the Abbey. A striped Byzantine-style Catholic cathedral ten minutes south, with a lift up its tower for one of the cheapest good views in London.
+
+![Mounted Household Cavalry troopers in red tunics and plumed helmets riding past Buckingham Palace's gates](../../assets/articles/westminster-area-guide/changing-the-guard.jpg)
+
+*The Household Cavalry passing the Palace gates. Arrive by 10:15 for a view that isn't three rows deep.*
 
 ## Key streets and micro-districts
 

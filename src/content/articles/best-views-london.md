@@ -266,6 +266,10 @@ Two honest notes. The official framework itself now admits **the Euston towers p
 
 Looking south to St Paul's, the London Eye, the BT Tower, The Shard, Canary Wharf and St Pancras.
 
+![The London skyline seen from Alexandra Palace terrace, with Canary Wharf and the City visible in the distance under a grey sky](../../assets/articles/best-views-london/alexandra-palace-terrace-view.jpg)
+
+*The view south from the terrace. Canary Wharf is on the left, the City cluster and the Shard further right.*
+
 The precise tip: **there are two official points and they do different jobs.** One is better for the wide panorama; the other, approached from the north-east car park, is where St Paul's lines up — and only that second one carries the protected vista.
 
 ### Greenwich Park, by the General Wolfe statue
