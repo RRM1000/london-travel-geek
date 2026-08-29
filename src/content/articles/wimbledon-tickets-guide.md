@@ -103,7 +103,7 @@ Two things to take from that, and one trap.
 
 **Debentures are a sixth of Centre Court**, and those seats are guaranteed to their holders for all fourteen days: 2,520 seats across the fortnight is **35,280 seat-days** locked up before a single ballot entry is drawn. That is the price of the roof, the courts and the Grounds you get to walk around.
 
-> ⚠️ **The trap: that 53.5% is not the ballot.** It is a lump that contains the Public Ballot, the LTA ballots, the Queue, the on-site resale and Amex cardholder sales all together. Nobody publishes how it divides. And it is Centre Court only — it tells you nothing about No.1, No.2, No.3, the outside courts or Grounds Passes, which between them account for the large majority of everyone who comes through the gates.
+> ⚠️ **The trap: that 53.5% is not the ballot.** It is a lump that contains the Public Ballot, the LTA ballots, the Queue and the on-site resale all together. Nobody publishes how it divides. And it is Centre Court only — it tells you nothing about No.1, No.2, No.3, the outside courts or Grounds Passes, which between them account for the large majority of everyone who comes through the gates.
 
 A few smaller slices are documented. In 2026 the AELTC's **Family Ballot** gave tickets to a record **1,000 guests from more than 50 local schools**, and a further **1,000 refugees** and their support organisations were given tickets.
 
@@ -615,6 +615,12 @@ For an overseas visitor who wants certainty, that is an order of magnitude below
 | **Le Gavroche at The Lawn** | Five courses by Michel Roux, premium drinks | £2,795 |
 
 **Event Express** is the official accommodation partner, with negotiated rates at hotels near the Grounds — worth checking before you book independently, given how hard southwest London gets during the fortnight.
+
+### One thing an Amex card does, and one it does not
+
+American Express is an Official Partner of The Championships, and this gets misunderstood a lot. **Amex does not sell ordinary Wimbledon tickets to cardholders.** There is no cardholder ballot and no reserved allocation of Centre Court seats you can buy by holding the right card.
+
+What cardmembers actually get is an **Amex Hospitality Presale** — early access to buy hospitality packages before general sale — plus on-site perks during the fortnight: a **Cardmember Lounge**, **complimentary Amex radios**, interactive fan experiences and an on-site spend offer. Useful if you are going anyway. Not a way in.
 
 ### Debentures
 
