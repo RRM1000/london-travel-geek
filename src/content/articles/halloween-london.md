@@ -104,6 +104,10 @@ A **Halloween-specific immersive production** rather than a running show — you
 
 COLAB is a genuine immersive theatre company with a back catalogue of similar shows, rather than a seasonal pop-up — worth checking their site for exact October dates and prices before booking, since these productions tend to run for a fixed, short window.
 
+### The Halloween Lecture, Royal Institution
+
+A spooky-science live show for families rather than a scare — eerie fog, pumpkins turned into light sources, and other demonstrations from the Ri's own team. Doors 6.45pm, talk from 7pm. **£16/£10 for the general theatre audience, £7 for Ri Members and Patrons.** Green Park is the nearest station, with step-free access throughout. The exact October date was not yet listed at the time of writing — check the [Royal Institution's own listing](https://www.rigb.org/whats-on/halloween-lecture) closer to the time.
+
 ---
 
 ## Genuinely creepy London, no theming required
