@@ -32,7 +32,10 @@ faq:
 
 More than a thousand official blue plaques exist in London, and the pleasure of them is entirely in the specifics: Mozart wrote his first symphony in Belgravia **aged eight**, Engels hosted Marx in Primrose Hill for twenty years, and Handel and Hendrix lived in adjoining Mayfair houses two centuries apart.
 
-This is a guide to the ones worth building a walk around. For everything else, our [interactive map](/plaques/) has every plaque in London — official and unofficial — searchable by name and inscription.
+This is a guide to the ones worth building a walk around.
+
+> 🗺️ **[See every one of them on our interactive map →](/plaques/)**
+> All 3,630 London plaques, official and unofficial — search by name or inscription, filter by colour or subject, and find what's near you.
 
 > 💡 **The Short Version:** **Belgravia** has Mozart, Mary Shelley, Fleming and Tennyson in one short walk. **Bloomsbury** has Dickens, Darwin and Keynes. **Mayfair** has Handel and Hendrix next door to each other, and both houses are open as one museum. **St James's** has the oldest surviving plaque in London, put up in 1867 while its subject was still alive and still ruling France.
 
@@ -289,6 +292,7 @@ For the full breakdown of the schemes, the colours and the rules, see our **[gui
 
 ## Continue planning your London trip
 
+- 🗺️ **[Every plaque in London on one map](/plaques/)**
 - 🎬 **[London Filming Locations](/articles/london-filming-locations/)**
 - 🏰 **[Historic Houses in London](/articles/historic-houses-london/)**
 - 🎪 **[Free Things to Do in London](/free/)**
