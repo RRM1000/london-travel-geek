@@ -322,7 +322,12 @@ That 05:16 is the very first train through the station. Coming from central Lond
 
 > ⚠️ **Sundays are worse.** There is no Tube to Southfields until **06:46** — an hour and a half later than the rest of the week, and barely 40 minutes before wristbands start being handed out. Middle Sunday and the finals both fall on Sundays.
 
-**If you need to arrive before the Tube runs**, use the night bus. The **N87 runs all night** and stops at **Wimbledon Station**, **Wimbledon Park / Arthur Road** — which is right by the Queue itself — and **Standen Road** in Southfields, a few minutes' walk from the station. It runs down from Trafalgar Square and Vauxhall. The alternative is the **N31 to Clapham Junction** and then the **39** into Southfields. Day buses **39** and **493** both stop outside Southfields station once the morning service starts.
+**To arrive before the Tube runs**, your options are:
+
+- **The N87 night bus**, which runs all night from Trafalgar Square and Vauxhall and stops at Wimbledon Station, Wimbledon Park / Arthur Road and Standen Road in Southfields.
+- **A taxi or Uber**, the simplest option at 3am and the most expensive.
+- **A hire bike**, which the AELTC's chief executive credits with the recent jump in queue numbers.
+- **Staying nearby the night before**, though Wimbledon and Southfields accommodation is scarce and expensive during the fortnight.
 
 ### So how long will you actually wait?
 
