@@ -21,7 +21,7 @@ faq:
   - q: "Can people from outside the UK enter the Wimbledon ballot?"
     a: "Yes. There is no separate overseas ballot any more. The application period is the same for all guests including those from overseas, and you enter online through a myWimbledon account from anywhere in the world. The only real constraint is that it is one application per household and per email address, and you must apply from your permanent home address."
   - q: "What is the LTA Wimbledon ballot and can I enter it as well?"
-    a: "Yes, if you join the LTA first — and anyone aged 18 or over can. It is a separate ballot run by the LTA that requires an LTA Advantage membership, but you do not need to play tennis or belong to a club: Fan+ costs £25 a year and is open to any adult who signs up online. Play+ carries the same entry free if you are a member of an LTA-registered venue, and Compete is £35. You must opt in during the window; for 2027 that closes at 23:59 on Monday 31 August 2026. The two ballots are drawn separately and neither knows about the other, so entering both genuinely doubles your routes in. The big draw of the LTA version is that winners choose their own day and court, subject to availability, where the AELTC ballot allocates one specific day on one specific court at random and will not let you swap it — which matters enormously if you are booking travel or need to arrange time off. Just be aware that neither organisation publishes its odds, and if both draws miss you do not get the £25 back."
+    a: "Yes, if you join the LTA first — and anyone aged 18 or over can. It is a separate ballot run by the LTA that requires an LTA Advantage membership, but you do not need to play tennis or belong to a club: Fan+ costs £25 a year and is open to any adult who signs up online. Play+ carries the same entry free if you are a member of an LTA-registered venue, and Compete is £35. You must opt in during the window; for 2027 that closes at 23:59 on Monday 31 August 2026. The two ballots are drawn separately and neither knows about the other, so entering both genuinely doubles your routes in. The main difference is that LTA winners choose their own day and court, subject to availability, where the AELTC ballot allocates one specific day on one specific court at random and does not allow an exchange. Just be aware that neither organisation publishes its odds, and if both draws miss you do not get the £25 back."
   - q: "How long do you have to wait in the Wimbledon queue?"
     a: "Plan for most of the morning. Arriving at around 6.30am on a first-week day, it took us roughly six hours to get from joining the Queue to being inside the Grounds — so a little after midday. The gates open at 10am, but entry runs strictly in queue card number order and the Grounds fill at a controlled rate, so 'gates open' is not the same as 'you get in'. The second week is quicker."
   - q: "What time does the first Tube get to Southfields for the Wimbledon queue?"
@@ -201,7 +201,7 @@ Watch two traps. Plain **Fan** and plain **Play** memberships are free but do **
 
 ### How it differs from the Public Ballot
 
-The LTA ballot is not just a second lottery ticket. **It hands you something the Public Ballot never will: control over which day you go and which court you sit on.**
+The two ballots differ in one way that matters more than any other: **the LTA lets you choose your day and court, and the Public Ballot does not.**
 
 | | AELTC Public Ballot | LTA Advantage ballot |
 | --- | --- | --- |
@@ -213,11 +213,9 @@ The LTA ballot is not just a second lottery ticket. **It hands you something the
 | **Results** | From October | September to November |
 | **If you cannot attend** | Refund removes you from that year's ballot | Refund available, no stated ballot penalty |
 
-> 💡 **Choosing your own day and court is the single biggest advantage of the LTA route, and it is easy to underrate.** The Public Ballot hands you one specific day on one specific court, decided by a computer. It might be a wet Tuesday on No.3 Court in the first week. You cannot swap it, you cannot move it to another year, and if you decline it you are out of the ballot entirely. The LTA ballot instead lets you **choose from what is available** — pick the middle Saturday, pick a quarter-final day, pick Centre Court, pick a date you can actually get time off for.
+> 💡 **LTA winners choose their day and court. Public Ballot winners do not.** The AELTC allocates one specific day on one specific court at random. It cannot be exchanged for another day, court or year, and declining the offer removes you from that year's ballot. Successful LTA applicants are given the choice of date and court before they pay, and are then allocated the best seats available for that choice.
 
-For some people that is the difference between a ticket and a useless ticket. If you are travelling from abroad, booking flights and a hotel around a date the AELTC picks for you is a real problem — and being handed a Monday in week one when you were hoping for the second week is a poor return on a year of waiting. Knowing the date before you commit is worth a great deal.
-
-The trade-off is that "subject to availability" does real work in that sentence. You choose from what is left when your name comes up, not from the whole fortnight, and the best days will go to the people drawn before you.
+"Subject to availability" is a real limit. You choose from what remains when your name comes up, not from the full fortnight, so the days drawn earliest go first.
 
 LTA Wimbledon tickets are still **non-transferable**, and the named ticket holder has to be there on the day for them to be valid. If you cannot go, you request a refund rather than passing them on.
 
