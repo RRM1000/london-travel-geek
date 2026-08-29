@@ -20,6 +20,12 @@ faq:
     a: "Halloween 2026 is Saturday 31 October — the best possible night for it. Club nights, parties and one-off events will be at full strength and the popular ones will sell out earlier than in years when it lands midweek."
   - q: "Where can you hire a Halloween costume in London?"
     a: "Two places will genuinely hire to a member of the public: Prangsta Costumiers in New Cross, which is appointment-only and charges £130–£350 plus VAT for a full costume with a £300 deposit, and Costume Studio in Islington, which takes walk-ins and is happy to do a single costume. Angels on Shaftesbury Avenue, the shop most guides still send people to, closed in 2014."
+heroImage: "../../assets/articles/halloween-london/scary-carved-pumpkin-forest.jpg"
+heroImageAlt: "A fanged, monstrous jack-o'-lantern carved from a pale pumpkin, set on a stone beside a wooden cross on a leaf-covered woodland path"
+heroImageCredit: "Thomas Bresson"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:2018-10-27_17-10-23_Halloween-Fort-Dorsner-II.jpg"
+heroImageLicense: "CC BY 4.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
 ---
 
 **Halloween 2026 falls on a Saturday**, which makes it the busiest version of the night London gets. Everything that sells out will sell out earlier than usual, and the club nights and one-off parties will run at full strength rather than being squeezed into the nearest weekend.
@@ -80,11 +86,15 @@ One West End show is a horror title outright, two long-running shows do the job 
 
 ### Paranormal Activity, Ambassadors Theatre
 
+![Paranormal Activity key art for the stage adaptation at the Ambassadors Theatre](../../assets/articles/halloween-london/paranormal-activity-key-art.jpg)
+
 A stage adaptation of the horror film franchise, running at the Ambassadors until **7 November 2026** — so it covers Halloween but closes shortly after, unlike the longer-running shows on this list. It is a small venue, and a good fit for the night alongside the other shows here.
 
 It's a popular show, so it is likely to fill up over Halloween — book early.
 
 ### Stranger Things: The First Shadow, Phoenix Theatre
+
+![Stranger Things: The First Shadow key art for the stage production at the Phoenix Theatre](../../assets/articles/halloween-london/stranger-things-first-shadow-key-art.jpg)
 
 Booking through **Sunday 27 December 2026**, so it comfortably covers Halloween. A prequel to the Netflix series, set in Hawkins in 1959, following young Jim Hopper, Bob Newby and Joyce Maldonado.
 
@@ -93,6 +103,8 @@ Performances run Tuesday to Saturday at 7pm, with matinees Friday and Saturday a
 **Recommended for ages 12 and over**; under-5s are not admitted, and under-16s need an accompanying adult. Contains gunfire audio, loud noises, explosions, haze, strobe lighting and strong language.
 
 ### Beetlejuice, Prince Edward Theatre
+
+![Beetlejuice The Musical key art for the Prince Edward Theatre production](../../assets/articles/halloween-london/beetlejuice-musical-key-art.jpg)
 
 The stage musical of the film, currently running as a **limited West End engagement** — worth checking the closing date before you book, since it may not run right through to Halloween.
 
