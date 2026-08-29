@@ -355,7 +355,7 @@ Plan the day around it:
 
 - **Bring food and water for the wait**, not just for the tennis. There are outlets, but the coffee vans are overwhelmed — one 2026 account describes a 100-person queue at 7.30am and a 45-minute wait to be served. Bring backup caffeine.
 - **Do not plan anything before mid-afternoon.** If you are meeting people, meet them inside.
-- **Dress for sun and rain.** You are in an open field with no shelter for hours. Hat, sun cream, waterproof.
+- **Dress for anything.** You are in an open field with no shelter for hours. Hat, sun cream, waterproof.
 - **Bring something to sit on.** A cheap foam mat earns its place — but a camping chair cannot come into the Grounds and will cost you a left-luggage stop.
 
 ### Going in the evening
