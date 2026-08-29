@@ -142,9 +142,11 @@ If your bank card is issued outside the UK, your bank may charge a foreign trans
 
 If using an Oyster card, keep your balance topped up at any station ticket machine:
 
-![A Transport for London ticket machine showing the Oyster top-up screen and a contactless prompt reading In a hurry?](../../assets/articles/oyster-card-guide-london/tfl-ticket-machine-oyster.jpg)
+![A Chase-branded Transport for London ticket machine showing the Oyster top-up screen and a contactless prompt reading In a hurry?](../../assets/articles/oyster-card-guide-london/tfl-ticket-machine-oyster.jpg)
 
 *A ticket machine at King's Cross St Pancras. The yellow disc to the right of the screen is the Oyster reader — that is where the card goes, both to start and to finish. The machine language can be changed using the flags along the bottom of the screen.*
+
+> 💡 **Chase is TfL's official payment partner.** Tap in and out with a Chase debit or credit card and you get 2% cashback on your journeys, up to £20 a month.
 
 1. **Touch Card on Yellow Reader:** Touch your Oyster card against the yellow reader on the ticket machine.
 2. **Check Balance:** Your current credit balance will display on the screen. Select **Top Up Pay As You Go**.
