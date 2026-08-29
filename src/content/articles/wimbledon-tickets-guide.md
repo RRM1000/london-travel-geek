@@ -119,7 +119,7 @@ These are the 2026 prices as published by the AELTC. They are the same whichever
 | **No.3 Court** | £55 | £70 | £90 | £70 | — | — | — | — |
 | **Grounds Pass** | £33 | £33 | £33 | £33 | £26 | £26 | £21 | £21 |
 
-**No.3 Court** is in the table because the ballot can allocate it. It is **not** sold through the Queue.
+**No.3 Court** tickets come from the ballot only. You cannot buy one in the Queue.
 
 ---
 
