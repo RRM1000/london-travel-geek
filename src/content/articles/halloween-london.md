@@ -65,7 +65,7 @@ The National Theatre is the one worth spelling out, because plenty of older arti
 
 > 💡 **If it is the costumes themselves you are interested in**, Angels runs a two-hour **Behind the Seams tour** of its Hendon costume house for **£30**, with dates through October. It is a look at costume design for film, TV and theatre rather than a shopping trip.
 
-**For make-up and prosthetics**, Charles H Fox in Covent Garden — 7–8 Langley Court, WC2E 9JY — has been the theatrical make-up shop since 1905 and still trades.
+**For make-up and prosthetics**, go to **Screenface** at 7–8 Langley Court, Covent Garden WC2E 9JY (Mon–Wed 10am–6pm, Thu–Sat 10am–7pm) — stage make-up, SFX and prosthetics, hair effects, face and body paint. This is the address long associated with **Charles H Fox**, the historic theatrical make-up shop; Charles H Fox's own website no longer resolves, so treat that name as retired and go to Screenface at the same address instead.
 
 **Outside London**, the RSC hires to the public from Stratford-upon-Avon at around **£90 plus VAT** for a full costume, though the minimum hire is a week and it is appointment-only through an online form.
 
@@ -110,5 +110,39 @@ Old Compton Street, W1D 4HS. The stage musical of the film, currently running as
 COLAB Tower, SE1 9HB. A **Halloween-specific immersive production** rather than a running show — you investigate a Southwark murder with Rev. Stanley Park, working through clues, a ritual and a puzzle while a vengeful spirit stalks the building. The premise is built around staying quiet: making a sound draws the spirit toward you.
 
 COLAB is a genuine immersive theatre company with a back catalogue of similar shows, rather than a seasonal pop-up — worth checking their site for exact October dates and prices before booking, since these productions tend to run for a fixed, short window.
+
+---
+
+## Genuinely creepy London, no theming required
+
+London does not need a Halloween season to be macabre — these places are unsettling all year round, and October just happens to be the right mood for visiting them.
+
+**Highgate Cemetery**, Swain's Lane, N6 6PJ. Both the East and West sides are open to explore in your own time — you have not needed a guided tour for the West Cemetery since 2020, whatever older guides tell you. Open daily, 10am–5pm March to October and 10am–4pm the rest of the year.
+
+**The Old Operating Theatre Museum**, 9a St Thomas Street, SE1 9RY. A genuine Victorian surgical theatre above a church, reached by a spiral staircase. Thursday to Sunday, 10.30am–5pm. **Adult £10, concession £8, child £6.50.**
+
+**Hunterian Museum**, Royal College of Surgeons, 38–43 Lincoln's Inn Fields, WC2A 3PE. Anatomical specimens and surgical history, **free**, Tuesday to Saturday 10am–5pm.
+
+**Crossbones Graveyard**, Redcross Way, SE1. An unmarked burial ground for medieval sex workers and the poor, now a community shrine with ribbons tied to the gates. Free, always accessible, with a vigil held on the 23rd of every month.
+
+**Viktor Wynd Museum of Curiosities**, 11 Mare Street, E8 4RP. Taxidermy, shrunken heads and genuine oddities in Hackney. **Adult £12**, with a **£4 walk-in Thursday** discount. Booking ahead is recommended, especially if you are travelling any distance.
+
+**Sir John Soane's Museum**, 13 Lincoln's Inn Fields, WC2A 3BP. A house crammed with antiquities including an Egyptian sarcophagus, **free**, no booking needed, Wednesday to Sunday.
+
+**Dennis Severs' House**, 18 Folgate Street, E1 6BX. A "still-life drama" through ten rooms frozen mid-scene, lit by candlelight — not gory, but genuinely eerie. Booking required. **£16 daytime, £25 for a Silent Night visit.**
+
+**The Clink Prison Museum**, 1 Clink Street, SE1 9DG, on the site of one of England's oldest prisons. **Adult £10**, open daily 10am–6pm, near London Bridge station.
+
+**Bethlem Museum of the Mind**, Monks Orchard Road, Beckenham BR3 3BX — the museum of the former Bethlem Royal Hospital, the original "Bedlam." **Free**, Wednesday to Saturday. It is out in Beckenham rather than central London, so it is a deliberate trip rather than something to fold into a day elsewhere.
+
+---
+
+## Free Halloween things
+
+Be honest with yourself about this one: **London does not have a strong trick-or-treat culture**, and there is no single marquee free citywide event the way there is for Bonfire Night. What free Halloween activity exists is scattered and hyperlocal — library events, community centres, and a handful of neighbourhood trails.
+
+**High Street Kensington runs the best-known free one.** Halloween Happenings is an annual, non-ticketed trail through the shopping district, typically running from around 24 to 31 October, with shop workshops, a gothic vintage flea market and a Halloween takeover of Holland Park on the day itself. Check [highstreetkensington.co.uk](https://highstreetkensington.co.uk/) closer to the date for the 2026 programme, since it is not published this far ahead.
+
+**The free museums are your reliable fallback.** The British Museum, Natural History Museum, Wellcome Collection, Hunterian Museum and Sir John Soane's Museum are all free year-round, and several run half-term activity programmes that land right across Halloween week — the British Museum has previously run storytelling and Day of the Dead performances during the October half term. None of these had confirmed 2026 dates at the time of writing, so check each museum's own listings in October.
 
 ---
