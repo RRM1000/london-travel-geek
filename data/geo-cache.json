@@ -2988,14 +2988,14 @@
     "ward": "St James's"
   },
   "hiddenLondon:28-weeks-later-greenwich-foot-tunnel": {
-    "placeId": "ChIJ83oCUZoCdkgR35GJMoMguuc",
-    "placesName": "Greenwich Foot Tunnel North",
-    "resolvedAddress": "Thames Path (NE Extension), London E14 3UX, UK",
-    "postcode": "E14 3UX",
+    "placeId": "ChIJVxifNYUCdkgRxjqoqeEkaXQ",
+    "placesName": "Greenwich Foot Tunnel South",
+    "resolvedAddress": "Greenwich Foot Tunnel, London SE10 9HT, UK",
+    "postcode": "SE10 9HT",
     "businessStatus": "OPERATIONAL",
-    "lat": 51.495206,
-    "lng": -0.00665,
-    "ward": "Blackwall & Cubitt Town"
+    "lat": 51.483529,
+    "lng": -0.009594,
+    "ward": "Greenwich Park"
   },
   "hiddenLondon:28-weeks-later-south-quay-footbridge": {
     "placeId": "ChIJIdfSq7kCdkgReLBjiRMAtx8",
@@ -4626,7 +4626,7 @@
     "postcode": "SE10 0TW",
     "businessStatus": "OPERATIONAL",
     "lat": 51.503781,
-    "lng": -0.000094,
+    "lng": -9.4e-05,
     "ward": "Greenwich Peninsula"
   },
   "hotels:la-gaffe": {
