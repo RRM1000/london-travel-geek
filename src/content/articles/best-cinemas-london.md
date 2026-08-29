@@ -1,7 +1,7 @@
 ---
 title: "London's Best Independent Cinemas: 19 Screens"
 seoTitle: "Best Independent Cinemas London 2026: Repertory & Historic"
-description: "Where the Lumière brothers first showed film in Britain, a 1913 cinema Clapton crowdfunded back, and a Peckham screen where seats cost a few pounds."
+description: "Where the Lumière brothers first showed film in Britain, a 1913 cinema Clapton crowdfunded back, and a Peckham screen where seats are £6.99."
 heroImage: "../../assets/articles/best-cinemas-london/best-cinemas-london.jpg"
 heroImageAlt: "The art deco frontage of the Gaumont State Cinema in Kilburn"
 heroImageCredit: "Nathan"
@@ -18,7 +18,7 @@ faq:
   - q: "What is the best independent cinema in London?"
     a: "The Prince Charles off Leicester Square is the cult one — repertory prints, quote-alongs, sing-alongs and all-night marathons. Electric Portobello opened in 1911, is London's oldest purpose-built cinema, and has 98 leather armchairs, back-row sofas and double beds in the front row. Its sister site sits inside BBC Television Centre at White City."
   - q: "Where is the cheapest cinema in London?"
-    a: "Peckhamplex shows current releases for a few pounds a seat, which in central London would buy you a small drink. It is an independent showing mainstream films and has been undercutting the chains for years."
+    a: "Peckhamplex shows current releases for £6.99 plus a 60p booking fee, which in central London would barely buy you a drink. It is an independent showing mainstream films and has been undercutting the chains for years."
   - q: "Where was the first film shown in Britain?"
     a: "Regent Street Cinema, where the Lumière brothers' Cinematographe had its first British showing in 1896. It still operates as a cinema and calls itself the birthplace of British cinema."
   - q: "Can I watch films outdoors in London?"
@@ -31,7 +31,7 @@ London's independent cinemas are mostly buildings that survived by being useful 
 
 Several are cheaper than the chains, and one is where film was first shown in Britain.
 
-> 💡 **The Short Version:** **The Prince Charles** is the cult cinema of London, with 35mm and all-night marathons. **Regent Street Cinema** is where the Lumières first showed film in Britain in 1896. **Electric Portobello** opened in 1911, is London's oldest purpose-built cinema, and has armchairs, sofas and front-row beds. **Peckhamplex** shows current releases for a few pounds. And **Screen on the Canal** is free.
+> 💡 **The Short Version:** **The Prince Charles** is the cult cinema of London, with 35mm and all-night marathons. **Regent Street Cinema** is where the Lumières first showed film in Britain in 1896. **Electric Portobello** opened in 1911, is London's oldest purpose-built cinema, and has armchairs, sofas and front-row beds. **Peckhamplex** shows current releases for £6.99. And **Screen on the Canal** is free.
 
 > 📘 **How we choose these (editorial note)**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. No chains, except where a chain operates a genuinely historic building. Programmes change weekly — check the cinema's own listings rather than an aggregator.
@@ -212,9 +212,9 @@ Opened on **11 March 1911** as the Electric Pavilion with over 750 seats, and no
 
 ### Peckhamplex, Peckham
 
-*A few pounds a seat*
+*£6.99 a seat*
 
-An independent showing **current releases for a few pounds** — in central London the same money buys a small drink. It has been undercutting the chains for years and shows no sign of stopping.
+An independent showing **current releases for £6.99**, plus a 60p booking fee — in central London the same money barely buys a drink. It has been undercutting the chains for years and shows no sign of stopping.
 
 ### Everyman Screen on the Canal, King's Cross
 
@@ -238,7 +238,7 @@ Cinema in London runs from £4.99 to nearly £19 for the same film, so this is o
 
 * **Genesis**, Mile End — **£4.99 Monday to Wednesday**. The cheapest verified standard adult ticket in London.
 * **BFI Southbank** — **£4 for anyone aged 16 to 25**, any film, any time. The best deal in London cinema if you qualify.
-* **Peckhamplex** — current releases for a few pounds, and the reason south London has not lost its cinema-going habit.
+* **Peckhamplex** — current releases for **£6.99** plus a 60p booking fee, and the reason south London has not lost its cinema-going habit.
 * **Barbican** — **£6.50 on Mondays** booked online in advance.
 * **The Ritzy** — Happy Mondays all day, and **£3 for children** every day.
 * **The Garden Cinema** — **£8.50** for a weekday matinee before 5pm, and weekend family films are pay-what-you-can.
@@ -273,6 +273,7 @@ Cinema in London runs from £4.99 to nearly £19 for the same film, so this is o
 
 ## Continue planning your London trip
 
+- 💷 **[The Best Cinema Deals in London](/articles/cinema-deals-london/)**
 - 🎬 **[London Filming Locations](/articles/london-filming-locations/)**
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🎵 **[The Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
