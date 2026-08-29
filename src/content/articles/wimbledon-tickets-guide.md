@@ -558,12 +558,6 @@ For an overseas visitor who wants certainty, that is an order of magnitude below
 
 **Event Express** is the official accommodation partner, with negotiated rates at hotels near the Grounds — worth checking before you book independently, given how hard southwest London gets during the fortnight.
 
-### What an Amex card does and does not get you
-
-American Express is an Official Partner of The Championships. **It does not sell ordinary Wimbledon tickets to cardholders.** There is no cardholder ballot and no reserved allocation of Centre Court seats you can buy by holding the right card.
-
-What cardmembers actually get is an **Amex Hospitality Presale** — early access to buy hospitality packages before general sale — plus on-site perks during the fortnight: a **Cardmember Lounge**, **complimentary Amex radios**, interactive fan experiences and an on-site spend offer. Useful if you are going anyway. Not a way in.
-
 ### Debentures
 
 Debentures are the only Wimbledon tickets that can legally be sold on. Each one buys a premium seat for **five years** plus access to exclusive restaurants and bars, and the money funds improvements around the Grounds. They are FCA-regulated financial instruments issued under a prospectus, not a membership scheme.
@@ -620,6 +614,7 @@ Do not assume your own national tennis federation has an allocation. The AELTC n
 - **Resale platforms and ticket marketplaces.** Every Wimbledon ticket except a debenture ticket is strictly non-transferable. Advertising, promoting, offering for sale or transferring one voids it — and it is the ticket that gets cancelled, not the seller who gets punished. The AELTC can also cancel **every other ticket that holder has**, with no refund.
 - **Ticketmaster.** It is not a Wimbledon ticket seller at all, for any court, in any capacity. Neither is StubHub, Viagogo or any similar platform. Search results for "Wimbledon tickets" are dominated by paid ads from sites that cannot legally sell you one.
 - **Touts outside the station.** They will not get you in.
+- **An American Express card.** Amex is an Official Partner and cardholders get a hospitality presale plus on-site perks, but it sells no ordinary tickets and there is no cardholder ballot.
 - **Buying a ballot ticket from a successful applicant.** Ballot tickets are not transferable and are explicitly unsuitable as gifts. The named purchaser is expected at the gate with photo ID. LTA ballot tickets carry a harsher penalty still: resell one and the LTA's stated position is that your tickets are cancelled and you are banned from attending The Championships.
 - **Posting a photo of your ticket.** The AELTC asks people not to share ticket images on social media, because the details are used to defraud others and can leave you with problems at the gate.
 
