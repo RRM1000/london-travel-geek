@@ -190,6 +190,10 @@ Two acres of wetland reserve with St Pancras behind it. **The contrast is the po
 
 Three hundred acres of botanic garden with the Victorian Palm House, the Temperate House and a **treetop walkway eighteen metres up**. A genuine half-day, not an hour — it is far bigger than people expect.
 
+![The curved glass and iron Palm House at Kew Gardens, framed by lawns and formal flowerbeds](../../assets/articles/best-parks-gardens-london/kew-palm-house.jpg)
+
+*The Palm House, completed in 1848 to a design by Decimus Burton and Richard Turner - the largest glasshouse of its kind in the world when it was built.*
+
 ### Chelsea Physic Garden
 
 *Ticketed*
