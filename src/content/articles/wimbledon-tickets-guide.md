@@ -666,6 +666,7 @@ Pre-purchased tickets are digital through the Wimbledon app; a small number of p
 
 ## Continue planning your London trip
 
+- 🏃 **[London Marathon: How to Get a Place, and How to Watch It](/articles/london-marathon-guide/)**
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
 - 🌳 **[Best Parks and Gardens in London](/articles/best-parks-gardens-london/)**
