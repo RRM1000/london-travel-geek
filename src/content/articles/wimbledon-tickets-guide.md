@@ -166,84 +166,48 @@ Access arrives by email and is tied to your unsuccessful application — there i
 
 ## Route 2: The LTA ballot
 
-A second, separate draw run by the LTA rather than the AELTC. **You can enter both.**
+A second, entirely separate draw, run by the Lawn Tennis Association rather than the All England Club. **You can enter both**, and entering both is strictly better than entering one.
 
-The Lawn Tennis Association, British tennis's governing body, runs its own centralised random ballot, plus separate ballots for accredited coaches, venue volunteers and licensed officials. You opt in through your online Advantage area during a fixed window.
+The only condition is that you have to be an LTA member. That sounds like a barrier and is not one.
 
-The one condition is that you have to be an **LTA Advantage member** to enter.
+> 💡 **What almost everyone reading this needs: LTA Advantage Fan+, £25 a year.** Any adult aged 18 or over can sign up online in a few minutes. You do not have to play tennis, belong to a club, or have any connection to the sport. Join, then opt in to the Wimbledon ballot in your Advantage account — the opt-in is a separate step, and joining alone does not enter you.
 
-> 💡 **Anyone can join. You do not have to play tennis.** There is no club to get into, no qualification to meet, no waiting list and no connection to the sport required. **Any adult aged 18 or over can sign up for LTA Advantage Fan+ online for £25 a year and enter the ballot** — it takes a few minutes. Membership is the gate, but the gate is open to everybody.
+> ⚠️ **The 2027 opt-in closes at 23:59 on Monday 31 August 2026.** If you are reading this in late August, this is the deadline to act on first — the AELTC's own ballot has not opened yet.
 
-> ⚠️ **The 2027 opt-in window closes at 23:59 on Monday 31 August 2026.** It opened on 23 July. If you are reading this in the last days of August, this is the deadline to act on first — the AELTC's own ballot has not even opened yet.
+**Two exceptions worth thirty seconds of your time.** If you already belong to a tennis club, check whether it is LTA-registered: the **Play+** tier is **free** and carries the same ballot entry. And if you play in competitions, **Compete** at £35 includes it too. Otherwise, Fan+ is the one. Note that plain **Fan** and plain **Play** are free but include **no ballot entry** — it is the *plus* tiers that count.
 
-### What membership you need
+### How it compares with the Public Ballot
 
-Three tiers carry the Wimbledon ballot — **Fan+, Play+ and Compete** — and the ballot is open to members aged **13 and over**.
-
-| Membership | Cost | Who can join |
+| | AELTC Public Ballot | LTA ballot |
 | --- | --- | --- |
-| **Fan+** | **£25 a year** | **Anyone aged 18 or over.** The LTA's own eligibility line is simply "adults who love tennis or padel" — no club, no venue, nothing to prove |
-| **Play+** | **Free** | Members of a qualifying LTA-registered venue — a club, in other words |
-| **Compete** | **£35 a year** | Anyone who plays in regular tennis or padel competitions |
-| **Compete (Junior)** | £20 a year | Ages 4–18 |
-
-Watch two traps. Plain **Fan** and plain **Play** memberships are free but do **not** include the ballot — it is specifically the **plus** tiers that do, and it is easy to sign up for the wrong one. And if you already belong to a tennis club, check whether it is LTA-registered before paying: **Play+ carries the same ballot entry for free**, which makes it the cheapest advance route into Wimbledon that exists.
-
-### How it differs from the Public Ballot
-
-| | AELTC Public Ballot | LTA Advantage ballot |
-| --- | --- | --- |
-| **Cost to enter** | Free | **£25 a year** for Fan+, or free with Play+ if you belong to a club |
-| **Open to** | **Anyone, anywhere** | Members — but **any adult can join for £25** |
-| **Choose day and court?** | **No.** Allocated at random, and you cannot swap | **Yes.** You pick both before you pay, subject to availability |
-| **What you win** | The right to buy up to two tickets | The right to buy **one pair** of tickets |
-| **Minimum age** | 16 | 13 |
+| **Cost** | Free | **£25 a year** for Fan+ |
+| **Open to** | Anyone, anywhere | Any adult who joins the LTA |
+| **Choose day and court?** | **No** | **Yes** |
+| **What you win** | The right to buy up to two tickets | The right to buy **one pair** |
+| **One entry per** | **Household** | **Person** |
 | **Results** | From October | September to November |
-| **If you cannot attend** | Refund removes you from that year's ballot | Refund available, no stated ballot penalty |
 
-> 💡 **LTA winners choose their day and court. Public Ballot winners do not.** The AELTC allocates one specific day on one specific court at random. It cannot be exchanged for another day, court or year, and declining the offer removes you from that year's ballot. Successful LTA applicants are given the choice of date and court before they pay, and are then allocated the best seats available for that choice.
+Two of those rows matter more than the rest.
 
-"Subject to availability" is a real limit. You choose from what remains when your name comes up, not from the full fortnight, so the days drawn earliest go first.
+> 💡 **You choose your day and court.** The AELTC allocates one specific day on one specific court at random, it cannot be exchanged, and declining the offer removes you from that year's ballot. LTA winners pick the date and court before they pay, subject to what is still available.
 
-LTA Wimbledon tickets are still **non-transferable**, and the named ticket holder has to be there on the day for them to be valid. If you cannot go, you request a refund rather than passing them on.
+> 💡 **It is one entry per person, not per household.** The AELTC allows one application per household however many adults live there. The LTA lets every adult enter on their own account, and a household account holder can opt in for under-18s as well. A household of four gets one AELTC entry and four LTA entries.
+
+### Before you pay
+
+- **Nobody publishes the odds.** The AELTC has never released applicant numbers, and the LTA publishes neither its allocation nor how many members enter. Any percentage you see quoted for either ballot was invented.
+- **If both draws miss, the £25 is gone.** No refund, no rollover.
+- **You still pay full price for the tickets** if you win. Membership buys the entry, not the seat.
+- **It auto-renews.** Set a reminder if you only intend to pay for one year.
+- **Your membership must be live at the opt-in deadline**, and tickets are non-transferable — the named holder has to attend.
+
+Fan+ is not only a ballot entry, which softens the £25: it also carries priority for LTA tournament tickets, discounts with LTA partners, and one more Wimbledon route.
 
 ### The members' resale
 
-Advantage membership carries a second Wimbledon route: a **members-only resale of returned tickets**, run in **late March** (in 2026 it ran 25–31 March).
+Every March the LTA runs a **members-only sale of returned Wimbledon tickets** — in 2026 it ran 25–31 March. It is open to members who lost the ballot or were never made an offer, one pair each, day and court subject to availability.
 
-- **It is open to members who were unsuccessful in the ballot, and to those who were never offered anything.** Losing the draw is what qualifies you.
-- **You can join after the ballot window has closed and still be eligible.** The LTA's own eligibility list explicitly includes "members who have subsequently become members after the opt in window closed". So a Fan+ membership bought in, say, February still gets you into the March resale — even though the ballot itself shut the previous August.
-- It is one pair maximum, first come first served, day and court subject to availability.
-
-> ⚠️ **This is the one benefit Play+ does not get.** The free Play+ tier carries the ballot but is **excluded from the members' resale** — it is limited to **Fan+ and Compete**. If the resale is what you are after, the free club route will not do it.
-
-### The small print
-
-- **You still pay full price for the tickets.** Winning the LTA ballot buys you the right to purchase, nothing more; travel and everything else is on you.
-- **Your membership tier has to be live at the opt-in deadline.** A lapsed Fan+ or Compete that has not renewed in time is ineligible — and Play+ silently drops to plain Play if you leave your club or your venue stops being LTA-registered, taking your ballot entry with it.
-- **The paid tiers auto-renew.** The LTA has a dedicated page for cancelling auto-renewal, so set a reminder if you only ever intend to pay for one year.
-- **Opt-ins are subject to safeguarding checks** after the deadline closes, which can remove an entry.
-- **Which courts and days the LTA allocation actually covers is not published.** You choose "subject to availability", and what is available is not something either body discloses in advance.
-
-### The household rule
-
-The AELTC accepts **one application per household**, tied to the address you are registered at on the electoral roll. One household, one entry, however many adults live there.
-
-The LTA does the opposite. Every adult member of a household enters **on their own account**, and a household account holder can additionally opt in for members under 18. **So a household of four eligible people gets one AELTC entry and four LTA entries.**
-
-There is also **no advantage to joining early or having been a member for years**. The LTA states that every eligible entry has an equal, random chance.
-
-### Is it worth £25?
-
-The two ballots are run by different organisations, drawn separately, and neither knows you entered the other. **Entering both is therefore strictly better than entering one**, and being unsuccessful in one does not count against you in the other.
-
-> ⚠️ **Nobody publishes the odds for either ballot.** The AELTC has never released applicant numbers or success rates. The LTA has 2.5 million Advantage members, but most of those are on free tiers that carry no ballot entry, and it publishes neither the tier breakdown nor its Wimbledon allocation. So **no honest odds comparison is possible**, and anyone quoting you a percentage for either ballot has invented it. Every "1 in 10" or "4% acceptance rate" figure online traces back to nothing.
-
-And if both draws miss, the £25 is gone. There is no refund for an unsuccessful ballot, and no rollover to next year.
-
-Fan+ is not *only* a ballot entry, though: it also carries priority for tickets to all LTA tournaments, the members' resale of returned Wimbledon tickets, and discounts with LTA partners.
-
-> 💡 **Check whether you can get it free first.** **Play+ includes the same Wimbledon ballot entry and costs nothing**, provided you are a member of a qualifying LTA-registered venue. Plenty of people belong to a club, or a park tennis scheme, without realising it makes them eligible. Check before you pay £25 for the same thing.
+Two useful details: **you can join after the ballot has closed and still qualify**, so a Fan+ membership bought in February still gets you into the March sale. But it is **Fan+ and Compete only** — the free Play+ tier is excluded.
 
 ---
 
