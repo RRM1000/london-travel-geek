@@ -143,6 +143,10 @@ Scheduled river boats run frequently along the Thames between Putney, Westminste
 ### IFS Cloud Cable Car
 Crosses the Thames between Greenwich Peninsula (The O2) and Royal Docks. Offers dramatic views of East London from 90 metres in the air.
 
+![Cable car gondolas crossing high above Greenwich Peninsula on the IFS Cloud Cable Car](../../assets/articles/getting-around-london/london-cable-car.jpg)
+
+*The cable car runs at 90 metres, well above anything else in the area. Contactless and Oyster both work at the gate.*
+
 * **Ticket Perks:** Presenting a show ticket for **The O2 Arena** at the terminal office qualifies you for a **50% discount** on cable car flights.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="London Hop On Buses" data-gyg-partner-id="WWP7I0R" data-gyg-q="London river bus cable"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/s/%3Fq=London&amp;lc=57&amp;et=292175&amp;searchSource=3&amp;src=search_bar">GetYourGuide</a></span></div>

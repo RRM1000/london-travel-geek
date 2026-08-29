@@ -82,6 +82,10 @@ King's Cross has its own share of the commemorative plaques marking where notabl
 ## Top sights and activities
 
 1. **Coal Drops Yard** — Two 1850s coal warehouses joined by Thomas Heatherwick with a swooping kissing-roof. Independent shops, restaurants and a cobbled yard.
+
+![The curving zinc kissing-roof of Coal Drops Yard, where two Victorian warehouse roofs rise to meet each other, above crowds on the upper walkway](../../assets/articles/kings-cross-area-guide/coal-drops-yard-roofs.jpg)
+
+*The kissing-roof, seen from below. The two original warehouse roofs were extended until they touched.*
 2. **The British Library Treasures Gallery** — Magna Carta, the Lindisfarne Gospels, Leonardo's notebook, Handel's Messiah in his own hand, and Beatles lyrics scribbled on envelopes. Free, and one of the great rooms in London.
 3. **Granary Square** — 1,000 choreographed fountains in front of Central Saint Martins. Children play in them all summer; the steps down to the canal are the best sitting spot in the area.
 4. **Platform 9¾** — The trolley in the wall at King's Cross station, in the western concourse rather than on a platform. Free to queue, paid for the photo.

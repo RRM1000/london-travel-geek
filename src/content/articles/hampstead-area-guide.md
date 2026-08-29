@@ -113,6 +113,10 @@ The top. Kenwood House, the lake and the Spaniards Inn beyond.
 ### Church Row
 A single street of unbroken early-Georgian terrace, generally reckoned the finest in London outside Bloomsbury.
 
+![An ivy-covered brick terrace on a quiet Hampstead street, with parked cars and a hedge-lined pavement](../../assets/articles/hampstead-area-guide/hampstead-ivy-street.jpg)
+
+*One of Hampstead's Georgian terraces — this is the general character of the village's back streets, not only Church Row itself.*
+
 ### The Vale of Health
 A genuine hamlet marooned inside the Heath itself, near North End — a handful of ivy-covered cottages down a single lane, easy to walk past without noticing the turning.
 
