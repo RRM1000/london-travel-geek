@@ -57,7 +57,7 @@ This guide lists every display you can buy a ticket for, the one that is still f
 
 ## Alexandra Palace: the big one, and the format has changed
 
-The best-known display in London, on a ridge with one of the great views over the city — and **the format is different this year**, so previous visitors should read the detail.
+The best-known display in London, on a ridge with one of the great views over the city — and **the format is different this year**.
 
 | | Saturday 7 November | Sunday 8 November |
 | --- | --- | --- |
