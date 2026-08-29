@@ -277,7 +277,7 @@ An AELTC staffer's blunt summary to a reporter in 2026: to be confident of a Sho
 | **Grounds Pass, first week** | Pre-dawn, and expect a long wait even so |
 | **Grounds Pass, second week** | Much easier — the second Tuesday and the ladies' semi-final Thursday are the quietest days of the fortnight |
 
-> 💡 **Two accounts post live queue numbers throughout the fortnight** — `@ViewFromTheQ` and `@TheWimbledonQ` on X. They are fan-run, not official, and they are the only real-time read on how fast the Queue is filling on the day you want to go.
+> 💡 **Two fan-run accounts post queue updates through the fortnight** — [The Q (@ViewFromTheQ)](https://x.com/ViewFromTheQ) and [The Queue (@TheWimbledonQ)](https://x.com/TheWimbledonQ) on X. Neither is run by the AELTC and neither is guaranteed to be posting on the day you need it, but between them they are the closest thing to a real-time read on how fast the Queue is filling. Check them alongside the official Queue status, not instead of it.
 
 > ⚠️ **Never travel without checking the Queue status first.** The AELTC publishes a live Queue status on wimbledon.com during The Championships, and when the Queue hits capacity it stops issuing cards entirely. In 2025 the club told people to stop travelling once it passed 10,000. A wasted 6am journey to Southfields is the most common Wimbledon mistake there is.
 
