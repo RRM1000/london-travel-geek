@@ -136,8 +136,6 @@ You apply once, in a window of about three weeks. Successful applicants are pick
 
 **One application per household** is enforced on your permanent address — the one you are registered at on the electoral roll. Applying from a holiday home, a business address or temporary student accommodation invalidates the entry. Students, armed forces personnel and people in permanent houseshares are told to contact the AELTC rather than guess.
 
-> ⚠️ **If you use an iPhone, do not use "Hide My Email".** The AELTC states that ballot applications made from a hidden email address **will not be successful**. This is a silent failure — you get no warning, and you find out by never hearing anything. Type your real address in manually.
-
 ### What you actually get offered
 
 You may be offered a pair of seats together, or **two single tickets that are not next to each other**. This surprises people every year. Wimbledon's stands have rows with odd numbers of seats, leaving hundreds of unpaired seats each day, and rather than leave them empty the club offers them as two singles — usually across an aisle, one behind the other, or a few rows apart. You can preview the exact view from both seats before you pay.
