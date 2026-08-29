@@ -32,7 +32,7 @@ faq:
 
 **Bonfire Night 2026 falls on a Thursday**, and that single fact rearranges the whole evening. Almost every major London display has moved to the weekend. **Saturday 7 November is the busiest night of the season by a wide margin**, with Sunday 8 November second, and only a handful of events on 5 November itself.
 
-So if you climb a hill on Bonfire Night expecting a skyline full of rockets, you will mostly see other people's back gardens.
+**Thirteen separate displays land on Saturday 7 November alone.** So if you climb a hill on Bonfire Night itself expecting a skyline full of rockets, you will mostly see other people's back gardens.
 
 This guide lists every display you can buy a ticket for, the one that is still free, which famous ones no longer run at all, and — the part most guides get wrong — the free viewpoints that are actually open after dark.
 
@@ -171,7 +171,7 @@ People still search for all of these.
 | **Clissold Park** | Cancelled 2020–22 on budget grounds, never revived |
 | **Danson Park, Bexley** | Cancelled in 2025 for the first time in 56 years |
 | **Bounds Green** | Confirmed not running in 2026 — not enough volunteers. Hoping for 2027 |
-| **Chiswick Business Park** | Discontinued after 2023 |
+| **Chiswick Business Park** | Discontinued — the organisers said it no longer fitted their role in the community |
 | **Carshalton and Sutton** | Cancelled permanently. No ticketed display anywhere in Sutton |
 | **Lord Mayor's Show Thames fireworks** | Abolished by the City of London Corporation |
 
