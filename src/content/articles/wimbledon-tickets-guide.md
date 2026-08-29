@@ -1,0 +1,605 @@
+---
+title: "How to Get Wimbledon Tickets: The Ballot, The Queue and Every Other Way In"
+seoTitle: "Wimbledon Tickets 2027: Ballot Dates, The Queue, Prices"
+description: "Every legitimate route into Wimbledon: the public ballot and when it opens, exactly how The Queue works and when to arrive, the in-grounds Ticket Resale, and what to do if you are coming from abroad."
+publishedAt: 2026-08-29
+updatedAt: 2026-08-29
+sites:
+  - london
+canonicalSite: london
+category: "Things to do"
+tags:
+  - Wimbledon
+  - tennis
+  - tickets
+  - things to do
+  - London experiences
+draft: false
+faq:
+  - q: "When does the Wimbledon 2027 ballot open?"
+    a: "The AELTC has not published the exact date yet, but it emailed myWimbledon members on 27 August 2026 to say the Public Ballot opens soon. The 2026 ballot ran from Tuesday 2 September to 23:59 BST on Sunday 21 September 2025, so expect a similar early-September window and roughly three weeks to apply. You must have a myWimbledon account and have opted in to 'Championships tickets, including the Wimbledon Public Ballot' to be told when it opens."
+  - q: "Can people from outside the UK enter the Wimbledon ballot?"
+    a: "Yes. There is no separate overseas ballot any more. The application period is the same for all guests including those from overseas, and you enter online through a myWimbledon account from anywhere in the world. The only real constraint is that it is one application per household and per email address, and you must apply from your permanent home address."
+  - q: "What is the LTA Wimbledon ballot and can I enter it as well?"
+    a: "Yes, and you should. The LTA runs its own random ballot for Advantage members, entirely separate from the AELTC Public Ballot, and you can enter both. You need a Fan+ (£25 a year), Play+ (free, for members of an LTA-registered venue) or Compete (£35 a year) membership and must opt in during the window — for 2027 that closes at 23:59 on Monday 31 August 2026. Its big advantage over the public ballot is that winners choose their day and court rather than being allocated one at random."
+  - q: "How long do you have to wait in the Wimbledon queue?"
+    a: "Plan for most of the morning. Arriving at around 6.30am on a first-week day, it took us roughly six hours to get from joining the Queue to being inside the Grounds — so a little after midday. The gates open at 10am, but entry runs strictly in queue card number order and the Grounds fill at a controlled rate, so 'gates open' is not the same as 'you get in'. The second week is quicker."
+  - q: "What time does the first Tube get to Southfields for the Wimbledon queue?"
+    a: "The first District line train reaches Southfields at about 05:16 Monday to Saturday, and from central London you will realistically arrive around 05:44. On a Sunday there is no train until 06:46 — barely 40 minutes before Show Court wristbands start being issued at 7.30am. If you need to be there earlier, the N87 night bus runs all night and stops at Wimbledon Station, Wimbledon Park / Arthur Road and Standen Road in Southfields."
+  - q: "What time do you need to queue at Wimbledon to get Centre Court tickets?"
+    a: "You effectively need to camp overnight. Wristbands are issued from 7.30am to the front of the Queue in exactly the number of tickets available — 500 for Centre Court on the first ten days — and by then thousands of people have already been there since the previous afternoon. The first Tube does not reach Southfields until about 05:16, so arriving by train on the day is a Grounds Pass plan, not a Centre Court one."
+  - q: "How many tickets are sold through the Wimbledon Queue each day?"
+    a: "500 tickets each for Centre Court, No.1 Court and No.2 Court, plus several thousand Grounds Passes. Centre Court and No.2 Court tickets are only sold through the Queue on the first ten days. No.1 Court tickets are sold every day of the event, and there are no Centre Court tickets in the Queue for the last four days."
+  - q: "Can you leave the Wimbledon queue once you have a queue card?"
+    a: "Yes, briefly. Temporary absence for refreshments or a toilet break should not exceed 30 minutes, and your queue card must stay with you — it is numbered, dated and strictly non-transferable, and you cannot use it to hold a place for someone else. If you camp overnight and fail to pack your tent away in the morning, stewards can remove your queue card."
+  - q: "Are there showers in the Wimbledon queue?"
+    a: "Not in the Queue itself — the official facilities list covers toilets, baby change, bottle refill, phone charging, left luggage and food, and no showers of any kind. The workaround is The Gym Group Southfields at 231 Wimbledon Park Road, SW18 5RJ, which is open 24 hours, has showers and lockers, sells a £12.99 day pass, and is about eight minutes' walk from the Queue on the same road."
+  - q: "How does the Wimbledon Ticket Resale work?"
+    a: "Show Court ticket holders scan out when they leave for the day and their seats are resold from 3pm. You join a virtual queue in the Wimbledon app and, if you are selected, get a text with instructions. Tickets are £15 for Centre Court and £10 for No.1 and No.2 Court, and all proceeds net of VAT go to the Wimbledon Foundation. Join the virtual queue as early in the day as you can."
+  - q: "Is it legal to buy Wimbledon tickets on resale sites?"
+    a: "Almost never. Every Wimbledon ticket except a debenture ticket is strictly non-transferable, and any ticket advertised or offered for sale is void — it will not get you in, and you will not get your money back. Debenture tickets, which have the word 'debenture' printed where the price would be, are the one exception and can legally be sold on."
+heroImage: "../../assets/articles/wimbledon-tickets-guide/wimbledon-outside-court.jpg"
+heroImageAlt: "A ladies' doubles match on an outside court at Wimbledon, with the ivy-clad Centre Court building behind"
+---
+
+Wimbledon is the only Grand Slam where you can still turn up on the day, pay face value and sit on Centre Court. It is also the hardest tennis ticket in the world to buy in advance. Both things are true, and the gap between them is where almost everyone goes wrong.
+
+There are a small number of legitimate ways in, and the All England Club controls every one of them. Everything else — the resale sites, the "guaranteed Wimbledon tickets" ads, the man outside Southfields station — sells you a ticket that is void on arrival. This guide covers each real route, what it costs, and exactly when you have to act.
+
+The 2026 Championships drew a record **550,151 people** through the gates, and the ground has not got any bigger. The expansion into Wimbledon Park is still in court — the Court of Appeal granted objectors permission to appeal in July 2026 — so there will be no extra capacity for 2027. Demand goes up, supply does not.
+
+**The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.** Both free ballots for those tickets are decided over the next few weeks — one closes on **31 August 2026**, the other opens days later — which makes right now the most important window in the Wimbledon year.
+
+> 💡 **The Short Version:** There are **two free advance ballots**, and both are decided in September. The **AELTC Public Ballot** opens in **early September** and is open to anyone in the world. The **LTA Advantage ballot** is a separate second chance — and its opt-in **closes at 23:59 on Monday 31 August 2026**. If you miss both, **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £21**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. Everything else is hospitality, debentures, or a scam.
+
+---
+
+## The dates you need for 2027
+
+| What | When | Notes |
+| --- | --- | --- |
+| **LTA ballot opt-in closes** | **23:59, Mon 31 August 2026** | Opened 23 July. Needs an LTA Advantage Fan+, Play+ or Compete membership |
+| **Public Ballot opens** | **Early September 2026** (expected) | The 2026 ballot opened Tue 2 Sept 2025. AELTC emailed members on 27 Aug 2026 to say it "opens soon" |
+| **Public Ballot closes** | Roughly three weeks later | The 2026 ballot closed at **23:59 BST** on Sun 21 Sept 2025 — a hard deadline |
+| **LTA ballot draws** | September to November 2026 | Winners contacted through the balloting period |
+| **Public Ballot results** | **From October 2026** | Offers arrive by email, with a strict payment deadline |
+| **Qualifying** | The week before The Championships | Community Sports Centre, Roehampton — tickets from **£20** |
+| **The Queue opens** | **2pm the Sunday before Day 1** | 2pm on Sun 27 June 2027, if 2026's pattern holds |
+| **The Championships** | **Mon 28 June – Sun 11 July 2027** | Confirmed by the AELTC |
+
+> ⚠️ **Do the myWimbledon step today, not when the ballot opens.** Signing up for a myWimbledon account is *not* the same as entering the ballot, but you cannot enter without one — and you will not be told the ballot has opened unless you have ticked **'Championships tickets, including the Wimbledon Public Ballot'** in the Email Consents and Preferences section of your profile. Add `info@championships.aeltc-email.com` to your safe senders while you are there; the AELTC's own advice is that its ballot emails routinely land in spam.
+
+---
+
+## Route 1: The Wimbledon Public Ballot
+
+The ballot has run since 1924 and remains the only way to buy a Show Court ticket at face value months in advance. It is free to enter and it is genuinely random — the AELTC states plainly that it gives no preferential treatment to people who have applied for years without success.
+
+### When it runs
+
+It has opened in the first days of September two years running:
+
+| Championships | Ballot opened | Ballot closed | Offers sent |
+| --- | --- | --- | --- |
+| **2025** | Mon 2 September 2024 | Mon 16 September 2024 | From October 2024 |
+| **2026** | Tue 2 September 2025 | **23:59 BST**, Sun 21 September 2025 | From October 2025 |
+| **2027** | Not yet announced | Not yet announced | **From October 2026** |
+
+> 💡 **The published deadline is not always the real one.** The 2026 ballot was first reported as closing on Tuesday 16 September 2025. It actually closed on Sunday 21 September, with the AELTC still posting "last chance" reminders on the 19th. Work to the first date you are given, but if you miss it, check before you give up.
+
+### How it works
+
+You apply once, in a window of about three weeks. Successful applicants are picked by an automated random selection process and offered **up to two tickets** for one specific day on one specific court.
+
+| | |
+| --- | --- |
+| **Cost to enter** | Free — no entry fee and no deposit; nothing is charged unless you win and choose to pay |
+| **Minimum age** | **16** — applications from anyone 15 or under are voided |
+| **Applications allowed** | **One per household, per email address, per myWimbledon account** |
+| **Tickets per application** | Up to **two** |
+| **Courts you might be offered** | Centre Court, No.1 Court, No.2 Court or No.3 Court |
+| **Can you choose day, court or seat?** | **No** |
+| **When you hear** | From **October**, by email |
+| **How you pay** | Credit or debit card, by a fixed deadline, by the applicant only |
+
+**One application per household** is enforced on your permanent address — the one you are registered at on the electoral roll. Applying from a holiday home, a business address or temporary student accommodation invalidates the entry. Students, armed forces personnel and people in permanent houseshares are told to contact the AELTC rather than guess.
+
+> ⚠️ **If you use an iPhone, do not use "Hide My Email".** The AELTC states that ballot applications made from a hidden email address **will not be successful**. This is a silent failure — you get no warning, and you find out by never hearing anything. Type your real address in manually.
+
+### What you actually get offered
+
+You may be offered a pair of seats together, or **two single tickets that are not next to each other**. This surprises people every year. Wimbledon's stands have rows with odd numbers of seats, leaving hundreds of unpaired seats each day, and rather than leave them empty the club offers them as two singles — usually across an aisle, one behind the other, or a few rows apart. You can preview the exact view from both seats before you pay.
+
+Centre Court and No.1 Court use tiered pricing by row band. None of the seats has a restricted view; the bands simply reflect how close you are to the court.
+
+### The decision that catches people out
+
+> ⚠️ **Declining your offer ends your ballot for that year.** If you turn down the day, court or seats you are given, you cannot change your mind, you will not be offered anything else, and you are out of the Public Ballot for that Championships. The same applies if you accept and later request a refund. There is no swapping for a different day, court or year.
+
+If you are offered two tickets but only want one, you have to ask the AELTC to amend the offer **before** you pay. And only the original applicant can make the payment — you cannot have someone else pay on your behalf.
+
+### Accessible and wheelchair tickets
+
+The **Wheelchair Ballot** runs in the same window as the Public Ballot; you opt into it inside the ordinary application by selecting "Yes" next to "Entry into the Wheelchair Ballot", including when it is your guest rather than you who needs the space. Wheelchair spaces are roughly **90cm wide by 135cm long**.
+
+If you need accessible seating but not a wheelchair space, enter the standard ballot without ticking the wheelchair option. If you hold an Access Card, enter the card ID on the profile page during the application — that is the cleanest way to get suitable seats allocated automatically. Otherwise, contact the ticket office before paying.
+
+The AELTC offers a **complimentary companion ticket** to certain categories of accessibility ticket holder, one per guest, subject to availability. It usually asks to see documentation — PIP, DLA, Attendance Allowance, Carer's Allowance, an Access Card, a War Pensions Mobility Allowance, a blind or partially sighted registration certificate, or a letter from a GP, community nurse or social worker — within five days of booking and no later than two weeks before the day.
+
+### If you are unsuccessful
+
+Unsuccessful ballot applicants are given access to an **online returns shop** in the lead-up to The Championships, where returned tickets go back on sale. The stock comes from the AELTC's own flexible refund policy: ticket holders can return tickets up to 24 hours before their day of play, and those seats have to go somewhere.
+
+Access arrives by email and is tied to your unsuccessful application — there is no public page to bookmark, which is precisely why it is worth entering the ballot even if you fully expect to lose. Note that this is a different thing from the on-site **Ticket Resale** covered further down: the returns shop is online and runs before The Championships; Ticket Resale happens inside the Grounds during them.
+
+---
+
+## Route 2: The LTA ballot — the second draw most people miss
+
+This is the most overlooked route into Wimbledon, and it is entirely separate from the AELTC's Public Ballot. **You can enter both.**
+
+The Lawn Tennis Association, British tennis's governing body, runs its own centralised random ballot for **LTA Advantage members**, plus separate ballots for accredited coaches, venue volunteers and licensed officials. You opt in through your online Advantage area during a fixed window.
+
+> ⚠️ **The 2027 opt-in window closes at 23:59 on Monday 31 August 2026.** It opened on 23 July. If you are reading this in the last days of August, this is the deadline to act on first — the AELTC's own ballot has not even opened yet.
+
+### What membership you need
+
+The Wimbledon ballot is open to **Fan+, Play+ and Compete** Advantage members aged **13 and over**.
+
+| Membership | Cost | Who it is for |
+| --- | --- | --- |
+| **Play+** | **Free** | Members of a qualifying LTA-registered venue — a club, in other words |
+| **Fan+** | **£25 a year** | Anyone aged 18+. The straightforward paid route in |
+| **Compete** | **£35 a year** | People who play in regular competitions |
+| **Compete (Junior)** | £20 a year | Ages 4–18 |
+
+Plain **Fan** and plain **Play** memberships are free but do **not** include the ballot. If you already belong to a tennis club, check whether it is LTA-registered — **Play+ is free and includes the ballot**, which makes it the cheapest advance route into Wimbledon that exists.
+
+### How it differs from the Public Ballot
+
+The LTA ballot is not just a second lottery ticket. It works differently in one way that matters enormously:
+
+| | AELTC Public Ballot | LTA Advantage ballot |
+| --- | --- | --- |
+| **Cost to enter** | Free | Free, but needs an eligible membership |
+| **Choose day and court?** | **No** — allocated at random | **Yes** — you choose before purchase, subject to availability |
+| **What you win** | The right to buy up to two tickets | The right to buy **one pair** of tickets |
+| **Minimum age** | 16 | 13 |
+| **Results** | From October | September to November |
+| **If you cannot attend** | Refund removes you from that year's ballot | Refund available, no stated ballot penalty |
+
+Being able to pick the day and court is the whole appeal. The Public Ballot hands you a random Tuesday on No.3 Court or a random Saturday on Centre; the LTA ballot lets you choose from what is left.
+
+LTA Wimbledon tickets are still **non-transferable**, and the named ticket holder has to be there on the day for them to be valid. If you cannot go, you request a refund rather than passing them on.
+
+Advantage membership also carries a second Wimbledon benefit worth knowing about: **members-only access to a resale of returned Wimbledon tickets**, plus discounted entry to the Wimbledon Museum.
+
+---
+
+## Route 3: The Queue
+
+![A large crowd waiting on the grass in Wimbledon Park during The Championships, with camping chairs, picnic blankets, queue section marker boards and a big screen in the distance](../../assets/articles/wimbledon-tickets-guide/wimbledon-queue-wimbledon-park.jpg)
+
+This is the part that makes Wimbledon different from every other major sporting event on earth. Every single morning of the fortnight, premium Show Court seats go on sale at face value to whoever is standing in a field in Wimbledon Park.
+
+### What is actually on sale each day
+
+| Ticket | Availability |
+| --- | --- |
+| **Centre Court** | **500 per day, first 10 days only** — none in the Queue for the last four days |
+| **No.1 Court** | **500 per day, every day of The Championships** |
+| **No.2 Court** | **500 per day, first 10 days only** |
+| **Grounds Pass** | Several thousand daily, until the Grounds reach capacity |
+
+A **Grounds Pass** gets you into the Grounds and every outside court: unreserved seating on No.3 Court, Court 12 and Court 18, plus courts 4–11 and 14–17, and a place on **The Hill** in front of the big screen showing Centre and No.1 Court. For No.3 Court, a separate queue runs from the southern end of the court.
+
+Tickets are **one per person**, **non-transferable**, and **card only** — no cash at the sales structure.
+
+### What it costs
+
+These are the 2026 prices as published by the AELTC. Expect 2027 to land close to them.
+
+| | Days 1–2 | Days 3–4 | Days 5–6 | Days 7–8 | Days 9–10 | Day 11 | Day 12 | Days 13–14 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Centre Court** rows A–T | £115 | £135 | £175 | £220 | £255 | £300 | £300 | £350 |
+| **Centre Court** rows U–Z | £105 | £120 | £160 | £195 | £225 | £265 | £265 | £305 |
+| **Centre Court** rows ZA–ZF | £80 | £100 | £125 | £155 | £180 | £215 | £215 | £245 |
+| **No.1 Court** rows A–Q | £100 | £125 | £160 | £200 | £235 | £110 | £110 | £65 |
+| **No.1 Court** rows R–W | £90 | £110 | £145 | £170 | £210 | £100 | £100 | £55 |
+| **No.1 Court** rows X–ZC | £70 | £90 | £115 | £140 | £170 | £70 | £70 | £40 |
+| **No.2 Court** | £55 | £70 | £90 | £105 | £55 | — | — | — |
+| **No.3 Court** | £55 | £70 | £90 | £70 | — | — | — | — |
+| **Grounds Pass** | £33 | £33 | £33 | £33 | £26 | £26 | £21 | £21 |
+
+> 💡 **The value spot nobody talks about.** No.1 Court collapses in price at the end of the fortnight — **£40 for a seat on the final Sunday**, against £350 for Centre Court the same day, because the finals are on Centre. And a **£21 Grounds Pass** on the last weekend puts you on The Hill in front of the big screen for the finals themselves — about what a central London cinema charges for one seat.
+
+### The queue card system
+
+When you arrive you walk to the back of the Queue and a steward issues you a **Queue Card**. It is numbered and dated, and that number is your position — entry to the Grounds happens in queue card number order.
+
+The rules around it are simple and strictly enforced:
+
+- **Keep it on you at all times.** It must be presented at the ticket sales structure to buy anything, and stewards can check it at any point.
+- **It is strictly non-transferable.** You cannot hold a place in the Queue for someone else.
+- **Temporary absence should not exceed 30 minutes** — enough for the toilet or to buy food, not enough for dinner in Wimbledon Village.
+- **If the Queue reaches capacity, no more cards are issued.** At that point you are asked not to join the back, and the official advice is never to travel without checking the Queue status on wimbledon.com first.
+
+A queue card does not guarantee entry. Once the Grounds hit capacity, further entry is only possible as people leave for the day.
+
+### When you actually have to arrive
+
+The AELTC will not publish arrival times, and it is right not to — demand swings with the weather, the day of the week and who is still in the draw. But the arithmetic is fixed, and you can reason from it.
+
+Wristbands are handed out from **7.30am, starting at the front**, in **exactly** the number of tickets available. So for a Centre Court ticket in the first week you need to be inside the first 500 queue cards. Cards are issued in arrival order from the moment the Queue opens the afternoon before. That is why Centre Court effectively means camping — not because the rules say so, but because 500 people ahead of you have already pitched tents by the time the sun goes down.
+
+### What queue number you get, and when
+
+Here is a full Day 1 sequence, compiled by a queuer from her own card and posts from others around her. This is 2024, and it is the clearest picture anyone has published:
+
+| Arrival | Queue card number |
+| --- | --- |
+| Friday afternoon, three days early | First 10 |
+| Saturday, just after 1pm | First 50 |
+| Sunday 8am | Low 100s |
+| **Sunday 9pm** | **1,220** |
+| Monday 3.30am | 1,500s |
+| **Monday 5am** | **2,500s** |
+| Monday 6am | 3,700s |
+| **Monday 7am** | **6,600s** |
+| Monday 8.06am | 8,300s |
+| Monday 9am | 9,000 |
+| Monday 11.30am | Over 10,000 |
+
+Card 1,220 — arriving at 9pm the night before — got a **No.2 Court** wristband. Centre Court and No.1 Court had already gone.
+
+> ⚠️ **These numbers are getting worse every year, fast.** One queuer arrived just before 5am in 2017 and got card **1,785**. He arrived at the same time in 2026 and got **4,857**. The AELTC's own chief executive puts it down to social media and hire bikes — people can now reach the Queue from further out without waiting for the first Tube. On Day 1 of 2026, the Queue passed **10,000 by 8.30am** and was described as effectively full.
+
+An AELTC staffer's blunt summary to a reporter in 2026: to be confident of a Show Court ticket, you now need to camp **two nights**, not one. The people who took cards 420 and 421 on Day 1 of 2026 had arrived at 3.30am on the **Saturday** — two nights before play started, and they still found around 100 tents already up.
+
+| What you want | What it realistically takes |
+| --- | --- |
+| **Centre Court, first week** | Two nights of camping. One night is no longer reliable |
+| **No.1 or No.2 Court, first week** | One night, arriving early on the Sunday or before |
+| **Show Court, last four days** | No Centre Court in the Queue at all. Only No.1 Court, and demand is high |
+| **Grounds Pass, first week** | Pre-dawn, and expect a long wait even so |
+| **Grounds Pass, second week** | Much easier — the second Tuesday and the ladies' semi-final Thursday are the quietest days of the fortnight |
+
+> 💡 **Two accounts post live queue numbers throughout the fortnight** — `@ViewFromTheQ` and `@TheWimbledonQ` on X. They are fan-run, not official, and they are the only real-time read on how fast the Queue is filling on the day you want to go.
+
+> ⚠️ **Never travel without checking the Queue status first.** The AELTC publishes a live Queue status on wimbledon.com during The Championships, and when the Queue hits capacity it stops issuing cards entirely. In 2025 the club told people to stop travelling once it passed 10,000. A wasted 6am journey to Southfields is the most common Wimbledon mistake there is.
+
+### The Tube problem nobody warns you about
+
+Here is the thing that quietly decides your day: **you cannot get to Southfields early by Tube, because the Tube is not running.**
+
+First District line trains reaching Southfields from central London, from TfL's own timetable:
+
+| Day | First train into Southfields | Then |
+| --- | --- | --- |
+| **Monday–Saturday** | **05:16** | 05:28, 05:36, 05:44, 05:58 |
+| **Sunday** | **06:46** | 06:53, 07:04, 07:12 |
+
+That 05:16 is the very first train through the station. Coming from central London you will realistically be on a slightly later one — from Earl's Court the first through service gets you in at about **05:44**.
+
+Now hold that against the timetable above. **Wristbands for the Show Courts are issued from 7.30am.** If you step off the first Tube at 5.44am, you are joining the back of a queue that thousands of people already joined the previous afternoon. You are not queueing for Centre Court. You are queueing for a Grounds Pass, and you are doing it behind everyone who camped.
+
+> ⚠️ **Sundays are a different problem entirely.** There is no Tube to Southfields until **06:46 on a Sunday** — an hour and a half later than the rest of the week, and barely 40 minutes before wristbands start being handed out. Middle Sunday and the finals both fall on Sundays. If you want to be in the Queue early on a Sunday, the Tube cannot get you there.
+
+**If you need to arrive before the Tube runs**, the night bus is the answer. The **N87 runs all night** and stops at **Wimbledon Station**, **Wimbledon Park / Arthur Road** — which is right by the Queue itself — and **Standen Road** in Southfields, a few minutes' walk from the station. It runs down from Trafalgar Square and Vauxhall. The alternative is the **N31 to Clapham Junction** and then the **39** into Southfields. Day buses **39** and **493** both stop outside Southfields station once the morning service starts.
+
+### So how long will you actually wait?
+
+Long. Longer than the official guidance implies, because the AELTC will only say that it cannot tell you.
+
+**Our own experience:** arriving at around **6.30am** on a first-week day, it took roughly **six hours** to get from joining the Queue to being inside the Grounds — a little after midday, with play already two hours old on the outside courts.
+
+That turns out to be entirely typical. Reported waits from recent years:
+
+| Year and day | Arrived | Queue card | Inside the Grounds |
+| --- | --- | --- | --- |
+| 2025, first week | 4am | 2,642 | **10.30am** |
+| 2026, middle Saturday | 4am | — | **12.30pm** |
+| 2026, Day 1 | ~4–5am | 5,033 | Front of the queue **just before midday** |
+| 2025, first week | 6am | 5,313 | **12.30pm** — about **6½ hours** |
+| **Ours, first week** | **6.30am** | — | **~12.30pm — about 6 hours** |
+| 2025, Day 3 | 7.45am | ~8,900 | **1pm** |
+| 2023, Day 1 | 3.45am | — | **1.15pm** |
+
+The pattern is consistent: **a pre-dawn arrival in the first week gets you in somewhere between 10.30am and 1pm.** The gates open at 10am, but "gates open" is not "you get in". Entry runs strictly in queue card order and the Grounds fill at a controlled rate, so if several thousand people are ahead of you, you wait for several thousand people to clear security first.
+
+And the numbers do not move in a straight line. On Day 3 of 2025 a 7.45am arrival got card 8,900; on Day 4, arriving an **hour earlier** at 6.45am produced a **worse** card of 9,900. Day-to-day variance beats any fixed rule about arrival times.
+
+> 💡 **The exception: turn up late.** Once the Grounds are full the Queue switches to one-out-one-in as people leave for the day, and it moves quickly. Arriving **after 4pm** with a Grounds Pass gets you several hours of evening tennis for the same price, with almost no wait. Ticket sales run until 8pm and the Grounds stay open until 45 minutes after the last match.
+
+Plan the day around it:
+
+- **Bring food and water for the wait**, not just for the tennis. There are outlets, but the coffee vans are overwhelmed — one 2026 account describes a 100-person queue at 7.30am and a 45-minute wait to be served. Bring backup caffeine.
+- **Do not plan anything before mid-afternoon.** If you are meeting people, meet them inside.
+- **Sun and rain both hurt.** You are in an open field with no shelter for hours. Hat, sun cream, waterproof.
+- **Something to sit on matters more than you think.** A cheap foam mat earns its place — but remember a camping chair cannot come into the Grounds and will cost you a left-luggage stop.
+
+### The morning timetable
+
+| Time | What happens |
+| --- | --- |
+| **2pm the day before Day 1** | The Queue opens for the fortnight. Do not arrive before this |
+| **5.30–6am** | Stewards wake overnight queuers to pack up tents and form a proper queue |
+| **5.30am** | Left luggage 'A' in Wimbledon Park opens for camping kit and oversized bags |
+| **7.30am** | **Wristbands issued from the front of the Queue** for Centre, No.1 and No.2 Court — in exactly the number of tickets available that day |
+| **10am** | The Grounds open; entry proceeds in queue card number order |
+| **11am** | Play begins on the outside courts |
+| **1pm / 1.30pm** | Play begins on No.1 Court, then Centre Court |
+| **8pm** | Ticket sales finish for the day |
+
+The wristband step is the whole game. When exactly 500 Centre Court wristbands run out, they run out — everyone behind that point is buying a Grounds Pass instead.
+
+> ⚠️ **Pack your tent away or lose your card.** New wording in the 2026 guide: guests who do not pack their tents away in the morning have their queue cards removed. After being woken you take everything oversized to left luggage and rejoin the line.
+
+> ⚠️ **The one moment you must not be away from your tent.** Queue cards are handed out during the afternoon, at a time the AELTC deliberately does not announce. If the distributors reach your row while you are off buying a coffee, you have missed it. This is the single most stressful part of camping, and it is why the two-person tent rule matters — one of you can go, the other holds the position.
+
+### Camping overnight
+
+Overnight queuing is the price of a Centre Court ticket in the first week, and the rules are tight:
+
+- **Two-person tents only.** No larger tents, and no gazebos at all.
+- **One person must be present in the tent at all times.**
+- **No barbecues, camping stoves or fires** anywhere in the Queue or Wimbledon Park.
+- **No smoking or vaping** in the Queue — this is a flat ban, not a designated-area arrangement.
+- **No loud music at any time**, and no music or ball games after 10pm.
+- **Unattended items will be removed and may be destroyed by the police.**
+- **Takeaway deliveries** must be collected at the **Wimbledon Park Road gate only**, and must arrive **before 10pm**. Nothing after that, and nothing at the Revelstoke Road gate.
+
+Wimbledon Park's pedestrian gates on **Revelstoke Road** and **Home Park Road** open 6.30am–10pm. The **Wimbledon Park Road** main entrance is open **24 hours**, which is the one to use if you are arriving late at night — and the one to come back to if you go out for food after 10pm and find the side gate shut.
+
+### What to actually bring
+
+The kit list is the same across every first-hand account, and three items come up that nobody thinks of:
+
+- **Earplugs.** You are in a thin tent inches from strangers. You will hear everything.
+- **An eye mask.** It is light by 4.30am in early July.
+- **Thermals or a warm layer.** Even in a heatwave, the second night gets genuinely cold on open grass.
+
+Beyond that: a pop-up two-person tent, sleeping bag, **inflatable mattress or foam mat** (the ground is hard), a picnic blanket or tarpaulin, a **power bank and cable** — the single most-cited essential — plus waterproofs, an umbrella for sun as much as rain, sun cream, a refillable bottle, snacks, a head torch, a microfibre towel and cards to pass the time.
+
+Plenty of people sleep without a tent, on a mat or under a picnic blanket. It is allowed, and one 2026 group did it in camping chairs. The consistent verdict from those who camped properly is that the no-tent crowd looked miserable by morning.
+
+If you arrive without kit, **Decathlon at Southside Shopping Centre**, 55–57 Garratt Lane, SW18 4TF, is the nearest proper camping shop — about 3km north, and directly on the N87 night bus route.
+
+### Leaving the Queue, in practice
+
+The 30-minute rule is real but not enforced with a stopwatch. What is enforced is presence: stewards walk the rows making a note of tents with nobody in them, and people have been ejected after missing several checks with no neighbour able to vouch for them. Queue cards are also checked at the entrance to Wimbledon Park from 10pm, so you need yours to get back in.
+
+In practice, groups send one person out and leave the other holding the tent, which is exactly what the "one person present at all times" rule contemplates. A 90-minute run to Southfields for food, with the neighbours knowing where you are, is a normal part of queue life. Disappearing for four hours is not.
+
+**Southfields high street** is the standard supply run — a Sainsbury's Local, a Tesco Express, a Greggs, a Gail's and several coffee shops, all a few minutes from the station. Phoning a local takeaway and collecting is widely reckoned better than the on-site vans. Remember that **deliveries can only be collected at the Wimbledon Park Road gate, and only before 10pm**.
+
+Alcohol in the Queue is not banned — the Code of Conduct prohibits *excessive* consumption and drunken behaviour, not drinking. The strict two-can limit applies to entering the Grounds, not to the field the night before.
+
+### Facilities: toilets, luggage, and the shower question
+
+Wimbledon Park has **toilets, baby change, drinking water refill points, phone charging, food and hot drink outlets, a Wimbledon Shop, a bike hub with hire bikes, and first aid**. Once you cross into AELTC Wimbledon Park there is **free Wi-Fi** and more water taps.
+
+**Toilets** were the Queue's weak point for years. For 2026 the AELTC installed **108 mains-connected toilets** on a new sewer, replacing the portaloos that generated years of complaints. Local residents had asked for 200 and still described the provision as inadequate during the first week, so temper your expectations — but it is a real improvement, and 2023-era horror stories about non-flushing toilets no longer describe the site. Bring your own tissue for the first Sunday; it reliably runs out.
+
+> ⚠️ **There are no showers in the Queue.** The official facilities list has no shower provision of any kind. One queuer's summary of two nights camping: "deliriously happy even if I haven't washed for days — there is no shower."
+
+**But there is a good answer to this, and almost nobody writes it down.** **The Gym Group Southfields**, at 231 Wimbledon Park Road, SW18 5RJ, is **open 24 hours, seven days a week**, has showers and lockers, sells a **£12.99 one-day pass** (£20.99 for three days), and is on the same road as the Queue entrance — around **eight minutes' walk**, and barely 50 metres from Southfields station. For an overnight or two-night camp, that is the difference between a good day and a grim one.
+
+The alternatives are worse: **Wimbledon Leisure Centre** on Latimer Road is £4.40 for a swim or £10.20 for the gym, but it does not open until **8am at weekends** — useless before a 7.30am wristband call — and it is over 2km away.
+
+**Left luggage** runs from three kiosks:
+
+| Location | Opens |
+| --- | --- |
+| Wimbledon Park (serving The Queue) | **5.30am** |
+| AELTC Wimbledon Park, opposite Gate 3 | 7.30am |
+| Somerset Road | 9am |
+
+All three close **one hour after the end of play**. Charges are **£1 per bag and £5 for larger items** such as overnight camping equipment, **cashless only**, with proceeds going towards improving facilities in Wimbledon Park. Bags must not exceed **60cm x 45cm x 25cm** — aircraft cabin size. Everything is searched before it is accepted, and unclaimed items are kept until the end of The Championships and then given to charity.
+
+> 💡 **The bag trap.** Left luggage takes bags up to 60 x 45 x 25cm, but the limit for bags you carry **into the Grounds** is smaller: **40cm x 30cm x 30cm**. And camping chairs, cool boxes, picnic hampers, hard-sided containers and flasks over 500ml are all banned inside the Grounds. If you queued with a folding chair, it is going into left luggage — budget the £5 and the time.
+
+### Getting to the Queue
+
+The Queue starts in Wimbledon Park. The AELTC calls it a five-minute walk from **Southfields station**; everyone who has done it carrying camping gear says **eight to ten minutes**. The main entrance is on **Wimbledon Park Road at the Woodspring Road junction**, by Car Park 10, and it is the only gate open around the clock. Southfields is also the closest station to the Grounds themselves, about 15 minutes on foot.
+
+| Station | Walk to the Grounds |
+| --- | --- |
+| **Southfields** (District) | **15 minutes** — the default |
+| **Wimbledon** (District, South Western Railway, Trams) | 20 minutes, or take the shuttle |
+| **Wimbledon Park** (District) | 25 minutes |
+
+A dedicated Championships shuttle bus runs from **Wimbledon station** to the Grounds at **£3.80 single, £5.90 return**, with return buses leaving from Gate 11a on Somerset Road. Taxi ranks sit at Southfields and Wimbledon stations, on Church Road opposite Gate 4, and on Somerset Road at Gate 12.
+
+If you are arriving from the north at Southfields, use **Gates 1 and 3**. From the south — Wimbledon station or Wimbledon Village — use **Gates 5, 7, 11a or 12**.
+
+Do not plan to drive. The Wimbledon Park car park **closes while the Queue is running**, official AELTC parking needs booking well in advance and sells out, and street parking around the Grounds is restricted through the fortnight in agreement with the Metropolitan Police.
+
+### Queueing with accessibility requirements
+
+There is a dedicated **Accessibility Waiting Area** at the north end of AELTC Wimbledon Park, reached via the gate at **Car Park 10** on Wimbledon Park Road, with a **buggy service** to the ticket sales tent if needed. Queue rules still apply — you wait for your queue card number to be called — and only **one carer or companion** may wait in the area with you.
+
+The AELTC is direct about the limits: stewards are not trained to deliver personal care, and the club cannot provide wheelchairs or mobility aids. If you are queueing overnight with access requirements, bring your own support.
+
+Blue Badge parking is free in **Car Park 6** on Church Road but must be booked in advance.
+
+---
+
+## Route 4: Ticket Resale, once you are inside
+
+![Spectators sitting on the grass of The Hill at Wimbledon watching the big screen on the side of No.1 Court in the evening](../../assets/articles/wimbledon-tickets-guide/wimbledon-the-hill-big-screen.jpg)
+
+This is the route most visitors never use, and it turns a £33 Grounds Pass into a Centre Court seat for £15.
+
+Show Court ticket holders scan out when they leave for the day, and wherever possible their seats are put back on sale. From **3pm**, those returned Centre Court, No.1 Court and No.2 Court seats become available through **Ticket Resale**, near No.1 Court in the Parkside area of the Grounds.
+
+| | |
+| --- | --- |
+| **Centre Court** | **£15** |
+| **No.1 Court** | **£10** |
+| **No.2 Court** | **£10** |
+| **Where the money goes** | All proceeds, net of VAT, to the **Wimbledon Foundation** |
+
+The queue for it is now **virtual, and run through the Wimbledon app** — a change introduced in 2024 that replaced the old physical scrum.
+
+**How it works, step by step:**
+
+1. **Register.** A steward scans your myWimbledon QR code and you fill in a short form. You can do this at the **Parkside kiosk between 10am and 9pm** — or, if you came through The Queue, **in the Queue Village before you even enter the Grounds**. Registration also closes early if the virtual queue fills.
+2. **Go and watch tennis.** You track your position in the app while you do.
+3. **Wait for the text.** When your turn comes you get an SMS, and the clock starts: roughly **20 minutes to accept in the app, then about 10 minutes to physically reach Parkside**. Miss the window and you lose it.
+4. **Buy.** Sales run from **3pm to 9pm**, or earlier if play on that court finishes.
+
+> 💡 **Register the moment you are through the gates — or before.** This is the single biggest missed opportunity at Wimbledon. Registration costs nothing, does not tie you to a spot, and the earlier you are in the virtual queue the better your odds. If you came through The Queue, the Queue Village sign-up is the earliest possible entry point and most guides never mention it exists.
+
+**Does it work?** Sometimes, and honestly, not always. One 2025 visitor queued from 5am for a £25 Grounds Pass on quarter-finals day, registered on entry, got the text mid-afternoon and watched Alcaraz on Centre Court — **£40 for the whole day**. Another party registered on two consecutive days and got in only very late each time. It is a lottery with good odds and a tiny stake, not a plan you can build a trip around.
+
+The scale is real, though: Ticket Resale raised **£195,000 for the Wimbledon Foundation in 2025**. That is a lot of returned seats.
+
+Two things before you count on it: resale tickets are **not eligible for a refund** if play is curtailed, and neither is any ticket bought after 5pm. And if you join the virtual queue and then decide you no longer want a seat, or you leave for the day, drop out so someone else moves up.
+
+---
+
+## Route 5: Hospitality, debentures and official packages
+
+If you want a guaranteed ticket on a chosen day and money is the flexible part, there are exactly three official channels — and a great many unofficial ones that are not.
+
+### Newmarket Holidays — the cheapest guaranteed ticket there is
+
+This is the route almost nobody writes about, and for most people it is the sensible one. **Newmarket Holidays** is the only travel operator the AELTC names on wimbledon.com, and it sells tennis-and-hotel packages with a **reserved No.1 Court seat** included. 2027 packages are on sale now on a **£150pp deposit**:
+
+| Package | From, per person |
+| --- | --- |
+| **Two days**, make your own way | **£348** |
+| Two days, including coach transfers and a tour manager | £365 |
+| **Three days**, make your own way | **£486** |
+| Three days, including coach transfers | £483 |
+| **Four days**, finals weekend, make your own way | **£660** |
+
+For an overseas visitor who wants certainty, that is an order of magnitude below hospitality and includes a bed.
+
+### Keith Prowse — official hospitality
+
+**Keith Prowse** has been the **exclusive Official Hospitality Partner** since 1982. The AELTC's position is unusually blunt: it has no affiliation with any other hospitality merchant, and it cannot authenticate tickets bought anywhere else. This is the only route that guarantees both a ticket and a court and date of your choosing.
+
+2027 packages are on general sale now and Keith Prowse says they are **over 75% sold out**. Prices are **per person and exclude VAT** — add 20% for the real number.
+
+| Package | What it is | From (ex VAT) |
+| --- | --- | --- |
+| **The Lawn** | Three courses by a Michelin-starred chef, live music | **£1,395** |
+| **The Treehouse** | Premium-informal, lively, live music | £1,445 |
+| **Rosewater Pavilion** | Four courses, live music, sports-star interaction | £2,575 |
+| **Centre Court Skyview Suites** | Four courses, private space, suite-to-seat access | £2,725 |
+| **Le Gavroche at The Lawn** | Five courses by Michel Roux, premium drinks | £2,795 |
+
+**Event Express** is the official accommodation partner, with negotiated rates at hotels near the Grounds — worth checking before you book independently, given how hard southwest London gets during the fortnight.
+
+### Debentures
+
+Debentures are the only Wimbledon tickets that can legally be sold on. Each one buys a premium seat for **five years** plus access to exclusive restaurants and bars, and the money funds improvements around the Grounds. They are FCA-regulated financial instruments issued under a prospectus, not a membership scheme.
+
+| | Centre Court | No.1 Court |
+| --- | --- | --- |
+| **Seats** | **2,520** | **1,250** |
+| **Current series** | 2026–2030 | 2027–2031 |
+| **Issue price** | **£116,000** | **£73,000** |
+| **Recent trades (2026)** | **£280,500–£296,000** | **£70,500–£73,000** |
+
+Centre Court debentures trade at roughly **2.4 times** their issue price; No.1 Court debentures are currently changing hands at around what they were issued for. The debenture itself is traded through a stockbroker or privately — **Dowgate Capital** runs a weekly auction — and the AELTC publishes live trading prices on its own site.
+
+### Buying a debenture ticket for a single day
+
+You do not need to own a debenture to sit in one of its seats. Debenture holders sell individual day tickets through specialist brokers, and this is entirely legal. It is also the most expensive way into Wimbledon that exists.
+
+Indicative 2027 Centre Court prices from an established broker, **sold as pairs**:
+
+| Day | Round | From, per pair |
+| --- | --- | --- |
+| Wed 30 June | Second round | **£5,910** |
+| Sun 4 July | Fourth round | £8,200 |
+| Wed 7 July | Quarter-finals | £10,040 |
+| Sat 10 July | **Ladies' Final** | £6,880 |
+| Fri 9 July | **Men's semi-finals** | £18,610 |
+| Sun 11 July | **Men's Final** | **£23,350** |
+
+> 💡 **Hold those numbers against the ballot.** The cheapest Centre Court debenture pair on that list works out at about **£2,955 a head** for a second-round day. The ballot price for a first-week Centre Court seat is **£115**. The debenture market is roughly **26 times face value** — which is what you are really paying for certainty.
+
+Because debenture tickets carry the word "debenture" printed where the price would normally be, they are the one thing on the resale market that is genuinely transferable. That is exactly why unofficial sites like to imply everything they sell is a debenture ticket. Check the ticket, not the claim.
+
+---
+
+## Coming from abroad
+
+The good news is that Wimbledon no longer runs a separate, harder overseas process. The bad news is that the timing catches international visitors out every year, because the decisive moment is **ten months before the tournament**.
+
+1. **Enter the Public Ballot.** The application period is explicitly the same "for all guests, including those from overseas". It is online, it is free, and it needs nothing more than a myWimbledon account and a permanent home address. Do it in September 2026 for the 2027 Championships.
+2. **The Queue works for visitors exactly as well as it does for locals.** Anyone can join it — no residency, membership or prior registration required — and it is the reason Wimbledon is worth building a trip around with no tickets in hand. A **£33 Grounds Pass plus a £15 Ticket Resale seat** is a genuinely realistic plan for Centre Court at £48 all-in.
+3. **If you want certainty, Newmarket Holidays is the cheap end of it** — a reserved No.1 Court seat plus a hotel from **£348pp**, against £1,395 plus VAT for the cheapest hospitality package.
+4. **Book accommodation before tickets.** Southwest London fills for the fortnight. Event Express holds negotiated rates; ordinary hotels in Wimbledon, Putney and Earlsfield sell out early and price accordingly.
+5. **Bring photo ID.** You are asked to bring photo identification on the day — a passport, driving licence or travelcard showing your address.
+6. **Know how refunds come back.** The AELTC refunds in **pounds sterling, to the original card only**. On a currency that has moved since you paid, a refund is not the same amount you spent.
+
+Do not assume your own national tennis federation has an allocation. The AELTC names exactly one external ballot operator — the **LTA**, as Britain's governing body — and there is no published, verifiable equivalent run by the USTA, Tennis Australia or Tennis Canada. If someone tells you their federation can get you Wimbledon tickets, ask them to show you the official page.
+
+> ⚠️ **The one thing to avoid.** International visitors are the main target for unauthorised sellers, because they are least likely to know the rules and least able to challenge a refusal at the gate. Only the AELTC and those it expressly authorises may sell tickets to The Championships. Anything else is void.
+
+---
+
+## What never works
+
+- **Resale platforms and ticket marketplaces.** Every Wimbledon ticket except a debenture ticket is strictly non-transferable. Advertising, promoting, offering for sale or transferring one voids it — and it is the ticket that gets cancelled, not the seller who gets punished. The AELTC can also cancel **every other ticket that holder has**, with no refund.
+- **Ticketmaster.** It is not a Wimbledon ticket seller at all, for any court, in any capacity. Neither is StubHub, Viagogo or any similar platform. Search results for "Wimbledon tickets" are dominated by paid ads from sites that cannot legally sell you one.
+- **Touts outside the station.** They will not get you in.
+- **Buying a ballot ticket from a successful applicant.** Ballot tickets are not transferable and are explicitly unsuitable as gifts. The named purchaser is expected at the gate with photo ID. LTA ballot tickets carry a harsher penalty still: resell one and the LTA's stated position is that your tickets are cancelled and you are banned from attending The Championships.
+- **Posting a photo of your ticket.** The AELTC asks people not to share ticket images on social media, because the details are used to defraud others and can leave you with problems at the gate.
+
+> ⚠️ **Be as sceptical of the guides as of the sellers.** Several sites currently publish precise-sounding Wimbledon ballot statistics — applicant numbers, success rates, "record demand" percentages — for ballots that have not yet opened. The AELTC has never published applicant numbers or odds. If you see a figure, it was invented.
+
+---
+
+## Qualifying: the £20 back door
+
+Held the week before The Championships at the **Community Sports Centre in Roehampton**, Qualifying decides the final 16 main-draw places in each singles event. It is proper professional tennis, it is close enough to touch, and it costs a fraction of the main event.
+
+| | |
+| --- | --- |
+| **Tickets** | **£20**, on sale from early June |
+| **After 4pm** | **£5** at the gate, with **under-16s free** |
+| **Children** | Under-5s free; over-5s need a ticket |
+| **Gates / play** | Gates 10am, play from 11am |
+| **Seating** | Unallocated — 18 match courts, plus 8 practice courts |
+| **Left luggage** | **None** — do not bring anything you cannot carry |
+
+Pre-purchased tickets are digital through the Wimbledon app; a small number of paper tickets are sold at the main entrance each day. The nearest station is **Barnes**, a 25-minute walk or a 10-minute taxi; alternatively take the Tube to **East Putney** and the 337 bus towards Richmond to Priory Lane. There is no parking at the venue.
+
+---
+
+## On the day: the practical rules
+
+**Timings.** The Grounds open at **10am** and close 45 minutes after the last match. Play begins at **11am** on the outside courts, **1pm** on No.1 Court and **1.30pm** on Centre Court. On the final weekend, No.1 Court starts at 11am and Centre Court at 1pm.
+
+**Bags.** Maximum **40cm x 30cm x 30cm**. Multi-pocketed backpacks take longer to search — bring something simple.
+
+**Food and drink.** Wimbledon is one of the few major events that lets you bring your own food. **Alcohol is allowed** up to one 750ml bottle of wine or Champagne, or two 500ml cans of beer, or two cans of premixed drinks per person. **No spirits or fortified wine.** No hard-sided containers, picnic hampers, cool boxes, camping chairs or flasks over 500ml.
+
+**Cameras.** No lenses over 300mm when extended, no tripods or monopods, and no flash photography from the stands.
+
+**Children.** Anyone aged five or over needs their own full-price ticket to sit on a Show Court. **Under-fives are not allowed on the Show Courts at all** — but The Hill and the Southern Village big screens are open to everyone, and there is a small family room in Wimbledon Park opposite Gate 3. Under-16s must be accompanied throughout.
+
+**Wi-Fi and charging.** Free Wi-Fi at the gates, on The Hill and along the east side including Parkside and the Tea Lawn. Charging stations sit next to the pharmacy in Parkside, under the big screen on The Hill, at the southeast corner of Centre Court, and in the Southern Village.
+
+**If it rains.** You are entitled to a **full refund if less than one hour** of play happens on your court, and **50% if between one and two hours**, calculated on the Referee's official figures rather than what you personally watched. For a Grounds Pass, play is averaged across all the courts it covers. **Resale tickets and anything bought after 5pm are excluded.** Separately, ordinary tickets can be returned for a refund up to 24 hours before the day of play — though on a ballot ticket, requesting that refund also removes you from the ballot for that year.
+
+---
+
+## Continue planning your London trip
+
+- 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
+- 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
+- 🌳 **[Best Parks and Gardens in London](/articles/best-parks-gardens-london/)**
+- ☔ **[London in the Rain](/articles/london-in-the-rain/)**
+- 💷 **[London on a Budget](/articles/london-on-a-budget/)**
+- 🗓️ **[Three Days in London](/articles/three-days-in-london-itinerary/)**
+
+---
+
+*Ballot rules, queue procedures, prices and facilities are as published by the All England Lawn Tennis Club, the LTA and the named operators, and checked in August 2026. Ticket prices shown are the 2026 Championships prices; 2027 prices are normally published in the spring. First train times are from Transport for London's own timetable. Queue card numbers and waiting times are from first-hand accounts of the 2023–2026 Championships plus our own — they are a guide to the shape of the Queue, not a promise, and they have got worse every year. AELTC ballot dates for 2027 had not been confirmed at the time of writing: check wimbledon.com and your myWimbledon inbox.*
