@@ -132,6 +132,20 @@ The floating Chinese pagoda appears in *The Gentlemen* and as a backdrop in *Slo
 
 ---
 
+## Horror and comedy
+
+### The Winchester — Duke of Albany, New Cross
+
+*Free · exterior only, and not a pub any more*
+
+The pub Shaun and Ed barricade themselves in for the finale of *Shaun of the Dead* (2004) was a real one: **the Duke of Albany**, on Monson Road in New Cross. It closed in 2008 and was converted into flats, so there is no pub to visit — just the building, recognisable from the film but now somebody's front door.
+
+![The former Duke of Albany pub building on Monson Road, New Cross, now converted into residential flats](../../assets/articles/london-filming-locations/the-winchester.jpg)
+
+*The building used as the Winchester, now flats. The corner windows and the roofline are the giveaway.*
+
+> ⚠️ **Do not turn up expecting a pint.** This is a residential building. Look from the street and move on.
+
 ## Batman and dystopia
 
 ### Gotham City Police Station — Farmiloe Building, Clerkenwell

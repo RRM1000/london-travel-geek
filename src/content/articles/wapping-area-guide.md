@@ -85,12 +85,17 @@ Wapping has its own share of the commemorative plaques marking where notable peo
 3. **Execution Dock** — On the foreshore near the Town of Ramsgate. Pirates were hanged here until 1830 with a shortened rope; Captain Kidd died here in 1701. There is no monument, only the replica noose along the river.
 4. **Wapping High Street** — Barely a street: a cobbled canyon of converted warehouses with their original hoist beams and bridges still in place.
 5. **St Katharine Docks** — Fifteen minutes west. A working marina beside the Tower, with yachts, a lock and a run of restaurants.
-6. **Brunel's Thames Tunnel** — The first tunnel ever built under a navigable river, completed 1843. It now carries Overground trains between Wapping and Rotherhithe. The **Brunel Museum** on the far side opens the original shaft.
-7. **Wapping Rose Garden and the Thames Path** — Small riverside gardens with clear views across to Rotherhithe and downstream to Canary Wharf.
+6. **Spirit Quay** — A terrace of gabled brick townhouses built around a still dock basin off East Smithfield, perfectly reflected in the water on a calm day. Residential rather than a sight with an entrance, but worth the two-minute detour from St Katharine Docks.
+7. **Brunel's Thames Tunnel** — The first tunnel ever built under a navigable river, completed 1843. It now carries Overground trains between Wapping and Rotherhithe. The **Brunel Museum** on the far side opens the original shaft.
+8. **Wapping Rose Garden and the Thames Path** — Small riverside gardens with clear views across to Rotherhithe and downstream to Canary Wharf.
 
 ![The white weatherboarded Prospect of Whitby pub seen from the Thames at low tide](../../assets/articles/wapping-area-guide/prospect-of-whitby.jpg)
 
 *The Prospect of Whitby, claiming a licence back to 1520. The terrace over the water is the reason to come. Photo: [Christine Matthews](https://commons.wikimedia.org/w/index.php?curid=174127501), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
+![A terrace of gabled brick townhouses at Spirit Quay reflected in the still water of a dock basin](../../assets/articles/wapping-area-guide/spirit-quay.jpg)
+
+*Spirit Quay, just off St Katharine Docks. No entrance and no ticket — just a quiet dock worth the short detour.*
 
 ## Key streets and micro-districts
 
@@ -102,6 +107,10 @@ East. The Prospect of Whitby, the old hydraulic pumping station and Shadwell Bas
 
 ### St Katharine Docks
 West, beside the Tower. The marina, the lock and the restaurants around it.
+
+![The Dickens Inn, a three-storey timber-framed pub with balconies over St Katharine Docks marina](../../assets/articles/wapping-area-guide/dickens-inn.jpg)
+
+*The Dickens Inn — an early-1700s warehouse moved bodily across the dock and opened as a pub in 1976 by Charles Dickens's great-grandson.*
 
 ### Shadwell Basin
 North-east. A surviving dock basin, now used for watersports, ringed by red-brick housing.

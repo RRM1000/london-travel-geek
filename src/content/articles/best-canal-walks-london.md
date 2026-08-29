@@ -161,6 +161,12 @@ A short spur west from Little Venice into **Paddington Basin**, which is entirel
 
 *Merchant Square at Paddington Basin. The steps are a good place to sit and the water is busier with boats than it looks.*
 
+**Darcie & May Green**, a pair of narrowboats designed by the pop artist Sir Peter Blake, are moored right outside the station — Darcie does all-day dining, May Green does coffee and cocktails from a rooftop terrace.
+
+![The brightly painted narrowboats of Darcie and May Green moored at Paddington Basin, with a rooftop terrace of diners above](../../assets/articles/best-canal-walks-london/darcie-and-may-green.jpg)
+
+*May Green's rooftop terrace, moored outside Paddington station. Sir Peter Blake, who designed the Sgt. Pepper's cover, painted both boats.*
+
 Keep going west and the **Grand Union Canal** runs all the way out through Kensal Green, Wormwood Scrubs and Alperton, eventually reaching Birmingham. The London stretches are quiet, green and almost entirely unvisited.
 
 See our [Paddington guide](/articles/paddington-area-guide/).
