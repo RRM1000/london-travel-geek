@@ -21,7 +21,7 @@ faq:
   - q: "Can people from outside the UK enter the Wimbledon ballot?"
     a: "Yes. There is no separate overseas ballot any more. The application period is the same for all guests including those from overseas, and you enter online through a myWimbledon account from anywhere in the world. The only real constraint is that it is one application per household and per email address, and you must apply from your permanent home address."
   - q: "What is the LTA Wimbledon ballot and can I enter it as well?"
-    a: "Only if you are an LTA member — this one is not open to the general public, unlike the AELTC Public Ballot. You need a Fan+ (£25 a year), Play+ (free, for members of an LTA-registered venue) or Compete (£35 a year) LTA Advantage membership, and you must opt in during the window; for 2027 that closes at 23:59 on Monday 31 August 2026. The two ballots are drawn separately and neither knows about the other, so entering both genuinely doubles your routes in, and LTA winners choose their day and court rather than being allocated one at random. Just be aware that neither organisation publishes its odds, and if both draws miss you do not get the £25 back."
+    a: "Yes, if you join the LTA first — and anyone aged 18 or over can. It is a separate ballot run by the LTA that requires an LTA Advantage membership, but you do not need to play tennis or belong to a club: Fan+ costs £25 a year and is open to any adult who signs up online. Play+ carries the same entry free if you are a member of an LTA-registered venue, and Compete is £35. You must opt in during the window; for 2027 that closes at 23:59 on Monday 31 August 2026. The two ballots are drawn separately and neither knows about the other, so entering both genuinely doubles your routes in, and LTA winners choose their day and court rather than being allocated one at random. Just be aware that neither organisation publishes its odds, and if both draws miss you do not get the £25 back."
   - q: "How long do you have to wait in the Wimbledon queue?"
     a: "Plan for most of the morning. Arriving at around 6.30am on a first-week day, it took us roughly six hours to get from joining the Queue to being inside the Grounds — so a little after midday. The gates open at 10am, but entry runs strictly in queue card number order and the Grounds fill at a controlled rate, so 'gates open' is not the same as 'you get in'. The second week is quicker."
   - q: "What time does the first Tube get to Southfields for the Wimbledon queue?"
@@ -52,7 +52,7 @@ The 2026 Championships drew a record **550,151 people** through the gates, and t
 
 **The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.** Both advance ballots for those tickets are decided over the next few weeks — one closes on **31 August 2026**, the other opens days later — which makes right now the most important window in the Wimbledon year.
 
-> 💡 **The Short Version:** **The AELTC Public Ballot is the only ballot open to the general public.** It is free, open to anyone in the world, and opens in **early September** — enter it. There is a second draw, the **LTA Advantage ballot**, but it is for **members only**: you need an LTA Advantage membership (from **£25 a year**, or free if you belong to an LTA-registered tennis club), and its opt-in **closes at 23:59 on Monday 31 August 2026**. If you miss both, **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £21**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
+> 💡 **The Short Version:** Enter the **AELTC Public Ballot** — it is free, open to anyone in the world, needs nothing but an email address, and opens in **early September**. There is also a **second, separate draw** run by the LTA, and you can enter both. It needs an LTA Advantage membership, but **anyone aged 18 or over can join online for £25 a year** — you do not have to play tennis or belong to a club, and it is free if you are already a member of an LTA-registered club. Its opt-in **closes at 23:59 on Monday 31 August 2026**. If you miss both, **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £21**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
 
 ---
 
@@ -60,7 +60,7 @@ The 2026 Championships drew a record **550,151 people** through the gates, and t
 
 | What | When | Notes |
 | --- | --- | --- |
-| **LTA ballot opt-in closes** | **23:59, Mon 31 August 2026** | Members only — opened 23 July, and needs an LTA Advantage Fan+, Play+ or Compete membership |
+| **LTA ballot opt-in closes** | **23:59, Mon 31 August 2026** | Opened 23 July. Needs LTA Advantage membership — **£25 a year, open to any adult**, or free via a club |
 | **Public Ballot opens** | **Early September 2026** (expected) | The 2026 ballot opened Tue 2 Sept 2025. AELTC emailed members on 27 Aug 2026 to say it "opens soon" |
 | **Public Ballot closes** | Roughly three weeks later | The 2026 ballot closed at **23:59 BST** on Sun 21 Sept 2025 — a hard deadline |
 | **LTA ballot draws** | September to November 2026 | Winners contacted through the balloting period |
@@ -145,28 +145,32 @@ Access arrives by email and is tied to your unsuccessful application — there i
 
 ---
 
-## Route 2: The LTA ballot — members only, and widely missed
+## Route 2: The LTA ballot — a second draw almost nobody enters
 
-> ⚠️ **This one is not open to the general public.** Unlike the AELTC ballot above, you cannot enter the LTA ballot as a member of the public — you have to hold an **LTA Advantage membership** first. If that rules you out, skip to [The Queue](#route-3-the-queue).
+This is the most overlooked route into Wimbledon, it is entirely separate from the AELTC's Public Ballot, and **you can enter both**.
 
-For those who are eligible it is the most overlooked route into Wimbledon, it is entirely separate from the AELTC's Public Ballot, and **you can enter both**.
+The Lawn Tennis Association, British tennis's governing body, runs its own centralised random ballot, plus separate ballots for accredited coaches, venue volunteers and licensed officials. You opt in through your online Advantage area during a fixed window.
 
-The Lawn Tennis Association, British tennis's governing body, runs its own centralised random ballot for **LTA Advantage members**, plus separate ballots for accredited coaches, venue volunteers and licensed officials. You opt in through your online Advantage area during a fixed window.
+The one condition is that you have to be an **LTA Advantage member** to enter — and that is a much lower bar than it sounds.
+
+> 💡 **Anyone can join. You do not have to play tennis.** There is no club to get into, no qualification to meet, no waiting list and no connection to the sport required. **Any adult aged 18 or over can sign up for LTA Advantage Fan+ online for £25 a year and enter the ballot** — it takes a few minutes. Membership is the gate, but the gate is open to everybody.
 
 > ⚠️ **The 2027 opt-in window closes at 23:59 on Monday 31 August 2026.** It opened on 23 July. If you are reading this in the last days of August, this is the deadline to act on first — the AELTC's own ballot has not even opened yet.
 
 ### What membership you need
 
-The Wimbledon ballot is open to **Fan+, Play+ and Compete** Advantage members aged **13 and over**.
+Three tiers carry the Wimbledon ballot — **Fan+, Play+ and Compete** — and the ballot is open to members aged **13 and over**.
 
-| Membership | Cost | Who it is for |
+| Membership | Cost | Who can join |
 | --- | --- | --- |
+| **Fan+** | **£25 a year** | **Anyone aged 18 or over.** The LTA's own eligibility line is simply "adults who love tennis or padel" — no club, no venue, nothing to prove |
 | **Play+** | **Free** | Members of a qualifying LTA-registered venue — a club, in other words |
-| **Fan+** | **£25 a year** | Anyone aged 18+. The straightforward paid route in |
-| **Compete** | **£35 a year** | People who play in regular competitions |
+| **Compete** | **£35 a year** | Anyone who plays in regular tennis or padel competitions |
 | **Compete (Junior)** | £20 a year | Ages 4–18 |
 
-Plain **Fan** and plain **Play** memberships are free but do **not** include the ballot. If you already belong to a tennis club, check whether it is LTA-registered — **Play+ is free and includes the ballot**, which makes it the cheapest advance route into Wimbledon that exists.
+**Fan+ at £25 is the route in for most people**, and it genuinely is open to anyone over 18 who wants to pay for it. You sign up online in a few minutes and you are in the draw.
+
+Watch two traps. Plain **Fan** and plain **Play** memberships are free but do **not** include the ballot — it is specifically the **plus** tiers that do, and it is easy to sign up for the wrong one. And if you already belong to a tennis club, check whether it is LTA-registered before paying: **Play+ carries the same ballot entry for free**, which makes it the cheapest advance route into Wimbledon that exists.
 
 ### How it differs from the Public Ballot
 
@@ -175,7 +179,7 @@ The LTA ballot is not just a second lottery ticket. It works differently in one 
 | | AELTC Public Ballot | LTA Advantage ballot |
 | --- | --- | --- |
 | **Cost to enter** | Free | **£25 a year** for Fan+, or free with Play+ if you belong to a club |
-| **Open to** | **Anyone, anywhere** | **LTA Advantage members only** |
+| **Open to** | **Anyone, anywhere** | Members — but **any adult can join for £25** |
 | **Choose day and court?** | **No** — allocated at random | **Yes** — you choose before purchase, subject to availability |
 | **What you win** | The right to buy up to two tickets | The right to buy **one pair** of tickets |
 | **Minimum age** | 16 | 13 |
