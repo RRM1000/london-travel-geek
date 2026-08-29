@@ -96,6 +96,8 @@ Bloomsbury has its own share of the commemorative plaques marking where notable 
 
 *Norman Foster's roof over the Great Court, opened in 2000. No two panes of glass in it are the same shape. Photo: [rbrwr](https://www.flickr.com/photos/38411862@N00/467099756), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bloomsbury-area-guide-british-museum" data-gyg-partner-id="WWP7I0R" data-gyg-q="British Museum guided tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Key streets and micro-districts
 
 ### Great Russell Street and the museum precinct

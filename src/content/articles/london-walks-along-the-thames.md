@@ -182,6 +182,10 @@ Walk east from there to the **Woolwich Ferry**, which is free, takes vehicles an
 * **The Greenwich Foot Tunnel is free**, open 24 hours to pedestrians, and the most interesting way to cross the river in east London — though the lifts keep shorter hours than the tunnel.
 * **Tide times matter** on the foreshore sections. The river comes in fast, and the stairs down to the beach at Wapping and Bankside are only usable at low water.
 
+Prefer to see the river from the water instead of the towpath one day.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-thames-walks-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## What to know

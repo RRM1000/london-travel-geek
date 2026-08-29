@@ -127,6 +127,8 @@ Peckham eats well and cheaply. This is a selection — see the [full restaurant 
 | **Guacamoles** | Birria tacos | £ | Tortillas pressed to order and dipped in birria juice, in Rye Lane Market |
 | **Old Spike** | Coffee | £ | A roastery that trains and employs people who have experienced homelessness |
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="peckham-food" data-gyg-partner-id="WWP7I0R" data-gyg-q="South London food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Suggested two-hour walking route
 
 1. **Start:** Peckham Rye station. North up Rye Lane.

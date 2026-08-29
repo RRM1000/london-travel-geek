@@ -91,6 +91,7 @@ Hampstead has its own share of the commemorative plaques marking where notable p
 6. **The Spaniards Inn** — A 1585 coaching inn on the Heath's northern edge, associated with Dick Turpin and mentioned in *Dracula*. Big garden.
 7. **Keats House** — The Hampstead villa where Keats wrote *Ode to a Nightingale*. Small, ticketed and quiet.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-area-guide-top-sights" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampstead Heath walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ![The brick and stone Hill Garden Pergola on Hampstead Heath, with planting along its raised walkway](../../assets/articles/hampstead-area-guide/hill-garden-pergola.jpg)
 

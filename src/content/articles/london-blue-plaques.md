@@ -102,6 +102,8 @@ Fleming was born and grew up on this street. The plaque marks the creator of Jam
 
 Tennyson stayed here during his decades as Poet Laureate, when *The Charge of the Light Brigade* and *In Memoriam* were written.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-blue-plaques-belgravia-walk" data-gyg-partner-id="WWP7I0R" data-gyg-q="London blue plaque tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## Bloomsbury

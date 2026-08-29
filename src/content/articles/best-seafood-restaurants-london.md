@@ -103,6 +103,8 @@ Oyster stalls under the railway arches at weekend prices, eaten standing up.
 
 A converted butcher's shop with marble counters and disco — champagne and shellfish in the middle of Soho, and no bookings.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-seafood-restaurants-london-oysters" data-gyg-partner-id="WWP7I0R" data-gyg-q="London oyster tasting tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## The old oyster houses

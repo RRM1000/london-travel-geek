@@ -298,6 +298,8 @@ Falafel is where this cuisine is cheapest and best, and all of these are entirel
 
 **Green Lanes** in Harringay is a different thing entirely: **Turkish and Turkish-Kurdish**, not Arab. **Gökyüzü**, **Antepliler** for Gaziantep kebabs and baklava, and **Yaşar Halim** for the bakery-supermarket. Do not go looking for Lebanese mezze there.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-middle-eastern-restaurants-london-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Middle Eastern food tour London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## What to know

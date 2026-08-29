@@ -200,6 +200,8 @@ This is not a cheap night out, and the pricing is deliberately opaque — most v
 * **Prices are per head for the game**, with drinks on top — budget roughly double the headline figure for an evening.
 * **Groups of eight or more** usually need to book by phone rather than online.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="competitive-socialising-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="London escape room"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## Continue planning your London trip

@@ -92,6 +92,8 @@ Mayfair has its own share of the commemorative plaques marking where notable peo
 
 *Burlington Arcade, open since 1819 and still patrolled by beadles who can stop you whistling or running in it. Photo: [Reading Tom](https://www.flickr.com/photos/16801915@N06/3282398164), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="mayfair-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Mayfair walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Key streets and micro-districts
 
 ### Bond Street

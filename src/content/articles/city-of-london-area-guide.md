@@ -119,6 +119,8 @@ The north-west edge. Smithfield meat market, St Bartholomew the Great, and the B
 
 *Leadenhall Market, rebuilt in 1881 on a site that has traded since the Roman forum stood here. It played Diagon Alley in the first Harry Potter film. Photo: [Loco Steve](https://www.flickr.com/photos/36989019@N08/7060927125), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |

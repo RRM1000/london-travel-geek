@@ -92,6 +92,8 @@ Rain is the correct excuse for a proper meal.
 * **A Wetherspoons in an extraordinary building** — The Crosse Keys is a 1913 banking hall and a pint costs less than the museum café.
 * **Sunday roast** — the single best wet-afternoon plan in Britain.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-in-the-rain-long-lunch" data-gyg-partner-id="WWP7I0R" data-gyg-q="London afternoon tea"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## Cinema

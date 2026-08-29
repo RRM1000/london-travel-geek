@@ -288,6 +288,8 @@ If you want a defensible answer to "which is oldest": **The Seven Stars** has th
 * **The Grapes is very small.** Go early or midweek.
 * **Wetherspoons rules apply** at The Crosse Keys, Hamilton Hall and The Ledger Building — order at the bar or by app, no music, no table service.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-pubs-dining-rooms-london-what-to-know" data-gyg-partner-id="WWP7I0R" data-gyg-q="London historic pub tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## Continue planning your London trip

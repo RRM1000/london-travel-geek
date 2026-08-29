@@ -97,6 +97,8 @@ Stratford has its own share of the commemorative plaques marking where notable p
 ### The Olympic Park (south)
 The Orbit, the London Stadium, the Aquatics Centre and East Bank, around the main waterways.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stratford-guide-orbit-slide" data-gyg-partner-id="WWP7I0R" data-gyg-q="ArcelorMittal Orbit tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### The Olympic Park (north)
 Quieter parkland, the VeloPark, the Copper Box and the wilder river landscaping.
 

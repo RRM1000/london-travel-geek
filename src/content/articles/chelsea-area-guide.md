@@ -94,6 +94,8 @@ Chelsea has its own share of the commemorative plaques marking where notable peo
 
 *The Saatchi Gallery in the old Duke of York's HQ. Free to enter, and the rooms are as much of the draw as what is hung in them. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/31367858771), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Chelsea walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Key streets and micro-districts
 
 ### Sloane Square and the eastern King's Road

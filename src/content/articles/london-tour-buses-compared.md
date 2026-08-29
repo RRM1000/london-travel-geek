@@ -55,6 +55,8 @@ Prices as published by the operators in August 2026. The gap between the online 
 
 > ⚠️ **Never buy from a seller at a bus stop.** Every operator discounts heavily online and charges near full price at the kerb. On a Golden Tours day ticket that difference is **£17.22**; on Tootbus it is **£8.80**. Street sellers are commission-paid, and the price they quote is the one you should not pay.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tour-buses-hop-on-hop-off" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## Big Bus: three routes, around 55 stops

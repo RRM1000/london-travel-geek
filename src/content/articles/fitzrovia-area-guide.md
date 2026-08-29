@@ -166,6 +166,8 @@ The point of Fitzrovia. This is a small selection — see the [full restaurant l
 
 **Seventeen different cuisines sit within a ten-minute walk here** — West African, Thai, Japanese, Mexican, Greek, Spanish, Chinese, Italian, Indian, Turkish, French and more. No other central district comes close to that range in the same space.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Suggested two-hour walking route
 
 1. **Start:** Goodge Street station. South down Charlotte Street.

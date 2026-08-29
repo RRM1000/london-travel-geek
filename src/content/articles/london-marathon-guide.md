@@ -306,6 +306,8 @@ The organisers themselves split the route into places that will be heaving and p
 
 **Tower Bridge is the iconic spot and it is worth it once** — but arrive early, and use London Bridge rather than Tower Hill or Tower Gateway.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-marathon-guide-greenwich" data-gyg-partner-id="WWP7I0R" data-gyg-q="Greenwich walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### The best place to watch: the Isle of Dogs
 
 ![The elite women's lead pack running past spectators and a brass band on Westferry Road, Isle of Dogs, with the Canary Wharf towers behind](../../assets/articles/london-marathon-guide/london-marathon-isle-of-dogs.jpg)

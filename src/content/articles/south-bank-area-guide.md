@@ -123,6 +123,8 @@ Behind Waterloo station. Lower Marsh is a genuine local street of independent ca
 
 *Under the Millennium Bridge on the south bank. It swayed so badly on opening that it shut for two years. Photo: [SLR Jester](https://www.flickr.com/photos/16549191@N00/325850961), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-guide-london-eye" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |

@@ -106,6 +106,8 @@ East. The park, the towpath and the run of canal-side pubs along the Hertford Un
 ### Hackney Wick
 Further east on the canal. Warehouse studios, breweries and the footbridges over to the Olympic Park.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hackney-area-guide-hackney-wick" data-gyg-partner-id="WWP7I0R" data-gyg-q="East London street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### Clapton and the marshes
 North. Hackney Marshes — famous for its Sunday football pitches — and the River Lea navigation.
 

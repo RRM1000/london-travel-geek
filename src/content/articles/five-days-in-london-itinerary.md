@@ -72,6 +72,8 @@ Boats run from **Westminster, Embankment and Tower** piers and take **around an 
 
 See our [Greenwich guide](/articles/greenwich-area-guide/) for the detail.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="five-days-itinerary-greenwich" data-gyg-partner-id="WWP7I0R" data-gyg-q="Greenwich highlights tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### Getting back
 
 **Walk under the river.** The **Greenwich Foot Tunnel** beside the Cutty Sark is free, open at all hours, and comes up at Island Gardens with the best view back at Greenwich there is. From there the DLR runs north through the docks on a viaduct — sit at the front, there is no driver.

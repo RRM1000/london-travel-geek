@@ -140,6 +140,8 @@ Behind the hill. Pembroke Lodge, the Isabella Plantation and the Pen Ponds are t
 
 **By river.** Boats run upstream to Hampton Court in summer, and downstream towards Kew and Westminster — slow but scenic.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="richmond-river" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampton Court river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ![The ten-storey Great Pagoda at Kew Gardens against a blue sky](../../assets/articles/richmond-area-guide/kew-pagoda.jpg)
 
 *Kew's Great Pagoda, built in 1762. The eighty dragons on its roofs were restored and put back in 2018. Photo: [Atlaj123](https://commons.wikimedia.org/w/index.php?curid=72795184), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

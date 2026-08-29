@@ -101,6 +101,8 @@ Shoreditch has its own share of the commemorative plaques marking where notable 
 
 *Shoreditch changes month to month. Nothing here is permanent, which is the reason to walk it more than once. Photo: [Loco Steve](https://www.flickr.com/photos/36989019@N08/39711836800), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-street-art" data-gyg-partner-id="WWP7I0R" data-gyg-q="Shoreditch street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Key streets and micro-districts
 
 ![A large boot mural painted on a building in Shoreditch](../../assets/articles/shoreditch-area-guide/shoreditch-street-art.jpg)

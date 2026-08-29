@@ -199,6 +199,8 @@ A long-running central club that trades on convenience and a reliable weekend bi
 
 In a brick cellar bar near Waterloo, with late shows at weekends. The room is a large part of the appeal.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Comedy Shows" data-gyg-partner-id="WWP7I0R" data-gyg-q="London comedy show tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## What to know

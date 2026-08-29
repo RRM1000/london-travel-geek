@@ -231,6 +231,8 @@ Sunday roast is one of the few London meals where price maps fairly closely onto
 * **Vegetarian roasts are now standard**, but they vary enormously — a good one is a proper dish rather than a nut roast apology. Ask before booking if it matters.
 * **Sunday is not the day to be spontaneous.** The best roasts in London are all booked out by Friday.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sunday-roast-london-what-to-know" data-gyg-partner-id="WWP7I0R" data-gyg-q="London gastropub tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## Continue planning your London trip

@@ -213,6 +213,8 @@ Ice cream is cheap by definition, but the range in London is wider than people e
 * **Buy a tub, not a cone.** Almost every parlour here sells takeaway tubs at a much better rate per scoop, and most will pack them with dry ice if you ask.
 * **Avoid delivery apps.** They mark ice cream up substantially over the counter price, and it arrives in worse condition than anything else you can order.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Ice Cream Dessert Tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London dessert tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## What to know

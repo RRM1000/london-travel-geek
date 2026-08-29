@@ -89,6 +89,8 @@ Islington has its own share of the commemorative plaques marking where notable p
 3. **The Almeida Theatre** — 325 seats in a converted Victorian literary institute, with a reputation far larger than its size. Book well ahead.
 4. **Union Chapel** — A working Congregational church and a music venue, with gigs held in the Gothic octagon and the audience seated in the original pews.
 5. **Sadler's Wells** — Britain's leading dance house, at the southern end near Angel. Contemporary dance, flamenco, hip hop and ballet.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="islington-area-guide-top-sights" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sadler's Wells dance show"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 6. **Chapel Market** — A traditional London street market off Liverpool Road, running most days. Fruit and veg, household goods and no pretensions.
 7. **The Regent's Canal and Islington Tunnel** — The canal vanishes into a 960-metre tunnel at City Road Basin. There is no towpath; a signed street route crosses over the top.
 

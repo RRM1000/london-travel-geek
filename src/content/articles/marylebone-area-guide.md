@@ -118,6 +118,8 @@ The Wallace Collection, in a garden square two minutes east of the high street.
 ### Baker Street and Marylebone Road
 North. The Sherlock Holmes Museum, Madame Tussauds and the traffic. The least pleasant part.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="marylebone-sherlock-holmes" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sherlock Holmes Museum London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### Chiltern Street
 Red-brick Victorian gothic, bridal shops, instrument dealers and the Chiltern Firehouse in an old fire station.
 

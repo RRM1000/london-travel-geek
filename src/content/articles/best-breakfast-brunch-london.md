@@ -322,6 +322,8 @@ The group's third site — there are two others, so check which one a listing me
 * **Maltby Street Market**, weekends — **St John Bakery Room** does the Old Spot bacon sandwich that people cross London for.
 * **Old Spitalfields** and **Seven Dials Market** both have breakfast counters open before the shops around them.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-breakfast-brunch-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="London breakfast food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## What to know

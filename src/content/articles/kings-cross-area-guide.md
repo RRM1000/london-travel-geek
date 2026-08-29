@@ -93,6 +93,8 @@ King's Cross has its own share of the commemorative plaques marking where notabl
 6. **St Pancras station** — George Gilbert Scott's Gothic hotel frontage and Barlow's iron trainshed, saved from demolition by John Betjeman, whose statue stands on the upper concourse.
 7. **Camley Street Natural Park** — Two acres of wetland between the canal and the railway. Free, and genuinely a surprise.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-area-guide-top-sights" data-gyg-partner-id="WWP7I0R" data-gyg-q="King's Cross walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Key streets and micro-districts
 
 ![The red-brick facade of St Pancras station](../../assets/articles/kings-cross-area-guide/st-pancras-station.jpg)

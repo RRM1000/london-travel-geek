@@ -278,6 +278,8 @@ One of the largest Chinese restaurants in Britain at around five hundred covers,
 
 A glass-walled dumpling kitchen on Gerrard Street where you watch the **xiao long bao** being folded. Open since 2010 and still the most watchable thing on the street.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-chinese-east-asian-restaurants-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Chinatown food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## Best value

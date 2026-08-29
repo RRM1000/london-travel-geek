@@ -124,6 +124,8 @@ The **sit-down sibling to José** — same chef, tables instead of stools, and y
 
 *Spanish-Italian small plates, and the courgette flower stuffed with goat's cheese has been on since it opened. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4094273174), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-spanish-restaurants-london-tapas" data-gyg-partner-id="WWP7I0R" data-gyg-q="London tapas tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## The new wave

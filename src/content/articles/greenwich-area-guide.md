@@ -98,6 +98,8 @@ Greenwich has its own share of the commemorative plaques marking where notable p
 
 *The National Maritime Museum, with the giant anchors outside its entrance.*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-top-sights" data-gyg-partner-id="WWP7I0R" data-gyg-q="Greenwich highlights tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Greenwich and North Greenwich Are Not the Same Place
 
 This is the single most common Greenwich mistake, so it is worth stating plainly.

@@ -137,6 +137,8 @@ North–south restaurant streets, plus Ronnie Scott's and the Soho private membe
 | **Bar Italia** | Coffee | £ | Frith Street, open since 1949 and nearly around the clock |
 | **The French House** | Historic pub | £ | Dean Street; beer served in halves by tradition |
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="soho-guide-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Soho food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Getting there
 
 **By Tube.** Four stations sit on Soho's edges. **Tottenham Court Road** (Elizabeth line, Central, Northern) is best for the east side and Chinatown. **Oxford Circus** is best for Carnaby Street. **Piccadilly Circus** is closest to Chinatown's southern gate.

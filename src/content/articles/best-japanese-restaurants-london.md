@@ -94,6 +94,8 @@ Repeatedly named **the best-value serious omakase in central London** — the sa
 
 Chris Restrepo runs Japanese technique through his Thai-Colombian background across eighteen courses. The most interesting counter outside the centre.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Sushi Making Class" data-gyg-partner-id="WWP7I0R" data-gyg-q="sushi making class London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## Kaiseki and fine dining

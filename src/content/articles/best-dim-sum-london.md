@@ -166,6 +166,8 @@ An unexpectedly large **basement dining room behind Paddington station**, routin
 
 *Hidden in a Paddington basement behind the station, and much better than its location suggests. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3676852528), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Chinatown Food Tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Chinatown food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## For an evening

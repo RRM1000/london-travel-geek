@@ -141,6 +141,8 @@ Michelin-starred simplicity on the Thames. **The terrace tables book furthest ah
 
 Afternoon tea inside an art installation. The Gallery is the photographed one; the Lecture Room upstairs is the three-star restaurant.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="special-occasion-restaurants-afternoon-tea" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sketch afternoon tea"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### Bob Bob Ricard, Soho
 
 *££££ · Press for Champagne*

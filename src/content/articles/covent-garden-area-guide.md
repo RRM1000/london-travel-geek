@@ -141,6 +141,8 @@ A single small courtyard off Short's Gardens. Painted buildings, cafe tables and
 ### Floral Street and Long Acre
 The main east–west shopping streets, with the bridge linking the Royal Opera House buildings over Floral Street.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Covent Garden walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### Bow Street and Drury Lane
 
 ![The colonnaded front of the Lyceum Theatre on Wellington Street, with The Lion King billboards and a rank of hire bikes outside](../../assets/articles/covent-garden-area-guide/lyceum-theatre-wellington-street.jpg)

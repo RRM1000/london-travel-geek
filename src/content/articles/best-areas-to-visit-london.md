@@ -50,6 +50,8 @@ If this is your first trip and you have three or four days, these six will fill 
 | 🏙️ **[City of London](/articles/city-of-london-area-guide/)** | Roman street plan under glass towers | St Paul's & the Tower | History, architecture, free views | St Paul's / Bank / Tower Hill |
 | 🦕 **[South Kensington](/articles/south-kensington-area-guide/)** | Grand Victorian museum quarter | Natural History Museum & V&A | Families, free museums, wet weather | South Kensington |
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-visit-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="London walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## For a longer trip

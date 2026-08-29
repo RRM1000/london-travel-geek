@@ -154,6 +154,10 @@ Every plaque in this guide is on a public street and free to look at.
 
 Nearly all are on private homes, but four addresses are open to the public as museums: **Handel Hendrix House** in Mayfair, the **Charles Dickens Museum** in Bloomsbury, **Keats House** in Hampstead and the **Freud Museum**.
 
+Prefer a guide who already knows which plaques are worth the detour and which are a dead end.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-plaques-guide-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London historical walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## About these numbers

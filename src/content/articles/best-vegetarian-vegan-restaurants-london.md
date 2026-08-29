@@ -314,6 +314,8 @@ A glasshouse restaurant in a Richmond plant nursery with a Michelin Green Star f
 * **Book Plates months ahead**, and Tofu Vegan a few weeks. Everything else here is walk-in or a few days out.
 * **Service charge** of 12.5% is discretionary and standard, though counters and market stalls generally do not add it.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-vegetarian-vegan-restaurants-london-what-to-know" data-gyg-partner-id="WWP7I0R" data-gyg-q="London vegan food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## Continue planning your London trip

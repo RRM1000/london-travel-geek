@@ -303,6 +303,8 @@ Bakeries are one of the few areas where the best thing in the category is also n
 
 **Sitting down.** Several of these are counters with a shelf, not cafés. Dusty Knuckle, Jolene, Don't Tell Dad and Chatsworth Bakehouse all do proper sit-down food; Fortitude, Bageriet and Lisboa are small rooms where a table is luck rather than a plan.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-bakeries-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="London bakery walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## What to know

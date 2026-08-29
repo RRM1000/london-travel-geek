@@ -253,6 +253,8 @@ Otherwise: **Kiln's lunch** is materially cheaper than dinner for the same count
 * **Order across the table.** Thai meals are balanced across sour, hot, salty and sweet; a dish each misses the point entirely.
 * **The lineage is real.** Som Saa's founders trained under David Thompson at Nahm, Singburi's new co-chef came from Kiln, and Kruk's pair met at Farang. Modern regional Thai in London is a small world.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-thai-restaurants-london-what-to-know" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thai cooking class London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## Continue planning your London trip

@@ -47,6 +47,8 @@ Four things sell out. Everything else on this plan can wait until the day.
 
 > ⚠️ **Westminster Abbey is closed to sightseers on Sundays.** It holds services instead, which you can attend free. If your Day 1 falls on a Sunday, swap Days 1 and 3.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="three-day-itinerary-tower" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## Day 1: Westminster and the West End

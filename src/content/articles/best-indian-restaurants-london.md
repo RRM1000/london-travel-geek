@@ -370,6 +370,8 @@ Be clear-eyed about the trade, though: Tayyabs is a ten-minute walk away and it 
 
 **Book:** [Reserve a table](https://cityspice.co/book-now/)
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Brick Lane Curry Tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Brick Lane curry tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### Punjab, Covent Garden
 
 *££ · Covent Garden · 2 min from Covent Garden · est. 1946; landmark*

@@ -223,6 +223,8 @@ The signatures are the **house coppa and the pig-skin crackling**, and the brown
 
 The focaccia is the thing people talk about afterwards, and it does run out — order it when you sit down.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Italian Pasta Class" data-gyg-partner-id="WWP7I0R" data-gyg-q="Italian pasta making class"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## Best value

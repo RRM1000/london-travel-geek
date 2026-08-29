@@ -87,6 +87,8 @@ A Robert Adam interior on the edge of the Heath, with Rembrandt and Vermeer on t
 
 Henry VIII's kitchens, the Tudor Great Hall, and Wren's later baroque additions — two palaces in one building. **The maze is included.**
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-palaces" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampton Court Palace tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### Eltham Palace
 
 *About £19*

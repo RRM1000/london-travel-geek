@@ -237,6 +237,8 @@ Forty floors up and **open around the clock** — the only place in London where
 * **Duck & Waffle is genuinely 24 hours**, which makes it the answer to a very specific question.
 * **Bob Bob Ricard's button** works and there is no minimum spend attached to pressing it.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="unusual-restaurants-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ---
 
 ## Continue planning your London trip

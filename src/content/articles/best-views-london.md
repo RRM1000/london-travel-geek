@@ -156,6 +156,8 @@ Be clear about what that sentence does and does not say. It is no longer the hig
 
 > ⚠️ Ignore the marketing line about being "almost twice the height of any other viewing platform in the capital." It has not been true since 2023.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-views-london-shard" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### Aqua Shard, London Bridge
 
 *No admission fee · level 31 · book a table*

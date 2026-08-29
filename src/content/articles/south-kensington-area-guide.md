@@ -86,6 +86,8 @@ South Kensington has its own share of the commemorative plaques marking where no
 5. **Kensington Gardens and the Albert Memorial** — Across the road, with Kensington Palace at the far end and the Serpentine galleries in between.
 6. **Brompton Oratory** — An enormous Italianate Catholic church next to the V&A that almost nobody goes into. Free, and startling inside.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-kensington-guide-museum-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Natural History Museum tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Key streets and micro-districts
 
 ![The terracotta towers of the Natural History Museum in evening light](../../assets/articles/south-kensington-area-guide/natural-history-museum-own.jpg)
