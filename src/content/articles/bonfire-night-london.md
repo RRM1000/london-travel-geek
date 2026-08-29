@@ -75,7 +75,7 @@ The event is now called the Fireworks and Drone Festival. The drones fly formati
 
 > ⚠️ **The presale opens at 12pm on Wednesday 2 September 2026**, and the priority sign-up list is the only route to early-bird pricing. This event sells out, so join the list rather than relying on catching the general sale.
 
-> ⚠️ **"From £10.50" is not an adult ticket.** The small print states that price is for an **11 to 15-year-old child**. Under-10s go free on Sunday, on early-bird only and subject to availability. For 2025, an advance adult ticket was **£15.50** and a child **£10.50**, so budget **£15–£18 per adult** and expect to pay more the longer you leave it.
+> ⚠️ **The advertised "from £10.50" is a child price.** The small print states it applies to an **11 to 15-year-old**. Under-10s go free on the Sunday, on early-bird tickets only and subject to availability. In 2025 an advance adult ticket was **£15.50** and a child **£10.50**, so budget **£15–£18 per adult**.
 
 ![A band playing on a stage inside a marquee lit blue, with a crowd watching](../../assets/articles/bonfire-night-london/alexandra-palace-live-music.jpg)
 
