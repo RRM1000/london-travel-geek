@@ -21,7 +21,7 @@ faq:
   - q: "Can people from outside the UK enter the Wimbledon ballot?"
     a: "Yes. There is no separate overseas ballot any more. The application period is the same for all guests including those from overseas, and you enter online through a myWimbledon account from anywhere in the world. The only real constraint is that it is one application per household and per email address, and you must apply from your permanent home address."
   - q: "What is the LTA Wimbledon ballot and can I enter it as well?"
-    a: "Only if you are an LTA member — this one is not open to the general public, unlike the AELTC Public Ballot. You need a Fan+ (£25 a year), Play+ (free, for members of an LTA-registered venue) or Compete (£35 a year) LTA Advantage membership, and you must opt in during the window; for 2027 that closes at 23:59 on Monday 31 August 2026. If you are eligible it is well worth doing, because you can enter both ballots, and LTA winners choose their day and court rather than being allocated one at random."
+    a: "Only if you are an LTA member — this one is not open to the general public, unlike the AELTC Public Ballot. You need a Fan+ (£25 a year), Play+ (free, for members of an LTA-registered venue) or Compete (£35 a year) LTA Advantage membership, and you must opt in during the window; for 2027 that closes at 23:59 on Monday 31 August 2026. The two ballots are drawn separately and neither knows about the other, so entering both genuinely doubles your routes in, and LTA winners choose their day and court rather than being allocated one at random. Just be aware that neither organisation publishes its odds, and if both draws miss you do not get the £25 back."
   - q: "How long do you have to wait in the Wimbledon queue?"
     a: "Plan for most of the morning. Arriving at around 6.30am on a first-week day, it took us roughly six hours to get from joining the Queue to being inside the Grounds — so a little after midday. The gates open at 10am, but entry runs strictly in queue card number order and the Grounds fill at a controlled rate, so 'gates open' is not the same as 'you get in'. The second week is quicker."
   - q: "What time does the first Tube get to Southfields for the Wimbledon queue?"
@@ -174,7 +174,8 @@ The LTA ballot is not just a second lottery ticket. It works differently in one 
 
 | | AELTC Public Ballot | LTA Advantage ballot |
 | --- | --- | --- |
-| **Cost to enter** | Free | Free, but needs an eligible membership |
+| **Cost to enter** | Free | **£25 a year** for Fan+, or free with Play+ if you belong to a club |
+| **Open to** | **Anyone, anywhere** | **LTA Advantage members only** |
 | **Choose day and court?** | **No** — allocated at random | **Yes** — you choose before purchase, subject to availability |
 | **What you win** | The right to buy up to two tickets | The right to buy **one pair** of tickets |
 | **Minimum age** | 16 | 13 |
@@ -186,6 +187,20 @@ Being able to pick the day and court is the whole appeal. The Public Ballot hand
 LTA Wimbledon tickets are still **non-transferable**, and the named ticket holder has to be there on the day for them to be valid. If you cannot go, you request a refund rather than passing them on.
 
 Advantage membership also carries a second Wimbledon benefit worth knowing about: **members-only access to a resale of returned Wimbledon tickets**, plus discounted entry to the Wimbledon Museum.
+
+### Is it worth £25?
+
+The two ballots are run by different organisations, drawn separately, and neither knows you entered the other. **Entering both is therefore strictly better than entering one** — two chances at the same fortnight, and being unsuccessful in one does not count against you in the other. If you badly want to be at Wimbledon in 2027, that is a real argument for joining.
+
+Be clear-eyed about the rest of it, though.
+
+> ⚠️ **Nobody publishes the odds for either ballot.** The AELTC has never released applicant numbers or success rates, and the LTA does not publish its allocation size or how many members enter. So while it is reasonable to assume a members-only draw has a smaller pool than a worldwide free-for-all, **that is an assumption, not a published fact** — and anyone quoting you a percentage for either ballot has invented it. What you are buying for £25 is an extra ticket in a lottery of unknown odds.
+
+And if both draws miss, the £25 is gone. There is no refund for an unsuccessful ballot, and no rollover to next year.
+
+Two things soften that. First, Fan+ is not *only* a ballot entry — it also carries priority for tickets to all LTA tournaments, the members' resale of returned Wimbledon tickets, discounts with LTA partners and cheaper entry to the Wimbledon Museum. If you follow British tennis at all, some of that has value in its own right. Second, and more importantly:
+
+> 💡 **Check whether you can get it free first.** **Play+ includes the same Wimbledon ballot entry and costs nothing**, provided you are a member of a qualifying LTA-registered venue. Plenty of people belong to a club, or a park tennis scheme, without realising it makes them eligible. Check before you pay £25 for the same thing.
 
 ---
 
