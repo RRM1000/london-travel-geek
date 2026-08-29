@@ -77,6 +77,10 @@ Quieter immediately after Camden, and it improves the whole way. The canal runs 
 
 **St Pancras Lock** and the restored **gasholders** are the set piece. **Camley Street Natural Park** sits on the towpath here — a free two-acre nature reserve wedged between the canal and the railway, which almost nobody walking to King's Cross knows is there.
 
+![The Regent's Canal towpath near King's Cross, planted with reeds and wildflowers, running past redbrick apartment blocks](../../assets/articles/best-canal-walks-london/kings-cross-towpath-reeds.jpg)
+
+*The towpath by Camley Street, planted rather than mown — the reserve's influence spreads along the bank well beyond its own gate.*
+
 More in our [King's Cross guide](/articles/kings-cross-area-guide/) and [hidden London](/articles/hidden-london-secret-places/).
 
 ---
@@ -125,6 +129,10 @@ The final run, and the most varied. The canal turns south through **Mile End Par
 
 The reeds and lakes here belong to **the Ecology Pavilion**, a Tower Hamlets events venue — the building itself is only open to the public during a hired event, but the wetland boardwalk around it is free and open at all times. Further along, **the Art Pavilion** does the same trick with a different material: a gallery space built low into the bank with a glass wall onto its own small lake, easy to miss because it too is closed except when an exhibition is on.
 
+![A reed-fringed lake covered in duckweed at the Art Pavilion in Mile End Park, with an apartment block behind](../../assets/articles/best-canal-walks-london/the-art-pavilion-lake.jpg)
+
+*The Art Pavilion's own small lake. The gallery building sits just out of frame to the left, closed except when an exhibition is on.*
+
 ![The Regent's Canal towpath in east London, with a long graffiti-covered wall on one side and moored narrowboats on the other](../../assets/articles/best-canal-walks-london/regents-canal-graffiti-narrowboats.jpg)
 
 *The towpath at Bow, narrowing between a graffiti wall and the moorings. This stretch is repainted constantly.*
@@ -132,10 +140,6 @@ The reeds and lakes here belong to **the Ecology Pavilion**, a Tower Hamlets eve
 **The Green Bridge** is the thing to look for — a bridge carrying the park itself, planted with trees, over the four lanes of Mile End Road. You walk through a park and only afterwards realise you crossed a main road.
 
 Then the towpath tightens into its best stretch: low bridges, tunnels under the streets, and the light changing every hundred yards.
-
-![A walker on the Regent's Canal towpath passing under a low brick bridge, with the canal and moored boats beyond](../../assets/articles/best-canal-walks-london/regents-canal-towpath-tunnel.jpg)
-
-*Under the bridges around Bethnal Green. The towpath runs through rather than over, which is what makes this section feel like a different city.*
 
 **It ends at Limehouse Basin**, where the canal locks down into the Thames. Once the busiest freight interchange in London, now a marina ringed with apartments, with masts and narrowboats side by side.
 
