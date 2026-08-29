@@ -194,7 +194,7 @@ Advantage membership also carries a second Wimbledon benefit worth knowing about
 
 ### Is it worth £25?
 
-The two ballots are run by different organisations, drawn separately, and neither knows you entered the other. **Entering both is therefore strictly better than entering one** — two chances at the same fortnight, and being unsuccessful in one does not count against you in the other. If you badly want to be at Wimbledon in 2027, that is a real argument for joining.
+The two ballots are run by different organisations, drawn separately, and neither knows you entered the other. **Entering both is therefore strictly better than entering one**, and being unsuccessful in one does not count against you in the other. If you badly want to be at Wimbledon in 2027, that is a real argument for joining.
 
 Be clear-eyed about the rest of it, though.
 
