@@ -18,7 +18,7 @@ faq:
   - q: "What is the best Italian restaurant in London?"
     a: "River Café in Hammersmith holds a Michelin star and is where Jamie Oliver and Hugh Fearnley-Whittingstall both trained — book months ahead for a riverside table. For the same seriousness at half the price, Trullo in Highbury is the one London chefs name most often."
   - q: "Where can I eat good Italian food in London cheaply?"
-    a: "Bancone in Covent Garden rolls its pasta at the counter at prices well below the Michelin Guide average, and Padella in Borough charges under £12 for most plates. Mucci's in Chelsea puts every starter at £10 and every main at £20. ICCO in Fitzrovia sells a twelve-inch pizza from £3.95."
+    a: "Bancone in Covent Garden rolls its pasta at the counter at prices well below the Michelin Guide average, and Padella in Borough charges under £12 for most plates. Mucci's in Chelsea puts every starter at £10 and every main at £20. Al Dente on Goodge Street keeps every plate under £15."
   - q: "Which London Italian restaurants are best for a special occasion?"
     a: "Murano in Mayfair for Angela Hartnett's Michelin-starred cooking, River Café for the terrace, and Langosteria inside the Old War Office for Milanese seafood. Sale e Pepe Mare finishes its cacio e pepe in the wheel at the table."
   - q: "Is London Italian food actually regional?"
@@ -55,7 +55,7 @@ So this guide is arranged by **region and by what you are paying**, because "Ita
 | **Mayfair & Green Park** | Murano, Cecconi's, Il Gattopardo, Theo Randall, The Dover |
 | **Soho & Piccadilly** | Bocca di Lupo, Osteria Vibrato, Lina Stores, Napoli on the Road Soho |
 | **Covent Garden** | Bancone, Café Murano, Ave Mario, Homeslice |
-| **Fitzrovia & Marylebone** | Norma, Motorino, Italian Greyhound, Sale e Pepe Mare, ICCO, Al Dente |
+| **Fitzrovia & Marylebone** | Norma, Motorino, Italian Greyhound, Sale e Pepe Mare, Al Dente |
 | **Clerkenwell & the City** | Luca, Brutto, Eataly |
 | **Islington & north** | Trullo, Bar Etna, Ornella |
 | **Shoreditch & east** | Manteca, Osteria Angelina, Tiella, Ombra |
@@ -237,21 +237,11 @@ The tuna tartare and the **200g sliced sirloin** are the picks — a Chelsea ste
 
 Giuseppe is usually in the room, which is most of why people go back.
 
-### ICCO, Fitzrovia
-
-*£ · 46 Goodge Street · from £3.95*
-
-**A twelve-inch pizza from £3.95**, made to order — roughly a third of what anywhere else in central London charges for the same thing.
-
-"The People's Pizzeria" has been on Goodge Street since 1999, which in this part of town is close to a miracle. Thin, crisp, unfussy, handed over fast. There is seating but most people take it away.
-
-The bloggers found this one long before the magazines did, and it is still the cheapest proper meal in Fitzrovia.
-
 ### Al Dente, Fitzrovia
 
 *£ · 3 min from Goodge Street · pasta under £15*
 
-Handmade pasta rolled in front of you, a few doors from ICCO on the same street. **Every plate is under £15**, which is why it fills with students at lunch and solo diners at night.
+Handmade pasta rolled in front of you on Goodge Street. **Every plate is under £15**, which is why it fills with students at lunch and solo diners at night.
 
 The cacio e pepe is the one to order. There are further branches in South Kensington and by Monument.
 
