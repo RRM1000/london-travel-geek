@@ -66,10 +66,6 @@ The largest of the Royal Parks and the only one with **free-roaming red and fall
 
 Eight hundred acres of genuinely wild-feeling ground, with **three swimming ponds open year-round** — men's, women's and mixed — and the protected Parliament Hill view south over the City.
 
-![A duckweed-covered pond in woodland on Hampstead Heath](../../assets/articles/best-parks-gardens-london/hampstead-heath-pond.jpg)
-
-*One of the Heath's smaller, wilder ponds — not a swimming one, just left to itself.*
-
 ![Dense woodland and shrubbery near the Hill Garden and Pergola on Hampstead Heath](../../assets/articles/best-parks-gardens-london/hampstead-heath-woodland.jpg)
 
 *The planting around the Hill Garden and Pergola spreads well beyond the walkway itself.*
