@@ -184,10 +184,6 @@ Calvados and apple run through the whole menu — a bar with an argument rather 
 
 Twenty-odd seats, **negronis aged in the bottle**, and an espresso counter by day. Closer to Rome than to Soho, and small enough that you should expect to wait.
 
-![A single espresso in a striped cup on a dark wood counter](../../assets/articles/best-cocktail-bars-london/bar-termini.jpg)
-
-*Termini is a standing bar first and a cocktail bar second — the espresso is the reason to come in daylight. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/28064635233), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
-
 ### Three Sheets, Soho and Dalston
 
 *£££*
