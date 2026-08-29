@@ -40,7 +40,7 @@ The London Marathon is the hardest mass-participation race in the world to get i
 
 This guide covers every legitimate way to get a place, what is still open for 2027, and — if you would rather watch than run — where to stand.
 
-> 💡 **The Short Version:** The **2027 ballot has closed**. What is still open for 2027 is a **charity place**, which means raising roughly **£2,000–£3,000**; an **official international tour operator** if you live abroad; or the **MyWay virtual marathon** at £40. For 2028, the ballot should open around **race weekend in late April 2027** — it is **free to enter** and you only pay if you get in. If you are quick enough, **Good For Age** and **Championship** entry are far better odds than the ballot.
+> 💡 **The Short Version:** The **2027 ballot has closed**. What is still open for 2027 is a **charity place**, which means raising roughly **£2,000–£3,000**; an **official international tour operator** if you live abroad; or the **MyWay virtual marathon** at £40. For 2028, the ballot should open around **race weekend in late April 2027** — it is **free to enter** and you only pay if you get in. If you are quick enough, **Good For Age** and **Championship** entry are far better odds than the ballot. To **watch**, skip the famous spots and go to the **Isle of Dogs**.
 
 ---
 
@@ -304,7 +304,26 @@ The organisers themselves split the route into places that will be heaving and p
 
 > ⚠️ **Expect station queues of up to 90 minutes** at the busy points — that is the organisers' own figure, and it applies at Cutty Sark and Limehouse in particular. Their blunt advice about the busy zones is worth repeating: *"This could be the only part of the route you can visit, so make the most of it."*
 
-**Tower Bridge is the iconic spot and it is worth it once** — but arrive early, and use London Bridge rather than Tower Hill or Tower Gateway. **Mudchute at Mile 17** is the pick if you have children: quieter, on the DLR, and Mudchute Farm is next door. **Poplar High Street at Mile 20** is where you stand with local residents rather than tourists.
+**Tower Bridge is the iconic spot and it is worth it once** — but arrive early, and use London Bridge rather than Tower Hill or Tower Gateway.
+
+### The best place to watch: the Isle of Dogs
+
+![The elite women's lead pack running past spectators and a brass band on Westferry Road, Isle of Dogs, with the Canary Wharf towers behind](../../assets/articles/london-marathon-guide/london-marathon-isle-of-dogs.jpg)
+
+If you want to actually see the race rather than the back of someone's head, go to the **southern half of the Isle of Dogs — Westferry Road, Millwall and Mudchute, Miles 15 to 17.**
+
+**It is quiet precisely because it is awkward to reach**, and that trade is worth making. The island is a peninsula served by small DLR stations — Crossharbour, Mudchute, Island Gardens and South Quay — with none of the mainline capacity that funnels crowds to Tower Bridge or Greenwich. The course loops around it, so you can only cross at designated points. And almost everyone who has come to watch a landmark has gone to the landmarks instead.
+
+What you get for the inconvenience:
+
+- **Room at the barrier**, even fairly late in the morning. The photograph above is the elite women's lead pack going through, from a standing spot a few feet back with no crush.
+- **A genuine local crowd** rather than a tourist one — residents out on their own street, and bands playing on the pavement.
+- **A second sighting.** The course runs out along Westferry Road and comes back through Canary Wharf, so from around here you can catch the field at Mile 15 and again at Mile 18 without getting on a train.
+- **Mudchute at Mile 17 is the pick if you have children** — quieter still, and Mudchute Farm is next door for when they lose interest.
+
+> ⚠️ **One caveat: Canary Wharf itself is not quiet.** Miles 18 and 19, in the estate, are on the organisers' "extremely busy" list. The quiet stretch is the residential southern half of the island, not the towers.
+
+**Poplar High Street at Mile 20** works on the same principle — you stand with local residents rather than tourists.
 
 ### How to see your runner twice
 
