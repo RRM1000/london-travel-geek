@@ -61,7 +61,7 @@ faq:
   - q: "Do I need to book the Churchill War Rooms in advance?"
     a: "Yes. Timed entry slots regularly sell out days or weeks ahead and walk-up tickets are frequently unavailable. Book online before you travel. Allow at least 90 minutes inside, plus airport-style security on the way in."
   - q: "When does the Changing of the Guard happen?"
-    a: "At Buckingham Palace, usually at 11:00, on varying days depending on the season — check the Household Division schedule before going, as it is cancelled in bad weather. Arrive by 10:15 for a usable view, or watch the smaller Horse Guards ceremony on Whitehall at 11:00 instead, which is far less crowded."
+    a: "At Buckingham Palace, usually at 11:00, on varying days depending on the season — check the Household Division schedule before going, as it is cancelled in bad weather. Horse Guards on Whitehall does the full mounted ceremony only on **Monday, Wednesday and Friday at 11:00** - other days at 11:00 are a shorter inspection rather than a full change. There is also a free daily inspection at **16:00** at Horse Guards that most visitors never hear about."
 heroImage: "../../assets/articles/westminster-area-guide/westminster-parliament.jpg"
 heroImageAlt: "The Thames, Houses of Parliament, Westminster Bridge and London Eye from Albert Embankment"
 heroImageCredit: "Txllxt TxllxT"
@@ -91,7 +91,7 @@ Westminster has its own share of the commemorative plaques marking where notable
 
 *The Abbey's west towers, added in the 1740s - centuries after the rest of the building.*
 3. **Churchill War Rooms** — The underground bunker left largely as it was in 1945, with the map room untouched. Book timed entry well ahead.
-4. **Changing the Guard** — At Buckingham Palace at 11:00 on selected days. The **Horse Guards** ceremony on Whitehall at the same time is smaller, easier to see and far less crowded.
+4. **Changing the Guard** — At Buckingham Palace at 11:00 on selected days. **Horse Guards** on Whitehall is smaller and far less crowded, but only runs the full mounted ceremony on **Monday, Wednesday and Friday at 11:00** — other days get a shorter inspection instead. There is also a free inspection **every day at 16:00** that almost nobody times a visit around.
 5. **St James's Park** — The best park in central London, with the pelicans and the view from the blue bridge back towards Whitehall.
 6. **Trafalgar Square and the National Gallery** — At the top of Whitehall. The gallery is free and one of the great collections in Europe.
 7. **Westminster Cathedral** — Not the Abbey. A striped Byzantine-style Catholic cathedral ten minutes south, with a lift up its tower for one of the cheapest good views in London.
@@ -119,11 +119,11 @@ The government spine running north to Trafalgar Square. Downing Street's gates, 
 
 ![Mounted Household Cavalry on parade at Horse Guards, Whitehall](../../assets/articles/westminster-area-guide/horse-guards-parade.jpg)
 
-*The Horse Guards ceremony on Whitehall — the same 11:00 slot as Buckingham Palace, and far easier to see.*
+*The full mounted ceremony at Horse Guards — Monday, Wednesday and Friday at 11:00 only. Other days get a shorter inspection at the same time.*
 
 ![The Horse Guards building on a quiet afternoon, with tourists on the parade ground and the London Eye visible behind](../../assets/articles/westminster-area-guide/horse-guards-parade-building.jpg)
 
-*Horse Guards outside ceremony hours — you can walk right onto the parade ground, which is not obvious from the street.*
+*Horse Guards between ceremonies — you can walk right onto the parade ground, which is not obvious from the street. There's a free inspection here every day at 16:00, mounted or not.*
 
 ### St James's Park and The Mall
 The ceremonial route to Buckingham Palace. The park is the reason to walk it rather than take the Tube.
@@ -178,7 +178,7 @@ South along the river towards Tate Britain, and the quietest walk in the area.
 1. **Arriving at the Abbey on a Sunday.** Closed to sightseers. Monday to Saturday only.
 2. **Not booking the Churchill War Rooms.** Timed slots sell out well in advance.
 3. **Photographing Big Ben from directly underneath.** Cross to the far side of the bridge; you cannot fit the tower in from the station side.
-4. **Standing at the Palace railings for the Guard.** By 10:30 you will see nothing. Watch from the Victoria Memorial steps, or use the Horse Guards ceremony instead.
+4. **Standing at the Palace railings for the Guard.** By 10:30 you will see nothing. Watch from the Victoria Memorial steps, or go to Horse Guards instead — but only Monday, Wednesday or Friday if you want the full ceremony rather than the shorter inspection.
 5. **Eating beside Westminster Bridge.** The restaurants immediately around the bridge are the worst value in central London. Walk to Regency Cafe or head north.
 6. **Taking the Tube one stop to Waterloo.** Walking across the bridge takes ten minutes and is the better experience.
 
