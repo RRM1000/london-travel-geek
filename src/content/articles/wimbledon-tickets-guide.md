@@ -428,7 +428,7 @@ Here is why it works. Once capacity is reached, entry switches to **one out, one
 | **Grounds close** | 45 minutes after the last match |
 | **Latest play can run** | **11pm** |
 
-**What you get for it.** Play on the outside courts runs into the evening, and both **Centre Court and No.1 Court have roofs and floodlights** — so the biggest matches of the day are often still going long after the light has gone. Play can continue until the **11pm curfew**, a Merton Council planning condition imposed in 2009 when the Centre Court roof was built and extended to No.1 Court when its roof opened in 2019. Some of the most famous matches in recent Wimbledon history have finished under lights at quarter to eleven at night.
+**What you get for it.** Play on the outside courts runs into the evening, and both **Centre Court and No.1 Court have roofs and floodlights** — so the biggest matches of the day are often still going long after the light has gone. Play can continue until the **11pm curfew**.
 
 With a Grounds Pass you watch that on the **big screen on The Hill**, which after about 6pm becomes the best place in the Grounds: the crowds have thinned, the queues for food have gone, the light is beautiful, and you are watching Centre Court on a giant screen with a drink on the grass for the price of a ticket that also let you wander the outside courts all evening.
 
