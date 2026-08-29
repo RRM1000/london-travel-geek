@@ -145,6 +145,10 @@ The Foot Tunnel entrance is right at the pier, beside the Cutty Sark. Head east 
 ### Greenwich Peninsula and North Greenwich
 Two miles north, and a different world from the Maritime Greenwich end of the peninsula — modern, arena-scale, and built around The O2 rather than around history.
 
+![The O2's white dome and yellow support masts seen from across the Thames at dusk, with an Uber Boat by Thames Clippers moored in front](../../assets/articles/greenwich-area-guide/o2-dusk-river.jpg)
+
+*The O2 from across the river at dusk. The Thames Clippers pier here is the fastest way in on an event night.*
+
 **The O2 is not just the arena.** Wrapped around the dome is **Outlet Shopping at The O2** — over 60 discount and outlet stores (adidas, Nike, Calvin Klein, Tommy Hilfiger, Guess, Next and others), open the same hours as the rest of the complex. Alongside it: more than 30 bars and restaurants, a **Cineworld cinema**, **bowling**, and a **trampoline park**, on top of the **Up at The O2** roof climb and whatever is playing in the arena itself. It works as a destination on a day with no concert ticket at all.
 
 ![A red and white IFS Cloud Cable Car cabin crossing high above the Thames, with the O2 dome and the Canary Wharf skyline behind](../../assets/articles/greenwich-area-guide/ifs-cloud-cable-car.jpg)

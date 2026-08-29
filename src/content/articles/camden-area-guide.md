@@ -41,7 +41,7 @@ area:
       note: "East along the Regent's Canal towpath — flat, traffic-free and better than the Tube."
     - name: "Regent's Park and London Zoo"
       minutes: 15
-      note: "South-west for the park, the boating lake and the zoo's canal-side aviary."
+      note: "South-west for the park, the boating lake and the zoo's canal-side Snowdon Aviary structure - now Monkey Valley."
     - name: "Islington"
       slug: "islington-area-guide"
       minutes: 25
@@ -87,7 +87,11 @@ Camden has its own share of the commemorative plaques marking where notable peop
 4. **Primrose Hill** — Fifteen minutes north-west. A free panorama of the entire central skyline, with a naming plaque at the summit. The village below it has the pastel terraces of **Chalcot Crescent**, used as the Browns' house in the *Paddington* films.
 5. **The Roundhouse** — A former railway engine shed turned venue, where Pink Floyd, Hendrix and The Doors all played. Still a working music and theatre space.
 6. **The Electric Ballroom and the Dublin Castle** — Two surviving live venues. The Dublin Castle is small, sticky and where Madness and Blur played early sets.
-7. **Regent's Park and London Zoo** — Fifteen minutes south-west along the canal, with the zoo's aviary visible from the towpath.
+7. **Regent's Park and London Zoo** — Fifteen minutes south-west along the canal, with the zoo's landmark Snowdon Aviary structure visible from the towpath. It no longer holds birds - it was reimagined as **Monkey Valley** and now houses the zoo's monkeys.
+
+![The Regent's Canal towpath running toward Snowdon Aviary at London Zoo, its metal frame visible over the water](../../assets/articles/camden-area-guide/regents-canal-towpath-zoo.jpg)
+
+*The towpath heading toward the zoo. This is the old Snowdon Aviary frame, built in 1965 - now home to the zoo's monkeys rather than its birds.*
 
 ## Key streets and micro-districts
 
@@ -97,6 +101,14 @@ The centre of it. The lock, the market buildings and the towpath in both directi
 ![A narrowboat moored at Camden Lock beneath a willow tree, with street food counters along the far bank](../../assets/articles/camden-area-guide/camden-lock-narrowboat.jpg)
 
 *Camden Lock. The boat on the right is a London Waterbus service — it runs from here to Little Venice, through Regent's Park and the London Zoo grounds.*
+
+![Redbrick warehouse buildings along the Regent's Canal at Hawley Wharf, with the towpath running below](../../assets/articles/camden-area-guide/camden-canal-hawley-wharf.jpg)
+
+*Hawley Wharf, the redevelopment beside Camden Lock. It opened in 2021 on the site of the old Canal Market, after a fire had closed it for years.*
+
+![Crowds walking between glass-domed outdoor dining pods on the cobbles of Camden Lock Place](../../assets/articles/camden-area-guide/camden-lock-place-cobbles.jpg)
+
+*Camden Lock Place, between the market and Hawley Wharf. The glass pods are outdoor seating for the restaurants either side.*
 
 ### Stables Market and Chalk Farm Road
 North past the railway bridge. The horse hospital tunnels, the vintage dealers and the Roundhouse opposite.
@@ -200,7 +212,7 @@ Five different operators run from Camden Lock, and they are genuinely different 
 1. **Start:** **Chalk Farm** station, not Camden Town.
 2. **Stables Market:** South into the horse hospital tunnels and the vintage dealers.
 3. **Camden Lock:** Down to the water for street food on the terraces.
-4. **The towpath:** West along the **Regent's Canal** past the zoo aviary.
+4. **The towpath:** West along the **Regent's Canal** past the zoo's old aviary structure.
 5. **Primrose Hill:** Up for the skyline panorama.
 6. **Finish:** A pub in **Primrose Hill village**, or back down for the Northern line.
 
