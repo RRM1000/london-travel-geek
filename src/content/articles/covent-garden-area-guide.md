@@ -97,6 +97,14 @@ Covent Garden has its own share of the commemorative plaques marking where notab
 ### The Piazza and market halls
 The centre. Market stalls, the performers, the Royal Opera House on the north-east corner and St Paul's Church to the west.
 
+![Outdoor restaurant terraces filling the cobbled Piazza at Covent Garden at dusk](../../assets/articles/covent-garden-area-guide/covent-garden-piazza-terrace.jpg)
+
+*The Piazza's cobbles are shared between the market stalls by day and restaurant terraces by evening.*
+
+![The Apple Market's cast-iron arcade decorated with giant baubles and mistletoe for Christmas](../../assets/articles/covent-garden-area-guide/apple-market-christmas.jpg)
+
+*The Apple Market dressed for Christmas. The decorations go up in November and are one of the more elaborate displays in central London.*
+
 ### Seven Dials
 
 Seven short streets radiating from a sundial pillar, each with its own character. Independent fashion, coffee, two West End theatres on the junction, and Seven Dials Market.
@@ -117,6 +125,10 @@ A courtyard off Mercer Walk, opened in December 2025 on a plot that was brewing 
 ![The cobbled courtyard of Old Brewer's Yard with a vintage Guinness delivery lorry parked in it](../../assets/articles/covent-garden-area-guide/old-brewers-yard-guinness.jpg)
 
 *Old Brewer's Yard. The courtyard bar needs no ticket — only the brewery tours upstairs do.*
+
+![A wall-mounted site map of the Guinness Open Gate Brewery at Old Brewer's Yard, showing Gilroy's Loft, the Guinness Vaults, the Bottle Room and other spaces](../../assets/articles/covent-garden-area-guide/guinness-open-gate-map.jpg)
+
+*The Open Gate Brewery's own site map. It sprawls further back than the courtyard entrance suggests.*
 
 ### Neal's Yard
 

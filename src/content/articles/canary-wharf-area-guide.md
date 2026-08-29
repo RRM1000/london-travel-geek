@@ -69,6 +69,10 @@ Canary Wharf is built on the West India Docks, which handled the sugar and rum t
 
 The docks are the point. Nearly every walkway here runs alongside a stretch of Victorian dock, and the contrast between the water, the surviving warehouses and the glass above them is what makes the place worth an afternoon.
 
+![Office towers and moored boats reflected in a Canary Wharf dock at sunset](../../assets/articles/canary-wharf-area-guide/dock-sunset.jpg)
+
+*The docks catch the light better than the towers do. Worth timing a walk for sunset.*
+
 Canary Wharf has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=canary-wharf).
 
 ## Why visit — and who should skip it
@@ -126,6 +130,10 @@ The Elizabeth line station, with the roof garden on top and a food court below.
 
 ### Wood Wharf
 East. New residential blocks, the boardwalk and the best of the waterside dining.
+
+![Glass-fronted restaurants including a floating Hawksmoor along the Wood Wharf waterside promenade](../../assets/articles/canary-wharf-area-guide/wood-wharf.jpg)
+
+*Wood Wharf's restaurant strip. Hawksmoor's site here floats on the dock itself.*
 
 ![Swimmers with orange tow floats crossing the open water of Middle Dock between the towers at Canary Wharf](../../assets/articles/canary-wharf-area-guide/middle-dock-swimming.jpg)
 
