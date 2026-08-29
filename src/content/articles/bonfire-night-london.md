@@ -154,7 +154,7 @@ This is where most guides fail, because they recommend viewpoints that are **loc
 
 **Parliament Hill is the answer.** At 98 metres it is the highest of the classic viewpoints, it has legally protected sightlines to both St Paul's and the Palace of Westminster, and — uniquely among the big viewpoints — the Heath has no perimeter gates to lock. Nearest stations are Gospel Oak and Hampstead Heath. Two honest drawbacks: the Heath is unlit, so bring a torch for the walk up, and the Westminster view is partly obscured by intervening construction.
 
-**Alexandra Park is the clever one on 7 and 8 November**, because the park around the palace is open around the clock while the display happens inside it. What we cannot confirm is how much of the park is fenced off on event nights, so treat this as a plan worth phoning ahead about rather than a guarantee.
+**Alexandra Park is the clever one on 7 and 8 November**, because the park around the palace is open around the clock while the display happens inside it. Some of the park is fenced off for the ticketed arena, so you will not get the same view as paying guests — but the fireworks go up over the whole hill.
 
 **Primrose Hill is the counterintuitive good news.** It is widely believed to shut for Bonfire Night; in fact it closes at **10pm**, well after any display. It is separately gated from The Regent's Park, so approach from the Chalk Farm side — the main park shuts at 16:30. Note the closure arrangements are announced each September, so check before you go.
 
