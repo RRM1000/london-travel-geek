@@ -307,7 +307,7 @@ An AELTC staffer told a reporter in 2026 that to be confident of a Show Court ti
 
 ### The Tube problem
 
-**You cannot get to Southfields early by Tube, because the Tube is not running.**
+**The Tube does not start early enough to get you near the front of the Queue.** The first trains of the day arrive well after the overnight campers are in place, so the earliest you can possibly reach Southfields by Underground is already too late for a Show Court ticket.
 
 First District line trains reaching Southfields from central London, from TfL's own timetable:
 
