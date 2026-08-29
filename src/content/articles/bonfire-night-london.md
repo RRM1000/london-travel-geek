@@ -24,8 +24,6 @@ faq:
     a: "Parliament Hill on Hampstead Heath is the best option because the Heath has no perimeter gates to lock. Alexandra Park is open 24 hours, and you are standing in the same park as the paid display. Primrose Hill works too — it closes at 10pm, not at dusk. Avoid Greenwich Park, which shuts at 6pm in November, long before any display starts."
   - q: "How much are Alexandra Palace fireworks tickets?"
     a: "The 2026 prices go live when the presale opens at midday on Wednesday 2 September. Be careful with the advertised 'from £10.50' — the site's own small print says that is the price for an 11 to 15-year-old child, so an adult ticket costs more. In 2025 an advance adult ticket was £15.50 and a child £10.50, so budget roughly £15 to £18 per adult."
-  - q: "What time does it get dark in London in early November?"
-    a: "Early. On 5 November 2026 the sun sets at about 16:27 and it is properly dark by 17:02. That is roughly two hours before a typical 7pm or 8pm display, which is why park closing times matter so much — several of the best viewpoints lock their gates at 4.30pm or 5pm, before anything has started."
   - q: "Is the Blackheath fireworks display cancelled?"
     a: "No. It was cancelled from 2019 to 2024 when Lewisham withdrew funding, but it returned in 2025 and sold out. Local reporting says it returns in 2026, but no date or price has been confirmed yet, so watch for an announcement. The important change is that it is no longer free — it is now a ticketed, fenced event, which caused local objections about pricing out families who had attended for decades."
 heroImage: "../../assets/articles/bonfire-night-london/alexandra-palace-fireworks.jpg"
@@ -136,7 +134,7 @@ Prices below were published by the organisers and checked in late August 2026. S
 
 ## Watching for free, without a ticket
 
-This is where most guides fail, because they recommend viewpoints that are **locked before the fireworks start**. On 5 November the sun sets at **16:27** and it is fully dark by **17:02** — but a typical display is at 7pm or 8pm, by which time several famous hills have been shut for hours.
+This is where most guides fail, because they recommend viewpoints that are **locked before the fireworks start**. Displays are at 7pm or 8pm, and several of the famous hills shut their gates at 4.30pm or 5pm.
 
 | Viewpoint | November gates | Any good? |
 | --- | --- | --- |
@@ -161,8 +159,6 @@ This is where most guides fail, because they recommend viewpoints that are **loc
 **Primrose Hill is the counterintuitive good news.** It is widely believed to shut for Bonfire Night; in fact it closes at **10pm**, well after any display. It is separately gated from The Regent's Park, so approach from the Chalk Farm side — the main park shuts at 16:30. Note the closure arrangements are announced each September, so check before you go.
 
 **Greenwich Park is the trap.** The General Wolfe viewpoint is genuinely one of the best in London, it has a protected vista to St Paul's, and it is free — and the gates shut at **6pm** in November.
-
-> 💡 **One thing in your favour:** the moon on 5 November is a 14% waning crescent that sets in mid-afternoon, so it is below the horizon all evening and will not wash out the sky.
 
 **Richmond Park deserves a note rather than a recommendation.** During the deer cull from 1 November, pedestrian gates lock at **20:00** — except on Friday and Saturday nights, when the park stays open. Car parks close at 16:30 regardless. And King Henry's Mound, the famous viewpoint, sits inside Pembroke Lodge Gardens, which are separately enclosed with no published closing time. The protected view to St Paul's is also a keyhole through a hedge, not a panorama. It is not a fireworks viewpoint.
 
@@ -203,8 +199,6 @@ Listings aggregators are unusually unreliable this year — several sites headed
 ---
 
 ## Practicalities
-
-**It gets dark absurdly early.** Sunset on 5 November is **16:27** and full darkness follows at **17:02**. On Saturday 7 November it is 16:23 and 16:59. You will be standing around in the dark for a while before anything happens.
 
 **Dress for standing still in the cold.** London's November average is about **11°C by day and 5°C overnight**, so an evening on an exposed hilltop sits somewhere between the two — and the clear, calm nights that make for the best viewing are the coldest ones. November is also one of the wetter months in the south east, and no café is open on Parliament Hill at 8pm. Hat, gloves and a flask.
 
