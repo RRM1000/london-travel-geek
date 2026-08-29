@@ -127,7 +127,7 @@ One West End show is a horror title outright, two long-running shows do the job 
 
 A stage adaptation of the horror film franchise, running at the Ambassadors until **7 November 2026** — so it covers Halloween but closes shortly after, unlike the longer-running shows on this list. It is a small venue, and a good fit for the night alongside the other shows here.
 
-This one is genuinely worth booking early: weekend and peak pricing is already running around **18% above the mid-week rate**, which is usually a sign a show is filling up.
+It's a popular show, so it is likely to fill up over Halloween — book early.
 
 ### Stranger Things: The First Shadow, Phoenix Theatre
 
