@@ -231,8 +231,6 @@ Three things make it interesting:
 
 > ⚠️ **This is the one benefit Play+ does not get.** The free Play+ tier carries the ballot but is **excluded from the members' resale** — it is limited to **Fan+ and Compete**. If the resale is what you are after, the free club route will not do it.
 
-Membership also gets you discounted entry to the Wimbledon Museum.
-
 ### The small print
 
 - **You still pay full price for the tickets.** Winning the LTA ballot buys you the right to purchase, nothing more; travel and everything else is on you.
