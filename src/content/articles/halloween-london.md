@@ -88,3 +88,27 @@ An Irish attraction making its first London appearance, built inside a genuine V
 Prices are not published on the event's own pages — book through [the official ticketing site](https://thenightmarerealmuk.rezgo.com/) to see the current tiers.
 
 ---
+
+## Theatre and immersive experiences
+
+Two long-running West End shows do the job without needing a Halloween theme at all, plus one genuine immersive horror production built for the season.
+
+### Stranger Things: The First Shadow, Phoenix Theatre
+
+Charing Cross Road, WC2H 0JP. Booking through **Sunday 27 December 2026**, so it comfortably covers Halloween. A prequel to the Netflix series, set in Hawkins in 1959, following young Jim Hopper, Bob Newby and Joyce Maldonado.
+
+Performances run Tuesday to Saturday at 7pm, with matinees Friday and Saturday at 1pm and Sunday at 3pm. **Three hours including an interval.**
+
+**Recommended for ages 12 and over**; under-5s are not admitted, and under-16s need an accompanying adult. Contains gunfire audio, loud noises, explosions, haze, strobe lighting and strong language.
+
+### Beetlejuice, Prince Edward Theatre
+
+Old Compton Street, W1D 4HS. The stage musical of the film, currently running as a **limited West End engagement** — worth checking the closing date before you book, since it may not run right through to Halloween. Look out for **Netherworld performances**, which use fixed pricing at £30, £40 or £50 a ticket rather than the usual dynamic pricing.
+
+### Silence, COLAB Theatre
+
+COLAB Tower, SE1 9HB. A **Halloween-specific immersive production** rather than a running show — you investigate a Southwark murder with Rev. Stanley Park, working through clues, a ritual and a puzzle while a vengeful spirit stalks the building. The premise is built around staying quiet: making a sound draws the spirit toward you.
+
+COLAB is a genuine immersive theatre company with a back catalogue of similar shows, rather than a seasonal pop-up — worth checking their site for exact October dates and prices before booking, since these productions tend to run for a fixed, short window.
+
+---
