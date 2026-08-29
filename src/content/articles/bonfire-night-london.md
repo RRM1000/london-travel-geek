@@ -28,6 +28,8 @@ faq:
     a: "Early. On 5 November 2026 the sun sets at about 16:27 and it is properly dark by 17:02. That is roughly two hours before a typical 7pm or 8pm display, which is why park closing times matter so much — several of the best viewpoints lock their gates at 4.30pm or 5pm, before anything has started."
   - q: "Is the Blackheath fireworks display cancelled?"
     a: "No. It was cancelled from 2019 to 2024 when Lewisham withdrew funding, but it returned in 2025 and sold out. Local reporting says it returns in 2026, but no date or price has been confirmed yet, so watch for an announcement. The important change is that it is no longer free — it is now a ticketed, fenced event, which caused local objections about pricing out families who had attended for decades."
+heroImage: "../../assets/articles/bonfire-night-london/alexandra-palace-fireworks.jpg"
+heroImageAlt: "A large red firework bursting over the crowd at the Alexandra Palace fireworks, with the lights of London visible below"
 ---
 
 **Bonfire Night 2026 falls on a Thursday**, and that single fact rearranges the whole evening. Almost every major London display has moved to the weekend. **Saturday 7 November is the busiest night of the season by a wide margin**, with Sunday 8 November second, and only a handful of events on 5 November itself.
@@ -65,9 +67,17 @@ The best-known display in London, on a ridge with one of the great views over th
 
 Also on site across the weekend: a bonfire, funfair, **ice skating** on the permanent indoor rink, street food and bars.
 
+![The Alexandra Palace bonfire fully ablaze, with a large crowd silhouetted against the flames](../../assets/articles/bonfire-night-london/alexandra-palace-bonfire.jpg)
+
+The drone show is part of the billing, not an afterthought — the event is now called the Fireworks and Drone Festival, and the drones fly formations above the park between the other elements.
+
+![A drone display forming a lit figure in the night sky above Alexandra Park, watched by a crowd](../../assets/articles/bonfire-night-london/alexandra-palace-drone-show.jpg)
+
 > ⚠️ **Tickets are not on sale yet. The presale opens at 12pm on Wednesday 2 September 2026**, and the only route to early-bird pricing is the priority sign-up list. This event sells out — get on the list now rather than diarising the on-sale date.
 
 > ⚠️ **"From £10.50" is not an adult ticket.** The small print states that price is for an **11 to 15-year-old child**. Under-10s go free on Sunday, on early-bird only and subject to availability. For 2025, an advance adult ticket was **£15.50** and a child **£10.50**, so budget **£15–£18 per adult** and expect to pay more the longer you leave it.
+
+![A band playing on a stage inside a marquee lit blue, with a crowd watching](../../assets/articles/bonfire-night-london/alexandra-palace-live-music.jpg)
 
 Two things that changed from last year: the event has **moved off Halloween** — 2025 ran on 31 October and 1 November with ghost tours and fancy dress, and 2026 is a straight Bonfire Night weekend — and Sunday is now a dedicated family day rather than a second party night.
 
