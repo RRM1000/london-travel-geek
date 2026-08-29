@@ -112,7 +112,7 @@ Quieter and more formal than Hyde Park next door, and easy to treat as the same 
 
 ![Geese, ducks and a swan lined up on the gravel shore of the Serpentine](../../assets/articles/best-parks-gardens-london/serpentine-birds.jpg)
 
-*The Serpentine's shore, which straddles Hyde Park and Kensington Gardens - the birds do not recognise the boundary.*
+*The Serpentine's shore, which straddles Hyde Park and Kensington Gardens.*
 
 The Round Pond and the Diana Memorial Playground are the two things families come back for.
 
