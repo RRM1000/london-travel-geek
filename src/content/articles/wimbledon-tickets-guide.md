@@ -21,7 +21,7 @@ faq:
   - q: "Can people from outside the UK enter the Wimbledon ballot?"
     a: "Yes. There is no separate overseas ballot any more. The application period is the same for all guests including those from overseas, and you enter online through a myWimbledon account from anywhere in the world. The only real constraint is that it is one application per household and per email address, and you must apply from your permanent home address."
   - q: "What is the LTA Wimbledon ballot and can I enter it as well?"
-    a: "Yes, if you join the LTA first — and anyone aged 18 or over can. It is a separate ballot run by the LTA that requires an LTA Advantage membership, but you do not need to play tennis or belong to a club: Fan+ costs £25 a year and is open to any adult who signs up online. Play+ carries the same entry free if you are a member of an LTA-registered venue, and Compete is £35. You must opt in during the window; for 2027 that closes at 23:59 on Monday 31 August 2026. The two ballots are drawn separately and neither knows about the other, so entering both genuinely doubles your routes in, and LTA winners choose their day and court rather than being allocated one at random. Just be aware that neither organisation publishes its odds, and if both draws miss you do not get the £25 back."
+    a: "Yes, if you join the LTA first — and anyone aged 18 or over can. It is a separate ballot run by the LTA that requires an LTA Advantage membership, but you do not need to play tennis or belong to a club: Fan+ costs £25 a year and is open to any adult who signs up online. Play+ carries the same entry free if you are a member of an LTA-registered venue, and Compete is £35. You must opt in during the window; for 2027 that closes at 23:59 on Monday 31 August 2026. The two ballots are drawn separately and neither knows about the other, so entering both genuinely doubles your routes in. The big draw of the LTA version is that winners choose their own day and court, subject to availability, where the AELTC ballot allocates one specific day on one specific court at random and will not let you swap it — which matters enormously if you are booking travel or need to arrange time off. Just be aware that neither organisation publishes its odds, and if both draws miss you do not get the £25 back."
   - q: "How long do you have to wait in the Wimbledon queue?"
     a: "Plan for most of the morning. Arriving at around 6.30am on a first-week day, it took us roughly six hours to get from joining the Queue to being inside the Grounds — so a little after midday. The gates open at 10am, but entry runs strictly in queue card number order and the Grounds fill at a controlled rate, so 'gates open' is not the same as 'you get in'. The second week is quicker."
   - q: "What time does the first Tube get to Southfields for the Wimbledon queue?"
@@ -54,7 +54,7 @@ The 2026 Championships drew a record **550,151 people** through the gates, and t
 
 **The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.** Both advance ballots for those tickets are decided over the next few weeks — one closes on **31 August 2026**, the other opens days later — which makes right now the most important window in the Wimbledon year.
 
-> 💡 **The Short Version:** Enter the **AELTC Public Ballot** — it is free, open to anyone in the world, needs nothing but an email address, and opens in **early September**. There is also a **second, separate LTA draw that anyone over 18 can enter for £25 a year**, and you can enter both. Its opt-in **closes at 23:59 on Monday 31 August 2026**. If you miss both, **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £21**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
+> 💡 **The Short Version:** Enter the **AELTC Public Ballot** — it is free, open to anyone in the world, needs nothing but an email address, and opens in **early September**. There is also a **second, separate LTA draw that anyone over 18 can enter for £25 a year**, and you can enter both. Win that one and **you choose your day and court**, which the public ballot never lets you do. Its opt-in **closes at 23:59 on Monday 31 August 2026**. If you miss both, **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £21**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
 
 ---
 
@@ -201,19 +201,23 @@ Watch two traps. Plain **Fan** and plain **Play** memberships are free but do **
 
 ### How it differs from the Public Ballot
 
-The LTA ballot is not just a second lottery ticket. It works differently in one way that matters enormously:
+The LTA ballot is not just a second lottery ticket. **It hands you something the Public Ballot never will: control over which day you go and which court you sit on.**
 
 | | AELTC Public Ballot | LTA Advantage ballot |
 | --- | --- | --- |
 | **Cost to enter** | Free | **£25 a year** for Fan+, or free with Play+ if you belong to a club |
 | **Open to** | **Anyone, anywhere** | Members — but **any adult can join for £25** |
-| **Choose day and court?** | **No** — allocated at random | **Yes** — you choose before purchase, subject to availability |
+| **Choose day and court?** | **No.** Allocated at random, and you cannot swap | **Yes.** You pick both before you pay, subject to availability |
 | **What you win** | The right to buy up to two tickets | The right to buy **one pair** of tickets |
 | **Minimum age** | 16 | 13 |
 | **Results** | From October | September to November |
 | **If you cannot attend** | Refund removes you from that year's ballot | Refund available, no stated ballot penalty |
 
-Being able to pick the day and court is the whole appeal. The Public Ballot hands you a random Tuesday on No.3 Court or a random Saturday on Centre; the LTA ballot lets you choose from what is left.
+> 💡 **Choosing your own day and court is the single biggest advantage of the LTA route, and it is easy to underrate.** The Public Ballot hands you one specific day on one specific court, decided by a computer. It might be a wet Tuesday on No.3 Court in the first week. You cannot swap it, you cannot move it to another year, and if you decline it you are out of the ballot entirely. The LTA ballot instead lets you **choose from what is available** — pick the middle Saturday, pick a quarter-final day, pick Centre Court, pick a date you can actually get time off for.
+
+For some people that is the difference between a ticket and a useless ticket. If you are travelling from abroad, booking flights and a hotel around a date the AELTC picks for you is a real problem — and being handed a Monday in week one when you were hoping for the second week is a poor return on a year of waiting. Knowing the date before you commit is worth a great deal.
+
+The trade-off is that "subject to availability" does real work in that sentence. You choose from what is left when your name comes up, not from the whole fortnight, and the best days will go to the people drawn before you.
 
 LTA Wimbledon tickets are still **non-transferable**, and the named ticket holder has to be there on the day for them to be valid. If you cannot go, you request a refund rather than passing them on.
 
