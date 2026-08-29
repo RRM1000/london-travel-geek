@@ -17,7 +17,7 @@ tags:
 draft: false
 faq:
   - q: "When is Bonfire Night 2026 and when are the London fireworks?"
-    a: "Bonfire Night is Thursday 5 November 2026. Because it falls midweek, almost every big London display has moved to the weekend — Saturday 7 November is by far the busiest night, with Sunday 8 November second. Only a handful of events run on the 5th itself, so do not assume the night itself is the night to go out."
+    a: "Bonfire Night is Thursday 5 November 2026, but the fireworks are on Saturday 7 November — thirteen displays run that night, with a second wave on Sunday 8th. Only three run on the 5th itself: Coram's Fields, Wimbledon Park and Stow."
   - q: "Are there any free fireworks displays in London?"
     a: "Barely one. Coram's Fields in Bloomsbury runs a free display on Thursday 5 November, no ticket needed — but adults may only attend if accompanied by a child, because it is a children's park. No London borough council still funds a free public display. The BBC established that 17 council events were cancelled over cost in five years."
   - q: "Where can you watch London fireworks for free without a ticket?"
@@ -38,7 +38,7 @@ Just three run on the 5th itself: Coram's Fields, Wimbledon Park and Stow. So if
 
 This guide lists every display you can buy a ticket for, the one that is still free, which famous ones no longer run at all, and — the part most guides get wrong — the free viewpoints that are actually open after dark.
 
-> 💡 **The Short Version:** The real night is **Saturday 7 November**. **Alexandra Palace** goes on presale at **midday on Wednesday 2 September** and sells out. Several displays are on sale now, and a few early-bird prices expire within days. The only genuinely free display is **Coram's Fields** on the 5th, where adults must bring a child. For a free view, **Parliament Hill** has no gates and never closes — while **Greenwich Park shuts at 6pm**, before anything starts.
+> 💡 **The Short Version:** The real night is **Saturday 7 November**. **Alexandra Palace** goes on presale at **midday on Wednesday 2 September** and sells out. Several displays sell out, and the early-bird tiers close through late August and September. The only genuinely free display is **Coram's Fields** on the 5th, where adults must bring a child. For a free view, **Parliament Hill** has no gates and never closes — while **Greenwich Park shuts at 6pm**, before anything starts.
 
 ---
 
@@ -73,7 +73,7 @@ The event is now called the Fireworks and Drone Festival. The drones fly formati
 
 ![A drone display forming a lit figure in the night sky above Alexandra Park, watched by a crowd](../../assets/articles/bonfire-night-london/alexandra-palace-drone-show.jpg)
 
-> ⚠️ **Tickets are not on sale yet. The presale opens at 12pm on Wednesday 2 September 2026**, and the only route to early-bird pricing is the priority sign-up list. This event sells out — get on the list now rather than diarising the on-sale date.
+> ⚠️ **The presale opens at 12pm on Wednesday 2 September 2026**, and the priority sign-up list is the only route to early-bird pricing. This event sells out, so join the list rather than relying on catching the general sale.
 
 > ⚠️ **"From £10.50" is not an adult ticket.** The small print states that price is for an **11 to 15-year-old child**. Under-10s go free on Sunday, on early-bird only and subject to availability. For 2025, an advance adult ticket was **£15.50** and a child **£10.50**, so budget **£15–£18 per adult** and expect to pay more the longer you leave it.
 
@@ -85,9 +85,9 @@ Two things that changed from last year: the event has **moved off Halloween** �
 
 ---
 
-## On sale now
+## What each display costs
 
-Prices checked in late August 2026. Several early-bird tiers expire within days.
+Prices below were published by the organisers and checked in late August 2026. Several early-bird tiers close on the dates shown.
 
 | Display | Date | Prices | Notes |
 | --- | --- | --- | --- |
@@ -103,7 +103,7 @@ Prices checked in late August 2026. Several early-bird tiers expire within days.
 
 ---
 
-## On sale soon: put these in your diary
+## On-sale dates to diarise
 
 | Display | Date | Tickets on sale |
 | --- | --- | --- |
@@ -193,7 +193,7 @@ People still search for all of these.
 
 1. **One Harrow display is sold under at least twelve different names.** Sites branded for Uxbridge, Hillingdon, Wembley, Ruislip, Ealing and Pinner all sell the **same single event at Byron Park in Harrow**. There is no separate display in any of those places.
 2. **A lookalike ticket site is advertising Alexandra Palace on the wrong dates.** One secondary broker lists it for 30–31 October; the official dates are **7 and 8 November**. Its own footer admits it is a secondary broker. Book through the venue.
-3. **Battersea's own website still shows last year's content**, including a "tickets are now sold out" banner — for an event that has not gone on sale yet. Do not be put off.
+3. **Battersea's own website has been showing last year's content**, including a "tickets are now sold out" banner from the 2025 event. Check the on-sale date rather than the banner.
 4. **Croydon Road Recreation Ground is in Beckenham, not Croydon.** Searches for Croydon fireworks surface it, and it is a long way from Croydon.
 
 Listings aggregators are unusually unreliable this year — several sites headed "2026" are carrying recycled 2025 dates and prices. Go to the official page.
@@ -227,4 +227,4 @@ You can still visit the site: the Palace of Westminster is on Parliament Square,
 
 ---
 
-*Dates, prices and on-sale times are as published by the venues and organisers and checked in late August 2026. Many 2026 prices were not yet released at the time of writing — where a 2025 figure is given as a guide it is labelled as such. Park opening times are from the Royal Parks' own 2026 schedules and the relevant councils. Always check the official event page before travelling.*
+*Dates, prices and on-sale times are as published by the venues and organisers and checked in late August 2026. Some 2026 prices were unpublished at that point — where a 2025 figure is given as a guide it is labelled as such. Park opening times are from the Royal Parks' own 2026 schedules and the relevant councils. Always check the official event page before travelling.*
