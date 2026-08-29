@@ -125,13 +125,13 @@ One West End show is a horror title outright, two long-running shows do the job 
 
 ### Paranormal Activity, Ambassadors Theatre
 
-West Street, WC2H 9ND. A stage adaptation of the horror film franchise, running at the Ambassadors until **7 November 2026** — so it covers Halloween but closes shortly after, unlike the longer-running shows on this list. **2 hours 20 minutes including one interval.**
+A stage adaptation of the horror film franchise, running at the Ambassadors until **7 November 2026** — so it covers Halloween but closes shortly after, unlike the longer-running shows on this list. It is a small venue, and a good fit for the night alongside the other shows here.
 
-This one is genuinely worth booking early. It is a small venue — 444 seats — running a well-known horror title right through Halloween week with weekend and peak pricing already running around **18% above the mid-week rate**, which is usually a sign a show is filling up. **£30 rush tickets** are released via the TodayTix app at 10am daily if you want to try for a cheaper seat closer to the date, but do not rely on that as your only plan for Halloween weekend itself.
+This one is genuinely worth booking early: weekend and peak pricing is already running around **18% above the mid-week rate**, which is usually a sign a show is filling up.
 
 ### Stranger Things: The First Shadow, Phoenix Theatre
 
-Charing Cross Road, WC2H 0JP. Booking through **Sunday 27 December 2026**, so it comfortably covers Halloween. A prequel to the Netflix series, set in Hawkins in 1959, following young Jim Hopper, Bob Newby and Joyce Maldonado.
+Booking through **Sunday 27 December 2026**, so it comfortably covers Halloween. A prequel to the Netflix series, set in Hawkins in 1959, following young Jim Hopper, Bob Newby and Joyce Maldonado.
 
 Performances run Tuesday to Saturday at 7pm, with matinees Friday and Saturday at 1pm and Sunday at 3pm. **Three hours including an interval.**
 
@@ -139,11 +139,13 @@ Performances run Tuesday to Saturday at 7pm, with matinees Friday and Saturday a
 
 ### Beetlejuice, Prince Edward Theatre
 
-Old Compton Street, W1D 4HS. The stage musical of the film, currently running as a **limited West End engagement** — worth checking the closing date before you book, since it may not run right through to Halloween. Look out for **Netherworld performances**, which use fixed pricing at £30, £40 or £50 a ticket rather than the usual dynamic pricing.
+The stage musical of the film, currently running as a **limited West End engagement** — worth checking the closing date before you book, since it may not run right through to Halloween.
+
+**Look out for Netherworld performances**, a cheaper way in: fixed pricing at **£30, £40 or £50** a ticket, rather than the usual dynamic pricing that climbs closer to the show and toward Halloween itself.
 
 ### Silence, COLAB Theatre
 
-COLAB Tower, SE1 9HB. A **Halloween-specific immersive production** rather than a running show — you investigate a Southwark murder with Rev. Stanley Park, working through clues, a ritual and a puzzle while a vengeful spirit stalks the building. The premise is built around staying quiet: making a sound draws the spirit toward you.
+A **Halloween-specific immersive production** rather than a running show — you investigate a Southwark murder with Rev. Stanley Park, working through clues, a ritual and a puzzle while a vengeful spirit stalks the building. The premise is built around staying quiet: making a sound draws the spirit toward you.
 
 COLAB is a genuine immersive theatre company with a back catalogue of similar shows, rather than a seasonal pop-up — worth checking their site for exact October dates and prices before booking, since these productions tend to run for a fixed, short window.
 
