@@ -17,7 +17,7 @@ tags:
 draft: false
 faq:
   - q: "When does the Wimbledon 2027 ballot open?"
-    a: "The AELTC has not published the exact date yet, but it emailed myWimbledon members on 27 August 2026 to say the Public Ballot opens soon. The 2026 ballot ran from Tuesday 2 September to 23:59 BST on Sunday 21 September 2025, so expect a similar early-September window and roughly three weeks to apply. You must have a myWimbledon account and have opted in to 'Championships tickets, including the Wimbledon Public Ballot' to be told when it opens."
+    a: "The AELTC has not published the exact date yet, but it emailed myWimbledon members on 27 August 2026 to say the Public Ballot opens soon. The 2026 ballot ran from Tuesday 2 September to 23:59 BST on Sunday 21 September 2025, so expect a similar early-September window and two to three weeks to apply. You must have a myWimbledon account and have opted in to 'Championships tickets, including the Wimbledon Public Ballot' to be told when it opens."
   - q: "Can people from outside the UK enter the Wimbledon ballot?"
     a: "Yes. There is no separate overseas ballot any more. The application period is the same for all guests including those from overseas, and you enter online through a myWimbledon account from anywhere in the world. The only real constraint is that it is one application per household and per email address, and you must apply from your permanent home address."
   - q: "What is the LTA Wimbledon ballot and can I enter it as well?"
@@ -52,7 +52,7 @@ There are a small number of legitimate ways in, and the All England Club control
 
 The 2026 Championships drew a record **550,151 people** through the gates, and the ground has not got any bigger. The expansion into Wimbledon Park is still in court — the Court of Appeal granted objectors permission to appeal in July 2026 — so there will be no extra capacity for 2027.
 
-**The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.** Both advance ballots for those tickets are decided over the next few weeks: one closes on **31 August 2026**, the other opens days later.
+**The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.** Both advance ballots for those tickets are decided this autumn: one closes on **31 August 2026**, the other opens days later.
 
 > 💡 **The Short Version:** Enter the **AELTC Public Ballot** — it is free, open to anyone in the world, and opens in **early September**. There is also a **second, separate LTA draw that anyone over 18 can enter for £25 a year**, and you can enter both. Win that one and **you choose your day and court**, which the public ballot never lets you do. Its opt-in **closes at 23:59 on Monday 31 August 2026**. If you miss both, **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £21**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
 
@@ -64,7 +64,7 @@ The 2026 Championships drew a record **550,151 people** through the gates, and t
 | --- | --- | --- |
 | **LTA ballot opt-in closes** | **23:59, Mon 31 August 2026** | Opened 23 July. Needs LTA Advantage membership — **£25 a year, open to any adult**, or free via a club |
 | **Public Ballot opens** | **Early September 2026** (expected) | The 2026 ballot opened Tue 2 Sept 2025. AELTC emailed members on 27 Aug 2026 to say it "opens soon" |
-| **Public Ballot closes** | Roughly three weeks later | The 2026 ballot closed at **23:59 BST** on Sun 21 Sept 2025 — a hard deadline |
+| **Public Ballot closes** | Two to three weeks later | The 2026 ballot closed at **23:59 BST** on Sun 21 Sept 2025 — a hard deadline |
 | **LTA ballot draws** | September to November 2026 | Winners contacted through the balloting period |
 | **Public Ballot results** | **From October 2026** | Offers arrive by email, with a strict payment deadline |
 | **Qualifying** | The week before The Championships | Community Sports Centre, Roehampton — tickets from **£20** |
@@ -90,12 +90,12 @@ The official Wimbledon app is no longer optional. It holds your tickets, it is s
 
 The one published breakdown, reported independently by two outlets, covers **Centre Court**:
 
-| Who gets Centre Court's 14,979 seats | Seats | Share |
-| --- | --- | --- |
-| **The public** — all routes combined | ~8,014 | **53.5%** |
-| Invited guests — media, schools, overseas tennis associations | ~3,146 | 21% |
-| **Debentures** | **2,520** | **16.7%** |
-| Corporate hospitality | 1,340 | ~8.9% |
+| Who gets Centre Court's 14,979 seats | Share |
+| --- | --- |
+| **The public** — all routes combined | **53.5%** |
+| Invited guests — media, schools, overseas tennis associations | 21% |
+| **Debentures** — 2,520 seats | **16.7%** |
+| Corporate hospitality — 1,340 seats | 8.9% |
 
 Debenture seats are guaranteed to their holders for all fourteen days, so 2,520 Centre Court seats across the fortnight is **35,280 seat-days** committed before a single ballot entry is drawn.
 
@@ -107,7 +107,7 @@ Two smaller slices are documented. In 2026 the AELTC's **Family Ballot** gave ti
 
 ## Route 1: The Wimbledon Public Ballot
 
-This is the ballot that needs no membership of anything, and for most people it is the main advance route. It has run since 1924, it is free to enter, and it is genuinely random — the AELTC states that it gives no preferential treatment to people who have applied for years without success. It is the only way to buy a Show Court ticket at face value months ahead.
+This is the ballot that needs no membership of anything, and for most people it is the main advance route. It has run since 1924, it is free to enter, and it is genuinely random — the AELTC states that it gives no preferential treatment to people who have applied for years without success. It is the main way to buy a Show Court ticket at face value months ahead.
 
 ### When it runs
 
@@ -121,7 +121,7 @@ It has opened in the first days of September two years running:
 
 ### How it works
 
-You apply once, in a window of about three weeks. Successful applicants are picked by an automated random selection process and offered **up to two tickets** for one specific day on one specific court.
+You apply once, in a window of two to three weeks. Successful applicants are picked by an automated random selection process and offered **up to two tickets** for one specific day on one specific court.
 
 | | |
 | --- | --- |
@@ -187,8 +187,6 @@ The only condition is that you have to be an LTA member.
 | **One entry per** | **Household** | **Person** |
 | **Results** | From October | September to November |
 
-Two of those rows matter more than the rest.
-
 > 💡 **You choose your day and court.** The AELTC allocates one specific day on one specific court at random, it cannot be exchanged, and declining the offer removes you from that year's ballot. LTA winners pick the date and court before they pay, subject to what is still available.
 
 > 💡 **It is one entry per person, not per household.** The AELTC allows one application per household however many adults live there. The LTA lets every adult enter on their own account, and a household account holder can opt in for under-18s as well. A household of four gets one AELTC entry and four LTA entries.
@@ -234,7 +232,7 @@ Tickets are **one per person**, **non-transferable**, and **card only** — no c
 
 ### What it costs
 
-These are the 2026 prices as published by the AELTC. Expect 2027 to land close to them.
+These are the 2026 prices as published by the AELTC, and they are the same whichever route you buy through. Expect 2027 to land close to them. Note that **No.3 Court is not sold in the Queue** — it appears here because the ballot can allocate it.
 
 | | Days 1–2 | Days 3–4 | Days 5–6 | Days 7–8 | Days 9–10 | Day 11 | Day 12 | Days 13–14 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
