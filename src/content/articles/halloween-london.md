@@ -14,7 +14,7 @@ tags:
   - London experiences
   - nightlife
   - free things to do
-draft: true
+draft: false
 faq:
   - q: "When is Halloween 2026 and does it fall on a weekend?"
     a: "Halloween 2026 is Saturday 31 October — the best possible night for it. Club nights, parties and one-off events will be at full strength and the popular ones will sell out earlier than in years when it lands midweek."
@@ -86,6 +86,36 @@ An Irish attraction making its first London appearance, built inside a genuine V
 **Getting there:** Jubilee line to North Greenwich, then the 132 bus (a two-to-five-minute walk from the stop), or Southeastern rail to New Eltham or Falconwood, both a 15–20 minute walk. Free on-site parking if you are driving.
 
 Prices are not published on the event's own pages — book through [the official ticketing site](https://thenightmarerealmuk.rezgo.com/) to see the current tiers.
+
+For the traditional theme-park scare, three are genuinely worth the train fare.
+
+### Thorpe Park: Fright Nights
+
+Chertsey, Surrey. Runs on selected dates from **2 October through to 1 November 2026**, park open 10am–9pm on event nights. Five mazes for 2026 — Tenement is new — plus scare zones including Rebel Ball and The Crows.
+
+**Book online in advance**: park entry from **£39**, or entry plus the four-maze package from **£71**. Buying at the gate roughly doubles the price. Thorpe Park's own site warns that popular dates sell out — and **Saturday 31 October, Halloween itself, is the one to book earliest.** Mazes are recommended for **13 and over**; The Conjuring 4D Experience needs **15 and over**.
+
+### Chessington: Howl'o'ween
+
+Surrey, next to Thorpe Park. Runs on selected dates **3 October to 1 November 2026**. This is the family-friendly version — no scare mazes, just Halloween shows, a "Vampire's Lair" zone and trick-or-treat trails, pitched at all ages rather than teenagers and adults.
+
+Advance tickets from **£39**; under-90cm children go free.
+
+### Tulleys Farm: Shocktober Fest
+
+Crawley, West Sussex, near Gatwick. Billed as Europe's largest scream park. Open nightly from **13 October to 1 November 2026** (plus preview nights earlier in October), gates 4.30pm, haunts running 5.30pm–11.30pm.
+
+Prices are dynamic and rise toward peak dates — expect **£43–£70** for a standard pass, more with Fast Track add-ons. This is a genuinely **16+ event**: expect strong language, adult themes and one show (Carnevil Cabaret) that admits nobody under 16 regardless of who they are with. Under-16s who are admitted to the rest of the park need a paying adult with them, and 16–21-year-olds need photo ID at the gate.
+
+---
+
+## Cinema
+
+If a maze is not your thing, London's independent cinemas run entire seasons around it.
+
+**The Prince Charles Cinema** in Leicester Square is the main event. Its **HorrOctober** season runs across the whole of October 2026, with horror films programmed in the schedule most days, building to two all-night marathons on **Saturday 24 October** — a Mystery Horror Marathon and a Classic Horror Marathon, both from around £20 — and the main event on **Saturday 31 October itself**: a Halloween Marathon running the *Halloween* franchise back to back through the night, **18+, on 35mm film**. Halloween day is also programmed with individual horror screenings from mid-morning onward, including *Nosferatu* with a live score.
+
+A few independents run smaller Halloween-night screenings worth knowing about: **Genesis Cinema** in Bethnal Green shows the original 1978 *Halloween* on the night itself, and **Rio Cinema** in Dalston runs a midnight *Rocky Horror Picture Show* singalong with a live shadow cast on 31 October.
 
 ---
 
