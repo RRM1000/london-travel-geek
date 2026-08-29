@@ -50,8 +50,6 @@ Wimbledon is the only Grand Slam where you can still turn up on the day, pay fac
 
 There are a small number of legitimate ways in, and the All England Club controls every one of them. Everything else — the resale sites, the "guaranteed Wimbledon tickets" ads, the man outside Southfields station — sells you a ticket that is void on arrival.
 
-The 2026 Championships drew a record **550,151 people** through the gates, and the ground has not got any bigger. The expansion into Wimbledon Park is still in court — the Court of Appeal granted objectors permission to appeal in July 2026 — so there will be no extra capacity for 2027.
-
 **The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.** Both advance ballots for those tickets are decided this autumn: one closes on **31 August 2026**, the other opens days later.
 
 > 💡 **The Short Version:** Enter the **AELTC Public Ballot** — it is free, open to anyone in the world, and opens in **early September**. There is also a **second, separate LTA draw that anyone over 18 can enter for £25 a year**, and you can enter both. Win that one and **you choose your day and court**, which the public ballot never lets you do. Its opt-in **closes at 23:59 on Monday 31 August 2026**. If you miss both, **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £21**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
