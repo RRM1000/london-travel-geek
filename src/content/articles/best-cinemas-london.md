@@ -84,6 +84,10 @@ It is older than the Phoenix, and it has been closed and reopened so many times 
 
 The 2002 refit is what people come for: **98 leather armchairs**, some with footstools, **two enormous leather sofas across the back row**, and **double beds in the front row**. There is a full bar and no popcorn.
 
+![Rows of red leather armchairs with individual side-table lamps inside the Electric Portobello auditorium](../../assets/articles/best-cinemas-london/electric-portobello-armchairs.jpg)
+
+*Leather armchairs with individual lamps and side tables, rather than rows of standard cinema seats.*
+
 **It is not one price.** A non-member armchair is **£25** on Friday evening and all weekend, **£20** on weekday evenings, and **£15 before 5pm Monday to Friday** — the same chair for £10 less if you go in the afternoon. Front-row beds are £30–£40 and back-row sofas £40–£50, both sold for two people. **Children are £10 at any time.**
 
 ### Electric White City
