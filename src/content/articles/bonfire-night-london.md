@@ -187,17 +187,6 @@ People still search for all of these.
 
 ---
 
-## Four traps worth knowing about
-
-1. **One Harrow display is sold under at least twelve different names.** Sites branded for Uxbridge, Hillingdon, Wembley, Ruislip, Ealing and Pinner all sell the **same single event at Byron Park in Harrow**. There is no separate display in any of those places.
-2. **A lookalike ticket site is advertising Alexandra Palace on the wrong dates.** One secondary broker lists it for 30–31 October; the official dates are **7 and 8 November**. Its own footer admits it is a secondary broker. Book through the venue.
-3. **Battersea's own website has been showing last year's content**, including a "tickets are now sold out" banner from the 2025 event. Check the on-sale date rather than the banner.
-4. **Croydon Road Recreation Ground is in Beckenham, not Croydon.** Searches for Croydon fireworks surface it, and it is a long way from Croydon.
-
-Listings aggregators are unusually unreliable this year — several sites headed "2026" are carrying recycled 2025 dates and prices. Go to the official page.
-
----
-
 ## Practicalities
 
 **Dress for standing still in the cold.** London's November average is about **11°C by day and 5°C overnight**, so an evening on an exposed hilltop sits somewhere between the two — and the clear, calm nights that make for the best viewing are the coldest ones. November is also one of the wetter months in the south east, and no café is open on Parliament Hill at 8pm. Hat, gloves and a flask.
