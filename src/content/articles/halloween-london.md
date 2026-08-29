@@ -20,6 +20,8 @@ faq:
     a: "Halloween 2026 is Saturday 31 October — the best possible night for it. Club nights, parties and one-off events will be at full strength and the popular ones will sell out earlier than in years when it lands midweek."
   - q: "Where can you hire a Halloween costume in London?"
     a: "Two places will genuinely hire to a member of the public: Prangsta Costumiers in New Cross, which is appointment-only and charges £130–£350 plus VAT for a full costume with a £300 deposit, and Costume Studio in Islington, which takes walk-ins and is happy to do a single costume. Angels on Shaftesbury Avenue, the shop most guides still send people to, closed in 2014."
+  - q: "Is the London Dungeon worth it for Halloween?"
+    a: "Its Halloween 2026 page was still a 'coming soon' placeholder with no dates or prices at the time of writing. It does have a permanent Jack the Ripper scare-actor scene, but for a dedicated Ripper experience the long-running walking tours — Jack the Ripper Walking Tour by London Walks, or The Jack the Ripper Tour with its Ripper-Vision projections — are the better-reviewed choice."
 heroImage: "../../assets/articles/halloween-london/scary-carved-pumpkin-forest.jpg"
 heroImageAlt: "A fanged, monstrous jack-o'-lantern carved from a pale pumpkin, set on a stone beside a wooden cross on a leaf-covered woodland path"
 heroImageCredit: "Thomas Bresson"
@@ -122,6 +124,30 @@ A spooky-science live show for families rather than a scare — eerie fog, pumpk
 
 ---
 
+## Ghost tours
+
+Jack the Ripper walks are a genuine London institution, not just a Halloween novelty — the two best have been running year-round for decades. A couple of things to know before booking: **the Ripper walks don't all run every night**, so check the schedule against 31 October specifically, and the walking-tour trade has its share of copycats trading on famous names, so stick to operators with a long track record and a real review history.
+
+### Jack the Ripper Walking Tour, London Walks
+
+Run by London's oldest walking-tour company for more than 50 years, and the closest thing to a definitive version. **£20**, nightly at 7:30pm plus a Saturday 3pm matinee — it runs on Halloween night itself. No need to book ahead, just turn up at **Tower Hill** station.
+
+### The Jack the Ripper Tour ("Ripper-Vision")
+
+A more theatrical version: the guide projects crime-scene photographs onto the actual walls where the murders happened. **£18 adult, £10 child**, running Thursday to Sunday at 5pm and 7:30pm (Monday to Wednesday, 7:30pm only) — also on the night itself. Booking is required, and it meets at **Aldgate East**. It's the highest-reviewed Ripper walk on Tripadvisor, with well over 3,000 reviews at 4.6 out of 5.
+
+### Ghost Bus Tours
+
+Not a walk — a 75-minute comedy-horror ride around London's landmarks on a converted 1960s Routemaster double-decker. **£25 adult, £17 child, £63 family.** Meets near **Embankment**. Book through [theghostbustours.com](https://theghostbustours.com/london/buy-tickets/) — the old ghostbustours.com domain has changed hands and no longer belongs to this operator.
+
+Two more worth knowing about, though neither falls on Halloween night itself this year: **Serial Killers: The Blood and Tears Walk**, a well-reviewed look at the Ripper and nine other London murder cases, runs Wednesday to Friday only, so the closest date is Friday 30 October; and London Walks' own **Haunted London** walk runs Sundays only, landing on 1 November.
+
+**The London Dungeon** has a Jack the Ripper scene among its scare-actor sets, but its Halloween 2026 page is still just a "coming soon" placeholder with no dates or prices live yet — worth checking [their listing](https://www.thedungeons.com/london/whats-inside/events/halloween/) again nearer the time.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Halloween London Ghost Tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London ghost tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+---
+
 ## Genuinely creepy London, no theming required
 
 London does not need a Halloween season to be macabre — these places are unsettling all year round, and October just happens to be the right mood for visiting them.
@@ -143,6 +169,26 @@ London does not need a Halloween season to be macabre — these places are unset
 **The Clink Prison Museum**, 1 Clink Street, SE1 9DG, on the site of one of England's oldest prisons. **Adult £10**, open daily 10am–6pm, near London Bridge station.
 
 **Bethlem Museum of the Mind**, Monks Orchard Road, Beckenham BR3 3BX — the museum of the former Bethlem Royal Hospital, the original "Bedlam." **Free**, Wednesday to Saturday. It is out in Beckenham rather than central London, so it is a deliberate trip rather than something to fold into a day elsewhere.
+
+---
+
+## Club nights and parties
+
+Halloween falling on a Saturday means the big club nights are running at full strength, and several are already selling through their early ticket tiers months out — worth booking ahead for anything specific.
+
+**Drumsheds** hosts **elrow Horroween**, a daytime-into-night festival back after a two-year hiatus, 1pm–10.30pm, 18+, from £41.95 rising through already-sold-out early tiers to £56.95 general admission. [Book via Drumsheds](https://drumshedslondon.com/event/elrow-horroween-festival/).
+
+**Fabric** runs its regular Saturday techno booking on the night itself — not Halloween-branded, but a hot ticket regardless, 11pm–7am. A separate, student-oriented Nightmare Rave happens two nights earlier, on Thursday 29 October.
+
+**Studio 338** runs **Release Halloween**, 7pm–6am, 18+, from £17.50 rising to £30.
+
+**Club de Fromage**, the long-running Camden indie and pop night, does its Halloween special at Dingwalls, 11pm–3am, 18+.
+
+**On the river**, two Halloween boat parties cruise the Thames on the night: **Ghost Ship Boat Party** (from Westminster, 7.30pm–6am, from £21.94) and the **Silent Halloween Disco Boat** (from Tower Millennium Pier, 6.45–11pm, from £25.30, silent-disco headphones instead of a PA).
+
+For something cheaper and looser, **93 Feet East** in Shoreditch and **Electric Ballroom** in Camden both run big Halloween nights from a few pounds on the door — both have sold out in previous years, so don't leave it too late.
+
+**London's LGBTQ+ scene usually goes big for Halloween**, but as of publication Heaven, G-A-Y and The Glory hadn't yet announced their October programming — check back in September for line-ups.
 
 ---
 
