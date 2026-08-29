@@ -152,7 +152,7 @@ You apply once, in a window of two to three weeks. Successful applicants are pic
 | **When you hear** | From **October**, by email |
 | **How you pay** | Credit or debit card, by a fixed deadline, by the applicant only |
 
-**One application per household** is enforced on your permanent address — the one you are registered at on the electoral roll. Applying from a holiday home, a business address or temporary student accommodation invalidates the entry. Students, armed forces personnel and people in permanent houseshares are told to contact the AELTC rather than guess.
+**Apply from your permanent home address.** The AELTC says an application from a holiday home, a business address or temporary student accommodation is invalid. Students, armed forces personnel and people in permanent houseshares are asked to contact the ticket office.
 
 ### What you actually get offered
 
