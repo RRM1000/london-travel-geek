@@ -417,7 +417,7 @@ Plan the day around it:
 
 The single most underrated way into Wimbledon is to **turn up in the late afternoon and walk in**.
 
-Here is why it works. The Queue is only agonising while the Grounds are filling. Once capacity is reached, entry switches to **one out, one in** — and from mid-afternoon onwards a steady stream of people leave, having arrived at 10am and had enough. Every one of them frees a place. Arriving around **4pm or later**, the wait is typically short, and can be minutes rather than the six hours a pre-dawn arrival costs you.
+Here is why it works. Once capacity is reached, entry switches to **one out, one in** — and from mid-afternoon onwards a steady stream of people leave, having arrived at 10am and had enough. Every one of them frees a place. Arriving around **4pm or later**, the wait is typically short, and can be minutes rather than the six hours a pre-dawn arrival costs you.
 
 | | |
 | --- | --- |
