@@ -34,6 +34,8 @@ faq:
     a: "Yes, briefly. Temporary absence for refreshments or a toilet break should not exceed 30 minutes, and your queue card must stay with you — it is numbered, dated and strictly non-transferable, and you cannot use it to hold a place for someone else. If you camp overnight and fail to pack your tent away in the morning, stewards can remove your queue card."
   - q: "Are there showers in the Wimbledon queue?"
     a: "Not in the Queue itself — the official facilities list covers toilets, baby change, bottle refill, phone charging, left luggage and food, and no showers of any kind. The workaround is The Gym Group Southfields at 231 Wimbledon Park Road, SW18 5RJ, which is open 24 hours, has showers and lockers, sells a £12.99 day pass, and is about eight minutes' walk from the Queue on the same road."
+  - q: "Can you go to Wimbledon in the evening, and is it easier to get in?"
+    a: "Yes, and it is much easier. Once the Grounds reach capacity the Queue switches to one out, one in, so arriving from about 4pm usually means a short wait rather than a six-hour one. Ticket sales run until 8pm, Ticket Resale until 9pm, and play can continue until the 11pm curfew because Centre Court and No.1 Court both have roofs and floodlights. There is no evening discount — a Grounds Pass costs the same whenever you buy it — so what you save is the wait, not money."
   - q: "How does the Wimbledon Ticket Resale work?"
     a: "Show Court ticket holders scan out when they leave for the day and their seats are resold from 3pm. You join a virtual queue in the Wimbledon app and, if you are selected, get a text with instructions. Tickets are £15 for Centre Court and £10 for No.1 and No.2 Court, and all proceeds net of VAT go to the Wimbledon Foundation. Join the virtual queue as early in the day as you can."
   - q: "Is it legal to buy Wimbledon tickets on resale sites?"
@@ -50,7 +52,7 @@ The 2026 Championships drew a record **550,151 people** through the gates, and t
 
 **The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.** Both free ballots for those tickets are decided over the next few weeks — one closes on **31 August 2026**, the other opens days later — which makes right now the most important window in the Wimbledon year.
 
-> 💡 **The Short Version:** There are **two free advance ballots**, and both are decided in September. The **AELTC Public Ballot** opens in **early September** and is open to anyone in the world. The **LTA Advantage ballot** is a separate second chance — and its opt-in **closes at 23:59 on Monday 31 August 2026**. If you miss both, **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £21**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. Everything else is hospitality, debentures, or a scam.
+> 💡 **The Short Version:** There are **two free advance ballots**, and both are decided in September. The **AELTC Public Ballot** opens in **early September** and is open to anyone in the world. The **LTA Advantage ballot** is a separate second chance — and its opt-in **closes at 23:59 on Monday 31 August 2026**. If you miss both, **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £21**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
 
 ---
 
@@ -309,7 +311,7 @@ The pattern is consistent: **a pre-dawn arrival in the first week gets you in so
 
 And the numbers do not move in a straight line. On Day 3 of 2025 a 7.45am arrival got card 8,900; on Day 4, arriving an **hour earlier** at 6.45am produced a **worse** card of 9,900. Day-to-day variance beats any fixed rule about arrival times.
 
-> 💡 **The exception: turn up late.** Once the Grounds are full the Queue switches to one-out-one-in as people leave for the day, and it moves quickly. Arriving **after 4pm** with a Grounds Pass gets you several hours of evening tennis for the same price, with almost no wait. Ticket sales run until 8pm and the Grounds stay open until 45 minutes after the last match.
+> 💡 **There is one way to skip almost all of this.** Turn up in the late afternoon instead. See [going in the evening](#going-in-the-evening--the-best-value-day-at-wimbledon) below.
 
 Plan the day around it:
 
@@ -317,6 +319,38 @@ Plan the day around it:
 - **Do not plan anything before mid-afternoon.** If you are meeting people, meet them inside.
 - **Sun and rain both hurt.** You are in an open field with no shelter for hours. Hat, sun cream, waterproof.
 - **Something to sit on matters more than you think.** A cheap foam mat earns its place — but remember a camping chair cannot come into the Grounds and will cost you a left-luggage stop.
+
+### Going in the evening — the best-value day at Wimbledon
+
+![Spectators sitting on the grass of The Hill at Wimbledon watching the big screen on the side of No.1 Court in the evening](../../assets/articles/wimbledon-tickets-guide/wimbledon-the-hill-big-screen.jpg)
+
+Almost everything written about The Queue assumes you want to be there at dawn. You do not have to be. The single most underrated way into Wimbledon is to **turn up in the late afternoon and walk in**.
+
+Here is why it works. The Queue is only agonising while the Grounds are filling. Once capacity is reached, entry switches to **one out, one in** — and from mid-afternoon onwards a steady stream of people leave, having arrived at 10am and had enough. Every one of them frees a place. Arriving around **4pm or later**, the wait is typically short, and can be minutes rather than the six hours a pre-dawn arrival costs you.
+
+| | |
+| --- | --- |
+| **Best time to arrive** | **From about 4pm** |
+| **Typical wait** | Short — one-out-one-in rather than a queue of thousands |
+| **Ticket sales close** | **8pm** |
+| **Ticket Resale runs until** | **9pm** (registration at Parkside from 10am to 9pm) |
+| **Grounds close** | 45 minutes after the last match |
+| **Latest play can run** | **11pm** |
+
+**What you get for it.** Play on the outside courts runs into the evening, and both **Centre Court and No.1 Court have roofs and floodlights** — so the biggest matches of the day are often still going long after the light has gone. Play can continue until the **11pm curfew**, a Merton Council planning condition imposed in 2009 when the Centre Court roof was built and extended to No.1 Court when its roof opened in 2019. Some of the most famous matches in recent Wimbledon history have finished under lights at quarter to eleven at night.
+
+With a Grounds Pass you watch that on the **big screen on The Hill**, which after about 6pm becomes the best place in the Grounds: the crowds have thinned, the queues for food have gone, the light is beautiful, and you are watching Centre Court on a giant screen with a drink on the grass for the price of a ticket that also let you wander the outside courts all evening.
+
+> 💡 **And you can still get a Show Court seat.** Ticket Resale runs to **9pm** and registration is open from 10am, so a late Grounds Pass does not lock you out of it. A 4pm arrival, a £21–£33 Grounds Pass and a £15 resale seat is the cheapest realistic route onto Centre Court that exists.
+
+**The honest trade-offs:**
+
+- **There is no evening discount.** A Grounds Pass costs the same at 4pm as at 8am — £33 in the first week, dropping to £21 for the last three days. Only Qualifying has a cut-price late ticket. What you save is the six-hour wait, not money.
+- **You will miss the day's early matches**, and some outside courts will already have finished.
+- **Food and shops wind down**, and on a day where play ends early there may be very little left to watch.
+- **On a rain-hit day this backfires** — play may be abandoned before you get in, and tickets bought after 5pm are not eligible for a curtailment refund.
+
+**Getting home.** Last trains from Southfields towards central London run to about **00:56 Monday to Saturday**, so an 11pm finish is comfortable. **Sunday is tighter — the last train is around 00:07**, which matters on middle Sunday and finals day.
 
 ### The morning timetable
 
@@ -426,8 +460,6 @@ Blue Badge parking is free in **Car Park 6** on Church Road but must be booked i
 ---
 
 ## Route 4: Ticket Resale, once you are inside
-
-![Spectators sitting on the grass of The Hill at Wimbledon watching the big screen on the side of No.1 Court in the evening](../../assets/articles/wimbledon-tickets-guide/wimbledon-the-hill-big-screen.jpg)
 
 This is the route most visitors never use, and it turns a £33 Grounds Pass into a Centre Court seat for £15.
 
