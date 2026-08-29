@@ -21,7 +21,7 @@ faq:
   - q: "Can people from outside the UK enter the Wimbledon ballot?"
     a: "Yes. There is no separate overseas ballot any more. The application period is the same for all guests including those from overseas, and you enter online through a myWimbledon account from anywhere in the world. The only real constraint is that it is one application per household and per email address, and you must apply from your permanent home address."
   - q: "What is the LTA Wimbledon ballot and can I enter it as well?"
-    a: "Yes, and you should. The LTA runs its own random ballot for Advantage members, entirely separate from the AELTC Public Ballot, and you can enter both. You need a Fan+ (£25 a year), Play+ (free, for members of an LTA-registered venue) or Compete (£35 a year) membership and must opt in during the window — for 2027 that closes at 23:59 on Monday 31 August 2026. Its big advantage over the public ballot is that winners choose their day and court rather than being allocated one at random."
+    a: "Only if you are an LTA member — this one is not open to the general public, unlike the AELTC Public Ballot. You need a Fan+ (£25 a year), Play+ (free, for members of an LTA-registered venue) or Compete (£35 a year) LTA Advantage membership, and you must opt in during the window; for 2027 that closes at 23:59 on Monday 31 August 2026. If you are eligible it is well worth doing, because you can enter both ballots, and LTA winners choose their day and court rather than being allocated one at random."
   - q: "How long do you have to wait in the Wimbledon queue?"
     a: "Plan for most of the morning. Arriving at around 6.30am on a first-week day, it took us roughly six hours to get from joining the Queue to being inside the Grounds — so a little after midday. The gates open at 10am, but entry runs strictly in queue card number order and the Grounds fill at a controlled rate, so 'gates open' is not the same as 'you get in'. The second week is quicker."
   - q: "What time does the first Tube get to Southfields for the Wimbledon queue?"
@@ -70,6 +70,15 @@ The 2026 Championships drew a record **550,151 people** through the gates, and t
 | **The Championships** | **Mon 28 June – Sun 11 July 2027** | Confirmed by the AELTC |
 
 > ⚠️ **Do the myWimbledon step today, not when the ballot opens.** Signing up for a myWimbledon account is *not* the same as entering the ballot, but you cannot enter without one — and you will not be told the ballot has opened unless you have ticked **'Championships tickets, including the Wimbledon Public Ballot'** in the Email Consents and Preferences section of your profile. Add `info@championships.aeltc-email.com` to your safe senders while you are there; the AELTC's own advice is that its ballot emails routinely land in spam.
+
+### Get the app before you do anything else
+
+The official Wimbledon app is no longer optional. It holds your tickets, it is scanned when you check into The Queue and again when you buy, and it is the only way to join the Ticket Resale virtual queue inside the Grounds. Sign in with the same email as your myWimbledon account.
+
+- **iPhone and iPad:** [Wimbledon on the App Store](https://apps.apple.com/gb/app/id319284643)
+- **Android:** [Wimbledon on Google Play](https://play.google.com/store/apps/details?id=com.ibm.events.android.wimbledon)
+
+> ⚠️ **Check your phone is new enough.** The 2026 app required iOS 18 or later, which means **iPhone XR, XS, 11 or newer** — and devices still on iOS 17 had to update even if the handset was on that list. If you are queueing overnight on an old phone, find this out at home rather than at the ticket sales tent. Bring a power bank too: the app is the one thing you cannot afford to have a flat battery for.
 
 ---
 
@@ -136,9 +145,11 @@ Access arrives by email and is tied to your unsuccessful application — there i
 
 ---
 
-## Route 2: The LTA ballot — the second draw most people miss
+## Route 2: The LTA ballot — members only, and widely missed
 
-This is the most overlooked route into Wimbledon, and it is entirely separate from the AELTC's Public Ballot. **You can enter both.**
+> ⚠️ **This one is not open to the general public.** Unlike the AELTC ballot above, you cannot enter the LTA ballot as a member of the public — you have to hold an **LTA Advantage membership** first. If that rules you out, skip to [The Queue](#route-3-the-queue).
+
+For those who are eligible it is the most overlooked route into Wimbledon, it is entirely separate from the AELTC's Public Ballot, and **you can enter both**.
 
 The Lawn Tennis Association, British tennis's governing body, runs its own centralised random ballot for **LTA Advantage members**, plus separate ballots for accredited coaches, venue volunteers and licensed officials. You opt in through your online Advantage area during a fixed window.
 
