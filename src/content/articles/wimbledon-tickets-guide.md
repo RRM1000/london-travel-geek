@@ -172,7 +172,7 @@ The only condition is that you have to be an LTA member. That sounds like a barr
 
 > 💡 **What almost everyone reading this needs: LTA Advantage Fan+, £25 a year.** Any adult aged 18 or over can sign up online in a few minutes. You do not have to play tennis, belong to a club, or have any connection to the sport. Join, then opt in to the Wimbledon ballot in your Advantage account — the opt-in is a separate step, and joining alone does not enter you.
 
-> ⚠️ **The 2027 opt-in closes at 23:59 on Monday 31 August 2026.** If you are reading this in late August, this is the deadline to act on first — the AELTC's own ballot has not opened yet.
+> ⚠️ **The 2027 opt-in closes at 23:59 on Monday 31 August 2026.**
 
 **Two exceptions worth thirty seconds of your time.** If you already belong to a tennis club, check whether it is LTA-registered: the **Play+** tier is **free** and carries the same ballot entry. And if you play in competitions, **Compete** at £35 includes it too. Otherwise, Fan+ is the one. Note that plain **Fan** and plain **Play** are free but include **no ballot entry** — it is the *plus* tiers that count.
 
