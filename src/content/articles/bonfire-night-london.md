@@ -71,7 +71,7 @@ The event is now called the Fireworks and Drone Festival. The drones fly formati
 
 ![A drone display forming a lit figure in the night sky above Alexandra Park, watched by a crowd](../../assets/articles/bonfire-night-london/alexandra-palace-drone-show.jpg)
 
-> ⚠️ **The presale opens at 12pm on Wednesday 2 September 2026**, and the priority sign-up list is the only route to early-bird pricing. This event sells out, so join the list rather than relying on catching the general sale.
+> ⚠️ **The presale opens at 12pm on Wednesday 2 September 2026**, and the [priority sign-up list](https://signup.fireworks.london/) is the only route to early-bird pricing. This event sells out, so join the list rather than relying on catching the general sale.
 
 **Expect around £15–£18 for an adult and £11–£12 for a child**, based on 2025 prices of £15.50 and £10.50 in advance. Under-10s go free on the Sunday, on early-bird tickets only.
 
@@ -91,13 +91,13 @@ Prices below were published by the organisers and checked in late August 2026. S
 
 | Display | Date | Prices | Notes |
 | --- | --- | --- | --- |
-| **Stow Firework Spectacular**, Walthamstow | **5, 6 and 7 Nov**, gates 16:00 | Adult **£11** · Child 6–15 **£5** · Under-5 **£1** · Family **£27** | Two displays, 6pm and 8pm, one ticket covers both. **Online only, no gate sales.** Sold out four years running |
-| **Harrow Fireworks + Diwali**, Byron Park | **Sat 7 Nov**, fireworks ~19:45 | Adult **£12.95** · Child 3–15 **£8.95** · Under-3 free · VIP £41.95 | **Cash only on the gate.** Printed tickets only — phones are not accepted |
-| **Southgate**, The Walker Ground | **Sat 7 Nov**, fireworks and drones 19:30 | Adult **£13** · Child **£8.50** · Family **£39** · Under-5 free | **Early bird ends 1 September.** Sold out in 2025 |
-| **Dulwich Sports Club** | **Sat 7 Nov**, fireworks ~19:00 | Adult **£13** · Junior 12–16 **£8** · **Under-12s £1** | "Kids for a Quid". Adult tier closes 23 Oct. No gate sales |
-| **Kempton Park**, Sunbury | **Sat 7 Nov**, fireworks 19:30 | **From £10** | Last entry 7pm. Funfair to 10pm. Kempton Park station from Waterloo |
-| **Enfield Town Park** | **Sat 31 Oct**, display ~18:30 | Adult **£14.70** · Under-16 **£10** · Under-5 **£4** | **Early bird ends 31 August.** No gate sales, and **tickets must be collected in person** before the day |
-| **Bonfire Night on the Thames** | **Sat 7 Nov**, boards 19:00 | Adult **£50** · Child **£45** | Boat from Festival Pier with buffet and DJ, viewing the Battersea display |
+| **[Stow Firework Spectacular](https://www.stowfireworkspectacular.co.uk/)**, Walthamstow | **5, 6 and 7 Nov**, gates 16:00 | Adult **£11** · Child 6–15 **£5** · Under-5 **£1** · Family **£27** | Two displays, 6pm and 8pm, one ticket covers both. **Online only, no gate sales.** Sold out four years running |
+| **[Harrow Fireworks + Diwali](https://harrowfireworks.co.uk/)**, Byron Park | **Sat 7 Nov**, fireworks ~19:45 | Adult **£12.95** · Child 3–15 **£8.95** · Under-3 free · VIP £41.95 | **Cash only on the gate.** Printed tickets only — phones are not accepted |
+| **[Southgate](https://www.eventbrite.co.uk/e/the-walker-ground-fireworks-2026-tickets-1997391432543)**, The Walker Ground | **Sat 7 Nov**, fireworks and drones 19:30 | Adult **£13** · Child **£8.50** · Family **£39** · Under-5 free | **Early bird ends 1 September.** Sold out in 2025 |
+| **[Dulwich Sports Club](https://www.eventbrite.co.uk/e/dulwich-firework-display-2026-kids-for-a-quid-tickets-1991896534154)** | **Sat 7 Nov**, fireworks ~19:00 | Adult **£13** · Junior 12–16 **£8** · **Under-12s £1** | "Kids for a Quid". Adult tier closes 23 Oct. No gate sales |
+| **[Kempton Park](https://www.thejockeyclub.co.uk/kempton/events-tickets/fireworks/)**, Sunbury | **Sat 7 Nov**, fireworks 19:30 | **From £10** | Last entry 7pm. Funfair to 10pm. Kempton Park station from Waterloo |
+| **[Enfield Town Park](https://www.dugdaleartscentre.co.uk/whats-on/town-park-fireworks)** | **Sat 31 Oct**, display ~18:30 | Adult **£14.70** · Under-16 **£10** · Under-5 **£4** | **Early bird ends 31 August.** No gate sales, and **tickets must be collected in person** before the day |
+| **[Bonfire Night on the Thames](https://www.londonpartyboats.co.uk/tickets/bonfire-night-on-the-thames/229)** | **Sat 7 Nov**, boards 19:00 | Adult **£50** · Child **£45** | Boat from Festival Pier with buffet and DJ, viewing the Battersea display |
 
 > ⚠️ **Campfire Club at Cody Dock** appears in fireworks listings but is **live music and a bonfire, not a fireworks display**. Worth going to on its own terms — just do not turn up expecting rockets.
 
@@ -107,14 +107,14 @@ Prices below were published by the organisers and checked in late August 2026. S
 
 | Display | Date | Tickets on sale |
 | --- | --- | --- |
-| **Richmond Family Fireworks** | Sun 1 Nov | **Tue 1 September**, early bird to 30 Sept |
-| **Alexandra Palace** | Sat 7 and Sun 8 Nov | **Wed 2 September, 12pm presale** |
-| **Battersea Park** | Two nights, **dates not yet announced** | **Tue 8 September** — presale 09:00, general midday |
-| **Bromley High School** | Sat 7 Nov | **Mon 28 September** |
+| **[Richmond Family Fireworks](https://www.rag-events.co.uk/major-public-events-at-the-rag/richmond-family-fireworks/)** | Sun 1 Nov | **Tue 1 September**, early bird to 30 Sept |
+| **[Alexandra Palace](https://www.alexandrapalace.com/whats-on/fireworks-drone-festival/)** | Sat 7 and Sun 8 Nov | **Wed 2 September, 12pm presale** |
+| **[Battersea Park](https://www.batterseaparkfireworks.com/)** | Two nights, **dates not yet announced** | **Tue 8 September** — presale 09:00, general midday |
+| **[Bromley High School](https://www.eventbrite.co.uk/e/bromley-high-fireworks-2026-tickets-1992816335304)** | Sat 7 Nov | **Mon 28 September** |
 | **West Wickham** (Rotary) | Sat 7 Nov | **1 October** — capped at 1,550, no gate sales |
-| **Beckenham Charity Fireworks** | Sat 7 Nov | Not announced — mailing list only, **never any gate sales** |
-| **Blackheath** | Expected early Nov, **not confirmed** | Not announced — sign-up only |
-| **Merton**: Wimbledon Park and Morden Park | **Wimbledon Park Thu 5 Nov · Morden Park Sat 7 Nov** | Not announced — mailing list only |
+| **[Beckenham Charity Fireworks](https://www.beckenhamfireworks.com/)** | Sat 7 Nov | Not announced — mailing list only, **never any gate sales** |
+| **[Blackheath](https://www.blackheathfireworks.com/)** | Expected early Nov, **not confirmed** | Not announced — sign-up only |
+| **[Merton](https://www.merton.gov.uk/fireworks)**: Wimbledon Park and Morden Park | **Wimbledon Park Thu 5 Nov · Morden Park Sat 7 Nov** | Not announced — mailing list only |
 
 **Richmond has sold out four years running**, grandstand seats go first, and **under-5s still need a ticket**. Parking is £10, advance only, and sold out last year.
 
@@ -124,7 +124,7 @@ Prices below were published by the organisers and checked in late August 2026. S
 
 ## The one free display
 
-**Coram's Fields**, Guilford Street, Bloomsbury WC1N 1DN — **Thursday 5 November 2026**. Gates 15:30, performances from 16:15, **display at 18:00**, closes 19:00. Free, no ticket, first come first served, with a capacity of around 6,000.
+**[Coram's Fields](https://coramsfields.org/event/fireworks-night-2026/)**, Guilford Street, Bloomsbury WC1N 1DN — **Thursday 5 November 2026**. Gates 15:30, performances from 16:15, **display at 18:00**, closes 19:00. Free, no ticket, first come first served, with a capacity of around 6,000.
 
 > ⚠️ **Adults may only attend accompanied by a child.** Coram's Fields is a children's park run by a children's charity, and that rule applies all year round. There is also a paid fast-track tier to skip the queue, so "free" comes with an upsell.
 
