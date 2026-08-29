@@ -108,11 +108,6 @@ They are on opposite sides of the Greenwich Peninsula and are **not walkable fro
 
 What is at North Greenwich: **The O2**, one of the busiest arenas in the world, with the **Up at The O2** roof climb over the dome; the **IFS Cloud Cable Car** across the river to the Royal Docks; and the **Design District**, a cluster of small studios and a good canteen.
 
-![A red and white IFS Cloud Cable Car cabin crossing high above the Thames, with the O2 dome and the Canary Wharf skyline behind](../../assets/articles/greenwich-area-guide/ifs-cloud-cable-car.jpg)
-
-*The IFS Cloud Cable Car crossing to the Royal Docks, with the O2 and Canary Wharf behind. Contactless is accepted, and it counts as a TfL journey.*
-
-
 ![The red brick and glass domed rotunda entrance to the Greenwich Foot Tunnel beside the Thames](../../assets/articles/greenwich-area-guide/greenwich-foot-tunnel-rotunda.jpg)
 
 *The southern rotunda of the Greenwich Foot Tunnel, beside the Cutty Sark. The lifts run during staffed hours; the stairs are always open.*
@@ -137,7 +132,7 @@ Up behind the Maritime Museum. The Observatory at the top, the deer in The Wilde
 *The view north from the hill: the Queen's House and Naval College below, Canary Wharf across the river, the O2 to the right.*
 
 ### The riverside and the Foot Tunnel
-West past the Cutty Sark to the tunnel entrance and the Trafalgar Tavern.
+The Foot Tunnel entrance is right at the pier, beside the Cutty Sark. Head east along the river instead for the Trafalgar Tavern, past the Naval College.
 
 ![The Trafalgar Tavern's riverside terrace strung with rows of colourful nautical signal flags](../../assets/articles/greenwich-area-guide/trafalgar-tavern.jpg)
 
@@ -145,10 +140,18 @@ West past the Cutty Sark to the tunnel entrance and the Trafalgar Tavern.
 
 ![The cast-iron ribbed interior of the Greenwich Foot Tunnel running under the Thames](../../assets/articles/greenwich-area-guide/foot-tunnel-interior.jpg)
 
-*Inside the Foot Tunnel. Opened in 1902, free, and open at all hours — the stairs work even when the lifts are not staffed.*
+*Inside the Foot Tunnel. Opened in 1902, free, and open at all hours.*
 
 ### Greenwich Peninsula and North Greenwich
-Two miles north. The O2, the cable car and the Design District.
+Two miles north, and a different world from the Maritime Greenwich end of the peninsula — modern, arena-scale, and built around The O2 rather than around history.
+
+**The O2 is not just the arena.** Wrapped around the dome is **Outlet Shopping at The O2** — over 60 discount and outlet stores (adidas, Nike, Calvin Klein, Tommy Hilfiger, Guess, Next and others), open the same hours as the rest of the complex. Alongside it: more than 30 bars and restaurants, a **Cineworld cinema**, **bowling**, and a **trampoline park**, on top of the **Up at The O2** roof climb and whatever is playing in the arena itself. It works as a destination on a day with no concert ticket at all.
+
+![A red and white IFS Cloud Cable Car cabin crossing high above the Thames, with the O2 dome and the Canary Wharf skyline behind](../../assets/articles/greenwich-area-guide/ifs-cloud-cable-car.jpg)
+
+*The IFS Cloud Cable Car crossing to the Royal Docks, with the O2 and Canary Wharf behind. Contactless is accepted, and it counts as a TfL journey.*
+
+The **Design District** sits opposite the arena, a minute from North Greenwich station — 16 low-rise buildings by eight different architects, holding small design studios, workspaces and a straightforward canteen. Worth a look if The O2 itself feels too retail-heavy.
 
 ## Where to eat and drink
 
