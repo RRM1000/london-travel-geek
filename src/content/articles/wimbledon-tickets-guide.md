@@ -119,8 +119,6 @@ It has opened in the first days of September two years running:
 | **2026** | Tue 2 September 2025 | **23:59 BST**, Sun 21 September 2025 | From October 2025 |
 | **2027** | Not yet announced | Not yet announced | **From October 2026** |
 
-> 💡 **The published deadline is not always the real one.** The 2026 ballot was first reported as closing on Tuesday 16 September 2025. It actually closed on Sunday 21 September, with the AELTC still posting "last chance" reminders on the 19th. Work to the first date you are given, but if you miss it, check before you give up.
-
 ### How it works
 
 You apply once, in a window of about three weeks. Successful applicants are picked by an automated random selection process and offered **up to two tickets** for one specific day on one specific court.
