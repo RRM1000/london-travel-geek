@@ -14,7 +14,17 @@ import { writeTab, readTab, ensureTab, getSheets, SHEET_ID } from "./sheets.mjs"
 import fs from "node:fs";
 import path from "node:path";
 
+// TODAY is the date a PERSON last verified this data, and it is deliberately
+// frozen: statusChecked and dealChecked claim that someone looked, so they must
+// never advance just because the script ran again. Move it by hand when a
+// verification pass actually happens.
 const TODAY = "2026-08-17";
+
+// RUN_DATE is when the script ran, which is a different question. It is the only
+// honest value for "when did this slug first appear in our data" and for ageing
+// a deal - both were previously stamped with TODAY, so First Seen was a build
+// stamp identical on every row and no deal could ever read as stale.
+const RUN_DATE = new Date().toISOString().slice(0, 10);
 
 // ------------------------------------------------------------- geography ---
 // Zone and District are keyed off Neighbourhood, so a row never carries a
@@ -12954,11 +12964,15 @@ for (const r of rows) {
   if (!existing) added++;
   registry[r.slug] = {
     name: r.name,
-    firstSeen: existing?.firstSeen ?? TODAY,
-    lastSeen: TODAY,
+    firstSeen: existing?.firstSeen ?? RUN_DATE,
+    lastSeen: RUN_DATE,
     status: r.status,
   };
 }
+// The registry is the only place a real first-seen date exists, so the column
+// reads back from it rather than from `base`, which carried TODAY for every row.
+for (const r of rows) r.firstSeen = registry[r.slug].firstSeen;
+
 fs.mkdirSync("data", { recursive: true });
 fs.writeFileSync(
   REGISTRY_PATH,
@@ -13121,7 +13135,7 @@ console.log(`  area guide    ${open.length - noArea} placed, ${noArea} unplaced`
 const STALE_DAYS = 90;
 const withDeals = rows.filter((r) => String(r.deals ?? "").trim());
 if (withDeals.length) {
-  const now = new Date(TODAY);
+  const now = new Date(RUN_DATE);
   const age = (d) => Math.round((now - new Date(d)) / 86400000);
   console.log(`\nDEALS (${withDeals.length} rows):`);
   for (const r of withDeals) {

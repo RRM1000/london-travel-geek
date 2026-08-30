@@ -164,7 +164,8 @@
   ],
   "knownGaps": [
     "Community tier (E) is still EMPTY. Two Apify Reddit runs on 2026-08-30 returned nothing usable - the first was not scoped to a subreddit and matched globally viral posts, the second was scoped to r/london but the search terms did not bind and returned meetup and supermarket threads. About $0.95 spent for zero citations. Reddit is also blocked to curl (returns HTML) and to the browser pane by policy. Needs a different approach before it is retried.",
-    "Video tier collected 2026-08-30 via Apify: 11 channels, 48 names, ~$0.10. Two channels named nothing extractable (@RestroSpot, @BBinLondon) and are not recorded; @bonappetit is New York."
+    "Video tier collected 2026-08-30 via Apify: 11 channels, 48 names, ~$0.10. Two channels named nothing extractable (@RestroSpot, @BBinLondon) and are not recorded; @bonappetit is New York.",
+    "First Seen is now a real per-slug date, fixed 2026-08-30. It reads from data/slugs.json, which records when a slug first appeared. The 750 rows that predate the fix all read 2026-08-17, the date the registry started - that is when we first recorded them, not when they opened. A 'new openings' section can use it from now on."
   ],
   "currentState": {
     "recorded": "2026-08-30",
