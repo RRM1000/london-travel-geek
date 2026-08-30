@@ -55118,8 +55118,8 @@
       "general",
       "pizza"
     ],
-    "sourceCount": 8,
-    "tierSpread": "A1 B1 C1 D5",
+    "sourceCount": 6,
+    "tierSpread": "A1 B1 C1 D3",
     "tierCount": 4,
     "hasAward": true,
     "sources": [
@@ -55144,18 +55144,6 @@
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
-      },
-      {
-        "tier": "D",
-        "source": "@brunchbytube (TikTok)",
-        "url": "https://www.tiktok.com/@brunchbytube",
-        "quote": "Crowned pizza of the year 2025. SYNDICATION - originating source is 50 Top Pizza"
-      },
-      {
-        "tier": "D",
-        "source": "Find Eat Go (YouTube)",
-        "url": "https://www.youtube.com/@FindEatGo",
-        "quote": "Reports the 50 Top Pizza result. SYNDICATION - originating source is 50 Top Pizza"
       },
       {
         "tier": "D",
@@ -87038,7 +87026,7 @@
         "tier": "D",
         "source": "@eat.snack.repeat (TikTok)",
         "url": "https://www.tiktok.com/@eat.snack.repeat",
-        "quote": "Described as national pizza of the year 2025 - SYNDICATION - originating source is the National Pizza Awards"
+        "quote": "Named on a 20-venue list of the creator's own picks, described there as national pizza of the year 2025"
       }
     ]
   },
@@ -88193,23 +88181,6 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      }
-    ]
-  },
-  "thisisrealauthenticnapolipizza": {
-    "name": "This is real authentic Napoli pizza!",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "D1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "D",
-        "source": "Find Eat Go (YouTube)",
-        "url": "https://www.youtube.com/@FindEatGo"
       }
     ]
   },

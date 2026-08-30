@@ -342,18 +342,6 @@
       "_note": "UNORDERED guide - no ranks. Shares theinfatuation.com with the power ranking below."
     },
     {
-      "name": "@brunchbytube",
-      "url": "https://www.tiktok.com/@brunchbytube",
-      "scope": "pizza",
-      "names": [
-        "Napoli on the Road"
-      ],
-      "quotes": {
-        "Napoli on the Road": "Crowned pizza of the year 2025. SYNDICATION - originating source is 50 Top Pizza"
-      },
-      "recorded": "2026-08-30"
-    },
-    {
       "name": "@dens_destinations",
       "url": "https://www.tiktok.com/@dens_destinations",
       "scope": "pizza",
@@ -395,7 +383,7 @@
         "Dinner for 100"
       ],
       "quotes": {
-        "Short Road Pizza": "Described as national pizza of the year 2025 - SYNDICATION - originating source is the National Pizza Awards"
+        "Short Road Pizza": "Named on a 20-venue list of the creator's own picks, described there as national pizza of the year 2025"
       },
       "recorded": "2026-08-30",
       "_note": "Numbered 1-16 but the caption says explicitly 'in no particular order'. The numbers are NOT ranks."
@@ -524,27 +512,6 @@
         "Detroit Pizza London": "Visited as supposedly the best pizza in the country"
       },
       "recorded": "2026-08-30",
-      "_note": "Channel URL only."
-    },
-    {
-      "name": "Find Eat Go (YouTube)",
-      "url": "https://www.youtube.com/@FindEatGo",
-      "scope": "pizza",
-      "channel": "@FindEatGo",
-      "videos": [
-        {
-          "title": "The London Pizza Awarded Best in the World - Behind the Scenes at Busy Pizzeria",
-          "url": "https://www.youtube.com/watch?v=uECDlkQpiHg",
-          "published": "2026-04-16"
-        }
-      ],
-      "names": [
-        "Napoli on the Road",
-        "This is real authentic Napoli pizza!"
-      ],
-      "quotes": {
-        "Napoli on the Road": "Reports the 50 Top Pizza result. SYNDICATION - originating source is 50 Top Pizza"
-      },
       "_note": "Channel URL only."
     },
     {
@@ -723,5 +690,6 @@
   "_droppedUnverifiedHandles": [
     "tiktok.com/@francescacipolla (Vasiniko), @annamaria (Carmela's Pizzeria), @calvin (Carmy's)",
     "Handles were reconstructed from display names and could not be verified. Recording a guessed handle would let a channel that may not exist count as an independent opinion. Carmy's has no other citation and therefore leaves the corpus entirely."
-  ]
+  ],
+  "_syndicationResolved": "2026-08-30: dropped @brunchbytube and Find Eat Go, whose only contribution was restating 50 Top Pizza's ranking of Napoli on the Road. Kept @eat.snack.repeat, an independently curated 20-venue list. See the syndication rule in .claude/skills/consensus-guide/SKILL.md."
 }

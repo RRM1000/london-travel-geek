@@ -35,7 +35,7 @@ Which is why the judges cannot agree either. The Italians give it to a Neapolita
 > 💡 **The Short Version:** **Short Road Pizza** won National Pizza of the Year 2025 and tops Time Out's London list. **Napoli on the Road** is first in Europe. **Crisp Pizza** is named by more sources than anything else in London. **50 Kalò** is the closest good pizza to the tourist centre. **Ria's** does Detroit. **Rudy's** and **Yard Sale** are the reliable walk-ins.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **33 sources carrying 266 citations** across **133 named pizzerias** — the judged awards (50 Top Pizza, the National Pizza Awards), the editorial mastheads (Time Out, The Infatuation, Country & Town House) and the year's major London pizza videos. **48 pizzerias are named by two or more independent sources; 23 carry a dated award.**
+> Nothing here is ranked on one visit. This pass reads **31 sources carrying 263 citations** across **132 named pizzerias** — the judged awards (50 Top Pizza, the National Pizza Awards), the editorial mastheads (Time Out, The Infatuation, Country & Town House) and the year's major London pizza videos. **48 pizzerias are named by two or more independent sources; 23 carry a dated award.**
 > **The known weakness in this topic:** no inspectorate covers London pizza the way Michelin covers restaurants, so outside the two annual awards this ranking rests on editorial and creator consensus — which favours places that get written about over places that are merely good.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
@@ -88,7 +88,7 @@ Ugo and Kate started it on Short Road in Leytonstone, which is where the name co
 
 ### Napoli on the Road, Chiswick
 
-*££ · Chiswick · 8 min from Turnham Green · Cited by 8 sources · #1 in Europe, 50 Top Pizza · #16 of 21, Time Out · [book a table](https://www.sevenrooms.com/explore/napoliontheroadsoho/reservations)*
+*££ · Chiswick · 8 min from Turnham Green · Cited by 6 sources · #1 in Europe, 50 Top Pizza · #16 of 21, Time Out · [book a table](https://www.sevenrooms.com/explore/napoliontheroadsoho/reservations)*
 
 First in Europe three consecutive years, judged on Neapolitan technique by the ranking that takes it most seriously. It started as a truck touring London's food markets and is now in a quiet stretch of Chiswick, about forty minutes from the centre.
 
