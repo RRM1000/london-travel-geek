@@ -41,6 +41,7 @@ const MAPS = [
     list: "best-indian",
     ranked: true,
     streetFoodFormats: ["Market Stall", "Counter"],
+    tableOnly: ["empire-empire", "gujarati-rasoi", "horn-ok-please", "jikoni", "kanishka", "kokum", "kolkati", "punjab-covent-garden", "rasa-stoke-newington", "shree-krishna-vada-pav", "tamarind", "tayyabs"],
     article: "src/content/articles/best-indian-restaurants-london.md",
   },
   {
@@ -52,7 +53,7 @@ const MAPS = [
     // but they get no anchor, because there is no heading to land on. Listing
     // them here makes that an editorial decision rather than a silent miss:
     // anything NOT on this list that lacks a heading still fails loudly below.
-    tableOnly: ["graceys-pizza", "sarvs-slice", "lardo", "roma-pizza"],
+    tableOnly: ["50-kalo", "connies-pizza", "franco-manca", "graceys-pizza", "homeslice", "homeslice--city", "homeslice--marylebone", "homeslice--neal-s-yard", "japes", "lantica-pizzeria-da-michele", "lantica-pizzeria-da-michele--baker-street", "lantica-pizzeria-da-michele--stoke-newington", "lardo", "napoli-on-the-road-soho", "pizza-pilgrims", "rias-notting-hill", "roma-pizza", "rudys-pizza-napoletana", "santa-maria-pizzeria", "santa-maria-pizzeria--fitzrovia", "santa-maria-pizzeria--fulham", "santa-maria-pizzeria--islington", "santa-maria-pizzeria--kew", "santa-maria-pizzeria--paddington", "sarvs-slice", "spring-street-pizza", "sud-italia", "zia-lucia", "zia-lucia--aldgate-east", "zia-lucia--canary-wharf", "zia-lucia--chelsea", "zia-lucia--hammersmith", "zia-lucia--islington", "zia-lucia--wandsworth", "zia-lucia--wembley", "zia-lucia--west-hampstead"],
     article: "src/content/articles/best-pizza-london.md",
   },
   {
@@ -103,7 +104,7 @@ const MAPS = [
     streetFoodFormats: ["Market Stall", "Counter"],
     // Named in the area table or the value list but with no section of their
     // own, so no anchor. They still earn a pin.
-    tableOnly: ["il-gattopardo", "gymkhana", "muccis", "zelman-meats"],
+    tableOnly: ["brutto", "gymkhana", "ibai", "il-gattopardo", "lurra", "lutyens-grill", "macellaio-rc", "muccis", "sagardi", "zelman-meats"],
     article: "src/content/articles/best-steak-restaurants-london.md",
   },
   {
@@ -122,6 +123,7 @@ const MAPS = [
       "ave-mario": "#ave-mario-covent-garden-and-circolo-popolare-fitzrovia",
       ornella: "#ornella-london-fields--milanese",
     },
+    tableOnly: ["al-boccon-divino", "al-dente", "ave-mario", "cafe-murano", "icco-pizza", "langosteria-london", "muccis", "sale-e-pepe-mare"],
     article: "src/content/articles/best-italian-restaurants-london.md",
   },
   {

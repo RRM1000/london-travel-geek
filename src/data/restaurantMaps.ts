@@ -115,7 +115,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.507026,
       longitude: -0.147241,
       type: "editorial",
-      articleAnchor: "#tamarind-mayfair",
     },
     {
       name: "Oudh 1722",
@@ -145,7 +144,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.513108,
       longitude: -0.141748,
       type: "editorial",
-      articleAnchor: "#kanishka-mayfair",
     },
     {
       name: "Quilon",
@@ -164,7 +162,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.562071,
       longitude: -0.076376,
       type: "editorial",
-      articleAnchor: "#rasa-stoke-newington",
     },
     {
       name: "Kokum",
@@ -174,7 +171,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.462105,
       longitude: -0.069637,
       type: "editorial",
-      articleAnchor: "#kokum-east-dulwich",
     },
     {
       name: "Kricket",
@@ -195,7 +191,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.517965,
       longitude: -0.203558,
       type: "editorial",
-      articleAnchor: "#empire-empire-notting-hill",
       videoUrl: "https://www.youtube.com/watch?v=6mDJrJFvllo&t=1095s",
     },
     {
@@ -227,7 +222,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.518324,
       longitude: -0.153153,
       type: "editorial",
-      articleAnchor: "#jikoni-marylebone",
     },
     {
       name: "Tayyabs",
@@ -237,18 +231,7 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.517099,
       longitude: -0.065957,
       type: "editorial",
-      articleAnchor: "#tayyabs-whitechapel",
       videoUrl: "https://www.youtube.com/watch?v=AHUnqeRroYk&t=228s",
-    },
-    {
-      name: "City Spice",
-      area: "Brick Lane",
-      price: "££",
-      station: "Aldgate East",
-      latitude: 51.521722,
-      longitude: -0.071484,
-      type: "editorial",
-      articleAnchor: "#city-spice-brick-lane",
     },
     {
       name: "Punjab",
@@ -258,7 +241,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.514755,
       longitude: -0.125985,
       type: "editorial",
-      articleAnchor: "#punjab-covent-garden",
     },
     {
       name: "Shree Krishna Vada Pav",
@@ -268,7 +250,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.516568,
       longitude: -0.139344,
       type: "streetfood",
-      articleAnchor: "#shree-krishna-vada-pav-fitzrovia",
     },
     {
       name: "Horn OK Please",
@@ -278,7 +259,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.5055,
       longitude: -0.091,
       type: "streetfood",
-      articleAnchor: "#horn-ok-please-borough",
     },
     {
       name: "Gujarati Rasoi",
@@ -288,7 +268,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.5055,
       longitude: -0.091,
       type: "streetfood",
-      articleAnchor: "#gujarati-rasoi-borough",
     },
     {
       name: "Kolkati",
@@ -298,7 +277,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.5135,
       longitude: -0.1265,
       type: "streetfood",
-      articleAnchor: "#kolkati-covent-garden",
     },
   ],
   "pizza-london": [
@@ -320,7 +298,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.507211,
       longitude: -0.128269,
       type: "editorial",
-      articleAnchor: "#50-kalò-trafalgar-square",
     },
     {
       name: "L'Antica Pizzeria da Michele",
@@ -330,7 +307,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.522541,
       longitude: -0.158229,
       type: "editorial",
-      articleAnchor: "#lantica-pizzeria-da-michele-marylebone",
     },
     {
       name: "Connie's Pizza",
@@ -340,7 +316,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.473923,
       longitude: -0.057172,
       type: "editorial",
-      articleAnchor: "#connies-pizza-peckham",
     },
     {
       name: "Homeslice",
@@ -350,7 +325,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.51453,
       longitude: -0.126556,
       type: "editorial",
-      articleAnchor: "#homeslice-covent-garden",
     },
     {
       name: "Pizza Pilgrims",
@@ -360,7 +334,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.514942,
       longitude: -0.133213,
       type: "editorial",
-      articleAnchor: "#pizza-pilgrims-soho",
     },
     {
       name: "Santa Maria",
@@ -370,7 +343,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.512417,
       longitude: -0.305754,
       type: "editorial",
-      articleAnchor: "#santa-maria-ealing",
     },
     {
       name: "Zia Lucia",
@@ -380,7 +352,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.549575,
       longitude: -0.108644,
       type: "editorial",
-      articleAnchor: "#zia-lucia-holloway",
     },
     {
       name: "Franco Manca",
@@ -390,7 +361,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.515457,
       longitude: -0.136175,
       type: "editorial",
-      articleAnchor: "#franco-manca-soho",
     },
     {
       name: "Roma Pizza",
@@ -429,7 +399,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.514277,
       longitude: -0.132663,
       type: "editorial",
-      articleAnchor: "#japes-soho",
     },
     {
       name: "Bad Boy Pizza Society",
@@ -449,7 +418,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.519803,
       longitude: -0.07563,
       type: "streetfood",
-      articleAnchor: "#sud-italia-spitalfields",
     },
     {
       name: "Dough Hands",
@@ -526,7 +494,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.513266,
       longitude: -0.133526,
       type: "editorial",
-      articleAnchor: "#rudys-pizza-napoletana-soho",
     },
     {
       name: "Ria's",
@@ -536,7 +503,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.51839,
       longitude: -0.204319,
       type: "editorial",
-      articleAnchor: "#rias-notting-hill",
     },
     {
       name: "Spring Street Pizza",
@@ -546,7 +512,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.504133,
       longitude: -0.094619,
       type: "editorial",
-      articleAnchor: "#spring-street-pizza-borough",
     },
     {
       name: "Vincenzo's",
@@ -566,7 +531,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.514567,
       longitude: -0.134482,
       type: "editorial",
-      articleAnchor: "#napoli-on-the-road-soho-soho",
     },
   ],
   "fish-and-chips-london": [
@@ -1747,7 +1711,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.513674,
       longitude: -0.090748,
       type: "editorial",
-      articleAnchor: "#lutyens-grill-city-of-london",
     },
     {
       name: "Sagardi",
@@ -1757,7 +1720,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.525306,
       longitude: -0.08053,
       type: "editorial",
-      articleAnchor: "#sagardi-shoreditch",
     },
     {
       name: "Zelman Meats",
@@ -1776,7 +1738,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.514675,
       longitude: -0.161299,
       type: "editorial",
-      articleAnchor: "#lurra-marylebone",
     },
     {
       name: "Ibai",
@@ -1786,7 +1747,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.518166,
       longitude: -0.099352,
       type: "editorial",
-      articleAnchor: "#ibai-farringdon",
     },
     {
       name: "Macellaio RC",
@@ -1796,7 +1756,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.492793,
       longitude: -0.177249,
       type: "editorial",
-      articleAnchor: "#macellaio-rc-south-kensington",
     },
     {
       name: "Brutto",
@@ -1806,7 +1765,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.519657,
       longitude: -0.102519,
       type: "editorial",
-      articleAnchor: "#brutto-clerkenwell",
     },
   ],
   "italian-london": [
@@ -1838,7 +1796,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.506255,
       longitude: -0.125282,
       type: "editorial",
-      articleAnchor: "#langosteria-london-westminster",
     },
     {
       name: "Sale e Pepe Mare",
@@ -1848,7 +1805,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.517729,
       longitude: -0.143923,
       type: "editorial",
-      articleAnchor: "#sale-e-pepe-mare-marylebone",
     },
     {
       name: "Sale e Pepe",
@@ -1901,16 +1857,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       articleAnchor: "#macellaio-rc-south-kensington--piedmontese",
     },
     {
-      name: "Bar Etna",
-      area: "Newington Green",
-      price: "£££",
-      station: "Canonbury",
-      latitude: 51.551519,
-      longitude: -0.086019,
-      type: "editorial",
-      articleAnchor: "#bar-etna-newington-green--sicilian-american",
-    },
-    {
       name: "Trullo",
       area: "Highbury",
       price: "£££",
@@ -1960,7 +1906,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.482918,
       longitude: -0.178334,
       type: "editorial",
-      articleAnchor: "#muccis-chelsea",
     },
     {
       name: "ICCO",
@@ -1970,7 +1915,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.519439,
       longitude: -0.13607,
       type: "editorial",
-      articleAnchor: "#icco-fitzrovia",
     },
     {
       name: "Al Dente",
@@ -1980,7 +1924,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.519071,
       longitude: -0.136099,
       type: "streetfood",
-      articleAnchor: "#al-dente-fitzrovia",
     },
     {
       name: "Lina Stores",
@@ -2000,7 +1943,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.512152,
       longitude: -0.120082,
       type: "editorial",
-      articleAnchor: "#café-murano-covent-garden",
     },
     {
       name: "Ave Mario",
@@ -2010,7 +1952,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.510873,
       longitude: -0.123911,
       type: "editorial",
-      articleAnchor: "#ave-mario-covent-garden-and-circolo-popolare-fitzrovia",
     },
     {
       name: "Forza Wine",
@@ -2029,7 +1970,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.459504,
       longitude: -0.304489,
       type: "editorial",
-      articleAnchor: "#al-boccon-divino-richmond",
     },
   ],
   "cocktail-bars-london": [

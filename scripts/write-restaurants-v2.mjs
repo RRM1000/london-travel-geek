@@ -2006,7 +2006,7 @@ const rows = [
     signature: "Confit potatoes",
     goodFor: "date, groups",
     signals: "4 sources - the strongest British consensus",
-    lists: "nicest-dining",
+    lists: "nicest-dining, sunday-roast:13",
     source: "consensus 4/8 domains - NEEDS VERIFYING",
   },
   {
@@ -2052,7 +2052,7 @@ const rows = [
     signature: "Brown butter and honey tart",
     goodFor: "groups, date",
     signals: "3 sources: The Infatuation, Eater London, British Food Crew",
-    lists: "sunday-roast:3, showstopper",
+    lists: "showstopper, sunday-roast:4",
     source: "consensus 3/8 domains - NEEDS VERIFYING",
   },
   {
@@ -2067,7 +2067,7 @@ const rows = [
     bookingLead: "weeks",
     goodFor: "date, groups",
     signals: "3 sources: Balance Journal, The Infatuation, British Food Crew",
-    lists: "sunday-roast:5, nicest-dining",
+    lists: "nicest-dining, sunday-roast:7",
     source: "consensus 3/8 domains - NEEDS VERIFYING",
   },
   {
@@ -2080,7 +2080,7 @@ const rows = [
     angle: "value",
     goodFor: "groups, families",
     signals: "3 sources: Eater London, Time Out, British Food Crew",
-    lists: "sunday-roast:6",
+    lists: "sunday-roast:3",
     source: "consensus 3/8 domains - NEEDS VERIFYING",
   },
   {
@@ -2113,6 +2113,7 @@ const rows = [
     bookingLead: "walk-in",
     goodFor: "business, solo",
     signals: "2 sources: The Infatuation, Eater London",
+    lists: "seafood",
     source: "consensus 2/8 domains - NEEDS VERIFYING",
   },
   {
@@ -2139,7 +2140,7 @@ const rows = [
     angle: "contrast",
     goodFor: "families, groups",
     signals: "UK Top 50 Gastropubs 2026 - #20", awardYear: "2026",
-    lists: "sunday-roast:8",
+    lists: "sunday-roast:2",
     source: "consensus 2/8 domains - NEEDS VERIFYING",
   },
   {
@@ -2152,7 +2153,7 @@ const rows = [
     angle: "value",
     goodFor: "groups, large-groups, families",
     signals: "UK Top 50 Gastropubs 2026 - #9", awardYear: "2026",
-    lists: "sunday-roast:2",
+    lists: "sunday-roast:9",
     source: "consensus 2/8 domains; Time Out - NEEDS VERIFYING",
   },
   {
@@ -2167,7 +2168,7 @@ const rows = [
     outdoor: "terrace",
     goodFor: "families, groups",
     signals: "2 sources: The Infatuation, British Food Crew",
-    lists: "sunday-roast:11",
+    lists: "sunday-roast:5",
     source: "consensus 2/8 domains - NEEDS VERIFYING",
   },
   {
@@ -2181,7 +2182,7 @@ const rows = [
     angle: "dish",
     goodFor: "groups, date",
     signals: "2 sources: Time Out, The Infatuation",
-    lists: "sunday-roast:7",
+    lists: "sunday-roast",
     source: "consensus 2/8 domains - NEEDS VERIFYING",
   },
   {
@@ -2194,7 +2195,7 @@ const rows = [
     angle: "room",
     goodFor: "groups, families",
     signals: "2 sources: Time Out, British Food Crew",
-    lists: "sunday-roast:9",
+    lists: "",
     source: "consensus 2/8 domains - NEEDS VERIFYING",
   },
 
@@ -2571,6 +2572,7 @@ const rows = [
     bookingLead: "walk-in",
     goodFor: "groups, solo",
     signals: "Landmark - the first gastropub, 1991",
+    lists: "sunday-roast",
     source: "video-research chapters (RestroSpot); widely documented - NEEDS VERIFYING",
   },
   {
@@ -2597,7 +2599,7 @@ const rows = [
     whyGo: "A Kentish Town pub rebuilt around an open fire, and one of the most talked-about openings of recent years.",
     angle: "room",
     goodFor: "date, groups",
-    lists: "sunday-roast:4",
+    lists: "sunday-roast:10",
     source: "video-research chapters (RestroSpot) - NEEDS VERIFYING",
   },
   {
@@ -2651,7 +2653,7 @@ const rows = [
     signature: "Side-by-side cuts across three beef traditions",
     signals: "5 sources across 3 tiers, including video",
     goodFor: "celebration, date",
-    lists: "best-steak:6",
+    lists: "best-steak:6, sunday-roast",
     source: "consensus 5/6 domains (Time Out, Olive, Luxury London, Walk Eat London, Harrison Webb); dorchestercollection.com verified 2026-08-25",
   },
   {
@@ -2745,7 +2747,7 @@ const rows = [
     signature: "All In, £28pp - beef, pork and lamb chops on flatbreads",
     signals: "3 sources; five London sites",
     goodFor: "groups, large-groups",
-    lists: "sunday-roast:10, best-value, best-steak:3",
+    lists: "best-value, best-steak:3, sunday-roast:11",
     source: "consensus 3/15 domains; theblacklock.com - branches already researched",
   },
   {
@@ -2760,7 +2762,7 @@ const rows = [
     signature: "Sunday roast with bone-marrow gravy",
     bookingLead: "weeks",
     goodFor: "celebration, business, groups",
-    lists: "sunday-roast:12, nicest-dining, best-steak:1",
+    lists: "nicest-dining, best-steak:1, sunday-roast:12",
     source: "thehawksmoor.com - branches already researched, 6 of 7 named",
   },
   {
@@ -3143,7 +3145,7 @@ const rows = [
     opSummary: "NOT the same pub as The Bull, which is also in Highgate and also on this list. Different sites, different owners - keep the two rows distinct.",
     goodFor: "families, groups",
     signals: "Estrella Damm Top 50 Gastropubs - #39", awardYear: "2026",
-    lists: "sunday-roast",
+    lists: "sunday-roast:8",
     source: "Estrella Damm Top 50 2026 via Time Out; The Infatuation - NEEDS VERIFYING",
   },
   {
@@ -3156,6 +3158,7 @@ const rows = [
     angle: "access",
     goodFor: "groups, date",
     signals: "Estrella Damm Top 50 Gastropubs - #43", awardYear: "2026",
+    lists: "sunday-roast",
     source: "Estrella Damm Top 50 2026 via Time Out - NEEDS VERIFYING",
   },
   {
@@ -3703,7 +3706,7 @@ const rows = [
     whyGo: "The Brick Lane curry house that gets named most often when people argue about which of them is still worth eating at.",
     angle: "contrast",
     goodFor: "groups, families",
-    lists: "best-indian:23",
+    lists: "",
     signals: "video pass; Brick Lane",
     source: "video-research descriptions - NEEDS VERIFYING",
   },
@@ -3823,7 +3826,7 @@ const rows = [
     opSummary: "Sibling to The Tamil Prince, also in Islington - two separate pubs, not two names for one.",
     goodFor: "groups, date",
     signals: "2 sources",
-    lists: "sunday-roast",
+    lists: "sunday-roast:6",
     source: "consensus 2/12 domains; video-research (Harrison Webb, postcode) - NEEDS VERIFYING",
   },
   {
@@ -4018,7 +4021,7 @@ const rows = [
     bookingLead: "weeks",
     goodFor: "date, groups, business",
     signals: "3 domains; National Restaurant Awards top 100",
-    lists: "nicest-dining, sunday-roast, breakfast",
+    lists: "nicest-dining, breakfast, sunday-roast:14",
     source: "consensus 3/32 domains (Time Out, Good Food Guide, British Food Crew); National Restaurant Awards - NEEDS VERIFYING",
   },
   {
@@ -4979,7 +4982,7 @@ const rows = [
     bookingLead: "walk-in",
     outdoor: "pavement",
     goodFor: "quick, solo, date",
-    lists: "",
+    lists: "seafood",
     source: "boroughmarket.org.uk trader listing",
   },
   {
@@ -5013,7 +5016,7 @@ const rows = [
     outdoor: "pavement",
     foodOffer: "hot-food",
     goodFor: "quick, groups, date",
-    lists: "best-value, markets, showstopper",
+    lists: "best-value, markets, showstopper, seafood",
     source: "Time Out best street food markets and food halls; multiple market guides",
   },
   {
@@ -7266,6 +7269,7 @@ const rows = [
     bookingLead: "weeks",
     noise: "loud",
     goodFor: "date, groups",
+    lists: "seafood",
     source: "consensus 3/6 domains (Time Out, London The Inside, Forbes)",
   },
   {
@@ -7773,7 +7777,7 @@ const rows = [
     angle: "chef",
     bookingLead: "weeks",
     goodFor: "celebration, business, date",
-    lists: "nicest-dining, special-occasion",
+    lists: "nicest-dining, special-occasion, seafood",
     source: "general-excellence pass 2/10 domains; lilibetsrestaurant.com",
   },
   {
@@ -8070,6 +8074,7 @@ const rows = [
     bookingLead: "weeks",
     noise: "loud",
     goodFor: "date, solo, groups",
+    lists: "sunday-roast",
     source: "consensus 2/5 domains; general-excellence pass 3 domains",
   },
   {
@@ -8615,7 +8620,7 @@ const rows = [
     angle: "dish",
     bookingLead: "weeks",
     goodFor: "date, celebration",
-    lists: "nicest-dining",
+    lists: "nicest-dining, seafood",
     source: "consensus 3/6 domains (Time Out, Absolutely, Luxury London). NEIGHBOURHOOD NEEDS VERIFYING.",
   },
   {
@@ -9610,7 +9615,7 @@ const rows = [
     outdoor: "terrace",
     goodFor: "date, solo, groups",
     signals: "Michelin Guide listed",
-    lists: "nicest-dining",
+    lists: "nicest-dining, seafood",
     source: "new-openings pass 4/14 domains; VERIFIED via Wallpaper and Restaurant Online - moved to 243 Pavilion Road, opened 29 May 2026.",
   },
   {
@@ -9779,7 +9784,7 @@ const rows = [
     bookingLead: "weeks",
     noise: "loud",
     goodFor: "date, groups, solo",
-    lists: "nicest-dining, best-italian:11",
+    lists: "nicest-dining",
     source: "new-openings pass 3/14 domains; VERIFIED via Time Out, The Infatuation and Broadsheet - opened 7 May 2026, 47 Newington Green. Ed McIlroy (Four Legs, The Plimsoll) with Joe Beddia. ADDED LATE - I verified it, cleared it from pending, and omitted the row; caught by a slug check.",
   },
   // ================================ COFFEE ================================
@@ -10254,7 +10259,7 @@ const rows = [
     signature: "Oysters",
     bookingLead: "days",
     goodFor: "date, groups, business",
-    lists: "",
+    lists: "seafood",
     source: "Battersea research pass; OpenTable Battersea list. Several sites - branch rows NEEDS VERIFYING.",
   },
   {
@@ -12541,7 +12546,7 @@ const rows = [
     signature: "Lobster noodles",
     noise: "loud",
     goodFor: "groups, families, celebration",
-    lists: "",
+    lists: "seafood",
     source: "The Infatuation best Chinese (Feb 2026); Time Out - cross-checked 2026-08-23. Queensway has no area guide.",
   },
   {

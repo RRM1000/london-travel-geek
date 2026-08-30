@@ -1,0 +1,117 @@
+{
+  "topic": "sunday-roast",
+  "article": "src/content/articles/best-sunday-roast-london.md",
+  "headTerm": "Sunday Roast",
+  "status": "re-collected 2026-08-30; video tier is the strongest tier in this topic; community tier thin (1 name)",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. This file records what is specific to Sunday roast: the one award that covers it, the fact that the award does not actually judge the roast, and the ranks the previous article got wrong.",
+  "awardBodies": [
+    {
+      "name": "Estrella Damm Top 50 Gastropubs",
+      "domain": "top50gastropubs.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "The only judged, dated ranking touching this topic, and it RANKS THE PUB, NOT THE ROAST. Every quote recorded from it says so. Read the ranks from top50gastropubs.com itself and not from press coverage - a Hot Dinners write-up of the announcement is tier B and collapses the award into a masthead.",
+      "extendedList": "The site publishes 1-50 and a separate 51-100 extension on the same page. Three London pubs the guide covers sit in the extension - The Camberwell Arms #60, The Parakeet #61, The Drapers Arms #67 - and an extended-list place must be labelled as one, because '#60' and '#60 of the top 50' are different claims."
+    }
+  ],
+  "correctionsToPreviousArticle": [
+    "The Camberwell Arms was published as 'UK Top 50 Gastropubs 2026 - #9' and as 'the highest-placed London pub after The Devonshire'. It is #60, on the extended 51-100 list, and at least ten London pubs place above it.",
+    "The Red Lion & Sun was published as '#20'. It is #3 - the second-highest London pub in the country and by some distance the biggest thing the old article buried.",
+    "The article ran two identical 'What a roast costs, and where the value is' sections.",
+    "The Bull (Highgate, own brewery) and The Bull & Last (Highgate, #39) are different pubs 500m apart. data/name-aliases.json records why they must not merge."
+  ],
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "tier": "B",
+      "ranked": true,
+      "note": "RANKED 1-28, and its ranking disagrees with everyone else's - The Golden Tooth at #1, The Macbeth at #4, and no Devonshire, Blacklock, Hawksmoor or Harwood Arms anywhere on it. Ranks recorded 2026-08-30. That disagreement is worth printing rather than smoothing over."
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "tier": "B",
+      "ranked": false,
+      "note": "17 names with a verdict each, in the page's JSON-LD. The JSON writes the description BEFORE the venue name and interposes the street address as its own 'name' field, so a naive pairing attaches every verdict to the wrong pub. Its entry for 'The George' is what identifies that pub as the Fitzrovia one."
+    },
+    {
+      "name": "Sphere Magazine",
+      "domain": "spherelife.com",
+      "tier": "B",
+      "ranked": false
+    },
+    {
+      "name": "DesignMyNight",
+      "domain": "designmynight.com",
+      "tier": "B",
+      "ranked": false
+    },
+    {
+      "name": "Pub Guide London",
+      "domain": "pubguidelondon.com",
+      "tier": "C",
+      "ranked": false
+    }
+  ],
+  "facetAxis": {
+    "note": "Sunday roast splits by WHAT THE ROOM IS, because that decides the price, the booking lead and whether children and dogs are welcome - none of which a ranking tells you.",
+    "axes": [
+      {
+        "field": "format",
+        "values": [
+          {
+            "key": "neighbourhood-pub",
+            "label": "Neighbourhood pub",
+            "describeAs": "a local for six days a week, a destination on the seventh"
+          },
+          {
+            "key": "destination-pub",
+            "label": "Destination pub",
+            "describeAs": "booked out weeks ahead, and the roast is the reason people travel"
+          },
+          {
+            "key": "michelin-pub",
+            "label": "Michelin-starred pub"
+          },
+          {
+            "key": "steakhouse",
+            "label": "Steakhouse roast",
+            "describeAs": "sharing platters priced per head - Blacklock and Hawksmoor"
+          },
+          {
+            "key": "dining-room",
+            "label": "Restaurant dining room",
+            "describeAs": "not a pub at all; no bar, no dogs, a different kind of afternoon"
+          }
+        ]
+      }
+    ]
+  },
+  "knownGaps": [
+    "THE AWARD DOES NOT JUDGE THE ROAST. This is the structural weakness of the topic and the article says so in its evidence block. The Estrella Damm ranking is of the pub as a whole; a pub can place highly on it and serve an ordinary Sunday lunch. No dated, judged ranking of London Sunday roasts exists.",
+    "COMMUNITY TIER IS ALMOST EMPTY. r/london contributed one name (The Gun), backed by nothing else. Reddit is blocked to curl and to the browser pane.",
+    "The video tier carries more weight here than in any other topic: Blacklock's five sunday-roast citations are ALL tier D, and its editorial support belongs to the steak corpus, not this one. Printed as such rather than blended.",
+    "Time Out's list and the gastropub ranking share almost no names. Two of the sources point at genuinely different pubs, which is a finding, not noise."
+  ],
+  "currentState": {
+    "recorded": "2026-08-30",
+    "sources": 19,
+    "citations": 119,
+    "namesInCorpus": 86,
+    "twoPlusDomains": 22,
+    "tierACitations": 23,
+    "articleExists": true,
+    "meetingTheBar": 16
+  },
+  "openVenueQuestions": [
+    "8 named venues have no Restaurants v2 row: The Baring, The Drapers Arms, The Macbeth, The George (Fitzrovia), Roe, Clapton Country Club, The Clarence Tavern, The Kerfield Arms.",
+    "There is no sunday-roast map key in scripts/export-restaurant-map.mjs; adding one needs coordinates for the rows above, which is a BILLED Places call."
+  ],
+  "videoTier": {
+    "collected": "2026-08-30",
+    "channels": 12,
+    "method": "Apify api-ninja/youtube-search-scraper, geo=GB. Handles came back from the YouTube API, so none was reconstructed.",
+    "note": "Harrison Webb's roast video is a two-month, GBP1,000 survey and is a recommendation. Check the framing before recording names from a creator - the same channel's steakhouse video is a takedown, and recording its names would score a takedown as a recommendation."
+  }
+}

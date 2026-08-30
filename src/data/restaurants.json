@@ -1,18 +1,18 @@
 {
- "generated": "2026-08-26",
- "count": 798,
+ "generated": "2026-08-30",
+ "count": 817,
  "withCoords": 741,
  "facets": {
   "cuisine": [
    {
     "value": "British",
     "slug": "british",
-    "count": 209
+    "count": 210
    },
    {
     "value": "Italian",
     "slug": "italian",
-    "count": 137
+    "count": 154
    },
    {
     "value": "Chinese",
@@ -42,7 +42,7 @@
    {
     "value": "Modern European",
     "slug": "modern-european",
-    "count": 31
+    "count": 32
    },
    {
     "value": "Korean",
@@ -154,7 +154,7 @@
    {
     "value": "Mayfair",
     "slug": "mayfair",
-    "count": 56
+    "count": 57
    },
    {
     "value": "Shoreditch",
@@ -164,7 +164,7 @@
    {
     "value": "Marylebone",
     "slug": "marylebone",
-    "count": 32
+    "count": 33
    },
    {
     "value": "South Bank",
@@ -184,16 +184,16 @@
    {
     "value": "Hackney",
     "slug": "hackney",
-    "count": 22
-   },
-   {
-    "value": "City Of London",
-    "slug": "city-of-london",
-    "count": 20
+    "count": 23
    },
    {
     "value": "Islington",
     "slug": "islington",
+    "count": 21
+   },
+   {
+    "value": "City Of London",
+    "slug": "city-of-london",
     "count": 20
    },
    {
@@ -227,6 +227,11 @@
     "count": 11
    },
    {
+    "value": "Chelsea",
+    "slug": "chelsea",
+    "count": 11
+   },
+   {
     "value": "Greenwich",
     "slug": "greenwich",
     "count": 11
@@ -235,11 +240,6 @@
     "value": "Peckham",
     "slug": "peckham",
     "count": 11
-   },
-   {
-    "value": "Chelsea",
-    "slug": "chelsea",
-    "count": 10
    },
    {
     "value": "Paddington",
@@ -269,7 +269,7 @@
    {
     "value": "Wapping",
     "slug": "wapping",
-    "count": 7
+    "count": 8
    },
    {
     "value": "Battersea",
@@ -301,17 +301,22 @@
    {
     "value": "grill",
     "slug": "grill",
-    "count": 151
+    "count": 152
    },
    {
     "value": "small-plates",
     "slug": "small-plates",
-    "count": 142
+    "count": 143
    },
    {
     "value": "street-food",
     "slug": "street-food",
     "count": 94
+   },
+   {
+    "value": "pizza",
+    "slug": "pizza",
+    "count": 80
    },
    {
     "value": "pasta",
@@ -322,11 +327,6 @@
     "value": "seasonal",
     "slug": "seasonal",
     "count": 77
-   },
-   {
-    "value": "pizza",
-    "slug": "pizza",
-    "count": 62
    },
    {
     "value": "seafood",
@@ -351,7 +351,7 @@
    {
     "value": "wine-led",
     "slug": "wine-led",
-    "count": 37
+    "count": 38
    },
    {
     "value": "deli",
@@ -483,12 +483,12 @@
    {
     "value": "££",
     "slug": "price-2",
-    "count": 306
+    "count": 324
    },
    {
     "value": "£££",
     "slug": "price-3",
-    "count": 204
+    "count": 205
    },
    {
     "value": "£",
@@ -542,9 +542,9 @@
     "special-occasion",
     "best-italian:2"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-italian-restaurants | https://balancejournal.co/food-drink/best-italian-restaurants-london"
+   "sourceCount": "3",
+   "sourceTiers": "A1 B1 C1",
+   "sourceUrls": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london | https://www.timeout.com/london/restaurants/londons-best-italian-restaurants | https://balancejournal.co/food-drink/best-italian-restaurants-london"
   },
   {
    "slug": "trullo",
@@ -584,8 +584,8 @@
     "nicest-dining",
     "best-italian:12"
    ],
-   "sourceCount": "9",
-   "sourceTiers": "B6 C3",
+   "sourceCount": "10",
+   "sourceTiers": "B6 C3 D1",
    "sourceUrls": "https://www.timeout.com/london/restaurants/best-restaurants-in-london | https://www.theinfatuation.com/london/guides/best-restaurants-london | https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
   },
   {
@@ -627,8 +627,8 @@
     "best-italian:15"
    ],
    "video": "https://youtu.be/bXKwEfHnA7c",
-   "sourceCount": "7",
-   "sourceTiers": "B4 C3",
+   "sourceCount": "9",
+   "sourceTiers": "B4 C3 D2",
    "sourceUrls": "https://london.eater.com/maps/best-italian-restaurants-london | https://thesaucemag.com/best-italian-restaurants-in-london/ | https://www.thehandbook.com/best-pasta-restaurants-london/"
   },
   {
@@ -745,8 +745,8 @@
     "best-italian:14"
    ],
    "video": "https://youtu.be/a6sx9OCMEpw?t=209",
-   "sourceCount": "4",
-   "sourceTiers": "B1 C2 D1",
+   "sourceCount": "6",
+   "sourceTiers": "B1 C2 D3",
    "sourceUrls": "https://www.thehandbook.com/best-pasta-restaurants-london/ | https://thenudge.com/bib-gourmands-in-london/ | https://balancejournal.co/food-drink/best-italian-restaurants-london"
   },
   {
@@ -784,8 +784,8 @@
     "best-value",
     "best-italian:13"
    ],
-   "sourceCount": "8",
-   "sourceTiers": "B5 C3",
+   "sourceCount": "9",
+   "sourceTiers": "B5 C3 D1",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-italian-restaurants | https://www.countryandtownhouse.com/food-and-drink/best-italian-restaurants-in-london/ | https://luxlifelondon.com/best-italian-restaurants-london/"
   },
   {
@@ -855,9 +855,9 @@
     "best-steak:13",
     "best-italian:8"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B3 C1",
-   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262 | https://www.timeout.com/london/restaurants/londons-best-italian-restaurants | https://london.eater.com/maps/best-italian-restaurants-london"
+   "sourceCount": "5",
+   "sourceTiers": "B4 C1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-restaurants-london | https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262 | https://www.timeout.com/london/restaurants/londons-best-italian-restaurants"
   },
   {
    "slug": "lina-stores",
@@ -967,9 +967,9 @@
     "showstopper",
     "best-italian:1"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B2 C1",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-italian-restaurants-london | https://london.eater.com/maps/best-italian-restaurants-london | https://secretldn.com/best-italian-restaurants-in-london/"
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 C1",
+   "sourceUrls": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london | https://www.theinfatuation.com/london/guides/best-italian-restaurants-london | https://london.eater.com/maps/best-italian-restaurants-london"
   },
   {
    "slug": "cecconis-mayfair",
@@ -1004,8 +1004,8 @@
    ],
    "whyGo": "Soho House group's all-day Mayfair room behind the Royal Academy - wraparound windows, striped marble, white-jacketed service.",
    "opNote": "Serves through the day, from egg-white omelette to lobster spaghetti.",
-   "sourceCount": "3",
-   "sourceTiers": "B2 D1",
+   "sourceCount": "4",
+   "sourceTiers": "B2 D2",
    "sourceUrls": "https://www.countryandtownhouse.com/food-and-drink/best-italian-restaurants-in-london/ | https://luxlifelondon.com/best-italian-restaurants-london/ | https://www.youtube.com/@HarrisonWebb97"
   },
   {
@@ -1075,9 +1075,9 @@
     "business"
    ],
    "whyGo": "Italian cooking through British produce, from the Clove Club team.",
-   "sourceCount": "8",
-   "sourceTiers": "B6 C2",
-   "sourceUrls": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326 | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed | https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+   "sourceCount": "11",
+   "sourceTiers": "A1 B6 C2 D2",
+   "sourceUrls": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london | https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326 | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
   },
   {
    "slug": "circolo-popolare",
@@ -1116,9 +1116,9 @@
     "showstopper"
    ],
    "video": "https://youtu.be/a6sx9OCMEpw?t=69",
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/big-mamma-power-rankings | https://www.hot-dinners.com/Gastroblog/Test-drive/circolo-poplare-big-mamma-london-restaurant-review-italian-fitzrovia-oxford-street"
+   "sourceCount": "3",
+   "sourceTiers": "B1 C1 D1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/big-mamma-power-rankings | https://www.hot-dinners.com/Gastroblog/Test-drive/circolo-poplare-big-mamma-london-restaurant-review-italian-fitzrovia-oxford-street | https://www.youtube.com/@topjaw"
   },
   {
    "slug": "bon-vino",
@@ -1148,7 +1148,10 @@
     "date"
    ],
    "whyGo": "Neighbourhood Italian near London Bridge, picked out by TOPJAW alongside Flour & Grape.",
-   "video": "https://youtu.be/a6sx9OCMEpw?t=406"
+   "video": "https://youtu.be/a6sx9OCMEpw?t=406",
+   "sourceCount": "1",
+   "sourceTiers": "D1",
+   "sourceUrls": "https://www.youtube.com/@topjaw"
   },
   {
    "slug": "flour-and-grape",
@@ -1183,9 +1186,9 @@
     "best-value"
    ],
    "video": "https://youtu.be/a6sx9OCMEpw?t=623",
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.thehandbook.com/best-pasta-restaurants-london/ | https://balancejournal.co/food-drink/best-italian-restaurants-london"
+   "sourceCount": "3",
+   "sourceTiers": "B1 C1 D1",
+   "sourceUrls": "https://www.thehandbook.com/best-pasta-restaurants-london/ | https://balancejournal.co/food-drink/best-italian-restaurants-london | https://www.youtube.com/@topjaw"
   },
   {
    "slug": "napoli-on-the-road",
@@ -1220,9 +1223,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B1 C1 D2",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.youtube.com/@HarrisonWebb97"
+   "sourceCount": "6",
+   "sourceTiers": "A1 B1 C1 D3",
+   "sourceUrls": "https://www.50toppizza.it/50-top-pizza-europa-2025-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe/ | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/"
   },
   {
    "slug": "50-kalo",
@@ -1258,9 +1261,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "D1",
-   "sourceUrls": "https://www.youtube.com/@HarrisonWebb97"
+   "sourceCount": "2",
+   "sourceTiers": "A1 D1",
+   "sourceUrls": "https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/ | https://www.youtube.com/@HarrisonWebb97"
   },
   {
    "slug": "lantica-pizzeria-da-michele",
@@ -1295,9 +1298,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "C2",
-   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.thehungrysoles.com/blog/best-pizza-london"
+   "sourceCount": "4",
+   "sourceTiers": "A1 B1 C2",
+   "sourceUrls": "https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london | https://mayfairfoodie.com/best-pizzas-in-london/"
   },
   {
    "slug": "connies-pizza",
@@ -1334,9 +1337,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.designmynight.com/london/blog/new-restaurants-london"
+   "sourceCount": "3",
+   "sourceTiers": "A1 B1 D1",
+   "sourceUrls": "https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/ | https://www.designmynight.com/london/blog/new-restaurants-london | https://www.tiktok.com/@eat.snack.repeat"
   },
   {
    "slug": "homeslice",
@@ -1375,9 +1378,9 @@
     "best-pizza",
     "best-value"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "D1",
-   "sourceUrls": "https://www.youtube.com/@HarrisonWebb97"
+   "sourceCount": "4",
+   "sourceTiers": "B1 D3",
+   "sourceUrls": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.youtube.com/@HarrisonWebb97 | https://www.youtube.com/@SamWilder"
   },
   {
    "slug": "pizza-pilgrims",
@@ -1415,9 +1418,9 @@
     "best-pizza",
     "best-value"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "C2",
-   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.thehungrysoles.com/blog/best-pizza-london"
+   "sourceCount": "7",
+   "sourceTiers": "A1 B1 C2 D3",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://mayfairfoodie.com/best-pizzas-in-london/"
   },
   {
    "slug": "santa-maria-pizzeria",
@@ -1450,9 +1453,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "C1",
-   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/"
+   "sourceCount": "2",
+   "sourceTiers": "C1 D1",
+   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.tiktok.com/@rosielewis_"
   },
   {
    "slug": "zia-lucia",
@@ -1483,9 +1486,13 @@
    ],
    "dietary": "Gluten-free base available",
    "whyGo": "Offers four different doughs including a 48-hour and a charcoal base, which makes it the most useful of the group for gluten-sensitive diners.",
+   "signals": "National Pizza Awards 2025 - London shortlist",
    "lists": [
     "best-pizza"
-   ]
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 D1",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london"
   },
   {
    "slug": "franco-manca",
@@ -1521,9 +1528,9 @@
     "best-pizza",
     "best-value"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "C3",
-   "sourceUrls": "https://www.thelondonmother.net/things-to-do-canary-wharf/ | https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.thehungrysoles.com/blog/best-pizza-london"
+   "sourceCount": "5",
+   "sourceTiers": "A1 C3 D1",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.thelondonmother.net/things-to-do-canary-wharf/ | https://mayfairfoodie.com/best-pizzas-in-london/"
   },
   {
    "slug": "la-tua-pasta",
@@ -1641,9 +1648,9 @@
     "cheap-eats",
     "best-value"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "C1",
-   "sourceUrls": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
+   "sourceCount": "2",
+   "sourceTiers": "C1 D1",
+   "sourceUrls": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or | https://www.youtube.com/@HarrisonWebb97"
   },
   {
    "slug": "roma-pizza",
@@ -1713,8 +1720,8 @@
    "lists": [
     "best-value"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B2 C1",
+   "sourceCount": "4",
+   "sourceTiers": "B2 C1 D1",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-italian-restaurants | https://london.eater.com/maps/best-italian-restaurants-london | https://thenudge.com/bib-gourmands-in-london/"
   },
   {
@@ -1972,9 +1979,9 @@
    ],
    "whyGo": "Four storeys on High Street Kensington, and the most seafood-led of the Big Mamma rooms - local fish, Italian caviar, fresh pasta.",
    "opNote": "The group's grandest London site. Four floors, so ask which one you are seated on.",
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.thehandbook.com/best-pasta-restaurants-london/"
+   "sourceCount": "2",
+   "sourceTiers": "B1 D1",
+   "sourceUrls": "https://www.thehandbook.com/best-pasta-restaurants-london/ | https://www.youtube.com/@GaryEats"
   },
   {
    "slug": "carlotta",
@@ -2065,8 +2072,8 @@
    "chainType": "mini-chain",
    "context": "The Marlborough (pub)",
    "area": "Mayfair",
-   "zone": "1",
-   "district": "Central",
+   "zone": "1, 2",
+   "district": "Central, West",
    "borough": "Westminster",
    "guide": "mayfair-area-guide",
    "address": "24 N Audley St, Mayfair W1K 6WD",
@@ -2090,7 +2097,10 @@
    "opNote": "TWO VENUES IN ONE. The ground-floor pub is walk-in only and pours Guinness; the pizzeria is in the basement and takes bookings through SevenRooms. IMPORTANT: pizza is not served on Mondays even though the pub is open 11:00-23:00. Pizza runs Tue-Thu 11:30-21:30, Fri-Sat to 22:30, Sun to 20:30.",
    "lists": [
     "best-pizza"
-   ]
+   ],
+   "sourceCount": "11",
+   "sourceTiers": "B3 C2 D6",
+   "sourceUrls": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
   },
   {
    "slug": "breadstall",
@@ -2128,9 +2138,9 @@
     "best-pizza",
     "best-value"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 D1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://www.youtube.com/@HarrisonWebb97"
+   "sourceCount": "7",
+   "sourceTiers": "B2 C1 D4",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://onebite.app/"
   },
   {
    "slug": "japes",
@@ -2166,9 +2176,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 D1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://www.youtube.com/@HarrisonWebb97"
+   "sourceCount": "4",
+   "sourceTiers": "B1 D3",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://www.youtube.com/@HarrisonWebb97 | https://www.youtube.com/@harrykersh"
   },
   {
    "slug": "bad-boy-pizza-society",
@@ -2210,9 +2220,9 @@
     "best-pizza",
     "best-value"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "C2 D1",
-   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.thehungrysoles.com/blog/best-pizza-london | https://www.youtube.com/@HarrisonWebb97"
+   "sourceCount": "8",
+   "sourceTiers": "A1 B2 C2 D3",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
   },
   {
    "slug": "sud-italia",
@@ -2288,9 +2298,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B1 C2 D1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.thehungrysoles.com/blog/best-pizza-london"
+   "sourceCount": "6",
+   "sourceTiers": "B2 C2 D2",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/"
   },
   {
    "slug": "graceys-pizza",
@@ -2325,9 +2335,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "D1",
-   "sourceUrls": "https://www.youtube.com/@HarrisonWebb97"
+   "sourceCount": "3",
+   "sourceTiers": "B1 D2",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking | https://www.tiktok.com/@eat.snack.repeat | https://www.youtube.com/@HarrisonWebb97"
   },
   {
    "slug": "sarvs-slice",
@@ -2363,9 +2373,525 @@
     "best-pizza",
     "best-value"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B1 C2 D1",
+   "sourceCount": "5",
+   "sourceTiers": "B1 C2 D2",
    "sourceUrls": "https://www.squaremeal.co.uk/restaurants/sarvs-slice-ealing_27158 | https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or | https://www.londonbesteats.com/restaurants/sarvs-slice"
+  },
+  {
+   "slug": "ace-pizza",
+   "name": "Ace Pizza",
+   "cuisine": "Italian",
+   "style": "New York/Neapolitan hybrid",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Victoria Park",
+   "zone": "2",
+   "district": "East",
+   "borough": "Hackney",
+   "address": "126-128 Lauriston Road, Victoria Park",
+   "postcode": "E9 7LH",
+   "price": "££",
+   "goodFor": [
+    "groups",
+    "families",
+    "quick"
+   ],
+   "whyGo": "A chewy hybrid base that refuses to pick a side between New York and Naples, on the Victoria Park village strip rather than anywhere you would pass by accident.",
+   "signals": "National Pizza Awards 2025 - Blogger's Choice (Howard Quayle)",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "A1 B1 C1 D2",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/"
+  },
+  {
+   "slug": "little-earthquakes",
+   "name": "Little Earthquakes",
+   "cuisine": "Italian",
+   "style": "Deep-dish pizza",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Pub residency",
+   "chainType": "independent",
+   "context": "The Railway Tavern (pub)",
+   "area": "Stoke Newington",
+   "zone": "2",
+   "district": "North",
+   "borough": "Hackney",
+   "address": "The Railway Tavern, 2 St Jude Street, Stoke Newington",
+   "postcode": "N16 8JT",
+   "price": "££",
+   "website": "https://littleearthquakes.co.uk/",
+   "goodFor": [
+    "groups",
+    "date"
+   ],
+   "whyGo": "Neil Rankin of Temper doing deep-dish built on the frozen supermarket pizzas he grew up on - the joke and the cooking are both entirely serious.",
+   "opNote": "A residency inside the Railway Tavern rather than a restaurant of its own, so the pub's hours govern it. Time Out places it in Dalston; the pub is on the Stoke Newington side of the boundary.",
+   "signals": "National Pizza Awards 2025 - London shortlist",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "A1 B1 C1",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/"
+  },
+  {
+   "slug": "bing-bong-pizza",
+   "name": "Bing Bong Pizza",
+   "cuisine": "Italian",
+   "style": "Pizza pop-up",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Bar residency",
+   "chainType": "independent",
+   "context": "You Call The Shots (bar)",
+   "area": "Hackney",
+   "zone": "2",
+   "district": "East",
+   "borough": "Hackney",
+   "guide": "hackney-area-guide",
+   "address": "You Call The Shots, 13 Morning Lane, Hackney",
+   "postcode": "E9 6ND",
+   "price": "££",
+   "booking": "walk-in",
+   "setting": "counter",
+   "goodFor": [
+    "groups",
+    "date"
+   ],
+   "whyGo": "Second in Britain in 2025, cooked out of a leopard-print bar on Morning Lane rather than a kitchen anyone would design on purpose.",
+   "opNote": "A pop-up inside You Call The Shots, so it keeps the bar's hours rather than a restaurant's. Not a separate address.",
+   "signals": "National Pizza Awards 2025 - runner-up",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "A1 D1",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.tiktok.com/@eat.snack.repeat"
+  },
+  {
+   "slug": "mamma-dough",
+   "name": "Mamma Dough",
+   "cuisine": "Italian",
+   "style": "Sourdough pizza",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Brixton",
+   "zone": "2",
+   "district": "South",
+   "borough": "Lambeth",
+   "address": "354 Coldharbour Lane, Brixton",
+   "postcode": "SW9 8QH",
+   "price": "££",
+   "website": "https://mammadough.co.uk/",
+   "goodFor": [
+    "families",
+    "groups"
+   ],
+   "whyGo": "South London's own sourdough chain, and the one whose head pizzaiolo took Pizza Chef of the Year in 2025 - a title that usually goes somewhere far more fashionable.",
+   "opNote": "Three sites: Brixton (Coldharbour Lane), Ladywell and South Norwood. Brixton is the one the guides name.",
+   "signals": "National Pizza Awards 2025 - Pizza Chef of the Year (Antonio Raspone)",
+   "lists": [
+    "best-pizza",
+    "best-value"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "A1 C1",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.thehungrysoles.com/blog/best-pizza-london"
+  },
+  {
+   "slug": "paulies",
+   "name": "Paulie's",
+   "cuisine": "Italian",
+   "style": "New York slice shop",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Counter",
+   "chainType": "independent",
+   "area": "Spitalfields",
+   "zone": "1",
+   "district": "East",
+   "borough": "Tower Hamlets",
+   "address": "146 Commercial Street, Spitalfields",
+   "postcode": "E1 6NU",
+   "price": "££",
+   "booking": "walk-in",
+   "website": "https://paulieslondon.com/",
+   "setting": "counter",
+   "goodFor": [
+    "quick",
+    "solo",
+    "groups"
+   ],
+   "whyGo": "The Paulie's Pie - fennel-seed pepperoni under hot honey - sold by the slice or whole on Commercial Street, with enough room to actually sit down.",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "B2 D3",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://www.instagram.com/p/DceF3ynDXKQ/"
+  },
+  {
+   "slug": "weezies",
+   "name": "Weezie's",
+   "cuisine": "Italian",
+   "style": "Thin-crust pizza",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Belgravia",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "address": "15 Eccleston Yard, Belgravia",
+   "postcode": "SW1W 9AZ",
+   "price": "££",
+   "website": "https://www.weezieslondon.com/",
+   "setting": "courtyard",
+   "goodFor": [
+    "date",
+    "groups"
+   ],
+   "whyGo": "Thin crust, British-sourced toppings, pints of Guinness and a serious wine list, in a courtyard five minutes from Victoria - which is not where anyone looks for good pizza.",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B2 C1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/wine-bars-london | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/hot-right-now-london-s-hottest-restaurants"
+  },
+  {
+   "slug": "elliots",
+   "name": "Elliot's",
+   "cuisine": "Modern European",
+   "style": "Wine bar with a wood-fired pizza",
+   "specialities": [
+    "pizza",
+    "wine-led",
+    "small-plates"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Borough",
+   "zone": "1",
+   "district": "South",
+   "borough": "Southwark",
+   "address": "12 Stoney Street, Borough Market",
+   "postcode": "SE1 9AD",
+   "price": "£££",
+   "website": "https://elliots.london/",
+   "goodFor": [
+    "date",
+    "solo",
+    "business"
+   ],
+   "whyGo": "A Borough Market wine bar that is not trying to be a pizzeria and still turns out one of the pizzas people cross London for.",
+   "opNote": "Filed under pizza because that is what the pizza lists name it for; the menu is a small-plates and wine list first. Do not send someone here expecting a pizzeria.",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B2 D1",
+   "sourceUrls": "https://www.olivemagazine.com/guides/best-london-wine-bars/ | https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026 | https://www.tiktok.com/@rosielewis_"
+  },
+  {
+   "slug": "florencio",
+   "name": "Florencio",
+   "cuisine": "Italian",
+   "style": "48-hour fermented dough",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Marylebone",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "marylebone-area-guide",
+   "address": "14 Seymour Place, Marylebone",
+   "postcode": "W1H 7NF",
+   "price": "££",
+   "website": "https://www.florenciopizza.com/",
+   "goodFor": [
+    "date",
+    "solo"
+   ],
+   "whyGo": "A light, thin, crisp base from a 48-hour ferment, on a Seymour Place corner most pizza lists never reach.",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B2 C1",
+   "sourceUrls": "https://thesaucemag.com/best-italian-restaurants-in-london/ | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.thehungrysoles.com/blog/best-pizza-london"
+  },
+  {
+   "slug": "laurettas",
+   "name": "Lauretta's",
+   "cuisine": "Italian",
+   "style": "Thin, fire-kissed Neapolitan",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Bethnal Green",
+   "zone": "2",
+   "district": "East",
+   "borough": "Tower Hamlets",
+   "address": "93 Columbia Road",
+   "postcode": "E2 7RG",
+   "price": "££",
+   "goodFor": [
+    "date",
+    "solo"
+   ],
+   "whyGo": "Proudly thin with a puffy charred crust, on Columbia Road - which means Sunday lunch is flower-market chaos and the rest of the week is evenings only.",
+   "opNote": "Closed Mondays; evenings only Tuesday to Friday, and lunch only on Sunday. Web presence is Instagram rather than a site.",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B2 D1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://www.tiktok.com/@eat.snack.repeat"
+  },
+  {
+   "slug": "carmelas-pizzeria",
+   "name": "Carmela's Pizzeria",
+   "cuisine": "Italian",
+   "style": "Softer New York slice",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Counter",
+   "chainType": "independent",
+   "area": "Islington",
+   "zone": "1–2",
+   "district": "North",
+   "borough": "Islington",
+   "guide": "islington-area-guide",
+   "address": "149A Upper Street, Islington",
+   "postcode": "N1 1RA",
+   "price": "££",
+   "booking": "walk-in",
+   "website": "https://linktr.ee/Carmelaspizzeria",
+   "setting": "counter",
+   "goodFor": [
+    "quick",
+    "solo"
+   ],
+   "whyGo": "A softer, foldable New York slice on Upper Street, where the competition is mostly chains.",
+   "lists": [
+    "best-pizza",
+    "best-value"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B2 D1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://www.tiktok.com/@eat.snack.repeat"
+  },
+  {
+   "slug": "detroit-pizza-london",
+   "name": "Detroit Pizza London",
+   "cuisine": "Italian",
+   "style": "Detroit-style pan pizza",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Spitalfields",
+   "zone": "1",
+   "district": "East",
+   "borough": "Tower Hamlets",
+   "address": "75 Commercial Street, Spitalfields",
+   "postcode": "E1 6BD",
+   "price": "££",
+   "website": "https://detroitpizzalondon.com/",
+   "goodFor": [
+    "groups",
+    "quick"
+   ],
+   "whyGo": "Baked in blue steel pans so the cheese caramelises against the edge - crunchy corners, cloud-like middle, and almost nobody else in London doing it properly.",
+   "signature": "Detroit-style square with caramelised cheese edges",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B1 D2",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london | https://www.tiktok.com/@eat.snack.repeat | https://www.youtube.com/@dannygaryyoutube"
+  },
+  {
+   "slug": "made-in-italy",
+   "name": "Made in Italy",
+   "cuisine": "Italian",
+   "style": "Neapolitan pizza by the metre",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Chelsea",
+   "zone": "1–2",
+   "district": "West",
+   "borough": "Kensington and Chelsea",
+   "guide": "chelsea-area-guide",
+   "address": "249 King's Road, Chelsea",
+   "postcode": "SW3 5AW",
+   "price": "££",
+   "website": "https://www.madeinitalygroup.co.uk/",
+   "goodFor": [
+    "groups",
+    "families",
+    "date"
+   ],
+   "whyGo": "Sold by the half-metre on a wooden board, on the King's Road since long before London cared about Neapolitan dough.",
+   "signature": "Pizza by the metre",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 D1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-italian-restaurants-london | https://www.tiktok.com/@rosielewis_"
+  },
+  {
+   "slug": "sodo-pizza",
+   "name": "Sodo Pizza",
+   "cuisine": "Italian",
+   "style": "Sourdough pizza",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Clapton",
+   "zone": "2",
+   "district": "East",
+   "borough": "Hackney",
+   "address": "126 Upper Clapton Road, Clapton",
+   "postcode": "E5 9JY",
+   "price": "££",
+   "website": "https://www.sodopizza.co.uk/",
+   "goodFor": [
+    "families",
+    "date",
+    "groups"
+   ],
+   "whyGo": "Sourdough bases, natural wine and local craft beer, a short walk from Clapton Pond - a neighbourhood pizzeria that the city lists keep finding anyway.",
+   "opNote": "Three sites: Clapton, Walthamstow and Deptford.",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 C1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/"
+  },
+  {
+   "slug": "o-ver",
+   "name": "'O Ver",
+   "cuisine": "Italian",
+   "style": "Neapolitan made with sea water",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Borough",
+   "zone": "1",
+   "district": "South",
+   "borough": "Southwark",
+   "address": "London Iron House, 44-46 Southwark Street",
+   "postcode": "SE1 1UN",
+   "price": "££",
+   "website": "https://www.overuk.com/",
+   "goodFor": [
+    "date",
+    "families",
+    "pre-theatre"
+   ],
+   "whyGo": "Doughs and pastas made with filtered Mediterranean sea water instead of salt - a Neapolitan technique almost nobody else here bothers with.",
+   "signature": "Sea-water dough",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 D1",
+   "sourceUrls": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.tiktok.com/@dens_destinations"
+  },
+  {
+   "slug": "theos-pizzeria",
+   "name": "Theo's Pizzeria",
+   "cuisine": "Italian",
+   "style": "Neapolitan pizza",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Camberwell",
+   "zone": "2",
+   "district": "South",
+   "borough": "Southwark",
+   "address": "2 Grove Lane, Camberwell",
+   "postcode": "SE5 8SY",
+   "price": "££",
+   "website": "https://www.theospizzeria.com/",
+   "goodFor": [
+    "date",
+    "families",
+    "groups"
+   ],
+   "whyGo": "The Camberwell pizzeria that made its name on house chilli oil, and is the reason people from other postcodes end up on Grove Lane.",
+   "signature": "Homemade chilli oil",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 C1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london | https://www.thehungrysoles.com/blog/best-pizza-london"
+  },
+  {
+   "slug": "67-sourdough",
+   "name": "67 Sourdough",
+   "cuisine": "Italian",
+   "style": "Thin-crust New York style",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "East Finchley",
+   "zone": "3",
+   "district": "North",
+   "borough": "Barnet",
+   "address": "82-92 Great North Road, East Finchley",
+   "postcode": "N2 0NL",
+   "price": "££",
+   "website": "https://www.67sourdough.com/",
+   "goodFor": [
+    "families",
+    "groups"
+   ],
+   "whyGo": "Thin-crust New York pizza served inside a working car dealership on the Great North Road, which is exactly as strange as it sounds and entirely the point.",
+   "opNote": "Open Wednesday to Sunday only. Shares premises with the dealership, so the room is a showroom.",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 D1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking | https://www.tiktok.com/@eat.snack.repeat"
   },
   {
    "slug": "eataly-london",
@@ -2637,9 +3163,9 @@
     "best-steak:12",
     "best-italian:10"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B2",
-   "sourceUrls": "https://www.countryandtownhouse.com/food-and-drink/best-italian-restaurants-in-london/ | https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/"
+   "sourceCount": "3",
+   "sourceTiers": "B2 D1",
+   "sourceUrls": "https://www.countryandtownhouse.com/food-and-drink/best-italian-restaurants-in-london/ | https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://www.youtube.com/@SortedFood"
   },
   {
    "slug": "sale-e-pepe",
@@ -2961,9 +3487,9 @@
     "unusual",
     "best-italian:7"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "C2",
-   "sourceUrls": "https://thenudge.com/features/londons-best-fresh-pasta-joints/ | https://balancejournal.co/food-drink/best-italian-restaurants-london"
+   "sourceCount": "4",
+   "sourceTiers": "B2 C2",
+   "sourceUrls": "https://london.eater.com/maps/best-italian-restaurants-london | https://www.thehandbook.com/best-pasta-restaurants-london/ | https://thenudge.com/features/londons-best-fresh-pasta-joints/"
   },
   {
    "slug": "ombra",
@@ -3337,11 +3863,12 @@
    "signature": "Confit potatoes",
    "signals": "4 sources - the strongest British consensus",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "sunday-roast:13"
    ],
-   "sourceCount": "7",
-   "sourceTiers": "B5 C1 D1",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-british-restaurants-london | https://london.eater.com/maps/best-british-restaurants-london | https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
+   "sourceCount": "9",
+   "sourceTiers": "B6 C1 D2",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-british-restaurants-london | https://london.eater.com/maps/best-british-restaurants-london | https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
   },
   {
    "slug": "quo-vadis",
@@ -3455,12 +3982,12 @@
    "signature": "Brown butter and honey tart",
    "signals": "3 sources: The Infatuation, Eater London, British Food Crew",
    "lists": [
-    "sunday-roast:3",
-    "showstopper"
+    "showstopper",
+    "sunday-roast:4"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-british-restaurants-london | https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+   "sourceCount": "3",
+   "sourceTiers": "A1 B1 C1",
+   "sourceUrls": "https://www.top50gastropubs.com/list/1-50 | https://www.theinfatuation.com/london/guides/best-british-restaurants-london | https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
   },
   {
    "slug": "harwood-arms",
@@ -3494,12 +4021,12 @@
    "signature": "Venison scotch egg",
    "signals": "3 sources: Balance Journal, The Infatuation, British Food Crew",
    "lists": [
-    "sunday-roast:5",
-    "nicest-dining"
+    "nicest-dining",
+    "sunday-roast:7"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B1 C2",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-british-restaurants-london | https://balancejournal.co/food-drink/best-british-restaurants-in-london | https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+   "sourceCount": "6",
+   "sourceTiers": "A1 B1 C2 D2",
+   "sourceUrls": "https://www.top50gastropubs.com/list/1-50 | https://www.theinfatuation.com/london/guides/best-british-restaurants-london | https://balancejournal.co/food-drink/best-british-restaurants-in-london"
   },
   {
    "slug": "canton-arms",
@@ -3531,11 +4058,11 @@
    "whyGo": "An old-school South Lambeth boozer that happens to serve one of London's best-regarded roasts.",
    "signals": "3 sources: Eater London, Time Out, British Food Crew",
    "lists": [
-    "sunday-roast:6"
+    "sunday-roast:3"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://london.eater.com/maps/best-british-restaurants-london | https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 C1",
+   "sourceUrls": "https://www.top50gastropubs.com/list/1-50 | https://london.eater.com/maps/best-british-restaurants-london | https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
   },
   {
    "slug": "the-devonshire",
@@ -3573,9 +4100,9 @@
    "lists": [
     "sunday-roast:1"
    ],
-   "sourceCount": "6",
-   "sourceTiers": "A1 B3 C2",
-   "sourceUrls": "https://www.top50gastropubs.com/ | https://www.theinfatuation.com/london/guides/best-restaurants-london | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
+   "sourceCount": "10",
+   "sourceTiers": "A2 B2 C2 D4",
+   "sourceUrls": "https://www.top50gastropubs.com/ | https://www.worldbeststeaks.com/the-list | https://www.theinfatuation.com/london/guides/best-restaurants-london"
   },
   {
    "slug": "sweetings",
@@ -3609,8 +4136,11 @@
    "whyGo": "Open since 1889, lunch only, no bookings, and you eat at a counter on a high stool.",
    "opNote": "Weekday lunch only. No reservations. Closed evenings and weekends entirely.",
    "signals": "2 sources: The Infatuation, Eater London",
-   "sourceCount": "4",
-   "sourceTiers": "A1 B3",
+   "lists": [
+    "seafood"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "A1 B3 C1",
    "sourceUrls": "https://www.hardens.com/restaurants/london/turkish/ | https://www.theinfatuation.com/london/guides/best-british-restaurants-london | https://london.eater.com/maps/best-british-restaurants-london"
   },
   {
@@ -3683,11 +4213,11 @@
    "whyGo": "20th in Time Out's 2026 UK gastropub ranking, and the roast Oisin Rogers of The Devonshire sends people to.",
    "signals": "UK Top 50 Gastropubs 2026 - #20",
    "lists": [
-    "sunday-roast:8"
+    "sunday-roast:2"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "A1 B1 C1",
-   "sourceUrls": "https://www.top50gastropubs.com/ | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+   "sourceCount": "5",
+   "sourceTiers": "A1 B3 C1",
+   "sourceUrls": "https://www.top50gastropubs.com/ | https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk | https://www.theinfatuation.com/london/perfect-for/sunday-roast"
   },
   {
    "slug": "camberwell-arms",
@@ -3721,8 +4251,11 @@
    "whyGo": "Time Out's top-ranked London gastropub, with roast portions generous enough to be the point.",
    "signals": "UK Top 50 Gastropubs 2026 - #9",
    "lists": [
-    "sunday-roast:2"
-   ]
+    "sunday-roast:9"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "A1 B3",
+   "sourceUrls": "https://www.top50gastropubs.com/list/1-50 | https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk | https://www.theinfatuation.com/london/guides/best-sunday-roasts-london"
   },
   {
    "slug": "watermans-arms",
@@ -3756,11 +4289,11 @@
    "whyGo": "A Barnes riverside pub, picked out for the setting as much as the roast.",
    "signals": "2 sources: The Infatuation, British Food Crew",
    "lists": [
-    "sunday-roast:11"
+    "sunday-roast:5"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+   "sourceCount": "3",
+   "sourceTiers": "A1 B1 C1",
+   "sourceUrls": "https://www.top50gastropubs.com/list/1-50 | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
   },
   {
    "slug": "the-golden-tooth",
@@ -3793,11 +4326,11 @@
    "whyGo": "A Newington Green pub kitchen that both Time Out and The Infatuation put on their roast lists.",
    "signals": "2 sources: Time Out, The Infatuation",
    "lists": [
-    "sunday-roast:7"
+    "sunday-roast"
    ],
    "sourceCount": "5",
    "sourceTiers": "B4 C1",
-   "sourceUrls": "https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.timeout.com/london/restaurants/best-restaurants-in-london | https://www.olivemagazine.com/restaurants/london/best-new-restaurants-in-london/"
+   "sourceUrls": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.olivemagazine.com/restaurants/london/best-new-restaurants-in-london/"
   },
   {
    "slug": "the-bull-highgate",
@@ -3828,12 +4361,9 @@
    ],
    "whyGo": "A Highgate pub with its own brewery attached.",
    "signals": "2 sources: Time Out, British Food Crew",
-   "lists": [
-    "sunday-roast:9"
-   ],
-   "sourceCount": "1",
-   "sourceTiers": "C1",
-   "sourceUrls": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+   "sourceCount": "2",
+   "sourceTiers": "B1 C1",
+   "sourceUrls": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk | https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
   },
   {
    "slug": "prospect-of-whitby",
@@ -3875,6 +4405,36 @@
    "sourceCount": "3",
    "sourceTiers": "C3",
    "sourceUrls": "https://www.walks.com/blog/londons-oldest-pubs/ | https://londontravelplanning.com/guide-to-londons-oldest-pubs/ | https://londondrinksguide.com/en/blog/where-to-drink-93/pubs-97/oldest-pubs-in-london-31.htm"
+  },
+  {
+   "slug": "dickens-inn",
+   "name": "The Dickens Inn",
+   "cuisine": "British",
+   "style": "Timber-framed warehouse conversion",
+   "specialities": [
+    "grill"
+   ],
+   "format": "Pub",
+   "chainType": "independent",
+   "area": "Wapping",
+   "zone": "2",
+   "district": "East",
+   "borough": "Tower Hamlets",
+   "guide": "wapping-area-guide",
+   "address": "St Katharine Docks",
+   "price": "££",
+   "setting": "riverside",
+   "outdoor": "terrace",
+   "goodFor": [
+    "groups",
+    "families"
+   ],
+   "whyGo": "An early-1700s warehouse moved bodily across the dock and re-erected as a pub, opened in 1976 by Charles Dickens's great-grandson. The three-storey timber balconies over the marina are the reason to come rather than the food.",
+   "opNote": "Sit outside on the lower deck for the marina view - the upper balconies are pretty from below but further from the water.",
+   "signals": "4.2 average across 9,000+ reviews",
+   "lists": [
+    "landmark"
+   ]
   },
   {
    "slug": "spaniards-inn",
@@ -4228,8 +4788,8 @@
    "lists": [
     "fish-and-chips"
    ],
-   "sourceCount": "7",
-   "sourceTiers": "B4 C3",
+   "sourceCount": "8",
+   "sourceTiers": "B4 C4",
    "sourceUrls": "https://www.theinfatuation.com/london/guides/best-british-restaurants-london | https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london"
   },
   {
@@ -4267,9 +4827,9 @@
    "lists": [
     "fish-and-chips"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B2 C2 D1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://absolutelymagazines.com/londons-best-fish-chips/ | https://britishfoodcrew.com/best-fish-chips-in-london-the-definitive-2026-guide/"
+   "sourceCount": "6",
+   "sourceTiers": "B3 C2 D1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://absolutelymagazines.com/londons-best-fish-chips/ | https://www.designmynight.com/london/seafood-restaurants-in-london"
   },
   {
    "slug": "golden-union-fish-bar",
@@ -4709,7 +5269,13 @@
    ],
    "whyGo": "The pub that invented the gastropub in 1991 - an open kitchen behind the bar and a menu chalked up daily, which every pub in Britain then copied.",
    "signature": "Bife ana steak sandwich",
-   "signals": "Landmark - the first gastropub, 1991"
+   "signals": "Landmark - the first gastropub, 1991",
+   "lists": [
+    "sunday-roast"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "A1",
+   "sourceUrls": "https://www.top50gastropubs.com/list/1-50"
   },
   {
    "slug": "e-pellicci",
@@ -4747,8 +5313,8 @@
     "best-value",
     "showstopper"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B2 C1",
+   "sourceCount": "5",
+   "sourceTiers": "B2 C1 D2",
    "sourceUrls": "https://www.theinfatuation.com/london/guides/best-british-restaurants-london | https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london | https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
   },
   {
@@ -4781,11 +5347,11 @@
    ],
    "whyGo": "A Kentish Town pub rebuilt around an open fire, and one of the most talked-about openings of recent years.",
    "lists": [
-    "sunday-roast:4"
+    "sunday-roast:10"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+   "sourceCount": "3",
+   "sourceTiers": "A1 B2",
+   "sourceUrls": "https://www.top50gastropubs.com/list/1-50 | https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches | https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
   },
   {
    "slug": "the-tamil-prince",
@@ -4856,8 +5422,8 @@
     "best-steak:2"
    ],
    "sourceCount": "6",
-   "sourceTiers": "B4 C1 F1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak | https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/"
+   "sourceTiers": "A1 B4 C1",
+   "sourceUrls": "https://www.worldbeststeaks.com/the-list | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak | https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/"
   },
   {
    "slug": "cut-at-45-park-lane",
@@ -4890,10 +5456,11 @@
    "signature": "Side-by-side cuts across three beef traditions",
    "signals": "5 sources across 3 tiers, including video",
    "lists": [
-    "best-steak:6"
+    "best-steak:6",
+    "sunday-roast"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B3 C1 D1",
+   "sourceCount": "7",
+   "sourceTiers": "B4 C1 D2",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak | https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/"
   },
   {
@@ -4929,7 +5496,7 @@
     "best-steak:5"
    ],
    "sourceCount": "4",
-   "sourceTiers": "B2 C1 F1",
+   "sourceTiers": "B2 C1 D1",
    "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/ | https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
   },
   {
@@ -4965,9 +5532,9 @@
    "lists": [
     "best-steak:7"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "A1 B2 F1",
-   "sourceUrls": "https://www.hardens.com/restaurants/london/turkish/ | https://www.thehandbook.com/londons-best-oysters/ | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
+   "sourceCount": "5",
+   "sourceTiers": "A2 B2 D1",
+   "sourceUrls": "https://www.worldbeststeaks.com/the-list | https://www.hardens.com/restaurants/london/turkish/ | https://www.thehandbook.com/londons-best-oysters/"
   },
   {
    "slug": "sagardi",
@@ -5003,8 +5570,8 @@
     "best-steak:8"
    ],
    "sourceCount": "3",
-   "sourceTiers": "B1 C1 F1",
-   "sourceUrls": "https://www.timeout.com/london/news/9-london-steak-restaurants-have-been-named-in-the-101-best-in-the-world-for-2026-040126 | https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/ | http://sagardi.co.uk/"
+   "sourceTiers": "A1 C1 D1",
+   "sourceUrls": "https://www.worldbeststeaks.com/the-list | https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/ | https://www.youtube.com/@eatingwithtod"
   },
   {
    "slug": "zelman-meats",
@@ -5075,8 +5642,8 @@
     "best-steak:4",
     "best-value"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B3 C1 D1",
+   "sourceCount": "7",
+   "sourceTiers": "B3 C1 D3",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak | https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/"
   },
   {
@@ -5111,13 +5678,13 @@
    "signature": "All In, £28pp - beef, pork and lamb chops on flatbreads",
    "signals": "3 sources; five London sites",
    "lists": [
-    "sunday-roast:10",
     "best-value",
-    "best-steak:3"
+    "best-steak:3",
+    "sunday-roast:11"
    ],
-   "sourceCount": "6",
-   "sourceTiers": "B3 C1 D2",
-   "sourceUrls": "https://www.mob.co.uk/life/best-burgers-in-london | https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/"
+   "sourceCount": "15",
+   "sourceTiers": "B6 C1 D8",
+   "sourceUrls": "https://london.eater.com/maps/best-british-restaurants-london | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.timeout.com/london/food-and-drink/londons-best-burger-restaurants-1"
   },
   {
    "slug": "hawksmoor",
@@ -5154,13 +5721,13 @@
    "whyGo": "British beef dry-aged and grilled over charcoal, in rooms that were mostly something else first - a brewery, a bank, a ballroom.",
    "signature": "Sunday roast with bone-marrow gravy",
    "lists": [
-    "sunday-roast:12",
     "nicest-dining",
-    "best-steak:1"
+    "best-steak:1",
+    "sunday-roast:12"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B2 C1 D1",
-   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/ | https://londontheinside.com/map/canary-wharf/"
+   "sourceCount": "10",
+   "sourceTiers": "A1 B4 C2 D3",
+   "sourceUrls": "https://www.worldbeststeaks.com/the-list | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
   },
   {
    "slug": "golden-chip-hanwell",
@@ -5346,8 +5913,8 @@
     "cheap-eats",
     "vegetarian"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B1 C2",
+   "sourceCount": "4",
+   "sourceTiers": "B1 C2 D1",
    "sourceUrls": "https://www.timeout.com/london/restaurants/best-restaurants-in-london | https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or | https://tikkanation.com/blog/best-indian-vegetarian-restaurants-london"
   },
   {
@@ -5702,8 +6269,8 @@
     "breakfast",
     "showstopper"
    ],
-   "sourceCount": "7",
-   "sourceTiers": "B5 C2",
+   "sourceCount": "9",
+   "sourceTiers": "B5 C4",
    "sourceUrls": "https://www.olivemagazine.com/guides/best-afternoon-tea-london/ | https://timeout.com/london/restaurants/afternoon-tea-in-london | https://luxlifelondon.com/best-breakfast-spots-london/"
   },
   {
@@ -5981,7 +6548,10 @@
    "signals": "Good Food Guide - best London pub, #7 in the UK",
    "lists": [
     "sunday-roast"
-   ]
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "A1",
+   "sourceUrls": "https://www.top50gastropubs.com/list/1-50"
   },
   {
    "slug": "the-bull-and-last",
@@ -6015,11 +6585,11 @@
    "opNote": "NOT the same pub as The Bull, which is also in Highgate and also on this list. Different sites, different owners - keep the two rows distinct.",
    "signals": "Estrella Damm Top 50 Gastropubs - #39",
    "lists": [
-    "sunday-roast"
+    "sunday-roast:8"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+   "sourceCount": "3",
+   "sourceTiers": "A1 B1 C1",
+   "sourceUrls": "https://www.top50gastropubs.com/list/1-50 | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
   },
   {
    "slug": "knave-of-clubs",
@@ -6052,9 +6622,12 @@
    ],
    "whyGo": "A Bethnal Green Road pub that reached 43rd in the UK gastropub rankings soon after opening.",
    "signals": "Estrella Damm Top 50 Gastropubs - #43",
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262 | https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+   "lists": [
+    "sunday-roast"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "A1 B1 C1",
+   "sourceUrls": "https://www.top50gastropubs.com/list/1-50 | https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262 | https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
   },
   {
    "slug": "facing-heaven",
@@ -6241,9 +6814,9 @@
    "lists": [
     "vegetarian"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B1 C3",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/the-best-vegan-restaurants-in-london | https://balancejournal.co/food-drink/best-vegan-restaurants-london | https://www.vegpreneur.org/blog/the-best-vegan-restaurants-in-london-in-2026"
+   "sourceCount": "5",
+   "sourceTiers": "A1 B1 C3",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.timeout.com/london/restaurants/the-best-vegan-restaurants-in-london | https://balancejournal.co/food-drink/best-vegan-restaurants-london"
   },
   {
    "slug": "naifs",
@@ -6538,9 +7111,9 @@
     "nicest-dining",
     "best-indian:1"
    ],
-   "sourceCount": "6",
-   "sourceTiers": "A1 B4 C1",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://www.theinfatuation.com/london/guides/best-indian-restaurants-london"
+   "sourceCount": "10",
+   "sourceTiers": "A3 B5 C1 D1",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/"
   },
   {
    "slug": "bibi",
@@ -6581,8 +7154,8 @@
     "best-indian:4"
    ],
    "video": "https://www.youtube.com/watch?v=AHUnqeRroYk&t=440s",
-   "sourceCount": "8",
-   "sourceTiers": "A1 B5 C2",
+   "sourceCount": "10",
+   "sourceTiers": "A1 B5 C2 D2",
    "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326 | https://www.theinfatuation.com/london/guides/best-restaurants-london"
   },
   {
@@ -6623,9 +7196,9 @@
     "best-indian:6"
    ],
    "video": "https://www.youtube.com/watch?v=AHUnqeRroYk&t=0s",
-   "sourceCount": "6",
-   "sourceTiers": "A1 B4 C1",
-   "sourceUrls": "https://www.hardens.com/restaurants/london/turkish/ | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://www.theinfatuation.com/london/guides/best-indian-restaurants-london"
+   "sourceCount": "9",
+   "sourceTiers": "A2 B4 C1 D2",
+   "sourceUrls": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://www.hardens.com/restaurants/london/turkish/ | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
   },
   {
    "slug": "dishoom",
@@ -6667,9 +7240,9 @@
     "best-value",
     "best-indian:5"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B3 C2",
-   "sourceUrls": "https://luxlifelondon.com/best-breakfast-spots-london/ | https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+   "sourceCount": "12",
+   "sourceTiers": "A2 B3 C4 D3",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://luxlifelondon.com/best-breakfast-spots-london/"
   },
   {
    "slug": "gymkhana",
@@ -6711,9 +7284,9 @@
     "best-indian:2"
    ],
    "video": "https://www.youtube.com/watch?v=AHUnqeRroYk&t=855s",
-   "sourceCount": "3",
-   "sourceTiers": "A1 B1 C1",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://www.theinfatuation.com/london/guides/best-restaurants-london | https://balancejournal.co/food-drink/best-indian-restaurants-london"
+   "sourceCount": "11",
+   "sourceTiers": "A3 B1 C1 D6",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/"
   },
   {
    "slug": "jamavar",
@@ -6752,9 +7325,9 @@
     "nicest-dining",
     "best-indian:7"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "A1 B2 C1",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://www.theinfatuation.com/london/guides/best-indian-restaurants-london"
+   "sourceCount": "9",
+   "sourceTiers": "A3 B2 C1 D3",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/"
   },
   {
    "slug": "veeraswamy",
@@ -6796,9 +7369,9 @@
     "showstopper",
     "best-indian:3"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "A1 B1 C1",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://www.timeout.com/london/restaurants/londons-best-indian-restaurants | https://balancejournal.co/food-drink/best-indian-restaurants-london"
+   "sourceCount": "8",
+   "sourceTiers": "A3 B1 C1 D3",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/"
   },
   {
    "slug": "benares",
@@ -6835,9 +7408,9 @@
     "nicest-dining",
     "best-indian:9"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://balancejournal.co/food-drink/best-indian-restaurants-london"
+   "sourceCount": "5",
+   "sourceTiers": "A2 B1 C1 D1",
+   "sourceUrls": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
   },
   {
    "slug": "darjeeling-express",
@@ -6874,9 +7447,9 @@
     "best-indian:19"
    ],
    "video": "https://www.youtube.com/watch?v=AHUnqeRroYk&t=677s",
-   "sourceCount": "5",
-   "sourceTiers": "B3 C2",
-   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://www.timeout.com/london/restaurants/londons-best-indian-restaurants | https://www.theinfatuation.com/london/guides/londons-new-restaurant-openings"
+   "sourceCount": "7",
+   "sourceTiers": "A1 B3 C2 D1",
+   "sourceUrls": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://www.timeout.com/london/restaurants/londons-best-indian-restaurants"
   },
   {
    "slug": "the-cinnamon-club",
@@ -6918,9 +7491,9 @@
     "showstopper",
     "best-indian:8"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B2 C1",
-   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262 | https://london.eater.com/maps/best-indian-restaurants-london | https://balancejournal.co/food-drink/best-indian-restaurants-london"
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 C1",
+   "sourceUrls": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262 | https://london.eater.com/maps/best-indian-restaurants-london"
   },
   {
    "slug": "shree-krishna-vada-pav",
@@ -7001,9 +7574,9 @@
    "lists": [
     "best-indian:20"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "A1 B2",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://london.eater.com/maps/best-indian-restaurants-london"
+   "sourceCount": "4",
+   "sourceTiers": "A2 B2",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
   },
   {
    "slug": "kokum",
@@ -7079,9 +7652,9 @@
     "best-indian:17"
    ],
    "video": "https://www.youtube.com/watch?v=6mDJrJFvllo&t=476s",
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://balancejournal.co/food-drink/best-indian-restaurants-london"
+   "sourceCount": "5",
+   "sourceTiers": "A1 B1 C1 D2",
+   "sourceUrls": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://balancejournal.co/food-drink/best-indian-restaurants-london"
   },
   {
    "slug": "amaya",
@@ -7117,9 +7690,9 @@
     "nicest-dining",
     "best-indian:12"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "A1",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+   "sourceCount": "4",
+   "sourceTiers": "A3 D1",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/"
   },
   {
    "slug": "kanishka",
@@ -7155,8 +7728,8 @@
     "best-indian:13"
    ],
    "sourceCount": "3",
-   "sourceTiers": "A1 B2",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
+   "sourceTiers": "A2 B1",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
   },
   {
    "slug": "empire-empire",
@@ -7192,9 +7765,9 @@
     "best-indian:18"
    ],
    "video": "https://www.youtube.com/watch?v=6mDJrJFvllo&t=1095s",
-   "sourceCount": "2",
-   "sourceTiers": "A1 B1",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+   "sourceCount": "3",
+   "sourceTiers": "A1 B1 D1",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://www.youtube.com/@HarrisonWebb97"
   },
   {
    "slug": "colonel-saab",
@@ -7231,9 +7804,9 @@
    "lists": [
     "showstopper"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://balancejournal.co/food-drink/best-indian-restaurants-london"
+   "sourceCount": "4",
+   "sourceTiers": "B2 C1 D1",
+   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304 | https://balancejournal.co/food-drink/best-indian-restaurants-london"
   },
   {
    "slug": "babur",
@@ -7264,9 +7837,9 @@
    ],
    "whyGo": "A Brockley dining room that has been quietly outcooking most of central London for over thirty years.",
    "signals": "2 sources",
-   "sourceCount": "2",
-   "sourceTiers": "A1 B1",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+   "sourceCount": "3",
+   "sourceTiers": "A2 B1",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
   },
   {
    "slug": "namaaste-highgate",
@@ -7367,10 +7940,7 @@
     "families"
    ],
    "whyGo": "The Brick Lane curry house that gets named most often when people argue about which of them is still worth eating at.",
-   "signals": "video pass; Brick Lane",
-   "lists": [
-    "best-indian:23"
-   ]
+   "signals": "video pass; Brick Lane"
   },
   {
    "slug": "sheba-brick-lane",
@@ -7442,9 +8012,9 @@
     "nicest-dining",
     "best-indian:14"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B2 C1",
-   "sourceUrls": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624 | https://www.thehandbook.com/londons-best-oysters/ | https://balancejournal.co/food-drink/best-indian-restaurants-london"
+   "sourceCount": "6",
+   "sourceTiers": "A2 B1 C2 D1",
+   "sourceUrls": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://www.thehandbook.com/londons-best-oysters/"
   },
   {
    "slug": "tamarind",
@@ -7485,8 +8055,8 @@
     "best-indian:10"
    ],
    "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624 | https://balancejournal.co/food-drink/best-indian-restaurants-london"
+   "sourceTiers": "A1 C1",
+   "sourceUrls": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://balancejournal.co/food-drink/best-indian-restaurants-london"
   },
   {
    "slug": "the-bombay-restaurant",
@@ -7513,10 +8083,7 @@
     "groups"
    ],
    "whyGo": "Named by three independent sources including Currylife, which covers the curry-house trade rather than the restaurant press.",
-   "signals": "3 sources - the strongest of the remaining tier",
-   "sourceCount": "1",
-   "sourceTiers": "C1",
-   "sourceUrls": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
+   "signals": "3 sources - the strongest of the remaining tier"
   },
   {
    "slug": "madhus-southall",
@@ -7547,9 +8114,9 @@
    ],
    "whyGo": "Punjabi cooking by way of Kenya - the East African Asian tradition that Southall does better than anywhere else in Britain.",
    "signals": "2 sources",
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://london.eater.com/maps/best-indian-restaurants-london"
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://london.eater.com/maps/best-indian-restaurants-london"
   },
   {
    "slug": "masala-zone",
@@ -7586,9 +8153,9 @@
    "lists": [
     "best-value"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+   "sourceCount": "2",
+   "sourceTiers": "A1 B1",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
   },
   {
    "slug": "pahli-hill",
@@ -7621,10 +8188,7 @@
     "groups"
    ],
    "whyGo": "Named for the Bandra hill district of Bombay, with a basement bar that runs later than the dining room above it.",
-   "signals": "2 sources",
-   "sourceCount": "1",
-   "sourceTiers": "A1",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+   "signals": "2 sources"
   },
   {
    "slug": "the-tamil-crown",
@@ -7659,11 +8223,11 @@
    "opNote": "Sibling to The Tamil Prince, also in Islington - two separate pubs, not two names for one.",
    "signals": "2 sources",
    "lists": [
-    "sunday-roast"
+    "sunday-roast:6"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "A1 B1 C1",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+   "sourceCount": "5",
+   "sourceTiers": "A2 B1 C1 D1",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://www.top50gastropubs.com/list/1-50 | https://www.theinfatuation.com/london/perfect-for/sunday-roast"
   },
   {
    "slug": "tamila-clapham",
@@ -7694,9 +8258,9 @@
    ],
    "whyGo": "Tamil home cooking in Clapham, picked up by both the Good Food Guide and Time Out.",
    "signals": "2 sources",
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-indian-restaurants"
+   "sourceCount": "3",
+   "sourceTiers": "A1 B2",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london | https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262 | https://www.timeout.com/london/restaurants/londons-best-indian-restaurants"
   },
   {
    "slug": "udaya-kerala",
@@ -7726,10 +8290,7 @@
     "groups"
    ],
    "whyGo": "Keralan cooking - appam, coastal fish, coconut - rather than the northern menu most London curry houses run.",
-   "signals": "2 sources",
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://london.eater.com/maps/best-indian-restaurants-london"
+   "signals": "2 sources"
   },
   {
    "slug": "hyderabadi-spice",
@@ -7864,9 +8425,9 @@
     "vegetarian",
     "best-indian:15"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+   "sourceCount": "2",
+   "sourceTiers": "A1 B1",
+   "sourceUrls": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://www.timeout.com/london/restaurants/best-restaurants-in-london"
   },
   {
    "slug": "saravanaa-bhavan",
@@ -8068,11 +8629,11 @@
    "signals": "3 domains; National Restaurant Awards top 100",
    "lists": [
     "nicest-dining",
-    "sunday-roast",
-    "breakfast"
+    "breakfast",
+    "sunday-roast:14"
    ],
-   "sourceCount": "6",
-   "sourceTiers": "A1 B2 C2 D1",
+   "sourceCount": "8",
+   "sourceTiers": "A1 B2 C2 D3",
    "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london | https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
   },
   {
@@ -8108,9 +8669,9 @@
    "lists": [
     "nicest-dining"
    ],
-   "sourceCount": "6",
-   "sourceTiers": "B4 C2",
-   "sourceUrls": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326 | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed | https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+   "sourceCount": "7",
+   "sourceTiers": "A1 B4 C2",
+   "sourceUrls": "https://www.worldbeststeaks.com/the-list | https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326 | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
   },
   {
    "slug": "core-by-clare-smyth",
@@ -9939,9 +10500,9 @@
     "date"
    ],
    "whyGo": "Alan Yau put a Chinese kitchen inside a Berwick Street pub - copper tanks downstairs, dining room above. The format has no real equivalent.",
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876 | https://www.theinfatuation.com/london/cuisines/dim-sum"
   },
   {
    "slug": "sichuan-folk",
@@ -10433,9 +10994,9 @@
     "markets",
     "showstopper"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "C1 D1",
-   "sourceUrls": "https://www.lamplitlondon.com/guides/best-food-markets-london/ | https://www.youtube.com/@claudia-romeo"
+   "sourceCount": "6",
+   "sourceTiers": "B1 C4 D1",
+   "sourceUrls": "https://www.timeout.com/london/shopping/best-london-markets | https://www.lamplitlondon.com/guides/best-food-markets-london/ | https://www.solosophie.com/best-markets-in-london/"
   },
   {
    "slug": "kappacasein",
@@ -10545,9 +11106,12 @@
    ],
    "whyGo": "Mersea oysters shucked in front of you by a family that has been farming them since the 1700s, with a few pavement tables and a glass of wine.",
    "signature": "Mersea oysters",
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/ | https://budgettraveller.org/best-cheap-eats-london-guide/"
+   "lists": [
+    "seafood"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B1 C1 D1",
+   "sourceUrls": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/ | https://budgettraveller.org/best-cheap-eats-london-guide/ | https://www.youtube.com/@BitesizeReviews"
   },
   {
    "slug": "bread-ahead",
@@ -10628,11 +11192,12 @@
    "lists": [
     "best-value",
     "markets",
-    "showstopper"
+    "showstopper",
+    "seafood"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "C2",
-   "sourceUrls": "https://www.lamplitlondon.com/guides/best-food-markets-london/ | https://awaytothecity.com/unique-things-to-do-in-london/"
+   "sourceCount": "5",
+   "sourceTiers": "B1 C4",
+   "sourceUrls": "https://www.timeout.com/london/shopping/best-london-markets | https://www.lamplitlondon.com/guides/best-food-markets-london/ | https://gowanderly.com/best-markets-in-london/"
   },
   {
    "slug": "seven-dials-market",
@@ -10672,7 +11237,10 @@
     "best-value",
     "markets",
     "showstopper"
-   ]
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B1 C2",
+   "sourceUrls": "https://www.theinfatuation.com/london/cuisines/dim-sum | https://www.solosophie.com/best-markets-in-london/ | https://littlegreybox.net/must-visit-london-markets/"
   },
   {
    "slug": "pick-and-cheese",
@@ -10791,9 +11359,9 @@
     "markets",
     "showstopper"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "C2",
-   "sourceUrls": "https://thenudge.com/collections/things-to-do-in-shoreditch/ | https://www.thingstodoinlondon.com/things-to-do/shoreditch/"
+   "sourceCount": "5",
+   "sourceTiers": "B1 C4",
+   "sourceUrls": "https://www.timeout.com/london/shopping/best-london-markets | https://thenudge.com/collections/things-to-do-in-shoreditch/ | https://www.thingstodoinlondon.com/things-to-do/shoreditch/"
   },
   {
    "slug": "broadway-market",
@@ -10833,9 +11401,9 @@
     "best-value",
     "markets"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "C1",
-   "sourceUrls": "https://www.lamplitlondon.com/guides/best-food-markets-london/"
+   "sourceCount": "4",
+   "sourceTiers": "B1 C3",
+   "sourceUrls": "https://www.timeout.com/london/shopping/best-london-markets | https://www.lamplitlondon.com/guides/best-food-markets-london/ | https://www.solosophie.com/best-markets-in-london/"
   },
   {
    "slug": "market-halls-victoria",
@@ -11020,7 +11588,10 @@
    "opNote": "Zone 4 on the Northern line, so it is a trip rather than a stop-off, and worth going hungry for. Cash-light but busy at weekends; the kiosks turn over quickly.",
    "lists": [
     "best-value"
-   ]
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "B1",
+   "sourceUrls": "https://www.theinfatuation.com/london/cuisines/dim-sum"
   },
   {
    "slug": "crate-walthamstow",
@@ -11312,7 +11883,10 @@
     "best-value",
     "markets",
     "showstopper"
-   ]
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "B1 C3",
+   "sourceUrls": "https://www.timeout.com/london/shopping/best-london-markets | https://www.solosophie.com/best-markets-in-london/ | https://gowanderly.com/best-markets-in-london/"
   },
   {
    "slug": "45-jermyn-st",
@@ -11436,9 +12010,9 @@
    "lists": [
     "fish-and-chips"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "A1 B1 D2",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london | https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.youtube.com/@HarrisonWebb97"
+   "sourceCount": "5",
+   "sourceTiers": "A1 B2 D2",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london | https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.designmynight.com/london/seafood-restaurants-in-london"
   },
   {
    "slug": "shoreditch-fish-and-chips",
@@ -13802,10 +14376,7 @@
    "lists": [
     "best-value",
     "vegetarian"
-   ],
-   "sourceCount": "3",
-   "sourceTiers": "B2 C1",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-falafel-london | https://www.mob.co.uk/life/the-best-falafel-in-london | https://secretldn.com/falafel-in-london/"
+   ]
   },
   {
    "slug": "meza-tooting",
@@ -15594,10 +16165,7 @@
    "whyGo": "Twenty years on New Malden high street, where the owner will still tell you the right ratio of lettuce, garlic, leek and kimchi to build a wrap.",
    "lists": [
     "korean-bbq"
-   ],
-   "sourceCount": "1",
-   "sourceTiers": "C1",
-   "sourceUrls": "https://kingstoncompass.com/guides/best-korean-food-new-malden/"
+   ]
   },
   {
    "slug": "k-town-bbq",
@@ -16288,6 +16856,9 @@
     "groups"
    ],
    "whyGo": "Mexican seafood specifically - tostadas, ceviche and aguachile rather than the meat-led menu everywhere else runs.",
+   "lists": [
+    "seafood"
+   ],
    "sourceCount": "6",
    "sourceTiers": "B5 C1",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-mexican-restaurants | https://www.forbes.com/sites/joanneshurvell/2026/03/19/10-of-the-best-mexican--restaurants-in-london/ | https://www.olivemagazine.com/restaurants/london/best-new-restaurants-in-london/"
@@ -17313,8 +17884,8 @@
     "special-occasion",
     "best-indian:11"
    ],
-   "sourceCount": "7",
-   "sourceTiers": "B6 C1",
+   "sourceCount": "8",
+   "sourceTiers": "B6 C1 D1",
    "sourceUrls": "https://www.forbes.com/sites/joanneshurvell/2026/08/09/7-new-london-restaurants-to-try-summer-2026/ | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://www.theinfatuation.com/london/guides/best-indian-restaurants-london"
   },
   {
@@ -17594,10 +18165,11 @@
    "whyGo": "Ross Shonhan went from exec chef at Nobu to founding Bone Daddies, and has now opened a full-dress Mayfair seafood room - an unusual arc.",
    "lists": [
     "nicest-dining",
-    "special-occasion"
+    "special-occasion",
+    "seafood"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B3 C1",
+   "sourceCount": "5",
+   "sourceTiers": "B3 C1 D1",
    "sourceUrls": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326 | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed | https://www.thehandbook.com/london-seafood-restaurants/"
   },
   {
@@ -18396,9 +18968,12 @@
     "groups"
    ],
    "whyGo": "The Soho pub that was the Free French headquarters in the war, with a small dining room above it and beer served only in halves downstairs.",
-   "sourceCount": "4",
-   "sourceTiers": "A1 B2 C1",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london | https://www.theinfatuation.com/london/guides/the-best-french-restaurants-in-london | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
+   "lists": [
+    "sunday-roast"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "A2 B2 C1",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london | https://www.top50gastropubs.com/list/1-50 | https://www.theinfatuation.com/london/guides/the-best-french-restaurants-in-london"
   },
   {
    "slug": "ottos-french-restaurant",
@@ -19004,9 +19579,9 @@
     "groups"
    ],
    "whyGo": "Scottish seafood cooked the Spanish way in Stoke Newington - the name is the whole idea.",
-   "sourceCount": "2",
-   "sourceTiers": "B2",
-   "sourceUrls": "https://foodism.co.uk/guides/best-tapas-london/ | https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish"
+   "sourceCount": "3",
+   "sourceTiers": "B3",
+   "sourceUrls": "https://www.designmynight.com/london/seafood-restaurants-in-london | https://foodism.co.uk/guides/best-tapas-london/ | https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish"
   },
   {
    "slug": "mangal-2",
@@ -19761,7 +20336,8 @@
    ],
    "whyGo": "Whole fish and Greek seafood cooking treated at fine-dining level, which almost nothing else in London does.",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "seafood"
    ],
    "sourceCount": "2",
    "sourceTiers": "B2",
@@ -19958,9 +20534,9 @@
     "nicest-dining",
     "best-steak:11"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B4 C1",
-   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262 | https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish | https://www.wallpaper.com/travel/restaurants/best-spanish-restaurants-london"
+   "sourceCount": "8",
+   "sourceTiers": "A1 B4 C1 D2",
+   "sourceUrls": "https://www.worldbeststeaks.com/the-list | https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262 | https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish"
   },
   {
    "slug": "maresco",
@@ -20880,7 +21456,7 @@
    ],
    "sourceCount": "1",
    "sourceTiers": "B1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+   "sourceUrls": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
   },
   {
    "slug": "julies",
@@ -20917,9 +21493,9 @@
     "showstopper",
     "special-occasion"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "A1 B1",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london | https://luxlifelondon.com/best-italian-restaurants-london/"
+   "sourceCount": "3",
+   "sourceTiers": "A1 B2",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london | https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches | https://luxlifelondon.com/best-italian-restaurants-london/"
   },
   {
    "slug": "bob-bob-ricard",
@@ -21765,9 +22341,9 @@
    "lists": [
     "best-value"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://balancejournal.co/food-drink/best-indian-restaurants-london"
+   "sourceCount": "4",
+   "sourceTiers": "A1 B1 C1 D1",
+   "sourceUrls": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/ | https://balancejournal.co/food-drink/best-indian-restaurants-london"
   },
   {
    "slug": "berenjak",
@@ -22350,8 +22926,12 @@
    "whyGo": "The fishmonger that supplies Ikoyi and KOL, now with a 40-seat bistro above and a ten-seat seafood bar below - you can buy the fish on the way out.",
    "signals": "Michelin Guide listed",
    "lists": [
-    "nicest-dining"
-   ]
+    "nicest-dining",
+    "seafood"
+   ],
+   "sourceCount": "8",
+   "sourceTiers": "B6 C2",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/londons-new-restaurant-openings | https://www.olivemagazine.com/restaurants/london/best-new-restaurants-in-london/ | https://www.designmynight.com/london/blog/new-restaurants-london"
   },
   {
    "slug": "appalachia",
@@ -22787,8 +23367,7 @@
    "whyGo": "Joe Beddia of Pizzeria Beddia in Philadelphia partnered with Four Legs to open his only restaurant outside the United States - a New York and Philly pizza site crossed with an Italian neighbourhood bar.",
    "signature": "Tomato pie",
    "lists": [
-    "nicest-dining",
-    "best-italian:11"
+    "nicest-dining"
    ],
    "sourceCount": "5",
    "sourceTiers": "B3 C2",
@@ -23409,7 +23988,10 @@
    "lists": [
     "best-value",
     "markets"
-   ]
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "B1 C3",
+   "sourceUrls": "https://www.timeout.com/london/shopping/best-london-markets | https://www.solosophie.com/best-markets-in-london/ | https://gowanderly.com/best-markets-in-london/"
   },
   {
    "slug": "cutty-sark-street-food-market",
@@ -23669,7 +24251,10 @@
    "whyGo": "A Grade II listed early nineteenth-century pub on the Thames at Coldharbour, looking across at the O2 - a genuine old building in an area that has almost none left.",
    "lists": [
     "showstopper"
-   ]
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "E1",
+   "sourceUrls": "https://www.reddit.com/r/london/"
   },
   {
    "slug": "berbere-stratford",
@@ -23706,9 +24291,9 @@
    "lists": [
     "best-value"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/"
+   "sourceCount": "3",
+   "sourceTiers": "B2 C1",
+   "sourceUrls": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/"
   },
   {
    "slug": "the-cow-stratford",
@@ -23966,9 +24551,12 @@
    ],
    "whyGo": "An oyster bar with fish arriving from Devon daily and a specials board that changes with the boat.",
    "signature": "Oysters",
-   "sourceCount": "3",
-   "sourceTiers": "B3",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london | https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london | https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
+   "lists": [
+    "seafood"
+   ],
+   "sourceCount": "6",
+   "sourceTiers": "A1 B4 C1",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london | https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london | https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london"
   },
   {
    "slug": "sticks-n-sushi-battersea",
@@ -24142,8 +24730,8 @@
    "lists": [
     "bakery"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "A1 B1 C1",
+   "sourceCount": "4",
+   "sourceTiers": "A1 B1 C1 D1",
    "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-bakeries-in-london | https://www.timeout.com/london/news/10-london-bakeries-have-been-crowned-the-best-in-the-uk-for-2026-032426 | https://www.londonyaar.com/blogs/15-best-bakeries-in-london-to-visit-in-2026-from-sourdough-to-croissants"
   },
   {
@@ -25891,9 +26479,9 @@
     "markets",
     "activities"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://timeout.com/london/things-to-do/shoreditch-area-guide"
+   "sourceCount": "4",
+   "sourceTiers": "B1 C3",
+   "sourceUrls": "https://timeout.com/london/things-to-do/shoreditch-area-guide | https://www.solosophie.com/best-markets-in-london/ | https://gowanderly.com/best-markets-in-london/"
   },
   {
    "slug": "the-holly-bush",
@@ -27224,9 +27812,9 @@
     "best-pizza",
     "best-value"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 D1",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
   },
   {
    "slug": "alley-cats-pizza",
@@ -27264,9 +27852,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://www.thehungrysoles.com/blog/best-pizza-london"
+   "sourceCount": "9",
+   "sourceTiers": "B3 C2 D4",
+   "sourceUrls": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
   },
   {
    "slug": "yard-sale-pizza",
@@ -27300,14 +27888,14 @@
    "dietary": "Substantial vegan menu",
    "whyGo": "Started in a back-yard oven in Homerton in 2014 and grew into east London's default good pizza without ever becoming a chain you would avoid. British ingredients, proper vegan options, and consistent across every branch.",
    "opNote": "Six London sites - Clapton, East Dulwich, Hackney Road, Leytonstone, Walthamstow and Finsbury Park. Clapton is the original.",
-   "signals": "Named by Time Out, Country & Town House and The Infatuation",
+   "signals": "National Pizza Awards 2025 - third place",
    "lists": [
     "best-pizza",
     "best-value"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B1 C2",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.thehungrysoles.com/blog/best-pizza-london"
+   "sourceCount": "6",
+   "sourceTiers": "A1 B3 C2",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london"
   },
   {
    "slug": "rudys-pizza-napoletana",
@@ -27346,9 +27934,9 @@
     "best-pizza",
     "best-value"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "C1",
-   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/"
+   "sourceCount": "5",
+   "sourceTiers": "A1 B2 C1 D1",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
   },
   {
    "slug": "rias-notting-hill",
@@ -27386,9 +27974,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B2",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/wine-bars-london | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+   "sourceCount": "5",
+   "sourceTiers": "B2 D3",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/wine-bars-london | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://www.tiktok.com/@dens_destinations"
   },
   {
    "slug": "spring-street-pizza",
@@ -27426,9 +28014,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/"
+   "sourceCount": "4",
+   "sourceTiers": "B2 C1 D1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/"
   },
   {
    "slug": "vincenzos-pizza",
@@ -27466,9 +28054,9 @@
     "best-pizza",
     "best-value"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+   "sourceCount": "6",
+   "sourceTiers": "B3 D3",
+   "sourceUrls": "https://www.designmynight.com/london/restaurants/best-pizza-restaurants-london | https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
   },
   {
    "slug": "napoli-on-the-road-soho",
@@ -27672,9 +28260,9 @@
     "special-occasion",
     "showstopper"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://london.eater.com/maps/best-british-restaurants-london"
+   "sourceCount": "2",
+   "sourceTiers": "B1 D1",
+   "sourceUrls": "https://london.eater.com/maps/best-british-restaurants-london | https://www.youtube.com/@HarrisonWebb97"
   },
   {
    "slug": "bertie-blossoms",
@@ -27772,7 +28360,10 @@
     "groups"
    ],
    "whyGo": "Guy Ritchie's Fitzrovia pub, pouring beer from his own Gritchie Brewing Company - barley grown on his Wiltshire estate - with a more serious dining room upstairs than the bar downstairs suggests.",
-   "opNote": "Two floors: a proper pub at street level, a restaurant above. The beer is the real tie-in rather than the decor."
+   "opNote": "Two floors: a proper pub at street level, a restaurant above. The beer is the real tie-in rather than the decor.",
+   "sourceCount": "1",
+   "sourceTiers": "D1",
+   "sourceUrls": "https://www.youtube.com/@GaryEats"
   },
   {
    "slug": "fox-and-pheasant",
@@ -28128,9 +28719,9 @@
     "best-value",
     "best-italian:17"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "A1 C1",
-   "sourceUrls": "https://www.hardens.com/az/restaurants/london/w1/icco-pizza.htm | https://www.berkeleysquarebarbarian.com/2024/10/11/icco-pizza-london/"
+   "sourceCount": "3",
+   "sourceTiers": "A1 C1 D1",
+   "sourceUrls": "https://www.hardens.com/az/restaurants/london/w1/icco-pizza.htm | https://www.berkeleysquarebarbarian.com/2024/10/11/icco-pizza-london/ | https://www.youtube.com/@HarrisonWebb97"
   },
   {
    "slug": "masters-superfish",
@@ -28744,9 +29335,12 @@
    "whyGo": "The lobster noodles are the reason - a whole lobster over ginger and spring onion noodles, and the dish most London Chinese restaurants are measured against.",
    "signature": "Lobster noodles",
    "opNote": "Big round tables and lazy susans; built for groups rather than couples. Long-running and deliberately unmodernised.",
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
+   "lists": [
+    "seafood"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 C1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out"
   },
   {
    "slug": "gold-mine",
@@ -28931,9 +29525,9 @@
     "best-value",
     "best-indian:5"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B3 C2",
-   "sourceUrls": "https://luxlifelondon.com/best-breakfast-spots-london/ | https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/",
+   "sourceCount": "12",
+   "sourceTiers": "A2 B3 C4 D3",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://luxlifelondon.com/best-breakfast-spots-london/",
    "branchOf": "dishoom",
    "branchName": "King's Cross"
   },
@@ -28972,9 +29566,9 @@
     "best-value",
     "best-indian:5"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B3 C2",
-   "sourceUrls": "https://luxlifelondon.com/best-breakfast-spots-london/ | https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/",
+   "sourceCount": "12",
+   "sourceTiers": "A2 B3 C4 D3",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://luxlifelondon.com/best-breakfast-spots-london/",
    "branchOf": "dishoom",
    "branchName": "Shoreditch"
   },
@@ -29013,9 +29607,9 @@
     "best-value",
     "best-indian:5"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B3 C2",
-   "sourceUrls": "https://luxlifelondon.com/best-breakfast-spots-london/ | https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/",
+   "sourceCount": "12",
+   "sourceTiers": "A2 B3 C4 D3",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://luxlifelondon.com/best-breakfast-spots-london/",
    "branchOf": "dishoom",
    "branchName": "Canary Wharf"
   },
@@ -29054,9 +29648,9 @@
     "best-value",
     "best-indian:5"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B3 C2",
-   "sourceUrls": "https://luxlifelondon.com/best-breakfast-spots-london/ | https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/",
+   "sourceCount": "12",
+   "sourceTiers": "A2 B3 C4 D3",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://luxlifelondon.com/best-breakfast-spots-london/",
    "branchOf": "dishoom",
    "branchName": "Carnaby"
   },
@@ -29095,9 +29689,9 @@
     "best-value",
     "best-indian:5"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B3 C2",
-   "sourceUrls": "https://luxlifelondon.com/best-breakfast-spots-london/ | https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london | https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/",
+   "sourceCount": "12",
+   "sourceTiers": "A2 B3 C4 D3",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://luxlifelondon.com/best-breakfast-spots-london/",
    "branchOf": "dishoom",
    "branchName": "Battersea"
   },
@@ -29131,13 +29725,13 @@
    "whyGo": "British beef dry-aged and grilled over charcoal, in rooms that were mostly something else first - a brewery, a bank, a ballroom.",
    "signature": "Sunday roast with bone-marrow gravy",
    "lists": [
-    "sunday-roast:12",
     "nicest-dining",
-    "best-steak:1"
+    "best-steak:1",
+    "sunday-roast:12"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B2 C1 D1",
-   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/ | https://londontheinside.com/map/canary-wharf/",
+   "sourceCount": "10",
+   "sourceTiers": "A1 B4 C2 D3",
+   "sourceUrls": "https://www.worldbeststeaks.com/the-list | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak",
    "branchOf": "hawksmoor",
    "branchName": "Air Street"
   },
@@ -29171,13 +29765,13 @@
    "whyGo": "British beef dry-aged and grilled over charcoal, in rooms that were mostly something else first - a brewery, a bank, a ballroom.",
    "signature": "Sunday roast with bone-marrow gravy",
    "lists": [
-    "sunday-roast:12",
     "nicest-dining",
-    "best-steak:1"
+    "best-steak:1",
+    "sunday-roast:12"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B2 C1 D1",
-   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/ | https://londontheinside.com/map/canary-wharf/",
+   "sourceCount": "10",
+   "sourceTiers": "A1 B4 C2 D3",
+   "sourceUrls": "https://www.worldbeststeaks.com/the-list | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak",
    "branchOf": "hawksmoor",
    "branchName": "Seven Dials"
   },
@@ -29211,13 +29805,13 @@
    "whyGo": "British beef dry-aged and grilled over charcoal, in rooms that were mostly something else first - a brewery, a bank, a ballroom.",
    "signature": "Sunday roast with bone-marrow gravy",
    "lists": [
-    "sunday-roast:12",
     "nicest-dining",
-    "best-steak:1"
+    "best-steak:1",
+    "sunday-roast:12"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B2 C1 D1",
-   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/ | https://londontheinside.com/map/canary-wharf/",
+   "sourceCount": "10",
+   "sourceTiers": "A1 B4 C2 D3",
+   "sourceUrls": "https://www.worldbeststeaks.com/the-list | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak",
    "branchOf": "hawksmoor",
    "branchName": "Borough"
   },
@@ -29251,13 +29845,13 @@
    "whyGo": "British beef dry-aged and grilled over charcoal, in rooms that were mostly something else first - a brewery, a bank, a ballroom.",
    "signature": "Sunday roast with bone-marrow gravy",
    "lists": [
-    "sunday-roast:12",
     "nicest-dining",
-    "best-steak:1"
+    "best-steak:1",
+    "sunday-roast:12"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B2 C1 D1",
-   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/ | https://londontheinside.com/map/canary-wharf/",
+   "sourceCount": "10",
+   "sourceTiers": "A1 B4 C2 D3",
+   "sourceUrls": "https://www.worldbeststeaks.com/the-list | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak",
    "branchOf": "hawksmoor",
    "branchName": "St Pancras"
   },
@@ -29291,13 +29885,13 @@
    "whyGo": "British beef dry-aged and grilled over charcoal, in rooms that were mostly something else first - a brewery, a bank, a ballroom.",
    "signature": "Sunday roast with bone-marrow gravy",
    "lists": [
-    "sunday-roast:12",
     "nicest-dining",
-    "best-steak:1"
+    "best-steak:1",
+    "sunday-roast:12"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B2 C1 D1",
-   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/ | https://londontheinside.com/map/canary-wharf/",
+   "sourceCount": "10",
+   "sourceTiers": "A1 B4 C2 D3",
+   "sourceUrls": "https://www.worldbeststeaks.com/the-list | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak",
    "branchOf": "hawksmoor",
    "branchName": "Canary Wharf"
   },
@@ -29329,13 +29923,13 @@
    "signature": "All In, £28pp - beef, pork and lamb chops on flatbreads",
    "signals": "3 sources; five London sites",
    "lists": [
-    "sunday-roast:10",
     "best-value",
-    "best-steak:3"
+    "best-steak:3",
+    "sunday-roast:11"
    ],
-   "sourceCount": "6",
-   "sourceTiers": "B3 C1 D2",
-   "sourceUrls": "https://www.mob.co.uk/life/best-burgers-in-london | https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/",
+   "sourceCount": "15",
+   "sourceTiers": "B6 C1 D8",
+   "sourceUrls": "https://london.eater.com/maps/best-british-restaurants-london | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.timeout.com/london/food-and-drink/londons-best-burger-restaurants-1",
    "branchOf": "blacklock",
    "branchName": "City"
   },
@@ -29367,13 +29961,13 @@
    "signature": "All In, £28pp - beef, pork and lamb chops on flatbreads",
    "signals": "3 sources; five London sites",
    "lists": [
-    "sunday-roast:10",
     "best-value",
-    "best-steak:3"
+    "best-steak:3",
+    "sunday-roast:11"
    ],
-   "sourceCount": "6",
-   "sourceTiers": "B3 C1 D2",
-   "sourceUrls": "https://www.mob.co.uk/life/best-burgers-in-london | https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/",
+   "sourceCount": "15",
+   "sourceTiers": "B6 C1 D8",
+   "sourceUrls": "https://london.eater.com/maps/best-british-restaurants-london | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.timeout.com/london/food-and-drink/londons-best-burger-restaurants-1",
    "branchOf": "blacklock",
    "branchName": "Shoreditch"
   },
@@ -29405,13 +29999,13 @@
    "signature": "All In, £28pp - beef, pork and lamb chops on flatbreads",
    "signals": "3 sources; five London sites",
    "lists": [
-    "sunday-roast:10",
     "best-value",
-    "best-steak:3"
+    "best-steak:3",
+    "sunday-roast:11"
    ],
-   "sourceCount": "6",
-   "sourceTiers": "B3 C1 D2",
-   "sourceUrls": "https://www.mob.co.uk/life/best-burgers-in-london | https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/",
+   "sourceCount": "15",
+   "sourceTiers": "B6 C1 D8",
+   "sourceUrls": "https://london.eater.com/maps/best-british-restaurants-london | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.timeout.com/london/food-and-drink/londons-best-burger-restaurants-1",
    "branchOf": "blacklock",
    "branchName": "Covent Garden"
   },
@@ -29443,13 +30037,13 @@
    "signature": "All In, £28pp - beef, pork and lamb chops on flatbreads",
    "signals": "3 sources; five London sites",
    "lists": [
-    "sunday-roast:10",
     "best-value",
-    "best-steak:3"
+    "best-steak:3",
+    "sunday-roast:11"
    ],
-   "sourceCount": "6",
-   "sourceTiers": "B3 C1 D2",
-   "sourceUrls": "https://www.mob.co.uk/life/best-burgers-in-london | https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/ | https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/",
+   "sourceCount": "15",
+   "sourceTiers": "B6 C1 D8",
+   "sourceUrls": "https://london.eater.com/maps/best-british-restaurants-london | https://www.theinfatuation.com/london/perfect-for/sunday-roast | https://www.timeout.com/london/food-and-drink/londons-best-burger-restaurants-1",
    "branchOf": "blacklock",
    "branchName": "Canary Wharf"
   },
@@ -29484,8 +30078,8 @@
     "best-value",
     "best-italian:13"
    ],
-   "sourceCount": "8",
-   "sourceTiers": "B5 C3",
+   "sourceCount": "9",
+   "sourceTiers": "B5 C3 D1",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-italian-restaurants | https://www.countryandtownhouse.com/food-and-drink/best-italian-restaurants-in-london/ | https://luxlifelondon.com/best-italian-restaurants-london/",
    "branchOf": "padella",
    "branchName": "Borough Market"
@@ -29521,8 +30115,8 @@
     "best-value",
     "best-italian:13"
    ],
-   "sourceCount": "8",
-   "sourceTiers": "B5 C3",
+   "sourceCount": "9",
+   "sourceTiers": "B5 C3 D1",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-italian-restaurants | https://www.countryandtownhouse.com/food-and-drink/best-italian-restaurants-in-london/ | https://luxlifelondon.com/best-italian-restaurants-london/",
    "branchOf": "padella",
    "branchName": "Shoreditch"
@@ -29557,8 +30151,8 @@
     "best-value",
     "best-italian:13"
    ],
-   "sourceCount": "8",
-   "sourceTiers": "B5 C3",
+   "sourceCount": "9",
+   "sourceTiers": "B5 C3 D1",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-italian-restaurants | https://www.countryandtownhouse.com/food-and-drink/best-italian-restaurants-in-london/ | https://luxlifelondon.com/best-italian-restaurants-london/",
    "branchOf": "padella",
    "branchName": "Soho"
@@ -29593,8 +30187,8 @@
     "best-italian:14"
    ],
    "video": "https://youtu.be/a6sx9OCMEpw?t=209",
-   "sourceCount": "4",
-   "sourceTiers": "B1 C2 D1",
+   "sourceCount": "6",
+   "sourceTiers": "B1 C2 D3",
    "sourceUrls": "https://www.thehandbook.com/best-pasta-restaurants-london/ | https://thenudge.com/bib-gourmands-in-london/ | https://balancejournal.co/food-drink/best-italian-restaurants-london",
    "branchOf": "bancone",
    "branchName": "Golden Square"
@@ -29629,8 +30223,8 @@
     "best-italian:14"
    ],
    "video": "https://youtu.be/a6sx9OCMEpw?t=209",
-   "sourceCount": "4",
-   "sourceTiers": "B1 C2 D1",
+   "sourceCount": "6",
+   "sourceTiers": "B1 C2 D3",
    "sourceUrls": "https://www.thehandbook.com/best-pasta-restaurants-london/ | https://thenudge.com/bib-gourmands-in-london/ | https://balancejournal.co/food-drink/best-italian-restaurants-london",
    "branchOf": "bancone",
    "branchName": "Borough Yards"
@@ -29665,8 +30259,8 @@
     "best-italian:14"
    ],
    "video": "https://youtu.be/a6sx9OCMEpw?t=209",
-   "sourceCount": "4",
-   "sourceTiers": "B1 C2 D1",
+   "sourceCount": "6",
+   "sourceTiers": "B1 C2 D3",
    "sourceUrls": "https://www.thehandbook.com/best-pasta-restaurants-london/ | https://thenudge.com/bib-gourmands-in-london/ | https://balancejournal.co/food-drink/best-italian-restaurants-london",
    "branchOf": "bancone",
    "branchName": "Kensington"
@@ -29701,8 +30295,8 @@
     "best-italian:14"
    ],
    "video": "https://youtu.be/a6sx9OCMEpw?t=209",
-   "sourceCount": "4",
-   "sourceTiers": "B1 C2 D1",
+   "sourceCount": "6",
+   "sourceTiers": "B1 C2 D3",
    "sourceUrls": "https://www.thehandbook.com/best-pasta-restaurants-london/ | https://thenudge.com/bib-gourmands-in-london/ | https://balancejournal.co/food-drink/best-italian-restaurants-london",
    "branchOf": "bancone",
    "branchName": "City"
@@ -29737,8 +30331,8 @@
     "best-italian:14"
    ],
    "video": "https://youtu.be/a6sx9OCMEpw?t=209",
-   "sourceCount": "4",
-   "sourceTiers": "B1 C2 D1",
+   "sourceCount": "6",
+   "sourceTiers": "B1 C2 D3",
    "sourceUrls": "https://www.thehandbook.com/best-pasta-restaurants-london/ | https://thenudge.com/bib-gourmands-in-london/ | https://balancejournal.co/food-drink/best-italian-restaurants-london",
    "branchOf": "bancone",
    "branchName": "Russell Square"
@@ -30122,9 +30716,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B1 C1 D2",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.youtube.com/@HarrisonWebb97",
+   "sourceCount": "6",
+   "sourceTiers": "A1 B1 C1 D3",
+   "sourceUrls": "https://www.50toppizza.it/50-top-pizza-europa-2025-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe/ | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/",
    "branchOf": "napoli-on-the-road",
    "branchName": "Soho",
    "guide": "soho-area-guide"
@@ -30157,9 +30751,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B1 C1 D2",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.youtube.com/@HarrisonWebb97",
+   "sourceCount": "6",
+   "sourceTiers": "A1 B1 C1 D3",
+   "sourceUrls": "https://www.50toppizza.it/50-top-pizza-europa-2025-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe/ | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/",
    "branchOf": "napoli-on-the-road",
    "branchName": "Richmond",
    "guide": "richmond-area-guide"
@@ -30193,9 +30787,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "C2",
-   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.thehungrysoles.com/blog/best-pizza-london",
+   "sourceCount": "4",
+   "sourceTiers": "A1 B1 C2",
+   "sourceUrls": "https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london | https://mayfairfoodie.com/best-pizzas-in-london/",
    "branchOf": "lantica-pizzeria-da-michele",
    "branchName": "Baker Street"
   },
@@ -30227,9 +30821,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "C2",
-   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.thehungrysoles.com/blog/best-pizza-london",
+   "sourceCount": "4",
+   "sourceTiers": "A1 B1 C2",
+   "sourceUrls": "https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london | https://mayfairfoodie.com/best-pizzas-in-london/",
    "branchOf": "lantica-pizzeria-da-michele",
    "branchName": "Stoke Newington"
   },
@@ -30264,9 +30858,9 @@
     "best-pizza",
     "best-value"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "D1",
-   "sourceUrls": "https://www.youtube.com/@HarrisonWebb97",
+   "sourceCount": "4",
+   "sourceTiers": "B1 D3",
+   "sourceUrls": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.youtube.com/@HarrisonWebb97 | https://www.youtube.com/@SamWilder",
    "branchOf": "homeslice",
    "branchName": "Neal's Yard"
   },
@@ -30301,9 +30895,9 @@
     "best-pizza",
     "best-value"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "D1",
-   "sourceUrls": "https://www.youtube.com/@HarrisonWebb97",
+   "sourceCount": "4",
+   "sourceTiers": "B1 D3",
+   "sourceUrls": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.youtube.com/@HarrisonWebb97 | https://www.youtube.com/@SamWilder",
    "branchOf": "homeslice",
    "branchName": "City"
   },
@@ -30338,9 +30932,9 @@
     "best-pizza",
     "best-value"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "D1",
-   "sourceUrls": "https://www.youtube.com/@HarrisonWebb97",
+   "sourceCount": "4",
+   "sourceTiers": "B1 D3",
+   "sourceUrls": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.youtube.com/@HarrisonWebb97 | https://www.youtube.com/@SamWilder",
    "branchOf": "homeslice",
    "branchName": "Marylebone"
   },
@@ -30369,9 +30963,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "C1",
-   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/",
+   "sourceCount": "2",
+   "sourceTiers": "C1 D1",
+   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.tiktok.com/@rosielewis_",
    "branchOf": "santa-maria-pizzeria",
    "branchName": "Fulham"
   },
@@ -30400,9 +30994,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "C1",
-   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/",
+   "sourceCount": "2",
+   "sourceTiers": "C1 D1",
+   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.tiktok.com/@rosielewis_",
    "branchOf": "santa-maria-pizzeria",
    "branchName": "Fitzrovia"
   },
@@ -30431,9 +31025,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "C1",
-   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/",
+   "sourceCount": "2",
+   "sourceTiers": "C1 D1",
+   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.tiktok.com/@rosielewis_",
    "branchOf": "santa-maria-pizzeria",
    "branchName": "Paddington",
    "guide": "paddington-area-guide"
@@ -30463,9 +31057,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "C1",
-   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/",
+   "sourceCount": "2",
+   "sourceTiers": "C1 D1",
+   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.tiktok.com/@rosielewis_",
    "branchOf": "santa-maria-pizzeria",
    "branchName": "Kew"
   },
@@ -30494,9 +31088,9 @@
    "lists": [
     "best-pizza"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "C1",
-   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/",
+   "sourceCount": "2",
+   "sourceTiers": "C1 D1",
+   "sourceUrls": "https://mayfairfoodie.com/best-pizzas-in-london/ | https://www.tiktok.com/@rosielewis_",
    "branchOf": "santa-maria-pizzeria",
    "branchName": "Islington",
    "guide": "islington-area-guide"
@@ -30525,9 +31119,13 @@
    ],
    "dietary": "Gluten-free base available",
    "whyGo": "Offers four different doughs including a 48-hour and a charcoal base, which makes it the most useful of the group for gluten-sensitive diners.",
+   "signals": "National Pizza Awards 2025 - London shortlist",
    "lists": [
     "best-pizza"
    ],
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 D1",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "Islington"
   },
@@ -30554,9 +31152,13 @@
    ],
    "dietary": "Gluten-free base available",
    "whyGo": "Offers four different doughs including a 48-hour and a charcoal base, which makes it the most useful of the group for gluten-sensitive diners.",
+   "signals": "National Pizza Awards 2025 - London shortlist",
    "lists": [
     "best-pizza"
    ],
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 D1",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "Hammersmith"
   },
@@ -30583,9 +31185,13 @@
    ],
    "dietary": "Gluten-free base available",
    "whyGo": "Offers four different doughs including a 48-hour and a charcoal base, which makes it the most useful of the group for gluten-sensitive diners.",
+   "signals": "National Pizza Awards 2025 - London shortlist",
    "lists": [
     "best-pizza"
    ],
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 D1",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "Wembley"
   },
@@ -30612,9 +31218,13 @@
    ],
    "dietary": "Gluten-free base available",
    "whyGo": "Offers four different doughs including a 48-hour and a charcoal base, which makes it the most useful of the group for gluten-sensitive diners.",
+   "signals": "National Pizza Awards 2025 - London shortlist",
    "lists": [
     "best-pizza"
    ],
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 D1",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "Aldgate East"
   },
@@ -30642,9 +31252,13 @@
    ],
    "dietary": "Gluten-free base available",
    "whyGo": "Offers four different doughs including a 48-hour and a charcoal base, which makes it the most useful of the group for gluten-sensitive diners.",
+   "signals": "National Pizza Awards 2025 - London shortlist",
    "lists": [
     "best-pizza"
    ],
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 D1",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "Canary Wharf"
   },
@@ -30671,9 +31285,13 @@
    ],
    "dietary": "Gluten-free base available",
    "whyGo": "Offers four different doughs including a 48-hour and a charcoal base, which makes it the most useful of the group for gluten-sensitive diners.",
+   "signals": "National Pizza Awards 2025 - London shortlist",
    "lists": [
     "best-pizza"
    ],
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 D1",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "Wandsworth"
   },
@@ -30700,9 +31318,13 @@
    ],
    "dietary": "Gluten-free base available",
    "whyGo": "Offers four different doughs including a 48-hour and a charcoal base, which makes it the most useful of the group for gluten-sensitive diners.",
+   "signals": "National Pizza Awards 2025 - London shortlist",
    "lists": [
     "best-pizza"
    ],
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 D1",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "West Hampstead"
   },
@@ -30730,9 +31352,13 @@
    ],
    "dietary": "Gluten-free base available",
    "whyGo": "Offers four different doughs including a 48-hour and a charcoal base, which makes it the most useful of the group for gluten-sensitive diners.",
+   "signals": "National Pizza Awards 2025 - London shortlist",
    "lists": [
     "best-pizza"
    ],
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 D1",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "Chelsea"
   },
@@ -30864,6 +31490,81 @@
    "sourceUrls": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/ | https://balancejournal.co/food-drink/best-japanese-restaurants-london | https://www.londonxlondon.com/late-night-restaurants-london/",
    "branchOf": "sushisamba-heron-tower",
    "branchName": "Covent Garden"
+  },
+  {
+   "slug": "crisp-at-the-marlborough--mayfair-the-marlborough",
+   "name": "Crisp Pizza at The Marlborough",
+   "cuisine": "Italian",
+   "style": "New Haven-style pizza",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Pub / Pizzeria",
+   "chainType": "mini-chain",
+   "context": "The Marlborough (pub)",
+   "area": "Mayfair",
+   "zone": "1, 2",
+   "district": "Central, West",
+   "borough": "Westminster",
+   "guide": "mayfair-area-guide",
+   "address": "24 N Audley St, Mayfair W1K 6WD",
+   "price": "££",
+   "website": "https://www.crispmayfair.com/",
+   "setting": "basement",
+   "goodFor": [
+    "groups",
+    "solo",
+    "quick"
+   ],
+   "dietary": "Marinara is the only fully vegan pizza",
+   "whyGo": "Carl McCluskey's Crisp, previously only in Hammersmith, brought into central London inside a relaunched Mayfair pub - with the team behind The Devonshire.",
+   "signature": "New Haven pies - traditional, grandma (square, feeds 2-3) and bar pies",
+   "opNote": "TWO VENUES IN ONE. The ground-floor pub is walk-in only and pours Guinness; the pizzeria is in the basement and takes bookings through SevenRooms. IMPORTANT: pizza is not served on Mondays even though the pub is open 11:00-23:00. Pizza runs Tue-Thu 11:30-21:30, Fri-Sat to 22:30, Sun to 20:30.",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "11",
+   "sourceTiers": "B3 C2 D6",
+   "sourceUrls": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+   "branchOf": "crisp-at-the-marlborough",
+   "branchName": "Mayfair (The Marlborough)"
+  },
+  {
+   "slug": "crisp-at-the-marlborough--hammersmith-the-chancellors",
+   "name": "Crisp Pizza at The Marlborough",
+   "cuisine": "Italian",
+   "style": "New Haven-style pizza",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Pub / Pizzeria",
+   "chainType": "mini-chain",
+   "context": "The Marlborough (pub)",
+   "area": "Hammersmith",
+   "zone": "1, 2",
+   "district": "Central, West",
+   "borough": "Hammersmith and Fulham",
+   "address": "25 Crisp Road, Hammersmith W6 9RL",
+   "price": "££",
+   "website": "https://www.crispmayfair.com/",
+   "setting": "basement",
+   "goodFor": [
+    "groups",
+    "solo",
+    "quick"
+   ],
+   "dietary": "Marinara is the only fully vegan pizza",
+   "whyGo": "Carl McCluskey's Crisp, previously only in Hammersmith, brought into central London inside a relaunched Mayfair pub - with the team behind The Devonshire.",
+   "signature": "New Haven pies - traditional, grandma (square, feeds 2-3) and bar pies",
+   "opNote": "TWO VENUES IN ONE. The ground-floor pub is walk-in only and pours Guinness; the pizzeria is in the basement and takes bookings through SevenRooms. IMPORTANT: pizza is not served on Mondays even though the pub is open 11:00-23:00. Pizza runs Tue-Thu 11:30-21:30, Fri-Sat to 22:30, Sun to 20:30.",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "11",
+   "sourceTiers": "B3 C2 D6",
+   "sourceUrls": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+   "branchOf": "crisp-at-the-marlborough",
+   "branchName": "Hammersmith (The Chancellors)"
   }
  ]
 }

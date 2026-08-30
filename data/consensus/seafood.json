@@ -19,27 +19,103 @@
         "Behind",
         "Wright Brothers",
         "Bentley's Oyster Bar & Grill",
-        "The Sea",
+        "The Sea, The Sea",
         "Scott's",
         "Wiltons",
         "Rick Stein",
         "Sea Garden & Grill",
         "Manzi's",
         "Dinings SW3"
-      ]
+      ],
+      "quotes": {
+        "Tollington's": "#1 in Time Out's ranking. A Spanish-ish style seafood bar in Finsbury Park from the guys behind the nearby gastropub The Plimsoll. It's in an old fish and chip shop, which actually makes it feel more like a backstreet San Sebastian pintxos bar than any fan",
+        "Sweetings": "#2 in Time Out's ranking. Things don't change much at this enduring City classic, and that's the way everyone likes it. They serve regulars from behind counters fronted by stools, proffering sliced bread and butter and lemon wedges, filling glasses with wh",
+        "Applebee's": "#3 in Time Out's ranking. Applebee's has been doing its quietly impressive thing since 2000. Starting life as a fishmonger, it casually morphed into a cutesy f amily-run seafood restaurant and now has executive chef, Frankie van Loo, making magic in the ki",
+        "J Sheekey": "#4 in Time Out's ranking. This grand dame of the Theatreland dining scene needs no introduction - critics love it, celebs flock to it, and the rest of us try frantically to get a table. Happily, both somebodies and nobodies get an equally warm welcome here",
+        "Kima": "#5 in Time Out's ranking. This Greek, 'fin-to-gill' fish restaurant has a philosophy of zero wastage, which means you may end up eating an entire gilt head bream, prepared in a multitude of ways. Dishes range from the sublime (the ancient fish stew of kaka",
+        "Parsons": "#6 in Time Out's ranking. This tiny, tiled gem of a restaurant is fresh in every sense of the word. It's unassuming, unpretentious and unrelenting in dishing up fabulous fish.",
+        "Randall & Aubin": "#7 in Time Out's ranking. Randall & Aubin marches to the beat of its own drum: it's a fish restaurant that has retained the features and fittings of the former butcher's shop in which it's located, and added a few of its own; marble-topped tables, arty bla",
+        "Cometa": "#8 in Time Out's ranking. This Mexican-inspired seafood restaurant is about the lighter, less carb-conscious side of Latinx cuisine, with nary a taco in sight. This is Tulum for the Mounjaro masses, and the menu brims with fresh and flirty ceviches, tart f",
+        "The Seafood Bar": "#9 in Time Out's ranking. With daily deliveries of the freshest catch, this Dean Street spot also prides itself on being super sustainable. Warm and welcoming, come in for a glass of something fizzy and a few oysters (fresh and naked, or battered in tempur",
+        "Faber": "#10 in Time Out's ranking. In a striking, light-filled corner spot, Faber prides itself on sustainability - but this doesn't mean that flavour takes second place. Far from it; e xec chef Ollie Bass (formerly of Quo Vadis and Sessions Arts Club) is doing mag",
+        "Behind": "#11 in Time Out's ranking. Awarded a Michelin star after being open for only 20 days, Behind is a supremely confident fish-focused tasting menu Shangri-La in the backstreets of London Fields. It ' s 125 a head for 10 courses (with a six course lunch version",
+        "Wright Brothers": "#12 in Time Out's ranking. Everyone loves this lively oyster house - and its siblings in South Kensington and Battersea. They're smart-looking but laid-back destinations in which to sink a few bivalves, a swift stout if you're feeling traditional, and some ",
+        "Bentley's Oyster Bar & Grill": "#13 in Time Out's ranking. Buzzing and bustling on the one hand (the downstairs bar), and restrained and upmarket on the other (upstairs in the old-school restaurant), Bentley's is an old-school Mayfair institution whose regular client base of expense-accou",
+        "The Sea, The Sea": "#14 in Time Out's ranking. This neighbourhood fishmonger morphs into a seafood bar come eveningtime. There's a heated terrace on this quaint mews street, so you can dine al fresco with getting as cold as a pint of prawns.",
+        "Scott's": "#15 in Time Out's ranking. Glamorous Scott's is a stonking great jewel in Mayfair's bling-studded crown. The beauty of this buzzy destination is that the fantastically fresh fish and seafood aren't even the half of it - in fact, it's probably better known a",
+        "Wiltons": "#16 in Time Out's ranking. Established 177 or 277 years ago, depending on whether you count its time as an oyster stall, Wiltons is deeply old-school. If you're a sucker for life's gustatory pleasures, the menu's references to caviar, lobster, smoked salmon",
+        "Rick Stein": "#17 in Time Out's ranking. Sleepy Barnes might seem a random place for fish-focused globetrotter Rick Stein to have opened a London eatery. But, actually, SW14 is a lot like the man himself: relaxed and mostly by the water.",
+        "Sea Garden & Grill": "#18 in Time Out's ranking. Yet another fine addition to Tooting's formerly dingy Broadway Market, Sea Garden & Grill specialises in small-portioned plates of seafood (plus a few salads and meaty bits) that look as lovely as they taste. The style?",
+        "Manzi's": "#19 in Time Out's ranking. For the super kitsch interiors as much as the seafood. This Soho spot is camp in the extreme; all giant fish, massive mermen and coiled rope at every turn.",
+        "Dinings SW3": "#20 in Time Out's ranking. Wallet-dustingly expensive it might be, but Chelsea's Dinings SW3 is a sushi lover's wet dream. Chef/owner Masaki Sugisaki is also big when it comes to sustainability, with the provenance of each fish listed on the menu."
+      },
+      "ranked": true,
+      "note": "Ranked 1-20. Ranks and the per-venue 'Why go?' line recorded 2026-08-30; the first pass kept neither."
     },
     {
       "name": "Hot Dinners",
       "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
       "names": [
-        "Offers",
-        "Test Drives",
-        "Summer",
-        "All features",
-        "See all offers",
-        "Hot Dinners recommends",
-        "Staying in"
-      ]
+        "Pearly Queen",
+        "Faber",
+        "London Shell Co",
+        "Manzi's",
+        "Chapel Market Kitchen",
+        "Angler",
+        "Bentley's",
+        "Bibendum Oyster Bar",
+        "Cornerstone",
+        "Fish Central",
+        "Fish Market",
+        "J Sheekey",
+        "The Grand Duchess",
+        "Lyons",
+        "Mandarin Kitchen",
+        "Orasay",
+        "The Oystermen",
+        "Parsons",
+        "Prawn on the Lawn",
+        "Quilon",
+        "Randall and Aubin",
+        "Rick Stein Barnes",
+        "Scott's",
+        "The Seafood Bar",
+        "The Sea The Sea",
+        "Seabird",
+        "Sweetings",
+        "Wright Bros"
+      ],
+      "quotes": {
+        "Pearly Queen": "Tom Brown's East London oyster bar and restaurant gives classic dishes a seafood spin, whether that's a prawn Scotch egg or cuttlefish lasagne. Even the cocktails (by Three Sheets' Max Venning) have coastal twists. Must-have dish?",
+        "Faber": "Having already run a seafood pub in the East End, the duo behind this West London restaurant had all the contacts they needed for a supply of great fish and shellfish. Look at the blackboard for the daily specials and, if it's on,",
+        "London Shell Co": "They already had quite the reputation for great seafood on their barges (static and mobile) at Paddington, but now the London Shell Co has opened a permanent restaurant and fishmongers in the heart of Highgate. The menu's dictated",
+        "Manzi's": "Tucked off an alley off Soho Square this glitzy temple to seafood comes from the Wolseley Hospitality Group and is a revival of an old restaurant. Expect to find classic dishes given a fish focus, so the Wellington is made with mo",
+        "Chapel Market Kitchen": "This restaurant and oyster bar's handy situation on Chapel Market means it makes the most of the local produce on sale there. As for the seafood, the oysters are sparkling fresh and the seafood gets a Mediterranean spin from chef ",
+        "Angler": "This rooftop, Michelin-starred restaurant in Moorgate turns out fish dishes that are - almost - too pretty to eat. The tasting menu is an all-seafood affair focusing on British fish and shellfish.",
+        "Bentley's": "This Piccadilly institution may be best known for its ground floor oyster bar, but the upstairs dining room sees Richard Corrigan's team serving up classic dishes like Dover Sole (choose between chargrilled or Meunière) as well as",
+        "Bibendum Oyster Bar": "The ground floor of the Bibendum building houses Claude Bosi's French seafood bistro. The seafood platters are a big thing here, but they also have a good selection of caviar too for the South Ken crowd.",
+        "Cornerstone": "This Hackney Wick restaurant serves up superlative seafood. You'll come for the insta-famous crumpet - right now it's a crab & prawn thermidor crumpet with crispy kale and parmesan - but stay for the modern approach to all the fis",
+        "Fish Central": "London's fish and chip options aren't, in the main, very good. But this Farringdon chippy is a cut above the rest. Not only will you get exemplary battered haddock here, you'll also enjoy specials like baked lobster bechamel or pe",
+        "Fish Market": "Set in an 18th-century warehouse once owned by the East India Company, this popular Liverpool Street restaurant offers a top-end wine list for the City crowd to accompany its fish-focused menu and its seafood weekend brunches are ",
+        "J Sheekey": "Launched in the late 19th century, this theatreland restaurant has long been a popular spot with actors popping in for their famous fish pie after a performance. It's recently had quite a refurb but it's still one of our favourite",
+        "The Grand Duchess": "Enjoy a meal on the water without having to set sail in this permanently moored restaurant in the basin at Paddington. Start with a glass of their own-label fizz from Hattingley and enjoy the Cornish crab flatbreads.",
+        "Lyons": "This Crouch End restaurant boasts that not only does it make a point of serving the highest quality seafood but that they also \"make the best use of every part of it\". So you might find Penang fish collars on the menu and jerk sea",
+        "Mandarin Kitchen": "Everyone comes to this Bayswater spot for one dish - the lobster noodles - their Insta feed is full of it. But you'll also discover that it's good for steamed scallops, razor clams and soft shell crab too.",
+        "Orasay": "Jackson Boxer's Notting Hill gaff sets out its stall as \"focussed on fish and seafood, inspired by the Western Isles\". So you might find wood-grilled whole John Dory with a smoked bone marrow bordelaise along with Isle of Mull div",
+        "The Oystermen": "The expansion of this Covent Garden spot gave them space for a raw bar - so pull up a stool at the counter and work your way through the oyster selection, but don't miss out on the Dorset brown crab too with its amazing aioli.",
+        "Parsons": "From the team behind 10 Cases, this WC2 seafood spot is small but perfectly formed. What's on the main menu depends on what's in that day, but you'll always find interesting small plates as well, like sea trout tartare with bloody",
+        "Prawn on the Lawn": "Direct links to Padstow and its day boats mean the fish at this Highbury restaurant couldn't be more sparkling fresh. Obviously, you'll be wanting to try the signature prawn and avo dish alongside the other daily specials.",
+        "Quilon": "This Michelin-starred restaurant focuses on southwest coastal Indian cuisine. And, while the main menu features seafood, meat and vegetarian options, it's the seafood tasting menu you want to go for, which includes lobster butter ",
+        "Randall and Aubin": "For over 20 years this louche little spot on Brewer Street has been packing them in. It's a wonderful spot for a first or second date - just make sure you both have the garlic butter with the langoustines.",
+        "Rick Stein Barnes": "Everyone's favourite TV seafood chef picked a wonderful waterfront spot for his London restaurant. Take a walk pre or post-lunch along the Thames towpath and then warm up with their Indonesian seafood curry.",
+        "Scott's": "On the one hand, it's a gold-plated, celebrity hangout (particularly the Mayfair original), but it's also one of London's oldest restaurants and a superb place for a blowout seafood meal. The newer Richmond ou",
+        "The Seafood Bar": "The arrival of this popular Dutch seafood institution in London meant towering platters of sustainable seafood for Soho diners. There are oysters, fish grilled on the plancha and more, but it's the fruits de mer that will give you",
+        "The Sea The Sea": "This Chelsea restaurant bills itself as \"chef-led fish shop, deli and seafood bar\" - so by day it's a working fishmonger, going wholly over to a restaurant by night. Pair a small plate or three with a glass of Champagne. At the Ha",
+        "Seabird": "This high rise restaurant from the team behind Brooklyn's Maison Premiere mixes local seafood with Mediterranean influences and throws in jaw-dropping views to boot.",
+        "Sweetings": "They describe themselves as \"probably the oldest fish and oyster restaurant in London\" - and certainly this City of London institution is still going strong. There's no messing around with the fish here - but that's how the client",
+        "Wright Bros": "They're famous for their oysters, but Wright Bros. also do a lovely line in London cured smoked salmon and their regularly changing menu reflects what the Brixham day boats have brought in."
+      },
+      "note": "Re-extracted 2026-08-30. The first pass read only the site's own navigation and recorded zero venues."
     },
     {
       "name": "The Infatuation",
@@ -61,15 +137,55 @@
         "Parsons",
         "Trap Kitchen Camden",
         "Poor Boys"
-      ]
+      ],
+      "quotes": {
+        "J Sheekey": "A classic West End post-theatre hangout where you might spot a celebrity and will be guaranteed to have a great seafood meal.",
+        "Randall & Aubin": "Soho institution Randall & Aubin not only has a disco ball in the dining room but it's also one of London's go-to seafood spots.",
+        "Furness Oyster Bar": "A great little stall in Borough Market that's perfect for a grab-and-go oyster fix.",
+        "Wright Brothers": "The Battersea location of this London seafood mini-chain has great riverside views as well as their fantastic oysters, lobster, and bubbles.",
+        "Scott’s Richmond": "The food at Scott's, a high-end seafood spot in Richmond, is consistently impressive and is ideal for a long lunch with a view of the Thames.",
+        "Seabird": "Arguably London's prettiest rooftop, Seabird in Southwark is also home to the best oyster experience in the city.",
+        "Sweetings": "Sweetings is a historical landmark serving seafood to signet rings in the City.",
+        "Wiltons": "An old-school seafood spot in St James's with a whole lot of history, Wiltons is a real class act.",
+        "Parsons": "A cosy seafood restaurant in Covent Garden. It's a sanctuary from the crowds and serves some very nice fish-based dishes too."
+      }
     },
     {
       "name": "DesignMyNight",
       "url": "https://www.designmynight.com/london/seafood-restaurants-in-london",
       "names": [
-        "Rewards",
-        "Jobs"
-      ]
+        "Osteria by Bocconcino",
+        "Inamo Covent Garden",
+        "Daffodil Mulligan",
+        "Bloomsbury Street Kitchen",
+        "Trishna",
+        "The Garrison London",
+        "Steak & Lobster - Various Sites",
+        "Monmouth Kitchen",
+        "28-50 Wine Bars - Various Sites",
+        "The Drift",
+        "Rick Stein Barnes",
+        "Scoff & Banter - Various Sites",
+        "Wiltons",
+        "Darby's",
+        "The Mayfair Chippy",
+        "Brat",
+        "The Seashell of Lisson Grove",
+        "ALBA",
+        "Faber Hammersmith",
+        "Orasay",
+        "Wright Brothers South Kensington",
+        "J Sheekey Oyster Bar",
+        "Seabird",
+        "Fish Market",
+        "The River Restaurant by Gordon Ramsay",
+        "Chicama",
+        "Randall and Aubin",
+        "Island",
+        "Escocesa",
+        "Cornerstone"
+      ],
+      "note": "Re-extracted 2026-08-30. The first pass recorded only 'Rewards' and 'Jobs'."
     },
     {
       "name": "The Good Food Guide",
@@ -83,10 +199,7 @@
         "Parsons",
         "Pearly Queen",
         "The Mayfair Chippy",
-        "Wright Brothers Borough Market",
-        "The legal bit",
-        "Essential Cookies",
-        "Analytical Cookies"
+        "Wright Brothers Borough Market"
       ]
     },
     {
@@ -278,6 +391,6 @@
       "_note": "Counted per thread, never per comment. The r/london seafood threads are mostly about buying at Billingsgate rather than about restaurants, so the yield is small."
     }
   ],
-  "recorded": "2026-08-26",
+  "recorded": "2026-08-30",
   "_excludedVenueOwnChannels": "@randallandaubin and @FallowChefs are the venues' own YouTube channels - tier F, excluded at collection."
 }

@@ -324,6 +324,7 @@ Backed by the sources but not written up above, either because only two guides n
 | **Sette** | Knightsbridge | ££££ | Italian-American in the Bulgari hotel, priced for the postcode | 2 sources |
 | **Como Garden** | Kensington | £££ | Lake Como cooking under a retractable glass roof and a lot of foliage | 2 sources |
 | **Bar Italia** | Soho | £ | Frith Street since 1949, open almost around the clock, coffee rather than dinner | 2 sources |
+| **ICCO** | Fitzrovia | £ | Twelve-inch pizza from £3.95, made to order, two minutes from Goodge Street | 2 sources · Harden's |
 | **Ombra** | Bethnal Green | ££ | Venetian cooking on the Regent's Canal, cicchetti and short pastas | 2 sources |
 | **40 Dean Street** | Soho | ££ | An old-school Soho favourite, lobster ravioli and no reinvention | 2 sources |
 | **Bardo St James's** | St James's | £££ | Opulent room near the National Gallery, with live classical evenings | 2 sources |

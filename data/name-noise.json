@@ -192,7 +192,10 @@
     "what links here",
     "world food life",
     "world network",
-    "you may also like"
+    "you may also like",
+    "Eight London Seafood Rooms Worth the Booking",
+    "Booking Strategy for London Seafood in 2026",
+    "Oyster Shack & Seafood Bar"
   ],
   "countries": [
     "morocco",
@@ -405,5 +408,8 @@
     "NOPI",
     "BAO",
     "HIDE"
-  ]
+  ],
+  "outOfArea": {
+    "Oyster Shack & Seafood Bar": "Waltham Abbey, Essex - named by The Infatuation's London seafood guide but not in London."
+  }
 }

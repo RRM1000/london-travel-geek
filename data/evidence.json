@@ -3323,8 +3323,8 @@
         "hasAward": false
       },
       "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       },
@@ -23951,6 +23951,7 @@
     "name": "Jones & Sons",
     "topics": [
       "breakfast-brunch",
+      "british",
       "sunday-roast"
     ],
     "sourceCount": 2,
@@ -23961,6 +23962,12 @@
       "breakfast-brunch": {
         "sourceCount": 1,
         "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -25173,7 +25180,7 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
       },
       {
         "tier": "B",
@@ -25550,8 +25557,8 @@
       }
     ]
   },
-  "maggiejonesandx27s": {
-    "name": "Maggie Jones&#x27;s",
+  "maggiejoness": {
+    "name": "Maggie Jones's",
     "topics": [
       "british"
     ],
@@ -25619,9 +25626,9 @@
       "seafood",
       "turkish"
     ],
-    "sourceCount": 4,
-    "tierSpread": "A1 B3",
-    "tierCount": 2,
+    "sourceCount": 5,
+    "tierSpread": "A1 B3 C1",
+    "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "british": {
@@ -25631,9 +25638,9 @@
         "hasAward": false
       },
       "seafood": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       },
       "turkish": {
@@ -25662,7 +25669,14 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#2 in Time Out's ranking. Things don't change much at this enduring City classic, and that's the way everyone likes it. They serve regulars from behind counters fronted by stools, proffering sliced bread and butter and lemon wedges, filling glasses with wh"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "They describe themselves as \"probably the oldest fish and oyster restaurant in London\" - and certainly this City of London institution is still going strong. There's no messing around with the fish here - but that's how the client"
       }
     ]
   },
@@ -25815,10 +25829,11 @@
     "name": "Fish Central",
     "topics": [
       "british",
-      "fish-and-chips"
+      "fish-and-chips",
+      "seafood"
     ],
-    "sourceCount": 7,
-    "tierSpread": "B4 C3",
+    "sourceCount": 8,
+    "tierSpread": "B4 C4",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -25832,6 +25847,12 @@
         "sourceCount": 6,
         "tierSpread": "B3 C3",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -25870,6 +25891,12 @@
         "tier": "C",
         "source": "James Dimitri",
         "url": "https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "London's fish and chip options aren't, in the main, very good. But this Farringdon chippy is a cut above the rest. Not only will you get exemplary battered haddock here, you'll also enjoy specials like baked lobster bechamel or pe"
       }
     ]
   },
@@ -26215,8 +26242,8 @@
     "hasAward": true,
     "byTopic": {
       "british": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
         "tierCount": 2,
         "hasAward": false
       },
@@ -26308,8 +26335,38 @@
       }
     ]
   },
-  "andnbsptheguntonarms": {
-    "name": "&nbsp;The Gunton Arms",
+  "guntonarms": {
+    "name": "The Gunton Arms",
+    "topics": [
+      "british"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      }
+    ]
+  },
+  "whitehorse": {
+    "name": "The White Horse",
     "topics": [
       "british"
     ],
@@ -26333,8 +26390,8 @@
       }
     ]
   },
-  "andnbspthewhitehorse": {
-    "name": "&nbsp;The White Horse",
+  "wellington": {
+    "name": "The Wellington",
     "topics": [
       "british"
     ],
@@ -26358,8 +26415,68 @@
       }
     ]
   },
-  "andnbspthewellington": {
-    "name": "&nbsp;The Wellington",
+  "highlandladdie": {
+    "name": "The Highland Laddie",
+    "topics": [
+      "british"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      }
+    ]
+  },
+  "queenofcups": {
+    "name": "The Queen of Cups",
+    "topics": [
+      "british"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      }
+    ]
+  },
+  "killingworthcastle": {
+    "name": "The Killingworth Castle",
     "topics": [
       "british"
     ],
@@ -26383,8 +26500,38 @@
       }
     ]
   },
-  "andnbspthehighlandladdie": {
-    "name": "&nbsp;The Highland Laddie",
+  "parkersarms": {
+    "name": "The Parkers Arms",
+    "topics": [
+      "british"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      }
+    ]
+  },
+  "packhorse": {
+    "name": "The Pack Horse",
     "topics": [
       "british"
     ],
@@ -26408,8 +26555,122 @@
       }
     ]
   },
-  "andnbspthequeenofcups": {
-    "name": "&nbsp;The Queen of Cups",
+  "camberwellarms": {
+    "name": "The Camberwell Arms",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "A1 B3",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 4,
+        "tierSpread": "A1 B3",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#60 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london",
+        "quote": "The Camberwell Arms is a traditional south London pub, serving great British cuisine during the week and incredible roasts on a Sunday."
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
+      }
+    ]
+  },
+  "unrulypig": {
+    "name": "The Unruly Pig",
+    "topics": [
+      "british"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 C1",
+        "tierCount": 3,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      }
+    ]
+  },
+  "blackbearinn": {
+    "name": "The Black Bear Inn",
+    "topics": [
+      "british"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      }
+    ]
+  },
+  "trof": {
+    "name": "The Trof",
     "topics": [
       "british"
     ],
@@ -26433,8 +26694,38 @@
       }
     ]
   },
-  "andnbspthekillingworthcastle": {
-    "name": "&nbsp;The Killingworth Castle",
+  "threehorseshoes": {
+    "name": "The Three Horseshoes",
+    "topics": [
+      "british"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      }
+    ]
+  },
+  "kensingtonarms": {
+    "name": "The Kensington Arms",
     "topics": [
       "british"
     ],
@@ -26458,8 +26749,50 @@
       }
     ]
   },
-  "andnbsptheparkersarms": {
-    "name": "&nbsp;The Parkers Arms",
+  "kinneucharinn": {
+    "name": "The Kinneuchar Inn",
+    "topics": [
+      "british",
+      "general"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      }
+    ]
+  },
+  "threefishes": {
+    "name": "The Three Fishes",
     "topics": [
       "british"
     ],
@@ -26483,8 +26816,68 @@
       }
     ]
   },
-  "andnbspthepackhorse": {
-    "name": "&nbsp;The Pack Horse",
+  "bull": {
+    "name": "The Bull",
+    "topics": [
+      "british"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      }
+    ]
+  },
+  "mariners": {
+    "name": "The Mariners",
+    "topics": [
+      "british"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      }
+    ]
+  },
+  "blackbull": {
+    "name": "The Black Bull",
     "topics": [
       "british"
     ],
@@ -26508,10 +26901,93 @@
       }
     ]
   },
-  "andnbspcamberwellarms": {
-    "name": "&nbsp;Camberwell Arms",
+  "redlionandsun": {
+    "name": "The Red Lion & Sun",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "A1 B3 C1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 4,
+        "tierSpread": "A1 B2 C1",
+        "tierCount": 3,
+        "hasAward": true
+      },
+      "sunday-roast": {
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/perfect-for/sunday-roast"
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      }
+    ]
+  },
+  "gurnardshead": {
+    "name": "The Gurnard's Head",
     "topics": [
       "british"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      }
+    ]
+  },
+  "londonsbestsundayroastsataglance": {
+    "name": "London’s best Sunday roasts at a glance:",
+    "topics": [
+      "british",
+      "sunday-roast"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -26523,327 +26999,8 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
-      }
-    ]
-  },
-  "andnbsptheunrulypig": {
-    "name": "&nbsp;The Unruly Pig",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
-      }
-    ]
-  },
-  "andnbsptheblackbearinn": {
-    "name": "&nbsp;The Black Bear Inn",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
-      }
-    ]
-  },
-  "andnbspthetrof": {
-    "name": "&nbsp;The Trof",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
-      }
-    ]
-  },
-  "andnbspthethreehorseshoes": {
-    "name": "&nbsp;The Three Horseshoes",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
-      }
-    ]
-  },
-  "andnbspthekensingtonarms": {
-    "name": "&nbsp;The Kensington Arms",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
-      }
-    ]
-  },
-  "andnbspthekinneucharinn": {
-    "name": "&nbsp;The Kinneuchar Inn",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
-      }
-    ]
-  },
-  "andnbspthethreefishes": {
-    "name": "&nbsp;The Three Fishes",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
-      }
-    ]
-  },
-  "andnbspthebull": {
-    "name": "&nbsp;The Bull",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
-      }
-    ]
-  },
-  "andnbspthemariners": {
-    "name": "&nbsp;The Mariners",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
-      }
-    ]
-  },
-  "andnbsptheblackbull": {
-    "name": "&nbsp;The Black Bull",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
-      }
-    ]
-  },
-  "andnbspredlionandsun": {
-    "name": "&nbsp;Red Lion and Sun",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
-      }
-    ]
-  },
-  "andnbspgurnardshead": {
-    "name": "&nbsp;Gurnard’s Head",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/uk/bars-and-pubs/the-best-gastropubs-in-the-uk"
-      }
-    ]
-  },
-  "londonandrsquosbestsundayroastsataglance": {
-    "name": "London&rsquo;s best Sunday roasts at a glance:",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
+      },
+      "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -26880,706 +27037,6 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspthegoldentooth": {
-    "name": "&nbsp;The Golden Tooth",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspricepaddyatthewhitehorse": {
-    "name": "&nbsp;Rice Paddy at The White Horse",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspsessionsartsclub": {
-    "name": "&nbsp;Sessions Arts Club",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspthemacbeth": {
-    "name": "&nbsp;The Macbeth",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspthedukeorganic": {
-    "name": "&nbsp;The Duke Organic",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspoldnunshead": {
-    "name": "&nbsp;Old Nun's Head",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbsptheangel": {
-    "name": "&nbsp;The Angel",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspdakadaka": {
-    "name": "&nbsp;DakaDaka",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspthemalltavern": {
-    "name": "&nbsp;The Mall Tavern",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbsprakeatthecomptonarms": {
-    "name": "&nbsp;Rake at The Compton Arms",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbsptheprincearthur": {
-    "name": "&nbsp;The Prince Arthur",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspqualitychophouse": {
-    "name": "&nbsp;Quality Chop House",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspbustermantis": {
-    "name": "&nbsp;Buster Mantis",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspbistrosable": {
-    "name": "&nbsp;Bistro Sable",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspthenelsons": {
-    "name": "&nbsp;The Nelson’s",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspthesalusbury": {
-    "name": "&nbsp;The Salusbury",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspekstedtattheyard": {
-    "name": "&nbsp;Ekstedt at the Yard",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspcantonarms": {
-    "name": "&nbsp;Canton Arms",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbsptheparakeet": {
-    "name": "&nbsp;The Parakeet",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspthedragonflameatstarbyhackneydowns": {
-    "name": "&nbsp;The Dragon Flame at Star by Hackney Downs",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspthechalkfreehouse": {
-    "name": "&nbsp;The Chalk Freehouse",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspwilliamiv": {
-    "name": "&nbsp;William IV",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspjonesandsons": {
-    "name": "&nbsp;Jones & Sons",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbsptheaudleypublichouse": {
-    "name": "&nbsp;The Audley Public House",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspblackcactus": {
-    "name": "&nbsp;Black Cactus",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspjulies": {
-    "name": "&nbsp;Julie's",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "andnbspclaptoncountryclub": {
-    "name": "&nbsp;Clapton Country Club",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "17bestsundayroastsinlondon": {
-    "name": "The 17 Best Sunday Roasts In London",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/perfect-for/sunday-roast"
       }
     ]
   },
@@ -27624,13 +27081,13 @@
     "sources": [
       {
         "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/perfect-for/sunday-roast"
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
       },
       {
         "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/perfect-for/sunday-roast"
       },
       {
         "tier": "B",
@@ -27646,6 +27103,904 @@
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/hot-right-now-london-s-hottest-restaurants"
+      }
+    ]
+  },
+  "ricepaddyatthewhitehorse": {
+    "name": "Rice Paddy at The White Horse",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "sessionsartsclub": {
+    "name": "Sessions Arts Club",
+    "topics": [
+      "british",
+      "general",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "macbeth": {
+    "name": "The Macbeth",
+    "topics": [
+      "british",
+      "general",
+      "sunday-roast"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london",
+        "quote": "The Macbeth is a Hoxton pub for people who love pubs, but would also quite like to pretend they're in sunny Portugal.\\n"
+      }
+    ]
+  },
+  "dukeorganic": {
+    "name": "The Duke Organic",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "oldnunshead": {
+    "name": "Old Nun's Head",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "angel": {
+    "name": "The Angel",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "dakadaka": {
+    "name": "DakaDaka",
+    "topics": [
+      "british",
+      "new-openings",
+      "sunday-roast"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/all-latest-openings_11"
+      }
+    ]
+  },
+  "malltavern": {
+    "name": "The Mall Tavern",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "rakeatthecomptonarms": {
+    "name": "Rake at The Compton Arms",
+    "topics": [
+      "british",
+      "seafood",
+      "sunday-roast"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-seafood-restaurants/"
+      }
+    ]
+  },
+  "princearthur": {
+    "name": "The Prince Arthur",
+    "topics": [
+      "british",
+      "new-openings",
+      "sunday-roast"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
+      }
+    ]
+  },
+  "bustermantis": {
+    "name": "Buster Mantis",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "bistrosable": {
+    "name": "Bistro Sable",
+    "topics": [
+      "british",
+      "french",
+      "sunday-roast"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "french": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/french-restaurants-london/"
+      }
+    ]
+  },
+  "nelsons": {
+    "name": "The Nelson’s",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "salusbury": {
+    "name": "The Salusbury",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "ekstedtattheyard": {
+    "name": "Ekstedt at the Yard",
+    "topics": [
+      "british",
+      "seafood",
+      "sunday-roast"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-oysters/"
+      }
+    ]
+  },
+  "parakeet": {
+    "name": "The Parakeet",
+    "topics": [
+      "british",
+      "general",
+      "sunday-roast"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A1 B2",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#61 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      }
+    ]
+  },
+  "dragonflameatstarbyhackneydowns": {
+    "name": "The Dragon Flame at Star by Hackney Downs",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "chalkfreehouse": {
+    "name": "The Chalk Freehouse",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "williamiv": {
+    "name": "William IV",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "audleypublichouse": {
+    "name": "The Audley Public House",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "blackcactus": {
+    "name": "Black Cactus",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      }
+    ]
+  },
+  "julies": {
+    "name": "Julie's",
+    "topics": [
+      "british",
+      "french",
+      "italian",
+      "sunday-roast"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A1 B2",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "french": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "B",
+        "source": "LuxLife",
+        "url": "https://luxlifelondon.com/best-italian-restaurants-london/"
+      }
+    ]
+  },
+  "claptoncountryclub": {
+    "name": "Clapton Country Club",
+    "topics": [
+      "british",
+      "sunday-roast"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "D",
+        "source": "DW Food (YouTube)",
+        "url": "https://www.youtube.com/@DWFood"
+      }
+    ]
+  },
+  "17bestsundayroastsinlondon": {
+    "name": "The 17 Best Sunday Roasts In London",
+    "topics": [
+      "british"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/perfect-for/sunday-roast"
       }
     ]
   },
@@ -27742,53 +28097,6 @@
       }
     ]
   },
-  "redlionandsun": {
-    "name": "The Red Lion and Sun",
-    "topics": [
-      "british",
-      "sunday-roast"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "A1 B2 C1",
-    "tierCount": 3,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 3,
-        "tierSpread": "A1 B1 C1",
-        "tierCount": 3,
-        "hasAward": true
-      },
-      "sunday-roast": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
-        "tierCount": 2,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Estrella Damm Top 50 Gastropubs",
-        "url": "https://www.top50gastropubs.com/"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/perfect-for/sunday-roast"
-      },
-      {
-        "tier": "B",
-        "source": "Sphere Magazine",
-        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
-      },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
   "angleseaarms": {
     "name": "The Anglesea Arms",
     "topics": [
@@ -27840,7 +28148,7 @@
     ]
   },
   "watermansarms": {
-    "name": "The Waterman’s Arms",
+    "name": "The Waterman's Arms",
     "topics": [
       "british",
       "sunday-roast"
@@ -28017,8 +28325,8 @@
       }
     ]
   },
-  "olbyandx27ssoulcafe": {
-    "name": "Olby&#x27;s Soul Cafe",
+  "olbyssoulcafe": {
+    "name": "Olby's Soul Cafe",
     "topics": [
       "british"
     ],
@@ -28131,8 +28439,8 @@
       }
     ]
   },
-  "stjohnandx27stavern": {
-    "name": "St John&#x27;s Tavern",
+  "stjohnstavern": {
+    "name": "St John's Tavern",
     "topics": [
       "british"
     ],
@@ -28479,7 +28787,6 @@
       "korean",
       "late-night",
       "mexican",
-      "seafood",
       "spanish",
       "steak",
       "thai"
@@ -28526,12 +28833,6 @@
         "hasAward": false
       },
       "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "seafood": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -28574,7 +28875,6 @@
       "korean",
       "late-night",
       "mexican",
-      "seafood",
       "spanish",
       "steak",
       "thai"
@@ -28626,12 +28926,6 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "spanish": {
         "sourceCount": 1,
         "tierSpread": "C1",
@@ -28652,36 +28946,6 @@
       }
     },
     "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
-  "unrulypig": {
-    "name": "The Unruly Pig",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "A1 C1",
-    "tierCount": 2,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 2,
-        "tierSpread": "A1 C1",
-        "tierCount": 2,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Estrella Damm Top 50 Gastropubs",
-        "url": "https://www.top50gastropubs.com/"
-      },
       {
         "tier": "C",
         "source": "Hot Dinners",
@@ -28774,31 +29038,6 @@
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
       },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
-  "parkersarms": {
-    "name": "Parkers Arms",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
       {
         "tier": "C",
         "source": "Hot Dinners",
@@ -28931,58 +29170,8 @@
       }
     ]
   },
-  "threehorseshoes": {
-    "name": "The Three Horseshoes",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
   "broadchare": {
     "name": "The Broad Chare",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
-  "guntonarms": {
-    "name": "The Gunton Arms",
     "topics": [
       "british"
     ],
@@ -29040,7 +29229,8 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london",
+        "quote": "The Baring is a polished pub-cum-restaurant in Islington, that makes excellent food in a room that's more sit-down than somewhere you can have a few pints."
       },
       {
         "tier": "C",
@@ -29291,83 +29481,8 @@
       }
     ]
   },
-  "mariners": {
-    "name": "The Mariners",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
-  "bull": {
-    "name": "The Bull",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
   "coach": {
     "name": "The Coach",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
-  "highlandladdie": {
-    "name": "The Highland Laddie",
     "topics": [
       "british"
     ],
@@ -29491,95 +29606,8 @@
       }
     ]
   },
-  "gurnardshead": {
-    "name": "The Gurnard's Head",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
-  "kinneucharinn": {
-    "name": "The Kinneuchar Inn",
-    "topics": [
-      "british",
-      "general"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
-      },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
   "tartanfox": {
     "name": "The Tartan Fox",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
-  "queenofcups": {
-    "name": "Queen of Cups",
     "topics": [
       "british"
     ],
@@ -29680,31 +29708,6 @@
   },
   "wildrabbit": {
     "name": "The Wild Rabbit",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
-  "blackbearinn": {
-    "name": "Black Bear Inn",
     "topics": [
       "british"
     ],
@@ -29855,7 +29858,6 @@
       "korean",
       "late-night",
       "mexican",
-      "seafood",
       "spanish",
       "steak",
       "thai"
@@ -29902,12 +29904,6 @@
         "hasAward": false
       },
       "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "seafood": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -29950,7 +29946,6 @@
       "korean",
       "late-night",
       "mexican",
-      "seafood",
       "spanish",
       "steak",
       "thai"
@@ -29997,12 +29992,6 @@
         "hasAward": false
       },
       "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "seafood": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -30045,7 +30034,6 @@
       "korean",
       "late-night",
       "mexican",
-      "seafood",
       "spanish",
       "steak",
       "thai"
@@ -30092,12 +30080,6 @@
         "hasAward": false
       },
       "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "seafood": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -30281,10 +30263,11 @@
     "topics": [
       "british",
       "fish-and-chips",
-      "general"
+      "general",
+      "seafood"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B2 C2 D1",
+    "sourceCount": 6,
+    "tierSpread": "B3 C2 D1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -30305,6 +30288,12 @@
         "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -30317,6 +30306,11 @@
         "tier": "B",
         "source": "Absolutely",
         "url": "https://absolutelymagazines.com/londons-best-fish-chips/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
       },
       {
         "tier": "C",
@@ -30697,8 +30691,8 @@
       "general",
       "seafood"
     ],
-    "sourceCount": 4,
-    "tierSpread": "A1 B1 D2",
+    "sourceCount": 5,
+    "tierSpread": "A1 B2 D2",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -30721,9 +30715,9 @@
         "hasAward": false
       },
       "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
         "hasAward": true
       }
     },
@@ -30737,6 +30731,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
       },
       {
         "tier": "D",
@@ -42367,45 +42366,6 @@
       }
     ]
   },
-  "sessionsartsclub": {
-    "name": "Sessions Arts Club",
-    "topics": [
-      "british",
-      "general",
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
-      }
-    ]
-  },
   "rasa": {
     "name": "Rasa",
     "topics": [
@@ -51299,43 +51259,6 @@
       }
     ]
   },
-  "oystershackandseafoodbar": {
-    "name": "Oyster Shack & Seafood Bar",
-    "topics": [
-      "cheap-eats",
-      "seafood"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/london/food-drink/londons-best-cheap-eats"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london"
-      }
-    ]
-  },
   "asiantakeaway": {
     "name": "Asian Takeaway",
     "topics": [
@@ -55669,16 +55592,23 @@
   "mandarinkitchen": {
     "name": "Mandarin Kitchen",
     "topics": [
-      "chinese"
+      "chinese",
+      "seafood"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "chinese": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -55688,6 +55618,12 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "Everyone comes to this Bayswater spot for one dish - the lobster noodles - their Insta feed is full of it. But you'll also discover that it's good for steamed scallops, razor clams and soft shell crab too."
       }
     ]
   },
@@ -70347,7 +70283,8 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london",
+        "quote": "The George is a classy Fitzrovia pub that combines a boozy downstairs with a decadent dining room upstairs, both of which serve a serious Sunday roast."
       },
       {
         "tier": "C",
@@ -71483,7 +71420,8 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london",
+        "quote": "Café François is a useful, all-day Borough Yards spot, that serves reliably tasty French food and is likely to solve a good chunk of your dining dilemmas."
       },
       {
         "tier": "C",
@@ -71612,55 +71550,6 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      }
-    ]
-  },
-  "julies": {
-    "name": "Julie's",
-    "topics": [
-      "french",
-      "italian",
-      "sunday-roast"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B2",
-    "tierCount": 2,
-    "hasAward": true,
-    "byTopic": {
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "LuxLife",
-        "url": "https://luxlifelondon.com/best-italian-restaurants-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
       }
     ]
   },
@@ -72036,43 +71925,6 @@
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/french-restaurants-london/"
-      }
-    ]
-  },
-  "bistrosable": {
-    "name": "Bistro Sablé",
-    "topics": [
-      "french",
-      "sunday-roast"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/french-restaurants-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
       }
     ]
   },
@@ -84424,79 +84276,11 @@
   "darbys": {
     "name": "Darby's",
     "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      }
-    ]
-  },
-  "parakeet": {
-    "name": "The Parakeet",
-    "topics": [
       "general",
-      "sunday-roast"
+      "seafood"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B2",
-    "tierCount": 2,
-    "hasAward": true,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
-        "tierCount": 2,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Estrella Damm Top 50 Gastropubs",
-        "url": "https://www.top50gastropubs.com/list/1-50",
-        "quote": "#61 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "macbeth": {
-    "name": "The Macbeth",
-    "topics": [
-      "general",
-      "sunday-roast"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
@@ -84506,9 +84290,9 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "sunday-roast": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -84521,13 +84305,8 @@
       },
       {
         "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london"
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
       }
     ]
   },
@@ -86224,9 +86003,9 @@
       "general",
       "seafood"
     ],
-    "sourceCount": 6,
-    "tierSpread": "A1 B3 D2",
-    "tierCount": 3,
+    "sourceCount": 7,
+    "tierSpread": "A1 B3 C1 D2",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "general": {
@@ -86236,9 +86015,9 @@
         "hasAward": false
       },
       "seafood": {
-        "sourceCount": 5,
-        "tierSpread": "A1 B3 D1",
-        "tierCount": 3,
+        "sourceCount": 6,
+        "tierSpread": "A1 B3 C1 D1",
+        "tierCount": 4,
         "hasAward": true
       }
     },
@@ -86251,7 +86030,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#13 in Time Out's ranking. Buzzing and bustling on the one hand (the downstairs bar), and restrained and upmarket on the other (upstairs in the old-school restaurant), Bentley's is an old-school Mayfair institution whose regular client base of expense-accou"
       },
       {
         "tier": "B",
@@ -86262,6 +86042,12 @@
         "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "This Piccadilly institution may be best known for its ground floor oyster bar, but the upstairs dining room sees Richard Corrigan's team serving up classic dishes like Dover Sole (choose between chargrilled or Meunière) as well as"
       },
       {
         "tier": "D",
@@ -96199,10 +95985,11 @@
   "trishna": {
     "name": "Trishna",
     "topics": [
-      "indian"
+      "indian",
+      "seafood"
     ],
-    "sourceCount": 9,
-    "tierSpread": "A3 B4 C1 D1",
+    "sourceCount": 10,
+    "tierSpread": "A3 B5 C1 D1",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -96211,6 +95998,12 @@
         "tierSpread": "A3 B4 C1 D1",
         "tierCount": 4,
         "hasAward": true
+      },
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -96250,6 +96043,11 @@
         "tier": "B",
         "source": "Eater London",
         "url": "https://london.eater.com/maps/best-indian-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
       },
       {
         "tier": "C",
@@ -97083,8 +96881,8 @@
       "indian",
       "seafood"
     ],
-    "sourceCount": 5,
-    "tierSpread": "A2 B1 C1 D1",
+    "sourceCount": 6,
+    "tierSpread": "A2 B1 C2 D1",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -97095,9 +96893,9 @@
         "hasAward": true
       },
       "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -97123,6 +96921,12 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "This Michelin-starred restaurant focuses on southwest coastal Indian cuisine. And, while the main menu features seafood, meat and vegetarian options, it's the seafood tasting menu you want to go for, which includes lobster butter "
       },
       {
         "tier": "D",
@@ -99565,8 +99369,8 @@
       }
     ]
   },
-  "vascoandpieroandx27spavilionitalianrestaurant": {
-    "name": "Vasco & Piero&#x27;s Pavilion Italian Restaurant",
+  "vascoandpierospavilionitalianrestaurant": {
+    "name": "Vasco & Piero's Pavilion Italian Restaurant",
     "topics": [
       "italian"
     ],
@@ -120489,14 +120293,14 @@
       }
     ]
   },
-  "sea": {
-    "name": "The Sea",
+  "seathesea": {
+    "name": "The Sea, The Sea",
     "topics": [
       "new-openings",
       "seafood"
     ],
-    "sourceCount": 7,
-    "tierSpread": "B6 C1",
+    "sourceCount": 8,
+    "tierSpread": "B6 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -120507,9 +120311,9 @@
         "hasAward": false
       },
       "seafood": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -120537,7 +120341,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#14 in Time Out's ranking. This neighbourhood fishmonger morphs into a seafood bar come eveningtime. There's a heated terrace on this quaint mews street, so you can dine al fresco with getting as cold as a pint of prawns."
       },
       {
         "tier": "B",
@@ -120548,6 +120353,12 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/best-new-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "This Chelsea restaurant bills itself as \"chef-led fish shop, deli and seafood bar\" - so by day it's a working fishmonger, going wholly over to a restaurant by night. Pair a small plate or three with a glass of Champagne. At the Ha"
       }
     ]
   },
@@ -123821,48 +123632,6 @@
       }
     ]
   },
-  "dakadaka": {
-    "name": "DakaDaka",
-    "topics": [
-      "new-openings",
-      "sunday-roast"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "new-openings": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/all-latest-openings_11"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
   "gordonramsayatseacontainers": {
     "name": "Gordon Ramsay At Sea Containers",
     "topics": [
@@ -123941,7 +123710,8 @@
   "island": {
     "name": "Island",
     "topics": [
-      "new-openings"
+      "new-openings",
+      "seafood"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -123949,6 +123719,12 @@
     "hasAward": false,
     "byTopic": {
       "new-openings": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "seafood": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -124140,43 +123916,6 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
-      }
-    ]
-  },
-  "princearthur": {
-    "name": "The Prince Arthur",
-    "topics": [
-      "new-openings",
-      "sunday-roast"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
       }
     ]
   },
@@ -130748,7 +130487,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#3 in Time Out's ranking. Applebee's has been doing its quietly impressive thing since 2000. Starting life as a fishmonger, it casually morphed into a cutesy f amily-run seafood restaurant and now has executive chef, Frankie van Loo, making magic in the ki"
       },
       {
         "tier": "B",
@@ -130758,19 +130498,19 @@
     ]
   },
   "jsheekey": {
-    "name": "J. Sheekey",
+    "name": "J Sheekey",
     "topics": [
       "seafood"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B4 D2",
-    "tierCount": 2,
+    "sourceCount": 9,
+    "tierSpread": "B5 C2 D2",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "seafood": {
-        "sourceCount": 6,
-        "tierSpread": "B4 D2",
-        "tierCount": 2,
+        "sourceCount": 9,
+        "tierSpread": "B5 C2 D2",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -130778,12 +130518,19 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#4 in Time Out's ranking. This grand dame of the Theatreland dining scene needs no introduction - critics love it, celebs flock to it, and the rest of us try frantically to get a table. Happily, both somebodies and nobodies get an equally warm welcome here"
       },
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london",
+        "quote": "A classic West End post-theatre hangout where you might spot a celebrity and will be guaranteed to have a great seafood meal."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
       },
       {
         "tier": "B",
@@ -130794,6 +130541,17 @@
         "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "Launched in the late 19th century, this theatreland restaurant has long been a popular spot with actors popping in for their famous fish pie after a performance. It's recently had quite a refurb but it's still one of our favourite"
+      },
+      {
+        "tier": "C",
+        "source": "Restaurants for Kings",
+        "url": "https://restaurantsforkings.com/blog/best-seafood-restaurants-london-2026"
       },
       {
         "tier": "D",
@@ -130813,15 +130571,15 @@
     "topics": [
       "seafood"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B2",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 C1",
+    "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "seafood": {
-        "sourceCount": 3,
-        "tierSpread": "A1 B2",
-        "tierCount": 2,
+        "sourceCount": 4,
+        "tierSpread": "A1 B2 C1",
+        "tierCount": 3,
         "hasAward": true
       }
     },
@@ -130834,12 +130592,20 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#6 in Time Out's ranking. This tiny, tiled gem of a restaurant is fresh in every sense of the word. It's unassuming, unpretentious and unrelenting in dishing up fabulous fish."
       },
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london",
+        "quote": "A cosy seafood restaurant in Covent Garden. It's a sanctuary from the crowds and serves some very nice fish-based dishes too."
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "From the team behind 10 Cases, this WC2 seafood spot is small but perfectly formed. What's on the main menu depends on what's in that day, but you'll always find interesting small plates as well, like sea trout tartare with bloody"
       }
     ]
   },
@@ -130848,15 +130614,15 @@
     "topics": [
       "seafood"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "seafood": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -130864,12 +130630,25 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#7 in Time Out's ranking. Randall & Aubin marches to the beat of its own drum: it's a fish restaurant that has retained the features and fittings of the former butcher's shop in which it's located, and added a few of its own; marble-topped tables, arty bla"
       },
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london",
+        "quote": "Soho institution Randall & Aubin not only has a disco ball in the dining room but it's also one of London's go-to seafood spots."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "For over 20 years this louche little spot on Brewer Street has been packing them in. It's a wonderful spot for a first or second date - just make sure you both have the garlic butter with the langoustines."
       }
     ]
   },
@@ -130878,15 +130657,15 @@
     "topics": [
       "seafood"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "seafood": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -130894,7 +130673,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#9 in Time Out's ranking. With daily deliveries of the freshest catch, this Dean Street spot also prides itself on being super sustainable. Warm and welcoming, come in for a glass of something fizzy and a few oysters (fresh and naked, or battered in tempur"
       },
       {
         "tier": "B",
@@ -130905,6 +130685,12 @@
         "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "The arrival of this popular Dutch seafood institution in London meant towering platters of sustainable seafood for Soho diners. There are oysters, fish grilled on the plancha and more, but it's the fruits de mer that will give you"
       }
     ]
   },
@@ -130913,15 +130699,15 @@
     "topics": [
       "seafood"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -130929,7 +130715,19 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#10 in Time Out's ranking. In a striking, light-filled corner spot, Faber prides itself on sustainability - but this doesn't mean that flavour takes second place. Far from it; e xec chef Ollie Bass (formerly of Quo Vadis and Sessions Arts Club) is doing mag"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "Having already run a seafood pub in the East End, the duo behind this West London restaurant had all the contacts they needed for a supply of great fish and shellfish. Look at the blackboard for the daily specials and, if it's on,"
       }
     ]
   },
@@ -130959,42 +130757,61 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#11 in Time Out's ranking. Awarded a Michelin star after being open for only 20 days, Behind is a supremely confident fish-focused tasting menu Shangri-La in the backstreets of London Fields. It ' s 125 a head for 10 courses (with a six course lunch version"
       }
     ]
   },
   "wrightbrothers": {
-    "name": "The Wright Brothers",
+    "name": "Wright Brothers",
     "topics": [
       "seafood"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 6,
+    "tierSpread": "A1 B4 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "seafood": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 6,
+        "tierSpread": "A1 B4 C1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
       {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london"
+      },
+      {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#12 in Time Out's ranking. Everyone loves this lively oyster house - and its siblings in South Kensington and Battersea. They're smart-looking but laid-back destinations in which to sink a few bivalves, a swift stout if you're feeling traditional, and some "
       },
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london",
+        "quote": "The Battersea location of this London seafood mini-chain has great riverside views as well as their fantastic oysters, lobster, and bubbles."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
       },
       {
         "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "They're famous for their oysters, but Wright Bros. also do a lovely line in London cured smoked salmon and their regularly changing menu reflects what the Brixham day boats have brought in."
       }
     ]
   },
@@ -131003,15 +130820,15 @@
     "topics": [
       "seafood"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 D2",
-    "tierCount": 2,
+    "sourceCount": 7,
+    "tierSpread": "B3 C2 D2",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "seafood": {
-        "sourceCount": 4,
-        "tierSpread": "B2 D2",
-        "tierCount": 2,
+        "sourceCount": 7,
+        "tierSpread": "B3 C2 D2",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -131019,12 +130836,30 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#15 in Time Out's ranking. Glamorous Scott's is a stonking great jewel in Mayfair's bling-studded crown. The beauty of this buzzy destination is that the fantastically fresh fish and seafood aren't even the half of it - in fact, it's probably better known a"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london",
+        "quote": "The food at Scott's, a high-end seafood spot in Richmond, is consistently impressive and is ideal for a long lunch with a view of the Thames."
       },
       {
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/london-seafood-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "On the one hand, it's a gold-plated, celebrity hangout (particularly the Mayfair original), but it's also one of London's oldest restaurants and a superb place for a blowout seafood meal. The newer Richmond ou"
+      },
+      {
+        "tier": "C",
+        "source": "Restaurants for Kings",
+        "url": "https://restaurantsforkings.com/blog/best-seafood-restaurants-london-2026"
       },
       {
         "tier": "D",
@@ -131043,14 +130878,14 @@
     "topics": [
       "seafood"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 D1",
+    "sourceCount": 4,
+    "tierSpread": "B3 D1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "seafood": {
-        "sourceCount": 3,
-        "tierSpread": "B2 D1",
+        "sourceCount": 4,
+        "tierSpread": "B3 D1",
         "tierCount": 2,
         "hasAward": false
       }
@@ -131059,12 +130894,19 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#16 in Time Out's ranking. Established 177 or 277 years ago, depending on whether you count its time as an oyster stall, Wiltons is deeply old-school. If you're a sucker for life's gustatory pleasures, the menu's references to caviar, lobster, smoked salmon"
       },
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london",
+        "quote": "An old-school seafood spot in St James's with a whole lot of history, Wiltons is a real class act."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
       },
       {
         "tier": "D",
@@ -131078,15 +130920,15 @@
     "topics": [
       "seafood"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -131094,7 +130936,19 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#17 in Time Out's ranking. Sleepy Barnes might seem a random place for fish-focused globetrotter Rick Stein to have opened a London eatery. But, actually, SW14 is a lot like the man himself: relaxed and mostly by the water."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "Everyone's favourite TV seafood chef picked a wonderful waterfront spot for his London restaurant. Take a walk pre or post-lunch along the Thames towpath and then warm up with their Indonesian seafood curry."
       }
     ]
   },
@@ -131119,12 +130973,418 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#18 in Time Out's ranking. Yet another fine addition to Tooting's formerly dingy Broadway Market, Sea Garden & Grill specialises in small-portioned plates of seafood (plus a few salads and meaty bits) that look as lovely as they taste. The style?"
       }
     ]
   },
   "manzis": {
     "name": "Manzi's",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london",
+        "quote": "#19 in Time Out's ranking. For the super kitsch interiors as much as the seafood. This Soho spot is camp in the extreme; all giant fish, massive mermen and coiled rope at every turn."
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-seafood-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "Tucked off an alley off Soho Square this glitzy temple to seafood comes from the Wolseley Hospitality Group and is a revival of an old restaurant. Expect to find classic dishes given a fish focus, so the Wellington is made with mo"
+      }
+    ]
+  },
+  "pearlyqueen": {
+    "name": "Pearly Queen",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 C1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 2,
+        "tierSpread": "A1 C1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "Tom Brown's East London oyster bar and restaurant gives classic dishes a seafood spin, whether that's a prawn Scotch egg or cuttlefish lasagne. Even the cocktails (by Three Sheets' Max Venning) have coastal twists. Must-have dish?"
+      }
+    ]
+  },
+  "londonshellco": {
+    "name": "London Shell Co",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "They already had quite the reputation for great seafood on their barges (static and mobile) at Paddington, but now the London Shell Co has opened a permanent restaurant and fishmongers in the heart of Highgate. The menu's dictated"
+      }
+    ]
+  },
+  "chapelmarketkitchen": {
+    "name": "Chapel Market Kitchen",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "This restaurant and oyster bar's handy situation on Chapel Market means it makes the most of the local produce on sale there. As for the seafood, the oysters are sparkling fresh and the seafood gets a Mediterranean spin from chef "
+      }
+    ]
+  },
+  "angler": {
+    "name": "Angler",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 C1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 2,
+        "tierSpread": "A1 C1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "This rooftop, Michelin-starred restaurant in Moorgate turns out fish dishes that are - almost - too pretty to eat. The tasting menu is an all-seafood affair focusing on British fish and shellfish."
+      }
+    ]
+  },
+  "bibendumoysterbar": {
+    "name": "Bibendum Oyster Bar",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "The ground floor of the Bibendum building houses Claude Bosi's French seafood bistro. The seafood platters are a big thing here, but they also have a good selection of caviar too for the South Ken crowd."
+      }
+    ]
+  },
+  "fishmarket": {
+    "name": "Fish Market",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "Set in an 18th-century warehouse once owned by the East India Company, this popular Liverpool Street restaurant offers a top-end wine list for the City crowd to accompany its fish-focused menu and its seafood weekend brunches are "
+      }
+    ]
+  },
+  "grandduchess": {
+    "name": "The Grand Duchess",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "Enjoy a meal on the water without having to set sail in this permanently moored restaurant in the basin at Paddington. Start with a glass of their own-label fizz from Hattingley and enjoy the Cornish crab flatbreads."
+      }
+    ]
+  },
+  "lyons": {
+    "name": "Lyons",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "This Crouch End restaurant boasts that not only does it make a point of serving the highest quality seafood but that they also \"make the best use of every part of it\". So you might find Penang fish collars on the menu and jerk sea"
+      }
+    ]
+  },
+  "orasay": {
+    "name": "Orasay",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "Jackson Boxer's Notting Hill gaff sets out its stall as \"focussed on fish and seafood, inspired by the Western Isles\". So you might find wood-grilled whole John Dory with a smoked bone marrow bordelaise along with Isle of Mull div"
+      }
+    ]
+  },
+  "oystermenseafoodbarandkitchen": {
+    "name": "Oystermen Seafood Bar & Kitchen",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 C1",
+        "tierCount": 3,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "The expansion of this Covent Garden spot gave them space for a raw bar - so pull up a stool at the counter and work your way through the oyster selection, but don't miss out on the Dorset brown crab too with its amazing aioli."
+      }
+    ]
+  },
+  "prawnonthelawn": {
+    "name": "Prawn on the Lawn",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-seafood-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "Direct links to Padstow and its day boats mean the fish at this Highbury restaurant couldn't be more sparkling fresh. Obviously, you'll be wanting to try the signature prawn and avo dish alongside the other daily specials."
+      }
+    ]
+  },
+  "seabird": {
+    "name": "Seabird",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B4 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 5,
+        "tierSpread": "B4 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london",
+        "quote": "Arguably London's prettiest rooftop, Seabird in Southwark is also home to the best oyster experience in the city."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-seafood-restaurants/"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "This high rise restaurant from the team behind Brooklyn's Maison Premiere mixes local seafood with Mediterranean influences and throws in jaw-dropping views to boot."
+      }
+    ]
+  },
+  "furnessoysterbar": {
+    "name": "Furness Oyster Bar",
     "topics": [
       "seafood"
     ],
@@ -131143,38 +131403,14 @@
     "sources": [
       {
         "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london",
+        "quote": "A great little stall in Borough Market that's perfect for a grab-and-go oyster fix."
       },
       {
         "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/london-seafood-restaurants/"
-      }
-    ]
-  },
-  "furnessoysterbar": {
-    "name": "Furness Oyster Bar",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london"
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
       }
     ]
   },
@@ -131228,66 +131464,6 @@
       }
     ]
   },
-  "scottsrichmond": {
-    "name": "Scott’s Richmond",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london"
-      }
-    ]
-  },
-  "seabird": {
-    "name": "Seabird",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/london-seafood-restaurants/"
-      },
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
-      }
-    ]
-  },
   "trapkitchencamden": {
     "name": "Trap Kitchen Camden",
     "topics": [
@@ -131338,145 +131514,8 @@
       }
     ]
   },
-  "angler": {
-    "name": "Angler",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london"
-      }
-    ]
-  },
-  "oystermen": {
-    "name": "Oystermen",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london"
-      }
-    ]
-  },
-  "pearlyqueen": {
-    "name": "Pearly Queen",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london"
-      }
-    ]
-  },
-  "wrightbrothersboroughmarket": {
-    "name": "Wright Brothers Borough Market",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london"
-      }
-    ]
-  },
-  "rakeatthecomptonarms": {
-    "name": "Rake at The Compton Arms",
-    "topics": [
-      "seafood",
-      "sunday-roast"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/london-seafood-restaurants/"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "riverrestaurantbygordonramsay": {
-    "name": "The River Restaurant by Gordon Ramsay",
+  "osteriabybocconcino": {
+    "name": "Osteria by Bocconcino",
     "topics": [
       "seafood"
     ],
@@ -131495,8 +131534,352 @@
     "sources": [
       {
         "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      }
+    ]
+  },
+  "inamocoventgarden": {
+    "name": "Inamo Covent Garden",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      }
+    ]
+  },
+  "daffodilmulligan": {
+    "name": "Daffodil Mulligan",
+    "topics": [
+      "seafood",
+      "steak"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "steak": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-steak-restaurants-london"
+      }
+    ]
+  },
+  "bloomsburystreetkitchen": {
+    "name": "Bloomsbury Street Kitchen",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      }
+    ]
+  },
+  "garrisonlondon": {
+    "name": "The Garrison London",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      }
+    ]
+  },
+  "steakandlobstervarioussites": {
+    "name": "Steak & Lobster - Various Sites",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      }
+    ]
+  },
+  "monmouthkitchen": {
+    "name": "Monmouth Kitchen",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      }
+    ]
+  },
+  "2850winebarsvarioussites": {
+    "name": "28-50 Wine Bars - Various Sites",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      }
+    ]
+  },
+  "drift": {
+    "name": "The Drift",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      }
+    ]
+  },
+  "scoffandbantervarioussites": {
+    "name": "Scoff & Banter - Various Sites",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      }
+    ]
+  },
+  "riverrestaurantbygordonramsay": {
+    "name": "The River Restaurant by Gordon Ramsay",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      },
+      {
+        "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/london-seafood-restaurants/"
+      }
+    ]
+  },
+  "chicama": {
+    "name": "Chicama",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-seafood-restaurants/"
+      }
+    ]
+  },
+  "escocesa": {
+    "name": "Escocesa",
+    "topics": [
+      "seafood",
+      "spanish"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "spanish": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-tapas-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish"
       }
     ]
   },
@@ -131625,81 +132008,6 @@
       }
     ]
   },
-  "prawnonthelawn": {
-    "name": "Prawn on the Lawn",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/london-seafood-restaurants/"
-      }
-    ]
-  },
-  "chicama": {
-    "name": "Chicama",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/london-seafood-restaurants/"
-      }
-    ]
-  },
-  "bentleysoysterbar": {
-    "name": "Bentley’s Oyster Bar",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/londons-best-oysters/"
-      }
-    ]
-  },
   "rosiatthebeaumont": {
     "name": "Rosi At The Beaumont",
     "topics": [
@@ -131822,43 +132130,6 @@
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/londons-best-oysters/"
-      }
-    ]
-  },
-  "ekstedtattheyard": {
-    "name": "Ekstedt At The Yard",
-    "topics": [
-      "seafood",
-      "sunday-roast"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/londons-best-oysters/"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
       }
     ]
   },
@@ -132097,158 +132368,8 @@
       }
     ]
   },
-  "furnessfish": {
-    "name": "Furness Fish",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
-      }
-    ]
-  },
-  "oystermenseafoodbarandkitchen": {
-    "name": "Oystermen Seafood Bar & Kitchen",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
-      }
-    ]
-  },
-  "eightlondonseafoodroomsworththebooking": {
-    "name": "Eight London Seafood Rooms Worth the Booking",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Restaurants for Kings",
-        "url": "https://restaurantsforkings.com/blog/best-seafood-restaurants-london-2026"
-      }
-    ]
-  },
-  "bookingstrategyforlondonseafoodin2026": {
-    "name": "Booking Strategy for London Seafood in 2026",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Restaurants for Kings",
-        "url": "https://restaurantsforkings.com/blog/best-seafood-restaurants-london-2026"
-      }
-    ]
-  },
   "fulllondondiningdirectory": {
     "name": "The full London dining directory",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Restaurants for Kings",
-        "url": "https://restaurantsforkings.com/blog/best-seafood-restaurants-london-2026"
-      }
-    ]
-  },
-  "scottsmayfairfullreview": {
-    "name": "Scott's Mayfair full review",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Restaurants for Kings",
-        "url": "https://restaurantsforkings.com/blog/best-seafood-restaurants-london-2026"
-      }
-    ]
-  },
-  "jsheekeyfullreview": {
-    "name": "J Sheekey full review",
     "topics": [
       "seafood"
     ],
@@ -133422,36 +133543,6 @@
         "tier": "B",
         "source": "Foodism",
         "url": "https://foodism.co.uk/guides/best-tapas-london/"
-      }
-    ]
-  },
-  "escocesa": {
-    "name": "Escocesa",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-tapas-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish"
       }
     ]
   },
@@ -134749,36 +134840,6 @@
       }
     ]
   },
-  "daffodilmulligan": {
-    "name": "Daffodil Mulligan",
-    "topics": [
-      "steak"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "steak": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-steak-restaurants-london"
-      }
-    ]
-  },
   "colonygrillroom": {
     "name": "The Colony Grill Room",
     "topics": [
@@ -135443,427 +135504,6 @@
       }
     ]
   },
-  "londonsbestsundayroastsataglance": {
-    "name": "London's best Sunday roasts at a glance:",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "ricepaddyatthewhitehorse": {
-    "name": "Rice Paddy at The White Horse",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "dukeorganic": {
-    "name": "The Duke Organic",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "oldnunshead": {
-    "name": "Old Nun's Head",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "angel": {
-    "name": "The Angel",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "malltavern": {
-    "name": "The Mall Tavern",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "camberwellarms": {
-    "name": "The Camberwell Arms",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "A1 B3",
-    "tierCount": 2,
-    "hasAward": true,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 4,
-        "tierSpread": "A1 B3",
-        "tierCount": 2,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Estrella Damm Top 50 Gastropubs",
-        "url": "https://www.top50gastropubs.com/list/1-50",
-        "quote": "#60 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london"
-      },
-      {
-        "tier": "B",
-        "source": "Sphere Magazine",
-        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
-      }
-    ]
-  },
-  "bustermantis": {
-    "name": "Buster Mantis",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "nelsons": {
-    "name": "The Nelson’s",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "salusbury": {
-    "name": "The Salusbury",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "dragonflameatstarbyhackneydowns": {
-    "name": "The Dragon Flame at Star by Hackney Downs",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "chalkfreehouse": {
-    "name": "The Chalk Freehouse",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "williamiv": {
-    "name": "William IV",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "audleypublichouse": {
-    "name": "The Audley Public House",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "blackcactus": {
-    "name": "Black Cactus",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
-  "claptoncountryclub": {
-    "name": "Clapton Country Club",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 D1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 2,
-        "tierSpread": "B1 D1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      },
-      {
-        "tier": "D",
-        "source": "DW Food (YouTube)",
-        "url": "https://www.youtube.com/@DWFood"
-      }
-    ]
-  },
   "clarencetavern": {
     "name": "The Clarence Tavern",
     "topics": [
@@ -135885,7 +135525,8 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london",
+        "quote": "The Clarence Tavern is a gastropub in Stoke Newington that's just as good for a slap-up meal as it is for a few pints and a nibble."
       },
       {
         "tier": "B",

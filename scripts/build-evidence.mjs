@@ -19,6 +19,22 @@ import fs from "node:fs";
 const REG = JSON.parse(fs.readFileSync("data/sources.json", "utf8"));
 const OUT = "data/evidence.json";
 
+// Extractors hand back names with the page's HTML entities still in them, and
+// norm() keeps only [a-z0-9] - so "&nbsp;The Golden Tooth" normalises to
+// "nbspthegoldentooth" and becomes a second, permanently one-source venue
+// sitting beside the real record. 53 venues were split this way. Entities are
+// decoded before anything else looks at a name.
+const ENTITIES = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " ",
+  hellip: "...", ndash: "-", mdash: "-", rsquo: "’", lsquo: "‘",
+  ldquo: "“", rdquo: "”", eacute: "é", egrave: "è", uuml: "ü" };
+const decodeEntities = (s) =>
+  String(s)
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+    .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(+d))
+    .replace(/&([a-zA-Z]+);/g, (m, n) => ENTITIES[n] ?? " ")
+    .replace(/\s+/g, " ")
+    .trim();
+
 // Names are matched loosely: sources punctuate and prefix inconsistently, and
 // "The Begging Bowl" / "Begging Bowl" must be one venue.
 const norm = (s) =>
@@ -145,7 +161,7 @@ for (const file of topics) {
     const tier = tierOf(host);
 
     for (const raw of src.names ?? []) {
-      const asWritten = String(raw).trim();
+      const asWritten = decodeEntities(raw);
       if (isJunk(asWritten)) continue;
       // Junk is judged on what the source wrote; everything after this point
       // uses the canonical name, so variant spellings land on one record.

@@ -48,9 +48,10 @@ Record what each source *called* the venue, not just that it named it.
 > Reddit threads, in a city where people argue about pizza constantly. Video is
 > the easiest tier to over-collect and the weakest per source.
 
-## 3. The seven traps
+## 3. The eleven traps
 
-Check every one before recording. All seven cost real accuracy on pizza.
+Check every one before recording. The first seven cost real accuracy on pizza; the
+last four on seafood and Sunday roast.
 
 **1. Read `data/sources.json` for the tier. Never invent a scheme.**
 Six tiers, A–F. **D is video** — any YouTube or TikTok channel, whatever the
@@ -92,6 +93,37 @@ publish the gap.
 `evidence.json` records `topics`. A venue cited under `markets` or `italian` must
 not have that count printed in a pizza guide. Check `topics.includes(<topic>)`
 before printing any count.
+
+**8. A source that extracted only page chrome still counts in your corpus total.**
+Hot Dinners was recorded on the seafood corpus with seven names — `Offers`, `Test
+Drives`, `Staying in` — and zero venues, while being counted as one of sixteen
+sources. DesignMyNight had two: `Rewards` and `Jobs`. The published figure
+"16 sources" was inflated by two sources that contributed nothing, and 28 real
+restaurants with an address and a paragraph each were simply missing. **Print the
+name list for every source before you print a source count.** If a source's names
+are all navigation, the extractor did not find the page's structure — go back and
+find it.
+
+**9. Decode HTML entities before anything looks at a name.**
+`norm()` keeps only `[a-z0-9]`, so `&nbsp;The Golden Tooth` normalises to
+`nbspthegoldentooth` and becomes a second, permanently one-source venue sitting
+beside the real record. 53 venues were split this way across the whole corpus, and
+fixing it moved counts in topics nobody was working on — Blacklock's steak count
+went 4 → 6. `build-evidence.mjs` now decodes at ingest; if you write your own
+extractor, decode there too.
+
+**10. An extended list is not the main list.**
+The Estrella Damm Top 50 Gastropubs publishes 1–50 and a separate 51–100 extension
+on the same page, and the extension is where three of the best-known London roast
+pubs sit. `#60` and `#60 of the top 50` are different claims. Label the extension
+in the quote, and make the verifier enforce it: a rank above the list's length that
+does not say "extended" is an error.
+
+**11. Time Out's lists are RANKED, and the blurb label changes between them.**
+Its seafood guide numbers 1–20 and its Sunday lunch guide 1–28, and the ranks are
+worth carrying — Time Out's number one is often a name no other source puts first,
+which is a finding. The per-venue line is introduced by `Why go?` on some lists and
+`What is it?` on others; match both or you will silently record ranks with no text.
 
 ## 4. Record
 
@@ -241,6 +273,14 @@ evidence inside the entry, not as the running order.
 Where two credible sources crown different winners, **explain it in two sentences
 inside section 1** — not a section of its own. It is the most interesting thing in
 the data and no competitor has it, but it is worth a short paragraph, not an essay.
+
+The exception is a **whole-list divergence**, where two serious sources produce
+almost disjoint lists rather than a different number one. On Sunday roast, Time
+Out's ranked 28 and the Estrella Damm Top 50 share almost no names at all, and
+Time Out's top four appear nowhere in the award. That earns a short section and a
+table — the table is the only place the reader sees the second list, so it is
+doing navigational work, not argument. Keep the prose around it to five or six
+sentences.
 
 Sections 4–8 are cross-references: linked name, one line, citation line. Never
 repeat a description. If a venue appears in four round-ups it should read as four

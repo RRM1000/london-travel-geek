@@ -31,7 +31,7 @@ Order a txuleta expecting a sirloin and you will be surprised. So this guide sta
 > 💡 **The Short Version:** **Hawksmoor** is the most-cited steak in London and the British benchmark. **Ibai** is the highest-placed, 7th in the world on the one ranking that covers this category. **Flat Iron** is £15 and genuinely good. **Blacklock** is the value pick and does chops and steaks equally. **The Guinea Grill** is the old-Mayfair one visitors never find.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **22 sources carrying 129 citations** across **71 named restaurants** — the World's 101 Best Steak Restaurants, the editorial mastheads (Time Out, The Infatuation, Olive, Luxury London) and the year's major London steak videos. **21 restaurants are named by two or more independent sources; 9 carry a dated ranking.**
+> Nothing here is ranked on one visit. This pass reads **22 sources carrying 129 citations** across **69 named restaurants** — the World's 101 Best Steak Restaurants, the editorial mastheads (Time Out, The Infatuation, Olive, Luxury London) and the year's major London steak videos. **21 restaurants are named by two or more independent sources; 9 carry a dated ranking.**
 > **The known weakness in this topic:** one ranking, no inspectorate. Steak has nothing like Michelin or 50 Top Pizza — a single annual list covers it, so nine London restaurants have a judged placement and everything else rests on editorial and creator consensus alone.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
@@ -109,7 +109,7 @@ The other thing to know: **the steak and kidney pie is award-winning** and costs
 
 ### Blacklock, Soho
 
-*££ · chops and steaks · Cited by 4 sources*
+*££ · chops and steaks · Cited by 6 sources*
 
 Cooked over coals in a Soho basement, at prices well under the steakhouse average. The name says chops, but **the menu runs both** — skinny lamb and pork chops flattened under vintage Blacklock irons, and a proper steak list of Denver, bavette, rump cap, sirloin, sixth rib-eye and fillet at £16–24, dry-aged up to 55 days.
 
@@ -220,7 +220,7 @@ Better known as the hardest pint to get in Soho, but the dining room upstairs gr
 ## Best value
 
 * **[Flat Iron](#flat-iron-soho)** — £15 for a single 200g cut, no bookings. *Cited by 7 sources*
-* **[Blacklock](#blacklock-soho)** — the All In at £28 a head, and a dry-aged steak list from £16. *Cited by 4 sources*
+* **[Blacklock](#blacklock-soho)** — the All In at £28 a head, and a dry-aged steak list from £16. *Cited by 6 sources*
 * **[Hawksmoor](#hawksmoor-spitalfields)** — the set lunch is the same beef and the same kitchen at a fraction of the dinner price. *Cited by 8 sources*
 * **[The Guinea Grill](#the-guinea-grill-mayfair)** — the award-winning steak and kidney pie, in a Mayfair grill room, for a fraction of the beef price. *Cited by 6 sources*
 * **[Sagardi](#sagardi-shoreditch)** — the cheapest of the three asadors and the easiest table. *Cited by 3 sources*

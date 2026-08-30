@@ -1,0 +1,142 @@
+{
+  "topic": "seafood",
+  "article": "src/content/articles/best-seafood-restaurants-london.md",
+  "headTerm": "Seafood Restaurants",
+  "status": "re-collected and re-extracted 2026-08-30; video tier collected; community tier thin (3 names)",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. This file records what is specific to seafood: which bodies actually judge it, the format axis, and the two sources that were recorded as evidence while contributing nothing.",
+  "awardBodies": [
+    {
+      "name": "The Good Food Guide",
+      "domain": "thegoodfoodguide.co.uk",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "The only judged, dated selection covering London seafood as a category. 8 London names after the cookie-banner headings ('The legal bit', 'Essential Cookies', 'Analytical Cookies') were removed on 2026-08-30 - they were being counted as restaurants."
+    },
+    {
+      "name": "Michelin Guide",
+      "domain": "guide.michelin.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "Not a seafood category, so it enters this corpus only where a starred kitchen is fish-led: Behind (Hackney), Angler (Moorgate), Quilon (Westminster). guide.michelin.com is permanently 403 to the fetcher; read the 2026 column of the Wikipedia substitute in data/sources.json blocked.substitutes and ATTRIBUTE to guide.michelin.com."
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "tier": "B",
+      "ranked": true,
+      "note": "RANKED 1-20, and the ranks are worth carrying - Tollington's at #1 is not a name any other source puts first. The first pass recorded the 20 names and threw the ranks and the per-venue 'Why go?' lines away; both were recovered 2026-08-30."
+    },
+    {
+      "name": "Hot Dinners",
+      "domain": "hot-dinners.com",
+      "tier": "C",
+      "ranked": false,
+      "note": "THE BIGGEST FIRST-PASS MISS IN THIS TOPIC. Recorded with seven names, every one of them site navigation ('Offers', 'Test Drives', 'Staying in'), and zero venues. The page actually carries 28 London seafood restaurants, each with a street address and a paragraph of description. Re-extracted 2026-08-30; venue names are h2/h3, the address line runs to a postcode and the blurb follows it."
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "tier": "B",
+      "ranked": false,
+      "note": "Verdicts live in the page's JSON-LD, not the visible HTML. Its guide reaches outside London - Oyster Shack & Seafood Bar is in Waltham Abbey, Essex - and outside seafood, into Brat, El Inca Plebeyo and Trap Kitchen."
+    },
+    {
+      "name": "DesignMyNight",
+      "domain": "designmynight.com",
+      "tier": "B",
+      "ranked": false,
+      "note": "Recorded on the first pass with two names, 'Rewards' and 'Jobs'. Re-extracted 2026-08-30 to 30 venues. Its seafood page and its oysters page are separate URLs but one masthead, so they collapse to one domain when scored - which is correct."
+    },
+    {
+      "name": "The Handbook",
+      "domain": "thehandbook.com",
+      "tier": "B",
+      "ranked": false
+    },
+    {
+      "name": "Luxury London",
+      "domain": "luxurylondon.co.uk",
+      "tier": "B",
+      "ranked": false
+    },
+    {
+      "name": "Restaurants for Kings",
+      "domain": "restaurantsforkings.com",
+      "tier": "C",
+      "ranked": false,
+      "note": "Writes its sections as '<venue> full review' headings, which the extractor captures verbatim. Two aliases carry them onto the right record."
+    }
+  ],
+  "facetAxis": {
+    "note": "Seafood splits by FORMAT, not by region. The useful question is what kind of room you are walking into and how the fish is treated, because a Victorian counter and a rooftop raw bar are not substitutes even when both are excellent.",
+    "axes": [
+      {
+        "field": "format",
+        "values": [
+          {
+            "key": "oyster-house",
+            "label": "Victorian oyster house",
+            "describeAs": "counters, high stools, and a room that predates the menu"
+          },
+          {
+            "key": "grand-room",
+            "label": "Grand dining room",
+            "describeAs": "Sheekey, Scott's, Wiltons - theatre and Mayfair pricing"
+          },
+          {
+            "key": "fishmonger",
+            "label": "Fishmonger with a restaurant",
+            "describeAs": "you eat what the trade buys, in the building it is sold from"
+          },
+          {
+            "key": "raw-bar",
+            "label": "Raw bar and oyster counter"
+          },
+          {
+            "key": "market-stall",
+            "label": "Market stall",
+            "describeAs": "Borough and Maltby Street - the cheapest oysters in the guide"
+          },
+          {
+            "key": "modern",
+            "label": "Modern fish room",
+            "describeAs": "small, daily-changing, usually a blackboard"
+          },
+          {
+            "key": "tasting-menu",
+            "label": "Tasting menu"
+          }
+        ]
+      }
+    ]
+  },
+  "knownGaps": [
+    "COMMUNITY TIER IS ALMOST EMPTY. r/london contributed three names (Decatur, The Fishbowl, Steve Hatt) and none is named by anything else, so no community-backed venue clears the bar. Reddit is blocked to curl and to the browser pane; two Apify runs on other topics cost about $0.95 for nothing usable. Retry needs a different approach.",
+    "NO INSPECTORATE FOR THE CATEGORY. There is no 50 Top Pizza, no Estrella Damm list, no Asian Curry Awards equivalent for fish. The Good Food Guide is the only judged seafood selection, and Michelin enters only where a starred kitchen happens to be fish-led. Eight venues carry a dated award; everything else rests on editorial and creator consensus.",
+    "Oysters and restaurants are scored together. Four of the sixteen sources are oyster-specific, which pushes oyster bars up the count relative to whole-fish kitchens. Stated in the article rather than corrected for.",
+    "Cornerstone (Hackney Wick) is still carried by Hot Dinners and is closed. Caught by data/closed.json, not by the source."
+  ],
+  "currentState": {
+    "recorded": "2026-08-30",
+    "sources": 16,
+    "citations": 190,
+    "namesInCorpus": 110,
+    "twoPlusDomains": 31,
+    "meetingTheBar": 25,
+    "articleExists": true,
+    "tierAVenues": 8
+  },
+  "openVenueQuestions": [
+    "27 named venues have no Restaurants v2 row, including J Sheekey, Scott's, Bentley's, Seabird, Parsons and Wiltons. Each needs Neighbourhood, Price Band, Why Go and Angle before a row can be added, and a coordinate before it can be pinned - which is a BILLED Places call.",
+    "There is no seafood map key in scripts/export-restaurant-map.mjs, because a map is only worth generating once the rows above exist."
+  ],
+  "videoTier": {
+    "collected": "2026-08-30",
+    "channels": 5,
+    "names": 10,
+    "method": "Apify api-ninja/youtube-search-scraper, geo=GB. Handles came back from the YouTube API, so none was reconstructed.",
+    "note": "Venue-owned channels are tier F and never score. Harrison Webb's seafood video is a recommendation, unlike his steakhouse video, which is a takedown - check which before recording a name from a creator."
+  }
+}
