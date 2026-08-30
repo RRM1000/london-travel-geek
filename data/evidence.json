@@ -35452,10 +35452,10 @@
       "general",
       "thai"
     ],
-    "sourceCount": 7,
-    "tierSpread": "B5 C2",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 8,
+    "tierSpread": "A1 B5 C2",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 1,
@@ -35470,13 +35470,19 @@
         "hasAward": false
       },
       "thai": {
-        "sourceCount": 5,
-        "tierSpread": "B3 C2",
-        "tierCount": 2,
-        "hasAward": false
+        "sourceCount": 6,
+        "tierSpread": "A1 B3 C2",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants",
+        "quote": "One Michelin star in the 2026 guide."
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -35873,7 +35879,7 @@
         "tier": "A",
         "source": "Michelin Guide",
         "url": "https://guide.michelin.com/ie/en/best-of/best-dim-sum-in-london",
-        "quote": "The only Chinese restaurant in London holding a Michelin star in the 2026 guide."
+        "quote": "Two Michelin stars in the 2026 guide, and the only Chinese restaurant in London holding a star at all."
       },
       {
         "tier": "B",
@@ -38746,12 +38752,13 @@
     "name": "Humble Chicken",
     "topics": [
       "british",
-      "general"
+      "general",
+      "japanese"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 1,
@@ -38764,9 +38771,21 @@
         "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants",
+        "quote": "Two Michelin stars in the 2026 guide."
+      },
       {
         "tier": "B",
         "source": "DesignMyNight",
@@ -82504,10 +82523,10 @@
       "general",
       "korean"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "general": {
         "sourceCount": 1,
@@ -82516,13 +82535,19 @@
         "hasAward": false
       },
       "korean": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 C1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants",
+        "quote": "One Michelin star in the 2026 guide."
+      },
       {
         "tier": "B",
         "source": "SquareMeal",
@@ -101436,19 +101461,25 @@
     "topics": [
       "japanese"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "japanese": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 C1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants",
+        "quote": "One Michelin star in the 2026 guide."
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -101601,19 +101632,25 @@
     "topics": [
       "japanese"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "japanese": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
+        "sourceCount": 4,
+        "tierSpread": "A1 B2 C1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants",
+        "quote": "One Michelin star in the 2026 guide."
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -101636,19 +101673,25 @@
     "topics": [
       "japanese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
     "byTopic": {
       "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants",
+        "quote": "One Michelin star in the 2026 guide."
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -102969,19 +103012,25 @@
     "topics": [
       "japanese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
     "byTopic": {
       "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants",
+        "quote": "One Michelin star in the 2026 guide."
+      },
       {
         "tier": "B",
         "source": "DesignMyNight",
@@ -106229,6 +106278,32 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-restaurants-in-new-malden"
+      }
+    ]
+  },
+  "somssi": {
+    "name": "Somssi",
+    "topics": [
+      "korean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "korean": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants",
+        "quote": "One Michelin star in the 2026 guide."
       }
     ]
   },

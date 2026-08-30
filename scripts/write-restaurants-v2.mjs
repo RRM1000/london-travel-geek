@@ -2799,7 +2799,7 @@ const rows = [
     // Sagar all block automated fetch, and the figures circulating for them are
     // stale or contradictory (Indian Veg is quoted at both £12.95 and £14.95).
     // Better no price than a wrong one.
-    ...brit, slug: "silk-road-camberwell", name: "Silk Road",
+    ...chi, slug: "silk-road-camberwell", name: "Silk Road",
     style: "Xinjiang Chinese", specialities: "regional, noodles",
     venueFormat: "Restaurant", chainType: "independent",
     hood: "Camberwell", borough: "Southwark", areaGuide: "",
@@ -3169,7 +3169,7 @@ const rows = [
     // wrong were corrected in the process: En Root is a SOUTH London group, not
     // Teddington; Naifs' set menu is £38, not the £30 still circulating on
     // SquareMeal; and Tendril is at Princes Street by Oxford Circus.
-    ...brit, slug: "facing-heaven", name: "Facing Heaven",
+    ...chi, slug: "facing-heaven", name: "Facing Heaven",
     style: "Vegan Sichuan", specialities: "regional, vegetarian",
     venueFormat: "Restaurant", chainType: "independent",
     hood: "Hackney", borough: "Hackney", areaGuide: "hackney-area-guide",

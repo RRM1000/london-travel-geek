@@ -1,0 +1,105 @@
+{
+  "topic": "chinese",
+  "article": "src/content/articles/best-chinese-east-asian-restaurants-london.md",
+  "headTerm": "Chinese Restaurants",
+  "status": "re-extracted 2026-08-30; Michelin recovered; no video tier available; community tier missing",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. This file records what is specific to Chinese: the domain-count problem, the four sources that were counting labels as restaurants, and why the article spans three corpora.",
+  "spansThreeCorpora": {
+    "why": "The article covers Chinese, Thai and Korean because a London menu convention files them together, but they are three cuisines with three separate corpora. A Thai restaurant's citation line must print its THAI count. scripts/verify-chinese-citations.mjs enforces that: the article writes 'Cited by 5 Thai sources' and the checker reads the corpus named in the line.",
+    "corpora": ["chinese", "thai", "korean"]
+  },
+  "awardBodies": [
+    {
+      "name": "Michelin Guide",
+      "domain": "guide.michelin.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "THE ONLY JUDGED SOURCE IN ANY OF THE THREE CORPORA, and it was recorded on the first pass with two names - 'London by the MICHELIN Guide' and 'MICHELIN Guide Plus'. Zero restaurants. A corpus with an award in it was scoring as though it had none.",
+      "howToRead": "guide.michelin.com is permanently 403 to the fetcher, so read the 2026 column of the Wikipedia substitute in data/sources.json blocked.substitutes and ATTRIBUTE to guide.michelin.com. THREE THINGS ABOUT THAT TABLE HAVE ALREADY PRODUCED WRONG ANSWERS: (1) the page holds three tables (2020-2026, 2010-2019, 2008-2009) and the same restaurant appears in all three, so a row must be paired with the header above it; (2) rows do not all have the same cell count - a restaurant that closed mid-range ends in a colspan 'Closed' cell - so a fixed offset from either end shifts the year; (3) THE STAR COUNT IS IN THE SVG FILE NAME, Etoile_Michelin-2.svg meaning two stars, not in the number of <img> tags, which is always one. Counting images reported A. Wong with one star when it has two.",
+      "result2026": "A. Wong (2 stars) is the only Chinese restaurant in London with a star. Hakkasan Mayfair and Kai Mayfair are in the current table without one; Hakkasan Hanway Place has closed; Yauatcha Soho appears only in the 2010-2019 table. Thai: AngloThai (1). Korean: Sollip (1), Somssi (1)."
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "tier": "B",
+      "ranked": false,
+      "note": "FOUR separate London guides in this corpus - 25 best Chinese, Chinatown, dim sum, cheung fun - which is four records and ONE opinion. Its 25-best list interleaves REGION HEADINGS with venues (Cantonese, Sichuan, Shanghainese, Southern Chinese, Uyghur, Fine Dining), and its cheung fun guide interleaves DISH NAMES, so 'Prawn Cheung Fun' was being counted as a restaurant. 13 label rows removed 2026-08-30."
+    },
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "tier": "B",
+      "ranked": false,
+      "note": "Three records. 'Best Asian restaurant in every part of London' carried twelve names, all footer links and zero venues, and was removed. 'Best dim sum 2025' was mostly chrome around a single crowned winner, Baba Tang."
+    },
+    {
+      "name": "SquareMeal",
+      "domain": "squaremeal.co.uk",
+      "tier": "B",
+      "ranked": false,
+      "note": "Two records, one opinion. Its Chinatown list reaches well outside Chinese food - Tokyo Diner, Viet Food, Bunsik, Pochawa Grill Korean BBQ - which is correct for a Chinatown guide and wrong for a Chinese one. Kept, because the article covers East Asian, but they must not be described as Chinese."
+    },
+    {
+      "name": "The Hotel Journal",
+      "domain": "thehoteljournal.com",
+      "tier": "B",
+      "ranked": false,
+      "note": "Headings are written 'Venue | Area' and were captured WHOLE, pipe and all, so the neighbourhood was riding inside the venue name. Split 2026-08-30; the area is kept as the quote. The same bug was found in 11 other corpora - 30 names in total."
+    },
+    { "name": "Eater London", "domain": "london.eater.com", "tier": "B", "ranked": false },
+    { "name": "Olive Magazine", "domain": "olivemagazine.com", "tier": "B", "ranked": false }
+  ],
+  "facetAxis": {
+    "note": "Chinese splits by REGION, and it is the axis that matters most of any topic on this site - a Cantonese roast house and a Shaanxi noodle shop share nothing but a menu label. The Infatuation is the only source that files London Chinese food this way.",
+    "axes": [
+      {
+        "field": "region",
+        "values": [
+          { "key": "cantonese", "label": "Cantonese", "describeAs": "roast meats, dim sum, seafood - most of London's Chinese food" },
+          { "key": "sichuan", "label": "Sichuan", "describeAs": "numbing peppercorn and chilli oil" },
+          { "key": "shaanxi", "label": "Shaanxi", "describeAs": "hand-pulled biang biang noodles and the rou jia mo bun" },
+          { "key": "hunanese", "label": "Hunanese" },
+          { "key": "hainanese", "label": "Hainanese" },
+          { "key": "uyghur", "label": "Uyghur", "describeAs": "Turkic-Chinese cooking from Xinjiang - cumin, lamb, laghman noodles" },
+          { "key": "taiwanese", "label": "Taiwanese" },
+          { "key": "peranakan", "label": "Malaysian-Peranakan", "describeAs": "Chinese technique with Malay spicing" },
+          { "key": "pan-regional", "label": "Pan-regional and modern" }
+        ]
+      }
+    ]
+  },
+  "knownGaps": [
+    "SEVEN INDEPENDENT PUBLICATIONS, NOT THIRTEEN SOURCES. The Infatuation publishes four London Chinese guides, Time Out three and SquareMeal two - and each masthead counts once. The article states both numbers rather than the flattering one.",
+    "NO VIDEO TIER IS AVAILABLE. 22 London Chinatown videos were searched on 2026-08-30 and NOT ONE carried chapter markers naming restaurants - the format on this subject is walking food tours without chapters. A channel with no extractable venue is not a source, so nothing was recorded. This is a genuine absence, not a skipped step.",
+    "COMMUNITY TIER IS EMPTY. Reddit is blocked to curl and to the browser pane.",
+    "NO CATEGORY AWARD EXISTS. There is no Good Food Guide Chinese selection - the URL exists but serves a generic listing page - and nothing equivalent to the Asian Curry Awards. Michelin is the whole of the judged evidence, and it reaches one Chinese restaurant.",
+    "Min Jiang (Kensington) is named by NO source in this corpus and was dropped from the article on 2026-08-30. It is a real and well-known tenth-floor Peking duck room; its absence is a gap in the sources, not a verdict. Worth a targeted look on the next pass."
+  ],
+  "currentState": {
+    "recorded": "2026-08-30",
+    "sourceRecords": 13,
+    "distinctDomains": 7,
+    "citations": 206,
+    "namesInCorpus": 112,
+    "twoPlusDomains": 46,
+    "tierAVenues": 1,
+    "articleExists": true,
+    "mapExists": false
+  },
+  "cleanupDone": [
+    "Michelin re-extracted from 2 chrome names to the real 2026 star list.",
+    "Time Out 'best Asian by area' removed - 12 names, all footer links.",
+    "The Hotel Journal split from 'Venue | Area' into venue plus quote.",
+    "The Infatuation: 7 region headings and 6 dish names removed.",
+    "16 further chrome names dropped across the corpus (Login, Forgot Password, Authors, Post navigation).",
+    "17 aliases added. Bar Shu and Barshu are ONE restaurant at 28 Frith Street and the article described it twice, in two different sections, as two restaurants.",
+    "Silk Road (Xinjiang) and Facing Heaven (Sichuan) were filed as British on the sheet, which kept them off the Chinese cuisine page."
+  ],
+  "openVenueQuestions": [
+    "Hakkasan Mayfair and Hakkasan Hanway Place are deliberately NOT merged: only Hanway Place held the star and only Hanway Place has closed.",
+    "Rasa Sayang, Speedboat Bar, Pochawa Grill, Din Tai Fung and Tokyo Diner are named by Chinese-guide sources and are Malaysian, Thai, Korean, Taiwanese and Japanese. Chinatown listings do this. They are kept and labelled, never described as Chinese.",
+    "9 venues meeting the bar have no Restaurants v2 row: Three Uncles, Imperial Treasure Fine Chinese Cuisine, Good Friend, YiQi, San Hao, Poon's, Noodle Nova, Noodle & Beer, Leong's Legend, C&R Cafe."
+  ]
+}

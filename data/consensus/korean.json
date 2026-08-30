@@ -221,6 +221,19 @@
       "names": [
         "New Malden"
       ]
+    },
+    {
+      "name": "Michelin Guide 2026 - London stars",
+      "url": "https://guide.michelin.com/gb/en/restaurants",
+      "names": [
+        "Sollip",
+        "Somssi"
+      ],
+      "quotes": {
+        "Sollip": "One Michelin star in the 2026 guide.",
+        "Somssi": "One Michelin star in the 2026 guide."
+      },
+      "note": "READ FROM THE SUBSTITUTE. guide.michelin.com is 403 to the fetcher; the 2026 column of the Wikipedia list in data/sources.json blocked.substitutes was used and ATTRIBUTED here to guide.michelin.com. The star count is in the SVG file name (Etoile_Michelin-2.svg), not the number of images."
     }
   ]
 }

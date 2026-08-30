@@ -101,7 +101,8 @@
     "Imperial Treasure": "Imperial Treasure Fine Chinese Cuisine",
     "Kai": "Kai Mayfair",
     "JinLi Chinatown": "JinLi",
-    "C&R Cafe": "C&R Café"
+    "C&R Cafe": "C&R Café",
+    "Bar Shu": "Barshu"
   },
   "whyCrispIsOneVenue": "The Infatuation's #1 is 'Crisp Pizza W6 at The Chancellors' in Hammersmith; Time Out and Country & Town House name the Mayfair site. Those are two pubs, but one brand: the Restaurants v2 row is already chainType 'mini-chain' with ownerGroup 'Devonshire / Crisp group', and its Why Go says Crisp was 'previously only in Hammersmith, brought into central London'. The sheet counts a mini-chain brand-level - the same treatment Rudy's and Fatto a Mano get - so the citations merge and the two sites are carried as Branches rows instead. Verified 2026-08-30: The Chancellors is 25 Crisp Road, Hammersmith W6 9RL.",
   "deliberatelyNotAliased": {

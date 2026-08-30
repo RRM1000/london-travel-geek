@@ -7,7 +7,7 @@
    {
     "value": "British",
     "slug": "british",
-    "count": 244
+    "count": 242
    },
    {
     "value": "Italian",
@@ -17,7 +17,7 @@
    {
     "value": "Chinese",
     "slug": "chinese",
-    "count": 50
+    "count": 52
    },
    {
     "value": "Indian",
@@ -1043,9 +1043,9 @@
    "lists": [
     "showstopper"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "C1",
-   "sourceUrls": "https://londontheinside.com/map/shoreditch/"
+   "sourceCount": "2",
+   "sourceTiers": "C2",
+   "sourceUrls": "https://londontheinside.com/map/shoreditch/ | https://thenudge.com/features/the-best-italian-restaurants-in-london/"
   },
   {
    "slug": "luca",
@@ -2396,8 +2396,6 @@
    "lat": 51.537108,
    "lng": -0.044892,
    "price": "££",
-   "bookingUrl": "https://www.sevenrooms.com/explore/acepizzavictoriapark/reservations/create/search/&quot;,",
-   "website": "https://thisisacepizza.com/",
    "goodFor": [
     "groups",
     "families",
@@ -2469,8 +2467,6 @@
    "lng": -0.021406,
    "price": "££",
    "booking": "walk-in",
-   "bookingUrl": "http://www.madeinpuglia.uk/",
-   "website": "http://www.madeinpuglia.uk/",
    "setting": "counter",
    "goodFor": [
     "groups",
@@ -2575,7 +2571,6 @@
    "lat": 51.493674,
    "lng": -0.148517,
    "price": "££",
-   "bookingUrl": "https://www.weezieslondon.com/bookings",
    "website": "https://www.weezieslondon.com/",
    "setting": "courtyard",
    "goodFor": [
@@ -2611,7 +2606,6 @@
    "lat": 51.505938,
    "lng": -0.091734,
    "price": "£££",
-   "bookingUrl": "http://www.elliots.london/reservations-borough",
    "website": "https://elliots.london/",
    "goodFor": [
     "date",
@@ -2713,7 +2707,6 @@
    "lng": -0.102831,
    "price": "££",
    "booking": "walk-in",
-   "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?lang=en-GB&correlationId=09441ecd-999a-4d8c-8dd2-f86560e34bf4&restRef=425307&otSource=Restaurant%20website",
    "website": "https://linktr.ee/Carmelaspizzeria",
    "setting": "counter",
    "goodFor": [
@@ -2782,7 +2775,6 @@
    "lat": 51.48602,
    "lng": -0.171902,
    "price": "££",
-   "bookingUrl": "https://www.madeinitalygroup.co.uk/book",
    "website": "https://www.madeinitalygroup.co.uk/",
    "goodFor": [
     "groups",
@@ -2817,7 +2809,6 @@
    "lat": 51.563107,
    "lng": -0.057946,
    "price": "££",
-   "bookingUrl": "https://georgeandvulture.com/booking/",
    "website": "https://www.sodopizza.co.uk/",
    "goodFor": [
     "families",
@@ -2852,7 +2843,6 @@
    "lat": 51.504927,
    "lng": -0.094212,
    "price": "££",
-   "bookingUrl": "https://www.overuk.com/borough/book",
    "website": "https://www.overuk.com/",
    "goodFor": [
     "date",
@@ -2921,7 +2911,6 @@
    "lat": 51.584768,
    "lng": -0.161603,
    "price": "££",
-   "bookingUrl": "https://www.sevenrooms.com/explore/67sourdough/reservations/create/search/",
    "website": "https://www.67sourdough.com/",
    "goodFor": [
     "families",
@@ -3232,8 +3221,6 @@
    "station": "Knightsbridge",
    "walkMin": 3,
    "price": "£££",
-   "bookingUrl": "http://www.saleepepe.co.uk/reservations",
-   "website": "http://www.saleepepe.co.uk/",
    "goodFor": [
     "date",
     "celebration"
@@ -3270,8 +3257,6 @@
    "station": "Goodge Street",
    "walkMin": 3,
    "price": "£",
-   "bookingUrl": "http://www.pastificioaldente.com/",
-   "website": "http://www.pastificioaldente.com/",
    "goodFor": [
     "solo",
     "quick"
@@ -3606,9 +3591,9 @@
    ],
    "whyGo": "Robin Gill's Clapham room - the team behind The Dairy - cooking the Amalfi Coast through British produce.",
    "signals": "2 sources: Eater London, The Nudge",
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://london.eater.com/maps/best-italian-restaurants-london"
+   "sourceCount": "2",
+   "sourceTiers": "B1 C1",
+   "sourceUrls": "https://london.eater.com/maps/best-italian-restaurants-london | https://thenudge.com/features/the-best-italian-restaurants-in-london/"
   },
   {
    "slug": "noci",
@@ -3756,10 +3741,7 @@
    ],
    "whyGo": "Eight tables of 1950s Riviera glamour on Dover Street, from the clothing brand of the same name.",
    "opNote": "Very small - eight tables - so booking matters more than the walk-in-friendly rooms elsewhere on this list.",
-   "signals": "2 sources: The Nudge, Lux Life London",
-   "sourceCount": "1",
-   "sourceTiers": "C1",
-   "sourceUrls": "https://thenudge.com/features/the-best-italian-restaurants-in-london/"
+   "signals": "2 sources: The Nudge, Lux Life London"
   },
   {
    "slug": "the-dover",
@@ -4473,8 +4455,6 @@
    "lat": 51.506379,
    "lng": -0.071916,
    "price": "££",
-   "bookingUrl": "https://bookings.designmynight.com/book?venue_id=512b202cd5d190d2978ca43f&source=partner&partner_source=Google-XmasDay&type=6a60d0fada83022f4947e90f&time=13:00&date=2026-12-25",
-   "website": "https://www.dickensinn.co.uk/",
    "setting": "riverside",
    "outdoor": "terrace",
    "goodFor": [
@@ -4728,8 +4708,8 @@
     "fish-and-chips",
     "best-value"
    ],
-   "sourceCount": "8",
-   "sourceTiers": "B4 C3 D1",
+   "sourceCount": "9",
+   "sourceTiers": "B4 C3 D2",
    "sourceUrls": "https://london.eater.com/maps/best-british-restaurants-london | https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london"
   },
   {
@@ -4765,9 +4745,9 @@
    "lists": [
     "fish-and-chips"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B2 C2 D1",
-   "sourceUrls": "https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london | https://absolutelymagazines.com/londons-best-fish-chips/ | https://britishfoodcrew.com/best-fish-chips-in-london-the-definitive-2026-guide/"
+   "sourceCount": "9",
+   "sourceTiers": "B3 C2 D4",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london | https://absolutelymagazines.com/londons-best-fish-chips/"
   },
   {
    "slug": "the-golden-hind",
@@ -4803,8 +4783,8 @@
    "lists": [
     "fish-and-chips"
    ],
-   "sourceCount": "6",
-   "sourceTiers": "B3 C3",
+   "sourceCount": "7",
+   "sourceTiers": "B3 C3 D1",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london | https://absolutelymagazines.com/londons-best-fish-chips/"
   },
   {
@@ -4840,8 +4820,8 @@
    "lists": [
     "fish-and-chips"
    ],
-   "sourceCount": "8",
-   "sourceTiers": "B4 C4",
+   "sourceCount": "9",
+   "sourceTiers": "B4 C4 D1",
    "sourceUrls": "https://www.theinfatuation.com/london/guides/best-british-restaurants-london | https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london"
   },
   {
@@ -4879,8 +4859,8 @@
    "lists": [
     "fish-and-chips"
    ],
-   "sourceCount": "6",
-   "sourceTiers": "B3 C2 D1",
+   "sourceCount": "7",
+   "sourceTiers": "B3 C2 D2",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://absolutelymagazines.com/londons-best-fish-chips/ | https://www.designmynight.com/london/seafood-restaurants-in-london"
   },
   {
@@ -4916,9 +4896,9 @@
    "lists": [
     "fish-and-chips"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london"
+   "sourceCount": "5",
+   "sourceTiers": "B2 C3",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london | https://britishfoodcrew.com/best-fish-chips-in-london-the-definitive-2026-guide/"
   },
   {
    "slug": "toffs",
@@ -4951,8 +4931,8 @@
    "lists": [
     "fish-and-chips"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B2 C1",
+   "sourceCount": "4",
+   "sourceTiers": "B2 C1 D1",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london | https://britishfoodcrew.com/best-fish-chips-in-london-the-definitive-2026-guide/"
   },
   {
@@ -4988,8 +4968,8 @@
    "lists": [
     "fish-and-chips"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B2 C1 D2",
+   "sourceCount": "6",
+   "sourceTiers": "B2 C1 D3",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london | https://britishfoodcrew.com/best-fish-chips-in-london-the-definitive-2026-guide/"
   },
   {
@@ -5463,7 +5443,6 @@
    "station": "Green Park",
    "walkMin": 7,
    "price": "££££",
-   "website": "https://www.theguinea.co.uk/",
    "goodFor": [
     "date",
     "celebration"
@@ -5501,7 +5480,6 @@
    "station": "Hyde Park Corner",
    "walkMin": 5,
    "price": "££££",
-   "website": "https://www.dorchestercollection.com/london/45-park-lane/dining/cut-at-45-park-lane?utm_source=google&utm_medium=45l_local_profile&utm_campaign=cut&utm_content=london_dining",
    "goodFor": [
     "celebration",
     "date"
@@ -5539,8 +5517,6 @@
    "station": "Oxford Circus",
    "walkMin": 4,
    "price": "££££",
-   "bookingUrl": "https://www.sevenrooms.com/explore/goodmanmayfair/reservations/create/search?venues=beast%2Cpinnamayfair%2Cgoodmanmayfair%2Cfantomas",
-   "website": "https://www.goodmanrestaurants.com/mayfair?utm_source=google&utm_medium=local&utm_campaign=gmblisting",
    "goodFor": [
     "business",
     "date"
@@ -5578,7 +5554,6 @@
    "station": "Bank",
    "walkMin": 1,
    "price": "££££",
-   "website": "https://www.thened.com/london/restaurants/lutyens-grill?utm_source=google&utm_medium=local&utm_campaign=lutyens-grill",
    "goodFor": [
     "business",
     "celebration"
@@ -5616,7 +5591,6 @@
    "station": "Old Street",
    "walkMin": 9,
    "price": "£££",
-   "website": "http://www.sagardi.co.uk/",
    "goodFor": [
     "groups",
     "date"
@@ -5652,7 +5626,6 @@
    "station": "Knightsbridge",
    "walkMin": 2,
    "price": "£££",
-   "website": "https://www.zelmanmeats.com/?utm_source=google&utm_medium=local&utm_campaign=gbplisting",
    "goodFor": [
     "groups",
     "solo"
@@ -5689,7 +5662,6 @@
    "station": "Piccadilly Circus",
    "walkMin": 6,
    "price": "£",
-   "website": "https://flatironsteak.co.uk/restaurant/soho/",
    "goodFor": [
     "solo",
     "groups",
@@ -5809,7 +5781,6 @@
    "walkMin": 9,
    "price": "£",
    "booking": "walk-in",
-   "website": "https://the-golden-chip.edan.io/",
    "setting": "counter",
    "goodFor": [
     "quick",
@@ -5828,7 +5799,7 @@
   {
    "slug": "silk-road-camberwell",
    "name": "Silk Road",
-   "cuisine": "British",
+   "cuisine": "Chinese",
    "style": "Xinjiang Chinese",
    "specialities": [
     "regional",
@@ -5848,8 +5819,6 @@
    "walkMin": 10,
    "price": "£",
    "booking": "walk-in",
-   "bookingUrl": "https://linktr.ee/features/bookings",
-   "website": "https://linktr.ee/silkroadcamberwell",
    "goodFor": [
     "groups",
     "quick"
@@ -5886,7 +5855,6 @@
    "walkMin": 4,
    "price": "£",
    "booking": "walk-in",
-   "website": "https://mariescafe.has.restaurant/",
    "goodFor": [
     "groups",
     "quick"
@@ -5936,9 +5904,9 @@
    "lists": [
     "cheap-eats"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B2",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london | https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+   "sourceCount": "5",
+   "sourceTiers": "B4 C1",
+   "sourceUrls": "https://thehoteljournal.com/best-chinese-restaurants-in-london/ | https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london | https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
   },
   {
    "slug": "govindas",
@@ -5964,8 +5932,6 @@
    "walkMin": 2,
    "price": "£",
    "booking": "walk-in",
-   "bookingUrl": "https://govindas.london/reservation",
-   "website": "https://govindas.london/",
    "setting": "counter",
    "goodFor": [
     "solo",
@@ -6007,7 +5973,6 @@
    "walkMin": 4,
    "price": "£",
    "booking": "walk-in",
-   "website": "https://theindianveg.wordpress.com/",
    "goodFor": [
     "groups",
     "quick"
@@ -6049,8 +6014,6 @@
    "walkMin": 5,
    "price": "£",
    "booking": "walk-in",
-   "bookingUrl": "https://static.parastorage.com/services/table-reservations-ooi/1.2804.0/ReservationAddOnViewerWidget.min.css",
-   "website": "https://www.sagarlondon.com/coventgarden",
    "goodFor": [
     "families",
     "quick"
@@ -6089,7 +6052,6 @@
    "walkMin": 3,
    "price": "£",
    "booking": "walk-in",
-   "website": "http://www.tongueandbrisket.com/",
    "setting": "counter",
    "goodFor": [
     "quick",
@@ -6282,6 +6244,8 @@
    "postcode": "NW1 6JQ",
    "lat": 51.521776,
    "lng": -0.162801,
+   "station": "Marylebone",
+   "walkMin": 3,
    "price": "££££",
    "booking": "weeks",
    "bookingUrl": "https://www.opentable.co.uk/the-winter-garden-reservations-london?restref=70939&lang=en-GB&ot_source=Restaurant%20website",
@@ -6703,7 +6667,7 @@
   {
    "slug": "facing-heaven",
    "name": "Facing Heaven",
-   "cuisine": "British",
+   "cuisine": "Chinese",
    "style": "Vegan Sichuan",
    "specialities": [
     "regional",
@@ -6723,8 +6687,6 @@
    "station": "London Fields",
    "walkMin": 4,
    "price": "££",
-   "bookingUrl": "https://www.sevenrooms.com/explore/facingheaven/reservations/create/search",
-   "website": "http://www.facing-heaven.com/",
    "goodFor": [
     "groups",
     "date"
@@ -6763,8 +6725,6 @@
    "station": "Angel",
    "walkMin": 4,
    "price": "££",
-   "bookingUrl": "https://jamdelish.co.uk/wp-content/plugins/Booking/cache/quform.css?ver=1745443894",
-   "website": "https://www.jamdelish.co.uk/",
    "goodFor": [
     "groups",
     "date"
@@ -6803,8 +6763,6 @@
    "station": "London King's Cross",
    "walkMin": 8,
    "price": "££",
-   "bookingUrl": "https://www.itadakizen-uk.com/reservation",
-   "website": "https://www.itadakizen-uk.com/copy-of-london-main",
    "goodFor": [
     "solo",
     "date"
@@ -6842,7 +6800,6 @@
    "station": "Clapham North",
    "walkMin": 11,
    "price": "££",
-   "website": "http://www.enrootldn.co.uk/",
    "goodFor": [
     "groups",
     "solo"
@@ -6881,8 +6838,6 @@
    "station": "Camden Town",
    "walkMin": 3,
    "price": "££",
-   "bookingUrl": "https://purezza.co.uk/reservations/",
-   "website": "https://purezza.co.uk/locations/camden/",
    "goodFor": [
     "families",
     "groups"
@@ -6921,8 +6876,6 @@
    "station": "Queens Road Peckham",
    "walkMin": 9,
    "price": "£££",
-   "bookingUrl": "https://booking.resdiary.com/widget/Standard/naifs/19344",
-   "website": "http://www.naifs.co.uk/",
    "goodFor": [
     "date",
     "celebration"
@@ -6955,14 +6908,12 @@
    "borough": "Westminster",
    "guide": "mayfair-area-guide",
    "address": "5 Princes St W1B 2LQ",
-   "postcode": "W1B 2LF",
+   "postcode": "W1B 2LQ",
    "lat": 51.51463,
    "lng": -0.142997,
    "station": "Oxford Circus",
    "walkMin": 2,
    "price": "£££",
-   "bookingUrl": "https://www.opentable.co.uk/r/tendril-a-mostly-vegan-kitchen-reservations-london?restref=204060&lang=en-GB&ot_source=Restaurant%20website&quot;,",
-   "website": "http://www.tendrilkitchen.co.uk/",
    "goodFor": [
     "date",
     "solo"
@@ -7001,8 +6952,6 @@
    "station": "Ladbroke Grove",
    "walkMin": 8,
    "price": "£££",
-   "bookingUrl": "https://www.holycarrot.co.uk/bookings",
-   "website": "https://www.holycarrot.co.uk/",
    "goodFor": [
     "date",
     "celebration"
@@ -7040,8 +6989,6 @@
    "station": "London Bridge",
    "walkMin": 1,
    "price": "££",
-   "bookingUrl": "https://www.sevenrooms.com/explore/mallowboroughmarket/reservations/create/search",
-   "website": "https://mallowlondon.com/locations/borough-market/",
    "goodFor": [
     "groups",
     "date"
@@ -8499,6 +8446,8 @@
    "postcode": "N16 0AR",
    "lat": 51.562071,
    "lng": -0.076376,
+   "station": "Stoke Newington",
+   "walkMin": 7,
    "price": "£",
    "booking": "days",
    "bookingUrl": "https://www.opentable.co.uk/r/rasa-vegetarian-reservations-london?restref=286557&lang=en-GB&ot_source=Restaurant%20website",
@@ -8538,6 +8487,8 @@
    "postcode": "WC2H 0EP",
    "lat": 51.510023,
    "lng": -0.128658,
+   "station": "Leicester Square",
+   "walkMin": 3,
    "price": "£",
    "booking": "walk-in",
    "bookingUrl": "https://www.sevenrooms.com/explore/aryabhavancentral/reservations/create/search/",
@@ -8747,6 +8698,8 @@
    "postcode": "E1 6JL",
    "lat": 51.524403,
    "lng": -0.077051,
+   "station": "Shoreditch High Street",
+   "walkMin": 2,
    "price": "£££",
    "booking": "weeks",
    "website": "http://bratrestaurant.com/",
@@ -9618,9 +9571,9 @@
    "lists": [
     "dim-sum"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B3",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-dim-sum-london | https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown | https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
+   "sourceCount": "4",
+   "sourceTiers": "B4",
+   "sourceUrls": "https://thehoteljournal.com/best-chinese-restaurants-in-london/ | https://www.theinfatuation.com/london/guides/best-dim-sum-london | https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown"
   },
   {
    "slug": "tao-tao-ju",
@@ -9657,9 +9610,9 @@
    "lists": [
     "dim-sum"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B3",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-restaurants-chinatown | https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203 | https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
+   "sourceCount": "4",
+   "sourceTiers": "B4",
+   "sourceUrls": "https://thehoteljournal.com/best-chinese-restaurants-in-london/ | https://www.theinfatuation.com/london/guides/best-restaurants-chinatown | https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
   },
   {
    "slug": "bun-house",
@@ -9696,9 +9649,9 @@
    "lists": [
     "best-value"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B1 C1 D1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown | https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or | https://www.youtube.com/@strictlydumpling"
+   "sourceCount": "5",
+   "sourceTiers": "B3 C1 D1",
+   "sourceUrls": "https://thehoteljournal.com/best-chinese-restaurants-in-london/ | https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown | https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
   },
   {
    "slug": "wong-kei",
@@ -9818,9 +9771,9 @@
     "dim-sum",
     "best-value"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
+   "sourceCount": "3",
+   "sourceTiers": "B3",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/best-restaurants-in-london | https://www.theinfatuation.com/london/guides/best-dim-sum-london | https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
   },
   {
    "slug": "hunan-pimlico",
@@ -9895,9 +9848,9 @@
    "lists": [
     "best-value"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B2",
-   "sourceUrls": "https://london.eater.com/maps/best-chinese-restaurants-london | https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
+   "sourceCount": "4",
+   "sourceTiers": "B4",
+   "sourceUrls": "https://london.eater.com/maps/best-chinese-restaurants-london | https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london | https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
   },
   {
    "slug": "dream-xian",
@@ -9931,9 +9884,9 @@
    "lists": [
     "best-value"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://thehoteljournal.com/best-chinese-restaurants-in-london/ | https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
   },
   {
    "slug": "canton-blue",
@@ -9972,9 +9925,9 @@
     "nicest-dining",
     "special-occasion"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.timeout.com/london/food-drink/londons-best-dim-sum-restaurants"
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://thehoteljournal.com/best-chinese-restaurants-in-london/ | https://www.timeout.com/london/food-drink/londons-best-dim-sum-restaurants"
   },
   {
    "slug": "dim-sum-library",
@@ -10010,9 +9963,9 @@
    "lists": [
     "dim-sum"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B2 C1",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-dim-sum-london | https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/ | https://londonist.com/london/food-and-drink/best-afternoon-tea-high-tea-london"
+   "sourceCount": "4",
+   "sourceTiers": "B3 C1",
+   "sourceUrls": "https://thehoteljournal.com/best-chinese-restaurants-in-london/ | https://www.theinfatuation.com/london/guides/best-dim-sum-london | https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
   },
   {
    "slug": "dumplings-legend",
@@ -10122,9 +10075,9 @@
    ],
    "whyGo": "A Chinatown Cantonese room that both Time Out and The Hotel Journal single out from a very crowded street.",
    "signals": "2 domains",
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.timeout.com/london/food-drink/londons-best-dim-sum-restaurants"
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://thehoteljournal.com/best-chinese-restaurants-in-london/ | https://www.timeout.com/london/food-drink/londons-best-dim-sum-restaurants"
   },
   {
    "slug": "chinese-tapas-house",
@@ -10182,6 +10135,8 @@
    "postcode": "W1F 6LU",
    "lat": 51.513486,
    "lng": -0.136438,
+   "station": "Piccadilly Circus",
+   "walkMin": 6,
    "price": "£",
    "booking": "walk-in",
    "website": "https://kungfunoodle.shop/",
@@ -10238,9 +10193,9 @@
     "special-occasion",
     "dim-sum"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B3",
-   "sourceUrls": "https://london.eater.com/maps/best-chinese-restaurants-london | https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876 | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
+   "sourceCount": "7",
+   "sourceTiers": "A1 B5 C1",
+   "sourceUrls": "https://guide.michelin.com/ie/en/best-of/best-dim-sum-in-london | https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326 | https://london.eater.com/maps/best-chinese-restaurants-london"
   },
   {
    "slug": "hakkasan",
@@ -10399,10 +10354,7 @@
    "signals": "1 consensus domain",
    "lists": [
     "nicest-dining"
-   ],
-   "sourceCount": "2",
-   "sourceTiers": "B2",
-   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876 | https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
+   ]
   },
   {
    "slug": "min-jiang",
@@ -10660,7 +10612,10 @@
    "lists": [
     "nicest-dining",
     "special-occasion"
-   ]
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://thehoteljournal.com/best-chinese-restaurants-in-london/ | https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
   },
   {
    "slug": "pearl-liang",
@@ -10782,9 +10737,9 @@
    "lists": [
     "best-value"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B2",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london | https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+   "sourceCount": "5",
+   "sourceTiers": "B4 C1",
+   "sourceUrls": "https://thehoteljournal.com/best-chinese-restaurants-in-london/ | https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london | https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
   },
   {
    "slug": "yi-ban",
@@ -10896,9 +10851,9 @@
    "lists": [
     "dim-sum"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-dim-sum-london | https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
   },
   {
    "slug": "kung-fu-burger",
@@ -10967,9 +10922,9 @@
     "business"
    ],
    "whyGo": "Cantonese and Sichuan cooking in a room styled on 1920s Shanghai, a minute from Victoria station - from Ellen Chew's Chew on This group.",
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://thehoteljournal.com/best-chinese-restaurants-in-london/ | https://www.theinfatuation.com/london/guides/best-dim-sum-london"
   },
   {
    "slug": "baoziinn",
@@ -11553,6 +11508,8 @@
    "postcode": "W1G 0BD",
    "lat": 51.515605,
    "lng": -0.144384,
+   "station": "Oxford Circus",
+   "walkMin": 2,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "https://markethalls.co.uk/booking/",
@@ -11590,6 +11547,8 @@
    "postcode": "E14 5HD",
    "lat": 51.505703,
    "lng": -0.020083,
+   "station": "Canary Wharf",
+   "walkMin": 1,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "https://markethalls.co.uk/booking/",
@@ -11628,6 +11587,8 @@
    "postcode": "W2 1DL",
    "lat": 51.51642,
    "lng": -0.175095,
+   "station": "Paddington",
+   "walkMin": 1,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "https://markethalls.co.uk/booking/",
@@ -11667,6 +11628,7 @@
    "lat": 51.593347,
    "lng": -0.259517,
    "station": "Colindale",
+   "walkMin": 11,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.bangbangoriental.com/",
@@ -11706,6 +11668,7 @@
    "lat": 51.583368,
    "lng": -0.023478,
    "station": "Walthamstow Central",
+   "walkMin": 4,
    "price": "£",
    "booking": "walk-in",
    "bookingUrl": "https://17foodhall.co.uk/book-a-table",
@@ -11744,6 +11707,7 @@
    "lat": 51.504969,
    "lng": -0.092971,
    "station": "London Bridge",
+   "walkMin": 5,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "https://flatironsquare.co.uk/book-a-table",
@@ -11782,6 +11746,7 @@
    "lat": 51.503164,
    "lng": -0.084271,
    "station": "London Bridge",
+   "walkMin": 7,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "https://www.vinegaryard.london/reservations",
@@ -11819,6 +11784,8 @@
    "postcode": "HA9 0JT",
    "lat": 51.560518,
    "lng": -0.280393,
+   "station": "Wembley Park",
+   "walkMin": 6,
    "price": "£",
    "booking": "walk-in",
    "bookingUrl": "https://www.boxpark.co.uk/venues/wembley/",
@@ -11856,6 +11823,7 @@
    "lat": 51.374851,
    "lng": -0.094532,
    "station": "East Croydon",
+   "walkMin": 2,
    "price": "£",
    "booking": "walk-in",
    "setting": "food-hall",
@@ -11890,6 +11858,8 @@
    "postcode": "NW1 8QP",
    "lat": 51.539747,
    "lng": -0.143013,
+   "station": "Camden Town",
+   "walkMin": 1,
    "price": "£",
    "booking": "walk-in",
    "bookingUrl": "https://www.boxpark.co.uk/camden/",
@@ -11927,6 +11897,7 @@
    "lat": 51.517183,
    "lng": -0.08201,
    "station": "Liverpool Street",
+   "walkMin": 1,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "https://www.boxhall.co.uk/",
@@ -12110,8 +12081,8 @@
    "lists": [
     "fish-and-chips"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "A1 B2 D2",
+   "sourceCount": "6",
+   "sourceTiers": "A1 B2 D3",
    "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london | https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.designmynight.com/london/seafood-restaurants-in-london"
   },
   {
@@ -12211,6 +12182,8 @@
    "postcode": "SW1X 9SG",
    "lat": 51.49694,
    "lng": -0.159478,
+   "station": "Sloane Square",
+   "walkMin": 7,
    "price": "££££",
    "booking": "weeks",
    "bookingUrl": "https://www.belmond.com/_nuxt/BookingFlowSidebarMainCta.Ck7Q-ULI.css",
@@ -12450,6 +12423,8 @@
    "postcode": "W1S 3BF",
    "lat": 51.511584,
    "lng": -0.140311,
+   "station": "Piccadilly Circus",
+   "walkMin": 7,
    "price": "££££",
    "booking": "months",
    "bookingUrl": "https://the-araki.co.uk/booking-policy",
@@ -12509,9 +12484,9 @@
     "nicest-dining",
     "special-occasion"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B2 C1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-japanese-restaurants | https://www.designmynight.com/london/blog/best-omakase-london | https://balancejournal.co/food-drink/best-japanese-restaurants-london"
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 C1",
+   "sourceUrls": "https://guide.michelin.com/gb/en/restaurants | https://www.timeout.com/london/restaurants/londons-best-japanese-restaurants | https://www.designmynight.com/london/blog/best-omakase-london"
   },
   {
    "slug": "dinings-sw3",
@@ -12671,9 +12646,9 @@
     "nicest-dining",
     "special-occasion"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-japanese-restaurants | https://balancejournal.co/food-drink/best-japanese-restaurants-london"
+   "sourceCount": "3",
+   "sourceTiers": "A1 B1 C1",
+   "sourceUrls": "https://guide.michelin.com/gb/en/restaurants | https://www.timeout.com/london/restaurants/londons-best-japanese-restaurants | https://balancejournal.co/food-drink/best-japanese-restaurants-london"
   },
   {
    "slug": "zuma-london",
@@ -13171,6 +13146,8 @@
    "postcode": "E1 7JH",
    "lat": 51.517996,
    "lng": -0.078402,
+   "station": "Aldgate",
+   "walkMin": 6,
    "price": "£",
    "booking": "walk-in",
    "website": "https://marugame.co.uk/",
@@ -15495,7 +15472,6 @@
    "walkMin": 5,
    "price": "££",
    "booking": "walk-in",
-   "website": "http://faceboo.com/khunpakinthai",
    "setting": "historic-building",
    "goodFor": [
     "groups",
@@ -15701,9 +15677,9 @@
     "nicest-dining",
     "special-occasion"
    ],
-   "sourceCount": "7",
-   "sourceTiers": "B5 C2",
-   "sourceUrls": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326 | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed | https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+   "sourceCount": "8",
+   "sourceTiers": "A1 B5 C2",
+   "sourceUrls": "https://guide.michelin.com/gb/en/restaurants | https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326 | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
   },
   {
    "slug": "kolae",
@@ -16668,6 +16644,8 @@
    "postcode": "W1H 7BA",
    "lat": 51.5148,
    "lng": -0.157187,
+   "station": "Marble Arch",
+   "walkMin": 2,
    "price": "££££",
    "booking": "months",
    "bookingUrl": "https://www.sevenrooms.com/reservations/",
@@ -19252,9 +19230,9 @@
     "solo"
    ],
    "whyGo": "A Maida Vale bistro doing short, seasonal French menus for a neighbourhood not overrun with them.",
-   "sourceCount": "1",
-   "sourceTiers": "A1",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
+   "sourceCount": "2",
+   "sourceTiers": "A1 C1",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london | https://thenudge.com/the-best-french-restaurants-in-london/"
   },
   {
    "slug": "la-poule-au-pot",
@@ -22002,10 +21980,7 @@
    "whyGo": "Taiwanese popcorn chicken fried to order in Chinatown - salt, pepper and fried basil, eaten standing up.",
    "lists": [
     "best-value"
-   ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown"
+   ]
   },
   {
    "slug": "mambow",
@@ -24752,6 +24727,8 @@
    "postcode": "SE5 8PX",
    "lat": 51.473597,
    "lng": -0.079952,
+   "station": "Peckham Rye",
+   "walkMin": 12,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.toadbakery.com/",
@@ -24787,6 +24764,8 @@
    "postcode": "E8 3PH",
    "lat": 51.540989,
    "lng": -0.057661,
+   "station": "London Fields",
+   "walkMin": 2,
    "price": "£",
    "booking": "walk-in",
    "website": "http://e5bakehouse.com/",
@@ -24822,6 +24801,8 @@
    "postcode": "SE19 2AN",
    "lat": 51.416189,
    "lng": -0.072981,
+   "station": "Crystal Palace",
+   "walkMin": 4,
    "price": "£",
    "booking": "walk-in",
    "website": "http://chatsworthbakehouse.com/",
@@ -24857,6 +24838,8 @@
    "postcode": "WC2H 9QJ",
    "lat": 51.513006,
    "lng": -0.126273,
+   "station": "Covent Garden",
+   "walkMin": 2,
    "price": "£",
    "booking": "walk-in",
    "website": "https://aromebakery.co.uk/",
@@ -24887,6 +24870,8 @@
    "postcode": "E17 9AA",
    "lat": 51.577666,
    "lng": -0.017043,
+   "station": "Walthamstow Central",
+   "walkMin": 11,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.subabakery.com/",
@@ -24916,6 +24901,8 @@
    "postcode": "SW11 1ED",
    "lat": 51.461175,
    "lng": -0.162846,
+   "station": "Clapham Junction",
+   "walkMin": 11,
    "price": "£",
    "booking": "walk-in",
    "website": "https://www.august-bakery.com/",
@@ -24950,6 +24937,8 @@
    "postcode": "N1 8PF",
    "lat": 51.536683,
    "lng": -0.096605,
+   "station": "Angel",
+   "walkMin": 13,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.pophamsbakery.com/",
@@ -24985,6 +24974,8 @@
    "postcode": "E8 3DP",
    "lat": 51.547129,
    "lng": -0.074982,
+   "station": "Dalston Junction",
+   "walkMin": 2,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.thedustyknuckle.com/",
@@ -25019,6 +25010,8 @@
    "postcode": "W10 5SA",
    "lat": 51.521336,
    "lng": -0.210517,
+   "station": "Ladbroke Grove",
+   "walkMin": 6,
    "price": "£",
    "booking": "walk-in",
    "website": "https://www.laylabakery.com/",
@@ -25050,6 +25043,8 @@
    "postcode": "WC1N 1JD",
    "lat": 51.522795,
    "lng": -0.124329,
+   "station": "Russell Square",
+   "walkMin": 2,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.fortitudebakehouse.com/",
@@ -25083,6 +25078,8 @@
    "postcode": "E2 7RH",
    "lat": 51.529759,
    "lng": -0.069688,
+   "station": "Bethnal Green",
+   "walkMin": 16,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.lilyvanilli.com/",
@@ -25118,6 +25115,8 @@
    "postcode": "E8 3ED",
    "lat": 51.545422,
    "lng": -0.065246,
+   "station": "Hackney Downs",
+   "walkMin": 8,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.violetcakes.com/",
@@ -25151,6 +25150,8 @@
    "postcode": "SW1X 7RL",
    "lat": 51.501924,
    "lng": -0.156136,
+   "station": "Knightsbridge",
+   "walkMin": 5,
    "price": "£",
    "booking": "walk-in",
    "bookingUrl": "https://www.maybourne.com/en/hotels/the-berkeley/booking",
@@ -25187,6 +25188,8 @@
    "postcode": "SE1 2HQ",
    "lat": 51.499348,
    "lng": -0.072573,
+   "station": "Bermondsey",
+   "walkMin": 9,
    "price": "£",
    "booking": "walk-in",
    "website": "https://stjohnrestaurant.com/pages/bakery",
@@ -25223,6 +25226,8 @@
    "postcode": "W1D 7AU",
    "lat": 51.511541,
    "lng": -0.133669,
+   "station": "Piccadilly Circus",
+   "walkMin": 2,
    "price": "£",
    "booking": "walk-in",
    "website": "http://gelupo.com/",
@@ -25258,6 +25263,8 @@
    "postcode": "SW7 3EX",
    "lat": 51.49372,
    "lng": -0.176146,
+   "station": "South Kensington",
+   "walkMin": 3,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.oddonos.com/",
@@ -25292,6 +25299,8 @@
    "postcode": "WC2H 9QP",
    "lat": 51.512765,
    "lng": -0.125822,
+   "station": "Covent Garden",
+   "walkMin": 2,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.badiani1932.com/",
@@ -25325,6 +25334,8 @@
    "postcode": "SW4 0JE",
    "lat": 51.463028,
    "lng": -0.140586,
+   "station": "Clapham Common",
+   "walkMin": 3,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.nardulli.co.uk/",
@@ -25359,6 +25370,8 @@
    "postcode": "WC2H 9LX",
    "lat": 51.514079,
    "lng": -0.125883,
+   "station": "Covent Garden",
+   "walkMin": 2,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.chinchinicecream.com/",
@@ -25392,6 +25405,8 @@
    "postcode": "NW1 8NY",
    "lat": 51.5433,
    "lng": -0.141974,
+   "station": "Camden Road",
+   "walkMin": 3,
    "price": "£",
    "booking": "walk-in",
    "goodFor": [
@@ -25426,6 +25441,8 @@
    "postcode": "W1K 2AL",
    "lat": 51.510157,
    "lng": -0.149607,
+   "station": "Bond Street",
+   "walkMin": 8,
    "price": "££££",
    "booking": "weeks",
    "bookingUrl": "https://www.maybourne.com/en/hotels/the-connaught/booking",
@@ -25467,6 +25484,8 @@
    "postcode": "EC1V 9BW",
    "lat": 51.525032,
    "lng": -0.091296,
+   "station": "Old Street",
+   "walkMin": 4,
    "price": "££££",
    "booking": "weeks",
    "website": "https://tayer-elementary.com/",
@@ -25503,6 +25522,8 @@
    "postcode": "E2 9RA",
    "lat": 51.530061,
    "lng": -0.056396,
+   "station": "Bethnal Green",
+   "walkMin": 5,
    "price": "£££",
    "booking": "walk-in",
    "bookingUrl": "http://www.satanswhiskers.com/reservations-policy-walk-in-guests",
@@ -25540,6 +25561,8 @@
    "postcode": "E2 8AX",
    "lat": 51.535647,
    "lng": -0.076677,
+   "station": "Hoxton",
+   "walkMin": 6,
    "price": "£££",
    "booking": "walk-in",
    "website": "https://www.clubbauhaus.com/",
@@ -25576,6 +25599,8 @@
    "postcode": "E8 4AB",
    "lat": 51.544096,
    "lng": -0.076451,
+   "station": "Dalston Junction",
+   "walkMin": 4,
    "price": "£££",
    "booking": "walk-in",
    "bookingUrl": "http://www.threesheets-bar.com/booking",
@@ -25612,6 +25637,8 @@
    "postcode": "W1J 8LN",
    "lat": 51.507198,
    "lng": -0.143328,
+   "station": "Green Park",
+   "walkMin": 1,
    "price": "££££",
    "booking": "weeks",
    "website": "http://5coursedrinktastingmenu.square.site/",
@@ -25649,6 +25676,8 @@
    "postcode": "WC1V 7EN",
    "lat": 51.51733,
    "lng": -0.117764,
+   "station": "Holborn",
+   "walkMin": 4,
    "price": "££££",
    "booking": "weeks",
    "bookingUrl": "https://www.sevenrooms.com/explore/rwldnscarfesbar/reservations/create/search",
@@ -25688,6 +25717,8 @@
    "postcode": "EC1V 1JB",
    "lat": 51.526529,
    "lng": -0.087687,
+   "station": "Old Street",
+   "walkMin": 1,
    "price": "£££",
    "booking": "weeks",
    "bookingUrl": "https://www.sevenrooms.com/explore/nightjarshoreditch/reservations/create/search/?venues=nightjarshoreditch%2Coriolebar",
@@ -25727,6 +25758,8 @@
    "postcode": "WC2R 0EZ",
    "lat": 51.510342,
    "lng": -0.121079,
+   "station": "Embankment",
+   "walkMin": 6,
    "price": "££££",
    "booking": "weeks",
    "bookingUrl": "https://www.sevenrooms.com/reservations/americanbarlondon/website",
@@ -25767,6 +25800,8 @@
    "postcode": "W1B 1JA",
    "lat": 51.517729,
    "lng": -0.143923,
+   "station": "Oxford Circus",
+   "walkMin": 3,
    "price": "££££",
    "booking": "weeks",
    "bookingUrl": "https://www.sevenrooms.com/reservations/artesianbar",
@@ -25805,6 +25840,8 @@
    "postcode": "SE1 9PD",
    "lat": 51.508115,
    "lng": -0.107264,
+   "station": "Southwark",
+   "walkMin": 7,
    "price": "££££",
    "booking": "weeks",
    "bookingUrl": "https://www.sevenrooms.com/reservations/lyaness?venues=lyaness",
@@ -25842,6 +25879,8 @@
    "postcode": "W1D 5JE",
    "lat": 51.513672,
    "lng": -0.12969,
+   "station": "Leicester Square",
+   "walkMin": 3,
    "price": "£££",
    "booking": "days",
    "bookingUrl": "http://www.bar-termini.com/bookings",
@@ -25879,6 +25918,8 @@
    "postcode": "E1 6JQ",
    "lat": 51.525721,
    "lng": -0.077327,
+   "station": "Shoreditch High Street",
+   "walkMin": 4,
    "price": "£££",
    "booking": "days",
    "bookingUrl": "https://www.sevenrooms.com/reservations/seedlibrary",
@@ -25916,6 +25957,8 @@
    "postcode": "SW1A 1NY",
    "lat": 51.505539,
    "lng": -0.139664,
+   "station": "Green Park",
+   "walkMin": 6,
    "price": "££££",
    "booking": "weeks",
    "website": "https://www.dukeshotel.com/dukesbar.html",
@@ -25955,6 +25998,8 @@
    "postcode": "W1D 4TQ",
    "lat": 51.513777,
    "lng": -0.130061,
+   "station": "Leicester Square",
+   "walkMin": 3,
    "price": "£££",
    "booking": "days",
    "bookingUrl": "https://www.sevenrooms.com/explore/barswiftsoho/reservations/create/search/?venues=barswiftsoho%2Cbarswiftborough%2Cbarswiftshoreditch",
@@ -25990,6 +26035,8 @@
    "postcode": "E2 0AN",
    "lat": 51.527163,
    "lng": -0.059504,
+   "station": "Bethnal Green",
+   "walkMin": 4,
    "price": "£££",
    "booking": "days",
    "bookingUrl": "https://www.opentable.co.uk/r/coupette-london-3",
@@ -26024,6 +26071,8 @@
    "postcode": "N1 6NU",
    "lat": 51.527781,
    "lng": -0.081795,
+   "station": "Old Street",
+   "walkMin": 8,
    "price": "£££",
    "booking": "days",
    "bookingUrl": "https://dishcult.com/restaurant/happinessforgets?covers=2&availability=0&bookingDate=2024-09-16&bookingTime=16%3A45",
@@ -26059,6 +26108,8 @@
    "postcode": "WC2E 9AB",
    "lat": 51.512648,
    "lng": -0.126374,
+   "station": "Covent Garden",
+   "walkMin": 3,
    "price": "££££",
    "booking": "weeks",
    "bookingUrl": "https://www.sevenrooms.com/explore/oriolebar/reservations/create/search/?venues=oriolebar%2Cnightjarshoreditch",
@@ -26098,6 +26149,8 @@
    "postcode": "W1B 5PY",
    "lat": 51.512938,
    "lng": -0.139521,
+   "station": "Oxford Circus",
+   "walkMin": 7,
    "price": "£££",
    "booking": "weeks",
    "bookingUrl": "https://www.crispinlondon.com/bar-crispin",
@@ -26134,6 +26187,8 @@
    "postcode": "E2 8JL",
    "lat": 51.530595,
    "lng": -0.073531,
+   "station": "Hoxton",
+   "walkMin": 4,
    "price": "£££",
    "booking": "days",
    "bookingUrl": "https://www.sagerandwilde.com/reservations-1",
@@ -26170,6 +26225,8 @@
    "postcode": "SE17 1BG",
    "lat": 51.491512,
    "lng": -0.091055,
+   "station": "Elephant & Castle",
+   "walkMin": 13,
    "price": "£££",
    "booking": "days",
    "bookingUrl": "https://bookings.designmynight.com/book?venue_id=5cab49a27864b545187baba3&source=partner",
@@ -26206,6 +26263,8 @@
    "postcode": "N7 9LW",
    "lat": 51.5485,
    "lng": -0.127944,
+   "station": "Caledonian Road",
+   "walkMin": 10,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "http://www.halfcut.world/",
@@ -26291,6 +26350,8 @@
    "postcode": "E1 1PY",
    "lat": 51.514182,
    "lng": -0.063083,
+   "station": "Shadwell",
+   "walkMin": 8,
    "price": "££",
    "booking": "walk-in",
    "website": "http://www.lahore-kebabhouse.com/",
@@ -26327,6 +26388,8 @@
    "postcode": "SW17 7TS",
    "lat": 51.435235,
    "lng": -0.160217,
+   "station": "Tooting Bec",
+   "walkMin": 1,
    "price": "££",
    "booking": "walk-in",
    "website": "https://namakmandi.co.uk/",
@@ -26358,6 +26421,8 @@
    "postcode": "E6 1AE",
    "lat": 51.537003,
    "lng": 0.036345,
+   "station": "Upton Park",
+   "walkMin": 3,
    "price": "£",
    "booking": "walk-in",
    "website": "https://lahorinihaarilondon.shop/",
@@ -26393,6 +26458,8 @@
    "postcode": "SW17 7TJ",
    "lat": 51.432025,
    "lng": -0.163684,
+   "station": "Tooting Bec",
+   "walkMin": 8,
    "price": "££",
    "booking": "walk-in",
    "noise": "loud",
@@ -26430,6 +26497,8 @@
    "postcode": "SW1X 8ER",
    "lat": 51.501874,
    "lng": -0.156974,
+   "station": "Knightsbridge",
+   "walkMin": 5,
    "price": "£££",
    "booking": "days",
    "website": "https://salloos.co.uk/#utm_source=GMBlisting&utm_medium=Organic&utm_campaign=Website",
@@ -26463,6 +26532,8 @@
    "postcode": "E1 6SB",
    "lat": 51.524118,
    "lng": -0.0717,
+   "station": "Shoreditch High Street",
+   "walkMin": 5,
    "price": "£",
    "booking": "walk-in",
    "website": "https://www.beigelbake.co.uk/",
@@ -26505,6 +26576,8 @@
    "postcode": "EC2M 4NQ",
    "lat": 51.517456,
    "lng": -0.080053,
+   "station": "Liverpool Street",
+   "walkMin": 4,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "https://polobar.co.uk/",
@@ -26544,6 +26617,8 @@
    "postcode": "E8 2PB",
    "lat": 51.549468,
    "lng": -0.075546,
+   "station": "Dalston Kingsland",
+   "walkMin": 2,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.voodoorays.com/",
@@ -26586,6 +26661,8 @@
    "postcode": "E1 6QR",
    "lat": 51.520229,
    "lng": -0.073104,
+   "station": "Aldgate East",
+   "walkMin": 9,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.bricklanemarket.com/",
@@ -26627,6 +26704,8 @@
    "postcode": "NW3 6SG",
    "lat": 51.557561,
    "lng": -0.179175,
+   "station": "Hampstead",
+   "walkMin": 2,
    "price": "££",
    "booking": "days",
    "bookingUrl": "https://www.hollybushhampstead.co.uk/?y_source=1_MTIyMzcxOTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
@@ -26665,6 +26744,8 @@
    "postcode": "NW3 1BX",
    "lat": 51.55891,
    "lng": -0.173365,
+   "station": "Hampstead",
+   "walkMin": 6,
    "price": "£££",
    "booking": "days",
    "bookingUrl": "https://booking.resdiary.com/widget/ThreeMonth/TheWells_1/1290",
@@ -26699,6 +26780,8 @@
    "postcode": "NW3 1QU",
    "lat": 51.555549,
    "lng": -0.178173,
+   "station": "Hampstead",
+   "walkMin": 2,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.gingerandwhite.com/",
@@ -26736,6 +26819,8 @@
    "postcode": "NW2 2JP",
    "lat": 51.561422,
    "lng": -0.197387,
+   "station": "Golders Green",
+   "walkMin": 21,
    "price": "££",
    "booking": "days",
    "bookingUrl": "http://www.bonoo.co.uk/reservation/",
@@ -26770,6 +26855,8 @@
    "postcode": "N6 4LL",
    "lat": 51.572952,
    "lng": -0.164446,
+   "station": "Highgate",
+   "walkMin": 23,
    "price": "££",
    "booking": "walk-in",
    "setting": "historic-building",
@@ -26802,6 +26889,8 @@
    "postcode": "NW5 1QR",
    "lat": 51.559304,
    "lng": -0.149747,
+   "station": "Tufnell Park",
+   "walkMin": 13,
    "price": "£",
    "booking": "walk-in",
    "bookingUrl": "https://booking.resdiary.com/widget/Standard/ScarlettGreen/6716",
@@ -26839,6 +26928,8 @@
    "postcode": "TW10 7AA",
    "lat": 51.446534,
    "lng": -0.300566,
+   "station": "Richmond",
+   "walkMin": 31,
    "price": "££££",
    "booking": "weeks",
    "bookingUrl": "https://www.thedysartpetersham.co.uk/book-a-table/",
@@ -26877,6 +26968,8 @@
    "postcode": "TW9 1RW",
    "lat": 51.459504,
    "lng": -0.304489,
+   "station": "Richmond",
+   "walkMin": 8,
    "price": "£££",
    "deals": [
     "set-menu"
@@ -26918,6 +27011,8 @@
    "postcode": "TW9 1NR",
    "lat": 51.459132,
    "lng": -0.308606,
+   "station": "Richmond",
+   "walkMin": 11,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "https://www.youngs.co.uk/book-youngs-rooms?_gl=1*1skw6g4*_gcl_au*NzgyMjMzMDcwLjE3ODY5Njg2OTc.*_ga*MTU5MjI5MDM4MC4xNzg2OTY4Njk3*_ga_DL74BLG88L*czE3ODY5Njg2OTYkbzEkZzAkdDE3ODY5Njg2OTYkajYwJGwwJGg1NjUyNTQ5Mzk.",
@@ -26989,6 +27084,8 @@
    "postcode": "TW10 6RN",
    "lat": 51.452239,
    "lng": -0.298353,
+   "station": "Richmond",
+   "walkMin": 21,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "https://www.greeneking.co.uk/pubs/surrey/roebuck/book",
@@ -27023,6 +27120,8 @@
    "postcode": "TW9 1TW",
    "lat": 51.45862,
    "lng": -0.305515,
+   "station": "Richmond",
+   "walkMin": 10,
    "price": "££",
    "booking": "same-day",
    "bookingUrl": "http://antipodea.co.uk/richmond/",
@@ -27060,6 +27159,8 @@
    "postcode": "E9 5EN",
    "lat": 51.542958,
    "lng": -0.023109,
+   "station": "Hackney Wick",
+   "walkMin": 3,
    "price": "£££",
    "booking": "weeks",
    "bookingUrl": "https://reservations.bargeeast.com/",
@@ -27099,6 +27200,8 @@
    "postcode": "E9 5EN",
    "lat": 51.542958,
    "lng": -0.023109,
+   "station": "Hackney Wick",
+   "walkMin": 3,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "http://www.cratebrewery.com/pages/bookings",
@@ -27134,6 +27237,8 @@
    "postcode": "E20 1JN",
    "lat": 51.542021,
    "lng": -0.00919,
+   "station": "Stratford International",
+   "walkMin": 6,
    "price": "£££",
    "booking": "days",
    "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?rid=80215&restref=80215&lang=en-GB&color=8&r3uid=cfe&dark=false&ot_source=Restaurant%20website&logo_pid=77125652&background_pid=0&font=arialBlack&ot_logo=subtle&primary_color=edecff&primary_font_color=333333&button_color=beb29d&button_font_col",
@@ -27169,6 +27274,8 @@
    "postcode": "E20 1FS",
    "lat": 51.547133,
    "lng": -0.011563,
+   "station": "Stratford International",
+   "walkMin": 3,
    "price": "££",
    "booking": "same-day",
    "website": "http://www.santirestaurant.com/",
@@ -27202,6 +27309,8 @@
    "postcode": "E20 1FS",
    "lat": 51.547133,
    "lng": -0.011563,
+   "station": "Stratford International",
+   "walkMin": 3,
    "price": "£££",
    "booking": "days",
    "website": "https://www.bamboo-mat.co.uk/",
@@ -27235,6 +27344,8 @@
    "postcode": "W9 2PX",
    "lat": 51.522102,
    "lng": -0.183733,
+   "station": "Warwick Avenue",
+   "walkMin": 2,
    "price": "££",
    "booking": "weeks",
    "website": "http://www.katehrestaurant.co.uk/",
@@ -27272,6 +27383,8 @@
    "postcode": "W9 2JU",
    "lat": 51.52274,
    "lng": -0.187758,
+   "station": "Warwick Avenue",
+   "walkMin": 4,
    "price": "£££",
    "booking": "days",
    "bookingUrl": "https://www.sevenrooms.com/reservations/thewaterway?venues=thewaterway,thehayden",
@@ -27307,6 +27420,8 @@
    "postcode": "W9 2PA",
    "lat": 51.522458,
    "lng": -0.186414,
+   "station": "Warwick Avenue",
+   "walkMin": 3,
    "price": "£££",
    "booking": "days",
    "bookingUrl": "https://www.sevenrooms.com/explore/thesummerhouse/reservations/create/search",
@@ -27342,6 +27457,8 @@
    "postcode": "W2 6EZ",
    "lat": 51.519135,
    "lng": -0.179728,
+   "station": "Paddington (H&C Line)-Underground",
+   "walkMin": 2,
    "price": "££",
    "booking": "same-day",
    "bookingUrl": "https://booking.resdiary.com/widget/Standard/ScarlettGreen/6716",
@@ -27381,6 +27498,8 @@
    "postcode": "E1W 2PN",
    "lat": 51.503365,
    "lng": -0.062058,
+   "station": "Bermondsey",
+   "walkMin": 10,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "https://reservation.carbonaraapp.com/United-Kingdom/London/Town-of-Ramsgate/",
@@ -27418,6 +27537,8 @@
    "postcode": "E1W 2NE",
    "lat": 51.503027,
    "lng": -0.060098,
+   "station": "Wapping",
+   "walkMin": 5,
    "price": "££",
    "booking": "walk-in",
    "setting": "riverside",
@@ -27454,6 +27575,8 @@
    "postcode": "E1W 2QG",
    "lat": 51.505362,
    "lng": -0.059365,
+   "station": "Wapping",
+   "walkMin": 4,
    "price": "£",
    "booking": "walk-in",
    "website": "https://www.turnersoldstar.co.uk/",
@@ -27484,6 +27607,8 @@
    "postcode": "SE11 4RN",
    "lat": 51.490971,
    "lng": -0.103696,
+   "station": "Kennington",
+   "walkMin": 4,
    "price": "££",
    "booking": "days",
    "website": "https://toulouselautrec.co.uk/",
@@ -27515,6 +27640,8 @@
    "postcode": "SW13 9PY",
    "lat": 51.47445,
    "lng": -0.25057,
+   "station": "Barnes Bridge",
+   "walkMin": 5,
    "price": "££",
    "booking": "days",
    "bookingUrl": "https://www.youngs.co.uk/book-youngs-rooms?cardContentId=&cardContentName=&latitude=51.4744494&longitude=-0.2505929&postcode=SW13+9PY",
@@ -27553,6 +27680,8 @@
    "postcode": "SE15 4AR",
    "lat": 51.467541,
    "lng": -0.070948,
+   "station": "Peckham Rye",
+   "walkMin": 6,
    "price": "££",
    "booking": "same-day",
    "bookingUrl": "https://themontpelier.net/bookings/",
@@ -27588,6 +27717,8 @@
    "postcode": "SE16 7LL",
    "lat": 51.495399,
    "lng": -0.046937,
+   "station": "Canada Water",
+   "walkMin": 7,
    "price": "££",
    "booking": "walk-in",
    "website": "http://www.cornercorner.com/",
@@ -27655,6 +27786,8 @@
    "postcode": "SE1 7TP",
    "lat": 51.487956,
    "lng": -0.123714,
+   "station": "Vauxhall",
+   "walkMin": 3,
    "price": "££",
    "booking": "walk-in",
    "website": "http://www.metropolisfoodhall.com/",
@@ -27688,6 +27821,8 @@
    "postcode": "SW1X 7XL",
    "lat": 51.499445,
    "lng": -0.16321,
+   "station": "Knightsbridge",
+   "walkMin": 6,
    "price": "£££",
    "booking": "days",
    "website": "https://www.harrods.com/c/restaurants/dining-hall?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing-harrods-the-deli-food-hall",
@@ -27721,6 +27856,8 @@
    "postcode": "SE10 0AX",
    "lat": 51.500084,
    "lng": 0.005767,
+   "station": "North Greenwich",
+   "walkMin": 1,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "https://bookings.designmynight.com/book?venue_id=61b1d17c4f45e30f6108d6b9&source=partner",
@@ -27757,6 +27894,8 @@
    "postcode": "N1C 4DP",
    "lat": 51.534209,
    "lng": -0.125604,
+   "station": "London St Pancras International",
+   "walkMin": 3,
    "price": "££",
    "booking": "walk-in",
    "website": "https://www.goodsway.co.uk/",
@@ -27791,6 +27930,8 @@
    "postcode": "E14 5AR",
    "lat": 51.506133,
    "lng": -0.017816,
+   "station": "Poplar",
+   "walkMin": 3,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "https://www.pergolacanarywharf.co.uk/",
@@ -27829,6 +27970,8 @@
    "postcode": "SW8 1SP",
    "lat": 51.485616,
    "lng": -0.12358,
+   "station": "Vauxhall",
+   "walkMin": 2,
    "price": "£",
    "booking": "walk-in",
    "bookingUrl": "http://www.marketplacelondon.com/booking",
@@ -27864,6 +28007,8 @@
    "postcode": "E15 2SJ",
    "lat": 51.544647,
    "lng": -0.021406,
+   "station": "Hackney Wick",
+   "walkMin": 5,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "https://bookings.designmynight.com/book?venue_id=61f3bb794f45e36e6d185ec3&#038;source=partner",
@@ -27902,6 +28047,8 @@
    "postcode": "W2 6DS",
    "lat": 51.519465,
    "lng": -0.179542,
+   "station": "Paddington (H&C Line)-Underground",
+   "walkMin": 2,
    "price": "££",
    "booking": "days",
    "bookingUrl": "http://www.thecheesebar.com/",
@@ -28268,6 +28415,8 @@
    "postcode": "SW3 4HP",
    "lat": 51.485576,
    "lng": -0.161923,
+   "station": "Sloane Square",
+   "walkMin": 14,
    "price": "££££",
    "booking": "months",
    "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?rid=80215&restref=80215&lang=en-GB&color=8&r3uid=cfe&dark=false&ot_source=Restaurant%20website&logo_pid=77125652&background_pid=0&font=arialBlack&ot_logo=subtle&primary_color=edecff&primary_font_color=333333&button_color=beb29d&button_font_col",
@@ -28308,6 +28457,8 @@
    "postcode": "W1K 2AL",
    "lat": 51.510157,
    "lng": -0.149607,
+   "station": "Bond Street",
+   "walkMin": 8,
    "price": "££££",
    "booking": "months",
    "bookingUrl": "https://www.maybourne.com/en/hotels/the-connaught/booking",
@@ -28351,6 +28502,8 @@
    "postcode": "W1K 1QA",
    "lat": 51.507405,
    "lng": -0.152471,
+   "station": "Hyde Park Corner",
+   "walkMin": 7,
    "price": "££££",
    "booking": "months",
    "website": "https://www.dorchestercollection.com/london/the-dorchester/dining/alain-ducasse-at-the-dorchester?utm_source=google&utm_medium=tdl_local_profile&utm_campaign=alain_ducasse&utm_content=london_dining",
@@ -28390,6 +28543,8 @@
    "postcode": "SW1X 7LA",
    "lat": 51.502397,
    "lng": -0.159935,
+   "station": "Knightsbridge",
+   "walkMin": 2,
    "price": "££££",
    "booking": "months",
    "bookingUrl": "https://www.sevenrooms.com/reservations/dinnerbyhestonmolon?venues=dinnerbyhestonmolon,theroseberymolon,theaubreymolon,hydeparkgarden",
@@ -28433,6 +28588,8 @@
    "postcode": "W10 5SY",
    "lat": 51.520808,
    "lng": -0.209514,
+   "station": "Ladbroke Grove",
+   "walkMin": 5,
    "price": "££",
    "booking": "days",
    "bookingUrl": "https://www.bertieblossoms.co.uk/booking/",
@@ -28463,6 +28620,8 @@
    "postcode": "E14 8BP",
    "lat": 51.508547,
    "lng": -0.032987,
+   "station": "Westferry",
+   "walkMin": 6,
    "price": "££",
    "booking": "days",
    "website": "http://thegrapes.co.uk/",
@@ -28502,6 +28661,8 @@
    "postcode": "W1T 6BB",
    "lat": 51.522085,
    "lng": -0.139609,
+   "station": "Warren Street",
+   "walkMin": 5,
    "price": "£££",
    "booking": "days",
    "bookingUrl": "https://loreoftheland.com/reservations/",
@@ -28536,6 +28697,8 @@
    "postcode": "SW10 9UJ",
    "lat": 51.48207,
    "lng": -0.188017,
+   "station": "Fulham Broadway",
+   "walkMin": 9,
    "price": "££",
    "booking": "days",
    "bookingUrl": "http://www.thefoxandpheasant.com/reservations",
@@ -28573,6 +28736,8 @@
    "postcode": "N1C 4BX",
    "lat": 51.53669,
    "lng": -0.127232,
+   "station": "King's Cross St. Pancras",
+   "walkMin": 11,
    "price": "£££",
    "booking": "days",
    "bookingUrl": "https://www.sevenrooms.com/explore/portenoirekingscross/reservations/create/search/",
@@ -28611,6 +28776,8 @@
    "postcode": "E14 8DS",
    "lat": 51.511594,
    "lng": -0.041488,
+   "station": "Limehouse",
+   "walkMin": 3,
    "price": "£",
    "booking": "walk-in",
    "website": "https://www.rfsk.org.uk/yurt-cafe",
@@ -28653,6 +28820,8 @@
    "postcode": "NW1 7SS",
    "lat": 51.537298,
    "lng": -0.151375,
+   "station": "Camden Town",
+   "walkMin": 10,
    "price": "£££",
    "booking": "days",
    "bookingUrl": "https://www.fengshang.co.uk/reservations/",
@@ -28695,6 +28864,8 @@
    "postcode": "EC3V 0DR",
    "lat": 51.512792,
    "lng": -0.084659,
+   "station": "Monument",
+   "walkMin": 3,
    "price": "£",
    "booking": "walk-in",
    "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/london/the-crosse-keys-city-of-london",
@@ -28735,6 +28906,8 @@
    "postcode": "EC2M 7PY",
    "lat": 51.518073,
    "lng": -0.082002,
+   "station": "Liverpool Street",
+   "walkMin": 1,
    "price": "£",
    "booking": "walk-in",
    "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/london/hamilton-hall-city-of-london",
@@ -28775,6 +28948,8 @@
    "postcode": "E14 4AL",
    "lat": 51.507613,
    "lng": -0.024539,
+   "station": "West India Quay",
+   "walkMin": 4,
    "price": "£",
    "booking": "walk-in",
    "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/london/the-ledger-building-docklands?utm_source=google&utm_medium=maps&utm_campaign=gmb",
@@ -28816,6 +28991,8 @@
    "postcode": "WC2H 0DT",
    "lat": 51.514196,
    "lng": -0.129856,
+   "station": "Tottenham Court Road",
+   "walkMin": 5,
    "price": "£",
    "booking": "walk-in",
    "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/london/the-montagu-pyke-west-end",
@@ -28897,6 +29074,8 @@
    "postcode": "SE1 8UX",
    "lat": 51.500722,
    "lng": -0.107773,
+   "station": "Lambeth North",
+   "walkMin": 6,
    "price": "££",
    "booking": "walk-in",
    "goodFor": [
@@ -28912,9 +29091,9 @@
     "fish-and-chips",
     "best-value"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.cozymeal.com/magazine/fish-and-chips-london"
+   "sourceCount": "4",
+   "sourceTiers": "B1 C2 D1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.cozymeal.com/magazine/fish-and-chips-london | https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/"
   },
   {
    "slug": "nautilus-fish",
@@ -28935,6 +29114,8 @@
    "postcode": "NW6 1DU",
    "lat": 51.554,
    "lng": -0.196613,
+   "station": "West Hampstead",
+   "walkMin": 14,
    "price": "££",
    "booking": "walk-in",
    "goodFor": [
@@ -28948,9 +29129,9 @@
    "lists": [
     "fish-and-chips"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.cozymeal.com/magazine/fish-and-chips-london"
+   "sourceCount": "3",
+   "sourceTiers": "B1 C1 D1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.cozymeal.com/magazine/fish-and-chips-london | https://www.youtube.com/@RestroSpot"
   },
   {
    "slug": "faulkners",
@@ -28970,6 +29151,8 @@
    "postcode": "E8 4AA",
    "lat": 51.541525,
    "lng": -0.075939,
+   "station": "Haggerston",
+   "walkMin": 4,
    "price": "££",
    "booking": "walk-in",
    "website": "http://www.faulknersfishandchips.co.uk/",
@@ -29004,6 +29187,8 @@
    "postcode": "E11 1EG",
    "lat": 51.56926,
    "lng": -0.003397,
+   "station": "Leyton Midland Road",
+   "walkMin": 6,
    "price": "£",
    "booking": "walk-in",
    "setting": "counter",
@@ -29041,6 +29226,8 @@
    "postcode": "N16 8AT",
    "lat": 51.551767,
    "lng": -0.077556,
+   "station": "Dalston Kingsland",
+   "walkMin": 5,
    "price": "£",
    "booking": "walk-in",
    "setting": "counter",
@@ -29055,9 +29242,9 @@
     "cheap-eats",
     "best-value"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants"
+   "sourceCount": "4",
+   "sourceTiers": "B1 C3",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.allinlondon.co.uk/directory/fish-chip-shops/23160-mickys-fish-bar | https://www.cozymeal.com/magazine/fish-and-chips-london"
   },
   {
    "slug": "the-golden-chippy",
@@ -29078,6 +29265,8 @@
    "postcode": "SE10 8LF",
    "lat": 51.475279,
    "lng": -0.019486,
+   "station": "Deptford Bridge",
+   "walkMin": 4,
    "price": "££",
    "booking": "walk-in",
    "website": "https://www.thegoldenchippy.co.uk/",
@@ -29094,9 +29283,9 @@
    "lists": [
     "fish-and-chips"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "C2 D1",
-   "sourceUrls": "https://britishfoodcrew.com/best-fish-chips-in-london-the-definitive-2026-guide/ | https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/ | https://www.youtube.com/@strictlydumpling"
+   "sourceCount": "4",
+   "sourceTiers": "C2 D2",
+   "sourceUrls": "https://britishfoodcrew.com/best-fish-chips-in-london-the-definitive-2026-guide/ | https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/ | https://www.youtube.com/@InsiderFood"
   },
   {
    "slug": "plates-london",
@@ -29119,6 +29308,8 @@
    "postcode": "EC1V 9DR",
    "lat": 51.5266,
    "lng": -0.081586,
+   "station": "Old Street",
+   "walkMin": 8,
    "price": "££££",
    "booking": "months",
    "bookingUrl": "https://plates-london.com/",
@@ -29164,6 +29355,8 @@
    "postcode": "W1D 5AF",
    "lat": 51.51281,
    "lng": -0.131484,
+   "station": "Leicester Square",
+   "walkMin": 3,
    "price": "££££",
    "booking": "weeks",
    "bookingUrl": "https://www.gauthiersoho.co.uk/bookings.php",
@@ -29208,6 +29401,8 @@
    "postcode": "W1F 9AN",
    "lat": 51.513015,
    "lng": -0.136448,
+   "station": "Piccadilly Circus",
+   "walkMin": 6,
    "price": "££",
    "bookingUrl": "https://www.sevenrooms.com/explore/mildredslondon/reservations/create/search/?venues=mildredscamden%2Cmildredscoventgarden%2Cmildredskingscross%2Cmildredssoho%2Cmildredsvictoria&_gl=1*vh09i*_gcl_au*NzgxMDg5OTc1LjE3NzcyOTE4NjU.*_ga*NjU0NDg2MjgxLjE3NjE3Mzk0MjY.*_ga_KW6PGBXSDY*czE3Nzc5MTAxMTgkbzMxOCRnM",
    "website": "https://www.mildreds.com/",
@@ -29248,6 +29443,8 @@
    "postcode": "W6 9QL",
    "lat": 51.49024,
    "lng": -0.225391,
+   "station": "Hammersmith (Dist&Picc Line)",
+   "walkMin": 4,
    "price": "£££",
    "bookingUrl": "http://thegaterestaurants.com/",
    "website": "https://www.thegaterestaurants.com/",
@@ -29288,6 +29485,8 @@
    "postcode": "N1 1QN",
    "lat": 51.537989,
    "lng": -0.102867,
+   "station": "Angel",
+   "walkMin": 9,
    "price": "££",
    "booking": "weeks",
    "website": "https://tofuvegan.com/reservation",
@@ -29328,6 +29527,8 @@
    "postcode": "NW1 2HL",
    "lat": 51.527074,
    "lng": -0.136623,
+   "station": "Euston Square",
+   "walkMin": 3,
    "price": "£",
    "booking": "walk-in",
    "bookingUrl": "https://www.diwanalondon.com/reservations",
@@ -29367,6 +29568,8 @@
    "postcode": "E9 6NA",
    "lat": 51.545898,
    "lng": -0.053775,
+   "station": "Hackney Central",
+   "walkMin": 5,
    "price": "£",
    "booking": "walk-in",
    "website": "http://www.templeofseitan.co.uk/",
@@ -29449,6 +29652,8 @@
    "postcode": "W1D 5LF",
    "lat": 51.512827,
    "lng": -0.13082,
+   "station": "Leicester Square",
+   "walkMin": 2,
    "price": "£££",
    "website": "http://www.barshurestaurant.co.uk/",
    "noise": "moderate",
@@ -29483,6 +29688,8 @@
    "postcode": "W2 3RX",
    "lat": 51.510956,
    "lng": -0.186929,
+   "station": "Queensway",
+   "walkMin": 1,
    "price": "£££",
    "website": "http://mandarin.kitchen/",
    "noise": "loud",
@@ -29519,6 +29726,8 @@
    "postcode": "W2 3RR",
    "lat": 51.51323,
    "lng": -0.187458,
+   "station": "Bayswater",
+   "walkMin": 2,
    "price": "££",
    "booking": "walk-in",
    "website": "https://www.goldminerestaurant.com/",
@@ -29556,6 +29765,8 @@
    "postcode": "SE17 1JL",
    "lat": 51.491739,
    "lng": -0.098363,
+   "station": "Elephant & Castle",
+   "walkMin": 7,
    "price": "££",
    "website": "https://dragoncastlechinesesouthwark.co.uk/",
    "noise": "loud",
@@ -29596,6 +29807,8 @@
    "postcode": "WC2H 0LA",
    "lat": 51.515311,
    "lng": -0.129825,
+   "station": "Tottenham Court Road",
+   "walkMin": 3,
    "price": "££££",
    "booking": "weeks",
    "bookingUrl": "https://www.sevenrooms.com/explore/tattulondon/reservations/create/search/",
@@ -29633,6 +29846,8 @@
    "postcode": "N1 0NP",
    "lat": 51.537188,
    "lng": -0.103333,
+   "station": "Angel",
+   "walkMin": 9,
    "price": "££",
    "booking": "walk-in",
    "bookingUrl": "https://www.sevenrooms.com/explore/hainanhouse/reservations/create/search/",
@@ -29672,8 +29887,6 @@
    "lng": -0.127585,
    "price": "££££",
    "booking": "weeks",
-   "bookingUrl": "https://www.opentable.com/booking/experiences-availability?rid=111285&restref=111285&experienceId=515918",
-   "website": "https://j-sheekey.co.uk/?utm_source=LocalGoogle&utm_medium=organic",
    "goodFor": [
     "date",
     "celebration",
@@ -29709,8 +29922,6 @@
    "lng": -0.151001,
    "price": "££££",
    "booking": "weeks",
-   "bookingUrl": "https://scotts-mayfair.com/",
-   "website": "https://scotts-mayfair.com/?utm_source=LocalGoogle&utm_medium=Organic&utm_campaign=gmb",
    "goodFor": [
     "date",
     "celebration",
@@ -29745,8 +29956,6 @@
    "lng": -0.137744,
    "price": "££££",
    "booking": "days",
-   "bookingUrl": "https://www.sevenrooms.com/explore/bentleys/reservations/create/search/",
-   "website": "https://www.bentleys.org/?utm_source=google&utm_medium=local&utm_campaign=gmblisting",
    "goodFor": [
     "date",
     "business",
@@ -29782,8 +29991,6 @@
    "lng": -0.104797,
    "price": "£££",
    "booking": "weeks",
-   "bookingUrl": "https://seabirdlondon.com/reservations",
-   "website": "https://seabirdlondon.com/?utm_source=google&utm_medium=local&utm_campaign=restaurant-seabird",
    "goodFor": [
     "date",
     "groups",
@@ -29818,8 +30025,6 @@
    "lng": -0.139361,
    "price": "££££",
    "booking": "weeks",
-   "bookingUrl": "https://www.sevenrooms.com/reservations/wiltons&quot;,",
-   "website": "http://www.wiltons.co.uk/home",
    "goodFor": [
     "celebration",
     "business"
@@ -29854,8 +30059,6 @@
    "lng": -0.124885,
    "price": "£££",
    "booking": "weeks",
-   "bookingUrl": "https://www.sevenrooms.com/reservations/parsonsuk?venues=%2Cparsonsuk%2Cbistroavin%2Ccaveavinuk%2Cbaudrygreene%2C&quot;,",
-   "website": "https://www.parsonslondon.co.uk/",
    "goodFor": [
     "date",
     "solo"
@@ -29890,8 +30093,6 @@
    "lng": -0.133092,
    "price": "£££",
    "booking": "days",
-   "bookingUrl": "https://www.theseafoodbar.com/reservations-amsterdam/",
-   "website": "https://www.theseafoodbar.com/",
    "goodFor": [
     "groups",
     "date"
@@ -29926,8 +30127,6 @@
    "lng": -0.134169,
    "price": "£££",
    "booking": "walk-in",
-   "bookingUrl": "https://www.sevenrooms.com/explore/randallandaubin/reservations/create/search",
-   "website": "http://www.randallandaubin.com/",
    "goodFor": [
     "date",
     "solo"
@@ -29966,8 +30165,6 @@
     "pre-theatre"
    ],
    "booking": "days",
-   "bookingUrl": "https://www.sevenrooms.com/explore/ManzisLondon/reservations/create/search",
-   "website": "http://www.manzis.co.uk/",
    "goodFor": [
     "date",
     "pre-theatre",
@@ -30003,8 +30200,6 @@
    "lng": -0.123737,
    "price": "£££",
    "booking": "days",
-   "bookingUrl": "https://www.oystermen.co.uk/reservations",
-   "website": "https://www.oystermen.co.uk/",
    "goodFor": [
     "date",
     "solo",
@@ -30041,8 +30236,6 @@
    "lng": -0.091048,
    "price": "£££",
    "booking": "days",
-   "bookingUrl": "https://www.sevenrooms.com/reservations/applebeesfishborough",
-   "website": "https://applebeesfish.com/?utm_source=gmb",
    "goodFor": [
     "solo",
     "quick",
@@ -30078,7 +30271,6 @@
    "lng": -0.101034,
    "price": "£££",
    "booking": "days",
-   "website": "http://www.prawnonthelawn.com/",
    "goodFor": [
     "date",
     "solo"
@@ -30114,8 +30306,6 @@
    "lng": -0.057355,
    "price": "££££",
    "booking": "weeks",
-   "bookingUrl": "https://www.behindrestaurant.co.uk/book",
-   "website": "https://www.behindrestaurant.co.uk/",
    "goodFor": [
     "date",
     "celebration"
@@ -30150,8 +30340,6 @@
    "lng": -0.086473,
    "price": "££££",
    "booking": "weeks",
-   "bookingUrl": "http://www.anglerrestaurant.com/",
-   "website": "http://www.anglerrestaurant.com/",
    "goodFor": [
     "business",
     "celebration",
@@ -30222,8 +30410,6 @@
    "lng": -0.222626,
    "price": "£££",
    "booking": "days",
-   "bookingUrl": "https://www.faberrestaurants.co.uk/book/",
-   "website": "https://www.faberrestaurants.co.uk/",
    "goodFor": [
     "date",
     "solo"
@@ -30258,8 +30444,6 @@
    "lng": -0.205828,
    "price": "£££",
    "booking": "weeks",
-   "bookingUrl": "https://www.sevenrooms.com/explore/Dove/reservations/create/search/",
-   "website": "https://dove.london/",
    "goodFor": [
     "date",
     "celebration"
@@ -30297,8 +30481,6 @@
     "byo"
    ],
    "booking": "days",
-   "bookingUrl": "https://www.sevenrooms.com/explore/samsriverside/reservations/create/search?venues=dinneratsk%2Csamsriverside%2Csamswaterside",
-   "website": "http://www.samsriverside.co.uk/",
    "goodFor": [
     "date",
     "families",
@@ -30335,8 +30517,6 @@
    "lng": -0.079547,
    "price": "£££",
    "booking": "days",
-   "bookingUrl": "http://www.fishmarket-restaurant.co.uk/",
-   "website": "http://www.fishmarket-restaurant.co.uk/",
    "goodFor": [
     "business",
     "groups",
@@ -30370,8 +30550,6 @@
    "lng": -0.256237,
    "price": "£££",
    "booking": "days",
-   "bookingUrl": "https://bookings.designmynight.com/book?venue_id=6087d39bccb4d70e7a1df7e3&#038;source=partner&#038;type=682f0b32d1253447ae5830b3&#038;time=19:00&#038;duration=180&#038;date=2026-09-08",
-   "website": "https://rickstein.com/restaurants/rick-stein-barnes/?utm_source=google&utm_medium=google&utm_campaign=Barnes+-+Google&utm_id=Barnes+google",
    "goodFor": [
     "families",
     "date"
@@ -30407,7 +30585,6 @@
    "lng": -0.090504,
    "price": "£",
    "booking": "walk-in",
-   "website": "http://www.furnessfishmarkets.com/",
    "goodFor": [
     "quick",
     "solo"
@@ -30511,8 +30688,6 @@
    "lng": -0.150658,
    "price": "£££",
    "booking": "days",
-   "bookingUrl": "https://www.sevenrooms.com/reservations/swainslane",
-   "website": "http://www.londonshellco.com/",
    "goodFor": [
     "date",
     "families"
@@ -30547,8 +30722,6 @@
    "lng": -0.088304,
    "price": "££",
    "booking": "weeks",
-   "bookingUrl": "https://www.sevenrooms.com/explore/thebaring/reservations/create/search/",
-   "website": "http://www.thebaring.co.uk/",
    "goodFor": [
     "date",
     "groups"
@@ -30584,8 +30757,6 @@
    "lng": -0.10824,
    "price": "££",
    "booking": "days",
-   "bookingUrl": "http://www.opentable.co.uk/the-drapers-arms-reservations-london?rid=53308&restref=53308",
-   "website": "http://www.thedrapersarms.com/",
    "goodFor": [
     "families",
     "groups"
@@ -30620,8 +30791,6 @@
    "lng": -0.079974,
    "price": "££",
    "booking": "days",
-   "bookingUrl": "http://www.the-macbeth.co.uk/",
-   "website": "http://www.the-macbeth.co.uk/",
    "goodFor": [
     "groups",
     "date"
@@ -30690,8 +30859,6 @@
    "lng": -0.015037,
    "price": "£££",
    "booking": "days",
-   "bookingUrl": "https://www.sevenrooms.com/explore/roe/reservations/create/search?venues=roe%2Cfallowstjames%2Cfowl",
-   "website": "https://www.roerestaurant.co.uk/",
    "goodFor": [
     "groups",
     "business"
@@ -30725,7 +30892,6 @@
    "lng": -0.055499,
    "price": "££",
    "booking": "days",
-   "website": "https://www.claptoncountryclub.co.uk/",
    "goodFor": [
     "groups",
     "date"
@@ -30760,8 +30926,6 @@
    "lng": -0.079118,
    "price": "££",
    "booking": "days",
-   "bookingUrl": "https://www.sevenrooms.com/reservations/theclarencetavern&quot;,",
-   "website": "http://www.clarencetavern.com/",
    "goodFor": [
     "families",
     "groups"
@@ -30795,8 +30959,6 @@
    "lng": -0.0904,
    "price": "££",
    "booking": "days",
-   "bookingUrl": "https://www.sevenrooms.com/explore/thekerfieldarms/reservations/create/search/",
-   "website": "https://www.thekerfieldarms.co.uk/",
    "goodFor": [
     "families",
     "groups"
@@ -30831,8 +30993,6 @@
    "lng": -0.188221,
    "price": "££",
    "booking": "days",
-   "bookingUrl": "https://www.sevenrooms.com/explore/thehero/reservations/create/search/?date=2026-02-23&searchTab=reservations&venues=thehero%2Cthepelicanw11%2Cthehartuk%2Cthefatbadger",
-   "website": "https://theherow9.com/",
    "goodFor": [
     "date",
     "families"
@@ -30868,8 +31028,6 @@
    "lng": -0.106854,
    "price": "££",
    "booking": "walk-in",
-   "bookingUrl": "http://www.anchorandhopepub.co.uk/",
-   "website": "http://www.anchorandhopepub.co.uk/",
    "goodFor": [
     "date",
     "groups",
