@@ -170,6 +170,13 @@ const VOCAB = {
     // the room and its equipment by the hour. Distinct enough from everything
     // above to need its own category rather than being bent to fit one.
     "studio-hire",
+    // The official TKTS kiosk in Leicester Square is not a THEATRE RULE
+    // exclusion - that rule keeps out playhouses where the performance is the
+    // draw, and belongs to the sister theatre site. TKTS sells no performance
+    // of its own; the booth itself, and the same-day discount it gives access
+    // to, is the thing a visitor is looking for. Nothing else on this list
+    // describes "a kiosk you queue at to buy something".
+    "ticket-booth",
   ],
   // "18+ after 6pm" is the single most useful fact for a family and almost
   // nobody publishes it clearly. Fairgame is 18+ at ALL times and reads like a
@@ -222,6 +229,8 @@ const HOODS = {
   "Walthamstow":           { zone: "3",   district: "East" },
   "Waterloo":              { zone: "1",   district: "Central" },
   "Covent Garden":         { zone: "1",   district: "Central" },
+  // Same zone/district as write-restaurants-v2 already uses for this hood.
+  "Leicester Square":      { zone: "1",   district: "Central" },
   "Soho":                  { zone: "1",   district: "Central" },
   "City of London":        { zone: "1",   district: "Central" },
   "Smithfield":            { zone: "1",   district: "Central" },
@@ -1417,6 +1426,26 @@ const ROWS = [
     goodFor: "families, groups, solo",
     lists: "activities, free",
     source: "All-guides pass 2026-08-19; coventgarden.london plus Secret London, DesignMyNight and visitlondon.",
+  },
+  {
+    ...base, slug: "tkts-leicester-square", name: "TKTS Booth, Leicester Square",
+    activityType: "ticket-booth", style: "The official same-day and advance West End discount ticket booth",
+    chainType: "independent", ownerGroup: "Society of London Theatre",
+    hood: "Leicester Square", borough: "Westminster", areaGuide: "covent-garden-area-guide",
+    guidePlacement: "prose",
+    address: "Clocktower Building, south side of Leicester Square",
+    station: "Leicester Square",
+    agePolicy: "all-ages", duration: "A queue, then however long the show runs", groupSize: "Any",
+    bookingRequired: "walk-in", indoorOutdoor: "outdoor",
+    stepFree: "yes",
+    servesFood: "no", servesAlcohol: "no",
+    whyGo: "The only ticket booth in Leicester Square actually run by the theatre industry, not a lookalike shop trading on the same name and square.",
+    angle: "value",
+    opSummary: "Run by the Society of London Theatre since 1980, a not-for-profit whose profit goes back into theatre. Sells mostly same-day tickets at a discount, plus advance bookings in person or online, with a booking fee on the online side. Open Monday to Saturday 10.30am-6pm, Sunday 11am-4pm.",
+    goodFor: "solo, groups, families",
+    lists: "activities",
+    website: "https://officiallondontheatre.com/tkts/",
+    source: "officiallondontheatre.com/tkts, verified 2026-08-30.",
   },
   {
     ...base, slug: "london-transport-museum", name: "London Transport Museum",

@@ -87,6 +87,11 @@ Covent Garden has its own share of the commemorative plaques marking where notab
 5. **London Transport Museum** — Genuinely good, and better than it sounds. Real Tube carriages, old buses and the original poster archive. One of the few paid attractions here worth the money, especially with children.
 6. **St Paul's Church (the Actors' Church)** — The portico where Eliza Doolittle is introduced in *Pygmalion*. The garden behind it is the quietest place in the area to sit.
 7. **Neal Street and Monmouth Street** — The main independent shopping streets, running north from the Piazza to Seven Dials.
+8. **The TKTS booth, Leicester Square** — A five-minute walk south. The only ticket booth in the square actually run by the theatre industry, in the clocktower building on the south side, selling mostly same-day tickets at a discount since 1980. Ignore the lookalike shops nearby trading on the same name.
+
+![The clocktower building of the official TKTS theatre ticket booth in Leicester Square, with people queuing at the "OFFICIAL LONDON THEATRE TICKET BOOTH" window](../../assets/articles/covent-garden-area-guide/tkts-booth-leicester-square.jpg)
+
+*Run by the Society of London Theatre, a not-for-profit — every other "theatre tickets" booth around the square is a private reseller.*
 
 ## Key streets and micro-districts
 
