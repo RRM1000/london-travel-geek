@@ -68,7 +68,6 @@
       "url": "https://thenudge.com/the-best-french-restaurants-in-london/",
       "scope": "french",
       "names": [
-        "The Details",
         "Paulette",
         "Bleeding Heart Bistro"
       ]
@@ -118,14 +117,54 @@
       ]
     },
     {
-      "name": "Time Out (best French 2026)",
-      "url": "https://www.timeout.com/london/news/this-unassuming-bistro-is-officially-the-best-french-restaurant-in-london-041526",
+      "name": "Time Out (best French restaurants)",
+      "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
       "scope": "french",
       "names": [
-        "Advertising",
         "Camille",
-        "for the best of the city"
-      ]
+        "Bouchon Racine",
+        "Casse-Croûte",
+        "Bistro Freddie",
+        "Brasserie Zédel",
+        "Otto's French Restaurant",
+        "Upstairs at the French House",
+        "Josephine",
+        "64 Goodge Street",
+        "Henri",
+        "Café Bohème",
+        "Mon Plaisir",
+        "Kettner's",
+        "LPM La Petite Maison",
+        "Pique-Nique",
+        "Le Relais de Venise l'Entrecôte",
+        "The Bistro at the Bleeding Heart",
+        "Balthazar",
+        "L'Escargot",
+        "Story Cellar"
+      ],
+      "quotes": {
+        "Camille": "Time Out's number one French restaurant in London, announced 15 April 2026: 'officially the best French restaurant in London, according to us here at Time Out'. Opened at the start of 2024.",
+        "Bouchon Racine": "A 1930s-feeling Lyon-styled spot above a pub in Farringdon. Why we love it: Bouchon Racine comes with history, baggage and devoted fans, especially of chef Henry Harris.",
+        "Casse-Croûte": "A teasing shot of warm, villagey France in Bermondsey. Why we love it: This infectiously cosy eatery works to a daily blackboard menu of boldly chosen, smartly executed bourgeois classics scrawled up in the native tongue.",
+        "Bistro Freddie": "Bistro Freddie is a London rarity: a knowingly 'cool' vibehouse that doesn't make you want to dash your brains out on the edge of an understated white table. Why we love it: The spare, paired-back menu features 'house sausage', and s nails ",
+        "Brasserie Zédel": "Big-ticket dining just off Piccadilly Circus, this homage to the grand Parisian brasserie is a huge art deco set-up that attracts all-comers out for a good time. Why we love it: Affordable French staples are the big draw and the set menu is",
+        "Otto's French Restaurant": "A loving tribute to la vielle France near Russell Square. Why we love it: Otto Tepasse's restaurant dishes up fancy food against a charmingly affectionate backdrop of statuettes, vintage lights and velvet banquettes.",
+        "Upstairs at the French House": "A Soho legend. Wht we love it: Located above the French House pub (a die-hard boho Soho watering hole with its own house rules), this teeny dining room is now home to chef Neil Borthwick, who runs the show with considerable brio.",
+        "Josephine": "Josephine is a bistro so pitch perfect and so on brand that it could be a movie set - preferably one with Catherine Deneuve flitting about while sweetly sloshing vino. Why we love it: With the storied chef Claude Bosi in charge, here the Fr",
+        "64 Goodge Street": "Rich sauces, hearty meats and uber elegant fine dining is the name of the game here. 64 Goodge Street is part of London ' s French new wave of dining.",
+        "Henri": "Henri is an all-day Parisian-style bistro attached to Covent Garden's Henrietta Hotel. Why we love it: It's helmed by Jackson Boxer, a darling of the St John school of simplicity and chef behind Vauxhall's much-loved and much-celebrated Bru",
+        "Café Bohème": "Occupying prime Soho real estate since 1992, this fin de si cle-styled brasserie is an Old Compton Street legend. Why we love it: On a sunny day - and a grey one too, let ' s be honest - the al fresco tables on the pavement get snapped up q",
+        "Mon Plaisir": "Mon Plaisir is Covent Garden ' s ultimate French veteran, and the oldest French restaurant in London. Why we love it: As Gallic as Gauloises, Jacques Tati and Edif Piaf.",
+        "Kettner's": "Alongside the sturdy likes of the Quo Vadis and L'Escargot, Kettner's is one of Soho's grande dames of gastronomy. Why we love it: Dating back to 1867, this French restaurant was opened by the personal chef to Napoleon III (the one who rebu",
+        "LPM La Petite Maison": "Glam French dining. Why we love it: Given its Mayfair location, it ' s no surprise that LPM is on the more spenny side of things.",
+        "Pique-Nique": "A casual spot from the folks behind Casse-Cro te. Why we love it: This quirky restaurant in a mock-Tudor pavilion on the edge of Tanner Street Park is affably French right down to its blackboard Gallic menu and suave staff.",
+        "Le Relais de Venise l'Entrecôte": "Born in Paris back in 1959, this is the Marylebone branch of a mini chain of no-bookings, no-choice steakhouses. Why we love it: Le Relais de Venise l'Entrec te knows how to pack 'em in.",
+        "The Bistro at the Bleeding Heart": "The interior of this solid French bistro is like a French farmhouse by way of a Victorian workhouse. Why we love it: Here, the bare wooden beams and metal pillars are pepped up by nineteenth-century French wine posters and big stoneware fla",
+        "Balthazar": "Brassy, energetic and classily cosmopolitan. Why we love it: This NYC import mixes Gallic joie de vivre with snappy US customer service in a glammed-up Covent Garden setting of red leather banquettes, antique mirrored walls and mosaic floor",
+        "L'Escargot": "Famously the first restaurant in London to serve snails (the original owner used to farm them in the basement of this Georgian townhouse). Why we love it: L'Escargot has been a fixture of old Soho since 1927.",
+        "Story Cellar": "Heaven for rotisserie chicken lovers. Why we love it: Tom Sellers charcoal-hued, marble-clad venue just off Seven Dials is inspired by the rotisseries and brasseries of Paris."
+      },
+      "note": "The recorded URL was Time Out's NEWS piece announcing the top of this list, not the list. Repointed to the guide 2026-08-30, which carries 20 restaurants with a verdict each; the news piece had yielded one name and two chrome strings. NOT syndication - the piece says 'according to us here at Time Out', so this is Time Out's own verdict and counts once, here."
     },
     {
       "name": "London on the Inside (French)",

@@ -17756,68 +17756,6 @@
       }
     ]
   },
-  "footer": {
-    "name": "Footer",
-    "topics": [
-      "breakfast-brunch",
-      "ice-cream"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Orlagh Claire",
-        "url": "https://orlaghclaire.com/travel/best-brunch-spots-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Messy Vegan Cook",
-        "url": "https://messyvegancook.com/more-vegan-ice-cream-options-in-london/"
-      }
-    ]
-  },
-  "orlaghclaire": {
-    "name": "Orlagh Claire",
-    "topics": [
-      "breakfast-brunch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Orlagh Claire",
-        "url": "https://orlaghclaire.com/travel/best-brunch-spots-london/"
-      }
-    ]
-  },
   "christophers": {
     "name": "Christopher’s",
     "topics": [
@@ -17927,15 +17865,15 @@
     "topics": [
       "breakfast-brunch"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -17944,6 +17882,16 @@
         "tier": "B",
         "source": "LuxLife",
         "url": "https://luxlifelondon.com/best-breakfast-spots-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Resy",
+        "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
       }
     ]
   },
@@ -18358,120 +18306,6 @@
         "tier": "B",
         "source": "LuxLife",
         "url": "https://luxlifelondon.com/best-breakfast-spots-london/"
-      }
-    ]
-  },
-  "londonsbestrestaurantsandbarsforadate": {
-    "name": "London’s Best Restaurants and Bars For a Date",
-    "topics": [
-      "breakfast-brunch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Resy",
-        "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
-      }
-    ]
-  },
-  "howcharliesimsandhoneyspencerbuiltsune": {
-    "name": "How Charlie Sims and Honey Spencer Built Sune",
-    "topics": [
-      "breakfast-brunch",
-      "turkish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "turkish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Resy",
-        "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
-      }
-    ]
-  },
-  "withdalla": {
-    "name": "With Dalla",
-    "topics": [
-      "breakfast-brunch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Resy",
-        "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
-      }
-    ]
-  },
-  "everythingtoknowabouthainanhouse": {
-    "name": "Everything to Know About Hainan House",
-    "topics": [
-      "breakfast-brunch",
-      "turkish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "turkish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Resy",
-        "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
       }
     ]
   },
@@ -18995,36 +18829,6 @@
       }
     ]
   },
-  "grangerandcochelsea": {
-    "name": "Granger & Co. Chelsea",
-    "topics": [
-      "breakfast-brunch"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Resy",
-        "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
-      }
-    ]
-  },
   "partysize": {
     "name": "Party Size",
     "topics": [
@@ -19072,163 +18876,6 @@
         "tier": "C",
         "source": "Resy",
         "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
-      }
-    ]
-  },
-  "fiveessentialdishesatmambow": {
-    "name": "Five Essential Dishes at Mambow",
-    "topics": [
-      "breakfast-brunch",
-      "turkish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "turkish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Resy",
-        "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
-      }
-    ]
-  },
-  "centrallondonbrunch": {
-    "name": "Central London Brunch",
-    "topics": [
-      "breakfast-brunch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
-      }
-    ]
-  },
-  "eastlondonbrunch": {
-    "name": "East London Brunch",
-    "topics": [
-      "breakfast-brunch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
-      }
-    ]
-  },
-  "northlondonbrunch": {
-    "name": "North London Brunch",
-    "topics": [
-      "breakfast-brunch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
-      }
-    ]
-  },
-  "westlondonbrunch": {
-    "name": "West London Brunch",
-    "topics": [
-      "breakfast-brunch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
-      }
-    ]
-  },
-  "southlondonbrunch": {
-    "name": "South London Brunch",
-    "topics": [
-      "breakfast-brunch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
       }
     ]
   },
@@ -20238,36 +19885,6 @@
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-brunch-london"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
-      }
-    ]
-  },
-  "burntbethnalgreen": {
-    "name": "Burnt Bethnal Green",
-    "topics": [
-      "breakfast-brunch"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -25873,8 +25490,8 @@
       "general",
       "sunday-roast"
     ],
-    "sourceCount": 5,
-    "tierSpread": "A2 B2 C1",
+    "sourceCount": 8,
+    "tierSpread": "A2 B3 C3",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -25885,9 +25502,9 @@
         "hasAward": false
       },
       "french": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
-        "tierCount": 2,
+        "sourceCount": 5,
+        "tierSpread": "A1 B2 C2",
+        "tierCount": 3,
         "hasAward": true
       },
       "general": {
@@ -25922,6 +25539,12 @@
       },
       {
         "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "A Soho legend. Wht we love it: Located above the French House pub (a die-hard boho Soho watering hole with its own house rules), this teeny dining room is now home to chef Neil Borthwick, who runs the show with considerable brio."
+      },
+      {
+        "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
       },
@@ -25929,6 +25552,16 @@
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-french-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/french-restaurants/"
       }
     ]
   },
@@ -33150,8 +32783,8 @@
       "french",
       "general"
     ],
-    "sourceCount": 5,
-    "tierSpread": "A1 B3 C1",
+    "sourceCount": 6,
+    "tierSpread": "A1 B4 C1",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -33162,8 +32795,8 @@
         "hasAward": false
       },
       "french": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
+        "sourceCount": 3,
+        "tierSpread": "A1 B2",
         "tierCount": 2,
         "hasAward": true
       },
@@ -33184,6 +32817,12 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/the-best-french-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "A 1930s-feeling Lyon-styled spot above a pub in Farringdon. Why we love it: Bouchon Racine comes with history, baggage and devoted fans, especially of chef Henry Harris."
       },
       {
         "tier": "B",
@@ -43639,59 +43278,6 @@
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/this-london-burger-has-been-named-the-best-in-the-uk-for-2026-032526"
-      }
-    ]
-  },
-  "forthebestofthecity": {
-    "name": "for the best of the city",
-    "topics": [
-      "burgers",
-      "dessert",
-      "dim-sum",
-      "french",
-      "new-openings"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dessert": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -61426,14 +61012,14 @@
     "topics": [
       "french"
     ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
+    "sourceCount": 3,
+    "tierSpread": "A1 B2",
     "tierCount": 2,
     "hasAward": true,
     "byTopic": {
       "french": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
+        "sourceCount": 3,
+        "tierSpread": "A1 B2",
         "tierCount": 2,
         "hasAward": true
       }
@@ -61448,6 +61034,12 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/the-best-french-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "Rich sauces, hearty meats and uber elegant fine dining is the name of the game here. 64 Goodge Street is part of London ' s French new wave of dining."
       }
     ]
   },
@@ -61486,14 +61078,14 @@
     "topics": [
       "french"
     ],
-    "sourceCount": 4,
-    "tierSpread": "A1 B1 C2",
+    "sourceCount": 5,
+    "tierSpread": "A1 B2 C2",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "french": {
-        "sourceCount": 4,
-        "tierSpread": "A1 B1 C2",
+        "sourceCount": 5,
+        "tierSpread": "A1 B2 C2",
         "tierCount": 3,
         "hasAward": true
       }
@@ -61508,6 +61100,12 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/the-best-french-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "A teasing shot of warm, villagey France in Bermondsey. Why we love it: This infectiously cosy eatery works to a daily blackboard menu of boldly chosen, smartly executed bourgeois classics scrawled up in the native tongue."
       },
       {
         "tier": "C",
@@ -61571,60 +61169,104 @@
       }
     ]
   },
-  "ottosfrenchrestaurant": {
-    "name": "Otto's French Restaurant",
-    "topics": [
-      "french"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-french-restaurants-in-london"
-      }
-    ]
-  },
-  "josephinebouchon": {
-    "name": "Josephine Bouchon",
+  "ottos": {
+    "name": "Otto's",
     "topics": [
       "french",
       "general"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 5,
+    "tierSpread": "A1 B3 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 4,
+        "tierSpread": "A1 B2 C1",
+        "tierCount": 3,
+        "hasAward": true
       },
       "general": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
+      },
+      {
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/the-best-french-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "A loving tribute to la vielle France near Russell Square. Why we love it: Otto Tepasse's restaurant dishes up fancy food against a charmingly affectionate backdrop of statuettes, vintage lights and velvet banquettes."
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/french-restaurants/"
+      }
+    ]
+  },
+  "josephine": {
+    "name": "Josephine",
+    "topics": [
+      "french",
+      "general"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "A1 B3 C2",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "french": {
+        "sourceCount": 3,
+        "tierSpread": "A1 B2",
+        "tierCount": 2,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-french-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "Josephine is a bistro so pitch perfect and so on brand that it could be a movie set - preferably one with Catherine Deneuve flitting about while sweetly sloshing vino. Why we love it: With the storied chef Claude Bosi in charge, here the Fr"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
       },
       {
         "tier": "C",
@@ -61644,14 +61286,14 @@
     "topics": [
       "french"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B1 C1",
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 C1",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "french": {
-        "sourceCount": 3,
-        "tierSpread": "A1 B1 C1",
+        "sourceCount": 4,
+        "tierSpread": "A1 B2 C1",
         "tierCount": 3,
         "hasAward": true
       }
@@ -61668,6 +61310,12 @@
         "url": "https://www.theinfatuation.com/london/guides/the-best-french-restaurants-in-london"
       },
       {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "A casual spot from the folks behind Casse-Cro te. Why we love it: This quirky restaurant in a mock-Tudor pavilion on the edge of Tanner Street Park is affably French right down to its blackboard Gallic menu and suave staff."
+      },
+      {
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/french-restaurants/"
@@ -61679,14 +61327,14 @@
     "topics": [
       "french"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "french": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
         "tierCount": 2,
         "hasAward": false
       }
@@ -61696,6 +61344,12 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/the-best-french-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "Mon Plaisir is Covent Garden ' s ultimate French veteran, and the oldest French restaurant in London. Why we love it: As Gallic as Gauloises, Jacques Tati and Edif Piaf."
       },
       {
         "tier": "C",
@@ -61920,48 +61574,16 @@
     "topics": [
       "french"
     ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
-      }
-    ]
-  },
-  "josephinechelsea": {
-    "name": "Josephine Chelsea",
-    "topics": [
-      "french",
-      "general"
-    ],
     "sourceCount": 2,
     "tierSpread": "A1 B1",
     "tierCount": 2,
     "hasAward": true,
     "byTopic": {
       "french": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
         "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
       }
     },
     "sources": [
@@ -61972,8 +61594,9 @@
       },
       {
         "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "Henri is an all-day Parisian-style bistro attached to Covent Garden's Henrietta Hotel. Why we love it: It's helmed by Jackson Boxer, a darling of the St John school of simplicity and chef behind Vauxhall's much-loved and much-celebrated Bru"
       }
     ]
   },
@@ -61982,15 +61605,15 @@
     "topics": [
       "french"
     ],
-    "sourceCount": 2,
-    "tierSpread": "A1 C1",
-    "tierCount": 2,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "french": {
-        "sourceCount": 2,
-        "tierSpread": "A1 C1",
-        "tierCount": 2,
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 C1",
+        "tierCount": 3,
         "hasAward": true
       }
     },
@@ -61999,6 +61622,12 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "Famously the first restaurant in London to serve snails (the original owner used to farm them in the basement of this Georgian townhouse). Why we love it: L'Escargot has been a fixture of old Soho since 1927."
       },
       {
         "tier": "C",
@@ -62054,48 +61683,6 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
-      }
-    ]
-  },
-  "ottos": {
-    "name": "Otto's",
-    "topics": [
-      "french",
-      "general"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B1 C1",
-    "tierCount": 3,
-    "hasAward": true,
-    "byTopic": {
-      "french": {
-        "sourceCount": 2,
-        "tierSpread": "A1 C1",
-        "tierCount": 2,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/french-restaurants/"
       }
     ]
   },
@@ -62176,59 +61763,6 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
-      }
-    ]
-  },
-  "details": {
-    "name": "The Details",
-    "topics": [
-      "french",
-      "general",
-      "ice-cream",
-      "italian",
-      "late-night"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/the-best-french-restaurants-in-london/"
       }
     ]
   },
@@ -62689,15 +62223,15 @@
       "general",
       "late-night"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C3",
+    "sourceCount": 5,
+    "tierSpread": "B2 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "french": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
         "hasAward": false
       },
       "general": {
@@ -62714,6 +62248,12 @@
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "Big-ticket dining just off Piccadilly Circus, this homage to the grand Parisian brasserie is a huge art deco set-up that attracts all-comers out for a good time. Why we love it: Affordable French staples are the big draw and the set menu is"
+      },
       {
         "tier": "B",
         "source": "Luxury London",
@@ -62741,19 +62281,25 @@
     "topics": [
       "french"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "french": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "The interior of this solid French bistro is like a French farmhouse by way of a Victorian workhouse. Why we love it: Here, the bare wooden beams and metal pillars are pepped up by nineteenth-century French wine posters and big stoneware fla"
+      },
       {
         "tier": "C",
         "source": "London x London",
@@ -62853,36 +62399,6 @@
       }
     ]
   },
-  "upstairsatthefrenchhouse": {
-    "name": "Upstairs at The French House",
-    "topics": [
-      "french"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "french": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/best-french-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/french-restaurants/"
-      }
-    ]
-  },
   "hatched": {
     "name": "Hatched",
     "topics": [
@@ -62942,6 +62458,195 @@
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "bistrofreddie": {
+    "name": "Bistro Freddie",
+    "topics": [
+      "french"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "french": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "Bistro Freddie is a London rarity: a knowingly 'cool' vibehouse that doesn't make you want to dash your brains out on the edge of an understated white table. Why we love it: The spare, paired-back menu features 'house sausage', and s nails "
+      }
+    ]
+  },
+  "cafeboheme": {
+    "name": "Café Bohème",
+    "topics": [
+      "french"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "french": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "Occupying prime Soho real estate since 1992, this fin de si cle-styled brasserie is an Old Compton Street legend. Why we love it: On a sunny day - and a grey one too, let ' s be honest - the al fresco tables on the pavement get snapped up q"
+      }
+    ]
+  },
+  "kettners": {
+    "name": "Kettner's",
+    "topics": [
+      "french"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "french": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "Alongside the sturdy likes of the Quo Vadis and L'Escargot, Kettner's is one of Soho's grande dames of gastronomy. Why we love it: Dating back to 1867, this French restaurant was opened by the personal chef to Napoleon III (the one who rebu"
+      }
+    ]
+  },
+  "lpmlapetitemaison": {
+    "name": "LPM La Petite Maison",
+    "topics": [
+      "french"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "french": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "Glam French dining. Why we love it: Given its Mayfair location, it ' s no surprise that LPM is on the more spenny side of things."
+      }
+    ]
+  },
+  "lerelaisdeveniselentrecote": {
+    "name": "Le Relais de Venise l'Entrecôte",
+    "topics": [
+      "french",
+      "steak"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "french": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "steak": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "Born in Paris back in 1959, this is the Marylebone branch of a mini chain of no-bookings, no-choice steakhouses. Why we love it: Le Relais de Venise l'Entrec te knows how to pack 'em in."
+      }
+    ]
+  },
+  "balthazar": {
+    "name": "Balthazar",
+    "topics": [
+      "french"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "french": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "Brassy, energetic and classily cosmopolitan. Why we love it: This NYC import mixes Gallic joie de vivre with snappy US customer service in a glammed-up Covent Garden setting of red leather banquettes, antique mirrored walls and mosaic floor"
+      }
+    ]
+  },
+  "storycellar": {
+    "name": "Story Cellar",
+    "topics": [
+      "french"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "french": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-french-restaurants",
+        "quote": "Heaven for rotisserie chicken lovers. Why we love it: Tom Sellers charcoal-hued, marble-clad venue just off Seven Dials is inspired by the rotisseries and brasseries of Paris."
       }
     ]
   },
@@ -123572,31 +123277,6 @@
       }
     ]
   },
-  "howspanishcultureinfluenceslondonsfoodscene": {
-    "name": "How Spanish Culture Influences London’s Food Scene",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Tapas Guide",
-        "url": "https://londontapasguide.wordpress.com/2026/06/16/the-complete-guide-to-londons-spanish-food-scene-in-2026/"
-      }
-    ]
-  },
   "futureoflondonsspanishfoodscene": {
     "name": "The Future of London’s Spanish Food Scene",
     "topics": [
@@ -123720,31 +123400,6 @@
         "tier": "C",
         "source": "Walk Eat London",
         "url": "https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
-      }
-    ]
-  },
-  "lerelaisdeveniselentrecote": {
-    "name": "Le Relais de Venise l'Entrecôte",
-    "topics": [
-      "steak"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
       }
     ]
   },

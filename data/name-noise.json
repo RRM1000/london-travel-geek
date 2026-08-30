@@ -433,7 +433,12 @@
       "^\\d+ (introduction|conclusion)$",
       "^\\d{4} (award winners|london drum)$",
       "^\\d+ (best|superb|good food guide|paris|london supper|pub residencies|worth the|other historic|under \\d+|over \\d+)",
-      "^\\d+ hours in "
+      "^\\d+ hours in ",
+      "^(footer|header|sidebar|for the best of the city|the details|so)$",
+      "^(central|east|north|west|south|southeast|southwest|northeast|northwest) london (brunch|breakfast|restaurants|guide)",
+      "^(brunch|breakfast|lunch|dinner) (in|near|guide|spots)\b",
+      "^how [A-Z][a-z]+ [A-Z]",
+      "^(everything to know|five essential|ten essential|\\d+ superb|\\d+ of the best)"
     ],
     "deIndex": {
       "note": "Some listicles glue the list position to the name - '2 Bone Daddies', '3 Shoryu Ramen'. A PATTERN CANNOT TELL THOSE APART from a venue whose name begins with a number, and trying cost a near-miss that would have renamed 40 Maltby Street to 'Maltby Street', 50 Kalo to 'Kalo' and 01 Adana to 'Adana'. The only reliable signal is that a list index is SEQUENTIAL WITHIN ITS SOURCE. clean-corpus.mjs therefore de-indexes only where one source carries at least three names whose leading integers form a run.",

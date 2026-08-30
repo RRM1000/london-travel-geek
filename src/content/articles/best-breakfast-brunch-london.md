@@ -29,8 +29,10 @@ Both are here, alongside the hotel rooms where breakfast is a business meeting.
 
 > 💡 **The Short Version:** **The Wolseley** is the London power breakfast in a 1920s car showroom. **Dishoom's bacon naan roll** is the one worth queueing for. **Granger & Co** started the London brunch thing and the hotcakes are still on the menu. **Duck & Waffle** is open 24 hours forty floors up. And **Wetherspoons** does a cooked breakfast from 8am for a few pounds.
 
-> 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Opening times for breakfast are the thing that changes most often — check before making a special trip.
+> 📊 **The evidence behind this guide**
+> Nothing here is ranked on one visit. This pass reads **5 sources carrying 135 citations** across **105 named rooms** — The Infatuation, The Nudge, Resy, Lux Life and one specialist. **20 rooms are named by two or more independent sources.**
+> **The known weakness in this topic: this is the thinnest corpus on the site.** Five publications, no award, no inspectorate, and nothing named by more than three of them — Christopher's and Granger & Co are the joint most-cited, on three each. Brunch is written about constantly and ranked almost never, so the counts here separate the well-covered from the obscure and not much more. Several rooms below carry no citation at all and say so.
+> *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
 
@@ -54,13 +56,13 @@ Both are here, alongside the hotel rooms where breakfast is a business meeting.
 
 ### The Wolseley, Piccadilly
 
-*£££ · 3 min from Green Park*
+*£££ · 3 min from Green Park* · Cited by 2 sources
 
 A 1920s car showroom turned Viennese-style grand café, and **the London power breakfast**. If you want to understand how the city does business over eggs, sit here at 8am on a weekday.
 
 ### Dishoom, Covent Garden
 
-*££ · 3 min from Covent Garden*
+*££ · 3 min from Covent Garden* · Cited by 2 sources
 
 The Irani cafés of old Bombay recreated in careful detail, and the **bacon naan roll** that turned a dinner restaurant into a breakfast destination.
 
@@ -76,13 +78,13 @@ Breakfast and lunch barely queue, unlike the evenings. Any party size can book b
 
 ### Duck & Waffle, City of London
 
-*££££ · 3 min from Liverpool Street · 24 hours*
+*££££ · 3 min from Liverpool Street · 24 hours* · Cited by 2 sources
 
 Forty floors up and **open around the clock** — the only place in London where you can watch the sun come up over the City with a plate in front of you. The duck egg, confit duck leg and waffle is the dish it is named for.
 
 ### Berners Tavern, Fitzrovia
 
-*££££ · a vast Edwardian ballroom*
+*££££ · a vast Edwardian ballroom* · Cited by 1 source
 
 Every inch of wall covered in framed pictures — probably the most photographed dining room in London, and quietest at breakfast.
 
@@ -94,13 +96,13 @@ The format that changed London breakfast, still done best by the people who brou
 
 ### Granger & Co, Notting Hill
 
-*£££ · Bill Granger*
+*£££ · Bill Granger* · Cited by 3 sources
 
 Bill Granger brought Sydney brunch to London and the **ricotta hotcakes** have been on the menu ever since. Several sites; Notting Hill is the original.
 
 ### Caravan, Clerkenwell
 
-*£ · its own roastery*
+*£ · its own roastery* · Cited by 1 source
 
 An all-day kitchen with a roastery attached — the room most responsible for London's brunch-and-flat-white culture.
 
@@ -110,7 +112,7 @@ An all-day kitchen with a roastery attached — the room most responsible for Lo
 
 ### Milk, Balham
 
-*££ · 3 min from Balham*
+*££ · 3 min from Balham* · Cited by 2 sources
 
 A Balham café that has topped London brunch lists for years without ever opening a second site, which tells you something.
 
@@ -120,7 +122,7 @@ A Balham café that has topped London brunch lists for years without ever openin
 
 ### Beany Green, Little Venice
 
-*££ · the towpath*
+*££ · the towpath* · named by no source in this corpus
 
 Australian brunch on the canal towpath with a big terrace — smashed avocado and a flat white, and the easiest good breakfast near Paddington.
 
@@ -130,7 +132,7 @@ Australian brunch on the canal towpath with a big terrace — smashed avocado an
 
 ### The Table Café, Southwark
 
-*££ · 5 min from Southwark · no bookings*
+*££ · 5 min from Southwark · no bookings* · named by no source in this corpus
 
 An independent on Southwark Street since **2005**, doing a proper cooked breakfast alongside the brunch menu — sweetcorn fritters, waffles, strawberry French toast — on seasonal British sourcing rather than the usual imported avocado economy.
 
@@ -142,7 +144,7 @@ An independent on Southwark Street since **2005**, doing a proper cooked breakfa
 
 ### Hawksmoor, several sites
 
-*£££ · a separate breakfast menu*
+*£££ · a separate breakfast menu* · named by no source in this corpus
 
 The steakhouse does a full English built out of its own butchery — **bone marrow, a smoked bacon chop and short rib** alongside the eggs — which makes it a different proposition from a café fry-up at roughly a café-fry-up-plus price.
 
@@ -160,7 +162,7 @@ Places where the coffee is the reason and the food is very good anyway.
 
 ### Kaffeine, Fitzrovia
 
-*£ · 6 min from Oxford Circus*
+*£ · 6 min from Oxford Circus* · named by no source in this corpus
 
 Australian-run, and one of the shops that brought antipodean coffee culture to London. The food counter is better than it needs to be.
 
@@ -170,13 +172,13 @@ Australian-run, and one of the shops that brought antipodean coffee culture to L
 
 ### Prufrock, Clerkenwell
 
-*£ · Leather Lane*
+*£ · Leather Lane* · named by no source in this corpus
 
 The shop that trained a generation of London baristas, with its own training centre attached.
 
 ### WatchHouse, Bermondsey
 
-*£ · a watchman's hut*
+*£ · a watchman's hut* · named by no source in this corpus
 
 Started in a nineteenth-century watchman's hut on Bermondsey Street and has become the most polished coffee group in London.
 
@@ -186,7 +188,7 @@ Started in a nineteenth-century watchman's hut on Bermondsey Street and has beco
 
 ### Ginger & White, Hampstead
 
-*£ · Perrins Court*
+*£ · Perrins Court* · named by no source in this corpus
 
 Serious coffee and a proper British breakfast — the default Hampstead morning, and a **bacon sandwich and flat white** done exactly right.
 
@@ -198,7 +200,7 @@ The thing that catches people out. Several of London's best brunches run **on Sa
 
 ### Akub, Notting Hill
 
-*Weekend only · Sat 11am–3pm, Sun 11am–4pm*
+*Weekend only · Sat 11am–3pm, Sun 11am–4pm* · Cited by 2 sources
 
 Modern Palestinian cooking from Fadi Kattan, and the brunch is not a translation of an English one — **Arabic coffee French toast** with cocoa and pistachio, and aubergine fatteh.
 
@@ -206,7 +208,7 @@ The most distinctive weekend brunch in London, and the one most worth rearrangin
 
 ### Bistrotheque, Bethnal Green
 
-*Weekend only · live piano 12–3pm*
+*Weekend only · live piano 12–3pm* · Cited by 2 sources
 
 A French bistro at the end of an unmarked Bethnal Green side street, with **a pianist playing through the middle of the day**. That is the whole proposition and it has worked for years.
 
@@ -216,7 +218,7 @@ A French bistro at the end of an unmarked Bethnal Green side street, with **a pi
 
 ### Carmel, Queen's Park
 
-*Weekend only · Sat and Sun 10am–3.30pm*
+*Weekend only · Sat and Sun 10am–3.30pm* · Cited by 2 sources
 
 Eastern Mediterranean, and the **flatbreads come out of a tabun oven** with whatever is seasonal on top, alongside morning mezze and pastries.
 
@@ -224,7 +226,7 @@ Tuesday to Friday it does lunch and dinner only, so the brunch really is a weeke
 
 ### Mr Bao, Peckham
 
-*Weekend only · bottomless £24 an hour*
+*Weekend only · bottomless £24 an hour* · Cited by 2 sources
 
 Taiwanese steamed buns turned into breakfast: a **bacon and egg bao** with char siu bacon and burnt cheese, and a crispy hash brown bao.
 
@@ -232,7 +234,7 @@ Taiwanese steamed buns turned into breakfast: a **bacon and egg bao** with char 
 
 ### Christopher's, Covent Garden
 
-*Weekend only · Sat 11am–3pm, Sun 11am–3.30pm*
+*Weekend only · Sat 11am–3pm, Sun 11am–3.30pm* · Cited by 3 sources
 
 An American grill in a Grade II Covent Garden building, and the **warm brioche French toast** is what it is known for.
 
@@ -242,7 +244,7 @@ An American grill in a Grade II Covent Garden building, and the **warm brioche F
 
 ### Esters, Stoke Newington
 
-*Saturday only · no bookings, card only*
+*Saturday only · no bookings, card only* · Cited by 2 sources
 
 Seasonal café cooking and Hasbean coffee, and full brunch runs **on Saturday alone** — not Sunday, which even regular guides get wrong.
 
@@ -254,7 +256,7 @@ No reservations, card only, and no laptops on Fridays and Saturdays.
 
 ### Sunday in Brooklyn, Notting Hill
 
-*Daily · also Marylebone*
+*Daily · also Marylebone* · Cited by 2 sources
 
 The Williamsburg original's first site outside New York, and the **hazelnut and brown butter pancakes** are the reason to come.
 
@@ -266,7 +268,7 @@ Prices are published, which is rarer than it should be: avocado toast **£12.80*
 
 ### TAB x TAB, Westbourne Grove
 
-*Daily · last food orders 3pm*
+*Daily · last food orders 3pm* · Cited by 2 sources
 
 Seven days a week from 8.30am on weekdays and 9am at weekends, which makes it the reliable answer in a part of London where most of the good rooms are weekend-only.
 
@@ -276,7 +278,7 @@ Seven days a week from 8.30am on weekdays and 9am at weekends, which makes it th
 
 ### The Laundry, Brixton
 
-*Daily · a former laundry*
+*Daily · a former laundry* · Cited by 2 sources
 
 All-day cooking and a wine shop in a converted Coldharbour Lane laundry — **Turkish eggs** and the Laundry Fry Up are the two orders.
 
@@ -284,7 +286,7 @@ Table times are limited: 90 minutes for up to three people, two and a half hours
 
 ### Inis, Fish Island
 
-*Wed–Sun · mornings end at 11.30am*
+*Wed–Sun · mornings end at 11.30am* · Cited by 2 sources
 
 British-Irish cooking on the canal at Fish Island, and the caveat matters more than the food: **morning service runs 8am to 11.30am and then the room turns over.**
 
@@ -292,7 +294,7 @@ This is not a lie-in brunch. Closed Mondays and Tuesdays.
 
 ### Burnt Arches, Bethnal Green
 
-*Tue–Sun · a railway arch*
+*Tue–Sun · a railway arch · Cited by 2 sources*
 
 A bakery and café under a railway arch doing a **crab and 'nduja herby omelette** with brown crab aioli, and aloo gobi fried eggs. Closed Mondays.
 

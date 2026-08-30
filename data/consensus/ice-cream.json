@@ -172,17 +172,14 @@
         "Snowflake Luxury Gelato",
         "Chin Chin Laboratorists",
         "Oddono's Gelati",
-        "Think Like a Vegan",
-        "Footer"
+        "Think Like a Vegan"
       ]
     },
     {
       "name": "The Nudge",
       "url": "https://thenudge.com/marcelos/",
       "scope": "ice-cream",
-      "names": [
-        "The Details"
-      ]
+      "names": []
     }
   ]
 }
