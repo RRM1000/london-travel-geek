@@ -2492,9 +2492,9 @@
       "general",
       "italian"
     ],
-    "sourceCount": 7,
-    "tierSpread": "B4 C3",
-    "tierCount": 2,
+    "sourceCount": 9,
+    "tierSpread": "B4 C3 D2",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "activities-shoreditch": {
@@ -2510,9 +2510,9 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 6,
-        "tierSpread": "B4 C2",
-        "tierCount": 2,
+        "sourceCount": 8,
+        "tierSpread": "B4 C2 D2",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -2551,6 +2551,17 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-italian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
+      },
+      {
+        "tier": "D",
+        "source": "Bon Appétit (YouTube)",
+        "url": "https://www.youtube.com/@bonappetit",
+        "quote": "A full day on the line with Chris Leach on whole-animal butchery"
       }
     ]
   },
@@ -25477,11 +25488,12 @@
     "name": "E. Pellicci",
     "topics": [
       "british",
-      "cheap-eats"
+      "cheap-eats",
+      "italian"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
+    "sourceCount": 5,
+    "tierSpread": "B2 C1 D2",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -25493,6 +25505,12 @@
       "cheap-eats": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "italian": {
+        "sourceCount": 2,
+        "tierSpread": "D2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -25512,6 +25530,17 @@
         "tier": "C",
         "source": "British Food Crew",
         "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats"
+      },
+      {
+        "tier": "D",
+        "source": "Munchies (YouTube)",
+        "url": "https://www.youtube.com/@Munchies",
+        "quote": "Family-owned since 1900 in Bethnal Green"
       }
     ]
   },
@@ -29729,101 +29758,6 @@
       }
     ]
   },
-  "seealloffers": {
-    "name": "See all offers",
-    "topics": [
-      "british",
-      "general",
-      "ice-cream",
-      "italian",
-      "korean",
-      "late-night",
-      "mexican",
-      "seafood",
-      "spanish",
-      "steak",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
   "hotdinnersrecommends": {
     "name": "Hot Dinners recommends",
     "topics": [
@@ -33399,7 +33333,8 @@
     "topics": [
       "british",
       "dessert",
-      "general"
+      "general",
+      "italian"
     ],
     "sourceCount": 5,
     "tierSpread": "B2 C2 D1",
@@ -33419,6 +33354,12 @@
         "hasAward": false
       },
       "general": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "italian": {
         "sourceCount": 1,
         "tierSpread": "D1",
         "tierCount": 1,
@@ -36656,10 +36597,10 @@
       "general",
       "italian"
     ],
-    "sourceCount": 8,
-    "tierSpread": "B6 C2",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 11,
+    "tierSpread": "A1 B6 C2 D2",
+    "tierCount": 4,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 2,
@@ -36674,13 +36615,19 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 5,
-        "tierSpread": "B4 C1",
-        "tierCount": 2,
-        "hasAward": false
+        "sourceCount": 8,
+        "tierSpread": "A1 B4 C1 D2",
+        "tierCount": 4,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide"
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -36720,6 +36667,17 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-italian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97",
+        "quote": "The £328 end of the same comparison - a single pasta dish at £56"
+      },
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
       }
     ]
   },
@@ -37084,129 +37042,6 @@
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
-      }
-    ]
-  },
-  "privacynotice": {
-    "name": "Privacy notice",
-    "topics": [
-      "british",
-      "burgers",
-      "chinese",
-      "coffee",
-      "dessert",
-      "dim-sum",
-      "fish-and-chips",
-      "french",
-      "general",
-      "italian",
-      "japanese",
-      "middle-eastern",
-      "new-openings",
-      "steak",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dessert": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -42111,9 +41946,9 @@
       "general",
       "italian"
     ],
-    "sourceCount": 9,
-    "tierSpread": "B6 C3",
-    "tierCount": 2,
+    "sourceCount": 10,
+    "tierSpread": "B6 C3 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -42129,9 +41964,9 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 8,
-        "tierSpread": "B5 C3",
-        "tierCount": 2,
+        "sourceCount": 9,
+        "tierSpread": "B5 C3 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -42180,6 +42015,11 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-italian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
       }
     ]
   },
@@ -51806,16 +51646,23 @@
   "pastation": {
     "name": "PaStation",
     "topics": [
-      "cheap-eats"
+      "cheap-eats",
+      "italian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "cheap-eats": {
         "sourceCount": 1,
         "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -51825,6 +51672,12 @@
         "tier": "C",
         "source": "So What's The Sitch",
         "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97",
+        "quote": "The £6 end of a cheap-versus-expensive comparison; pasta from £5.95"
       }
     ]
   },
@@ -55524,8 +55377,7 @@
     "name": "London by the MICHELIN Guide",
     "topics": [
       "chinese",
-      "general",
-      "italian"
+      "general"
     ],
     "sourceCount": 1,
     "tierSpread": "A1",
@@ -55539,12 +55391,6 @@
         "hasAward": true
       },
       "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "italian": {
         "sourceCount": 1,
         "tierSpread": "A1",
         "tierCount": 1,
@@ -55563,8 +55409,7 @@
     "name": "MICHELIN Guide Plus",
     "topics": [
       "chinese",
-      "general",
-      "italian"
+      "general"
     ],
     "sourceCount": 1,
     "tierSpread": "A1",
@@ -55578,12 +55423,6 @@
         "hasAward": true
       },
       "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "italian": {
         "sourceCount": 1,
         "tierSpread": "A1",
         "tierCount": 1,
@@ -85321,9 +85160,9 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -85358,9 +85197,9 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
+        "sourceCount": 5,
+        "tierSpread": "B3 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -85398,8 +85237,8 @@
       "general",
       "italian"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C2 D1",
+    "sourceCount": 6,
+    "tierSpread": "B1 C2 D3",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -85410,9 +85249,9 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
+        "sourceCount": 5,
+        "tierSpread": "B1 C1 D3",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -85436,6 +85275,16 @@
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
+      },
+      {
+        "tier": "D",
+        "source": "London Foodies (YouTube)",
+        "url": "https://www.youtube.com/@LondonFoodies"
       }
     ]
   },
@@ -85458,9 +85307,9 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 D1",
+        "tierCount": 2,
         "hasAward": false
       },
       "pizza": {
@@ -85967,9 +85816,9 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "B3 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -85999,7 +85848,8 @@
   "lamiamamma": {
     "name": "La Mia Mamma",
     "topics": [
-      "general"
+      "general",
+      "italian"
     ],
     "sourceCount": 1,
     "tierSpread": "D1",
@@ -86007,6 +85857,12 @@
     "hasAward": false,
     "byTopic": {
       "general": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "italian": {
         "sourceCount": 1,
         "tierSpread": "D1",
         "tierCount": 1,
@@ -88631,9 +88487,9 @@
       "general",
       "italian"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "B2 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "general": {
@@ -88643,9 +88499,9 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
+        "sourceCount": 4,
+        "tierSpread": "B2 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -88664,6 +88520,11 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/bib-gourmands-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
       }
     ]
   },
@@ -88812,9 +88673,9 @@
       "general",
       "italian"
     ],
-    "sourceCount": 8,
-    "tierSpread": "B5 C3",
-    "tierCount": 2,
+    "sourceCount": 9,
+    "tierSpread": "B5 C3 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "general": {
@@ -88824,9 +88685,9 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 8,
-        "tierSpread": "B5 C3",
-        "tierCount": 2,
+        "sourceCount": 9,
+        "tierSpread": "B5 C3 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -88870,6 +88731,11 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-italian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Sorted Food (YouTube)",
+        "url": "https://www.youtube.com/@SortedFood"
       }
     ]
   },
@@ -98201,15 +98067,15 @@
     "topics": [
       "italian"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B4",
-    "tierCount": 1,
+    "sourceCount": 5,
+    "tierSpread": "B4 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "italian": {
-        "sourceCount": 4,
-        "tierSpread": "B4",
-        "tierCount": 1,
+        "sourceCount": 5,
+        "tierSpread": "B4 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -98233,6 +98099,11 @@
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/best-pasta-restaurants-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
       }
     ]
   },
@@ -98400,19 +98271,25 @@
     "topics": [
       "italian"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "italian": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 C1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide"
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -98956,15 +98833,15 @@
     "topics": [
       "italian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -98973,6 +98850,11 @@
         "tier": "B",
         "source": "Country & Town House",
         "url": "https://www.countryandtownhouse.com/food-and-drink/best-italian-restaurants-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
       }
     ]
   },
@@ -99235,19 +99117,25 @@
     "topics": [
       "italian"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "italian": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
+        "sourceCount": 4,
+        "tierSpread": "A1 B2 C1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide"
+      },
       {
         "tier": "B",
         "source": "The Infatuation",
@@ -100281,15 +100169,15 @@
     "topics": [
       "italian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -100298,6 +100186,11 @@
         "tier": "B",
         "source": "The Sauce",
         "url": "https://thesaucemag.com/best-italian-restaurants-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Food Review Club (YouTube)",
+        "url": "https://www.youtube.com/@FoodReviewClubUK"
       }
     ]
   },
@@ -101420,15 +101313,15 @@
     "topics": [
       "italian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -101437,6 +101330,11 @@
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/best-pasta-restaurants-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Sorted Food (YouTube)",
+        "url": "https://www.youtube.com/@SortedFood"
       }
     ]
   },
@@ -101445,15 +101343,15 @@
     "topics": [
       "italian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -101462,6 +101360,11 @@
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/best-pasta-restaurants-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats"
       }
     ]
   },
@@ -101520,15 +101423,15 @@
     "topics": [
       "italian"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
+    "sourceCount": 3,
+    "tierSpread": "B1 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "italian": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -101542,6 +101445,11 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-italian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
       }
     ]
   },
@@ -101550,15 +101458,15 @@
     "topics": [
       "italian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -101567,6 +101475,11 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-italian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "The Tailoring Talk Magazine (YouTube)",
+        "url": "https://www.youtube.com/@TailoringTalkMagazine"
       }
     ]
   },
@@ -101686,15 +101599,15 @@
     "topics": [
       "italian"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
+    "sourceCount": 3,
+    "tierSpread": "B1 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "italian": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -101710,6 +101623,12 @@
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/Gastroblog/Test-drive/circolo-poplare-big-mamma-london-restaurant-review-italian-fitzrovia-oxford-street",
         "quote": "Big Mamma are onto a huge hit - amazing design, friendly staff, really good food despite doing things to excess"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw",
+        "quote": "Opens their four-restaurant Italian episode"
       }
     ]
   },
@@ -102288,31 +102207,6 @@
       }
     ]
   },
-  "cookiesontheandyhaylerwebsite": {
-    "name": "cookies on the andy hayler website",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Andy Hayler",
-        "url": "https://www.andyhayler.com/restaurant/al-boccon-divino"
-      }
-    ]
-  },
   "muccis": {
     "name": "Mucci's",
     "topics": [
@@ -102351,6 +102245,106 @@
         "tier": "C",
         "source": "Time & Leisure",
         "url": "https://timeandleisure.co.uk/food/muccis-chelsea/"
+      }
+    ]
+  },
+  "bonvino": {
+    "name": "Bon Vino",
+    "topics": [
+      "italian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
+      }
+    ]
+  },
+  "ilpampero": {
+    "name": "Il Pampero",
+    "topics": [
+      "italian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
+      }
+    ]
+  },
+  "isolabysancarlo": {
+    "name": "Isola by San Carlo",
+    "topics": [
+      "italian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
+      }
+    ]
+  },
+  "francos": {
+    "name": "Franco's",
+    "topics": [
+      "italian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Sorted Food (YouTube)",
+        "url": "https://www.youtube.com/@SortedFood"
       }
     ]
   },

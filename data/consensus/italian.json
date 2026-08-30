@@ -93,13 +93,21 @@
       ]
     },
     {
-      "name": "Michelin Guide",
-      "url": "https://guide.michelin.com/gb/en/best-of/the-best-italian-restaurants-in-london",
+      "name": "Michelin Guide 2026 (Italian, Greater London)",
+      "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+      "scope": "italian",
       "names": [
-        "London by the MICHELIN Guide",
-        "MICHELIN Guide Plus"
+        "Luca",
+        "Murano",
+        "River Café"
       ],
-      "note": "JS-rendered - needs manual extraction, plain fetch returns template placeholders"
+      "quotes": {
+        "Luca": "1 Michelin star in the 2026 guide",
+        "Murano": "1 Michelin star in the 2026 guide",
+        "River Café": "1 Michelin star in the 2026 guide"
+      },
+      "recorded": "2026-08-30",
+      "_note": "Read from the Wikipedia substitute named in data/sources.json blocked.substitutes, 2026 column only. Locanda Locatelli appears in that table but closed January 2025."
     },
     {
       "name": "Eater London",
@@ -629,6 +637,130 @@
       "quotes": {
         "Locanda Locatelli": "CLOSED January 2025 after 23 years - do not recommend"
       }
+    },
+    {
+      "name": "TOPJAW (YouTube)",
+      "url": "https://www.youtube.com/@topjaw",
+      "scope": "italian",
+      "names": [
+        "Circolo Popolare",
+        "Bancone",
+        "Bon Vino",
+        "Flour & Grape"
+      ],
+      "quotes": {
+        "Circolo Popolare": "Opens their four-restaurant Italian episode"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Harrison Webb (YouTube)",
+      "url": "https://www.youtube.com/@HarrisonWebb97",
+      "scope": "italian",
+      "names": [
+        "PaStation",
+        "Luca",
+        "Al Dente",
+        "Noci",
+        "Lina Stores",
+        "Bancone",
+        "La Mia Mamma",
+        "Cecconi's",
+        "Pophams"
+      ],
+      "quotes": {
+        "PaStation": "The £6 end of a cheap-versus-expensive comparison; pasta from £5.95",
+        "Luca": "The £328 end of the same comparison - a single pasta dish at £56"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Ugo Arinzeh (YouTube)",
+      "url": "https://www.youtube.com/@UgoArinzeh",
+      "scope": "italian",
+      "names": [
+        "Il Pampero",
+        "Trullo",
+        "Ciao Bella",
+        "Luca",
+        "Bardo St James's",
+        "Artusi",
+        "Isola by San Carlo",
+        "Manteca"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Bon Appétit (YouTube)",
+      "url": "https://www.youtube.com/@bonappetit",
+      "scope": "italian",
+      "names": [
+        "Manteca"
+      ],
+      "quotes": {
+        "Manteca": "A full day on the line with Chris Leach on whole-animal butchery"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Sorted Food (YouTube)",
+      "url": "https://www.youtube.com/@SortedFood",
+      "scope": "italian",
+      "names": [
+        "Padella",
+        "Franco's",
+        "Emilia's"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Gary Eats (YouTube)",
+      "url": "https://www.youtube.com/@GaryEats",
+      "scope": "italian",
+      "names": [
+        "E Pellicci",
+        "Jacuzzi"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Munchies (YouTube)",
+      "url": "https://www.youtube.com/@Munchies",
+      "scope": "italian",
+      "names": [
+        "E Pellicci"
+      ],
+      "quotes": {
+        "E Pellicci": "Family-owned since 1900 in Bethnal Green"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Food Review Club (YouTube)",
+      "url": "https://www.youtube.com/@FoodReviewClubUK",
+      "scope": "italian",
+      "names": [
+        "40 Dean Street"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "The Tailoring Talk Magazine (YouTube)",
+      "url": "https://www.youtube.com/@TailoringTalkMagazine",
+      "scope": "italian",
+      "names": [
+        "Casa Tua"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "London Foodies (YouTube)",
+      "url": "https://www.youtube.com/@LondonFoodies",
+      "scope": "italian",
+      "names": [
+        "Bancone"
+      ],
+      "recorded": "2026-08-30"
     }
   ],
   "recorded": "2026-08-25",

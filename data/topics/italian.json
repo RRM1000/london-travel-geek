@@ -1,0 +1,196 @@
+{
+  "topic": "italian",
+  "article": "src/content/articles/best-italian-restaurants-london.md",
+  "headTerm": "Italian Restaurants",
+  "status": "corpus healthy; Michelin re-sourced and video tier collected 2026-08-30; article rewrite outstanding",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. Italian arrived in far better shape than Indian - 37 editorial sources with almost no junk. Only three chrome names needed removing.",
+  "awardBodies": [
+    {
+      "name": "Michelin Guide",
+      "domain": "guide.michelin.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "Permanently 403 to the fetcher. Read the 2026 column of the Wikipedia substitute in data/sources.json blocked.substitutes and ATTRIBUTE to guide.michelin.com - filing it under en.wikipedia.org tiers the award B. Three current Italian stars: Luca, Murano, River Cafe. Locanda Locatelli holds one in the table but closed January 2025 and is in data/closed.json."
+    },
+    {
+      "name": "Gambero Rosso",
+      "domain": "gamberorossointernational.com",
+      "tier": "A",
+      "note": "The Italian authority on Italian restaurants abroad. Already registered."
+    },
+    {
+      "name": "Harden's",
+      "domain": "hardens.com",
+      "tier": "A",
+      "note": "Reader survey at scale rather than a panel - dated and ranked, so tier A, but a different kind of judgement."
+    },
+    {
+      "name": "The Good Food Guide",
+      "domain": "thegoodfoodguide.co.uk",
+      "tier": "A"
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "tier": "B"
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "tier": "B"
+    },
+    {
+      "name": "Country & Town House",
+      "domain": "countryandtownhouse.com",
+      "tier": "B"
+    },
+    {
+      "name": "Eater London",
+      "domain": "london.eater.com",
+      "tier": "B"
+    },
+    {
+      "name": "The Handbook",
+      "domain": "thehandbook.com",
+      "tier": "B",
+      "note": "Recorded via their best-pasta list."
+    },
+    {
+      "name": "Shortlist",
+      "domain": "shortlist.com",
+      "tier": "B"
+    },
+    {
+      "name": "Hot Dinners",
+      "domain": "hot-dinners.com",
+      "tier": "C"
+    },
+    {
+      "name": "The Nudge",
+      "domain": "thenudge.com",
+      "tier": "C",
+      "note": "Two lists recorded - best Italian and best fresh pasta. One domain, one opinion."
+    },
+    {
+      "name": "The Sauce Mag",
+      "domain": "thesaucemag.com",
+      "tier": "C"
+    },
+    {
+      "name": "Lux Life London",
+      "domain": "luxlifelondon.com",
+      "tier": "C"
+    },
+    {
+      "name": "Balance Journal",
+      "domain": "balancejournal.co",
+      "tier": "C"
+    },
+    {
+      "name": "Garum",
+      "domain": "garum.co.uk",
+      "tier": "C"
+    },
+    {
+      "name": "Andy Hayler",
+      "domain": "andyhayler.com",
+      "tier": "C"
+    }
+  ],
+  "facetAxis": {
+    "note": "Italian splits two ways at once, like Indian: by REGION and by FORMAT. The existing article uses both and should keep doing so - a Sicilian trattoria and a Sicilian fine-dining room are not substitutes.",
+    "axes": [
+      {
+        "field": "region",
+        "values": [
+          {
+            "key": "sicilian",
+            "label": "Sicilian"
+          },
+          {
+            "key": "roman",
+            "label": "Roman"
+          },
+          {
+            "key": "neapolitan",
+            "label": "Neapolitan and Campanian"
+          },
+          {
+            "key": "tuscan",
+            "label": "Tuscan and Florentine"
+          },
+          {
+            "key": "piedmontese",
+            "label": "Piedmontese"
+          },
+          {
+            "key": "milanese",
+            "label": "Milanese and Lombard"
+          },
+          {
+            "key": "pan-italian",
+            "label": "Pan-Italian and modern"
+          }
+        ]
+      },
+      {
+        "field": "format",
+        "values": [
+          {
+            "key": "pasta-bar",
+            "label": "Pasta bar",
+            "describeAs": "counter seating, short menu, usually a queue"
+          },
+          {
+            "key": "trattoria",
+            "label": "Trattoria"
+          },
+          {
+            "key": "fine-dining",
+            "label": "Fine dining"
+          },
+          {
+            "key": "deli",
+            "label": "Deli and counter"
+          },
+          {
+            "key": "big-room",
+            "label": "Big room",
+            "describeAs": "booked for the theatre of it as much as the food"
+          }
+        ]
+      }
+    ]
+  },
+  "formatSection": {
+    "title": "Pasta bar or trattoria",
+    "note": "The split a reader needs. A Padella queue and a Sale e Pepe booking are both 'Italian in London' and completely different evenings."
+  },
+  "videoTier": {
+    "collected": "2026-08-30",
+    "channels": 10,
+    "names": 31,
+    "costUsd": "~0.10",
+    "notRecorded": "@RestroSpot, @ApricotWanderers, @FoodiezTV, @londonplacestoeat9892 and @italianexploringfood9327 named nothing extractable. Conde Nast Traveler's Angela Hartnett film names Quo Vadis and The French House, which are not Italian restaurants. TOPJAW's general 'Where Chefs Eat' film is not an Italian list; only their Italian episode is recorded."
+  },
+  "articleRewriteNeeded": [
+    "11 venues meet the bar and are absent from the article: Ciao Bella (5), Noci (4), Artusi (4), Legare (4), Flour and Grape (3), Trattoria Brutto, Bardo St James's, 40 Dean Street, Emilia's, Casa Tua.",
+    "7 article entries have thin or no Italian support: Langosteria London, Campania & Jones, Ornella and Cafe Murano are not in the Italian corpus at all; Sale e Pepe Mare and Macellaio RC sit on one source. Bar Etna is in the corpus but under the PIZZA topic, not Italian - do not print an Italian count for it.",
+    "The article predates the evidence block, the citation lines and /how-we-rank/."
+  ],
+  "knownGaps": [
+    "No community tier (E). Same gap as pizza and Indian - Reddit is blocked to curl and to the browser pane, and two Apify attempts on the Indian pass returned nothing usable.",
+    "First Seen is a real per-slug date as of 2026-08-30, so a new-openings section is derivable from now on. Rows predating the fix all read 2026-08-17, when the registry started."
+  ],
+  "currentState": {
+    "recorded": "2026-08-30",
+    "sources": 47,
+    "citations": 380,
+    "venues": 221,
+    "twoPlusDomains": 45,
+    "tierA": 28,
+    "meetingTheBar": 30
+  }
+}
