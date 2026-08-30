@@ -33,8 +33,10 @@ The city has the deepest omakase scene outside Japan and a thinner budget end th
 
 > 💡 **The Short Version:** **Sushi Tetsu** is the hardest table in London and worth the effort. **Sushi Atelier** is the best-value serious counter. **Roka** and **Zuma** invented the London izakaya template and still do it best. **Jin Kichi** in Hampstead is the value pick nobody writes about enough. **Umu** is the only proper Kyoto kaiseki in the city.
 
-> 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Prices at counters move with sourcing; treat the figures here as indicative and confirm when booking.
+> 📊 **The evidence behind this guide**
+> Nothing here is ranked on one visit. This pass reads **12 sources carrying 163 citations** across **114 named restaurants** — the Michelin Guide, the editorial mastheads (Time Out, The Infatuation, Country & Town House) and eight specialists, several of which cover only ramen or only omakase. **28 restaurants are named by two or more independent sources; 5 hold a Michelin star.**
+> **The known weakness in this topic:** the sources are format-siloed. Half of them write about one thing — ramen, or omakase, or izakaya — so a restaurant that does two of those is counted by more publications than one that does a single thing better. Michelin is the only judged source and reaches five kitchens, all of them sushi or high-end.
+> *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
 
@@ -62,7 +64,7 @@ Omakase means the chef chooses. You sit at the counter, courses arrive in sequen
 
 ### Sushi Tetsu, Clerkenwell
 
-*££££ · seven seats · the hardest table in London*
+*££££ · seven seats · the hardest table in London* · Cited by 3 sources
 
 Toru Takahashi and his wife Harumi run **seven seats** at a pale hinoki counter in a Clerkenwell alley. Tables release in batches and go in minutes. Nothing else in London is this small or this precise.
 
@@ -72,25 +74,25 @@ Toru Takahashi and his wife Harumi run **seven seats** at a pale hinoki counter 
 
 ### The Araki, Mayfair
 
-*££££ · around £310 · two sittings a night*
+*££££ · around £310 · two sittings a night* · Cited by 2 sources
 
 A no-choice menu built on rare ingredients, served to a handful of people in two sittings. The most expensive meal on this site, and unapologetic about it.
 
 ### Sushi Kanesaka, Mayfair
 
-*££££ · 45 Park Lane · thirteen covers*
+*££££ · 45 Park Lane · thirteen covers* · Cited by 4 sources
 
 Nine seats at the counter and four in a private room, inside 45 Park Lane. Omakase only, in the Ginza tradition.
 
 ### Sushi Atelier, Fitzrovia
 
-*£££ · 7 min from Oxford Circus · the value pick*
+*£££ · 7 min from Oxford Circus · the value pick* · Cited by 3 sources
 
 Repeatedly named **the best-value serious omakase in central London** — the same counter discipline as the Mayfair rooms without the Mayfair number. This is the one to book if you want to understand what the fuss is about.
 
 ### Kurisu Omakase, Brixton
 
-*££££ · eighteen courses*
+*££££ · eighteen courses* · Cited by 1 source
 
 Chris Restrepo runs Japanese technique through his Thai-Colombian background across eighteen courses. The most interesting counter outside the centre.
 
@@ -102,7 +104,7 @@ Chris Restrepo runs Japanese technique through his Thai-Colombian background acr
 
 ### Umu, Mayfair
 
-*££££ · 7 min from Green Park*
+*££££ · 7 min from Green Park* · Cited by 3 sources
 
 **Kaiseki in the Kyoto tradition** — a fixed seasonal progression rather than a sushi counter, which makes it a genuinely different meal from everything above.
 
@@ -112,13 +114,13 @@ Chris Restrepo runs Japanese technique through his Thai-Colombian background acr
 
 ### Engawa, Soho
 
-*££££ · 2 min from Piccadilly Circus*
+*££££ · 2 min from Piccadilly Circus* · Cited by 2 sources
 
 Built around certified **Kobe beef**, which very few London kitchens are licensed to serve. The sushi is good; the beef is the reason.
 
 ### Dinings SW3, Chelsea
 
-*££££ · the most-cited Japanese room in London*
+*££££ · the most-cited Japanese room in London* · Cited by 5 sources
 
 Izakaya-scale plates done at sushi-counter precision. Turns up across more independent guides than any other Japanese restaurant here.
 
@@ -130,7 +132,7 @@ The Japanese pub format — small plates and grilled skewers, ordered across the
 
 ### Roka, Fitzrovia
 
-*££££ · 5 min from Goodge Street*
+*££££ · 5 min from Goodge Street* · Cited by 1 source
 
 The **robata grill sits in the middle of the room** and everything comes off it. Open since 2003 and still the template. Black cod on a hoba leaf is the order.
 
@@ -140,19 +142,19 @@ The **robata grill sits in the middle of the room** and everything comes off it.
 
 ### Zuma, Knightsbridge
 
-*££££ · 2 min from Knightsbridge*
+*££££ · 2 min from Knightsbridge* · Cited by 2 sources
 
 Opened in 2002 and effectively invented the London model for informal, izakaya-inspired Japanese dining. Everything since has been measured against it.
 
 ### The Aubrey, Knightsbridge
 
-*££££ · inside the Mandarin Oriental*
+*££££ · inside the Mandarin Oriental* · Cited by 2 sources
 
 A maximalist take on a Ginza night out — closer to a bar with exceptional food than a restaurant with a bar.
 
 ### Jin Kichi, Hampstead
 
-*£££ · 2 min from Hampstead*
+*£££ · 2 min from Hampstead* · Cited by 1 source
 
 A small family-run izakaya on Heath Street doing **charcoal yakitori at prices that have never caught up with its reputation**. The best-value serious Japanese meal in London.
 
@@ -166,19 +168,19 @@ A small family-run izakaya on Heath Street doing **charcoal yakitori at prices t
 
 ### Nobu Old Park Lane, Mayfair
 
-*££££ · the original*
+*££££ · the original* · Cited by 2 sources
 
 The room that put **miso black cod** on menus worldwide, co-founded by Nobu Matsuhisa with Robert De Niro. Nobu Portman Square is the newer, calmer one.
 
 ### SUSHISAMBA, City of London and Covent Garden
 
-*££££ · 39th floor*
+*££££ · 39th floor* · Cited by 2 sources
 
 An orange tree growing through an open-air terrace on the 39th floor of Heron Tower — the highest outdoor dining in the City. A second site sits on the Opera Terrace above Covent Garden Market.
 
 ### Los Mochis, Notting Hill
 
-*££££ · Japanese-Mexican*
+*££££ · Japanese-Mexican* · Cited by 1 source
 
 Sashimi and maki on the same menu as ceviche, tiradito and tacos. Sounds like a gimmick, is not.
 
@@ -190,7 +192,7 @@ The part of Japanese London that has improved most in the last decade, and the p
 
 ### Kanada-Ya, Covent Garden
 
-*£ · no bookings*
+*£ · no bookings* · Cited by 4 sources
 
 **Tonkotsu broth simmered for eighteen hours** and no bookings, which is why there is usually a queue on St Giles High Street. The original London site and still the benchmark for pork-bone ramen here.
 
@@ -198,13 +200,13 @@ Order the extra chashu. The queue moves faster than it looks.
 
 ### Monohon Ramen, Old Street
 
-*£ · walk-in*
+*£ · walk-in* · Cited by 4 sources
 
 The specialist's choice, doing a lighter, cleaner broth than the tonkotsu shops — and taken seriously enough by ramen obsessives to be the name that comes up when you ask them rather than a magazine.
 
 ### Ramo Ramen, Kentish Town
 
-*££ · Filipino-Japanese*
+*££ · Filipino-Japanese* · Cited by 2 sources
 
 **Filipino-Japanese ramen**, which sounds like a fusion gimmick and is actually a coherent tradition — sisig, kare-kare and adobo flavours built into a ramen framework.
 
@@ -212,13 +214,13 @@ The most interesting noodle bowl in London and not much like anything else on th
 
 ### Koya Ko, Bloomsbury
 
-*£ · udon*
+*£ · udon* · Cited by 2 sources
 
 Hand-cut **udon** rather than ramen, in a broth made to order, from the Koya group. The udon is thicker and chewier than the supermarket version by a wide margin, and the breakfast service is one of London's quiet bargains.
 
 ### Cocoro, Bloomsbury
 
-*££ · Japanese home cooking*
+*££ · Japanese home cooking* · Cited by 2 sources
 
 Neither sushi counter nor ramen shop — **everyday Japanese home cooking**, donburi and set meals, which is the category London has least of and needs most.
 

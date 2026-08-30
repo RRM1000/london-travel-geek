@@ -33,8 +33,10 @@ Arranged **by tradition**, because that is what actually determines the meal.
 
 > 💡 **The Short Version:** **Al Waha** is the Lebanese room the guides agree on. **The Barbary** is the best seat in London if you like watching food cooked. **Mangal 2** in Dalston is the most inventive Turkish kitchen in Britain. **Akub** is the only serious Palestinian restaurant here. And **Pilpel** does the best £8 lunch in the City.
 
-> 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. We treat Turkish, Persian and Greek as their own cuisines rather than folding them into a single "Middle Eastern" bin — published lists mix all of them and it makes the category useless.
+> 📊 **The evidence behind this guide**
+> Nothing here is ranked on one visit. This page reads three separate corpora, because these are three separate cuisines that London menus file together: **Middle Eastern — 14 sources, 177 citations across 103 restaurants, 37 named twice or more**; **Turkish — 7 sources, 101 citations across 56 restaurants, 27 named twice or more**; **Greek — 5 sources, 67 citations across 42 restaurants, 14 named twice or more**. Every count below comes from the venue's own cuisine, never from another.
+> **The known weakness in this topic: nothing here has been judged.** Across all three cuisines there is one inspected source, Harden's, and it reaches three Turkish restaurants. No Michelin star, no category award, no annual prize. The Middle Eastern corpus is also fourteen records but only **nine publications** — The Infatuation and Time Out each publish three London guides in this space and they count once each.
+> *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
 
@@ -58,37 +60,37 @@ Arranged **by tradition**, because that is what actually determines the meal.
 
 ### Al Waha, Bayswater
 
-*£££ · 7 min from Bayswater · the consensus pick*
+*£££ · 7 min from Bayswater · the consensus pick* · Cited by 4 sources
 
 The most-cited Lebanese room in London across independent guides — white walls, hanging foliage, and mezze taken seriously rather than as a warm-up. Quietly excellent for years.
 
 ### The Barbary, Covent Garden
 
-*£££ · Neal's Yard · about twenty seats*
+*£££ · Neal's Yard · about twenty seats* · Cited by 1 source
 
 A **horseshoe counter wrapped around an open grill** in Neal's Yard, seating around twenty. You watch every plate being made. No bookings for most of the counter — turn up and wait.
 
 ### Akub, Notting Hill
 
-*££££ · 3 min from Notting Hill Gate*
+*££££ · 3 min from Notting Hill Gate* · Cited by 4 sources
 
 Fadi Kattan opened Fawda in Bethlehem before bringing **Palestinian cooking** to a Notting Hill townhouse. Almost nothing else in London attempts this at any level.
 
 ### Imad's Syrian Kitchen, Soho
 
-*£££ · Kingly Court*
+*£££ · Kingly Court* · Cited by 4 sources
 
 Imad Alarnab cooked his way from Damascus to a Kingly Court balcony. Syrian home cooking, and the story is genuine rather than marketing.
 
 ### Em Sherif at Harrods, Knightsbridge
 
-*££££ · a set menu in sequence*
+*££££ · a set menu in sequence* · Cited by 3 sources
 
 The Beirut group's London outpost — a set Lebanese menu served in waves rather than a list you order from. Expensive, and deliberately theatrical.
 
 ### Freej Swaileh, Knightsbridge
 
-*£££ · Kuwaiti*
+*£££ · Kuwaiti* · Cited by 2 sources
 
 One of very few **Kuwaiti** kitchens in London — machboos and kabsa rather than the Levantine mezze everywhere else does.
 
@@ -110,7 +112,7 @@ A meyhane in the style of Istanbul and north Cyprus, in the building used as Bri
 
 ### Ishtar, Marylebone and Lokal, Fitzrovia
 
-*£££ · central and reliable*
+*£££ · central and reliable* · Cited by 2 Turkish sources
 
 Ishtar is the long-running Marylebone room with a mezze list built for a table that wants to stay put. Lokal is the modern counterpart, with counter dining and a cocktail bar.
 
@@ -120,31 +122,31 @@ Ishtar is the long-running Marylebone room with a mezze list built for a table t
 
 ### OPSO, Marylebone
 
-*£££ · 8 min from Baker Street*
+*£££ · 8 min from Baker Street* · Cited by 4 Greek sources
 
 Greek small plates reworked with restaurant technique — the room most responsible for London taking modern Greek cooking seriously.
 
 ### Oma and Pyro, Borough
 
-*££££ / £££ · London Bridge*
+*££££ / £££ · London Bridge* · Cited by 3 Greek sources
 
 Oma cooks Greek food over fire at serious prices, upstairs from its own more casual sibling. Pyro is Yiannis Mexis' first restaurant, built around an open fire — the potato pittas with smoked aubergine are the dish.
 
 ### Kima, Marylebone
 
-*££££ · whole fish*
+*££££ · whole fish* · Cited by 2 Greek sources
 
 Greek **seafood** treated at fine-dining level, which almost nothing else in London does.
 
 ### Vori, Holland Park
 
-*£££ · the wine list*
+*£££ · the wine list* · Cited by 2 Greek sources
 
 The only wine list in London built entirely on **indigenous Greek varieties**, in a Holland Park Avenue taverna.
 
 ### Mazi and Zephyr, Notting Hill
 
-*£££ · garden and photographs*
+*£££ · garden and photographs* · Cited by 3 Greek sources
 
 Mazi treats the classics as a starting point and has a garden at the back. Zephyr, from the Pachamama group, is one of the most photographed rooms in west London.
 
@@ -156,13 +158,13 @@ Mezze is vegetable-led by tradition, which makes this the easiest category on th
 
 ### Rovi, Fitzrovia
 
-*£££ · Ottolenghi group*
+*£££ · Ottolenghi group* · Cited by 1 source
 
 The **fermentation-and-fire** room, where vegetables go on the grill and get the treatment meat usually gets. The best of its kind in London.
 
 ### Bubala, Spitalfields
 
-*£££ · entirely vegetarian*
+*£££ · entirely vegetarian* · Cited by 5 sources
 
 Middle Eastern small plates, entirely vegetarian, and busy enough that nobody books it as a concession.
 
@@ -178,7 +180,7 @@ The window display of salads and cakes is the London original. Communal tables b
 
 ### Berber & Q, Haggerston
 
-*£££ · a railway arch*
+*£££ · a railway arch* · Cited by 2 sources
 
 Charcoal and smoke — lamb shawarma and the **whole roast cauliflower** off the same grill.
 
@@ -190,7 +192,7 @@ Charcoal and smoke — lamb shawarma and the **whole roast cauliflower** off the
 
 ### Imad's Syrian Kitchen, Soho — Syrian
 
-*££ · Top Floor, Kingly Court · Michelin Bib Gourmand*
+*££ · Top Floor, Kingly Court · Michelin Bib Gourmand* · Cited by 4 sources
 
 **Damascene cooking**, and a **Michelin Bib Gourmand for 2026**, from a restaurateur who lost a Damascus business to the war, crossed six countries, and spent 64 nights sleeping on the steps of a church in Calais cooking for the people around him.
 
@@ -198,13 +200,13 @@ He ran his first London pop-up on Columbia Road in 2017 and moved to this Kingly
 
 ### Berenjak, Soho — Persian
 
-*££ · 27 Romilly Street · also Borough Market*
+*££ · 27 Romilly Street · also Borough Market* · Cited by 3 sources
 
 Modelled on **Tehran's hole-in-the-wall kabab houses**, from Kian Samyani. Charcoal kabab and mazeh small plates, in a room deliberately built to feel like a working grill rather than a restaurant.
 
 ### Nandine, Camberwell — Kurdish
 
-*££ · 82 Vestry Road · also Camberwell Church Street*
+*££ · 82 Vestry Road · also Camberwell Church Street* · Cited by 3 sources
 
 **The only Kurdish kitchen of any profile in London.** Pary Baban came to the UK from Kurdistan in 1995 after displacement under Saddam Hussein, started selling Kurdish food at Elephant & Castle in 2007, and opened Nandine in 2016.
 
@@ -212,7 +214,7 @@ Modelled on **Tehran's hole-in-the-wall kabab houses**, from Kian Samyani. Charc
 
 ### The Palomar, Soho — Jerusalem
 
-*£££ · 34 Rupert Street · Bib Gourmand since 2014*
+*£££ · 34 Rupert Street · Bib Gourmand since 2014* · Cited by 3 sources
 
 The Soho counter that made **modern Jerusalem cooking** mainstream in London, open since 2014 and holding a Bib Gourmand from the start. Its own description is "Eastern Mediterranean" rather than a national label.
 
@@ -220,19 +222,19 @@ The **Sunday set lunch is £30 a head**, which for this kitchen is the value on 
 
 ### Palmyra's Kitchen, Finsbury Park — Syrian and Lebanese
 
-*££ · 5–7 Wells Terrace · open to midnight*
+*££ · 5–7 Wells Terrace · open to midnight* · Cited by 2 sources
 
 Named for Palmyra deliberately, to put Syrian cooking in the foreground. Mezze platters, charcoal-grilled meats and stews, served until midnight every day, with a second site round the corner on Clifton Terrace.
 
 ### Maramia Cafe, Golborne Road — Palestinian
 
-*££ · 48 Golborne Road · closed Mondays*
+*££ · 48 Golborne Road · closed Mondays* · Cited by 2 sources
 
 **Palestinian home cooking** on Golborne Road, all day, with set-menu nights and live music on Fridays and Saturdays. A second site sits on Portobello Road.
 
 ### Meza, Tooting — Lebanese
 
-*££ · 34 Trinity Road*
+*££ · 34 Trinity Road* · Cited by 3 sources
 
 A tiny, long-running Lebanese mezze room in Tooting, and the sort of place that survives on regulars rather than reviews.
 

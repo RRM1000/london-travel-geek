@@ -110516,14 +110516,14 @@
     "topics": [
       "middle-eastern"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
+    "sourceCount": 3,
+    "tierSpread": "B3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "middle-eastern": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
+        "sourceCount": 3,
+        "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
       }
@@ -110533,6 +110533,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-lebanese-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-lebanese-restaurants"
       },
       {
         "tier": "B",
@@ -111238,31 +111243,6 @@
   },
   "zeitandzaatar": {
     "name": "Zeit & Zaatar",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-lebanese-restaurants"
-      }
-    ]
-  },
-  "emsherifatharrods": {
-    "name": "Em Sherif at Harrods",
     "topics": [
       "middle-eastern"
     ],
