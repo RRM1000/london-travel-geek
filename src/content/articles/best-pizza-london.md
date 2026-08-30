@@ -35,7 +35,7 @@ Which is why the judges cannot agree either. The Italians give it to a Neapolita
 > 💡 **The Short Version:** **Short Road Pizza** won National Pizza of the Year 2025 and tops Time Out's London list. **Napoli on the Road** is first in Europe. **Crisp Pizza** is named by more sources than anything else in London. **50 Kalò** is the closest good pizza to the tourist centre. **Ria's** does Detroit. **Rudy's** and **Yard Sale** are the reliable walk-ins.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **31 sources carrying 263 citations** across **132 named pizzerias** — the judged awards (50 Top Pizza, the National Pizza Awards), the editorial mastheads (Time Out, The Infatuation, Country & Town House) and the year's major London pizza videos. **48 pizzerias are named by two or more independent sources; 23 carry a dated award.**
+> Nothing here is ranked on one visit. This pass reads **31 sources carrying 263 citations** across **132 named pizzerias** — the judged awards (50 Top Pizza, the National Pizza Awards), the editorial mastheads (Time Out, The Infatuation, Country & Town House) and the year's major London pizza videos. **39 pizzerias are named by two or more independent sources; 21 carry a dated award.**
 > **The known weakness in this topic:** no inspectorate covers London pizza the way Michelin covers restaurants, so outside the two annual awards this ranking rests on editorial and creator consensus — which favours places that get written about over places that are merely good.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
@@ -188,7 +188,7 @@ Baker Street is the branch named in the 2026 rankings.
 
 #### Connie's Pizza, Peckham
 
-*££ · Peckham · 1 min from Queen's Road Peckham · Cited by 3 sources · #48 in Europe, 50 Top Pizza · [book a table](https://conniespizzeria.com/)*
+*££ · Peckham · 1 min from Queen's Road Peckham · Cited by 2 sources · #48 in Europe, 50 Top Pizza · [book a table](https://conniespizzeria.com/)*
 
 Entered the European top 50 at 48 within a year of opening and took the 'one to watch' award with it — the only London pizzeria on that list south of the river. It sits in the railway arches directly under Queen's Road Peckham station, in the old Little Kudu site.
 
@@ -348,9 +348,9 @@ Everything here is in the **£** band, under £15 a head, and none of it takes a
 
 [Breadstall](#breadstall-soho) · [Bad Boy Pizza Society](#bad-boy-pizza-society-covent-garden) · [Vincenzo's](#vincenzos-shoreditch), plus four with no entry above:
 
-- **[Franco Manca](https://eu.sevenrooms.com/reservations/francomancaaldwych?venues=francomancaaldwych,francomancacoventgarden,francomancaholborn,francomancasoho)**, Soho — sourdough at a price nothing central matches, from a 2008 Brixton Market stall, and a 2025 National Pizza Awards finalist. *Cited by 5 sources*
-- **[Sarv's Slice](https://www.sarvsslice.com/)**, Ealing — slice counter in the Filmworks development by Ealing Broadway. *Cited by 5 sources*
-- **[ICCO](https://icco.co.uk/)**, Fitzrovia — long-running cheap pizza near Goodge Street. *Cited by 3 sources*
+- **[Franco Manca](https://eu.sevenrooms.com/reservations/francomancaaldwych?venues=francomancaaldwych,francomancacoventgarden,francomancaholborn,francomancasoho)**, Soho — sourdough at a price nothing central matches, from a 2008 Brixton Market stall, and a 2025 National Pizza Awards finalist. *Cited by 4 sources*
+- **[Sarv's Slice](https://www.sarvsslice.com/)**, Ealing — slice counter in the Filmworks development by Ealing Broadway. *Cited by 2 sources*
+- **[ICCO](https://icco.co.uk/)**, Fitzrovia — long-running cheap pizza near Goodge Street. *Cited by 1 source*
 - **[Voodoo Ray's](http://www.voodoorays.com/)**, Dalston — late-night slices, a category with almost no competition.
 
 ## Food halls and market stalls
@@ -374,7 +374,7 @@ A serious pizza kitchen operating inside somebody else's pub. No guide treats it
 
 New enough that the lists are still catching up.
 
-- **[Connie's Pizza](https://conniespizzeria.com/)**, Peckham — entered the European top 50 at 48 within a year of opening, and took the 'one to watch' award with it. *Cited by 3 sources · #48 in Europe, 50 Top Pizza*
+- **[Connie's Pizza](https://conniespizzeria.com/)**, Peckham — entered the European top 50 at 48 within a year of opening, and took the 'one to watch' award with it. *Cited by 2 sources · #48 in Europe, 50 Top Pizza*
 - **Bing Bong Pizza**, Hackney — went from a bar pop-up to second in Britain. *Cited by 2 sources · 2nd, National Pizza Awards 2025*
 - **Bad Boy Pizzeria**, Bethnal Green — the market stall's first permanent restaurant, open at 419 Bethnal Green Road since August 2025.
 - **Ria's Soho**, 29 Foubert's Place — the Notting Hill Detroit specialist's second site, with a wine cave downstairs.
@@ -387,16 +387,16 @@ Places the sources back but that did not earn a full entry, either because only 
 
 | Venue | Area | Price | Cited by | What it is |
 | --- | --- | --- | --- | --- |
-| **[Bar Etna](https://www.instagram.com/bar.etna.london/)** | Newington Green | £££ | 5 sources · #11 of 21, Time Out | Thin, crisp East Coast style with simple but serious toppings |
-| **Purezza** | Camden Town | ££ | 5 sources | Vegan-led, and a past National Pizza of the Year winner |
-| **[Cecconi's](https://www.opentable.co.uk/widget/reservation/loader?rid=4919)** | Mayfair | £££ | 4 sources | Mayfair Italian where the pizza is a sideline, not the reason |
-| **[Florencio](https://www.florenciopizza.com/)** | Marylebone | ££ | 3 sources | A light, thin base from a 48-hour ferment. Closed Sunday and Monday |
-| **[Weezie's](https://www.weezieslondon.com/)** | Belgravia | ££ | 3 sources | Thin crust, Guinness and a proper wine list, in a courtyard near Victoria |
-| **[Elliot's](https://elliots.london/)** | Borough Market | £££ | 3 sources | A wine bar that happens to make a pizza people cross London for |
+| **[Bar Etna](https://www.instagram.com/bar.etna.london/)** | Newington Green | £££ | 1 source · #11 of 21, Time Out | Thin, crisp East Coast style with simple but serious toppings |
+| **Purezza** | Camden Town | ££ | 1 source | Vegan-led, and a past National Pizza of the Year winner |
+| **[Cecconi's](https://www.opentable.co.uk/widget/reservation/loader?rid=4919)** | Mayfair | £££ | 1 source | Mayfair Italian where the pizza is a sideline, not the reason |
+| **[Florencio](https://www.florenciopizza.com/)** | Marylebone | ££ | 2 sources | A light, thin base from a 48-hour ferment. Closed Sunday and Monday |
+| **[Weezie's](https://www.weezieslondon.com/)** | Belgravia | ££ | 1 source | Thin crust, Guinness and a proper wine list, in a courtyard near Victoria |
+| **[Elliot's](https://elliots.london/)** | Borough Market | £££ | 1 source | A wine bar that happens to make a pizza people cross London for |
 | **[Gracey's Pizza](https://www.sevenrooms.com/explore/graceyspizza/reservations/create/search/)** | — | ££ | 3 sources · #2 of 12, The Infatuation | Ranked #2 of 12 by The Infatuation, which places it in **St Albans** — outside London, and listed here only so the ranking is not silently dropped |
 | **[Theo's Pizzeria](https://www.theospizzeria.com/)** | Camberwell | ££ | 2 sources | Neapolitan that made its name on house chilli oil |
 | **['O Ver](https://www.overuk.com/)** | Borough | ££ | 2 sources | Doughs made with filtered Mediterranean sea water instead of salt |
-| **[Made in Italy](https://www.madeinitalygroup.co.uk/)** | Chelsea | ££ | 2 sources | Sold by the half-metre on a board, on the King's Road |
+| **[Made in Italy](https://www.madeinitalygroup.co.uk/)** | Chelsea | ££ | 1 source | Sold by the half-metre on a board, on the King's Road |
 | **Pizza Union** | Various | £ | 2 sources | Fast, very cheap Neapolitan near several stations |
 | **[Circolo Popolare](https://www.sevenrooms.com/explore/circolopopolare/reservations/create/search?venues=avemariolondon%2Ccircolopopolare%2Ccarlottauk%2Cgloria%2Cjacuzzi%2Cbarbarellacanarywharf&tracking=bmg)** | Fitzrovia | ££ | — | Big Mamma's wall-of-bottles room; the pizza is not why you book |
 | **[Lardo](http://www.lardo.co.uk/book)** | London Fields | ££ | — | Pizza and pasta, a London Fields fixture |

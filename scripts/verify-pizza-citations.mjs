@@ -50,8 +50,11 @@ for (const line of lines) {
   const rec = evByNorm[key];
   const claimed = Number(c[1]);
   if (!rec) { errors.push(`${lastName}: not in evidence.json at all`); continue; }
-  if (rec.sourceCount !== claimed)
-    errors.push(`${lastName}: article says ${claimed}, evidence says ${rec.sourceCount}`);
+  // Topic-scoped: sourceCount spans all 48 corpora, which is not what a pizza
+  // guide is claiming when it prints a number.
+  const scoped = rec.byTopic?.pizza?.sourceCount ?? rec.sourceCount;
+  if (scoped !== claimed)
+    errors.push(`${lastName}: article says ${claimed}, pizza corpus says ${scoped}`);
   else checked.push(`${lastName}: ${claimed} OK`);
 
   // Ranks on the same line.
@@ -77,7 +80,8 @@ for (const line of lines) {
 // Corpus-scale figures quoted in the methodology block. Read out of the article
 // rather than hard-coded here, so the check cannot silently go stale the way it
 // did when the National Pizza Awards source was rebuilt.
-const pizzaVenues = Object.values(ev).filter((v) => v.topics.includes("pizza"));
+const pizzaVenues = Object.values(ev).filter((v) => v.topics.includes("pizza"))
+  .map((v) => ({ ...v, ...v.byTopic.pizza }));
 const actual = {
   sources: doc.sources.length,
   citations: doc.sources.reduce((n, s) => n + (s.names ?? []).length, 0),

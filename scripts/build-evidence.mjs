@@ -187,6 +187,27 @@ for (const [key, rec] of evidence) {
   const tiers = {};
   for (const d of domains) tiers[d.tier] = (tiers[d.tier] ?? 0) + 1;
 
+  // The same count, recomputed per topic. sourceCount is every domain that has
+  // ever named the venue, across all 48 corpora - which is the right answer to
+  // "how well supported is this place" and the WRONG one to print in a single
+  // guide. "Cited by 5 sources" in a pizza guide reads as five sources on its
+  // pizza; Sarv's Slice scored 5 with only 2 pizza citations behind it. A guide
+  // prints byTopic[<its own topic>].
+  const byTopic = {};
+  for (const t of rec.topics) {
+    const dom = new Map();
+    for (const m of rec.mentions) if (m.topic === t && !dom.has(m.domain)) dom.set(m.domain, m);
+    const ds = [...dom.values()];
+    const tt = {};
+    for (const d of ds) tt[d.tier] = (tt[d.tier] ?? 0) + 1;
+    byTopic[t] = {
+      sourceCount: ds.length,
+      tierSpread: Object.entries(tt).sort().map(([k, n]) => `${k}${n}`).join(" "),
+      tierCount: Object.keys(tt).length,
+      hasAward: (tt.A ?? 0) > 0,
+    };
+  }
+
   out[key] = {
     name: rec.name,
     topics: [...rec.topics].sort(),
@@ -194,6 +215,7 @@ for (const [key, rec] of evidence) {
     tierSpread: Object.entries(tiers).sort().map(([t, n]) => `${t}${n}`).join(" "),
     tierCount: Object.keys(tiers).length,
     hasAward: tiers.A > 0,
+    byTopic,
     // Only distinct domains carry links - one row per opinion, not per URL.
     sources: domains
       .sort((a, b) => a.tier.localeCompare(b.tier))
