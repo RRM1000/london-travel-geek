@@ -3,7 +3,7 @@
   "article": "src/content/articles/best-indian-restaurants-london.md",
   "headTerm": "Indian Restaurants",
   "status": "cleaned and re-sourced 2026-08-30; video tier collected; community tier still missing",
-  "note": "Copied from pizza.json. Indian already has 14 recorded sources from the 2026-08-25 pass, but the corpus needs cleaning before an article can be written from it. See cleanupRequired.",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. This file records what is specific to Indian: the bodies worth checking, the two-axis facet, and what went wrong.",
   "awardBodies": [
     {
       "name": "The Good Food Guide",
@@ -17,21 +17,21 @@
       "domain": "guide.michelin.com",
       "tier": "A",
       "cadence": "annual",
-      "note": "BLOCKED to the fetcher - see blocked.permanent403 in data/sources.json. Substitute is the Wikipedia list of Michelin-starred London restaurants. Only 2 names recorded, so this is under-collected."
+      "note": "guide.michelin.com is permanently 403 to the fetcher. Read the 2026 column of the Wikipedia substitute in data/sources.json blocked.substitutes, but ATTRIBUTE to guide.michelin.com - filing it under en.wikipedia.org tiers the award B and loses the signal. 8 current Indian stars in 2026, Gymkhana on two. Rasoi, Tamarind and Vineet Bhatia are historic."
     },
     {
       "name": "Asian Curry Awards",
       "domain": "asiancurryawards.com",
       "tier": "A",
       "cadence": "annual",
-      "note": "READ BEFORE RE-COLLECTING. The winners page is laid out as award CATEGORY lines - 'Asian Restaurant of the Year (London): Colonel Saab'. The 2026-08-25 scrape captured the category string as the venue name, often truncated mid-parenthesis and often with nothing after the colon. 55 such names are in the corpus. Extract the venue after the colon, drop the category, and drop every non-London region."
+      "note": "Winners are laid out as award CATEGORY lines - 'Asian Restaurant of the Year (London): Colonel Saab'. A naive scrape captures the category, often truncated mid-parenthesis. Extract the venue after the colon, drop the category, drop every non-London region. Cleaned 2026-08-30."
     },
     {
       "name": "British Indian Good Food Guide",
-      "domain": "timeout.com",
+      "domain": "britishindiangoodfoodguide.com",
       "tier": "A",
       "cadence": "annual",
-      "note": "SYNDICATION. Currently recorded via a Time Out news article reporting the 2024 awards, which files a judged ranking under Time Out's own masthead and destroys the tier-A signal. Find the awards body's own site and re-attribute."
+      "note": "RESOLVED 2026-08-30. Was filed under a Time Out news article reporting the 2024 top 20. The guide publishes its own selection at /best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ (5 Nov 2025): 100 UK restaurants, 28 in the London section, 6 named London Icons."
     }
   ],
   "editorialLists": [
@@ -52,7 +52,7 @@
       "domain": "timeout.com",
       "tier": "B",
       "ranked": "check",
-      "note": "Two timeout.com URLs are recorded - the London Indian guide and the British Indian Good Food Guide news piece. Same masthead, one domain, one opinion. Correct as counted, but the award needs re-attributing away from it."
+      "note": "One masthead, one opinion. The BIGFG award has been re-attributed away from it."
     },
     {
       "name": "Eater London",
@@ -70,31 +70,19 @@
       "name": "NationalWorld",
       "domain": "nationalworld.com",
       "tier": "B",
-      "note": "NATIONAL list of 72 Asian Curry Awards winners - mostly not London. 57 names recorded, and the page's own navigation ('Useful links', 'Explore', 'Sport') was scraped as venues."
+      "note": "National Asian Curry Awards coverage. Nav is scraped as venue names and most winners are not London - both cleaned 2026-08-30."
     },
     {
       "name": "Kilburn Times",
       "domain": "kilburntimes.co.uk",
       "tier": "B",
-      "note": "Same problem - nav scraped as venue names."
-    },
-    {
-      "name": "Curry Life",
-      "domain": "currylife.uk",
-      "tier": "C",
-      "note": "68 names, national scope, 'Britain's best curry houses'. Heavy non-London contamination."
+      "note": "National Asian Curry Awards coverage. Nav is scraped as venue names and most winners are not London - both cleaned 2026-08-30."
     },
     {
       "name": "Balance Journal",
       "domain": "balancejournal.co",
       "tier": "C",
       "ranked": false
-    },
-    {
-      "name": "The Nudge",
-      "domain": "thenudge.com",
-      "tier": "C",
-      "note": "0 names extracted - the fetch produced nothing. Re-collect or drop."
     }
   ],
   "facetAxis": {
@@ -172,12 +160,7 @@
     "note": "The genuine split a reader needs and most guides blur: a 1970s Tooting curry house and a Mayfair tasting menu both get called 'best Indian' and are not the same trip. State which one each entry is."
   },
   "cleanupRequired": [
-    "55 award-category strings are recorded as venue names, from the Asian Curry Awards and Curry Life scrapes - 'Asian Restaurant of The Year (West Midlands): Ramadan', 'Takeaway of The Year (Wales'. Extract the venue, drop the category.",
-    "10 site-chrome names, three of which clear the 2-source bar and would rank in the top 12: 'Useful links' (5 sources), 'Explore' (4), 'Sport' (4). Add to data/name-noise.json siteChrome.",
-    "Heavy non-London contamination from two national lists (nationalworld 57 names, currylife 68). A London guide must not count a Glasgow or West Midlands winner.",
-    "Dishoom is split seven ways - Dishoom (5), Dishoom Shoreditch (4), Covent Garden, Kensington, King's Cross, Permit Room, and a Manchester branch. Also split: Tamila (3), Gunpowder (2), Masala Zone (4), Benares (2), Pahli Hill (2), Madhu's (2), Udaya Kerala (2). Add aliases before rebuilding.",
-    "Michelin is blocked to the fetcher and only 2 names were captured. Use the Wikipedia substitute already recorded in data/sources.json.",
-    "The British Indian Good Food Guide award is filed under timeout.com. Re-attribute to the awarding body."
+    "None outstanding. The 2026-08-30 pass removed 55 award-category strings, 30 chrome names, 13 press-release headings and 10 non-London winners, extracted 6 real London winners from category lines, and added 22 aliases (Dishoom appeared seven ways)."
   ],
   "knownGaps": [
     "Community tier (E) is still EMPTY. Two Apify Reddit runs on 2026-08-30 returned nothing usable - the first was not scoped to a subreddit and matched globally viral posts, the second was scoped to r/london but the search terms did not bind and returned meetup and supermarket threads. About $0.95 spent for zero citations. Reddit is also blocked to curl (returns HTML) and to the browser pane by policy. Needs a different approach before it is retried.",
@@ -193,5 +176,17 @@
     "meetingTheBar": 37,
     "sheetRows": 45,
     "articleExists": true
+  },
+  "removedSources": [
+    "Curry Life (currylife.uk) - national trade-magazine award list, 68 names, no region field in the scrape so its London subset cannot be identified.",
+    "The Nudge (thenudge.com) - extracted zero names; the Indian URL now 404s."
+  ],
+  "videoTier": {
+    "collected": "2026-08-30",
+    "channels": 11,
+    "names": 48,
+    "costUsd": "~0.10",
+    "method": "Apify api-ninja/youtube-search-scraper, videoDepthDetails=standard, geo=GB. Names read from chapter markers and descriptions. Handles came back from the YouTube API, so none was reconstructed.",
+    "notRecorded": "@RestroSpot and @BBinLondon named nothing extractable; @bonappetit's video is New York."
   }
 }
