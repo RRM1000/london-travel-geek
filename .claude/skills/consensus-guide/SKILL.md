@@ -48,10 +48,11 @@ Record what each source *called* the venue, not just that it named it.
 > Reddit threads, in a city where people argue about pizza constantly. Video is
 > the easiest tier to over-collect and the weakest per source.
 
-## 3. The eleven traps
+## 3. The seventeen traps
 
-Check every one before recording. The first seven cost real accuracy on pizza; the
-last four on seafood and Sunday roast.
+Check every one before recording. The first seven cost real accuracy on pizza,
+the next four on seafood and Sunday roast, and the last six on fish and chips,
+Chinese, bakeries, Turkish and afternoon tea.
 
 **1. Read `data/sources.json` for the tier. Never invent a scheme.**
 Six tiers, A–F. **D is video** — any YouTube or TikTok channel, whatever the
@@ -124,6 +125,46 @@ Its seafood guide numbers 1–20 and its Sunday lunch guide 1–28, and the rank
 worth carrying — Time Out's number one is often a name no other source puts first,
 which is a finding. The per-venue line is introduced by `Why go?` on some lists and
 `What is it?` on others; match both or you will silently record ranks with no text.
+
+**12. A NATIONAL list is not a London list.** The worst error found anywhere in
+this project. The Good Food Guide's "Britain's 50 Best Bakeries" was recorded
+whole and all 49 readable names counted as London tier-A citations. Ten are in
+London; Aran Bakery is in Dunkeld, Hart's is in Bristol, Pollen is in Manchester.
+The topic showed 85 tier-A citations — more judged evidence than any other — and
+four fifths of it was for other cities. **Any source with "Britain's", "the UK's"
+or "the world's" in its title must be scoped before it is counted**, and these
+pages almost always print the town beside the name, so the subset is readable
+rather than guessable. The same applies at the small end: a "top London chippies"
+list reached into Surrey and Buckinghamshire.
+
+**13. Two corpora can hold the same subject.** Three ice cream sources were
+sitting in the `dessert` corpus while `ice-cream` had its own corpus and its own
+article — one of them the *identical URL*, recorded twice. Before adding a source,
+grep the other consensus files for its URL.
+
+**14. A 404 is usually a move, not a death.** The Infatuation's bakeries guide
+returned 404 at the recorded URL and the live page was at
+`/best-bakeries-in-london` with 20 names against the dead URL's 3. Try the obvious
+variants before writing a source off.
+
+**15. A JS-rendered page returns navigation to curl, and navigation looks like
+venues.** Harden's Turkish page gave 24 "restaurants" that were all site chrome
+and a "you might also like" rail — and every one counted as tier A, because
+Harden's is tier A. **Read a suspicious page in the browser instead**, and find
+the container class the real results sit in. Harden's actually lists three
+Turkish restaurants in London.
+
+**16. The same page can be recorded under two URLs.** Time Out's afternoon tea
+list and its "quirkiest afternoon teas" list had IDENTICAL name arrays — one page
+extracted twice, inflating the source count. Compare name arrays across records
+from the same domain before trusting a corpus total.
+
+**17. Where a venue sits INSIDE something bigger, sources name either.** Afternoon
+tea is the hard case: half the sources write "The Palm Court at The Ritz" and half
+write "The Ritz", so the two most famous teas in London read as four weak venues.
+45 aliases took the count on 2+ from 6 to 23. The canonical name is **the one a
+reader books under**. The same shape appears as "The Gallery at The Savoy", "Roe
+by Fallow", "Hyde Café at Royal Lancaster".
 
 ## 4. Record
 
@@ -342,6 +383,12 @@ word.
 | a title that usually goes somewhere far more fashionable | whose head pizzaiolo, Antonio Raspone, took Pizza Chef of the Year |
 | the only serious Detroit pizza in the city | Ria's does Detroit |
 | London's best-kept secret | *(cut — it is on four published lists)* |
+
+**Say when the evidence does not reach something.** A guide that covers 22 rooms
+against a corpus that reaches 12 has two honest options: cut the ten, or mark
+them. Marking them — *named by no source in this corpus* — keeps a useful guide
+and tells the reader exactly what the count does and does not cover. Make the
+verifier check the absence, because it goes stale the moment a source is added.
 
 **Explain jargon or cut it.** "The basement books through SevenRooms" means
 nothing to a reader: what is the basement, what is SevenRooms. Either say what it
