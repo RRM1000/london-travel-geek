@@ -35,8 +35,10 @@ So this guide is arranged by what you are actually queuing for, because "ice cre
 
 > 💡 **The Short Version:** **Gelupo** in Soho is the one that turns up on every list, and it is open to midnight at weekends. **Nardulli** in Clapham has the queue. **Romeo & Giulietta** in Stoke Newington is Time Out's current number one. **Badiani** for the Buontalenti and nothing else. And **Marcelo's** in Crystal Palace is the best vegan ice cream in the city, two days a week only.
 
-> 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Ice cream shops keep shorter and stranger hours than restaurants and several trade seasonally, so check before travelling for a specific one.
+> 📊 **The evidence behind this guide**
+> Nothing here is ranked on one visit. This pass reads **7 sources carrying 105 citations** across **74 named shops** — the editorial mastheads (Time Out, The Infatuation, Mob) and four specialists, one of them writing only about vegan scoops. **20 shops are named by two or more independent sources.**
+> **The known weakness in this topic: nothing has been judged, and agreement is shallow.** There is no award for ice cream and no inspectorate, and the most-cited shops here carry four sources where a restaurant topic would carry eight. Gelato, soft serve and scoop shops are also counted together, which favours the places that do all three over a specialist doing one thing perfectly.
+> *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
 
@@ -59,7 +61,7 @@ So this guide is arranged by what you are actually queuing for, because "ice cre
 
 ### Gelupo, Soho
 
-*7 Archer Street · open to midnight Fri–Sat*
+*7 Archer Street · open to midnight Fri–Sat* · Cited by 4 sources
 
 The most-listed ice cream in London, attached to Jacob Kenedy's Bocca di Lupo across the road, and the one to pick if you only get one.
 
@@ -75,7 +77,7 @@ Open to **midnight on Fridays and Saturdays**, which makes it one of the few gen
 
 ### Romeo & Giulietta, Stoke Newington
 
-*137 Albion Road*
+*137 Albion Road* · Cited by 2 sources
 
 Verona-trained gelato on a quiet Albion Road corner, and **currently Time Out's number one in London** — a ranking that cites the size of the queue as its evidence.
 
@@ -83,7 +85,7 @@ The **pistacchio with ricotta and caramelised figs** is the one to order, and th
 
 ### Nardulli, Clapham
 
-*29 The Pavement · busy year-round*
+*29 The Pavement · busy year-round* · Cited by 4 sources
 
 The queue that settles arguments. Four separate writers describe it independently, one noting it **stretches towards the tube station on Saturdays** — and all four also note that it moves fast.
 
@@ -93,7 +95,7 @@ The detail that matters more than the queue: it is busy **in December**. A summe
 
 ### Badiani 1932, twelve London shops
 
-*Founded in Florence, 1932*
+*Founded in Florence, 1932* · Cited by 2 sources
 
 **Order the Buontalenti.** Cream, sugar, and essentially nothing else — four ingredients, no flavouring, named after the Renaissance architect credited with inventing it.
 
@@ -103,7 +105,7 @@ Widest footprint of any serious operator in the city, so there is usually one ne
 
 ### Unico Gelato, Holland Park
 
-*78 Holland Park Avenue · also St John's Wood, Gloucester Road, Bromley*
+*78 Holland Park Avenue · also St John's Wood, Gloucester Road, Bromley* · Cited by 2 sources
 
 A Bolognese family business of more than fifty years, and the **edible wafer goblets** are the house signature — a proper dish made of wafer rather than a cone.
 
@@ -111,7 +113,7 @@ Solid rather than spectacular, and worth knowing about because Holland Park is s
 
 ### Oddono's, South Kensington
 
-*14 Bute Street · six or seven branches*
+*14 Bute Street · six or seven branches* · Cited by 2 sources
 
 The London default, made fresh daily, with a rotation running past 130 flavours. **Nocciola, bacio and Madagascan vanilla** are the ones to judge it on.
 
@@ -119,7 +121,7 @@ It appears on essentially every list, which is both the recommendation and the c
 
 ### La Gelatiera, Covent Garden
 
-*New Row · also East Village and the OXO Tower*
+*New Row · also East Village and the OXO Tower* · Cited by 3 sources
 
 Made on site, ninety-plus flavours in rotation, and genuinely adventurous with it — the dairy side runs to **porcini chocolate cream** and Kentish cobnut.
 
@@ -131,7 +133,7 @@ The vegan side is unusually deep for a general gelateria: chocolate sorbet, blac
 
 ### Ice Cream Union, Chelsea
 
-*166 Pavilion Road · factory shop in Bermondsey*
+*166 Pavilion Road · factory shop in Bermondsey* · Cited by 3 sources
 
 **Named the best in the UK by The Times in July 2025**, and described in the same piece as London's best-kept secret — which is supported by the fact that their own website does not mention the award anywhere.
 
@@ -143,7 +145,7 @@ They supply Michelin-starred Trinity in Clapham and Fortnum & Mason, which is th
 
 ### Caliendo's, Kentish Town counter
 
-*Inside Phoenicia Food Hall, 186 Kentish Town Road*
+*Inside Phoenicia Food Hall, 186 Kentish Town Road* · named by no source in this corpus
 
 A family that has been churning for over 130 years, with around two hundred creations — **Piedmont Hazelnut IGP, Bronte Pistachio DOP**, salted butter caramel, and a speciality line that runs to Marmite and toasted sourdough.
 
@@ -157,7 +159,7 @@ Decorated more than anyone else here: **Ice Cream Alliance number one parlour in
 
 ### Marcelo's, Crystal Palace
 
-*Haynes Lane Courtyard · Saturdays and Sundays only*
+*Haynes Lane Courtyard · Saturdays and Sundays only* · Cited by 1 source
 
 **The best vegan ice cream in London**, and the only one that turned up in every source we looked at. Entirely vegan, made on a **house oat-milk base**, from a chef couple who started after a trip to Naples.
 
@@ -167,7 +169,7 @@ Ninety-plus flavours created so far, rotating weekly: **miso peanut butter and c
 
 ### Udderlicious, Islington
 
-*187 Upper Street · also Covent Garden, Camden, Crouch End*
+*187 Upper Street · also Covent Garden, Camden, Crouch End* · Cited by 3 sources
 
 Organic, small-batch, with a **flavour of the month voted for by customers** — which is a gimmick that happens to produce a genuinely good rotation.
 
@@ -175,7 +177,7 @@ The strongest vegan range of any general parlour in London: hazelnut and stracci
 
 ### Crosstown
 
-*Battersea Power Station and Greenwich scoop bars*
+*Battersea Power Station and Greenwich scoop bars* · Cited by 1 source
 
 Better known for doughnuts, and the scoop bars are the underrated part. The vegan options are **named products rather than a token sorbet** — vegan mango sorbetto, and a vegan peanut, chocolate and caramel gelato.
 
@@ -187,7 +189,7 @@ Also the only place here that publishes a straight in-store price: **£3.45 a sc
 
 ### Mamasons Dirty Ice Cream, Kentish Town and Chinatown
 
-*91 Kentish Town Road · 32 Newport Court*
+*91 Kentish Town Road · 32 Newport Court* · Cited by 3 sources
 
 London's first Filipino *sorbetes* — "dirty ice cream", so called because it was traditionally sold from carts on the street rather than because of anything about the product.
 
@@ -197,7 +199,7 @@ Two honest notes. This is the most social-media-driven place on the page — the
 
 ### Festok, Marylebone
 
-*65 Weymouth Street*
+*65 Weymouth Street* · Cited by 2 sources
 
 Lebanese **booza** — stretched, pounded ice cream made with mastic and salep, which gives it a chewy, elastic texture closer to taffy than to gelato. Genuinely different from everything else on this page, and the fruit sorbets are naturally dairy-free.
 

@@ -7596,14 +7596,14 @@
       }
     ]
   },
-  "badianigelato": {
-    "name": "Badiani Gelato",
+  "badiani": {
+    "name": "Badiani",
     "topics": [
       "activities",
       "ice-cream"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -7614,13 +7614,18 @@
         "hasAward": false
       },
       "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-ice-cream-in-london"
+      },
       {
         "tier": "B",
         "source": "The Sauce",
@@ -35454,10 +35459,11 @@
       "british",
       "cheap-eats",
       "general",
-      "indian"
+      "indian",
+      "vegan"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C2 D1",
+    "sourceCount": 5,
+    "tierSpread": "B2 C2 D1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -35484,6 +35490,12 @@
         "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "vegan": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -35491,6 +35503,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-vegan-restaurants-london"
       },
       {
         "tier": "C",
@@ -36178,10 +36195,11 @@
     "topics": [
       "british",
       "general",
-      "indian"
+      "indian",
+      "vegan"
     ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
+    "sourceCount": 3,
+    "tierSpread": "A1 B2",
     "tierCount": 2,
     "hasAward": true,
     "byTopic": {
@@ -36202,6 +36220,12 @@
         "tierSpread": "A1 B1",
         "tierCount": 2,
         "hasAward": true
+      },
+      "vegan": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -36215,6 +36239,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-vegan-restaurants-london"
       }
     ]
   },
@@ -55095,11 +55124,10 @@
     "topics": [
       "coffee",
       "galleries",
-      "italian",
-      "vegan"
+      "italian"
     ],
-    "sourceCount": 4,
-    "tierSpread": "C4",
+    "sourceCount": 3,
+    "tierSpread": "C3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
@@ -55116,12 +55144,6 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "vegan": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -55143,11 +55165,6 @@
         "tier": "C",
         "source": "Andy Hayler",
         "url": "https://www.andyhayler.com/restaurant/al-boccon-divino"
-      },
-      {
-        "tier": "C",
-        "source": "My Vegan Travels",
-        "url": "https://myvegantravels.com/destinations/vegan-food-spots-london/"
       }
     ]
   },
@@ -56554,11 +56571,10 @@
     "name": "Style",
     "topics": [
       "comedy",
-      "italian",
-      "vegan"
+      "italian"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
+    "sourceCount": 1,
+    "tierSpread": "B1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
@@ -56573,12 +56589,6 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
-      },
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
       }
     },
     "sources": [
@@ -56586,11 +56596,6 @@
         "tier": "B",
         "source": "ShortList",
         "url": "https://www.shortlist.com/entertainment/best-comedy-london-stand-up-comedians-venues"
-      },
-      {
-        "tier": "B",
-        "source": "Tempus Magazine",
-        "url": "https://tempusmagazine.co.uk/news/veganuary-2026-5-vegan-friendly-fine-dining-restaurants-london/"
       }
     ]
   },
@@ -59397,14 +59402,15 @@
       }
     ]
   },
-  "chinchinlabs": {
-    "name": "Chin Chin Labs",
+  "chinchinicecream": {
+    "name": "Chin Chin Ice Cream",
     "topics": [
-      "dessert"
+      "dessert",
+      "ice-cream"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "dessert": {
@@ -59412,9 +59418,25 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "ice-cream": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/cuisines/ice-cream"
+      },
+      {
+        "tier": "B",
+        "source": "Mob",
+        "url": "https://www.mob.co.uk/life/best-ice-cream-in-london"
+      },
       {
         "tier": "C",
         "source": "Wanderlust Chloe",
@@ -62313,8 +62335,8 @@
       "french",
       "vegan"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
+    "sourceCount": 5,
+    "tierSpread": "B2 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -62325,8 +62347,8 @@
         "hasAward": false
       },
       "vegan": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
         "tierCount": 2,
         "hasAward": false
       }
@@ -62338,6 +62360,11 @@
         "url": "https://london.eater.com/maps/best-vegan-restaurants-london"
       },
       {
+        "tier": "B",
+        "source": "Absolutely",
+        "url": "https://absolutelymagazines.com/best-vegan-restaurants-london/"
+      },
+      {
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/best-french-restaurants-london/"
@@ -62346,6 +62373,11 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-vegan-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Vegpreneur",
+        "url": "https://www.vegpreneur.org/blog/the-best-vegan-restaurants-in-london-in-2026"
       }
     ]
   },
@@ -63969,24 +64001,17 @@
     ]
   },
   "map": {
-    "name": "The Map",
+    "name": "Map",
     "topics": [
       "galleries",
-      "ice-cream",
       "views"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "galleries": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -64004,11 +64029,6 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/art-galleries-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Canasta Journal",
-        "url": "https://canastajournal.substack.com/p/the-best-vegan-ice-cream-in-london-ec4"
       },
       {
         "tier": "C",
@@ -84962,31 +84982,6 @@
       }
     ]
   },
-  "topicecreamparlours": {
-    "name": "Top ice cream parlours",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/best-ice-cream-in-london"
-      }
-    ]
-  },
   "romeoandgiulietta": {
     "name": "Romeo & Giulietta",
     "topics": [
@@ -85294,31 +85289,6 @@
       }
     ]
   },
-  "badiani": {
-    "name": "Badiani",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/best-ice-cream-in-london"
-      }
-    ]
-  },
   "gelateria3bis": {
     "name": "Gelateria 3bis",
     "topics": [
@@ -85564,31 +85534,6 @@
       }
     ]
   },
-  "londonsbestsoftserve": {
-    "name": "London’s Best Soft Serve",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/ice-cream"
-      }
-    ]
-  },
   "darlishicecream": {
     "name": "Darlish Ice Cream",
     "topics": [
@@ -85823,161 +85768,6 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/cuisines/ice-cream"
-      }
-    ]
-  },
-  "chinchinicecream": {
-    "name": "Chin Chin Ice Cream",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/ice-cream"
-      },
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-ice-cream-in-london"
-      }
-    ]
-  },
-  "where": {
-    "name": "Where:",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-ice-cream-london-shops-parlours"
-      }
-    ]
-  },
-  "openuntil": {
-    "name": "Open until:",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-ice-cream-london-shops-parlours"
-      }
-    ]
-  },
-  "devonhotelmakingseriouslygoodenglishwine": {
-    "name": "The Devon Hotel Making Seriously Good English Wine",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Sauce",
-        "url": "https://thesaucemag.com/londons-best-ice-cream-parlours/"
-      }
-    ]
-  },
-  "guiltfreegetawaystheuksmostecofriendlyhotels": {
-    "name": "Guilt-Free Getaways: The UK’s Most Eco-Friendly Hotels",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Sauce",
-        "url": "https://thesaucemag.com/londons-best-ice-cream-parlours/"
-      }
-    ]
-  },
-  "londonsbesthomewareshopsforstylishinteriors": {
-    "name": "London’s Best Homeware Shops For Stylish Interiors",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Sauce",
-        "url": "https://thesaucemag.com/londons-best-ice-cream-parlours/"
       }
     ]
   },
@@ -86363,81 +86153,6 @@
         "tier": "B",
         "source": "Mob",
         "url": "https://www.mob.co.uk/life/best-ice-cream-in-london"
-      }
-    ]
-  },
-  "thisyearsbestscoops": {
-    "name": "This year's best scoops",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Canasta Journal",
-        "url": "https://canastajournal.substack.com/p/the-best-vegan-ice-cream-in-london-ec4"
-      }
-    ]
-  },
-  "summerspecials": {
-    "name": "Summer Specials",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Canasta Journal",
-        "url": "https://canastajournal.substack.com/p/the-best-vegan-ice-cream-in-london-ec4"
-      }
-    ]
-  },
-  "allyearround": {
-    "name": "All Year Round",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Canasta Journal",
-        "url": "https://canastajournal.substack.com/p/the-best-vegan-ice-cream-in-london-ec4"
       }
     ]
   },
@@ -114078,21 +113793,14 @@
   "design": {
     "name": "Design",
     "topics": [
-      "new-openings",
-      "vegan"
+      "new-openings"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
+    "sourceCount": 1,
+    "tierSpread": "B1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "vegan": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -114104,11 +113812,6 @@
         "tier": "B",
         "source": "Elle Decoration",
         "url": "https://www.elledecoration.co.uk/lifestyle-culture/a71228309/new-london-restaurants-2026/"
-      },
-      {
-        "tier": "B",
-        "source": "Tempus Magazine",
-        "url": "https://tempusmagazine.co.uk/news/veganuary-2026-5-vegan-friendly-fine-dining-restaurants-london/"
       }
     ]
   },
@@ -132739,7 +132442,7 @@
     ]
   },
   "mildreds": {
-    "name": "Mildred’s",
+    "name": "Mildred's",
     "topics": [
       "vegan"
     ],
@@ -132988,31 +132691,6 @@
       }
     ]
   },
-  "rasasouthindianvegetarianrestaurant": {
-    "name": "Rasa South Indian Vegetarian Restaurant",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-vegan-restaurants-london"
-      }
-    ]
-  },
   "ravishankarbhelpoorihouse": {
     "name": "Ravishankar Bhelpoori House",
     "topics": [
@@ -133035,106 +132713,6 @@
         "tier": "B",
         "source": "Eater London",
         "url": "https://london.eater.com/maps/best-vegan-restaurants-london"
-      }
-    ]
-  },
-  "govindaspurevegetarianrestaurant": {
-    "name": "Govinda's Pure Vegetarian Restaurant",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-vegan-restaurants-london"
-      }
-    ]
-  },
-  "toppicksfor2026": {
-    "name": "The Top Picks for 2026",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Dinespotter",
-        "url": "https://dinespotter.co.uk/london-best-vegetarian-vegan-restaurants-2026/"
-      }
-    ]
-  },
-  "legalandsupport": {
-    "name": "Legal & Support",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Dinespotter",
-        "url": "https://dinespotter.co.uk/london-best-vegetarian-vegan-restaurants-2026/"
-      }
-    ]
-  },
-  "stayconnected": {
-    "name": "Stay Connected",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Dinespotter",
-        "url": "https://dinespotter.co.uk/london-best-vegetarian-vegan-restaurants-2026/"
       }
     ]
   },
@@ -133463,36 +133041,6 @@
       }
     ]
   },
-  "gauthier": {
-    "name": "Gauthier",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Absolutely",
-        "url": "https://absolutelymagazines.com/best-vegan-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Vegpreneur",
-        "url": "https://www.vegpreneur.org/blog/the-best-vegan-restaurants-in-london-in-2026"
-      }
-    ]
-  },
   "spreadeagle": {
     "name": "The Spread Eagle",
     "topics": [
@@ -133640,131 +133188,6 @@
         "tier": "B",
         "source": "Absolutely",
         "url": "https://absolutelymagazines.com/best-vegan-restaurants-london/"
-      }
-    ]
-  },
-  "recentarticles": {
-    "name": "Recent Articles",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Tempus Magazine",
-        "url": "https://tempusmagazine.co.uk/news/veganuary-2026-5-vegan-friendly-fine-dining-restaurants-london/"
-      }
-    ]
-  },
-  "carsandyachts": {
-    "name": "Cars & Yachts",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Tempus Magazine",
-        "url": "https://tempusmagazine.co.uk/news/veganuary-2026-5-vegan-friendly-fine-dining-restaurants-london/"
-      }
-    ]
-  },
-  "culture": {
-    "name": "Culture",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Tempus Magazine",
-        "url": "https://tempusmagazine.co.uk/news/veganuary-2026-5-vegan-friendly-fine-dining-restaurants-london/"
-      }
-    ]
-  },
-  "lifestyle": {
-    "name": "Lifestyle",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Tempus Magazine",
-        "url": "https://tempusmagazine.co.uk/news/veganuary-2026-5-vegan-friendly-fine-dining-restaurants-london/"
-      }
-    ]
-  },
-  "wealth": {
-    "name": "Wealth",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Tempus Magazine",
-        "url": "https://tempusmagazine.co.uk/news/veganuary-2026-5-vegan-friendly-fine-dining-restaurants-london/"
       }
     ]
   },

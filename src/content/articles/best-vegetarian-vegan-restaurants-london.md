@@ -33,8 +33,10 @@ This one is arranged **by what you are actually paying**, because the range here
 
 > 💡 **The Short Version:** **Plates** is the UK's first Michelin-starred vegan restaurant and the hardest table on this page. **Mildreds** made vegetarian food in London normal and is still the easy answer. **Tofu Vegan** is the best value of the well-known ones. **Diwana** is the cheapest good meal in central London. And **Temple of Seitan** is vegan fried chicken that behaves exactly like fried chicken.
 
-> 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Where a restaurant is *entirely* vegetarian or vegan rather than merely vegan-friendly, we say so — that distinction is the whole point and most lists blur it. Prices change; check before travelling.
+> 📊 **The evidence behind this guide**
+> Nothing here is ranked on one visit. This pass reads **9 sources carrying 113 citations** across **66 named restaurants** — the editorial mastheads (Time Out, The Infatuation, Eater, Absolutely) and five specialists who write about nothing else. **19 restaurants are named by two or more independent sources.**
+> **The known weakness in this topic: there is no award, and the specialist sources dominate.** Nothing here has been judged — no Michelin star among them, no category prize — and five of the nine publications are vegan-specific blogs. That is a strength for coverage and a weakness for calibration: a restaurant the vegan press loves and the general press ignores scores the same as one both agree on. Where a room is carried only by specialists, the tier spread below shows it.
+> *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
 
@@ -74,7 +76,7 @@ This one is arranged **by what you are actually paying**, because the range here
 
 ### Plates, Shoreditch
 
-*££££ · 320 Old Street · book months ahead · Michelin star*
+*££££ · 320 Old Street · book months ahead · Michelin star* · Cited by 5 sources
 
 In 2025 this became **the first fully vegan restaurant in Britain to win a Michelin star**. Kirk Haworth cooks a tasting menu with his sister Keeley running the room — one open kitchen, polished concrete, floor-to-ceiling windows.
 
@@ -84,7 +86,7 @@ Tables release in batches and go immediately. This is the hardest vegan booking 
 
 ### Gauthier Soho, Soho
 
-*££££ · 21 Romilly Street · book weeks ahead*
+*££££ · 21 Romilly Street · book weeks ahead* · Cited by 4 sources
 
 Alexis Gauthier turned a classical French restaurant **entirely vegan in 2021** — same townhouse, same technique, no animal products. Very few kitchens operating at this level have made that switch, and fewer have kept the clientele.
 
@@ -96,7 +98,7 @@ Across several floors of a Soho townhouse, so it feels like eating in a private 
 
 ### Mildreds, Soho
 
-*££ · 45 Lexington Street*
+*££ · 45 Lexington Street* · Cited by 5 sources
 
 Open on Lexington Street **since 1988**, which makes it the restaurant that made vegetarian food in London normal rather than worthy. Globally drawn menu, and it went fully vegan without losing anybody.
 
@@ -104,7 +106,7 @@ Sites in Soho, Camden, Covent Garden, King's Cross and Victoria. Soho is the ori
 
 ### Mallow, Borough Market
 
-*££ · Borough Market · entirely plant-based*
+*££ · Borough Market · entirely plant-based* · Cited by 2 sources
 
 From the Mildreds team, in a **restored townhouse covered in floral murals** at the edge of Borough Market — sharing plates rather than the Mildreds mains-and-sides format.
 
@@ -112,7 +114,7 @@ Padrón peppers with smoky peanut chilli oil, turmeric milk bread with apricot h
 
 ### The Gate, Hammersmith
 
-*£££ · 51 Queen Caroline Street*
+*£££ · 51 Queen Caroline Street* · Cited by 1 source
 
 Opened in 1989 in a former artists' studio and still the most serious vegetarian cooking in west London. The founding brothers brought Indo-Iraqi-Jewish influences rather than a generic meat-free menu, and it shows.
 
@@ -120,7 +122,7 @@ High-ceilinged studio space in Hammersmith, with further sites in Islington and 
 
 ### Rasa, Stoke Newington
 
-*£ · Stoke Newington Church Street*
+*£ · Stoke Newington Church Street* · Cited by 1 source
 
 An entirely vegetarian Keralan kitchen behind a shocking pink shopfront, built on coconut, curry leaf and mustard seed rather than cream and tomato — which is what south Indian vegetarian food actually tastes like and what most of London's vegetarian curry does not.
 
@@ -132,7 +134,7 @@ Cheaper than almost anything else on this page and better than most of it.
 
 ### Diwana Bhel Poori House, Euston
 
-*£ · 121–123 Drummond Street · walk-in*
+*£ · 121–123 Drummond Street · walk-in* · named by no source in this corpus
 
 On Drummond Street **since 1971** and the oldest of the Euston vegetarian Indian restaurants. Dosas, bhel poori, and a lunchtime thali buffet that is among the cheapest proper meals in central London.
 
@@ -140,7 +142,7 @@ On Drummond Street **since 1971** and the oldest of the Euston vegetarian Indian
 
 ### Govinda's, Soho
 
-*£ · Soho Street · canteen service · vegetarian*
+*£ · Soho Street · canteen service · vegetarian* · Cited by 1 source
 
 Run by the Hare Krishna temple it shares a building with, and feeding Soho since 1979. Queue, tray, and a **rotating thali** — curries, breads, soup and a dessert — for less than almost anything else hot in W1.
 
@@ -152,7 +154,7 @@ Entirely vegetarian, largely vegan, and completely unbothered about whether you 
 
 ### Indian Veg, Islington
 
-*£ · 92-93 Chapel Market · all-you-can-eat*
+*£ · 92-93 Chapel Market · all-you-can-eat* · named by no source in this corpus
 
 An **all-you-can-eat North Indian vegetarian buffet** that has fed Islington on a shoestring for decades — a dozen or so rotating dishes, biryani, breads and a salad bar, refilled for as long as you keep going.
 
@@ -160,25 +162,25 @@ The room is papered floor to ceiling with hand-made posters arguing the case for
 
 ### Temple of Seitan, Hackney
 
-*£ · 10 Morning Lane · walk-in*
+*£ · 10 Morning Lane · walk-in* · Cited by 2 sources
 
 A vegan fried chicken shop that behaves exactly like a fried chicken shop — seitan in buttermilk-style batter, burgers, wings, fries, at chicken-shop prices. Sites across London including Camden, Brixton, Hammersmith and Waterloo.
 
 ### Saravanaa Bhavan, Leicester Square
 
-*£ · walk-in*
+*£ · walk-in* · named by no source in this corpus
 
 The London outpost of the Chennai vegetarian chain, and the cheapest way in the West End to eat a properly made masala dosa.
 
 ### Shree Krishna Vada Pav, Fitzrovia
 
-*£ · 4 min from Oxford Circus · walk-in*
+*£ · 4 min from Oxford Circus · walk-in* · Cited by 1 source
 
 Vada pav — the Mumbai potato-fritter roll — done properly from a counter. Three independent guides name a place where nothing costs more than a sandwich.
 
 ### Horn OK Please and Gujarati Rasoi, Borough
 
-*£ · Borough Market · walk-in*
+*£ · Borough Market · walk-in* · named by no source in this corpus
 
 Two entirely vegetarian stalls thirty seconds apart at Borough Market, cooking completely different regional traditions. Horn OK Please builds samosa chaat in front of you; Gujarati Rasoi does thalis and dhal from family recipes.
 
@@ -190,7 +192,7 @@ Two entirely vegetarian stalls thirty seconds apart at Borough Market, cooking c
 
 ### Facing Heaven, Hackney — Sichuan
 
-*££ · Hackney · entirely vegan*
+*££ · Hackney · entirely vegan* · Cited by 4 sources
 
 Vegan Sichuan from chef Julian Denis, and the successor to the much-missed Mao Chow. **Mouth-numbing Sichuan pepper**, with borrowings from Cantonese, Yunnan and Shaanxi cooking, built on tofu and mushrooms rather than mock meat.
 
@@ -198,7 +200,7 @@ Loud, intense food that never reads as a compromise. The **crispy sweet and sour
 
 ### Jam Delish, Islington — Caribbean
 
-*££ · Angel · entirely vegan*
+*££ · Angel · entirely vegan* · Cited by 5 sources
 
 Plant-based Caribbean from siblings Jordan and Chyna, who opened in 2020 cooking **their grandparents' recipes reimagined without meat**. Family food rather than restaurant food, and the portions reflect it.
 
@@ -206,7 +208,7 @@ It won at the **Fact. Dining Awards London in 2025**, judged against Caribbean k
 
 ### Itadaki Zen, King's Cross — Japanese
 
-*££ · 139 King's Cross Road · entirely vegan*
+*££ · 139 King's Cross Road · entirely vegan* · Cited by 2 sources
 
 A thirty-seat vegan Japanese room ten minutes from King's Cross, and one of the quietest good meals in the area. Grilled spring rolls with soft mashed tofu, and **kakiage tempura** that arrives crisp and golden in a tangle.
 
@@ -214,7 +216,7 @@ Shojin-influenced rather than a Western vegan menu with Japanese dishes bolted o
 
 ### En Root, Clapham and Peckham — Indian and East African
 
-*££ · Clapham and Peckham · entirely vegan*
+*££ · Clapham and Peckham · entirely vegan* · Cited by 3 sources
 
 Started in Herne Hill in 2016 and now cooking in Clapham and Peckham, on the **Indian-East African-Caribbean crossover** that most of London's Indian restaurants never touch — the food of the Gujarati families who went to East Africa and then came here.
 
@@ -224,7 +226,7 @@ Both sites are south of the river and the reason to go is that nothing in Zone 1
 
 ### Purezza, Camden — pizza
 
-*££ · Camden · entirely vegan*
+*££ · Camden · entirely vegan* · Cited by 4 sources
 
 **The UK's first vegan pizzeria**, making Neapolitan-style pizza and its own range of plant-based cheeses in house — which is the part everyone else gets wrong.
 
@@ -236,7 +238,7 @@ Opinion divides on the base: it is a soft, wet-centred Neapolitan, so if you wan
 
 ### Tofu Vegan, Islington
 
-*££ · 105 Upper Street · book weeks ahead*
+*££ · 105 Upper Street · book weeks ahead* · Cited by 7 sources
 
 Chinese cooking done entirely without meat, and the strongest name on every vegan list in London — three of the four independent guides we read put it top. The aubergine in garlic sauce is what the queues are for.
 
@@ -244,7 +246,7 @@ Not a substitution menu: most dishes are traditionally vegetable-based Chinese c
 
 ### Club Mexicana, Mayfair
 
-*££ · Mercato Mayfair · also Boxhall City*
+*££ · Mercato Mayfair · also Boxhall City* · Cited by 3 sources
 
 Tacos, nachos and burritos built on jackfruit and vegan chicken. Started as a market stall and now inside **Mercato Mayfair**, the food hall in a deconsecrated church on North Audley Street — the rare vegan restaurant nobody eats at *because* it is vegan.
 
@@ -252,7 +254,7 @@ Also at Boxhall City by Liverpool Street.
 
 ### Naïfs, Peckham
 
-*£££ · set menu £38 · entirely vegan*
+*£££ · set menu £38 · entirely vegan* · Cited by 2 sources
 
 A small room on a quiet Peckham residential street cooking a seasonal set menu, and **listed in the Michelin Guide** — a Guide entry rather than a star or a Bib Gourmand, which is still rare for an entirely vegan kitchen.
 
@@ -262,7 +264,7 @@ Worth checking before you go: Naïfs periodically drops regular service for tick
 
 ### Tendril, Oxford Circus
 
-*£££ · 5 Princes Street · mostly vegan*
+*£££ · 5 Princes Street · mostly vegan* · Cited by 4 sources
 
 Vegetable-led cooking with global borrowings, in a room a minute off Regent Street that behaves like a neighbourhood restaurant — which in that postcode is the harder trick.
 
@@ -272,7 +274,7 @@ It bills itself as a *(mostly)* vegan kitchen and means it — there is dairy on
 
 ### Holy Carrot, Notting Hill
 
-*£££ · Notting Hill · entirely vegan*
+*£££ · Notting Hill · entirely vegan* · Cited by 2 sources
 
 Plant-based cooking that also drops refined sugar, gluten and additives, which sounds like a list of restrictions and eats like none of them. **Kentish purple potato croquettes**, the holy maki platter, and a coconut-cream eclair to finish.
 
@@ -282,25 +284,25 @@ One thing to know: the **Spitalfields site is vegetarian rather than vegan** and
 
 ### Unity Diner, Shoreditch
 
-*££ · non-profit*
+*££ · non-profit* · Cited by 1 source
 
 A vegan diner run as a non-profit, with proceeds going to animal welfare campaigning. Burgers, fish-free fillets and shakes.
 
 ### Rovi, Fitzrovia
 
-*£££ · Ottolenghi group*
+*£££ · Ottolenghi group* · named by no source in this corpus
 
 The Ottolenghi group's fermentation-and-fire room. Not entirely vegetarian, but vegetable-led in a way that makes the meat dishes look like the afterthought — and the best cooking of its kind in London.
 
 ### Bubala, Spitalfields
 
-*£££ · entirely vegetarian*
+*£££ · entirely vegetarian* · Cited by 3 sources
 
 Middle Eastern small plates, entirely vegetarian, and busy enough that it proved the point — nobody books Bubala as a concession.
 
 ### Petersham Nurseries, Richmond
 
-*££££ · Michelin Green Star*
+*££££ · Michelin Green Star* · named by no source in this corpus
 
 A glasshouse restaurant in a Richmond plant nursery with a Michelin Green Star for sustainability, running a dedicated vegan set menu alongside the main one.
 

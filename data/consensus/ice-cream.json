@@ -8,7 +8,6 @@
       "url": "https://www.timeout.com/london/restaurants/best-ice-cream-in-london",
       "scope": "ice-cream",
       "names": [
-        "Top ice cream parlours",
         "Romeo & Giulietta",
         "Gelupo",
         "Marcelo’s Ice Cream",
@@ -36,7 +35,6 @@
       "url": "https://www.theinfatuation.com/london/cuisines/ice-cream",
       "scope": "ice-cream",
       "names": [
-        "London’s Best Soft Serve",
         "Darlish Ice Cream",
         "Tano Gelato",
         "Araw Ice Cream Borough Yards",
@@ -64,8 +62,6 @@
       "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-ice-cream-london-shops-parlours",
       "scope": "ice-cream",
       "names": [
-        "Where:",
-        "Open until:",
         "Nardulli"
       ]
     },
@@ -74,9 +70,6 @@
       "url": "https://thesaucemag.com/londons-best-ice-cream-parlours/",
       "scope": "ice-cream",
       "names": [
-        "The Devon Hotel Making Seriously Good English Wine",
-        "Guilt-Free Getaways: The UK’s Most Eco-Friendly Hotels",
-        "London’s Best Homeware Shops For Stylish Interiors",
         "Sephora Brings Its Unmissable Beauty Festival To London",
         "Jefferson’s",
         "Melt Chocolates",
@@ -117,17 +110,6 @@
         "Marine Ices",
         "Greedy Goat",
         "Milktrain"
-      ]
-    },
-    {
-      "name": "Canasta Journal",
-      "url": "https://canastajournal.substack.com/p/the-best-vegan-ice-cream-in-london-ec4",
-      "scope": "ice-cream",
-      "names": [
-        "This year's best scoops",
-        "Summer Specials",
-        "All Year Round",
-        "The Map"
       ]
     },
     {
@@ -174,12 +156,6 @@
         "Oddono's Gelati",
         "Think Like a Vegan"
       ]
-    },
-    {
-      "name": "The Nudge",
-      "url": "https://thenudge.com/marcelos/",
-      "scope": "ice-cream",
-      "names": []
     }
   ]
 }
