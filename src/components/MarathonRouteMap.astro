@@ -141,6 +141,18 @@ const markers = [
   :global(.marathon-map-marker--viewing) { background: #1d6fa5; }
   :global(.marathon-map-marker--crossing) { background: #b7791f; }
   :global(.marathon-map-marker--tunnel) { background: #6941c6; }
+
+  /* The route is wide and short - Woolwich to Westminster, mostly east-west,
+     with only about 4.5km of north-south spread. The shared .restaurant-map
+     min-height (32rem) was set for the roughly-circular area-guide maps and
+     is far taller than this route needs; fitBounds on a tall narrow box
+     forces a big zoom-out to fit the width, which drags in areas well north
+     and south of anything on the route (Waltham Cross, at the extreme). A
+     shorter box keeps the container's own aspect ratio closer to the
+     route's, so less padding is needed either side. */
+  .marathon-map__canvas {
+    min-height: 20rem;
+  }
 </style>
 
 <script>
@@ -258,7 +270,19 @@ const markers = [
           .bindPopup(createPopup(markerData));
       }
 
+      // The route is wide (Woolwich to Westminster) and short (about 4.5km
+      // north-south), so a plain fitBounds on a container narrower than the
+      // route's own aspect ratio zooms out far past what the height needs,
+      // just to fit the width - on a narrow phone screen that drags in
+      // places like Waltham Cross, 16km north of anything on the course.
+      // fitBounds still runs first for its centring math, then getZoom()
+      // is clamped up (zoomed back in) if it went further out than a
+      // reasonable minimum. The trade-off is the full width may run off
+      // either edge on a narrow screen - acceptable, since finding one's
+      // own viewing spot means panning and zooming in regardless.
       map.fitBounds(L.latLngBounds(allPositions), { padding: [24, 24], maxZoom: 14 });
+      const MIN_ZOOM = 11;
+      if (map.getZoom() < MIN_ZOOM) map.setZoom(MIN_ZOOM);
 
       const shell = element.closest<HTMLDetailsElement>("details");
       shell?.addEventListener("toggle", () => {
