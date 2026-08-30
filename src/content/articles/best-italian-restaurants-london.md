@@ -145,6 +145,10 @@ Named by six separate mastheads, more editorial agreement than any other Italian
 
 Sit at the marble counter facing the kitchen rather than in the back room.
 
+![The frontage of Bocca di Lupo on Archer Street in Soho](../../assets/articles/best-italian-restaurants-london/bocca-di-lupo.jpg)
+
+*Six separate mastheads name it — more editorial agreement than any other Italian restaurant in London. Photo: [Andrew Davidson](https://commons.wikimedia.org/wiki/File:Bocca_Di_Lupo.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
+
 ### Lina Stores, Soho
 
 *££ · Brewer Street · Cited by 5 sources*
@@ -153,6 +157,10 @@ The **mint-green deli on Brewer Street since 1944**, opened by an Italian couple
 
 The restaurants came seventy years later and the shop is still the point: fresh pasta cut to order, salumi, cheese and tinned things worth carrying home. **Take the pasta home** — it is a fraction of the restaurant price and the best souvenir on this page.
 
+![The mint-green frontage of the Lina Stores deli on Brewer Street](../../assets/articles/best-italian-restaurants-london/lina-stores.jpg)
+
+*The mint-green deli has been on Brewer Street since 1944. The restaurants came seventy years later. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Lina_Stores,_Soho,_W1.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).*
+
 ### Bancone, Covent Garden
 
 *££ · 3 min from Charing Cross · Cited by 5 sources · Bib Gourmand*
@@ -160,6 +168,10 @@ The restaurants came seventy years later and the shop is still the point: fresh 
 Watch the pasta being rolled at the counter, at prices well below what a Bib Gourmand normally costs. The **silk handkerchiefs with walnut butter and confit egg yolk** are the signature and genuinely originated here — the dish has since been copied across half of London.
 
 The Covent Garden original takes no bookings for small tables. The Borough and Golden Square sites do, and the pasta is the same.
+
+![The Bancone restaurant frontage on Lower James Street in Soho](../../assets/articles/best-italian-restaurants-london/bancone.jpg)
+
+*The Golden Square site, which unlike the Covent Garden original does take bookings. Photo: [No Swan So Fine](https://commons.wikimedia.org/wiki/File:Bancone,_Lower_James_Street,_Soho,_August_2023_02.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
 
 ### Ciao Bella, Bloomsbury
 
@@ -277,6 +289,10 @@ Italian small plates rather than a full menu: cauliflower fritti with aioli, bur
 
 The Burlington Gardens dining room that has been Mayfair's default Italian lunch since 1978 — green-and-white striped awnings, a marble bar, and a room where the people-watching is a substantial part of the bill.
 
+![The green-and-white striped awnings of Cecconi's on Burlington Gardens](../../assets/articles/best-italian-restaurants-london/cecconis.jpg)
+
+*The awnings are the landmark. Mayfair's default Italian lunch since 1978. Photo: [Ewan Munro](https://commons.wikimedia.org/wiki/File:Cecconis,_Mayfair,_London_(3872025826).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).*
+
 ---
 
 ## Best value
@@ -317,6 +333,10 @@ Backed by the sources but not written up above, either because only two guides n
 | **Sale e Pepe Mare** | Marylebone | ££££ | Ligurian seafood in The Langham; cacio e pepe finished in the wheel | — |
 | **Ornella** | London Fields | £££ | *(see above)* — Milanese, a neighbourhood restaurant rather than a destination | — |
 | **Macellaio RC** | South Kensington | £££ | *(see above)* — Piedmontese Fassona beef, cut to order | — |
+
+![The neon frontage of Bar Italia on Frith Street at night](../../assets/articles/best-italian-restaurants-london/bar-italia.jpg)
+
+*Bar Italia has been on Frith Street since 1949 and still opens almost around the clock — the oldest thing on this page by some margin. Photo: [SomeDriftwood](https://commons.wikimedia.org/wiki/File:Bar_Italia_-_Soho_(4764432107).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).*
 
 [See all 112 Italian restaurants →](/restaurants/cuisine/italian)
 
