@@ -1088,6 +1088,31 @@
     "youtube.com/@LondonFoodies": {
       "name": "London Foodies (YouTube)",
       "tier": "D"
+    },
+    "youtube.com/@MarkWiensAbroad": {
+      "name": "Mark Wiens Abroad (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@eatingwithtod": {
+      "name": "Eating With Tod (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@HannahRicketts": {
+      "name": "Hannah Ricketts (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@LatifsInspired": {
+      "name": "Latifs Inspired (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@FoodyFella": {
+      "name": "FoodyFella (YouTube)",
+      "tier": "D"
+    },
+    "worldbeststeaks.com": {
+      "name": "World's 101 Best Steak Restaurants",
+      "tier": "A",
+      "note": "Annual ranked list of 101 restaurants with a year on it, running since 2019. Judged and dated, so tier A."
     }
   }
 }

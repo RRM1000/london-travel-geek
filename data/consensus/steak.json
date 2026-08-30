@@ -104,36 +104,6 @@
       ]
     },
     {
-      "name": "World's 101 Best Steak Restaurants 2026 (Time Out)",
-      "url": "https://www.timeout.com/london/news/9-london-steak-restaurants-have-been-named-in-the-101-best-in-the-world-for-2026-040126",
-      "scope": "awards",
-      "names": [
-        "Ibai",
-        "Hawksmoor St Pancras",
-        "Brat",
-        "Lutyens Grill",
-        "The Devonshire",
-        "Chelsea Grill",
-        "Sagardi",
-        "Zoilo",
-        "The Guinea Grill",
-        "Investor relations",
-        "Work for Time Out",
-        "Privacy notice",
-        "Do not sell my information",
-        "Accessibility statement",
-        "Get Listed",
-        "Time Out Offers FAQ",
-        "Advertising",
-        "Time Out Market",
-        "Time Out Offers",
-        "Time Out Worldwide",
-        "Movies",
-        "Hawksmoor in St Pancras",
-        "Guinea Grill"
-      ]
-    },
-    {
       "name": "The Infatuation",
       "url": "https://www.theinfatuation.com/london/guides/best-steak-restaurants-london",
       "names": [
@@ -210,7 +180,162 @@
       "quotes": {
         "Sagardi": "txuleton rib steaks from old free-range cows over a centrepiece charcoal Basque grill"
       }
+    },
+    {
+      "name": "Harrison Webb (YouTube)",
+      "url": "https://www.youtube.com/@HarrisonWebb97",
+      "scope": "steak",
+      "names": [
+        "Goodman",
+        "Swiss Butter",
+        "Smith & Wollensky",
+        "Palm Court Brasserie",
+        "Coq d'Argent",
+        "Lutyens Grill",
+        "The Quality Chop House",
+        "Hawksmoor",
+        "Blacklock",
+        "Flat Iron",
+        "CUT at 45 Park Lane"
+      ],
+      "quotes": {
+        "Hawksmoor": "One of five sirloins ordered medium-rare with a side and a glass of wine, to keep the comparison fair"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "MORE FALLOW (YouTube)",
+      "url": "https://www.youtube.com/@MoreFallow",
+      "scope": "steak",
+      "names": [
+        "Blacklock"
+      ],
+      "quotes": {
+        "Blacklock": "Chefs review the Canary Wharf site - 'probably the best steakhouse in the UK'"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "TOPJAW (YouTube)",
+      "url": "https://www.youtube.com/@topjaw",
+      "scope": "steak",
+      "names": [
+        "Ibai"
+      ],
+      "quotes": {
+        "Ibai": "From Txuleta, one of the UK's leading meat suppliers, opening a restaurant to sell their own best cuts"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Sorted Food (YouTube)",
+      "url": "https://www.youtube.com/@SortedFood",
+      "scope": "steak",
+      "names": [
+        "The Devonshire",
+        "Macellaio RC",
+        "Ibai"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Mark Wiens Abroad (YouTube)",
+      "url": "https://www.youtube.com/@MarkWiensAbroad",
+      "scope": "steak",
+      "names": [
+        "The Quality Chop House",
+        "Smiths of Smithfield"
+      ],
+      "quotes": {
+        "The Quality Chop House": "On Farringdon Road since 1869, Grade II listed, everything butchered on site"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Gary Eats (YouTube)",
+      "url": "https://www.youtube.com/@GaryEats",
+      "scope": "steak",
+      "names": [
+        "Hawksmoor",
+        "Flat Iron"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Eating With Tod (YouTube)",
+      "url": "https://www.youtube.com/@eatingwithtod",
+      "scope": "steak",
+      "names": [
+        "Sagardi"
+      ],
+      "quotes": {
+        "Sagardi": "Basque, with the butchery room open to view as you walk in"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Hannah Ricketts (YouTube)",
+      "url": "https://www.youtube.com/@HannahRicketts",
+      "scope": "steak",
+      "names": [
+        "Flat Iron"
+      ],
+      "quotes": {
+        "Flat Iron": "Testing whether a £15 steak is a scam"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Latifs Inspired (YouTube)",
+      "url": "https://www.youtube.com/@LatifsInspired",
+      "scope": "steak",
+      "names": [
+        "Karve Steakhouse"
+      ],
+      "quotes": {
+        "Karve Steakhouse": "Everything cooked over wood fire in Lower Clapton; halal"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "FoodyFella (YouTube)",
+      "url": "https://www.youtube.com/@FoodyFella",
+      "scope": "steak",
+      "names": [
+        "CUT at 45 Park Lane"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "World's 101 Best Steak Restaurants 2026",
+      "url": "https://www.worldbeststeaks.com/the-list",
+      "scope": "steak",
+      "names": [
+        "Ibai",
+        "Hawksmoor",
+        "Brat",
+        "Lutyens Grill",
+        "The Devonshire",
+        "Chelsea Grill",
+        "Sagardi",
+        "Zoilo",
+        "The Guinea Grill"
+      ],
+      "quotes": {
+        "Ibai": "#7 in the World's 101 Best Steak Restaurants 2026",
+        "Hawksmoor": "#13 in the World's 101 Best Steak Restaurants 2026",
+        "Brat": "#17 in the World's 101 Best Steak Restaurants 2026",
+        "Lutyens Grill": "#35 in the World's 101 Best Steak Restaurants 2026",
+        "The Devonshire": "#45 in the World's 101 Best Steak Restaurants 2026",
+        "Chelsea Grill": "#55 in the World's 101 Best Steak Restaurants 2026",
+        "Sagardi": "#90 in the World's 101 Best Steak Restaurants 2026",
+        "Zoilo": "#96 in the World's 101 Best Steak Restaurants 2026",
+        "The Guinea Grill": "#99 in the World's 101 Best Steak Restaurants 2026"
+      },
+      "recorded": "2026-08-30",
+      "_note": "Nine London entries in the 2026 list, read off the ranking's own site. GOODMAN IS NOT IN IT - the article claimed '#54 in the World's 101 Best Steak Restaurants' as current, and that is not supported by the 2026 list. Chelsea Grill at #55 was not otherwise in this corpus."
     }
   ],
-  "recorded": "2026-08-25"
+  "recorded": "2026-08-25",
+  "_excludedNegativeMentions": "Angus Steakhouse and Nusr-Et are named by Harrison Webb's 'I Tried London's Worst Steakhouses' and by Eating With Tod's Salt Bae review. Both are criticism, not recommendation, and are not recorded - a citation counts agreement that a place is good, not that it exists."
 }

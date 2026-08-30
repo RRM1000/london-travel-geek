@@ -3299,10 +3299,10 @@
       "seafood",
       "steak"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B4 C2",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 7,
+    "tierSpread": "A1 B4 C2",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "activities-shoreditch": {
         "sourceCount": 1,
@@ -3330,12 +3330,18 @@
       },
       "steak": {
         "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "World's 101 Best Steak Restaurants",
+        "url": "https://www.worldbeststeaks.com/the-list",
+        "quote": "#17 in the World's 101 Best Steak Restaurants 2026"
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -8781,10 +8787,10 @@
       "steak",
       "sunday-roast"
     ],
-    "sourceCount": 7,
-    "tierSpread": "B4 C2 D1",
-    "tierCount": 3,
-    "hasAward": false,
+    "sourceCount": 9,
+    "tierSpread": "A1 B4 C2 D2",
+    "tierCount": 4,
+    "hasAward": true,
     "byTopic": {
       "activities": {
         "sourceCount": 1,
@@ -8805,10 +8811,10 @@
         "hasAward": false
       },
       "steak": {
-        "sourceCount": 5,
-        "tierSpread": "B4 C1",
-        "tierCount": 2,
-        "hasAward": false
+        "sourceCount": 8,
+        "tierSpread": "A1 B4 C1 D2",
+        "tierCount": 4,
+        "hasAward": true
       },
       "sunday-roast": {
         "sourceCount": 1,
@@ -8818,6 +8824,12 @@
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "World's 101 Best Steak Restaurants",
+        "url": "https://www.worldbeststeaks.com/the-list",
+        "quote": "#13 in the World's 101 Best Steak Restaurants 2026"
+      },
       {
         "tier": "B",
         "source": "The Infatuation",
@@ -8852,6 +8864,11 @@
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats"
       }
     ]
   },
@@ -24827,8 +24844,8 @@
       "general",
       "steak"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B3 C1 D2",
+    "sourceCount": 7,
+    "tierSpread": "B3 C1 D3",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -24851,9 +24868,9 @@
         "hasAward": false
       },
       "steak": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "B2 D2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -24887,6 +24904,12 @@
         "tier": "D",
         "source": "Strictly Dumpling (YouTube)",
         "url": "https://www.youtube.com/@strictlydumpling"
+      },
+      {
+        "tier": "D",
+        "source": "More Fallow (YouTube)",
+        "url": "https://www.youtube.com/@MoreFallow",
+        "quote": "Chefs review the Canary Wharf site - 'probably the best steakhouse in the UK'"
       }
     ]
   },
@@ -25005,8 +25028,8 @@
       "steak",
       "sunday-roast"
     ],
-    "sourceCount": 8,
-    "tierSpread": "B6 C1 D1",
+    "sourceCount": 9,
+    "tierSpread": "B6 C1 D2",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -25023,9 +25046,9 @@
         "hasAward": false
       },
       "steak": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "B2 D2",
+        "tierCount": 2,
         "hasAward": false
       },
       "sunday-roast": {
@@ -25075,6 +25098,12 @@
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "Mark Wiens Abroad (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiensAbroad",
+        "quote": "On Farringdon Road since 1869, Grade II listed, everything butchered on site"
       }
     ]
   },
@@ -25086,9 +25115,9 @@
       "steak",
       "sunday-roast"
     ],
-    "sourceCount": 6,
-    "tierSpread": "A1 B3 C2",
-    "tierCount": 3,
+    "sourceCount": 7,
+    "tierSpread": "A2 B2 C2 D1",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "british": {
@@ -25104,10 +25133,10 @@
         "hasAward": false
       },
       "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 D1",
+        "tierCount": 2,
+        "hasAward": true
       },
       "sunday-roast": {
         "sourceCount": 1,
@@ -25123,6 +25152,12 @@
         "url": "https://www.top50gastropubs.com/"
       },
       {
+        "tier": "A",
+        "source": "World's 101 Best Steak Restaurants",
+        "url": "https://www.worldbeststeaks.com/the-list",
+        "quote": "#45 in the World's 101 Best Steak Restaurants 2026"
+      },
+      {
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london"
@@ -25133,11 +25168,6 @@
         "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
       },
       {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/9-london-steak-restaurants-have-been-named-in-the-101-best-in-the-world-for-2026-040126"
-      },
-      {
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-british-restaurants-in-london"
@@ -25146,6 +25176,11 @@
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      },
+      {
+        "tier": "D",
+        "source": "Sorted Food (YouTube)",
+        "url": "https://www.youtube.com/@SortedFood"
       }
     ]
   },
@@ -36788,7 +36823,6 @@
       "japanese",
       "middle-eastern",
       "new-openings",
-      "steak",
       "thai"
     ],
     "sourceCount": 1,
@@ -36869,12 +36903,6 @@
         "hasAward": false
       },
       "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -36911,7 +36939,6 @@
       "japanese",
       "middle-eastern",
       "new-openings",
-      "steak",
       "thai"
     ],
     "sourceCount": 1,
@@ -36992,12 +37019,6 @@
         "hasAward": false
       },
       "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37059,7 +37080,6 @@
       "japanese",
       "middle-eastern",
       "new-openings",
-      "steak",
       "thai"
     ],
     "sourceCount": 1,
@@ -37140,12 +37160,6 @@
         "hasAward": false
       },
       "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37182,7 +37196,6 @@
       "japanese",
       "middle-eastern",
       "new-openings",
-      "steak",
       "thai"
     ],
     "sourceCount": 1,
@@ -37263,12 +37276,6 @@
         "hasAward": false
       },
       "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37330,7 +37337,6 @@
       "japanese",
       "middle-eastern",
       "new-openings",
-      "steak",
       "thai"
     ],
     "sourceCount": 1,
@@ -37411,12 +37417,6 @@
         "hasAward": false
       },
       "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37453,7 +37453,6 @@
       "japanese",
       "middle-eastern",
       "new-openings",
-      "steak",
       "thai"
     ],
     "sourceCount": 1,
@@ -37534,12 +37533,6 @@
         "hasAward": false
       },
       "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37576,7 +37569,6 @@
       "japanese",
       "middle-eastern",
       "new-openings",
-      "steak",
       "thai"
     ],
     "sourceCount": 1,
@@ -37657,12 +37649,6 @@
         "hasAward": false
       },
       "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37699,7 +37685,6 @@
       "japanese",
       "middle-eastern",
       "new-openings",
-      "steak",
       "thai"
     ],
     "sourceCount": 1,
@@ -37780,12 +37765,6 @@
         "hasAward": false
       },
       "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37822,7 +37801,6 @@
       "japanese",
       "middle-eastern",
       "new-openings",
-      "steak",
       "thai"
     ],
     "sourceCount": 1,
@@ -37903,12 +37881,6 @@
         "hasAward": false
       },
       "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37945,7 +37917,6 @@
       "japanese",
       "middle-eastern",
       "new-openings",
-      "steak",
       "thai"
     ],
     "sourceCount": 1,
@@ -38026,12 +37997,6 @@
         "hasAward": false
       },
       "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -72521,16 +72486,23 @@
     "name": "Coq d’Argent",
     "topics": [
       "french",
+      "steak",
       "turkish"
     ],
-    "sourceCount": 2,
-    "tierSpread": "A1 C1",
-    "tierCount": 2,
+    "sourceCount": 3,
+    "tierSpread": "A1 C1 D1",
+    "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "french": {
         "sourceCount": 1,
         "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "steak": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -72551,6 +72523,11 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/best-french-restaurants-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
       }
     ]
   },
@@ -83802,10 +83779,10 @@
       "spanish",
       "steak"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B4 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 8,
+    "tierSpread": "A1 B4 C1 D2",
+    "tierCount": 4,
+    "hasAward": true,
     "byTopic": {
       "general": {
         "sourceCount": 1,
@@ -83820,13 +83797,19 @@
         "hasAward": false
       },
       "steak": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 5,
+        "tierSpread": "A1 B2 D2",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "World's 101 Best Steak Restaurants",
+        "url": "https://www.worldbeststeaks.com/the-list",
+        "quote": "#7 in the World's 101 Best Steak Restaurants 2026"
+      },
       {
         "tier": "B",
         "source": "SquareMeal",
@@ -83851,6 +83834,17 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/best-spanish-restaurants-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw",
+        "quote": "From Txuleta, one of the UK's leading meat suppliers, opening a restaurant to sell their own best cuts"
+      },
+      {
+        "tier": "D",
+        "source": "Sorted Food (YouTube)",
+        "url": "https://www.youtube.com/@SortedFood"
       }
     ]
   },
@@ -85304,8 +85298,8 @@
       "general",
       "steak"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B3 C1 D1",
+    "sourceCount": 7,
+    "tierSpread": "B3 C1 D3",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -85316,9 +85310,9 @@
         "hasAward": false
       },
       "steak": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
+        "sourceCount": 7,
+        "tierSpread": "B3 C1 D3",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -85347,6 +85341,17 @@
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats"
+      },
+      {
+        "tier": "D",
+        "source": "Hannah Ricketts (YouTube)",
+        "url": "https://www.youtube.com/@HannahRicketts",
+        "quote": "Testing whether a £15 steak is a scam"
       }
     ]
   },
@@ -85357,8 +85362,8 @@
       "steak",
       "sunday-roast"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B4 C1 D1",
+    "sourceCount": 7,
+    "tierSpread": "B4 C1 D2",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -85369,9 +85374,9 @@
         "hasAward": false
       },
       "steak": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
+        "sourceCount": 6,
+        "tierSpread": "B3 C1 D2",
+        "tierCount": 3,
         "hasAward": false
       },
       "sunday-roast": {
@@ -85411,6 +85416,11 @@
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "FoodyFella (YouTube)",
+        "url": "https://www.youtube.com/@FoodyFella"
       }
     ]
   },
@@ -98856,9 +98866,9 @@
       "italian",
       "steak"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "italian": {
@@ -98868,9 +98878,9 @@
         "hasAward": false
       },
       "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -98884,6 +98894,11 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Sorted Food (YouTube)",
+        "url": "https://www.youtube.com/@SortedFood"
       }
     ]
   },
@@ -131721,9 +131736,9 @@
       "steak",
       "turkish"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B2",
-    "tierCount": 2,
+    "sourceCount": 5,
+    "tierSpread": "A2 B2 D1",
+    "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "seafood": {
@@ -131733,10 +131748,10 @@
         "hasAward": false
       },
       "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 D1",
+        "tierCount": 3,
+        "hasAward": true
       },
       "turkish": {
         "sourceCount": 1,
@@ -131746,6 +131761,12 @@
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "World's 101 Best Steak Restaurants",
+        "url": "https://www.worldbeststeaks.com/the-list",
+        "quote": "#35 in the World's 101 Best Steak Restaurants 2026"
+      },
       {
         "tier": "A",
         "source": "Harden's",
@@ -131760,6 +131781,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
       }
     ]
   },
@@ -134015,19 +134041,25 @@
     "topics": [
       "steak"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B4 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 6,
+    "tierSpread": "A1 B4 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "steak": {
-        "sourceCount": 5,
-        "tierSpread": "B4 C1",
-        "tierCount": 2,
-        "hasAward": false
+        "sourceCount": 6,
+        "tierSpread": "A1 B4 C1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "World's 101 Best Steak Restaurants",
+        "url": "https://www.worldbeststeaks.com/the-list",
+        "quote": "#99 in the World's 101 Best Steak Restaurants 2026"
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -134190,15 +134222,15 @@
     "topics": [
       "steak"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "B2 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "steak": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
+        "sourceCount": 4,
+        "tierSpread": "B2 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -134217,6 +134249,11 @@
         "tier": "C",
         "source": "Walk Eat London",
         "url": "https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
       }
     ]
   },
@@ -134226,27 +134263,28 @@
       "steak"
     ],
     "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
     "byTopic": {
       "steak": {
         "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
       {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/"
+        "tier": "A",
+        "source": "World's 101 Best Steak Restaurants",
+        "url": "https://www.worldbeststeaks.com/the-list",
+        "quote": "#96 in the World's 101 Best Steak Restaurants 2026"
       },
       {
         "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/9-london-steak-restaurants-have-been-named-in-the-101-best-in-the-world-for-2026-040126"
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/"
       }
     ]
   },
@@ -134670,15 +134708,15 @@
     "topics": [
       "steak"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
+    "sourceCount": 3,
+    "tierSpread": "B1 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "steak": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -134692,6 +134730,11 @@
         "tier": "C",
         "source": "Walk Eat London",
         "url": "https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
       }
     ]
   },
@@ -134797,111 +134840,6 @@
         "tier": "C",
         "source": "Walk Eat London",
         "url": "https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
-      }
-    ]
-  },
-  "hawksmoorstpancras": {
-    "name": "Hawksmoor St Pancras",
-    "topics": [
-      "steak"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/9-london-steak-restaurants-have-been-named-in-the-101-best-in-the-world-for-2026-040126"
-      }
-    ]
-  },
-  "chelseagrill": {
-    "name": "Chelsea Grill",
-    "topics": [
-      "steak"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/9-london-steak-restaurants-have-been-named-in-the-101-best-in-the-world-for-2026-040126"
-      }
-    ]
-  },
-  "sagardi": {
-    "name": "Sagardi",
-    "topics": [
-      "steak"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "steak": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/9-london-steak-restaurants-have-been-named-in-the-101-best-in-the-world-for-2026-040126"
-      },
-      {
-        "tier": "C",
-        "source": "Walk Eat London",
-        "url": "https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
-      }
-    ]
-  },
-  "hawksmoorinstpancras": {
-    "name": "Hawksmoor in St Pancras",
-    "topics": [
-      "steak"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/9-london-steak-restaurants-have-been-named-in-the-101-best-in-the-world-for-2026-040126"
       }
     ]
   },
@@ -135027,6 +134965,170 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-steak-restaurants-london"
+      }
+    ]
+  },
+  "sagardi": {
+    "name": "Sagardi",
+    "topics": [
+      "steak"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A1 C1 D1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "steak": {
+        "sourceCount": 3,
+        "tierSpread": "A1 C1 D1",
+        "tierCount": 3,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "World's 101 Best Steak Restaurants",
+        "url": "https://www.worldbeststeaks.com/the-list",
+        "quote": "#90 in the World's 101 Best Steak Restaurants 2026"
+      },
+      {
+        "tier": "C",
+        "source": "Walk Eat London",
+        "url": "https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
+      },
+      {
+        "tier": "D",
+        "source": "Eating With Tod (YouTube)",
+        "url": "https://www.youtube.com/@eatingwithtod",
+        "quote": "Basque, with the butchery room open to view as you walk in"
+      }
+    ]
+  },
+  "swissbutter": {
+    "name": "Swiss Butter",
+    "topics": [
+      "steak"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "steak": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "palmcourtbrasserie": {
+    "name": "Palm Court Brasserie",
+    "topics": [
+      "steak"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "steak": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "smithsofsmithfield": {
+    "name": "Smiths of Smithfield",
+    "topics": [
+      "steak"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "steak": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Mark Wiens Abroad (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiensAbroad"
+      }
+    ]
+  },
+  "karvesteakhouse": {
+    "name": "Karve Steakhouse",
+    "topics": [
+      "steak"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "steak": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Latifs Inspired (YouTube)",
+        "url": "https://www.youtube.com/@LatifsInspired",
+        "quote": "Everything cooked over wood fire in Lower Clapton; halal"
+      }
+    ]
+  },
+  "chelseagrill": {
+    "name": "Chelsea Grill",
+    "topics": [
+      "steak"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "steak": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "World's 101 Best Steak Restaurants",
+        "url": "https://www.worldbeststeaks.com/the-list",
+        "quote": "#55 in the World's 101 Best Steak Restaurants 2026"
       }
     ]
   },

@@ -1,0 +1,94 @@
+{
+  "topic": "steak",
+  "article": "src/content/articles/best-steak-restaurants-london.md",
+  "headTerm": "Steak Restaurants",
+  "status": "video tier collected and tier-F counting fixed 2026-08-30",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. Steak is the first topic here with NO judged award at all - say so in the article rather than implying authority the category does not have.",
+  "awardBodies": [
+    {
+      "name": "World's 101 Best Steak Restaurants",
+      "domain": "worldbeststeaks.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "Annual ranked list of 101 restaurants, running since 2019, with nine London entries in 2026. FOUND 2026-08-30: it was already in the corpus, but recorded under the Time Out news article that reported it - which filed a judged ranking under Time Out's masthead and destroyed the tier-A signal, exactly the National Pizza Awards error. Re-attributed to the ranking's own site."
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "tier": "B"
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "tier": "B"
+    },
+    {
+      "name": "Olive Magazine",
+      "domain": "olivemagazine.com",
+      "tier": "B"
+    },
+    {
+      "name": "Luxury London",
+      "domain": "luxurylondon.co.uk",
+      "tier": "B"
+    },
+    {
+      "name": "Walk Eat London",
+      "domain": "walkeatlondon.com",
+      "tier": "C"
+    }
+  ],
+  "facetAxis": {
+    "field": "style",
+    "note": "Steak is one-dimensional but the axis is the WHOLE argument - these are three different products, not three price points for the same one.",
+    "values": [
+      {
+        "key": "british",
+        "label": "British steakhouse",
+        "describeAs": "dry-aged native breeds, cooked over charcoal"
+      },
+      {
+        "key": "basque",
+        "label": "Basque asador",
+        "describeAs": "aged dairy-cow chops over coals, ordered rare and sliced for the table"
+      },
+      {
+        "key": "butcher",
+        "label": "Butcher's counter",
+        "describeAs": "the animal is the point and the room is incidental"
+      },
+      {
+        "key": "argentine",
+        "label": "Argentine parrilla"
+      }
+    ]
+  },
+  "videoTier": {
+    "collected": "2026-08-30",
+    "channels": 10,
+    "names": 24,
+    "costUsd": "~0.10",
+    "trap": "A SOURCE NAMING A VENUE IS NOT ALWAYS ENDORSING IT. Harrison Webb's 'I Tried London's Worst Steakhouses' names Angus Steakhouse and Nusr-Et as the bad ones, and Eating With Tod reviews Salt Bae sceptically. Recording those would count a takedown as a recommendation. Excluded. Gary Eats' Falcon Steakhouse is in the Cotswolds, not London."
+  },
+  "articleRewriteNeeded": [
+    "8 venues meet the bar and are missing: The Quality Chop House (4 - Mark Wiens filmed a full feature there), Smith & Wollensky (3), The Devonshire, Sucre, Zoilo, Daffodil Mulligan, Gaucho, M Restaurant.",
+    "Brutto has one steak citation and sits in the article as a full entry. It is well supported under ITALIAN (4 sources) - do not print a steak count for it.",
+    "Zelman Meats and Mucci's appear in Best value with no steak citation at all.",
+    "The article predates the evidence block, citation lines and /how-we-rank/."
+  ],
+  "knownGaps": [
+    "No community tier (E), as with every topic so far.",
+    "Six venues that clear the bar have no Restaurants v2 row: Smith & Wollensky, Sucre, Zoilo, Daffodil Mulligan, Gaucho, M Restaurant, plus Karve Steakhouse and Smiths of Smithfield from the video tier."
+  ],
+  "currentState": {
+    "recorded": "2026-08-30",
+    "sources": 22,
+    "citations": 129,
+    "venues": 71,
+    "twoPlusDomains": 21,
+    "tierA": 9
+  },
+  "correction": "The article claimed Goodman was '#54 in the World's 101 Best Steak Restaurants' as a current fact. Goodman is NOT in the 2026 list at all. Removed. Chelsea Grill at #55 was not otherwise in the corpus and is new from the primary source."
+}
