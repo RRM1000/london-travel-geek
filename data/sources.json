@@ -1154,6 +1154,23 @@
     "youtube.com/@BitesizeReviews": {
       "name": "Bitesize Reviews (YouTube)",
       "tier": "D"
+    },
+    "thefishandchipawards.com": {
+      "tier": "A",
+      "name": "National Fish and Chip Awards",
+      "note": "Run by the National Federation of Fish Friers, judged and dated, ceremony each February. The site publishes entry information rather than results - there is no winners page, and the 2026 shortlist has to be read from press reports. Attribute to this domain anyway: the award is the originator."
+    },
+    "youtube.com/@TomtheTaxiDriver": {
+      "tier": "D",
+      "name": "Tom the Taxi Driver"
+    },
+    "youtube.com/@TravelWithBen121": {
+      "tier": "D",
+      "name": "Travel with Ben"
+    },
+    "youtube.com/@RestroSpot": {
+      "tier": "D",
+      "name": "RestroSpot"
     }
   }
 }

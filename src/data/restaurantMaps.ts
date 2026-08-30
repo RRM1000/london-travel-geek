@@ -800,7 +800,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.524858,
       longitude: -0.072433,
       type: "editorial",
-      articleAnchor: "#shoreditch-fish-and-chips-shoreditch",
     },
     {
       name: "Masters Superfish",

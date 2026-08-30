@@ -1,7 +1,7 @@
 {
   "cuisine": "fish-and-chips",
   "note": "SCOPE. Fish and chip shops and chippy dining rooms in London. Includes matzo-fried Jewish north London tradition. NOT general seafood restaurants.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "Cozymeal",
@@ -31,13 +31,12 @@
       "url": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants",
       "scope": "fish-and-chips",
       "names": [
-        "London’s best fish and chips shops",
         "Michael's Fish Bar",
         "Fish Lounge",
         "The Seashell of Lisson Grove",
         "Masters Superfish",
         "Rock & Sole Plaice",
-        "The Fryer’s Delight",
+        "The Fryer's Delight",
         "Ken's Fish Bar",
         "Sutton & Sons",
         "Fish Central",
@@ -47,18 +46,38 @@
         "Nautilus",
         "The Mayfair Chippy",
         "Poppies",
-        "Toff’s",
+        "Toff's",
         "Golden Union",
         "Every Fish Bar"
-      ]
+      ],
+      "quotes": {
+        "Michael's Fish Bar": "#1 in Time Out's ranking. Leonie Cooper for Time Out This cash-only Leyton chippy landed immediately in our good books when we were told we had to wait a few minutes for our chips, so we could have the freshest fries available. This Chinese-run neigh",
+        "Fish Lounge": "#2 in Time Out's ranking. British Brixton 5 out of 5 stars Recommended Keenly upholding a singular British tradition, this spotless Brixton chippy gets everything right: each piece of fish is delicately battered, chips are pleasingly thick and deligh",
+        "The Seashell of Lisson Grove": "#3 in Time Out's ranking. British Lisson Grove 4 out of 5 stars Recommended Seashell of Lisson Grove A true classic of the London fish 'n' chip scene, The Seashell of Lisson Grove is something of a chippy celebrity. It attracts a fair few of them too",
+        "Masters Superfish": "#4 in Time Out's ranking. British Waterloo price 1 of 4 4 out of 5 stars Recommended © Kevin Nicholson Masters Superfish is something of a south London institution - a canteen-like room packed with personality serving many types of fish straight from",
+        "Rock & Sole Plaice": "#5 in Time Out's ranking. British Covent Garden price 2 of 4 4 out of 5 stars Recommended Covent Garden's Rock & Sole Plaice is a bona fide fish 'n' chip legend, as well as being the best-named chippy in town - quite something in a pun-heavy field. I",
+        "The Fryer's Delight": "#6 in Time Out's ranking. British Holborn 4 out of 5 stars Recommended Time Out A real-deal chippy, The Fryer's Delight has been serving London well since 1962. It may look like a London cabbie's hole-up (formica-topped tables, long benches, old-scho",
+        "Ken's Fish Bar": "#7 in Time Out's ranking. You'll find Ken's Fish Bar somewhere in the south London hinterlands between Dulwich and Herne Hill. A local legend since 1984, the family-run Ken's rose to global fame after a spot on Somebody Feed Phil .",
+        "Sutton & Sons": "#8 in Time Out's ranking. British Stoke Newington 4 out of 5 stars Recommended Sutton & Sons Sutton & Sons is a London fishmonger of repute, so freshness is guaranteed at this high-end chippy across the road from its Stoke Newington shop. In addition",
+        "Fish Central": "#9 in Time Out's ranking. British Clerkenwell 4 out of 5 stars Recommended © Britta Jaschinski A family business tucked in a shopping precinct on a housing estate is worth shouting about. This long-standing restaurant still has the soul of a fish 'n'",
+        "Mickey's Chippy": "#10 in Time Out's ranking. This Stoke Newington classic isn ' t just excellent because of its proximity to one of the best pubs in London ( The Army & Navy , Time Out ' s London Pub of the Year 2024), but because it delivers excellent fish and chips ",
+        "Faulkners": "#11 in Time Out's ranking. Seafood Dalston 4 out of 5 stars Recommended An old-school fish 'n' chip restaurant on Kingsland Road, Faulkners was founded in the early 1980s and has been a local staple ever since. A sit-down joint, you can also enjoy Tu",
+        "The Golden Hind": "#12 in Time Out's ranking. British Marylebone 4 out of 5 stars Recommended Jael Marschner In 2024, the Golden Hind celebrated 110 years' service as a trusty purveyor of fish 'n' chips to the people of Marylebone. Every detail is spot-on here, from th",
+        "Nautilus": "#13 in Time Out's ranking. British West Hampstead 4 out of 5 stars Recommended © Rob Greig Basic chip-shop batter is off the menu at Nautilus - everything is coated in matzo meal, fried in matzo meal and egg, or grilled. No worries, because this no-f",
+        "The Mayfair Chippy": "#14 in Time Out's ranking. British Mayfair price 1 of 4 4 out of 5 stars Recommended Mayfair Chippy The Mayfair Chippy is in the middle of London's fanciest neighbourhood, surrounded by bank-breaking restaurants and high-end stores. It pays tribute t",
+        "Poppies": "#15 in Time Out's ranking. British Spitalfields 4 out of 5 stars Recommended Poppies Nostalgia rules at this Spitalfields chippy, which comes decked out with a pick 'n' mix assortment of British kitsch (a jukebox, newspaper cuttings, model aeroplanes",
+        "Toff's": "#16 in Time Out's ranking. British Muswell Hill Recommended A real one-off, this wood-panelled Muswell Hill chippy bears all the hallmarks of a long-running family business that knows what it's doing. Not much has changed here since the place opened ",
+        "Golden Union": "#17 in Time Out's ranking. British Soho 4 out of 5 stars Recommended © Tricia de Courcy Ling Forget the chain upstarts around Oxford Circus and head towards Soho for some proper old-fashioned fish 'n' chips . Golden Union looks like a cross between a",
+        "Every Fish Bar": "#18 in Time Out's ranking. An unexpected gem in Harrow, the Every Fish Bar was spotted by industry experts Fry magazine. Owned by Mohammed Gbadamosi, this place does the traditional stuff (with fish sourced from Billingsgate) but also fusion Caribbea"
+      },
+      "ranked": true,
+      "note": "Ranked 1-18. Ranks and per-venue text recorded 2026-08-30; the first pass kept neither and captured the page heading as a venue."
     },
     {
       "name": "Absolutely",
       "url": "https://absolutelymagazines.com/londons-best-fish-chips/",
       "scope": "fish-and-chips",
       "names": [
-        "Top Eats",
-        "Top London Chippies in 2026",
         "The Mayflower Pub",
         "Ken’s Fish Bar",
         "Poppies Fish & Chips",
@@ -72,11 +91,7 @@
         "Fish Central",
         "Joseph’s Fish & Chips",
         "King Neptune Fish & Chip Shop Edgware",
-        "Fishcotheque",
-        "eat",
-        "Absolutely Magazines",
-        "Topics",
-        "Other Absolutely Titles"
+        "Fishcotheque"
       ]
     },
     {
@@ -93,8 +108,7 @@
         "Golden Union Fish Bar",
         "Sutton & Sons",
         "Oliver's",
-        "Fish Central",
-        "The Author"
+        "Fish Central"
       ]
     },
     {
@@ -116,11 +130,7 @@
         "Kerbisher & Malt",
         "Golden Union",
         "Sael",
-        "The Golden Chippy",
-        "One Last Bite",
-        "Top Tasty Topics…",
-        "Cookie Consent",
-        "Cookie Preferences"
+        "The Golden Chippy"
       ]
     },
     {
@@ -133,31 +143,23 @@
         "Oliver's Fish & Chips",
         "Kennedy’s",
         "Sutton and Sons",
-        "The Golden Hind",
-        "Gigs",
-        "Explore",
-        "Company",
-        "Cookie Preferences"
-      ]
+        "The Golden Hind"
+      ],
+      "note": "Footer links (Gigs, Explore, Company, Cookie Preferences) were recorded as venues on the first pass and removed 2026-08-30."
     },
     {
-      "name": "Time Out (UK best)",
-      "url": "https://www.timeout.com/london/news/two-london-fish-and-chip-shops-have-been-crowned-the-best-in-the-uk-090325",
+      "name": "National Fish and Chip Awards 2026 - Takeaway of the Year Top 40",
+      "url": "https://thefishandchipawards.com/",
       "scope": "fish-and-chips",
       "names": [
-        "Investor relations",
-        "Work for Time Out",
-        "Privacy notice",
-        "Do not sell my information",
-        "Accessibility statement",
-        "Get Listed",
-        "Time Out Offers FAQ",
-        "Advertising",
-        "Time Out Market",
-        "Time Out Offers",
-        "Time Out Worldwide",
-        "Movies"
-      ]
+        "Brockley's Rock",
+        "Stones Fish and Chips"
+      ],
+      "quotes": {
+        "Brockley's Rock": "One of two London shops on the National Fish and Chip Awards 2026 Takeaway of the Year 40-shop shortlist. Trading since 2011, on the site of a former Chinese takeaway.",
+        "Stones Fish and Chips": "One of two London shops on the National Fish and Chip Awards 2026 Takeaway of the Year 40-shop shortlist. Opened 2015 on Horn Lane in Acton; also named in Fry magazine's UK top 50 in 2024."
+      },
+      "note": "ATTRIBUTION: the award is the originator, so it is filed under thefishandchipawards.com and not under the Time Out news article that reported it - filing it under Time Out would collapse a national award into a masthead that already counts here. The awards body publishes no results page (its site carries entry information and 2023 shortlists only), so the 2026 shortlist was read from Time Out's report of 9 March 2025. Flagged in data/topics/fish-and-chips.json."
     },
     {
       "name": "Mark Wiens (YouTube)",
@@ -230,9 +232,57 @@
         "Pisces",
         "Sea Pebbles",
         "The Golden Carp",
-        "Hobson’s",
-        "3 responses to “Top London Chippies”"
+        "Hobson’s"
       ]
+    },
+    {
+      "name": "Insider Food (YouTube)",
+      "url": "https://www.youtube.com/@InsiderFood",
+      "names": [
+        "Poppies Fish and Chips",
+        "The Golden Chippy",
+        "Fishcotheque",
+        "The Mayflower"
+      ],
+      "quotes": {
+        "The Golden Chippy": "Given its own 'Legendary Eats' episode - the Greenwich shop, not the Golden Chip in Hanwell."
+      }
+    },
+    {
+      "name": "Tom the Taxi Driver (YouTube)",
+      "url": "https://www.youtube.com/@TomtheTaxiDriver",
+      "names": [
+        "The Fryer's Delight",
+        "Kennedy's",
+        "Toff's",
+        "Sea Fresh",
+        "Fish Central"
+      ],
+      "quotes": {
+        "Kennedy's": "Named as the Goswell Road branch in a five-shop London run."
+      }
+    },
+    {
+      "name": "Travel with Ben (YouTube)",
+      "url": "https://www.youtube.com/@TravelWithBen121",
+      "names": [
+        "Fishcotheque",
+        "Rock and Sole Plaice",
+        "Poppies Fish and Chips"
+      ]
+    },
+    {
+      "name": "RestroSpot (YouTube)",
+      "url": "https://www.youtube.com/@RestroSpot",
+      "names": [
+        "Nautilus",
+        "The Golden Hind",
+        "The Mayfair Chippy",
+        "Masters Superfish",
+        "Poppies Fish and Chips",
+        "The Seashell of Lisson Grove"
+      ],
+      "note": "Auto-generated chapter markers. 'Toss' and 'Falers' were dropped rather than guessed at."
     }
   ]
 }

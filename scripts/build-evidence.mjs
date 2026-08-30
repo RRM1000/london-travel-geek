@@ -101,8 +101,15 @@ const CAPS_OK = (() => {
   return out;
 })();
 
+// outOfArea holds venues that are REAL and simply not in London - The
+// Infatuation's London seafood guide reaches into Essex, and a "top London
+// chippies" list into Surrey and Buckinghamshire. They were being written to
+// name-noise.json with a reason and then not read, so both still scored. Kept
+// separate from siteChrome on purpose: one is junk, the other is a real
+// business we are choosing not to cover.
 const NOISE_SET = new Set([
   ...NOISE.siteChrome, ...NOISE.countries, ...NOISE.genericCategories,
+  ...Object.keys(NOISE.outOfArea ?? {}),
 ].map((s) => s.toLowerCase()));
 const NOISE_RE = NOISE.patterns.map((p) => new RegExp(p, "i"));
 

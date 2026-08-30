@@ -60,6 +60,7 @@ const MAPS = [
     key: "fish-and-chips-london",
     list: "fish-and-chips",
     streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
+    tableOnly: ["shoreditch-fish-and-chips"],
     article: "src/content/articles/best-fish-and-chips-london.md",
   },
   {

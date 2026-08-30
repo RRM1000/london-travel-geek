@@ -144,13 +144,13 @@
         "Neighbourhoods",
         "Cornerstone Guides",
         "The Details",
-        "Trullo | Highbury",
-        "Gloria | Shoreditch",
-        "Sorella | Clapham",
-        "Legare | Tower Bridge",
-        "Chucs | Mayfair",
-        "Marcella | Deptford",
-        "Maremma | Brixton"
+        "Trullo",
+        "Gloria",
+        "Sorella",
+        "Legare",
+        "Chucs",
+        "Marcella",
+        "Maremma"
       ]
     },
     {
@@ -450,7 +450,7 @@
       "scope": "italian",
       "names": [
         "Time Out says",
-        "Restaurants | Italian",
+        "Restaurants",
         "South Bank",
         "Investor relations",
         "Work for Time Out",

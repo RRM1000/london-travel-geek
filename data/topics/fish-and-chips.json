@@ -1,0 +1,117 @@
+{
+  "topic": "fish-and-chips",
+  "article": "src/content/articles/best-fish-and-chips-london.md",
+  "headTerm": "Fish and Chips",
+  "status": "re-collected and re-extracted 2026-08-30; award recovered; video tier collected; community tier still missing",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. This file records what is specific to fish and chips: the one national award, the fact that it publishes no results, and the two sources that were recorded while contributing nothing.",
+  "awardBodies": [
+    {
+      "name": "National Fish and Chip Awards",
+      "domain": "thefishandchipawards.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "Run by the National Federation of Fish Friers. Judged, dated, ceremony each February. 14 categories; Takeaway of the Year runs Top 40 -> Top 20 -> Top 10 -> winner.",
+      "readTheResultsElsewhere": "THE AWARDS BODY PUBLISHES NO RESULTS PAGE. Its site carries entry information, category descriptions and a scatter of 2023 shortlist posts; there is no winners page, no /past-winners, and nothing in the sitemap for 2026. The 2026 Takeaway of the Year Top 40 had to be read from Time Out's report of it. ATTRIBUTE TO THE AWARD ANYWAY - filing a national award under timeout.com collapses it into a masthead that already counts here through its own ranked guide.",
+      "londonEntries2026": "Two, out of forty: Brockley's Rock (Brockley) and Stones Fish and Chips (Acton).",
+      "openQuestion": "The February 2026 ceremony has happened and the winner is not on the awards site. Worth one more look before the next refresh."
+    },
+    {
+      "name": "Fry magazine UK top 50",
+      "domain": "fry-magazine.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "NOT COLLECTED. The trade magazine ran a UK top 50 in 2024 - Stones Fish and Chips is named in it via Time Out - but fry-magazine.com does not resolve and no archive of the list was found. Left out rather than reconstructed."
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "tier": "B",
+      "ranked": true,
+      "note": "RANKED 1-18 and its ranking disagrees sharply with the citation counts - Michael's Fish Bar in Leytonstone is its #1 and carries only two sources, while Poppies is the most-cited chippy in the corpus and is not on Time Out's list at all. Ranks and per-venue text recorded 2026-08-30; the first pass captured the page heading as a venue and kept neither."
+    },
+    {
+      "name": "Absolutely",
+      "domain": "absolutelymagazines.com",
+      "tier": "B",
+      "ranked": false,
+      "note": "Six of its twenty captured names were section headings and footer links ('Top Eats', 'Topics', 'Other Absolutely Titles')."
+    },
+    { "name": "DesignMyNight", "domain": "designmynight.com", "tier": "B", "ranked": false },
+    { "name": "Cozymeal", "domain": "cozymeal.com", "tier": "C", "ranked": false },
+    {
+      "name": "British Food Crew",
+      "domain": "britishfoodcrew.com",
+      "tier": "C",
+      "ranked": false,
+      "note": "Captured its own site furniture as venues, including an emoji heading."
+    },
+    {
+      "name": "Travelicious Bites",
+      "domain": "traveliciousbites.com",
+      "tier": "C",
+      "ranked": false,
+      "note": "Four of ten captured names were footer links (Gigs, Explore, Company, Cookie Preferences)."
+    },
+    {
+      "name": "James Dimitri",
+      "domain": "jamesdimitri.co.uk",
+      "tier": "C",
+      "ranked": false,
+      "note": "The longest single list in the corpus at 35 shops, and the only one that reaches outside London - Molesey Fish Bar is in Surrey and Marlow Fish Bar in Buckinghamshire. Both are recorded in data/name-noise.json under outOfArea."
+    }
+  ],
+  "facetAxis": {
+    "note": "Fish and chips splits by FORMAT and by FRYING MEDIUM. Format decides the price and the evening; the medium is the one technical fact regulars actually argue about, and almost no guide prints it.",
+    "axes": [
+      {
+        "field": "format",
+        "values": [
+          { "key": "counter", "label": "Takeaway counter", "describeAs": "no seating, often cash only, and usually the best value" },
+          { "key": "chippy-dining-room", "label": "Chippy with a dining room", "describeAs": "table service, a room with some age to it" },
+          { "key": "restaurant", "label": "Fish and chips as a restaurant dish", "describeAs": "priced and plated as a main course" },
+          { "key": "pub", "label": "Pub serving it" }
+        ]
+      },
+      {
+        "field": "medium",
+        "values": [
+          { "key": "beef-dripping", "label": "Beef dripping", "describeAs": "the traditional fat, and the reason The Fryer's Delight tastes different" },
+          { "key": "vegetable-oil", "label": "Vegetable oil" },
+          { "key": "matzo", "label": "Matzo meal", "describeAs": "a north London Jewish tradition that predates the chip shop; a lighter, crisper crust than batter" },
+          { "key": "vegan", "label": "Vegan", "describeAs": "banana blossom in place of cod" }
+        ]
+      }
+    ]
+  },
+  "knownGaps": [
+    "COMMUNITY TIER IS EMPTY. No Reddit or forum threads. Reddit is blocked to curl and to the browser pane, and two Apify runs on other topics cost about $0.95 for nothing usable.",
+    "ONLY TWO VENUES CARRY A DATED AWARD, and both are shortlist places rather than wins. The award publishes no results, so even the win cannot be recorded.",
+    "The corpus leans C-tier. Six of thirteen sources are independent blogs and specialists rather than mastheads, which is unusual for this project and reflects how little the big titles cover chippies outside a once-a-year listicle.",
+    "Fry magazine's UK top 50 is a real second award and could not be read - the domain does not resolve."
+  ],
+  "currentState": {
+    "recorded": "2026-08-30",
+    "sources": 13,
+    "citations": 138,
+    "namesInCorpus": 59,
+    "twoPlusDomains": 24,
+    "tierAVenues": 2,
+    "meetingTheBar": 24,
+    "articleExists": true,
+    "mapExists": true
+  },
+  "videoTier": {
+    "collected": "2026-08-30",
+    "channelsRecorded": 5,
+    "channelsRejected": 9,
+    "method": "Apify api-ninja/youtube-search-scraper, videoDepthDetails=standard, geo=GB. Names read from YouTube's own chapter markers, so no handle was reconstructed. Cost about $0.002.",
+    "rejected": "Nine channels named nothing extractable, covered the UK rather than London, or anonymised their chapters ('The Soho One', 'The Wildcard'). A channel with no extractable venue is not a source.",
+    "warning": "RestroSpot's chapter markers are AUTO-GENERATED FROM SPEECH and come back mangled - 'Toss' for Toff's, 'Falers' for Faulkners, 'Sutton Suns' for Sutton & Sons. Only unambiguous names were recorded; the rest were dropped rather than guessed at."
+  },
+  "openVenueQuestions": [
+    "Two shops named Kennedy's trade in London. The one in the corpus is the Goswell Road chippy named in a video chapter marker.",
+    "The Golden Chippy (Greenwich) and The Golden Chip of Hanwell are different businesses with near-identical names, recorded in data/name-aliases.json under deliberatelyNotAliased."
+  ]
+}

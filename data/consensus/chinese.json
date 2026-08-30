@@ -33,29 +33,52 @@
       "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
       "scope": "chinese",
       "names": [
-        "Golden Phoenix | Chinatown",
-        "Chop Chop | Leicester Square",
-        "Sanhao | Chinatown",
-        "Murger Han | City",
-        "Banquet 88 | St Katharine Docks",
-        "Bun House | Shoreditch or Chinatown",
-        "Hotto Potto | Aldgate",
-        "DanDan | Battersea",
-        "House of Ming | Westminster",
-        "Plum Valley | Chinatown",
-        "Xi Home Dumplings Bay | Locations across town",
-        "Poon’s | Covent Garden",
-        "Dream Xi’An | Tower Hill",
-        "Canton Blue | Belgravia",
-        "Noodle Nova | Strand",
-        "Da Long Yi | Soho",
-        "Three Uncles | Multiple locations",
-        "Shan Shui Social | Victoria",
-        "Tao Tao Ju | Chinatown",
-        "Dim Sum Library | Covent Garden",
-        "Kai Mayfair | Mayfair",
-        "Post navigation"
-      ]
+        "Golden Phoenix",
+        "Chop Chop",
+        "Sanhao",
+        "Murger Han",
+        "Banquet 88",
+        "Bun House",
+        "Hotto Potto",
+        "DanDan",
+        "House of Ming",
+        "Plum Valley",
+        "Xi Home Dumplings Bay",
+        "Poon’s",
+        "Dream Xi’An",
+        "Canton Blue",
+        "Noodle Nova",
+        "Da Long Yi",
+        "Three Uncles",
+        "Shan Shui Social",
+        "Tao Tao Ju",
+        "Dim Sum Library",
+        "Kai Mayfair"
+      ],
+      "note": "Headings are written \"Venue | Area\" and were captured whole, so the area was inside the venue name. Split 2026-08-30; the area is kept as the quote.",
+      "quotes": {
+        "Golden Phoenix": "Listed under Chinatown.",
+        "Chop Chop": "Listed under Leicester Square.",
+        "Sanhao": "Listed under Chinatown.",
+        "Murger Han": "Listed under City.",
+        "Banquet 88": "Listed under St Katharine Docks.",
+        "Bun House": "Listed under Shoreditch or Chinatown.",
+        "Hotto Potto": "Listed under Aldgate.",
+        "DanDan": "Listed under Battersea.",
+        "House of Ming": "Listed under Westminster.",
+        "Plum Valley": "Listed under Chinatown.",
+        "Xi Home Dumplings Bay": "Listed under Locations across town.",
+        "Poon’s": "Listed under Covent Garden.",
+        "Dream Xi’An": "Listed under Tower Hill.",
+        "Canton Blue": "Listed under Belgravia.",
+        "Noodle Nova": "Listed under Strand.",
+        "Da Long Yi": "Listed under Soho.",
+        "Three Uncles": "Listed under Multiple locations.",
+        "Shan Shui Social": "Listed under Victoria.",
+        "Tao Tao Ju": "Listed under Chinatown.",
+        "Dim Sum Library": "Listed under Covent Garden.",
+        "Kai Mayfair": "Listed under Mayfair."
+      }
     },
     {
       "name": "The Infatuation (dim sum)",
@@ -80,33 +103,23 @@
       ]
     },
     {
-      "name": "Michelin (best dim sum London)",
+      "name": "Michelin Guide 2026 - London stars",
       "url": "https://guide.michelin.com/ie/en/best-of/best-dim-sum-in-london",
       "scope": "awards",
       "names": [
-        "London by the MICHELIN Guide",
-        "MICHELIN Guide Plus"
-      ]
+        "A. Wong"
+      ],
+      "quotes": {
+        "A. Wong": "The only Chinese restaurant in London holding a Michelin star in the 2026 guide."
+      },
+      "note": "READ FROM THE SUBSTITUTE. guide.michelin.com is permanently 403 to the fetcher, so the 2026 column of https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_Greater_London was used - and ATTRIBUTED here to guide.michelin.com, because filing it under en.wikipedia.org tiers a Michelin star as B. Three other Chinese restaurants appear in the current table without a 2026 star: Hakkasan Hanway Place (closed), Hakkasan Mayfair and Kai Mayfair. Yauatcha Soho is only in the 2010-2019 table. The first pass recorded this source with two names, both of them site navigation."
     },
     {
       "name": "Time Out (best dim sum 2025)",
       "url": "https://www.timeout.com/london/news/londons-best-dim-sum-restaurant-has-been-crowned-for-2025-by-time-out-012125",
       "scope": "dim-sum",
       "names": [
-        "Investor relations",
-        "Work for Time Out",
-        "Privacy notice",
-        "Do not sell my information",
-        "Accessibility statement",
-        "Get Listed",
-        "Time Out Offers FAQ",
-        "Advertising",
-        "Time Out Market",
-        "Time Out Offers",
-        "Time Out Worldwide",
-        "Movies",
-        "Baba Tang",
-        "for the best of the city"
+        "Baba Tang"
       ]
     },
     {
@@ -118,7 +131,6 @@
         "Xi'an Impression",
         "Dream Xi'an",
         "Murger Han",
-        "Cantonese",
         "Dim Sum & Duck",
         "Wong Kei",
         "Gold Mine",
@@ -126,27 +138,22 @@
         "Mandarin Kitchen",
         "Café TPT",
         "Dragon Castle",
-        "Sichuan",
         "Dr.Noodle",
         "Barshu",
-        "Shanghainese",
         "Shan Shui Social",
-        "Southern Chinese",
         "Hainan House",
         "Jíxíang Baozi",
-        "Sichuan/Chongqing",
         "Noodle & Beer",
         "Jiāonest",
-        "Uyghur",
         "Etles Uyghur Restaurant",
         "Atush Uyghur Cuisine",
         "Dilara",
         "Lao Dao",
-        "Fine Dining",
         "Royal China Club",
         "Hunan",
         "Imperial Treasure Fine Chinese Cuisine"
-      ]
+      ],
+      "note": "Region headings are captured as venues. 7 removed 2026-08-30 - and they are worth keeping in mind, because this is the only source that files London Chinese food by region."
     },
     {
       "name": "The Infatuation (Chinatown)",
@@ -165,7 +172,7 @@
         "Good Friend",
         "Chinatown Bakery",
         "Pochawa Grill",
-        "Four Seasons | 文興酒家",
+        "Four Seasons",
         "Tao Tao Ju",
         "Chinese Tapas House",
         "Beijing Dumpling",
@@ -180,19 +187,14 @@
       "url": "https://www.theinfatuation.com/london/guides/best-cheung-fun-london",
       "scope": "dim-sum",
       "names": [
-        "Prawn Cheung Fun",
         "Dim Sum & Duck",
-        "Fresh Prawn With Crispy Red Rice Roll Cheung Fun",
         "Royal China Club",
-        "Berkshire Char Siu Pork Cheung Fun",
         "Imperial Treasure Fine Chinese Cuisine",
-        "Prawn In Bean Curd Skin Cheung Fun",
         "Tao Tao Ju",
-        "Fried Dough & Spring Onion Cheung Fun",
         "Dragon Castle",
-        "Roasted Pork Cheung Fun",
         "Plum Valley"
-      ]
+      ],
+      "note": "A dish guide: every other captured name is the dish, not the restaurant. 6 removed 2026-08-30."
     },
     {
       "name": "Time Out (Chinatown 20 best)",
@@ -236,25 +238,6 @@
         "Panda Dim Sum",
         "Canton Blue",
         "Yi-Ban"
-      ]
-    },
-    {
-      "name": "Time Out (best Asian by area)",
-      "url": "https://www.timeout.com/london/news/the-best-asian-restaurant-in-every-part-of-london-100925",
-      "scope": "chinese",
-      "names": [
-        "Investor relations",
-        "Work for Time Out",
-        "Privacy notice",
-        "Do not sell my information",
-        "Accessibility statement",
-        "Get Listed",
-        "Time Out Offers FAQ",
-        "Advertising",
-        "Time Out Market",
-        "Time Out Offers",
-        "Time Out Worldwide",
-        "Movies"
       ]
     },
     {
@@ -316,9 +299,7 @@
         "C&R Cafe",
         "Bun House Chinatown",
         "The Eight",
-        "JinLi Chinatown",
-        "Login",
-        "Forgot Password"
+        "JinLi Chinatown"
       ]
     },
     {
@@ -345,10 +326,9 @@
         "Hutong",
         "Silk Road",
         "Etles",
-        "A Wong",
-        "Authors"
+        "A Wong"
       ]
     }
   ],
-  "recorded": "2026-08-25"
+  "recorded": "2026-08-30"
 }

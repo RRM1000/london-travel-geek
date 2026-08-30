@@ -35,7 +35,7 @@ So this guide starts with the restaurants the sources actually agree on, then sp
 > 💡 **The Short Version:** **Trullo** and **Padella** are the two most-cited Italian restaurants in London. **River Café**, **Murano** and **Luca** are the three holding a Michelin star. **Bancone** and **Al Dente** are the value picks. **Norma** for Sicilian, **Brutto** for Florentine steak. And **Circolo Popolare** if you want the room more than the meal.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **47 sources carrying 380 citations** across **219 named restaurants** — the judged awards (Michelin, Gambero Rosso, Harden's, the Good Food Guide), the editorial mastheads (Time Out, The Infatuation, Eater, Country & Town House, The Handbook) and the year's major London Italian food videos. **43 restaurants are named by two or more independent sources; 28 carry a dated award.**
+> Nothing here is ranked on one visit. This pass reads **47 sources carrying 380 citations** across **214 named restaurants** — the judged awards (Michelin, Gambero Rosso, Harden's, the Good Food Guide), the editorial mastheads (Time Out, The Infatuation, Eater, Country & Town House, The Handbook) and the year's major London Italian food videos. **45 restaurants are named by two or more independent sources; 28 carry a dated award.**
 > **The known weakness in this topic:** no community tier. Reddit and forum threads are not recorded here, so this leans on critics and awards — which favour central London and newer openings over the neighbourhood trattoria that has been quietly good for twenty years.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 

@@ -3268,14 +3268,21 @@
   "gloria": {
     "name": "Gloria",
     "topics": [
-      "activities-shoreditch"
+      "activities-shoreditch",
+      "italian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "activities-shoreditch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "italian": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -3287,6 +3294,11 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/shoreditch/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/features/the-best-italian-restaurants-in-london/"
       }
     ]
   },
@@ -6446,8 +6458,8 @@
       }
     ]
   },
-  "otherworldvrvictoria": {
-    "name": "OTHERWORLD VR | Victoria",
+  "otherworldvr": {
+    "name": "OTHERWORLD VR",
     "topics": [
       "activities"
     ],
@@ -8982,8 +8994,8 @@
       }
     ]
   },
-  "camillewalalacaptivatedbycolour": {
-    "name": "Camille Walala | Captivated by Colour",
+  "camillewalala": {
+    "name": "Camille Walala",
     "topics": [
       "activities"
     ],
@@ -13766,8 +13778,8 @@
       "chinese",
       "dim-sum"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -13778,8 +13790,8 @@
         "hasAward": false
       },
       "chinese": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
+        "sourceCount": 3,
+        "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
       },
@@ -13791,6 +13803,12 @@
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Covent Garden."
+      },
       {
         "tier": "B",
         "source": "The Infatuation",
@@ -21004,7 +21022,6 @@
     "name": "Authors",
     "topics": [
       "bars",
-      "chinese",
       "indian",
       "new-openings",
       "steak"
@@ -21015,12 +21032,6 @@
     "hasAward": false,
     "byTopic": {
       "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "chinese": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -25832,9 +25843,9 @@
       "fish-and-chips",
       "seafood"
     ],
-    "sourceCount": 8,
-    "tierSpread": "B4 C4",
-    "tierCount": 2,
+    "sourceCount": 9,
+    "tierSpread": "B4 C4 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -25844,9 +25855,9 @@
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 6,
-        "tierSpread": "B3 C3",
-        "tierCount": 2,
+        "sourceCount": 7,
+        "tierSpread": "B3 C3 D1",
+        "tierCount": 3,
         "hasAward": false
       },
       "seafood": {
@@ -25897,6 +25908,11 @@
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
         "quote": "London's fish and chip options aren't, in the main, very good. But this Farringdon chippy is a cut above the rest. Not only will you get exemplary battered haddock here, you'll also enjoy specials like baked lobster bechamel or pe"
+      },
+      {
+        "tier": "D",
+        "source": "Tom the Taxi Driver",
+        "url": "https://www.youtube.com/@TomtheTaxiDriver"
       }
     ]
   },
@@ -26039,8 +26055,8 @@
       "fish-and-chips",
       "general"
     ],
-    "sourceCount": 8,
-    "tierSpread": "B4 C3 D1",
+    "sourceCount": 9,
+    "tierSpread": "B4 C3 D2",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -26051,9 +26067,9 @@
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 6,
-        "tierSpread": "B3 C3",
-        "tierCount": 2,
+        "sourceCount": 7,
+        "tierSpread": "B3 C3 D1",
+        "tierCount": 3,
         "hasAward": false
       },
       "general": {
@@ -26098,6 +26114,11 @@
         "tier": "C",
         "source": "Travelicious Bites",
         "url": "https://traveliciousbites.com/destinations/europe/london/best-fish-and-chips-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Tom the Taxi Driver",
+        "url": "https://www.youtube.com/@TomtheTaxiDriver"
       },
       {
         "tier": "D",
@@ -28667,8 +28688,7 @@
   "toptastytopics": {
     "name": "Top Tasty Topics'",
     "topics": [
-      "british",
-      "fish-and-chips"
+      "british"
     ],
     "sourceCount": 1,
     "tierSpread": "C1",
@@ -28676,12 +28696,6 @@
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -28700,7 +28714,6 @@
     "name": "Cookie Consent",
     "topics": [
       "british",
-      "fish-and-chips",
       "london-with-children"
     ],
     "sourceCount": 2,
@@ -28709,12 +28722,6 @@
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -28743,23 +28750,16 @@
   "cookiepreferences": {
     "name": "Cookie Preferences",
     "topics": [
-      "british",
-      "fish-and-chips"
+      "british"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
+    "sourceCount": 1,
+    "tierSpread": "C1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "british": {
         "sourceCount": 1,
         "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -28769,11 +28769,6 @@
         "tier": "C",
         "source": "British Food Crew",
         "url": "https://britishfoodcrew.com/best-london-gastropubs-14-top-spots/"
-      },
-      {
-        "tier": "C",
-        "source": "Travelicious Bites",
-        "url": "https://traveliciousbites.com/destinations/europe/london/best-fish-and-chips-in-london/"
       }
     ]
   },
@@ -30140,8 +30135,7 @@
   "londonsbestfishandchipsshops": {
     "name": "London’s best fish and chips shops",
     "topics": [
-      "british",
-      "fish-and-chips"
+      "british"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -30149,12 +30143,6 @@
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -30266,8 +30254,8 @@
       "general",
       "seafood"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B3 C2 D1",
+    "sourceCount": 7,
+    "tierSpread": "B3 C2 D2",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -30278,9 +30266,9 @@
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 4,
-        "tierSpread": "B2 C2",
-        "tierCount": 2,
+        "sourceCount": 5,
+        "tierSpread": "B2 C2 D1",
+        "tierCount": 3,
         "hasAward": false
       },
       "general": {
@@ -30324,6 +30312,11 @@
       },
       {
         "tier": "D",
+        "source": "RestroSpot",
+        "url": "https://www.youtube.com/@RestroSpot"
+      },
+      {
+        "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
       }
@@ -30335,9 +30328,9 @@
       "british",
       "fish-and-chips"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "B1 C2 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -30347,9 +30340,9 @@
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
+        "sourceCount": 4,
+        "tierSpread": "B1 C2 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -30363,6 +30356,16 @@
         "tier": "C",
         "source": "Cozymeal",
         "url": "https://www.cozymeal.com/magazine/fish-and-chips-london"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/"
+      },
+      {
+        "tier": "D",
+        "source": "RestroSpot",
+        "url": "https://www.youtube.com/@RestroSpot"
       }
     ]
   },
@@ -30373,8 +30376,8 @@
       "fish-and-chips",
       "general"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B2 C1 D2",
+    "sourceCount": 6,
+    "tierSpread": "B2 C1 D3",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -30385,8 +30388,8 @@
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 4,
-        "tierSpread": "B2 C1 D1",
+        "sourceCount": 5,
+        "tierSpread": "B2 C1 D2",
         "tierCount": 3,
         "hasAward": false
       },
@@ -30418,6 +30421,11 @@
         "source": "Mark Wiens (YouTube)",
         "url": "https://www.youtube.com/@MarkWiens",
         "quote": "best historical"
+      },
+      {
+        "tier": "D",
+        "source": "Travel with Ben",
+        "url": "https://www.youtube.com/@TravelWithBen121"
       },
       {
         "tier": "D",
@@ -30529,11 +30537,12 @@
     "name": "Mickey's Chippy",
     "topics": [
       "british",
+      "cheap-eats",
       "fish-and-chips"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -30542,10 +30551,16 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "fish-and-chips": {
+      "cheap-eats": {
         "sourceCount": 1,
-        "tierSpread": "B1",
+        "tierSpread": "C1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "fish-and-chips": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -30554,6 +30569,21 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "All In London",
+        "url": "https://www.allinlondon.co.uk/directory/fish-chip-shops/23160-mickys-fish-bar"
+      },
+      {
+        "tier": "C",
+        "source": "Cozymeal",
+        "url": "https://www.cozymeal.com/magazine/fish-and-chips-london"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/"
       }
     ]
   },
@@ -30595,9 +30625,9 @@
       "british",
       "fish-and-chips"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B3 C3",
-    "tierCount": 2,
+    "sourceCount": 7,
+    "tierSpread": "B3 C3 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -30607,9 +30637,9 @@
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 6,
-        "tierSpread": "B3 C3",
-        "tierCount": 2,
+        "sourceCount": 7,
+        "tierSpread": "B3 C3 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -30643,6 +30673,11 @@
         "tier": "C",
         "source": "Travelicious Bites",
         "url": "https://traveliciousbites.com/destinations/europe/london/best-fish-and-chips-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "RestroSpot",
+        "url": "https://www.youtube.com/@RestroSpot"
       }
     ]
   },
@@ -30652,9 +30687,9 @@
       "british",
       "fish-and-chips"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
+    "sourceCount": 3,
+    "tierSpread": "B1 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -30664,9 +30699,9 @@
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -30680,6 +30715,11 @@
         "tier": "C",
         "source": "Cozymeal",
         "url": "https://www.cozymeal.com/magazine/fish-and-chips-london"
+      },
+      {
+        "tier": "D",
+        "source": "RestroSpot",
+        "url": "https://www.youtube.com/@RestroSpot"
       }
     ]
   },
@@ -30691,8 +30731,8 @@
       "general",
       "seafood"
     ],
-    "sourceCount": 5,
-    "tierSpread": "A1 B2 D2",
+    "sourceCount": 6,
+    "tierSpread": "A1 B2 D3",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -30703,9 +30743,9 @@
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       },
       "general": {
@@ -30739,6 +30779,11 @@
       },
       {
         "tier": "D",
+        "source": "RestroSpot",
+        "url": "https://www.youtube.com/@RestroSpot"
+      },
+      {
+        "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
       },
@@ -30749,28 +30794,28 @@
       }
     ]
   },
-  "poppies": {
-    "name": "Poppies",
+  "poppiesfishandchips": {
+    "name": "Poppies Fish and Chips",
     "topics": [
       "british",
       "fish-and-chips",
       "general"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 D1",
-    "tierCount": 2,
+    "sourceCount": 9,
+    "tierSpread": "B3 C2 D4",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 8,
+        "tierSpread": "B3 C2 D3",
+        "tierCount": 3,
         "hasAward": false
       },
       "general": {
@@ -30787,6 +30832,41 @@
         "url": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants"
       },
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Absolutely",
+        "url": "https://absolutelymagazines.com/londons-best-fish-chips/"
+      },
+      {
+        "tier": "C",
+        "source": "British Food Crew",
+        "url": "https://britishfoodcrew.com/best-fish-chips-in-london-the-definitive-2026-guide/"
+      },
+      {
+        "tier": "C",
+        "source": "Cozymeal",
+        "url": "https://www.cozymeal.com/magazine/fish-and-chips-london"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood"
+      },
+      {
+        "tier": "D",
+        "source": "Travel with Ben",
+        "url": "https://www.youtube.com/@TravelWithBen121"
+      },
+      {
+        "tier": "D",
+        "source": "RestroSpot",
+        "url": "https://www.youtube.com/@RestroSpot"
+      },
+      {
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
@@ -30799,9 +30879,9 @@
       "british",
       "fish-and-chips"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "B2 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -30811,9 +30891,9 @@
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
+        "sourceCount": 4,
+        "tierSpread": "B2 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -30832,29 +30912,34 @@
         "tier": "C",
         "source": "British Food Crew",
         "url": "https://britishfoodcrew.com/best-fish-chips-in-london-the-definitive-2026-guide/"
+      },
+      {
+        "tier": "D",
+        "source": "Tom the Taxi Driver",
+        "url": "https://www.youtube.com/@TomtheTaxiDriver"
       }
     ]
   },
-  "goldenunion": {
-    "name": "Golden Union",
+  "goldenunionfishbar": {
+    "name": "Golden Union Fish Bar",
     "topics": [
       "british",
       "fish-and-chips"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C3",
+    "sourceCount": 5,
+    "tierSpread": "B2 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
         "tierCount": 2,
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 4,
-        "tierSpread": "B1 C3",
+        "sourceCount": 5,
+        "tierSpread": "B2 C3",
         "tierCount": 2,
         "hasAward": false
       }
@@ -30864,6 +30949,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london"
       },
       {
         "tier": "C",
@@ -30946,75 +31036,16 @@
       }
     ]
   },
-  "poppiesfishandchips": {
-    "name": "Poppies Fish and Chips",
-    "topics": [
-      "british",
-      "fish-and-chips",
-      "general"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "B2 C2 D1",
-    "tierCount": 3,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "fish-and-chips": {
-        "sourceCount": 4,
-        "tierSpread": "B2 C2",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "D1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "Absolutely",
-        "url": "https://absolutelymagazines.com/londons-best-fish-chips/"
-      },
-      {
-        "tier": "C",
-        "source": "British Food Crew",
-        "url": "https://britishfoodcrew.com/best-fish-chips-in-london-the-definitive-2026-guide/"
-      },
-      {
-        "tier": "C",
-        "source": "Cozymeal",
-        "url": "https://www.cozymeal.com/magazine/fish-and-chips-london"
-      },
-      {
-        "tier": "D",
-        "source": "Harrison Webb (YouTube)",
-        "url": "https://www.youtube.com/@HarrisonWebb97"
-      }
-    ]
-  },
   "brockleysrock": {
     "name": "Brockley’s Rock",
     "topics": [
       "british",
       "fish-and-chips"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 4,
+    "tierSpread": "A1 C3",
+    "tierCount": 2,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 1,
@@ -31023,13 +31054,19 @@
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 3,
-        "tierSpread": "C3",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 4,
+        "tierSpread": "A1 C3",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "National Fish and Chip Awards",
+        "url": "https://thefishandchipawards.com/",
+        "quote": "One of two London shops on the National Fish and Chip Awards 2026 Takeaway of the Year 40-shop shortlist. Trading since 2011, on the site of a former Chinese takeaway."
+      },
       {
         "tier": "C",
         "source": "British Food Crew",
@@ -31053,10 +31090,10 @@
       "british",
       "fish-and-chips"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 C2",
+    "tierCount": 2,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 1,
@@ -31065,13 +31102,19 @@
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 3,
+        "tierSpread": "A1 C2",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "National Fish and Chip Awards",
+        "url": "https://thefishandchipawards.com/",
+        "quote": "One of two London shops on the National Fish and Chip Awards 2026 Takeaway of the Year 40-shop shortlist. Opened 2015 on Horn Lane in Acton; also named in Fry magazine's UK top 50 in 2024."
+      },
       {
         "tier": "C",
         "source": "British Food Crew",
@@ -31167,8 +31210,8 @@
       "fish-and-chips",
       "general"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C2 D1",
+    "sourceCount": 4,
+    "tierSpread": "C2 D2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -31179,9 +31222,9 @@
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "C2 D1",
+        "tierCount": 2,
         "hasAward": false
       },
       "general": {
@@ -31201,6 +31244,12 @@
         "tier": "C",
         "source": "James Dimitri",
         "url": "https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood",
+        "quote": "Given its own 'Legendary Eats' episode - the Greenwich shop, not the Golden Chip in Hanwell."
       },
       {
         "tier": "D",
@@ -31237,8 +31286,7 @@
   "onelastbite": {
     "name": "One Last Bite",
     "topics": [
-      "british",
-      "fish-and-chips"
+      "british"
     ],
     "sourceCount": 1,
     "tierSpread": "C1",
@@ -31246,12 +31294,6 @@
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -31266,27 +31308,27 @@
       }
     ]
   },
-  "goldenunionfishbar": {
-    "name": "Golden Union Fish Bar",
+  "oliversfishandchips": {
+    "name": "Oliver's Fish & Chips",
     "topics": [
       "british",
       "fish-and-chips"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -31295,38 +31337,21 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london"
-      }
-    ]
-  },
-  "olivers": {
-    "name": "Oliver's",
-    "topics": [
-      "british",
-      "fish-and-chips"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
       },
-      "fish-and-chips": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
       {
         "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london"
+        "source": "Absolutely",
+        "url": "https://absolutelymagazines.com/londons-best-fish-chips/"
+      },
+      {
+        "tier": "C",
+        "source": "Cozymeal",
+        "url": "https://www.cozymeal.com/magazine/fish-and-chips-london"
+      },
+      {
+        "tier": "C",
+        "source": "Travelicious Bites",
+        "url": "https://traveliciousbites.com/destinations/europe/london/best-fish-and-chips-in-london/"
       }
     ]
   },
@@ -31335,7 +31360,6 @@
     "topics": [
       "british",
       "dessert",
-      "fish-and-chips",
       "galleries",
       "general",
       "japanese",
@@ -31361,12 +31385,6 @@
       "dessert": {
         "sourceCount": 1,
         "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -31448,7 +31466,6 @@
     "name": "Top Eats",
     "topics": [
       "british",
-      "fish-and-chips",
       "greek",
       "vegan"
     ],
@@ -31458,12 +31475,6 @@
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -31493,8 +31504,7 @@
   "toplondonchippiesin2026": {
     "name": "Top London Chippies in 2026",
     "topics": [
-      "british",
-      "fish-and-chips"
+      "british"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -31502,12 +31512,6 @@
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -31560,9 +31564,9 @@
       "british",
       "fish-and-chips"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -31572,9 +31576,9 @@
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -31583,38 +31587,11 @@
         "tier": "B",
         "source": "Absolutely",
         "url": "https://absolutelymagazines.com/londons-best-fish-chips/"
-      }
-    ]
-  },
-  "olisfishandchips": {
-    "name": "Oli’s Fish & Chips",
-    "topics": [
-      "british",
-      "fish-and-chips"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
       },
-      "fish-and-chips": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
       {
-        "tier": "B",
-        "source": "Absolutely",
-        "url": "https://absolutelymagazines.com/londons-best-fish-chips/"
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/"
       }
     ]
   },
@@ -31757,9 +31734,9 @@
       "british",
       "fish-and-chips"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 D2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -31769,9 +31746,9 @@
         "hasAward": false
       },
       "fish-and-chips": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B1 D2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -31780,6 +31757,16 @@
         "tier": "B",
         "source": "Absolutely",
         "url": "https://absolutelymagazines.com/londons-best-fish-chips/"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood"
+      },
+      {
+        "tier": "D",
+        "source": "Travel with Ben",
+        "url": "https://www.youtube.com/@TravelWithBen121"
       }
     ]
   },
@@ -31787,7 +31774,6 @@
     "name": "Absolutely Magazines",
     "topics": [
       "british",
-      "fish-and-chips",
       "greek",
       "vegan"
     ],
@@ -31797,12 +31783,6 @@
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -31833,7 +31813,6 @@
     "name": "Topics",
     "topics": [
       "british",
-      "fish-and-chips",
       "greek",
       "vegan"
     ],
@@ -31843,12 +31822,6 @@
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -31879,7 +31852,6 @@
     "name": "Other Absolutely Titles",
     "topics": [
       "british",
-      "fish-and-chips",
       "greek",
       "vegan"
     ],
@@ -31889,12 +31861,6 @@
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -35871,17 +35837,17 @@
       }
     ]
   },
-  "wong": {
-    "name": "A Wong",
+  "awong": {
+    "name": "A. Wong",
     "topics": [
       "british",
       "chinese",
       "general"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 7,
+    "tierSpread": "A1 B5 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 2,
@@ -35890,19 +35856,25 @@
         "hasAward": false
       },
       "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 4,
+        "tierSpread": "A1 B3",
+        "tierCount": 2,
+        "hasAward": true
       },
       "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 3,
+        "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/ie/en/best-of/best-dim-sum-in-london",
+        "quote": "The only Chinese restaurant in London holding a Michelin star in the 2026 guide."
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -35910,8 +35882,23 @@
       },
       {
         "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-chinese-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+      },
+      {
+        "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
       },
       {
         "tier": "C",
@@ -36994,11 +36981,9 @@
     "topics": [
       "british",
       "burgers",
-      "chinese",
       "coffee",
       "dessert",
       "dim-sum",
-      "fish-and-chips",
       "french",
       "general",
       "italian",
@@ -37024,12 +37009,6 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "coffee": {
         "sourceCount": 1,
         "tierSpread": "B1",
@@ -37043,12 +37022,6 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37110,11 +37083,9 @@
     "topics": [
       "british",
       "burgers",
-      "chinese",
       "coffee",
       "dessert",
       "dim-sum",
-      "fish-and-chips",
       "french",
       "general",
       "italian",
@@ -37140,12 +37111,6 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "coffee": {
         "sourceCount": 1,
         "tierSpread": "B1",
@@ -37159,12 +37124,6 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37251,11 +37210,9 @@
     "topics": [
       "british",
       "burgers",
-      "chinese",
       "coffee",
       "dessert",
       "dim-sum",
-      "fish-and-chips",
       "french",
       "general",
       "italian",
@@ -37281,12 +37238,6 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "coffee": {
         "sourceCount": 1,
         "tierSpread": "B1",
@@ -37300,12 +37251,6 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37367,11 +37312,9 @@
     "topics": [
       "british",
       "burgers",
-      "chinese",
       "coffee",
       "dessert",
       "dim-sum",
-      "fish-and-chips",
       "french",
       "general",
       "italian",
@@ -37397,12 +37340,6 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "coffee": {
         "sourceCount": 1,
         "tierSpread": "B1",
@@ -37416,12 +37353,6 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37508,11 +37439,9 @@
     "topics": [
       "british",
       "burgers",
-      "chinese",
       "coffee",
       "dessert",
       "dim-sum",
-      "fish-and-chips",
       "french",
       "general",
       "italian",
@@ -37538,12 +37467,6 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "coffee": {
         "sourceCount": 1,
         "tierSpread": "B1",
@@ -37557,12 +37480,6 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37624,11 +37541,9 @@
     "topics": [
       "british",
       "burgers",
-      "chinese",
       "coffee",
       "dessert",
       "dim-sum",
-      "fish-and-chips",
       "french",
       "general",
       "italian",
@@ -37654,12 +37569,6 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "coffee": {
         "sourceCount": 1,
         "tierSpread": "B1",
@@ -37673,12 +37582,6 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37740,11 +37643,9 @@
     "topics": [
       "british",
       "burgers",
-      "chinese",
       "coffee",
       "dessert",
       "dim-sum",
-      "fish-and-chips",
       "french",
       "general",
       "italian",
@@ -37770,12 +37671,6 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "coffee": {
         "sourceCount": 1,
         "tierSpread": "B1",
@@ -37789,12 +37684,6 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37856,11 +37745,9 @@
     "topics": [
       "british",
       "burgers",
-      "chinese",
       "coffee",
       "dessert",
       "dim-sum",
-      "fish-and-chips",
       "french",
       "general",
       "italian",
@@ -37886,12 +37773,6 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "coffee": {
         "sourceCount": 1,
         "tierSpread": "B1",
@@ -37905,12 +37786,6 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37972,11 +37847,9 @@
     "topics": [
       "british",
       "burgers",
-      "chinese",
       "coffee",
       "dessert",
       "dim-sum",
-      "fish-and-chips",
       "french",
       "general",
       "italian",
@@ -38002,12 +37875,6 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "coffee": {
         "sourceCount": 1,
         "tierSpread": "B1",
@@ -38021,12 +37888,6 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -38088,11 +37949,9 @@
     "topics": [
       "british",
       "burgers",
-      "chinese",
       "coffee",
       "dessert",
       "dim-sum",
-      "fish-and-chips",
       "french",
       "general",
       "italian",
@@ -38118,12 +37977,6 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "coffee": {
         "sourceCount": 1,
         "tierSpread": "B1",
@@ -38137,12 +37990,6 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -41308,8 +41155,8 @@
       }
     ]
   },
-  "dimsumduck": {
-    "name": "Dim Sum Duck",
+  "dimsumandduck": {
+    "name": "Dim Sum & Duck",
     "topics": [
       "british",
       "chinese",
@@ -41328,8 +41175,8 @@
         "hasAward": false
       },
       "chinese": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
+        "sourceCount": 3,
+        "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
       },
@@ -41340,8 +41187,8 @@
         "hasAward": false
       },
       "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -41354,13 +41201,13 @@
       },
       {
         "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
       },
       {
         "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
       }
     ]
   },
@@ -48295,7 +48142,6 @@
     "name": "for the best of the city",
     "topics": [
       "burgers",
-      "chinese",
       "dessert",
       "dim-sum",
       "french",
@@ -48307,12 +48153,6 @@
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "chinese": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -49335,14 +49175,14 @@
       }
     ]
   },
-  "murgerhanhan": {
-    "name": "Murger Han Han",
+  "murgerhan": {
+    "name": "Murger Han",
     "topics": [
       "cheap-eats",
       "chinese"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 5,
+    "tierSpread": "B4 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -49353,13 +49193,29 @@
         "hasAward": false
       },
       "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 4,
+        "tierSpread": "B4",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under City."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+      },
       {
         "tier": "B",
         "source": "Olive Magazine",
@@ -51641,8 +51497,8 @@
       "chinese",
       "general"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C1 D1",
+    "sourceCount": 5,
+    "tierSpread": "B3 C1 D1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -51653,8 +51509,8 @@
         "hasAward": false
       },
       "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 3,
+        "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
       },
@@ -51668,8 +51524,19 @@
     "sources": [
       {
         "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Shoreditch or Chinatown."
+      },
+      {
+        "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
       },
       {
         "tier": "C",
@@ -53832,48 +53699,6 @@
       }
     ]
   },
-  "mickyschippy": {
-    "name": "Micky's Chippy",
-    "topics": [
-      "cheap-eats",
-      "fish-and-chips"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "All In London",
-        "url": "https://www.allinlondon.co.uk/directory/fish-chip-shops/23160-mickys-fish-bar"
-      },
-      {
-        "tier": "C",
-        "source": "Cozymeal",
-        "url": "https://www.cozymeal.com/magazine/fish-and-chips-london"
-      },
-      {
-        "tier": "C",
-        "source": "James Dimitri",
-        "url": "https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/"
-      }
-    ]
-  },
   "maximealing": {
     "name": "Maxim Ealing",
     "topics": [
@@ -54076,48 +53901,6 @@
       }
     ]
   },
-  "awong": {
-    "name": "A. Wong",
-    "topics": [
-      "chinese",
-      "general"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-chinese-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
-      }
-    ]
-  },
   "cafetpt": {
     "name": "Cafe TPT",
     "topics": [
@@ -54179,7 +53962,7 @@
     ]
   },
   "fourseasons": {
-    "name": "Four Seasons | 文興酒家",
+    "name": "Four Seasons",
     "topics": [
       "chinese"
     ],
@@ -54415,6 +54198,110 @@
     "topics": [
       "chinese"
     ],
+    "sourceCount": 4,
+    "tierSpread": "B4",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 4,
+        "tierSpread": "B4",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-chinese-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
+      }
+    ]
+  },
+  "goldenphoenix": {
+    "name": "Golden Phoenix",
+    "topics": [
+      "chinese",
+      "dim-sum"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Chinatown."
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-drink/londons-best-dim-sum-restaurants"
+      }
+    ]
+  },
+  "chopchop": {
+    "name": "Chop Chop",
+    "topics": [
+      "chinese"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Leicester Square."
+      }
+    ]
+  },
+  "sanhao": {
+    "name": "San Hao",
+    "topics": [
+      "chinese"
+    ],
     "sourceCount": 2,
     "tierSpread": "B2",
     "tierCount": 1,
@@ -54430,547 +54317,64 @@
     "sources": [
       {
         "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-chinese-restaurants-london"
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Chinatown."
       },
       {
         "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
       }
     ]
   },
-  "goldenphoenixchinatown": {
-    "name": "Golden Phoenix | Chinatown",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "chopchopleicestersquare": {
-    "name": "Chop Chop | Leicester Square",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "sanhaochinatown": {
-    "name": "Sanhao | Chinatown",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "murgerhancity": {
-    "name": "Murger Han | City",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "banquet88stkatharinedocks": {
-    "name": "Banquet 88 | St Katharine Docks",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "bunhouseshoreditchorchinatown": {
-    "name": "Bun House | Shoreditch or Chinatown",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "hottopottoaldgate": {
-    "name": "Hotto Potto | Aldgate",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "dandanbattersea": {
-    "name": "DanDan | Battersea",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "houseofmingwestminster": {
-    "name": "House of Ming | Westminster",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "plumvalleychinatown": {
-    "name": "Plum Valley | Chinatown",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "xihomedumplingsbaylocationsacrosstown": {
-    "name": "Xi Home Dumplings Bay | Locations across town",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "poonscoventgarden": {
-    "name": "Poon’s | Covent Garden",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "dreamxiantowerhill": {
-    "name": "Dream Xi’An | Tower Hill",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "cantonbluebelgravia": {
-    "name": "Canton Blue | Belgravia",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "noodlenovastrand": {
-    "name": "Noodle Nova | Strand",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "dalongyisoho": {
-    "name": "Da Long Yi | Soho",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "threeunclesmultiplelocations": {
-    "name": "Three Uncles | Multiple locations",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "shanshuisocialvictoria": {
-    "name": "Shan Shui Social | Victoria",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "taotaojuchinatown": {
-    "name": "Tao Tao Ju | Chinatown",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "dimsumlibrarycoventgarden": {
-    "name": "Dim Sum Library | Covent Garden",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "kaimayfairmayfair": {
-    "name": "Kai Mayfair | Mayfair",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "dimsumandduck": {
-    "name": "Dim Sum & Duck",
+  "banquet88": {
+    "name": "Banquet 88",
     "topics": [
       "chinese",
-      "dim-sum",
-      "general"
+      "new-openings"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under St Katharine Docks."
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/all-latest-openings_11"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/best-new-restaurants-in-london/"
+      }
+    ]
+  },
+  "hottopotto": {
+    "name": "Hotto Potto",
+    "topics": [
+      "chinese"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -54980,6 +54384,85 @@
       "chinese": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Aldgate."
+      }
+    ]
+  },
+  "dandan": {
+    "name": "DanDan",
+    "topics": [
+      "chinese"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Battersea."
+      }
+    ]
+  },
+  "houseofming": {
+    "name": "House of Ming",
+    "topics": [
+      "chinese"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Westminster."
+      }
+    ]
+  },
+  "plumvalley": {
+    "name": "Plum Valley",
+    "topics": [
+      "chinese",
+      "dim-sum"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B4",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 4,
+        "tierSpread": "B4",
         "tierCount": 1,
         "hasAward": false
       },
@@ -54988,8 +54471,43 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Chinatown."
       },
-      "general": {
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
+      }
+    ]
+  },
+  "xihomedumplingsbay": {
+    "name": "Xi Home Dumplings Bay",
+    "topics": [
+      "chinese"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -54999,8 +54517,326 @@
     "sources": [
       {
         "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Locations across town."
+      }
+    ]
+  },
+  "poons": {
+    "name": "Poon’s",
+    "topics": [
+      "chinese"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Covent Garden."
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
+      }
+    ]
+  },
+  "dreamxian": {
+    "name": "Dream Xi'an",
+    "topics": [
+      "chinese"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Tower Hill."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
+      }
+    ]
+  },
+  "cantonblue": {
+    "name": "Canton Blue",
+    "topics": [
+      "chinese",
+      "dim-sum"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Belgravia."
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-drink/londons-best-dim-sum-restaurants"
+      }
+    ]
+  },
+  "noodlenova": {
+    "name": "Noodle Nova",
+    "topics": [
+      "chinese",
+      "new-openings"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Strand."
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
+      }
+    ]
+  },
+  "dalongyi": {
+    "name": "Da Long Yi",
+    "topics": [
+      "chinese"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Soho."
+      }
+    ]
+  },
+  "threeuncles": {
+    "name": "Three Uncles",
+    "topics": [
+      "chinese"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Multiple locations."
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
+      }
+    ]
+  },
+  "shanshuisocial": {
+    "name": "Shan Shui Social",
+    "topics": [
+      "chinese",
+      "dim-sum"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Victoria."
+      },
+      {
+        "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
+      }
+    ]
+  },
+  "taotaoju": {
+    "name": "Tao Tao Ju",
+    "topics": [
+      "chinese",
+      "dim-sum"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B4",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 4,
+        "tierSpread": "B4",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Chinatown."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-restaurants-chinatown"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
+      }
+    ]
+  },
+  "kaimayfair": {
+    "name": "Kai Mayfair",
+    "topics": [
+      "chinese"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chinese": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under Mayfair."
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
       }
     ]
   },
@@ -55042,14 +54878,14 @@
       "chinese",
       "dim-sum"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 3,
+    "tierSpread": "B3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 3,
+        "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
       },
@@ -55065,6 +54901,16 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
       }
     ]
   },
@@ -55143,14 +54989,14 @@
       "chinese",
       "dim-sum"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       },
@@ -55166,6 +55012,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
       }
     ]
   },
@@ -55307,38 +55158,6 @@
       }
     ]
   },
-  "shanshuisocial": {
-    "name": "Shan Shui Social",
-    "topics": [
-      "chinese",
-      "dim-sum"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
-      }
-    ]
-  },
   "dragoncastle": {
     "name": "Dragon Castle",
     "topics": [
@@ -55371,112 +55190,6 @@
       }
     ]
   },
-  "plumvalley": {
-    "name": "Plum Valley",
-    "topics": [
-      "chinese",
-      "dim-sum"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
-      }
-    ]
-  },
-  "londonbythemichelinguide": {
-    "name": "London by the MICHELIN Guide",
-    "topics": [
-      "chinese",
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Michelin Guide",
-        "url": "https://guide.michelin.com/ie/en/best-of/best-dim-sum-in-london"
-      }
-    ]
-  },
-  "michelinguideplus": {
-    "name": "MICHELIN Guide Plus",
-    "topics": [
-      "chinese",
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Michelin Guide",
-        "url": "https://guide.michelin.com/ie/en/best-of/best-dim-sum-in-london"
-      }
-    ]
-  },
   "babatang": {
     "name": "Baba Tang",
     "topics": [
@@ -55506,86 +55219,6 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/news/londons-best-dim-sum-restaurant-has-been-crowned-for-2025-by-time-out-012125"
-      }
-    ]
-  },
-  "dreamxian": {
-    "name": "Dream Xi'an",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
-      }
-    ]
-  },
-  "murgerhan": {
-    "name": "Murger Han",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
-      }
-    ]
-  },
-  "cantonese": {
-    "name": "Cantonese",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
       }
     ]
   },
@@ -55627,31 +55260,6 @@
       }
     ]
   },
-  "sichuan": {
-    "name": "Sichuan",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
-      }
-    ]
-  },
   "barshu": {
     "name": "Barshu",
     "topics": [
@@ -55684,56 +55292,6 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "shanghainese": {
-    "name": "Shanghainese",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
-      }
-    ]
-  },
-  "southernchinese": {
-    "name": "Southern Chinese",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
       }
     ]
   },
@@ -55787,35 +55345,11 @@
       }
     ]
   },
-  "sichuanchongqing": {
-    "name": "Sichuan/Chongqing",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
-      }
-    ]
-  },
   "noodleandbeer": {
     "name": "Noodle & Beer",
     "topics": [
-      "chinese"
+      "chinese",
+      "late-night"
     ],
     "sourceCount": 2,
     "tierSpread": "B2",
@@ -55825,6 +55359,12 @@
       "chinese": {
         "sourceCount": 2,
         "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "late-night": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -55844,31 +55384,6 @@
   },
   "jiaonest": {
     "name": "Jiāonest",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
-      }
-    ]
-  },
-  "uyghur": {
-    "name": "Uyghur",
     "topics": [
       "chinese"
     ],
@@ -56061,38 +55576,6 @@
       }
     ]
   },
-  "noodleandbeerchinatown": {
-    "name": "Noodle & Beer Chinatown",
-    "topics": [
-      "chinese",
-      "late-night"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-restaurants-chinatown"
-      }
-    ]
-  },
   "speedboatbar": {
     "name": "Speedboat Bar",
     "topics": [
@@ -56192,14 +55675,14 @@
     "topics": [
       "chinese"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
+    "sourceCount": 3,
+    "tierSpread": "B3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "chinese": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
+        "sourceCount": 3,
+        "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
       }
@@ -56209,6 +55692,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-restaurants-chinatown"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown"
       },
       {
         "tier": "B",
@@ -56256,48 +55744,6 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/korean-restaurants/"
-      }
-    ]
-  },
-  "taotaoju": {
-    "name": "Tao Tao Ju",
-    "topics": [
-      "chinese",
-      "dim-sum"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-restaurants-chinatown"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
       }
     ]
   },
@@ -56418,131 +55864,6 @@
       }
     ]
   },
-  "prawncheungfun": {
-    "name": "Prawn Cheung Fun",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-cheung-fun-london"
-      }
-    ]
-  },
-  "berkshirecharsiuporkcheungfun": {
-    "name": "Berkshire Char Siu Pork Cheung Fun",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-cheung-fun-london"
-      }
-    ]
-  },
-  "prawninbeancurdskincheungfun": {
-    "name": "Prawn In Bean Curd Skin Cheung Fun",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-cheung-fun-london"
-      }
-    ]
-  },
-  "frieddoughandspringonioncheungfun": {
-    "name": "Fried Dough & Spring Onion Cheung Fun",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-cheung-fun-london"
-      }
-    ]
-  },
-  "roastedporkcheungfun": {
-    "name": "Roasted Pork Cheung Fun",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-cheung-fun-london"
-      }
-    ]
-  },
   "realbeijingfoodhouse": {
     "name": "Real Beijing Food House",
     "topics": [
@@ -56635,19 +55956,19 @@
       }
     ]
   },
-  "yiqipanasiancuisine": {
-    "name": "YiQi Pan Asian Cuisine",
+  "yiqi": {
+    "name": "YiQi",
     "topics": [
       "chinese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 3,
+    "tierSpread": "B3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 3,
+        "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
       }
@@ -56657,31 +55978,16 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown"
-      }
-    ]
-  },
-  "goodfriendchicken": {
-    "name": "Good Friend Chicken",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
+      },
       {
         "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown"
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
       }
     ]
   },
@@ -56952,72 +56258,8 @@
       }
     ]
   },
-  "goldenphoenix": {
-    "name": "Golden Phoenix",
-    "topics": [
-      "chinese",
-      "dim-sum"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-drink/londons-best-dim-sum-restaurants"
-      }
-    ]
-  },
   "pandadimsum": {
     "name": "Panda Dim Sum",
-    "topics": [
-      "chinese",
-      "dim-sum"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-drink/londons-best-dim-sum-restaurants"
-      }
-    ]
-  },
-  "cantonblue": {
-    "name": "Canton Blue",
     "topics": [
       "chinese",
       "dim-sum"
@@ -57148,31 +56390,6 @@
       }
     ]
   },
-  "sanhao": {
-    "name": "San Hao",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
-      }
-    ]
-  },
   "luckyandjoy": {
     "name": "Lucky and Joy",
     "topics": [
@@ -57198,93 +56415,8 @@
       }
     ]
   },
-  "etles": {
-    "name": "Etles",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
   "brightcourtyardclub": {
     "name": "Bright Courtyard Club",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
-      }
-    ]
-  },
-  "threeuncles": {
-    "name": "Three Uncles",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "kai": {
-    "name": "Kai",
     "topics": [
       "chinese"
     ],
@@ -57420,36 +56552,6 @@
       }
     ]
   },
-  "imperialtreasure": {
-    "name": "Imperial Treasure",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
   "meiume": {
     "name": "Mei Ume",
     "topics": [
@@ -57472,36 +56574,6 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
-      }
-    ]
-  },
-  "yiqi": {
-    "name": "YiQi",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
       }
     ]
   },
@@ -57630,31 +56702,6 @@
       }
     ]
   },
-  "fourseasonssoho": {
-    "name": "Four Seasons Soho",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
-      }
-    ]
-  },
   "bunsikchinatown": {
     "name": "Bunsik Chinatown",
     "topics": [
@@ -57680,8 +56727,8 @@
       }
     ]
   },
-  "orientlondonchinatown": {
-    "name": "Orient London Chinatown",
+  "jinli": {
+    "name": "JinLi",
     "topics": [
       "chinese"
     ],
@@ -57691,132 +56738,6 @@
     "hasAward": false,
     "byTopic": {
       "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
-      }
-    ]
-  },
-  "bunhousechinatown": {
-    "name": "Bun House Chinatown",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
-      }
-    ]
-  },
-  "jinlichinatown": {
-    "name": "JinLi Chinatown",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
-      }
-    ]
-  },
-  "login": {
-    "name": "Login",
-    "topics": [
-      "chinese",
-      "dessert",
-      "general"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
-    "tierCount": 2,
-    "hasAward": true,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dessert": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
-        "tierCount": 2,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/best-of/britains-best-bakeries-2026"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
-      }
-    ]
-  },
-  "forgotpassword": {
-    "name": "Forgot Password",
-    "topics": [
-      "chinese",
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -57842,63 +56763,6 @@
     "hasAward": false,
     "byTopic": {
       "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "poons": {
-    "name": "Poons",
-    "topics": [
-      "chinese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "noodlenova": {
-    "name": "Noodle Nova",
-    "topics": [
-      "chinese",
-      "new-openings"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -62601,22 +61465,15 @@
     "name": "Company",
     "topics": [
       "coffee",
-      "fish-and-chips",
       "live-music",
       "vegan"
     ],
-    "sourceCount": 4,
-    "tierSpread": "C4",
+    "sourceCount": 3,
+    "tierSpread": "C3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -62640,11 +61497,6 @@
         "tier": "C",
         "source": "Batch Coffee",
         "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
-      },
-      {
-        "tier": "C",
-        "source": "Travelicious Bites",
-        "url": "https://traveliciousbites.com/destinations/europe/london/best-fish-and-chips-in-london/"
       },
       {
         "tier": "C",
@@ -62857,8 +61709,8 @@
       }
     ]
   },
-  "jamesbellisfounder": {
-    "name": "James Bellis | Founder",
+  "jamesbellis": {
+    "name": "James Bellis",
     "topics": [
       "coffee"
     ],
@@ -66924,6 +65776,43 @@
       }
     ]
   },
+  "login": {
+    "name": "Login",
+    "topics": [
+      "dessert",
+      "general"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "dessert": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/best-of/britains-best-bakeries-2026"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      }
+    ]
+  },
   "join": {
     "name": "Join",
     "topics": [
@@ -70107,50 +68996,20 @@
       }
     ]
   },
-  "oliversfishandchips": {
-    "name": "Oliver's Fish & Chips",
-    "topics": [
-      "fish-and-chips"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "fish-and-chips": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Cozymeal",
-        "url": "https://www.cozymeal.com/magazine/fish-and-chips-london"
-      },
-      {
-        "tier": "C",
-        "source": "Travelicious Bites",
-        "url": "https://traveliciousbites.com/destinations/europe/london/best-fish-and-chips-in-london/"
-      }
-    ]
-  },
   "kennedys": {
     "name": "Kennedy's",
     "topics": [
       "fish-and-chips"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "C2 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "fish-and-chips": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "C2 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -70164,6 +69023,12 @@
         "tier": "C",
         "source": "Travelicious Bites",
         "url": "https://traveliciousbites.com/destinations/europe/london/best-fish-and-chips-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Tom the Taxi Driver",
+        "url": "https://www.youtube.com/@TomtheTaxiDriver",
+        "quote": "Named as the Goswell Road branch in a five-shop London run."
       }
     ]
   },
@@ -70189,62 +69054,6 @@
         "tier": "C",
         "source": "Cozymeal",
         "url": "https://www.cozymeal.com/magazine/fish-and-chips-london"
-      }
-    ]
-  },
-  "gigs": {
-    "name": "Gigs",
-    "topics": [
-      "fish-and-chips"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "fish-and-chips": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Travelicious Bites",
-        "url": "https://traveliciousbites.com/destinations/europe/london/best-fish-and-chips-in-london/"
-      }
-    ]
-  },
-  "moleseyfishbar": {
-    "name": "Molesey Fish Bar",
-    "topics": [
-      "fish-and-chips"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C1 D1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "fish-and-chips": {
-        "sourceCount": 2,
-        "tierSpread": "C1 D1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "James Dimitri",
-        "url": "https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/"
-      },
-      {
-        "tier": "D",
-        "source": "Mark Wiens (YouTube)",
-        "url": "https://www.youtube.com/@MarkWiens",
-        "quote": "best traditional"
       }
     ]
   },
@@ -70335,31 +69144,6 @@
       }
     ]
   },
-  "superfish": {
-    "name": "Superfish",
-    "topics": [
-      "fish-and-chips"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "fish-and-chips": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "James Dimitri",
-        "url": "https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/"
-      }
-    ]
-  },
   "goldenchipofhanwell": {
     "name": "Golden Chip of Hanwell",
     "topics": [
@@ -70387,31 +69171,6 @@
   },
   "knightsfishbar": {
     "name": "Knight’s Fish Bar",
-    "topics": [
-      "fish-and-chips"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "fish-and-chips": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "James Dimitri",
-        "url": "https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/"
-      }
-    ]
-  },
-  "marlowfishbar": {
-    "name": "Marlow Fish Bar",
     "topics": [
       "fish-and-chips"
     ],
@@ -70510,8 +69269,8 @@
       }
     ]
   },
-  "olleysfishandchipsexperience": {
-    "name": "Olley’s Fish & Chips Experience",
+  "olleysfishexperience": {
+    "name": "Olley's Fish Experience",
     "topics": [
       "fish-and-chips"
     ],
@@ -70910,19 +69669,26 @@
       }
     ]
   },
-  "hobsons": {
-    "name": "Hobson’s",
+  "mayflower": {
+    "name": "The Mayflower",
     "topics": [
-      "fish-and-chips"
+      "fish-and-chips",
+      "historic-pubs"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 5,
+    "tierSpread": "C4 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "fish-and-chips": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "historic-pubs": {
+        "sourceCount": 4,
+        "tierSpread": "C4",
         "tierCount": 1,
         "hasAward": false
       }
@@ -70930,33 +69696,53 @@
     "sources": [
       {
         "tier": "C",
-        "source": "James Dimitri",
-        "url": "https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/"
+        "source": "London Walks",
+        "url": "https://www.walks.com/blog/londons-oldest-pubs/"
+      },
+      {
+        "tier": "C",
+        "source": "London Travel Planning",
+        "url": "https://londontravelplanning.com/guide-to-londons-oldest-pubs/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/oldest-pubs-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London Drinks Guide",
+        "url": "https://londondrinksguide.com/en/blog/where-to-drink-93/pubs-97/oldest-pubs-in-london-31.htm"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood"
       }
     ]
   },
-  "3responsestotoplondonchippies": {
-    "name": "3 responses to “Top London Chippies”",
+  "seafresh": {
+    "name": "Sea Fresh",
     "topics": [
       "fish-and-chips"
     ],
     "sourceCount": 1,
-    "tierSpread": "C1",
+    "tierSpread": "D1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "fish-and-chips": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
       {
-        "tier": "C",
-        "source": "James Dimitri",
-        "url": "https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/"
+        "tier": "D",
+        "source": "Tom the Taxi Driver",
+        "url": "https://www.youtube.com/@TomtheTaxiDriver"
       }
     ]
   },
@@ -71680,15 +70466,15 @@
     "topics": [
       "french"
     ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "A1 C1",
+    "tierCount": 2,
     "hasAward": true,
     "byTopic": {
       "french": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "A1 C1",
+        "tierCount": 2,
         "hasAward": true
       }
     },
@@ -71697,6 +70483,11 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-french-restaurants-in-london/"
       }
     ]
   },
@@ -71803,33 +70594,8 @@
       }
     ]
   },
-  "paulettemaidavale": {
-    "name": "Paulette | Maida Vale",
-    "topics": [
-      "french"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/the-best-french-restaurants-in-london/"
-      }
-    ]
-  },
-  "bleedingheartbistrofarringdon": {
-    "name": "Bleeding Heart Bistro | Farringdon",
+  "bleedingheartbistro": {
+    "name": "Bleeding Heart Bistro",
     "topics": [
       "french"
     ],
@@ -84790,6 +83556,31 @@
       }
     ]
   },
+  "forgotpassword": {
+    "name": "Forgot Password",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      }
+    ]
+  },
   "londonstop100restaurants2026": {
     "name": "London's Top 100 Restaurants 2026",
     "topics": [
@@ -88239,31 +87030,6 @@
       }
     ]
   },
-  "newfor2026": {
-    "name": "| New for 2026",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/bib-gourmands-in-london/"
-      }
-    ]
-  },
   "mignonette": {
     "name": "Mignonette",
     "topics": [
@@ -88697,6 +87463,31 @@
       }
     ]
   },
+  "londonbythemichelinguide": {
+    "name": "London by the MICHELIN Guide",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/us/en/article/travel/new-michelin-star-restaurants-london"
+      }
+    ]
+  },
   "freshchallengesforfamiliarfaces": {
     "name": "Fresh Challenges for Familiar Faces",
     "topics": [
@@ -88774,6 +87565,31 @@
   },
   "keepexploring": {
     "name": "Keep Exploring",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/us/en/article/travel/new-michelin-star-restaurants-london"
+      }
+    ]
+  },
+  "michelinguideplus": {
+    "name": "MICHELIN Guide Plus",
     "topics": [
       "general"
     ],
@@ -92684,46 +91500,6 @@
         "tier": "C",
         "source": "Secret London",
         "url": "https://secretldn.com/oldest-pubs-in-london/"
-      }
-    ]
-  },
-  "mayflower": {
-    "name": "The Mayflower",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "C4",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 4,
-        "tierSpread": "C4",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Walks",
-        "url": "https://www.walks.com/blog/londons-oldest-pubs/"
-      },
-      {
-        "tier": "C",
-        "source": "London Travel Planning",
-        "url": "https://londontravelplanning.com/guide-to-londons-oldest-pubs/"
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/oldest-pubs-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "London Drinks Guide",
-        "url": "https://londondrinksguide.com/en/blog/where-to-drink-93/pubs-97/oldest-pubs-in-london-31.htm"
       }
     ]
   },
@@ -99399,15 +98175,15 @@
     "topics": [
       "italian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -99416,6 +98192,11 @@
         "tier": "B",
         "source": "Eater London",
         "url": "https://london.eater.com/maps/best-italian-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/features/the-best-italian-restaurants-in-london/"
       }
     ]
   },
@@ -99584,195 +98365,20 @@
       }
     ]
   },
-  "trullohighbury": {
-    "name": "Trullo | Highbury",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-best-italian-restaurants-in-london/"
-      }
-    ]
-  },
-  "gloriashoreditch": {
-    "name": "Gloria | Shoreditch",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-best-italian-restaurants-in-london/"
-      }
-    ]
-  },
-  "sorellaclapham": {
-    "name": "Sorella | Clapham",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-best-italian-restaurants-in-london/"
-      }
-    ]
-  },
-  "legaretowerbridge": {
-    "name": "Legare | Tower Bridge",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-best-italian-restaurants-in-london/"
-      }
-    ]
-  },
-  "chucsmayfair": {
-    "name": "Chucs | Mayfair",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-best-italian-restaurants-in-london/"
-      }
-    ]
-  },
-  "marcelladeptford": {
-    "name": "Marcella | Deptford",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-best-italian-restaurants-in-london/"
-      }
-    ]
-  },
-  "maremmabrixton": {
-    "name": "Maremma | Brixton",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-best-italian-restaurants-in-london/"
-      }
-    ]
-  },
   "chucs": {
     "name": "Chucs",
     "topics": [
       "italian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -99781,6 +98387,61 @@
         "tier": "B",
         "source": "LuxLife",
         "url": "https://luxlifelondon.com/best-italian-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/features/the-best-italian-restaurants-in-london/"
+      }
+    ]
+  },
+  "marcella": {
+    "name": "Marcella",
+    "topics": [
+      "italian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/features/the-best-italian-restaurants-in-london/"
+      }
+    ]
+  },
+  "maremma": {
+    "name": "Maremma",
+    "topics": [
+      "italian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/features/the-best-italian-restaurants-in-london/"
       }
     ]
   },
@@ -101701,31 +100362,6 @@
         "hasAward": false
       },
       "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/forza-wine-at-the-national-theatre"
-      }
-    ]
-  },
-  "restaurantsitalian": {
-    "name": "Restaurants | Italian",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -107961,8 +106597,8 @@
       }
     ]
   },
-  "cafekokocamden": {
-    "name": "Café KOKO | Camden",
+  "cafekoko": {
+    "name": "Café KOKO",
     "topics": [
       "late-night"
     ],
@@ -110023,33 +108659,8 @@
       }
     ]
   },
-  "interviewwkdaiz": {
-    "name": "Interview | WKDAIZ",
-    "topics": [
-      "live-music"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "live-music": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "ICMP",
-        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
-      }
-    ]
-  },
-  "interviewalexgarnierunmute": {
-    "name": "Interview | Alex Garnier | UNMUTE",
+  "interview": {
+    "name": "Interview",
     "topics": [
       "live-music"
     ],
@@ -122642,31 +121253,6 @@
       }
     ]
   },
-  "sola": {
-    "name": "SO|LA",
-    "topics": [
-      "new-openings"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
-      }
-    ]
-  },
   "kaio": {
     "name": "Kāio",
     "topics": [
@@ -124362,36 +122948,6 @@
       }
     },
     "sources": [
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/best-new-restaurants-in-london/"
-      }
-    ]
-  },
-  "banquet88": {
-    "name": "Banquet 88",
-    "topics": [
-      "new-openings"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "new-openings": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/all-latest-openings_11"
-      },
       {
         "tier": "C",
         "source": "London the Inside",
@@ -137418,31 +135974,6 @@
         "tier": "C",
         "source": "PS London",
         "url": "https://www.ps-london.com/thai-fine-dining-london/"
-      }
-    ]
-  },
-  "restaurantsthai": {
-    "name": "Restaurants | Thai",
-    "topics": [
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/singburi-1"
       }
     ]
   },
