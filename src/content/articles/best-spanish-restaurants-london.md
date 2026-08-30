@@ -31,8 +31,10 @@ Spanish food in London has quietly become one of the city's strongest cuisines, 
 
 > 💡 **The Short Version:** **Sabor** is the best, and the suckling pig is upstairs. **Lurra** and **Ibai** do proper Basque asador beef. **José** is standing-room, no bookings, and the best cheap plate of jamón in London. **Pizarro** is the same chef with tables. And **Barrafina** is the counter everyone copies.
 
-> 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Regional distinctions — Basque, Galician, Andalusian — are noted where a kitchen commits to one.
+> 📊 **The evidence behind this guide**
+> Nothing here is ranked on one visit. This pass reads **9 sources carrying 106 citations** across **52 named restaurants** — the Michelin Guide, the editorial mastheads (Time Out, The Nudge, Foodism, Wallpaper) and four specialists. **20 restaurants are named by two or more independent sources; 3 hold a Michelin star.**
+> **The known weakness in this topic:** a small corpus and no category award. Nine records from seven publications, two of which are the same tapas blog. Michelin reaches three Spanish restaurants — Sabor, Legado and Mountain — and nothing else here has been judged by anyone.
+> *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
 
@@ -56,13 +58,13 @@ Spanish food in London has quietly become one of the city's strongest cuisines, 
 
 ### Sabor, Mayfair
 
-*££££ · 6 min from Piccadilly Circus · Michelin star*
+*££££ · 6 min from Piccadilly Circus · Michelin star* · Cited by 5 sources
 
 Nieves Barragán Mohacho cooks **her mother's Basque and Galician repertoire downstairs and roasts suckling pig upstairs** in an asador. Two restaurants in one building, and the upstairs is the one to book.
 
 ### Legado, Shoreditch
 
-*££££ · 2 min from Shoreditch High Street · Michelin star*
+*££££ · 2 min from Shoreditch High Street · Michelin star* · Cited by 3 sources
 
 Barragán Mohacho's second restaurant, cooking **regional Spanish food rarely seen this seriously** in London.
 
@@ -74,13 +76,13 @@ A grill house built around a coal fire and aged beef. London has two proper ones
 
 ### Lurra, Marylebone
 
-*££££ · 3 min from Marble Arch*
+*££££ · 3 min from Marble Arch* · Cited by 2 sources
 
 **Aged Galician beef and whole turbot over coals**, from the Donostia team. The txuleta is the order — a rib chop from an old dairy cow, which is a genuinely different thing from a British steak.
 
 ### Ibai, Farringdon
 
-*££££ · 4 min from Barbican*
+*££££ · 4 min from Barbican* · Cited by 3 sources
 
 Fire-led Basque cooking and **some of the best beef in the country**, from the same team.
 
@@ -90,13 +92,13 @@ Fire-led Basque cooking and **some of the best beef in the country**, from the s
 
 ### Barrafina
 
-*£££ · counters, no bookings*
+*£££ · counters, no bookings* · Cited by 5 sources
 
 The counter format everyone else in London copied. **No bookings** — you put your name down and wait, and you eat at the bar watching it cooked.
 
 ### José, Bermondsey
 
-*£££ · standing room · no bookings*
+*£££ · standing room · no bookings* · Cited by 4 sources
 
 José Pizarro's **standing-room sherry bar** on Bermondsey Street — a handful of stools, a lot of jamón, and no reservations. Jamón, a few plates and a glass of fino comes in well under £25.
 
@@ -106,7 +108,7 @@ José Pizarro's **standing-room sherry bar** on Bermondsey Street — a handful 
 
 ### Pizarro, Bermondsey
 
-*£££ · a few doors up*
+*£££ · a few doors up* · Cited by 3 sources
 
 The **sit-down sibling to José** — same chef, tables instead of stools, and you can book. The pragmatic choice with a group.
 
@@ -116,7 +118,7 @@ The **sit-down sibling to José** — same chef, tables instead of stools, and y
 
 ### Salt Yard, Fitzrovia
 
-*£££ · Spanish-Italian*
+*£££ · Spanish-Italian* · Cited by 2 sources
 
 **Courgette flowers with goat's cheese and honey** — the dish that launched a hundred imitations, from one of the originals of the London tapas wave.
 
@@ -132,7 +134,7 @@ The **sit-down sibling to José** — same chef, tables instead of stools, and y
 
 ### ALTA, Soho
 
-*£££ · Kingly Court*
+*£££ · Kingly Court* · Cited by 3 sources
 
 Basque-influenced live-fire cooking from Rob Roy Cameron, who spent years at elBulli — and one of the most talked-about Spanish openings London has had in a decade.
 
@@ -140,7 +142,7 @@ Everything runs off the grill and the wood oven. Book well ahead; the counter is
 
 ### Bar Kroketa, Clerkenwell
 
-*££ · croquettes and little else*
+*££ · croquettes and little else* · Cited by 3 sources
 
 A bar built almost entirely around the **croqueta** — a dozen or so varieties, made properly, at a counter with a short sherry list.
 
@@ -148,7 +150,7 @@ It is a single-dish restaurant in the way a good ramen shop is, and the discipli
 
 ### Morito, Exmouth Market
 
-*££ · a counter, no bookings for small tables*
+*££ · a counter, no bookings for small tables* · Cited by 4 sources
 
 Sam and Sam Clark's small tapas counter next door to their Moro, and the more useful of the two for a walk-in.
 
@@ -156,7 +158,7 @@ Twenty-odd covers, an all-Spanish drinks list heavy on sherry, and the charm of 
 
 ### Copita, Soho
 
-*££ · d'Arblay Street*
+*££ · d'Arblay Street* · Cited by 3 sources
 
 A standing-and-perching tapas bar of the kind Soho used to be full of, with a genuinely good Spanish wine list sold by the copita — the small glass the place is named after.
 
@@ -166,7 +168,7 @@ A standing-and-perching tapas bar of the kind Soho used to be full of, with a ge
 
 ### Dehesa, Soho
 
-*££ · Carnaby Street*
+*££ · Carnaby Street* · Cited by 3 sources
 
 Spanish-Italian charcuterie and small plates on a corner site off Carnaby Street, from the same group as Salt Yard. The Ibérico ham and the courgette flower are the two things people order every time.
 
@@ -176,7 +178,7 @@ Spanish-Italian charcuterie and small plates on a corner site off Carnaby Street
 
 ### Parrillan, King's Cross
 
-*£££ · Coal Drops Yard · grill at the table*
+*£££ · Coal Drops Yard · grill at the table* · Cited by 2 sources
 
 From the Hart brothers, who run Barrafina — and the gimmick is real: **each table gets its own small charcoal grill** and you cook the skewers yourself.
 
@@ -184,13 +186,13 @@ Coal Drops Yard has the terrace; there is a Borough Yards site too.
 
 ### Lobos, Soho and Borough
 
-*££ · under a railway arch at Borough*
+*££ · under a railway arch at Borough* · Cited by 3 sources
 
 Meat and tapas, and the Borough site is squeezed under a railway arch in a way that makes it feel much older than it is. The Ibérico presa is the order.
 
 ### Escocesa, Stoke Newington
 
-*££ · seafood tapas*
+*££ · seafood tapas* · Cited by 2 sources
 
 Spanish seafood cooking on Stoke Newington Church Street, sourcing from Scottish waters — hence the name, which is a joke that takes a second.
 

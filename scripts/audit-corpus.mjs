@@ -39,7 +39,13 @@ const CHROME = [
   /^📍|^🍴/,                              // emoji section headings
   /^(work with me|destinations|hotel|travel|shop|recipes|gigs|company|the bigger picture|reach the|editorial team|top eats|from [A-Z])/i,
   /^\d+\s+[A-Z]/,                        // "2 Bone Daddies" - a list index glued to the name
-  /^(please |click |find |view |see all|more )/i
+  /^(please |click |find |view |see all|more )/i,
+  // Hot Dinners' own furniture, which slipped past on seafood, Mexican AND
+  // Spanish - the same eight strings each time.
+  /^(offers|test drives|summer|all features|hot dinners recommends|staying in|latest|new and coming soon)$/i,
+  // Section headings and dish names from listicles that are not venues.
+  /^(key factors|understanding the|the chef and|walk-in vs|atmosphere and|tapas|paella|spanish wines|jam[oó]n ib[eé]rico|patatas bravas|croquetas|the four|what the price|where the maths|hidden costs)/i,
+  /at a glance:?$/i
 ];
 const looksLikeChrome = (n) => CHROME.some((r) => r.test(String(n).trim()));
 

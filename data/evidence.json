@@ -1043,10 +1043,8 @@
       "general",
       "greek",
       "korean",
-      "mexican",
       "pizza",
       "seafood",
-      "spanish",
       "steak",
       "thai",
       "vegan"
@@ -1116,12 +1114,6 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "pizza": {
         "sourceCount": 1,
         "tierSpread": "B1",
@@ -1129,12 +1121,6 @@
         "hasAward": false
       },
       "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "spanish": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -1180,10 +1166,8 @@
       "general",
       "greek",
       "korean",
-      "mexican",
       "pizza",
       "seafood",
-      "spanish",
       "steak",
       "thai",
       "vegan"
@@ -1253,12 +1237,6 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "pizza": {
         "sourceCount": 1,
         "tierSpread": "B1",
@@ -1266,12 +1244,6 @@
         "hasAward": false
       },
       "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "spanish": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -22196,12 +22168,13 @@
     "name": "Mountain",
     "topics": [
       "british",
-      "general"
+      "general",
+      "spanish"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 5,
+    "tierSpread": "A1 B2 C2",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 2,
@@ -22214,9 +22187,21 @@
         "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
+      },
+      "spanish": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants",
+        "quote": "One Michelin star in the 2026 guide."
+      },
       {
         "tier": "B",
         "source": "DesignMyNight",
@@ -25545,8 +25530,6 @@
       "italian",
       "korean",
       "late-night",
-      "mexican",
-      "spanish",
       "steak",
       "thai"
     ],
@@ -25586,18 +25569,6 @@
         "hasAward": false
       },
       "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "spanish": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -25633,8 +25604,6 @@
       "italian",
       "korean",
       "late-night",
-      "mexican",
-      "spanish",
       "steak",
       "thai"
     ],
@@ -25674,18 +25643,6 @@
         "hasAward": false
       },
       "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "spanish": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -26616,8 +26573,6 @@
       "italian",
       "korean",
       "late-night",
-      "mexican",
-      "spanish",
       "steak",
       "thai"
     ],
@@ -26657,18 +26612,6 @@
         "hasAward": false
       },
       "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "spanish": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -26704,8 +26647,6 @@
       "italian",
       "korean",
       "late-night",
-      "mexican",
-      "spanish",
       "steak",
       "thai"
     ],
@@ -26745,18 +26686,6 @@
         "hasAward": false
       },
       "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "spanish": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -26792,8 +26721,6 @@
       "italian",
       "korean",
       "late-night",
-      "mexican",
-      "spanish",
       "steak",
       "thai"
     ],
@@ -26833,18 +26760,6 @@
         "hasAward": false
       },
       "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "spanish": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -31996,10 +31911,10 @@
       "new-openings",
       "spanish"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B4 C2",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 7,
+    "tierSpread": "A1 B4 C2",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 2,
@@ -32020,13 +31935,19 @@
         "hasAward": false
       },
       "spanish": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 C1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants",
+        "quote": "One Michelin star in the 2026 guide."
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -32780,10 +32701,10 @@
       "general",
       "mexican"
     ],
-    "sourceCount": 10,
-    "tierSpread": "B8 C2",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 11,
+    "tierSpread": "A1 B8 C2",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 1,
@@ -32798,13 +32719,19 @@
         "hasAward": false
       },
       "mexican": {
-        "sourceCount": 8,
-        "tierSpread": "B6 C2",
-        "tierCount": 2,
-        "hasAward": false
+        "sourceCount": 9,
+        "tierSpread": "A1 B6 C2",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants",
+        "quote": "One Michelin star in the 2026 guide."
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -35528,10 +35455,10 @@
       "general",
       "spanish"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 7,
+    "tierSpread": "A1 B4 C2",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 1,
@@ -35546,17 +35473,33 @@
         "hasAward": false
       },
       "spanish": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
+        "sourceCount": 5,
+        "tierSpread": "A1 B3 C1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
       {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants",
+        "quote": "One Michelin star in the 2026 guide."
+      },
+      {
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-tapas-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish"
       },
       {
         "tier": "B",
@@ -48316,8 +48259,8 @@
       "general",
       "mexican"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B3 C2",
+    "sourceCount": 6,
+    "tierSpread": "B4 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -48334,8 +48277,8 @@
         "hasAward": false
       },
       "mexican": {
-        "sourceCount": 5,
-        "tierSpread": "B3 C2",
+        "sourceCount": 6,
+        "tierSpread": "B4 C2",
         "tierCount": 2,
         "hasAward": false
       }
@@ -48355,6 +48298,11 @@
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/best-mexican-restaurants-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-mexican-restaurants-london/"
       },
       {
         "tier": "C",
@@ -59923,8 +59871,7 @@
     "topics": [
       "comedy",
       "french",
-      "seafood",
-      "spanish"
+      "seafood"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -59944,12 +59891,6 @@
         "hasAward": false
       },
       "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "spanish": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -82698,8 +82639,8 @@
       "general",
       "spanish"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -82710,8 +82651,8 @@
         "hasAward": false
       },
       "spanish": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
         "tierCount": 2,
         "hasAward": false
       }
@@ -82731,6 +82672,11 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/bib-gourmands-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Devour Tours",
+        "url": "https://devourtours.com/blog/best-tapas-bars-london/"
       }
     ]
   },
@@ -95018,8 +94964,7 @@
   "11parishotelsforatreschictrip": {
     "name": "11 Paris Hotels For A Très Chic Trip",
     "topics": [
-      "italian",
-      "mexican"
+      "italian"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -95027,12 +94972,6 @@
     "hasAward": false,
     "byTopic": {
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "mexican": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -95050,8 +94989,7 @@
   "londonsbestfloristsforbeautifulbouquets": {
     "name": "London’s Best Florists For Beautiful Bouquets",
     "topics": [
-      "italian",
-      "mexican"
+      "italian"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -95059,12 +94997,6 @@
     "hasAward": false,
     "byTopic": {
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "mexican": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -108853,31 +108785,6 @@
       }
     ]
   },
-  "londonsbestmexicanrestaurantsataglance": {
-    "name": "London's best Mexican restaurants at a glance:",
-    "topics": [
-      "mexican"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-mexican-restaurants"
-      }
-    ]
-  },
   "cavita": {
     "name": "Cavita",
     "topics": [
@@ -109234,46 +109141,6 @@
       }
     ]
   },
-  "tacospadre": {
-    "name": "Tacos Padre",
-    "topics": [
-      "mexican"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "mexican": {
-        "sourceCount": 4,
-        "tierSpread": "B2 C2",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-mexican-restaurants"
-      },
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-mexican-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/mexican-restaurants/"
-      },
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-tacos-in-london"
-      }
-    ]
-  },
   "elpastor": {
     "name": "El Pastor",
     "topics": [
@@ -109406,31 +109273,6 @@
   },
   "taq": {
     "name": "Taq",
-    "topics": [
-      "mexican"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/mexican-restaurants/"
-      }
-    ]
-  },
-  "santoremediomexicancafe": {
-    "name": "Santo Remedio Mexican Cafe",
     "topics": [
       "mexican"
     ],
@@ -109601,56 +109443,6 @@
         "tier": "C",
         "source": "ET Food Voyage",
         "url": "https://www.etfoodvoyage.com/halal-tacos-in-london/"
-      }
-    ]
-  },
-  "meettheinteriorscollectioninspiredbythebarbican": {
-    "name": "Meet The Interiors Collection Inspired By The Barbican",
-    "topics": [
-      "mexican"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Sauce",
-        "url": "https://thesaucemag.com/best-mexican-restaurants-london/"
-      }
-    ]
-  },
-  "londontacolist": {
-    "name": "London Taco List",
-    "topics": [
-      "mexican"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-tacos-in-london"
       }
     ]
   },
@@ -109871,31 +109663,6 @@
         "tier": "C",
         "source": "Chicome",
         "url": "https://chicome.co.uk/best-mexican-restaurants-in-london/"
-      }
-    ]
-  },
-  "sonora": {
-    "name": "Sonora",
-    "topics": [
-      "mexican"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-mexican-restaurants-london/"
       }
     ]
   },
@@ -110351,31 +110118,6 @@
         "tier": "C",
         "source": "ET Food Voyage",
         "url": "https://www.etfoodvoyage.com/halal-tacos-in-london/"
-      }
-    ]
-  },
-  "tacos": {
-    "name": "Tacos",
-    "topics": [
-      "mexican"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-tacos-london-mexican-food-restaurants-taquerias-uk"
       }
     ]
   },
@@ -126433,24 +126175,34 @@
       }
     ]
   },
-  "barrafinadeanstreet": {
-    "name": "Barrafina Dean Street",
+  "barrafina": {
+    "name": "Barrafina",
     "topics": [
       "spanish"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "spanish": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
+        "sourceCount": 5,
+        "tierSpread": "B3 C2",
         "tierCount": 2,
         "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-tapas-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish"
+      },
       {
         "tier": "B",
         "source": "Wallpaper",
@@ -126460,36 +126212,16 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/best-spanish-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Devour Tours",
+        "url": "https://devourtours.com/blog/best-tapas-bars-london/"
       }
     ]
   },
   "lita": {
     "name": "Lita",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/best-spanish-restaurants-in-london/"
-      }
-    ]
-  },
-  "barrafinacoaldropsyard": {
-    "name": "Barrafina Coal Drops Yard",
     "topics": [
       "spanish"
     ],
@@ -126538,24 +126270,39 @@
       }
     ]
   },
-  "moritoexmouthmarket": {
-    "name": "Morito Exmouth Market",
+  "morito": {
+    "name": "Morito",
     "topics": [
       "spanish"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-tapas-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish"
+      },
+      {
+        "tier": "B",
+        "source": "Wallpaper",
+        "url": "https://www.wallpaper.com/travel/restaurants/best-spanish-restaurants-london"
+      },
       {
         "tier": "C",
         "source": "The Nudge",
@@ -127068,8 +126815,8 @@
       }
     ]
   },
-  "biboshoreditch": {
-    "name": "Bibo Shoreditch",
+  "bibo": {
+    "name": "Bibo",
     "topics": [
       "spanish"
     ],
@@ -127093,8 +126840,33 @@
       }
     ]
   },
-  "barrafina": {
-    "name": "Barrafina",
+  "brindisa": {
+    "name": "Brindisa",
+    "topics": [
+      "spanish"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "spanish": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-tapas-london/"
+      }
+    ]
+  },
+  "lobos": {
+    "name": "Lobos",
     "topics": [
       "spanish"
     ],
@@ -127125,86 +126897,6 @@
         "tier": "C",
         "source": "Devour Tours",
         "url": "https://devourtours.com/blog/best-tapas-bars-london/"
-      }
-    ]
-  },
-  "counteratsabor": {
-    "name": "The Counter at Sabor",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-tapas-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish"
-      }
-    ]
-  },
-  "brindisa": {
-    "name": "Brindisa",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-tapas-london/"
-      }
-    ]
-  },
-  "lobosborough": {
-    "name": "Lobos Borough",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-tapas-london/"
       }
     ]
   },
@@ -127330,41 +127022,6 @@
       }
     ]
   },
-  "morito": {
-    "name": "Morito",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-tapas-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish"
-      },
-      {
-        "tier": "B",
-        "source": "Wallpaper",
-        "url": "https://www.wallpaper.com/travel/restaurants/best-spanish-restaurants-london"
-      }
-    ]
-  },
   "19londonsupperclubsservingseriouslygoodfood": {
     "name": "19 London supper clubs serving seriously good food",
     "topics": [
@@ -127387,36 +127044,6 @@
         "tier": "B",
         "source": "Foodism",
         "url": "https://foodism.co.uk/guides/best-tapas-london/"
-      }
-    ]
-  },
-  "tapas": {
-    "name": "Tapas",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/the-best-tapas-restaurants-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "London Tapas Guide",
-        "url": "https://londontapasguide.wordpress.com/2026/06/16/the-complete-guide-to-londons-spanish-food-scene-in-2026/"
       }
     ]
   },
@@ -127520,61 +127147,6 @@
       }
     ]
   },
-  "lobossoho": {
-    "name": "Lobos Soho",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish"
-      },
-      {
-        "tier": "C",
-        "source": "Devour Tours",
-        "url": "https://devourtours.com/blog/best-tapas-bars-london/"
-      }
-    ]
-  },
-  "londonsbestrestaurantsfortapas": {
-    "name": "London's best restaurants for tapas",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-tapas-1"
-      }
-    ]
-  },
   "cambiodetercio": {
     "name": "Cambio de Tercio",
     "topics": [
@@ -127622,106 +127194,6 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-tapas-1"
-      }
-    ]
-  },
-  "keyfactorstoconsiderwhenchoosing": {
-    "name": "Key Factors to Consider When Choosing",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Tapas Guide",
-        "url": "https://londontapasguide.wordpress.com/2026/04/06/how-to-choose-the-best-spanish-tapas-restaurant-in-london/"
-      }
-    ]
-  },
-  "chefandkitchencredentials": {
-    "name": "The Chef and Kitchen Credentials",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Tapas Guide",
-        "url": "https://londontapasguide.wordpress.com/2026/04/06/how-to-choose-the-best-spanish-tapas-restaurant-in-london/"
-      }
-    ]
-  },
-  "walkinvsbookable": {
-    "name": "Walk-In vs. Bookable",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Tapas Guide",
-        "url": "https://londontapasguide.wordpress.com/2026/04/06/how-to-choose-the-best-spanish-tapas-restaurant-in-london/"
-      }
-    ]
-  },
-  "atmosphereandseatingstyle": {
-    "name": "Atmosphere and Seating Style",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Tapas Guide",
-        "url": "https://londontapasguide.wordpress.com/2026/04/06/how-to-choose-the-best-spanish-tapas-restaurant-in-london/"
       }
     ]
   },
@@ -127825,8 +127297,8 @@
       }
     ]
   },
-  "jostapasbar": {
-    "name": "Jos Tapas Bar",
+  "iberica": {
+    "name": "Ibérica",
     "topics": [
       "spanish"
     ],
@@ -127847,181 +127319,6 @@
         "tier": "C",
         "source": "Devour Tours",
         "url": "https://devourtours.com/blog/best-tapas-bars-london/"
-      }
-    ]
-  },
-  "ibricamarylebone": {
-    "name": "Ib rica Marylebone",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Devour Tours",
-        "url": "https://devourtours.com/blog/best-tapas-bars-london/"
-      }
-    ]
-  },
-  "understandingthespanishdiningexperience": {
-    "name": "Understanding the Spanish Dining Experience",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Tapas Guide",
-        "url": "https://londontapasguide.wordpress.com/2026/06/16/the-complete-guide-to-londons-spanish-food-scene-in-2026/"
-      }
-    ]
-  },
-  "paella": {
-    "name": "Paella",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Tapas Guide",
-        "url": "https://londontapasguide.wordpress.com/2026/06/16/the-complete-guide-to-londons-spanish-food-scene-in-2026/"
-      }
-    ]
-  },
-  "spanishwines": {
-    "name": "Spanish Wines",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Tapas Guide",
-        "url": "https://londontapasguide.wordpress.com/2026/06/16/the-complete-guide-to-londons-spanish-food-scene-in-2026/"
-      }
-    ]
-  },
-  "jamoniberico": {
-    "name": "Jamón Ibérico",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Tapas Guide",
-        "url": "https://londontapasguide.wordpress.com/2026/06/16/the-complete-guide-to-londons-spanish-food-scene-in-2026/"
-      }
-    ]
-  },
-  "patatasbravas": {
-    "name": "Patatas Bravas",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Tapas Guide",
-        "url": "https://londontapasguide.wordpress.com/2026/06/16/the-complete-guide-to-londons-spanish-food-scene-in-2026/"
-      }
-    ]
-  },
-  "croquetas": {
-    "name": "Croquetas",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Tapas Guide",
-        "url": "https://londontapasguide.wordpress.com/2026/06/16/the-complete-guide-to-londons-spanish-food-scene-in-2026/"
       }
     ]
   },

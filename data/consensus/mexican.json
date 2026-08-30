@@ -1,14 +1,13 @@
 {
   "cuisine": "mexican",
   "note": "SCOPE: Mexican only. Not Tex-Mex chains, and not the Japanese-Mexican and Peruvian-Japanese rooms that pan-Latin lists mix in - Los Mochis is already filed Japanese with a note that it is a candidate here. Taco-specific guides are a separate leg from the restaurant lists. guide.michelin.com is blocked (403) so its Mexican best-of is absent by design. Every URL came from a search result.",
-  "recorded": "2026-08-26",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "Time Out (Mexican)",
       "url": "https://www.timeout.com/london/restaurants/londons-best-mexican-restaurants",
       "scope": "mexican",
       "names": [
-        "London's best Mexican restaurants at a glance:",
         "Cavita",
         "Comalera",
         "Sonora Taquería",
@@ -26,18 +25,8 @@
         "Proper Tacos",
         "Guacamoles",
         "Mestizo Chelsea",
-        "Tacos Padre",
         "El Pastor",
         "Mirtala"
-      ]
-    },
-    {
-      "name": "DesignMyNight (Mexican)",
-      "url": "https://www.designmynight.com/london/restaurants/best-mexican-restaurants-london",
-      "scope": "mexican",
-      "names": [
-        "Rewards",
-        "Jobs"
       ]
     },
     {
@@ -57,7 +46,6 @@
         "Breddos",
         "Sonora Taqueria",
         "Casa Pastor",
-        "Tacos Padre",
         "Corrochio's",
         "Comalera",
         "Lucia's",
@@ -85,9 +73,6 @@
       "url": "https://thesaucemag.com/best-mexican-restaurants-london/",
       "scope": "mexican",
       "names": [
-        "11 Paris Hotels For A Très Chic Trip",
-        "Meet The Interiors Collection Inspired By The Barbican",
-        "London’s Best Florists For Beautiful Bouquets",
         "London’s Top Exhibitions To Book For Autumn",
         "Los Mochis",
         "Kol",
@@ -105,12 +90,10 @@
       "url": "https://www.thehungrysoles.com/blog/best-tacos-in-london",
       "scope": "mexican-tacos",
       "names": [
-        "London Taco List",
         "Homies on Donkeys",
         "El Pastor",
         "Santo Remedio",
         "La Chingada",
-        "Tacos Padre",
         "Tigre Tacos",
         "Taca Tacos",
         "CDMX Tacos",
@@ -167,7 +150,6 @@
         "Taquiza",
         "La Chingada",
         "Corrochio's",
-        "Tacos Padre",
         "Homies on Donkeys",
         "Del 74",
         "Hacha",
@@ -223,19 +205,18 @@
       ]
     },
     {
-      "name": "Hot Dinners",
-      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-tacos-london-mexican-food-restaurants-taquerias-uk",
-      "scope": "mexican",
+      "name": "Michelin Guide 2026 - London stars",
+      "url": "https://guide.michelin.com/gb/en/restaurants",
       "names": [
-        "Offers",
-        "Test Drives",
-        "Summer",
-        "Tacos",
-        "All features",
-        "See all offers",
-        "Hot Dinners recommends",
-        "Staying in"
-      ]
+        "KOL"
+      ],
+      "quotes": {
+        "KOL": "One Michelin star in the 2026 guide."
+      },
+      "note": "READ FROM THE SUBSTITUTE. guide.michelin.com is 403 to the fetcher, so the 2026 column of the Wikipedia list in data/sources.json blocked.substitutes was used, and ATTRIBUTED here to guide.michelin.com - filing it under en.wikipedia.org tiers a star as B. The star count is in the SVG file name (Etoile_Michelin-2.svg), not the number of images."
     }
+  ],
+  "deadUrls": [
+    "hot-dinners.com - the recorded URL 404s and no Mexican or Spanish guide exists on the site. Checked the recommends index, the sitemap and four slug variants on 2026-08-30. It had contributed only site navigation anyway."
   ]
 }

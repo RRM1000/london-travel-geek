@@ -189,7 +189,24 @@
     "Ippudo London": "Ippudo",
     "Eat Tokyo Golders Green": "Eat Tokyo",
     "Sushi Kanesaka": "Sushi Kanesaka",
-    "Em Sherif at Harrods": "Em Sherif"
+    "Em Sherif at Harrods": "Em Sherif",
+    "Sonora Taqueria": "Sonora Taquería",
+    "Sonora": "Sonora Taquería",
+    "IXCHEL": "Ixchel",
+    "Santo Remedio Mexican Cafe": "Santo Remedio",
+    "Homies On Donkeys": "Homies on Donkeys",
+    "Kol": "KOL",
+    "Barrafina Dean Street": "Barrafina",
+    "Barrafina Coal Drops Yard": "Barrafina",
+    "The Counter at Sabor": "Sabor",
+    "Lobos Soho": "Lobos",
+    "Lobos Borough": "Lobos",
+    "Jos Tapas Bar": "José",
+    "José Pizarro": "Pizarro",
+    "Ib rica Marylebone": "Ibérica",
+    "Ibérica Marylebone": "Ibérica",
+    "Morito Exmouth Market": "Morito",
+    "Bibo Shoreditch": "Bibo"
   },
   "whyCrispIsOneVenue": "The Infatuation's #1 is 'Crisp Pizza W6 at The Chancellors' in Hammersmith; Time Out and Country & Town House name the Mayfair site. Those are two pubs, but one brand: the Restaurants v2 row is already chainType 'mini-chain' with ownerGroup 'Devonshire / Crisp group', and its Why Go says Crisp was 'previously only in Hammersmith, brought into central London'. The sheet counts a mini-chain brand-level - the same treatment Rudy's and Fatto a Mano get - so the citations merge and the two sites are carried as Branches rows instead. Verified 2026-08-30: The Chancellors is 25 Crisp Road, Hammersmith W6 9RL.",
   "deliberatelyNotAliased": {
@@ -211,5 +228,6 @@
   "whyChineseNamesMerge": "Chinatown guides append the neighbourhood to the name - Bun House Chinatown, Orient London Chinatown - and the accented forms come and go. Kai and Kai Mayfair are one restaurant; Hakkasan Mayfair and Hakkasan Hanway Place are two, and are NOT merged.",
   "whyTurkishNamesMerge": "Seven sources spell the same restaurants seven ways: Mangal II / Mangal 2, Kofteci / Köfteci, Diyarbakir / Diyarbakır, and the '19 Numara Bos Cirrik' ocakbasi appears as Cirrik, as Cirrik 19 Numara Bos and as 19 Numara Bos Cirrik 2. Accents come and go, and 'Restaurant' is appended by about half of them.",
   "whyAfternoonTeaNamesMerge": "Afternoon tea is listed by the TEA ROOM by some sources and by the HOTEL by others - The Palm Court at The Ritz and The Ritz, the Diamond Jubilee Tea Salon and Fortnum & Mason. Unmerged, the two most famous teas in London read as four weakly supported venues. The canonical name is the one a reader books under.",
-  "whyJapaneseNamesMerge": "Ramen lists append 'Ramen' to names that do not carry it (Tonkotsu, Shoryu) and Nobu's three London sites are written with and without 'London' in the middle. Koya trades as Koya Soho and Koya Ko - the second is a separate, cheaper site and is NOT merged."
+  "whyJapaneseNamesMerge": "Ramen lists append 'Ramen' to names that do not carry it (Tonkotsu, Shoryu) and Nobu's three London sites are written with and without 'London' in the middle. Koya trades as Koya Soho and Koya Ko - the second is a separate, cheaper site and is NOT merged.",
+  "whyIberianNamesMerge": "Barrafina and Ibérica are written with and without the branch, and Sabor's downstairs counter is listed by some sources as 'The Counter at Sabor' and by others as Sabor. José Pizarro runs both José and Pizarro as separate restaurants on the same street, which is why 'José Pizarro' resolves to Pizarro and not to José."
 }

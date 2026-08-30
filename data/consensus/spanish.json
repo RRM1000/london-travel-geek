@@ -1,7 +1,7 @@
 {
   "cuisine": "spanish",
   "note": "Tier 2, sized at 17 rows - deliberately fewer than the tier 1 cuisines, per sizing in research-playbook.json. SCOPE: Spanish. Tapas guides are a separate leg from the restaurant lists. Tollington's is filed Modern European but flagged as Iberian-leaning - reconsider it here. guide.michelin.com is blocked (403) so it is absent by design. Every URL came from a search result.",
-  "recorded": "2026-08-26",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "The Nudge (Spanish)",
@@ -62,21 +62,6 @@
       ]
     },
     {
-      "name": "Hot Dinners (tapas)",
-      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/the-best-tapas-restaurants-in-london",
-      "scope": "spanish-tapas",
-      "names": [
-        "Offers",
-        "Test Drives",
-        "Summer",
-        "Tapas",
-        "All features",
-        "See all offers",
-        "Hot Dinners recommends",
-        "Staying in"
-      ]
-    },
-    {
       "name": "Time Out (Spanish)",
       "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish",
       "scope": "spanish",
@@ -108,7 +93,6 @@
       "url": "https://www.timeout.com/london/restaurants/londons-best-tapas-1",
       "scope": "spanish-tapas",
       "names": [
-        "London's best restaurants for tapas",
         "José",
         "Legado",
         "Barrafina",
@@ -131,10 +115,6 @@
       "url": "https://londontapasguide.wordpress.com/2026/04/06/how-to-choose-the-best-spanish-tapas-restaurant-in-london/",
       "scope": "spanish",
       "names": [
-        "Key Factors to Consider When Choosing",
-        "The Chef and Kitchen Credentials",
-        "Walk-In vs. Bookable",
-        "Atmosphere and Seating Style",
         "Spanish Wine and Sherry Selection",
         "Neighbourhood and Location",
         "Red Flags to Avoid",
@@ -174,13 +154,6 @@
       "url": "https://londontapasguide.wordpress.com/2026/06/16/the-complete-guide-to-londons-spanish-food-scene-in-2026/",
       "scope": "spanish",
       "names": [
-        "Understanding the Spanish Dining Experience",
-        "Tapas",
-        "Paella",
-        "Spanish Wines",
-        "Jamón Ibérico",
-        "Patatas Bravas",
-        "Croquetas",
         "Gambas al Ajillo",
         "Spanish Tortilla",
         "How Spanish Culture Influences London’s Food Scene",
@@ -190,14 +163,22 @@
       ]
     },
     {
-      "name": "DesignMyNight (Spanish)",
-      "url": "https://www.designmynight.com/london/bars/spanish-restaurants-london",
-      "scope": "spanish",
+      "name": "Michelin Guide 2026 - London stars",
+      "url": "https://guide.michelin.com/gb/en/restaurants",
       "names": [
-        "Rewards",
-        "Jobs",
-        "My Account"
-      ]
+        "Sabor",
+        "Legado",
+        "Mountain"
+      ],
+      "quotes": {
+        "Sabor": "One Michelin star in the 2026 guide.",
+        "Legado": "One Michelin star in the 2026 guide.",
+        "Mountain": "One Michelin star in the 2026 guide."
+      },
+      "note": "READ FROM THE SUBSTITUTE. guide.michelin.com is 403 to the fetcher, so the 2026 column of the Wikipedia list in data/sources.json blocked.substitutes was used, and ATTRIBUTED here to guide.michelin.com - filing it under en.wikipedia.org tiers a star as B. The star count is in the SVG file name (Etoile_Michelin-2.svg), not the number of images."
     }
+  ],
+  "deadUrls": [
+    "hot-dinners.com - the recorded URL 404s and no Mexican or Spanish guide exists on the site. Checked the recommends index, the sitemap and four slug variants on 2026-08-30. It had contributed only site navigation anyway."
   ]
 }

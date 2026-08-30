@@ -33,8 +33,10 @@ This guide skips the burrito.
 
 > 💡 **The Short Version:** **Kol** has the Michelin star and uses only British produce. **Cavita** is Time Out's pick. **Santo Remedio** cooks the dishes other London Mexicans avoid. **Comalera** in Walthamstow presses its own tortillas and is the cheapest good one. And **Mestizo** is where the mezcal is.
 
-> 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Chain burrito operations are deliberately excluded.
+> 📊 **The evidence behind this guide**
+> Nothing here is ranked on one visit. This pass reads **11 sources carrying 132 citations** across **60 named restaurants** — the Michelin Guide, the editorial mastheads (Time Out, The Infatuation, Foodism, The Handbook, Forbes) and five London specialists, three of which write only about tacos. **22 restaurants are named by two or more independent sources; 1 holds a Michelin star.**
+> **The known weakness in this topic:** one star and no category award. KOL is the only Mexican restaurant in London the inspectors have given anything, so everything else rests on editorial agreement. The corpus also leans towards tacos, because that is what the specialist writers cover, which flavours the counts towards counters and away from dining rooms.
+> *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
 
@@ -61,7 +63,7 @@ This guide skips the burrito.
 
 ### Kol, Marylebone
 
-*££££ · Michelin star*
+*££££ · Michelin star* · Cited by 9 sources
 
 Santiago Lastra cooks **Mexican technique using British ingredients — no imported produce at all**. The constraint is the entire concept, and it produces food that could not exist anywhere else.
 
@@ -71,13 +73,13 @@ Santiago Lastra cooks **Mexican technique using British ingredients — no impor
 
 ### Cavita, Marylebone
 
-*££££ · 3 min from Bond Street*
+*££££ · 3 min from Bond Street* · Cited by 5 sources
 
 **Time Out's pick for the best Mexican in London.** The tacos get the headlines but the point is the dishes around them.
 
 ### Santo Remedio, Bermondsey
 
-*£££ · 10 min from London Bridge*
+*£££ · 10 min from London Bridge* · Cited by 8 sources
 
 Edson and Natalie Diaz-Fuentes cook **the dishes most London Mexicans skip** — mole negro, soft shell crab tacos, and grasshopper guacamole, which is not a gimmick.
 
@@ -87,19 +89,19 @@ Edson and Natalie Diaz-Fuentes cook **the dishes most London Mexicans skip** —
 
 ### Cometa, Fitzrovia
 
-*£££ · 5 min from Goodge Street*
+*£££ · 5 min from Goodge Street* · Cited by 3 sources
 
 **Mexican seafood specifically** — tostadas, ceviche and aguachile rather than the meat-led menu everywhere else runs.
 
 ### Los Mochis, Notting Hill
 
-*££££ · Japanese-Mexican*
+*££££ · Japanese-Mexican* · Cited by 2 sources
 
 Sashimi and maki on the same menu as ceviche, tiradito and tacos. Sounds like a gimmick; is not.
 
 ### Mestizo, Fitzrovia
 
-*£££ · 4 min from Euston Square*
+*£££ · 4 min from Euston Square* · Cited by 4 sources
 
 A long-running **mezcaleria** and dining room. The tequila and mezcal list is the reason to sit at the bar rather than a table.
 
@@ -107,7 +109,7 @@ A long-running **mezcaleria** and dining room. The tequila and mezcal list is th
 
 ### Ixchel, Chelsea
 
-*£££ · 7 min from Sloane Square*
+*£££ · 7 min from Sloane Square* · Cited by 3 sources
 
 Leans as hard on mezcal and the bar as on the kitchen.
 
@@ -119,7 +121,7 @@ The most interesting Mexican cooking in London is not in the restaurants at the 
 
 ### El Pastor, Borough
 
-*££ · 7A Stoney Street · also Soho, King's Cross and Battersea*
+*££ · 7A Stoney Street · also Soho, King's Cross and Battersea* · Cited by 7 sources
 
 A **Mexico City taqueria** built around the *trompo* — the vertical spit of marinated pork that gives tacos al pastor their name — and the group that did more than any other to make proper tacos normal in London.
 
@@ -127,7 +129,7 @@ Its own account is that the Stoney Street original served its first taco **on a 
 
 ### Zapote, Shoreditch
 
-*£££ · 70 Leonard Street*
+*£££ · 70 Leonard Street* · Cited by 3 sources
 
 The most serious corn programme in London. Chef Yahir Gonzalez, from Aguascalientes, runs **named heritage varieties** — chalqueño cremoso and cónico rojo from Mexico State, bolita blanco from Oaxaca — with some of the corn grown on his family's ranch in Jalisco.
 
@@ -139,7 +141,7 @@ Sourcing that specific tells you the masa is made from scratch daily. The scallo
 
 ### Sonora Taquería, Stoke Newington
 
-*££ · 208 Stoke Newington High Street*
+*££ · 208 Stoke Newington High Street* · Cited by 6 sources
 
 **Northern Mexican, and the clearest regional claim in London** — Michelle Salazar de la Rocha is from Sonora, and the cooking is hers rather than a general Mexican menu.
 
@@ -149,7 +151,7 @@ Started as a Netil Market stall and took a permanent room in 2023.
 
 ### Corrochio's, Dalston
 
-*££ · 76 Stoke Newington Road*
+*££ · 76 Stoke Newington Road* · Cited by 4 sources
 
 **Deliberately multi-regional**: enchiladas verdes from Puebla, huaraches from Mexico City, tostadas from Oaxaca. Founder Daniel is from Guadalajara and trained in the Yucatán, and the menu reflects a career rather than a region.
 
@@ -157,13 +159,13 @@ The **huarache** — a long handmade corn "fatbread" with guajillo in the masa �
 
 ### La Chingada, Rotherhithe
 
-*££ · 12 Rotherhithe New Road · also Euston*
+*££ · 12 Rotherhithe New Road · also Euston* · Cited by 6 sources
 
 **Mexico City street food** with a rotating al pastor spit, and *suadero* — the slow-cooked beef cut that is a Mexico City taqueria staple and almost absent from London menus.
 
 ### Fonda, Mayfair
 
-*£££ · 12 Heddon Street*
+*£££ · 12 Heddon Street* · Cited by 2 sources
 
 Santiago Lastra's second restaurant after Kol, built on the **fonda** format — the Mexican family eatery — using British produce.
 
@@ -171,7 +173,7 @@ There is a **comal in the dining room** with tortillas pressed and flipped right
 
 ### Homies on Donkeys, Leytonstone
 
-*££ · 686 High Road · closed Sunday and Monday*
+*££ · 686 High Road · closed Sunday and Monday* · Cited by 5 sources
 
 Started as a **Wood Street Market stall in 2017** and took a permanent Leytonstone room in 2023 — and won BBC's *Britain's Top Takeaway* as best Mexican along the way.
 
@@ -185,7 +187,7 @@ The cheapest Mexican food in London is also some of the best, and most of it is 
 
 ### Guacamoles — Peckham, Tooting and Hackney Wick
 
-*£ · three market stalls*
+*£ · three market stalls* · Cited by 4 sources
 
 **Three market stalls rather than a restaurant**: Rye Lane Market in Peckham, Tooting Market, and the Hamlet Estate in Hackney Wick.
 
@@ -193,7 +195,7 @@ Veracruz roots, **hand-pressed tortillas made fresh daily**, and a birria simmer
 
 ### Tacos Padre, Borough Market
 
-*££ · Borough Market Kitchen · closed Mondays*
+*££ · Borough Market Kitchen · closed Mondays* · named by no source in this corpus
 
 **A market stall by day and a counter restaurant by night**, from Nick Fitzgerald, who cooked at Pujol in Mexico City — which is not a line most London taquerias can offer.
 
@@ -205,7 +207,7 @@ The crab tostada is the order, and there is Yucatecan xni-pec salsa on the table
 
 ### Taquiza, Peckham
 
-*£ · Arch 164, 115 Rye Lane · Wednesday to Saturday only*
+*£ · Arch 164, 115 Rye Lane · Wednesday to Saturday only* · Cited by 3 sources
 
 A railway arch on Rye Lane run by a couple who started making their own tortillas because they could not buy the real thing in London. Around **£6 a taco**, on masa made in the arch.
 
@@ -213,19 +215,19 @@ Four days a week only, so check before you go.
 
 ### Taca Tacos — Deptford and Peckham
 
-*£ · market yard and sit-down*
+*£ · market yard and sit-down* · Cited by 2 sources
 
 Began as stalls at Brick Brewery and Deptford Market Yard, and now has a **sit-down Peckham room** as well. Cali-Mex leaning — quesatacos, Baja fish tacos, and a six-hour beef birria built on guajillo, ancho and pasilla.
 
 ### Comalera, Walthamstow
 
-*£ · 2 min from St James Street · walk-in*
+*£ · 2 min from St James Street · walk-in* · Cited by 3 sources
 
 A stall **pressing its own tortillas** — the cheapest serious tacos in London, and worth the journey out if you care about the difference a fresh tortilla makes.
 
 ### Club Mexicana, Mayfair
 
-*£ · entirely vegan*
+*£ · entirely vegan* · named by no source in this corpus
 
 Tacos, nachos and burritos on jackfruit and vegan chicken. Started as a market stall and now in **Mercato Mayfair**, the food hall inside a deconsecrated church on North Audley Street, plus Boxhall City by Liverpool Street. **The rare vegan restaurant nobody eats at because it is vegan.**
 
