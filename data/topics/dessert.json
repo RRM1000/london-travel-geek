@@ -1,0 +1,73 @@
+{
+  "topic": "dessert",
+  "article": "src/content/articles/best-bakeries-london.md",
+  "headTerm": "Bakeries",
+  "scope": "BAKERIES, PASTRY AND CAKES. Ice cream and gelato are NOT in this corpus - they are data/consensus/ice-cream.json and src/content/articles/best-ice-cream-london.md. Three ice cream records were removed from here on 2026-08-30, one of them a duplicate of a URL already in that corpus.",
+  "status": "scoped and re-extracted 2026-08-30",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. This file records the largest out-of-area error found anywhere in the project.",
+  "awardBodies": [
+    {
+      "name": "The Good Food Guide - Britain's 50 Best Bakeries",
+      "domain": "thegoodfoodguide.co.uk",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "The only judged, dated ranking that reaches London bakeries. There is no Michelin for bread.",
+      "theOutOfAreaProblem": "IT IS A NATIONAL LIST AND ALL 49 READABLE NAMES WERE BEING COUNTED AS LONDON CITATIONS. Ten of the fifty are in London. Aran Bakery is in Dunkeld, Hart's in Bristol, Pollen in Manchester, Lannan in Edinburgh. The topic showed 85 tier-A citations - more judged evidence than any other topic in this project - and roughly four fifths of it was for bakeries in other cities. Scoped to London on 2026-08-30; the count is now 10.",
+      "howToRead": "The page pairs each bakery name in an h3 with its town in the h4 immediately after, so the London subset is readable rather than guessable. 38 chrome strings were also being counted as bakeries, including 'The legal bit', 'Essential Cookies', 'Login' and the regional navigation links.",
+      "london2026": [
+        "Arôme Bakery",
+        "August Bakery",
+        "Chatsworth Bakehouse",
+        "Don't Tell Dad",
+        "E5 Bakehouse",
+        "Eric's",
+        "Fred Bakery",
+        "Lucky Yu Bakery",
+        "Suba Bakery",
+        "Toad Bakery"
+      ]
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "tier": "B",
+      "ranked": false,
+      "note": "THE URL MOVED. /guides/best-bakeries-london now 404s and the live guide is at /guides/best-bakeries-in-london. The dead URL had been recorded with three names; the live page carries 20 with a verdict each. A 404 is not a dead source - look for the move first."
+    },
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "tier": "B",
+      "ranked": false,
+      "note": "Its 27-best-bakeries guide counts. Its '10 London bakeries named best in Britain' piece does NOT - that is the Good Food Guide award being reported, and the award is the source. The article itself already said so before this pass, which is how the discrepancy was noticed."
+    },
+    { "name": "Londonyaar", "domain": "londonyaar.com", "tier": "C", "ranked": false },
+    {
+      "name": "Critmas",
+      "domain": "critmas.substack.com",
+      "tier": "C",
+      "ranked": false,
+      "note": "A first-person account of joining sixteen bakery queues - the only source here that measures consistency rather than a single visit."
+    }
+  ],
+  "knownGaps": [
+    "SIX PUBLICATIONS, AND ONE OF THEM SUPPLIES EVERY AWARD. A small corpus for a topic with this much coverage.",
+    "NO VIDEO TIER and NO COMMUNITY TIER.",
+    "Bakeries turn over faster than restaurants: seven of the ten London entries on the 2026 national list were new that year, so any list more than a year old is unreliable. The article says this.",
+    "Four venues the article covers are named by no source in the corpus - Little Bread Pedlar, Lisboa Patisserie, Beigel Bake and Lina Stores. Each is marked in the article rather than quietly dropped: they are institutions the guides have stopped writing about, not mistakes.",
+    "Five well-supported bakeries had no entry in the article at all and were added on 2026-08-30: Forno, Bunhead Bakery and Layla Bakery on three sources each, Kuro Bakery and Common Breads on two."
+  ],
+  "currentState": {
+    "recorded": "2026-08-30",
+    "sourceRecords": 7,
+    "distinctDomains": 6,
+    "citations": 103,
+    "namesInCorpus": 62,
+    "twoPlusDomains": 16,
+    "tierAVenues": 10,
+    "articleExists": true,
+    "mapExists": false
+  }
+}

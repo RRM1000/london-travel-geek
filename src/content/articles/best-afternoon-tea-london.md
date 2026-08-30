@@ -35,8 +35,10 @@ Arranged by **what you are actually buying** — the historic claim, the room, t
 
 > 💡 **The Short Version:** **The Langham** is where the ritual began and still the benchmark. **The Ritz** is the most recognised and the most formal. **The Berkeley** does fashion-week pastries. **Sketch** is an art installation. **The Wolseley** and **The Connaught** give you most of it for less. **One Aldwych** is the one that works with children.
 
-> 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Afternoon tea prices move every season — treat figures here as indicative and confirm when booking.
+> 📊 **The evidence behind this guide**
+> Nothing here is ranked on one visit. This pass reads **7 sources carrying 100 citations** across **62 named tea rooms** — the editorial mastheads (Time Out, The Infatuation, Olive, LuxLife) and three specialists, two of them writing specifically about doing this cheaply. **23 tea rooms are named by two or more independent sources.**
+> **The known weakness in this topic: there is no award, and no inspectorate.** Nothing here has been judged. Afternoon tea is also the hardest topic on this site to count, because half the sources name the TEA ROOM and half name the HOTEL — "The Palm Court at The Ritz" and "The Ritz" — so the two most famous teas in London read as four weakly-supported venues until they are merged by hand. Several rooms in this guide carry no citation at all; each says so.
+> *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
 
@@ -72,13 +74,13 @@ Arranged by **what you are actually buying** — the historic claim, the room, t
 
 ### The Langham, Marylebone
 
-*££££ · 3 min from Oxford Circus*
+*££££ · 3 min from Oxford Circus · Cited by 4 sources*
 
 The **Palm Court claims to be where afternoon tea began** in the 1860s, and it is still the benchmark against which the others are judged. Book weeks ahead.
 
 ### The Ritz, Piccadilly
 
-*££££ · 2 min from Green Park · dress code enforced*
+*££££ · 2 min from Green Park · dress code enforced · Cited by 4 sources*
 
 The most recognised afternoon tea in London, served in the Palm Court with a pianist.
 
@@ -86,7 +88,7 @@ The most recognised afternoon tea in London, served in the Palm Court with a pia
 
 ### Claridge's, Mayfair
 
-*££££ · 5 min from Bond Street*
+*££££ · 5 min from Bond Street · Cited by 1 source*
 
 Art Deco Mayfair, with its own house blend of Assam and Darjeeling, served in the Foyer and Reading Room.
 
@@ -96,7 +98,7 @@ Art Deco Mayfair, with its own house blend of Assam and Darjeeling, served in th
 
 ### Fortnum & Mason, Piccadilly
 
-*££££ · the tea merchant's own salon*
+*££££ · the tea merchant's own salon · Cited by 2 sources*
 
 Opened by the Queen in 2012, and **the one place where the tea list is the point** rather than the pastries. If you care about the leaf rather than the room, come here.
 
@@ -106,31 +108,31 @@ Opened by the Queen in 2012, and **the one place where the tea list is the point
 
 ### The Dorchester, Mayfair
 
-*££££ · the Promenade*
+*££££ · the Promenade · named by no source in this corpus*
 
 Served the length of the Promenade, opening with a glass of Veuve Clicquot poured tableside. The grandest of the grand.
 
 ### The Savoy, Covent Garden
 
-*££££ · the Thames Foyer*
+*££££ · the Thames Foyer · Cited by 3 sources*
 
 Under the glass cupola of the Thames Foyer, with a pianist, in London's first purpose-built luxury hotel.
 
 ### The Lanesborough, Knightsbridge
 
-*££££ · under a glass dome*
+*££££ · under a glass dome · named by no source in this corpus*
 
 Taken under the glass dome of the Céleste dining room at Hyde Park Corner — the brightest of the grand-hotel rooms.
 
 ### Corinthia London, Westminster
 
-*££££ · a tea master*
+*££££ · a tea master · Cited by 2 sources*
 
 Under a Baccarat crystal chandelier with a Steinway playing, and a tea master who weighs and blends each pot.
 
 ### Mandarin Oriental Hyde Park, Knightsbridge
 
-*££££ · a garden view*
+*££££ · a garden view · Cited by 3 sources*
 
 The Rosebery lounge backs onto Hyde Park — the one grand tea with a park view rather than a room view.
 
@@ -144,7 +146,7 @@ The Rosebery lounge backs onto Hyde Park — the one grand tea with a park view 
 
 ### Brown's Hotel, Mayfair
 
-*££££ · 4 min from Green Park*
+*££££ · 4 min from Green Park · Cited by 1 source*
 
 The **intimate, club-like** option — panelled and low-ceilinged where The Dorchester is a long bright promenade. The one to pick if the grand hotels feel like too much room.
 
@@ -154,13 +156,13 @@ The **intimate, club-like** option — panelled and low-ceilinged where The Dorc
 
 ### Rosewood London, Bloomsbury
 
-*££££ · 4 min from Holborn*
+*££££ · 4 min from Holborn · Cited by 3 sources*
 
 Taken in the **Mirror Room** of a Belle Époque building off High Holborn — the grand-hotel format, well outside the Mayfair cluster and easier to book because of it.
 
 ### Jumeirah Carlton Tower, Knightsbridge
 
-*££££ · 7 min from Knightsbridge*
+*££££ · 7 min from Knightsbridge · named by no source in this corpus*
 
 The **Chinoiserie tea room serves all afternoon rather than in fixed sittings**, which makes it one of the easier Knightsbridge teas to get into at short notice — genuinely useful if you have not booked weeks ahead.
 
@@ -170,7 +172,7 @@ The **Chinoiserie tea room serves all afternoon rather than in fixed sittings**,
 
 ### Winter Garden, Marylebone
 
-*££££ · The Landmark London, 222 Marylebone Road*
+*££££ · The Landmark London, 222 Marylebone Road · named by no source in this corpus*
 
 Afternoon tea taken on the floor of an **eight-storey glass atrium among full-grown palm trees**, with a pianist and a harpist playing. The most theatrical tea room in London that is not a palace, and the one that photographs best by a distance.
 
@@ -178,13 +180,13 @@ Afternoon tea taken on the floor of an **eight-storey glass atrium among full-gr
 
 ### The Berkeley, Knightsbridge
 
-*££££ · Prêt-à-Portea*
+*££££ · Prêt-à-Portea · named by no source in this corpus*
 
 Pastries modelled on the **current season's runway** — handbags, heels, a new collection each time the shows change. The most photographed tea in London and genuinely skilful.
 
 ### Sketch, Mayfair
 
-*££££ · the pink room*
+*££££ · the pink room · Cited by 2 sources*
 
 Afternoon tea **inside an art installation**. The pink Gallery room and the egg-shaped lavatories are as photographed as the food.
 
@@ -198,31 +200,31 @@ Afternoon tea **inside an art installation**. The pink Gallery room and the egg-
 
 ### The Wolseley, Piccadilly
 
-*£££ · 3 min from Green Park*
+*£££ · 3 min from Green Park · Cited by 5 sources*
 
 A 1920s car showroom turned Viennese-style grand café. The London power breakfast, and one of the best-value teas in the centre.
 
 ### The Connaught, Mayfair
 
-*£££ · 8 min from Bond Street*
+*£££ · 8 min from Bond Street · Cited by 1 source*
 
 Understated where the rest of Mayfair is gilded — precision and craft rather than spectacle, and cheaper for it.
 
 ### The Stafford, Piccadilly
 
-*£££ · a St James's cul-de-sac*
+*£££ · a St James's cul-de-sac · named by no source in this corpus*
 
 Down a cul-de-sac with 380-year-old wine cellars beneath, and far fewer tourists than the Piccadilly names a two-minute walk away.
 
 ### The Goring, Belgravia
 
-*££££ · 2 min from Victoria*
+*££££ · 2 min from Victoria · Cited by 2 sources*
 
 The last family-owned grand hotel in London, and the quietest of the big teas — taken in the garden room.
 
 ### The Milestone, Kensington
 
-*£££ · opposite Kensington Palace*
+*£££ · opposite Kensington Palace · named by no source in this corpus*
 
 A small townhouse hotel and the quietest listed tea here.
 
@@ -232,13 +234,13 @@ A small townhouse hotel and the quietest listed tea here.
 
 ### One Aldwych, Covent Garden
 
-*£££ · 5 min from Temple*
+*£££ · 5 min from Temple · named by no source in this corpus*
 
 A themed tea built around **Charlie and the Chocolate Factory** — the one that works with children who would be bored anywhere else.
 
 ### The Ampersand, South Kensington
 
-*£££ · 1 min from South Kensington*
+*£££ · 1 min from South Kensington · named by no source in this corpus*
 
 Themed around the museums on its doorstep: planets, fossils and periodic-table biscuits. Sensible if you are doing the Science Museum the same day.
 

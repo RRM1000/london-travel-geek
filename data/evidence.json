@@ -9228,14 +9228,14 @@
       "general",
       "london-with-children"
     ],
-    "sourceCount": 7,
-    "tierSpread": "A1 B4 C2",
+    "sourceCount": 8,
+    "tierSpread": "A1 B5 C2",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
+        "sourceCount": 4,
+        "tierSpread": "B4",
         "tierCount": 1,
         "hasAward": false
       },
@@ -9285,6 +9285,12 @@
         "source": "Time Out",
         "url": "https://timeout.com/london/restaurants/afternoon-tea-in-london",
         "quote": "#2 in Time Out's ranking. A London icon and the ideal choice for a super special occasion. Why we love it: The Ritz is, quite literally, a byword for luxury, so you know you're in for a treat with afternoon tea in the hotel's Palm Court, wh"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "The Ritz is a five-star hotel that oozes luxury and is just a stone's throw away from Green Park. Their excellent afternoon tea is served in The Palm Court."
       },
       {
         "tier": "B",
@@ -9427,14 +9433,14 @@
       "british",
       "seafood"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B5",
+    "sourceCount": 6,
+    "tierSpread": "B6",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
+        "sourceCount": 3,
+        "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
       },
@@ -9462,6 +9468,12 @@
         "source": "Time Out",
         "url": "https://timeout.com/london/restaurants/afternoon-tea-in-london",
         "quote": "#9 in Time Out's ranking. An artsy tea inspired by Monet and the Impressionist movement. Why we love it: This whimsical tea is based on the dreamy vibe of Impressionism, and takes place in the glammy Mirror Room of the Rosewood London hotel"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "The afternoon tea at the Rosewood in Holborn includes cakes inspired by different artists."
       },
       {
         "tier": "B",
@@ -9683,14 +9695,14 @@
       "afternoon-tea",
       "british"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       },
@@ -9706,6 +9718,12 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/guides/best-afternoon-tea-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "The excellent afternoon tea at Corinthia London in Westminster is held in a gorgeous chandelier-centred room, the Crystal Moon Lounge, that's absolutely worth booking for a special occasion."
       },
       {
         "tier": "B",
@@ -9726,14 +9744,14 @@
       "breakfast-brunch",
       "british"
     ],
-    "sourceCount": 9,
-    "tierSpread": "B5 C4",
+    "sourceCount": 10,
+    "tierSpread": "B6 C4",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 4,
-        "tierSpread": "B2 C2",
+        "sourceCount": 5,
+        "tierSpread": "B3 C2",
         "tierCount": 2,
         "hasAward": false
       },
@@ -9761,6 +9779,12 @@
         "source": "Time Out",
         "url": "https://timeout.com/london/restaurants/afternoon-tea-in-london",
         "quote": "#4 in Time Out's ranking. A showy tea in a lavish space. Why we love it: A self-proclaimed 'caf -restaurant in the grand European tradition', the Wolseley combines London heritage and Viennese grandeur."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "Nowadays The Wolseley, a grand, European restaurant in Piccadilly, has lost its shine, although out-of-towners who love to pose with phone boxes will probably enjoy it."
       },
       {
         "tier": "B",
@@ -9805,14 +9829,14 @@
       "afternoon-tea",
       "british"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B3 C1",
+    "sourceCount": 5,
+    "tierSpread": "B4 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
+        "sourceCount": 3,
+        "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
       },
@@ -9833,6 +9857,12 @@
         "tier": "B",
         "source": "LuxLife",
         "url": "https://luxlifelondon.com/best-afternoon-teas-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "The Rosebery at Mandarin Oriental Hyde Park is an elegant room inside one of London's most expensive Knightsbridge hotels, and serves an excellent afternoon tea."
       },
       {
         "tier": "B",
@@ -10212,14 +10242,14 @@
       "afternoon-tea",
       "british"
     ],
-    "sourceCount": 7,
-    "tierSpread": "B5 C2",
+    "sourceCount": 8,
+    "tierSpread": "B6 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
         "tierCount": 2,
         "hasAward": false
       },
@@ -10241,6 +10271,12 @@
         "source": "Time Out",
         "url": "https://timeout.com/london/restaurants/afternoon-tea-in-london",
         "quote": "#15 in Time Out's ranking. The home of high tea. Why we love it: High tea originated at the Langham in 1865, so this is a historic one to tick off your list."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "If you've been around the afternoon tea block, Palm Court at The Langham in Marylebone is the best place to have a relaxed one in London."
       },
       {
         "tier": "B",
@@ -10300,14 +10336,14 @@
       "afternoon-tea",
       "british"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B3 C1",
+    "sourceCount": 5,
+    "tierSpread": "B4 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       },
@@ -10323,6 +10359,12 @@
         "tier": "B",
         "source": "LuxLife",
         "url": "https://luxlifelondon.com/best-afternoon-teas-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "Close to Victoria station, The Goring is an upmarket British hotel that's a good bet for afternoon tea, whether in The Dining Room or The Veranda."
       },
       {
         "tier": "B",
@@ -10347,14 +10389,14 @@
       "afternoon-tea",
       "british"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B5",
+    "sourceCount": 6,
+    "tierSpread": "B6",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
+        "sourceCount": 3,
+        "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
       },
@@ -10376,6 +10418,12 @@
         "source": "Time Out",
         "url": "https://timeout.com/london/restaurants/afternoon-tea-in-london",
         "quote": "#14 in Time Out's ranking. The quintessential British luxury afternoon tea. Why we love it: At the Savoy, afternoon tea has been a tradition since 1889."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "Afternoon tea is served in the Gallery room at Strand hotel The Savoy, and it's pretty great."
       },
       {
         "tier": "B",
@@ -10424,14 +10472,14 @@
     "topics": [
       "afternoon-tea"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -10441,6 +10489,12 @@
         "tier": "B",
         "source": "LuxLife",
         "url": "https://luxlifelondon.com/best-afternoon-teas-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "We were initially sceptical of the Alice In Wonderland-themed Mad Hatter's Afternoon Tea at the Sanderson London in Fitzrovia, but it's actually pretty fun."
       }
     ]
   },
@@ -10550,19 +10604,19 @@
       }
     ]
   },
-  "zetterbloomsbury": {
-    "name": "Zetter Bloomsbury",
+  "zetter": {
+    "name": "The Zetter",
     "topics": [
       "afternoon-tea"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -10573,6 +10627,12 @@
         "source": "Time Out",
         "url": "https://timeout.com/london/restaurants/afternoon-tea-in-london",
         "quote": "#13 in Time Out's ranking. A cute afternoon tea at the new Zetter hotel in Bloomsbury, right next door to the British Museum. Why we love it: One of the hotel's loveliest spaces is The Orangery, and this is where breakfast and afternoon tea"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "The Zetter is a rustic townhouse hotel in Marylebone serving one of our favourite afternoon tea experiences in London."
       }
     ]
   },
@@ -10607,14 +10667,14 @@
     "topics": [
       "afternoon-tea"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -10625,6 +10685,12 @@
         "source": "Time Out",
         "url": "https://timeout.com/london/restaurants/afternoon-tea-in-london",
         "quote": "#17 in Time Out's ranking. A super glam tea. Why we love it: The Grill Room is a sensational space, Grade II listed and gilded to the hilt."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "The afternoon tea at The Grill Room at Hotel Café Royal, by Piccadilly Circus, is the most opulent-looking in London."
       }
     ]
   },
@@ -11260,6 +11326,239 @@
         "tier": "C",
         "source": "Travels with Louise",
         "url": "https://travelswithlouise.com/london/best-affordable-afternoon-tea-in-london/"
+      }
+    ]
+  },
+  "warrenhousehotel": {
+    "name": "Warren House Hotel",
+    "topics": [
+      "afternoon-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "The garden set-up is what makes afternoon tea at Warren House Hotel in Kingston so special."
+      }
+    ]
+  },
+  "royallancasterlondon": {
+    "name": "Royal Lancaster London",
+    "topics": [
+      "afternoon-tea",
+      "british"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "The afternoon tea at Royal Lancaster London in Paddington is slow, relaxed, and pleasantly good."
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/"
+      }
+    ]
+  },
+  "connaught": {
+    "name": "The Connaught",
+    "topics": [
+      "afternoon-tea",
+      "british"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "The Connaught is a five-star hotel in Mayfair, with an afternoon tea that doesn't take itself too seriously."
+      },
+      {
+        "tier": "B",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
+      },
+      {
+        "tier": "B",
+        "source": "Fact London",
+        "url": "https://www.factlondon.com/food-london-united-kingdom/16-amazing-afternoon-teas-in-london"
+      }
+    ]
+  },
+  "brownshotel": {
+    "name": "Brown's Hotel",
+    "topics": [
+      "afternoon-tea",
+      "british"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "The Drawing Room at Brown's Hotel is an excellent place to get afternoon tea in Mayfair."
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/"
+      },
+      {
+        "tier": "B",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
+      },
+      {
+        "tier": "C",
+        "source": "A Lady in London",
+        "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
+      }
+    ]
+  },
+  "lanesboroughgrillatthelanesborough": {
+    "name": "The Lanesborough Grill at The Lanesborough",
+    "topics": [
+      "afternoon-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "Afternoon tea in Knightsbridge's Lanesborough hotel is a special occasion experience."
+      }
+    ]
+  },
+  "promenadeatthedorchester": {
+    "name": "The Promenade at The Dorchester",
+    "topics": [
+      "afternoon-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "Afternoon tea at The Dorchester on Park Lane is a seriously fancy affair that's worth it for a special occasion."
+      }
+    ]
+  },
+  "foyerandreadingroomatclaridges": {
+    "name": "The Foyer & Reading Room at Claridge's",
+    "topics": [
+      "afternoon-tea"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "afternoon-tea": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+        "quote": "Claridge's is a five-star hotel in the heart of Mayfair that serves one of the very best afternoon teas in London in The Foyer & Reading Room."
       }
     ]
   },
@@ -18315,14 +18614,21 @@
   "megans": {
     "name": "Megan’s",
     "topics": [
-      "breakfast-brunch"
+      "breakfast-brunch",
+      "turkish"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "turkish": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -18334,6 +18640,12 @@
         "tier": "B",
         "source": "LuxLife",
         "url": "https://luxlifelondon.com/best-breakfast-spots-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "King's Road. Don't let the western name fool you - Megan's executive head chef Sercan Uğurlu has helped create a menu that's undeniably Turkish. If you stop by any of the branches of this cafe chai"
       }
     ]
   },
@@ -31141,41 +31453,6 @@
       }
     ]
   },
-  "brownshotel": {
-    "name": "Brown’s Hotel",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/"
-      },
-      {
-        "tier": "B",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
-      },
-      {
-        "tier": "C",
-        "source": "A Lady in London",
-        "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
-      }
-    ]
-  },
   "dorchester": {
     "name": "The Dorchester",
     "topics": [
@@ -38227,7 +38504,8 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
+        "quote": "Mangal II is a classic Turkish restaurant that's doing things a bit differently. With superb grilled meats, sourdough pide, natural wines, and more."
       },
       {
         "tier": "B",
@@ -40527,31 +40805,6 @@
       }
     ]
   },
-  "royallancasterlondon": {
-    "name": "Royal Lancaster London",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/"
-      }
-    ]
-  },
   "guardsman": {
     "name": "The Guardsman",
     "topics": [
@@ -42269,36 +42522,6 @@
   },
   "berkeley": {
     "name": "The Berkeley",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
-      },
-      {
-        "tier": "B",
-        "source": "Fact London",
-        "url": "https://www.factlondon.com/food-london-united-kingdom/16-amazing-afternoon-teas-in-london"
-      }
-    ]
-  },
-  "connaught": {
-    "name": "The Connaught",
     "topics": [
       "british"
     ],
@@ -62512,7 +62735,7 @@
     ]
   },
   "dustyknuckle": {
-    "name": "The Dusty Knuckle",
+    "name": "Dusty Knuckle",
     "topics": [
       "dessert"
     ],
@@ -102867,7 +103090,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Green Lanes. G ky z has remained a crowd-pleaser for lovers of Turkish food since it was established in 1999. Expect generous portions of classic, hearty dishes like ali nazik (lam"
       },
       {
         "tier": "C",
@@ -132650,7 +132874,8 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
+        "quote": "Get a sizzling mixed grill and load up fantastic free bread and salad at Enfes Ocakbaşı, a Turkish spot on Green Lanes."
       },
       {
         "tier": "B",
@@ -132680,12 +132905,14 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
+        "quote": "Come to Kofteci Metin, a Turkish kofte specialist on Harringay's Green Lanes, for a meal of expertly grilled meatballs and deliciously dressed salads."
       },
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Green Lanes. K fteci Metin, which translates to 'meatball-maker Metin' as a nod to the owner's storied reputation, specialises in some of the finest Turkish meatballs you will ever eat. It's so popular that"
       }
     ]
   },
@@ -132710,7 +132937,8 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
+        "quote": "A legendary institution just off the Dalston strip, Mangal 1 is a BYOB Turkish spot with an always-lively atmosphere."
       },
       {
         "tier": "C",
@@ -132740,7 +132968,8 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
+        "quote": "Umut 2000 is a classic ocakbasi restaurant just off of the Kingsland Road. Come for the grilled meat and lamb ribs. Stay for the excellent staff."
       },
       {
         "tier": "C",
@@ -132770,12 +132999,14 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
+        "quote": "Antepliler Doner is a restaurant and takeaway spot in Harringay specialising in tender and juicy homemade döner kebabs that are often drenched in butter."
       },
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Green Lanes. Antepliler is another Green Lanes mainstay, and is synonymous with Turkish cuisine in the capital. It started as a bakery in 1993, with owner Ahmet st ns rmeli bringing the art of authe"
       },
       {
         "tier": "B",
@@ -132850,7 +133081,8 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
+        "quote": "Go to Ustun Lahmacun & Pide Salonu by Newington Green for a freshly made, crispy lahmacun and a quiet sit-down."
       },
       {
         "tier": "C",
@@ -132880,12 +133112,14 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
+        "quote": "The Mantl serves good Turkish dishes like manti, adana, and sarma beyti in Knightsbridge."
       },
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Knightsbridge. Themed around families gathering around the welcoming warmth of a fireplace and mantlepiece, The Mantl glows with amber-hued light pouring from glass lamps. The Knightsbridge hotspot is an example of how T"
       }
     ]
   },
@@ -132910,7 +133144,8 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
+        "quote": "A modern Turkish spot in Notting Hill, The Counter is making fun food in a moody dining room."
       },
       {
         "tier": "C",
@@ -132950,12 +133185,14 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
+        "quote": "FM Mangal is a casual Turkish restaurant in Camberwell serving up tasty kofte and bread you'll devour multiple bowls of."
       },
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Camberwell. This longstanding Camberwell favourite is famous across the city for the most simple of dishes; bread. But FM Mangal ' s bread isn't any old bread, it ' s bread that ' s been sat underneath the grill, soaking"
       },
       {
         "tier": "C",
@@ -132985,7 +133222,8 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
+        "quote": "Güneş Restaurant is an Anatolian and Mediterranean spot in Walthamstow that does unthinkably delicious things with meat."
       }
     ]
   },
@@ -133040,12 +133278,14 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
+        "quote": "Turkish spot Ishtar in Marylebone is great for meals that fall on the more casual end of the special occasion spectrum."
       },
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Marylebone. Ishtar, named after the ancient Sumero-Babylonian goddess of fertility, love, and light, can be found in the heart of Marylebone. While the entrance level, accented with emerald and burgundy"
       }
     ]
   },
@@ -133157,7 +133397,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Soho. A Michelin Guide-approved affair, this Istanbulite eatery was established by chef Esra Muslu, who made a name for herself at Ottolenghi Spitalfields and Istanbul's Soho House. As a reflection of t"
       },
       {
         "tier": "B",
@@ -133197,7 +133438,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Marylebone. Yamabah e sits between Marylebone and Mayfair and, despite its premium location, this lionheart of a restaurant serves divine dishes for affordable prices. Owner Alan Yau - the restaurateur who"
       },
       {
         "tier": "C",
@@ -133227,7 +133469,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Hoxton. Yağız Karagözcük D kkan isn't your traditional Turkish restaurant. Based in Hoxton, it's only open certain days of the month, throwing its doors open for supper clubs and pop-up dinner experiences headed up by esteemed Tur"
       },
       {
         "tier": "C",
@@ -133257,7 +133500,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Green Lanes. Lanes superstar Hala is an undeniable leader when it comes to Turkish restaurants in London. The family-run spot has stood the test of time since opening in 2002, with mouth-watering recipes and ou"
       },
       {
         "tier": "C",
@@ -133293,7 +133537,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "City of London. Chic and contemporary, Haz is perfect for date nights and celebration meals. It's so pretty that the Plantation Place branch's redesign bagged a Restaurant Bar Design Award a"
       }
     ]
   },
@@ -133318,7 +133563,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Soho. An independent Soho restaurant with a well-deserved mention in the Michelin Guide, Yeni offers modern sharing plates cooked over an open fire, elevating Turkish recipes and cooking techniques to"
       },
       {
         "tier": "C",
@@ -133358,7 +133604,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Ladbroke Grove. A relaxed, cafe-style spot with branches in Mayfair and Ladbroke Grove, Fez Mangal is home to proudly displayed clay ovens, where most dishes are cooked. While the chefs here"
       }
     ]
   },
@@ -133383,7 +133630,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Bayswater. When you're walking up to Notting Hill's Lokkanta, the first thing you'll notice is the intricate wall art depicting Adile Naşit, one of T rkiye's most beloved actors. Inside, you'll be welcomed by more iconic faces, inclu"
       }
     ]
   },
@@ -133408,7 +133656,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Wembley Park. Located right by Wembley Park station, this friendly Turkish spot is ideal for a pre-concert or pre-match feast. In keeping with Turkish tradition, every customer is welcomed with complimentary starters, like a zesty salad, some"
       }
     ]
   },
@@ -133433,7 +133682,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Chinatown. This cool, contemporary eatery opened in Soho in 2017, and taps into the flavours of the Aegean region, which covers the west coast of Turkey and the east coast of Greece. Expect western"
       }
     ]
   },
@@ -133458,7 +133708,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Fitzrovia. Named after the ancient goddess of fertility and spring, expect beautiful plating practices, atmospheric design, and attentive service at Kibele. While the Great Portland Street restaurant's menu is h"
       },
       {
         "tier": "C",

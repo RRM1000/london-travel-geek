@@ -148,6 +148,53 @@
         "The Cutty Sark",
         "English Rose Cafe"
       ]
+    },
+    {
+      "name": "The Infatuation (afternoon tea)",
+      "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
+      "names": [
+        "Warren House Hotel",
+        "The Wolseley",
+        "Hyde Café at Royal Lancaster London",
+        "The Zetter Marylebone",
+        "Jean-Georges at The Connaught",
+        "Sanderson London",
+        "Crystal Moon Lounge at Corinthia London",
+        "Mirror Room at Rosewood London",
+        "The Drawing Room at Brown's Hotel",
+        "The Diamond Jubilee Tea Salon at Fortnum & Mason",
+        "The Veranda At The Goring",
+        "The Rosebery at Mandarin Oriental Hyde Park",
+        "The Grill Room at Hotel Café Royal",
+        "Palm Court at The Langham",
+        "Gallery at The Savoy",
+        "The Lanesborough Grill at The Lanesborough",
+        "The Promenade at The Dorchester",
+        "The Palm Court at The Ritz",
+        "The Foyer & Reading Room at Claridge's"
+      ],
+      "quotes": {
+        "Warren House Hotel": "The garden set-up is what makes afternoon tea at Warren House Hotel in Kingston so special.",
+        "The Wolseley": "Nowadays The Wolseley, a grand, European restaurant in Piccadilly, has lost its shine, although out-of-towners who love to pose with phone boxes will probably enjoy it.",
+        "Hyde Café at Royal Lancaster London": "The afternoon tea at Royal Lancaster London in Paddington is slow, relaxed, and pleasantly good.",
+        "The Zetter Marylebone": "The Zetter is a rustic townhouse hotel in Marylebone serving one of our favourite afternoon tea experiences in London.",
+        "Jean-Georges at The Connaught": "The Connaught is a five-star hotel in Mayfair, with an afternoon tea that doesn't take itself too seriously.",
+        "Sanderson London": "We were initially sceptical of the Alice In Wonderland-themed Mad Hatter's Afternoon Tea at the Sanderson London in Fitzrovia, but it's actually pretty fun.",
+        "Crystal Moon Lounge at Corinthia London": "The excellent afternoon tea at Corinthia London in Westminster is held in a gorgeous chandelier-centred room, the Crystal Moon Lounge, that's absolutely worth booking for a special occasion.",
+        "Mirror Room at Rosewood London": "The afternoon tea at the Rosewood in Holborn includes cakes inspired by different artists.",
+        "The Drawing Room at Brown's Hotel": "The Drawing Room at Brown's Hotel is an excellent place to get afternoon tea in Mayfair.",
+        "The Diamond Jubilee Tea Salon at Fortnum & Mason": "The Diamond Jubilee Tea Salon at Fortnum & Mason, along Piccadilly, hosts a classy afternoon tea.",
+        "The Veranda At The Goring": "Close to Victoria station, The Goring is an upmarket British hotel that's a good bet for afternoon tea, whether in The Dining Room or The Veranda.",
+        "The Rosebery at Mandarin Oriental Hyde Park": "The Rosebery at Mandarin Oriental Hyde Park is an elegant room inside one of London's most expensive Knightsbridge hotels, and serves an excellent afternoon tea.",
+        "The Grill Room at Hotel Café Royal": "The afternoon tea at The Grill Room at Hotel Café Royal, by Piccadilly Circus, is the most opulent-looking in London.",
+        "Palm Court at The Langham": "If you've been around the afternoon tea block, Palm Court at The Langham in Marylebone is the best place to have a relaxed one in London.",
+        "Gallery at The Savoy": "Afternoon tea is served in the Gallery room at Strand hotel The Savoy, and it's pretty great.",
+        "The Lanesborough Grill at The Lanesborough": "Afternoon tea in Knightsbridge's Lanesborough hotel is a special occasion experience.",
+        "The Promenade at The Dorchester": "Afternoon tea at The Dorchester on Park Lane is a seriously fancy affair that's worth it for a special occasion.",
+        "The Palm Court at The Ritz": "The Ritz is a five-star hotel that oozes luxury and is just a stone's throw away from Green Park. Their excellent afternoon tea is served in The Palm Court.",
+        "The Foyer & Reading Room at Claridge's": "Claridge's is a five-star hotel in the heart of Mayfair that serves one of the very best afternoon teas in London in The Foyer & Reading Room."
+      },
+      "note": "Added 2026-08-30. The corpus had six publications for a topic with this much published coverage, and this is the only one of the seven that reviews rather than lists."
     }
   ]
 }

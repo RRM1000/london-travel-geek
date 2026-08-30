@@ -1,0 +1,65 @@
+{
+  "topic": "turkish",
+  "article": "src/content/articles/best-turkish-restaurants-london.md",
+  "headTerm": "Turkish Restaurants",
+  "status": "re-extracted and written 2026-08-30; no video tier; no community tier",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. This file records what is specific to Turkish: that the only tier-A source named no Turkish restaurant, and that the topic has a geography no ranking captures.",
+  "awardBodies": [
+    {
+      "name": "Harden's",
+      "domain": "hardens.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "THE ONLY INSPECTED SOURCE, AND IT CONTRIBUTED NOTHING ON THE FIRST PASS. hardens.com/restaurants/london/turkish/ is JS-rendered, so curl sees only the navigation - and the first pass recorded that navigation as 24 venues, every one of them tiered A. The topic's 18 tier-A citations were 'Harden's 100', 'Hot Newcomers', 'IOs / Android Apps', 'Corporate Gifts', '+ Over 3000 entries', and a 'you might also like' rail of City restaurants: Sweetings, Coq d'Argent, Brigadiers, Lutyens Grill, Cabotte, Cloth, Hispania, The Swan at the Globe. Not one is Turkish.",
+      "howToRead": "READ IT IN THE BROWSER, not with curl. The real results are the elements with class .search_listing.result. There are five listings covering three restaurants: Haz (two branches), Haz Mincing Lane and Leydi, plus Baraka. Harden's Turkish coverage is genuinely this thin, which is itself the finding."
+    }
+  ],
+  "editorialLists": [
+    { "name": "The Infatuation", "domain": "theinfatuation.com", "tier": "B", "ranked": false, "note": "The fullest source, 23 names with a verdict each in the page JSON-LD. Two street addresses and a byline are interposed as name fields and must be dropped." },
+    { "name": "Time Out", "domain": "timeout.com", "tier": "B", "ranked": false, "note": "19 names. It runs cuisine, area, a price meter and the photo credit into the copy with no separator, so a naive quote grab publishes 'Turkish Green Lanes price 2 of 4 Rob Greig' as if it were the verdict. The AREA in that run is worth keeping - Time Out is the only source that states where each restaurant is." },
+    { "name": "Secret London", "domain": "secretldn.com", "tier": "C", "ranked": false },
+    { "name": "Suitcase", "domain": "suitcasemag.com", "tier": "B", "ranked": false },
+    { "name": "Resy", "domain": "blog.resy.com", "tier": "C", "ranked": false, "note": "The longest list at 30 names, but its related-article titles were being captured as restaurants - 'How Charlie Sims and Honey Spencer Built Sune', '10 Superb London Tasting Menus Under GBP70'." },
+    { "name": "TB Mag", "domain": "tbmag.co.uk", "tier": "C", "ranked": false, "note": "Turkish-British community magazine. Its captured names included the literal JavaScript fragment \"+message+\"." }
+  ],
+  "facetAxis": {
+    "note": "Turkish splits by GEOGRAPHY first and format second, which is unusual. Nine of the 27 restaurants named twice or more are on or just off Green Lanes; Dalston is the second cluster. No ranking captures that, and it is the single most useful thing to tell a reader.",
+    "axes": [
+      { "field": "area", "values": [
+        { "key": "green-lanes", "label": "Green Lanes and Harringay", "describeAs": "a mile of ocakbasi restaurants, most of them walk-in and open late" },
+        { "key": "newington-green", "label": "Newington Green and Stoke Newington" },
+        { "key": "dalston", "label": "Dalston and Kingsland Road" },
+        { "key": "central", "label": "Central and west", "describeAs": "the modern rooms - Soho, Marylebone, Notting Hill" }
+      ] },
+      { "field": "format", "values": [
+        { "key": "ocakbasi", "label": "Ocakbasi", "describeAs": "built around an open charcoal grill you can sit at" },
+        { "key": "specialist", "label": "Single-dish specialist", "describeAs": "tantuni, kofte, lahmacun, or soups and stews" },
+        { "key": "modern", "label": "Modern dining room" },
+        { "key": "patisserie", "label": "Patisserie", "describeAs": "kunefe and baklava rather than a meal" }
+      ] }
+    ]
+  },
+  "knownGaps": [
+    "NO AWARD EXISTS. No Michelin star, no annual category prize, nothing judged. Harden's lists three London restaurants under Turkish and that is the whole of the tier-A evidence. The article says so in its evidence block.",
+    "NO VIDEO TIER. Not collected. Worth a pass - Green Lanes is well covered by London food creators.",
+    "NO COMMUNITY TIER. Reddit is blocked to curl and to the browser pane.",
+    "Seven publications, where pizza has thirty-one. The corpus is small and the article should not be read as more than it is.",
+    "Only six of the 27 venues meeting the bar have a Restaurants v2 row, so there is no map."
+  ],
+  "currentState": {
+    "recorded": "2026-08-30",
+    "sourceRecords": 7,
+    "distinctDomains": 7,
+    "citations": 101,
+    "namesInCorpus": 56,
+    "twoPlusDomains": 27,
+    "tierAVenues": 3,
+    "articleExists": true,
+    "mapExists": false
+  },
+  "openVenueQuestions": [
+    "Mangal 1 and Mangal II are two separate Dalston restaurants, related by family and NOT merged. Recorded in data/name-aliases.json under deliberatelyNotAliased.",
+    "The '19 Numara Bos Cirrik' ocakbasi is written three ways across sources and has numbered siblings on the same stretch. Merged to one record; the numbered siblings are not distinguished and may be separate businesses.",
+    "21 of the 27 venues meeting the bar have no Restaurants v2 row, including Mangal II, The Counter, Yeni, Zahter and Haz."
+  ]
+}

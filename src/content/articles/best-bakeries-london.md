@@ -35,8 +35,10 @@ A pastry and a coffee is also **one of the cheapest good breakfasts in London**,
 
 > 💡 **The Short Version:** **Toad** in Camberwell has the queue everyone agrees is justified. **Eric's** in East Dulwich makes what several critics call the best croissant in London, and opens twice a week. **Arôme** does honey butter toast and miso bacon escargots. **E5 Bakehouse** is still the bakers' bakery. **Lisboa Patisserie** has been doing pastéis de nata on Golborne Road since 1984. And **Beigel Bake** on Brick Lane has never closed.
 
-> 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Bakeries sell out and change their range daily — go early and expect the list to be shorter than the website suggests.
+> 📊 **The evidence behind this guide**
+> Nothing here is ranked on one visit. This pass reads **7 sources carrying 103 citations** across **62 named bakeries** — the Good Food Guide's Britain's 50 Best Bakeries, the editorial mastheads (Time Out, The Infatuation) and four independent specialists. **16 bakeries are named by two or more independent sources; 10 carry a dated award.**
+> **The known weakness in this topic:** six publications, and one of them supplies every award. There is no Michelin for bread — the Good Food Guide's national list is the only judged, dated ranking, and ten London bakeries are on it. Everything else here rests on editorial and blogger agreement, and bakeries turn over faster than restaurants: seven of those ten London entries were new for 2026, so any list more than a year old is unreliable.
+> *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
 
@@ -76,7 +78,7 @@ Ten London bakeries made the Good Food Guide's fifty for 2026. Seven were new en
 
 ### Toad Bakery, Camberwell
 
-*The queue*
+*The queue · Cited by 4 sources · Good Food Guide 2026*
 
 **Long-fermented sourdough and the best pastry cream in the city**, from a small shop that has become a destination. The Saturday queue is a fixture and the people who join it write afterwards that it was worth it — which is not true of every queue on this list.
 
@@ -84,7 +86,7 @@ Almond croissants and yuzu orange cakes are the ones to look for. Less pleased w
 
 ### Eric's, East Dulwich
 
-*Open two days a week*
+*Open two days a week · Cited by 3 sources · Good Food Guide 2026*
 
 Called **arguably the best croissants in London** by the Good Food Guide, and the coffee custard morning bun is the other order.
 
@@ -92,7 +94,7 @@ Called **arguably the best croissants in London** by the Good Food Guide, and th
 
 ### Arôme Bakery, Covent Garden
 
-*French technique, East Asian flavours*
+*French technique, East Asian flavours · Cited by 2 sources · Good Food Guide 2026*
 
 **Honey butter toast** — caramelised shokupan, crisp outside and cloud-like inside — and a **miso bacon escargot** that has no business working as well as it does. The Croissant 1930 is the cult item.
 
@@ -100,7 +102,7 @@ The most central of the serious bakeries, and consequently the busiest.
 
 ### E5 Bakehouse, Hackney
 
-*Under the railway arches*
+*Under the railway arches · Cited by 3 sources · Good Food Guide 2026*
 
 The bakery that did as much as any to start London's sourdough habit, milling some of its own flour in the same arch. Croissants are made with **heritage flour and raw cultured butter**, which is why other bakers talk about it.
 
@@ -108,13 +110,13 @@ Baking courses run from the same building.
 
 ### August Bakery, Battersea
 
-*Opened late 2024*
+*Opened late 2024 · Cited by 3 sources · Good Food Guide 2026*
 
 Harry Robins and Florrie Beard's bakery, in the guide within two years of opening. **Miso sesame sourdough and kouign-amann**, and a general preference for substance over decoration.
 
 ### Don't Tell Dad, Queen's Park
 
-*Bakery and restaurant*
+*Bakery and restaurant · Cited by 1 source · Good Food Guide 2026*
 
 Head baker Keren Sternberg's **brown-butter maple challah doughnuts** and bergamot sfogliatella — the most distinctive sweet baking in north-west London, and a genuine bakery-restaurant rather than a counter with a couple of stools.
 
@@ -122,7 +124,7 @@ Queen's Park is not on most itineraries, which is part of why this is a pleasant
 
 ### Fred Bakery, Oxford Circus
 
-*Warm all day*
+*Warm all day · Cited by 1 source · Good Food Guide 2026*
 
 Parisian-style lamination in the middle of the West End, and — the detail that earns it a place — **cinnamon buns brought out warm throughout the day** rather than all at once at seven in the morning.
 
@@ -130,7 +132,7 @@ That makes it the single most useful bakery on this list for anyone actually sig
 
 ### Chatsworth Bakehouse, Crystal Palace
 
-*Savoury*
+*Savoury · Cited by 2 sources · Good Food Guide 2026*
 
 **Stacked focaccia sandwiches and pizza by the slice**, plus malted-milk maritozzi for anyone who wants the sweet end. The one on this list you go to for lunch rather than breakfast, and the best-value proper meal of the twenty-two.
 
@@ -138,13 +140,13 @@ Crystal Palace is a long way out. Pair it with the park and the Victorian dinosa
 
 ### Suba Bakery, Walthamstow
 
-*African and Asian influences*
+*African and Asian influences · Cited by 3 sources · Good Food Guide 2026*
 
 Croissants glazed with **mango syrup**, and a mango baobab danish — baobab being a fruit almost nothing in British baking uses. This is the clearest example of what has changed about London baking: the technique is French and nothing else is.
 
 ### Lucky Yu Bakery, Walthamstow
 
-*British-Cantonese*
+*British-Cantonese · Cited by 1 source · Good Food Guide 2026*
 
 **Pineapple buns and a sesame soy congee sourdough** — a bakery built around its owners' actual heritage rather than a borrowed one. The congee sourdough in particular is not a fusion gimmick; it is a loaf that tastes of what it is made from.
 
@@ -158,25 +160,25 @@ Not in this year's fifty, and still among the best-loved rooms in London.
 
 ### Pophams, Islington
 
-*Go early*
+*Go early · Cited by 4 sources*
 
 **Bacon and maple morning buns**, and lamination good enough to justify the wait. Also in Hackney and Victoria Park. Sells out.
 
 ### Jolene, Newington Green
 
-*Bakery and restaurant*
+*Bakery and restaurant · Cited by 2 sources*
 
 Mills its own flour, and the bread and pastry run out well before the day does.
 
 ### Dusty Knuckle, Dalston
 
-*A social enterprise*
+*A social enterprise · Cited by 1 source*
 
 Serious bread, and **sandwiches with fillings** — porchetta, salsa verde, purple sprouting broccoli — that are the actual order. Run as a **training programme for young people** facing barriers to employment.
 
 ### Little Bread Pedlar, Bermondsey
 
-*Wholesale and retail*
+*Wholesale and retail · named by no source in this corpus*
 
 Supplies a great many London restaurants, which is the strongest endorsement a bakery gets — chefs who could buy anything buy this. The retail counter is a fraction of the operation and easy to walk past.
 
@@ -184,7 +186,7 @@ Worth pairing with Maltby Street Market, five minutes away, rather than making t
 
 ### Fortitude Bakehouse, Bloomsbury
 
-*Small and excellent*
+*Small and excellent · Cited by 3 sources*
 
 A tiny room off Lamb's Conduit Street doing some of the best pastry in central London, and the most useful entry on this list for anyone spending a day at the British Museum — it is a few minutes away and nothing near the museum itself comes close.
 
@@ -192,7 +194,7 @@ Very small. At peak you will be standing.
 
 ### Tarn, Highgate
 
-*UK-grown grain*
+*UK-grown grain · Cited by 1 source*
 
 Sourdough made from **British-grown grains** rather than imported flour — a deliberate sourcing decision rather than a marketing one, and it shows in a heavier, more assertive loaf than the London default.
 
@@ -200,13 +202,27 @@ Croissants and pains au chocolat are straightforwardly excellent. The north Lond
 
 ### Sourdough Sophia, Crouch End
 
-*Cruffins*
+*Cruffins · Cited by 2 sources*
 
 Built its reputation on the **cruffin** — the croissant-muffin hybrid that most bakeries do badly — and is the reason people cross north London on a Saturday morning. Also does a serious sourdough, which the queue tends to ignore.
 
 ![The frontage of Sourdough Sophia bakery with pavement seating](../../assets/articles/best-bakeries-london/sourdough-sophia.jpg)
 
 *An Islington bakery doing long-fermented loaves and a very good cardamom bun. Photo: [Keith Page](https://commons.wikimedia.org/w/index.php?curid=196207114), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+---
+
+## Also well supported, and not above
+
+Five bakeries carried by three or more independent sources that this guide had no entry for. They are here because the evidence says so, not because we went looking for them.
+
+| Bakery | Where | Sources | What it is |
+| --- | --- | --- | --- |
+| **Forno** | Hackney | 3 | An Italian bakery where, in The Infatuation's phrase, everywhere you look there is something that demands to be eaten |
+| **Bunhead Bakery** | Herne Hill | 3 | Palestinian-inspired, and the advice from everyone who names it is the same: go early and get everything |
+| **Layla Bakery** | Ladbroke Grove | 3 | A corner neighbourhood bakery with a weekend queue |
+| **Kuro Bakery** | Notting Hill Gate | 2 | Tiny, with sourdough, cakes and a bread-and-butter pudding people order specifically |
+| **Common Breads** | Victoria | 2 | Lebanese, doing traditional bakes central London otherwise has none of |
 
 ---
 

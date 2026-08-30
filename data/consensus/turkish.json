@@ -29,8 +29,30 @@
         "Ishtar",
         "Yildiz Restaurant",
         "Firin",
-        "Emy's Kitchen"
-      ]
+        "Emy's Kitchen",
+        "The Best Turkish Kebab"
+      ],
+      "quotes": {
+        "Enfes Ocakbaşı": "Get a sizzling mixed grill and load up fantastic free bread and salad at Enfes Ocakbaşı, a Turkish spot on Green Lanes.",
+        "Mangal II": "Mangal II is a classic Turkish restaurant that's doing things a bit differently. With superb grilled meats, sourdough pide, natural wines, and more.",
+        "Durak Tantuni": "Durak Tantuni is an all-day and late-night tantuni house in Harringay serving unrivalled dürüm wraps.",
+        "Kofteci Metin": "Come to Kofteci Metin, a Turkish kofte specialist on Harringay's Green Lanes, for a meal of expertly grilled meatballs and deliciously dressed salads.",
+        "Mangal 1": "A legendary institution just off the Dalston strip, Mangal 1 is a BYOB Turkish spot with an always-lively atmosphere.",
+        "Umut 2000": "Umut 2000 is a classic ocakbasi restaurant just off of the Kingsland Road. Come for the grilled meat and lamb ribs. Stay for the excellent staff.",
+        "Diyarbakır Kitchen": "Diyarbakir Kitchen is a reliable all-round ocakbasi restaurant in Harringay, ideal for when you're in a big group, all hungry for perfectly grilled and spiced kofte.",
+        "Antepliler Doner": "Antepliler Doner is a restaurant and takeaway spot in Harringay specialising in tender and juicy homemade döner kebabs that are often drenched in butter.",
+        "Gökyüzü Restaurant": "Gökyüzü is an all-day, late-night Turkish spot in Harringay. It's a Green Lanes landmark and one of our favourite spots in London.",
+        "Haringey Corbacisi": "Haringey Corbacisi on Green Lanes is a no-menu restaurant that specialises in soups and stews, perfect for a solo pick-me-up or late-night sustenance.",
+        "Ustun Lahmacun & Pide Salonu": "Go to Ustun Lahmacun & Pide Salonu by Newington Green for a freshly made, crispy lahmacun and a quiet sit-down.",
+        "The Mantl": "The Mantl serves good Turkish dishes like manti, adana, and sarma beyti in Knightsbridge.",
+        "Antepliler Künefe & Patisserie": "Antepliler Künefe & Patisserie on Green Lanes serves some of London's best künefe in a warm and inviting dining room that's as perfect for a one-to-one as it is a late-night group dessert run.",
+        "The Counter": "A modern Turkish spot in Notting Hill, The Counter is making fun food in a moody dining room.",
+        "FM Mangal": "FM Mangal is a casual Turkish restaurant in Camberwell serving up tasty kofte and bread you'll devour multiple bowls of.",
+        "Güneş Restaurant": "Güneş Restaurant is an Anatolian and Mediterranean spot in Walthamstow that does unthinkably delicious things with meat.",
+        "The Best Turkish Kebab": "The Best Turkish Kebab is an excellent Stoke Newington spot for well-stuffed Turkish wraps and celeb-spotting on their wall of famous fans.",
+        "Ishtar": "Turkish spot Ishtar in Marylebone is great for meals that fall on the more casual end of the special occasion spectrum."
+      },
+      "note": "Verdicts recorded 2026-08-30 from the page JSON-LD. Two street addresses and a byline are interposed as name fields and were dropped."
     },
     {
       "name": "Time Out (Turkish)",
@@ -47,6 +69,7 @@
         "Antepliler",
         "Yeni",
         "Mangal 2",
+        "Megan's",
         "Fez Mangal",
         "Ishtar",
         "Lokkanta",
@@ -55,7 +78,29 @@
         "Hovarda",
         "Kibele Restaurant & Bar",
         "FM Mangal"
-      ]
+      ],
+      "quotes": {
+        "The Mantl": "Knightsbridge. Themed around families gathering around the welcoming warmth of a fireplace and mantlepiece, The Mantl glows with amber-hued light pouring from glass lamps. The Knightsbridge hotspot is an example of how T",
+        "Zahter": "Soho. A Michelin Guide-approved affair, this Istanbulite eatery was established by chef Esra Muslu, who made a name for herself at Ottolenghi Spitalfields and Istanbul's Soho House. As a reflection of t",
+        "Yamabahçe": "Marylebone. Yamabah e sits between Marylebone and Mayfair and, despite its premium location, this lionheart of a restaurant serves divine dishes for affordable prices. Owner Alan Yau - the restaurateur who",
+        "Köfteci Metin": "Green Lanes. K fteci Metin, which translates to 'meatball-maker Metin' as a nod to the owner's storied reputation, specialises in some of the finest Turkish meatballs you will ever eat. It's so popular that",
+        "Dükkan": "Hoxton. Yağız Karagözcük D kkan isn't your traditional Turkish restaurant. Based in Hoxton, it's only open certain days of the month, throwing its doors open for supper clubs and pop-up dinner experiences headed up by esteemed Tur",
+        "Hala": "Green Lanes. Lanes superstar Hala is an undeniable leader when it comes to Turkish restaurants in London. The family-run spot has stood the test of time since opening in 2002, with mouth-watering recipes and ou",
+        "Haz": "City of London. Chic and contemporary, Haz is perfect for date nights and celebration meals. It's so pretty that the Plantation Place branch's redesign bagged a Restaurant Bar Design Award a",
+        "Antepliler": "Green Lanes. Antepliler is another Green Lanes mainstay, and is synonymous with Turkish cuisine in the capital. It started as a bakery in 1993, with owner Ahmet st ns rmeli bringing the art of authe",
+        "Yeni": "Soho. An independent Soho restaurant with a well-deserved mention in the Michelin Guide, Yeni offers modern sharing plates cooked over an open fire, elevating Turkish recipes and cooking techniques to",
+        "Mangal 2": "Dalston. Out/Laura Gallant A refined yet endlessly satisfying dining experience in the heart of Dalston. Mangal II was given a menu makeover by Serta Dirik - son of original owner Ali - who put h",
+        "Megan's": "King's Road. Don't let the western name fool you - Megan's executive head chef Sercan Uğurlu has helped create a menu that's undeniably Turkish. If you stop by any of the branches of this cafe chai",
+        "Fez Mangal": "Ladbroke Grove. A relaxed, cafe-style spot with branches in Mayfair and Ladbroke Grove, Fez Mangal is home to proudly displayed clay ovens, where most dishes are cooked. While the chefs here",
+        "Ishtar": "Marylebone. Ishtar, named after the ancient Sumero-Babylonian goddess of fertility, love, and light, can be found in the heart of Marylebone. While the entrance level, accented with emerald and burgundy",
+        "Lokkanta": "Bayswater. When you're walking up to Notting Hill's Lokkanta, the first thing you'll notice is the intricate wall art depicting Adile Naşit, one of T rkiye's most beloved actors. Inside, you'll be welcomed by more iconic faces, inclu",
+        "Mezze Grill": "Wembley Park. Located right by Wembley Park station, this friendly Turkish spot is ideal for a pre-concert or pre-match feast. In keeping with Turkish tradition, every customer is welcomed with complimentary starters, like a zesty salad, some",
+        "Gökyüzü": "Green Lanes. G ky z has remained a crowd-pleaser for lovers of Turkish food since it was established in 1999. Expect generous portions of classic, hearty dishes like ali nazik (lam",
+        "Hovarda": "Chinatown. This cool, contemporary eatery opened in Soho in 2017, and taps into the flavours of the Aegean region, which covers the west coast of Turkey and the east coast of Greece. Expect western",
+        "Kibele Restaurant & Bar": "Fitzrovia. Named after the ancient goddess of fertility and spring, expect beautiful plating practices, atmospheric design, and attentive service at Kibele. While the Great Portland Street restaurant's menu is h",
+        "FM Mangal": "Camberwell. This longstanding Camberwell favourite is famous across the city for the most simple of dishes; bread. But FM Mangal ' s bread isn't any old bread, it ' s bread that ' s been sat underneath the grill, soaking"
+      },
+      "note": "Re-extracted 2026-08-30. Time Out runs cuisine, area, a price meter and the photo credit into the copy with no separator; the area is kept and the rest cut."
     },
     {
       "name": "Harden's (Turkish)",
