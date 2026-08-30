@@ -72,23 +72,27 @@ This one counts. Every shop below is placed by how many independent sources name
 
 Worth separating out, because nothing else in this guide has been judged by anyone.
 
-The **National Fish and Chip Awards** is the only national award for the category. It is run by the National Federation of Fish Friers, it is dated, and its Takeaway of the Year category runs a forty-shop shortlist down to twenty, then ten, then a winner announced each February. Two of the forty shops on the 2026 shortlist are in London — out of a city of nine million.
+The **National Fish and Chip Awards** is the only national award for the category. It is run by the National Federation of Fish Friers, it is dated, and its Takeaway of the Year category runs a forty-shop shortlist down to twenty, then ten, then a winner announced each February. Two of the forty shops on the 2026 shortlist are in London — and one of them made the final ten.
 
 ### Brockley's Rock, Brockley
 
-*££ · Brockley · Cited by 4 sources · National Fish and Chip Awards 2026 shortlist*
+*££ · Brockley Road, SE4 · Cited by 4 sources · National Fish and Chip Awards 2026 shortlist*
 
-Fourteen years on Brockley Road, on the site of a run-down Chinese takeaway it took over in 2011. Known locally for its homemade tartare sauce and for the schools, raffles and food banks it supports — which is part of what the award judges on, alongside the frying.
+**The only London chippy in the UK top ten.** The National Federation of Fish Friers named its ten Takeaway of the Year finalists in November 2025 and Brockley's Rock is the single London entry, against three from Yorkshire and two from Scotland.
 
-The best-supported London chippy that no masthead guide has got round to.
+On Brockley Road since 2011, on the site of a run-down Chinese takeaway. MSC-certified cod, a homemade tartare sauce it is known locally for, and the schools, raffles and food banks it supports — which the award judges on alongside the frying.
+
+No masthead guide has got round to it.
 
 ### Stones Fish and Chips, Acton
 
-*££ · Acton · Cited by 3 sources · National Fish and Chip Awards 2026 shortlist*
+*££ · Horn Lane, W3 · Cited by 3 sources · National Fish and Chip Awards 2026 shortlist*
 
-On Horn Lane in Acton since 2015, owned by a French-Algerian couple, Amine and Najett. Also named in Fry magazine's UK top 50 in 2024.
+On Horn Lane since 2015, owned by a French-Algerian couple, Amine and Najett. On the forty-shop shortlist, and a UK top-three finalist in two further categories — Marketing Initiative, and Training and Development — winning neither.
 
-> **The award publishes nothing.** There is no winners page on the awards site, no archive of past results, and the February 2026 ceremony has been and gone without a public record of who won. The shortlist above had to be read from a news report. That is a gap in the category, not in this guide.
+Currently serving **hake alongside cod** while cod stocks recover, which is a more interesting thing to order than the usual choice. Also named in Fry magazine's UK top 50 in 2024.
+
+> **The award publishes almost nothing.** There is no winners page on the awards site and no archive of past results — the forty-shop shortlist had to be read from a news report, and only the ten-shop final is on the federation's own site. The February 2026 ceremony has been and gone without a public record of who won. That is a gap in the category, not in this guide.
 
 ---
 
@@ -281,10 +285,10 @@ Everything else in the corpus carried by two or more independent sources.
 
 | Chippy | Where | Price | Sources | What it is |
 | --- | --- | --- | --- | --- |
-| **Oliver's Fish & Chips** | Belsize Park | ££ | 4 | Named by four sources and no ranked list — the best-supported chippy with no press profile at all |
-| **Fishcotheque** | Waterloo | £ | 3 | A Waterloo counter that two video channels went out of their way to film |
-| **Hobson's Fish & Chips** | Central | ££ | 2 | Carried by two written guides |
-| **Seventeen** | West London | ££ | 2 | Carried by two written guides |
+| **Oliver's Fish & Chips** | Belsize Park | ££ | 4 | Haverstock Hill, frying in pure rapeseed oil with no animal fats; the best-supported chippy on no ranked list at all |
+| **Fishcotheque** | Waterloo | ££ | 3 | On Waterloo Road, trading since 1972, and the one counter here two video channels went out of their way to film |
+| **Hobson's Fish & Chips** | Bayswater, Soho and Villiers Street | ££ | 2 | Three branches; the family ran Oliver's in Belsize Park before taking on the Bayswater site |
+| **Seventeen** | Balham | ££ | 2 | A modern chippy on Chestnut Grove — lighter frying, carefully sourced fish. Only one source gives its street and it has no website, so check before travelling |
 | **Shoreditch Fish and Chips** | Shoreditch | ££ | 1 | A 1960s-styled shop near Brick Lane doing the traditional version straight, sauces thrown in rather than charged for |
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="London Food Tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tasting tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>

@@ -148,7 +148,7 @@
       "note": "Footer links (Gigs, Explore, Company, Cookie Preferences) were recorded as venues on the first pass and removed 2026-08-30."
     },
     {
-      "name": "National Fish and Chip Awards 2026 - Takeaway of the Year Top 40",
+      "name": "National Fish and Chip Awards 2026 - Takeaway of the Year",
       "url": "https://thefishandchipawards.com/",
       "scope": "fish-and-chips",
       "names": [
@@ -156,10 +156,10 @@
         "Stones Fish and Chips"
       ],
       "quotes": {
-        "Brockley's Rock": "One of two London shops on the National Fish and Chip Awards 2026 Takeaway of the Year 40-shop shortlist. Trading since 2011, on the site of a former Chinese takeaway.",
-        "Stones Fish and Chips": "One of two London shops on the National Fish and Chip Awards 2026 Takeaway of the Year 40-shop shortlist. Opened 2015 on Horn Lane in Acton; also named in Fry magazine's UK top 50 in 2024."
+        "Brockley's Rock": "One of the TEN UK finalists for Takeaway of the Year 2026, and the only London shop in that top ten - announced by the National Federation of Fish Friers on 13 November 2025. Trading on Brockley Road since 2011, on the site of a former Chinese takeaway. Cod is MSC-certified.",
+        "Stones Fish and Chips": "One of two London shops on the 40-shop Takeaway of the Year 2026 shortlist, and a UK top-three finalist in two further categories - Marketing Initiative, and Training and Development - winning neither. On Horn Lane in Acton since 2015, owned by Amine and Najett. Serving hake alongside cod while cod stocks recover."
       },
-      "note": "ATTRIBUTION: the award is the originator, so it is filed under thefishandchipawards.com and not under the Time Out news article that reported it - filing it under Time Out would collapse a national award into a masthead that already counts here. The awards body publishes no results page (its site carries entry information and 2023 shortlists only), so the 2026 shortlist was read from Time Out's report of 9 March 2025. Flagged in data/topics/fish-and-chips.json."
+      "note": "ATTRIBUTION: the award is the originator, so it is filed here and not under the outlets that reported it. The awards' own site (thefishandchipawards.com) publishes entry information and 2023 shortlists only - no results page. The 40-shop shortlist was read from Time Out's report of 9 March 2025; the TEN-shop final was confirmed from the National Federation of Fish Friers directly at nfff.co.uk/let-the-batter-commence/, 13 November 2025. The February 2026 ceremony has happened and no public record of the winner was findable on either site."
     },
     {
       "name": "Mark Wiens (YouTube)",

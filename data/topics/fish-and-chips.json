@@ -11,9 +11,9 @@
       "tier": "A",
       "cadence": "annual",
       "note": "Run by the National Federation of Fish Friers. Judged, dated, ceremony each February. 14 categories; Takeaway of the Year runs Top 40 -> Top 20 -> Top 10 -> winner.",
-      "readTheResultsElsewhere": "THE AWARDS BODY PUBLISHES NO RESULTS PAGE. Its site carries entry information, category descriptions and a scatter of 2023 shortlist posts; there is no winners page, no /past-winners, and nothing in the sitemap for 2026. The 2026 Takeaway of the Year Top 40 had to be read from Time Out's report of it. ATTRIBUTE TO THE AWARD ANYWAY - filing a national award under timeout.com collapses it into a masthead that already counts here through its own ranked guide.",
-      "londonEntries2026": "Two, out of forty: Brockley's Rock (Brockley) and Stones Fish and Chips (Acton).",
-      "openQuestion": "The February 2026 ceremony has happened and the winner is not on the awards site. Worth one more look before the next refresh."
+      "readTheResultsElsewhere": "THE AWARDS BODY PUBLISHES NO RESULTS PAGE. thefishandchipawards.com carries entry information, category descriptions and a scatter of 2023 shortlist posts; there is no winners page and nothing in its sitemap for 2026. But the PARENT federation does publish some of it: nfff.co.uk/let-the-batter-commence/ (13 Nov 2025) names the ten Takeaway of the Year finalists. So the 40-shop shortlist comes from Time Out's report and the 10-shop final from the federation itself. ATTRIBUTE BOTH TO THE AWARD - filing a national award under timeout.com collapses it into a masthead that already counts here.",
+      "londonEntries2026": "Two of forty on the shortlist: Brockley's Rock (Brockley) and Stones Fish and Chips (Acton). Only Brockley's Rock made the final ten, and it is the only London shop in it. Stones was also a UK top-three finalist in Marketing Initiative and in Training and Development, winning neither.",
+      "openQuestion": "The February 2026 ceremony has happened and the Takeaway of the Year winner is on neither site. Checked both sitemaps on 2026-08-30. Worth one more look next refresh."
     },
     {
       "name": "Fry magazine UK top 50",
@@ -38,8 +38,18 @@
       "ranked": false,
       "note": "Six of its twenty captured names were section headings and footer links ('Top Eats', 'Topics', 'Other Absolutely Titles')."
     },
-    { "name": "DesignMyNight", "domain": "designmynight.com", "tier": "B", "ranked": false },
-    { "name": "Cozymeal", "domain": "cozymeal.com", "tier": "C", "ranked": false },
+    {
+      "name": "DesignMyNight",
+      "domain": "designmynight.com",
+      "tier": "B",
+      "ranked": false
+    },
+    {
+      "name": "Cozymeal",
+      "domain": "cozymeal.com",
+      "tier": "C",
+      "ranked": false
+    },
     {
       "name": "British Food Crew",
       "domain": "britishfoodcrew.com",
@@ -68,19 +78,49 @@
       {
         "field": "format",
         "values": [
-          { "key": "counter", "label": "Takeaway counter", "describeAs": "no seating, often cash only, and usually the best value" },
-          { "key": "chippy-dining-room", "label": "Chippy with a dining room", "describeAs": "table service, a room with some age to it" },
-          { "key": "restaurant", "label": "Fish and chips as a restaurant dish", "describeAs": "priced and plated as a main course" },
-          { "key": "pub", "label": "Pub serving it" }
+          {
+            "key": "counter",
+            "label": "Takeaway counter",
+            "describeAs": "no seating, often cash only, and usually the best value"
+          },
+          {
+            "key": "chippy-dining-room",
+            "label": "Chippy with a dining room",
+            "describeAs": "table service, a room with some age to it"
+          },
+          {
+            "key": "restaurant",
+            "label": "Fish and chips as a restaurant dish",
+            "describeAs": "priced and plated as a main course"
+          },
+          {
+            "key": "pub",
+            "label": "Pub serving it"
+          }
         ]
       },
       {
         "field": "medium",
         "values": [
-          { "key": "beef-dripping", "label": "Beef dripping", "describeAs": "the traditional fat, and the reason The Fryer's Delight tastes different" },
-          { "key": "vegetable-oil", "label": "Vegetable oil" },
-          { "key": "matzo", "label": "Matzo meal", "describeAs": "a north London Jewish tradition that predates the chip shop; a lighter, crisper crust than batter" },
-          { "key": "vegan", "label": "Vegan", "describeAs": "banana blossom in place of cod" }
+          {
+            "key": "beef-dripping",
+            "label": "Beef dripping",
+            "describeAs": "the traditional fat, and the reason The Fryer's Delight tastes different"
+          },
+          {
+            "key": "vegetable-oil",
+            "label": "Vegetable oil"
+          },
+          {
+            "key": "matzo",
+            "label": "Matzo meal",
+            "describeAs": "a north London Jewish tradition that predates the chip shop; a lighter, crisper crust than batter"
+          },
+          {
+            "key": "vegan",
+            "label": "Vegan",
+            "describeAs": "banana blossom in place of cod"
+          }
         ]
       }
     ]
@@ -100,7 +140,8 @@
     "tierAVenues": 2,
     "meetingTheBar": 24,
     "articleExists": true,
-    "mapExists": true
+    "mapExists": true,
+    "sheetRowsAdded": 6
   },
   "videoTier": {
     "collected": "2026-08-30",
@@ -111,7 +152,11 @@
     "warning": "RestroSpot's chapter markers are AUTO-GENERATED FROM SPEECH and come back mangled - 'Toss' for Toff's, 'Falers' for Faulkners, 'Sutton Suns' for Sutton & Sons. Only unambiguous names were recorded; the rest were dropped rather than guessed at."
   },
   "openVenueQuestions": [
-    "Two shops named Kennedy's trade in London. The one in the corpus is the Goswell Road chippy named in a video chapter marker.",
-    "The Golden Chippy (Greenwich) and The Golden Chip of Hanwell are different businesses with near-identical names, recorded in data/name-aliases.json under deliberatelyNotAliased."
+    "Two shops named Kennedy's trade in London and the group itself is 'Kennedy's London' with five branches. The one in the corpus is the Goswell Road chippy named in a video chapter marker; its row is slugged kennedys-goswell-road.",
+    "The Golden Chippy (Greenwich) and The Golden Chip of Hanwell are different businesses with near-identical names, recorded in data/name-aliases.json under deliberatelyNotAliased.",
+    "SEVENTEEN IS UNRESOLVED AND HAS NO ROW. Three London businesses trade as some form of the name: a CHINESE restaurant at 17 Notting Hill Gate, Seventeen Fish Bar in Whetstone N20, and the one the sources appear to mean - a modern chippy on Chestnut Grove in Balham, per Cozymeal, with the Instagram handle Absolutely gives. Only one source states a street, no website was reachable, and a pinned marker on a guessed address puts a reader outside the wrong building. Named in the article's closing table with that caveat, and left off the map.",
+    "Hobson's is THREE branches - Porchester Road W2, St Anne's Court W1F, and Villiers Street WC2N off the Strand. Secondary listings place it on Charing Cross ROAD and in Victoria; both are wrong.",
+    "Fishcotheque's trading status could not be confirmed from a primary source - its apparent domain has expired. Its own social page and dated third-party reviews suggest it is open. The row says so.",
+    "Oliver's Whetstone branch has closed; only Belsize Park trades. Its own site and its menu PDF disagree on Sunday opening."
   ]
 }

@@ -641,6 +641,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "brockleys-rock": {
+    "name": "Brockley's Rock",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "brooklands": {
     "name": "Brooklands",
     "firstSeen": "2026-08-17",
@@ -1439,6 +1445,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "fishcotheque": {
+    "name": "Fishcotheque",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "flat-iron": {
     "name": "Flat Iron",
     "firstSeen": "2026-08-17",
@@ -1775,6 +1787,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "hobsons-fish-and-chips": {
+    "name": "Hobson's Fish & Chips",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "holy-carrot": {
     "name": "Holy Carrot",
     "firstSeen": "2026-08-17",
@@ -2066,6 +2084,12 @@
   "kateh": {
     "name": "Kateh",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "kennedys-goswell-road": {
+    "name": "Kennedy's",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -2882,6 +2906,12 @@
   "old-spitalfields-market": {
     "name": "Old Spitalfields Market",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "olivers-fish-and-chips": {
+    "name": "Oliver's Fish & Chips",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -3764,6 +3794,12 @@
   "sticks-n-sushi-battersea": {
     "name": "Sticks'n'Sushi",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "stones-fish-and-chips": {
+    "name": "Stones Fish and Chips",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },

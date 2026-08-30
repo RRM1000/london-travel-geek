@@ -1,13 +1,13 @@
 {
  "generated": "2026-08-30",
- "count": 851,
- "withCoords": 793,
+ "count": 857,
+ "withCoords": 799,
  "facets": {
   "cuisine": [
    {
     "value": "British",
     "slug": "british",
-    "count": 242
+    "count": 248
    },
    {
     "value": "Italian",
@@ -164,7 +164,7 @@
    {
     "value": "South Bank",
     "slug": "south-bank",
-    "count": 36
+    "count": 37
    },
    {
     "value": "Covent Garden",
@@ -237,24 +237,24 @@
     "count": 11
    },
    {
+    "value": "Paddington",
+    "slug": "paddington",
+    "count": 11
+   },
+   {
     "value": "Peckham",
     "slug": "peckham",
     "count": 11
    },
    {
-    "value": "Paddington",
-    "slug": "paddington",
-    "count": 10
+    "value": "Hampstead",
+    "slug": "hampstead",
+    "count": 9
    },
    {
     "value": "Westminster",
     "slug": "westminster",
     "count": 9
-   },
-   {
-    "value": "Hampstead",
-    "slug": "hampstead",
-    "count": 8
    },
    {
     "value": "Richmond",
@@ -374,6 +374,11 @@
     "count": 29
    },
    {
+    "value": "fish-and-chips",
+    "slug": "fish-and-chips",
+    "count": 28
+   },
+   {
     "value": "afternoon-tea",
     "slug": "afternoon-tea",
     "count": 25
@@ -382,11 +387,6 @@
     "value": "dim-sum",
     "slug": "dim-sum",
     "count": 24
-   },
-   {
-    "value": "fish-and-chips",
-    "slug": "fish-and-chips",
-    "count": 22
    },
    {
     "value": "bakery",
@@ -421,7 +421,7 @@
    {
     "value": "pie-mash",
     "slug": "pie-mash",
-    "count": 9
+    "count": 10
    },
    {
     "value": "bbq",
@@ -483,7 +483,7 @@
    {
     "value": "££",
     "slug": "price-2",
-    "count": 333
+    "count": 339
    },
    {
     "value": "£££",
@@ -2396,6 +2396,8 @@
    "lat": 51.537108,
    "lng": -0.044892,
    "price": "££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/acepizzavictoriapark/reservations/create/search/&quot;,",
+   "website": "https://thisisacepizza.com/",
    "goodFor": [
     "groups",
     "families",
@@ -2467,6 +2469,8 @@
    "lng": -0.021406,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "http://www.madeinpuglia.uk/",
+   "website": "http://www.madeinpuglia.uk/",
    "setting": "counter",
    "goodFor": [
     "groups",
@@ -2571,6 +2575,7 @@
    "lat": 51.493674,
    "lng": -0.148517,
    "price": "££",
+   "bookingUrl": "https://www.weezieslondon.com/bookings",
    "website": "https://www.weezieslondon.com/",
    "setting": "courtyard",
    "goodFor": [
@@ -2606,6 +2611,7 @@
    "lat": 51.505938,
    "lng": -0.091734,
    "price": "£££",
+   "bookingUrl": "http://www.elliots.london/reservations-borough",
    "website": "https://elliots.london/",
    "goodFor": [
     "date",
@@ -2707,6 +2713,7 @@
    "lng": -0.102831,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.opentable.co.uk/booking/restref/availability?lang=en-GB&correlationId=09441ecd-999a-4d8c-8dd2-f86560e34bf4&restRef=425307&otSource=Restaurant%20website",
    "website": "https://linktr.ee/Carmelaspizzeria",
    "setting": "counter",
    "goodFor": [
@@ -2775,6 +2782,7 @@
    "lat": 51.48602,
    "lng": -0.171902,
    "price": "££",
+   "bookingUrl": "https://www.madeinitalygroup.co.uk/book",
    "website": "https://www.madeinitalygroup.co.uk/",
    "goodFor": [
     "groups",
@@ -2809,6 +2817,7 @@
    "lat": 51.563107,
    "lng": -0.057946,
    "price": "££",
+   "bookingUrl": "https://georgeandvulture.com/booking/",
    "website": "https://www.sodopizza.co.uk/",
    "goodFor": [
     "families",
@@ -2843,6 +2852,7 @@
    "lat": 51.504927,
    "lng": -0.094212,
    "price": "££",
+   "bookingUrl": "https://www.overuk.com/borough/book",
    "website": "https://www.overuk.com/",
    "goodFor": [
     "date",
@@ -2911,6 +2921,7 @@
    "lat": 51.584768,
    "lng": -0.161603,
    "price": "££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/67sourdough/reservations/create/search/",
    "website": "https://www.67sourdough.com/",
    "goodFor": [
     "families",
@@ -3221,6 +3232,8 @@
    "station": "Knightsbridge",
    "walkMin": 3,
    "price": "£££",
+   "bookingUrl": "http://www.saleepepe.co.uk/reservations",
+   "website": "http://www.saleepepe.co.uk/",
    "goodFor": [
     "date",
     "celebration"
@@ -3257,6 +3270,8 @@
    "station": "Goodge Street",
    "walkMin": 3,
    "price": "£",
+   "bookingUrl": "http://www.pastificioaldente.com/",
+   "website": "http://www.pastificioaldente.com/",
    "goodFor": [
     "solo",
     "quick"
@@ -4455,6 +4470,8 @@
    "lat": 51.506379,
    "lng": -0.071916,
    "price": "££",
+   "bookingUrl": "https://bookings.designmynight.com/book?venue_id=512b202cd5d190d2978ca43f&source=partner&partner_source=Google-XmasDay&type=6a60d0fada83022f4947e90f&time=13:00&date=2026-12-25",
+   "website": "https://www.dickensinn.co.uk/",
    "setting": "riverside",
    "outdoor": "terrace",
    "goodFor": [
@@ -5443,6 +5460,7 @@
    "station": "Green Park",
    "walkMin": 7,
    "price": "££££",
+   "website": "https://www.theguinea.co.uk/",
    "goodFor": [
     "date",
     "celebration"
@@ -5480,6 +5498,7 @@
    "station": "Hyde Park Corner",
    "walkMin": 5,
    "price": "££££",
+   "website": "https://www.dorchestercollection.com/london/45-park-lane/dining/cut-at-45-park-lane?utm_source=google&utm_medium=45l_local_profile&utm_campaign=cut&utm_content=london_dining",
    "goodFor": [
     "celebration",
     "date"
@@ -5517,6 +5536,8 @@
    "station": "Oxford Circus",
    "walkMin": 4,
    "price": "££££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/goodmanmayfair/reservations/create/search?venues=beast%2Cpinnamayfair%2Cgoodmanmayfair%2Cfantomas",
+   "website": "https://www.goodmanrestaurants.com/mayfair?utm_source=google&utm_medium=local&utm_campaign=gmblisting",
    "goodFor": [
     "business",
     "date"
@@ -5554,6 +5575,7 @@
    "station": "Bank",
    "walkMin": 1,
    "price": "££££",
+   "website": "https://www.thened.com/london/restaurants/lutyens-grill?utm_source=google&utm_medium=local&utm_campaign=lutyens-grill",
    "goodFor": [
     "business",
     "celebration"
@@ -5591,6 +5613,7 @@
    "station": "Old Street",
    "walkMin": 9,
    "price": "£££",
+   "website": "http://www.sagardi.co.uk/",
    "goodFor": [
     "groups",
     "date"
@@ -5626,6 +5649,7 @@
    "station": "Knightsbridge",
    "walkMin": 2,
    "price": "£££",
+   "website": "https://www.zelmanmeats.com/?utm_source=google&utm_medium=local&utm_campaign=gbplisting",
    "goodFor": [
     "groups",
     "solo"
@@ -5662,6 +5686,7 @@
    "station": "Piccadilly Circus",
    "walkMin": 6,
    "price": "£",
+   "website": "https://flatironsteak.co.uk/restaurant/soho/",
    "goodFor": [
     "solo",
     "groups",
@@ -5781,6 +5806,7 @@
    "walkMin": 9,
    "price": "£",
    "booking": "walk-in",
+   "website": "https://the-golden-chip.edan.io/",
    "setting": "counter",
    "goodFor": [
     "quick",
@@ -5819,6 +5845,8 @@
    "walkMin": 10,
    "price": "£",
    "booking": "walk-in",
+   "bookingUrl": "https://linktr.ee/features/bookings",
+   "website": "https://linktr.ee/silkroadcamberwell",
    "goodFor": [
     "groups",
     "quick"
@@ -5855,6 +5883,7 @@
    "walkMin": 4,
    "price": "£",
    "booking": "walk-in",
+   "website": "https://mariescafe.has.restaurant/",
    "goodFor": [
     "groups",
     "quick"
@@ -5932,6 +5961,8 @@
    "walkMin": 2,
    "price": "£",
    "booking": "walk-in",
+   "bookingUrl": "https://govindas.london/reservation",
+   "website": "https://govindas.london/",
    "setting": "counter",
    "goodFor": [
     "solo",
@@ -5973,6 +6004,7 @@
    "walkMin": 4,
    "price": "£",
    "booking": "walk-in",
+   "website": "https://theindianveg.wordpress.com/",
    "goodFor": [
     "groups",
     "quick"
@@ -6014,6 +6046,8 @@
    "walkMin": 5,
    "price": "£",
    "booking": "walk-in",
+   "bookingUrl": "https://static.parastorage.com/services/table-reservations-ooi/1.2804.0/ReservationAddOnViewerWidget.min.css",
+   "website": "https://www.sagarlondon.com/coventgarden",
    "goodFor": [
     "families",
     "quick"
@@ -6052,6 +6086,7 @@
    "walkMin": 3,
    "price": "£",
    "booking": "walk-in",
+   "website": "http://www.tongueandbrisket.com/",
    "setting": "counter",
    "goodFor": [
     "quick",
@@ -6687,6 +6722,8 @@
    "station": "London Fields",
    "walkMin": 4,
    "price": "££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/facingheaven/reservations/create/search",
+   "website": "http://www.facing-heaven.com/",
    "goodFor": [
     "groups",
     "date"
@@ -6725,6 +6762,8 @@
    "station": "Angel",
    "walkMin": 4,
    "price": "££",
+   "bookingUrl": "https://jamdelish.co.uk/wp-content/plugins/Booking/cache/quform.css?ver=1745443894",
+   "website": "https://www.jamdelish.co.uk/",
    "goodFor": [
     "groups",
     "date"
@@ -6763,6 +6802,8 @@
    "station": "London King's Cross",
    "walkMin": 8,
    "price": "££",
+   "bookingUrl": "https://www.itadakizen-uk.com/reservation",
+   "website": "https://www.itadakizen-uk.com/copy-of-london-main",
    "goodFor": [
     "solo",
     "date"
@@ -6800,6 +6841,7 @@
    "station": "Clapham North",
    "walkMin": 11,
    "price": "££",
+   "website": "http://www.enrootldn.co.uk/",
    "goodFor": [
     "groups",
     "solo"
@@ -6838,6 +6880,8 @@
    "station": "Camden Town",
    "walkMin": 3,
    "price": "££",
+   "bookingUrl": "https://purezza.co.uk/reservations/",
+   "website": "https://purezza.co.uk/locations/camden/",
    "goodFor": [
     "families",
     "groups"
@@ -6876,6 +6920,8 @@
    "station": "Queens Road Peckham",
    "walkMin": 9,
    "price": "£££",
+   "bookingUrl": "https://booking.resdiary.com/widget/Standard/naifs/19344",
+   "website": "http://www.naifs.co.uk/",
    "goodFor": [
     "date",
     "celebration"
@@ -6914,6 +6960,8 @@
    "station": "Oxford Circus",
    "walkMin": 2,
    "price": "£££",
+   "bookingUrl": "https://www.opentable.co.uk/r/tendril-a-mostly-vegan-kitchen-reservations-london?restref=204060&lang=en-GB&ot_source=Restaurant%20website&quot;,",
+   "website": "http://www.tendrilkitchen.co.uk/",
    "goodFor": [
     "date",
     "solo"
@@ -6952,6 +7000,8 @@
    "station": "Ladbroke Grove",
    "walkMin": 8,
    "price": "£££",
+   "bookingUrl": "https://www.holycarrot.co.uk/bookings",
+   "website": "https://www.holycarrot.co.uk/",
    "goodFor": [
     "date",
     "celebration"
@@ -6989,6 +7039,8 @@
    "station": "London Bridge",
    "walkMin": 1,
    "price": "££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/mallowboroughmarket/reservations/create/search",
+   "website": "https://mallowlondon.com/locations/borough-market/",
    "goodFor": [
     "groups",
     "date"
@@ -15472,6 +15524,7 @@
    "walkMin": 5,
    "price": "££",
    "booking": "walk-in",
+   "website": "http://faceboo.com/khunpakinthai",
    "setting": "historic-building",
    "goodFor": [
     "groups",
@@ -29887,6 +29940,8 @@
    "lng": -0.127585,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.opentable.com/booking/experiences-availability?rid=111285&restref=111285&experienceId=515918",
+   "website": "https://j-sheekey.co.uk/?utm_source=LocalGoogle&utm_medium=organic",
    "goodFor": [
     "date",
     "celebration",
@@ -29922,6 +29977,8 @@
    "lng": -0.151001,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://scotts-mayfair.com/",
+   "website": "https://scotts-mayfair.com/?utm_source=LocalGoogle&utm_medium=Organic&utm_campaign=gmb",
    "goodFor": [
     "date",
     "celebration",
@@ -29956,6 +30013,8 @@
    "lng": -0.137744,
    "price": "££££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/bentleys/reservations/create/search/",
+   "website": "https://www.bentleys.org/?utm_source=google&utm_medium=local&utm_campaign=gmblisting",
    "goodFor": [
     "date",
     "business",
@@ -29991,6 +30050,8 @@
    "lng": -0.104797,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://seabirdlondon.com/reservations",
+   "website": "https://seabirdlondon.com/?utm_source=google&utm_medium=local&utm_campaign=restaurant-seabird",
    "goodFor": [
     "date",
     "groups",
@@ -30025,6 +30086,8 @@
    "lng": -0.139361,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/wiltons&quot;,",
+   "website": "http://www.wiltons.co.uk/home",
    "goodFor": [
     "celebration",
     "business"
@@ -30059,6 +30122,8 @@
    "lng": -0.124885,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/parsonsuk?venues=%2Cparsonsuk%2Cbistroavin%2Ccaveavinuk%2Cbaudrygreene%2C&quot;,",
+   "website": "https://www.parsonslondon.co.uk/",
    "goodFor": [
     "date",
     "solo"
@@ -30093,6 +30158,8 @@
    "lng": -0.133092,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.theseafoodbar.com/reservations-amsterdam/",
+   "website": "https://www.theseafoodbar.com/",
    "goodFor": [
     "groups",
     "date"
@@ -30127,6 +30194,8 @@
    "lng": -0.134169,
    "price": "£££",
    "booking": "walk-in",
+   "bookingUrl": "https://www.sevenrooms.com/explore/randallandaubin/reservations/create/search",
+   "website": "http://www.randallandaubin.com/",
    "goodFor": [
     "date",
     "solo"
@@ -30165,6 +30234,8 @@
     "pre-theatre"
    ],
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/ManzisLondon/reservations/create/search",
+   "website": "http://www.manzis.co.uk/",
    "goodFor": [
     "date",
     "pre-theatre",
@@ -30200,6 +30271,8 @@
    "lng": -0.123737,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.oystermen.co.uk/reservations",
+   "website": "https://www.oystermen.co.uk/",
    "goodFor": [
     "date",
     "solo",
@@ -30236,6 +30309,8 @@
    "lng": -0.091048,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/applebeesfishborough",
+   "website": "https://applebeesfish.com/?utm_source=gmb",
    "goodFor": [
     "solo",
     "quick",
@@ -30271,6 +30346,7 @@
    "lng": -0.101034,
    "price": "£££",
    "booking": "days",
+   "website": "http://www.prawnonthelawn.com/",
    "goodFor": [
     "date",
     "solo"
@@ -30306,6 +30382,8 @@
    "lng": -0.057355,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "https://www.behindrestaurant.co.uk/book",
+   "website": "https://www.behindrestaurant.co.uk/",
    "goodFor": [
     "date",
     "celebration"
@@ -30340,6 +30418,8 @@
    "lng": -0.086473,
    "price": "££££",
    "booking": "weeks",
+   "bookingUrl": "http://www.anglerrestaurant.com/",
+   "website": "http://www.anglerrestaurant.com/",
    "goodFor": [
     "business",
     "celebration",
@@ -30410,6 +30490,8 @@
    "lng": -0.222626,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.faberrestaurants.co.uk/book/",
+   "website": "https://www.faberrestaurants.co.uk/",
    "goodFor": [
     "date",
     "solo"
@@ -30444,6 +30526,8 @@
    "lng": -0.205828,
    "price": "£££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/Dove/reservations/create/search/",
+   "website": "https://dove.london/",
    "goodFor": [
     "date",
     "celebration"
@@ -30481,6 +30565,8 @@
     "byo"
    ],
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/samsriverside/reservations/create/search?venues=dinneratsk%2Csamsriverside%2Csamswaterside",
+   "website": "http://www.samsriverside.co.uk/",
    "goodFor": [
     "date",
     "families",
@@ -30517,6 +30603,8 @@
    "lng": -0.079547,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "http://www.fishmarket-restaurant.co.uk/",
+   "website": "http://www.fishmarket-restaurant.co.uk/",
    "goodFor": [
     "business",
     "groups",
@@ -30550,6 +30638,8 @@
    "lng": -0.256237,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://bookings.designmynight.com/book?venue_id=6087d39bccb4d70e7a1df7e3&#038;source=partner&#038;type=682f0b32d1253447ae5830b3&#038;time=19:00&#038;duration=180&#038;date=2026-09-08",
+   "website": "https://rickstein.com/restaurants/rick-stein-barnes/?utm_source=google&utm_medium=google&utm_campaign=Barnes+-+Google&utm_id=Barnes+google",
    "goodFor": [
     "families",
     "date"
@@ -30585,6 +30675,7 @@
    "lng": -0.090504,
    "price": "£",
    "booking": "walk-in",
+   "website": "http://www.furnessfishmarkets.com/",
    "goodFor": [
     "quick",
     "solo"
@@ -30688,6 +30779,8 @@
    "lng": -0.150658,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/swainslane",
+   "website": "http://www.londonshellco.com/",
    "goodFor": [
     "date",
     "families"
@@ -30722,6 +30815,8 @@
    "lng": -0.088304,
    "price": "££",
    "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/thebaring/reservations/create/search/",
+   "website": "http://www.thebaring.co.uk/",
    "goodFor": [
     "date",
     "groups"
@@ -30757,6 +30852,8 @@
    "lng": -0.10824,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "http://www.opentable.co.uk/the-drapers-arms-reservations-london?rid=53308&restref=53308",
+   "website": "http://www.thedrapersarms.com/",
    "goodFor": [
     "families",
     "groups"
@@ -30791,6 +30888,8 @@
    "lng": -0.079974,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "http://www.the-macbeth.co.uk/",
+   "website": "http://www.the-macbeth.co.uk/",
    "goodFor": [
     "groups",
     "date"
@@ -30859,6 +30958,8 @@
    "lng": -0.015037,
    "price": "£££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/roe/reservations/create/search?venues=roe%2Cfallowstjames%2Cfowl",
+   "website": "https://www.roerestaurant.co.uk/",
    "goodFor": [
     "groups",
     "business"
@@ -30892,6 +30993,7 @@
    "lng": -0.055499,
    "price": "££",
    "booking": "days",
+   "website": "https://www.claptoncountryclub.co.uk/",
    "goodFor": [
     "groups",
     "date"
@@ -30926,6 +31028,8 @@
    "lng": -0.079118,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/theclarencetavern&quot;,",
+   "website": "http://www.clarencetavern.com/",
    "goodFor": [
     "families",
     "groups"
@@ -30959,6 +31063,8 @@
    "lng": -0.0904,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/thekerfieldarms/reservations/create/search/",
+   "website": "https://www.thekerfieldarms.co.uk/",
    "goodFor": [
     "families",
     "groups"
@@ -30993,6 +31099,8 @@
    "lng": -0.188221,
    "price": "££",
    "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/thehero/reservations/create/search/?date=2026-02-23&searchTab=reservations&venues=thehero%2Cthepelicanw11%2Cthehartuk%2Cthefatbadger",
+   "website": "https://theherow9.com/",
    "goodFor": [
     "date",
     "families"
@@ -31028,6 +31136,8 @@
    "lng": -0.106854,
    "price": "££",
    "booking": "walk-in",
+   "bookingUrl": "http://www.anchorandhopepub.co.uk/",
+   "website": "http://www.anchorandhopepub.co.uk/",
    "goodFor": [
     "date",
     "groups",
@@ -31041,6 +31151,212 @@
    "sourceCount": "1",
    "sourceTiers": "A1",
    "sourceUrls": "https://www.top50gastropubs.com/list/1-50"
+  },
+  {
+   "slug": "brockleys-rock",
+   "name": "Brockley's Rock",
+   "cuisine": "British",
+   "style": "Traditional chippy",
+   "specialities": [
+    "fish-and-chips"
+   ],
+   "format": "Counter",
+   "chainType": "independent",
+   "area": "Brockley",
+   "zone": "2–3",
+   "district": "South",
+   "borough": "Lewisham",
+   "address": "317 Brockley Road",
+   "postcode": "SE4 2QZ",
+   "lat": 51.459546,
+   "lng": -0.033627,
+   "price": "££",
+   "booking": "walk-in",
+   "website": "http://www.brockleysrock.co.uk/",
+   "goodFor": [
+    "quick",
+    "families"
+   ],
+   "whyGo": "The only London shop in the UK top ten for Takeaway of the Year 2026, on Brockley Road since 2011 on the site of a former Chinese takeaway. MSC-certified cod and a homemade tartare sauce.",
+   "signals": "National Fish and Chip Awards 2026 - Takeaway of the Year, UK top 10",
+   "lists": [
+    "fish-and-chips"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "A1 C3",
+   "sourceUrls": "https://thefishandchipawards.com/ | https://britishfoodcrew.com/best-fish-chips-in-london-the-definitive-2026-guide/ | https://www.cozymeal.com/magazine/fish-and-chips-london"
+  },
+  {
+   "slug": "stones-fish-and-chips",
+   "name": "Stones Fish and Chips",
+   "cuisine": "British",
+   "style": "Traditional chippy",
+   "specialities": [
+    "fish-and-chips"
+   ],
+   "format": "Counter",
+   "chainType": "independent",
+   "area": "Acton",
+   "zone": "3",
+   "district": "West",
+   "borough": "Ealing",
+   "address": "331 Horn Lane",
+   "postcode": "W3 0BU",
+   "lat": 51.519019,
+   "lng": -0.265813,
+   "price": "££",
+   "booking": "walk-in",
+   "website": "https://stonesfishandchips.co.uk/",
+   "goodFor": [
+    "quick",
+    "families"
+   ],
+   "whyGo": "On the 40-shop National Fish and Chip Awards 2026 shortlist and a UK top-three finalist in two further categories. Serving hake alongside cod while cod stocks recover.",
+   "signals": "National Fish and Chip Awards 2026 - Takeaway of the Year shortlist",
+   "lists": [
+    "fish-and-chips"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "A1 C2",
+   "sourceUrls": "https://thefishandchipawards.com/ | https://britishfoodcrew.com/best-fish-chips-in-london-the-definitive-2026-guide/ | https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/"
+  },
+  {
+   "slug": "olivers-fish-and-chips",
+   "name": "Oliver's Fish & Chips",
+   "cuisine": "British",
+   "style": "Sit-down chippy",
+   "specialities": [
+    "fish-and-chips"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Hampstead",
+   "zone": "2–3",
+   "district": "North",
+   "borough": "Camden",
+   "guide": "hampstead-area-guide",
+   "address": "95 Haverstock Hill",
+   "postcode": "NW3 4RL",
+   "lat": 51.546711,
+   "lng": -0.158652,
+   "price": "££",
+   "booking": "days",
+   "website": "http://www.oliversfishandchips.com/",
+   "goodFor": [
+    "families",
+    "date"
+   ],
+   "whyGo": "Fries in pure rapeseed oil with no animal fats or hydrogenated fats, which keeps a standard plate under 500 calories. Fish daily from Billingsgate, Maris Pipers where possible.",
+   "opNote": "The Whetstone branch has closed; Belsize Park is the only site trading. Sunday opening is stated two different ways on its own site and menu - check before travelling.",
+   "lists": [
+    "fish-and-chips"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "B2 C2",
+   "sourceUrls": "https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london | https://absolutelymagazines.com/londons-best-fish-chips/ | https://www.cozymeal.com/magazine/fish-and-chips-london"
+  },
+  {
+   "slug": "fishcotheque",
+   "name": "Fishcotheque",
+   "cuisine": "British",
+   "style": "Traditional chippy",
+   "specialities": [
+    "fish-and-chips"
+   ],
+   "format": "Counter",
+   "chainType": "independent",
+   "area": "Waterloo",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Lambeth",
+   "guide": "south-bank-area-guide",
+   "address": "79A Waterloo Road",
+   "postcode": "SE1 8UD",
+   "lat": 51.504012,
+   "lng": -0.111613,
+   "price": "££",
+   "booking": "walk-in",
+   "goodFor": [
+    "quick",
+    "pre-theatre"
+   ],
+   "whyGo": "On Waterloo Road since 1972, and the counter two separate London chip shop video channels went out of their way to film.",
+   "opNote": "No working website - the domain that looks official has expired. Trading is corroborated by its own social page and dated third-party reviews, not by a live venue site. Confirm before recommending for a special trip.",
+   "lists": [
+    "fish-and-chips"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B1 D2",
+   "sourceUrls": "https://absolutelymagazines.com/londons-best-fish-chips/ | https://www.youtube.com/@InsiderFood | https://www.youtube.com/@TravelWithBen121"
+  },
+  {
+   "slug": "kennedys-goswell-road",
+   "name": "Kennedy's",
+   "cuisine": "British",
+   "style": "Chippy and pie shop",
+   "specialities": [
+    "fish-and-chips",
+    "pie-mash"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Clerkenwell",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Islington",
+   "address": "184-186 Goswell Road",
+   "postcode": "EC1V 7DT",
+   "lat": 51.526167,
+   "lng": -0.09974,
+   "price": "££",
+   "booking": "walk-in",
+   "website": "http://www.kennedyslondon.co.uk/",
+   "goodFor": [
+    "quick",
+    "solo"
+   ],
+   "whyGo": "Pies baked on the premises - steak and Guinness, steak and Stilton - alongside the fryer, from a business that started about 150 years ago as a butcher's known for its sausages.",
+   "signature": "Steak and Guinness pie",
+   "lists": [
+    "fish-and-chips"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "C2 D1",
+   "sourceUrls": "https://www.cozymeal.com/magazine/fish-and-chips-london | https://traveliciousbites.com/destinations/europe/london/best-fish-and-chips-in-london/ | https://www.youtube.com/@TomtheTaxiDriver"
+  },
+  {
+   "slug": "hobsons-fish-and-chips",
+   "name": "Hobson's Fish & Chips",
+   "cuisine": "British",
+   "style": "Sit-down chippy",
+   "specialities": [
+    "fish-and-chips"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Bayswater",
+   "zone": "1",
+   "district": "West",
+   "borough": "Westminster",
+   "guide": "paddington-area-guide",
+   "address": "9 Porchester Road",
+   "postcode": "W2 5DP",
+   "lat": 51.516567,
+   "lng": -0.188075,
+   "price": "££",
+   "booking": "days",
+   "website": "http://www.hobsonsfishandchips.com/",
+   "goodFor": [
+    "families",
+    "pre-theatre"
+   ],
+   "whyGo": "Double-fried chips and a light batter across three sites - Porchester Road, St Anne's Court in Soho and Villiers Street off the Strand. The family ran Oliver's in Belsize Park before taking on the Bayswater shop.",
+   "lists": [
+    "fish-and-chips"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 C1",
+   "sourceUrls": "https://absolutelymagazines.com/londons-best-fish-chips/ | https://jamesdimitri.co.uk/2025/06/09/top-london-chippies/"
   },
   {
    "slug": "dishoom--king-s-cross",
