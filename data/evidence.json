@@ -21718,8 +21718,8 @@
       "general",
       "indian"
     ],
-    "sourceCount": 10,
-    "tierSpread": "A2 B3 C4 D1",
+    "sourceCount": 12,
+    "tierSpread": "A2 B3 C4 D3",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -21748,9 +21748,9 @@
         "hasAward": false
       },
       "indian": {
-        "sourceCount": 5,
-        "tierSpread": "A2 B2 C1",
-        "tierCount": 3,
+        "sourceCount": 7,
+        "tierSpread": "A2 B2 C1 D2",
+        "tierCount": 4,
         "hasAward": true
       }
     },
@@ -21805,6 +21805,16 @@
         "tier": "D",
         "source": "Claudia Romeo (YouTube)",
         "url": "https://www.youtube.com/@claudia-romeo"
+      },
+      {
+        "tier": "D",
+        "source": "Food with Chetna (YouTube)",
+        "url": "https://www.youtube.com/@FoodwithChetna"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats"
       }
     ]
   },
@@ -36016,9 +36026,9 @@
       "general",
       "indian"
     ],
-    "sourceCount": 8,
-    "tierSpread": "A1 B5 C2",
-    "tierCount": 3,
+    "sourceCount": 10,
+    "tierSpread": "A1 B5 C2 D2",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "british": {
@@ -36034,9 +36044,9 @@
         "hasAward": false
       },
       "indian": {
-        "sourceCount": 5,
-        "tierSpread": "A1 B3 C1",
-        "tierCount": 3,
+        "sourceCount": 7,
+        "tierSpread": "A1 B3 C1 D2",
+        "tierCount": 4,
         "hasAward": true
       }
     },
@@ -36080,6 +36090,16 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
+      },
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
       }
     ]
   },
@@ -42020,11 +42040,12 @@
     "topics": [
       "british",
       "cheap-eats",
-      "general"
+      "general",
+      "indian"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "B1 C2 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -42044,6 +42065,12 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -42061,6 +42088,11 @@
         "tier": "C",
         "source": "Tikka Nation",
         "url": "https://tikkanation.com/blog/best-indian-vegetarian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Condé Nast Traveler (YouTube)",
+        "url": "https://www.youtube.com/@Traveler"
       }
     ]
   },
@@ -53859,16 +53891,23 @@
     "name": "Punjab Indian Restaurant",
     "topics": [
       "cheap-eats",
+      "indian",
       "pakistani"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "C2 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "cheap-eats": {
         "sourceCount": 1,
         "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -53889,6 +53928,11 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/pakistani-restaurants-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood"
       }
     ]
   },
@@ -79023,9 +79067,9 @@
       "general",
       "indian"
     ],
-    "sourceCount": 5,
-    "tierSpread": "A3 B1 C1",
-    "tierCount": 3,
+    "sourceCount": 11,
+    "tierSpread": "A3 B1 C1 D6",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "general": {
@@ -79035,9 +79079,9 @@
         "hasAward": false
       },
       "indian": {
-        "sourceCount": 5,
-        "tierSpread": "A3 B1 C1",
-        "tierCount": 3,
+        "sourceCount": 11,
+        "tierSpread": "A3 B1 C1 D6",
+        "tierCount": 4,
         "hasAward": true
       }
     },
@@ -79068,6 +79112,37 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97",
+        "quote": "The £305 end of a cheap-vs-expensive comparison"
+      },
+      {
+        "tier": "D",
+        "source": "BoopFoodie (YouTube)",
+        "url": "https://www.youtube.com/@Boopfoodie"
+      },
+      {
+        "tier": "D",
+        "source": "Jack's Dining Room (YouTube)",
+        "url": "https://www.youtube.com/@jacksdiningroom"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats"
+      },
+      {
+        "tier": "D",
+        "source": "The Staff Canteen (YouTube)",
+        "url": "https://www.youtube.com/@Thestaffcanteen"
       }
     ]
   },
@@ -83808,9 +83883,9 @@
       "general",
       "indian"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B2",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 D1",
+    "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "general": {
@@ -83820,9 +83895,9 @@
         "hasAward": false
       },
       "indian": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
-        "tierCount": 2,
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 D1",
+        "tierCount": 3,
         "hasAward": true
       }
     },
@@ -83842,6 +83917,12 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "BoopFoodie (YouTube)",
+        "url": "https://www.youtube.com/@Boopfoodie",
+        "quote": "Added to the guide after its February 2026 Michelin star"
       }
     ]
   },
@@ -87913,9 +87994,9 @@
       "indian",
       "new-openings"
     ],
-    "sourceCount": 7,
-    "tierSpread": "B6 C1",
-    "tierCount": 2,
+    "sourceCount": 8,
+    "tierSpread": "B6 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "general": {
@@ -87925,9 +88006,9 @@
         "hasAward": false
       },
       "indian": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "B3 D1",
+        "tierCount": 2,
         "hasAward": false
       },
       "new-openings": {
@@ -87972,6 +88053,12 @@
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/hot-right-now-london-s-hottest-restaurants"
+      },
+      {
+        "tier": "D",
+        "source": "More Fallow (YouTube)",
+        "url": "https://www.youtube.com/@MoreFallow",
+        "quote": "Chefs review Aktar Islam's new London restaurant"
       }
     ]
   },
@@ -88754,9 +88841,9 @@
       "general",
       "indian"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A2 C1",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "A2 C1 D1",
+    "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "general": {
@@ -88766,9 +88853,9 @@
         "hasAward": false
       },
       "indian": {
-        "sourceCount": 2,
-        "tierSpread": "A2",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "A2 D1",
+        "tierCount": 2,
         "hasAward": true
       }
     },
@@ -88788,6 +88875,11 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/bib-gourmands-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Food with Chetna (YouTube)",
+        "url": "https://www.youtube.com/@FoodwithChetna"
       }
     ]
   },
@@ -96193,15 +96285,15 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A3",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "A3 D1",
+    "tierCount": 2,
     "hasAward": true,
     "byTopic": {
       "indian": {
-        "sourceCount": 3,
-        "tierSpread": "A3",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "A3 D1",
+        "tierCount": 2,
         "hasAward": true
       }
     },
@@ -96222,6 +96314,11 @@
         "source": "British Indian Good Food Guide",
         "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
         "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Belgravia)"
+      },
+      {
+        "tier": "D",
+        "source": "BoopFoodie (YouTube)",
+        "url": "https://www.youtube.com/@Boopfoodie"
       }
     ]
   },
@@ -96296,15 +96393,15 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
-    "tierCount": 2,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 D1",
+    "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "indian": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
-        "tierCount": 2,
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 D1",
+        "tierCount": 3,
         "hasAward": true
       }
     },
@@ -96318,6 +96415,11 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
       }
     ]
   },
@@ -96326,15 +96428,15 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 6,
-    "tierSpread": "A3 B2 C1",
-    "tierCount": 3,
+    "sourceCount": 9,
+    "tierSpread": "A3 B2 C1 D3",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "indian": {
-        "sourceCount": 6,
-        "tierSpread": "A3 B2 C1",
-        "tierCount": 3,
+        "sourceCount": 9,
+        "tierSpread": "A3 B2 C1 D3",
+        "tierCount": 4,
         "hasAward": true
       }
     },
@@ -96370,6 +96472,21 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "BoopFoodie (YouTube)",
+        "url": "https://www.youtube.com/@Boopfoodie"
+      },
+      {
+        "tier": "D",
+        "source": "Food with Chetna (YouTube)",
+        "url": "https://www.youtube.com/@FoodwithChetna"
+      },
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
       }
     ]
   },
@@ -96541,15 +96658,15 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 8,
-    "tierSpread": "A3 B4 C1",
-    "tierCount": 3,
+    "sourceCount": 9,
+    "tierSpread": "A3 B4 C1 D1",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "indian": {
-        "sourceCount": 8,
-        "tierSpread": "A3 B4 C1",
-        "tierCount": 3,
+        "sourceCount": 9,
+        "tierSpread": "A3 B4 C1 D1",
+        "tierCount": 4,
         "hasAward": true
       }
     },
@@ -96595,6 +96712,11 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "BoopFoodie (YouTube)",
+        "url": "https://www.youtube.com/@Boopfoodie"
       }
     ]
   },
@@ -96633,15 +96755,15 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 5,
-    "tierSpread": "A3 B1 C1",
-    "tierCount": 3,
+    "sourceCount": 8,
+    "tierSpread": "A3 B1 C1 D3",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "indian": {
-        "sourceCount": 5,
-        "tierSpread": "A3 B1 C1",
-        "tierCount": 3,
+        "sourceCount": 8,
+        "tierSpread": "A3 B1 C1 D3",
+        "tierCount": 4,
         "hasAward": true
       }
     },
@@ -96672,6 +96794,21 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "BoopFoodie (YouTube)",
+        "url": "https://www.youtube.com/@Boopfoodie"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats"
+      },
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
       }
     ]
   },
@@ -96706,15 +96843,15 @@
       "indian",
       "new-openings"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B1 C1",
-    "tierCount": 3,
+    "sourceCount": 4,
+    "tierSpread": "A1 B1 C1 D1",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "indian": {
-        "sourceCount": 3,
-        "tierSpread": "A1 B1 C1",
-        "tierCount": 3,
+        "sourceCount": 4,
+        "tierSpread": "A1 B1 C1 D1",
+        "tierCount": 4,
         "hasAward": true
       },
       "new-openings": {
@@ -96740,6 +96877,12 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Condé Nast Traveler (YouTube)",
+        "url": "https://www.youtube.com/@Traveler",
+        "quote": "Chef Karan Gokani's own restaurant - he presents the video, so this is not an independent recommendation of it"
       }
     ]
   },
@@ -96749,15 +96892,15 @@
       "indian",
       "turkish"
     ],
-    "sourceCount": 7,
-    "tierSpread": "A2 B4 C1",
-    "tierCount": 3,
+    "sourceCount": 9,
+    "tierSpread": "A2 B4 C1 D2",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "indian": {
-        "sourceCount": 6,
-        "tierSpread": "A1 B4 C1",
-        "tierCount": 3,
+        "sourceCount": 8,
+        "tierSpread": "A1 B4 C1 D2",
+        "tierCount": 4,
         "hasAward": true
       },
       "turkish": {
@@ -96803,6 +96946,17 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw",
+        "quote": "Top of a best-curry list voted by 200 chefs and industry figures TOPJAW interviewed"
       }
     ]
   },
@@ -96811,15 +96965,15 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "indian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -96828,6 +96982,11 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Food with Chetna (YouTube)",
+        "url": "https://www.youtube.com/@FoodwithChetna"
       }
     ]
   },
@@ -96886,15 +97045,15 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "B2 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "indian": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
+        "sourceCount": 4,
+        "tierSpread": "B2 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -96914,6 +97073,11 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
       }
     ]
   },
@@ -97108,15 +97272,15 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "indian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -97125,6 +97289,11 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Food with Chetna (YouTube)",
+        "url": "https://www.youtube.com/@FoodwithChetna"
       }
     ]
   },
@@ -97158,15 +97327,15 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 4,
-    "tierSpread": "A2 B1 C1",
-    "tierCount": 3,
+    "sourceCount": 5,
+    "tierSpread": "A2 B1 C1 D1",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "indian": {
-        "sourceCount": 4,
-        "tierSpread": "A2 B1 C1",
-        "tierCount": 3,
+        "sourceCount": 5,
+        "tierSpread": "A2 B1 C1 D1",
+        "tierCount": 4,
         "hasAward": true
       }
     },
@@ -97192,6 +97361,11 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "BoopFoodie (YouTube)",
+        "url": "https://www.youtube.com/@Boopfoodie"
       }
     ]
   },
@@ -97201,15 +97375,15 @@
       "indian",
       "new-openings"
     ],
-    "sourceCount": 6,
-    "tierSpread": "A1 B3 C2",
-    "tierCount": 3,
+    "sourceCount": 7,
+    "tierSpread": "A1 B3 C2 D1",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "indian": {
-        "sourceCount": 4,
-        "tierSpread": "A1 B2 C1",
-        "tierCount": 3,
+        "sourceCount": 5,
+        "tierSpread": "A1 B2 C1 D1",
+        "tierCount": 4,
         "hasAward": true
       },
       "new-openings": {
@@ -97250,6 +97424,11 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/best-new-restaurants-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
       }
     ]
   },
@@ -97258,15 +97437,15 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B1 C1",
-    "tierCount": 3,
+    "sourceCount": 5,
+    "tierSpread": "A1 B1 C1 D2",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "indian": {
-        "sourceCount": 3,
-        "tierSpread": "A1 B1 C1",
-        "tierCount": 3,
+        "sourceCount": 5,
+        "tierSpread": "A1 B1 C1 D2",
+        "tierCount": 4,
         "hasAward": true
       }
     },
@@ -97286,6 +97465,16 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
       }
     ]
   },
@@ -97351,15 +97540,15 @@
       "indian",
       "seafood"
     ],
-    "sourceCount": 4,
-    "tierSpread": "A2 B1 C1",
-    "tierCount": 3,
+    "sourceCount": 5,
+    "tierSpread": "A2 B1 C1 D1",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "indian": {
-        "sourceCount": 3,
-        "tierSpread": "A2 C1",
-        "tierCount": 2,
+        "sourceCount": 4,
+        "tierSpread": "A2 C1 D1",
+        "tierCount": 3,
         "hasAward": true
       },
       "seafood": {
@@ -97391,6 +97580,11 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "BoopFoodie (YouTube)",
+        "url": "https://www.youtube.com/@Boopfoodie"
       }
     ]
   },
@@ -98144,15 +98338,15 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "A1 D1",
+    "tierCount": 2,
     "hasAward": true,
     "byTopic": {
       "indian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "A1 D1",
+        "tierCount": 2,
         "hasAward": true
       }
     },
@@ -98162,6 +98356,11 @@
         "source": "British Indian Good Food Guide",
         "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
         "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Twickenham)"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats"
       }
     ]
   },
@@ -98414,6 +98613,343 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-indian-restaurants-london_10036"
+      }
+    ]
+  },
+  "newcolaba": {
+    "name": "New Colaba",
+    "topics": [
+      "indian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "indian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Condé Nast Traveler (YouTube)",
+        "url": "https://www.youtube.com/@Traveler"
+      }
+    ]
+  },
+  "moka": {
+    "name": "Moka",
+    "topics": [
+      "indian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "indian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "indianlounge": {
+    "name": "Indian Lounge",
+    "topics": [
+      "indian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "indian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "sheba": {
+    "name": "Sheba",
+    "topics": [
+      "indian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "indian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
+      }
+    ]
+  },
+  "tayyabs": {
+    "name": "Tayyabs",
+    "topics": [
+      "indian",
+      "pakistani"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B2 C2 D2",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "indian": {
+        "sourceCount": 2,
+        "tierSpread": "D2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "pakistani": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-pakistani-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/pakistani-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/a-guide-to-indian-and-pakistani-food"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood",
+        "quote": "One of four curry houses in a single-day tour with Harry Kersh and Joe Avella"
+      }
+    ]
+  },
+  "currybazaar": {
+    "name": "Curry Bazaar",
+    "topics": [
+      "indian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "indian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood"
+      }
+    ]
+  },
+  "spicevillage": {
+    "name": "Spice Village",
+    "topics": [
+      "indian",
+      "pakistani"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C1 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "indian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "pakistani": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/a-guide-to-indian-and-pakistani-food"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood"
+      }
+    ]
+  },
+  "aladin": {
+    "name": "Aladin",
+    "topics": [
+      "indian",
+      "pakistani"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "indian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "pakistani": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/pakistani-restaurants-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
+      }
+    ]
+  },
+  "cityspice": {
+    "name": "City Spice",
+    "topics": [
+      "indian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "indian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
+      }
+    ]
+  },
+  "tamarindkitchen": {
+    "name": "Tamarind Kitchen",
+    "topics": [
+      "indian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "indian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
+      }
+    ]
+  },
+  "paro": {
+    "name": "Paro",
+    "topics": [
+      "indian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "indian": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
       }
     ]
   },
@@ -125127,36 +125663,6 @@
       }
     ]
   },
-  "spicevillage": {
-    "name": "Spice Village",
-    "topics": [
-      "pakistani"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "pakistani": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Culture Calling",
-        "url": "https://www.culturecalling.com/london/food-and-drink/features/a-guide-to-indian-and-pakistani-food"
-      }
-    ]
-  },
   "namakmandi": {
     "name": "Namak Mandi",
     "topics": [
@@ -125209,46 +125715,6 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Culture Calling",
-        "url": "https://www.culturecalling.com/london/food-and-drink/features/a-guide-to-indian-and-pakistani-food"
-      }
-    ]
-  },
-  "tayyabs": {
-    "name": "Tayyabs",
-    "topics": [
-      "pakistani"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "pakistani": {
-        "sourceCount": 4,
-        "tierSpread": "B2 C2",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/best-pakistani-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/pakistani-restaurants-london/"
       },
       {
         "tier": "C",
@@ -125389,31 +125855,6 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
-      }
-    ]
-  },
-  "aladin": {
-    "name": "Aladin",
-    "topics": [
-      "pakistani"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "pakistani": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/pakistani-restaurants-london/"
       }
     ]
   },

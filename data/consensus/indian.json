@@ -350,6 +350,160 @@
         "Aveika"
       ],
       "quotes": {}
+    },
+    {
+      "name": "Condé Nast Traveler (YouTube)",
+      "url": "https://www.youtube.com/@Traveler",
+      "scope": "indian",
+      "names": [
+        "New Colaba",
+        "Govinda's",
+        "Hoppers"
+      ],
+      "quotes": {
+        "Hoppers": "Chef Karan Gokani's own restaurant - he presents the video, so this is not an independent recommendation of it"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Harrison Webb (YouTube)",
+      "url": "https://www.youtube.com/@HarrisonWebb97",
+      "scope": "indian",
+      "names": [
+        "Brigadiers",
+        "Kricket",
+        "Moka",
+        "Empire Empire",
+        "Indian Lounge",
+        "Gymkhana"
+      ],
+      "quotes": {
+        "Gymkhana": "The £305 end of a cheap-vs-expensive comparison"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "BoopFoodie (YouTube)",
+      "url": "https://www.youtube.com/@Boopfoodie",
+      "scope": "indian",
+      "names": [
+        "Veeraswamy",
+        "Quilon",
+        "Jamavar",
+        "Benares",
+        "Trishna",
+        "Gymkhana",
+        "Amaya",
+        "Ambassadors Clubhouse"
+      ],
+      "quotes": {
+        "Ambassadors Clubhouse": "Added to the guide after its February 2026 Michelin star"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Jack's Dining Room (YouTube)",
+      "url": "https://www.youtube.com/@jacksdiningroom",
+      "scope": "indian",
+      "names": [
+        "Gymkhana"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "TOPJAW (YouTube)",
+      "url": "https://www.youtube.com/@topjaw",
+      "scope": "indian",
+      "names": [
+        "Gymkhana",
+        "Kricket",
+        "Sheba",
+        "Brigadiers",
+        "Tayyabs",
+        "BiBi",
+        "Darjeeling Express"
+      ],
+      "quotes": {
+        "Brigadiers": "Top of a best-curry list voted by 200 chefs and industry figures TOPJAW interviewed"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Food with Chetna (YouTube)",
+      "url": "https://www.youtube.com/@FoodwithChetna",
+      "scope": "indian",
+      "names": [
+        "Dishoom",
+        "Gunpowder",
+        "Fatt Pundit",
+        "Thecha",
+        "Jamavar"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Gary Eats (YouTube)",
+      "url": "https://www.youtube.com/@GaryEats",
+      "scope": "indian",
+      "names": [
+        "Gymkhana",
+        "Shiuli",
+        "Dishoom",
+        "Veeraswamy"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "The Staff Canteen (YouTube)",
+      "url": "https://www.youtube.com/@Thestaffcanteen",
+      "scope": "indian",
+      "names": [
+        "Gymkhana"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Insider Food (YouTube)",
+      "url": "https://www.youtube.com/@InsiderFood",
+      "scope": "indian",
+      "names": [
+        "Tayyabs",
+        "Curry Bazaar",
+        "Punjab Indian Restaurant",
+        "Spice Village"
+      ],
+      "quotes": {
+        "Tayyabs": "One of four curry houses in a single-day tour with Harry Kersh and Joe Avella"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Ugo Arinzeh (YouTube)",
+      "url": "https://www.youtube.com/@UgoArinzeh",
+      "scope": "indian",
+      "names": [
+        "Aladin",
+        "City Spice",
+        "Veeraswamy",
+        "Tamarind Kitchen",
+        "Jamavar",
+        "BiBi",
+        "Colonel Saab",
+        "Paro"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "MORE FALLOW (YouTube)",
+      "url": "https://www.youtube.com/@MoreFallow",
+      "scope": "indian",
+      "names": [
+        "Oudh 1722"
+      ],
+      "quotes": {
+        "Oudh 1722": "Chefs review Aktar Islam's new London restaurant"
+      },
+      "recorded": "2026-08-30"
     }
   ],
   "recorded": "2026-08-25"

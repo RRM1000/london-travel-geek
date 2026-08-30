@@ -1032,6 +1032,42 @@
     "britishindiangoodfoodguide.com": {
       "name": "British Indian Good Food Guide",
       "tier": "A"
+    },
+    "youtube.com/@Traveler": {
+      "name": "Condé Nast Traveler (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@Boopfoodie": {
+      "name": "BoopFoodie (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@jacksdiningroom": {
+      "name": "Jack's Dining Room (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@topjaw": {
+      "name": "TOPJAW (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@FoodwithChetna": {
+      "name": "Food with Chetna (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@GaryEats": {
+      "name": "Gary Eats (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@Thestaffcanteen": {
+      "name": "The Staff Canteen (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@InsiderFood": {
+      "name": "Insider Food (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@UgoArinzeh": {
+      "name": "Ugo Arinzeh (YouTube)",
+      "tier": "D"
     }
   }
 }

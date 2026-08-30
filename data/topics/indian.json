@@ -2,9 +2,8 @@
   "topic": "indian",
   "article": "src/content/articles/best-indian-restaurants-london.md",
   "headTerm": "Indian Restaurants",
-  "status": "config written 2026-08-30, NOT yet collected against - see cleanupRequired",
+  "status": "cleaned and re-sourced 2026-08-30; video tier collected; community tier still missing",
   "note": "Copied from pizza.json. Indian already has 14 recorded sources from the 2026-08-25 pass, but the corpus needs cleaning before an article can be written from it. See cleanupRequired.",
-
   "awardBodies": [
     {
       "name": "The Good Food Guide",
@@ -35,54 +34,143 @@
       "note": "SYNDICATION. Currently recorded via a Time Out news article reporting the 2024 awards, which files a judged ranking under Time Out's own masthead and destroys the tier-A signal. Find the awards body's own site and re-attribute."
     }
   ],
-
   "editorialLists": [
-    { "name": "Olive Magazine", "domain": "olivemagazine.com", "tier": "B", "ranked": false },
-    { "name": "The Infatuation", "domain": "theinfatuation.com", "tier": "B", "ranked": false },
-    { "name": "Time Out", "domain": "timeout.com", "tier": "B", "ranked": "check", "note": "Two timeout.com URLs are recorded - the London Indian guide and the British Indian Good Food Guide news piece. Same masthead, one domain, one opinion. Correct as counted, but the award needs re-attributing away from it." },
-    { "name": "Eater London", "domain": "london.eater.com", "tier": "B", "ranked": false },
-    { "name": "SquareMeal", "domain": "squaremeal.co.uk", "tier": "B", "ranked": false },
-    { "name": "NationalWorld", "domain": "nationalworld.com", "tier": "B", "note": "NATIONAL list of 72 Asian Curry Awards winners - mostly not London. 57 names recorded, and the page's own navigation ('Useful links', 'Explore', 'Sport') was scraped as venues." },
-    { "name": "Kilburn Times", "domain": "kilburntimes.co.uk", "tier": "B", "note": "Same problem - nav scraped as venue names." },
-    { "name": "Curry Life", "domain": "currylife.uk", "tier": "C", "note": "68 names, national scope, 'Britain's best curry houses'. Heavy non-London contamination." },
-    { "name": "Balance Journal", "domain": "balancejournal.co", "tier": "C", "ranked": false },
-    { "name": "The Nudge", "domain": "thenudge.com", "tier": "C", "note": "0 names extracted - the fetch produced nothing. Re-collect or drop." }
+    {
+      "name": "Olive Magazine",
+      "domain": "olivemagazine.com",
+      "tier": "B",
+      "ranked": false
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "tier": "B",
+      "ranked": false
+    },
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "tier": "B",
+      "ranked": "check",
+      "note": "Two timeout.com URLs are recorded - the London Indian guide and the British Indian Good Food Guide news piece. Same masthead, one domain, one opinion. Correct as counted, but the award needs re-attributing away from it."
+    },
+    {
+      "name": "Eater London",
+      "domain": "london.eater.com",
+      "tier": "B",
+      "ranked": false
+    },
+    {
+      "name": "SquareMeal",
+      "domain": "squaremeal.co.uk",
+      "tier": "B",
+      "ranked": false
+    },
+    {
+      "name": "NationalWorld",
+      "domain": "nationalworld.com",
+      "tier": "B",
+      "note": "NATIONAL list of 72 Asian Curry Awards winners - mostly not London. 57 names recorded, and the page's own navigation ('Useful links', 'Explore', 'Sport') was scraped as venues."
+    },
+    {
+      "name": "Kilburn Times",
+      "domain": "kilburntimes.co.uk",
+      "tier": "B",
+      "note": "Same problem - nav scraped as venue names."
+    },
+    {
+      "name": "Curry Life",
+      "domain": "currylife.uk",
+      "tier": "C",
+      "note": "68 names, national scope, 'Britain's best curry houses'. Heavy non-London contamination."
+    },
+    {
+      "name": "Balance Journal",
+      "domain": "balancejournal.co",
+      "tier": "C",
+      "ranked": false
+    },
+    {
+      "name": "The Nudge",
+      "domain": "thenudge.com",
+      "tier": "C",
+      "note": "0 names extracted - the fetch produced nothing. Re-collect or drop."
+    }
   ],
-
   "facetAxis": {
     "note": "Indian is two-dimensional, unlike pizza. A venue has a region AND a format, and the guide needs both axes - a Keralan cafe and a Keralan tasting menu are not substitutes for each other.",
     "axes": [
       {
         "field": "region",
         "values": [
-          { "key": "punjabi", "label": "Punjabi and North Indian" },
-          { "key": "south-indian", "label": "South Indian", "describeAs": "dosa, idli, rice and coconut rather than wheat and cream" },
-          { "key": "keralan", "label": "Keralan" },
-          { "key": "goan", "label": "Goan" },
-          { "key": "bengali", "label": "Bengali and Bangladeshi" },
-          { "key": "pakistani", "label": "Pakistani", "note": "Has its own topic and its own consensus file. Do not absorb it here." },
-          { "key": "sri-lankan", "label": "Sri Lankan" },
-          { "key": "pan-indian", "label": "Pan-Indian and modern" }
+          {
+            "key": "punjabi",
+            "label": "Punjabi and North Indian"
+          },
+          {
+            "key": "south-indian",
+            "label": "South Indian",
+            "describeAs": "dosa, idli, rice and coconut rather than wheat and cream"
+          },
+          {
+            "key": "keralan",
+            "label": "Keralan"
+          },
+          {
+            "key": "goan",
+            "label": "Goan"
+          },
+          {
+            "key": "bengali",
+            "label": "Bengali and Bangladeshi"
+          },
+          {
+            "key": "pakistani",
+            "label": "Pakistani",
+            "note": "Has its own topic and its own consensus file. Do not absorb it here."
+          },
+          {
+            "key": "sri-lankan",
+            "label": "Sri Lankan"
+          },
+          {
+            "key": "pan-indian",
+            "label": "Pan-Indian and modern"
+          }
         ]
       },
       {
         "field": "format",
         "values": [
-          { "key": "curry-house", "label": "Curry house", "describeAs": "the neighbourhood institution, often decades old" },
-          { "key": "dining-room", "label": "Modern dining room" },
-          { "key": "tasting-menu", "label": "Tasting menu" },
-          { "key": "cafe", "label": "Cafe and canteen" },
-          { "key": "street-food", "label": "Street food and market stall" }
+          {
+            "key": "curry-house",
+            "label": "Curry house",
+            "describeAs": "the neighbourhood institution, often decades old"
+          },
+          {
+            "key": "dining-room",
+            "label": "Modern dining room"
+          },
+          {
+            "key": "tasting-menu",
+            "label": "Tasting menu"
+          },
+          {
+            "key": "cafe",
+            "label": "Cafe and canteen"
+          },
+          {
+            "key": "street-food",
+            "label": "Street food and market stall"
+          }
         ]
       }
     ]
   },
-
   "formatSection": {
     "title": "Curry house or dining room",
     "note": "The genuine split a reader needs and most guides blur: a 1970s Tooting curry house and a Mayfair tasting menu both get called 'best Indian' and are not the same trip. State which one each entry is."
   },
-
   "cleanupRequired": [
     "55 award-category strings are recorded as venue names, from the Asian Curry Awards and Curry Life scrapes - 'Asian Restaurant of The Year (West Midlands): Ramadan', 'Takeaway of The Year (Wales'. Extract the venue, drop the category.",
     "10 site-chrome names, three of which clear the 2-source bar and would rank in the top 12: 'Useful links' (5 sources), 'Explore' (4), 'Sport' (4). Add to data/name-noise.json siteChrome.",
@@ -91,18 +179,18 @@
     "Michelin is blocked to the fetcher and only 2 names were captured. Use the Wikipedia substitute already recorded in data/sources.json.",
     "The British Indian Good Food Guide award is filed under timeout.com. Re-attribute to the awarding body."
   ],
-
   "knownGaps": [
-    "ZERO tier-D and ZERO tier-E. All 14 sources are A/B/C - the exact opposite of the pizza corpus, which finished 64% video with no Reddit. Indian has no video and no community at all.",
-    "Headline figures are inflated by the junk above: 53 venues appear to clear the 2-source bar, but only 50 do once chrome and award-category strings are excluded."
+    "Community tier (E) is still EMPTY. Two Apify Reddit runs on 2026-08-30 returned nothing usable - the first was not scoped to a subreddit and matched globally viral posts, the second was scoped to r/london but the search terms did not bind and returned meetup and supermarket threads. About $0.95 spent for zero citations. Reddit is also blocked to curl (returns HTML) and to the browser pane by policy. Needs a different approach before it is retried.",
+    "Video tier collected 2026-08-30 via Apify: 11 channels, 48 names, ~$0.10. Two channels named nothing extractable (@RestroSpot, @BBinLondon) and are not recorded; @bonappetit is New York."
   ],
-
   "currentState": {
-    "recorded": "2026-08-25",
-    "sources": 14,
-    "citations": 334,
-    "namesInCorpus": 262,
-    "cleanNamesAtTwoPlusSources": 50,
+    "recorded": "2026-08-30",
+    "sources": 23,
+    "citations": 253,
+    "namesInCorpus": 120,
+    "twoPlusDomains": 45,
+    "tierA": 51,
+    "meetingTheBar": 37,
     "sheetRows": 45,
     "articleExists": true
   }
