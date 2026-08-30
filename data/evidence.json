@@ -78200,27 +78200,27 @@
       }
     ]
   },
-  "trattoriabrutto": {
-    "name": "Trattoria Brutto",
+  "brutto": {
+    "name": "Brutto",
     "topics": [
       "general",
       "italian",
       "steak"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 5,
+    "tierSpread": "B4 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
         "tierCount": 2,
         "hasAward": false
       },
@@ -78238,9 +78238,24 @@
         "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london"
       },
       {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-italian-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-italian-restaurants-london"
+      },
+      {
         "tier": "C",
         "source": "The Nudge",
-        "url": "https://thenudge.com/features/londons-best-fresh-pasta-joints/"
+        "url": "https://thenudge.com/bib-gourmands-in-london/"
       }
     ]
   },
@@ -84210,53 +84225,6 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      }
-    ]
-  },
-  "brutto": {
-    "name": "Brutto",
-    "topics": [
-      "general",
-      "italian"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B3 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-italian-restaurants"
-      },
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-italian-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/bib-gourmands-in-london/"
       }
     ]
   },
@@ -99513,20 +99481,20 @@
       }
     ]
   },
-  "campania": {
-    "name": "Campania",
+  "campaniaandjones": {
+    "name": "Campania & Jones",
     "topics": [
       "italian"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "italian": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -99540,6 +99508,16 @@
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/best-pasta-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/features/londons-best-fresh-pasta-joints/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-italian-restaurants-london"
       }
     ]
   },
@@ -100413,36 +100391,6 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/features/londons-best-fresh-pasta-joints/"
-      }
-    ]
-  },
-  "campaniaandjones": {
-    "name": "Campania and Jones",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/londons-best-fresh-pasta-joints/"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-italian-restaurants-london"
       }
     ]
   },
