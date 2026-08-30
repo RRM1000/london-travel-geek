@@ -33,8 +33,10 @@ Central London has caught up in the last few years, and one Hackney kitchen was 
 
 > 💡 **The Short Version:** **Jin Go Gae** in New Malden uses real charcoal, which is why purists go. **Imone** is the home cooking everyone sends you to. **You Me** has been there since 1988. **Chick and Beers** does the fried chicken. **Seoul Bakery** in Bloomsbury is the cheap central one, and **Mukbap** is London's first fully vegan Korean kitchen.
 
-> 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. New Malden is Zone 4 and outside our usual central focus — included because it is genuinely where the food is.
+> 📊 **The evidence behind this guide**
+> Nothing here is ranked on one visit. This pass reads **10 sources carrying 132 citations** across **84 named restaurants** — the Michelin Guide, the editorial mastheads (Time Out, The Infatuation, Eater) and six specialists. **18 restaurants are named by two or more independent sources; 2 hold a Michelin star.**
+> **The known weakness in this topic:** the two starred restaurants are not the ones anyone writes about. Sollip in Southwark and Somssi in Westminster hold the only judged recognition in Korean food in London, and between them they are named by three sources here — while Imone, Jin Go Gae and Chick and Beers, all in New Malden, are named by four each and have been judged by nobody. The corpus also has a geography: nearly half of it is one high street thirty minutes from Waterloo.
+> *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
 
@@ -60,15 +62,20 @@ The restaurants run along **three streets** rather than one: New Malden High Str
 
 ### Jin Go Gae, Burlington Road
 
-*£££ · charcoal, not gas*
+*£££ · charcoal, not gas* · Cited by 4 sources
 
 **Real charcoal rather than gas**, which is why it is the purist's choice in a town full of Korean grills. The smoke is the difference and you will taste it. Clay-pot stews alongside the table grill.
 
 Named after the Seoul district where the founder met his wife.
 
+
+![The frontage of a Korean restaurant on a New Malden street](../../assets/articles/best-korean-restaurants-london/korean-restaurant-new-malden.jpg)
+
+*New Malden has one of the largest Korean communities in Europe, and its high street reflects it. Photo: [sludgegulper](https://commons.wikimedia.org/wiki/File:Korean_Restaurant,_New_Malden_KT3.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### Imone, New Malden High Street
 
-*££ · family-run*
+*££ · family-run* · Cited by 4 sources
 
 The one everybody sends you to. **Korean home cooking** rather than barbecue — stone-bowl bibimbap, yangnyum dak — in a small family room whose name means "aunt's place", which is roughly the register of the food.
 
@@ -78,7 +85,7 @@ It made **Time Out's top twenty London restaurants in 2024**, which for a suburb
 
 ### You Me, Burlington Road
 
-*££ · trading since 1988*
+*££ · trading since 1988* · named by no source in this corpus
 
 **New Malden's first Korean restaurant**, and it celebrated its 35th year in 2023 — the room the rest of the town grew up around.
 
@@ -86,13 +93,13 @@ Handmade **jajangmyeon**, the thick black bean noodles, plus fried mandu and bib
 
 ### Cah Chi, Kingston Road
 
-*££ · long-standing local favourite*
+*££ · long-standing local favourite* · Cited by 2 sources
 
 The **beef LA galbi** — short rib cut across the bone — is the order, alongside the traditional stews. One of the longest-running rooms in the town and still where local families eat.
 
 ### Seoul Matjib, Burlington Road
 
-*££ · drinking food*
+*££ · drinking food* · Cited by 2 sources
 
 Built around **anju**: the dishes Koreans eat *with* soju rather than instead of it. Bossam, gamjatang pork-bone soup, and jumbo buckwheat noodles.
 
@@ -100,7 +107,7 @@ It stocks things genuinely hard to find anywhere else in London, and it is the m
 
 ### Chick and Beers, Burlington Road
 
-*£ · Korean fried chicken*
+*£ · Korean fried chicken* · Cited by 4 sources
 
 **Double-fried Korean fried chicken**, family-owned, routinely called the best in London. Order half-and-half so you get both the plain and the honey garlic soy glaze.
 
@@ -108,7 +115,7 @@ Two New Malden branches. Not to be confused with **CheeMc**, a completely separa
 
 ### Tongdak, Kingston Road
 
-*£ · fried chicken*
+*£ · fried chicken* · Cited by 1 source
 
 The other New Malden fried chicken specialist, and the crunch is the whole argument. There is a Wimbledon branch too.
 
@@ -116,21 +123,25 @@ The other New Malden fried chicken specialist, and the crunch is the whole argum
 
 ## Central
 
+![HanJan, a Korean restaurant in New Malden](../../assets/articles/best-korean-restaurants-london/hanjan-new-malden.jpg)
+
+*Burlington Road and the High Street carry most of it — the train from Waterloo takes about half an hour. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:HanJan,_New_Malden,_KT3.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 ### Olle, Soho
 
-*£££ · 3 min from Leicester Square*
+*£££ · 3 min from Leicester Square* · Cited by 3 sources
 
 **Table grills in the middle of Soho** — the New Malden format without the forty-minute train.
 
 ### Pochawa Grill, Chinatown
 
-*£££ · 3 min from Piccadilly Circus*
+*£££ · 3 min from Piccadilly Circus* · Cited by 2 sources
 
 A **neon-pink Korean pub format** dropped into Chinatown. You grill at the table and the room is built for a group and a lot of soju.
 
 ### Chung'dam, Soho
 
-*££££ · 2 min from Leicester Square*
+*££££ · 2 min from Leicester Square* · Cited by 1 source
 
 Named for Seoul's Cheongdam-dong and priced accordingly. The **three-tiered pyeonbaek steam box** of prawns, scallops and vegetables is the dish it is known for.
 
@@ -140,13 +151,13 @@ Named for Seoul's Cheongdam-dong and priced accordingly. The **three-tiered pyeo
 
 ### Miga, Hackney
 
-*£££ · 4 min from Cambridge Heath*
+*£££ · 4 min from Cambridge Heath* · Cited by 1 source
 
 A family-run kitchen that **moved from New Malden to Hackney in 2024 and was named Time Out's best restaurant in London**. The yughwe beef tartare is the dish.
 
 ### Sagye, Canary Wharf
 
-*£££ · 13 min from Mudchute*
+*£££ · 13 min from Mudchute* · named by no source in this corpus
 
 The warmer, slower side of Canary Wharf — **kimchi jjigae portioned out between bowls** for a big table.
 
@@ -154,15 +165,19 @@ The warmer, slower side of Canary Wharf — **kimchi jjigae portioned out betwee
 
 ### Seoul Bakery, Bloomsbury
 
-*£ · 14 Great Russell Street · cash-friendly*
+*£ · 14 Great Russell Street · cash-friendly* · Cited by 2 sources
 
 Tiny, graffiti-covered, plastered in K-pop memorabilia, and **the cheapest proper Korean food in central London**. Kimchi fried rice and seafood pancake, family-run for about nineteen years, with a cult student following from the university buildings around it.
 
 It moved here from St Giles High Street when Crossrail demolished the old Koreatown — several guides still print the dead address.
 
+![A dolsot bibimbap in a hot stone bowl](../../assets/articles/best-korean-restaurants-london/bibimbap-soho.jpg)
+
+*Dolsot bibimbap, served in the stone bowl that keeps crisping the rice at the bottom while you eat. Photo: [Andy Li](https://commons.wikimedia.org/wiki/File:Dol_sot_bibimbap_with_white_rice_-_Bibimbap_Soho_2025-09-18.jpg), CC0.*
+
 ### Mukbap, Shoreditch
 
-*££ · 91 Worship Street · walk-in only*
+*££ · 91 Worship Street · walk-in only* · Cited by 2 sources
 
 **London's first fully vegan Korean restaurant**, which is a genuinely unusual proposition given how much Korean cooking rests on fish sauce and pork.
 
@@ -170,13 +185,13 @@ Plant-based bibimbap, kimbap, tteokbokki, japchae and kimchi pancake. Small, and
 
 ### Dotori, Finsbury Park
 
-*£ · 3 Stroud Green Road · cash only · walk-in only*
+*£ · 3 Stroud Green Road · cash only · walk-in only* · Cited by 2 sources
 
 Tiny, permanently queued, one minute from Finsbury Park station, and **cash only** — which between them tell you most of what you need to know. Korean and Japanese side by side, and the bibimbap is what to order.
 
 ### Assa, Soho
 
-*££ · 23 Romilly Street*
+*££ · 23 Romilly Street* · Cited by 2 sources
 
 Hotpots and barbecue, and one of the survivors of the **demolished St Giles Koreatown** — it relocated to Romilly Street when Crossrail took the old block. The lunchtime sets are the value.
 

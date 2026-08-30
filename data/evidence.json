@@ -2382,8 +2382,8 @@
       "late-night",
       "thai"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B2 C3",
+    "sourceCount": 6,
+    "tierSpread": "B2 C4",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -2400,8 +2400,8 @@
         "hasAward": false
       },
       "thai": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
         "tierCount": 2,
         "hasAward": false
       }
@@ -2431,6 +2431,11 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-thai-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "World of Mouth",
+        "url": "https://www.worldofmouth.app/articles/best-thai-restaurants-in-london"
       }
     ]
   },
@@ -96783,19 +96788,19 @@
       }
     ]
   },
-  "cheemcsoho": {
-    "name": "CheeMc Soho",
+  "cheemc": {
+    "name": "Cheemc",
     "topics": [
       "korean"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "korean": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
         "tierCount": 2,
         "hasAward": false
       }
@@ -96805,6 +96810,16 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/cuisines/korean"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/the-best-korean-fried-chicken-london"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/korean-restaurants/"
       },
       {
         "tier": "C",
@@ -97045,41 +97060,6 @@
         "tier": "C",
         "source": "Secret London",
         "url": "https://secretldn.com/korean-restaurants-london/"
-      }
-    ]
-  },
-  "cheemc": {
-    "name": "Cheemc",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 3,
-        "tierSpread": "B1 C2",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/the-best-korean-fried-chicken-london"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/korean-restaurants/"
-      },
-      {
-        "tier": "C",
-        "source": "London Best",
-        "url": "https://londonbest.uk/korean-fried-chicken/"
       }
     ]
   },
@@ -125640,81 +125620,6 @@
   },
   "salutationandthairestaurant": {
     "name": "The Salutation & Thai Restaurant",
-    "topics": [
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "World of Mouth",
-        "url": "https://www.worldofmouth.app/articles/best-thai-restaurants-in-london"
-      }
-    ]
-  },
-  "smokinggoatshoreditch": {
-    "name": "Smoking Goat Shoreditch",
-    "topics": [
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "World of Mouth",
-        "url": "https://www.worldofmouth.app/articles/best-thai-restaurants-in-london"
-      }
-    ]
-  },
-  "meetmoreexperts": {
-    "name": "Meet more experts",
-    "topics": [
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "World of Mouth",
-        "url": "https://www.worldofmouth.app/articles/best-thai-restaurants-in-london"
-      }
-    ]
-  },
-  "discovermore": {
-    "name": "Discover more",
     "topics": [
       "thai"
     ],

@@ -140,10 +140,9 @@
         "The Salutation & Thai Restaurant",
         "Smoking Goat Shoreditch",
         "Plaza Khao Gaeng",
-        "The Begging Bowl",
-        "Meet more experts",
-        "Discover more"
-      ]
+        "The Begging Bowl"
+      ],
+      "note": "London-scoped despite the audit flagging the title - the page is /articles/best-thai-restaurants-in-london. Two footer links removed 2026-08-30."
     },
     {
       "name": "Hot Dinners (Test Drive: Singburi 2.0)",

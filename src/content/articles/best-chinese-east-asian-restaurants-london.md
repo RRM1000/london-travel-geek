@@ -35,7 +35,7 @@ So this guide keeps them apart, and counts each against its own sources rather t
 > 💡 **The Short Version:** **A. Wong** is the only Chinese restaurant in London with a Michelin star, and it has two. **Tao Tao Ju**, **Plum Valley**, **Four Seasons**, **Murger Han** and **Etles** are the most-cited after it. **Kiln** and **AngloThai** lead the Thai list. **Jin Go Gae** and **Imone** lead the Korean one. And **Xi'an Impression** does the best £5 in London.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This page reads three separate corpora, because these are three separate cuisines: **Chinese — 13 sources, 206 citations across 112 restaurants, 46 named twice or more**; **Thai — 13 sources, 130 citations across 68 restaurants, 18 named twice or more**; **Korean — 10 sources, 132 citations across 85 restaurants, 19 named twice or more**. Every count printed below comes from the venue's own cuisine, never from another.
+> Nothing here is ranked on one visit. This page reads three separate corpora, because these are three separate cuisines: **Chinese — 13 sources, 206 citations across 112 restaurants, 46 named twice or more**; **Thai — 13 sources, 128 citations across 65 restaurants, 18 named twice or more**; **Korean — 10 sources, 132 citations across 84 restaurants, 18 named twice or more**. Every count printed below comes from the venue's own cuisine, never from another.
 > **The known weakness in this topic:** almost no judged evidence, and very few independent voices. Across all three cuisines, **four restaurants hold a Michelin star and nothing else here has been judged by anybody**. The Chinese corpus in particular is thirteen source records but only **seven independent publications** — Time Out, The Infatuation and SquareMeal each publish several London Chinese guides, and they count once each. There is no Good Food Guide selection for Chinese food, no equivalent of the Asian Curry Awards, and no usable video tier: of twenty-two London Chinatown videos checked, not one carried chapter markers naming the restaurants.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
@@ -281,7 +281,7 @@ Southern Thai charcoal grilling from the Kiln team, and the most-cited of their 
 
 ### Smoking Goat, Shoreditch
 
-*£££ · Cited by 3 Thai sources*
+*£££ · Cited by 4 Thai sources*
 
 Thai drinking food in a room that behaves like a bar. Same team again, different tradition.
 

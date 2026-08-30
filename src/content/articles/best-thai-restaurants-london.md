@@ -35,8 +35,10 @@ So this guide is arranged by **what each kitchen actually cooks**. The best of i
 
 > 💡 **The Short Version:** **AngloThai** is the only Michelin-starred Thai restaurant in the UK. **Kiln** in Soho is the best counter cooking — sit at the bar. **Singburi** moved to Shoreditch in 2025 and is the one people argue about. **Esarn Kheaw** has cooked Isaan on the Uxbridge Road since 1992. And **Plaza Khao Gaeng** does Southern curry-over-rice at three sites now.
 
-> 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Where a kitchen cooks a specific regional tradition rather than a general menu, we say which - and where it does not, we say that too.
+> 📊 **The evidence behind this guide**
+> Nothing here is ranked on one visit. This pass reads **13 sources carrying 128 citations** across **65 named restaurants** — the Michelin Guide, the editorial mastheads (Time Out, The Infatuation) and ten specialists. **18 restaurants are named by two or more independent sources; 1 holds a Michelin star.**
+> **The known weakness in this topic:** thirteen records but ten publications, and Time Out alone accounts for three of them. One Michelin star, AngloThai, and nothing else judged. What the corpus does agree on is unusually strong for a topic this size — Singburi is named by seven independent sources, which is more than the most-cited restaurant in half the guides on this site.
+> *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
 
@@ -64,7 +66,7 @@ Sour, salty and hot, from the region bordering Laos. Som tam papaya salad, larb,
 
 ### Esarn Kheaw, Shepherd's Bush
 
-*££ · 314 Uxbridge Road · evenings only*
+*££ · 314 Uxbridge Road · evenings only* · Cited by 2 sources
 
 **The original, and still the purest.** Opened in **1992** and billing itself as London's first Isaan restaurant, still run by the Puntar family, cooking dishes from Ubon in the far north-east after thirty-four years.
 
@@ -74,7 +76,7 @@ Som tam with sticky rice is the thing to order, and the son-in-law eggs after it
 
 ### Som Saa, Spitalfields
 
-*£££ · 43a Commercial Street · book ahead*
+*£££ · 43a Commercial Street · book ahead* · Cited by 5 sources
 
 **The technical one.** Andy Oliver and Mark Dobbie both trained under David Thompson at Nahm, and Som Saa is where modern regional Thai cooking in London really starts — most of the chefs on this page trace back to it or to Kiln.
 
@@ -88,7 +90,7 @@ The **deep-fried whole seabass** with herbs has survived every menu change since
 
 ### Khun Pakin Thai, Hammersmith
 
-*££ · inside The Salutation, 154 King Street*
+*££ · inside The Salutation, 154 King Street* · Cited by 2 sources
 
 **The best example of London's Thai-pub genre**, in a King Street pub whose building dates to 1750.
 
@@ -96,7 +98,7 @@ The distinction that matters: this is genuinely raw and fermented Isaan rather t
 
 ### 101 Thai Kitchen, Hammersmith
 
-*££ · 352 King Street · closed Mondays*
+*££ · 352 King Street · closed Mondays* · Cited by 2 sources
 
 A King Street veteran that has specialised in Isaan longer than almost anyone, and **cooks Southern alongside it** — two regions in one kitchen, which is unusual.
 
@@ -110,7 +112,7 @@ Richer and hotter than the north-east, with more coconut, turmeric and seafood, 
 
 ### Plaza Khao Gaeng
 
-*££ · Centre Point, Borough Yards and Covent Garden*
+*££ · Centre Point, Borough Yards and Covent Garden* · Cited by 5 sources
 
 **The most doctrinaire Southern kitchen in London**, and the format is the point: a *raan khao gaeng*, a curry-over-rice shop, where you choose from what is already cooked rather than ordering à la carte.
 
@@ -118,7 +120,7 @@ Southern Thailand's coast-to-jungle cooking, and a **Michelin Bib Gourmand for 2
 
 ### Singburi, Shoreditch
 
-*££ · Unit 7, Montacute Yards · walk-ins welcome · closed Mondays*
+*££ · Unit 7, Montacute Yards · walk-ins welcome · closed Mondays* · Cited by 7 sources
 
 **The most argued-about Thai restaurant in London.** It spent years as a cult address in Leytonstone before moving to a Shoreditch railway arch in 2025, with second-generation chef Sirichai Kularbwong formally taking over from his retiring parents, joined by Nick Molyviatis from Kiln and Alexander Gkikas.
 
@@ -130,7 +132,7 @@ A **Bib Gourmand for 2026**, and it takes walk-ins, which most restaurants of th
 
 ### Flavour Hubb, Wimbledon
 
-*££ · inside Wimbledon Racquets and Fitness Club*
+*££ · inside Wimbledon Racquets and Fitness Club* · Cited by 2 sources
 
 **Southern Thai cooked inside a badminton club**, which is exactly the sort of thing a guide exists to find.
 
@@ -144,7 +146,7 @@ The group of restaurants that made Thai food fashionable in London, all built ar
 
 ### Kiln, Soho
 
-*£££ · 3 min from Piccadilly Circus · counter is walk-in*
+*£££ · 3 min from Piccadilly Circus · counter is walk-in* · Cited by 5 sources
 
 Everything comes off **wood and charcoal along a single counter**, and the counter seats are the entire point — they are walk-in while the tables take bookings.
 
@@ -152,7 +154,7 @@ The short rib curry is the order. The best Thai cooking in central London, and o
 
 ### Smoking Goat, Shoreditch
 
-*£££ · 1 min from Shoreditch High Street*
+*£££ · 1 min from Shoreditch High Street* · Cited by 4 sources
 
 Kiln's sibling, doing **Thai drinking food and live-fire cooking** in a room that behaves like a bar. Later and louder, and the better choice if you want to stay a while.
 
@@ -162,13 +164,13 @@ Kiln's sibling, doing **Thai drinking food and live-fire cooking** in a room tha
 
 ### Kolae, Borough
 
-*£££ · 3 min from London Bridge*
+*£££ · 3 min from London Bridge* · Cited by 4 sources
 
 **Southern Thai grilling** from the same team — charcoal and coconut, and a different regional tradition again from either of its siblings. The name is a Southern grilling style, not a place.
 
 ### Speedboat Bar, Chinatown
 
-*££ · pool tables*
+*££ · pool tables* · Cited by 4 sources
 
 Built to feel like a **late-night Bangkok Chinatown canteen**, pool tables and all, and the cooking is good enough that the theming turns out to be beside the point. Cheaper than the room suggests.
 
@@ -178,7 +180,7 @@ Built to feel like a **late-night Bangkok Chinatown canteen**, pool tables and a
 
 ### AngloThai, Marylebone
 
-*££££ · 22 Seymour Place · tasting menus · book well ahead*
+*££££ · 22 Seymour Place · tasting menus · book well ahead* · Cited by 6 sources
 
 **The only Michelin-starred Thai restaurant in the UK**, and John Chantarasak won it within three months of opening — the star arrived in the 2025 Great Britain and Ireland guide and it has held it since.
 
@@ -192,7 +194,7 @@ Lunch, weekend and dinner tasting menus. Book well ahead.
 
 ### Kruk, Peckham
 
-*££ · 213 Blenheim Grove · closed Mondays and Tuesdays*
+*££ · 213 Blenheim Grove · closed Mondays and Tuesdays* · Cited by 3 sources
 
 The interesting thing about Kruk is that it **refuses to pick a region**. Khao soi from the north, moo hong from Phuket in the south, som tam from Isaan and a red jungle curry from the centre, all on one short menu — by design rather than by dilution.
 
@@ -200,31 +202,31 @@ Rob Willcox and Josh Lyons met at Farang and opened in **August 2025** in the Pe
 
 ### Khao So-i, Fitzrovia
 
-*£££ · 9 Market Place*
+*£££ · 9 Market Place* · Cited by 3 sources
 
 Named for the **northern Thai coconut curry noodle** it is built around — Chiang Mai's signature dish, and one London had almost no version of until recently. The first site outside Thailand, opened late 2025.
 
 ### Farang, Highbury
 
-*£££ · 11 min from Arsenal*
+*£££ · 11 min from Arsenal* · Cited by 5 sources
 
 Modern Thai with none of the timidity a neighbourhood address usually brings, and a kitchen that has now produced chefs for other restaurants on this page.
 
 ### The Begging Bowl, Peckham
 
-*£££ · 168 Bellenden Road*
+*£££ · 168 Bellenden Road* · Cited by 5 sources
 
 Thai street-food cooking in small plates meant to be ordered across the table rather than a dish each. It has anchored the Bellenden Road end of Peckham for years.
 
 ### Chet's, Shepherd's Bush
 
-*£££ · an American diner*
+*£££ · an American diner* · Cited by 1 source
 
 Thai flavours through the lens of an LA diner — the bar snacks and the drinks are as much of the draw as the food, and it is the least traditional thing here by some distance.
 
 ### Nipa Thai, Bayswater
 
-*£££ · 1 min from Lancaster Gate*
+*£££ · 1 min from Lancaster Gate* · Cited by 2 sources
 
 Plush, traditional, and among the first Thai dining rooms in London to charge what the French and Italian rooms were charging. Still doing it.
 
@@ -234,7 +236,7 @@ Plush, traditional, and among the first Thai dining rooms in London to charge wh
 
 ### Paolina, King's Cross
 
-*£ · 181 King's Cross Road · from £5.95 · BYO · closed Sundays*
+*£ · 181 King's Cross Road · from £5.95 · BYO · closed Sundays* · Cited by 2 sources
 
 **Dishes from £5.95**, bring your own bottle, family-run, and no regional pretensions whatsoever — central Thai canteen classics done properly and cheaply. The counterweight to everything else on this page.
 

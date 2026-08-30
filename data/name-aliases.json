@@ -225,7 +225,14 @@
     "Badiani 1932": "Badiani",
     "Marcelo's": "Marcelo's Ice Cream",
     "Rasa South Indian Vegetarian Restaurant": "Rasa",
-    "Govinda's Pure Vegetarian Restaurant": "Govinda's"
+    "Govinda's Pure Vegetarian Restaurant": "Govinda's",
+    "CheeMc Soho": "Cheemc",
+    "CheeMc": "Cheemc",
+    "Smoking Goat Shoreditch": "Smoking Goat",
+    "Khao So-i": "Khao‑Sō‑I",
+    "Khao Soi": "Khao‑Sō‑I",
+    "Paolina": "Paolina Thai Cuisine",
+    "Chick and Beers": "Chick And Beers"
   },
   "whyCrispIsOneVenue": "The Infatuation's #1 is 'Crisp Pizza W6 at The Chancellors' in Hammersmith; Time Out and Country & Town House name the Mayfair site. Those are two pubs, but one brand: the Restaurants v2 row is already chainType 'mini-chain' with ownerGroup 'Devonshire / Crisp group', and its Why Go says Crisp was 'previously only in Hammersmith, brought into central London'. The sheet counts a mini-chain brand-level - the same treatment Rudy's and Fatto a Mano get - so the citations merge and the two sites are carried as Branches rows instead. Verified 2026-08-30: The Chancellors is 25 Crisp Road, Hammersmith W6 9RL.",
   "deliberatelyNotAliased": {
