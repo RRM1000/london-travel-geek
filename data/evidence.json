@@ -8776,17 +8776,25 @@
     "name": "Hawksmoor",
     "topics": [
       "activities",
+      "british",
       "general",
-      "steak"
+      "steak",
+      "sunday-roast"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C1 D1",
+    "sourceCount": 7,
+    "tierSpread": "B4 C2 D1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "activities": {
         "sourceCount": 1,
         "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -8797,13 +8805,29 @@
         "hasAward": false
       },
       "steak": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
+        "sourceCount": 5,
+        "tierSpread": "B4 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/perfect-for/sunday-roast"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
+      },
       {
         "tier": "B",
         "source": "Olive Magazine",
@@ -8818,6 +8842,11 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/canary-wharf/"
+      },
+      {
+        "tier": "C",
+        "source": "Walk Eat London",
+        "url": "https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
       },
       {
         "tier": "D",
@@ -27785,48 +27814,6 @@
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
-  "hawksmoorsevendials": {
-    "name": "Hawksmoor Seven Dials",
-    "topics": [
-      "british",
-      "steak"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/perfect-for/sunday-roast"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
-      },
-      {
-        "tier": "C",
-        "source": "Walk Eat London",
-        "url": "https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
       }
     ]
   },
@@ -131734,9 +131721,9 @@
       "steak",
       "turkish"
     ],
-    "sourceCount": 4,
-    "tierSpread": "A1 B2 F1",
-    "tierCount": 3,
+    "sourceCount": 3,
+    "tierSpread": "A1 B2",
+    "tierCount": 2,
     "hasAward": true,
     "byTopic": {
       "seafood": {
@@ -131746,9 +131733,9 @@
         "hasAward": false
       },
       "steak": {
-        "sourceCount": 2,
-        "tierSpread": "B1 F1",
-        "tierCount": 2,
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       },
       "turkish": {
@@ -131773,12 +131760,6 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
-      },
-      {
-        "tier": "F",
-        "source": "The Ned (own site)",
-        "url": "https://www.thened.com/london/restaurants/lutyens-grill",
-        "quote": "44-day-aged rare-breed prime rib carved tableside from the trolley"
       }
     ]
   },
@@ -134034,15 +134015,15 @@
     "topics": [
       "steak"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B4 C1 F1",
-    "tierCount": 3,
+    "sourceCount": 5,
+    "tierSpread": "B4 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "steak": {
-        "sourceCount": 6,
-        "tierSpread": "B4 C1 F1",
-        "tierCount": 3,
+        "sourceCount": 5,
+        "tierSpread": "B4 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -134071,12 +134052,6 @@
         "tier": "C",
         "source": "Walk Eat London",
         "url": "https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
-      },
-      {
-        "tier": "F",
-        "source": "The Guinea Grill (own site)",
-        "url": "https://www.theguinea.co.uk/",
-        "quote": "dry-aged grass-fed English beef from Godfreys of Finsbury Park, grilled since 1952"
       }
     ]
   },
@@ -134215,15 +134190,15 @@
     "topics": [
       "steak"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C1 F1",
-    "tierCount": 3,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "steak": {
-        "sourceCount": 4,
-        "tierSpread": "B2 C1 F1",
-        "tierCount": 3,
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -134242,12 +134217,6 @@
         "tier": "C",
         "source": "Walk Eat London",
         "url": "https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
-      },
-      {
-        "tier": "F",
-        "source": "Goodman (own site)",
-        "url": "https://www.goodmanrestaurants.com/",
-        "quote": "no. 54 on the World's 101 Best Steak Restaurants; Canary Wharf closed June 2025"
       }
     ]
   },
@@ -134886,15 +134855,15 @@
     "topics": [
       "steak"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C1 F1",
-    "tierCount": 3,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "steak": {
-        "sourceCount": 3,
-        "tierSpread": "B1 C1 F1",
-        "tierCount": 3,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -134908,12 +134877,6 @@
         "tier": "C",
         "source": "Walk Eat London",
         "url": "https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
-      },
-      {
-        "tier": "F",
-        "source": "Sagardi (own site)",
-        "url": "http://sagardi.co.uk/",
-        "quote": "txuleton rib steaks from old free-range cows over a centrepiece charcoal Basque grill"
       }
     ]
   },
@@ -135504,31 +135467,6 @@
         "tier": "B",
         "source": "Sphere Magazine",
         "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
-      }
-    ]
-  },
-  "hawksmoorborough": {
-    "name": "Hawksmoor Borough",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-sunday-roasts-london"
       }
     ]
   },

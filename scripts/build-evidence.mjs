@@ -179,10 +179,19 @@ for (const file of topics) {
 }
 
 // Collapse to distinct domains, then score.
+//
+// Tier F is the venue's own website. data/sources.json gives it weight 0 and says
+// it is NEVER counted toward consensus - a venue recommending itself is not
+// evidence - but it was being counted as a domain like any other, so The Guinea
+// Grill read 6 sources when one of them was theguinea.co.uk. F mentions stay in
+// the corpus, because they are what address and price checks are read from; they
+// just do not score.
+const SCORES = (m) => m.tier !== "F";
+
 const out = {};
 for (const [key, rec] of evidence) {
   const byDomain = new Map();
-  for (const m of rec.mentions) if (!byDomain.has(m.domain)) byDomain.set(m.domain, m);
+  for (const m of rec.mentions) if (SCORES(m) && !byDomain.has(m.domain)) byDomain.set(m.domain, m);
   const domains = [...byDomain.values()];
   const tiers = {};
   for (const d of domains) tiers[d.tier] = (tiers[d.tier] ?? 0) + 1;
@@ -196,7 +205,7 @@ for (const [key, rec] of evidence) {
   const byTopic = {};
   for (const t of rec.topics) {
     const dom = new Map();
-    for (const m of rec.mentions) if (m.topic === t && !dom.has(m.domain)) dom.set(m.domain, m);
+    for (const m of rec.mentions) if (m.topic === t && SCORES(m) && !dom.has(m.domain)) dom.set(m.domain, m);
     const ds = [...dom.values()];
     const tt = {};
     for (const d of ds) tt[d.tier] = (tt[d.tier] ?? 0) + 1;
