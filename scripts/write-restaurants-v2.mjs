@@ -14,7 +14,17 @@ import { writeTab, readTab, ensureTab, getSheets, SHEET_ID } from "./sheets.mjs"
 import fs from "node:fs";
 import path from "node:path";
 
+// TODAY is the date a PERSON last verified this data, and it is deliberately
+// frozen: statusChecked and dealChecked claim that someone looked, so they must
+// never advance just because the script ran again. Move it by hand when a
+// verification pass actually happens.
 const TODAY = "2026-08-17";
+
+// RUN_DATE is when the script ran, which is a different question. It is the only
+// honest value for "when did this slug first appear in our data" and for ageing
+// a deal - both were previously stamped with TODAY, so First Seen was a build
+// stamp identical on every row and no deal could ever read as stale.
+const RUN_DATE = new Date().toISOString().slice(0, 10);
 
 // ------------------------------------------------------------- geography ---
 // Zone and District are keyed off Neighbourhood, so a row never carries a
@@ -42,6 +52,8 @@ const HOODS = {
   "Barnes":              { zone: "3",   district: "West" },
   "Camberwell":          { zone: "2",   district: "South" },
   "Chingford":           { zone: "5",   district: "North" },
+  "Victoria Park":       { zone: "2",   district: "East" },
+  "East Finchley":       { zone: "3",   district: "North" },
   "Camden Town":         { zone: "2",   district: "North" },
   "Canary Wharf":        { zone: "2",   district: "East" },
   "Clapton":             { zone: "2",   district: "East" },
@@ -900,10 +912,11 @@ const rows = [
     priceBand: "££",
     whyGo: "Offers four different doughs including a 48-hour and a charcoal base, which makes it the most useful of the group for gluten-sensitive diners.",
     angle: "contrast",
+    signals: "National Pizza Awards 2025 - London shortlist", awardYear: "2025",
     dietary: "Gluten-free base available",
     goodFor: "families, date",
     lists: "best-pizza",
-    source: "Time Out; VisitLondon",
+    source: "Time Out; VisitLondon; National Pizza Awards 2025",
   },
   {
     ...base, slug: "franco-manca", name: "Franco Manca",
@@ -1312,6 +1325,266 @@ const rows = [
     bookingLead: "walk-in",
     lists: "cheap-eats, best-pizza, best-value",
     source: "Harrison Webb (613k views) via video-research - NEEDS VERIFYING",
+  },
+
+  // ----------------------------------------------- pizza evidence pass, 2026-08-30 ---
+  // The 16 pizzerias the citation corpus supported that had no row. Selected by
+  // scripts/build-evidence.mjs, NOT by hand: each clears 2+ domains across 2+
+  // tiers, or carries a tier-A award. The Source Count / Tiers / Links columns
+  // are derived, so nothing below states a source count in prose.
+  //
+  // Addresses and postcodes were resolved venue by venue against the venue's own
+  // site where it has one, and otherwise against OpenStreetMap and the venue's
+  // own listing. Anything that could not be confirmed is left blank rather than
+  // guessed. Verified stays FALSE throughout: none of these has been checked as
+  // currently trading by someone standing outside it.
+  {
+    ...base, slug: "ace-pizza", name: "Ace Pizza",
+    style: "New York/Neapolitan hybrid", specialities: "pizza",
+    venueFormat: "Restaurant", chainType: "independent",
+    hood: "Victoria Park", borough: "Hackney", areaGuide: "",
+    address: "126-128 Lauriston Road, Victoria Park", postcode: "E9 7LH",
+    priceBand: "££",
+    whyGo: "A chewy hybrid base that refuses to pick a side between New York and Naples, on the Victoria Park village strip rather than anywhere you would pass by accident.",
+    angle: "dish",
+    signals: "National Pizza Awards 2025 - Blogger's Choice (Howard Quayle)", awardYear: "2025",
+    goodFor: "groups, families, quick",
+    lists: "best-pizza",
+    source: "National Pizza Awards 2025; Time Out (#5 of 21); address confirmed against OpenStreetMap 2026-08-30",
+  },
+  {
+    ...base, slug: "little-earthquakes", name: "Little Earthquakes",
+    website: "https://littleearthquakes.co.uk/",
+    style: "Deep-dish pizza", specialities: "pizza",
+    venueFormat: "Pub residency", chainType: "independent",
+    venueContext: "The Railway Tavern (pub)",
+    hood: "Stoke Newington", borough: "Hackney", areaGuide: "",
+    address: "The Railway Tavern, 2 St Jude Street, Stoke Newington", postcode: "N16 8JT",
+    priceBand: "££",
+    whyGo: "Neil Rankin of Temper doing deep-dish built on the frozen supermarket pizzas he grew up on - the joke and the cooking are both entirely serious.",
+    angle: "chef",
+    opSummary: "A residency inside the Railway Tavern rather than a restaurant of its own, so the pub's hours govern it. Time Out places it in Dalston; the pub is on the Stoke Newington side of the boundary.",
+    signals: "National Pizza Awards 2025 - London shortlist", awardYear: "2025",
+    goodFor: "groups, date",
+    lists: "best-pizza",
+    source: "National Pizza Awards 2025; Time Out (#18 of 21); SquareMeal for the residency and the chef; pub address via All In London",
+  },
+  {
+    ...base, slug: "bing-bong-pizza", name: "Bing Bong Pizza",
+    style: "Pizza pop-up", specialities: "pizza",
+    venueFormat: "Bar residency", chainType: "independent",
+    venueContext: "You Call The Shots (bar)",
+    hood: "Hackney", borough: "Hackney", areaGuide: "hackney-area-guide",
+    address: "You Call The Shots, 13 Morning Lane, Hackney", postcode: "E9 6ND",
+    priceBand: "££",
+    whyGo: "Second in Britain in 2025, cooked out of a leopard-print bar on Morning Lane rather than a kitchen anyone would design on purpose.",
+    angle: "room",
+    opSummary: "A pop-up inside You Call The Shots, so it keeps the bar's hours rather than a restaurant's. Not a separate address.",
+    signals: "National Pizza Awards 2025 - runner-up", awardYear: "2025",
+    setting: "counter",
+    goodFor: "groups, date",
+    bookingLead: "walk-in",
+    lists: "best-pizza",
+    source: "National Pizza Awards 2025; DesignMyNight for the venue; address confirmed against OpenStreetMap 2026-08-30",
+  },
+  {
+    ...base, slug: "mamma-dough", name: "Mamma Dough",
+    website: "https://mammadough.co.uk/",
+    style: "Sourdough pizza", specialities: "pizza",
+    venueFormat: "Restaurant", chainType: "mini-chain",
+    hood: "Brixton", borough: "Lambeth", areaGuide: "",
+    address: "354 Coldharbour Lane, Brixton", postcode: "SW9 8QH",
+    priceBand: "££",
+    whyGo: "South London's own sourdough chain, and the one whose head pizzaiolo took Pizza Chef of the Year in 2025 - a title that usually goes somewhere far more fashionable.",
+    angle: "value",
+    opSummary: "Three sites: Brixton (Coldharbour Lane), Ladywell and South Norwood. Brixton is the one the guides name.",
+    signals: "National Pizza Awards 2025 - Pizza Chef of the Year (Antonio Raspone)", awardYear: "2025",
+    goodFor: "families, groups",
+    lists: "best-pizza, best-value",
+    source: "National Pizza Awards 2025; branch addresses from mammadough.co.uk",
+  },
+  {
+    ...base, slug: "paulies", name: "Paulie's",
+    website: "https://paulieslondon.com/",
+    style: "New York slice shop", specialities: "pizza",
+    venueFormat: "Counter", chainType: "independent",
+    hood: "Spitalfields", borough: "Tower Hamlets", areaGuide: "",
+    address: "146 Commercial Street, Spitalfields", postcode: "E1 6NU",
+    priceBand: "££",
+    whyGo: "The Paulie's Pie - fennel-seed pepperoni under hot honey - sold by the slice or whole on Commercial Street, with enough room to actually sit down.",
+    angle: "dish",
+    setting: "counter",
+    goodFor: "quick, solo, groups",
+    bookingLead: "walk-in",
+    lists: "best-pizza",
+    source: "The Infatuation (#12 of 12, NYC-style power ranking); Time Out east London crawl; address from paulieslondon.com",
+  },
+  {
+    ...base, slug: "weezies", name: "Weezie's",
+    website: "https://www.weezieslondon.com/",
+    style: "Thin-crust pizza", specialities: "pizza",
+    venueFormat: "Restaurant", chainType: "independent",
+    hood: "Belgravia", borough: "Westminster", areaGuide: "",
+    address: "15 Eccleston Yard, Belgravia", postcode: "SW1W 9AZ",
+    priceBand: "££",
+    whyGo: "Thin crust, British-sourced toppings, pints of Guinness and a serious wine list, in a courtyard five minutes from Victoria - which is not where anyone looks for good pizza.",
+    angle: "room",
+    setting: "courtyard",
+    goodFor: "date, groups",
+    lists: "best-pizza",
+    source: "Country & Town House; address from weezieslondon.com",
+  },
+  {
+    ...base, cuisine: "Modern European", slug: "elliots", name: "Elliot's",
+    website: "https://elliots.london/",
+    style: "Wine bar with a wood-fired pizza", specialities: "pizza, wine-led, small-plates",
+    venueFormat: "Restaurant", chainType: "independent",
+    hood: "Borough", borough: "Southwark", areaGuide: "",
+    address: "12 Stoney Street, Borough Market", postcode: "SE1 9AD",
+    priceBand: "£££",
+    whyGo: "A Borough Market wine bar that is not trying to be a pizzeria and still turns out one of the pizzas people cross London for.",
+    angle: "contrast",
+    opSummary: "Filed under pizza because that is what the pizza lists name it for; the menu is a small-plates and wine list first. Do not send someone here expecting a pizzeria.",
+    goodFor: "date, solo, business",
+    lists: "best-pizza",
+    source: "The Infatuation; @rosielewis_ (8/10); address confirmed against OpenStreetMap 2026-08-30. NOTE elliotscafe.com now redirects to an unrelated business - do not use it as the website.",
+  },
+  {
+    ...base, slug: "florencio", name: "Florencio",
+    website: "https://www.florenciopizza.com/",
+    style: "48-hour fermented dough", specialities: "pizza",
+    venueFormat: "Restaurant", chainType: "independent",
+    hood: "Marylebone", borough: "Westminster", areaGuide: "marylebone-area-guide",
+    address: "14 Seymour Place, Marylebone", postcode: "W1H 7NF",
+    priceBand: "££",
+    whyGo: "A light, thin, crisp base from a 48-hour ferment, on a Seymour Place corner most pizza lists never reach.",
+    angle: "dish",
+    closedDays: "Sunday and Monday",
+    goodFor: "date, solo",
+    lists: "best-pizza",
+    source: "Country & Town House; address and closed days from the venue's own listing, checked 2026-08-30",
+  },
+  {
+    ...base, slug: "laurettas", name: "Lauretta's",
+    style: "Thin, fire-kissed Neapolitan", specialities: "pizza",
+    venueFormat: "Restaurant", chainType: "independent",
+    hood: "Bethnal Green", borough: "Tower Hamlets", areaGuide: "",
+    address: "93 Columbia Road", postcode: "E2 7RG",
+    priceBand: "££",
+    whyGo: "Proudly thin with a puffy charred crust, on Columbia Road - which means Sunday lunch is flower-market chaos and the rest of the week is evenings only.",
+    angle: "access",
+    opSummary: "Closed Mondays; evenings only Tuesday to Friday, and lunch only on Sunday. Web presence is Instagram rather than a site.",
+    closedDays: "Monday",
+    goodFor: "date, solo",
+    lists: "best-pizza",
+    source: "The Infatuation (#5 of 12, NYC-style power ranking); Time Out east London crawl; address and hours from the venue's own listing, checked 2026-08-30",
+  },
+  {
+    ...base, slug: "carmelas-pizzeria", name: "Carmela's Pizzeria",
+    website: "https://linktr.ee/Carmelaspizzeria",
+    style: "Softer New York slice", specialities: "pizza",
+    venueFormat: "Counter", chainType: "independent",
+    hood: "Islington", borough: "Islington", areaGuide: "islington-area-guide",
+    address: "149A Upper Street, Islington", postcode: "N1 1RA",
+    priceBand: "££",
+    whyGo: "A softer, foldable New York slice on Upper Street, where the competition is mostly chains.",
+    angle: "value",
+    setting: "counter",
+    goodFor: "quick, solo",
+    bookingLead: "walk-in",
+    lists: "best-pizza, best-value",
+    source: "Time Out (#12 of 21); The Infatuation (#11 of 12); address confirmed against OpenStreetMap 2026-08-30",
+  },
+  {
+    ...base, slug: "detroit-pizza-london", name: "Detroit Pizza London",
+    website: "https://detroitpizzalondon.com/",
+    style: "Detroit-style pan pizza", specialities: "pizza",
+    venueFormat: "Restaurant", chainType: "independent",
+    hood: "Spitalfields", borough: "Tower Hamlets", areaGuide: "",
+    address: "75 Commercial Street, Spitalfields", postcode: "E1 6BD",
+    priceBand: "££",
+    whyGo: "Baked in blue steel pans so the cheese caramelises against the edge - crunchy corners, cloud-like middle, and almost nobody else in London doing it properly.",
+    angle: "dish",
+    signature: "Detroit-style square with caramelised cheese edges",
+    goodFor: "groups, quick",
+    lists: "best-pizza",
+    source: "The Infatuation; address from detroitpizzalondon.com, cross-checked against OpenStreetMap 2026-08-30",
+  },
+  {
+    ...base, slug: "made-in-italy", name: "Made in Italy",
+    website: "https://www.madeinitalygroup.co.uk/",
+    style: "Neapolitan pizza by the metre", specialities: "pizza",
+    venueFormat: "Restaurant", chainType: "mini-chain",
+    hood: "Chelsea", borough: "Kensington and Chelsea", areaGuide: "chelsea-area-guide",
+    address: "249 King's Road, Chelsea", postcode: "SW3 5AW",
+    priceBand: "££",
+    whyGo: "Sold by the half-metre on a wooden board, on the King's Road since long before London cared about Neapolitan dough.",
+    angle: "origin",
+    signature: "Pizza by the metre",
+    goodFor: "groups, families, date",
+    lists: "best-pizza",
+    source: "@rosielewis_ (8.7/10 - the creator's highest); address confirmed against OpenStreetMap 2026-08-30",
+  },
+  {
+    ...base, slug: "sodo-pizza", name: "Sodo Pizza",
+    website: "https://www.sodopizza.co.uk/",
+    style: "Sourdough pizza", specialities: "pizza",
+    venueFormat: "Restaurant", chainType: "mini-chain",
+    hood: "Clapton", borough: "Hackney", areaGuide: "",
+    address: "126 Upper Clapton Road, Clapton", postcode: "E5 9JY",
+    priceBand: "££",
+    whyGo: "Sourdough bases, natural wine and local craft beer, a short walk from Clapton Pond - a neighbourhood pizzeria that the city lists keep finding anyway.",
+    angle: "dish",
+    opSummary: "Three sites: Clapton, Walthamstow and Deptford.",
+    goodFor: "families, date, groups",
+    lists: "best-pizza",
+    source: "Time Out (#20 of 21); branch list and address from sodopizza.co.uk",
+  },
+  {
+    ...base, slug: "o-ver", name: "'O Ver",
+    website: "https://www.overuk.com/",
+    style: "Neapolitan made with sea water", specialities: "pizza",
+    venueFormat: "Restaurant", chainType: "independent",
+    hood: "Borough", borough: "Southwark", areaGuide: "",
+    address: "London Iron House, 44-46 Southwark Street", postcode: "SE1 1UN",
+    priceBand: "££",
+    whyGo: "Doughs and pastas made with filtered Mediterranean sea water instead of salt - a Neapolitan technique almost nobody else here bothers with.",
+    angle: "origin",
+    signature: "Sea-water dough",
+    goodFor: "date, families, pre-theatre",
+    lists: "best-pizza",
+    source: "Country & Town House; @dens_destinations; address from the venue's own listing, checked 2026-08-30",
+  },
+  {
+    ...base, slug: "theos-pizzeria", name: "Theo's Pizzeria",
+    website: "https://www.theospizzeria.com/",
+    style: "Neapolitan pizza", specialities: "pizza",
+    venueFormat: "Restaurant", chainType: "independent",
+    hood: "Camberwell", borough: "Southwark", areaGuide: "",
+    address: "2 Grove Lane, Camberwell", postcode: "SE5 8SY",
+    priceBand: "££",
+    whyGo: "The Camberwell pizzeria that made its name on house chilli oil, and is the reason people from other postcodes end up on Grove Lane.",
+    angle: "chef",
+    signature: "Homemade chilli oil",
+    goodFor: "date, families, groups",
+    lists: "best-pizza",
+    source: "The Infatuation; address from theospizzeria.com and its own listing, checked 2026-08-30",
+  },
+  {
+    ...base, slug: "67-sourdough", name: "67 Sourdough",
+    website: "https://www.67sourdough.com/",
+    style: "Thin-crust New York style", specialities: "pizza",
+    venueFormat: "Restaurant", chainType: "independent",
+    hood: "East Finchley", borough: "Barnet", areaGuide: "",
+    address: "82-92 Great North Road, East Finchley", postcode: "N2 0NL",
+    priceBand: "££",
+    whyGo: "Thin-crust New York pizza served inside a working car dealership on the Great North Road, which is exactly as strange as it sounds and entirely the point.",
+    angle: "room",
+    opSummary: "Open Wednesday to Sunday only. Shares premises with the dealership, so the room is a showroom.",
+    closedDays: "Monday and Tuesday",
+    goodFor: "families, groups",
+    lists: "best-pizza",
+    source: "The Infatuation (#8 of 12, NYC-style power ranking); @eat.snack.repeat; address and hours from the venue's own listing, checked 2026-08-30",
   },
 
   // ------------------------------------------ consensus-diff pass, 2026-08-17 ---
@@ -11500,7 +11773,10 @@ const rows = [
     whyGo: "Started in a back-yard oven in Homerton in 2014 and grew into east London's default good pizza without ever becoming a chain you would avoid. British ingredients, proper vegan options, and consistent across every branch.",
     angle: "origin",
     opSummary: "Six London sites - Clapton, East Dulwich, Hackney Road, Leytonstone, Walthamstow and Finsbury Park. Clapton is the original.",
-    signals: "Named by Time Out, Country & Town House and The Infatuation",
+    // Was "Named by Time Out, Country & Town House and The Infatuation" - that
+    // is the Source Count/Tiers columns' job now, and they derive it. Signals
+    // keeps the thing those columns cannot say: which award, and what it was for.
+    signals: "National Pizza Awards 2025 - third place", awardYear: "2025",
     dietary: "Substantial vegan menu",
     goodFor: "families, groups, quick",
     bookingLead: "walk-in",
@@ -12688,11 +12964,15 @@ for (const r of rows) {
   if (!existing) added++;
   registry[r.slug] = {
     name: r.name,
-    firstSeen: existing?.firstSeen ?? TODAY,
-    lastSeen: TODAY,
+    firstSeen: existing?.firstSeen ?? RUN_DATE,
+    lastSeen: RUN_DATE,
     status: r.status,
   };
 }
+// The registry is the only place a real first-seen date exists, so the column
+// reads back from it rather than from `base`, which carried TODAY for every row.
+for (const r of rows) r.firstSeen = registry[r.slug].firstSeen;
+
 fs.mkdirSync("data", { recursive: true });
 fs.writeFileSync(
   REGISTRY_PATH,
@@ -12855,7 +13135,7 @@ console.log(`  area guide    ${open.length - noArea} placed, ${noArea} unplaced`
 const STALE_DAYS = 90;
 const withDeals = rows.filter((r) => String(r.deals ?? "").trim());
 if (withDeals.length) {
-  const now = new Date(TODAY);
+  const now = new Date(RUN_DATE);
   const age = (d) => Math.round((now - new Date(d)) / 86400000);
   console.log(`\nDEALS (${withDeals.length} rows):`);
   for (const r of withDeals) {

@@ -1,0 +1,94 @@
+{
+  "topic": "pizza",
+  "article": "src/content/articles/best-pizza-london.md",
+  "headTerm": "Pizza",
+  "note": "The template every other topic config is copied from. Three things change per topic: the award bodies and editorial lists that actually exist for this food, the facet axis, and the title strings. The method in .claude/skills/consensus-guide/SKILL.md does not change.",
+  "awardBodies": [
+    {
+      "name": "50 Top Pizza Europa",
+      "domain": "50toppizza.it",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "Italian panel judging Neapolitan technique. Publishes a ranked European top 50 with a year on it."
+    },
+    {
+      "name": "National Pizza Awards",
+      "domain": "nationalpizzaawards.co.uk",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/the-uks-best-pizza",
+      "previousWinnersPath": "/previous-winners",
+      "note": "READ THIS BEFORE COLLECTING. /previous-winners stops at the year before last; the current year's placings, special awards and full finalist list are at /the-uks-best-pizza. Missing that page once produced a false 'the awards are unreadable' caveat and hid six venues' tier-A awards."
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "ranked": true,
+      "note": "Publishes a ranked 21. Its news desk and YouTube channel are the SAME source - one masthead, one opinion."
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "ranked": "mixed",
+      "note": "Two guides on one domain: the NYC-style power ranking IS ordered, the '19 Best Pizzas' is NOT. Never print a rank against the unordered one."
+    },
+    {
+      "name": "Country & Town House",
+      "domain": "countryandtownhouse.com",
+      "ranked": false
+    },
+    {
+      "name": "DesignMyNight",
+      "domain": "designmynight.com",
+      "ranked": false
+    }
+  ],
+  "facetAxis": {
+    "field": "style",
+    "note": "Pizza is one-dimensional. Indian needs two (region and format); seafood splits further. A longer array is the right answer, not a different method.",
+    "values": [
+      {
+        "key": "neapolitan",
+        "label": "Neapolitan",
+        "describeAs": "a soft base you eat with a knife and fork, puffed and blistered at the rim"
+      },
+      {
+        "key": "new-york",
+        "label": "New York",
+        "describeAs": "thinner, wider, foldable, sold by the slice"
+      },
+      {
+        "key": "detroit",
+        "label": "Detroit",
+        "describeAs": "a square baked in a steel pan so the cheese burns crisp against the side"
+      },
+      {
+        "key": "chicago",
+        "label": "Chicago deep dish",
+        "describeAs": "a pie deep enough to need a spoon"
+      },
+      {
+        "key": "romana",
+        "label": "Romana",
+        "describeAs": "a Roman base rolled thin enough to snap"
+      }
+    ]
+  },
+  "formatSection": {
+    "title": "Pub pizza",
+    "note": "A serious pizza kitchen inside somebody else's pub. No competitor treats it as a category and it is how several of the best-reviewed pizzas in London are cooked. Every entry needs an hours warning: the kitchen closes before the bar."
+  },
+  "knownGaps": [
+    "Community tier (E) is empty - no Reddit threads recorded, in a topic where Londoners argue about pizza constantly. The corpus finished 64% video.",
+    "No website found for Ace Pizza, Bing Bong Pizza (trades inside You Call The Shots), Lauretta's (Instagram only), Patio Pizza, Pizza Union or Purezza.",
+    "First Seen is now a real per-slug date, fixed 2026-08-30. It reads from data/slugs.json, which records when a slug first appeared. The 750 rows that predate the fix all read 2026-08-17, the date the registry started - that is when we first recorded them, not when they opened. A 'new openings' section can use it from now on."
+  ],
+  "openVenueQuestions": [
+    "Crisp Pizza - merged across The Chancellors (Hammersmith, the site The Infatuation ranked #1) and The Marlborough (Mayfair). One brand, two pubs, carried as Branches rows.",
+    "Bebere - suspected misspelling of Berbere from a TikTok caption. Left separate; merging on a hunch would hand Berbere a source it may not have.",
+    "Gracey's Pizza - The Infatuation ranks it #2 of 12 but places it in St Albans. Kept, flagged in the article as outside London.",
+    "Three sources labelled SYNDICATION in their quotes are still counted as independent opinions. Resolving them would take Napoli on the Road 8 -> 6 and Short Road Pizza 4 -> 3."
+  ]
+}

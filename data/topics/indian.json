@@ -1,0 +1,193 @@
+{
+  "topic": "indian",
+  "article": "src/content/articles/best-indian-restaurants-london.md",
+  "headTerm": "Indian Restaurants",
+  "status": "cleaned and re-sourced 2026-08-30; video tier collected; community tier still missing",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. This file records what is specific to Indian: the bodies worth checking, the two-axis facet, and what went wrong.",
+  "awardBodies": [
+    {
+      "name": "The Good Food Guide",
+      "domain": "thegoodfoodguide.co.uk",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "Best Indian restaurants in London. 36 names recorded."
+    },
+    {
+      "name": "Michelin Guide",
+      "domain": "guide.michelin.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "guide.michelin.com is permanently 403 to the fetcher. Read the 2026 column of the Wikipedia substitute in data/sources.json blocked.substitutes, but ATTRIBUTE to guide.michelin.com - filing it under en.wikipedia.org tiers the award B and loses the signal. 8 current Indian stars in 2026, Gymkhana on two. Rasoi, Tamarind and Vineet Bhatia are historic."
+    },
+    {
+      "name": "Asian Curry Awards",
+      "domain": "asiancurryawards.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "Winners are laid out as award CATEGORY lines - 'Asian Restaurant of the Year (London): Colonel Saab'. A naive scrape captures the category, often truncated mid-parenthesis. Extract the venue after the colon, drop the category, drop every non-London region. Cleaned 2026-08-30."
+    },
+    {
+      "name": "British Indian Good Food Guide",
+      "domain": "britishindiangoodfoodguide.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "RESOLVED 2026-08-30. Was filed under a Time Out news article reporting the 2024 top 20. The guide publishes its own selection at /best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ (5 Nov 2025): 100 UK restaurants, 28 in the London section, 6 named London Icons."
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "Olive Magazine",
+      "domain": "olivemagazine.com",
+      "tier": "B",
+      "ranked": false
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "tier": "B",
+      "ranked": false
+    },
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "tier": "B",
+      "ranked": "check",
+      "note": "One masthead, one opinion. The BIGFG award has been re-attributed away from it."
+    },
+    {
+      "name": "Eater London",
+      "domain": "london.eater.com",
+      "tier": "B",
+      "ranked": false
+    },
+    {
+      "name": "SquareMeal",
+      "domain": "squaremeal.co.uk",
+      "tier": "B",
+      "ranked": false
+    },
+    {
+      "name": "NationalWorld",
+      "domain": "nationalworld.com",
+      "tier": "B",
+      "note": "National Asian Curry Awards coverage. Nav is scraped as venue names and most winners are not London - both cleaned 2026-08-30."
+    },
+    {
+      "name": "Kilburn Times",
+      "domain": "kilburntimes.co.uk",
+      "tier": "B",
+      "note": "National Asian Curry Awards coverage. Nav is scraped as venue names and most winners are not London - both cleaned 2026-08-30."
+    },
+    {
+      "name": "Balance Journal",
+      "domain": "balancejournal.co",
+      "tier": "C",
+      "ranked": false
+    }
+  ],
+  "facetAxis": {
+    "note": "Indian is two-dimensional, unlike pizza. A venue has a region AND a format, and the guide needs both axes - a Keralan cafe and a Keralan tasting menu are not substitutes for each other.",
+    "axes": [
+      {
+        "field": "region",
+        "values": [
+          {
+            "key": "punjabi",
+            "label": "Punjabi and North Indian"
+          },
+          {
+            "key": "south-indian",
+            "label": "South Indian",
+            "describeAs": "dosa, idli, rice and coconut rather than wheat and cream"
+          },
+          {
+            "key": "keralan",
+            "label": "Keralan"
+          },
+          {
+            "key": "goan",
+            "label": "Goan"
+          },
+          {
+            "key": "bengali",
+            "label": "Bengali and Bangladeshi"
+          },
+          {
+            "key": "pakistani",
+            "label": "Pakistani",
+            "note": "Has its own topic and its own consensus file. Do not absorb it here."
+          },
+          {
+            "key": "sri-lankan",
+            "label": "Sri Lankan"
+          },
+          {
+            "key": "pan-indian",
+            "label": "Pan-Indian and modern"
+          }
+        ]
+      },
+      {
+        "field": "format",
+        "values": [
+          {
+            "key": "curry-house",
+            "label": "Curry house",
+            "describeAs": "the neighbourhood institution, often decades old"
+          },
+          {
+            "key": "dining-room",
+            "label": "Modern dining room"
+          },
+          {
+            "key": "tasting-menu",
+            "label": "Tasting menu"
+          },
+          {
+            "key": "cafe",
+            "label": "Cafe and canteen"
+          },
+          {
+            "key": "street-food",
+            "label": "Street food and market stall"
+          }
+        ]
+      }
+    ]
+  },
+  "formatSection": {
+    "title": "Curry house or dining room",
+    "note": "The genuine split a reader needs and most guides blur: a 1970s Tooting curry house and a Mayfair tasting menu both get called 'best Indian' and are not the same trip. State which one each entry is."
+  },
+  "cleanupRequired": [
+    "None outstanding. The 2026-08-30 pass removed 55 award-category strings, 30 chrome names, 13 press-release headings and 10 non-London winners, extracted 6 real London winners from category lines, and added 22 aliases (Dishoom appeared seven ways)."
+  ],
+  "knownGaps": [
+    "Community tier (E) is still EMPTY. Two Apify Reddit runs on 2026-08-30 returned nothing usable - the first was not scoped to a subreddit and matched globally viral posts, the second was scoped to r/london but the search terms did not bind and returned meetup and supermarket threads. About $0.95 spent for zero citations. Reddit is also blocked to curl (returns HTML) and to the browser pane by policy. Needs a different approach before it is retried.",
+    "Video tier collected 2026-08-30 via Apify: 11 channels, 48 names, ~$0.10. Two channels named nothing extractable (@RestroSpot, @BBinLondon) and are not recorded; @bonappetit is New York.",
+    "First Seen is now a real per-slug date, fixed 2026-08-30. It reads from data/slugs.json, which records when a slug first appeared. The 750 rows that predate the fix all read 2026-08-17, the date the registry started - that is when we first recorded them, not when they opened. A 'new openings' section can use it from now on."
+  ],
+  "currentState": {
+    "recorded": "2026-08-30",
+    "sources": 23,
+    "citations": 253,
+    "namesInCorpus": 120,
+    "twoPlusDomains": 45,
+    "tierA": 51,
+    "meetingTheBar": 37,
+    "sheetRows": 45,
+    "articleExists": true
+  },
+  "removedSources": [
+    "Curry Life (currylife.uk) - national trade-magazine award list, 68 names, no region field in the scrape so its London subset cannot be identified.",
+    "The Nudge (thenudge.com) - extracted zero names; the Indian URL now 404s."
+  ],
+  "videoTier": {
+    "collected": "2026-08-30",
+    "channels": 11,
+    "names": 48,
+    "costUsd": "~0.10",
+    "method": "Apify api-ninja/youtube-search-scraper, videoDepthDetails=standard, geo=GB. Names read from chapter markers and descriptions. Handles came back from the YouTube API, so none was reconstructed.",
+    "notRecorded": "@RestroSpot and @BBinLondon named nothing extractable; @bonappetit's video is New York."
+  }
+}

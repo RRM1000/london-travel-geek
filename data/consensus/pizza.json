@@ -1,104 +1,8 @@
 {
   "cuisine": "pizza",
-  "note": "",
-  "recorded": "2026-08-25",
+  "note": "Pizza citation set collected 2026-08-30, applied clean on top of the earlier video/consensus pass. Source Count, Source Tiers and Source Links in Restaurants v2 are DERIVED from this file by build-evidence.mjs - never typed in.",
+  "recorded": "2026-08-30",
   "sources": [
-    {
-      "name": "Harry Kersh (YouTube)",
-      "url": "https://www.youtube.com/@harrykersh",
-      "scope": "pizza",
-      "channel": "@harrykersh",
-      "videos": [
-        {
-          "title": "Finding The Best Pizza In London | Harry's Food Tours",
-          "url": "https://www.youtube.com/watch?v=8X_PxlVWODc",
-          "published": "2025-12-02"
-        }
-      ],
-      "names": [],
-      "error": "no headings matched"
-    },
-    {
-      "name": "Harrison Webb (YouTube)",
-      "url": "https://www.youtube.com/@HarrisonWebb97",
-      "scope": "pizza",
-      "channel": "@HarrisonWebb97",
-      "videos": [
-        {
-          "title": "Finding the Best Pizza in London",
-          "url": "https://www.youtube.com/watch?v=EusVlKeTQLM",
-          "published": "2025-11-09"
-        }
-      ],
-      "names": [
-        "Breadstall",
-        "Japes",
-        "Bad Boy Pizza Society",
-        "Sarv's Slice",
-        "Gracey's Pizza",
-        "50 Kalò",
-        "Sud Italia",
-        "Dough Hands",
-        "Battersea Power Station"
-      ]
-    },
-    {
-      "name": "JOLLY (YouTube)",
-      "url": "https://www.youtube.com/@jolly",
-      "scope": "pizza",
-      "channel": "@jolly",
-      "videos": [
-        {
-          "title": "We tried the Best Pizza in London!",
-          "url": "https://www.youtube.com/watch?v=k84hpLHGnoI",
-          "published": "2025-12-12"
-        }
-      ],
-      "names": [
-        "Big thanks to",
-        "Ijustwantogohome",
-        "Wolvesarefirst1134",
-        "Bettie Meier",
-        "Skip Allen",
-        "Dawn’s HEart",
-        "Nora yousef",
-        "Raileigh GJ",
-        "Li Winslow",
-        "Nolan Fan",
-        "Miguel Benitez Jr",
-        "MyNameIsTokyo",
-        "63angel",
-        "B Strauss",
-        "Reilly Willoughby",
-        "Axel Murillo",
-        "Jadexnyc",
-        "Claim2Game (a.k.a isaiah gollan 20)",
-        "Florian Adamek",
-        "12rose3",
-        "Julian Leung",
-        "Yun Lim",
-        "Laykan Dowdy",
-        "CitrusQuill",
-        "Gloria Kwon"
-      ]
-    },
-    {
-      "name": "Find Eat Go (YouTube)",
-      "url": "https://www.youtube.com/@FindEatGo",
-      "scope": "pizza",
-      "channel": "@FindEatGo",
-      "videos": [
-        {
-          "title": "The London Pizza Awarded Best in the World - Behind the Scenes at Busy Pizzeria",
-          "url": "https://www.youtube.com/watch?v=uECDlkQpiHg",
-          "published": "2026-04-16"
-        }
-      ],
-      "names": [
-        "Napoli on the Road",
-        "This is real authentic Napoli pizza!"
-      ]
-    },
     {
       "name": "Mayfair Foodie",
       "url": "https://mayfairfoodie.com/best-pizzas-in-london/",
@@ -137,6 +41,212 @@
       ]
     },
     {
+      "name": "National Pizza Awards 2025",
+      "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+      "scope": "pizza",
+      "names": [
+        "Short Road Pizza",
+        "Bing Bong Pizza",
+        "Yard Sale Pizza",
+        "Mamma Dough",
+        "ACE Pizza",
+        "Base Face Pizza",
+        "Fatto a Mano",
+        "Franco Manca",
+        "Little Earthquakes",
+        "Pizza Pilgrims",
+        "Rudy's Pizza Napoletana",
+        "Super Club Roma",
+        "Zia Lucia",
+        "Bad Boy Pizza Society",
+        "Zerodegrees",
+        "Purezza",
+        "Papa Roma"
+      ],
+      "quotes": {
+        "Short Road Pizza": "National Pizza of the Year 2025 - Riccardo Demuru's The Short Road Marinara: tomato sauce, confit garlic puree, spicy chimichurri, fresh stracciatella, Cantabrian anchovies and oregano. Trading only a year at the time. Also took the Alternative Slice Award with Caramelle Piccanti",
+        "Bing Bong Pizza": "2nd place 2025 - Rich Goodwin's With A Little H(ELP) From My Friends, baked in a pan with fennel sausage meat, pink fir potatoes and pickled Romano peppers",
+        "Yard Sale Pizza": "3rd place 2025 - Paolo Burini's Ragu Pazzo, with burrata, white anchovies and a lemon marmalade swirl",
+        "Mamma Dough": "Pizza Chef of the Year 2025 - Antonio Raspone, for The Big Apple Blue",
+        "ACE Pizza": "Bloggers' Choice Award 2025 - Howard Quayle's The Capish, a 20-inch pizza with house vodka sauce and 'secret recipe' meatballs",
+        "Base Face Pizza": "2025 finalist (London)",
+        "Fatto a Mano": "2025 finalist (listed as Brighton)",
+        "Franco Manca": "2025 finalist (national)",
+        "Little Earthquakes": "2025 finalist (London)",
+        "Pizza Pilgrims": "2025 finalist (national)",
+        "Rudy's Pizza Napoletana": "2025 finalist (national)",
+        "Super Club Roma": "2025 finalist (London)",
+        "Zia Lucia": "2025 finalist (London)",
+        "Bad Boy Pizza Society": "Pizza of the Year 2024 (Sausage Party), having also won in 2022 (Pepperoni Alla Vodka) - from the awards' Previous Winners page",
+        "Zerodegrees": "Pizza of the Year 2023 (The Cinghiale) - London site in Blackheath",
+        "Purezza": "Pizza of the Year 2018 (Parmigiana Party) - London site in Camden",
+        "Papa Roma": "Pizza of the Year 2017 (Di Bosco) - South Kensington"
+      },
+      "recorded": "2026-08-30",
+      "_note": "Read from the awards' own site: /the-uks-best-pizza carries the 2025 placings, the special awards and the 16 finalists; /previous-winners carries 2016-2024. No second-hand attribution needed."
+    },
+    {
+      "name": "Barstool Sports - One Bite Pizza Reviews",
+      "url": "https://onebite.app/",
+      "scope": "pizza",
+      "names": [
+        "Breadstall"
+      ],
+      "quotes": {
+        "Breadstall": "Dave Portnoy review; credited elsewhere as calling it the best New York-style slice outside New York"
+      },
+      "recorded": "2026-08-30",
+      "_note": "TIER QUESTION. Reached via their YouTube channel, but One Bite is a Barstool masthead publishing video, not an independent creator."
+    },
+    {
+      "name": "Wrap Your Lips Around This",
+      "url": "https://wrapyourlipsaroundthis.com/best-pizza-in-london-restaurant-review/",
+      "scope": "pizza",
+      "names": [],
+      "error": "no headings matched"
+    },
+    {
+      "name": "50 Top Pizza Europa 2025",
+      "url": "https://www.50toppizza.it/50-top-pizza-europa-2025-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe/",
+      "scope": "pizza",
+      "names": [
+        "Napoli on the Road"
+      ],
+      "quotes": {
+        "Napoli on the Road": "#1 in Europe 2025"
+      },
+      "recorded": "2026-08-30",
+      "_note": "Shares 50toppizza.it with the 2026 ranking."
+    },
+    {
+      "name": "50 Top Pizza Europa 2026",
+      "url": "https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/",
+      "scope": "pizza",
+      "names": [
+        "Napoli on the Road",
+        "50 Kalò",
+        "L'Antica Pizzeria da Michele",
+        "Connie's Pizza"
+      ],
+      "quotes": {
+        "Napoli on the Road": "#1 in Europe - third consecutive year at number one",
+        "50 Kalò": "#4 in Europe; top 20 auto-qualify for 100 Best Pizzerias in the World",
+        "L'Antica Pizzeria da Michele": "#28 in Europe - listed as L'Antica Pizzeria",
+        "Connie's Pizza": "#48 in Europe - plus a 'one to watch' award - listed as Connie's Pizzeria"
+      },
+      "recorded": "2026-08-30",
+      "_note": "Same domain as the 2025 ranking below - one publisher, two dated rankings."
+    },
+    {
+      "name": "Country & Town House",
+      "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/",
+      "scope": "pizza",
+      "names": [
+        "A Brief History of Pizza",
+        "C&TH Newsletters",
+        "Circus Pizza",
+        "Weezie's",
+        "Crisp Pizza at The Marlborough",
+        "Florencio",
+        "Rudy's Pizza Napoletana",
+        "Alley Cats Pizza",
+        "Yard Sale Pizza",
+        "Farina",
+        "Zia Lucia",
+        "Berberè",
+        "Homeslice",
+        "Daylesford",
+        "'O Ver",
+        "Pizza Pilgrims",
+        "Happy Face"
+      ],
+      "quotes": {
+        "Crisp Pizza at The Marlborough": "Listed as Crisp Mayfair"
+      },
+      "_note": "UNORDERED guide - no ranks."
+    },
+    {
+      "name": "DesignMyNight",
+      "url": "https://www.designmynight.com/london/restaurants/best-pizza-restaurants-london",
+      "scope": "pizza",
+      "names": [
+        "Rewards",
+        "Jobs",
+        "Vincenzo's"
+      ],
+      "quotes": {
+        "Vincenzo's": "Headlined 'Best New York-style pizza in London?'; whole pies from £23 - 122 Bethnal Green Road"
+      },
+      "_note": "Seen as an Instagram post (instagram.com/p/DaHtMQtDUnZ/) linking to their own guide. Specific guide URL not captured - verify."
+    },
+    {
+      "name": "@food_diiii (Instagram)",
+      "url": "https://www.instagram.com/p/Db8vqjQNsGo/",
+      "scope": "pizza",
+      "names": [
+        "Bad Boy Pizza Society"
+      ],
+      "quotes": {
+        "Bad Boy Pizza Society": "10/10"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "@food.latelyy (Instagram)",
+      "url": "https://www.instagram.com/p/DceF3ynDXKQ/",
+      "scope": "pizza",
+      "names": [
+        "Paulie's"
+      ],
+      "quotes": {
+        "Paulie's": "Review of the Paulie's Pie - fennel-seed pepperoni and hot honey"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Best Pizza World - Best Pizzerias in London 2026",
+      "url": "https://www.instagram.com/p/DceNw2EzUjH/",
+      "scope": "pizza",
+      "names": [
+        "Pizzeria Pellone"
+      ],
+      "quotes": {
+        "Pizzeria Pellone": "#16 best pizzeria in London 2026 and #53 in the UK"
+      },
+      "recorded": "2026-08-30",
+      "_note": "Only seen as an Instagram post by @bestpizzaworldranking. Could not locate the ranking body's own site, so this URL is a social post, not a primary ranking page. Verify before counting as a judged ranking."
+    },
+    {
+      "name": "@moviemichaelcalleri (Instagram)",
+      "url": "https://www.instagram.com/p/Dci8A6UDic2/",
+      "scope": "pizza",
+      "names": [
+        "Franco Manca"
+      ],
+      "quotes": {
+        "Franco Manca": "Called the writer's favourite pizzeria in London"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "@mamamooseldn (Instagram)",
+      "url": "https://www.instagram.com/p/Dcjef70F53T/",
+      "scope": "pizza",
+      "names": [
+        "Lost Souls Pizza"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "@clementine_cucina (Instagram)",
+      "url": "https://www.instagram.com/p/DZh4gpOt7oP/",
+      "scope": "pizza",
+      "names": [
+        "Bridge Baker"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
       "name": "Hungry Soles",
       "url": "https://www.thehungrysoles.com/blog/best-pizza-london",
       "scope": "pizza",
@@ -165,20 +275,155 @@
       ]
     },
     {
-      "name": "Wrap Your Lips Around This",
-      "url": "https://wrapyourlipsaroundthis.com/best-pizza-in-london-restaurant-review/",
-      "scope": "pizza",
-      "names": [],
-      "error": "no headings matched"
-    },
-    {
-      "name": "Country & Town House",
-      "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/",
+      "name": "The Infatuation - London's NYC-Style Pizza Power Rankings",
+      "url": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking",
       "scope": "pizza",
       "names": [
-        "A Brief History of Pizza",
-        "C&TH Newsletters"
-      ]
+        "Crisp Pizza at The Marlborough",
+        "Gracey's Pizza",
+        "Vincenzo's",
+        "Alley Cats Pizza",
+        "Lauretta's",
+        "Bad Boy Pizza Society",
+        "Dough Hands",
+        "67 Sourdough",
+        "Spring Street Pizza",
+        "Patio Pizza",
+        "Carmela's Pizzeria",
+        "Paulie's"
+      ],
+      "quotes": {
+        "Crisp Pizza at The Marlborough": "#1 of 12 - given as Crisp Pizza W6 at The Chancellors - Hammersmith - VENUE-IDENTITY FLAG - may not be the Marlborough site",
+        "Gracey's Pizza": "#2 of 12 - but placed in St Albans - outside London",
+        "Vincenzo's": "#3 of 12 - given as Vincenzo's Pizza - Bushey",
+        "Alley Cats Pizza": "#4 of 12",
+        "Lauretta's": "#5 of 12",
+        "Bad Boy Pizza Society": "#6 of 12 - as Bad Boy Pizzeria",
+        "Dough Hands": "#7 of 12",
+        "67 Sourdough": "#8 of 12",
+        "Spring Street Pizza": "#9 of 12",
+        "Patio Pizza": "#10 of 12 - at The Greyhound - Peckham",
+        "Carmela's Pizzeria": "#11 of 12",
+        "Paulie's": "#12 of 12 - as Paulie's Shoreditch"
+      },
+      "recorded": "2026-08-30",
+      "_note": "Shares theinfatuation.com with the guide above - one masthead."
+    },
+    {
+      "name": "The Infatuation - The 19 Best Pizzas In London",
+      "url": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
+      "scope": "pizza",
+      "names": [
+        "Vincenzo's",
+        "Crisp Pizza at The Marlborough",
+        "Alley Cats Pizza",
+        "William the Fourth",
+        "Theo's Pizzeria",
+        "Dough Hands",
+        "Lauretta's",
+        "67 Sourdough",
+        "Detroit Pizza London",
+        "Breadstall",
+        "Ria's",
+        "Vasiniko",
+        "Yard Sale Pizza",
+        "Bar D4100",
+        "Spring Street Pizza",
+        "L'Antica Pizzeria da Michele",
+        "Pizzeria Pappagone",
+        "Zia Lucia"
+      ],
+      "quotes": {
+        "Crisp Pizza at The Marlborough": "Listed as Crisp Pizza at The Marlborough - Mayfair - NYC-style in a moody basement",
+        "William the Fourth": "Leyton pub pizzeria - Romana crusts. MAY be Short Road Pizza's residency",
+        "Vincenzo's": "Listed as Vincenzo's Shoreditch"
+      },
+      "recorded": "2026-08-30",
+      "_note": "UNORDERED guide - no ranks. Shares theinfatuation.com with the power ranking below."
+    },
+    {
+      "name": "@dens_destinations",
+      "url": "https://www.tiktok.com/@dens_destinations",
+      "scope": "pizza",
+      "names": [
+        "Ria's",
+        "Pizza Pilgrims",
+        "Alley Cats Pizza",
+        "Grasso",
+        "Zia Lucia",
+        "'O Ver"
+      ],
+      "recorded": "2026-08-30",
+      "_note": "Named as loved but just outside the creator's top 10. The top 10 itself was not in the caption."
+    },
+    {
+      "name": "@eat.snack.repeat",
+      "url": "https://www.tiktok.com/@eat.snack.repeat",
+      "scope": "pizza",
+      "names": [
+        "Sarv's Slice",
+        "Dough Hands",
+        "Crisp Pizza at The Marlborough",
+        "Short Road Pizza",
+        "Gracey's Pizza",
+        "Lauretta's",
+        "Vincenzo's",
+        "Detroit Pizza London",
+        "Ace Pizza",
+        "Chatsworth Bakehouse",
+        "Breadstall",
+        "Bad Boy Pizza Society",
+        "67 Sourdough",
+        "Paulie's",
+        "Connie's Pizza",
+        "Alby's",
+        "Bing Bong Pizza",
+        "Carmela's Pizzeria",
+        "Spring Street Pizza",
+        "Dinner for 100"
+      ],
+      "quotes": {
+        "Short Road Pizza": "Named on a 20-venue list of the creator's own picks, described there as national pizza of the year 2025"
+      },
+      "recorded": "2026-08-30",
+      "_note": "Numbered 1-16 but the caption says explicitly 'in no particular order'. The numbers are NOT ranks."
+    },
+    {
+      "name": "@rosielewis_",
+      "url": "https://www.tiktok.com/@rosielewis_",
+      "scope": "pizza",
+      "names": [
+        "Crisp Pizza at The Marlborough",
+        "Alley Cats Pizza",
+        "Ria's",
+        "Slayer",
+        "Rudy's Pizza Napoletana",
+        "Cinquecento",
+        "Breadstall",
+        "Made in Italy",
+        "Santa Maria",
+        "Elliot's",
+        "Marta's",
+        "Bebere",
+        "Cecconi's"
+      ],
+      "quotes": {
+        "Crisp Pizza at The Marlborough": "9/10",
+        "Ria's": "9/10",
+        "Breadstall": "9/10",
+        "Made in Italy": "8.7/10",
+        "Rudy's Pizza Napoletana": "8/10",
+        "Elliot's": "8/10",
+        "Cinquecento": "7.5/10",
+        "Alley Cats Pizza": "7/10",
+        "Slayer": "7/10",
+        "Santa Maria": "7/10",
+        "Bebere": "6.5/10 - spelled 'Bebere'. May be Berberè but unconfirmed - left as a separate name",
+        "Cecconi's": "6.5/10",
+        "Marta's": "5/10"
+      },
+      "recorded": "2026-08-30",
+      "_note": "Creator scores out of 10."
     },
     {
       "name": "Time Out",
@@ -206,17 +451,245 @@
         "Little Earthquakes",
         "Japes",
         "Sodo Pizza Cafe",
-        "Ria's"
-      ]
+        "Ria's",
+        "Bad Boy Pizza Society",
+        "Rudy's Pizza Napoletana",
+        "Vincenzo's",
+        "Carmela's Pizzeria",
+        "Crisp Pizza at The Marlborough",
+        "Sodo Pizza",
+        "Paulie's",
+        "Lauretta's"
+      ],
+      "quotes": {
+        "Short Road Pizza": "#1 of 21. Romana-style with Chicago thin crust - Leyton and Bethnal Green",
+        "Dough Hands": "#2 of 21. Crispy New York-style with London sass",
+        "Bad Boy Pizza Society": "#3 of 21 - listed as Bad Boy Pizzeria",
+        "Spring Street Pizza": "#4 of 21. New York-style with a university education",
+        "Ace Pizza": "#5 of 21. Chewy New York/Neapolitan hybrid - Victoria Park",
+        "Alley Cats Pizza": "#6 of 21 - Marylebone",
+        "Rudy's Pizza Napoletana": "#7 of 21 - listed as Rudy's - Shoreditch",
+        "Yard Sale Pizza": "#8 of 21. Wood-fired Neapolitan - Clapton",
+        "Vincenzo's": "#9 of 21 - Bethnal Green",
+        "Breadstall": "#10 of 21. Slow-fermented biga dough - Soho",
+        "Bar Etna": "#11 of 21",
+        "Carmela's Pizzeria": "#12 of 21 - Islington",
+        "Berberè": "#13 of 21 - Kentish Town",
+        "Fatto a Mano": "#14 of 21",
+        "Crisp Pizza at The Marlborough": "#15 of 21 - listed as Crisp Pizza - Mayfair",
+        "Napoli on the Road": "#16 of 21 - Chiswick and Richmond",
+        "Hot Saint Pizza": "#17 of 21",
+        "Little Earthquakes": "#18 of 21",
+        "Japes": "#19 of 21. Chicago deep dish",
+        "Sodo Pizza": "#20 of 21",
+        "Ria's": "#21 of 21. Detroit-style - Notting Hill",
+        "Paulie's": "Named in Time Out's east London pizza crawl video - not the ranked 21",
+        "Lauretta's": "Named in Time Out's east London pizza crawl video - not the ranked 21"
+      },
+      "_note": "ONE masthead. Merges the ranked 21, Time Out's east London crawl video on its own YouTube channel, and its news reporting. The award reporting is re-attributed to the National Pizza Awards above."
     },
     {
-      "name": "DesignMyNight",
-      "url": "https://www.designmynight.com/london/restaurants/best-pizza-restaurants-london",
+      "name": "Appetite",
+      "url": "https://www.youtube.com/@appetiteapp",
       "scope": "pizza",
       "names": [
-        "Rewards",
-        "Jobs"
-      ]
+        "Vincenzo's"
+      ],
+      "quotes": {
+        "Vincenzo's": "Interview with owner Tom Vincent; Bushey original - Shoreditch second site"
+      },
+      "recorded": "2026-08-30",
+      "_note": "Channel URL only."
+    },
+    {
+      "name": "Danny & Gary",
+      "url": "https://www.youtube.com/@dannygaryyoutube",
+      "scope": "pizza",
+      "names": [
+        "Detroit Pizza London"
+      ],
+      "quotes": {
+        "Detroit Pizza London": "Visited as supposedly the best pizza in the country"
+      },
+      "recorded": "2026-08-30",
+      "_note": "Channel URL only."
+    },
+    {
+      "name": "Harrison Webb (YouTube)",
+      "url": "https://www.youtube.com/@HarrisonWebb97",
+      "scope": "pizza",
+      "channel": "@HarrisonWebb97",
+      "videos": [
+        {
+          "title": "Finding the Best Pizza in London",
+          "url": "https://www.youtube.com/watch?v=EusVlKeTQLM",
+          "published": "2025-11-09"
+        }
+      ],
+      "names": [
+        "Breadstall",
+        "Japes",
+        "Bad Boy Pizza Society",
+        "Sarv's Slice",
+        "Gracey's Pizza",
+        "50 Kalò",
+        "Sud Italia",
+        "Dough Hands",
+        "Battersea Power Station",
+        "Alley Cats Pizza",
+        "Homeslice",
+        "Ria's",
+        "Napoli on the Road",
+        "Pizza Bun",
+        "Oi Vita",
+        "Crisp Pizza at The Marlborough",
+        "Pizza Union",
+        "Ace Pizza",
+        "ICCO",
+        "Crazy Pizza"
+      ],
+      "quotes": {
+        "Crisp Pizza at The Marlborough": "Given as Crisp Pizza W6"
+      },
+      "_note": "One channel, three videos. Channel URL only - per-video URLs not captured."
+    },
+    {
+      "name": "Harry Kersh (YouTube)",
+      "url": "https://www.youtube.com/@harrykersh",
+      "scope": "pizza",
+      "channel": "@harrykersh",
+      "videos": [
+        {
+          "title": "Finding The Best Pizza In London | Harry's Food Tours",
+          "url": "https://www.youtube.com/watch?v=8X_PxlVWODc",
+          "published": "2025-12-02"
+        }
+      ],
+      "names": [
+        "Japes",
+        "Vincenzo's",
+        "Napoli on the Road",
+        "Alley Cats Pizza"
+      ],
+      "quotes": {},
+      "_note": "Channel URL only."
+    },
+    {
+      "name": "JOLLY (YouTube)",
+      "url": "https://www.youtube.com/@jolly",
+      "scope": "pizza",
+      "channel": "@jolly",
+      "videos": [
+        {
+          "title": "We tried the Best Pizza in London!",
+          "url": "https://www.youtube.com/watch?v=k84hpLHGnoI",
+          "published": "2025-12-12"
+        }
+      ],
+      "names": [
+        "Big thanks to",
+        "Ijustwantogohome",
+        "Wolvesarefirst1134",
+        "Bettie Meier",
+        "Skip Allen",
+        "Dawn’s HEart",
+        "Nora yousef",
+        "Raileigh GJ",
+        "Li Winslow",
+        "Nolan Fan",
+        "Miguel Benitez Jr",
+        "MyNameIsTokyo",
+        "63angel",
+        "B Strauss",
+        "Reilly Willoughby",
+        "Axel Murillo",
+        "Jadexnyc",
+        "Claim2Game (a.k.a isaiah gollan 20)",
+        "Florian Adamek",
+        "12rose3",
+        "Julian Leung",
+        "Yun Lim",
+        "Laykan Dowdy",
+        "CitrusQuill",
+        "Gloria Kwon",
+        "Crisp Pizza at The Marlborough",
+        "Napoli on the Road",
+        "Paulie's"
+      ],
+      "quotes": {},
+      "_note": "Channel URL only."
+    },
+    {
+      "name": "MORE FALLOW",
+      "url": "https://www.youtube.com/@MoreFallow",
+      "scope": "pizza",
+      "names": [
+        "Crisp Pizza at The Marlborough"
+      ],
+      "quotes": {
+        "Crisp Pizza at The Marlborough": "Called the best pizza in the UK - and maybe the best in the world. At The Marlborough - Mayfair"
+      },
+      "recorded": "2026-08-30",
+      "_note": "Channel URL only."
+    },
+    {
+      "name": "Only Scrans",
+      "url": "https://www.youtube.com/@onlyscrans",
+      "scope": "pizza",
+      "names": [
+        "Crisp Pizza at The Marlborough"
+      ],
+      "quotes": {
+        "Crisp Pizza at The Marlborough": "Given as Crisp W6 - the most hyped pizza in London"
+      },
+      "recorded": "2026-08-30",
+      "_note": "Channel URL only."
+    },
+    {
+      "name": "Sam Wilder",
+      "url": "https://www.youtube.com/@SamWilder",
+      "scope": "pizza",
+      "names": [
+        "Crust Bros",
+        "Pizza Pilgrims",
+        "Homeslice",
+        "Japes"
+      ],
+      "recorded": "2026-08-30",
+      "_note": "Channel URL only."
+    },
+    {
+      "name": "Sorted Food",
+      "url": "https://www.youtube.com/@SortedFood",
+      "scope": "pizza",
+      "names": [
+        "Pizza Pilgrims",
+        "Pizza Union",
+        "Homeslice"
+      ],
+      "recorded": "2026-08-30",
+      "_note": "Channel URL only."
+    },
+    {
+      "name": "The MacMaster",
+      "url": "https://www.youtube.com/@TheMacMaster",
+      "scope": "pizza",
+      "names": [
+        "Breadstall"
+      ],
+      "recorded": "2026-08-30",
+      "_note": "Channel URL only. Explicitly a follow-up to the Barstool review - not independent corroboration."
     }
-  ]
+  ],
+  "_excludedVenueOwnAccounts": [
+    "@nuvolapizzauk - own-account post for Nuvola Pizza",
+    "@connies_pizza - own-account post for Connie's Pizza",
+    "@docklandspizza, @pizzavala_uk, @vinnyspizzauk - own-account promotional posts",
+    "@pizzaquestlondon - London Ontario, not London UK"
+  ],
+  "_droppedUnverifiedHandles": [
+    "tiktok.com/@francescacipolla (Vasiniko), @annamaria (Carmela's Pizzeria), @calvin (Carmy's)",
+    "Handles were reconstructed from display names and could not be verified. Recording a guessed handle would let a channel that may not exist count as an independent opinion. Carmy's has no other citation and therefore leaves the corpus entirely."
+  ],
+  "_syndicationResolved": "2026-08-30: dropped @brunchbytube and Find Eat Go, whose only contribution was restating 50 Top Pizza's ranking of Napoli on the Road. Kept @eat.snack.repeat, an independently curated 20-venue list. See the syndication rule in .claude/skills/consensus-guide/SKILL.md."
 }
