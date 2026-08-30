@@ -1,7 +1,7 @@
 ---
-title: "The Best Walks in London: The Thames, the Canals and the Parks"
-seoTitle: "Best Walks in London 2026: Thames Path, Canals & Park Routes"
-description: "The Regent's Canal from Little Venice to Camden, the Wapping riverside pub crawl, and the South Bank walk that takes in five free viewpoints."
+title: "The Best Walks Along the Thames in London"
+seoTitle: "Best Thames Path Walks in London 2026: South Bank to Greenwich"
+description: "The South Bank walk that takes in five free viewpoints, the Wapping riverside pub crawl, and the quiet Rotherhithe stretch into Greenwich — every walkable piece of the Thames Path in London."
 heroImage: "../../assets/articles/london-walks-along-the-thames/london-walks-along-the-thames.jpg"
 heroImageAlt: "The Queen's Walk riverside path along the Thames at Bankside"
 heroImageCredit: "Peter Trimming"
@@ -12,26 +12,26 @@ publishedAt: 2026-08-23
 sites: [london]
 canonicalSite: london
 category: "Things to do"
-tags: [walking, free things to do, Thames, canals, things to do]
+tags: [walking, free things to do, Thames, things to do]
 draft: false
 faq:
   - q: "What is the best walk in London?"
-    a: "The South Bank from Westminster to Tower Bridge is the classic — about an hour, entirely riverside, and it passes Tate Modern, the Globe, Borough Market and HMS Belfast. The Regent's Canal from Little Venice to Camden is the best quiet one."
+    a: "The South Bank from Westminster to Tower Bridge is the classic — about an hour, entirely riverside, and it passes Tate Modern, the Globe, Borough Market and HMS Belfast. Wapping to Limehouse is the best one if you'd rather do it pub by pub."
   - q: "Can you walk along the whole Thames in London?"
     a: "The Thames Path runs the full length on at least one bank, and mostly both. The best central stretch is Westminster to Tower Bridge on the south side; the best eastern stretch is Wapping to Limehouse."
-  - q: "How long is the Regent's Canal walk?"
-    a: "Little Venice to Camden is about 45 minutes, and Camden to King's Cross another 30. The whole towpath from Paddington to Limehouse is roughly 13km and takes about three hours."
-  - q: "Is walking a good way to see London?"
-    a: "It is the best way, and the Tube map actively misleads people about distance. Covent Garden to Soho is five minutes on foot. Leicester Square to Covent Garden is one Tube stop and a shorter walk than the station corridors."
-  - q: "Are London walks free?"
-    a: "All of these are. Guided walking tours charge for the commentary, but every route here is a public path."
+  - q: "Which side of the Thames is better to walk?"
+    a: "The south bank is more continuous and greener; the north has more of the historic pubs and the City. Between Westminster and Tower Bridge specifically, the south bank is the better walk by some margin."
+  - q: "Do you need a permit to search the Thames foreshore?"
+    a: "Yes — even picking things up off the mud requires a Port of London Authority licence, and they are limited. Looking without touching is free, and the foreshore is only exposed at low tide."
+  - q: "Are London river walks free?"
+    a: "All of these are. Guided walking tours charge for the commentary, but every route here is a public path, and the Thames Path itself is a National Trail."
 ---
 
-The Tube map is not to scale and it makes London look far bigger than it is. **Covent Garden to Leicester Square is one stop and a shorter walk than the station corridors.** Learning to walk London is the single biggest upgrade to a trip here.
+The Thames Path runs 185 miles from its source in Gloucestershire, but the stretch through London is the most consistently walkable part of it — flat, mostly signposted, and lined with the kind of thing you'd otherwise pay a guide to point out.
 
 These are the routes worth planning around, all free.
 
-> 💡 **The Short Version:** **Westminster to Tower Bridge** on the south bank is the classic hour. **Little Venice to Camden** along the canal is the best quiet walk. **Wapping to Limehouse** is the riverside pub route. And the **City on a Sunday** is empty and extraordinary.
+> 💡 **The Short Version:** **Westminster to Tower Bridge** on the south bank is the classic hour. **Rotherhithe to Greenwich** is the quiet stretch almost nobody else walks. **Wapping to Limehouse** is the riverside pub route. And the **City on a Sunday** is empty and extraordinary.
 
 > 📘 **How we choose these (editorial note)**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Timings are walking pace without stopping — every route here has enough on it that you should double them.
@@ -52,17 +52,7 @@ The classic London walk and still the best introduction to the city.
 
 ---
 
-## Regent's Canal: Little Venice to Camden
-
-*About 45 minutes · flat and quiet · free*
-
-The best walk in London that most visitors never find.
-
-**The route:** Little Venice → past the Puppet Theatre Barge → Maida Hill tunnel (the towpath diverts up to street level) → alongside **London Zoo's aviary** → Regent's Park → Camden Lock.
-
-**Worth stopping for:** the Feng Shang Princess floating pagoda at Cumberland Basin, the zoo animals visible from the path, and Camden Market at the end.
-
-**Continue:** Camden to King's Cross is another 30 minutes and brings you out at Granary Square and Coal Drops Yard.
+> 🛶 **Want the canal instead of the river?** The Regent's Canal is its own walk entirely — 8.6 miles and 13 locks from Little Venice to Limehouse Basin, broken into sections that each end at a Tube station. See our [full canal walks guide](/articles/best-canal-walks-london/) for it section by section.
 
 ---
 
@@ -91,16 +81,6 @@ The Square Mile empties completely at weekends, which makes it the best time to 
 **Worth finding:** **Postman's Park**, **St Dunstan in the East**, Leadenhall Market's exterior, the Roman wall at Tower Hill, and the Barbican highwalks.
 
 > ⚠️ Almost everything is closed. This is a walk, not a day out — bring a coffee with you.
-
----
-
-## Hampstead Heath to Primrose Hill
-
-*About an hour · hilly · free*
-
-**The route:** Hampstead village → the Heath → Parliament Hill for the protected City view → Kenwood House (free) → back down through Belsize Park → Primrose Hill for the second view.
-
-Two of London's best skyline views in one walk, plus a Robert Adam interior with Rembrandts in it, for nothing.
 
 ---
 
@@ -152,16 +132,6 @@ Walk east from there to the **Woolwich Ferry**, which is free, takes vehicles an
 
 ---
 
-## Short central walks people take the Tube for
-
-* **Covent Garden → Leicester Square** — 4 minutes. One Tube stop, and further through the station tunnels.
-* **Covent Garden → Soho** — 5 minutes.
-* **Westminster → South Bank** — 10 minutes over the bridge.
-* **St Paul's → Tate Modern** — 8 minutes over the Millennium Bridge.
-* **King's Cross → Bloomsbury** — 12 minutes.
-
----
-
 ## Practical notes for walking the river
 
 * **The tide runs fast and the foreshore is not a beach.** The stairs at Wapping, Bankside and Rotherhithe are only usable around low water, and the river comes back in more quickly than people expect. Check a tide table before going down.
@@ -191,18 +161,17 @@ Prefer to see the river from the water instead of the towpath one day.
 ## What to know
 
 * **The Thames Path is signposted** and runs on at least one bank the whole way through London.
-* **Canal towpaths are shared with cyclists.** Keep left and expect bells.
 * **Tide matters** on the river walks — the Thames drops a long way and the foreshore appears. Do not go down onto it without checking the tide table.
-* **Maida Hill tunnel has no towpath.** The canal walk diverts to street level for about five minutes and it is well signed.
 * **Comfortable shoes beat any travel advice** anyone will give you about London.
 
 ---
 
 ## Continue planning your London trip
 
+- 🛶 **[Best Canal Walks in London](/articles/best-canal-walks-london/)**
+- 🥾 **[The Hampstead Heath to Primrose Hill Walk](/articles/hampstead-heath-primrose-hill-walk/)**
 - 🎪 **[Free Things to Do in London](/free/)**
 - 👀 **[The Best Views in London](/articles/best-views-london/)**
 - 🍺 **[Historic Pubs and Dining Rooms in London](/articles/historic-pubs-dining-rooms-london/)**
-- 🌳 **[London's Parks and Gardens](/articles/best-parks-gardens-london/)**
 - ⛵ **[Greenwich Area Guide](/articles/greenwich-area-guide/)**
 - 🚂 **[King's Cross Area Guide](/articles/kings-cross-area-guide/)**

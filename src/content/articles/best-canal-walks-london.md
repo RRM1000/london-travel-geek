@@ -81,6 +81,10 @@ Quieter immediately after Camden, and it improves the whole way. The canal runs 
 
 *The towpath by Camley Street, planted rather than mown — the reserve's influence spreads along the bank well beyond its own gate.*
 
+![Gasholders London, a circular apartment building built inside a restored Victorian gasholder frame, seen from the Regent's Canal towpath](../../assets/articles/best-canal-walks-london/kings-cross-gasholders-canal.jpg)
+
+*Gasholders London — the restored Victorian frames mentioned above, now wrapped around a circular apartment building right on the towpath.*
+
 More in our [King's Cross guide](/articles/kings-cross-area-guide/) and [hidden London](/articles/hidden-london-secret-places/).
 
 ---
@@ -114,6 +118,10 @@ You pass **Kingsland Basin** and **Broadway Market** — worth leaving the canal
 ![People drinking at long canalside tables outside a warehouse bar at Hackney Wick](../../assets/articles/best-canal-walks-london/hackney-wick-canalside.jpg)
 
 *Hackney Wick, where the Hertford Union meets the Lea. The warehouses along here are now breweries and bars, and the terraces run right down to the water.*
+
+![A trip boat crowded with passengers passing moored narrowboats on the Lea Navigation at Hackney Wick, graffiti-covered warehouses on the bank behind](../../assets/articles/best-canal-walks-london/hackney-wick-lea-narrowboats.jpg)
+
+*The Lea Navigation itself at Hackney Wick — a trip boat squeezing past permanent moorings, with the graffiti-covered warehouses that give the area its look.*
 
 ---
 
