@@ -95,7 +95,7 @@ Harrison Webb used it as the £328 end of a £6-versus-£328 comparison; a singl
 
 Angela Hartnett's Mayfair dining room, starred within four months of opening in 2008. Northern Italian cooking in a formal room, named after the Venetian glass-making island.
 
-If the price is the obstacle, [Café Murano](#café-murano-covent-garden) is the same kitchen thinking at roughly a third of it.
+If the price is the obstacle, Café Murano in Covent Garden is the same kitchen thinking at roughly a third of it — see [Best value](#best-value).
 
 ![A charcuterie board with olive oil and grissini](../../assets/articles/best-italian-restaurants-london/murano.jpg)
 
