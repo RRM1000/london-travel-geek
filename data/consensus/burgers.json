@@ -38,40 +38,15 @@
         "Lucky Chip",
         "MEATliquor",
         "Mother Flipper",
-        "Baba G's",
-        "Offers"
+        "Baba G's"
       ]
-    },
-    {
-      "name": "DesignMyNight",
-      "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
-      "names": [
-        "Rewards",
-        "Jobs"
-      ]
-    },
-    {
-      "name": "Wrap Your Lips Around This",
-      "url": "https://wrapyourlipsaroundthis.com/best-burger-in-london/",
-      "error": "no headings matched"
     },
     {
       "name": "National Burger Awards 2026 (Time Out)",
       "url": "https://www.timeout.com/london/news/this-london-burger-has-been-named-the-best-in-the-uk-for-2026-032526",
       "scope": "awards",
       "names": [
-        "Investor relations",
-        "Work for Time Out",
-        "Privacy notice",
-        "Do not sell my information",
-        "Accessibility statement",
-        "Get Listed",
-        "Time Out Offers FAQ",
         "Advertising",
-        "Time Out Market",
-        "Time Out Offers",
-        "Time Out Worldwide",
-        "Movies",
         "The Honest",
         "Burger & Beyond",
         "Meat Stack",
@@ -83,18 +58,7 @@
       "url": "https://www.timeout.com/london/news/the-best-burger-in-london-according-to-time-out-080825",
       "scope": "awards",
       "names": [
-        "Investor relations",
-        "Work for Time Out",
-        "Privacy notice",
-        "Do not sell my information",
-        "Accessibility statement",
-        "Get Listed",
-        "Time Out Offers FAQ",
         "Advertising",
-        "Time Out Market",
-        "Time Out Offers",
-        "Time Out Worldwide",
-        "Movies",
         "Dumbo"
       ]
     },
@@ -143,16 +107,6 @@
       "name": "Mob",
       "url": "https://www.mob.co.uk/life/best-burgers-in-london",
       "names": [
-        "Browse All Recipes",
-        "Meals",
-        "Nutrition",
-        "Ingredients",
-        "Dinner tonight",
-        "Lunch today",
-        "Feed the whole family",
-        "Meal Plans",
-        "Batch Cooking",
-        "Freezer-Friendly",
         "Bake Street",
         "The Plimsoll",
         "Bleecker",
@@ -167,5 +121,6 @@
         "Supernova"
       ]
     }
-  ]
+  ],
+  "recorded": "2026-08-30"
 }

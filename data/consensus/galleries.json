@@ -1,7 +1,7 @@
 {
   "cuisine": "galleries",
   "note": "SCOPE. Art galleries in London - public institutions and commercial contemporary galleries. Museums live in the museums topic.",
-  "recorded": "2026-08-26",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "Corinthia",
@@ -18,13 +18,6 @@
         "A guide to shopping in Covent Garden",
         "Stay in touch"
       ]
-    },
-    {
-      "name": "Ocula",
-      "url": "https://ocula.com/cities/united-kingdom/london-art-galleries/",
-      "scope": "galleries",
-      "names": [],
-      "error": "no headings matched"
     },
     {
       "name": "Art Fund",
@@ -74,13 +67,6 @@
         "The Photographers’ Gallery",
         "Map"
       ]
-    },
-    {
-      "name": "Rossetti Art",
-      "url": "https://rossettiart.com/blogs/news/contemporary-art-galleries-in-london-exhibition-guide",
-      "scope": "galleries",
-      "names": [],
-      "error": "no headings matched"
     },
     {
       "name": "Art Collecting",
@@ -232,8 +218,7 @@
         "Whitechapel Gallery",
         "Camden Arts Projects",
         "White Cube",
-        "The Wallace Collection",
-        "The Author"
+        "The Wallace Collection"
       ]
     },
     {

@@ -29,7 +29,7 @@ That is the useful fact, and no ranking gives it to you. So this guide is arrang
 > 💡 **The Short Version:** **Mangal II** in Dalston and **Antepliler** on Green Lanes are the most-cited. **Gökyüzü** is the Green Lanes landmark. **Zahter** and **Yeni** are the two Soho rooms in the Michelin Guide. **Durak Tantuni** does the best cheap thing in the guide. And if you only make one trip, make it to Green Lanes rather than the West End.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **7 sources carrying 101 citations** across **56 named restaurants** — Harden's, the editorial mastheads (Time Out, The Infatuation, Suitcase, Secret London) and two specialist write-ups. **27 restaurants are named by two or more independent sources.**
+> Nothing here is ranked on one visit. This pass reads **7 sources carrying 100 citations** across **55 named restaurants** — Harden's, the editorial mastheads (Time Out, The Infatuation, Suitcase, Secret London) and two specialist write-ups. **27 restaurants are named by two or more independent sources.**
 > **The known weakness in this topic: there is no award.** No Michelin star, no annual category prize, nothing judged. Harden's is the only inspected source and it lists exactly three London restaurants under Turkish — Haz, Baraka and Leydi — so three venues here have any judged backing at all and the rest rests on editorial agreement. The corpus is also small: seven publications, where pizza has thirty-one. Read the counts as agreement between critics, not as a verdict.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 

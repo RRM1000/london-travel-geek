@@ -1,7 +1,7 @@
 {
   "cuisine": "views",
   "note": "Seeded 2026-08-25.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "Full Suitcase",
@@ -149,8 +149,7 @@
         "The Garden At 120",
         "Primrose Hill",
         "OXO Tower Viewing Platform",
-        "Greenwich Park And Observatory",
-        "The Author"
+        "Greenwich Park And Observatory"
       ]
     }
   ]

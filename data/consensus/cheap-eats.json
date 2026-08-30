@@ -1,7 +1,7 @@
 {
   "cuisine": "cheap-eats",
   "note": "Seeded 2026-08-25.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "BudgetTraveller",
@@ -29,7 +29,6 @@
         "George’s Cafe",
         "Cheap Eats Guide to Cardiff",
         "Cheap eats guide to Tenerife",
-        "72 Hours in Hong Kong",
         "2016 National Geographic Traveller Blogger of the Year"
       ]
     },
@@ -233,13 +232,6 @@
         "Tower Tandoori Restaurant",
         "Tikka Nation"
       ]
-    },
-    {
-      "name": "Passport Palate",
-      "url": "https://passportpalate.com/vegetarian-indian-food-in-london-budget-2025/",
-      "scope": "cheap-eats",
-      "names": [],
-      "error": "fetch failed"
     },
     {
       "name": "Halima Bobs",

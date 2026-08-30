@@ -1,7 +1,7 @@
 {
   "cuisine": "bars",
   "note": "THE BARS PASS. Cocktail bars, wine bars and pubs as DESTINATIONS rather than as places that happen to serve food. The sheet already held 6 pubs and 19 gastropubs, but every one arrived through a British FOOD pass - so the room was judged on its kitchen. London holds more entries in the World's 50 Best Bars than any other city and the sheet had none of them. Bars carry no cuisine (nothing to name, as with coffee and dessert) unless the kitchen is genuinely a draw; the speciality values cocktails, wine-led and beer do the work, and venueFormat separates a cocktail bar from a wine bar from a pub. SCOPING: the World's 50 Best and Top 50 Cocktail Bars lists are the awards leg and matter more here than consensus, because bar coverage in general listicles is thin and repetitive. Every URL came from a search result.",
-  "recorded": "2026-08-18",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "The Nudge (cocktail bars)",
@@ -372,9 +372,7 @@
       "url": "https://www.designmynight.com/london/pubs/best-london-pubs",
       "scope": "bars-pubs",
       "names": [
-        "Price:",
-        "Rewards",
-        "Jobs"
+        "Price:"
       ]
     }
   ]

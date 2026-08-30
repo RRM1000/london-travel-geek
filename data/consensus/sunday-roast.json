@@ -1,14 +1,13 @@
 {
   "cuisine": "sunday-roast",
   "note": "Seeded 2026-08-26.",
-  "recorded": "2026-08-26",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "Time Out (28 best Sunday lunches)",
       "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches",
       "scope": "sunday-roast",
       "names": [
-        "London's best Sunday roasts at a glance:",
         "The Golden Tooth",
         "Rice Paddy at The White Horse",
         "Sessions Arts Club",
@@ -121,8 +120,7 @@
         "The Blue Boar Pub",
         "MR PORTER Restaurant",
         "The Talbot",
-        "Sunday Roast FAQs",
-        "The Author"
+        "Sunday Roast FAQs"
       ]
     },
     {
@@ -154,10 +152,8 @@
       "url": "https://pubguidelondon.com/best-sunday-roasts.html",
       "scope": "sunday-roast",
       "names": [
-        "From the Blog",
         "star rating",
-        "price range",
-        "' + p.name + '"
+        "price range"
       ]
     },
     {

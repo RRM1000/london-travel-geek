@@ -1,14 +1,13 @@
 {
   "cuisine": "comedy",
   "note": "Seeded 2026-08-25.",
-  "recorded": "2026-08-26",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "Shortlist",
       "url": "https://www.shortlist.com/entertainment/best-comedy-london-stand-up-comedians-venues",
       "scope": "comedy",
       "names": [
-        "View Profile",
         "Gear",
         "Style",
         "Alcohol",
@@ -21,7 +20,6 @@
       "url": "https://www.comedyinyoureye.com/post/the-best-london-comedy-clubs",
       "scope": "comedy",
       "names": [
-        "Recent Posts",
         "Dec 16",
         "3 min read"
       ]
@@ -31,9 +29,6 @@
       "url": "https://www.designmynight.com/london/whats-on/best-comedy-nights-in-london",
       "scope": "comedy",
       "names": [
-        "Rewards",
-        "Jobs",
-        "My Account",
         "Nathan Caton",
         "Spencer Brown"
       ]
@@ -47,7 +42,6 @@
         "Events & Shows",
         "Buses & Trains",
         "Planner",
-        "Hotels",
         "Walks",
         "Book",
         "Forum",
@@ -71,8 +65,7 @@
         "6 Sep",
         "7 Sep",
         "8 Sep",
-        "Site map",
-        "2026 London Drum"
+        "Site map"
       ]
     }
   ]

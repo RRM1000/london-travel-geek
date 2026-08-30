@@ -1,7 +1,7 @@
 {
   "cuisine": "late-night",
   "note": "THE LATE-NIGHT PASS. NOT a cuisine - a FILTER, recorded as the lists value 'late-night'. See notCuisines: this is exactly the class of high-volume search that must never become a Cuisine value. It is also not fully expressible from existing fields, because the sheet has no closing-time column - Closed Days says which days, never how late. So the list value carries it, and the operational note carries the detail. Venues here are a mix: some are 24-hour, some simply serve past midnight, and the two are different promises to a visitor.",
-  "recorded": "2026-08-18",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "The Infatuation (late night)",
@@ -40,20 +40,6 @@
       "names": [
         "The Details",
         "Café KOKO"
-      ]
-    },
-    {
-      "name": "Hot Dinners (late night)",
-      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/late-night-restaurants-dining-london-after-hours",
-      "scope": "late-night",
-      "names": [
-        "Offers",
-        "Test Drives",
-        "Summer",
-        "All features",
-        "See all offers",
-        "Hot Dinners recommends",
-        "Staying in"
       ]
     },
     {

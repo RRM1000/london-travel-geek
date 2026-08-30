@@ -1,7 +1,7 @@
 {
   "cuisine": "greek",
   "note": "Tier 2, sized at 17 rows - deliberately fewer than the tier 1 cuisines, per sizing in research-playbook.json. SCOPE: Greek and Greek-Cypriot. Oma is already banked from the general-excellence pass. guide.michelin.com is blocked (403) so it is absent by design. Every URL came from a search result.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "The Infatuation (Greek)",
@@ -49,20 +49,10 @@
       ]
     },
     {
-      "name": "DesignMyNight (Greek)",
-      "url": "https://www.designmynight.com/london/restaurants/greek-restaurants-in-london",
-      "scope": "greek",
-      "names": [
-        "Rewards",
-        "Jobs"
-      ]
-    },
-    {
       "name": "Absolutely (Greek)",
       "url": "https://absolutelymagazines.com/best-greek-restaurants-in-london/",
       "scope": "greek",
       "names": [
-        "Top Eats",
         "Contents",
         "Myrtos",
         "Pyro",

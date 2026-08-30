@@ -1,7 +1,7 @@
 {
   "cuisine": "markets",
   "note": "Seeded 2026-08-25.",
-  "recorded": "2026-08-26",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "Lamplit London",
@@ -15,7 +15,6 @@
         "Mercato Metropolitano",
         "Common questions",
         "ping pong london",
-        "From the Journal",
         "The Art of the London Date Night",
         "Keep exploring London"
       ]
@@ -120,7 +119,6 @@
       "url": "https://www.timeout.com/london/shopping/best-london-markets",
       "scope": "markets",
       "names": [
-        "London ' s best markets at a glance:",
         "12 brilliant London markets",
         "Greenwich Market",
         "Columbia Road Flower Market",

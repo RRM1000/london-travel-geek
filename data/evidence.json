@@ -730,31 +730,6 @@
       }
     ]
   },
-  "shoppingoncolumbiaroad": {
-    "name": "Shopping On Columbia Road",
-    "topics": [
-      "activities-shoreditch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "activities-shoreditch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/collections/things-to-do-in-shoreditch/"
-      }
-    ]
-  },
   "coolshoreditchactivitiesperfectforgroups": {
     "name": "Cool Shoreditch Activities Perfect For Groups",
     "topics": [
@@ -1030,252 +1005,6 @@
       }
     ]
   },
-  "rewards": {
-    "name": "Rewards",
-    "topics": [
-      "activities",
-      "activities-shoreditch",
-      "bars",
-      "british",
-      "burgers",
-      "comedy",
-      "french",
-      "general",
-      "greek",
-      "korean",
-      "pizza",
-      "seafood",
-      "steak",
-      "thai",
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "activities-shoreditch": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "activities": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "comedy": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "greek": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "pizza": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/unique-things-to-do-in-shoreditch"
-      }
-    ]
-  },
-  "jobs": {
-    "name": "Jobs",
-    "topics": [
-      "activities",
-      "activities-shoreditch",
-      "bars",
-      "british",
-      "burgers",
-      "comedy",
-      "french",
-      "general",
-      "greek",
-      "korean",
-      "pizza",
-      "seafood",
-      "steak",
-      "thai",
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "activities-shoreditch": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "activities": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "comedy": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "greek": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "pizza": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/unique-things-to-do-in-shoreditch"
-      }
-    ]
-  },
   "bangkokatsmokinggoat": {
     "name": "Bangkok at Smoking Goat",
     "topics": [
@@ -1529,31 +1258,6 @@
   },
   "munchonstreetfoodeats": {
     "name": "Munch on street food eats",
-    "topics": [
-      "activities-shoreditch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "activities-shoreditch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/things-to-do-shoreditch/"
-      }
-    ]
-  },
-  "shopatoneofshoreditchscoolmarkets": {
-    "name": "Shop at one of Shoreditch’s cool markets",
     "topics": [
       "activities-shoreditch"
     ],
@@ -8069,21 +7773,14 @@
   "shop": {
     "name": "The Shop",
     "topics": [
-      "activities",
-      "coffee"
+      "activities"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
+    "sourceCount": 1,
+    "tierSpread": "C1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "activities": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "coffee": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -8095,11 +7792,6 @@
         "tier": "C",
         "source": "The London Mother",
         "url": "https://www.thelondonmother.net/things-to-do-canary-wharf/"
-      },
-      {
-        "tier": "C",
-        "source": "Batch Coffee",
-        "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
       }
     ]
   },
@@ -19415,38 +19107,6 @@
       }
     ]
   },
-  "10superblondontastingmenusunder70": {
-    "name": "10 Superb London Tasting Menus Under £70",
-    "topics": [
-      "breakfast-brunch",
-      "turkish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "turkish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Resy",
-        "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
-      }
-    ]
-  },
   "centrallondonbrunch": {
     "name": "Central London Brunch",
     "topics": [
@@ -23753,38 +23413,6 @@
       }
     ]
   },
-  "londonsbestsundayroastsataglance": {
-    "name": "London’s best Sunday roasts at a glance:",
-    "topics": [
-      "british",
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      }
-    ]
-  },
   "topsundaylunchesinlondon": {
     "name": "Top Sunday lunches in London",
     "topics": [
@@ -25459,216 +25087,6 @@
       }
     ]
   },
-  "cookieconsent": {
-    "name": "Cookie Consent",
-    "topics": [
-      "british",
-      "london-with-children"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "london-with-children": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "British Food Crew",
-        "url": "https://britishfoodcrew.com/best-london-gastropubs-14-top-spots/"
-      },
-      {
-        "tier": "C",
-        "source": "Big Pitt Stop",
-        "url": "https://bigpittstop.com/best-things-to-do-in-london-with-kids/"
-      }
-    ]
-  },
-  "cookiepreferences": {
-    "name": "Cookie Preferences",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "British Food Crew",
-        "url": "https://britishfoodcrew.com/best-london-gastropubs-14-top-spots/"
-      }
-    ]
-  },
-  "testdrives": {
-    "name": "Test Drives",
-    "topics": [
-      "british",
-      "general",
-      "ice-cream",
-      "italian",
-      "korean",
-      "late-night",
-      "steak",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
-  "summer": {
-    "name": "Summer",
-    "topics": [
-      "british",
-      "general",
-      "ice-cream",
-      "italian",
-      "korean",
-      "late-night",
-      "steak",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
   "woolpackinn": {
     "name": "The Woolpack Inn",
     "topics": [
@@ -26550,228 +25968,6 @@
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
-  "allfeatures": {
-    "name": "All features",
-    "topics": [
-      "british",
-      "general",
-      "ice-cream",
-      "italian",
-      "korean",
-      "late-night",
-      "steak",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
-  "hotdinnersrecommends": {
-    "name": "Hot Dinners recommends",
-    "topics": [
-      "british",
-      "general",
-      "ice-cream",
-      "italian",
-      "korean",
-      "late-night",
-      "steak",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
-      }
-    ]
-  },
-  "stayingin": {
-    "name": "Staying in",
-    "topics": [
-      "british",
-      "general",
-      "ice-cream",
-      "italian",
-      "korean",
-      "late-night",
-      "steak",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -27683,38 +26879,6 @@
       }
     ]
   },
-  "thelondonfoodbible": {
-    "name": "🍴 The London Food Bible",
-    "topics": [
-      "british",
-      "fish-and-chips"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "British Food Crew",
-        "url": "https://britishfoodcrew.com/best-fish-chips-in-london-the-definitive-2026-guide/"
-      }
-    ]
-  },
   "brockleysrock": {
     "name": "Brockley’s Rock",
     "topics": [
@@ -28031,126 +27195,6 @@
         "tier": "C",
         "source": "Travelicious Bites",
         "url": "https://traveliciousbites.com/destinations/europe/london/best-fish-and-chips-in-london/"
-      }
-    ]
-  },
-  "author": {
-    "name": "The Author",
-    "topics": [
-      "british",
-      "galleries",
-      "general",
-      "korean",
-      "new-openings",
-      "pakistani",
-      "parks-gardens",
-      "sunday-roast",
-      "views"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "galleries": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "pakistani": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "parks-gardens": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "views": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london"
-      }
-    ]
-  },
-  "topeats": {
-    "name": "Top Eats",
-    "topics": [
-      "british",
-      "greek",
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "greek": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Absolutely",
-        "url": "https://absolutelymagazines.com/londons-best-fish-chips/"
       }
     ]
   },
@@ -33562,193 +32606,6 @@
       }
     ]
   },
-  "pressoffice": {
-    "name": "Press office",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
-      }
-    ]
-  },
-  "investorrelations": {
-    "name": "Investor relations",
-    "topics": [
-      "british",
-      "burgers",
-      "coffee",
-      "dim-sum",
-      "french",
-      "general",
-      "italian",
-      "new-openings",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
-      }
-    ]
-  },
-  "workfortimeout": {
-    "name": "Work for Time Out",
-    "topics": [
-      "british",
-      "burgers",
-      "coffee",
-      "dim-sum",
-      "french",
-      "general",
-      "italian",
-      "new-openings",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
-      }
-    ]
-  },
   "editorialguidelines": {
     "name": "Editorial guidelines",
     "topics": [
@@ -33760,679 +32617,6 @@
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
-      }
-    ]
-  },
-  "donotsellmyinformation": {
-    "name": "Do not sell my information",
-    "topics": [
-      "british",
-      "burgers",
-      "coffee",
-      "dim-sum",
-      "french",
-      "general",
-      "italian",
-      "new-openings",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
-      }
-    ]
-  },
-  "accessibilitystatement": {
-    "name": "Accessibility statement",
-    "topics": [
-      "british",
-      "burgers",
-      "coffee",
-      "dim-sum",
-      "french",
-      "general",
-      "italian",
-      "new-openings",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
-      }
-    ]
-  },
-  "termsofuse": {
-    "name": "Terms of use",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
-      }
-    ]
-  },
-  "getlisted": {
-    "name": "Get Listed",
-    "topics": [
-      "british",
-      "burgers",
-      "coffee",
-      "dim-sum",
-      "french",
-      "general",
-      "italian",
-      "new-openings",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
-      }
-    ]
-  },
-  "timeoutoffersfaq": {
-    "name": "Time Out Offers FAQ",
-    "topics": [
-      "british",
-      "burgers",
-      "coffee",
-      "dim-sum",
-      "french",
-      "general",
-      "italian",
-      "new-openings",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
-      }
-    ]
-  },
-  "timeoutmarket": {
-    "name": "Time Out Market",
-    "topics": [
-      "british",
-      "burgers",
-      "coffee",
-      "dim-sum",
-      "french",
-      "general",
-      "italian",
-      "new-openings",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
-      }
-    ]
-  },
-  "timeoutoffers": {
-    "name": "Time Out Offers",
-    "topics": [
-      "british",
-      "burgers",
-      "coffee",
-      "dim-sum",
-      "french",
-      "general",
-      "italian",
-      "new-openings",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
-      }
-    ]
-  },
-  "timeoutworldwide": {
-    "name": "Time Out Worldwide",
-    "topics": [
-      "british",
-      "burgers",
-      "coffee",
-      "dim-sum",
-      "french",
-      "general",
-      "italian",
-      "new-openings",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
-      }
-    ]
-  },
-  "movies": {
-    "name": "Movies",
-    "topics": [
-      "british",
-      "burgers",
-      "coffee",
-      "dim-sum",
-      "french",
-      "general",
-      "italian",
-      "new-openings",
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "thai": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -36915,201 +35099,6 @@
       }
     ]
   },
-  "over3000entries": {
-    "name": "+ Over 3000 entries",
-    "topics": [
-      "british",
-      "general",
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Harden's",
-        "url": "https://www.hardens.com/top-100-uk-restaurants/"
-      }
-    ]
-  },
-  "constantlyupdated": {
-    "name": "+ Constantly updated",
-    "topics": [
-      "british",
-      "general",
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Harden's",
-        "url": "https://www.hardens.com/top-100-uk-restaurants/"
-      }
-    ]
-  },
-  "clubaccess": {
-    "name": "+ Club access",
-    "topics": [
-      "british",
-      "general",
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Harden's",
-        "url": "https://www.hardens.com/top-100-uk-restaurants/"
-      }
-    ]
-  },
-  "restaurantdiary": {
-    "name": "+ Restaurant diary",
-    "topics": [
-      "british",
-      "general",
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Harden's",
-        "url": "https://www.hardens.com/top-100-uk-restaurants/"
-      }
-    ]
-  },
-  "worksoffline": {
-    "name": "+ Works offline",
-    "topics": [
-      "british",
-      "general",
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Harden's",
-        "url": "https://www.hardens.com/top-100-uk-restaurants/"
-      }
-    ]
-  },
   "starinn": {
     "name": "The Star Inn",
     "topics": [
@@ -37144,31 +35133,6 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
-      }
-    ]
-  },
-  "2025awardwinners": {
-    "name": "2025 Award Winners",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Estrella Damm Top 50 Gastropubs",
-        "url": "https://www.top50gastropubs.com/"
       }
     ]
   },
@@ -40132,38 +38096,6 @@
       }
     ]
   },
-  "92goodfoodguiderestaurantssupportingstreetsmart": {
-    "name": "92 Good Food Guide restaurants supporting StreetSmart",
-    "topics": [
-      "british",
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-london"
-      }
-    ]
-  },
   "31restaurantsforsavouringbritishsummerproduce": {
     "name": "31 restaurants for savouring British summer produce",
     "topics": [
@@ -41673,70 +39605,6 @@
       }
     ]
   },
-  "30under30": {
-    "name": "30 Under 30",
-    "topics": [
-      "british",
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/joemicallef/2026/04/02/londons-afternoon-tea-where-to-find-the-best-in-2026/"
-      }
-    ]
-  },
-  "50over50": {
-    "name": "50 Over 50",
-    "topics": [
-      "british",
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/joemicallef/2026/04/02/londons-afternoon-tea-where-to-find-the-best-in-2026/"
-      }
-    ]
-  },
   "topcolleges": {
     "name": "Top Colleges",
     "topics": [
@@ -42025,72 +39893,8 @@
       }
     ]
   },
-  "privacystatement": {
-    "name": "Privacy Statement",
-    "topics": [
-      "british",
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/joemicallef/2026/04/02/londons-afternoon-tea-where-to-find-the-best-in-2026/"
-      }
-    ]
-  },
   "adchoices": {
     "name": "AdChoices",
-    "topics": [
-      "british",
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/joemicallef/2026/04/02/londons-afternoon-tea-where-to-find-the-best-in-2026/"
-      }
-    ]
-  },
-  "jobsatforbes": {
-    "name": "Jobs At Forbes",
     "topics": [
       "british",
       "general"
@@ -45120,31 +42924,6 @@
       }
     ]
   },
-  "fromlondonbridgetobridgerton": {
-    "name": "From London Bridge to Bridgerton",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Fact London",
-        "url": "https://www.factlondon.com/food-london-united-kingdom/16-amazing-afternoon-teas-in-london"
-      }
-    ]
-  },
   "shangrilatheshard": {
     "name": "Shangri-La The Shard",
     "topics": [
@@ -46359,326 +44138,6 @@
       }
     ]
   },
-  "browseallrecipes": {
-    "name": "Browse All Recipes",
-    "topics": [
-      "burgers",
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-burgers-in-london"
-      }
-    ]
-  },
-  "meals": {
-    "name": "Meals",
-    "topics": [
-      "burgers",
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-burgers-in-london"
-      }
-    ]
-  },
-  "nutrition": {
-    "name": "Nutrition",
-    "topics": [
-      "burgers",
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-burgers-in-london"
-      }
-    ]
-  },
-  "ingredients": {
-    "name": "Ingredients",
-    "topics": [
-      "burgers",
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-burgers-in-london"
-      }
-    ]
-  },
-  "dinnertonight": {
-    "name": "Dinner tonight",
-    "topics": [
-      "burgers",
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-burgers-in-london"
-      }
-    ]
-  },
-  "lunchtoday": {
-    "name": "Lunch today",
-    "topics": [
-      "burgers",
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-burgers-in-london"
-      }
-    ]
-  },
-  "feedthewholefamily": {
-    "name": "Feed the whole family",
-    "topics": [
-      "burgers",
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-burgers-in-london"
-      }
-    ]
-  },
-  "mealplans": {
-    "name": "Meal Plans",
-    "topics": [
-      "burgers",
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-burgers-in-london"
-      }
-    ]
-  },
-  "batchcooking": {
-    "name": "Batch Cooking",
-    "topics": [
-      "burgers",
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-burgers-in-london"
-      }
-    ]
-  },
-  "freezerfriendly": {
-    "name": "Freezer-Friendly",
-    "topics": [
-      "burgers",
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-burgers-in-london"
-      }
-    ]
-  },
   "pattyandbun": {
     "name": "Patty & Bun",
     "topics": [
@@ -47313,31 +44772,6 @@
   },
   "cheapeatsguidetotenerife": {
     "name": "Cheap eats guide to Tenerife",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "BudgetTraveller",
-        "url": "https://budgettraveller.org/best-cheap-eats-london-guide/"
-      }
-    ]
-  },
-  "72hoursinhongkong": {
-    "name": "72 Hours in Hong Kong",
     "topics": [
       "cheap-eats"
     ],
@@ -57470,91 +54904,6 @@
       }
     ]
   },
-  "recentposts": {
-    "name": "Recent Posts",
-    "topics": [
-      "coffee",
-      "comedy",
-      "historic-houses",
-      "mexican",
-      "spanish",
-      "vietnamese"
-    ],
-    "sourceCount": 6,
-    "tierSpread": "B1 C5",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "comedy": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "historic-houses": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "vietnamese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "FLTR Magazine",
-        "url": "https://fltrmagazine.com/2026/05/11/best-specialty-coffee-shops-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Comedy In Your Eye",
-        "url": "https://www.comedyinyoureye.com/post/the-best-london-comedy-clubs"
-      },
-      {
-        "tier": "C",
-        "source": "TAT London",
-        "url": "https://www.tat-london.co.uk/post/historic-homes-london"
-      },
-      {
-        "tier": "C",
-        "source": "ET Food Voyage",
-        "url": "https://www.etfoodvoyage.com/halal-tacos-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "London Tapas Guide",
-        "url": "https://londontapasguide.wordpress.com/2026/04/06/how-to-choose-the-best-spanish-tapas-restaurant-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Time Well Spent",
-        "url": "https://www.timewellspentmag.com/post/masterchef-star-thuy-hoang-names-london-s-best-vietnamese-restaurants"
-      }
-    ]
-  },
   "calico": {
     "name": "Calico",
     "topics": [
@@ -59241,55 +56590,6 @@
       }
     ]
   },
-  "company": {
-    "name": "Company",
-    "topics": [
-      "coffee",
-      "live-music",
-      "vegan"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "live-music": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Batch Coffee",
-        "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
-      },
-      {
-        "tier": "C",
-        "source": "Pirate",
-        "url": "https://pirate.com/en/blog/london-live-music-venues/"
-      },
-      {
-        "tier": "C",
-        "source": "Dinespotter",
-        "url": "https://dinespotter.co.uk/london-best-vegetarian-vegan-restaurants-2026/"
-      }
-    ]
-  },
   "support": {
     "name": "Support",
     "topics": [
@@ -59664,38 +56964,6 @@
       }
     ]
   },
-  "viewprofile": {
-    "name": "View Profile",
-    "topics": [
-      "comedy",
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "comedy": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "ShortList",
-        "url": "https://www.shortlist.com/entertainment/best-comedy-london-stand-up-comedians-venues"
-      }
-    ]
-  },
   "style": {
     "name": "Style",
     "topics": [
@@ -59863,45 +57131,6 @@
         "tier": "C",
         "source": "Comedy In Your Eye",
         "url": "https://www.comedyinyoureye.com/post/the-best-london-comedy-clubs"
-      }
-    ]
-  },
-  "myaccount": {
-    "name": "My Account",
-    "topics": [
-      "comedy",
-      "french",
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "comedy": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/whats-on/best-comedy-nights-in-london"
       }
     ]
   },
@@ -60620,43 +57849,6 @@
   "sitemap": {
     "name": "Site map",
     "topics": [
-      "comedy",
-      "general"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "comedy": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "London Drum",
-        "url": "https://londondrum.com/events/?cat=9"
-      }
-    ]
-  },
-  "2026londondrum": {
-    "name": "2026 London Drum",
-    "topics": [
       "comedy"
     ],
     "sourceCount": 1,
@@ -60981,31 +58173,6 @@
   },
   "escaperooms": {
     "name": "Escape Rooms:",
-    "topics": [
-      "competitive-socialising"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "competitive-socialising": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Ham and Egger Files",
-        "url": "https://hamandeggerfiles.blogspot.com/search/label/competitive%20socialising"
-      }
-    ]
-  },
-  "gameshows": {
-    "name": "'Game Shows':",
     "topics": [
       "competitive-socialising"
     ],
@@ -78135,61 +75302,6 @@
       }
     ]
   },
-  "login": {
-    "name": "Login",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
-    "tierCount": 2,
-    "hasAward": true,
-    "byTopic": {
-      "general": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
-        "tierCount": 2,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      }
-    ]
-  },
-  "forgotpassword": {
-    "name": "Forgot Password",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      }
-    ]
-  },
   "londonstop100restaurants2026": {
     "name": "London's Top 100 Restaurants 2026",
     "topics": [
@@ -78337,56 +75449,6 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      }
-    ]
-  },
-  "downloadourapp": {
-    "name": "Download our app",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-london"
-      }
-    ]
-  },
-  "becomeamember": {
-    "name": "Become a member",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-london"
       }
     ]
   },
@@ -78565,56 +75627,6 @@
       }
     ]
   },
-  "submitareview": {
-    "name": "Submit a Review",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-london"
-      }
-    ]
-  },
-  "giftmembership": {
-    "name": "Gift Membership",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-london"
-      }
-    ]
-  },
   "inspectors": {
     "name": "The inspectors",
     "topics": [
@@ -78717,31 +75729,6 @@
   },
   "restaurantmonth2026": {
     "name": "Restaurant Month 2026",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-london"
-      }
-    ]
-  },
-  "nominate": {
-    "name": "Nominate",
     "topics": [
       "general"
     ],
@@ -78942,106 +75929,6 @@
   },
   "wales25": {
     "name": "Wales ‘25",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-london"
-      }
-    ]
-  },
-  "join": {
-    "name": "Join",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-london"
-      }
-    ]
-  },
-  "perks": {
-    "name": "Perks",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-london"
-      }
-    ]
-  },
-  "nominatearestaurant": {
-    "name": "NOMINATE a Restaurant",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-london"
-      }
-    ]
-  },
-  "privacyandcookiepolicy": {
-    "name": "Privacy and cookie policy",
     "topics": [
       "general"
     ],
@@ -83539,31 +80426,6 @@
       }
     ]
   },
-  "termsofservice": {
-    "name": "Terms of Service",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/joanneshurvell/2026/08/09/7-new-london-restaurants-to-try-summer-2026/"
-      }
-    ]
-  },
   "digitaltermsofsale": {
     "name": "Digital Terms of Sale",
     "topics": [
@@ -85704,43 +82566,6 @@
       }
     ]
   },
-  "workwithme": {
-    "name": "Work With Me",
-    "topics": [
-      "historic-houses",
-      "london-with-children"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-houses": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "london-with-children": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Working Line",
-        "url": "https://theworkingline.com/beautiful-historic-houses-stately-homes-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Mummy Travels",
-        "url": "https://www.mummytravels.com/things-to-do-in-london-with-kids/"
-      }
-    ]
-  },
   "carlyleshousetheessentials": {
     "name": "Carlyle’s House: the essentials",
     "topics": [
@@ -87116,14 +83941,14 @@
     "topics": [
       "historic-pubs"
     ],
-    "sourceCount": 4,
-    "tierSpread": "C4",
+    "sourceCount": 5,
+    "tierSpread": "C5",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "historic-pubs": {
-        "sourceCount": 4,
-        "tierSpread": "C4",
+        "sourceCount": 5,
+        "tierSpread": "C5",
         "tierCount": 1,
         "hasAward": false
       }
@@ -87143,6 +83968,11 @@
         "tier": "C",
         "source": "Secret London",
         "url": "https://secretldn.com/oldest-pubs-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/oldest-pub-in-london/"
       },
       {
         "tier": "C",
@@ -87558,31 +84388,6 @@
       }
     ]
   },
-  "6otherhistoriclondonpubstours": {
-    "name": "6 Other Historic London Pubs Tours",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Travel Planning",
-        "url": "https://londontravelplanning.com/guide-to-londons-oldest-pubs/"
-      }
-    ]
-  },
   "greatfireandrebuilding": {
     "name": "The Great Fire and Rebuilding",
     "topics": [
@@ -87655,56 +84460,6 @@
         "tier": "C",
         "source": "Pub Guide London",
         "url": "https://pubguidelondon.com/blog/history-london-pubs.html"
-      }
-    ]
-  },
-  "privacysettings": {
-    "name": "Privacy Settings",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/oldest-pubs-in-london/"
-      }
-    ]
-  },
-  "1introduction": {
-    "name": "1 Introduction",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/oldest-pub-in-london/"
       }
     ]
   },
@@ -87783,58 +84538,8 @@
       }
     ]
   },
-  "12thesevenstars": {
-    "name": "12 The Seven Stars",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/oldest-pub-in-london/"
-      }
-    ]
-  },
-  "13thefootman": {
-    "name": "13 The Footman",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/oldest-pub-in-london/"
-      }
-    ]
-  },
-  "14conclusion": {
-    "name": "14 Conclusion",
+  "footman": {
+    "name": "The Footman",
     "topics": [
       "historic-pubs"
     ],
@@ -88179,56 +84884,6 @@
       }
     ]
   },
-  "brandname": {
-    "name": "'+brandName+'",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Drinks Guide",
-        "url": "https://londondrinksguide.com/en/blog/where-to-drink-93/pubs-97/oldest-pubs-in-london-31.htm"
-      }
-    ]
-  },
-  "producername": {
-    "name": "'+producerName+'",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Drinks Guide",
-        "url": "https://londondrinksguide.com/en/blog/where-to-drink-93/pubs-97/oldest-pubs-in-london-31.htm"
-      }
-    ]
-  },
   "wetherspoonspubwiththebestvibe": {
     "name": "The Wetherspoons pub with the best vibe",
     "topics": [
@@ -88363,31 +85018,6 @@
         "tier": "C",
         "source": "Kingston Compass",
         "url": "https://kingstoncompass.com/guides/best-korean-food-new-malden/"
-      }
-    ]
-  },
-  "destinations": {
-    "name": "Destinations",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Lonely Planet",
-        "url": "https://www.lonelyplanet.com/news/most-beautiful-bank-wetherspoons"
       }
     ]
   },
@@ -94185,31 +90815,6 @@
       }
     ]
   },
-  "findthebestspotsnearby": {
-    "name": "Find The Best Spots Nearby",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-italian-restaurants-london"
-      }
-    ]
-  },
   "tiellatrattoria": {
     "name": "Tiella Trattoria",
     "topics": [
@@ -94463,31 +91068,6 @@
   },
   "writtenby": {
     "name": "Written By",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-italian-restaurants-london"
-      }
-    ]
-  },
-  "findplacesonourapp": {
-    "name": "FIND PLACES ON OUR APP",
     "topics": [
       "italian"
     ],
@@ -94886,31 +91466,6 @@
       }
     ]
   },
-  "companydetails": {
-    "name": "Company Details",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "LuxLife",
-        "url": "https://luxlifelondon.com/best-italian-restaurants-london/"
-      }
-    ]
-  },
   "luxlifesitemapslinks": {
     "name": "Lux Life Sitemaps ' Links",
     "topics": [
@@ -94938,31 +91493,6 @@
   },
   "gameforitlondonsbestgamerestaurants": {
     "name": "Game For It? London's Best Game Restaurants",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Sauce",
-        "url": "https://thesaucemag.com/best-italian-restaurants-in-london/"
-      }
-    ]
-  },
-  "11parishotelsforatreschictrip": {
-    "name": "11 Paris Hotels For A Très Chic Trip",
     "topics": [
       "italian"
     ],
@@ -95770,31 +92300,6 @@
       }
     ]
   },
-  "newandcomingsoon": {
-    "name": "New and coming soon",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026020314809/Gastroblog/Latest-news/london-michelin-bib-gourmand-awards-2026"
-      }
-    ]
-  },
   "neighbourhoodguides": {
     "name": "Neighbourhood guides",
     "topics": [
@@ -95917,31 +92422,6 @@
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/2026020314809/Gastroblog/Latest-news/london-michelin-bib-gourmand-awards-2026"
-      }
-    ]
-  },
-  "facetlabel": {
-    "name": "' + facet_label + '",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Gambero Rosso",
-        "url": "https://www.gamberorossointernational.com/restaurants/"
       }
     ]
   },
@@ -105272,58 +101752,8 @@
       }
     ]
   },
-  "shoptheblog": {
-    "name": "Shop the blog",
-    "topics": [
-      "london-with-children"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "london-with-children": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mummy Travels",
-        "url": "https://www.mummytravels.com/things-to-do-in-london-with-kids/"
-      }
-    ]
-  },
   "toptravelbuys": {
     "name": "Top travel buys",
-    "topics": [
-      "london-with-children"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "london-with-children": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mummy Travels",
-        "url": "https://www.mummytravels.com/things-to-do-in-london-with-kids/"
-      }
-    ]
-  },
-  "familytravelresources": {
-    "name": "Family travel resources",
     "topics": [
       "london-with-children"
     ],
@@ -107116,31 +103546,6 @@
       }
     ]
   },
-  "shopping": {
-    "name": "Shopping",
-    "topics": [
-      "london-with-children"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "london-with-children": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Wanderlust Crew",
-        "url": "https://wanderlustcrew.com/a-family-guide-to-london-20-things-to-do-with-kids/"
-      }
-    ]
-  },
   "eatwell": {
     "name": "Eat Well",
     "topics": [
@@ -107740,31 +104145,6 @@
   },
   "pingponglondon": {
     "name": "ping pong london",
-    "topics": [
-      "markets"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "markets": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Lamplit London",
-        "url": "https://www.lamplitlondon.com/guides/best-food-markets-london/"
-      }
-    ]
-  },
-  "fromthejournal": {
-    "name": "From the Journal",
     "topics": [
       "markets"
     ],
@@ -108482,31 +104862,6 @@
         "tier": "C",
         "source": "Little Grey Box",
         "url": "https://littlegreybox.net/must-visit-london-markets/"
-      }
-    ]
-  },
-  "londonsbestmarketsataglance": {
-    "name": "London ' s best markets at a glance:",
-    "topics": [
-      "markets"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "markets": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/shopping/best-london-markets"
       }
     ]
   },
@@ -121067,8 +117422,8 @@
       }
     ]
   },
-  "3newyorkstyle": {
-    "name": "3 New York Style",
+  "newyorkstyle": {
+    "name": "New York Style",
     "topics": [
       "pizza"
     ],
@@ -121198,8 +117553,8 @@
       }
     ]
   },
-  "4londonstyle": {
-    "name": "4 London Style",
+  "londonstyle": {
+    "name": "London Style",
     "topics": [
       "pizza"
     ],
@@ -121322,31 +117677,6 @@
       }
     ]
   },
-  "5pubresidencies": {
-    "name": "5 Pub Residencies",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "pizza": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
   "doughhands": {
     "name": "Dough Hands",
     "topics": [
@@ -121436,58 +117766,8 @@
       }
     ]
   },
-  "6southlondon": {
-    "name": "6 South London",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "pizza": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
   "theos": {
     "name": "Theo’s",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "pizza": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "7worththejourney": {
-    "name": "7 Worth the Journey",
     "topics": [
       "pizza"
     ],
@@ -122137,36 +118417,6 @@
         "tier": "B",
         "source": "Country & Town House",
         "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
-      }
-    ]
-  },
-  "over": {
-    "name": "'O Ver",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 D1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "pizza": {
-        "sourceCount": 2,
-        "tierSpread": "B1 D1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
-      },
-      {
-        "tier": "D",
-        "source": "@dens_destinations (TikTok)",
-        "url": "https://www.tiktok.com/@dens_destinations"
       }
     ]
   },
@@ -123087,31 +119337,6 @@
         "source": "@rosielewis_ (TikTok)",
         "url": "https://www.tiktok.com/@rosielewis_",
         "quote": "6.5/10 - spelled 'Bebere'. May be Berberè but unconfirmed - left as a separate name"
-      }
-    ]
-  },
-  "londonsbestpizzaataglance": {
-    "name": "London ' s best pizza at a glance:",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "pizza": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
       }
     ]
   },
@@ -127022,31 +123247,6 @@
       }
     ]
   },
-  "19londonsupperclubsservingseriouslygoodfood": {
-    "name": "19 London supper clubs serving seriously good food",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-tapas-london/"
-      }
-    ]
-  },
   "mariterra": {
     "name": "Mar i Terra",
     "topics": [
@@ -128669,31 +124869,6 @@
       }
     ]
   },
-  "fromtheblog": {
-    "name": "From the Blog",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Pub Guide London",
-        "url": "https://pubguidelondon.com/best-sunday-roasts.html"
-      }
-    ]
-  },
   "starrating": {
     "name": "star rating",
     "topics": [
@@ -128721,31 +124896,6 @@
   },
   "pricerange": {
     "name": "price range",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Pub Guide London",
-        "url": "https://pubguidelondon.com/best-sunday-roasts.html"
-      }
-    ]
-  },
-  "pname": {
-    "name": "' + p.name + '",
     "topics": [
       "sunday-roast"
     ],
@@ -136333,31 +132483,6 @@
       }
     ]
   },
-  "shopatleadenhallmarket": {
-    "name": "Shop at Leadenhall Market",
-    "topics": [
-      "unusual"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "unusual": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hues of Delahaye",
-        "url": "https://www.huesofdelahaye.com/unusual-things-to-do-in-london/"
-      }
-    ]
-  },
   "visitthetwiningsteashop": {
     "name": "Visit the Twinings Tea Shop",
     "topics": [
@@ -136385,31 +132510,6 @@
   },
   "takeaneastlondonstreetarttour": {
     "name": "Take an East London Street Art Tour",
-    "topics": [
-      "unusual"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "unusual": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hues of Delahaye",
-        "url": "https://www.huesofdelahaye.com/unusual-things-to-do-in-london/"
-      }
-    ]
-  },
-  "shopatburlingtonarcade": {
-    "name": "Shop at Burlington Arcade",
     "topics": [
       "unusual"
     ],
@@ -137383,31 +133483,6 @@
       }
     ]
   },
-  "ptitle": {
-    "name": "' + pTitle + '",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Dinespotter",
-        "url": "https://dinespotter.co.uk/london-best-vegetarian-vegan-restaurants-2026/"
-      }
-    ]
-  },
   "purezzacamden": {
     "name": "Purezza Camden",
     "topics": [
@@ -138275,31 +134350,6 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-vietnamese-restaurants-london"
-      }
-    ]
-  },
-  "londonsbestvietnameserestaurantsataglance": {
-    "name": "London 's best Vietnamese restaurants at a glance:",
-    "topics": [
-      "vietnamese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vietnamese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-vietnamese-restaurants"
       }
     ]
   },

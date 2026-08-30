@@ -1,7 +1,7 @@
 {
   "cuisine": "ice-cream",
   "note": "Seeded 2026-08-26.",
-  "recorded": "2026-08-26",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "Time Out",
@@ -64,13 +64,6 @@
       "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-ice-cream-london-shops-parlours",
       "scope": "ice-cream",
       "names": [
-        "Offers",
-        "Test Drives",
-        "Summer",
-        "All features",
-        "See all offers",
-        "Hot Dinners recommends",
-        "Staying in",
         "Where:",
         "Open until:",
         "Nardulli"
@@ -100,16 +93,6 @@
       "url": "https://www.mob.co.uk/life/best-ice-cream-in-london",
       "scope": "ice-cream",
       "names": [
-        "Browse All Recipes",
-        "Meals",
-        "Nutrition",
-        "Ingredients",
-        "Dinner tonight",
-        "Lunch today",
-        "Feed the whole family",
-        "Meal Plans",
-        "Batch Cooking",
-        "Freezer-Friendly",
         "Happy Endings",
         "Bears Ice Cream",
         "Nardulli",

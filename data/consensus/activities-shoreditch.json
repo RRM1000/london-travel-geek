@@ -1,7 +1,7 @@
 {
   "cuisine": "activities-shoreditch",
   "note": "SCOPE. Things to do in Shoreditch: activity bars, arcades, escape rooms, immersive experiences, markets and street art. NOT restaurants or bars where the drink is the point - those belong in Restaurants v2, and Shoreditch already has 36 rows there. Rejected per sourcingProcedure: Tripadvisor, GetYourGuide, Eventbrite, Evendo and Go City are AGGREGATORS or ticket resellers ranking by volume rather than editorial judgement; Plonk and NQ64 own-site pages are SINGLE VENUES and cannot contribute a domain score; thatsup.co.uk, londonist.com, visitlondon.com and theculturetrip.com are in blockedDomains. The first search returned only 3-4 usable domains after those exclusions, which is below target, so a second search using the named-publisher shape was run before building this file - that is the procedure working rather than proceeding with a thin set.",
-  "recorded": "2026-08-18",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "The Nudge (things to do in Shoreditch)",
@@ -26,8 +26,7 @@
         "Village Underground",
         "Escape Plan",
         "Whitechapel Gallery",
-        "DEBUT Concerts",
-        "Shopping On Columbia Road"
+        "DEBUT Concerts"
       ]
     },
     {
@@ -47,9 +46,7 @@
         "A Principal Place",
         "Brick Lane",
         "Ironmonger Row",
-        "Coronet Street",
-        "Rewards",
-        "Jobs"
+        "Coronet Street"
       ]
     },
     {
@@ -75,7 +72,6 @@
       "names": [
         "Shoreditch’s thriving street art scene",
         "Munch on street food eats",
-        "Shop at one of Shoreditch’s cool markets",
         "Treat yourself to a delicious meal",
         "Listen to live music",
         "Mission",

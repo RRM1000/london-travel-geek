@@ -1,7 +1,7 @@
 {
   "cuisine": "thai",
   "note": "SCOPE: Thai only. Not Vietnamese, Malaysian or Lao, all of which appear on pan-Asian lists and have their own tiers. Sub-type coverage matters here the way omakase did for Japanese - northern (Khao So-i, The Begging Bowl) and southern (Kolae) Thai are treated as different cuisines by the restaurants themselves. Known-blocked domains omitted per blockedDomains in the playbook. Every URL came from a search result.",
-  "recorded": "2026-08-26",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "The Infatuation (Thai)",
@@ -79,15 +79,6 @@
       ]
     },
     {
-      "name": "DesignMyNight (Thai)",
-      "url": "https://www.designmynight.com/london/restaurants/thai-restaurants-in-london",
-      "scope": "thai",
-      "names": [
-        "Rewards",
-        "Jobs"
-      ]
-    },
-    {
       "name": "Foodism (Thai)",
       "url": "https://foodism.co.uk/guides/best-thai-restaurants-in-london/",
       "scope": "thai",
@@ -159,13 +150,6 @@
       "url": "https://www.hot-dinners.com/Gastroblog/Test-drive/singburi-shoreditch-restaurant-review-london-thai",
       "scope": "thai",
       "names": [
-        "Offers",
-        "Test Drives",
-        "Summer",
-        "All features",
-        "See all offers",
-        "Hot Dinners recommends",
-        "Staying in",
         "Overall thoughts:",
         "website"
       ]
@@ -215,18 +199,7 @@
       "names": [
         "Time Out says",
         "Restaurants",
-        "Investor relations",
-        "Work for Time Out",
-        "Privacy notice",
-        "Do not sell my information",
-        "Accessibility statement",
-        "Get Listed",
-        "Time Out Offers FAQ",
         "Advertising",
-        "Time Out Market",
-        "Time Out Offers",
-        "Time Out Worldwide",
-        "Movies",
         "The vibe",
         "The food",
         "The drink",
@@ -238,18 +211,7 @@
       "url": "https://timeout.com/london/news/londons-best-thai-restaurant-has-been-crowned-for-2024-by-time-out-112924",
       "scope": "thai",
       "names": [
-        "Investor relations",
-        "Work for Time Out",
-        "Privacy notice",
-        "Do not sell my information",
-        "Accessibility statement",
-        "Get Listed",
-        "Time Out Offers FAQ",
         "Advertising",
-        "Time Out Market",
-        "Time Out Offers",
-        "Time Out Worldwide",
-        "Movies",
         "Singburi",
         "AngloThai"
       ]

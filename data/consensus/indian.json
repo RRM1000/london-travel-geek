@@ -227,7 +227,6 @@
       "url": "https://www.asiancurryawards.com/2025-winners/",
       "scope": "awards",
       "names": [
-        "Nominate now",
         "Judging Panel",
         "Video"
       ],
@@ -259,7 +258,6 @@
       "names": [
         "Education",
         "Property",
-        "Offers",
         "Notices",
         "Get involved with the news",
         "Get in Touch",
@@ -461,14 +459,6 @@
       "recorded": "2026-08-30"
     },
     {
-      "name": "Insider Food (YouTube)",
-      "url": "https://www.youtube.com/@InsiderFood",
-      "scope": "indian",
-      "names": [],
-      "quotes": {},
-      "recorded": "2026-08-30"
-    },
-    {
       "name": "Ugo Arinzeh (YouTube)",
       "url": "https://www.youtube.com/@UgoArinzeh",
       "scope": "indian",
@@ -495,6 +485,6 @@
       "recorded": "2026-08-30"
     }
   ],
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-30",
   "_pakistaniExcluded": "Tayyabs, Spice Village, Punjab Indian Restaurant, Curry Bazaar, Aladin, City Spice and Sheba were named by the video tier in a best-curry context but are Pakistani or Bangladeshi. Pakistani has its own topic and consensus file; Brick Lane Bangladeshi houses belong with it rather than absorbed here."
 }

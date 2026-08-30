@@ -1,7 +1,7 @@
 {
   "cuisine": "french",
   "note": "Tier 2, sized at 17 rows - deliberately fewer than the tier 1 cuisines, per sizing in research-playbook.json. SCOPE: French. Not Modern European - the boundary rule in cuisineBoundaries applies, and self-description wins. Bouchon Racine and Camille are already banked as French from the general-excellence pass. guide.michelin.com is blocked (403) so it is absent by design. Every URL came from a search result.",
-  "recorded": "2026-08-26",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "The Infatuation (French)",
@@ -122,18 +122,7 @@
       "url": "https://www.timeout.com/london/news/this-unassuming-bistro-is-officially-the-best-french-restaurant-in-london-041526",
       "scope": "french",
       "names": [
-        "Investor relations",
-        "Work for Time Out",
-        "Privacy notice",
-        "Do not sell my information",
-        "Accessibility statement",
-        "Get Listed",
-        "Time Out Offers FAQ",
         "Advertising",
-        "Time Out Market",
-        "Time Out Offers",
-        "Time Out Worldwide",
-        "Movies",
         "Camille",
         "for the best of the city"
       ]
@@ -159,16 +148,6 @@
         "Chez Bruce",
         "Galvin La Chapelle",
         "Stay In The Loop"
-      ]
-    },
-    {
-      "name": "DesignMyNight (French)",
-      "url": "https://www.designmynight.com/london/bars/french-restaurants-london",
-      "scope": "french",
-      "names": [
-        "Rewards",
-        "Jobs",
-        "My Account"
       ]
     }
   ]

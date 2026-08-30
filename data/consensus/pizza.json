@@ -18,20 +18,18 @@
         "Pizza Pilgrims",
         "Berberè",
         "Franco Manca",
-        "3 New York Style",
+        "New York Style",
         "Crisp Pizza",
         "Spring Street Pizza",
         "Bad Boy Pizza Society",
-        "4 London Style",
+        "London Style",
         "ACE Pizza",
         "Yard Sale Pizza",
         "Alley Cats",
-        "5 Pub Residencies",
         "Dough Hands",
         "Little Earthquakes",
-        "6 South London",
+        "South London",
         "Theo’s",
-        "7 Worth the Journey",
         "L’Oro di Napoli",
         "Rudy’s Pizza Napoletana",
         "Sodo Pizza",
@@ -99,13 +97,6 @@
       "_note": "TIER QUESTION. Reached via their YouTube channel, but One Bite is a Barstool masthead publishing video, not an independent creator."
     },
     {
-      "name": "Wrap Your Lips Around This",
-      "url": "https://wrapyourlipsaroundthis.com/best-pizza-in-london-restaurant-review/",
-      "scope": "pizza",
-      "names": [],
-      "error": "no headings matched"
-    },
-    {
       "name": "50 Top Pizza Europa 2025",
       "url": "https://www.50toppizza.it/50-top-pizza-europa-2025-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe/",
       "scope": "pizza",
@@ -156,7 +147,6 @@
         "Berberè",
         "Homeslice",
         "Daylesford",
-        "'O Ver",
         "Pizza Pilgrims",
         "Happy Face"
       ],
@@ -170,8 +160,6 @@
       "url": "https://www.designmynight.com/london/restaurants/best-pizza-restaurants-london",
       "scope": "pizza",
       "names": [
-        "Rewards",
-        "Jobs",
         "Vincenzo's"
       ],
       "quotes": {
@@ -350,8 +338,7 @@
         "Pizza Pilgrims",
         "Alley Cats Pizza",
         "Grasso",
-        "Zia Lucia",
-        "'O Ver"
+        "Zia Lucia"
       ],
       "recorded": "2026-08-30",
       "_note": "Named as loved but just outside the creator's top 10. The top 10 itself was not in the caption."
@@ -430,7 +417,6 @@
       "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
       "scope": "pizza",
       "names": [
-        "London ' s best pizza at a glance:",
         "Short Road Pizza",
         "Dough Hands",
         "Bad Boy Pizzeria",

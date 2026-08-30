@@ -51,14 +51,6 @@
       ]
     },
     {
-      "name": "DesignMyNight",
-      "url": "https://www.designmynight.com/london/restaurants/vegan-restaurants-london",
-      "names": [
-        "Rewards",
-        "Jobs"
-      ]
-    },
-    {
       "name": "Eater London",
       "url": "https://london.eater.com/maps/best-vegan-restaurants-london",
       "names": [
@@ -82,10 +74,8 @@
       "scope": "vegan",
       "names": [
         "The Top Picks for 2026",
-        "Company",
         "Legal & Support",
-        "Stay Connected",
-        "' + pTitle + '"
+        "Stay Connected"
       ]
     },
     {
@@ -169,7 +159,6 @@
       "url": "https://absolutelymagazines.com/best-vegan-restaurants-london/",
       "scope": "vegan",
       "names": [
-        "Top Eats",
         "What The Pitta",
         "Plates",
         "Alter",
@@ -206,5 +195,5 @@
       ]
     }
   ],
-  "recorded": "2026-08-25"
+  "recorded": "2026-08-30"
 }

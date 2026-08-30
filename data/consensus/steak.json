@@ -25,15 +25,8 @@
       "name": "Hot Dinners",
       "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-steak-restaurants-london",
       "names": [
-        "Offers",
-        "Test Drives",
-        "Summer",
         "Steak",
-        "Meat",
-        "All features",
-        "See all offers",
-        "Hot Dinners recommends",
-        "Staying in"
+        "Meat"
       ]
     },
     {
@@ -93,14 +86,6 @@
         "The Coal Shed",
         "Zelman Meats",
         "Posts"
-      ]
-    },
-    {
-      "name": "DesignMyNight",
-      "url": "https://www.designmynight.com/london/restaurants/best-steak-restaurants-in-london",
-      "names": [
-        "Rewards",
-        "Jobs"
       ]
     },
     {
@@ -336,6 +321,6 @@
       "_note": "Nine London entries in the 2026 list, read off the ranking's own site. GOODMAN IS NOT IN IT - the article claimed '#54 in the World's 101 Best Steak Restaurants' as current, and that is not supported by the 2026 list. Chelsea Grill at #55 was not otherwise in this corpus."
     }
   ],
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-30",
   "_excludedNegativeMentions": "Angus Steakhouse and Nusr-Et are named by Harrison Webb's 'I Tried London's Worst Steakhouses' and by Eating With Tod's Salt Bae review. Both are criticism, not recommendation, and are not recorded - a citation counts agreement that a place is good, not that it exists."
 }

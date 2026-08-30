@@ -28,25 +28,12 @@ const ALIAS = JSON.parse(fs.readFileSync("data/name-aliases.json", "utf8"));
 const norm = (s) => String(s).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")
   .replace(/&/g, " and ").replace(/^(the|a)\s+/, "").replace(/[^a-z0-9]+/g, "");
 
-// The shapes a captured "venue" takes when it is really page furniture.
-const CHROME = [
-  /^(login|log in|join|sign up|subscribe|newsletter|search|menu|home|about|contact|press|advertis|privacy|cookie|terms|disclaimer|sitemap|post navigation|recent posts|categories|tags|share|follow|author|the author|by [A-Z])/i,
-  /^(investor relations|work for|do not sell|accessibility|get listed|forgot password|my account|rewards|jobs|perks|nominate|submit a review|gift membership|become a member|download our app)/i,
-  /^(browse all|meals|nutrition|ingredients|dinner tonight|lunch today|meal plans|batch cooking|freezer-friendly|itineraries|hotel hot list|family travel|solo travel|uk travel|wellbeing|self-care|mental health)/i,
-  /^(discover|explore|jump to|location|bedrooms|availability|when|price|locations|most recent|the lowdown|stay in the loop|modal title|read more|continue reading)\b/i,
-  /^\W*$|^\d+ min read$|^(may|june|july|august|september|october|november|december|january|february|march|april) \d+$/i,
-  /^["'+]|[+]"$/,                       // stray template fragments like "+message+"
-  /^📍|^🍴/,                              // emoji section headings
-  /^(work with me|destinations|hotel|travel|shop|recipes|gigs|company|the bigger picture|reach the|editorial team|top eats|from [A-Z])/i,
-  /^\d+\s+[A-Z]/,                        // "2 Bone Daddies" - a list index glued to the name
-  /^(please |click |find |view |see all|more )/i,
-  // Hot Dinners' own furniture, which slipped past on seafood, Mexican AND
-  // Spanish - the same eight strings each time.
-  /^(offers|test drives|summer|all features|hot dinners recommends|staying in|latest|new and coming soon)$/i,
-  // Section headings and dish names from listicles that are not venues.
-  /^(key factors|understanding the|the chef and|walk-in vs|atmosphere and|tapas|paella|spanish wines|jam[oó]n ib[eé]rico|patatas bravas|croquetas|the four|what the price|where the maths|hidden costs)/i,
-  /at a glance:?$/i
-];
+// The shapes a captured "venue" takes when it is really page furniture. The
+// list lives in data/name-noise.json so this tool and clean-corpus.mjs share it
+// - a pattern added because it caught something on Spanish then protects every
+// other topic without anyone re-reading a name list.
+const CHROME = (NOISE.chromePatterns?.patterns ?? []).map((p) => new RegExp(p, "i"));
+
 const looksLikeChrome = (n) => CHROME.some((r) => r.test(String(n).trim()));
 
 // A national or international list whose London subset has to be taken.

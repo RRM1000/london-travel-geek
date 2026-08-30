@@ -1,7 +1,7 @@
 {
   "cuisine": "competitive-socialising",
   "note": "Seeded 2026-08-25.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "London Night Guide",
@@ -34,7 +34,6 @@
         "Beer Pong / Prosecco Pong:",
         "Cricket / Batting Cages:",
         "Escape Rooms:",
-        "'Game Shows':",
         "Golf / Virtual Golf:",
         "Ice Free Curling:",
         "Interactive / Tech / AR Darts:",
@@ -51,13 +50,6 @@
         "Links",
         "Total Pageviews"
       ]
-    },
-    {
-      "name": "City Matters",
-      "url": "https://www.citymatters.london/competitive-socialising/",
-      "scope": "competitive-socialising",
-      "names": [],
-      "error": "HTTP 404"
     }
   ]
 }

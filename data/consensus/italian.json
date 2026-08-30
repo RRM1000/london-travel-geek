@@ -70,7 +70,6 @@
       "names": [
         "THE SPOTS",
         "Burro",
-        "Find The Best Spots Nearby",
         "Osteria Vibrato",
         "Tiella Trattoria",
         "Trullo",
@@ -88,8 +87,7 @@
         "Cafe Murano",
         "Made In Italy",
         "Suggested Reading",
-        "Written By",
-        "FIND PLACES ON OUR APP"
+        "Written By"
       ]
     },
     {
@@ -179,8 +177,6 @@
         "Noci",
         "Carlotta",
         "Polpo",
-        "Company Details",
-        "Disclaimer",
         "Lux Life Sitemaps ' Links",
         "HTML Sitemap"
       ]
@@ -190,7 +186,6 @@
       "url": "https://thesaucemag.com/best-italian-restaurants-in-london/",
       "names": [
         "Game For It? London's Best Game Restaurants",
-        "11 Paris Hotels For A Très Chic Trip",
         "London’s Best Florists For Beautiful Bouquets",
         "Kid-Friendly Travel Essentials For Tired Parents",
         "London’s Top Exhibitions To Book For Autumn",
@@ -245,7 +240,6 @@
       "scope": "awards",
       "names": [
         "Italian grub across the country",
-        "View Profile",
         "News",
         "Gear",
         "Style",
@@ -273,20 +267,12 @@
       "scope": "awards",
       "names": [
         "Get our newsletter",
-        "New and coming soon",
-        "Offers",
-        "Test Drives",
         "Neighbourhood guides",
         "My Manor guides",
         "New London restaurants",
         "Upcoming restaurants",
         "All Hot Dinners guides",
-        "Summer",
-        "All features",
-        "See all offers",
-        "Hot Dinners recommends",
-        "Articles",
-        "Staying in"
+        "Articles"
       ]
     },
     {
@@ -294,7 +280,6 @@
       "url": "https://www.gamberorossointernational.com/restaurants/",
       "scope": "awards",
       "names": [
-        "' + facet_label + '",
         "On the menu",
         "Top Awarded Restaurants",
         "Highlights",
@@ -372,18 +357,7 @@
       "url": "https://www.timeout.com/london/news/the-best-italian-restaurant-in-london-in-2025-according-to-time-out-061625",
       "scope": "italian",
       "names": [
-        "Investor relations",
-        "Work for Time Out",
-        "Privacy notice",
-        "Do not sell my information",
-        "Accessibility statement",
-        "Get Listed",
-        "Time Out Offers FAQ",
         "Advertising",
-        "Time Out Market",
-        "Time Out Offers",
-        "Time Out Worldwide",
-        "Movies",
         "Trullo"
       ]
     },
@@ -452,18 +426,7 @@
         "Time Out says",
         "Restaurants",
         "South Bank",
-        "Investor relations",
-        "Work for Time Out",
-        "Privacy notice",
-        "Do not sell my information",
-        "Accessibility statement",
-        "Get Listed",
-        "Time Out Offers FAQ",
         "Advertising",
-        "Time Out Market",
-        "Time Out Offers",
-        "Time Out Worldwide",
-        "Movies",
         "The vibe",
         "The food",
         "The drink",
@@ -500,11 +463,6 @@
         "City",
         "Southbank",
         "Islington",
-        "+ Over 3000 entries",
-        "+ Constantly updated",
-        "+ Club access",
-        "+ Restaurant diary",
-        "+ Works offline",
         "Monday",
         "7 am‑11 pm",
         "Tuesday",
@@ -763,7 +721,7 @@
       "recorded": "2026-08-30"
     }
   ],
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-30",
   "closed": {
     "Locanda Locatelli": "Closed January 2025 after 23 years and a 20-year Michelin star. Still carried by Eater London, The Handbook and Secret London - 3 sources recommending a shut restaurant."
   }

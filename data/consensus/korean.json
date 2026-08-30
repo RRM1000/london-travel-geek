@@ -1,7 +1,7 @@
 {
   "cuisine": "korean",
   "note": "SCOPE: Korean only. New Malden holds the largest Korean community in Europe and is ZONE 4, well outside the current area guides - so this pass is expected to add rows that no existing guide covers, which is the point rather than a problem. Sub-type legs: Korean BBQ and Korean fried chicken are separate published populations from the general Korean lists. Known-blocked domains omitted. Every URL came from a search result.",
-  "recorded": "2026-08-26",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "The Infatuation (Korean)",
@@ -57,15 +57,6 @@
         "Myung Ga",
         "Korean Grill Kensington",
         "Spicy Grill"
-      ]
-    },
-    {
-      "name": "DesignMyNight (Korean)",
-      "url": "https://www.designmynight.com/london/best-korean-restaurants-london",
-      "scope": "korean",
-      "names": [
-        "Rewards",
-        "Jobs"
       ]
     },
     {
@@ -129,10 +120,7 @@
       "names": [
         "Chick And Beers",
         "CheeMC",
-        "Naru",
-        "The Author",
-        "Rewards",
-        "Jobs"
+        "Naru"
       ]
     },
     {
@@ -181,20 +169,6 @@
         "K–Town",
         "Paranhodu",
         "Discover our cities"
-      ]
-    },
-    {
-      "name": "Hot Dinners",
-      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-korean-restaurants-london-pubs-bars",
-      "scope": "korean",
-      "names": [
-        "Offers",
-        "Test Drives",
-        "Summer",
-        "All features",
-        "See all offers",
-        "Hot Dinners recommends",
-        "Staying in"
       ]
     },
     {

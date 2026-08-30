@@ -1,7 +1,7 @@
 {
   "cuisine": "vietnamese",
   "note": "Tier 2, sized at 17 rows - deliberately fewer than the tier 1 cuisines, per sizing in research-playbook.json. SCOPE: Vietnamese. Kingsland Road is the historic concentration. Cay Tre and Eat Vietnam are already visible in the general-excellence results. guide.michelin.com is blocked (403) so it is absent by design. Every URL came from a search result.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "The Infatuation (Vietnamese)",
@@ -25,7 +25,6 @@
       "url": "https://www.timeout.com/london/restaurants/londons-best-vietnamese-restaurants",
       "scope": "vietnamese",
       "names": [
-        "London 's best Vietnamese restaurants at a glance:",
         "Cay Tre",
         "Med Salleh Viet",
         "Eat Vietnam 1",
@@ -76,14 +75,6 @@
         "Longdan",
         "Ly Trang Supermarket",
         "Affordable lunch spots at and near LSE"
-      ]
-    },
-    {
-      "name": "Time Well Spent",
-      "url": "https://www.timewellspentmag.com/post/masterchef-star-thuy-hoang-names-london-s-best-vietnamese-restaurants",
-      "scope": "vietnamese",
-      "names": [
-        "Recent Posts"
       ]
     }
   ]

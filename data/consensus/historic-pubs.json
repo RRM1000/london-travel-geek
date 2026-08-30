@@ -1,7 +1,7 @@
 {
   "cuisine": "historic-pubs",
   "note": "Seeded 2026-08-25.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "London Walks",
@@ -50,8 +50,7 @@
         "Ye Olde Cock Tavern",
         "Ye Olde Mitre",
         "Old Bank of England",
-        "7 of the Best London Pub Tours",
-        "6 Other Historic London Pubs Tours"
+        "7 of the Best London Pub Tours"
       ]
     },
     {
@@ -74,8 +73,7 @@
         "The Old Bell Tavern",
         "The Seven Stars",
         "The Mayflower",
-        "Discover our cities",
-        "Privacy Settings"
+        "Discover our cities"
       ]
     },
     {
@@ -83,13 +81,11 @@
       "url": "https://mayfairfoodie.com/oldest-pub-in-london/",
       "scope": "historic-pubs",
       "names": [
-        "1 Introduction",
         "5 The Mayflower",
         "9 The Wrestlers",
         "10 The Grapes",
-        "12 The Seven Stars",
-        "13 The Footman",
-        "14 Conclusion",
+        "The Seven Stars",
+        "The Footman",
         "Martin",
         "The Mayfair Foodie",
         "HexClad pans"
@@ -123,8 +119,6 @@
         "London Wine Competition 2027",
         "Christ Church Spitalfields",
         "London Spirits Competition 2027",
-        "'+brandName+'",
-        "'+producerName+'",
         "Partners"
       ]
     },
@@ -146,7 +140,6 @@
       "names": [
         "Explore More",
         "Attractions",
-        "Destinations",
         "Books"
       ]
     },

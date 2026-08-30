@@ -1,15 +1,8 @@
 {
   "cuisine": "historic-houses",
   "note": "Seeded 2026-08-25.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-30",
   "sources": [
-    {
-      "name": "Cultural Wednesday",
-      "url": "https://www.culturalwednesday.co.uk/houses-to-visit-in-london/",
-      "scope": "historic-houses",
-      "names": [],
-      "error": "no headings matched"
-    },
     {
       "name": "FLO London",
       "url": "https://www.flolondon.co.uk/all-posts/a-guide-to-the-most-beautiful-historic-homes-to-visit-in-london",
@@ -26,8 +19,7 @@
       "names": [
         "Published Novels",
         "NYC",
-        "Around the World",
-        "Work With Me"
+        "Around the World"
       ]
     },
     {
@@ -86,7 +78,6 @@
       "url": "https://www.tat-london.co.uk/post/historic-homes-london",
       "scope": "historic-houses",
       "names": [
-        "Recent Posts",
         "May 30",
         "9 min read"
       ]

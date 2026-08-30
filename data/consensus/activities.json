@@ -1,7 +1,7 @@
 {
   "cuisine": "activities",
   "note": "THE ACTIVITIES PASS. Games bars, arcades, immersive experiences and things to do. RECORDED HONESTLY: the first Canary Wharf seed did NOT come from this pass - it was assembled from two searches seeded by the site owner s own list, which verified what he already knew and found nothing he did not. That is not research. This file is the proper version, built the same way as every cuisine pass, and it immediately surfaced GoBoat and Pitch, both genuine Canary Wharf venues the hand-assembly missed. Area-specific sources sit alongside the London-wide ones because activity coverage is thin in general listicles and dense in local guides - the same split that made the area-level restaurant research necessary.",
-  "recorded": "2026-08-18",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "CK Travels (32 games bars and arcades)",
@@ -10,7 +10,6 @@
       "names": [
         "NQ64",
         "Bounce",
-        "Post navigation",
         "Similar Posts",
         "MOROCCO",
         "MACAU",
@@ -102,24 +101,6 @@
       ]
     },
     {
-      "name": "DesignMyNight (pubs and bars with games)",
-      "url": "https://www.designmynight.com/london/pubs/pubs-and-bars-with-games-in-london",
-      "scope": "activities",
-      "names": [
-        "Rewards",
-        "Jobs"
-      ]
-    },
-    {
-      "name": "DesignMyNight (best arcades)",
-      "url": "https://www.designmynight.com/london/best-arcades-in-london",
-      "scope": "activities",
-      "names": [
-        "Rewards",
-        "Jobs"
-      ]
-    },
-    {
       "name": "DesignMyNight (Canary Wharf)",
       "url": "https://www.designmynight.com/london/fun-things-to-do-in-canary-wharf",
       "scope": "activities-canary-wharf",
@@ -127,9 +108,7 @@
         "Canary Wharf Activities Perfect For Groups",
         "Canary Wharf Activities Made For Date Night",
         "Affordable Things To Do In Canary Wharf",
-        "Price:",
-        "Rewards",
-        "Jobs"
+        "Price:"
       ]
     },
     {
@@ -171,8 +150,7 @@
         "Birleys",
         "Black Sheep Coffee",
         "Meantime Brewery Tour",
-        "Check Out The Best Views in Canary Wharf",
-        "Post navigation"
+        "Check Out The Best Views in Canary Wharf"
       ]
     },
     {
@@ -180,7 +158,6 @@
       "url": "https://www.thelondonmother.net/things-to-do-canary-wharf/",
       "scope": "activities-canary-wharf",
       "names": [
-        "Post navigation",
         "The Shop",
         "The Edit",
         "Slow London",
