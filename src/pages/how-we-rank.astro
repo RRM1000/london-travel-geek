@@ -1,0 +1,240 @@
+---
+// The single site-wide statement of method. Every ranked guide carries a short
+// topic-specific block - its own counts, source types and known weakness - and
+// links here for the argument. Stating it once means it can be stated properly,
+// and gives us one page to point at when a ranking is challenged.
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="How we rank"
+  description="How London Travel Geek builds its ranked guides: counting independent sources rather than publishing opinions, how sources are weighted, and what the method cannot tell you."
+>
+  <article class="legal container">
+    <p class="eyebrow">London Travel Geek</p>
+    <h1>How we rank</h1>
+    <p class="legal__intro">
+      Our guides are not a list of places we liked. Every venue is judged on how
+      many <strong>independent</strong> sources name it — awards, critics,
+      specialists and the people who actually went and filmed it — counted, not
+      asserted. This page explains how that count is built, and where it fails.
+    </p>
+
+    <h2>Why counting rather than reviewing</h2>
+    <p>
+      A single enthusiastic review is one person on one night. It might be the
+      chef's best service of the year or their worst. What it cannot tell you is
+      whether a kitchen is reliably good, and that is the only thing worth
+      knowing before you travel across a city to eat somewhere.
+    </p>
+    <p>
+      So we invert it. Instead of adding one more opinion, we record who has
+      already published one, and count the places that separate judges keep
+      arriving at independently. Ten outlets converging on the same address is
+      evidence in a way that any one of them alone is not.
+    </p>
+    <p>
+      The corpus behind this currently holds <strong>517 source records across
+      48 topics, carrying 9,206 citations</strong> drawn from
+      <strong>227 registered publications, channels and award bodies</strong>.
+      Of the venues named in it, 1,020 are named by two or more independent
+      sources and 405 carry a dated award.
+    </p>
+
+    <h2>The source tiers</h2>
+    <p>
+      Not every mention is worth the same. Sources are registered in advance and
+      tiered by what kind of judgement they represent, so an unknown source is
+      visible rather than silently weighted:
+    </p>
+    <ul>
+      <li>
+        <strong>A — a judged, dated ranking.</strong> A named panel or
+        inspectorate published a ranked or starred list with a year attached:
+        50 Top Pizza, the National Pizza Awards, the Michelin guide. The
+        strongest single signal, because it is falsifiable and re-run annually.
+      </li>
+      <li>
+        <strong>B — an editorial publication.</strong> A masthead with editors
+        paying writers to visit. Broad and useful, but over-represented, and its
+        members read each other.
+      </li>
+      <li>
+        <strong>C — an independent blog or specialist.</strong> One or two
+        people writing from their own visits, or a single-subject specialist.
+        Often earlier and more specific than the publications, and much closer
+        to what a local would actually say.
+      </li>
+      <li>
+        <strong>D — video.</strong> YouTube and TikTok creators who went, filmed
+        and rated. The tier is the medium, not the audience: a channel with two
+        million views and one with twenty thousand are both D.
+      </li>
+      <li>
+        <strong>E — community.</strong> Reddit threads and forum posts where
+        named people argue about where to eat. Counted per thread, never per
+        comment, so one busy thread cannot outweigh a publication.
+      </li>
+      <li>
+        <strong>F — the venue's own website.</strong> Used to check an address,
+        a price or which branches are open. <strong>Never</strong> counted
+        toward consensus — a restaurant recommending itself is not evidence.
+      </li>
+    </ul>
+    <p>
+      Awards weigh more than press; press weighs more than creators. A venue
+      needs support from two or more sources across two or more tiers, or one
+      tier-A award, before we treat it as properly established. Five publications
+      agreeing is weaker than a publication, a blogger and a video agreeing,
+      because the publications read each other and the three strangers do not.
+    </p>
+
+    <h2>The counting rules</h2>
+    <ul>
+      <li>
+        <strong>Support is counted in distinct domains, never in URLs.</strong>
+        Two lists from one publication is one opinion. Time Out's ranked guide,
+        its video channel and its news desk are all Time Out, and count once.
+      </li>
+      <li>
+        <strong>Syndication credits the original.</strong> Where one outlet
+        reports another's ranking — "X has been crowned by the Telegraph" — the
+        source is the Telegraph. Counting both would let a single judgement pose
+        as two.
+      </li>
+      <li>
+        <strong>Aggregators are excluded entirely.</strong> TripAdvisor, Yelp,
+        OpenTable, Wanderlog and the rest rank by user volume, repeat each other
+        and dominate search results. One crowd-sourced ranking can otherwise
+        masquerade as many independent opinions.
+      </li>
+      <li>
+        <strong>Google ratings are tracked separately</strong> and never form
+        part of a placement. Review volume measures footfall, not cooking.
+      </li>
+      <li>
+        <strong>Age is recorded.</strong> A mention older than three years still
+        counts but is flagged; a venue with nothing inside two years is treated
+        as a closure candidate and re-checked.
+      </li>
+      <li>
+        <strong>Closed venues are dropped</strong> even while live guides still
+        carry them — published lists are slow to update and some never do, so the
+        longer a place has been shut, the better supported it can look.
+      </li>
+    </ul>
+
+    <h2>Why there is no score</h2>
+    <p>
+      We could turn all of this into a single number out of ten. We deliberately
+      do not, because the weighting behind it — how much more an award is worth
+      than a magazine, a magazine than a video — is a judgement call, and a
+      decimal point would imply a precision the method does not have. A score
+      invites the question "how was that calculated?" and the honest answer is
+      "by a person deciding".
+    </p>
+    <p>
+      So we publish the evidence rather than the verdict: how many independent
+      sources named a venue, and where it placed in the lists that actually
+      published an order. You can disagree with our reading and still use the
+      count.
+    </p>
+    <p>
+      For the same reason, a rank is only ever shown against a source that
+      published one. Plenty of respected guides are deliberately unordered — The
+      Infatuation's best-of guides and Country & Town House both are, and one
+      widely shared social list says "in no particular order" in its own caption.
+      Attaching a position to any of those would be inventing it.
+    </p>
+
+    <h2>What this method cannot tell you</h2>
+    <p>
+      Counting sources measures agreement, not quality, and the two come apart in
+      predictable ways:
+    </p>
+    <ul>
+      <li>
+        <strong>It rewards being written about.</strong> A superb neighbourhood
+        restaurant that no critic has reached will score badly against a
+        mediocre one with a publicist. Central and east London are covered far
+        more heavily than the outer boroughs.
+      </li>
+      <li>
+        <strong>Some categories have no judged award at all.</strong> There is no
+        inspectorate for the full English breakfast or the Sunday roast. Those
+        rankings rest on editorial consensus alone, which is a weaker foundation,
+        and the guide says so where it applies.
+      </li>
+      <li>
+        <strong>Primary sources are sometimes unreadable.</strong> The National
+        Pizza Awards publish their winners as images and their previous-winners
+        page stops at 2024, so the 2025 results are only available through Time
+        Out's reporting. We attribute those to the awards — they are the
+        originating judgement — but the link cannot be checked against a primary
+        page, and we say so in the guide rather than hiding it.
+      </li>
+      <li>
+        <strong>One venue can be recorded under several names.</strong> Sources
+        spell things differently and residencies get filed under their host pub.
+        We merge these deliberately and keep a written note of every merge, but
+        a merge is a judgement and occasionally it will be the wrong one.
+      </li>
+      <li>
+        <strong>It is a snapshot.</strong> Restaurants close, chefs leave and
+        residencies end faster than guides update. Every ranked page carries the
+        date its evidence was last rebuilt.
+      </li>
+    </ul>
+
+    <h2>Independence</h2>
+    <p>
+      No placement on this site is paid for, and no venue can buy its way into a
+      guide or out of one. Where a page carries affiliate or partner links they
+      are marked as such, and they play no part in what is ranked or how.
+    </p>
+
+    <h2>Corrections</h2>
+    <p>
+      If a ranking here looks wrong, the useful thing to tell us is which source
+      we have missed, miscounted or double-counted — that is a claim we can
+      check and fix, and the count will change with it.
+    </p>
+
+    <p><a href="/">Return to the London Travel Geek homepage</a></p>
+  </article>
+</BaseLayout>
+
+<style>
+  .legal {
+    max-width: 52rem;
+    padding-block: var(--space-7);
+  }
+
+  .legal h1 {
+    margin-top: 0.5rem;
+  }
+
+  .legal__intro {
+    color: var(--muted);
+    font-size: 1.15rem;
+  }
+
+  .legal h2 {
+    margin-top: 2.5rem;
+    font-size: clamp(1.55rem, 4vw, 2.25rem);
+  }
+
+  .legal p,
+  .legal ul {
+    margin-top: 1rem;
+  }
+
+  .legal li {
+    margin-top: 0.6rem;
+  }
+
+  .legal a {
+    color: var(--accent);
+    font-weight: 750;
+  }
+</style>

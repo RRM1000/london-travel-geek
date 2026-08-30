@@ -5467,11 +5467,17 @@
       "activities",
       "pizza"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 5,
+    "tierSpread": "A1 C3 D1",
+    "tierCount": 3,
+    "hasAward": true,
     "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "2025 finalist (national)"
+      },
       {
         "tier": "C",
         "source": "The London Mother",
@@ -5486,6 +5492,12 @@
         "tier": "C",
         "source": "The Hungry Soles",
         "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      },
+      {
+        "tier": "D",
+        "source": "Instagram (creator posts)",
+        "url": "https://www.instagram.com/p/Dci8A6UDic2/",
+        "quote": "Called the writer's favourite pizzeria in London"
       }
     ]
   },
@@ -12140,10 +12152,11 @@
     "name": "Weezie’s",
     "topics": [
       "bars",
-      "general"
+      "general",
+      "pizza"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -12151,6 +12164,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
       },
       {
         "tier": "C",
@@ -12231,9 +12249,9 @@
       "bars",
       "pizza"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 5,
+    "tierSpread": "B2 D3",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
       {
@@ -12244,7 +12262,24 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#21 of 21. Detroit-style - Notting Hill"
+      },
+      {
+        "tier": "D",
+        "source": "@dens_destinations (TikTok)",
+        "url": "https://www.tiktok.com/@dens_destinations"
+      },
+      {
+        "tier": "D",
+        "source": "@rosielewis_ (TikTok)",
+        "url": "https://www.tiktok.com/@rosielewis_",
+        "quote": "9/10"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
       }
     ]
   },
@@ -13359,11 +13394,12 @@
     "name": "Elliot’s",
     "topics": [
       "bars",
+      "pizza",
       "sunday-roast"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 D1",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
       {
@@ -13375,6 +13411,12 @@
         "tier": "B",
         "source": "Sphere Magazine",
         "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
+      },
+      {
+        "tier": "D",
+        "source": "@rosielewis_ (TikTok)",
+        "url": "https://www.tiktok.com/@rosielewis_",
+        "quote": "8/10"
       }
     ]
   },
@@ -31813,7 +31855,8 @@
   "bard4100": {
     "name": "Bar D4100",
     "topics": [
-      "cheap-eats"
+      "cheap-eats",
+      "pizza"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -33004,8 +33047,8 @@
       "cheap-eats",
       "pizza"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C2 D1",
+    "sourceCount": 5,
+    "tierSpread": "B1 C2 D2",
     "tierCount": 3,
     "hasAward": false,
     "sources": [
@@ -33024,6 +33067,11 @@
         "source": "London Best Eats",
         "url": "https://www.londonbesteats.com/restaurants/sarvs-slice",
         "quote": "72-hour cold-fermented dough, airy inside with a lacy cheese crown"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
       },
       {
         "tier": "D",
@@ -38045,23 +38093,6 @@
       }
     ]
   },
-  "eastfinchley": {
-    "name": "East Finchley",
-    "topics": [
-      "cinemas"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Glossary",
-        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
-      }
-    ]
-  },
   "closeupfilmcentre": {
     "name": "Close-Up Film Centre",
     "topics": [
@@ -41549,11 +41580,12 @@
   "chatsworthbakehouse": {
     "name": "Chatsworth Bakehouse",
     "topics": [
-      "dessert"
+      "dessert",
+      "pizza"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B1 C1",
-    "tierCount": 3,
+    "sourceCount": 4,
+    "tierSpread": "A1 B1 C1 D1",
+    "tierCount": 4,
     "hasAward": true,
     "sources": [
       {
@@ -41570,6 +41602,11 @@
         "tier": "C",
         "source": "Londonyaar",
         "url": "https://www.londonyaar.com/blogs/15-best-bakeries-in-london-to-visit-in-2026-from-sourdough-to-croissants"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
       }
     ]
   },
@@ -55045,17 +55082,33 @@
   "homeslice": {
     "name": "Homeslice",
     "topics": [
-      "general"
+      "general",
+      "pizza"
     ],
-    "sourceCount": 1,
-    "tierSpread": "D1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B1 D3",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      },
       {
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "Sam Wilder (YouTube)",
+        "url": "https://www.youtube.com/@SamWilder"
+      },
+      {
+        "tier": "D",
+        "source": "Sorted Food (YouTube)",
+        "url": "https://www.youtube.com/@SortedFood"
       }
     ]
   },
@@ -55065,15 +55118,22 @@
       "general",
       "pizza"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C1 D2",
-    "tierCount": 3,
-    "hasAward": false,
+    "sourceCount": 8,
+    "tierSpread": "A1 B1 C1 D5",
+    "tierCount": 4,
+    "hasAward": true,
     "sources": [
+      {
+        "tier": "A",
+        "source": "50 Top Pizza",
+        "url": "https://www.50toppizza.it/50-top-pizza-europa-2025-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe/",
+        "quote": "#1 in Europe 2025"
+      },
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#16 of 21 - Chiswick and Richmond"
       },
       {
         "tier": "C",
@@ -55087,8 +55147,25 @@
       },
       {
         "tier": "D",
+        "source": "@brunchbytube (TikTok)",
+        "url": "https://www.tiktok.com/@brunchbytube",
+        "quote": "Crowned pizza of the year 2025. SYNDICATION - originating source is 50 Top Pizza"
+      },
+      {
+        "tier": "D",
         "source": "Find Eat Go (YouTube)",
-        "url": "https://www.youtube.com/@FindEatGo"
+        "url": "https://www.youtube.com/@FindEatGo",
+        "quote": "Reports the 50 Top Pizza result. SYNDICATION - originating source is 50 Top Pizza"
+      },
+      {
+        "tier": "D",
+        "source": "Harry Kersh (YouTube)",
+        "url": "https://www.youtube.com/@harrykersh"
+      },
+      {
+        "tier": "D",
+        "source": "JOLLY (YouTube)",
+        "url": "https://www.youtube.com/@jolly"
       }
     ]
   },
@@ -55190,10 +55267,11 @@
     "name": "Cecconi's",
     "topics": [
       "general",
-      "italian"
+      "italian",
+      "pizza"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 D1",
+    "sourceCount": 4,
+    "tierSpread": "B2 D2",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -55211,6 +55289,12 @@
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "@rosielewis_ (TikTok)",
+        "url": "https://www.tiktok.com/@rosielewis_",
+        "quote": "6.5/10"
       }
     ]
   },
@@ -55313,26 +55397,64 @@
       }
     ]
   },
-  "alleycats": {
-    "name": "Alley Cats",
+  "alleycatspizza": {
+    "name": "Alley Cats Pizza",
     "topics": [
       "general",
       "pizza"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C1 D1",
-    "tierCount": 2,
+    "sourceCount": 9,
+    "tierSpread": "B3 C2 D4",
+    "tierCount": 3,
     "hasAward": false,
     "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking",
+        "quote": "#4 of 12"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#6 of 21 - Marylebone"
+      },
       {
         "tier": "C",
         "source": "Mayfair Foodie",
         "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
       },
       {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      },
+      {
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "@dens_destinations (TikTok)",
+        "url": "https://www.tiktok.com/@dens_destinations"
+      },
+      {
+        "tier": "D",
+        "source": "@rosielewis_ (TikTok)",
+        "url": "https://www.tiktok.com/@rosielewis_",
+        "quote": "7/10"
+      },
+      {
+        "tier": "D",
+        "source": "Harry Kersh (YouTube)",
+        "url": "https://www.youtube.com/@harrykersh"
       }
     ]
   },
@@ -55356,7 +55478,8 @@
   "pizzabun": {
     "name": "Pizza Bun",
     "topics": [
-      "general"
+      "general",
+      "pizza"
     ],
     "sourceCount": 1,
     "tierSpread": "D1",
@@ -55373,7 +55496,8 @@
   "oivita": {
     "name": "Oi Vita",
     "topics": [
-      "general"
+      "general",
+      "pizza"
     ],
     "sourceCount": 1,
     "tierSpread": "D1",
@@ -55407,10 +55531,11 @@
   "pizzaunion": {
     "name": "Pizza Union",
     "topics": [
-      "general"
+      "general",
+      "pizza"
     ],
-    "sourceCount": 1,
-    "tierSpread": "D1",
+    "sourceCount": 2,
+    "tierSpread": "D2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -55418,24 +55543,42 @@
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "Sorted Food (YouTube)",
+        "url": "https://www.youtube.com/@SortedFood"
       }
     ]
   },
-  "crisppizza": {
-    "name": "Crisp Pizza",
+  "crisppizzaatthemarlborough": {
+    "name": "Crisp Pizza at The Marlborough",
     "topics": [
       "general",
       "pizza"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C2 D1",
+    "sourceCount": 11,
+    "tierSpread": "B3 C2 D6",
     "tierCount": 3,
     "hasAward": false,
     "sources": [
       {
         "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/",
+        "quote": "Listed as Crisp Mayfair"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking",
+        "quote": "#1 of 12 - given as Crisp Pizza W6 at The Chancellors - Hammersmith - VENUE-IDENTITY FLAG - may not be the Marlborough site"
+      },
+      {
+        "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#15 of 21 - listed as Crisp Pizza - Mayfair"
       },
       {
         "tier": "C",
@@ -55451,6 +55594,34 @@
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
+      },
+      {
+        "tier": "D",
+        "source": "@rosielewis_ (TikTok)",
+        "url": "https://www.tiktok.com/@rosielewis_",
+        "quote": "9/10"
+      },
+      {
+        "tier": "D",
+        "source": "JOLLY (YouTube)",
+        "url": "https://www.youtube.com/@jolly"
+      },
+      {
+        "tier": "D",
+        "source": "More Fallow (YouTube)",
+        "url": "https://www.youtube.com/@MoreFallow",
+        "quote": "Called the best pizza in the UK - and maybe the best in the world. At The Marlborough - Mayfair"
+      },
+      {
+        "tier": "D",
+        "source": "Only Scrans (YouTube)",
+        "url": "https://www.youtube.com/@onlyscrans",
+        "quote": "Given as Crisp W6 - the most hyped pizza in London"
       }
     ]
   },
@@ -56489,7 +56660,8 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#11 of 21"
       },
       {
         "tier": "C",
@@ -66889,17 +67061,24 @@
   "madeinitaly": {
     "name": "Made In Italy",
     "topics": [
-      "italian"
+      "italian",
+      "pizza"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "sources": [
       {
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-italian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "@rosielewis_ (TikTok)",
+        "url": "https://www.tiktok.com/@rosielewis_",
+        "quote": "8.7/10"
       }
     ]
   },
@@ -67534,8 +67713,8 @@
       "italian",
       "pizza"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -67543,6 +67722,11 @@
         "tier": "B",
         "source": "The Sauce",
         "url": "https://thesaucemag.com/best-italian-restaurants-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
       },
       {
         "tier": "C",
@@ -68438,11 +68622,12 @@
   "icco": {
     "name": "ICCO",
     "topics": [
-      "italian"
+      "italian",
+      "pizza"
     ],
-    "sourceCount": 2,
-    "tierSpread": "A1 C1",
-    "tierCount": 2,
+    "sourceCount": 3,
+    "tierSpread": "A1 C1 D1",
+    "tierCount": 3,
     "hasAward": true,
     "sources": [
       {
@@ -68455,6 +68640,11 @@
         "source": "Berkeley Square Barbarian",
         "url": "https://www.berkeleysquarebarbarian.com/2024/10/11/icco-pizza-london/",
         "quote": "cheap does not mean poor quality - whole 12-inch pizzas from £6.50, serving Goodge Street since 1999"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
       }
     ]
   },
@@ -83566,17 +83756,29 @@
   "conniespizza": {
     "name": "Connie's Pizza",
     "topics": [
-      "new-openings"
+      "new-openings",
+      "pizza"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 D1",
+    "tierCount": 3,
+    "hasAward": true,
     "sources": [
+      {
+        "tier": "A",
+        "source": "50 Top Pizza",
+        "url": "https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/",
+        "quote": "#48 in Europe - plus a 'one to watch' award - listed as Connie's Pizzeria"
+      },
       {
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
       }
     ]
   },
@@ -85148,38 +85350,6 @@
       }
     ]
   },
-  "victoriapark": {
-    "name": "Victoria Park",
-    "topics": [
-      "parks-gardens"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Lonely Planet",
-        "url": "https://www.lonelyplanet.com/articles/best-parks-london"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/best-parks-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "Candace Abroad",
-        "url": "https://candaceabroad.com/50-beautiful-parks-and-gardens-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "The Empty Nest Explorers",
-        "url": "https://www.theemptynestexplorers.com/blog/quick-guide-to-london-parks"
-      }
-    ]
-  },
   "leevalleypark": {
     "name": "Lee Valley Park",
     "topics": [
@@ -86208,47 +86378,254 @@
       }
     ]
   },
-  "breadstall": {
-    "name": "Breadstall",
+  "1myguidetolondonsbestpizzas": {
+    "name": "1 My Guide to London’s Best Pizzas",
     "topics": [
       "pizza"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 D1",
-    "tierCount": 2,
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
     "hasAward": false,
     "sources": [
       {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      },
-      {
-        "tier": "D",
-        "source": "Harrison Webb (YouTube)",
-        "url": "https://www.youtube.com/@HarrisonWebb97"
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
       }
     ]
   },
-  "japes": {
-    "name": "Japes",
+  "2neapolitan": {
+    "name": "2 Neapolitan",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      }
+    ]
+  },
+  "50kalodicirosalvo": {
+    "name": "50 Kalò di Ciro Salvo",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      }
+    ]
+  },
+  "lanticapizzeriadamichele": {
+    "name": "L’Antica Pizzeria da Michele",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "A1 B1 C2",
+    "tierCount": 3,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "50 Top Pizza",
+        "url": "https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/",
+        "quote": "#28 in Europe - listed as L'Antica Pizzeria"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      }
+    ]
+  },
+  "santamaria": {
+    "name": "Santa Maria",
     "topics": [
       "pizza"
     ],
     "sourceCount": 2,
-    "tierSpread": "B1 D1",
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "@rosielewis_ (TikTok)",
+        "url": "https://www.tiktok.com/@rosielewis_",
+        "quote": "7/10"
+      }
+    ]
+  },
+  "crustbrothers": {
+    "name": "Crust Brothers",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      }
+    ]
+  },
+  "pizzapilgrims": {
+    "name": "Pizza Pilgrims",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "A1 B1 C2 D3",
+    "tierCount": 4,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "2025 finalist (national)"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      },
+      {
+        "tier": "D",
+        "source": "@dens_destinations (TikTok)",
+        "url": "https://www.tiktok.com/@dens_destinations"
+      },
+      {
+        "tier": "D",
+        "source": "Sam Wilder (YouTube)",
+        "url": "https://www.youtube.com/@SamWilder"
+      },
+      {
+        "tier": "D",
+        "source": "Sorted Food (YouTube)",
+        "url": "https://www.youtube.com/@SortedFood"
+      }
+    ]
+  },
+  "berbere": {
+    "name": "Berberè",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
       {
         "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      },
+      {
+        "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#13 of 21 - Kentish Town"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      }
+    ]
+  },
+  "3newyorkstyle": {
+    "name": "3 New York Style",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      }
+    ]
+  },
+  "springstreetpizza": {
+    "name": "Spring Street Pizza",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C1 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking",
+        "quote": "#9 of 12"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#4 of 21. New York-style with a university education"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
       },
       {
         "tier": "D",
-        "source": "Harrison Webb (YouTube)",
-        "url": "https://www.youtube.com/@HarrisonWebb97"
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
       }
     ]
   },
@@ -86257,11 +86634,29 @@
     "topics": [
       "pizza"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C2 D1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 8,
+    "tierSpread": "A1 B2 C2 D3",
+    "tierCount": 4,
+    "hasAward": true,
     "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "Pizza of the Year 2024 (Sausage Party), having also won in 2022 (Pepperoni Alla Vodka) - from the awards' Previous Winners page"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking",
+        "quote": "#6 of 12 - as Bad Boy Pizzeria"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#3 of 21 - listed as Bad Boy Pizzeria"
+      },
       {
         "tier": "C",
         "source": "Mayfair Foodie",
@@ -86274,21 +86669,15 @@
       },
       {
         "tier": "D",
-        "source": "Harrison Webb (YouTube)",
-        "url": "https://www.youtube.com/@HarrisonWebb97"
-      }
-    ]
-  },
-  "graceyspizza": {
-    "name": "Gracey's Pizza",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "D1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
+        "source": "Instagram (creator posts)",
+        "url": "https://www.instagram.com/p/Db8vqjQNsGo/",
+        "quote": "10/10"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
+      },
       {
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
@@ -86296,20 +86685,120 @@
       }
     ]
   },
-  "50kalo": {
-    "name": "50 Kalò",
+  "4londonstyle": {
+    "name": "4 London Style",
     "topics": [
       "pizza"
     ],
     "sourceCount": 1,
-    "tierSpread": "D1",
+    "tierSpread": "C1",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
       {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      }
+    ]
+  },
+  "acepizza": {
+    "name": "ACE Pizza",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "A1 B1 C1 D2",
+    "tierCount": 4,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "Bloggers' Choice Award 2025 - Howard Quayle's The Capish, a 20-inch pizza with house vodka sauce and 'secret recipe' meatballs"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#5 of 21. Chewy New York/Neapolitan hybrid - Victoria Park"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
+      },
+      {
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "yardsalepizza": {
+    "name": "Yard Sale Pizza",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "A1 B3 C2",
+    "tierCount": 3,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "3rd place 2025 - Paolo Burini's Ragu Pazzo, with burrata, white anchovies and a lemon marmalade swirl"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#8 of 21. Wood-fired Neapolitan - Clapton"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      }
+    ]
+  },
+  "5pubresidencies": {
+    "name": "5 Pub Residencies",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
       }
     ]
   },
@@ -86318,15 +86807,22 @@
     "topics": [
       "pizza"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C2 D1",
+    "sourceCount": 6,
+    "tierSpread": "B2 C2 D2",
     "tierCount": 3,
     "hasAward": false,
     "sources": [
       {
         "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking",
+        "quote": "#7 of 12"
+      },
+      {
+        "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#2 of 21. Crispy New York-style with London sass"
       },
       {
         "tier": "C",
@@ -86340,13 +86836,1402 @@
       },
       {
         "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
+      },
+      {
+        "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
       }
     ]
   },
+  "littleearthquakes": {
+    "name": "Little Earthquakes",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "2025 finalist (London)"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#18 of 21"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      }
+    ]
+  },
+  "6southlondon": {
+    "name": "6 South London",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      }
+    ]
+  },
+  "theos": {
+    "name": "Theo’s",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      }
+    ]
+  },
+  "7worththejourney": {
+    "name": "7 Worth the Journey",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      }
+    ]
+  },
+  "lorodinapoli": {
+    "name": "L’Oro di Napoli",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      }
+    ]
+  },
+  "rudyspizzanapoletana": {
+    "name": "Rudy’s Pizza Napoletana",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "A1 B2 C1 D1",
+    "tierCount": 4,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "2025 finalist (national)"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#7 of 21 - listed as Rudy's - Shoreditch"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "@rosielewis_ (TikTok)",
+        "url": "https://www.tiktok.com/@rosielewis_",
+        "quote": "8/10"
+      }
+    ]
+  },
+  "sodopizza": {
+    "name": "Sodo Pizza",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#20 of 21"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      }
+    ]
+  },
+  "shortroadpizza": {
+    "name": "Short Road Pizza",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 D1",
+    "tierCount": 3,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "National Pizza of the Year 2025 - Riccardo Demuru's The Short Road Marinara: tomato sauce, confit garlic puree, spicy chimichurri, fresh stracciatella, Cantabrian anchovies and oregano. Trading only a year at the time. Also took the Alternative Slice Award with Caramelle Piccanti"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
+        "quote": "Leyton pub pizzeria - Romana crusts. MAY be Short Road Pizza's residency"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#1 of 21. Romana-style with Chicago thin crust - Leyton and Bethnal Green"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat",
+        "quote": "Described as national pizza of the year 2025 - SYNDICATION - originating source is the National Pizza Awards"
+      }
+    ]
+  },
+  "bingbongpizza": {
+    "name": "Bing Bong Pizza",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 D1",
+    "tierCount": 2,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "2nd place 2025 - Rich Goodwin's With A Little H(ELP) From My Friends, baked in a pan with fennel sausage meat, pink fir potatoes and pickled Romano peppers"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
+      }
+    ]
+  },
+  "mammadough": {
+    "name": "Mamma Dough",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 C1",
+    "tierCount": 2,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "Pizza Chef of the Year 2025 - Antonio Raspone, for The Big Apple Blue"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      }
+    ]
+  },
+  "basefacepizza": {
+    "name": "Base Face Pizza",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "2025 finalist (London)"
+      }
+    ]
+  },
+  "fattoamano": {
+    "name": "Fatto a Mano",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "2025 finalist (listed as Brighton)"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#14 of 21"
+      }
+    ]
+  },
+  "superclubroma": {
+    "name": "Super Club Roma",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "2025 finalist (London)"
+      }
+    ]
+  },
+  "zialucia": {
+    "name": "Zia Lucia",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 D1",
+    "tierCount": 3,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "2025 finalist (London)"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london"
+      },
+      {
+        "tier": "D",
+        "source": "@dens_destinations (TikTok)",
+        "url": "https://www.tiktok.com/@dens_destinations"
+      }
+    ]
+  },
+  "zerodegrees": {
+    "name": "Zerodegrees",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "Pizza of the Year 2023 (The Cinghiale) - London site in Blackheath"
+      }
+    ]
+  },
+  "purezza": {
+    "name": "Purezza",
+    "topics": [
+      "pizza",
+      "vegan"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "A1 B1 C3",
+    "tierCount": 3,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "Pizza of the Year 2018 (Parmigiana Party) - London site in Camden"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-vegan-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-vegan-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Vegpreneur",
+        "url": "https://www.vegpreneur.org/blog/the-best-vegan-restaurants-in-london-in-2026"
+      },
+      {
+        "tier": "C",
+        "source": "My Vegan Travels",
+        "url": "https://myvegantravels.com/destinations/vegan-food-spots-london/"
+      }
+    ]
+  },
+  "paparoma": {
+    "name": "Papa Roma",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "Pizza of the Year 2017 (Di Bosco) - South Kensington"
+      }
+    ]
+  },
+  "breadstall": {
+    "name": "Breadstall",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B2 C1 D4",
+    "tierCount": 3,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#10 of 21. Slow-fermented biga dough - Soho"
+      },
+      {
+        "tier": "C",
+        "source": "One Bite Pizza Reviews (Barstool)",
+        "url": "https://onebite.app/",
+        "quote": "Dave Portnoy review; credited elsewhere as calling it the best New York-style slice outside New York"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
+      },
+      {
+        "tier": "D",
+        "source": "@rosielewis_ (TikTok)",
+        "url": "https://www.tiktok.com/@rosielewis_",
+        "quote": "9/10"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "The MacMaster (YouTube)",
+        "url": "https://www.youtube.com/@TheMacMaster"
+      }
+    ]
+  },
+  "50kalo": {
+    "name": "50 Kalò",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 D1",
+    "tierCount": 2,
+    "hasAward": true,
+    "sources": [
+      {
+        "tier": "A",
+        "source": "50 Top Pizza",
+        "url": "https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/",
+        "quote": "#4 in Europe; top 20 auto-qualify for 100 Best Pizzerias in the World"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "briefhistoryofpizza": {
+    "name": "A Brief History of Pizza",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      }
+    ]
+  },
+  "circuspizza": {
+    "name": "Circus Pizza",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      }
+    ]
+  },
+  "farina": {
+    "name": "Farina",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      }
+    ]
+  },
+  "daylesford": {
+    "name": "Daylesford",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      }
+    ]
+  },
+  "over": {
+    "name": "'O Ver",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      },
+      {
+        "tier": "D",
+        "source": "@dens_destinations (TikTok)",
+        "url": "https://www.tiktok.com/@dens_destinations"
+      }
+    ]
+  },
+  "happyface": {
+    "name": "Happy Face",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      }
+    ]
+  },
+  "vincenzos": {
+    "name": "Vincenzo's",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B3 D3",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/best-pizza-restaurants-london",
+        "quote": "Headlined 'Best New York-style pizza in London?'; whole pies from £23 - 122 Bethnal Green Road"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking",
+        "quote": "#3 of 12 - given as Vincenzo's Pizza - Bushey"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
+      },
+      {
+        "tier": "D",
+        "source": "Appetite (YouTube)",
+        "url": "https://www.youtube.com/@appetiteapp",
+        "quote": "Interview with owner Tom Vincent; Bushey original - Shoreditch second site"
+      },
+      {
+        "tier": "D",
+        "source": "Harry Kersh (YouTube)",
+        "url": "https://www.youtube.com/@harrykersh"
+      }
+    ]
+  },
+  "paulies": {
+    "name": "Paulie's",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B2 D3",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking",
+        "quote": "#12 of 12 - as Paulie's Shoreditch"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "Named in Time Out's east London pizza crawl video - not the ranked 21"
+      },
+      {
+        "tier": "D",
+        "source": "Instagram (creator posts)",
+        "url": "https://www.instagram.com/p/DceF3ynDXKQ/",
+        "quote": "Review of the Paulie's Pie - fennel-seed pepperoni and hot honey"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
+      },
+      {
+        "tier": "D",
+        "source": "JOLLY (YouTube)",
+        "url": "https://www.youtube.com/@jolly"
+      }
+    ]
+  },
+  "pizzeriapellone": {
+    "name": "Pizzeria Pellone",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Instagram (creator posts)",
+        "url": "https://www.instagram.com/p/DceNw2EzUjH/",
+        "quote": "#16 best pizzeria in London 2026 and #53 in the UK"
+      }
+    ]
+  },
+  "lostsoulspizza": {
+    "name": "Lost Souls Pizza",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Instagram (creator posts)",
+        "url": "https://www.instagram.com/p/Dcjef70F53T/"
+      }
+    ]
+  },
+  "bridgebaker": {
+    "name": "Bridge Baker",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Instagram (creator posts)",
+        "url": "https://www.instagram.com/p/DZh4gpOt7oP/"
+      }
+    ]
+  },
+  "bonvinoenoteca": {
+    "name": "Bon Vino Enoteca",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      }
+    ]
+  },
+  "50kalodicirosalvopizzeria": {
+    "name": "50 Kalò di Ciro Salvo Pizzeria",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      }
+    ]
+  },
+  "rudyspizza": {
+    "name": "Rudy's Pizza",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      }
+    ]
+  },
+  "biancho43": {
+    "name": "Biancho 43",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      }
+    ]
+  },
+  "theospizzeria": {
+    "name": "Theo's Pizzeria",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      }
+    ]
+  },
+  "pizzaeast": {
+    "name": "Pizza East",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      }
+    ]
+  },
+  "081pizzeria": {
+    "name": "081 Pizzeria",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      }
+    ]
+  },
+  "pizzanerds": {
+    "name": "Pizza Nerds",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      }
+    ]
+  },
+  "placesonourlisttovisit": {
+    "name": "Places on our list to visit",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      }
+    ]
+  },
+  "placesthatdontmakeitontoourlist": {
+    "name": "Places that don’t make it onto our list",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      }
+    ]
+  },
+  "surfingasabeginnerinpuertoescondido": {
+    "name": "Surfing as a beginner in Puerto Escondido",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      }
+    ]
+  },
+  "graceyspizza": {
+    "name": "Gracey's Pizza",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 D2",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking",
+        "quote": "#2 of 12 - but placed in St Albans - outside London"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "laurettas": {
+    "name": "Lauretta's",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking",
+        "quote": "#5 of 12"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "Named in Time Out's east London pizza crawl video - not the ranked 21"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
+      }
+    ]
+  },
+  "67sourdough": {
+    "name": "67 Sourdough",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking",
+        "quote": "#8 of 12"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
+      }
+    ]
+  },
+  "patiopizza": {
+    "name": "Patio Pizza",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking",
+        "quote": "#10 of 12 - at The Greyhound - Peckham"
+      }
+    ]
+  },
+  "carmelaspizzeria": {
+    "name": "Carmela's Pizzeria",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking",
+        "quote": "#11 of 12"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
+      }
+    ]
+  },
+  "detroitpizzalondon": {
+    "name": "Detroit Pizza London",
+    "topics": [
+      "pizza",
+      "vegan"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 D2",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london"
+      },
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
+      },
+      {
+        "tier": "D",
+        "source": "Danny & Gary (YouTube)",
+        "url": "https://www.youtube.com/@dannygaryyoutube",
+        "quote": "Visited as supposedly the best pizza in the country"
+      }
+    ]
+  },
+  "vasiniko": {
+    "name": "Vasiniko",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london"
+      }
+    ]
+  },
+  "pizzeriapappagone": {
+    "name": "Pizzeria Pappagone",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london"
+      }
+    ]
+  },
+  "grasso": {
+    "name": "Grasso",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "D",
+        "source": "@dens_destinations (TikTok)",
+        "url": "https://www.tiktok.com/@dens_destinations"
+      }
+    ]
+  },
+  "albys": {
+    "name": "Alby's",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
+      }
+    ]
+  },
+  "dinnerfor100": {
+    "name": "Dinner for 100",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "D",
+        "source": "@eat.snack.repeat (TikTok)",
+        "url": "https://www.tiktok.com/@eat.snack.repeat"
+      }
+    ]
+  },
+  "slayer": {
+    "name": "Slayer",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "D",
+        "source": "@rosielewis_ (TikTok)",
+        "url": "https://www.tiktok.com/@rosielewis_",
+        "quote": "7/10"
+      }
+    ]
+  },
+  "cinquecento": {
+    "name": "Cinquecento",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "D",
+        "source": "@rosielewis_ (TikTok)",
+        "url": "https://www.tiktok.com/@rosielewis_",
+        "quote": "7.5/10"
+      }
+    ]
+  },
+  "martas": {
+    "name": "Marta's",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "D",
+        "source": "@rosielewis_ (TikTok)",
+        "url": "https://www.tiktok.com/@rosielewis_",
+        "quote": "5/10"
+      }
+    ]
+  },
+  "bebere": {
+    "name": "Bebere",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "D",
+        "source": "@rosielewis_ (TikTok)",
+        "url": "https://www.tiktok.com/@rosielewis_",
+        "quote": "6.5/10 - spelled 'Bebere'. May be Berberè but unconfirmed - left as a separate name"
+      }
+    ]
+  },
+  "londonsbestpizzaataglance": {
+    "name": "London ' s best pizza at a glance:",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+      }
+    ]
+  },
+  "badboypizzeria": {
+    "name": "Bad Boy Pizzeria",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+      }
+    ]
+  },
+  "rudys": {
+    "name": "Rudy's",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+      }
+    ]
+  },
+  "hotsaintpizza": {
+    "name": "Hot Saint Pizza",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#17 of 21"
+      }
+    ]
+  },
+  "japes": {
+    "name": "Japes",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 D3",
+    "tierCount": 2,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#19 of 21. Chicago deep dish"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "Harry Kersh (YouTube)",
+        "url": "https://www.youtube.com/@harrykersh"
+      },
+      {
+        "tier": "D",
+        "source": "Sam Wilder (YouTube)",
+        "url": "https://www.youtube.com/@SamWilder"
+      }
+    ]
+  },
+  "sodopizzacafe": {
+    "name": "Sodo Pizza Cafe",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+      }
+    ]
+  },
+  "thisisrealauthenticnapolipizza": {
+    "name": "This is real authentic Napoli pizza!",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Find Eat Go (YouTube)",
+        "url": "https://www.youtube.com/@FindEatGo"
+      }
+    ]
+  },
   "batterseapowerstation": {
     "name": "Battersea Power Station",
+    "topics": [
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "crazypizza": {
+    "name": "Crazy Pizza",
     "topics": [
       "pizza"
     ],
@@ -86770,8 +88655,8 @@
       }
     ]
   },
-  "thisisrealauthenticnapolipizza": {
-    "name": "This is real authentic Napoli pizza!",
+  "crustbros": {
+    "name": "Crust Bros",
     "topics": [
       "pizza"
     ],
@@ -86782,801 +88667,8 @@
     "sources": [
       {
         "tier": "D",
-        "source": "Find Eat Go (YouTube)",
-        "url": "https://www.youtube.com/@FindEatGo"
-      }
-    ]
-  },
-  "1myguidetolondonsbestpizzas": {
-    "name": "1 My Guide to London’s Best Pizzas",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "2neapolitan": {
-    "name": "2 Neapolitan",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "50kalodicirosalvo": {
-    "name": "50 Kalò di Ciro Salvo",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "lanticapizzeriadamichele": {
-    "name": "L’Antica Pizzeria da Michele",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "santamaria": {
-    "name": "Santa Maria",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "crustbrothers": {
-    "name": "Crust Brothers",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "pizzapilgrims": {
-    "name": "Pizza Pilgrims",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "berbere": {
-    "name": "Berberè",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      },
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "3newyorkstyle": {
-    "name": "3 New York Style",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "springstreetpizza": {
-    "name": "Spring Street Pizza",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      },
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "4londonstyle": {
-    "name": "4 London Style",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "acepizza": {
-    "name": "ACE Pizza",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      },
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "yardsalepizza": {
-    "name": "Yard Sale Pizza",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      },
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "5pubresidencies": {
-    "name": "5 Pub Residencies",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "littleearthquakes": {
-    "name": "Little Earthquakes",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      },
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "6southlondon": {
-    "name": "6 South London",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "theos": {
-    "name": "Theo’s",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "7worththejourney": {
-    "name": "7 Worth the Journey",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "lorodinapoli": {
-    "name": "L’Oro di Napoli",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "rudyspizzanapoletana": {
-    "name": "Rudy’s Pizza Napoletana",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "sodopizza": {
-    "name": "Sodo Pizza",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "bonvinoenoteca": {
-    "name": "Bon Vino Enoteca",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "50kalodicirosalvopizzeria": {
-    "name": "50 Kalò di Ciro Salvo Pizzeria",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "alleycatspizza": {
-    "name": "Alley Cats Pizza",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      },
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "rudyspizza": {
-    "name": "Rudy's Pizza",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "biancho43": {
-    "name": "Biancho 43",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "theospizzeria": {
-    "name": "Theo's Pizzeria",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "pizzaeast": {
-    "name": "Pizza East",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "mammadough": {
-    "name": "Mamma Dough",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "081pizzeria": {
-    "name": "081 Pizzeria",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "pizzanerds": {
-    "name": "Pizza Nerds",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "placesonourlisttovisit": {
-    "name": "Places on our list to visit",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "placesthatdontmakeitontoourlist": {
-    "name": "Places that don’t make it onto our list",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "surfingasabeginnerinpuertoescondido": {
-    "name": "Surfing as a beginner in Puerto Escondido",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
-  "briefhistoryofpizza": {
-    "name": "A Brief History of Pizza",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
-      }
-    ]
-  },
-  "londonsbestpizzaataglance": {
-    "name": "London ' s best pizza at a glance:",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      }
-    ]
-  },
-  "shortroadpizza": {
-    "name": "Short Road Pizza",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      }
-    ]
-  },
-  "badboypizzeria": {
-    "name": "Bad Boy Pizzeria",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      }
-    ]
-  },
-  "rudys": {
-    "name": "Rudy's",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      }
-    ]
-  },
-  "vincenzos": {
-    "name": "Vincenzo’s",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      }
-    ]
-  },
-  "carmelaspizzeria": {
-    "name": "Carmela’s Pizzeria",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      }
-    ]
-  },
-  "fattoamano": {
-    "name": "Fatto a Mano",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      }
-    ]
-  },
-  "hotsaintpizza": {
-    "name": "Hot Saint Pizza",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      }
-    ]
-  },
-  "sodopizzacafe": {
-    "name": "Sodo Pizza Cafe",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+        "source": "Sam Wilder (YouTube)",
+        "url": "https://www.youtube.com/@SamWilder"
       }
     ]
   },
@@ -96863,38 +97955,6 @@
       }
     ]
   },
-  "purezza": {
-    "name": "Purezza",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C3",
-    "tierCount": 2,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-vegan-restaurants-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-vegan-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Vegpreneur",
-        "url": "https://www.vegpreneur.org/blog/the-best-vegan-restaurants-in-london-in-2026"
-      },
-      {
-        "tier": "C",
-        "source": "My Vegan Travels",
-        "url": "https://myvegantravels.com/destinations/vegan-food-spots-london/"
-      }
-    ]
-  },
   "tendril": {
     "name": "Tendril",
     "topics": [
@@ -97056,23 +98116,6 @@
   },
   "lahpetwestend": {
     "name": "Lahpet West End",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/vegan-food-restaurants-london"
-      }
-    ]
-  },
-  "detroitpizzalondon": {
-    "name": "Detroit Pizza London",
     "topics": [
       "vegan"
     ],

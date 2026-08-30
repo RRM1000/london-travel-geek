@@ -976,6 +976,58 @@
     "letmeshowyoulondon.com": {
       "tier": "C",
       "name": "Let Me Show You London"
+    },
+    "nationalpizzaawards.co.uk": {
+      "name": "National Pizza Awards",
+      "tier": "A"
+    },
+    "onebite.app": {
+      "name": "One Bite Pizza Reviews (Barstool)",
+      "tier": "C"
+    },
+    "instagram.com": {
+      "name": "Instagram (creator posts)",
+      "tier": "D"
+    },
+    "youtube.com/@SortedFood": {
+      "name": "Sorted Food (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@onlyscrans": {
+      "name": "Only Scrans (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@appetiteapp": {
+      "name": "Appetite (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@SamWilder": {
+      "name": "Sam Wilder (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@TheMacMaster": {
+      "name": "The MacMaster (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@dannygaryyoutube": {
+      "name": "Danny & Gary (YouTube)",
+      "tier": "D"
+    },
+    "tiktok.com/@rosielewis_": {
+      "name": "@rosielewis_ (TikTok)",
+      "tier": "D"
+    },
+    "tiktok.com/@eat.snack.repeat": {
+      "name": "@eat.snack.repeat (TikTok)",
+      "tier": "D"
+    },
+    "tiktok.com/@dens_destinations": {
+      "name": "@dens_destinations (TikTok)",
+      "tier": "D"
+    },
+    "tiktok.com/@brunchbytube": {
+      "name": "@brunchbytube (TikTok)",
+      "tier": "D"
     }
   }
 }

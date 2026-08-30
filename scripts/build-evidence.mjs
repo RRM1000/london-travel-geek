@@ -37,6 +37,17 @@ const norm = (s) =>
 // count somewhere.
 const NOISE = JSON.parse(fs.readFileSync("data/name-noise.json", "utf8"));
 
+// Sources spell one venue several ways - Crisp is "Crisp Pizza", "Crisp W6" and
+// "Crisp Pizza W6 at The Chancellors" across ten citations. Left alone, norm()
+// files those as three separate venues with three weak source counts instead of
+// one strong one. The list is explicit rather than fuzzy on purpose: a rule
+// loose enough to join those would also join Pizza Union to Pizza Pilgrims.
+const ALIASES = (() => {
+  const doc = JSON.parse(fs.readFileSync("data/name-aliases.json", "utf8"));
+  return new Map(Object.entries(doc.aliases ?? {}).map(([from, to]) => [norm(from), to]));
+})();
+const canonical = (n) => ALIASES.get(norm(n)) ?? n;
+
 // Neighbourhoods come from the write script's own HOODS table rather than a
 // second hand-kept list, so they cannot drift apart.
 const HOODS = (() => {
@@ -134,8 +145,11 @@ for (const file of topics) {
     const tier = tierOf(host);
 
     for (const raw of src.names ?? []) {
-      const name = String(raw).trim();
-      if (isJunk(name)) continue;
+      const asWritten = String(raw).trim();
+      if (isJunk(asWritten)) continue;
+      // Junk is judged on what the source wrote; everything after this point
+      // uses the canonical name, so variant spellings land on one record.
+      const name = canonical(asWritten);
       const key = norm(name);
       if (!key) continue;
       if (CLOSED.has(key)) { closedHits.add(name); continue; }
@@ -157,7 +171,8 @@ for (const file of topics) {
         recorded: doc.recorded ?? null,
         // What the source actually SAID about it. A source count is a claim;
         // a quote is evidence the reader can check for themselves.
-        quote: src.quotes?.[name] ?? null,
+        // Quotes are keyed by the spelling the source used, not the canonical one.
+        quote: src.quotes?.[asWritten] ?? src.quotes?.[name] ?? null,
       });
     }
   }
