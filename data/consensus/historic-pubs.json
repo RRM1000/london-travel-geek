@@ -53,16 +53,6 @@
       ]
     },
     {
-      "name": "Pub Guide London",
-      "url": "https://pubguidelondon.com/blog/history-london-pubs.html",
-      "scope": "historic-pubs",
-      "names": [
-        "The Great Fire and Rebuilding",
-        "The Victorian Gin Palaces",
-        "Wartime and the 20th Century"
-      ]
-    },
-    {
       "name": "Secret London",
       "url": "https://secretldn.com/oldest-pubs-in-london/",
       "scope": "historic-pubs",
@@ -85,7 +75,6 @@
         "10 The Grapes",
         "The Seven Stars",
         "The Footman",
-        "Martin",
         "The Mayfair Foodie",
         "HexClad pans"
       ]
@@ -95,7 +84,6 @@
       "url": "https://londondrinksguide.com/en/blog/where-to-drink-93/pubs-97/oldest-pubs-in-london-31.htm",
       "scope": "historic-pubs",
       "names": [
-        "Enjoy a pint with a side of history",
         "The Guinea",
         "The Spaniards Inn",
         "Hoop & Grapes",
@@ -126,20 +114,7 @@
       "url": "https://www.cityam.com/heres-the-most-beautiful-wetherspoons-pub-in-london/",
       "scope": "historic-pubs",
       "names": [
-        "The Wetherspoons pub with the best vibe",
-        "Similarly tagged content:",
-        "Sections",
-        "People & Organisations"
-      ]
-    },
-    {
-      "name": "Lonely Planet (bank Wetherspoons)",
-      "url": "https://www.lonelyplanet.com/news/most-beautiful-bank-wetherspoons",
-      "scope": "historic-pubs",
-      "names": [
-        "Explore More",
-        "Attractions",
-        "Books"
+        "The Wetherspoons pub with the best vibe"
       ]
     },
     {
@@ -147,12 +122,6 @@
       "url": "https://www.london-now.co.uk/news/25912302.crosse-keys-wetherspoon-pub-old-hsbc-bank-hall/",
       "scope": "historic-pubs",
       "names": [
-        "Sport",
-        "Transport",
-        "Crime",
-        "Property",
-        "A touch of grandeur",
-        "A space with history",
         "Visitor experience",
         "Get involved with the news",
         "Useful Links",

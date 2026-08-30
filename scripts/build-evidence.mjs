@@ -29,6 +29,11 @@ const ENTITIES = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " ",
   ldquo: "“", rdquo: "”", eacute: "é", egrave: "è", uuml: "ü" };
 const decodeEntities = (s) =>
   String(s)
+    // A LITERAL backslash-u escape, written out rather than decoded: one source
+    // recorded "Van Hing \u2192 Vietnamese spot in Camberwell", which norm()
+    // files as a different venue from "Van Hing". Same failure as the HTML
+    // entities below, one encoding layer further out.
+    .replace(/\\u([0-9a-fA-F]{4})/g, (_, h) => String.fromCodePoint(parseInt(h, 16)))
     .replace(/&#x([0-9a-fA-F]+);/g, (_, h) => String.fromCodePoint(parseInt(h, 16)))
     .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(+d))
     .replace(/&([a-zA-Z]+);/g, (m, n) => ENTITIES[n] ?? " ")

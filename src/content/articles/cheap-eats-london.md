@@ -29,8 +29,10 @@ Nothing on this page is here because it is *good value for the money*. That is a
 
 > 💡 **The Short Version:** **ICCO** does a twelve-inch pizza for £3.95. **Kolkati** at Seven Dials is the best fiver in Covent Garden. **Michael's Fish Bar** is the cheapest good chippy in London — bring cash. **Horn OK Please** at Borough Market is the best cheap vegetarian food in the city. And **Kung Fu Noodle** is a proper cooked meal minutes from Leicester Square.
 
-> 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. We have deliberately kept the famous budget names off this list where they are already covered elsewhere on the site. Prices move; these were checked in August 2026.
+> 📊 **The evidence behind this guide**
+> Nothing here is ranked on one visit. This pass reads **11 sources carrying 183 citations** across **140 named places** — three mastheads (Time Out, The Infatuation, SquareMeal) and eight London specialists. **11 places are named by two or more independent sources.**
+> **The known weakness in this topic: it is the least-agreed subject on this site.** 140 places named and only 11 named twice — the sources overlap barely at all, because a cheap meal is local by definition and everybody is writing about their own end of London. Nothing here has been judged either. Read this as eleven places several people independently rate, and a long tail that is one writer's neighbourhood favourite. That is still useful; it is just not consensus. Several entries below are the cheap version of something with its own guide here — a chippy, a pizzeria, a curry house — and those carry the count from **their own** corpus, labelled: *Cited by 7 fish and chips sources*. A bare number on this page always means the cheap-eats corpus.
+> *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
 
@@ -74,7 +76,7 @@ Nothing on this page is here because it is *good value for the money*. That is a
 
 ### ICCO, Fitzrovia
 
-*£3.95 · 46 Goodge Street · 2 min from Goodge Street*
+*£3.95 · 46 Goodge Street · 2 min from Goodge Street* · Cited by 2 italian sources
 
 A twelve-inch pizza from £3.95, made to order and eaten in — roughly a third of what anywhere else in central London charges. Trading since 1999 and calls itself "the People's Pizzeria".
 
@@ -82,13 +84,13 @@ The £3.95 is the marinara, which has no cheese. Toppings push it up, but it sta
 
 ### Kolkati, Covent Garden
 
-*£ · Seven Dials Market · 3 min from Covent Garden · walk-in*
+*£ · Seven Dials Market · 3 min from Covent Garden · walk-in* · named by no source in this corpus
 
 Kati rolls the Kolkata way — paratha cooked with egg through it, wrapped round spiced chicken or paneer with pickled onion, coriander chutney and lime. The best thing you can eat in Covent Garden for a fiver.
 
 ### Shree Krishna Vada Pav, Fitzrovia
 
-*£ · 4 min from Oxford Circus · walk-in*
+*£ · 4 min from Oxford Circus · walk-in* · Cited by 1 source
 
 Vada pav — the Mumbai potato-fritter roll, Bombay's answer to the burger — done properly, from a counter rather than a dining room. Three independent guides name a place where nothing costs more than a sandwich.
 
@@ -100,25 +102,25 @@ The cheapest serious food in central London, and the reason to walk through a ma
 
 ### Horn OK Please, Borough
 
-*£ · Borough Market · 4 min from London Bridge · walk-in*
+*£ · Borough Market · 4 min from London Bridge · walk-in* · named by no source in this corpus
 
 An all-vegetarian stall whose samosa chaat is built in front of you: samosas crushed under hot chickpea curry, then yoghurt, then tamarind. Order it and eat it there — it does not survive being carried anywhere.
 
 ### Gujarati Rasoi, Borough
 
-*£ · Borough Market · 4 min from London Bridge · walk-in*
+*£ · Borough Market · 4 min from London Bridge · walk-in* · named by no source in this corpus
 
 Mother-and-son Gujarati cooking from family recipes — thalis, bhajia and dhal, gently sweet — a few steps from Horn OK Please and a completely different tradition. Two Indian regional cuisines within thirty seconds of each other, at a market where nearly everything else is European.
 
 ### Bad Boy Pizza Society, Covent Garden
 
-*£ · Seven Dials Market · 2 min from Covent Garden · walk-in*
+*£ · Seven Dials Market · 2 min from Covent Garden · walk-in* · Cited by 8 pizza sources
 
 Twenty-two-inch New York pies sold by the slice from a counter on the lower level — and, improbably for a market stall, a two-time National Pizza of the Year winner.
 
 ### Sud Italia, Spitalfields
 
-*£ · Old Spitalfields Market · 8 min from Aldgate East · walk-in*
+*£ · Old Spitalfields Market · 8 min from Aldgate East · walk-in* · Cited by 1 source
 
 Wood-fired Neapolitan pizza from a stall in Spitalfields Market, cooked in a proper oven rather than a deck heater — one of very few genuine market pizzas in central London.
 
@@ -126,13 +128,13 @@ Everything is made to order and the queue moves faster than it looks. **Market t
 
 ### Comalera, Walthamstow
 
-*£ · 2 min from St James Street · walk-in*
+*£ · 2 min from St James Street · walk-in* · Cited by 3 mexican sources
 
 A Walthamstow stall pressing its own tortillas — the cheapest serious tacos in London, and worth the journey out if you care about the difference a fresh tortilla makes.
 
 ### Hullabaloo, Greenwich
 
-*£ · Greenwich Market · 4 min from Cutty Sark · walk-in*
+*£ · Greenwich Market · 4 min from Cutty Sark · walk-in* · named by no source in this corpus
 
 A permanent fixture in Greenwich Market rather than a rotating stall, doing vegetarian and vegan Indian street food.
 
@@ -142,19 +144,19 @@ A permanent fixture in Greenwich Market rather than a rotating stall, doing vege
 
 ### PaStation, Fitzrovia
 
-*£ · 1 min from Tottenham Court Road · walk-in*
+*£ · 1 min from Tottenham Court Road · walk-in* · Cited by 1 source
 
 Fresh pasta under a tenner in generous portions, a minute from Tottenham Court Road. Built a following online rather than through the guides, which is why the queue is longer than the room suggests.
 
 ### Breadstall, Soho
 
-*£ · Berwick Street · 5 min from Piccadilly Circus · walk-in*
+*£ · Berwick Street · 5 min from Piccadilly Circus · walk-in* · Cited by 7 pizza sources
 
 A pizza slice counter on the Soho market street rather than a dining room. Slow-fermented dough with a crisp bottom and a puffed, almost naan-like crust.
 
 ### Voodoo Ray's, Dalston
 
-*£ · walk-in · late*
+*£ · walk-in · late* · Cited by 2 late-night sources
 
 Enormous New York slices sold well past the point most kitchens have shut, which at two in the morning is the only specification that matters.
 
@@ -162,7 +164,7 @@ Thin, foldable, sold by the slice, and consistently better than it needs to be g
 
 ### Sarv's Slice, Ealing
 
-*£ · Filmworks Walk · 7 min from Ealing Broadway · walk-in*
+*£ · Filmworks Walk · 7 min from Ealing Broadway · walk-in* · Cited by 3 sources
 
 Detroit-style squares and Neapolitan rounds from a family-run counter in the Filmworks development beside Ealing Broadway station.
 
@@ -172,7 +174,7 @@ The cheapest genuinely good pizza in west London, and worth the Central line tri
 
 ### The Attendant, Fitzrovia
 
-*£ · 7 min from Goodge Street · walk-in*
+*£ · 7 min from Goodge Street · walk-in* · named by no source in this corpus
 
 Coffee and brunch inside a restored Victorian public lavatory, with the original porcelain urinals turned into the counter you sit at. Worth it for the room as much as the price.
 
@@ -182,7 +184,7 @@ Coffee and brunch inside a restored Victorian public lavatory, with the original
 
 ### Kung Fu Noodle, Chinatown
 
-*£ · walk-in*
+*£ · walk-in* · Cited by 2 chinese sources
 
 Noodles pulled by hand in the window, which is both the marketing and the reason to eat there — the texture of a fresh-pulled noodle does not survive being made in advance.
 
@@ -190,19 +192,19 @@ The cheapest proper cooked meal in Chinatown and a few minutes from Leicester Sq
 
 ### Saravanaa Bhavan, Leicester Square
 
-*£ · walk-in*
+*£ · walk-in* · named by no source in this corpus
 
 The London outpost of the Chennai vegetarian chain, and the cheapest way in the West End to eat a properly made masala dosa — a metre of fermented rice crêpe with potato inside.
 
 ### Hiba Express, Holborn
 
-*£ · 2 min from Holborn · walk-in*
+*£ · 2 min from Holborn · walk-in* · Cited by 2 Middle Eastern sources
 
 Family-run, generous and cheap — the lunch counter people who work in Holborn actually queue at, rather than the one guidebooks send them to.
 
 ### Silk Road, Camberwell
 
-*£ · 47 Camberwell Church Street · walk-in*
+*£ · 47 Camberwell Church Street · walk-in* · Cited by 2 sources
 
 Xinjiang cooking from China's far north-west — cumin, chilli and hand-cut noodles rather than anything you would recognise from a Cantonese menu — and **only three items on the entire menu cost more than £8**.
 
@@ -212,7 +214,7 @@ Worth knowing it moved. Silk Road shut in August 2023 and reopened eighteen mont
 
 ### Marie's Café, Waterloo
 
-*£ · 90 Lower Marsh · BYO, £1 corkage · cash preferred*
+*£ · 90 Lower Marsh · BYO, £1 corkage · cash preferred* · named by no source in this corpus
 
 A Formica greasy spoon serving fry-ups to Waterloo cabbies at lunchtime, which in the evening **takes the English menu off the wall and becomes a Thai restaurant**. Same room, same tables, entirely different kitchen.
 
@@ -220,7 +222,7 @@ Pad thai, jungle curry and som tum at around £11 a plate, and roughly £15 a he
 
 ### Murger Han, Euston
 
-*£ · 62 Eversholt Street · also Mayfair, the City and Elephant & Castle*
+*£ · 62 Eversholt Street · also Mayfair, the City and Elephant & Castle* · Cited by 1 source
 
 London's first dedicated **Xi'an** specialist, built around two things: the *murger*, a chopped pork bun that predates the hamburger by a very long way, and **biang biang noodles** — hand-pulled ribbons wide enough to need folding.
 
@@ -228,7 +230,7 @@ Four branches now, and Euston is the one to use if you are passing through. Noth
 
 ### Govinda's, Soho
 
-*£ · Soho Street · canteen service · vegetarian*
+*£ · Soho Street · canteen service · vegetarian* · Cited by 2 sources
 
 Run by the Hare Krishna temple it shares a building with, and serving Soho since 1979. Canteen queue, tray, and a **rotating thali** — curries, breads, soup and a dessert — for well under what anything else in W1 charges for a hot meal.
 
@@ -236,7 +238,7 @@ Entirely vegetarian, largely vegan, and completely unbothered about whether you 
 
 ### Indian Veg, Islington
 
-*£ · 92-93 Chapel Market · all-you-can-eat*
+*£ · 92-93 Chapel Market · all-you-can-eat* · Cited by 2 sources
 
 An **all-you-can-eat North Indian vegetarian buffet** on Chapel Market that has been feeding Islington on a shoestring for decades — a dozen or so rotating dishes, biryani, breads and a salad bar, refilled as long as you keep going.
 
@@ -244,7 +246,7 @@ The room is covered floor to ceiling in hand-made posters about the virtues of v
 
 ### Paolina Thai Cuisine, King's Cross
 
-*£ · 181 King's Cross Road · BYO · closed Sundays*
+*£ · 181 King's Cross Road · BYO · closed Sundays* · Cited by 2 thai sources
 
 **Dishes from £5.95**, family-run, and **bring your own bottle** — which between them make it one of the cheapest sit-down dinners in central London.
 
@@ -252,7 +254,7 @@ Central Thai canteen classics rather than anything regional or fashionable: curr
 
 ### Sagar, Covent Garden
 
-*£ · 31 Catherine Street · also Panton Street, Fitzrovia, Hammersmith, Harrow*
+*£ · 31 Catherine Street · also Panton Street, Fitzrovia, Hammersmith, Harrow* · Cited by 1 source
 
 South Indian **Udupi** cooking — the strict vegetarian tradition from coastal Karnataka — and the **masala dosa** is what to order: a crisp fermented rice crêpe the length of your forearm, with spiced potato inside and sambar and chutneys alongside.
 
@@ -264,11 +266,16 @@ Five branches, all sit-down, and the Covent Garden one is a few minutes from the
 
 ### Tongue & Brisket, Leather Lane
 
-*£ · 24-26 Leather Lane · also Goodge Street and Wardour Street*
+*£ · 24-26 Leather Lane · also Goodge Street and Wardour Street* · Cited by 2 sources
 
 Home-cured salt beef, carved to order, piled into a sandwich — and the **classic salt beef is £8**, or £10 for the large. The Reuben is £9.50, and ox tongue the same as the beef.
 
 A deli that does almost nothing else, which is why it does this well. Leather Lane is the original and shuts earliest at 4pm on weekdays; **Wardour Street runs to 8pm and is the only one open Sundays**.
+
+
+![Stalls along Leather Lane street market in Hatton Garden](../../assets/articles/cheap-eats-london/leather-lane-market.jpg)
+
+*Leather Lane at lunchtime. The market stalls are the reason the street is worth the walk, and Tongue & Brisket sits on it. Photo: [Mastermelt Group](https://commons.wikimedia.org/wiki/File%3ALeather_Lane_street_market%2C_Hatton_Garden%2C_London_EC1.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).*
 
 ---
 
@@ -276,7 +283,7 @@ A deli that does almost nothing else, which is why it does this well. Leather La
 
 ### Michael's Fish Bar, Leytonstone
 
-*£ · 4 The Pavement, Hainault Road · walk-in · cash only*
+*£ · 4 The Pavement, Hainault Road · walk-in · cash only* · Cited by 2 fish and chips sources
 
 The chippy east London locals vote for, at prices central London stopped charging a decade ago. Flaky batter, thick chips, no seating.
 
@@ -284,15 +291,20 @@ The chippy east London locals vote for, at prices central London stopped chargin
 
 ### The Fryer's Delight, Bloomsbury
 
-*£ · 6 min from Holborn · walk-in*
+*£ · 6 min from Holborn · walk-in* · Cited by 7 fish and chips sources
 
 The most-cited chippy in London, and the reason is simple: it still fries in **beef dripping** rather than vegetable oil, which almost everywhere else abandoned decades ago and which is why the chips taste the way they used to.
 
 Formica tables, a room untouched since long before the current fashion for untouched rooms, and a counter that does takeaway for people who cannot get a seat. Under £12 for the lot.
 
+
+![The frontage of The Fryer's Delight on Theobald's Road in Holborn](../../assets/articles/cheap-eats-london/the-fryers-delight-holborn.jpg)
+
+*Formica tables, a room unchanged in decades, and chips still fried in beef dripping. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Fryer%27s_Delight,_Holborn,_WC1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 ### Ken's Fish Bar, Herne Hill
 
-*£ · 6 min from North Dulwich · walk-in*
+*£ · 6 min from North Dulwich · walk-in* · Cited by 4 fish and chips sources
 
 Family-run since 1984 on a Herne Hill corner, and repeatedly singled out over names with far bigger reputations and far higher prices.
 
@@ -300,7 +312,7 @@ Nothing about the room has been updated to chase anybody, which is the usual sig
 
 ### Fish Lounge, Clapham
 
-*£ · 16 min from Brixton · walk-in*
+*£ · 16 min from Brixton · walk-in* · Cited by 5 fish and chips sources
 
 A Clapham chippy carrying a serious local reputation and none of the tourist traffic the central ones live on. Delicately battered fish and thick chips, fried to order rather than held under a lamp.
 
@@ -308,7 +320,7 @@ The trade-off for frying to order is the wait, which on a Friday evening is real
 
 ### Mickey's Chippy, Stoke Newington
 
-*£ · walk-in*
+*£ · walk-in* · Cited by 1 source
 
 The Stoke Newington chippy that turns up on every north London list.
 
@@ -322,13 +334,13 @@ Order at the bar or through the app. No table service, no music, no booking.
 
 ### The Crosse Keys, City of London
 
-*£ · 9 Gracechurch Street · from 8am*
+*£ · 9 Gracechurch Street · from 8am* · named by no source in this corpus
 
 The former Hongkong and Shanghai Banking Corporation headquarters, opened 1913 — marble columns, a glass-domed ceiling, and a banking hall the length of the room.
 
 ### Hamilton Hall, Liverpool Street
 
-*£ · Liverpool Street Station concourse · from 8am*
+*£ · Liverpool Street Station concourse · from 8am* · named by no source in this corpus
 
 The former ballroom of the Great Eastern Hotel, Grade II listed, with the gilded plasterwork and chandeliers intact. On the station concourse, so it is the useful one if you are waiting for a train.
 
@@ -338,13 +350,13 @@ The former ballroom of the Great Eastern Hotel, Grade II listed, with the gilded
 
 ### The Ledger Building, Canary Wharf
 
-*£ · 4 Hertsmere Road, West India Quay*
+*£ · 4 Hertsmere Road, West India Quay* · named by no source in this corpus
 
 An 1800 dock building that held the West India Docks ledgers, with a colonnaded front and a quayside terrace — and by a distance the cheapest place to eat or drink at Canary Wharf. Next door to the free Museum of London Docklands.
 
 ### The Montagu Pyke, Charing Cross Road
 
-*£ · 105–107 Charing Cross Road*
+*£ · 105–107 Charing Cross Road* · named by no source in this corpus
 
 Pyke's Cambridge Circus Cinematograph Theatre, built 1911. Two minutes from Cambridge Circus, which makes it a realistic pre-theatre stop at a fraction of Soho prices.
 

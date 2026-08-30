@@ -443,7 +443,10 @@
       "^(where|open until|address|opening hours|nearest tube|price range|website|book)\\s*:",
       "^london.s best [a-z ]+$",
       "^the (devon hotel|uk.s most)",
-      "^guilt-free"
+      "^guilt-free",
+      "^(the great fire|the victorian gin|wartime and the|enjoy a pint|a touch of grandeur|a space with history|similarly tagged|information and reviews|explore more|attractions|books|sport|transport|crime|property|sections|people &)",
+      "^cheap eats in ",
+      "^(the wetherspoons pub|dcypher|halima khatun|martin)$"
     ],
     "deIndex": {
       "note": "Some listicles glue the list position to the name - '2 Bone Daddies', '3 Shoryu Ramen'. A PATTERN CANNOT TELL THOSE APART from a venue whose name begins with a number, and trying cost a near-miss that would have renamed 40 Maltby Street to 'Maltby Street', 50 Kalo to 'Kalo' and 01 Adana to 'Adana'. The only reliable signal is that a list index is SEQUENTIAL WITHIN ITS SOURCE. clean-corpus.mjs therefore de-indexes only where one source carries at least three names whose leading integers form a run.",

@@ -3855,31 +3855,6 @@
       }
     ]
   },
-  "booksatlibraria": {
-    "name": "Books at Libraria",
-    "topics": [
-      "activities-shoreditch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "activities-shoreditch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Travelled Road",
-        "url": "https://www.travelledroad.com/things-to-do-in-shoreditch-london/"
-      }
-    ]
-  },
   "monstersupplystore": {
     "name": "The Monster Supply Store",
     "topics": [
@@ -25650,31 +25625,6 @@
       }
     ]
   },
-  "londonsbestfishandchipsshops": {
-    "name": "London’s best fish and chips shops",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants"
-      }
-    ]
-  },
   "michaelsfishbar": {
     "name": "Michael's Fish Bar",
     "topics": [
@@ -36935,38 +36885,6 @@
       }
     ]
   },
-  "designleddiningrooms": {
-    "name": "Design-led dining rooms",
-    "topics": [
-      "british",
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-london"
-      }
-    ]
-  },
   "britainstopitalianrestaurants": {
     "name": "Britain's top Italian restaurants",
     "topics": [
@@ -38249,31 +38167,6 @@
       }
     ]
   },
-  "londonsbestafternoontea": {
-    "name": "London’s Best Afternoon Tea",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/joemicallef/2026/04/02/londons-afternoon-tea-where-to-find-the-best-in-2026/"
-      }
-    ]
-  },
   "breakingnews": {
     "name": "Breaking News",
     "topics": [
@@ -38960,38 +38853,6 @@
   },
   "retail": {
     "name": "Retail",
-    "topics": [
-      "british",
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/joemicallef/2026/04/02/londons-afternoon-tea-where-to-find-the-best-in-2026/"
-      }
-    ]
-  },
-  "sportsmoney": {
-    "name": "SportsMoney",
     "topics": [
       "british",
       "general"
@@ -44440,83 +44301,8 @@
       }
     ]
   },
-  "cheapeatsinnorthlondon": {
-    "name": "Cheap eats in North London",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Devour Tours",
-        "url": "https://devourtours.com/blog/cheap-eats-london/"
-      }
-    ]
-  },
-  "cheapeatsinsouthlondon": {
-    "name": "Cheap eats in South London",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Devour Tours",
-        "url": "https://devourtours.com/blog/cheap-eats-london/"
-      }
-    ]
-  },
   "rotijerkchickenwrapatrudies": {
     "name": "Roti jerk chicken wrap at Rudie's",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Devour Tours",
-        "url": "https://devourtours.com/blog/cheap-eats-london/"
-      }
-    ]
-  },
-  "cheapeatsineastlondon": {
-    "name": "Cheap eats in East London",
     "topics": [
       "cheap-eats"
     ],
@@ -44567,31 +44353,6 @@
   },
   "fullenglishbreakfastatepellicci": {
     "name": "Full English breakfast at E Pellicci",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Devour Tours",
-        "url": "https://devourtours.com/blog/cheap-eats-london/"
-      }
-    ]
-  },
-  "cheapeatsinwestlondon": {
-    "name": "Cheap eats in West London",
     "topics": [
       "cheap-eats"
     ],
@@ -46015,33 +45776,8 @@
       }
     ]
   },
-  "vanhingvietnamesespotincamberwell": {
-    "name": "Van Hing → Vietnamese spot in Camberwell",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "vanhingu2192vietnamesespotincamberwell": {
-    "name": "Van Hing \\u2192 Vietnamese spot in Camberwell",
+  "vanhing": {
+    "name": "Van Hing",
     "topics": [
       "cheap-eats"
     ],
@@ -46142,31 +45878,6 @@
   },
   "chitnchaat": {
     "name": "Chit ‘n’ chaat",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "vanhing": {
-    "name": "Van Hing",
     "topics": [
       "cheap-eats"
     ],
@@ -46939,8 +46650,8 @@
       }
     ]
   },
-  "cornerdelisupercutedeliwith": {
-    "name": "Corner Deli → Super cute deli with",
+  "cornerdeli": {
+    "name": "Corner Deli",
     "topics": [
       "cheap-eats"
     ],
@@ -47185,588 +46896,6 @@
         "tier": "C",
         "source": "So What's The Sitch",
         "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "chitu2018nu2019chaat": {
-    "name": "Chit \\u2018n\\u2019 chaat",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "bu00e1nhmu00echoian": {
-    "name": "B\\u00E1nh M\\u00EC Hoi An",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "vincenzou2019spizza": {
-    "name": "Vincenzo\\u2019s Pizza",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "porterfordbutchersu2192": {
-    "name": "Porterford Butchers \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "u2192": {
-    "name": "\\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "trampolinecafu00e9u2192": {
-    "name": "Trampoline Caf\\u00E9 \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "fullmontycafu00e9u2192": {
-    "name": "The Full Monty Caf\\u00E9 \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "marieu2019sthaicafu00e9u2192": {
-    "name": "Marie\\u2019s Thai Caf\\u00E9 \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "piecrustcafu00e9u2192": {
-    "name": "The Pie Crust Caf\\u00E9 \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "mmanzeu2192": {
-    "name": "M Manze \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "sarvu2019ssliceu2192": {
-    "name": "Sarv\\u2019s Slice \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "yumyumchineserestaurantu2192": {
-    "name": "Yum Yum Chinese Restaurant \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "thengacafu00e9u2192": {
-    "name": "Thenga Caf\\u00E9 \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "cornerdeliu2192supercutedeliwith": {
-    "name": "Corner Deli \\u2192 Super cute deli with",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "propertacosu2192": {
-    "name": "Proper Tacos \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "mou2019mangiou2192": {
-    "name": "Mo\\u2019 Mangio \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "phoviet101u2192": {
-    "name": "Pho Viet 101 \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "bonnersfishbaru2192": {
-    "name": "Bonners fish bar \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "angelesinpeckhamu2192": {
-    "name": "Angeles in Peckham \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "huongu2192": {
-    "name": "Huong \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "tongueandbrisketu2192": {
-    "name": "Tongue & Brisket \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "breadandoreganou2192": {
-    "name": "Bread & Oregano \\u2192",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "So What's The Sitch",
-        "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
-      }
-    ]
-  },
-  "informationandreviews": {
-    "name": "Information and Reviews",
-    "topics": [
-      "cheap-eats",
-      "korean"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Best",
-        "url": "https://londonbest.uk/cheap-indian-food/"
       }
     ]
   },
@@ -48388,31 +47517,6 @@
   },
   "dcypherfoundationreview": {
     "name": "DCYPHER foundation review",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Halima Bobs",
-        "url": "https://www.halimabobs.com/2015/03/best-indian-vegetarian-restaurants-in-london.html"
-      }
-    ]
-  },
-  "halimakhatun": {
-    "name": "Halima Khatun",
     "topics": [
       "cheap-eats"
     ],
@@ -55124,55 +54228,6 @@
       }
     ]
   },
-  "quicklinks": {
-    "name": "Quick Links",
-    "topics": [
-      "coffee",
-      "galleries",
-      "italian"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "galleries": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Coffee the Canvas",
-        "url": "https://coffeethecanvas.com/best-coffee-shops-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Let Me Show You London",
-        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Andy Hayler",
-        "url": "https://www.andyhayler.com/restaurant/al-boccon-divino"
-      }
-    ]
-  },
   "moonstruck": {
     "name": "Moonstruck",
     "topics": [
@@ -56572,38 +55627,6 @@
       }
     ]
   },
-  "style": {
-    "name": "Style",
-    "topics": [
-      "comedy",
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "comedy": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "ShortList",
-        "url": "https://www.shortlist.com/entertainment/best-comedy-london-stand-up-comedians-venues"
-      }
-    ]
-  },
   "alcohol": {
     "name": "Alcohol",
     "topics": [
@@ -56633,50 +55656,6 @@
         "tier": "B",
         "source": "ShortList",
         "url": "https://www.shortlist.com/entertainment/best-comedy-london-stand-up-comedians-venues"
-      }
-    ]
-  },
-  "books": {
-    "name": "Books",
-    "topics": [
-      "comedy",
-      "historic-pubs",
-      "italian"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "comedy": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "ShortList",
-        "url": "https://www.shortlist.com/entertainment/best-comedy-london-stand-up-comedians-venues"
-      },
-      {
-        "tier": "B",
-        "source": "Lonely Planet",
-        "url": "https://www.lonelyplanet.com/news/most-beautiful-bank-wetherspoons"
       }
     ]
   },
@@ -56777,43 +55756,6 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/whats-on/best-comedy-nights-in-london"
-      }
-    ]
-  },
-  "attractions": {
-    "name": "Attractions",
-    "topics": [
-      "comedy",
-      "historic-pubs"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "comedy": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Lonely Planet",
-        "url": "https://www.lonelyplanet.com/news/most-beautiful-bank-wetherspoons"
-      },
-      {
-        "tier": "C",
-        "source": "London Drum",
-        "url": "https://londondrum.com/events/?cat=9"
       }
     ]
   },
@@ -67407,31 +66349,6 @@
         "tier": "C",
         "source": "Museums Made Easy",
         "url": "https://www.museumsmadeeasy.com/free-museums/london"
-      }
-    ]
-  },
-  "designmuseum": {
-    "name": "Design Museum",
-    "topics": [
-      "galleries"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "galleries": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Walks",
-        "url": "https://www.walks.com/blog/best-london-art-galleries/"
       }
     ]
   },
@@ -84118,81 +83035,6 @@
       }
     ]
   },
-  "greatfireandrebuilding": {
-    "name": "The Great Fire and Rebuilding",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Pub Guide London",
-        "url": "https://pubguidelondon.com/blog/history-london-pubs.html"
-      }
-    ]
-  },
-  "victorianginpalaces": {
-    "name": "The Victorian Gin Palaces",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Pub Guide London",
-        "url": "https://pubguidelondon.com/blog/history-london-pubs.html"
-      }
-    ]
-  },
-  "wartimeandthe20thcentury": {
-    "name": "Wartime and the 20th Century",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Pub Guide London",
-        "url": "https://pubguidelondon.com/blog/history-london-pubs.html"
-      }
-    ]
-  },
   "5themayflower": {
     "name": "5 The Mayflower",
     "topics": [
@@ -84293,38 +83135,6 @@
       }
     ]
   },
-  "martin": {
-    "name": "Martin",
-    "topics": [
-      "historic-pubs",
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "pizza": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/oldest-pub-in-london/"
-      }
-    ]
-  },
   "mayfairfoodie": {
     "name": "The Mayfair Foodie",
     "topics": [
@@ -84386,31 +83196,6 @@
         "tier": "C",
         "source": "Mayfair Foodie",
         "url": "https://mayfairfoodie.com/oldest-pub-in-london/"
-      }
-    ]
-  },
-  "enjoyapintwithasideofhistory": {
-    "name": "Enjoy a pint with a side of history",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Drinks Guide",
-        "url": "https://londondrinksguide.com/en/blog/where-to-drink-93/pubs-97/oldest-pubs-in-london-31.htm"
       }
     ]
   },
@@ -84636,255 +83421,6 @@
         "tier": "B",
         "source": "City AM",
         "url": "https://www.cityam.com/heres-the-most-beautiful-wetherspoons-pub-in-london/"
-      }
-    ]
-  },
-  "similarlytaggedcontent": {
-    "name": "Similarly tagged content:",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "City AM",
-        "url": "https://www.cityam.com/heres-the-most-beautiful-wetherspoons-pub-in-london/"
-      }
-    ]
-  },
-  "sections": {
-    "name": "Sections",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "City AM",
-        "url": "https://www.cityam.com/heres-the-most-beautiful-wetherspoons-pub-in-london/"
-      }
-    ]
-  },
-  "peopleandorganisations": {
-    "name": "People & Organisations",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "City AM",
-        "url": "https://www.cityam.com/heres-the-most-beautiful-wetherspoons-pub-in-london/"
-      }
-    ]
-  },
-  "exploremore": {
-    "name": "Explore More",
-    "topics": [
-      "historic-pubs",
-      "korean"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Lonely Planet",
-        "url": "https://www.lonelyplanet.com/news/most-beautiful-bank-wetherspoons"
-      },
-      {
-        "tier": "C",
-        "source": "Kingston Compass",
-        "url": "https://kingstoncompass.com/guides/best-korean-food-new-malden/"
-      }
-    ]
-  },
-  "transport": {
-    "name": "Transport",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Now",
-        "url": "https://www.london-now.co.uk/news/25912302.crosse-keys-wetherspoon-pub-old-hsbc-bank-hall/"
-      }
-    ]
-  },
-  "crime": {
-    "name": "Crime",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Now",
-        "url": "https://www.london-now.co.uk/news/25912302.crosse-keys-wetherspoon-pub-old-hsbc-bank-hall/"
-      }
-    ]
-  },
-  "property": {
-    "name": "Property",
-    "topics": [
-      "historic-pubs",
-      "indian"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Kilburn Times",
-        "url": "https://www.kilburntimes.co.uk/news/23936025.full-list-london-winners-asian-curry-awards/"
-      },
-      {
-        "tier": "C",
-        "source": "London Now",
-        "url": "https://www.london-now.co.uk/news/25912302.crosse-keys-wetherspoon-pub-old-hsbc-bank-hall/"
-      }
-    ]
-  },
-  "touchofgrandeur": {
-    "name": "A touch of grandeur",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Now",
-        "url": "https://www.london-now.co.uk/news/25912302.crosse-keys-wetherspoon-pub-old-hsbc-bank-hall/"
-      }
-    ]
-  },
-  "spacewithhistory": {
-    "name": "A space with history",
-    "topics": [
-      "historic-pubs"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Now",
-        "url": "https://www.london-now.co.uk/news/25912302.crosse-keys-wetherspoon-pub-old-hsbc-bank-hall/"
       }
     ]
   },
@@ -90918,31 +89454,6 @@
   },
   "gameforitlondonsbestgamerestaurants": {
     "name": "Game For It? London's Best Game Restaurants",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Sauce",
-        "url": "https://thesaucemag.com/best-italian-restaurants-in-london/"
-      }
-    ]
-  },
-  "londonsbestfloristsforbeautifulbouquets": {
-    "name": "London’s Best Florists For Beautiful Bouquets",
     "topics": [
       "italian"
     ],
@@ -113770,31 +112281,6 @@
       }
     ]
   },
-  "design": {
-    "name": "Design",
-    "topics": [
-      "new-openings"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Elle Decoration",
-        "url": "https://www.elledecoration.co.uk/lifestyle-culture/a71228309/new-london-restaurants-2026/"
-      }
-    ]
-  },
   "decorating": {
     "name": "Decorating",
     "topics": [
@@ -122985,31 +121471,6 @@
       }
     ]
   },
-  "londonsbestrestaurantsforsteak": {
-    "name": "London’s best restaurants for steak",
-    "topics": [
-      "steak"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
-      }
-    ]
-  },
   "stakehaus": {
     "name": "Stakehaus",
     "topics": [
@@ -125495,31 +123956,6 @@
   },
   "nukiskitchen": {
     "name": "Nuki's Kitchen",
-    "topics": [
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-thai-restaurants-in-london/"
-      }
-    ]
-  },
-  "londonsbesticecreams": {
-    "name": "London’s best ice creams",
     "topics": [
       "thai"
     ],
@@ -135613,31 +134049,6 @@
   },
   "terraceatalexandrapalace": {
     "name": "The Terrace At Alexandra Palace",
-    "topics": [
-      "views"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "views": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/best-views-london"
-      }
-    ]
-  },
-  "attractionsandadventureswithalondonview": {
-    "name": "Attractions And Adventures With A London View",
     "topics": [
       "views"
     ],

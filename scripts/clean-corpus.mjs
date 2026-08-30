@@ -81,6 +81,18 @@ for (const topic of list) {
   const lines = [];
 
   for (const s of doc.sources ?? []) {
+    // Some sources write "Venue -> what it is", so the description rides along
+    // inside the venue name. Keep the part before the arrow.
+    const arrowed = [];
+    s.names = (s.names ?? []).map((n) => {
+      // Decode any literal backslash-u escape first, then cut at the arrow.
+      const decoded = String(n).replace(/\\u([0-9a-fA-F]{4})/g, (_, h) => String.fromCodePoint(parseInt(h, 16)));
+      const cut = decoded.split(/\s*(?:→|->|⇒)\s*/)[0].trim();
+      if (cut && cut !== String(n)) { arrowed.push(`${n} -> ${cut}`); return cut; }
+      return n;
+    });
+    if (arrowed.length) lines.push(`  ${s.name}: split ${arrowed.length} name-plus-description`);
+
     const di = deIndexSource(s.names ?? []);
     s.names = di.names;
     const reindexed = di.changed;

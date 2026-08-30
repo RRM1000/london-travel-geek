@@ -9,10 +9,8 @@
       "scope": "comedy",
       "names": [
         "Gear",
-        "Style",
         "Alcohol",
-        "Music",
-        "Books"
+        "Music"
       ]
     },
     {
@@ -38,7 +36,6 @@
       "url": "https://londondrum.com/events/?cat=9",
       "scope": "comedy",
       "names": [
-        "Attractions",
         "Events & Shows",
         "Buses & Trains",
         "Planner",

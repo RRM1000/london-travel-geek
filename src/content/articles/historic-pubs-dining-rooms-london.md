@@ -33,8 +33,10 @@ This is a guide to the **rooms worth going to for the room** — pubs, mostly, p
 
 > 💡 **The Short Version:** **Ye Olde Cheshire Cheese** is the one to see if you only see one — a warren of dark cellars rebuilt in 1667. **The Grapes** in Limehouse is Dickens's pub and Ian McKellen part-owns it. **The Town of Ramsgate** has had a pub on the site since 1545. **The Crosse Keys** is a Wetherspoons inside a 1913 banking hall. And **The Cinnamon Club** is the old Westminster Library with the shelves still up.
 
-> 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Founding dates are the ones the buildings and their listings support — where a pub's claim is traditional rather than documented, we say so.
+> 📊 **The evidence behind this guide**
+> Nothing here is ranked on one visit. This pass reads **7 sources carrying 76 citations** across **45 named pubs and rooms** — one masthead and six London specialists and walking guides. **15 pubs and rooms are named by two or more independent sources.**
+> **The known weakness in this topic: almost none of it is masthead coverage.** Six of the seven publications are independent blogs and tour writers, and there is no award and no inspectorate for a historic pub. That is not as bad as it sounds — the people who write carefully about which Fleet Street cellar is genuinely seventeenth century are usually the specialists, not the listings desks — but it does mean the counts here measure enthusiast agreement rather than editorial consensus, and the tier spread beside each entry says so.
+> *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
 
@@ -68,7 +70,7 @@ This is a guide to the **rooms worth going to for the room** — pubs, mostly, p
 
 ### Ye Olde Cheshire Cheese, City of London
 
-*££ · off Fleet Street · rebuilt 1667*
+*££ · off Fleet Street · rebuilt 1667* · Cited by 3 sources
 
 Rebuilt in **1667, immediately after the Great Fire**, down an alley off Fleet Street. A warren of dark panelled rooms and cellars on several levels, with sawdust still on some floors.
 
@@ -80,13 +82,13 @@ The single most atmospheric room on this page, and the easiest to walk past — 
 
 ### The Town of Ramsgate, Wapping
 
-*££ · a pub here since at least 1545*
+*££ · a pub here since at least 1545* · named by no source in this corpus
 
 Long and narrow, opening onto a small river terrace beside Wapping Old Stairs — where condemned prisoners were once chained to the wall at low tide. One of the strongest "oldest pub" claims in London.
 
 ### The Grapes, Limehouse
 
-*££ · 76 Narrow Street · roughly five centuries*
+*££ · 76 Narrow Street · roughly five centuries* · Cited by 3 sources
 
 A narrow Thames-side pub, **part-owned by Sir Ian McKellen** with director Sean Mathias and Evgeny Lebedev. Dickens drank here and put it into *Our Mutual Friend* as the Six Jolly Fellowship Porters.
 
@@ -94,7 +96,7 @@ Tiny, and the back balcony over the river seats very few — it fills early.
 
 ### The Prospect of Whitby, Wapping
 
-*££ · a Thames terrace*
+*££ · a Thames terrace* · Cited by 3 sources
 
 Claims a line back to 1520, with a flagstone floor and a noose hanging over the water outside as a nod to Execution Dock.
 
@@ -104,19 +106,19 @@ Claims a line back to 1520, with a flagstone floor and a noose hanging over the 
 
 ### The White Cross, Richmond
 
-*££ · the towpath*
+*££ · the towpath* · named by no source in this corpus
 
 The river regularly comes **over the road and floods the entrance** — there are tide tables on the wall so you can work out whether you will be able to leave. A pint on the river wall at high tide is the thing.
 
 ### The Captain Kidd, Wapping
 
-*££ · the biggest river terrace in Wapping*
+*££ · the biggest river terrace in Wapping* · named by no source in this corpus
 
 A converted warehouse laid out like a ship's hull, named for the pirate hanged a few yards away.
 
 ### Turner's Old Star, Wapping
 
-*£ · a back-street local*
+*£ · a back-street local* · named by no source in this corpus
 
 An 1830 pub that **JMW Turner is said to have owned and run for a mistress**. The last plain, unreconstructed local in an area whose riverside pubs have all been discovered.
 
@@ -130,19 +132,19 @@ An 1830 pub that **JMW Turner is said to have owned and run for a mistress**. Th
 
 ### The Crosse Keys, City of London
 
-*£ · 9 Gracechurch Street*
+*£ · 9 Gracechurch Street* · named by no source in this corpus
 
 The former **Hongkong and Shanghai Banking Corporation headquarters**, opened 1913 — marble columns, a glass-domed ceiling, a banking hall the length of the room. It is a Wetherspoons, so a pint costs less than almost anywhere in the City.
 
 ### Hamilton Hall, Liverpool Street
 
-*£ · the station concourse*
+*£ · the station concourse* · named by no source in this corpus
 
 The former **ballroom of the Great Eastern Hotel**, Grade II listed, with the gilded plasterwork and chandeliers intact. Off the Liverpool Street concourse.
 
 ### The Ledger Building, Canary Wharf
 
-*£ · West India Quay*
+*£ · West India Quay* · named by no source in this corpus
 
 An 1800 dock building that held the West India Docks ledgers, with a colonnaded front and a quayside terrace.
 
@@ -154,19 +156,19 @@ Restaurants rather than pubs, where the building is genuinely the reason to book
 
 ### The Cinnamon Club, Westminster
 
-*££££ · 7 min from St James's Park*
+*££££ · 7 min from St James's Park* · Cited by 3 indian sources
 
 The **old Westminster Library**, Grade II listed, with the bookshelves still in place and the gallery still running round the room. Indian cooking, and close enough to Parliament that the lunch trade tells you something about the day's politics.
 
 ### Sessions Arts Club, Clerkenwell
 
-*££££ · a former courthouse*
+*££££ · a former courthouse* · named by no source in this corpus
 
 A crumbling former courthouse left **deliberately unrestored** — peeling plaster, enormous windows, and no attempt to tidy any of it.
 
 ### Ye Olde Cheshire Cheese and the pub dining rooms
 
-Most of the pubs above serve food that is fine rather than the point. **The Holly Bush** in Hampstead is the exception — an 1807 pub up an alley off Heath Street with panelled rooms, open fires and one of the better Sunday roasts in north London.
+Most of the pubs above serve food that is fine rather than the point. **The Holly Bush** in Hampstead is the exception — an 1807 pub up an alley off Heath Street with panelled rooms, open fires and one of the better Sunday roasts in north London. · Cited by 3 sources
 
 ---
 
@@ -176,7 +178,7 @@ Age is the wrong measure for several of London's best pubs. These are protected 
 
 ### The Blackfriar, Blackfriars
 
-*££ · 174 Queen Victoria Street · Grade II\**
+*££ · 174 Queen Victoria Street · Grade II\** · Cited by 2 sources
 
 **The finest surviving Arts and Crafts pub interior in Britain**, and the highest-listed pub on this page after The George.
 
@@ -186,7 +188,7 @@ Built around 1875 and remodelled in 1905 and 1917 by H. Fuller Clark with sculpt
 
 ### The George, Southwark
 
-*££ · 75–77 Borough High Street · Grade I*
+*££ · 75–77 Borough High Street · Grade I* · Cited by 2 sources
 
 **London's last galleried coaching inn**, and per CAMRA the only purpose-built pub in the city listed **Grade I**.
 
@@ -196,7 +198,7 @@ The current building dates precisely to **1676–77**, put up immediately after 
 
 ### The Guinea, Mayfair
 
-*£££ · 30–32 Bruton Place · CAMRA three-star interior*
+*£££ · 30–32 Bruton Place · CAMRA three-star interior* · Cited by 2 sources
 
 A Mayfair mews pub with **an interior CAMRA rates three-star — of outstanding national historic importance**, the highest rating of any pub here. It is not statutorily listed at all, which is a good illustration of how little the two systems overlap.
 
@@ -204,7 +206,7 @@ Rebuilt in 1741 and licensed in 1754. The Guinea Grill behind it opened in **195
 
 ### The Viaduct Tavern, Holborn
 
-*££ · 126 Newgate Street · Grade II*
+*££ · 126 Newgate Street · Grade II* · Cited by 2 sources
 
 One of the best-surviving **Victorian gin palaces** in London — etched and gilded glass, three pre-Raphaelite-style painted panels, and a rare surviving cashier's booth. Built 1874–75 and remodelled by Arthur Dixon around 1900.
 
@@ -214,7 +216,7 @@ The cellars are widely sold as Newgate Prison cells. Newgate did stand across th
 
 ### Ye Olde Mitre, Holborn
 
-*££ · 1 Ely Court · closed Sundays*
+*££ · 1 Ely Court · closed Sundays* · Cited by 3 sources
 
 Hidden up an alley off Ely Place, a private road that was legally part of Cambridgeshire — which is the genuinely interesting thing about it, along with the preserved cherry tree trunk in the front bar.
 
@@ -226,7 +228,7 @@ A Fuller's pub, and **food is bar snacks and toasties only**, so come for a pint
 
 ### The Seven Stars, Holborn
 
-*££ · 53 Carey Street · no reservations*
+*££ · 53 Carey Street · no reservations* · Cited by 5 sources
 
 Behind the Royal Courts of Justice, tiny, and with **the best food of any pub in this section** — a blackboard menu that changes daily and no reservations.
 
@@ -234,7 +236,7 @@ Grade II listed, partly timber-framed under painted brick, with a jettied bay th
 
 ### The Old Bell Tavern, Fleet Street
 
-*££ · 95 Fleet Street · a pie house*
+*££ · 95 Fleet Street · a pie house* · Cited by 2 sources
 
 A seventeenth-century tavern directly behind St Bride's, the printers' and journalists' church, and a survivor of the whole Fleet Street newspaper era. Stained glass and an old wooden staircase remain.
 
@@ -242,7 +244,7 @@ Now a Nicholson's **pie house**, and the food is better than the average heritag
 
 ### The Mayflower, Rotherhithe
 
-*££ · 117 Rotherhithe Street · river terrace*
+*££ · 117 Rotherhithe Street · river terrace* · Cited by 4 sources
 
 The Pilgrims' ship sailed from **the landing steps next door** in 1620, and the mooring point is still visible at low tide from the pub's small river terrace.
 
@@ -250,7 +252,7 @@ Be clear about what the building is: put up around 1780 as the Shippe Inn, bomb-
 
 ### The Spaniards Inn, Hampstead
 
-*££ · Spaniards Road · by the Heath*
+*££ · Spaniards Road · by the Heath* · Cited by 3 sources
 
 A seventeenth-century brick and weatherboarded inn on the edge of Hampstead Heath, with the old toll house opposite still narrowing the road to a single lane.
 

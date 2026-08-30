@@ -34,7 +34,7 @@ Central London has caught up in the last few years, and one Hackney kitchen was 
 > 💡 **The Short Version:** **Jin Go Gae** in New Malden uses real charcoal, which is why purists go. **Imone** is the home cooking everyone sends you to. **You Me** has been there since 1988. **Chick and Beers** does the fried chicken. **Seoul Bakery** in Bloomsbury is the cheap central one, and **Mukbap** is London's first fully vegan Korean kitchen.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **10 sources carrying 132 citations** across **84 named restaurants** — the Michelin Guide, the editorial mastheads (Time Out, The Infatuation, Eater) and six specialists. **18 restaurants are named by two or more independent sources; 2 hold a Michelin star.**
+> Nothing here is ranked on one visit. This pass reads **10 sources carrying 130 citations** across **82 named restaurants** — the Michelin Guide, the editorial mastheads (Time Out, The Infatuation, Eater) and six specialists. **18 restaurants are named by two or more independent sources; 2 hold a Michelin star.**
 > **The known weakness in this topic:** the two starred restaurants are not the ones anyone writes about. Sollip in Southwark and Somssi in Westminster hold the only judged recognition in Korean food in London, and between them they are named by three sources here — while Imone, Jin Go Gae and Chick and Beers, all in New Malden, are named by four each and have been judged by nobody. The corpus also has a geography: nearly half of it is one high street thirty minutes from Waterloo.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 

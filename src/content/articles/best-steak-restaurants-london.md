@@ -31,7 +31,7 @@ Order a txuleta expecting a sirloin and you will be surprised. So this guide sta
 > 💡 **The Short Version:** **Hawksmoor** is the most-cited steak in London and the British benchmark. **Ibai** is the highest-placed, 7th in the world on the one ranking that covers this category. **Flat Iron** is £15 and genuinely good. **Blacklock** is the value pick and does chops and steaks equally. **The Guinea Grill** is the old-Mayfair one visitors never find.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **21 sources carrying 120 citations** across **62 named restaurants** — the World's 101 Best Steak Restaurants, the editorial mastheads (Time Out, The Infatuation, Olive, Luxury London) and the year's major London steak videos. **21 restaurants are named by two or more independent sources; 9 carry a dated ranking.**
+> Nothing here is ranked on one visit. This pass reads **21 sources carrying 119 citations** across **61 named restaurants** — the World's 101 Best Steak Restaurants, the editorial mastheads (Time Out, The Infatuation, Olive, Luxury London) and the year's major London steak videos. **21 restaurants are named by two or more independent sources; 9 carry a dated ranking.**
 > **The known weakness in this topic:** one ranking, no inspectorate. Steak has nothing like Michelin or 50 Top Pizza — a single annual list covers it, so nine London restaurants have a judged placement and everything else rests on editorial and creator consensus alone.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
