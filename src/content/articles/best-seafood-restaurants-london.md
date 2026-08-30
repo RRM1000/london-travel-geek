@@ -17,7 +17,7 @@ tags: [restaurants, seafood, oysters, fish, dining]
 draft: false
 faq:
   - q: "What is the best seafood restaurant in London?"
-    a: "J Sheekey in Covent Garden is named by more independent sources than anything else — nine, across four editorial mastheads, two independent specialists and two video reviewers. Scott's in Mayfair is next on seven. Neither holds a Michelin star; the starred fish kitchens are Behind in Hackney and Angler in Moorgate."
+    a: "J Sheekey in Covent Garden is named by more independent sources than anything else — nine, across five editorial mastheads, two independent specialists and two video reviewers. Scott's in Mayfair is next on seven. Neither holds a Michelin star; the starred fish kitchens are Behind in Hackney and Angler in Moorgate."
   - q: "Where can I eat oysters cheaply in London?"
     a: "Sam's Riverside in Hammersmith and Manzi's in Soho both run oyster happy hours at £2 an oyster — Manzi's from 3pm to 7pm Tuesday to Saturday and all day Sunday. Seabird in Southwark runs one daily from 3pm to 6pm. Furness Oyster Bar and Richard Haward's at Borough Market sell them to eat standing up, and Maltby Street Market does the same at weekends."
   - q: "Can visitors go to Billingsgate Fish Market?"
@@ -66,7 +66,7 @@ This one counts. Every restaurant below is placed by how many independent source
 
 *££££ · Leicester Square · Cited by 9 sources*
 
-The most-cited seafood restaurant in London by a clear margin — nine independent sources, across four editorial mastheads, two specialists and two video reviewers. Nothing else in this corpus is close.
+The most-cited seafood restaurant in London by a clear margin — nine independent sources: five editorial mastheads, two specialists and two video reviewers. Nothing else in this corpus is close.
 
 **Since 1896**, in a warren of small wood-panelled rooms off St Martin's Court, with a central crustacea bar and a fish pie that has outlasted every fashion London dining has been through. The Infatuation calls it a West End post-theatre hangout where you are guaranteed a good seafood meal; Time Out puts it fourth on its ranking and calls it the grand dame of theatreland.
 
