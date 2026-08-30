@@ -161,6 +161,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "anchor-and-hope": {
+    "name": "Anchor & Hope",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "andys-taverna": {
     "name": "Andy's Taverna",
     "firstSeen": "2026-08-17",
@@ -170,6 +176,12 @@
   "angelina": {
     "name": "Angelina",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "angler-moorgate": {
+    "name": "Angler",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -200,6 +212,12 @@
   "appalachia": {
     "name": "Appalachia",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "applebees-borough": {
+    "name": "Applebee's",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -389,6 +407,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "behind-london-fields": {
+    "name": "Behind",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "beigel-bake": {
     "name": "Beigel Bake",
     "firstSeen": "2026-08-17",
@@ -410,6 +434,12 @@
   "benares": {
     "name": "Benares",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "bentleys-oyster-bar-and-grill": {
+    "name": "Bentley's Oyster Bar & Grill",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -446,6 +476,12 @@
   "berut-bistro": {
     "name": "Berut Bistro",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "bibendum-oyster-bar": {
+    "name": "Bibendum Oyster Bar",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -911,6 +947,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "clapton-country-club": {
+    "name": "Clapton Country Club",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "claridges-tea": {
     "name": "Claridge's",
     "firstSeen": "2026-08-17",
@@ -1325,6 +1367,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "faber-hammersmith": {
+    "name": "Faber",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "facing-heaven": {
     "name": "Facing Heaven",
     "firstSeen": "2026-08-17",
@@ -1382,6 +1430,12 @@
   "fish-lounge": {
     "name": "Fish Lounge",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "fish-market-broadgate": {
+    "name": "Fish Market",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -1472,6 +1526,12 @@
   "frog-by-adam-handling": {
     "name": "Frog by Adam Handling",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "furness-oyster-bar": {
+    "name": "Furness Oyster Bar",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -1868,6 +1928,12 @@
   "ixchel": {
     "name": "Ixchel",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "j-sheekey": {
+    "name": "J Sheekey",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -2309,6 +2375,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "london-shell-co": {
+    "name": "London Shell Co",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "lore-of-the-land": {
     "name": "Lore of the Land",
     "firstSeen": "2026-08-17",
@@ -2432,6 +2504,12 @@
   "manteca": {
     "name": "Manteca",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "manzis-soho": {
+    "name": "Manzi's",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -2843,6 +2921,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "orasay": {
+    "name": "Orasay",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "orient-london": {
     "name": "Orient London",
     "firstSeen": "2026-08-17",
@@ -2903,6 +2987,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "oystermen-seafood-bar-and-kitchen": {
+    "name": "Oystermen Seafood Bar & Kitchen",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "ozone-coffee": {
     "name": "Ozone Coffee Roasters",
     "firstSeen": "2026-08-17",
@@ -2957,6 +3047,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "parsons": {
+    "name": "Parsons",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "pastation": {
     "name": "PaStation",
     "firstSeen": "2026-08-17",
@@ -2990,6 +3086,12 @@
   "pearl-liang": {
     "name": "Pearl Liang",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "pearly-queen": {
+    "name": "Pearly Queen",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -3113,6 +3215,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "prawn-on-the-lawn": {
+    "name": "Prawn on the Lawn",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "prospect-of-whitby": {
     "name": "The Prospect of Whitby",
     "firstSeen": "2026-08-17",
@@ -3179,6 +3287,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "randall-and-aubin": {
+    "name": "Randall & Aubin",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "ranoush-juice": {
     "name": "Ranoush Juice",
     "firstSeen": "2026-08-17",
@@ -3233,6 +3347,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "rick-stein-barnes": {
+    "name": "Rick Stein",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "river-cafe": {
     "name": "River Café",
     "firstSeen": "2026-08-17",
@@ -3254,6 +3374,12 @@
   "rock-and-sole-plaice": {
     "name": "Rock & Sole Plaice",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "roe-wood-wharf": {
+    "name": "Roe",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -3365,6 +3491,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "sams-riverside": {
+    "name": "Sam's Riverside",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "santa-maria-pizzeria": {
     "name": "Santa Maria",
     "firstSeen": "2026-08-17",
@@ -3404,6 +3536,18 @@
   "scarfes-bar": {
     "name": "Scarfes Bar",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "scotts-mayfair": {
+    "name": "Scott's",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "seabird": {
+    "name": "Seabird",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -3821,6 +3965,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "the-baring": {
+    "name": "The Baring",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "the-begging-bowl": {
     "name": "The Begging Bowl",
     "firstSeen": "2026-08-17",
@@ -3869,6 +4019,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "the-clarence-tavern": {
+    "name": "The Clarence Tavern",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "the-cocochine": {
     "name": "The Cocochine",
     "firstSeen": "2026-08-17",
@@ -3908,6 +4064,12 @@
   "the-dover": {
     "name": "The Dover",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "the-drapers-arms": {
+    "name": "The Drapers Arms",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -3959,6 +4121,12 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "the-george-fitzrovia": {
+    "name": "The George",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "the-george-inn": {
     "name": "The George Inn",
     "firstSeen": "2026-08-17",
@@ -4007,9 +4175,21 @@
     "lastSeen": "2026-08-30",
     "status": "open"
   },
+  "the-hero-of-maida": {
+    "name": "The Hero of Maida",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
   "the-holly-bush": {
     "name": "The Holly Bush",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "the-kerfield-arms": {
+    "name": "The Kerfield Arms",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -4046,6 +4226,12 @@
   "the-life-goddess": {
     "name": "The Life Goddess",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "the-macbeth": {
+    "name": "The Macbeth",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -4130,6 +4316,12 @@
   "the-sea-the-sea": {
     "name": "The Sea, The Sea",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "the-seafood-bar-soho": {
+    "name": "The Seafood Bar",
+    "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"
   },
@@ -4429,6 +4621,12 @@
   },
   "weezies": {
     "name": "Weezie's",
+    "firstSeen": "2026-08-30",
+    "lastSeen": "2026-08-30",
+    "status": "open"
+  },
+  "wiltons": {
+    "name": "Wiltons",
     "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30",
     "status": "open"

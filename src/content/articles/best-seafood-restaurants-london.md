@@ -41,6 +41,18 @@ This one counts. Every restaurant below is placed by how many independent source
 
 ## Where they are
 
+<details class="restaurant-map-shell" open>
+  <summary>
+    <span>Map of the best seafood restaurants in London</span>
+  </summary>
+  <div class="restaurant-map" data-restaurant-map="seafood-london" role="region" aria-label="Interactive map of the best seafood restaurants in London">
+    <p>Loading the interactive map…</p>
+  </div>
+  <noscript>
+    <p>The interactive map requires JavaScript. Every entry below lists its area.</p>
+  </noscript>
+</details>
+
 | If you are near… | Where to eat |
 | --- | --- |
 | **St James's & Mayfair** | Wiltons, Scott's, Lilibet's |
@@ -112,9 +124,9 @@ They are oyster merchants first — the menu changes with what the Brixham day b
 
 **Book:** [thewrightbrothers.co.uk](https://thewrightbrothers.co.uk/)
 
-### Seabird, Southwark
+### Seabird, South Bank
 
-*£££ · Southwark · Cited by 5 sources*
+*£££ · Blackfriars · Cited by 5 sources*
 
 Fourteen floors up on Blackfriars Road, from the team behind Brooklyn's Maison Premiere, mixing local seafood with Mediterranean cooking. The Infatuation calls it arguably London's prettiest rooftop and the best oyster experience in the city.
 
@@ -234,7 +246,7 @@ Hand-dived scallops, brown crab rarebit, dry-aged Dover sole. Time Out ranks it 
 
 **Book:** [applebeesfish.com](https://applebeesfish.com/) · 5 Stoney Street, SE1 9AA
 
-### Prawn on the Lawn, Islington
+### Prawn on the Lawn, Highbury
 
 *£££ · Highbury & Islington · Cited by 2 sources*
 
@@ -246,7 +258,7 @@ Fishmonger and restaurant on St Paul's Road with direct links to Padstow day boa
 
 ## The starred fish kitchens
 
-### Behind, Hackney
+### Behind, London Fields
 
 *££££ · London Fields · Cited by 2 sources · Michelin star*
 

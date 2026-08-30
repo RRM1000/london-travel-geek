@@ -37,6 +37,24 @@ This one counts. Every pub below is placed by how many independent sources name 
 
 ---
 
+## Where they are
+
+<details class="restaurant-map-shell" open>
+  <summary>
+    <span>Map of the best Sunday roasts in London</span>
+  </summary>
+  <div class="restaurant-map" data-restaurant-map="sunday-roast-london" role="region" aria-label="Interactive map of the best Sunday roasts in London">
+    <p>Loading the interactive map…</p>
+  </div>
+  <noscript>
+    <p>The interactive map requires JavaScript. Every entry below lists its area.</p>
+  </noscript>
+</details>
+
+Eight of the sixteen ranked entries sit wholly outside Zone 1 and three more straddle Zones 1–2, so for most of this list a good Sunday roast means getting on a train. Of the four that are properly central, two — Blacklock and Hawksmoor — are restaurants rather than pubs.
+
+---
+
 ## The most-cited roasts in London
 
 ### The Devonshire, Soho

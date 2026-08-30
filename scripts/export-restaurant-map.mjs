@@ -53,7 +53,7 @@ const MAPS = [
     // but they get no anchor, because there is no heading to land on. Listing
     // them here makes that an editorial decision rather than a silent miss:
     // anything NOT on this list that lacks a heading still fails loudly below.
-    tableOnly: ["50-kalo", "connies-pizza", "franco-manca", "graceys-pizza", "homeslice", "homeslice--city", "homeslice--marylebone", "homeslice--neal-s-yard", "japes", "lantica-pizzeria-da-michele", "lantica-pizzeria-da-michele--baker-street", "lantica-pizzeria-da-michele--stoke-newington", "lardo", "napoli-on-the-road-soho", "pizza-pilgrims", "rias-notting-hill", "roma-pizza", "rudys-pizza-napoletana", "santa-maria-pizzeria", "santa-maria-pizzeria--fitzrovia", "santa-maria-pizzeria--fulham", "santa-maria-pizzeria--islington", "santa-maria-pizzeria--kew", "santa-maria-pizzeria--paddington", "sarvs-slice", "spring-street-pizza", "sud-italia", "zia-lucia", "zia-lucia--aldgate-east", "zia-lucia--canary-wharf", "zia-lucia--chelsea", "zia-lucia--hammersmith", "zia-lucia--islington", "zia-lucia--wandsworth", "zia-lucia--wembley", "zia-lucia--west-hampstead"],
+    tableOnly: ["50-kalo", "67-sourdough", "ace-pizza", "bing-bong-pizza", "carmelas-pizzeria", "connies-pizza", "detroit-pizza-london", "elliots", "florencio", "franco-manca", "graceys-pizza", "homeslice", "homeslice--city", "homeslice--marylebone", "homeslice--neal-s-yard", "japes", "lantica-pizzeria-da-michele", "lantica-pizzeria-da-michele--baker-street", "lantica-pizzeria-da-michele--stoke-newington", "lardo", "laurettas", "little-earthquakes", "made-in-italy", "mamma-dough", "napoli-on-the-road-soho", "o-ver", "paulies", "pizza-pilgrims", "rias-notting-hill", "roma-pizza", "rudys-pizza-napoletana", "santa-maria-pizzeria", "santa-maria-pizzeria--fitzrovia", "santa-maria-pizzeria--fulham", "santa-maria-pizzeria--islington", "santa-maria-pizzeria--kew", "santa-maria-pizzeria--paddington", "sarvs-slice", "sodo-pizza", "spring-street-pizza", "sud-italia", "theos-pizzeria", "weezies", "zia-lucia", "zia-lucia--aldgate-east", "zia-lucia--canary-wharf", "zia-lucia--chelsea", "zia-lucia--hammersmith", "zia-lucia--islington", "zia-lucia--wandsworth", "zia-lucia--wembley", "zia-lucia--west-hampstead"],
     article: "src/content/articles/best-pizza-london.md",
   },
   {
@@ -125,6 +125,36 @@ const MAPS = [
     },
     tableOnly: ["al-boccon-divino", "al-dente", "ave-mario", "cafe-murano", "icco-pizza", "langosteria-london", "muccis", "sale-e-pepe-mare"],
     article: "src/content/articles/best-italian-restaurants-london.md",
+  },
+  {
+    key: "seafood-london",
+    list: "seafood",
+    // The guide does not number its entries, so every row on the list is
+    // expected to have a section - which is what the broken-anchor check below
+    // proves. Market stalls and counters are pinned as street food.
+    streetFoodFormats: ["Market Stall", "Counter"],
+    // The heading is more specific than the row, or names the venue the way it
+    // trades - The Oystermen rather than its full registered name.
+    anchors: {
+      "wright-brothers-battersea": "#wright-brothers",
+      "oystermen-seafood-bar-and-kitchen": "#the-oystermen-covent-garden",
+      "applebees-borough": "#applebees-borough-market",
+      "fish-market-broadgate": "#fish-market-broadgate",
+    },
+    // Named in the closing table or an oyster bullet, with no section.
+    tableOnly: ["bibendum-oyster-bar", "cometa", "furness-oyster-bar", "kima",
+      "london-shell-co", "maltby-street-market", "mandarin-kitchen",
+      "richard-hawards-oysters", "rick-stein-barnes", "tollingtons"],
+    article: "src/content/articles/best-seafood-restaurants-london.md",
+  },
+  {
+    key: "sunday-roast-london",
+    list: "sunday-roast",
+    // Sixteen ranked rows have a section each; everything else on the list is
+    // named in the closing table, which ranked:true already handles.
+    ranked: true,
+    streetFoodFormats: [],
+    article: "src/content/articles/best-sunday-roast-london.md",
   },
   {
     key: "cocktail-bars-london",
