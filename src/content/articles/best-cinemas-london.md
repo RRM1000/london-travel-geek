@@ -59,13 +59,17 @@ Several are cheaper than the chains, and one is where film was first shown in Br
 
 **The cult cinema of London** — 35mm and 70mm prints, quote-alongs, sing-alongs and all-night marathons, with a membership that pays for itself in about two visits.
 
+The building itself has had an odder run than most: opened in 1962 as a theatre, it hosted a young Judy Garland filming *The Jack Paar Program* in 1964, then spent decades as an arthouse cinema notorious for the UK's longest continuous run of *Emmanuelle*, and gave *Hellraiser* its world premiere in 1987 before a 1991 takeover turned it into the repertory house it is now. Two screens, **300 velvet seats downstairs and 104 leather seats upstairs**.
+
 The programming is the point: this is where you see *The Thing* at midnight, not a new release.
 
 ### Regent Street Cinema, Oxford Circus
 
 *Since 1896*
 
-Where the **Lumière brothers' Cinematographe had its first British showing in 1896** — the birthplace of cinema in Britain, still operating as one.
+Where the **Lumière brothers' Cinematographe had its first British showing in late February 1896** — the birthplace of cinema in Britain, still operating as one. The building itself is older still, opened in 1848 as part of the Royal Polytechnic Institution on Regent Street, now the University of Westminster.
+
+It carried on making history rather than just holding onto it: in 1951 it became the first cinema in Britain to show an X-rated film. Then it closed as a cinema altogether in 1980 and spent 35 years as a university lecture theatre, until a three-year, **£6.1 million restoration** — a third of it funded by the Heritage Lottery Fund — reopened it in 2015 with 185 seats, a restored 1936 John Compton organ, and the ability to project **16mm, 35mm, Super 8 and 4K**.
 
 ### Electric Portobello, Notting Hill
 
@@ -100,7 +104,9 @@ The second Electric, inside **BBC Television Centre** — the building that made
 
 *South Bank*
 
-The national film archive's own cinema, with the deepest repertory programme in the country and a Mediatheque where you can watch archive material free.
+The national film archive's own cinema, with the deepest repertory programme in the country and a Mediatheque where you can watch archive material free. It began life as the National Film Theatre — a temporary building at the 1951 Festival of Britain, moved to this site in 1957, and expanded from one screen to four when it was relaunched as BFI Southbank in 2007.
+
+It is also **the only cinema in the UK licensed to publicly screen nitrate film**, the highly flammable stock used until the early 1950s — a genuine rarity that most repertory cinemas cannot offer at any price.
 
 ### BFI IMAX, Waterloo
 
@@ -120,19 +126,25 @@ A freestanding glass drum on the roundabout north of Waterloo station, and **the
 
 *Kingsland High Street*
 
-**A century of continuous operation**, in a preserved art deco auditorium run as a charity.
+**A century of continuous operation, under several different names.** It opened as the Kingsland Empire in 1915, designed by the architect George Coles, and was rebuilt in Art Deco style by F. E. Bromige in 1937 as the Classic Cinema Dalston — the Grade II-listed auditorium still standing today. It became the Rio in 1976, when local businessman Paul Theodorou took it over, and a second, smaller screen was added in the basement in 2017.
+
+Run as a registered charity, with regular Classic Matinees for over-60s and a long-running queer film club, Pink Palace.
 
 ### The Castle Cinema, Clapton
 
 *Crowdfunded back*
 
-A **1913 cinema that became a bingo hall, a shoe factory and a snooker club** before Clapton crowdfunded it back into existence.
+A **1913 cinema that became a bingo hall, a shoe factory and a snooker club** before Clapton crowdfunded it back into existence. Co-founders Dee and Ash started the project in 2015 and ran their first test screenings in December 2016 with a single screen, no proper coffee machine, and evening-only opening.
+
+It has since built a second screen, a kitchen and an all-day café, and runs on a locally sourced, largely vegan bar menu — a small point of principle for a cinema that also refuses to run adverts before its films.
 
 ### The Garden Cinema, Covent Garden
 
 *Between Holborn and Covent Garden*
 
-Three small screens and two art deco bars on a back street, running repertory alongside new independent releases.
+One of London's newest independents, opened in 2022 on Parker Street, a back street genuinely between Holborn and Covent Garden rather than in either. **Three screens (40, 60 and 70 seats)** run curated seasons alongside new releases from around the world, with regular post-screening discussions with filmmakers.
+
+Membership is £25 a year and includes a free screening every fortnight — one of the cheaper ways into a repertory programme this deep anywhere in London.
 
 ![One of The Garden Cinema's two art deco bars, with a curved red bar front, a comic-book mural and red banquette seating](../../assets/articles/best-cinemas-london/garden-cinema-bar.jpg)
 
@@ -164,7 +176,9 @@ Built on the site of Frank Matcham's 1885 Paragon Theatre, converted at a cost o
 
 *3 screens · 35mm · £6.50 Mondays*
 
-Three screens split between the Centre itself and Beech Street, running one of the most ambitious repertory programmes in London — and tagging the **35mm** prints in its listings, which is rarer than it should be.
+Three screens split between the Centre itself and Beech Street, seating 288, 156 and 156, inside a Grade II-listed brutalist complex the City of London gave to the nation at a cost of £161 million, opened by the Queen in 1982.
+
+The Barbican runs one of the most ambitious repertory programmes in London, tagging the **35mm** prints in its listings — rarer than it should be — alongside pay-what-you-can screenings and a members' series most guides never mention.
 
 ### Phoenix Cinema, East Finchley
 
@@ -226,7 +240,9 @@ Films projected beside the canal in summer, watched from the towpath steps, **fo
 
 *Ticketed · seasonal*
 
-New releases, cult favourites and big-screen sport from deckchairs on a roof, with headphones.
+A working open-air cinema on top of the **Bussey Building** on Rye Lane, a couple of minutes from Peckham Rye station, open **May to September**. New releases and cult favourites from deckchairs, with headphones rather than a PA system, and themed nights beyond the standard listings — a *Sex and the City* mini-marathon, a *Trainspotting* screening paired with a Sofar Sounds set.
+
+Popular slots sell out; a waitlist opens once a screening does.
 
 ---
 
