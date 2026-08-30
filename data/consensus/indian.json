@@ -417,9 +417,7 @@
       "names": [
         "Gymkhana",
         "Kricket",
-        "Sheba",
         "Brigadiers",
-        "Tayyabs",
         "BiBi",
         "Darjeeling Express"
       ],
@@ -466,15 +464,8 @@
       "name": "Insider Food (YouTube)",
       "url": "https://www.youtube.com/@InsiderFood",
       "scope": "indian",
-      "names": [
-        "Tayyabs",
-        "Curry Bazaar",
-        "Punjab Indian Restaurant",
-        "Spice Village"
-      ],
-      "quotes": {
-        "Tayyabs": "One of four curry houses in a single-day tour with Harry Kersh and Joe Avella"
-      },
+      "names": [],
+      "quotes": {},
       "recorded": "2026-08-30"
     },
     {
@@ -482,8 +473,6 @@
       "url": "https://www.youtube.com/@UgoArinzeh",
       "scope": "indian",
       "names": [
-        "Aladin",
-        "City Spice",
         "Veeraswamy",
         "Tamarind Kitchen",
         "Jamavar",
@@ -506,5 +495,6 @@
       "recorded": "2026-08-30"
     }
   ],
-  "recorded": "2026-08-25"
+  "recorded": "2026-08-25",
+  "_pakistaniExcluded": "Tayyabs, Spice Village, Punjab Indian Restaurant, Curry Bazaar, Aladin, City Spice and Sheba were named by the video tier in a best-curry context but are Pakistani or Bangladeshi. Pakistani has its own topic and consensus file; Brick Lane Bangladeshi houses belong with it rather than absorbed here."
 }

@@ -18220,55 +18220,6 @@
       }
     ]
   },
-  "explore": {
-    "name": "Explore",
-    "topics": [
-      "bars",
-      "coffee",
-      "fish-and-chips"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "fish-and-chips": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Best Cocktails Guide",
-        "url": "https://www.bestcocktailsguide.com/places-to-drink/city/london"
-      },
-      {
-        "tier": "C",
-        "source": "Coffee the Canvas",
-        "url": "https://coffeethecanvas.com/best-coffee-shops-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Travelicious Bites",
-        "url": "https://traveliciousbites.com/destinations/europe/london/best-fish-and-chips-in-london/"
-      }
-    ]
-  },
   "resources": {
     "name": "Resources",
     "topics": [
@@ -33921,329 +33872,6 @@
     "hasAward": true,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
-      }
-    ]
-  },
-  "getintouch": {
-    "name": "Get in touch",
-    "topics": [
-      "british",
-      "indian"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
-    "tierCount": 2,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "indian": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
-        "tierCount": 2,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
-      },
-      {
-        "tier": "B",
-        "source": "Kilburn Times",
-        "url": "https://www.kilburntimes.co.uk/news/23936025.full-list-london-winners-asian-curry-awards/"
-      }
-    ]
-  },
-  "forrestaurants": {
-    "name": "For restaurants",
-    "topics": [
-      "british",
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
-      }
-    ]
-  },
-  "legalbit": {
-    "name": "The legal bit",
-    "topics": [
-      "british",
-      "dessert",
-      "dim-sum",
-      "french",
-      "general",
-      "indian",
-      "italian",
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "dessert": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
-      }
-    ]
-  },
-  "goodfoodguide": {
-    "name": "Good Food Guide",
-    "topics": [
-      "british",
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
-      }
-    ]
-  },
-  "essentialcookies": {
-    "name": "Essential Cookies",
-    "topics": [
-      "british",
-      "dessert",
-      "dim-sum",
-      "french",
-      "general",
-      "indian",
-      "italian",
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "dessert": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
-      }
-    ]
-  },
-  "analyticalcookies": {
-    "name": "Analytical Cookies",
-    "topics": [
-      "british",
-      "dessert",
-      "dim-sum",
-      "french",
-      "general",
-      "indian",
-      "italian",
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "dessert": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "seafood": {
         "sourceCount": 1,
         "tierSpread": "A1",
         "tierCount": 1,
@@ -53891,23 +53519,16 @@
     "name": "Punjab Indian Restaurant",
     "topics": [
       "cheap-eats",
-      "indian",
       "pakistani"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C2 D1",
-    "tierCount": 2,
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "cheap-eats": {
         "sourceCount": 1,
         "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -53928,11 +53549,6 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/pakistani-restaurants-london/"
-      },
-      {
-        "tier": "D",
-        "source": "Insider Food (YouTube)",
-        "url": "https://www.youtube.com/@InsiderFood"
       }
     ]
   },
@@ -59299,55 +58915,6 @@
         "tier": "C",
         "source": "Mayor of London",
         "url": "https://www.london.gov.uk/who-we-are/city-hall-blog/love-londons-independent-cinemas"
-      }
-    ]
-  },
-  "usefullinks": {
-    "name": "Useful links",
-    "topics": [
-      "cinemas",
-      "historic-pubs",
-      "japanese"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cinemas": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayor of London",
-        "url": "https://www.london.gov.uk/who-we-are/city-hall-blog/love-londons-independent-cinemas"
-      },
-      {
-        "tier": "C",
-        "source": "London Now",
-        "url": "https://www.london-now.co.uk/news/25912302.crosse-keys-wetherspoon-pub-old-hsbc-bank-hall/"
-      },
-      {
-        "tier": "C",
-        "source": "Best Japanese",
-        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
       }
     ]
   },
@@ -94772,43 +94339,6 @@
       }
     ]
   },
-  "sport": {
-    "name": "Sport",
-    "topics": [
-      "historic-pubs",
-      "vegan"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Tempus Magazine",
-        "url": "https://tempusmagazine.co.uk/news/veganuary-2026-5-vegan-friendly-fine-dining-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "London Now",
-        "url": "https://www.london-now.co.uk/news/25912302.crosse-keys-wetherspoon-pub-old-hsbc-bank-hall/"
-      }
-    ]
-  },
   "transport": {
     "name": "Transport",
     "topics": [
@@ -98025,81 +97555,6 @@
       }
     ]
   },
-  "nominatenow": {
-    "name": "Nominate now",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Asian Curry Awards",
-        "url": "https://www.asiancurryawards.com/2025-winners/"
-      }
-    ]
-  },
-  "judgingpanel": {
-    "name": "Judging Panel",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Asian Curry Awards",
-        "url": "https://www.asiancurryawards.com/2025-winners/"
-      }
-    ]
-  },
-  "video": {
-    "name": "Video",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Asian Curry Awards",
-        "url": "https://www.asiancurryawards.com/2025-winners/"
-      }
-    ]
-  },
   "mintlounge": {
     "name": "Mint Lounge",
     "topics": [
@@ -98688,218 +98143,6 @@
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
-      }
-    ]
-  },
-  "sheba": {
-    "name": "Sheba",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "D1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "D1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "D",
-        "source": "TOPJAW (YouTube)",
-        "url": "https://www.youtube.com/@topjaw"
-      }
-    ]
-  },
-  "tayyabs": {
-    "name": "Tayyabs",
-    "topics": [
-      "indian",
-      "pakistani"
-    ],
-    "sourceCount": 6,
-    "tierSpread": "B2 C2 D2",
-    "tierCount": 3,
-    "hasAward": false,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 2,
-        "tierSpread": "D2",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "pakistani": {
-        "sourceCount": 4,
-        "tierSpread": "B2 C2",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/best-pakistani-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/pakistani-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Culture Calling",
-        "url": "https://www.culturecalling.com/london/food-and-drink/features/a-guide-to-indian-and-pakistani-food"
-      },
-      {
-        "tier": "D",
-        "source": "TOPJAW (YouTube)",
-        "url": "https://www.youtube.com/@topjaw"
-      },
-      {
-        "tier": "D",
-        "source": "Insider Food (YouTube)",
-        "url": "https://www.youtube.com/@InsiderFood",
-        "quote": "One of four curry houses in a single-day tour with Harry Kersh and Joe Avella"
-      }
-    ]
-  },
-  "currybazaar": {
-    "name": "Curry Bazaar",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "D1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "D1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "D",
-        "source": "Insider Food (YouTube)",
-        "url": "https://www.youtube.com/@InsiderFood"
-      }
-    ]
-  },
-  "spicevillage": {
-    "name": "Spice Village",
-    "topics": [
-      "indian",
-      "pakistani"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C1 D1",
-    "tierCount": 3,
-    "hasAward": false,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "D1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "pakistani": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Culture Calling",
-        "url": "https://www.culturecalling.com/london/food-and-drink/features/a-guide-to-indian-and-pakistani-food"
-      },
-      {
-        "tier": "D",
-        "source": "Insider Food (YouTube)",
-        "url": "https://www.youtube.com/@InsiderFood"
-      }
-    ]
-  },
-  "aladin": {
-    "name": "Aladin",
-    "topics": [
-      "indian",
-      "pakistani"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C1 D1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "D1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "pakistani": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/pakistani-restaurants-london/"
-      },
-      {
-        "tier": "D",
-        "source": "Ugo Arinzeh (YouTube)",
-        "url": "https://www.youtube.com/@UgoArinzeh"
-      }
-    ]
-  },
-  "cityspice": {
-    "name": "City Spice",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "D1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "D1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "D",
-        "source": "Ugo Arinzeh (YouTube)",
-        "url": "https://www.youtube.com/@UgoArinzeh"
       }
     ]
   },
@@ -119940,31 +119183,6 @@
       }
     ]
   },
-  "importantlinks": {
-    "name": "Important Links",
-    "topics": [
-      "museums"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "museums": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Better Vacation",
-        "url": "https://thebettervacation.com/london/best-museums-in-london/"
-      }
-    ]
-  },
   "permanentlyfreemuseums": {
     "name": "The permanently free museums",
     "topics": [
@@ -125663,6 +124881,36 @@
       }
     ]
   },
+  "spicevillage": {
+    "name": "Spice Village",
+    "topics": [
+      "pakistani"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "pakistani": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/a-guide-to-indian-and-pakistani-food"
+      }
+    ]
+  },
   "namakmandi": {
     "name": "Namak Mandi",
     "topics": [
@@ -125715,6 +124963,46 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/a-guide-to-indian-and-pakistani-food"
+      }
+    ]
+  },
+  "tayyabs": {
+    "name": "Tayyabs",
+    "topics": [
+      "pakistani"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "pakistani": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-pakistani-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/pakistani-restaurants-london/"
       },
       {
         "tier": "C",
@@ -125855,6 +125143,31 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
+      }
+    ]
+  },
+  "aladin": {
+    "name": "Aladin",
+    "topics": [
+      "pakistani"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "pakistani": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/pakistani-restaurants-london/"
       }
     ]
   },
