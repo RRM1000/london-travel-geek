@@ -1,7 +1,7 @@
 {
   "cuisine": "afternoon-tea",
   "note": "SCOPE. Afternoon tea served as a sitting, with a stand. Hotel tea rooms, department-store salons and the historic claims. NOT cafes that happen to sell scones, and NOT cream teas.",
-  "recorded": "2026-08-26",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "Olive Magazine",
@@ -48,7 +48,6 @@
       "url": "https://luxlifelondon.com/best-afternoon-teas-london/",
       "scope": "afternoon-tea",
       "names": [
-        "So",
         "The Goring",
         "Mandarin Oriental Hyde Park",
         "The Langham",
@@ -57,69 +56,7 @@
         "Aqua Shard’s Peter Pan Afternoon Tea",
         "The Kensington Hotel",
         "Sanderson Hotel’s Mad Hatter’s Afternoon Tea",
-        "Dukes Hotel",
-        "The Home of the Afternoon Tea",
-        "Disclaimer",
-        "Lux Life Sitemaps & Links",
-        "HTML Sitemap"
-      ]
-    },
-    {
-      "name": "Forbes",
-      "url": "https://www.forbes.com/sites/joemicallef/2026/04/02/londons-afternoon-tea-where-to-find-the-best-in-2026/",
-      "scope": "afternoon-tea",
-      "names": [
-        "London’s Best Afternoon Tea",
-        "Breaking News",
-        "White House Watch",
-        "Forbes 400",
-        "AI",
-        "Gaming",
-        "Big Data",
-        "Cloud",
-        "Cloud 100",
-        "Healthcare",
-        "Science",
-        "Under 30",
-        "Careers",
-        "Education",
-        "ForbesBLK",
-        "ForbesWomen",
-        "Fintech",
-        "Investing",
-        "Markets",
-        "Retirement",
-        "Taxes",
-        "Energy",
-        "Law",
-        "Manufacturing",
-        "Policy",
-        "Retail",
-        "SportsMoney",
-        "Entrepreneurs",
-        "Arts",
-        "Cars & Bikes",
-        "Dining",
-        "ForbesLife",
-        "Spirits",
-        "Vices",
-        "Watches",
-        "30 Under 30",
-        "50 Over 50",
-        "Top Colleges",
-        "Frase by Forbes",
-        "Forbes Video",
-        "Forbes 101",
-        "Forbes Wine Club",
-        "Report a Security Issue",
-        "Site Feedback",
-        "Careers at Forbes",
-        "Tips",
-        "Privacy Statement",
-        "AdChoices",
-        "Jobs At Forbes",
-        "Reprints & Permissions",
-        "Forbes Press Room"
+        "Dukes Hotel"
       ]
     },
     {
@@ -131,10 +68,12 @@
         "The Palm Court at The Ritz",
         "Twenty8 NoMad",
         "The Wolseley",
+        "The Tales of Beatrix Potter Afternoon Tea at Grosvenor House",
         "The Gallery at Sketch",
         "Petersham Nurseries Teahouse",
         "Royal Albert Hall",
         "Art Afternoon Tea at Rosewood London",
+        "London By Lily Vanilli at Four Seasons Tower Bridge",
         "Dean Street Townhouse",
         "Caviar afternoon tea at Fortnum & Mason",
         "Zetter Bloomsbury",
@@ -144,74 +83,30 @@
         "The Grill Room at Hotel Cafe Royal",
         "Seventy Five at Liberty",
         "Showstopping Afternoon Tea at Theatre Royal Drury Lane"
-      ]
-    },
-    {
-      "name": "British Travel List",
-      "url": "https://thebritishtravellist.substack.com/p/londons-best-afternoon-teas-for-2025",
-      "scope": "afternoon-tea",
-      "names": [
-        "From budget to blowout",
-        "Don’t: Feel obliged to upgrade with bubbles",
-        "Don\\u2019t: Feel obliged to upgrade with bubbles"
-      ]
-    },
-    {
-      "name": "Time Out (quirkiest)",
-      "url": "https://www.timeout.com/london/restaurants/the-15-quirkiest-afternoon-teas-in-london",
-      "scope": "afternoon-tea",
-      "names": [
-        "Diamond Jubilee Tea Salon at Fortnum & Mason",
-        "The Palm Court at The Ritz",
-        "Twenty8 NoMad",
-        "The Wolseley",
-        "The Gallery at Sketch",
-        "Petersham Nurseries Teahouse",
-        "Royal Albert Hall",
-        "Art Afternoon Tea at Rosewood London",
-        "Dean Street Townhouse",
-        "Caviar afternoon tea at Fortnum & Mason",
-        "Zetter Bloomsbury",
-        "The Gallery at The Savoy",
-        "Palm Court at The Langham",
-        "London Calling Afternoon Tea at Haymarket Hotel",
-        "The Grill Room at Hotel Cafe Royal",
-        "Seventy Five at Liberty",
-        "Showstopping Afternoon Tea at Theatre Royal Drury Lane"
-      ]
-    },
-    {
-      "name": "Londonist (complete guide, read via browser)",
-      "url": "https://londonist.com/london/food-and-drink/best-afternoon-tea-high-tea-london",
-      "scope": "afternoon-tea",
-      "names": [
-        "The Shard",
-        "Duck & Waffle",
-        "Oxo Tower",
-        "Kensington Palace",
-        "The British Museum",
-        "The Science Museum",
-        "Cutty Sark",
-        "Westminster Abbey",
-        "Natural History Museum",
-        "Royal Albert Hall",
-        "National Portrait Gallery",
-        "The National Gallery",
-        "The Wallace Collection",
-        "Cinnamon Bazaar",
-        "Kona",
-        "The Prince Akatoki",
-        "Aki London",
-        "The Greenhouses",
-        "Harry's",
-        "Dim Sum Library",
-        "Kettner's",
-        "The Ritz",
-        "The Savoy",
-        "Fortnum & Mason",
-        "The Landmark London",
-        "The Langham"
-      ]
+      ],
+      "quotes": {
+        "Diamond Jubilee Tea Salon at Fortnum & Mason": "#1 in Time Out's ranking. F&M's elegant tea salon, which has been serving the good stuff since 1926. Go for a regular afternoon tea or there ' s currently also a Winnie The Pooh themed offering to celebrate a century of the beloved bear.",
+        "The Palm Court at The Ritz": "#2 in Time Out's ranking. A London icon and the ideal choice for a super special occasion. Why we love it: The Ritz is, quite literally, a byword for luxury, so you know you're in for a treat with afternoon tea in the hotel's Palm Court, wh",
+        "Twenty8 NoMad": "#3 in Time Out's ranking. An English summer picnic-inspired afternoon tea at the NoMad's stunning, revamped in-house restaurant. Why we love it: This Covent Garden hotel atrium is all Manhattan-by-way-of-the-Marais, an extravagant Yank take",
+        "The Wolseley": "#4 in Time Out's ranking. A showy tea in a lavish space. Why we love it: A self-proclaimed 'caf -restaurant in the grand European tradition', the Wolseley combines London heritage and Viennese grandeur.",
+        "The Tales of Beatrix Potter Afternoon Tea at Grosvenor House": "#5 in Time Out's ranking. A Mrs Tiggy ‑ Winkle-tastic afternoon tea inspired by one of the greatest children's authors of all time. Why we love it: JW Marriott Grosvenor House London hotel in Mayfair celebrates 160 years since the birth of ",
+        "The Gallery at Sketch": "#6 in Time Out's ranking. Afternoon tea in a beautiful boudoir. Why we love it: As part of Sketch's luxe Mayfair pleasuredome, the velvet-clad dandy-esque Gallery is a lesson in more-is-more eclecticism, as a restaurant and exhibition space",
+        "Petersham Nurseries Teahouse": "#7 in Time Out's ranking. A bucolic garden tea. Why we love it: Over in Richmond, Petersham Nurseries is so lush with grassy footpaths and multi-coloured orchids, you forget you're still so close to London.",
+        "Royal Albert Hall": "#8 in Time Out's ranking. Afternoon tea in one of London ' s most iconic buildings and a world-famous music hall. Why we love it: They ' ve been serving afternoon tea at the Royal Albert Hall for over 100 years, so you ' ll be getting stuck",
+        "Art Afternoon Tea at Rosewood London": "#9 in Time Out's ranking. An artsy tea inspired by Monet and the Impressionist movement. Why we love it: This whimsical tea is based on the dreamy vibe of Impressionism, and takes place in the glammy Mirror Room of the Rosewood London hotel",
+        "London By Lily Vanilli at Four Seasons Tower Bridge": "#10 in Time Out's ranking. A cool take on tea. Why we love it: 10 Trinity Square began life as the headquarters of the Port of London Authority, so there's been a whole lot of tea coming in and out of the place for over 100 years.",
+        "Dean Street Townhouse": "#11 in Time Out's ranking. A Georgian-era all-day dining room in the middle of Soho. Why we love it: Afternoon tea at Dean Street Townhouse is, despite the very central London location (and the fact that it ' s run by Soho House), one of th",
+        "Caviar afternoon tea at Fortnum & Mason": "#12 in Time Out's ranking. As well as their signature afternoon tea, posh department store Fortnum & Mason now offer this high-end, caviar-tastic tea. Why we love it: Decadence doesn ' t come much more delicious than an afternoon tea that m",
+        "Zetter Bloomsbury": "#13 in Time Out's ranking. A cute afternoon tea at the new Zetter hotel in Bloomsbury, right next door to the British Museum. Why we love it: One of the hotel's loveliest spaces is The Orangery, and this is where breakfast and afternoon tea",
+        "The Gallery at The Savoy": "#14 in Time Out's ranking. The quintessential British luxury afternoon tea. Why we love it: At the Savoy, afternoon tea has been a tradition since 1889.",
+        "Palm Court at The Langham": "#15 in Time Out's ranking. The home of high tea. Why we love it: High tea originated at the Langham in 1865, so this is a historic one to tick off your list.",
+        "London Calling Afternoon Tea at Haymarket Hotel": "#16 in Time Out's ranking. A tribute to central London via the medium of cakes. Why we love it: Step inside Haymarket Hotel ' s natty bistro Brumus for a daily tea that also acts as a whistlestop tour of London ' s most recognisable landmar",
+        "The Grill Room at Hotel Cafe Royal": "#17 in Time Out's ranking. A super glam tea. Why we love it: The Grill Room is a sensational space, Grade II listed and gilded to the hilt.",
+        "Seventy Five at Liberty": "#18 in Time Out's ranking. Afternoon tea at the restaurant inside one of London ' s most iconic department stores, Liberty . Why we love it: What better way to take a break from rifling through the racks at Liberty than to settle down for a",
+        "Showstopping Afternoon Tea at Theatre Royal Drury Lane": "#19 in Time Out's ranking. Tea at the grande dame of London theatres. Why we love it: This site that has been in constant use as a playhouse since the 1600s."
+      },
+      "ranked": true,
+      "note": "Re-extracted 2026-08-30 with ranks. The quirkiest-teas URL was recorded with this same page's names and has been removed."
     },
     {
       "name": "Candace Abroad (affordable)",
@@ -233,9 +128,7 @@
         "Cinnamon Bazaar",
         "Dean Street Townhouse",
         "The Melody Restaurant",
-        "The Great Court Restaurant at The British Museum",
-        "Hey lovely",
-        "candaceabroad"
+        "The Great Court Restaurant at The British Museum"
       ]
     },
     {
@@ -253,42 +146,7 @@
         "Afternoon Tea at Melody at St Paul's",
         "The Wolseley",
         "The Cutty Sark",
-        "English Rose Cafe",
-        "Bridget's Bakery Bus Tour",
-        "Afternoon Tea on The River Thames Cruise",
-        "Afternoon Teas",
-        "Pin Me For Later",
-        "Recent Posts"
-      ]
-    },
-    {
-      "name": "DesignMyNight (cheap)",
-      "url": "https://www.designmynight.com/london/cheap-afternoon-tea-london",
-      "scope": "afternoon-tea",
-      "names": [
-        "Splurge-Worthy But Still A Bargain",
-        "Rewards",
-        "Jobs",
-        "My Account",
-        "affordable afternoon tea London",
-        "Location:",
-        "When:",
-        "Price:",
-        "Locations:"
-      ]
-    },
-    {
-      "name": "Scone Workshop (price breakdown)",
-      "url": "https://sconeworkshop.com/blog/how-much-does-afternoon-tea-cost-london/",
-      "scope": "afternoon-tea",
-      "names": [
-        "The four price tiers",
-        "What the price actually covers",
-        "Where the maths doesn’t add up",
-        "Hidden costs to budget for",
-        "The £34 alternative",
-        "Honest recommendations by budget",
-        "Settle the debate in person"
+        "English Rose Cafe"
       ]
     }
   ]

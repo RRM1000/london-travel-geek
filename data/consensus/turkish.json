@@ -1,7 +1,7 @@
 {
   "cuisine": "turkish",
   "note": "Tier 2, sized at 17 rows - deliberately fewer than the tier 1 cuisines, per sizing in research-playbook.json. SCOPE: Turkish, including Turkish-Cypriot and Kurdish-run ocakbasi where the cooking is Turkish. Mangal 2, Oklava and Durak Tantuni are already banked from the Middle Eastern pass, which correctly refused to file them as Middle Eastern. guide.michelin.com is blocked (403) so it is absent by design. Every URL came from a search result.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "The Infatuation (Turkish)",
@@ -47,7 +47,6 @@
         "Antepliler",
         "Yeni",
         "Mangal 2",
-        "Megan's",
         "Fez Mangal",
         "Ishtar",
         "Lokkanta",
@@ -63,31 +62,16 @@
       "url": "https://www.hardens.com/restaurants/london/turkish/",
       "scope": "turkish",
       "names": [
-        "Harden's 100",
-        "Hot Newcomers",
-        "IOs / Android Apps",
-        "Corporate Gifts",
-        "Kensington",
-        "Canary Wharf",
-        "Chelsea",
-        "Fulham",
-        "City",
-        "Southbank",
-        "Islington",
-        "+ Over 3000 entries",
-        "+ Constantly updated",
-        "+ Club access",
-        "+ Restaurant diary",
-        "+ Works offline",
-        "Cabotte",
-        "Brigadiers",
-        "Cloth",
-        "Coq d’Argent",
-        "Sweetings",
-        "The Swan at the Globe",
-        "Hispania",
-        "Lutyens Grill"
-      ]
+        "Haz",
+        "Baraka",
+        "Leydi"
+      ],
+      "quotes": {
+        "Haz": "Listed under Turkish by Harden's, which has been reviewing London restaurants since 1991. Two City branches plus Haz Mincing Lane.",
+        "Baraka": "Listed under Turkish by Harden's.",
+        "Leydi": "Listed under Turkish by Harden's."
+      },
+      "note": "RE-READ IN THE BROWSER 2026-08-30. The page is JS-rendered so curl sees only the nav, which the first pass recorded as 24 venues - every one of them wrong, and all tiered A. The real Turkish results are in .search_listing.result: Haz, Haz (second branch), Baraka, Haz Mincing Lane, Leydi. Everything else on the page is an unrelated 'you might also like' rail. Harden's Turkish coverage is genuinely this thin, which is itself worth knowing."
     },
     {
       "name": "Suitcase (Turkish)",
@@ -98,9 +82,7 @@
         "Cirrik 19 Numara Bos",
         "Antepliler",
         "Diyarbakir Kitchen",
-        "Mangal 2",
-        "The Lowdown",
-        "Most recent"
+        "Mangal 2"
       ]
     },
     {
@@ -108,9 +90,7 @@
       "url": "https://blog.resy.com/2023/07/best-turkish-kurdish-restaurants-london/",
       "scope": "turkish",
       "names": [
-        "London’s Best Restaurants and Bars For a Date",
         "How Charlie Sims and Honey Spencer Built Sune",
-        "With Dalla",
         "Everything to Know About Hainan House",
         "Bebek Baklava",
         "Mangal 1",
@@ -138,8 +118,6 @@
         "Kervan Sofrasi",
         "E Mono",
         "Yamabahçe",
-        "Party Size",
-        "Date",
         "Cirrik",
         "Dükkan",
         "Five Essential Dishes at Mambow",
@@ -151,14 +129,10 @@
       "url": "https://tbmag.co.uk/best-turkish-restaurants-london-2026-guide/",
       "scope": "turkish",
       "names": [
-        "\"+message+\"",
         "Yeni",
         "The Counter",
         "Firin",
-        "Leydi",
-        "The Bigger Picture",
-        "Reach the Turkish-British Professional Community",
-        "TBMag Editorial Team"
+        "Leydi"
       ]
     },
     {
@@ -180,8 +154,7 @@
         "Iznik",
         "Zahter",
         "Yeni",
-        "Kazan Restaurant",
-        "Discover our cities"
+        "Kazan Restaurant"
       ]
     }
   ]
