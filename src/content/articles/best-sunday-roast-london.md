@@ -67,6 +67,10 @@ The ground floor is a Guinness pub and a good share of the queue is there for th
 
 **Book:** [devonshiresoho.co.uk](https://devonshiresoho.co.uk/) · **two minutes from Blacklock**
 
+![The frontage of The Devonshire pub on Denman Street in Soho](../../assets/articles/best-sunday-roast-london/the-devonshire-soho.jpg)
+
+*The ground floor is a Guinness pub and the roast is upstairs. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Devonshire,_Soho,_W1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 ### The Red Lion & Sun, Highgate
 
 *££ · Highgate · Cited by 2 sources · #3, Estrella Damm Top 50 Gastropubs 2026*
@@ -87,6 +91,10 @@ That combination — high placement, low price, no booking required — does not
 
 **Book:** [cantonarms.com](https://cantonarms.com/bookings/)
 
+![The Canton Arms on South Lambeth Road in Stockwell](../../assets/articles/best-sunday-roast-london/canton-arms-stockwell.jpg)
+
+*An old South Lambeth Road boozer that never rebranded, ranked eleventh in the country, and the realistic walk-in on this page. Photo: [Ewan Munro](https://commons.wikimedia.org/wiki/File:Canton_Arms,_South_Lambeth,_SW8_(3838932573).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### The Baring, Islington
 
 *££ · Angel · Cited by 2 sources · #17, Estrella Damm Top 50 Gastropubs 2026*
@@ -102,6 +110,10 @@ Seventeenth in the country and, in The Infatuation's description, more sit-down 
 Two pubs in one building. Downstairs is a Hackney Road local that has not been prettified; upstairs is the dining room that does the ranking work. You can have a completely different Sunday depending on which staircase you take.
 
 **Book:** [Reserve a table](https://www.opentable.co.uk/r/the-marksman-hackney-reservations-london?lang=en-GB&ot_source=website&restref=208518)
+
+![The Marksman pub on Hackney Road, with its tiled frontage](../../assets/articles/best-sunday-roast-london/the-marksman-hackney-road.jpg)
+
+*Two pubs in one building on Hackney Road: an unprettified local downstairs, the dining room above. Photo: [Matt Brown](https://commons.wikimedia.org/wiki/File:The_Marksman_pub_254_Hackney_Road_2025-05-08.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### The Waterman's Arms, Barnes
 

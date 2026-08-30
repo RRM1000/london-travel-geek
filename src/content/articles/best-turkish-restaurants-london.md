@@ -8,6 +8,12 @@ sites: [london]
 canonicalSite: london
 category: "Food and drink"
 tags: [restaurants, Turkish restaurants, ocakbasi, kebab, dining]
+heroImage: "../../assets/articles/best-turkish-restaurants-london/green-lanes-hala.jpg"
+heroImageAlt: "Women making gozleme in the window of Hala Restaurant on Green Lanes, Harringay, during the Green Lanes Festival"
+heroImageCredit: "Alan Stanton"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Harringay_Green_Lanes_Festival_2011_-_Hala_Restaurant.jpg"
+heroImageLicense: "CC BY-SA 2.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 draft: false
 faq:
   - q: "What is the best Turkish restaurant in London?"
@@ -60,6 +66,10 @@ Joint most-cited Turkish restaurant in London, and the one that has moved furthe
 
 **Not the same restaurant as Mangal 1**, which is a hundred yards away and a completely different evening.
 
+![The frontage of Mangal II on Stoke Newington Road in Dalston](../../assets/articles/best-turkish-restaurants-london/mangal-ii-dalston.jpg)
+
+*Mangal II on Stoke Newington Road, run by the sons of the family behind Mangal 1 down the road. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Mangal_II,_Dalston,_N16.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 ### Antepliler, Green Lanes
 
 *££ · Harringay · Cited by 5 sources*
@@ -67,6 +77,10 @@ Joint most-cited Turkish restaurant in London, and the one that has moved furthe
 Joint most-cited, and in Time Out's words synonymous with Turkish cuisine in the capital. From Gaziantep in the south-east, which is why the kebabs and the pistachio work are the things to order.
 
 There is a separate **Antepliler Künefe & Patisserie** further along Green Lanes doing the sweet half of the same tradition — künefe, the shredded-pastry-and-cheese dessert served hot.
+
+![The Antepliler restaurant frontage on Green Lanes in Harringay](../../assets/articles/best-turkish-restaurants-london/antepliler-green-lanes.jpg)
+
+*Antepliler on Green Lanes. The kitchen is from Gaziantep, which is why the kebabs and the pistachio work are what to order. Photo: [Ian S](https://commons.wikimedia.org/wiki/File:Antepliler_Restaurant,_Green_Lanes,_Harringay_-_geograph.org.uk_-_3873218.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Gökyüzü, Green Lanes
 
@@ -91,6 +105,10 @@ An independent Soho restaurant with a Michelin Guide mention, doing modern shari
 ## Green Lanes
 
 Nine of the twenty-seven restaurants here are on or just off this one road. If you make a single trip for Turkish food in London, make it this one — it is the Piccadilly line to Manor House or Turnpike Lane, and the restaurants run for about a mile.
+
+![The frontage of a Turkish ocakbasi restaurant on Stoke Newington High Street](../../assets/articles/best-turkish-restaurants-london/ocakbasi-stoke-newington.jpg)
+
+*An ocakbasi on Stoke Newington High Street. The word means the charcoal grill is the restaurant — sit where you can see it. Photo: [Lucy Fisher](https://commons.wikimedia.org/wiki/File:Super_Ocakbasi_Restaurant,_Efe_Express_Ticaret_(8678907184).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Hala, Green Lanes
 
