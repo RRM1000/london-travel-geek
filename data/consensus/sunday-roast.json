@@ -106,6 +106,217 @@
         "price range",
         "' + p.name + '"
       ]
+    },
+    {
+      "name": "Estrella Damm Top 50 Gastropubs 2026",
+      "url": "https://www.top50gastropubs.com/list/1-50",
+      "scope": "sunday-roast",
+      "names": [
+        "The Devonshire",
+        "The Red Lion and Sun",
+        "Canton Arms",
+        "The Baring",
+        "The Marksman",
+        "The Hero of Maida",
+        "The Kerfield Arms",
+        "The Waterman's Arms",
+        "The Tamil Crown",
+        "Harwood Arms",
+        "The Bull & Last",
+        "The Knave of Clubs",
+        "The French House",
+        "The Camberwell Arms",
+        "The Parakeet",
+        "Anchor & Hope",
+        "The Pelican",
+        "The Drapers Arms",
+        "The Fat Badger",
+        "The Eagle",
+        "The Lady Mildmay",
+        "The Blue Stoops",
+        "Parlour"
+      ],
+      "quotes": {
+        "The Devonshire": "#1 gastropub in the UK, Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast",
+        "The Red Lion and Sun": "#3 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast",
+        "Canton Arms": "#11 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast",
+        "The Baring": "#17 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast",
+        "The Marksman": "#23 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast",
+        "The Hero of Maida": "#24 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast",
+        "The Kerfield Arms": "#25 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast",
+        "The Waterman's Arms": "#33 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast",
+        "The Tamil Crown": "#35 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast",
+        "Harwood Arms": "#36 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast",
+        "The Bull & Last": "#39 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast",
+        "The Knave of Clubs": "#43 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast",
+        "The French House": "#47 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast",
+        "The Camberwell Arms": "#60 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast",
+        "The Parakeet": "#61 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast",
+        "Anchor & Hope": "#64 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast",
+        "The Pelican": "#65 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast",
+        "The Drapers Arms": "#67 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast",
+        "The Fat Badger": "#75 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast",
+        "The Eagle": "#77 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast",
+        "The Lady Mildmay": "#83 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast",
+        "The Blue Stoops": "#88 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast",
+        "Parlour": "#91 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
+      },
+      "recorded": "2026-08-30",
+      "_note": "23 London entries across the ranked 100. Ranks the PUB, not the roast - say so wherever a placement is printed. Also relevant to the historic-pubs topic."
+    },
+    {
+      "name": "Insider Food (YouTube)",
+      "url": "https://www.youtube.com/@InsiderFood",
+      "scope": "sunday-roast",
+      "names": [
+        "Fallow",
+        "The Old Queens Head",
+        "Blacklock",
+        "Rabbit"
+      ],
+      "quotes": {
+        "Fallow": "Opens Harry Kersh and Joe Avella's four-stop roast tour"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Harrison Webb (YouTube)",
+      "url": "https://www.youtube.com/@HarrisonWebb97",
+      "scope": "sunday-roast",
+      "names": [
+        "The Devonshire",
+        "The George",
+        "The Tamil Crown",
+        "CUT at 45 Park Lane",
+        "34 Mayfair",
+        "Roe",
+        "Dinner by Heston Blumenthal",
+        "The Culpeper"
+      ],
+      "quotes": {
+        "The Devonshire": "Opens a two-month, £1,000 survey of London roasts"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Mark Wiens (YouTube)",
+      "url": "https://www.youtube.com/@MarkWiens",
+      "scope": "sunday-roast",
+      "names": [
+        "The Devonshire"
+      ],
+      "quotes": {
+        "The Devonshire": "A full day on both menus - 20,000 pints of Guinness a week, and one of the hardest bookings in the city"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Mark Wiens Abroad (YouTube)",
+      "url": "https://www.youtube.com/@MarkWiensAbroad",
+      "scope": "sunday-roast",
+      "names": [
+        "Blacklock"
+      ],
+      "quotes": {
+        "Blacklock": "The All-In roast at the Shoreditch site, £28 a head"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Gary Eats (YouTube)",
+      "url": "https://www.youtube.com/@GaryEats",
+      "scope": "sunday-roast",
+      "names": [
+        "Blacklock",
+        "Fallow",
+        "Lore of the Land",
+        "Roe",
+        "Harwood Arms"
+      ],
+      "quotes": {
+        "Lore of the Land": "Guy Ritchie's Fitzrovia pub - a nine-month waiting list for the roast",
+        "Harwood Arms": "London's only Michelin-starred pub; £71"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Culture Trip (YouTube)",
+      "url": "https://www.youtube.com/@culturetrip",
+      "scope": "sunday-roast",
+      "names": [
+        "Harwood Arms"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Albertine Sarah (YouTube)",
+      "url": "https://www.youtube.com/@AlbertineSarah",
+      "scope": "sunday-roast",
+      "names": [
+        "Hawksmoor"
+      ],
+      "quotes": {
+        "Hawksmoor": "Reviewed at £29.50 and judged worth it"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Locavore Eats (YouTube)",
+      "url": "https://www.youtube.com/@locavore_eats",
+      "scope": "sunday-roast",
+      "names": [
+        "Blacklock"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Strictly Dumpling (YouTube)",
+      "url": "https://www.youtube.com/@strictlydumplingshorts",
+      "scope": "sunday-roast",
+      "names": [
+        "KöD Soho"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "YuYuSenpai (YouTube)",
+      "url": "https://www.youtube.com/@YuYuSenPai_YuH",
+      "scope": "sunday-roast",
+      "names": [
+        "Blacklock"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Eating With Tod (YouTube)",
+      "url": "https://www.youtube.com/@eatingwithtod",
+      "scope": "sunday-roast",
+      "names": [
+        "The Devonshire"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "DW Food (YouTube)",
+      "url": "https://www.youtube.com/@DWFood",
+      "scope": "sunday-roast",
+      "names": [
+        "Clapton Country Club"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "r/london (Sunday roast threads)",
+      "url": "https://www.reddit.com/r/london/",
+      "scope": "sunday-roast",
+      "names": [
+        "The Gun"
+      ],
+      "quotes": {
+        "The Gun": "Named in an r/london thread as the roast worth having near Canary Wharf"
+      },
+      "recorded": "2026-08-30",
+      "_note": "Counted per thread, never per comment. Reddit's yield for 'best X' is low - these are questions with scattered answers rather than lists."
     }
   ]
 }

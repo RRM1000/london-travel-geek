@@ -8787,8 +8787,8 @@
       "steak",
       "sunday-roast"
     ],
-    "sourceCount": 9,
-    "tierSpread": "A1 B4 C2 D2",
+    "sourceCount": 10,
+    "tierSpread": "A1 B4 C2 D3",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -8817,9 +8817,9 @@
         "hasAward": true
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -8869,6 +8869,12 @@
         "tier": "D",
         "source": "Gary Eats (YouTube)",
         "url": "https://www.youtube.com/@GaryEats"
+      },
+      {
+        "tier": "D",
+        "source": "Albertine Sarah (YouTube)",
+        "url": "https://www.youtube.com/@AlbertineSarah",
+        "quote": "Reviewed at £29.50 and judged worth it"
       }
     ]
   },
@@ -20252,10 +20258,10 @@
       "british",
       "sunday-roast"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B2",
+    "tierCount": 2,
+    "hasAward": true,
     "byTopic": {
       "bars": {
         "sourceCount": 1,
@@ -20270,13 +20276,19 @@
         "hasAward": false
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#67 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -23740,16 +23752,23 @@
   "roe": {
     "name": "Roe",
     "topics": [
-      "breakfast-brunch"
+      "breakfast-brunch",
+      "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "C1 D2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "breakfast-brunch": {
         "sourceCount": 1,
         "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 2,
+        "tierSpread": "D2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -23759,6 +23778,16 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats"
       }
     ]
   },
@@ -24842,22 +24871,23 @@
       "british",
       "burgers",
       "general",
-      "steak"
+      "steak",
+      "sunday-roast"
     ],
-    "sourceCount": 7,
-    "tierSpread": "B3 C1 D3",
+    "sourceCount": 15,
+    "tierSpread": "B6 C1 D8",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       },
       "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 3,
+        "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
       },
@@ -24868,13 +24898,34 @@
         "hasAward": false
       },
       "steak": {
-        "sourceCount": 4,
-        "tierSpread": "B2 D2",
+        "sourceCount": 6,
+        "tierSpread": "B4 D2",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 5,
+        "tierSpread": "D5",
+        "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-british-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/perfect-for/sunday-roast"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-burger-restaurants-1"
+      },
       {
         "tier": "B",
         "source": "Mob",
@@ -24910,6 +24961,32 @@
         "source": "More Fallow (YouTube)",
         "url": "https://www.youtube.com/@MoreFallow",
         "quote": "Chefs review the Canary Wharf site - 'probably the best steakhouse in the UK'"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood"
+      },
+      {
+        "tier": "D",
+        "source": "Mark Wiens Abroad (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiensAbroad",
+        "quote": "The All-In roast at the Shoreditch site, £28 a head"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats"
+      },
+      {
+        "tier": "D",
+        "source": "Locavore Eats (YouTube)",
+        "url": "https://www.youtube.com/@locavore_eats"
+      },
+      {
+        "tier": "D",
+        "source": "YuYuSenpai (YouTube)",
+        "url": "https://www.youtube.com/@YuYuSenPai_YuH"
       }
     ]
   },
@@ -24963,21 +25040,34 @@
   "harwoodarms": {
     "name": "The Harwood Arms",
     "topics": [
-      "british"
+      "british",
+      "sunday-roast"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 6,
+    "tierSpread": "A1 B1 C2 D2",
+    "tierCount": 4,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 3,
         "tierSpread": "B1 C2",
         "tierCount": 2,
         "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 3,
+        "tierSpread": "A1 D2",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#36 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast"
+      },
       {
         "tier": "B",
         "source": "The Infatuation",
@@ -24992,6 +25082,17 @@
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats",
+        "quote": "London's only Michelin-starred pub; £71"
+      },
+      {
+        "tier": "D",
+        "source": "Culture Trip (YouTube)",
+        "url": "https://www.youtube.com/@culturetrip"
       }
     ]
   },
@@ -25115,8 +25216,8 @@
       "steak",
       "sunday-roast"
     ],
-    "sourceCount": 7,
-    "tierSpread": "A2 B2 C2 D1",
+    "sourceCount": 10,
+    "tierSpread": "A2 B2 C2 D4",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -25139,16 +25240,16 @@
         "hasAward": true
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 5,
+        "tierSpread": "A1 B1 D3",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
       {
         "tier": "A",
-        "source": "Top 50 Gastropubs",
+        "source": "Estrella Damm Top 50 Gastropubs",
         "url": "https://www.top50gastropubs.com/"
       },
       {
@@ -25181,6 +25282,23 @@
         "tier": "D",
         "source": "Sorted Food (YouTube)",
         "url": "https://www.youtube.com/@SortedFood"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97",
+        "quote": "Opens a two-month, £1,000 survey of London roasts"
+      },
+      {
+        "tier": "D",
+        "source": "Mark Wiens (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiens",
+        "quote": "A full day on both menus - 20,000 pints of Guinness a week, and one of the hardest bookings in the city"
+      },
+      {
+        "tier": "D",
+        "source": "Eating With Tod (YouTube)",
+        "url": "https://www.youtube.com/@eatingwithtod"
       }
     ]
   },
@@ -25656,10 +25774,10 @@
       "british",
       "sunday-roast"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 2,
@@ -25668,13 +25786,19 @@
         "hasAward": false
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#23 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast"
+      },
       {
         "tier": "B",
         "source": "The Infatuation",
@@ -26017,31 +26141,6 @@
       }
     ]
   },
-  "blacklockcity": {
-    "name": "Blacklock City",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-british-restaurants-london"
-      }
-    ]
-  },
   "billingsgatemarketcafe": {
     "name": "Billingsgate Market Cafe",
     "topics": [
@@ -26070,16 +26169,23 @@
   "dinnerbyhestonblumenthal": {
     "name": "Dinner by Heston Blumenthal",
     "topics": [
-      "british"
+      "british",
+      "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "british": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -26089,6 +26195,11 @@
         "tier": "B",
         "source": "Eater London",
         "url": "https://london.eater.com/maps/best-british-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
       }
     ]
   },
@@ -26098,10 +26209,10 @@
       "british",
       "sunday-roast"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 2,
@@ -26110,13 +26221,19 @@
         "hasAward": false
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#11 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast"
+      },
       {
         "tier": "B",
         "source": "Eater London",
@@ -27532,31 +27649,6 @@
       }
     ]
   },
-  "blacklockcanarywharf": {
-    "name": "Blacklock Canary Wharf",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/perfect-for/sunday-roast"
-      }
-    ]
-  },
   "goodreader": {
     "name": "The Good Reader",
     "topics": [
@@ -27588,10 +27680,10 @@
       "british",
       "sunday-roast"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 2,
@@ -27600,13 +27692,19 @@
         "hasAward": false
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#39 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast"
+      },
       {
         "tier": "B",
         "source": "The Infatuation",
@@ -27662,16 +27760,16 @@
         "hasAward": true
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
       {
         "tier": "A",
-        "source": "Top 50 Gastropubs",
+        "source": "Estrella Damm Top 50 Gastropubs",
         "url": "https://www.top50gastropubs.com/"
       },
       {
@@ -27747,10 +27845,10 @@
       "british",
       "sunday-roast"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 2,
@@ -27759,13 +27857,19 @@
         "hasAward": false
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#33 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast"
+      },
       {
         "tier": "B",
         "source": "The Infatuation",
@@ -27810,9 +27914,9 @@
       "indian",
       "sunday-roast"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B1 C1",
-    "tierCount": 3,
+    "sourceCount": 5,
+    "tierSpread": "A2 B1 C1 D1",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "british": {
@@ -27828,10 +27932,10 @@
         "hasAward": true
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 D1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
@@ -27839,6 +27943,12 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#35 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast"
       },
       {
         "tier": "B",
@@ -27849,6 +27959,11 @@
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/2026012714793/Gastroblog/Latest-news/uk-top-50-gastrpoubs-announced-london-devonshire"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
       }
     ]
   },
@@ -28564,7 +28679,7 @@
     "sources": [
       {
         "tier": "A",
-        "source": "Top 50 Gastropubs",
+        "source": "Estrella Damm Top 50 Gastropubs",
         "url": "https://www.top50gastropubs.com/"
       },
       {
@@ -28594,7 +28709,7 @@
     "sources": [
       {
         "tier": "A",
-        "source": "Top 50 Gastropubs",
+        "source": "Estrella Damm Top 50 Gastropubs",
         "url": "https://www.top50gastropubs.com/"
       },
       {
@@ -28897,10 +29012,10 @@
       "british",
       "sunday-roast"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 1,
@@ -28909,13 +29024,19 @@
         "hasAward": false
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#17 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast"
+      },
       {
         "tier": "B",
         "source": "The Infatuation",
@@ -29082,12 +29203,13 @@
     "name": "The Kerfield Arms",
     "topics": [
       "british",
-      "general"
+      "general",
+      "sunday-roast"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 1,
@@ -29100,9 +29222,21 @@
         "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#25 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast"
+      },
       {
         "tier": "B",
         "source": "DesignMyNight",
@@ -29473,12 +29607,13 @@
     "name": "The Knave of Clubs",
     "topics": [
       "british",
-      "general"
+      "general",
+      "sunday-roast"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 1,
@@ -29491,9 +29626,21 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#43 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast"
+      },
       {
         "tier": "B",
         "source": "SquareMeal",
@@ -29586,10 +29733,11 @@
     "topics": [
       "british",
       "french",
-      "general"
+      "general",
+      "sunday-roast"
     ],
-    "sourceCount": 4,
-    "tierSpread": "A1 B2 C1",
+    "sourceCount": 5,
+    "tierSpread": "A2 B2 C1",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -29610,6 +29758,12 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
       }
     },
     "sources": [
@@ -29617,6 +29771,12 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#47 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast"
       },
       {
         "tier": "B",
@@ -32468,10 +32628,11 @@
     "name": "Fallow",
     "topics": [
       "british",
-      "general"
+      "general",
+      "sunday-roast"
     ],
-    "sourceCount": 6,
-    "tierSpread": "A1 B2 C2 D1",
+    "sourceCount": 8,
+    "tierSpread": "A1 B2 C2 D3",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -32485,6 +32646,12 @@
         "sourceCount": 3,
         "tierSpread": "B2 D1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 2,
+        "tierSpread": "D2",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -32518,6 +32685,17 @@
         "tier": "D",
         "source": "Strictly Dumpling (YouTube)",
         "url": "https://www.youtube.com/@strictlydumpling"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood",
+        "quote": "Opens Harry Kersh and Joe Avella's four-stop roast tour"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats"
       }
     ]
   },
@@ -36080,9 +36258,9 @@
       "general",
       "seafood"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B3 C1",
-    "tierCount": 2,
+    "sourceCount": 5,
+    "tierSpread": "B3 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -36098,9 +36276,9 @@
         "hasAward": false
       },
       "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -36124,6 +36302,11 @@
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/2026060915117/Gastroblog/Latest-news/national-restaurant-awards-revealed-2026-bouchon-racine-number-one"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
       }
     ]
   },
@@ -39374,12 +39557,13 @@
     "name": "The Fat Badger",
     "topics": [
       "british",
-      "general"
+      "general",
+      "sunday-roast"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 1,
@@ -39392,9 +39576,21 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#75 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
+      },
       {
         "tier": "B",
         "source": "DesignMyNight",
@@ -40735,7 +40931,7 @@
     "sources": [
       {
         "tier": "A",
-        "source": "Top 50 Gastropubs",
+        "source": "Estrella Damm Top 50 Gastropubs",
         "url": "https://www.top50gastropubs.com/"
       },
       {
@@ -40765,7 +40961,7 @@
     "sources": [
       {
         "tier": "A",
-        "source": "Top 50 Gastropubs",
+        "source": "Estrella Damm Top 50 Gastropubs",
         "url": "https://www.top50gastropubs.com/"
       }
     ]
@@ -47826,43 +48022,6 @@
       }
     ]
   },
-  "blacklockshoreditch": {
-    "name": "Blacklock Shoreditch",
-    "topics": [
-      "burgers",
-      "steak"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-burger-restaurants-1"
-      },
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-burgers-london"
-      }
-    ]
-  },
   "honestburgers": {
     "name": "Honest Burgers",
     "topics": [
@@ -49334,9 +49493,9 @@
       "cheap-eats",
       "seafood"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
+    "sourceCount": 3,
+    "tierSpread": "B1 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "cheap-eats": {
@@ -49346,9 +49505,9 @@
         "hasAward": false
       },
       "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -49362,6 +49521,12 @@
         "tier": "C",
         "source": "BudgetTraveller",
         "url": "https://budgettraveller.org/best-cheap-eats-london-guide/"
+      },
+      {
+        "tier": "D",
+        "source": "Bitesize Reviews (YouTube)",
+        "url": "https://www.youtube.com/@BitesizeReviews",
+        "quote": "Wild rather than farmed, from his own patch of seabed, at Borough Market"
       }
     ]
   },
@@ -70154,8 +70319,8 @@
       "historic-pubs",
       "sunday-roast"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C2 D1",
+    "sourceCount": 5,
+    "tierSpread": "B1 C2 D2",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -70172,9 +70337,9 @@
         "hasAward": false
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -70199,6 +70364,11 @@
         "source": "Mark Wiens (YouTube)",
         "url": "https://www.youtube.com/@MarkWiens",
         "quote": "best pub"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
       }
     ]
   },
@@ -84282,10 +84452,10 @@
       "general",
       "sunday-roast"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B2",
+    "tierCount": 2,
+    "hasAward": true,
     "byTopic": {
       "general": {
         "sourceCount": 1,
@@ -84294,13 +84464,19 @@
         "hasAward": false
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#61 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
+      },
       {
         "tier": "B",
         "source": "SquareMeal",
@@ -85380,9 +85556,9 @@
         "hasAward": false
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -86048,8 +86224,8 @@
       "general",
       "seafood"
     ],
-    "sourceCount": 5,
-    "tierSpread": "A1 B3 D1",
+    "sourceCount": 6,
+    "tierSpread": "A1 B3 D2",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -86060,9 +86236,9 @@
         "hasAward": false
       },
       "seafood": {
-        "sourceCount": 4,
-        "tierSpread": "A1 B3",
-        "tierCount": 2,
+        "sourceCount": 5,
+        "tierSpread": "A1 B3 D1",
+        "tierCount": 3,
         "hasAward": true
       }
     },
@@ -86091,6 +86267,12 @@
         "tier": "D",
         "source": "Mark Wiens (YouTube)",
         "url": "https://www.youtube.com/@MarkWiens"
+      },
+      {
+        "tier": "D",
+        "source": "Ten Lifestyle Group (YouTube)",
+        "url": "https://www.youtube.com/@TenLifestyleGroup",
+        "quote": "Richard Corrigan on sourcing straight from farms and trawlers"
       }
     ]
   },
@@ -130580,15 +130762,15 @@
     "topics": [
       "seafood"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B4",
-    "tierCount": 1,
+    "sourceCount": 6,
+    "tierSpread": "B4 D2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "seafood": {
-        "sourceCount": 4,
-        "tierSpread": "B4",
-        "tierCount": 1,
+        "sourceCount": 6,
+        "tierSpread": "B4 D2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -130612,6 +130794,17 @@
         "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "Shiran de Silva (YouTube)",
+        "url": "https://www.youtube.com/@shirandesilva68",
+        "quote": "Serving fish and seasonal game since the 1890s; built for pre- and post-theatre"
       }
     ]
   },
@@ -130810,15 +131003,15 @@
     "topics": [
       "seafood"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 D2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "seafood": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "B2 D2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -130832,6 +131025,16 @@
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/london-seafood-restaurants/"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "Wombat Wombaffle (YouTube)",
+        "url": "https://www.youtube.com/@wombatwombaffle"
       }
     ]
   },
@@ -130840,15 +131043,15 @@
     "topics": [
       "seafood"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "seafood": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -130862,6 +131065,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
       }
     ]
   },
@@ -132261,6 +132469,134 @@
         "tier": "C",
         "source": "Restaurants for Kings",
         "url": "https://restaurantsforkings.com/blog/best-seafood-restaurants-london-2026"
+      }
+    ]
+  },
+  "hassanmoroccanfish": {
+    "name": "Hassan Moroccan Fish",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97",
+        "quote": "The Golborne Road hidden gem in a line-up otherwise made of Mayfair institutions"
+      }
+    ]
+  },
+  "kerridgesfishandchips": {
+    "name": "Kerridge's Fish and Chips",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Ten Lifestyle Group (YouTube)",
+        "url": "https://www.youtube.com/@TenLifestyleGroup"
+      }
+    ]
+  },
+  "decatur": {
+    "name": "Decatur",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/",
+        "quote": "Named repeatedly in an r/london seafood-boil thread"
+      }
+    ]
+  },
+  "fishbowl": {
+    "name": "The Fishbowl",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/"
+      }
+    ]
+  },
+  "stevehatt": {
+    "name": "Steve Hatt",
+    "topics": [
+      "seafood"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/",
+        "quote": "A fishmonger rather than a restaurant - 'one of the best in London'"
       }
     ]
   },
@@ -134943,31 +135279,6 @@
       }
     ]
   },
-  "blacklocksoho": {
-    "name": "Blacklock Soho",
-    "topics": [
-      "steak"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-steak-restaurants-london"
-      }
-    ]
-  },
   "sagardi": {
     "name": "Sagardi",
     "topics": [
@@ -135287,19 +135598,25 @@
     "topics": [
       "sunday-roast"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 4,
+    "tierSpread": "A1 B3",
+    "tierCount": 2,
+    "hasAward": true,
     "byTopic": {
       "sunday-roast": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 4,
+        "tierSpread": "A1 B3",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#60 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -135522,15 +135839,15 @@
     "topics": [
       "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -135539,6 +135856,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "D",
+        "source": "DW Food (YouTube)",
+        "url": "https://www.youtube.com/@DWFood"
       }
     ]
   },
@@ -135794,6 +136116,365 @@
         "tier": "C",
         "source": "Pub Guide London",
         "url": "https://pubguidelondon.com/best-sunday-roasts.html"
+      }
+    ]
+  },
+  "heroofmaida": {
+    "name": "The Hero of Maida",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#24 in the Estrella Damm Top 50 Gastropubs 2026 - a ranking of the pub, not specifically its roast"
+      }
+    ]
+  },
+  "anchorandhope": {
+    "name": "Anchor & Hope",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#64 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
+      }
+    ]
+  },
+  "pelican": {
+    "name": "The Pelican",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#65 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
+      }
+    ]
+  },
+  "eagle": {
+    "name": "The Eagle",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#77 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
+      }
+    ]
+  },
+  "ladymildmay": {
+    "name": "The Lady Mildmay",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#83 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
+      }
+    ]
+  },
+  "bluestoops": {
+    "name": "The Blue Stoops",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#88 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
+      }
+    ]
+  },
+  "parlour": {
+    "name": "Parlour",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#91 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
+      }
+    ]
+  },
+  "oldqueenshead": {
+    "name": "The Old Queens Head",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood"
+      }
+    ]
+  },
+  "rabbit": {
+    "name": "Rabbit",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood"
+      }
+    ]
+  },
+  "34mayfair": {
+    "name": "34 Mayfair",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "culpeper": {
+    "name": "The Culpeper",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "loreoftheland": {
+    "name": "Lore of the Land",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats",
+        "quote": "Guy Ritchie's Fitzrovia pub - a nine-month waiting list for the roast"
+      }
+    ]
+  },
+  "kodsoho": {
+    "name": "KöD Soho",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Strictly Dumpling (YouTube)",
+        "url": "https://www.youtube.com/@strictlydumplingshorts"
+      }
+    ]
+  },
+  "gun": {
+    "name": "The Gun",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/",
+        "quote": "Named in an r/london thread as the roast worth having near Canary Wharf"
       }
     ]
   },

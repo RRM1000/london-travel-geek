@@ -198,7 +198,86 @@
         "Outlaw's at the Capital",
         "Bob Bob Ricard's caviar service"
       ]
+    },
+    {
+      "name": "Harrison Webb (YouTube)",
+      "url": "https://www.youtube.com/@HarrisonWebb97",
+      "scope": "seafood",
+      "names": [
+        "J Sheekey",
+        "Hassan Moroccan Fish",
+        "Lilibet's",
+        "Scott's",
+        "Wiltons"
+      ],
+      "quotes": {
+        "Hassan Moroccan Fish": "The Golborne Road hidden gem in a line-up otherwise made of Mayfair institutions"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Ten Lifestyle Group (YouTube)",
+      "url": "https://www.youtube.com/@TenLifestyleGroup",
+      "scope": "seafood",
+      "names": [
+        "Bentley's Oyster Bar & Grill",
+        "Kerridge's Fish and Chips"
+      ],
+      "quotes": {
+        "Bentley's Oyster Bar & Grill": "Richard Corrigan on sourcing straight from farms and trawlers"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Wombat Wombaffle (YouTube)",
+      "url": "https://www.youtube.com/@wombatwombaffle",
+      "scope": "seafood",
+      "names": [
+        "Scott's"
+      ],
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Shiran de Silva (YouTube)",
+      "url": "https://www.youtube.com/@shirandesilva68",
+      "scope": "seafood",
+      "names": [
+        "J Sheekey"
+      ],
+      "quotes": {
+        "J Sheekey": "Serving fish and seasonal game since the 1890s; built for pre- and post-theatre"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "Bitesize Reviews (YouTube)",
+      "url": "https://www.youtube.com/@BitesizeReviews",
+      "scope": "seafood",
+      "names": [
+        "Richard Haward's Oysters"
+      ],
+      "quotes": {
+        "Richard Haward's Oysters": "Wild rather than farmed, from his own patch of seabed, at Borough Market"
+      },
+      "recorded": "2026-08-30"
+    },
+    {
+      "name": "r/london (seafood threads)",
+      "url": "https://www.reddit.com/r/london/",
+      "scope": "seafood",
+      "names": [
+        "Decatur",
+        "The Fishbowl",
+        "Steve Hatt"
+      ],
+      "quotes": {
+        "Decatur": "Named repeatedly in an r/london seafood-boil thread",
+        "Steve Hatt": "A fishmonger rather than a restaurant - 'one of the best in London'"
+      },
+      "recorded": "2026-08-30",
+      "_note": "Counted per thread, never per comment. The r/london seafood threads are mostly about buying at Billingsgate rather than about restaurants, so the yield is small."
     }
   ],
-  "recorded": "2026-08-26"
+  "recorded": "2026-08-26",
+  "_excludedVenueOwnChannels": "@randallandaubin and @FallowChefs are the venues' own YouTube channels - tier F, excluded at collection."
 }

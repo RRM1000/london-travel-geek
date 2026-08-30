@@ -118,8 +118,9 @@
       "name": "The World's 50 Best"
     },
     "top50gastropubs.com": {
+      "name": "Estrella Damm Top 50 Gastropubs",
       "tier": "A",
-      "name": "Top 50 Gastropubs"
+      "note": "Annual ranked list with a year on it, published by William Reed. Ranks gastropubs overall, not any single dish."
     },
     "asiancurryawards.com": {
       "tier": "A",
@@ -1113,6 +1114,46 @@
       "name": "World's 101 Best Steak Restaurants",
       "tier": "A",
       "note": "Annual ranked list of 101 restaurants with a year on it, running since 2019. Judged and dated, so tier A."
+    },
+    "youtube.com/@culturetrip": {
+      "name": "Culture Trip (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@AlbertineSarah": {
+      "name": "Albertine Sarah (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@locavore_eats": {
+      "name": "Locavore Eats (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@strictlydumplingshorts": {
+      "name": "Strictly Dumpling (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@YuYuSenPai_YuH": {
+      "name": "YuYuSenpai (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@DWFood": {
+      "name": "DW Food (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@TenLifestyleGroup": {
+      "name": "Ten Lifestyle Group (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@wombatwombaffle": {
+      "name": "Wombat Wombaffle (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@shirandesilva68": {
+      "name": "Shiran de Silva (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@BitesizeReviews": {
+      "name": "Bitesize Reviews (YouTube)",
+      "tier": "D"
     }
   }
 }
