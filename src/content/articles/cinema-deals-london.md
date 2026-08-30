@@ -71,13 +71,12 @@ It is accepted at essentially every chain in the country and is chronically unde
 
 **The under-25 schemes are the largest discounts in London cinema, and every one of them is free to join.** No paid membership beats them.
 
-| Scheme | Cost to join | What you pay | When |
-| --- | --- | --- | --- |
-| **BFI 25 & Under** | Free, ages 16–25 | **£4** at BFI Southbank | Any time |
-| **BFI 25 & Under** | Free, ages 16–25 | £6 at BFI festivals | Including the London Film Festival |
-| **Picturehouse U25** | Free, ages 16–25 | **£5.99** | All day Monday to Thursday |
-| **Curzon Under 25** | Free | Discounted tickets | All week |
-| **ODEON myLIMITLESS Plus** | Student rate | **£15.99/month** | Via Student Beans, 20% off |
+| Scheme | Cost to join | What you pay |
+| --- | --- | --- |
+| **BFI 25 & Under** | Free, ages 16–25 | **£4** at BFI Southbank any time, or **£6** at BFI festivals including the London Film Festival |
+| **Picturehouse U25** | Free, ages 16–25 | **£5.99** all day Monday to Thursday |
+| **Curzon Under 25** | Free | Discounted tickets all week |
+| **ODEON myLIMITLESS Plus** | Student rate | **£15.99/month** — 20% off the usual price, verified through Student Beans |
 
 BFI at £4 is the strongest of these — a full repertory programme, no day-of-week restriction. Picturehouse U25 at £5.99 covers most of the week at cinemas that would otherwise charge two or three times that.
 
