@@ -11625,19 +11625,13 @@
     "topics": [
       "bars",
       "coffee",
-      "fish-and-chips",
-      "indian"
+      "fish-and-chips"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C3",
-    "tierCount": 2,
+    "sourceCount": 3,
+    "tierSpread": "C3",
+    "tierCount": 1,
     "hasAward": false,
     "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      },
       {
         "tier": "C",
         "source": "Best Cocktails Guide",
@@ -13940,13 +13934,26 @@
     "topics": [
       "breakfast-brunch",
       "british",
+      "cheap-eats",
+      "general",
       "indian"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B3 C2",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 10,
+    "tierSpread": "A2 B3 C4 D1",
+    "tierCount": 4,
+    "hasAward": true,
     "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Covent Garden)"
+      },
       {
         "tier": "B",
         "source": "LuxLife",
@@ -13964,13 +13971,28 @@
       },
       {
         "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
+      },
+      {
+        "tier": "C",
         "source": "British Food Crew",
         "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
       },
       {
         "tier": "C",
+        "source": "London Best",
+        "url": "https://londonbest.uk/cheap-indian-food/"
+      },
+      {
+        "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Claudia Romeo (YouTube)",
+        "url": "https://www.youtube.com/@claudia-romeo"
       }
     ]
   },
@@ -14892,41 +14914,6 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
-      }
-    ]
-  },
-  "dishoomshoreditch": {
-    "name": "Dishoom Shoreditch",
-    "topics": [
-      "breakfast-brunch",
-      "cheap-eats",
-      "general",
-      "indian"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "A1 C2 D1",
-    "tierCount": 3,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
-      },
-      {
-        "tier": "C",
-        "source": "London Best",
-        "url": "https://londonbest.uk/cheap-indian-food/"
-      },
-      {
-        "tier": "D",
-        "source": "Claudia Romeo (YouTube)",
-        "url": "https://www.youtube.com/@claudia-romeo"
       }
     ]
   },
@@ -21507,24 +21494,6 @@
       }
     ]
   },
-  "dishoomcoventgarden": {
-    "name": "Dishoom Covent Garden",
-    "topics": [
-      "british",
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
-      }
-    ]
-  },
   "barleymow": {
     "name": "The Barley Mow",
     "topics": [
@@ -23782,7 +23751,6 @@
       "fish-and-chips",
       "french",
       "general",
-      "indian",
       "italian",
       "japanese",
       "middle-eastern",
@@ -23814,7 +23782,6 @@
       "fish-and-chips",
       "french",
       "general",
-      "indian",
       "italian",
       "japanese",
       "middle-eastern",
@@ -23863,7 +23830,6 @@
       "fish-and-chips",
       "french",
       "general",
-      "indian",
       "italian",
       "japanese",
       "middle-eastern",
@@ -23895,7 +23861,6 @@
       "fish-and-chips",
       "french",
       "general",
-      "indian",
       "italian",
       "japanese",
       "middle-eastern",
@@ -23927,7 +23892,6 @@
       "fish-and-chips",
       "french",
       "general",
-      "indian",
       "italian",
       "japanese",
       "middle-eastern",
@@ -24038,7 +24002,6 @@
       "fish-and-chips",
       "french",
       "general",
-      "indian",
       "italian",
       "japanese",
       "middle-eastern",
@@ -24101,7 +24064,6 @@
       "fish-and-chips",
       "french",
       "general",
-      "indian",
       "italian",
       "japanese",
       "middle-eastern",
@@ -26667,11 +26629,17 @@
       "general",
       "indian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
     "sources": [
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Stoke Newington)"
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -35181,7 +35149,6 @@
     "topics": [
       "chinese",
       "general",
-      "indian",
       "italian"
     ],
     "sourceCount": 1,
@@ -35201,7 +35168,6 @@
     "topics": [
       "chinese",
       "general",
-      "indian",
       "italian"
     ],
     "sourceCount": 1,
@@ -37503,24 +37469,13 @@
     "topics": [
       "cinemas",
       "historic-pubs",
-      "indian",
       "japanese"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B2 C3",
-    "tierCount": 2,
+    "sourceCount": 3,
+    "tierSpread": "C3",
+    "tierCount": 1,
     "hasAward": false,
     "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      },
-      {
-        "tier": "B",
-        "source": "Kilburn Times",
-        "url": "https://www.kilburntimes.co.uk/news/23936025.full-list-london-winners-asian-curry-awards/"
-      },
       {
         "tier": "C",
         "source": "Mayor of London",
@@ -37559,11 +37514,10 @@
     "name": "Fashion",
     "topics": [
       "cinemas",
-      "indian",
       "middle-eastern"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -37571,11 +37525,6 @@
         "tier": "C",
         "source": "Hunger Magazine",
         "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
-      },
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
       },
       {
         "tier": "C",
@@ -50692,8 +50641,8 @@
       "general",
       "indian"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B1 C1",
+    "sourceCount": 5,
+    "tierSpread": "A3 B1 C1",
     "tierCount": 3,
     "hasAward": true,
     "sources": [
@@ -50701,6 +50650,18 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "2 Michelin stars in the 2026 guide - second star gained in 2024"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "London Icon 2025 - one of six - British Indian Good Food Guide (Mayfair)"
       },
       {
         "tier": "B",
@@ -53923,11 +53884,17 @@
       "general",
       "indian"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B2",
+    "tierCount": 2,
+    "hasAward": true,
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide - new entry for 2026"
+      },
       {
         "tier": "B",
         "source": "DesignMyNight",
@@ -54804,14 +54771,14 @@
       }
     ]
   },
-  "tamilakingscross": {
-    "name": "Tamila King's Cross",
+  "tamila": {
+    "name": "Tamila",
     "topics": [
       "general",
       "indian"
     ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
+    "sourceCount": 3,
+    "tierSpread": "A1 B2",
     "tierCount": 2,
     "hasAward": true,
     "sources": [
@@ -54824,6 +54791,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-indian-restaurants"
       }
     ]
   },
@@ -54850,11 +54822,17 @@
       "general",
       "indian"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "sources": [
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "London Icon 2025 - one of six - British Indian Good Food Guide (Westminster)"
+      },
       {
         "tier": "B",
         "source": "SquareMeal",
@@ -57261,11 +57239,16 @@
       "general",
       "indian"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
       {
         "tier": "B",
         "source": "Olive Magazine",
@@ -57295,14 +57278,14 @@
       }
     ]
   },
-  "gunpowderspitalfields": {
-    "name": "Gunpowder Spitalfields",
+  "gunpowder": {
+    "name": "Gunpowder",
     "topics": [
       "general",
       "indian"
     ],
-    "sourceCount": 2,
-    "tierSpread": "A1 C1",
+    "sourceCount": 3,
+    "tierSpread": "A2 C1",
     "tierCount": 2,
     "hasAward": true,
     "sources": [
@@ -57310,6 +57293,12 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Spitalfields)"
       },
       {
         "tier": "C",
@@ -61317,24 +61306,13 @@
     "name": "Sport",
     "topics": [
       "historic-pubs",
-      "indian",
       "vegan"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B3 C1",
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      },
-      {
-        "tier": "B",
-        "source": "Kilburn Times",
-        "url": "https://www.kilburntimes.co.uk/news/23936025.full-list-london-winners-asian-curry-awards/"
-      },
       {
         "tier": "B",
         "source": "Tempus Magazine",
@@ -61367,19 +61345,13 @@
   "crime": {
     "name": "Crime",
     "topics": [
-      "historic-pubs",
-      "indian"
+      "historic-pubs"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
     "hasAward": false,
     "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      },
       {
         "tier": "C",
         "source": "London Now",
@@ -62355,8 +62327,8 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
+    "sourceCount": 3,
+    "tierSpread": "A3",
     "tierCount": 1,
     "hasAward": true,
     "sources": [
@@ -62364,6 +62336,18 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Belgravia)"
       }
     ]
   },
@@ -62372,8 +62356,8 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
+    "sourceCount": 3,
+    "tierSpread": "A2 B1",
     "tierCount": 2,
     "hasAward": true,
     "sources": [
@@ -62381,6 +62365,12 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Forest Hill)"
       },
       {
         "tier": "B",
@@ -62411,40 +62401,6 @@
       }
     ]
   },
-  "dishoomkensington": {
-    "name": "Dishoom Kensington",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
-      }
-    ]
-  },
-  "dishoomkingscross": {
-    "name": "Dishoom King's Cross",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
-      }
-    ]
-  },
   "empireempire": {
     "name": "Empire Empire",
     "topics": [
@@ -62467,30 +62423,13 @@
       }
     ]
   },
-  "gunpowdersoho": {
-    "name": "Gunpowder Soho",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
-      }
-    ]
-  },
   "jamavar": {
     "name": "Jamavar",
     "topics": [
       "indian"
     ],
-    "sourceCount": 4,
-    "tierSpread": "A1 B2 C1",
+    "sourceCount": 6,
+    "tierSpread": "A3 B2 C1",
     "tierCount": 3,
     "hasAward": true,
     "sources": [
@@ -62498,6 +62437,18 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "London Icon 2025 - one of six - British Indian Good Food Guide (Mayfair)"
       },
       {
         "tier": "B",
@@ -62538,8 +62489,8 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
+    "sourceCount": 2,
+    "tierSpread": "A2",
     "tierCount": 1,
     "hasAward": true,
     "sources": [
@@ -62547,6 +62498,12 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Chelsea)"
       }
     ]
   },
@@ -62556,7 +62513,7 @@
       "indian"
     ],
     "sourceCount": 3,
-    "tierSpread": "A1 B2",
+    "tierSpread": "A2 B1",
     "tierCount": 2,
     "hasAward": true,
     "sources": [
@@ -62566,14 +62523,15 @@
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
       },
       {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Mayfair)"
       },
       {
         "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
       }
     ]
   },
@@ -62582,8 +62540,8 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B2",
+    "sourceCount": 4,
+    "tierSpread": "A2 B2",
     "tierCount": 2,
     "hasAward": true,
     "sources": [
@@ -62591,6 +62549,12 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Chelsea)"
       },
       {
         "tier": "B",
@@ -62604,71 +62568,25 @@
       }
     ]
   },
-  "masalazonepiccadillycircus": {
-    "name": "Masala Zone Piccadilly Circus",
+  "masalazone": {
+    "name": "Masala Zone",
     "topics": [
       "indian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
     "hasAward": true,
     "sources": [
       {
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
-      }
-    ]
-  },
-  "masalazonesoho": {
-    "name": "Masala Zone Soho",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
+      },
       {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
-      }
-    ]
-  },
-  "pahlihillbandrabhai": {
-    "name": "Pahli Hill Bandra Bhai",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
-      }
-    ]
-  },
-  "tamilaclapham": {
-    "name": "Tamila Clapham",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
       }
     ]
   },
@@ -62677,8 +62595,8 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 6,
-    "tierSpread": "A1 B4 C1",
+    "sourceCount": 8,
+    "tierSpread": "A3 B4 C1",
     "tierCount": 3,
     "hasAward": true,
     "sources": [
@@ -62686,6 +62604,18 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Marylebone)"
       },
       {
         "tier": "B",
@@ -62741,8 +62671,8 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B1 C1",
+    "sourceCount": 5,
+    "tierSpread": "A3 B1 C1",
     "tierCount": 3,
     "hasAward": true,
     "sources": [
@@ -62750,6 +62680,18 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "London Icon 2025 - one of six - British Indian Good Food Guide (Regent Street)"
       },
       {
         "tier": "B",
@@ -62786,11 +62728,17 @@
       "indian",
       "new-openings"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "sources": [
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Soho)"
+      },
       {
         "tier": "B",
         "source": "Olive Magazine",
@@ -62809,11 +62757,17 @@
       "indian",
       "turkish"
     ],
-    "sourceCount": 6,
-    "tierSpread": "A1 B4 C1",
+    "sourceCount": 7,
+    "tierSpread": "A2 B4 C1",
     "tierCount": 3,
     "hasAward": true,
     "sources": [
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Mansion House)"
+      },
       {
         "tier": "A",
         "source": "Harden's",
@@ -62880,23 +62834,6 @@
       }
     ]
   },
-  "dishoompermitroom": {
-    "name": "Dishoom Permit Room",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
-      }
-    ]
-  },
   "patri": {
     "name": "Patri",
     "topics": [
@@ -62919,8 +62856,8 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
     "tierCount": 2,
     "hasAward": false,
     "sources": [
@@ -62928,6 +62865,12 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "NationalWorld",
+        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304",
+        "quote": "Newcomer of The Year (London), Asian Curry Awards"
       },
       {
         "tier": "C",
@@ -62992,11 +62935,17 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
     "sources": [
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Dulwich)"
+      },
       {
         "tier": "B",
         "source": "Olive Magazine",
@@ -63004,13 +62953,13 @@
       }
     ]
   },
-  "madhusofmayfair": {
-    "name": "Madhu's of Mayfair",
+  "madhus": {
+    "name": "Madhu's",
     "topics": [
       "indian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -63018,6 +62967,11 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-indian-restaurants-london"
       }
     ]
   },
@@ -63094,11 +63048,23 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 4,
+    "tierSpread": "A2 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "London Icon 2025 - one of six - British Indian Good Food Guide (Mayfair)"
+      },
       {
         "tier": "B",
         "source": "Olive Magazine",
@@ -63117,11 +63083,17 @@
       "indian",
       "new-openings"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B3 C2",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 6,
+    "tierSpread": "A1 B3 C2",
+    "tierCount": 3,
+    "hasAward": true,
     "sources": [
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Soho)"
+      },
       {
         "tier": "B",
         "source": "Olive Magazine",
@@ -63154,11 +63126,17 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "sources": [
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Soho)"
+      },
       {
         "tier": "B",
         "source": "Olive Magazine",
@@ -63168,23 +63146,6 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
-      }
-    ]
-  },
-  "masalazone": {
-    "name": "Masala Zone",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
       }
     ]
   },
@@ -63211,14 +63172,15 @@
       "indian"
     ],
     "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "tierSpread": "A1 C1",
     "tierCount": 2,
-    "hasAward": false,
+    "hasAward": true,
     "sources": [
       {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Mayfair)"
       },
       {
         "tier": "C",
@@ -63233,15 +63195,22 @@
       "indian",
       "seafood"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 4,
+    "tierSpread": "A2 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "sources": [
       {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "London Icon 2025 - one of six - British Indian Good Food Guide (Westminster)"
       },
       {
         "tier": "B",
@@ -63282,8 +63251,8 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -63291,6 +63260,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-indian-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-indian-restaurants-london"
       }
     ]
   },
@@ -63372,8 +63346,8 @@
     "topics": [
       "indian"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "sources": [
@@ -63381,28 +63355,16 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-indian-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-indian-restaurants-london"
       }
     ]
   },
   "toplondonindianandsouthasianrestaurants": {
     "name": "Top London Indian and South Asian restaurants",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-indian-restaurants"
-      }
-    ]
-  },
-  "tamila": {
-    "name": "Tamila",
     "topics": [
       "indian"
     ],
@@ -63531,23 +63493,6 @@
       }
     ]
   },
-  "madhus": {
-    "name": "Madhu's",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-indian-restaurants-london"
-      }
-    ]
-  },
   "posto": {
     "name": "Posto",
     "topics": [
@@ -63565,42 +63510,8 @@
       }
     ]
   },
-  "ashersafricanarestaurantwembley": {
-    "name": "Asher's Africana Restaurant Wembley",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-indian-restaurants-london"
-      }
-    ]
-  },
   "dastaan": {
     "name": "Dastaan",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-indian-restaurants-london"
-      }
-    ]
-  },
-  "udayakeralarestaurant": {
-    "name": "Udaya Kerala Restaurant",
     "topics": [
       "indian"
     ],
@@ -63650,159 +63561,6 @@
       }
     ]
   },
-  "2025winners": {
-    "name": "2025 Winners",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Asian Curry Awards",
-        "url": "https://www.asiancurryawards.com/2025-winners/"
-      }
-    ]
-  },
-  "2024pressreleasewinners": {
-    "name": "2024 Press Release Winners",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Asian Curry Awards",
-        "url": "https://www.asiancurryawards.com/2025-winners/"
-      }
-    ]
-  },
-  "2024pressrelease": {
-    "name": "2024 Press Release",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Asian Curry Awards",
-        "url": "https://www.asiancurryawards.com/2025-winners/"
-      }
-    ]
-  },
-  "2023pressrelease": {
-    "name": "2023 Press Release",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Asian Curry Awards",
-        "url": "https://www.asiancurryawards.com/2025-winners/"
-      }
-    ]
-  },
-  "2022pressrelease": {
-    "name": "2022 Press Release",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Asian Curry Awards",
-        "url": "https://www.asiancurryawards.com/2025-winners/"
-      }
-    ]
-  },
-  "2021winners": {
-    "name": "2021 Winners",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Asian Curry Awards",
-        "url": "https://www.asiancurryawards.com/2025-winners/"
-      }
-    ]
-  },
-  "2021pressrelease": {
-    "name": "2021 Press Release",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Asian Curry Awards",
-        "url": "https://www.asiancurryawards.com/2025-winners/"
-      }
-    ]
-  },
-  "2021internationalpressrelease": {
-    "name": "2021 International Press Release",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Asian Curry Awards",
-        "url": "https://www.asiancurryawards.com/2025-winners/"
-      }
-    ]
-  },
-  "pressrelease": {
-    "name": "Press Release",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Asian Curry Awards",
-        "url": "https://www.asiancurryawards.com/2025-winners/"
-      }
-    ]
-  },
   "video": {
     "name": "Video",
     "topics": [
@@ -63820,42 +63578,8 @@
       }
     ]
   },
-  "2024winners": {
-    "name": "2024 Winners",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Asian Curry Awards",
-        "url": "https://www.asiancurryawards.com/2025-winners/"
-      }
-    ]
-  },
-  "2023winners": {
-    "name": "2023 Winners",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Asian Curry Awards",
-        "url": "https://www.asiancurryawards.com/2025-winners/"
-      }
-    ]
-  },
-  "asianrestaurantoftheyearlondonmintlounge": {
-    "name": "Asian Restaurant of the Year (London): Mint Lounge",
+  "mintlounge": {
+    "name": "Mint Lounge",
     "topics": [
       "indian"
     ],
@@ -63867,12 +63591,13 @@
       {
         "tier": "B",
         "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
+        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304",
+        "quote": "Asian Restaurant of the Year (London), Asian Curry Awards"
       }
     ]
   },
-  "asianrestaurantoftheyearlondoncolonelsaab": {
-    "name": "Asian Restaurant of the Year (London): Colonel Saab",
+  "inaga": {
+    "name": "iNaga",
     "topics": [
       "indian"
     ],
@@ -63884,12 +63609,13 @@
       {
         "tier": "B",
         "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
+        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304",
+        "quote": "Asian Restaurant of the Year (London Suburbs), Asian Curry Awards"
       }
     ]
   },
-  "asianrestaurantoftheyearlondonsuburbsinaga": {
-    "name": "Asian Restaurant of the Year (London Suburbs): iNaga",
+  "panasgurkha": {
+    "name": "Panas Gurkha",
     "topics": [
       "indian"
     ],
@@ -63901,12 +63627,13 @@
       {
         "tier": "B",
         "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
+        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304",
+        "quote": "Nepalese Restaurant of The Year (London), Asian Curry Awards"
       }
     ]
   },
-  "asianrestaurantoftheyearwestmidlandsramadan": {
-    "name": "Asian Restaurant of The Year (West Midlands): Ramadan",
+  "bengalbliss": {
+    "name": "Bengal Bliss",
     "topics": [
       "indian"
     ],
@@ -63918,772 +63645,8 @@
       {
         "tier": "B",
         "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianrestaurantoftheyearglasgow": {
-    "name": "Asian Restaurant of The Year (Glasgow",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianrestaurantoftheyearnorthwalesmaahis": {
-    "name": "Asian Restaurant of The Year (North Wales): Maahis",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianrestaurantoftheyearirelandshapla": {
-    "name": "Asian Restaurant of The Year (Ireland): Shapla",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianrestaurantoftheyearnorthernirelandbangla": {
-    "name": "Asian Restaurant of The Year (Northern Ireland): Bangla",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "nepaleserestaurantoftheyearlondonpanasgurkha": {
-    "name": "Nepalese Restaurant of The Year (London): Panas Gurkha",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "newcomeroftheyearsouthofengland": {
-    "name": "Newcomer of The Year (South of England",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "newcomeroftheyearsoutheastlondon": {
-    "name": "Newcomer of The Year (South East London",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "newcomeroftheyearwalesmyindian": {
-    "name": "Newcomer of The Year (Wales): My Indian",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "newcomeroftheyearlondoncolonelsaab": {
-    "name": "Newcomer of The Year (London): Colonel Saab",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "takeawayoftheyearwales": {
-    "name": "Takeaway of The Year (Wales",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "takeawayoftheyearlondonsuburbsbengalbliss": {
-    "name": "Takeaway of The Year (London Suburbs): Bengal Bliss",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "takeawayoftheyearkentregiondalchini": {
-    "name": "Takeaway of The Year (Kent Region): Dalchini",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "takeawayoftheyearcambridgeshireshelfordspice": {
-    "name": "Takeaway of The Year (Cambridgeshire): Shelford Spice",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianchefoftheyearmidlandsshamimchoudhury": {
-    "name": "Asian Chef of The Year (Midlands): Shamim Choudhury",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "specialrecognition": {
-    "name": "Special Recognition:",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "europe": {
-    "name": "Europe",
-    "topics": [
-      "indian",
-      "london-with-children"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      },
-      {
-        "tier": "C",
-        "source": "Mummy Travels",
-        "url": "https://www.mummytravels.com/things-to-do-in-london-with-kids/"
-      }
-    ]
-  },
-  "lifestyle": {
-    "name": "Lifestyle",
-    "topics": [
-      "indian",
-      "vegan"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      },
-      {
-        "tier": "B",
-        "source": "Kilburn Times",
-        "url": "https://www.kilburntimes.co.uk/news/23936025.full-list-london-winners-asian-curry-awards/"
-      },
-      {
-        "tier": "B",
-        "source": "Tempus Magazine",
-        "url": "https://tempusmagazine.co.uk/news/veganuary-2026-5-vegan-friendly-fine-dining-restaurants-london/"
-      }
-    ]
-  },
-  "entertainment": {
-    "name": "Entertainment",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "worldnetwork": {
-    "name": "World Network",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianrestaurantoftheyearlondon": {
-    "name": "Asian Restaurant of the Year (London):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianrestaurantoftheyearlondonsuburbs": {
-    "name": "Asian Restaurant of the Year (London Suburbs):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "casualdiningrestaurantoftheyearlondonsuburbs": {
-    "name": "Casual Dining Restaurant of the Year (London Suburbs):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianrestaurantoftheyearwarwickshire": {
-    "name": "Asian Restaurant of The Year (Warwickshire):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianrestaurantoftheyearwestmidlands": {
-    "name": "Asian Restaurant of The Year (West Midlands):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianrestaurantoftheyeareastofengland": {
-    "name": "Asian Restaurant of The Year (East of England):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianrestaurantoftheyearnorthofengland": {
-    "name": "Asian Restaurant of The Year (North of England):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianrestaurantoftheyearscotland": {
-    "name": "Asian Restaurant of The Year (Scotland):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianrestaurantoftheyearnorthwales": {
-    "name": "Asian Restaurant of The Year (North Wales):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianrestaurantoftheyearireland": {
-    "name": "Asian Restaurant of The Year (Ireland):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianrestaurantoftheyearnorthernireland": {
-    "name": "Asian Restaurant of The Year (Northern Ireland):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "nepaleserestaurantoftheyearlondon": {
-    "name": "Nepalese Restaurant of The Year (London):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "filipinorestaurantoftheyearlondon": {
-    "name": "Filipino Restaurant of The Year (London):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "newcomeroftheyearsouthwestlondon": {
-    "name": "Newcomer of The Year (South West London):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "newcomeroftheyearwales": {
-    "name": "Newcomer of The Year (Wales):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "newcomeroftheyearlondon": {
-    "name": "Newcomer of The Year (London):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "takeawayoftheyearlondonsuburbs": {
-    "name": "Takeaway of The Year (London Suburbs):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "takeawayoftheyearroyalberkshire": {
-    "name": "Takeaway of The Year (Royal Berkshire):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "takeawayoftheyearkentregion": {
-    "name": "Takeaway of The Year (Kent Region):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "takeawayoftheyearsoutheastwales": {
-    "name": "Takeaway of The Year (South East Wales):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "takeawayoftheyearcambridgeshire": {
-    "name": "Takeaway of The Year (Cambridgeshire):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "takeawayoftheyearnortheastofengland": {
-    "name": "Takeaway of The Year (North East of England):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianchefoftheyearmidlands": {
-    "name": "Asian Chef of The Year (Midlands):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "asianchefoftheyearlondonsuburbs": {
-    "name": "Asian Chef of The Year (London Suburbs):",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
-      }
-    ]
-  },
-  "lifetimeachievement": {
-    "name": "Lifetime Achievement:",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "NationalWorld",
-        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304"
+        "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304",
+        "quote": "Takeaway of The Year (London Suburbs), Asian Curry Awards"
       }
     ]
   },
@@ -64704,1364 +63667,129 @@
       }
     ]
   },
-  "londonwinnersattheasiancurryawards2023": {
-    "name": "London winners at the Asian Curry Awards 2023",
+  "tandoorchophouse": {
+    "name": "Tandoor Chop House",
     "topics": [
       "indian"
     ],
     "sourceCount": 1,
-    "tierSpread": "B1",
+    "tierSpread": "A1",
     "tierCount": 1,
-    "hasAward": false,
+    "hasAward": true,
     "sources": [
       {
-        "tier": "B",
-        "source": "Kilburn Times",
-        "url": "https://www.kilburntimes.co.uk/news/23936025.full-list-london-winners-asian-curry-awards/"
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Charing Cross)"
       }
     ]
   },
-  "completelistofcurrylifeawardwinners2025": {
-    "name": "Complete List of Curry Life Award Winners 2025",
+  "zaika": {
+    "name": "Zaika",
     "topics": [
       "indian"
     ],
     "sourceCount": 1,
-    "tierSpread": "C1",
+    "tierSpread": "A1",
     "tierCount": 1,
-    "hasAward": false,
+    "hasAward": true,
     "sources": [
       {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Kensington)"
       }
     ]
   },
-  "otherlinks": {
-    "name": "Other Links",
+  "cafespicenamaste": {
+    "name": "Café Spice Namasté",
     "topics": [
       "indian"
     ],
     "sourceCount": 1,
-    "tierSpread": "C1",
+    "tierSpread": "A1",
     "tierCount": 1,
-    "hasAward": false,
+    "hasAward": true,
     "sources": [
       {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Docklands)"
       }
     ]
   },
-  "importantlinks": {
-    "name": "Important Links",
+  "bombaybrasserie": {
+    "name": "Bombay Brasserie",
     "topics": [
-      "indian",
-      "museums"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      },
-      {
-        "tier": "C",
-        "source": "The Better Vacation",
-        "url": "https://thebettervacation.com/london/best-museums-in-london/"
-      }
-    ]
-  },
-  "magazine": {
-    "name": "Magazine",
-    "topics": [
-      "indian",
-      "new-openings"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Elle Decoration",
-        "url": "https://www.elledecoration.co.uk/lifestyle-culture/a71228309/new-london-restaurants-2026/"
-      },
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "industrynews": {
-    "name": "Industry News",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "productandservicesnews": {
-    "name": "Product & Services News",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "businessprofile": {
-    "name": "Business Profile",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "chefprofile": {
-    "name": "Chef Profile",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "restaurantreview": {
-    "name": "Restaurant Review",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "trends": {
-    "name": "Trends",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "selfnomination": {
-    "name": "Self Nomination",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "customernominations": {
-    "name": "Customer Nominations",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "tickets": {
-    "name": "Tickets",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "sponsorsandclients": {
-    "name": "Sponsors & Clients",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "awards": {
-    "name": "Awards",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "vendorandsupplierstories": {
-    "name": "Vendor & Supplier Stories",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "newsandfeatures": {
-    "name": "News & Features",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "gallery": {
-    "name": "Gallery",
-    "topics": [
-      "indian",
-      "italian"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      },
-      {
-        "tier": "C",
-        "source": "Garum",
-        "url": "https://garum.co.uk/top-italian-restaurants-in-london/"
-      }
-    ]
-  },
-  "mediaandnews": {
-    "name": "Media & News",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "sponsors": {
-    "name": "Sponsors",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "editorial": {
-    "name": "Editorial",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "bycurrylife": {
-    "name": "By currylife",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "october13": {
-    "name": "October 13",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "bombay": {
-    "name": "The Bombay",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "kelvedonspice": {
-    "name": "Kelvedon Spice",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "nazsrasoi": {
-    "name": "Naz’s Rasoi",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "junoon": {
-    "name": "Junoon",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "juborajrhiwbina": {
-    "name": "Juboraj Rhiwbina",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "jamunrestaurant": {
-    "name": "Jamun Restaurant",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "bombayrestaurant": {
-    "name": "The Bombay Restaurant",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "rimjhimrestaurant": {
-    "name": "Rimjhim Restaurant",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "rivaazlymington": {
-    "name": "Rivaaz Lymington",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "easterneye": {
-    "name": "Eastern Eye",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "alcombetandoori": {
-    "name": "Alcombe Tandoori",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "queensheadrestaurant": {
-    "name": "The Queens Head Restaurant",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "kimboltonspice": {
-    "name": "Kimbolton Spice",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "jilanimajesticindiandining": {
-    "name": "Jilani Majestic Indian Dining",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "sundorbon": {
-    "name": "The Sundorbon",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "radhuni": {
-    "name": "The Radhuni",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "east360restaurant": {
-    "name": "East 360 Restaurant",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "internationalrestaurant": {
-    "name": "International Restaurant",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "ashianaindianandbangladeshirestaurant": {
-    "name": "Ashiana Indian & Bangladeshi Restaurant",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "spicehouse": {
-    "name": "Spice House",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "rimjhimspice": {
-    "name": "Rimjhim Spice",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "ruchiindianrestaurant": {
-    "name": "Ruchi Indian Restaurant",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "auraindiancuisine": {
-    "name": "Aura Indian Cuisine",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "chennaiindiancuisine": {
-    "name": "Chennai Indian Cuisine",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "saffronlounge": {
-    "name": "Saffron Lounge",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "rafiquemiah": {
-    "name": "Rafique Miah",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "shahidahmed": {
-    "name": "Shahid Ahmed",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "matinkhan": {
-    "name": "Matin Khan",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "nazislam": {
-    "name": "Naz Islam",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "jaberahmed": {
-    "name": "Jaber Ahmed",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "shahjahanmiah": {
-    "name": "Shahjahan Miah",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "muhammadaaban": {
-    "name": "Muhammad Aaban",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "lutfurrahman": {
-    "name": "Lutfur Rahman",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "abdulrahman": {
-    "name": "Abdul Rahman",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "hungryelephanttakeaway": {
-    "name": "Hungry Elephant Takeaway",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "indianqueentakeaway": {
-    "name": "Indian Queen Takeaway",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "alisspice": {
-    "name": "Ali’s Spice",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "aminali": {
-    "name": "Amin Ali",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "worldfoodlife": {
-    "name": "World Food Life",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "currychef": {
-    "name": "Curry Chef",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Curry Life",
-        "url": "https://www.currylife.uk/britains-best-curry-houses-crowned/"
-      }
-    ]
-  },
-  "ravalindianbrasserieandbar": {
-    "name": "Raval Indian Brasserie & Bar",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
-      }
-    ]
-  },
-  "benaresrestaurantandbar": {
-    "name": "Benares Restaurant & Bar",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
-      }
-    ]
-  },
-  "dishoommanchester": {
-    "name": "Dishoom (Manchester",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
-      }
-    ]
-  },
-  "tharavadu": {
-    "name": "Tharavadu",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
-      }
-    ]
-  },
-  "ashas": {
-    "name": "Asha's",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
-      }
-    ]
-  },
-  "swadish": {
-    "name": "Swadish",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
-      }
-    ]
-  },
-  "tuktukindianstreetfood": {
-    "name": "Tuk Tuk Indian Street Food",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
-      }
-    ]
-  },
-  "purplepoppadom": {
-    "name": "Purple Poppadom",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
-      }
-    ]
-  },
-  "mowglistreetfood": {
-    "name": "Mowgli Street Food",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
-      }
-    ]
-  },
-  "masalajunction": {
-    "name": "Masala Junction",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
-      }
-    ]
-  },
-  "urbanchoola": {
-    "name": "Urban Choola",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
-      }
-    ]
-  },
-  "mumtaz": {
-    "name": "Mumtaz",
-    "topics": [
       "indian"
     ],
     "sourceCount": 1,
-    "tierSpread": "B1",
+    "tierSpread": "A1",
     "tierCount": 1,
-    "hasAward": false,
+    "hasAward": true,
     "sources": [
       {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Kensington)"
       }
     ]
   },
-  "chillipickle": {
-    "name": "The Chilli Pickle",
+  "shiuli": {
+    "name": "Shiuli",
     "topics": [
       "indian"
     ],
     "sourceCount": 1,
-    "tierSpread": "B1",
+    "tierSpread": "A1",
     "tierCount": 1,
-    "hasAward": false,
+    "hasAward": true,
     "sources": [
       {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Twickenham)"
       }
     ]
   },
-  "tamatanga": {
-    "name": "Tamatanga",
+  "masalchi": {
+    "name": "Masalchi",
     "topics": [
       "indian"
     ],
     "sourceCount": 1,
-    "tierSpread": "B1",
+    "tierSpread": "A1",
     "tierCount": 1,
-    "hasAward": false,
+    "hasAward": true,
     "sources": [
       {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Wembley)"
       }
     ]
   },
-  "kachorilondon": {
-    "name": "Kachori (London) -",
+  "chokhidhani": {
+    "name": "Chokhi Dhani",
     "topics": [
       "indian"
     ],
     "sourceCount": 1,
-    "tierSpread": "B1",
+    "tierSpread": "A1",
     "tierCount": 1,
-    "hasAward": false,
+    "hasAward": true,
     "sources": [
       {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/uk/news/the-uks-20-best-indian-restaurants-have-been-awarded-by-the-2024-british-indian-good-food-guide-102624"
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Battersea)"
       }
     ]
   },
@@ -68308,6 +66036,23 @@
   },
   "cocktailslist": {
     "name": "Cocktails List",
+    "topics": [
+      "italian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Garum",
+        "url": "https://garum.co.uk/top-italian-restaurants-in-london/"
+      }
+    ]
+  },
+  "gallery": {
+    "name": "Gallery",
     "topics": [
       "italian"
     ],
@@ -74763,6 +72508,23 @@
       }
     ]
   },
+  "europe": {
+    "name": "Europe",
+    "topics": [
+      "london-with-children"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Mummy Travels",
+        "url": "https://www.mummytravels.com/things-to-do-in-london-with-kids/"
+      }
+    ]
+  },
   "asia": {
     "name": "Asia",
     "topics": [
@@ -80658,6 +78420,23 @@
       }
     ]
   },
+  "importantlinks": {
+    "name": "Important Links",
+    "topics": [
+      "museums"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Better Vacation",
+        "url": "https://thebettervacation.com/london/best-museums-in-london/"
+      }
+    ]
+  },
   "permanentlyfreemuseums": {
     "name": "The permanently free museums",
     "topics": [
@@ -84411,6 +82190,23 @@
   },
   "directory": {
     "name": "Directory",
+    "topics": [
+      "new-openings"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Elle Decoration",
+        "url": "https://www.elledecoration.co.uk/lifestyle-culture/a71228309/new-london-restaurants-2026/"
+      }
+    ]
+  },
+  "magazine": {
+    "name": "Magazine",
     "topics": [
       "new-openings"
     ],
@@ -98644,6 +96440,23 @@
   },
   "culture": {
     "name": "Culture",
+    "topics": [
+      "vegan"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Tempus Magazine",
+        "url": "https://tempusmagazine.co.uk/news/veganuary-2026-5-vegan-friendly-fine-dining-restaurants-london/"
+      }
+    ]
+  },
+  "lifestyle": {
+    "name": "Lifestyle",
     "topics": [
       "vegan"
     ],
