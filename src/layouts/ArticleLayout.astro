@@ -12,6 +12,7 @@ import AreaMap from "../components/AreaMap.astro";
 import AreaActivities from "../components/AreaActivities.astro";
 import AreaEvents from "../components/AreaEvents.astro";
 import AreaHiddenLondon from "../components/AreaHiddenLondon.astro";
+import MarathonRouteMap from "../components/MarathonRouteMap.astro";
 import activityData from "../data/activities.json";
 import eventData from "../data/events.json";
 import hotelData from "../data/hotels.json";
@@ -298,6 +299,7 @@ const breadcrumbs = [
           />
         )}
         <slot />
+        {articleId === "london-marathon-guide" && <MarathonRouteMap />}
         {area && <AreaMap articleId={articleId} areaName={area.name} />}
         {area && <AreaEvents articleId={articleId} areaName={area.name} />}
         {area && <AreaActivities articleId={articleId} areaName={area.name} />}

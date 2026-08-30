@@ -263,6 +263,8 @@ Two things people get wrong: you **pay the entry fee again** for the deferred ye
 
 You do not need a ticket, a place or a plan to watch — the whole route is public pavement and it is free. But the day defeats a lot of people, because the course cuts London in half for most of the day and the obvious viewing spots are the ones everyone else has picked.
 
+> 🗺️ **The full route is mapped below**, colour-coded by how busy each stretch runs, with pins for every place you can see the race twice and every stewarded crossing point — including the Greenwich Foot Tunnel's one-way window. Scroll to the end of this guide to open it.
+
 ### The route, in order
 
 The race starts on Blackheath and in Greenwich Park in three waves — **Red** on Charlton Way, **Blue** on Shooters Hill Road and **Pink** on St John's Park. They do not merge immediately: the three courses meet **just before Mile 3, at Woolwich**, then head back west.

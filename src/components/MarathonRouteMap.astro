@@ -1,0 +1,299 @@
+---
+// The London Marathon route, coloured by how busy each stretch runs
+// (per the organisers' own "extremely busy" / quieter split, already used in
+// the prose above this component), plus pins for the two things spectators
+// actually plan around: where you can see the race twice, and where you can
+// get across the course at all while it's closed.
+//
+// The line itself comes from OpenStreetMap's own London Marathon route
+// relation (id 14529391, maintained by London Marathon Events Limited as
+// the operator tag), with two genuine gaps in that data (both on The
+// Highway, where the OSM relation does not carry a way for one of the two
+// carriageways) filled in with real street geometry from OSRM's routing
+// API rather than a straight line. Busy/quiet segment boundaries are
+// anchored to geocoded landmarks (Cutty Sark, Tower Bridge, Canary Wharf,
+// etc.), not to proportional mile maths - the OSM trace runs measurably
+// longer than the official 26.2 miles (road-centreline tracing through
+// bends does that), so a mile-number calculation would drift by the finish.
+//
+// Same lazy-load-Leaflet-on-open contract as AreaMap.astro. The route line
+// is fetched from /marathon-route.json on first open rather than inlined,
+// since it is themselves ~47KB - too much to ship on every page load of an
+// article that also has photos.
+
+const markers = [
+  {
+    type: "viewing",
+    name: "The Highway — see them twice",
+    lat: 51.5093559,
+    lng: -0.0617047,
+    note: "Miles 14 and 22. The course runs out along the north bank and comes back on the other carriageway, so you can stand here and see the field twice, 45 minutes to an hour apart. Nearest stations: Shadwell or Wapping Overground.",
+  },
+  {
+    type: "viewing",
+    name: "Limehouse DLR",
+    lat: 51.5124503,
+    lng: -0.0398601,
+    note: "Mile 15, then Mile 21 and Rainbow Row.",
+  },
+  {
+    type: "viewing",
+    name: "Canary Wharf",
+    lat: 51.5048954,
+    lng: -0.019,
+    note: "Miles 15 and 18, using the estate's own loop rather than a train.",
+  },
+  {
+    type: "viewing",
+    name: "Tower Hill",
+    lat: 51.5098481,
+    lng: -0.0766986,
+    note: "Halfway on The Highway, then Mile 23.",
+  },
+  {
+    type: "tunnel",
+    name: "Greenwich Foot Tunnel",
+    lat: 51.483529,
+    lng: -0.009594,
+    note: "The only way under the river near the start. Runs one-way, south to north, 10:00–12:30 only, and it queues.",
+  },
+  {
+    type: "crossing",
+    name: "Greenwich — Creek Road & Romney Road",
+    lat: 51.481131,
+    lng: -0.015688,
+    note: "Stewarded pedestrian crossings. Creek Road is one-way for pedestrians, east to west only.",
+  },
+  {
+    type: "crossing",
+    name: "Tower Bridge & Tower Hill",
+    lat: 51.5055158,
+    lng: -0.0753665,
+    note: "No surface crossing at all here — use the pedestrian underpasses.",
+  },
+  {
+    type: "crossing",
+    name: "Wapping",
+    lat: 51.5080773,
+    lng: -0.0507465,
+    note: "The pedestrian subway where The Highway meets Glamis Road.",
+  },
+  {
+    type: "crossing",
+    name: "Limehouse — Butcher Row",
+    lat: 51.5119658,
+    lng: -0.0418293,
+  },
+  {
+    type: "crossing",
+    name: "Canary Wharf",
+    lat: 51.5053667,
+    lng: -0.0168761,
+    note: "Upper Bank Street, Bank Street, Montgomery Street and Marsh Wall all have stewarded crossings.",
+  },
+  {
+    type: "crossing",
+    name: "Westminster",
+    lat: 51.5006081,
+    lng: -0.1275234,
+    note: "Parliament Square, Victoria Embankment and the Spur Road footbridge. Birdcage Walk is entry only into St James's Park; Storey's Gate is exit only.",
+  },
+];
+---
+
+<section class="marathon-map" aria-labelledby="marathon-map-title">
+  <h2 id="marathon-map-title">The route, the busy stretches and where to cross</h2>
+  <details class="restaurant-map-shell">
+    <summary>
+      Open the map
+      <small>The full 26.2 miles, colour-coded, with viewing and crossing points</small>
+    </summary>
+    <div class="restaurant-map marathon-map__canvas" data-marathon-map>
+      <p>The map loads when you open this section.</p>
+    </div>
+    <p class="restaurant-map-legend">
+      <span><span class="marathon-map-key marathon-map-key--busy"></span>Extremely busy (organisers' own classification)</span>
+      <span><span class="marathon-map-key marathon-map-key--quiet"></span>Quieter stretches</span>
+      <span><span class="restaurant-map-key marathon-map-marker--viewing"></span>See the race twice</span>
+      <span><span class="restaurant-map-key marathon-map-marker--crossing"></span>Stewarded crossing point</span>
+      <span><span class="restaurant-map-key marathon-map-marker--tunnel"></span>Greenwich Foot Tunnel</span>
+    </p>
+  </details>
+  <script is:inline type="application/json" data-marathon-map-markers set:html={JSON.stringify(markers)} />
+</section>
+
+<style>
+  .marathon-map :global(h2) {
+    scroll-margin-top: 2rem;
+  }
+
+  .marathon-map-key {
+    display: inline-block;
+    width: 1.2rem;
+    height: 4px;
+    border-radius: 2px;
+    margin-inline-end: 0.4rem;
+    vertical-align: middle;
+  }
+  .marathon-map-key--busy { background: #c0392b; }
+  .marathon-map-key--quiet { background: #2f7a4f; }
+
+  :global(.marathon-map-marker--viewing) { background: #1d6fa5; }
+  :global(.marathon-map-marker--crossing) { background: #b7791f; }
+  :global(.marathon-map-marker--tunnel) { background: #6941c6; }
+</style>
+
+<script>
+  type Leaflet = {
+    map: (element: HTMLElement, options?: Record<string, unknown>) => any;
+    tileLayer: (url: string, options?: Record<string, unknown>) => any;
+    divIcon: (options: Record<string, unknown>) => any;
+    marker: (position: [number, number], options?: Record<string, unknown>) => any;
+    polyline: (positions: [number, number][], options?: Record<string, unknown>) => any;
+    latLngBounds: (positions: [number, number][]) => any;
+    featureGroup: (layers: any[]) => any;
+  };
+
+  const leafletWindow = window as Window & { L?: Leaflet };
+  let leafletPromise: Promise<Leaflet> | undefined;
+
+  const loadLeaflet = () => {
+    if (leafletWindow.L) return Promise.resolve(leafletWindow.L);
+    if (leafletPromise) return leafletPromise;
+
+    leafletPromise = new Promise<Leaflet>((resolve, reject) => {
+      if (!document.querySelector("link[data-leaflet-styles]")) {
+        const stylesheet = document.createElement("link");
+        stylesheet.rel = "stylesheet";
+        stylesheet.href = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css";
+        stylesheet.dataset.leafletStyles = "";
+        document.head.append(stylesheet);
+      }
+
+      const existingScript = document.querySelector<HTMLScriptElement>("script[data-leaflet-script]");
+
+      const finish = () => {
+        if (leafletWindow.L) resolve(leafletWindow.L);
+        else reject(new Error("Leaflet did not load."));
+      };
+
+      if (existingScript) {
+        existingScript.addEventListener("load", finish, { once: true });
+        existingScript.addEventListener("error", reject, { once: true });
+        return;
+      }
+
+      const script = document.createElement("script");
+      script.src = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js";
+      script.dataset.leafletScript = "";
+      script.addEventListener("load", finish, { once: true });
+      script.addEventListener("error", reject, { once: true });
+      document.head.append(script);
+    });
+
+    return leafletPromise;
+  };
+
+  type MarathonMarker = { type: string; name: string; lat: number; lng: number; note?: string };
+  type RouteSegment = { busy: boolean; coords: [number, number][] };
+
+  const createPopup = (marker: MarathonMarker) => {
+    const content = document.createElement("div");
+    content.className = "restaurant-map-popup";
+
+    const name = document.createElement("strong");
+    name.textContent = marker.name;
+    content.append(name);
+
+    if (marker.note) {
+      const note = document.createElement("span");
+      note.textContent = marker.note;
+      content.append(note);
+    }
+
+    return content;
+  };
+
+  const initialiseMarathonMap = async (element: HTMLElement, markers: MarathonMarker[]) => {
+    if (element.dataset.mapReady === "true") return;
+    element.dataset.mapReady = "true";
+
+    try {
+      const [L, routeRes] = await Promise.all([
+        loadLeaflet(),
+        fetch("/marathon-route.json").then((r) => r.json() as Promise<RouteSegment[]>),
+      ]);
+      element.replaceChildren();
+
+      const map = L.map(element, { scrollWheelZoom: false });
+      L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      }).addTo(map);
+
+      const allPositions: [number, number][] = [];
+      for (const segment of routeRes) {
+        L.polyline(segment.coords, {
+          color: segment.busy ? "#c0392b" : "#2f7a4f",
+          weight: 4,
+          opacity: 0.85,
+        }).addTo(map);
+        allPositions.push(...segment.coords);
+      }
+
+      for (const markerData of markers) {
+        const position: [number, number] = [markerData.lat, markerData.lng];
+        allPositions.push(position);
+
+        const icon = L.divIcon({
+          className: "restaurant-map-marker-wrap",
+          html: `<span class="restaurant-map-marker marathon-map-marker--${markerData.type}" aria-hidden="true"></span>`,
+          iconSize: [26, 34],
+          iconAnchor: [13, 34],
+          popupAnchor: [0, -30],
+        });
+
+        L.marker(position, { icon, title: markerData.name, alt: markerData.name })
+          .addTo(map)
+          .bindPopup(createPopup(markerData));
+      }
+
+      map.fitBounds(L.latLngBounds(allPositions), { padding: [24, 24], maxZoom: 14 });
+
+      const shell = element.closest<HTMLDetailsElement>("details");
+      shell?.addEventListener("toggle", () => {
+        if (shell.open) window.setTimeout(() => map.invalidateSize(), 0);
+      });
+    } catch {
+      element.innerHTML =
+        "<p>The map could not load. Every crossing point and viewing spot on it is also listed in the sections above.</p>";
+      delete element.dataset.mapReady;
+    }
+  };
+
+  for (const element of document.querySelectorAll<HTMLElement>("[data-marathon-map]")) {
+    const section = element.closest("section");
+    const dataTag = section?.querySelector<HTMLScriptElement>("[data-marathon-map-markers]");
+    if (!dataTag?.textContent) continue;
+
+    let markers: MarathonMarker[];
+    try {
+      markers = JSON.parse(dataTag.textContent);
+    } catch {
+      continue;
+    }
+
+    const shell = element.closest<HTMLDetailsElement>("details");
+    if (shell?.open) {
+      void initialiseMarathonMap(element, markers);
+    } else {
+      shell?.addEventListener(
+        "toggle",
+        () => {
+          if (shell.open) void initialiseMarathonMap(element, markers);
+        },
+        { once: true },
+      );
+    }
+  }
+</script>
