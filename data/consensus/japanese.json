@@ -1,7 +1,7 @@
 {
   "cuisine": "japanese",
   "note": "Japanese follows the full playbook from the first pass. Two things are already visible in the source set and must be corrected before this cuisine is called done. FIRST, it skews hard to OMAKASE - five of the fourteen sources are omakase-only guides, because that is what publishers write about. Ramen, izakaya, katsu, udon and konbini-style counters are a different population and need their own subtype passes, exactly as pizza did inside Italian. SECOND, guide.michelin.com returns 403 to the fetcher (see the awards pass in research-playbook.json), so the awards leg is served by the Wikipedia star tables, which have the added benefit of carrying year-by-year history - a star is a claim with a date. Five sources 403'd or failed on the first fetch and were REMOVED rather than left in place - a dead source inflates the apparent breadth of the evidence without adding any. They were replaced with eleven subtype sources (ramen, izakaya, katsu, udon), which also corrects the omakase skew. Every URL came from a search result, never from a guessed path.",
-  "recorded": "2026-08-18",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "The Infatuation (Japanese)",
@@ -30,7 +30,6 @@
       "url": "https://www.timeout.com/london/restaurants/londons-best-japanese-restaurants",
       "scope": "japanese",
       "names": [
-        "Japanese restaurants in London",
         "Koya Ko",
         "Moto",
         "Uchi",
@@ -97,17 +96,10 @@
         "Tombo",
         "Koya London",
         "Abeno",
-        "📍 Mayfair & St James’s",
-        "📍 Soho & Covent Garden",
-        "📍 Fitzrovia",
-        "📍 West London",
-        "📍 East London",
-        "📍 Multi-Location / London Staples",
         "Monohon Ramen",
-        "Tokyo Retro",
-        "Upcoming Reviews",
-        "Useful Links"
-      ]
+        "Tokyo Retro"
+      ],
+      "note": "London-scoped despite the domain name - the page is /best-japanese-restaurants-in-london. Six area headings (Mayfair & St James's, Soho & Covent Garden, Fitzrovia, West London, East London, Multi-Location) were being counted as restaurants and were removed 2026-08-30."
     },
     {
       "name": "Balance Journal (Japanese)",
@@ -161,41 +153,14 @@
         "Engawa",
         "Sushi on Jones",
         "Los Mochis Notting Hill",
-        "Luna",
-        "The Author"
+        "Luna"
       ]
-    },
-    {
-      "name": "Oishii London (omakase)",
-      "url": "https://oishii.london/omakase-london.html",
-      "scope": "japanese-omakase",
-      "names": [
-        "Explore More Japanese Food in London"
-      ]
-    },
-    {
-      "name": "Wanderlust Chloe (ramen)",
-      "url": "https://www.wanderlustchloe.com/best-ramen-in-london/",
-      "scope": "japanese-ramen",
-      "names": [
-        "Destinations",
-        "Work With Me",
-        "Press"
-      ]
-    },
-    {
-      "name": "Oishii London (ramen)",
-      "url": "https://oishii.london/best-ramen-london.html",
-      "scope": "japanese-ramen",
-      "names": [],
-      "error": "no headings matched"
     },
     {
       "name": "Ideal Magazine (ramen)",
       "url": "https://idealmagazine.co.uk/best-ramen-london/",
       "scope": "japanese-ramen",
       "names": [
-        "Modal title",
         "Ramo Ramen",
         "Ivan Ramen",
         "Monohon Ramen",
@@ -208,8 +173,7 @@
         "Ippudo London",
         "Hakata Ramen + Bar",
         "Cocoro",
-        "Shoryu Ramen",
-        "Social"
+        "Shoryu Ramen"
       ]
     },
     {
@@ -217,16 +181,13 @@
       "url": "https://mayfairfoodie.com/best-ramen-in-london/",
       "scope": "japanese-ramen",
       "names": [
-        "2 Bone Daddies",
-        "3 Shoryu Ramen",
-        "4 Kanada-Ya",
-        "5 Tonkotsu",
-        "6 Monohon Ramen",
-        "7 Kinoya",
-        "9 Maki & Ramen",
-        "Martin",
-        "The Mayfair Foodie",
-        "HexClad pans"
+        "Bone Daddies",
+        "Shoryu Ramen",
+        "Kanada-Ya",
+        "Tonkotsu",
+        "Monohon Ramen",
+        "Kinoya",
+        "Maki & Ramen"
       ]
     },
     {
@@ -266,25 +227,6 @@
       ]
     },
     {
-      "name": "Time Out (katsu)",
-      "url": "https://www.timeout.com/london/restaurants/wheres-good-in-london-for-katsu-curry",
-      "scope": "japanese-katsu",
-      "names": [
-        "Investor relations",
-        "Work for Time Out",
-        "Privacy notice",
-        "Do not sell my information",
-        "Accessibility statement",
-        "Get Listed",
-        "Time Out Offers FAQ",
-        "Advertising",
-        "Time Out Market",
-        "Time Out Offers",
-        "Time Out Worldwide",
-        "Movies"
-      ]
-    },
-    {
       "name": "London The Inside (udon + ramen)",
       "url": "https://londontheinside.com/send-noods-londons-hottest-udon-ramen-shops/",
       "scope": "japanese-noodles",
@@ -294,8 +236,7 @@
         "Koya Ko",
         "Marugame Udon",
         "Tonkotsu Ramen",
-        "Kanada-Ya",
-        "Stay In The Loop"
+        "Kanada-Ya"
       ]
     },
     {
@@ -317,5 +258,8 @@
       },
       "note": "READ FROM THE SUBSTITUTE. guide.michelin.com is 403 to the fetcher; the 2026 column of the Wikipedia list in data/sources.json blocked.substitutes was used and ATTRIBUTED here to guide.michelin.com. The star count is in the SVG file name (Etoile_Michelin-2.svg), not the number of images."
     }
+  ],
+  "deadUrls": [
+    "https://www.timeout.com/london/restaurants/wheres-good-in-london-for-katsu - 404 as of 2026-08-30; the page is gone and its h3 headings are now Time Out news teasers. Removed rather than re-recorded."
   ]
 }

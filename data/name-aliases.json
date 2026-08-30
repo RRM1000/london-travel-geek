@@ -167,7 +167,28 @@
     "The Zetter Marylebone": "The Zetter",
     "Zetter Bloomsbury": "The Zetter",
     "Sanderson London": "Sanderson Hotel",
-    "144 On The Hill": "144 On The Hill"
+    "144 On The Hill": "144 On The Hill",
+    "Caf Palestina": "Cafe Palestina",
+    "Café Palestina": "Cafe Palestina",
+    "Akub Restaurant": "Akub",
+    "Maramia Cafe": "Maramia",
+    "Mr. Falafel": "Mr Falafel",
+    "Hoxton Beach Falafel Stall": "Hoxton Beach",
+    "Maoz Falafel": "Maoz",
+    "Imad's Syrian Kitchen": "Imad’s Syrian Kitchen",
+    "Ta'mini Lebanese Bakery": "Ta’mini Lebanese Bakery",
+    "Palmyra's Kitchen": "Palmyra’s Kitchen",
+    "Koya London": "Koya Soho",
+    "Koya": "Koya Soho",
+    "Tonkotsu Ramen": "Tonkotsu",
+    "Shoryu": "Shoryu Ramen",
+    "Dinings": "Dinings SW3",
+    "Nobu London Old Park Lane": "Nobu Old Park Lane",
+    "Nobu London Portman Square": "Nobu Portman Square",
+    "Nobu London Shoreditch": "Nobu Shoreditch",
+    "Ippudo London": "Ippudo",
+    "Eat Tokyo Golders Green": "Eat Tokyo",
+    "Sushi Kanesaka": "Sushi Kanesaka"
   },
   "whyCrispIsOneVenue": "The Infatuation's #1 is 'Crisp Pizza W6 at The Chancellors' in Hammersmith; Time Out and Country & Town House name the Mayfair site. Those are two pubs, but one brand: the Restaurants v2 row is already chainType 'mini-chain' with ownerGroup 'Devonshire / Crisp group', and its Why Go says Crisp was 'previously only in Hammersmith, brought into central London'. The sheet counts a mini-chain brand-level - the same treatment Rudy's and Fatto a Mano get - so the citations merge and the two sites are carried as Branches rows instead. Verified 2026-08-30: The Chancellors is 25 Crisp Road, Hammersmith W6 9RL.",
   "deliberatelyNotAliased": {
@@ -177,7 +198,9 @@
     "The George / The George Inn": "The George Inn in Borough is the National Trust coaching inn. The George on Great Portland Street is a different pub, and it is the one the roast sources mean. Not merged, and not yet resolved to a sheet row.",
     "The Golden Chippy / Golden Chip of Hanwell": "Two different shops - The Golden Chippy is in Greenwich, the Golden Chip is in Hanwell. The names are close enough to merge by eye and they are not the same business.",
     "Hakkasan Mayfair / Hakkasan Hanway Place": "Two sites of one group, but only one of them ever held the star and the Hanway Place site has closed. Merging them would move a star onto a restaurant that did not hold it and hide a closure.",
-    "Mangal 1 / Mangal II": "Two separate Dalston ocakbasi restaurants on Arcola Street and Stoke Newington Road, related by family but not the same business, and sources name them separately on purpose."
+    "Mangal 1 / Mangal II": "Two separate Dalston ocakbasi restaurants on Arcola Street and Stoke Newington Road, related by family but not the same business, and sources name them separately on purpose.",
+    "Koya Soho / Koya Ko": "Two different restaurants from the same team - Koya Soho is the udon bar, Koya Ko in Hackney is a separate and cheaper site. Sources name them separately on purpose.",
+    "Hiba / Hiba Express / Hiba Taboun": "Three trading names in the same group, named separately by different sources, and not confirmed as one venue or three. Left apart, which under-counts rather than inventing a merge."
   },
   "whyWilliamTheFourthIsShortRoad": "The Infatuation's 19 Best Pizzas lists 'William the Fourth' - a Leyton pub pizzeria with Romana crusts - and never lists Short Road Pizza. Short Road is a residency inside Exale Brewery's William The Fourth at 816 High Road, Leyton, and Romana is its style. Same kitchen, so the guide names the pub where the other sources name the residency. Merged 2026-08-30; without it The Infatuation's only Leyton entry sits on a venue with no row and Short Road undercounts by one domain.",
   "whyIndianBranchesMerge": "Indian guides name branches where pizza guides name brands: Dishoom appeared seven ways across the corpus (Shoreditch, Covent Garden, Kensington, King's Cross, Permit Room and a Manchester site). These are one operation, counted brand-level like any mini-chain in Restaurants v2. Dishoom Manchester was dropped outright - not London. Quilon Restaurant is Michelin's spelling of Quilon.",
@@ -186,5 +209,6 @@
   "whyFishAndChipNamesMerge": "Chippies are written with and without 'Fish & Chips', with & and 'and', and with the owner's name shortened - Poppies appears three ways in four sources. Masters Superfish is written 'Superfish' by one source, which is how the shop signs itself.",
   "whyChineseNamesMerge": "Chinatown guides append the neighbourhood to the name - Bun House Chinatown, Orient London Chinatown - and the accented forms come and go. Kai and Kai Mayfair are one restaurant; Hakkasan Mayfair and Hakkasan Hanway Place are two, and are NOT merged.",
   "whyTurkishNamesMerge": "Seven sources spell the same restaurants seven ways: Mangal II / Mangal 2, Kofteci / Köfteci, Diyarbakir / Diyarbakır, and the '19 Numara Bos Cirrik' ocakbasi appears as Cirrik, as Cirrik 19 Numara Bos and as 19 Numara Bos Cirrik 2. Accents come and go, and 'Restaurant' is appended by about half of them.",
-  "whyAfternoonTeaNamesMerge": "Afternoon tea is listed by the TEA ROOM by some sources and by the HOTEL by others - The Palm Court at The Ritz and The Ritz, the Diamond Jubilee Tea Salon and Fortnum & Mason. Unmerged, the two most famous teas in London read as four weakly supported venues. The canonical name is the one a reader books under."
+  "whyAfternoonTeaNamesMerge": "Afternoon tea is listed by the TEA ROOM by some sources and by the HOTEL by others - The Palm Court at The Ritz and The Ritz, the Diamond Jubilee Tea Salon and Fortnum & Mason. Unmerged, the two most famous teas in London read as four weakly supported venues. The canonical name is the one a reader books under.",
+  "whyJapaneseNamesMerge": "Ramen lists append 'Ramen' to names that do not carry it (Tonkotsu, Shoryu) and Nobu's three London sites are written with and without 'London' in the middle. Koya trades as Koya Soho and Koya Ko - the second is a separate, cheaper site and is NOT merged."
 }

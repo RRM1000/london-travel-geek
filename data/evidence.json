@@ -1490,8 +1490,7 @@
       "activities-shoreditch",
       "historic-pubs",
       "italian",
-      "korean",
-      "middle-eastern"
+      "korean"
     ],
     "sourceCount": 1,
     "tierSpread": "C1",
@@ -1517,12 +1516,6 @@
         "hasAward": false
       },
       "korean": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -3609,7 +3602,6 @@
       "activities-shoreditch",
       "cinemas",
       "french",
-      "japanese",
       "korean",
       "mexican",
       "new-openings"
@@ -3638,12 +3630,6 @@
         "hasAward": false
       },
       "french": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -16773,8 +16759,8 @@
       "general",
       "middle-eastern"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B4 C1",
+    "sourceCount": 6,
+    "tierSpread": "B5 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -16803,8 +16789,8 @@
         "hasAward": false
       },
       "middle-eastern": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
+        "sourceCount": 4,
+        "tierSpread": "B4",
         "tierCount": 1,
         "hasAward": false
       }
@@ -16824,6 +16810,11 @@
         "tier": "B",
         "source": "Fact Magazines",
         "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/palestinian-restaurants-london"
       },
       {
         "tier": "B",
@@ -28134,9 +28125,7 @@
       "british",
       "galleries",
       "general",
-      "japanese",
       "korean",
-      "middle-eastern",
       "new-openings",
       "pakistani",
       "parks-gardens",
@@ -28166,19 +28155,7 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "korean": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -29294,9 +29271,9 @@
       "british",
       "japanese"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -29306,9 +29283,9 @@
         "hasAward": false
       },
       "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -29322,6 +29299,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-japanese-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Best Japanese",
+        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
       }
     ]
   },
@@ -30665,7 +30647,7 @@
     ]
   },
   "imadssyriankitchen": {
-    "name": "Imad's Syrian Kitchen",
+    "name": "Imad’s Syrian Kitchen",
     "topics": [
       "british",
       "general",
@@ -33688,8 +33670,6 @@
       "french",
       "general",
       "italian",
-      "japanese",
-      "middle-eastern",
       "new-openings",
       "thai"
     ],
@@ -33735,18 +33715,6 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -33783,8 +33751,6 @@
       "french",
       "general",
       "italian",
-      "japanese",
-      "middle-eastern",
       "new-openings",
       "thai"
     ],
@@ -33830,18 +33796,6 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -33903,8 +33857,6 @@
       "french",
       "general",
       "italian",
-      "japanese",
-      "middle-eastern",
       "new-openings",
       "thai"
     ],
@@ -33950,18 +33902,6 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -33998,8 +33938,6 @@
       "french",
       "general",
       "italian",
-      "japanese",
-      "middle-eastern",
       "new-openings",
       "thai"
     ],
@@ -34045,18 +33983,6 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -34118,8 +34044,6 @@
       "french",
       "general",
       "italian",
-      "japanese",
-      "middle-eastern",
       "new-openings",
       "thai"
     ],
@@ -34165,18 +34089,6 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -34213,8 +34125,6 @@
       "french",
       "general",
       "italian",
-      "japanese",
-      "middle-eastern",
       "new-openings",
       "thai"
     ],
@@ -34260,18 +34170,6 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -34308,8 +34206,6 @@
       "french",
       "general",
       "italian",
-      "japanese",
-      "middle-eastern",
       "new-openings",
       "thai"
     ],
@@ -34355,18 +34251,6 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -34403,8 +34287,6 @@
       "french",
       "general",
       "italian",
-      "japanese",
-      "middle-eastern",
       "new-openings",
       "thai"
     ],
@@ -34450,18 +34332,6 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -34498,8 +34368,6 @@
       "french",
       "general",
       "italian",
-      "japanese",
-      "middle-eastern",
       "new-openings",
       "thai"
     ],
@@ -34545,18 +34413,6 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -34593,8 +34449,6 @@
       "french",
       "general",
       "italian",
-      "japanese",
-      "middle-eastern",
       "new-openings",
       "thai"
     ],
@@ -34640,18 +34494,6 @@
         "hasAward": false
       },
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37972,7 +37814,6 @@
       "cheap-eats",
       "general",
       "late-night",
-      "middle-eastern",
       "turkish"
     ],
     "sourceCount": 3,
@@ -37999,12 +37840,6 @@
         "hasAward": false
       },
       "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -38457,11 +38292,10 @@
     "topics": [
       "british",
       "general",
-      "middle-eastern",
       "turkish"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B4 C2",
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -38477,12 +38311,6 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "middle-eastern": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "turkish": {
         "sourceCount": 5,
         "tierSpread": "B3 C2",
@@ -38495,11 +38323,6 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
       },
       {
         "tier": "B",
@@ -40524,16 +40347,14 @@
     "topics": [
       "british",
       "greek",
-      "japanese",
       "late-night",
-      "middle-eastern",
       "new-openings",
       "seafood",
       "steak",
       "vietnamese"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
+    "sourceCount": 1,
+    "tierSpread": "B1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
@@ -40549,19 +40370,7 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
       "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -40597,11 +40406,6 @@
         "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/"
-      },
-      {
-        "tier": "B",
-        "source": "Ideal Magazine",
-        "url": "https://idealmagazine.co.uk/best-ramen-london/"
       }
     ]
   },
@@ -40836,7 +40640,6 @@
       "british",
       "greek",
       "late-night",
-      "middle-eastern",
       "new-openings",
       "seafood",
       "steak",
@@ -40860,12 +40663,6 @@
         "hasAward": false
       },
       "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -46623,8 +46420,7 @@
     "name": "Browse All Recipes",
     "topics": [
       "burgers",
-      "ice-cream",
-      "middle-eastern"
+      "ice-cream"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -46638,12 +46434,6 @@
         "hasAward": false
       },
       "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -46662,8 +46452,7 @@
     "name": "Meals",
     "topics": [
       "burgers",
-      "ice-cream",
-      "middle-eastern"
+      "ice-cream"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -46677,12 +46466,6 @@
         "hasAward": false
       },
       "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -46701,8 +46484,7 @@
     "name": "Nutrition",
     "topics": [
       "burgers",
-      "ice-cream",
-      "middle-eastern"
+      "ice-cream"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -46716,12 +46498,6 @@
         "hasAward": false
       },
       "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -46740,8 +46516,7 @@
     "name": "Ingredients",
     "topics": [
       "burgers",
-      "ice-cream",
-      "middle-eastern"
+      "ice-cream"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -46755,12 +46530,6 @@
         "hasAward": false
       },
       "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -46779,8 +46548,7 @@
     "name": "Dinner tonight",
     "topics": [
       "burgers",
-      "ice-cream",
-      "middle-eastern"
+      "ice-cream"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -46794,12 +46562,6 @@
         "hasAward": false
       },
       "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -46818,8 +46580,7 @@
     "name": "Lunch today",
     "topics": [
       "burgers",
-      "ice-cream",
-      "middle-eastern"
+      "ice-cream"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -46833,12 +46594,6 @@
         "hasAward": false
       },
       "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -46857,8 +46612,7 @@
     "name": "Feed the whole family",
     "topics": [
       "burgers",
-      "ice-cream",
-      "middle-eastern"
+      "ice-cream"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -46872,12 +46626,6 @@
         "hasAward": false
       },
       "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -46896,8 +46644,7 @@
     "name": "Meal Plans",
     "topics": [
       "burgers",
-      "ice-cream",
-      "middle-eastern"
+      "ice-cream"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -46911,12 +46658,6 @@
         "hasAward": false
       },
       "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -46935,8 +46676,7 @@
     "name": "Batch Cooking",
     "topics": [
       "burgers",
-      "ice-cream",
-      "middle-eastern"
+      "ice-cream"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -46950,12 +46690,6 @@
         "hasAward": false
       },
       "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -46974,8 +46708,7 @@
     "name": "Freezer-Friendly",
     "topics": [
       "burgers",
-      "ice-cream",
-      "middle-eastern"
+      "ice-cream"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -46989,12 +46722,6 @@
         "hasAward": false
       },
       "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -48857,7 +48584,7 @@
     ]
   },
   "mrfalafel": {
-    "name": "Mr. Falafel",
+    "name": "Mr Falafel",
     "topics": [
       "cheap-eats",
       "middle-eastern"
@@ -49612,11 +49339,12 @@
   "eattokyo": {
     "name": "Eat Tokyo",
     "topics": [
-      "cheap-eats"
+      "cheap-eats",
+      "japanese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "cheap-eats": {
@@ -49624,9 +49352,20 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-japanese-restaurants"
+      },
       {
         "tier": "C",
         "source": "So What's The Sitch",
@@ -55734,21 +55473,14 @@
   "fashion": {
     "name": "Fashion",
     "topics": [
-      "cinemas",
-      "middle-eastern"
+      "cinemas"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
+    "sourceCount": 1,
+    "tierSpread": "C1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "cinemas": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -55760,11 +55492,6 @@
         "tier": "C",
         "source": "Hunger Magazine",
         "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
-      },
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
       }
     ]
   },
@@ -55815,21 +55542,14 @@
   "beauty": {
     "name": "Beauty",
     "topics": [
-      "cinemas",
-      "middle-eastern"
+      "cinemas"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
+    "sourceCount": 1,
+    "tierSpread": "C1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "cinemas": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -55841,11 +55561,6 @@
         "tier": "C",
         "source": "Hunger Magazine",
         "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
-      },
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
       }
     ]
   },
@@ -86047,21 +85762,14 @@
     "name": "Work With Me",
     "topics": [
       "historic-houses",
-      "japanese",
       "london-with-children"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "historic-houses": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -86079,11 +85787,6 @@
         "tier": "C",
         "source": "The Working Line",
         "url": "https://theworkingline.com/beautiful-historic-houses-stately-homes-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Wanderlust Chloe",
-        "url": "https://www.wanderlustchloe.com/best-ramen-in-london/"
       },
       {
         "tier": "C",
@@ -88213,7 +87916,6 @@
     "name": "Martin",
     "topics": [
       "historic-pubs",
-      "japanese",
       "pizza"
     ],
     "sourceCount": 1,
@@ -88222,12 +87924,6 @@
     "hasAward": false,
     "byTopic": {
       "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -88252,7 +87948,6 @@
     "name": "The Mayfair Foodie",
     "topics": [
       "historic-pubs",
-      "japanese",
       "pizza"
     ],
     "sourceCount": 1,
@@ -88261,12 +87956,6 @@
     "hasAward": false,
     "byTopic": {
       "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -88291,7 +87980,6 @@
     "name": "HexClad pans",
     "topics": [
       "historic-pubs",
-      "japanese",
       "pizza"
     ],
     "sourceCount": 1,
@@ -88300,12 +87988,6 @@
     "hasAward": false,
     "byTopic": {
       "historic-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -88741,23 +88423,16 @@
   "destinations": {
     "name": "Destinations",
     "topics": [
-      "historic-pubs",
-      "japanese"
+      "historic-pubs"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "historic-pubs": {
         "sourceCount": 1,
         "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -88767,11 +88442,6 @@
         "tier": "B",
         "source": "Lonely Planet",
         "url": "https://www.lonelyplanet.com/news/most-beautiful-bank-wetherspoons"
-      },
-      {
-        "tier": "C",
-        "source": "Wanderlust Chloe",
-        "url": "https://www.wanderlustchloe.com/best-ramen-in-london/"
       }
     ]
   },
@@ -98046,31 +97716,6 @@
       }
     ]
   },
-  "japaneserestaurantsinlondon": {
-    "name": "Japanese restaurants in London",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-japanese-restaurants"
-      }
-    ]
-  },
   "moto": {
     "name": "Moto",
     "topics": [
@@ -98239,31 +97884,6 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-japanese-restaurants-london"
-      }
-    ]
-  },
-  "eattokyogoldersgreen": {
-    "name": "Eat Tokyo Golders Green",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-japanese-restaurants"
       }
     ]
   },
@@ -98848,8 +98468,8 @@
       }
     ]
   },
-  "nobulondonoldparklane": {
-    "name": "Nobu London Old Park Lane",
+  "nobuoldparklane": {
+    "name": "Nobu Old Park Lane",
     "topics": [
       "japanese"
     ],
@@ -98903,33 +98523,8 @@
       }
     ]
   },
-  "shoryu": {
-    "name": "Shoryu",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
-      }
-    ]
-  },
-  "kanadaya": {
-    "name": "Kanada-Ya",
+  "shoryuramen": {
+    "name": "Shoryu Ramen",
     "topics": [
       "japanese"
     ],
@@ -98955,6 +98550,46 @@
         "tier": "B",
         "source": "Ideal Magazine",
         "url": "https://idealmagazine.co.uk/best-ramen-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
+      }
+    ]
+  },
+  "kanadaya": {
+    "name": "Kanada-Ya",
+    "topics": [
+      "japanese"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "japanese": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-ramen-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
       },
       {
         "tier": "C",
@@ -99150,183 +98785,8 @@
       }
     ]
   },
-  "koyalondon": {
-    "name": "Koya London",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Best Japanese",
-        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
-      }
-    ]
-  },
   "abeno": {
     "name": "Abeno",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Best Japanese",
-        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
-      }
-    ]
-  },
-  "mayfairandstjamess": {
-    "name": "📍 Mayfair & St James’s",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Best Japanese",
-        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
-      }
-    ]
-  },
-  "sohoandcoventgarden": {
-    "name": "📍 Soho & Covent Garden",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Best Japanese",
-        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
-      }
-    ]
-  },
-  "fitzrovia": {
-    "name": "📍 Fitzrovia",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Best Japanese",
-        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
-      }
-    ]
-  },
-  "westlondon": {
-    "name": "📍 West London",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Best Japanese",
-        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
-      }
-    ]
-  },
-  "eastlondon": {
-    "name": "📍 East London",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Best Japanese",
-        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
-      }
-    ]
-  },
-  "multilocationlondonstaples": {
-    "name": "📍 Multi-Location / London Staples",
     "topics": [
       "japanese"
     ],
@@ -99355,14 +98815,14 @@
     "topics": [
       "japanese"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "japanese": {
-        "sourceCount": 3,
-        "tierSpread": "B1 C2",
+        "sourceCount": 4,
+        "tierSpread": "B1 C3",
         "tierCount": 2,
         "hasAward": false
       }
@@ -99382,36 +98842,16 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-japanese-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
       }
     ]
   },
   "tokyoretro": {
     "name": "Tokyo Retro",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Best Japanese",
-        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
-      }
-    ]
-  },
-  "upcomingreviews": {
-    "name": "Upcoming Reviews",
     "topics": [
       "japanese"
     ],
@@ -99465,14 +98905,14 @@
     "topics": [
       "japanese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -99482,6 +98922,11 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-japanese-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Washoku Guide",
+        "url": "https://washoku-guide.com/cities/london/izakaya"
       }
     ]
   },
@@ -99888,56 +99333,6 @@
       }
     ]
   },
-  "exploremorejapanesefoodinlondon": {
-    "name": "Explore More Japanese Food in London",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Oishii London",
-        "url": "https://oishii.london/omakase-london.html"
-      }
-    ]
-  },
-  "modaltitle": {
-    "name": "Modal title",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Ideal Magazine",
-        "url": "https://idealmagazine.co.uk/best-ramen-london/"
-      }
-    ]
-  },
   "ramoramen": {
     "name": "Ramo Ramen",
     "topics": [
@@ -100023,15 +99418,15 @@
     "topics": [
       "japanese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -100040,6 +99435,16 @@
         "tier": "B",
         "source": "Ideal Magazine",
         "url": "https://idealmagazine.co.uk/best-ramen-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/send-noods-londons-hottest-udon-ramen-shops/"
       }
     ]
   },
@@ -100098,15 +99503,15 @@
     "topics": [
       "japanese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -100115,11 +99520,16 @@
         "tier": "B",
         "source": "Ideal Magazine",
         "url": "https://idealmagazine.co.uk/best-ramen-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
       }
     ]
   },
-  "ippudolondon": {
-    "name": "Ippudo London",
+  "ippudo": {
+    "name": "Ippudo",
     "topics": [
       "japanese"
     ],
@@ -100168,17 +99578,49 @@
       }
     ]
   },
-  "shoryuramen": {
-    "name": "Shoryu Ramen",
+  "kinoya": {
+    "name": "Kinoya",
     "topics": [
       "japanese"
     ],
     "sourceCount": 1,
-    "tierSpread": "B1",
+    "tierSpread": "C1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "japanese": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
+      }
+    ]
+  },
+  "makiandramen": {
+    "name": "Maki & Ramen",
+    "topics": [
+      "japanese",
+      "new-openings"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "japanese": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "new-openings": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -100188,208 +99630,13 @@
     "sources": [
       {
         "tier": "B",
-        "source": "Ideal Magazine",
-        "url": "https://idealmagazine.co.uk/best-ramen-london/"
-      }
-    ]
-  },
-  "2bonedaddies": {
-    "name": "2 Bone Daddies",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
+      },
       {
         "tier": "C",
         "source": "Mayfair Foodie",
         "url": "https://mayfairfoodie.com/best-ramen-in-london/"
-      }
-    ]
-  },
-  "3shoryuramen": {
-    "name": "3 Shoryu Ramen",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
-      }
-    ]
-  },
-  "4kanadaya": {
-    "name": "4 Kanada-Ya",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
-      }
-    ]
-  },
-  "5tonkotsu": {
-    "name": "5 Tonkotsu",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
-      }
-    ]
-  },
-  "6monohonramen": {
-    "name": "6 Monohon Ramen",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
-      }
-    ]
-  },
-  "7kinoya": {
-    "name": "7 Kinoya",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
-      }
-    ]
-  },
-  "9makiandramen": {
-    "name": "9 Maki & Ramen",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
-      }
-    ]
-  },
-  "dinings": {
-    "name": "Dinings",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Washoku Guide",
-        "url": "https://washoku-guide.com/cities/london/izakaya"
       }
     ]
   },
@@ -100418,33 +99665,8 @@
       }
     ]
   },
-  "nobulondonportmansquare": {
-    "name": "Nobu London Portman Square",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Washoku Guide",
-        "url": "https://washoku-guide.com/cities/london/izakaya"
-      }
-    ]
-  },
-  "nobulondonshoreditch": {
-    "name": "Nobu London Shoreditch",
+  "nobushoreditch": {
+    "name": "Nobu Shoreditch",
     "topics": [
       "japanese"
     ],
@@ -100957,31 +100179,6 @@
   },
   "supayaramen": {
     "name": "Supa-Ya Ramen",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/send-noods-londons-hottest-udon-ramen-shops/"
-      }
-    ]
-  },
-  "tonkotsuramen": {
-    "name": "Tonkotsu Ramen",
     "topics": [
       "japanese"
     ],
@@ -108937,21 +108134,14 @@
   "restaurantreviews": {
     "name": "Restaurant Reviews",
     "topics": [
-      "markets",
-      "middle-eastern"
+      "markets"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
+    "sourceCount": 1,
+    "tierSpread": "C1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "markets": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -108963,11 +108153,6 @@
         "tier": "C",
         "source": "Secret Food Tours",
         "url": "https://www.secretfoodtours.com/blog/get-to-know-the-best-food-markets-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
       }
     ]
   },
@@ -112260,8 +111445,8 @@
       }
     ]
   },
-  "maramiacafe": {
-    "name": "Maramia Cafe",
+  "maramia": {
+    "name": "Maramia",
     "topics": [
       "middle-eastern"
     ],
@@ -112770,31 +111955,6 @@
       }
     ]
   },
-  "fromholborntoharrods": {
-    "name": "From Holborn to Harrods",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Fact Magazines",
-        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
-      }
-    ]
-  },
   "balabaya": {
     "name": "Bala Baya",
     "topics": [
@@ -112847,31 +112007,6 @@
   },
   "logma": {
     "name": "Logma",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Fact Magazines",
-        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
-      }
-    ]
-  },
-  "manghalii": {
-    "name": "Manghal II",
     "topics": [
       "middle-eastern"
     ],
@@ -113005,44 +112140,19 @@
       }
     ]
   },
-  "akubrestaurant": {
-    "name": "Akub Restaurant",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/palestinian-restaurants-london"
-      }
-    ]
-  },
   "cafepalestina": {
     "name": "Cafe Palestina",
     "topics": [
       "middle-eastern"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -113052,6 +112162,11 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/palestinian-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/news/an-expert-guide-to-palestinian-food-in-london-by-akubs-fadi-kattan-051424"
       }
     ]
   },
@@ -113142,56 +112257,6 @@
       }
     ]
   },
-  "cafpalestina": {
-    "name": "Caf Palestina",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/an-expert-guide-to-palestinian-food-in-london-by-akubs-fadi-kattan-051424"
-      }
-    ]
-  },
-  "maramia": {
-    "name": "Maramia",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/an-expert-guide-to-palestinian-food-in-london-by-akubs-fadi-kattan-051424"
-      }
-    ]
-  },
   "falafelhut": {
     "name": "Falafel Hut",
     "topics": [
@@ -113272,19 +112337,19 @@
       }
     ]
   },
-  "hoxtonbeachfalafelstall": {
-    "name": "Hoxton Beach Falafel Stall",
+  "hoxtonbeach": {
+    "name": "Hoxton Beach",
     "topics": [
       "middle-eastern"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -113294,6 +112359,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-falafel-london"
+      },
+      {
+        "tier": "B",
+        "source": "Mob",
+        "url": "https://www.mob.co.uk/life/the-best-falafel-in-london"
       }
     ]
   },
@@ -113392,44 +112462,24 @@
     "topics": [
       "middle-eastern"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
     "sources": [
       {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/falafel-in-london/"
-      }
-    ]
-  },
-  "discoverbanksy": {
-    "name": "Discover Banksy",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
+        "tier": "B",
+        "source": "Mob",
+        "url": "https://www.mob.co.uk/life/the-best-falafel-in-london"
+      },
       {
         "tier": "C",
         "source": "Secret London",
@@ -113464,56 +112514,6 @@
   },
   "devrankitchen": {
     "name": "Devran Kitchen",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/the-best-falafel-in-london"
-      }
-    ]
-  },
-  "maozfalafel": {
-    "name": "Maoz Falafel",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/the-best-falafel-in-london"
-      }
-    ]
-  },
-  "hoxtonbeach": {
-    "name": "Hoxton Beach",
     "topics": [
       "middle-eastern"
     ],
@@ -113714,681 +112714,6 @@
   },
   "maroushviexpress": {
     "name": "Maroush VI Express",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "itineraries": {
-    "name": "Itineraries",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "hotelhotlist": {
-    "name": "Hotel hot list",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "familytravel": {
-    "name": "Family travel",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "solotravel": {
-    "name": "Solo Travel",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "uktravel": {
-    "name": "UK Travel",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "wellbeing": {
-    "name": "Wellbeing",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "selfcare": {
-    "name": "Self-care",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "mentalhealth": {
-    "name": "Mental Health",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "career": {
-    "name": "Career",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "inspiringwomen": {
-    "name": "Inspiring Women",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "editorsletters": {
-    "name": "Editor's Letters",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "motherhood": {
-    "name": "Motherhood",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "productreviews": {
-    "name": "Product Reviews",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "family": {
-    "name": "Family",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "alltravel": {
-    "name": "All Travel",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "cruise": {
-    "name": "Cruise",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "allwellbeing": {
-    "name": "All Wellbeing",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "allstyle": {
-    "name": "All Style",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "allcareer": {
-    "name": "All Career",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "finance": {
-    "name": "Finance",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "opportunities": {
-    "name": "Opportunities",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "allfamily": {
-    "name": "All Family",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "allhome": {
-    "name": "All Home",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "career22": {
-    "name": "Career 22",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "family18": {
-    "name": "Family 18",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "style9": {
-    "name": "Style 9",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Travelista",
-        "url": "https://thetravelista.net/travel/best-lebanese-in-london/"
-      }
-    ]
-  },
-  "wellbeing22": {
-    "name": "Wellbeing 22",
     "topics": [
       "middle-eastern"
     ],
@@ -118830,31 +117155,6 @@
         "tier": "C",
         "source": "Veggies Abroad",
         "url": "https://veggiesabroad.com/vegan-london-a-royal-guide-to-the-uk-capital/"
-      }
-    ]
-  },
-  "makiandramen": {
-    "name": "Maki & Ramen",
-    "topics": [
-      "new-openings"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
       }
     ]
   },

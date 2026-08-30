@@ -1,7 +1,7 @@
 {
   "cuisine": "middle-eastern",
   "note": "SCOPE. Middle Eastern here means Lebanese, Levantine, Palestinian, Israeli and Syrian. It does NOT include Persian or Turkish, both of which are separate cuisines with their own tiers in research-playbook.json - Persian tier 3, Turkish tier 2. This matters because published 'Middle Eastern' lists routinely mix all of them, exactly as Chinatown lists mixed Korean, Malaysian and Thai into the Chinese pass. Any Persian or Turkish venue that surfaces here goes to pending-cross-cuisine.json for its own pass, not into these rows. Known-blocked domains (thatsup.co.uk, quintessentially.com, trip101.com, japannakama.co.uk, guide.michelin.com) are deliberately absent - see blockedDomains in the playbook. Every URL came from a search result, never from a guessed path.",
-  "recorded": "2026-08-25",
+  "recorded": "2026-08-30",
   "sources": [
     {
       "name": "The Infatuation (Lebanese)",
@@ -90,13 +90,11 @@
         "Berenjak",
         "Imad’s Syrian Kitchen",
         "Bubala",
-        "Durak Tantuni",
         "Juma Kitchen",
         "Akub",
         "Palmyra’s Kitchen",
         "Nandine",
         "Mr Falafel",
-        "Mangal 2",
         "Common Breads",
         "The Palomar",
         "Maryam's Kitchen",
@@ -117,7 +115,6 @@
       "url": "https://foodism.co.uk/guides/best-lebanese-cuisine-london/",
       "scope": "middle-eastern",
       "names": [
-        "by Lucas Oakeley",
         "Al Waha",
         "Maroush",
         "Abd el Wahab",
@@ -145,8 +142,7 @@
         "The Barbary",
         "Berber & Q",
         "Berenjak",
-        "ROVI",
-        "Mangal 2"
+        "ROVI"
       ]
     },
     {
@@ -154,7 +150,6 @@
       "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london",
       "scope": "middle-eastern",
       "names": [
-        "From Holborn to Harrods",
         "Akub",
         "Al Waha",
         "Bala Baya",
@@ -170,7 +165,6 @@
         "Ishbilia",
         "Kebab Queen",
         "Logma",
-        "Manghal II",
         "Noreen",
         "T by Tamara",
         "The Palomar",
@@ -188,8 +182,7 @@
         "Maramia Cafe",
         "ShakeShuka",
         "Hiba",
-        "Hiba Taboun",
-        "The Author"
+        "Hiba Taboun"
       ]
     },
     {
@@ -200,19 +193,7 @@
         "Caf Palestina",
         "T by Tamara",
         "Maramia",
-        "Akub",
-        "Investor relations",
-        "Work for Time Out",
-        "Privacy notice",
-        "Do not sell my information",
-        "Accessibility statement",
-        "Get Listed",
-        "Time Out Offers FAQ",
-        "Advertising",
-        "Time Out Market",
-        "Time Out Offers",
-        "Time Out Worldwide",
-        "Movies"
+        "Akub"
       ]
     },
     {
@@ -242,9 +223,7 @@
         "Falafel Zaki Zaki",
         "Magic Falafel",
         "Meza",
-        "Maoz",
-        "Discover Banksy",
-        "Discover our cities"
+        "Maoz"
       ]
     },
     {
@@ -252,16 +231,6 @@
       "url": "https://www.mob.co.uk/life/the-best-falafel-in-london",
       "scope": "middle-eastern-falafel",
       "names": [
-        "Browse All Recipes",
-        "Meals",
-        "Nutrition",
-        "Ingredients",
-        "Dinner tonight",
-        "Lunch today",
-        "Feed the whole family",
-        "Meal Plans",
-        "Batch Cooking",
-        "Freezer-Friendly",
         "Mr. Falafel",
         "Pilpel",
         "Pockets",
@@ -294,38 +263,7 @@
       "names": [
         "Sahara",
         "Levant",
-        "Maroush VI Express",
-        "Itineraries",
-        "Hotel hot list",
-        "Family travel",
-        "Solo Travel",
-        "UK Travel",
-        "Wellbeing",
-        "Self-care",
-        "Mental Health",
-        "Beauty",
-        "Career",
-        "Inspiring Women",
-        "Editor's Letters",
-        "Motherhood",
-        "Product Reviews",
-        "Restaurant Reviews",
-        "Family",
-        "All Travel",
-        "Cruise",
-        "All Wellbeing",
-        "All Style",
-        "Fashion",
-        "All Career",
-        "Finance",
-        "Opportunities",
-        "All Family",
-        "All Home",
-        "Career 22",
-        "Family 18",
-        "Style 9",
-        "Wellbeing 22",
-        "Disclaimer"
+        "Maroush VI Express"
       ]
     },
     {
@@ -333,14 +271,13 @@
       "url": "https://luxurylondon.co.uk/taste/food/best-middle-eastern-restaurants-london/",
       "scope": "middle-eastern",
       "names": [
-        "/ Social",
         "Arabica",
         "Akub",
         "Noreen",
         "Claro",
-        "Bubala",
-        "Posts"
+        "Bubala"
       ]
     }
-  ]
+  ],
+  "scope": "SCOPE. Middle Eastern here means Lebanese, Levantine, Palestinian, Israeli and Syrian. It does NOT include Persian or Turkish, both of which are separate cuisines with their own tiers in research-playbook.json - Persian tier 3, Turkish tier 2. This matters because published 'Middle Eastern' lists routinely mix all of them, exactly as Chinatown lists mixed Korean, Malaysian and Thai into the Chinese pass. Any Persian or Turkish venue that surfaces here goes to pending-cross-cuisine.json for its own pass, not into these rows. Known-blocked domains (thatsup.co.uk, quintessentially.com, trip101.com, japannakama.co.uk, guide.michelin.com) are deliberately absent - see blockedDomains in the playbook. Every URL came from a search result, never from a guessed path."
 }
