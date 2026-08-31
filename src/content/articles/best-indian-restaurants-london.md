@@ -216,13 +216,7 @@ The **bacon naan roll** made it a breakfast destination as much as a dinner one:
 **££. Any party size can book before 6pm; after 6pm bookings are for groups of six or more only**, and most tables are held for walk-ins either way. Seven London branches.
 
 
-> 💡 **Getting a table**
-
-> * **6pm is the cut-off, not the party size.** Any number of people can book before 6pm. After 6pm, bookings open only for groups of six or more — which is where the widely repeated "Dishoom doesn't take reservations" comes from, and why a table for two books perfectly well at lunch.
-
-> * **Most tables are held for walk-ins** at every hour, so a booking page showing nothing does not mean a full restaurant.
-
-> * **Breakfast and lunch barely queue.** After 6pm and at weekends, expect thirty minutes to an hour, with chai brought to you while you wait.
+> 💡 **Getting a table:** 6pm is the cut-off, not the party size — any number can book before it, six or more after. Most tables are held for walk-ins at every hour, so an empty booking page is not a full restaurant. Breakfast and lunch barely queue.
 
 ### Darjeeling Express, Covent Garden
 
