@@ -79,6 +79,17 @@ for (const f of files) {
 
   for (let i = 0; i < lines.length; i++) {
     if (!/^### /.test(lines[i])) continue;
+    // A ### that CONTAINS #### headings is a section header, not an entry.
+    // best-indian-restaurants-london groups venues under "### North-eastern and
+    // Himalayan" with the restaurants themselves at ####, and counting the
+    // group header as a thin entry asks the writer to pad a signpost.
+    {
+      let k = i + 1, isSection = false;
+      for (; k < lines.length && !/^#{1,3} /.test(lines[k]); k++) {
+        if (/^#### /.test(lines[k])) { isSection = true; break; }
+      }
+      if (isSection) continue;
+    }
     const name = lines[i].replace(/^###\s+/, "").trim();
     let w = 0, hasDish = false, hasPractical = false, hasFood = false;
     const body = [];
