@@ -118,21 +118,21 @@ Sit at the oyster bar downstairs unless you want the full dinner.
 
 *£££ · Borough, Battersea and South Kensington · Cited by 6 sources · Good Food Guide*
 
-The London oyster default, and the most-cited restaurant here with more than one site. The Good Food Guide names the Borough Market original specifically; The Infatuation prefers Battersea for the riverside terrace.
+**An oyster bar with fish arriving from Devon daily and a specials board that changes with the boat** — the company started as an oyster supplier and still farms its own in the Duchy of Cornwall's waters, which is why the shellfish is better than the price suggests.
 
-They are oyster merchants first — the menu changes with what the Brixham day boats bring in, and the London-cured smoked salmon is the thing to order that nobody does.
+**Oysters** are the order and the reason it exists: native and rock, listed by bed, with a proper shucking counter. Beyond them, whole fish, a **fruits de mer** for the table, and pies in winter.
 
-**Book:** [thewrightbrothers.co.uk](https://thewrightbrothers.co.uk/)
+**£££, book a few days ahead.** Borough Market, Soho and Battersea among others; the Borough site is the original and the loudest.
 
 ### Seabird, South Bank
 
 *£££ · Blackfriars · Cited by 5 sources*
 
-Fourteen floors up on Blackfriars Road, from the team behind Brooklyn's Maison Premiere, mixing local seafood with Mediterranean cooking. The Infatuation calls it arguably London's prettiest rooftop and the best oyster experience in the city.
+**Fourteen floors up on Blackfriars Road** from the team behind Brooklyn's Maison Premiere — a rooftop room with a terrace and one of the better southward views in London.
 
-**Oyster happy hour runs daily, 3pm to 6pm** — the cheapest way into the view.
+The proposition is oysters and the view: it claims **London's longest oyster list**, alongside ceviche, whole fish and a Mediterranean-leaning menu. **The oyster happy hour runs daily from 3pm to 6pm and is the cheapest way into the room.**
 
-**Book:** [seabirdlondon.com](https://seabirdlondon.com/) · 40 Blackfriars Road, SE1 8PB
+**£££ and it books weeks ahead** for a terrace table. Go at the happy hour and stay for sunset — that is the whole play.
 
 ### Wiltons, St James's
 
@@ -164,21 +164,21 @@ The critics' favourite among the small fish rooms — an award, two mastheads an
 
 *£££ · Tottenham Court Road · Cited by 4 sources*
 
-A Dutch import — the family were Volendam fishmongers from 1984 and opened the first Seafood Bar in Amsterdam in 2012. This is their only London site.
+**A Dutch import** — the family were **Volendam fishmongers from 1984** and opened the first Seafood Bar in Amsterdam in 2012. This is their only London site.
 
-Towering platters on crushed ice, smoked eel, North Sea crab, fish grilled on the plancha. Less formal than anything else here at the price, and the *fruits de mer* is what everyone else in the room is looking at.
+**The fruits de mer is what the rest of the room is looking at**: a tiered ice platter of oysters, langoustines, crab and prawns, brought out whole. Beyond it, grilled fish, fried plates and a raw bar, in a bright white-tiled room built around the ice counter.
 
-**Book:** [theseafoodbar.com](https://theseafoodbar.com/) · 77 Dean Street, W1D 3SH
+**£££, book a few days ahead.** Dean Street. Order the platter for two even if you think it looks like too much.
 
 ### Randall & Aubin, Soho
 
 *£££ · Piccadilly Circus · Cited by 4 sources · no bookings*
 
-A converted butcher's shop on Brewer Street with the marble counters still in place and a disco ball over the dining room. Both The Infatuation and Hot Dinners reach for the same word — it has been packing Soho in for over twenty years and has never pretended to be a serious restaurant.
+**The marble counters of the old butcher's shop are still in place and there is a disco ball over the dining room** — over twenty years on Brewer Street, and **it takes no bookings at all.**
 
-Champagne, shellfish and langoustines with garlic butter, standing at a counter if you have to. **No bookings.**
+Champagne and shellfish is the format: **oysters, lobster, a fruits de mer**, and rotisserie chicken for anyone who wandered in by mistake. The music is loud, the seating is stools at high counters, and it is one of the most reliably fun rooms in Soho.
 
-**Book:** [randallandaubin.com](https://randallandaubin.com/) · 14–16 Brewer Street, W1F 0SG
+**£££, walk-in only** — put your name down and drink in Soho until they call. Busiest from seven; easiest at five or after ten.
 
 ---
 
@@ -216,9 +216,11 @@ Be clear what it is: **a 2023 opening from the Wolseley Hospitality Group**, not
 
 *£££ · Covent Garden · Cited by 3 sources · Good Food Guide*
 
-A small Henrietta Street room that expanded to make space for a raw bar, which is where to sit. Work through the oyster list, then the Dorset brown crab with aioli.
+**A tiny Covent Garden room with about thirty covers**, built entirely around the shucking counter — one of the smallest serious fish restaurants in central London.
 
-**Book:** [oystermen.co.uk](https://oystermen.co.uk/) · 32 Henrietta Street, WC2E 8NA
+**Oysters** from British and Irish beds, listed and changed daily, with a short menu of whole crab, grilled fish and shellfish around them. The kitchen is essentially a counter, so the cooking is direct: heat, butter, lemon.
+
+**£££, book a few days ahead** — it is small enough that walk-ins rarely work. Henrietta Street, two minutes from the piazza.
 
 ---
 
@@ -230,29 +232,31 @@ The most interesting thing happening in London seafood: you eat what the trade b
 
 *££££ · Sloane Square · Cited by 3 sources*
 
-**The fishmonger that supplies Ikoyi and KOL**, with a bistro above and a seafood bar below. By day a working fish shop; by evening entirely a restaurant. There is a heated terrace on the Pavilion Road mews, and a chef's-table version at the Hackney branch.
+**A fishmonger's counter with a chef's table behind it** — named after the Iris Murdoch novel, and the most unusual seafood format in this guide.
 
-The counter downstairs is the seat to want.
+By day it sells fish; in the evening it turns into a **counter tasting menu built entirely around what did not sell** — raw, cured and lightly cooked plates served to a handful of seats. The Hackney site does the same thing on a larger scale.
 
-**Book:** [theseathesea.net](https://www.theseathesea.net/) · 174 Pavilion Road, SW1X 0AW
+**£££ and the counter books weeks ahead.** Pavilion Road, Chelsea. Buy fish in the afternoon and come back for dinner if you want the full idea.
 
 ### Applebee's, Borough Market
 
 *£££ · London Bridge · Cited by 2 sources · Time Out #3*
 
-A **family-run Borough Market fixture since 1999** that started as a fishmonger and turned into a restaurant almost by accident, with the counter still at the front and live-fire cooking behind it.
+**A family-run Borough Market fixture since 1999 that started as a fishmonger and turned into a restaurant**, with **the counter still at the front and live-fire cooking behind it** — you buy fish at the door and eat it at the back.
 
-Hand-dived scallops, brown crab rarebit, dry-aged Dover sole. Time Out ranks it third in London. The fish sandwich from the counter is around £8 and one of the best cheap lunches in the city.
+The grill does whole fish and shellfish over charcoal: **whole seabass, king prawns, scallops in the shell**, plus a fish curry that regulars order over anything grilled. Market produce means the board changes constantly.
 
-**Book:** [applebeesfish.com](https://applebeesfish.com/) · 5 Stoney Street, SE1 9AA
+**£££, book a few days ahead**, and note it keeps market hours — this is lunch and early evening rather than a late dinner.
 
 ### Prawn on the Lawn, Highbury
 
 *£££ · Highbury & Islington · Cited by 2 sources*
 
-Fishmonger and restaurant on St Paul's Road with direct links to Padstow day boats, which is the whole argument for it. The signature prawn and avocado dish is the one everyone orders; the blackboard specials are the reason to go back.
+**Direct links to Padstow day boats**, which is the whole argument for it — the same owners run a restaurant in Padstow and the fish comes up overnight.
 
-**More:** 292–294 St Paul's Road, N1 2LH
+The **prawn and avocado** is the signature, but **the blackboard specials are the reason to go back** — they change with whatever came off the boat that morning. Small plates rather than mains, ordered across the table.
+
+**£££, book a few days ahead.** A small Highbury room with a fishmonger's counter at the front; sit at the counter if there is space.
 
 ---
 
@@ -262,27 +266,31 @@ Fishmonger and restaurant on St Paul's Road with direct links to Padstow day boa
 
 *££££ · London Fields · Cited by 2 sources · Michelin star*
 
-Andy Beynon's eighteen-seat horseshoe counter, and **the fastest Michelin star in British history** — awarded in January 2021 after roughly twenty days of trading. Time Out gives it five stars and puts it eleventh.
+**Andy Beynon's eighteen-seat horseshoe counter took a Michelin star in January 2021 after roughly twenty days of trading — the fastest in British history.**
 
-A surprise tasting menu built entirely around fish, around £98 for eight courses. There are eighteen seats, so book a long way out.
+**A surprise tasting menu built entirely around fish**: you are told nothing in advance and the sequence depends on what arrived. Everything is cooked and served by the chefs across the counter, a foot from where you are sitting.
 
-**Book:** [behindrestaurant.co.uk](https://behindrestaurant.co.uk/)
+**££££, open Wednesday to Saturday only** — closed Sunday, Monday and Tuesday — **and it books weeks ahead.** Eighteen seats is the constraint on everything.
 
 ### Angler, Moorgate
 
 *££££ · Moorgate · Cited by 2 sources · Michelin star · Good Food Guide*
 
-A rooftop dining room at the South Place Hotel with an all-seafood tasting menu built around British fish and shellfish. The most formal fish cooking in the City, and the least-known starred kitchen in this guide.
+**A rooftop dining room at the South Place Hotel** with **an all-seafood tasting menu built around British fish and shellfish** — the most formal fish cooking in the City, and the only Michelin-starred fish restaurant in it.
 
-**More:** South Place Hotel, 3 South Place, EC2M 2AF
+The menu is a fixed sequence of British catch treated at fine-dining level: **Cornish turbot, native lobster, Isle of Skye scallops**, with sauces reduced in the classical French manner. There is a terrace for the warmer months.
+
+**££££ and it books weeks ahead.** Moorgate. The set lunch is significantly cheaper than the evening tasting menu.
 
 ### Pearly Queen, Shoreditch
 
 *£££ · Shoreditch High Street · Cited by 2 sources · Good Food Guide*
 
-Tom Brown's Commercial Street oyster bar, and the most playful cooking on this page — a prawn Scotch egg, cuttlefish lasagne, and a crispy buffalo oyster with ranch dressing that is the reason to come.
+**Tom Brown's Commercial Street oyster bar, and the most playful cooking in this guide** — the chef behind Cornerstone doing seafood that refuses to be reverent about itself.
 
-**More:** 44 Commercial Street, E1 6LT
+The **crispy buffalo oyster with ranch dressing** is the signature and tells you everything: a deep-fried oyster treated like a chicken wing. Beside it a **prawn Scotch egg** and a **cuttlefish lasagne**, alongside a straight raw bar for anyone who wants oysters served properly.
+
+**£££, book a few days ahead.** Shoreditch, loud, and the room least like a fish restaurant on this page.
 
 ---
 
@@ -292,37 +300,41 @@ Tom Brown's Commercial Street oyster bar, and the most playful cooking on this p
 
 *£££ · Hammersmith · Cited by 3 sources · Time Out #10*
 
-A light-filled corner room on Hammersmith Road from a pair who ran a seafood pub in the East End first, so the supply lines were already in place. Watch the blackboard; the chalkstream trout tartare is the standing recommendation.
+**A light-filled corner room from a pair who ran a seafood pub in the East End first**, so the supply lines were already in place before they opened.
 
-**More:** 206 Hammersmith Road, W6 7DH
+**Watch the blackboard** — the menu changes with the catch — and the **chalkstream trout tartare** is the standing recommendation, a farmed British trout raised in chalk-fed rivers and served raw with sharp seasoning. Whole fish and shellfish behind it.
+
+**£££, book a few days ahead.** Hammersmith, and one of very few reasons to eat in that part of west London.
 
 ### Orasay, Notting Hill
 
 *£££ · Ladbroke Grove · Cited by 2 sources*
 
-Jackson Boxer's Kensington Park Road room, "focussed on fish and seafood, inspired by the Western Isles" in its own words — wood-grilled whole John Dory, Isle of Mull diver scallops.
+**Named after a Hebridean island**, and cooking Scottish and Irish seafood in a small Notting Hill room — Jackson Boxer's kitchen, and one of the quieter serious fish restaurants in London.
 
-**More:** 31 Kensington Park Road, W11 2EU
+The sourcing is the argument: **hand-dived scallops, Hebridean langoustines, oysters from named beds**, cooked simply and served with more restraint than the postcode usually allows. The menu changes with the boats.
+
+**£££, book a few days ahead.** Small, calm, and better at lunch than dinner if you want to hear anything.
 
 ### Sam's Riverside, Hammersmith
 
 *£££ · Hammersmith · Cited by 2 sources*
 
-A Thames-side room by Hammersmith Bridge with a terrace, and the best-value sit-down fish on this page:
+**A Thames-side room by Hammersmith Bridge with a terrace, and the best-value sit-down fish on this page** — Sam Harrison's brasserie, and the reason to be in Hammersmith at all.
 
-* **Set menu** — two courses **£26.60**, three for **£31.50**.
-* **Oyster happy hour** — Jersey Rock and Carlingford Lough oysters at **£2 each**.
-* **£5 corkage every Monday**, which is worth planning around.
+**Two courses at lunch for well under the going rate**, built on whole fish, fish pie and a shellfish counter, in a bright room with the river through the windows. The à la carte runs to Dover sole and crab for anyone spending properly.
 
-**Book:** [samsriverside.co.uk](https://www.samsriverside.co.uk/) · 1 Crisp Walk, W6 9DE
+**£££, book a few days ahead** — the terrace goes first and is the reason to plan around the weather.
 
 ### Fish Market, Broadgate
 
 *£££ · Liverpool Street · Cited by 2 sources*
 
-An 18th-century warehouse once owned by the East India Company, now a fish-led City restaurant with a top-end wine list and a weekend seafood brunch that is the reason most people go.
+**An 18th-century warehouse once owned by the East India Company**, now a fish-led City restaurant with a top-end wine list — and **a weekend seafood brunch that is the reason most people go.**
 
-**More:** 16B New Street, EC2M 4TR
+The brunch is a shellfish spread rather than eggs: **oysters, prawns, crab and smoked fish**, with the wine list open at weekend prices. Whole fish and a raw bar the rest of the week.
+
+**£££ and it books ahead**, particularly for the weekend brunch. Broadgate, and one of very few reasons to be in the City on a Saturday.
 
 ### Lilibet's, Mayfair
 
@@ -362,9 +374,11 @@ The best-value trick in London dining. Several serious oyster bars discount hard
 
 *Free to enter · before dawn*
 
-The **UK's largest inland fish market**, trading from around 4am a few minutes from the towers. The public can buy, and it is finished by about 8am. The traders' café does a bacon and scallop roll.
+**The UK's largest inland fish market**, trading from around 4am a few minutes from the Canary Wharf towers — **the public can buy**, and it is finished by about 8am.
 
-Go early, wear boots you do not mind ruining, and bring cash and a cool bag.
+This is where most of the restaurants on this page get their fish, several hours before they open. Bring cash, bring a cool bag, and expect to buy in quantity — traders sell by the box rather than the fillet. **The traders' café does a bacon and scallop roll** that is the best reason to be awake at that hour.
+
+**Free to enter, before dawn, and closed Sunday and Monday.** Wear shoes you do not mind ruining; the floor is wet throughout.
 
 ---
 
