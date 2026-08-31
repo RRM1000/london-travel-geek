@@ -101,11 +101,13 @@ Breakfast runs daily, with brunch on Saturday and a Sunday lunch. Worth booking 
 
 *££££ · Michelin-starred · one site* · Cited by 2 sources
 
-A **Michelin-starred kitchen that serves breakfast**, which almost none do — the ground-floor Ground room does a morning service under the sculptural oak staircase that winds up through all three floors of the building, looking out over Green Park.
+**Ollie Dabbous's** restaurant at 85 Piccadilly, opened with Hedonism Wines and looking straight out over **Green Park**. Breakfast is served in **Ground**, the ground-floor room, under a sculptural oak staircase that spirals up through all three floors — one of the few dining rooms in London people photograph for the joinery.
 
-The only room in this guide named **both by the Good Food Guide and by the chefs TOPJAW surveyed** — a critics' guide and a professional survey agreeing, which happens nowhere else on this page.
+**A Michelin-starred kitchen that serves breakfast, which almost none do.** The menu runs in four parts: fruits, seeds and grains; **viennoiseries baked on site every morning** at the open bakery; a caviar and oysters section; and a savoury selection built around the signature **HIDE croque monsieur**. Elsewhere, **truffled scrambled eggs**, a reworked full English, avocado on toast, and a house granola.
 
-It is the most expensive breakfast here by a distance and the one most likely to be someone else's expense account. **Book**, and ask for a window table on the park side.
+The open bakery is the thing to know about: the bread, cakes and pastries are made in the room and you can watch it happen, which is not true of any other Michelin kitchen doing breakfast here.
+
+The most expensive breakfast in this guide by a distance, and the one most likely to be somebody's expense account. **Book**, and ask for a window table on the park side.
 
 ### Fallow, St James's
 
@@ -150,11 +152,13 @@ The coffee is roasted at **Lamb Works**, an 8,500 sq ft Victorian warehouse in I
 
 *££ · 3 min from Balham · one site* · Cited by 3 sources
 
-On **Hildreth Street market since 2012**, and the room that made people cross the river for brunch before south London brunch was a thing. Small, tiled, deafening at 11am on a Sunday, and it has never opened a second site.
+On **Hildreth Street Market since 2012**, opened by **Julian Porter and Lauren Johns**, and the room that made people cross the river for brunch before south London brunch was a thing. They knocked through into the shop next door in 2015 to double it, and it is still small and still deafening at 11am on a Sunday.
 
-The dish to order is the **Convict Gloucester** — an Old Spot pork patty on an English muffin with streaky bacon, scrambled eggs, Lincolnshire Poacher and the **hangover sauce** the place is known for. Elsewhere, poached eggs under a burnt butter hollandaise, and a sweet plate called the Sweet Maria.
+The dish to order is the **Convict Gloucester** — an Old Spot pork patty on an English muffin with streaky bacon, scrambled eggs, Lincolnshire Poacher and the **hangover sauce** the place is known for. Beside it the **Sweet Maria**, the banana bread, a secret-recipe granola, and poached eggs under a burnt butter hollandaise.
 
-**No bookings**, but the queue moves: even at weekends you are unlikely to wait more than half an hour, which by London brunch standards is nothing.
+The coffee is taken as seriously as the food: **an exclusive roast with Assembly** in Brixton, with Plot Roasting also on the bar. Porter and Johns also run Fields on Clapham Common, but Milk itself has never opened a second site — which is unusual for something this well known.
+
+**No bookings**, and the queue moves: even at weekends you are unlikely to wait more than half an hour, which by London brunch standards is nothing.
 
 ![The frontage of Milk café in Balham with pavement tables](../../assets/articles/best-breakfast-brunch-london/milk.jpg)
 *The Balham café that drew people across the river before south London brunch was a thing. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/28220076190), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
@@ -210,9 +214,11 @@ Places where the coffee is the reason and the food is very good anyway.
 
 Australian and New Zealand owned, opened on **Great Titchfield Street in 2009**, and one of the handful of shops that brought antipodean coffee culture to London before anyone here used the phrase. A second site followed on **Eastcastle Street in 2015** — both Fitzrovia, five minutes apart.
 
-The coffee is the reason to come and the food counter is better than it needs to be: proper tarts and salads made on site rather than bought in, and a pastry case that sells out by early afternoon.
+Coffee is **Square Mile**, with the guest espresso and filter rotated regularly, so there is usually something on the brew bar worth asking about.
 
-It fills with people from the surrounding offices and media buildings, so it is calmest before 9am and after 3pm. Counter service, and not somewhere to settle in for hours.
+**The menu changes weekly**, which is unusual for a coffee shop and the reason the counter is better than it needs to be. Expect **espresso-drizzled pancakes with mascarpone and berries**, **smashed avocado on sourdough**, and sandwiches made on site — smoked salmon with chive cream cheese, breaded brie with roasted aubergine — alongside a pastry case that sells out by early afternoon.
+
+**Mon–Fri 7.30am–5.30pm, Saturday 9am–4pm, closed Sundays.** It fills with people from the surrounding offices and media buildings, so it is calmest before 9am and after 3pm. Counter service, and not somewhere to settle in for hours.
 
 ![A slice of tart with a green salad on a wooden counter](../../assets/articles/best-breakfast-brunch-london/kaffeine.jpg)
 *An Australian-run café on Great Titchfield Street that set the template a lot of London coffee shops followed. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3859693639), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
@@ -233,7 +239,7 @@ Weekday mornings it fills with people working; it is one of the few serious coff
 
 The original site is a **watch house built between 1810 and 1812** to guard the graves in St Mary Magdalen churchyard next door from body snatchers. It **seats ten** — the whole building is smaller than most café front rooms — and serves several hundred people a day through the door.
 
-Coffee is roasted in-house and the counter runs to sandwiches and sweet things rather than a full kitchen. This is a stop rather than a sit-down breakfast, and the Bermondsey Street original is the one worth the detour.
+Coffee is roasted in-house, and the counter runs to **pastries, fresh bakes and very good sandwiches** rather than a full kitchen. The group splits its sites into Espresso Houses, which do bakes and sandwiches like this one, and larger Brunch Houses that serve **oat and rye porridge, breakfast classics and seasonal plates** until 11am — so check which kind you are walking into.
 
 From this one room the group has grown across the City, out to Bath and into New York, which makes it the most successful London coffee export of the last decade. The other sites are comfortable; this one is the story.
 
@@ -339,9 +345,9 @@ Prices are published, which is rarer than it should be: avocado toast **£12.80*
 
 *Daily · last food orders 3pm* · Cited by 2 sources
 
-A serious coffee bar on Westbourne Grove that also cooks — the kind of place where the espresso is dialled in properly and the food menu is not an afterthought bought in from a supplier.
+A contemporary independent at **14–16 Westbourne Grove** with a deliberately small menu and a singular focus on doing it well — specialty coffee and tea, a short brunch list, baked goods and cocktails, and not much else.
 
-The **oat flat white made with Ozone coffee** is what it is known for, alongside excellent matcha and **single-origin brews from a guest roaster that changes monthly**, so the filter is different every few weeks. Brunch plates are Australian-influenced and change with the seasons.
+The **oat flat white made with Ozone coffee** is what it is known for, alongside good matcha and **single-origin filter from a guest roaster that changes monthly**, so the brew list is different every few weeks. On the food side: **avocado toast, vegan pancakes, creamy mushrooms and scrambled eggs on toast, eggs Benedict and Royale**, and two dishes people come back for — a **halal chicken katsu sando** and **berry French toast**.
 
 Small, busy, and geared to people who care which roaster is on. Counter service; it fills mid-morning at weekends and is calm on a weekday.
 
@@ -384,17 +390,7 @@ The brunch menu is genuinely inventive rather than decorated — a **crab and 'n
 
 London brunch is unusual in that **several of its best rooms are chains**, because the format arrived as a business rather than as a one-off. A chain here is not the compromise it would be at dinner.
 
-### Granger & Co, several sites
-
-*£££ · Bill Granger* · Cited by 4 sources
-
-The **joint most-cited room in this whole guide**, and a chain — which is how completely the Australian import won. **Four London sites**: Chelsea, King's Cross, Marylebone and Notting Hill. [Full entry above](#granger--co-notting-hill).
-
-### Dishoom, seven sites
-
-*££ · the bacon naan* · Cited by 3 sources
-
-The only chain here that people queue for by name, and the **double bacon naan is £9**. Seven London sites — Covent Garden, Shoreditch, King's Cross, Carnaby, Kensington, Canary Wharf and Battersea — with Borough opening. [Full entry above](#dishoom-covent-garden).
+Three of them are covered in full above, because they belong in their sections as much as in this one: **[Granger & Co](#granger--co-notting-hill)** (four London sites, and the joint most-cited room in this guide), **[Dishoom](#dishoom-covent-garden)** (seven London sites, with Borough opening) and **[Caravan](#caravan-clerkenwell)** (seven). The rest are below.
 
 ### The Breakfast Club, several sites
 
@@ -410,11 +406,13 @@ Covent Garden, Hackney Wick, London Bridge and Croydon among others. **The queue
 
 *££ · the flower-covered ones* · Cited by 2 sources
 
-Instantly recognisable from the flower-covered frontages, and a bottomless brunch operation as much as a breakfast one — Mediterranean-leaning all-day food, big sharing plates, and a room designed to be photographed.
+Instantly recognisable from the flower-covered frontages, and a bottomless brunch operation as much as a breakfast one — Mediterranean all-day food in rooms built to be photographed.
 
-**Twenty-two sites, ten of them in London** — Parsons Green, Battersea, Clapham Old Town, Balham, Wandsworth, Wimbledon, Dulwich, Chiswick, Kensington and Islington — with the rest strung along the Thames and out through Surrey and the home counties. Almost entirely a south and west London operation, so there is usually one near where you already are on that side of the river.
+The format is **mezze you assemble yourself**: dips, flatbreads, small plates and little grills, meant for grazing across the table. The house things are the **posh kebabs**, the espresso martini and the **half-baked cookie dough**, and the brunch menu runs the usual eggs alongside bowls and grills.
 
-**Book for weekends**, particularly for the bottomless sittings, which run to a time limit and fill first. Weekday mornings are walk-in and calm.
+**Twenty-two sites, ten of them in London** — Parsons Green, Battersea, Clapham Old Town, Balham, Wandsworth, Wimbledon, Dulwich, Chiswick, Kensington and Islington — with the rest strung along the Thames and out through Surrey and the home counties. Almost entirely a south and west London operation.
+
+**Book for weekends**, particularly the bottomless sittings, which run to a time limit and fill first. Weekday mornings are walk-in and calm.
 
 ### Ottolenghi, five sites
 

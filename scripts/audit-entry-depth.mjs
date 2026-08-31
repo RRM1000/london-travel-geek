@@ -42,7 +42,13 @@ const args = process.argv.slice(2);
 const MIN = Number(args.find((a) => a.startsWith("--min="))?.slice(6) ?? 80);
 const only = args.filter((a) => !a.startsWith("--"));
 
-// Lines that are furniture around an entry rather than the entry itself.
+// Does the entry say what you would actually eat? Deliberately broad - one named
+// dish is enough - because the failure caught is an entry that never mentions food
+// at all. Hide ran to 117 words about which sources cited it and named nothing.
+//
+// No trailing word boundary: \bscone\b does not match "scones".
+const FOOD = /\b(egg|bacon|sausage|toast|pancake|waffle|scone|naan|bao|hotcake|granola|porridge|omelette|benedict|shakshuka|avocado|croissant|pastr|bun|bread|brioche|salmon|kedgeree|black pudding|hash|fritter|labaneh|mezze|flatbread|jam|cake|danish|muffin|rosti|farl|chorizo|hollandaise|caviar|oyster|croque|cornbread|sando|kebab|dip|sandwich|butty|tart|curry|noodle|dumpling|steak|pie|pizza|chip|roast|fry-up|full english|full irish|tea|coffee|espresso|flat white|viennoiserie|patisserie|marmalade|preserve|clotted cream|hotcakes|eggs benedict)/i;
+
 const isChrome = (t) => {
   const s = t.trim();
   if (!s) return true;
@@ -70,7 +76,7 @@ for (const f of files) {
   for (let i = 0; i < lines.length; i++) {
     if (!/^### /.test(lines[i])) continue;
     const name = lines[i].replace(/^###\s+/, "").trim();
-    let w = 0, hasDish = false, hasPractical = false;
+    let w = 0, hasDish = false, hasPractical = false, hasFood = false;
     const body = [];
     for (let j = i + 1; j < lines.length && !/^#{2,3} /.test(lines[j]); j++) {
       const t = lines[j];
@@ -80,6 +86,9 @@ for (const f of files) {
       // A named dish is usually bolded or carries a food noun.
       if (/\*\*[^*]+\*\*/.test(t)) hasDish = true;
       if (/\b(book|booking|queue|walk-in|cash|opens?|closed|until|from \d|per head|£)\b/i.test(t)) hasPractical = true;
+      // NAME THE FOOD. Word count alone let an entry run to 117 words about which
+      // sources cited a place while never saying what you eat there.
+      if (FOOD.test(t)) hasFood = true;
     }
     // A CROSS-REFERENCE IS SUPPOSED TO BE SHORT. The skill's later sections
     // name a venue, give one line and point up to the fuller entry, precisely
@@ -87,7 +96,7 @@ for (const f of files) {
     // the writer to duplicate the very text the rule exists to prevent.
     const isCrossRef = /Full entry above/i.test(body.join(" "));
     entries++; words += w;
-    if (w < MIN && !isCrossRef) thin.push({ name, w, hasDish, hasPractical });
+    if ((w < MIN || !hasFood) && !isCrossRef) thin.push({ name, w, hasDish, hasPractical, hasFood });
   }
 
   if (!entries) continue;
@@ -104,6 +113,7 @@ for (const g of guides) {
     const missing = [];
     if (!t.hasDish) missing.push("no dish named");
     if (!t.hasPractical) missing.push("nothing practical");
+    if (!t.hasFood) missing.push("NAMES NO FOOD");
     console.log(`  ${String(t.w).padStart(3)}w  ${t.name}${missing.length ? `  — ${missing.join(", ")}` : ""}`);
   }
 }

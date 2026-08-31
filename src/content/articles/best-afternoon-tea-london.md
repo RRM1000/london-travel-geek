@@ -166,10 +166,15 @@ The distinguishing feature is the **tea master**, who weighs and infuses each bl
 
 *££££ · a garden view · Cited by 3 sources*
 
-The Rosebery lounge backs onto Hyde Park — the one grand tea with a park view rather than a room view.
+The **Rosebery Lounge** backs onto Hyde Park, which makes this the one grand tea with a park view rather than a room view — a bright, high-ceilinged space rather than a gilded one, and calmer than the Piccadilly hotels.
+
+Finger sandwiches, then **scones with Devonshire clotted cream** and an unusually good spread of preserves: Pembrokeshire strawberry jam, **rose petal jelly** and wild plum. The pastry course is curated rather than standardised and changes through the year.
+
+**Twenty-nine loose-leaf teas** on the list, and the pairing option is the distinguishing feature — you can take the tea with Champagne, sake, Alsatian wine, beer or a **sparkling tea** flight, which almost nowhere else offers.
+
+**From around £85–£89 a head.** Knightsbridge tube is two minutes; ask for a table on the park side when booking.
 
 ![The red brick and terracotta facade of the Mandarin Oriental on Knightsbridge](../../assets/articles/best-afternoon-tea-london/mandarin-oriental-hyde-park.jpg)
-
 *The tea room looks over Hyde Park, which is worth the surcharge over the ones that look at a lobby. Photo: [ell brown](https://www.flickr.com/photos/39415781@N06/20826604740), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ---
@@ -180,10 +185,13 @@ The Rosebery lounge backs onto Hyde Park — the one grand tea with a park view 
 
 *££££ · 4 min from Green Park · Cited by 1 source*
 
-The **intimate, club-like** option — panelled and low-ceilinged where The Dorchester is a long bright promenade. The one to pick if the grand hotels feel like too much room.
+The **intimate, club-like** option — panelled and low-ceilinged where The Dorchester is a long bright promenade. Brown's opened in 1837 and the tea is taken in **The Drawing Room**, recently rebranded from the English Tea Room, with a fire lit in winter and armchairs rather than dining chairs.
+
+A traditional stand done straight: finger sandwiches, **warm scones with clotted cream and preserves**, and a patisserie course, with a full leaf list alongside. No theme, no trolley, no spectacle — the appeal is the room and the quiet.
+
+**Around £140 for two including service.** The one to pick if the grand hotels feel like too much room, and it books noticeably less far ahead than The Ritz or Claridge's.
 
 ![The Georgian frontage of Brown's Hotel on Albemarle Street](../../assets/articles/best-afternoon-tea-london/brown-s-hotel.jpg)
-
 *London's oldest hotel, and its afternoon tea is the least stiff of the grand ones. Photo: [Londonmatt](https://commons.wikimedia.org/w/index.php?curid=8743312), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Rosewood London, Bloomsbury
