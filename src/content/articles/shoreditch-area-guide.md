@@ -89,9 +89,10 @@ Shoreditch has its own share of the commemorative plaques marking where notable 
 2. **Old Spitalfields Market** — A covered Victorian market hall trading daily, with different themes by day: antiques on Thursday, records on Friday, general and vintage at the weekend.
 3. **Brick Lane** — Bangladeshi restaurants at the south end, vintage and street food around the Truman Brewery, and the 24-hour bagel bakeries at the north.
 4. **Columbia Road Flower Market** — Sundays only, 08:00 to 15:00. Fifteen minutes north-east, and one of the best hours in London.
-5. **The Truman Brewery** — A former brewery complex now holding weekend markets, food halls and event space, either side of Brick Lane.
-6. **Dennis Severs' House** — A candlelit Georgian house on Folgate Street presented as if the family has just left the room. Silent, strange and unlike anything else in the city. Booked in advance.
-7. **Boxpark Shoreditch** — Shipping containers stacked into a food and retail court by Shoreditch High Street station.
+5. **The Truman Brewery** — A former brewery complex holding seven separate markets, food halls, studios and event space either side of Brick Lane. Not all of them run on the same days.
+6. **The Brick Lane Vintage Market** — The UK's biggest dedicated vintage market, in a 13,000 sq ft basement under the Truman Brewery, with around forty traders. **Open seven days a week**, unlike almost everything around it.
+7. **Dennis Severs' House** — A candlelit Georgian house on Folgate Street presented as if the family has just left the room. Silent, strange and unlike anything else in the city. Booked in advance.
+8. **Boxpark Shoreditch** — Shipping containers stacked into a food and retail court by Shoreditch High Street station.
 
 ![A large mural of a woman in a pink beanie hat with teal and orange hair, on a Shoreditch wall](../../assets/articles/shoreditch-area-guide/shoreditch-street-art.jpg)
 
@@ -101,35 +102,72 @@ Shoreditch has its own share of the commemorative plaques marking where notable 
 
 ## Key streets and micro-districts
 
-![Rails of vintage clothing and racks of shirts inside the Brick Lane vintage market](../../assets/articles/shoreditch-area-guide/brick-lane-vintage-rails.jpg)
-
-*The vintage market under the Truman Brewery. Priced by the piece upstairs, by the kilo in places downstairs.*
-
 ### Brick Lane and the Truman Brewery
-The spine. Curry houses south, markets and food halls in the middle, bagels north.
+
+The spine of the area, and it changes character three times along its length. **Bangladeshi restaurants at the south end** around the mosque, where the touts work the pavement and the good ones do not need to. **The Truman Brewery in the middle**, which is where most of what people come for actually is. **The 24-hour bagel bakeries at the north end**, where Beigel Bake has been selling salt beef through the night since 1974.
+
+The **Truman Brewery** itself is the thing to understand: brewing stopped in 1989, and the buildings on both sides of Brick Lane now hold seven separate markets, studios, galleries and event space. They do not all run on the same days, which is the single most common way to get this wrong.
+
+**Rough Trade East** is on Dray Walk inside the complex — a record shop with a stage at the back, and in-store gigs that are free with an album purchase.
 
 ![The black frontage of Rough Trade East on Dray Walk, its window display advertising new releases](../../assets/articles/shoreditch-area-guide/rough-trade-east.jpg)
 
 *Rough Trade East, on Dray Walk inside the Truman Brewery. A record shop with a stage at the back — in-store gigs are free with an album purchase.*
 
+### The Brick Lane Vintage Market
+
+**The biggest dedicated vintage clothing market in the UK**, and the one thing in this area that is genuinely open seven days a week — which almost nobody realises, because everything around it is a weekend affair.
+
+It is **underground**, in F Block at 85 Brick Lane, down a neon-lit staircase off the street: more than 13,000 square feet of basement holding **around forty specialist traders**, drawn from across the UK and Europe rather than a rota of local stalls. Each one is effectively its own boutique with its own eye, so the same aisle runs from restrained to completely mad within a few metres.
+
+**The range is the point, and it is much wider than "vintage" suggests.** Clothes from the **1920s right through to the 1990s** — flapper dresses at one end and shell suits at the other — plus **fur and feather capes, vintage bridal wear, men's tailoring, hats, sunglasses, bags and jewellery**, and racks of **vinyl** to flick through between the clothes. It is one of the few markets in London where you can dress an entire period costume, find a wearable 1970s overcoat, and buy a record, without going back up the stairs.
+
+**Open every day: Monday to Friday 11am–6.30pm, Saturday 11am–6pm, Sunday 10am–6pm.** Go on a weekday if you want to actually look at things — the Sunday crowd makes browsing rails difficult, and the traders have more time for you when it is quiet. Prices are per item and vary hugely by stall; haggling is normal on anything above about twenty pounds.
+
+![Rails of vintage clothing and racks of shirts inside the Brick Lane vintage market](../../assets/articles/shoreditch-area-guide/brick-lane-vintage-rails.jpg)
+
+*The vintage market under the Truman Brewery. Forty traders across a basement floor, open every day of the week.*
+
+**Next door, the Backyard Market** is the other half of the same trip: independent designer-makers inside a repurposed warehouse set back from Brick Lane, with street food stalls out front on the street. **Saturday 11am–6pm and Sunday 10am–6pm only** — so on a weekday, the vintage market is the one that is open.
+
 ### Spitalfields
-Around the covered market hall. Georgian streets — Fournier Street and Princelet Street — built for Huguenot silk weavers and remarkably intact.
+
+Around the covered market hall, and the most architecturally intact corner of the area by a distance. **Fournier Street and Princelet Street** are terraces of Georgian houses built for **Huguenot silk weavers** who arrived as refugees from France in the late 1600s — the wide upper windows are weavers' lofts, put there to get light onto the looms.
+
+Walk them slowly and look up. Many are still lived in, several by artists who bought them when the area was cheap, and **Dennis Severs' House** on Folgate Street is the one you can go inside: a candlelit Georgian house presented as though the family has just left the room, silent and staged and unlike anything else in London. Book ahead.
+
+**Old Spitalfields Market** itself trades daily under a Victorian roof, with a different theme by day — antiques on Thursday, records on Friday, general and vintage at the weekend — and The Kitchens, a dozen food counters around shared tables, is the most reliable weekday lunch in the area.
 
 ![Long communal tables full of people eating in front of the food counters at Old Spitalfields Market](../../assets/articles/shoreditch-area-guide/old-spitalfields-kitchens.jpg)
 
 *The Kitchens at Old Spitalfields — a dozen counters around shared tables, and the most reliable weekday lunch in the area.*
 
 ### Redchurch Street and Chance Street
-The design end. Independent fashion, skincare, coffee, and a dense run of murals.
+
+The design end, and the part of Shoreditch that gentrified hardest. **Redchurch Street** is a short run of independent fashion, skincare and homeware shops with coffee between them — the sort of street where a shop sells eight objects and all of them are beautifully lit.
+
+**Chance Street and the alleys off it carry the densest run of murals in the area**, and they change constantly. This is where street art tours end up, and where you are most likely to see someone actually painting on a weekday morning.
+
+It is a ten-minute walk end to end and worth doing between the markets rather than as a destination in itself.
 
 ### Old Street
-North-west. Bars, clubs and the tech offices around the roundabout — the loudest corner after dark.
+
+North-west, around the roundabout that spent a decade being called Silicon Roundabout. It is the **loudest corner of the area after dark** — bars, clubs and late licences — and the least interesting during the day, when it is mostly tech offices and building sites.
+
+The roundabout itself was rebuilt into a proper public space with a new station entrance, which improved it considerably. **Come here for a night out rather than an afternoon**, and know that the good bars are on the streets leading off it rather than on the junction.
 
 ### Hoxton
 North of Old Street and noticeably calmer. **Hoxton Square** is a proper garden square with bars around it, and the **Museum of the Home** — a row of eighteenth-century almshouses laid out as domestic rooms from 1600 to now, free to enter — is a five-minute walk further north. Most people never get this far and it is the part of the area that still feels residential.
 
+It is also where the drinking gets more civilised. The bars around the square and along **Hoxton Street** are pubs and neighbourhood places rather than the queue-and-bouncer operations by Old Street roundabout, and **Hoxton Street Market** trades on weekdays as a genuine local street market with none of the tourist traffic. Ten minutes' walk from Shoreditch High Street and a noticeably different evening.
+
 ### Columbia Road
-North-east and residential all week, then a wall of flowers on Sunday morning.
+
+North-east, and an ordinary residential street for six days of the week — then, on **Sunday from 8am to around 3pm**, a wall of flowers and one of the best hours in London.
+
+The trick is the timing, and it cuts both ways. **Go at 8am** and you can move, talk to the growers and photograph the street. **Go in the last hour** and the traders cut prices hard to avoid carting stock home — that is when you hear the shouting the market is famous for. The middle of the day is shoulder to shoulder and not much fun.
+
+The **shops along the street are open on Sunday too** and are the reason to stay: independent ceramics, prints, vintage and a couple of very good bakeries, all trading off the market's crowd. It is fifteen minutes' walk north-east of Brick Lane.
 
 ![The Truman Brewery chimney and clock tower rising over Brick Lane](../../assets/articles/shoreditch-area-guide/truman-brewery.jpg)
 
@@ -145,6 +183,7 @@ North-east and residential all week, then a wall of flowers on Sunday morning.
 | **Smoking Goat** | Thai barbecue | ££ | Shoreditch High Street; walk-in only downstairs |
 | **The Ten Bells** | Historic pub | ££ | Beside Spitalfields, with its Victorian tiling intact |
 | **Brick Lane Sunday food halls** | Street food | £ | Truman Brewery; dozens of traders under cover |
+| **Upmarket, Brick Lane** | Street food | £ | Truman Brewery food hall, daily 11am–6pm, and the cheapest grazing here |
 
 ![Shipping-container units and long wooden benches at Boxpark Shoreditch](../../assets/articles/shoreditch-area-guide/boxpark-shoreditch.jpg)
 
@@ -183,7 +222,7 @@ North-east and residential all week, then a wall of flowers on Sunday morning.
 
 ## Common mistakes to avoid
 
-1. **Coming on a Monday or Tuesday.** The markets that make Shoreditch worth the trip mostly do not run.
+1. **Coming on a Monday or Tuesday expecting the full picture.** Most of the markets do not run. The exceptions are worth knowing: **Old Spitalfields trades daily**, and so does the **Brick Lane Vintage Market**, which is the best reason to come midweek.
 2. **Missing Columbia Road.** Sunday morning only, fifteen minutes away, and the best of the lot.
 3. **Following an old street art map.** Pieces are painted over within months. Walk the streets rather than hunting specific murals.
 4. **Being pulled into a Brick Lane restaurant by a tout.** The touts are a reliable signal to keep walking.

@@ -74,8 +74,16 @@ const files = fs.readdirSync("src/content/articles")
   // headings too, and an 80-word floor means nothing for them.
   .filter((f) => {
     const text = fs.readFileSync(`src/content/articles/${f}`, "utf8");
-    if ((text.match(/^### /gm) || []).length < 8) return false;
-    return /^category: *"?(Food and drink|Things to do)"?\s*$/m.test(text);
+    const entries = (text.match(/^### /gm) || []).length;
+    const cat = (text.match(/^category: *"?([^"\n]+)/m) || [])[1]?.trim();
+    // Area guides carry five to seven micro-district sections rather than a
+    // long venue list, so the eight-entry rule would exclude all 27 of them.
+    // They are exactly where the thin-stub problem keeps turning up: the
+    // South Bank guide gave Borough and Southwark fourteen words, and
+    // Shoreditch gave Brick Lane twenty.
+    if (cat === "London areas") return entries >= 4;
+    if (entries < 8) return false;
+    return cat === "Food and drink" || cat === "Things to do";
   })
   .filter((f) => !only.length || only.includes(f.replace(/\.md$/, "")));
 
