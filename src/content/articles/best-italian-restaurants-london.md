@@ -79,27 +79,35 @@ Three Italian restaurants in London hold a Michelin star in the 2026 guide. Loca
 
 *££££ · book months ahead · Cited by 4 sources · 1 Michelin star*
 
-Michelin-starred simplicity on the Thames, where both Jamie Oliver and Hugh Fearnley-Whittingstall trained. Informal in atmosphere, upmarket in cooking, and the riverside terrace tables are the ones everyone wants and book furthest ahead.
+**Michelin-starred simplicity on the Thames**, and the kitchen where **Jamie Oliver and Hugh Fearnley-Whittingstall both trained** — Ruth Rogers and the late Rose Gray built the room that taught Britain what Italian cooking actually is.
+
+The principle is a short menu of very few ingredients handled precisely: **wood-roasted whole fish**, hand-rolled pasta, and the **chocolate nemesis** — a flourless cake that is on every list of London's best puddings. Produce is flown from Italian growers weekly and priced accordingly.
+
+**££££ and it books months ahead. The terrace tables are the ones everyone wants** and go first — ask specifically. Informal in atmosphere, upmarket in every other respect.
 
 ### Luca, Clerkenwell
 
 *£££ · 4 min from Farringdon · book weeks ahead · Cited by 8 sources · 1 Michelin star*
 
-The most-cited starred Italian in London, and the one that reads least like a starred restaurant — a converted Clerkenwell building with a terrace, an open kitchen and a menu that calls itself British-Italian rather than either. Starred since 2023.
+**Italian cooking through British produce, from the Clove Club team** — the constraint is deliberate and it is what separates the room from a straight trattoria.
 
-Harrison Webb used it as the £328 end of a £6-versus-£328 comparison; a single pasta dish runs to £56. That is the room, not the norm.
+The **parmesan fries** are the thing everyone mentions and deserve it, but the pasta is the reason to go: hand-rolled, changing weekly, built on British ingredients rather than imported ones. There is a bar at the front that takes walk-ins and a conservatory dining room behind it.
+
+**£££, closed Sunday, books weeks ahead.** Clerkenwell. The bar menu is a cheaper way into the same kitchen.
 
 ### Murano, Mayfair
 
 *££££ · 5 min from Green Park · book weeks ahead · Cited by 3 sources · 1 Michelin star*
 
-Angela Hartnett's Mayfair dining room, starred within four months of opening in 2008. Northern Italian cooking in a formal room, named after the Venetian glass-making island.
+**Angela Hartnett's Mayfair dining room, starred within four months of opening in 2008** and holding it since — named after the Venetian glass-making island.
 
-If the price is the obstacle, Café Murano in Covent Garden is the same kitchen thinking at roughly a third of it — see [Best value](#best-value).
+Northern Italian cooking in a formal room: **hand-made pasta**, veal, and a set-price menu structure that lets you build two, three or four courses. Precise rather than showy, and one of the calmest fine-dining rooms in Mayfair.
+
+**££££, closed Sunday, and it books weeks ahead.** The set lunch is materially cheaper than dinner from the same kitchen.
 
 ![A charcuterie board with olive oil and grissini](../../assets/articles/best-italian-restaurants-london/murano.jpg)
-
 *Angela Hartnett's Mayfair dining room. The pasta course is the one to build the meal around. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5210809193), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 
 ---
 
@@ -111,43 +119,53 @@ No star, but the widest agreement in the city — and between them the answer to
 
 *£££ · 3 min from Highbury & Islington · book weeks ahead · Cited by 9 sources*
 
-Tim Siadatan, ex-St John and Moro, cooking a frequently changing seasonal menu of hand-made pasta and charcoal-grilled meat. The **pappardelle with eight-hour beef shin ragu** is the dish, and this is the Italian restaurant London chefs name most.
+**Tim Siadatan — ex St John and Moro — cooking a frequently changing seasonal menu of hand-made pasta and charcoal-grilled meats**, in a Highbury trattoria long regarded as one of London's best neighbourhood Italians.
+
+The signature is **pappardelle with eight-hour beef shin ragù**, and it has been on the menu since the beginning. Everything else changes: the charcoal grill does whatever is in season, and the pasta is rolled daily.
+
+**£££ and it books weeks ahead.** Sibling to Padella, which explains the pasta. St Paul's Road, and worth the trip north.
 
 ![A grilled steak with mashed peas and gravy](../../assets/articles/best-italian-restaurants-london/trullo.jpg)
-
 *Islington. The hand-rolled pasta changes daily and the beef over charcoal is the constant. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/14194656052), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 
 ### Padella, Borough
 
 *£ · walk-in only · Cited by 9 sources*
 
-A short menu of hand-rolled pasta at low prices, which is why the queue exists. Tied with Trullo as the most-cited Italian restaurant in London, and by some distance the cheapest thing in that company.
+**A short menu of hand-rolled pasta at low prices**, which is the entire reason the queue exists and has done since 2016.
 
-The original site at Borough Market takes no bookings — use the virtual queue app. Also in Shoreditch and Soho.
+Eight or nine dishes, most under a tenner: **pici cacio e pepe**, **tagliarini with Dorset crab**, and the pappardelle with beef shin ragù it shares with Trullo. Pasta is rolled in the room and cooked to order at a counter you can watch.
+
+**£. No bookings at Borough Market — join the virtual queue on the Walk-In app** and go for a drink until it calls you. The Shoreditch and Soho sites take limited bookings, which is the trick most people miss.
 
 ![The interior counter of Padella with cooks working behind it](../../assets/articles/best-italian-restaurants-london/padella.jpg)
-
 *Sit at the counter and watch the pasta being rolled. The queue moves faster than it looks. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/28035454561), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 
 ### Manteca, Shoreditch
 
 *£££ · 10 min from Old Street · Cited by 8 sources · Bib Gourmand*
 
-**Whole-animal butchery** feeding everything else on the menu — the salumi is cured in house, the bread is wood-fired, and nothing much is wasted. Bon Appétit spent a full day on the line here filming Chris Leach break down a pig.
+**Chris Leach and David Carter's nose-to-tail Italian**, with **whole-animal butchery feeding a menu of house-cured salumi and hand-rolled pasta** — the salumeria is on site and visible.
 
-The signatures are the **house coppa and the pig-skin crackling**, and the brown-butter cacio e pepe is the most-photographed plate in the building. The focaccia runs out — order it when you sit down.
+The **pig skin ragù** with rigatoni is the dish that made its name, and the **house salumi** — cured in the building from whole animals broken down there — is what to start with. Bread, butter and offal all get the same attention as the pasta.
+
+**£££ and it books weeks ahead.** Shoreditch, loud, and among the most-cited Italian rooms in this guide at eight sources.
 
 ### Bocca di Lupo, Soho
 
 *£££ · 2 min from Piccadilly Circus · book weeks ahead · Cited by 7 sources*
 
-Named by six separate mastheads, more editorial agreement than any other Italian restaurant in London. Regional Italian cooking with the region printed against every dish, served in small or large plates so a table can eat across the country in one sitting.
+**Regional cooking from across the whole of Italy, served trattoria-style in a buzzy Soho room** — and **every dish is labelled with the region it comes from**, which is the point of the place.
 
-Sit at the marble counter facing the kitchen rather than in the back room.
+Everything comes in **small or large plate sizes**, so a table can order eight regional dishes rather than three courses. Expect Piedmontese, Venetian and Sicilian on the same menu. The **counter seats face the kitchen** and are the best in the room.
+
+**£££ and it books ahead.** Archer Street, and Gelupo across the road is the same owners' ice cream shop — go afterwards.
 
 ![The frontage of Bocca di Lupo on Archer Street in Soho](../../assets/articles/best-italian-restaurants-london/bocca-di-lupo.jpg)
-
 *Six separate mastheads name it — more editorial agreement than any other Italian restaurant in London. Photo: [Andrew Davidson](https://commons.wikimedia.org/wiki/File:Bocca_Di_Lupo.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
+
 
 ### Lina Stores, Soho
 
@@ -177,9 +195,11 @@ The Covent Garden original takes no bookings for small tables. The Borough and G
 
 *£ · 5 min from Russell Square · Cited by 5 sources*
 
-Trading on Lamb's Conduit Street since 1983, with a resident pianist and prices that have not caught up with the neighbourhood. Five sources name it, which for a room this unfashionable is the whole argument.
+**A Lamb's Conduit Street institution: red sauce, low prices, a pianist, and no interest in changing** — the kind of place the guides keep listing because nothing has replaced it.
 
-Hearty rather than refined, and one of the few places in central London where a full Italian dinner still lands under £30.
+This is the old Anglo-Italian repertoire done without embarrassment: **lasagne, veal milanese, spaghetti vongole**, garlic bread, and house wine by the carafe. The **live pianist** plays most evenings and the room is loud with regulars.
+
+**£, and it books ahead** despite the prices — Bloomsbury has been coming here for decades. One of the cheapest sit-down Italian meals in central London.
 
 ---
 
@@ -191,9 +211,11 @@ The section that justifies the page. Each of these cooks somewhere specific rath
 
 *£££ · 5 min from Goodge Street · Cited by 4 sources · Michelin Guide*
 
-Sicilian cooking with the Moorish influence kept in rather than smoothed out, across four floors of a Fitzrovia townhouse.
+**Sicilian cooking with the Moorish influence kept in**, across four floors of a Fitzrovia townhouse — named both for the Bellini opera and for *pasta alla Norma*.
 
-**The critics split on this one.** It is in the Michelin Guide and holds two AA rosettes, but Time Out gave it three stars out of five and The Infatuation found it inconsistent between visits. Go for the fried starters — the spaghettini fritters are the dish everyone agrees on — and treat the rest as less certain.
+Sicily's Arab inheritance is the through-line and the reason it does not taste like mainland Italian: **saffron, almonds, raisins, cinnamon and spice** in dishes Rome does not cook. Expect **pasta alla Norma** with fried aubergine and ricotta salata, seafood crudo, and arancini done properly.
+
+**£££, closed Sunday, and it books ahead.** Charlotte Street. The ground-floor raw bar takes walk-ins when the dining rooms above have gone.
 
 ### Campania & Jones, Bethnal Green — Campanian
 
@@ -219,35 +241,51 @@ Walk-ins are taken at the bar.
 
 *££ · 5 min from Peckham Rye · Cited by 4 sources*
 
-A low-key Peckham room with a market-led menu that changes with the season, and the best value-to-cooking ratio south of the river. Four sources name it, which for a neighbourhood restaurant is a strong showing.
+**A Peckham dining room doing classically based seasonal cooking with hand-made pasta, at prices well below its central equivalents** — named after Pellegrino Artusi, who wrote the book that codified Italian home cooking.
+
+The menu is short and changes constantly with what is in season: **pasta rolled that day**, one or two grilled dishes, and a handful of vegetable plates. Nothing is on it for longer than the produce lasts.
+
+**££ and it books ahead** at weekends. Bellenden Road, and one of the reasons people started travelling to Peckham to eat.
 
 ### Legare, Shad Thames — modern Italian
 
 *££ · 8 min from London Bridge · Cited by 4 sources*
 
-Pasta-led cooking in a small Shad Thames dining room, named by four independent sources including two mastheads and two specialists — an unusually even spread for a restaurant this size.
+**Opened in 2019 by Jay Patel (ex Barrafina) and chef Matt Beardmore (ex Trullo)**, in the warehouse streets by Tower Bridge — a neighbourhood Italian in a quarter that mostly serves tourists.
+
+Modern Italian with the Trullo pedigree showing in the pasta: **hand-rolled, changing weekly**, with grilled fish and meat around it and a short Italian wine list. The room is small and plain by Shad Thames standards.
+
+**££ and it books ahead.** Five minutes from Tower Bridge and considerably better than anything on the riverside itself.
 
 ### Noci, Islington — pasta-led
 
 *££ · 4 min from Angel · Cited by 4 sources*
 
-A small pasta-focused group with sites in Islington, Shoreditch and Battersea. Short menu, counter seating, and one of the reliable answers in north London when Trullo is booked.
+**A short, frequently changing pasta menu drawn from across the Italian regions, at prices well below the central equivalents** — the format Padella popularised, done in a neighbourhood rather than a queue.
+
+Six or seven pastas at a time, rolled in the room and rotated constantly: **cacio e pepe, ragù, and regional shapes** most London menus never carry. Small plates and a few desserts around them.
+
+**££, and it takes bookings**, which is the advantage over Padella. Islington is the original; there are sites in Shoreditch and Battersea.
 
 ### Ornella, London Fields — Milanese
 
 *£££ · 7 min from Hackney Central*
 
-Milanese cooking on Wilton Way from the team behind Roman-influenced Lupa in Highbury — so the two restaurants deliberately cook different halves of the country.
+**Milanese cooking on Wilton Way** from the team behind Roman-influenced Lupa in Highbury — a butter-yellow corner site done simply, and the only kitchen in this guide cooking the north specifically.
 
-A **butter-yellow room** and a menu short enough to read in a minute: risotto alla milanese, cotoletta, and whatever the kitchen has decided on that week. Milanese food is richer and more butter-and-rice than the tomato-and-olive-oil south, which is the whole point of coming.
+Milanese means butter and rice rather than olive oil and tomato: **risotto alla milanese** stained with saffron, **cotoletta** — the breaded veal cutlet — and vitello tonnato. The menu is short and changes with what is available.
+
+**££, closed Monday and Tuesday, and it books ahead.** A small neighbourhood room; the pavement tables go first in summer.
 
 ### Macellaio RC, South Kensington — Piedmontese
 
 *£££ · 5 min from South Kensington*
 
-A butcher's counter that became a restaurant, and still behaves like one — **Piedmontese Fassona beef hung in the window**, dry-ageing in full view, cut to order in front of you.
+**A butcher's shop with a restaurant attached** — *macellaio* means butcher — hanging Piedmontese **Fassona** beef in the window and cutting it to order.
 
-Fassona is a lean, low-fat breed that tastes almost nothing like a dry-aged British sirloin: cleaner, more mineral, usually served rare or raw. The **carne cruda**, hand-chopped raw beef, is the dish that explains the place in one plate.
+Fassona is a lean Piedmontese breed, and the point is that it is served rare and unadorned: **tagliata**, carpaccio and a **battuta** tartare cut by hand. Pasta and a short Italian list around it, but the beef is why the shop is there.
+
+**£££, and it books ahead.** Several London sites; South Kensington is the original. Steak is priced by weight and cut in front of you.
 
 ---
 
@@ -281,17 +319,25 @@ Italian small plates rather than a full menu: cauliflower fritti with aioli, bur
 
 *£££ · 3 min from Knightsbridge · Cited by 3 sources*
 
-**Trading off Sloane Street since 1974**, with trolley service and tableside flambé still intact — the kind of room London stopped building decades ago. Its Marylebone offshoot inside The Langham finishes cacio e pepe in a hollowed pecorino wheel at the table.
+**A Knightsbridge trattoria that has been loudly, unapologetically itself since 1974** — waiters who sing, regulars who have been coming for decades, and no concession to the postcode's usual restraint.
+
+The cooking is the classic Italian repertoire done properly rather than reinvented: **hand-made pasta, veal milanese, whole fish** and a trolley of desserts. Portions are large and the room is deafening by nine.
+
+**£££ and it books ahead.** Pavilion Road, minutes from Harrods, and the antithesis of everything else in the area.
 
 ### Cecconi's, Mayfair
 
 *£££ · 3 min from Green Park · Cited by 3 sources*
 
-The Burlington Gardens dining room that has been Mayfair's default Italian lunch since 1978 — green-and-white striped awnings, a marble bar, and a room where the people-watching is a substantial part of the bill.
+**A Mayfair fixture since 1978**, now part of the Soho House group — the Burlington Gardens room where the fashion and art trade eats, and one of the few places in London that is busy at every hour it is open.
+
+Venetian-leaning all-day Italian: **cicchetti** at the bar, **crab and chilli linguine**, veal milanese, and a breakfast service that is as booked as dinner. The green-and-white tiled room is as much the draw as the menu.
+
+**££££ and it books weeks ahead.** Non-members welcome, despite the Soho House ownership. The bar seats take walk-ins.
 
 ![The green-and-white striped awnings of Cecconi's on Burlington Gardens](../../assets/articles/best-italian-restaurants-london/cecconis.jpg)
-
 *The awnings are the landmark. Mayfair's default Italian lunch since 1978. Photo: [Ewan Munro](https://commons.wikimedia.org/wiki/File:Cecconis,_Mayfair,_London_(3872025826).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).*
+
 
 ---
 
