@@ -1,6 +1,6 @@
 ---
-title: "The Best Live Music Venues in London: 23 Rooms"
-seoTitle: "Best Live Music Venues London 2026: 23 Rooms Compared"
+title: "The Best Live Music Venues in London: 25 Rooms"
+seoTitle: "Best Live Music Venues London 2026: 25 Rooms Compared"
 description: "A Victorian railway turning shed, a veterans' club with a gold tinsel curtain, and the sloping floor at Brixton that bands talk about — London's music rooms."
 heroImage: "../../assets/articles/best-live-music-venues-london/jazz-cafe-camden.jpg"
 heroImageAlt: "The Jazz Cafe in Camden, its white stucco frontage lettered London's Famous Jazz Venue"
@@ -68,32 +68,68 @@ It ran test events at half capacity in April 2024 and has been trading normally 
 
 *20,000 · North Greenwich*
 
-The largest indoor venue in the country. Arena shows only, and **Up at The O2** lets you climb over the roof separately.
+**The largest indoor venue in the country**, and for years the busiest music arena in the world by ticket sales. It is the arena inside the old Millennium Dome, which is why the building is far bigger than the room.
+
+It is an arena, and it behaves like one: the sound is competent rather than special, the upper tiers are a long way from the stage, and the seated blocks at the very back are worth avoiding if the tour is one you actually care about. What it does well is scale — this is where you see the acts that cannot play anywhere smaller.
+
+**Getting out is the part to plan.** Twenty thousand people leave at once into one Jubilee line station; wait twenty minutes in the bars rather than joining it, or walk to the Thames Clipper pier. **Up at The O2** lets you climb over the roof on a walkway, sold separately from any gig.
 
 ### Eventim Apollo, Hammersmith
 
-*around 5,000*
+*around 5,000 · Hammersmith*
 
-An art deco former cinema, and the other room in Brixton's class.
+**A 1932 art deco cinema, Grade II\* listed, and the other room in Brixton's class** — the two of them are where most bands too big for Shepherd's Bush and too small for an arena end up.
+
+The interior is the reason: a vast barrel-vaulted auditorium with the original Robert Cromie fittings largely intact, and a Compton organ still in place. It works **either seated or standing**, and which one you get depends on the show, so check before you buy — the same act can be a very different night in each configuration.
+
+**The balcony is genuinely good here**, unlike most rooms this size. Hammersmith station is directly opposite, which makes the exit far easier than the Apollo's capacity suggests.
+
+### Royal Albert Hall, South Kensington
+
+*5,272 · High Street Kensington or South Kensington*
+
+**The most beautiful big room in Britain to hear music in**, and since 1871 the one every performer wants. A vast oval under a glazed dome, tiers of red and gold boxes running all the way round, and the Proms every summer.
+
+**The sound and the sightlines are the reason to come.** It did not start that way: the hall had a notorious echo for its first century — the joke was that it was the only place a composer could hear their work twice — until the **135 fibreglass diffusers** were hung from the roof in 1969. Those are the "flying saucers", and they turned a famously difficult room into one of the best-sounding large halls anywhere. Almost every seat has a clear view of the stage, and the boxes give you a private vantage that no arena can match.
+
+**Book by seat, not by price band.** The gallery at the very top is the cheapest and the acoustics up there are still good, but the standing arena at Proms concerts is the bargain: **Promming tickets are a few pounds on the day**, and they are the whole point of the season.
+
+![The Royal Albert Hall auditorium during a concert, tiers of red seating curving around a lit stage](../../assets/articles/best-live-music-venues-london/royal-albert-hall.jpg)
+
+*The Royal Albert Hall mid-performance. It seats over 5,000 and the Proms run here every summer.*
 
 ### Alexandra Palace, Wood Green
 
 *up to around 10,400 · N22*
 
-A **Victorian palace of 1873** on a hill with one of the best views in north London, and its Great Hall takes upwards of ten thousand for a concert. Also a Victorian theatre, an ice rink and the World Darts Championship, which is a sentence that only works in London.
+**A Victorian palace of 1873 on a hill with one of the best views in north London**, and its Great Hall takes upwards of ten thousand for a concert. Also a Victorian theatre, an ice rink and the World Darts Championship, which is a sentence that only works in London.
 
-The hill it stands on is free, and the view over the city from the terrace is worth the trip on its own.
+The Great Hall is enormous and largely undivided, so it behaves more like a festival tent than a concert hall — the sound at the back is noticeably worse than the front and there is no raked floor, which makes height an advantage. The restored **Alexandra Palace Theatre** next door is the opposite: 1875, about 1,300 seats, deliberately left semi-derelict when it reopened, and a far better room for anything acoustic.
+
+**The hill is free and the terrace view over the city is worth the trip on its own.** Getting home is the catch — Alexandra Palace station is a fifteen-minute walk downhill, Wood Green Tube is twenty, and ten thousand people leave at once.
 
 ### Barbican Hall, City of London
 
-*1,900*
+*1,900 · Barbican*
 
-Home of the **London Symphony Orchestra**, at the centre of the Barbican's brutalist estate. Classical, jazz and contemporary programming in the same season.
+**Home of the London Symphony Orchestra**, and the most serious concert hall in the City — a 1,900-seat room at the centre of the Barbican's brutalist estate.
+
+The programming is the unusual part. Classical, jazz, contemporary composition, film scores played live and touring international artists all share the same season, so the audience changes completely week to week. Sightlines are good from almost everywhere because the hall is wide and shallow rather than deep.
+
+**Allow ten minutes to find it.** The Barbican estate is famously hard to navigate and the yellow line painted on the ground from the Tube exists for exactly that reason. There are bars and a restaurant on site, and the conservatory upstairs is free on the Sundays it opens.
 
 
-![The Royal Albert Hall auditorium during a concert, tiers of red seating curving around a lit stage](../../assets/articles/best-live-music-venues-london/royal-albert-hall.jpg)
+---
 
-*The Royal Albert Hall mid-performance. It seats over 5,000 and the Proms run here every summer.*
+### British Airways ARC, Olympia
+
+*3,800 · Kensington (Olympia)*
+
+**London's newest big music room**, opened on **16 June 2026** above the west exhibition hall at Olympia and run by AEG Presents. Self Esteem played the opening two nights.
+
+It fills a real gap. At 3,800 it sits **between the Apollo and Brixton at one end and the arenas at the other** — the size band London has been short of for years, and the reason a lot of mid-tier international tours previously skipped the city or overreached into an arena.
+
+It arrived as part of Olympia's whole redevelopment, so the surroundings are new too: a rooftop canopy of bars and restaurants, a food hall, a theatre and two hotels all opened within weeks of it. **Kensington (Olympia) station is at the door**, though its off-peak service is thinner than you would expect for a venue this size — check your route home before the encore.
 
 ---
 
@@ -101,15 +137,27 @@ Home of the **London Symphony Orchestra**, at the centre of the Barbican's bruta
 
 ### The Roundhouse, Chalk Farm
 
-*around 1,700*
+*around 1,700 · Chalk Farm*
 
-A **circular Victorian railway turning shed** turned concert hall, and a charity that puts a serious amount of its money into work with young people.
+**A circular Victorian railway turning shed, built in 1847 to turn locomotives around**, and now one of the most distinctive rooms in London to see a band in. The iron columns that held the roof up are still there, and the space is genuinely round, so the crowd wraps the stage rather than facing it in a block.
+
+That shape is the whole experience: there is no bad angle exactly, but there is no deep floor either, so it feels far more intimate than 1,700 suggests. The gallery running round the upper level is the seated option and worth taking.
+
+**It is a charity, and an unusually serious one** — a large share of what it makes goes into studios, rehearsal space and creative programmes for 11-to-25-year-olds in the building. Chalk Farm station is two minutes away and much easier than Camden Town after a show.
+
+![The interior of the Roundhouse, its iron columns and circular gallery rising above the floor](../../assets/articles/best-live-music-venues-london/roundhouse-interior.jpg)
+
+*The Roundhouse. It was built to turn steam locomotives, which is why the room is a true circle and the columns are where they are.*
 
 ### KOKO, Camden Town
 
-*around 1,400*
+*around 1,400 · Mornington Crescent*
 
-A **gilded Victorian theatre** with tiered balconies, reopened after a fire and a long restoration. One of the most beautiful rooms in London to see a band in.
+**A gilded Victorian theatre of 1900 with three tiers of horseshoe balconies**, and one of the most beautiful rooms in London to see a band in. It has been the Camden Palace, the Music Machine and a BBC theatre; Charlie Chaplin, the Goons and Madonna's first UK show all happened here.
+
+A fire tore through the roof during restoration in 2020. It reopened in 2022 after a rebuild that added a tower, a recording studio and several members' floors above the auditorium — which drew some criticism — but **the main room came back intact**, gold leaf and all.
+
+**Get on a balcony if you can.** The floor is small and fills fast, and the view down onto the stage from the second tier is the reason to be in this particular building rather than any other room of the same size.
 
 ### The 100 Club, Oxford Street
 
@@ -133,21 +181,33 @@ It is fully accessible by ramp, with a platform lift up to the bar, and it house
 
 ### Village Underground, Shoreditch
 
-*Holywell Lane*
+*around 700 · Shoreditch High Street*
 
-A Victorian warehouse with **four disused Jubilee line tube carriages on the roof**, converted into studios. The main space below is one of Shoreditch's better rooms and the rooftop has recently opened to the public.
+**A Victorian warehouse with four disused Jubilee line tube carriages parked on the roof**, converted into artists' studios — which is the detail everybody remembers and the reason the building is listed in every guide to Shoreditch.
+
+The main space below is a raw brick-and-steel hall with a high ceiling, and it is one of the better mid-size rooms in east London: electronic bookings, club nights and touring bands, with the sound built for volume rather than nuance. There are no seats and no sightline problems because the floor is flat and the stage is high.
+
+**The rooftop has opened to the public**, which it never used to be. Shoreditch High Street station is three minutes away.
 
 ### EartH, Dalston
 
-*1,200 standing · 680 seated*
+*1,200 standing · 680 seated · Dalston Kingsland*
 
-The former **Savoy art deco cinema**, reopened in 2018 as two venues in one building: EartH Hall, a stripped-back standing room, and EartH Theatre, 680 seats in the original tiered auditorium with the decay left visible.
+**The former Savoy art deco cinema of 1937**, shut for decades and reopened in 2018 as two venues in one building — the name stands for Evolutionary Arts Hackney.
+
+The two rooms are completely different nights. **EartH Hall** is a stripped-back standing space downstairs for touring bands and club bookings. **EartH Theatre** upstairs is the original tiered auditorium with **680 seats and the decay deliberately left visible** — peeling plaster, exposed brick, the proscenium half-ruined. It is one of the most atmospheric rooms in London and it is used for seated shows, film and spoken word as well as music.
+
+**Check which of the two your ticket is for**, because people turn up expecting the theatre and find themselves standing downstairs. Dalston Kingsland is a few minutes' walk.
 
 ### MOTH Club, Hackney
 
 *around 200*
 
-A **Memorable Order of Tin Hats veterans' club** with a gold-tinsel stage curtain, still run as a members' social club during the day. Unlike anywhere else in London.
+**A Memorable Order of Tin Hats veterans' club with a gold-tinsel stage curtain behind the stage**, and still run as a members' social club during the day — bingo, cheap pints, regulars who have been coming for decades — before it turns into one of London's best small music rooms at night.
+
+There is nothing else like it. The room takes about 200, the ceiling is low, the tinsel is permanent, and the bookings run from guitar bands on the way up to established acts playing deliberately small. The bar prices are still closer to a social club than a venue.
+
+**Tickets are cheap and go quickly**, and it is a five-minute walk from Hackney Central. Go on a weeknight if you want to be able to move.
 
 > ⚠️ **Go while you can.** MOTH Club is fighting two planning applications for flats next door and has been since 2025. Hackney Council refused the first in March 2026, citing the developer's failure to show the flats would not restrict the club — **a second application on the adjoining plot is still undecided**. The petition passed 30,000 signatures and the venue's own programmer says they are not out of the woods.
 
@@ -208,9 +268,13 @@ Booking is recommended rather than required, and it runs a full kitchen — this
 
 ### Jazz Cafe, Camden Town
 
-*live every night*
+*around 440 · Camden Town*
 
-Live acts **every night of the week** across a far wider range than the name suggests, with a balcony you can eat from.
+**Live acts every night of the week, across a far wider range than the name suggests** — soul, funk, hip-hop, Afrobeat, Latin and neo-soul as often as anything a purist would call jazz.
+
+The room is small and rectangular with **a balcony you can book a table on and eat from**, looking straight down at the stage. That balcony is the decision: standing on the floor gets you closer and sweatier, the balcony gets you a seat, a view and dinner, and the two are genuinely different nights out.
+
+**Late licence at weekends**, when it turns into a club after the band. Camden Town station is a minute away, and it is one of the few Camden venues where the queue is not the main memory.
 
 ![The Jazz Cafe in Camden, a white stucco building lettered London's Famous Jazz Venue above the windows](../../assets/articles/best-live-music-venues-london/jazz-cafe-camden.jpg)
 
@@ -236,31 +300,51 @@ Where London's music actually happens most nights.
 
 *around 150*
 
-**Time Out's own pick as London's most consistently committed live venue** — free jazz, noise and experimental music, most nights of the week, in a room that treats an audience as participants. Usually **£8 to £20**, with advance and member discounts and some nights free to members. It runs its own record label and shop.
+**Time Out's own pick as London's most consistently committed live venue** — free jazz, noise, improvisation and experimental music, most nights of the week, in a room of about 150 that treats an audience as participants rather than spectators.
+
+The format is unusual and worth understanding before you go: it is a café and bar by day, the chairs come out for the evening, and the audience is expected to listen rather than talk over the set. Musicians from around the world play here who would not otherwise appear in London at all, often for two nights running with different material.
+
+**Usually £8 to £20**, with advance and member discounts and some nights free to members. It runs its own record label and record shop next door, and the programme is published months ahead — worth browsing rather than waiting for a name you recognise.
 
 ### Shacklewell Arms, Dalston
 
-*around 200*
+*around 200 · Dalston Kingsland*
 
-A back-room venue behind an ordinary Dalston pub, ranked in Time Out's UK top venues. The kind of room where bands play twice: once early and once famous.
+**A back room behind an ordinary Dalston pub**, ranked among Time Out's UK top venues, and the kind of place where bands play twice — once on the way up and once, years later, as a surprise warm-up.
+
+The venue is genuinely just a room: low ceiling, no raised stage to speak of, and a capacity that means you are never more than a few metres from whoever is playing. The front is a working pub with a decent beer list, so you can arrive early without committing to the gig.
+
+**Tickets are usually under £15** and often sell out on word of mouth rather than advertising. Free entry on some club nights after the band.
 
 ### Notting Hill Arts Club, Notting Hill
 
-*around 200*
+*around 200 · Notting Hill Gate*
 
-A basement that has run new music and club nights since the nineties, and survived west London's rents.
+**A basement that has run new music and club nights since 1993**, and — more remarkably — has survived west London's rents while almost everything comparable around it did not.
+
+It is a low, dark room under Notting Hill Gate with a reputation built on booking people before anyone else did: Adele, Franz Ferdinand and the Libertines all played here early. The programme still mixes new bands with long-running club nights, and it leans harder into DJ nights later in the week.
+
+**Early doors and cheap** — a lot of shows start at 7pm and finish by 11pm, which makes it one of the few central venues you can do on a weeknight without writing off the next morning.
 
 ### Below Stone Nest, Soho
 
-*around 250*
+*around 250 · Tottenham Court Road*
 
-Underneath a former Welsh chapel on Shaftesbury Avenue — a raw basement in the middle of the West End.
+**A raw basement underneath a former Welsh Presbyterian chapel on Shaftesbury Avenue**, which is not a sentence that describes anywhere else in the West End.
+
+The chapel above, Stone Nest, is a Grade II\* listed 1888 building left deliberately unrestored — bare brick, stripped walls, no seats fixed down. Below it, the venue takes about 250 for electronic, experimental and club bookings, and the low arched ceiling does most of the work on the sound.
+
+**It is genuinely central**, which is the surprise: everything else programming this kind of music is in Dalston or Peckham, and this is ninety seconds from Tottenham Court Road.
 
 ### Stereo, Covent Garden
 
 *Covent Garden Piazza*
 
-Live music, cocktails and dining combined right on the Piazza — the polished, central alternative to the Dalston rooms.
+**Live music, cocktails and dining combined right on the Piazza** — the polished, central alternative to the Dalston rooms, and a useful answer when half your party wants a gig and the other half wants dinner.
+
+The bookings lean soul, funk and covers rather than anything you would travel for, and the room is a restaurant that hosts music rather than a venue that serves food. That is the trade: you will not discover anything here, but you can eat properly, sit down, and still hear a band, two minutes from the Tube.
+
+**Book a table rather than turning up**, particularly at weekends, when the Piazza is at its worst for walk-ins.
 
 ---
 

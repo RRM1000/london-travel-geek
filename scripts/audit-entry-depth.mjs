@@ -66,14 +66,29 @@ const isChrome = (t) => {
 
 const files = fs.readdirSync("src/content/articles")
   .filter((f) => f.endsWith(".md"))
-  .filter((f) => /The evidence behind this guide/.test(fs.readFileSync(`src/content/articles/${f}`, "utf8")))
+  // WAS: only guides carrying an evidence block, which left 68 articles
+  // unchecked - including the live music guide, whose entries ran to fifteen
+  // words. A guide is a guide whether or not a consensus corpus sits behind
+  // it. Scope is now "an article that lists places": eight or more entries,
+  // filed under Food and drink or Things to do. Transport and SIM guides have
+  // headings too, and an 80-word floor means nothing for them.
+  .filter((f) => {
+    const text = fs.readFileSync(`src/content/articles/${f}`, "utf8");
+    if ((text.match(/^### /gm) || []).length < 8) return false;
+    return /^category: *"?(Food and drink|Things to do)"?\s*$/m.test(text);
+  })
   .filter((f) => !only.length || only.includes(f.replace(/\.md$/, "")));
 
 let totalThin = 0, totalEntries = 0;
 const guides = [];
 
 for (const f of files) {
-  const lines = fs.readFileSync(`src/content/articles/${f}`, "utf8").split(/\r?\n/);
+  const raw = fs.readFileSync(`src/content/articles/${f}`, "utf8");
+  // A cinema is not required to name a dish. The food check applies only to
+  // food guides; elsewhere it fired on correct work, which teaches people to
+  // ignore the audit.
+  const foodGuide = /^category: *"?Food and drink"?\s*$/m.test(raw);
+  const lines = raw.split(/\r?\n/);
   const thin = [];
   let entries = 0, words = 0;
 
@@ -111,7 +126,8 @@ for (const f of files) {
     // the writer to duplicate the very text the rule exists to prevent.
     const isCrossRef = /Full entry above/i.test(body.join(" "));
     entries++; words += w;
-    if ((w < MIN || !hasFood) && !isCrossRef) thin.push({ name, w, hasDish, hasPractical, hasFood });
+    const foodOk = hasFood || !foodGuide;
+    if ((w < MIN || !foodOk) && !isCrossRef) thin.push({ name, w, hasDish, hasPractical, hasFood: foodOk });
   }
 
   if (!entries) continue;
