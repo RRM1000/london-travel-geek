@@ -1,7 +1,7 @@
 ---
 title: "The Best Middle Eastern and Eastern Mediterranean Restaurants in London"
-seoTitle: "Best Middle Eastern Restaurants London 2026: Levantine to Turkish"
-description: "Levantine mezze, Turkish ocakbaşı grills, Palestinian and Syrian kitchens, and modern Greek small plates — arranged by tradition, with the best cheap falafel in London."
+seoTitle: "Best Middle Eastern Restaurants London 2026: Levantine to Greek"
+description: "Levantine mezze, Palestinian and Syrian kitchens, Persian and Kurdish cooking, and modern Greek small plates — arranged by tradition, with the best cheap falafel in London."
 heroImage: "../../assets/articles/best-middle-eastern-restaurants-london/best-middle-eastern-restaurants-london.jpg"
 heroImageAlt: "Bowls of hummus, muhammara and labneh with flatbread on a stone table"
 heroImageCredit: "Shameel Mukkath"
@@ -122,35 +122,9 @@ Course after course arrives without you ordering: cold mezze, then hot, then gri
 
 ## Turkish
 
-### Mangal 2, Dalston
+Turkish cooking is its own tradition rather than a branch of Levantine, and London has enough of it to need a separate page — [**The Best Turkish Restaurants in London**](/articles/best-turkish-restaurants-london/) compares 25 rooms, most of them on or near **Green Lanes**, where nine of the most-cited sit on a single road.
 
-*£££ · 4 min from Dalston Kingsland*
-
-The **Dirik brothers** took over their father's Dalston **ocakbaşı** and turned it into one of the most inventive kitchens in London **without moving the grill** — the charcoal is still the engine, the plating is not.
-
-Expect the ocakbaşı classics done exactly right — **lamb chops, adana, quail** — beside dishes that would baffle the original: seasonal vegetables over coals, house pickles, and a menu that changes rather than sits. The lahmacun is the bridge between the two.
-
-**£££ and it books weeks ahead**, which the original a hundred yards away does not. A different evening entirely from Mangal 1.
-
-### Kismet, Borough
-
-*£££ · upstairs at The Globe*
-
-**A meyhane in the style of Istanbul and north Cyprus**, upstairs at The Globe — in the building used as Bridget Jones's flat in the films, which is the fact everyone mentions and the least interesting thing about it.
-
-A meyhane is a drinking house that feeds you, and the format is the point: **long tables, rakı, and food that keeps arriving** — cold mezze, then hot, then grills, paced to the drinking rather than to a service. Order rakı and let them run it.
-
-**£££ and it books weeks ahead.** Come as a group; a table of two misses what the room is for.
-
-### Ishtar, Marylebone and Lokal, Fitzrovia
-
-*£££ · central and reliable* · Cited by 2 Turkish sources
-
-Two central rooms that do the same job: reliable Turkish cooking within walking distance of the West End, for tables that do not want to travel to Green Lanes.
-
-**Ishtar** is the long-running Marylebone room with a mezze list built for a table that wants to stay put — **hummus, kısır, patlıcan ezmesi**, then chargrilled meats and fish. **Lokal** in Fitzrovia is smaller and quicker, and better for a working lunch than a long evening.
-
-**£££ at both, book a few days ahead** at Ishtar for a weekend table. Neither will beat Green Lanes on price or the grill, and both are twenty minutes closer.
+The short version: **Mangal II** in Dalston is the most-cited and the one that turned an ocakbaşı into a destination kitchen; **Antepliler** and **Gökyüzü** are the Green Lanes benchmarks; **Kismet** in Borough is the meyhane worth a night out; and **Ishtar** in Marylebone is the reliable central room for a table that does not want to travel.
 
 ---
 

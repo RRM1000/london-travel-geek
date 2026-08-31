@@ -48,6 +48,7 @@ That is the useful fact, and no ranking gives it to you. So this guide is arrang
 | **Dalston & Kingsland Road** | Mangal II, Mangal 1, Umut 2000 |
 | **Soho** | Zahter, Yeni |
 | **Marylebone** | Ishtar, Yamabahçe |
+| **Borough & Fitzrovia** | Kismet, Kibele |
 | **Notting Hill & west** | The Counter, Lokkanta, Fez Mangal |
 | **The City** | Haz, Leydi, Baraka |
 | **Elsewhere** | FM Mangal (Camberwell), Dükkan (Hoxton), The Mantl (Knightsbridge), Kibele (Fitzrovia), Mezze Grill (Wembley Park) |
@@ -333,6 +334,18 @@ The third of Harden's three City Turkish rooms, and **named by nothing else in t
 Standard modern Turkish for the postcode: **mezze, grilled meats and fish**, priced for the City lunch trade and geared to tables from surrounding offices.
 
 Take the single citation for what it is. If you want a City Turkish table with more behind it, Haz has the broader backing and Leydi has the better room.
+
+### Kismet, Borough
+
+*£££ · Borough · books weeks ahead · Named by 4 new-opening guides, not yet by the Turkish lists*
+
+**A meyhane in the style of Istanbul and northern Cyprus**, upstairs at The Globe on Bedale Street — in the building used as Bridget Jones's flat, which is the fact everyone mentions and the least interesting thing about it.
+
+A meyhane is a drinking house that feeds you, and the format is the whole point: **long tables, rakı, and food that keeps arriving** — cold mezze first, then hot, then things off the grill, paced to the drinking rather than to a service. Order the rakı and let the kitchen run it.
+
+**£££ and it books weeks ahead.** Come as a group; a table of two misses what the room is for. It is a minute from Borough Market, which makes it one of very few Turkish rooms in central London worth planning a night around.
+
+Its backing is different from everything else on this page: four independent guides name it, but all of them as a *new restaurant* rather than as a Turkish one. The Turkish-specific lists have not caught up with it yet.
 
 ---
 
