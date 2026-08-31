@@ -61,16 +61,23 @@ for (const f of files) {
     if (!/^### /.test(lines[i])) continue;
     const name = lines[i].replace(/^###\s+/, "").trim();
     let w = 0, hasDish = false, hasPractical = false;
+    const body = [];
     for (let j = i + 1; j < lines.length && !/^#{2,3} /.test(lines[j]); j++) {
       const t = lines[j];
+      body.push(t);
       if (isChrome(t)) continue;
       w += t.split(/\s+/).filter(Boolean).length;
       // A named dish is usually bolded or carries a food noun.
       if (/\*\*[^*]+\*\*/.test(t)) hasDish = true;
       if (/\b(book|booking|queue|walk-in|cash|opens?|closed|until|from \d|per head|£)\b/i.test(t)) hasPractical = true;
     }
+    // A CROSS-REFERENCE IS SUPPOSED TO BE SHORT. The skill's later sections
+    // name a venue, give one line and point up to the fuller entry, precisely
+    // so the description is not repeated. Flagging those as thin would push
+    // the writer to duplicate the very text the rule exists to prevent.
+    const isCrossRef = /Full entry above/i.test(body.join(" "));
     entries++; words += w;
-    if (w < MIN) thin.push({ name, w, hasDish, hasPractical });
+    if (w < MIN && !isCrossRef) thin.push({ name, w, hasDish, hasPractical });
   }
 
   if (!entries) continue;

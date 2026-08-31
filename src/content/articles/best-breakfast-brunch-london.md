@@ -58,7 +58,11 @@ Both are here, alongside the hotel rooms where breakfast is a business meeting.
 
 *£££ · 3 min from Green Park* · Cited by 2 sources
 
-A 1920s car showroom turned Viennese-style grand café, and **the London power breakfast**. If you want to understand how the city does business over eggs, sit here at 8am on a weekday.
+A 1920s Wolseley Motors showroom on Piccadilly, turned into a Viennese-style grand café — vaulted ceilings, black lacquer and brass, and a room designed to be walked into slowly. **The London power breakfast**: if you want to see how the city does business over eggs, sit here at 8am on a weekday.
+
+The menu runs from viennoiserie and classic egg dishes through to a full English, and — unusually — **kedgeree**, the Anglo-Indian smoked haddock and rice dish that was a Victorian breakfast staple and has almost vanished from London menus. Fruit, yoghurts and cereals for anyone not committing.
+
+**Breakfast runs 7am–11.30am on weekdays and 8am–11.30am at weekends.** Early on a weekday is both the easiest table and the best show.
 
 ### Dishoom, Covent Garden
 
@@ -86,8 +90,11 @@ Forty floors up and **open around the clock** — the only place in London where
 
 *££££ · a vast Edwardian ballroom* · Cited by 1 source
 
-Every inch of wall covered in framed pictures — probably the most photographed dining room in London, and quietest at breakfast.
+**Jason Atherton's** dining room inside The London EDITION on Berners Street, and probably the most photographed room in London — a vast Edwardian ballroom with every inch of wall hung with framed pictures, under chandeliers. It is loud at dinner and near-silent at breakfast, which is the argument for coming in the morning.
 
+Smoked salmon and scrambled egg on sourdough, **brioche French toast**, eggs Florentine and a full English, with lighter fruit and pastry options. The signature flourish is a **Bloody Mary trolley** wheeled to the table with three different twists to choose from.
+
+Breakfast runs daily, with brunch on Saturday and a Sunday lunch. Worth booking for weekends; on a weekday morning you can usually walk into a room people photograph from the doorway.
 
 ### Hide, Mayfair
 
@@ -99,7 +106,11 @@ A Michelin-starred kitchen that serves breakfast, which almost none do. Named bo
 
 *£££ · nose-to-tail* · Cited by 2 sources
 
-The sustainability-minded St James's kitchen does a breakfast built on the same offcut thinking as its dinner menu.
+The St James's Market kitchen from two ex-Dinner chefs, built around using the whole animal and the parts other restaurants throw out — the dinner menu is known for a **smoked cod's head with sriracha butter** and ex-dairy-cow steak. Breakfast is built on the same thinking rather than being a separate, safer menu.
+
+The **Fallow Full** — smoked bacon, black pudding, sausage, herbed mushrooms, fried eggs, tomatoes and sourdough — sits alongside a **Black Pudding Benedict**, Turkish eggs, wild mushrooms on toast, and the **corn ribs with kombu seasoning** that came off the dinner menu and stayed. Rye sourdough with Longman's butter, and a granola with London honey.
+
+**52 Haymarket**, a few minutes from Piccadilly Circus. Book — this is a restaurant that serves breakfast rather than a café, and it fills.
 
 ---
 
@@ -111,7 +122,11 @@ The format that changed London breakfast, still done best by the people who brou
 
 *£££ · Bill Granger* · Cited by 4 sources
 
-Bill Granger brought Sydney brunch to London and the **ricotta hotcakes** have been on the menu ever since. Several sites; Notting Hill is the original.
+Bill Granger brought Sydney brunch to London in 2011 and effectively invented the format the rest of this section follows. The Notting Hill room is the original and the **smallest of the four**, all white walls and communal light — closer to Bondi than to Westbourne Grove.
+
+The **ricotta hotcakes with fresh banana and honeycomb butter (£19)** are the dish people cross London for and have not changed in over a decade. Around them: scrambled eggs done the soft Granger way, a shrimp burger, and a lot of avocado.
+
+**No bookings, seven days a week, and the queue is real.** Come before 10am or around 3pm and you will walk in; arrive at 11 on a Saturday and you will not.
 
 ### Caravan, Clerkenwell
 
@@ -137,7 +152,11 @@ A Balham café that has topped London brunch lists for years without ever openin
 
 *££ · the towpath*
 
-Australian brunch on the canal towpath with a big terrace — smashed avocado and a flat white, and the easiest good breakfast near Paddington.
+Part of the Australian **Daisy Green** group, sitting right on the canal towpath at Paddington Basin with a big terrace — the easiest genuinely good breakfast within walking distance of Paddington station, and the only one on this list where you eat beside narrowboats.
+
+**Breakfast is served all day, every day**, which is rarer in London than it should be. The award-winning **banana bread sandwich** is the thing to order, with buttermilk blueberry pancakes and a smashed avocado sandwich behind it.
+
+Walk-in, and the terrace is first-come. If it is raining the room is small; if it is not, this is one of the better outdoor breakfasts in central London.
 
 ---
 
@@ -187,19 +206,31 @@ Australian-run, and one of the shops that brought antipodean coffee culture to L
 
 *£ · Leather Lane*
 
-The shop that trained a generation of London baristas, with its own training centre attached.
+**23–25 Leather Lane**, and the shop that trained a generation of London baristas — it has a coffee training school attached, and a good proportion of the people making your flat white elsewhere in the city passed through it. Spacious, bright and functional rather than styled.
+
+The coffee is the point and the food is better than it needs to be: **veggie eggs benedict with soft poached eggs and bitter greens**, and a dense coconut and almond cake among the counter bakes.
+
+Weekday mornings it fills with people working; it is one of the few serious coffee shops in central London with both room and power sockets. Leather Lane's street market runs outside at lunchtime.
 
 ### WatchHouse, Bermondsey
 
 *£ · a watchman's hut*
 
-Started in a nineteenth-century watchman's hut on Bermondsey Street and has become the most polished coffee group in London.
+The original site is a **watch house built between 1810 and 1812** to guard the graves in St Mary Magdalen churchyard next door from body snatchers. It **seats ten** — the whole building is smaller than most café front rooms — and serves several hundred people a day through the door.
+
+Coffee is roasted in-house and the counter runs to sandwiches and sweet things rather than a full kitchen. This is a stop rather than a sit-down breakfast, and the Bermondsey Street original is the one worth the detour.
+
+From this one room the group has grown across the City, out to Bath and into New York, which makes it the most successful London coffee export of the last decade. The other sites are comfortable; this one is the story.
 
 ### Ginger & White, Hampstead
 
 *£ · Perrins Court*
 
-Serious coffee and a proper British breakfast — the default Hampstead morning, and a **bacon sandwich and flat white** done exactly right.
+Tucked into **Perrins Court**, a narrow pedestrian alley off Hampstead High Street, and the default Hampstead morning — a small British café that does the coffee-shop thing without the coffee-shop affect. Indoor and outdoor tables, and no reservations.
+
+**Dippy eggs** with soldiers, toasties, shakshuka, borekas, granola, cinnamon buns and a banana chocolate chip cake, with **homemade peanut butter** and turkey bacon among the fillings. Coffee is **Square Mile**, which is as good a roaster as London has.
+
+**Mon–Fri 7.30am–5.30pm, Saturday from 7.30am to 6pm, Sunday 8am–6pm.** Ten minutes from the Heath, which is what it is for.
 
 ---
 
@@ -305,9 +336,11 @@ This is not a lie-in brunch. Closed Mondays and Tuesdays.
 
 *Tue–Sun · a railway arch · Cited by 2 sources*
 
-A bakery and café under a railway arch doing a **crab and 'nduja herby omelette** with brown crab aioli, and aloo gobi fried eggs. Closed Mondays.
+The Burnt group started as a neighbourhood room on Askew Road in Shepherd's Bush and this is its most complete site: **café, restaurant and a working bakery under one railway arch** on Poyser Street. Bare brick, high curved ceiling, and the bakery visible from the tables.
 
-The group's third site — there are two others, so check which one a listing means.
+The brunch menu is genuinely inventive rather than decorated — a **crab and 'nduja herby omelette** with brown crab aioli and fried bread, and **aloo gobi fried eggs** under a coriander salsa. The bakery counter changes daily and runs to things like a **Welsh rarebit custard danish** and kimchi loaves. Coffee is **Climpson & Sons**, roasted a mile away in Hackney.
+
+**278 Poyser Street, E2. Closed Mondays**, open for coffee and brunch daily otherwise, with dinner four nights a week. Two other Burnt sites exist — Shepherd's Bush and a café inside RADA — so check which one a listing means.
 
 ---
 
@@ -319,19 +352,23 @@ London brunch is unusual in that **several of its best rooms are chains**, becau
 
 *£££ · Bill Granger* · Cited by 4 sources
 
-The **joint most-cited room in this whole guide**, and a chain — which tells you how completely the Australian import won. Five London sites; Notting Hill is the original and the ricotta hotcakes are the reason.
+The **joint most-cited room in this whole guide**, and a chain — which is how completely the Australian import won. **Four London sites**: Chelsea, King's Cross, Marylebone and Notting Hill. [Full entry above](#granger--co-notting-hill).
 
 ### Dishoom, seven sites
 
 *££ · the bacon naan* · Cited by 3 sources
 
-The only chain on this list that people queue for by name. Bookings before 6pm for any party size, and breakfast barely queues at all.
+The only chain here that people queue for by name, and the **double bacon naan is £9**. Seven London sites — Covent Garden, Shoreditch, King's Cross, Carnaby, Kensington, Canary Wharf and Battersea — with Borough opening. [Full entry above](#dishoom-covent-garden).
 
 ### The Breakfast Club, several sites
 
 *££ · since 2005* · Cited by 3 sources
 
-Named by three independent sources despite being the most obviously commercial room here. Covent Garden, Hackney Wick, London Bridge and Croydon among others; the queues are real and the pancakes are the order.
+Started as one café in Soho in 2005 and became the most recognisable independent breakfast brand in the city — American-diner in spirit, with the queues to match. Named by three independent sources despite being the most obviously commercial room here.
+
+**Pancakes are the order**: with bacon or berries and maple syrup, the all-American pancake breakfast, salted caramel and banoffee, and a vegan blueberry version. Full breakfasts, huevos rancheros and a long list of egg dishes alongside.
+
+Covent Garden, Hackney Wick, London Bridge and Croydon among others. **The queues are real at weekends** and most sites do not take bookings — go on a weekday or go early.
 
 ### Megan's, many sites
 
@@ -343,7 +380,11 @@ Instantly recognisable from the floral frontages, and a bottomless brunch operat
 
 *£££ · the counter* · Cited by 2 sources
 
-Not a breakfast business exactly, but the Chelsea and Notting Hill counters do a morning trade the Good Food Guide singles out.
+Not a breakfast business exactly — these are deli counters piled with salads and cakes, where you eat at a shared table — but the morning trade is real and the Good Food Guide singles it out. Islington, Notting Hill, Spitalfields, Chelsea and Marylebone.
+
+The **Middle Eastern breakfast (£12.90)** is the one to have: feta, a fried egg, chopped salad and pita. A bread board of croissant or pain au chocolat runs **£7.90**, and granola with yoghurt and fruit salad **£12.60**.
+
+Counter service and communal seating, so it works for one person with a book and less well for four people wanting a conversation. Best before 10am, when the salad counter is still being built.
 
 > ⚠️ **Caravan is a chain too**, with sites in King's Cross, Clerkenwell, Bankside and Fitzrovia — but only one source names it for breakfast, so it sits at one citation despite its influence on the format.
 
