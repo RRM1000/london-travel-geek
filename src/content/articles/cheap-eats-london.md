@@ -78,21 +78,31 @@ Nothing on this page is here because it is *good value for the money*. That is a
 
 *£3.95 · 46 Goodge Street · 2 min from Goodge Street* · Cited by 2 italian sources
 
-A twelve-inch pizza from £3.95, made to order and eaten in — roughly a third of what anywhere else in central London charges. Trading since 1999 and calls itself "the People's Pizzeria".
+**A twelve-inch pizza from £3.95**, made to order and eaten in, two minutes from Goodge Street — roughly a third of what anywhere else in central London charges. Trading since 1999 and calling itself "the People's Pizzeria".
 
-The £3.95 is the marinara, which has no cheese. Toppings push it up, but it stays cheap.
+**The £3.95 is the marinara**, which has no cheese — tomato, garlic and oregano, and a perfectly good pizza in its own right. Toppings push the price up and it stays cheap; nothing on the board reaches double figures.
+
+**Under £10, walk-in, counter-style and busy in the evenings.** A quick meal rather than a night out, and there is a second site in Camden.
 
 ### Kolkati, Covent Garden
 
 *£ · Seven Dials Market · 3 min from Covent Garden · walk-in*
 
-Kati rolls the Kolkata way — paratha cooked with egg through it, wrapped round spiced chicken or paneer with pickled onion, coriander chutney and lime. The best thing you can eat in Covent Garden for a fiver.
+**Kati rolls the Kolkata way** — and the detail that matters is the bread: a **paratha cooked with egg through it**, so the wrap is layered and slightly custardy rather than a dry tortilla.
+
+That paratha is wrapped round spiced chicken or paneer with **pickled onion and lime**, and eaten standing. It is Kolkata's answer to a kebab and almost nowhere else in London makes it properly.
+
+**£, walk-in, counter only.** Covent Garden. Under a fiver for the vegetarian roll and not much more for the chicken.
 
 ### Shree Krishna Vada Pav, Fitzrovia
 
 *£ · 4 min from Oxford Circus · walk-in* · Cited by 1 source
 
-Vada pav — the Mumbai potato-fritter roll, Bombay's answer to the burger — done properly, from a counter rather than a dining room. Three independent guides name a place where nothing costs more than a sandwich.
+**Vada pav — the Mumbai potato-fritter roll — done properly and cheaply**, from a counter rather than a dining room.
+
+A **vada pav** is a spiced potato fritter in a soft bun with dry garlic chutney: Mumbai's street sandwich, sold on every corner there and almost nowhere here. **Pav bhaji** and misal pav alongside, all under a fiver.
+
+**£, walk-in, counter only.** Several London sites. Among the cheapest things in this guide and one of the most specific.
 
 ---
 
@@ -104,39 +114,61 @@ The cheapest serious food in central London, and the reason to walk through a ma
 
 *£ · Borough Market · 4 min from London Bridge · walk-in*
 
-An all-vegetarian stall whose samosa chaat is built in front of you: samosas crushed under hot chickpea curry, then yoghurt, then tamarind. Order it and eat it there — it does not survive being carried anywhere.
+**Samosa chaat built to order** — the samosas **crushed under chickpea curry, yoghurt and tamarind while still hot**, which is the trick and the reason it does not go soggy on the way to you.
+
+An all-vegetarian Borough Market stall named for the slogan painted on the back of Indian lorries. **Pav bhaji and dosa** alongside the chaat, cooked in front of the queue and served in boxes.
+
+**£, walk-in, closed Monday, market hours only** — this is lunch, and it is gone well before evening.
 
 ### Gujarati Rasoi, Borough
 
 *£ · Borough Market · 4 min from London Bridge · walk-in*
 
-Mother-and-son Gujarati cooking from family recipes — thalis, bhajia and dhal, gently sweet — a few steps from Horn OK Please and a completely different tradition. Two Indian regional cuisines within thirty seconds of each other, at a market where nearly everything else is European.
+**Mother-and-son Gujarati cooking from family recipes** — thalis, bhajia and dhal — **at a market where almost everything else is European**, which is the reason the queue is what it is.
+
+Gujarati food balances sweet, sour and spicy in a way no other Indian regional cuisine does, and the **thali** is the way to see it: several small dishes, rice, bread and dal on one tray. **Undhiyu** in season is the dish to ask about.
+
+**£, walk-in, closed Monday, market hours.** Borough Market, and one of very few stalls there cooking a home tradition rather than a restaurant one.
 
 ### Bad Boy Pizza Society, Covent Garden
 
 *£ · Seven Dials Market · 2 min from Covent Garden · walk-in* · Cited by 8 pizza sources
 
-Twenty-two-inch New York pies sold by the slice from a counter on the lower level — and, improbably for a market stall, a two-time National Pizza of the Year winner.
+**Twenty-two-inch New York pies sold by the slice** from a counter inside Seven Dials Market — and, unusually for a market stall, **a two-time National Pizza of the Year winner**.
+
+New York style means a wide, foldable slice with a thin base and a crisp edge — a different thing from the Neapolitan rounds elsewhere in these guides. Sold by the slice, so a serious lunch costs a few pounds.
+
+**£, walk-in, and it trades on Seven Dials Market hours rather than its own.** The brand also runs residencies at Vinegar Yard and The Railway in Tulse Hill, and opened its first permanent restaurant on Bethnal Green Road in August 2025.
 
 ### Sud Italia, Spitalfields
 
 *£ · Old Spitalfields Market · 8 min from Aldgate East · walk-in* · Cited by 1 source
 
-Wood-fired Neapolitan pizza from a stall in Spitalfields Market, cooked in a proper oven rather than a deck heater — one of very few genuine market pizzas in central London.
+**Wood-fired pizza from a stall in Old Spitalfields Market** — one of the few genuine market pizzas in central London, baked in a mobile oven rather than reheated.
 
-Everything is made to order and the queue moves faster than it looks. **Market trading hours only**, so this is a lunch plan rather than a dinner one.
+A short Neapolitan list: **margherita and marinara** off a properly fermented dough, blistered in ninety seconds and handed over folded in paper. Nothing costs much and nothing is complicated.
+
+**£, walk-in, and it trades on market hours only.** Old Spitalfields, and the lunch queue is the market's own workers as much as visitors.
 
 ### Comalera, Walthamstow
 
 *£ · 2 min from St James Street · walk-in* · Cited by 3 mexican sources
 
-A Walthamstow stall pressing its own tortillas — the cheapest serious tacos in London, and worth the journey out if you care about the difference a fresh tortilla makes.
+**A Walthamstow stall pressing its own tortillas** — and **the cheapest serious tacos on any of these lists**.
+
+A *comal* is the flat griddle a tortilla is cooked on, and the name is the promise: masa pressed and griddled to order rather than bought in packs, which is the single thing that separates a good taco from a bad one. A short list of fillings, salsas made on site.
+
+**£, walk-in, and open Friday to Sunday only** — closed Monday through Thursday, so check the day before travelling.
 
 ### Hullabaloo, Greenwich
 
 *£ · Greenwich Market · 4 min from Cutty Sark · walk-in*
 
-A permanent fixture in Greenwich Market rather than a rotating stall, doing vegetarian and vegan Indian street food.
+**A permanent fixture in Greenwich Market rather than a rotating stall**, doing vegetarian and vegan Indian street food — which means it is there when you are, unlike most market traders.
+
+**Dosa, chaat and curries** served in boxes, cooked to order, and generous for the money. Everything is vegetarian and much of it vegan, without either being the selling point.
+
+**£, walk-in, market hours.** Greenwich Market, which is covered — so it works in the rain, unlike most of this section.
 
 ---
 
@@ -146,21 +178,31 @@ A permanent fixture in Greenwich Market rather than a rotating stall, doing vege
 
 *£ · 1 min from Tottenham Court Road · walk-in* · Cited by 1 source
 
-Fresh pasta under a tenner in generous portions, a minute from Tottenham Court Road. Built a following online rather than through the guides, which is why the queue is longer than the room suggests.
+**Fresh pasta under a tenner in generous portions**, near Tottenham Court Road — a business that **built its following online rather than through the guides**, which is why it took the press so long to notice.
+
+Pasta is made on site and cooked to order at a counter: **cacio e pepe, ragù, carbonara** in portions that are noticeably larger than the price suggests. Not refined, and not trying to be.
+
+**Under £10, walk-in, counter service.** Fitzrovia, and busiest at lunch when the surrounding offices empty.
 
 ### Breadstall, Soho
 
 *£ · Berwick Street · 5 min from Piccadilly Circus · walk-in* · Cited by 7 pizza sources
 
-A pizza slice counter on the Soho market street rather than a dining room. Slow-fermented dough with a crisp bottom and a puffed, almost naan-like crust.
+**A Berwick Street pizza slice counter**, on the Soho market street rather than in a dining room — **slow-fermented dough with a crisp bottom and a puffed, almost naan-like crust.**
+
+The long ferment is what makes the difference: the base is light and open rather than chewy, and the slices are cut from trays and reheated to order. Toppings change through the day.
+
+**£, walk-in, standing only.** A second site trades in Battersea. One of the better fast lunches in Soho and among the cheapest.
 
 ### Voodoo Ray's, Dalston
 
 *£ · walk-in · late* · Cited by 2 late-night sources
 
-Enormous New York slices sold well past the point most kitchens have shut, which at two in the morning is the only specification that matters.
+**Enormous New York slices sold until the small hours**, which is the only specification that matters at that time of night.
 
-Thin, foldable, sold by the slice, and consistently better than it needs to be given the hour and the queue. There are further sites, but Dalston is the one that set the tone.
+**Slices, not whole pizzas** — a quarter of a twenty-two-inch pie, foldable, cheap, and available when almost nothing else is. The toppings are straightforward and the point is the hour.
+
+**£, walk-in, and it serves well past midnight at weekends.** Dalston is the original; there are sites in Peckham and Shoreditch.
 
 ### Sarv's Slice, Ealing
 
@@ -176,7 +218,11 @@ The cheapest genuinely good pizza in west London, and worth the Central line tri
 
 *£ · 7 min from Goodge Street · walk-in*
 
-Coffee and brunch inside a restored Victorian public lavatory, with the original porcelain urinals turned into the counter you sit at. Worth it for the room as much as the price.
+**Built inside a restored Victorian public lavatory**, with **the original porcelain urinals turned into the counter you sit at** — which is either the best or the worst idea in this guide, depending on your tolerance.
+
+The lavatory closed in the 1960s and sat sealed for fifty years before it was converted. Coffee is the main trade, with **sandwiches, salads and brunch plates** alongside — proper cooking rather than a novelty menu.
+
+**£, walk-in.** Foley Street, and you go down a staircase from the pavement. Small, so it fills at lunch.
 
 ---
 
@@ -186,21 +232,31 @@ Coffee and brunch inside a restored Victorian public lavatory, with the original
 
 *£ · walk-in* · Cited by 2 chinese sources
 
-Noodles pulled by hand in the window, which is both the marketing and the reason to eat there — the texture of a fresh-pulled noodle does not survive being made in advance.
+**Noodles pulled to order in the window** — the dough stretched, folded and slapped against the counter in full view — and **the cheapest proper cooked meal in Chinatown**.
 
-The cheapest proper cooked meal in Chinatown and a few minutes from Leicester Square, in an area where almost everything else has drifted upmarket. Beef noodle soup is the order; the hand-pulled width is worth specifying.
+Hand-pulled noodles in beef broth are the order, with dan dan noodles and dumplings alongside. Watching the pulling is half the reason to queue; the other half is that a bowl costs less than a sandwich in most of central London.
+
+**£, walk-in.** Chinatown, and the queue moves because the cooking takes minutes.
 
 ### Saravanaa Bhavan, Leicester Square
 
 *£ · walk-in*
 
-The London outpost of the Chennai vegetarian chain, and the cheapest way in the West End to eat a properly made masala dosa — a metre of fermented rice crêpe with potato inside.
+**The London outpost of the Chennai vegetarian chain** — a group running hundreds of restaurants worldwide and the reference point for south Indian vegetarian food in most of them.
+
+**The cheapest way in the West End to eat a properly made masala dosa**: a fermented rice-and-lentil crepe, crisp and nearly a foot across, with spiced potato inside and sambar and chutneys to dip. Idli, vada and thalis alongside.
+
+**£, walk-in.** Leicester Square, busiest at lunch. Eat the dosa with your hands, which is how it is meant to go.
 
 ### Hiba Express, Holborn
 
 *£ · 2 min from Holborn · walk-in* · Cited by 2 Middle Eastern sources
 
-Family-run, generous and cheap — the lunch counter people who work in Holborn actually queue at, rather than the one guidebooks send them to.
+**A Lebanese counter doing wraps and grills at a fraction of what the surrounding offices charge** — and one of the better cheap lunches in a part of London badly served for them.
+
+**Chicken and lamb shawarma** carved off the spit into flatbread with garlic sauce and pickles, plus falafel wraps and mixed grills over rice. Everything is made to order at the counter.
+
+**£, walk-in, counter service.** Holborn, and queues out the door between noon and two — go either side of it.
 
 ### Silk Road, Camberwell
 
@@ -240,17 +296,21 @@ Entirely vegetarian, largely vegan, and completely unbothered about whether you 
 
 *£ · 92-93 Chapel Market · all-you-can-eat* · Cited by 2 sources
 
-An **all-you-can-eat North Indian vegetarian buffet** on Chapel Market that has been feeding Islington on a shoestring for decades — a dozen or so rotating dishes, biryani, breads and a salad bar, refilled as long as you keep going.
+**An all-you-can-eat North Indian vegetarian buffet that has fed Islington on a shoestring for decades**, in a room **papered floor to ceiling with hand-made posters about vegetarianism** — unlike anywhere else in this guide.
 
-The room is covered floor to ceiling in hand-made posters about the virtues of vegetarianism, which is part of the experience rather than incidental to it.
+**The buffet is the whole offer**: a dozen or so curries, rice, dal and breads, refilled as long as you keep going, for a single very low price. The cooking is homely rather than refined and nobody is pretending otherwise.
+
+**£, walk-in, no bookings.** Chapel Market. Go hungry — the economics only work if you do.
 
 ### Paolina Thai Cuisine, King's Cross
 
 *£ · 181 King's Cross Road · BYO · closed Sundays* · Cited by 2 thai sources
 
-**Dishes from £5.95**, family-run, and **bring your own bottle** — which between them make it one of the cheapest sit-down dinners in central London.
+**Dishes from £5.95, bring your own bottle, family-run**, and no regional pretensions whatsoever — the central Thai canteen repertoire done properly and cheaply.
 
-Central Thai canteen classics rather than anything regional or fashionable: curries, pad thai, noodle soups, done properly. A few minutes from King's Cross and a fraction of what anything else around the station charges.
+This is the Bangkok standard rather than a regional menu: **pad thai, green and red curry, pad krapow** with a fried egg on rice, and tom yum. Cooked to order in a plain room by people who have been doing it for years.
+
+**Under £10, BYO with no corkage, closed Sundays, walk-in.** 181 King's Cross Road, and among the cheapest sit-down meals in this guide.
 
 ### Sagar, Covent Garden
 
@@ -285,7 +345,12 @@ A deli that does almost nothing else, which is why it does this well. Leather La
 
 *£ · 4 The Pavement, Hainault Road · walk-in · cash only* · Cited by 2 fish and chips sources
 
-The chippy east London locals vote for, at prices central London stopped charging a decade ago. Flaky batter, thick chips, no seating.
+**The chippy east London locals vote for** — 61% of Leytonstoner readers picked it — at prices central London stopped charging a decade ago.
+
+**Cod and haddock in a flaky batter with thick chips**, fried to order, and nothing else going on. A takeaway counter with no seating at all, which is the point and the reason the queue moves.
+
+**CASH ONLY, under £10, closed Sunday.** Bring notes and eat it walking. Leytonstone is the far end of the Central line, which is why the prices have not moved.
+
 
 > ⚠️ **Cash only.** There is no card machine and no dining room.
 
@@ -306,23 +371,31 @@ Formica tables, a room untouched since long before the current fashion for untou
 
 *£ · 6 min from North Dulwich · walk-in* · Cited by 4 fish and chips sources
 
-Family-run since 1984 on a Herne Hill corner, and repeatedly singled out over names with far bigger reputations and far higher prices.
+**A south London chippy that three separate guides single out over far better-known names**, which is the whole reason it is here rather than a shop with a press office.
 
-Nothing about the room has been updated to chase anybody, which is the usual sign. Cod and haddock done properly, chips fried in dripping, and change from £12.
+**Cod and haddock in a crisp batter, chips fried properly**, and the standard sides. No restaurant menu, no grilled options, no reinvention — a counter doing one thing.
+
+**£, walk-in, closed Sunday.** Herne Hill, a few minutes from the station and the Sunday market, and cheap enough that a full portion still leaves change from a tenner.
 
 ### Fish Lounge, Clapham
 
 *£ · 16 min from Brixton · walk-in* · Cited by 5 fish and chips sources
 
-A Clapham chippy carrying a serious local reputation and none of the tourist traffic the central ones live on. Delicately battered fish and thick chips, fried to order rather than held under a lamp.
+**A Clapham chip shop with three guides behind it** and none of the tourist traffic of the central ones — Time Out has placed it second in London, which is a considerable claim for a shop most people have not heard of.
 
-The trade-off for frying to order is the wait, which on a Friday evening is real. It is a takeaway with a handful of seats rather than a restaurant.
+Fish bought fresh and **fried to order in a crisp, light batter with hand-cut chips**. The menu runs beyond cod and haddock into **sea bass, salmon and grilled options**, which is unusual at this price.
+
+**£, walk-in, closed Sunday and Monday.** A small counter with limited seating — most people take it away.
 
 ### Mickey's Chippy, Stoke Newington
 
 *£ · walk-in* · Cited by 1 source
 
-The Stoke Newington chippy that turns up on every north London list.
+**The Stoke Newington chippy that turns up on every north London list**, a few doors from one of the better pubs in the area — which is either a coincidence or the plan.
+
+**Cod and haddock fried to order in a light batter with thick chips**, and the sides done as they should be. A counter operation with a handful of seats.
+
+**£, under £12, walk-in, closed Sunday.** Take it to the pub down the road; most people do.
 
 ---
 
@@ -336,29 +409,45 @@ Order at the bar or through the app. No table service, no music, no booking.
 
 *£ · 9 Gracechurch Street · from 8am*
 
-The former Hongkong and Shanghai Banking Corporation headquarters, opened 1913 — marble columns, a glass-domed ceiling, and a banking hall the length of the room.
+**The former headquarters of the Hongkong and Shanghai Banking Corporation, opened 1913** — marble columns, a glass-domed ceiling and a banking hall the length of the room, at Wetherspoon prices.
+
+**The food is the standard Wetherspoon menu** — burgers, curries, a full cooked breakfast from 8am — which is the point: extraordinary room, ordinary plate, and the cheapest bill in central London for the setting.
+
+**£, walk-in. Order at the bar or through the app** — no table service by default and no music, which is the house style rather than an off day.
 
 ### Hamilton Hall, Liverpool Street
 
 *£ · Liverpool Street Station concourse · from 8am*
 
-The former ballroom of the Great Eastern Hotel, Grade II listed, with the gilded plasterwork and chandeliers intact. On the station concourse, so it is the useful one if you are waiting for a train.
+**The former ballroom of the Great Eastern Hotel**, off the Liverpool Street concourse — gilded plasterwork, chandeliers and cornicing kept intact, modelled on a salon at Versailles.
+
+**Wetherspoon menu and prices** under that ceiling: **cooked breakfast from 8am**, burgers and pub standards after. Grade II listed, and reopened after a long refurbishment.
+
+**£, walk-in. On the station concourse**, which makes it the most useful of these if you are killing time before a train.
 
 ![The ornate entrance of Hamilton Hall pub at Liverpool Street station](../../assets/articles/cheap-eats-london/hamilton-hall.jpg)
-
 *A Wetherspoons in the former ballroom of the Great Eastern Hotel, complete with chandeliers and gilt mirrors. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2804281208), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 
 ### The Ledger Building, Canary Wharf
 
 *£ · 4 Hertsmere Road, West India Quay*
 
-An 1800 dock building that held the West India Docks ledgers, with a colonnaded front and a quayside terrace — and by a distance the cheapest place to eat or drink at Canary Wharf. Next door to the free Museum of London Docklands.
+**An 1800 dock building on West India Quay that once held the West India Docks ledgers** — colonnaded front, quayside terrace, and **by some distance the cheapest place to eat or drink at Canary Wharf**.
+
+**Wetherspoon menu and prices** — cooked breakfast, burgers, pub standards — inside a listed dock office that predates every tower around it by nearly two centuries.
+
+**£, walk-in. A footbridge from the Canary Wharf towers and next door to the Museum of London Docklands, which is free** — the two make an easy afternoon.
 
 ### The Montagu Pyke, Charing Cross Road
 
 *£ · 105–107 Charing Cross Road*
 
-Pyke's Cambridge Circus Cinematograph Theatre, built 1911. Two minutes from Cambridge Circus, which makes it a realistic pre-theatre stop at a fraction of Soho prices.
+**A former cinema on Charing Cross Road**, named after the silent-film entrepreneur who built a chain of them across London before the First World War.
+
+**Wetherspoon menu and prices** — cooked breakfast from 8am, burgers, curries — in a large multi-level room a minute from Leicester Square, where almost nothing else is under a tenner.
+
+**£, walk-in.** The most useful of the four for the West End: order at the bar or by app, and there is no table service.
 
 ---
 
