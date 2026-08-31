@@ -124,7 +124,9 @@ Every one of these is ranked by how many independent awards, critics and reviewe
 
 Food markets and indoor food halls are among the best dining solutions in London, particularly for groups where everyone wants something different.
 
-📍 **[London's Best Markets: 19 Compared](/articles/best-london-markets/)** is the full guide, arranged by what each one actually sells — and, more usefully, by **which day it exists**. Columbia Road is a Sunday. Broadway Market is a Saturday. Turning up on the wrong day is the standard way to waste a morning.
+📍 **[The Best Street Food in London](/articles/best-street-food-london/)** compares every multi-trader market, food hall and container yard in the city on traders, variety, seating and — most usefully — **which days each one actually exists**.
+
+📍 **[London's Best Markets: 19 Compared](/articles/best-london-markets/)** is the wider guide, arranged by what each one actually sells — and, more usefully, by **which day it exists**. Columbia Road is a Sunday. Broadway Market is a Saturday. Turning up on the wrong day is the standard way to waste a morning.
 
 It covers:
 
@@ -223,7 +225,7 @@ One place, in case you would rather scan a list than a page.
 
 **By time of day:** [Breakfast and brunch](/articles/best-breakfast-brunch-london/) · [Coffee](/articles/best-coffee-london/) · [Bakeries](/articles/best-bakeries-london/) · [Afternoon tea](/articles/best-afternoon-tea-london/) · [Cocktail bars](/articles/best-cocktail-bars-london/) · [Late-night eating](/articles/late-night-eating-london/)
 
-**By budget, occasion and room:** [Cheap eats](/articles/cheap-eats-london/) · [Special occasions](/articles/special-occasion-restaurants-london/) · [Historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/) · [Unusual restaurants](/articles/unusual-restaurants-london/) · [Markets and food halls](/articles/best-london-markets/)
+**By budget, occasion and room:** [Street food](/articles/best-street-food-london/) · [Cheap eats](/articles/cheap-eats-london/) · [Special occasions](/articles/special-occasion-restaurants-london/) · [Historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/) · [Unusual restaurants](/articles/unusual-restaurants-london/) · [Markets and food halls](/articles/best-london-markets/)
 
 ---
 

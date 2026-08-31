@@ -1,0 +1,93 @@
+{
+  "cuisine": "street-food",
+  "note": "Created by record-source.mjs on 2026-08-31.",
+  "recorded": "2026-08-31",
+  "sources": [
+    {
+      "name": "Time Out (London's 13 best street food markets and food halls)",
+      "url": "https://www.timeout.com/london/restaurants/londons-best-street-food-markets-and-food-halls",
+      "scope": "street-food",
+      "names": [
+        "Borough Market",
+        "Bang Bang Oriental",
+        "Brixton Village",
+        "Broadway Market",
+        "Maltby Street Market",
+        "Old Spitalfields Market",
+        "Arcade Food Hall",
+        "Spa Terminus",
+        "Whitecross Street Market",
+        "Netil Market",
+        "Southbank Centre Food Market",
+        "Seven Dials Market",
+        "Market Halls"
+      ],
+      "quotes": {
+        "Borough Market": "#1",
+        "Bang Bang Oriental": "#2",
+        "Brixton Village": "#3",
+        "Broadway Market": "#4",
+        "Maltby Street Market": "#5",
+        "Old Spitalfields Market": "#6",
+        "Arcade Food Hall": "#7",
+        "Spa Terminus": "#8",
+        "Whitecross Street Market": "#9",
+        "Netil Market": "#10",
+        "Southbank Centre Food Market": "#11",
+        "Seven Dials Market": "#12",
+        "Market Halls": "#13 - Victoria"
+      }
+    },
+    {
+      "name": "Hot Dinners (guide to London's best food courts and halls)",
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets",
+      "scope": "street-food",
+      "names": [
+        "Boxhall",
+        "Corner Corner",
+        "Seven Dials Market",
+        "Market Halls",
+        "Hawley Wharf",
+        "Eataly",
+        "Upmarket",
+        "Canteen Food Hall",
+        "Market Place",
+        "Arcade Food Hall",
+        "Bang Bang Oriental",
+        "Metropolis Food Hall",
+        "Boxpark",
+        "Harrods Dining Hall",
+        "Mercato Metropolitano"
+      ]
+    },
+    {
+      "name": "DesignMyNight (best food markets, courts and halls in London)",
+      "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london",
+      "scope": "street-food",
+      "names": [
+        "Huckster",
+        "Market Halls",
+        "Seven Dials Market",
+        "Boxhall",
+        "Pop Brixton",
+        "Mercato Metropolitano",
+        "Vauxhall Food & Beer Garden",
+        "Arbour",
+        "Peckham Levels",
+        "Canteen Food Hall",
+        "Vinegar Yard",
+        "Arcade Food Hall",
+        "Corner Corner",
+        "Fulham Pier",
+        "Boxpark",
+        "Flat Iron Square",
+        "Eataly",
+        "LaLaLand",
+        "Borough Market",
+        "Broadway Market",
+        "Bang Bang Oriental",
+        "Market Place"
+      ]
+    }
+  ]
+}

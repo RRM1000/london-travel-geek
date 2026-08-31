@@ -53,7 +53,8 @@
     "name": "Old Spitalfields Market",
     "topics": [
       "activities-shoreditch",
-      "markets"
+      "markets",
+      "street-food"
     ],
     "sourceCount": 5,
     "tierSpread": "B1 C4",
@@ -70,6 +71,12 @@
         "sourceCount": 3,
         "tierSpread": "B1 C2",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -4344,11 +4351,12 @@
   "boxpark": {
     "name": "Boxpark",
     "topics": [
-      "activities-shoreditch"
+      "activities-shoreditch",
+      "street-food"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "activities-shoreditch": {
@@ -4356,13 +4364,29 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+      },
+      {
         "tier": "C",
         "source": "Things To Do In London",
         "url": "https://www.thingstodoinlondon.com/things-to-do/shoreditch/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
       }
     ]
   },
@@ -61344,10 +61368,11 @@
     "name": "Seven Dials Market",
     "topics": [
       "dim-sum",
-      "markets"
+      "markets",
+      "street-food"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
+    "sourceCount": 6,
+    "tierSpread": "B3 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -61362,6 +61387,12 @@
         "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
@@ -61369,6 +61400,17 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food-markets-and-food-halls",
+        "quote": "#12"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
       },
       {
         "tier": "C",
@@ -61379,6 +61421,11 @@
         "tier": "C",
         "source": "Little Grey Box",
         "url": "https://littlegreybox.net/must-visit-london-markets/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
       }
     ]
   },
@@ -78892,10 +78939,11 @@
     "name": "Borough Market",
     "topics": [
       "general",
-      "markets"
+      "markets",
+      "street-food"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B1 C4 D1",
+    "sourceCount": 7,
+    "tierSpread": "B2 C4 D1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -78910,6 +78958,12 @@
         "tierSpread": "B1 C4",
         "tierCount": 2,
         "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -78917,6 +78971,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
       },
       {
         "tier": "C",
@@ -90978,16 +91037,23 @@
   "eataly": {
     "name": "Eataly",
     "topics": [
-      "italian"
+      "italian",
+      "street-food"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "italian": {
         "sourceCount": 3,
         "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
         "tierCount": 2,
         "hasAward": false
       }
@@ -91004,9 +91070,19 @@
         "url": "https://www.thehandbook.com/best-pasta-restaurants-london/"
       },
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+      },
+      {
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/features/londons-best-fresh-pasta-joints/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
       }
     ]
   },
@@ -104490,6 +104566,7 @@
     "name": "Maltby Street Market",
     "topics": [
       "markets",
+      "street-food",
       "unusual"
     ],
     "sourceCount": 5,
@@ -104501,6 +104578,12 @@
         "sourceCount": 4,
         "tierSpread": "B1 C3",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       },
       "unusual": {
@@ -104541,10 +104624,11 @@
   "broadwaymarket": {
     "name": "Broadway Market",
     "topics": [
-      "markets"
+      "markets",
+      "street-food"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C3",
+    "sourceCount": 5,
+    "tierSpread": "B2 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -104553,6 +104637,12 @@
         "tierSpread": "B1 C3",
         "tierCount": 2,
         "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -104560,6 +104650,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
       },
       {
         "tier": "C",
@@ -104581,11 +104676,12 @@
   "brixtonvillage": {
     "name": "Brixton Village",
     "topics": [
-      "markets"
+      "markets",
+      "street-food"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "markets": {
@@ -104593,9 +104689,21 @@
         "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food-markets-and-food-halls",
+        "quote": "#3"
+      },
       {
         "tier": "C",
         "source": "Lamplit London",
@@ -104611,11 +104719,12 @@
   "mercatometropolitano": {
     "name": "Mercato Metropolitano",
     "topics": [
-      "markets"
+      "markets",
+      "street-food"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "markets": {
@@ -104623,13 +104732,29 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+      },
+      {
         "tier": "C",
         "source": "Lamplit London",
         "url": "https://www.lamplitlondon.com/guides/best-food-markets-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
       }
     ]
   },
@@ -113196,7 +113321,8 @@
   "arbour": {
     "name": "Arbour",
     "topics": [
-      "new-openings"
+      "new-openings",
+      "street-food"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -113204,6 +113330,12 @@
     "hasAward": false,
     "byTopic": {
       "new-openings": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "street-food": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -113301,17 +113433,24 @@
   "arcadefoodhall": {
     "name": "Arcade Food Hall",
     "topics": [
-      "new-openings"
+      "new-openings",
+      "street-food"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "new-openings": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -113320,6 +113459,17 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food-markets-and-food-halls",
+        "quote": "#7"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
       }
     ]
   },
@@ -122230,14 +122380,21 @@
   "fulhampier": {
     "name": "Fulham Pier",
     "topics": [
-      "seafood"
+      "seafood",
+      "street-food"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "street-food": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -122249,6 +122406,11 @@
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/londons-best-oysters/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
       }
     ]
   },
@@ -125113,6 +125275,589 @@
         "source": "World's 101 Best Steak Restaurants",
         "url": "https://www.worldbeststeaks.com/the-list",
         "quote": "#55 in the World's 101 Best Steak Restaurants 2026"
+      }
+    ]
+  },
+  "bangbangoriental": {
+    "name": "Bang Bang Oriental",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food-markets-and-food-halls",
+        "quote": "#2"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
+      }
+    ]
+  },
+  "spaterminus": {
+    "name": "Spa Terminus",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food-markets-and-food-halls",
+        "quote": "#8"
+      }
+    ]
+  },
+  "whitecrossstreetmarket": {
+    "name": "Whitecross Street Market",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food-markets-and-food-halls",
+        "quote": "#9"
+      }
+    ]
+  },
+  "netilmarket": {
+    "name": "Netil Market",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food-markets-and-food-halls",
+        "quote": "#10"
+      }
+    ]
+  },
+  "southbankcentrefoodmarket": {
+    "name": "Southbank Centre Food Market",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food-markets-and-food-halls",
+        "quote": "#11"
+      }
+    ]
+  },
+  "markethalls": {
+    "name": "Market Halls",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food-markets-and-food-halls",
+        "quote": "#13 - Victoria"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
+      }
+    ]
+  },
+  "boxhall": {
+    "name": "Boxhall",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
+      }
+    ]
+  },
+  "cornercorner": {
+    "name": "Corner Corner",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
+      }
+    ]
+  },
+  "hawleywharf": {
+    "name": "Hawley Wharf",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
+      }
+    ]
+  },
+  "upmarket": {
+    "name": "Upmarket",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
+      }
+    ]
+  },
+  "canteenfoodhall": {
+    "name": "Canteen Food Hall",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
+      }
+    ]
+  },
+  "marketplace": {
+    "name": "Market Place",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
+      }
+    ]
+  },
+  "metropolisfoodhall": {
+    "name": "Metropolis Food Hall",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
+      }
+    ]
+  },
+  "harrodsdininghall": {
+    "name": "Harrods Dining Hall",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
+      }
+    ]
+  },
+  "huckster": {
+    "name": "Huckster",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+      }
+    ]
+  },
+  "popbrixton": {
+    "name": "Pop Brixton",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+      }
+    ]
+  },
+  "vauxhallfoodandbeergarden": {
+    "name": "Vauxhall Food & Beer Garden",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+      }
+    ]
+  },
+  "peckhamlevels": {
+    "name": "Peckham Levels",
+    "topics": [
+      "street-food",
+      "unusual"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "unusual": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Away to the City",
+        "url": "https://awaytothecity.com/unique-things-to-do-in-london/"
+      }
+    ]
+  },
+  "vinegaryard": {
+    "name": "Vinegar Yard",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+      }
+    ]
+  },
+  "flatironsquare": {
+    "name": "Flat Iron Square",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+      }
+    ]
+  },
+  "lalaland": {
+    "name": "LaLaLand",
+    "topics": [
+      "street-food"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
       }
     ]
   },
@@ -130896,31 +131641,6 @@
   },
   "coaldropsyard": {
     "name": "Coal Drops Yard",
-    "topics": [
-      "unusual"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "unusual": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Away to the City",
-        "url": "https://awaytothecity.com/unique-things-to-do-in-london/"
-      }
-    ]
-  },
-  "peckhamlevels": {
-    "name": "Peckham Levels",
     "topics": [
       "unusual"
     ],

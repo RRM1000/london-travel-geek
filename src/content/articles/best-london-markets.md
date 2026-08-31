@@ -25,7 +25,9 @@ faq:
 
 The single most useful thing to know about London markets is **which days they exist**. Columbia Road is a street of flower sellers on Sunday and an ordinary road the rest of the week. Broadway Market is a Saturday. Turning up on the wrong day is the standard way to waste a morning.
 
-We keep a full [markets by day](/markets/) page for exactly that reason. This guide is about what each one is actually *for*.
+We keep a full [markets by day](/markets/) page for exactly that reason. This guide is about what each one is actually *for* — including the flower, antiques and shopping markets.
+
+**If you are only here to eat**, our [best street food in London](/articles/best-street-food-london/) guide compares every food hall, market and container yard on traders, variety, seating and trading days.
 
 > 💡 **The Short Version:** **Borough** is the food market everything else is measured against. **Columbia Road** is Sunday only and worth the alarm. **Seven Dials Market** is in a banana-ripening warehouse. **Maltby Street** is the one locals use instead of Borough. And **Billingsgate** trades before dawn and is finished by 8am.
 
