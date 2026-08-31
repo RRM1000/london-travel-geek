@@ -84,11 +84,12 @@ The City of London has its own share of the commemorative plaques marking where 
 
 1. **St Paul's Cathedral** — Wren's 1710 dome, and the 528-step climb to the Golden Gallery via the Whispering Gallery. Sightseeing is ticketed; **Evensong is free** and lets you sit in the quire.
 2. **Tower of London** — A Norman fortress begun in 1066, the Crown Jewels, the Yeoman Warders and the ravens. Book ahead and arrive at opening.
-3. **Horizon 22** — Level 58 of 22 Bishopsgate and the highest free viewing floor in Europe. Book a slot online.
-4. **Sky Garden** — The planted terrace at the top of 20 Fenchurch Street, the "Walkie-Talkie". Free with booking.
-5. **Leadenhall Market** — A painted Victorian arcade of 1881, used as Diagon Alley in the first Harry Potter film. Best on a weekday when the traders are open.
-6. **The Roman remains** — The London Wall at Tower Hill and Noble Street, the Temple of Mithras rebuilt in situ beneath Bloomberg's building (free, booked), and the amphitheatre under the Guildhall Art Gallery.
-7. **The Wren churches** — Around 50 were built after the Great Fire; roughly half survive. St Stephen Walbrook, St Mary-le-Bow and St Bartholomew the Great are the best, and all are free.
+3. **Tower Bridge** — The 1894 bascule bridge beside the Tower, and the one most people mistake for London Bridge. **Walking across it is free.** The ticketed Exhibition adds the high-level walkways, the glass floor over the road and the Victorian engine rooms. Lift times are published in advance, and watching it open costs nothing.
+4. **Horizon 22** — Level 58 of 22 Bishopsgate and the highest free viewing floor in Europe. Book a slot online.
+5. **Sky Garden** — The planted terrace at the top of 20 Fenchurch Street, the "Walkie-Talkie". Free with booking.
+6. **Leadenhall Market** — A painted Victorian arcade of 1881, used as Diagon Alley in the first Harry Potter film. Best on a weekday when the traders are open.
+7. **The Roman remains** — The London Wall at Tower Hill and Noble Street, the Temple of Mithras rebuilt in situ beneath Bloomberg's building (free, booked), and the amphitheatre under the Guildhall Art Gallery.
+8. **The Wren churches** — Around 50 were built after the Great Fire; roughly half survive. St Stephen Walbrook, St Mary-le-Bow and St Bartholomew the Great are the best, and all are free.
 
 ![Guildhall Yard at sunset, with the medieval Guildhall on one side and the Guildhall Art Gallery, entrance to the Roman amphitheatre, on the other](../../assets/articles/city-of-london-area-guide/guildhall-yard.jpg)
 
@@ -106,10 +107,6 @@ The City of London has its own share of the commemorative plaques marking where 
 
 *The tower cluster from the south bank. Almost all of it has gone up since 2010, and Leadenhall Market sits at the foot of it.*
 
-![St Paul's Cathedral rising above the City skyline, with the Millennium Bridge crossing the Thames below](../../assets/articles/city-of-london-area-guide/st-pauls-from-the-river.jpg)
-
-*St Paul's from the South Bank, with the Millennium Bridge running to its door. The bridge was built to frame exactly this. Photo: [damo1977](https://www.flickr.com/photos/60754591@N00/3467579254), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
-
 ## Key streets and micro-districts
 
 ### St Paul's and Paternoster Square
@@ -120,6 +117,10 @@ Seven roads meeting at the Bank of England. The Royal Exchange is now shops and 
 
 ### Leadenhall and the tower cluster
 Leadenhall Market beneath 22 Bishopsgate, the Gherkin, the Cheesegrater and the Scalpel. The most dramatic street-level contrast in London.
+
+![A classical stone portico and carved cornice in the foreground with the glass towers of 22 Bishopsgate and the Scalpel rising directly behind](../../assets/articles/city-of-london-area-guide/old-and-new-city.jpg)
+
+*This is the best few streets in London for old against new. The City never zoned its towers into a separate district, so a Victorian banking hall and a 62-storey tower end up on the same pavement — look up anywhere between Leadenhall Street and Bishopsgate and you get both in one frame.*
 
 ### Tower Hill and the riverside
 The Tower, the surviving stretch of Roman wall, and the approach to Tower Bridge.
