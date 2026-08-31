@@ -187,7 +187,7 @@ A covered Victorian market hall with different themes by day: antiques Thursday,
 
 *Sundays · vintage, antiques and street food*
 
-On Sundays the whole stretch turns into a patchwork of markets — **Backyard Market, Sunday UpMarket, the Boiler House** and the Old Truman Brewery yards — selling vintage clothes, records, antiques and some of the best street food in east London.
+On Sundays the whole stretch turns into a patchwork of markets — **Upmarket, Backyard Market, the Vintage Market** and the Old Truman Brewery yards — selling vintage clothes, records, antiques and some of the best street food in east London.
 
 Chaotic, crowded and much larger than it looks from the street. Go early if you want the vintage, late if you want the food.
 

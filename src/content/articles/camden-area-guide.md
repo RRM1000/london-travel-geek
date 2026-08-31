@@ -52,7 +52,7 @@ area:
       note: "West along the canal to Little Venice, or take the waterbus instead of walking."
 faq:
   - q: "How many markets are there in Camden?"
-    a: "Effectively five, running into each other along the same half-mile. Camden Lock Market is the original by the canal; Stables Market is the largest, in the old horse hospital tunnels; Camden Lock Village sits opposite; Buck Street Market is the covered container market by the station; and Inverness Street is a small street market. Most people walk all of them without realising they have crossed between four owners."
+    a: "Effectively five, running into each other along the same half-mile. Camden Lock Market is the original by the canal; Stables Market is the largest, in the old horse hospital tunnels; Camden Lock Village sits opposite; Boxpark Camden is the covered container market by the station, on the old Buck Street Market site; and Inverness Street is a small street market. Most people walk all of them without realising they have crossed between four owners."
   - q: "What days is Camden Market open?"
     a: "Every day, roughly 10:00 to 18:00. Unlike most London markets it does not depend on the weekend — though Saturday and Sunday are considerably busier, and some stalls only trade then. A weekday morning gets you the same market with room to move."
   - q: "Can you take a boat from Camden to Little Venice?"
