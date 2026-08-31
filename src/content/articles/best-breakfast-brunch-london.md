@@ -30,7 +30,7 @@ Both are here, alongside the hotel rooms where breakfast is a business meeting.
 > 💡 **The Short Version:** **The Wolseley** is the London power breakfast in a 1920s car showroom. **Dishoom's bacon naan roll** is the one worth queueing for. **Granger & Co** started the London brunch thing and the hotcakes are still on the menu. **Duck & Waffle** is open 24 hours forty floors up. And **Wetherspoons** does a cooked breakfast from 8am for a few pounds.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **5 sources carrying 135 citations** across **105 named rooms** — The Infatuation, The Nudge, Resy, Lux Life and one specialist. **20 rooms are named by two or more independent sources.**
+> Nothing here is ranked on one visit. This pass reads **5 sources carrying 135 citations** across **106 named rooms** — The Infatuation, The Nudge, Resy, Lux Life and one specialist. **21 rooms are named by two or more independent sources.**
 > **The known weakness in this topic: this is the thinnest corpus on the site.** Five publications, no award, no inspectorate, and nothing named by more than three of them — Christopher's and Granger & Co are the joint most-cited, on three each. Brunch is written about constantly and ranked almost never, so the counts here separate the well-covered from the obscure and not much more. Several rooms below carry no citation at all and say so.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 

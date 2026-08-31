@@ -118,10 +118,20 @@ const NOISE_SET = new Set([
 ].map((s) => s.toLowerCase()));
 const NOISE_RE = NOISE.patterns.map((p) => new RegExp(p, "i"));
 
-function isJunk(raw) {
+// Names that are furniture in general but a real venue in named topics.
+const VENUE_EXCEPTIONS = Object.fromEntries(
+  Object.entries(NOISE.venueExceptions ?? {}).map(([k, v]) => [norm(k), v.topics ?? []]),
+);
+
+// `topic` is passed so a name can be furniture in one corpus and a venue in
+// another. "Sunday" is an opening-hours row in Harden's and a brunch restaurant
+// in Barnsbury; data/name-noise.json venueExceptions says which topics mean the
+// restaurant. Without the scoping one of those two readings has to be wrong.
+function isJunk(raw, topic) {
   const n = String(raw ?? "").trim();
   if (!n) return true;
   const low = n.toLowerCase();
+  if (VENUE_EXCEPTIONS[norm(n)]?.includes(topic)) return false;
   if (n.length < NOISE.minLength || n.length > NOISE.maxLength) return true;
   if (n.split(/\s+/).length > NOISE.maxWords) return true;
   if (NOISE_SET.has(low)) return true;
@@ -174,7 +184,7 @@ for (const file of topics) {
 
     for (const raw of src.names ?? []) {
       const asWritten = decodeEntities(raw);
-      if (isJunk(asWritten)) continue;
+      if (isJunk(asWritten, topic)) continue;
       // Junk is judged on what the source wrote; everything after this point
       // uses the canonical name, so variant spellings land on one record.
       const name = canonical(asWritten);

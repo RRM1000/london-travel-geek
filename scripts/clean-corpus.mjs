@@ -17,8 +17,12 @@
 import fs from "node:fs";
 
 const NOISE = JSON.parse(fs.readFileSync("data/name-noise.json", "utf8"));
-const CHROME = (NOISE.chromePatterns?.patterns ?? []).map((p) => new RegExp(p, "i"));
-if (!CHROME.length) { console.error("no chromePatterns in data/name-noise.json"); process.exit(1); }
+// Shared with build-evidence.mjs and audit-corpus.mjs. See scripts/lib/noise.mjs
+// for why that matters: the two pattern lists in name-noise.json had no overlap,
+// so the cleaner used to leave behind exactly the furniture the build was
+// silently dropping, and three of its patterns could never match at all.
+import { isFurniture, patternCount } from "./lib/noise.mjs";
+if (!patternCount) { console.error("no patterns in data/name-noise.json"); process.exit(1); }
 
 const args = process.argv.slice(2);
 const WRITE = args.includes("--write");
@@ -28,7 +32,7 @@ const list = topics.length
   ? topics
   : fs.readdirSync("data/consensus").filter((f) => f.endsWith(".json")).map((f) => f.replace(/\.json$/, ""));
 
-const isChrome = (n) => CHROME.some((r) => r.test(String(n).trim()));
+const isChrome = (n) => isFurniture(n);
 
 // A listicle that glues its list position to the name - "2 Bone Daddies",
 // "3 Shoryu Ramen" - has a real venue in it, so the index is stripped rather

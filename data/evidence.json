@@ -19051,6 +19051,48 @@
       }
     ]
   },
+  "sunday": {
+    "name": "Sunday",
+    "topics": [
+      "breakfast-brunch",
+      "british"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-brunch-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-brunches-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
+      }
+    ]
+  },
   "caravankingscross": {
     "name": "Caravan King’s Cross",
     "topics": [
@@ -53706,6 +53748,36 @@
       }
     },
     "sources": [
+      {
+        "tier": "C",
+        "source": "Brew Atlas",
+        "url": "https://brewatlas.co/london"
+      }
+    ]
+  },
+  "specialguests": {
+    "name": "Special Guests",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/news/11-london-coffee-shops-have-been-named-the-best-in-the-uk-for-2026-including-catalyst-prufrock-carbon-kopi-and-more-012026"
+      },
       {
         "tier": "C",
         "source": "Brew Atlas",

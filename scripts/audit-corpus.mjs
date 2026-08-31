@@ -28,13 +28,17 @@ const ALIAS = JSON.parse(fs.readFileSync("data/name-aliases.json", "utf8"));
 const norm = (s) => String(s).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")
   .replace(/&/g, " and ").replace(/^(the|a)\s+/, "").replace(/[^a-z0-9]+/g, "");
 
-// The shapes a captured "venue" takes when it is really page furniture. The
-// list lives in data/name-noise.json so this tool and clean-corpus.mjs share it
-// - a pattern added because it caught something on Spanish then protects every
-// other topic without anyone re-reading a name list.
-const CHROME = (NOISE.chromePatterns?.patterns ?? []).map((p) => new RegExp(p, "i"));
+// The shapes a captured "venue" takes when it is really page furniture.
+//
+// This used to read data/name-noise.json's chromePatterns directly, which meant
+// it was judging corpora by a DIFFERENT rule from the one build-evidence.mjs
+// applies - two pattern lists, zero overlap, neither aware of the other. It now
+// shares scripts/lib/noise.mjs with the build and the cleaner, so "clean
+// according to the audit" and "clean according to the build" are the same
+// sentence.
+import { isFurniture, patternCount } from "./lib/noise.mjs";
 
-const looksLikeChrome = (n) => CHROME.some((r) => r.test(String(n).trim()));
+const looksLikeChrome = (n) => isFurniture(n);
 
 // A national or international list whose London subset has to be taken.
 const NATIONAL = /\b(britain|british|uk|u\.k\.|england|world|europe|national)\b/i;

@@ -32,13 +32,20 @@ for (const f of fs.readdirSync("data/topics").filter((x) => x.endsWith(".json"))
   const t = JSON.parse(fs.readFileSync(`data/topics/${f}`, "utf8"));
   if (t.topic && t.article) MAP[t.topic] = t.article;
 }
-const EXTRA = {
-  pizza: "src/content/articles/best-pizza-london.md",
-  mexican: "src/content/articles/best-mexican-restaurants-london.md",
-  spanish: "src/content/articles/best-spanish-restaurants-london.md",
-  japanese: "src/content/articles/best-japanese-restaurants-london.md",
-};
-for (const [k, v] of Object.entries(EXTRA)) MAP[k] ??= v;
+// data/topics/ only covers the topics that needed a config, and a hand-kept
+// EXTRA list covered four more - so this script silently skipped eight guides
+// that DO have a verifier. breakfast-brunch drifted by a venue and the sync
+// reported "0 articles would change" while the verifier failed, which is the
+// worst of both: a checker saying no and a fixer saying nothing to do.
+//
+// The verifiers are the authority on which article belongs to which topic, so
+// read the pairing out of them instead of maintaining a second list.
+for (const f of fs.readdirSync("scripts").filter((x) => /^verify-.*-citations\.mjs$/.test(x))) {
+  const topic = f.replace(/^verify-|-citations\.mjs$/g, "");
+  const src = fs.readFileSync(`scripts/${f}`, "utf8");
+  const m = src.match(/src\/content\/articles\/([a-z0-9-]+)\.md/);
+  if (m) MAP[topic] ??= `src/content/articles/${m[1]}.md`;
+}
 
 const args = process.argv.slice(2);
 const WRITE = args.includes("--write");
@@ -86,7 +93,18 @@ for (const [topic, article] of Object.entries(MAP)) {
       return `Cited by ${real}${label ?? ""} source${real === 1 ? "" : "s"}`;
     });
   }
-  s = lines.join("\n");
+  // Rejoin with the line ending the file already used. Joining with "\n"
+  // unconditionally rewrote every line of every CRLF article, so eight guides
+  // reported as "would change" with no edit listed against them - a diff of
+  // pure line endings, hiding the one real figure change inside it.
+  const eol = before.includes("\r\n") ? "\r\n" : "\n";
+  // Six articles carry a handful of bare LFs among their CRLFs, left by the
+  // patch scripts that inserted citation lines. Normalising them is harmless,
+  // but it must not be the thing that makes a file "change" with nothing to
+  // show for it - say so, so no edit here is ever silent.
+  const mixed = /\r\n/.test(before) && /(?<!\r)\n/.test(before);
+  if (mixed) edits.push("line endings: normalised mixed CRLF/LF to CRLF");
+  s = lines.join(eol);
 
   // The corpus figures in the evidence block.
   const fix = (re, next) => {
