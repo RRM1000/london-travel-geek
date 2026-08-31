@@ -64,22 +64,26 @@ The restaurants run along **three streets** rather than one: New Malden High Str
 
 *£££ · charcoal, not gas* · Cited by 4 sources
 
-**Real charcoal rather than gas**, which is why it is the purist's choice in a town full of Korean grills. The smoke is the difference and you will taste it. Clay-pot stews alongside the table grill.
+**Real charcoal rather than gas**, which is the purist's choice in a town full of Korean grills — the smoke gets into the meat, the fat renders differently, and everyone in New Malden can taste which shops have made the switch and which have not.
 
-Named after the Seoul district where the founder met his wife.
+Table barbecue is the format: **galbi** — marinated short rib — and pork belly grilled in front of you, with the full **banchan** spread of kimchi, pickles and namul arriving unasked and refilled free. The stews behind the grill are worth ordering as well as it.
 
+**£££, book a few days ahead** for a weekend table. Named by four independent sources, more than either of London's Michelin-starred Korean restaurants.
 
 ![The frontage of a Korean restaurant on a New Malden street](../../assets/articles/best-korean-restaurants-london/korean-restaurant-new-malden.jpg)
-
 *New Malden has one of the largest Korean communities in Europe, and its high street reflects it. Photo: [sludgegulper](https://commons.wikimedia.org/wiki/File:Korean_Restaurant,_New_Malden_KT3.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 
 ### Imone, New Malden High Street
 
 *££ · family-run* · Cited by 4 sources
 
-The one everybody sends you to. **Korean home cooking** rather than barbecue — stone-bowl bibimbap, yangnyum dak — in a small family room whose name means "aunt's place", which is roughly the register of the food.
+**A small family-run room on New Malden high street**, and the one locals send you to — strong on seafood, and with **halal chicken options** that most Korean kitchens do not offer.
 
-It made **Time Out's top twenty London restaurants in 2024**, which for a suburban front room thirty minutes down the line is remarkable.
+Seafood is what distinguishes it: **haemul pajeon**, the seafood and spring onion pancake, cooked crisp at the edges, and stews built on squid and prawn rather than pork. The banchan spread is generous and changes with what has been made that day.
+
+**££, book a few days ahead** — it is small and it fills with people who live nearby rather than with visitors.
+
 
 > Note that **Imone BBQ next door is a separate, newer venue** — a dedicated grill room. Easy to book the wrong one.
 
@@ -87,37 +91,51 @@ It made **Time Out's top twenty London restaurants in 2024**, which for a suburb
 
 *££ · trading since 1988*
 
-**New Malden's first Korean restaurant**, and it celebrated its 35th year in 2023 — the room the rest of the town grew up around.
+One of the plainer New Malden rooms, and the sort of place that exists for the Korean community rather than for a guide — no styling, no English-first menu, and a following built entirely on word of mouth.
 
-Handmade **jajangmyeon**, the thick black bean noodles, plus fried mandu and bibimbap. This is the historical one.
+Grilled meats at the table and a long list of **jjigae** — the bubbling stews that arrive still boiling — with **banchan** refilled without asking. Order the stews rather than the barbecue if you want to know why people come.
+
+**Walk-in, cheap.** Burlington Road, a few minutes from New Malden station, and busiest at weekends when the whole street is.
 
 ### Cah Chi, Kingston Road
 
 *££ · long-standing local favourite* · Cited by 2 sources
 
-The **beef LA galbi** — short rib cut across the bone — is the order, alongside the traditional stews. One of the longest-running rooms in the town and still where local families eat.
+One of the **oldest Korean restaurants in New Malden**, family-run and considerably plainer than the newer grills — the room people go to for the stews rather than the barbecue.
+
+**Sundubu jjigae** — soft tofu stew, arriving at the table still boiling — and **jeon**, the savoury pancakes, are the orders. The **yukhoe** beef tartare is still on the menu, which not every New Malden kitchen bothers with. Barbecue exists and is not the point.
+
+**Walk-in and cheap.** A short bus or walk from New Malden station. The one to pick for Korean home cooking rather than a table grill.
 
 ### Seoul Matjib, Burlington Road
 
 *££ · drinking food* · Cited by 2 sources
 
-Built around **anju**: the dishes Koreans eat *with* soju rather than instead of it. Bossam, gamjatang pork-bone soup, and jumbo buckwheat noodles.
+**Tteokbokki with exactly the right chew, served without ceremony** — the New Malden room people go to when they want feeding rather than impressing.
 
-It stocks things genuinely hard to find anywhere else in London, and it is the most fun of the New Malden rooms after about nine o'clock.
+**Tteokbokki** is the signature: cylindrical rice cakes in a sweet-hot gochujang sauce, and the whole dish turns on the texture of the cake — too soft and it is porridge, too firm and it is rubber. This kitchen gets it right. Fried snacks and stews alongside.
+
+**££, walk-in, closed Monday.** Small, plain and quick; it is a snack shop as much as a restaurant.
 
 ### Chick and Beers, Burlington Road
 
 *£ · Korean fried chicken* · Cited by 4 sources
 
-**Double-fried Korean fried chicken**, family-owned, routinely called the best in London. Order half-and-half so you get both the plain and the honey garlic soy glaze.
+**Family-owned, double-fried, and widely held to be the best Korean fried chicken in London** — in the middle of New Malden's Koreatown rather than in town, which is why it stays honest.
 
-Two New Malden branches. Not to be confused with **CheeMc**, a completely separate Soho and Elephant & Castle business that several guides merge with it.
+**Double-frying** is the technique and the point: the chicken is fried, rested, then fried again, which drives out the moisture between skin and meat and leaves a shell that stays crisp under sauce. Order it plain and in the **yangnyeom** sweet-hot glaze to compare the two.
+
+**££, walk-in, closed Monday.** Named by four independent sources. Beer is the accompaniment the name promises and the correct one.
 
 ### Tongdak, Kingston Road
 
 *£ · fried chicken* · Cited by 1 source
 
-The other New Malden fried chicken specialist, and the crunch is the whole argument. There is a Wimbledon branch too.
+**A New Malden chicken specialist that trades almost entirely on the Korean community's own recommendation** rather than on guides — which is a stronger signal than a listing.
+
+Korean fried chicken done the same double-fried way as its neighbours, in plain, soy-garlic and **yangnyeom** versions, plus the pickled radish that always comes with it and cuts the fat. A takeaway counter more than a dining room.
+
+**££, walk-in.** Order ahead by phone at peak; the frying takes as long as it takes and they will not rush it.
 
 ---
 
@@ -131,19 +149,31 @@ The other New Malden fried chicken specialist, and the crunch is the whole argum
 
 *£££ · 3 min from Leicester Square* · Cited by 3 sources
 
-**Table grills in the middle of Soho** — the New Malden format without the forty-minute train.
+**Table grills in the middle of Soho**, so the New Malden format without the forty-minute train — which is the entire argument for it and a reasonable one.
+
+Charcoal barbecue at the table: **marinated galbi**, pork belly and brisket cooked in front of you, with **banchan** and lettuce leaves to wrap it in. The kitchen also runs stews and **bibimbap** for anyone not grilling.
+
+**£££, book a few days ahead**, three minutes from Leicester Square. The extraction is better than most central Korean rooms, so you leave smelling of less than you would in New Malden.
 
 ### Pochawa Grill, Chinatown
 
 *£££ · 3 min from Piccadilly Circus* · Cited by 2 sources
 
-A **neon-pink Korean pub format** dropped into Chinatown. You grill at the table and the room is built for a group and a lot of soju.
+**A neon-pink Korean pub format dropped into Chinatown** — a *pojangmacha*, the street-tent drinking spot, rebuilt indoors. You grill at the table and the room is built for a night rather than a meal.
+
+Barbecue at the table, and the drinking food that goes with it: **fried chicken, tteokbokki** and stews, eaten alongside soju and beer. Loud, bright, and busy until late.
+
+**£££, book a few days ahead** at weekends. Come as a group and expect to stay; two people eating quietly are in the wrong room.
 
 ### Chung'dam, Soho
 
 *££££ · 2 min from Leicester Square* · Cited by 1 source
 
-Named for Seoul's Cheongdam-dong and priced accordingly. The **three-tiered pyeonbaek steam box** of prawns, scallops and vegetables is the dish it is known for.
+**Named for Seoul's Cheongdam-dong** — the district that is to Seoul what Mayfair is to London — and priced accordingly. The most polished Korean room in central London.
+
+The thing to order is the **pyeonbaek steam box**: a three-tiered wooden steamer of prawns, mussels and brisket cooked over hot stones and brought to the table sealed, then opened in front of you. Table barbecue and a proper wine and soju list behind it.
+
+**££££, closed Sunday, and it books weeks ahead.** The occasion Korean restaurant rather than the everyday one.
 
 ---
 
@@ -153,13 +183,21 @@ Named for Seoul's Cheongdam-dong and priced accordingly. The **three-tiered pyeo
 
 *£££ · 4 min from Cambridge Heath* · Cited by 1 source
 
-A family-run kitchen that **moved from New Malden to Hackney in 2024 and was named Time Out's best restaurant in London**. The yughwe beef tartare is the dish.
+A family-run kitchen that **moved from New Malden to Hackney in 2024** and was promptly named Time Out's best restaurant in London — the clearest sign that Korean cooking in this city has stopped being a suburban speciality.
+
+The dish everyone writes about is the **yukhwe beef tartare with crisp Asian pear** — raw beef, sesame and egg yolk, with the sweet-sharp pear cutting through it. Behind it the family's New Malden repertoire: stews, pancakes and banchan made properly rather than scaled down for a Hackney audience.
+
+**£££, closed Monday, and it books months ahead.** Small room; book the moment you decide.
 
 ### Sagye, Canary Wharf
 
 *£££ · 13 min from Mudchute*
 
-The warmer, slower side of Canary Wharf — **kimchi jjigae portioned out between bowls** for a big table.
+**Korean cooking on the Isle of Dogs rather than in the Wharf itself** — a mile south of the office towers and all the better for it, with prices to match the distance.
+
+**Kimchi jjigae** is the order and the way it is served is the point: portioned out between bowls for a big table rather than served individually, which is how it is eaten at home. Grills and banchan around it.
+
+**£££, book a few days ahead.** Worth the walk from Canary Wharf; nothing in the estate itself comes close.
 
 ---
 
@@ -179,21 +217,31 @@ It moved here from St Giles High Street when Crossrail demolished the old Koreat
 
 *££ · 91 Worship Street · walk-in only* · Cited by 2 sources
 
-**London's first fully vegan Korean restaurant**, which is a genuinely unusual proposition given how much Korean cooking rests on fish sauce and pork.
+**Entirely vegan Korean cooking — a category that barely exists in London** — served with the warmth of a family kitchen rather than the earnestness the format usually attracts.
 
-Plant-based bibimbap, kimbap, tteokbokki, japchae and kimchi pancake. Small, and walk-in only.
+The Korean repertoire rebuilt without meat or fish sauce: **kimchi made without shrimp paste**, jjigae stews, japchae glass noodles and **bibimbap**, plus mock-meat versions of the barbecue dishes. Nothing tastes like a substitution, which is the whole test.
+
+**££, closed Monday, book a few days ahead.** Shoreditch, and the only place in this guide a vegan can order across the entire menu.
 
 ### Dotori, Finsbury Park
 
 *£ · 3 Stroud Green Road · cash only · walk-in only* · Cited by 2 sources
 
-Tiny, permanently queued, one minute from Finsbury Park station, and **cash only** — which between them tell you most of what you need to know. Korean and Japanese side by side, and the bibimbap is what to order.
+A tiny Finsbury Park room serving **Korean and Japanese food side by side**, which sounds like hedging and works because the kitchen does both properly.
+
+On the Korean side: **bibimbap** in a hot stone bowl, **japchae**, and kimchi jjigae. On the Japanese: katsu, udon and donburi. The stone-bowl bibimbap is the order — the rice crisps against the bowl while you eat it.
+
+**££, and tiny — the queue outside is permanent.** No bookings for small tables; go early or late, and expect to wait at any hour in between.
 
 ### Assa, Soho
 
 *££ · 23 Romilly Street* · Cited by 2 sources
 
-Hotpots and barbecue, and one of the survivors of the **demolished St Giles Koreatown** — it relocated to Romilly Street when Crossrail took the old block. The lunchtime sets are the value.
+**The budae jjigae — army stew — is the order**, and it is among the best in London, in a room that spends nothing on looking the part.
+
+Budae jjigae has a history worth knowing: it was built after the Korean War out of American army surplus, and still contains **spam, hot dogs, instant noodles and processed cheese** in a gochujang broth. It should not work and it is one of the great comfort dishes. Grills and stews alongside.
+
+**££, walk-in.** St Giles rather than Soho proper, plain inside, and cheap. Order the army stew and share it.
 
 ---
 
