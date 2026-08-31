@@ -134,9 +134,11 @@ Bosi holds two stars at Bibendum and the cooking here is in the same register: F
 
 *£££ · Borough Market* · Cited by 3 sources
 
-**Named the best French restaurant in London by Time Out in 2026**, which for a room that opened at the start of 2024 is fast work.
+A Borough Market bistro cooking the French provincial repertoire without apology — small, permanently full, and one of the openings that made French food fashionable in London again.
 
-Head chef Elliot Hashtroudi cooks classic French technique on British produce, with a chalkboard of daily specials and a real fondness for offal and the rustic end of the repertoire. It replaced Sons + Daughters in the Borough Market unit, which tells you how quickly this end of town turns over.
+The menu is short and changes constantly: **terrines and pâté en croûte**, offal, slow-cooked meat, and a **tarte** to finish. Everything leans on the market it sits beside, so what is on depends on the day. Natural wine list rather than a classical one.
+
+**£££ and it books weeks ahead** — a small room with a large following. Lunch is easier to get than dinner.
 
 ### Casse-Croûte, Bermondsey
 
@@ -264,7 +266,11 @@ The cooking is French with British produce and no theatre: **offal treated serio
 
 *£££ · a wine warehouse* · Cited by 2 sources
 
-Part restaurant, part **members' wine cellar** under the railway arches, with a French menu built around whatever the cellar is drinking. The most modern French thing in London and the least like a bistro.
+**A wine warehouse with a restaurant attached** on the Haggerston side of Kingsland Road — members store their own bottles in the racks along the wall, which is the room's organising idea.
+
+The kitchen cooks modern French to match the cellar: a short menu built around **fire and fermentation**, with plates designed to be ordered against a bottle rather than the other way round. You do not need to be a member to eat there.
+
+**£££ and it books ahead.** Come for the wine list; the food is built to serve it and does the job well.
 
 ---
 
