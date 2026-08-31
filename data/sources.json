@@ -1193,6 +1193,11 @@
       "tier": "B",
       "name": "The Times",
       "note": "National masthead with named critics. Giles Coren's Real Stars column reached this corpus through a TikTok post - the platform is not the publisher."
+    },
+    "nationalburgerawards.co.uk": {
+      "tier": "A",
+      "name": "National Burger Awards",
+      "note": "Judged, dated, cook-off final run by Dine Out magazine. The site does not publish the results list, so finalists and winners are read from press reports - the AWARD is still the source, never the outlet that reported it."
     }
   },
   "excludedWhy": {

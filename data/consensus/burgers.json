@@ -10,7 +10,7 @@
         "The Plimsoll",
         "Dumbo",
         "Bleecker",
-        "Heard Burger",
+        "Heard",
         "Chuck’s",
         "Dove",
         "Empire Tavern",
@@ -19,7 +19,7 @@
         "Jupiter Burger",
         "Manna",
         "Burger & Beyond",
-        "Blacklock Shoreditch",
+        "Blacklock",
         "Honest Burgers"
       ]
     },
@@ -28,12 +28,12 @@
       "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-burgers-restaurants",
       "names": [
         "Dove",
-        "Jupiter Burgers",
+        "Jupiter Burger",
         "Bleecker",
         "Supernova",
         "Black Bear Burger",
         "Lagom",
-        "Four Legs at The Plimsoll",
+        "The Plimsoll",
         "Burger & Beyond",
         "Lucky Chip",
         "MEATliquor",
@@ -42,22 +42,10 @@
       ]
     },
     {
-      "name": "National Burger Awards 2026 (Time Out)",
-      "url": "https://www.timeout.com/london/news/this-london-burger-has-been-named-the-best-in-the-uk-for-2026-032526",
-      "scope": "awards",
-      "names": [
-        "Advertising",
-        "The Honest",
-        "Burger & Beyond",
-        "Meat Stack"
-      ]
-    },
-    {
       "name": "Time Out best burger 2025",
       "url": "https://www.timeout.com/london/news/the-best-burger-in-london-according-to-time-out-080825",
       "scope": "awards",
       "names": [
-        "Advertising",
         "Dumbo"
       ]
     },
@@ -66,7 +54,7 @@
       "url": "https://www.theinfatuation.com/london/guides/best-burgers-london",
       "names": [
         "Vesper",
-        "Lagom at The Three Compasses",
+        "Lagom",
         "Bolland & Crust",
         "One Club Row",
         "Dover Street Counter",
@@ -76,7 +64,7 @@
         "Jupiter Burger",
         "Bun & Sum",
         "Bake Street",
-        "Chuck’s at No. 23",
+        "Chuck’s",
         "GOAT Burger",
         "Manna",
         "Buk",
@@ -90,15 +78,15 @@
       "names": [
         "The Plimsoll",
         "Bake Street",
-        "Beer and Burger Store",
+        "Beer + Burger Store",
         "The Duke of Richmond",
-        "Lucky Chip at the Old Queen’s Head",
-        "Blacklock Shoreditch",
+        "Lucky Chip",
+        "Blacklock",
         "Burger & Beyond",
         "Bleecker",
-        "Nashville Hot by Manna @ Arcade Food Hall",
+        "Manna",
         "Slow Richie's",
-        "BaBa G's Brixton",
+        "Baba G's",
         "Shake Shack Gatwick"
       ]
     },
@@ -112,14 +100,123 @@
         "Black Bear Burger",
         "Lagom",
         "Patty & Bun",
-        "Beer + Burger",
+        "Beer + Burger Store",
         "Manna",
         "The Lowback",
         "Blacklock",
         "Burger & Beyond",
         "Supernova"
       ]
+    },
+    {
+      "name": "National Burger Awards 2026 (Dine Out magazine)",
+      "url": "https://www.nationalburgerawards.co.uk/",
+      "scope": "burgers",
+      "names": [
+        "Honest Burgers",
+        "Burger & Beyond",
+        "Bleecker",
+        "Dover Street Counter",
+        "Fat Hippo",
+        "SoBe Burger"
+      ],
+      "quotes": {
+        "Honest Burgers": "overall winner 2026 with 'The Honest' - the winning burger is served only at the Smash + Grab site on Liverpool Street",
+        "Burger & Beyond": "second in the signature round - Bacon Butter Burger - Borough Yards and Shoreditch",
+        "Bleecker": "London finalist - Bacon Double - Victoria - Soho - Baker Street",
+        "Dover Street Counter": "London finalist - Cheeseburger - Mayfair",
+        "Fat Hippo": "London finalist - The Lovue Loot - Soho",
+        "SoBe Burger": "London finalist - Double Bacon Black Garlic - Walthamstow"
+      }
+    },
+    {
+      "name": "Visit London (15 tastiest London burgers 2026)",
+      "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+      "scope": "burgers",
+      "names": [
+        "Black Bear Burger",
+        "Jupiter Burger",
+        "The Plimsoll",
+        "Bleecker",
+        "Dumbo",
+        "Patty & Bun",
+        "Dove",
+        "Beer + Burger Store",
+        "Honest Burgers",
+        "Heard",
+        "Supernova",
+        "Dirty Bones",
+        "Mother Flipper",
+        "MEATliquor",
+        "Burger & Lobster"
+      ],
+      "quotes": {
+        "Black Bear Burger": "#1",
+        "Jupiter Burger": "#2",
+        "The Plimsoll": "#3",
+        "Bleecker": "#4",
+        "Dumbo": "#5",
+        "Patty & Bun": "#6",
+        "Dove": "#7",
+        "Beer + Burger Store": "#8",
+        "Honest Burgers": "#9",
+        "Heard": "#10",
+        "Supernova": "#11",
+        "Dirty Bones": "#12",
+        "Mother Flipper": "#13",
+        "MEATliquor": "#14",
+        "Burger & Lobster": "#15"
+      }
+    },
+    {
+      "name": "DesignMyNight (30 best burgers in London)",
+      "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+      "scope": "burgers",
+      "names": [
+        "Heard",
+        "The Plimsoll",
+        "Hanbaagaasuuteeki",
+        "Black Bear Burger",
+        "Dumbo",
+        "Bleecker",
+        "Honest Burgers",
+        "Maxwell's Bar & Grill",
+        "Lagom",
+        "The Leyton Star",
+        "Blues Kitchen",
+        "The Breakfast Club",
+        "The Abbey Tavern",
+        "Two More Years",
+        "Burger & Beyond",
+        "Wolfpack",
+        "Gourmet Burger Kitchen",
+        "Byron",
+        "Burger & Lobster",
+        "Blacklock"
+      ],
+      "quotes": {
+        "Heard": "#1",
+        "The Plimsoll": "#2",
+        "Hanbaagaasuuteeki": "#3",
+        "Black Bear Burger": "#4",
+        "Dumbo": "#5",
+        "Bleecker": "#6",
+        "Honest Burgers": "#7",
+        "Maxwell's Bar & Grill": "#8",
+        "Lagom": "#9",
+        "The Leyton Star": "#10",
+        "Blues Kitchen": "#11",
+        "The Breakfast Club": "#12",
+        "The Abbey Tavern": "#13",
+        "Two More Years": "#14",
+        "Burger & Beyond": "#15",
+        "Wolfpack": "#17",
+        "Gourmet Burger Kitchen": "#18",
+        "Byron": "#19",
+        "Burger & Lobster": "#22",
+        "Blacklock": "#23"
+      }
     }
   ],
-  "recorded": "2026-08-30"
+  "recorded": "2026-08-31"
 }

@@ -14,7 +14,8 @@
     "audit:depth": "node scripts/audit-entry-depth.mjs",
     "audit:sources": "node scripts/audit-source-mix.mjs",
     "audit:corpus": "node scripts/audit-corpus.mjs",
-    "audit": "npm run audit:citations && npm run audit:corpus && npm run audit:sources && npm run audit:depth"
+    "audit": "npm run audit:citations && npm run audit:hub && npm run audit:corpus && npm run audit:sources && npm run audit:depth",
+    "audit:hub": "node scripts/audit-food-hub.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.2.1",

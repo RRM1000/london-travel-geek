@@ -3,7 +3,7 @@ title: "Eat in London: Restaurants, Food Markets & Quick Bites"
 seoTitle: "Where to Eat in London: Complete Food & Dining Handbook"
 description: "The complete London food handbook: top food experiences, eating near major sights, food markets, cuisines, pubs and area recommendations for 2026."
 publishedAt: 2026-07-28
-updatedAt: 2026-08-03
+updatedAt: 2026-08-31
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -22,11 +22,11 @@ London's food scene is vastly more diverse than standard restaurant dining. You 
 This guide is your master starting point for dining in London. We organise recommendations around what travellers actually need: **what to eat, location, budget, occasion and how much time you have**.
 
 > 💡 **The 5 Iconic London Food Experiences Every Visitor Should Try (2026)**  
-> 1. **A Traditional Sunday Roast in a Historic Pub:** Thick-sliced roast beef, towering Yorkshire puddings, roast potatoes, and rich gravy (e.g. *Blacklock*, *The Hawke*).  
-> 2. **A Dishoom Bombay Breakfast:** A warm bacon or egg naan roll served with house chai at London’s iconic Bombay café.  
-> 3. **Street-Food Grazing at a Covered Market:** Sample international traders at *Borough Market*, *Seven Dials Market*, or *Arcade Food Hall*.  
-> 4. **Classic British Afternoon Tea:** Delicate finger sandwiches, warm scones with clotted cream, and loose-leaf tea in an elegant lounge.  
-> 5. **Fresh Fish & Chips or Pie & Mash:** Crisp beer-battered cod and chips served with tartar sauce, or traditional East End pie and mash.
+> 1. **A [Sunday roast](/articles/best-sunday-roast-london/) in a historic pub** — thick-sliced beef, a Yorkshire pudding the size of the plate, and gravy. Book by Thursday.
+> 2. **A [Dishoom](/articles/best-breakfast-brunch-london/) bacon naan roll** with chai poured from a height. Breakfast barely queues; the evenings do.
+> 3. **Grazing a [covered market](/articles/best-london-markets/)** — Borough, Seven Dials or Old Spitalfields, where nobody has to agree on one cuisine.
+> 4. **[Afternoon tea](/articles/best-afternoon-tea-london/)** — finger sandwiches, warm scones and loose-leaf tea, from £30 to well over £100.
+> 5. **[Fish and chips](/articles/best-fish-and-chips-london/)** fried to order, or pie and mash from a shop that has been doing it a century.
 
 ---
 
@@ -79,10 +79,12 @@ Sometimes the location, view, or atmosphere is just as memorable as the menu its
 | 🏰 **Historic Church Conversion** | *Mercato Mayfair* | Artisan food stalls & cocktail bars set inside a restored Victorian church |
 | 🚌 **Luxury Gourmet Bus Tour** | *Bustronome London* | A 4-course dinner served aboard a glass-topped double-decker bus |
 
-Planned dedicated guides will cover:
-- ⏳ **`(Coming Soon)`** **London's Best Rooftop Restaurants & Skyline Views**
-- ⏳ **`(Coming Soon)`** **Riverside & Waterfront Dining: Eating Along the Thames**
-- ⏳ **`(Coming Soon)`** **Quirky Dining & Live Dinner Shows in London**
+Two guides cover most of this already:
+
+* [**London's Most Unusual Restaurants**](/articles/unusual-restaurants-london/) — 22 strange rooms, from a converted public lavatory to dinner underground.
+* [**The Best Views in London**](/articles/best-views-london/) — Every rooftop and viewing floor compared, including which ones are free and which need booking weeks out.
+
+Still to write: a dedicated **rooftop and riverside dining** guide that treats the food as seriously as the view.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-in-london-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -92,12 +94,33 @@ Planned dedicated guides will cover:
 
 These guides compare restaurants within specific cuisines to highlight distinct choices based on budget, regional cooking, and location:
 
-* 🟢 **`[AVAILABLE NOW]`** [**The Best Indian Restaurants in London**](/articles/best-indian-restaurants-london/) — Michelin-starred fine dining in Mayfair, authentic South Indian vegetarian cooking in Stoke Newington, and central Bombay-café classics.
-* ⏳ **`(Coming Soon)`** **Italian Restaurants** — Regional pasta bars, wood-fired pizza, family dining, and special-occasion trattorias.
-* ⏳ **`(Coming Soon)`** **Chinese & East Asian Restaurants** — Chinatown dim sum, Sichuan spice houses, Cantonese roasts, and group dining.
-* ⏳ **`(Coming Soon)`** **Japanese Restaurants** — Ramen shops, izakaya small plates, conveyer sushi, and high-end omakase counters.
-* ⏳ **`(Coming Soon)`** **Middle Eastern & Eastern Mediterranean** — Levantine grills, mezze, wood-fired bakeries, and plant-led menus.
-* ⏳ **`(Coming Soon)`** **Vegetarian & Vegan Restaurants** — Fully plant-based venues and outstanding vegetarian menus.
+Every one of these is ranked by how many independent awards, critics and reviewers name each restaurant, not by our own visits. The method is the same on all of them — see [how we rank](/how-we-rank/).
+
+**South and East Asian**
+
+* [**Indian**](/articles/best-indian-restaurants-london/) — Michelin-starred Mayfair, Keralan vegetarian cooking in Stoke Newington, and Bombay-café classics in the middle.
+* [**Chinese and East Asian**](/articles/best-chinese-east-asian-restaurants-london/) — Sichuan heat, Cantonese roasts, Xi'an hand-pulled noodles and the Chinatown grid.
+* [**Dim Sum**](/articles/best-dim-sum-london/) — Trolley service, weekend queues and the rooms worth booking.
+* [**Japanese**](/articles/best-japanese-restaurants-london/) — Omakase counters at one end, ramen and izakaya at the other.
+* [**Korean**](/articles/best-korean-restaurants-london/) — Central barbecue rooms and the New Malden restaurants Londoners drive to.
+* [**Thai**](/articles/best-thai-restaurants-london/) — Isaan, southern and live-fire cooking rather than the pad thai default.
+
+**European and Mediterranean**
+
+* [**Italian**](/articles/best-italian-restaurants-london/) — Regional pasta bars, family trattorias and the special-occasion rooms.
+* [**Pizza**](/articles/best-pizza-london/) — Neapolitan, New York, Detroit and Chicago, judged by style.
+* [**French**](/articles/best-french-restaurants-london/) — Bistros, brasseries and the classical dining rooms.
+* [**Spanish**](/articles/best-spanish-restaurants-london/) — Tapas counters through to Basque asador grills.
+* [**Turkish**](/articles/best-turkish-restaurants-london/) — Ocakbaşı grills, mangal and the Green Lanes stretch.
+* [**Middle Eastern and Eastern Mediterranean**](/articles/best-middle-eastern-restaurants-london/) — Levantine grills, mezze and plant-led menus.
+
+**The Americas, and by ingredient**
+
+* [**Mexican**](/articles/best-mexican-restaurants-london/) — Taquerias, masa pressed to order and the regional kitchens.
+* [**Burgers**](/articles/best-burgers-london/) — Smash versus dry-aged, and which of the winners is served at only one branch.
+* [**Steak**](/articles/best-steak-restaurants-london/) — Dry-aged British beef, the chop houses and what the cuts actually mean.
+* [**Seafood**](/articles/best-seafood-restaurants-london/) — Oyster bars, fishmonger counters and the whole-fish grills.
+* [**Vegetarian and Vegan**](/articles/best-vegetarian-vegan-restaurants-london/) — Fully plant-based kitchens and the vegetarian menus worth crossing London for.
 
 ---
 
@@ -105,12 +128,14 @@ These guides compare restaurants within specific cuisines to highlight distinct 
 
 Food markets and indoor food halls are among the best dining solutions in London, particularly for groups where everyone wants something different.
 
-Our guides distinguish between:
+📍 **[London's Best Markets: 19 Compared](/articles/best-london-markets/)** is the full guide, arranged by what each one actually sells — and, more usefully, by **which day it exists**. Columbia Road is a Sunday. Broadway Market is a Saturday. Turning up on the wrong day is the standard way to waste a morning.
 
-- **Historic Food Markets**: *Borough Market* (produce & hot food) and *Seven Dials Market* (covered multi-vendor warehouse).
-- **Indoor Food Halls**: *Arcade Food Hall* (Centre Point & Battersea) and *Mercato Mayfair* (converted Victorian church).
-- **Street-Food Collections**: *Southbank Centre Food Market* (weekends) and *Spitalfields Market* (daily).
-- **Department Store Food Halls**: *Harrods Food Halls* and *Fortnum & Mason*.
+It covers:
+
+- **Historic food markets** — *Borough Market* (produce and hot food) and *Maltby Street*, the one locals use instead.
+- **Indoor food halls** — *Seven Dials Market* in a converted banana warehouse, *Mercato Mayfair* in a Victorian church, and *Tower Bridge Collective*, thirteen kitchens that opened off Shad Thames in October 2025.
+- **Street-food collections** — *Southbank Centre Food Market* at weekends and *Old Spitalfields* most days.
+- **Shopping markets** — Portobello, Brick Lane, Camden, Greenwich and Leadenhall.
 
 ---
 
@@ -118,10 +143,14 @@ Our guides distinguish between:
 
 Quick food in London doesn't mean resorting to global fast-food chains. We highlight fast, high-quality dining options:
 
-- **Near Major Station Hubs**: King's Cross, Paddington, Victoria, and Waterloo.
-- **Pre-Theatre Dining**: 60-minute, multi-course set menus served between 5:00 PM and 6:30 PM across the West End.
-- **Affordable Quick Meals**: Mumbai street food (*SKVP*), Brick Lane salt-beef beigels (*Beigel Bake*), and South Indian dosas (*Saravanaa Bhavan*).
-- **Market & Food Hall Stalls**: Borough Market samosas (*Horn OK Please*) and Seven Dials kati rolls (*Kolkati*) — see our [Indian Street Food & Restaurants Guide](/articles/best-indian-restaurants-london/). For Malaysian roti canai, *Gopal's Corner* at Market Halls Victoria, from the founder of Soho's Roti King.
+* [**Cheap Eats in London**](/articles/cheap-eats-london/) — 34 places to eat well under £15, including Mumbai street food at *Shree Krishna Vada Pav*, South Indian dosas at *Saravanaa Bhavan* and the market stalls worth the detour.
+* [**The Best Sandwiches in London**](/articles/best-sandwiches-london/) — Salt beef, Japanese sandos and the toastie counters.
+* [**The Best Bakeries in London**](/articles/best-bakeries-london/) — 23 worth queuing for, and which ones sell out by eleven.
+* [**Breakfast and Brunch**](/articles/best-breakfast-brunch-london/) — From £4 caffs to the rooms that need booking a fortnight out.
+* [**The Best Coffee in London**](/articles/best-coffee-london/) — Roasters and counters, and where the coffee is genuinely the point.
+* [**Late-Night Eating**](/articles/late-night-eating-london/) — What is still cooking after midnight, by area.
+
+**Pre-theatre dining** — 60-minute set menus served between 5pm and 6.30pm across the West End — does not have its own guide yet. Until it does, the [Soho](/articles/soho-area-guide/) and [Covent Garden](/articles/covent-garden-area-guide/) area guides list the rooms that run them.
 
 ---
 
@@ -157,11 +186,14 @@ If you are looking for recommendations near where you are exploring, start with 
 - **Upper Mid-Range (£££)**: £50 – £80 per person (Refined regional dining, pre-theatre tasting menus).
 - **Destination Dining (££££)**: £100 – £200+ per person (Two-Michelin-starred tasting menus, Mayfair dining).
 
+Full guide: [**Cheap Eats in London**](/articles/cheap-eats-london/) for the first band, and [**Special Occasion Restaurants**](/articles/special-occasion-restaurants-london/) for the last.
+
 ### By Occasion
 
-- **Pre-Theatre Dining** (Timed menus finished before 7:00 PM curtain).
-- **Group Feasts & Food Halls** (Sharing menus and communal seating).
-- **Family-Friendly Dining** (Relaxed environments with kids' menus and quick service).
+* [**Special occasions**](/articles/special-occasion-restaurants-london/) — What to book, how far ahead, and which rooms actually feel like an event.
+* [**Cocktail bars**](/articles/best-cocktail-bars-london/) — 21 compared, for before or instead of dinner.
+* [**Ice cream**](/articles/best-ice-cream-london/) — Gelato, soft serve and the cult queues, for afterwards.
+* **Group feasts and food halls** — sharing menus and communal seating; see [markets and food halls](/articles/best-london-markets/) above.
 
 ---
 
@@ -169,16 +201,15 @@ If you are looking for recommendations near where you are exploring, start with 
 
 Classic culinary experiences that belong on every London itinerary:
 
-- **Sunday Roasts**: Served in historic pubs every Sunday afternoon.
-- **Traditional & Gastropubs**: Craft ale, fish and chips, pie and mash, and scotch eggs.
-- **Afternoon Tea**: Scones, clotted cream, jam, finger sandwiches, and loose-leaf tea.
-- **Historic Dining Rooms**: London's oldest restaurants (*Veeraswamy*, *Rules*, *Wiltons*).
+* [**Sunday Roast**](/articles/best-sunday-roast-london/) — Cross-referenced across every guide, award and critic of the year. Most need booking by Thursday.
+* [**Fish and Chips**](/articles/best-fish-and-chips-london/) — The shops that still fry to order, and the two that use beef dripping.
+* [**Afternoon Tea**](/articles/best-afternoon-tea-london/) — 22 compared, with the dress codes and the real prices.
+* [**Historic Pubs and Dining Rooms**](/articles/historic-pubs-dining-rooms-london/) — London's oldest rooms, including *Rules*, *Wiltons* and the pubs that predate the Great Fire.
 
 ---
 
 ## Plan Food into Your London Visit
 
-- 🟢 **[The Best Indian Restaurants in London: Critics' Choices Compared](/articles/best-indian-restaurants-london/)**
 - 🏛️ **[Best Areas to Visit in London: Neighbourhood Guide](/articles/best-areas-to-visit-london/)**
 - 🗺️ **[London Itineraries by Days and Interests](/articles/london-itineraries-by-days-and-interests/)**
 - ⏱️ **[Three Days in London Itinerary](/articles/three-days-in-london-itinerary/)**
@@ -186,4 +217,18 @@ Classic culinary experiences that belong on every London itinerary:
 
 ---
 
-*This guide is independent and contains no paid placements or sponsored listings. Checked & updated for **August 2026**.*
+## Every food guide on this site
+
+One place, in case you would rather scan a list than a page.
+
+**By cuisine:** [Indian](/articles/best-indian-restaurants-london/) · [Chinese and East Asian](/articles/best-chinese-east-asian-restaurants-london/) · [Dim sum](/articles/best-dim-sum-london/) · [Japanese](/articles/best-japanese-restaurants-london/) · [Korean](/articles/best-korean-restaurants-london/) · [Thai](/articles/best-thai-restaurants-london/) · [Italian](/articles/best-italian-restaurants-london/) · [Pizza](/articles/best-pizza-london/) · [French](/articles/best-french-restaurants-london/) · [Spanish](/articles/best-spanish-restaurants-london/) · [Turkish](/articles/best-turkish-restaurants-london/) · [Middle Eastern](/articles/best-middle-eastern-restaurants-london/) · [Mexican](/articles/best-mexican-restaurants-london/) · [Vegetarian and vegan](/articles/best-vegetarian-vegan-restaurants-london/)
+
+**By dish:** [Burgers](/articles/best-burgers-london/) · [Steak](/articles/best-steak-restaurants-london/) · [Seafood](/articles/best-seafood-restaurants-london/) · [Fish and chips](/articles/best-fish-and-chips-london/) · [Sunday roast](/articles/best-sunday-roast-london/) · [Sandwiches](/articles/best-sandwiches-london/) · [Ice cream](/articles/best-ice-cream-london/)
+
+**By time of day:** [Breakfast and brunch](/articles/best-breakfast-brunch-london/) · [Coffee](/articles/best-coffee-london/) · [Bakeries](/articles/best-bakeries-london/) · [Afternoon tea](/articles/best-afternoon-tea-london/) · [Cocktail bars](/articles/best-cocktail-bars-london/) · [Late-night eating](/articles/late-night-eating-london/)
+
+**By budget, occasion and room:** [Cheap eats](/articles/cheap-eats-london/) · [Special occasions](/articles/special-occasion-restaurants-london/) · [Historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/) · [Unusual restaurants](/articles/unusual-restaurants-london/) · [Markets and food halls](/articles/best-london-markets/)
+
+---
+
+*This guide is independent and contains no paid placements or sponsored listings. Every guide it links to is ranked on [how many independent sources name each venue](/how-we-rank/), not on our own visits. Checked and updated **August 2026**.*

@@ -2127,8 +2127,8 @@
       "activities-shoreditch",
       "burgers"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -2139,9 +2139,9 @@
         "hasAward": false
       },
       "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -2152,9 +2152,21 @@
         "url": "https://www.timeout.com/london/food-and-drink/londons-best-burger-restaurants-1"
       },
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#5"
+      },
+      {
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/shoreditch/"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+        "quote": "#5"
       }
     ]
   },
@@ -2769,10 +2781,10 @@
       "burgers",
       "general"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B3 C2 D1",
-    "tierCount": 3,
-    "hasAward": false,
+    "sourceCount": 8,
+    "tierSpread": "A1 B4 C2 D1",
+    "tierCount": 4,
+    "hasAward": true,
     "byTopic": {
       "activities-shoreditch": {
         "sourceCount": 1,
@@ -2781,10 +2793,10 @@
         "hasAward": false
       },
       "burgers": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
-        "hasAward": false
+        "sourceCount": 6,
+        "tierSpread": "A1 B4 C1",
+        "tierCount": 3,
+        "hasAward": true
       },
       "general": {
         "sourceCount": 1,
@@ -2794,6 +2806,12 @@
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "National Burger Awards",
+        "url": "https://www.nationalburgerawards.co.uk/",
+        "quote": "second in the signature round - Bacon Butter Burger - Borough Yards and Shoreditch"
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -2808,6 +2826,12 @@
         "tier": "B",
         "source": "Mob",
         "url": "https://www.mob.co.uk/life/best-burgers-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#15"
       },
       {
         "tier": "C",
@@ -18118,7 +18142,8 @@
   "breakfastclub": {
     "name": "The Breakfast Club",
     "topics": [
-      "breakfast-brunch"
+      "breakfast-brunch",
+      "burgers"
     ],
     "sourceCount": 3,
     "tierSpread": "B2 C1",
@@ -18129,6 +18154,12 @@
         "sourceCount": 3,
         "tierSpread": "B2 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "burgers": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -22955,8 +22986,8 @@
       "steak",
       "sunday-roast"
     ],
-    "sourceCount": 15,
-    "tierSpread": "B6 C1 D8",
+    "sourceCount": 16,
+    "tierSpread": "B7 C1 D8",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -22967,8 +22998,8 @@
         "hasAward": false
       },
       "burgers": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
+        "sourceCount": 4,
+        "tierSpread": "B4",
         "tierCount": 1,
         "hasAward": false
       },
@@ -23011,6 +23042,12 @@
         "tier": "B",
         "source": "Mob",
         "url": "https://www.mob.co.uk/life/best-burgers-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#23"
       },
       {
         "tier": "B",
@@ -43939,14 +43976,14 @@
     "topics": [
       "burgers"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -43956,6 +43993,12 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/food-and-drink/londons-best-burger-restaurants-1"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#3"
       }
     ]
   },
@@ -43965,15 +44008,15 @@
       "burgers",
       "general"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B4 D1",
-    "tierCount": 2,
+    "sourceCount": 8,
+    "tierSpread": "B5 C2 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 4,
-        "tierSpread": "B4",
-        "tierCount": 1,
+        "sourceCount": 7,
+        "tierSpread": "B5 C2",
+        "tierCount": 2,
         "hasAward": false
       },
       "general": {
@@ -44005,6 +44048,23 @@
         "url": "https://www.mob.co.uk/life/best-burgers-in-london"
       },
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#2"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-burgers-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+        "quote": "#3"
+      },
+      {
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
@@ -44016,19 +44076,25 @@
     "topics": [
       "burgers"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B3 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 7,
+    "tierSpread": "A1 B4 C2",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "burgers": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
-        "hasAward": false
+        "sourceCount": 7,
+        "tierSpread": "A1 B4 C2",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "National Burger Awards",
+        "url": "https://www.nationalburgerawards.co.uk/",
+        "quote": "London finalist - Bacon Double - Victoria - Soho - Baker Street"
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -44045,26 +44111,38 @@
         "url": "https://www.mob.co.uk/life/best-burgers-in-london"
       },
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#6"
+      },
+      {
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-burgers-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+        "quote": "#4"
       }
     ]
   },
-  "heardburger": {
-    "name": "Heard Burger",
+  "heard": {
+    "name": "Heard",
     "topics": [
       "burgers"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -44073,6 +44151,18 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/food-and-drink/londons-best-burger-restaurants-1"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#1"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+        "quote": "#10"
       }
     ]
   },
@@ -44081,14 +44171,14 @@
     "topics": [
       "burgers"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -44098,6 +44188,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/food-and-drink/londons-best-burger-restaurants-1"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-burgers-london"
       }
     ]
   },
@@ -44107,14 +44202,14 @@
       "burgers",
       "general"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B3 C1",
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
         "tierCount": 2,
         "hasAward": false
       },
@@ -44145,6 +44240,12 @@
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-burgers-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+        "quote": "#7"
       }
     ]
   },
@@ -44180,16 +44281,16 @@
       "general",
       "late-night"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "burgers": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 3,
+        "tierSpread": "A1 B2",
+        "tierCount": 2,
+        "hasAward": true
       },
       "general": {
         "sourceCount": 1,
@@ -44205,6 +44306,12 @@
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "National Burger Awards",
+        "url": "https://www.nationalburgerawards.co.uk/",
+        "quote": "London finalist - Cheeseburger - Mayfair"
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -44227,14 +44334,14 @@
     "topics": [
       "burgers"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
+        "sourceCount": 5,
+        "tierSpread": "B3 C2",
         "tierCount": 2,
         "hasAward": false
       }
@@ -44251,9 +44358,21 @@
         "url": "https://www.mob.co.uk/life/best-burgers-in-london"
       },
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#4"
+      },
+      {
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-burgers-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+        "quote": "#1"
       }
     ]
   },
@@ -44263,15 +44382,15 @@
       "burgers",
       "cheap-eats"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
         "hasAward": false
       },
       "cheap-eats": {
@@ -44291,6 +44410,17 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-burgers-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-burgers-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+        "quote": "#2"
       }
     ]
   },
@@ -44299,14 +44429,14 @@
     "topics": [
       "burgers"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
+    "sourceCount": 4,
+    "tierSpread": "B4",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
+        "sourceCount": 4,
+        "tierSpread": "B4",
         "tierCount": 1,
         "hasAward": false
       }
@@ -44324,6 +44454,11 @@
       },
       {
         "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-burgers-london"
+      },
+      {
+        "tier": "B",
         "source": "Mob",
         "url": "https://www.mob.co.uk/life/best-burgers-in-london"
       }
@@ -44334,48 +44469,41 @@
     "topics": [
       "burgers"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 4,
+        "tierSpread": "A1 B2 C1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "National Burger Awards",
+        "url": "https://www.nationalburgerawards.co.uk/",
+        "quote": "overall winner 2026 with 'The Honest' - the winning burger is served only at the Smash + Grab site on Liverpool Street"
+      },
       {
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/food-and-drink/londons-best-burger-restaurants-1"
-      }
-    ]
-  },
-  "jupiterburgers": {
-    "name": "Jupiter Burgers",
-    "topics": [
-      "burgers"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#7"
+      },
       {
         "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-burgers-restaurants"
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+        "quote": "#9"
       }
     ]
   },
@@ -44386,14 +44514,14 @@
       "cheap-eats",
       "general"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C1 D1",
+    "sourceCount": 5,
+    "tierSpread": "B2 C2 D1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
         "tierCount": 2,
         "hasAward": false
       },
@@ -44427,6 +44555,12 @@
         "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-burgers-restaurants"
       },
       {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+        "quote": "#11"
+      },
+      {
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
@@ -44435,6 +44569,47 @@
   },
   "lagom": {
     "name": "Lagom",
+    "topics": [
+      "burgers"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "burgers": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-burgers-london"
+      },
+      {
+        "tier": "B",
+        "source": "Mob",
+        "url": "https://www.mob.co.uk/life/best-burgers-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#9"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-burgers-restaurants"
+      }
+    ]
+  },
+  "luckychip": {
+    "name": "Lucky Chip",
     "topics": [
       "burgers"
     ],
@@ -44453,59 +44628,9 @@
     "sources": [
       {
         "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-burgers-in-london"
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-burgers-london"
       },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-burgers-restaurants"
-      }
-    ]
-  },
-  "fourlegsattheplimsoll": {
-    "name": "Four Legs at The Plimsoll",
-    "topics": [
-      "burgers"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-burgers-restaurants"
-      }
-    ]
-  },
-  "luckychip": {
-    "name": "Lucky Chip",
-    "topics": [
-      "burgers"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
       {
         "tier": "C",
         "source": "Hot Dinners",
@@ -44518,14 +44643,14 @@
     "topics": [
       "burgers"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -44535,6 +44660,12 @@
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-burgers-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+        "quote": "#14"
       }
     ]
   },
@@ -44543,14 +44674,14 @@
     "topics": [
       "burgers"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -44560,6 +44691,12 @@
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-burgers-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+        "quote": "#13"
       }
     ]
   },
@@ -44568,73 +44705,28 @@
     "topics": [
       "burgers"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-burgers-london"
+      },
       {
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-burgers-restaurants"
-      }
-    ]
-  },
-  "honest": {
-    "name": "The Honest",
-    "topics": [
-      "burgers"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/this-london-burger-has-been-named-the-best-in-the-uk-for-2026-032526"
-      }
-    ]
-  },
-  "meatstack": {
-    "name": "Meat Stack",
-    "topics": [
-      "burgers"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/this-london-burger-has-been-named-the-best-in-the-uk-for-2026-032526"
       }
     ]
   },
@@ -44707,31 +44799,6 @@
       }
     ]
   },
-  "lagomatthethreecompasses": {
-    "name": "Lagom at The Three Compasses",
-    "topics": [
-      "burgers"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-burgers-london"
-      }
-    ]
-  },
   "burntsmokehouse": {
     "name": "Burnt Smokehouse",
     "topics": [
@@ -44772,31 +44839,6 @@
   },
   "bunandsum": {
     "name": "Bun & Sum",
-    "topics": [
-      "burgers"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-burgers-london"
-      }
-    ]
-  },
-  "chucksatno23": {
-    "name": "Chuck’s at No. 23",
     "topics": [
       "burgers"
     ],
@@ -44895,20 +44937,20 @@
       }
     ]
   },
-  "beerandburgerstore": {
-    "name": "Beer and Burger Store",
+  "beerburgerstore": {
+    "name": "Beer + Burger Store",
     "topics": [
       "burgers"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -44917,6 +44959,17 @@
         "tier": "B",
         "source": "Eater London",
         "url": "https://london.eater.com/maps/best-burgers-london"
+      },
+      {
+        "tier": "B",
+        "source": "Mob",
+        "url": "https://www.mob.co.uk/life/best-burgers-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+        "quote": "#8"
       }
     ]
   },
@@ -44945,83 +44998,8 @@
       }
     ]
   },
-  "luckychipattheoldqueenshead": {
-    "name": "Lucky Chip at the Old Queen’s Head",
-    "topics": [
-      "burgers"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-burgers-london"
-      }
-    ]
-  },
-  "nashvillehotbymannaarcadefoodhall": {
-    "name": "Nashville Hot by Manna @ Arcade Food Hall",
-    "topics": [
-      "burgers"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-burgers-london"
-      }
-    ]
-  },
   "slowrichies": {
     "name": "Slow Richie's",
-    "topics": [
-      "burgers"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-burgers-london"
-      }
-    ]
-  },
-  "babagsbrixton": {
-    "name": "BaBa G's Brixton",
     "topics": [
       "burgers"
     ],
@@ -45075,15 +45053,15 @@
     "topics": [
       "burgers"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -45092,31 +45070,12 @@
         "tier": "B",
         "source": "Mob",
         "url": "https://www.mob.co.uk/life/best-burgers-in-london"
-      }
-    ]
-  },
-  "beerburger": {
-    "name": "Beer + Burger",
-    "topics": [
-      "burgers"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
+      },
       {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-burgers-in-london"
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+        "quote": "#6"
       }
     ]
   },
@@ -45142,6 +45101,324 @@
         "tier": "B",
         "source": "Mob",
         "url": "https://www.mob.co.uk/life/best-burgers-in-london"
+      }
+    ]
+  },
+  "fathippo": {
+    "name": "Fat Hippo",
+    "topics": [
+      "burgers"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "burgers": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Burger Awards",
+        "url": "https://www.nationalburgerawards.co.uk/",
+        "quote": "London finalist - The Lovue Loot - Soho"
+      }
+    ]
+  },
+  "sobeburger": {
+    "name": "SoBe Burger",
+    "topics": [
+      "burgers"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "burgers": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Burger Awards",
+        "url": "https://www.nationalburgerawards.co.uk/",
+        "quote": "London finalist - Double Bacon Black Garlic - Walthamstow"
+      }
+    ]
+  },
+  "dirtybones": {
+    "name": "Dirty Bones",
+    "topics": [
+      "burgers"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "burgers": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+        "quote": "#12"
+      }
+    ]
+  },
+  "burgerandlobster": {
+    "name": "Burger & Lobster",
+    "topics": [
+      "burgers"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "burgers": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#22"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
+        "quote": "#15"
+      }
+    ]
+  },
+  "maxwellsbarandgrill": {
+    "name": "Maxwell's Bar & Grill",
+    "topics": [
+      "burgers"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "burgers": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#8"
+      }
+    ]
+  },
+  "leytonstar": {
+    "name": "The Leyton Star",
+    "topics": [
+      "burgers"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "burgers": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#10"
+      }
+    ]
+  },
+  "blueskitchen": {
+    "name": "Blues Kitchen",
+    "topics": [
+      "burgers"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "burgers": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#11"
+      }
+    ]
+  },
+  "abbeytavern": {
+    "name": "The Abbey Tavern",
+    "topics": [
+      "burgers"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "burgers": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#13"
+      }
+    ]
+  },
+  "twomoreyears": {
+    "name": "Two More Years",
+    "topics": [
+      "burgers"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "burgers": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#14"
+      }
+    ]
+  },
+  "wolfpack": {
+    "name": "Wolfpack",
+    "topics": [
+      "burgers"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "burgers": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#17"
+      }
+    ]
+  },
+  "gourmetburgerkitchen": {
+    "name": "Gourmet Burger Kitchen",
+    "topics": [
+      "burgers"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "burgers": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#18"
+      }
+    ]
+  },
+  "byron": {
+    "name": "Byron",
+    "topics": [
+      "burgers"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "burgers": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#19"
       }
     ]
   },
