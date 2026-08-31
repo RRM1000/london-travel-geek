@@ -89,6 +89,16 @@ for (const topic of topics) {
       lines.push(`  CHROME     ${s.name} — ${chrome.length}/${names.length} look like furniture: ${chrome.slice(0, 4).map((c) => JSON.stringify(c)).join(", ")}`);
 
     if (tier === "A" && real === 0) lines.push(`  !! TIER A  ${s.name} is the topic's judged source and contributed no venue`);
+
+    // A SOURCE ON THE EXCLUDED LIST CONTRIBUTES NOTHING AND SAYS NOTHING.
+    // build-evidence skips excluded hosts silently, so a corpus can show a
+    // source, count it in its own totals, and have every one of its names
+    // dropped without a word. thatsup.co.uk was recorded for dim sum while
+    // already sitting on the excluded list with the aggregators, and its 17
+    // names vanished; the only reason it surfaced was a hand-check of which
+    // article entries had no citation.
+    if ((REG.excluded ?? []).includes(host))
+      lines.push(`  !! EXCLUDED ${s.name} — ${host} is on the excluded list, so all ${names.length} of its names are dropped by the build. Remove the source, or remove the exclusion deliberately.`);
     if (NATIONAL.test(s.name) && !/london/i.test(s.name) && !/scoped/i.test(s.note ?? ""))
       lines.push(`  NATIONAL?  ${s.name} — title suggests a UK/world list. Has its London subset been taken?`);
 

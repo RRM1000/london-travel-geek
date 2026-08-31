@@ -1179,11 +1179,6 @@
       "name": "The World's 100 Best Coffee Shops",
       "note": "Ranked, dated, and re-run annually. The 2026 European edition assessed more than 5,300 cafes with a panel of 250 industry professionals and over 240,000 public votes, announced at World of Coffee Brussels in June 2026. The originator's own page serves the VOTING FORM rather than the results, so the London ranks were read from bean-here.com's report of them - the award is still the source, per the syndication rule."
     },
-    "thatsup.co.uk": {
-      "tier": "C",
-      "name": "Thatsup",
-      "note": "City guide with named editors, running curated guides for London, Manchester and Brighton. Independent of the venues it lists."
-    },
     "londonbestcoffee.com": {
       "tier": "C",
       "name": "London's Best Coffee",
@@ -1201,6 +1196,7 @@
     }
   },
   "excludedWhy": {
-    "europeancoffeetrip.com": "A DIRECTORY, not a selection. Its London page carries 204 cafes - close to every specialty coffee shop in the city - so it expresses no preference and naming a venue costs it nothing. Recording it would hand a citation to almost every venue in the corpus, and \"named by two sources\" would come to mean \"in the directory, plus one real list\". The same reasoning that bars a search-results page bars this."
+    "europeancoffeetrip.com": "A DIRECTORY, not a selection. Its London page carries 204 cafes - close to every specialty coffee shop in the city - so it expresses no preference and naming a venue costs it nothing. Recording it would hand a citation to almost every venue in the corpus, and \"named by two sources\" would come to mean \"in the directory, plus one real list\". The same reasoning that bars a search-results page bars this.",
+    "thatsup.co.uk": "On the excluded list since the SERP-first rebuild, with the aggregators. Reason not recorded at the time; the company it keeps - OpenTable, TripAdvisor, Yelp, Viator, Klook - says listings-led rather than edited."
   }
 }

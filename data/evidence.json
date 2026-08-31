@@ -1,4 +1,29 @@
 {
+  "411": {
+    "name": "The 411",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
   "sanctuaryandsoul": {
     "name": "The Sanctuary & Soul",
     "topics": [
@@ -8858,6 +8883,7 @@
     "name": "The Ritz",
     "topics": [
       "afternoon-tea",
+      "breakfast-brunch",
       "british",
       "french",
       "general",
@@ -8873,6 +8899,12 @@
         "tierSpread": "B4",
         "tierCount": 1,
         "hasAward": false
+      },
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
       },
       "british": {
         "sourceCount": 4,
@@ -17862,15 +17894,15 @@
     "topics": [
       "breakfast-brunch"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "B1 C2 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "breakfast-brunch": {
-        "sourceCount": 3,
-        "tierSpread": "B1 C2",
-        "tierCount": 2,
+        "sourceCount": 4,
+        "tierSpread": "B1 C2 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -17889,6 +17921,12 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw",
+        "quote": "top of the 200-chef survey"
       }
     ]
   },
@@ -18082,15 +18120,15 @@
     "topics": [
       "breakfast-brunch"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -18099,6 +18137,16 @@
         "tier": "B",
         "source": "LuxLife",
         "url": "https://luxlifelondon.com/best-breakfast-spots-london/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-english-breakfast-london"
+      },
+      {
+        "tier": "C",
+        "source": "tiktok.com/@alexalexgalaxy",
+        "url": "https://www.tiktok.com/@alexalexgalaxy"
       }
     ]
   },
@@ -18117,10 +18165,10 @@
     "hasAward": true,
     "byTopic": {
       "breakfast-brunch": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 C1",
+        "tierCount": 3,
+        "hasAward": true
       },
       "british": {
         "sourceCount": 3,
@@ -18217,15 +18265,15 @@
       "breakfast-brunch",
       "turkish"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
         "hasAward": false
       },
       "turkish": {
@@ -18246,6 +18294,11 @@
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
         "quote": "King's Road. Don't let the western name fool you - Megan's executive head chef Sercan Uğurlu has helped create a menu that's undeniably Turkish. If you stop by any of the branches of this cafe chai"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
       }
     ]
   },
@@ -18881,15 +18934,15 @@
     "topics": [
       "breakfast-brunch"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -18898,6 +18951,11 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
       }
     ]
   },
@@ -19060,48 +19118,6 @@
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/2026060915117/Gastroblog/Latest-news/national-restaurant-awards-revealed-2026-bouchon-racine-number-one"
-      }
-    ]
-  },
-  "sunday": {
-    "name": "Sunday",
-    "topics": [
-      "breakfast-brunch",
-      "british"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "british": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-brunch-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-brunches-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
       }
     ]
   },
@@ -19580,16 +19596,16 @@
       "breakfast-brunch",
       "british"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 C1",
+        "tierCount": 2,
+        "hasAward": true
       },
       "british": {
         "sourceCount": 1,
@@ -19599,6 +19615,11 @@
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -19849,15 +19870,15 @@
       "breakfast-brunch",
       "british"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "B2 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "breakfast-brunch": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       },
       "british": {
@@ -19882,6 +19903,12 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw",
+        "quote": "Balham"
       }
     ]
   },
@@ -20198,6 +20225,48 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-brunch-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
+      }
+    ]
+  },
+  "sunday": {
+    "name": "Sunday",
+    "topics": [
+      "breakfast-brunch",
+      "british"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-brunch-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-brunches-in-london"
       },
       {
         "tier": "C",
@@ -20799,6 +20868,1900 @@
         "tier": "C",
         "source": "London's Best Coffee",
         "url": "https://www.londonbestcoffee.com/"
+      }
+    ]
+  },
+  "epellicci": {
+    "name": "E. Pellicci",
+    "topics": [
+      "breakfast-brunch",
+      "british",
+      "cheap-eats",
+      "italian"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B2 C2 D3",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 D1",
+        "tierCount": 3,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "cheap-eats": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "italian": {
+        "sourceCount": 2,
+        "tierSpread": "D2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-greasy-spoon-cafes",
+        "quote": "#1"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-british-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+        "quote": "about GBP 17"
+      },
+      {
+        "tier": "C",
+        "source": "British Food Crew",
+        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats"
+      },
+      {
+        "tier": "D",
+        "source": "Munchies (YouTube)",
+        "url": "https://www.youtube.com/@Munchies",
+        "quote": "Family-owned since 1900 in Bethnal Green"
+      }
+    ]
+  },
+  "regencycafe": {
+    "name": "Regency Cafe",
+    "topics": [
+      "breakfast-brunch",
+      "british"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-greasy-spoon-cafes",
+        "quote": "#2"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-english-breakfast-london"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/"
+      },
+      {
+        "tier": "C",
+        "source": "British Food Crew",
+        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
+      }
+    ]
+  },
+  "rivercafe": {
+    "name": "The River Cafe",
+    "topics": [
+      "breakfast-brunch",
+      "italian"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "A1 B3 C2",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "italian": {
+        "sourceCount": 4,
+        "tierSpread": "A1 B2 C1",
+        "tierCount": 3,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-greasy-spoon-cafes",
+        "quote": "#3 - the CAFF at Putney Bridge"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-italian-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-italian-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+        "quote": "Putney Bridge - GBP 11.60"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-italian-restaurants-in-london/"
+      }
+    ]
+  },
+  "terryscafe": {
+    "name": "Terry's Cafe",
+    "topics": [
+      "breakfast-brunch",
+      "british",
+      "general"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B2 C2 D2",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C1 D1",
+        "tierCount": 3,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-greasy-spoon-cafes",
+        "quote": "#4"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-english-breakfast-london"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/"
+      },
+      {
+        "tier": "C",
+        "source": "British Food Crew",
+        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
+      },
+      {
+        "tier": "D",
+        "source": "Mark Wiens (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiens"
+      }
+    ]
+  },
+  "electriccafe": {
+    "name": "The Electric Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-greasy-spoon-cafes",
+        "quote": "#5"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-english-breakfast-london"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/"
+      }
+    ]
+  },
+  "marioscafe": {
+    "name": "Mario's Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-greasy-spoon-cafes",
+        "quote": "#6"
+      }
+    ]
+  },
+  "andrewscafe": {
+    "name": "Andrew's Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-greasy-spoon-cafes",
+        "quote": "#7"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+        "quote": "GBP 11.80"
+      }
+    ]
+  },
+  "mariescafe": {
+    "name": "Marie's Cafe",
+    "topics": [
+      "breakfast-brunch",
+      "thai"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "thai": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-greasy-spoon-cafes",
+        "quote": "#8"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-thai-restaurants-in-london/"
+      }
+    ]
+  },
+  "ritzcafe": {
+    "name": "The Ritz Cafe",
+    "topics": [
+      "breakfast-brunch",
+      "british"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-english-breakfast-london"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+        "quote": "Hammersmith - full English GBP 8.90"
+      },
+      {
+        "tier": "C",
+        "source": "British Food Crew",
+        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
+      }
+    ]
+  },
+  "billingsgatecafe": {
+    "name": "Billingsgate Cafe",
+    "topics": [
+      "breakfast-brunch",
+      "british"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-english-breakfast-london"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+        "quote": "Poplar - GBP 13"
+      },
+      {
+        "tier": "C",
+        "source": "British Food Crew",
+        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
+      }
+    ]
+  },
+  "beppescafe": {
+    "name": "Beppe's Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/"
+      }
+    ]
+  },
+  "dinoscafe": {
+    "name": "Dino's Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/"
+      }
+    ]
+  },
+  "astralcafe": {
+    "name": "Astral Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+        "quote": "Pimlico - GBP 8.70"
+      }
+    ]
+  },
+  "holeinthewallcafe": {
+    "name": "The Hole in the Wall Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+        "quote": "GBP 10"
+      }
+    ]
+  },
+  "maryscafe": {
+    "name": "Mary's Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/"
+      }
+    ]
+  },
+  "breakoutcafe": {
+    "name": "Breakout Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+        "quote": "GBP 12.60"
+      }
+    ]
+  },
+  "cosycafe": {
+    "name": "Cosy Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+        "quote": "Newham - GBP 6.50 - the cheapest found"
+      }
+    ]
+  },
+  "darcyscafe": {
+    "name": "Darcy's Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/"
+      }
+    ]
+  },
+  "mabakers": {
+    "name": "Ma Bakers",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/"
+      }
+    ]
+  },
+  "halfmooncafe": {
+    "name": "Half Moon Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+        "quote": "Hammersmith - GBP 9.20"
+      }
+    ]
+  },
+  "riccardoscafe": {
+    "name": "Riccardo's Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+        "quote": "Liverpool Street - GBP 9"
+      }
+    ]
+  },
+  "chunnelbar": {
+    "name": "Chunnel Bar",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/"
+      }
+    ]
+  },
+  "riseanddinecafe": {
+    "name": "Rise & Dine Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+        "quote": "GBP 11.99"
+      },
+      {
+        "tier": "C",
+        "source": "tiktok.com/@joshucr",
+        "url": "https://www.tiktok.com/@joshucr",
+        "quote": "GBP 5 English breakfast"
+      }
+    ]
+  },
+  "kenningtonlanecafe": {
+    "name": "Kennington Lane Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+        "quote": "GBP 11"
+      }
+    ]
+  },
+  "archescafe": {
+    "name": "Arches Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+        "quote": "GBP 13.50"
+      }
+    ]
+  },
+  "georgescafe": {
+    "name": "George's Cafe",
+    "topics": [
+      "breakfast-brunch",
+      "cheap-eats"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "cheap-eats": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+        "quote": "Leytonstone - GBP 8.80"
+      },
+      {
+        "tier": "C",
+        "source": "BudgetTraveller",
+        "url": "https://budgettraveller.org/best-cheap-eats-london-guide/"
+      }
+    ]
+  },
+  "halfcup": {
+    "name": "Halfcup",
+    "topics": [
+      "breakfast-brunch",
+      "british"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-english-breakfast-london"
+      },
+      {
+        "tier": "C",
+        "source": "British Food Crew",
+        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
+      }
+    ]
+  },
+  "arthurscafe": {
+    "name": "Arthur's Cafe",
+    "topics": [
+      "breakfast-brunch",
+      "british"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-english-breakfast-london"
+      },
+      {
+        "tier": "C",
+        "source": "British Food Crew",
+        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
+      }
+    ]
+  },
+  "crossroadscafe": {
+    "name": "Crossroads Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-english-breakfast-london"
+      }
+    ]
+  },
+  "jikoni": {
+    "name": "Jikoni",
+    "topics": [
+      "breakfast-brunch",
+      "british"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-brunches-in-london"
+      }
+    ]
+  },
+  "fallow": {
+    "name": "Fallow",
+    "topics": [
+      "breakfast-brunch",
+      "british",
+      "general",
+      "sunday-roast"
+    ],
+    "sourceCount": 9,
+    "tierSpread": "A1 B2 C2 D4",
+    "tierCount": 4,
+    "hasAward": true,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 2,
+        "tierSpread": "A1 D1",
+        "tierCount": 2,
+        "hasAward": true
+      },
+      "british": {
+        "sourceCount": 4,
+        "tierSpread": "A1 B1 C2",
+        "tierCount": 3,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 3,
+        "tierSpread": "B2 D1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 2,
+        "tierSpread": "D2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
+      },
+      {
+        "tier": "C",
+        "source": "British Food Crew",
+        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2026060915117/Gastroblog/Latest-news/national-restaurant-awards-revealed-2026-bouchon-racine-number-one"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
+      },
+      {
+        "tier": "D",
+        "source": "Strictly Dumpling (YouTube)",
+        "url": "https://www.youtube.com/@strictlydumpling"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood",
+        "quote": "Opens Harry Kersh and Joe Avella's four-stop roast tour"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats"
+      }
+    ]
+  },
+  "honeyandco": {
+    "name": "Honey & Co",
+    "topics": [
+      "breakfast-brunch",
+      "british",
+      "middle-eastern"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A1 B2",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "middle-eastern": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
+      }
+    ]
+  },
+  "barleymow": {
+    "name": "The Barley Mow",
+    "topics": [
+      "breakfast-brunch",
+      "british"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
+      }
+    ]
+  },
+  "maisonfrancois": {
+    "name": "Maison Francois",
+    "topics": [
+      "breakfast-brunch",
+      "british",
+      "french",
+      "general"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "A1 B2 C2",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "A1 C1",
+        "tierCount": 2,
+        "hasAward": true
+      },
+      "french": {
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 C1",
+        "tierCount": 3,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-french-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "C",
+        "source": "British Food Crew",
+        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/french-restaurants/"
+      }
+    ]
+  },
+  "45jermynst": {
+    "name": "45 Jermyn St",
+    "topics": [
+      "breakfast-brunch",
+      "british"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 C1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "A1 C1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
+      },
+      {
+        "tier": "C",
+        "source": "British Food Crew",
+        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
+      }
+    ]
+  },
+  "mountstreetrestaurant": {
+    "name": "Mount Street Restaurant",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
+      }
+    ]
+  },
+  "hide": {
+    "name": "Hide",
+    "topics": [
+      "breakfast-brunch",
+      "british"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A1 C1 D1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 2,
+        "tierSpread": "A1 D1",
+        "tierCount": 2,
+        "hasAward": true
+      },
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "A1 C1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-british-restaurants-in-london"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
+      }
+    ]
+  },
+  "imadssyriankitchen": {
+    "name": "Imad’s Syrian Kitchen",
+    "topics": [
+      "breakfast-brunch",
+      "british",
+      "general",
+      "middle-eastern"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "A1 B4 C1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "middle-eastern": {
+        "sourceCount": 4,
+        "tierSpread": "B4",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-middle-eastern"
+      },
+      {
+        "tier": "B",
+        "source": "Fact Magazines",
+        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-falafel-london"
+      },
+      {
+        "tier": "B",
+        "source": "Mob",
+        "url": "https://www.mob.co.uk/life/the-best-falafel-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/bib-gourmands-in-london/"
+      }
+    ]
+  },
+  "koyasoho": {
+    "name": "Koya Soho",
+    "topics": [
+      "breakfast-brunch",
+      "british",
+      "japanese"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C1 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-japanese-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Best Japanese",
+        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
+      }
+    ]
+  },
+  "wherethepancakesare": {
+    "name": "Where The Pancakes Are",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
+      }
+    ]
+  },
+  "darcieandmaygreen": {
+    "name": "Darcie & May Green",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "lasiguanas": {
+    "name": "Las Iguanas",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "daylesfordorganic": {
+    "name": "Daylesford Organic",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@alexalexgalaxy",
+        "url": "https://www.tiktok.com/@alexalexgalaxy"
+      }
+    ]
+  },
+  "clubmexicana": {
+    "name": "Club Mexicana",
+    "topics": [
+      "breakfast-brunch",
+      "vegan"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "C4",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "vegan": {
+        "sourceCount": 3,
+        "tierSpread": "C3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@alexalexgalaxy",
+        "url": "https://www.tiktok.com/@alexalexgalaxy"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-vegan-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Vegpreneur",
+        "url": "https://www.vegpreneur.org/blog/the-best-vegan-restaurants-in-london-in-2026"
+      },
+      {
+        "tier": "C",
+        "source": "My Vegan Travels",
+        "url": "https://myvegantravels.com/destinations/vegan-food-spots-london/"
+      }
+    ]
+  },
+  "aokkitchen": {
+    "name": "AOK Kitchen",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@alexalexgalaxy",
+        "url": "https://www.tiktok.com/@alexalexgalaxy"
+      }
+    ]
+  },
+  "ergon": {
+    "name": "Ergon",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@alexalexgalaxy",
+        "url": "https://www.tiktok.com/@alexalexgalaxy"
+      }
+    ]
+  },
+  "eggbreak": {
+    "name": "Eggbreak",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@alexalexgalaxy",
+        "url": "https://www.tiktok.com/@alexalexgalaxy"
+      }
+    ]
+  },
+  "ridinghousecafe": {
+    "name": "Riding House Cafe",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@alexalexgalaxy",
+        "url": "https://www.tiktok.com/@alexalexgalaxy"
+      }
+    ]
+  },
+  "farmersmistress": {
+    "name": "The Farmer's Mistress",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@alexalexgalaxy",
+        "url": "https://www.tiktok.com/@alexalexgalaxy"
+      }
+    ]
+  },
+  "feya": {
+    "name": "Feya",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@lenaunpacked",
+        "url": "https://www.tiktok.com/@lenaunpacked"
+      }
+    ]
+  },
+  "lovage": {
+    "name": "LO'VAGE",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@lenaunpacked",
+        "url": "https://www.tiktok.com/@lenaunpacked"
+      }
+    ]
+  },
+  "beansandbites": {
+    "name": "Beans and Bites",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@lenaunpacked",
+        "url": "https://www.tiktok.com/@lenaunpacked"
+      }
+    ]
+  },
+  "morena": {
+    "name": "Morena",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@lenaunpacked",
+        "url": "https://www.tiktok.com/@lenaunpacked"
+      }
+    ]
+  },
+  "chakra": {
+    "name": "Chakra",
+    "topics": [
+      "breakfast-brunch"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@lenaunpacked",
+        "url": "https://www.tiktok.com/@lenaunpacked"
       }
     ]
   },
@@ -21486,36 +23449,6 @@
       }
     ]
   },
-  "hide": {
-    "name": "Hide",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "A1 C1",
-    "tierCount": 2,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 2,
-        "tierSpread": "A1 C1",
-        "tierCount": 2,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-british-restaurants-in-london"
-      }
-    ]
-  },
   "mountain": {
     "name": "Mountain",
     "topics": [
@@ -21789,66 +23722,6 @@
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
         "quote": "They describe themselves as \"probably the oldest fish and oyster restaurant in London\" - and certainly this City of London institution is still going strong. There's no messing around with the fish here - but that's how the client"
-      }
-    ]
-  },
-  "epellicci": {
-    "name": "E. Pellicci",
-    "topics": [
-      "british",
-      "cheap-eats",
-      "italian"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "B2 C1 D2",
-    "tierCount": 3,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 2,
-        "tierSpread": "D2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-british-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "British Food Crew",
-        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
-      },
-      {
-        "tier": "D",
-        "source": "Gary Eats (YouTube)",
-        "url": "https://www.youtube.com/@GaryEats"
-      },
-      {
-        "tier": "D",
-        "source": "Munchies (YouTube)",
-        "url": "https://www.youtube.com/@Munchies",
-        "quote": "Family-owned since 1900 in Bethnal Green"
       }
     ]
   },
@@ -27907,48 +29780,6 @@
       }
     ]
   },
-  "koyasoho": {
-    "name": "Koya Soho",
-    "topics": [
-      "british",
-      "japanese"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-japanese-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Best Japanese",
-        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
-      }
-    ]
-  },
   "stjohnnealsyardwinebar": {
     "name": "St John Neal's Yard Wine Bar",
     "topics": [
@@ -27974,81 +29805,6 @@
       }
     ]
   },
-  "fallow": {
-    "name": "Fallow",
-    "topics": [
-      "british",
-      "general",
-      "sunday-roast"
-    ],
-    "sourceCount": 8,
-    "tierSpread": "A1 B2 C2 D3",
-    "tierCount": 4,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 4,
-        "tierSpread": "A1 B1 C2",
-        "tierCount": 3,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 3,
-        "tierSpread": "B2 D1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 2,
-        "tierSpread": "D2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
-      },
-      {
-        "tier": "C",
-        "source": "British Food Crew",
-        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
-      },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026060915117/Gastroblog/Latest-news/national-restaurant-awards-revealed-2026-bouchon-racine-number-one"
-      },
-      {
-        "tier": "D",
-        "source": "Strictly Dumpling (YouTube)",
-        "url": "https://www.youtube.com/@strictlydumpling"
-      },
-      {
-        "tier": "D",
-        "source": "Insider Food (YouTube)",
-        "url": "https://www.youtube.com/@InsiderFood",
-        "quote": "Opens Harry Kersh and Joe Avella's four-stop roast tour"
-      },
-      {
-        "tier": "D",
-        "source": "Gary Eats (YouTube)",
-        "url": "https://www.youtube.com/@GaryEats"
-      }
-    ]
-  },
   "marketcoffeehouseandbar": {
     "name": "The Market Coffee House & Bar",
     "topics": [
@@ -28071,43 +29827,6 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london"
-      }
-    ]
-  },
-  "honeyandco": {
-    "name": "Honey & Co",
-    "topics": [
-      "british",
-      "middle-eastern"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
       }
     ]
   },
@@ -29144,214 +30863,6 @@
       }
     ]
   },
-  "jikoni": {
-    "name": "Jikoni",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
-    "tierCount": 2,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
-        "tierCount": 2,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-brunches-in-london"
-      }
-    ]
-  },
-  "barleymow": {
-    "name": "The Barley Mow",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
-      }
-    ]
-  },
-  "maisonfrancois": {
-    "name": "Maison François",
-    "topics": [
-      "british",
-      "french",
-      "general"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "A1 B2 C2",
-    "tierCount": 3,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 2,
-        "tierSpread": "A1 C1",
-        "tierCount": 2,
-        "hasAward": true
-      },
-      "french": {
-        "sourceCount": 3,
-        "tierSpread": "A1 B1 C1",
-        "tierCount": 3,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-french-restaurants-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      },
-      {
-        "tier": "C",
-        "source": "British Food Crew",
-        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/french-restaurants/"
-      }
-    ]
-  },
-  "45jermynst": {
-    "name": "45 Jermyn St",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "A1 C1",
-    "tierCount": 2,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 2,
-        "tierSpread": "A1 C1",
-        "tierCount": 2,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
-      },
-      {
-        "tier": "C",
-        "source": "British Food Crew",
-        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
-      }
-    ]
-  },
-  "imadssyriankitchen": {
-    "name": "Imad’s Syrian Kitchen",
-    "topics": [
-      "british",
-      "general",
-      "middle-eastern"
-    ],
-    "sourceCount": 6,
-    "tierSpread": "A1 B4 C1",
-    "tierCount": 3,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
-        "sourceCount": 4,
-        "tierSpread": "B4",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-middle-eastern"
-      },
-      {
-        "tier": "B",
-        "source": "Fact Magazines",
-        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-falafel-london"
-      },
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/the-best-falafel-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/bib-gourmands-in-london/"
-      }
-    ]
-  },
   "ottolenghichelsea": {
     "name": "Ottolenghi Chelsea",
     "topics": [
@@ -29377,120 +30888,8 @@
       }
     ]
   },
-  "regencycafe": {
-    "name": "Regency Café",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "British Food Crew",
-        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
-      }
-    ]
-  },
-  "terryscafe": {
-    "name": "Terry’s Café",
-    "topics": [
-      "british",
-      "general"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C1 D1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "D1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "British Food Crew",
-        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
-      },
-      {
-        "tier": "D",
-        "source": "Mark Wiens (YouTube)",
-        "url": "https://www.youtube.com/@MarkWiens"
-      }
-    ]
-  },
   "beam": {
     "name": "Beam",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "British Food Crew",
-        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
-      }
-    ]
-  },
-  "arthurscafe": {
-    "name": "Arthur’s Café",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "British Food Crew",
-        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
-      }
-    ]
-  },
-  "halfcup": {
-    "name": "Halfcup",
     "topics": [
       "british"
     ],
@@ -29539,58 +30938,8 @@
       }
     ]
   },
-  "billingsgatecafe": {
-    "name": "Billingsgate Café",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "British Food Crew",
-        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
-      }
-    ]
-  },
   "sizzlingsausage": {
     "name": "Sizzling Sausage",
-    "topics": [
-      "british"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "British Food Crew",
-        "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london-2026/"
-      }
-    ]
-  },
-  "ritzcafe": {
-    "name": "The Ritz Café",
     "topics": [
       "british"
     ],
@@ -44280,31 +45629,6 @@
   },
   "emonorestaurantkentishtownroad": {
     "name": "E Mono Restaurant Kentish Town Road",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "BudgetTraveller",
-        "url": "https://budgettraveller.org/best-cheap-eats-london-guide/"
-      }
-    ]
-  },
-  "georgescafe": {
-    "name": "George’s Cafe",
     "topics": [
       "cheap-eats"
     ],
@@ -89845,47 +91169,6 @@
       }
     ]
   },
-  "rivercafe": {
-    "name": "The River Café",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "A1 B2 C1",
-    "tierCount": 3,
-    "hasAward": true,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 4,
-        "tierSpread": "A1 B2 C1",
-        "tierCount": 3,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Michelin Guide",
-        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
-        "quote": "1 Michelin star in the 2026 guide"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-italian-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-italian-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/best-italian-restaurants-in-london/"
-      }
-    ]
-  },
   "nina": {
     "name": "Nina",
     "topics": [
@@ -124898,31 +126181,6 @@
       }
     ]
   },
-  "mariescafe": {
-    "name": "Marie's Cafe",
-    "topics": [
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-thai-restaurants-in-london/"
-      }
-    ]
-  },
   "jinda": {
     "name": "Jin-Da",
     "topics": [
@@ -132263,41 +133521,6 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-vegan-restaurants-london"
-      }
-    ]
-  },
-  "clubmexicana": {
-    "name": "Club Mexicana",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 3,
-        "tierSpread": "C3",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-vegan-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Vegpreneur",
-        "url": "https://www.vegpreneur.org/blog/the-best-vegan-restaurants-in-london-in-2026"
-      },
-      {
-        "tier": "C",
-        "source": "My Vegan Travels",
-        "url": "https://myvegantravels.com/destinations/vegan-food-spots-london/"
       }
     ]
   },

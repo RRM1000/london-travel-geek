@@ -1,7 +1,7 @@
 {
   "cuisine": "breakfast-brunch",
   "note": "Seeded 2026-08-25.",
-  "recorded": "2026-08-30",
+  "recorded": "2026-08-31",
   "sources": [
     {
       "name": "Candace Abroad",
@@ -84,7 +84,6 @@
         "Inis",
         "The Wolseley",
         "Simpson’s in the Strand",
-        "Sunday",
         "Caravan King’s Cross",
         "Carmel",
         "Mallow",
@@ -129,7 +128,8 @@
         "Bounce Farringdon",
         "Flight Club Victoria",
         "Shuffle Club",
-        "Electric Shuffle London Bridge"
+        "Electric Shuffle London Bridge",
+        "Sunday"
       ]
     },
     {
@@ -139,17 +139,14 @@
       "names": [
         "Common Breads",
         "Christopher's",
-        "North",
         "Rua Coffee Bar",
         "Common Ground",
         "Golden State",
         "Bolland & Crust",
         "Corrochio's",
         "Dobar",
-        "Sunday",
         "Esters",
         "215 Hackney",
-        "East",
         "Burnt Bethnal Green",
         "Towpath",
         "Mae + Harvey",
@@ -157,7 +154,6 @@
         "Bake Street",
         "Ozone Coffee",
         "Inis",
-        "South",
         "Folde",
         "District",
         "Mr Bao",
@@ -167,11 +163,194 @@
         "Juliet’s Quality Foods",
         "Milk",
         "The Apple Blue",
-        "West",
         "Burnt",
         "Akub",
-        "Tab x Tab"
+        "Tab x Tab",
+        "Sunday"
       ]
+    },
+    {
+      "name": "Time Out (London's best greasy spoons, ranked)",
+      "url": "https://www.timeout.com/london/restaurants/londons-best-greasy-spoon-cafes",
+      "scope": "breakfast-brunch",
+      "names": [
+        "E Pellicci",
+        "Regency Cafe",
+        "The River Cafe",
+        "Terry's Cafe",
+        "The Electric Cafe",
+        "Mario's Cafe",
+        "Andrew's Cafe",
+        "Marie's Cafe"
+      ],
+      "quotes": {
+        "E Pellicci": "#1",
+        "Regency Cafe": "#2",
+        "The River Cafe": "#3 - the CAFF at Putney Bridge",
+        "Terry's Cafe": "#4",
+        "The Electric Cafe": "#5",
+        "Mario's Cafe": "#6",
+        "Andrew's Cafe": "#7",
+        "Marie's Cafe": "#8"
+      }
+    },
+    {
+      "name": "James Dimitri (London greasy spoon guide, 25 caffs with prices)",
+      "url": "https://jamesdimitri.co.uk/2025/11/13/london-greasy-spoon-guide/",
+      "scope": "breakfast-brunch",
+      "names": [
+        "The Ritz Cafe",
+        "Regency Cafe",
+        "Billingsgate Cafe",
+        "Beppe's Cafe",
+        "E Pellicci",
+        "The Electric Cafe",
+        "Terry's Cafe",
+        "The River Cafe",
+        "Dino's Cafe",
+        "Astral Cafe",
+        "The Hole in the Wall Cafe",
+        "Mary's Cafe",
+        "Breakout Cafe",
+        "Cosy Cafe",
+        "Darcy's Cafe",
+        "Ma Bakers",
+        "Half Moon Cafe",
+        "Riccardo's Cafe",
+        "Chunnel Bar",
+        "Andrew's Cafe",
+        "Rise & Dine Cafe",
+        "Kennington Lane Cafe",
+        "Arches Cafe",
+        "George's Cafe"
+      ],
+      "quotes": {
+        "The Ritz Cafe": "Hammersmith - full English GBP 8.90",
+        "Billingsgate Cafe": "Poplar - GBP 13",
+        "E Pellicci": "about GBP 17",
+        "The River Cafe": "Putney Bridge - GBP 11.60",
+        "Astral Cafe": "Pimlico - GBP 8.70",
+        "The Hole in the Wall Cafe": "GBP 10",
+        "Breakout Cafe": "GBP 12.60",
+        "Cosy Cafe": "Newham - GBP 6.50 - the cheapest found",
+        "Half Moon Cafe": "Hammersmith - GBP 9.20",
+        "Riccardo's Cafe": "Liverpool Street - GBP 9",
+        "Andrew's Cafe": "GBP 11.80",
+        "Rise & Dine Cafe": "GBP 11.99",
+        "Kennington Lane Cafe": "GBP 11",
+        "Arches Cafe": "GBP 13.50",
+        "George's Cafe": "Leytonstone - GBP 8.80"
+      }
+    },
+    {
+      "name": "DesignMyNight (best English breakfast)",
+      "url": "https://www.designmynight.com/london/blog/best-english-breakfast-london",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Terry's Cafe",
+        "Halfcup",
+        "The Breakfast Club",
+        "Arthur's Cafe",
+        "The Ritz Cafe",
+        "Regency Cafe",
+        "Billingsgate Cafe",
+        "Crossroads Cafe",
+        "The Electric Cafe"
+      ]
+    },
+    {
+      "name": "The Good Food Guide (best breakfasts in central London)",
+      "url": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london",
+      "scope": "breakfast-brunch",
+      "names": [
+        "The Ritz",
+        "Jikoni",
+        "Fallow",
+        "Dishoom",
+        "Honey & Co",
+        "The Barley Mow",
+        "Maison Francois",
+        "45 Jermyn St",
+        "Mount Street Restaurant",
+        "Hide",
+        "Imad's Syrian Kitchen",
+        "Ottolenghi"
+      ]
+    },
+    {
+      "name": "TOPJAW (200 chefs surveyed 2025, and five brunches 2021)",
+      "url": "https://www.youtube.com/@topjaw",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Granger & Co",
+        "Koya",
+        "E Pellicci",
+        "Fallow",
+        "Hide",
+        "Milk",
+        "Terry's Cafe",
+        "The Good Egg",
+        "Where The Pancakes Are"
+      ],
+      "quotes": {
+        "Granger & Co": "top of the 200-chef survey",
+        "Milk": "Balham"
+      }
+    },
+    {
+      "name": "Harrison Webb (best bottomless brunch, 726k views, 2025)",
+      "url": "https://www.youtube.com/@HarrisonWebb97",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Darcie & May Green",
+        "Las Iguanas",
+        "Megan's",
+        "The 411"
+      ]
+    },
+    {
+      "name": "@alexalexgalaxy (165k views, Oct 2025)",
+      "url": "https://www.tiktok.com/@alexalexgalaxy",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Daylesford Organic",
+        "Club Mexicana",
+        "The Breakfast Club",
+        "AOK Kitchen",
+        "Ergon",
+        "Eggbreak",
+        "Riding House Cafe",
+        "The Farmer's Mistress"
+      ]
+    },
+    {
+      "name": "@lenaunpacked (657k views, Jul 2025)",
+      "url": "https://www.tiktok.com/@lenaunpacked",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Feya",
+        "LO'VAGE",
+        "Beans and Bites",
+        "Morena",
+        "Chakra"
+      ]
+    },
+    {
+      "name": "@joshucr (64k views, Jul 2026)",
+      "url": "https://www.tiktok.com/@joshucr",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Rise & Dine Cafe"
+      ],
+      "quotes": {
+        "Rise & Dine Cafe": "GBP 5 English breakfast"
+      }
     }
-  ]
+  ],
+  "declined": {
+    "https://www.youtube.com/@jolly": "Two London brunch films, 1.49M and 1.52M views. BOTH HOSTED - 'Thanks to Thomas, Jarod and the team at Buvette for having us' and 'Thanks to Josh and all the team at Hide for the amazing food and hospitality'. A comped meal is the venue's hospitality, not an independent citation, however large the audience.",
+    "https://www.tiktok.com/@liza_kayyy": "Tomtom Coffee House, 134k views. Caption carries 'invite'.",
+    "https://www.youtube.com/@thetourguy": "Chapters name areas, not venues - 'Brunch in Seven Dials' - so there is nothing citable to record."
+  },
+  "scope": "BREAKFAST AND BRUNCH, the full range: hotel dining rooms and Michelin kitchens at one end, greasy spoons and caffs at the other, and the mini-chains in between. NO AWARD EXISTS for breakfast in Britain, so there is no tier-A judged ranking and the guide says so. The cheap end is carried mostly by one specialist blog and one Time Out list, because the mastheads' brunch coverage stops well above GBP 10."
 }

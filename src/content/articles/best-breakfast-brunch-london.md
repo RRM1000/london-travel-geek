@@ -30,9 +30,10 @@ Both are here, alongside the hotel rooms where breakfast is a business meeting.
 > 💡 **The Short Version:** **The Wolseley** is the London power breakfast in a 1920s car showroom. **Dishoom's bacon naan roll** is the one worth queueing for. **Granger & Co** started the London brunch thing and the hotcakes are still on the menu. **Duck & Waffle** is open 24 hours forty floors up. And **Wetherspoons** does a cooked breakfast from 8am for a few pounds.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **5 sources carrying 135 citations** across **106 named rooms** — The Infatuation, The Nudge, Resy, Lux Life and one specialist. **21 rooms are named by two or more independent sources.**
-> **The known weakness in this topic: this is the thinnest corpus on the site.** Five publications, no award, no inspectorate, and nothing named by more than three of them — Christopher's and Granger & Co are the joint most-cited, on three each. Brunch is written about constantly and ranked almost never, so the counts here separate the well-covered from the obscure and not much more. Several rooms below carry no citation at all and say so.
-> *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
+> Nothing here is ranked on one visit. This pass reads **14 sources carrying 211 citations** across **162 named rooms** — The Good Food Guide, four editorial mastheads (Time Out, The Infatuation, The Nudge, DesignMyNight), Resy and Lux Life, a greasy-spoon specialist, and five creators on YouTube and TikTok. **36 rooms are named by two or more independent sources; 9 by three or more.**
+> **The known weakness in this topic: there is no award for breakfast anywhere in Britain.** No inspectorate rates a fry-up and no panel judges a brunch, so this guide has no judged ranking underneath it — only how many independent people arrived at the same room. Where a venue is named by one source, the entry says so, and seven below carry no citation at all.
+> **What the counts are good at, and what they are not:** the top of this list is a genuine measurement. Granger & Co and Terry's Café are each named by four sources — one an Australian brunch room, the other a Southwark caff — which is the clearest signal the corpus produces. Below three sources the ordering is close to noise, because brunch is written about constantly and ranked almost never.
+> *Evidence rebuilt 31 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
 
@@ -62,7 +63,7 @@ A 1920s car showroom turned Viennese-style grand café, and **the London power b
 
 ### Dishoom, Covent Garden
 
-*££ · 3 min from Covent Garden* · Cited by 2 sources
+*££ · 3 min from Covent Garden* · Cited by 3 sources
 
 The Irani cafés of old Bombay recreated in careful detail, and the **bacon naan roll** that turned a dinner restaurant into a breakfast destination.
 
@@ -88,6 +89,18 @@ Forty floors up and **open around the clock** — the only place in London where
 
 Every inch of wall covered in framed pictures — probably the most photographed dining room in London, and quietest at breakfast.
 
+
+### Hide, Mayfair
+
+*££££ · Michelin-starred* · Cited by 2 sources
+
+A Michelin-starred kitchen that serves breakfast, which almost none do. Named both by the Good Food Guide and by the chefs TOPJAW surveyed — the only room in this guide to appear in a professional survey and a critics' guide at once.
+
+### Fallow, St James's
+
+*£££ · nose-to-tail* · Cited by 2 sources
+
+The sustainability-minded St James's kitchen does a breakfast built on the same offcut thinking as its dinner menu.
 ---
 
 ## Australian brunch
@@ -96,7 +109,7 @@ The format that changed London breakfast, still done best by the people who brou
 
 ### Granger & Co, Notting Hill
 
-*£££ · Bill Granger* · Cited by 3 sources
+*£££ · Bill Granger* · Cited by 4 sources
 
 Bill Granger brought Sydney brunch to London and the **ricotta hotcakes** have been on the menu ever since. Several sites; Notting Hill is the original.
 
@@ -112,7 +125,7 @@ An all-day kitchen with a roastery attached — the room most responsible for Lo
 
 ### Milk, Balham
 
-*££ · 3 min from Balham* · Cited by 2 sources
+*££ · 3 min from Balham* · Cited by 3 sources
 
 A Balham café that has topped London brunch lists for years without ever opening a second site, which tells you something.
 
@@ -138,7 +151,7 @@ An independent on Southwark Street since **2005**, doing a proper cooked breakfa
 
 ![A full English breakfast of fried eggs, sausage, bacon, beans, grilled tomato and a field mushroom](../../assets/articles/best-breakfast-brunch-london/the-table-full-english.jpg)
 
-*The full English at The Table. The field mushroom and the grilled tomato are the tells of a kitchen that cooks the whole plate rather than assembling it.*
+*The full English at The Table.*
 
 **The terrace runs seven days and takes no bookings**, which makes it one of the more likely places to get a table on a Saturday in Bankside.
 
@@ -181,10 +194,6 @@ The shop that trained a generation of London baristas, with its own training cen
 *£ · a watchman's hut* · named by no source in this corpus
 
 Started in a nineteenth-century watchman's hut on Bermondsey Street and has become the most polished coffee group in London.
-
-![The marble counter and espresso machine inside a WatchHouse café](../../assets/articles/best-breakfast-brunch-london/watchhouse.jpg)
-
-*The Bermondsey original is in a Victorian watch house built to guard the graveyard next door. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/51668939250), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Ginger & White, Hampstead
 
@@ -302,15 +311,68 @@ The group's third site — there are two others, so check which one a listing me
 
 ---
 
+## Chains and mini-chains worth the visit
+
+London brunch is unusual in that **several of its best rooms are chains**, because the format arrived as a business rather than as a one-off. A chain here is not the compromise it would be at dinner.
+
+### Granger & Co, several sites
+
+*£££ · Bill Granger* · Cited by 4 sources
+
+The **joint most-cited room in this entire corpus**, and a chain — which tells you how completely the Australian import won. Five London sites; Notting Hill is the original and the ricotta hotcakes are the reason.
+
+### Dishoom, seven sites
+
+*££ · the bacon naan* · Cited by 3 sources
+
+The only chain on this list that people queue for by name. Bookings before 6pm for any party size, and breakfast barely queues at all.
+
+### The Breakfast Club, several sites
+
+*££ · since 2005* · Cited by 3 sources
+
+Named by three independent sources despite being the most obviously commercial room here. Covent Garden, Hackney Wick, London Bridge and Croydon among others; the queues are real and the pancakes are the order.
+
+### Megan's, many sites
+
+*££ · the flower-covered ones* · Cited by 2 sources
+
+Instantly recognisable from the floral frontages, and a bottomless brunch operation as much as a breakfast one. More sites than anyone expects.
+
+### Ottolenghi, five sites
+
+*£££ · the counter* · Cited by 2 sources
+
+Not a breakfast business exactly, but the Chelsea and Notting Hill counters do a morning trade the Good Food Guide singles out.
+
+> ⚠️ **Caravan is a chain too**, with sites in King's Cross, Clerkenwell, Bankside and Fitzrovia — but only one source in this corpus names it for breakfast, so it sits at one citation despite its influence on the format.
+
+---
+
 ## Cheap, and open early
 
-**The honest finding: the London greasy spoon is no longer cheap.** A proper sit-down cooked breakfast now runs £10 to £18 in most caffs, and the modern brunch rooms start around £13 for a plate of eggs. These are the exceptions.
+**The honest finding: a cheap fry-up still exists, but not where the guides look.** Across the twenty-five caffs one specialist has priced, the spread runs from **£6.50 to about £17** — and the cheap end is entirely outside zone 1. Central London caffs cluster around £11–£13; the ones under £10 are in Newham, Leytonstone, Pimlico and Hammersmith. The modern brunch rooms start around £13 for a plate of eggs.
+
+#### Under £10, and all of them a train ride out
+
+* **Cosy Café**, Newham — **£6.50**, the cheapest full English anyone in this corpus has priced. *Cited by 1 source*
+* **Astral Café**, Pimlico — **£8.70**, and the only sub-£9 fry-up this side of the river. *Cited by 1 source*
+* **George's Café**, Leytonstone — **£8.80**. *Cited by 1 source*
+* **The Ritz Café**, Hammersmith — **£8.90**, British-Turkish, open from 6.30am and every breakfast comes with tea. *Cited by 2 sources*
+* **Riccardo's Café**, Liverpool Street — **£9**, which is remarkable for the postcode. *Cited by 1 source*
+* **Half Moon Café**, Hammersmith — **£9.20**. *Cited by 1 source*
+
+> 💡 **A £5 breakfast does exist.** Rise & Dine in Lambeth was filmed serving a £5 English breakfast in July 2026, though the standing menu price is £11.99 — worth checking before travelling for it.
 
 #### The caffs
 
-* **Regency Café**, Westminster — a **set breakfast at £9.99**, which is close to the floor for a sit-down cooked breakfast in central London. Open since 1946, black-tiled, order shouted across the room. Monday to Saturday, 7am to 3.30pm, closed Sundays.
-* **Terry's Café**, Southwark — the Standard is **£15.50** and the Works **£18.50** with Cumberland sausage, bubble and squeak and black pudding. Daily 7.30am–3pm. Not cheap any more, but home-cured bacon and a family running it since 1982.
-* **E Pellicci**, Bethnal Green — Grade II listed, family-run since 1900, and one of the last genuinely unchanged rooms in the East End. Cash-friendly, closed Sundays.
+* **Regency Café**, Westminster — a **set breakfast at £9.99**, which is close to the floor for a sit-down cooked breakfast in central London. Open since 1946, black-tiled, order shouted across the room. Monday to Saturday, 7am to 3.30pm, closed Sundays. *Cited by 3 sources*
+* **Terry's Café**, Southwark — the Standard is **£15.50** and the Works **£18.50** with Cumberland sausage, bubble and squeak and black pudding. Daily 7.30am–3pm. Not cheap any more, but home-cured bacon and a family running it since 1982. *Cited by 4 sources*
+* **E Pellicci**, Bethnal Green — Grade II listed, family-run since 1900, and one of the last genuinely unchanged rooms in the East End. Cash-friendly, closed Sundays. *Cited by 3 sources*
+* **The Electric Café**, West Norwood — named by three sources and almost never by a national guide. *Cited by 3 sources*
+* **The River Café**, Putney Bridge — **£11.60**. The caff, not the Michelin-starred Italian in Hammersmith; two sources name this one and mean the fry-up. *Cited by 2 sources*
+* **Andrew's Café**, Holborn — **£11.80**, running since the 1970s. *Cited by 2 sources*
+* **Billingsgate Café**, Poplar — **£13**, and it opens for the fish market rather than for you. *Cited by 2 sources*
 
 #### Pubs and odd hours
 

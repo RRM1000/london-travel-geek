@@ -32,7 +32,13 @@ const list = topics.length
   ? topics
   : fs.readdirSync("data/consensus").filter((f) => f.endsWith(".json")).map((f) => f.replace(/\.json$/, ""));
 
-const isChrome = (n) => isFurniture(n);
+// THE TOPIC MUST BE PASSED. isFurniture() takes a topic so a name can be
+// furniture in one corpus and a venue in another - "Sunday" is opening hours in
+// Harden's and a Barnsbury restaurant in the brunch lists. Calling it without
+// the topic ignored the exception and DELETED Sunday from two breakfast
+// sources, which is worse than the build merely filtering it: the cleaner
+// rewrites the corpus file.
+const isChrome = (n, topic) => isFurniture(n, topic);
 
 // A listicle that glues its list position to the name - "2 Bone Daddies",
 // "3 Shoryu Ramen" - has a real venue in it, so the index is stripped rather
@@ -45,7 +51,7 @@ const isChrome = (n) => isFurniture(n);
 // a run of at least three consecutive leading integers. An isolated number at
 // the front of a name is part of the name.
 const MIN_RUN = NOISE.chromePatterns?.deIndex?.minRun ?? 3;
-function deIndexSource(names) {
+function deIndexSource(names, topic) {
   const lead = names.map((n) => {
     const m = String(n).match(/^(\d{1,2})\s+(?=\S)/);
     return m ? Number(m[1]) : null;
@@ -66,11 +72,11 @@ function deIndexSource(names) {
     if (!inRun.has(i)) return n;
     // Already furniture? Leave it for the patterns to delete rather than
     // de-indexing "14 Conclusion" into a plausible-looking "Conclusion".
-    if (isChrome(n)) return n;
+    if (isChrome(n, topic)) return n;
     const stripped = String(n).replace(/^\d{1,2}\s+/, "").trim();
     // What is left has to look like a venue. "1 Sep" and "7 am-1 am" are in the
     // sequence too, and de-indexing those produces "Sep" and "am-1 am".
-    if (!/^[A-Z]/.test(stripped) || stripped.length < 4 || isChrome(stripped)) return n;
+    if (!/^[A-Z]/.test(stripped) || stripped.length < 4 || isChrome(stripped, topic)) return n;
     changed.push(`${n} -> ${stripped}`);
     return stripped;
   });
@@ -97,13 +103,13 @@ for (const topic of list) {
     });
     if (arrowed.length) lines.push(`  ${s.name}: split ${arrowed.length} name-plus-description`);
 
-    const di = deIndexSource(s.names ?? []);
+    const di = deIndexSource(s.names ?? [], topic);
     s.names = di.names;
     const reindexed = di.changed;
-    const gone = (s.names ?? []).filter(isChrome);
+    const gone = (s.names ?? []).filter((n) => isChrome(n, topic));
     if (reindexed.length) lines.push(`  ${s.name}: de-indexed ${reindexed.length} (${reindexed.slice(0, 3).join(", ")})`);
     if (!gone.length) continue;
-    s.names = (s.names ?? []).filter((n) => !isChrome(n));
+    s.names = (s.names ?? []).filter((n) => !isChrome(n, topic));
     // A quote keyed to a name that no longer exists is dead weight.
     for (const g of gone) delete s.quotes?.[g];
     removed += gone.length;

@@ -99,30 +99,6 @@
       "quotes": {}
     },
     {
-      "name": "Thatsup (the guide to the best dim sum in London)",
-      "url": "https://thatsup.co.uk/london/guide/the-guide-to-the-best-dim-sum-in-london/",
-      "scope": "dim-sum",
-      "names": [
-        "Novikov Restaurant & Bar",
-        "Nanyang Blossom",
-        "Din Tai Fung",
-        "Orient London",
-        "Imperial Treasure London",
-        "Dumplings' Legend",
-        "My Neighbours The Dumplings",
-        "A. Wong",
-        "Yauatcha",
-        "Yauatcha City",
-        "Bun House",
-        "Hakkasan",
-        "Pearl Liang",
-        "Hutong",
-        "Dim Sum & Duck",
-        "Plum Valley",
-        "BaoziInn"
-      ]
-    },
-    {
       "name": "DesignMyNight (best dim sum)",
       "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london",
       "scope": "dim-sum",
@@ -283,6 +259,7 @@
   "declined": {
     "https://www.tiktok.com/@crystxl_eats": "Joy King Lau. DISCLOSED AS PAID - the caption reads '*ad/invite'. A hosted meal is the venue's marketing, not an independent citation.",
     "https://www.tiktok.com/@eatingwithtod": "Royal China, 622k views. DISCLOSED AS PAID - 'ad', an Uber Eats partnership with a discount code. Not counted despite the reach.",
-    "https://www.tiktok.com/@ryan_ewhare": "Mr Dumpling, Goldhawk Road. OUT OF SCOPE - a dumpling review, not Cantonese dim sum. Same rule that keeps the noodle bars out."
+    "https://www.tiktok.com/@ryan_ewhare": "Mr Dumpling, Goldhawk Road. OUT OF SCOPE - a dumpling review, not Cantonese dim sum. Same rule that keeps the noodle bars out.",
+    "https://thatsup.co.uk/london/guide/the-guide-to-the-best-dim-sum-in-london/": "EXCLUDED DOMAIN. thatsup.co.uk was put on the excluded list in the SERP-first rebuild, alongside OpenTable, TripAdvisor, Yelp, Viator and Klook - the aggregator bucket. It was recorded here by mistake and its 17 names were silently dropped by build-evidence, which is how the mistake surfaced. Not overridden: reversing a deliberate exclusion is a judgement call, not a side effect of one topic needing sources."
   }
 }
