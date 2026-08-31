@@ -328,7 +328,7 @@ The Stoke Newington chippy that turns up on every north London list.
 
 ## Wetherspoons, and why they earn a mention
 
-Nobody needs telling that Wetherspoons is cheap. What is worth knowing is that four of the London ones are in buildings people would pay to look at, and that all four open at 8am for a cooked breakfast that costs less than a coffee and pastry almost anywhere else.
+Nobody needs telling that Wetherspoons is cheap, and with around 37 branches in central London alone — roughly 800 across the UK — you are rarely far from one. What is worth knowing is that four of the London ones are in buildings people would pay to look at, and that all four open at 8am for a cooked breakfast that costs less than a coffee and pastry almost anywhere else.
 
 Order at the bar or through the app. No table service, no music, no booking.
 

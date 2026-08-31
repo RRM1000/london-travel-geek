@@ -18,7 +18,7 @@ faq:
   - q: "Do I need to book brunch in London?"
     a: "At weekends, yes for the popular rooms — Granger & Co, Caravan and The Wolseley all fill. Dishoom takes bookings before 6pm for any party size. Most independent cafés are walk-in and the queue moves."
   - q: "Where can I get a cheap breakfast in London?"
-    a: "Wetherspoons open at 8am and serve a cooked breakfast for a few pounds — The Crosse Keys and Hamilton Hall are in extraordinary buildings. Ginger & White in Hampstead does a proper bacon sandwich and flat white, and Beany Green sits on the Little Venice towpath."
+    a: "Wetherspoons open at 8am and serve a cooked breakfast for a few pounds, and with around 37 branches in central London there is usually one nearby — The Crosse Keys and Hamilton Hall are the two in extraordinary buildings. Ginger & White in Hampstead does a proper bacon sandwich and flat white, and Beany Green sits on the Little Venice towpath."
   - q: "What is the difference between London brunch and a full English?"
     a: "Brunch here mostly means the Australian import — smashed avocado, ricotta hotcakes, flat whites — which arrived with Granger & Co and Caravan. A full English is the traditional fry-up, and the best ones are in cafés and pubs rather than brunch rooms."
 ---
@@ -453,7 +453,7 @@ Counter service and communal seating, so it works for one person with a book and
 
 #### Pubs and odd hours
 
-* **Wetherspoons** — The Crosse Keys, Hamilton Hall, The Ledger Building and The Montagu Pyke all open at 8am and serve a cooked breakfast for a few pounds, in buildings people would otherwise queue to look at. The cheapest cooked breakfast in central London by a distance.
+* **Wetherspoons** — the cheapest cooked breakfast in central London by a distance, served from 8am. **There are around 37 branches in central London alone**, and roughly 800 across the UK, so there is almost certainly one near you — Westminster has eight, Camden seven, Southwark six, the City four. The four worth going out of your way for are in extraordinary buildings: **The Crosse Keys** (a 1913 banking hall), **Hamilton Hall** (the Great Eastern Hotel's former ballroom), **The Ledger Building** (an 1802 West India Dock office) and **The Montagu Pyke** (a former cinema). The breakfast is identical in all of them.
 * **Polo Bar**, Liverpool Street — a fry-up at any hour, run by the Inzani family since 1953 and open every minute of every day. **It has no front door**, because it has never needed to shut one; on Christmas Day, the only day it closes, they nail a sheet of plywood over the entrance.
 * **The Attendant**, Fitzrovia — brunch inside a Victorian public lavatory, with the urinals as the counter.
 
