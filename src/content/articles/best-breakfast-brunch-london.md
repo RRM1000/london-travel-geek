@@ -34,6 +34,13 @@ Both are here, alongside the hotel rooms where breakfast is a business meeting.
 > **Built on:** fourteen sources across every price point, from a Michelin-starred breakfast to a £6.50 fry-up in Newham, with twenty-five caffs individually priced.
 > *Evidence rebuilt 31 August 2026 · [How we rank →](/how-we-rank/)*
 
+> 📅 **Booking, at a glance**
+> **Book weeks ahead:** Duck & Waffle (the window tables especially), Hide, Fallow, Akub.
+> **Book a few days ahead, and always for a weekend:** The Wolseley, Berners Tavern, Bistrotheque, Carmel, Mr Bao, The Laundry, Inis, Megan's.
+> **Bookable but rarely needed at breakfast:** Dishoom takes any party size before 6pm, and mornings barely queue.
+> **Walk-in only — turn up and wait:** Granger & Co, Milk, The Table Café, Esters, Ginger & White, Kaffeine, Prufrock, WatchHouse, Beany Green, The Breakfast Club.
+> *The queue is the real cost at the walk-ins: Granger & Co before 10am or around 3pm gets you straight in, and Milk rarely runs past half an hour.*
+
 ## Where they are
 
 | If you are near… | Where to eat |
@@ -62,7 +69,7 @@ A 1920s Wolseley Motors showroom on Piccadilly, turned into a Viennese-style gra
 
 The menu runs from viennoiserie and classic egg dishes through to a full English, and — unusually — **kedgeree**, the Anglo-Indian smoked haddock and rice dish that was a Victorian breakfast staple and has almost vanished from London menus. Fruit, yoghurts and cereals for anyone not committing.
 
-**Breakfast runs 7am–11.30am on weekdays and 8am–11.30am at weekends.** Early on a weekday is both the easiest table and the best show.
+**Breakfast runs 7am–11.30am on weekdays ([book a table](https://www.sevenrooms.com/reservations/wolseleylondon/)) and 8am–11.30am at weekends.** Early on a weekday is both the easiest table and the best show.
 
 ### Dishoom, Covent Garden
 
@@ -72,7 +79,7 @@ The first of them, opened in **2010** by cousins Shamil and Kavi Thakrar, and a 
 
 The **bacon naan roll** is the dish that turned a dinner restaurant into a breakfast destination — smoked streaky bacon, cream cheese, chilli-tomato jam and herbs in a fresh naan, and there is a double version at £9. Beside it, **akuri** (soft eggs with chilli, coriander and ginger), the Big Bombay, and chai poured from a height.
 
-**Breakfast and lunch barely queue, unlike the evenings**, and any party size can book before 6pm. Eleven sites across the UK now, seven of them in London, with Borough opening — but Covent Garden is the original.
+**Breakfast and lunch barely queue, unlike the evenings**, and any party size can book before 6pm ([book a table](https://www.sevenrooms.com/explore/dishoom/reservations/create/search?venues=dishoombattersea%2Cdishoomcarnaby%2Cdishoomcanarywharf%2Cdishoomcoventgarden%2Cdishoomkensington%2Cdishoomkingscross%2Cdishoomshoreditch%2Cdishoombirmingham%2Cdishoomedinburgh%2Cdishoomglasgow%2Cdishoomleeds%2Cdishoommanche)). Eleven sites across the UK now, seven of them in London, with Borough opening — but Covent Garden is the original.
 
 ![A bacon naan roll from Dishoom, folded open in a takeaway box](../../assets/articles/best-breakfast-brunch-london/dishoom-bacon-naan.jpg)
 ![A Dishoom breakfast plate with bacon, sausages, mushrooms, baked beans, akuri scrambled eggs and buttered buns](../../assets/articles/best-breakfast-brunch-london/dishoom-breakfast.jpg)
@@ -85,7 +92,7 @@ The **40th floor of Heron Tower**, wraparound floor-to-ceiling windows, and **op
 
 The dish it is named for is **two waffles stacked with a confit duck leg and a fried duck egg**, with a jug of mustard maple syrup poured at the table. Around it a tapas-style menu of small plates, a long list of sweet and savoury waffles from duck benedict to caramelised banana, and a **foie gras 'all day breakfast'** that is exactly what it sounds like.
 
-**Breakfast proper runs 6am–11am**, though the kitchen never actually stops. A three-course Sunday roast at that height is the other reason to come. **Book** — the window tables go weeks ahead, and a table away from the glass is a different, lesser experience.
+**Breakfast proper runs 6am–11am**, though the kitchen never actually stops. A three-course Sunday roast at that height is the other reason to come. **Book** ([book a table](https://www.sevenrooms.com/reservations/duckandwaffle)) — the window tables go weeks ahead, and a table away from the glass is a different, lesser experience.
 
 ### Berners Tavern, Fitzrovia
 
@@ -107,7 +114,7 @@ Breakfast runs daily, with brunch on Saturday and a Sunday lunch. Worth booking 
 
 The open bakery is the thing to know about: the bread, cakes and pastries are made in the room and you can watch it happen, which is not true of any other Michelin kitchen doing breakfast here.
 
-The most expensive breakfast in this guide by a distance, and the one most likely to be somebody's expense account. **Book**, and ask for a window table on the park side.
+The most expensive breakfast in this guide by a distance, and the one most likely to be somebody's expense account. **Book** ([book a table](https://www.sevenrooms.com/explore/hidegrounduk/reservations/create/search)), and ask for a window table on the park side.
 
 ### Fallow, St James's
 
@@ -117,7 +124,7 @@ The St James's Market kitchen from two ex-Dinner chefs, built around using the w
 
 The **Fallow Full** — smoked bacon, black pudding, sausage, herbed mushrooms, fried eggs, tomatoes and sourdough — sits alongside a **Black Pudding Benedict**, Turkish eggs, wild mushrooms on toast, and the **corn ribs with kombu seasoning** that came off the dinner menu and stayed. Rye sourdough with Longman's butter, and a granola with London honey.
 
-**52 Haymarket**, a few minutes from Piccadilly Circus. Book — this is a restaurant that serves breakfast rather than a café, and it fills.
+**52 Haymarket**, a few minutes from Piccadilly Circus. Book ([book a table](https://www.sevenrooms.com/explore/fallowstjames/reservations/create/search?venues=roe%2Cfallowstjames%2Cfowl)) — this is a restaurant that serves breakfast rather than a café, and it fills.
 
 ---
 
@@ -197,7 +204,7 @@ The steakhouse group does a full English built out of its own butchery, and it i
 
 **Breakfast for two is £36** and arrives as a shared spread: a **smoked bacon chop**, sausages, black pudding, **short-rib bubble and squeak**, **grilled bone marrow**, trotter baked beans, fried eggs, grilled mushrooms, roast tomatoes, **HP gravy** and unlimited toast. The bone marrow on the same plate as the eggs is the part people remember.
 
-> ⚠️ **Breakfast is not served at every branch, or every day.** Guildhall has run it on weekdays and Air Street on Saturdays, but the schedule moves. Check the specific site before travelling for it.
+> ⚠️ **Breakfast is not served at every branch, or every day.** Guildhall has run it on weekdays and Air Street on Saturdays, but the schedule moves. Check the specific site ([book a table](https://www.opentable.com/booking/experiences-availability?rid=11335&restref=11335&experienceId=682033)) before travelling for it.
 
 ![A Hawksmoor breakfast of fried eggs, black pudding, sausages, mushrooms and bone marrow in a cast iron pan](../../assets/articles/best-breakfast-brunch-london/hawksmoor-breakfast.jpg)
 *Bone marrow and a short rib on the same plate as the eggs. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5652623969), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
@@ -267,7 +274,7 @@ Chef **Fadi Kattan's** Palestinian dining room on Uxbridge Street, and the only 
 
 The brunch is built around a **holy trinity of Arabic coffee, French toast and zahra fritters**. Order the **qalayet bandora** — eggs cooked into a slow, rich tomato sauce — with labaneh under za'atar, the nutty cauliflower fritters with coriander tahini, and the **aubergine fatteh** under garlic yoghurt. The French toast is made with Arabic coffee and finished with cocoa and pistachio.
 
-**Weekends only for brunch, and it books up** — a small room in a residential street rather than a restaurant that can absorb walk-ins. In the MICHELIN Guide.
+**Weekends only for brunch, and it books up ([the venue's site](https://www.akub-restaurant.com/))** — a small room in a residential street rather than a restaurant that can absorb walk-ins. In the MICHELIN Guide.
 
 ### Bistrotheque, Bethnal Green
 
@@ -300,7 +307,7 @@ A pocket-sized Peckham room doing **Taiwanese steamed bao** and small plates, an
 
 The **hash brown bao** is the one to order: crispy rösti, shiitake mushrooms, cheese and chilli bean sauce inside a steamed bun. Beside it a **bacon bao** with a smoked ham hock fritter and plum sauce, **The Drunken Prawn** with pickled mooli and spiced spring onions, a beef brisket bao, and a salmon and onsen egg bao. Order smacked cucumber, sticky edamame and the flaky jiang bing crepe to share, and the **smoked salmon chawanmushi** with ginger and crispy potato if it is on.
 
-**Brunch is weekends only, 11am to 4.30pm.** The room is tiny — book, or go early.
+**Brunch is weekends only, 11am to 4.30pm.** The room is tiny — book ([book a table](https://www.sevenrooms.com/explore/mrbaoryelane/reservations/create/search/)), or go early.
 
 ### Christopher's, Covent Garden
 
@@ -362,7 +369,7 @@ An all-day bistro a minute from Brixton station, in a converted laundry — plan
 
 The **toasted banana bread with honeycomb butter** is the thing regulars order, and the **courgette and cheddar cornbread** with black bean and tomato salsa under a green goddess dressing is the dish that shows what the kitchen can actually do. A full menu of eggs and bigger plates behind both.
 
-**Brunch runs 10am to 3pm on Saturdays**, and the kitchen is open all day the rest of the week. Book at weekends.
+**Brunch runs 10am to 3pm on Saturdays**, and the kitchen is open all day the rest of the week. Book at weekends ([the venue's site](https://www.thelaundrybrixton.com/)).
 
 ### Inis, Fish Island
 
