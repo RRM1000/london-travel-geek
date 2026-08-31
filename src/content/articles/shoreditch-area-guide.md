@@ -112,6 +112,10 @@ Shoreditch has its own share of the commemorative plaques marking where notable 
 ### Brick Lane and the Truman Brewery
 The spine. Curry houses south, markets and food halls in the middle, bagels north.
 
+![The black frontage of Rough Trade East on Dray Walk, its window display advertising new releases](../../assets/articles/shoreditch-area-guide/rough-trade-east.jpg)
+
+*Rough Trade East, on Dray Walk inside the Truman Brewery. A record shop with a stage at the back — in-store gigs are free with an album purchase.*
+
 ### Spitalfields
 Around the covered market hall. Georgian streets — Fournier Street and Princelet Street — built for Huguenot silk weavers and remarkably intact.
 

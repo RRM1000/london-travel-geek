@@ -172,6 +172,8 @@ Built on the site of Frank Matcham's 1885 Paragon Theatre, converted at a cost o
 
 **Tickets are £4.99 Monday to Wednesday** on the standard screens — the cheapest cinema ticket in this guide by a distance, and it is not a stripped-back experience.
 
+![The curved black frontage of the Genesis Cinema in Mile End, its listings board showing the week's films](../../assets/articles/best-cinemas-london/genesis-cinema-mile-end.jpg)
+
 ### Barbican Cinema, City of London
 
 *3 screens · 35mm · £6.50 Mondays*

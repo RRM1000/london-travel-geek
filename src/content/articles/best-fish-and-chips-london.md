@@ -111,7 +111,7 @@ Cod, haddock and rock in a light batter with hand-cut chips, plus the full tradi
 
 **££, walk-in**, though the Spitalfields site takes bookings for larger tables. Eight sources name it — the joint most-cited chippy in the guide.
 
-![The Poppies fish and chip shop in Camden with a branded red taxi parked outside](../../assets/articles/best-fish-and-chips-london/poppies-camden.jpg)
+![The Poppie's Fish & Chips shopfront in Spitalfields, gold lettering on a blue fascia over a navy awning](../../assets/articles/best-fish-and-chips-london/poppies-spitalfields.jpg)
 
 ### The Fryer's Delight, Bloomsbury
 

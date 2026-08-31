@@ -61,6 +61,8 @@ A wall of hand-painted ceramic tablets, each recording **an ordinary person who 
 
 A **Wren church gutted in the Blitz and left as a shell**, now filled with climbing plants and trees growing through the windows. Two minutes from Monument and almost always empty.
 
+![The empty gothic window arches of St Dunstan in the East, overgrown with ivy and open to the sky](../../assets/articles/hidden-london-secret-places/st-dunstan-in-the-east.jpg)
+
 ### London's Roman Amphitheatre
 
 *Free · Guildhall Art Gallery basement*

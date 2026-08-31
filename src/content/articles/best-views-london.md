@@ -130,6 +130,8 @@ Three storeys of planted terraces under a glass shell on top of the Walkie-Talki
 
 The thing almost nobody mentions: **there are paid walk-in slots** at management's discretion, around £11.50 early morning and from £15.50 in the evening. If you have missed the free tickets, that is a cheaper answer than booking the restaurant.
 
+![A Sky Garden sign among dense planting inside the glass shell on top of the Walkie-Talkie](../../assets/articles/best-views-london/sky-garden-sign.jpg)
+
 > ⚠️ One visitor lift is currently out of service and capacity is reduced, so some ticket holders are being turned away at their booked slot. Rebooking is advised.
 
 ### The Lookout at 8 Bishopsgate, City of London

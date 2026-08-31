@@ -61,6 +61,8 @@ The most useful thing to know: **the free contemporary galleries are the quiet o
 
 The national collection of international modern art inside a power station, with the Turbine Hall running its full length. **The tenth-floor viewing level is free** and one of the best views in London.
 
+![The brick chimney and long riverside frontage of Tate Modern, with a banner reading free and open to all](../../assets/articles/best-galleries-london/tate-modern-bankside.jpg)
+
 ### National Gallery, Trafalgar Square
 
 *Free · open late Fridays*

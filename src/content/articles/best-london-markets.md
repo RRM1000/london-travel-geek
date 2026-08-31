@@ -75,6 +75,8 @@ The one everything else is measured against — traders and produce side by side
 
 Horn OK Please and Gujarati Rasoi are the two vegetarian Indian stalls worth crossing London for.
 
+![A cheese stall hung with French flags and stacked with whole cheeses under the iron roof of Borough Market](../../assets/articles/best-london-markets/borough-market-cheese-stall.jpg)
+
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Borough Market Food Tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Borough Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ### Seven Dials Market, Covent Garden
@@ -147,6 +149,8 @@ A short street market off Camden High Street, west of the crowds — produce, st
 
 A covered Victorian market hall with different themes by day: antiques Thursday, vintage Friday, general the rest.
 
+![The signed entrance arcade of Old Spitalfields Market, with traders' units under a glass and steel roof](../../assets/articles/best-london-markets/old-spitalfields-market.jpg)
+
 ### Camden Market, Camden Town
 
 *Every day*
@@ -168,6 +172,8 @@ A covered Victorian market hall with different themes by day: antiques Thursday,
 On Sundays the whole stretch turns into a patchwork of markets — **Backyard Market, Sunday UpMarket, the Boiler House** and the Old Truman Brewery yards — selling vintage clothes, records, antiques and some of the best street food in east London.
 
 Chaotic, crowded and much larger than it looks from the street. Go early if you want the vintage, late if you want the food.
+
+![A pink-painted entrance lit by vertical neon tubes, signed Huge Vintage Clothing Market Downstairs, on Brick Lane](../../assets/articles/best-london-markets/brick-lane-vintage-market.jpg)
 
 ### Alfies Antique Market, Marylebone
 
@@ -202,6 +208,8 @@ Street food, groceries, fashion and cut flowers on the edge of Victoria Park, an
 An **1881 covered market in cream, maroon and green wrought iron**, standing where the Roman forum was. Played Diagon Alley in Harry Potter.
 
 Closed at weekends — it serves the City's weekday trade.
+
+![The cream, maroon and green painted ironwork of Leadenhall Market's arcade, with shopfronts down both sides](../../assets/articles/best-london-markets/leadenhall-market.jpg)
 
 ### The Apple Market, Covent Garden
 

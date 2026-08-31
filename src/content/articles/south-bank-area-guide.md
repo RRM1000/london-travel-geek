@@ -94,10 +94,18 @@ The South Bank has its own share of the commemorative plaques marking where nota
 
 *The Eye behind County Hall. It went up in 1999 as a temporary structure with a five-year permit. Photo: [barry.marsh1944](https://www.flickr.com/photos/126409951@N04/49097008366), [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/).*
 
+![The stacked concrete terraces of the National Theatre, with picnic tables and food kiosks on the terrace below](../../assets/articles/south-bank-area-guide/national-theatre.jpg)
+
+*The National Theatre. Denys Lasdun's 1976 building — the foyers are open to anyone, ticket or not, and there is a bar on every level.*
+
 ## Key streets and micro-districts
 
 ### Queen's Walk (London Eye to Southbank Centre)
 The busiest stretch. Street performers, the skate park at the Undercroft, food stalls and the secondhand book market under Waterloo Bridge.
+
+![The concrete banks and graffiti-covered pillars of the Undercroft skate park beneath the Southbank Centre](../../assets/articles/south-bank-area-guide/southbank-undercroft.jpg)
+
+*The Undercroft. Skated continuously since the early 1970s and formally protected in 2014 after a campaign to build shops in it.*
 
 ![The steel A-frame and capsule of the London Eye seen from directly underneath at dusk](../../assets/articles/south-bank-area-guide/london-eye-from-below.jpg)
 
@@ -109,6 +117,14 @@ The busiest stretch. Street performers, the skate park at the Undercroft, food s
 
 ### Bankside
 Tate Modern, Shakespeare's Globe and the Millennium Bridge. Quieter than the western end and the most attractive part of the walk.
+
+![The white timber and thatch exterior of Shakespeare's Globe on Bankside](../../assets/articles/south-bank-area-guide/shakespeares-globe.jpg)
+
+*Shakespeare's Globe. The thatch is the only one in London — every other roof of its kind was banned after the Great Fire.*
+
+![The Anchor Bankside, a brick riverside pub hung with flower baskets, with barrel tables outside](../../assets/articles/south-bank-area-guide/the-anchor-bankside.jpg)
+
+*The Anchor Bankside. Samuel Pepys watched the Great Fire from somewhere near here; the present building is early 1800s.*
 
 ### Borough and Southwark
 Inland from the river. Borough Market, Southwark Cathedral and the Victorian streets around Stoney Street.
@@ -135,6 +151,10 @@ Behind Waterloo station. Lower Marsh is a genuine local street of independent ca
 | **The Anchor Bankside** | Historic riverside pub | ££ | Terrace over the Thames; touristy but the view is real |
 | **OXO Tower Brasserie** | Modern British | £££ | Eighth-floor river views; the public viewing balcony is free |
 | **Padella** | Handmade pasta | £ | Beside Borough Market; queue-only, and worth it |
+
+![Black gazebos of the Southbank Centre Food Market, a jerk chicken stall in front, beside the Hayward Gallery](../../assets/articles/south-bank-area-guide/southbank-centre-food-market.jpg)
+
+*The Southbank Centre Food Market, behind the Royal Festival Hall. Friday to Sunday, and the cheapest hot food on this stretch of river.*
 
 ## Getting there
 
