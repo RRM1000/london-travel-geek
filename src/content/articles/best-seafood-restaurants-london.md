@@ -340,9 +340,11 @@ The brunch is a shellfish spread rather than eggs: **oysters, prawns, crab and s
 
 *££££ · Green Park · Cited by 2 sources*
 
-The newest room on this list to be picked up by more than one source, and the priciest. Named in both The Handbook's survey and a 2026 video review.
+**The newest room on this list to be picked up by more than one source, and the priciest** — named in both The Handbook's survey and a 2026 video review.
 
-**Book:** [lilibetsrestaurant.com](https://www.lilibetsrestaurant.com/)
+A Mayfair dining room built on British seafood at the luxury end: **native lobster, turbot, caviar service**, plated formally and priced for Green Park. It is the least characterful entry in this guide and the most expensive, which is worth saying plainly.
+
+**££££ and it books ahead.** Two sources and no track record yet — read the citation count as "new and noticed" rather than "proven".
 
 ---
 
