@@ -148,7 +148,7 @@ The **ricotta hotcakes with fresh banana and honeycomb butter (£19)** are the d
 
 The Exmouth Market room that is **more responsible than any other for London's brunch-and-flat-white culture** — New Zealanders opened it in 2010, and the all-day, globally-magpie menu with serious coffee attached became the template half this guide follows.
 
-It is now a **seven-site London group** — Bankside, Canary Wharf, the City, Exmouth Market, Fitzrovia, King's Cross and Vardo in Chelsea — which is worth knowing, because "Caravan" on a list could mean any of them. The Fitzrovia one is inside the **former BBC Radio 1 headquarters**.
+It is now a **seven-site London group**: Bankside, Canary Wharf, the City, Exmouth Market, Fitzrovia, King's Cross and Vardo in Chelsea. The Fitzrovia site is inside the **former BBC Radio 1 headquarters**.
 
 The coffee is roasted at **Lamb Works**, an 8,500 sq ft Victorian warehouse in Islington that also holds the quality-control lab, a coffee school and the bakery. The kitchen treats brunch as a proper exercise rather than a holding pattern until dinner: jalapeño cornbread with a fried egg, chorizo and potato hash, vanilla pancakes with date molasses.
 

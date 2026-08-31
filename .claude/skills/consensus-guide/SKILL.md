@@ -471,6 +471,41 @@ hours — not a full opening-times table.
 these are the rest" means the structure is wrong, not that the reader needs
 telling.
 
+## Booking, and booking links
+
+Booking is the fact a reader acts on, and it belongs in two places.
+
+**A summary near the top**, under the evidence block, splitting the guide by how
+far ahead to book: weeks / a few days / bookable but rarely needed / walk-in
+only. Say what the real cost is at the walk-ins - the queue, and when it clears.
+
+**A link on each entry that takes bookings**, from the sheet's Booking URL.
+
+Five rules, each of which was earned:
+
+1. **CHECK EVERY LINK BEFORE SHIPPING IT.** Of twelve plausible /reservations/
+   and /book/ paths guessed for the breakfast guide, EIGHT returned 404. A dead
+   booking link is worse than a dead article link: the reader was trying to get
+   a table.
+2. **PREFER THE CACHED DEEP LINK.** data/enrichment.json holds real SevenRooms
+   and OpenTable URLs that land on the booking screen. Hand-written values beat
+   enriched ones in write-restaurants-v2.mjs, so a hand-written homepage will
+   silently REPLACE a working deep link. Only override when the cached value is
+   broken - and three were: an HTML entity inside the URL, a link pointing at
+   Bicester Village, and a plain-http homepage.
+3. **STRIP ANY DATE FROM THE QUERY.** A cached link carried ?date=2026-08-15,
+   which goes stale the moment it is written and opens on the wrong day.
+4. **LABEL A HOMEPAGE AS A HOMEPAGE.** "Book a table" on a link that lands on
+   the front page overpromises; call it the venue's site.
+5. **NO BOOKING LINK ON A VENUE THAT TAKES NO BOOKINGS**, even when the sheet
+   holds a group-wide URL. A Book link beside "NO BOOKINGS" is a contradiction
+   the reader has to resolve.
+
+**Booking Lead Time in the sheet describes the VENUE, not the meal.** Hawksmoor's
+dinner tables go weeks out while its breakfast is a question of which branch is
+serving it that day. Write meal-specific timing into the article and into
+Booking Requirements, which is free text; never overwrite the column with it.
+
 ## What every entry must carry
 
 **This is the floor. An entry below it is not a guide entry, whatever its
