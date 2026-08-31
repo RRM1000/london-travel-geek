@@ -60,13 +60,21 @@ Spanish food in London has quietly become one of the city's strongest cuisines, 
 
 *££££ · 6 min from Piccadilly Circus · Michelin star* · Cited by 5 sources
 
-Nieves Barragán Mohacho cooks **her mother's Basque and Galician repertoire downstairs and roasts suckling pig upstairs** in an asador. Two restaurants in one building, and the upstairs is the one to book.
+**Nieves Barragán Mohacho cooks her mother's Basque and Galician repertoire downstairs and roasts suckling pig in a wood oven upstairs** — two restaurants stacked in one building, and you should know which one you have booked.
+
+Downstairs is a counter and a tapas menu; **upstairs is El Asador**, where the **suckling pig** comes out of the wood oven with skin you can hear from the next table, alongside Galician octopus. The pig is the reason to climb the stairs.
+
+**££££, closed Sunday, books weeks ahead — and the upstairs asador books separately.** One of three Spanish restaurants in London holding a Michelin star.
 
 ### Legado, Shoreditch
 
 *££££ · 2 min from Shoreditch High Street · Michelin star* · Cited by 3 sources
 
-Barragán Mohacho's second restaurant, cooking **regional Spanish food rarely seen this seriously** in London.
+**Nieves Barragán Mohacho's second restaurant after Sabor**, cooking regional Spanish food rarely seen this side of the Pyrenees — and it **took a Michelin star within two years**.
+
+The menu works through regions most London Spanish restaurants ignore: Extremadura, Asturias, the Canaries. Expect **suckling lamb**, unfamiliar cuts cooked over fire, and vegetable dishes given the same weight as the meat.
+
+**££££, closed Monday, and it books weeks ahead.** The more adventurous of her two rooms, and the harder to get into.
 
 ---
 
@@ -78,13 +86,21 @@ A grill house built around a coal fire and aged beef. London has two proper ones
 
 *££££ · 3 min from Marble Arch* · Cited by 2 sources
 
-**Aged Galician beef and whole turbot over coals**, from the Donostia team. The txuleta is the order — a rib chop from an old dairy cow, which is a genuinely different thing from a British steak.
+**Aged Galician beef and whole turbot over coals**, from the Donostia team — the Basque **asador** format done properly, which means the fire does everything and the kitchen does very little else.
+
+The **txuleta** is the order: aged Galician beef, cooked over embers, rested and carved at the table, and priced by weight. Whole **turbot** grilled in a basket is the other, and between them they are the whole argument for the restaurant.
+
+**££££ and it books weeks ahead.** Order the beef for two and nothing else; it is enough.
 
 ### Ibai, Farringdon
 
 *££££ · 4 min from Barbican* · Cited by 3 sources
 
-Fire-led Basque cooking and **some of the best beef in the country**, from the same team.
+**Fire-led Basque cooking and some of the best beef in the country**, from the team behind Donostia — a tribute to the original Ibai in San Sebastián, and one of the few London rooms where the grill is genuinely the kitchen.
+
+Aged beef over coals, whole fish, and vegetables given the same treatment — leeks and peppers charred properly rather than passed over the fire for effect. The menu is short because the format does not allow for a long one.
+
+**££££, closed Sunday, and it books weeks ahead.** Small room; the counter seats look straight at the grill.
 
 ---
 
@@ -94,39 +110,53 @@ Fire-led Basque cooking and **some of the best beef in the country**, from the s
 
 *£££ · counters, no bookings* · Cited by 5 sources
 
-The counter format everyone else in London copied. **No bookings** — you put your name down and wait, and you eat at the bar watching it cooked.
+**A counter and nothing else** — no bookings at most sites, no tables, and you eat facing the chefs. The format was imported wholesale from Barcelona's Cal Pep and it changed how London eats tapas.
+
+Order from the specials board rather than the printed menu: **prawns, razor clams, tortilla**, and whatever came in that morning, cooked a foot in front of you. The **jamón** is carved to order and worth the money.
+
+**Walk-in at the original sites — put your name down and drink nearby.** Several London counters now, and Dean Street remains the best of them.
 
 ### José, Bermondsey
 
 *£££ · standing room · no bookings* · Cited by 4 sources
 
-José Pizarro's **standing-room sherry bar** on Bermondsey Street — a handful of stools, a lot of jamón, and no reservations. Jamón, a few plates and a glass of fino comes in well under £25.
+**José Pizarro's standing-room sherry bar on Bermondsey Street** — a handful of stools, a lot of jamón, and **no way to book**.
+
+The format is Andalucian: **sherry by the copita** and small plates to go with it, ordered a couple at a time as you drink rather than all at once. **Jamón ibérico** carved to order, tortilla, prawns and croquetas. It holds about twenty people and feels like forty.
+
+**£££, walk-in only, and full from six.** Go early or late, expect to stand, and treat it as a bar that feeds you rather than a restaurant.
 
 ![Croquetas on a white plate](../../assets/articles/best-spanish-restaurants-london/jose.jpg)
-
 *Twenty covers, standing room only, and no bookings. Jose Pizarro's first place on Bermondsey Street. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/8722630539), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 
 ### Pizarro, Bermondsey
 
 *£££ · a few doors up* · Cited by 3 sources
 
-The **sit-down sibling to José** — same chef, tables instead of stools, and you can book. The pragmatic choice with a group.
+**The sit-down sibling to José a few doors up** — same chef, tables instead of stools, and **you can book**, which is the entire difference and a significant one on a Friday.
+
+Larger plates than the bar: **suckling pig, whole fish, slow-cooked lamb**, with the tapas menu still available if you want it. The cooking is the same hand; the format lets it stretch.
+
+**£££, book a few days ahead.** Choose this one if you want a chair and a conversation, and José if you want the atmosphere.
 
 ![Crab with olives and herbs on a white plate](../../assets/articles/best-spanish-restaurants-london/pizarro.jpg)
-
 *Jose Pizarro's larger Bermondsey Street room, where you can actually book a table. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/53936325626), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 
 ### Salt Yard, Fitzrovia
 
 *£££ · Spanish-Italian* · Cited by 2 sources
 
-**Courgette flowers with goat's cheese and honey** — the dish that launched a hundred imitations, from one of the originals of the London tapas wave.
+**One of the rooms that started London's small-plates habit**, and still doing the dish it became known for.
+
+**Courgette flowers stuffed with goat's cheese and drizzled with honey** is the signature and has been on the menu since the beginning — one of the few genuinely famous small plates in the city. The rest of the menu runs Spanish and Italian charcuterie side by side.
+
+**£££, book a few days ahead.** Fitzrovia, and calmer than the Soho tapas bars at almost any hour.
 
 ![Croquetas topped with sauce on a white plate](../../assets/articles/best-spanish-restaurants-london/salt-yard.jpg)
-
 *Spanish-Italian small plates, and the courgette flower stuffed with goat's cheese has been on since it opened. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4094273174), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-spanish-restaurants-london-tapas" data-gyg-partner-id="WWP7I0R" data-gyg-q="London tapas tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ---
 
@@ -136,67 +166,89 @@ The **sit-down sibling to José** — same chef, tables instead of stools, and y
 
 *£££ · Kingly Court* · Cited by 3 sources
 
-Basque-influenced live-fire cooking from Rob Roy Cameron, who spent years at elBulli — and one of the most talked-about Spanish openings London has had in a decade.
+**Basque live-fire cooking in Soho — everything routed through the grill, including the vegetables**, which is the part most fire restaurants treat as an afterthought and this one does not.
 
-Everything runs off the grill and the wood oven. Book well ahead; the counter is the seat to want.
+Expect **txuleta**, whole fish and charred greens, plus pintxos at the bar if you are not eating a full meal. The room is built around the fire and the smoke is part of the experience.
+
+**£££ and it books weeks ahead.** One of the most-booked openings of recent years; the bar takes walk-ins when the tables are gone.
 
 ### Bar Kroketa, Clerkenwell
 
 *££ · croquettes and little else* · Cited by 3 sources
 
-A bar built almost entirely around the **croqueta** — a dozen or so varieties, made properly, at a counter with a short sherry list.
+**Built around the croqueta and not much else** — a single-dish bar, done properly, which is a braver idea than it sounds.
 
-It is a single-dish restaurant in the way a good ramen shop is, and the discipline is the point.
+**Croquetas** in a rotating list of fillings: jamón, mushroom, salt cod, whatever is on that week. The test of a croqueta is the béchamel — it should be barely holding together inside a crisp shell, and here it is. Sherry and vermouth to go with them.
+
+**££, walk-in.** Cheap, small, and the easiest table in this guide to get.
 
 ### Morito, Exmouth Market
 
 *££ · a counter, no bookings for small tables* · Cited by 4 sources
 
-Sam and Sam Clark's small tapas counter next door to their Moro, and the more useful of the two for a walk-in.
+**The small, loud offshoot of Moro next door** — a dozen seats at the counter and a menu that changes constantly, which is why regulars come back more often than they do to the parent restaurant.
 
-Twenty-odd covers, an all-Spanish drinks list heavy on sherry, and the charm of a place that has been full every night for years without expanding.
+Spanish and North African small plates: **crispy aubergine with honey**, beetroot borani, grilled quail. Order six or seven between two and keep going if it is working. The counter is the seat to want.
+
+**££, walk-in only.** Exmouth Market, and full by half past six every evening. There is a second site in Hackney with the same kitchen.
 
 ### Copita, Soho
 
 *££ · d'Arblay Street* · Cited by 3 sources
 
-A standing-and-perching tapas bar of the kind Soho used to be full of, with a genuinely good Spanish wine list sold by the copita — the small glass the place is named after.
+**A narrow Soho bar built for standing**, small plates, and sherry **by the copita** — the small tulip glass it is named after, and the correct way to drink it.
+
+The menu is a blackboard that changes daily: **jamón, tortilla, croquetas, whatever fish came in**, ordered a plate at a time. High stools and a narrow ledge rather than tables; it is designed to be leaned on.
+
+**£££, walk-in, closed Sunday.** Go at six before it fills, or after nine when the first wave has gone.
 
 ![The dark frontage and pavement tables of Copita on d'Arblay Street](../../assets/articles/best-spanish-restaurants-london/copita.jpg)
-
 *Small plates and sherry, standing up if it is busy. No bookings for most of the room. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/6435938511), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 
 ### Dehesa, Soho
 
 *££ · Carnaby Street* · Cited by 3 sources
 
-Spanish-Italian charcuterie and small plates on a corner site off Carnaby Street, from the same group as Salt Yard. The Ibérico ham and the courgette flower are the two things people order every time.
+**A corner site off Carnaby Street running Spanish and Italian small plates side by side**, which is rarer than it sounds — most kitchens pick one and stay there.
+
+From the Salt Yard group, so the **courgette flowers with goat's cheese and honey** are here too, alongside Spanish charcuterie and Italian pasta on the same menu. **Ibérico pork** is the dish the name points at — a dehesa is the oak pasture the pigs forage in.
+
+**£££, book a few days ahead.** Corner windows onto two streets, which makes it one of the better rooms in Soho for watching it go by.
 
 ![The awnings and pavement seating of Dehesa on Ganton Street](../../assets/articles/best-spanish-restaurants-london/dehesa.jpg)
-
 *Spanish-Italian small plates off Carnaby Street, and one of the better places to eat alone at the counter. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2512459014), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 
 ### Parrillan, King's Cross
 
 *£££ · Coal Drops Yard · grill at the table* · Cited by 2 sources
 
-From the Hart brothers, who run Barrafina — and the gimmick is real: **each table gets its own small charcoal grill** and you cook the skewers yourself.
+**You get your own small charcoal grill at the table and cook the skewers yourself** — a format nothing else in London offers, and considerably more fun than it sounds.
 
-Coal Drops Yard has the terrace; there is a Borough Yards site too.
+Skewers arrive raw and you grill them over the coals in front of you: **prawns, ibérico pork, vegetables**, cooked to your own timing. Sides and pintxos come from the kitchen. From the Barrafina family, so the sourcing is serious even when the format is playful.
+
+**£££, closed Sunday and Monday, and it books weeks ahead.** Coal Drops Yard, on a terrace — the better tables are outside.
 
 ### Lobos, Soho and Borough
 
 *££ · under a railway arch at Borough* · Cited by 3 sources
 
-Meat and tapas, and the Borough site is squeezed under a railway arch in a way that makes it feel much older than it is. The Ibérico presa is the order.
+**A tapas bar built around meat**, tucked under the railway arches at Borough and on a narrow Soho site — the name means wolves and the menu does not argue with it.
+
+**Ibérico presa and pluma** off the grill are the orders, along with jamón carved to order and the **beef rib** that most tables share. The Borough room, under the arches, is the more atmospheric of the two.
+
+**£££, book ahead** at Borough, particularly at weekends. Upstairs seating at both is tight; ask for a downstairs table if you want room.
 
 ### Escocesa, Stoke Newington
 
 *££ · seafood tapas* · Cited by 2 sources
 
-Spanish seafood cooking on Stoke Newington Church Street, sourcing from Scottish waters — hence the name, which is a joke that takes a second.
+**Scottish seafood cooked the Spanish way in Stoke Newington** — the name is the whole idea, and it is a better one than most fusion premises.
 
-The most neighbourhood-feeling restaurant on this page, and the one Londoners are most likely to name.
+Shellfish from Scottish waters treated with Spanish technique: **grilled langoustines, octopus, razor clams**, and whatever came down from the coast that week, with sherry and Spanish wine alongside. Short menu, changing constantly.
+
+**£££, book a few days ahead.** Small neighbourhood room on Stoke Newington Church Street, and busy with locals rather than visitors.
 
 ---
 
