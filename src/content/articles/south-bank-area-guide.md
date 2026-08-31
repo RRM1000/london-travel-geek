@@ -164,6 +164,8 @@ The eastern end, and the stretch that has changed most.
 
 Then **Tower Bridge**, which is free to walk across; the ticket buys the high-level walkways with the glass floor over the traffic and the Victorian engine rooms. **The bridge lifts around 800 times a year and the schedule is published weeks ahead** on its own site — watching it open from the riverside costs nothing and is better than the walkway.
 
+A minute past the southern end of the bridge, on Horselydown Lane, **[Tower Bridge Collective](/articles/best-street-food-london/)** opened in October 2025: thirteen independent kitchens over two floors, open from 8am daily, and by a distance the cheapest good eating anywhere near Tower Bridge. It is the obvious answer to the problem this end of the river has always had, which is that everything with a view charges for it.
+
 ![HMS Belfast moored on the Thames with the City of London's towers rising on the far bank](../../assets/articles/south-bank-area-guide/hms-belfast.jpg)
 
 *HMS Belfast, permanently moored off Tooley Street since 1971. The view across her guns to the City is the best free thing on this stretch.*
@@ -192,6 +194,7 @@ Behind Waterloo station, five minutes off the tourist route and far better value
 | **The Anchor Bankside** | Historic riverside pub | ££ | Terrace over the Thames; touristy but the view is real |
 | **OXO Tower Brasserie** | Modern British | £££ | Eighth-floor river views; the public viewing balcony is free |
 | **Padella** | Handmade pasta | £ | Beside Borough Market; queue-only, and worth it |
+| **Tower Bridge Collective** | Food hall | £ | Thirteen kitchens off Shad Thames, from 8am daily |
 
 ![Black gazebos of the Southbank Centre Food Market, a jerk chicken stall in front, beside the Hayward Gallery](../../assets/articles/south-bank-area-guide/southbank-centre-food-market.jpg)
 

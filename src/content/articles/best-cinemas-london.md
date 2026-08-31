@@ -2,12 +2,8 @@
 title: "London's Best Independent Cinemas: 19 Screens"
 seoTitle: "Best Independent Cinemas London 2026: Repertory & Historic"
 description: "Where the Lumière brothers first showed film in Britain, a 1913 cinema Clapton crowdfunded back, and a Peckham screen where seats are £6.99."
-heroImage: "../../assets/articles/best-cinemas-london/best-cinemas-london.jpg"
-heroImageAlt: "The art deco frontage of the Gaumont State Cinema in Kilburn"
-heroImageCredit: "Nathan"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:Gaumont_State_Cinema_Kilburn_2013-09-21_12.05.52_(by_Nathan).jpg"
-heroImageLicense: "CC BY-SA 2.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
+heroImage: "../../assets/articles/best-cinemas-london/genesis-cinema-mile-end.jpg"
+heroImageAlt: "The curved black frontage of the Genesis Cinema in Mile End, its listings board showing the week's films"
 publishedAt: 2026-08-23
 sites: [london]
 canonicalSite: london
@@ -172,7 +168,9 @@ Built on the site of Frank Matcham's 1885 Paragon Theatre, converted at a cost o
 
 **Tickets are £4.99 Monday to Wednesday** on the standard screens — the cheapest cinema ticket in this guide by a distance, and it is not a stripped-back experience.
 
-![The curved black frontage of the Genesis Cinema in Mile End, its listings board showing the week's films](../../assets/articles/best-cinemas-london/genesis-cinema-mile-end.jpg)
+![The foyer of the Genesis Cinema, with the box office counter, a staircase to the bar and strings of coloured lights overhead](../../assets/articles/best-cinemas-london/genesis-cinema-foyer.jpg)
+
+*Inside the Genesis. Five screens on the site of Frank Matcham's 1885 Paragon Theatre, and the cheapest standard ticket in this guide.*
 
 ### Barbican Cinema, City of London
 
