@@ -1,47 +1,44 @@
 {
   "cuisine": "dim-sum",
   "note": "SCOPE. Dim sum specifically - the Cantonese small-plate tradition, trolley or menu. Chinatown and beyond. General Chinese restaurants live in the chinese topic.",
-  "recorded": "2026-08-30",
+  "recorded": "2026-08-31",
   "sources": [
     {
       "name": "About Time",
       "url": "https://www.abouttimemagazine.co.uk/food/5-of-the-best-dim-sum-spots-in-chinatown/",
       "scope": "dim-sum",
       "names": [
-        "Iona Goulder",
-        "Valentine’s Day 2026: 5 At-Home Ideas"
-      ]
-    },
-    {
-      "name": "Time Out (best 2025)",
-      "url": "https://www.timeout.com/london/news/londons-best-dim-sum-restaurant-has-been-crowned-for-2025-by-time-out-012125",
-      "scope": "dim-sum",
-      "names": [
-        "Advertising",
-        "Baba Tang"
-      ]
+        "Xu",
+        "Plum Valley",
+        "Orient London",
+        "Golden Phoenix",
+        "Dumplings' Legend"
+      ],
+      "quotes": {
+        "Plum Valley": "More than 60 handmade dim sum options, made fresh by seven dedicated dim sum chefs every day",
+        "Dumplings' Legend": "47 variations across steamed, grilled and fried"
+      }
     },
     {
       "name": "The Good Food Guide",
       "url": "https://www.thegoodfoodguide.co.uk/editorial/local-guide/where-to-eat-in-chinatown-a-locals-top-eight",
       "scope": "dim-sum",
       "names": [
-        "The legal bit",
-        "Essential Cookies",
-        "Analytical Cookies"
-      ]
+        "Imperial China",
+        "Dumplings' Legend"
+      ],
+      "note": "SCOPED. The page is a local's guide to Chinatown, not a dim sum ranking: of its eight picks, six are noodles, a bakery, a takeaway and a noodle factory. Only the two it frames as dim sum are recorded - Imperial China, which it singles out for har gow, siu mai, char siu bao and cheung fun, and Dumplings' Legend for xiao long bao. Taking all eight would put a noodle bar into a dim sum count.",
+      "quotes": {
+        "Imperial China": "har gow, siu mai, char siu bao, cheung fun, lo bak go and egg custard tarts"
+      }
     },
     {
       "name": "Civilian Global",
       "url": "https://civilianglobal.com/food-and-drink/the-best-dim-sum-in-london-from-dumpling-legends-in-chinatown-to-duddells/",
       "scope": "dim-sum",
       "names": [
-        "JOURNEYS",
-        "ARTS",
-        "FICTION",
         "The New World",
         "Chuen Cheng Ku",
-        "UPSCALE",
         "Yauatcha",
         "Yauatcha City",
         "BASIC",
@@ -49,7 +46,7 @@
       ]
     },
     {
-      "name": "The Infatuation",
+      "name": "The Infatuation (dim sum guide and cuisine page, merged)",
       "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london",
       "scope": "dim-sum",
       "names": [
@@ -67,11 +64,24 @@
         "Shan Shui Social",
         "Pearl Liang",
         "Dragon Castle",
-        "Plum Valley"
-      ]
+        "Plum Valley",
+        "Dim Sum Duck",
+        "Dayu",
+        "Tao Tao Ju",
+        "Gouqi",
+        "Tea House Chinese",
+        "The Duck and Rice",
+        "My Neighbours The Dumplings",
+        "Shikumen",
+        "Seven Dials Market",
+        "Bang Bang Oriental Foodhall",
+        "Opium Cocktails & Dim Sum Parlour",
+        "Yauatcha City"
+      ],
+      "quotes": {}
     },
     {
-      "name": "Time Out",
+      "name": "Time Out (best dim sum guide, with its 2025 crowning)",
       "url": "https://www.timeout.com/london/food-drink/londons-best-dim-sum-restaurants",
       "scope": "dim-sum",
       "names": [
@@ -85,29 +95,194 @@
         "Panda Dim Sum",
         "Canton Blue",
         "Yi-Ban"
+      ],
+      "quotes": {}
+    },
+    {
+      "name": "Thatsup (the guide to the best dim sum in London)",
+      "url": "https://thatsup.co.uk/london/guide/the-guide-to-the-best-dim-sum-in-london/",
+      "scope": "dim-sum",
+      "names": [
+        "Novikov Restaurant & Bar",
+        "Nanyang Blossom",
+        "Din Tai Fung",
+        "Orient London",
+        "Imperial Treasure London",
+        "Dumplings' Legend",
+        "My Neighbours The Dumplings",
+        "A. Wong",
+        "Yauatcha",
+        "Yauatcha City",
+        "Bun House",
+        "Hakkasan",
+        "Pearl Liang",
+        "Hutong",
+        "Dim Sum & Duck",
+        "Plum Valley",
+        "BaoziInn"
       ]
     },
     {
-      "name": "The Infatuation (dim sum)",
-      "url": "https://www.theinfatuation.com/london/cuisines/dim-sum",
+      "name": "DesignMyNight (best dim sum)",
+      "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london",
       "scope": "dim-sum",
       "names": [
-        "Happy Dim Sum",
-        "Dim Sum Duck",
-        "Dayu",
-        "Royal China",
-        "Tao Tao Ju",
-        "Dim Sum & Duck",
-        "Gouqi",
-        "Tea House Chinese",
-        "The Duck and Rice",
-        "My Neighbours The Dumplings",
-        "Shikumen",
-        "Seven Dials Market",
-        "Bang Bang Oriental Foodhall",
-        "Opium Cocktails & Dim Sum Parlour",
-        "Yauatcha City"
+        "The Soak",
+        "Inamo",
+        "Opium",
+        "Dim T",
+        "CE LA VI",
+        "Shanghai Cocktail Lounge",
+        "Gura Gura",
+        "A. Wong",
+        "Shanghai Me",
+        "Din Tai Fung",
+        "Tattu",
+        "Chinese Cricket Club",
+        "Yauatcha",
+        "Hutong",
+        "Park Chinois"
       ]
+    },
+    {
+      "name": "TOPJAW (the 3 best spots in London's Chinatown, 2024)",
+      "url": "https://www.youtube.com/@topjaw",
+      "scope": "dim-sum",
+      "names": [
+        "Dumplings' Legend",
+        "Bun House"
+      ],
+      "quotes": {
+        "Dumplings' Legend": "the video opens on it",
+        "Bun House": "Cantonese buns"
+      }
+    },
+    {
+      "name": "Amanda & Felix Eats (must try in London's Chinatown, 2024)",
+      "url": "https://www.youtube.com/@AmandaFelixEats",
+      "scope": "dim-sum",
+      "names": [
+        "Dumplings' Legend",
+        "Plum Valley"
+      ]
+    },
+    {
+      "name": "Shu / @dejashu (YouTube 2023 and TikTok 2026, one creator)",
+      "url": "https://www.youtube.com/@dejashu",
+      "scope": "dim-sum",
+      "names": [
+        "Plum Valley",
+        "Dumplings' Legend",
+        "Dim Sum Duck"
+      ],
+      "note": "Same person on both platforms - Shu on YouTube, Shu Lin on TikTok - so counted once. The TikTok post (266k views, Jan 2026) covers Dim Sum Duck's second King's Cross Road site."
+    },
+    {
+      "name": "chef who travels (is this London's best dim sum?, 2023)",
+      "url": "https://www.youtube.com/@chef_who_travels",
+      "scope": "dim-sum",
+      "names": [
+        "Plum Valley"
+      ],
+      "quotes": {
+        "Plum Valley": "could have the best dim sum in London"
+      }
+    },
+    {
+      "name": "Far From Home Adventures (must eat dim sum in Chinatown, 2019)",
+      "url": "https://www.youtube.com/@farfromhomeadventures",
+      "scope": "dim-sum",
+      "names": [
+        "Joy King Lau"
+      ]
+    },
+    {
+      "name": "Taeki Chan (revisiting the best dim sum in Chinatown, 2023)",
+      "url": "https://www.youtube.com/@TaekiChan",
+      "scope": "dim-sum",
+      "names": [
+        "Imperial China"
+      ]
+    },
+    {
+      "name": "Explore with Chrissy (London's best dim sum, 2025)",
+      "url": "https://www.youtube.com/@ExplorewithChrissy",
+      "scope": "dim-sum",
+      "names": [
+        "Phoenix Palace",
+        "4.2 stars"
+      ],
+      "quotes": {
+        "Phoenix Palace": "reviewed as London's best dim sum"
+      }
+    },
+    {
+      "name": "@imhungryinlondon (184k views, Dec 2025)",
+      "url": "https://www.tiktok.com/@imhungryinlondon",
+      "scope": "dim-sum",
+      "names": [
+        "Lido"
+      ],
+      "quotes": {
+        "Lido": "officially my new go to spot for yum cha in chinatown"
+      }
+    },
+    {
+      "name": "@dudu.eats (169k views, Oct 2025)",
+      "url": "https://www.tiktok.com/@dudu.eats",
+      "scope": "dim-sum",
+      "names": [
+        "Royal China"
+      ]
+    },
+    {
+      "name": "@munchies_with_sazzle (20k views, Jun 2026)",
+      "url": "https://www.tiktok.com/@munchies_with_sazzle",
+      "scope": "dim-sum",
+      "names": [
+        "Dim Sum Kitchen"
+      ],
+      "quotes": {
+        "Dim Sum Kitchen": "ungatekeeping the dim sum spot everyone should be going to"
+      }
+    },
+    {
+      "name": "@annie_grieve (9k views, Jun 2026)",
+      "url": "https://www.tiktok.com/@annie_grieve",
+      "scope": "dim-sum",
+      "names": [
+        "Gold Mine"
+      ],
+      "quotes": {
+        "Gold Mine": "come for the dim sum - stay for number 59"
+      }
+    },
+    {
+      "name": "@nessnoms (Aug 2026)",
+      "url": "https://www.tiktok.com/@nessnoms",
+      "scope": "dim-sum",
+      "names": [
+        "Gold Mine"
+      ],
+      "quotes": {
+        "Gold Mine": "authentic dim sum in London"
+      }
+    },
+    {
+      "name": "The Times - Giles Coren's Real Stars (Jun 2026)",
+      "url": "https://www.thetimes.co.uk/",
+      "scope": "dim-sum",
+      "names": [
+        "JM Oriental"
+      ],
+      "quotes": {
+        "JM Oriental": "the jewel in Colindale's crown - Coren asks whether it is the best dim sum in London"
+      }
     }
-  ]
+  ],
+  "declined": {
+    "https://www.tiktok.com/@crystxl_eats": "Joy King Lau. DISCLOSED AS PAID - the caption reads '*ad/invite'. A hosted meal is the venue's marketing, not an independent citation.",
+    "https://www.tiktok.com/@eatingwithtod": "Royal China, 622k views. DISCLOSED AS PAID - 'ad', an Uber Eats partnership with a discount code. Not counted despite the reach.",
+    "https://www.tiktok.com/@ryan_ewhare": "Mr Dumpling, Goldhawk Road. OUT OF SCOPE - a dumpling review, not Cantonese dim sum. Same rule that keeps the noodle bars out."
+  }
 }

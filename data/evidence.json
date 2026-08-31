@@ -14169,11 +14169,12 @@
   "opium": {
     "name": "Opium",
     "topics": [
-      "bars"
+      "bars",
+      "dim-sum"
     ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
     "hasAward": true,
     "byTopic": {
       "bars": {
@@ -14181,6 +14182,12 @@
         "tierSpread": "A1",
         "tierCount": 1,
         "hasAward": true
+      },
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -14188,6 +14195,11 @@
         "tier": "A",
         "source": "The World's 50 Best",
         "url": "https://www.theworlds50best.com/bars/list/1-50"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
       }
     ]
   },
@@ -19639,14 +19651,21 @@
   "brunswickeast": {
     "name": "Brunswick East",
     "topics": [
-      "breakfast-brunch"
+      "breakfast-brunch",
+      "coffee"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "coffee": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -19658,6 +19677,11 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
+      },
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
       }
     ]
   },
@@ -19774,10 +19798,11 @@
     "name": "Esters",
     "topics": [
       "breakfast-brunch",
-      "british"
+      "british",
+      "coffee"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -19792,6 +19817,12 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -19804,6 +19835,11 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
+      },
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
       }
     ]
   },
@@ -20726,11 +20762,12 @@
     "name": "The Apple Blue",
     "topics": [
       "breakfast-brunch",
-      "british"
+      "british",
+      "coffee"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "breakfast-brunch": {
@@ -20744,6 +20781,12 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -20751,6 +20794,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-brunch-london"
+      },
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
       }
     ]
   },
@@ -31126,6 +31174,7 @@
     "topics": [
       "british",
       "chinese",
+      "dim-sum",
       "general"
     ],
     "sourceCount": 7,
@@ -31144,6 +31193,12 @@
         "tierSpread": "A1 B3",
         "tierCount": 2,
         "hasAward": true
+      },
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       },
       "general": {
         "sourceCount": 3,
@@ -31182,7 +31237,7 @@
       {
         "tier": "B",
         "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
+        "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
       },
       {
         "tier": "C",
@@ -35128,9 +35183,9 @@
       "dim-sum",
       "general"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -35146,9 +35201,9 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       },
       "general": {
@@ -35173,6 +35228,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@dejashu",
+        "url": "https://www.youtube.com/@dejashu"
       }
     ]
   },
@@ -45973,10 +46033,11 @@
     "topics": [
       "cheap-eats",
       "chinese",
+      "dim-sum",
       "general"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B3 C1 D1",
+    "sourceCount": 6,
+    "tierSpread": "B3 C1 D2",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -45989,6 +46050,12 @@
       "chinese": {
         "sourceCount": 3,
         "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -46020,6 +46087,12 @@
         "tier": "C",
         "source": "So What's The Sitch",
         "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw",
+        "quote": "Cantonese buns"
       },
       {
         "tier": "D",
@@ -47817,21 +47890,33 @@
   "dumplingslegend": {
     "name": "Dumplings' Legend",
     "topics": [
-      "chinese"
+      "chinese",
+      "dim-sum"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 7,
+    "tierSpread": "A1 B2 C3 D1",
+    "tierCount": 4,
+    "hasAward": true,
     "byTopic": {
       "chinese": {
         "sourceCount": 2,
         "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
+      },
+      "dim-sum": {
+        "sourceCount": 5,
+        "tierSpread": "A1 C3 D1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/local-guide/where-to-eat-in-chinatown-a-locals-top-eight"
+      },
       {
         "tier": "B",
         "source": "Eater London",
@@ -47841,6 +47926,28 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown"
+      },
+      {
+        "tier": "C",
+        "source": "About Time",
+        "url": "https://www.abouttimemagazine.co.uk/food/5-of-the-best-dim-sum-spots-in-chinatown/",
+        "quote": "47 variations across steamed, grilled and fried"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@AmandaFelixEats",
+        "url": "https://www.youtube.com/@AmandaFelixEats"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@dejashu",
+        "url": "https://www.youtube.com/@dejashu"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw",
+        "quote": "the video opens on it"
       }
     ]
   },
@@ -48122,9 +48229,9 @@
       "chinese",
       "dim-sum"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "chinese": {
@@ -48134,9 +48241,9 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -48151,6 +48258,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/food-drink/londons-best-dim-sum-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "About Time",
+        "url": "https://www.abouttimemagazine.co.uk/food/5-of-the-best-dim-sum-spots-in-chinatown/"
       }
     ]
   },
@@ -48338,9 +48450,9 @@
       "chinese",
       "dim-sum"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B4",
-    "tierCount": 1,
+    "sourceCount": 8,
+    "tierSpread": "B4 C4",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "chinese": {
@@ -48350,9 +48462,9 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 5,
+        "tierSpread": "B1 C4",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -48377,6 +48489,28 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
+      },
+      {
+        "tier": "C",
+        "source": "About Time",
+        "url": "https://www.abouttimemagazine.co.uk/food/5-of-the-best-dim-sum-spots-in-chinatown/",
+        "quote": "More than 60 handmade dim sum options, made fresh by seven dedicated dim sum chefs every day"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@AmandaFelixEats",
+        "url": "https://www.youtube.com/@AmandaFelixEats"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@dejashu",
+        "url": "https://www.youtube.com/@dejashu"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@chef_who_travels",
+        "url": "https://www.youtube.com/@chef_who_travels",
+        "quote": "could have the best dim sum in London"
       }
     ]
   },
@@ -48772,9 +48906,9 @@
       "chinese",
       "dim-sum"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "chinese": {
@@ -48784,9 +48918,9 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -48795,6 +48929,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
+      },
+      {
+        "tier": "C",
+        "source": "tiktok.com/@dudu.eats",
+        "url": "https://www.tiktok.com/@dudu.eats"
       }
     ]
   },
@@ -48915,9 +49054,9 @@
       "chinese",
       "dim-sum"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "chinese": {
@@ -48927,9 +49066,9 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -48943,6 +49082,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
+      },
+      {
+        "tier": "C",
+        "source": "About Time",
+        "url": "https://www.abouttimemagazine.co.uk/food/5-of-the-best-dim-sum-spots-in-chinatown/"
       }
     ]
   },
@@ -48952,8 +49096,8 @@
       "chinese",
       "dim-sum"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
+    "sourceCount": 3,
+    "tierSpread": "B3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
@@ -48964,8 +49108,8 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -48980,6 +49124,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
       }
     ]
   },
@@ -48989,9 +49138,9 @@
       "chinese",
       "dim-sum"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "chinese": {
@@ -49001,9 +49150,9 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -49012,6 +49161,18 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
+      },
+      {
+        "tier": "C",
+        "source": "tiktok.com/@annie_grieve",
+        "url": "https://www.tiktok.com/@annie_grieve",
+        "quote": "come for the dim sum - stay for number 59"
+      },
+      {
+        "tier": "C",
+        "source": "tiktok.com/@nessnoms",
+        "url": "https://www.tiktok.com/@nessnoms",
+        "quote": "authentic dim sum in London"
       }
     ]
   },
@@ -50045,8 +50206,8 @@
       "chinese",
       "dim-sum"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -50057,8 +50218,8 @@
         "hasAward": false
       },
       "dim-sum": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
         "tierCount": 2,
         "hasAward": false
       }
@@ -50073,6 +50234,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
       },
       {
         "tier": "C",
@@ -50237,14 +50403,21 @@
   "parkchinois": {
     "name": "Park Chinois",
     "topics": [
-      "chinese"
+      "chinese",
+      "dim-sum"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "chinese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "dim-sum": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -50256,20 +50429,32 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
       }
     ]
   },
   "jmoriental": {
     "name": "JM Oriental",
     "topics": [
-      "chinese"
+      "chinese",
+      "dim-sum"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "chinese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "dim-sum": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -50281,6 +50466,12 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+      },
+      {
+        "tier": "B",
+        "source": "The Times",
+        "url": "https://www.thetimes.co.uk/",
+        "quote": "the jewel in Colindale's crown - Coren asks whether it is the best dim sum in London"
       }
     ]
   },
@@ -50392,7 +50583,7 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+        "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
       }
     ]
   },
@@ -50749,14 +50940,21 @@
   "hutong": {
     "name": "Hutong",
     "topics": [
-      "chinese"
+      "chinese",
+      "dim-sum"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "chinese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "dim-sum": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -50768,6 +50966,11 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
       }
     ]
   },
@@ -52951,14 +53154,14 @@
     "topics": [
       "coffee"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "coffee": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
+        "sourceCount": 5,
+        "tierSpread": "B3 C2",
         "tierCount": 2,
         "hasAward": false
       }
@@ -52973,6 +53176,16 @@
         "tier": "B",
         "source": "FLTR Magazine",
         "url": "https://fltrmagazine.com/2026/05/11/best-specialty-coffee-shops-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/news/11-london-coffee-shops-have-been-named-the-best-in-the-uk-for-2026-including-catalyst-prufrock-carbon-kopi-and-more-012026"
+      },
+      {
+        "tier": "C",
+        "source": "Brew Atlas",
+        "url": "https://brewatlas.co/london"
       },
       {
         "tier": "C",
@@ -53006,20 +53219,20 @@
       }
     ]
   },
-  "darkartscoffee": {
-    "name": "Dark Arts Coffee",
+  "darkartscoffeeroasters": {
+    "name": "Dark Arts Coffee Roasters",
     "topics": [
       "coffee"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -53028,6 +53241,16 @@
         "tier": "B",
         "source": "Roadbook",
         "url": "https://roadbook.com/london/city-guide/best-coffee-shops-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Batch Coffee",
+        "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@bykayse",
+        "url": "https://www.youtube.com/@bykayse"
       }
     ]
   },
@@ -53086,14 +53309,14 @@
     "topics": [
       "coffee"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
+    "sourceCount": 5,
+    "tierSpread": "B2 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "coffee": {
-        "sourceCount": 4,
-        "tierSpread": "B2 C2",
+        "sourceCount": 5,
+        "tierSpread": "B2 C3",
         "tierCount": 2,
         "hasAward": false
       }
@@ -53118,6 +53341,12 @@
         "tier": "C",
         "source": "Coffee the Canvas",
         "url": "https://coffeethecanvas.com/best-coffee-shops-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@jameshoffmann",
+        "url": "https://www.youtube.com/@jameshoffmann",
+        "quote": "founded 1978"
       }
     ]
   },
@@ -53213,15 +53442,15 @@
       "italian",
       "late-night"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B4 C1",
+    "sourceCount": 7,
+    "tierSpread": "B4 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
         "hasAward": false
       },
       "italian": {
@@ -53260,6 +53489,17 @@
       },
       {
         "tier": "C",
+        "source": "youtube.com/@jameshoffmann",
+        "url": "https://www.youtube.com/@jameshoffmann",
+        "quote": "founded 1949"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@wholebeanonly",
+        "url": "https://www.youtube.com/@wholebeanonly"
+      },
+      {
+        "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/late-night-restaurants-london/"
       }
@@ -53270,15 +53510,15 @@
     "topics": [
       "coffee"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -53287,6 +53527,12 @@
         "tier": "B",
         "source": "Roadbook",
         "url": "https://roadbook.com/london/city-guide/best-coffee-shops-london/"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@jameshoffmann",
+        "url": "https://www.youtube.com/@jameshoffmann",
+        "quote": "founded 1887"
       }
     ]
   },
@@ -53420,23 +53666,34 @@
     "topics": [
       "coffee"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 C1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
       {
+        "tier": "A",
+        "source": "The World's 100 Best Coffee Shops",
+        "url": "https://theworlds100bestcoffeeshops.com/europe",
+        "quote": "#12 in Europe - the highest-placed UK cafe"
+      },
+      {
         "tier": "B",
         "source": "FLTR Magazine",
         "url": "https://fltrmagazine.com/2026/05/11/best-specialty-coffee-shops-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Brew Atlas",
+        "url": "https://brewatlas.co/london"
       }
     ]
   },
@@ -53475,15 +53732,15 @@
     "topics": [
       "coffee"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -53492,6 +53749,16 @@
         "tier": "B",
         "source": "FLTR Magazine",
         "url": "https://fltrmagazine.com/2026/05/11/best-specialty-coffee-shops-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@bykayse",
+        "url": "https://www.youtube.com/@bykayse"
       }
     ]
   },
@@ -53525,14 +53792,14 @@
     "topics": [
       "coffee"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -53542,23 +53809,28 @@
         "tier": "B",
         "source": "FLTR Magazine",
         "url": "https://fltrmagazine.com/2026/05/11/best-specialty-coffee-shops-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/news/11-london-coffee-shops-have-been-named-the-best-in-the-uk-for-2026-including-catalyst-prufrock-carbon-kopi-and-more-012026"
       }
     ]
   },
-  "specialguestscoffee": {
-    "name": "Special Guests Coffee",
+  "specialguests": {
+    "name": "Special Guests",
     "topics": [
       "coffee"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -53567,6 +53839,22 @@
         "tier": "B",
         "source": "FLTR Magazine",
         "url": "https://fltrmagazine.com/2026/05/11/best-specialty-coffee-shops-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/news/11-london-coffee-shops-have-been-named-the-best-in-the-uk-for-2026-including-catalyst-prufrock-carbon-kopi-and-more-012026"
+      },
+      {
+        "tier": "C",
+        "source": "Brew Atlas",
+        "url": "https://brewatlas.co/london"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@wholebeanonly",
+        "url": "https://www.youtube.com/@wholebeanonly",
+        "quote": "rare Panama Geisha - named in all three films"
       }
     ]
   },
@@ -53645,63 +53933,8 @@
       }
     ]
   },
-  "discovermorefromfltrmagazine": {
-    "name": "Discover more from FLTR Magazine",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "FLTR Magazine",
-        "url": "https://fltrmagazine.com/2026/05/11/best-specialty-coffee-shops-london/"
-      }
-    ]
-  },
   "calico": {
     "name": "Calico",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/11-london-coffee-shops-have-been-named-the-best-in-the-uk-for-2026-including-catalyst-prufrock-carbon-kopi-and-more-012026"
-      },
-      {
-        "tier": "C",
-        "source": "Brew Atlas",
-        "url": "https://brewatlas.co/london"
-      }
-    ]
-  },
-  "prufrock": {
-    "name": "Prufrock",
     "topics": [
       "coffee"
     ],
@@ -53735,31 +53968,6 @@
     "topics": [
       "coffee"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Brew Atlas",
-        "url": "https://brewatlas.co/london"
-      }
-    ]
-  },
-  "specialguests": {
-    "name": "Special Guests",
-    "topics": [
-      "coffee"
-    ],
     "sourceCount": 2,
     "tierSpread": "B1 C1",
     "tierCount": 2,
@@ -53790,14 +53998,14 @@
     "topics": [
       "coffee"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -53807,6 +54015,11 @@
         "tier": "C",
         "source": "Brew Atlas",
         "url": "https://brewatlas.co/london"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@wholebeanonly",
+        "url": "https://www.youtube.com/@wholebeanonly"
       }
     ]
   },
@@ -53837,31 +54050,6 @@
   },
   "pouroverandfiltercoffee": {
     "name": "Pour-Over & Filter Coffee",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Brew Atlas",
-        "url": "https://brewatlas.co/london"
-      }
-    ]
-  },
-  "rosslyn": {
-    "name": "Rosslyn",
     "topics": [
       "coffee"
     ],
@@ -53935,94 +54123,19 @@
       }
     ]
   },
-  "discover": {
-    "name": "Discover",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Brew Atlas",
-        "url": "https://brewatlas.co/london"
-      }
-    ]
-  },
-  "14november2025": {
-    "name": "14 November 2025",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Double Skinny Macchiato",
-        "url": "https://www.doubleskinnymacchiato.com/2017/09/top-100-best-london-speciality-coffee-shops-guide-map.html"
-      }
-    ]
-  },
-  "closedlondoncoffeeshops": {
-    "name": "Closed London Coffee Shops",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Double Skinny Macchiato",
-        "url": "https://www.doubleskinnymacchiato.com/2017/09/top-100-best-london-speciality-coffee-shops-guide-map.html"
-      }
-    ]
-  },
   "kaffeine": {
     "name": "Kaffeine",
     "topics": [
       "coffee"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -54032,6 +54145,11 @@
         "tier": "C",
         "source": "Coffee the Canvas",
         "url": "https://coffeethecanvas.com/best-coffee-shops-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@loveandlondon",
+        "url": "https://www.youtube.com/@loveandlondon"
       }
     ]
   },
@@ -54380,15 +54498,15 @@
     "topics": [
       "coffee"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -54397,36 +54515,16 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/news/11-london-coffee-shops-have-been-named-the-best-in-the-uk-for-2026-including-catalyst-prufrock-carbon-kopi-and-more-012026"
+      },
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
       }
     ]
   },
   "specialtycafetiere": {
     "name": "Specialty Cafetiere",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/11-london-coffee-shops-have-been-named-the-best-in-the-uk-for-2026-including-catalyst-prufrock-carbon-kopi-and-more-012026"
-      }
-    ]
-  },
-  "nostos": {
-    "name": "Nostos",
     "topics": [
       "coffee"
     ],
@@ -54522,56 +54620,6 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/news/11-london-coffee-shops-have-been-named-the-best-in-the-uk-for-2026-including-catalyst-prufrock-carbon-kopi-and-more-012026"
-      }
-    ]
-  },
-  "formative": {
-    "name": "Formative",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/11-london-coffee-shops-have-been-named-the-best-in-the-uk-for-2026-including-catalyst-prufrock-carbon-kopi-and-more-012026"
-      }
-    ]
-  },
-  "tomstoplondoncoffeeroasters": {
-    "name": "Tom’s Top London Coffee Roasters",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Batch Coffee",
-        "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
       }
     ]
   },
@@ -54677,31 +54725,6 @@
   },
   "missioncoffeeworks": {
     "name": "Mission Coffee Works",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Batch Coffee",
-        "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
-      }
-    ]
-  },
-  "darkartscoffeeroasters": {
-    "name": "Dark Arts Coffee Roasters",
     "topics": [
       "coffee"
     ],
@@ -55280,14 +55303,14 @@
     "topics": [
       "coffee"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -55297,11 +55320,73 @@
         "tier": "C",
         "source": "Batch Coffee",
         "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@loveandlondon",
+        "url": "https://www.youtube.com/@loveandlondon"
       }
     ]
   },
-  "41comments": {
-    "name": "41 Comments",
+  "moonstruckcafe": {
+    "name": "Moonstruck Cafe",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 C1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 2,
+        "tierSpread": "A1 C1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The World's 100 Best Coffee Shops",
+        "url": "https://theworlds100bestcoffeeshops.com/europe",
+        "quote": "#18 in Europe - listed at Nine Elms"
+      },
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
+      }
+    ]
+  },
+  "omacoffeeroaster": {
+    "name": "Oma Coffee Roaster",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The World's 100 Best Coffee Shops",
+        "url": "https://theworlds100bestcoffeeshops.com/europe",
+        "quote": "#94 in Europe - listed as central London"
+      }
+    ]
+  },
+  "fourboroughs": {
+    "name": "Four Boroughs",
     "topics": [
       "coffee"
     ],
@@ -55320,21 +55405,452 @@
     "sources": [
       {
         "tier": "C",
-        "source": "Batch Coffee",
-        "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
       }
     ]
   },
-  "support": {
-    "name": "Support",
+  "doorcoffeebar": {
+    "name": "Door - Coffee Bar",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
+      }
+    ]
+  },
+  "cutthemustard": {
+    "name": "Cut The Mustard",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
+      }
+    ]
+  },
+  "milknomilk": {
+    "name": "Milk No Milk",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
+      }
+    ]
+  },
+  "gramndegrees": {
+    "name": "Gram'n Degrees",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
+      }
+    ]
+  },
+  "knockboxcoffee": {
+    "name": "Knockbox Coffee",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
+      }
+    ]
+  },
+  "finkschats": {
+    "name": "Fink's Chats",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
+      }
+    ]
+  },
+  "potterandreid": {
+    "name": "Potter & Reid",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
+      }
+    ]
+  },
+  "clarnicocoffee": {
+    "name": "Clarnico Coffee",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
+      }
+    ]
+  },
+  "commonsatoldstreetworks": {
+    "name": "Commons at Old Street Works",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
+      }
+    ]
+  },
+  "lodestarcoffee": {
+    "name": "Lodestar Coffee",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
+      }
+    ]
+  },
+  "profilecoffee": {
+    "name": "Profile Coffee",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
+      }
+    ]
+  },
+  "beehive": {
+    "name": "The Beehive",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
+      }
+    ]
+  },
+  "backtoours": {
+    "name": "Back to Ours",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London's Best Coffee",
+        "url": "https://www.londonbestcoffee.com/"
+      }
+    ]
+  },
+  "hrhiggins": {
+    "name": "HR Higgins",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "youtube.com/@jameshoffmann",
+        "url": "https://www.youtube.com/@jameshoffmann",
+        "quote": "founded 1942"
+      }
+    ]
+  },
+  "omotesandokoffee": {
+    "name": "Omotesando Koffee",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "youtube.com/@wholebeanonly",
+        "url": "https://www.youtube.com/@wholebeanonly"
+      }
+    ]
+  },
+  "watchhouse": {
+    "name": "WatchHouse",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "youtube.com/@wholebeanonly",
+        "url": "https://www.youtube.com/@wholebeanonly"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@loveandlondon",
+        "url": "https://www.youtube.com/@loveandlondon"
+      }
+    ]
+  },
+  "towpathcafe": {
+    "name": "Towpath Cafe",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "youtube.com/@wholebeanonly",
+        "url": "https://www.youtube.com/@wholebeanonly"
+      }
+    ]
+  },
+  "jolene": {
+    "name": "Jolene",
     "topics": [
       "coffee",
-      "galleries",
-      "live-music"
+      "dessert",
+      "new-openings"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "coffee": {
@@ -55343,39 +55859,374 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "galleries": {
+      "dessert": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/news/the-27-best-bakeries-in-london-according-to-a-luxury-travel-magazine-050825"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@wholebeanonly",
+        "url": "https://www.youtube.com/@wholebeanonly"
+      },
+      {
+        "tier": "C",
+        "source": "Critmas",
+        "url": "https://critmas.substack.com/p/16-bakery-queues"
+      }
+    ]
+  },
+  "batchbaby": {
+    "name": "Batch Baby",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "youtube.com/@bykayse",
+        "url": "https://www.youtube.com/@bykayse"
+      }
+    ]
+  },
+  "ngopiuk": {
+    "name": "Ngopi UK",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "youtube.com/@bykayse",
+        "url": "https://www.youtube.com/@bykayse"
+      }
+    ]
+  },
+  "qimacafe": {
+    "name": "Qima Cafe",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "youtube.com/@bykayse",
+        "url": "https://www.youtube.com/@bykayse"
+      }
+    ]
+  },
+  "flatwhite": {
+    "name": "Flat White",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "youtube.com/@loveandlondon",
+        "url": "https://www.youtube.com/@loveandlondon"
+      }
+    ]
+  },
+  "hackneycoffeecompany": {
+    "name": "Hackney Coffee Company",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "youtube.com/@loveandlondon",
+        "url": "https://www.youtube.com/@loveandlondon"
+      }
+    ]
+  },
+  "saddlecafe": {
+    "name": "Saddle Cafe",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@halalfoodlondon",
+        "url": "https://www.tiktok.com/@halalfoodlondon",
+        "quote": "#1"
+      }
+    ]
+  },
+  "arabica": {
+    "name": "Arabica",
+    "topics": [
+      "coffee",
+      "middle-eastern"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       },
-      "live-music": {
+      "middle-eastern": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
       {
-        "tier": "C",
-        "source": "Batch Coffee",
-        "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-middle-eastern-restaurants-london/"
       },
       {
         "tier": "C",
-        "source": "Let Me Show You London",
-        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
+        "source": "tiktok.com/@halalfoodlondon",
+        "url": "https://www.tiktok.com/@halalfoodlondon",
+        "quote": "#2"
+      }
+    ]
+  },
+  "shotlondon": {
+    "name": "Shot London",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@halalfoodlondon",
+        "url": "https://www.tiktok.com/@halalfoodlondon",
+        "quote": "#3"
+      }
+    ]
+  },
+  "halfmillion": {
+    "name": "Half Million",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@halalfoodlondon",
+        "url": "https://www.tiktok.com/@halalfoodlondon",
+        "quote": "#4"
+      }
+    ]
+  },
+  "koub": {
+    "name": "Koub",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@halalfoodlondon",
+        "url": "https://www.tiktok.com/@halalfoodlondon",
+        "quote": "#5"
+      }
+    ]
+  },
+  "queenswoodcafe": {
+    "name": "Queen's Wood Cafe",
+    "topics": [
+      "coffee"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@curatedadventuring",
+        "url": "https://www.tiktok.com/@curatedadventuring",
+        "quote": "the cosiest fairytale cafe in London - Highgate woodland"
+      }
+    ]
+  },
+  "fredbakery": {
+    "name": "Fred Bakery",
+    "topics": [
+      "coffee",
+      "dessert"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 C1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "dessert": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-bakeries-in-london"
       },
       {
         "tier": "C",
-        "source": "Pirate",
-        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+        "source": "tiktok.com/@jessicaeabb",
+        "url": "https://www.tiktok.com/@jessicaeabb"
       }
     ]
   },
-  "quickenquiry": {
-    "name": "Quick Enquiry",
+  "bloomsyard": {
+    "name": "Blooms Yard",
     "topics": [
       "coffee"
     ],
@@ -55394,13 +56245,14 @@
     "sources": [
       {
         "tier": "C",
-        "source": "Batch Coffee",
-        "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
+        "source": "tiktok.com/@thecuriouspixie",
+        "url": "https://www.tiktok.com/@thecuriouspixie",
+        "quote": "free workspace"
       }
     ]
   },
-  "tomssecretcodeclub": {
-    "name": "Tom’s Secret Code Club",
+  "studiocoffee": {
+    "name": "Studio Coffee",
     "topics": [
       "coffee"
     ],
@@ -55419,13 +56271,14 @@
     "sources": [
       {
         "tier": "C",
-        "source": "Batch Coffee",
-        "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
+        "source": "tiktok.com/@simplyrasha",
+        "url": "https://www.tiktok.com/@simplyrasha",
+        "quote": "open late"
       }
     ]
   },
-  "batchcoffeesubscriptiongiftpackage": {
-    "name": "Batch Coffee Subscription Gift Package",
+  "qinwan": {
+    "name": "Qinwan",
     "topics": [
       "coffee"
     ],
@@ -55444,13 +56297,52 @@
     "sources": [
       {
         "tier": "C",
-        "source": "Batch Coffee",
-        "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
+        "source": "tiktok.com/@outwithnadia",
+        "url": "https://www.tiktok.com/@outwithnadia",
+        "quote": "at The Chancery Rosewood"
       }
     ]
   },
-  "decafcoffeesubscription": {
-    "name": "Decaf Coffee Subscription",
+  "cupofjoy": {
+    "name": "Cup of Joy",
+    "topics": [
+      "coffee",
+      "new-openings"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/londons-new-restaurant-openings"
+      },
+      {
+        "tier": "C",
+        "source": "tiktok.com/@sophiapatriciamai",
+        "url": "https://www.tiktok.com/@sophiapatriciamai",
+        "quote": "Istanbul favourite - first UK cafe on Blandford Street"
+      }
+    ]
+  },
+  "incomingcoffee": {
+    "name": "Incoming Coffee",
     "topics": [
       "coffee"
     ],
@@ -55469,233 +56361,9 @@
     "sources": [
       {
         "tier": "C",
-        "source": "Batch Coffee",
-        "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
-      }
-    ]
-  },
-  "decafcoffeesubscriptiongiftpackage": {
-    "name": "DECAF Coffee Subscription Gift Package",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Batch Coffee",
-        "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
-      }
-    ]
-  },
-  "batchespressoblendsubscription": {
-    "name": "Batch Espresso Blend Subscription",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Batch Coffee",
-        "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
-      }
-    ]
-  },
-  "jamesbellis": {
-    "name": "James Bellis",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Balance Coffee",
-        "url": "https://balancecoffee.co.uk/blogs/blog/best-coffee-roasters-london"
-      }
-    ]
-  },
-  "qualityofbeans": {
-    "name": "Quality of Beans",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Balance Coffee",
-        "url": "https://balancecoffee.co.uk/blogs/blog/best-coffee-roasters-london"
-      }
-    ]
-  },
-  "freshnessofthebeans": {
-    "name": "Freshness of the Beans",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Balance Coffee",
-        "url": "https://balancecoffee.co.uk/blogs/blog/best-coffee-roasters-london"
-      }
-    ]
-  },
-  "coffeevarieties": {
-    "name": "Coffee Varieties",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Balance Coffee",
-        "url": "https://balancecoffee.co.uk/blogs/blog/best-coffee-roasters-london"
-      }
-    ]
-  },
-  "sustainablesourcing": {
-    "name": "Sustainable Sourcing",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Balance Coffee",
-        "url": "https://balancecoffee.co.uk/blogs/blog/best-coffee-roasters-london"
-      }
-    ]
-  },
-  "fivebestcoffeeroasterslondon": {
-    "name": "Five best coffee roasters London",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Balance Coffee",
-        "url": "https://balancecoffee.co.uk/blogs/blog/best-coffee-roasters-london"
-      }
-    ]
-  },
-  "continuereading": {
-    "name": "Continue reading",
-    "topics": [
-      "coffee"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "coffee": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Balance Coffee",
-        "url": "https://balancecoffee.co.uk/blogs/blog/best-coffee-roasters-london"
+        "source": "tiktok.com/@katewinney_",
+        "url": "https://www.tiktok.com/@katewinney_",
+        "quote": "the hunt for the best coffee in Walthamstow"
       }
     ]
   },
@@ -57324,31 +57992,6 @@
       }
     ]
   },
-  "fredbakery": {
-    "name": "Fred Bakery",
-    "topics": [
-      "dessert"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "dessert": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-bakeries-in-london"
-      }
-    ]
-  },
   "luckyyubakery": {
     "name": "Lucky Yu Bakery",
     "topics": [
@@ -57881,48 +58524,6 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/news/the-27-best-bakeries-in-london-according-to-a-luxury-travel-magazine-050825"
-      }
-    ]
-  },
-  "jolene": {
-    "name": "Jolene",
-    "topics": [
-      "dessert",
-      "new-openings"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "dessert": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-27-best-bakeries-in-london-according-to-a-luxury-travel-magazine-050825"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Critmas",
-        "url": "https://critmas.substack.com/p/16-bakery-queues"
       }
     ]
   },
@@ -58865,53 +59466,34 @@
       }
     ]
   },
-  "ionagoulder": {
-    "name": "Iona Goulder",
+  "imperialchina": {
+    "name": "Imperial China",
     "topics": [
       "dim-sum"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 2,
+    "tierSpread": "A1 C1",
+    "tierCount": 2,
+    "hasAward": true,
     "byTopic": {
       "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 C1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
       {
-        "tier": "C",
-        "source": "About Time",
-        "url": "https://www.abouttimemagazine.co.uk/food/5-of-the-best-dim-sum-spots-in-chinatown/"
-      }
-    ]
-  },
-  "valentinesday20265athomeideas": {
-    "name": "Valentine’s Day 2026: 5 At-Home Ideas",
-    "topics": [
-      "dim-sum"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "dim-sum": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/local-guide/where-to-eat-in-chinatown-a-locals-top-eight",
+        "quote": "har gow, siu mai, char siu bao, cheung fun, lo bak go and egg custard tarts"
+      },
       {
         "tier": "C",
-        "source": "About Time",
-        "url": "https://www.abouttimemagazine.co.uk/food/5-of-the-best-dim-sum-spots-in-chinatown/"
+        "source": "youtube.com/@TaekiChan",
+        "url": "https://www.youtube.com/@TaekiChan"
       }
     ]
   },
@@ -58986,7 +59568,7 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+        "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
       },
       {
         "tier": "C",
@@ -59041,7 +59623,7 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+        "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
       }
     ]
   },
@@ -59073,7 +59655,7 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+        "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
       },
       {
         "tier": "B",
@@ -59103,7 +59685,7 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+        "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
       }
     ]
   },
@@ -59128,7 +59710,7 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+        "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
       }
     ]
   },
@@ -59153,7 +59735,7 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+        "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
       }
     ]
   },
@@ -59185,7 +59767,7 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+        "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
       },
       {
         "tier": "C",
@@ -59220,7 +59802,7 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+        "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
       }
     ]
   },
@@ -59252,12 +59834,365 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/dim-sum"
+        "url": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
       },
       {
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/late-night-restaurants-london/"
+      }
+    ]
+  },
+  "soak": {
+    "name": "The Soak",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
+      }
+    ]
+  },
+  "inamo": {
+    "name": "Inamo",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
+      }
+    ]
+  },
+  "dimt": {
+    "name": "Dim T",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
+      }
+    ]
+  },
+  "celavi": {
+    "name": "CE LA VI",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
+      }
+    ]
+  },
+  "shanghaicocktaillounge": {
+    "name": "Shanghai Cocktail Lounge",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
+      }
+    ]
+  },
+  "guragura": {
+    "name": "Gura Gura",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
+      }
+    ]
+  },
+  "shanghaime": {
+    "name": "Shanghai Me",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
+      }
+    ]
+  },
+  "tattu": {
+    "name": "Tattu",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
+      }
+    ]
+  },
+  "chinesecricketclub": {
+    "name": "Chinese Cricket Club",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
+      }
+    ]
+  },
+  "joykinglau": {
+    "name": "Joy King Lau",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "youtube.com/@farfromhomeadventures",
+        "url": "https://www.youtube.com/@farfromhomeadventures"
+      }
+    ]
+  },
+  "phoenixpalace": {
+    "name": "Phoenix Palace",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "youtube.com/@ExplorewithChrissy",
+        "url": "https://www.youtube.com/@ExplorewithChrissy",
+        "quote": "reviewed as London's best dim sum"
+      }
+    ]
+  },
+  "42stars": {
+    "name": "4.2 stars",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "youtube.com/@ExplorewithChrissy",
+        "url": "https://www.youtube.com/@ExplorewithChrissy"
+      }
+    ]
+  },
+  "lido": {
+    "name": "Lido",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@imhungryinlondon",
+        "url": "https://www.tiktok.com/@imhungryinlondon",
+        "quote": "officially my new go to spot for yum cha in chinatown"
+      }
+    ]
+  },
+  "dimsumkitchen": {
+    "name": "Dim Sum Kitchen",
+    "topics": [
+      "dim-sum"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "tiktok.com/@munchies_with_sazzle",
+        "url": "https://www.tiktok.com/@munchies_with_sazzle",
+        "quote": "ungatekeeping the dim sum spot everyone should be going to"
       }
     ]
   },
@@ -66621,6 +67556,43 @@
         "tier": "C",
         "source": "Let Me Show You London",
         "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
+      }
+    ]
+  },
+  "support": {
+    "name": "Support",
+    "topics": [
+      "galleries",
+      "live-music"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "galleries": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "live-music": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
       }
     ]
   },
@@ -106797,31 +107769,6 @@
       }
     ]
   },
-  "arabica": {
-    "name": "Arabica",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/best-middle-eastern-restaurants-london/"
-      }
-    ]
-  },
   "claro": {
     "name": "Claro",
     "topics": [
@@ -107534,31 +108481,6 @@
   },
   "uchibakeangel": {
     "name": "Uchi Bake Angel",
-    "topics": [
-      "new-openings"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/londons-new-restaurant-openings"
-      }
-    ]
-  },
-  "cupofjoy": {
-    "name": "Cup Of Joy",
     "topics": [
       "new-openings"
     ],

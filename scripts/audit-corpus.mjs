@@ -40,6 +40,19 @@ import { isFurniture, patternCount } from "./lib/noise.mjs";
 
 const looksLikeChrome = (n) => isFurniture(n);
 
+// Same rule as scripts/build-evidence.mjs: a creator handle is the publication.
+const hostOf = (url) => {
+  try {
+    const u = new URL(url);
+    const host = u.hostname.replace(/^www\./, "");
+    if (/^(youtube\.com|youtu\.be|tiktok\.com)$/.test(host)) {
+      const handle = u.pathname.match(/\/(@[^/]+)/)?.[1];
+      if (handle) return `${host}/${handle}`;
+    }
+    return host;
+  } catch { return String(url); }
+};
+
 // A national or international list whose London subset has to be taken.
 const NATIONAL = /\b(britain|british|uk|u\.k\.|england|world|europe|national)\b/i;
 
@@ -59,8 +72,11 @@ for (const topic of topics) {
 
   for (const s of doc.sources ?? []) {
     const names = s.names ?? [];
-    let host = s.url;
-    try { host = new URL(s.url).hostname.replace(/^www\./, ""); } catch { /* keep the raw value */ }
+    // Count the way build-evidence counts. YouTube and TikTok share one
+    // hostname, so a plain hostname collapses every creator into a single
+    // "publication" - this tool was reporting a 20-source corpus as 10, which
+    // understates it exactly where the video and social tiers do the work.
+    const host = hostOf(s.url);
     const tier = REG.domains[host]?.tier ?? "C";
     (byDomain.get(host) ?? byDomain.set(host, []).get(host)).push(s.name);
 

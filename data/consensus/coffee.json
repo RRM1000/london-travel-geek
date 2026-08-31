@@ -1,7 +1,7 @@
 {
   "cuisine": "coffee",
   "note": "THE COFFEE PASS. Coffee is a SPECIALITY, not a cuisine - see notCuisines. A specialty coffee shop has no cooking tradition to describe, so forcing one would break the meaning of the Cuisine column the way 'rooftop' would have. Rows from this pass carry specialities 'coffee' and venueFormat 'Coffee Shop'; cuisine is set only where the venue genuinely cooks to a tradition (many serious London coffee shops cook Australian-influenced or Modern European food, which the sheet already handles), and is left BLANK where the venue is coffee and pastry only. Blank is honest; a guessed cuisine is not. Coffee guides share almost no venues with restaurant lists, which is the same reason the ramen and falafel legs were needed. Every URL came from a search result.",
-  "recorded": "2026-08-30",
+  "recorded": "2026-08-31",
   "sources": [
     {
       "name": "Roadbook (best coffee shops)",
@@ -43,8 +43,7 @@
         "Special Guests Coffee",
         "Colonna",
         "Same same but different",
-        "Like this:",
-        "Discover more from FLTR Magazine"
+        "Like this:"
       ]
     },
     {
@@ -57,10 +56,8 @@
         "Nostos Coffee",
         "Special Guests",
         "Monmouth Coffee Company",
-        "Explore by Neighborhood",
         "City of London",
         "Walthamstow",
-        "Coffee Near London Landmarks",
         "Kiss the Hippo",
         "640East",
         "Nowhere",
@@ -68,17 +65,7 @@
         "Rosslyn",
         "Espresso Focused",
         "Cafés with Food",
-        "Discover",
         "Community"
-      ]
-    },
-    {
-      "name": "Double Skinny Macchiato (top 100)",
-      "url": "https://www.doubleskinnymacchiato.com/2017/09/top-100-best-london-speciality-coffee-shops-guide-map.html",
-      "scope": "coffee",
-      "names": [
-        "14 November 2025",
-        "Closed London Coffee Shops"
       ]
     },
     {
@@ -100,13 +87,11 @@
         "Gentlemen Baristas",
         "Redemption Roasters",
         "Notes Coffee Roasters",
-        "Department of Coffee and Social Affairs",
-        "Final Thoughts",
-        "Explore"
+        "Department of Coffee and Social Affairs"
       ]
     },
     {
-      "name": "Time Out (best in the UK 2026)",
+      "name": "Time Out (reporting Best Coffee Shops UK 2026)",
       "url": "https://www.timeout.com/london/news/11-london-coffee-shops-have-been-named-the-best-in-the-uk-for-2026-including-catalyst-prufrock-carbon-kopi-and-more-012026",
       "scope": "coffee-awards",
       "names": [
@@ -123,15 +108,17 @@
         "Saint Nine Coffee",
         "Scenery",
         "Formative",
-        "Advertising"
-      ]
+        "Prufrock Coffee",
+        "Formative Coffee",
+        "Nostos Coffee"
+      ],
+      "note": "Time Out's report of the Best Coffee Shops UK 2026 ranking - a jury of coffee professionals combined with public votes, scored against nine published criteria, 44 shops UK-wide. UNORDERED, so no ranks are recorded. The award's originator publishes only on Instagram, so this masthead report is the citable form and the citation is Time Out's, not the award's. Time Out's London headline says 11 London shops; the list it prints carries 13. SCOPED to London: the award covers 44 shops across the UK and only the London entries are recorded."
     },
     {
       "name": "Batch Coffee (best roasteries)",
       "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/",
       "scope": "coffee",
       "names": [
-        "Tom’s Top London Coffee Roasters",
         "Assembly Coffee Roasters",
         "Volcano Coffee Works",
         "Carnival",
@@ -165,30 +152,210 @@
         "Perky Blenders",
         "Electric Coffee Roasters",
         "Alchemy Coffee Roasters",
-        "Hermanos Coffee Roasters",
-        "41 Comments",
-        "Support",
-        "Quick Enquiry",
-        "Tom’s Secret Code Club",
-        "Batch Coffee Subscription Gift Package",
-        "Decaf Coffee Subscription",
-        "DECAF Coffee Subscription Gift Package",
-        "Batch Espresso Blend Subscription"
+        "Hermanos Coffee Roasters"
       ]
     },
     {
-      "name": "Balance Coffee",
-      "url": "https://balancecoffee.co.uk/blogs/blog/best-coffee-roasters-london",
+      "name": "Europe's 100 Best Coffee Shops 2026",
+      "url": "https://theworlds100bestcoffeeshops.com/europe",
       "scope": "coffee",
       "names": [
-        "James Bellis",
-        "Quality of Beans",
-        "Freshness of the Beans",
-        "Coffee Varieties",
-        "Sustainable Sourcing",
-        "Five best coffee roasters London",
-        "Continue reading"
+        "Rosslyn Coffee",
+        "Moonstruck Cafe",
+        "Oma Coffee Roaster"
+      ],
+      "quotes": {
+        "Rosslyn Coffee": "#12 in Europe - the highest-placed UK cafe",
+        "Moonstruck Cafe": "#18 in Europe - listed at Nine Elms",
+        "Oma Coffee Roaster": "#94 in Europe - listed as central London"
+      },
+      "note": "SCOPED to London: the ranking covers 100 European cafes and nine UK ones; only the three in London are recorded, with their European ranks."
+    },
+    {
+      "name": "London's Best Coffee (front-page selection)",
+      "url": "https://www.londonbestcoffee.com/",
+      "scope": "coffee",
+      "names": [
+        "Four Boroughs",
+        "Carbon Kopi",
+        "Door - Coffee Bar",
+        "Moonstruck Cafe",
+        "The Apple Blue",
+        "Cut The Mustard",
+        "Milk No Milk",
+        "Gram'n Degrees",
+        "Knockbox Coffee",
+        "Fink's Chats",
+        "Potter & Reid",
+        "Clarnico Coffee",
+        "Brunswick East",
+        "Commons at Old Street Works",
+        "Esters",
+        "Lodestar Coffee",
+        "Nagare Coffee",
+        "Profile Coffee",
+        "The Beehive",
+        "Back to Ours"
       ]
+    },
+    {
+      "name": "James Hoffmann (Four London Coffee Institutions, 2017)",
+      "url": "https://www.youtube.com/@jameshoffmann",
+      "scope": "coffee",
+      "names": [
+        "HR Higgins",
+        "Algerian Coffee Stores",
+        "Bar Italia",
+        "Monmouth Coffee Company"
+      ],
+      "quotes": {
+        "HR Higgins": "founded 1942",
+        "Algerian Coffee Stores": "founded 1887",
+        "Bar Italia": "founded 1949",
+        "Monmouth Coffee Company": "founded 1978"
+      }
+    },
+    {
+      "name": "WHOLEBEANONLY (three London coffee films, 2026)",
+      "url": "https://www.youtube.com/@wholebeanonly",
+      "scope": "coffee",
+      "names": [
+        "Special Guests",
+        "Omotesando Koffee",
+        "WatchHouse",
+        "Bar Italia",
+        "Towpath Cafe",
+        "Kiss the Hippo",
+        "Jolene"
+      ],
+      "quotes": {
+        "Special Guests": "rare Panama Geisha - named in all three films"
+      }
+    },
+    {
+      "name": "Kayse (best coffee shops in London, 2025)",
+      "url": "https://www.youtube.com/@bykayse",
+      "scope": "coffee",
+      "names": [
+        "Batch Baby",
+        "Ngopi UK",
+        "Nagare Coffee",
+        "Dark Arts Coffee Roasters",
+        "Qima Cafe"
+      ]
+    },
+    {
+      "name": "Love and London (London coffee guide, 2020)",
+      "url": "https://www.youtube.com/@loveandlondon",
+      "scope": "coffee",
+      "names": [
+        "Flat White",
+        "Hermanos Coffee Roasters",
+        "WatchHouse",
+        "Kaffeine",
+        "Hackney Coffee Company"
+      ]
+    },
+    {
+      "name": "@halalfoodlondon (24k views, Jul 2026 - ranked top 5 for Spanish latte)",
+      "url": "https://www.tiktok.com/@halalfoodlondon",
+      "scope": "coffee",
+      "names": [
+        "Saddle Cafe",
+        "Arabica",
+        "Shot London",
+        "Half Million",
+        "Koub"
+      ],
+      "quotes": {
+        "Saddle Cafe": "#1",
+        "Arabica": "#2",
+        "Shot London": "#3",
+        "Half Million": "#4",
+        "Koub": "#5"
+      }
+    },
+    {
+      "name": "@curatedadventuring (122k views, Aug 2026)",
+      "url": "https://www.tiktok.com/@curatedadventuring",
+      "scope": "coffee",
+      "names": [
+        "Queen's Wood Cafe"
+      ],
+      "quotes": {
+        "Queen's Wood Cafe": "the cosiest fairytale cafe in London - Highgate woodland"
+      }
+    },
+    {
+      "name": "@jessicaeabb (40k views, Jul 2026)",
+      "url": "https://www.tiktok.com/@jessicaeabb",
+      "scope": "coffee",
+      "names": [
+        "Fred Bakery"
+      ]
+    },
+    {
+      "name": "@thecuriouspixie (40k views, Aug 2026)",
+      "url": "https://www.tiktok.com/@thecuriouspixie",
+      "scope": "coffee",
+      "names": [
+        "Blooms Yard"
+      ],
+      "quotes": {
+        "Blooms Yard": "free workspace"
+      }
+    },
+    {
+      "name": "@simplyrasha (23k views, Jul 2026)",
+      "url": "https://www.tiktok.com/@simplyrasha",
+      "scope": "coffee",
+      "names": [
+        "Studio Coffee"
+      ],
+      "quotes": {
+        "Studio Coffee": "open late"
+      }
+    },
+    {
+      "name": "@outwithnadia (17k views, Jun 2026)",
+      "url": "https://www.tiktok.com/@outwithnadia",
+      "scope": "coffee",
+      "names": [
+        "Qinwan"
+      ],
+      "quotes": {
+        "Qinwan": "at The Chancery Rosewood"
+      }
+    },
+    {
+      "name": "@sophiapatriciamai (Aug 2026)",
+      "url": "https://www.tiktok.com/@sophiapatriciamai",
+      "scope": "coffee",
+      "names": [
+        "Cup of Joy"
+      ],
+      "quotes": {
+        "Cup of Joy": "Istanbul favourite - first UK cafe on Blandford Street"
+      }
+    },
+    {
+      "name": "@katewinney_ (Aug 2026)",
+      "url": "https://www.tiktok.com/@katewinney_",
+      "scope": "coffee",
+      "names": [
+        "Incoming Coffee"
+      ],
+      "quotes": {
+        "Incoming Coffee": "the hunt for the best coffee in Walthamstow"
+      }
     }
-  ]
+  ],
+  "unreadable": {
+    "https://www.doubleskinnymacchiato.com/2017/09/top-100-best-london-speciality-coffee-shops-guide-map.html": "Captured a date and a 'Closed London Coffee Shops' heading and no venue. The page is a map widget the fetcher cannot read.",
+    "https://balancecoffee.co.uk/blogs/blog/best-coffee-roasters-london": "Captured its own subheadings - Quality of Beans, Freshness of the Beans - and no venue."
+  },
+  "declined": {
+    "https://www.tiktok.com/@jessdoestravels": "Storyline, Marylebone, 149k views. DISCLOSED AS PAID - the caption ends 'ad-invite'.",
+    "https://www.tiktok.com/@rantsandfuckups_": "'Viral coffee shop in London' - names no venue at all."
+  }
 }

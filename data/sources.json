@@ -102,7 +102,8 @@
     "theroxy.co.uk",
     "alcotraz.co.uk",
     "pitchgolf.com",
-    "jkcomedyclub.co.uk"
+    "jkcomedyclub.co.uk",
+    "europeancoffeetrip.com"
   ],
   "domains": {
     "thegoodfoodguide.co.uk": {
@@ -1172,6 +1173,34 @@
     "youtube.com/@RestroSpot": {
       "tier": "D",
       "name": "RestroSpot"
+    },
+    "theworlds100bestcoffeeshops.com": {
+      "tier": "A",
+      "name": "The World's 100 Best Coffee Shops",
+      "note": "Ranked, dated, and re-run annually. The 2026 European edition assessed more than 5,300 cafes with a panel of 250 industry professionals and over 240,000 public votes, announced at World of Coffee Brussels in June 2026. The originator's own page serves the VOTING FORM rather than the results, so the London ranks were read from bean-here.com's report of them - the award is still the source, per the syndication rule."
+    },
+    "thatsup.co.uk": {
+      "tier": "C",
+      "name": "Thatsup",
+      "note": "City guide with named editors, running curated guides for London, Manchester and Brighton. Independent of the venues it lists."
+    },
+    "londonbestcoffee.com": {
+      "tier": "C",
+      "name": "London's Best Coffee",
+      "note": "One-person specialist guide, edited by Dylan Cormack, based on independent visits. Rates out of 5. The front page shows a sample of a larger set behind a 'load more' control."
+    },
+    "bean-here.com": {
+      "tier": "C",
+      "name": "Bean Here",
+      "note": "Specialist coffee blog. Used here only as the READER of the Europe's 100 Best ranking, not as a source in its own right - the citation belongs to the award."
+    },
+    "thetimes.co.uk": {
+      "tier": "B",
+      "name": "The Times",
+      "note": "National masthead with named critics. Giles Coren's Real Stars column reached this corpus through a TikTok post - the platform is not the publisher."
     }
+  },
+  "excludedWhy": {
+    "europeancoffeetrip.com": "A DIRECTORY, not a selection. Its London page carries 204 cafes - close to every specialty coffee shop in the city - so it expresses no preference and naming a venue costs it nothing. Recording it would hand a citation to almost every venue in the corpus, and \"named by two sources\" would come to mean \"in the directory, plus one real list\". The same reasoning that bars a search-results page bars this."
   }
 }
