@@ -65,12 +65,8 @@ faq:
     a: "It is famous for it, but be selective. The street's Bangladeshi restaurants vary widely and some employ pushy touts outside — a bad sign. Look for places that are busy with people who are not tourists. The area's other food traditions are just as strong: 24-hour salt beef bagels at the north end, and the Sunday food halls in the Truman Brewery."
   - q: "Is Shoreditch worth visiting during the day?"
     a: "Yes, if you come for markets and street art — both are daytime activities. The bars and clubs it is known for run in the evening, so a Sunday afternoon that rolls into the evening gets you both without needing to come twice."
-heroImage: "../../assets/articles/shoreditch-area-guide/shoreditch-street-art.jpg"
-heroImageAlt: "A large boot mural painted on a building in Shoreditch"
-heroImageCredit: "Loco Steve"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:Doc_Martens_Street_art_in_Shoreditch_London..._(23426812493).jpg"
-heroImageLicense: "CC BY-SA 2.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
+heroImage: "../../assets/articles/shoreditch-area-guide/old-spitalfields-traders.jpg"
+heroImageAlt: "Traders' stalls under the glass and iron roof of Old Spitalfields Market, busy with shoppers"
 ---
 
 Shoreditch sits immediately north of the City, and the boundary is abrupt: glass towers on one side, Victorian warehouses and painted walls on the other. It has been a garment district, a furniture district, and — since the 1990s — the centre of London's creative and nightlife scene.
@@ -105,9 +101,9 @@ Shoreditch has its own share of the commemorative plaques marking where notable 
 
 ## Key streets and micro-districts
 
-![A large boot mural painted on a building in Shoreditch](../../assets/articles/shoreditch-area-guide/shoreditch-street-art.jpg)
+![Rails of vintage clothing and racks of shirts inside the Brick Lane vintage market](../../assets/articles/shoreditch-area-guide/brick-lane-vintage-rails.jpg)
 
-*Shoreditch street art. Photo: [Loco Steve](https://commons.wikimedia.org/wiki/File:Doc_Martens_Street_art_in_Shoreditch_London..._(23426812493).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The vintage market under the Truman Brewery. Priced by the piece upstairs, by the kilo in places downstairs.*
 
 ### Brick Lane and the Truman Brewery
 The spine. Curry houses south, markets and food halls in the middle, bagels north.

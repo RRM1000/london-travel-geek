@@ -3684,5 +3684,15 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       type: "editorial",
       articleAnchor: "#greenwich-market-greenwich",
     },
+    {
+      name: "Tower Bridge Collective",
+      area: "Shad Thames",
+      price: "£",
+      station: "London Bridge",
+      latitude: 51.503167,
+      longitude: -0.073889,
+      type: "streetfood",
+      articleAnchor: "#tower-bridge-collective-shad-thames",
+    },
   ],
 };

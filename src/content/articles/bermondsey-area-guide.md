@@ -111,6 +111,10 @@ East of Tower Bridge. Warehouse conversions, overhead gantries and riverside res
 
 ![A narrow cobbled street between tall Victorian warehouses, crossed overhead by cast-iron gantry bridges](../../assets/articles/bermondsey-area-guide/shad-thames.jpg)
 
+![Counters and communal tables inside the Tower Bridge Collective food hall on Horselydown Lane](../../assets/articles/bermondsey-area-guide/tower-bridge-collective.jpg)
+
+*Tower Bridge Collective on Horselydown Lane, open since October 2025. Thirteen independent kitchens and the cheapest eating anywhere near Tower Bridge.*
+
 *Shad Thames. The gantries were working bridges — porters wheeled tea, coffee and spices across them between the warehouses, which is why they are at every floor rather than just one.*
 
 ### The Beer Mile arches
@@ -133,6 +137,7 @@ The Friday antiques market, a cinema and a hotel, at the southern end of Bermond
 | **José Tapas Bar** | Spanish | ££ | Bermondsey Street; standing room, no bookings |
 | **The Woolpack** | Pub | £ | Proper local pub away from the market crowds |
 | **Butler's Wharf Chop House** | British | £££ | Riverside with a Tower Bridge view |
+| **Tower Bridge Collective** | Food hall | £ | Thirteen kitchens off Shad Thames; open from 8am daily |
 
 ## Getting there
 

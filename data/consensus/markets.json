@@ -1,7 +1,7 @@
 {
   "cuisine": "markets",
   "note": "Seeded 2026-08-25.",
-  "recorded": "2026-08-30",
+  "recorded": "2026-08-31",
   "sources": [
     {
       "name": "Lamplit London",
@@ -150,6 +150,54 @@
         "A North London Vintage Day",
         "Practical Information",
         "Leave a comment"
+      ]
+    },
+    {
+      "name": "Time Out (Tower Bridge Collective opening and full vendor list)",
+      "url": "https://www.timeout.com/london/news/a-huge-new-food-hall-is-coming-to-tower-bridge-central-london-this-week-100825",
+      "scope": "markets",
+      "names": [
+        "Tower Bridge Collective"
+      ]
+    },
+    {
+      "name": "Hot Dinners (everything to try at Tower Bridge Collective)",
+      "url": "https://www.hot-dinners.com/2025101014553/Gastroblog/Latest-news/tower-bridge-collective-food-hall-london-guide",
+      "scope": "markets",
+      "names": [
+        "Tower Bridge Collective"
+      ]
+    },
+    {
+      "name": "Southwark News (Tower Bridge's new food hall is open)",
+      "url": "https://southwarknews.co.uk/area/bermondsey/tower-bridges-new-food-hall-is-open-with-thirteen-new-food-stalls-to-try/",
+      "scope": "markets",
+      "names": [
+        "Tower Bridge Collective"
+      ]
+    },
+    {
+      "name": "Restaurant (William Reed trade title)",
+      "url": "https://www.restaurantonline.co.uk/Article/2025/04/09/tower-bridge-collective-food-hall-to-open-in-london/",
+      "scope": "markets",
+      "names": [
+        "Tower Bridge Collective"
+      ]
+    },
+    {
+      "name": "LondonWorld (Blend Family food partner line-up)",
+      "url": "https://www.londonworld.com/arts-and-culture/blend-family-unveils-food-partner-line-up-ahead-of-tower-bridge-collective-launch-5320729",
+      "scope": "markets",
+      "names": [
+        "Tower Bridge Collective"
+      ]
+    },
+    {
+      "name": "Budget Day Out (affordable eats at Tower Bridge Collective)",
+      "url": "https://budgetdayout.com/affordable-eats-at-londons-tower-bridge-collective/",
+      "scope": "markets",
+      "names": [
+        "Tower Bridge Collective"
       ]
     }
   ]

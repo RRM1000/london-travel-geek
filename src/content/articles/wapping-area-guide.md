@@ -97,6 +97,10 @@ Wapping has its own share of the commemorative plaques marking where notable peo
 
 *Spirit Quay, just off St Katharine Docks. No entrance and no ticket — just a quiet dock worth the short detour.*
 
+![People eating outside a quayside cafe under hanging flower baskets at St Katharine Docks, boats moored alongside](../../assets/articles/wapping-area-guide/st-katharine-docks-quayside.jpg)
+
+*The quayside at St Katharine Docks, fifteen minutes west. The dock is free to walk round and the restaurants line one side of it.*
+
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="London historic pubs tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Key streets and micro-districts

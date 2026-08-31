@@ -105378,6 +105378,56 @@
       }
     ]
   },
+  "towerbridgecollective": {
+    "name": "Tower Bridge Collective",
+    "topics": [
+      "markets"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B1 C5",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "markets": {
+        "sourceCount": 6,
+        "tierSpread": "B1 C5",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/news/a-huge-new-food-hall-is-coming-to-tower-bridge-central-london-this-week-100825"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2025101014553/Gastroblog/Latest-news/tower-bridge-collective-food-hall-london-guide"
+      },
+      {
+        "tier": "C",
+        "source": "southwarknews.co.uk",
+        "url": "https://southwarknews.co.uk/area/bermondsey/tower-bridges-new-food-hall-is-open-with-thirteen-new-food-stalls-to-try/"
+      },
+      {
+        "tier": "C",
+        "source": "restaurantonline.co.uk",
+        "url": "https://www.restaurantonline.co.uk/Article/2025/04/09/tower-bridge-collective-food-hall-to-open-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "londonworld.com",
+        "url": "https://www.londonworld.com/arts-and-culture/blend-family-unveils-food-partner-line-up-ahead-of-tower-bridge-collective-launch-5320729"
+      },
+      {
+        "tier": "C",
+        "source": "budgetdayout.com",
+        "url": "https://budgetdayout.com/affordable-eats-at-londons-tower-bridge-collective/"
+      }
+    ]
+  },
   "cavita": {
     "name": "Cavita",
     "topics": [

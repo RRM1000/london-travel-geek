@@ -1,5 +1,5 @@
 ---
-title: "London's Best Markets: 18 Compared"
+title: "London's Best Markets: 19 Compared"
 seoTitle: "Best Markets in London 2026: Food, Flowers & Antiques"
 description: "A banana-ripening warehouse full of food traders, a flower market that only exists on Sundays, and a fish market trading before dawn — London's markets by what they sell."
 heroImage: "../../assets/articles/best-london-markets/canopy-market-kings-cross.jpg"
@@ -53,6 +53,7 @@ We keep a full [markets by day](/markets/) page for exactly that reason. This gu
 | If you are near… | Which market |
 | --- | --- |
 | **Borough & Bermondsey** | Borough Market, Maltby Street |
+| **Tower Bridge & Shad Thames** | Tower Bridge Collective |
 | **Covent Garden** | Seven Dials Market, Apple Market |
 | **The City** | Leadenhall Market |
 | **Shoreditch & Bethnal Green** | Old Spitalfields, Columbia Road, Brick Lane |
@@ -100,6 +101,23 @@ A **narrow ropewalk of food traders wedged under the railway arches** since 2010
 A weekend market of food traders, makers and a bar under the glass roof of the **West Handyside Canopy**, a Victorian goods canopy behind Granary Square. Long communal benches, and far calmer than Camden or Borough.
 
 ![Traders and long picnic benches under the glass roof of Canopy Market in King's Cross](../../assets/articles/best-london-markets/canopy-market-kings-cross.jpg)
+
+### Tower Bridge Collective, Shad Thames
+
+*Free to enter · daily from 8am*
+
+**Thirteen independent kitchens on the ground floor of a converted office block**, a minute from the southern end of Tower Bridge. It opened in October 2025 and is the first London site for Blend Family, who already run food halls in Manchester, Sheffield and Cambridge.
+
+The line-up is genuinely global and there is not a chain in it: **Neapolitan pizza and honey butter rings from Leopard Pie**, Korean fried chicken from Clapping Seoul, **Palestinian musakhan and hummus from Baity**, Greek gyros from Thatziki, Vietnamese banh mi from +84, Eritrean and Ethiopian stews from House of Habesha, Italian schiacciata sandwiches from Sapore, and birria tacos from Fuego 1987. Two bars and a bean-to-bar chocolate counter alongside them.
+
+**Most plates come in under £15** and a good many under a tenner. It is the rare food hall built for children as well — there is a play area and a sandpit, which no other market on this page offers. The whole floor runs on electricity rather than gas, as part of a net zero building.
+
+**Free to enter, walk-in, and open from 8am every day** for breakfast through to dinner. Traders do change: the opening line-up included Lakshmi's Indian Kitchen, since replaced by Esmie's Caribbean Fusion.
+
+![Long high tables under the neon Leopard Pie sign inside the Tower Bridge Collective food hall](../../assets/articles/best-london-markets/tower-bridge-collective.jpg)
+
+*Tower Bridge Collective. Order at whichever counter you fancy and eat at a shared table — nobody minds you mixing traders.*
+
 
 ### Billingsgate Fish Market, Canary Wharf
 
