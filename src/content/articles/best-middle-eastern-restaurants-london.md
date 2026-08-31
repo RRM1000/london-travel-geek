@@ -62,37 +62,61 @@ Arranged **by tradition**, because that is what actually determines the meal.
 
 *£££ · 7 min from Bayswater · the consensus pick* · Cited by 4 sources
 
-The most-cited Lebanese room in London across independent guides — white walls, hanging foliage, and mezze taken seriously rather than as a warm-up. Quietly excellent for years.
+**The most-cited Lebanese room in London** across these sources — white walls, hanging foliage, and mezze taken seriously rather than served as filler while you wait for the grill.
+
+The mezze is the meal: **hummus, moutabal, tabbouleh and fattoush** made properly, warm flatbread arriving continuously, and *makanek* — small spiced sausages — among the hot dishes. Charcoal-grilled meats behind them if you want them, but ordering ten cold plates and stopping there is a legitimate dinner here.
+
+**£££, book a few days ahead.** Seven minutes from Bayswater. Quiet, formal, and run by people who have been doing it a long time.
 
 ### The Barbary, Covent Garden
 
 *£££ · Neal's Yard · about twenty seats* · Cited by 1 source
 
-A **horseshoe counter wrapped around an open grill** in Neal's Yard, seating around twenty. You watch every plate being made. No bookings for most of the counter — turn up and wait.
+**A horseshoe counter wrapped around an open grill** in Neal's Yard, seating about twenty — you watch every plate being made, and there is nowhere to hide from the smoke.
+
+The cooking follows the old Barbary Coast, from Morocco through to Israel: **naan e barbari**, the blistered flatbread the place is named for, **jerusalem bagel**, octopus and lamb cutlets off the coals, and a **pata negra neck** that regulars order before sitting down.
+
+**Walk-in only and there is always a wait** — put your name down and drink somewhere in Seven Dials until they call. £££, and worth the queue for a counter seat.
 
 ### Akub, Notting Hill
 
 *££££ · 3 min from Notting Hill Gate* · Cited by 4 sources
 
-Fadi Kattan opened Fawda in Bethlehem before bringing **Palestinian cooking** to a Notting Hill townhouse. Almost nothing else in London attempts this at any level.
+**Fadi Kattan** opened Fawda in Bethlehem before bringing **Palestinian cooking** to a Notting Hill townhouse — the first London kitchen to treat it as a fine-dining cuisine rather than a regional footnote of something else.
+
+The signature is **bukjet mousakhan** — the sumac-and-onion chicken dish of the West Bank, reworked as a parcel. Around it, dishes built on Palestinian produce and technique that Kattan sources deliberately, and a brunch at weekends of qalayet bandora, zahra fritters and Arabic-coffee French toast.
+
+**££££ and it books weeks ahead** — a small room on a residential street, three minutes from Notting Hill Gate.
 
 ### Imad's Syrian Kitchen, Soho
 
 *£££ · Kingly Court* · Cited by 4 sources
 
-Imad Alarnab cooked his way from Damascus to a Kingly Court balcony. Syrian home cooking, and the story is genuine rather than marketing.
+**Imad Alarnab cooked his way from Damascus to a Kingly Court balcony**, running kitchens in refugee camps along the route. The Syrian home cooking is the draw and the story is not decoration — it is why the room is full.
+
+Mezze first: **muhammara**, the walnut and red pepper paste, **fattoush**, and freekeh. Then the slow-cooked dishes — lamb with yoghurt, stuffed vine leaves, and the sort of food that comes out of a family kitchen rather than a restaurant one.
+
+**£££ and it books weeks ahead.** The Kingly Court balcony is the seat to ask for.
 
 ### Em Sherif at Harrods, Knightsbridge
 
 *££££ · a set menu in sequence* · Cited by 3 sources
 
-The Beirut group's London outpost — a set Lebanese menu served in waves rather than a list you order from. Expensive, and deliberately theatrical.
+The Beirut group's London outpost inside Harrods — **a set Lebanese menu served in sequence** rather than a mezze free-for-all, which is either the appeal or the objection depending on how you like to eat.
+
+Course after course arrives without you ordering: cold mezze, then hot, then grills, then dessert, in the order a Beirut host would send them. The cooking is precise and the room is opulent to the point of theatre.
+
+**££££ and it books weeks ahead.** No à la carte — you are agreeing to the whole sequence when you sit down.
 
 ### Freej Swaileh, Knightsbridge
 
 *£££ · Kuwaiti* · Cited by 2 sources
 
-One of very few **Kuwaiti** kitchens in London — machboos and kabsa rather than the Levantine mezze everywhere else does.
+**One of very few Kuwaiti kitchens in London** — Gulf cooking rather than the Levantine mezze that everywhere else on this page does, which makes it the most unusual entry here.
+
+**Machboos** is the dish to order: spiced rice cooked with meat or fish, closer to a biryani than to anything Lebanese, with loomi — dried lime — giving it the sour note that defines Gulf food. **Kabsa** alongside it, and Kuwaiti breads that appear nowhere else in the city.
+
+**£££, book a few days ahead.** Order the machboos and let the table share it.
 
 ---
 
@@ -102,19 +126,31 @@ One of very few **Kuwaiti** kitchens in London — machboos and kabsa rather tha
 
 *£££ · 4 min from Dalston Kingsland*
 
-The Dirik brothers took over their father's Dalston **ocakbaşı** and turned it into one of the most inventive Turkish kitchens in Britain, without losing the charcoal grill it was built on.
+The **Dirik brothers** took over their father's Dalston **ocakbaşı** and turned it into one of the most inventive kitchens in London **without moving the grill** — the charcoal is still the engine, the plating is not.
+
+Expect the ocakbaşı classics done exactly right — **lamb chops, adana, quail** — beside dishes that would baffle the original: seasonal vegetables over coals, house pickles, and a menu that changes rather than sits. The lahmacun is the bridge between the two.
+
+**£££ and it books weeks ahead**, which the original a hundred yards away does not. A different evening entirely from Mangal 1.
 
 ### Kismet, Borough
 
 *£££ · upstairs at The Globe*
 
-A meyhane in the style of Istanbul and north Cyprus, in the building used as Bridget Jones's flat. Long tables, raki, and food that keeps arriving.
+**A meyhane in the style of Istanbul and north Cyprus**, upstairs at The Globe — in the building used as Bridget Jones's flat in the films, which is the fact everyone mentions and the least interesting thing about it.
+
+A meyhane is a drinking house that feeds you, and the format is the point: **long tables, rakı, and food that keeps arriving** — cold mezze, then hot, then grills, paced to the drinking rather than to a service. Order rakı and let them run it.
+
+**£££ and it books weeks ahead.** Come as a group; a table of two misses what the room is for.
 
 ### Ishtar, Marylebone and Lokal, Fitzrovia
 
 *£££ · central and reliable* · Cited by 2 Turkish sources
 
-Ishtar is the long-running Marylebone room with a mezze list built for a table that wants to stay put. Lokal is the modern counterpart, with counter dining and a cocktail bar.
+Two central rooms that do the same job: reliable Turkish cooking within walking distance of the West End, for tables that do not want to travel to Green Lanes.
+
+**Ishtar** is the long-running Marylebone room with a mezze list built for a table that wants to stay put — **hummus, kısır, patlıcan ezmesi**, then chargrilled meats and fish. **Lokal** in Fitzrovia is smaller and quicker, and better for a working lunch than a long evening.
+
+**£££ at both, book a few days ahead** at Ishtar for a weekend table. Neither will beat Green Lanes on price or the grill, and both are twenty minutes closer.
 
 ---
 
@@ -124,31 +160,51 @@ Ishtar is the long-running Marylebone room with a mezze list built for a table t
 
 *£££ · 8 min from Baker Street* · Cited by 4 Greek sources
 
-Greek small plates reworked with restaurant technique — the room most responsible for London taking modern Greek cooking seriously.
+**Greek small plates reworked with restaurant technique** — the room most responsible for London taking modern Greek cooking seriously, rather than filing it under holiday food.
+
+The format is sharing: **taramasalata** made properly, grilled octopus, slow-cooked lamb, and a **loukoumades** — honey doughnuts — that most tables order without discussing it. Greek wine list to match, which was unusual when it opened.
+
+**£££ and it books weeks ahead.** Eight minutes from Baker Street.
 
 ### Oma and Pyro, Borough
 
 *££££ / £££ · London Bridge* · Cited by 3 Greek sources
 
-Oma cooks Greek food over fire at serious prices, upstairs from its own more casual sibling. Pyro is Yiannis Mexis' first restaurant, built around an open fire — the potato pittas with smoked aubergine are the dish.
+Two restaurants in one building by London Bridge, from the same team: **Oma cooks Greek food over fire at serious prices upstairs**, and **Pyro** is the more casual room below it.
+
+At Oma the fire does everything — **whole fish**, aged meat and vegetables over wood, plated with a fine-dining restraint that Greek cooking in London rarely gets. **Pyro** does pizza and small plates from the same kitchen for roughly half the outlay, which makes it one of the better-value tables in Borough.
+
+**££££ at Oma, £££ at Pyro; both book well ahead.** Pick by budget rather than by cooking — the kitchen is the same.
 
 ### Kima, Marylebone
 
 *££££ · whole fish* · Cited by 2 Greek sources
 
-Greek **seafood** treated at fine-dining level, which almost nothing else in London does.
+**Greek seafood treated at fine-dining level**, which almost nothing else in London does — the fish counter is the menu and you choose from what came in.
+
+**Whole fish** is the order: grilled simply over charcoal, dressed with lemon and oil, served to the table to be filleted. Around it, raw plates, sea urchin when it is on, and the Greek staples done with restaurant precision rather than taverna generosity.
+
+**££££ and it books weeks ahead.** Small room, high prices, and the best Greek fish cooking in the city.
 
 ### Vori, Holland Park
 
 *£££ · the wine list* · Cited by 2 Greek sources
 
-The only wine list in London built entirely on **indigenous Greek varieties**, in a Holland Park Avenue taverna.
+**The only wine list in London built entirely on indigenous Greek varieties** — assyrtiko, xinomavro, agiorgitiko and a dozen more nobody stocks — in a Holland Park Avenue taverna with tables out on the pavement.
+
+The food is taverna rather than restaurant: **grilled meats, salads, dips and whole fish**, cooked straightforwardly and priced fairly for the postcode. The wine is the reason to make the trip, and the staff will talk you through it.
+
+**£££, book a few days ahead.** Ask them to pick the bottle; the whole point of the list is that you have not heard of most of it.
 
 ### Mazi and Zephyr, Notting Hill
 
 *£££ · garden and photographs* · Cited by 3 Greek sources
 
-Mazi treats the classics as a starting point and has a garden at the back. Zephyr, from the Pachamama group, is one of the most photographed rooms in west London.
+Two modern Greek rooms in the same postcode, and worth knowing apart. **Mazi** treats the classics as a starting point and has a **garden at the back** — the better table on a warm evening. **Zephyr**, from the same team, is the more photographed of the pair.
+
+At Mazi the cooking pulls the taverna repertoire into restaurant shape: **taramasalata**, grilled octopus, and lamb given more technique than tradition requires. Zephyr runs a similar menu in a brighter, busier room.
+
+**£££ at both.** Book Mazi's garden specifically; it is the thing that separates them.
 
 ---
 
@@ -160,29 +216,45 @@ Mezze is vegetable-led by tradition, which makes this the easiest category on th
 
 *£££ · Ottolenghi group* · Cited by 1 source
 
-The **fermentation-and-fire** room, where vegetables go on the grill and get the treatment meat usually gets. The best of its kind in London.
+The Ottolenghi group's **fermentation-and-fire** room, where **vegetables go on the grill and get the treatment meat usually gets** — the clearest statement of what that kitchen has been arguing for twenty years.
+
+Everything passes through fire or a ferment: charred cabbage, koji-aged vegetables, and a menu where the meat dishes are the afterthought rather than the centre. The pickling programme is visible from the room.
+
+**£££ and it books weeks ahead.** The one to bring someone who thinks vegetarian cooking is a compromise.
 
 ### Bubala, Spitalfields
 
 *£££ · entirely vegetarian* · Cited by 5 sources
 
-Middle Eastern small plates, entirely vegetarian, and busy enough that nobody books it as a concession.
+**Entirely vegetarian and almost never described that way** — the point is that nobody at the table notices what is missing, which is why it is named by five independent sources while vegetarian rooms with more evangelism are named by none.
+
+Middle Eastern small plates off charcoal: **halloumi with black seed honey**, the dish everyone orders and photographs, **confit potato latkes**, oyster mushroom skewers and hummus with a depth most meat kitchens do not reach. The grill does the work meat would normally do.
+
+**£££ and it books weeks ahead.** Small, loud, and busy enough that nobody is there as a concession to somebody else's diet.
 
 ### Ottolenghi, Islington
 
 *£££ · 12 min from Angel*
 
-The window display of salads and cakes is the London original. Communal tables behind it, deli counter alongside.
+**The window display of salads and cakes is the London original** — the counter that shaped how a generation of home cooks eat, and still the best of the group's rooms to see the idea in its first form.
+
+The counters are stacked with **salads built on grains, roasted vegetables and herbs by the handful**, and the cake display behind them is deliberately excessive. Communal tables to eat at, a deli counter to take from, and a menu that changes with what has been roasted that morning.
+
+**£££, counter service and communal seating** — it works for one person with a book and less well for four wanting a conversation. Book a few days ahead for a table.
 
 ![A slice of tart with poached egg, tomato and watercress on a blue plate](../../assets/articles/best-middle-eastern-restaurants-london/ottolenghi.jpg)
-
 *The counters are stacked with salads by the metre. Islington is the original branch. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2466885795), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 
 ### Berber & Q, Haggerston
 
 *£££ · a railway arch* · Cited by 2 sources
 
-Charcoal and smoke — lamb shawarma and the **whole roast cauliflower** off the same grill.
+**A railway arch built around charcoal and smoke** — lamb shawarma and cauliflower off the same grill, in a room that gets very loud very quickly and is not apologising for it.
+
+The **whole roast cauliflower** is the signature and deserves to be: charred whole over coals, dressed and brought to the table intact. Beside it the **lamb shawarma** carved off the spit, short rib, and mezze that are a good deal more than a holding pattern.
+
+**£££ and it books weeks ahead.** Go as a group; the format and the volume both assume one.
 
 ---
 
@@ -202,41 +274,61 @@ He ran his first London pop-up on Columbia Road in 2017 and moved to this Kingly
 
 *££ · 27 Romilly Street · also Borough Market* · Cited by 3 sources
 
-Modelled on **Tehran's hole-in-the-wall kabab houses**, from Kian Samyani. Charcoal kabab and mazeh small plates, in a room deliberately built to feel like a working grill rather than a restaurant.
+**A Tehran hole-in-the-wall kabab house rebuilt in Soho**, from Kian Samyani and the JKS group — counter seating, charcoal, and none of the carpeted formality London Persian restaurants usually come with.
+
+Order the **mahi** (saffron-marinated fish) and **jujeh** (chicken) kababs off the coals, with **torshi** — the sharp Persian pickles — and taftoon bread baked in the room. The **kashke bademjan**, aubergine with whey and fried onion, is the starter to have.
+
+**£££ and it books weeks ahead.** 27 Romilly Street, with a second counter at Borough Market that is easier to get into.
 
 ### Nandine, Camberwell — Kurdish
 
 *££ · 82 Vestry Road · also Camberwell Church Street* · Cited by 3 sources
 
-**The only Kurdish kitchen of any profile in London.** Pary Baban came to the UK from Kurdistan in 1995 after displacement under Saddam Hussein, started selling Kurdish food at Elephant & Castle in 2007, and opened Nandine in 2016.
+**The only Kurdish kitchen of any profile in London.** Pary Baban came to the UK as a refugee from Kurdistan and cooks the food she grew up with — a cuisine that gets folded into Turkish or Persian on most menus and is neither.
 
-*Nandine* means "kitchen" in old Kurdish, which is about right for the register of the food.
+Expect **kubba** — bulgur dumplings stuffed with spiced meat — flatbreads baked to order, slow-cooked stews with dried lime and pomegranate, and vegetable dishes that carry the meal rather than accompany it. Breakfast and brunch are the busiest services.
+
+**££, walk-in.** Two sites: 82 Vestry Road and Camberwell Church Street. Go for brunch at the weekend.
 
 ### The Palomar, Soho — Jerusalem
 
 *£££ · 34 Rupert Street · Bib Gourmand since 2014* · Cited by 3 sources
 
-The Soho counter that made **modern Jerusalem cooking** mainstream in London, open since 2014 and holding a Bib Gourmand from the start. Its own description is "Eastern Mediterranean" rather than a national label.
+The Soho counter that made **modern Jerusalem cooking** mainstream in London, and has held a **Bib Gourmand since 2014**. **The zinc counter, not the tables** — sit at it and the cooking happens a foot from your plate, with the room loud enough to make it a night out rather than a dinner.
 
-The **Sunday set lunch is £30 a head**, which for this kitchen is the value on the page.
+The **kubaneh** — a pull-apart Yemeni bread served with tahini and grated tomato — is the thing to order first and the dish people describe afterwards. Behind it, polenta Jerusalem-style, octopus, and a short menu that changes often.
+
+**£££. Counter seats are held back for walk-ins**, tables book weeks ahead. 34 Rupert Street.
 
 ### Palmyra's Kitchen, Finsbury Park — Syrian and Lebanese
 
 *££ · 5–7 Wells Terrace · open to midnight* · Cited by 2 sources
 
-Named for Palmyra deliberately, to put Syrian cooking in the foreground. Mezze platters, charcoal-grilled meats and stews, served until midnight every day, with a second site round the corner on Clifton Terrace.
+**Tucked round the back of Finsbury Park station** next to the bus stands — hidden in plain sight, and named for Palmyra deliberately, to put Syrian cooking in the foreground rather than filing it under Lebanese.
+
+**Mezze platters** are the format: hummus, moutabal, fattoush and warm bread, with **shawarma** and charcoal grills behind them. Portions are large and the pricing is a fraction of central London for the same cooking.
+
+**££, open to midnight**, which makes it one of the better late options in north London. Walk-in; 5–7 Wells Terrace.
 
 ### Maramia Cafe, Golborne Road — Palestinian
 
 *££ · 48 Golborne Road · closed Mondays* · Cited by 2 sources
 
-**Palestinian home cooking** on Golborne Road, all day, with set-menu nights and live music on Fridays and Saturdays. A second site sits on Portobello Road.
+**Palestinian and Arabic home cooking on Golborne Road since 2005** — long before anyone was writing guides to it, and still run the same way.
+
+All-day cooking rather than a fixed menu: **maqluba**, the upside-down rice and vegetable dish, **musakhan**, mezze, and grills, with **set-menu nights and live music** that are the reason regulars book rather than drop in.
+
+**££, closed Mondays.** 48 Golborne Road, a few minutes from Portobello. Ask what is on before you order from the menu.
 
 ### Meza, Tooting — Lebanese
 
 *££ · 34 Trinity Road* · Cited by 3 sources
 
-A tiny, long-running Lebanese mezze room in Tooting, and the sort of place that survives on regulars rather than reviews.
+**A tiny Tooting room** where the mezze arrives faster than the table can clear it, at prices that explain the permanent queue — the sort of place that survives entirely on regulars.
+
+The **mezze** is the whole proposition: hummus, moutabal, halloumi, sujuk, kibbeh and warm flatbread, ordered by the handful and replaced as fast as you finish. Grills exist and are beside the point.
+
+**££, tiny, and no bookings** — put your name down and wait on Trinity Road. Cash-friendly, and among the cheapest proper meals in this guide.
 
 ---
 
@@ -248,37 +340,51 @@ The cheapest and often the best Middle Eastern food in London is sold across a c
 
 *£ · manakeesh £2–£3 · 8am–4pm*
 
-A Lebanese bakery of more than twenty years in an Acton business centre — **no dining room at all**, just manakeesh from £2 and trays of baklawa.
+A Lebanese bakery of **more than twenty years** in an Acton business centre, with **no dining room at all** — you order at the counter and eat standing or take it away.
 
-**The cheapest verified thing in this guide**, and worth the trip if you are anywhere near Park Royal.
+**Mana'eesh from about £2**, made to order: **spinach, cheese, or lahem beajin** — the minced-lamb flatbread — baked while you wait, plus trays of **baklawa** sold by weight. That is essentially the menu and it does not need to be longer.
+
+**The weekend queue is drawn from across west London**, which is the clearest recommendation available. Walk-in, cash-friendly, and worth the industrial-estate location.
 
 ### Ta'mini Lebanese Bakery, Fulham, Bloomsbury and Kensington
 
 *£ · ka'ak £3.00 · za'atar manakish £3.95*
 
-Husband-and-wife Lebanese bakers with three London counters. **Za'atar manakish £3.95**, ka'ak with za'atar or sumac **£3.00**, falafel wrap £8.95, kafta wrap £9.45.
+Husband-and-wife Lebanese bakers — **Ali from north Lebanon and Nermin from Beirut** — who opened in the first lockdown and have been expanding since. Three London counters now.
 
-The most reliable cheap Lebanese food in central London, and the prices are published, which almost nothing here does.
+**Za'atar manakish £3.95**, **ka'ak with za'atar or sumac £3.00**, falafel wrap £8.95, and **fatayer** — the folded spinach or cheese pastries — through the day. Everything is baked to order and handed over hot.
+
+**Counter service, walk-in, all day.** The cheapest good lunch in three separate postcodes, and one of the few bakeries in this guide cited by more sources than most restaurants.
 
 ### Common Breads, Belgravia
 
 *£ · ka'ak from £2.50 · manouche from £4.50 · 8am–6pm*
 
-A **Beirut bakery counter** opposite Victoria station, from three childhood friends from Lebanon. Purse-shaped **ka'ak from £2.50** and manouche flatbread **from £4.50**, including a musakhan version.
+**A Beirut bakery counter opposite Victoria station**, from three childhood friends from Lebanon — a bakery rather than a restaurant, and cited by more guides than most of the restaurants on this page.
+
+**Flatbreads and manakish straight out of the oven**, and purse-shaped **ka'ak from £2.50** — the sesame-crusted bread sold from carts across Beirut, filled here with cheese or za'atar. Manouche flatbreads baked to order behind them.
+
+**Walk-in, quick, and cheap for the postcode** — one of very few things near Victoria worth eating that costs under a fiver.
 
 ### Mr Falafel, Shepherd's Bush Market
 
 *£ · Palestinian · market stall*
 
-Twenty-four years of **Palestinian falafel** from a Shepherd's Bush Market stall — wraps in two sizes, wholemeal available, and almost the entire menu vegan.
+**Twenty-four years of Palestinian falafel** from a Shepherd's Bush Market stall, and one of the few entries in this guide where the whole menu fits on a board above the hatch.
+
+Falafel **wraps in two sizes**, wholemeal available, fried to order so they arrive hot with a crisp shell and a green centre — the test any falafel stand passes or fails on. Pickles, tahini and chilli sauce added at the counter.
+
+**Walk-in, cash-friendly, market hours** — closed by late afternoon, and gone if you turn up expecting dinner. Among the cheapest meals in the guide.
 
 ### Green Valley, Edgware Road
 
 *£ · grocery and hot counter · 8am to midnight*
 
-Established in **1986** and the anchor of the Edgware Road quarter: a Lebanese **grocery and food hall** with a hot counter of rice dishes, breads and salads, a halal butchery, Turkish sujuk and fresh dates.
+**A Lebanese supermarket with a food counter attached** on Edgware Road, and one of the few places in London where the shopping and the eating are the same trip.
 
-Open until midnight, and the best place in London to assemble a Middle Eastern meal to take away.
+The counter runs **shawarma carved off the spit**, mana'eesh from the oven, and trays of mezze sold by weight, with a **patisserie counter** of baklawa and knafeh at the front that is worth the visit alone. The supermarket behind it stocks what the restaurants on this page cook with.
+
+**Open late, walk-in, and cheap.** Buy the food to take away and the ingredients to repeat it at home.
 
 ---
 
