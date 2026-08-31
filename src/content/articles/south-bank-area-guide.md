@@ -122,6 +122,10 @@ The busiest stretch. Street performers, the skate park at the Undercroft, food s
 ### Bankside
 Tate Modern, Shakespeare's Globe and the Millennium Bridge. Quieter than the western end and the most attractive part of the walk.
 
+![The brick chimney and long riverside frontage of Tate Modern, with a banner reading free and open to all](../../assets/articles/south-bank-area-guide/tate-modern.jpg)
+
+*Tate Modern, in the shell of Bankside Power Station. Free, and the tenth-floor viewing level in the Blavatnik Building behind it is free too.*
+
 ![The white timber and thatch exterior of Shakespeare's Globe on Bankside](../../assets/articles/south-bank-area-guide/shakespeares-globe.jpg)
 
 *Shakespeare's Globe. The thatch is the only one in London — every other roof of its kind was banned after the Great Fire.*
@@ -133,15 +137,19 @@ Tate Modern, Shakespeare's Globe and the Millennium Bridge. Quieter than the wes
 ### Borough and Southwark
 Inland from the river. Borough Market, Southwark Cathedral and the Victorian streets around Stoney Street.
 
+![Shoppers filling an aisle of Borough Market under its iron and glass roof, beside a fishmonger's counter](../../assets/articles/south-bank-area-guide/borough-market.jpg)
+
+*Borough Market. Busiest on Saturday by a wide margin — a Tuesday or Wednesday morning is the same market with room to move.*
+
 ### More London and Tower Bridge
 The eastern end, with City Hall's old building, HMS Belfast and the approach to Tower Bridge.
 
+![HMS Belfast moored on the Thames with the City of London's towers rising on the far bank](../../assets/articles/south-bank-area-guide/hms-belfast.jpg)
+
+*HMS Belfast, permanently moored off Tooley Street since 1971. The view across her guns to the City is the best free thing on this stretch.*
+
 ### Lower Marsh and Leake Street
 Behind Waterloo station. Lower Marsh is a genuine local street of independent cafes and a weekday market, five minutes off the tourist route and far better value. **Leake Street** runs under the station alongside it.
-
-![The underside of the Millennium Bridge, its steel arms spreading above the Thames path, with Tate Modern beyond](../../assets/articles/south-bank-area-guide/millennium-bridge.jpg)
-
-*Under the Millennium Bridge on the south bank. It swayed so badly on opening that it shut for two years. Photo: [SLR Jester](https://www.flickr.com/photos/16549191@N00/325850961), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-guide-london-eye" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
