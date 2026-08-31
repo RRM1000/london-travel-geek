@@ -230,7 +230,7 @@ Everything here comes in under £12, and none of it takes a booking.
 
 Flaky batter, thick chips, and nothing else going on: **a takeaway counter, not a restaurant**, with no seating at all. That focus is the point and the reason the queue forms.
 
-**CASH ONLY, under £10, closed Sunday.** Bring notes and eat it walking; there is nowhere to sit and no card machine.
+**CASH ONLY, under £10, closed Sunday.** Bring notes and eat it walking; there is nowhere to sit and no card machine. Leytonstone is the far end of the Central line, which is why the prices have not moved.
 
 
 > ⚠️ **Cash only, and no seating.** It is a takeaway counter, not a restaurant.
@@ -253,7 +253,7 @@ Fish bought fresh and fried to order in a crisp, light batter, with hand-cut chi
 
 Straightforward and done right: cod and haddock in a crisp batter, chips fried properly, and the standard sides. No restaurant menu, no grilled options, no reinvention.
 
-**£, walk-in, closed Sunday.** Herne Hill, and cheap enough that a full portion still leaves change from a tenner in most weeks.
+**£, walk-in, closed Sunday.** Herne Hill, and cheap enough that a full portion still leaves change from a tenner in most weeks. A few minutes from the station and the Sunday market, which is the reason to combine the two.
 
 ### Mickey's Chippy, Stoke Newington
 
