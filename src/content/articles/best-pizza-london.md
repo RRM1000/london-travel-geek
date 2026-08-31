@@ -277,6 +277,10 @@ Founded in 2023 by a husband-and-wife pair who came out of tech. A second site o
 
 Baked in blue steel pans so the cheese caramelises against the edge — crunchy corners, cloud-like middle. The other serious Detroit pizza in the city, and the one on the east side.
 
+![The dining room at Detroit Pizza London, brick walls hung with framed American memorabilia above a long shared table](../../assets/articles/best-pizza-london/detroit-pizza-london.jpg)
+
+*Detroit Pizza London on Commercial Street. The Detroit theme runs to the walls — the framed jersey is the Lions quarterback.*
+
 #### Japes, Soho
 
 *££ · Soho · 22–25 Dean Street · Cited by 4 sources · #19 of 21, Time Out · [book a table](https://www.sevenrooms.com/explore/japescamden/reservations/create/search/)*
