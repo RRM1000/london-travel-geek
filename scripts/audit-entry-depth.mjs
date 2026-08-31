@@ -17,7 +17,17 @@
 // 217 of 502 entries were under 40 words. The measurement existed nowhere, so
 // nobody could see the slide.
 //
-// WHAT AN ENTRY OWES THE READER, beyond the citation count:
+// A FLAT FLOOR WAS THE WRONG SHAPE. 45 words cleared the bar and still read as
+// three lines - Duck & Waffle passed while saying almost nothing about the
+// dish, the room or the hours. The floor is now 80 for a full entry.
+//
+// But not every entry is a full entry. The later sections of a guide are
+// deliberately a LIST: name, one line, and a pointer up to the fuller entry, so
+// the same description is not written twice. Those are exempt - see isCrossRef
+// below - because holding them to 80 words would force exactly the duplication
+// the structure exists to avoid.
+//
+// WHAT A FULL ENTRY OWES THE READER, beyond the citation count:
 //   - what they actually cook, by name. Not "excellent Sichuan food" but the
 //     dish someone would order.
 //   - what the room is like to be in.
@@ -29,7 +39,7 @@
 import fs from "node:fs";
 
 const args = process.argv.slice(2);
-const MIN = Number(args.find((a) => a.startsWith("--min="))?.slice(6) ?? 45);
+const MIN = Number(args.find((a) => a.startsWith("--min="))?.slice(6) ?? 80);
 const only = args.filter((a) => !a.startsWith("--"));
 
 // Lines that are furniture around an entry rather than the entry itself.
