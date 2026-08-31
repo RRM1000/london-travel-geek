@@ -68,9 +68,12 @@ Sour, salty and hot, from the region bordering Laos. Som tam papaya salad, larb,
 
 *££ · 314 Uxbridge Road · evenings only* · Cited by 2 sources
 
-**The original, and still the purest.** Opened in **1992** and billing itself as London's first Isaan restaurant, still run by the Puntar family, cooking dishes from Ubon in the far north-east after thirty-four years.
+**London's first Isaan restaurant, open since 1992 and still run by the Puntar family**, cooking Ubon dishes nobody else in the city bothers with — and doing it in a green-fronted room on Uxbridge Road that has not changed in thirty years.
 
-Som tam with sticky rice is the thing to order, and the son-in-law eggs after it. Nothing about the room has been updated to chase anybody.
+Isaan is the north-east: sour, salty and hot rather than sweet and coconut-heavy. **Som tam with sticky rice** is the order — green papaya pounded with lime, fish sauce and chilli — with **larb** and grilled meats alongside. Ask for it at Thai heat if you mean it.
+
+**££, closed Sunday, book a few days ahead.** Shepherd's Bush, and the oldest kitchen of its kind in the country.
+
 
 > ⚠️ Its own site lists **evenings only, Monday to Saturday** — no Sunday. Aggregators still show a lunch service. Ring before making a lunchtime trip.
 
@@ -92,17 +95,21 @@ The **deep-fried whole seabass** with herbs has survived every menu change since
 
 *££ · inside The Salutation, 154 King Street* · Cited by 2 sources
 
-**The best example of London's Thai-pub genre**, in a King Street pub whose building dates to 1750.
+**Thai food out of a pub kitchen** — which in London usually means a bad green curry, and here means fierce Isaan cooking with no adjustment for the room it is in.
 
-The distinction that matters: this is genuinely raw and fermented Isaan rather than the toned-down version pubs usually serve. **Duck larb**, and som tum pounded with salted crab. There is raw marinated blue crab salad on the menu, which tells you how little it is compromising.
+**Som tam, larb and grilled pork neck** off the charcoal, seasoned as they would be in Ubon rather than moderated for a Hammersmith pub audience. The heat is real and the kitchen will not soften it unless you ask.
+
+**££, walk-in.** Two hundred metres from 101 Thai Kitchen, which makes this stretch of King Street the best Thai in west London by a distance.
 
 ### 101 Thai Kitchen, Hammersmith
 
 *££ · 352 King Street · closed Mondays* · Cited by 2 sources
 
-A King Street veteran that has specialised in Isaan longer than almost anyone, and **cooks Southern alongside it** — two regions in one kitchen, which is unusual.
+**A King Street veteran cooking Isaan and Southern in one kitchen**, two hundred metres from Khun Pakin — two serious Thai rooms on the same street, which happens nowhere else in London.
 
-About two hundred metres from Khun Pakin, which makes this short stretch of King Street the most concentrated Isaan cooking in London.
+Two regional traditions on one menu: the sour-hot **Isaan** dishes — som tam, larb, grilled meats — and the coconut-heavy **Southern** curries, which are hotter and richer than anything Bangkok serves. Order across both to see the difference.
+
+**££, closed Monday.** Plain room, long menu, and the sort of place where the Thai-language specials are the ones to ask about.
 
 ---
 
@@ -148,31 +155,45 @@ The group of restaurants that made Thai food fashionable in London, all built ar
 
 *£££ · 3 min from Piccadilly Circus · counter is walk-in* · Cited by 5 sources
 
-Everything comes off **wood and charcoal along a single counter**, and the counter seats are the entire point — they are walk-in while the tables take bookings.
+**Everything comes off wood and charcoal along a single counter** — there is no gas in the building, and the kitchen is the room. Sit at the bar and watch your food cooked a foot away.
 
-The short rib curry is the order. The best Thai cooking in central London, and one of the best restaurants in the city at any price.
+The signature is the **short rib curry**, slow-cooked over embers and served with rice, and it is what the counter seats are worth queueing for. Around it, clay-pot noodles, grilled langoustines and the northern Thai cooking Ben Chapman built the place on — sharper and smokier than the Bangkok food most London Thai restaurants serve.
+
+**Counter seats are walk-in only and the wait is real; tables can be booked.** £££, three minutes from Piccadilly Circus, and **lunch is materially cheaper than dinner for the same counter**.
 
 ### Smoking Goat, Shoreditch
 
 *£££ · 1 min from Shoreditch High Street* · Cited by 4 sources
 
-Kiln's sibling, doing **Thai drinking food and live-fire cooking** in a room that behaves like a bar. Later and louder, and the better choice if you want to stay a while.
+**Thai drinking food and live-fire cooking in a room that behaves like a bar** — the sibling to Kiln, and just as loud. The format is Bangkok's late-night eating rather than a restaurant service.
+
+The **fish sauce wings** are the dish everyone orders and the one to judge it on: deep-fried, glazed in fish sauce and palm sugar, sticky and salty enough to demand another drink. Beyond them, lardo and langoustine over charcoal, and curries built for sharing across a crowded table.
+
+**£££ and it books weeks ahead.** A minute from Shoreditch High Street. Come for an evening rather than a meal.
 
 ![The corner frontage of Smoking Goat in Shoreditch](../../assets/articles/best-thai-restaurants-london/smoking-goat.jpg)
-
 *Thai barbecue and a lot of noise. The chicken wings are the thing. Photo: [Ewan-M](https://commons.wikimedia.org/w/index.php?curid=174581316), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 
 ### Kolae, Borough
 
 *£££ · 3 min from London Bridge* · Cited by 4 sources
 
-**Southern Thai grilling** from the same team — charcoal and coconut, and a different regional tradition again from either of its siblings. The name is a Southern grilling style, not a place.
+**Southern Thai grilling from the Kiln team** — a different regional tradition again, built around charcoal and coconut rather than the Isaan and northern cooking that dominates London's Thai scene.
+
+The signature is **kolae chicken**, the dish the restaurant is named after: butterflied, basted repeatedly in coconut and turmeric, and grilled over charcoal until the glaze caramelises into a crust. Southern curries around it, hotter and less sweet than Bangkok's.
+
+**£££, books weeks ahead**, three minutes from London Bridge. Sit at the counter if you can — the grill is the show.
 
 ### Speedboat Bar, Chinatown
 
 *££ · pool tables* · Cited by 4 sources
 
-Built to feel like a **late-night Bangkok Chinatown canteen**, pool tables and all, and the cooking is good enough that the theming turns out to be beside the point. Cheaper than the room suggests.
+Built to feel like a **late-night Bangkok Chinatown canteen** — strip lights, football on the screens, **pool tables** — and the curries are good enough that it was ranked the fourth best restaurant in London.
+
+The cooking is Thai-Chinese from Bangkok's Yaowarat district: **dry-aged noodle dishes**, wok-charred seafood and curries with real heat, built to be eaten with beer rather than wine. The pool tables are used, which tells you what kind of evening it is.
+
+**£££ and it books weeks ahead.** Three minutes from Piccadilly Circus. Go as a group and order across the whole menu.
 
 ---
 
@@ -204,31 +225,51 @@ Rob Willcox and Josh Lyons met at Farang and opened in **August 2025** in the Pe
 
 *£££ · 9 Market Place* · Cited by 3 sources
 
-Named for the **northern Thai coconut curry noodle** it is built around — Chiang Mai's signature dish, and one London had almost no version of until recently. The first site outside Thailand, opened late 2025.
+**Named for the northern Thai coconut curry noodle it is built around** — the newest room on these lists and already on all of them.
+
+**Khao soi** is the dish: egg noodles in a coconut and curry broth, topped with a nest of the same noodles fried crisp, with pickled mustard greens, shallot and lime to add yourself. It is a Chiang Mai dish and almost nowhere in London does it properly. The rest of the menu is northern Thai in the same register.
+
+**£££ and it books weeks ahead.** Fitzrovia, small, and the queue for walk-ins builds early.
 
 ### Farang, Highbury
 
 *£££ · 11 min from Arsenal* · Cited by 5 sources
 
-Modern Thai with none of the timidity a neighbourhood address usually brings, and a kitchen that has now produced chefs for other restaurants on this page.
+**A north London room doing modern Thai with none of the timidity** that usually comes with a neighbourhood address — the cooking is as hot and as sour as it should be.
+
+The menu changes constantly and leans northern: **grilled meats, jungle curry, whole fish**, with heat that is not adjusted downward for Highbury. Set menus are the way most tables order.
+
+**£££ and it books weeks ahead. Open Wednesday to Saturday only** — closed Sunday, Monday and Tuesday, which catches people out.
 
 ### The Begging Bowl, Peckham
 
 *£££ · 168 Bellenden Road* · Cited by 5 sources
 
-Thai street-food cooking in small plates meant to be ordered across the table rather than a dish each. It has anchored the Bellenden Road end of Peckham for years.
+**Jane Alty trained under David Thompson** — the Australian chef who did more than anyone to document real Thai cooking — **and cooks northern Thai in Peckham**, in small plates meant to be ordered across the table.
+
+The menu is a long list of small dishes rather than a few large ones: **curries, salads, grilled meats and relishes**, changing with the season, and designed so a table orders six or seven and shares everything. No single signature; the balance across the order is the point.
+
+**£££, closed Monday, and it books weeks ahead.** Bellenden Road, and one of the restaurants that made Peckham a destination.
 
 ### Chet's, Shepherd's Bush
 
 *£££ · an American diner* · Cited by 1 source
 
-Thai flavours through the lens of an LA diner — the bar snacks and the drinks are as much of the draw as the food, and it is the least traditional thing here by some distance.
+**Thai flavours through an American diner** — an LA-inspired hotel room in Shepherd's Bush where **the bar snacks and the drinks are doing as much work as the kitchen**.
+
+The format is Thai-American crossover: **fried chicken with Thai seasoning**, larb-spiced burgers, and noodles alongside a serious cocktail list. It is a bar that feeds you properly rather than a restaurant with a bar attached.
+
+**£££, book a few days ahead.** Inside The Hoxton, and open later than most of this guide.
 
 ### Nipa Thai, Bayswater
 
 *£££ · 1 min from Lancaster Gate* · Cited by 2 sources
 
-Plush, traditional, and among the first Thai dining rooms in London to charge what the French and Italian rooms were charging. Still doing it.
+**One of the first Thai restaurants in London to charge what the French and Italian rooms charged** — plush, polished, and still doing it, in a teak-panelled dining room overlooking Hyde Park.
+
+Royal Thai cooking rather than street food: **refined curries, carved fruit and delicate presentation**, cooked by a Thai kitchen brigade in a room that has kept its formality while everything around it went casual. The park view is half the price.
+
+**£££, book a few days ahead.** Inside the Royal Lancaster on Bayswater Road. The antithesis of the Isaan rooms elsewhere in this guide, and deliberately so.
 
 ---
 
@@ -239,6 +280,8 @@ Plush, traditional, and among the first Thai dining rooms in London to charge wh
 *£ · 181 King's Cross Road · from £5.95 · BYO · closed Sundays* · Cited by 2 sources
 
 **Dishes from £5.95**, bring your own bottle, family-run, and no regional pretensions whatsoever — central Thai canteen classics done properly and cheaply. The counterweight to everything else on this page.
+
+This is the Bangkok-standard repertoire rather than a regional one: **pad thai, green and red curry, pad krapow** with a fried egg on rice, and tom yum. It is the food the rest of this guide has spent fifteen years arguing is not the whole story, cooked well enough to remind you why it travelled in the first place.
 
 **Thai pub kitchens are the other great London bargain.** An ordinary pub lets a Thai family run its kitchen and the food is routinely far better than the room suggests. Khun Pakin at The Salutation is the best of them, but most areas have one and they are rarely written about — ask locally.
 
