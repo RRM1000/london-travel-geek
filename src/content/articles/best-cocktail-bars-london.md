@@ -1,7 +1,7 @@
 ---
 title: "The Best Cocktail Bars in London: 21 Compared"
 seoTitle: "Best Cocktail Bars London 2026: 21 Rooms Compared"
-description: "Where the Savoy Cocktail Book was written, a martini mixed at your table from a trolley, and a two-drink limit that tells you everything — London's best bars."
+description: "Where the Savoy Cocktail Book was written, a martini mixed at your table from a trolley, and a two-drink limit enforced because the martinis are poured neat — London's best bars."
 heroImage: "../../assets/articles/best-cocktail-bars-london/best-cocktail-bars-london.jpg"
 heroImageAlt: "A bartender measuring spirits into a jigger behind a dimly lit bar"
 heroImageCredit: "James Dollin"
@@ -31,7 +31,7 @@ London's cocktail scene splits neatly in two. There are the **Mayfair and St Jam
 
 Both are worth your time and they are not competing.
 
-> 💡 **The Short Version:** **The Connaught Bar** has twice been voted the world's best and mixes the martini at your table. **Dukes** imposes a two-drink limit, which tells you everything. **The American Bar** at the Savoy is where the Savoy Cocktail Book was written. **Satan's Whiskers** rewrites its menu by hand every day and is the most decorated bar in London right now. And **Tayēr + Elementary** is two bars in one room.
+> 💡 **The Short Version:** **The Connaught Bar** has twice been voted the world's best and mixes the martini at your table. **Dukes** imposes a two-drink limit, because the martini is poured neat from a frozen bottle at your table. **The American Bar** at the Savoy is where the Savoy Cocktail Book was written. **Satan's Whiskers** rewrites its menu by hand every day and is the most decorated bar in London right now. And **Tayēr + Elementary** is two bars in one room.
 
 > 📘 **How we choose these (editorial note)**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Where a bar holds a world ranking we give the position and the year, because those lists move every autumn. All rankings here are from the World's 50 Best Bars 2025 — the 2026 list is announced in Milan in October 2026, and anything claiming a 2026 ranking before then is not real.

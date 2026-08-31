@@ -158,7 +158,7 @@ Restaurants rather than pubs, where the building is genuinely the reason to book
 
 *££££ · 7 min from St James's Park* · Cited by 3 indian sources
 
-The **old Westminster Library**, Grade II listed, with the bookshelves still in place and the gallery still running round the room. Indian cooking, and close enough to Parliament that the lunch trade tells you something about the day's politics.
+The **old Westminster Library**, Grade II listed, with the bookshelves still in place and the gallery still running round the room. Indian cooking, and close enough to Parliament that it fills with MPs and lobbyists whenever the House is sitting.
 
 ### Sessions Arts Club, Clerkenwell
 

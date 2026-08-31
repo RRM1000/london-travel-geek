@@ -1,7 +1,7 @@
 ---
 title: "Late-Night Eating in London: Where to Eat After Midnight"
 seoTitle: "Late Night Food London 2026: Open After Midnight"
-description: "A pub with no front door to close, ramen at 1am, Whitechapel lamb chops and a fry-up forty floors up — where London actually feeds you late."
+description: "A 24-hour caff with no front door, ramen at 1am, Whitechapel lamb chops and a fry-up forty floors up — where London actually feeds you late."
 heroImage: "../../assets/articles/late-night-eating-london/late-night-eating-london.jpg"
 heroImageAlt: "A neon diner sign glowing on a London street at night"
 heroImageCredit: "Tony Hisgett"
@@ -16,7 +16,7 @@ tags: [restaurants, late night, cheap eats, nightlife, dining]
 draft: false
 faq:
   - q: "Where can I eat after midnight in London?"
-    a: "Duck & Waffle in the City is open 24 hours, forty floors up. The Polo Bar by Liverpool Street has no front door to close. Tayyabs and Original Lahore Kebab House in Whitechapel both run late, as does Ranoush Juice on Edgware Road."
+    a: "Duck & Waffle in the City is open 24 hours, forty floors up. The Polo Bar opposite Liverpool Street has no front door, because it has traded around the clock since 1953. Tayyabs and Original Lahore Kebab House in Whitechapel both run late, as does Ranoush Juice on Edgware Road."
   - q: "Is London good for late-night food?"
     a: "Honestly, less than most big cities. Kitchens close early by international standards and the reliable late options cluster in a few places — the City, Whitechapel, Edgware Road, Chinatown and Dalston. Outside those, midnight is difficult."
   - q: "Where is the best cheap late-night food in London?"
@@ -31,7 +31,7 @@ London closes earlier than it thinks it does. Most kitchens stop at 10pm, and by
 
 Those places are genuinely good — this is not a list of last resorts.
 
-> 💡 **The Short Version:** **Duck & Waffle** is open 24 hours, forty floors up. **The Polo Bar** has no front door to close. **Tayyabs** in Whitechapel is the best meal on this page. **Ranoush** on Edgware Road is the best £10. And **Voodoo Ray's** sells pizza by the slice until the small hours.
+> 💡 **The Short Version:** **Duck & Waffle** is open 24 hours, forty floors up. **The Polo Bar** has traded 24 hours since 1953 and has no front door to shut. **Tayyabs** in Whitechapel is the best meal on this page. **Ranoush** on Edgware Road is the best £10. And **Voodoo Ray's** sells pizza by the slice until the small hours.
 
 > 📘 **How we choose these (editorial note)**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Late-night opening is the single most volatile thing a restaurant publishes — every time here was checked against the venue's own listing, but confirm before crossing London at 1am.
@@ -80,7 +80,7 @@ Forty floors up and **open around the clock** — the only place in London where
 
 *££ · no front door*
 
-So committed to trading around the clock that it **has no front door to close**. A fry-up at any hour, beside the station.
+Open every minute of every day since 1953, run by the same family, and **it has no front door** — there was never any point fitting one. The single exception is Christmas Day, when a sheet of plywood goes over the entrance. A fry-up at any hour, beside the station.
 
 ---
 

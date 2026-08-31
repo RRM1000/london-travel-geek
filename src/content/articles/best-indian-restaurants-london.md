@@ -156,7 +156,7 @@ It sits inside the St James' Court hotel, a short walk from Buckingham Palace an
 
 *££££ · Westminster · 7 min from St. James's Park · Cited by 3 sources · London Icon 2025*
 
-The old Westminster Library, Grade II listed, with the bookshelves still in place and the gallery still running round the room. It is the most striking dining room of any Indian restaurant in London by a wide margin, and it sits close enough to Parliament that the lunch trade tells you something about the day's politics.
+The old Westminster Library, Grade II listed, with the bookshelves still in place and the gallery still running round the room. It is the most striking dining room of any Indian restaurant in London by a wide margin, and it sits close enough to Parliament that it fills with MPs, civil servants and lobbyists whenever the House is sitting.
 
 **9 minutes from Quilon.**
 

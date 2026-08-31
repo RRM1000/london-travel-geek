@@ -14,7 +14,7 @@ faq:
   - q: "Where is the best breakfast in London?"
     a: "The Wolseley on Piccadilly is the London power breakfast and the room is a 1920s car showroom. Dishoom's bacon naan roll is the one people queue for. For a view, Duck & Waffle is forty floors up and open around the clock."
   - q: "Where can I get breakfast very early or very late in London?"
-    a: "Duck & Waffle in the City serves 24 hours. The Polo Bar by Liverpool Street is so committed to trading around the clock that it has no front door to close. Both do a fry-up at any hour."
+    a: "Duck & Waffle in the City serves 24 hours. The Polo Bar opposite Liverpool Street has traded 24 hours since 1953 and has no front door, because in seventy years it has never needed one. Both do a fry-up at any hour."
   - q: "Do I need to book brunch in London?"
     a: "At weekends, yes for the popular rooms — Granger & Co, Caravan and The Wolseley all fill. Dishoom takes bookings before 6pm for any party size. Most independent cafés are walk-in and the queue moves."
   - q: "Where can I get a cheap breakfast in London?"
@@ -127,7 +127,7 @@ An all-day kitchen with a roastery attached — the room most responsible for Lo
 
 *££ · 3 min from Balham* · Cited by 3 sources
 
-A Balham café that has topped London brunch lists for years without ever opening a second site, which tells you something.
+A Balham café that has topped London brunch lists for years without ever opening a second site. The hangover sauce is the thing people come back for.
 
 ![The frontage of Milk café in Balham with pavement tables](../../assets/articles/best-breakfast-brunch-london/milk.jpg)
 
@@ -337,7 +337,7 @@ Named by three independent sources despite being the most obviously commercial r
 
 *££ · the flower-covered ones* · Cited by 2 sources
 
-Instantly recognisable from the floral frontages, and a bottomless brunch operation as much as a breakfast one. More sites than anyone expects.
+Instantly recognisable from the floral frontages, and a bottomless brunch operation as much as a breakfast one. **Twenty-two sites, ten of them in London** — Parsons Green, Battersea, Clapham Old Town, Balham, Wandsworth, Wimbledon, Dulwich, Chiswick, Kensington and Islington — with the rest strung along the Thames and out through Surrey and the home counties.
 
 ### Ottolenghi, five sites
 
@@ -362,8 +362,6 @@ Not a breakfast business exactly, but the Chelsea and Notting Hill counters do a
 * **Riccardo's Café**, Liverpool Street — **£9**, which is remarkable for the postcode. *Cited by 1 source*
 * **Half Moon Café**, Hammersmith — **£9.20**. *Cited by 1 source*
 
-> 💡 **A £5 breakfast does exist.** Rise & Dine in Lambeth was filmed serving a £5 English breakfast in July 2026, though the standing menu price is £11.99 — worth checking before travelling for it.
-
 #### The caffs
 
 * **Regency Café**, Westminster — a **set breakfast at £9.99**, which is close to the floor for a sit-down cooked breakfast in central London. Open since 1946, black-tiled, order shouted across the room. Monday to Saturday, 7am to 3.30pm, closed Sundays. *Cited by 3 sources*
@@ -377,7 +375,7 @@ Not a breakfast business exactly, but the Chelsea and Notting Hill counters do a
 #### Pubs and odd hours
 
 * **Wetherspoons** — The Crosse Keys, Hamilton Hall, The Ledger Building and The Montagu Pyke all open at 8am and serve a cooked breakfast for a few pounds, in buildings people would otherwise queue to look at. The cheapest cooked breakfast in central London by a distance.
-* **Polo Bar**, Liverpool Street — **no front door to close**. A fry-up at any hour of the day or night.
+* **Polo Bar**, Liverpool Street — a fry-up at any hour, run by the Inzani family since 1953 and open every minute of every day. **It has no front door**, because it has never needed to shut one; on Christmas Day, the only day it closes, they nail a sheet of plywood over the entrance.
 * **The Attendant**, Fitzrovia — brunch inside a Victorian public lavatory, with the urinals as the counter.
 
 #### Markets and bakeries

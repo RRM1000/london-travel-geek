@@ -76,31 +76,47 @@ Arranged by **what you are actually buying** — the historic claim, the room, t
 
 *££££ · 3 min from Oxford Circus · Cited by 4 sources*
 
-The **Palm Court claims to be where afternoon tea began** in the 1860s, and it is still the benchmark against which the others are judged. Book weeks ahead.
+The Palm Court is **where the ritual was invented** — The Langham opened in 1865 and was the first hotel in the world to serve afternoon tea, moving it out of aristocratic drawing rooms and into a place anyone could book. It is still the benchmark the others are judged against.
+
+The stand is Victorian-inspired but not museum-piece: sandwiches, scones, and pastries built by **Michel Roux with pastry chef Andrew Gravett**, who changes the sweets seasonally. Vegan, gluten-free and children's versions are all made properly rather than improvised.
+
+Sixty-five seats on the ground floor, a pianist from 1pm to 7pm, and enough room between tables to talk. Smart casual — no sportswear or flip-flops, but no jacket-and-tie either. **Book weeks ahead for a weekend.**
 
 ### The Ritz, Piccadilly
 
 *££££ · 2 min from Green Park · dress code enforced · Cited by 4 sources*
 
-The most recognised afternoon tea in London, served in the Palm Court with a pianist.
+The most recognised afternoon tea in London, and the most formal. Served in the Palm Court of the **18th-century William Kent House** under gilt and mirrors, with a pianist or harpist through most sittings and a piano, cello and violin trio on weekday evenings.
 
-> ⚠️ **The dress code is real and enforced.** Jacket and tie for men; no jeans or trainers. Weekend sittings book months out.
+Finely cut sandwiches, **scones with Cornish clotted cream and strawberry preserve**, and a cake trolley wheeled to the table so you choose by eye rather than off a menu. Twenty loose-leaf teas including the house Ritz Royal Blend.
+
+**£95 a head, £73 for children**, champagne from £26 a glass. Five sittings a day, seven days a week — 11.30am, 1.30pm, 3.30pm, 5.30pm and 7.30pm.
+
+> ⚠️ **The dress code is real and enforced.** Jacket and tie for men, no jeans or trainers — waived only for under-16s. Weekend sittings book months out.
 
 ### Claridge's, Mayfair
 
 *££££ · 5 min from Bond Street · Cited by 1 source*
 
-Art Deco Mayfair, with its own house blend of Assam and Darjeeling, served in the Foyer and Reading Room.
+Art Deco Mayfair at its most composed, in the **Foyer and Reading Room** — an ornate gilded space laid with the hotel's signature jade-and-white striped china, which is as recognisable as the building.
+
+Savouries lean British and specific: **smoked Scottish salmon**, seasonal pastries that change through the year, and a tea list running from a rich Oolong to the house Claridge's Blend, made for the room by a tea buyer rather than bought in.
+
+**£95 a head, £110 with champagne, £125 with rosé.** The festive menu from early November to 3 January runs £120 on weekdays and £130 at weekends. This is the one where people dress up without being told to.
 
 ![The art deco entrance canopy of Claridge's in Mayfair](../../assets/articles/best-afternoon-tea-london/claridge-s.jpg)
-
 *The most formal of the grand teas, in a foyer designed to be walked through slowly. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2611316232), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 
 ### Fortnum & Mason, Piccadilly
 
 *££££ · the tea merchant's own salon · Cited by 2 sources*
 
-Opened by the Queen in 2012, and **the one place where the tea list is the point** rather than the pastries. If you care about the leaf rather than the room, come here.
+The **Diamond Jubilee Tea Salon**, opened by the Queen in 2012 on the fourth floor of the shop, and the one place in London where the tea list is the point rather than the pastries. Fortnum's has been selling leaf since 1707 and the salon exists to show it off.
+
+Savouries are properly British and properly specific: **Suffolk cured ham with piccalilli**, rare breed hen egg with cress, soft smoked salmon. Plain and fruit scones arrive warm with clotted cream, lemon curd and preserves, and the patisserie changes with the season.
+
+**£84 a head** with a pot of Fortnum's tea, and refills of both the stand and the pot come without asking. Come here if you care about the leaf; come to a hotel if you care about the room.
 
 ---
 
@@ -110,25 +126,41 @@ Opened by the Queen in 2012, and **the one place where the tea list is the point
 
 *££££ · the Promenade*
 
-Served the length of the Promenade, opening with a glass of Veuve Clicquot poured tableside. The grandest of the grand.
+Taken the full length of **The Promenade** — a hundred-foot room running the spine of the hotel, done in marble, mirrors and heavy silk, and one of the most opulently decorated spaces in Mayfair. A pianist plays through the afternoon and the room never quite empties.
+
+The stand opens with a glass of Veuve Clicquot poured tableside. Sandwiches run to **Dorrington ham with truffle**, and the pastry section is where the kitchen shows off — a spiced apple choux among the seasonal ones. Warm scones with clotted cream throughout.
+
+There are no fixed sittings, which is unusual at this level: tea runs continuously through the afternoon, so it is one of the more forgiving grand hotels to get into if your plans move.
 
 ### The Savoy, Covent Garden
 
 *££££ · the Thames Foyer · Cited by 3 sources*
 
-Under the glass cupola of the Thames Foyer, with a pianist, in London's first purpose-built luxury hotel.
+London's first purpose-built luxury hotel, and the tea is now taken in **The Gallery** rather than the Thames Foyer — peach-lit, with sculpted palms, stained glass and a marble catwalk down the middle of the room.
+
+A procession of finger sandwiches, the hotel's **signature scones**, and sweets brought in waves rather than all at once. The tea list runs to **over thirty leaves**, which is among the longest in London.
+
+Served daily from noon to 6.45pm, with a separate **Twilight Tea from 6pm to 9.30pm** for anyone who would rather have it as an evening. Dress elegantly; there is no jacket-and-tie rule.
 
 ### The Lanesborough, Knightsbridge
 
 *££££ · under a glass dome*
 
-Taken under the glass dome of the Céleste dining room at Hyde Park Corner — the brightest of the grand-hotel rooms.
+Taken under the **glass dome of the Céleste dining room** at Hyde Park Corner — Regency plasterwork, Wedgwood blue and white, and the brightest of the grand-hotel rooms by a distance. Daylight rather than chandeliers.
+
+The stand is built by head pastry chef **Jolan Thiry** and currently runs as a **Bridgerton tea**, themed to the series that films in this part of London. Conventional savouries, then pastry work that is genuinely technical rather than novelty.
+
+**£92 a head, £102 with a cocktail, £110 with Laurent-Perrier La Cuvée.** Hyde Park Corner is the tube; the room is quietest at the earliest sitting.
 
 ### Corinthia London, Westminster
 
 *££££ · a tea master · Cited by 2 sources*
 
-Under a Baccarat crystal chandelier with a Steinway playing, and a tea master who weighs and blends each pot.
+The **Crystal Moon Lounge**, under a Baccarat crystal chandelier with a Steinway playing — a serene, low-lit room a few minutes from Trafalgar Square, and one of the calmest of the grand teas.
+
+The distinguishing feature is the **tea master**, who weighs and infuses each blend to order rather than dropping in a bag: a curated leaf list, then delicate finger sandwiches, warm scones and pastries built to the season.
+
+**£75 Monday to Thursday, £85 Friday to Sunday** — the clearest weekday saving of any hotel on this list.
 
 ### Mandarin Oriental Hyde Park, Knightsbridge
 
@@ -158,13 +190,21 @@ The **intimate, club-like** option — panelled and low-ceilinged where The Dorc
 
 *££££ · 4 min from Holborn · Cited by 3 sources*
 
-Taken in the **Mirror Room** of a Belle Époque building off High Holborn — the grand-hotel format, well outside the Mayfair cluster and easier to book because of it.
+Taken in the **Mirror Room** of a Belle Époque building off High Holborn — mirrored walls, plush banquettes, and the grand-hotel format well outside the Mayfair cluster, which is why it books more easily.
+
+The savoury course is unusually ambitious for a tea: **camembert custard tart with pear chutney**, a lobster and prawn profiterole, and **King’s imperial caviar on brioche**. Then freshly baked scones with English strawberry jam, clotted cream and homemade lemon curd.
+
+**From £80.** Runs as an Art Afternoon Tea, with the pastry course themed to a current exhibition and changed through the year.
 
 ### Jumeirah Carlton Tower, Knightsbridge
 
 *££££ · 7 min from Knightsbridge*
 
-The **Chinoiserie tea room serves all afternoon rather than in fixed sittings**, which makes it one of the easier Knightsbridge teas to get into at short notice — genuinely useful if you have not booked weeks ahead.
+The **Chinoiserie** is a wide, tranquil ground-floor lounge, and it **serves all afternoon rather than in fixed sittings** — which makes it one of the easier Knightsbridge teas to get into at short notice, genuinely useful if you have not booked weeks ahead.
+
+The current stand is nature-themed and deliberately disrupts the classic order: unexpected pairings through the savouries and pastries rather than the standard progression, alongside a full leaf list and warm scones.
+
+**From £85.** A live harpist most afternoons, and enough space between tables that it never feels like a sitting.
 
 ---
 
@@ -174,25 +214,35 @@ The **Chinoiserie tea room serves all afternoon rather than in fixed sittings**,
 
 *££££ · The Landmark London, 222 Marylebone Road*
 
-Afternoon tea taken on the floor of an **eight-storey glass atrium among full-grown palm trees**, with a pianist and a harpist playing. The most theatrical tea room in London that is not a palace, and the one that photographs best by a distance.
+Afternoon tea on the floor of an **eight-storey glass atrium among full-grown palm trees**, with a pianist and a harpist playing. The most theatrical tea room in London that is not a palace, and the one that photographs best by a distance.
+
+Served as **High Palms High Tea**: finger sandwiches, freshly baked scones with Cornish clotted cream and preserves, and pastries from the hotel’s pastry team. **£75 traditional, £85 with Nyetimber Classic Cuvée, £90 with Nyetimber Rosé** — English sparkling rather than champagne, which is a deliberate choice here.
 
 > ⚠️ **Go for the room.** Reviews of the food itself are genuinely mixed for something over £70 a head. The atrium is extraordinary; the sandwiches are not. Ask for a table on the atrium floor rather than the gallery above.
 
 ### The Berkeley, Knightsbridge
 
-*££££ · Prêt-à-Portea*
+*££££ · Goûtea by Cédric Grolet*
 
-Pastries modelled on the **current season's runway** — handbags, heels, a new collection each time the shows change. The most photographed tea in London and genuinely skilful.
+The Berkeley's fashion-themed Prêt-à-Portea ran for two decades and has been replaced by **Goûtea, built by Cédric Grolet** — the pastry chef whose trompe-l'œil fruit made him the most copied patissier in Europe.
+
+The format is British and the sweets are emphatically not: finger sandwiches and warm scones arrive first, then **desserts sculpted to look like fruit and flowers**, cut open at the table to show what is inside. Pastries and cookies alongside.
+
+Taken in the light-filled **Berkeley Café**, or at the **Chef's Counter** if you would rather watch it being finished than be brought it. Still the most photographed tea in London, for different reasons than before.
 
 ### Sketch, Mayfair
 
-*££££ · the pink room · Cited by 2 sources*
+*££££ · the yellow room · Cited by 2 sources*
 
-Afternoon tea **inside an art installation**. The pink Gallery room and the egg-shaped lavatories are as photographed as the food.
+Afternoon tea inside a working art installation. **The room has not been pink since 2022** — David Shrigley's 245 drawings came down and **Yinka Shonibare and India Mahdavi** rebuilt The Gallery in sunshine yellow with diamond-quilted banquettes and copper. Since January 2026 it has hung **Jonathan Baldock's Mask series**, 84 works.
+
+The stand is a proper pastry exercise rather than a prop — savouries first, then sweets built by the pastry team to match the room's palette, with a full tea list. Around **£105 a head**.
+
+The **egg-shaped lavatory pods** upstairs remain, and remain the second reason people book. Mon–Thu noon to 4pm; Fri–Sun 11am to 4.30pm.
 
 ![The pink upholstered dining room at Sketch, hung with drawings](../../assets/articles/best-afternoon-tea-london/sketch.jpg)
-
 *The Gallery, David Shrigley's pink room, is where afternoon tea is served. Photo: [Glam UK](https://www.flickr.com/photos/135288089@N05/27039938264), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 
 ---
 
@@ -202,31 +252,51 @@ Afternoon tea **inside an art installation**. The pink Gallery room and the egg-
 
 *£££ · 3 min from Green Park · Cited by 5 sources*
 
-A 1920s car showroom turned Viennese-style grand café. The London power breakfast, and one of the best-value teas in the centre.
+The grand café on Piccadilly — a 1920s car showroom with vaulted ceilings and black lacquer, and the **most affordable serious afternoon tea in central London** by a wide margin. It is a room Londoners actually use rather than a destination sitting.
+
+Finger sandwiches, cakes, and **fruit scones with homemade jam and clotted cream**. Less elaborate than the hotels and deliberately so; the pastry is good and the point is the room and the service.
+
+**£46.50 for afternoon tea, £19.50 for a cream tea**, champagne £13 a glass. Roughly half the Mayfair hotels, and it takes walk-ins more readily than any of them.
 
 ### The Connaught, Mayfair
 
 *£££ · 8 min from Bond Street · Cited by 1 source*
 
-Understated where the rest of Mayfair is gilded — precision and craft rather than spectacle, and cheaper for it.
+The quietest of the Mayfair grand teas, and the one whose kitchen takes the most liberties. Finger sandwiches blend **British classics with Southeast Asian flavours** rather than staying in 1910, which is either the reason to come or the reason not to.
+
+English scones with **Cornish clotted cream and homemade strawberry jam**, then a pâtisserie run that changes constantly — hazelnut praliné rocher, matcha choux with cherry jam, a strawberry tart. The signature is the **Connaughty**, a sablé biscuit layered with jam and built as a straight homage to the jammy dodger.
+
+Exotic teas or champagne alongside. Smaller and calmer than Claridge's or The Ritz, which makes it the pick if you actually want to hear the person opposite you.
 
 ### The Stafford, Piccadilly
 
 *£££ · a St James's cul-de-sac*
 
-Down a cul-de-sac with 380-year-old wine cellars beneath, and far fewer tourists than the Piccadilly names a two-minute walk away.
+Tucked down a cul-de-sac off St James's, in a hotel built around **17th-century wine cellars** that were used as an air-raid shelter during the Blitz. The quietest central location on this list — you cannot hear Piccadilly from the lounge.
+
+A straight, well-executed traditional stand: finger sandwiches, warm scones, patisserie, no theme and no gimmick. This is the one to book when you want the format done properly and nothing else.
+
+**£70 a head, or £87 with a glass of Louis Roederer Collection 243.** Served daily from noon to 5.30pm.
 
 ### The Goring, Belgravia
 
 *££££ · 2 min from Victoria · Cited by 2 sources*
 
-The last family-owned grand hotel in London, and the quietest of the big teas — taken in the garden room.
+The **last family-owned grand hotel in London**, run by the Goring family since 1910, and the one the Royal Family have used as an annexe — the Middletons stayed here the night before the 2011 wedding. That history is the reason to choose it over a larger room.
+
+Delicate pastries, **freshly baked scones**, and finger sandwiches cut with the precision the format is supposed to have, alongside a tea list sourced widely rather than blended in-house. Taken in the Front of House lounge or, in summer, on the garden terrace — a genuine private garden, which almost no central London hotel has.
+
+**From £85, or £90 with Bollinger.** Belgravia rather than Mayfair, so it books a little less far ahead than the Piccadilly names.
 
 ### The Milestone, Kensington
 
 *£££ · opposite Kensington Palace*
 
-A small townhouse hotel and the quietest listed tea here.
+A Victorian townhouse hotel **facing Kensington Palace and Kensington Gardens** across the road, with tea taken in a panelled, fire-lit lounge that feels closer to a private house than a hotel — forty-odd covers rather than a hall.
+
+Traditional finger sandwiches, freshly baked scones and pastries, with a properly made children's version rather than a smaller adult one. It won an **Award of Excellence at the 2026 Afternoon Tea Awards**, which few of the grander names here can say.
+
+**From £85.** The location makes it the obvious stop if you are doing Kensington Palace or the museums the same day, and it books far less far ahead than the Mayfair rooms.
 
 ---
 
@@ -236,13 +306,21 @@ A small townhouse hotel and the quietest listed tea here.
 
 *£££ · 5 min from Temple*
 
-A themed tea built around **Charlie and the Chocolate Factory** — the one that works with children who would be bored anywhere else.
+Not a traditional tea at all, and the guide should say so: One Aldwych runs a licensed **Charlie and the Chocolate Factory** tea in its lobby restaurant, and it is the best of London's themed sittings by some distance.
+
+**Cheesecake inside a golden egg**, cake pops, puffs of candy floss, and a Charlie Cocktail served from a teapot with dry ice pouring over the side. Savouries come first and are conventional; everything after is not.
+
+**£95 for adults including a glass of champagne, £65 for under-12s.** The obvious pick with children old enough to know the book, and it books up in school holidays.
 
 ### The Ampersand, South Kensington
 
 *£££ · 1 min from South Kensington*
 
-Themed around the museums on its doorstep: planets, fossils and periodic-table biscuits. Sensible if you are doing the Science Museum the same day.
+A **Jurassic afternoon tea**, built to match the Natural History Museum two streets away, and the reason to choose it over anywhere else in Kensington if you have children in tow.
+
+The stand arrives **wreathed in dry ice**. **T-rex footprint macarons**, dark chocolate and caramel dinosaur egg nests, biscuit fossils, alongside a conventional savoury course. Taken in the Drawing Rooms, a bright basement space rather than a grand salon.
+
+**£64.50 a head, £39.50 for children**, champagne £15 a glass — among the cheapest of the themed teas, and a short walk from the museum door.
 
 ---
 
