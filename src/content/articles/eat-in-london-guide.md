@@ -10,16 +10,12 @@ category: "Food and drink"
 tags: [restaurants, food markets, food halls, quick food, places to eat, London food]
 draft: false
 heroImage: "../../assets/articles/eat-in-london-guide/eat-in-london-guide.jpg"
-heroImageAlt: "The entrance to Borough Market beneath a railway viaduct in London"
-heroImageCredit: "Fred Romero"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:London_-_Borough_Market.jpg"
-heroImageLicense: "CC BY 2.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+heroImageAlt: "Traders and shoppers under the green ironwork and festoon lights of Borough Market"
 ---
 
-London's food scene is vastly more diverse than standard restaurant dining. You can build an unforgettable meal around a specialist neighbourhood restaurant, sample half a dozen global street-food stalls inside a covered food hall, or grab something quick and delicious between museum stops.
+You can eat extremely well in London for six pounds and extremely badly for sixty, and the difference is rarely the price. It is knowing which of the city's parallel food scenes you have walked into — the Sunday roast one, the Bombay café one, the covered food hall one, the £6 dosa one.
 
-This guide is your master starting point for dining in London. We organise recommendations around what travellers actually need: **what to eat, location, budget, occasion and how much time you have**.
+This page is the way into all of them, sorted by what you actually decide first: **what you fancy, where you are, what you want to spend, and how long you have got**.
 
 > 💡 **The 5 Iconic London Food Experiences Every Visitor Should Try (2026)**  
 > 1. **A [Sunday roast](/articles/best-sunday-roast-london/) in a historic pub** — thick-sliced beef, a Yorkshire pudding the size of the plate, and gravy. Book by Thursday.

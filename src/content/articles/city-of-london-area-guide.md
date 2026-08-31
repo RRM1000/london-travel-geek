@@ -64,8 +64,8 @@ faq:
     a: "Yes, book online — it is cheaper than the gate price and the queue is long, particularly in summer. Allow three hours. Go at opening and head straight for the Crown Jewels before the coach parties arrive, then work back through the White Tower."
   - q: "Can you climb the dome at St Paul's?"
     a: "Yes, 528 steps to the Golden Gallery outside the dome, via the Whispering Gallery and the Stone Gallery. It is included in the admission ticket. The last section is steep and narrow. Entry to the cathedral is ticketed for sightseeing, but attending a service — including free daily Evensong — costs nothing."
-heroImage: "../../assets/articles/city-of-london-area-guide/st-pauls-paternoster-square.jpg"
-heroImageAlt: "The dome of St Paul's Cathedral rising above Paternoster Square in evening light"
+heroImage: "../../assets/articles/city-of-london-area-guide/royal-exchange-bus.jpg"
+heroImageAlt: "A red bus passing the Royal Exchange at Bank, with the City's towers rising behind it"
 ---
 
 The City of London is the original city: a square mile on the Roman street plan, still a separate authority with its own Lord Mayor and police force, and now the densest cluster of tall buildings in Britain.
@@ -93,6 +93,10 @@ The City of London has its own share of the commemorative plaques marking where 
 ![Guildhall Yard at sunset, with the medieval Guildhall on one side and the Guildhall Art Gallery, entrance to the Roman amphitheatre, on the other](../../assets/articles/city-of-london-area-guide/guildhall-yard.jpg)
 
 *Guildhall Yard. The paving traces the outline of the Roman amphitheatre buried beneath it — the real remains are inside the gallery, free to visit.*
+
+![The dome of St Paul's Cathedral rising above Paternoster Square in evening light](../../assets/articles/city-of-london-area-guide/st-pauls-paternoster-square.jpg)
+
+*St Paul's over Paternoster Square. The square was flattened in the Blitz and rebuilt twice — what is there now dates from 2003.*
 
 ![The Royal Exchange portico and the Bank of England at the Bank junction, with traffic and a red bus](../../assets/articles/city-of-london-area-guide/bank-royal-exchange.jpg)
 
@@ -123,9 +127,9 @@ The Tower, the surviving stretch of Roman wall, and the approach to Tower Bridge
 ### Smithfield and Barbican
 The north-west edge. Smithfield meat market, St Bartholomew the Great, and the Barbican's brutalist estate and arts centre.
 
-![The painted ironwork and glass roof of Leadenhall Market, lit by hanging lamps](../../assets/articles/city-of-london-area-guide/leadenhall-market.jpg)
+![The painted maroon and green ironwork and glass roof of Leadenhall Market, with the Lamb Tavern under the arcade](../../assets/articles/city-of-london-area-guide/leadenhall-market.jpg)
 
-*Leadenhall Market, rebuilt in 1881 on a site that has traded since the Roman forum stood here. It played Diagon Alley in the first Harry Potter film. Photo: [Loco Steve](https://www.flickr.com/photos/36989019@N08/7060927125), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Leadenhall Market, rebuilt in 1881 on a site that has traded since the Roman forum stood here. It played Diagon Alley in the first Harry Potter film.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

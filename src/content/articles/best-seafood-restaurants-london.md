@@ -28,9 +28,9 @@ faq:
     a: "The grand rooms are. But Sam's Riverside does two courses for £26.60, Manzi's lunch is £16 for two courses, Sweetings does a fish pie for £13.50, and a Borough Market fish sandwich is around £8. The £2 oyster hours are the best value in London dining."
 ---
 
-There is no inspectorate for fish. No 50 Top Pizza, no Estrella Damm list, no Michelin category — just one judged guide that covers seafood as a subject and a few starred kitchens that happen to cook it. So a seafood guide is either honest about whose opinion it is repeating, or it is bluffing.
+London has no coastline and eats fish better than most places that do, because the boats drive through the night. Cornish day boats, Devon crab, Scottish langoustines and oysters off beds in Essex and Dorset are on a menu here the morning after they came out of the water.
 
-This one counts. Every restaurant below is placed by how many independent sources name it, and the two rooms London agrees on most are also two of the oldest.
+The city does it three ways, and picking one settles most of the decision: shucked at an **oyster counter**, cooked whole over **charcoal**, or bought across a **fishmonger's slab** and cooked in the room behind it. So rather than add another opinion, we counted — every restaurant below is placed by how many independent awards, critics and reviewers name it, and the two rooms London agrees on most are also two of the oldest.
 
 > 💡 **The Short Version:** **J Sheekey** is the most-cited seafood restaurant in London, and **Scott's** is second. **Wiltons** has been trading since 1742. **The Sea, The Sea** is a working fishmonger with a bistro above it. **Behind** and **Angler** are the starred fish kitchens. **Manzi's** and **Sam's Riverside** do £2 oysters. And **Billingsgate** is open to the public before dawn.
 

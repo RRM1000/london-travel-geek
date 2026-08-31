@@ -24,9 +24,9 @@ faq:
     a: "Fish coated in matzo meal instead of batter — a Jewish north London tradition that predates the chip shop as most people know it. Nautilus in West Hampstead is the place to try it, and the crust is lighter and crisper than batter."
 ---
 
-Fish and chips is the London dish with the least evidence behind it. There is one national award and it publishes no results; the big titles cover chippies once a year and then move on; and more of the useful writing is on independent blogs than in the mastheads. So a guide either tells you whose opinion it is repeating, or it is guessing.
+Everyone in London has a chippy they swear by, and almost nobody agrees on which one. Cod or haddock, beef dripping or vegetable oil, a sit-down shop with formica tables and a pot of tea or a paper parcel eaten on the walk home — the arguments are older than most of the shops having them.
 
-This one counts. Every shop below is placed by how many independent sources name it — and the two most interesting facts in the data are that the most-cited chippy in London is not on Time Out's list at all, and that the two shops with an actual award are not the two anyone writes about.
+So instead of adding one more opinion, we counted. Every shop below is placed by how many independent awards, critics and reviewers name it. Two things came straight out of the numbers: **the most-cited chippy in London does not appear on Time Out's list at all**, and **the two shops with an actual award are not the two everybody writes about**.
 
 > 💡 **The Short Version:** **Poppies** is the most-cited chippy in London. **The Fryer's Delight** is the one that still fries in beef dripping. **Brockley's Rock** and **Stones** are the only London shops on the 2026 award shortlist. **Michael's Fish Bar** is Time Out's number one and costs half what the centre does. **Nautilus** fries in matzo meal. And **Masters Superfish** near Waterloo is the biggest portion for the money.
 

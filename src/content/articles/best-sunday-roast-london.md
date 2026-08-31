@@ -24,9 +24,9 @@ faq:
     a: "No. The Estrella Damm Top 50 Gastropubs is the only judged, dated ranking that touches this, and it ranks the pub as a whole rather than its Sunday lunch. That gap is the main weakness in any roast guide, including this one."
 ---
 
-Sunday roast is the one London meal with no judged ranking behind it. There are awards for pubs, stars for kitchens and dozens of editorial lists, but nothing that inspects the roast itself — so a guide either tells you whose opinion it is repeating, or it is guessing.
+The Sunday roast is the meal London does that almost nowhere else attempts: a joint cooked for hours, a Yorkshire pudding the size of the plate, potatoes roasted in the fat and gravy poured over all of it. It is served for about five hours, one day a week, and then it is gone until next Sunday.
 
-This one counts. Every pub below is placed by how many independent sources name it, and where it actually finished when a ranking exists.
+That scarcity is the whole practical problem — the good ones sell out, most want booking by Thursday, and turning up hopefully at three is how people end up eating a disappointing one. So rather than add another opinion, we counted. Every pub below is placed by how many independent awards, critics and reviewers name it, and where it actually finished when a ranking exists.
 
 > 💡 **The Short Version:** **The Devonshire** is the most-cited roast in London and the UK's number one gastropub. **The Red Lion & Sun** is #3 in the country and the roast guides mostly miss it. **Canton Arms** is the best-placed pub that still takes walk-ins. **The Harwood Arms** is the only Michelin-starred pub. **Blacklock** and **Hawksmoor** are the group answer. And **The Tamil Crown** does the most interesting roast in the city.
 

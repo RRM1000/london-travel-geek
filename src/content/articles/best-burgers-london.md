@@ -24,9 +24,9 @@ heroImage: "../../assets/articles/best-burgers-london/burger-and-lobster-city.jp
 heroImageAlt: "The Burger & Lobster shopfront in the City of London"
 ---
 
-There is no shortage of people telling you where London's best burger is. There is a shortage of anyone checking whether they agree.
+London's burger argument comes down to two shapes. There is the **smash** — a thin patty pressed hard onto the hot plate so the crust caramelises edge to edge — and there is the **thick dry-aged patty**, cooked pink and treated like a small steak. Almost every place below is committed to one or the other, and knowing which you prefer narrows this list by half before you read a word of it.
 
-So this guide does not review burgers. It counts. Every restaurant below is ranked by **how many independent awards, critics and reviewers named it**, with the judged award weighted above the press and the press above the listings sites. Where the sources disagree, that disagreement is the interesting part and it gets its own section.
+So rather than add another opinion, we counted. Every restaurant below is ranked by **how many independent awards, critics and reviewers named it**, with the judged award weighted above the press and the press above the listings sites. Where they disagree, that disagreement is the interesting part, and it gets its own section.
 
 > 💡 **The Short Version:** **Bleecker** and **The Plimsoll** are level at the top on seven sources each. **Honest Burgers** won the National Burger Awards 2026 — but only at one branch. **Supernova** is the best thing in Soho with a 25-word menu. **Dove** makes ten burgers a night and stops. And **Jupiter Burger** is the best £10 of the lot.
 
