@@ -71,11 +71,11 @@ Ranked by how many independent sources name each one. Where a restaurant also ha
 
 *££££ · several sites · Cited by 8 sources · #13, World's 101 Best Steak Restaurants*
 
-The benchmark, and the most-cited steak restaurant in London. **Dry-aged native-breed British beef**, properly sourced, with sides better than most steakhouses bother with. Spitalfields is the original.
+**British beef dry-aged and grilled over charcoal**, in rooms that were mostly something else first — a brewery, a bank, a ballroom. Spitalfields was the original and set the template every London steakhouse since has worked from.
 
-Expensive at dinner. **The set lunch and the Sunday roast are considerably cheaper** for the same kitchen and the same beef.
+The beef is native breed, dry-aged on the bone and cooked over charcoal rather than in a broiler, which is the distinguishing choice. **Porterhouse and rib for two, priced by weight**, and the **bone-marrow gravy** and dripping-cooked chips are the sides that matter. The Sunday roast is among the best in London.
 
-**Book:** [Reserve a table](https://www.opentable.com/booking/experiences-availability)
+**££££ and it books weeks ahead.** Several London sites; Spitalfields, Guildhall and Air Street are the ones people name.
 
 ### Flat Iron, Soho
 
@@ -93,19 +93,21 @@ Popcorn arrives while you wait and there is free salted caramel ice cream at the
 
 *££££ · 5 min from Hyde Park Corner · Cited by 6 sources*
 
-Wolfgang Puck's first restaurant in Europe, and the most expensive steak on this page by some distance.
+**Wolfgang Puck's steakhouse inside 45 Park Lane**, and the room where London first met USDA prime alongside British and Japanese beef on the same menu.
 
-What justifies it, if anything does, is the range: **British native breeds, USDA Prime and Japanese wagyu on one menu**, cooked over a konro grill. It is the one place in London set up for a direct side-by-side comparison of three beef traditions.
+The proposition is comparison: **Japanese A5 wagyu, USDA prime and British native breed** listed side by side and priced accordingly, so you can taste what the differences actually are. Everything comes off a hardwood and charcoal broiler.
+
+**££££ and it books weeks ahead.** The most expensive steak in this guide by a distance, and the only place to do that comparison in one sitting.
 
 ### The Guinea Grill, Mayfair
 
 *££££ · 7 min from Green Park · Cited by 6 sources · #99, World's 101 Best Steak Restaurants*
 
-A pub in a Mayfair mews that has been grilling since 1952, and the most-recommended steak in London that visitors never find.
+**A Mayfair pub with a grill room behind it that has been serving steak since 1952** — dark wood, red banquettes, and a room that has resisted every fashion since.
 
-The beef is **dry-aged grass-fed English**, bought from Godfreys of Finsbury Park, and the kitchen names its supplier because that is the whole point. Order the sirloin.
+Beef is dry-aged in-house and grilled plainly, and the **steak and kidney pie** is as famous as the steaks — it has won national pie awards repeatedly and sells out most days. Order it if it is on.
 
-The other thing to know: **the steak and kidney pie is award-winning** and costs a fraction of the beef. Plenty of regulars come for that and nothing else.
+**£££, and book for the grill room** — the pub at the front takes walk-ins and is a different, cheaper experience.
 
 ### Blacklock, Soho
 
@@ -123,11 +125,11 @@ The Sunday roast here is one of the best in London.
 
 *£££ · 4 min from Farringdon · Cited by 4 sources*
 
-**On Farringdon Road since 1869**, Grade II listed, and still fitted with the narrow church-pew booths it opened with. Everything is butchered on site.
+**The 1869 room is Grade II listed and the wooden booths are deliberately uncomfortable** — built as a working man's dining hall and never refitted, with "Progressive Working Class Caterer" still on the sign.
 
-The Hereford bone-in ribeye is the order, and the **confit potatoes** are the side that made the restaurant famous well beyond London. Mark Wiens filmed a full feature here with head chef Shaun Searley.
+The beef is properly sourced and simply cooked, but the dish that made the room famous is a side: **confit potatoes**, thin-sliced, pressed into a block, confited and fried so the layers separate. Order them regardless of what else you have.
 
-**Book:** [Reserve a table](https://www.opentable.co.uk/the-quality-chop-house-reservations-london)
+**£££ and it books weeks ahead.** Farringdon. The butcher's shop next door sells the same beef to take home.
 
 ### Goodman, Mayfair
 

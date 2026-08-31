@@ -90,7 +90,11 @@ Ugo and Kate started it on Short Road in Leytonstone, which is where the name co
 
 *££ · Chiswick · 8 min from Turnham Green · Cited by 6 sources · #1 in Europe, 50 Top Pizza · #16 of 21, Time Out · [book a table](https://www.sevenrooms.com/explore/napoliontheroadsoho/reservations)*
 
-First in Europe three consecutive years, judged on Neapolitan technique by the ranking that takes it most seriously. It started as a truck touring London's food markets and is now in a quiet stretch of Chiswick, about forty minutes from the centre.
+**A Chiswick pizzeria whose chef has placed among the best pizza makers in the world** — Michele Pascarella has won the top individual prizes in the trade, which is unusual for a suburban high street.
+
+The dough is a long-fermented Neapolitan base, and the pizzas move well beyond the classics: **seasonal toppings, burrata, nduja** and specials that change monthly. Order the **margherita** first to judge the dough, then something from the specials board.
+
+**££ and it books ahead** at weekends. Chiswick High Road, and there is a second site — check which one you are booking.
 
 ### Crisp Pizza at The Marlborough, Mayfair
 
@@ -134,13 +138,22 @@ It began in 2018 as a parody university society in Southampton set up to get stu
 
 *£ · Soho · Berwick Street · walk-in · Cited by 7 sources · #10 of 21, Time Out · [website](https://www.breadstall.com/)*
 
-A slice counter on Berwick Street rather than a dining room, and the most-cited pizza in London under £15. Slow-fermented biga dough with a crisp bottom and a puffed, almost naan-like crust. A second site trades in Battersea.
+**A Soho counter doing Roman-style pizza by the slice** — *pizza al taglio*, cut from long trays with scissors and sold by weight, which is a different thing from a Neapolitan round.
+
+The base is a high-hydration dough proved for a long time, so the crust is light and open rather than chewy. Toppings change through the day and are added after the base is baked as often as before. **Point at what you want and they cut it.**
+
+**£, walk-in.** Quick, cheap and designed to be eaten standing — one of the better fast lunches in Soho.
 
 ### Dough Hands, Hackney
 
 *££ · Hackney · 7 min from London Fields · Cited by 6 sources · #2 of 21, Time Out · #7 of 12, The Infatuation · [website](https://www.doughhands.com/)*
 
-A residency in the back of The Spurstowe Arms, sitting somewhere between New York and Neapolitan — crisp base, generous toppings, no restaurant attached. Time Out puts it second in London, behind only Short Road. Also operates in Dalston and Hackney Wick.
+**A pub residency in Hackney** rather than a restaurant — the kitchen operates out of a pub and the pizza is the whole reason people are in the room.
+
+The style is its own: a **long-fermented, heavily blistered base** with toppings that lean far from the Neapolitan canon — expect things like **confit garlic, fermented chilli and unusual cheeses** rather than a straight margherita. Six sources name it, which is more than most bricks-and-mortar pizzerias here.
+
+**££, walk-in, and check the residency is running before you go** — pub kitchens move, and this one has changed venue before.
+
 
 > ⚠️ It runs on the pub's **kitchen** hours, which are shorter than the pub's own. Check before travelling.
 
@@ -148,9 +161,11 @@ A residency in the back of The Spurstowe Arms, sitting somewhere between New Yor
 
 *£ · Shoreditch · 122 Bethnal Green Road · walk-in · Cited by 6 sources · #9 of 21, Time Out · #3 of 12, The Infatuation · [website](https://vincenzospizzas.com/)*
 
-Twenty-inch pies cut into slices you eat standing up. This is the closest London gets to an actual New York slice shop rather than a restaurant doing New York pizza, and it is the cheapest serious pizza in this guide.
+**A Shoreditch counter run by a Neapolitan**, doing the classic style without any of the east London reinvention around it.
 
-Slices are grab-and-go from 5pm; whole 16-inch pizzas are takeaway only. The original is in Bushey, outside London.
+A short menu built on a properly fermented Neapolitan dough: **margherita, marinara and a handful of others**, baked fast in a wood oven so the cornicione blisters and the centre stays soft. Order the marinara — no cheese, just tomato, garlic and oregano — if you want to judge the base.
+
+**££, walk-in.** Small, and the queue moves quickly because the bake takes ninety seconds.
 
 ### Yard Sale Pizza, Clapton
 

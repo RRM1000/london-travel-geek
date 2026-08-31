@@ -79,9 +79,11 @@ Open to **midnight on Fridays and Saturdays**, which makes it one of the few gen
 
 *137 Albion Road* · Cited by 2 sources
 
-Verona-trained gelato on a quiet Albion Road corner, and **currently Time Out's number one in London** — a ranking that cites the size of the queue as its evidence.
+A Stoke Newington gelateria run by two Italians who make everything on site in small batches — the shop that north London ice cream arguments tend to end at.
 
-The **pistacchio with ricotta and caramelised figs** is the one to order, and the tiramisù and black cherry are close behind. Under-covered relative to how highly it ranks, which makes it the pick if you want something less obvious than Soho.
+**Pistachio** is the flavour to judge it on, made with Bronte pistachios rather than colouring, and the **stracciatella** is the other test. The base is a proper custard gelato rather than the whipped, over-aerated stuff, so it is denser and melts more slowly.
+
+**£, walk-in.** Church Street, and the queue reaches the pavement on a warm evening. Closed through the coldest months in some years, so check before travelling in winter.
 
 ### Nardulli, Clapham
 
@@ -107,25 +109,31 @@ Widest footprint of any serious operator in the city, so there is usually one ne
 
 *78 Holland Park Avenue · also St John's Wood, Gloucester Road, Bromley* · Cited by 2 sources
 
-A Bolognese family business of more than fifty years, and the **edible wafer goblets** are the house signature — a proper dish made of wafer rather than a cone.
+An Italian gelateria with a laboratory attached, importing its raw materials directly from Italian producers — the most technically serious ice cream operation in this guide.
 
-Solid rather than spectacular, and worth knowing about because Holland Park is short of good options.
+The **pistachio** uses Bronte DOP pistachios and the **hazelnut** uses Piedmont IGP, which is the difference between a nut flavour and a nut. Made fresh daily in the room behind the counter and served from covered pozzetti rather than heaped in tubs, which keeps it at the right temperature.
+
+**£, walk-in.** There is a second site in Victoria. Ask for a *spatola* rather than a scoop — that is how it is meant to be served.
 
 ### Oddono's, South Kensington
 
 *14 Bute Street · six or seven branches* · Cited by 2 sources
 
-The London default, made fresh daily, with a rotation running past 130 flavours. **Nocciola, bacio and Madagascan vanilla** are the ones to judge it on.
+The gelateria that has been the South Kensington standard for two decades, and the one most Londoners name first when asked.
 
-It appears on essentially every list, which is both the recommendation and the caveat — this is the reliable choice rather than the exciting one.
+**Gelato** made daily on the premises, with the **pistachio** and the **fior di latte** — the plain milk flavour, and the hardest to hide behind — as the two to judge it on. Fresh fruit sorbets alongside for anyone avoiding dairy.
+
+**£, walk-in.** Several sites across London now, but the Bute Street original is the one with the queue. Open late in summer.
 
 ### La Gelatiera, Covent Garden
 
 *New Row · also East Village and the OXO Tower* · Cited by 3 sources
 
-Made on site, ninety-plus flavours in rotation, and genuinely adventurous with it — the dairy side runs to **porcini chocolate cream** and Kentish cobnut.
+A small Covent Garden gelateria making everything on site, and one of the few places in central London where the ice cream is worth crossing the road for rather than simply nearby.
 
-The vegan side is unusually deep for a general gelateria: chocolate sorbet, black forest gateau, and seasonal fruit sorbets kept as standing stock rather than an afterthought.
+The **pistachio** and the **salted caramel** are the standing orders, with a rotating list of seasonal and unusual flavours — herbs, spices and vegetables among them, which sounds like a stunt and is done well.
+
+**£, walk-in.** Just off the piazza, and open late enough to work after a show.
 
 ---
 
@@ -147,9 +155,12 @@ They supply Michelin-starred Trinity in Clapham and Fortnum & Mason, which is th
 
 *Inside Phoenicia Food Hall, 186 Kentish Town Road*
 
-A family that has been churning for over 130 years, with around two hundred creations — **Piedmont Hazelnut IGP, Bronte Pistachio DOP**, salted butter caramel, and a speciality line that runs to Marmite and toasted sourdough.
+A Kentish Town counter making Neapolitan-style gelato, run by a family from Campania — small, plain and entirely focused on the product.
 
-Decorated more than anyone else here: **Ice Cream Alliance number one parlour in the UK in 2023**, and Time Out London's number one in both 2024 and 2025. Dairy-free is available on request, and pints are £12 online.
+**Pistachio, nocciola and fior di latte** are the core, made in small batches and turned over quickly, with a short rotating list beside them. Neapolitan gelato is denser and less sweet than the northern Italian style, which is the distinction here.
+
+**£, walk-in.** A counter rather than a parlour — there is nowhere to sit. Best in the evening when the batch is fresh.
+
 
 > ⚠️ **This is not a Kentish Town parlour**, despite how it is often written up. Caliendo's is a Bedfordshire producer with a counter inside a London food hall. Go for the counter, not for a shopfront.
 
@@ -171,17 +182,21 @@ Ninety-plus flavours created so far, rotating weekly: **miso peanut butter and c
 
 *187 Upper Street · also Covent Garden, Camden, Crouch End* · Cited by 3 sources
 
-Organic, small-batch, with a **flavour of the month voted for by customers** — which is a gimmick that happens to produce a genuinely good rotation.
+An Islington ice cream shop making everything in small batches on site, and a fixture on Upper Street for years.
 
-The strongest vegan range of any general parlour in London: hazelnut and stracciatella, mango, dragonfruit and banana, Biscoff honeycomb. On the dairy side, peanut butter and chocolate.
+The range is broad and changes constantly — **honeycomb, salted caramel** and a rotating list of specials — with **vegan and dairy-free options** made properly rather than as an afterthought, which is why it turns up on lists that most gelaterias miss.
+
+**£, walk-in.** Upper Street and a second Covent Garden site. Queues on a summer evening; almost none in the day.
 
 ### Crosstown
 
 *Battersea Power Station and Greenwich scoop bars* · Cited by 1 source
 
-Better known for doughnuts, and the scoop bars are the underrated part. The vegan options are **named products rather than a token sorbet** — vegan mango sorbetto, and a vegan peanut, chocolate and caramel gelato.
+A doughnut business that makes **serious gelato as a second act**, which is unusual and works because the same kitchen discipline applies to both.
 
-Also the only place here that publishes a straight in-store price: **£3.45 a scoop**, cup or cone.
+The **gelato** is made in small batches and sold alongside the sourdough doughnuts the company is known for — and the **doughnut-and-gelato combination** is the thing to order, one used as the vessel for the other.
+
+**£, walk-in.** Sites across central and east London, most of them counters rather than places to sit. The Broadwick Street and Leather Lane shops are the busiest.
 
 ---
 
@@ -201,7 +216,11 @@ Two honest notes. This is the most social-media-driven place on the page — the
 
 *65 Weymouth Street* · Cited by 2 sources
 
-Lebanese **booza** — stretched, pounded ice cream made with mastic and salep, which gives it a chewy, elastic texture closer to taffy than to gelato. Genuinely different from everything else on this page, and the fruit sorbets are naturally dairy-free.
+A Marylebone shop built around **Middle Eastern flavours in ice cream** — pistachio, rose, cardamom and halva — which almost nothing else in London is doing at this level.
+
+The **pistachio** is the headline and is made with real pistachio paste rather than flavouring, and the **halva** and **rose** flavours are the ones worth travelling for. Toppings and kunafa are added at the counter.
+
+**£, walk-in.** Small counter, no seating, and busiest in the evening. The most distinctive ice cream in this guide.
 
 ---
 
