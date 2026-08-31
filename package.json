@@ -9,7 +9,12 @@
     "preview": "astro preview",
     "check": "astro check",
     "images:check": "node scripts/optimise-images.mjs --check",
-    "images:fix": "node scripts/optimise-images.mjs --write --include-uncommitted"
+    "images:fix": "node scripts/optimise-images.mjs --write --include-uncommitted",
+    "audit:citations": "node -e \"const{execSync}=require('child_process'),fs=require('fs');let f=0;for(const s of fs.readdirSync('scripts').filter(x=>/^verify-.*-citations.mjs$/.test(x))){try{execSync('node scripts/'+s,{stdio:'pipe'})}catch(e){f++;console.log('FAIL '+s);process.stdout.write(e.stdout||'')}}console.log(f?f+' verifier(s) failing':'all citation verifiers pass');process.exit(f?1:0)\"",
+    "audit:depth": "node scripts/audit-entry-depth.mjs",
+    "audit:sources": "node scripts/audit-source-mix.mjs",
+    "audit:corpus": "node scripts/audit-corpus.mjs",
+    "audit": "npm run audit:citations && npm run audit:corpus && npm run audit:sources && npm run audit:depth"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.2.1",

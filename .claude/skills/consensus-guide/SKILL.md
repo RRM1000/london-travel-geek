@@ -39,14 +39,31 @@ Awards first, because they cost nothing to fetch and carry the most weight.
 1. **Award bodies** — judged, dated rankings. Fetch the primary site.
 2. **Editorial lists** — mastheads with editors.
 3. **Independent blogs and specialists.**
-4. **Video** — YouTube and TikTok. Optional, see below.
-5. **Community** — Reddit and forum threads.
+4. **Video** — YouTube and TikTok, counted per CREATOR. **Not optional.**
+5. **Community** — Reddit and forum threads, counted per THREAD. **Not optional.**
 
 Record what each source *called* the venue, not just that it named it.
 
-> **Do not skip tier E.** The pizza corpus finished 64% video and contained zero
-> Reddit threads, in a city where people argue about pizza constantly. Video is
-> the easiest tier to over-collect and the weakest per source.
+> **TIERS D AND E ARE NOT OPTIONAL, AND THIS RULE USED TO SAY THEY WERE.**
+> The old wording - "optional", "skip when awards and editorial already cover
+> the topic" - produced **40 of 48 topics with no video, social or community
+> source at all**. Only the first eight ever got the full treatment.
+>
+> The floor: **two** independent social voices for a topic with a judged award,
+> **three** where none exists. `node scripts/audit-source-mix.mjs` enforces it.
+>
+> **A topic with no award needs MORE social, not less.** Breakfast had five
+> sources, all mastheads, for a meal with no award anywhere in Britain - so the
+> guide was five writers agreeing with each other, and the whole cheap end of
+> London was invisible because none of the five went below about £15.
+>
+> It changes results, not just coverage. Dim sum went from ZERO venues named by
+> three sources to five. Terry's Café went from absent to joint most-cited in
+> the breakfast guide.
+>
+> The opposite failure is real too: pizza finished 64% video with zero Reddit.
+> Video is the weakest tier per source and the easiest to over-collect, so the
+> same script flags a topic where social passes 70% of voices.
 
 ## 3. The seventeen traps
 
@@ -212,11 +229,17 @@ different URL double-records silently.
 - **Unordered lists carry no ranks.** Numbered-but-unordered listicles are common —
   read the caption. Record a rank only where the source published an order.
 
-## Collecting the video tier
+## Collecting the video and social tiers
 
-Optional and lowest-weight. Skip when awards and editorial already cover the
-topic. On pizza, 24 social sources carried 52 names while 9 award and editorial
-sources carried 49 — and the 9 held every judged ranking and masthead.
+Required on every topic. Lowest-weight per source, which is an argument for
+reading them carefully, not for skipping them. On pizza, 24 social sources
+carried 52 names while 9 award and editorial sources carried 49 — the 9 held
+every judged ranking, and the 24 held the places nobody had written up yet.
+
+**Where the venue names actually are.** Not the transcript, usually. Take them
+from the video DESCRIPTION and the CHAPTER MARKERS first — creators list their
+stops — and on TikTok from the caption's @-mentions and the post's tagged
+point-of-interest, which carries a real name and address.
 
 Use Apify via the REST API with `APIFY_TOKEN` in the environment.
 
@@ -234,6 +257,28 @@ cost $1–2; if a run heads past $5, stop and find the add-on. Cache every run.
 
 **One record per CHANNEL, not per video.** A creator's three videos on the topic
 are one opinion.
+
+**One record per CREATOR ACROSS PLATFORMS.** @dejashu posts as Shu on YouTube
+and Shu Lin on TikTok, and `hostOf()` cannot see it — the two URLs are
+different keys. Merge by hand, the same way Time Out's guide and its YouTube
+channel are one source.
+
+**PAID PLACEMENT IS NOT EVIDENCE.** Social carries a failure the published tiers
+do not: creators disclose gifted meals, and a hosted visit is the venue's own
+marketing wearing a creator's face — which is what tier F exists to exclude.
+Look for `ad`, `ad-invite`, `gifted`, `invite`, or a "thanks to the team for
+having us" in the description. Record these in the corpus under `declined`
+with the disclosure quoted, so the decision is visible and not repeated.
+Five were declined across coffee, dim sum and breakfast. One had 622k views;
+JOLLY's two hosted brunch films have 1.5M each.
+
+**THE PLATFORM IS NOT THE PUBLISHER.** A Giles Coren column that reaches you as
+a TikTok post is still The Times, and is tiered as The Times. Same rule that
+files an award reported by Time Out under the award.
+
+**Reddit is blocked in this environment** — to the search agent and the browser
+alike. Tier E cannot be collected here. Say so rather than quietly shipping a
+topic without it, and record any thread the user supplies by hand.
 
 ---
 
@@ -332,6 +377,25 @@ targeting the same search intent compete and both rank worse. Spin a section out
 only when Search Console shows it drawing its own distinct query.
 
 ## Verify before publishing
+
+```bash
+npm run audit
+```
+
+Four checks, and they fail for different reasons on purpose:
+
+| Check | Asks |
+|---|---|
+| `audit:citations` | is every number on the page true? |
+| `audit:corpus` | is any source contributing furniture, or sitting on the excluded list? |
+| `audit:sources` | is this topic resting on one kind of voice? |
+| `audit:depth` | is the prose beside the number worth reading? |
+
+The first existed for months on its own, and that was the problem: a guide
+could pass every check the project had while being five mastheads deep and
+27 words wide. A verified number beside an empty sentence is not a guide.
+
+There is no git hook and no CI here, so these only help if they are run.
 
 Every guide gets a checker modelled on `scripts/verify-pizza-citations.mjs`. It
 reads the claimed figures **out of the article** and fails if they drift from the
