@@ -90,6 +90,10 @@ The South Bank has its own share of the commemorative plaques marking where nota
 8. **HMS Belfast and Tower Bridge** — At the eastern end. The Tower Bridge glass floor walkway looks down on the traffic 42 metres below.
 9. **Hay's Galleria** — The old Hay's Wharf, where Britain's tea came ashore, roofed over in 1987 with a glass barrel vault modelled on Milan's Galleria Vittorio Emanuele II. Free, covered, and holding a sixty-foot kinetic sculpture called The Navigators. Directly behind HMS Belfast.
 
+![The Navigators, a tall kinetic sculpture of ship parts, under the glass barrel vault of Hay's Galleria](../../assets/articles/south-bank-area-guide/hays-galleria.jpg)
+
+*The Navigators in Hay's Galleria. It moves and squirts water, on the site of the wharf where most of Britain's tea came ashore.*
+
 ![The London Eye turning behind the curved stone frontage of County Hall on the South Bank](../../assets/articles/south-bank-area-guide/london-eye-county-hall.jpg)
 
 *The Eye behind County Hall. It went up in 1999 as a temporary structure with a five-year permit. Photo: [barry.marsh1944](https://www.flickr.com/photos/126409951@N04/49097008366), [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/).*

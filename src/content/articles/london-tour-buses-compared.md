@@ -40,6 +40,10 @@ That does not make tour buses a rip-off. It makes them a specific product for a 
 
 Prices as published by the operators in August 2026. The gap between the online and full price is the whole game.
 
+![A red open-top City Sightseeing tour bus in London, its upper deck open to the sky](../../assets/articles/london-tour-buses-compared/sightseeing-bus.jpg)
+
+*Every operator sells the same top deck. What separates them is the route density and how much you paid — the kerb price is roughly double the online one.*
+
 | Ticket | Online from | Full price | Includes |
 | --- | --- | --- | --- |
 | **Golden Tours** — 1 Day | **£24.78** | £42.00 | 3 routes, 60+ stops |

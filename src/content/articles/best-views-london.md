@@ -96,6 +96,10 @@ A statutory public viewing deck attached to a smart restaurant, looking straight
 
 **Most people walk past assuming it is private.** Take the lift to the eighth floor and ask staff to point you to the public viewing platform — it exists, it is free, and you do not need to buy anything.
 
+![The red-brick OXO Tower on the South Bank, its name spelled out in the tower's windows](../../assets/articles/best-views-london/oxo-tower.jpg)
+
+*The OXO Tower. The gallery is on the eighth floor and almost nothing at street level tells you it is there.*
+
 Hours are not published anywhere official, and in practice track the restaurant's.
 
 ### Royal Ballet and Opera terrace, Covent Garden

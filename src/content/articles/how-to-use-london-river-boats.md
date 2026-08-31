@@ -107,6 +107,10 @@ Uber Boat operates across three distinct fare zones: **West Zone** (Putney to Ba
 ## Top 3 scenic river boat routes for visitors
 
 ### 1. Westminster / London Eye ➔ Greenwich (The Ultimate Tourist Route)
+
+![A London Eye River Cruise boat on the Thames with its top deck full, passing the buildings near Tower Bridge](../../assets/articles/getting-around-london/city-cruise-tower-bridge.jpg)
+
+*A narrated sightseeing cruise, not a river bus. Both use the same piers, which is the single most common mix-up.*
 The quintessential Thames river trip! Board at Westminster Pier or London Eye Pier and sail past the Houses of Parliament, South Bank, St Paul's, and the skyscrapers of the City, before cruising **directly beneath Tower Bridge** to reach historic Greenwich (*Cutty Sark*, Royal Observatory).
 * **Zones:** Central & East Zone (£11.40 off-peak PAYG).
 
@@ -137,6 +141,10 @@ A fast 10-minute river hop linking Docklands skyscrapers with Greenwich maritime
 | **Greenwich Pier** | Cutty Sark (DLR) | Cutty Sark, Old Royal Naval College, Greenwich Market |
 | **North Greenwich Pier** | North Greenwich (Jubilee) | The O2 Arena, IFS Cloud Cable Car |
 | **Battersea Power Station Pier** | Battersea Power Station (Northern) | Battersea Power Station, Lift 109, Riverside Dining |
+
+![The blue-painted entrance arch of Festival Pier on the South Bank, signed for river boats and the Underground](../../assets/articles/getting-around-london/festival-pier.jpg)
+
+*Festival Pier, in front of the Royal Festival Hall. Piers are signed from the walkway rather than the road, which is why people walk past them.*
 
 ---
 

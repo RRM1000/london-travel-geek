@@ -119,6 +119,10 @@ The spine. Curry houses south, markets and food halls in the middle, bagels nort
 ### Spitalfields
 Around the covered market hall. Georgian streets — Fournier Street and Princelet Street — built for Huguenot silk weavers and remarkably intact.
 
+![Long communal tables full of people eating in front of the food counters at Old Spitalfields Market](../../assets/articles/shoreditch-area-guide/old-spitalfields-kitchens.jpg)
+
+*The Kitchens at Old Spitalfields — a dozen counters around shared tables, and the most reliable weekday lunch in the area.*
+
 ### Redchurch Street and Chance Street
 The design end. Independent fashion, skincare, coffee, and a dense run of murals.
 

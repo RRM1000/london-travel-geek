@@ -94,6 +94,14 @@ The City of London has its own share of the commemorative plaques marking where 
 
 *Guildhall Yard. The paving traces the outline of the Roman amphitheatre buried beneath it — the real remains are inside the gallery, free to visit.*
 
+![The Royal Exchange portico and the Bank of England at the Bank junction, with traffic and a red bus](../../assets/articles/city-of-london-area-guide/bank-royal-exchange.jpg)
+
+*Bank junction. Eight streets meet here, with the Royal Exchange's portico on one corner and the Bank of England on another.*
+
+![The City's tower cluster seen across the Thames, the Walkie-Talkie and Cheesegrater rising behind riverside flats](../../assets/articles/city-of-london-area-guide/city-skyline-from-bankside.jpg)
+
+*The tower cluster from the south bank. Almost all of it has gone up since 2010, and Leadenhall Market sits at the foot of it.*
+
 ![St Paul's Cathedral rising above the City skyline, with the Millennium Bridge crossing the Thames below](../../assets/articles/city-of-london-area-guide/st-pauls-from-the-river.jpg)
 
 *St Paul's from the South Bank, with the Millennium Bridge running to its door. The bridge was built to frame exactly this. Photo: [damo1977](https://www.flickr.com/photos/60754591@N00/3467579254), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*

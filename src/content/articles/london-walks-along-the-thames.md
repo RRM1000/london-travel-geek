@@ -50,6 +50,14 @@ The classic London walk and still the best introduction to the city.
 
 **Detour:** cross the Millennium Bridge for St Paul's, which is the view the bridge was built to frame.
 
+![The riverside walk at Gabriel's Wharf, a signed run of small shops and food units under plane trees](../../assets/articles/london-walks-along-the-thames/gabriels-wharf.jpg)
+
+*Gabriel's Wharf, midway along the walk. A row of independent shops and cafes on what was a derelict site until the 1980s.*
+
+![Tower Bridge from the north bank, both towers and the raised walkways above the road deck](../../assets/articles/london-walks-along-the-thames/tower-bridge.jpg)
+
+*Tower Bridge, the end of the walk. The pavement across is free; only the high-level walkways are ticketed.*
+
 ---
 
 > 🛶 **Want the canal instead of the river?** The Regent's Canal is its own walk entirely — 8.6 miles and 13 locks from Little Venice to Limehouse Basin, broken into sections that each end at a Tube station. See our [full canal walks guide](/articles/best-canal-walks-london/) for it section by section.
@@ -63,6 +71,10 @@ The classic London walk and still the best introduction to the city.
 The oldest pubs in London, in order, along the river.
 
 **The route:** Tower Bridge → St Katharine Docks → **The Town of Ramsgate** (a pub here since 1545) → Wapping Old Stairs → **Turner's Old Star** → **The Captain Kidd** → **The Prospect of Whitby** → **The Grapes** in Limehouse.
+
+![Yachts moored in St Katharine Docks beside a domed bandstand and the old warehouse buildings](../../assets/articles/london-walks-along-the-thames/st-katharine-docks.jpg)
+
+*St Katharine Docks, five minutes east of Tower Bridge. London's first docks to close, and the first to be rebuilt as a marina.*
 
 ![A still Wapping dock lined with converted Georgian and Victorian warehouse flats, reflecting the buildings and sky, with the Shard visible on the skyline in the distance](../../assets/articles/london-walks-along-the-thames/wapping-dock.jpg)
 
