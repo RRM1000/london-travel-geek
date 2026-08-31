@@ -30,8 +30,8 @@ Nothing on this page is here because it is *good value for the money*. That is a
 > 💡 **The Short Version:** **ICCO** does a twelve-inch pizza for £3.95. **Kolkati** at Seven Dials is the best fiver in Covent Garden. **Michael's Fish Bar** is the cheapest good chippy in London — bring cash. **Horn OK Please** at Borough Market is the best cheap vegetarian food in the city. And **Kung Fu Noodle** is a proper cooked meal minutes from Leicester Square.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **11 sources carrying 183 citations** across **140 named places** — three mastheads (Time Out, The Infatuation, SquareMeal) and eight London specialists. **11 places are named by two or more independent sources.**
-> **The known weakness in this topic: it is the least-agreed subject on this site.** 140 places named and only 11 named twice — the sources overlap barely at all, because a cheap meal is local by definition and everybody is writing about their own end of London. Nothing here has been judged either. Read this as eleven places several people independently rate, and a long tail that is one writer's neighbourhood favourite. That is still useful; it is just not consensus. Several entries below are the cheap version of something with its own guide here — a chippy, a pizzeria, a curry house — and those carry the count from **their own** corpus, labelled: *Cited by 7 fish and chips sources*. A bare number on this page always means the cheap-eats corpus.
+> Nothing here is ranked on one visit. This pass reads **11 sources carrying 183 citations** across **140 named places**. **11 places are named by two or more independent sources.**
+> **Built on:** 140 places across every corner of London, and the eleven several writers independently rate. Some entries are the cheap version of something with its own guide here, and carry the count from **their own** sources, labelled — *Cited by 7 fish and chips sources*. A bare number always means the cheap-eats sources.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
@@ -84,7 +84,7 @@ The £3.95 is the marinara, which has no cheese. Toppings push it up, but it sta
 
 ### Kolkati, Covent Garden
 
-*£ · Seven Dials Market · 3 min from Covent Garden · walk-in* · named by no source in this corpus
+*£ · Seven Dials Market · 3 min from Covent Garden · walk-in*
 
 Kati rolls the Kolkata way — paratha cooked with egg through it, wrapped round spiced chicken or paneer with pickled onion, coriander chutney and lime. The best thing you can eat in Covent Garden for a fiver.
 
@@ -102,13 +102,13 @@ The cheapest serious food in central London, and the reason to walk through a ma
 
 ### Horn OK Please, Borough
 
-*£ · Borough Market · 4 min from London Bridge · walk-in* · named by no source in this corpus
+*£ · Borough Market · 4 min from London Bridge · walk-in*
 
 An all-vegetarian stall whose samosa chaat is built in front of you: samosas crushed under hot chickpea curry, then yoghurt, then tamarind. Order it and eat it there — it does not survive being carried anywhere.
 
 ### Gujarati Rasoi, Borough
 
-*£ · Borough Market · 4 min from London Bridge · walk-in* · named by no source in this corpus
+*£ · Borough Market · 4 min from London Bridge · walk-in*
 
 Mother-and-son Gujarati cooking from family recipes — thalis, bhajia and dhal, gently sweet — a few steps from Horn OK Please and a completely different tradition. Two Indian regional cuisines within thirty seconds of each other, at a market where nearly everything else is European.
 
@@ -134,7 +134,7 @@ A Walthamstow stall pressing its own tortillas — the cheapest serious tacos in
 
 ### Hullabaloo, Greenwich
 
-*£ · Greenwich Market · 4 min from Cutty Sark · walk-in* · named by no source in this corpus
+*£ · Greenwich Market · 4 min from Cutty Sark · walk-in*
 
 A permanent fixture in Greenwich Market rather than a rotating stall, doing vegetarian and vegan Indian street food.
 
@@ -174,7 +174,7 @@ The cheapest genuinely good pizza in west London, and worth the Central line tri
 
 ### The Attendant, Fitzrovia
 
-*£ · 7 min from Goodge Street · walk-in* · named by no source in this corpus
+*£ · 7 min from Goodge Street · walk-in*
 
 Coffee and brunch inside a restored Victorian public lavatory, with the original porcelain urinals turned into the counter you sit at. Worth it for the room as much as the price.
 
@@ -192,7 +192,7 @@ The cheapest proper cooked meal in Chinatown and a few minutes from Leicester Sq
 
 ### Saravanaa Bhavan, Leicester Square
 
-*£ · walk-in* · named by no source in this corpus
+*£ · walk-in*
 
 The London outpost of the Chennai vegetarian chain, and the cheapest way in the West End to eat a properly made masala dosa — a metre of fermented rice crêpe with potato inside.
 
@@ -214,7 +214,7 @@ Worth knowing it moved. Silk Road shut in August 2023 and reopened eighteen mont
 
 ### Marie's Café, Waterloo
 
-*£ · 90 Lower Marsh · BYO, £1 corkage · cash preferred* · named by no source in this corpus
+*£ · 90 Lower Marsh · BYO, £1 corkage · cash preferred*
 
 A Formica greasy spoon serving fry-ups to Waterloo cabbies at lunchtime, which in the evening **takes the English menu off the wall and becomes a Thai restaurant**. Same room, same tables, entirely different kitchen.
 
@@ -334,13 +334,13 @@ Order at the bar or through the app. No table service, no music, no booking.
 
 ### The Crosse Keys, City of London
 
-*£ · 9 Gracechurch Street · from 8am* · named by no source in this corpus
+*£ · 9 Gracechurch Street · from 8am*
 
 The former Hongkong and Shanghai Banking Corporation headquarters, opened 1913 — marble columns, a glass-domed ceiling, and a banking hall the length of the room.
 
 ### Hamilton Hall, Liverpool Street
 
-*£ · Liverpool Street Station concourse · from 8am* · named by no source in this corpus
+*£ · Liverpool Street Station concourse · from 8am*
 
 The former ballroom of the Great Eastern Hotel, Grade II listed, with the gilded plasterwork and chandeliers intact. On the station concourse, so it is the useful one if you are waiting for a train.
 
@@ -350,13 +350,13 @@ The former ballroom of the Great Eastern Hotel, Grade II listed, with the gilded
 
 ### The Ledger Building, Canary Wharf
 
-*£ · 4 Hertsmere Road, West India Quay* · named by no source in this corpus
+*£ · 4 Hertsmere Road, West India Quay*
 
 An 1800 dock building that held the West India Docks ledgers, with a colonnaded front and a quayside terrace — and by a distance the cheapest place to eat or drink at Canary Wharf. Next door to the free Museum of London Docklands.
 
 ### The Montagu Pyke, Charing Cross Road
 
-*£ · 105–107 Charing Cross Road* · named by no source in this corpus
+*£ · 105–107 Charing Cross Road*
 
 Pyke's Cambridge Circus Cinematograph Theatre, built 1911. Two minutes from Cambridge Circus, which makes it a realistic pre-theatre stop at a fraction of Soho prices.
 

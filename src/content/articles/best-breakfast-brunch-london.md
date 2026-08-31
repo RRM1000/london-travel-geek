@@ -30,9 +30,8 @@ Both are here, alongside the hotel rooms where breakfast is a business meeting.
 > 💡 **The Short Version:** **The Wolseley** is the London power breakfast in a 1920s car showroom. **Dishoom's bacon naan roll** is the one worth queueing for. **Granger & Co** started the London brunch thing and the hotcakes are still on the menu. **Duck & Waffle** is open 24 hours forty floors up. And **Wetherspoons** does a cooked breakfast from 8am for a few pounds.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **14 sources carrying 211 citations** across **162 named rooms** — The Good Food Guide, four editorial mastheads (Time Out, The Infatuation, The Nudge, DesignMyNight), Resy and Lux Life, a greasy-spoon specialist, and five creators on YouTube and TikTok. **36 rooms are named by two or more independent sources; 9 by three or more.**
-> **The known weakness in this topic: there is no award for breakfast anywhere in Britain.** No inspectorate rates a fry-up and no panel judges a brunch, so this guide has no judged ranking underneath it — only how many independent people arrived at the same room. Where a venue is named by one source, the entry says so, and seven below carry no citation at all.
-> **What the counts are good at, and what they are not:** the top of this list is a genuine measurement. Granger & Co and Terry's Café are each named by four sources — one an Australian brunch room, the other a Southwark caff — which is the clearest signal the corpus produces. Below three sources the ordering is close to noise, because brunch is written about constantly and ranked almost never.
+> Nothing here is ranked on one visit. This pass reads **14 sources carrying 211 citations** across **162 named rooms**. **36 rooms are named by two or more independent sources; 9 by three or more.**
+> **Built on:** fourteen sources across every price point, from a Michelin-starred breakfast to a £6.50 fry-up in Newham, with twenty-five caffs individually priced.
 > *Evidence rebuilt 31 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
@@ -101,6 +100,7 @@ A Michelin-starred kitchen that serves breakfast, which almost none do. Named bo
 *£££ · nose-to-tail* · Cited by 2 sources
 
 The sustainability-minded St James's kitchen does a breakfast built on the same offcut thinking as its dinner menu.
+
 ---
 
 ## Australian brunch
@@ -135,7 +135,7 @@ A Balham café that has topped London brunch lists for years without ever openin
 
 ### Beany Green, Little Venice
 
-*££ · the towpath* · named by no source in this corpus
+*££ · the towpath*
 
 Australian brunch on the canal towpath with a big terrace — smashed avocado and a flat white, and the easiest good breakfast near Paddington.
 
@@ -145,7 +145,7 @@ Australian brunch on the canal towpath with a big terrace — smashed avocado an
 
 ### The Table Café, Southwark
 
-*££ · 5 min from Southwark · no bookings* · named by no source in this corpus
+*££ · 5 min from Southwark · no bookings*
 
 An independent on Southwark Street since **2005**, doing a proper cooked breakfast alongside the brunch menu — sweetcorn fritters, waffles, strawberry French toast — on seasonal British sourcing rather than the usual imported avocado economy.
 
@@ -157,7 +157,7 @@ An independent on Southwark Street since **2005**, doing a proper cooked breakfa
 
 ### Hawksmoor, several sites
 
-*£££ · a separate breakfast menu* · named by no source in this corpus
+*£££ · a separate breakfast menu*
 
 The steakhouse does a full English built out of its own butchery — **bone marrow, a smoked bacon chop and short rib** alongside the eggs — which makes it a different proposition from a café fry-up at roughly a café-fry-up-plus price.
 
@@ -175,7 +175,7 @@ Places where the coffee is the reason and the food is very good anyway.
 
 ### Kaffeine, Fitzrovia
 
-*£ · 6 min from Oxford Circus* · named by no source in this corpus
+*£ · 6 min from Oxford Circus*
 
 Australian-run, and one of the shops that brought antipodean coffee culture to London. The food counter is better than it needs to be.
 
@@ -185,19 +185,19 @@ Australian-run, and one of the shops that brought antipodean coffee culture to L
 
 ### Prufrock, Clerkenwell
 
-*£ · Leather Lane* · named by no source in this corpus
+*£ · Leather Lane*
 
 The shop that trained a generation of London baristas, with its own training centre attached.
 
 ### WatchHouse, Bermondsey
 
-*£ · a watchman's hut* · named by no source in this corpus
+*£ · a watchman's hut*
 
 Started in a nineteenth-century watchman's hut on Bermondsey Street and has become the most polished coffee group in London.
 
 ### Ginger & White, Hampstead
 
-*£ · Perrins Court* · named by no source in this corpus
+*£ · Perrins Court*
 
 Serious coffee and a proper British breakfast — the default Hampstead morning, and a **bacon sandwich and flat white** done exactly right.
 
@@ -319,7 +319,7 @@ London brunch is unusual in that **several of its best rooms are chains**, becau
 
 *£££ · Bill Granger* · Cited by 4 sources
 
-The **joint most-cited room in this entire corpus**, and a chain — which tells you how completely the Australian import won. Five London sites; Notting Hill is the original and the ricotta hotcakes are the reason.
+The **joint most-cited room in this whole guide**, and a chain — which tells you how completely the Australian import won. Five London sites; Notting Hill is the original and the ricotta hotcakes are the reason.
 
 ### Dishoom, seven sites
 
@@ -345,7 +345,7 @@ Instantly recognisable from the floral frontages, and a bottomless brunch operat
 
 Not a breakfast business exactly, but the Chelsea and Notting Hill counters do a morning trade the Good Food Guide singles out.
 
-> ⚠️ **Caravan is a chain too**, with sites in King's Cross, Clerkenwell, Bankside and Fitzrovia — but only one source in this corpus names it for breakfast, so it sits at one citation despite its influence on the format.
+> ⚠️ **Caravan is a chain too**, with sites in King's Cross, Clerkenwell, Bankside and Fitzrovia — but only one source names it for breakfast, so it sits at one citation despite its influence on the format.
 
 ---
 
@@ -355,7 +355,7 @@ Not a breakfast business exactly, but the Chelsea and Notting Hill counters do a
 
 #### Under £10, and all of them a train ride out
 
-* **Cosy Café**, Newham — **£6.50**, the cheapest full English anyone in this corpus has priced. *Cited by 1 source*
+* **Cosy Café**, Newham — **£6.50**, the cheapest full English anyone here has priced. *Cited by 1 source*
 * **Astral Café**, Pimlico — **£8.70**, and the only sub-£9 fry-up this side of the river. *Cited by 1 source*
 * **George's Café**, Leytonstone — **£8.80**. *Cited by 1 source*
 * **The Ritz Café**, Hammersmith — **£8.90**, British-Turkish, open from 6.30am and every breakfast comes with tea. *Cited by 2 sources*

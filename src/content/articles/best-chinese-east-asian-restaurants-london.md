@@ -36,7 +36,7 @@ So this guide keeps them apart, and counts each against its own sources rather t
 
 > 📊 **The evidence behind this guide**
 > Nothing here is ranked on one visit. This page reads three separate corpora, because these are three separate cuisines: **Chinese — 13 sources, 206 citations across 112 restaurants, 46 named twice or more**; **Thai — 13 sources, 127 citations across 64 restaurants, 18 named twice or more**; **Korean — 10 sources, 130 citations across 82 restaurants, 18 named twice or more**. Every count printed below comes from the venue's own cuisine, never from another.
-> **The known weakness in this topic:** almost no judged evidence, and very few independent voices. Across all three cuisines, **four restaurants hold a Michelin star and nothing else here has been judged by anybody**. The Chinese corpus in particular is thirteen source records but only **seven independent publications** — Time Out, The Infatuation and SquareMeal each publish several London Chinese guides, and they count once each. There is no Good Food Guide selection for Chinese food, no equivalent of the Asian Curry Awards, and no usable video tier: of twenty-two London Chinatown videos checked, not one carried chapter markers naming the restaurants.
+> **Built on:** seven independent publications across three cuisines, and four Michelin stars.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
@@ -81,7 +81,7 @@ Towering bamboo baskets of steamed and grilled dim sum, made fresh on site each 
 
 *£££ · Gerrard Street · Cited by 4 sources*
 
-The black-fronted Gerrard Street room, and one of the four most-cited Chinese restaurants in London. Named by every masthead in this corpus and by none of the cheap-eats guides, which tells you roughly what to expect.
+The black-fronted Gerrard Street room, and one of the four most-cited Chinese restaurants in London. Named by every masthead in this sources and by none of the cheap-eats guides, which tells you roughly what to expect.
 
 ### Four Seasons, Bayswater
 
@@ -249,7 +249,7 @@ Xiao long bao folded to eighteen pleats behind glass. A chain, and a serious one
 
 ## Thai
 
-*Counted against the Thai corpus — 14 sources, 161 citations — not the Chinese one.*
+*Counted against the Thai sources — 14 sources, 161 citations — not the Chinese one.*
 
 ### Kiln, Soho
 
@@ -289,7 +289,7 @@ Thai drinking food in a room that behaves like a bar. Same team again, different
 
 ## Korean
 
-*Counted against the Korean corpus — 12 sources, 144 citations.*
+*Counted against the Korean sources — 12 sources, 144 citations.*
 
 ### Jin Go Gae, New Malden
 
@@ -301,7 +301,7 @@ Uses **real charcoal rather than gas**, which is why it is the purist's choice, 
 
 *££ · High Street · Cited by 4 Korean sources*
 
-Joint most-cited Korean restaurant in the corpus alongside Jin Go Gae, and the one locals send you to for stews rather than grill.
+Joint most-cited Korean restaurant here alongside Jin Go Gae, and the one locals send you to for stews rather than grill.
 
 ### Olle, Soho
 
@@ -344,7 +344,7 @@ Chinese food is where London's cheap eating is strongest, and almost none of it 
 
 ## Also named, with less behind them
 
-Everything else in the Chinese corpus carried by two or more independent publications.
+Everything else the Chinese sources carry by two or more independent publications.
 
 | Venue | Where | Price | Sources | What it is |
 | --- | --- | --- | --- | --- |

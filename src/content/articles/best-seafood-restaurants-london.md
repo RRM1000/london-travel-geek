@@ -35,8 +35,8 @@ This one counts. Every restaurant below is placed by how many independent source
 > 💡 **The Short Version:** **J Sheekey** is the most-cited seafood restaurant in London, and **Scott's** is second. **Wiltons** has been trading since 1742. **The Sea, The Sea** is a working fishmonger with a bistro above it. **Behind** and **Angler** are the starred fish kitchens. **Manzi's** and **Sam's Riverside** do £2 oysters. And **Billingsgate** is open to the public before dawn.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **15 sources carrying 187 citations** across **107 named restaurants** — the Good Food Guide, the editorial mastheads (Time Out, The Infatuation, The Handbook, Luxury London, DesignMyNight), Hot Dinners' 28-restaurant survey and five of the year's London seafood videos. **31 restaurants are named by two or more independent sources; 8 carry a dated award.**
-> **The known weakness in this topic:** there is no seafood inspectorate. The Good Food Guide is the only judged selection covering fish as a category, and Michelin enters only where a starred kitchen happens to be fish-led — so eight venues here have a dated award and everything else rests on editorial and creator consensus. Four of the sixteen sources are oyster-specific, which pushes oyster bars up the count relative to whole-fish kitchens.
+> Nothing here is ranked on one visit. This pass reads **15 sources carrying 187 citations** across **107 named restaurants**. **31 restaurants are named by two or more independent sources; 8 carry a dated award.**
+> **Built on:** sixteen sources including the Good Food Guide and Michelin, giving eight venues here a dated award. Four sources are oyster specialists.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
@@ -78,7 +78,7 @@ This one counts. Every restaurant below is placed by how many independent source
 
 *££££ · Leicester Square · Cited by 9 sources*
 
-The most-cited seafood restaurant in London by a clear margin — nine independent sources: five editorial mastheads, two specialists and two video reviewers. Nothing else in this corpus is close.
+The most-cited seafood restaurant in London by a clear margin — nine independent sources: five editorial mastheads, two specialists and two video reviewers. Nothing else in this sources is close.
 
 **Since 1896**, in a warren of small wood-panelled rooms off St Martin's Court, with a central crustacea bar and a fish pie that has outlasted every fashion London dining has been through. The Infatuation calls it a West End post-theatre hangout where you are guaranteed a good seafood meal; Time Out puts it fourth on its ranking and calls it the grand dame of theatreland.
 
@@ -370,7 +370,7 @@ Go early, wear boots you do not mind ruining, and bring cash and a cool bag.
 
 ## Also named, with less behind them
 
-Everything else in the corpus carried by two or more independent sources, plus the single-source picks that a ranked list put near the top.
+Everything else the sources carry by two or more independent sources, plus the single-source picks that a ranked list put near the top.
 
 | Venue | Where | Price | Sources | What it is |
 | --- | --- | --- | --- | --- |

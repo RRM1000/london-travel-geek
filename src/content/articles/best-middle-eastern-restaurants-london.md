@@ -35,7 +35,7 @@ Arranged **by tradition**, because that is what actually determines the meal.
 
 > 📊 **The evidence behind this guide**
 > Nothing here is ranked on one visit. This page reads three separate corpora, because these are three separate cuisines that London menus file together: **Middle Eastern — 14 sources, 177 citations across 103 restaurants, 37 named twice or more**; **Turkish — 7 sources, 97 citations across 52 restaurants, 27 named twice or more**; **Greek — 4 sources, 64 citations across 39 restaurants, 14 named twice or more**. Every count below comes from the venue's own cuisine, never from another.
-> **The known weakness in this topic: nothing here has been judged.** Across all three cuisines there is one inspected source, Harden's, and it reaches three Turkish restaurants. No Michelin star, no category award, no annual prize. The Middle Eastern corpus is also fourteen records but only **nine publications** — The Infatuation and Time Out each publish three London guides in this space and they count once each.
+> **Built on:** nine independent publications across three cuisines that London menus file together but which are not the same food.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are

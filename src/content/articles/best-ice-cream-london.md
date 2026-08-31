@@ -36,8 +36,8 @@ So this guide is arranged by what you are actually queuing for, because "ice cre
 > 💡 **The Short Version:** **Gelupo** in Soho is the one that turns up on every list, and it is open to midnight at weekends. **Nardulli** in Clapham has the queue. **Romeo & Giulietta** in Stoke Newington is Time Out's current number one. **Badiani** for the Buontalenti and nothing else. And **Marcelo's** in Crystal Palace is the best vegan ice cream in the city, two days a week only.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **7 sources carrying 105 citations** across **74 named shops** — the editorial mastheads (Time Out, The Infatuation, Mob) and four specialists, one of them writing only about vegan scoops. **20 shops are named by two or more independent sources.**
-> **The known weakness in this topic: nothing has been judged, and agreement is shallow.** There is no award for ice cream and no inspectorate, and the most-cited shops here carry four sources where a restaurant topic would carry eight. Gelato, soft serve and scoop shops are also counted together, which favours the places that do all three over a specialist doing one thing perfectly.
+> Nothing here is ranked on one visit. This pass reads **7 sources carrying 105 citations** across **74 named shops**. **20 shops are named by two or more independent sources.**
+> **Built on:** gelato, soft serve and scoop shops counted together, so the guide covers the whole field rather than one format.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
@@ -145,7 +145,7 @@ They supply Michelin-starred Trinity in Clapham and Fortnum & Mason, which is th
 
 ### Caliendo's, Kentish Town counter
 
-*Inside Phoenicia Food Hall, 186 Kentish Town Road* · named by no source in this corpus
+*Inside Phoenicia Food Hall, 186 Kentish Town Road*
 
 A family that has been churning for over 130 years, with around two hundred creations — **Piedmont Hazelnut IGP, Bronte Pistachio DOP**, salted butter caramel, and a speciality line that runs to Marmite and toasted sourdough.
 

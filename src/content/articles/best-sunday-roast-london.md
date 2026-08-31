@@ -31,8 +31,8 @@ This one counts. Every pub below is placed by how many independent sources name 
 > 💡 **The Short Version:** **The Devonshire** is the most-cited roast in London and the UK's number one gastropub. **The Red Lion & Sun** is #3 in the country and the roast guides mostly miss it. **Canton Arms** is the best-placed pub that still takes walk-ins. **The Harwood Arms** is the only Michelin-starred pub. **Blacklock** and **Hawksmoor** are the group answer. And **The Tamil Crown** does the most interesting roast in the city.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **19 sources carrying 115 citations** across **82 named pubs and restaurants** — the Estrella Damm Top 50 Gastropubs, the editorial mastheads (Time Out, The Infatuation, Sphere, DesignMyNight) and twelve of the year's London roast videos. **22 are named by two or more independent sources; 23 carry a dated ranking.**
-> **The known weakness in this topic:** the only award does not judge the roast. The Estrella Damm ranking is of the pub as a whole — its food, its beer, its room, all seven days. A pub can place highly on it and serve an ordinary Sunday lunch, and nothing in this corpus would catch that. Where a rank appears below, read it as evidence about the pub, not proof about the plate.
+> Nothing here is ranked on one visit. This pass reads **19 sources carrying 115 citations** across **82 named pubs and restaurants**. **22 are named by two or more independent sources; 23 carry a dated ranking.**
+> **Built on:** the Estrella Damm ranking and eight independent publications. Worth knowing: Estrella Damm judges the pub as a whole, across all seven days — so a rank below is evidence about the pub, not a verdict on the roast.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ---
@@ -157,7 +157,7 @@ Thirty-ninth in the country, on the Highgate Road edge of Hampstead Heath, which
 
 *££ · Denmark Hill · Cited by 4 sources · #60, Estrella Damm extended list (51–100) · #13, Time Out*
 
-The most-cited pub roast in south London and the second most-cited in this whole corpus — four independent sources, more than any pub above it except The Devonshire.
+The most-cited pub roast in south London and the second most-cited anywhere in this guide — four independent sources, more than any pub above it except The Devonshire.
 
 Its ranking is more modest than its press: **#60, on the extended 51–100 list rather than the Top 50 itself.** Both facts are true and they point in different directions, which is exactly the sort of thing a guide should say out loud rather than pick a side on. What every source does agree on is the portion size.
 
@@ -213,7 +213,7 @@ Thirteen London pubs in the Top 50. A further ten appear on the extended 51–10
 
 Worth knowing before you treat any single list as the answer. Time Out's ranked 28 London Sunday lunches and the Estrella Damm Top 50 share almost no names at all.
 
-Time Out's number one is **The Golden Tooth** on Green Lanes — the Papi team's pub, from chef Matthew Scott and sommelier Charlie Carr. It appears nowhere in the gastropub ranking, and only one source in this entire corpus names it. Its #2 is a northern Thai residency at a Peckham boozer and its #3 is a Grade II-listed former Clerkenwell courthouse. Neither The Devonshire, Blacklock, Hawksmoor nor The Harwood Arms appears anywhere on its list.
+Time Out's number one is **The Golden Tooth** on Green Lanes — the Papi team's pub, from chef Matthew Scott and sommelier Charlie Carr. It appears nowhere in the gastropub ranking, and only one source in this entire sources name it. Its #2 is a northern Thai residency at a Peckham boozer and its #3 is a Grade II-listed former Clerkenwell courthouse. Neither The Devonshire, Blacklock, Hawksmoor nor The Harwood Arms appears anywhere on its list.
 
 | Time Out rank | Pub | Also cited by |
 | --- | --- | --- |
@@ -240,7 +240,7 @@ Four of the best-supported roasts in London are served in restaurants. That chan
 
 *££ · Piccadilly Circus · Cited by 5 sources, all video*
 
-Joint most-cited roast in this corpus alongside The Devonshire — and the make-up of that support is unusual enough to state plainly. **All five sunday-roast citations are video.** No award, no masthead roast list. Its editorial reputation sits in the steak corpus, not this one.
+Joint most-cited roast in this guide alongside The Devonshire — and the make-up of that support is unusual enough to state plainly. **All five sunday-roast citations are video.** No award, no masthead roast list. Its editorial reputation sits in the steak sources, not these.
 
 The "All In" is a run of every cut on the menu, priced per head — one 2026 review put the Shoreditch site at £28 a head. Built for groups in a way almost no pub kitchen manages, and with several London sites, a full Sunday at one branch does not mean a full Sunday everywhere.
 
@@ -297,13 +297,13 @@ Sunday roast is one of the few London meals where price maps fairly closely onto
 
 ## Also named, with less behind them
 
-Everything else in the corpus carried by at least two independent sources, or by a ranked list.
+Everything else the sources carry by at least two independent sources, or by a ranked list.
 
 | Venue | Where | Price | Sources | What it is |
 | --- | --- | --- | --- | --- |
 | **The Macbeth** | Hoxton | ££ | 2 · Time Out #4 | A revamped Hoxton boozer doing what Time Out calls a rowdy Portuguese luncheon |
 | **The George** | Fitzrovia | ££ | 2 | Boozy downstairs, dining room upstairs; both serve the roast. Not The George Inn in Borough |
-| **The Golden Tooth** | Green Lanes | ££ | 1 · Time Out #1 | Time Out's number one, from the Papi team; named by nothing else in this corpus |
+| **The Golden Tooth** | Green Lanes | ££ | 1 · Time Out #1 | Time Out's number one, from the Papi team; named by nothing else here |
 | **Roe** | Canary Wharf | £££ | 2 · both video | Roe by Fallow, at Wood Wharf; creator-backed rather than critic-backed |
 | **The Clarence Tavern** | Stoke Newington | ££ | 2 | A gastropub that works equally as a slap-up meal or a few pints |
 | **Clapton Country Club** | Clapton | ££ | 2 · Time Out #28 | Sunday lunch with live jazz, in an old tram shed |

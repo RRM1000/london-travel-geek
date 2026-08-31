@@ -407,8 +407,59 @@ hours — not a full opening-times table.
 these are the rest" means the structure is wrong, not that the reader needs
 telling.
 
+## What every entry must carry
+
+**This is the floor. An entry below it is not a guide entry, whatever its
+citation count says.**
+
+1. **What they actually cook, by name.** Not "excellent Sichuan cooking" but the
+   dish a reader would order - the bacon naan roll, the ricotta hotcakes, the
+   scallop and bacon butty, har gau and cheung fun. A cuisine label is not a dish.
+2. **What the room is like to sit in.** Counter or table, twenty seats or two
+   hundred, silent or deafening, who else is in there at 1pm on a Tuesday.
+3. **One thing that decides a visit.** Booking horizon, queue, opening hours,
+   price for two, cash-only, closed Sundays.
+
+Anything further - who cooks, what the building was, why the sources disagree
+about it - is what separates a guide from a directory.
+
+`node scripts/audit-entry-depth.mjs` measures this and exits non-zero on entries
+under 45 words. Run it alongside the citation verifiers, not instead of them:
+one checks that the numbers are true, the other that the prose is worth reading.
+
+### How this was got wrong
+
+Every number on these pages was script-verified while nothing checked the prose
+beside it, so the writing thinned as the pace went up and nobody could see it:
+
+```
+best-pizza-london          122 words per entry   (written first)
+best-steak-restaurants     100
+best-indian-restaurants     84
+  ...
+best-japanese-restaurants   33
+best-middle-eastern         31
+best-afternoon-tea          27                   (written late)
+```
+
+217 of 502 entries were under 40 words - 43% of the site.
+
+**The Length rule below caused it.** "Trim on every pass" with no floor beneath
+it optimises for cutting, and a 27-word entry passes every check the project
+had. Trimming means removing padding. It never means removing what the reader
+came for.
+
 ## Length
 
-Trim on every pass. The pizza guide went 5,886 → 4,873 words while gaining
-sixteen venues, entirely by removing evaluative padding. If a sentence contains no
-fact, a reader has already skipped it.
+Trim evaluative padding on every pass - adjectives doing the work a fact should
+do, "must-visit", "hidden gem", "a real treat". The pizza guide lost a thousand
+words that way while GAINING sixteen venues.
+
+But length is not the target and shortness is not a virtue. The pizza guide has
+the longest entries on the site and is the best of them. Cut sentences carrying
+no fact; never cut the facts to hit a length.
+
+## Words to avoid in the article
+
+"Corpus" is ours, not the reader's. On the page say **the sources**, or name
+them. Keep "corpus" for scripts, commit messages and this file.

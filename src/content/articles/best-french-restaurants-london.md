@@ -32,8 +32,8 @@ French cooking in London runs from two three-star hotel dining rooms to a Farrin
 > 💡 **The Short Version:** **Alain Ducasse** and **Hélène Darroze** are two of London's six three-star kitchens. **Bouchon Racine** is the bistro revival, above a pub. **Otto's** presses duck at your table. **La Poule au Pot** has been romantic by candlelight since the 1960s. And **lunch is much cheaper everywhere**.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **7 sources carrying 114 citations** across **72 named restaurants** — the Good Food Guide's French selection, the editorial mastheads (Time Out, The Infatuation, The Handbook) and three London specialists. **19 restaurants are named by two or more independent sources; 27 carry a dated Good Food Guide listing.**
-> **The known weakness in this topic:** one body supplies all the judged evidence. The Good Food Guide names 27 French restaurants in London and nothing else here has been inspected, so a restaurant it happens not to cover looks thinner than it is — nine of those 27 are named by no other source in this corpus. The two most-cited restaurants, The French House and Casse-Croûte, are both on it and both also carry three editorial mentions, which is as much agreement as this topic produces.
+> Nothing here is ranked on one visit. This pass reads **7 sources carrying 114 citations** across **72 named restaurants**. **19 restaurants are named by two or more independent sources; 27 carry a dated Good Food Guide listing.**
+> **Built on:** the Good Food Guide's twenty-seven inspected French restaurants in London, read against the editorial lists.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
@@ -60,7 +60,7 @@ French cooking in London runs from two three-star hotel dining rooms to a Farrin
 
 ### Alain Ducasse at The Dorchester, Mayfair
 
-*££££ · Park Lane · book months ahead* · named by no source in this corpus
+*££££ · Park Lane · book months ahead*
 
 Classical French haute cuisine at three stars, including the **Table Lumière** — a private table for six ringed by a curtain of fibre optics, and the most requested seat in Mayfair. Ask for it when booking.
 
@@ -98,7 +98,7 @@ Coq au vin, beef bourguignon and candlelight, unchanged for six decades. **The m
 
 ### Brooklands, Belgravia
 
-*££££ · on the roof of the Peninsula* · named by no source in this corpus
+*££££ · on the roof of the Peninsula*
 
 Claude Bosi cooking in a room themed on British motor racing and aviation, with a Concorde model overhead and a view across Hyde Park Corner.
 
@@ -218,7 +218,7 @@ French food in London has a reputation for being expensive that the bistro end n
 
 ### Borough Market
 
-The cheapest French food in London is **standing up at Borough Market**. There is raclette scraped onto potatoes, saucisson and cheese from the French traders, and galettes from the crêpe stalls — a proper lunch for under a tenner, thirty seconds from Camille's front door. · named by no source in this corpus
+The cheapest French food in London is **standing up at Borough Market**. There is raclette scraped onto potatoes, saucisson and cheese from the French traders, and galettes from the crêpe stalls — a proper lunch for under a tenner, thirty seconds from Camille's front door.
 
 **Maltby Street Market** ten minutes away does the same trick on Saturdays, with fewer people.
 

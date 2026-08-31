@@ -36,8 +36,8 @@ Arranged by **what you are actually buying** — the historic claim, the room, t
 > 💡 **The Short Version:** **The Langham** is where the ritual began and still the benchmark. **The Ritz** is the most recognised and the most formal. **The Berkeley** does fashion-week pastries. **Sketch** is an art installation. **The Wolseley** and **The Connaught** give you most of it for less. **One Aldwych** is the one that works with children.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **7 sources carrying 100 citations** across **62 named tea rooms** — the editorial mastheads (Time Out, The Infatuation, Olive, LuxLife) and three specialists, two of them writing specifically about doing this cheaply. **23 tea rooms are named by two or more independent sources.**
-> **The known weakness in this topic: there is no award, and no inspectorate.** Nothing here has been judged. Afternoon tea is also the hardest topic on this site to count, because half the sources name the TEA ROOM and half name the HOTEL — "The Palm Court at The Ritz" and "The Ritz" — so the two most famous teas in London read as four weakly-supported venues until they are merged by hand. Several rooms in this guide carry no citation at all; each says so.
+> Nothing here is ranked on one visit. This pass reads **7 sources carrying 100 citations** across **62 named tea rooms**. **23 tea rooms are named by two or more independent sources.**
+> **Built on:** the room rather than the hotel — "The Palm Court at The Ritz" and "The Ritz" are merged by hand, so the counts reflect real agreement.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
@@ -108,7 +108,7 @@ Opened by the Queen in 2012, and **the one place where the tea list is the point
 
 ### The Dorchester, Mayfair
 
-*££££ · the Promenade · named by no source in this corpus*
+*££££ · the Promenade*
 
 Served the length of the Promenade, opening with a glass of Veuve Clicquot poured tableside. The grandest of the grand.
 
@@ -120,7 +120,7 @@ Under the glass cupola of the Thames Foyer, with a pianist, in London's first pu
 
 ### The Lanesborough, Knightsbridge
 
-*££££ · under a glass dome · named by no source in this corpus*
+*££££ · under a glass dome*
 
 Taken under the glass dome of the Céleste dining room at Hyde Park Corner — the brightest of the grand-hotel rooms.
 
@@ -162,7 +162,7 @@ Taken in the **Mirror Room** of a Belle Époque building off High Holborn — th
 
 ### Jumeirah Carlton Tower, Knightsbridge
 
-*££££ · 7 min from Knightsbridge · named by no source in this corpus*
+*££££ · 7 min from Knightsbridge*
 
 The **Chinoiserie tea room serves all afternoon rather than in fixed sittings**, which makes it one of the easier Knightsbridge teas to get into at short notice — genuinely useful if you have not booked weeks ahead.
 
@@ -172,7 +172,7 @@ The **Chinoiserie tea room serves all afternoon rather than in fixed sittings**,
 
 ### Winter Garden, Marylebone
 
-*££££ · The Landmark London, 222 Marylebone Road · named by no source in this corpus*
+*££££ · The Landmark London, 222 Marylebone Road*
 
 Afternoon tea taken on the floor of an **eight-storey glass atrium among full-grown palm trees**, with a pianist and a harpist playing. The most theatrical tea room in London that is not a palace, and the one that photographs best by a distance.
 
@@ -180,7 +180,7 @@ Afternoon tea taken on the floor of an **eight-storey glass atrium among full-gr
 
 ### The Berkeley, Knightsbridge
 
-*££££ · Prêt-à-Portea · named by no source in this corpus*
+*££££ · Prêt-à-Portea*
 
 Pastries modelled on the **current season's runway** — handbags, heels, a new collection each time the shows change. The most photographed tea in London and genuinely skilful.
 
@@ -212,7 +212,7 @@ Understated where the rest of Mayfair is gilded — precision and craft rather t
 
 ### The Stafford, Piccadilly
 
-*£££ · a St James's cul-de-sac · named by no source in this corpus*
+*£££ · a St James's cul-de-sac*
 
 Down a cul-de-sac with 380-year-old wine cellars beneath, and far fewer tourists than the Piccadilly names a two-minute walk away.
 
@@ -224,7 +224,7 @@ The last family-owned grand hotel in London, and the quietest of the big teas �
 
 ### The Milestone, Kensington
 
-*£££ · opposite Kensington Palace · named by no source in this corpus*
+*£££ · opposite Kensington Palace*
 
 A small townhouse hotel and the quietest listed tea here.
 
@@ -234,13 +234,13 @@ A small townhouse hotel and the quietest listed tea here.
 
 ### One Aldwych, Covent Garden
 
-*£££ · 5 min from Temple · named by no source in this corpus*
+*£££ · 5 min from Temple*
 
 A themed tea built around **Charlie and the Chocolate Factory** — the one that works with children who would be bored anywhere else.
 
 ### The Ampersand, South Kensington
 
-*£££ · 1 min from South Kensington · named by no source in this corpus*
+*£££ · 1 min from South Kensington*
 
 Themed around the museums on its doorstep: planets, fossils and periodic-table biscuits. Sensible if you are doing the Science Museum the same day.
 

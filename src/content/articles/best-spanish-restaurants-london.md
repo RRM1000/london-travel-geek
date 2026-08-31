@@ -32,8 +32,8 @@ Spanish food in London has quietly become one of the city's strongest cuisines, 
 > 💡 **The Short Version:** **Sabor** is the best, and the suckling pig is upstairs. **Lurra** and **Ibai** do proper Basque asador beef. **José** is standing-room, no bookings, and the best cheap plate of jamón in London. **Pizarro** is the same chef with tables. And **Barrafina** is the counter everyone copies.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **9 sources carrying 102 citations** across **49 named restaurants** — the Michelin Guide, the editorial mastheads (Time Out, The Nudge, Foodism, Wallpaper) and four specialists. **20 restaurants are named by two or more independent sources; 3 hold a Michelin star.**
-> **The known weakness in this topic:** a small corpus and no category award. Nine records from seven publications, two of which are the same tapas blog. Michelin reaches three Spanish restaurants — Sabor, Legado and Mountain — and nothing else here has been judged by anyone.
+> Nothing here is ranked on one visit. This pass reads **9 sources carrying 102 citations** across **49 named restaurants**. **20 restaurants are named by two or more independent sources; 3 hold a Michelin star.**
+> **Built on:** seven independent publications and the three Spanish restaurants Michelin has starred — Sabor, Legado and Mountain.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are

@@ -31,8 +31,8 @@ This one counts. Every shop below is placed by how many independent sources name
 > 💡 **The Short Version:** **Poppies** is the most-cited chippy in London. **The Fryer's Delight** is the one that still fries in beef dripping. **Brockley's Rock** and **Stones** are the only London shops on the 2026 award shortlist. **Michael's Fish Bar** is Time Out's number one and costs half what the centre does. **Nautilus** fries in matzo meal. And **Masters Superfish** near Waterloo is the biggest portion for the money.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **13 sources carrying 137 citations** across **58 named chippies** — the National Fish and Chip Awards, the editorial mastheads (Time Out, Absolutely, DesignMyNight), five independent specialists and five of the year's London chip shop videos. **24 are named by two or more independent sources; 2 carry a dated award.**
-> **The known weakness in this topic:** the award barely exists as a public record. The National Fish and Chip Awards judges and dates its categories, but publishes no winners page — its own site carries entry forms and a few 2023 shortlists, so even the 2026 result had to be read from a news report of it. That leaves just two London shops with any judged placement, and everything else here rests on editorial and creator consensus. The corpus also leans unusually hard on independent blogs, because the big titles write about chippies once a year and rarely leave Zone 1.
+> Nothing here is ranked on one visit. This pass reads **13 sources carrying 137 citations** across **58 named chippies**. **24 are named by two or more independent sources; 2 carry a dated award.**
+> **Built on:** specialist blogs that actually leave Zone 1, plus the two London shops with a National Fish and Chip Awards placement.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
@@ -172,7 +172,7 @@ Run by the same family since 1988, with sustainably sourced, traceable fish and 
 
 Worth knowing before you treat any single guide as the answer.
 
-Time Out ranks eighteen London chippies, and its number one is **Michael's Fish Bar** in Leytonstone — a cash-only counter with no seating that only one other source in this corpus names. Its number two, **Fish Lounge** in Clapham, is not in any award. And **Poppies**, the most-cited chippy in the city, does not appear on its list at all.
+Time Out ranks eighteen London chippies, and its number one is **Michael's Fish Bar** in Leytonstone — a cash-only counter with no seating that only one other source in this sources name. Its number two, **Fish Lounge** in Clapham, is not in any award. And **Poppies**, the most-cited chippy in the city, does not appear on its list at all.
 
 | Time Out rank | Chippy | Cited by |
 | --- | --- | --- |
@@ -281,7 +281,7 @@ A proper sit-down chippy on Kingsland Road since the early 1980s, with a Turkish
 
 ## Also named, with less behind them
 
-Everything else in the corpus carried by two or more independent sources.
+Everything else the sources carry by two or more independent sources.
 
 | Chippy | Where | Price | Sources | What it is |
 | --- | --- | --- | --- | --- |

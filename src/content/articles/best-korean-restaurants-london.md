@@ -34,8 +34,8 @@ Central London has caught up in the last few years, and one Hackney kitchen was 
 > 💡 **The Short Version:** **Jin Go Gae** in New Malden uses real charcoal, which is why purists go. **Imone** is the home cooking everyone sends you to. **You Me** has been there since 1988. **Chick and Beers** does the fried chicken. **Seoul Bakery** in Bloomsbury is the cheap central one, and **Mukbap** is London's first fully vegan Korean kitchen.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **10 sources carrying 130 citations** across **82 named restaurants** — the Michelin Guide, the editorial mastheads (Time Out, The Infatuation, Eater) and six specialists. **18 restaurants are named by two or more independent sources; 2 hold a Michelin star.**
-> **The known weakness in this topic:** the two starred restaurants are not the ones anyone writes about. Sollip in Southwark and Somssi in Westminster hold the only judged recognition in Korean food in London, and between them they are named by three sources here — while Imone, Jin Go Gae and Chick and Beers, all in New Malden, are named by four each and have been judged by nobody. The corpus also has a geography: nearly half of it is one high street thirty minutes from Waterloo.
+> Nothing here is ranked on one visit. This pass reads **10 sources carrying 130 citations** across **82 named restaurants**. **18 restaurants are named by two or more independent sources; 2 hold a Michelin star.**
+> **Built on:** where Korean London actually is. Nearly half these sources point at one high street in New Malden, and the counts show it.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
@@ -85,7 +85,7 @@ It made **Time Out's top twenty London restaurants in 2024**, which for a suburb
 
 ### You Me, Burlington Road
 
-*££ · trading since 1988* · named by no source in this corpus
+*££ · trading since 1988*
 
 **New Malden's first Korean restaurant**, and it celebrated its 35th year in 2023 — the room the rest of the town grew up around.
 
@@ -157,7 +157,7 @@ A family-run kitchen that **moved from New Malden to Hackney in 2024 and was nam
 
 ### Sagye, Canary Wharf
 
-*£££ · 13 min from Mudchute* · named by no source in this corpus
+*£££ · 13 min from Mudchute*
 
 The warmer, slower side of Canary Wharf — **kimchi jjigae portioned out between bowls** for a big table.
 

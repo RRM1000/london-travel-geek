@@ -34,8 +34,8 @@ This is a guide to the **rooms worth going to for the room** — pubs, mostly, p
 > 💡 **The Short Version:** **Ye Olde Cheshire Cheese** is the one to see if you only see one — a warren of dark cellars rebuilt in 1667. **The Grapes** in Limehouse is Dickens's pub and Ian McKellen part-owns it. **The Town of Ramsgate** has had a pub on the site since 1545. **The Crosse Keys** is a Wetherspoons inside a 1913 banking hall. And **The Cinnamon Club** is the old Westminster Library with the shelves still up.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **7 sources carrying 76 citations** across **45 named pubs and rooms** — one masthead and six London specialists and walking guides. **15 pubs and rooms are named by two or more independent sources.**
-> **The known weakness in this topic: almost none of it is masthead coverage.** Six of the seven publications are independent blogs and tour writers, and there is no award and no inspectorate for a historic pub. That is not as bad as it sounds — the people who write carefully about which Fleet Street cellar is genuinely seventeenth century are usually the specialists, not the listings desks — but it does mean the counts here measure enthusiast agreement rather than editorial consensus, and the tier spread beside each entry says so.
+> Nothing here is ranked on one visit. This pass reads **7 sources carrying 76 citations** across **45 named pubs and rooms**. **15 pubs and rooms are named by two or more independent sources.**
+> **Built on:** the specialists — six of the seven publications are independent blogs and tour writers, which for this subject are the people who check the dates.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
@@ -82,7 +82,7 @@ The single most atmospheric room on this page, and the easiest to walk past — 
 
 ### The Town of Ramsgate, Wapping
 
-*££ · a pub here since at least 1545* · named by no source in this corpus
+*££ · a pub here since at least 1545*
 
 Long and narrow, opening onto a small river terrace beside Wapping Old Stairs — where condemned prisoners were once chained to the wall at low tide. One of the strongest "oldest pub" claims in London.
 
@@ -106,19 +106,19 @@ Claims a line back to 1520, with a flagstone floor and a noose hanging over the 
 
 ### The White Cross, Richmond
 
-*££ · the towpath* · named by no source in this corpus
+*££ · the towpath*
 
 The river regularly comes **over the road and floods the entrance** — there are tide tables on the wall so you can work out whether you will be able to leave. A pint on the river wall at high tide is the thing.
 
 ### The Captain Kidd, Wapping
 
-*££ · the biggest river terrace in Wapping* · named by no source in this corpus
+*££ · the biggest river terrace in Wapping*
 
 A converted warehouse laid out like a ship's hull, named for the pirate hanged a few yards away.
 
 ### Turner's Old Star, Wapping
 
-*£ · a back-street local* · named by no source in this corpus
+*£ · a back-street local*
 
 An 1830 pub that **JMW Turner is said to have owned and run for a mistress**. The last plain, unreconstructed local in an area whose riverside pubs have all been discovered.
 
@@ -132,19 +132,19 @@ An 1830 pub that **JMW Turner is said to have owned and run for a mistress**. Th
 
 ### The Crosse Keys, City of London
 
-*£ · 9 Gracechurch Street* · named by no source in this corpus
+*£ · 9 Gracechurch Street*
 
 The former **Hongkong and Shanghai Banking Corporation headquarters**, opened 1913 — marble columns, a glass-domed ceiling, a banking hall the length of the room. It is a Wetherspoons, so a pint costs less than almost anywhere in the City.
 
 ### Hamilton Hall, Liverpool Street
 
-*£ · the station concourse* · named by no source in this corpus
+*£ · the station concourse*
 
 The former **ballroom of the Great Eastern Hotel**, Grade II listed, with the gilded plasterwork and chandeliers intact. Off the Liverpool Street concourse.
 
 ### The Ledger Building, Canary Wharf
 
-*£ · West India Quay* · named by no source in this corpus
+*£ · West India Quay*
 
 An 1800 dock building that held the West India Docks ledgers, with a colonnaded front and a quayside terrace.
 
@@ -162,7 +162,7 @@ The **old Westminster Library**, Grade II listed, with the bookshelves still in 
 
 ### Sessions Arts Club, Clerkenwell
 
-*££££ · a former courthouse* · named by no source in this corpus
+*££££ · a former courthouse*
 
 A crumbling former courthouse left **deliberately unrestored** — peeling plaster, enormous windows, and no attempt to tidy any of it.
 

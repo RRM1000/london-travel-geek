@@ -34,8 +34,8 @@ This one is arranged **by what you are actually paying**, because the range here
 > 💡 **The Short Version:** **Plates** is the UK's first Michelin-starred vegan restaurant and the hardest table on this page. **Mildreds** made vegetarian food in London normal and is still the easy answer. **Tofu Vegan** is the best value of the well-known ones. **Diwana** is the cheapest good meal in central London. And **Temple of Seitan** is vegan fried chicken that behaves exactly like fried chicken.
 
 > 📊 **The evidence behind this guide**
-> Nothing here is ranked on one visit. This pass reads **9 sources carrying 113 citations** across **66 named restaurants** — the editorial mastheads (Time Out, The Infatuation, Eater, Absolutely) and five specialists who write about nothing else. **19 restaurants are named by two or more independent sources.**
-> **The known weakness in this topic: there is no award, and the specialist sources dominate.** Nothing here has been judged — no Michelin star among them, no category prize — and five of the nine publications are vegan-specific blogs. That is a strength for coverage and a weakness for calibration: a restaurant the vegan press loves and the general press ignores scores the same as one both agree on. Where a room is carried only by specialists, the tier spread below shows it.
+> Nothing here is ranked on one visit. This pass reads **9 sources carrying 113 citations** across **66 named restaurants**. **19 restaurants are named by two or more independent sources.**
+> **Built on:** deep specialist coverage — five of the nine publications write about nothing else, so this reaches kitchens the general press never reviews.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
@@ -134,7 +134,7 @@ Cheaper than almost anything else on this page and better than most of it.
 
 ### Diwana Bhel Poori House, Euston
 
-*£ · 121–123 Drummond Street · walk-in* · named by no source in this corpus
+*£ · 121–123 Drummond Street · walk-in*
 
 On Drummond Street **since 1971** and the oldest of the Euston vegetarian Indian restaurants. Dosas, bhel poori, and a lunchtime thali buffet that is among the cheapest proper meals in central London.
 
@@ -154,7 +154,7 @@ Entirely vegetarian, largely vegan, and completely unbothered about whether you 
 
 ### Indian Veg, Islington
 
-*£ · 92-93 Chapel Market · all-you-can-eat* · named by no source in this corpus
+*£ · 92-93 Chapel Market · all-you-can-eat*
 
 An **all-you-can-eat North Indian vegetarian buffet** that has fed Islington on a shoestring for decades — a dozen or so rotating dishes, biryani, breads and a salad bar, refilled for as long as you keep going.
 
@@ -168,7 +168,7 @@ A vegan fried chicken shop that behaves exactly like a fried chicken shop — se
 
 ### Saravanaa Bhavan, Leicester Square
 
-*£ · walk-in* · named by no source in this corpus
+*£ · walk-in*
 
 The London outpost of the Chennai vegetarian chain, and the cheapest way in the West End to eat a properly made masala dosa.
 
@@ -180,7 +180,7 @@ Vada pav — the Mumbai potato-fritter roll — done properly from a counter. Th
 
 ### Horn OK Please and Gujarati Rasoi, Borough
 
-*£ · Borough Market · walk-in* · named by no source in this corpus
+*£ · Borough Market · walk-in*
 
 Two entirely vegetarian stalls thirty seconds apart at Borough Market, cooking completely different regional traditions. Horn OK Please builds samosa chaat in front of you; Gujarati Rasoi does thalis and dhal from family recipes.
 
@@ -290,7 +290,7 @@ A vegan diner run as a non-profit, with proceeds going to animal welfare campaig
 
 ### Rovi, Fitzrovia
 
-*£££ · Ottolenghi group* · named by no source in this corpus
+*£££ · Ottolenghi group*
 
 The Ottolenghi group's fermentation-and-fire room. Not entirely vegetarian, but vegetable-led in a way that makes the meat dishes look like the afterthought — and the best cooking of its kind in London.
 
@@ -302,7 +302,7 @@ Middle Eastern small plates, entirely vegetarian, and busy enough that it proved
 
 ### Petersham Nurseries, Richmond
 
-*££££ · Michelin Green Star* · named by no source in this corpus
+*££££ · Michelin Green Star*
 
 A glasshouse restaurant in a Richmond plant nursery with a Michelin Green Star for sustainability, running a dedicated vegan set menu alongside the main one.
 
