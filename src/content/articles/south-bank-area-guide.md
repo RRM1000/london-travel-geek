@@ -80,14 +80,14 @@ The South Bank has its own share of the commemorative plaques marking where nota
 
 ## Top sights and activities
 
-1. **Tate Modern** — A converted power station holding the national collection of international modern art. Free. The tenth-floor viewing level in the Blavatnik Building is also free and has the best free view in London, straight across the river to St Paul's.
-2. **Borough Market** — A wholesale market since at least the 12th century, now the best food market in the city. Full market Tuesday to Saturday.
+1. **Tate Modern** — A converted power station holding the national collection of international modern art. Free, and **open until 9pm on Fridays and Saturdays** as well as 10am–6pm the rest of the week. The tenth-floor viewing level in the Blavatnik Building is also free and gives you the river and St Paul's from height without a ticket.
+2. **Borough Market** — A wholesale market since at least the 12th century, now the best food market in the city. **Closed Mondays.** Tuesday to Friday 10am–5pm, Saturday 9am–5pm, Sunday 10am–4pm.
 3. **The Southbank Centre and BFI** — Brutalist arts complex with free foyer spaces, the secondhand book market under Waterloo Bridge, and the BFI's film programme.
-4. **Shakespeare's Globe** — A faithful reconstruction of the 1599 open-air theatre, 230 metres from the original site. Standing tickets for the yard are genuinely cheap.
+4. **Shakespeare's Globe** — A faithful reconstruction of the 1599 open-air theatre, 230 metres from the original site. Standing in the yard is the cheapest way in, and a batch of **£5 Rush standing tickets is released every Friday at 11am** for the following week, including for sold-out shows. The indoor, candlelit Sam Wanamaker Playhouse runs through the winter.
 5. **The London Eye** — 30 minutes, 135 metres, and the most-booked paid attraction in the country. Book a timed slot online; walk-up prices are considerably higher.
 6. **Millennium Bridge** — The pedestrian bridge from Tate Modern to St Paul's, and the best five-minute crossing in London.
 7. **Leake Street Arches** — A road tunnel under Waterloo station given over to legal graffiti, repainted constantly by anyone who turns up with a can. Free, open, and the only sanctioned wall of its kind in central London.
-8. **HMS Belfast and Tower Bridge** — At the eastern end. The Tower Bridge glass floor walkway looks down on the traffic 42 metres below.
+8. **HMS Belfast and Tower Bridge** — At the eastern end. HMS Belfast is nine decks and around three hours; adult tickets start at £23.45, but **anyone on Universal Credit or Pension Credit pays £3, for up to five people in the household**, booked online. **Walking across Tower Bridge is free** — you only pay for the high-level walkways, the glass floor and the Victorian engine rooms.
 9. **Hay's Galleria** — The old Hay's Wharf, where Britain's tea came ashore, roofed over in 1987 with a glass barrel vault modelled on Milan's Galleria Vittorio Emanuele II. Free, covered, and holding a sixty-foot kinetic sculpture called The Navigators. Directly behind HMS Belfast.
 
 ![The Navigators, a tall kinetic sculpture of ship parts, under the glass barrel vault of Hay's Galleria](../../assets/articles/south-bank-area-guide/hays-galleria.jpg)
@@ -105,7 +105,12 @@ The South Bank has its own share of the commemorative plaques marking where nota
 ## Key streets and micro-districts
 
 ### Queen's Walk (London Eye to Southbank Centre)
-The busiest stretch. Street performers, the skate park at the Undercroft, food stalls and the secondhand book market under Waterloo Bridge.
+
+The busiest pedestrian stretch in Britain, and the one everybody pictures when they say South Bank: street performers, the Undercroft skate space, the second-hand book market under Waterloo Bridge, and a run of concrete arts buildings that people either love or walk straight past.
+
+**The most useful thing here is free and indoors.** The Royal Festival Hall foyers are open to anyone — seats, heating, toilets, a piano, a view over the river — and **the Southbank Centre lets you bring your own food and soft drinks in**, which in an area where every riverside bench comes with a £6 coffee attached is worth knowing. Only alcohol has to be bought on site, and the whole complex is **cash-free**. Upstairs, the **Queen Elizabeth Hall Roof Garden** is free too: over 200 wild native plants and a bar, open Tuesday from 4pm and Wednesday to Sunday from midday, closed Mondays.
+
+The **book market under Waterloo Bridge** runs daily, roughly 10am to 7pm, and has done since 1983 — eight stalls of second-hand fiction, children's books, maps and prints. Past it, the **National Theatre** foyers are open 10am to 11pm Monday to Saturday with no ticket needed, and there is a bar on every level.
 
 ![The concrete banks and graffiti-covered pillars of the Undercroft skate park beneath the Southbank Centre](../../assets/articles/south-bank-area-guide/southbank-undercroft.jpg)
 
@@ -115,12 +120,13 @@ The busiest stretch. Street performers, the skate park at the Undercroft, food s
 
 *The Eye from underneath. It is a cantilevered wheel supported from one side only, which is why the whole structure leans out over the river.*
 
-![The graffiti-covered walls and vaulted ceiling of Leake Street Arches under Waterloo station](../../assets/articles/south-bank-area-guide/leake-street-arches.jpg)
-
-*Leake Street Arches. The whole tunnel is repainted every few days.*
-
 ### Bankside
-Tate Modern, Shakespeare's Globe and the Millennium Bridge. Quieter than the western end and the most attractive part of the walk.
+
+Quieter than the western end and the most attractive part of the walk — Tate Modern, the Globe, the Millennium Bridge and a riverside path with the City on the far bank.
+
+**Tate Modern is the anchor and it costs nothing.** Sunday to Thursday 10am–6pm, and **until 9pm on Friday and Saturday**, which is the best time to go: the crowds thin, the Turbine Hall empties out, and it is the rare free thing in London that is open at night. The **tenth-floor viewing level** in the Blavatnik Building behind it is also free, reached by lift — worth knowing that it only opens on three sides now, after the flats opposite won a privacy case against the gallery.
+
+Ninety seconds west of Tate's door, **Bankside Gallery** is free, open daily during exhibitions, and gets about 55,000 visitors a year against Tate's millions. It is the home of the Royal Watercolour Society and almost nobody walking between the two notices it.
 
 ![The brick chimney and long riverside frontage of Tate Modern, with a banner reading free and open to all](../../assets/articles/south-bank-area-guide/tate-modern.jpg)
 
@@ -135,21 +141,44 @@ Tate Modern, Shakespeare's Globe and the Millennium Bridge. Quieter than the wes
 *The Anchor Bankside. Samuel Pepys watched the Great Fire from somewhere near here; the present building is early 1800s.*
 
 ### Borough and Southwark
-Inland from the river. Borough Market, Southwark Cathedral and the Victorian streets around Stoney Street.
+
+Inland from the river, and the part of this area most worth your time — Borough Market, Southwark Cathedral and the Victorian streets around Stoney Street.
+
+**Borough Market is closed on Mondays**, which is the single most common wasted journey here. Tuesday to Friday 10am–5pm, Saturday 9am–5pm, Sunday 10am–4pm, and seven days a week through December. Saturday is heaving; a Tuesday or Wednesday morning is the same market with room to move. Borough Market Kitchen is the hot street food section.
+
+**Southwark Cathedral is free** and open 9am–6pm Monday to Saturday, 8.30am–5pm Sunday — a thousand years of building beside a market, with a churchyard, a herb garden and a resident cat. There is an hourly pause for prayer on the half hour, about two minutes, when visitors are asked to stand still.
+
+Around them, three small paid museums that people miss: the **Old Operating Theatre**, a Georgian surgical theatre up a spiral staircase in a church tower (Thursday to Sunday only); the **Clink Prison Museum** on the site of the Bishop of Winchester's gaol; and the **Golden Hinde**, currently under restoration, so parts may be shut. The **ruins of Winchester Palace** on Clink Street are free, roofless and visible from the pavement at any hour, rose window and all.
 
 ![Shoppers filling an aisle of Borough Market under its iron and glass roof, beside a fishmonger's counter](../../assets/articles/south-bank-area-guide/borough-market.jpg)
 
 *Borough Market. Busiest on Saturday by a wide margin — a Tuesday or Wednesday morning is the same market with room to move.*
 
 ### More London and Tower Bridge
-The eastern end, with City Hall's old building, HMS Belfast and the approach to Tower Bridge.
+
+The eastern end, and the stretch that has changed most.
+
+**The building everyone still calls City Hall is not City Hall any more.** The Mayor and the Assembly moved out to the Royal Docks in December 2021, and Foster's leaning glass egg — now **110 The Queen's Walk** — is a building site: main construction runs from **February 2026 to summer 2028**, after which it becomes offices, shops, restaurants and a food hall. There is nothing to see there for the moment, and **The Scoop**, the free sunken amphitheatre beside it that used to run open-air summer screenings, is inside the same scheme, so do not plan around it.
+
+**HMS Belfast** is the reason to come to this stretch. Nine decks, open 10am–6pm daily, and IWM suggests at least three hours. Adult tickets start at £23.45 — but **anyone on Universal Credit, Pension Credit or several other benefits pays £3, covering up to five people in the household**, booked online in advance. Almost no guide mentions it.
+
+Then **Tower Bridge**, which is free to walk across; the ticket buys the high-level walkways with the glass floor over the traffic and the Victorian engine rooms. **The bridge lifts around 800 times a year and the schedule is published weeks ahead** on its own site — watching it open from the riverside costs nothing and is better than the walkway.
 
 ![HMS Belfast moored on the Thames with the City of London's towers rising on the far bank](../../assets/articles/south-bank-area-guide/hms-belfast.jpg)
 
 *HMS Belfast, permanently moored off Tooley Street since 1971. The view across her guns to the City is the best free thing on this stretch.*
 
 ### Lower Marsh and Leake Street
-Behind Waterloo station. Lower Marsh is a genuine local street of independent cafes and a weekday market, five minutes off the tourist route and far better value. **Leake Street** runs under the station alongside it.
+
+Behind Waterloo station, five minutes off the tourist route and far better value for it.
+
+**Lower Marsh** is a genuine local street of independent cafés, record shops and a **weekday market, roughly 11am to 3pm Monday to Friday** — worth checking before a weekend trip, because the market's own site lists Saturday and Sunday as closed even though plenty of other listings still advertise a Saturday flea market.
+
+**Leake Street** runs under the station platforms alongside it: London's longest legal graffiti wall, free, open, and repainted constantly by anyone who turns up with a can. It has been legal since Banksy's Cans Festival in 2008. Eight of the railway arches are now independent venues — a Polish restaurant, a Philadelphia dive bar, a board-game café — so the tunnel is a night out as well as a walk-through.
+
+![The graffiti-covered walls and vaulted ceiling of Leake Street Arches under Waterloo station](../../assets/articles/south-bank-area-guide/leake-street-arches.jpg)
+
+*Leake Street Arches. The whole tunnel is repainted every few days.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-guide-london-eye" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
