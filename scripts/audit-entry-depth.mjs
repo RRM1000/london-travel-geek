@@ -42,12 +42,16 @@ const args = process.argv.slice(2);
 const MIN = Number(args.find((a) => a.startsWith("--min="))?.slice(6) ?? 80);
 const only = args.filter((a) => !a.startsWith("--"));
 
-// Does the entry say what you would actually eat? Deliberately broad - one named
-// dish is enough - because the failure caught is an entry that never mentions food
-// at all. Hide ran to 117 words about which sources cited it and named nothing.
+// Does the entry say what you would actually eat or drink? One named item is
+// enough - the failure being caught is an entry that never mentions food at all.
 //
-// No trailing word boundary: \bscone\b does not match "scones".
-const FOOD = /\b(egg|bacon|sausage|toast|pancake|waffle|scone|naan|bao|hotcake|granola|porridge|omelette|benedict|shakshuka|avocado|croissant|pastr|bun|bread|brioche|salmon|kedgeree|black pudding|hash|fritter|labaneh|mezze|flatbread|jam|cake|danish|muffin|rosti|farl|chorizo|hollandaise|caviar|oyster|croque|cornbread|sando|kebab|dip|sandwich|butty|tart|curry|noodle|dumpling|steak|pie|pizza|chip|roast|fry-up|full english|full irish|tea|coffee|espresso|flat white|viennoiserie|patisserie|marmalade|preserve|clotted cream|hotcakes|eggs benedict)/i;
+// WIDENED AFTER IT MISFIRED. The first list was written while fixing the
+// breakfast guide and was breakfast-shaped, so it called a 92-word entry about
+// lamb ribs and charcoal "NAMES NO FOOD". A check that fires on correct work
+// teaches you to ignore it, which is worse than having no check.
+//
+// No trailing word boundary: \\bscone\\b does not match "scones".
+const FOOD = /\b(?:(?:bacon|sausage|pancake|waffle|scone|granola|porridge|omelette|benedict|black pudding|crumpet|marmalade|preserve|clotted cream|fry-up|full english|full irish|gravy|yorkshire|pasty|bubble and squeak|bread|brioche|croissant|pastr|viennoiserie|patisserie|danish|muffin|doughnut|cookie|biscuit|sourdough|babka|cannoli|gelato|ice cream|sorbet|custard|pudding|pizza|pasta|ragu|cacio|carbonara|risotto|focaccia|burrata|mozzarella|margherita|tiramisu|gnocchi|lasagne|antipasti|steak|brisket|sirloin|ribeye|kebab|kofte|kofta|adana|shish|skewer|charcoal|ocakbasi|sweetbread|chicken|lamb|beef|pork|duck|quail|burger|sandwich|sando|butty|shawarma|doner|tantuni|lahmacun|pide|gozleme|meze|mezze|hummus|labneh|labaneh|falafel|flatbread|pitta|pita|dumpling|dim sum|har gau|har gow|siu mai|cheung fun|noodle|ramen|udon|soba|curry|biryani|dosa|naan|tandoor|masala|paneer|samosa|sushi|sashimi|omakase|tempura|katsu|yakitori|kimchi|bibimbap|bulgogi|banchan|tteok|laksa|satay|rendang|congee|xiao long bao|mapo|sichuan|wonton|spring roll|jianbing|chawanmushi|tapas|jamon|croqueta|paella|tortilla|pintxo|taco|quesadilla|mole|ceviche|guacamole|tostada|oyster|lobster|prawn|scallop|mussel|haddock|turbot|mackerel|anchov|fish|coffee|espresso|flat white|filter|matcha|cocktail|martini|negroni|sharing plates|small plates|tasting menu)|(?:pho|dal|daal|bao|rib|chop|ale|tea|dish|plate|pie|bun|cod|crab|menu|hash|mash|chip|roast|grill|liver|beer|wine|pint|toast|egg|cake|loaf|tart)s?\b)/i;
 
 const isChrome = (t) => {
   const s = t.trim();
