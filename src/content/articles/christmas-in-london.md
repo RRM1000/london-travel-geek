@@ -133,13 +133,57 @@ For grottos, **Fortnum & Mason's** "Storytelling with Father Christmas" and **Ha
 
 ---
 
+## Seeing the lights from a bus
+
+The lights are free to walk past, but the streets that carry the best of them — Oxford Street, Regent Street, Knightsbridge — are also the ones with the worst December pavements. A bus solves that, and there are two quite different ways to do it.
+
+### The cheap way: a normal red bus
+
+**Route 390** runs Oxford Street end to end and costs **£1.75**. **Route 139** does Oxford Circus to Trafalgar Square. Sit at the front of the top deck after dark and you have most of the same view for the price of a bus fare, with a Hopper transfer inside the hour if you want to chain two routes together. This is the answer for most people, and nobody sells it because nobody makes anything from it.
+
+### The tour: a decorated vintage Routemaster
+
+**Christmas Bus Tour** runs an open-top 1960s Routemaster, decked out, with live commentary — **75 minutes**, departing from **8 Northumberland Avenue, WC2N 5BY**, beside Trafalgar Square. Typical departures are **4.10pm, 6.15pm and 7.45pm**, with more on busier dates. The route takes in Oxford Street, Regent Street, Knightsbridge and a pass by Winter Wonderland. **A top open-deck seat is guaranteed on every booking**, which is the thing you are paying for — the view is the product, and a lower-deck seat would defeat it.
+
+**All ages, and under-5s go free** on an adult's lap with no ticket needed.
+
+> ⚠️ **Two things to check before you book.** The bus is a genuine 1960s Routemaster, which means **there is no space to store a wheelchair or a pushchair** — the operator says so plainly and asks you to phone before booking rather than turning up. And it is **open-top in December**: dress for standing on a cold street for 75 minutes, because that is effectively what it is.
+>
+> Note also that the operator's own London page still carries **"Operating November and December 2025"** in its body text while the header advertises 2026 booking. Take the dates from the booking form, not the page.
+
+**B Bakery's afternoon tea bus** also runs seasonal versions from Victoria — that one feeds you, takes 90 minutes and costs rather more. It is covered in full in our [afternoon tea guide](/articles/best-afternoon-tea-london/).
+
+---
+
+## Christmas theatre
+
+Panto is not the only thing on, and two of the best tickets in London at Christmas are not pantomimes at all.
+
+### A Christmas Carol, The Old Vic
+
+**12 November 2026 – 9 January 2027.** Jack Thorne's adaptation, directed by Matthew Warchus, now in its tenth season and **London's longest-running version of the story**. The auditorium is reconfigured in the round and the show comes out into it — mince pies included, genuinely.
+
+**About two hours including a 20-minute interval. Suitable for ages 8 and up.** Tickets are **£14.50–£81.50 in previews (12–23 November)**, **£16.50–£81.50 off-peak**, and **£16.50–£91.50 at peak** — so a preview seat is materially cheaper than a December one for the same production.
+
+**It is the best-served show in London for access.** Audio-described, BSL-interpreted, captioned and relaxed performances are all already scheduled for December and January, and there is an **access rate of £23.50–£26.50 for every performance**, with a carer or companion ticket at the same price. Access Membership is free.
+
+### Christmas Carol Goes Wrong, Wyndham's Theatre
+
+**18 December 2026 – 23 January 2027, from £15.** Mischief — the company behind *The Play That Goes Wrong* — doing the same story as a disaster: the Cornley crew feuding over who plays Scrooge while the set comes apart around them.
+
+**It is the answer to "we want something Christmassy but not a panto and not earnest."** It also runs well past Christmas, into late January, which makes it the easiest festive ticket to get if you leave it late.
+
+### And the pantomimes
+
+**Two worth booking properly**, rather than picking whatever is nearest: **Hackney Empire's** *Jack and the Beanstalk* (21 November – 31 December 2026), directed by and starring Olivier winner Clive Rowe, **£10–£48**; and the **London Palladium's** *Cinderella* (5 December 2026 – 10 January 2027), with Dawn French and Jennifer Saunders reuniting as the Ugly Sisters for the first time in 17 years.
+
+---
+
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-london-christmas-lights-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Christmas lights tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Good to know
 
 **TfL runs no services at all on Christmas Day** — no Tube, buses, Overground, DLR, Elizabeth line, trams or river boats. It's the same every year. Black cabs, private hire, Santander Cycles and rental e-scooters are the only options moving. **Boxing Day is reduced rather than closed** — Tube and buses typically run to a Sunday timetable from around 7am, with the Elizabeth line historically closed altogether. Check [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel) nearer the date for the exact 2026 detail.
-
-**Two pantomimes worth booking properly**, rather than picking whatever's nearest: **Hackney Empire's** *Jack and the Beanstalk* (21 November – 31 December 2026), directed by and starring Olivier winner Clive Rowe, tickets £10–£48; and the **London Palladium's** *Cinderella* (5 December 2026 – 10 January 2027), with Dawn French and Jennifer Saunders reuniting as the Ugly Sisters for the first time in 17 years.
 
 ---
 
