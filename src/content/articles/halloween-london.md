@@ -82,8 +82,6 @@ A few independents run smaller Halloween-night screenings worth knowing about: *
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="halloween-london-london-ghost-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London ghost tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Theatre and immersive experiences
 
 One West End show is a horror title outright, two long-running shows do the job without needing a Halloween theme at all, and one production is a genuine immersive experience built for the season.
@@ -149,6 +147,8 @@ A spooky-science live show for families rather than a scare — eerie fog, pumpk
 It is worth knowing what this is not: there are no actors, no jump scares and nothing chasing anybody. It is a demonstration lecture in the Ri's famous tiered theatre, the same room the Christmas Lectures are filmed in, pitched at families who want the season without the fright. For a child who wants to join in with Halloween but would be genuinely upset by a scare maze, it is the best thing on this page.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="halloween-london-london-ghost-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London ghost tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Ghost tours
 

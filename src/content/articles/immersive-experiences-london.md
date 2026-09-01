@@ -90,6 +90,7 @@ That is the actual problem with picking one. Every other guide to this subject i
 | **The London Dungeon** | Attraction | Waterloo | see below | You may be picked on |
 | **Shrek's Adventure!** | Family attraction | Waterloo | see below | Gently |
 | **Paddington Bear Experience** | Family attraction | Waterloo | £34 | Gently |
+| **COME ALIVE!** | Circus spectacular | Earls Court | £58 | **In the pre-show, yes** |
 | **Arcade Arena** | Gaming | Lambeth | £30 | **Yes — three of them** |
 | **Immersive Gamebox** | Gaming | 3 sites | £37 | Yes |
 | **Sandbox VR** | Full-body VR | Holborn | £35 | Yes |
@@ -198,6 +199,26 @@ The full Round Table format from the television series — **Traitors, Faithfuls
 
 *The bar you are held in before the game starts. Doors open 45 minutes early, which is deliberate — you are meant to be sizing up the strangers you are about to play against.*
 
+### COME ALIVE! The Greatest Showman Circus Spectacular, Earls Court
+
+*From £58 · 5+ · show runs 1hr 40 including interval · arrive an hour early · West Brompton*
+
+**The thing to understand about this one is that the show is only half of it.** Most "immersive" West End productions dress a foyer and call it a world. Here the pre-show is a genuine second venue, and if you turn up at curtain-up you have paid full price for roughly half of what you bought.
+
+**The whole building was purpose-built for it.** The Empress Space at Earls Court — most recently the BBC Earth Experience — was converted into what the production calls the Empress Museum, with **a 700-seat Big Top constructed inside it** for the performance itself. This is not a theatre that took a booking. It is a venue made for one show, and it is the world premiere of that show.
+
+**Before the Big Top, you walk through an invented circus world**, and the production's own map names every part of it: the **Zoetrope Bar**, the **Balloon Bar**, the **Empress Diner**, a **Costume Department**, the **Barker Stage**, **The Nest**, the **Night Sky Tent**, **Happy Medium**, **The Cloud** and the **Beasts Cage**. There are close-up performances throughout, characters in role, and food and drink built into the theming rather than sold from a trestle table.
+
+**So arrive when the doors open, not when the show starts** — 6.30pm for evening performances, 1.30pm for matinees, a full hour before curtain. The production says so itself, and it is the single most useful instruction on this page.
+
+The show that follows is circus crossed with musical theatre: a new story inspired by the film, with the Pasek and Paul songs — *This Is Me*, *Rewrite the Stars*, *A Million Dreams*, *The Greatest Show* — performed live around aerial and acrobatic work in the round.
+
+**Booking to April 2027**, running Wednesday to Sunday, seven shows a week. **Tickets start at £58** and climb steeply through premium and VIP tiers. **Under-5s are not admitted, including babes in arms.**
+
+![Inside the Big Top at COME ALIVE, the tent draped in red fabric and strung with festoon lights above a circular circus ring, with tiered seating and a sign reading The Five Tops](../../assets/articles/immersive-experiences-london/come-alive-big-top.jpg)
+
+*The 700-seat Big Top, built inside the Empress Museum. The audience is wrapped around a circus ring rather than facing a proscenium — and everything you walk through to reach this room is part of the show.*
+
 ### Faulty Towers The Dining Experience, Bloomsbury
 
 *From £65.50 · about 2 hours · Russell Square*
@@ -239,6 +260,8 @@ It is faster and more physical than it sounds — you are on your feet the whole
 **9+ enforced**, under-16s need an adult, teams cap at six, and **there are no latecomers** — arrive fifteen minutes early or lose the slot. The venue states lift access to all four boards, but ring ahead if that matters.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-london-escape-room" data-gyg-partner-id="WWP7I0R" data-gyg-q="London escape room"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Immersive dining and cabaret
 
@@ -285,8 +308,6 @@ Evenings at 6.45pm Tuesday to Sunday, with weekend matinees at 12.45pm. Describe
 **It closes this month.** The same company brings back its Christmas Carol feast for the 2026 season, staged at the site of Dickens's first public reading of it — presale sign-up is open now.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-london-escape-room" data-gyg-partner-id="WWP7I0R" data-gyg-q="London escape room"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Look, don't touch
 
@@ -374,6 +395,8 @@ The programme rotates — recent pieces have included a butterfly trail, an ench
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## For children
 
 ### Shrek's Adventure! and the Paddington Bear Experience, Waterloo
@@ -395,8 +418,6 @@ There is an adults-only after-hours strand, and combined tickets with the London
 > ⚠️ **Check the price before you book any of the three.** All were running a reduced-VAT summer offer that ended on **1 September 2026**, so the headline prices you may still see quoted elsewhere are about to be higher.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Closed — and worth saying so
 
@@ -430,6 +451,8 @@ This is the section other guides leave out, and it is the reason people turn up 
 * **Accessibility varies enormously and is not correlated with price.** Bridge Command and Peaky Blinders are designed for step-free access throughout; the Crystal Maze cannot offer it at all, and Paddington can take **one wheelchair user per hour**.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

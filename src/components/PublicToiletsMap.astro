@@ -1,0 +1,290 @@
+---
+// One-off map for public-toilets-london.md, wired in by ArticleLayout the
+// same way the tube-lines guide gets its own special case. Data is 400
+// Zone 1 facilities pulled from the Great British Public Toilet Map's own
+// GraphQL API (see scripts note in the article's git history) and written
+// to public/public-toilets.json - fetched client-side rather than inlined,
+// same reasoning as plaques.astro: ~93KB would needlessly bloat this
+// article's HTML for a section most readers never open.
+//
+// Unlike the marathon route map this replaced elsewhere on the site, this
+// is POINT markers over a roughly square area (Zone 1), not a thin line
+// over a wide-but-short bounding box - the exact shape that made fitBounds
+// force excessive zoom-out there. Clustering (Leaflet.markercluster, same
+// plugin plaques.astro uses) handles the marker count instead.
+---
+
+<section class="toilets-map" aria-labelledby="toilets-map-title">
+  <h2 id="toilets-map-title">Map: Zone 1 public toilets</h2>
+  <details class="toilets-map-shell">
+    <summary>
+      Open the map
+      <small>400 Zone 1 facilities · free, paid and unclear</small>
+    </summary>
+    <div class="toilets-map-canvas" data-toilets-map>
+      <p>The map loads when you open this section.</p>
+    </div>
+    <p class="toilets-map-legend">
+      <span><span class="toilets-map-key toilets-map-key--free"></span>Free</span>
+      <span><span class="toilets-map-key toilets-map-key--paid"></span>Paid</span>
+      <span><span class="toilets-map-key toilets-map-key--unknown"></span>Payment status not recorded</span>
+    </p>
+    <p class="toilets-map-source">
+      Data: <a href="https://www.toiletmap.org.uk" target="_blank" rel="noopener">Great British Public Toilet Map</a>,
+      Zone 1 only. A crowdsourced database — a pin's status can lag reality, so treat this as a starting point.
+    </p>
+  </details>
+</section>
+
+<style>
+  .toilets-map :global(h2) {
+    scroll-margin-top: 2rem;
+  }
+
+  .toilets-map-shell {
+    border: 1px solid var(--line, #e2dbcf);
+    border-radius: 0.9rem;
+    background: var(--surface, #fff);
+    padding: 0.15rem 1rem 1rem;
+  }
+  .toilets-map-shell summary {
+    padding: 0.7rem 0;
+    font-weight: 600;
+    cursor: pointer;
+    list-style: none;
+  }
+  .toilets-map-shell summary::-webkit-details-marker { display: none; }
+  .toilets-map-shell summary::before { content: "▸ "; color: var(--muted, #5a6a7d); }
+  .toilets-map-shell[open] summary::before { content: "▾ "; }
+  .toilets-map-shell summary small {
+    display: block;
+    font-weight: 400;
+    font-size: 0.82rem;
+    color: var(--muted, #5a6a7d);
+    margin-top: 0.15rem;
+  }
+
+  .toilets-map-canvas {
+    height: min(65vh, 32rem);
+    border-radius: 0.7rem;
+    border: 1px solid var(--line, #e2dbcf);
+    overflow: hidden;
+    background: var(--surface-strong, #f0ebe2);
+    /* Same isolation fix as the plaques map - Leaflet's panes/controls run
+       z-index up to ~1000, which otherwise beats the sticky header once
+       scrolled past it. */
+    isolation: isolate;
+  }
+  .toilets-map-canvas p {
+    margin: 0;
+    padding: 1rem;
+    font-size: 0.9rem;
+    color: var(--muted, #5a6a7d);
+  }
+
+  .toilets-map-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 1rem;
+    margin: 0.7rem 0 0;
+    font-size: 0.85rem;
+  }
+  .toilets-map-legend span:not(.toilets-map-key) {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+  .toilets-map-key {
+    width: 0.75rem;
+    height: 0.75rem;
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid rgb(0 0 0 / 0.25);
+  }
+  .toilets-map-key--free { background: #1f7a4d; }
+  .toilets-map-key--paid { background: var(--accent, #d6392f); }
+  .toilets-map-key--unknown { background: #9aa5ad; }
+
+  .toilets-map-source {
+    margin: 0.6rem 0 0;
+    font-size: 0.8rem;
+    color: var(--muted, #5a6a7d);
+  }
+
+  /* Leaflet builds these at runtime, outside Astro's scoping. */
+  :global(.toilets-pop) { font-family: inherit; max-width: 16rem; }
+  :global(.toilets-pop strong) { font-size: 0.95rem; }
+  :global(.toilets-pop-line) { margin: 0.3em 0; font-size: 0.85em; color: var(--ink-soft, #22344a); }
+  :global(.toilets-pop-badges) { margin: 0.3em 0 0; font-size: 0.8em; color: var(--muted, #5a6a7d); }
+
+  :global(.toilets-map-canvas .marker-cluster),
+  :global(.toilets-map-canvas .marker-cluster div) {
+    background: rgb(29 78 137 / 0.85);
+    color: #fff;
+  }
+  :global(.toilets-map-canvas .marker-cluster) {
+    border: 3px solid rgb(255 255 255 / 0.9);
+    box-shadow: 0 1px 4px rgb(14 27 44 / 0.22);
+  }
+  :global(.toilets-map-canvas .marker-cluster div) {
+    font: 600 0.78rem/1 var(--body, system-ui, sans-serif);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+</style>
+
+<script>
+  type Toilet = {
+    name: string | null;
+    lat: number;
+    lng: number;
+    area: string | null;
+    category: "free" | "paid" | "unknown";
+    price: string | null;
+    notes: string | null;
+    accessible?: boolean;
+    babyChange?: boolean;
+    radar?: boolean;
+  };
+
+  const CATEGORY_COLOUR: Record<string, string> = {
+    free: "#1f7a4d",
+    paid: "#d6392f",
+    unknown: "#9aa5ad",
+  };
+
+  const esc = (s: string) =>
+    s.replace(/[&<>"']/g, (m) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[m]!);
+
+  // Same one-loader-wins pattern as the plaques page and the area maps:
+  // whichever component gets there first injects the script/styles, and
+  // anything after it reuses window.L rather than double-loading.
+  function loadCss(href: string, marker: string) {
+    if (document.querySelector(`link[${marker}]`)) return;
+    const l = document.createElement("link");
+    l.rel = "stylesheet";
+    l.href = href;
+    l.setAttribute(marker, "");
+    document.head.appendChild(l);
+  }
+  function loadScript(src: string): Promise<void> {
+    return new Promise((resolve, reject) => {
+      const s = document.createElement("script");
+      s.src = src;
+      s.onload = () => resolve();
+      s.onerror = () => reject(new Error(`failed to load ${src}`));
+      document.head.appendChild(s);
+    });
+  }
+  async function loadLeaflet(): Promise<any> {
+    const w = window as any;
+    if (w.L && w.L.markerClusterGroup) return w.L;
+    loadCss("https://unpkg.com/leaflet@1.9.4/dist/leaflet.css", "data-leaflet-styles");
+    loadCss("https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css", "data-mc-styles");
+    loadCss("https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css", "data-mcd-styles");
+    if (!w.L) await loadScript("https://unpkg.com/leaflet@1.9.4/dist/leaflet.js");
+    if (!w.L?.markerClusterGroup) {
+      await loadScript("https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js");
+    }
+    if (!w.L?.markerClusterGroup) throw new Error("Leaflet/markercluster did not load.");
+    return w.L;
+  }
+
+  function popupHtml(t: Toilet): string {
+    const title = t.name || `Public toilet${t.area ? `, ${t.area}` : ""}`;
+    const priceLine =
+      t.category === "paid"
+        ? `Paid${t.price ? ` — ${esc(t.price)}` : ""}`
+        : t.category === "free"
+          ? "Free"
+          : "Payment status not recorded";
+    const badges = [
+      t.accessible && "♿ Accessible",
+      t.babyChange && "🚼 Baby change",
+      t.radar && "🔑 RADAR key",
+    ].filter(Boolean).join(" · ");
+    return `
+      <div class="toilets-pop">
+        <strong>${esc(title)}</strong>
+        <p class="toilets-pop-line">${priceLine}${t.area ? ` · ${esc(t.area)}` : ""}</p>
+        ${t.notes ? `<p class="toilets-pop-line">${esc(t.notes)}</p>` : ""}
+        ${badges ? `<p class="toilets-pop-badges">${badges}</p>` : ""}
+      </div>`;
+  }
+
+  async function initialiseMap(container: HTMLElement) {
+    if (container.dataset.mapReady === "true") return;
+    container.dataset.mapReady = "true";
+
+    try {
+      const [toiletsRes, L] = await Promise.all([
+        fetch("/public-toilets.json"),
+        loadLeaflet(),
+      ]);
+      const data = await toiletsRes.json();
+      const toilets: Toilet[] = data.toilets || [];
+      if (!toilets.length) throw new Error("no data");
+
+      container.replaceChildren();
+      const map = L.map(container, { scrollWheelZoom: false });
+      L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      }).addTo(map);
+
+      const cluster = L.markerClusterGroup({
+        chunkedLoading: true,
+        maxClusterRadius: 42,
+        spiderfyOnMaxZoom: true,
+        disableClusteringAtZoom: 17,
+      });
+
+      const positions: [number, number][] = [];
+      for (const t of toilets) {
+        positions.push([t.lat, t.lng]);
+        const colour = CATEGORY_COLOUR[t.category] || CATEGORY_COLOUR.unknown;
+        const marker = L.circleMarker([t.lat, t.lng], {
+          radius: 6,
+          weight: 1.5,
+          color: "#fff",
+          fillColor: colour,
+          fillOpacity: 0.9,
+        }).bindPopup(popupHtml(t));
+        cluster.addLayer(marker);
+      }
+      map.addLayer(cluster);
+
+      // Zone 1 is roughly square (~5km wide, ~5km tall), not a thin line, so
+      // fitBounds behaves the way it does on the area-guide maps rather than
+      // the aspect-ratio problem a wide-but-short route line caused
+      // elsewhere on this site.
+      map.fitBounds(L.latLngBounds(positions), { padding: [24, 24], maxZoom: 15 });
+
+      const shell = container.closest<HTMLDetailsElement>("details");
+      shell?.addEventListener("toggle", () => {
+        if (shell.open) window.setTimeout(() => map.invalidateSize(), 0);
+      });
+    } catch (e) {
+      console.error(e);
+      container.innerHTML =
+        "<p>The map could not load. The data is at <a href=\"/public-toilets.json\">/public-toilets.json</a>.</p>";
+      delete container.dataset.mapReady;
+    }
+  }
+
+  for (const el of document.querySelectorAll<HTMLElement>("[data-toilets-map]")) {
+    const shell = el.closest<HTMLDetailsElement>("details");
+    if (shell?.open) {
+      void initialiseMap(el);
+    } else {
+      shell?.addEventListener(
+        "toggle",
+        () => {
+          if (shell.open) void initialiseMap(el);
+        },
+        { once: true },
+      );
+    }
+  }
+</script>

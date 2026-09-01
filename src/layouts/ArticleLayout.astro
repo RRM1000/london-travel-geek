@@ -18,6 +18,7 @@ import hotelData from "../data/hotels.json";
 import hiddenLondonData from "../data/hiddenLondon.json";
 import restaurantMapData from "../data/restaurants.json";
 import AreaHotels from "../components/AreaHotels.astro";
+import PublicToiletsMap from "../components/PublicToiletsMap.astro";
 import CombineWith from "../components/CombineWith.astro";
 import ArticleFaq from "../components/ArticleFaq.astro";
 import { activeSite } from "../sites";
@@ -298,6 +299,7 @@ const breadcrumbs = [
           />
         )}
         <slot />
+        {articleId === "public-toilets-london" && <PublicToiletsMap />}
         {area && <AreaMap articleId={articleId} areaName={area.name} />}
         {area && <AreaEvents articleId={articleId} areaName={area.name} />}
         {area && <AreaActivities articleId={articleId} areaName={area.name} />}
