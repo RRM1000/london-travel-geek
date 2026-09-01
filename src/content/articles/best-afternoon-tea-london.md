@@ -82,6 +82,10 @@ The stand is Victorian-inspired but not museum-piece: sandwiches, scones, and pa
 
 Sixty-five seats on the ground floor, a pianist from 1pm to 7pm, and enough room between tables to talk. Smart casual — no sportswear or flip-flops, but no jacket-and-tie either. **Book weeks ahead for a weekend.**
 
+![The Palm Court at the Langham, with a tall dried-flower arrangement above a curved buttoned banquette and green armchairs](../../assets/articles/best-afternoon-tea-london/langham-palm-court.jpg)
+
+*The Palm Court at The Langham, where afternoon tea was invented in 1865. The room seats sixty-five and there is genuinely space between the tables.*
+
 ### The Ritz, Piccadilly
 
 *££££ · 2 min from Green Park · dress code enforced · Cited by 4 sources*
@@ -91,6 +95,10 @@ The most recognised afternoon tea in London, and the most formal. Served in the 
 Finely cut sandwiches, **scones with Cornish clotted cream and strawberry preserve**, and a cake trolley wheeled to the table so you choose by eye rather than off a menu. Twenty loose-leaf teas including the house Ritz Royal Blend.
 
 **£95 a head, £73 for children**, champagne from £26 a glass. Five sittings a day, seven days a week — 11.30am, 1.30pm, 3.30pm, 5.30pm and 7.30pm.
+
+![A tiered stand at the Ritz with finger sandwiches below and monogrammed pastries above, between two glasses of champagne](../../assets/articles/best-afternoon-tea-london/tea-at-the-ritz.jpg)
+
+*Tea at the Ritz. The pastries carry the hotel's monogram, and the cake trolley comes round afterwards so you pick by eye.*
 
 > ⚠️ **The dress code is real and enforced.** Jacket and tie for men, no jeans or trainers — waived only for under-16s. Weekend sittings book months out.
 
@@ -225,6 +233,10 @@ The current stand is nature-themed and deliberately disrupts the classic order: 
 Afternoon tea on the floor of an **eight-storey glass atrium among full-grown palm trees**, with a pianist and a harpist playing. The most theatrical tea room in London that is not a palace, and the one that photographs best by a distance.
 
 Served as **High Palms High Tea**: finger sandwiches, freshly baked scones with Cornish clotted cream and preserves, and pastries from the hotel’s pastry team. **£75 traditional, £85 with Nyetimber Classic Cuvée, £90 with Nyetimber Rosé** — English sparkling rather than champagne, which is a deliberate choice here.
+
+![The eight-storey glass-roofed atrium of the Landmark London, with full-grown palm trees rising above the tables](../../assets/articles/best-afternoon-tea-london/winter-garden-landmark.jpg)
+
+*The Winter Garden at The Landmark. Eight storeys of glazed atrium and full-grown palms — this is what you are paying for.*
 
 > ⚠️ **Go for the room.** Reviews of the food itself are genuinely mixed for something over £70 a head. The atrium is extraordinary; the sandwiches are not. Ask for a table on the atrium floor rather than the gallery above.
 
