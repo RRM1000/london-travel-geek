@@ -169,22 +169,6 @@ It is faster and more physical than it sounds — you are on your feet the whole
 
 ---
 
-### Moulin Rouge! The Musical, Piccadilly Theatre
-
-*Can Can tables · Piccadilly Circus · book months ahead*
-
-**A West End musical rather than an immersive show — with one exception that earns it a place here.** The Piccadilly Theatre has been rebuilt into the Moulin Rouge itself: the auditorium is dressed floor to ceiling, an elephant on one side and a windmill on the other, and it starts working on you well before the curtain does.
-
-**The exception is the Can Can Table Seats.** A handful of tables at the very front of the stalls, level with the stage, with the show happening on all sides of you rather than in front of you. It is the closest thing in the West End to sitting inside the set.
-
-**There are nine tables of two — eighteen seats a performance.** That is the whole reason they vanish: not demand alone, but that the supply is tiny. **Book months ahead**, and do not count on returns appearing.
-
-![The Moulin Rouge set at the Piccadilly Theatre, a vast red and gold proscenium with the neon Moulin Rouge sign lit above the stage](../../assets/articles/immersive-experiences-london/moulin-rouge-piccadilly.jpg)
-
-*The Piccadilly Theatre dressed as the Moulin Rouge. The Can Can tables sit at the foot of that stage, inside the lit frame rather than looking at it.*
-
----
-
 ## Immersive dining and cabaret
 
 ### Mamma Mia! The Party, North Greenwich
@@ -276,6 +260,20 @@ Level access through the main entrance, though there are steps into the individu
 You sit or stand as you like and nobody performs at you. **Slots run every half hour**, tickets are £25 for adults and **£15 for students and under-18s**, plus a £2 transaction fee per order. BSL showings are offered.
 
 **Wallace & Gromit: Larger Than Life opens here on 14 October 2026**, from £25, if the Bowie one has gone by the time you read this.
+
+### Moulin Rouge! The Musical, Piccadilly Theatre
+
+*Can Can tables · Piccadilly Circus · book months ahead*
+
+**A West End musical rather than an immersive show, but the room does the work.** The Piccadilly Theatre has been rebuilt into the Moulin Rouge itself: the auditorium is dressed floor to ceiling, an elephant on one side and a windmill on the other, and it starts working on you well before the curtain does.
+
+**The seats to want are the Can Can Tables.** A handful of tables at the very front of the stalls, level with the stage, with the show happening on all sides of you rather than in front of you. It is the closest the West End gets to sitting inside the set — though you are still watching, not taking part.
+
+**There are nine tables of two — eighteen seats a performance.** That is the whole reason they vanish: not demand alone, but that the supply is tiny. **Book months ahead**, and do not count on returns appearing.
+
+![The Moulin Rouge set at the Piccadilly Theatre, a vast red and gold proscenium with the neon Moulin Rouge sign lit above the stage](../../assets/articles/immersive-experiences-london/moulin-rouge-piccadilly.jpg)
+
+*The Piccadilly Theatre dressed as the Moulin Rouge. The Can Can tables sit at the foot of that stage, inside the lit frame rather than looking at it.*
 
 ### ABBA Voyage, Pudding Mill Lane
 
