@@ -32,7 +32,7 @@ The city's famous sights are scattered across a wide area, so a plan built from 
 
 | Time available | Guide | What it covers |
 | --- | --- | --- |
-| **One day** | [Six one-day plans by interest](/articles/one-day-london-itineraries-by-interest/) | Pick a theme — first-timer, theatre, museums, families, food, or low-walking |
+| **One day** | [Thirteen one-day plans by interest](/articles/one-day-london-itineraries-by-interest/) | Pick a theme — first-timer, theatre, museums, families, food, royal, free, rainy, views, books, markets, film, or low-walking |
 | **Three days** | [Three days in London](/articles/three-days-in-london-itinerary/) | Westminster, the Tower and South Bank, one museum district |
 | **Five days** | [Five days in London](/articles/five-days-in-london-itinerary/) | The above, plus Greenwich by river and a full neighbourhood day |
 

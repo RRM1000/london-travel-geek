@@ -3,7 +3,7 @@ title: "Three Days in London: A First-Time Itinerary That Works"
 seoTitle: "Three Days in London Itinerary 2026: Walking Times & What to Book"
 description: "A realistic three-day London plan with walking times between every stop, what to book before you fly, what it costs, and what to leave out."
 publishedAt: 2026-07-28
-updatedAt: 2026-08-27
+updatedAt: 2026-09-01
 sites: [london]
 canonicalSite: london
 category: "London itineraries"
@@ -81,6 +81,10 @@ If you would rather drink than watch, our [cocktail bars guide](/articles/best-c
 
 ---
 
+![The London Eye rising above County Hall on the South Bank, seen across the river](../../assets/articles/three-days-in-london-itinerary/london-eye-county-hall.jpg)
+
+*The end of day one. The South Bank walk is flat, continuous and free, and it is the stretch that makes London look like itself.*
+
 ## Day 2: The Tower and the whole South Bank
 
 *About 5 to 6 miles. The longest day, but it is one continuous riverside walk and you can stop anywhere.*
@@ -116,9 +120,16 @@ The Southbank Centre foyers have **free live music most days**. Otherwise dinner
 
 ## Day 3: One museum district
 
+**Three days is exactly enough for one museum district and not two.** The temptation is to do the British Museum in the morning and South Kensington in the afternoon; the result is two rushed hours in each and an hour on the Piccadilly line between them. Pick one, and give it until you are tired rather than until you have seen everything — nobody sees everything.
+
 Pick **one**. Both are free, both are enormous, and doing both is how people end up seeing neither properly.
 
 ### Option A — South Kensington
+
+![The Hintze Hall at the Natural History Museum, with the blue whale skeleton suspended above the staircase](../../assets/articles/three-days-in-london-itinerary/natural-history-hintze-hall.jpg)
+
+*Hope, the blue whale, in the Hintze Hall. Free, and the best room in London to walk into cold.*
+
 
 Three world-class museums within *five minutes' walk of each other*, all **free**.
 
@@ -177,15 +188,21 @@ Add them on a longer trip: see [five days in London](/articles/five-days-in-lond
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="three-days-in-london-itinerary-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Where to stay for this plan
+
+**Zone 1 is not the answer.** You pay a premium for a postcode you will walk out of every morning anyway. What matters is a direct line to the middle and a station you can walk back to at midnight.
+
+**The best value on this plan** is anywhere on the **Jubilee line between London Bridge and Canary Wharf**, or **Zone 2 north on the Victoria line** — Highbury, Finsbury Park — both fifteen minutes from the centre for materially less money.
+
+**What actually costs you money is the airport transfer at each end**, so check that before you book a bargain in Zone 4.
 
 For maximum walking, base yourself in [Covent Garden](/articles/covent-garden-area-guide/), [Soho](/articles/soho-area-guide/) or the [South Bank](/articles/south-bank-area-guide/) — all three put Days 1 and 2 on your doorstep.
 
 For rail convenience and better value, [King's Cross](/articles/kings-cross-area-guide/) or [Bloomsbury](/articles/bloomsbury-area-guide/), which also sets up Day 3 Option B.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="three-days-in-london-itinerary-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

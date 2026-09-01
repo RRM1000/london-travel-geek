@@ -194,6 +194,8 @@ The least-known free London, and the most interesting. These are not attractions
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-london-pass-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pass attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Free: only at the right time of year
 
 A lot of London's best free things do not exist most of the year. These are worth planning a trip around, or at least knowing about before you book dates.
@@ -281,7 +283,7 @@ A lot of London's best free things do not exist most of the year. These are wort
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-london-pass-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pass attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where the money actually goes
 

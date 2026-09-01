@@ -3,7 +3,7 @@ title: "Five Days in London: The Itinerary With Room to Breathe"
 seoTitle: "Five Days in London Itinerary 2026: Day by Day, With Walking Times"
 description: "A five-day London plan: the central essentials in three days, Greenwich by river on day four, and a full neighbourhood day on day five."
 publishedAt: 2026-07-28
-updatedAt: 2026-08-27
+updatedAt: 2026-09-01
 sites: [london]
 canonicalSite: london
 category: "London itineraries"
@@ -72,6 +72,10 @@ Boats run from **Westminster, Embankment and Tower** piers and take **around an 
 
 See our [Greenwich guide](/articles/greenwich-area-guide/) for the detail.
 
+![The view from Greenwich Hill over the Old Royal Naval College to Canary Wharf beyond](../../assets/articles/five-days-in-london-itinerary/greenwich-hill-view.jpg)
+
+*The view from the Observatory hill. Worth the climb, and the reason to do Greenwich as a whole day rather than a morning.*
+
 ### Getting back
 
 **Walk under the river.** The **Greenwich Foot Tunnel** beside the Cutty Sark is free, open at all hours, and comes up at Island Gardens with the best view back at Greenwich there is. From there the DLR runs north through the docks on a viaduct — sit at the front, there is no driver.
@@ -83,6 +87,10 @@ That also puts you at [Canary Wharf](/articles/canary-wharf-area-guide/), which 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="five-days-in-london-itinerary-london-pass-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pass attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Day 5: one neighbourhood, properly
+
+**By day five the mistake everyone makes is going back to the middle.** You have seen the middle. The fifth day is the one that turns a sightseeing trip into knowing a city slightly, and the way to spend it is to pick one neighbourhood and stay there — eat there, walk it, sit in its park, use its pubs.
+
+**Choose by the day of the week**, because several of these only work on one:
 
 The day people remember. Pick **one** and stay in it.
 
@@ -115,6 +123,14 @@ The furthest from central and the most unlike it. The Heath, the ponds, Kenwood 
 ---
 
 ## Spread the evenings out
+
+**Five nights is enough to eat properly rather than incidentally**, and it is the part of a long trip most people waste on whatever is nearest the hotel.
+
+One night in a **neighbourhood you are not staying in** — Peckham, Hackney, Brixton — is worth more than another West End chain. Book **one** thing that needs booking, leave the rest loose.
+
+![A cheese stall at Borough Market with large wheels stacked behind the counter](../../assets/articles/five-days-in-london-itinerary/borough-market-cheese-stall.jpg)
+
+*Borough is a lunch, not a dinner — it closes early, and it is closed on Mondays.*
 
 Five nights is enough for variety, and the mistake is stacking the good ones at the end when you are too tired.
 
