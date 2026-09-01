@@ -121,24 +121,46 @@ What is at North Greenwich: **The O2**, one of the busiest arenas in the world, 
 ## Key streets and micro-districts
 
 ### Maritime Greenwich
-The UNESCO core: Naval College, Queen's House, National Maritime Museum and Cutty Sark, all within five minutes of each other.
+The UNESCO core, and four separate sites within five minutes of each other — which makes **knowing what is free and what is not** the single most useful thing here.
+
+**Free:** the **National Maritime Museum**, the largest maritime museum in the world, with a sea-themed playground and a genuinely good family offer; and the **Queen's House**, an Inigo Jones villa holding the art collection, with the Tulip Stairs — the first geometric self-supporting staircase in Britain — costing nothing to walk up.
+
+**Paid:** the **Cutty Sark**, **£22 adult and £11 child**, open daily 10am–5pm with last entry 4.15pm, where the money buys you the space underneath the hull as much as the decks. And the **Old Royal Naval College's Painted Hall**, Thornhill's ceiling, which took him nineteen years.
+
+**The order that works** is the free museums first while you are fresh, then one paid site rather than both — most people run out of appetite before they run out of Greenwich.
 
 ![The colonnade beside the Queen's House at the Old Royal Naval College, its white columns throwing long shadows across the flagstones](../../assets/articles/greenwich-area-guide/naval-college-colonnade.jpg)
 
 *The colonnade beside the Queen's House. The whole UNESCO core sits within a five-minute walk of this spot.*
 
 ### Greenwich town centre
-Around the covered market. Church Street, Nelson Road and College Approach — pubs, bookshops and the market hall.
+A compact grid around the covered market, and the part that still feels like a town rather than a visitor attraction.
+
+**Greenwich Market** is the anchor — under a roof, so it works in the rain, and unusual in that it mixes antiques, crafts and makers with food rather than being one or the other. **Goddards at Greenwich** has been selling pie and mash here since 1890, which is the most Greenwich lunch available. There is also a **street food market by the Cutty Sark** running weekends through the year.
+
+Around it, **Church Street, Nelson Road and College Approach** hold the second-hand bookshops, a printmakers' gallery, a guitar shop and several good pubs — including **The Admiral Hardy** on the market itself.
+
+**Come on a weekday if you want to browse.** The market trades most days but weekends are shoulder-to-shoulder, and the antiques stalls are the ones that suffer for it.
 
 ### Greenwich Park and the hill
-Up behind the Maritime Museum. The Observatory at the top, the deer in The Wilderness, and the rose garden.
+The oldest enclosed royal park in London, and the climb behind the Maritime Museum is steeper than it looks from the bottom — allow ten minutes and take the path rather than the grass in wet weather.
+
+**The view from the top is free and is the reason to come.** Queen's House and the Naval College below, the river, Canary Wharf opposite and the O2 to the right — one of the great London views, at no cost, whether or not you go into anything.
+
+**The Royal Observatory at the summit is paid: £24 adult, £11 child**, 10am–5pm with last entry 4pm, extended to 6pm through September. That buys the **Prime Meridian line**, Wren's Octagon Room, and the Great Equatorial Telescope. **You can see the meridian courtyard from outside without paying**, which is worth knowing if the queue is long or the family is flagging.
+
+Also free, and often missed: the **deer in The Wilderness** — a herd has been here since the seventeenth century — and the **rose garden** behind Ranger's House, at its best in June.
 
 ![Greenwich Park looking down over the Old Royal Naval College to the Thames, Canary Wharf and the O2](../../assets/articles/greenwich-area-guide/greenwich-park-view.jpg)
 
 *The view north from the hill: the Queen's House and Naval College below, Canary Wharf across the river, the O2 to the right.*
 
 ### The riverside and the Foot Tunnel
-The Foot Tunnel entrance is right at the pier, beside the Cutty Sark. Head east along the river instead for the Trafalgar Tavern, past the Naval College.
+**The Greenwich Foot Tunnel is free, open at all hours, and the entrance is right at the pier beside the Cutty Sark** — a glazed rotunda you would walk past without noticing. Opened in 1902 so that south London dockworkers could reach the Isle of Dogs, it is 370 metres of white tile under the river, and it comes up at Island Gardens for the view back at Greenwich that Canaletto painted. Lifts run limited hours; the stairs always work.
+
+**Head east along the river instead** and you pass the Naval College to the **Trafalgar Tavern**, an 1837 riverside pub where Dickens set the wedding breakfast in *Our Mutual Friend* — in the Hawke Room, which you can still eat in. Whitebait is the thing to order, historically and still.
+
+**Going by boat is better than the DLR.** Uber Boat by Thames Clippers runs from Greenwich Pier into central London, takes about 25 minutes to Tower Bridge, and is the only commute in the city people photograph.
 
 ![The Trafalgar Tavern's riverside terrace strung with rows of colourful nautical signal flags](../../assets/articles/greenwich-area-guide/trafalgar-tavern.jpg)
 
