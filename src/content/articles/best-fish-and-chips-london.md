@@ -84,6 +84,10 @@ On Brockley Road since 2011, on the site of a run-down Chinese takeaway. MSC-cer
 
 No masthead guide has got round to it.
 
+![A large battered fillet and thick-cut chips on a white plate at Brockley's Rock, with a lemon wedge, a side salad and tartare sauce](../../assets/articles/best-fish-and-chips-london/brockleys-rock.jpg)
+
+*The plate the National Federation of Fish Friers shortlisted: MSC cod, chips cut thick, and the tartare sauce it is known locally for.*
+
 ### Stones Fish and Chips, Acton
 
 *££ · Horn Lane, W3 · Cited by 3 sources · National Fish and Chip Awards 2026 shortlist*
@@ -93,6 +97,10 @@ No masthead guide has got round to it.
 The thing that earns the awards is the sourcing: **hake alongside cod while cod stocks recover**, which almost no London shop does, plus haddock and daily specials. Batter is light and crisp, chips are hand-cut, and the frying oil is changed on a schedule rather than when it looks bad.
 
 **££, walk-in, closed Monday.** Acton is a long way from anywhere on this list, and the awards are the reason to make the trip.
+
+![A close-up of a battered fillet broken open at Stones Fish and Chips, showing white flakes inside a crisp golden crust, beside thick hand-cut chips](../../assets/articles/best-fish-and-chips-london/stones-fish.jpg)
+
+*Broken open, which is the test. The batter holds its shape as a shell and the fish inside is still in flakes rather than steamed to mush.*
 
 
 > **The award publishes almost nothing.** There is no winners page on the awards site and no archive of past results — the forty-shop shortlist had to be read from a news report, and only the ten-shop final is on the federation's own site. The February 2026 ceremony has been and gone without a public record of who won. That is a gap in the category, not in this guide.
@@ -172,6 +180,10 @@ Large fillets of cod, haddock and plaice in a thick, well-browned batter with ch
 Sustainably sourced cod and haddock in a light batter, hand-cut chips fried in groundnut oil, and the standard sides done properly — **mushy peas, curry sauce, pickled onions**. A small sit-down room behind the counter.
 
 **££, walk-in.** Two minutes from most of the Shaftesbury Avenue theatres, which is the entire argument for it — eat here before a show rather than trekking to Marylebone.
+
+![A long battered fillet and chips on a plate at Golden Union, with a lemon wedge, chopped parsley and a pot of tartare sauce on the table](../../assets/articles/best-fish-and-chips-london/golden-union.jpg)
+
+*Sit-down portions rather than a paper wrap, and close enough to Shaftesbury Avenue to do it properly before a curtain-up.*
 
 ### Masters Superfish, Waterloo
 
@@ -322,6 +334,10 @@ At the traditional shops: fish bought from Billingsgate, fried in a light batter
 The **Mayfair Classic** is the order: a large battered fillet with chips, mushy peas, tartare sauce and a pot of curry sauce, plated rather than wrapped. Shellfish and a proper wine list either side of it.
 
 **£££ — the most expensive entry here by some distance** — open seven days for lunch and dinner, and worth booking a few days ahead. Takeaway runs alongside the dining room if you want the fish without the room.
+
+![The Mayfair Classic served in a metal frying basket lined with branded paper, with chips, lemon, and pots of tartare sauce, mushy peas and curry sauce alongside](../../assets/articles/best-fish-and-chips-london/mayfair-chippy.jpg)
+
+*The Mayfair Classic, plated in a basket with the sauces in their own pots — the difference between the £££ and everything else on this page is largely the presentation.*
 
 ### The Golden Chippy, Greenwich
 
