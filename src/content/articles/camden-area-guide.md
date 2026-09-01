@@ -96,7 +96,11 @@ Camden has its own share of the commemorative plaques marking where notable peop
 ## Key streets and micro-districts
 
 ### Camden Lock and the canal
-The centre of it. The lock, the market buildings and the towpath in both directions.
+The centre of it, and the part worth arriving early for. **Camden Market opens 10am to 7pm daily**, including bank holidays, and the cobbled lanes between the lock and the railway arches are close to impassable by early afternoon at a weekend. Before eleven on a weekday you can actually see what the stalls are selling.
+
+The **food is the main event now** rather than the clothing — around a hundred street food counters across the lock and Hawley Wharf, from Cuban to Korean to Argentinian, most plates £8 to £12. **Hawley Wharf's food halls run 11.30am to 11pm**, considerably later than the market itself, so the lock empties in the evening while the restaurants beside it fill.
+
+**The canal is the best way out.** The **London Waterbus** runs from beside the lock to **Little Venice in 45 minutes** — **£17 adult, £14 child, under-4s free** — through Regent's Park, the grounds of London Zoo and the 248-metre Maida Hill tunnel. Boarding closes five minutes before departure. Walking the towpath the same way is free and takes about an hour.
 
 ![A narrowboat moored at Camden Lock beneath a willow tree, with street food counters along the far bank](../../assets/articles/camden-area-guide/camden-lock-narrowboat.jpg)
 
@@ -111,7 +115,11 @@ The centre of it. The lock, the market buildings and the towpath in both directi
 *Camden Lock Place, between the market and Hawley Wharf. The glass pods are outdoor seating for the restaurants either side.*
 
 ### Stables Market and Chalk Farm Road
-North past the railway bridge. The horse hospital tunnels, the vintage dealers and the Roundhouse opposite.
+North past the railway bridge, and **the part of Camden actually worth slowing down for**. The Stables are the Victorian horse hospital and tunnels built for the animals that hauled canal barges, now cut through with railway arches full of dealers — vintage clothing, furniture, militaria, records. Expect **£15 to £60** for a decent vintage piece, more for branded denim or leather.
+
+**Go on a weekday if you want to look at anything properly.** The arches are narrow, the good stalls are the ones people stop at, and on a Saturday you shuffle.
+
+Opposite stands the **Roundhouse**, built in 1847 as an engine shed to turn locomotives and now one of London's better music venues — the cast-iron columns inside are the originals. Worth checking what is on before you come, since the building alone justifies a ticket. It is covered in full in our [live music guide](/articles/best-live-music-venues-london/).
 
 ![Rails of vintage coats and dresses under a brick railway arch in Camden Stables Market](../../assets/articles/camden-area-guide/stables-market-vintage.jpg)
 
@@ -141,10 +149,18 @@ Two things on this stretch are worth stopping for. **[Cyberdog](https://www.cybe
 *BOXPARK Camden. Sushidog and a run of other counters downstairs, with a roof terrace above.*
 
 ### Inverness Street and Parkway
-West of the High Street. A small street market and the better local restaurants, away from the crowds.
+West of the High Street, and where Camden stops performing at you. **Inverness Street** was a working fruit and veg market for a century and is now much reduced — a handful of stalls rather than the row it was — but the street itself is lined with pubs and small restaurants that serve locals rather than the market crowd.
+
+**Parkway is the one to walk.** It runs from the Tube down toward Regent's Park, and the eating is materially better and cheaper than anything you will find fifty metres east: proper neighbourhood Greek, Italian and Indian rooms, plus **The Dublin Castle**, the pub where Madness got their start and still a small live venue most nights.
+
+**This is where to eat if the market has worn you out** — five minutes from the crowds, and you will get a table.
 
 ### Primrose Hill village
-North-west across the railway. Pastel houses, good pubs and a completely different, much quieter neighbourhood. **Chalcot Crescent** here stood in for the Brown family's house in the *Paddington* films.
+North-west across the railway, and a different world within ten minutes' walk — pastel stucco terraces, independent shops along Regent's Park Road, and pubs that fill with people who live here rather than people visiting.
+
+**The hill itself is the reason to come.** It rises to about **63 metres** and the summit is **one of London's protected viewpoints**, which is a legal designation: the trees are kept low and nothing may be built that blocks the sightline to St Paul's and the City. It is free, always open, and one of the best skyline views in the city — busiest at sunset, and on New Year's Eve genuinely packed.
+
+**Chalcot Crescent** stood in for the Brown family's house in the *Paddington* films. These are private homes, so photograph from the pavement and keep the noise down.
 
 ![A curving terrace of pastel stucco houses with columned porches on Chalcot Crescent in Primrose Hill](../../assets/articles/camden-area-guide/chalcot-crescent-primrose-hill.jpg)
 
