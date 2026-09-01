@@ -179,20 +179,34 @@ const jsonLd = JSON.stringify(
     {import.meta.env.PROD && (
       <>
         {/*
-          PROD-ONLY. `astro dev` (localhost) used to load this unconditionally,
-          so every local visit while testing counted as real traffic in GA -
-          `npm run build` sets import.meta.env.PROD, `astro dev` does not, so
-          this now only ships in the built site.
+          PROD-ONLY, PLUS A RUNTIME HOSTNAME CHECK.
+          `astro dev` (localhost) used to load this unconditionally, so every
+          local visit while testing counted as real traffic in GA - the
+          import.meta.env.PROD gate fixed that for `astro dev`.
+          It did NOT fix `npm run build` followed by serving dist/ locally
+          (e.g. `python -m http.server`, used to preview a change when the
+          project's one dev-server slot is held by another session): that
+          output has PROD baked in regardless of where it's served from, so
+          the old code still fired real hits to production GA from a
+          laptop's localhost. Real incident: this happened while verifying
+          the public-toilets-london map. Fixed by also checking the actual
+          hostname at runtime against this build's configured site origin
+          (siteOrigin, from Astro.site) - the script only ever loads when the
+          page is actually being served from the real domain, independent of
+          which build produced the HTML.
         */}
-        <script is:inline
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=G-YDK7Q2D8E8"
-        ></script>
-        <script is:inline>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-YDK7Q2D8E8');
+        <script is:inline define:vars={{ prodHostname: siteOrigin.hostname }}>
+          if (location.hostname === prodHostname) {
+            var gaScript = document.createElement("script");
+            gaScript.async = true;
+            gaScript.src = "https://www.googletagmanager.com/gtag/js?id=G-YDK7Q2D8E8";
+            document.head.appendChild(gaScript);
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            window.gtag = gtag;
+            gtag('js', new Date());
+            gtag('config', 'G-YDK7Q2D8E8');
+          }
         </script>
       </>
     )}
