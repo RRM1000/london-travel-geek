@@ -119,7 +119,7 @@ For seat-by-seat detail — which rows, which numbers, which to avoid — that i
 
 **Curtain times** are usually **7.30pm**, occasionally 7pm or 8pm. **Matinees** are typically **Wednesday or Thursday and Saturday**, usually at 2.30pm — but it varies by production, so check the show.
 
-**Most theatres are dark on Sunday**, and Monday choice is thin. Plan those evenings around something else.
+**Most theatres are closed on Sunday**, and there is less on offer on Mondays. Plan those two evenings around something else.
 
 **Running times** are usually around two and a half hours for a musical including an interval; plays are often shorter and some run straight through.
 
