@@ -9,6 +9,7 @@ import itineraryHero from "../assets/articles/three-days-in-london-itinerary/thr
 import eatHero from "../assets/articles/eat-in-london-guide/eat-in-london-guide.jpg";
 import tubeHero from "../assets/articles/london-underground/piccadilly-circus-underground.jpg";
 import simHero from "../assets/articles/travel-sim-esim-guide/travel-sim-esim-guide.jpg";
+import plaquesHero from "../assets/articles/london-plaques-guide/london-plaques-guide.jpg";
 import ArticleCard from "../components/ArticleCard.astro";
 import SectionHeading from "../components/SectionHeading.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
@@ -17,7 +18,17 @@ import { categoryHref } from "../lib/taxonomy";
 
 const articles = (await getCollection("articles"))
   .filter((entry) => !entry.data.draft && entry.data.sites.includes(activeSite.id))
-  .sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
+  // Same-day batches are normal here, and Array.sort is stable - so equal dates
+  // used to fall back to getCollection's alphabetical-by-filename order, which
+  // silently decided which guide got cut by the slice below. Break ties on
+  // updatedAt, then title, so the order is deliberate rather than incidental.
+  .sort(
+    (a, b) =>
+      b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf() ||
+      (b.data.updatedAt ?? b.data.publishedAt).valueOf() -
+        (a.data.updatedAt ?? a.data.publishedAt).valueOf() ||
+      a.data.title.localeCompare(b.data.title),
+  );
 
 const hasArticles = articles.length > 0;
 const categoryGroups = Array.from(
@@ -35,6 +46,53 @@ const categoryGroups = Array.from(
     latest: entries[0],
   }))
   .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+
+// The front page used to be one long chronological list, which meant what a
+// visitor saw depended on publishing order rather than on what the site is
+// actually good at. These rows are CURATED, not newest-first: picking by date
+// put the same three guides in both "Things to do" and "Latest" on the same
+// day, because the three newest guides all happened to be that category.
+const FEATURED: Record<string, string[]> = {
+  "Food and drink": [
+    "best-street-food-london",
+    "best-pizza-london",
+    "best-indian-restaurants-london",
+  ],
+  "Things to do": [
+    "immersive-experiences-london",
+    "halloween-london",
+    "best-canal-walks-london",
+  ],
+  "London areas": [
+    "camden-area-guide",
+    "south-bank-area-guide",
+    "peckham-area-guide",
+  ],
+};
+
+const featuredCategories = Object.entries(FEATURED)
+  .map(([label, slugs]) => {
+    const inCategory = articles.filter((a) => a.data.category === label);
+    // Keep the hand-picked order. A slug that no longer exists is skipped
+    // rather than rendering a hole, and the row backfills from the newest in
+    // that category so it is never short.
+    const picked = slugs
+      .map((slug) => inCategory.find((a) => a.id === slug))
+      .filter((a): a is (typeof inCategory)[number] => Boolean(a));
+    const backfill = inCategory.filter((a) => !picked.includes(a));
+    return {
+      label,
+      count: inCategory.length,
+      items: [...picked, ...backfill].slice(0, 3),
+    };
+  })
+  .filter((c) => c.items.length > 0);
+
+// Anything already shown in a row above must not reappear down here.
+const featuredIds = new Set(
+  featuredCategories.flatMap((c) => c.items.map((a) => a.id)),
+);
+const latestArticles = articles.filter((a) => !featuredIds.has(a.id));
 const heroTitle =
   activeSite.id === "london"
     ? "A Geek's Guide to London."
@@ -44,6 +102,7 @@ const topicTiles = [
   { label: "Eat & Drink", href: "/topics/food-and-drink/", image: eatHero },
   { label: "Areas", href: "/topics/london-areas/", image: areasHero },
   { label: "Itineraries", href: "/topics/london-itineraries/", image: itineraryHero },
+  { label: "Blue plaques map", href: "/plaques/", image: plaquesHero },
   { label: "Transport", href: "/topics/getting-around-london/", image: tubeHero },
   { label: "SIM & eSIM", href: "/topics/travel-sim-cards/", image: simHero },
 ];
@@ -145,7 +204,7 @@ const topicTiles = [
             <span class="start-card__link">Read guide &rarr;</span>
           </div>
         </a>
-        <a href="/topics/getting-around-london/" class="start-card">
+        <a href="/tags/airport-transfers/" class="start-card">
           <div class="start-card__image">
             <Image
               src={airportHero}
@@ -179,24 +238,57 @@ const topicTiles = [
             <span class="start-card__link">Read guide &rarr;</span>
           </div>
         </a>
+        <a href="/articles/travel-sim-esim-guide/" class="start-card">
+          <div class="start-card__image">
+            <Image
+              src={simHero}
+              alt="SIM cards in three sizes"
+              widths={[480, 720]}
+              sizes="(max-width: 54rem) 100vw, 25vw"
+              loading="lazy"
+            />
+          </div>
+          <div class="start-card__body">
+            <p class="eyebrow">Staying connected</p>
+            <h3>Travel SIM &amp; eSIM Guide</h3>
+            <p>Which data plan to buy before you fly, and what to avoid at the airport.</p>
+            <span class="start-card__link">Read guide &rarr;</span>
+          </div>
+        </a>
       </div>
     </div>
   </section>
 
-  <!-- =========================================================== GYG -->
-  <section class="gyg-home section" aria-label="London activities">
-    <div class="container">
-      <SectionHeading
-        eyebrow="Curated experiences"
-        title="Top London Tours &amp; Sights"
-        description="Book skip-the-line tickets and top-rated tours directly through our trusted travel partners."
-      />
-      <div
-        data-gyg-widget="auto"
-        data-gyg-partner-id="WWP7I0R"
-      ></div>
-    </div>
-  </section>
+  <!-- ================================================ category rows -->
+  {featuredCategories.map((category) => (
+    <section class="section category-row" aria-label={category.label}>
+      <div class="container">
+        <SectionHeading
+          eyebrow="Browse by topic"
+          title={category.label}
+          description={`${category.count} guides, kept current and honest about the caveats.`}
+        />
+        <div class="grid grid--3">
+          {category.items.map((article) => (
+            <ArticleCard
+              label={article.data.category}
+              title={article.data.title}
+              description={article.data.description}
+              href={`/articles/${article.id}/`}
+              image={article.data.heroImage}
+              imageAlt={article.data.heroImageAlt}
+              tags={article.data.tags}
+            />
+          ))}
+        </div>
+        <p class="section__more">
+          <a href={categoryHref(category.label)}>
+            All {category.count} {category.label.toLowerCase()} guides<span aria-hidden="true"> →</span>
+          </a>
+        </p>
+      </div>
+    </section>
+  ))}
 
   <!-- ======================================================== latest -->
   <section id="articles" class="section">
@@ -204,11 +296,11 @@ const topicTiles = [
       <SectionHeading
         eyebrow="Plan with confidence"
         title="Latest London guides"
-        description="Practical answers, useful comparisons and honest caveats for planning a smoother visit."
+        description="The three most recent guides. Everything else is browsable by topic above."
       />
       <div class="grid grid--3">
         {hasArticles ? (
-          articles.slice(0, 6).map((article) => (
+          latestArticles.slice(0, 3).map((article) => (
             <ArticleCard
               label={article.data.category}
               title={article.data.title}
@@ -223,6 +315,24 @@ const topicTiles = [
           Array.from({ length: 3 }).map(() => <ArticleCard empty />)
         )}
       </div>
+      <p class="section__more">
+        <a href="/guides/">Browse all guides<span aria-hidden="true"> →</span></a>
+      </p>
+    </div>
+  </section>
+
+  <!-- =========================================================== GYG -->
+  <section class="gyg-home section" aria-label="London activities">
+    <div class="container">
+      <SectionHeading
+        eyebrow="Curated experiences"
+        title="Top London Tours & Sights"
+        description="Book skip-the-line tickets and top-rated tours directly through our trusted travel partners."
+      />
+      <div
+        data-gyg-widget="auto"
+        data-gyg-partner-id="WWP7I0R"
+      ></div>
     </div>
   </section>
 
@@ -245,32 +355,24 @@ const topicTiles = [
   </section>
 
   <!-- ==================================================== categories -->
-  <section id="categories" class="section categories">
-    <div class="container">
-      <SectionHeading
-        eyebrow="Explore by topic"
-        title="Find exactly what you need"
-        description="From Oyster card hacks and airport transfers to neighbourhood breakdowns and daily itineraries — browse our guides by category."
-      />
-      <div class="category-grid">
-        {categoryGroups.map((category) => (
-          <a class="category-card" href={categoryHref(category.label)}>
-            <span class="category-card__count">{category.count}</span>
-            <h3>{category.label}</h3>
-            <span class="category-card__cta">
-              View {category.count === 1 ? "the guide" : `all ${category.count} guides`}
-              <svg width="14" height="14" viewBox="0 0 16 16" aria-hidden="true">
-                <path d="M3 8h10M9 4l4 4-4 4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
-              </svg>
-            </span>
-          </a>
-        ))}
-      </div>
-    </div>
-  </section>
 </BaseLayout>
 
 <style>
+  .section__more {
+    margin-block-start: var(--space-4);
+  }
+
+  .section__more a {
+    font-weight: 650;
+    text-decoration: none;
+    color: var(--accent);
+  }
+
+  .section__more a:hover,
+  .section__more a:focus-visible {
+    text-decoration: underline;
+  }
+
   /* -------------------------------------------------------------- hero --- */
   .hero {
     position: relative;
@@ -363,7 +465,10 @@ const topicTiles = [
 
   .topics__rail {
     display: grid;
-    grid-template-columns: repeat(5, minmax(0, 1fr));
+    /* Was a hardcoded repeat(5). Adding a sixth tile stranded one on its own
+       row - auto-fit keeps the rail to a single line and adapts if the tile
+       count changes again. */
+    grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr));
     gap: var(--space-3);
   }
 
@@ -431,8 +536,8 @@ const topicTiles = [
   }
 
   .start-card:not(.start-card--feature) {
-    flex-direction: row;
-    grid-column: span 2;
+    flex-direction: column;
+    grid-column: span 1;
   }
 
   .start-card:hover {
@@ -450,10 +555,21 @@ const topicTiles = [
 
   .start-card--feature .start-card__image {
     aspect-ratio: 16 / 10;
+    /* The feature spans both rows, so it is taller than its own content. That
+       slack used to open as dead white space between the description and the
+       link. Let the photograph take it instead. */
+    flex: 1 1 auto;
+    min-height: 0;
+  }
+
+  .start-card--feature .start-card__image :global(img) {
+    height: 100%;
+    object-fit: cover;
   }
 
   .start-card:not(.start-card--feature) .start-card__image {
-    width: clamp(9rem, 18vw, 15rem);
+    width: 100%;
+    aspect-ratio: 16 / 10;
   }
 
   .start-card__image :global(img) {
@@ -554,72 +670,15 @@ const topicTiles = [
   }
 
   /* -------------------------------------------------------- categories --- */
-  .categories {
-    background: color-mix(in srgb, var(--surface-strong) 55%, var(--bg));
-  }
 
-  .category-grid {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: var(--space-3);
-  }
 
-  .category-card {
-    display: grid;
-    gap: 0.5rem;
-    align-content: start;
-    padding: var(--space-4);
-    border: 1px solid var(--line);
-    border-radius: var(--card-radius);
-    background: var(--surface);
-    text-decoration: none;
-    box-shadow: var(--shadow-sm);
-    transition: translate var(--transition), box-shadow var(--transition), border-color var(--transition);
-  }
 
-  .category-card:hover {
-    translate: 0 -3px;
-    border-color: color-mix(in srgb, var(--accent) 40%, var(--line));
-    box-shadow: var(--shadow-md);
-  }
 
-  .category-card__count {
-    color: var(--accent);
-    font-family: var(--display);
-    font-variation-settings: "opsz" 40, "wght" 600;
-    font-size: 2rem;
-    line-height: 1;
-  }
 
-  .category-card h3 {
-    color: var(--ink);
-    font-size: 1.15rem;
-    line-height: 1.25;
-  }
 
-  .category-card__cta {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.4rem;
-    margin-top: 0.35rem;
-    color: var(--muted);
-    font-size: 0.85rem;
-    font-variation-settings: "wght" 600;
-    transition: color var(--transition);
-  }
 
-  .category-card__cta svg {
-    translate: 0 0;
-    transition: translate var(--transition);
-  }
 
-  .category-card:hover .category-card__cta {
-    color: var(--accent);
-  }
 
-  .category-card:hover .category-card__cta svg {
-    translate: 3px 0;
-  }
 
   /* ------------------------------------------------------- breakpoints --- */
   @media (max-width: 64rem) {
@@ -645,9 +704,6 @@ const topicTiles = [
       grid-template-columns: 1fr;
     }
 
-    .category-grid {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
   }
 
   @media (max-width: 54rem) {
@@ -675,8 +731,5 @@ const topicTiles = [
       aspect-ratio: 16 / 9;
     }
 
-    .category-grid {
-      grid-template-columns: 1fr;
-    }
   }
 </style>

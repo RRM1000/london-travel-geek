@@ -506,6 +506,11 @@ const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => 
     overflow: hidden;
     border-radius: var(--radius-md);
     text-decoration: none;
+    /* Grid items stretch by default, so this anchor grew to match the links
+       column next to it - and the caption, pinned to the anchor's bottom edge
+       rather than the image's, floated below the photo by however many links
+       that panel happened to have. Keep the box the height of its image. */
+    align-self: start;
   }
 
   .mega-panel__feature :global(img) {

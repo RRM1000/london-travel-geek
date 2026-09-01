@@ -43,6 +43,7 @@ export const londonSite: SiteConfig = {
         { label: "Best cabaret", href: "/articles/best-cabaret-london/" },
         { label: "Shopping in London", href: "/articles/shopping-in-london/" },
         { label: "Hidden London", href: "/articles/hidden-london-secret-places/" },
+        { label: "Blue plaques map", href: "/plaques/" },
         { label: "London with children", href: "/articles/london-with-children/" },
         { label: "All things to do", href: "/topics/things-to-do/" },
       ],
@@ -71,7 +72,6 @@ export const londonSite: SiteConfig = {
         { label: "Best London markets", href: "/articles/best-london-markets/" },
         { label: "Best comedy clubs", href: "/articles/best-comedy-clubs-london/" },
         { label: "Filming locations", href: "/articles/london-filming-locations/" },
-        { label: "Plaques map", href: "/plaques/" },
       ],
     },
     {
