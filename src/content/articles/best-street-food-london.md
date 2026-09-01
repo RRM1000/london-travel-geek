@@ -270,6 +270,10 @@ It is now open **daily rather than weekends only**, which catches people out in 
 
 Seating is scarce and it is chaotic. Note that the **Boiler House**, which older guides still send people to, is no longer one of the Truman Brewery's markets.
 
+![A stall at Upmarket on Brick Lane serving Beijing dumplings and Chinese food, its trays of crispy chicken and stir-fries under heat lamps, with hand-lettered signs and further stalls stretching down the hall behind](../../assets/articles/best-street-food-london/upmarket-brick-lane.jpg)
+
+*The format in one frame: a stall cooking one cuisine properly, a hand-lettered board doing the selling, and forty more a few steps down the hall. Note the queue is one person deep — this is what a weekday lunchtime looks like, and why it beats the weekend.*
+
 ### Canopy Market, King's Cross
 
 *~20 food traders · **Wednesday to Sunday only***
