@@ -17,13 +17,34 @@ import activityData from "../data/activities.json";
 import eventData from "../data/events.json";
 import hotelData from "../data/hotels.json";
 import hiddenLondonData from "../data/hiddenLondon.json";
+import { getCollection } from "astro:content";
+import { activeSite } from "../sites";
 
 const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Search" }];
 
 // Cache stamp for the index URL. Derived from the data rather than the clock so
 // an unchanged rebuild keeps the same URL and stays cached, while any change to
 // guides, restaurants or activities busts it immediately.
+//
+// The articles term is NOT optional. The index is served immutable for a year,
+// so the URL is the only thing that can invalidate it. This block once covered
+// only the five data files, which meant publishing a markdown guide changed the
+// index's contents without changing its URL - the shopping guide was in the
+// file on disk and invisible to every reader whose browser had already cached
+// it. Mirror the index's own filter here so the two cannot drift apart.
+const stampArticles = (await getCollection("articles")).filter(
+  (a) => !a.data.draft && a.data.sites.includes(activeSite.id),
+);
+const articlesStamp = [
+  stampArticles.length,
+  stampArticles
+    .map((a) => (a.data.updatedAt ?? a.data.publishedAt).toISOString().slice(0, 10))
+    .sort()
+    .at(-1) ?? "none",
+].join("-");
+
 const stamp = [
+  articlesStamp,
   restaurantData.generated,
   restaurantData.count,
   activityData.generated,
@@ -128,12 +149,44 @@ const indexUrl = `/search-index.json?v=${stamp}`;
     return total;
   }
 
-  function render() {
+  // Writing new rows changes the document height. When a query narrows, the page
+  // gets shorter and the browser clamps the scroll position to the new maximum -
+  // and because html has scroll-behavior: smooth, that clamp ANIMATES, so the
+  // reader watches the page glide upwards while they are still typing. Suppress
+  // the smooth behaviour for the duration of the write so the correction is
+  // instant and invisible, then hand it back for anchor links.
+  // A new query means a new result set, so a scroll offset from the old one is
+  // meaningless - and when the list gets shorter the browser would otherwise
+  // dump the reader at whatever the new maximum happens to be. Put them at the
+  // top of the results instead, which is deterministic and where the best
+  // matches are. Only moves the page when they are actually below that point.
+  let lastRenderedQuery: string | null = null;
+
+  function anchorToResults() {
+    const form = document.querySelector<HTMLElement>(".search__form");
+    if (!form) return;
+    const top = Math.max(0, form.getBoundingClientRect().top + window.scrollY - 88);
+    if (window.scrollY > top) window.scrollTo({ top, behavior: "instant" });
+  }
+
+  function setResults(html: string) {
+    const root = document.documentElement;
+    const prev = root.style.scrollBehavior;
+    root.style.scrollBehavior = "auto";
+    results.innerHTML = html;
+    requestAnimationFrame(() => { root.style.scrollBehavior = prev; });
+  }
+
+  function render(forceAnchor = false) {
     const q = input.value.trim();
+    const queryChanged = q !== lastRenderedQuery;
+    lastRenderedQuery = q;
+    const shouldAnchor = forceAnchor || queryChanged;
     const terms = norm(q).split(/\s+/).filter(Boolean);
 
     if (!terms.length) {
-      results.innerHTML = "";
+      setResults("");
+      if (shouldAnchor) anchorToResults();
       filters.hidden = true;
       status.textContent = ready ? "Type to search guides, places to eat and things to do." : "Loading…";
       return;
@@ -163,12 +216,14 @@ const indexUrl = `/search-index.json?v=${stamp}`;
       ? `${shown.length} result${shown.length === 1 ? "" : "s"} for “${q}”${shown.length > 100 ? " — showing the first 100" : ""}`
       : `Nothing matched “${q}”. Try a place name, a cuisine, or a topic like “Oyster card”.`;
 
-    results.innerHTML = capped
+    setResults(capped
       .map(({ r }) => {
         const d = r.d ? `<p>${esc(r.d)}</p>` : "";
         return `<li class="search__result"><a href="${esc(r.u)}"><span class="search__kind" data-kind="${r.t}">${LABEL[r.t]}</span><strong>${esc(r.n)}</strong></a>${d}</li>`;
       })
-      .join("");
+      .join(""));
+
+    if (shouldAnchor) anchorToResults();
   }
 
   function esc(s: string) {
@@ -182,7 +237,7 @@ const indexUrl = `/search-index.json?v=${stamp}`;
     if (!btn) return;
     type = btn.dataset.filter!;
     for (const b of filters.querySelectorAll("button")) b.classList.toggle("is-active", b === btn);
-    render();
+    render(true);
   });
 
   // Seed from ?q= so a submitted header search lands on real results, and keep
