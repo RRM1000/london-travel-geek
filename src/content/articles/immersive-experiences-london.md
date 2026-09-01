@@ -83,6 +83,7 @@ That is the actual problem with picking one. Every other guide to this subject i
 | **Witness for the Prosecution** | Theatre in a real chamber | Waterloo | £29.50 under-26 | Only if you have a jury seat |
 | **ABBA Voyage** | Virtual concert | Pudding Mill Lane | £40.50 | No |
 | **Frameless** | Projection art | Marble Arch | see below | No |
+| **LUMINISCENCE** | Projection concert | Victoria | £27.50 | No · **ends 27 Sept** |
 | **Lightroom: David Bowie** | Projection | King's Cross | £25 | No |
 | **Outernet** | Projection | Tottenham Court Rd | **Free** | No |
 | **The London Dungeon** | Attraction | Waterloo | see below | You may be picked on |
@@ -230,6 +231,20 @@ Allow **at least two hours**, and note last entry is two hours before closing. *
 *Frameless. The projection runs onto the floor as well as the walls, which is what separates it from a gallery with a big screen in it.*
 
 Good accessibility provision: chilled sessions, deaf and hard-of-hearing support, and **a free carer ticket with any paid ticket**. The website prices dynamically rather than publishing a figure, so check on the day you want.
+
+### LUMINISCENCE, Westminster Cathedral
+
+*From £27.50 · **ends 27 September 2026** · 50 minutes · Victoria*
+
+**A 360-degree projection concert inside Westminster Cathedral**, which is a far stranger and better setting than a purpose-built room — the video mapping runs across the cathedral's own mosaics, domes and pillars rather than onto blank walls built to receive it.
+
+It is **not** a silent light show. There is a **live 14-piece orchestra and the Lux Aeterna choir**, and a commissioned script narrated by **Hugh Bonneville** telling the story of London. That combination — live musicians in a working cathedral, under projection — is unlike anything else on this page.
+
+**Three tiers, and the difference is the music, not the seat.** Standard from £32.50, **choir performances from £27.50**, and **Orchestra Nights, every Saturday through September, from £42.90.** Children 5–18 are cheaper and under-5s go free.
+
+**Fifty minutes, arrive twenty minutes early, and there is no late entry** — the doors shut. It runs until **27 September 2026**.
+
+Level access through the main entrance, though there are steps into the individual chapels. A hearing loop and transcription are available on request, service animals are welcome, and there is **no strobe lighting**, though there are flashing lights. Reduced tickets for over-65s, students and disabled visitors.
 
 ### Lightroom: David Bowie — You're Not Alone, King's Cross
 

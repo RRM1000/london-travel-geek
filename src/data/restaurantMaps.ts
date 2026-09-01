@@ -3718,6 +3718,15 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       type: "editorial",
     },
     {
+      name: "LUMINISCENCE, Westminster Cathedral",
+      area: "Victoria",
+      price: "££",
+      station: "Victoria",
+      latitude: 51.49640,
+      longitude: -0.13950,
+      type: "streetfood",
+    },
+    {
       name: "Frameless",
       area: "Marble Arch",
       price: "££",
