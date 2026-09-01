@@ -22,6 +22,12 @@ faq:
     a: "The famous ones are free to everyone anyway. The British Museum, National Gallery, Natural History Museum, Science Museum, V&A, Tate Modern, Tate Britain, Imperial War Museum, National Maritime Museum and National Portrait Gallery all cost nothing to enter. What the pass adds at those sites is guidebooks and an audio tour — about £51 of paperwork."
   - q: "Is the London Pass better than Historic Royal Palaces membership?"
     a: "Not if the palaces are what you came for. The Tower of London, Hampton Court and Kensington Palace cost £90.70 at the gate for one adult. HRP membership is £65 by Direct Debit and lasts a year. For a family of four it is £125 against a £596 three-day London Pass."
+heroImage: "../../assets/articles/london-pass-guide/london-pass-guide.jpg"
+heroImageAlt: "Visitors climbing the wooden entrance stairway to the White Tower at the Tower of London, one of the paid attractions this guide prices against the pass"
+heroImageCredit: "Ethan Doyle White"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Stairs_on_the_South_Face_of_the_White_Tower_at_the_Tower_of_London.jpg"
+heroImageLicense: "CC BY-SA 4.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 ---
 
 The London Pass can save you money. Every other guide stops there, which is useless, because the question is *when*.

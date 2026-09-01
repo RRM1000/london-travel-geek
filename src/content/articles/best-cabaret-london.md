@@ -22,6 +22,12 @@ faq:
     a: "Several, at very different prices. Sarastro on Drury Lane does Sunday opera with a string quartet for the price of dinner and no ticket at all. The 606 Club in Chelsea is £16 to £23 a head on top of the food. At the top end, The London Cabaret Club runs £73 to £238 and the London Cabaret Collective's Chef's Table reaches £360."
   - q: "Do I have to book cabaret in advance?"
     a: "Often not, which is unusual for London. CellarDoor, Halfway II Heaven and Freedom Bar take walk-ins. The Royal Vauxhall Tavern sells on the door from doors-open if it has not sold out, and Ronnie Scott's says most Late Late Show tickets are available at the door. Wilton's Music Hall is the exception — of seven shows listed for September and October, three were already sold out."
+heroImage: "../../assets/articles/best-cabaret-london/best-cabaret-london.jpg"
+heroImageAlt: "The bare stage and faded gilt balconies of Wilton's Music Hall, the oldest surviving grand music hall in the world, lit by a row of footlights"
+heroImageCredit: "Alexander Baxevanis"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Wilton's_Music_Hall,_London-21326127344.jpg"
+heroImageLicense: "CC BY 2.0"
+heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0"
 ---
 
 London's biggest cabaret operator no longer exists. **Proud Embankment, Proud Cabaret City and Haus of Cabaret London have all gone**, and nobody ever published a closing date for any of them.
