@@ -121,6 +121,10 @@ The full Round Table format from the television series — **Traitors, Faithfuls
 
 **£29.50 tickets are available in every time slot**, first come first served, which makes it one of the better-value things on this page.
 
+![The bar at The Traitors Live Experience, panelled in dark wood with green velvet curtains and patterned wallpaper](../../assets/articles/immersive-experiences-london/traitors-live-bar.jpg)
+
+*The bar you are held in before the game starts. Doors open 45 minutes early, which is deliberate — you are meant to be sizing up the strangers you are about to play against.*
+
 ### Faulty Towers The Dining Experience, Bloomsbury
 
 *From £65.50 · about 2 hours · Russell Square*
@@ -221,6 +225,10 @@ Nobody will speak to you at any of these, which for a lot of people is the whole
 
 Allow **at least two hours**, and note last entry is two hours before closing. **Friday and Saturday evening Lates are 18+**, and under-18s have to be out by 4pm on those days.
 
+![A visitor silhouetted against Van Gogh's Starry Night Over the Rhone projected across two walls and the floor at Frameless](../../assets/articles/immersive-experiences-london/frameless-van-gogh.jpg)
+
+*Frameless. The projection runs onto the floor as well as the walls, which is what separates it from a gallery with a big screen in it.*
+
 Good accessibility provision: chilled sessions, deaf and hard-of-hearing support, and **a free carer ticket with any paid ticket**. The website prices dynamically rather than publishing a figure, so check on the day you want.
 
 ### Lightroom: David Bowie — You're Not Alone, King's Cross
@@ -252,6 +260,10 @@ Wraparound 4K screens in the Now Building beside Tottenham Court Road station, r
 The programme rotates — recent pieces have included a butterfly trail, an enchanted forest and a rain installation — and some of it responds to you as you move.
 
 **It is free, there is no ticket and there is no booking**, which makes it comfortably the best-value thing on this page and a genuinely good twenty minutes if you are passing. Download the app if you want to time your visit to a particular piece rather than take what is playing.
+
+![The wraparound screens of the Now Building at Outernet showing a coastline from above, with people watching from the floor below](../../assets/articles/immersive-experiences-london/outernet-now-building.jpg)
+
+*The Now Building at Outernet, beside Tottenham Court Road station. Four storeys of screen on every side, and nobody takes a ticket off you at the door.*
 
 ---
 
