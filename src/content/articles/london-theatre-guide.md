@@ -129,6 +129,10 @@ For seat-by-seat detail — which rows, which numbers, which to avoid — that i
 
 **Getting home is rarely a problem.** A 7.30pm start puts you out around 10pm, well inside normal Tube hours, and the Night Tube runs on several lines on Friday and Saturday. If you are staying outside central London on a National Rail line, the last train is the constraint.
 
+![The lit red frontage of the Phoenix Theatre at night, with the audience leaving through the doors after a performance](../../assets/articles/london-theatre-guide/phoenix-theatre-after-the-show.jpg)
+
+*Turning out of the Phoenix Theatre at the end of an evening performance. Theatreland empties all at once, so the streets and the nearest station are busiest in the fifteen minutes after curtain.*
+
 **Eat before, and book early.** The restaurants directly opposite the theatres are mediocre because they do not have to be good. Book around 5.30pm and walk one street back into Soho or Seven Dials — see [Where to Eat in London](/articles/eat-in-london-guide/). Many restaurants run **pre-theatre menus** that are much cheaper than the same food at 8pm.
 
 ---
