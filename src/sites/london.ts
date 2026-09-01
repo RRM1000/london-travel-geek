@@ -14,18 +14,18 @@ export const londonSite: SiteConfig = {
       href: "/topics/food-and-drink/",
       description: "Where to actually eat, researched list by list.",
       imageKey: "eat",
+      // Nine, not the twelve this used to carry. The panel was twice the
+      // height of the Areas one and the cuisine list could never be complete
+      // anyway - the last link does that job.
       children: [
         { label: "Where to eat in London", href: "/articles/eat-in-london-guide/" },
+        { label: "Best street food", href: "/articles/best-street-food-london/" },
         { label: "Best Indian restaurants", href: "/articles/best-indian-restaurants-london/" },
         { label: "Best pizza", href: "/articles/best-pizza-london/" },
         { label: "Best fish and chips", href: "/articles/best-fish-and-chips-london/" },
-        { label: "Cheap eats", href: "/articles/cheap-eats-london/" },
-        { label: "Best Italian", href: "/articles/best-italian-restaurants-london/" },
-        { label: "Best Chinese & East Asian", href: "/articles/best-chinese-east-asian-restaurants-london/" },
-        { label: "Best Japanese", href: "/articles/best-japanese-restaurants-london/" },
-        { label: "Best Middle Eastern", href: "/articles/best-middle-eastern-restaurants-london/" },
-        { label: "Best vegetarian & vegan", href: "/articles/best-vegetarian-vegan-restaurants-london/" },
         { label: "Best Sunday roasts", href: "/articles/best-sunday-roast-london/" },
+        { label: "Best afternoon tea", href: "/articles/best-afternoon-tea-london/" },
+        { label: "Cheap eats", href: "/articles/cheap-eats-london/" },
         { label: "All food & drink guides", href: "/topics/food-and-drink/" },
       ],
     },
@@ -33,15 +33,41 @@ export const londonSite: SiteConfig = {
       label: "Things to Do",
       href: "/topics/things-to-do/",
       description: "Museums, views, music and the parts of London people miss.",
-      imageKey: "areas",
+      imageKey: "doing",
       children: [
         { label: "Free things to do", href: "/free/" },
-        { label: "Plaques map", href: "/plaques/" },
         { label: "Best museums", href: "/articles/best-museums-london/" },
         { label: "Best views", href: "/articles/best-views-london/" },
+        { label: "Immersive experiences", href: "/articles/immersive-experiences-london/" },
+        { label: "Best live music venues", href: "/articles/best-live-music-venues-london/" },
+        { label: "Best cabaret", href: "/articles/best-cabaret-london/" },
         { label: "Hidden London", href: "/articles/hidden-london-secret-places/" },
         { label: "London with children", href: "/articles/london-with-children/" },
+        { label: "All things to do", href: "/topics/things-to-do/" },
+      ],
+      // Filtered to the current month at build time. This is where the site's
+      // freshest and most-searched work lives, and the nav had no idea it
+      // existed.
+      secondary: {
+        title: "This season",
+        children: [
+          { label: "Halloween in London", href: "/articles/halloween-london/", months: [9, 10] },
+          { label: "Bonfire Night", href: "/articles/bonfire-night-london/", months: [10, 11] },
+          { label: "Christmas in London", href: "/articles/christmas-in-london/", months: [10, 11, 12] },
+          { label: "Winter Wonderland", href: "/articles/hyde-park-winter-wonderland/", months: [10, 11, 12, 1] },
+          { label: "London Film Festival", href: "/articles/london-film-festival/", months: [9, 10] },
+          { label: "London in the rain", href: "/articles/london-in-the-rain/", months: [1, 2, 11, 12] },
+          { label: "Best parks and gardens", href: "/articles/best-parks-gardens-london/", months: [4, 5, 6, 7, 8] },
+          { label: "Wimbledon tickets", href: "/articles/wimbledon-tickets-guide/", months: [5, 6, 7, 9] },
+          { label: "London Marathon", href: "/articles/london-marathon-guide/", months: [3, 4] },
+          { label: "Best canal walks", href: "/articles/best-canal-walks-london/", months: [5, 6, 7, 8] },
+        ],
+      },
+      seasonalFallback: [
+        { label: "Best London markets", href: "/articles/best-london-markets/" },
+        { label: "Best comedy clubs", href: "/articles/best-comedy-clubs-london/" },
         { label: "Filming locations", href: "/articles/london-filming-locations/" },
+        { label: "Plaques map", href: "/plaques/" },
       ],
     },
     {
@@ -67,11 +93,15 @@ export const londonSite: SiteConfig = {
         { label: "One day in London", href: "/articles/one-day-london-itineraries-by-interest/" },
         { label: "Three days in London", href: "/articles/three-days-in-london-itinerary/" },
         { label: "Five days in London", href: "/articles/five-days-in-london-itinerary/" },
+        { label: "Is the London Pass worth it?", href: "/articles/london-pass-guide/" },
+        { label: "London on a budget", href: "/articles/london-on-a-budget/" },
         { label: "Travel SIM & eSIM", href: "/topics/travel-sim-cards/" },
       ],
     },
     {
-      label: "Transport",
+      // "Getting Around" rather than "Transport": it is the site's own
+      // category name, and it says what the reader is trying to do.
+      label: "Getting Around",
       href: "/topics/getting-around-london/",
       description: "Oyster, the Tube, buses and every airport - decoded.",
       imageKey: "transport",
@@ -80,6 +110,7 @@ export const londonSite: SiteConfig = {
         { label: "Oyster card guide", href: "/articles/oyster-card-guide-london/" },
         { label: "Using the Underground", href: "/articles/how-to-use-the-london-underground/" },
         { label: "Fares & travelcards", href: "/articles/london-public-transport-costs-and-fares/" },
+        { label: "Buses and trams", href: "/articles/how-to-use-london-buses-and-trams/" },
         { label: "Heathrow to London", href: "/articles/heathrow-airport-to-london/" },
       ],
     },
