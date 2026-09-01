@@ -18,9 +18,9 @@ tags:
 draft: false
 faq:
   - q: "What is the cheapest way to get London theatre tickets?"
-    a: "Use the official TKTS booth in Leicester Square for same-day and next-day seats, and go midweek rather than on a Saturday night, which is the most expensive slot of the week. Day seats, rush tickets and lotteries are cheaper still but are limited and not guaranteed. Fringe and off-West End tickets are cheaper than the West End before any discount at all."
+    a: "Use TKTS - either the website or the booth in Leicester Square - for discounted seats, and go midweek rather than on a Saturday night, which is the most expensive slot of the week. Day seats, rush tickets and lotteries are cheaper still but are limited and not guaranteed. Fringe and off-West End tickets are cheaper than the West End before any discount at all."
   - q: "Is the TKTS booth in Leicester Square legitimate?"
-    a: "Yes. TKTS is run by the Society of London Theatre, the theatre industry's own body, and it is the only booth in Leicester Square that is. The many lookalike ticket shops surrounding it are not the same thing and do not offer the same prices."
+    a: "Yes. TKTS is run by Official London Theatre, part of the Society of London Theatre, and it is the only booth in Leicester Square that is. The many lookalike ticket shops surrounding it are not the same thing. TKTS also sells the same discounted seats online at officiallondontheatre.com, so you can book before you travel rather than queue."
   - q: "What are day seats and rush tickets?"
     a: "Day seats are a small number of cheap seats a theatre releases on the morning of the performance, usually to people queuing at the box office. Rush tickets are the same idea released digitally, often through an app at a set time. Both are cheap, both are limited, and both reward being early."
   - q: "When is the cheapest time to see a West End show?"
@@ -35,7 +35,7 @@ London has more theatre than any city on earth, and that is exactly the problem.
 
 This guide is about the two decisions that actually matter: **what to see**, and **how to pay less for it**.
 
-> 💡 **The Short Version:** Decide what kind of evening you want before you look at prices. Then: **use the official TKTS booth in Leicester Square**, **go midweek and never on a Saturday night**, and **think about where you are sitting** as much as what you are seeing. Day seats, rush tickets and lotteries are worth a try if you like a gamble. Never buy from someone on the street.
+> 💡 **The Short Version:** Decide what kind of evening you want before you look at prices. Then: **use TKTS, either online or at the Leicester Square booth**, **go midweek and never on a Saturday night**, and **think about where you are sitting** as much as what you are seeing. Day seats, rush tickets and lotteries are worth a try if you like a gamble. Never buy from someone on the street.
 
 ---
 
@@ -57,7 +57,7 @@ Start from what you actually want out of the evening rather than from a list of 
 
 **If you want something genuinely unpredictable**, the fringe is dozens of small rooms, many above pubs, most seating under a hundred. Tickets often cost less than a cinema seat. The work is uneven and the hit rate is far better than you would expect.
 
-**A note on the labels**, because they mislead people: **"West End" is a place, not a quality rating** — around forty commercial theatres clustered around Shaftesbury Avenue, the Strand and Drury Lane. **Off-West End** means outside that district, not smaller or lesser; several of those venues are bigger than West End houses. **Fringe** means genuinely small rooms.
+**A note on the labels**, because they mislead people. **"West End" is a classification, not an address, and not a quality rating.** Most West End theatres do sit in the theatre district around Shaftesbury Avenue, the Strand and Drury Lane — but not all of them. The Apollo Victoria pictured above is one of the largest West End houses in London and it is in Victoria, nowhere near it. **Off-West End** does not mean smaller or lesser: several of those venues seat more than West End theatres do. **Fringe** means genuinely small rooms. What separates the three is the scale and nature of the production, not the postcode.
 
 ---
 
@@ -65,9 +65,13 @@ Start from what you actually want out of the evening rather than from a list of 
 
 Almost nobody needs to pay the top price, and one route matters more than the rest.
 
-### Start at the TKTS booth
+### Start with TKTS, online or at the booth
 
-**TKTS in Leicester Square is the single most useful thing on this page.** It is run by the Society of London Theatre — the theatre industry's own body — and sells same-day and next-day seats at a discount, for a wide spread of shows, at a counter you can walk up to.
+**TKTS is the single most useful thing on this page, and it works two ways.** It is run by Official London Theatre, part of the Society of London Theatre — the theatre industry's own body — and it sells discounted seats for a wide spread of shows.
+
+**Online**, at [officiallondontheatre.com](https://officiallondontheatre.com/todays-tickets), you can see what is discounted and book before you travel, or from your hotel that morning.
+
+**In person**, the TKTS booth sits in the middle of Leicester Square, with screens listing what is available and staff who will tell you what is actually worth seeing. **The booth carries the same deals as the website**, so use whichever suits — the booth has the advantage of someone to ask, the website the advantage of not queueing.
 
 ![The TKTS official London theatre ticket booth in Leicester Square, with its clock tower and lit canopy](../../assets/articles/london-theatre-guide/tkts-booth-leicester-square.jpg)
 
@@ -75,7 +79,7 @@ Almost nobody needs to pay the top price, and one route matters more than the re
 
 > ⚠️ **It is the only booth in Leicester Square that is what it claims to be.** The surrounding shops with similar signage are unrelated ticket agencies, and the people selling on the street are not a bargain. Buy at the booth itself, at a theatre's own box office, or from an official agency — nowhere else.
 
-**Go with a list, not a single show.** The point of the booth is that you take what is discounted today. Arrive with three or four things you would happily see and you will almost always leave with one of them cheaply.
+**Go with a list, not a single show.** The point of TKTS is that you take what is discounted today. Arrive — or log on — with three or four things you would happily see, and you will almost always get one of them cheaply.
 
 ### Go midweek, and never Saturday
 
