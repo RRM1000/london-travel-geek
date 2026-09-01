@@ -86,7 +86,7 @@ Islington has its own share of the commemorative plaques marking where notable p
 
 1. **Camden Passage** — A narrow pedestrian lane off Upper Street lined with antique dealers, vintage shops and arcades. The market runs **Wednesdays and Saturdays**; the shops open most days.
 2. **Upper Street** — A mile of restaurants and bars from Angel to Highbury Corner, at every price point.
-3. **The Almeida Theatre** — 325 seats in a converted Victorian literary institute, with a reputation far larger than its size. Book well ahead.
+3. **The Almeida Theatre** — 325 seats in a converted Victorian literary institute, with a reputation far larger than its size. Book well ahead. It is one of the [off-West End houses](/articles/london-theatre-guide/) where shows that later transfer to Shaftesbury Avenue often begin.
 4. **Union Chapel** — A working Congregational church and a music venue, with gigs held in the Gothic octagon and the audience seated in the original pews.
 5. **Sadler's Wells** — Britain's leading dance house, at the southern end near Angel. Contemporary dance, flamenco, hip hop and ballet.
 

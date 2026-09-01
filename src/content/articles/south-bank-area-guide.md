@@ -100,7 +100,7 @@ The South Bank has its own share of the commemorative plaques marking where nota
 
 ![The stacked concrete terraces of the National Theatre, with picnic tables and food kiosks on the terrace below](../../assets/articles/south-bank-area-guide/national-theatre.jpg)
 
-*The National Theatre. Denys Lasdun's 1976 building — the foyers are open to anyone, ticket or not, and there is a bar on every level.*
+*The National Theatre - one of London's major [off-West End houses](/articles/london-theatre-guide/). Denys Lasdun's 1976 building — the foyers are open to anyone, ticket or not, and there is a bar on every level.*
 
 ## Key streets and micro-districts
 

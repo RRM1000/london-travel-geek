@@ -69,7 +69,7 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 ---
 
-Marylebone runs parallel to Oxford Street about four minutes north, and it is the opposite of it in almost every way: low-rise Georgian, largely independent, and quiet enough to hear yourself.
+Marylebone runs parallel to [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three) about four minutes north, and it is the opposite of it in almost every way: low-rise Georgian, largely independent, and quiet enough to hear yourself.
 
 It also holds one of the best free museums in London — a townhouse full of Old Masters and armour that most visitors have never heard of — and backs directly onto Regent's Park.
 

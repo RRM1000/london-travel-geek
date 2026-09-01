@@ -76,7 +76,7 @@ heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
 
 Fitzrovia has no famous sight, no market and no reason to appear on a first-time itinerary. It is also, street for street, the best place to eat in central London.
 
-The area is a rough square between Oxford Street and Euston Road, walked through constantly by people going somewhere else. Look up and it is Georgian terraces and the BT Tower. Look at street level on Charlotte Street or Goodge Street and it is thirty years of restaurant history stacked side by side.
+The area is a rough square between [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three) and Euston Road, walked through constantly by people going somewhere else. Look up and it is Georgian terraces and the BT Tower. Look at street level on Charlotte Street or Goodge Street and it is thirty years of restaurant history stacked side by side.
 
 Fitzrovia has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=fitzrovia).
 

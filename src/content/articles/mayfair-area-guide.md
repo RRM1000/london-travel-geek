@@ -66,7 +66,7 @@ heroImage: "../../assets/articles/mayfair-area-guide/regent-street-quadrant.jpg"
 heroImageAlt: "The curving Regent Street Quadrant with a black cab passing the Hotel Cafe Royal"
 ---
 
-Mayfair is a Georgian grid laid out from the 1720s between Oxford Street, Regent Street, Piccadilly and Park Lane, and it has been the most expensive part of London for most of the three centuries since.
+Mayfair is a Georgian grid laid out from the 1720s between [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three), Regent Street, Piccadilly and Park Lane, and it has been the most expensive part of London for most of the three centuries since.
 
 It is also less closed off than it looks. The Victorian arcades are public passages, the Royal Academy's courtyard is free, and the dozens of commercial art galleries on and around Cork Street will let anyone walk in.
 

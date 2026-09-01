@@ -66,7 +66,7 @@ heroImage: "../../assets/articles/covent-garden-area-guide/covent-garden-piazza-
 heroImageAlt: "Covent Garden Piazza and the market halls seen from above, with parasols over the outdoor tables"
 ---
 
-Covent Garden is a former fruit and vegetable market turned pedestrian district, and the closest thing central London has to an outdoor stage. The cobbled Piazza, the glass-roofed market halls and the surrounding grid of small streets hold the highest concentration of theatres in the world.
+Covent Garden is a former fruit and vegetable market turned pedestrian district, and the closest thing central London has to an outdoor stage. It also sits inside the West End theatre district - our [London theatre guide](/articles/london-theatre-guide/) explains how the West End, off-West End and fringe differ, and the practical business of curtain times and getting home. The cobbled Piazza, the glass-roofed market halls and the surrounding grid of small streets hold the highest concentration of theatres in the world.
 
 It is also the most walkable part of the West End, and the easiest to combine with somewhere else — Soho is eight minutes west, the British Museum twelve minutes north.
 
