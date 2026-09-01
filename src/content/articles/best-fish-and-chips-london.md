@@ -337,7 +337,7 @@ The **Mayfair Classic** is the order: a large battered fillet with chips, mushy 
 
 ![The Mayfair Classic served in a metal frying basket lined with branded paper, with chips, lemon, and pots of tartare sauce, mushy peas and curry sauce alongside](../../assets/articles/best-fish-and-chips-london/mayfair-chippy.jpg)
 
-*The Mayfair Classic, plated in a basket with the sauces in their own pots — the difference between the £££ and everything else on this page is largely the presentation.*
+*The Mayfair Classic, plated in a basket with the sauces in their own pots.*
 
 ### The Golden Chippy, Greenwich
 

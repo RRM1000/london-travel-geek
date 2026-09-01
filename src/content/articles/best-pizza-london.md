@@ -146,11 +146,17 @@ It began in 2018 as a parody university society in Southampton set up to get stu
 
 *£ · Soho · Berwick Street · walk-in · Cited by 7 sources · #10 of 21, Time Out · [website](https://www.breadstall.com/)*
 
-**A Soho counter doing Roman-style pizza by the slice** — *pizza al taglio*, cut from long trays with scissors and sold by weight, which is a different thing from a Neapolitan round.
+**A Soho slice counter selling big round pizzas by the quarter, half or whole** — not by weight, and not, whatever else you read, Roman *al taglio*. Breadstall are blunt about the category on their own site: the result *"isn't Neapolitan or New York style, it's our style"*.
 
-The base is a high-hydration dough proved for a long time, so the crust is light and open rather than chewy. Toppings change through the day and are added after the base is baked as often as before. **Point at what you want and they cut it.**
+What makes it is the dough. They use a **biga pre-ferment**, a stiff overnight starter, which gives a base that stays crisp underneath while the crust puffs light and open — the thing most slice shops cannot do, because a reheated slice usually goes leathery.
 
-**£, walk-in.** Quick, cheap and designed to be eaten standing — one of the better fast lunches in Soho.
+**The standing order is a Margherita or a pepperoni**, but the one to ask about is the **'New York' Vodka**, and there is a Chicken Parm and a rotating specials board. Crust dippers on the side.
+
+**£, walk-in, and no extra charge to eat in** — which their own window makes a joke of. Quick, cheap and one of the better fast lunches in Soho.
+
+![The Breadstall counter on Berwick Street in Soho, staff cutting large round pizzas behind a glass display with a menu board and stacked pizza boxes](../../assets/articles/best-pizza-london/breadstall.jpg)
+
+*Sold by the quarter, half or whole from the counter. The blackboard changes; the biga dough does not.*
 
 ### Dough Hands, Hackney
 
