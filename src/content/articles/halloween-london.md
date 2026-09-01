@@ -22,12 +22,8 @@ faq:
     a: "Two places will genuinely hire to a member of the public: Prangsta Costumiers in New Cross, which is appointment-only and charges £130–£350 plus VAT for a full costume with a £300 deposit, and Costume Studio in Islington, which takes walk-ins and is happy to do a single costume. Angels on Shaftesbury Avenue, the shop most guides still send people to, closed in 2014."
   - q: "Is the London Dungeon worth it for Halloween?"
     a: "Its Halloween 2026 page was still a 'coming soon' placeholder with no dates or prices at the time of writing. It does have a permanent Jack the Ripper scare-actor scene, but for a dedicated Ripper experience the long-running walking tours — Jack the Ripper Walking Tour by London Walks, or The Jack the Ripper Tour with its Ripper-Vision projections — are the better-reviewed choice."
-heroImage: "../../assets/articles/halloween-london/scary-carved-pumpkin-forest.jpg"
-heroImageAlt: "A fanged, monstrous jack-o'-lantern carved from a pale pumpkin, set on a stone beside a wooden cross on a leaf-covered woodland path"
-heroImageCredit: "Thomas Bresson"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:2018-10-27_17-10-23_Halloween-Fort-Dorsner-II.jpg"
-heroImageLicense: "CC BY 4.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
+heroImage: "../../assets/articles/halloween-london/beetlejuice-curtain-call.jpg"
+heroImageAlt: "The cast of Beetlejuice taking their curtain call at the Prince Edward Theatre, lit in green and blue, with the Maitland house tilting above them and the sandworm reared up at the side of the stage"
 ---
 
 **Halloween 2026 lands on a Saturday** — the one date on the calendar that turns London's Halloween up to full volume. Scare attractions, club nights, ghost walks and one-off parties all run at full strength instead of being squeezed into the nearest weekend, which means more is on, and the best of it will sell out earlier than usual. Here's what's actually worth booking, from genuine scares to where to find a costume at this notice.
@@ -116,7 +112,9 @@ Performances run Tuesday to Saturday at 7pm, with matinees Friday and Saturday a
 
 ### Beetlejuice, Prince Edward Theatre
 
-![Beetlejuice The Musical key art for the Prince Edward Theatre production](../../assets/articles/halloween-london/beetlejuice-musical-key-art.jpg)
+![The cast of Beetlejuice taking their curtain call at the Prince Edward Theatre, lit in green and blue, with the Maitland house tilting above them and the sandworm reared up at the side of the stage](../../assets/articles/halloween-london/beetlejuice-curtain-call.jpg)
+
+*Curtain call at the Prince Edward. The sandworm on the left and the tipping house behind give you the tone in one frame — this is a comedy with a ghost in it, not a horror show.*
 
 The stage musical of the film, currently running as a **limited West End engagement** — worth checking the closing date before you book, since it may not run right through to Halloween.
 
