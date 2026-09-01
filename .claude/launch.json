@@ -9,18 +9,6 @@
         "dev"
       ],
       "port": 4321
-    },
-    {
-      "name": "plaques-harness",
-      "runtimeExecutable": "python",
-      "runtimeArgs": [
-        "-m",
-        "http.server",
-        "8123",
-        "--directory",
-        "C:/Users/rober/AppData/Local/Temp/claude/C--Users-rober-Projects-london-travel-geek/a98123df-bc7a-4352-8f16-ff488953bca2/scratchpad/harness"
-      ],
-      "port": 8123
     }
   ]
 }
