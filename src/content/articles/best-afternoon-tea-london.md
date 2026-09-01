@@ -1,6 +1,6 @@
 ---
 title: "The Best Afternoon Tea in London: 22 Compared"
-seoTitle: "Best Afternoon Tea London 2026: 22 Hotels Compared"
+seoTitle: "Best Afternoon Tea London 2026: 22 Hotels Ranked by Sources"
 description: "London's afternoon teas compared — where the ritual began, which have a dress code, which work with children, and which are worth the money."
 heroImage: "../../assets/articles/best-afternoon-tea-london/best-afternoon-tea-london.jpg"
 heroImageAlt: "The gilded Palm Court at the Ritz in London, set for afternoon tea"
