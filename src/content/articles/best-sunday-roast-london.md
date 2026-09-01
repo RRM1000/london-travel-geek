@@ -81,6 +81,10 @@ If you want the highest-rated London roast you have a realistic chance of bookin
 
 The roast itself is a straight, serious one: **beef cooked pink, dripping-roasted potatoes, a tall Yorkshire and a jug of gravy**, in a proper Highgate pub with a garden rather than a dining room pretending to be one. It is also the roast **Oisin Rogers of The Devonshire sends people to**, which is the strongest recommendation available in this trade.
 
+![A roast beef dinner at The Red Lion and Sun: pink slices of beef in gravy with roast potatoes, a tall Yorkshire pudding and a pot of horseradish, on a pub table beside a pint](../../assets/articles/best-sunday-roast-london/red-lion-and-sun-roast.jpg)
+
+*Beef pink, potatoes roasted in dripping, a Yorkshire taller than the plate is deep, horseradish on the side. No garnish doing work the cooking should do.*
+
 **Book:** [theredlionandsun.com](http://www.theredlionandsun.com/) · **four minutes from The Bull**
 
 ### Canton Arms, Stockwell
@@ -116,6 +120,10 @@ The roast is a proper plated one rather than a pub carvery: **beef with a Yorksh
 The Sunday roast is served in the upstairs room, and the dish everyone remembers is the pudding: a **brown butter and honey tart** that has been on the menu since the beginning and is worth ordering even if you are full. The beef and the trimmings underneath it are as good.
 
 **££, closed Monday.** Hackney Road. Drink downstairs first; the dining room is a different room in every sense.
+
+![A sharing roast at The Marksman: beef and pork on a bed of carrot puree with charred hispi cabbage, under two large Yorkshire puddings, one filled with cauliflower cheese](../../assets/articles/best-sunday-roast-london/the-marksman-roast.jpg)
+
+*The upstairs room's version: carrot puree under the meat, charred cabbage rather than boiled, and a Yorkshire used as a bowl for the cauliflower cheese.*
 
 ![The Marksman pub on Hackney Road, with its tiled frontage](../../assets/articles/best-sunday-roast-london/the-marksman-hackney-road.jpg)
 *Two pubs in one building on Hackney Road: an unprettified local downstairs, the dining room above. Photo: [Matt Brown](https://commons.wikimedia.org/wiki/File:The_Marksman_pub_254_Hackney_Road_2025-05-08.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
@@ -160,6 +168,10 @@ The **venison scotch egg** is the signature and has been for years: a soft-yolke
 The roast is a serious one: **beef cooked pink**, dripping-roasted potatoes, a large Yorkshire, and the trimmings done properly. The rest of the week it runs a full gastropub menu with charcuterie made in-house.
 
 **££. NOT the same pub as The Bull, which is also in Highgate and also on this list** — different sites, different owners, and people get them confused constantly. Book for Sunday.
+
+![A roast at The Bull and Last: pink beef and roast potatoes in a deep pool of gravy with kale, a large Yorkshire pudding balanced on top](../../assets/articles/best-sunday-roast-london/bull-and-last-roast.jpg)
+
+*Kale rather than the usual greens, and enough gravy to justify the potatoes. The obvious end to a walk on the Heath.*
 
 ### The Camberwell Arms, Camberwell
 
@@ -255,6 +267,10 @@ Four of the best-supported roasts in London are served in restaurants. That chan
 Joint most-cited roast in this guide alongside The Devonshire — and the make-up of that support is unusual enough to state plainly. **All five sunday-roast citations are video.** No award, no masthead roast list. Its editorial reputation sits in the steak sources, not these.
 
 The "All In" is a run of every cut on the menu, priced per head — one 2026 review put the Shoreditch site at £28 a head. Built for groups in a way almost no pub kitchen manages, and with several London sites, a full Sunday at one branch does not mean a full Sunday everywhere.
+
+![Blacklock's All In roast on a platter: slices of pink beef and pork with crackling, a Yorkshire pudding, roast carrots and green beans, with cauliflower cheese and a boat of gravy alongside](../../assets/articles/best-sunday-roast-london/blacklock-all-in.jpg)
+
+*The All In, which is the whole argument for coming: every cut on one platter, cauliflower cheese in its own pot, and gravy poured rather than rationed.*
 
 **Book:** [theblacklock.com](https://theblacklock.com/restaurants/blacklock-soho/) · **two minutes from The Devonshire**
 

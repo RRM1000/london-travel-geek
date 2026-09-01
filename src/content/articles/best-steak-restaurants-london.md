@@ -77,6 +77,10 @@ The beef is native breed, dry-aged on the bone and cooked over charcoal rather t
 
 **££££ and it books weeks ahead.** Several London sites; Spitalfields, Guildhall and Air Street are the ones people name.
 
+![A thick grilled steak at Hawksmoor, dark and crusted from the charcoal with a pink centre showing in the sliced end, served with crushed potatoes](../../assets/articles/best-steak-restaurants-london/hawksmoor-steak.jpg)
+
+*The charcoal crust is the point. A broiler cannot do that, which is the difference Hawksmoor built the room around.*
+
 ### Flat Iron, Soho
 
 *£ · £15 · no bookings · Cited by 7 sources*
@@ -218,6 +222,10 @@ Tomos Parry cooking over wood in a first-floor room above a Shoreditch pub. Basq
 *££ · 3 min from Piccadilly Circus · Cited by 2 sources · #45, World's 101 Best Steak Restaurants*
 
 Better known as the hardest pint to get in Soho, but the dining room upstairs grills over coals and placed 45th in the world. Getting in is the whole problem — it does not take bookings for the bar, and the restaurant goes weeks out.
+
+![A steak at The Devonshire, sliced across the grain and topped with a ribbon of bearnaise, with thick-cut chips and buttered peas](../../assets/articles/best-steak-restaurants-london/the-devonshire-steak.jpg)
+
+*Chips, peas, béarnaise, and a cut priced like a pub rather than a steakhouse. That is how it places 45th in the world and still counts as ££.*
 
 ---
 
