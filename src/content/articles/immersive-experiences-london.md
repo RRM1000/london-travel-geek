@@ -368,7 +368,13 @@ You sit or stand as you like and nobody performs at you. **Slots run every half 
 
 Digital ABBA and a ten-piece live band in a purpose-built arena opposite the DLR station. **The dance floor is where you want to be**, and **16–25s can get £35 dance floor tickets**. Half-price child tickets run to the end of December.
 
-**The strict no-phones policy is enforced**, and it is much of why it works — a room of ten thousand people none of whom are filming is now a genuinely unusual thing.
+**The ABBAtars are the whole thing, and they are extraordinary.** Not a hologram in the fairground sense, and not archive footage — these are digital performers built from the band themselves. In the winter of 2020 all four spent **five weeks in a motion-capture studio**, in suits covered in markers, under **160 cameras**, with **Industrial Light & Magic** — the Star Wars and Jurassic Park people — running it. The show's producer described what they were after as capturing "every mannerism, every emotion, the soul of their beings".
+
+**Then they were de-aged back to 1979.** Younger body doubles performed some of the movement, because people in their seventies do not move like their twenty-something selves, and the band's own faces and performances were built onto that. What you end up watching is four people who were never in the room, being completely convincing in it.
+
+**What sells it is the small stuff, not the spectacle.** Agnetha shifting her weight between verses. The look Björn and Benny exchange. A hand finding the mic stand without looking. You spend the first song hunting for the seam, fail to find it, and stop trying — and from there you are simply at an ABBA concert, which is exactly what a purpose-built arena and a wall of LED were put up to achieve.
+
+**The live band is the other half of the illusion.** Ten real musicians playing in front of the screen, lit to match, so the room never tips over into feeling like a cinema. And the **no-phones policy is enforced**, which is much of why it lands: three thousand people, none of them filming, all looking at the same thing.
 
 **Dance Booths** seat up to 44 with their own bar if you are a group. The box office at Pudding Mill Lane DLR opens two hours before. Wheelchair spaces, ambulant seating and transfer-friendly seats are all available, and ear defenders are free but limited, first come first served.
 
