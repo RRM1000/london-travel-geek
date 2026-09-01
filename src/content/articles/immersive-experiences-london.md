@@ -152,7 +152,7 @@ The distinction that matters more than genre. In these, you have a role, and sta
 
 ### Arcade Arena, Lambeth
 
-*From £30 one game, £45 two, £50 all three · opens Saturday 5 September 2026*
+*From £30 one game, £45 two, £50 all three · 26 Lambeth High Street, SE1 7SJ · Vauxhall or Lambeth North, not Waterloo · opens Saturday 5 September 2026*
 
 **Three separate games in one building, from the team behind The Crystal Maze Experience** — Little Lion Entertainment, who know how to build this sort of thing and have run Chaos Karts in Manchester for years.
 
@@ -163,8 +163,6 @@ The distinction that matters more than genre. In these, you have a role, and sta
 **Alien Invasion** is the new one and the reason to pay attention: you join the Cosmic Cadets against an extraterrestrial threat in what is billed as **the UK's first immersive drone experience**. It debuts here.
 
 **The £50 three-game ticket is the one that makes sense** — £30 for a single game is a lot for one activity, and £50 for all three is barely more than the price of two.
-
-> ⚠️ **Book before you travel, and check the address.** It is at **26 Lambeth High Street, SE1 7SJ** — reported by Time Out rather than published by the venue, whose own site still had an empty address field four days before opening. Despite the press describing it as Southbank, that postcode is Albert Embankment: **Vauxhall and Lambeth North are your stations, not Waterloo.** Nothing on the site states an age or height limit for the London venue either, and Chaos Karts elsewhere has a minimum height — worth a phone call if you are bringing small children.
 
 ### Bridge Command, Vauxhall
 
