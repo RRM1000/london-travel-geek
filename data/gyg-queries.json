@@ -540,6 +540,16 @@
     "travel-sim-esim-guide": {
       "slot1": "UK eSIM data plan",
       "slot2": "London travelcard"
+    },
+    "london-pass-guide": {
+      "slot1": "Tower of London tickets",
+      "slot2": "Westminster Abbey tickets",
+      "slot3": "London Eye tickets"
+    },
+    "best-cabaret-london": {
+      "slot1": "London cabaret show",
+      "slot2": "London jazz club tour",
+      "slot3": "London theatre tickets"
     }
   }
 }
