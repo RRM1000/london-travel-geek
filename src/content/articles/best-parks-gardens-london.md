@@ -56,7 +56,11 @@ Almost all of it is free.
 
 *Free · 2,500 acres · free-roaming deer*
 
-The largest of the Royal Parks and the only one with **free-roaming red and fallow deer** — around 600 of them. The Isabella Plantation inside it is spectacular in May when the azaleas go.
+The largest of the Royal Parks and the only one with **free-roaming red and fallow deer** - around 600 of them. It has been a deer park since Charles I enclosed it in 1637, and the herds have never been fenced off from the public.
+
+The Isabella Plantation inside it is spectacular in May when the azaleas go, and it is a woodland garden rather than a formal one, so it stays interesting outside that fortnight.
+
+**It is big enough to need a plan.** Two and a half thousand acres is larger than several London boroughs; pick a gate near what you want - Pembroke Lodge for the protected view to St Paul's, Isabella for the planting - rather than arriving and walking.
 
 > ⚠️ **Keep 50 metres from the deer**, especially in the September–November rut and the May–July birthing season. People are injured here every year.
 
@@ -64,7 +68,11 @@ The largest of the Royal Parks and the only one with **free-roaming red and fall
 
 *Free · swimming ponds*
 
-Eight hundred acres of genuinely wild-feeling ground, with **three swimming ponds open year-round** — men's, women's and mixed — and the protected Parliament Hill view south over the City.
+Eight hundred acres of genuinely wild-feeling ground, with **three swimming ponds open year-round** - men's, women's and mixed - and the protected Parliament Hill view south over the City.
+
+The Heath is deliberately unmanicured: it was saved from development by campaign in the 1870s and has been kept semi-wild since, which is why it feels like countryside rather than a park. **Kenwood House** at the north end is free and holds a Rembrandt and a Vermeer.
+
+The ponds charge a small fee and are open all year, including winter, when the water sits a few degrees above freezing. The Parliament Hill view is one of London's protected sightlines, so nothing can legally be built into it.
 
 ![Dense woodland and shrubbery near the Hill Garden and Pergola on Hampstead Heath](../../assets/articles/best-parks-gardens-london/hampstead-heath-woodland.jpg)
 
@@ -76,6 +84,10 @@ Eight hundred acres of genuinely wild-feeling ground, with **three swimming pond
 
 The best formal gardens in London, plus the Open Air Theatre, London Zoo and Primrose Hill at the north end for the skyline.
 
+**Queen Mary's Gardens** holds London's largest rose collection - around 12,000 roses - and peaks in early June, which is the single best week to come. The park was laid out by John Nash in the 1810s as the setting for the terraces that still ring it.
+
+Primrose Hill is technically separate and just to the north, and its view south over the city is another of the protected ones. It is a five-minute walk from the top of the park.
+
 ![A flowerbed of white and near-black tulips in Regent's Park, with people walking behind](../../assets/articles/best-parks-gardens-london/regents-park-tulips.jpg)
 
 *The Outer Circle flowerbeds in late April — Queen Mary's Gardens further in have the bigger rose display, but this is the first colour of the year.*
@@ -85,6 +97,10 @@ The best formal gardens in London, plus the Open Air Theatre, London Zoo and Pri
 *Free · 200 acres*
 
 A boating lake, a children's zoo, a **Japanese Peace Pagoda** on the Thames path, and a bandstand. The most family-usable of the big parks.
+
+Much of the layout dates from the **Festival of Britain in 1951**, when the Festival Gardens were laid out here, and the Peace Pagoda was a gift from the Nipponzan-Myohoji Buddhist order in 1985.
+
+The park itself is free. **The children's zoo is ticketed**, which is the thing families most often get caught by when they price a day here.
 
 ---
 
@@ -156,7 +172,11 @@ A 186-acre former Rothschild estate, and most of it is given over to sports pitc
 
 *Free*
 
-A **Wren church gutted in the Blitz and left as a shell**, now filled with climbing plants and trees growing through the windows. The most atmospheric free thing in the City, and almost always quiet.
+A **Wren church gutted in the Blitz and left as a shell**, now filled with climbing plants and trees growing through the windows.
+
+Wren rebuilt the church after the Great Fire; it was gutted again in 1941, and the City of London opened the ruin as a public garden in 1971 rather than rebuilding it a second time. The walls and the steeple still stand.
+
+**It is no longer the secret it once was.** Expect photographers at weekends and in good weather - early morning is when you get it to yourself. Monument and Tower Hill are both about five minutes away.
 
 ### Postman's Park, City of London
 
@@ -164,23 +184,37 @@ A **Wren church gutted in the Blitz and left as a shell**, now filled with climb
 
 A wall of hand-painted ceramic tablets, each recording **an ordinary person who died saving someone else**. Quietly devastating and takes ten minutes.
 
+It is the **Watts Memorial to Heroic Self-Sacrifice**, opened in 1900 and the idea of the painter G. F. Watts, who wanted ordinary courage recorded somewhere permanent. Each tablet gives the name, the date and what happened in a couple of lines.
+
+The park is named for the postal workers from the old General Post Office headquarters who ate their lunch here. It is two minutes from St Paul's, and almost nobody visiting the cathedral knows it exists.
+
 ### Barbican Conservatory, City of London
 
 *Free on open days*
 
-Over **1,500 species of tropical plants** and a pond of koi and terrapins, grown inside the concrete fly tower of the Barbican theatre. Open limited days — check before travelling.
+Over **1,500 species of tropical plants** and a pond of koi and terrapins, grown inside the concrete fly tower of the Barbican theatre.
+
+It is the **second largest conservatory in London after Kew**, and the least likely one: the glasshouse exists because the theatre's fly tower had to be concealed, and someone decided the way to do it was to plant it.
+
+**Opening is limited and changes** - usually Sundays and selected days, sometimes with free tickets released in advance. Check the Barbican's own listings before you travel rather than turning up.
 
 ### Crystal Palace Dinosaurs
 
 *Free*
 
-Built in **1854, the first dinosaur sculptures ever made anywhere**, before anyone knew what dinosaurs actually looked like. Grade I listed, and gloriously wrong.
+Built in **1854, the first dinosaur sculptures ever made anywhere**, before anyone knew what dinosaurs actually looked like.
+
+They were made by **Benjamin Waterhouse Hawkins working with Richard Owen**, the anatomist who coined the word dinosaur - and they predate Darwin's *Origin of Species* by five years, which is precisely why the anatomy is so far off. The Iguanodon wears its thumb spike on its nose.
+
+Grade I listed, spread across islands in the lake, and free to walk round whenever the park is open. Crystal Palace station sits at the top of the park.
 
 ### Camley Street Natural Park, King's Cross
 
 *Free*
 
-Two acres of wetland reserve with St Pancras behind it. **The contrast is the point.**
+Two acres of reedbed, pond and woodland on a former coal yard beside the Regent's Canal, run by the **London Wildlife Trust** and opened in 1985 - when this was still industrial no-man's-land rather than a redeveloped King's Cross.
+
+There is a visitor centre and a cafe, and it is five minutes from the station. **The contrast is the point**: a working wetland reserve with the train sheds directly behind it.
 
 ---
 
@@ -200,7 +234,11 @@ Three hundred acres of botanic garden with the Victorian Palm House, the Tempera
 
 *Ticketed*
 
-Founded by the Apothecaries in **1673 to grow medicinal plants**, and still growing 5,000 of them behind a high wall on the Embankment.
+Founded by the Apothecaries in **1673 to grow medicinal plants**, and still growing 5,000 of them behind a high wall on the Embankment. It is the oldest botanic garden in London.
+
+The walls and the river together make it **the warmest corner of the city**, which is why olives, grapefruit and pomegranates fruit outdoors here when they will not elsewhere in Britain.
+
+It is small - a couple of hours is plenty - and **opening is seasonal**, so check before travelling.
 
 ### WWT London Wetland Centre, Barnes
 
