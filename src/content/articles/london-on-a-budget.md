@@ -54,8 +54,9 @@ Special exhibitions inside them are ticketed, usually £18–£25. **The permane
 
 ## Free: the views
 
-Four 360-degree viewpoints in the City cost nothing.
+Five viewpoints in and around the City cost nothing, and the highest of them is free.
 
+* **Horizon 22** — **Level 58, and the highest free viewing platform in London.** 300-degree views, two lifts that take 41 seconds. Free, but book a slot.
 * **The Garden at 120** — no booking needed. The most useful one.
 * **Sky Garden** — free but books weeks ahead.
 * **The Lookout at 8 Bishopsgate** — the newest and least busy.
@@ -88,6 +89,46 @@ Plus **Primrose Hill**, **Parliament Hill**, **Greenwich Park** and **Waterloo B
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-free-london-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="free London walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## Free: sitting in on the real thing
+
+The least-known free London, and the most interesting. These are not attractions — they are institutions doing their actual work, with seats at the back for anyone who turns up.
+
+### The courts
+
+**The Old Bailey** is the famous one. Public galleries are open **Monday to Friday, 10am–12.40pm and 2pm–3.40pm**, and it costs nothing to watch a trial in the Central Criminal Court.
+
+> ⚠️ **Three rules decide whether you get in, and one is new.** Since **1 June 2026 you must show official photographic identification** — the City of London states it plainly. **The minimum age is 14**, and under-16s need an adult. And there is **no cloakroom and no bag storage**: large bags and rucksacks are refused, and phones and electronic devices are not allowed in at all. The usual workaround is a nearby travel agent that stores phones for about £1 a device. Turn up with luggage or without ID and you will not get past the door.
+
+**The Supreme Court** is far easier and almost nobody goes. **Free, no ticket, Monday to Friday 9am–5pm** with last entry at 4.30pm, three courtrooms in the old Middlesex Guildhall on Parliament Square. Gallery space is limited so you may wait, but you can normally see something. No ID rigmarole, no phone ban of the Old Bailey's severity.
+
+**The Royal Courts of Justice** on the Strand also has free public galleries, in a building worth walking into on its own.
+
+### Parliament
+
+**Watching debates is free for everyone**, UK resident or not. Galleries are open when the Houses are sitting — **Monday to Thursday and some Fridays** — and you can queue at the Cromwell Green entrance without booking. Fridays are the quietest; for anything high-profile, queueing alone rarely works and UK residents can request gallery tickets from their MP instead. **Select committees** are free too and often more interesting than the chamber.
+
+### Television and radio
+
+**Studio audience tickets cost nothing**, from the BBC and four independent agencies. It is genuinely free entertainment, with one large caveat — the tickets are deliberately over-issued, so a ticket is a place in a queue rather than a seat.
+
+**[Our full guide to free TV and radio tickets →](/articles/free-tv-show-tickets-london/)**
+
+### And one you have to plan for
+
+**The Ceremony of the Keys** at the Tower of London — the locking-up ritual performed every night for around 700 years — is **free**, but allocated by ballot months ahead. Worth entering long before you travel.
+
+---
+
+## Free: the things nobody lists
+
+* **Lunchtime concerts.** **St Martin-in-the-Fields**, the **Royal Academy of Music**, the **Guildhall School** and several City churches run free recitals by properly good musicians, most weeks, usually around an hour.
+* **BFI Mediatheque** on the South Bank — sit down and watch the national film and television archive, free, in a booth. Almost nobody knows it exists.
+* **The Bank of England Museum**, the **Hunterian Museum**, the **Grant Museum of Zoology** and the **Petrie Museum** — all free, all far quieter than the big names.
+* **Open House London**, every September — hundreds of buildings normally closed to the public open their doors for a weekend, free.
+* **Speaker's Corner**, Hyde Park, Sunday mornings.
+
+---
 
 ## Eating cheaply
 
@@ -122,6 +163,8 @@ Plus **Primrose Hill**, **Parliament Hill**, **Greenwich Park** and **Waterloo B
 * **Avoid Zone 1 in the morning peak** if your ticket allows — off-peak fares are materially cheaper.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-london-pass-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pass attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where the money actually goes
 
