@@ -44,8 +44,6 @@ The quietest and cheapest visit is the same visit: a Monday to Wednesday daytime
 
 > 🎡 **[The full Winter Wonderland guide](/articles/hyde-park-winter-wonderland/)** — every published price, all four gates, the free live music, the Bavarian Hall's 18+ evening rule, and what is new for 2026.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Christmas London Winter Wonderland" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hyde Park Winter Wonderland"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
 
 ## Christmas markets
@@ -88,6 +86,8 @@ A few more are likely to return but hadn't confirmed 2026 dates at the time of w
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Christmas London Winter Wonderland" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hyde Park Winter Wonderland"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Christmas lights: where to see them
 
 None of the big shopping streets had announced 2026 switch-on dates at the time of writing — they're typically confirmed from late September — but the pattern repeats every year: the best-known streets switch on first, in the opening two weeks of November, and the lights stay up until around Twelfth Night in early January.
@@ -121,8 +121,6 @@ Different from the free street displays above — these are paid, walk-through e
 
 **Worth knowing what's gone or uncertain:** Kenwood House's well-loved Neverland trail on Hampstead Heath has been **cancelled for 2026** after weak ticket sales. Lightopia's Crystal Palace edition appears to have quietly stopped — its booking site no longer resolves. Chiswick House's event (now an indoor theatrical trail rather than the outdoor "Lightopia" walk it used to be) hadn't confirmed 2026 dates at the time of writing.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Christmas London Kew Lights" data-gyg-partner-id="WWP7I0R" data-gyg-q="Christmas at Kew Gardens"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
 
 ## Ice rinks and Santa's grottos
@@ -134,6 +132,8 @@ Different from the free street displays above — these are paid, walk-through e
 For grottos, **Fortnum & Mason's** "Storytelling with Father Christmas" and **Hamleys'** Regent Street grotto are both expected back but hadn't gone on sale at the time of writing — 2025 prices were roughly £36–£45 and from £65 for a group of three, respectively. **Harrods'** famous grotto has been discontinued with no plans to reopen. **Selfridges** doesn't run a formal grotto — Santa and his elves roam the shop floor for free instead.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Good to know
 

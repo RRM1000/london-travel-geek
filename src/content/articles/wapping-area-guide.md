@@ -101,8 +101,6 @@ Wapping has its own share of the commemorative plaques marking where notable peo
 
 *The quayside at St Katharine Docks, fifteen minutes west. The dock is free to walk round and the restaurants line one side of it.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="London historic pubs tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Key streets and micro-districts
 
 ### Wapping High Street
@@ -123,6 +121,8 @@ North-east. A surviving dock basin, now used for watersports, ringed by red-bric
 
 ### Tobacco Dock
 North. A restored 1811 warehouse, now an events venue, with two replica sailing ships outside.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="London historic pubs tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -174,6 +174,8 @@ North. A restored 1811 warehouse, now an events venue, with two replica sailing 
 4. **Assuming Wapping station is step-free.** It is not. Use Shadwell or walk from Tower Hill.
 5. **Arriving at high tide for the foreshore.** Wapping Old Stairs is only interesting when the tide is out.
 6. **Missing St Katharine Docks.** It is on the way from the Tower and is the prettiest part of the walk.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

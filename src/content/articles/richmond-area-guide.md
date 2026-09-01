@@ -115,6 +115,8 @@ Behind the hill. Pembroke Lodge, the Isabella Plantation and the Pen Ponds are t
 
 *The Isabella Plantation in late April. It is a 40-acre woodland garden inside the park, and spectacular for about two weeks a year. Photo: [Diliff](https://commons.wikimedia.org/w/index.php?curid=14946838), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="richmond-river" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampton Court river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -139,8 +141,6 @@ Behind the hill. Pembroke Lodge, the Isabella Plantation and the Pen Ponds are t
 **Into the park.** **Richmond Gate** is the closest, up the hill from the town centre and about 20 minutes on foot. The **371 or 65 bus** saves the climb. Petersham Gate is the flatter approach.
 
 **By river.** Boats run upstream to Hampton Court in summer, and downstream towards Kew and Westminster — slow but scenic.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="richmond-river" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampton Court river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ![The ten-storey Great Pagoda at Kew Gardens against a blue sky](../../assets/articles/richmond-area-guide/kew-pagoda.jpg)
 
@@ -175,6 +175,8 @@ Behind the hill. Pembroke Lodge, the Isabella Plantation and the Pen Ponds are t
 4. **Visiting the Isabella Plantation outside May.** It is pleasant year-round but only spectacular in late spring.
 5. **Expecting to see St Paul's in haze.** King Henry's Mound needs a clear day.
 6. **Arriving late in the day.** Park gates close at dusk and it is a long walk back to any of them.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="richmond-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

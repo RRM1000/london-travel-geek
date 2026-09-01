@@ -158,6 +158,8 @@ Weekly limited-edition focaccia — tuna and artichoke, or tomato with duck egg 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sandwiches-london-borough-market" data-gyg-partner-id="WWP7I0R" data-gyg-q="Borough Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Toasties
 
 ### Kappacasein, Borough Market
@@ -175,8 +177,6 @@ The default answer to the best toastie in London, and one of the few genuinely f
 *Borough Market Kitchen*
 
 Thirty seconds from Kappacasein and the porchetta counterweight to it: slow-roasted pork with salsa verde in ciabatta, or a honey truffle parm with fennel and apple slaw.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sandwiches-london-borough-market" data-gyg-partner-id="WWP7I0R" data-gyg-q="Borough Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ---
 
@@ -269,6 +269,8 @@ Six **bánh mì** on the menu — char siu pork, pâté, pork belly — on the s
 **Vada pav**: a deep-fried spiced potato patty in a soft bap with chilli and coconut chutneys, from Maharashtra. Whether it counts as a sandwich is a good argument to have while eating one.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sandwiches-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Best value
 

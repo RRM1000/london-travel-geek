@@ -113,8 +113,6 @@ Canary Wharf has its own share of the commemorative plaques marking where notabl
 
 *The Museum of London Docklands, in a Georgian sugar warehouse on West India Quay. Free, and much quieter than the Canary Wharf towers opposite. Photo: [ell brown](https://www.flickr.com/photos/39415781@N06/6455266221), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-top-sights" data-gyg-partner-id="WWP7I0R" data-gyg-q="Canary Wharf walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Key streets and micro-districts
 
 ### Canada Square and the malls
@@ -153,6 +151,8 @@ South, facing the water towards Greenwich, and the quietest part to walk.
 ![Middle Dock at Canary Wharf at sunset, with Skuna boats on the water and the office towers reflected](../../assets/articles/canary-wharf-area-guide/middle-dock-sunset.jpg)
 
 *Middle Dock at sunset, with the barbecue boats out. The docks face west, so this is what the last hour of light does to them.*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-top-sights" data-gyg-partner-id="WWP7I0R" data-gyg-q="Canary Wharf walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -215,6 +215,8 @@ South, facing the water towards Greenwich, and the quietest part to walk.
 3. **Canada Square:** South through the park past **One Canada Square**.
 4. **Wood Wharf:** East to the boardwalk and the water.
 5. **Finish:** DLR to **Island Gardens** and the **Greenwich Foot Tunnel**, or back on the Elizabeth line.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

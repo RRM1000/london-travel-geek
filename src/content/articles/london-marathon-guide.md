@@ -165,6 +165,8 @@ Applications for the 2026 race opened on 2 October and closed at the end of the 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-marathon-guide-greenwich" data-gyg-partner-id="WWP7I0R" data-gyg-q="Greenwich walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Route 4: Championship entry
 
 For serious club runners. Again, **2027 standards were still to be published** in late August 2026; the 2026 criteria were:
@@ -257,6 +259,8 @@ Two things people get wrong: you **pay the entry fee again** for the deferred ye
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-marathon-guide-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Watching the London Marathon
 
 ![Spectators lining the barriers on the London Marathon course at Limehouse, watching runners stream past](../../assets/articles/london-marathon-guide/london-marathon-spectators.jpg)
@@ -305,8 +309,6 @@ The organisers themselves split the route into places that will be heaving and p
 > ⚠️ **Expect station queues of up to 90 minutes** at the busy points — that is the organisers' own figure, and it applies at Cutty Sark and Limehouse in particular. Their blunt advice about the busy zones is worth repeating: *"This could be the only part of the route you can visit, so make the most of it."*
 
 **Tower Bridge is the iconic spot and it is worth it once** — but arrive early, and use London Bridge rather than Tower Hill or Tower Gateway.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-marathon-guide-greenwich" data-gyg-partner-id="WWP7I0R" data-gyg-q="Greenwich walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ### The best place to watch: the Isle of Dogs
 
@@ -397,7 +399,7 @@ One thing spectators often assume wrongly: the **free post-race TfL travel is fo
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-marathon-guide-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-marathon-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

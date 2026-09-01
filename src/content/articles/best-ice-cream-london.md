@@ -137,6 +137,8 @@ The **pistachio** and the **salted caramel** are the standing orders, with a rot
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Ice Cream Dessert Tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London dessert tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Small-batch and award-winning
 
 ### Ice Cream Union, Chelsea
@@ -224,6 +226,8 @@ The **pistachio** is the headline and is made with real pistachio paste rather t
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-ice-cream-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Best value
 
 Ice cream is cheap by definition, but the range in London is wider than people expect — a scoop runs from about £3.45 to over £6 depending on the postcode.
@@ -233,8 +237,6 @@ Ice cream is cheap by definition, but the range in London is wider than people e
 * **Markets and food halls.** **Borough Market**, **Mercato Mayfair** and **Seven Dials Market** all carry gelato counters, and market pitches are consistently cheaper than shopfronts in the same postcode.
 * **Buy a tub, not a cone.** Almost every parlour here sells takeaway tubs at a much better rate per scoop, and most will pack them with dry ice if you ask.
 * **Avoid delivery apps.** They mark ice cream up substantially over the counter price, and it arrives in worse condition than anything else you can order.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Ice Cream Dessert Tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London dessert tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ---
 

@@ -82,8 +82,6 @@ Two guides cover most of this already:
 
 Still to write: a dedicated **rooftop and riverside dining** guide that treats the food as seriously as the view.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-in-london-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
 
 ## Restaurants by Cuisine
@@ -119,6 +117,8 @@ Every one of these is ranked by how many independent awards, critics and reviewe
 * [**Vegetarian and Vegan**](/articles/best-vegetarian-vegan-restaurants-london/) — Fully plant-based kitchens and the vegetarian menus worth crossing London for.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-in-london-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Markets, Food Halls and Street Food
 
@@ -205,6 +205,8 @@ Classic culinary experiences that belong on every London itinerary:
 * [**Historic Pubs and Dining Rooms**](/articles/historic-pubs-dining-rooms-london/) — London's oldest rooms, including *Rules*, *Wiltons* and the pubs that predate the Great Fire.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-in-london-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Plan Food into Your London Visit
 

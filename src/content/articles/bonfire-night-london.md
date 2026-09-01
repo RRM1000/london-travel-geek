@@ -101,9 +101,9 @@ Prices below were published by the organisers and checked in late August 2026. S
 
 > ⚠️ **Campfire Club at Cody Dock** appears in fireworks listings but is **live music and a bonfire, not a fireworks display**. Worth going to on its own terms — just do not turn up expecting rockets.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bonfire-night-london-thames-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames fireworks cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bonfire-night-london-thames-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames fireworks cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## On-sale dates to diarise
 
@@ -197,6 +197,8 @@ People still search for all of these.
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bonfire-night-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Why we do this at all
 
 The Gunpowder Plot was a London event. In 1605 a group of conspirators packed barrels of gunpowder into the undercroft beneath the House of Lords, intending to destroy the Palace of Westminster and kill James I at the State Opening. Guy Fawkes was caught in the cellar. The bonfires that November were spontaneous celebrations of the king's survival, and they have been burning every year since.
@@ -204,8 +206,6 @@ The Gunpowder Plot was a London event. In 1605 a group of conspirators packed ba
 You can still visit the site: the Palace of Westminster is on Parliament Square, and the story is told in Parliament's own collections.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bonfire-night-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

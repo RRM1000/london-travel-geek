@@ -103,6 +103,8 @@ A **125-year-old Dutch barge** sailed over from the Netherlands and permanently 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="unusual-restaurants-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Buildings that used to be something else
 
 ### The Attendant, Fitzrovia
@@ -229,6 +231,8 @@ Forty floors up and **open around the clock** — the only place in London where
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="unusual-restaurants-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What to know
 
 * **Several of these are small.** Rochelle Canteen, The Attendant and The Yurt Café all fill quickly and some take no bookings.
@@ -236,8 +240,6 @@ Forty floors up and **open around the clock** — the only place in London where
 * **Feng Shang Princess is about the boat.** Go for the pagoda, not the cooking.
 * **Duck & Waffle is genuinely 24 hours**, which makes it the answer to a very specific question.
 * **Bob Bob Ricard's button** works and there is no minimum spend attached to pressing it.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="unusual-restaurants-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ---
 

@@ -104,6 +104,8 @@ Lamb chops, dry lamb curry and chicken karahi, in a room that has never pretende
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="late-night-eating-london-brick-lane" data-gyg-partner-id="WWP7I0R" data-gyg-q="Brick Lane food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Edgware Road
 
 ### Ranoush Juice, Edgware Road
@@ -170,9 +172,9 @@ Late-night prices in London usually go one of two ways: a nightclub markup, or t
 > ⚠️ Two long-standing late food halls are on the way out. **Boxpark Shoreditch closes permanently at the end of September 2026** after its lease expired, and **Mercato Metropolitano at Elephant & Castle trades only to the end of 2026** before the Borough Triangle redevelopment. Check before travelling to either.
 * **Night Tube nights.** Friday and Saturday only — factor it in, because a night bus plus a cheap meal is often less than the meal alone plus a cab.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="late-night-eating-london-brick-lane" data-gyg-partner-id="WWP7I0R" data-gyg-q="Brick Lane food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="late-night-eating-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

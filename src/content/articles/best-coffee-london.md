@@ -113,6 +113,8 @@ Started in a **nineteenth-century watchman's hut** and grew into the most polish
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Coffee Tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London coffee tasting tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Roasteries with kitchens
 
 ### Caravan, Clerkenwell
@@ -231,9 +233,9 @@ Speciality coffee in London settles around £3.20–£4.20 for a flat white almo
 * **Filter over espresso.** Batch brew is usually £1 cheaper than a flat white and, at a shop that roasts its own, it is the drink that actually shows the roast off.
 * **Bring a cup.** Most independents take 25–50p off, and a few take more.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Coffee Tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London coffee tasting tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-coffee-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

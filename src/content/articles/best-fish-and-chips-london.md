@@ -195,6 +195,8 @@ Fish is bought daily and fried to order in a light batter, with **grilled and ma
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="London Food Tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tasting tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Time Out's list and the citation counts barely overlap
 
 Worth knowing before you treat any single guide as the answer.
@@ -287,6 +289,8 @@ Two brothers, a west London high street, and fish delivered from Scotland daily 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-fish-and-chips-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The unusual ones
 
 ### Nautilus, West Hampstead
@@ -341,6 +345,8 @@ Cod, haddock, plaice, skate and rock in a light batter, with **matzo-meal and gr
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-fish-and-chips-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Also named, with less behind them
 
 Everything else the sources carry by two or more independent sources.
@@ -352,8 +358,6 @@ Everything else the sources carry by two or more independent sources.
 | **Hobson's Fish & Chips** | Bayswater, Soho and Villiers Street | ££ | 2 | Three branches; the family ran Oliver's in Belsize Park before taking on the Bayswater site |
 | **Seventeen** | Balham | ££ | 2 | A modern chippy on Chestnut Grove — lighter frying, carefully sourced fish. Only one source gives its street and it has no website, so check before travelling |
 | **Shoreditch Fish and Chips** | Shoreditch | ££ | 1 | A 1960s-styled shop near Brick Lane doing the traditional version straight, sauces thrown in rather than charged for |
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="London Food Tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tasting tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ---
 
@@ -367,8 +371,6 @@ Everything else the sources carry by two or more independent sources.
 * **A citation count is not an award.** Only two shops on this page have been judged by anyone, and neither is one of the famous ones.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-fish-and-chips-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

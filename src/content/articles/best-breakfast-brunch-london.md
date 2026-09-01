@@ -182,6 +182,8 @@ Walk-in, and the terrace is first-come. If it is raining the room is small; if i
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-breakfast-brunch-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="London breakfast food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The proper fry-up
 
 ### The Table Café, Southwark
@@ -262,6 +264,8 @@ Tucked into **Perrins Court**, a narrow pedestrian alley off Hampstead High Stre
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-breakfast-brunch-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Weekend-only, and worth planning around
 
 The thing that catches people out. Several of London's best brunches run **on Saturday and Sunday only** — turn up on a Wednesday and the kitchen is doing something else entirely.
@@ -333,6 +337,8 @@ The menu changes with the season and keeps three fixtures: **Bircher muesli with
 **Small, and no bookings** — this is a walk-in with a queue on Saturday and almost none on a weekday morning. Coffee is taken as seriously as the food.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-breakfast-brunch-london-london-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Every day of the week
 
@@ -435,6 +441,8 @@ Counter service and communal seating, so it works for one person with a book and
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-breakfast-brunch-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Cheap, and open early
 
 **The honest finding: a cheap fry-up still exists, but not where the guides look.** Across the twenty-five caffs one specialist has priced, the spread runs from **£6.50 to about £17** — and the cheap end is entirely outside zone 1. Central London caffs cluster around £11–£13; the ones under £10 are in Newham, Leytonstone, Pimlico and Hammersmith. The modern brunch rooms start around £13 for a plate of eggs.
@@ -470,8 +478,6 @@ Counter service and communal seating, so it works for one person with a book and
 * **Maltby Street Market**, weekends — **St John Bakery Room** does the Old Spot bacon sandwich that people cross London for.
 * **Old Spitalfields** and **Seven Dials Market** both have breakfast counters open before the shops around them.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-breakfast-brunch-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="London breakfast food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
 
 ## What to know
@@ -483,8 +489,6 @@ Counter service and communal seating, so it works for one person with a book and
 * **Duck & Waffle at sunrise** needs booking like any other dinner — the view is the same but the room is calmer.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-breakfast-brunch-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

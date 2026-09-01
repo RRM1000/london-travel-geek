@@ -140,6 +140,8 @@ For almost all visitors, pay-as-you-go using a contactless card or Oyster card i
 
 > **Avoid 1-Day Paper Travelcards:** Paper 1-Day Travelcards are still sold at station ticket machines, but they carry a heavy physical paper surcharge (£16.60 to £23.60 per day) compared to the £8.90 to £16.30 contactless daily caps above. Always tap with contactless or an Oyster card for daily travel. Note that all Travelcard prices and capping thresholds remain frozen under current TfL policy through March 2027.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="413135" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Bus and tram prices
 
 London buses and trams use a flat fare structure across all zones with no peak surcharges. Whether you ride one stop or travel across the entire route, the price remains identical.
@@ -236,6 +238,8 @@ An adult **River Roamer 1-Day Hop-on Hop-off Pass** (unlimited river travel for 
 
 For pier maps, recommended scenic river routes, and commuter tips, read our [Complete Guide to London River Boats](/articles/how-to-use-london-river-boats/).
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-public-transport-costs-and-fares-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## London Cable Car prices
 
 The **IFS Cloud Cable Car** crosses the Thames between the Greenwich Peninsula (near The O2 Arena) and the Royal Docks, offering panoramic views of East London, Canary Wharf, and the river.
@@ -252,8 +256,6 @@ The **IFS Cloud Cable Car** crosses the Thames between the Greenwich Peninsula (
 * **Online Booking Discount:** Booking tickets in advance via the [official TfL London Cable Car portal](https://tfl.gov.uk/modes/london-cable-car/) saves up to **30% off** on selected dates and family tickets.
 * **The O2 Event Ticket Discount:** If you hold a ticket for an event at The O2 Arena, presenting your show ticket at the terminal ticket office often qualifies you for a **50% discount** on cable car flights (details on [The O2 Cable Car travel guide](https://www.theo2.co.uk/visit-us/getting-to-the-o2/cable-car)).
 * **Commuter Multi-Pass:** A 10-journey ticket is available for **£19.00** (ideal for frequent commuters).
-
-<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="413135" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ---
 
@@ -332,7 +334,7 @@ London offers exceptionally generous discounts for families travelling with chil
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-public-transport-costs-and-fares-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-public-transport-costs-and-fares-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Penalty fares and incomplete journeys
 

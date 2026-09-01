@@ -92,8 +92,6 @@ Mayfair has its own share of the commemorative plaques marking where notable peo
 
 *Burlington Arcade, open since 1819 and still patrolled by beadles who can stop you whistling or running in it. Photo: [Reading Tom](https://www.flickr.com/photos/16801915@N06/3282398164), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="mayfair-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Mayfair walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Key streets and micro-districts
 
 ### Bond Street
@@ -114,6 +112,8 @@ Red-brick Victorian Gothic on Mount Street, plane trees on the square, and the q
 ![Two adjoining Mayfair townhouses with blue plaques, one to Handel and one to Hendrix](../../assets/articles/mayfair-area-guide/handel-hendrix-house.jpg)
 
 *Two blue plaques, next door to each other. Handel lived at 25 Brook Street; Jimi Hendrix lived at 23, two centuries later. Photo: [HandelandHendrix](https://commons.wikimedia.org/w/index.php?curid=150507869), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="mayfair-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Mayfair walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -163,6 +163,8 @@ Red-brick Victorian Gothic on Mount Street, plane trees on the square, and the q
 4. **Missing Shepherd Market.** Two minutes off Piccadilly and completely unlike the rest of Mayfair.
 5. **Eating on Bond Street.** Walk to Shepherd Market or Mercato Mayfair instead.
 6. **Expecting evening life.** Mayfair is offices and embassies after dark. Soho is ten minutes east.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="mayfair-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

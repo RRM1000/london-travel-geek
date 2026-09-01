@@ -181,6 +181,8 @@ All ages, no height restriction, but flashing lights, loud music and dark stagin
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Hyde Park Winter Wonderland" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hyde Park Winter Wonderland"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The rides
 
 **Every ride costs extra**, without exception, and none are included in entry. Advance prices:
@@ -269,6 +271,8 @@ Every bar is free to walk into — **Bar Narnia** with a wardrobe you can step t
 *Thor's Tipi Bar. Three heated tipis, an open fire in the middle of each, and no admission charge — the warmest free seat on the site, and the one that fills first when it rains.*
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hyde-park-winter-wonderland-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Food and drink
 
@@ -394,6 +398,8 @@ Two honest limitations from the operator: **there are no accessible fast-track o
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hyde-park-winter-wonderland-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What has changed for 2026
 
 **Open every day but Christmas Day.** Last season also closed on three November dates; this year there are no midweek closures at all, and the season runs two days longer at the end.
@@ -428,11 +434,7 @@ Written down plainly, because guessing at these would be worse than leaving them
 
 We will update this page as those are published. If you have been recently and know any of them, we would rather print the real figure than leave a gap.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Hyde Park Winter Wonderland" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hyde Park Winter Wonderland"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hyde-park-winter-wonderland-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your Christmas
 

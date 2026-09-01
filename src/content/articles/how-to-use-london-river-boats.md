@@ -100,9 +100,9 @@ Uber Boat operates across three distinct fare zones: **West Zone** (Putney to Ba
 
 > 💳 **Smart Tip:** Tapping Oyster or contactless is almost always cheaper than buying paper tickets at the pier ticket office! Valid Travelcard holders save an extra **33%**.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="River Boats" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="5273,22633,193403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="River Boats" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="5273,22633,193403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Top 3 scenic river boat routes for visitors
 
@@ -169,8 +169,6 @@ If you want an adrenaline-filled sightseeing adventure rather than a gentle crui
 > - **Pre-Booking Required:** Speedboat tours have strict capacity limits (typically 12–16 passengers per RIB) and sell out quickly on weekends.  
 > - **Health Restrictions:** RIB speedboats are **not suitable** for pregnant women, travelers with back or neck conditions, or very young children.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="Speedboats" data-gyg-partner-id="WWP7I0R" data-gyg-q="London speedboats"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/s/%3Fq=London&amp;lc=57&amp;et=16670&amp;searchSource=3&amp;src=search_bar">GetYourGuide</a></span></div>
-
 ---
 
 ## Lunch, Afternoon Tea & Dining Cruises
@@ -186,8 +184,6 @@ If you want to combine sightseeing with a meal or celebratory event, Thames dini
 
 > 🍷 **Dining Cruise Rules:** Dining cruises are private experiences. Pre-booking in advance is required; contactless taps and Oyster pay-as-you-go are **not accepted**.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Dining Cruise" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="22633,931921,5275"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
 
 ## The River Bus Comedy Night
@@ -202,6 +198,8 @@ Looking for evening entertainment on the water? The [River Bus Comedy Night](htt
 > 🎟️ **Booking Tip:** Regular River Bus tickets, Oyster cards, and day passes are invalid for the comedy night—tickets must be purchased specifically for the event date in advance!
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="how-to-use-london-river-boats-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 7 Common river boat mistakes to avoid
 

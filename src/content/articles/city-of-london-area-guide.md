@@ -107,6 +107,8 @@ The City of London has its own share of the commemorative plaques marking where 
 
 *The tower cluster from the south bank. Almost all of it has gone up since 2010, and Leadenhall Market sits at the foot of it.*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Key streets and micro-districts
 
 ### St Paul's and Paternoster Square
@@ -131,8 +133,6 @@ The north-west edge. Smithfield meat market, St Bartholomew the Great, and the B
 ![The painted maroon and green ironwork and glass roof of Leadenhall Market, with the Lamb Tavern under the arcade](../../assets/articles/city-of-london-area-guide/leadenhall-market.jpg)
 
 *Leadenhall Market, rebuilt in 1881 on a site that has traded since the Roman forum stood here. It played Diagon Alley in the first Harry Potter film.*
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -182,6 +182,8 @@ The north-west edge. Smithfield meat market, St Bartholomew the Great, and the B
 4. **Paying to enter St Paul's just to see inside.** Evensong is free daily and you sit in the quire.
 5. **Getting lost at Bank station.** A dozen exits across a large junction. Check which one you want before you surface.
 6. **Trying to walk to Canary Wharf.** It is much further than it looks. Take the DLR from Bank.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

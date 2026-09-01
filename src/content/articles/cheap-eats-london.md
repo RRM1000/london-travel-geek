@@ -172,6 +172,8 @@ A *comal* is the flat griddle a tortilla is cooked on, and the name is the promi
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cheap-eats-london-what-to-know" data-gyg-partner-id="WWP7I0R" data-gyg-q="London street food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Counters and pizza slice shops
 
 ### PaStation, Fitzrovia
@@ -322,6 +324,8 @@ Five branches, all sit-down, and the Covent Garden one is a few minutes from the
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cheap-eats-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Salt beef, and the sandwich that undercuts everything
 
 ### Tongue & Brisket, Leather Lane
@@ -451,6 +455,8 @@ Order at the bar or through the app. No table service, no music, no booking.
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cheap-eats-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Eating cheaply in London: what actually helps
 
 * **Markets beat restaurants.** Seven Dials, Borough, Old Spitalfields and Greenwich all sit inside the sightseeing core and all have stalls under £10.
@@ -460,11 +466,7 @@ Order at the bar or through the app. No table service, no music, no booking.
 * **Tap water is free and must be provided** by any licensed premises. Ask for it rather than buying bottled.
 * **Cash only** at Michael's Fish Bar. Everywhere else here takes cards.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cheap-eats-london-what-to-know" data-gyg-partner-id="WWP7I0R" data-gyg-q="London street food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cheap-eats-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

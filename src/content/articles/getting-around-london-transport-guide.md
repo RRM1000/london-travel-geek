@@ -96,6 +96,8 @@ The **DLR** is an automated, driverless light-rail network serving East London, 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="London Hop On Buses" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop On"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/s/%3Fq=London&amp;lc=57&amp;et=292175&amp;searchSource=3&amp;src=search_bar">GetYourGuide</a></span></div>
+
 ## National Rail (Suburban Trains & Express Lines)
 
 National Rail lines link London's major terminal stations (Waterloo, Victoria, London Bridge, Paddington, Kings Cross, Euston, Liverpool Street) to suburbs and regional cities across Great Britain.
@@ -125,8 +127,6 @@ If you want live or audio commentary while travelling directly between major tou
 * **TfL Differences:** Hop-On Hop-Off buses are private sightseeing tours, not part of TfL. They **do not accept Oyster or contactless taps** and require a pre-booked tour pass.
 * **Bonus Inclusions:** Most 24-hour and 48-hour pass options include a free Thames river cruise ticket.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="London Hop On Buses" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop On"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/s/%3Fq=London&amp;lc=57&amp;et=292175&amp;searchSource=3&amp;src=search_bar">GetYourGuide</a></span></div>
-
 * **Full Bus & Tram Guide:** [How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)
 
 ---
@@ -148,8 +148,6 @@ Crosses the Thames between Greenwich Peninsula (The O2) and Royal Docks. Offers 
 *The cable car runs at 90 metres, well above anything else in the area. Contactless and Oyster both work at the gate.*
 
 * **Ticket Perks:** Presenting a show ticket for **The O2 Arena** at the terminal office qualifies you for a **50% discount** on cable car flights.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="2" data-gyg-cmp="London Hop On Buses" data-gyg-partner-id="WWP7I0R" data-gyg-q="London river bus cable"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/s/%3Fq=London&amp;lc=57&amp;et=292175&amp;searchSource=3&amp;src=search_bar">GetYourGuide</a></span></div>
 
 ---
 
@@ -175,6 +173,8 @@ London is served by six commercial airports. Choose your airport transfer based 
 | **Southend (SEN)** | Greater Anglia National Rail | **Contactless ONLY** *(Oyster NOT valid)* | [Southend Airport Transport Guide](/articles/southend-airport-to-london/) |
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="getting-around-london-transport-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Comprehensive London Transport Library
 

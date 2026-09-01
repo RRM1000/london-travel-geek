@@ -146,6 +146,8 @@ Erik Lorincz, formerly of the Savoy's American Bar, running a basement room. The
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Cocktail Classes" data-gyg-partner-id="WWP7I0R" data-gyg-q="London cocktail making class"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The independents
 
 Cheaper, later, and no less serious.
@@ -317,9 +319,9 @@ Some bars are simply priced below the market and do not need an offer:
 * **Go early.** Almost every bar here is cheaper and calmer before 7pm.
 * **Ask for the classics.** A well-made negroni or daiquiri usually sits at the bottom of the list, and at a bar this good it is the better test of the room anyway.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Cocktail Classes" data-gyg-partner-id="WWP7I0R" data-gyg-q="London cocktail making class"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cocktail-bars-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 
@@ -331,8 +333,6 @@ Some bars are simply priced below the market and do not need an offer:
 * **Service charge** of 12.5% is standard and discretionary.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cocktail-bars-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

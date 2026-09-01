@@ -231,6 +231,8 @@ Behind Waterloo station, five minutes off the tourist route and far better value
 5. **Borough Market:** Inland at Southwark Cathedral for lunch.
 6. **Finish:** East past **HMS Belfast** to **Tower Bridge**.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-area-guide-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Common mistakes to avoid
 
 1. **Paying for a view before trying the free ones.** Tate Modern's tenth floor and the Sky Garden are both free. Book the Sky Garden weeks ahead.
@@ -239,8 +241,6 @@ Behind Waterloo station, five minutes off the tourist route and far better value
 4. **Eating on Queen's Walk itself.** Walk five minutes inland to Lower Marsh or Borough for better food at half the price.
 5. **Taking the Tube between South Bank stops.** Waterloo to London Bridge is a pleasant 25-minute walk along the river and an awkward journey underground.
 6. **Doing the walk at midday in summer.** The western half is packed. Start early or go late.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-area-guide-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

@@ -47,8 +47,6 @@ When arriving at London Heathrow (LHR), the fastest-looking train to Paddington 
 | **London Black Cab** | **£70.00 – £120.00** *(Metered)* | 45–90 mins | 4/5 | Families, heavy luggage & door-to-door convenience |
 | **Private Hire / Uber** | Quoted in app *(Approx £50–£90)* | 45–90 mins | 4/5 | Fixed-price pre-booked airport transfers |
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="London Hop On Buses" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Heathrow"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/heathrow-airport-l34745/">GetYourGuide</a></span></div>
-
 ---
 
 ## Which route is best for your hotel location?
@@ -88,6 +86,8 @@ The **Piccadilly line** (dark blue line) is London's classic Underground route t
 * **Trade-Offs:** Trains take 50–60 minutes to reach Central London, lack air-conditioning, have limited luggage space, and central stations often have stairs rather than lifts.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="London Hop On Buses" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Heathrow"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/heathrow-airport-l34745/">GetYourGuide</a></span></div>
 
 ## 3. Heathrow Express (Non-Stop to Paddington)
 

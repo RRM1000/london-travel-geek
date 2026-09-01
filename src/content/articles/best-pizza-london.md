@@ -177,6 +177,8 @@ Six London sites: Clapton, East Dulwich, Hackney Road, Leytonstone, Walthamstow 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-pizza-london-class" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pizza making class"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## By style
 
 Five different foods under one word.
@@ -361,6 +363,8 @@ A small Ealing pizzeria that built its reputation on strict Neapolitan method ye
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-pizza-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Cheapest
 
 Everything here is in the **£** band, under £15 a head, and none of it takes a booking.
@@ -431,6 +435,8 @@ Places the sources back but that did not earn a full entry, either because only 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-pizza-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Booking and practical essentials
 
 * **Almost nothing here needs booking.** Rudy's, Pizza Pilgrims, Yard Sale, Vincenzo's, Breadstall, Bad Boy, Sud Italia, Franco Manca, Paulie's, Carmela's and Short Road are all walk-in.
@@ -442,11 +448,7 @@ Places the sources back but that did not earn a full entry, either because only 
 * **For gluten-free**, Zia Lucia is the one with a dedicated alternative base. Confirm the preparation separately if it is a medical requirement.
 * **Service charge** of 12.5% is discretionary and standard on London restaurant bills, though counters and stalls generally do not add it.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-pizza-london-class" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pizza making class"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-pizza-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

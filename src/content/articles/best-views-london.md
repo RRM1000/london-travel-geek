@@ -150,6 +150,8 @@ Worth the effort for one reason: on **Mondays and Fridays it stays open until 9p
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-views-london-shard" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Ticketed
 
 ### The View from The Shard, London Bridge
@@ -161,8 +163,6 @@ The highest **open-air** viewing deck in the country, on floor 72.
 Be clear about what that sentence does and does not say. It is no longer the highest public view in London — Horizon 22 is higher and free. What roughly £26 buys you is open sky at 244 metres, which no free viewpoint anywhere in the city offers.
 
 > ⚠️ Ignore the marketing line about being "almost twice the height of any other viewing platform in the capital." It has not been true since 2023.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-views-london-shard" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ### Aqua Shard, London Bridge
 
@@ -233,6 +233,8 @@ The gallery looks straight down Victoria Street towards Westminster, in a part o
 > ⚠️ Sources disagree on the price — older listings show £6. Check at the shop.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-views-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The protected views
 
@@ -402,6 +404,8 @@ A terrace on top of the National Theatre looking straight up the Thames, with no
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-views-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What to know
 
 * **The highest view is free.** Horizon 22 beats The Shard's gallery by around ten metres and costs nothing. Anything that still calls The Shard the highest public viewpoint in western Europe is out of date.
@@ -412,8 +416,6 @@ A terrace on top of the National Theatre looking straight up the Thames, with no
 * **The best light** is the hour before sunset — and most free City viewpoints close before it in winter. The Lookout on a Monday or Friday, or Tate Modern on a Friday or Saturday, are the exceptions.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-views-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

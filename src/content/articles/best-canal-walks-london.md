@@ -101,6 +101,8 @@ A short, pleasant stretch past **Battlebridge Basin** — where the London Canal
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-canal-walks-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Regent's Canal boat tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Angel to Victoria Park
 
 *About 2 miles · 45 minutes · the one Londoners walk*
@@ -203,9 +205,9 @@ There is a third, **Eyre's Tunnel**, at just 53 yards near Lisson Grove — shor
 * **The London Canal Museum** at Battlebridge Basin charges a modest admission and explains the ice trade the building was built for.
 * **Food is where you spend.** Camden Lock, Broadway Market, Hackney Wick and Granary Square are all on or beside the towpath. See [cheap eats](/articles/cheap-eats-london/) and [best markets](/articles/best-london-markets/).
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-canal-walks-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Regent's Canal boat tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-canal-walks-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know before you go
 

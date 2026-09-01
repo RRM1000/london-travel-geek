@@ -95,6 +95,8 @@ Never leave a bike blocking a doorway, a driveway, a shopfront or a dropped kerb
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cycling-bike-hire-scooters-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="London bike tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## E-scooters: the law, properly explained
 
 This is the section worth reading twice, because the situation is genuinely counterintuitive.
@@ -149,8 +151,6 @@ Central London traffic is not the whole picture. These are traffic-free or near 
 * **The Cycleways network** — London's signed cycle routes, many now physically separated from traffic. **CS3 along the Embankment** is the best-known and runs east–west along the river.
 * **Richmond Park** — the finest cycling in London, with deer and hills. See our [Richmond guide](/articles/richmond-area-guide/).
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cycling-bike-hire-scooters-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="London bike tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
 
 ## What to know
@@ -163,6 +163,8 @@ Central London traffic is not the whole picture. These are traffic-free or near 
 * **If you only want the views**, the river bus is a better ride than a bike. See [how to use London's river boats](/articles/how-to-use-london-river-boats/).
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cycling-bike-hire-scooters-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

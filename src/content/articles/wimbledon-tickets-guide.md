@@ -501,6 +501,8 @@ Blue Badge parking is free in **Car Park 6** on Church Road but must be booked i
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Route 4: Ticket Resale, once you are inside
 
 This turns a £33 Grounds Pass into a Centre Court seat for £15.
@@ -601,6 +603,8 @@ Because debenture tickets carry the word "debenture" printed where the price wou
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-london-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Coming from abroad
 
 Wimbledon no longer runs a separate overseas process. The catch is timing: the decisive moment is **ten months before the tournament**.
@@ -665,8 +669,6 @@ Pre-purchased tickets are digital through the Wimbledon app; a small number of p
 **If it rains.** You are entitled to a **full refund if less than one hour** of play happens on your court, and **50% if between one and two hours**, calculated on the Referee's official figures rather than what you personally watched. For a Grounds Pass, play is averaged across all the courts it covers. **Resale tickets and anything bought after 5pm are excluded.** Separately, ordinary tickets can be returned for a refund up to 24 hours before the day of play — though on a ballot ticket, requesting that refund also removes you from the ballot for that year.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

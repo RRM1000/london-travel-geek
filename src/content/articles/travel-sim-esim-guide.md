@@ -60,8 +60,6 @@ Here is how the leading travel eSIM providers compare for UK visitors:
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="travel-sim-esim-guide-uk-esim" data-gyg-partner-id="WWP7I0R" data-gyg-q="London eSIM data plan"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Local UK mobile networks & MVNOs compared
 
 If your smartphone lacks eSIM capability, or if you require a traditional UK phone number for local calling, delivery accounts, or emergency contacts, buying a local UK SIM card offers exceptional value.
@@ -91,6 +89,8 @@ In the UK, four primary network operators own the physical mobile towers: **EE**
 * **Three**: Offers low-cost Pay-As-You-Go data bundles (£15–£20 for heavy data), though indoor signal in older stone buildings can occasionally be weaker than EE or Vodafone.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="travel-sim-esim-guide-uk-esim" data-gyg-partner-id="WWP7I0R" data-gyg-q="London eSIM data plan"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## How much mobile data do you actually need?
 
@@ -158,6 +158,8 @@ Follow this setup sequence to avoid accidental roaming charges on your primary c
 > **Critical safety setting:** Disabling **"Allow Cellular Data Switching"** prevents your phone from automatically failing over to your primary home SIM when the local signal fluctuates, protecting you from automatic daily home roaming fees.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="travel-sim-esim-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Related guides
 

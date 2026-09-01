@@ -133,6 +133,8 @@ It arrived as part of Olympia's whole redevelopment, so the surroundings are new
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="London Jazz Club Tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London jazz club tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Historic buildings
 
 ### The Roundhouse, Chalk Farm
@@ -213,6 +215,8 @@ There is nothing else like it. The room takes about 200, the ceiling is low, the
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-live-music-venues-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Jazz
 
 ### Blue Note, Covent Garden
@@ -288,8 +292,6 @@ A jazz venue since 1959 — the same year Ronnie Scott's opened — and once nic
 
 Five minutes from Barnes Bridge, and the only room on this list where the gig and a proper Sunday lunch are the same outing.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="London Jazz Club Tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London jazz club tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
 
 ## Small rooms
@@ -348,6 +350,8 @@ The bookings lean soul, funk and covers rather than anything you would travel fo
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-live-music-venues-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Free and cheap gigs
 
 Live music in London does not have to cost £40 and a booking fee.
@@ -378,8 +382,6 @@ Live music in London does not have to cost £40 and a booking fee.
 * **Night Tube runs Friday and Saturday** on the Victoria line for Brixton and the Northern for Camden.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-live-music-venues-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

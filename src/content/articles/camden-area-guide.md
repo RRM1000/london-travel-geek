@@ -93,8 +93,6 @@ Camden has its own share of the commemorative plaques marking where notable peop
 
 *The towpath heading toward the zoo. This is the old Snowdon Aviary frame, built in 1965 - now home to the zoo's monkeys rather than its birds.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="camden-area-guide-camden-market" data-gyg-partner-id="WWP7I0R" data-gyg-q="Camden Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Key streets and micro-districts
 
 ### Camden Lock and the canal
@@ -151,6 +149,8 @@ North-west across the railway. Pastel houses, good pubs and a completely differe
 ![A curving terrace of pastel stucco houses with columned porches on Chalcot Crescent in Primrose Hill](../../assets/articles/camden-area-guide/chalcot-crescent-primrose-hill.jpg)
 
 *Chalcot Crescent, Primrose Hill. The Browns' house in the Paddington films is on this curve — these are private homes, so photograph from the pavement.*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="camden-area-guide-camden-market" data-gyg-partner-id="WWP7I0R" data-gyg-q="Camden Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -217,6 +217,8 @@ Five different operators run from Camden Lock, and they are genuinely different 
 4. **The towpath:** West along the **Regent's Canal** past the zoo's old aviary structure.
 5. **Primrose Hill:** Up for the skyline panorama.
 6. **Finish:** A pub in **Primrose Hill village**, or back down for the Northern line.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="camden-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

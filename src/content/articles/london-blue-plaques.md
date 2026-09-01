@@ -102,8 +102,6 @@ Fleming was born and grew up on this street. The plaque marks the creator of Jam
 
 Tennyson stayed here during his decades as Poet Laureate, when *The Charge of the Light Brigade* and *In Memoriam* were written.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-blue-plaques-belgravia-walk" data-gyg-partner-id="WWP7I0R" data-gyg-q="London blue plaque tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
 
 ## Bloomsbury
@@ -137,6 +135,8 @@ The two houses are now a single museum, **Handel Hendrix House**, and it is the 
 > English Heritage say **18 houses in London carry two official plaques**. This pair is on adjoining buildings rather than one, but it is the famous example.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-blue-plaques-belgravia-walk" data-gyg-partner-id="WWP7I0R" data-gyg-q="London blue plaque tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Primrose Hill and Camden
 
@@ -272,6 +272,8 @@ For the full breakdown of the schemes, the colours and the rules, see our **[gui
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-blue-plaques-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What it costs
 
 **Nothing at all.** Every plaque in this guide is on a public street and free to look at, which makes this the cheapest way to spend a day in London.
@@ -291,8 +293,6 @@ For the full breakdown of the schemes, the colours and the rules, see our **[gui
 * **New plaques go up every year.** 2025 brought Audrey Hepburn and Marc Bolan among others; the 2026 round includes the astronomer **Cecilia Payne-Gaposchkin** in Notting Hill and **Laurence Olivier** in Pimlico. Announcement and installation are not the same day, so check before travelling for a brand-new one.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-blue-plaques-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

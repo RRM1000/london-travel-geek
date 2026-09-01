@@ -87,6 +87,8 @@ Plus **Primrose Hill**, **Parliament Hill**, **Greenwich Park** and **Waterloo B
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London attraction tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Eating cheaply
 
 **£25–£35 a day eats well** if you use markets and counters.
@@ -132,8 +134,6 @@ Be honest about the three things that cost real money in London:
 Everything else — the museums, the parks, the views, the walking, the markets — is where London is genuinely generous.
 
 If you do decide to pay for one or two attractions, it is worth comparing ticket prices before you queue at the door — several come cheaper booked ahead than bought on the day.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London attraction tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ---
 

@@ -154,6 +154,8 @@ No river view, no terrace, no dining room: two small bars, a dartboard and local
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-pubs-dining-rooms-london-what-to-know" data-gyg-partner-id="WWP7I0R" data-gyg-q="London historic pub tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Extraordinary buildings, ordinary prices
 
 ### The Crosse Keys, City of London
@@ -227,6 +229,8 @@ Most of the pubs above serve food that is fine rather than the point — you are
 **The Seven Stars** in Holborn cooks a short changing menu out of a galley behind the bar that is materially better than anything else on this page, in fewer than thirty seats.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-pubs-dining-rooms-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The listed interiors
 
@@ -330,6 +334,8 @@ The Dick Turpin stories attached to it are folklore — he was born in Essex and
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-pubs-dining-rooms-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What those dates on the signs actually mean
 
 Almost every old London pub advertises a founding year, and **almost none of those years survives contact with the record**. It is worth knowing which is which before you plan a day around one.
@@ -360,11 +366,7 @@ If you want a defensible answer to "which is oldest": **The Seven Stars** has th
 * **The Grapes is very small.** Go early or midweek.
 * **Wetherspoons rules apply** at The Crosse Keys, Hamilton Hall and The Ledger Building — order at the bar or by app, no music, no table service.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-pubs-dining-rooms-london-what-to-know" data-gyg-partner-id="WWP7I0R" data-gyg-q="London historic pub tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-pubs-dining-rooms-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

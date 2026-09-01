@@ -47,8 +47,6 @@ To demonstrate the airport markup, here is how purchasing locations compare for 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="should-you-buy-sim-card-at-airport-uk-esim" data-gyg-partner-id="WWP7I0R" data-gyg-q="London eSIM data plan"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Terminal-by-terminal London airport guide
 
 If you must buy a physical SIM card immediately upon landing, here is the exact retail layout, store availability, and pricing environment across all six London airports:
@@ -117,6 +115,8 @@ Southend is a compact regional airport with limited flights.
 * **Retail Environment:** No dedicated SIM desks. Connect to free airport Wi-Fi and purchase a SIM in Central London.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="should-you-buy-sim-card-at-airport-uk-esim" data-gyg-partner-id="WWP7I0R" data-gyg-q="London eSIM data plan"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The 3 major airport SIM tourist traps
 

@@ -119,6 +119,8 @@ Modern Turkish sharing plates rather than grills: the kitchen works from Anatoli
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-turkish-restaurants-london-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tasting tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Green Lanes
 
 Nine of the twenty-seven restaurants here are on or just off this one road. If you make a single trip for Turkish food in London, make it this one — it is the Piccadilly line to Manor House or Turnpike Lane, and the restaurants run for about a mile.
@@ -189,8 +191,6 @@ A *çorbacı* is a soup house, and the format is lunchtime working food: lentil 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-turkish-restaurants-london-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tasting tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Newington Green and Stoke Newington
 
 ### 19 Numara Bos Cirrik 2, Stoke Newington
@@ -248,6 +248,8 @@ The case for this one is the **lamb ribs**, widely called Dalston's finest: fat 
 Come for the grill and **sit where you can see it** — the ocakbaşı is the room's only real decoration. Walk-in.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-turkish-restaurants-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The modern rooms
 
@@ -351,6 +353,8 @@ Its backing is different from everything else on this page: four independent gui
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-turkish-restaurants-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Also named, with less behind them
 
 Everything else carried by two or more independent guides.
@@ -376,8 +380,6 @@ Everything else carried by two or more independent guides.
 * **There is no award for this.** Three restaurants here have any judged backing. The counts measure how much critics agree, nothing more.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-turkish-restaurants-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

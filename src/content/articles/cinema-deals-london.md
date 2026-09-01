@@ -82,8 +82,6 @@ BFI at £4 is the strongest of these — a full repertory programme, no day-of-w
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cinema-deals-london-london-film-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London film locations tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The cheapest tickets in London
 
 For anyone paying per film with no membership, these are the numbers that matter.
@@ -104,6 +102,8 @@ Genesis is the cheapest standard adult ticket in London from Monday to Wednesday
 *Peckhamplex has been south London's cheap cinema for years, though the headline price has crept up — it is £6.99 plus a 60p booking fee now, not the £5.99 still painted on the board.*
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cinema-deals-london-london-film-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London film locations tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Unlimited subscriptions compared
 
@@ -184,6 +184,8 @@ It depends on how often you go, which is the only sensible way to answer it.
 **You go with someone who needs support.** The **CEA Card at £6.50** is the first thing to sort out, whatever else you do.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cinema-deals-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

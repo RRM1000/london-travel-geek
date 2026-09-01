@@ -96,8 +96,6 @@ Bloomsbury has its own share of the commemorative plaques marking where notable 
 
 *Norman Foster's roof over the Great Court, opened in 2000. No two panes of glass in it are the same shape. Photo: [rbrwr](https://www.flickr.com/photos/38411862@N00/467099756), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bloomsbury-area-guide-british-museum" data-gyg-partner-id="WWP7I0R" data-gyg-q="British Museum guided tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Key streets and micro-districts
 
 ### Great Russell Street and the museum precinct
@@ -118,6 +116,8 @@ The short run of antiquarian bookshops and print dealers between the museum and 
 ![The green front door and museum sign of the Charles Dickens Museum on Doughty Street](../../assets/articles/bloomsbury-area-guide/charles-dickens-museum.jpg)
 
 *48 Doughty Street, where Dickens wrote Oliver Twist and Nicholas Nickleby. He lived here under three years. Photo: [Matt From London](https://www.flickr.com/photos/57868312@N00/38375015794), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bloomsbury-area-guide-british-museum" data-gyg-partner-id="WWP7I0R" data-gyg-q="British Museum guided tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -166,6 +166,8 @@ The short run of antiquarian bookshops and print dealers between the museum and 
 4. **Coming in the evening.** Bloomsbury empties after work. It is a daytime area.
 5. **Missing the squares entirely.** Most visitors never walk the three minutes north, which is where the character is.
 6. **Assuming the small museums are shut.** The Foundling, Cartoon and Wellcome are all open and mostly free.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bloomsbury-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

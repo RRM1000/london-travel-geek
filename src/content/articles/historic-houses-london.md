@@ -123,8 +123,6 @@ Inside, the Great Hall with Henry's tapestries, the Haunted Gallery, the Wolsey 
 
 **Open daily 10am–5.30pm, last entry 4.30pm — but it takes occasional one-off closure days**, so check the date. The **Mantegna Gallery is closed until spring 2027**.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-palaces" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampton Court Palace tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ### Eltham Palace
 
 *From £17 booked ahead · winter opening is weekends only*
@@ -170,6 +168,8 @@ The nineteen State Rooms the King uses for official entertaining, open **only wh
 Some of the palace is behind hoardings during the reservicing works — **the White Drawing Room is closed for the whole summer opening.**
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-palaces" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampton Court Palace tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Greenwich
 
@@ -279,6 +279,8 @@ Inside: the **Thomas Arne memorial carved with the opening bars of "Rule Britann
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Still in use
 
 ### Royal Hospital Chelsea
@@ -346,6 +348,8 @@ Historic houses are the one category where London does not give everything away 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What to know
 
 * **Evensong is free** at both St Paul's and Westminster Abbey, daily, and is the cheapest way inside either.
@@ -355,8 +359,6 @@ Historic houses are the one category where London does not give everything away 
 * **The Fitzrovia Chapel and Barbican Conservatory** open limited days only. Check before travelling.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="historic-houses-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

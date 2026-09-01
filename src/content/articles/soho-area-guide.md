@@ -126,6 +126,8 @@ North–south restaurant streets, plus Ronnie Scott's and the Soho private membe
 
 *Liberty, built in the 1920s from the timbers of two Royal Navy ships. Free to walk into, and worth it for the atrium.*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="soho-guide-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Soho food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -136,8 +138,6 @@ North–south restaurant streets, plus Ronnie Scott's and the Soho private membe
 | **Barrafina** | Spanish tapas | ££ | Counter only, no bookings; go early or late |
 | **Bar Italia** | Coffee | £ | Frith Street, open since 1949 and nearly around the clock |
 | **The French House** | Historic pub | £ | Dean Street; beer served in halves by tradition |
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="soho-guide-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Soho food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there
 
@@ -176,6 +176,8 @@ North–south restaurant streets, plus Ronnie Scott's and the Soho private membe
 4. **Assuming Chinatown is expensive.** It is the cheapest good eating in Zone 1, and most places seat you quickly.
 5. **Driving or taking a cab.** Much of Soho is pedestrianised or one-way, and the Congestion Charge applies. Walk.
 6. **Missing the last Tube on a weeknight.** Night Tube runs Friday and Saturday only; other nights the last trains go around 00:30.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="soho-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

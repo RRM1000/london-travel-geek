@@ -110,6 +110,8 @@ Walk **under the Thames** through a tiled Victorian tunnel and come up on the Is
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hidden-london-what-it-costs" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hidden gems tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Courtyards and alleys
 
 ### Neal's Yard, Covent Garden
@@ -206,9 +208,9 @@ St Dunstan-in-the-East, the Kyoto Garden, Postman's Park, Leadenhall Market, the
 
 **The cheapest way to see hidden London** is to walk it. Almost everything genuinely strange here — the alleys, the ghost signs, the parish boundary markers, the buried rivers — costs nothing and is not signposted, which is rather the point.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hidden-london-what-it-costs" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hidden gems tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hidden-london-secret-places-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

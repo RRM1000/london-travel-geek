@@ -99,6 +99,8 @@ Pierre Gagnaire's London expression, on Conduit Street. The rest of sketch — t
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="special-occasion-restaurants-afternoon-tea" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sketch afternoon tea"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Closing soon
 
 ### Dinner by Heston Blumenthal, Knightsbridge
@@ -140,8 +142,6 @@ Michelin-starred simplicity on the Thames. **The terrace tables book furthest ah
 *££££ · the pink room*
 
 Afternoon tea inside an art installation. The Gallery is the photographed one; the Lecture Room upstairs is the three-star restaurant.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="special-occasion-restaurants-afternoon-tea" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sketch afternoon tea"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ### Bob Bob Ricard, Soho
 
@@ -196,6 +196,8 @@ The gap between lunch and dinner at a starred restaurant is the single biggest s
 * **Trullo** — what London chefs recommend when they are paying themselves.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="special-occasion-restaurants-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

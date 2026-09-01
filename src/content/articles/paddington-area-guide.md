@@ -90,8 +90,6 @@ Paddington has its own share of the commemorative plaques marking where notable 
 
 *Little Venice, where the Grand Union and Regent's Canal meet. The towpath to Camden starts here. Photo: [Kathleen Tyler Conklin](https://www.flickr.com/photos/79865753@N00/2122563341), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paddington-canal" data-gyg-partner-id="WWP7I0R" data-gyg-q="Regent's Canal boat trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Key streets and micro-districts
 
 ### Little Venice and Blomfield Road
@@ -113,6 +111,8 @@ South-west of the station. A dense, diverse restaurant quarter — Chinese, Midd
 ![The still water of Paddington Basin lined with modern glass office buildings](../../assets/articles/paddington-area-guide/paddington-basin.jpg)
 
 *Paddington Basin, the canal's dead end, rebuilt in glass. The rolling and fan bridges here open on schedule. Photo: [trolvag](https://commons.wikimedia.org/w/index.php?curid=56959884), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paddington-canal" data-gyg-partner-id="WWP7I0R" data-gyg-q="Regent's Canal boat trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -151,6 +151,8 @@ South-west of the station. A dense, diverse restaurant quarter — Chinese, Midd
 3. **Paying walk-up Heathrow Express fares.** Advance tickets are dramatically cheaper, and the Elizabeth line is cheaper still.
 4. **Expecting Little Venice to be near the station.** It is a 10–12 minute walk north, or one stop on the Bakerloo line to Warwick Avenue.
 5. **Judging the area by Praed Street.** The canal quarter a few minutes north is a completely different place.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="paddington-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

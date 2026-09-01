@@ -80,8 +80,6 @@ Horn OK Please and Gujarati Rasoi are the two vegetarian Indian stalls worth cro
 
 ![A cheese stall hung with French flags and stacked with whole cheeses under the iron roof of Borough Market](../../assets/articles/best-london-markets/borough-market-cheese-stall.jpg)
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Borough Market Food Tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Borough Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ### Seven Dials Market, Covent Garden
 
 *Free to enter*
@@ -128,6 +126,8 @@ The line-up is genuinely global and there is not a chain in it: **Neapolitan piz
 The **UK's largest inland fish market**, trading from around 4am a few minutes from the towers. The public can buy, and it is finished by about 8am.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Borough Market Food Tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Borough Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## One day a week
 
@@ -248,6 +248,8 @@ Worth knowing the difference before you plan a morning around one.
 * **Coal Drops Yard**, King's Cross — Heatherwick's converted coal drops, now retail.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-london-markets-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What things cost, and the free part
 

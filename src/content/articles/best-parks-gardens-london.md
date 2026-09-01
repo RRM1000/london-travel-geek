@@ -138,6 +138,8 @@ The park is in transition after a long programme of works, and the restored **Cr
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-parks-gardens-london-kew" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kew Gardens tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Small and strange
 
 ### Gunnersbury Park, Ealing/Hounslow
@@ -194,8 +196,6 @@ Three hundred acres of botanic garden with the Victorian Palm House, the Tempera
 
 *The Palm House, completed in 1848 to a design by Decimus Burton and Richard Turner - the largest glasshouse of its kind in the world when it was built.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-parks-gardens-london-kew" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kew Gardens tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ### Chelsea Physic Garden
 
 *Ticketed*
@@ -250,6 +250,8 @@ Founded by the Apothecaries in **1673 to grow medicinal plants**, and still grow
 * **Deckchairs in the royal parks** are the one thing that catches people out — they are hired, not free, and the attendant will find you.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-parks-gardens-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

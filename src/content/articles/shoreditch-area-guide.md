@@ -98,8 +98,6 @@ Shoreditch has its own share of the commemorative plaques marking where notable 
 
 *Shoreditch changes month to month. Nothing here is permanent, which is the reason to walk it more than once.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-street-art" data-gyg-partner-id="WWP7I0R" data-gyg-q="Shoreditch street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Key streets and micro-districts
 
 ### Brick Lane and the Truman Brewery
@@ -177,6 +175,8 @@ The **shops along the street are open on Sunday too** and are the reason to stay
 
 *The Truman Brewery. Brewing stopped in 1989 and the buildings now hold markets, studios and bars across both sides of Brick Lane. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2403737549), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-street-art" data-gyg-partner-id="WWP7I0R" data-gyg-q="Shoreditch street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -224,6 +224,8 @@ The **shops along the street are open on Sunday too** and are the reason to stay
 5. **Spitalfields:** South to **Old Spitalfields Market** and the Georgian streets around Fournier Street.
 6. **Finish:** A salt beef bagel at **Beigel Bake**, or a drink at The Ten Bells.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-area-guide-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Common mistakes to avoid
 
 1. **Coming on a Monday or Tuesday expecting the full picture.** Most of the markets do not run. The exceptions are worth knowing: **Old Spitalfields trades daily**, and so does the **Brick Lane Vintage Market**, which is the best reason to come midweek.
@@ -232,8 +234,6 @@ The **shops along the street are open on Sunday too** and are the reason to stay
 4. **Being pulled into a Brick Lane restaurant by a tout.** The touts are a reliable signal to keep walking.
 5. **Arriving at Columbia Road at midday.** By then it is shoulder to shoulder. Go at 08:30 or in the final hour for discounts.
 6. **Assuming Shoreditch High Street is on the Tube.** It is Overground only. Liverpool Street is the Tube option.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-area-guide-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

@@ -108,8 +108,6 @@ Notting Hill has its own share of the commemorative plaques marking where notabl
 
 *The Churchill Arms. The landlord spends a five-figure sum a year on the flowers, and there is a Thai kitchen in the back. Photo: [itwasalladream](https://www.flickr.com/photos/35635854@N08/24487430799), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-portobello" data-gyg-partner-id="WWP7I0R" data-gyg-q="Portobello Market walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Key streets and micro-districts
 
 ![Colourful houses on Lancaster Road, Notting Hill](../../assets/articles/notting-hill-area-guide/notting-hill-lancaster-road.jpg)
@@ -130,6 +128,8 @@ North of the Westway. Portuguese pastelarias, antiques at lower prices and almos
 
 ### St Luke's Mews and Lancaster Road — the photogenic streets
 Two short residential streets. Beautiful, entirely private, and permanently busy with photographers. Be considerate.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-portobello" data-gyg-partner-id="WWP7I0R" data-gyg-q="Portobello Market walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -183,6 +183,8 @@ Two short residential streets. Beautiful, entirely private, and permanently busy
 4. **Treating residential streets as a film set.** Lancaster Road and St Luke's Mews are people's homes. Shoot from the pavement.
 5. **Only walking the southern half.** Golborne Road is fifteen minutes further and a completely different, far less touristed neighbourhood.
 6. **Assuming Carnival is a normal visit.** Over the August bank holiday the area is closed to ordinary sightseeing entirely.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

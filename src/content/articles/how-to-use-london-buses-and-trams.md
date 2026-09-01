@@ -94,6 +94,8 @@ The **Hopper fare** is TfL's automatic transfer discount system for buses and tr
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="London Hop On Buses" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop On"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/s/%3Fq=London&amp;lc=57&amp;et=292175&amp;searchSource=3&amp;src=search_bar">GetYourGuide</a></span></div>
+
 ## Top 4 sightseeing bus routes for visitors
 
 Instead of booking expensive private tours, sit on the top deck at the front window of these iconic regular red TfL bus routes for just **£1.75**:
@@ -113,8 +115,6 @@ If you prefer live or multi-language audio commentary with dedicated stops right
 
 * **Private Tours:** Hop-On Hop-Off buses are private tours, not TfL public buses. They **do not accept Oyster or contactless taps**.
 * **River Cruise Included:** Most 24-hour and 48-hour passes include a free Thames river cruise ticket.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="London Hop On Buses" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop On"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/s/%3Fq=London&amp;lc=57&amp;et=292175&amp;searchSource=3&amp;src=search_bar">GetYourGuide</a></span></div>
 
 ---
 

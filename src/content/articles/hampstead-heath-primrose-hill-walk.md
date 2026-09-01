@@ -59,6 +59,8 @@ More in our [Hampstead guide](/articles/hampstead-area-guide/).
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-heath-primrose-hill-walk" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampstead walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Short walks you don't need the Tube for
 
 The Tube map is drawn for clarity rather than scale, and it makes central London look considerably bigger than it is. Learning which "stops" are actually walkable is one of the quickest upgrades to a London trip — no ticket, no waiting on a platform, and you see the city in between instead of a tunnel wall.
@@ -81,8 +83,6 @@ As a rule: if a Tube journey involves a change, it is very often faster and alwa
 * **The bathing ponds** on the Heath's east side charge a small admission for a swim, but walking past them costs nothing.
 * **Food is where you spend.** Hampstead village has the cafes; there is very little on the Heath itself beyond a couple of kiosks.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-heath-primrose-hill-walk" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampstead walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
 
 ## What to know
@@ -94,6 +94,8 @@ As a rule: if a Tube journey involves a change, it is very often faster and alwa
 * **There is no shortage of dogs.** Hampstead Heath is one of London's most popular off-lead areas.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-heath-primrose-hill-walk-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

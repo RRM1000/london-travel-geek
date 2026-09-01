@@ -60,8 +60,6 @@ This guide covers both: the ones you have heard of, and the ones worth crossing 
 
 The Rosetta Stone, the Parthenon sculptures and the Sutton Hoo helmet, under Foster's glass-roofed Great Court. Impossible to do properly in one visit — pick two galleries and accept it.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-museums-london-british-museum" data-gyg-partner-id="WWP7I0R" data-gyg-q="British Museum guided tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ### Natural History Museum, South Kensington
 
 *Free · the UK's most visited attraction*
@@ -104,6 +102,8 @@ Two thousand paintings from the 1200s to 1900 at the National, including Van Gog
 *Hintze Hall at the Natural History Museum. The blue whale replaced Dippy the diplodocus in 2017.*
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-museums-london-british-museum" data-gyg-partner-id="WWP7I0R" data-gyg-q="British Museum guided tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The best small museums
 
@@ -225,6 +225,8 @@ The free national museums are enormous and most people do them badly. These are 
 * **The gift shops and cafés are the funding.** Entry is free because of them, so buying a coffee is closer to paying admission than it looks.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-museums-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

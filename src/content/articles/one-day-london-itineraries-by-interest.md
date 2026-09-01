@@ -63,8 +63,6 @@ Lunch ten minutes off the square rather than on it. See [cheap eats](/articles/c
 
 > This is the densest walking day of the six. If you have to cut something, cut the National Gallery — it deserves better than a tired hour.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="one-day-itineraries-firsttime" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
 
 ## Theatre
@@ -86,6 +84,8 @@ Lunch ten minutes off the square rather than on it. See [cheap eats](/articles/c
 > **Buy direct from the theatre's own website.** Resellers add substantial fees, and the official day-seat and lottery schemes are only available direct. [Official London Theatre](https://officiallondontheatre.com/) lists what is on.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="one-day-itineraries-firsttime" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Museums
 
@@ -170,6 +170,8 @@ Three major museums within *five minutes of each other*, all **free**.
 * **Check market and closing days.** Borough shuts Sunday; the Abbey shuts to sightseers Sunday; several museums close one day a week.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="one-day-london-itineraries-by-interest-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

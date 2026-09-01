@@ -97,8 +97,6 @@ Battersea has its own share of the commemorative plaques marking where notable p
 
 *The view from the Chimney Lift, which takes you up inside one of the chimneys. The glass lift is the only way to the top. Photo: [amandabhslater](https://www.flickr.com/photos/15181848@N02/53077081501), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="battersea-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Battersea Power Station tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Key streets and micro-districts
 
 ![The interior of Turbine Hall A at Battersea Power Station, with its restored art deco detailing](../../assets/articles/battersea-area-guide/turbine-hall-a.jpg)
@@ -163,6 +161,8 @@ South-west past the park, and the **actual old Battersea** — low-rise, unglamo
 
 *The Peace Pagoda, given to London in 1985 by a Japanese Buddhist order. A monk still tends it. Photo: [It's No Game](https://www.flickr.com/photos/29057345@N04/8558114758), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="battersea-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Battersea Power Station tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -204,6 +204,8 @@ South-west past the park, and the **actual old Battersea** — low-rise, unglamo
 4. **Battersea Park:** West along the Thames Path to the **Peace Pagoda**.
 5. **The boating lake:** Into the park proper for the Victorian layout.
 6. **Finish:** North over **Albert Bridge** into Chelsea, ideally at dusk when it is lit.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="battersea-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

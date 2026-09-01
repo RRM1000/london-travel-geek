@@ -93,8 +93,6 @@ King's Cross has its own share of the commemorative plaques marking where notabl
 6. **St Pancras station** — George Gilbert Scott's Gothic hotel frontage and Barlow's iron trainshed, saved from demolition by John Betjeman, whose statue stands on the upper concourse.
 7. **Camley Street Natural Park** — Two acres of wetland between the canal and the railway. Free, and genuinely a surprise.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-area-guide-top-sights" data-gyg-partner-id="WWP7I0R" data-gyg-q="King's Cross walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Key streets and micro-districts
 
 ![The red-brick facade of St Pancras station](../../assets/articles/kings-cross-area-guide/st-pancras-station.jpg)
@@ -149,6 +147,8 @@ North. Ordinary London, plus Keystone Crescent — reputedly the tightest-radius
 ### Somers Town and the British Library
 West of the stations. The Library, the Francis Crick Institute and a quiet residential pocket.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-area-guide-top-sights" data-gyg-partner-id="WWP7I0R" data-gyg-q="King's Cross walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
@@ -186,6 +186,8 @@ West of the stations. The Library, the Francis Crick Institute and a quiet resid
 4. **Granary Square:** North past the fountains to **Coal Drops Yard**.
 5. **The canal:** Down the steps to the towpath and west to **St Pancras Lock**.
 6. **Finish:** **Camley Street Natural Park**, or keep walking to Camden.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

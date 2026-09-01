@@ -140,6 +140,8 @@ That heritage is the distinguishing thing: the food draws on the family's backgr
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-vegetarian-vegan-restaurants-london-what-to-know" data-gyg-partner-id="WWP7I0R" data-gyg-q="London vegan food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Best value
 
 ### Diwana Bhel Poori House, Euston
@@ -275,6 +277,8 @@ Purezza makes its own **cashew and rice-milk mozzarella** in-house rather than b
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-vegetarian-vegan-restaurants-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Modern plant-based
 
 ### Tofu Vegan, Islington
@@ -369,6 +373,8 @@ The cooking is Italian-leaning and vegetable-led, built on produce from the kitc
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-vegetarian-vegan-restaurants-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What to know
 
 * **"Vegan-friendly" and "entirely vegan" are different things.** We have marked which is which above. A restaurant with one vegan main is not the same as a kitchen built around it.
@@ -377,11 +383,7 @@ The cooking is Italian-leaning and vegetable-led, built on produce from the kitc
 * **Book Plates months ahead**, and Tofu Vegan a few weeks. Everything else here is walk-in or a few days out.
 * **Service charge** of 12.5% is discretionary and standard, though counters and market stalls generally do not add it.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-vegetarian-vegan-restaurants-london-what-to-know" data-gyg-partner-id="WWP7I0R" data-gyg-q="London vegan food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-vegetarian-vegan-restaurants-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

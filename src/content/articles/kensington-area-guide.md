@@ -92,8 +92,6 @@ Kensington has its own share of the commemorative plaques marking where notable 
 6. **Serpentine Galleries** — Two free contemporary art spaces in Kensington Gardens, with the annual summer **Pavilion** commissioned from a different architect each year.
 7. **Opera Holland Park** — Summer opera under canvas in the ruins of Holland House, cheaper and far less formal than the major houses.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-top-sights" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kensington Palace tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ![The Round Pond in Kensington Gardens at dusk, with Kensington Palace low on the horizon beyond](../../assets/articles/kensington-area-guide/kensington-gardens.jpg)
 
 *The Round Pond in Kensington Gardens, with the palace beyond it. The gardens close at dusk; Hyde Park next door does not. Photo: [Ray in Manila](https://www.flickr.com/photos/21186555@N07/27960679866), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
@@ -114,6 +112,8 @@ North towards Notting Hill. Antique dealers and the Churchill Arms at the top.
 
 ### Holland Park Avenue and Campden Hill
 Stucco terraces and garden squares between the two parks — expensive, quiet and good for walking.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-top-sights" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kensington Palace tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -165,6 +165,8 @@ Stucco terraces and garden squares between the two parks — expensive, quiet an
 4. **Arriving after dusk.** Both parks close their gates at nightfall.
 5. **Missing Leighton House.** It is ten minutes west of Holland Park and unlike anything else in London.
 6. **Doing this and South Kensington on the same afternoon.** They adjoin, but both deserve their own half day.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

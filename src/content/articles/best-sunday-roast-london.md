@@ -205,6 +205,8 @@ A classic plated roast: beef, pork or a vegetarian option, **roast potatoes, Yor
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sunday-roast-london-what-to-know" data-gyg-partner-id="WWP7I0R" data-gyg-q="London gastropub tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What the ranking does and does not tell you
 
 The Estrella Damm Top 50 Gastropubs is the only judged, dated ranking that reaches this topic. It is genuinely useful — and it is not a roast award. It ranks the pub across everything it does, every day of the week.
@@ -255,6 +257,8 @@ Time Out's number one is **The Golden Tooth** on Green Lanes — the Papi team's
 That divergence is a finding, not an error. Two serious sources looking at the same city produced almost disjoint lists — which is the argument for counting across sources rather than following one.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sunday-roast-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The roasts that are not in a pub
 
@@ -327,6 +331,8 @@ Sunday roast is one of the few London meals where price maps fairly closely onto
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sunday-roast-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Also named, with less behind them
 
 Everything else the sources carry by at least two independent sources, or by a ranked list.
@@ -359,11 +365,7 @@ Everything else the sources carry by at least two independent sources, or by a r
 * **Vegetarian roasts are now standard**, but they vary enormously. Ask before booking if it matters.
 * **A ranking is about the pub, not the plate.** Every rank on this page comes from an award that judges the whole pub — useful evidence, not a verdict on the roast.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sunday-roast-london-what-to-know" data-gyg-partner-id="WWP7I0R" data-gyg-q="London gastropub tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sunday-roast-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

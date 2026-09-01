@@ -97,8 +97,6 @@ Stratford has its own share of the commemorative plaques marking where notable p
 ### The Olympic Park (south)
 The Orbit, the London Stadium, the Aquatics Centre and East Bank, around the main waterways.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stratford-guide-orbit-slide" data-gyg-partner-id="WWP7I0R" data-gyg-q="ArcelorMittal Orbit tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ### The Olympic Park (north)
 Quieter parkland, the VeloPark, the Copper Box and the wilder river landscaping.
 
@@ -118,6 +116,8 @@ West across the canal. Artists' studios, breweries and the footbridges into the 
 ![A track cyclist banking high on the wooden boards of the Lee Valley VeloPark velodrome](../../assets/articles/stratford-area-guide/lee-valley-velopark.jpg)
 
 *The velodrome from the 2012 Games. You can book taster sessions and ride the boards yourself. Photo: [kevin.gale](https://www.flickr.com/photos/52647449@N04/23204273471), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stratford-guide-orbit-slide" data-gyg-partner-id="WWP7I0R" data-gyg-q="ArcelorMittal Orbit tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -169,6 +169,8 @@ West across the canal. Artists' studios, breweries and the footbridges into the 
 4. **Trying to avoid Westfield.** The signed route from the station goes through it.
 5. **Expecting East Bank to be complete.** It has been opening in phases; check individual venues.
 6. **Coming for old London.** There is essentially none here.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stratford-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

@@ -64,6 +64,8 @@ All of these are genuine. The difference is in the rules each one sets, and thos
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-plaques-guide-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London historical walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What the colours mean
 
 Colour generally tells you **which organisation put the plaque up**, not what it commemorates. Some colours belong almost entirely to one body; others are shared.
@@ -156,9 +158,9 @@ Nearly all are on private homes, but four addresses are open to the public as mu
 
 Prefer a guide who already knows which plaques are worth the detour and which are a dead end.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-plaques-guide-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London historical walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-plaques-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## About these numbers
 

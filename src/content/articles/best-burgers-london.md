@@ -214,6 +214,8 @@ Smash patties are loaded into **fluffy potato buns with Japanese, Korean, Thai a
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-burgers-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Thick patties, and the ones worth booking
 
 The counterweight to the smash burger: a thick, dry-aged patty cooked pink. These are restaurants that make a burger, not burger shops, and several make very few of them.
@@ -296,6 +298,8 @@ Short entries. Full detail on any of these is above where it exists.
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-burgers-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The chains, and what they are for
 
 Named by the listings sites rather than the critics — which is not a criticism, because reliability is the point of them.
@@ -320,8 +324,6 @@ Named by the listings sites rather than the critics — which is not a criticism
 * **Halal options** are limited but real: **Buk** in Camden and **Burnt Smokehouse** in Leyton are both halal and both named by critics rather than by halal listings.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-burgers-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

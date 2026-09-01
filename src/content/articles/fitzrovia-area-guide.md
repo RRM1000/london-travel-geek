@@ -133,6 +133,8 @@ The southern edge, running down to Oxford Street. Increasingly where the newer o
 ### Great Titchfield Street
 The western side, towards Great Portland Street. Small independent shops and the coffee end of the neighbourhood.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to eat and drink
 
 The point of Fitzrovia. This is a small selection — see the [full restaurant list](/articles/eat-in-london-guide/) for more.
@@ -166,8 +168,6 @@ The point of Fitzrovia. This is a small selection — see the [full restaurant l
 
 **Seventeen different cuisines sit within a ten-minute walk here** — West African, Thai, Japanese, Mexican, Greek, Spanish, Chinese, Italian, Indian, Turkish, French and more. No other central district comes close to that range in the same space.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Suggested two-hour walking route
 
 1. **Start:** Goodge Street station. South down Charlotte Street.
@@ -188,6 +188,8 @@ The point of Fitzrovia. This is a small selection — see the [full restaurant l
 5. **Booking nothing.** The best rooms here — Kitchen Table, Chishuru, Akoko — need weeks or months, not an evening.
 6. **Missing All Saints.** It is thirty seconds off Oxford Street and almost nobody goes in.
 7. **Turning up at the Fitzrovia Chapel on a weekend.** It is generally open Monday to Wednesday plus one Sunday a month, so the two days most visitors have free are the two it is most likely to be shut. Check the What's On page first.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

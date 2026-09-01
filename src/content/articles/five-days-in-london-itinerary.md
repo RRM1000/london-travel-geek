@@ -72,8 +72,6 @@ Boats run from **Westminster, Embankment and Tower** piers and take **around an 
 
 See our [Greenwich guide](/articles/greenwich-area-guide/) for the detail.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="five-days-itinerary-greenwich" data-gyg-partner-id="WWP7I0R" data-gyg-q="Greenwich highlights tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ### Getting back
 
 **Walk under the river.** The **Greenwich Foot Tunnel** beside the Cutty Sark is free, open at all hours, and comes up at Island Gardens with the best view back at Greenwich there is. From there the DLR runs north through the docks on a viaduct — sit at the front, there is no driver.
@@ -81,6 +79,8 @@ See our [Greenwich guide](/articles/greenwich-area-guide/) for the detail.
 That also puts you at [Canary Wharf](/articles/canary-wharf-area-guide/), which is now worth an hour or two rather than the twenty minutes it used to be.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="five-days-itinerary-greenwich" data-gyg-partner-id="WWP7I0R" data-gyg-q="Greenwich highlights tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Day 5: one neighbourhood, properly
 
@@ -146,6 +146,8 @@ Our view: on five days, don't. Greenwich gives you the change of scene, the rive
 6. **Doing both museum districts.** Day 3 is one of them. The other keeps.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="five-days-in-london-itinerary-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 
