@@ -46,6 +46,8 @@ Nobody plans a London trip around this until the moment they need one, and then 
 | **Greenwich Park, Lower Avenue** | 20p | Seasonal hours |
 | **Kensington Gardens, Flower Walk** | 20p | Contactless tap only |
 | **Trafalgar Square public toilets** (WC2N 5DS) | 20p | Reported to open free during large events on the square |
+| **The Jubiloo, Jubilee Gardens** | £1 | Right by the South Bank carousel and the London Eye, open daily |
+| **Parliament Street, Westminster** (exit 6 of Westminster station) | £1 | Baby change and ambulant cubicles |
 | **Islington Green, Essex Road** | 40p | ⚠️ Under construction and frequently out of order — don't rely on this one |
 | **St Paul's Cathedral, Serpentine Gallery, Barbican Centre, Angel Centre, Islington Central Library, one Borough Market toilet** | Charges apply | Amount not published by any of these venues — bring change and a card |
 
