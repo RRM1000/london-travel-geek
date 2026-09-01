@@ -123,7 +123,7 @@ A small Hoxton room mixing established acts with new ones. **Free on Thursdays**
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Comedy Shows" data-gyg-partner-id="WWP7I0R" data-gyg-q="London comedy show tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-comedy-clubs-london-london-comedy-show-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London comedy show tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where the locals actually go
 
@@ -203,7 +203,7 @@ In a brick cellar bar near Waterloo, with late shows at weekends. The room is a 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-comedy-clubs-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-comedy-clubs-london-london-theatre-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London theatre tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

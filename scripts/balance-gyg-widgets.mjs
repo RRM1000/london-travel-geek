@@ -49,8 +49,40 @@ const targets = (n) =>
   : n === 3 ? [0.33, 0.62, 0.90]
   : [0.28, 0.50, 0.72, 0.92];
 
-const GENERAL = ["London Top Attractions", "London top attractions"];
-const SECONDARY = ["London Walking Tours", "London walking tour"];
+// WHAT EACH WIDGET SEARCHES FOR lives in data/gyg-queries.json, not here.
+// The first pass filled every slot beyond the first with "London top
+// attractions" — 128 of them — which is a category search returning a vague
+// mix rather than bookable inventory. The queries are editorial decisions, so
+// they belong in data where they can be read and revised without touching
+// this script.
+const PLAN = JSON.parse(fs.readFileSync("data/gyg-queries.json", "utf8"));
+
+// A stable per-slug offset, so anchors vary across the site rather than every
+// page in a group opening with the same product. Same slug, same rotation,
+// every run — no churn in the diff.
+const seed = (s) => [...s].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
+
+/** The queries for one article, in slot order, with no repeats. */
+function queriesFor(slug, category, want) {
+  const a = PLAN.articles[slug] ?? {};
+  const group = a.anchorGroup ?? PLAN.defaultAnchorGroup[category] ?? "central";
+  const pool = PLAN.anchors[group] ?? PLAN.anchors.central;
+
+  const out = [];
+  const push = (q) => { if (q && !out.includes(q)) out.push(q); };
+
+  push(a.slot1);
+  push(a.slot2);
+  push(a.slot3);
+  push(a.slot4);
+
+  // Fill any remaining slots from the anchor pool, starting at the slug's own
+  // offset and skipping anything already used on this page.
+  for (let i = 0; out.length < want && i < pool.length; i++) {
+    push(pool[(seed(slug) + i) % pool.length]);
+  }
+  return out.slice(0, want);
+}
 
 const widget = (cmp, q) =>
   `<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" ` +
@@ -91,23 +123,19 @@ for (const file of fs.readdirSync(DIR).filter((f) => f.endsWith(".md"))) {
   }
   lines = kept;
 
+  const category = (raw.match(/^category: *"?([^"\r\n]+)/m) || [])[1]?.trim() ?? "";
   const want = wantCount(words);
 
-  // Keep the ones we have; mint any shortfall. The first widget keeps whatever
-  // specific query the post already used, because that was chosen for this
-  // subject. The last is always the general one.
-  const plan = existing.slice(0, want);
-  while (plan.length < want) {
-    const [cmp, q] = plan.length === want - 1 ? GENERAL : SECONDARY;
-    plan.push({ cmp: `${slug}-${cmp.toLowerCase().replace(/\s+/g, "-")}`, q, minted: true });
-    addedN++;
-  }
-  // If the general one is not last, make the last one general.
-  if (want > 1 && !/top attractions/i.test(plan[plan.length - 1].q)) {
-    plan[plan.length - 1] = {
-      cmp: `${slug}-${GENERAL[0].toLowerCase().replace(/\s+/g, "-")}`, q: GENERAL[1],
-    };
-  }
+  // The queries come from data/gyg-queries.json every run, so the markdown is
+  // never the source of truth for them. Editing a query there and re-running
+  // is the whole workflow; editing it in a post is undone on the next pass.
+  const qs = queriesFor(slug, category, want);
+  if (!qs.length) { rows.push(`  SKIP ${slug} — no query mapped`); continue; }
+  addedN += Math.max(0, qs.length - existing.length);
+  const plan = qs.map((q) => ({
+    cmp: `${slug}-${q.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`,
+    q,
+  }));
 
   // Safe anchors: index of each top-level heading in the body.
   const heads = [];
@@ -149,7 +177,7 @@ for (const file of fs.readdirSync(DIR).filter((f) => f.endsWith(".md"))) {
     // Insert bottom-up so earlier indices stay valid.
     for (let k = chosen.length - 1; k >= 0; k--) {
       const p = plan[k];
-      lines.splice(chosen[k], 0, p.html ?? widget(p.cmp, p.q), "");
+      lines.splice(chosen[k], 0, widget(p.cmp, p.q), "");
     }
     if (!dry) fs.writeFileSync(path, lines.join(eol));
   }

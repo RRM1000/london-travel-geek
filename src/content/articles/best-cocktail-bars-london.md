@@ -146,7 +146,7 @@ Erik Lorincz, formerly of the Savoy's American Bar, running a basement room. The
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="Cocktail Classes" data-gyg-partner-id="WWP7I0R" data-gyg-q="London cocktail making class"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cocktail-bars-london-london-cocktail-making-class" data-gyg-partner-id="WWP7I0R" data-gyg-q="London cocktail making class"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The independents
 
@@ -321,7 +321,7 @@ Some bars are simply priced below the market and do not need an offer:
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cocktail-bars-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cocktail-bars-london-london-speakeasy-bar-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London speakeasy bar tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

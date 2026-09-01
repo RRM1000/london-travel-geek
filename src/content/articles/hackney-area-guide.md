@@ -109,7 +109,7 @@ Further east on the canal. Warehouse studios, breweries and the footbridges over
 ### Clapton and the marshes
 North. Hackney Marshes — famous for its Sunday football pitches — and the River Lea navigation.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hackney-area-guide-hackney-wick" data-gyg-partner-id="WWP7I0R" data-gyg-q="East London street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hackney-area-guide-east-london-street-art-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="East London street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -161,7 +161,7 @@ North. Hackney Marshes — famous for its Sunday football pitches — and the Ri
 5. **Expecting sights.** There is no museum or monument. Come for the market, the parks and the canal.
 6. **Missing Victoria Park.** It is fifteen minutes east of Broadway Market and one of the best parks in London.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hackney-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hackney-area-guide-hackney-food-tour-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hackney food tour London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

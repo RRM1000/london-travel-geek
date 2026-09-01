@@ -141,7 +141,7 @@ Tacos, ceviche and grilled meats from the kitchen, and a long agave list at the 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-mexican-restaurants-london-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tasting tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-mexican-restaurants-london-london-mexican-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Mexican food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The taquerias
 
@@ -289,7 +289,7 @@ The **jackfruit carnitas** and the vegan **al pastor** are the orders, with sals
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-mexican-restaurants-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-mexican-restaurants-london-london-taco-cooking-class" data-gyg-partner-id="WWP7I0R" data-gyg-q="London taco cooking class"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

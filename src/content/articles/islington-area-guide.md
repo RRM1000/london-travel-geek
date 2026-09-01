@@ -128,7 +128,7 @@ Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential st
 
 *The Almeida. Three hundred and twenty-five seats, and a habit of sending its productions to the West End. Photo: [Photo: Andreas Praefcke](https://commons.wikimedia.org/w/index.php?curid=15582698), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="islington-area-guide-top-sights" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sadler's Wells dance show"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="islington-area-guide-islington-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Islington food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -185,7 +185,7 @@ Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential st
 5. **Not booking the Almeida.** 325 seats and a national reputation — it sells out.
 6. **Walking the whole of Upper Street.** It is a mile. The interesting half is the southern end.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="islington-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="islington-area-guide-sadler-s-wells-dance-show" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sadler's Wells dance show"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

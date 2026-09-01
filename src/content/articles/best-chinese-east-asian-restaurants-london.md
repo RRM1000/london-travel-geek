@@ -124,7 +124,7 @@ Walk-in, cheap, and family-run. Take the Victoria line to the end; nothing on th
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-chinese-east-asian-restaurants-london-chinatown-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Chinatown food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-chinese-east-asian-restaurants-london-london-chinatown-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Chinatown food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Regional Chinese
 
@@ -219,7 +219,7 @@ Dim sum is Chinese, so it belongs on this page — but it has enough rooms in Lo
 The short version: **A. Wong** in Victoria is the two-starred lunch and the most-cited dim sum in the city; **Royal China** in Marylebone and **Yauatcha** in Soho are the reliable mid-range rooms; **Dumplings' Legend** and **Joy King Lau** are the Chinatown standbys; and **Pearl Liang** near Paddington is the one that is worth the odd location.
 
 ---
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-chinese-east-asian-restaurants-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-chinese-east-asian-restaurants-london-dim-sum-cooking-class-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="dim sum cooking class London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The Chinatown institutions
 
@@ -315,7 +315,7 @@ Everything else the Chinese sources carry by two or more independent publication
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-chinese-east-asian-restaurants-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-chinese-east-asian-restaurants-london-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

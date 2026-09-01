@@ -175,7 +175,7 @@ The **shops along the street are open on Sunday too** and are the reason to stay
 
 *The Truman Brewery. Brewing stopped in 1989 and the buildings now hold markets, studios and bars across both sides of Brick Lane. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2403737549), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-street-art" data-gyg-partner-id="WWP7I0R" data-gyg-q="Shoreditch street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-area-guide-shoreditch-street-art-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Shoreditch street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -224,7 +224,7 @@ The **shops along the street are open on Sunday too** and are the reason to stay
 5. **Spitalfields:** South to **Old Spitalfields Market** and the Georgian streets around Fournier Street.
 6. **Finish:** A salt beef bagel at **Beigel Bake**, or a drink at The Ten Bells.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-area-guide-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-area-guide-brick-lane-curry-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Brick Lane curry tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

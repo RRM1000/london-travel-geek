@@ -152,7 +152,7 @@ South, facing the water towards Greenwich, and the quietest part to walk.
 
 *Middle Dock at sunset, with the barbecue boats out. The docks face west, so this is what the last hour of light does to them.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-top-sights" data-gyg-partner-id="WWP7I0R" data-gyg-q="Canary Wharf walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-canary-wharf-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Canary Wharf walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -216,7 +216,7 @@ South, facing the water towards Greenwich, and the quietest part to walk.
 4. **Wood Wharf:** East to the boardwalk and the water.
 5. **Finish:** DLR to **Island Gardens** and the **Greenwich Foot Tunnel**, or back on the Elizabeth line.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-emirates-air-line-cable-car-ticket" data-gyg-partner-id="WWP7I0R" data-gyg-q="Emirates Air Line cable car ticket"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

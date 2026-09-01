@@ -116,7 +116,7 @@ What is at North Greenwich: **The O2**, one of the busiest arenas in the world, 
 
 *The southern rotunda of the Greenwich Foot Tunnel, beside the Cutty Sark. The lifts run during staffed hours; the stairs are always open.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-top-sights" data-gyg-partner-id="WWP7I0R" data-gyg-q="Greenwich highlights tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-cutty-sark-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Cutty Sark tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Key streets and micro-districts
 
@@ -209,7 +209,7 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 5. **Up the hill:** Through **Greenwich Park** to the **Royal Observatory** and the view.
 6. **Finish:** The **Trafalgar Tavern** on the river, or the **Foot Tunnel** for the view back.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-greenwich-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Greenwich river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

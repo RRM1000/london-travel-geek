@@ -126,8 +126,6 @@ Savouries are properly British and properly specific: **Suffolk cured ham with p
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-afternoon-tea-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="London afternoon tea"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The grand hotels
 
 ### The Dorchester, Mayfair
@@ -186,6 +184,8 @@ Finger sandwiches, then **scones with Devonshire clotted cream** and an unusuall
 *The tea room looks over Hyde Park, which is worth the surcharge over the ones that look at a lobby. Photo: [ell brown](https://www.flickr.com/photos/39415781@N06/20826604740), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-afternoon-tea-london-london-afternoon-tea" data-gyg-partner-id="WWP7I0R" data-gyg-q="London afternoon tea"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Easier to book
 
@@ -266,7 +266,7 @@ The **egg-shaped lavatory pods** upstairs remain, and remain the second reason p
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-afternoon-tea-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-afternoon-tea-london-london-afternoon-tea-bus-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London afternoon tea bus tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Quieter, and better value
 
@@ -382,7 +382,43 @@ The most reliable value in London afternoon tea, and the rooms are the reason to
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-afternoon-tea-london-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-afternoon-tea-london-thames-afternoon-tea-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames afternoon tea cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## Afternoon tea that moves
+
+Two of them go somewhere while you eat. Both are genuinely cheaper than the grand hotels, both take ninety minutes, and both are a sightseeing trip you happen to be eating on — which is either the appeal or the objection, depending on what you came for.
+
+### On a Routemaster: the Afternoon Tea Bus Tour
+
+*From £45 adult, £37 child · 90 minutes · departs Victoria Coach Station · age 5+*
+
+**B Bakery invented this in 2013 and still runs the best-known version**, on a 1960s Routemaster with tables laid upstairs and down. It leaves **daily at 12:00, 14:30 and 17:00**, and the route is a proper sightseeing lap: Whitehall, Big Ben, Parliament, Westminster Abbey, Buckingham Palace, Hyde Park Corner, Harrods, the V&A, the Royal Albert Hall, Kensington Palace, Marble Arch, Mayfair, the Ritz, Piccadilly Circus and Trafalgar Square.
+
+The tea is a full one — finger sandwiches, pastries, cakes — with Birchall teas, coffee or hot chocolate, and bubbly as an upgrade. **Traditional, vegetarian, vegan, gluten-free and halal menus are all available**, though vegan and gluten-free carry a **£3 supplement** and every dietary requirement needs **72 hours' notice by email**. You get a souvenir cup, and a box for whatever you cannot finish.
+
+**Three things to know before you book.** It is **age 5 and over**, with no exceptions and no babies. **There is no toilet on board** for the full ninety minutes. And **VIP seating means the front row of the upper deck**, which is the view you are actually paying for — worth the upgrade if you are here for the sightseeing rather than the scones. There is a wheelchair-accessible bus; ask when booking rather than assuming.
+
+> 💷 **A live discount, while it lasts.** B Bakery is running **25% off weekdays and 15% off weekends** — codes `ONEOFF25` and `ONEOFF15` at checkout. It applies to **September tours only** and must be booked by **30 September 2026**. That takes a weekday seat to about £34.
+
+### On the Thames: the Afternoon Tea Cruise
+
+*From £50 · 90 minutes · Tower Millennium Pier · board 15:15, cruise 15:30–17:00*
+
+**City Cruises runs one sailing a day**, downstream and back from **Tower Millennium Pier** on Lower Thames Street, a few minutes from Tower Hill. Sandwiches, mini pastries and scones with clotted cream and jam, and — the detail that makes it good value — **unlimited tea and coffee** rather than the single pot you get on land.
+
+The boats have a **heated indoor saloon and an open upper deck**, so you can eat downstairs and then go up for the view, which is the right way round to do it. There is a **family ticket: two adults and one child, with a second child free.**
+
+**The seating is the thing to understand.** Tables are **fixed to the floor and pre-allocated before boarding** — you cannot move or choose them on the day, and **window tables seat two people only**, so a group of four will not get one. If the window matters, book as a pair.
+
+Vegetarian, vegan or gluten-free are all available, **but not vegan and gluten-free together**. Cancellation is free up to two hours before boarding, which is more forgiving than any hotel on this page.
+
+### Which one
+
+**The bus if you want the sightseeing**, because it covers more landmarks in ninety minutes than any walk could and you are looking at them from the top deck of a Routemaster, which is its own thing. **The boat if you want the tea**, because the food is served properly at a table that is not moving through traffic, the tea is unlimited, and you can get up and walk about.
+
+Neither will beat The Ritz or Claridge's on the tea itself. Both beat them comfortably on price, and both are far easier to book.
+
+---
 
 ## What to know
 

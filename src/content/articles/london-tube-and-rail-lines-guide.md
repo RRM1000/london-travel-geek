@@ -262,7 +262,7 @@ All 11 Tube lines are rated below. The Elizabeth line, DLR and London Overground
 
 The Circle, District, Hammersmith & City and Metropolitan lines use modern S-stock trains with walk-through carriages and air-conditioning. The deep-level lines generally use forced ventilation rather than passenger air-conditioning. Piccadilly line fleet replacement is beginning in 2026, so the train you receive will depend on the rollout.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tube-and-rail-lines-guide-london-hop-on-buses" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop on hop off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tube-and-rail-lines-guide-london-travelcard" data-gyg-partner-id="WWP7I0R" data-gyg-q="London travelcard"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## <span class="line-name line-name--elizabeth"><span aria-hidden="true" class="line-name__swatch"></span>Elizabeth line</span>
 
@@ -319,7 +319,7 @@ All London Overground trains are walk-through and air-conditioned. Several lines
 
 *A Class 710 London Overground train at Liverpool Street. Photo: [Matt Brown](https://commons.wikimedia.org/wiki/File:London_Overground_train_710113_at_Liverpool_Street.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tube-and-rail-lines-guide-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tube-and-rail-lines-guide-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Best choices for comfort
 

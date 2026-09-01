@@ -227,7 +227,7 @@ Two useful details: **you can join after the ballot has closed and still qualify
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-wimbledon-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Wimbledon Lawn Tennis Museum tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-wimbledon-lawn-tennis-museum-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Wimbledon Lawn Tennis Museum tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Route 3: The Queue
 
@@ -501,7 +501,7 @@ Blue Badge parking is free in **Car Park 6** on Church Road but must be booked i
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-wimbledon-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Wimbledon walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Route 4: Ticket Resale, once you are inside
 
@@ -603,7 +603,7 @@ Because debenture tickets carry the word "debenture" printed where the price wou
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-london-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-hampton-court-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampton Court Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Coming from abroad
 

@@ -107,7 +107,7 @@ The City of London has its own share of the commemorative plaques marking where 
 
 *The tower cluster from the south bank. Almost all of it has gone up since 2010, and Leadenhall Market sits at the foot of it.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-area-guide-st-paul-s-cathedral-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="St Paul's Cathedral tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Key streets and micro-districts
 
@@ -183,7 +183,7 @@ The north-west edge. Smithfield meat market, St Bartholomew the Great, and the B
 5. **Getting lost at Bank station.** A dozen exits across a large junction. Check which one you want before you surface.
 6. **Trying to walk to Canary Wharf.** It is much further than it looks. Take the DLR from Bank.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-area-guide-sky-garden-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sky Garden London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

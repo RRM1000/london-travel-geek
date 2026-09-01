@@ -150,7 +150,7 @@ The street called **Peckham Rye**, facing the Common, has the neighbourhood end 
 
 *Peckhamplex. Every ticket, every showing, is £6.99 - the cheapest cinema in London by a distance, and it is in the same car park as Frank's and Peckham Levels. Photo: [Rhagfyr](https://commons.wikimedia.org/w/index.php?curid=144499998), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="peckham-food" data-gyg-partner-id="WWP7I0R" data-gyg-q="South London food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="peckham-area-guide-south-london-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="South London food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -176,7 +176,7 @@ Peckham eats well and cheaply. This is a selection — see the [full restaurant 
 6. **Bellenden Road:** West for the quiet end and the sit-down restaurants.
 7. **Finish:** Dinner on Bellenden Road, or back to Rye Lane for tacos.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="peckham-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="peckham-area-guide-london-street-art-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

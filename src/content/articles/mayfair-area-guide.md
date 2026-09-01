@@ -113,7 +113,7 @@ Red-brick Victorian Gothic on Mount Street, plane trees on the square, and the q
 
 *Two blue plaques, next door to each other. Handel lived at 25 Brook Street; Jimi Hendrix lived at 23, two centuries later. Photo: [HandelandHendrix](https://commons.wikimedia.org/w/index.php?curid=150507869), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="mayfair-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Mayfair walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="mayfair-area-guide-mayfair-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Mayfair walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -164,7 +164,7 @@ Red-brick Victorian Gothic on Mount Street, plane trees on the square, and the q
 5. **Eating on Bond Street.** Walk to Shepherd Market or Mercato Mayfair instead.
 6. **Expecting evening life.** Mayfair is offices and embassies after dark. Soho is ten minutes east.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="mayfair-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="mayfair-area-guide-london-afternoon-tea" data-gyg-partner-id="WWP7I0R" data-gyg-q="London afternoon tea"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

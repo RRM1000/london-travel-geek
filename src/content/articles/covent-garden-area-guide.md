@@ -153,7 +153,7 @@ The main east–west shopping streets, with the bridge linking the Royal Opera H
 *The Lyceum on Wellington Street, home to The Lion King since 1999. Several of the West End's biggest houses are within five minutes of the Piazza.*
 The theatre spine, including the Theatre Royal Drury Lane — the oldest theatre site in continuous use in London.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Covent Garden walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-area-guide-covent-garden-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Covent Garden walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -195,7 +195,7 @@ The theatre spine, including the Theatre Royal Drury Lane — the oldest theatre
 5. **Neal's Yard:** The alley off **Short's Gardens** — look for the small blue sign.
 6. **Finish:** **Seven Dials Market** for lunch, or continue west into Soho.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-area-guide-london-theatre-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London theatre tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

@@ -87,7 +87,7 @@ The **Piccadilly line** (dark blue line) is London's classic Underground route t
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="London Hop On Buses" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Heathrow"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/heathrow-airport-l34745/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-heathrow-express-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Heathrow Express tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 3. Heathrow Express (Non-Stop to Paddington)
 

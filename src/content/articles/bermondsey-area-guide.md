@@ -125,7 +125,7 @@ The Friday antiques market, a cinema and a hotel, at the southern end of Bermond
 
 *The Fashion and Textile Museum, painted orange and pink by the Mexican architect Ricardo Legorreta. Impossible to walk past. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3612012652), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bermondsey-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bermondsey food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bermondsey-area-guide-bermondsey-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bermondsey food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -177,7 +177,7 @@ The Friday antiques market, a cinema and a hotel, at the southern end of Bermond
 5. **Missing Shad Thames.** The gantried warehouse street east of Tower Bridge is the best-looking part of the area.
 6. **Turning up to the antiques market at 10am.** The trade is done by eight.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bermondsey-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bermondsey-area-guide-bermondsey-beer-mile-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bermondsey Beer Mile tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

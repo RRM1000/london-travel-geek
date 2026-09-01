@@ -140,7 +140,7 @@ For almost all visitors, pay-as-you-go using a contactless card or Oyster card i
 
 > **Avoid 1-Day Paper Travelcards:** Paper 1-Day Travelcards are still sold at station ticket machines, but they carry a heavy physical paper surcharge (£16.60 to £23.60 per day) compared to the £8.90 to £16.30 contactless daily caps above. Always tap with contactless or an Oyster card for daily travel. Note that all Travelcard prices and capping thresholds remain frozen under current TfL policy through March 2027.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="413135" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-public-transport-costs-and-fares-london-travelcard" data-gyg-partner-id="WWP7I0R" data-gyg-q="London travelcard"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Bus and tram prices
 
@@ -238,7 +238,7 @@ An adult **River Roamer 1-Day Hop-on Hop-off Pass** (unlimited river travel for 
 
 For pier maps, recommended scenic river routes, and commuter tips, read our [Complete Guide to London River Boats](/articles/how-to-use-london-river-boats/).
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-public-transport-costs-and-fares-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-public-transport-costs-and-fares-london-hop-on-hop-off-bus" data-gyg-partner-id="WWP7I0R" data-gyg-q="London hop-on hop-off bus"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## London Cable Car prices
 
@@ -334,7 +334,7 @@ London offers exceptionally generous discounts for families travelling with chil
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-public-transport-costs-and-fares-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-public-transport-costs-and-fares-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Penalty fares and incomplete journeys
 

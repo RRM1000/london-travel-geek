@@ -134,7 +134,7 @@ South-west of the Abbey. Offices and shops rather than sights, but the Cathedral
 ### Millbank and the Thames path
 South along the river towards Tate Britain, and the quietest walk in the area.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-area-guide-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -184,7 +184,7 @@ South along the river towards Tate Britain, and the quietest walk in the area.
 5. **Eating beside Westminster Bridge.** The restaurants immediately around the bridge are the worst value in central London. Walk to Regency Cafe or head north.
 6. **Taking the Tube one stop to Waterloo.** Walking across the bridge takes ten minutes and is the better experience.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-area-guide-houses-of-parliament-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Houses of Parliament tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

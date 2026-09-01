@@ -161,7 +161,7 @@ South-west past the park, and the **actual old Battersea** — low-rise, unglamo
 
 *The Peace Pagoda, given to London in 1985 by a Japanese Buddhist order. A monk still tends it. Photo: [It's No Game](https://www.flickr.com/photos/29057345@N04/8558114758), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="battersea-area-guide" data-gyg-partner-id="WWP7I0R" data-gyg-q="Battersea Power Station tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="battersea-area-guide-battersea-power-station-lift-109-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Battersea Power Station Lift 109 tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -205,7 +205,7 @@ South-west past the park, and the **actual old Battersea** — low-rise, unglamo
 5. **The boating lake:** Into the park proper for the Victorian layout.
 6. **Finish:** North over **Albert Bridge** into Chelsea, ideally at dusk when it is lit.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="battersea-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="battersea-area-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

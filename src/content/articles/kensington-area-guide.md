@@ -113,7 +113,7 @@ North towards Notting Hill. Antique dealers and the Churchill Arms at the top.
 ### Holland Park Avenue and Campden Hill
 Stucco terraces and garden squares between the two parks — expensive, quiet and good for walking.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-top-sights" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kensington Palace tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-kensington-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kensington Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -166,7 +166,7 @@ Stucco terraces and garden squares between the two parks — expensive, quiet an
 5. **Missing Leighton House.** It is ten minutes west of Holland Park and unlike anything else in London.
 6. **Doing this and South Kensington on the same afternoon.** They adjoin, but both deserve their own half day.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-london-top-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-royal-albert-hall-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Royal Albert Hall tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 
