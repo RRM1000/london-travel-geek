@@ -45,6 +45,7 @@ Nobody plans a London trip around this until the moment they need one, and then 
 | **Cutty Sark Gardens, Greenwich** | 50p | **Free for RADAR key holders** |
 | **Greenwich Park, Lower Avenue** | 20p | Seasonal hours |
 | **Kensington Gardens, Flower Walk** | 20p | Contactless tap only |
+| **Trafalgar Square public toilets** (WC2N 5DS) | 20p | Reported to open free during large events on the square |
 | **Islington Green, Essex Road** | 40p | ⚠️ Under construction and frequently out of order — don't rely on this one |
 | **St Paul's Cathedral, Serpentine Gallery, Barbican Centre, Angel Centre, Islington Central Library, one Borough Market toilet** | Charges apply | Amount not published by any of these venues — bring change and a card |
 
@@ -59,7 +60,6 @@ Nobody plans a London trip around this until the moment they need one, and then 
 Pulled from the same database, filtered to active listings only. This isn't every free toilet in London — it's the ones worth knowing about.
 
 **Trafalgar Square &amp; the West End**
-- **Trafalgar Square public toilets** (WC2N 5DS) — the turnstiles reportedly open free during large events on the square
 - **National Gallery** and **National Portrait Gallery** — free with general admission, no ticket needed for the toilets themselves
 - **Leicester Square** — below-ground block, open 8am–midnight, steps only, no accessible option
 - **Charing Cross Library** — ground floor only
