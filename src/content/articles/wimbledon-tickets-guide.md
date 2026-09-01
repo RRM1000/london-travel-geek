@@ -3,7 +3,7 @@ title: "How to Get Wimbledon Tickets: The Ballot, The Queue and Every Other Way 
 seoTitle: "Wimbledon Tickets 2027: Ballot Dates, The Queue, Prices"
 description: "Every legitimate route into Wimbledon: the public ballot and when it opens, exactly how The Queue works and when to arrive, the in-grounds Ticket Resale, and what to do if you are coming from abroad."
 publishedAt: 2026-08-29
-updatedAt: 2026-08-29
+updatedAt: 2026-09-01
 sites:
   - london
 canonicalSite: london
@@ -29,7 +29,7 @@ faq:
   - q: "What time do you need to queue at Wimbledon to get Centre Court tickets?"
     a: "You effectively need to camp overnight. Wristbands are issued from 7.30am to the front of the Queue in exactly the number of tickets available — 500 for Centre Court on the first ten days — and by then thousands of people have already been there since the previous afternoon. The first Tube does not reach Southfields until about 05:16, so arriving by train on the day is a Grounds Pass plan, not a Centre Court one."
   - q: "Can you buy a Wimbledon Grounds Pass in advance?"
-    a: "No. The AELTC's own wording is that a Grounds Pass is 'only able to be purchased via The Queue'. It is not sold online, it cannot be booked ahead, and it is not part of the Public Ballot, which allocates Show Court tickets only — Centre, No.1, No.2 or No.3 Court. If you want the cheapest way in, from £21, queueing on the day is the only route."
+    a: "No. The AELTC's own wording is that a Grounds Pass is 'only able to be purchased via The Queue'. It is not sold online, it cannot be booked ahead, and it is not part of the Public Ballot, which allocates Show Court tickets only — Centre, No.1, No.2 or No.3 Court. If you want the cheapest way in, from £22, queueing on the day is the only route."
   - q: "How many tickets are sold through the Wimbledon Queue each day?"
     a: "500 tickets each for Centre Court, No.1 Court and No.2 Court, plus several thousand Grounds Passes. Centre Court and No.2 Court tickets are only sold through the Queue on the first ten days. No.1 Court tickets are sold every day of the event, and there are no Centre Court tickets in the Queue for the last four days."
   - q: "Can you leave the Wimbledon queue once you have a queue card?"
@@ -39,7 +39,7 @@ faq:
   - q: "Can you go to Wimbledon in the evening, and is it easier to get in?"
     a: "Yes, and it is much easier. Once the Grounds reach capacity the Queue switches to one out, one in, so arriving from about 4pm usually means a short wait rather than a six-hour one. Ticket sales run until 8pm, Ticket Resale until 9pm, and play can continue until the 11pm curfew because Centre Court and No.1 Court both have roofs and floodlights. There is no evening discount — a Grounds Pass costs the same whenever you buy it — so what you save is the wait, not money."
   - q: "How does the Wimbledon Ticket Resale work?"
-    a: "Show Court ticket holders scan out when they leave for the day and their seats are resold from 3pm. You join a virtual queue in the Wimbledon app and, if you are selected, get a text with instructions. Tickets are £15 for Centre Court and £10 for No.1 and No.2 Court, and all proceeds net of VAT go to the Wimbledon Foundation. Join the virtual queue as early in the day as you can."
+    a: "Show Court ticket holders scan out when they leave for the day and their seats are resold from 3pm. You join a virtual queue in the Wimbledon app and, if you are selected, get a text with instructions. Tickets were £15 for Centre Court and £10 for No.1 and No.2 Court in 2026; the AELTC sets the resale price for each Championships and has not published a 2027 figure. All proceeds net of VAT go to the Wimbledon Foundation. Join the virtual queue as early in the day as you can."
   - q: "Is it legal to buy Wimbledon tickets on resale sites?"
     a: "Almost never. Every Wimbledon ticket except a debenture ticket is strictly non-transferable, and any ticket advertised or offered for sale is void — it will not get you in, and you will not get your money back. Debenture tickets, which have the word 'debenture' printed where the price would be, are the one exception and can legally be sold on."
 heroImage: "../../assets/articles/wimbledon-tickets-guide/wimbledon-outside-court.jpg"
@@ -52,7 +52,7 @@ There are a small number of legitimate ways in, and the All England Club control
 
 **The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.** Of the two advance ballots for those tickets, one has already gone: the **LTA opt-in closed at 23:59 on 31 August 2026**. The free **AELTC Public Ballot** is the one still to come, and it opens in early September.
 
-> 💡 **The Short Version:** Enter the **AELTC Public Ballot** — it is free, open to anyone in the world, and opens in **early September**. There is also a **second, separate LTA draw that anyone over 18 can enter for £25 a year**, and you can enter both — but for 2027 **its opt-in closed on 31 August 2026**, so joining now is a plan for 2028. Win that one and **you choose your day and court**, which the public ballot never lets you do. If you miss both, **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £21**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
+> 💡 **The Short Version:** Enter the **AELTC Public Ballot** — it is free, open to anyone in the world, and opens in **early September**. There is also a **second, separate LTA draw that anyone over 18 can enter for £25 a year**, and you can enter both — but for 2027 **its opt-in closed on 31 August 2026**, so joining now is a plan for 2028. Win that one and **you choose your day and court**, which the public ballot never lets you do. If you miss both, **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £22**. Once inside, **Ticket Resale** from **3pm** puts Centre Court seats on sale for **£15**. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
 
 ---
 
@@ -105,19 +105,21 @@ Two smaller slices are documented. In 2026 the AELTC's **Family Ballot** gave ti
 
 ## What a ticket costs
 
-These are the 2026 prices as published by the AELTC. They are the same whichever route you buy through — ballot, LTA or the Queue — so expect 2027 to land close to them.
+**These are the 2027 prices, published by the AELTC.** They are the same whichever route you buy through — ballot, LTA or the Queue.
 
 | | Days 1–2 | Days 3–4 | Days 5–6 | Days 7–8 | Days 9–10 | Day 11 | Day 12 | Days 13–14 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Centre Court** rows A–T | £115 | £135 | £175 | £220 | £255 | £300 | £300 | £350 |
-| **Centre Court** rows U–Z | £105 | £120 | £160 | £195 | £225 | £265 | £265 | £305 |
-| **Centre Court** rows ZA–ZF | £80 | £100 | £125 | £155 | £180 | £215 | £215 | £245 |
-| **No.1 Court** rows A–Q | £100 | £125 | £160 | £200 | £235 | £110 | £110 | £65 |
-| **No.1 Court** rows R–W | £90 | £110 | £145 | £170 | £210 | £100 | £100 | £55 |
-| **No.1 Court** rows X–ZC | £70 | £90 | £115 | £140 | £170 | £70 | £70 | £40 |
-| **No.2 Court** | £55 | £70 | £90 | £105 | £55 | — | — | — |
-| **No.3 Court** | £55 | £70 | £90 | £70 | — | — | — | — |
-| **Grounds Pass** | £33 | £33 | £33 | £33 | £26 | £26 | £21 | £21 |
+| **Centre Court** rows A–T | £130 | £155 | £200 | £250 | £295 | £345 | £345 | £400 |
+| **Centre Court** rows U–Z | £115 | £130 | £170 | £210 | £240 | £285 | £285 | £325 |
+| **Centre Court** rows ZA–ZF | £85 | £105 | £130 | £165 | £190 | £225 | £225 | £255 |
+| **No.1 Court** rows A–Q | £115 | £145 | £185 | £230 | £270 | £125 | £125 | £75 |
+| **No.1 Court** rows R–W | £95 | £120 | £155 | £185 | £225 | £105 | £105 | £60 |
+| **No.1 Court** rows X–ZC | £75 | £95 | £120 | £145 | £180 | £75 | £75 | £40 |
+| **No.2 Court** | £60 | £75 | £95 | £110 | £55 | — | — | — |
+| **No.3 Court** | £60 | £75 | £95 | £70 | — | — | — | — |
+| **Grounds Pass** | £35 | £35 | £35 | £35 | £27 | £27 | £22 | £22 |
+
+**Prices rose across the board on 2026**, by roughly 13 per cent on Centre Court and by £2 on the cheapest Grounds Pass. Note what happens to **No.1 Court from day 11**: once the singles semi-finals move to Centre, a No.1 Court seat drops from £270 to £125 and then to £75. Those are the three cheapest Show Court days of the fortnight, and they are the ones people overlook.
 
 **No.3 Court** tickets come from the ballot only. You cannot buy one in the Queue.
 
@@ -250,7 +252,7 @@ A **Grounds Pass** gets you into the Grounds and every outside court: unreserved
 
 ### What it costs
 
-Queue prices are the same as every other route — see [what a ticket costs](#what-a-ticket-costs) above. A Grounds Pass is **£33** for the first eight days, **£26** for days 9 to 11 and **£21** for the last three.
+Queue prices are the same as every other route — see [what a ticket costs](#what-a-ticket-costs) above. A Grounds Pass is **£35** for the first eight days, **£27** for days 9 to 11 and **£22** for the last three.
 
 Tickets are **one per person**, **non-transferable**, and **card only** — no cash at the sales structure.
 
@@ -383,11 +385,11 @@ Play on the outside courts runs into the evening, and both **Centre Court and No
 
 With a Grounds Pass you watch that on the **big screen on The Hill**, by which point the crowds have thinned and the food queues have gone.
 
-> 💡 **And you can still get a Show Court seat.** Ticket Resale runs to **9pm** and registration is open from 10am, so a late Grounds Pass does not lock you out of it. A 4pm arrival, a £21–£33 Grounds Pass and a £15 resale seat is the cheapest realistic route onto Centre Court that exists.
+> 💡 **And you can still get a Show Court seat.** Ticket Resale runs to **9pm** and registration is open from 10am, so a late Grounds Pass does not lock you out of it. A 4pm arrival, a £22–£35 Grounds Pass and a £15 resale seat is the cheapest realistic route onto Centre Court that exists.
 
 **The trade-offs:**
 
-- **There is no evening discount.** A Grounds Pass costs the same at 4pm as at 8am — £33 in the first week, dropping to £21 for the last three days. Only Qualifying has a cut-price late ticket. What you save is the six-hour wait, not money.
+- **There is no evening discount.** A Grounds Pass costs the same at 4pm as at 8am — £35 in the first week, dropping to £22 for the last three days. Only Qualifying has a cut-price late ticket. What you save is the six-hour wait, not money.
 - **You will miss the day's early matches**, and some outside courts will already have finished.
 - **Food outlets and shops wind down**, and if play ends early there may be little left to watch.
 - **On a rain-hit day this backfires** — play may be abandoned before you get in, and tickets bought after 5pm are not eligible for a curtailment refund.
@@ -597,7 +599,7 @@ Indicative 2027 Centre Court prices from an established broker, **sold as pairs*
 | Sat 10 July | **Ladies' Final** | £6,880 |
 | Sun 11 July | **Men's Final** | **£23,350** |
 
-> 💡 **Hold those numbers against the ballot.** The cheapest Centre Court debenture pair on that list works out at about **£2,955 a head** for a second-round day. The ballot price for a first-week Centre Court seat is **£115**. The debenture market is roughly **26 times face value**.
+> 💡 **Hold those numbers against the ballot.** The cheapest Centre Court debenture pair on that list works out at about **£2,955 a head** for a second-round day. The 2027 ballot price for the best Centre Court seats on that same day is **£155**. The debenture market is roughly **nineteen times face value**.
 
 Because debenture tickets carry the word "debenture" printed where the price would normally be, they are the one thing on the resale market that is genuinely transferable. That is exactly why unofficial sites like to imply everything they sell is a debenture ticket. Check the ticket, not the claim.
 
@@ -610,7 +612,7 @@ Because debenture tickets carry the word "debenture" printed where the price wou
 Wimbledon no longer runs a separate overseas process. The catch is timing: the decisive moment is **ten months before the tournament**.
 
 1. **Enter the Public Ballot.** The application period is explicitly the same "for all guests, including those from overseas". It is online, it is free, and it needs nothing more than a myWimbledon account and a permanent home address. Do it in September 2026 for the 2027 Championships.
-2. **The Queue works for visitors exactly as well as it does for locals.** Anyone can join it — no residency, membership or prior registration required. A **£33 Grounds Pass plus a £15 Ticket Resale seat** is a realistic plan for Centre Court at £48 all-in.
+2. **The Queue works for visitors exactly as well as it does for locals.** Anyone can join it — no residency, membership or prior registration required. A **£35 Grounds Pass plus a £15 Ticket Resale seat** is a realistic plan for Centre Court at £50 all-in.
 3. **The LTA ballot is a grey area.** Its terms set no residency requirement, and the sign-up form asks for no address or country at all — but the LTA reserves the right to verify a participant's place of residence, and the detailed rules for the 2027 ballots have not been published yet. If you live abroad and are considering paying £25 for it, ask the LTA before you join rather than after.
 4. **If you want certainty, Newmarket Holidays is the cheap end of it** — a reserved No.1 Court seat plus a hotel from **£348pp**, against £1,395 plus VAT for the cheapest hospitality package.
 5. **Bring photo ID.** You are asked to bring photo identification on the day — a passport, driving licence or travelcard showing your address.
