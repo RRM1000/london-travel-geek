@@ -36,10 +36,7 @@ That is the problem with picking a cabaret night here. This is a form that runs 
 
 > 💡 **The Short Version:** **Bethnal Green Working Men's Club** is the one to go to first, because its owners intend to sell it. **Crazy Coqs** is the best-looking room in London. **Underbelly Boulevard** has the most acts. **The Royal Vauxhall Tavern** is £8 and **CellarDoor is free.** **The London Cabaret Club** is the full dinner-show production. And **the entire Proud operation and The Glory have closed** — do not let an old listicle send you to either.
 
-> 📊 **How this guide is put together**
-> This is **not a consensus ranking** like our restaurant guides. There is no award for cabaret and the editorial lists go stale within months, so ranking would be the wrong tool.
-> Instead **every venue below was checked against its own website or ticketing system**, and the ones that have closed are listed by name rather than quietly dropped — because those are exactly the ones people search for. Where a venue does not publish a price, an age limit or an access statement, this guide says so rather than guessing.
-> *Status checked 1 September 2026 · [How we rank →](/how-we-rank/)*
+*Every venue status-checked against its own website on 1 September 2026.*
 
 ---
 

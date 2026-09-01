@@ -34,9 +34,7 @@ Agencies deliberately issue more tickets than there are seats, because a proport
 
 > 💡 **The Short Version:** Tickets are free from **five agencies** — the BBC, SRO Audiences, Applause Store, Lost in TV and Standing Room Only. They are **over-issued on purpose**, so entry is first come, first served and **a ticket is a place in a queue**. Wristbands are numbered in arrival order, so **arriving early is the whole game**. Expect **three to four hours** for a half-hour show, **18+** at most studios, **photo ID**, and **no food, drink or large bags** past security.
 
-> 📊 **How this guide is put together**
-> The mechanics here come from an **actual issued ticket** — a Graham Norton Show recording at Television Centre — read alongside each agency's own site, rather than from other guides. Where a rule is quoted, it is that show's rule, and the specifics vary by production.
-> *Checked 1 September 2026 · [How we rank →](/how-we-rank/)*
+*Checked against an issued ticket and each agency's own site, 1 September 2026.*
 
 ---
 

@@ -34,10 +34,7 @@ That is the actual problem with picking one. Every other guide to this subject i
 
 > 💡 **The Short Version:** **Bridge Command** is the most genuinely interactive thing in London — you crew a starship with a real job. **Mamma Mia! The Party** is the big night out. **Faulty Towers** is the funniest and you cannot hide from it. **Frameless** is the one for people who hate being spoken to. **Outernet is free.** And **Jeff Wayne's War of the Worlds, Vikings and the Gunpowder Plot have all closed** — do not let an old listicle send you there.
 
-> 📊 **How this guide is put together**
-> This is **not a consensus ranking** like our restaurant guides. There is no award for immersive theatre and the editorial lists go stale within months, so ranking would be the wrong tool.
-> Instead **every experience below was checked against its own website**, and the ones that have closed are listed by name with their closing dates rather than quietly dropped — because those are exactly the ones people search for.
-> *Status checked 1 September 2026 · [How we rank →](/how-we-rank/)*
+*Every experience status-checked against its own website on 1 September 2026.*
 
 ---
 
