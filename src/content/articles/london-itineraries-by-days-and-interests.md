@@ -72,7 +72,7 @@ These are the ones that hold a plan together when it meets reality.
 - **Group by neighbourhood, not by landmark.** The single highest-value rule here.
 - **One timed attraction per half-day at most.** Two anchors in an afternoon means watching a clock instead of a city.
 - **Treat meals as part of the itinerary**, not an interruption. Ten minutes' walk from any major sight halves the price and improves the food.
-- **Check closing days.** Borough Market shuts Sunday, Westminster Abbey closes to sightseers Sunday, and several museums close one day a week.
+- **Check closing days.** Borough Market shuts Monday, Westminster Abbey closes to sightseers Sunday, and several museums close one day a week.
 - **Build a wet-weather alternative** for each day. See [London in the rain](/articles/london-in-the-rain/).
 - **Leave one hour a day genuinely empty.** It is what absorbs a delayed train or a longer queue.
 - **Allow more time than the journey planner says** if you are travelling with children, luggage or a step-free route.

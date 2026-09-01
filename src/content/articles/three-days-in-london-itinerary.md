@@ -97,7 +97,7 @@ If you would rather drink than watch, our [cocktail bars guide](/articles/best-c
 
 ### Lunch
 
-**Borough Market**, *about 15 minutes* along the south bank. Closed Sundays and quietest early. See our [markets guide](/articles/best-london-markets/) for what to actually eat there.
+**Borough Market**, *about 15 minutes* along the south bank. Closed Mondays and quietest early. See our [markets guide](/articles/best-london-markets/) for what to actually eat there.
 
 ### Afternoon
 

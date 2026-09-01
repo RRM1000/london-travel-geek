@@ -141,7 +141,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 *About 3 miles, and it lives or dies on market days.*
 
-**Morning.** **Borough Market** — **closed Sundays**, and much better before 11am. Plan three or four stalls rather than grazing at random. See our [markets guide](/articles/best-london-markets/).
+**Morning.** **Borough Market** — **closed Mondays**, and much better before 11am. It opens 10am Tuesday to Friday, 9am on Saturday and 10am to 4pm on Sunday. Plan three or four stalls rather than grazing at random. See our [markets guide](/articles/best-london-markets/).
 
 **Midday.** Walk north across the river into the **City**, then east to **Spitalfields** — *about 30 minutes*, or a short Tube hop. Coffee or a bakery stop on the way; the [coffee](/articles/best-coffee-london/) and [bakeries](/articles/best-bakeries-london/) guides both cover this ground.
 
@@ -149,7 +149,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **Evening.** A booked dinner. Our [restaurant guides](/articles/eat-in-london-guide/) cover every cuisine; [cheap eats](/articles/cheap-eats-london/) if the market has already done the damage.
 
-> **Sunday changes everything.** Borough is shut but Brick Lane, Columbia Road and Spitalfields are all at full stretch. Build the day around whichever is running.
+> **Monday is the day to avoid.** Borough is shut, and it is the one market this plan is built on. **Sunday is the best day for it** — Borough trades until 4pm, and Brick Lane, Columbia Road and Spitalfields are all at full stretch at the same time.
 
 ---
 
@@ -303,7 +303,7 @@ Three major museums within *five minutes of each other*, all **free**.
 * **Book the timed things before you arrive** — the Tower, the Abbey, any show, Horizon 22.
 * **Eat ten minutes from the sight, not next to it.**
 * **Most of the museums are free.** The British Museum, National Gallery, Tate Modern, V&A, Natural History Museum, Science Museum and British Library all cost nothing to enter.
-* **Check market and closing days.** Borough shuts Sunday; the Abbey shuts to sightseers Sunday; several museums close one day a week.
+* **Check market and closing days.** Borough shuts Monday; the Abbey shuts to sightseers Sunday; several museums close one day a week.
 
 ---
 
