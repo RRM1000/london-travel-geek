@@ -3718,6 +3718,15 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       type: "editorial",
     },
     {
+      name: "Moulin Rouge! The Musical",
+      area: "Piccadilly",
+      price: "£££",
+      station: "Piccadilly Circus",
+      latitude: 51.51060,
+      longitude: -0.13450,
+      type: "editorial",
+    },
+    {
       name: "LUMINISCENCE, Westminster Cathedral",
       area: "Victoria",
       price: "££",

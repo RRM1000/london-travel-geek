@@ -1,0 +1,94 @@
+{
+  "purpose": "Known dates on which facts on this site go stale, and the pages each one affects. scripts/audit-freshness.mjs reads this and tells you what needs checking in the next few weeks, so a price change does not sit wrong on the site for months.",
+  "howToUse": "Add an entry whenever you discover something that changes on a schedule. 'month' is when the change lands. 'leadWeeks' is how far ahead you want warning. Slugs are the pages that quote the affected figures - if you write a new page that quotes them, add it here.",
+  "events": [
+    {
+      "name": "TfL fares",
+      "what": "Tube, bus, DLR and Overground fares, the daily cap and the Oyster/contactless rates. Usually announced in January and applied at the start of March.",
+      "month": 3,
+      "leadWeeks": 10,
+      "slugs": [
+        "london-public-transport-costs-and-fares",
+        "oyster-card-guide-london",
+        "getting-around-london-transport-guide",
+        "how-to-use-the-london-underground",
+        "how-to-use-london-buses-and-trams",
+        "how-to-use-london-river-boats",
+        "london-tube-and-rail-lines-guide",
+        "london-on-a-budget"
+      ]
+    },
+    {
+      "name": "Wimbledon ballot and ticket prices",
+      "what": "The public ballot opens in mid-September and closes a few weeks later. Ground pass and show court prices, the Queue rules and debenture resale detail all move each spring.",
+      "month": 9,
+      "leadWeeks": 4,
+      "slugs": ["wimbledon-tickets-guide"]
+    },
+    {
+      "name": "Hyde Park Winter Wonderland",
+      "what": "Dates confirmed and tickets released around October. Attraction prices, the circus line-up and timed-entry rules all change year to year.",
+      "month": 10,
+      "leadWeeks": 4,
+      "slugs": ["hyde-park-winter-wonderland", "christmas-in-london", "immersive-experiences-london"]
+    },
+    {
+      "name": "Christmas lights, markets and ice rinks",
+      "what": "Switch-on dates, market runs and rink seasons are announced from late September. Almost every date on the Christmas page changes annually.",
+      "month": 10,
+      "leadWeeks": 5,
+      "slugs": ["christmas-in-london", "best-london-markets", "london-with-children"]
+    },
+    {
+      "name": "Halloween and Bonfire Night",
+      "what": "Event dates, scare-attraction runs and firework displays are confirmed through September. Most displays announce ticket prices in early October.",
+      "month": 9,
+      "leadWeeks": 3,
+      "slugs": ["halloween-london", "bonfire-night-london"]
+    },
+    {
+      "name": "London Marathon ballot",
+      "what": "The ballot for the following year opens shortly after race day in April and closes within days.",
+      "month": 4,
+      "leadWeeks": 3,
+      "slugs": ["london-marathon-guide"]
+    },
+    {
+      "name": "BFI London Film Festival",
+      "what": "Programme and booking dates announced late August, festival runs in October.",
+      "month": 9,
+      "leadWeeks": 3,
+      "slugs": ["london-film-festival", "best-cinemas-london", "cinema-deals-london"]
+    },
+    {
+      "name": "Attraction admission prices",
+      "what": "Major attractions review prices in the spring. Historic Royal Palaces, the Merlin attractions and the big galleries are the ones that move most. NOTE: a temporary government VAT cut held prices down from 25 June to 1 September 2026 and expired - anything written in that window may quote the low figure.",
+      "month": 4,
+      "leadWeeks": 6,
+      "slugs": [
+        "historic-houses-london",
+        "best-museums-london",
+        "best-galleries-london",
+        "best-views-london",
+        "immersive-experiences-london",
+        "london-with-children"
+      ]
+    },
+    {
+      "name": "Immersive and cabaret shows",
+      "what": "The highest-churn category on the site. Shows close with no notice - three major ones closed in the first half of 2026. Worth a status check every quarter rather than annually.",
+      "month": 0,
+      "everyMonths": 3,
+      "leadWeeks": 2,
+      "slugs": ["immersive-experiences-london", "best-live-music-venues-london", "competitive-socialising-london"]
+    },
+    {
+      "name": "Restaurant and bar closures",
+      "what": "Food guides go stale by closure rather than by price. A quarterly sweep against the consensus corpora catches the worst of it.",
+      "month": 0,
+      "everyMonths": 3,
+      "leadWeeks": 2,
+      "slugs": ["eat-in-london-guide", "best-street-food-london", "best-london-markets", "late-night-eating-london"]
+    }
+  ]
+}

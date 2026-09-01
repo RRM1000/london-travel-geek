@@ -16,7 +16,8 @@
     "audit:corpus": "node scripts/audit-corpus.mjs",
     "audit": "npm run audit:citations && npm run audit:hub && npm run audit:overlap && npm run audit:corpus && npm run audit:sources && npm run audit:depth",
     "audit:hub": "node scripts/audit-food-hub.mjs",
-    "audit:overlap": "node scripts/audit-guide-overlap.mjs"
+    "audit:overlap": "node scripts/audit-guide-overlap.mjs",
+    "audit:fresh": "node scripts/audit-freshness.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.2.1",
