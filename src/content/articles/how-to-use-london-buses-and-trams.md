@@ -80,13 +80,17 @@ The **Hopper fare** is TfL's automatic transfer discount system for buses and tr
 
 ---
 
-## Summer 2026 Weekend Hopper Trial
+## The Weekend Hopper trial has ended
 
-> ☀️ **Summer 2026 Unlimited Weekend Hopper:**  
-> From **Saturday 25 July to Monday 31 August 2026**, TfL is running a special Weekend Hopper trial:  
-> - **£1.75 per Day:** One single £1.75 fare provides **unlimited bus and tram rides** from 04:30 Saturday to 04:29 Sunday.  
-> - **Full Weekend for £3.50:** A second £1.75 fare covers all bus rides on Sunday. The Bank Holiday Monday on 31 August is also included!  
-> - **Automatic:** Simply tap in with the same card or device; savings apply automatically.
+> ℹ️ **This offer is over.** To mark ten years of the Hopper fare, TfL ran an
+> **unlimited Weekend Hopper** from 25 July to 31 August 2026: a single £1.75
+> fare bought a whole Saturday or Sunday of bus and tram travel, so a full
+> weekend cost £3.50. It ended at 23:59 on Monday 31 August 2026 and **has not
+> been extended or made permanent**. Normal fares apply again — £1.75 a
+> journey, £5.25 daily cap, with the sixty-minute Hopper as described above.
+>
+> It is worth checking TfL nearer next summer. A trial that ran once may run
+> again, but nothing has been announced.
 
 ---
 

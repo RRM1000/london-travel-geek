@@ -179,8 +179,6 @@ It is faster and more physical than it sounds — you are on your feet the whole
 
 **There are nine tables of two — eighteen seats a performance.** That is the whole reason they vanish: not demand alone, but that the supply is tiny. **Book months ahead**, and do not count on returns appearing.
 
-**One rule catches people out:** Can Can seats must be **in place fifteen minutes before curtain up**. Arrive later and you will be seated elsewhere until the interval, or for the whole show — because nobody can walk latecomers across a set that is already in use.
-
 ![The Moulin Rouge set at the Piccadilly Theatre, a vast red and gold proscenium with the neon Moulin Rouge sign lit above the stage](../../assets/articles/immersive-experiences-london/moulin-rouge-piccadilly.jpg)
 
 *The Piccadilly Theatre dressed as the Moulin Rouge. The Can Can tables sit at the foot of that stage, inside the lit frame rather than looking at it.*
@@ -265,9 +263,9 @@ It is **not** a silent light show. There is a **live 14-piece orchestra and the 
 
 Level access through the main entrance, though there are steps into the individual chapels. A hearing loop and transcription are available on request, service animals are welcome, and there is **no strobe lighting**, though there are flashing lights. Reduced tickets for over-65s, students and disabled visitors.
 
-![A cathedral nave lit end to end by coloured projections across the vaulting, pillars and walls, with a seated audience below](../../assets/articles/immersive-experiences-london/luminiscence-westminster.jpg)
+![A cathedral nave washed deep blue by projected stained-glass patterns across every arch and the ceiling, with an audience seated below](../../assets/articles/immersive-experiences-london/luminiscence-westminster.jpg)
 
-*LUMINISCENCE. The projection covers the vaulting and the pillars as well as the walls, and the orchestra plays beneath it.*
+*LUMINISCENCE. Stained-glass patterns thrown across arches, pillars and ceiling, with the orchestra playing at the far end.*
 
 ### Lightroom: David Bowie — You're Not Alone, King's Cross
 
