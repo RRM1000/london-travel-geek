@@ -53,7 +53,15 @@ const PUBLIC = {
   Neighbourhood: "area", Zone: "zone", District: "district", Borough: "borough",
   "Area Guide": "guide", Address: "address", Postcode: "postcode",
   Lat: "lat", Lng: "lng", "Nearest Station": "station", "Walk Min": "walkMin",
-  "Price Band": "price", Deals: "deals", "Booking Lead Time": "booking",
+  "Price Band": "price", Deals: "deals",
+  // A deal tag on its own is not publishable: it loses the price, the days and
+  // the times, which is the part the reader needs and the part that goes stale.
+  // The sheet has carried Deal Detail and Deal Checked all along; the export
+  // simply never mapped them, so they never reached the site. Deal Source is
+  // new - the exact page or PDF the terms were read from.
+  "Deal Detail": "dealDetail", "Deal Checked": "dealChecked",
+  "Deal Source": "dealSource",
+  "Booking Lead Time": "booking",
   "Booking URL": "bookingUrl", Website: "website",
   Setting: "setting", "Outdoor Seating": "outdoor", Noise: "noise",
   "Good For": "goodFor", Dietary: "dietary", "Food Offer": "foodOffer",

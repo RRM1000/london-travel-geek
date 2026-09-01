@@ -24,6 +24,12 @@ export type Restaurant = {
   walkMin?: number;
   price?: string;
   deals?: string[];
+  /** Price, days and times in prose. A deal tag alone is not publishable. */
+  dealDetail?: string;
+  /** ISO date a human last read these terms off the venue's own site. */
+  dealChecked?: string;
+  /** The exact page or PDF the terms were read from. */
+  dealSource?: string;
   booking?: string;
   bookingUrl?: string;
   website?: string;
