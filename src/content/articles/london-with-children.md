@@ -54,6 +54,10 @@ All eight are free to walk into, and none of them needs booking. This is the sin
 
 The one thing to check is the day. Only Mudchute, Kentish Town and Surrey Docks open seven days a week. Hackney, Spitalfields, Stepney and Vauxhall all close on Mondays, and Freightliners closes on Tuesdays.
 
+![A brown horned ram standing in the sun beside a water trough in a grass paddock, behind a low post and wire fence](../../assets/articles/london-with-children/city-farm-sheep.jpg)
+
+*This is the whole proposition: an animal at arm's length, behind a fence a child can see over, for nothing.*
+
 ### Mudchute Park and Farm, Isle of Dogs
 
 *Free · every day 9am–4pm · Crossharbour DLR*
@@ -89,6 +93,10 @@ A compact farm sitting directly on the Thames Path at Rotherhithe, with pigs, go
 *Free · Tuesday to Sunday, 10am–4pm · Stepney Green*
 
 Four and a half acres between Stepney Green and the Mile End Road, with rare-breed livestock that are working animals rather than pets, growing beds, and craft studios on site that visitors can look into. The farm café cooks with what is grown in the beds. The Saturday farmers' market is the busiest and much the best time to come, and it is worth planning the visit around it rather than turning up midweek. **The farm and café open 10am to 4pm Tuesday to Sunday and on bank holiday Mondays; the market runs Saturdays, 10am to 3pm.** Entry is free and no booking is needed. Closed Mondays, and closest to Stepney Green on the District and Hammersmith & City lines.
+
+![A white goat with a red collar reaching through a wooden fence, with a kid climbing on a tree stump in the paddock behind](../../assets/articles/london-with-children/city-farm-goats.jpg)
+
+*Goats are on every one of the eight, and they are the reason most children stay longer than the adults expected.*
 
 ### Freightliners Farm, Islington
 
