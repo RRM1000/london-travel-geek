@@ -265,6 +265,9 @@ const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => 
           })}
         </ul>
 
+        {/* Dropped from the desktop bar for room; it belongs here, where
+            there is plenty. */}
+        <a class="mobile-menu__all" href="/guides/">Browse all guides &rarr;</a>
         <a class="button mobile-menu__cta" href="/topics/london-itineraries/">Plan your trip &rarr;</a>
       </nav>
     </div>
@@ -319,6 +322,15 @@ const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => 
     justify-content: space-between;
     gap: 1.5rem;
     min-height: 4.4rem;
+  }
+
+  /* The bar does not have to obey the article measure. Inside --page-width
+     (1216px) the logo, six sections and the search field add up to exactly
+     that - zero slack, so they touched. Reading width is set by the article
+     column, not by the chrome above it, so the header gets the wider screen
+     when there is one. */
+  .site-header__inner.container {
+    width: min(calc(100% - 2.5rem), 86rem);
   }
 
   /* The logo must never be squeezed into the nav - shrink everything else
@@ -895,9 +907,27 @@ const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => 
     text-transform: uppercase;
   }
 
+  .mobile-menu__all {
+    display: block;
+    padding: 0.9rem 0.6rem;
+    margin-top: 0.75rem;
+    border-top: 1px solid color-mix(in srgb, var(--chrome-text) 15%, transparent);
+    color: var(--chrome-text);
+    font-size: 1rem;
+    font-variation-settings: "wght" 650;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: color var(--transition);
+  }
+
+  .mobile-menu__all:hover {
+    color: var(--highlight);
+  }
+
   .mobile-menu__cta {
     width: 100%;
-    margin-top: 1.25rem;
+    margin-top: 0.75rem;
   }
 
   /* Staggered reveal on open. */
@@ -945,9 +975,13 @@ const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => 
     }
   }
 
-  /* Hand over to the burger while everything still fits comfortably -
-     the collision zone between full nav and tight nav is not worth serving. */
-  @media (max-width: 68rem) {
+  /* Hand over to the burger while everything still fits comfortably. The old
+     68rem let the full bar run at widths where it had no slack at all and the
+     logo touched the first link. With five sections rather than six, and the
+     header no longer capped at the article measure, it clears from here up
+     with real slack. Measured, not guessed: at 1130px the bar still had zero
+     spare, at 1216 it has room. */
+  @media (max-width: 76rem) {
     .main-nav,
     .header-search {
       display: none;
@@ -958,7 +992,7 @@ const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => 
     }
   }
 
-  @media (min-width: 68.01rem) {
+  @media (min-width: 76.01rem) {
     .mobile-menu {
       display: none;
     }

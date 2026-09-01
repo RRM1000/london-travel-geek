@@ -114,7 +114,11 @@ export const londonSite: SiteConfig = {
         { label: "Heathrow to London", href: "/articles/heathrow-airport-to-london/" },
       ],
     },
-    { label: "All Guides", href: "/guides/" },
+    // "All Guides" is deliberately NOT here. Six top-level items plus the
+    // logo and the search field overran the bar at every laptop width, and
+    // this was the one carrying no unique destination: every panel already
+    // ends with "All <section> guides", and the footer links it too. The
+    // mobile menu renders it explicitly, where there is room.
   ],
   footerNavigation: [
     { label: "About", href: "/#about" },
