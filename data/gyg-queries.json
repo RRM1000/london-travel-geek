@@ -550,6 +550,11 @@
       "slot1": "London cabaret show",
       "slot2": "London jazz club tour",
       "slot3": "London theatre tickets"
+    },
+    "shopping-in-london": {
+      "slot1": "London shopping tour",
+      "slot2": "Portobello Market walking tour",
+      "slot3": "Bicester Village shopping day trip"
     }
   }
 }

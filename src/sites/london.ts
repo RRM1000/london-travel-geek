@@ -41,6 +41,7 @@ export const londonSite: SiteConfig = {
         { label: "Immersive experiences", href: "/articles/immersive-experiences-london/" },
         { label: "Best live music venues", href: "/articles/best-live-music-venues-london/" },
         { label: "Best cabaret", href: "/articles/best-cabaret-london/" },
+        { label: "Shopping in London", href: "/articles/shopping-in-london/" },
         { label: "Hidden London", href: "/articles/hidden-london-secret-places/" },
         { label: "London with children", href: "/articles/london-with-children/" },
         { label: "All things to do", href: "/topics/things-to-do/" },

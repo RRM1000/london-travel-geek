@@ -249,8 +249,6 @@ Worth knowing the difference before you plan a morning around one.
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-london-markets-portobello-market-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Portobello Market walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## What things cost, and the free part
 
 Markets are the cheapest good food in London and one of the few genuinely free things to do that is not a museum.
@@ -264,6 +262,8 @@ Markets are the cheapest good food in London and one of the few genuinely free t
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-london-markets-portobello-market-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Portobello Market walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What to know
 
 * **Check the day.** Columbia Road is Sunday, Broadway Market is Saturday, Leadenhall trades on City hours, so weekdays. See our [markets by day](/markets/) page.
@@ -276,7 +276,8 @@ Markets are the cheapest good food in London and one of the few genuinely free t
 
 ## Continue planning your London trip
 
-- 🛍️ **[London Markets by Day](/markets/)**
+
+- 🛍️ **[Shopping in London](/articles/shopping-in-london/)** — the streets, stores and arcades around the markets- 🛍️ **[London Markets by Day](/markets/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🎪 **[Free Things to Do in London](/free/)**

@@ -301,7 +301,8 @@ If you do decide to pay for one or two attractions, it is worth comparing ticket
 
 ## Continue planning your London trip
 
-- 🎪 **[Free Things to Do in London](/free/)**
+
+- 🛍️ **[Shopping in London](/articles/shopping-in-london/)** — including why you cannot claim the VAT back- 🎪 **[Free Things to Do in London](/free/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 👀 **[The Best Views in London](/articles/best-views-london/)**
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
