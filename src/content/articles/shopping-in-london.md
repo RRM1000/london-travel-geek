@@ -60,7 +60,7 @@ Two things first, because both catch people out and neither is obvious.
 
 **A mile and a half, about 300 shops, and half a million people a day.** Every British high street chain has a flagship here, and if you want to see them all in one walk this is the only place to do it.
 
-**Be honest about what it is, though.** The chains are identical to the ones in every other British city and quieter everywhere else. What Oxford Street has that nowhere else does is the **department stores at the western end**:
+**Be honest about what it is, though.** The chains are identical to the ones in every other British city and quieter everywhere else. What Oxford Street has is **scale** — the flagship department stores at the western end, each the largest branch in the country:
 
 * **Selfridges** — the best of them for actual shopping. Vast, genuinely well-curated, and the food hall and Duke Street entrance are worth it alone.
 * **John Lewis** — where Londoners buy things they intend to keep. Famously price-matches.
@@ -73,6 +73,8 @@ Two things first, because both catch people out and neither is obvious.
 **The most beautiful shopping street in London**, curving from Piccadilly Circus to Oxford Circus in one continuous Nash-designed sweep — and unusually, the whole street is owned by the Crown Estate, which is why the shopfronts are coherent rather than a jumble.
 
 Mid-to-premium rather than luxury: **Liberty** just off it on Great Marlborough Street is the essential stop — a mock-Tudor building made from two ships' timbers, and the best haberdashery, fabric and scarf departments in the country. **Hamleys** for toys, seven floors of it. **Apple, Burberry, & Other Stories, Lululemon** along the street itself.
+
+![The mock-Tudor facade of Liberty on Great Marlborough Street, with shoppers outside the entrance](../../assets/articles/shopping-in-london/liberty-great-marlborough-street.jpg)
 
 **Just south**, Piccadilly has **Fortnum & Mason** (below) and **Waterstones Piccadilly**, the largest bookshop in Europe.
 
@@ -99,6 +101,10 @@ This is where Londoners actually shop, and where the guides mostly do not send y
 * **King's Road**, Chelsea — less punk, more homeware, and the Saatchi Gallery at the end is free.
 * **Broadway Market**, Hackney — Saturday.
 * **Church Street**, Marylebone — antiques, and **Alfies Antique Market**, five floors of twentieth-century design, Tuesday to Saturday.
+
+![Shoppers on a tree-lined pedestrian street in Seven Dials, with small brand shopfronts on both sides](../../assets/articles/shopping-in-london/seven-dials-shops.jpg)
+
+![The glass-roofed arcade inside Covent Garden's market building, lined with small shops](../../assets/articles/shopping-in-london/covent-garden-arcade.jpg)
 
 ### Carnaby and Soho
 
@@ -183,7 +189,10 @@ For when it is raining, or you want everything in one building.
 * **Battersea Power Station** — the newest, and worth going to for the building whether or not you buy anything. Direct on the Northern line.
 * **Coal Drops Yard**, King's Cross — small, design-led, in restored Victorian coal warehouses. The best-looking of them.
 * **One New Change**, by St Paul's — mid-market shops, but the **free roof terrace** has the best close view of the cathedral in London.
+* **Broadgate**, by Liverpool Street — shops and restaurants around a covered circle in the middle of the City's offices. Convenient if you are already there, but it works to office hours: busiest at lunchtime on a weekday and very quiet at the weekend.
 * **Brent Cross** and **Bluewater** — big, out of town, for serious volume shopping.
+
+![The covered arcade at Broadgate Central, with shops on two levels and tables on the lower walkway](../../assets/articles/shopping-in-london/broadgate-central.jpg)
 
 ---
 
