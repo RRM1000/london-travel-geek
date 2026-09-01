@@ -64,6 +64,10 @@ Surrey, next to Thorpe Park. Runs on selected dates **3 October to 1 November 20
 
 Advance tickets from **£39**; under-90cm children go free.
 
+**The choice between this and Thorpe Park is really a choice about age.** Thorpe Park's Fright Nights is a 16+ event built on scare mazes and actors who chase you; Chessington deliberately has none of that, and the theme park rides run as normal alongside the Halloween dressing. If you have children under about twelve, Chessington is the one that works and Thorpe Park is the one that ends in tears.
+
+Both are in Surrey and both are a train plus a shuttle or a walk, so neither is a quick evening out from central London — budget most of a day.
+
 ### Tulleys Farm: Shocktober Fest
 
 Crawley, West Sussex, near Gatwick. Billed as Europe's largest scream park. Open nightly from **13 October to 1 November 2026** (plus preview nights earlier in October), gates 4.30pm, haunts running 5.30pm–11.30pm.
@@ -94,6 +98,10 @@ A stage adaptation of the horror film franchise, running at the Ambassadors unti
 
 It's a popular show, so it is likely to fill up over Halloween — book early.
 
+**The closing date is the thing to watch.** Because it finishes on 7 November, the Halloween week performances are the last chance rather than the middle of a long run, and they price and sell accordingly. If you specifically want it on the 31st, that is the most contested date in the run.
+
+The Ambassadors is a small West End house, which is the right scale for this — a horror premise in a thousand-seat theatre does not work the same way.
+
 ### Stranger Things: The First Shadow, Phoenix Theatre
 
 ![Stranger Things: The First Shadow key art for the stage production at the Phoenix Theatre](../../assets/articles/halloween-london/stranger-things-first-shadow-key-art.jpg)
@@ -111,6 +119,10 @@ Performances run Tuesday to Saturday at 7pm, with matinees Friday and Saturday a
 The stage musical of the film, currently running as a **limited West End engagement** — worth checking the closing date before you book, since it may not run right through to Halloween.
 
 **Look out for Netherworld performances**, a cheaper way in: fixed pricing at **£30, £40 or £50** a ticket, rather than the usual dynamic pricing that climbs closer to the show and toward Halloween itself.
+
+That distinction is worth understanding, because it is unusual. Most West End pricing rises as a date fills, so a Halloween-week ticket bought late is the worst-value seat in the run. Netherworld performances are set at a fixed band regardless, which means they are the one part of the schedule that does not punish you for booking late — and they sell out first as a result.
+
+It is also the least frightening thing in this section by a distance: a comedy musical with a ghost in it rather than a horror show, and fine for children who would not sit through the others.
 
 ### Silence, COLAB Theatre
 
@@ -134,6 +146,8 @@ COLAB is a genuine immersive theatre company with a back catalogue of similar sh
 
 A spooky-science live show for families rather than a scare — eerie fog, pumpkins turned into light sources, and other demonstrations from the Ri's own team. Doors 6.45pm, talk from 7pm. **£16/£10 for the general theatre audience, £7 for Ri Members and Patrons.** Green Park is the nearest station, with step-free access throughout. The exact October date was not yet listed at the time of writing — check the [Royal Institution's own listing](https://www.rigb.org/whats-on/halloween-lecture) closer to the time.
 
+It is worth knowing what this is not: there are no actors, no jump scares and nothing chasing anybody. It is a demonstration lecture in the Ri's famous tiered theatre, the same room the Christmas Lectures are filmed in, pitched at families who want the season without the fright. For a child who wants to join in with Halloween but would be genuinely upset by a scare maze, it is the best thing on this page.
+
 ---
 
 ## Ghost tours
@@ -142,11 +156,19 @@ Jack the Ripper walks are a genuine London institution, not just a Halloween nov
 
 ### Jack the Ripper Walking Tour, London Walks
 
-Run by London's oldest walking-tour company for more than 50 years, and the closest thing to a definitive version. **£20**, nightly at 7:30pm plus a Saturday 3pm matinee — it runs on Halloween night itself. No need to book ahead, just turn up at **Tower Hill** station.
+Run by London's oldest walking-tour company for more than 50 years, and the closest thing to a definitive version. The guides are the draw — London Walks uses professional guides, several of them actors and historians, rather than a script handed to whoever is available.
+
+**£20, nightly at 7.30pm plus a Saturday 3pm matinee**, and it runs on Halloween night itself. **No need to book ahead — just turn up at Tower Hill station.**
+
+That last point is the practical difference between this and the Ripper-Vision walk below. This one you can decide on at six o'clock and still do; that one you cannot. If Halloween night is already busy and you want something you can slot in without committing in advance, this is the one.
 
 ### The Jack the Ripper Tour ("Ripper-Vision")
 
-A more theatrical version: the guide projects crime-scene photographs onto the actual walls where the murders happened. **£18 adult, £10 child**, running Thursday to Sunday at 5pm and 7:30pm (Monday to Wednesday, 7:30pm only) — also on the night itself. Booking is required, and it meets at **Aldgate East**. It's the highest-reviewed Ripper walk on Tripadvisor, with well over 3,000 reviews at 4.6 out of 5.
+A more theatrical version: the guide carries a projector and puts **crime-scene photographs onto the actual walls where the murders happened**, which is the gimmick and, by most accounts, an effective one.
+
+**£18 adult, £10 child** — cheaper than London Walks and the only one of the two with a child price. Thursday to Sunday at 5pm and 7.30pm, Monday to Wednesday at 7.30pm only, and it runs on the night itself. It meets at **Aldgate East** rather than Tower Hill.
+
+**Booking is required**, which is the trade-off: you get the better-reviewed walk — over 3,000 Tripadvisor reviews at 4.6 — but you have to commit in advance, and Halloween night sells out. The 5pm slot is the one people forget about, and in late October it is dark by then anyway.
 
 ### Ghost Bus Tours
 
