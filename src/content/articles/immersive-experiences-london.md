@@ -108,8 +108,6 @@ The conceit: an interdimensional travel agency portals you into **Absurd City**,
 
 **There is a Nowhere Bar**, and **adult-only After Hours nights run every other Friday, 7pm to midnight**, arriving any time between 7 and 9.30pm.
 
-> ⚠️ **Two things they have not finished.** The **accessibility guides and maps are not written yet** — the venue says so plainly and points you at the Bristol equivalents in the meantime. And the **Calm Sessions for SEND and neurodivergent visitors are deliberately being held back to 2027**, so the team can learn the building first. That is a defensible decision, honestly stated, but it means the quiet sessions are not there at opening.
-
 ### Larger Than Life: Wallace & Gromit, Lightroom — 14 October 2026 to 4 January 2027
 
 *Adults from £25, students and under-18s from £15, under-3s free in selected slots · 50 minutes · King's Cross*
