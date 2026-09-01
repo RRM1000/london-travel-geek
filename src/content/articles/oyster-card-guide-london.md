@@ -96,6 +96,8 @@ For this reason, an operator name alone is not enough. For example, a Southern t
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oyster-card-guide-london-london-travel-pass" data-gyg-partner-id="WWP7I0R" data-gyg-q="London travelcard"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## How to check a journey before travelling
 
 1. Find both stations on the [official rail and Tube map](https://content.tfl.gov.uk/london-rail-and-tube-services-map.pdf).

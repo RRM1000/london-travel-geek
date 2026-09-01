@@ -194,6 +194,8 @@ Forty-plus independents across 17,000 square feet, and the range is the reason t
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-street-food-london-street-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London street food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Markets where the food is the point
 
 Better atmosphere, worse seating, and several only exist a few days a week.
@@ -365,6 +367,8 @@ Street food turns over faster than any other part of London eating, and a lot of
 * **Take a card.** The Southbank Centre is cash-free across the whole site and most hall traders are card-only.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-street-food-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

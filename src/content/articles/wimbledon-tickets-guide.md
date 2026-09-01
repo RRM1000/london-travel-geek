@@ -227,6 +227,8 @@ Two useful details: **you can join after the ballot has closed and still qualify
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-wimbledon-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Wimbledon Lawn Tennis Museum tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Route 3: The Queue
 
 ![A large crowd waiting on the grass in Wimbledon Park during The Championships, with camping chairs, picnic blankets, queue section marker boards and a big screen in the distance](../../assets/articles/wimbledon-tickets-guide/wimbledon-queue-wimbledon-park.jpg)
@@ -663,6 +665,8 @@ Pre-purchased tickets are digital through the Wimbledon app; a small number of p
 **If it rains.** You are entitled to a **full refund if less than one hour** of play happens on your court, and **50% if between one and two hours**, calculated on the Referee's official figures rather than what you personally watched. For a Grounds Pass, play is averaged across all the courts it covers. **Resale tickets and anything bought after 5pm are excluded.** Separately, ordinary tickets can be returned for a refund up to 24 hours before the day of play — though on a ballot ticket, requesting that refund also removes you from the ballot for that year.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wimbledon-tickets-guide-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

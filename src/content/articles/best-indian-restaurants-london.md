@@ -175,6 +175,8 @@ The cooking is Punjabi and north Indian rather than the coastal food elsewhere i
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-indian-restaurants-london-brick-lane-curry-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Brick Lane food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Also strongly backed
 
 No star, but the widest agreement in the city after the section above.
@@ -463,6 +465,8 @@ Restaurants the sources back that did not earn a full entry, either because only
 </figure>
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-indian-restaurants-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

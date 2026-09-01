@@ -124,6 +124,8 @@ Walk-in, cheap, and family-run. Take the Victoria line to the end; nothing on th
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-chinese-east-asian-restaurants-london-chinatown-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Chinatown food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Regional Chinese
 
 Most of London's Chinese food is Cantonese. These kitchens are not, and the difference is the whole reason to seek them out.
@@ -321,6 +323,8 @@ Everything else the Chinese sources carry by two or more independent publication
 * **Service charge** of 12.5% is discretionary and standard.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-chinese-east-asian-restaurants-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

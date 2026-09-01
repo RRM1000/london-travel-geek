@@ -189,6 +189,8 @@ A *çorbacı* is a soup house, and the format is lunchtime working food: lentil 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-turkish-restaurants-london-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tasting tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Newington Green and Stoke Newington
 
 ### 19 Numara Bos Cirrik 2, Stoke Newington
@@ -374,6 +376,8 @@ Everything else carried by two or more independent guides.
 * **There is no award for this.** Three restaurants here have any judged backing. The counts measure how much critics agree, nothing more.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-turkish-restaurants-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

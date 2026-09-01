@@ -366,6 +366,8 @@ Bakeries are one of the few areas where the best thing in the category is also n
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-bakeries-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Planning a bakery morning
 
 **Timing is the whole game.** Pastries are laminated overnight and baked in the early morning; what is on the counter at eight is not what is there at two. Bread usually appears mid-morning. If there is one item you have come for — the honey butter toast, the cruffin, the maple challah doughnut — assume it will be gone by lunchtime at a weekend, and treat anything still available at four as a bonus rather than a plan.

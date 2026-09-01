@@ -104,6 +104,8 @@ Aged beef over coals, whole fish, and vegetables given the same treatment — le
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-spanish-restaurants-london-tapas-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London tapas tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Counters and tapas
 
 ### Barrafina

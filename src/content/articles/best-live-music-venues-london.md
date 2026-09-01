@@ -379,6 +379,8 @@ Live music in London does not have to cost £40 and a booking fee.
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-live-music-venues-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Continue planning your London trip
 
 - 🎭 **[Camden Area Guide](/articles/camden-area-guide/)**

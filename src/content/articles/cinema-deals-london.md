@@ -82,6 +82,8 @@ BFI at £4 is the strongest of these — a full repertory programme, no day-of-w
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cinema-deals-london-london-film-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London film locations tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The cheapest tickets in London
 
 For anyone paying per film with no membership, these are the numbers that matter.

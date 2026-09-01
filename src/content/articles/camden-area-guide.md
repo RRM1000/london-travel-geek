@@ -93,6 +93,8 @@ Camden has its own share of the commemorative plaques marking where notable peop
 
 *The towpath heading toward the zoo. This is the old Snowdon Aviary frame, built in 1965 - now home to the zoo's monkeys rather than its birds.*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="camden-area-guide-camden-market" data-gyg-partner-id="WWP7I0R" data-gyg-q="Camden Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Key streets and micro-districts
 
 ### Camden Lock and the canal

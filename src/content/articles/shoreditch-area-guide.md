@@ -233,6 +233,8 @@ The **shops along the street are open on Sunday too** and are the reason to stay
 5. **Arriving at Columbia Road at midday.** By then it is shoulder to shoulder. Go at 08:30 or in the final hour for discounts.
 6. **Assuming Shoreditch High Street is on the Tube.** It is Overground only. Liverpool Street is the Tube option.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-area-guide-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to stay
 
 Lively, well connected and good value against Zone 1 proper — but genuinely loud at weekends.

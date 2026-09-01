@@ -90,14 +90,83 @@ That is the actual problem with picking one. Every other guide to this subject i
 | **The London Dungeon** | Attraction | Waterloo | see below | You may be picked on |
 | **Shrek's Adventure!** | Family attraction | Waterloo | see below | Gently |
 | **Paddington Bear Experience** | Family attraction | Waterloo | £34 | Gently |
+| **Arcade Arena** | Gaming | Lambeth | £30 | **Yes — three of them** |
 | **Immersive Gamebox** | Gaming | 3 sites | £37 | Yes |
 | **Sandbox VR** | Full-body VR | Holborn | £35 | Yes |
+
+---
+
+## Opening in the next six months
+
+Worth reading before you book anything above, because four of these are big enough to change what you would choose — and one of them opens this week.
+
+### Absurd City, Westfield London — 15 October 2026
+
+*80,000 sq ft · White City · self-guided, non-linear*
+
+**The largest of them, by a distance.** Wake The Tiger — whose Bristol original coined the phrase "amazement park" — is taking the entire space that used to be KidZania and filling it with what it calls Europe's largest immersive art experience.
+
+The conceit: an interdimensional travel agency portals you into **Absurd City**, a domed metropolis in a parallel world called Meridia, run by a digital mascot named REX who would like you to know that **everything is fine**. It very obviously is not, and you can either stroll through the surreal installations and enjoy the visuals, or join an underground resistance called the Wunderground and work out what REX is actually doing. **It is non-linear and self-guided** — there is no start time you can miss and no wrong way round.
+
+**There is a Nowhere Bar**, and **adult-only After Hours nights run every other Friday, 7pm to midnight**, arriving any time between 7 and 9.30pm.
+
+> ⚠️ **Two things they have not finished.** The **accessibility guides and maps are not written yet** — the venue says so plainly and points you at the Bristol equivalents in the meantime. And the **Calm Sessions for SEND and neurodivergent visitors are deliberately being held back to 2027**, so the team can learn the building first. That is a defensible decision, honestly stated, but it means the quiet sessions are not there at opening.
+
+### Larger Than Life: Wallace & Gromit, Lightroom — 14 October 2026 to 4 January 2027
+
+*Adults from £25, students and under-18s from £15, under-3s free in selected slots · 50 minutes · King's Cross*
+
+**Aardman's 50th anniversary, on four eleven-metre walls and the floor.** It runs on a loop with no fixed beginning or end, tickets are sold in half-hour slots, and **you can stay for more than one loop** if there is room — which is the detail that makes Lightroom better value than it looks.
+
+It is not just clips. It goes from the kitchen table where Peter Lord and David Sproxton started, through the train chase in *The Wrong Trousers*, to the sets, the props and the animators at work — with new animation made for the space. Written and designed by 59 Studio, directed by Nicol Scott, made with the Aardman production team.
+
+**Access performances are already scheduled**, which is rare this far out: **five BSL showings** (29 November, 4, 7, 12 and 22 December) and **five relaxed showings** (6, 8, 15 and 21 December, and 2 January). A £2 transaction fee applies per order.
+
+### Phantom Peak, Westfield Stratford City — 4 December 2026
+
+*Adults £39.90–£65.10, under-18s £29.40–£53.55, plus 5% booking fee*
+
+**The Canada Water original closed after 625 performances, and this is the rebuild** — bigger, multi-level and, crucially, **accessible**, which the old warehouse site was not.
+
+Three districts rather than one yard: **Old Town**, the underground industrial mining town; the **Town Square**, with a Town Hall and the in-world Thirsty Frontier Saloon; and **Lakeside**, built around an indoor lake with a memorial garden and the Church of the Cosmic Platypus. You roam it freely, pick up story threads from characters, and follow whichever you like.
+
+**Two add-ons, both bought at the same time as the ticket.** The **Puzzle Hunt** is £7.88 for a 30-minute designed-by-escape-room-people hunt across the whole town. The **VIP Tourist Experience** is £20 and new for Stratford — a 30-minute pre-show where you arrive by train carriage and are met in character.
+
+**Pricing is dynamic and rises as slots fill**, so the £39.90 floor is an early-booking price rather than a walk-up one. There is a themed bar open seven days a week whether or not you have a ticket.
+
+### Secret Cinema: Pirates of the Caribbean, Greenwich Peninsula — 16 February to 25 April 2027
+
+*Standing from £49, seated from £69 · about 2 hours 15 minutes · 10 weeks only*
+
+*The Curse of the Black Pearl*, staged at Secret Cinema's Greenwich Peninsula site with live performance, stunts, a live band and cinematic-scale sets. **Ten weeks only**, five minutes' walk from North Greenwich.
+
+**The seated tier is worth understanding before you buy.** "Roam and Return" at £69 does not restrict you — you can explore exactly as standing ticket holders do, but you have a seat to go back to. For a two-and-a-quarter-hour show that is mostly on your feet, that is what the extra £20 buys.
+
+### Punchdrunk's next London production — no date
+
+Teased with no details at all. The only public sign it exists is that VIP tickets to their September film screening carry priority booking for it. If you care, that is currently the whole route in.
 
 ---
 
 ## The ones where you actually do something
 
 The distinction that matters more than genre. In these, you have a role, and standing at the back is not an option.
+
+### Arcade Arena, Lambeth
+
+*From £30 one game, £45 two, £50 all three · opens Saturday 5 September 2026*
+
+**Three separate games in one building, from the team behind The Crystal Maze Experience** — Little Lion Entertainment, who know how to build this sort of thing and have run Chaos Karts in Manchester for years.
+
+**Chaos Karts** is the proven one: real electric karts on a real track, with the whole floor and walls projected so you are racing through a game world rather than round a circuit, complete with weapons and a leaderboard. The Manchester reviews consistently reach for the same comparison, which is Mario Kart, and a session is six races rather than one.
+
+**PAC-MAN LIVE EXPERIENCE** puts you in an illuminated maze as PAC-MAN — collecting power, avoiding ghosts, against the clock, in teams. It is the first in London.
+
+**Alien Invasion** is the new one and the reason to pay attention: you join the Cosmic Cadets against an extraterrestrial threat in what is billed as **the UK's first immersive drone experience**. It debuts here.
+
+**The £50 three-game ticket is the one that makes sense** — £30 for a single game is a lot for one activity, and £50 for all three is barely more than the price of two.
+
+> ⚠️ **Book before you travel, and check the address.** It is at **26 Lambeth High Street, SE1 7SJ** — reported by Time Out rather than published by the venue, whose own site still had an empty address field four days before opening. Despite the press describing it as Southbank, that postcode is Albert Embankment: **Vauxhall and Lambeth North are your stations, not Waterloo.** Nothing on the site states an age or height limit for the London venue either, and Chaos Karts elsewhere has a minimum height — worth a phone call if you are bringing small children.
 
 ### Bridge Command, Vauxhall
 
@@ -168,6 +237,8 @@ It is faster and more physical than it sounds — you are on your feet the whole
 **9+ enforced**, under-16s need an adult, teams cap at six, and **there are no latecomers** — arrive fifteen minutes early or lose the slot. The venue states lift access to all four boards, but ring ahead if that matters.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-immersive-experiences" data-gyg-partner-id="WWP7I0R" data-gyg-q="London immersive experience"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Immersive dining and cabaret
 
@@ -346,17 +417,6 @@ This is the section other guides leave out, and it is the reason people turn up 
 
 ---
 
-## Opening soon
-
-* **Arcade Arena**, Southbank — **5 September 2026**, from £30. Three worlds in one building: a PAC-MAN live experience, Chaos Karts, and a new drone-based game.
-* **Absurd City**, Westfield London — **October 2026**, from £36. **80,000 square feet**, billed as Europe's largest immersive art experience.
-* **Wallace & Gromit: Larger Than Life**, Lightroom — **14 October 2026.**
-* **Phantom Peak: The Great Redoing**, Stratford — **4 December 2026.**
-* **Secret Cinema: Pirates of the Caribbean**, North Greenwich — **16 February to 25 April 2027**, from £39.
-* **Punchdrunk's next London production** — teased, with no details. VIP tickets to their September film screening carry priority booking for it, which is the only public sign it exists.
-
----
-
 ## What to know
 
 * **Check the show is still running before you book anything, from any source.** This genre closes venues at a rate nothing else in London matches, and three major ones went in the first half of 2026 alone.
@@ -366,6 +426,8 @@ This is the section other guides leave out, and it is the reason people turn up 
 * **Accessibility varies enormously and is not correlated with price.** Bridge Command and Peaky Blinders are designed for step-free access throughout; the Crystal Maze cannot offer it at all, and Paddington can take **one wheelchair user per hour**.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

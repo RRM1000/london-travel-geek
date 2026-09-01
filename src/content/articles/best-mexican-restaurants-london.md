@@ -141,6 +141,8 @@ Tacos, ceviche and grilled meats from the kitchen, and a long agave list at the 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-mexican-restaurants-london-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tasting tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The taquerias
 
 The most interesting Mexican cooking in London is not in the restaurants at the top of this page. It is in taquerias and market stalls, and the marker of a good one is simple: **do they make their own tortillas?**

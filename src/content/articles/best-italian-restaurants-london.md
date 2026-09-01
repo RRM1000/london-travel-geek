@@ -203,6 +203,8 @@ This is the old Anglo-Italian repertoire done without embarrassment: **lasagne, 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-italian-restaurants-london-pasta-class" data-gyg-partner-id="WWP7I0R" data-gyg-q="pasta making class London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## By region
 
 The section that justifies the page. Each of these cooks somewhere specific rather than "Italy".
@@ -398,6 +400,8 @@ Backed by the sources but not written up above, either because only two guides n
 * **Service charge** of 12.5% is discretionary and standard on London restaurant bills.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-italian-restaurants-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

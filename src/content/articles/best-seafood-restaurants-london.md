@@ -182,6 +182,8 @@ Champagne and shellfish is the format: **oysters, lobster, a fruits de mer**, an
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-seafood-restaurants-london-borough-market-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Borough Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The old oyster houses
 
 London has eaten oysters commercially for a very long time, and several rooms still trading were founded before the First World War. They are not interchangeable.
@@ -417,6 +419,8 @@ Everything else the sources carry by two or more independent sources, plus the s
 * **Fish and chips is a separate guide** — a different meal with a different set of sources.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-seafood-restaurants-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

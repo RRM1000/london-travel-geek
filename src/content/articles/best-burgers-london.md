@@ -128,6 +128,8 @@ None of the three is wrong. They answer "best" for different evenings. If you wa
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-burgers-london-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tasting tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Smash burgers
 
 The thin patty pressed hard onto the plancha so the crust caramelises edge to edge. It has taken over London, and these are the ones the sources agree on.
@@ -318,6 +320,8 @@ Named by the listings sites rather than the critics — which is not a criticism
 * **Halal options** are limited but real: **Buk** in Camden and **Burnt Smokehouse** in Leyton are both halal and both named by critics rather than by halal listings.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-burgers-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

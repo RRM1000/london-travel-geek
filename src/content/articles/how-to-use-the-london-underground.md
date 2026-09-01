@@ -260,6 +260,8 @@ Each Underground line has a distinct name and color on the iconic Tube map. Clic
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="how-to-use-the-london-underground-london-travel-pass" data-gyg-partner-id="WWP7I0R" data-gyg-q="London travelcard"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## How to pay: Contactless vs. Oyster
 
 For almost all adult visitors, tapping a **contactless bank card or mobile wallet (Apple Pay / Google Pay)** is the cheapest and most convenient payment method.
@@ -388,6 +390,8 @@ Not all Underground stations have step-free access:
 7. **Not checking lift status:** If traveling with heavy bags or a wheelchair, verify lift operating status on the TfL Go app beforehand.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="how-to-use-the-london-underground-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Related London Transport Guides
 

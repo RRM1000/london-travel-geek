@@ -156,6 +156,8 @@ The format is small plates rather than a set sequence: **tar tar chips** — spi
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-japanese-restaurants-london-sushi-class" data-gyg-partner-id="WWP7I0R" data-gyg-q="sushi making class London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Izakaya
 
 The Japanese pub format — small plates and grilled skewers, ordered across the table.
@@ -335,6 +337,8 @@ Omakase counters get the attention, but the everyday end of Japanese London is w
 * **Service charge** of 12.5% is discretionary and standard.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-japanese-restaurants-london-general" data-gyg-partner-id="WWP7I0R" data-gyg-q="London top attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 
