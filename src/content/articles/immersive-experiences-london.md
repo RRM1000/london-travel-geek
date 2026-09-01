@@ -246,6 +246,10 @@ It is **not** a silent light show. There is a **live 14-piece orchestra and the 
 
 Level access through the main entrance, though there are steps into the individual chapels. A hearing loop and transcription are available on request, service animals are welcome, and there is **no strobe lighting**, though there are flashing lights. Reduced tickets for over-65s, students and disabled visitors.
 
+![A cathedral nave lit end to end by coloured projections across the vaulting, pillars and walls, with a seated audience below](../../assets/articles/immersive-experiences-london/luminiscence-westminster.jpg)
+
+*LUMINISCENCE. The projection covers the vaulting and the pillars as well as the walls, and the orchestra plays beneath it.*
+
 ### Lightroom: David Bowie — You're Not Alone, King's Cross
 
 *From £25, students and under-18s £15 · to 10 January 2027*

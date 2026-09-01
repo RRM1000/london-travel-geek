@@ -118,6 +118,18 @@ A **Halloween-specific immersive production** rather than a running show — you
 
 COLAB is a genuine immersive theatre company with a back catalogue of similar shows, rather than a seasonal pop-up — worth checking their site for exact October dates and prices before booking, since these productions tend to run for a fixed, short window.
 
+### The Halloween Cabaret, The Scarlet Lotus
+
+*31 October only · 18+ · about 3.5 hours*
+
+**The grown-up option, and the only thing in this guide that combines a Halloween theme with dinner and a full cabaret bill.** Burlesque, circus, aerial and fire performance, in a room styled for the night.
+
+**Two sittings on Saturday 31 October — an early show at 4.30pm and an evening show at 7.15pm** — which is worth knowing, because the early one is the easier ticket and the same show.
+
+**Silver seats £49, down from £69**, with premium and front-row VIP tiers above that. **Cocktails are included**; roaming welcome canapés are a £40 supplement added after you have chosen seats, so the headline price is not the final one if you want food on arrival.
+
+**Recommended 18+.** Dressing up is encouraged rather than required, and the best-dressed guest wins a bottle of wine. Allow the full three and a half hours — this is an evening rather than a show you drop into. [Book via the London Cabaret Collective](https://londoncabaretcollective.co.uk/products/the-halloween-cabaret).
+
 ### The Halloween Lecture, Royal Institution
 
 A spooky-science live show for families rather than a scare — eerie fog, pumpkins turned into light sources, and other demonstrations from the Ri's own team. Doors 6.45pm, talk from 7pm. **£16/£10 for the general theatre audience, £7 for Ri Members and Patrons.** Green Park is the nearest station, with step-free access throughout. The exact October date was not yet listed at the time of writing — check the [Royal Institution's own listing](https://www.rigb.org/whats-on/halloween-lecture) closer to the time.
