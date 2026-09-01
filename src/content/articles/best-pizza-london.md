@@ -96,6 +96,10 @@ The dough is a long-fermented Neapolitan base, and the pizzas move well beyond t
 
 **££ and it books ahead** at weekends. Chiswick High Road, and there is a second site — check which one you are booking.
 
+![A Neapolitan pizza at Napoli on the Road with a puffed, leopard-spotted crust, tomato and mozzarella swirled across the base and fresh basil leaves on top](../../assets/articles/best-pizza-london/napoli-on-the-road.jpg)
+
+*The dough is the thing to judge here, and this is what a long ferment looks like — a puffed cornicione blistered black in spots, with the base left thin.*
+
 ### Crisp Pizza at The Marlborough, Mayfair
 
 *££ · Mayfair · 4 min from Bond Street · Cited by 11 sources · #15 of 21, Time Out · #1 of 12, The Infatuation · [book a table](https://www.sevenrooms.com/explore/crispmayfair/reservations)*
@@ -103,6 +107,10 @@ The dough is a long-fermented Neapolitan base, and the pizzas move well beyond t
 The most-cited pizza in London, and the one the critics rank highest. Carl McCluskey's New Haven-style pizza — charred, thin, deliberately scorched at the edge — moved from a Hammersmith pub into the basement of a relaunched Mayfair pub run by the team behind The Devonshire.
 
 Order the grandma pie: square, thicker, feeds two or three.
+
+![A New Haven-style pepperoni pizza at Crisp, its edge charred dark, topped with cupped pepperoni, tomato and spoonfuls of ricotta](../../assets/articles/best-pizza-london/crisp-pizza.jpg)
+
+*New Haven style: scorched at the edge on purpose, thin under the middle, and the pepperoni cupped and crisped rather than laid flat.*
 
 > ⚠️ **No pizza on Mondays.** The pub upstairs is walk-in. The pizzeria downstairs takes [bookings](https://www.sevenrooms.com/explore/crispmayfair/reservations).
 
@@ -174,6 +182,10 @@ A short menu built on a properly fermented Neapolitan dough: **margherita, marin
 Started in a back-yard oven in Homerton in 2014 and grew into east London's default good pizza without ever becoming a chain you would avoid. British ingredients, a properly considered vegan menu, and consistent across every branch. Paolo Burini's Ragu Pazzo took third in Britain in 2025.
 
 Six London sites: Clapton, East Dulwich, Hackney Road, Leytonstone, Walthamstow and Finsbury Park. Clapton is the original.
+
+![A Yard Sale pizza on a wooden table piled with shredded red and white cabbage slaw, beside a can of Camden Pale Ale](../../assets/articles/best-pizza-london/yard-sale-pizza.jpg)
+
+*Not a Neapolitan purist's pizza and not trying to be — a wide, soft-crusted base built for toppings, eaten with a can of something cold.*
 
 ---
 
