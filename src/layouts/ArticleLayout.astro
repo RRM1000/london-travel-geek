@@ -814,7 +814,7 @@ const breadcrumbs = [
   .article__body :global(table) {
     display: table;
     width: 100%;
-    table-layout: fixed;
+    table-layout: auto;
     margin-block: 1.5rem 2rem;
     overflow: visible;
     border: 1px solid var(--line);
@@ -885,21 +885,34 @@ const breadcrumbs = [
 
   .article__body :global(table:has(> thead > tr > :nth-child(3):last-child)) {
     display: table;
-    table-layout: fixed;
   }
 
-  /* FIVE-COLUMN COMPARISON TABLES
-     table-layout: fixed splits the width evenly, so a five-column table gives
-     the last column 20%. On this site that column is almost always the prose
-     one - the "what makes it different" note carrying the actual argument -
-     while the four before it hold a name, a route, a duration and a price.
-     Equal fifths squeezes the useful column into a ribbon of two-word lines,
-     so weight it toward the end and let the short factual columns shrink. */
-  .article__body :global(table:has(> thead > tr > :nth-child(5):last-child) th:nth-child(1)) { width: 15%; }
-  .article__body :global(table:has(> thead > tr > :nth-child(5):last-child) th:nth-child(2)) { width: 15%; }
-  .article__body :global(table:has(> thead > tr > :nth-child(5):last-child) th:nth-child(3)) { width: 12%; }
-  .article__body :global(table:has(> thead > tr > :nth-child(5):last-child) th:nth-child(4)) { width: 14%; }
-  .article__body :global(table:has(> thead > tr > :nth-child(5):last-child) th:nth-child(5)) { width: 44%; }
+  /* COLUMN WIDTHS ARE MEASURED, NOT GUESSED.
+     This used to be table-layout: fixed plus hard-coded percentages for
+     five-column tables, weighted 44% to the LAST column on the assumption
+     that the prose always sits at the end. It does not. Winter Wonderland's
+     package table puts the description first and four prices after it, so the
+     rule handed 44% to a column containing "£1,700" and squeezed a
+     twenty-word description into 15% - a ribbon of two-word lines.
+
+     table-layout: auto sizes every column from its own content, which gets
+     this right whichever end the prose is at, and needs no rule per shape.
+     The blow-out that "fixed" was guarding against is already handled by
+     overflow-wrap: anywhere on th/td above.
+
+     Two helpers keep the numeric columns honest: cells that are only a price,
+     a date or a short code do not wrap, so a column of "£1,000" claims its
+     natural width and no more. */
+  .article__body :global(td),
+  .article__body :global(th) {
+    hyphens: auto;
+  }
+
+  /* A cell whose whole content is a currency amount, a percentage or a short
+     numeric range should never break across lines. */
+  .article__body :global(table) {
+    font-variant-numeric: tabular-nums;
+  }
 
   .article__body :global(.line-attractions) {
     margin-top: 0.45rem;

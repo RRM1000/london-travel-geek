@@ -207,6 +207,12 @@ All ages, no height restriction, but flashing lights, loud music and dark stagin
 
 Ride tickets are valid all day on your booked date and can be redeemed whenever you like.
 
+> ⏱️ **Ride the big ones early.** That "valid all day" is the most useful line on your ticket, and almost nobody uses it. **Queues for the headline rides — Munich Looping, The Hangover, the Giant Wheel — can pass an hour once the site fills**, which is most of a Friday evening and all of a December weekend. The same queue is a few minutes at opening or in the first hour after lunch.
+>
+> So do it in that order: **ride first, browse second.** Get the rides you actually care about done while the site is quiet, then spend the busy hours in the market, the bars and the free music, where a crowd costs you nothing and arguably improves it. Doing it the other way round — arriving, wandering, then joining a queue at eight o'clock — is how people end up paying £12 to stand in the cold.
+>
+> Fast-track is the paid version of this, at roughly £3 to £4 a ride. Going early is the free version, and it works on everything at once.
+
 ### Four ways to pay for rides
 
 1. **Pre-book online** — cheapest.
