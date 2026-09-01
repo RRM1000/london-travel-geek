@@ -1,0 +1,56 @@
+{
+  "cuisine": "chains",
+  "note": "Created by record-source.mjs on 2026-09-01.",
+  "recorded": "2026-09-01",
+  "sources": [
+    {
+      "name": "Time Out — 20 Best Chain Restaurants in London (ranked)",
+      "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+      "scope": "chains",
+      "names": [
+        "Hoppers",
+        "Bleecker",
+        "Rudy's",
+        "Dishoom",
+        "Hawksmoor",
+        "Lina Stores",
+        "Roti King",
+        "Flat Iron",
+        "Fatto a Mano",
+        "Bao",
+        "Rosa's Thai",
+        "Murger Han",
+        "Wagamama",
+        "Pizza Express",
+        "Wahaca",
+        "Yard Sale Pizza",
+        "Farmer J",
+        "Shoryu Ramen",
+        "Nando's",
+        "Tonkotsu"
+      ],
+      "quotes": {
+        "Hoppers": "#1 of 20",
+        "Bleecker": "#2 of 20",
+        "Rudy's": "#3 of 20",
+        "Dishoom": "#4 of 20",
+        "Hawksmoor": "#5 of 20",
+        "Lina Stores": "#6 of 20",
+        "Roti King": "#7 of 20",
+        "Flat Iron": "#8 of 20",
+        "Fatto a Mano": "#9 of 20",
+        "Bao": "#10 of 20",
+        "Rosa's Thai": "#11 of 20",
+        "Murger Han": "#12 of 20",
+        "Wagamama": "#13 of 20",
+        "Pizza Express": "#14 of 20",
+        "Wahaca": "#15 of 20",
+        "Yard Sale Pizza": "#16 of 20",
+        "Farmer J": "#17 of 20",
+        "Shoryu Ramen": "#18 of 20",
+        "Nando's": "#19 of 20",
+        "Tonkotsu": "#20 of 20"
+      }
+    }
+  ]
+}

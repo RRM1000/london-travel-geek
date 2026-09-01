@@ -3,7 +3,7 @@ title: "How to Use the London Underground: A First-Time Visitor’s Guide"
 seoTitle: "How to Use the London Underground"
 description: "A practical guide to planning Tube journeys, paying the correct fare, navigating stations and travelling confidently on the London Underground."
 publishedAt: 2026-07-28
-updatedAt: 2026-08-02
+updatedAt: 2026-09-01
 sites:
   - london
 canonicalSite: london
@@ -296,6 +296,10 @@ Look for the famous red-and-blue Underground roundel outside. Touch your card or
 ### Step 2: Follow the color-coded line signs
 Inside the station, follow the overhead signs matching your line's color. Directional signs indicate the compass heading and final destination (e.g. *"Piccadilly line Eastbound towards Cockfosters"*).
 
+![Two Jubilee line direction signs at Waterloo, one reading Eastbound platform 6 and one Westbound platform 5, each listing every station in that direction, with a Night Tube panel below](../../assets/articles/how-to-use-the-london-underground/waterloo-jubilee-direction-signs.jpg)
+
+*Jubilee line signs at Waterloo. **You do not need to know which compass direction you want — the sign lists every station on that platform's line.** Find your stop in one of the two lists and take that platform. Here, eastbound platform 6 runs to Stratford via London Bridge and Canary Wharf; westbound platform 5 runs to Stanmore via Westminster and Baker Street.*
+
 ### Step 3: Check the platform display
 
 ![A sub-surface line train waiting at the tiled platform at Great Portland Street station](../../assets/articles/london-underground/great-portland-street-platform.jpg)
@@ -303,6 +307,10 @@ Inside the station, follow the overhead signs matching your line's color. Direct
 *Great Portland Street, one of the original 1863 cut-and-cover stations. The wide, shallow tunnels here are shared by the Circle, Hammersmith & City and Metropolitan lines.*
 
 Electronic digital displays on the platform show the destination and arrival time of upcoming trains. 
+
+![A dot matrix indicator above a Jubilee line platform at Waterloo reading 1 Stanmore 2 mins and 3 Stanmore 5 mins, above a train behind platform edge doors](../../assets/articles/how-to-use-the-london-underground/waterloo-jubilee-platform-display.jpg)
+
+*The display gives the destination first and the wait second — here two trains to Stanmore, two and five minutes away. **The destination is the part that matters**, because it tells you which branch the train takes. The glass platform edge doors are particular to the Jubilee line's 1999 extension; most of the network has an open platform edge.*
 > 🛑 **Check the Branch:** Lines like the Northern, District, and Piccadilly lines split into multiple branches. Always verify the train's destination on the platform display screen before boarding!
 
 ### Step 4: Boarding & train etiquette

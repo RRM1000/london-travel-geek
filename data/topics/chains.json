@@ -1,0 +1,95 @@
+{
+  "topic": "chains",
+  "article": "src/content/articles/best-chain-restaurants-london.md",
+  "headTerm": "Chain Restaurants",
+  "note": "Chains and mini-chains, which is a category no award body judges. See noTierA below - this config deliberately does NOT invent an authority. The spine of the article is SIZE (how many London sites), because that is what actually changes the reader's decision; the facet axis is SERVICE FORMAT, because the reader's real question is 'do I sit down or do I order at a screen'. Cuisine is not the axis here - a cuisine axis would just rebuild the guides that already exist.",
+
+  "inclusionRule": {
+    "minimumSites": 2,
+    "scope": "London",
+    "note": "Two or more London sites under one brand, cooking the same menu. A single restaurant with a separate bakery counter is not a chain. A group like JKS or Big Mamma that runs several DIFFERENT brands is not itself a chain - the individual brand is (Berenjak yes, JKS no). Record the brand, never the group.",
+    "sizeBands": [
+      { "key": "mini", "label": "Mini-chain", "range": "2-9 London sites" },
+      { "key": "mid", "label": "Growing chain", "range": "10-29 London sites" },
+      { "key": "big", "label": "Big chain", "range": "30+ London sites" }
+    ]
+  },
+
+  "noTierA": {
+    "state": true,
+    "explain": "There is no judged ranking of chain restaurants, in London or anywhere. Say so in the methodology rather than dressing an editorial listicle up as an award. What DOES exist is an award record for individual branches: Michelin Bib Gourmand and the National Restaurant Awards top 100 both list sites that happen to belong to mini-chains. Count those, and be explicit that they judge the branch, not the brand. The award record thins out as the chains get bigger, and that asymmetry is worth writing about rather than hiding.",
+    "doNotUse": [
+      "Brand-run awards and 'Britain's favourite' polls run by the chain itself or by a supplier - tier F, weight 0.",
+      "Trustpilot, Tripadvisor rankings and 'best rated' aggregators - review volume measures footfall, not cooking. Track Google ratings separately, as the other topics do."
+    ]
+  },
+
+  "awardBodies": [
+    {
+      "name": "Michelin Guide Great Britain & Ireland",
+      "domain": "guide.michelin.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "Judges the BRANCH. Where a Bib Gourmand or a star sits on one site of a mini-chain, record it against that branch and say which branch."
+    },
+    {
+      "name": "National Restaurant Awards (CODE Hospitality)",
+      "domain": "nationalrestaurantawards.co.uk",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "Ranked top 100 UK restaurants. Several mini-chain sites place. Again a branch award, not a brand award."
+    },
+    {
+      "name": "Estrella Damm Top 100 Gastropubs",
+      "domain": "top50gastropubs.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "Only relevant where a mini-chain is a pub group. Check before assuming it applies."
+    }
+  ],
+
+  "editorialLists": [
+    { "name": "Time Out", "domain": "timeout.com", "ranked": "mixed", "note": "One masthead: the site, the news desk and the YouTube channel are ONE source." },
+    { "name": "The Infatuation", "domain": "theinfatuation.com", "ranked": "mixed" },
+    { "name": "Eater London", "domain": "london.eater.com", "ranked": false, "note": "CHECK FIRST: Eater London stopped commissioning new London guides. Older lists are still useful but must be dated in the quote." },
+    { "name": "The Guardian / Observer food", "domain": "theguardian.com", "ranked": false, "note": "Grace Dent and Jay Rayner both review chains seriously, which most critics will not. High-value quotes." },
+    { "name": "The Standard", "domain": "standard.co.uk", "ranked": "mixed" },
+    { "name": "Square Meal", "domain": "squaremeal.co.uk", "ranked": "mixed" },
+    { "name": "The Telegraph", "domain": "telegraph.co.uk", "ranked": false },
+    { "name": "Big 7 Travel", "domain": "bigseventravel.com", "ranked": true, "note": "Ranks, and covers chains where the broadsheets will not. Tier C." }
+  ],
+
+  "facetAxis": {
+    "field": "serviceFormat",
+    "note": "The reader's question is how the meal works, not what country the food came from. This axis is why the guide is not a duplicate of the cuisine guides.",
+    "values": [
+      { "key": "sit-down", "label": "Sit down, table service", "describeAs": "you are seated, you order from a server, you get a bill" },
+      { "key": "counter", "label": "Order at the counter", "describeAs": "you queue, order from a person, and they bring it over or call your number" },
+      { "key": "screen", "label": "Touchscreen or app order", "describeAs": "you order from a kiosk screen or a QR code at the table, and no one takes your order" },
+      { "key": "grab-and-go", "label": "Grab and go", "describeAs": "made in advance, off a shelf, eaten somewhere else" },
+      { "key": "market-counter", "label": "Market and food hall counters", "describeAs": "a branded counter inside somebody else's food hall" }
+    ]
+  },
+
+  "formatSection": {
+    "title": "The ones with the screens",
+    "note": "Touchscreen and app-only ordering is the format visitors ask about most and that no London guide covers properly. Two things every entry here needs: whether a human will take your order if you want one, and whether the screen adds a service charge or a delivery-style fee that the menu price does not show."
+  },
+
+  "extraSections": [
+    { "title": "Born in London", "note": "Mini-chains that started here and are still only here. The strongest answer to 'is a chain worth my one holiday dinner'." },
+    { "title": "Worth it at the airport or the station", "note": "Where a chain branch is genuinely the best food in a terminal or a terminus. Practical, and nobody writes it." },
+    { "title": "The ones to skip", "note": "Only where independent sources agree, and never on one bad meal. Name the reason, not the vibe." }
+  ],
+
+  "knownGaps": [
+    "Branch counts go stale fast - chains open and close sites constantly. Every count needs the brand's own locations page as its source, and a date.",
+    "No corpus exists yet. This file is the config only; data/consensus/chains.json is empty until collection runs.",
+    "Chain menus and prices are set nationally and change several times a year. Price bands should be banded, not quoted to the penny."
+  ],
+
+  "openVenueQuestions": [
+    "Franchise vs owned: some brands (Subway, Domino's) are franchised, so quality varies by branch in a way it does not at an owned chain. Decide whether to flag this per brand.",
+    "Where a mini-chain has one flagship that is materially better than its other sites, does the entry rank the brand or the flagship? Default: the brand, with the flagship named."
+  ]
+}
