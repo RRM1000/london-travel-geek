@@ -94,9 +94,9 @@ Shoreditch has its own share of the commemorative plaques marking where notable 
 7. **Dennis Severs' House** — A candlelit Georgian house on Folgate Street presented as if the family has just left the room. Silent, strange and unlike anything else in the city. Booked in advance.
 8. **Boxpark Shoreditch** — Shipping containers stacked into a food and retail court by Shoreditch High Street station.
 
-![A large mural of a woman in a pink beanie hat with teal and orange hair, on a Shoreditch wall](../../assets/articles/shoreditch-area-guide/shoreditch-street-art.jpg)
+![Two large mural faces with green rope-like hair and a pink nebula painted between them, on a Shoreditch corner](../../assets/articles/shoreditch-area-guide/shoreditch-street-art.jpg)
 
-*Shoreditch changes month to month. Nothing here is permanent, which is the reason to walk it more than once. Photo: [Loco Steve](https://www.flickr.com/photos/36989019@N08/39711836800), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Shoreditch changes month to month. Nothing here is permanent, which is the reason to walk it more than once.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shoreditch-street-art" data-gyg-partner-id="WWP7I0R" data-gyg-q="Shoreditch street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -127,6 +127,10 @@ It is **underground**, in F Block at 85 Brick Lane, down a neon-lit staircase of
 ![Rails of vintage clothing and racks of shirts inside the Brick Lane vintage market](../../assets/articles/shoreditch-area-guide/brick-lane-vintage-rails.jpg)
 
 *The vintage market under the Truman Brewery. Forty traders across a basement floor, open every day of the week.*
+
+![Market stalls filling Brick Lane beneath the railway bridge, with Banksy's three hanging monkeys stencilled on the concrete above](../../assets/articles/shoreditch-area-guide/brick-lane-market-bridge.jpg)
+
+*Brick Lane under the railway bridge on a Sunday. The three monkeys stencilled on the concrete are Banksy's, from August 2024 — Transport for London removed them that December.*
 
 **Next door, the Backyard Market** is the other half of the same trip: independent designer-makers inside a repurposed warehouse set back from Brick Lane, with street food stalls out front on the street. **Saturday 11am–6pm and Sunday 10am–6pm only** — so on a weekday, the vintage market is the one that is open.
 

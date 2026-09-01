@@ -103,6 +103,10 @@ Banksy put up nine animal works across London over nine days in August 2024. **S
 
 *The piranhas at Guildhall Yard, where the City of London Corporation put the sentry box on public view behind barriers after relocating it from its original spot on Ludgate Hill. It has since gone into storage ahead of permanent display at the new London Museum.*
 
+![Market stalls filling Brick Lane beneath a railway bridge, with three monkeys stencilled on the concrete above them](../../assets/articles/london-street-art/banksy-monkeys-brick-lane.jpg)
+
+*The monkeys on the Brick Lane railway bridge, photographed on 11 August 2024, days after they appeared. Transport for London removed them that December, so this is a picture of something that is no longer there.*
+
 | The work | Where | What is there now |
 | --- | --- | --- |
 | **Elephants** | Edith Grove, Chelsea | **Still there.** Defaced and since repaired |
