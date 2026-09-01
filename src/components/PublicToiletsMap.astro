@@ -12,10 +12,33 @@
 // over a wide-but-short bounding box - the exact shape that made fitBounds
 // force excessive zoom-out there. Clustering (Leaflet.markercluster, same
 // plugin plaques.astro uses) handles the marker count instead.
+//
+// The "find nearest" widget exists because ArticleLayout only ever injects
+// one-off components like this one right after <slot/> - the very end of
+// the article, after the FAQ. That's fine for someone planning a trip, but
+// wrong for someone who searched "public toilets near me" mid-emergency on
+// their phone: they should not have to scroll past the whole guide first.
+// Rather than restructure the layout's injection point (which every other
+// one-off component also relies on), the article's own top callout links
+// straight to #toilets-near-me, and this widget answers the actual
+// question - "which one, right now" - without requiring the full map to
+// load at all. It reuses the same public-toilets.json fetch as the map,
+// just without Leaflet.
 ---
 
-<section class="toilets-map" aria-labelledby="toilets-map-title">
-  <h2 id="toilets-map-title">Map: Zone 1 public toilets</h2>
+<section class="toilets-map" aria-labelledby="toilets-near-me-title">
+  <h2 id="toilets-near-me-title">Find toilets near you</h2>
+  <div class="toilets-nearest">
+    <button type="button" id="toilets-locate-btn" class="toilets-locate-btn">
+      📍 Use my location
+    </button>
+    <p id="toilets-nearest-status" class="toilets-nearest-status">
+      Shows the closest Zone 1 facilities from the dataset below, with a link to open directions.
+    </p>
+    <ol id="toilets-nearest-list" class="toilets-nearest-list" hidden></ol>
+  </div>
+
+  <h3 id="toilets-map-title">Map: Zone 1 public toilets</h3>
   <details class="toilets-map-shell">
     <summary>
       Open the map
@@ -37,8 +60,74 @@
 </section>
 
 <style>
-  .toilets-map :global(h2) {
+  .toilets-map :global(h2),
+  .toilets-map :global(h3) {
     scroll-margin-top: 2rem;
+  }
+
+  .toilets-nearest {
+    border: 1px solid var(--line, #e2dbcf);
+    border-radius: 0.9rem;
+    background: var(--surface, #fff);
+    padding: 1rem;
+    margin-bottom: 1.2rem;
+  }
+  .toilets-locate-btn {
+    font: inherit;
+    font-weight: 600;
+    font-size: 0.95rem;
+    padding: 0.6rem 1.1rem;
+    border-radius: 999px;
+    border: 1px solid var(--accent, #d6392f);
+    background: var(--accent, #d6392f);
+    color: #fff;
+    cursor: pointer;
+  }
+  .toilets-locate-btn:disabled {
+    opacity: 0.6;
+    cursor: default;
+  }
+  .toilets-nearest-status {
+    margin: 0.6rem 0 0;
+    font-size: 0.85rem;
+    color: var(--muted, #5a6a7d);
+  }
+  .toilets-nearest-list {
+    list-style: none;
+    margin: 0.8rem 0 0;
+    padding: 0;
+    display: grid;
+    gap: 0.6rem;
+  }
+  :global(.toilets-nearest-list li) {
+    border: 1px solid var(--line, #e2dbcf);
+    border-radius: 0.6rem;
+    padding: 0.6rem 0.8rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+  }
+  :global(.toilets-nearest-name) {
+    font-weight: 600;
+  }
+  :global(.toilets-nearest-meta) {
+    display: block;
+    font-size: 0.82rem;
+    color: var(--muted, #5a6a7d);
+    margin-top: 0.15rem;
+  }
+  :global(.toilets-nearest-dist) {
+    font-weight: 600;
+    color: var(--ink, #0e1b2c);
+    white-space: nowrap;
+  }
+  :global(.toilets-nearest-list a) {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--secondary, #1d4e89);
+    white-space: nowrap;
   }
 
   .toilets-map-shell {
@@ -156,6 +245,106 @@
 
   const esc = (s: string) =>
     s.replace(/[&<>"']/g, (m) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[m]!);
+
+  // -------------------------------------------------------- nearest-to-you
+  // No Leaflet here at all - this is the fast path for someone who searched
+  // "public toilets near me" on their phone and should not have to wait for
+  // a map library to load just to get an answer. Distance is straight-line
+  // (haversine), not walking distance - close enough at this scale, and the
+  // "Get directions" link hands off to the phone's own map app for the real
+  // route anyway.
+  let toiletsCache: Toilet[] | null = null;
+  async function loadToilets(): Promise<Toilet[]> {
+    if (toiletsCache) return toiletsCache;
+    const res = await fetch("/public-toilets.json");
+    const data = await res.json();
+    toiletsCache = (data.toilets || []) as Toilet[];
+    return toiletsCache;
+  }
+
+  function haversineMetres(lat1: number, lng1: number, lat2: number, lng2: number): number {
+    const R = 6371000;
+    const toRad = (d: number) => (d * Math.PI) / 180;
+    const dLat = toRad(lat2 - lat1);
+    const dLng = toRad(lng2 - lng1);
+    const a =
+      Math.sin(dLat / 2) ** 2 +
+      Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLng / 2) ** 2;
+    return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  }
+
+  function formatDistance(m: number): string {
+    return m < 1000 ? `${Math.round(m / 10) * 10}m` : `${(m / 1000).toFixed(1)}km`;
+  }
+
+  function initNearestWidget() {
+    const btn = document.getElementById("toilets-locate-btn") as HTMLButtonElement | null;
+    const statusEl = document.getElementById("toilets-nearest-status");
+    const listEl = document.getElementById("toilets-nearest-list") as HTMLOListElement | null;
+    if (!btn || !statusEl || !listEl) return;
+
+    btn.addEventListener("click", () => {
+      if (!("geolocation" in navigator)) {
+        statusEl.textContent = "Your browser does not support location - try the map below instead.";
+        return;
+      }
+      btn.disabled = true;
+      btn.textContent = "Locating…";
+      statusEl.textContent = "Waiting for your location…";
+
+      navigator.geolocation.getCurrentPosition(
+        async (pos) => {
+          try {
+            const { latitude, longitude } = pos.coords;
+            const toilets = await loadToilets();
+            const ranked = toilets
+              .map((t) => ({ t, d: haversineMetres(latitude, longitude, t.lat, t.lng) }))
+              .sort((a, b) => a.d - b.d)
+              .slice(0, 5);
+
+            listEl.innerHTML = ranked
+              .map(({ t, d }) => {
+                const title = t.name || `Public toilet${t.area ? `, ${t.area}` : ""}`;
+                const priceLabel =
+                  t.category === "paid"
+                    ? `Paid${t.price ? ` (${esc(t.price)})` : ""}`
+                    : t.category === "free"
+                      ? "Free"
+                      : "Payment status not recorded";
+                const dirUrl = `https://www.google.com/maps/dir/?api=1&destination=${t.lat},${t.lng}`;
+                return `
+                  <li>
+                    <span>
+                      <span class="toilets-nearest-name">${esc(title)}</span>
+                      <span class="toilets-nearest-meta">${priceLabel}${t.area ? ` · ${esc(t.area)}` : ""}</span>
+                    </span>
+                    <span class="toilets-nearest-dist">${formatDistance(d)}</span>
+                    <a href="${dirUrl}" target="_blank" rel="noopener">Directions →</a>
+                  </li>`;
+              })
+              .join("");
+            listEl.hidden = false;
+            statusEl.textContent = "Nearest first. Straight-line distance, not walking distance.";
+          } catch {
+            statusEl.textContent = "Could not load the toilet data. Try the map below instead.";
+          } finally {
+            btn.disabled = false;
+            btn.textContent = "📍 Use my location";
+          }
+        },
+        (err) => {
+          btn.disabled = false;
+          btn.textContent = "📍 Use my location";
+          statusEl.textContent =
+            err.code === err.PERMISSION_DENIED
+              ? "Location permission was denied - try the map below instead."
+              : "Could not get your location - try the map below instead.";
+        },
+        { enableHighAccuracy: true, timeout: 10000 },
+      );
+    });
+  }
+  initNearestWidget();
 
   // Same one-loader-wins pattern as the plaques page and the area maps:
   // whichever component gets there first injects the script/styles, and

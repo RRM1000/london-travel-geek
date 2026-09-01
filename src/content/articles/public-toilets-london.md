@@ -31,7 +31,7 @@ Nobody plans a London trip around this until the moment they need one, and then 
 
 > 💡 **The Short Version:** About **85% of London's logged public toilets are free**. The main things that charge are the **Royal Parks (a flat 20p, card only)** and a few **market toilets (up to £1)** — no major train station currently charges. **Community Toilet Scheme** pubs, cafes and libraries let anyone in without buying anything, and every major free museum has toilets open to all visitors.
 
-> 🗺️ **There's a map.** Every Zone 1 toilet mentioned below, plus hundreds more, colour-coded free/paid — scroll to the end of this guide to open it.
+> 📍 **[Find the toilet nearest you right now →](#toilets-near-me-title)** One tap, using your phone's location — plus a full colour-coded map of 400 Zone 1 facilities.
 
 ---
 
