@@ -88,8 +88,6 @@ Lunch ten minutes off the square rather than on it. See [cheap eats](/articles/c
 
 **Evening.** The West End, the **National Theatre** on the South Bank, **Shakespeare's Globe** in summer, or fringe.
 
-> **Buy direct from the theatre's own website.** Resellers add substantial fees, and the official day-seat and lottery schemes are only available direct. [Official London Theatre](https://officiallondontheatre.com/) lists what is on.
-
 ---
 
 ## Museums
