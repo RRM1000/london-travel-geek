@@ -84,6 +84,10 @@ The cooking treats vegetables with fine-dining technique rather than as a substi
 
 Tables release in batches and go immediately. This is the hardest vegan booking in the country.
 
+![A laminated pastry spiral served on a small wooden board at Plates, with a quenelle of green butter in a wooden pot alongside](../../assets/articles/best-vegetarian-vegan-restaurants-london/plates.jpg)
+
+*This is the argument in one course: laminated by hand, served on wood with a green butter to spread. Nothing here is standing in for anything.*
+
 ### Gauthier Soho, Soho
 
 *££££ · 21 Romilly Street · book weeks ahead* · Cited by 4 sources
@@ -138,6 +142,10 @@ That heritage is the distinguishing thing: the food draws on the family's backgr
 
 **£, closed Monday, book a few days ahead.** Stoke Newington Church Street, and impossible to walk past.
 
+![A spread of Keralan dishes at Rasa: lemon rice, dals, a paratha and small steel bowls of curries and pickles across a white tablecloth](../../assets/articles/best-vegetarian-vegan-restaurants-london/rasa.jpg)
+
+*The set feast, which is the way to order if you do not know the region. The small steel bowls are the point — pickles and chutneys are half the meal in Kerala.*
+
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-vegetarian-vegan-restaurants-london-london-vegan-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London vegan food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
@@ -168,6 +176,10 @@ Entirely vegetarian, largely vegan, and completely unbothered about whether you 
 ![The red awning of Govinda's Pure Vegetarian Restaurant on Soho Street](../../assets/articles/best-vegetarian-vegan-restaurants-london/govinda-s.jpg)
 
 *Run by the Hare Krishna temple next door. Cheap, plain and entirely vegetarian. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3085944256), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
+![A steel thali tray at Govinda's holding a samosa, puri, dal, rajma, broccoli sabzi, salad and rice, with poppadoms alongside](../../assets/articles/best-vegetarian-vegan-restaurants-london/govindas-thali.jpg)
+
+*The tray itself: eight or nine things for less than a pint costs in the same postcode.*
 
 ### Indian Veg, Islington
 
@@ -218,6 +230,10 @@ A **vada pav** is a spiced potato fritter in a soft bun with dry garlic chutney:
 **Horn OK Please** does Mumbai street food — **pav bhaji, dosa and chaat** — named for the slogan painted on Indian lorries. **Gujarati Rasoi** cooks the Gujarati home repertoire from a mother-and-son team: **dhokla, undhiyu and thalis**, with the sweet-sour-spicy balance Gujarat is known for.
 
 **£, walk-in, market hours** — both are lunch rather than dinner, and both close well before evening.
+
+![A takeaway tray at Borough Market holding a folded dosa and a portion of chaat topped with sev, pomegranate and red onion](../../assets/articles/best-vegetarian-vegan-restaurants-london/horn-ok.jpg)
+
+*Eaten standing, which is how it is meant to be. Both stalls are lunch trade and shut long before dinner.*
 
 ---
 
@@ -300,6 +316,10 @@ The menu is regional Chinese made without animal products: **mapo tofu**, auberg
 The **jackfruit carnitas** and the vegan **al pastor** are the orders, with salsas and pickles doing the work the meat would. Loud, cheap and busy, and the menu never mentions what is missing.
 
 **££. Also at Seven Dials Market and on Commercial Street in Spitalfields** — Kingly Court is the sit-down one; the market sites are counters. Walk-in.
+
+![Two loaded tacos on a metal tray at Club Mexicana, piled with pickled red onion, jalapeños, coriander, crema and chilli sauce](../../assets/articles/best-vegetarian-vegan-restaurants-london/club-mexicana.jpg)
+
+*Nothing on the tray announces itself as vegan, which is the whole point of the place.*
 
 ### Naïfs, Peckham
 
