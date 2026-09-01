@@ -84,6 +84,10 @@ The only Indian kitchen in Britain with two stars, and the most-cited Indian res
 
 Book as far ahead as the window allows, which in practice means months rather than weeks. This is not a meal you slot in before a show; it is the evening.
 
+![A full table at Gymkhana: a biryani sealed under a browned pastry lid, seekh kebabs with green chutney, a curry in a copper handi and a whole spiced cauliflower, on patterned china](../../assets/articles/best-indian-restaurants-london/gymkhana.jpg)
+
+*A table ordered properly. The biryani arrives sealed under its lid and is cracked open in front of you.*
+
 ▶ **In the videos:** [TOPJAW visits from 14:15](https://www.youtube.com/watch?v=AHUnqeRroYk&t=855s).
 
 **4 minutes from Benares.**
@@ -117,6 +121,10 @@ The menu moves from Kashmiri to Keralan in a few pages: **rogan josh**, coastal 
 The **dum biryani** is the signature: rice and meat sealed under a pastry lid and steamed, cracked open at the table. Around it, dishes from across India cooked in the old formal register, in a room of chandeliers and colour that has been there since the Raj was a going concern.
 
 **££££ and it books weeks ahead.** The entrance is easy to miss — it is on Swallow Street, up a lift.
+
+![Brass karahis of prawn and chicken curry on the table at Veeraswamy, with a dish of garlic and coriander naan and a glass of red wine](../../assets/articles/best-indian-restaurants-london/veeraswamy.jpg)
+
+*Brass, chandeliers and a wine list — the old formal register, still being cooked a hundred years in.*
 
 
 > ⚠️ **Check the rules before you book.** Veeraswamy runs a smart-casual dress code, age guidance for evening service, and a minimum spend at dinner outside the [pre-theatre menu](https://www.veeraswamy.com/whats-on/pre-theatre-and-post-theatre-dining/).
@@ -162,6 +170,10 @@ It sits inside the St James' Court hotel, a short walk from Buckingham Palace an
 Vivek Singh's cooking is Indian technique applied to British produce: **game, venison and grouse in season**, spiced rather than curried, with a wine list built to match. The breakfast service is a genuine oddity worth knowing about.
 
 **££££, closed Sunday, and it books weeks ahead.** Great Smith Street, two minutes from Westminster Abbey.
+
+![A plate at The Cinnamon Club: slices of spiced meat cooked pink, fanned over wilted greens with a spiced sauce pooled beside them](../../assets/articles/best-indian-restaurants-london/cinnamon-club.jpg)
+
+*Spiced rather than curried, plated rather than served in a bowl. This is the distinction the whole restaurant rests on.*
 
 ### Ambassadors Clubhouse, Mayfair
 
@@ -217,6 +229,10 @@ The **bacon naan roll** made it a breakfast destination as much as a dinner one:
 
 **££. Any party size can book before 6pm; after 6pm bookings are for groups of six or more only**, and most tables are held for walk-ins either way. Seven London branches.
 
+![A crowded table at Dishoom holding lamb chops, chicken tikka, malai chicken, gunpowder potatoes, a prawn curry and a tin of naan on a marble top](../../assets/articles/best-indian-restaurants-london/dishoom.jpg)
+
+*The dinner order, which is a different restaurant from the breakfast one. Everything here is shared and nothing needs booking before 6pm.*
+
 
 > 💡 **Getting a table:** 6pm is the cut-off, not the party size — any number can book before it, six or more after. Most tables are held for walk-ins at every hour, so an empty booking page is not a full restaurant. Breakfast and lunch barely queue.
 
@@ -239,6 +255,10 @@ The **Calcutta biryani** is the dish: Mughlai rice with meat and, distinctively,
 The **Keralan fried chicken** with curry leaf mayonnaise is the signature and has been since the container. Beside it, **bhel puri**, samphire pakoras and a **smoked haddock kedgeree**, ordered four or five at a time across the table.
 
 **££, and the counter seats are walk-in.** Soho is the busiest site; Brixton and White City are easier. Book for a table.
+
+![Two small plates at Kricket — roast pumpkin in a makhani sauce with crumbled cheese and pumpkin seeds, and a dal — beside a bowl of cumin rice, with the printed menu visible underneath](../../assets/articles/best-indian-restaurants-london/kricket.jpg)
+
+*Small plates, single-figure prices on the menu underneath, four or five to a table. That was a new idea for Indian food in London when Kricket opened.*
 
 ### Oudh 1722, Borough
 

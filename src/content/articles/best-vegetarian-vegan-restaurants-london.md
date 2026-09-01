@@ -2,12 +2,8 @@
 title: "The Best Vegetarian and Vegan Restaurants in London"
 seoTitle: "Best Vegan & Vegetarian Restaurants London 2026: 27 Compared"
 description: "London's best vegetarian and vegan restaurants, from the UK's first Michelin-starred vegan kitchen to a £10 thali on Drummond Street — with what each actually costs."
-heroImage: "../../assets/articles/best-vegetarian-vegan-restaurants-london/best-vegetarian-vegan-restaurants-london.jpg"
-heroImageAlt: "A vegetable stall piled with produce at Borough Market in London"
-heroImageCredit: "Jack Gavigan"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:BoroughMarketVegetableStall.jpg"
-heroImageLicense: "CC BY-SA 3.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
+heroImage: "../../assets/articles/best-vegetarian-vegan-restaurants-london/club-mexicana.jpg"
+heroImageAlt: "Two loaded tacos on a metal tray at Club Mexicana, piled with pickled red onion, jalapenos, coriander, crema and chilli sauce"
 publishedAt: 2026-08-23
 sites: [london]
 canonicalSite: london
