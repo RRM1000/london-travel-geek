@@ -1,7 +1,7 @@
 ---
-title: "London Set Lunch Deals: The Same Kitchens for Half the Price"
-seoTitle: "Best Set Lunch Deals London 2026: Verified Prices & Times"
-description: "Verified weekday set lunch and pre-theatre menus across London, from £12.50 to Michelin-starred — with the real prices, the days and times they run, and what they cost at dinner instead."
+title: "London Restaurant Deals: Set Lunch and Pre-Theatre Menus"
+seoTitle: "London Restaurant Deals 2026: Set Lunch & Pre-Theatre Prices"
+description: "Verified fixed-price menus across London — set lunch, pre-theatre and early evening — from £12.50 to Michelin-starred, with the real prices, the days and times they run, and what the same food costs at dinner."
 publishedAt: 2026-09-01
 updatedAt: 2026-09-01
 sites:
@@ -9,9 +9,10 @@ sites:
 canonicalSite: london
 category: "Food and drink"
 tags:
+  - restaurant deals
   - set lunch
-  - cheap eats
   - pre-theatre
+  - cheap eats
   - restaurant deals
   - food and drink
   - money saving
@@ -31,17 +32,17 @@ heroImage: "../../assets/articles/best-french-restaurants-london/chez-bruce.jpg"
 heroImageAlt: "A dining room set for lunch service"
 ---
 
-The same kitchen, the same chefs, the same dining room — for less than half the money. **Set lunch is the biggest structural discount in London restaurants**, and it exists for an unglamorous reason: a half-empty room at midday costs the same to staff as a full one, so restaurants would rather fill it cheaply than leave it empty.
+The same kitchen, the same chefs, the same dining room — for less than half the money. **Fixed-price menus are the biggest structural discount in London restaurants**, and it exists for an unglamorous reason: a half-empty room at midday costs the same to staff as a full one, so restaurants would rather fill it cheaply than leave it empty. The same logic applies to the early-evening tables a theatre crowd will vacate by 7pm, which is why pre-theatre menus exist and why they are priced the same way.
 
 Everything below was **read off each restaurant's own website or menu PDF and checked on 31 August 2026**. Where a price is a genuine saving against dinner, we say what dinner costs instead.
 
-> 💡 **The Short Version:** **Chez Bruce** is the biggest saving in London — £40.50 against £98.50 at dinner. **Brasserie Zédel** at £16.95 and **Franco Manca** at £12.50 are the cheapest worth eating. **Hawksmoor** does £20 for a course of proper steak. And most of these run **Monday to Friday only**.
+> 💡 **The Short Version:** **Chez Bruce** is the biggest saving in London — £40.50 against £98.50 at dinner. **Brasserie Zédel** at £16.95 and **Franco Manca** at £12.50 are the cheapest worth eating. **Hawksmoor** does £20 for a course of proper steak. **Bocca di Lupo** at £18 works for lunch and pre-theatre alike. And most of these run **Monday to Friday only**.
 
 > ⚠️ **Prices change and menus rotate.** These were correct on 31 August 2026. Confirm on the restaurant's own site before you travel — and never book a set menu from a third-party listing without checking it still exists.
 
 ---
 
-## How set lunch works
+## How these menus work
 
 **Weekdays, and often not Friday.** The great majority run Monday to Friday. Several stop at Thursday, and Chez Bruce runs Tuesday to Friday only.
 
@@ -84,6 +85,7 @@ This is where set lunch stops being a discount and becomes a different propositi
 | **The Palomar**, Soho | £28 / 3 courses | Lunch 12–2.30pm, pre-theatre 5–6pm |
 | **The Ivy West Street**, Covent Garden | £28.95 / 2, £34.95 / 3 | Mon–Fri 11.30am–6pm |
 | **Boisdale**, Belgravia | £29.50 / 2, £34.50 / 3 | Lunch — confirm hours when booking |
+| **Mucci's**, Chelsea | £10 every starter, £20 every main | All day, every day |
 | **Colbert**, Sloane Square | £30 / 2, £35.75 / 3 | Daily from noon |
 | **Quo Vadis**, Soho | £30 / 2, £35 / 3 | Mon–Sat, lunch and dinner. Max four |
 | **Som Saa**, Spitalfields | £35pp, £30 vegan — whole table | Mon–Sat 12–2.30pm |
@@ -92,17 +94,11 @@ This is where set lunch stops being a discount and becomes a different propositi
 
 **Brasserie Zédel is the value outlier** — £16.95 for two courses in a grand Art Deco basement off Piccadilly Circus. One honest caveat: it runs at dinner too, so it is a fixed-price menu rather than a lunchtime saving.
 
+**Mucci's on the King's Road works differently from everything else here.** It is not a time-limited offer at all: every starter is £10 and every main £20, all day, every day. One of the first London restaurants to price the whole menu by course rather than run a lunch window — so there is no clock to beat, and no weekday restriction.
+
+**Bocca di Lupo on Archer Street is the pick of these** — £18 for a starter and a main from the same regional Italian menu the restaurant is known for, running until 6.30pm so it works as lunch or pre-theatre, two minutes from Piccadilly Circus. The dishes change monthly.
+
 **Trishna in Marylebone** deserves its own line, because the pricing is tiered: one course £25 and two £35 **at weekday lunches only**, while three at £45 and four at £50 are also available in the early evening, 5–6.15pm.
-
----
-
-## Italian
-
-**Bocca di Lupo** on Archer Street is the pick. **£18 for a starter and a main, £26 with dessert**, Monday to Friday until 6.30pm — which makes it a lunch deal and a pre-theatre deal in one, two minutes from Piccadilly Circus. The dishes change monthly and are drawn from the same regional Italian menu the restaurant is known for.
-
-**Il Gattopardo** in Mayfair runs fixed-price, lunch and early-bird menus, though it does not publish all the prices — worth calling ahead. **Al Boccon di'vino** in Richmond serves a set menu with no choice at all: you eat what they are cooking, which is either the appeal or the problem depending on your temperament.
-
-For where to eat Italian in London generally, our [best Italian restaurants guide](/articles/best-italian-restaurants-london/) ranks by consensus across independent sources.
 
 ---
 
@@ -126,17 +122,25 @@ Two caveats on the chains. **Côte's price varies by branch**, so check the spec
 
 ---
 
-## Pre-theatre, which is the same trick moved later
+## Pre-theatre and early evening
 
-Several of the above double as pre-theatre menus, and a few are pre-theatre only. The mechanism is identical: a fixed price for an early sitting the restaurant needs to turn over before the post-show rush.
+Same mechanism, later in the day. A restaurant near a theatre needs its 5.30pm table back by 7.15pm, so it prices that sitting to fill it — and you get the identical kitchen at the identical discount, having had a proper day.
 
-- **Bocca di Lupo** — £18/£26 until 6.30pm, and the best-placed for Shaftesbury Avenue
-- **The Palomar** — £28, 5–6pm
-- **The Delaunay** — the "Full Haus", three courses and a drink for £29.50, Mon–Fri 4.30–6.30pm and again from 9pm
-- **Trishna** — the £45/£50 tiers run 5–6.15pm as well as at lunch
-- **Kitchen W8** — £49.50, at a 6–6.15pm sitting
+| Restaurant | Deal | When |
+| --- | --- | --- |
+| **Bocca di Lupo**, Soho | £18 starter + main, £26 with dessert | Mon–Fri until 6.30pm |
+| **The Palomar**, Soho | £28 / 3 courses | 5–6pm |
+| **The Delaunay**, Aldwych | "Full Haus" — 3 courses and a drink, £29.50 | Mon–Fri 4.30–6.30pm, and from 9pm |
+| **Sarastro**, Covent Garden | £27.50 / 2, £6 for dessert | Daily until 6pm |
+| **Boulevard Brasserie**, Covent Garden | £21.95 starter + main | Daily until 6.30pm |
+| **Trishna**, Marylebone | £45 / 3, £50 / 4 | 5–6.15pm |
+| **Kitchen W8**, Kensington ★ | £49.50 / 3 courses | 6–6.15pm sitting |
 
-If you are building an evening around a show, see our [London theatre guide](/articles/london-theatre-guide/) for curtain times and how they affect when you need to eat.
+**Bocca di Lupo is the best-placed of these** — two minutes from Shaftesbury Avenue, and its window runs to 6.30pm, which is late enough for a 7.30pm curtain without rushing.
+
+**The Delaunay's Full Haus runs again from 9pm**, which is the one on this page worth knowing for after a show rather than before it.
+
+**Watch the clock, not just the price.** A 6.30pm cut-off means ordering by 6.30pm, not arriving. For a 7.30pm curtain, book at 5.30pm — see our [London theatre guide](/articles/london-theatre-guide/) for how curtain times and running times actually work.
 
 ---
 
