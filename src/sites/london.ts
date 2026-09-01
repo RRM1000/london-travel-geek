@@ -52,7 +52,10 @@ export const londonSite: SiteConfig = {
         title: "This season",
         children: [
           { label: "Halloween in London", href: "/articles/halloween-london/", months: [9, 10] },
-          { label: "Bonfire Night", href: "/articles/bonfire-night-london/", months: [10, 11] },
+          // From September: the big ticketed displays go on sale in early
+          // October and the best ones sell out, so surfacing it the month
+          // before is the useful moment, not the month of.
+          { label: "Bonfire Night", href: "/articles/bonfire-night-london/", months: [9, 10, 11] },
           { label: "Christmas in London", href: "/articles/christmas-in-london/", months: [10, 11, 12] },
           { label: "Winter Wonderland", href: "/articles/hyde-park-winter-wonderland/", months: [10, 11, 12, 1] },
           { label: "London Film Festival", href: "/articles/london-film-festival/", months: [9, 10] },
@@ -75,13 +78,34 @@ export const londonSite: SiteConfig = {
       href: "/topics/london-areas/",
       description: "Every neighbourhood worth your time, compared honestly.",
       imageKey: "areas",
+      // Twenty-eight area guides exist and the panel was showing three of
+      // them. These are the ones people arrive already knowing the name of.
       children: [
         { label: "Best areas to visit", href: "/articles/best-areas-to-visit-london/" },
-        { label: "Notting Hill", href: "/articles/notting-hill-area-guide/" },
+        { label: "Covent Garden", href: "/articles/covent-garden-area-guide/" },
+        { label: "Soho", href: "/articles/soho-area-guide/" },
         { label: "Shoreditch", href: "/articles/shoreditch-area-guide/" },
+        { label: "Camden", href: "/articles/camden-area-guide/" },
+        { label: "Notting Hill", href: "/articles/notting-hill-area-guide/" },
+        { label: "South Bank", href: "/articles/south-bank-area-guide/" },
         { label: "Greenwich", href: "/articles/greenwich-area-guide/" },
-        { label: "All area guides", href: "/topics/london-areas/" },
+        { label: "Westminster", href: "/articles/westminster-area-guide/" },
+        { label: "Kensington", href: "/articles/kensington-area-guide/" },
+        { label: "The City of London", href: "/articles/city-of-london-area-guide/" },
+        { label: "All 28 area guides", href: "/topics/london-areas/" },
       ],
+      // The ones worth a journey that nobody types into a search box. Same
+      // mechanism as the seasonal rail, with no months, so it always shows.
+      secondary: {
+        title: "Further out",
+        children: [
+          { label: "Hampstead", href: "/articles/hampstead-area-guide/" },
+          { label: "Richmond", href: "/articles/richmond-area-guide/" },
+          { label: "Peckham", href: "/articles/peckham-area-guide/" },
+          { label: "Hackney", href: "/articles/hackney-area-guide/" },
+          { label: "Stratford", href: "/articles/stratford-area-guide/" },
+        ],
+      },
     },
     {
       label: "Plan",
