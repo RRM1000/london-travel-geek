@@ -52,21 +52,51 @@ London is the most filmed city in Europe and most of its locations are ordinary 
 
 *Exterior only*
 
-The **ornate banking hall of Australia House**, a real working diplomatic building. You can see the outside; the interior is not open to visitors.
+The **ornate banking hall of Australia House** played Gringotts in the first film, chandeliers and marble intact, because the production wanted a room that already looked like inherited wealth.
+
+It is a real working High Commission, so **the interior is not open to visitors** and no amount of asking changes that. The exterior on the Strand is free to look at, and it is a two-minute walk from Somerset House below.
 
 ### Leadenhall Market, City of London
 
 *Free*
 
-An 1881 covered market in cream, maroon and green wrought iron, used for **Diagon Alley** — the blue door of the Leaky Cauldron was an optician's shop.
+An 1881 covered market in cream, maroon and green wrought iron, used for **Diagon Alley** in the first film. The blue door that served as the entrance to the Leaky Cauldron belongs to what is now an opticians on Bull's Head Passage.
+
+The painted ironwork and glass roof needed no set dressing at all. **Free to walk through in the daytime**, but the shops and bars inside keep City hours — so it is at its most atmospheric on a weekday evening and dead on a Sunday.
 
 ### Platform 9¾, King's Cross
 
 *Free*
 
-The trolley in the wall, with a permanent queue and a staff member to help with the scarf. Between platforms 9 and 10 in the main concourse.
+The trolley embedded in a wall, with a permanent queue, a staff member to swing the scarf and a photographer to sell you the result.
+
+**The on-screen barrier was actually shot between platforms 4 and 5**, and the trolley sits in the western departures concourse, nowhere near either. Both facts are true and the queue does not care. **Free to look at**; expect a long wait at weekends and in school holidays, and note the shop beside it needs no ticket.
 
 ---
+
+### The Millennium Bridge — Bankside
+
+*Free · open at all times*
+
+Destroyed by Death Eaters in the opening minutes of **Harry Potter and the Half-Blood Prince (2009)**, writhing and collapsing into the Thames while Muggle London watches.
+
+It survived in reality, and the walk across it gives the best straight-on view of St Paul's in the city. **Free and open at all times**, two minutes from Tate Modern — and it is the single easiest location on this page to fit into a day you were having anyway.
+
+### Claremont Square — Islington
+
+*Free · viewable from the pavement*
+
+**12 Grimmauld Place** was a set built at Leavesden, but it was modelled on this Georgian terrace above the Angel, which is why the square looks so familiar and so slightly wrong at the same time.
+
+The centre of the square is a covered Victorian reservoir behind railings, which explains the odd raised bank of grass. **A private residential square** — look from the pavement and keep the noise down, because people live here.
+
+### London Zoo's Reptile House — Regent's Park
+
+*Ticketed · inside the zoo*
+
+Where Harry discovers he can talk to snakes and Dudley ends up behind the glass, in **the Philosopher's Stone (2001)**. The 1927 Reptile House is still in use and still recognisable.
+
+**It is inside the zoo, so it needs a full paid ticket** — and London Zoo is one of the more expensive attractions in the city. Worth it if you were going anyway; not worth it for the scene alone.
 
 ## Bond
 
@@ -74,15 +104,43 @@ The trolley in the wall, with a permanent queue and a staff member to help with 
 
 *Open · book a table*
 
-**London's oldest restaurant**, trading since 1798, written into *Spectre* as Bond's own favourite. You can book the table.
+**London's oldest restaurant**, trading since 1798, written into *Spectre* as Bond's own regular — M meets him here, and the film makes no attempt to disguise the room.
+
+Game is the speciality, hung and served in season from the restaurant's own moor. **You can book the table**, and you should: it is small, panelled and busy, and walk-ins are optimistic. Expect proper prices.
 
 ### Skyfall's "Shanghai" pool — Four Seasons, Canary Wharf
 
 *Hotel*
 
-Daniel Craig's Shanghai hotel pool scene was filmed **in Canary Wharf**, which is a very London kind of substitution.
+Bond's Shanghai hotel pool, all glass and neon reflections, was filmed **at the Four Seasons in Canary Wharf** — a very London kind of substitution, using the one part of the city that could pass for a Chinese financial district.
+
+**It is a working hotel pool**, so access means being a guest or booking the spa. The lobby is public and the towers outside are the more honest photograph.
 
 ---
+
+### Somerset House — Strand
+
+*Free courtyard · exhibitions ticketed*
+
+Bond drives a **tank through St Petersburg** in **GoldenEye (1995)** — in a courtyard three minutes' walk from Waterloo Bridge. The neoclassical facades passed for Russian imperial architecture, so the production never left London.
+
+**The courtyard is free and open daily**: fountains in summer, an ice rink in winter. Exhibitions inside are ticketed and separate.
+
+### The National Gallery — Trafalgar Square
+
+*Free*
+
+Bond meets Q on a bench in front of **Turner's The Fighting Temeraire** in **Skyfall (2012)** — a warship being towed away to be broken up, which makes the film's point about obsolescence without anyone having to say it.
+
+**The painting is on permanent display and free to see**, and the gallery opens late one evening a week, which is by far the best time to visit. Ask at the desk for the Turner rooms; they get asked constantly.
+
+### The Treasury Building — Great George Street
+
+*Free to view from the street*
+
+The Edwardian government block off Whitehall stands in for the security establishment Bond spends **Spectre (2015)** fighting.
+
+**The building is not open to the public**, but the **Churchill War Rooms sit underneath it** — ticketed, and worth booking ahead rather than turning up.
 
 ## Television
 
@@ -90,7 +148,9 @@ Daniel Craig's Shanghai hotel pool scene was filmed **in Canary Wharf**, which i
 
 *Free · exterior*
 
-The grubby door the slow horses trudge through in nearly every episode of *Slow Horses* is **a real one**, on the corner of Aldersgate Street. The interiors are a set.
+The grubby door the slow horses trudge through in nearly every episode is **a real one**, on the corner of Aldersgate Street opposite the Barbican. The interiors — the damp, the piles of paper, Lamb's office — are a set built elsewhere.
+
+**Free to see from the pavement, at any time.** It is an unremarkable doorway next to a shop, which is exactly the point, and it is thirty seconds from Barbican station.
 
 ### Sherlock's 221B — North Gower Street, Bloomsbury
 
@@ -102,11 +162,21 @@ The BBC filmed its 221B exterior here rather than on the real, much busier Baker
 
 *Grounds free*
 
-Wren's riverside campus stands in for Buckingham Palace, and has also played 1830s Paris in *Les Misérables* and Asgard in *Thor*.
+Wren's riverside campus stands in for **Buckingham Palace's exterior and courtyard** throughout *The Crown* — the real palace does not allow filming, so almost every screen version of it is somewhere else.
+
+The same buildings have played 1830s Paris in *Les Misérables* and Asgard in *Thor: The Dark World*. **The grounds are free and open daily**; the Painted Hall is ticketed. Allow an hour, and combine it with the Cutty Sark five minutes away.
 
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-filming-locations-harry-potter-london-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Harry Potter London walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+### Sherlock's fall — St Bartholomew's Hospital, Smithfield
+
+*Free to view · working hospital*
+
+Sherlock jumps from the roof of the pathology block and lands on the pavement below in **The Reichenbach Fall (2012)**. Fans left so many notes on the wall and the phone box outside that the hospital had to manage it.
+
+Barts is also **the oldest hospital in Britain still on its original site**, founded in 1123. **The exterior and the square are public**; the small museum keeps limited hours. It is a working hospital, so keep out of the way of patients.
 
 ## Guy Ritchie's London
 
@@ -114,13 +184,17 @@ Wren's riverside campus stands in for Buckingham Palace, and has also played 183
 
 *Free · exteriors*
 
-Several genuine East End addresses, including **Bethnal Green Town Hall** as the tailor's shop — now a hotel.
+Several genuine East End addresses, including **Bethnal Green Town Hall** as Franky Four Fingers's tailor — the Edwardian civic building is now a hotel, and you can walk into the bar and stand in the shot.
+
+**Exteriors are free to see at any time.** The pawn shop frontages were dressed for filming and have since reverted, so they take some finding — this is a location for people who already like the film.
 
 ### Snatch's Diamond Store, Hatton Garden
 
 *Free*
 
-Doug the Head's diamond shop is on **Hatton Garden, London's real diamond district**.
+Doug the Head's diamond shop sits on **Hatton Garden, London's real diamond district** — Ritchie did not have to invent a setting, because roughly three hundred jewellery businesses genuinely trade on and around this one street.
+
+**Free, and best on a weekday** when the shops are open and the street is working. The same stretch played Greenwich Village in *Eyes Wide Shut* — see below.
 
 ### Feng Shang Princess, Regent's Canal
 
@@ -154,13 +228,17 @@ The pub Shaun and Ed barricade themselves in for the finale of *Shaun of the Dea
 
 *Exterior only*
 
-A grand Victorian former lead-manufacturing warehouse used for **Gotham's police HQ interiors across two Batman films**.
+A grand Victorian former lead-manufacturing warehouse on St John Street, used for **Gotham City Police Department interiors in Batman Begins and The Dark Knight Rises**. The cast-iron galleries and top light did the work that would otherwise have cost a set.
+
+**Exterior only and privately owned** — it has been redeveloped, so what you see from the street is the shell rather than the rooms. Five minutes from Farringdon.
 
 ### 28 Weeks Later — Isle of Dogs
 
 *Free*
 
-The Isle of Dogs plays "District 1", the film's US-military quarantine zone. Its high-rises and water on three sides made the isolation plausible.
+The Isle of Dogs plays **"District 1"**, the US-military quarantine zone where survivors are resettled. Water on three sides and a wall of towers made the isolation plausible without a single effect shot.
+
+The production also got permission to close central London at dawn for the empty-city sequences — the same trick as the first film. **Free and open at all times**, and the Docklands Light Railway runs right through it, which is the easiest way to see the geography the film is using.
 
 ---
 
@@ -175,6 +253,78 @@ The fictional **32 Windsor Gardens** is a pastel-painted Primrose Hill crescent.
 There is also a **Paddington Bear trail** around Paddington station itself, and a statue on the concourse.
 
 ---
+
+---
+
+## Blockbusters
+
+### The Old Royal Naval College — Greenwich
+
+*Free grounds · Painted Hall ticketed*
+
+Thor and Malekith fight through Wren's colonnades in the finale of **Thor: The Dark World (2013)**, and Greenwich plays itself rather than standing in for anywhere — unusual for a Marvel film.
+
+The same buildings have doubled for Paris, St Petersburg and Gotham elsewhere. **The grounds are free and open daily**; the Painted Hall is ticketed and worth it on its own terms.
+
+### Trafalgar Square — Westminster
+
+*Free · open at all times*
+
+Dressed as 1918 London for the Armistice celebrations that close **Wonder Woman (2017)**.
+
+The square has appeared as itself in more productions than almost anywhere else in London. **Free, always open**, and the National Gallery on the north side is free too — see Skyfall above.
+
+### Canary Wharf Underground Station — Isle of Dogs
+
+*Free to walk through*
+
+Norman Foster's cathedral-scale ticket hall played an **Imperial facility in Rogue One (2016)**, and needed almost no set dressing beyond the lighting — the concrete vaults already look like something the Empire would have built.
+
+**A working Jubilee line station.** Quietest at weekends, when the Wharf empties out.
+
+### Blackfriars Bridge — City of London
+
+*Free · open at all times*
+
+Tom Cruise runs along the top of the bridge in the chase that ends at Tate Modern in **Mission: Impossible — Fallout (2018)**, having already run across the roof of Blackfriars station.
+
+**The best view of the run is from the Thames Path** on the south bank, looking north.
+
+---
+
+## London playing somewhere else
+
+### Hatton Garden — Clerkenwell
+
+*Free · a working street*
+
+Kubrick would not fly to New York, so American shopfronts and a payphone were added to this stretch of London's jewellery quarter to turn it into **Greenwich Village for Eyes Wide Shut (1999)**, where Tom Cruise's character is followed through the night.
+
+It is the clearest example in the city of London standing in for somewhere else entirely. **Nothing marks it** — it is a working street of jewellers, open in shop hours and busy on weekdays. The same street appears in *Snatch* below, as itself.
+
+### The British Museum — Bloomsbury
+
+*Free*
+
+The museum sequence in **The Mummy Returns (2001)** was filmed at the museum itself — though the exterior shots used **UCL's front quad** up the road, because the real facade was behind scaffolding at the time. Two Bloomsbury buildings, one museum, in the same film.
+
+**Free and open daily.** Use the Montague Place entrance at the back to skip the queue on Great Russell Street.
+
+### Paddington Station — Paddington
+
+*Free to walk through*
+
+Eloise steps off the train from Cornwall under Brunel's roof at the start of **Last Night in Soho (2021)**, before the film begins its slow turn from wonder to dread.
+
+The same shed appears in both **Paddington** films, for reasons that need no explanation. **Free to walk through**; the Paddington Bear statue on platform 1 is the other reason people stop.
+
+### Parliament Square — Westminster
+
+*Free · open at all times*
+
+Bridge Street and Parliament Street were closed overnight to film the masked crowd converging on Westminster in **V for Vendetta (2005)**.
+
+The mask has since escaped the film entirely and turns up at real protests in the same square. **Free and always open**, though the square is often partly fenced for works or demonstrations.
 
 ## What it costs
 
