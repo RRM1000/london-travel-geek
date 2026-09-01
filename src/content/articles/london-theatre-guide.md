@@ -109,7 +109,7 @@ A West End ticket can vary by more than £100 within the same performance, and t
 
 **Most of these theatres are Victorian or Edwardian**, which has consequences: narrow seats, tight legroom, steep upper tiers and overhangs that cut off the top of the stage. A cheap seat in a well-shaped house can be better than an expensive one behind a pillar.
 
-**Two things are worth knowing before you book.** The **overhang** — where the tier above cuts into your view of the stage's upper half — and whether the theatre sells **restricted view** seats honestly, which most now do. **Standing places** are the cheapest option where they exist; Shakespeare's Globe sells standing in the yard for £5–£10, which is the best-value theatre ticket in London.
+**Two things are worth knowing before you book.** The **overhang** — where the tier above cuts into your view of the stage's upper half — and whether the theatre sells **restricted view** seats honestly, which most now do.
 
 For seat-by-seat detail — which rows, which numbers, which to avoid — that is what **[the seat guides](https://www.londontheatregeek.co.uk/guides/best-theatre-seats)** are for, theatre by theatre.
 
