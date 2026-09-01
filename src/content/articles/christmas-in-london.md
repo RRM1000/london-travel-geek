@@ -173,6 +173,16 @@ Panto is not the only thing on, and two of the best tickets in London at Christm
 
 **It is the answer to "we want something Christmassy but not a panto and not earnest."** It also runs well past Christmas, into late January, which makes it the easiest festive ticket to get if you leave it late.
 
+### The Great Christmas Feast, The Lost Estate
+
+**The third way to do *A Christmas Carol*, and the only one you eat your way through.** The Lost Estate in West Kensington stages it as an immersive Victorian evening built around the moment Dickens first read the story aloud — live music, theatre performed around the tables, and a full feast rather than a pre-theatre bite.
+
+It is the same story as the Old Vic's and Mischief's, and a completely different night: you are seated at a table inside it rather than watching from a seat. The Lost Estate has been doing this since 2017, and its current shows run £74.85 to £119.85, so budget accordingly.
+
+> ⚠️ **Confirmed for 2026, but nothing else is.** The company says the Feast returns and is running a **presale signup**, but **no dates and no prices have been published** — its own show page is still an empty 2022 stub. Join the presale list rather than waiting for a listing to appear, because these sell through the list first.
+
+**[More immersive nights out →](/articles/immersive-experiences-london/)** · **[The cabaret guide →](/articles/best-cabaret-london/)**
+
 ### And the pantomimes
 
 **Two worth booking properly**, rather than picking whatever is nearest: **Hackney Empire's** *Jack and the Beanstalk* (21 November – 31 December 2026), directed by and starring Olivier winner Clive Rowe, **£10–£48**; and the **London Palladium's** *Cinderella* (5 December 2026 – 10 January 2027), with Dawn French and Jennifer Saunders reuniting as the Ugly Sisters for the first time in 17 years.

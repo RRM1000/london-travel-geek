@@ -112,15 +112,26 @@ export const londonSite: SiteConfig = {
       href: "/topics/london-itineraries/",
       description: "Itineraries built around how much time you really have.",
       imageKey: "plan",
+      // Two questions, not one list. The left column answers "how long have I
+      // got"; the right answers "what do I need to sort before I fly". Mixed
+      // together they read as seven unrelated links.
       children: [
-        { label: "Itineraries by days & interests", href: "/articles/london-itineraries-by-days-and-interests/" },
-        { label: "One day in London", href: "/articles/one-day-london-itineraries-by-interest/" },
+        { label: "Start here: which plan fits", href: "/articles/london-itineraries-by-days-and-interests/" },
+        { label: "One day — 13 plans by interest", href: "/articles/one-day-london-itineraries-by-interest/" },
         { label: "Three days in London", href: "/articles/three-days-in-london-itinerary/" },
         { label: "Five days in London", href: "/articles/five-days-in-london-itinerary/" },
-        { label: "Is the London Pass worth it?", href: "/articles/london-pass-guide/" },
-        { label: "London on a budget", href: "/articles/london-on-a-budget/" },
-        { label: "Travel SIM & eSIM", href: "/topics/travel-sim-cards/" },
+        { label: "All itineraries", href: "/topics/london-itineraries/" },
       ],
+      secondary: {
+        title: "Before you go",
+        children: [
+          { label: "London on a budget", href: "/articles/london-on-a-budget/" },
+          { label: "Is the London Pass worth it?", href: "/articles/london-pass-guide/" },
+          { label: "Travel SIM & eSIM", href: "/topics/travel-sim-cards/" },
+          { label: "Getting around London", href: "/articles/getting-around-london-transport-guide/" },
+          { label: "Public toilets", href: "/articles/public-toilets-london/" },
+        ],
+      },
     },
     {
       // "Getting Around" rather than "Transport": it is the site's own
