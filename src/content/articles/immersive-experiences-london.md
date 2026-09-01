@@ -160,6 +160,10 @@ The distinction that matters more than genre. In these, you have a role, and sta
 
 **PAC-MAN LIVE EXPERIENCE** puts you in an illuminated maze as PAC-MAN — collecting power, avoiding ghosts, against the clock, in teams. It is the first in London.
 
+![A vast illuminated maze laid out across a dark floor in glowing blue and white lines and dots, with players running the corridors and a scoreboard reading CHOMP on the wall above](../../assets/articles/immersive-experiences-london/pac-man-live-maze.jpg)
+
+*The maze is the floor, and you are the yellow dot. Photo: PAC-MAN™ &amp; © Bandai Namco Entertainment Inc. / The Ents Inc Ltd.*
+
 **Alien Invasion** is the new one and the reason to pay attention: you join the Cosmic Cadets against an extraterrestrial threat in what is billed as **the UK's first immersive drone experience**. It debuts here.
 
 **The £50 three-game ticket is the one that makes sense** — £30 for a single game is a lot for one activity, and £50 for all three is barely more than the price of two.

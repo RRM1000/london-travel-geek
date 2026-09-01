@@ -174,6 +174,10 @@ The Victoria line trip is worth it for the building alone, and that is not a thr
 
 It is a basement club under the Phoenix Theatre, now advertising "35+ years," and the format is a **multi-act bill rather than a single show** — drag, musical theatre, burlesque, aerial and comedy, with changing line-ups nightly. **Doors are at 9pm**, and a late-night cocktail bar carries on afterwards, which is what separates it from a theatre that closes when the curtain falls.
 
+![A performer in a leopard-print gown and wide brimmed hat lit by pink and purple spotlights on the small stage at the Phoenix Arts Club, with an audience seated at tables a few feet away](../../assets/articles/best-cabaret-london/phoenix-arts-club.jpg)
+
+*A basement stage with the front table close enough to touch it. Photo: The Phoenix Arts Club.*
+
 **Show tickets start at £15.** Annual membership starts at £150, but you do not need it: **non-members can buy a show ticket and receive temporary membership for that night**, which is the thing most people get wrong about the venue.
 
 **Neither an age limit nor an access statement is published.** Given it is a basement under a listed theatre, ring ahead if steps are a problem rather than assuming.
@@ -336,6 +340,10 @@ The current show is **Roxie Rocks Chicago, running 24 September to 30 January 20
 
 The setting is 1930s New York: **three sets of live jazz** wrapped in theatrical performance and storytelling, with a **six-course period tasting menu** for those who want it. **Experience-only tickets are £74.85 and six-course dining starts at £119.85.** Shows run Tuesday to Sunday at 7pm with 1pm matinees, and there is a dress code — "blacks, whites, and metallics, elevated by satin, silk, sharp suiting."
 
+![The 58th Street room set as a supper club, with a grand piano and drum kit on a low stage, pink shaded table lamps on every table and a lit sign reading 58th Street Country Club behind the bar](../../assets/articles/best-cabaret-london/lost-estate-58th-street.jpg)
+
+*The room is the set, which is why the experience-only ticket still works: you are sitting inside the thing you paid for. Photo: The Lost Estate.*
+
 **The address is deliberately withheld**, "as any self-respecting speakeasy should be," and issued to ticket holders. It is in Peckham; plan your route home accordingly, because that is a different journey from a Soho night.
 
 The same company's **Great Christmas Feast**, its Dickens and *A Christmas Carol* show, returns for 2026 — but presale signup is all that exists so far, with **no dates and no prices published**.
@@ -447,6 +455,10 @@ It runs **Monday, Wednesday, Friday and Saturday, 11pm to 3.30am**, on bottle se
 **The only proper circus that plays a West End theatre**, which is the whole reason it is here rather than in a field.
 
 More than thirty international acrobats, aerialists and stunt performers do the Globe of Death on motorcycles, aerial work, hand-balancing, knife throwing and comedy — theatre-seated, so everyone can see, which is not true of a big top. The Garrick run is **21 to 31 October 2026, tickets from £15**, running **1 hour 45 minutes including one interval.** That is a short, cheap, genuinely spectacular night out and it sells accordingly.
+
+![A rider in full leathers and helmet on a motorcycle in front of the steel mesh sphere of the Globe of Death, one arm raised, backlit through stage haze](../../assets/articles/best-cabaret-london/cirque-berserk-globe.jpg)
+
+*The Globe of Death, which is the act everyone leaves talking about — and the reason theatre seating matters. Photo: Cirque Berserk.*
 
 A **45-minute version called "IGNITE!" plays Hyde Park Winter Wonderland** from November 2026 into January 2027, booked through the Winter Wonderland site, where **prices are not published**.
 
