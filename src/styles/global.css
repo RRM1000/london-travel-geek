@@ -85,10 +85,10 @@
     --rail-gap: 1.5rem;
     /* Space held back for the booking card pinned under the contents, so the
        contents can never squeeze it out. Covers the card itself plus the
-       column gap above it: SidebarActivities renders about 223px with two
-       entries, and this leaves a little headroom for a long venue name
-       wrapping onto a third line. */
-    --sidebar-widget-reserve: 16rem;
+       column gap above it: SidebarActivities renders 263px with two entries,
+       280px on its longest copy in the set (Kew, on the Richmond guide), and
+       this leaves headroom above that for a venue name wrapping further. */
+    --sidebar-widget-reserve: 19rem;
     --sticky-top: calc(var(--header-visible-height) + var(--rail-gap));
     --sticky-top-max: calc(var(--header-height) + var(--rail-gap));
   }
