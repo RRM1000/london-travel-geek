@@ -230,6 +230,18 @@
       "name": "Humo (star lost, still open)",
       "detail": "Mayfair. LOST its Michelin star in the 2026 guide but is STILL TRADING NORMALLY. Not a closure - the hazard is the opposite: any guide still calling it Michelin-starred is wrong. Chef Miller Prada left in early 2025; Robbie Jameson took over.",
       "recorded": "2026-08-26"
+    },
+    "maroush edgware road": {
+      "name": "Maroush (56 Edgware Road)",
+      "detail": "Checked 2026-09-02. No page for this address on maroush.com - the group's current list has Ranoush Juice at 43 Edgware Road, not 56. Maroush Group Ltd and Maroush II Company Ltd have both been in administration since 12 June 2026, proposals approved 29 August 2026. Maroush Express Ltd carries an active proposal to strike off. The brand still trades elsewhere. Treat this address as closed pending a phone check."
+    },
+    "kateh": {
+      "name": "Kateh, Little Venice",
+      "detail": "Checked 2026-09-02. katehrestaurant.co.uk returns a Wix 'domain not connected' error rather than an ordinary 404. New Kateh Limited was incorporated 20 August 2026 with a licensed-restaurant SIC code, which may indicate a relaunch under new ownership. Named in the Paddington area guide. Unresolved."
+    },
+    "goods way": {
+      "name": "Goods Way, King's Cross",
+      "detail": "Checked 2026-09-02. goodsway.co.uk is dead. The King's Cross estate lists 11 Goods Way N1C 4DP as Lafayette, a New Orleans-inspired venue with current hours, so this looks like a rename rather than a closure - but lafayettelondon.com also 404s. Do not link goodsway.co.uk either way."
     }
   },
   "hijackedDomains": {

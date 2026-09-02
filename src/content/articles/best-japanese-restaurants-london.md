@@ -272,7 +272,7 @@ The house style is **shoyu and shio** rather than the heavy pork-bone broth ever
 
 **£, walk-in only.** Old Street, and quieter than the Covent Garden ramen queues at almost every hour.
 
-### Ramo Ramen, Kentish Town
+### Ramo Ramen, Soho
 
 *££ · Filipino-Japanese* · Cited by 2 sources
 
@@ -280,7 +280,9 @@ The house style is **shoyu and shio** rather than the heavy pork-bone broth ever
 
 The **oxtail kare kare ramen** is the dish the whole place is built around: the Filipino peanut-and-oxtail stew rebuilt as a ramen broth, rich and slightly sweet, with bagoong on the side to season it yourself. Sisig and Filipino small plates alongside.
 
-**££, walk-in.** Kentish Town, and busiest in the evening. The most original bowl of ramen in London and not a close contest.
+**££, walk-in.** 28 Brewer Street, and busiest in the evening. The most original bowl of ramen in London and not a close contest.
+
+**It moved.** The original Kentish Town Road site closed in August 2024 and the space is now a different restaurant — Soho is the only Ramo Ramen, so ignore any list still sending you to NW1.
 
 ### Koya Ko, Bloomsbury
 

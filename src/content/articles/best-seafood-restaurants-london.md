@@ -64,7 +64,7 @@ The city does it three ways, and picking one settles most of the decision: shuck
 | **Chelsea & Sloane Square** | The Sea, The Sea, Bibendum Oyster Bar |
 | **Hackney & Shoreditch** | Behind |
 | **Notting Hill & west** | Orasay, Faber, Sam's Riverside |
-| **North London** | Prawn on the Lawn, Tollington's, London Shell Co |
+| **North London** | Tollington's, London Shell Co |
 | **Barnes** | Rick Stein |
 | **Canary Wharf** | Billingsgate Fish Market |
 
@@ -261,22 +261,6 @@ By day it sells fish; in the evening it turns into a **counter tasting menu buil
 The grill does whole fish and shellfish over charcoal: **whole seabass, king prawns, scallops in the shell**, plus a fish curry that regulars order over anything grilled. Market produce means the board changes constantly.
 
 **£££, book a few days ahead**, and note it keeps market hours — this is lunch and early evening rather than a late dinner.
-
-### Prawn on the Lawn, Highbury
-
-*£££ · Highbury & Islington · Cited by 2 sources*
-
-**Direct links to Padstow day boats**, which is the whole argument for it — the same owners run a restaurant in Padstow and the fish comes up overnight.
-
-The **prawn and avocado** is the signature, but **the blackboard specials are the reason to go back** — they change with whatever came off the boat that morning. Small plates rather than mains, ordered across the table.
-
-**£££, book a few days ahead.** A small Highbury room with a fishmonger's counter at the front; sit at the counter if there is space.
-
----
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-seafood-restaurants-london-billingsgate-seafood-tour-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Billingsgate seafood tour London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
-## The starred fish kitchens
 
 ### Behind, London Fields
 

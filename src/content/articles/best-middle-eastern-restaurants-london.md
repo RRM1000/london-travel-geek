@@ -382,7 +382,7 @@ Falafel is where this cuisine is cheapest and best, and all of these are entirel
 
 ## The two streets
 
-**Edgware Road** is the Arab Middle Eastern quarter — Lebanese, Syrian, Egyptian and Iraqi — running north from Marble Arch. Green Valley is the anchor grocer, and **Maroush**, **Ranoush Juice** (shawarma to 3am) and the tiny Persian grill **Patogh** are the other names locals give. Late-night is the point of this street.
+**Edgware Road** is the Arab Middle Eastern quarter — Lebanese, Syrian, Egyptian and Iraqi — running north from Marble Arch. Green Valley is the anchor grocer, and **Ranoush Juice** (shawarma to 3am) and the tiny Persian grill **Patogh** are the other names locals give. Late-night is the point of this street.
 
 **Green Lanes** in Harringay is a different thing entirely: **Turkish and Turkish-Kurdish**, not Arab. **Gökyüzü**, **Antepliler** for Gaziantep kebabs and baklava, and **Yaşar Halim** for the bakery-supermarket. Do not go looking for Lebanese mezze there.
 

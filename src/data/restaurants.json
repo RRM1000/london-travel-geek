@@ -1,13 +1,13 @@
 {
  "generated": "2026-09-02",
- "count": 848,
- "withCoords": 787,
+ "count": 847,
+ "withCoords": 785,
  "facets": {
   "cuisine": [
    {
     "value": "British",
     "slug": "british",
-    "count": 246
+    "count": 245
    },
    {
     "value": "Italian",
@@ -149,7 +149,7 @@
    {
     "value": "Soho",
     "slug": "soho",
-    "count": 88
+    "count": 89
    },
    {
     "value": "Mayfair",
@@ -189,7 +189,7 @@
    {
     "value": "Islington",
     "slug": "islington",
-    "count": 24
+    "count": 23
    },
    {
     "value": "City Of London",
@@ -207,11 +207,6 @@
     "count": 16
    },
    {
-    "value": "Camden",
-    "slug": "camden",
-    "count": 12
-   },
-   {
     "value": "Canary Wharf",
     "slug": "canary-wharf",
     "count": 12
@@ -219,6 +214,11 @@
    {
     "value": "Bloomsbury",
     "slug": "bloomsbury",
+    "count": 11
+   },
+   {
+    "value": "Camden",
+    "slug": "camden",
     "count": 11
    },
    {
@@ -326,7 +326,7 @@
    {
     "value": "seafood",
     "slug": "seafood",
-    "count": 80
+    "count": 79
    },
    {
     "value": "pasta",
@@ -488,7 +488,7 @@
    {
     "value": "£££",
     "slug": "price-3",
-    "count": 219
+    "count": 218
    },
    {
     "value": "£",
@@ -13746,21 +13746,15 @@
    ],
    "format": "Restaurant",
    "chainType": "mini-chain",
-   "area": "Kentish Town",
-   "zone": "2",
-   "district": "North",
-   "borough": "Camden",
-   "guide": "camden-area-guide",
-   "address": "157 Kentish Town Rd, London NW1 8PD, UK",
-   "postcode": "NW1 8PD",
-   "lat": 51.545828,
-   "lng": -0.142015,
-   "station": "Kentish Town",
-   "walkMin": 10,
+   "area": "Soho",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "address": "28 Brewer Street",
+   "postcode": "W1F 0SR",
    "price": "££",
    "booking": "walk-in",
-   "bookingUrl": "https://www.sevenrooms.com/reservations/ramosoho/",
-   "website": "http://www.ramoramen.com/",
    "goodFor": [
     "quick",
     "solo",
@@ -30105,41 +30099,6 @@
    "sourceCount": "2",
    "sourceTiers": "B2",
    "sourceUrls": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london | https://www.thehandbook.com/london-seafood-restaurants/"
-  },
-  {
-   "slug": "prawn-on-the-lawn",
-   "name": "Prawn on the Lawn",
-   "cuisine": "British",
-   "style": "Fishmonger and restaurant",
-   "specialities": [
-    "seafood"
-   ],
-   "format": "Restaurant",
-   "chainType": "mini-chain",
-   "area": "Highbury",
-   "zone": "2",
-   "district": "North",
-   "borough": "Islington",
-   "guide": "islington-area-guide",
-   "address": "292-294 St Paul's Road",
-   "postcode": "N1 2LH",
-   "lat": 51.546323,
-   "lng": -0.101034,
-   "price": "£££",
-   "booking": "days",
-   "website": "http://www.prawnonthelawn.com/",
-   "goodFor": [
-    "date",
-    "solo"
-   ],
-   "whyGo": "Direct links to Padstow day boats, which is the whole argument for it. The prawn and avocado is the signature; the blackboard specials are the reason to go back.",
-   "signature": "Prawn and avocado",
-   "lists": [
-    "seafood"
-   ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.thehandbook.com/london-seafood-restaurants/ | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out"
   },
   {
    "slug": "behind-london-fields",

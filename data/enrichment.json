@@ -10300,24 +10300,6 @@
     "bookingUrl": "http://rabiengthai.co.uk/reservations",
     "pressChecked": "2026-08-17"
   },
-  "ramo-ramen": {
-    "placeId": "ChIJV-84VrEbdkgRy9eK_8u0GSY",
-    "placesName": "Ramo Ramen",
-    "address": "157 Kentish Town Rd, London NW1 8PD, UK",
-    "postcode": "NW1 8PD",
-    "website": "http://www.ramoramen.com/",
-    "businessStatus": "CLOSED_PERMANENTLY",
-    "lat": 51.545828,
-    "lng": -0.142015,
-    "ward": "Kentish Town South",
-    "station": "Kentish Town",
-    "stationDistanceM": 598,
-    "walkMin": 10,
-    "walkFrom": "Kentish Town Underground Station",
-    "bookingPlatform": "sevenrooms",
-    "bookingUrl": "https://www.sevenrooms.com/reservations/ramosoho/",
-    "pressChecked": "2026-08-17"
-  },
   "randall-and-aubin": {
     "lat": 51.512359,
     "lng": -0.134169,
