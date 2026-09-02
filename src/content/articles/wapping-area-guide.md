@@ -104,23 +104,41 @@ Wapping has its own share of the commemorative plaques marking where notable peo
 ## Key streets and micro-districts
 
 ### Wapping High Street
-The spine. Cobbles, warehouse conversions, hoist beams and the Town of Ramsgate.
+The spine, and not a high street in any ordinary sense — **there are almost no shops on it at all**. What there is instead is a continuous run of Victorian warehouses converted to flats in the 1980s, with the original **hoist beams still bolted to the facades** above your head and the street names of the wharves kept on the buildings.
+
+The **Town of Ramsgate** sits about halfway along, beside **Wapping Old Stairs** — a set of steps down to the foreshore, and one of the few places in central London where you can still stand on the river bed at low tide.
+
+**Come with what you need.** There is no supermarket worth the name and very little open on a Sunday. Wapping station is on the Overground, in Brunel's original Thames Tunnel, which is worth a look on the way down to the platform.
 
 ### Wapping Wall
-East. The Prospect of Whitby, the old hydraulic pumping station and Shadwell Basin.
+East, and the short stretch with the most on it. The **Prospect of Whitby** claims to be the oldest riverside pub in London — a flagstone floor, a pewter bar and a noose hanging over the water at the back, which is a reference to the executions that took place along this reach.
+
+Next to it stands the **old hydraulic power station**, which pumped pressurised water to drive lifts, cranes and theatre curtains across London until 1977 and is one of the last of its kind anywhere.
+
+**It is a five-minute street.** Pair it with Shadwell Basin at the end rather than making it the destination.
 
 ### St Katharine Docks
-West, beside the Tower. The marina, the lock and the restaurants around it.
+West, tucked behind the Tower, and the part of Wapping most visitors actually reach. Thomas Telford built it in the 1820s; it is now a **working marina**, so the water is full of yachts rather than empty, and the lock onto the Thames still operates.
+
+The restaurants and bars ring the basin, including the **Dickens Inn** below.
+
+**Free, open at all times, and the easiest walk from Tower Hill** — about five minutes. It is also the one part of this guide that is busy, so come early if you want the dock without the crowds.
 
 ![The Dickens Inn, a three-storey timber-framed pub with balconies over St Katharine Docks marina](../../assets/articles/wapping-area-guide/dickens-inn.jpg)
 
 *The Dickens Inn — an early-1700s warehouse moved bodily across the dock and opened as a pub in 1976 by Charles Dickens's great-grandson.*
 
 ### Shadwell Basin
-North-east. A surviving dock basin, now used for watersports, ringed by red-brick housing.
+North-east, and **the last large piece of open dock water left in Wapping** — everything else was filled in. It is ringed by the red-brick postmodern housing of the 1980s regeneration, with arched frames over the water that people either love or find ridiculous.
+
+An **outdoor activity centre** runs kayaking and sailing on it, so there is usually something moving on the water.
+
+**Free to walk round.** The [Ornamental Canal](/articles/hidden-london-secret-places/) runs from here back towards Tobacco Dock, which is the best way to link this to the rest of the area on foot.
 
 ### Tobacco Dock
-North. A restored 1811 warehouse, now an events venue, with two replica sailing ships outside.
+North. A **Grade I listed warehouse of 1811**, built to hold imported tobacco and now one of the more striking event spaces in London — brick vaults below, timber and iron above. Two replica sailing ships sit in the dry dock outside.
+
+> ⚠️ **It is not open to the public most of the time.** It trades as a venue, so unless there is a public event on you will be looking at it from the outside. Check what is on before making the walk — the ships and the exterior are visible either way.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-area-guide-london-historic-pub-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London historic pub tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

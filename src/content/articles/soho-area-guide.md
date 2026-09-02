@@ -99,27 +99,47 @@ Soho has its own share of the commemorative plaques marking where notable people
 
 *Gerrard Street under its lanterns. The street is pedestrianised, and busiest between about 6pm and 9pm.*
 
-Pedestrianised and lantern-strung. Cantonese roast meats, dim sum, hotpot and late-night bakeries. Busiest on Sunday afternoons.
+Pedestrianised and lantern-strung, and **London's Chinatown is Cantonese first** — roast meats hanging in windows, dim sum until mid-afternoon, hotpot, and bakeries open later than almost anything else in the West End.
+
+Gerrard Street is the spine, with Lisle Street parallel to it and usually cheaper. The **gates and lanterns** date from the 1980s, though the community moved here from Limehouse after the war.
+
+**Busiest on Sunday afternoons**, which is when families come to eat — good for atmosphere, bad for a table. Dim sum kitchens generally stop by about 4pm, so come earlier than you think.
 
 ### Old Compton Street
 
 ![Old Compton Street at dusk, busy with people, lined with bars and a florally decorated frontage](../../assets/articles/soho-area-guide/old-compton-street.jpg)
 
 *Old Compton Street at dusk. It is the centre of Soho's LGBTQ+ scene and the street most people picture when they picture Soho.*
-The east–west spine of Soho nightlife, and the centre of its LGBTQ+ scene. Cafes by day, packed by 21:00.
+The east–west spine of Soho nightlife, and **the centre of its LGBTQ+ scene** since the 1980s — bars, cafés and a street that has been the visible heart of gay London for forty years.
+
+By day it is coffee and outside tables; from about 9pm it is shoulder to shoulder, and the drinking spills into the street itself in summer.
+
+**It is four minutes end to end.** Leicester Square and Tottenham Court Road stations are both close, and the whole street is pedestrian-friendly rather than pedestrianised, so traffic still comes through.
 
 ### Carnaby Street and Kingly Court
-Pedestrian shopping to the west. Kingly Court is the reason to come.
+Pedestrian shopping to the west, and **fourteen streets rather than one** — Carnaby is the name people know, but the surrounding lanes hold most of what is worth finding.
+
+**Kingly Court is the reason to come**: three galleried floors around an open courtyard, almost entirely food and drink, and covered enough to work in the rain.
+
+**Free to walk through, open daily**, and five minutes from Oxford Circus. The courtyard is busiest between 6pm and 8pm, and most of its restaurants take bookings — worth doing at a weekend.
 
 ### Berwick Street and Broadwick Street
-Market stalls, record shops and some of Soho's better restaurants. Broadwick Street has the John Snow pump replica — the origin point of modern epidemiology.
+Market stalls, record shops and some of Soho's better restaurants — **Berwick Street market has traded since the 1770s** and is now a short run of food stalls rather than the fruit and veg it was, with the surviving record shops on the same stretch.
+
+Broadwick Street has the **John Snow pump replica**, marking where Snow traced the 1854 cholera outbreak to a single water source and effectively founded modern epidemiology. The pub beside it is named after him.
+
+**The market runs weekday lunchtimes** and is largely gone by mid-afternoon and at weekends, so time it for lunch or you will find an empty street.
 
 ### Dean Street and Frith Street
 
 ![The corner of Frith Street in Soho, with the street sign above a red-awninged restaurant frontage](../../assets/articles/soho-area-guide/frith-street-corner.jpg)
 
 *Frith Street where it meets Shaftesbury Avenue. Ronnie Scott's, Bar Italia and a run of long-standing restaurants are all on this stretch.*
-North–south restaurant streets, plus Ronnie Scott's and the Soho private members' clubs.
+North–south restaurant streets running parallel through the middle of Soho, and where most of the eating actually happens.
+
+**Ronnie Scott's** has been on Frith Street since 1965 and is still the serious jazz room in London — two sets a night, booked well ahead. **Bar Italia** a few doors up has been open since 1949 and trades nearly around the clock. The private members' clubs are on Dean Street, unmarked and not for walking into.
+
+**Book anything you actually want.** These two streets fill from about 7pm and the good tables go days in advance, particularly at weekends.
 
 
 ![The mock-Tudor timbered frontage of Liberty department store on Great Marlborough Street](../../assets/articles/soho-area-guide/liberty-store.jpg)

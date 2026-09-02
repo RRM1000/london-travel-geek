@@ -99,19 +99,39 @@ Kensington has its own share of the commemorative plaques marking where notable 
 ## Key streets and micro-districts
 
 ### Kensington High Street
-The main road. Department stores, chains, and the entrance to the roof gardens above the old Derry & Toms building.
+The main road, and a high street that was once a genuine rival to Oxford Street before the department stores went. What survives is the chains, and one thing that is unlike anywhere else in London.
+
+**Kensington Roof Gardens** sit a hundred feet up on top of the old Derry & Toms building — an acre and a half laid out in 1938 as a Spanish garden, a Tudor garden and an English woodland, with mature trees growing in rooftop soil and flamingos that have lived up there for decades.
+
+**Access has never been reliable.** The gardens have opened and closed with successive owners and are not a public park, so check before you build an afternoon around them. The street itself is a five-minute walk end to end from High Street Kensington station.
 
 ### Kensington Gardens and the palace
-North-east. The palace, the Sunken Garden, the Albert Memorial and the Serpentine galleries.
+North-east, and the reason most people come. **Kensington Palace is ticketed**; the gardens around it are free, which is the distinction that catches people out.
+
+Free and worth the walk: the **Sunken Garden**, the **Albert Memorial**, the two **Serpentine galleries** — which run free contemporary art shows and a new architectural pavilion each summer — the **Italian Gardens** at the Lancaster Gate end, and the **Diana Memorial Playground**.
+
+**The gardens open at 6am and close at dusk**, and are considerably quieter than Hyde Park next door despite being continuous with it.
 
 ### Holland Park
-North-west. Woodland, the Kyoto Garden, the Dutch Garden, the opera canopy and free-roaming peacocks.
+North-west, and **the best park in this part of London by a distance** — twenty-two hectares, half of it genuine woodland rather than mown grass, which is rare this far in.
+
+The **Kyoto Garden** is the one people photograph: a Japanese garden given to the borough in 1991, with a tiered waterfall, koi, and **peacocks that wander through it** and are entirely unbothered by anyone. The **Dutch Garden** has formal beds in front of the surviving wing of Holland House, and an **opera canopy** stands over the ruins for a summer season.
+
+**Free and open daily.** Come on a weekday morning if you want the Kyoto Garden without a queue for the same photograph.
 
 ### Kensington Church Street
-North towards Notting Hill. Antique dealers and the Churchill Arms at the top.
+Running north towards Notting Hill, and **the antiques street of west London** — dealers in furniture, ceramics and Asian art, most of them by appointment or looking as though they would prefer to be.
+
+At the top stands the **Churchill Arms**, buried under thousands of flowers in summer and around ninety Christmas trees in December, with a Thai kitchen in the conservatory at the back.
+
+**It is a steady uphill walk**, about ten minutes from High Street Kensington to Notting Hill Gate, and the shops keep their own hours rather than a high street's — expect a good number shut on a Monday.
 
 ### Holland Park Avenue and Campden Hill
-Stucco terraces and garden squares between the two parks — expensive, quiet and good for walking.
+The stucco terraces and private garden squares between the two parks — among the most expensive residential streets in Britain, and almost entirely without shops, cafés or anything to do.
+
+**That is the appeal, and the limit.** It is a genuinely lovely twenty minutes on foot between Holland Park and Notting Hill Gate, past white-fronted houses and communal gardens you cannot enter, and there is nothing at the end of it but another main road.
+
+Walk it as a link between the two parks rather than as a destination.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-kensington-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kensington Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

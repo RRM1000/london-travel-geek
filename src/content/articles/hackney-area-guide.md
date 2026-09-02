@@ -95,19 +95,39 @@ Hackney has its own share of the commemorative plaques marking where notable peo
 ## Key streets and micro-districts
 
 ### Broadway Market and London Fields
-The centre of visitor Hackney. The Saturday market, the park, the lido and Netil Market just off it.
+The centre of visitor Hackney, and **a Saturday proposition above all else** — the market runs that one day, and the street is a different and much quieter place for the other six.
+
+**London Fields** sits behind it, with the **lido** at its western edge: a heated 50-metre outdoor pool open year-round, and one of only a handful in London. **Netil Market** just off the top of Broadway Market is smaller, roofed and open more days.
+
+**Come on a Saturday for the market and expect crowds**, or midweek for the park and the lido without them. London Fields station is on the Overground, two minutes away.
 
 ### Mare Street and Hackney Central
-The everyday high street. The Hackney Empire, the Picturehouse cinema and the Overground station.
+The everyday high street rather than the visitor one — chain shops, a shopping centre, and the part of Hackney that exists for the people who live here.
+
+Two things bring people anyway. The **Hackney Empire** is a 1901 Frank Matcham music hall, one of the finest surviving theatre interiors in London, still programming comedy, panto and touring work. The **Picturehouse** next door is a full-size independent cinema.
+
+**Hackney Central is the Overground station for all of this**, and it connects to Hackney Downs by a signed two-minute walk — useful, because the two lines go different ways.
 
 ### Victoria Park and the canal
-East. The park, the towpath and the run of canal-side pubs along the Hertford Union.
+East, and **the oldest public park in Britain** — opened in 1845, and still the best large green space in east London. Two lakes, a Chinese pagoda, and a genuinely good playground.
+
+The **Hertford Union Canal** runs along its southern edge with a towpath and a run of canal-side pubs, and joins the Regent's Canal at the western end, which makes this the natural link between Hackney and the Olympic Park on foot.
+
+**Free and open daily.** It is a fifteen-minute walk from Hackney Central, or come along the towpath from Broadway Market.
 
 ### Hackney Wick
-Further east on the canal. Warehouse studios, breweries and the footbridges over to the Olympic Park.
+Further east where the canals meet, and **the highest concentration of artists' studios in Europe** at its peak — much of it now redeveloped, though the warehouses, the painted walls and the breweries remain.
+
+It is a drinking and daytime-wandering destination rather than a sightseeing one: taprooms, canal-side terraces and a lot of street art that changes constantly.
+
+**Footbridges cross straight into the Olympic Park**, which makes this the best approach to it on foot. Hackney Wick station is on the Overground, and the area is at its best on a summer afternoon and fairly bleak in the rain.
 
 ### Clapton and the marshes
-North. Hackney Marshes — famous for its Sunday football pitches — and the River Lea navigation.
+North, and the least visited part of the borough. **Hackney Marshes** is famous for its Sunday morning football — historically the largest concentration of pitches anywhere in the world — and is otherwise wide, flat and empty in a way almost nothing else in inner London is.
+
+The **River Lea navigation** runs along the eastern edge with a towpath, narrowboats and the Lea Valley beyond.
+
+**Free and always open.** Come on a Sunday morning for the football, or any weekday if what you want is space and nobody in it.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hackney-area-guide-east-london-street-art-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="East London street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

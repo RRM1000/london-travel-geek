@@ -98,19 +98,39 @@ Hampstead has its own share of the commemorative plaques marking where notable p
 ## Key streets and micro-districts
 
 ### Hampstead village and the high street
-Around the Northern line station. Shops, cafes and the lanes running off it.
+Around the Northern line station, and genuinely village-like in a way almost nowhere else this close to central London manages — independent shops, cafés and bookshops rather than chains, on streets that predate the grid.
+
+**Hampstead is the deepest station on the Underground**, 58 metres down, with the longest lift shaft on the network. Take the lift; the 320-step emergency staircase is not a shortcut.
+
+**The high street is steep.** Everything runs downhill from the station towards the Heath, which is easy on the way there and less so coming back.
 
 ### Flask Walk and Well Walk
-Narrow Georgian passages east of the high street, leading down towards the Heath.
+Narrow Georgian passages running east off the high street, and the prettiest short walk in Hampstead — a covered alley of shopfronts that opens into a lane of eighteenth-century houses.
+
+The names are literal: **Hampstead was a spa town**, and these streets are where the chalybeate well water was bottled and sold in flasks. The **Flask** pub is still at the top.
+
+**Two minutes end to end**, and the natural route from the station down towards the Heath rather than taking the main road.
 
 ### Parliament Hill and the south Heath
-The south-east corner. The view, the ponds and the lido. Closest to Hampstead Heath Overground.
+The south-east corner, and the part of the Heath most people mean. **The view from the top is one of London's protected vistas** — St Paul's and the City are legally guaranteed to stay visible, so nothing can be built into it.
+
+The **bathing ponds** are here, open year-round: separate men's and women's ponds and a mixed one, plus the **lido**, which is a chlorinated 60-metre pool rather than a pond.
+
+**Hampstead Heath Overground is the closest station**, five minutes from the foot of the hill, and considerably easier than walking down from Hampstead village and back up.
 
 ### Kenwood and the north Heath
-The top. Kenwood House, the lake and the Spaniards Inn beyond.
+The top of the Heath, and the quieter half. **Kenwood House is free** — a Robert Adam villa holding a serious art collection, including a Rembrandt self-portrait and a Vermeer, which is an extraordinary thing to walk into without paying.
+
+The lake below it has a concert bowl used for summer performances, and the **Spaniards Inn** sits just beyond the northern edge, a coaching inn of 1585 with a toll house still narrowing the road outside.
+
+**Free and open daily**, but it is a twenty-five-minute walk uphill from Hampstead station — allow for it, or take a bus along Spaniards Road.
 
 ### Church Row
-A single street of unbroken early-Georgian terrace, generally reckoned the finest in London outside Bloomsbury.
+A single street of unbroken early-Georgian terrace, generally reckoned the finest in London outside Bloomsbury — built in the 1710s and almost unaltered since, with the original ironwork and door cases intact.
+
+**St John-at-Hampstead** stands at the western end, and its churchyard holds John Constable, among others.
+
+**It takes five minutes and costs nothing**, and it is a minute from the high street — the single best thing to do in Hampstead if you only have a short time and do not want the Heath.
 
 ![An ivy-covered brick terrace on a quiet Hampstead street, with parked cars and a hedge-lined pavement](../../assets/articles/hampstead-area-guide/hampstead-ivy-street.jpg)
 
