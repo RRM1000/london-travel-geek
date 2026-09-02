@@ -83,10 +83,12 @@
     --header-height: 4.4rem;
     --header-visible-height: var(--header-height);
     --rail-gap: 1.5rem;
-    /* Space held back for the activities widget pinned under the contents
-       card, so the contents can never squeeze it out. Roughly half the GYG
-       carousel - enough to read its heading and the first tour card. */
-    --sidebar-widget-reserve: 18rem;
+    /* Space held back for the booking card pinned under the contents, so the
+       contents can never squeeze it out. Covers the card itself plus the
+       column gap above it: SidebarActivities renders about 223px with two
+       entries, and this leaves a little headroom for a long venue name
+       wrapping onto a third line. */
+    --sidebar-widget-reserve: 16rem;
     --sticky-top: calc(var(--header-visible-height) + var(--rail-gap));
     --sticky-top-max: calc(var(--header-height) + var(--rail-gap));
   }

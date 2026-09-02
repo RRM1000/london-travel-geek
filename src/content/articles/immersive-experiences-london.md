@@ -89,6 +89,7 @@ That is the actual problem with picking one. Every other guide to this subject i
 | **Bubble Planet** | Family attraction | Wembley | £19.90 | Yes — bring socks |
 | **Paddington Bear Experience** | Family attraction | Waterloo | £34 | Gently |
 | **COME ALIVE!** | Circus spectacular | Earls Court | £58 | **In the pre-show, yes** |
+| **Twist Museum** | Illusion museum | Oxford Circus | £24.50 + £2.50 fee | **Yes — all 80+ exhibits** |
 | **Arcade Arena** | Gaming | Lambeth | £30 | **Yes — three of them** |
 | **Immersive Gamebox** | Gaming | 3 sites | £37 | Yes |
 | **Sandbox VR** | Full-body VR | Holborn | £35 | Yes |
@@ -256,6 +257,22 @@ You are the token. Four boards, **52 escape-room-style challenge rooms**, a drin
 It is faster and more physical than it sounds — you are on your feet the whole way round, and the rooms are timed, so a slow team loses the board rather than the game.
 
 **9+ enforced**, under-16s need an adult, teams cap at six, and **there are no latecomers** — arrive fifteen minutes early or lose the slot. The venue states lift access to all four boards, but ring ahead if that matters.
+
+### Twist Museum, Oxford Circus
+
+*From £24.50 adult, £20 child, plus £2.50 booking fee · 60–90 minutes · all ages*
+
+**Eighty-plus exhibits about how perception fails**, all of them hands-on — illusions, mirrors, distorted rooms, tricks that work on you rather than in front of you. It calls itself London's longest-serving illusion experience, and unlike most of this page it is a museum with an argument rather than a set to be photographed in.
+
+**It is the most central thing in this guide.** 248 Oxford Street, one minute from Oxford Circus and six from Bond Street, which makes it the easiest immersive attraction in London to slot into an afternoon you are already spending on Oxford Street.
+
+**Watch the price.** The £24.50 adult and £20 child rates are before a **£2.50 booking fee per ticket**, so a family of four is paying £10 in fees before anyone walks in. A **20% off-peak discount** is currently promoted, which is worth timing a visit around. School groups are far cheaper: £10 a child, one free adult per ten children, extra teachers £16.50.
+
+**Entry is by timed slot and they mean it** — arrive fifteen minutes early. You can move a booking up to 24 hours ahead through Manage Booking, for another £2.50. Guided tours are a separate add-on running **Mondays and Tuesdays at 11.30am and Fridays at 6.30pm**, and those add-ons are non-refundable.
+
+> 💡 **The access provision here is better than almost anything else on this page.** Street-level entry with lift access, and only two installations have inclines. **Ear defenders are available to borrow**, carers go on a concession, there are accessible toilets and baby changing, and **lockers are free**. The caveat worth knowing: some exhibits use lighting that can trigger photosensitivity, and it is a walkthrough with limited seating.
+
+**Under-15s must be accompanied.** Pushchairs are fine and there is somewhere to leave them.
 
 ---
 

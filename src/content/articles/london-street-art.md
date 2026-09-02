@@ -228,6 +228,47 @@ Dozens of murals along and around the high street, coordinated locally over seve
 
 ---
 
+## Where to buy it
+
+There are two completely separate markets here and they have almost nothing to do with each other.
+
+**In east London, prints by working street artists cost less than a nice dinner.** These are galleries and print studios where the artists are alive, the editions are current, and you can walk in off the street and take something home the same day.
+
+**In Mayfair, Banksy screenprints are a secondary-market asset** sold by appointment, priced on enquiry, and bought by people who are not thinking about their hallway. Both are legitimate. Only one of them is a souvenir.
+
+### The east London print galleries
+
+| Gallery | Where | Open | What it is |
+| --- | --- | --- | --- |
+| **Nelly Duff** | 156 Columbia Road E2 7RG | Wed–Fri 9am–6pm, Sat 11am–6pm, Sun 9am–5pm; Mon–Tue by appointment | Print gallery on the flower-market street, with its own framing service and gift vouchers |
+| **Jealous Gallery** | 53 Curtain Road, Shoreditch EC2A 3PT | Mon–Sat 10am–6pm, closed bank holidays | Gallery and screenprint publisher. The **print studio at 2a Luke Street EC2A 4NT** is where the work is actually made, open Mon–Sat 9.30am–6pm |
+| **StolenSpace** | 17 Osborn Street E1 6TD | Check before travelling | The long-standing Brick Lane-end street art gallery |
+| **Pure Evil** | 108 Leonard Street EC2A 4XS | **Thu–Sat 10am–6pm, Wednesday by appointment only** | Artist-run, and the one most likely to have the artist in it |
+
+**Nelly Duff is the one to do on a Sunday**, because Columbia Road Flower Market is happening outside the door and the gallery opens at 9am to catch it. It is the only gallery here with useful Sunday hours.
+
+> ⚠️ **StolenSpace shows its prices before VAT.** Their own site says so in the footer. Add 20% to anything you see there before deciding what you can afford — it is the single most expensive assumption to get wrong on this page.
+
+### If it is a Banksy you want
+
+**You are in a different price bracket and a different postcode.** Banksy has not sold new work through a London gallery since Pictures on Walls wound up, so everything on the market is resale.
+
+* **Maddox Gallery** — Maddox Street W1S 2QE and Shepherd Market W1J 7QE. Stocks signed Banksy screenprints alongside Hockney and Warhol. Prices are **on enquiry**, which is itself the answer.
+* **Grove Gallery** — Berkeley Square House, Berkeley Square W1J 6BD. Same model, same names.
+* **Quantus Gallery** — Shoreditch, and the one that actually publishes figures. A **Di-Faced Tenner is £2,450**, which is the cheapest genuine Banksy object you are likely to see priced openly.
+
+> 💡 **The Di-Faced Tenner is the sane entry point.** It is a printed banknote from the 2004 stunt rather than a signed edition, so it costs low thousands instead of tens of thousands, and it is unambiguously the real thing. Anything cheaper claiming to be Banksy is a poster.
+
+> ⚠️ **Authentication matters more here than anywhere else in art.** Banksy's own body, Pest Control, is the only issuer of certificates, and unauthenticated work is effectively unsaleable. Never buy a Banksy on the strength of a gallery's word alone — ask for the Pest Control paperwork before money moves.
+
+### Gift shops rather than galleries
+
+**Jealous and Nelly Duff both sell at gift-shop prices as well as gallery ones** — small unframed editions, cards and prints in the tens rather than the hundreds — which makes them the realistic answer to "I want to take some London street art home". Nelly Duff also does framing, so you can walk out with something ready to hang.
+
+**Leake Street has no shop**, which surprises people. The tunnel is legal and constantly repainted but entirely uncommercial, so the spray-paint shops around Shoreditch and Brick Lane are where the artists themselves buy.
+
+---
+
 ## What it costs
 
 **Nothing.** This is the most genuinely free thing to do in London, and one of the very few that changes week to week.
@@ -235,6 +276,7 @@ Dozens of murals along and around the high street, coordinated locally over seve
 * **Walk it yourself.** Shoreditch, Hackney Wick, Camden, Brixton, Croydon and Penge all reward an aimless hour, and everything in this guide is on a public street.
 * **Guided tours** run roughly £15–£30 and are worth it once, because the good guides know which pieces are painted over what, and who fell out with whom. The free walking tours are tip-based rather than actually free.
 * **Leake Street tunnel** under Waterloo is legal, free, open all hours, and repainted constantly — the only place in London you can watch it being made.
+* **Buying it is a different question entirely.** A print by a working street artist from a Shoreditch gallery runs from the low tens to a few hundred pounds. A resale Banksy starts around £2,450 for a Di-Faced Tenner and climbs steeply from there. See **Where to buy it** above.
 * **Nothing here is permanent.** Everything in this guide was checked in August 2026 and a piece can go the week after publication, which is the nature of the form rather than a flaw in it.
 
 ---

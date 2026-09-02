@@ -1,0 +1,196 @@
+---
+// The sidebar's booking unit, replacing the GetYourGuide city widget.
+//
+// WHY THIS EXISTS. The sidebar used to hold GYG's own `city.frame` iframe for
+// London (location 57). Three problems with it: it was the same generic "London"
+// promo card on all 122 guides, so a reader on the Canary Wharf guide was
+// offered nothing to do with Canary Wharf; it rendered 528px tall inside a
+// pinned column that could only give it 350, so 178px of it - including the
+// bottom, where its own call to action sits - was cropped away; and it is a
+// fifth unit on pages that balance-gyg-widgets.mjs has already given two or
+// three inline widgets.
+//
+// This card names the activities we have actually researched for THIS guide,
+// in our own words, at a height the column can hold. Every row is a real venue
+// from the Activities sheet with a GetYourGuide link, so it is more specific
+// than the carousel it replaces as well as shorter.
+//
+// It also sidesteps a standing problem: GYG's partner script rewrites the rel
+// on every getyourguide.com link it finds, stripping "sponsored" - which is why
+// BaseLayout runs a MutationObserver to put it back. These are plain anchors
+// the script never touches, though they carry data-affiliate anyway so the
+// observer covers them if that ever changes.
+import data from "../data/activities.json";
+// ONE PLACE FOR THE PARTNER ID - see the note at the top of that file.
+import { GYG_PARTNER_ID } from "../../scripts/lib/affiliate.mjs";
+
+interface Props {
+  /** The article id, e.g. "canary-wharf-area-guide". */
+  articleId: string;
+  /** Place name for the heading on area guides, e.g. "Canary Wharf". */
+  areaName?: string;
+}
+
+type Activity = {
+  slug: string;
+  name: string;
+  style?: string;
+  duration?: string;
+  guide?: string;
+  guidePlacement?: string;
+  affiliateUrl?: string;
+  affiliateNetwork?: string;
+};
+
+const { articleId, areaName } = Astro.props as Props;
+
+// Only rows with something to sell. affiliate.mjs sets affiliateUrl on a
+// narrow, deliberate list of activity types - a free park or a market browse
+// gets no link at all - so this filter inherits that judgement rather than
+// re-deciding it here.
+const picks = (data.activities as Activity[])
+  .filter((a) => a.guide === articleId && !!a.affiliateUrl)
+  // Two, not three. This is a teaser in a pinned column with a fixed height
+  // budget - a third row pushed the card to 376px against the 288px the column
+  // could give it, and it overflowed. "More on GetYourGuide" carries the rest.
+  .slice(0, 2);
+
+// London's own city page on GetYourGuide - l57 is the same location id the old
+// widget used.
+const londonUrl = `https://www.getyourguide.com/london-l57/?partner_id=${GYG_PARTNER_ID}`;
+const heading = areaName ? `Book in ${areaName}` : "Book things to do";
+---
+
+<aside class="sidebar-book" aria-labelledby="sidebar-book-title">
+  <p class="sidebar-book__eyebrow" id="sidebar-book-title">{heading}</p>
+
+  {picks.length > 0 ? (
+    <ul class="sidebar-book__list">
+      {picks.map((a) => (
+        <li>
+          <a
+            href={a.affiliateUrl}
+            rel="sponsored nofollow noopener"
+            target="_blank"
+            data-affiliate={a.affiliateNetwork}
+          >
+            <span class="sidebar-book__name">{a.name}</span>
+            {a.style && <span class="sidebar-book__style">{a.style}</span>}
+          </a>
+        </li>
+      ))}
+    </ul>
+  ) : (
+    <p class="sidebar-book__fallback">
+      Tours, tickets and experiences across the city, with free cancellation on
+      most of them.
+    </p>
+  )}
+
+  <a
+    class="sidebar-book__more"
+    href={londonUrl}
+    rel="sponsored nofollow noopener"
+    target="_blank"
+    data-affiliate="getyourguide"
+  >
+    {picks.length > 0 ? "More on GetYourGuide" : "Browse on GetYourGuide"}
+    <span class="sidebar-book__ad">ad</span>
+  </a>
+</aside>
+
+<style>
+  .sidebar-book {
+    padding: 0.9rem 1rem 1rem;
+    border: 1px solid var(--line);
+    border-radius: var(--card-radius, var(--radius-md));
+    background: var(--surface);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .sidebar-book__eyebrow {
+    margin: 0 0 0.6rem;
+    color: var(--ink);
+    font-family: var(--display);
+    font-size: 0.95rem;
+    font-weight: 800;
+  }
+
+  .sidebar-book__list {
+    display: grid;
+    gap: 0.55rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .sidebar-book__list li {
+    padding-bottom: 0.55rem;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .sidebar-book__list li:last-child {
+    padding-bottom: 0;
+    border-bottom: 0;
+  }
+
+  .sidebar-book__list a {
+    display: grid;
+    gap: 0.1rem;
+    text-decoration: none;
+  }
+
+  .sidebar-book__name {
+    color: var(--accent);
+    font-size: 0.86rem;
+    font-variation-settings: "wght" 700;
+    line-height: 1.3;
+  }
+
+  .sidebar-book__list a:hover .sidebar-book__name {
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+
+  .sidebar-book__style {
+    color: var(--ink);
+    font-size: 0.78rem;
+    line-height: 1.35;
+  }
+
+  .sidebar-book__fallback {
+    margin: 0 0 0.7rem;
+    color: var(--muted);
+    font-size: 0.8rem;
+    line-height: 1.35;
+  }
+
+  .sidebar-book__more {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    margin-top: 0.75rem;
+    color: var(--muted);
+    font-size: 0.76rem;
+    font-variation-settings: "wght" 700;
+    text-decoration: none;
+  }
+
+  .sidebar-book__more:hover {
+    color: var(--accent);
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+
+  /* Same disclosure marker the in-article activity links use. */
+  .sidebar-book__ad {
+    padding: 0.05rem 0.25rem;
+    border: 1px solid var(--line);
+    border-radius: 0.2rem;
+    color: var(--muted);
+    font-size: 0.6rem;
+    font-variation-settings: "wght" 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+</style>

@@ -6,6 +6,7 @@ import BaseLayout from "./BaseLayout.astro";
 import Breadcrumbs from "../components/Breadcrumbs.astro";
 import RelatedGuides from "../components/RelatedGuides.astro";
 import TableOfContents from "../components/TableOfContents.astro";
+import SidebarActivities from "../components/SidebarActivities.astro";
 import AreaAtAGlance from "../components/AreaAtAGlance.astro";
 import AreaMap from "../components/AreaMap.astro";
 import AreaActivities from "../components/AreaActivities.astro";
@@ -320,15 +321,7 @@ const breadcrumbs = [
         {showContents && (
           <TableOfContents headings={contentsHeadings} variant="desktop" />
         )}
-        <section class="article__activities" aria-label="Book London activities">
-          <div
-            data-gyg-href="https://widget.getyourguide.com/default/city.frame"
-            data-gyg-location-id="57"
-            data-gyg-locale-code="en-US"
-            data-gyg-widget="city"
-            data-gyg-partner-id="WWP7I0R"
-          ></div>
-        </section>
+        <SidebarActivities articleId={articleId} areaName={area?.name} />
       </aside>
     </div>
     </div>
@@ -1613,20 +1606,6 @@ const breadcrumbs = [
     }
   }
 
-  .article__activities {
-    overflow: hidden;
-    border: 1px solid var(--line);
-    border-radius: var(--card-radius);
-    background: var(--surface);
-  }
-
-  .article__activities :global(iframe) {
-    display: block;
-    width: 100%;
-    max-width: 100%;
-    border: 0;
-  }
-
   @media (max-width: 52rem) {
     .article__grid {
       grid-template-columns: minmax(0, 1fr);
@@ -1635,12 +1614,12 @@ const breadcrumbs = [
     .article__sidebar {
       /* Nothing pins on a phone - the desktop contents card is display:none
          here and a separate inline variant renders above the article. Block
-         rather than flex, so .article__activities' margin below does the
-         spacing the column gap does on desktop. */
+         rather than flex, so the margin below does the spacing the column gap
+         does on desktop. */
       display: block;
     }
 
-    .article__activities {
+    .article__sidebar > :global(.sidebar-book) {
       margin-top: var(--space-5);
     }
 
