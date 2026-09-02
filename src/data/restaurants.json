@@ -1,13 +1,13 @@
 {
  "generated": "2026-09-02",
- "count": 850,
- "withCoords": 789,
+ "count": 848,
+ "withCoords": 787,
  "facets": {
   "cuisine": [
    {
     "value": "British",
     "slug": "british",
-    "count": 248
+    "count": 246
    },
    {
     "value": "Italian",
@@ -159,7 +159,7 @@
    {
     "value": "Shoreditch",
     "slug": "shoreditch",
-    "count": 50
+    "count": 49
    },
    {
     "value": "South Bank",
@@ -194,7 +194,7 @@
    {
     "value": "City Of London",
     "slug": "city-of-london",
-    "count": 22
+    "count": 21
    },
    {
     "value": "Notting Hill",
@@ -319,13 +319,13 @@
     "count": 84
    },
    {
-    "value": "seafood",
-    "slug": "seafood",
-    "count": 82
-   },
-   {
     "value": "pizza",
     "slug": "pizza",
+    "count": 80
+   },
+   {
+    "value": "seafood",
+    "slug": "seafood",
     "count": 80
    },
    {
@@ -356,7 +356,7 @@
    {
     "value": "wine-led",
     "slug": "wine-led",
-    "count": 39
+    "count": 38
    },
    {
     "value": "deli",
@@ -488,7 +488,7 @@
    {
     "value": "£££",
     "slug": "price-3",
-    "count": 221
+    "count": 219
    },
    {
     "value": "£",
@@ -30217,41 +30217,6 @@
    "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out"
   },
   {
-   "slug": "pearly-queen",
-   "name": "Pearly Queen",
-   "cuisine": "British",
-   "style": "Oyster bar",
-   "specialities": [
-    "seafood"
-   ],
-   "format": "Restaurant",
-   "chainType": "independent",
-   "area": "Shoreditch",
-   "zone": "1",
-   "district": "East",
-   "borough": "Tower Hamlets",
-   "guide": "shoreditch-area-guide",
-   "address": "44 Commercial Street",
-   "postcode": "E1 6LT",
-   "lat": 51.517445,
-   "lng": -0.073337,
-   "price": "£££",
-   "booking": "days",
-   "goodFor": [
-    "date",
-    "groups"
-   ],
-   "whyGo": "Tom Brown's Commercial Street oyster bar, and the most playful cooking in the guide - a prawn Scotch egg, cuttlefish lasagne, and a crispy buffalo oyster with ranch dressing.",
-   "signature": "Crispy buffalo oyster with ranch",
-   "signals": "The Good Food Guide",
-   "lists": [
-    "seafood"
-   ],
-   "sourceCount": "2",
-   "sourceTiers": "A1 C1",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out"
-  },
-  {
    "slug": "faber-hammersmith",
    "name": "Faber",
    "cuisine": "British",
@@ -30363,43 +30328,6 @@
    "sourceCount": "3",
    "sourceTiers": "B3",
    "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262 | https://www.thehandbook.com/london-seafood-restaurants/ | https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
-  },
-  {
-   "slug": "fish-market-broadgate",
-   "name": "Fish Market",
-   "cuisine": "British",
-   "style": "City fish restaurant",
-   "specialities": [
-    "seafood",
-    "wine-led"
-   ],
-   "format": "Restaurant",
-   "chainType": "independent",
-   "area": "Liverpool Street",
-   "zone": "1",
-   "district": "Central",
-   "borough": "City of London",
-   "guide": "city-of-london-area-guide",
-   "address": "16B New Street",
-   "postcode": "EC2M 4TR",
-   "lat": 51.517142,
-   "lng": -0.079547,
-   "price": "£££",
-   "booking": "days",
-   "bookingUrl": "http://www.fishmarket-restaurant.co.uk/",
-   "website": "http://www.fishmarket-restaurant.co.uk/",
-   "goodFor": [
-    "business",
-    "groups",
-    "celebration"
-   ],
-   "whyGo": "An 18th-century warehouse once owned by the East India Company, with a top-end wine list for the City and a weekend seafood brunch that is the reason most people go.",
-   "lists": [
-    "seafood"
-   ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.designmynight.com/london/seafood-restaurants-in-london | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out"
   },
   {
    "slug": "rick-stein-barnes",

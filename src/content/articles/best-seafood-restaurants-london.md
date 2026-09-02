@@ -58,11 +58,11 @@ The city does it three ways, and picking one settles most of the decision: shuck
 | **St James's & Mayfair** | Wiltons, Scott's, Lilibet's |
 | **Piccadilly & Soho** | Bentley's, Randall & Aubin, Manzi's, The Seafood Bar |
 | **Covent Garden** | J Sheekey, Parsons, The Oystermen |
-| **The City & Moorgate** | Sweetings, Angler, Fish Market |
+| **The City & Moorgate** | Sweetings, Angler |
 | **Borough & Bermondsey** | Wright Brothers, Applebee's, Furness, Richard Haward's, Maltby Street |
 | **Southwark** | Seabird |
 | **Chelsea & Sloane Square** | The Sea, The Sea, Bibendum Oyster Bar |
-| **Hackney & Shoreditch** | Behind, Pearly Queen |
+| **Hackney & Shoreditch** | Behind |
 | **Notting Hill & west** | Orasay, Faber, Sam's Riverside |
 | **North London** | Prawn on the Lawn, Tollington's, London Shell Co |
 | **Barnes** | Rick Stein |
@@ -286,20 +286,6 @@ The menu is a fixed sequence of British catch treated at fine-dining level: **Co
 
 **££££ and it books weeks ahead.** Moorgate. The set lunch is significantly cheaper than the evening tasting menu.
 
-### Pearly Queen, Shoreditch
-
-*£££ · Shoreditch High Street · Cited by 2 sources · Good Food Guide*
-
-**Tom Brown's Commercial Street oyster bar, and the most playful cooking in this guide** — the chef behind Cornerstone doing seafood that refuses to be reverent about itself.
-
-The **crispy buffalo oyster with ranch dressing** is the signature and tells you everything: a deep-fried oyster treated like a chicken wing. Beside it a **prawn Scotch egg** and a **cuttlefish lasagne**, alongside a straight raw bar for anyone who wants oysters served properly.
-
-**£££, book a few days ahead.** Shoreditch, loud, and the room least like a fish restaurant on this page.
-
----
-
-## Modern fish rooms
-
 ### Faber, Hammersmith
 
 *£££ · Hammersmith · Cited by 3 sources · Time Out #10*
@@ -330,15 +316,15 @@ The sourcing is the argument: **hand-dived scallops, Hebridean langoustines, oys
 
 **£££, book a few days ahead** — the terrace goes first and is the reason to plan around the weather.
 
-### Fish Market, Broadgate
+### Fish Market, Broadgate — closed
 
-*£££ · Liverpool Street · Cited by 2 sources*
+*Closed as of September 2026*
 
-**An 18th-century warehouse once owned by the East India Company**, now a fish-led City restaurant with a top-end wine list — and **a weekend seafood brunch that is the reason most people go.**
+The 18th-century warehouse off Bishopsgate, once owned by the East India Company, with a serious City wine list and a weekend seafood brunch.
 
-The brunch is a shellfish spread rather than eggs: **oysters, prawns, crab and smoked fish**, with the wine list open at weekend prices. Whole fish and a raw bar the rest of the week.
+**It is currently closed.** Its own site says it is preparing for a new chapter and points customers to Liverpool Street Chop House in the meantime. A reopening was advertised for early 2026 and has not happened. Worth a check before writing it off for good — but do not plan a meal around it.
 
-**£££ and it books ahead**, particularly for the weekend brunch. Broadgate, and one of very few reasons to be in the City on a Saturday.
+---
 
 ### Lilibet's, Mayfair
 
