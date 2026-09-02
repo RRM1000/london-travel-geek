@@ -162,11 +162,17 @@ Hours are published only as **"5pm until late"**, with no closing time or day br
 
 ### Kwãnt, Mayfair
 
-*££££ · 52 Stratton Street*
+*££££ · 52 Stratton Street W1J 8LN · 5pm–1.30am, seven days*
 
 **No.79 in the World's 50 Best Bars 2025**
 
-Erik Lorincz, formerly of the Savoy's American Bar, running a basement room. The technical end of Mayfair.
+Erik Lorincz, formerly head bartender at the Savoy's American Bar, running a basement room off Piccadilly. The technical end of Mayfair, and quieter than its postcode suggests.
+
+**The signature is a five-course drink tasting menu** — the bar's booking site is literally named for it — which is a format almost nobody else in London attempts. You are sitting down for a sequence rather than ordering a round.
+
+**Open 5pm until 1.30am, every day of the week**, which makes it one of the latest serious bars in Mayfair and the only one here that does not shut earlier on a Sunday. Booking and enquiries go through kwantmayfair@icloud.com.
+
+> ⚠️ **Do not go looking for kwant.co.uk.** That domain now returns a holding page, which has led more than one guide to write the bar off as closed. It is trading normally; the live booking site is a Square page instead.
 
 ![Two cocktails on yellow coasters on a wood bar](../../assets/articles/best-cocktail-bars-london/kwant.jpg)
 
@@ -272,13 +278,15 @@ The Snickers Old Fashioned, Moro Margarita and Rhubarb Negroni are the signature
 
 ### Half Cut Market, York Way
 
-*££ · 396 York Way · wine bar and bottle shop*
+*££ · 396 York Way N7 9LW · Tue–Sat only · restaurant first*
 
-A tiny York Way bottle shop that became a wine bar and restaurant, with around eighty low-intervention bottles to drink in or carry out, and a Konro-grilled seasonal menu.
+**Be clear what this is before you go: it is a restaurant, wine bar and bottle shop, not a cocktail bar.** Its own description is "a restaurant, wine bar + shop on the York Way Riviera™". It earns a place here on price rather than on the list — the **Half Cut Martini is £10** and a vermouth and soda **£7**, which in London is close to unheard of for drinks made this carefully, and those are last-listed figures rather than something the shop publishes online.
 
-The cocktails are a short sideline and priced accordingly — the **Half Cut Martini is £10** and a vermouth and soda **£7**, which in London is close to unheard of for drinks made this carefully.
+Around eighty low-intervention bottles to drink in or carry out, and a Konro-grilled seasonal menu. **Wine is available to take away any time they are open**, which is the part that makes it useful.
 
-Despite the name, it is a shopfront rather than anything inside a market.
+**Shop hours Tuesday and Wednesday 5–10pm, Thursday 5–10.30pm, Friday and Saturday 4–11pm. Closed Sunday and Monday.** The kitchen runs a narrower 5.30–9.30pm inside those. **A set menu on Tuesdays and Wednesdays is £24 for two courses, £28 for three.**
+
+Despite the name, it is a shopfront rather than anything inside a market. Their site is halfcut.world. Caledonian Road & Barnsbury is the nearest station.
 
 ### Bar Crispin, Soho
 
@@ -380,7 +388,7 @@ The **Connaught Martini is £30**, mixed at your table from the trolley. **Night
 
 Some bars are simply priced below the market and do not need an offer:
 
-* **Half Cut Market**, York Way — the **Half Cut Martini is £10** and a vermouth and soda is **£7**, in a wine bar that also sells you the bottle to take home. Despite the name it is a shopfront on York Way, not a market hall.
+* **Half Cut Market**, York Way — the **Half Cut Martini is £10** and a vermouth and soda is **£7**, in a restaurant and wine bar that also sells you the bottle to take home. **Tuesday to Saturday only**, and the cocktail list is a short sideline to the wine. Despite the name it is a shopfront on York Way, not a market hall.
 * **Little Mercies**, Crouch End — the signatures run £10.50–£12.50 and the "mini drinks" are **£7**.
 * **Three Sheets Dalston** — the house list is £15.50–£16, but the menu states **classics from £13**, which is the way in.
 
