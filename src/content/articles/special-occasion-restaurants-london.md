@@ -65,11 +65,19 @@ All six, which is the whole list for London.
 
 The lunch menu is the cheapest way in.
 
+**Closed Sunday and Monday**, and bookings open well ahead and go. **The lunch menu is the cheapest way in** by a distance, and it is the same kitchen.
+
+A quiet room rather than a scene — worth knowing if you are choosing between this and somewhere with more theatre. Fourteen minutes from Sloane Square, which is further than it sounds.
+
 ### Core by Clare Smyth, Notting Hill
 
 *££££ · book months ahead*
 
 Smyth was the first British woman to run a three-star kitchen. Cooking built on British produce, treated at the highest level.
+
+Widely called the most technically accomplished table in the city, and built on British produce rather than French technique — which is the distinction between this and the Mayfair three-stars.
+
+**Closed Sunday and Monday, and books months ahead.** Nine minutes from Holland Park, in a residential Notting Hill street rather than a hotel.
 
 ### Alain Ducasse at The Dorchester, Mayfair
 
@@ -77,17 +85,29 @@ Smyth was the first British woman to run a three-star kitchen. Cooking built on 
 
 Classical French haute cuisine, including the **Table Lumière** — a private table for six ringed by a curtain of fibre optics, and the single most requested seat in Mayfair. Ask for it specifically.
 
+**Ask about the Table Lumière specifically when you book** — it is not offered by default, and it is the reason most people choose this over the other three-stars.
+
+**Closed Sunday and Monday, books months ahead**, and it sits inside The Dorchester on Park Lane, so the room is the hotel's rather than the restaurant's own. Seven minutes from Hyde Park Corner.
+
 ### Hélène Darroze at The Connaught, Mayfair
 
 *££££ · Carlos Place*
 
 Three stars for cooking rooted in Darroze's native Landes — **regional French at the very top end**, which London has almost none of.
 
+The third star came in 2021, and the cooking is regional French at the top end — Landes, in the south-west — which almost nothing else in London attempts.
+
+**Closed Sunday and Monday, books months ahead.** Inside The Connaught, eight minutes from Bond Street.
+
 ### The Ledbury, Notting Hill
 
 *££££*
 
 Brett Graham's, and it took its third star in 2024. Grows its own mushrooms.
+
+Brett Graham reopened it in 2022 with a tighter focus on British sourcing, and it took its third Michelin star in 2024 — the fastest return to the top of the guide of any London restaurant in recent memory. It grows its own mushrooms.
+
+**Closed Sunday and Monday, books months ahead.** Nine minutes from Westbourne Park.
 
 ### Sketch — The Lecture Room & Library, Mayfair
 
@@ -96,6 +116,8 @@ Brett Graham's, and it took its third star in 2024. Grows its own mushrooms.
 Pierre Gagnaire's London expression, on Conduit Street. The rest of sketch — the pink room, the egg lavatories — is a separate and cheaper experience in the same building, which makes it the one three-star address where you can have a version of the evening without the tasting menu.
 
 > sketch publishes no prices anywhere on its site; they appear only once you are inside the booking flow.
+
+**Books weeks rather than months ahead**, which makes it the most gettable of the three-star rooms, and it is six minutes from Oxford Circus. The Gallery downstairs takes bookings separately - so if the Lecture Room is beyond the budget, the pink room and the egg-shaped lavatories are a cheaper way into the same building.
 
 ---
 
@@ -117,6 +139,10 @@ Dishes rebuilt from British recipes as far back as the fourteenth century — th
 
 ---
 
+> ⚠️ **It is closing in January 2027**, when the Knightsbridge lease ends. If you are planning a 2027 trip, check before you build an evening around it — and if you have wanted to eat here, this is the last year to do it.
+
+**Closed Tuesdays**, books months ahead, and it overlooks Hyde Park from inside the Mandarin Oriental. Two minutes from Knightsbridge.
+
 ## Book for the room
 
 Where the building is the occasion.
@@ -137,6 +163,10 @@ Regularly called **the most romantic room in London** — a blossom-covered cons
 
 Michelin-starred simplicity on the Thames. **The terrace tables book furthest ahead** and are the point.
 
+Michelin-starred simplicity on the Thames, and the kitchen where both Jamie Oliver and Hugh Fearnley-Whittingstall trained. Informal in atmosphere and expensive in practice, which catches people out.
+
+**The terrace tables book furthest ahead and are the entire point** — a table inside on a summer evening is a different and lesser night. Books months ahead, and it is eighteen minutes from Barons Court, so allow for the walk.
+
 ### Sketch, Mayfair
 
 *££££ · the pink room*
@@ -153,11 +183,19 @@ Booth-only, art deco throughout, and a **button at every table marked Press for 
 
 *The booths all have a button marked Press for Champagne, which is exactly as silly and enjoyable as it sounds. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5111925674), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
+**Books weeks ahead**, and it is booths only — there is no bar and no walk-in. Five minutes from Piccadilly Circus.
+
+It is the one on this page that is unembarrassed about being fun rather than serious, which for some occasions is exactly right.
+
 ### Duck & Waffle, City of London
 
 *££££ · forty floors up, 24 hours*
 
 The only place in London where a celebration can start at 2am and end with sunrise over the City.
+
+**Open 24 hours**, forty floors up. The sunrise and late-night slots are the ones worth planning around, and they are the reason to choose it over any other high room in London.
+
+**Book, and book a window table** — they go weeks ahead, and a table away from the glass is a materially lesser experience. Three minutes from Liverpool Street.
 
 ### Rules, Covent Garden
 
