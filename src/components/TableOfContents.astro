@@ -39,6 +39,17 @@ const isDesktop = variant === "desktop";
 
 <style>
   .toc {
+    /* Declared once and consumed by both the summary's height and the
+       desktop nav's max-height calc. It is `height`, not `min-height`, on
+       purpose: the desktop card's cap is summary + border + list, so a
+       summary that renders taller than the number used in that calc pushes
+       the bottom of the card off the screen. min-height did exactly that -
+       0.85rem of padding either side of a 1rem/800 line box measures
+       54.375px, so the old 3.25rem (52px) reserved nothing at all and the
+       card overflowed the viewport by 2px. This value IS the rendered
+       height, and now cannot drift from it. */
+    --toc-summary-height: 3.4rem;
+    --toc-border: 2px;
     border: 1px solid var(--line);
     border-radius: var(--radius-md);
     background: var(--surface);
@@ -47,7 +58,7 @@ const isDesktop = variant === "desktop";
 
   summary {
     display: flex;
-    min-height: 3.25rem;
+    height: var(--toc-summary-height);
     align-items: center;
     justify-content: space-between;
     gap: 1rem;
@@ -97,12 +108,59 @@ const isDesktop = variant === "desktop";
   }
 
   /* The mobile variant keeps its own cap - it sits inline above the article
-     and should not push the content down by a full contents list. The desktop
-     variant shows every entry; its sidebar handles any overflow. */
+     and should not push the content down by a full contents list. */
   .toc--mobile nav {
     max-height: 22rem;
     overflow-y: auto;
     overscroll-behavior: contain;
+  }
+
+  /* The desktop card is the only thing in the sidebar that pins. The column
+     around it is plain flow, so this is also the only scroll container -
+     which is the point: the scrollbar now belongs to the contents list, and
+     scrolling it can no longer carry "In this guide" off the screen.
+
+     `top` reads the LIVE offset so the card travels up in step with the site
+     header when that slides away. No media query needed: .toc--desktop is
+     already display:none below 52rem. */
+  .toc--desktop {
+    position: sticky;
+    top: var(--sticky-top);
+    /* Over the activities widget that now scrolls up beneath this card, and
+       well under the site header's 90 - never raise this past that or the
+       card would paint over the nav bar and its mega panel. */
+    z-index: 1;
+    /* Custom properties do not interpolate, so without this the card would
+       snap while the header glides. Matches the header's own transition. */
+    transition: top 260ms var(--ease);
+  }
+
+  /* Cap the LIST, not the card. Everything else in the card is a known fixed
+     height, so bounding the nav bounds the whole thing to the viewport with
+     no flex plumbing. Measured against --sticky-top-max (the header-shown
+     worst case) rather than the live offset, so the card keeps a constant
+     height while the bar animates and simply gains bottom clearance when it
+     is away - otherwise the list would jump taller mid-slide. */
+  .toc--desktop nav {
+    /* So the script's offsetTop reads measure against the list itself. The
+       card above is position:sticky, which would otherwise be the nearest
+       positioned ancestor and shift every measurement by the summary. */
+    position: relative;
+    max-height: calc(
+      100dvh - var(--sticky-top-max) - var(--toc-summary-height) -
+        var(--toc-border) - var(--rail-gap)
+    );
+    overflow-y: auto;
+    /* Moved down off .article__sidebar with the scrollbar. Without contain,
+       hitting the end of the list chains into the document scroll. */
+    overscroll-behavior: contain;
+    scrollbar-width: thin;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .toc--desktop {
+      transition: none;
+    }
   }
 
   ol {
@@ -178,6 +236,27 @@ const isDesktop = variant === "desktop";
     .filter((section): section is HTMLElement => Boolean(section));
 
   let frame: number | undefined;
+  let lastCurrentId: string | undefined;
+
+  // The desktop list is capped to the viewport and scrolls internally, so on
+  // a long contents (the tube lines guide runs to eighteen entries, and area
+  // guides inject up to five more) the highlighted entry can sit outside the
+  // visible rows - the same "where am I" problem the highlight exists to
+  // solve. Nudge it back into view, writing scrollTop directly rather than
+  // calling scrollIntoView, which would also scroll the page.
+  const revealInList = (link: HTMLAnchorElement) => {
+    const list = link.closest(".toc--desktop")?.querySelector("nav");
+    if (!list || list.scrollHeight <= list.clientHeight) return;
+
+    const top = link.offsetTop;
+    const bottom = top + link.offsetHeight;
+
+    if (top < list.scrollTop) {
+      list.scrollTop = top;
+    } else if (bottom > list.scrollTop + list.clientHeight) {
+      list.scrollTop = bottom - list.clientHeight;
+    }
+  };
 
   const updateCurrentSection = () => {
     frame = undefined;
@@ -193,12 +272,18 @@ const isDesktop = variant === "desktop";
 
     if (!current) return;
 
+    // Guarded so the layout reads in revealInList fire on a section change,
+    // not on every scroll frame.
+    const changed = current.id !== lastCurrentId;
+    lastCurrentId = current.id;
+
     tocLinks.forEach((link) => {
       const isCurrent = link.hash === `#${current.id}`;
       link.classList.toggle("is-current", isCurrent);
 
       if (isCurrent) {
         link.setAttribute("aria-current", "location");
+        if (changed) revealInList(link);
       } else {
         link.removeAttribute("aria-current");
       }

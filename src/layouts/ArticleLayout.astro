@@ -3,7 +3,6 @@ import { Image } from "astro:assets";
 import type { ImageMetadata } from "astro";
 import { getCollection } from "astro:content";
 import BaseLayout from "./BaseLayout.astro";
-import Advert from "../components/Advert.astro";
 import Breadcrumbs from "../components/Breadcrumbs.astro";
 import RelatedGuides from "../components/RelatedGuides.astro";
 import TableOfContents from "../components/TableOfContents.astro";
@@ -330,7 +329,6 @@ const breadcrumbs = [
             data-gyg-partner-id="WWP7I0R"
           ></div>
         </section>
-        <Advert format="rectangle" />
       </aside>
     </div>
     </div>
@@ -1563,21 +1561,30 @@ const breadcrumbs = [
   }
 
   .article__sidebar {
-    display: grid;
-    position: sticky;
-    /* Clear the sticky site header before this sidebar sticks. */
-    top: 6rem;
-    align-content: start;
-    align-self: start;
+    /* This column used to be ONE sticky, viewport-capped scroll box holding
+       the contents card, the activities widget and an advert. That made a
+       scrollbar which looked like it belonged to "In this guide" but in fact
+       scrolled the whole column - so the contents scrolled away, which is the
+       opposite of what the old comment here claimed it did.
+
+       Now the column is plain flow and only the contents card pins (see
+       .toc--desktop in TableOfContents.astro). The widget below it scrolls
+       away with the page like any other content.
+
+       FLEX, not grid. Both pin correctly in Chrome - measured - but a flex
+       item's containing block is unambiguously the flex container's content
+       box, whereas a sticky grid item's is its grid area, which the spec
+       makes content-sized under align-content: start. Flex is correct under
+       either reading and still gives us `gap`. */
+    display: flex;
+    flex-direction: column;
     gap: var(--space-4);
-    /* The sidebar must fit the viewport or sticky can never pin - the GYG
-       widget alone is taller than most screens. Cap it and scroll inside,
-       so "In this guide" stays put for the whole article. */
-    max-height: calc(100vh - 7rem);
-    overflow-y: auto;
-    overscroll-behavior: contain;
-    scrollbar-width: thin;
-    padding-right: 2px;
+    /* Load-bearing: stretches the column to the grid row set by the article
+       body, which is what gives the pinned card somewhere to travel. With
+       align-self: start it would unpin the moment the column's own content
+       ran out - a screen or two into the article. */
+    align-self: stretch;
+    min-width: 0;
   }
 
   .article__activities {
@@ -1600,12 +1607,11 @@ const breadcrumbs = [
     }
 
     .article__sidebar {
+      /* Nothing pins on a phone - the desktop contents card is display:none
+         here and a separate inline variant renders above the article. Block
+         rather than flex, so .article__activities' margin below does the
+         spacing the column gap does on desktop. */
       display: block;
-      position: static;
-    }
-
-    .article__sidebar > :global(.advert) {
-      margin-top: var(--space-5);
     }
 
     .article__activities {

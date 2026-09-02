@@ -63,6 +63,45 @@
     --ease: cubic-bezier(0.22, 1, 0.36, 1);
     --transition: 220ms var(--ease);
     --transition-slow: 320ms var(--ease);
+
+    /* ------------------------------------------------- sticky rails ----
+       Anything that pins below the site header derives its offset from
+       here rather than hard-coding a number. The header script measures
+       the real bar into --header-height as an inline style on <html>, so
+       that value wins over this fallback and is inherited everywhere -
+       which is what lets Astro's scoped <style> blocks read it without
+       needing a :global(:root) selector.
+
+       --sticky-top is the LIVE offset: it collapses when the bar slides
+       away, so a pinned card travels up with it instead of leaving a
+       header-sized hole. --sticky-top-max is the header-shown worst case,
+       and exists so a pinned card can size itself against a CONSTANT
+       value. Height maths must use the max: custom properties do not
+       interpolate, so measuring against the live offset would make a card
+       jump taller the instant the bar hides, while its `top` is still
+       gliding over 260ms. */
+    --header-height: 4.4rem;
+    --header-visible-height: var(--header-height);
+    --rail-gap: 1.5rem;
+    --sticky-top: calc(var(--header-visible-height) + var(--rail-gap));
+    --sticky-top-max: calc(var(--header-height) + var(--rail-gap));
+  }
+
+  /* Set by the site header's scroll handler, which mirrors its own
+     .is-hidden state up onto <html>. 0px rather than 0 - a unitless zero
+     is invalid in calc() length addition. */
+  :root.is-header-hidden {
+    --header-visible-height: 0px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    /* The header's reduced-motion rule cancels the slide (translate: 0 0)
+       but the script still adds .is-hidden, so the bar is on screen while
+       the class says otherwise. Without this, pinned cards would ride up
+       underneath a header that never moved. */
+    :root.is-header-hidden {
+      --header-visible-height: var(--header-height);
+    }
   }
 
   /* ------------------------------------------------------ Blue Hour ----

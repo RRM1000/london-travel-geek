@@ -1043,8 +1043,23 @@ const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => 
     );
   };
 
+  // The bar is min-height 4.4rem around two variable webfonts, and the
+  // measurement above runs before they land. Sticky rails now derive their
+  // offset from it, so a stale first-paint value would be visible on every
+  // article rather than only inside a menu opened by hand much later.
+  const setHeaderHidden = (hidden: boolean) => {
+    header?.classList.toggle("is-hidden", hidden);
+    // Mirrored onto <html> so sticky rails elsewhere on the page can travel
+    // with the bar. Every path that changes the bar's visibility must go
+    // through here - openMenu() used to clear .is-hidden directly, which
+    // left anything keyed off it parked at the wrong offset until the next
+    // scroll event.
+    document.documentElement.classList.toggle("is-header-hidden", hidden);
+  };
+
   if (header) {
     syncHeaderHeight();
+    document.fonts?.ready.then(syncHeaderHeight);
     window.addEventListener("resize", syncHeaderHeight, { passive: true });
 
     // Shadow once genuinely scrolled; hide the bar on the way down and bring
@@ -1058,11 +1073,11 @@ const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => 
       const menuOpen = mobileMenu?.classList.contains("is-open");
       const panelOpen = navItems.some((i) => i.classList.contains("is-open"));
       if (menuOpen || panelOpen || y < 240) {
-        header.classList.remove("is-hidden");
+        setHeaderHidden(false);
       } else if (y > lastY + 6) {
-        header.classList.add("is-hidden");
+        setHeaderHidden(true);
       } else if (y < lastY - 6) {
-        header.classList.remove("is-hidden");
+        setHeaderHidden(false);
       }
       lastY = y;
     };
@@ -1148,7 +1163,7 @@ const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => 
     toggle.setAttribute("aria-expanded", "true");
     toggle.setAttribute("aria-label", "Close menu");
     document.body.style.overflow = "hidden";
-    header?.classList.remove("is-hidden");
+    setHeaderHidden(false);
   };
 
   const closeMenu = () => {
