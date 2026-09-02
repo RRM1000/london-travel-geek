@@ -3862,7 +3862,7 @@
     "postcode": "EC2N 4AY",
     "website": "https://duckandwaffle.com/london/?utm_source=gbp&utm_medium=organic&utm_campaign=london_gbp",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "closedDays": "",
     "lat": 51.516378,
     "lng": -0.081179,
     "ward": "Bishopsgate",
@@ -3873,7 +3873,8 @@
     "bookingPlatform": "sevenrooms",
     "bookingUrl": "https://www.sevenrooms.com/reservations/duckandwaffle",
     "pressKit": "contact-only",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "closedDaysNote": "Open 24 hours. The Places-derived closedDays was inverted and claimed Monday to Saturday. Corrected 2026-09-02."
   },
   "dukes-bar": {
     "placeId": "ChIJLds3OEkFdkgRcYk3My6S59o",
