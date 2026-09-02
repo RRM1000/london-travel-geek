@@ -123,6 +123,11 @@ South-west of the station. A dense, diverse restaurant quarter — Chinese, Midd
 | **Pearl Liang** | Cantonese, dim sum | ££ | Long-standing favourite behind Paddington Basin |
 | **Kateh** | Persian | ££ | Small Warwick Avenue restaurant; reserve ahead |
 | **Beany Green** | Australian cafe | £ | Reliable breakfast on the station concourse |
+| **Market Halls Paddington** | Food hall | ££ | Eight kitchens a minute from the platforms; walk-in |
+
+![The upper floor of Market Halls Paddington, with the Gopal's Corner Malaysian counter under a banana-leaf mural on the left, a souvlaki and taco counter beyond it, and long communal tables running along a full-height glass wall](../../assets/articles/paddington-area-guide/market-halls-paddington.jpg)
+
+*Market Halls Paddington sits on the upper floor of 1 Paddington Square, the glass block beside the station. Eight kitchens — Malaysian, Greek, Argentine grill, tacos — around communal tables, all walk-in, which makes it the most useful pre-train meal in the area if The Waterway is too far to walk.*
 
 ## Getting there
 

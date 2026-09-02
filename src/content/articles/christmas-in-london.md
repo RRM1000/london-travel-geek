@@ -127,6 +127,12 @@ Different from the free street displays above — these are paid, walk-through e
 
 **Still running:** **Somerset House** (11 November 2026 – 10 January 2027, tickets £11–£28.50, on sale from September 2026), **Hampton Court Palace** (20 November 2026 – 3 January 2027, price not yet published), and **Alexandra Palace** — a permanent, year-round indoor rink rather than a seasonal one, dressed for Christmas with a panto-on-ice show, currently £11.75–£12.75.
 
+![Skaters on the ice rink in the courtyard of Somerset House, with SKATE spelled in illuminated letters along the roofline of the neoclassical building behind](../../assets/articles/christmas-in-london/somerset-house-ice-rink.jpg)
+
+*Somerset House is the one worth booking rather than the one you walk past. The courtyard is enclosed on all four sides, so the rink sits inside an eighteenth-century quadrangle rather than in a car park.*
+
+**Book Somerset House early.** It is the most popular outdoor rink in London and the good evening slots go within days of release — daytime sessions midweek are far easier and, in a courtyard this size, no less impressive.
+
 **No longer running, so don't plan around them:** the **Natural History Museum's** rink closed permanently after the 2024 season and its old site is now a wildlife garden. **Tower of London's** rink has been discontinued for several years. **Canary Wharf's** rink is paused for the 2026 season specifically, described as a break rather than a closure.
 
 For grottos, **Fortnum & Mason's** "Storytelling with Father Christmas" and **Hamleys'** Regent Street grotto are both expected back but hadn't gone on sale at the time of writing — 2025 prices were roughly £36–£45 and from £65 for a group of three, respectively. **Harrods'** famous grotto has been discontinued with no plans to reopen. **Selfridges** doesn't run a formal grotto — Santa and his elves roam the shop floor for free instead.

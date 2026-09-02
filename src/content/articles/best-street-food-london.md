@@ -74,7 +74,7 @@ London's street food is not one thing, and the difference that actually decides 
 | **Market Halls Victoria** | Victoria | Food hall | 9 + 3 bars | Burgers, Thai, Malaysian, kebabs | Plenty, 3 floors + roof | Daily |
 | **Market Halls Oxford Street** | Oxford Circus | Food hall | 9 + 2 bars | Malaysian, Thai, BBQ, pizza | Plenty | Daily |
 | **Market Halls Canary Wharf** | Canary Wharf | Food hall | 11 + 3 bars | Caribbean, Thai, Malaysian | Plenty | Daily, breakfast to late |
-| **Market Halls Paddington** | Paddington | Food hall | 8 | Argentine grill, Greek, Thai | Plenty | Daily |
+| **Market Halls Paddington** | Paddington | Food hall | 8 | Argentine grill, Malaysian, Greek, tacos | Plenty | Daily |
 | **Tower Bridge Collective** | Shad Thames | Food hall | 13 | Korean, Thai, Ethiopian, Palestinian | Plenty, 2 floors | Daily from 8am |
 | **Mercato Metropolitano** | Elephant & Castle | Food hall | 40+ | The most genuinely diverse | Plenty | Daily · **closing end of 2026** |
 | **Mercato Mayfair** | Mayfair | Food hall | 19 | Italian-led, in a Grade I church | Plenty | Daily |
@@ -155,6 +155,10 @@ It is strip-lit and functional rather than handsome, and that is the point: this
 Recurring names worth ordering from: **Le Bab** for gourmet kebabs, **Gopal's Corner** for Malaysian roti canai from the founder of Roti King, and **Black Bear Burger**, a former National Burger Awards winner. Victoria has three floors and a roof terrace; Paddington is seconds from the station and the best pre-train meal in London.
 
 **Plenty of seating, walk-in, and most sites open from 8am** for breakfast.
+
+![The upper floor of Market Halls Paddington, with the Gopal's Corner Malaysian counter under a banana-leaf mural on the left, a souvlaki and taco counter beyond it, and long communal tables running along a full-height glass wall](../../assets/articles/best-street-food-london/market-halls-paddington.jpg)
+
+*Market Halls Paddington, on the upper floor of the glass block at 1 Paddington Square. Gopal's Corner is on the left, souvlaki and tacos beyond it, and the tables run the length of the window — mid-afternoon is when you get a seat like this.*
 
 ### Food Hall @ 17&Central, Walthamstow
 
