@@ -1,7 +1,22 @@
 {
- "generated": "2026-09-01",
- "count": 183,
+ "generated": "2026-09-02",
+ "count": 251,
  "spots": [
+  {
+   "slug": "saints-tattoo-portobello",
+   "name": "201 Portobello Road",
+   "type": "filming-location",
+   "subject": "Notting Hill (1999) - Spike's tattoo parlour",
+   "area": "Notting Hill",
+   "borough": "Kensington and Chelsea",
+   "guide": "notting-hill-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "201 Portobello Road",
+   "postcode": "W11 1LT",
+   "whyGo": "The shopfront used as the tattoo parlour where Spike acquires his ill-advised declaration of love. Portobello Road is full of Notting Hill locations and this is the one nobody photographs, which is its main appeal.",
+   "opNote": "A working street with a market on Saturdays. Free and always visible; go early on a Saturday or on a weekday if you want the street to yourself. Ladbroke Grove is the nearest station."
+  },
   {
    "slug": "28-days-later-centre-point",
    "name": "28 Days Later's Car Alarm Scene (Centre Point)",
@@ -102,6 +117,36 @@
    "opNote": "We would think twice. It is a private house with somebody else living in it, there is no plaque and nothing to see, and the flowers went years ago. The statue in the Stables Market and the Hawley Arms are the places actually built for remembering her - this is just an address on a quiet residential square."
   },
   {
+   "slug": "the-gherkin-match-point",
+   "name": "30 St Mary Axe",
+   "type": "filming-location",
+   "subject": "Match Point (2005) - Chris lands his City job",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "30 St Mary Axe",
+   "postcode": "EC3A 8BF",
+   "whyGo": "The Gherkin, used for the office where Woody Allen's social climber gets his foothold. Foster's tower was five years old when the film came out and already the most recognisable silhouette in the City.",
+   "opNote": "An office building with no general public access; the top-floor bar is private. Free to photograph from Bury Court or St Mary Axe. Aldgate or Liverpool Street."
+  },
+  {
+   "slug": "55-whitehall-skyfall-rooftop",
+   "name": "55 Whitehall",
+   "type": "filming-location",
+   "subject": "Skyfall (2012) - the rooftop chase above Whitehall",
+   "area": "Whitehall",
+   "borough": "City of Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "55 Whitehall",
+   "postcode": "SW1A 2HP",
+   "whyGo": "The government building Bond scrambles across the roof of during the attack on the inquiry. Guides still call it the Department of Energy and Climate Change, which was abolished in 2016 - the building stands, the department does not.",
+   "opNote": "A government office with no public access. This is a look-up-from-the-pavement location on Whitehall, free and always visible, five minutes from Westminster or Charing Cross."
+  },
+  {
    "slug": "lovelace-st-james-square",
    "name": "Ada Lovelace's St James's Square Home",
    "type": "blue-plaque",
@@ -118,6 +163,36 @@
    "lng": -0.136571,
    "whyGo": "Lovelace's notes on Charles Babbage's Analytical Engine are considered the first published algorithm intended for a machine - a real claim to \"first computer programmer\".",
    "opNote": "A private/institutional building - viewable from the street only."
+  },
+  {
+   "slug": "admiralty-arch-children-of-men",
+   "name": "Admiralty Arch",
+   "type": "filming-location",
+   "subject": "Children of Men (2006) - the drive through the checkpoint",
+   "area": "Westminster",
+   "borough": "City of Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "The Mall",
+   "postcode": "SW1A 2WH",
+   "whyGo": "Theo is driven through crowds and a security checkpoint here, in a film that imagined a militarised London a decade before anyone found that plausible. The arch was built in 1912 as a memorial to Queen Victoria.",
+   "opNote": "Free, always visible; the central gate opens only for ceremonial processions. It is being converted into a hotel, so the scaffolding is not permanent. Charing Cross, two minutes."
+  },
+  {
+   "slug": "admiralty-building-ipcress-file",
+   "name": "Admiralty Building",
+   "type": "filming-location",
+   "subject": "The Ipcress File (1965) - Harry Palmer is summoned",
+   "area": "St James's",
+   "borough": "City of Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "The Mall",
+   "postcode": "SW1A 2WH",
+   "whyGo": "Where Michael Caine's insubordinate spy gets his orders, in the film that invented the bespectacled, working-class alternative to James Bond. The building is the old naval headquarters at the end of The Mall.",
+   "opNote": "Government offices, no public access. Exterior only, free, always visible from The Mall or Horse Guards Parade. Charing Cross, five minutes."
   },
   {
    "slug": "christie-sheffield-terrace",
@@ -138,6 +213,21 @@
    "opNote": "A private residential building - viewable from the street only."
   },
   {
+   "slug": "kofee-espresso-air-street-mi",
+   "name": "Air Street",
+   "type": "filming-location",
+   "subject": "Mission: Impossible - Rogue Nation (2015) - Hunt receives his assignment",
+   "area": "Soho",
+   "borough": "City of Westminster",
+   "guide": "soho-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Air Street",
+   "postcode": "W1B 5AA",
+   "whyGo": "The record-shop-turned-cafe where Ethan Hunt is handed his mission in the back room. Air Street is the short arcade linking Regent Street to Piccadilly and is easy to miss twice a day.",
+   "opNote": "Free, a public street through an arcade, always open. One minute from Piccadilly Circus."
+  },
+  {
    "slug": "turing-warrington-crescent",
    "name": "Alan Turing's Birthplace",
    "type": "blue-plaque",
@@ -154,6 +244,21 @@
    "lng": -0.184538,
    "whyGo": "Turing was born here - the father of theoretical computer science and the codebreaker whose work at Bletchley Park is credited with shortening the Second World War.",
    "opNote": "A private residential building (now a hotel) - viewable from the street only."
+  },
+  {
+   "slug": "albert-bridge-bridget-jones-baby",
+   "name": "Albert Bridge",
+   "type": "filming-location",
+   "subject": "Bridget Jones's Baby (2016) - carried across the bridge in labour",
+   "area": "Chelsea",
+   "borough": "Kensington and Chelsea",
+   "guide": "chelsea-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "Albert Bridge",
+   "postcode": "SW3 5RS",
+   "whyGo": "The pink-and-green suspension bridge where Mark and Jack carry Bridget between them after her waters break. It is lit by four thousand bulbs at night and is the prettiest crossing in London by some distance.",
+   "opNote": "Free, open to pedestrians at all hours, best after dark when the bulbs are lit. Fifteen minutes from Sloane Square, or the 170 bus."
   },
   {
    "slug": "fleming-danvers-street",
@@ -188,6 +293,20 @@
    "lng": -0.182355,
    "whyGo": "Designed by Neave Brown for Camden Council and built 1972-78, its stepped ziggurat terraces and pedestrian street were listed in 1993 - the first postwar council estate to be, and still occupied social housing rather than a museum piece. An architectural pilgrimage site that most visitors to London have never heard of.",
    "opNote": "A lived-in residential estate - Rowley Way and the public walkways are open to walk through respectfully, but it is people's homes, not a tourist attraction."
+  },
+  {
+   "slug": "alexandra-palace-theatre-far-from-home",
+   "name": "Alexandra Palace Theatre",
+   "type": "filming-location",
+   "subject": "Spider-Man: Far From Home (2019) - testing Mysterio's illusions",
+   "area": "Muswell Hill",
+   "borough": "Haringey",
+   "zone": "3",
+   "district": "North",
+   "address": "Alexandra Palace Way",
+   "postcode": "N22 7AY",
+   "whyGo": "The Victorian theatre inside Alexandra Palace, used as the space where Mysterio's holographic deceptions get rehearsed. It sat derelict for most of a century and reopened in 2018, deliberately half-restored, with the decay left visible.",
+   "opNote": "A working theatre - access depends on the programme, so check what is on. The surrounding park and its free south-facing terrace are open day and night, all year. Alexandra Palace station or Wood Green."
   },
   {
    "slug": "hitchcock-cromwell-road",
@@ -645,6 +764,20 @@
    "opNote": "Free, open at all times. The best view of the run is from the Thames Path on the south bank."
   },
   {
+   "slug": "blythe-house-danish-girl",
+   "name": "Blythe House",
+   "type": "filming-location",
+   "subject": "The Danish Girl (2015) - Lili escapes the clinic",
+   "area": "West Kensington",
+   "borough": "Hammersmith and Fulham",
+   "zone": "2",
+   "district": "West",
+   "address": "23 Blythe Road",
+   "postcode": "W14 0QX",
+   "whyGo": "The former Post Office Savings Bank headquarters, an enormous 1903 red-brick block that has spent decades as museum storage for the V&A, the Science Museum and the British Museum. Its corridors have stood in for institutions in a great many films.",
+   "opNote": "No public access, and the collections are being moved out to V&A East. Exterior only, free, from Blythe Road. Kensington Olympia, five minutes."
+  },
+  {
    "slug": "marley-oakley-street",
    "name": "Bob Marley's Chelsea Flat",
    "type": "blue-plaque",
@@ -713,6 +846,21 @@
    "opNote": "A working government building - viewable from the river or the street only, no public access."
   },
   {
+   "slug": "walton-house-boundary-estate-suffragette",
+   "name": "Boundary Estate",
+   "type": "filming-location",
+   "subject": "Suffragette (2015) - Maud Watts's home",
+   "area": "Shoreditch",
+   "borough": "Tower Hamlets",
+   "guide": "shoreditch-area-guide",
+   "zone": "1",
+   "district": "East",
+   "address": "Walton House, Boundary Estate",
+   "postcode": "E2 7JQ",
+   "whyGo": "The world's first council housing estate, opened in 1900, used as the East End home of Carey Mulligan's laundry worker. Built on the cleared slum known as the Old Nichol, with the streets radiating from a raised bandstand on Arnold Circus.",
+   "opNote": "Residential, so exterior and public streets only. Free and open at all hours. Arnold Circus at the centre is a small public garden. Shoreditch High Street, five minutes."
+  },
+  {
    "slug": "bridgerton-rangers-house",
    "name": "Bridgerton House (Ranger's House)",
    "type": "filming-location",
@@ -745,6 +893,51 @@
    "lng": -0.090128,
    "whyGo": "Bridget's flat exterior sits directly above the Globe Tavern on the edge of Borough Market - the interiors were shot at Elstree, but the building, the pub and the market below are all real and still there.",
    "opNote": "A private residential flat above a working pub - viewable from the street/market only."
+  },
+  {
+   "slug": "broadgate-tower-skyfall-shanghai",
+   "name": "Broadgate Tower",
+   "type": "filming-location",
+   "subject": "Skyfall (2012) - the neon tower standing in for Shanghai",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Primrose Street entrance, 201 Bishopsgate",
+   "postcode": "EC2M 3AB",
+   "whyGo": "The glass lift shaft Bond rides up behind the assassin Patrice, dressed with blue neon to pass for a Shanghai skyscraper. London playing another city entirely, and doing it a hundred metres from Liverpool Street.",
+   "opNote": "An office building - the lobby is not a visitor attraction and you are looking at the exterior and the Primrose Street entrance. Free, on a public street, two minutes from Liverpool Street."
+  },
+  {
+   "slug": "brompton-cemetery-sherlock-holmes",
+   "name": "Brompton Cemetery",
+   "type": "filming-location",
+   "subject": "Sherlock Holmes (2009) - Blackwood rises from his tomb",
+   "area": "Earl's Court",
+   "borough": "Kensington and Chelsea",
+   "guide": "kensington-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "Old Brompton Road",
+   "postcode": "SW10 9UG",
+   "whyGo": "One of the Magnificent Seven Victorian cemeteries, its catacombs and colonnade used for the resurrection scene. Thirty-five thousand monuments over forty acres, with a domed chapel at the end of a formal avenue.",
+   "opNote": "Free and open daily, roughly dawn to dusk with hours shifting by season. West Brompton is at the north gate. The catacombs are normally closed and only open on occasional guided tours."
+  },
+  {
+   "slug": "camden-lock-spectre-mi6",
+   "name": "Camden Lock",
+   "type": "filming-location",
+   "subject": "Spectre (2015) - the entrance to MI6's temporary headquarters",
+   "area": "Camden Town",
+   "borough": "Camden",
+   "guide": "camden-area-guide",
+   "zone": "2",
+   "district": "North",
+   "address": "Camden Lock, Regent's Canal",
+   "postcode": "NW1 8AF",
+   "whyGo": "The working canal lock dressed as the covert river entrance to MI6's new home. In reality it is the busiest few square metres in Camden, with a market either side of it.",
+   "opNote": "Free, open at all hours, though the market around it keeps daytime hours. Two minutes from Camden Town station and unavoidable if you are visiting the market anyway."
   },
   {
    "slug": "canary-wharf-station-rogue-one",
@@ -791,6 +984,36 @@
    "lng": -0.005107,
    "whyGo": "Day-Lewis lived here as Poet Laureate - Crooms Hill is one of Greenwich's prettiest streets, running alongside the park.",
    "opNote": "A private residential building - viewable from the street only."
+  },
+  {
+   "slug": "central-lobby-suffragette",
+   "name": "Central Lobby, Houses of Parliament",
+   "type": "filming-location",
+   "subject": "Suffragette (2015) - the lobbying scene",
+   "area": "Westminster",
+   "borough": "City of Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Houses of Parliament",
+   "postcode": "SW1A 0AA",
+   "whyGo": "The octagonal hall at the heart of the Palace of Westminster where the suffragettes confront the political machine. It was the first time a feature film had been permitted to shoot inside Parliament.",
+   "opNote": "You can reach Central Lobby free by asking your MP for a meeting or attending a debate - that is the lobbying right the scene is about. Paid tours also run on Saturdays and in recess. Westminster station."
+  },
+  {
+   "slug": "chalcot-square-paddington-2",
+   "name": "Chalcot Square",
+   "type": "filming-location",
+   "subject": "Paddington 2 (2017) - Phoenix Buchanan's house",
+   "area": "Primrose Hill",
+   "borough": "Camden",
+   "guide": "camden-area-guide",
+   "zone": "2",
+   "district": "North",
+   "address": "Chalcot Square",
+   "postcode": "NW1 8YA",
+   "whyGo": "The pastel terrace used for the home of Hugh Grant's washed-up actor. The same square supplied the Brown family's Windsor Gardens exterior in the first film, on the opposite side.",
+   "opNote": "A residential garden square, free to walk around, always open. Chalk Farm, five minutes, and Primrose Hill itself is two streets away."
   },
   {
    "slug": "darwin-gower-street",
@@ -877,6 +1100,36 @@
    "opNote": "A private residential square with a covered reservoir behind railings at its centre. Viewable from the pavement only; people live here."
   },
   {
+   "slug": "clarence-gate-gardens-match-point",
+   "name": "Clarence Gate Gardens",
+   "type": "filming-location",
+   "subject": "Match Point (2005) - Nola's flat, and the murder",
+   "area": "Marylebone",
+   "borough": "City of Westminster",
+   "guide": "marylebone-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Glentworth Street",
+   "postcode": "NW1 6AU",
+   "whyGo": "The red-brick mansion block used for Nola's flat and for the film's central crime. Edwardian, enormous and anonymous, which is exactly what the plot requires.",
+   "opNote": "Private flats - exterior only, from a public street. Free and always visible, two minutes from Baker Street, on the way to Regent's Park."
+  },
+  {
+   "slug": "clerkenwell-house-of-detention-suffragette",
+   "name": "Clerkenwell House of Detention",
+   "type": "filming-location",
+   "subject": "Suffragette (2015) - the Holloway prison cells",
+   "area": "Clerkenwell",
+   "borough": "Islington",
+   "guide": "islington-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Sans Walk",
+   "postcode": "EC1R 0LT",
+   "whyGo": "The surviving underground cells of a Victorian prison, used as Holloway. Almost everything above ground was demolished; what is left is the basement, and it is genuinely grim.",
+   "opNote": "Not open to the public - it operates as a private film and event location, and has been closed as a visitor attraction for years. Do not plan a visit around it. Farringdon is five minutes away."
+  },
+  {
    "slug": "cloth-fair-st-bartholomew",
    "name": "Cloth Fair & St Bartholomew the Great",
    "type": "hidden-gem",
@@ -912,6 +1165,21 @@
    "opNote": "A private residential building - viewable from the street only."
   },
   {
+   "slug": "college-of-arms-sherlock-holmes",
+   "name": "College of Arms",
+   "type": "filming-location",
+   "subject": "Sherlock Holmes (2009) - Sir Thomas's house",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "130 Queen Victoria Street",
+   "postcode": "EC4V 4BT",
+   "whyGo": "The 1670s brick building used as a grand private house, in reality the headquarters of English heraldry since the fifteenth century. The wrought-iron gates and the forecourt are the shot.",
+   "opNote": "The Earl Marshal's Court is open free on weekdays during office hours; the rest of the building is not. Free to see the forecourt from Queen Victoria Street. Blackfriars or Mansion House."
+  },
+  {
    "slug": "devonshire-mews-west",
    "name": "Devonshire Mews West",
    "type": "hidden-gem",
@@ -945,6 +1213,21 @@
    "lng": -0.150444,
    "whyGo": "Disraeli died here in 1881, having twice served as Prime Minister - one of several PM plaques within a short walk of each other in Mayfair.",
    "opNote": "A private residential building - viewable from the street only."
+  },
+  {
+   "slug": "dukes-road-cruella",
+   "name": "Duke's Road",
+   "type": "filming-location",
+   "subject": "Cruella (2021) - the Dalmatians are taken from the grooming salon",
+   "area": "Bloomsbury",
+   "borough": "Camden",
+   "guide": "bloomsbury-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Duke's Road",
+   "postcode": "WC1H 9PY",
+   "whyGo": "The short street dressed as Roscoe's Grooming Salon for the dognapping. Its real landmark is The Place, the contemporary dance theatre in the old Artillery drill hall.",
+   "opNote": "Free, a public street, always open. Euston, five minutes. There is nothing marking the location."
   },
   {
    "slug": "browning-wimpole-street",
@@ -998,6 +1281,20 @@
    "lng": -0.109979,
    "whyGo": "Believed carved in 1586, the only surviving statue of Elizabeth I made in her lifetime - it originally stood on Ludgate and was moved here when the gate was demolished in 1760. Easy to walk past on busy Fleet Street.",
    "opNote": "Set in a niche on the church exterior, visible from the street at any time."
+  },
+  {
+   "slug": "eltham-palace-wonka",
+   "name": "Eltham Palace",
+   "type": "filming-location",
+   "subject": "Wonka (2023) - Slugworth's house",
+   "area": "Eltham",
+   "borough": "Greenwich",
+   "zone": "4",
+   "district": "South",
+   "address": "Court Yard",
+   "postcode": "SE9 5QE",
+   "whyGo": "A medieval royal palace with a 1930s Art Deco house grafted onto it, used as the villain's grand home. Henry VIII grew up here; the Courtaulds added a circular entrance hall with a glass dome in 1936.",
+   "opNote": "English Heritage, ticketed, and closed on some winter weekdays - check before travelling. Mottingham or Eltham stations, fifteen minutes' walk. Free for members."
   },
   {
    "slug": "fleabag-cafe",
@@ -1069,6 +1366,21 @@
    "opNote": "A private mews building - viewable from the street only."
   },
   {
+   "slug": "freemasons-hall-sherlock-holmes",
+   "name": "Freemasons' Hall",
+   "type": "filming-location",
+   "subject": "Sherlock Holmes (2009) - Lord Blackwood's masonic meeting",
+   "area": "Holborn",
+   "borough": "Camden",
+   "guide": "covent-garden-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "60 Great Queen Street",
+   "postcode": "WC2B 5AZ",
+   "whyGo": "The Art Deco Grand Temple used, appropriately, as a masonic lodge. The building is a 1930s memorial to freemasons killed in the First World War and the scale of the interior genuinely surprises people.",
+   "opNote": "Free to visit, with a free museum and library, Monday to Saturday. Guided tours of the Grand Temple run daily and are also free. Covent Garden or Holborn, five minutes."
+  },
+  {
    "slug": "engels-regents-park-road",
    "name": "Friedrich Engels's Primrose Hill Home",
    "type": "blue-plaque",
@@ -1085,6 +1397,21 @@
    "lng": -0.157236,
    "whyGo": "Engels lived here for over 20 years, hosting Karl Marx regularly - a plaque for one half of one of history's most consequential intellectual partnerships.",
    "opNote": "A private residential building - viewable from the street only."
+  },
+  {
+   "slug": "gabriels-wharf-love-actually",
+   "name": "Gabriel's Wharf",
+   "type": "filming-location",
+   "subject": "Love Actually (2003) - Daniel and Sam on the South Bank",
+   "area": "South Bank",
+   "borough": "Lambeth",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "56 Upper Ground",
+   "postcode": "SE1 9PP",
+   "whyGo": "Where Liam Neeson's Daniel has the heart-to-heart with his stepson about being in love, with the river behind them. A small courtyard of independent shops and cafes that has survived the South Bank's redevelopment intact.",
+   "opNote": "Free, open at all hours as a through route, with the shops keeping daytime hours. Five minutes from Waterloo, on the walk between the National Theatre and the OXO Tower."
   },
   {
    "slug": "eliot-cheyne-walk",
@@ -1188,6 +1515,21 @@
    "opNote": "A private/commercial building on a busy shopping street."
   },
   {
+   "slug": "little-venice-paddington-2",
+   "name": "Grand Union Canal, Little Venice",
+   "type": "filming-location",
+   "subject": "Paddington 2 (2017) - the towpath chase",
+   "area": "Little Venice",
+   "borough": "City of Westminster",
+   "guide": "paddington-area-guide",
+   "zone": "2",
+   "district": "West",
+   "address": "Blomfield Road",
+   "postcode": "W9 2PF",
+   "whyGo": "Where Paddington pursues the real thief along the water. Little Venice is the junction of the Grand Union and Regent's Canal, lined with narrowboats and white stucco villas.",
+   "opNote": "Free, the towpath is open at all hours, and the walk east to Camden takes about an hour. Warwick Avenue, two minutes. Boat trips to Camden Lock run in season."
+  },
+  {
    "slug": "harry-potter-australia-house",
    "name": "Gringotts Wizarding Bank (Australia House)",
    "type": "filming-location",
@@ -1203,6 +1545,36 @@
    "lng": -0.115669,
    "whyGo": "Australia House's ornate banking hall - a real working diplomatic building - was used for Gringotts Wizarding Bank's interior in the first Harry Potter film.",
    "opNote": "A working diplomatic mission - not generally open for casual visits; viewable from the street only."
+  },
+  {
+   "slug": "grosvenor-house-sexy-beast",
+   "name": "Grosvenor House Hotel",
+   "type": "filming-location",
+   "subject": "Sexy Beast (2000) - Gal in Mayfair under an alias",
+   "area": "Mayfair",
+   "borough": "City of Westminster",
+   "guide": "mayfair-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "86-90 Park Lane",
+   "postcode": "W1K 7TN",
+   "whyGo": "Where Ray Winstone's retired villain stays while the London job is on. Park Lane luxury as the reward at the end of the criminal career, which the film is deeply sceptical about.",
+   "opNote": "A working hotel; public bars and restaurants are open to non-residents. Free to look. Marble Arch or Hyde Park Corner, ten minutes either way."
+  },
+  {
+   "slug": "hackney-empire-judy",
+   "name": "Hackney Empire",
+   "type": "filming-location",
+   "subject": "Judy (2019) - the Talk of the Town interior",
+   "area": "Hackney",
+   "borough": "Hackney",
+   "guide": "hackney-area-guide",
+   "zone": "2",
+   "district": "East",
+   "address": "291 Mare Street",
+   "postcode": "E8 1EJ",
+   "whyGo": "Frank Matcham's 1901 variety theatre, standing in for the interior of the nightclub. Charlie Chaplin and Stan Laurel played the real thing, and the terracotta and gilt interior survived a stint as a bingo hall.",
+   "opNote": "A working theatre with a full programme including comedy. The foyer and bar open for shows. Hackney Central, three minutes."
   },
   {
    "slug": "handel-brook-street",
@@ -1235,6 +1607,20 @@
    "address": "Hatton Garden EC1N 8LX",
    "whyGo": "Kubrick would not fly to New York, so American shopfronts and a payphone were added to this stretch of London's jewellery quarter to turn it into Greenwich Village. It is the clearest example in the city of London playing somewhere else entirely.",
    "opNote": "A working street of jewellers, open in shop hours and busy on weekdays. Nothing marks the location."
+  },
+  {
+   "slug": "heathgate-hermione-memory-charm",
+   "name": "Heathgate",
+   "type": "filming-location",
+   "subject": "Harry Potter and the Deathly Hallows: Part 1 (2010) - Hermione erases her parents' memories",
+   "area": "Hampstead Garden Suburb",
+   "borough": "Barnet",
+   "zone": "3",
+   "district": "North",
+   "address": "Heathgate",
+   "postcode": "NW11",
+   "whyGo": "The suburban street used for Hermione's family home in the film's quietest and most devastating scene, where she wipes herself out of her parents' memory before leaving. Hampstead Garden Suburb was built as a model estate in 1907 and still looks staged.",
+   "opNote": "A residential street with no marker of any kind. Free and open, but a long way out - Golders Green then a bus, or a twenty-minute walk. For completists rather than casual visitors."
   },
   {
    "slug": "henry-james-de-vere-gardens",
@@ -1287,6 +1673,21 @@
    "lng": -0.152336,
    "whyGo": "Fleming was born and grew up on this street - the plaque marks the creator of James Bond, a very different kind of London export from the writers nearby.",
    "opNote": "A private residential building - viewable from the street only."
+  },
+  {
+   "slug": "ica-bridget-jones-book-launch",
+   "name": "Institute of Contemporary Arts",
+   "type": "filming-location",
+   "subject": "Bridget Jones's Diary (2001) - the book launch",
+   "area": "St James's",
+   "borough": "City of Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "The Mall",
+   "postcode": "SW1Y 5AH",
+   "whyGo": "The Nash terrace on The Mall where Bridget delivers her catastrophic introduction to a room of publishing people. The ICA is a real arts centre and the bar she flounders in is a real bar.",
+   "opNote": "Free to enter the building, bar and bookshop; exhibitions are ticketed. Closed Mondays. Two minutes from Charing Cross, through Admiralty Arch."
   },
   {
    "slug": "barrie-bayswater-road",
@@ -1469,6 +1870,21 @@
    "opNote": "Keats House is a paid museum with set opening hours, not just a street plaque."
   },
   {
+   "slug": "kenwood-house-notting-hill-shoot",
+   "name": "Kenwood House",
+   "type": "filming-location",
+   "subject": "Notting Hill (1999) - the period film shoot William walks into",
+   "area": "Hampstead",
+   "borough": "Camden",
+   "guide": "hampstead-area-guide",
+   "zone": "2–3",
+   "district": "North",
+   "address": "Hampstead Lane",
+   "postcode": "NW3 7JR",
+   "whyGo": "The stately home where William blunders onto the set of Anna's costume drama and overhears her dismiss him through a headset. The house is genuinely free to enter and holds a Rembrandt self-portrait and a Vermeer.",
+   "opNote": "Free entry to house and grounds, 10am to 5pm with last entry 4.30pm. Gospel Oak or Hampstead Heath by rail, or the 210 bus. The viewing gazebo in the grounds is one of London's best free panoramas."
+  },
+  {
    "slug": "killing-eve-mi6-warwick-house-street",
    "name": "Killing Eve's Old MI6 Office",
    "type": "filming-location",
@@ -1553,6 +1969,21 @@
    "opNote": "A private residential street; walkable and photographable, but treat it as someone's front door, not an attraction. Wisteria peaks late April to May."
   },
   {
+   "slug": "lancaster-house-theory-of-everything",
+   "name": "Lancaster House",
+   "type": "filming-location",
+   "subject": "The Theory of Everything (2014) - Hawking receives his honour",
+   "area": "St James's",
+   "borough": "City of Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Stable Yard, St James's",
+   "postcode": "SW1A 1BB",
+   "whyGo": "The Nash mansion used as Buckingham Palace, which it stands in for so often that The Crown used it for the same purpose. Its state rooms are more lavish than the real palace's, which is why.",
+   "opNote": "Government hospitality venue with no general public access; it opens for occasional Open House weekends. Free to see the exterior from Stable Yard Road. Green Park, five minutes."
+  },
+  {
    "slug": "layer-cake-craig-flat-kensington",
    "name": "Layer Cake's Flat (Daniel Craig)",
    "type": "filming-location",
@@ -1601,6 +2032,35 @@
    "opNote": "A working market, open to walk through in the daytime. The shops and bars keep City hours, so it is quiet at weekends."
   },
   {
+   "slug": "liberty-cruella",
+   "name": "Liberty",
+   "type": "filming-location",
+   "subject": "Cruella (2021) - the opening heist and the job interview",
+   "area": "Soho",
+   "borough": "City of Westminster",
+   "guide": "soho-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Great Marlborough Street",
+   "whyGo": "The mock-Tudor department store used as the fashion house Estella talks her way into. The building was put up in 1924 from the timbers of two Royal Navy warships, which is why the floors slope.",
+   "opNote": "Free to walk into, open daily. Oxford Circus, two minutes. The atrium and the top-floor galleries are the parts worth the climb."
+  },
+  {
+   "slug": "liverpool-street-elephant-man",
+   "name": "Liverpool Street Station",
+   "type": "filming-location",
+   "subject": "The Elephant Man (1980) - Merrick returns to London",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Liverpool Street",
+   "postcode": "EC2M 7PY",
+   "whyGo": "The terminus where John Merrick arrives back in London after escaping the continental freak show, and is chased into the gentlemen's lavatory by a crowd. Lynch shot it in black and white and the roof does most of the work.",
+   "opNote": "Free, open around the clock as a working station. The 1875 train shed was rebuilt in the 1980s, so the ironwork you see is a reconstruction of what Lynch filmed."
+  },
+  {
    "slug": "lock-stock-hatchet-harry-cheshire-street",
    "name": "Lock, Stock's Sex Shop (Cheshire Street)",
    "type": "filming-location",
@@ -1616,6 +2076,21 @@
    "lng": -0.069591,
    "whyGo": "Guy Ritchie's breakout film used this Shoreditch street for Hatchet Harry's business - one of several East London corners across his early films that still look almost identical today.",
    "opNote": "A private/commercial building - viewable from the street only."
+  },
+  {
+   "slug": "aquatics-centre-bridget-jones-baby",
+   "name": "London Aquatics Centre",
+   "type": "filming-location",
+   "subject": "Bridget Jones's Baby (2016) - the ante-natal class",
+   "area": "Stratford",
+   "borough": "Newham",
+   "guide": "stratford-area-guide",
+   "zone": "3",
+   "district": "East",
+   "address": "Queen Elizabeth Olympic Park",
+   "postcode": "E20 2ZQ",
+   "whyGo": "Zaha Hadid's wave-roofed Olympic pool, used for the ante-natal swimming scenes. It is one of the few 2012 venues that works better as a building than as a sports facility.",
+   "opNote": "A working public pool - you can swim in it for a standard session fee, which is the best way to see the roof. Stratford or Stratford International, ten minutes' walk."
   },
   {
    "slug": "london-stone",
@@ -1718,6 +2193,21 @@
    "opNote": "An active place of worship - respect service times; open to visitors outside them."
   },
   {
+   "slug": "malaysia-house-living-daylights",
+   "name": "Malaysia House",
+   "type": "filming-location",
+   "subject": "The Living Daylights (1987) - the exterior of Universal Exports",
+   "area": "Westminster",
+   "borough": "City of Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "57 Trafalgar Square",
+   "postcode": "WC2N 5DU",
+   "whyGo": "The building used as Universal Exports, the shipping company that was MI6's cover identity through the older films. It sits on the corner of Trafalgar Square, which makes it the least covert secret headquarters imaginable.",
+   "opNote": "Exterior only. Free, always visible, on the north-west corner of Trafalgar Square, two minutes from Charing Cross."
+  },
+  {
    "slug": "fonteyn-long-acre",
    "name": "Margot Fonteyn's Home",
    "type": "blue-plaque",
@@ -1790,6 +2280,21 @@
    "opNote": "A private residential building - viewable from the street only."
   },
   {
+   "slug": "maryon-park-blowup",
+   "name": "Maryon Park",
+   "type": "filming-location",
+   "subject": "Blowup (1966) - the photographs, and the body in the undergrowth",
+   "area": "Charlton",
+   "borough": "Greenwich",
+   "guide": "greenwich-area-guide",
+   "zone": "3–4",
+   "district": "South",
+   "address": "Thorntree Road",
+   "postcode": "SE7 8LN",
+   "whyGo": "The park where Antonioni's photographer shoots a couple and then, blowing up the negatives, finds what might be a corpse in the bushes. The tennis courts where the film ends with a mimed game are still there.",
+   "opNote": "Free, open dawn to dusk, and genuinely quiet. Charlton station, five minutes. It is a proper park rather than a location - most people here are walking a dog."
+  },
+  {
    "slug": "faraday-blandford-street",
    "name": "Michael Faraday's Birthplace Area",
    "type": "blue-plaque",
@@ -1806,6 +2311,35 @@
    "lng": -0.154285,
    "whyGo": "Faraday's work on electromagnetism underpins the electric motor and generator - a genuinely foundational scientist commemorated on a quiet Marylebone street.",
    "opNote": "A private residential building - viewable from the street only."
+  },
+  {
+   "slug": "middle-temple-cloisters-mi",
+   "name": "Middle Temple Cloisters",
+   "type": "filming-location",
+   "subject": "Mission: Impossible - Rogue Nation (2015) - Ilsa fights off an assassin",
+   "area": "Holborn",
+   "borough": "City of London",
+   "zone": "1",
+   "district": "Central",
+   "address": "Middle Temple Lane",
+   "postcode": "EC4Y 9AT",
+   "whyGo": "The Inn of Court's cloisters, used for a knife fight in a set of buildings that have been lawyers' chambers since the fourteenth century. The quiet is the point - it is a walled legal quarter in the middle of the city.",
+   "opNote": "The Temple is private land but the lanes are open to walk through on weekdays during working hours, and closed at weekends. Free. Temple station, closed on Sundays, or Blackfriars."
+  },
+  {
+   "slug": "mod-main-building-no-time-to-die",
+   "name": "Ministry of Defence Main Building",
+   "type": "filming-location",
+   "subject": "No Time To Die (2021) - Bond goes to see M",
+   "area": "Whitehall",
+   "borough": "City of Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Horse Guards Avenue",
+   "postcode": "SW1A 2HB",
+   "whyGo": "The real MOD, used as itself rather than as a stand-in, which the Bond films rarely bother with. A vast Portland stone slab between Whitehall and the river that most visitors walk past without registering.",
+   "opNote": "No public access whatsoever. Exterior only, from Horse Guards Avenue or Victoria Embankment, free and always visible. Five minutes from Embankment or Westminster."
   },
   {
    "slug": "mozart-ebury-street",
@@ -1842,6 +2376,21 @@
    "lng": -0.134989,
    "whyGo": "Astor was the first woman to sit in the House of Commons - the plaque sits in the same St James's Square as several other notable addresses.",
    "opNote": "A private/institutional building - viewable from the street only."
+  },
+  {
+   "slug": "noel-coward-theatre-judy",
+   "name": "Noël Coward Theatre",
+   "type": "filming-location",
+   "subject": "Judy (2019) - the Talk of the Town exterior",
+   "area": "Covent Garden",
+   "borough": "City of Westminster",
+   "guide": "covent-garden-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "85-88 St Martin's Lane",
+   "postcode": "WC2N 4AP",
+   "whyGo": "The frontage used as the exterior of the Talk of the Town, the nightclub where Judy Garland played her final London residency in 1969. The real venue was the Hippodrome on Cranbourn Street, now a casino.",
+   "opNote": "A working West End theatre - the foyer opens for performances. Free to see the frontage from St Martin's Lane. Leicester Square, three minutes."
   },
   {
    "slug": "notting-hill-travel-bookshop",
@@ -2062,6 +2611,21 @@
    "opNote": "A private/commercial building - viewable from the street only."
   },
   {
+   "slug": "pickering-place-cruella",
+   "name": "Pickering Place",
+   "type": "filming-location",
+   "subject": "Cruella (2021) - Wink opens the door onto the square",
+   "area": "St James's",
+   "borough": "City of Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Pickering Place, St James's Street",
+   "postcode": "SW1A 1EA",
+   "whyGo": "London's smallest public square, reached down a wood-panelled passage beside Berry Bros & Rudd, used for one of the film's robberies. It is gas-lit, and it was reputedly the last place in London where a duel was fought.",
+   "opNote": "Free, always open, though the passage is easy to walk past. Green Park, five minutes. Berry Bros has been selling wine on the corner since 1698."
+  },
+  {
    "slug": "pink-floyd-animals-battersea",
    "name": "Pink Floyd's Animals Power Station",
    "type": "music-location",
@@ -2091,6 +2655,21 @@
    "address": "King's Cross station N1C 4AP",
    "whyGo": "The on-screen barrier was shot between platforms 4 and 5. The trolley now embedded in a wall for photographs sits in the western departures concourse, nowhere near either. Both facts are true and the queue does not care.",
    "opNote": "Free to look at, inside the station. The trolley has a managed queue with a photographer and a shop attached - expect to wait at weekends and in school holidays."
+  },
+  {
+   "slug": "repton-boxing-club-the-gentlemen",
+   "name": "Repton Boxing Club",
+   "type": "filming-location",
+   "subject": "The Gentlemen (2019) - Coach's gym",
+   "area": "Bethnal Green",
+   "borough": "Tower Hamlets",
+   "guide": "shoreditch-area-guide",
+   "zone": "2",
+   "district": "East",
+   "address": "Cheshire Street",
+   "postcode": "E2 6EH",
+   "whyGo": "The real East End boxing club used as Colin Farrell's gym, in a Victorian bathhouse. Repton has been going since 1884 and its alumni include Audley Harrison and the Kray twins, which is the reason film crews keep asking.",
+   "opNote": "A working amateur club, not a visitor attraction - exterior only unless you are training. Free to see from Cheshire Street. Bethnal Green or Shoreditch High Street, and Brick Lane is two minutes away."
   },
   {
    "slug": "burton-lyndhurst-road",
@@ -2127,6 +2706,66 @@
    "lng": -0.179045,
    "whyGo": "Franklin's X-ray diffraction images were essential to identifying the structure of DNA - a scientist whose contribution went under-credited for decades.",
    "opNote": "A private residential building - viewable from the street only."
+  },
+  {
+   "slug": "roupell-street-no-time-to-die",
+   "name": "Roupell Street",
+   "type": "filming-location",
+   "subject": "No Time To Die (2021) - Bond and Moneypenny call on Q at home",
+   "area": "Waterloo",
+   "borough": "Lambeth",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Roupell Street",
+   "postcode": "SE1 8TB",
+   "whyGo": "A cobbled terrace of early nineteenth-century workers' cottages a few minutes behind Waterloo, used as the street Q lives on. It is the most complete pre-Victorian street in the area and looks it.",
+   "opNote": "A residential conservation area, free and open, best in daylight. Three minutes from Waterloo East, and the Kings Arms on the corner is a genuinely good pub."
+  },
+  {
+   "slug": "royal-albert-hall-steps-ipcress",
+   "name": "Royal Albert Hall steps",
+   "type": "filming-location",
+   "subject": "The Ipcress File (1965) - the fight on the steps",
+   "area": "South Kensington",
+   "borough": "Kensington and Chelsea",
+   "guide": "south-kensington-area-guide",
+   "zone": "1",
+   "district": "West",
+   "address": "Kensington Gore",
+   "postcode": "SW7 2AP",
+   "whyGo": "The grand entrance steps used for a fight scene, with the Albert Memorial across the road. The hall opened in 1871 and the steps have barely changed.",
+   "opNote": "Free to stand on. The building itself is ticketed by event, with guided tours running most days. South Kensington is ten minutes' walk through the museum tunnel."
+  },
+  {
+   "slug": "royal-exchange-buildings-bridget-jones",
+   "name": "Royal Exchange Buildings",
+   "type": "filming-location",
+   "subject": "Bridget Jones's Diary (2001) - the kiss in the snow",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Royal Exchange Buildings, Cornhill",
+   "postcode": "EC3V 3LR",
+   "whyGo": "The alley behind the Royal Exchange used for the film's final scene, with Bridget in her underwear in the snow and Mark Darcy going back for the coat. The snow was fake and the cold was not.",
+   "opNote": "Free, a public passage, always open. Bank station is directly underneath it. The Royal Exchange itself is now shops and a bar."
+  },
+  {
+   "slug": "royal-opera-house-match-point",
+   "name": "Royal Opera House",
+   "type": "filming-location",
+   "subject": "Match Point (2005) - the night at the opera",
+   "area": "Covent Garden",
+   "borough": "City of Westminster",
+   "guide": "covent-garden-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Bow Street",
+   "postcode": "WC2E 9DD",
+   "whyGo": "Where Chris and Chloe take their box and the affair with Nola starts to take shape. The building is now branded the Royal Ballet and Opera, and its fifth-floor terrace bar is open to anyone without a ticket.",
+   "opNote": "Free to walk into the foyer and up to Bar Cicoria on the fifth floor, noon to 11pm Monday to Saturday, noon to 7pm Sunday. Covent Garden station, three minutes."
   },
   {
    "slug": "nureyev-victoria-road",
@@ -2201,6 +2840,36 @@
    "opNote": "Two plaques, two buildings, a few doors apart - worth doing both on the same stop."
   },
   {
+   "slug": "scotland-place-ministry-of-magic",
+   "name": "Scotland Place",
+   "type": "filming-location",
+   "subject": "Harry Potter and the Order of the Phoenix (2007) - the Ministry of Magic visitor entrance",
+   "area": "Whitehall",
+   "borough": "City of Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Scotland Place",
+   "postcode": "SW1A 2HN",
+   "whyGo": "The narrow street off Whitehall where Harry and Mr Weasley climb into a red telephone box and descend into the Ministry. A genuine dead end behind Great Scotland Yard, and the reason it was chosen is that it looks like nowhere.",
+   "opNote": "Free, a public street, always open. The telephone box was a prop and is not there. Two minutes from Charing Cross."
+  },
+  {
+   "slug": "selfridges-love-actually-necklace",
+   "name": "Selfridges",
+   "type": "filming-location",
+   "subject": "Love Actually (2003) - Harry buys the necklace",
+   "area": "Marylebone",
+   "borough": "City of Westminster",
+   "guide": "marylebone-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "400 Oxford Street",
+   "postcode": "W1A 1AB",
+   "whyGo": "The jewellery counter where Rowan Atkinson gift-wraps a necklace with such elaborate slowness that Alan Rickman nearly gets caught. It is the funniest scene in the film and it happens in a real shop you can walk into.",
+   "opNote": "A department store, free to enter, open daily. Bond Street or Marble Arch. Christmas is the thematically correct time and by far the worst time for crowds."
+  },
+  {
    "slug": "shad-thames",
    "name": "Shad Thames",
    "type": "hidden-gem",
@@ -2229,6 +2898,20 @@
    "lng": -0.115912,
    "whyGo": "Still a genuine, working corner shop (now a Londis) - the one Simon Pegg's character walks past a zombie apocalypse without noticing, one of several Crouch End addresses used across the film.",
    "opNote": "A working convenience shop with normal daily hours."
+  },
+  {
+   "slug": "shepherds-bush-market-quadrophenia",
+   "name": "Shepherd's Bush Market",
+   "type": "filming-location",
+   "subject": "Quadrophenia (1979) - the chase through the market",
+   "area": "Shepherd's Bush",
+   "borough": "Hammersmith and Fulham",
+   "zone": "2",
+   "district": "West",
+   "address": "Goldhawk Road",
+   "postcode": "W12 8DG",
+   "whyGo": "Where Jimmy and the Mods pursue a Rocker through the stalls. The market has run under the railway viaduct since 1914 and has been threatened with redevelopment for most of the last decade.",
+   "opNote": "Free and open, Monday to Saturday, roughly 9am to 6pm, closed Sundays. Goldhawk Road or Shepherd's Bush Market stations sit at either end of it."
   },
   {
    "slug": "sherlock-north-gower-street",
@@ -2401,6 +3084,21 @@
    "opNote": "The courtyard is free and open daily - fountains in summer, an ice rink in winter. Exhibitions inside are ticketed."
   },
   {
+   "slug": "south-molton-street-love-actually",
+   "name": "South Molton Street",
+   "type": "filming-location",
+   "subject": "Love Actually (2003) - the Christmas lights montage",
+   "area": "Mayfair",
+   "borough": "City of Westminster",
+   "guide": "mayfair-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "South Molton Street",
+   "postcode": "W1K 5RH",
+   "whyGo": "The pedestrianised street used in the film's opening montage of London at Christmas. Narrow, Georgian and hung with lights every December, which is precisely why it was picked.",
+   "opNote": "Free, always open, pedestrian only. Two minutes from Bond Street. Worth timing for late November onwards when the lights go up."
+  },
+  {
    "slug": "st-alphage-ruins-salters-garden",
    "name": "St Alphage Ruins & Salters' Garden",
    "type": "hidden-gem",
@@ -2418,6 +3116,21 @@
    "opNote": "Free, always open, easy to walk straight past - it's set back from London Wall itself, reached via Fore Street."
   },
   {
+   "slug": "st-bartholomew-the-great-sherlock-holmes",
+   "name": "St Bartholomew the Great",
+   "type": "filming-location",
+   "subject": "Sherlock Holmes (2009) - the interior standing in for St Paul's",
+   "area": "Clerkenwell",
+   "borough": "City of London",
+   "guide": "islington-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "West Smithfield",
+   "postcode": "EC1A 9DS",
+   "whyGo": "London's oldest surviving parish church, founded in 1123, its Norman interior standing in for St Paul's during the human-sacrifice scene. Four Weddings and Shakespeare in Love were shot here too - it is the most filmed church in the city.",
+   "opNote": "A working church with a small admission charge for visitors and free entry for worship. Closed to sightseers during services. Barbican or Farringdon, five minutes."
+  },
+  {
    "slug": "st-barts-sherlock-fall",
    "name": "St Bartholomew's Hospital",
    "type": "filming-location",
@@ -2430,6 +3143,66 @@
    "address": "West Smithfield EC1A 7BE",
    "whyGo": "Sherlock jumps from the roof of the pathology block and lands on the pavement below. Fans left so many notes on the phone box and the wall outside that the hospital had to manage it. Barts is also the oldest hospital in Britain still on its original site, founded in 1123.",
    "opNote": "A working hospital. The exterior and the square are public; the small museum keeps limited hours. Keep out of the way of patients."
+  },
+  {
+   "slug": "st-georges-in-the-east-long-good-friday",
+   "name": "St George in the East",
+   "type": "filming-location",
+   "subject": "The Long Good Friday (1980) - the car bomb outside the church",
+   "area": "Wapping",
+   "borough": "Tower Hamlets",
+   "guide": "wapping-area-guide",
+   "zone": "2",
+   "district": "East",
+   "address": "14 Cannon Street Road",
+   "postcode": "E1 0BH",
+   "whyGo": "Hawksmoor's 1729 church, where a bomb intended for Harold Shand nearly kills his mother. It was gutted in the Blitz and rebuilt with a modern church inside the surviving shell, which is why the interior is such a surprise.",
+   "opNote": "Free and normally open during the day, with a churchyard that functions as a public garden. Shadwell on the Overground or DLR, three minutes."
+  },
+  {
+   "slug": "st-johns-square-paddington-2",
+   "name": "St John's Square",
+   "type": "filming-location",
+   "subject": "Paddington 2 (2017) - the theatrical agent's office",
+   "area": "Clerkenwell",
+   "borough": "Islington",
+   "guide": "islington-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "St John's Square",
+   "postcode": "EC1M 4DE",
+   "whyGo": "The Clerkenwell square used for the office where Buchanan's agent delivers bad news. St John's Gate, the Tudor arch across the square, is the surviving gatehouse of a twelfth-century priory.",
+   "opNote": "Free, a public square, always open. The Museum of the Order of St John in the gatehouse is free and open Monday to Saturday. Farringdon, three minutes."
+  },
+  {
+   "slug": "st-katharine-docks-long-good-friday",
+   "name": "St Katharine Docks",
+   "type": "filming-location",
+   "subject": "The Long Good Friday (1980) - Harold's yacht and the pier party",
+   "area": "Wapping",
+   "borough": "Tower Hamlets",
+   "guide": "wapping-area-guide",
+   "zone": "2",
+   "district": "East",
+   "address": "50 St Katharine's Way",
+   "postcode": "E1W 1LA",
+   "whyGo": "The marina where Bob Hoskins holds court on his yacht and pitches his vision of a redeveloped Docklands - a speech the film treats as hubris and history proved right. The basin was one of the first docks converted, in 1973.",
+   "opNote": "Free, open at all hours, ringed by pubs and restaurants keeping normal hours. Five minutes east of Tower Bridge, and Tower Hill is the nearest station."
+  },
+  {
+   "slug": "stanley-gardens-spectre-flat",
+   "name": "Stanley Gardens",
+   "type": "filming-location",
+   "subject": "Spectre (2015) - the exterior of Bond's own London flat",
+   "area": "Notting Hill",
+   "borough": "Kensington and Chelsea",
+   "guide": "notting-hill-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "Stanley Gardens",
+   "postcode": "W11",
+   "whyGo": "The stucco terrace used for where James Bond actually lives, which the films almost never show. Notting Hill rather than Chelsea or Mayfair, which surprised a lot of people at the time.",
+   "opNote": "A residential street - people live here. Free to walk down, always open, five minutes from Notting Hill Gate. Look, do not linger at doorways."
   },
   {
    "slug": "star-yard-urinal",
@@ -2446,6 +3219,21 @@
    "lng": -0.112413,
    "whyGo": "Manufactured in Glasgow in 1851, tucked down a narrow yard off Chancery Lane - one of only a handful of cast-iron pissoirs left in London, and the only one carrying a royal coat of arms. No longer in use, but still standing.",
    "opNote": "Locked and non-functional, but visible from the street in Star Yard at any time."
+  },
+  {
+   "slug": "stoney-street-leaky-cauldron",
+   "name": "Stoney Street",
+   "type": "filming-location",
+   "subject": "Harry Potter and the Prisoner of Azkaban (2004) - the Leaky Cauldron exterior",
+   "area": "Borough",
+   "borough": "Southwark",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Stoney Street",
+   "postcode": "SE1 9AA",
+   "whyGo": "The third film moved the Leaky Cauldron here, to the brick railway arches on the edge of Borough Market - a completely different building from the Leadenhall Market version used in the first film. Both are canon and both are in London.",
+   "opNote": "Free and open, a public street through the market. Borough Market's own trading hours make the difference between atmospheric and deserted; London Bridge station is two minutes away."
   },
   {
    "slug": "pankhurst-cheyne-walk",
@@ -2502,6 +3290,50 @@
    "opNote": "A private residential building - viewable from the street only."
   },
   {
+   "slug": "tabernacle-street-love-actually",
+   "name": "Tabernacle Street",
+   "type": "filming-location",
+   "subject": "Love Actually (2003) - the office where Colin delivers sandwiches",
+   "area": "Shoreditch",
+   "borough": "Hackney",
+   "guide": "shoreditch-area-guide",
+   "zone": "1",
+   "district": "East",
+   "address": "Tabernacle Street",
+   "postcode": "EC2A 4NS",
+   "whyGo": "The street used for the office where Colin makes his catering rounds and his hopeless attempts at flirtation. Shoreditch standing in for a generic London workplace, before Shoreditch became a look.",
+   "opNote": "Free, a public street, always open. Five minutes from Old Street or Moorgate."
+  },
+  {
+   "slug": "talgarth-road-trainspotting",
+   "name": "Talgarth Road",
+   "type": "filming-location",
+   "subject": "Trainspotting (1996) - Renton's London flat",
+   "area": "West Kensington",
+   "borough": "Hammersmith and Fulham",
+   "zone": "2",
+   "district": "West",
+   "address": "Talgarth Road",
+   "postcode": "W14 9DA",
+   "whyGo": "The Art Deco block used for the flat Renton takes when he moves south, in the film's brief and unhappy London chapter. It is on the A4, one of the loudest roads in west London, which suits the scene.",
+   "opNote": "Residential, exterior only, free and always visible. Barons Court, three minutes. There is no reason to come for this alone."
+  },
+  {
+   "slug": "tate-modern-match-point",
+   "name": "Tate Modern",
+   "type": "filming-location",
+   "subject": "Match Point (2005) - the gallery opening",
+   "area": "South Bank",
+   "borough": "Southwark",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Bankside",
+   "postcode": "SE1 9TG",
+   "whyGo": "The gallery where Chris runs into Nola again and the film turns. The Turbine Hall does a lot of work in British cinema as shorthand for the moneyed art world.",
+   "opNote": "Free entry to the collection, daily 10am to 6pm, with Level 10's free viewing bar open to 9pm on Fridays and Saturdays. Southwark or Blackfriars, or across the Millennium Bridge from St Paul's."
+  },
+  {
    "slug": "ted-lasso-crown-and-anchor",
    "name": "Ted Lasso's Crown & Anchor (The Prince's Head)",
    "type": "filming-location",
@@ -2534,6 +3366,21 @@
    "lng": -0.090555,
    "whyGo": "Roman Londoners worshipped Mithras here around 240 AD; the ruins were rediscovered during 1954 building work and drew such crowds that the Prime Minister had to weigh in. Now sunk seven metres below Bloomberg's building, with a free reconstruction of temple worship - dimmed lights, chanting, atmospheric smoke.",
    "opNote": "Free, but timed-entry tickets must be booked online in advance - it sells out, especially weekends. Closed Sundays and Mondays."
+  },
+  {
+   "slug": "ten-trinity-square-skyfall",
+   "name": "Ten Trinity Square",
+   "type": "filming-location",
+   "subject": "Skyfall (2012) - M is summoned to meet the incoming Gareth Mallory",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "10 Trinity Square",
+   "postcode": "EC3N 4AJ",
+   "whyGo": "The Beaux-Arts former Port of London Authority headquarters, now a Four Seasons hotel, playing the establishment room where M gets told her time is up. The rotunda and the coffered ceiling are the shot, and they are still exactly as filmed.",
+   "opNote": "A working hotel, so the lobby and bars are open to non-residents. Two minutes from Tower Hill. Free to walk in and look; you are expected to buy something if you sit down."
   },
   {
    "slug": "oasis-morning-glory-berwick-street",
@@ -2719,6 +3566,21 @@
    "opNote": "A working pub, not a shrine - it does not trade on her and there is no memorial inside. Also the 2000s haunt of Kate Moss, Noel Fielding and most of the indie scene. Her drink here was the 'Rickstasy': three parts vodka to one each of banana liqueur, Southern Comfort and Baileys."
   },
   {
+   "slug": "the-hempel-notting-hill-reception",
+   "name": "The Hempel Zen Garden",
+   "type": "filming-location",
+   "subject": "Notting Hill (1999) - William and Anna's wedding reception",
+   "area": "Bayswater",
+   "borough": "City of Westminster",
+   "guide": "paddington-area-guide",
+   "zone": "1",
+   "district": "West",
+   "address": "31-35 Craven Hill Gardens",
+   "postcode": "W2 3EA",
+   "whyGo": "The walled garden used for the wedding reception at the end of the film, in a hotel that was one of the first minimalist design hotels in London. It is a private garden square rather than a park.",
+   "opNote": "Part of a hotel - access depends on the hotel, not on the public. Free to see the square from the street. Ten minutes from Paddington or Lancaster Gate."
+  },
+  {
    "slug": "imitation-game-lethaby-holborn",
    "name": "The Imitation Game's MI6 (Lethaby Building)",
    "type": "filming-location",
@@ -2734,6 +3596,21 @@
    "lng": -0.124919,
    "whyGo": "A Central Saint Martins building doubled as MI6's wartime headquarters for Benedict Cumberbatch's Alan Turing to walk through - a working art-school building most passersby would never connect to the film.",
    "opNote": "A working educational building - viewable from the street only."
+  },
+  {
+   "slug": "jerusalem-tavern-judy",
+   "name": "The Jerusalem Tavern",
+   "type": "filming-location",
+   "subject": "Judy (2019) - Judy and Mickey stop for a drink",
+   "area": "Clerkenwell",
+   "borough": "Islington",
+   "guide": "islington-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "55 Britton Street",
+   "postcode": "EC1M 5UQ",
+   "whyGo": "A single-room eighteenth-century shopfront pub, the London tap for St Peter's Brewery, used for a quiet scene between Garland and her last husband. It seats about thirty people and looks two hundred years older than it is licensed to be.",
+   "opNote": "A working pub, normal hours, and often full by six on a weekday. Free to walk into. Farringdon, four minutes."
   },
   {
    "slug": "kings-cross-light-tunnel",
@@ -2827,6 +3704,35 @@
    "opNote": "A private residential building - viewable from the street only."
   },
   {
+   "slug": "royal-oak-columbia-road-the-krays",
+   "name": "The Royal Oak",
+   "type": "filming-location",
+   "subject": "The Krays (1990) - the pub gets smashed up",
+   "area": "Bethnal Green",
+   "borough": "Tower Hamlets",
+   "guide": "shoreditch-area-guide",
+   "zone": "2",
+   "district": "East",
+   "address": "73 Columbia Road",
+   "postcode": "E2 7RG",
+   "whyGo": "The corner pub wrecked in the film's turf-war scene, on the street that fills with the flower market every Sunday. The exterior is largely unchanged.",
+   "opNote": "A working pub with normal opening hours. Columbia Road Flower Market runs Sunday mornings only, roughly 8am to 3pm, and the street is impassable while it does. Hoxton is the nearest station."
+  },
+  {
+   "slug": "the-salisbury-long-good-friday",
+   "name": "The Salisbury Hotel",
+   "type": "filming-location",
+   "subject": "The Long Good Friday (1980) - Fagan's, the Irish pub",
+   "area": "Harringay",
+   "borough": "Haringey",
+   "zone": "3",
+   "district": "North",
+   "address": "1 Grand Parade, Green Lanes",
+   "postcode": "N4 1JX",
+   "whyGo": "An extravagantly ornate 1899 gin palace standing in for a fictional Irish pub. Etched glass, mahogany and a ceiling that has no business being in a suburban pub - it is Grade II* listed and largely intact.",
+   "opNote": "A working pub with normal hours, free to walk into. Manor House on the Piccadilly line, five minutes, then a walk up Green Lanes."
+  },
+  {
    "slug": "seven-noses-of-soho",
    "name": "The Seven Noses of Soho",
    "type": "hidden-gem",
@@ -2841,6 +3747,21 @@
    "lng": -0.128663,
    "whyGo": "Artist Rick Buckley cast his own nose in plaster and stuck copies on buildings across central London in 1997, protesting the spread of CCTV. Most were removed; seven are said to survive, and a rumour promises riches to anyone who finds all of them.",
    "opNote": "Free, on public building exteriors, findable any time - no official map, part of the appeal is the hunt."
+  },
+  {
+   "slug": "the-shard-far-from-home",
+   "name": "The Shard",
+   "type": "filming-location",
+   "subject": "Spider-Man: Far From Home (2019) - Fury and Hill watch the drone attack",
+   "area": "South Bank",
+   "borough": "Southwark",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "32 London Bridge Street",
+   "postcode": "SE1 9SG",
+   "whyGo": "Where Nick Fury and Maria Hill watch London come apart from a great height. The building has appeared in more London-under-attack sequences than any other since it topped out in 2012.",
+   "opNote": "The View from The Shard occupies floors 68 to 72, including an open-air deck; hours change by date so check the calendar. Aqua Shard on level 31 has no admission fee if you book a table. London Bridge station is underneath."
   },
   {
    "slug": "great-george-street-spectre",
@@ -2874,6 +3795,21 @@
    "opNote": "A WORKING HOTEL, and the staircase is not a public thoroughfare - it is reachable if you are staying or eating at the Booking Office bar, otherwise ask at reception rather than wandering in. The station side is public and free."
   },
   {
+   "slug": "whispering-gallery-paddington-2",
+   "name": "The Whispering Gallery, St Paul's",
+   "type": "filming-location",
+   "subject": "Paddington 2 (2017) - the search for the pop-up book clue",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "St Paul's Churchyard",
+   "postcode": "EC4M 8AD",
+   "whyGo": "The circular gallery inside the dome where a whisper against the wall carries round to the far side, used as Buchanan hunts for the next clue. It is 257 steps up, the first of the three galleries.",
+   "opNote": "Included in the £27 adult sightseeing ticket, which also covers the Stone and Golden Galleries at 376 and 528 steps. Stairs only, no lift. Monday to Saturday, last entry around 4pm. St Paul's station."
+  },
+  {
    "slug": "ziggy-stardust-heddon-street",
    "name": "The Ziggy Stardust Cover Site",
    "type": "music-location",
@@ -2889,6 +3825,51 @@
    "lng": -0.139883,
    "whyGo": "Bowie posed under a streetlamp here on a wet January night in 1972 for the Ziggy Stardust sleeve. The K. West furrier's sign behind him is long gone, but a black plaque marks the exact spot - black rather than blue because the Crown Estate put it up, not English Heritage.",
    "opNote": "Free, on a pedestrianised street now full of restaurant tables. The plaque is at pavement level and easy to walk straight past."
+  },
+  {
+   "slug": "throgmorton-avenue-mi",
+   "name": "Throgmorton Avenue",
+   "type": "filming-location",
+   "subject": "Mission: Impossible - Rogue Nation (2015) - Solomon Lane goes through a window",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Throgmorton Avenue",
+   "postcode": "EC2N 2AT",
+   "whyGo": "The gated City lane where the villain confronts Hunt and exits through plate glass. It is a private road with iron gates at both ends, which is why it looks so unlike a normal street.",
+   "opNote": "Free to walk through on weekdays; the gates are closed at night and at weekends, which catches people out. Two minutes from Bank or Moorgate."
+  },
+  {
+   "slug": "tower-bridge-far-from-home",
+   "name": "Tower Bridge, West Upper Walkway",
+   "type": "filming-location",
+   "subject": "Spider-Man: Far From Home (2019) - the battle for the bridge",
+   "area": "City of London",
+   "borough": "Tower Hamlets",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Tower Bridge",
+   "postcode": "SE1 2UP",
+   "whyGo": "The high-level walkway where the film's climax plays out, glass floor and all. It is the same walkway you can stand on with an £18 ticket, which makes this one of the few blockbuster finales you can literally visit.",
+   "opNote": "The Exhibition is £18 adult, daily 9.30am to 6pm with last entry at 5pm, and there is lift access to the walkways. The bridge itself and its pavements are free at all hours. Tower Hill, two minutes."
+  },
+  {
+   "slug": "tower-of-london-far-from-home",
+   "name": "Tower of London",
+   "type": "filming-location",
+   "subject": "Spider-Man: Far From Home (2019) - the school trip arrives",
+   "area": "City of London",
+   "borough": "Tower Hamlets",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "St Katharine's & Wapping",
+   "postcode": "EC3N 4AB",
+   "whyGo": "The visitors' entrance where Happy Hogan delivers the school party, on the London leg of the film's European tour. The Tower gets destroyed later, which the guidebooks tend to leave out.",
+   "opNote": "Ticketed and expensive, and busiest between 11am and 3pm. The moat, the wharf and the view of the White Tower from the free pavement cost nothing. Tower Hill, two minutes."
   },
   {
    "slug": "trafalgar-square-wonder-woman",
@@ -3011,6 +3992,20 @@
    "opNote": "The building is now Bar Italia at street level; the plaque is above."
   },
   {
+   "slug": "wilcox-road-my-beautiful-laundrette",
+   "name": "Wilcox Road",
+   "type": "filming-location",
+   "subject": "My Beautiful Laundrette (1985) - Powders, the launderette",
+   "area": "Vauxhall",
+   "borough": "Lambeth",
+   "zone": "1–2",
+   "district": "South",
+   "address": "Wilcox Road",
+   "postcode": "SW8 2XA",
+   "whyGo": "The street where Omar and Johnny do up the launderette, in the film that made Daniel Day-Lewis's name and put a gay interracial relationship on British screens in 1985. The shopfront was dressed for the film and is an ordinary parade again.",
+   "opNote": "A residential street, free and open. Wandsworth Road station, or Stockwell on the Northern and Victoria lines, ten minutes."
+  },
+  {
    "slug": "collins-gloucester-place",
    "name": "Wilkie Collins's Home",
    "type": "blue-plaque",
@@ -3045,6 +4040,21 @@
    "lng": -0.118418,
    "whyGo": "Morris founded his decorative arts firm from this address in 1861, before the patterns that now cover half of Britain's National Trust properties existed.",
    "opNote": "A private/commercial building - viewable from the street only."
+  },
+  {
+   "slug": "wiltons-music-hall-the-krays",
+   "name": "Wilton's Music Hall",
+   "type": "filming-location",
+   "subject": "The Krays (1990) - the interior of the twins' nightclub",
+   "area": "Wapping",
+   "borough": "Tower Hamlets",
+   "guide": "wapping-area-guide",
+   "zone": "2",
+   "district": "East",
+   "address": "1 Graces Alley",
+   "postcode": "E1 8JB",
+   "whyGo": "The oldest surviving grand music hall in the world, built in 1859 behind a row of terraced houses, used as the interior of the Krays' club. It has been deliberately conserved rather than restored, so the peeling paint is the point.",
+   "opNote": "A working theatre and bar. The Mahogany Bar is free to walk into and open most evenings; the auditorium depends on the programme. Tower Hill or Shadwell, five minutes."
   },
   {
    "slug": "winchester-palace-ruins",
