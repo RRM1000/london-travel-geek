@@ -123,17 +123,13 @@ const isDesktop = variant === "desktop";
      `top` reads the LIVE offset so the card travels up in step with the site
      header when that slides away. No media query needed: .toc--desktop is
      already display:none below 52rem. */
-  .toc--desktop {
-    position: sticky;
-    top: var(--sticky-top);
-    /* Over the activities widget that now scrolls up beneath this card, and
-       well under the site header's 90 - never raise this past that or the
-       card would paint over the nav bar and its mega panel. */
-    z-index: 1;
-    /* Custom properties do not interpolate, so without this the card would
-       snap while the header glides. Matches the header's own transition. */
-    transition: top 260ms var(--ease);
-  }
+  /* The sidebar column does the pinning now, not this card - see
+     .article__sidebar. The card just needs to stay small enough that the
+     activities widget pinned below it always has room, which is what the
+     max-height below is for. Deliberately NOT a flex container: Chrome wraps
+     details content in ::details-content, which becomes the flex item and
+     ignores min-height:0 on the nav, so the list spills out of the card
+     instead of scrolling. Measured - it is a real failure, not a theory. */
 
   /* Cap the LIST, not the card. Everything else in the card is a known fixed
      height, so bounding the nav bounds the whole thing to the viewport with
@@ -146,9 +142,23 @@ const isDesktop = variant === "desktop";
        card above is position:sticky, which would otherwise be the nearest
        positioned ancestor and shift every measurement by the summary. */
     position: relative;
-    max-height: calc(
-      100dvh - var(--sticky-top-max) - var(--toc-summary-height) -
-        var(--toc-border) - var(--rail-gap)
+    /* A fixed cap first, so the contents box cannot eat the whole column and
+       push the activities widget off the screen - the widget is pinned below
+       it and has to stay visible. 22rem matches the mobile variant's cap.
+
+       The second term is the backstop for short windows, and it subtracts
+       --sidebar-widget-reserve as well as the card's own furniture: without
+       that reserve, at a 620px viewport the contents card would take 408 of
+       the 502px available and leave the widget ten pixels. Reserving the
+       widget's space here means the CONTENTS gives way on a short screen,
+       which is the right one to sacrifice - its list scrolls, the widget
+       just crops. */
+    max-height: min(
+      22rem,
+      calc(
+        100dvh - var(--sticky-top-max) - var(--toc-summary-height) -
+          var(--toc-border) - var(--rail-gap) - var(--sidebar-widget-reserve)
+      )
     );
     overflow-y: auto;
     /* Moved down off .article__sidebar with the scrollbar. Without contain,

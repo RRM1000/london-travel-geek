@@ -1567,24 +1567,50 @@ const breadcrumbs = [
        scrolled the whole column - so the contents scrolled away, which is the
        opposite of what the old comment here claimed it did.
 
-       Now the column is plain flow and only the contents card pins (see
-       .toc--desktop in TableOfContents.astro). The widget below it scrolls
-       away with the page like any other content.
+       The whole column pins again, as one unit - but it is no longer a scroll
+       container. The contents card carries its own scrollbar now (see
+       .toc--desktop nav), which is the one the reader sees, and the
+       activities widget rides along underneath it. Pinning the pair together
+       is what stops the widget sliding up behind the contents card and off
+       the top of the screen, which is what happened when only the card was
+       sticky.
 
-       FLEX, not grid. Both pin correctly in Chrome - measured - but a flex
-       item's containing block is unambiguously the flex container's content
-       box, whereas a sticky grid item's is its grid area, which the spec
-       makes content-sized under align-content: start. Flex is correct under
-       either reading and still gives us `gap`. */
+       top and max-height come from the header tokens rather than the old
+       hard-coded 6rem/7rem, so the column travels up with the site header
+       instead of leaving a header-sized gap above it. The height is measured
+       against --sticky-top-max, the header-shown worst case, so the column
+       keeps a constant height while the bar animates and simply gains bottom
+       clearance while it is away. */
     display: flex;
     flex-direction: column;
+    position: sticky;
+    top: var(--sticky-top);
+    /* The grid area is the full row height, so this pins for the whole
+       article. align-self: stretch would size the box to the article and
+       there would be nothing left to pin. */
+    align-self: start;
     gap: var(--space-4);
-    /* Load-bearing: stretches the column to the grid row set by the article
-       body, which is what gives the pinned card somewhere to travel. With
-       align-self: start it would unpin the moment the column's own content
-       ran out - a screen or two into the article. */
-    align-self: stretch;
+    max-height: calc(100dvh - var(--sticky-top-max) - var(--rail-gap));
     min-width: 0;
+    transition: top 260ms var(--ease);
+  }
+
+  /* No scrollbar out here - the contents card owns the only one.
+     flex-shrink: 0 is load-bearing. The card is a <details>, and Chrome's
+     ::details-content wrapper will not shrink with it, so letting flex
+     squeeze the card leaves the list painting outside its own border and
+     over the widget below - measured at 800px: card squeezed to 281px around
+     a 338px list. The card keeps its natural height (the nav cap already
+     bounds that, with the widget's reserve subtracted) and the widget, which
+     crops cleanly, absorbs the difference. */
+  .article__sidebar > :global(.toc--desktop) {
+    flex: 0 0 auto;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .article__sidebar {
+      transition: none;
+    }
   }
 
   .article__activities {
