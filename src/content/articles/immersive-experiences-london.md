@@ -86,6 +86,7 @@ That is the actual problem with picking one. Every other guide to this subject i
 | **Outernet** | Projection | Tottenham Court Rd | **Free** | No |
 | **The London Dungeon** | Attraction | Waterloo | see below | You may be picked on |
 | **Shrek's Adventure!** | Family attraction | Waterloo | see below | Gently |
+| **Bubble Planet** | Family attraction | Wembley | £19.90 | Yes — bring socks |
 | **Paddington Bear Experience** | Family attraction | Waterloo | £34 | Gently |
 | **COME ALIVE!** | Circus spectacular | Earls Court | £58 | **In the pre-show, yes** |
 | **Arcade Arena** | Gaming | Lambeth | £30 | **Yes — three of them** |
@@ -406,6 +407,8 @@ The programme rotates — recent pieces have included a butterfly trail, an ench
 
 ## For children
 
+Three of these four are on the same block at County Hall in Waterloo. The fourth is in Wembley and is worth the trip only if the bubbles are the point.
+
 ### Shrek's Adventure! and the Paddington Bear Experience, Waterloo
 
 Both at County Hall and both built for young families rather than tolerating them.
@@ -413,6 +416,22 @@ Both at County Hall and both built for young families rather than tolerating the
 **Shrek's Adventure** runs live actors and a DreamWorks 4D bus ride, gently guided throughout. **The Paddington Bear Experience** puts you on the train to 32 Windsor Gardens to help the Browns prepare for the Marmalade Day Festival — themed rooms, puzzles and character meets, aimed squarely at under-10s.
 
 **One serious access limitation at Paddington:** the fire evacuation procedure means **only one wheelchair user per hour**, on quarter-past slots. Book well ahead.
+
+### Bubble Planet, Wembley
+
+*£19.90 · 60–90 minutes · all ages*
+
+**More than ten themed rooms built entirely around bubbles**, with VR, illusions, projection and a hot air balloon flight simulator, in a unit behind Wembley Stadium. Sold exclusively through Fever, and one of the most-reviewed attractions in London on that platform — 28,635 ratings averaging 4.3, which is a far bigger sample than anything else on this page.
+
+**It is a walk-through photography attraction as much as an experience.** The rooms are designed to be stood in and photographed, the bubbles are the set rather than the story, and there is no narrative or performer. Judged as that, it is good; judged as immersive theatre, it is not trying.
+
+> 💡 **Bring socks, and this is not a joke.** Socks are mandatory for the Bubble Bath room and the venue enforces it — bare feet and tights are not accepted. It is the single most common way people lose access to the best room in the building.
+
+**Under-2s go free and need no ticket**, and every visitor under 17 must be with an adult. The venue is wheelchair accessible and there is a cloakroom. A birthday package is £21.90 a head for groups of seven or more, and educational groups of ten or more go free.
+
+> ⚠️ **The VR is not included in a standard ticket.** Standard admission holders can buy VR access separately on site, so the £19.90 is not the all-in price if that is what you came for.
+
+At **Unit 22 Fulton Road, Wembley** — go via Olympic Way and turn left onto Engineers Way rather than trusting a map pin. Wembley Park is the station.
 
 ### The London Dungeon, Waterloo
 
