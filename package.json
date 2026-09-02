@@ -18,7 +18,9 @@
     "audit:hub": "node scripts/audit-food-hub.mjs",
     "audit:overlap": "node scripts/audit-guide-overlap.mjs",
     "audit:fresh": "node scripts/audit-freshness.mjs",
-    "audit:dates": "node scripts/audit-expired-dates.mjs"
+    "audit:dates": "node scripts/audit-expired-dates.mjs",
+    "analytics:pull": "node scripts/pull-analytics.mjs",
+    "analytics:report": "node scripts/pull-analytics.mjs --report"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.2.1",

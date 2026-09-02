@@ -14,7 +14,9 @@ export const SHEET_ID =
   process.env.RESTAURANTS_SHEET_ID ??
   "18M3ZaxzYRo6pplCzQ7iK3-f2SAcc4k_eJ9xa24aRw9Y";
 
-const KEY_PATH =
+// Exported so pull-analytics.mjs authenticates from the same file - one
+// service account, one path to keep right.
+export const KEY_PATH =
   process.env.GOOGLE_SERVICE_ACCOUNT ??
   "C:/Users/rober/Projects/london-theatre-geek/google-service-account.json";
 
