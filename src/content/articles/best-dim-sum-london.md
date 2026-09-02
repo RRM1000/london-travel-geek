@@ -74,11 +74,17 @@ A black-and-gold banquet hall on Baker Street where **weekend dim sum runs at th
 
 No bookings at peak weekend times. The wait is real and worth it.
 
+**No bookings at weekend lunch**, which is the whole character of the place: the busiest dim sum service in London, a queue down Baker Street, and a room that turns tables fast enough to make it bearable. Loud, built for groups and families, and eight minutes from Bond Street.
+
 ### A. Wong, Victoria
 
 *££££ · 7 min from Victoria · two Michelin stars*
 
 The only **two-Michelin-starred Chinese restaurant in Europe**. Andrew Wong works through the regional cooking of the whole country, and the dim sum lunch is materially cheaper than dinner for the same kitchen.
+
+**Lunch and dinner barely resemble each other.** The daytime dim sum is a different and far cheaper proposition than the evening tasting menu, and it is the one to book if you want the cooking without the ££££ commitment.
+
+**Closed Sunday and Monday**, and the evening service books months ahead. Seven minutes from Victoria.
 
 ### Tao Tao Ju, Chinatown
 
@@ -86,15 +92,23 @@ The only **two-Michelin-starred Chinese restaurant in Europe**. Andrew Wong work
 
 **Towering bamboo baskets** of steamed and grilled dim sum, made fresh on site each day. The refined end of Chinatown, and the room to pick if you only eat there once.
 
+Steamed and grilled, made fresh on site each day rather than bought in, which is not true of everywhere on Lisle Street.
+
+It takes groups, dates and families equally well, and it is **two minutes from Leicester Square** — the easiest room here to reach and the least likely to disappoint someone who does not eat dim sum often.
+
 ### Yauatcha, Soho
 
 *£££ · 6 min from Piccadilly Circus · all day*
 
-**All-day dim sum** with a patisserie counter downstairs, from the Hakkasan founder. It held a Michelin star for four years and is the answer when you want dim sum at 8pm.
+**All-day dim sum** with a patisserie counter downstairs, from the Hakkasan founder, and the answer when you want dim sum at 8pm.
 
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-dim-sum-london-london-chinatown-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Chinatown food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+It **held a Michelin star for fourteen years** and still cooks like it. Dim sum runs all day rather than stopping mid-afternoon, so it solves the 4pm problem that closes most of Chinatown's kitchens.
+
+**Book weeks ahead**, and use it for a date or a pre-theatre meal — Piccadilly Circus is six minutes away and the patisserie counter downstairs is a reason to stay.
 
 ## Chinatown
 
@@ -104,17 +118,29 @@ The only **two-Michelin-starred Chinese restaurant in Europe**. Andrew Wong work
 
 A family-run room in a black-fronted building, doing award-winning dim sum in a smarter setting than most of the street.
 
+A **family-run Gerrard Street room** in a black-fronted building, doing award-winning dim sum in a smarter setting than most of Chinatown — tablecloths rather than laminate, and a quieter room for it.
+
+Good for a date or a small group rather than a crowd, and three minutes from Leicester Square.
+
 ### Joy King Lau
 
 *££ · off Leicester Square*
 
 Four floors doing **trolley-era dim sum the old way**, largely unchanged while the street around it turned over. The most traditional room here.
 
+Four floors off Leicester Square doing **trolley-era dim sum the old way**, largely unchanged while the street around it turned over.
+
+It is the cheapest room on this page that anyone would recommend on its merits — **££ rather than £££** — and it takes families and groups without ceremony. Three minutes from Leicester Square.
+
 ### Dumplings' Legend
 
 *££ · Gerrard Street*
 
 A glass-walled kitchen where the **xiao long bao are folded in front of the queue** — Shanghainese soup dumplings rather than Cantonese steamed baskets.
+
+A glass-walled kitchen on Gerrard Street where the **xiao long bao are folded in front of the queue** — Shanghainese soup dumplings rather than Cantonese steamed baskets, and the reason to come rather than a sideline.
+
+**££ and quick**, which makes it the sensible choice with children or before a show. Three minutes from Leicester Square.
 
 ### BaoziInn
 
@@ -123,6 +149,10 @@ A glass-walled kitchen where the **xiao long bao are folded in front of the queu
 Northern Chinese street food tidied up for London, in a room done out in Communist-era poster kitsch.
 
 ---
+
+Northern Chinese street food tidied up for London, in a room done out in **Communist-era poster kitsch** that is either the charm or the problem depending on your temperament.
+
+**Walk-in, ££, and one minute from Leicester Square** — the fastest way to eat well on this page if you have not booked anything.
 
 ### Dim Sum & Duck, King's Cross
 
@@ -146,6 +176,8 @@ A Cantonese dining room over the Royal Albert Dock with **City Airport's runway 
 
 **Dim sum is served until 4.30pm only, and it closes on Thursdays.** Worth the DLR trip, but not worth turning up unplanned.
 
+**Closed Thursdays**, book a few days ahead, and six minutes from Royal Albert on the DLR. It is a long way from central London and that is the entire point: a full Cantonese dining room at ££, with planes landing over the dumplings.
+
 ## Best value
 
 ### Dragon Castle, Elephant and Castle
@@ -153,6 +185,10 @@ A Cantonese dining room over the Royal Albert Dock with **City Airport's runway 
 *££ · 114 Walworth Road*
 
 South London's proper dim sum hall — a **full-size Cantonese banqueting room** at roughly half the central mark-up, and served through the day rather than only at lunch. Big enough to take a group without booking far ahead.
+
+**Dim sum runs through the day rather than only at lunch**, which is unusual and useful. The room is large enough to take a group without booking far ahead, and loud enough that nobody minds children.
+
+**££**, seven minutes from Elephant & Castle, and roughly half the central mark-up for the same food.
 
 ### Pearl Liang, Paddington
 
@@ -170,6 +206,10 @@ An unexpectedly large **basement dining room behind Paddington station**, routin
 
 ---
 
+**Five set menus** built for a table that wants to share rather than order dish by dish, which takes the guesswork out of a first visit.
+
+**Book a few days ahead**, and note it is two minutes from Paddington — the best dim sum within reach of a train west, and routinely rated above the Chinatown names by people who eat a lot of Cantonese food.
+
 ## For an evening
 
 Dim sum is a lunch. These are the exceptions.
@@ -179,6 +219,10 @@ Dim sum is a lunch. These are the exceptions.
 *£££ · 3 min from Covent Garden*
 
 Dim sum in a **bar-led room** rather than a banquet hall, which makes it the one that works as an evening rather than a daytime meal.
+
+Because it is bar-led rather than a banquet hall, it is **the one on this page that works as an evening out** — cocktails first, dumplings after, and a room that does not empty at 3pm.
+
+£££, good for a date or pre-theatre, and three minutes from Covent Garden.
 
 ### Din Tai Fung, Covent Garden
 
@@ -193,6 +237,10 @@ Dim sum in a **bar-led room** rather than a banquet hall, which makes it the one
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-dim-sum-london-dim-sum-cooking-class-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="dim sum cooking class London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+**Walk-in queues are long at peak**, and the Centre Point site is the larger of the two with a bar lounge, so head there if the Covent Garden line looks hopeless.
+
+£££ and loud, book weeks ahead for a weekend, and five minutes from Covent Garden.
 
 ## What to know
 
