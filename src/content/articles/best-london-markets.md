@@ -14,9 +14,9 @@ faq:
   - q: "What is the best market in London?"
     a: "Borough Market for food, Columbia Road for flowers, Portobello for antiques and Broadway Market for a Saturday. Which is best depends entirely on what day you are there — several only exist one day a week."
   - q: "Which London markets are open every day?"
-    a: "Borough, Camden, Greenwich, Seven Dials, Leadenhall and Old Spitalfields all trade most days. Columbia Road is Sunday only and Broadway Market is Saturday only — turning up on the wrong day is the most common way to waste a morning here."
+    a: "Borough, Camden, Greenwich, Leadenhall and Old Spitalfields all trade most days. Columbia Road is Sunday only and Broadway Market is Saturday only — turning up on the wrong day is the most common way to waste a morning here."
   - q: "Where can I eat at a London market?"
-    a: "Seven Dials Market and Maltby Street are built around hot food. Borough has both traders and produce. Columbia Road and Portobello are shopping markets where the food is incidental — good, but not the reason to go."
+    a: "Maltby Street is built around hot food. Borough has both traders and produce. Columbia Road and Portobello are shopping markets where the food is incidental — good, but not the reason to go."
   - q: "Is Camden Market worth visiting?"
     a: "Yes, but know what it is — Camden Lock, the Stables and Hawley Wharf run together into the best-known collection of street vendors in Britain. It is busy, touristy and still genuinely enjoyable. Go on a weekday morning if you dislike crowds."
   - q: "Can you visit Billingsgate Fish Market?"
@@ -29,7 +29,7 @@ We keep a full [markets by day](/markets/) page for exactly that reason. This gu
 
 **If you are only here to eat**, our [best street food in London](/articles/best-street-food-london/) guide compares every food hall, market and container yard on traders, variety, seating and trading days.
 
-> 💡 **The Short Version:** **Borough** is the food market everything else is measured against. **Columbia Road** is Sunday only and worth the alarm. **Seven Dials Market** is in a banana-ripening warehouse. **Maltby Street** is the one locals use instead of Borough. And **Billingsgate** trades before dawn and is finished by 8am.
+> 💡 **The Short Version:** **Borough** is the food market everything else is measured against. **Columbia Road** is Sunday only and worth the alarm. **Maltby Street** is the one locals use instead of Borough. And **Billingsgate** trades before dawn and is finished by 8am.
 
 > 📘 **How we choose these (editorial note)**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Trading days are the thing that changes most and the thing that ruins a trip — every one here was checked in August 2026, but confirm before travelling for a specific market.
@@ -55,8 +55,7 @@ We keep a full [markets by day](/markets/) page for exactly that reason. This gu
 | If you are near… | Which market |
 | --- | --- |
 | **Borough & Bermondsey** | Borough Market, Maltby Street |
-| **Tower Bridge & Shad Thames** | Tower Bridge Collective |
-| **Covent Garden** | Seven Dials Market, Apple Market |
+| **Covent Garden** | Apple Market |
 | **The City** | Leadenhall Market |
 | **Shoreditch & Bethnal Green** | Old Spitalfields, Columbia Road, Brick Lane |
 | **Hackney** | Broadway Market |
@@ -80,14 +79,6 @@ Horn OK Please and Gujarati Rasoi are the two vegetarian Indian stalls worth cro
 
 ![A cheese stall hung with French flags and stacked with whole cheeses under the iron roof of Borough Market](../../assets/articles/best-london-markets/borough-market-cheese-stall.jpg)
 
-### Seven Dials Market, Covent Garden
-
-*Free to enter*
-
-Two floors of independent food traders in a **1920s banana-ripening warehouse**, with a stage for live music. The two halls are still called Banana Warehouse and Cucumber Alley after what the building stored for the old Covent Garden fruit market.
-
-Bad Boy Pizza Society and Kolkati are here — both under £10.
-
 ### Maltby Street Market, Bermondsey
 
 *Weekends*
@@ -96,28 +87,15 @@ A **narrow ropewalk of food traders wedged under the railway arches** since 2010
 
 ### Canopy Market, King's Cross
 
-*Free to enter · Friday to Sunday*
+*Free to enter · Wednesday to Sunday*
 
-A weekend market of food traders, makers and a bar under the glass roof of the **West Handyside Canopy**, a Victorian goods canopy behind Granary Square. Long communal benches, and far calmer than Camden or Borough.
+A market of food traders, producers and designer-makers under the glass roof of the **West Handyside Canopy**, a Victorian goods canopy behind Granary Square. Long communal benches, a bar, and far calmer than Camden or Borough.
+
+**It runs on two schedules.** Wednesday and Thursday are street food only, midday to 8pm. **Friday to Sunday is the full market** — produce, jewellery, homeware and accessories alongside the food — noon to 8pm on Friday, 11am to 6pm at the weekend, and the same hours on bank holiday Mondays.
+
+Come at the weekend if you want the makers rather than lunch.
 
 ![Traders and long picnic benches under the glass roof of Canopy Market in King's Cross](../../assets/articles/best-london-markets/canopy-market-kings-cross.jpg)
-
-### Tower Bridge Collective, Shad Thames
-
-*Free to enter · daily from 8am*
-
-**Thirteen independent kitchens on the ground floor of a converted office block**, a minute from the southern end of Tower Bridge. It opened in October 2025 and is the first London site for Blend Family, who already run food halls in Manchester, Sheffield and Cambridge.
-
-The line-up is genuinely global and there is not a chain in it: **Neapolitan pizza and honey butter rings from Leopard Pie**, Korean fried chicken from Clapping Seoul, **Palestinian musakhan and hummus from Baity**, Greek gyros from Thatziki, Vietnamese banh mi from +84, Eritrean and Ethiopian stews from House of Habesha, Italian schiacciata sandwiches from Sapore, and birria tacos from Fuego 1987. Two bars and a bean-to-bar chocolate counter alongside them.
-
-**Most plates come in under £15** and a good many under a tenner. It is the rare food hall built for children as well — there is a play area and a sandpit, which no other market on this page offers. The whole floor runs on electricity rather than gas, as part of a net zero building.
-
-**Free to enter, walk-in, and open from 8am every day** for breakfast through to dinner. Traders do change: the opening line-up included Lakshmi's Indian Kitchen, since replaced by Esmie's Caribbean Fusion.
-
-![Long high tables under the neon Leopard Pie sign inside the Tower Bridge Collective food hall](../../assets/articles/best-london-markets/tower-bridge-collective.jpg)
-
-*Tower Bridge Collective. Order at whichever counter you fancy and eat at a shared table — nobody minds you mixing traders.*
-
 
 ### Billingsgate Fish Market, Canary Wharf
 
@@ -187,11 +165,13 @@ A covered Victorian market hall with different themes by day: antiques Thursday,
 
 ### Brick Lane Market, Shoreditch
 
-*Sundays · vintage, antiques and street food*
+*Sundays for the whole stretch · the Vintage Market daily*
 
-On Sundays the whole stretch turns into a patchwork of markets — **Upmarket, Backyard Market, the Vintage Market** and the Old Truman Brewery yards — selling vintage clothes, records, antiques and some of the best street food in east London.
+On Sundays the whole stretch turns into a patchwork of markets — **Upmarket, Backyard Market** and the Old Truman Brewery yards — selling vintage clothes, records, antiques and some of the best street food in east London. Chaotic, crowded and much larger than it looks from the street.
 
-Chaotic, crowded and much larger than it looks from the street. Go early if you want the vintage, late if you want the food.
+**The Brick Lane Vintage Market itself runs seven days a week**, in the basement at F Block, 85 Brick Lane: Mon–Fri 11am–6.30pm, Sat 11am–6pm, Sun 10am–6pm. It is the biggest vintage market in London and covers the 1920s to the 1990s — so if you only want the clothes and records, **come on a weekday** and skip the crowds entirely.
+
+Go early on a Sunday if you want the vintage, late if you want the food.
 
 ![A pink-painted entrance lit by vertical neon tubes, signed Huge Vintage Clothing Market Downstairs, on Brick Lane](../../assets/articles/best-london-markets/brick-lane-vintage-market.jpg)
 
@@ -254,7 +234,7 @@ Worth knowing the difference before you plan a morning around one.
 Markets are the cheapest good food in London and one of the few genuinely free things to do that is not a museum.
 
 * **Walking round costs nothing.** Borough, Spitalfields, Columbia Road, Portobello, Camden and Leadenhall are all free to enter and worth an hour on their own. Columbia Road on a Sunday morning is one of the best free hours in London.
-* **Street food runs roughly £8–£14 a dish** across Borough, Seven Dials, Maltby Street and Brick Lane — cheaper than a restaurant, more expensive than a supermarket, and the quality at the top end matches restaurants charging double.
+* **Street food runs roughly £8–£14 a dish** across Borough, Maltby Street and Brick Lane — cheaper than a restaurant, more expensive than a supermarket, and the quality at the top end matches restaurants charging double.
 * **Go at closing time for flowers.** Columbia Road traders cut prices hard in the last hour, and the shouting is half the entertainment.
 * **Borough's free samples are real.** The cheese, charcuterie and oil stalls expect you to taste, and a slow circuit of the market is close to a free lunch, though buying something is the decent thing.
 * **Billingsgate is free to walk into** and over by 8am. Bring cash and a cool bag.
