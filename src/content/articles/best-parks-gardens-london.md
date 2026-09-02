@@ -178,6 +178,10 @@ Wren rebuilt the church after the Great Fire; it was gutted again in 1941, and t
 
 **It is no longer the secret it once was.** Expect photographers at weekends and in good weather - early morning is when you get it to yourself. Monument and Tower Hill are both about five minutes away.
 
+![The Gothic window tracery of St Dunstan in the East standing roofless, with ivy growing over the walls and planting along the base](../../assets/articles/best-parks-gardens-london/st-dunstan-in-the-east.jpg)
+
+*The windows survived; the roof did not. The City chose to plant the shell rather than rebuild it.*
+
 ### Postman's Park, City of London
 
 *Free*
