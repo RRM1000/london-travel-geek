@@ -307,11 +307,13 @@ Named by the listings sites rather than the critics — which is not a criticism
 * **Patty & Bun** — *££ · Cited by 2 sources.* Started as a 30-seat Marylebone room and now runs seven sites. Order **The Don**, or the **Ari Gold** with red leicester.
 * **MEATliquor** — *££ · Cited by 2 sources.* The **Dead Hippie** with its secret sauce is the fan order. Genuinely good vegan options, including impossible nuggets and a black bean chilli dog.
 * **Burger & Lobster** — *£££ · Cited by 2 sources.* The **B&L burger** with Nebraskan beef and Atlantic lobster, which is the most expensive burger in this guide and priced as an occasion. Bookable.
-
-![The Burger & Lobster shopfront in the City of London](../../assets/articles/best-burgers-london/burger-and-lobster-city.jpg)
 * **Dirty Bones, Carnaby, Soho and Shoreditch** — *££ · Cited by 1 source.* The **Mac Daddy** is topped with pulled beef rib and mac and cheese. Cocktails are half the reason people go.
 * **Fat Hippo, Soho** — *£ · National Burger Awards 2026 London finalist.* Entered **The Lovue Loot**. Won the plant-based Burger of the Year in 2025.
 * **SoBe Burger, Walthamstow** — *£ · National Burger Awards 2026 London finalist.* Entered a **Double Bacon Black Garlic**.
+
+![Half a lobster, a sesame-seed cheeseburger on a skewer and a metal cup of fries, laid out on Burger & Lobster branded greaseproof paper on a wooden table](../../assets/articles/best-burgers-london/burger-and-lobster-combo.jpg)
+
+*The Burger & Lobster combination that explains the name and the price. This is the whole menu conceit: burger, lobster, or lobster roll, all at one price, with the sides included rather than added on.*
 
 ---
 
