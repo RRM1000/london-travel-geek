@@ -203,6 +203,8 @@ Suburban National Rail pricing inside London can be complex because train lines 
 
 To check exact pay-as-you-go rates, use TfL's [Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder). For long-distance, return, or Railcard tickets, book via [National Rail](https://www.nationalrail.co.uk/).
 
+> 💡 **The one case where a paper rail ticket beats contactless.** If you are travelling into London on National Rail and plan to visit paid attractions, **keep the ticket** — it unlocks **2FOR1 entry** at the Tower of London, Kew, Westminster Abbey and around a hundred other places through the Days Out Guide scheme. Contactless, Oyster, Freedom Passes and Travelcards bought at Tube stations do **not** qualify, and there is no way to print a TfL journey history as a substitute. This does not change how you should pay for the Tube once you are here. It just means the rail ticket you already bought is worth more than the barrier it gets you through. Full rules, the attractions that are only a third off, and the blackout dates are in our [National Rail 2FOR1 guide](/articles/national-rail-2for1-london-attractions/).
+
 ### Heathrow Airport Links
 
 Heathrow has three rail options at very different prices: the Piccadilly line is the cheapest and counts towards your daily cap, the Elizabeth line is faster and also capped, and Heathrow Express is the fastest but is excluded from caps and Travelcards. Current fares, terminal breakdowns and route advice by destination are in the [Heathrow Airport Transport Guide](/articles/heathrow-airport-to-london/).
