@@ -1,7 +1,7 @@
 ---
-title: "The Best Comedy Clubs in London: 17 Nights Compared"
+title: "The Best Comedy Clubs in London: 17 Nights, 8 Venues and 4 Festivals"
 seoTitle: "Best Comedy Clubs London 2026: Free Nights & Big Names"
-description: "Where alternative comedy started in 1979, a pub running free stand-up seven nights a week, and a Kennington night where famous comedians turn up unannounced."
+description: "Where alternative comedy started in 1979, a pub running free stand-up seven nights a week, the theatres that book the touring names, and why every London comedy festival lands in the same six weeks."
 heroImage: "../../assets/articles/best-comedy-clubs-london/best-comedy-clubs-london.jpg"
 heroImageAlt: "A stand-up comedian holding a microphone in front of a neon-lit wall"
 heroImageCredit: "Zaid Mohammed"
@@ -25,6 +25,10 @@ faq:
     a: "Angel Comedy's RAW nights at The Camden Head, and new-material nights at The Bill Murray. Big names use small rooms to work up Edinburgh shows, which is why a £5 ticket sometimes buys you someone who sells out theatres."
   - q: "Do I need to book comedy in London?"
     a: "For The Comedy Store and Top Secret, yes. For the free nights you cannot book — you queue. At The Camden Head on a weekend, arrive up to ninety minutes early to be sure of getting in."
+  - q: "Are there comedy festivals in London?"
+    a: "Four, and they all run in the same six weeks. Greenwich Comedy Garden is five nights in mid-July at the Old Royal Naval College, Ealing Comedy Festival is four nights in late July in a Big Top in Walpole Park, the Roundhouse Comedy Festival runs through August, and Camden Fringe puts 450+ shows into 39 venues across August. Outside July and August, London has no comedy festival. VAULT Festival, which many guides still list, ended in 2023."
+  - q: "Where do famous comedians play in London?"
+    a: "Not in the clubs, mostly. Touring names play theatres — Eventim Apollo in Hammersmith, Leicester Square Theatre, the Bloomsbury, Union Chapel, Hackney Empire and the Clapham Grand — and the handful who can fill an arena play The O2. Soho Theatre is the crossover, booking full solo hours at closer to club prices. Club nights are where you see people before that happens."
   - q: "What are the Comedy Store Players?"
     a: "The improv troupe that has performed at The Comedy Store every Sunday, and later Wednesday, since October 1985 — Paul Merton, Josie Lawrence, Neil Mullarkey and others. Guinness confirmed it in 2010 as the world's longest-running comedy show with the same cast."
 ---
@@ -201,6 +205,52 @@ A long-running central club that trades on convenience and a reliable weekend bi
 
 In a brick cellar bar near Waterloo, with late shows at weekends. The room is a large part of the appeal.
 
+
+---
+
+## Where the names play
+
+Everything above is a club — a bill of several acts, most of whom you will not have heard of, which is the point of a club. If you want to see one specific comedian do one show, you are looking for a different kind of building, and none of the venues below is a comedy venue at all. They are theatres, churches and an arena that happen to book the biggest touring names.
+
+| Venue | Where | What it books | Worth knowing |
+| --- | --- | --- | --- |
+| **Eventim Apollo** | 45 Queen Caroline Street, Hammersmith W6 9QH | The largest touring stand-up shows short of an arena | Bills itself as live music, comedy and theatre in equal measure. Seated for comedy, which the standing music layout is not |
+| **Leicester Square Theatre** | 6 Leicester Place WC2H 7BX | Long runs and work-in-progress shows by names you know | The most central of these by a distance. **Card only — it stopped taking cash**, and there is no cloakroom |
+| **Museum of Comedy** | The Undercroft, St George's Church, Bloomsbury Way WC1A 2SR | Nightly shows, plus an actual museum of British comedy | Under a Hawksmoor church, and run by the same people as Leicester Square Theatre. The only venue here that is a museum by day and a club by night |
+| **Bloomsbury Theatre** | 15 Gordon Street WC1H 0AH | Touring stand-up and student comedy on the same stage | UCL's theatre, so the programme swings from a household name to a first-ever gig |
+| **Union Chapel** | Compton Terrace, Islington N1 2UN | Comedy in a working Victorian church | The room is the draw. Pews, no bar in the auditorium, and remarkable acoustics |
+| **Clapham Grand** | 21–25 St John's Hill, Battersea SW11 1TT | Comedy alongside club nights, cabaret and drag | A restored 1900 variety theatre by Clapham Junction, and the only one on this list where the comedy shares a programme with a club night |
+| **Hackney Empire** | 291 Mare Street, Hackney E8 1EJ | Touring comedy in a 1901 Frank Matcham theatre | The building Charlie Chaplin and Stan Laurel played. Comedy is a listed category in its own programme |
+| **The O2** | Greenwich Peninsula | Arena stand-up only — the very few comedians who can fill it | Book the lower tiers. Comedy is a talking-head artform and the upper bowl is a long way from a face |
+
+**The Roundhouse belongs here too**, but only for one month of the year — see the festivals below.
+
+**Soho Theatre is the one that straddles both categories**, which is why it appears in the club list above rather than this one. It books full solo hours by touring names the way a theatre does, at prices closer to a club.
+
+> 💡 **The practical difference.** Clubs are decided on the night and cost between nothing and £30. These venues go on sale months ahead and sell out, and a returns queue is not a reliable plan. If a specific comedian is the reason you are going out, buy the ticket the week it is announced.
+
+---
+
+## Comedy festivals
+
+London's comedy festivals are almost entirely a **July and August** phenomenon. All four below run inside a six-week window, and outside it the city has no comedy festival at all — which is the single most useful thing to know about them, because it means the answer to "what's on" in February is always the clubs.
+
+| Festival | 2026 dates | Where | What it is |
+| --- | --- | --- | --- |
+| **Greenwich Comedy Garden** | 15–19 July | Old Royal Naval College SE10 9NL | Five nights of touring headliners in a tent in the grounds, with street food and a bar. Calls itself London's biggest comedy festival |
+| **Ealing Comedy Festival** | 23, 24, 30 and 31 July | Big Top, Walpole Park, Mattock Lane W5 5EQ | Four nights inside the wider Ealing Summer Festivals. **Now in its 32nd year**, and programmed by Headliners Comedy Club |
+| **Roundhouse Comedy Festival** | Throughout August, closing 18 August | Roundhouse, Chalk Farm Road NW1 | A month of one-off shows in the main space. The 2026 edition opened with Frank Skinner and closed with Joe Lycett, with Katherine Ryan, Sara Pascoe, Ed Gamble, Fern Brady, Adam Buxton and Alexei Sayle in between |
+| **Camden Fringe** | 3–30 August | 39 venues across Camden | **450+ shows**, open access, an hour each. Not a comedy festival strictly — theatre, improv, opera and a gameshow too — but the Evening Standard called it the closest thing London has to one |
+
+> ⚠️ **VAULT Festival is gone.** It ran under Waterloo station from 2012 and its **final festival was in 2023**; its own site now reads as an archive. A lot of London guides still list it as an annual fixture. It is not coming back in that form.
+
+**The two August festivals are opposites and they overlap.** The Roundhouse books people off the television into a seated room, at theatre prices, one night each. Camden Fringe is open-access, so anyone can apply, in pub rooms a few streets away — and its own pitch is that many tickets cost less than a pint. You can do both in the same week for wildly different money.
+
+**The Greenwich and Ealing ones are outdoor and summer-dependent**, in a tent and a Big Top respectively, which is a real consideration in a British July. Both put the food and bar operation on a par with the bill.
+
+> 💡 **The Roundhouse runs a second festival.** Its **Three Sixty Festival** also carries comedy — Channel 4 programmes a new-talent showcase inside it — so a Roundhouse comedy listing is not automatically part of the comedy festival.
+
+**One thing none of them publishes clearly:** 2027 dates. The pattern is stable — mid-July for Greenwich, late July for Ealing, all August for the Roundhouse and Camden — but the actual dates land four to six months ahead, and the Roundhouse's on-sale is the earliest of the four.
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-comedy-clubs-london-london-theatre-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London theatre tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
@@ -214,6 +264,8 @@ In a brick cellar bar near Waterloo, with late shows at weekends. The room is a 
 * **Most pub nights are cash-light but card-friendly**, and the ticket price does not include a drink.
 * **Check the line-up the same week.** Comedy bills change constantly and a name announced a month out is not a guarantee.
 * **Angel Comedy is free seven nights a week at The Camden Head**, but The Bill Murray also runs paid shows — the two venues are not the same offer.
+* **Festivals are a July and August thing only.** Greenwich, Ealing, the Roundhouse and Camden Fringe all fall inside six weeks. The rest of the year, the clubs are the entire scene.
+* **VAULT Festival ended in 2023.** Ignore any guide still listing it.
 
 ---
 
