@@ -1,5 +1,5 @@
 {
-  "pulledAt": "2026-09-02T15:57:37.898Z",
+  "pulledAt": "2026-09-02T16:04:38.855Z",
   "window": {
     "days": 28,
     "current": {
@@ -268,14 +268,15 @@
         "users": 1
       }
     },
-    "breakdowns": {},
-    "unregisteredDimensions": [
-      "placement",
-      "venue",
-      "section",
-      "label",
-      "query"
-    ],
+    "breakdowns": {
+      "affiliate_click.placement": [],
+      "affiliate_click.venue": [],
+      "toc_click.section": [],
+      "section_reached.section": [],
+      "nav_click.label": [],
+      "site_search.query": []
+    },
+    "unregisteredDimensions": [],
     "pages": [
       {
         "path": "/",
