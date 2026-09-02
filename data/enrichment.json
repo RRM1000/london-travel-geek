@@ -1281,7 +1281,7 @@
     "postcode": "E1 6SB",
     "website": "https://www.beigelbake.co.uk/",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "closedDays": "",
     "lat": 51.524118,
     "lng": -0.0717,
     "ward": "Weavers",
@@ -1290,7 +1290,8 @@
     "station": "Shoreditch High Street",
     "stationDistanceM": 302,
     "walkMin": 5,
-    "walkFrom": "Shoreditch High Street Rail Station"
+    "walkFrom": "Shoreditch High Street Rail Station",
+    "closedDaysNote": "Places-derived closedDays had inverted and claimed the venue shuts almost every day. Cleared rather than replaced, because clearing removes a false claim without inventing hours we have not checked. Corrected 2026-09-02."
   },
   "beit-el-zaytoun": {
     "placeId": "ChIJA6xR4OoRdkgR4-UOEEYmmqM",
@@ -1956,7 +1957,7 @@
     "postcode": "E8 4PH",
     "website": "https://broadwaymarket.co.uk/",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "closedDays": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
     "lat": 51.536752,
     "lng": -0.061879,
     "ward": "London Fields",
@@ -1965,7 +1966,8 @@
     "walkMin": 8,
     "walkFrom": "Cambridge Heath (London) Rail Station",
     "bookingHint": "no booking route in static HTML - check walk-in",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "closedDaysNote": "Saturday market. The cache had it inverted, open Sundays only. Corrected 2026-09-02."
   },
   "brockleys-rock": {
     "placeId": "ChIJszTjoUUCdkgRuG-jPK9Z97Y",
@@ -2003,7 +2005,7 @@
     "postcode": "W1S 4BP",
     "website": "https://www.roccofortehotels.com/hotels-and-resorts/brown-s-hotel/",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "closedDays": "",
     "lat": 51.50917,
     "lng": -0.142326,
     "ward": "West End",
@@ -2013,7 +2015,8 @@
     "walkFrom": "Green Park Underground Station",
     "bookingPlatform": "own-site",
     "bookingUrl": "https://www.roccofortehotels.com/hotels-and-resorts/brown-s-hotel/reservations/#/booking/step-1",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "closedDaysNote": "Places-derived closedDays had inverted and claimed the venue shuts almost every day. Cleared rather than replaced, because clearing removes a false claim without inventing hours we have not checked. Corrected 2026-09-02."
   },
   "brutto": {
     "rating": 4.4,
@@ -3270,7 +3273,7 @@
     "postcode": "SW1A 2BD",
     "website": "https://www.corinthia.com/london/?utm_source=gmb&utm_medium=seo&utm_campaign=londonlisting",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "closedDays": "",
     "lat": 51.506255,
     "lng": -0.125282,
     "ward": "St James's",
@@ -3281,7 +3284,8 @@
     "bookingPlatform": "sevenrooms",
     "bookingUrl": "https://www.sevenrooms.com/explore/mezzogiornobyfrancescomazzei/reservations/create/search/?date=2025-11-20",
     "pressKit": "https://www.corinthia.com/en-gb/press/",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "closedDaysNote": "Places-derived closedDays had inverted and claimed the venue shuts almost every day. Cleared rather than replaced, because clearing removes a false claim without inventing hours we have not checked. Corrected 2026-09-02."
   },
   "corner-corner": {
     "placeId": "ChIJi2ZmmiYDdkgR0Fls7OBODjE",
@@ -9145,7 +9149,7 @@
     "postcode": "WC2B 4BZ",
     "website": "https://www.onealdwych.com/?utm_source=mybusiness&utm_medium=organic",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "closedDays": "",
     "lat": 51.511925,
     "lng": -0.119385,
     "ward": "St James's",
@@ -9156,7 +9160,8 @@
     "bookingPlatform": "own-site",
     "bookingUrl": "https://booking.onealdwych.com/?chain=18378&amp;hotel=39780&amp;level=hotel",
     "pressKit": "https://www.onealdwych.com/press",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "closedDaysNote": "Places-derived closedDays had inverted and claimed the venue shuts almost every day. Cleared rather than replaced, because clearing removes a false claim without inventing hours we have not checked. Corrected 2026-09-02."
   },
   "one-club-row": {
     "placeId": "ChIJLTPl7JIddkgR76bZYSpbA2A",
@@ -10011,7 +10016,7 @@
     "postcode": "EC2M 4NQ",
     "website": "https://polobar.co.uk/",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "closedDays": "",
     "lat": 51.517456,
     "lng": -0.080053,
     "ward": "Bishopsgate",
@@ -10021,7 +10026,8 @@
     "station": "Liverpool Street",
     "stationDistanceM": 224,
     "walkMin": 4,
-    "walkFrom": "Liverpool Street Underground Station"
+    "walkFrom": "Liverpool Street Underground Station",
+    "closedDaysNote": "Places-derived closedDays had inverted and claimed the venue shuts almost every day. Cleared rather than replaced, because clearing removes a false claim without inventing hours we have not checked. Corrected 2026-09-02."
   },
   "pophams-bakery": {
     "placeId": "ChIJ6ah3ZWAbdkgRnIohEE0UryM",
@@ -10633,7 +10639,7 @@
     "postcode": "WC1V 7EN",
     "website": "https://www.rosewoodhotels.com/en/london",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "closedDays": "",
     "lat": 51.51733,
     "lng": -0.117764,
     "ward": "Holborn & Covent Garden",
@@ -10643,7 +10649,8 @@
     "walkFrom": "Holborn Underground Station",
     "bookingPlatform": "sevenrooms",
     "bookingUrl": "https://www.sevenrooms.com/reservations/rwldnartafternoontea",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "closedDaysNote": "Places-derived closedDays had inverted and claimed the venue shuts almost every day. Cleared rather than replaced, because clearing removes a false claim without inventing hours we have not checked. Corrected 2026-09-02."
   },
   "rosina": {
     "placeId": "ChIJDRvVHgAFdkgRy7x47AV4t1k",
@@ -12311,7 +12318,7 @@
     "postcode": "SW7 3ER",
     "website": "http://www.ampersandhotel.com/?utm_source=google&utm_medium=local&utm_campaign=ampersand",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "closedDays": "",
     "lat": 51.494305,
     "lng": -0.175546,
     "ward": "Brompton & Hans Town",
@@ -12322,7 +12329,8 @@
     "bookingPlatform": "thefork, bookatable",
     "bookingUrl": "http://www.ampersandhotel.com/",
     "pressKit": "https://ampersandhotel.com/press/",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "closedDaysNote": "Places-derived closedDays had inverted and claimed the venue shuts almost every day. Cleared rather than replaced, because clearing removes a false claim without inventing hours we have not checked. Corrected 2026-09-02."
   },
   "the-araki": {
     "placeId": "ChIJa2aShdUEdkgRrZoZDZFFc3Q",
@@ -12441,7 +12449,7 @@
     "postcode": "SW1X 7RL",
     "website": "https://www.maybourne.com/en/hotels/the-berkeley?utm_source=google&utm_medium=organic&utm_campaign=local",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "closedDays": "",
     "lat": 51.501924,
     "lng": -0.156136,
     "ward": "Knightsbridge & Belgravia",
@@ -12451,7 +12459,8 @@
     "walkFrom": "Knightsbridge Underground Station",
     "bookingPlatform": "own-site",
     "bookingUrl": "https://www.maybourne.com/en/hotels/the-berkeley/booking",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "closedDaysNote": "Places-derived closedDays had inverted and claimed the venue shuts almost every day. Cleared rather than replaced, because clearing removes a false claim without inventing hours we have not checked. Corrected 2026-09-02."
   },
   "the-bombay-restaurant": {
     "placeId": "ChIJg9Lfz94EdkgRKam20elTCpo",
@@ -12603,7 +12612,7 @@
     "postcode": "W1K 2AL",
     "website": "https://www.maybourne.com/en/hotels/the-connaught?utm_source=google&utm_medium=organic&utm_campaign=local",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "closedDays": "",
     "lat": 51.510157,
     "lng": -0.149607,
     "ward": "West End",
@@ -12613,7 +12622,8 @@
     "walkFrom": "Bond Street Underground Station",
     "bookingPlatform": "own-site",
     "bookingUrl": "https://www.maybourne.com/en/hotels/the-connaught/booking",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "closedDaysNote": "Places-derived closedDays had inverted and claimed the venue shuts almost every day. Cleared rather than replaced, because clearing removes a false claim without inventing hours we have not checked. Corrected 2026-09-02."
   },
   "the-cow-stratford": {
     "placeId": "ChIJ72hDqDLOcEgRWBJtWsAw6Lo",
@@ -12960,7 +12970,7 @@
     "postcode": "SW1W 0JW",
     "website": "https://www.thegoring.com/?utm_source=google&utm_medium=local&utm_campaign=hotel-thegoring",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "closedDays": "",
     "lat": 51.497476,
     "lng": -0.145539,
     "ward": "St James's",
@@ -12970,7 +12980,8 @@
     "walkFrom": "Victoria Underground Station",
     "bookingPlatform": "sevenrooms",
     "bookingUrl": "https://eu.sevenrooms.com/reservations/afternoonteaatthegoringtheveranda#",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "closedDaysNote": "Places-derived closedDays had inverted and claimed the venue shuts almost every day. Cleared rather than replaced, because clearing removes a false claim without inventing hours we have not checked. Corrected 2026-09-02."
   },
   "the-grapes-limehouse": {
     "placeId": "ChIJ05WkE84CdkgRH6RzB264YGE",
@@ -13083,7 +13094,7 @@
     "postcode": "SW1X 7TA",
     "website": "https://www.oetkerhotels.com/hotels/the-lanesborough/?utm_source=google&utm_medium=organic&utm_campaign=google_local_the_lanesborough",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "closedDays": "",
     "lat": 51.502202,
     "lng": -0.153257,
     "ward": "Knightsbridge & Belgravia",
@@ -13091,7 +13102,8 @@
     "stationDistanceM": 122,
     "walkMin": 2,
     "walkFrom": "Hyde Park Corner Underground Station",
-    "bookingProbe": "HTTP 429"
+    "bookingProbe": "HTTP 429",
+    "closedDaysNote": "Places-derived closedDays had inverted and claimed the venue shuts almost every day. Cleared rather than replaced, because clearing removes a false claim without inventing hours we have not checked. Corrected 2026-09-02."
   },
   "the-langham": {
     "placeId": "ChIJj375B9UadkgRkmFrWaFBXww",
@@ -13283,7 +13295,7 @@
     "postcode": "W8 5DL",
     "website": "https://milestonehotel.com/?utm_source=google&utm_medium=local&utm_campaign=hotel-the-milestone-hotel-and-residences",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "closedDays": "",
     "lat": 51.501573,
     "lng": -0.186696,
     "ward": "Queen's Gate",
@@ -13293,7 +13305,8 @@
     "walkFrom": "High Street Kensington Underground Station",
     "bookingPlatform": "own-site",
     "bookingUrl": "https://reservations.milestonehotel.com/?Chain=5169&amp;Hotel=10999&amp;locale=en-US&amp;adult=2&amp;child=0&amp;start=availresults",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "closedDaysNote": "Places-derived closedDays had inverted and claimed the venue shuts almost every day. Cleared rather than replaced, because clearing removes a false claim without inventing hours we have not checked. Corrected 2026-09-02."
   },
   "the-montagu-pyke": {
     "placeId": "ChIJoTzQuNIEdkgRVcmqQG_jpzI",
@@ -13499,7 +13512,7 @@
     "postcode": "SW1A 1NJ",
     "website": "https://thestaffordlondon.com/",
     "businessStatus": "OPERATIONAL",
-    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "closedDays": "",
     "lat": 51.50591,
     "lng": -0.140355,
     "ward": "St James's",
@@ -13510,7 +13523,8 @@
     "bookingPlatform": "sevenrooms",
     "bookingUrl": "https://www.sevenrooms.com/reservations/americanbar",
     "pressKit": "https://thestaffordlondon.com/press-room/",
-    "pressChecked": "2026-08-17"
+    "pressChecked": "2026-08-17",
+    "closedDaysNote": "Places-derived closedDays had inverted and claimed the venue shuts almost every day. Cleared rather than replaced, because clearing removes a false claim without inventing hours we have not checked. Corrected 2026-09-02."
   },
   "the-summerhouse": {
     "placeId": "ChIJYVcttKkadkgR6Mjx91YLlV8",
