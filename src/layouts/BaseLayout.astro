@@ -268,68 +268,24 @@ const jsonLd = JSON.stringify(
       </>
     )}
     <!--
-      ONE EVENT ONLY - affiliate_click. 2 September 2026.
+      CUSTOM EVENT TRACKING TEMPORARILY DISABLED - 2 September 2026.
 
-      Five events shipped this morning and Analytics stopped recording for
-      this property within minutes; removing them brought it straight back,
-      confirmed by testing from a phone and an incognito window while the
-      sister property on the same account carried on recording normally.
+      Analytics stopped recording for this property within minutes of the
+      deploy that introduced these events (deploy completed 16:07; the last
+      hour with any data is 16). The sister property, which was not
+      deployed, kept recording throughout - so the cause is specific to
+      this site rather than a Google-side outage.
 
-      The mechanism was never identified. Every browser-side check said the
-      tracking was correct - gtag loaded, a well-formed page_view beacon went
-      to region1.google-analytics.com with the right measurement id, and
-      Google answered 204 - which is consistent with hits being accepted and
-      then dropped server-side, a failure that is invisible from the page.
+      The mechanism is NOT understood. Measured on production while it was
+      failing: gtag loaded, a well-formed page_view beacon went to
+      region1.google-analytics.com with the right measurement id, and
+      Google answered 204. By every check available from the browser the
+      tracking was correct, which is exactly why removing it is a test
+      rather than a fix.
 
-      So this is the same code, reintroduced one event at a time.
-
-      affiliate_click goes first because it is the lowest-volume of the five
-      and the only one that answers a question worth money: which placement
-      earns, the sidebar card or the in-body lists. A reader fires it zero or
-      once in a session.
-
-      DELIBERATELY LEFT OUT, and section_reached should be last if ever:
-      it fired once per heading, which is about thirteen per article view in
-      a burst at load and again on scroll. If volume was the cause, that was
-      the cause.
+      Restore from git history (commit 4bd9191) once data is confirmed
+      flowing again, ideally one event at a time.
     -->
-    <script is:inline>
-      (function () {
-        // Nothing is sent unless GA actually loaded, which only happens on the
-        // production hostname over https - see the gate above.
-        if (typeof window.gtag !== "function") return;
-
-        // The section a link sits under: the nearest h2 above it. The injected
-        // lists put their id on the heading rather than a wrapper, so looking
-        // for an enclosing section[id] finds nothing and every in-body link
-        // would report as plain "inline".
-        function sectionOf(el) {
-          var heads = document.querySelectorAll(".article__body h2[id]");
-          var found = null;
-          for (var i = 0; i < heads.length; i++) {
-            if (heads[i].compareDocumentPosition(el) & Node.DOCUMENT_POSITION_FOLLOWING) {
-              found = heads[i].id;
-            } else {
-              break;
-            }
-          }
-          return found;
-        }
-
-        document.addEventListener("click", function (e) {
-          var t = e.target;
-          var a = t && t.closest ? t.closest("a[data-affiliate]") : null;
-          if (!a) return;
-          var row = a.closest("li");
-          var nameEl = row && row.querySelector(".sidebar-book__name, h3, strong");
-          window.gtag("event", "affiliate_click", {
-            network: a.getAttribute("data-affiliate"),
-            placement: a.closest(".sidebar-book") ? "sidebar" : (sectionOf(a) || "inline"),
-            venue: ((nameEl || a).textContent || "").trim().slice(0, 80),
-          });
-        });
-      })();
-    </script>
   </head>
   <body data-site={activeSite.id}>
     <a class="skip-link" href="#main-content">Skip to content</a>
