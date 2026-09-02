@@ -84,6 +84,10 @@ The most-cited seafood restaurant in London by a clear margin — nine independe
 
 Sit at the counter for half a dozen and the fish pie rather than booking the dining room.
 
+![A silver platter on crushed ice holding a dozen oysters, a razor clam, a dressed scallop in its shell and lemon wedges](../../assets/articles/best-seafood-restaurants-london/j-sheekey-shellfish-platter.jpg)
+
+*The crustacea counter at J Sheekey — oysters, a razor clam and a scallop dressed in its shell. This is what to order at the bar rather than a table.*
+
 **Book:** [j-sheekey.co.uk](https://j-sheekey.co.uk/) · 28–34 St Martin's Court, WC2N 4AL
 
 ### Scott's, Mayfair
@@ -123,6 +127,10 @@ Sit at the oyster bar downstairs unless you want the full dinner.
 **Oysters** are the order and the reason it exists: native and rock, listed by bed, with a proper shucking counter. Beyond them, whole fish, a **fruits de mer** for the table, and pies in winter.
 
 **£££, book a few days ahead.** Borough Market, Soho and Battersea among others; the Borough site is the original and the loudest.
+
+![A whole plaice on the bone in a butter and parsley sauce, scattered with brown shrimp and diced cucumber, with a lemon half](../../assets/articles/best-seafood-restaurants-london/wright-brothers-plaice.jpg)
+
+*Whole plaice with brown shrimp and cucumber at Wright Brothers Borough. The specials board changes with the boat, so this is the kind of thing to look for rather than the thing to order.*
 
 ### Seabird, South Bank
 
@@ -169,6 +177,10 @@ The critics' favourite among the small fish rooms — an award, two mastheads an
 **The fruits de mer is what the rest of the room is looking at**: a tiered ice platter of oysters, langoustines, crab and prawns, brought out whole. Beyond it, grilled fish, fried plates and a raw bar, in a bright white-tiled room built around the ice counter.
 
 **£££, book a few days ahead.** Dean Street. Order the platter for two even if you think it looks like too much.
+
+![A round platter of ice holding oysters, mussels, clams, langoustines, a crab claw, smoked salmon and dressed crab, with three dipping sauces in the middle](../../assets/articles/best-seafood-restaurants-london/the-seafood-bar-fruits-de-mer.jpg)
+
+*The fruits de mer at The Seafood Bar. This is the one for two people, and it is the reason the rest of the room keeps looking over.*
 
 ### Randall & Aubin, Soho
 
