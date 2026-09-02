@@ -57,9 +57,15 @@ The most useful thing to know: **the free contemporary galleries are the quiet o
 
 ### Tate Modern, Bankside
 
-*Free · 4.5m visits in 2025*
+*Free · Sun–Thu 10am–6pm, Fri–Sat 10am–9pm*
 
-The national collection of international modern art inside a power station, with the Turbine Hall running its full length. **The tenth-floor viewing level is free** and one of the best views in London.
+The national collection of international modern art inside Giles Gilbert Scott's power station, with the Turbine Hall running its full length — five storeys of empty space that is itself the most impressive thing here, and free to stand in.
+
+**The collection is free and needs no booking.** Only the big temporary exhibitions are ticketed, and members go into those free without booking.
+
+**Level 10 in the Blavatnik Building is free too**, and it is a cafe bar with one of the best views in London — the river, St Paul's, the City. It keeps the gallery's hours, so on **Fridays and Saturdays it runs to 9pm**, which makes it the only free high viewpoint on the south bank that catches a summer sunset.
+
+**Bankside SE1 9TG.** Southwark and Blackfriars are five minutes; the Millennium Bridge puts you at St Paul's in three.
 
 ![The brick chimney and long riverside frontage of Tate Modern, with a banner reading free and open to all](../../assets/articles/best-galleries-london/tate-modern-bankside.jpg)
 
@@ -67,21 +73,37 @@ The national collection of international modern art inside a power station, with
 
 *Free · open late Fridays*
 
-Two thousand paintings from the 1200s to 1900 — Van Gogh's Sunflowers, Turner's *Fighting Temeraire*, the Wilton Diptych. Unfinishable; pick two rooms.
+Two thousand paintings from the 1200s to 1900 — Van Gogh's *Sunflowers*, Turner's *Fighting Temeraire*, the Wilton Diptych, Velázquez's *Rokeby Venus*. It is unfinishable in a day and pretending otherwise ruins the visit: **pick two rooms and actually look at them.**
 
-**Friday late opening is much the quietest time** to see the famous ones.
+**Free, no ticket, no booking**, and you can walk in to see one painting and leave, which is a perfectly respectable use of the building.
+
+**Friday late opening is much the quietest time** to see the famous ones — the coach parties have gone and the rooms empty out considerably after six.
+
+**Trafalgar Square WC2N 5DN**, two minutes from Charing Cross. The Sainsbury Wing holds the early Italian work and is the calmer half; the main building holds the crowd-pullers.
 
 ### National Portrait Gallery, Trafalgar Square
 
-*Free*
+*Free · Sun–Thu 10.30am–6pm, Fri–Sat to 9pm*
 
-Reopened in 2023 after a three-year redevelopment. Round the corner from the National and consistently calmer.
+Reopened in 2023 after a three-year redevelopment that reversed the entrance, opened up the north facade and rehung the whole thing. Round the corner from the National and **consistently calmer**, which is the reason to come — the same crowds do not make it this far.
+
+It is arranged by period rather than by artist, so it reads as a history of Britain told through faces: Tudors at the top, the twentieth century at the bottom, and you work downwards.
+
+**Free to everyone, with a charge for some temporary exhibitions.** Booking a free admission ticket in advance is recommended to guarantee entry rather than required. Last entry is 5.30pm, or 8.30pm on Friday and Saturday.
+
+**St Martin's Place WC2H 0HE**, and every entrance is step-free.
 
 ### Tate Britain, Westminster
 
-*Free*
+*Free · daily 10am–6pm*
 
-The national collection of British art, and the largest holding of Turner anywhere. The **Tate Boat** runs from here to Tate Modern every 40 minutes.
+The national collection of British art — five hundred years of it, from Tudor portraits to the present, and **the largest holding of Turner anywhere**, kept in the purpose-built Clore Gallery. If Turner is the reason you came to London's galleries, this is the building, not the National.
+
+**Free and open every day with no booking needed.** Only special exhibitions are ticketed.
+
+**The Tate Boat runs from the pier outside to Tate Modern every 40 minutes**, which is the best way to travel between the two — it is a river bus rather than a tour, it takes about 18 minutes, and it accepts contactless.
+
+**Millbank SW1P 4RG.** Pimlico is five minutes' walk and Westminster about fifteen along the river.
 
 ---
 
@@ -91,39 +113,65 @@ The national collection of British art, and the largest holding of Turner anywhe
 
 ### White Cube Bermondsey
 
-*Free · Bermondsey Street*
+*Free · Bermondsey Street SE1 3TQ*
 
-**Fifty-four thousand square feet** of gallery behind a plain street frontage, showing major international artists at museum scale. Free, and often nearly empty.
+**Fifty-four thousand square feet** behind a plain 1970s warehouse frontage that gives away nothing from the street — the biggest commercial gallery in Europe when it opened, showing international artists at a scale most museums cannot match.
+
+**Free, and often nearly empty**, which is the whole argument for going. This is a selling gallery, so there is no ticket, no queue and no crowd, and you can have a room the size of a tennis court to yourself on a weekday afternoon.
+
+Nobody will approach you or ask what you are doing there. The price list is on the desk if you want to know, and looking without buying is entirely normal.
+
+White Cube also runs a smaller space at **Mason's Yard, SW1Y 6BU** in St James's. Bermondsey is the one worth travelling for; London Bridge and Borough are both about ten minutes' walk.
 
 ### Serpentine Galleries, Kensington
 
-*Free · Hyde Park*
+*Free · Mon 12–6pm, Tue–Fri 10am–6pm, Sat–Sun 10am–7pm*
 
-Two contemporary galleries five minutes apart across the Serpentine bridge, plus **the summer Pavilion** — a temporary building commissioned from a different architect every year.
+Two contemporary galleries **a five-minute walk apart** across the Serpentine bridge — Serpentine South in a 1930s tea pavilion, Serpentine North in a former gunpowder store with a Zaha Hadid extension. Both free, both small enough to do properly in an hour together.
+
+**The summer Pavilion is the real draw**: a temporary building commissioned from a different architect every year, always their first completed structure in the UK, put up beside Serpentine South from June to October and then dismantled. It is free to walk into and there is a cafe inside it.
+
+**Weekend hours run to 7pm**, later than almost any other free gallery in London, and Monday opening is noon rather than ten.
+
+In **Kensington Gardens, W2 2AR and W2 3XA.** Lancaster Gate and South Kensington are the nearest stations, both a walk across the park.
 
 ### Saatchi Gallery, Chelsea
 
-*Most shows free*
+*Daily 10am–6pm · Duke of York's HQ, SW3 4RY*
 
-Seventy thousand square feet of white gallery in a former military headquarters, showing artists nobody has heard of yet.
+Seventy thousand square feet of white-walled gallery in the former Duke of York's military headquarters off the King's Road — fifteen rooms over three floors, and the building itself is a large part of the pleasure.
+
+**The mix of free and ticketed shows changes constantly**, which is the thing to check before travelling: some exhibitions are free, others are individually ticketed with their own separate last-entry times, so two shows in the same building can close 50 minutes apart.
+
+**Open every day, 10am to 6pm**, with last entry typically around 5pm depending on the exhibition. Re-entry on the same ticket is allowed, so you can go out for air.
+
+Sloane Square is three minutes away, and the gallery sits in a courtyard set back from the King's Road that most people walk past.
 
 ---
 
 ### Whitechapel Gallery, Whitechapel
 
-*Free · Tue–Sun 11am–6pm · closed Mondays*
+*Free · Tue–Sun 11am–6pm · closed Mondays · E1 7QX*
 
 The most-cited gallery in London that visitors never reach, and the one with the strongest claim to having changed British art — it gave **Picasso's Guernica its only British showing in 1939**, and gave Jackson Pollock, Mark Rothko and Frida Kahlo their first UK exhibitions.
 
 Still free, still contemporary, still doing the thing it has done since 1901: showing work before anyone else does.
 
+**Free to walk in, and under-16s go free to the ticketed shows too.** Group rates are published rather than negotiated — £6.50 a head for university groups, £9.50 for independent ones, and school and community groups always free.
+
+**Closed Mondays**, which is the trap, and Aldgate East station is directly outside — the gallery is built over the top of it. There are Common Rooms with chairs, sofas and books, reachable by lift, if you want somewhere to sit that is not a cafe.
+
 ### The Photographers' Gallery, Soho
 
-*Free before noon · Ramillies Street*
+*£14 · free Friday evenings · Ramillies Street W1F 7LW*
 
-The first gallery in Britain devoted entirely to photography, founded in 1971, on a Soho side street behind Oxford Street.
+The first gallery in Britain devoted entirely to photography, founded in 1971, now in a converted warehouse on a Soho side street behind Oxford Street — five floors, a bookshop that is the best of its kind in London, and a print sales room where you can buy work.
 
-**Free before noon on weekdays**, which is the detail worth planning around — after that there is a modest charge, and the bookshop and print sales room are free all day regardless.
+> 💡 **It is free every Friday from 5pm.** That is the single most useful fact about this gallery and almost nobody knows it. Admission is otherwise **£14 including a £2 optional donation**, or £11 for seniors, students, jobseekers and disabled visitors.
+
+**Late opening Thursday and Friday to 8pm**, otherwise 10.30am–6pm Monday to Saturday and 11am–6pm Sunday, with last admission 30 minutes before close.
+
+**The bookshop and print sales room are free all day regardless**, so you can go in, look at photographs for sale and leave without paying anything. Oxford Circus is three minutes away.
 
 ### Barbican Art Gallery, City of London
 
@@ -131,23 +179,23 @@ The first gallery in Britain devoted entirely to photography, founded in 1971, o
 
 Big, ambitious, thematic shows in the middle of the Barbican — architecture, design and photography as often as painting, and generally the most interesting exhibition programme in the City.
 
-**The Curve** downstairs is a free, curved gallery space running commissioned installations, and is worth going in for on its own.
+**The Curve** downstairs is a free, curved gallery space running commissioned installations — a single ninety-metre bending room, one artist at a time, no ticket. It is worth the trip on its own, and there are usually other free displays around the building alongside it.
 
-### The Courtauld, Strand
+So the Barbican splits cleanly: **the main Art Gallery is ticketed, everything in the Curve and the foyers is free.** Knowing which is which saves you assuming the whole building costs money.
 
-*Ticketed · Somerset House*
-
-One of the great small collections anywhere — Cézanne, Manet's *A Bar at the Folies-Bergère*, and a room of Impressionists that would anchor a national museum.
-
-It is in **Somerset House**, so you can pair it with the courtyard fountains in summer or the ice rink in winter, both free.
+**Silk Street EC2Y 8DS.** Barbican and Moorgate are both five minutes, and finding the entrance is genuinely difficult — follow the yellow line painted on the pavement from Barbican station rather than trusting a map.
 
 ### South London Gallery, Peckham
 
-*Free · Camberwell Road*
+*Free · Peckham Road*
 
-A Victorian gallery on Peckham Road with a **Fire Station building** opposite converted into more space, running genuinely experimental contemporary work — and free, which matters in an area where most of the good art has moved into commercial spaces.
+A Victorian gallery on Peckham Road with a **converted fire station opposite** giving it a second building, running genuinely experimental contemporary work — and free, which matters in an area where most of the good art has moved into commercial spaces.
 
-The garden behind it is one of the quietest places in south London.
+**Two buildings, one visit**, and they are directly across the road from each other, so check both rather than assuming the main hall is all of it.
+
+The **garden behind the main building is one of the quietest places in south London** — a proper walled garden rather than a courtyard, free, and almost never busy. There is a cafe attached.
+
+Peckham Rye is about ten minutes' walk, and the gallery sits between Peckham and Camberwell rather than in the middle of either, which is why so few visitors reach it.
 
 ---
 
@@ -155,9 +203,15 @@ The garden behind it is one of the quietest places in south London.
 
 ### The Wallace Collection, Marylebone
 
-*Free*
+*Free · Manchester Square W1U 3BN*
 
-A single house full of Old Masters, armour and French furniture, left to the nation on condition nothing ever leaves it. **Doable properly in ninety minutes**, which almost nothing else here is.
+A single townhouse full of Old Masters, armour and French eighteenth-century furniture, left to the nation in 1897 **on condition that nothing ever leaves it** — no loans out, no touring, ever. Everything you see is always here, which is the opposite of how every other museum on this page works.
+
+Frans Hals's *The Laughing Cavalier* is the famous one; the armoury in the basement is the surprise.
+
+**Entry to the permanent collection is free**, no booking, and it is **doable properly in ninety minutes** — which almost nothing else here is. That makes it the best answer in London to "we have one free afternoon and do not want to feel defeated".
+
+It closes only on 24, 25 and 26 December. There are Friday Lates, talks and concerts through the year. Bond Street is five minutes.
 
 ### The Courtauld, Strand
 
@@ -167,9 +221,15 @@ Impressionists and post-Impressionists in a compact gallery above Somerset House
 
 ### Dulwich Picture Gallery, Dulwich
 
-*About £16*
+*Ticketed · Tue–Sun 10am–5pm · closed Mondays*
 
-Opened in **1817 as the first purpose-built public art gallery anywhere in the world**, designed by Sir John Soane. Rembrandt, Rubens, Gainsborough, and a twelve-minute train from Victoria.
+Opened in **1817 as the first purpose-built public art gallery anywhere in the world**, designed by Sir John Soane — and the top-lit rooms he invented for it became the template every gallery since has copied. The building is the exhibit as much as the pictures.
+
+Rembrandt, Rubens, Poussin and Gainsborough, in a collection small enough to see in full. The founders are buried in a mausoleum inside the gallery, which is not a thing that happens elsewhere.
+
+**Closed Mondays.** That is the fact worth checking, because it is a journey rather than a walk — about twelve minutes by train from Victoria to West Dulwich, then five minutes on foot.
+
+**Gallery Road SE21 7AD.** The gardens are free, and Dulwich Park is next door.
 
 ### Guildhall Art Gallery, City of London
 
