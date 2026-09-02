@@ -105,7 +105,7 @@ Banksy put up nine animal works across London over nine days in August 2024. **S
 
 ![Market stalls filling Brick Lane beneath a railway bridge, with three monkeys stencilled on the concrete above them](../../assets/articles/london-street-art/banksy-monkeys-brick-lane.jpg)
 
-*The monkeys on the Brick Lane railway bridge, photographed on 11 August 2024, days after they appeared. Transport for London removed them that December, so this is a picture of something that is no longer there.*
+*The monkeys on the Brick Lane railway bridge, photographed on 11 August 2024, days after they appeared. Transport for London removed them that December.*
 
 | The work | Where | What is there now |
 | --- | --- | --- |

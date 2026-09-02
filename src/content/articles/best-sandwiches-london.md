@@ -16,7 +16,7 @@ tags: [sandwiches, cheap eats, delis, breakfast, dining]
 draft: false
 faq:
   - q: "What is the best sandwich in London?"
-    a: "Three places are named by every major guide: Max's Sandwich Shop in Stroud Green for the Ham, Egg 'n' Chips, Paul Rothe & Son in Marylebone for the egg mayo, and Secret Sandwich Shop in Notting Hill for the Japanese-style egg salad. If you want the single most-recommended sandwich rather than shop, it is the salt beef beigel on Brick Lane."
+    a: "Three come up again and again: Max's Sandwich Shop in Stroud Green for the Ham, Egg 'n' Chips, Paul Rothe & Son in Marylebone for the egg mayo, and Secret Sandwich Shop in Notting Hill for the Japanese-style egg salad. If you want the single most-recommended sandwich rather than shop, it is the salt beef beigel on Brick Lane."
   - q: "What is the difference between the two Brick Lane beigel shops?"
     a: "Go by the colour of the shopfront, not the street number. The yellow one is the Beigel Shop, which claims beigel trade at the address since 1855 and sells bacon and rainbow beigels. The white one is Beigel Bake, opened in 1974 by the brother of the man next door after a falling-out, and it stays strictly traditional. Both are open 24 hours, every day."
   - q: "Where is the best cheese toastie in London?"
@@ -44,6 +44,7 @@ The modern shops are worth your time too — but there is a pattern in them wort
 | --- | --- |
 | **Brick Lane & Spitalfields** | Beigel Bake, The Beigel Shop, St John Bread and Wine |
 | **Soho** | Quo Vadis, Crunch, I Camisa & Son, Lina Stores |
+| **Spitalfields** | St John Bread and Wine, Crunch |
 | **Marylebone** | Paul Rothe & Son |
 | **Borough Market** | Kappacasein, The Black Pig |
 | **Farringdon & Clerkenwell** | The Three Compasses, Scotti's Snack Bar, Tongue & Brisket |
@@ -104,7 +105,7 @@ A working butcher's counter that describes itself as **the last butcher left in 
 
 *19 Crouch Hill · open to 11pm*
 
-The shop the modern London sandwich movement starts from, and one of only three places named by **every major guide**.
+The shop the modern London sandwich movement starts from, and the one name that comes up in almost every conversation about sandwiches in this city.
 
 **"Ham, Egg 'n' Chips"** is the one: ham hock, a fried egg and actual chips inside homemade focaccia. It should not work as a sandwich and it does.
 
@@ -116,7 +117,7 @@ Also one of the very few places here open in the **evening** — to 11pm Wednesd
 
 A fourth-generation family delicatessen that has been on Marylebone Lane **since 1900**, cutting sandwiches into triangles and charging very little for them.
 
-**Egg mayonnaise with anchovy** is the order, though the pastrami, cheese and pickle on rye and the roast beef with mango chutney have their own constituencies. Named by every major guide, which for a shop that has changed nothing in over a century is quite a thing.
+**Egg mayonnaise with anchovy** is the order, though the pastrami, cheese and pickle on rye and the roast beef with mango chutney have their own constituencies. Still recommended constantly, which for a shop that has changed almost nothing in over a century is quite a thing.
 
 ### Secret Sandwich Shop, Notting Hill
 
@@ -124,7 +125,7 @@ A fourth-generation family delicatessen that has been on Marylebone Lane **since
 
 Japanese-style **sando** on Tokyo milk bread — soft, crustless, and cut to show the filling. The **egg salad** with watercress, dijon and Kewpie is the signature; there is also a tuna mayo with McCoy's crisps inside it, which is better than it sounds.
 
-The most photographed sandwich in London at the moment, and named by every major guide. **Open four hours a day**, 11am to 3pm, and that is the whole trading window.
+The most photographed sandwich in London at the moment. **Open four hours a day**, 11am to 3pm, and that is the whole trading window.
 
 ### Sons + Daughters, King's Cross
 
@@ -142,11 +143,15 @@ A bakery first and a sandwich shop second, which is the right order — the sour
 
 It is also a social enterprise that trains young people at risk, which is not why it is on this list but is worth knowing.
 
-### Crunch, Soho
+### Crunch, Soho and Spitalfields
 
-*60 Dean Street*
+*60 Dean Street, W1D 6AW · Old Spitalfields Market, E1 6EW*
 
-Ten seats, fast turnover, and a **southern fried chicken cutlet** with lettuce, pickle and aioli that has made it onto the newest guides within months of opening. The newest thing in this section.
+Everything is built on a **golden brioche loaf** rather than bread, which is the whole proposition and the reason it divides people — rich, sweet and closer to a bun than a sandwich. The **chicken katsu** is the one to order: deep-fried breast, tonkatsu sauce and Japanese apple jam, and the cheapest thing on the board at **£12**.
+
+Prices run to **£19 for the lobster roll**, which puts it at the expensive end of this page for something you eat standing up. Ten seats in Soho and fast turnover; the Spitalfields site is a market counter.
+
+**Spitalfields opened in July 2022 and Soho in April 2025.** Soho runs Mon–Sat 11.30am–9pm and Sunday 11am–8pm; Spitalfields 11am–8pm. Both are walk-in only, and both deliver.
 
 ### Chatsworth Bakehouse, Crystal Palace
 
