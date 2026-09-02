@@ -71,7 +71,7 @@ The docks are the point. Nearly every walkway here runs alongside a stretch of V
 
 ![Office towers and moored boats reflected in a Canary Wharf dock at sunset](../../assets/articles/canary-wharf-area-guide/dock-sunset.jpg)
 
-*The docks catch the light better than the towers do. Worth timing a walk for sunset.*
+*The docks catch the light better than the towers do. They face west, so this is what the last hour does to them — worth timing a walk for.*
 
 Canary Wharf has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=canary-wharf).
 
@@ -166,11 +166,6 @@ The DLR runs overhead on its viaduct, which is worth watching from below.
 ![People sitting in a wood-fired hot tub built into a small boat on the dock at Canary Wharf](../../assets/articles/canary-wharf-area-guide/skuna-hot-tub-boat.jpg)
 
 *The hot tub boats run year-round. The chimney is a wood burner, and the water is properly hot in January.*
-
-
-![Middle Dock at Canary Wharf at sunset, with Skuna boats on the water and the office towers reflected](../../assets/articles/canary-wharf-area-guide/middle-dock-sunset.jpg)
-
-*Middle Dock at sunset, with the barbecue boats out. The docks face west, so this is what the last hour of light does to them.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="canary-wharf-area-guide-canary-wharf-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Canary Wharf walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
