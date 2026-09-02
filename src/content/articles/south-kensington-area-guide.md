@@ -101,10 +101,18 @@ South Kensington has its own share of the commemorative plaques marking where no
 *Inside the **Wildlife Photographer of the Year** exhibition, the Museum's ticketed annual show of the year's 100 winning images. It typically runs from mid-October to the following July, so check what's on before planning around it specifically.*
 
 ### Exhibition Road
-The spine, resurfaced as a shared pedestrian-priority space. All three museums, Imperial College and the Royal Geographical Society sit on it.
+The spine, resurfaced in 2012 as a shared surface with no kerbs, so pedestrians and traffic share the road — which works better than it sounds and makes the walk up from the station genuinely pleasant.
+
+**All three museums sit on it**: the Natural History Museum and the Science Museum on the western side, the V&A on the eastern, along with Imperial College and the Royal Geographical Society.
+
+**All three are free**, and all three charge for their special exhibitions. The road is about eight minutes end to end, uphill from the station towards the Albert Hall.
 
 ### The Museum Subway
-The tiled Victorian tunnel from the station to the museums. Free, dry, and the single most useful thing to know about the area.
+The tiled Victorian tunnel running underground from the station to the museums, built in 1885 so that visitors could reach them without crossing the road or getting wet.
+
+**It is free, dry and open during station hours**, and it comes up inside or beside each of the three museums rather than on the street.
+
+**This is the single most useful thing to know about South Kensington.** In the rain, or in the July queues, it is the difference between a good morning and a bad one — and a great many people walk past the entrance without noticing it.
 
 ![The Royal Albert Hall in low evening sun, with the Prince Consort memorial in front](../../assets/articles/south-kensington-area-guide/royal-albert-hall.jpg)
 
@@ -115,13 +123,25 @@ The tiled Victorian tunnel from the station to the museums. Free, dry, and the s
 *Inside during a show. The circular auditorium seats over 5,000 and there is not a bad view in the house.*
 
 ### Cromwell Road and Thurloe Square
-Grand stucco terraces and garden squares south of the museums, and the quieter side of South Kensington.
+Grand stucco terraces and private garden squares south of the museums — white-fronted, porticoed, and almost entirely residential.
+
+**Thurloe Square** holds London's thinnest house: a wedge about six feet wide at its narrowest, built in 1887 in a strip of land left over when the District line was cut through.
+
+**There is nothing to buy and nothing to book here**, which is the point. It is a quiet five minutes between the museums and the Fulham Road, and the best route away from the crowds.
 
 ### Bute Street and Old Brompton Road
-The everyday streets. French bakeries and cafes — there is a long-established French community here, anchored by the Lycée.
+The everyday streets, and **the centre of French London** — the Lycée Français Charles de Gaulle is here, and the community around it has been established for generations.
+
+That means proper French bakeries, cafés and a bookshop rather than the tourist-facing places up by the museums. Bute Street in particular is a short pedestrian run of them.
+
+**Best in the morning**, when the bakeries are full and the museums have not yet emptied onto the street. Two minutes from the station, and the obvious place to eat before going in.
 
 ### Knightsbridge and Brompton Road
-North-east towards Harrods and Harvey Nichols. Ten minutes on foot.
+North-east along the Brompton Road towards **Harrods and Harvey Nichols** — about ten minutes on foot from the museums, and an easy add-on rather than a separate trip.
+
+Harrods is free to walk into and worth it for the food halls alone, which are the reason most Londoners ever go in.
+
+**Ten minutes, and mostly uphill.** The 14 and 74 buses run the same route if you would rather not walk it twice.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-kensington-area-guide-natural-history-museum-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Natural History Museum tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

@@ -116,20 +116,36 @@ Canary Wharf has its own share of the commemorative plaques marking where notabl
 ## Key streets and micro-districts
 
 ### Canada Square and the malls
-The centre. One Canada Square, the park, and the underground shopping levels that connect most of the estate.
+The centre of the estate. **One Canada Square** is the pyramid-topped tower everyone pictures — for fifteen years the tallest building in Britain, and closed to the public, so there is no view from the top of it.
+
+What is public is the **underground shopping levels**, which connect most of the estate without going outside at all, and the square and park above them.
+
+**The malls keep ordinary retail hours and the estate empties at weekends**, which is either the appeal or the problem. Weekday lunchtimes are when it is alive.
 
 ### West India Quay
-North across the footbridge. The surviving Georgian warehouses, the Docklands museum and a run of restaurants under the arches.
+North across the footbridge, and **the only part of Canary Wharf that predates the 1980s** — a surviving terrace of Georgian sugar warehouses of 1802, low brick against the towers behind.
+
+The **Museum of London Docklands** occupies one of them, telling the story of the river and the docks across three floors, and it is **free**.
+
+**The restaurants under the arches face the water**, which makes this the best place to eat on the estate rather than in a mall. Two minutes from Canary Wharf by footbridge.
 
 ![Georgian warehouses and a preserved dockside crane at West India Quay, with the City skyline in the distance](../../assets/articles/canary-wharf-area-guide/west-india-quay.jpg)
 
 *West India Quay. The Georgian sugar warehouses on the left house the Museum of London Docklands; the preserved crane on the right is one of several left along the dock.*
 
 ### Crossrail Place
-The Elizabeth line station, with the roof garden on top and a food court below.
+The Elizabeth line station, and **the best piece of architecture in Canary Wharf** — a timber lattice roof over four levels, built into the old North Dock so the whole structure floats in water.
+
+The **roof garden on top is free and open to the public**, planted with species from the trade routes the docks once served, and it is genuinely quiet even at lunchtime.
+
+**Open daily, no ticket**, and reached directly from the station without going outside — which makes it the obvious thing to do while waiting for a train.
 
 ### Wood Wharf
-East. New residential blocks, the boardwalk and the best of the waterside dining.
+East, and the newest part of the estate — residential rather than corporate, which is why it stays busy at weekends when the rest of Canary Wharf does not.
+
+The **boardwalk** runs along the dock edge with the best of the waterside restaurants on it, and there is a floating lido and a padel club on the water.
+
+**This is where to come on a Saturday.** Ten minutes east of Canada Square on foot, and the walk along the water is the point.
 
 ![Glass-fronted restaurants including a floating Hawksmoor along the Wood Wharf waterside promenade](../../assets/articles/canary-wharf-area-guide/wood-wharf.jpg)
 
@@ -140,7 +156,11 @@ East. New residential blocks, the boardwalk and the best of the waterside dining
 *Open water swimming in Middle Dock. Sessions are lifeguarded and booked in advance.*
 
 ### Heron Quays and South Dock
-South, facing the water towards Greenwich, and the quietest part to walk.
+South, facing across the water towards Greenwich, and **the quietest part of the estate to walk** — dock edges, footbridges and very few people once the offices empty.
+
+The DLR runs overhead on its viaduct, which is worth watching from below.
+
+**Free and always open.** It is also the fastest way to the Thames Path and the foot tunnel to Greenwich, which is the walk most people miss entirely.
 
 
 ![People sitting in a wood-fired hot tub built into a small boat on the dock at Canary Wharf](../../assets/articles/canary-wharf-area-guide/skuna-hot-tub-boat.jpg)

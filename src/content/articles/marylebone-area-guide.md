@@ -102,7 +102,11 @@ Marylebone has its own share of the commemorative plaques marking where notable 
 ## Key streets and micro-districts
 
 ### Marylebone High Street
-The centre. Independents, delis, Daunt Books and the best of the eating.
+The centre, and **the street Londoners actually recommend** — low-rise, largely independent, and the opposite of Oxford Street four minutes south.
+
+**Daunt Books** is the anchor: an Edwardian bookshop with a galleried oak room and a stained-glass skylight, shelved by country rather than genre, which is the reason it is famous. **La Fromagerie**, Cadenhead's whisky shop and a run of delis fill the rest.
+
+**A farmers' market runs behind it on Sundays**, which is the one day the street is genuinely busy. Ordinary shop hours otherwise, and about eight minutes from Bond Street.
 
 ### Marylebone Lane
 
@@ -110,16 +114,32 @@ The centre. Independents, delis, Daunt Books and the best of the eating.
 
 *Marylebone Lane keeps the curve of the old Tyburn riverbed, which is why it wanders while everything around it runs straight.*
 
-A curving lane following the course of the buried River Tyburn, which is why it bends oddly against the grid. Small shops and pubs.
+A curving lane that bends oddly against the Georgian grid around it, because **it follows the course of the buried River Tyburn** — the street is medieval and the grid was laid out around it two centuries later.
+
+Small shops and pubs line it, and it is one of the few streets in central London where the shape tells you something about what is underneath.
+
+**Two minutes end to end**, running parallel to the high street, and the better of the two on a busy Sunday.
 
 ### Manchester Square
-The Wallace Collection, in a garden square two minutes east of the high street.
+A garden square two minutes east of the high street, holding **the Wallace Collection** — a national museum in a townhouse, with Old Masters, French furniture and one of the finest collections of arms and armour in Europe.
+
+Frans Hals's *Laughing Cavalier* is here, along with Fragonard's *The Swing*.
+
+**It is free, it is never crowded, and it has a glazed courtyard restaurant** — which together make it the best wet-afternoon option in Marylebone by a distance. Closed only on a handful of days a year.
 
 ### Baker Street and Marylebone Road
-North. The Sherlock Holmes Museum, Madame Tussauds and the traffic. The least pleasant part.
+North, and **the least pleasant part of Marylebone** — a four-lane road, constant traffic, and the two attractions that generate the longest queues in the area.
+
+The **Sherlock Holmes Museum** at 221B and **Madame Tussauds** are both here. Tussauds in particular queues badly without a pre-booked timed ticket, and the Baker Street pavement outside 221B is often blocked.
+
+**Book ahead or skip both.** If you want Baker Street itself, the statue outside the station takes thirty seconds and costs nothing.
 
 ### Chiltern Street
-Red-brick Victorian gothic, bridal shops, instrument dealers and the Chiltern Firehouse in an old fire station.
+**The best-looking street in Marylebone** — a run of red-brick Victorian gothic, built as model dwellings and mansion flats, and unlike anything around it.
+
+The shops are unusually specific: bridal boutiques, and instrument dealers selling violins and cellos. The **Chiltern Firehouse** occupies a Victorian fire station at the northern end.
+
+**A five-minute walk and free**, and a better use of the time than Baker Street one block west. Baker Street station is three minutes away.
 
 ![The green Edwardian shopfront of Daunt Books on Marylebone High Street](../../assets/articles/marylebone-area-guide/daunt-books.jpg)
 

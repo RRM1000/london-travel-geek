@@ -115,19 +115,37 @@ Notting Hill has its own share of the commemorative plaques marking where notabl
 *Lancaster Road pastel houses. Photo: [Bex Walton](https://commons.wikimedia.org/wiki/File:Colourful_houses_in_Lancaster_Road,_Notting_Hill_2020-07-05.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Portobello Road (south) — antiques
-From Chepstow Villas to Elgin Crescent. Antique shops and the indoor arcades, open Friday and Saturday. Quiet and shuttered the rest of the week.
+From Chepstow Villas down to Elgin Crescent, and **the antiques end that made Portobello famous** — permanent shops plus a series of indoor arcades holding dozens of small dealers each, in silver, jewellery, prints and militaria.
+
+**Saturday is the antiques day and effectively the only one.** Friday is a partial trading day; the rest of the week the arcades are shuttered and the street is residential and quiet, which surprises a great many people who arrive on a Tuesday.
+
+**Get there before 10am** if you want to look at anything properly. Free, and Notting Hill Gate station is five minutes from the top.
 
 ### Portobello Road (north) and the Westway — vintage
-Past Lancaster Road and under the flyover. Vintage clothing, records and street food. Busiest part of the market on a Saturday afternoon.
+Past Lancaster Road and on under the **Westway flyover**, where the market changes character completely — vintage clothing, records and street food rather than antiques, and a younger crowd.
+
+The stalls under and beyond the flyover run on Friday, Saturday and Sunday, with Friday the best combination of trading and space.
+
+**This is the most crowded stretch in the whole area on a Saturday afternoon** — genuinely shoulder to shoulder between about noon and 4pm. Come Friday if you can.
 
 ### Westbourne Grove — boutiques and brunch
-The east–west shopping street. Independent fashion, homeware and the area's brunch cafes. Open all week, which makes it the reliable choice on a market-free day.
+The east–west shopping street, and **the reliable answer on any day the market is not running** — independent fashion, homeware, and the brunch cafés the area is known for.
+
+It crosses Portobello Road about halfway along, which makes it the natural pivot point for a walk around the area.
+
+**Open all week, ordinary shop hours**, and considerably calmer than Portobello. This is where to come on a Sunday or a Tuesday, when the market end has nothing on.
 
 ### Golborne Road — the local end
-North of the Westway. Portuguese pastelarias, antiques at lower prices and almost no crowds.
+North of the Westway, and **the local end of Portobello** — a Portuguese and Moroccan neighbourhood with pastelarias selling custard tarts, a handful of antique dealers at markedly lower prices, and almost nobody visiting.
+
+The market here runs Friday and Saturday and is a genuine second-hand market rather than a curated one.
+
+**Ten minutes north of the busy stretch and worth every one of them.** Westbourne Park is the nearest station, and the walk up is the fastest way to leave the crowds behind.
 
 ### St Luke's Mews and Lancaster Road — the photogenic streets
-Two short residential streets. Beautiful, entirely private, and permanently busy with photographers. Be considerate.
+Two short residential streets that appear constantly on social media — **St Luke's Mews** for its pastel-painted cottages, one of which was the cue-card doorstep in *Love Actually*, and **Lancaster Road** for its run of brightly coloured terraces.
+
+> ⚠️ **These are people's homes, and the residents have had enough.** Both streets are permanently busy with photographers, some of whom sit on doorsteps and block the pavement. Look, take a picture from the road, and keep the noise down — several London mews have started putting up signs about exactly this.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-area-guide-portobello-market-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Portobello Market walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

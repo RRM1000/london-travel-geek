@@ -95,23 +95,43 @@ Stratford has its own share of the commemorative plaques marking where notable p
 ## Key streets and micro-districts
 
 ### The Olympic Park (south)
-The Orbit, the London Stadium, the Aquatics Centre and East Bank, around the main waterways.
+The busy half, built around the main waterways. **The ArcelorMittal Orbit** is here — Britain's tallest sculpture, with the world's longest tunnel slide wrapped around it — along with the **London Stadium**, the **Aquatics Centre**, and **East Bank**, the new cultural quarter bringing the V&A, Sadler's Wells and the BBC onto the park.
+
+**The Aquatics Centre is open to the public to swim in**, in the actual Olympic pool, for the price of an ordinary leisure-centre session.
+
+**The park itself is free and always open.** The Orbit and the slide are ticketed and seasonal, so check before making the trip for them.
 
 ### The Olympic Park (north)
-Quieter parkland, the VeloPark, the Copper Box and the wilder river landscaping.
+Quieter parkland, and the half most visitors never reach. The **VeloPark** is here — the Olympic velodrome, open for public track sessions and taster rides — along with the **Copper Box Arena**.
+
+The landscaping is deliberately wilder up here: reedbeds, meadow planting and the River Lea running through rather than the formal lawns to the south.
+
+**Free, open at all times, and genuinely quiet on a weekday.** It is about twenty minutes' walk from Stratford station to the northern end, so allow for the distance.
 
 ![The ArcelorMittal Orbit rising above the fountains in Queen Elizabeth Olympic Park, with children playing in the water](../../assets/articles/stratford-area-guide/orbit-fountains.jpg)
 
 *The ArcelorMittal Orbit and the park fountains. The fountains run through the summer and are free.*
 
 ### Westfield Stratford City
-Between the station and the park. Around 250 shops, and unavoidable on the walk in.
+Between the station and the park, with around 250 shops — **and you have to walk through it to reach the park**, which is by design rather than accident.
+
+It is one of the largest shopping centres in Europe, with a cinema, a casino and a bowling alley alongside the retail.
+
+**Typically 10am to 9pm**, and the Sunday six-hour trading rule applies to the big units. Allow ten minutes to cross it, more at a weekend.
 
 ### Stratford town centre
-East of the station. The older Stratford — a covered market, Theatre Royal Stratford East and Gerry Raffles Square.
+East of the station, and **the Stratford that existed before 2012** — a covered market, an ordinary high street, and a completely different feel from the park side.
+
+**Theatre Royal Stratford East** is the anchor: a Victorian producing house on Gerry Raffles Square with a long history of new and community work, and considerably cheaper tickets than the West End.
+
+**Five minutes east of the station**, and the answer if the park and Westfield have started to feel like an airport.
 
 ### Hackney Wick
-West across the canal. Artists' studios, breweries and the footbridges into the park.
+West across the canal, and reached from the park by footbridge in a couple of minutes. **Warehouse studios, breweries and taprooms**, with painted walls that change constantly.
+
+It is a drinking and wandering destination rather than a sightseeing one, and much of the original studio space has been redeveloped — though enough remains to give it the character.
+
+**Best on a summer afternoon**, and fairly bleak in the rain. Hackney Wick has its own Overground station if you would rather not walk back through the park.
 
 ![A track cyclist banking high on the wooden boards of the Lee Valley VeloPark velodrome](../../assets/articles/stratford-area-guide/lee-valley-velopark.jpg)
 

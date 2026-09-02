@@ -109,10 +109,18 @@ Fitzrovia has its own share of the commemorative plaques marking where notable p
 
 *Charlotte Street in the evening. The pavement widens here specifically to take the tables.*
 
-The spine. Restaurants along most of its length, pavement seating in summer, and the Charlotte Street Hotel at the southern end.
+The spine, and **the densest restaurant street in this part of London** — running most of its length, with pavement seating in summer that turns the whole road into an outdoor dining room.
+
+The Charlotte Street Hotel sits at the southern end. The street's character is mid-priced and independent rather than either cheap or grand, which is unusual this close to Oxford Street.
+
+**Book for the evening.** It fills from about 7pm and the outside tables in summer go first and are rarely bookable — those are first come, first served.
 
 ### Goodge Street
-Running east to west across the middle. More casual than Charlotte Street — counters, cafes and lunch places rather than dining rooms.
+Running east to west across the middle of Fitzrovia, and **the lunch street rather than the dinner one** — counters, cafés, sandwich places and takeaway, serving the offices around it.
+
+That makes it busy and good value between noon and 2pm, and noticeably quiet in the evening when Charlotte Street one block west is full.
+
+**Goodge Street station is on the Northern line**, and this is the natural way in and out of the area on foot.
 
 ### Fitzroy Square and the north
 
@@ -120,7 +128,11 @@ Running east to west across the middle. More casual than Charlotte Street — co
 
 *The BT Tower from street level. It is the landmark you navigate Fitzrovia by, and you cannot go up it.*
 
-Quiet Georgian streets between the square and Euston Road. Almost entirely residential and worth a short detour for the architecture.
+Quiet Georgian streets between the square and Euston Road, almost entirely residential. **Fitzroy Square itself is one of the finest in London** — Robert Adam designed the east and south sides in Portland stone, and the central garden is private.
+
+The blue plaques around it are unusually thick on the ground: Virginia Woolf, George Bernard Shaw and Ford Madox Brown all lived on the square.
+
+**A five-minute detour and free.** The square is pedestrianised, so it is one of the few genuinely quiet places to stand within a few minutes of Oxford Street.
 
 ### Rathbone Place and Newman Street
 
@@ -128,10 +140,18 @@ Quiet Georgian streets between the square and Euston Road. Almost entirely resid
 
 *Colville Place, a pedestrian lane of 1760s houses running between Charlotte Street and Whitfield Street.*
 
-The southern edge, running down to Oxford Street. Increasingly where the newer openings land.
+The southern edge, running down to Oxford Street, and **increasingly where the newer openings land** — the rents are lower than Soho a few streets south, and the crossover crowd is the same.
+
+It is a working stretch rather than a pretty one: offices, hotels and a run of restaurants that changes faster than the rest of Fitzrovia.
+
+**Tottenham Court Road station is at the bottom**, which makes this the fastest approach from the Elizabeth line.
 
 ### Great Titchfield Street
-The western side, towards Great Portland Street. Small independent shops and the coffee end of the neighbourhood.
+The western side, running towards Great Portland Street, and **the coffee end of the neighbourhood** — including Kaffeine, one of the shops that brought antipodean coffee culture to London.
+
+Small independent shops fill the rest, and the rag-trade wholesalers that once occupied the whole street still hold some of it.
+
+**Weekday hours.** Much of this street is closed at weekends, which is exactly when visitors tend to arrive — come on a weekday morning.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-area-guide-london-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
