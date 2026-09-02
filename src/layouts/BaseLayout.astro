@@ -39,10 +39,25 @@ const indexingEnabled = import.meta.env.PUBLIC_ALLOW_INDEXING === "true";
 const googleVerification =
   import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
 const shouldNoindex = noindex || !indexingEnabled;
+// Google reads the site name it prints above a search result off a single
+// WebSite entity, on the home page, whose url is the domain root. Every
+// non-article page here used to declare one - the search page, every topic
+// index, every guide hub - and each claimed its own subpage as the site url.
+// Dozens of competing WebSite entities is not a signal Google will act on, so
+// it fell back to printing the bare domain. Only the home page declares
+// WebSite now; the rest are ordinary WebPages.
+const isHomepage = canonicalUrl.pathname === "/";
+const schemaType =
+  contentType === "article" ? "BlogPosting" : isHomepage ? "WebSite" : "WebPage";
 const structuredData = {
   "@context": "https://schema.org",
-  "@type": contentType === "article" ? "BlogPosting" : "WebSite",
-  name: contentType === "website" ? activeSite.name : undefined,
+  "@type": schemaType,
+  name:
+    schemaType === "WebSite"
+      ? activeSite.name
+      : schemaType === "WebPage"
+        ? title
+        : undefined,
   headline: contentType === "article" ? title : undefined,
   description,
   url: canonicalUrl.toString(),
@@ -111,10 +126,24 @@ const jsonLd = JSON.stringify(
       title={activeSite.name}
       href={new URL("/rss.xml", siteOrigin)}
     />
-    <link rel="icon" href="/favicon.ico" sizes="32x32" />
-    <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
+    {/*
+      Google resizes whatever it finds down to a very small square, and its
+      guidance is to offer an icon that is a multiple of 48px - we shipped
+      nothing above 32, so it was working from the smallest file on the site.
+      The 48 and 192 were already sitting in public/ unreferenced.
+    */}
+    <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48 64x64" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16" />
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
+    <link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48" />
+    <link
+      rel="icon"
+      href="/android-chrome-192x192.png"
+      type="image/png"
+      sizes="192x192"
+    />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
     <link rel="manifest" href="/manifest.webmanifest" />
 
     <meta property="og:type" content={contentType} />
