@@ -34,9 +34,6 @@ Almost all of it is free, and most of it takes ten minutes.
 
 > 💡 **The Short Version:** **Postman's Park** is the most affecting free thing in London and still genuinely overlooked. **The Silver Vaults** are two floors under Chancery Lane, free, and shut at lunchtime on Saturday. **The Fitzrovia Chapel** opens three days a week and no more. **The Rolling Bridge and the Fan Bridge in Paddington are both out of action** — every list still prints their timetables. And **St Dunstan in the East, Neal's Yard and Leadenhall Market are not hidden**, they are famous and small, which is a different problem.
 
-> 📘 **How we choose these (editorial note)**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Every opening time, price and access rule here was then checked against the place's own website or its custodian - a church, a council, a trust, the City of London Corporation - rather than carried over from another guide. Hidden London is the genre most full of stale copy.
-
 ## Where they are
 
 | If you are near… | What to find |
