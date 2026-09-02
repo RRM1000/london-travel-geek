@@ -232,7 +232,28 @@ const jsonLd = JSON.stringify(
           which build produced the HTML.
         */}
         <script is:inline define:vars={{ prodHostname: siteOrigin.hostname }}>
-          if (location.hostname === prodHostname) {
+          // THE HOSTNAME MATCH ALONE WAS NOT ENOUGH. siteOrigin falls back to
+          // Astro.url.origin when Astro.site is unset (line 35), so on a local
+          // build prodHostname becomes "localhost" itself - and the check then
+          // compares localhost to localhost and passes. Measured cost: 743 of
+          // the last 60 days' 3,304 events came from localhost and 127.0.0.1,
+          // 22% of the property, still arriving as recently as 1 September.
+          //
+          // So refuse local hosts outright rather than trusting the comparison,
+          // and require https, which no dev server here serves. Belt and
+          // braces on purpose: this has leaked twice now.
+          var host = location.hostname;
+          var isLocal =
+            host === "localhost" ||
+            host === "127.0.0.1" ||
+            host === "0.0.0.0" ||
+            host === "[::1]" ||
+            host === "::1" ||
+            /\.local$/.test(host) ||
+            /^192\.168\./.test(host) ||
+            /^10\./.test(host) ||
+            /^172\.(1[6-9]|2[0-9]|3[01])\./.test(host);
+          if (!isLocal && location.protocol === "https:" && host === prodHostname) {
             var gaScript = document.createElement("script");
             gaScript.async = true;
             gaScript.src = "https://www.googletagmanager.com/gtag/js?id=G-YDK7Q2D8E8";
