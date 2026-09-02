@@ -16,6 +16,11 @@ tags:
   - Leicester Square
   - evening plans
 draft: false
+heroImage: "../../assets/articles/casinos-london/casinos-london.jpg"
+heroImageAlt: "A croupier's hands dealing cards across a blue baize casino table, with stacked chips in the tray below"
+heroImageCredit: "Pavel Danilyuk"
+heroImageSource: "https://www.pexels.com/photo/7594301/"
+heroImageLicense: "Pexels licence"
 faq:
   - q: "Do you need to be a member to go to a casino in London?"
     a: "Not for most of them. The Gambling Act 2005 abolished the old rule requiring casinos to operate as clubs with a 24-hour membership wait, and the big West End rooms now advertise free entry with no membership. Grosvenor will still sign you in at reception on a first visit, which takes a couple of minutes. The Mayfair private clubs — Les Ambassadeurs and Wynn Mayfair — are the exception and admit members and their guests only."
@@ -39,7 +44,7 @@ Three of the grandest gambling rooms in Mayfair have gone since 2018. **The Cler
 
 That is the trouble with most casino guides to London: they were written while those rooms were open, and nobody went back. So what follows is not a ranking of glamour. It is a status, an address, and the rules that decide whether your night works.
 
-> 💡 **The Short Version:** **You do not need to be a member** — the 24-hour membership rule was abolished in 2005 and the big rooms now advertise free entry. **You do need photo ID**, every time, whatever your age. **The dress code is smart casual**, not black tie. **You cannot take photographs**, which is why there is no picture of a gaming floor on this page. **Count the zeros on the roulette wheel** — one is 2.7%, two is 5.26%. **The Hippodrome** is the one to walk into first: 24 hours, free, and more to do in it than gamble.
+> 💡 **The Short Version:** **You do not need to be a member** — the 24-hour membership rule was abolished in 2005 and the big rooms now advertise free entry. **You do need photo ID**, every time, whatever your age. **The dress code is smart casual**, not black tie. **You cannot take photographs**, which is why the picture at the top of this page is a stock one rather than a London table. **Count the zeros on the roulette wheel** — one is 2.7%, two is 5.26%. **The Hippodrome** is the one to walk into first: 24 hours, free, and more to do in it than gamble.
 
 *Every venue checked against its own website on 2 September 2026.*
 
@@ -128,7 +133,7 @@ The Mayfair clubs publish nothing, which is its own instruction: dress as you wo
 
 ### Photography is banned, and so are phones at the table
 
-This is the rule most visitors break first, and the reason there is no photograph of a roulette wheel on this page.
+This is the rule most visitors break first, and the reason every photograph on this page is either a stock image or taken from the street.
 
 Genting's terms are unambiguous: **cameras and any other device for taking photos or footage are strictly prohibited without prior consent**, and **mobile phones cannot be used while gaming** — at the tables, at the machines, or in the card rooms.
 
