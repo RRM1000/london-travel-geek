@@ -215,9 +215,15 @@ It closes only on 24, 25 and 26 December. There are Friday Lates, talks and conc
 
 ### The Courtauld, Strand
 
-*Ticketed · Somerset House*
+*£14 · daily 10am–6pm · Somerset House WC2R 0RN*
 
-Impressionists and post-Impressionists in a compact gallery above Somerset House's courtyard — Manet's *A Bar at the Folies-Bergère* and Van Gogh's *Self-Portrait with Bandaged Ear*.
+Impressionists and post-Impressionists in a compact gallery above Somerset House's courtyard — Manet's *A Bar at the Folies-Bergère* and Van Gogh's *Self-Portrait with Bandaged Ear*, in a collection small enough to see properly in a single visit. One of the great small collections anywhere.
+
+**£14 for the permanent collection**, or £16 if you add the voluntary donation. A ticket including a temporary exhibition is £18, or £20 with donation. **Under-18s go free**, students and anyone on Universal or Pension Credit pay £8, and Art Fund members £9.
+
+**Open every day, 10am to 6pm, last entry 5.15pm** — one of very few ticketed galleries here with no closed day.
+
+It is inside **Somerset House**, so pair it with the courtyard: fountains in summer, an ice rink in winter, both free. Temple is two minutes away.
 
 ### Dulwich Picture Gallery, Dulwich
 
@@ -233,9 +239,15 @@ Rembrandt, Rubens, Poussin and Gainsborough, in a collection small enough to see
 
 ### Guildhall Art Gallery, City of London
 
-*Free*
+*Free · last admission 4.45pm · Guildhall Yard EC2V 5AE*
 
-Victorian and pre-Raphaelite paintings in the City's own gallery — and **London's Roman amphitheatre is in the basement**, also free.
+Victorian and Pre-Raphaelite paintings in the City of London's own gallery, including Millais and Rossetti, plus a large collection of London topographical painting — the city as it looked before the buildings around you existed.
+
+**The real draw is underneath.** London's **Roman amphitheatre** was found in 1988 when they dug the foundations for this building, and the surviving walls are displayed in situ in the basement, outlined in light where the missing seating would have been. It is included, and it is free.
+
+**Free entry with no charge for either**, though booking a general admission ticket ahead is recommended. **Last admission is 4.45pm**, which is earlier than people expect and the usual reason for a wasted trip.
+
+Bank and St Paul's are both about five minutes, and the Guildhall Yard entrance is set back from the street.
 
 ---
 
@@ -243,15 +255,27 @@ Victorian and pre-Raphaelite paintings in the City's own gallery — and **Londo
 
 ### The London Silver Vaults, Holborn
 
-*Free*
+*Free · Mon–Fri 9am–5.20pm, Sat 9am–12.50pm · closed Sunday*
 
-A **vault complex under Chancery Lane** holding around fifty independent dealers — the largest collection of antique silver for sale anywhere in the world. Free to walk into and genuinely strange.
+A working **vault complex beneath Chancery Lane**, trading here since 1953, holding around thirty independent dealers behind steel doors — the largest collection of antique silver for sale anywhere in the world. You go down a staircase, through a vault door, and into a corridor of shops.
+
+**Free to walk into, no appointment necessary**, and nobody minds browsers — the dealers are used to people who have come to look. It is genuinely strange in a way no curated museum manages, because everything in it is for sale and priced accordingly, from a few pounds for a spoon to five figures for a Georgian tureen.
+
+**The hours are the catch**, and they are unusually restrictive: **9am to 5.20pm Monday to Friday, 9am to 12.50pm on Saturday, closed Sunday and bank holidays.** A Saturday afternoon visit is not possible.
+
+**53–64 Chancery Lane WC2A 1QS**, with the entrance on Southampton Buildings rather than Chancery Lane itself. Chancery Lane station is two minutes.
 
 ### Leighton House, Kensington
 
-*Ticketed*
+*Ticketed · Holland Park Road, Kensington*
 
-Frederic Leighton's studio-house, built around an Arab Hall lined with Damascus tiles and a gold mosaic frieze.
+Frederic Leighton's studio-house, built for himself over thirty years from 1866 and unlike any other building in London. The **Arab Hall** is the reason to come: a domed, double-height room lined with sixteenth and seventeenth-century Damascus tiles Leighton collected on his travels, a gold mosaic frieze above them and a fountain in the floor.
+
+It is a **house museum rather than a gallery**, so it is small and you go through it room by room — the great first-floor studio where he actually painted is the other set piece, with its north window and its apse.
+
+**It reopened in 2022** after a major restoration that added a new wing, a cafe and a proper entrance, so anything written before then describes a different visit.
+
+It is a walk rather than a Tube ride: **High Street Kensington is about fifteen minutes**, and Holland Park itself is next door if you want to make an afternoon of it.
 
 ### The Design Museum, Kensington
 
@@ -269,11 +293,19 @@ The building matters as much as the collection. It is the **old Commonwealth Ins
 
 ### Colosseum: The Legendary Arena and Space Explorers, Camden
 
-*Ticketed · VR*
+*From £20.50 · 40 minutes · Eclipso London, Camden · 8+*
 
-Headset reconstructions you walk through rather than watch — the Colosseum as it stood, and free-roaming VR filmed aboard the actual International Space Station.
+Headset reconstructions you **walk through rather than watch** — the Colosseum as it stood, and a free-roaming VR piece built from footage shot aboard the actual International Space Station by the Emmy-winning *Space Explorers* series.
+
+**Free-roaming is the distinction that matters.** You are not in a seat with a headset on; you move through a physical space that the VR maps onto, so walking forward in the room walks you forward on the station. That is a different and much rarer thing from a 360-degree film.
+
+**The ISS experience runs about 40 minutes at £20.50**, and you should arrive 10 to 15 minutes early for check-in and fitting. **Minimum age 8**, with children accompanied.
+
+> ⚠️ **It is not wheelchair accessible**, which the venue states plainly and which rules it out for some visitors — worth knowing before booking, since almost everything else on this page is step-free.
 
 ---
+
+> 📅 **Hours, admission and postcodes checked against each gallery's own website on 2 September 2026.** Where a gallery does not publish a figure we leave it out rather than repeat one we could not stand behind.
 
 ## Free, and how far that goes
 
