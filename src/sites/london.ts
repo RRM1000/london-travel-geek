@@ -129,7 +129,11 @@ export const londonSite: SiteConfig = {
           { label: "London on a budget", href: "/articles/london-on-a-budget/" },
           { label: "Is the London Pass worth it?", href: "/articles/london-pass-guide/" },
           { label: "Travel SIM & eSIM", href: "/topics/travel-sim-cards/" },
-          { label: "Getting around London", href: "/articles/getting-around-london-transport-guide/" },
+          // "Getting around London" used to sit here as well as leading the
+          // Getting Around panel next door. A nav section underlines when the
+          // page is any of its children, so being in two sections underlined
+          // both Plan and Getting Around at once. It belongs to the section
+          // named after it, and that section is one click away regardless.
           { label: "Public toilets", href: "/articles/public-toilets-london/" },
         ],
       },
