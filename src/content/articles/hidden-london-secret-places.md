@@ -85,6 +85,18 @@ Two acres of woodland, marsh and pond wedged between the Regent's Canal and the 
 
 *The pond. Two minutes from a mainline terminus, with kingfishers, herons and reed warblers all recorded here.*
 
+### The Ornamental Canal, Wapping
+
+A **narrow channel of water running through Wapping between Tobacco Dock and Shadwell Basin**, with brick warehouse-style housing on both banks, a towpath the whole way, and almost nobody on it. It is not a canal in the working sense — it was laid out in the 1980s along the line of the filled-in London Docks, which is why it goes nowhere and simply stops at each end.
+
+That is exactly what makes it worth the walk. **Wapping Wood** runs alongside it, planted on the filled dock itself, and the tower on the skyline as you look north-west is **Hawksmoor's St George in the East**. The whole stretch takes about fifteen minutes end to end.
+
+**Free, open at all times, and genuinely quiet even at the weekend** — this is a residential back-water rather than an attraction, so there is nothing to buy and nothing to book. Wapping station is at the southern end and Shadwell at the northern. Best in October, when the trees along the water turn.
+
+![The Ornamental Canal in Wapping, with still water reflecting autumn leaves, brick warehouse-style housing on both banks and a church tower in the distance](../../assets/articles/hidden-london-secret-places/wapping-ornamental-canal.jpg)
+
+*The Ornamental Canal looking north-west, with St George in the East on the skyline. October, when the ivy on the buildings turns.*
+
 ### The Rolling Bridge and Fan Bridge, Paddington
 
 Two kinetic bridges over Paddington Basin. Thomas Heatherwick's Rolling Bridge, installed in 2004, is twelve metres of eight hinged triangular segments that curl up into an octagon on the towpath. The Fan Bridge, by Knight Architects and finished in 2014, is twenty metres long and lifts in five separate fins like a hand fan. **Both are currently out of action.** Merchant Square's own page says the Fan Bridge is out of order and gives no return date; the Paddington Partnership says the same of the Rolling Bridge and points visitors back to Merchant Square. Almost every hidden London list still prints the timetables as though they were live — for the record, the Fan Bridge lifted Mondays, Wednesdays and Fridays at 11.30am, and never in high wind. The basin walkways are free and open at all hours, and there is nothing to book. Come for the water, the floating pocket park and the food, and treat any movement as a bonus.
@@ -124,6 +136,10 @@ A church stood here from about 1100. It burned in the Great Fire, Wren rebuilt i
 ### Leadenhall Market
 
 A covered market in cream, maroon and green wrought iron, built by Horace Jones in 1881 and Grade II listed, standing directly on the site of the Roman forum and basilica — the largest such complex north of the Alps. There has been a market here since 1321. Today it holds boutiques, wine bars, restaurants and a pub, and it was filmed as the approach to Diagon Alley in the first Harry Potter film, which is exactly why it is busy. **The arcade itself is a public thoroughfare and never closes; the shops and bars inside keep City hours.** That is the whole trick to it: on a Sunday you get the ironwork, the cobbles and nobody at all, but nothing open; on a weekday lunchtime you get the market working and no room to photograph it. Free either way.
+
+![The painted iron and glass roof of Leadenhall Market in cream, maroon and green, with the Lamb Tavern sign, City of London dragon shields and people at barrel tables below](../../assets/articles/hidden-london-secret-places/leadenhall-market.jpg)
+
+*A weekday afternoon — the market working, and the compromise this entry describes. The dragons on the shields are the City of London's own.*
 
 ### Sir John Soane's Museum, Holborn
 
