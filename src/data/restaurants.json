@@ -1,13 +1,13 @@
 {
  "generated": "2026-09-02",
- "count": 847,
- "withCoords": 785,
+ "count": 845,
+ "withCoords": 783,
  "facets": {
   "cuisine": [
    {
     "value": "British",
     "slug": "british",
-    "count": 245
+    "count": 244
    },
    {
     "value": "Italian",
@@ -17,7 +17,7 @@
    {
     "value": "Chinese",
     "slug": "chinese",
-    "count": 52
+    "count": 51
    },
    {
     "value": "Indian",
@@ -159,7 +159,7 @@
    {
     "value": "Shoreditch",
     "slug": "shoreditch",
-    "count": 49
+    "count": 48
    },
    {
     "value": "South Bank",
@@ -184,7 +184,7 @@
    {
     "value": "Hackney",
     "slug": "hackney",
-    "count": 25
+    "count": 24
    },
    {
     "value": "Islington",
@@ -296,7 +296,7 @@
    {
     "value": "regional",
     "slug": "regional",
-    "count": 202
+    "count": 201
    },
    {
     "value": "grill",
@@ -421,7 +421,7 @@
    {
     "value": "pie-mash",
     "slug": "pie-mash",
-    "count": 10
+    "count": 9
    },
    {
     "value": "bbq",
@@ -483,7 +483,7 @@
    {
     "value": "££",
     "slug": "price-2",
-    "count": 334
+    "count": 333
    },
    {
     "value": "£££",
@@ -493,7 +493,7 @@
    {
     "value": "£",
     "slug": "price-1",
-    "count": 152
+    "count": 151
    },
    {
     "value": "££££",
@@ -5107,43 +5107,6 @@
    "sourceCount": "3",
    "sourceTiers": "B2 C1",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-pie-and-mash-shops | https://www.theinfatuation.com/london/guides/best-pie-and-mash-london | https://britishfoodcrew.com/best-pie-and-mash-in-london-the-definitive-2026-guide/"
-  },
-  {
-   "slug": "f-cooke",
-   "name": "F. Cooke",
-   "cuisine": "British",
-   "style": "Pie and mash",
-   "specialities": [
-    "pie-mash"
-   ],
-   "format": "Counter",
-   "chainType": "independent",
-   "area": "Hackney",
-   "zone": "2",
-   "district": "East",
-   "borough": "Hackney",
-   "guide": "hackney-area-guide",
-   "address": "9 Broadway Market, London E8 4PH, UK",
-   "postcode": "E8 4PH",
-   "lat": 51.536752,
-   "lng": -0.061879,
-   "station": "Cambridge Heath (London)",
-   "walkMin": 8,
-   "price": "£",
-   "booking": "walk-in",
-   "setting": "historic-building",
-   "goodFor": [
-    "quick",
-    "solo"
-   ],
-   "whyGo": "One of the last of the old Hackney pie shops, tiled and mirrored and largely unchanged.",
-   "signals": "3 sources",
-   "lists": [
-    "best-value"
-   ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-pie-and-mash-shops | https://britishfoodcrew.com/best-pie-and-mash-in-london-the-definitive-2026-guide/"
   },
   {
    "slug": "arments-pie-and-mash",
@@ -10609,36 +10572,6 @@
    "sourceCount": "2",
    "sourceTiers": "B2",
    "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876 | https://www.theinfatuation.com/london/guides/best-dim-sum-london"
-  },
-  {
-   "slug": "sichuan-folk",
-   "name": "Sichuan Folk",
-   "cuisine": "Chinese",
-   "style": "Sichuanese",
-   "specialities": [
-    "regional"
-   ],
-   "format": "Restaurant",
-   "chainType": "independent",
-   "area": "Spitalfields",
-   "zone": "1",
-   "district": "East",
-   "borough": "Tower Hamlets",
-   "guide": "shoreditch-area-guide",
-   "address": "32 Hanbury St, London E1 6QR, UK",
-   "postcode": "E1 6QR",
-   "lat": 51.520229,
-   "lng": -0.073104,
-   "station": "Aldgate East",
-   "walkMin": 9,
-   "price": "££",
-   "bookingUrl": "https://widget.quandoo.co.uk/widget/reservation/merchant/h49z5?&countryId=GBR",
-   "website": "https://social.quandoo.com/en/groups/sichuan-folk-14489",
-   "goodFor": [
-    "groups",
-    "date"
-   ],
-   "whyGo": "Proper Sichuan heat off Brick Lane, in a stretch better known for curry houses."
   },
   {
    "slug": "kai-mayfair",

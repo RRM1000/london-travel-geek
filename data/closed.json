@@ -242,6 +242,14 @@
     "goods way": {
       "name": "Goods Way, King's Cross",
       "detail": "Checked 2026-09-02. goodsway.co.uk is dead. The King's Cross estate lists 11 Goods Way N1C 4DP as Lafayette, a New Orleans-inspired venue with current hours, so this looks like a rename rather than a closure - but lafayettelondon.com also 404s. Do not link goodsway.co.uk either way."
+    },
+    "zelman meats": {
+      "name": "Zelman Meats, Harvey Nichols",
+      "detail": "Checked 2026-09-02. Split evidence, and it is named in the steak guide. FOR OPEN: Zelman HN Ltd is Active at Companies House with a confirmation statement dated April 2026. AGAINST: zelmanmeats.com no longer resolves, there is no FSA hygiene registration under Zelman anywhere despite every other Harvey Nichols fifth-floor concession having one, and Trullo is now registered at the same address as of March 2025, suggesting a replacement tenancy. Needs a phone call."
+    },
+    "tokyo sukiyaki-tei": {
+      "name": "Tokyo Sukiyaki-Tei, Sloane Avenue",
+      "detail": "Checked 2026-09-02, leaning closed. Domain lapsed and now serves gambling content, no FSA registration under any spelling, and Hardens and TheFork both list it as gone. No dated closure notice found, and Hardens gave a false closed flag for Roma Pizza, so not called outright."
     }
   },
   "hijackedDomains": {
@@ -253,7 +261,9 @@
       "cornerstonehackney.com",
       "wongkeilondon.com",
       "balady.co.uk"
-    ]
+    ],
+    "sichuan-folk.co.uk": "Former Sichuan Folk, Hanbury Street. Now unrelated gambling content. Checked 2026-09-02.",
+    "tokyosukiyakitei.com": "Former Tokyo Sukiyaki-Tei, Sloane Avenue. Now unrelated gambling/betting content. Checked 2026-09-02."
   },
   "closingSoon": {
     "note": "Trading now but with a known end date. A guide with any shelf life must not send readers here without saying so. Re-check these before each publish.",
