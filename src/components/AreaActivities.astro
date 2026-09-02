@@ -6,6 +6,8 @@
 // renders nothing at all rather than an empty heading.
 import data from "../data/activities.json";
 import { sheetPhotos } from "../lib/sheetPhotos";
+import tourData from "../../data/gyg-tours.json";
+import { GYG_PARTNER_ID } from "../../scripts/lib/affiliate.mjs";
 
 interface Props {
   /** The article id, e.g. "shoreditch-area-guide". */
@@ -31,9 +33,8 @@ type Activity = {
 // bug Neal's Yard, Seven Dials Market and the Guinness brewery all had. The row
 // still appears in /things-to-do, the filters, the maps and search; it is only
 // this one page's auto-list that stands down. See write-activities.mjs.
-const all = (data.activities as Activity[])
-  .filter((a: any) => a.guide === articleId)
-  .filter((a: any) => a.guidePlacement !== "prose");
+const onGuide = (data.activities as Activity[]).filter((a: any) => a.guide === articleId);
+const all = onGuide.filter((a: any) => a.guidePlacement !== "prose");
 
 // Free things first — they are the ones readers most often do not know about,
 // and the ones the local guides lead with.
@@ -44,6 +45,24 @@ const list = [...all].sort((a, b) => {
 });
 
 // Only the age policies worth warning about. "all-ages" needs no label.
+// ONE live booking widget per guide, for the strongest venue we have a
+// verified GetYourGuide tour for.
+//
+// Not one per venue: the widget is ~370px tall, and a list of eight of them
+// would bury the writing it is meant to sit alongside. Not in the sidebar
+// either - at 320px wide it renders 574px, taller than the column can give.
+// So: the single best tour on the page, below the list, where a reader who
+// has just read about the place can act on it.
+//
+// "Best" is review count. It is the honest proxy for whether a reader will
+// recognise and trust the thing - the London Eye's 39,200 reviews against
+// Cutty Sark's 370 - and it is the same measure that separated the real
+// matches from the false ones when these were chosen. See data/gyg-tours.json.
+const TOURS = (tourData as any).tours as Record<
+  string,
+  { tourId: string; title: string; rating?: number; reviews?: number }
+>;
+
 const AGE_LABEL: Record<string, string> = {
   "over-18": "18+",
   "over-16": "16+",
@@ -55,6 +74,16 @@ const SEASON_LABEL: Record<string, string> = {
   "summer-only": "Summer only",
   seasonal: "Seasonal",
 };
+
+// Chosen from onGuide, not from list: the "prose" rule above suppresses a
+// venue the guide already writes about, so it is not PRINTED twice - but the
+// Tower of London and St Paul's are exactly the venues a City of London
+// reader most wants to book, and neither would ever get a widget otherwise.
+// The rule is about duplicate listings, not about suppressing the booking.
+const featured = onGuide
+  .filter((a) => TOURS[a.slug] && !a.bookingUrl)
+  .sort((x, y) => (TOURS[y.slug].reviews ?? 0) - (TOURS[x.slug].reviews ?? 0))[0];
+const featuredTour = featured ? TOURS[featured.slug] : undefined;
 
 // Photos are matched by slug from the assets tree - see lib/sheetPhotos. Most
 // rows have none, and a card without one is the normal layout rather than a
@@ -132,11 +161,76 @@ const photos = await sheetPhotos(list.map((a) => a.slug));
         </li>
       ))}
     </ul>
+
+    {featured && featuredTour && (
+      <div class="aa-book">
+        <p class="aa-book__head">
+          Book {featured.name}
+          <span class="aa-ad">ad</span>
+        </p>
+        {featuredTour.rating && featuredTour.reviews ? (
+          <p class="aa-book__meta">
+            {featuredTour.rating} out of 5 on GetYourGuide, from{" "}
+            {featuredTour.reviews.toLocaleString("en-GB")} reviews. Live dates and
+            prices below.
+          </p>
+        ) : (
+          <p class="aa-book__meta">Live dates and prices below.</p>
+        )}
+        {/*
+          The partner script rewrites this into an iframe. data-gyg-cmp tags the
+          booking to this guide so it lands on its own row in the Campaigns
+          report rather than in no_reseller_campaign.
+        */}
+        <div
+          data-gyg-href="https://widget.getyourguide.com/default/availability.frame"
+          data-gyg-tour-id={featuredTour.tourId}
+          data-gyg-locale-code="en-GB"
+          data-gyg-widget="availability"
+          data-gyg-partner-id={GYG_PARTNER_ID}
+          data-gyg-cmp={`${articleId}-availability`}
+        ></div>
+      </div>
+    )}
   </section>
 )}
 
 <style>
   .area-activities { margin-block: 3rem 2rem; }
+
+  /* The booking block reads as an offer, not as another list item, so it gets
+     the surface treatment the rest of the list does not. */
+  .aa-book {
+    margin-top: 2rem;
+    padding: 1.1rem 1.2rem 1.2rem;
+    border: 1px solid var(--line);
+    border-radius: var(--card-radius);
+    background: var(--surface-strong);
+  }
+
+  .aa-book__head {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0 0 0.3rem;
+    color: var(--ink);
+    font-family: var(--display);
+    font-size: 1.15rem;
+    font-weight: 800;
+  }
+
+  .aa-book__meta {
+    margin: 0 0 0.9rem;
+    color: var(--muted);
+    font-size: 0.88rem;
+  }
+
+  .aa-book :global(iframe) {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    border: 0;
+  }
   .aa-intro { margin: 0 0 1.5rem; opacity: 0.8; }
   .aa-disclosure { display: block; margin-block-start: 0.5rem; font-size: 0.85rem; }
   /* ul.<class>, not just .<class>: ArticleLayout sets

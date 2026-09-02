@@ -1,0 +1,88 @@
+{
+  "_comment": [
+    "Verified GetYourGuide product pages, keyed by activity slug.",
+    "",
+    "WHY THIS FILE EXISTS. Every generated affiliate link is a SEARCH url -",
+    "getyourguide.com/s/?q=Westminster+Abbey+London - which drops the reader on",
+    "a list to hunt through rather than on a tour with a price and a rating.",
+    "affiliate.mjs prefers an entry here when one exists, and falls back to the",
+    "search url otherwise. It lives in data/ rather than in the Activities sheet",
+    "so a re-export cannot wipe it.",
+    "",
+    "HOW THESE WERE CHOSEN. Matched from GetYourGuide's own Bestseller coverage,",
+    "Deals & promotions and New activities exports (2 September 2026), then",
+    "checked by eye one at a time. Fuzzy matching over those exports proposed 16",
+    "candidates for 100 activities; 8 survived. Review count separated them",
+    "cleanly - every match above 300 reviews was right, every match below 3 was",
+    "wrong (Churchill War Rooms matched a 690-euro private walking tour, the",
+    "Design Museum matched a children's craft workshop in Upminster, and the",
+    "London Stadium - West Ham - matched the Emirates, the wrong club entirely).",
+    "",
+    "THE BAR FOR ADDING ONE. The tour must be FOR the venue, not merely mention",
+    "it: an entry ticket or the venue's own official tour, never a multi-stop",
+    "coach trip that stops there. Check the URL by hand before adding it. A",
+    "wrong product page is worse than the search link it replaces, because the",
+    "reader trusts it more.",
+    "",
+    "reviews and rating are recorded as of the date above so a later pass can",
+    "tell a stale entry from a fresh one. They are not read by any code."
+  ],
+  "tours": {
+    "london-eye": {
+      "tourId": "170451",
+      "url": "https://www.getyourguide.com/activity/-t170451",
+      "title": "London: The London Eye Entry Ticket",
+      "rating": 4.6,
+      "reviews": 39200
+    },
+    "tower-of-london": {
+      "tourId": "21253",
+      "url": "https://www.getyourguide.com/activity/-t21253",
+      "title": "London: Tower of London and Crown Jewels Exhibition Ticket",
+      "rating": 4.6,
+      "reviews": 32332
+    },
+    "madame-tussauds": {
+      "tourId": "174429",
+      "url": "https://www.getyourguide.com/activity/-t174429",
+      "title": "London: Madame Tussauds London",
+      "rating": 4.6,
+      "reviews": 23622
+    },
+    "westminster-abbey": {
+      "tourId": "399163",
+      "url": "https://www.getyourguide.com/activity/-t399163",
+      "title": "London: Westminster Abbey Entrance Ticket",
+      "rating": 4.6,
+      "reviews": 13953
+    },
+    "st-pauls-cathedral": {
+      "tourId": "19600",
+      "url": "https://www.getyourguide.com/activity/-t19600",
+      "title": "London: St Paul's Cathedral Entry Ticket",
+      "rating": 4.7,
+      "reviews": 11155
+    },
+    "emirates-stadium-tour": {
+      "tourId": "45135",
+      "url": "https://www.getyourguide.com/activity/-t45135",
+      "title": "London: Emirates Stadium Entry Ticket and Audio Guide",
+      "rating": 4.6,
+      "reviews": 6305
+    },
+    "royal-observatory-greenwich": {
+      "tourId": "98226",
+      "url": "https://www.getyourguide.com/activity/-t98226",
+      "title": "Royal Observatory Greenwich & Prime Meridian Entrance Ticket",
+      "rating": 4.5,
+      "reviews": 1603
+    },
+    "cutty-sark": {
+      "tourId": "98235",
+      "url": "https://www.getyourguide.com/activity/-t98235",
+      "title": "London: Entrance Ticket to the Cutty Sark",
+      "rating": 4.7,
+      "reviews": 370
+    }
+  }
+}

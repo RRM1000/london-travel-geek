@@ -17,6 +17,8 @@
 // a direct link to the venue's own booking page is better for the reader than a
 // search on a reseller, and the commission is not worth the worse experience.
 
+import fs from "node:fs";
+
 export const GYG_PARTNER_ID = "WWP7I0R";
 
 // Activity types where GetYourGuide plausibly has inventory. Everything absent
@@ -72,12 +74,47 @@ export function gygSearchUrl(name, { city = "London" } = {}) {
   return `https://www.getyourguide.com/s/?q=${encodeURIComponent(q)}&partner_id=${GYG_PARTNER_ID}`;
 }
 
+// Hand-verified product pages, keyed by activity slug - see data/gyg-tours.json
+// for how they were chosen and the bar for adding one. Read once at module load;
+// an empty or missing file just means every link stays a search, as before.
+const TOUR_MAP = (() => {
+  try {
+    return JSON.parse(fs.readFileSync("data/gyg-tours.json", "utf8")).tours ?? {};
+  } catch {
+    return {};
+  }
+})();
+
+/**
+ * The tour page for a venue when we have verified one.
+ *
+ * getyourguide.com/activity/-t<id> is GetYourGuide's own canonical deep-link
+ * form - the one their exports emit - so it survives a tour being retitled,
+ * which a slug-bearing url would not.
+ */
+export function gygTourUrl(slug, { cmp } = {}) {
+  const t = TOUR_MAP[slug];
+  if (!t?.tourId) return undefined;
+  const campaign = cmp ? `&cmp=${encodeURIComponent(cmp)}` : "";
+  return `https://www.getyourguide.com/activity/-t${t.tourId}?partner_id=${GYG_PARTNER_ID}${campaign}`;
+}
+
+/** Everything data/gyg-tours.json knows about a venue, or undefined. */
+export function gygTour(slug) {
+  return TOUR_MAP[slug];
+}
+
 /** Affiliate link for an activity row, or undefined when none should be shown. */
 export function activityAffiliate(row) {
   if (row.bookingUrl) return undefined;              // a real booking url wins
   if (!GYG_ACTIVITY_TYPES.has(row.type)) return undefined;
   if (isFree(row.price)) return undefined;
-  return { url: gygSearchUrl(row.name), network: "getyourguide" };
+  // A verified product page beats a search: the reader lands on a price and a
+  // rating rather than on a list to sift. cmp tags the click to its guide, so
+  // it appears as its own row in the partner dashboard's Campaigns report
+  // instead of falling into no_reseller_campaign.
+  const direct = gygTourUrl(row.slug, { cmp: row.guide ? `${row.guide}-activity` : undefined });
+  return { url: direct ?? gygSearchUrl(row.name), network: "getyourguide" };
 }
 
 /** Affiliate link for an event row, or undefined when none should be shown. */

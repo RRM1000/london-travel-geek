@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-27",
- "count": 324,
+ "generated": "2026-09-02",
+ "count": 328,
  "activities": [
   {
    "slug": "skuna-bbq-boats",
@@ -1222,7 +1222,7 @@
     "activities",
     "showstopper"
    ],
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=Royal%20Observatory%20Greenwich%20London&partner_id=WWP7I0R",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t98226?partner_id=WWP7I0R&cmp=greenwich-area-guide-activity",
    "affiliateNetwork": "getyourguide"
   },
   {
@@ -1294,7 +1294,7 @@
    "lists": [
     "activities"
    ],
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=Cutty%20Sark%20London&partner_id=WWP7I0R",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t98235?partner_id=WWP7I0R&cmp=greenwich-area-guide-activity",
    "affiliateNetwork": "getyourguide"
   },
   {
@@ -1651,7 +1651,7 @@
    "lists": [
     "activities"
    ],
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=London%20Eye%20London&partner_id=WWP7I0R",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t170451?partner_id=WWP7I0R&cmp=south-bank-area-guide-activity",
    "affiliateNetwork": "getyourguide"
   },
   {
@@ -2224,6 +2224,40 @@
     "activities",
     "free"
    ]
+  },
+  {
+   "slug": "tkts-leicester-square",
+   "name": "TKTS Booth, Leicester Square",
+   "type": "ticket-booth",
+   "style": "The official same-day and advance West End discount ticket booth",
+   "chainType": "independent",
+   "area": "Leicester Square",
+   "borough": "Westminster",
+   "guide": "covent-garden-area-guide",
+   "guidePlacement": "prose",
+   "zone": "1",
+   "district": "Central",
+   "address": "Clocktower Building, south side of Leicester Square",
+   "station": "Leicester Square",
+   "agePolicy": "all-ages",
+   "duration": "A queue, then however long the show runs",
+   "groupSize": "Any",
+   "booking": "walk-in",
+   "indoorOutdoor": "outdoor",
+   "stepFree": "yes",
+   "servesFood": "no",
+   "servesAlcohol": "no",
+   "whyGo": "The only ticket booth in Leicester Square actually run by the theatre industry, not a lookalike shop trading on the same name and square.",
+   "opNote": "Run by the Society of London Theatre since 1980, a not-for-profit whose profit goes back into theatre. Sells mostly same-day tickets at a discount, plus advance bookings in person or online, with a booking fee on the online side. Open Monday to Saturday 10.30am-6pm, Sunday 11am-4pm.",
+   "goodFor": [
+    "solo",
+    "groups",
+    "families"
+   ],
+   "lists": [
+    "activities"
+   ],
+   "website": "https://officiallondontheatre.com/tkts/"
   },
   {
    "slug": "london-transport-museum",
@@ -3107,7 +3141,7 @@
    "lists": [
     "activities"
    ],
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=Westminster%20Abbey%20London&partner_id=WWP7I0R",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t399163?partner_id=WWP7I0R&cmp=westminster-area-guide-activity",
    "affiliateNetwork": "getyourguide"
   },
   {
@@ -4504,7 +4538,7 @@
    "lists": [
     "activities"
    ],
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=Madame%20Tussauds%20London%20London&partner_id=WWP7I0R",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t174429?partner_id=WWP7I0R&cmp=marylebone-area-guide-activity",
    "affiliateNetwork": "getyourguide"
   },
   {
@@ -8553,7 +8587,7 @@
    "lists": [
     "activities"
    ],
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=Emirates%20Stadium%20Tour%20London&partner_id=WWP7I0R",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t45135?partner_id=WWP7I0R&cmp=islington-area-guide-activity",
    "affiliateNetwork": "getyourguide"
   },
   {
@@ -9834,6 +9868,70 @@
     "families",
     "solo",
     "groups"
+   ],
+   "lists": [
+    "activities",
+    "free"
+   ]
+  },
+  {
+   "slug": "art-pavilion-mile-end-park",
+   "name": "The Art Pavilion, Mile End Park",
+   "type": "gallery-experience",
+   "style": "Council-run gallery space, glass-fronted over a small lake",
+   "chainType": "independent",
+   "area": "Mile End",
+   "borough": "Tower Hamlets",
+   "zone": "2",
+   "district": "East",
+   "address": "Clinton Road",
+   "postcode": "E3 4QY",
+   "agePolicy": "family-friendly",
+   "duration": "30-45 minutes",
+   "groupSize": "Any",
+   "price": "Free (exhibitions)",
+   "booking": "walk-in",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "servesFood": "no",
+   "servesAlcohol": "no",
+   "whyGo": "A striking building most walkers miss entirely - built low into a grass bank beside the Regent's Canal with a glass wall onto its own lake. Only open to the public when an exhibition is on; it is a wedding and events venue the rest of the time.",
+   "opNote": "NEEDS VERIFYING - closed to the public between exhibitions, so hours depend entirely on what is currently showing. Check Tower Hamlets' own listing or @thepavilionsmileend before a special trip; do not publish specific opening hours without confirming the current programme.",
+   "goodFor": [
+    "solo",
+    "couples"
+   ],
+   "lists": [
+    "activities"
+   ]
+  },
+  {
+   "slug": "ecology-pavilion-mile-end-park",
+   "name": "The Ecology Pavilion, Mile End Park",
+   "type": "park",
+   "style": "Reedbeds and lakes around a council-run events pavilion",
+   "chainType": "independent",
+   "area": "Mile End",
+   "borough": "Tower Hamlets",
+   "zone": "2",
+   "district": "East",
+   "address": "Off Grove Road, Mile End Park",
+   "postcode": "E3 5TW",
+   "agePolicy": "family-friendly",
+   "duration": "20-30 minutes",
+   "groupSize": "Any",
+   "price": "Free (park); pavilion building is hired for events",
+   "booking": "walk-in",
+   "indoorOutdoor": "outdoor",
+   "stepFree": "yes",
+   "servesFood": "no",
+   "servesAlcohol": "no",
+   "whyGo": "The pavilion building itself is an events venue, but the reedbeds and lakes around it are the best-kept surprise on the whole Regent's Canal towpath - a boardwalk through actual wetland a few steps off the path, usually empty.",
+   "opNote": "The surrounding ecology park is open and free at all times; the pavilion building itself is only open to the public during a hired event.",
+   "goodFor": [
+    "families",
+    "solo",
+    "couples"
    ],
    "lists": [
     "activities",
@@ -11128,7 +11226,7 @@
     "activities"
    ],
    "website": "https://www.hrp.org.uk/tower-of-london/",
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=Tower%20of%20London%20London&partner_id=WWP7I0R",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t21253?partner_id=WWP7I0R&cmp=city-of-london-area-guide-activity",
    "affiliateNetwork": "getyourguide"
   },
   {
@@ -11206,7 +11304,7 @@
     "activities"
    ],
    "website": "https://www.stpauls.co.uk/",
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=St%20Paul's%20Cathedral%20London&partner_id=WWP7I0R",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t19600?partner_id=WWP7I0R&cmp=city-of-london-area-guide-activity",
    "affiliateNetwork": "getyourguide"
   },
   {
@@ -11325,6 +11423,40 @@
     "free"
    ],
    "website": "https://www.nationalgallery.org.uk/"
+  },
+  {
+   "slug": "the-boat-pod",
+   "name": "The BoAt Pod",
+   "type": "studio-hire",
+   "style": "Podcast, radio and DJ studio on a moored narrowboat",
+   "chainType": "independent",
+   "area": "Little Venice",
+   "borough": "Westminster",
+   "guide": "paddington-area-guide",
+   "zone": "2",
+   "district": "West",
+   "address": "Warwick Crescent, Little Venice",
+   "agePolicy": "all-ages",
+   "duration": "By the hour",
+   "groupSize": "Up to 4 (podcast studio)",
+   "price": "From £75 per session (Tagvenue)",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "stepFree": "no",
+   "servesFood": "no",
+   "servesAlcohol": "no",
+   "whyGo": "A converted narrowboat fitted out as a full podcast and radio studio - Shure microphones, a Rodecaster, DJ decks - moored on the canal at Little Venice. A genuinely unusual place to record something, or just to spot from the towpath.",
+   "opNote": "Female-founded; also runs as a radio station, DJ agency and pop-up event space. Book the podcast studio room via Tagvenue; other formats via the boat's own site/Instagram.",
+   "goodFor": [
+    "groups",
+    "solo",
+    "creative"
+   ],
+   "lists": [
+    "activities",
+    "unusual"
+   ],
+   "website": "https://www.theboatpod.com/"
   }
  ]
 }
