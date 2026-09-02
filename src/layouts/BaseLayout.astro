@@ -104,7 +104,14 @@ const jsonLd = JSON.stringify(
 <html lang="en-GB" data-theme={activeSite.theme}>
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
+    {/*
+      initial-scale=1 is not optional. With width=device-width alone, iOS
+      Safari picks its own initial zoom rather than 1, and the page renders
+      narrower than the screen with a strip of background down one side -
+      reported on a real iPhone, and not reproducible in device emulation
+      because emulators force scale 1.
+    */}
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
     <meta name="theme-color" content="#0e1b2c" />
