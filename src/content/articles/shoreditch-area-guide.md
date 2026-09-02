@@ -54,7 +54,7 @@ area:
       note: "East by Elizabeth line from Liverpool Street in six minutes."
 faq:
   - q: "Which day is best for Shoreditch markets?"
-    a: "Sunday, when everything runs at once: Brick Lane, the Truman Brewery markets, Columbia Road Flower Market and Spitalfields. Saturday is a close second, with Old Spitalfields at its best and Brick Lane's vintage markets open. Weekdays are much quieter — Spitalfields runs daily but the rest largely does not."
+    a: "Sunday, when everything runs at once: Brick Lane, the Truman Brewery markets, Columbia Road Flower Market and Spitalfields. Saturday is a close second, with Old Spitalfields at its best and Brick Lane's vintage markets open. Weekdays are much quieter, but not empty: Old Spitalfields and the Brick Lane Vintage Market both run daily, and a weekday is the best time to shop either of them properly."
   - q: "Where is the street art in Shoreditch?"
     a: "Concentrated on Hanbury Street, Chance Street, Redchurch Street, Fashion Street and Grimsby Street, plus the walls around the Truman Brewery on Brick Lane. It changes constantly — most pieces last months rather than years, so a specific mural you have seen online may be gone."
   - q: "When is Columbia Road Flower Market?"

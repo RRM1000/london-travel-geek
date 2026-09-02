@@ -22,9 +22,9 @@ faq:
   - q: "What is a Basque asador?"
     a: "A grill house built around a coal fire, cooking aged beef and whole turbot with almost nothing else done to them. Lurra and Ibai are London's two proper examples."
   - q: "Where can I eat tapas cheaply in London?"
-    a: "José on Bermondsey Street is standing-room with a handful of stools and no bookings — jamón, sherry and a few plates comes in well under £25. Barrafina's counters are more expensive but you eat at the bar rather than paying for a table."
+    a: "José on Bermondsey Street is standing-room with a handful of stools and no bookings — jamón, sherry and a few plates comes in well under £25. Barrafina's counters are more expensive but you eat at the bar rather than paying for a table, and they can be booked."
   - q: "Do Spanish restaurants in London take bookings?"
-    a: "The sit-down ones do. José and the Barrafina counters do not — you queue, and the queue is part of it. Pizarro a few doors from José is the bookable version of the same chef's cooking."
+    a: "Most do, including the Barrafina counters, which take reservations through their own site. José on Bermondsey Street is the notable exception — standing room, no bookings, and you queue. Pizarro a few doors along is the bookable version of the same chef's cooking."
 ---
 
 Spanish food in London has quietly become one of the city's strongest cuisines, and it splits into two things that barely resemble each other: **tapas counters** where you stand and eat with your hands, and **Basque asadors** built around a coal fire and a single enormous piece of beef.
@@ -108,13 +108,13 @@ Aged beef over coals, whole fish, and vegetables given the same treatment — le
 
 ### Barrafina
 
-*£££ · counters, no bookings* · Cited by 5 sources
+*£££ · counter seating, bookable* · Cited by 5 sources
 
-**A counter and nothing else** — no bookings at most sites, no tables, and you eat facing the chefs. The format was imported wholesale from Barcelona's Cal Pep and it changed how London eats tapas.
+**A counter and nothing else** — no tables, and you eat facing the chefs. The format was imported wholesale from Barcelona's Cal Pep and it changed how London eats tapas.
 
 Order from the specials board rather than the printed menu: **prawns, razor clams, tortilla**, and whatever came in that morning, cooked a foot in front of you. The **jamón** is carved to order and worth the money.
 
-**Walk-in at the original sites — put your name down and drink nearby.** Several London counters now, and Dean Street remains the best of them.
+**You can book**, which is worth knowing because the group's reputation for queues is out of date — reservations go through its own site. Walk-ins are still taken if there is space at the counter. Five London sites now: Dean Street, Adelaide Street, Drury Lane, Coal Drops Yard and Borough Yards, and Dean Street remains the best of them.
 
 ### José, Bermondsey
 

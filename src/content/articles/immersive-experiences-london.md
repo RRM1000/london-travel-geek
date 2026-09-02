@@ -378,15 +378,13 @@ Digital ABBA and a ten-piece live band in a purpose-built arena opposite the DLR
 
 **What sells it is the small stuff, not the spectacle.** Agnetha shifting her weight between verses. The look Björn and Benny exchange. A hand finding the mic stand without looking. You spend the first song hunting for the seam, fail to find it, and stop trying — and from there you are simply at an ABBA concert, which is exactly what a purpose-built arena and a wall of LED were put up to achieve.
 
-**And then, at the end, they appear as themselves.** The show closes with the four of them — the actual band, in their seventies, filmed rather than rendered — taking a curtain call. After ninety minutes of watching twenty-nine-year-olds you know are not there, the effect of the real ones walking out is genuinely disarming, and it is the moment people talk about on the way home.
-
-![The four members of ABBA appearing as themselves in the pre-recorded curtain call at ABBA Voyage, holding hands and taking a bow against a black stage](../../assets/articles/immersive-experiences-london/abba-voyage-curtain-call.jpg)
-
-*The curtain call — the real band, filmed as they are now, closing a show performed by their de-aged selves. Photo: [Raph_PH](https://commons.wikimedia.org/wiki/File:ABBA_Voyage_-_ABBA_Arena_London_(May_27th,_2022).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
-
 **The live band is the other half of the illusion.** Ten real musicians playing in front of the screen, lit to match, so the room never tips over into feeling like a cinema. And the **no-phones policy is enforced**, which is much of why it lands: three thousand people, none of them filming, all looking at the same thing.
 
-**Dance Booths** seat up to 44 with their own bar if you are a group. The box office at Pudding Mill Lane DLR opens two hours before. Wheelchair spaces, ambulant seating and transfer-friendly seats are all available, and ear defenders are free but limited, first come first served.
+![Dozens of narrow blue light beams angled down over a full audience inside the ABBA Arena before the show](../../assets/articles/immersive-experiences-london/abba-arena-lighting-rig.jpg)
+
+*The arena filling up before the show. The rig above the audience is doing as much work as the screen.*
+
+**Wheelchair spaces, ambulant seating and transfer-friendly seats are all available**, and ear defenders are free but limited, first come first served.
 
 ### Outernet, Tottenham Court Road
 

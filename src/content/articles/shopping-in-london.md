@@ -169,7 +169,8 @@ This is where Londoners actually shop, and where the guides mostly do not send y
 London is one of the best cities in Europe for this, and prices span an enormous range.
 
 * **Camden** — the biggest concentration. **Stables Market** is the serious end; expect **£15–£60** for a decent piece, more for branded denim or leather.
-* **Brick Lane** — **Sunday** especially. Kilo sales (buy by weight) run regularly at the Truman Brewery and are the cheapest way in.
+* **Brick Lane Vintage Market** — the biggest vintage market in London, in the basement of the **Old Truman Brewery** at F Block, 85 Brick Lane. Dozens of independent traders under one roof, covering the **1920s through to the 1990s**: denim, leather, men's suits, fur coats, bridal, vinyl and accessories. **Open seven days a week** — Mon–Fri 11am–6.30pm, Sat 11am–6pm, Sun 10am–6pm — which makes it the one vintage stop you can do on a weekday, when it is far calmer.
+* **Brick Lane on a Sunday** — the wider stretch adds Upmarket, Backyard Market and the Truman yards, and **kilo sales** (buy by weight) run regularly. Cheapest way in, and busiest by a distance.
 * **Beyond Retro**, **Rokit** and **Blitz** — the reliable chains, Dalston and Shoreditch.
 * **Charity shops in wealthy postcodes.** Chelsea, Marylebone, Hampstead and Primrose Hill are where the good donations land. This is the genuine insider tip in this section.
 * **Alfies Antique Market**, Marylebone — twentieth-century design and vintage fashion, five floors, Tuesday to Saturday and far calmer than Portobello.
@@ -193,6 +194,18 @@ For when it is raining, or you want everything in one building.
 * **Brent Cross** and **Bluewater** — big, out of town, for serious volume shopping.
 
 ![The covered arcade at Broadgate Central, with shops on two levels and tables on the lower walkway](../../assets/articles/shopping-in-london/broadgate-central.jpg)
+
+### The two outlets
+
+Different proposition from the malls above: **last season's stock at a discount**, in a purpose-built centre rather than a high street. Both of London's are attached to a major venue, which is the thing to plan around.
+
+**London Designer Outlet**, Wembley Park — **around 50 stores at 30–70% off** list price, and the larger of the two. Nike, adidas, Levi's, Tommy Hilfiger, Boss, Calvin Klein, Kurt Geiger, Clarks, The North Face and M&S, plus about twenty places to eat, a nine-screen Cineworld and a free covered play park that makes it genuinely workable with children.
+
+**Icon Outlet at The O2**, North Greenwich — smaller and more central-feeling, wrapped around the inside of the O2 alongside the bars and restaurants. Ted Baker, Hackett, Gap, Levi's and Dune among others, **open daily 10am–8pm**, and a straight run on the Jubilee line to North Greenwich.
+
+> ⚠️ **Check what is on at the venue before you go to either.** Both share a site with a major arena or stadium, and on a concert or match day the shops themselves are fine but the station, the food and the walk out are not.
+
+**Be realistic about outlet pricing.** The percentages are off list price rather than off what the item last sold for, and the stock is previous-season by definition. For genuine bargains they are good; for a specific thing in your size, they are a gamble.
 
 ---
 

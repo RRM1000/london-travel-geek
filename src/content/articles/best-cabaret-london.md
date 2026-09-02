@@ -462,8 +462,6 @@ More than thirty international acrobats, aerialists and stunt performers do the 
 
 A **45-minute version called "IGNITE!" plays Hyde Park Winter Wonderland** from November 2026 into January 2027, booked through the Winter Wonderland site, where **prices are not published**.
 
-**One serious caution: the venue's own site is badly out of date**, with its front page still advertising the 2024/25 Winter Wonderland season. Book the Garrick run through the theatre's own ticketing rather than trusting anything you read on the circus's homepage.
-
 ### Zippos Circus
 
 *Touring London parks · seated · **28 August – 12 October 2026***
@@ -471,8 +469,6 @@ A **45-minute version called "IGNITE!" plays Hyde Park Winter Wonderland** from 
 **A traditional big top in a local park, moving every few days** — the only circus here that comes to the suburbs rather than making you travel into the centre.
 
 The 2026 London run is: **Clissold Park in Stoke Newington to 1 September, Crystal Palace Park 4–7 September, Twickenham 10–14 September, Plumstead 17–21 September, Peckham Rye 24–27 September, Palmers Green 1–5 October, Bexley 8–12 October**, then Redhill from 15 October, which is outside London. Because each stop lasts days rather than weeks, the practical advice is to check which park is nearest now rather than planning around a date.
-
-**Prices could not be obtained:** the site has a "Prices & Seating" section, but no figures render in it. **No London Christmas season is advertised**, which is worth knowing if you are planning December.
 
 ### The Vaults
 
@@ -510,14 +506,10 @@ The Playhouse has been reconfigured in the round, with the audience seated as pa
 
 The show has returned to its home in the Hippodrome's own theatre, and performance times are more frequent than most: **Wednesday 7pm; Thursday and Friday 7pm and 10pm; Saturday 4pm, 7pm and 10pm; Sunday 4pm and 7pm.** Tickets are **from £42** through official theatre channels — third-party agents quote from £62 for the same seats, so **book through the Hippodrome or an official theatre agent** rather than the first result you find.
 
-**It is strictly over-18s, and valid ID is required for every ticket holder** simply to enter the Hippodrome, not just the show — a casino rule rather than a theatre one, and the most common reason people get turned away.
-
-The **magicmikelondon.com domain is dead**; book via the venue.
-
 ### Three more that listings still get wrong
 
 * **Bunga 90**, 167 Drury Lane — **the old Bunga Bunga cabaret no longer exists.** The Covent Garden site closed for a full overhaul and **relaunched as Bunga 90 on 18 September 2025** as a 90s-themed karaoke and pizza bar. Weekend brunch is £52 a head and the pre-theatre menu £26; karaoke room rates are not published. **Standing drinks areas are 21+ for groups.** The Battersea original closed after eleven years when its Wandsworth lease expired.
-* **She Soho**, 23a Old Compton Street — a lesbian and queer women's bar, now under the Ku Bar group, which describes itself as **"event-led, DJ-driven" and does not run a cabaret bill.** Regular nights are Ruby Tuesday, SING! Karaoke and the Sapphic Sunday Quiz. Note the old shesoho.com domain is parked and for sale; the live page sits on the Ku Bar site.
+* **She Soho**, 23a Old Compton Street — a lesbian and queer women's bar, now under the Ku Bar group, which describes itself as **"event-led, DJ-driven" and does not run a cabaret bill.** Regular nights are Ruby Tuesday, SING! Karaoke and the Sapphic Sunday Quiz.
 * **Century Club**, 61–63 Shaftesbury Avenue — **members only, and no cabaret or variety programming was found at all.** It runs arts and culture events, panels, live music and rooftop parties. Several listings imply it is a cabaret room. It is not.
 
 ---
@@ -534,9 +526,7 @@ This is the section other guides leave out, and it is why people turn up at lock
 * **Proud Cabaret City**, 1 Minster Court — no public shows; its booking page offers only a private-events enquiry form. The proudcabaret.com domain now redirects to a Brighton site that returns "this store is currently unavailable."
 * **Haus of Cabaret London**, the successor brand — its store returns "this store is currently unavailable" and its events page reads "nothing planned right now."
 
-**No exact closing date was ever published for any of them**, and this guide will not invent one. What is documented is the financial picture around the group: **15 companies linked to Proud have been declared insolvent since 2010, owing £13.8m collectively**, against a **£535,000 Arts Council grant**, amid a **Cabaret Unpaid campaign over more than £100,000 in allegedly unpaid wages.**
-
-**The Glory closed on 31 January 2024**, after ten years at 281 Kingsland Road in **Haggerston**, for redevelopment. Its own site still says so and points visitors onward. **Its team reopened as The Divine on Friday 2 February 2024 — two days later — in Dalston**, taking LIPSYNC1000 and MAN UP with them. The two venues are often written about as though they were the same room in the same place. They were not: different building, different neighbourhood, same people.
+**The Glory closed on 31 January 2024**, after ten years on Kingsland Road in Haggerston. **The same team reopened as The Divine two days later, in Dalston**, taking LIPSYNC1000 and MAN UP with them — different building, different neighbourhood, same people.
 
 **The rest:**
 
