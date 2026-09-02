@@ -1,7 +1,7 @@
 ---
-title: "London Street Art: The 12 Banksys You Can Still See"
-seoTitle: "London Street Art & Banksy Map 2026: What Survives"
-description: "Twelve Banksys still standing in London, the six from the 2024 animal series that are gone, and where the city's other street art actually is."
+title: "Banksy and London Street Art: What's Still There"
+seoTitle: "Banksy in London 2026: What Survives + Street Art Map"
+description: "Twelve Banksys still standing and the ones that are gone, the two ticketed Banksy exhibitions, where the city's other street art actually is, and where to buy a print."
 heroImage: "../../assets/articles/london-street-art/london-street-art.jpg"
 heroImageAlt: "A large painted mural covering a brick wall on Bacon Street off Brick Lane"
 heroImageCredit: "Fred Romero"
@@ -30,6 +30,8 @@ faq:
 Most Banksy maps of London send you to walls where the work no longer exists. Pieces get removed, painted over, stolen, sold with the wall attached, or covered in perspex that makes them impossible to photograph.
 
 This guide **says which are gone**, which is the single most useful thing a street art guide can do.
+
+**It covers two things.** The first half is Banksy — what survives, what has been removed, and the two ticketed exhibitions showing work that has come off walls. The second half is the rest of London's street art, which is where most of the city's best painting actually is and none of which needs a ticket.
 
 **Twelve Banksys are still viewable as originals in situ**: the Cannon Street rat, the two Basquiat tributes, the two Foundry pieces now on the front of art'otel Hoxton, the Bermondsey fishing boy, the Chelsea elephants, the Walthamstow pelicans, the Charlton rhino, the Finsbury Park tree, the Stargazing Children on New Oxford Street, and Blind Patriotism at Waterloo Place. Everything else you will read about has been removed, stolen, boarded over, scrubbed off or replaced with a replica.
 
