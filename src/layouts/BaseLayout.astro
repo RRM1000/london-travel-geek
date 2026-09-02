@@ -239,6 +239,113 @@ const jsonLd = JSON.stringify(
         </script>
       </>
     )}
+    <!--
+      THE EVENTS THE ANALYTICS LOOP RUNS ON. Default GA4 reports pageviews and
+      not much else; none of the decisions we actually want to make - which
+      affiliate placement earns, which sections get read, what people search
+      for and fail to find - can be answered from that. These five events can.
+      Delegated from document, so no component emits anything itself and a new
+      affiliate link or contents entry is tracked the moment it carries the
+      attribute the site already uses for it.
+
+      Sends nothing unless window.gtag exists, and the block above only
+      defines it on the production hostname - so a laptop serving dist/ never
+      reports (the incident the hostname check exists for). Listeners on
+      localhost are inert.
+
+      What it cannot see: clicks inside the GetYourGuide inline widgets, which
+      are cross-origin iframes. Those live in GYG's partner dashboard. The
+      placement comparison here is between OUR anchors - sidebar card versus
+      the activity, event and hotel lists.
+    -->
+    <script is:inline>
+      (function () {
+        function track(name, params) {
+          if (typeof window.gtag === "function") window.gtag("event", name, params);
+        }
+
+        // The section a link sits under: the nearest h2 above it. The injected
+        // lists (things-to-do, whats-on, where-to-stay) put their id on the
+        // heading, not a wrapper, so closest("section[id]") found nothing and
+        // every in-body link would have reported as plain "inline". Walking
+        // headings instead also means placement uses the same names as
+        // toc_click and section_reached.
+        function sectionOf(el) {
+          var heads = document.querySelectorAll(".article__body h2[id]");
+          var found = null;
+          for (var i = 0; i < heads.length; i++) {
+            if (heads[i].compareDocumentPosition(el) & Node.DOCUMENT_POSITION_FOLLOWING) {
+              found = heads[i].id;
+            } else {
+              break;
+            }
+          }
+          return found;
+        }
+
+        document.addEventListener("click", function (e) {
+          var t = e.target;
+          var a = t && t.closest ? t.closest("a[href]") : null;
+          if (!a) return;
+
+          if (a.hasAttribute("data-affiliate")) {
+            var row = a.closest("li");
+            var nameEl = row && row.querySelector(".sidebar-book__name, h3, strong");
+            track("affiliate_click", {
+              network: a.getAttribute("data-affiliate"),
+              placement: a.closest(".sidebar-book") ? "sidebar" : (sectionOf(a) || "inline"),
+              venue: ((nameEl || a).textContent || "").trim().slice(0, 80),
+            });
+          } else if (a.hasAttribute("data-toc-link")) {
+            track("toc_click", { section: a.hash.slice(1) });
+          } else if (a.closest("[data-site-header]") && !a.classList.contains("skip-link")) {
+            track("nav_click", {
+              label: (a.textContent || "").trim().replace(/\s+/g, " ").slice(0, 60),
+              href: a.getAttribute("href"),
+            });
+          }
+        }, true);
+
+        // How far down a guide people actually get. Observes the same targets
+        // the contents list points at, so toc_click and section_reached agree
+        // on what a "section" is - including the ones the layout injects.
+        //
+        // Deferred to DOMContentLoaded: this script sits in <head>, and on the
+        // first pass it queried the contents list before the body had been
+        // parsed, found nothing, and silently observed nothing. The click
+        // handler above survives that because it resolves its targets lazily.
+        function watchSections() {
+          if (!("IntersectionObserver" in window)) return;
+          var ids = [];
+          document.querySelectorAll(".toc--desktop [data-toc-link]").forEach(function (l) {
+            var id = l.hash.slice(1);
+            if (id && ids.indexOf(id) < 0) ids.push(id);
+          });
+          var targets = ids.map(function (id) { return document.getElementById(id); }).filter(Boolean);
+          if (targets.length) {
+            var seen = {};
+            var io = new IntersectionObserver(function (entries) {
+              entries.forEach(function (en) {
+                if (!en.isIntersecting || seen[en.target.id]) return;
+                seen[en.target.id] = true;
+                track("section_reached", {
+                  section: en.target.id,
+                  index: targets.indexOf(en.target) + 1,
+                  of: targets.length,
+                });
+              });
+            }, { rootMargin: "0px 0px -40% 0px" });
+            targets.forEach(function (el) { io.observe(el); });
+          }
+        }
+
+        if (document.readyState === "loading") {
+          document.addEventListener("DOMContentLoaded", watchSections);
+        } else {
+          watchSections();
+        }
+      })();
+    </script>
   </head>
   <body data-site={activeSite.id}>
     <a class="skip-link" href="#main-content">Skip to content</a>
