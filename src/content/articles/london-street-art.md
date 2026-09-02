@@ -228,6 +228,44 @@ Dozens of murals along and around the high street, coordinated locally over seve
 
 ---
 
+## Seeing Banksy indoors
+
+Everything else in this guide is on a wall in the street, free, and might be gone next week. These two are the opposite — ticketed rooms with authenticated originals in them, which is the only way to see the early work that has been prised off walls and sold.
+
+**Neither is run by Banksy.** Both are privately assembled collections of resale pieces, mounted commercially. That is not a criticism, but it is the thing to understand before you pay: you are seeing a collector's holdings, not an artist's show.
+
+### The Art of Banksy, Soho
+
+*£19.50 · 100 Charing Cross Road WC2H 0JG · **closes 29 September***
+
+**Over 150 pieces** — prints, unique works and ephemera — billed as the largest collection of original and authenticated Banksy works anywhere, and the operators put it at 1.5 million visitors across 15 cities. It has already done London twice, in Covent Garden and on Regent Street, and this Soho run is the last of it.
+
+> ⚠️ **It closes on 29 September and it is not coming back to this address.** If Banksy is the reason you are reading this page, that is the deadline. The site does still carry at least one plainly out-of-date notice, so confirm the date when you book.
+
+**Ticket prices include the booking fee but a £2.50 transaction fee is added on top.** General admission **£19.50**, students £15, **under-12s free**, 12–16s £15, groups of six or more £15 a head, school groups £10 a student with a free adult per ten.
+
+**Open Mon–Fri 11am–9pm, Sat 10am–9pm, Sun 10am–8pm**, last admission an hour before closing — the 9pm closes make it one of very few art things in London you can do after dinner.
+
+**Practical oddities worth knowing.** It is fully wheelchair accessible but deliberately **low-lit**. There is **no cloakroom** and large bags are refused, with bags searched on entry. It is **cashless**. Photographs are encouraged without flash, but **pens, pencils and markers are banned outright** — so no sketching, which catches out art students every week. There is a café, but no food or drink inside the exhibition itself.
+
+### Moco Museum London, Marble Arch
+
+*From £16.90 · Marble Arch 1-4, W1H 7EJ · daily 10am–7pm*
+
+The permanent one. Moco is a private modern-art museum with sister sites in Amsterdam and Barcelona, and its London building sits beside Marble Arch. **Banksy is the anchor but not the whole show** — Basquiat, Warhol and a rotating contemporary programme share the floors, which is the difference between this and a single-artist exhibition.
+
+**Allow 90 to 120 minutes**, which is their own estimate and about right for the building.
+
+**Tickets start at £16.90** and run through roughly £23.90 and £28.90 tiers depending on the day and what is bundled; booking online saves up to £5 a ticket against the door. **Under-4s go free.**
+
+**Open every day, 10am to 7pm**, which makes it the more reliable of the two — no closing date, no residency to run out. Marble Arch is the nearest station.
+
+### The gift shops
+
+**Both have one, and they are the realistic souvenir answer.** Moco's shop is a substantial part of the visit rather than a rack by the exit, and The Art of Banksy sells prints and merchandise alongside the exhibition. Neither sells original Banksy work — for that, see **Where to buy it** below — but a poster from either costs a fraction of a Di-Faced Tenner and is honestly labelled as what it is.
+
+---
+
 ## Where to buy it
 
 There are two completely separate markets here and they have almost nothing to do with each other.
@@ -276,6 +314,7 @@ There are two completely separate markets here and they have almost nothing to d
 * **Walk it yourself.** Shoreditch, Hackney Wick, Camden, Brixton, Croydon and Penge all reward an aimless hour, and everything in this guide is on a public street.
 * **Guided tours** run roughly £15–£30 and are worth it once, because the good guides know which pieces are painted over what, and who fell out with whom. The free walking tours are tip-based rather than actually free.
 * **Leake Street tunnel** under Waterloo is legal, free, open all hours, and repainted constantly — the only place in London you can watch it being made.
+* **The two indoor shows are the exception to the free rule.** The Art of Banksy is £19.50 and closes 29 September; Moco Museum is from £16.90 and runs year-round. Both have gift shops.
 * **Buying it is a different question entirely.** A print by a working street artist from a Shoreditch gallery runs from the low tens to a few hundred pounds. A resale Banksy starts around £2,450 for a Di-Faced Tenner and climbs steeply from there. See **Where to buy it** above.
 * **Nothing here is permanent.** Everything in this guide was checked in August 2026 and a piece can go the week after publication, which is the nature of the form rather than a flaw in it.
 
