@@ -161,8 +161,6 @@ const indexUrl = `/search-index.json?v=${stamp}`;
   // top of the results instead, which is deterministic and where the best
   // matches are. Only moves the page when they are actually below that point.
   let lastRenderedQuery: string | null = null;
-  let lastTrackedQuery = "";
-  let trackTimer: number | undefined;
 
   function anchorToResults() {
     const form = document.querySelector<HTMLElement>(".search__form");
@@ -218,23 +216,6 @@ const indexUrl = `/search-index.json?v=${stamp}`;
       ? `${shown.length} result${shown.length === 1 ? "" : "s"} for “${q}”${shown.length > 100 ? " — showing the first 100" : ""}`
       : `Nothing matched “${q}”. Try a place name, a cuisine, or a topic like “Oyster card”.`;
 
-    // Report the search once the reader has stopped typing, with what it
-    // found. Zero-result queries are the content-gap list. Tracked against
-    // its own last-query, not lastRenderedQuery: the ?q= landing render runs
-    // before the index has loaded and returns early above, and the re-render
-    // when it arrives would otherwise see the query as unchanged and never
-    // report it. Inert off production - see the tracking note in BaseLayout.
-    if (q !== lastTrackedQuery) {
-      window.clearTimeout(trackTimer);
-      trackTimer = window.setTimeout(() => {
-        lastTrackedQuery = q;
-        (window as any).gtag?.("event", "site_search", {
-          query: q.slice(0, 100),
-          results: shown.length,
-          zero_results: shown.length === 0 ? 1 : 0,
-        });
-      }, 1200);
-    }
 
     setResults(capped
       .map(({ r }) => {
