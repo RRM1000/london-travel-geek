@@ -116,7 +116,7 @@ The Great Hall is enormous and largely undivided, so it behaves more like a fest
 
 The programming is the unusual part. Classical, jazz, contemporary composition, film scores played live and touring international artists all share the same season, so the audience changes completely week to week. Sightlines are good from almost everywhere because the hall is wide and shallow rather than deep.
 
-**Allow ten minutes to find it.** The Barbican estate is famously hard to navigate and the yellow line painted on the ground from the Tube exists for exactly that reason. There are bars and a restaurant on site, and the conservatory upstairs is free on the Sundays it opens.
+**Allow ten minutes to find it.** The Barbican estate is famously hard to navigate and the yellow line painted on the ground from the Tube exists for exactly that reason. There are bars and a restaurant on site, and the conservatory upstairs is free on the selected dates it opens, though it needs a timed ticket booked that morning.
 
 
 ---

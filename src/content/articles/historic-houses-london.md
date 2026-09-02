@@ -356,7 +356,7 @@ Historic houses are the one category where London does not give everything away 
 * **Sir John Soane's is very small** and entry is sometimes timed. Go early.
 * **Buckingham Palace is summer-only** and sells out months ahead.
 * **Historic Royal Palaces membership** covers the Tower, Hampton Court, Kensington Palace and Kew Palace — worth it if you are doing two or more.
-* **The Fitzrovia Chapel and Barbican Conservatory** open limited days only. Check before travelling.
+* **The Fitzrovia Chapel and Barbican Conservatory** open on selected dates only, and the Conservatory needs a free timed ticket booked on the day. Check before travelling.
 
 ---
 

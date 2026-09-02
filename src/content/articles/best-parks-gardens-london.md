@@ -18,7 +18,7 @@ faq:
   - q: "What is the best park in London?"
     a: "Depends what you want. Richmond Park is the largest and has free-roaming deer. Hampstead Heath has the swimming ponds and the Parliament Hill view. Regent's Park has the best formal gardens. All three are free."
   - q: "Which London gardens are free?"
-    a: "All eight Royal Parks, Postman's Park, St Dunstan in the East, the Barbican Conservatory on open days, the Crystal Palace Dinosaurs and most local parks. Kew Gardens and Chelsea Physic Garden charge."
+    a: "All eight Royal Parks, Postman's Park, St Dunstan in the East, the Crystal Palace Dinosaurs and most local parks. The Barbican Conservatory is free but needs a timed ticket booked on the day. Kew Gardens and Chelsea Physic Garden charge."
   - q: "Where can I swim outdoors in London?"
     a: "Hampstead Heath has three swimming ponds — men's, women's and mixed — open year-round. London Fields Lido and Brockwell Lido are heated 50-metre outdoor pools. The Serpentine in Hyde Park has a lido too."
   - q: "What are the Crystal Palace Dinosaurs?"
@@ -194,13 +194,15 @@ The park is named for the postal workers from the old General Post Office headqu
 
 ### Barbican Conservatory, City of London
 
-*Free on open days*
+*Free, but ticketed · selected dates only*
 
-Over **1,500 species of tropical plants** and a pond of koi and terrapins, grown inside the concrete fly tower of the Barbican theatre.
+Around **1,500 species of plants and trees**, some rare or endangered in the wild, and a pond of koi and terrapins — grown across 23,000 square feet under a steel and glass roof on Level 3 of the Barbican.
 
-It is the **second largest conservatory in London after Kew**, and the least likely one: the glasshouse exists because the theatre's fly tower had to be concealed, and someone decided the way to do it was to plant it.
+It is the least likely garden in London: the glasshouse exists because the theatre's fly tower had to be concealed, and someone decided the way to do it was to plant it.
 
-**Opening is limited and changes** - usually Sundays and selected days, sometimes with free tickets released in advance. Check the Barbican's own listings before you travel rather than turning up.
+> ⚠️ **It is free, but you still need a ticket, and turning up does not work.** The Conservatory opens on **selected dates only** — it is closed on any date not listed — and **a limited number of day tickets are released online from 9.30am on each open day**, for timed entry slots. Check the Barbican's own listing for the dates, then book.
+
+**Two practical things.** **Large bags, luggage, prams and buggies are not allowed**, and there is nowhere to leave them. And there are **steps in parts of the Conservatory**, so wheelchair access is limited. Guide dogs are welcome; other dogs are not.
 
 ### Crystal Palace Dinosaurs
 
@@ -299,7 +301,7 @@ It is small - a couple of hours is plenty - and **opening is seasonal**, so chec
 
 * **All eight Royal Parks are free** and open dawn to dusk. Gates close at nightfall and the times change monthly.
 * **Richmond Park's deer are wild animals.** Keep well back, especially in autumn.
-* **The Barbican Conservatory opens on limited days only** — usually Sundays and some bank holidays. Check first.
+* **The Barbican Conservatory is free but ticketed**, opens on selected dates only, and releases day tickets online from 9.30am on the day. Check its listing and book — you cannot walk in.
 * **Kew is a half-day minimum** and cheaper booked online.
 * **Isabella Plantation peaks in late April and May.** Outside that it is pleasant rather than remarkable.
 

@@ -78,7 +78,7 @@ Eat, shop and stay dry.
 
 ## Warm and strange
 
-* **Barbican Conservatory** — **1,500 species of tropical plants** inside the theatre's concrete fly tower. Free on open days, which are limited — check first.
+* **Barbican Conservatory** — around **1,500 species of plants and trees** inside the theatre's concrete fly tower. Free, but it opens on selected dates only and needs a timed ticket, released online from 9.30am on the day.
 * **Kew's glasshouses** — the Palm House and Temperate House are heated, enormous and humid.
 * **SEA LIFE London Aquarium**, South Bank — indoors, and the shark tunnel does not care about the weather.
 * **The Attendant**, Fitzrovia — coffee in a Victorian public lavatory.
@@ -109,7 +109,7 @@ Rain is the correct excuse for a proper meal.
 
 A few places in London are big enough to spend a full wet day in without stepping out at all.
 
-**The Barbican** is the best of them: two art galleries, three cinemas, a concert hall, a theatre, a library, a conservatory full of tropical plants open on Sundays, and a network of raised walkways connecting the lot. You can arrive at Barbican station and not see weather again until you leave.
+**The Barbican** is the best of them: two art galleries, three cinemas, a concert hall, a theatre, a library, a conservatory full of tropical plants open on selected dates, and a network of raised walkways connecting the lot. You can arrive at Barbican station and not see weather again until you leave.
 
 **The V&A** is 145 galleries across seven floors and a courtyard café in the world's first museum restaurant. **The British Museum's** Great Court is covered by the Foster roof and is a genuinely pleasant place to sit and wait out a shower.
 
@@ -136,7 +136,7 @@ Rain stops mattering once you are already wet.
 * **Museums are quietest in the last two hours** before closing, and everyone else has the same rainy-day idea at 11am.
 * **South Kensington station connects by tunnel** to the Natural History, Science and V&A museums. You never go outside.
 * **Leadenhall Market and the Silver Vaults are weekday-only.**
-* **The Barbican Conservatory opens limited days.** Check before travelling.
+* **The Barbican Conservatory opens on selected dates and needs a free timed ticket**, released online from 9.30am that morning. Check the listing before travelling.
 * **The Tube is warm and dry** and half of central London is walkable underground if you plan it.
 
 ---
