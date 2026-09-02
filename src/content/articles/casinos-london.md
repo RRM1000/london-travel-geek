@@ -27,6 +27,10 @@ faq:
     a: "Smart casual, and far less strict than people expect. Grosvenor says there is no need to dress like James Bond. The Empire and The Sportsman both allow jeans and trainers as long as they are not scruffy, and the Hippodrome has no set dress code at all. What gets refused is specific: sportswear, football shirts, vest tops, caps and soiled clothing."
   - q: "What is the cheapest casino to play in London?"
     a: "Horizons in Leicester Square is the only West End room that publishes its table minimums — roulette from £2, baccarat and three-card poker from £5, blackjack from £10, slots from 1p. Genting Stratford runs £1 live roulette, and Grosvenor's electronic roulette starts at 10p a bet. Every table carries a sign stating its minimum."
+  - q: "How many zeros are on the roulette wheels in London casinos?"
+    a: "British casinos overwhelmingly use single-zero wheels — 37 pockets, and a house edge of 2.7%. A double-zero American wheel has 38 pockets and a house edge of 5.26%, nearly twice as expensive for the same bet. Confusingly, several London casinos advertise American roulette, which in Britain usually describes the table layout rather than a double-zero wheel. No London casino publishes the house edge on its own tables, so count the zeros on the wheel before you sit down."
+  - q: "What blackjack rules do London casinos play?"
+    a: "The British norm is blackjack paying 3:2, the dealer standing on soft 17, four to six decks, and no hole card — the dealer does not take a second card until every player has finished. Played with basic strategy that is a house edge of around 0.5%, the best odds on the floor. Watch for tables paying 6:5 instead of 3:2, which costs you several times more for the same hand and is signposted on the table."
   - q: "Can you go into a London casino without gambling?"
     a: "Yes, and several are worth it for that alone. The Hippodrome has nine bars, two restaurants and a theatre across seven floors. The Empire's sports bar runs around the clock. You still need to be over 18 and carrying ID, because the age limit covers the whole building rather than only the gaming floor."
 ---
@@ -35,7 +39,7 @@ Three of the grandest gambling rooms in Mayfair have gone since 2018. **The Cler
 
 That is the trouble with most casino guides to London: they were written while those rooms were open, and nobody went back. So what follows is not a ranking of glamour. It is a status, an address, and the rules that decide whether your night works.
 
-> 💡 **The Short Version:** **You do not need to be a member** — the 24-hour membership rule was abolished in 2005 and the big rooms now advertise free entry. **You do need photo ID**, every time, whatever your age. **The dress code is smart casual**, not black tie. **You cannot take photographs**, which is why there is no picture of a gaming floor on this page. **The Hippodrome** is the one to walk into first: 24 hours, free, and more to do in it than gamble.
+> 💡 **The Short Version:** **You do not need to be a member** — the 24-hour membership rule was abolished in 2005 and the big rooms now advertise free entry. **You do need photo ID**, every time, whatever your age. **The dress code is smart casual**, not black tie. **You cannot take photographs**, which is why there is no picture of a gaming floor on this page. **Count the zeros on the roulette wheel** — one is 2.7%, two is 5.26%. **The Hippodrome** is the one to walk into first: 24 hours, free, and more to do in it than gamble.
 
 *Every venue checked against its own website on 2 September 2026.*
 
@@ -140,6 +144,20 @@ Once no more bets is called, the layout belongs to the dealer. **Do not touch or
 
 **Minimums are posted, not secret** — every table carries a sign stating its minimum. At the cheap end: **Horizons runs roulette from £2, blackjack from £10 and slots from 1p; Stratford has £1 live roulette; Grosvenor's electronic roulette starts at 10p.**
 
+### The odds, which nobody publishes
+
+**Not one London casino states the house edge on its own tables.** The operators publish general explainers — Metropolitan's own guide sets out both roulette variants and even advises readers to pick the better one — but none of them says which wheel is on its floor. You have to look.
+
+**Roulette: count the zeros.** A single-zero wheel has 37 pockets and a **house edge of 2.7%**. A double-zero wheel has 38 and a **house edge of 5.26%** — nearly twice as expensive for exactly the same bet. British casinos overwhelmingly run single-zero wheels, so the odds here are better than in Las Vegas by default.
+
+> ⚠️ **"American roulette" in a British casino usually means the table, not the wheel.** It describes the American-style layout, with the wheel at one end and players around it — not the double-zero American wheel. Do not assume either way: **look at the wheel and count the zeros before you sit down.** It takes three seconds and it doubles or halves what the game costs you.
+
+**Blackjack: the payout is the number that matters.** The British norm is **blackjack pays 3:2**, the **dealer stands on soft 17**, four to six decks, and **no hole card** — the dealer does not take a second card until every player has finished, which is different from the American game and changes how you play against a possible dealer blackjack. Played that way with basic strategy, the house edge is around **0.5%**, the best odds in the building.
+
+**The number to watch for is 6:5.** A table paying 6:5 on blackjack instead of 3:2 pays you less for the same hand and pushes the house edge up several times over. It is signposted on the table, and it is the single most expensive detail a casual player misses.
+
+**Everything else is worse, and that is the point.** The house has an edge on every game in the building, and the edge is what pays for the building.
+
 ### Tipping
 
 Tipping is not expected and no London casino asks for it. If you want to, **place chips on the table and tell the dealer they are for them — never into their hand**, which Grosvenor's own guidance calls frowned upon. Do not push cash across the felt either; the table deals in chips.
@@ -172,7 +190,7 @@ The Grand Casino fills the ground floor of a 1900 variety theatre, the original 
 
 *5–6 Leicester Square, WC2H 7NA · Leicester Square 2 mins · 24/7 · free entry*
 
-**The Vegas-styled one, and the busiest room in London most nights.** Metropolitan Gaming's flagship spreads over three levels off the square, running blackjack, American roulette, punto banco, slots and electronic games, with a poker room working cash games and tournaments around the clock.
+**The Vegas-styled one, and the busiest room in London most nights.** Metropolitan Gaming's flagship spreads over three levels off the square, running blackjack, roulette, punto banco, slots and electronic games, with a poker room working cash games and tournaments around the clock.
 
 The bars are a genuine draw in their own right — a **sports bar open 24/7**, a balcony bar over the square, and a Chinese kitchen.
 
@@ -184,7 +202,7 @@ The bars are a genuine draw in their own right — a **sports bar open 24/7**, a
 
 **The only casino in the West End that publishes what it costs to sit down**, which after the rest of this list deserves rewarding: **roulette from £2, baccarat and three-card poker from £5, blackjack from £10, slots from 1p.**
 
-It is an independent, smaller and friendlier than its neighbours — American roulette, baccarat, blackjack, three-card poker and Heads Up Hold'em, two late-night bars, a shisha terrace, and a restaurant cooking over open-fire charcoal with tables out on the square.
+It is an independent, smaller and friendlier than its neighbours — roulette, baccarat, blackjack, three-card poker and Heads Up Hold'em, two late-night bars, a shisha terrace, and a restaurant cooking over open-fire charcoal with tables out on the square.
 
 **Slots open at 10am; live tables run 11am to 6am.** Free entry, no membership, photo ID if you look under 25. Smart casual, and it names what is refused: sportswear, football shirts, soiled clothing.
 
@@ -202,7 +220,7 @@ Around forty slots include the £20,000 jackpot games, alongside Grosvenor's usu
 
 *93–107 Shaftesbury Avenue, W1D 5DY · Leicester Square 4 mins · 12pm–5am*
 
-**The most baccarat-led room in central London**, and the one to choose if that is the game you came for. Alongside standard baccarat it deals **Squeeze Baccarat**, with blackjack, American roulette, live e-tables and slots carrying a £10,000 jackpot.
+**The most baccarat-led room in central London**, and the one to choose if that is the game you came for. Alongside standard baccarat it deals **Squeeze Baccarat**, with blackjack, roulette, live e-tables and slots carrying a £10,000 jackpot.
 
 It is smaller and less theatrical than the Leicester Square giants, which is rather the point — it trades on being relaxed, on a stretch of Shaftesbury Avenue where everything else is a theatre or a restaurant.
 
@@ -264,7 +282,7 @@ The food is a genuine reason to come rather than a convenience, with a lounge ba
 
 *24 Hertford Street, W1J 7SA · Hyde Park Corner 6 mins · 12pm–6am*
 
-**The most straightforwardly beautiful gaming floor in Mayfair** — polished marble and plush interiors, running American roulette, blackjack, baccarat and poker, with VIP tables and private rooms behind them.
+**The most straightforwardly beautiful gaming floor in Mayfair** — polished marble and plush interiors, running roulette, blackjack, baccarat and poker, with VIP tables and private rooms behind them.
 
 What makes it useful to a visitor is the rest of the building: a restaurant and a **teppanyaki bar**, both 6.30pm to 2am, and a lounge bar from 6.30pm until late with live DJs. **The lounge bar states plainly that membership is not required** — so this is the Mayfair club you can book a drink in without joining anything.
 
@@ -410,6 +428,7 @@ If you want the decision taken out of your hands, **SENSE** is the industry's na
 * **The hours are not what the sign says.** St Giles and Bayswater run croupiers only from noon to 6am, Genting Cromwell Road from 2pm, and the Palm Beach and Chinatown from 1pm.
 * **Bring photo ID even if you are visibly forty.** The Empire asks everyone after 9pm, Stratford asks everyone at the door, and the age limit covers the bars and restaurants too.
 * **Put your phone away on the gaming floor.** Photography is prohibited and phone use at the tables is prohibited.
+* **Check the wheel and the blackjack payout.** One zero costs you 2.7%, two costs 5.26%. Blackjack at 3:2 is the best bet in the building; 6:5 is not.
 * **Cheap is genuinely cheap.** £1 live roulette at Stratford, £2 roulette at Horizons, 10p electronic roulette at Grosvenor, 1p slots — and every table posts its minimum.
 * **For a non-gambler, the Hippodrome is the visit.** Seven floors, nine bars, two restaurants, three roof terraces and a theatre, free to walk into, at any hour of any day but Christmas.
 
