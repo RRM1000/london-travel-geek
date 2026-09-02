@@ -3,7 +3,7 @@ title: "Heathrow Airport to London: Every Transport Option Compared"
 seoTitle: "Heathrow Airport to London: Transport Guide"
 description: "Compare the Elizabeth line, Tube, Heathrow Express, coaches and taxis from Heathrow, with 2026 fares, terminals and routes for key London areas."
 publishedAt: 2026-07-28
-updatedAt: 2026-08-02
+updatedAt: 2026-09-02
 sites:
   - london
 canonicalSite: london
@@ -22,6 +22,13 @@ heroImageCredit: "KTo288"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:Heathrow_T5_exterior.JPG"
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
+# Answers the question this guide is actually shown for in Google: six phrasings of
+# "can I use an Oyster card on the Heathrow Express", all landing here at position ~49
+# with no heading to match. Rule and prices verified against heathrowexpress.com's
+# pay-as-you-go page on 2 September 2026.
+faq:
+  - q: "Can you use an Oyster card on the Heathrow Express?"
+    a: "Yes. Tap in and out at the barriers exactly as you would on the Tube, and you are charged the £26 walk-up single — the same as tapping a contactless bank card or phone. A Railcard loaded onto your Oyster applies its discount. What you do not get is TfL pricing: Heathrow Express sits outside the daily cap and Travelcards, so the tap counts for nothing towards them. If you know your date, a £10 advance single booked 30 or more days ahead is the cheap way on; otherwise the Elizabeth line (£15.50, and it counts towards your cap) or the Piccadilly line (£5.90 peak, £4.00 off-peak) beat it on price."
 ---
 
 When arriving at London Heathrow (LHR), the fastest-looking train to Paddington isn't necessarily the fastest route to your hotel door. While the Heathrow Express ends strictly at Paddington, the **Elizabeth line** and **Piccadilly line** cross directly through Central London—frequently saving you a complex station transfer and second train fare.
