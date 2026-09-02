@@ -76,6 +76,10 @@ No bookings at peak weekend times. The wait is real and worth it.
 
 **No bookings at weekend lunch**, which is the whole character of the place: the busiest dim sum service in London, a queue down Baker Street, and a room that turns tables fast enough to make it bearable. Loud, built for groups and families, and eight minutes from Bond Street.
 
+![Four har gau prawn dumplings in a bamboo steamer, their pleated translucent wrappers showing the prawn inside](../../assets/articles/best-dim-sum-london/royal-china-har-gau.jpg)
+
+*Har gau at Royal China. The test of any dim sum kitchen is whether the wrapper holds together while still being thin enough to see through.*
+
 ### A. Wong, Victoria
 
 *££££ · 7 min from Victoria · two Michelin stars*
@@ -95,6 +99,10 @@ The only **two-Michelin-starred Chinese restaurant in Europe**. Andrew Wong work
 Steamed and grilled, made fresh on site each day rather than bought in, which is not true of everywhere on Lisle Street.
 
 It takes groups, dates and families equally well, and it is **two minutes from Leicester Square** — the easiest room here to reach and the least likely to disappoint someone who does not eat dim sum often.
+
+![Cheung fun rice noodle rolls filled with fried dough sticks, sliced and sitting in sweet soy on a long white plate](../../assets/articles/best-dim-sum-london/tao-tao-ju-cheung-fun.jpg)
+
+*Cheung fun at Tao Tao Ju — rice noodle rolled around fried dough, cut into lengths and flooded with sweet soy.*
 
 ### Yauatcha, Soho
 
@@ -190,6 +198,10 @@ South London's proper dim sum hall — a **full-size Cantonese banqueting room**
 
 **££**, seven minutes from Elephant & Castle, and roughly half the central mark-up for the same food.
 
+![Eight bamboo steamers crowded onto a table, holding har gau, siu mai, char siu bao and yellow-wrapped dumplings](../../assets/articles/best-dim-sum-london/dragon-castle-table.jpg)
+
+*A table at Dragon Castle. Ordering like this in Chinatown costs roughly double.*
+
 ### Pearl Liang, Paddington
 
 *£££ · 2 min from Paddington*
@@ -241,6 +253,10 @@ Because it is bar-led rather than a banquet hall, it is **the one on this page t
 **Walk-in queues are long at peak**, and the Centre Point site is the larger of the two with a bar lounge, so head there if the Covent Garden line looks hopeless.
 
 £££ and loud, book weeks ahead for a weekend, and five minutes from Covent Garden.
+
+![Five xiao long bao in a bamboo steamer lined with cloth, one topped with a spoonful of yellow crab roe](../../assets/articles/best-dim-sum-london/din-tai-fung-xiao-long-bao.jpg)
+
+*Xiao long bao at Din Tai Fung, one of them crab. The eighteen pleats are the house standard and the reason for the glass-walled kitchen.*
 
 ## What to know
 
