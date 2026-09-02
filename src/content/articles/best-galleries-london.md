@@ -197,7 +197,15 @@ Frederic Leighton's studio-house, built around an Arab Hall lined with Damascus 
 
 *Free; exhibitions ticketed*
 
-The permanent collection is free, inside the old Commonwealth Institute's hyperbolic paraboloid roof.
+**The permanent gallery is free**, and it is the reason to come — *Designer Maker User*, around a thousand objects tracing modern design from the Anglepoise lamp to road signage, on the top floor.
+
+The building matters as much as the collection. It is the **old Commonwealth Institute of 1962**, kept for its hyperbolic paraboloid roof — a swooping concrete curve, Grade II* listed — with the interior gutted and rebuilt in oak around a full-height atrium.
+
+![The oak-lined atrium of the Design Museum, looking up to the free top-floor gallery beneath the swooping concrete roof of the former Commonwealth Institute](../../assets/articles/best-galleries-london/design-museum-atrium.jpg)
+
+*The atrium, with the free permanent gallery on the top floor. The concrete roof above is the 1962 Commonwealth Institute, kept when everything beneath it was replaced.*
+
+**Free to walk into, with temporary exhibitions ticketed separately** — and those are usually the ones being advertised, so it is worth knowing you can see the permanent collection without paying anything. It sits on the Holland Park side of Kensington High Street, about eight minutes from the station.
 
 ### Colosseum: The Legendary Arena and Space Explorers, Camden
 
