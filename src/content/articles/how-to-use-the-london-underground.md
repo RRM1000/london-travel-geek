@@ -359,12 +359,13 @@ London Underground trains operate 7 days a week, with operating hours varying sl
 ## Night Tube & weekend closures
 
 ### Night Tube (24-Hour Weekend Travel)
-On **Friday and Saturday nights**, 24-hour service operates across five core lines:
+On **Friday and Saturday nights**, 24-hour service operates across six lines:
 * **Central Line**
 * **Jubilee Line**
 * **Northern Line** *(Charing Cross branch)*
 * **Piccadilly Line**
 * **Victoria Line**
+* **Windrush Line** *(the former East London Overground route, which TfL now counts as Night Tube)*
 
 Standard off-peak fares apply, and night journeys count towards the previous day's daily capping threshold (the TfL fare day runs from 04:30 to 04:29).
 

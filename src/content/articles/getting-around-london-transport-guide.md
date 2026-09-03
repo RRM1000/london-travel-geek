@@ -59,7 +59,7 @@ For detailed pricing, peak hours, and capping rules, read our companion guide to
 
 The London Underground covers **11 color-coded lines** serving 272 stations. It is almost always the fastest option for travelling within Central London (Zone 1 and Zone 2).
 
-* **Operating Hours:** Trains run from ~05:30 to midnight Monday through Saturday, with reduced hours on Sunday. The **Night Tube** operates 24 hours on Friday and Saturday nights across the Central, Jubilee, Northern, Piccadilly, and Victoria lines.
+* **Operating Hours:** Trains run from ~05:30 to midnight Monday through Saturday, with reduced hours on Sunday. The **Night Tube** operates 24 hours on Friday and Saturday nights across the Central, Jubilee, Northern, Piccadilly, Victoria and Windrush lines.
 * **Tapping In & Out:** Always tap your contactless card or Oyster card on the yellow reader at the ticket gates when entering AND exiting the station.
 * **Accessibility:** Newer stations (and Elizabeth line stations) have full step-free lift access, but many historic deep-level stations rely on stairs and escalators.
 

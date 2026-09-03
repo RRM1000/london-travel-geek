@@ -42,7 +42,7 @@ London's iconic red double-decker buses are far more than a scenic attraction—
 | **Sightseeing & Views** | 🌟 Top deck front seats offer scenic views | Underground in dark tunnels |
 | **Speed & Timing** | Subject to road traffic & diversions | High-speed, fixed schedules |
 | **Accessibility** | 100% low-floor with wheelchair ramps | ~33% step-free stations |
-| **Night Travel** | 24-hour routes & N-prefixed night buses | 24-hour Night Tube *(5 lines, Fri/Sat only)* |
+| **Night Travel** | 24-hour routes & N-prefixed night buses | 24-hour Night Tube *(6 lines, Fri/Sat only)* |
 | **Luggage Space** | Limited floor space for large suitcases | Dedicated luggage areas on newer lines |
 
 > 🚀 **When to take the bus:** Choose a bus for short hops (1–4 stops), when travelling with a stroller/wheelchair, when avoiding station stairs, or when taking in the sights. Take the Tube or Elizabeth line when heading to an airport or timed appointment.

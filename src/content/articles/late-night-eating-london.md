@@ -22,7 +22,7 @@ faq:
   - q: "Where is the best cheap late-night food in London?"
     a: "Ranoush Juice on Edgware Road for shawarma, Voodoo Ray's in Dalston for enormous pizza slices, and Original Lahore Kebab House in Whitechapel for lamb chops. All under £15."
   - q: "Does the Tube run all night?"
-    a: "The Night Tube runs Friday and Saturday on the Victoria, Jubilee, Central, Northern and Piccadilly lines. Night buses run every night and cover far more of London. Plan the journey home before you plan dinner."
+    a: "The Night Tube runs Friday and Saturday on the Victoria, Jubilee, Central, Northern, Piccadilly and Windrush lines. Night buses run every night and cover far more of London. Plan the journey home before you plan dinner."
   - q: "Which late-night places need booking?"
     a: "Duck & Waffle, even at 2am. Everywhere else here is walk-in, and the queues at Tayyabs and Ranoush are part of the experience."
 ---
@@ -180,7 +180,7 @@ Late-night prices in London usually go one of two ways: a nightclub markup, or t
 
 * **London closes early.** Most kitchens stop at 10pm. Assume nothing is open late unless it is on this list.
 * **Check before travelling.** Late opening is the first thing a restaurant cuts when it is quiet, and published times go stale fast.
-* **The Night Tube runs Friday and Saturday only**, on the Victoria, Jubilee, Central, Northern and Piccadilly lines. Night buses run every night and go further.
+* **The Night Tube runs Friday and Saturday only**, on the Victoria, Jubilee, Central, Northern, Piccadilly and Windrush lines. Night buses run every night and go further.
 * **Tayyabs is BYO** and there is an off-licence nearby. This is the cheapest good meal in this guide.
 * **Duck & Waffle needs a booking** even in the middle of the night.
 

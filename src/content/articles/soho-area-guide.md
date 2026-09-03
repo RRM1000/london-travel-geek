@@ -165,7 +165,7 @@ North–south restaurant streets running parallel through the middle of Soho, an
 
 **Best exit.** From Tottenham Court Road, use the **Dean Street** exit to come out directly in Soho rather than on Oxford Street.
 
-**Late night.** The Elizabeth line, Central, Victoria, Northern, Jubilee and Piccadilly lines all run a **Night Tube** on Friday and Saturday nights. Night buses run from Trafalgar Square and Oxford Circus every night. Details in the [Getting Around London guide](/articles/getting-around-london-transport-guide/).
+**Late night.** The Central, Victoria, Northern, Jubilee, Piccadilly and Windrush lines run a **Night Tube** on Friday and Saturday nights. The Elizabeth line does not — it runs later than the rest of the Tube but still stops. Night buses run from Trafalgar Square and Oxford Circus every night. Details in the [Getting Around London guide](/articles/getting-around-london-transport-guide/).
 
 ## How long to spend, and when to go
 
