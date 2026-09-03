@@ -42,6 +42,21 @@ A pastry and a coffee is also **one of the cheapest good breakfasts in London**,
 
 ## Where they are
 
+<details class="restaurant-map-shell" open>
+  <summary>
+    <span>Best bakeries in London map</span>
+  </summary>
+  <div class="restaurant-map" data-restaurant-map="bakeries-london" role="region" aria-label="Interactive map of the best bakeries in London">
+    <p>Loading the interactive map…</p>
+  </div>
+  <div class="restaurant-map-legend" aria-label="Map key">
+    <span><i class="restaurant-map-key restaurant-map-key--editorial" aria-hidden="true"></i> Recommended in this guide</span>
+  </div>
+  <noscript>
+    <p>The interactive map requires JavaScript. Nearest stations and walking times are listed against every entry below.</p>
+  </noscript>
+</details>
+
 | If you are near… | Where to go |
 | --- | --- |
 | **Covent Garden** | Arôme, Bageriet |
@@ -102,6 +117,9 @@ An East Dulwich bakery that has become the reason people cross south London on a
 ### Arôme Bakery, Covent Garden
 
 *French technique, East Asian flavours · Cited by 2 sources · Good Food Guide 2026*
+
+![Rows of egg custard tarts with glossy yellow filling in fluted pastry cases, on wire racks on a wooden bakery counter](../../assets/articles/best-bakeries-london/arome-bakery.jpg)
+*Egg tarts on the rack: Portuguese-Macanese custard set inside a laminated, croissant-style shell.*
 
 A French-Asian bakery on Endell Street from a team that trained in Paris and Hong Kong — and one of the few places in London doing both traditions properly rather than picking one.
 
@@ -191,6 +209,9 @@ Not in this year's fifty, and still among the best-loved rooms in London.
 
 *Go early · Cited by 4 sources*
 
+![A thick laminated pastry roll on a brown paper bag, cut open to show its many layers wrapped around a mushroom filling](../../assets/articles/best-bakeries-london/pophams.jpg)
+*The laminated pastries are made in the room; this one is mushroom, and the cut end shows the layers.*
+
 **Pastries at the counter and a small kitchen behind it**, so it works as breakfast and as lunch — which most bakeries in this guide do not.
 
 The **bacon and maple croissant** is the dish Pophams is known for, and the laminated pastries around it are made in the room. The kitchen runs a short brunch menu, and there is fresh pasta at some sites in the evening.
@@ -230,6 +251,9 @@ A Bermondsey bakery supplying half the good restaurants in south London, with a 
 ### Fortitude Bakehouse, Bloomsbury
 
 *Small and excellent · Cited by 3 sources*
+
+![Trays of pain au chocolat, sugar-dusted morning buns and cinnamon swirls on a bakery counter, with a baker in an apron working behind it](../../assets/articles/best-bakeries-london/fortitude-bakehouse.jpg)
+*A deliberately short range, all made in the room: pain au chocolat, raspberry morning buns, cinnamon sticky buns.*
 
 **A small Bloomsbury bakehouse a couple of minutes from Russell Square** — which is a short list, in a part of London badly served for anything good to eat.
 
