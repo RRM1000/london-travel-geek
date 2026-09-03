@@ -16,6 +16,12 @@ tags:
   - money saving
   - planning
 draft: false
+heroImage: "../../assets/articles/tax-free-shopping-london/harrods-brompton-road.jpg"
+heroImageAlt: "The terracotta facade of Harrods on Brompton Road in Knightsbridge on a wet day, with lit window displays along the ground floor"
+heroImageCredit: "chris.rycroft"
+heroImageSource: https://commons.wikimedia.org/wiki/File:Harrods_department_store_London.jpg
+heroImageLicense: "CC BY 2.0"
+heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0
 faq:
   - q: "Is Harrods tax-free for tourists?"
     a: "Only if Harrods ships your purchase abroad. Harrods runs a Tax-Free Shipping service at Knightsbridge — register with Customer Service on the Third Floor, or tell your personal shopper, before you start shopping — and UK VAT is deducted from your final receipt, with a flat-rate delivery charge added. There is no refund on anything you carry out of the building yourself."

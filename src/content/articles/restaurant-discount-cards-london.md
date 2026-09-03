@@ -16,6 +16,12 @@ tags:
   - food and drink
   - money saving
 draft: false
+heroImage: "../../assets/articles/restaurant-discount-cards-london/babel-grill-house-brick-lane.jpg"
+heroImageAlt: "The orange and red corner frontage of Babel Grill House on Brick Lane, next to a street-art mural"
+heroImageCredit: "Keith Page"
+heroImageSource: https://commons.wikimedia.org/wiki/File:Babel_Grill_House_40_Brick_Lane_2025-04-03.jpg
+heroImageLicense: "CC BY-SA 2.0"
+heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
 faq:
   - q: "Is Tastecard worth it in London?"
     a: "At £29.99 a year it pays for itself in under two meals, so for most people who eat out monthly, yes. The catch is availability rather than price: of its 635 London restaurants, only 193 accept the card on both a Friday and a Saturday, and 55% require you to book by phone in advance."
@@ -29,6 +35,14 @@ faq:
     a: "Assume not. Ello Group's terms say offers 'may not be available for use in conjunction with any other offers', Dine Club allows only one membership per visit, NeoTaste forbids combining deals, and Meerkat Meals warns that restrictions may apply to special menus. A restaurant's own fixed-price lunch is already the discount."
   - q: "How do you cancel a restaurant discount card?"
     a: "Tastecard and Gourmet Society cancel in the app, and both auto-renew until you do. NeoTaste cancels by email at the end of the billing cycle. Dine Club is the awkward one: you must telephone or email during office hours, and no later than three days before your renewal date."
+  - q: "Does a restaurant discount card include drinks?"
+    a: "It depends which offer the restaurant runs. \"25% off the total bill\" includes drinks, and Dine Club states that explicitly. \"50% off food\" does not. \"2-for-1\" applies to main courses only, cheaper one free. None of the dining offers cover takeaway — they are all eat-in only."
+  - q: "Do I have to book ahead to use a restaurant discount card?"
+    a: "Usually. Of Tastecard's 635 London restaurants, 347 — 55% — say you must telephone to book in advance. Every NeoTaste deal has to be booked in the app for a time slot. Dine Club asks you to mention the card when booking."
+  - q: "Is there a maximum party size?"
+    a: "Yes, and it varies by restaurant — commonly two, four or six diners. Only one membership can be used per table. Dine Club is blunt about it: restaurants are under no obligation to honour the card if the number is exceeded."
+  - q: "Will the restaurant actually honour the card?"
+    a: "Usually, but the schemes disclaim responsibility if not. Ello Group's terms say venues may withdraw or change offers at any time and that it accepts no liability for availability. NeoTaste says outright that it is not responsible if a restaurant refuses to honour a deal. Mention the card when you book, and again before you order — not when the bill arrives."
 ---
 
 **The card that costs £29.99 and the card that costs £79.99 are sold by the same company, from the same office, on the same VAT number — and 527 of their London restaurants are the same restaurants.** That is the single most useful thing to know before buying one.
@@ -53,7 +67,7 @@ Everything below was **read off each scheme's own website on 3 September 2026**,
 
 ## The comparison
 
-| | **Tastecard** | **Gourmet Society** | **Dine Club** | **NeoTaste** | **Meerkat Meals** |
+| | Tastecard | Gourmet Society | Dine Club | NeoTaste | Meerkat Meals |
 | --- | --- | --- | --- | --- | --- |
 | **Annual** | **£29.99** | £79.99 | £49.99 | £71.88 | Free* |
 | **Monthly** | £3.99 | £7.99 | £4.99 | £6.99 | — |
@@ -76,6 +90,8 @@ The biggest list of the traditional cards and, at the annual price, the cheapest
 **The London reality.** Of the 635 restaurants, **425 are independents and 210 are chain outlets** — including 44 PizzaExpress branches, 25 Krispy Kreme, 22 Burger King, 20 Popeyes, 18 Zizzi and 18 Fireaway. Only **191 are in the ten central postcode districts**, and the independents skew hard towards neighbourhood curry houses, dessert bars and hotel dining rooms.
 
 By postcode: **E1 36** (33 independents, mostly Brick Lane curry houses), **WC2 32**, **W1 30**, **SE1 24**, **SW1 16**.
+
+The photograph at the top of this page is **Babel Grill House at 40 Brick Lane**, and it is a fair summary of the whole proposition: a genuinely good-looking room, a **2-for-1** offer, and the terms attached — **Monday to Thursday only**, no Friday, no Saturday, no bank holidays, and you must telephone to book.
 
 Places on the list a Londoner would actually choose: **Arros QD** in Fitzrovia, **Maresco** in Soho, **Kapara Soho**, **Bala Baya** in Southwark, **Farzi London**, **Café Spice Namasté**, **Macellaio RC**, **Escocesa**, **Bar Esteban**, **Dirty Bones Soho**, **The Mayfair Chippy** and **Yuu Kitchen**. That is a real list. It is also about a dozen restaurants out of 635.
 
@@ -196,32 +212,7 @@ So a card will not usually come off a restaurant's own fixed-price lunch — ask
 
 ---
 
-## Common questions
-
-**How do I cancel?**
-Tastecard and Gourmet Society cancel in the app; the terms say memberships renew automatically until you do, and renewal reminders are only sent for annual plans, so monthly members get no warning. NeoTaste cancels by email at the end of the billing cycle. Dine Club needs a phone call or email during office hours, at least three days before renewal. You have a 14-day statutory cooling-off period on all of them.
-
-**Can I use them at weekends?**
-Sometimes, but the odds are against you. On Tastecard's London list, 388 restaurants exclude Saturday and 269 exclude Friday; 193 allow both. Always open the individual restaurant's listing rather than trusting the "seven days a week" marketing.
-
-**Does the discount include drinks?**
-It depends which offer the restaurant runs. "25% off the total bill" includes drinks; Dine Club states this explicitly. "50% off food" does not. "2-for-1" applies to main courses only, cheaper one free.
-
-**Will the restaurant actually honour it?**
-Usually, but the schemes disclaim responsibility if not. Ello's terms say venues may withdraw or change their offers at any time and that it accepts no liability for availability; NeoTaste says outright that it "is not responsible if a restaurant refuses to honour" a deal. Mention the card when you book, and again before you order, not when the bill arrives.
-
-**Do I have to book ahead?**
-For 55% of Tastecard's London restaurants, yes, by telephone. Every NeoTaste deal must be booked in the app for a time slot. Dine Club asks you to mention the card when booking.
-
-**Is there a maximum party size?**
-Yes, and it varies by restaurant — commonly two, four or six diners. Dine Club is blunt about it: "Restaurants are under no obligation to accept your Membership or provide a discount if the number is exceeded." Only one membership can be used per table.
-
-**Do they work on takeaways?**
-No. Dining deals across all of these are eat-in only. The pizza delivery offers with Tastecard, Gourmet Society and Meerkat Meals are a separate benefit with their own minimum spends.
-
----
-
-## Related guides
+## Continue planning your London trip
 
 - 🍽️ **[London Restaurant Deals: Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the fixed-price menus these cards will not stack with
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**

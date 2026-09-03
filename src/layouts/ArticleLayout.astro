@@ -804,6 +804,12 @@ const breadcrumbs = [
     color: var(--ink);
   }
 
+  /* Header cells are --ink on --ink otherwise: bold text inside a th would be
+     the same colour as the header band it sits on, and vanish. */
+  .article__body :global(th strong) {
+    color: inherit;
+  }
+
   .article__body :global(table) {
     display: table;
     width: 100%;
@@ -905,6 +911,16 @@ const breadcrumbs = [
      numeric range should never break across lines. */
   .article__body :global(table) {
     font-variant-numeric: tabular-nums;
+  }
+
+  /* The first column is the row label, and overflow-wrap: anywhere counts
+     toward min-content width, so table-layout: auto squeezes that column to a
+     single character and splits short labels mid-word ("Monthl/y" on a
+     six-column table). break-word still rescues a genuinely over-long token
+     but is ignored when sizing, so the label column claims its own word. */
+  .article__body :global(th:first-child),
+  .article__body :global(td:first-child) {
+    overflow-wrap: break-word;
   }
 
   .article__body :global(.line-attractions) {
