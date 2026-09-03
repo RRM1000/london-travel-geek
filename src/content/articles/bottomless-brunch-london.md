@@ -16,7 +16,7 @@ tags:
   - hen do
   - birthday
   - nightlife
-draft: true
+draft: false
 faq:
   - q: "How long does a bottomless brunch last?"
     a: "Ninety minutes at most London venues, two hours at a minority. The number that matters is when the clock starts. All Bar One and Revolution both state that the session runs from the time your order is taken, and BrewDog's terms say the ninety minutes runs from the start of your booking — so arriving late costs you drinking time. Revolution and Big Easy both stop drinks orders fifteen minutes before the end, which turns a stated two hours into 105 minutes of ordering."
@@ -127,6 +127,8 @@ The cheapest headline numbers in London are almost all drinks-only packages, and
 
 ## Best for a party, a hen do or a birthday
 
+If the brunch is one part of a bigger day, the [hen do](/articles/hen-do-london/) and [stag do](/articles/stag-do-london/) guides price the activities either side of it, and list the bars that will not take a group at all.
+
 **Ballie Ballerson** in Shoreditch is the biggest party of the lot, and priced accordingly: ninety minutes of prosecco, passion fruit martinis, picantes, beer and seltzers on tap, plus **120 minutes of unlimited pizza** and full ball-pit access. £45 on Thursday and Sunday, £49 on Friday, £65 on Saturday. Its **Sisterhood drag brunch runs at 3pm on Saturdays** with a resident drag queen, at £65 with pizza or **£35 for drinks only**. Note the payment structure: fifty per cent deposit at booking, the balance a week before, when you also confirm numbers.
 
 **BOXPARK Shoreditch** is the best illustration on this page of the two clocks a bottomless brunch runs on. From £42.67 you get **four hours of entertainment** and a meal from a street-food trader — but **ninety minutes of bottomless** cocktails and bubbles. The venue keeps you all afternoon; the bar does not.
@@ -193,6 +195,8 @@ Two structural tips. Book the **first sitting of the day** — the bar is fully 
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
 - 🎯 **[Competitive Socialising in London](/articles/competitive-socialising-london/)**
 - 🎭 **[The Best Cabaret and Drag in London](/articles/best-cabaret-london/)**
+- 💐 **[Hen Do in London](/articles/hen-do-london/)** — activities, prices and the venues that turn groups away
+- 🍺 **[Stag Do in London](/articles/stag-do-london/)** — the same, with a different activity mix
 - 🗺️ **[The Best Areas to Visit in London](/articles/best-areas-to-visit-london/)**
 
 *All prices, time limits and inclusions read off each venue's own website or booking page on 3 September 2026. Bottomless brunch terms change often — confirm on the venue's own site before you book.*

@@ -15,7 +15,7 @@ tags:
   - nights out
   - things to do
   - London experiences
-draft: true
+draft: false
 faq:
   - q: "How much does a stag do in London cost per person?"
     a: "Costed from operators' own prices, £94 a head covers a day and an evening with no bed, £214 adds one night in a private hostel room, and £414 buys a two-night weekend with a private speedboat charter and a proper dinner. The games are cheap — £6 at Bounce, £8 for off-peak axe throwing, £10 for darts. Beds and bars are what cost money."
@@ -202,6 +202,7 @@ The package is not a mark-up on the games, then; it is a bundle of a bed, a book
 - ✨ **[The Best Immersive Experiences in London](/articles/immersive-experiences-london/)**
 - 🎤 **[The Best Comedy Clubs in London](/articles/best-comedy-clubs-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
+- 🥂 **[Bottomless Brunch in London](/articles/bottomless-brunch-london/)** — where the drinks are genuinely unlimited and where they are not
 - 🚇 **[Getting Around London: The Transport Guide](/articles/getting-around-london-transport-guide/)**
 
 ---
