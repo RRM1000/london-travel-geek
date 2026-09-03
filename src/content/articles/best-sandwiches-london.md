@@ -71,6 +71,10 @@ The **salt beef beigel is £7.50**, with mustard and a gherkin, and the salt bee
 
 Open **twenty-four hours a day, every day of the year**, which makes it the single best answer to the question of where to eat at four in the morning.
 
+![Salt beef being carved behind a hot salt beef window, with beigels filled and waiting](../../assets/articles/best-sandwiches-london/beigel-bake-salt-beef.jpg)
+
+*Salt beef carved to order behind the counter on Brick Lane. The beigel is £7.50 with mustard and a gherkin.*
+
 ### The Beigel Shop, Brick Lane
 
 *Open 24 hours, every day*
@@ -110,6 +114,10 @@ At **72 Watling Street, EC4M 9BJ**, two minutes from Mansion House. This is a sa
 ### Max's Sandwich Shop, Stroud Green
 
 *19 Crouch Hill N4 4AP · £15.50–£16.50 · closed Mon–Tue*
+
+![A sandwich in a soft split bun filled with ham, shoestring fries, pickles and a soft egg](../../assets/articles/best-sandwiches-london/maxs-sandwich-shop.jpg)
+
+*"Ham, Egg 'n' Chips": ham hock, piccalilli, a fried egg and shoestring fries. It should not work as a sandwich and it does.*
 
 The shop the modern London sandwich movement starts from, and the one name that comes up in almost every conversation about sandwiches in this city.
 
@@ -162,6 +170,10 @@ Three sites: Dalston, **Harringay at 429 Green Lanes N4 1HA**, and a van at High
 ### Crunch, Soho and Spitalfields
 
 *60 Dean Street, W1D 6AW · Old Spitalfields Market, E1 6EW*
+
+![A fried chicken sandwich in thick golden brioche, in a takeaway box beside a skewer of fried potato](../../assets/articles/best-sandwiches-london/crunch-fried-chicken.jpg)
+
+*Everything is built on a golden brioche loaf rather than bread — rich, sweet, and the reason Crunch divides people.*
 
 Everything is built on a **golden brioche loaf** rather than bread, which is the whole proposition and the reason it divides people — rich, sweet and closer to a bun than a sandwich. The **chicken katsu** is the one to order: deep-fried breast, tonkatsu sauce and Japanese apple jam, and the cheapest thing on the board at **£12**.
 
@@ -222,6 +234,10 @@ Thirty seconds from Kappacasein and the porchetta counterweight to it. The menu 
 *94–96 Commercial Street E1 6LZ · lunch from noon, daily*
 
 Fergus Henderson's **bacon sandwich** on soft white bread is the benchmark every other London bacon butty is measured against. Simple to the point of austerity, and correct.
+
+![A bacon sandwich in griddled white bread, served with soft-boiled eggs and toast](../../assets/articles/best-sandwiches-london/st-john-bread-and-wine.jpg)
+
+*The St John bacon sandwich. Griddled white bread, good bacon, and nothing else asking for attention.*
 
 > ⚠️ **There is no breakfast service, which trips people up badly.** The earliest seating of the day is **noon**, every day of the week — lunch runs to 3pm, a bar menu fills 3pm to 5pm, and supper starts at 5.30pm on weekdays and 6pm at weekends. If you are making a special trip for the bacon sandwich, go at lunch and check it is on that day's menu, because the kitchen writes a new one daily and it is not a permanent fixture.
 
@@ -306,6 +322,10 @@ A **bacon and scallop roll** in a market traders' café, where the scallops come
 ### Mr Falafel, Shepherd's Bush
 
 *Units T4/T5, New Shepherd's Bush Market W12 8LH · £8–£9.75*
+
+![A falafel wrap in flatbread held in one hand, filled with salad, pickles and red cabbage](../../assets/articles/best-sandwiches-london/mr-falafel.jpg)
+
+*Palestinian falafel wraps roughly the size of your forearm, built in front of you as you point at the salads.*
 
 Palestinian falafel wraps roughly the size of your forearm, in something close to a dozen builds. The **classic** is hummus, griddled aubergine and pickled vegetables with tahini, and the fried cauliflower and fried potato versions are real menu items rather than options you have to ask for.
 
