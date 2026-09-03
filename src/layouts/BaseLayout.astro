@@ -296,8 +296,8 @@ const jsonLd = JSON.stringify(
         // lists (things-to-do, whats-on, where-to-stay) put their id on the
         // heading, not a wrapper, so closest("section[id]") found nothing and
         // every in-body link would have reported as plain "inline". Walking
-        // headings instead also means placement uses the same names as
-        // toc_click and section_reached.
+        // headings instead also means placement uses the same section names
+        // that toc_click reports.
         function sectionOf(el) {
           var heads = document.querySelectorAll(".article__body h2[id]");
           var found = null;
@@ -334,44 +334,16 @@ const jsonLd = JSON.stringify(
           }
         }, true);
 
-        // How far down a guide people actually get. Observes the same targets
-        // the contents list points at, so toc_click and section_reached agree
-        // on what a "section" is - including the ones the layout injects.
+        // section_reached was here and is deliberately gone. It fired once per
+        // heading, so a single article view produced a dozen or more events -
+        // measured at 10 against 7 page_views in one Realtime window. That is a
+        // lot of noise, and a lot of the property's event budget, for a metric
+        // nobody was going to act on. Scroll depth is already covered well
+        // enough by GA4's own enhanced-measurement scroll event.
         //
-        // Deferred to DOMContentLoaded: this script sits in <head>, and on the
-        // first pass it queried the contents list before the body had been
-        // parsed, found nothing, and silently observed nothing. The click
-        // handler above survives that because it resolves its targets lazily.
-        function watchSections() {
-          if (!("IntersectionObserver" in window)) return;
-          var ids = [];
-          document.querySelectorAll(".toc--desktop [data-toc-link]").forEach(function (l) {
-            var id = l.hash.slice(1);
-            if (id && ids.indexOf(id) < 0) ids.push(id);
-          });
-          var targets = ids.map(function (id) { return document.getElementById(id); }).filter(Boolean);
-          if (targets.length) {
-            var seen = {};
-            var io = new IntersectionObserver(function (entries) {
-              entries.forEach(function (en) {
-                if (!en.isIntersecting || seen[en.target.id]) return;
-                seen[en.target.id] = true;
-                track("section_reached", {
-                  section: en.target.id,
-                  index: targets.indexOf(en.target) + 1,
-                  of: targets.length,
-                });
-              });
-            }, { rootMargin: "0px 0px -40% 0px" });
-            targets.forEach(function (el) { io.observe(el); });
-          }
-        }
+        // The remaining four - affiliate_click, toc_click, nav_click and
+        // site_search - each fire at most a handful of times per session.
 
-        if (document.readyState === "loading") {
-          document.addEventListener("DOMContentLoaded", watchSections);
-        } else {
-          watchSections();
-        }
       })();
     </script>
   </head>

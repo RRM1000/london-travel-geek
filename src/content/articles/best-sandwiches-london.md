@@ -225,10 +225,6 @@ Fergus Henderson's **bacon sandwich** on soft white bread is the benchmark every
 
 > ⚠️ **There is no breakfast service, which trips people up badly.** The earliest seating of the day is **noon**, every day of the week — lunch runs to 3pm, a bar menu fills 3pm to 5pm, and supper starts at 5.30pm on weekdays and 6pm at weekends. If you are making a special trip for the bacon sandwich, go at lunch and check it is on that day's menu, because the kitchen writes a new one daily and it is not a permanent fixture.
 
-![A bowl of dark braised mussels with aioli](../../assets/articles/best-sandwiches-london/st-john-bread-and-wine.jpg)
-
-*The smaller, more casual St John. The doughnuts sell out and the bacon sandwich is the famous one. Photo: [gruntzooki](https://www.flickr.com/photos/37996580417@N01/30397319856), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
-
 ### Regency Café, Westminster
 
 *17–19 Regency Street · Mon–Sat, closed Sundays*
