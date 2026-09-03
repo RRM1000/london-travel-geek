@@ -987,6 +987,60 @@
       }
     ]
   },
+  "bricklane": {
+    "name": "Brick Lane",
+    "topics": [
+      "activities-shoreditch",
+      "markets",
+      "unusual"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "activities-shoreditch": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "markets": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "unusual": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/unique-things-to-do-in-shoreditch"
+      },
+      {
+        "tier": "C",
+        "source": "Things To Do In London",
+        "url": "https://www.thingstodoinlondon.com/things-to-do/shoreditch/"
+      },
+      {
+        "tier": "C",
+        "source": "Hampstead Village",
+        "url": "https://hampstead-village.com/blog/best-flea-markets-vintage-london"
+      },
+      {
+        "tier": "C",
+        "source": "Bright Nomad",
+        "url": "https://brightnomad.net/hidden-gems-in-london-england/"
+      }
+    ]
+  },
   "ironmongerrow": {
     "name": "Ironmonger Row",
     "topics": [
@@ -2978,17 +3032,24 @@
     "name": "Gloria",
     "topics": [
       "activities-shoreditch",
+      "instagrammable",
       "italian"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
+    "sourceCount": 6,
+    "tierSpread": "B1 C5",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "activities-shoreditch": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C3",
+        "tierCount": 2,
         "hasAward": false
       },
       "italian": {
@@ -3000,9 +3061,31 @@
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      },
+      {
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/shoreditch/"
+      },
+      {
+        "tier": "C",
+        "source": "hellomagazine.com",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/",
+        "quote": "Shoreditch Italian spot with hand-painted plates and 'mesmerising' interiors"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "dinewithjp.com",
+        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/",
+        "quote": "1960s retro aesthetic with pink neon signage and a central blossom tree"
       },
       {
         "tier": "C",
@@ -5505,6 +5588,43 @@
       }
     ]
   },
+  "victoria": {
+    "name": "The Victoria",
+    "topics": [
+      "activities-shoreditch",
+      "live-music"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "activities-shoreditch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "live-music": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "CK Travels",
+        "url": "https://www.cktravels.com/london-games-bars-arcades/"
+      },
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      }
+    ]
+  },
   "fairgamecanarywharf": {
     "name": "Fairgame Canary Wharf",
     "topics": [
@@ -7031,6 +7151,31 @@
       }
     ]
   },
+  "woodwharf": {
+    "name": "Wood Wharf",
+    "topics": [
+      "activities"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "activities": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/things-to-do-in-canary-wharf-london/"
+      }
+    ]
+  },
   "jubileeplace": {
     "name": "Jubilee Place",
     "topics": [
@@ -7448,11 +7593,12 @@
   "pergolaonthewharf": {
     "name": "Pergola on the Wharf",
     "topics": [
-      "activities"
+      "activities",
+      "instagrammable"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "activities": {
@@ -7460,9 +7606,20 @@
         "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      },
       {
         "tier": "C",
         "source": "Hues of Delahaye",
@@ -8449,12 +8606,14 @@
     "topics": [
       "activities",
       "british",
+      "chains",
       "general",
+      "instagrammable",
       "steak",
       "sunday-roast"
     ],
-    "sourceCount": 10,
-    "tierSpread": "A1 B4 C2 D3",
+    "sourceCount": 11,
+    "tierSpread": "A1 B5 C2 D3",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -8470,9 +8629,21 @@
         "tierCount": 1,
         "hasAward": false
       },
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
       "general": {
         "sourceCount": 1,
         "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -8504,7 +8675,13 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#5 of 20"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
       },
       {
         "tier": "B",
@@ -8549,10 +8726,11 @@
     "topics": [
       "activities",
       "breakfast-brunch",
+      "instagrammable",
       "vegan"
     ],
-    "sourceCount": 4,
-    "tierSpread": "C4",
+    "sourceCount": 5,
+    "tierSpread": "C5",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
@@ -8563,6 +8741,12 @@
         "hasAward": false
       },
       "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -8585,6 +8769,11 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
       },
       {
         "tier": "C",
@@ -9098,10 +9287,11 @@
     "name": "Claridge's",
     "topics": [
       "afternoon-tea",
-      "british"
+      "british",
+      "instagrammable"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B3 C1",
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -9115,6 +9305,12 @@
         "sourceCount": 4,
         "tierSpread": "B3 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -9138,6 +9334,11 @@
         "tier": "C",
         "source": "A Lady in London",
         "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
       }
     ]
   },
@@ -9339,11 +9540,12 @@
     "name": "Petersham Nurseries",
     "topics": [
       "afternoon-tea",
-      "british"
+      "british",
+      "instagrammable"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
@@ -9355,6 +9557,12 @@
       "british": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -9370,6 +9578,18 @@
         "source": "Time Out",
         "url": "https://timeout.com/london/restaurants/afternoon-tea-in-london",
         "quote": "#7 in Time Out's ranking. A bucolic garden tea. Why we love it: Over in Richmond, Petersham Nurseries is so lush with grassy footpaths and multi-coloured orchids, you forget you're still so close to London."
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/",
+        "quote": "Greenhouse-style dining surrounded by plants"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/",
+        "quote": "A glasshouse surrounded by plants"
       }
     ]
   },
@@ -9627,11 +9847,12 @@
     "name": "NoMad London",
     "topics": [
       "afternoon-tea",
-      "british"
+      "british",
+      "instagrammable"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
@@ -9643,6 +9864,12 @@
       "british": {
         "sourceCount": 2,
         "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -9663,6 +9890,17 @@
         "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/",
+        "quote": "Three-storey glass atrium overflowing with plants"
+      },
+      {
+        "tier": "C",
+        "source": "dinewithjp.com",
+        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/"
       }
     ]
   },
@@ -9670,10 +9908,11 @@
     "name": "Sketch",
     "topics": [
       "afternoon-tea",
-      "british"
+      "british",
+      "instagrammable"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B4 C1",
+    "sourceCount": 10,
+    "tierSpread": "B6 C4",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -9686,6 +9925,12 @@
       "british": {
         "sourceCount": 4,
         "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 5,
+        "tierSpread": "B2 C3",
         "tierCount": 2,
         "hasAward": false
       }
@@ -9713,9 +9958,38 @@
         "url": "https://www.factlondon.com/food-london-united-kingdom/16-amazing-afternoon-teas-in-london"
       },
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london",
+        "quote": "Pink room with artwork and iconic egg toilets"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/",
+        "quote": "The Gallery room, redesigned by Yinka Shonibare and India Mahdavi"
+      },
+      {
         "tier": "C",
         "source": "A Lady in London",
         "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/",
+        "quote": "Iconic all-pink Gallery room and space-age pod toilets"
+      },
+      {
+        "tier": "C",
+        "source": "dinewithjp.com",
+        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/",
+        "quote": "The all-pink Gallery room with egg-pod bathrooms"
       }
     ]
   },
@@ -10629,16 +10903,23 @@
   "ivychelseagarden": {
     "name": "The Ivy Chelsea Garden",
     "topics": [
-      "afternoon-tea"
+      "afternoon-tea",
+      "instagrammable"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 3,
+    "tierSpread": "C3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
         "sourceCount": 1,
         "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -10648,6 +10929,17 @@
         "tier": "C",
         "source": "Candace Abroad",
         "url": "https://candaceabroad.com/the-best-affordable-afternoon-teas-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/",
+        "quote": "Beautifully curated garden terrace"
+      },
+      {
+        "tier": "C",
+        "source": "anoushkaprobyn.com",
+        "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/"
       }
     ]
   },
@@ -12067,6 +12359,50 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/london-bars-on-the-worlds-50-best-bars-list/"
+      }
+    ]
+  },
+  "battersea": {
+    "name": "Battersea",
+    "topics": [
+      "bars",
+      "cinemas",
+      "general"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/london-bars-on-the-worlds-50-best-bars-list/"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
       }
     ]
   },
@@ -15665,11 +16001,12 @@
     "name": "The Dreamery",
     "topics": [
       "bars",
-      "ice-cream"
+      "ice-cream",
+      "instagrammable"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "bars": {
@@ -15683,6 +16020,12 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -15690,6 +16033,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "C",
+        "source": "hellomagazine.com",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
       }
     ]
   },
@@ -17811,14 +18159,21 @@
   "darwinbrasserie": {
     "name": "Darwin Brasserie",
     "topics": [
-      "breakfast-brunch"
+      "breakfast-brunch",
+      "instagrammable"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -17830,6 +18185,11 @@
         "tier": "C",
         "source": "Candace Abroad",
         "url": "https://candaceabroad.com/brunch-city-of-london/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
       }
     ]
   },
@@ -17879,10 +18239,11 @@
     "name": "Berners Tavern",
     "topics": [
       "breakfast-brunch",
-      "british"
+      "british",
+      "instagrammable"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -17893,6 +18254,12 @@
         "hasAward": false
       },
       "british": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -17909,6 +18276,12 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-british-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "dinewithjp.com",
+        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/",
+        "quote": "Triple-height gilded dining room with 50+ gilt-framed paintings and crystal chandeliers"
       }
     ]
   },
@@ -18210,12 +18583,14 @@
     "topics": [
       "breakfast-brunch",
       "british",
+      "chains",
       "cheap-eats",
       "general",
-      "indian"
+      "indian",
+      "instagrammable"
     ],
-    "sourceCount": 12,
-    "tierSpread": "A2 B3 C4 D3",
+    "sourceCount": 13,
+    "tierSpread": "A2 B3 C5 D3",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -18230,6 +18605,12 @@
         "tierSpread": "A1 B1 C1",
         "tierCount": 3,
         "hasAward": true
+      },
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       },
       "cheap-eats": {
         "sourceCount": 1,
@@ -18248,6 +18629,12 @@
         "tierSpread": "A2 B2 C1 D2",
         "tierCount": 4,
         "hasAward": true
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -18298,6 +18685,11 @@
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
       },
       {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
+      },
+      {
         "tier": "D",
         "source": "Claudia Romeo (YouTube)",
         "url": "https://www.youtube.com/@claudia-romeo"
@@ -18318,10 +18710,11 @@
     "name": "Megan’s",
     "topics": [
       "breakfast-brunch",
+      "instagrammable",
       "turkish"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 D1",
+    "sourceCount": 4,
+    "tierSpread": "B3 D1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -18329,6 +18722,12 @@
         "sourceCount": 2,
         "tierSpread": "B1 D1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       },
       "turkish": {
@@ -18343,6 +18742,11 @@
         "tier": "B",
         "source": "LuxLife",
         "url": "https://luxlifelondon.com/best-breakfast-spots-london/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
       },
       {
         "tier": "B",
@@ -19649,10 +20053,11 @@
     "name": "Ottolenghi",
     "topics": [
       "breakfast-brunch",
-      "british"
+      "british",
+      "instagrammable"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B1 C1",
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 C1",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -19663,6 +20068,12 @@
         "hasAward": true
       },
       "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -19679,6 +20090,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/"
       },
       {
         "tier": "C",
@@ -20183,14 +20599,21 @@
     "name": "Santo Remedio",
     "topics": [
       "breakfast-brunch",
+      "instagrammable",
       "mexican"
     ],
-    "sourceCount": 9,
-    "tierSpread": "B5 C4",
+    "sourceCount": 10,
+    "tierSpread": "B5 C5",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -20233,6 +20656,11 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
       },
       {
         "tier": "C",
@@ -22134,10 +22562,11 @@
       "breakfast-brunch",
       "british",
       "french",
-      "general"
+      "general",
+      "instagrammable"
     ],
-    "sourceCount": 5,
-    "tierSpread": "A1 B2 C2",
+    "sourceCount": 6,
+    "tierSpread": "A1 B3 C2",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -22164,6 +22593,12 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -22181,6 +22616,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/"
       },
       {
         "tier": "C",
@@ -22260,10 +22700,11 @@
     "name": "Hide",
     "topics": [
       "breakfast-brunch",
-      "british"
+      "british",
+      "instagrammable"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 C1 D1",
+    "sourceCount": 4,
+    "tierSpread": "A1 C2 D1",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -22278,6 +22719,12 @@
         "tierSpread": "A1 C1",
         "tierCount": 2,
         "hasAward": true
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -22290,6 +22737,11 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-british-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
       },
       {
         "tier": "D",
@@ -23790,10 +24242,11 @@
     "name": "The Hero",
     "topics": [
       "british",
-      "general"
+      "general",
+      "instagrammable"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -23808,6 +24261,12 @@
         "tierSpread": "B1 C1",
         "tierCount": 2,
         "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -23820,6 +24279,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/"
       },
       {
         "tier": "C",
@@ -25167,11 +25631,12 @@
     "topics": [
       "british",
       "general",
+      "instagrammable",
       "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -25186,6 +25651,12 @@
         "tierCount": 1,
         "hasAward": false
       },
+      "instagrammable": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
       "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
@@ -25198,6 +25669,24 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/",
+        "quote": "Restored 18th-century courthouse, an eclectic array of beautifully battered armchairs"
+      },
+      {
+        "tier": "C",
+        "source": "hellomagazine.com",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/",
+        "quote": "Grade II* listed building with three terraces and rooftop bar"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/",
+        "quote": "Historic judges' dining room with an artistic edge"
       }
     ]
   },
@@ -30122,11 +30611,12 @@
   "mountstrestaurant": {
     "name": "Mount St. Restaurant",
     "topics": [
-      "british"
+      "british",
+      "instagrammable"
     ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
-    "tierCount": 2,
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "british": {
@@ -30134,6 +30624,12 @@
         "tierSpread": "A1 B1",
         "tierCount": 2,
         "hasAward": true
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -30146,6 +30642,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
       }
     ]
   },
@@ -31133,11 +31634,12 @@
     "topics": [
       "british",
       "general",
+      "instagrammable",
       "vegan"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -31149,6 +31651,12 @@
       "general": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -31169,6 +31677,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/vegan-food-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
       }
     ]
   },
@@ -32843,10 +33356,11 @@
     "topics": [
       "british",
       "general",
+      "instagrammable",
       "mexican"
     ],
-    "sourceCount": 11,
-    "tierSpread": "A1 B8 C2",
+    "sourceCount": 12,
+    "tierSpread": "A1 B8 C3",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -32859,6 +33373,12 @@
       "general": {
         "sourceCount": 3,
         "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -32915,6 +33435,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-mexican-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
       },
       {
         "tier": "C",
@@ -35891,6 +36416,280 @@
       }
     ]
   },
+  "soho": {
+    "name": "Soho",
+    "topics": [
+      "british",
+      "general"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Harden's",
+        "url": "https://www.hardens.com/top-100-uk-restaurants/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "coventgarden": {
+    "name": "Covent Garden",
+    "topics": [
+      "british",
+      "general"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Harden's",
+        "url": "https://www.hardens.com/top-100-uk-restaurants/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "mayfair": {
+    "name": "Mayfair",
+    "topics": [
+      "british",
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Harden's",
+        "url": "https://www.hardens.com/top-100-uk-restaurants/"
+      }
+    ]
+  },
+  "kensington": {
+    "name": "Kensington",
+    "topics": [
+      "british",
+      "general",
+      "italian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Harden's",
+        "url": "https://www.hardens.com/top-100-uk-restaurants/"
+      }
+    ]
+  },
+  "canarywharf": {
+    "name": "Canary Wharf",
+    "topics": [
+      "british",
+      "general",
+      "italian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Harden's",
+        "url": "https://www.hardens.com/top-100-uk-restaurants/"
+      }
+    ]
+  },
+  "chelsea": {
+    "name": "Chelsea",
+    "topics": [
+      "british",
+      "galleries",
+      "general",
+      "italian"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 C1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "galleries": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Harden's",
+        "url": "https://www.hardens.com/top-100-uk-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "Art Collecting",
+        "url": "https://www.art-collecting.com/galleries_london.htm"
+      }
+    ]
+  },
+  "fulham": {
+    "name": "Fulham",
+    "topics": [
+      "british",
+      "general",
+      "italian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Harden's",
+        "url": "https://www.hardens.com/top-100-uk-restaurants/"
+      }
+    ]
+  },
   "city": {
     "name": "City",
     "topics": [
@@ -35916,6 +36715,151 @@
         "hasAward": true
       },
       "italian": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Harden's",
+        "url": "https://www.hardens.com/top-100-uk-restaurants/"
+      }
+    ]
+  },
+  "hackney": {
+    "name": "Hackney",
+    "topics": [
+      "british",
+      "general"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Harden's",
+        "url": "https://www.hardens.com/top-100-uk-restaurants/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "shoreditch": {
+    "name": "Shoreditch",
+    "topics": [
+      "british",
+      "general"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Harden's",
+        "url": "https://www.hardens.com/top-100-uk-restaurants/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "islington": {
+    "name": "Islington",
+    "topics": [
+      "british",
+      "general",
+      "italian"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Harden's",
+        "url": "https://www.hardens.com/top-100-uk-restaurants/"
+      }
+    ]
+  },
+  "camdentown": {
+    "name": "Camden Town",
+    "topics": [
+      "british",
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "general": {
         "sourceCount": 1,
         "tierSpread": "A1",
         "tierCount": 1,
@@ -41063,17 +42007,24 @@
   "dallowayterrace": {
     "name": "Dalloway Terrace",
     "topics": [
-      "british"
+      "british",
+      "instagrammable"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 5,
+    "tierSpread": "B2 C3",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "british": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C3",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -41082,6 +42033,28 @@
         "tier": "B",
         "source": "Forbes",
         "url": "https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london",
+        "quote": "Seasonally changing foliage and heritage features"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "anoushkaprobyn.com",
+        "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/",
+        "quote": "Covered terrace with seasonal floral makeovers"
+      },
+      {
+        "tier": "C",
+        "source": "dinewithjp.com",
+        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/"
       }
     ]
   },
@@ -44098,7 +45071,8 @@
   "bleecker": {
     "name": "Bleecker",
     "topics": [
-      "burgers"
+      "burgers",
+      "chains"
     ],
     "sourceCount": 7,
     "tierSpread": "A1 B4 C2",
@@ -44110,6 +45084,12 @@
         "tierSpread": "A1 B4 C2",
         "tierCount": 3,
         "hasAward": true
+      },
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -45446,6 +46426,748 @@
       }
     ]
   },
+  "hoppers": {
+    "name": "Hoppers",
+    "topics": [
+      "chains",
+      "indian",
+      "instagrammable",
+      "new-openings"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "A1 B2 C2 D1",
+    "tierCount": 4,
+    "hasAward": true,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 4,
+        "tierSpread": "A1 B1 C1 D1",
+        "tierCount": 4,
+        "hasAward": true
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Soho)"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#1 of 20"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Condé Nast Traveler (YouTube)",
+        "url": "https://www.youtube.com/@Traveler",
+        "quote": "Chef Karan Gokani's own restaurant - he presents the video, so this is not an independent recommendation of it"
+      }
+    ]
+  },
+  "rudys": {
+    "name": "Rudy's",
+    "topics": [
+      "chains",
+      "pizza"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "pizza": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#3 of 20"
+      }
+    ]
+  },
+  "linastores": {
+    "name": "Lina Stores",
+    "topics": [
+      "chains",
+      "general",
+      "italian"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B3 C1 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "italian": {
+        "sourceCount": 5,
+        "tierSpread": "B3 C1 D1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#6 of 20"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-italian-restaurants-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-pasta-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/features/londons-best-fresh-pasta-joints/"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "rotiking": {
+    "name": "Roti King",
+    "topics": [
+      "chains",
+      "cheap-eats"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "cheap-eats": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#7 of 20"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-cheap-eats-london"
+      }
+    ]
+  },
+  "flatiron": {
+    "name": "Flat Iron",
+    "topics": [
+      "chains",
+      "general",
+      "steak"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B3 C1 D3",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "steak": {
+        "sourceCount": 7,
+        "tierSpread": "B3 C1 D3",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#8 of 20"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Walk Eat London",
+        "url": "https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats"
+      },
+      {
+        "tier": "D",
+        "source": "Hannah Ricketts (YouTube)",
+        "url": "https://www.youtube.com/@HannahRicketts",
+        "quote": "Testing whether a £15 steak is a scam"
+      }
+    ]
+  },
+  "fattoamano": {
+    "name": "Fatto a Mano",
+    "topics": [
+      "chains",
+      "pizza"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "pizza": {
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "2025 finalist (listed as Brighton)"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#9 of 20"
+      }
+    ]
+  },
+  "bao": {
+    "name": "Bao",
+    "topics": [
+      "chains",
+      "ice-cream"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "ice-cream": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#10 of 20"
+      },
+      {
+        "tier": "B",
+        "source": "Mob",
+        "url": "https://www.mob.co.uk/life/best-ice-cream-in-london"
+      }
+    ]
+  },
+  "rosasthai": {
+    "name": "Rosa's Thai",
+    "topics": [
+      "chains",
+      "thai"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "thai": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#11 of 20"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-thai-restaurants-london"
+      }
+    ]
+  },
+  "murgerhan": {
+    "name": "Murger Han",
+    "topics": [
+      "chains",
+      "cheap-eats",
+      "chinese"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B5 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "cheap-eats": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "chinese": {
+        "sourceCount": 4,
+        "tierSpread": "B4",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#12 of 20"
+      },
+      {
+        "tier": "B",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
+        "quote": "Listed under City."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "BudgetTraveller",
+        "url": "https://budgettraveller.org/best-cheap-eats-london-guide/"
+      }
+    ]
+  },
+  "wagamama": {
+    "name": "Wagamama",
+    "topics": [
+      "chains"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#13 of 20"
+      }
+    ]
+  },
+  "pizzaexpress": {
+    "name": "Pizza Express",
+    "topics": [
+      "chains"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#14 of 20"
+      }
+    ]
+  },
+  "wahaca": {
+    "name": "Wahaca",
+    "topics": [
+      "chains"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#15 of 20"
+      }
+    ]
+  },
+  "yardsalepizza": {
+    "name": "Yard Sale Pizza",
+    "topics": [
+      "chains",
+      "pizza"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "A1 B3 C2",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "pizza": {
+        "sourceCount": 6,
+        "tierSpread": "A1 B3 C2",
+        "tierCount": 3,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "3rd place 2025 - Paolo Burini's Ragu Pazzo, with burrata, white anchovies and a lemon marmalade swirl"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#16 of 20"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      }
+    ]
+  },
+  "farmerj": {
+    "name": "Farmer J",
+    "topics": [
+      "chains"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#17 of 20"
+      }
+    ]
+  },
+  "shoryuramen": {
+    "name": "Shoryu Ramen",
+    "topics": [
+      "chains",
+      "japanese"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#18 of 20"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-ramen-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
+      }
+    ]
+  },
+  "nandos": {
+    "name": "Nando's",
+    "topics": [
+      "chains"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#19 of 20"
+      }
+    ]
+  },
+  "tonkotsu": {
+    "name": "Tonkotsu",
+    "topics": [
+      "chains",
+      "japanese"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
+        "quote": "#20 of 20"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-ramen-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/send-noods-londons-hottest-udon-ramen-shops/"
+      }
+    ]
+  },
   "rotikinglondon": {
     "name": "Roti King London",
     "topics": [
@@ -45530,59 +47252,6 @@
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
-      }
-    ]
-  },
-  "murgerhan": {
-    "name": "Murger Han",
-    "topics": [
-      "cheap-eats",
-      "chinese"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "B4 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "chinese": {
-        "sourceCount": 4,
-        "tierSpread": "B4",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Hotel Journal",
-        "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
-        "quote": "Listed under City."
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-chinese-restaurants-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "BudgetTraveller",
-        "url": "https://budgettraveller.org/best-cheap-eats-london-guide/"
       }
     ]
   },
@@ -46242,31 +47911,6 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
-      }
-    ]
-  },
-  "rotiking": {
-    "name": "Roti King",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-cheap-eats-london"
       }
     ]
   },
@@ -52566,11 +54210,12 @@
     "name": "Hutong",
     "topics": [
       "chinese",
-      "dim-sum"
+      "dim-sum",
+      "instagrammable"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "chinese": {
@@ -52582,6 +54227,12 @@
       "dim-sum": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -52596,6 +54247,11 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
+      },
+      {
+        "tier": "C",
+        "source": "hellomagazine.com",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
       }
     ]
   },
@@ -53992,8 +55648,58 @@
       }
     ]
   },
+  "westminster": {
+    "name": "Westminster",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
   "everyman": {
     "name": "Everyman",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "hampstead": {
+    "name": "Hampstead",
     "topics": [
       "cinemas"
     ],
@@ -54044,6 +55750,31 @@
   },
   "genesis": {
     "name": "Genesis",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "whitechapel": {
+    "name": "Whitechapel",
     "topics": [
       "cinemas"
     ],
@@ -54127,8 +55858,58 @@
       }
     ]
   },
+  "ealing": {
+    "name": "Ealing",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
   "chiswickcinema": {
     "name": "The Chiswick Cinema",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "chiswick": {
+    "name": "Chiswick",
     "topics": [
       "cinemas"
     ],
@@ -54214,6 +55995,93 @@
       }
     ]
   },
+  "eastfinchley": {
+    "name": "East Finchley",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "cityoflondon": {
+    "name": "City of London",
+    "topics": [
+      "cinemas",
+      "coffee"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Brew Atlas",
+        "url": "https://brewatlas.co/london"
+      }
+    ]
+  },
+  "leicestersquare": {
+    "name": "Leicester Square",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
   "closeupfilmcentre": {
     "name": "Close-Up Film Centre",
     "topics": [
@@ -54274,6 +56142,31 @@
       }
     ]
   },
+  "crouchend": {
+    "name": "Crouch End",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
   "olympicstudios": {
     "name": "Olympic Studios",
     "topics": [
@@ -54301,6 +56194,31 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/independent-cinemas/"
+      }
+    ]
+  },
+  "barnes": {
+    "name": "Barnes",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
       }
     ]
   },
@@ -54336,6 +56254,31 @@
   },
   "everymanatthewhiteley": {
     "name": "Everyman at The Whiteley",
+    "topics": [
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "bayswater": {
+    "name": "Bayswater",
     "topics": [
       "cinemas"
     ],
@@ -54461,6 +56404,43 @@
         "tier": "C",
         "source": "The Glossary",
         "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      }
+    ]
+  },
+  "walthamstow": {
+    "name": "Walthamstow",
+    "topics": [
+      "cinemas",
+      "coffee"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Brew Atlas",
+        "url": "https://brewatlas.co/london"
       }
     ]
   },
@@ -57471,10 +59451,11 @@
     "topics": [
       "coffee",
       "dessert",
+      "instagrammable",
       "new-openings"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
+    "sourceCount": 5,
+    "tierSpread": "B2 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -57488,6 +59469,12 @@
         "sourceCount": 2,
         "tierSpread": "B1 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
         "hasAward": false
       },
       "new-openings": {
@@ -57517,6 +59504,11 @@
         "tier": "C",
         "source": "Critmas",
         "url": "https://critmas.substack.com/p/16-bakery-queues"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
       }
     ]
   },
@@ -61644,16 +63636,23 @@
   "shanghaime": {
     "name": "Shanghai Me",
     "topics": [
-      "dim-sum"
+      "dim-sum",
+      "instagrammable"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "dim-sum": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -61663,22 +63662,34 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
+      },
+      {
+        "tier": "C",
+        "source": "hellomagazine.com",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
       }
     ]
   },
   "tattu": {
     "name": "Tattu",
     "topics": [
-      "dim-sum"
+      "dim-sum",
+      "instagrammable"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "dim-sum": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -61688,6 +63699,12 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/",
+        "quote": "Designed by Joyce Wang Studio, recreating a traditional Chinese courtyard with a statement cherry blossom installation"
       }
     ]
   },
@@ -62771,16 +64788,23 @@
   "lapouleaupot": {
     "name": "La Poule Au Pot",
     "topics": [
-      "french"
+      "french",
+      "instagrammable"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "french": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -62790,6 +64814,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/the-best-french-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
       }
     ]
   },
@@ -63618,16 +65647,23 @@
   "lamaisonani": {
     "name": "La Maison Ani",
     "topics": [
-      "french"
+      "french",
+      "instagrammable"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "french": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -63637,6 +65673,11 @@
         "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/french-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "hellomagazine.com",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
       }
     ]
   },
@@ -63718,14 +65759,21 @@
   "riviera": {
     "name": "Riviera",
     "topics": [
-      "french"
+      "french",
+      "instagrammable"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "french": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -63737,6 +65785,11 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/best-french-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
       }
     ]
   },
@@ -69269,8 +71322,58 @@
       }
     ]
   },
+  "borough": {
+    "name": "Borough",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
   "italian": {
     "name": "Italian",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "bethnalgreen": {
+    "name": "Bethnal Green",
     "topics": [
       "general"
     ],
@@ -69319,6 +71422,31 @@
       }
     ]
   },
+  "farringdon": {
+    "name": "Farringdon",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
   "filipino": {
     "name": "Filipino",
     "topics": [
@@ -69344,8 +71472,108 @@
       }
     ]
   },
+  "kentishtown": {
+    "name": "Kentish Town",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
   "malaysian": {
     "name": "Malaysian",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "queensway": {
+    "name": "Queensway",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "chingford": {
+    "name": "Chingford",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "spitalfields": {
+    "name": "Spitalfields",
     "topics": [
       "general"
     ],
@@ -69494,8 +71722,58 @@
       }
     ]
   },
+  "bloomsbury": {
+    "name": "Bloomsbury",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
   "caribbean": {
     "name": "Caribbean",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "hernehill": {
+    "name": "Herne Hill",
     "topics": [
       "general"
     ],
@@ -69669,8 +71947,83 @@
       }
     ]
   },
+  "finsburypark": {
+    "name": "Finsbury Park",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "eastdulwich": {
+    "name": "East Dulwich",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
   "contemporaryeuropean": {
     "name": "Contemporary European",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "londonfields": {
+    "name": "London Fields",
     "topics": [
       "general"
     ],
@@ -69744,8 +72097,108 @@
       }
     ]
   },
+  "clapton": {
+    "name": "Clapton",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
   "turkish": {
     "name": "Turkish",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "dalston": {
+    "name": "Dalston",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "highbury": {
+    "name": "Highbury",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "southkensington": {
+    "name": "South Kensington",
     "topics": [
       "general"
     ],
@@ -69819,6 +72272,56 @@
       }
     ]
   },
+  "sydenham": {
+    "name": "Sydenham",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "clapham": {
+    "name": "Clapham",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
   "korean": {
     "name": "Korean",
     "topics": [
@@ -69869,8 +72372,108 @@
       }
     ]
   },
+  "oldstreet": {
+    "name": "Old Street",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
   "westafrican": {
     "name": "West African",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "fitzrovia": {
+    "name": "Fitzrovia",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "clerkenwell": {
+    "name": "Clerkenwell",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "stokenewington": {
+    "name": "Stoke Newington",
     "topics": [
       "general"
     ],
@@ -69919,8 +72522,133 @@
       }
     ]
   },
+  "peckham": {
+    "name": "Peckham",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
   "nigerian": {
     "name": "Nigerian",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "tottenham": {
+    "name": "Tottenham",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "newingtongreen": {
+    "name": "Newington Green",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "vauxhall": {
+    "name": "Vauxhall",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      }
+    ]
+  },
+  "nottinghill": {
+    "name": "Notting Hill",
     "topics": [
       "general"
     ],
@@ -73270,6 +75998,31 @@
       }
     ]
   },
+  "richmond": {
+    "name": "Richmond",
+    "topics": [
+      "general"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london"
+      }
+    ]
+  },
   "rome": {
     "name": "Rome",
     "topics": [
@@ -74472,16 +77225,23 @@
   "wildflowers": {
     "name": "Wildflowers",
     "topics": [
-      "general"
+      "general",
+      "instagrammable"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
+    "sourceCount": 3,
+    "tierSpread": "B3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "general": {
         "sourceCount": 2,
         "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -74496,6 +77256,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/"
       }
     ]
   },
@@ -75749,14 +78514,21 @@
   "town": {
     "name": "Town",
     "topics": [
-      "general"
+      "general",
+      "instagrammable"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -75768,6 +78540,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
       }
     ]
   },
@@ -77434,66 +80211,15 @@
       }
     ]
   },
-  "linastores": {
-    "name": "Lina Stores",
-    "topics": [
-      "general",
-      "italian"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "B3 C1 D1",
-    "tierCount": 3,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "D1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 5,
-        "tierSpread": "B3 C1 D1",
-        "tierCount": 3,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-italian-restaurants"
-      },
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/best-italian-restaurants-in-london/"
-      },
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/best-pasta-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/londons-best-fresh-pasta-joints/"
-      },
-      {
-        "tier": "D",
-        "source": "Harrison Webb (YouTube)",
-        "url": "https://www.youtube.com/@HarrisonWebb97"
-      }
-    ]
-  },
   "bancone": {
     "name": "Bancone",
     "topics": [
       "general",
+      "instagrammable",
       "italian"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B1 C2 D3",
+    "sourceCount": 8,
+    "tierSpread": "B1 C4 D3",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -77501,6 +80227,12 @@
         "sourceCount": 2,
         "tierSpread": "C1 D1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
         "hasAward": false
       },
       "italian": {
@@ -77520,6 +80252,16 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/bib-gourmands-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
       },
       {
         "tier": "C",
@@ -77595,69 +80337,6 @@
         "source": "@rosielewis_ (TikTok)",
         "url": "https://www.tiktok.com/@rosielewis_",
         "quote": "6.5/10"
-      }
-    ]
-  },
-  "flatiron": {
-    "name": "Flat Iron",
-    "topics": [
-      "general",
-      "steak"
-    ],
-    "sourceCount": 7,
-    "tierSpread": "B3 C1 D3",
-    "tierCount": 3,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "D1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 7,
-        "tierSpread": "B3 C1 D3",
-        "tierCount": 3,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Walk Eat London",
-        "url": "https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
-      },
-      {
-        "tier": "D",
-        "source": "Harrison Webb (YouTube)",
-        "url": "https://www.youtube.com/@HarrisonWebb97"
-      },
-      {
-        "tier": "D",
-        "source": "Gary Eats (YouTube)",
-        "url": "https://www.youtube.com/@GaryEats"
-      },
-      {
-        "tier": "D",
-        "source": "Hannah Ricketts (YouTube)",
-        "url": "https://www.youtube.com/@HannahRicketts",
-        "quote": "Testing whether a £15 steak is a scam"
       }
     ]
   },
@@ -80441,14 +83120,21 @@
     "name": "Berenjak",
     "topics": [
       "general",
+      "instagrammable",
       "middle-eastern"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B3 C1",
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "general": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -80481,6 +83167,11 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/bib-gourmands-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
       }
     ]
   },
@@ -80605,10 +83296,11 @@
     "name": "Gunpowder",
     "topics": [
       "general",
-      "indian"
+      "indian",
+      "instagrammable"
     ],
-    "sourceCount": 4,
-    "tierSpread": "A2 C1 D1",
+    "sourceCount": 5,
+    "tierSpread": "A2 C2 D1",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -80623,6 +83315,12 @@
         "tierSpread": "A2 D1",
         "tierCount": 2,
         "hasAward": true
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -80641,6 +83339,11 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/bib-gourmands-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
       },
       {
         "tier": "D",
@@ -83634,17 +86337,24 @@
   "bacchanalia": {
     "name": "Bacchanalia",
     "topics": [
-      "greek"
+      "greek",
+      "instagrammable"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 7,
+    "tierSpread": "B3 C4",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "greek": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 6,
+        "tierSpread": "B2 C4",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -83653,6 +86363,39 @@
         "tier": "B",
         "source": "Absolutely",
         "url": "https://absolutelymagazines.com/best-greek-restaurants-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london",
+        "quote": "Hand-painted ceiling murals and Greek mythology theme"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/",
+        "quote": "Designed by Martin Brudnizki, with marble sculptures by Damien Hirst and murals by Gary Myatt"
+      },
+      {
+        "tier": "C",
+        "source": "hellomagazine.com",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/",
+        "quote": "Greek god statues, hand-painted ceilings, and classical artwork throughout"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "anoushkaprobyn.com",
+        "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/"
       }
     ]
   },
@@ -87326,31 +90069,6 @@
       }
     ]
   },
-  "bao": {
-    "name": "BAO",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-ice-cream-in-london"
-      }
-    ]
-  },
   "marineices": {
     "name": "Marine Ices",
     "topics": [
@@ -88652,55 +91370,6 @@
       }
     ]
   },
-  "hoppers": {
-    "name": "Hoppers",
-    "topics": [
-      "indian",
-      "new-openings"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "A1 B1 C1 D1",
-    "tierCount": 4,
-    "hasAward": true,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 4,
-        "tierSpread": "A1 B1 C1 D1",
-        "tierCount": 4,
-        "hasAward": true
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "British Indian Good Food Guide",
-        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
-        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Soho)"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
-      },
-      {
-        "tier": "D",
-        "source": "Condé Nast Traveler (YouTube)",
-        "url": "https://www.youtube.com/@Traveler",
-        "quote": "Chef Karan Gokani's own restaurant - he presents the video, so this is not an independent recommendation of it"
-      }
-    ]
-  },
   "brigadiers": {
     "name": "Brigadiers",
     "topics": [
@@ -88846,10 +91515,11 @@
   "colonelsaab": {
     "name": "Colonel Saab",
     "topics": [
-      "indian"
+      "indian",
+      "instagrammable"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C1 D1",
+    "sourceCount": 5,
+    "tierSpread": "B3 C1 D1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -88857,6 +91527,12 @@
         "sourceCount": 4,
         "tierSpread": "B2 C1 D1",
         "tierCount": 3,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -88871,6 +91547,11 @@
         "source": "NationalWorld",
         "url": "https://www.nationalworld.com/lifestyle/food-and-drink/uks-best-curry-houses-announced-at-asian-curry-awards-2024-full-list-of-72-winners-4872304",
         "quote": "Newcomer of The Year (London), Asian Curry Awards"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
       },
       {
         "tier": "C",
@@ -90475,6 +93156,2168 @@
       }
     ]
   },
+  "brasserieoflight": {
+    "name": "Brasserie of Light",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C3",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london",
+        "quote": "Giant Damien Hirst unicorn sculpture"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "anoushkaprobyn.com",
+        "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/",
+        "quote": "A 24-foot crystal-encrusted Damien Hirst unicorn"
+      }
+    ]
+  },
+  "wagtail": {
+    "name": "Wagtail",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "bustronome": {
+    "name": "Bustronome",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "14stories": {
+    "name": "14 Stories",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "skygarden": {
+    "name": "The Sky Garden",
+    "topics": [
+      "instagrammable",
+      "london-with-children",
+      "views"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B1 C6",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "london-with-children": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "views": {
+        "sourceCount": 5,
+        "tierSpread": "B1 C4",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "dinewithjp.com",
+        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/",
+        "quote": "Free 35th-floor observation deck"
+      },
+      {
+        "tier": "C",
+        "source": "Mummy Travels",
+        "url": "https://www.mummytravels.com/things-to-do-in-london-with-kids/"
+      },
+      {
+        "tier": "C",
+        "source": "Full Suitcase",
+        "url": "https://fullsuitcase.com/london-best-views/"
+      },
+      {
+        "tier": "C",
+        "source": "Wildside Travellers",
+        "url": "https://www.wildsidetravellers.com/rooftop-views-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Alex Jessica Mills",
+        "url": "https://alexjessicamills.com/best-free-viewing-platforms-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Empty Nest Explorers",
+        "url": "https://www.theemptynestexplorers.com/blog/best-free-views-of-the-london-skyline"
+      }
+    ]
+  },
+  "bobbobricard": {
+    "name": "Bob Bob Ricard",
+    "topics": [
+      "instagrammable",
+      "late-night"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "late-night": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/late-night-dining-london-after-hours-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "hellomagazine.com",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/",
+        "quote": "Iconic 'press for champagne' buttons and glamorous Golden Age interiors"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/late-night-restaurants-london/"
+      }
+    ]
+  },
+  "aquanueva": {
+    "name": "Aqua Nueva",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "amazinggrace": {
+    "name": "Amazing Grace",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "mercatomayfair": {
+    "name": "Mercato Mayfair",
+    "topics": [
+      "instagrammable",
+      "markets",
+      "unusual"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "markets": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "unusual": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Away to the City",
+        "url": "https://awaytothecity.com/unique-things-to-do-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/unusual-things-to-do-in-london/"
+      }
+    ]
+  },
+  "no197chiswickfirestation": {
+    "name": "No.197 Chiswick Fire Station",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "palmhouse": {
+    "name": "The Palm House",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "stickymango": {
+    "name": "Sticky Mango",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "churchillarms": {
+    "name": "The Churchill Arms",
+    "topics": [
+      "instagrammable",
+      "unusual"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "unusual": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Away to the City",
+        "url": "https://awaytothecity.com/unique-things-to-do-in-london/"
+      }
+    ]
+  },
+  "vicinity": {
+    "name": "Vicinity",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "miradora": {
+    "name": "Miradora",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "libertine": {
+    "name": "The Libertine",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "sticksnsushi": {
+    "name": "Sticks'n'Sushi",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
+      }
+    ]
+  },
+  "brush": {
+    "name": "The Brush",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "noya": {
+    "name": "Noya",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "madera": {
+    "name": "Madera",
+    "topics": [
+      "instagrammable",
+      "mexican"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "mexican": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-mexican-restaurants-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-mexican-restaurants-london/"
+      }
+    ]
+  },
+  "circolopopolare": {
+    "name": "Circolo Popolare",
+    "topics": [
+      "instagrammable",
+      "italian"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B2 C5 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 5,
+        "tierSpread": "B1 C4",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "italian": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 D1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london",
+        "quote": "Amalfi-style flair with extravagant interiors"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/big-mamma-power-rankings",
+        "quote": "like an Italian film set, with lemon meringue pies the size of a shark fin"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/",
+        "quote": "Twinkling fairy lights, walls literally stacked with hundreds of bottles"
+      },
+      {
+        "tier": "C",
+        "source": "anoushkaprobyn.com",
+        "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/",
+        "quote": "Reams of fairy lights hang from a canopy of foliage, and over 20,000 bottles line the walls"
+      },
+      {
+        "tier": "C",
+        "source": "dinewithjp.com",
+        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Gastroblog/Test-drive/circolo-poplare-big-mamma-london-restaurant-review-italian-fitzrovia-oxford-street",
+        "quote": "Big Mamma are onto a huge hit - amazing design, friendly staff, really good food despite doing things to excess"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw",
+        "quote": "Opens their four-restaurant Italian episode"
+      }
+    ]
+  },
+  "joia": {
+    "name": "Joia",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "hellomagazine.com",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
+      }
+    ]
+  },
+  "jacuzzi": {
+    "name": "Jacuzzi",
+    "topics": [
+      "instagrammable",
+      "italian"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B2 C2 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "italian": {
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london",
+        "quote": "Vibrant artwork with chandeliers and disco ball stairway"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-pasta-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/",
+        "quote": "Multi-level Sicilian space with a retractable glass roof"
+      },
+      {
+        "tier": "D",
+        "source": "Gary Eats (YouTube)",
+        "url": "https://www.youtube.com/@GaryEats"
+      }
+    ]
+  },
+  "sucre": {
+    "name": "Sucre",
+    "topics": [
+      "instagrammable",
+      "steak"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "steak": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london",
+        "quote": "Glittering interiors with 1,000-piece cut glass chandeliers"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "anoushkaprobyn.com",
+        "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/",
+        "quote": "Refined, and undeniably impressive, but just subdued enough to not feel gimmicky"
+      }
+    ]
+  },
+  "silva": {
+    "name": "Silva",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "avemario": {
+    "name": "Ave Mario",
+    "topics": [
+      "instagrammable",
+      "italian"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B4 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "italian": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london",
+        "quote": "Bold red interiors with mirrors and plants"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/",
+        "quote": "Studio Kiki design with a hall of mirrors, psychedelic duomo-striped walls, and a bar holding 3,500 bottles"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/big-mamma-power-rankings",
+        "quote": "stripy humbug walls and bright red seats - the third Big Mamma room in London"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/features/big-mamma-ave-mario/"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Gastroblog/Test-drive/ave-mario-london-restaurant-review-big-mamma-covent-garden-italian"
+      }
+    ]
+  },
+  "amazonico": {
+    "name": "Amazonico",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "vocalemayfair": {
+    "name": "VOCALE Mayfair",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      }
+    ]
+  },
+  "mistressofmayfair": {
+    "name": "Mistress of Mayfair",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "hellomagazine.com",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
+      }
+    ]
+  },
+  "ixchel": {
+    "name": "Ixchel",
+    "topics": [
+      "instagrammable",
+      "mexican"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "mexican": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/joanneshurvell/2026/03/19/10-of-the-best-mexican--restaurants-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/best-mexican-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "hellomagazine.com",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/mexican-restaurants/"
+      }
+    ]
+  },
+  "azzurra": {
+    "name": "Azzurra",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "hellomagazine.com",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
+      }
+    ]
+  },
+  "bardouro": {
+    "name": "Bar Douro",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/",
+        "quote": "Hand painted azulejos tiles and a shack-like ceiling"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "redroom": {
+    "name": "The Red Room",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/"
+      }
+    ]
+  },
+  "beaverbrooktownhouse": {
+    "name": "Beaverbrook Town House",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/"
+      }
+    ]
+  },
+  "spring": {
+    "name": "Spring",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/",
+        "quote": "Blonde wood and blush-toned fabrics, with a porcelain petal installation by Valeria Nascimento"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/",
+        "quote": "Light-filled 19th-century drawing room"
+      }
+    ]
+  },
+  "annabels": {
+    "name": "Annabel's",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "isabel": {
+    "name": "Isabel",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/",
+        "quote": "Glamorous Beaux-Arts dining room"
+      },
+      {
+        "tier": "C",
+        "source": "dinewithjp.com",
+        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/"
+      }
+    ]
+  },
+  "atsloane": {
+    "name": "At Sloane",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "dearjackie": {
+    "name": "Dear Jackie",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "closmaggiore": {
+    "name": "Clos Maggiore",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/",
+        "quote": "Blossom-filled conservatory"
+      }
+    ]
+  },
+  "kettnerstownhouse": {
+    "name": "Kettner's Townhouse",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "gold": {
+    "name": "Gold",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "applebutter": {
+    "name": "Apple Butter",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "brothermarcus": {
+    "name": "Brother Marcus",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "minnow": {
+    "name": "Minnow",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "carlotta": {
+    "name": "Carlotta",
+    "topics": [
+      "instagrammable",
+      "italian"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "LuxLife",
+        "url": "https://luxlifelondon.com/best-italian-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "cycene": {
+    "name": "Cycene",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "lightbaranddining": {
+    "name": "The Light Bar & Dining",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "seabird": {
+    "name": "Seabird",
+    "topics": [
+      "instagrammable",
+      "seafood"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B4 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "seafood": {
+        "sourceCount": 5,
+        "tierSpread": "B4 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london",
+        "quote": "Arguably London's prettiest rooftop, Seabird in Southwark is also home to the best oyster experience in the city."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-seafood-restaurants/"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "This high rise restaurant from the team behind Brooklyn's Maison Premiere mixes local seafood with Mediterranean influences and throws in jaw-dropping views to boot."
+      }
+    ]
+  },
+  "coaloffice": {
+    "name": "Coal Office",
+    "topics": [
+      "instagrammable",
+      "middle-eastern"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "middle-eastern": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Fact Magazines",
+        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "marivanna": {
+    "name": "Mari Vanna",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "uchi": {
+    "name": "Uchi",
+    "topics": [
+      "instagrammable",
+      "japanese"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-japanese-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "wintergarden": {
+    "name": "Winter Garden",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/",
+        "quote": "Eight-storey glass atrium with towering palm trees"
+      }
+    ]
+  },
+  "sexyfish": {
+    "name": "Sexy Fish",
+    "topics": [
+      "instagrammable",
+      "late-night",
+      "seafood"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "late-night": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/late-night-dining-london-after-hours-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Restaurants for Kings",
+        "url": "https://restaurantsforkings.com/blog/best-seafood-restaurants-london-2026"
+      }
+    ]
+  },
+  "arcadefoodhall": {
+    "name": "Arcade Food Hall",
+    "topics": [
+      "instagrammable",
+      "new-openings",
+      "street-food"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food-markets-and-food-halls",
+        "quote": "#7"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
+      }
+    ]
+  },
+  "bubala": {
+    "name": "Bubala",
+    "topics": [
+      "instagrammable",
+      "middle-eastern",
+      "vegan"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B6 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "middle-eastern": {
+        "sourceCount": 5,
+        "tierSpread": "B5",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "vegan": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-middle-eastern"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-falafel-london"
+      },
+      {
+        "tier": "B",
+        "source": "Mob",
+        "url": "https://www.mob.co.uk/life/the-best-falafel-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-middle-eastern-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-vegan-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-vegan-restaurants-london"
+      }
+    ]
+  },
+  "14hills": {
+    "name": "14 Hills",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
+      }
+    ]
+  },
+  "aquakyoto": {
+    "name": "Aqua Kyoto",
+    "topics": [
+      "instagrammable",
+      "japanese"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
+      }
+    ]
+  },
+  "florattica": {
+    "name": "Florattica",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "anoushkaprobyn.com",
+        "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "eve": {
+    "name": "Eve",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "anoushkaprobyn.com",
+        "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "sushisamba": {
+    "name": "Sushi Samba",
+    "topics": [
+      "instagrammable",
+      "japanese",
+      "late-night"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "late-night": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "anoushkaprobyn.com",
+        "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-japanese-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/late-night-restaurants-london/"
+      }
+    ]
+  },
+  "linnaean": {
+    "name": "Linnaean",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "anoushkaprobyn.com",
+        "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "coppaclub": {
+    "name": "Coppa Club",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "dinewithjp.com",
+        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/",
+        "quote": "Transparent igloo pods overlooking Tower Bridge"
+      }
+    ]
+  },
+  "elandn": {
+    "name": "EL&N",
+    "topics": [
+      "instagrammable"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "dinewithjp.com",
+        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/"
+      }
+    ]
+  },
   "ciaobella": {
     "name": "Ciao Bella",
     "topics": [
@@ -92057,31 +96900,6 @@
       }
     ]
   },
-  "carlotta": {
-    "name": "Carlotta",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "LuxLife",
-        "url": "https://luxlifelondon.com/best-italian-restaurants-london/"
-      }
-    ]
-  },
   "polpo": {
     "name": "Polpo",
     "topics": [
@@ -93408,36 +98226,6 @@
       }
     ]
   },
-  "jacuzzi": {
-    "name": "Jacuzzi",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 D1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 2,
-        "tierSpread": "B1 D1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/best-pasta-restaurants-london/"
-      },
-      {
-        "tier": "D",
-        "source": "Gary Eats (YouTube)",
-        "url": "https://www.youtube.com/@GaryEats"
-      }
-    ]
-  },
   "pastificioaldente": {
     "name": "Pastificio Al Dente",
     "topics": [
@@ -93625,80 +98413,6 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-italian-restaurants-london"
-      }
-    ]
-  },
-  "avemario": {
-    "name": "Ave Mario",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/big-mamma-power-rankings",
-        "quote": "stripy humbug walls and bright red seats - the third Big Mamma room in London"
-      },
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/features/big-mamma-ave-mario/"
-      },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Gastroblog/Test-drive/ave-mario-london-restaurant-review-big-mamma-covent-garden-italian"
-      }
-    ]
-  },
-  "circolopopolare": {
-    "name": "Circolo Popolare",
-    "topics": [
-      "italian"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C1 D1",
-    "tierCount": 3,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 3,
-        "tierSpread": "B1 C1 D1",
-        "tierCount": 3,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/big-mamma-power-rankings",
-        "quote": "like an Italian film set, with lemon meringue pies the size of a shark fin"
-      },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Gastroblog/Test-drive/circolo-poplare-big-mamma-london-restaurant-review-italian-fitzrovia-oxford-street",
-        "quote": "Big Mamma are onto a huge hit - amazing design, friendly staff, really good food despite doing things to excess"
-      },
-      {
-        "tier": "D",
-        "source": "TOPJAW (YouTube)",
-        "url": "https://www.youtube.com/@topjaw",
-        "quote": "Opens their four-restaurant Italian episode"
       }
     ]
   },
@@ -94769,31 +99483,6 @@
       }
     ]
   },
-  "uchi": {
-    "name": "Uchi",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-japanese-restaurants"
-      }
-    ]
-  },
   "wacafe": {
     "name": "WA Café",
     "topics": [
@@ -95324,31 +100013,6 @@
       }
     ]
   },
-  "aquakyoto": {
-    "name": "Aqua Kyoto",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
-      }
-    ]
-  },
   "takamarylebone": {
     "name": "Taka Marylebone",
     "topics": [
@@ -95454,48 +100118,6 @@
       }
     ]
   },
-  "sushisamba": {
-    "name": "Sushi Samba",
-    "topics": [
-      "japanese",
-      "late-night"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-japanese-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/late-night-restaurants-london/"
-      }
-    ]
-  },
   "nobuoldparklane": {
     "name": "Nobu Old Park Lane",
     "topics": [
@@ -95548,41 +100170,6 @@
         "tier": "B",
         "source": "Country & Town House",
         "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
-      }
-    ]
-  },
-  "shoryuramen": {
-    "name": "Shoryu Ramen",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Ideal Magazine",
-        "url": "https://idealmagazine.co.uk/best-ramen-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
       }
     ]
   },
@@ -96438,41 +101025,6 @@
         "tier": "B",
         "source": "Ideal Magazine",
         "url": "https://idealmagazine.co.uk/best-ramen-london/"
-      }
-    ]
-  },
-  "tonkotsu": {
-    "name": "Tonkotsu",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 3,
-        "tierSpread": "B1 C2",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Ideal Magazine",
-        "url": "https://idealmagazine.co.uk/best-ramen-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-ramen-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/send-noods-londons-hottest-udon-ramen-shops/"
       }
     ]
   },
@@ -99231,6 +103783,31 @@
       }
     ]
   },
+  "newmalden": {
+    "name": "New Malden",
+    "topics": [
+      "korean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "korean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "AnOther Magazine",
+        "url": "https://www.anothermag.com/design-living/15416/places-to-eat-in-new-malden-london-koreatown-2024-korean-restaurants"
+      }
+    ]
+  },
   "somssi": {
     "name": "Somssi",
     "topics": [
@@ -99703,36 +104280,6 @@
       }
     ]
   },
-  "bobbobricard": {
-    "name": "Bob Bob Ricard",
-    "topics": [
-      "late-night"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "late-night": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/late-night-dining-london-after-hours-restaurants/"
-      },
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/late-night-restaurants-london/"
-      }
-    ]
-  },
   "oldcomptonbrasserie": {
     "name": "Old Compton Brasserie",
     "topics": [
@@ -100013,43 +104560,6 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/late-night-restaurants-london/"
-      }
-    ]
-  },
-  "sexyfish": {
-    "name": "Sexy Fish",
-    "topics": [
-      "late-night",
-      "seafood"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/late-night-dining-london-after-hours-restaurants/"
-      },
-      {
-        "tier": "C",
-        "source": "Restaurants for Kings",
-        "url": "https://restaurantsforkings.com/blog/best-seafood-restaurants-london-2026"
       }
     ]
   },
@@ -101363,31 +105873,6 @@
       }
     ]
   },
-  "victoria": {
-    "name": "The Victoria",
-    "topics": [
-      "live-music"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "live-music": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Pirate",
-        "url": "https://pirate.com/en/blog/london-live-music-venues/"
-      }
-    ]
-  },
   "roadtripbar": {
     "name": "Road Trip Bar",
     "topics": [
@@ -102532,63 +107017,6 @@
         "tier": "C",
         "source": "Full Suitcase",
         "url": "https://fullsuitcase.com/london-best-views/"
-      }
-    ]
-  },
-  "skygarden": {
-    "name": "The Sky Garden",
-    "topics": [
-      "london-with-children",
-      "views"
-    ],
-    "sourceCount": 6,
-    "tierSpread": "B1 C5",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "london-with-children": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "views": {
-        "sourceCount": 5,
-        "tierSpread": "B1 C4",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/best-views-london"
-      },
-      {
-        "tier": "C",
-        "source": "Mummy Travels",
-        "url": "https://www.mummytravels.com/things-to-do-in-london-with-kids/"
-      },
-      {
-        "tier": "C",
-        "source": "Full Suitcase",
-        "url": "https://fullsuitcase.com/london-best-views/"
-      },
-      {
-        "tier": "C",
-        "source": "Wildside Travellers",
-        "url": "https://www.wildsidetravellers.com/rooftop-views-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Alex Jessica Mills",
-        "url": "https://alexjessicamills.com/best-free-viewing-platforms-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "The Empty Nest Explorers",
-        "url": "https://www.theemptynestexplorers.com/blog/best-free-views-of-the-london-skyline"
       }
     ]
   },
@@ -104012,6 +108440,31 @@
       }
     ]
   },
+  "trafalgarsquare": {
+    "name": "Trafalgar Square",
+    "topics": [
+      "london-with-children"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "london-with-children": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "A Mom Explores",
+        "url": "https://www.emilymkrause.com/blog/london-with-kids-planning-a-london-vacation-the-whole-family-with-love"
+      }
+    ]
+  },
   "ridepublictransportation": {
     "name": "Ride Public Transportation",
     "topics": [
@@ -105188,26 +109641,19 @@
       }
     ]
   },
-  "mercatomayfair": {
-    "name": "Mercato Mayfair",
+  "exmouthmarket": {
+    "name": "Exmouth Market",
     "topics": [
-      "markets",
-      "unusual"
+      "markets"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C3",
+    "sourceCount": 1,
+    "tierSpread": "C1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "markets": {
         "sourceCount": 1,
         "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "unusual": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -105217,16 +109663,6 @@
         "tier": "C",
         "source": "Solosophie",
         "url": "https://www.solosophie.com/best-markets-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Away to the City",
-        "url": "https://awaytothecity.com/unique-things-to-do-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Hues of Delahaye",
-        "url": "https://www.huesofdelahaye.com/unusual-things-to-do-in-london/"
       }
     ]
   },
@@ -106341,41 +110777,6 @@
       }
     ]
   },
-  "ixchel": {
-    "name": "Ixchel",
-    "topics": [
-      "mexican"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "mexican": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/joanneshurvell/2026/03/19/10-of-the-best-mexican--restaurants-in-london/"
-      },
-      {
-        "tier": "B",
-        "source": "The Sauce",
-        "url": "https://thesaucemag.com/best-mexican-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/mexican-restaurants/"
-      }
-    ]
-  },
   "breddos": {
     "name": "Breddos",
     "topics": [
@@ -106598,36 +110999,6 @@
         "tier": "C",
         "source": "Chicome",
         "url": "https://chicome.co.uk/best-mexican-restaurants-in-london/"
-      }
-    ]
-  },
-  "madera": {
-    "name": "Madera",
-    "topics": [
-      "mexican"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "mexican": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/best-mexican-restaurants-in-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-mexican-restaurants-london/"
       }
     ]
   },
@@ -108053,68 +112424,6 @@
       }
     ]
   },
-  "bubala": {
-    "name": "Bubala",
-    "topics": [
-      "middle-eastern",
-      "vegan"
-    ],
-    "sourceCount": 7,
-    "tierSpread": "B6 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 5,
-        "tierSpread": "B5",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "vegan": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-middle-eastern"
-      },
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-falafel-london"
-      },
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/the-best-falafel-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/best-middle-eastern-restaurants-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-vegan-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-vegan-restaurants-london"
-      }
-    ]
-  },
   "jumakitchen": {
     "name": "Juma Kitchen",
     "topics": [
@@ -108634,36 +112943,6 @@
         "tier": "B",
         "source": "Foodism",
         "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
-      }
-    ]
-  },
-  "coaloffice": {
-    "name": "Coal Office",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Fact Magazines",
-        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
       }
     ]
   },
@@ -113430,49 +117709,6 @@
       }
     ]
   },
-  "arcadefoodhall": {
-    "name": "Arcade Food Hall",
-    "topics": [
-      "new-openings",
-      "street-food"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "street-food": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food-markets-and-food-halls",
-        "quote": "#7"
-      },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
-      }
-    ]
-  },
   "avibistrot": {
     "name": "Avi Bistrot",
     "topics": [
@@ -116100,6 +120336,53 @@
       }
     ]
   },
+  "primrosehill": {
+    "name": "Primrose Hill",
+    "topics": [
+      "parks-gardens",
+      "views"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "parks-gardens": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "views": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-views-london"
+      },
+      {
+        "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/50-beautiful-parks-and-gardens-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Empty Nest Explorers",
+        "url": "https://www.theemptynestexplorers.com/blog/quick-guide-to-london-parks"
+      },
+      {
+        "tier": "C",
+        "source": "Full Suitcase",
+        "url": "https://fullsuitcase.com/london-best-views/"
+      }
+    ]
+  },
   "goldershillpark": {
     "name": "Golders Hill Park",
     "topics": [
@@ -116297,6 +120580,46 @@
         "tier": "C",
         "source": "Candace Abroad",
         "url": "https://candaceabroad.com/50-beautiful-parks-and-gardens-in-london/"
+      }
+    ]
+  },
+  "victoriapark": {
+    "name": "Victoria Park",
+    "topics": [
+      "parks-gardens"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "parks-gardens": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Lonely Planet",
+        "url": "https://www.lonelyplanet.com/articles/best-parks-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-parks-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/50-beautiful-parks-and-gardens-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Empty Nest Explorers",
+        "url": "https://www.theemptynestexplorers.com/blog/quick-guide-to-london-parks"
       }
     ]
   },
@@ -116894,6 +121217,41 @@
         "tier": "C",
         "source": "Candace Abroad",
         "url": "https://candaceabroad.com/50-beautiful-parks-and-gardens-in-london/"
+      }
+    ]
+  },
+  "hollandpark": {
+    "name": "Holland Park",
+    "topics": [
+      "parks-gardens"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "parks-gardens": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-parks-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/50-beautiful-parks-and-gardens-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Great British Gardens",
+        "url": "https://www.greatbritishgardens.co.uk/england/category/gardens-to-visit-in-london.html"
       }
     ]
   },
@@ -118253,58 +122611,6 @@
       }
     ]
   },
-  "yardsalepizza": {
-    "name": "Yard Sale Pizza",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 6,
-    "tierSpread": "A1 B3 C2",
-    "tierCount": 3,
-    "hasAward": true,
-    "byTopic": {
-      "pizza": {
-        "sourceCount": 6,
-        "tierSpread": "A1 B3 C2",
-        "tierCount": 3,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
-        "quote": "3rd place 2025 - Paolo Burini's Ragu Pazzo, with burrata, white anchovies and a lemon marmalade swirl"
-      },
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
-        "quote": "#8 of 21. Wood-fired Neapolitan - Clapton"
-      },
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      }
-    ]
-  },
   "doughhands": {
     "name": "Dough Hands",
     "topics": [
@@ -118652,38 +122958,6 @@
         "source": "National Pizza Awards",
         "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
         "quote": "2025 finalist (London)"
-      }
-    ]
-  },
-  "fattoamano": {
-    "name": "Fatto a Mano",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
-    "tierCount": 2,
-    "hasAward": true,
-    "byTopic": {
-      "pizza": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
-        "tierCount": 2,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
-        "quote": "2025 finalist (listed as Brighton)"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
-        "quote": "#14 of 21"
       }
     ]
   },
@@ -119970,31 +124244,6 @@
   },
   "badboypizzeria": {
     "name": "Bad Boy Pizzeria",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "pizza": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
-      }
-    ]
-  },
-  "rudys": {
-    "name": "Rudy's",
     "topics": [
       "pizza"
     ],
@@ -121652,53 +125901,6 @@
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
         "quote": "Direct links to Padstow and its day boats mean the fish at this Highbury restaurant couldn't be more sparkling fresh. Obviously, you'll be wanting to try the signature prawn and avo dish alongside the other daily specials."
-      }
-    ]
-  },
-  "seabird": {
-    "name": "Seabird",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "B4 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 5,
-        "tierSpread": "B4 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london",
-        "quote": "Arguably London's prettiest rooftop, Seabird in Southwark is also home to the best oyster experience in the city."
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/london-seafood-restaurants/"
-      },
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
-        "quote": "This high rise restaurant from the team behind Brooklyn's Maison Premiere mixes local seafood with Mediterranean influences and throws in jaw-dropping views to boot."
       }
     ]
   },
@@ -124310,36 +128512,6 @@
         "tier": "C",
         "source": "Walk Eat London",
         "url": "https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
-      }
-    ]
-  },
-  "sucre": {
-    "name": "Sucre",
-    "topics": [
-      "steak"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "steak": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/"
       }
     ]
   },
@@ -127330,31 +131502,6 @@
   },
   "mangotree": {
     "name": "Mango Tree",
-    "topics": [
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-thai-restaurants-london"
-      }
-    ]
-  },
-  "rosasthai": {
-    "name": "Rosa's Thai",
     "topics": [
       "thai"
     ],
@@ -131639,6 +135786,31 @@
       }
     ]
   },
+  "littlevenice": {
+    "name": "Little Venice",
+    "topics": [
+      "unusual"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "unusual": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Away to the City",
+        "url": "https://awaytothecity.com/unique-things-to-do-in-london/"
+      }
+    ]
+  },
   "coaldropsyard": {
     "name": "Coal Drops Yard",
     "topics": [
@@ -132301,31 +136473,6 @@
   },
   "attendantcoffeeroastersfitzrovia": {
     "name": "Attendant Coffee Roasters Fitzrovia",
-    "topics": [
-      "unusual"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "unusual": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Away to the City",
-        "url": "https://awaytothecity.com/unique-things-to-do-in-london/"
-      }
-    ]
-  },
-  "churchillarms": {
-    "name": "The Churchill Arms",
     "topics": [
       "unusual"
     ],

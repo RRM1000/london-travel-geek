@@ -1,0 +1,52 @@
+{
+  "topic": "instagrammable",
+  "article": "src/content/articles/most-instagrammable-restaurants-london.md",
+  "headTerm": "Instagrammable Restaurants",
+  "note": "DRAFT - not yet collected. The site does not use the word 'Instagrammable' once across 122 guides, so this targets a query it has no page for at all. It is deliberately NOT the 'nicest rooms' guide that was considered first: that one would have competed with special-occasion-restaurants-london, whose own description already promises 'the rooms worth booking for the room alone', and with historic-pubs-dining-rooms-london.\n\nWHY THIS TOPIC INVERTS THE USUAL TIER ORDER. On every other topic the social tiers are the weakest evidence, collected because the method insists. Here they are the subject: a room that is all over TikTok IS a photogenic room, and that is not a proxy for the thing, it is the thing. Tier D is therefore expected to be the largest tier, and the usual 'flag any topic above 70% social' warning in audit-source-mix should be read as expected rather than as a fault. Say this in the evidence block; no competitor will.\n\nWHAT THIS GUIDE RANKS. The room, not the cooking. Some of these kitchens are ordinary and the guide must say so plainly where it is true - that honesty is the only thing separating it from the listicles it competes with. Never imply a venue cooks well because it photographs well.",
+  "awardBodies": [
+    {
+      "name": "Restaurant & Bar Design Awards",
+      "domain": "restaurantandbardesignawards.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "The closest thing to a judged award for a restaurant interior, and it is a weak fit: international, design-trade rather than reader-facing, and it judges the designer's work rather than whether a room photographs well. Scope it to London winners before counting anything - see trap 12, the national-list error. Expect a handful of London entries a year, not a ranked list."
+    }
+  ],
+  "editorialLists": [
+    { "name": "Time Out", "domain": "timeout.com", "ranked": "check", "note": "Runs both 'most beautiful restaurants' and 'most Instagrammable' style lists. Trap 16: compare the name arrays before trusting two records from this domain as two sources - its afternoon tea and 'quirkiest afternoon tea' lists turned out to be the same page twice." },
+    { "name": "The Infatuation", "domain": "theinfatuation.com", "ranked": "mixed" },
+    { "name": "Condé Nast Traveller", "domain": "cntraveller.com", "ranked": false },
+    { "name": "Harper's Bazaar", "domain": "harpersbazaar.com", "ranked": false },
+    { "name": "Evening Standard", "domain": "standard.co.uk", "ranked": false },
+    { "name": "Secret London", "domain": "secretldn.com", "ranked": false, "note": "Weak on food, strong on exactly this axis. Tier B." }
+  ],
+  "facetAxis": {
+    "field": "setting",
+    "note": "Reuses the sheet's existing Setting column, which is already populated on 296 rows, rather than inventing a new one. The values below are the ones that carry a look; counter, food-hall and market-stall exist on the sheet but are not photogenic categories and are deliberately absent. A venue with no Setting value is not disqualified - the axis is for the sections, not the ranking.",
+    "values": [
+      { "key": "historic-building", "label": "Rooms inside listed buildings", "describeAs": "a dining room in a building that was something else first" },
+      { "key": "hotel", "label": "Hotel rooms and grand salons", "describeAs": "the chandeliered end of the market, where the room is the reason for the price" },
+      { "key": "rooftop", "label": "Rooftops", "describeAs": "a room whose view is the decoration" },
+      { "key": "riverside", "label": "On the water", "describeAs": "tables facing the Thames or a canal" },
+      { "key": "garden", "label": "Glasshouses and gardens", "describeAs": "eating under glass, or inside something growing" },
+      { "key": "basement", "label": "Basements and vaults", "describeAs": "low, dark rooms where the lighting does the work" }
+    ]
+  },
+  "formatSection": {
+    "title": "All look, ordinary plate",
+    "note": "The section that earns the guide its credibility. Rooms worth photographing where the cooking is unremarkable, said plainly and sourced - a critic saying the food is fine is a citation like any other. Without this the guide is a listicle. With it, it is the only honest one."
+  },
+  "knownGaps": [
+    "NOT YET COLLECTED. This config is a draft for review; no sources have been recorded and no article exists.",
+    "No judged award really covers this. The Restaurant & Bar Design Awards judges design, internationally, for the trade. The evidence block must say the ranking rests on editorial and social consensus alone - which under this topic's inverted tier order is a reasonable basis, not an apology.",
+    "Reddit (tier E) is blocked in this environment, so the community tier cannot be collected here. Record any thread the user supplies by hand.",
+    "This topic dates faster than any other on the site. Flower walls are seasonal, installations get replaced, and pop-up rooms close. Needs a visible checked-on date and a shorter refresh cycle than a food guide.",
+    "Instagram's own hashtag scraper is the obvious source and the most expensive per post in the actor table. Budget it deliberately; do not bulk-pull.",
+    "The sheet's Setting column is populated on 296 of 845 rows, so the facet axis will be blank for most venues until it is filled in."
+  ],
+  "openVenueQuestions": [
+    "Sketch and Bob Bob Ricard already appear in special-occasion-restaurants-london's 'Book for the room' section. Venue-level overlap between two guides is fine; page-level competition is not. Confirm before publishing that the two pages read as different questions.",
+    "Sketch is several rooms under one roof - the pink Gallery, the Lecture Room, the egg lavatories - and sources name them interchangeably. This is trap 17, the venue-inside-something-bigger case that cost afternoon tea 45 aliases. Decide the canonical name before recording anything.",
+    "Big Mamma group rooms (Circolo Popolare, Gloria, Ave Mario, Jacuzzi) are designed to be photographed and will be heavily cited. Decide whether they are counted per venue or collapsed to the group, as the chains topic does."
+  ]
+}

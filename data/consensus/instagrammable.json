@@ -1,0 +1,141 @@
+{
+  "cuisine": "instagrammable",
+  "note": "SCOPE. Rooms photographed for the room. This topic ranks the SETTING, not the cooking, and the article must say so plainly - several of these kitchens are ordinary and one of them is a chain cafe. Guides about the food live in their own topics; special-occasion-restaurants-london and historic-pubs-dining-rooms-london cover the overlapping venues from a booking and a heritage angle respectively, which is why this is a separate question rather than a competing page.\n\nTIER ORDER IS INVERTED HERE. On every other topic social is the weakest evidence. Here it is the subject: a room all over TikTok IS a photogenic room. That makes the gap below worse than it would be elsewhere, not better.",
+  "recorded": "2026-09-03",
+  "knownGaps": [
+    "NO TIER A. No judged award for London restaurant interiors surfaced. The Restaurant & Bar Design Awards is international and design-trade rather than reader-facing, and did not return usable London results. This corpus rests entirely on editorial and blog consensus.",
+    "NO TIER D OR E. APIFY_TOKEN is not configured in this environment, so YouTube and TikTok could not be collected properly, and Reddit is blocked to the fetcher. Searching for creators returned only more blog posts, and no channel URL was recorded rather than reconstructing one - see trap 5. audit-source-mix will fail this topic on the social floor, correctly.",
+    "BLOG TIER OUTWEIGHS EDITORIAL, four to three. Two mastheads that should be here refused the fetcher: visitlondon.com and thehandbook.com both returned 403. thatsup.co.uk is on the permanent-403 list already.",
+    "This topic dates faster than any other on the site. Flower walls are seasonal and installations get replaced, so the checked-on date matters more here than on a food guide."
+  ],
+  "sources": [
+    {
+      "name": "DesignMyNight - 40 Most Instagrammable Restaurants In London",
+      "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london",
+      "scope": "instagrammable",
+      "tier": "B",
+      "note": "NUMBERED BUT NOT RANKED. The page numbers its entries 1-41 and the numbering is presentational, exactly as data/topics/pizza.json already records for this domain. No ranks carried. The extraction also skipped 23 and 24, so this list is 39 readable names of a stated 41.",
+      "names": ["Brasserie of Light","Gloria","Wagtail","Bustronome","14 Stories","Sky Garden","Bob Bob Ricard","Aqua Nueva","Amazing Grace","Mercato Mayfair","Pergola on the Wharf","Colonel Saab","No.197 Chiswick Fire Station","The Palm House","Sticky Mango","The Churchill Arms","Megan's","Vicinity","Miradora","The Libertine","Sticks'n'Sushi","The Brush","Noya","Sketch","Madera","Circolo Popolare","Dalloway Terrace","Joia","Bacchanalia","Jacuzzi","Tattu","Sucre","Silva","Ave Mario","Amazonico","ALBA","Hawksmoor","VOCALE Mayfair","Town"],
+      "quotes": {
+        "Brasserie of Light": "Giant Damien Hirst unicorn sculpture",
+        "Bacchanalia": "Hand-painted ceiling murals and Greek mythology theme",
+        "Sketch": "Pink room with artwork and iconic egg toilets",
+        "Sucre": "Glittering interiors with 1,000-piece cut glass chandeliers",
+        "Jacuzzi": "Vibrant artwork with chandeliers and disco ball stairway",
+        "Tattu": "Cherry blossom and striking furniture displays",
+        "Ave Mario": "Bold red interiors with mirrors and plants",
+        "Dalloway Terrace": "Seasonally changing foliage and heritage features",
+        "Circolo Popolare": "Amalfi-style flair with extravagant interiors"
+      }
+    },
+    {
+      "name": "HELLO! - The most Instagrammable restaurants in London",
+      "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/",
+      "scope": "instagrammable",
+      "tier": "B",
+      "note": "Unranked, 12 venues in the order featured.",
+      "names": ["La Maison Ani","Shanghai Me","Hutong","Bob Bob Ricard","Joia","Bacchanalia","Mistress of Mayfair","The Dreamery","Gloria","Ixchel","Sessions Arts Club","Azzurra"],
+      "quotes": {
+        "Bob Bob Ricard": "Iconic 'press for champagne' buttons and glamorous Golden Age interiors",
+        "Bacchanalia": "Greek god statues, hand-painted ceilings, and classical artwork throughout",
+        "Sessions Arts Club": "Grade II* listed building with three terraces and rooftop bar",
+        "Gloria": "Shoreditch Italian spot with hand-painted plates and 'mesmerising' interiors"
+      }
+    },
+    {
+      "name": "Country & Town House - London's Most Aesthetic Restaurant Interiors",
+      "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/",
+      "scope": "instagrammable",
+      "tier": "B",
+      "note": "Unranked. The only source in this corpus that credits the DESIGNER of each room, which is why its quotes are the most useful for the article.",
+      "names": ["Wildflowers","Bacchanalia","The Hero","Bar Douro","Tattu","Sessions Arts Club","Sketch","The Red Room","Beaverbrook Town House","Ave Mario","Ottolenghi","Maison Francois","Spring"],
+      "quotes": {
+        "Bacchanalia": "Designed by Martin Brudnizki, with marble sculptures by Damien Hirst and murals by Gary Myatt",
+        "Sketch": "The Gallery room, redesigned by Yinka Shonibare and India Mahdavi",
+        "Tattu": "Designed by Joyce Wang Studio, recreating a traditional Chinese courtyard with a statement cherry blossom installation",
+        "Sessions Arts Club": "Restored 18th-century courthouse, an eclectic array of beautifully battered armchairs",
+        "Ave Mario": "Studio Kiki design with a hall of mirrors, psychedelic duomo-striped walls, and a bar holding 3,500 bottles",
+        "Bar Douro": "Hand painted azulejos tiles and a shack-like ceiling",
+        "Spring": "Blonde wood and blush-toned fabrics, with a porcelain petal installation by Valeria Nascimento"
+      }
+    },
+    {
+      "name": "Luxury Wanderings - 41 Most Beautiful Restaurants in London",
+      "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/",
+      "scope": "instagrammable",
+      "tier": "C",
+      "note": "Unranked, grouped by category rather than ordered. The widest list in the corpus at 41 names.",
+      "names": ["Claridge's","Annabel's","Bacchanalia","Mount St. Restaurant","The Ivy Chelsea Garden","Brasserie of Light","Hide","Isabel","At Sloane","Dear Jackie","Sessions Arts Club","Sketch","Petersham Nurseries","Dalloway Terrace","Clos Maggiore","Kettner's Townhouse","Spring","Riviera","Gold","Apple Butter","Brother Marcus","Minnow","Carlotta","Ave Mario","Jacuzzi","Gloria","Circolo Popolare","Cycene","The Light Bar & Dining","Kol","Seabird","Coal Office","Berenjak","Chuku's","Jolene","Bancone","La Poule au Pot","Mari Vanna","Bar Douro","Uchi","Santo Remedio"],
+      "quotes": {
+        "Isabel": "Glamorous Beaux-Arts dining room",
+        "Petersham Nurseries": "Greenhouse-style dining surrounded by plants",
+        "Clos Maggiore": "Blossom-filled conservatory",
+        "The Ivy Chelsea Garden": "Beautifully curated garden terrace",
+        "Spring": "Light-filled 19th-century drawing room",
+        "Sessions Arts Club": "Historic judges' dining room with an artistic edge"
+      }
+    },
+    {
+      "name": "My Global Viewpoint - 23 Most Instagrammable Restaurants in London",
+      "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/",
+      "scope": "instagrammable",
+      "tier": "C",
+      "note": "Unranked, presented as a curated collection.",
+      "names": ["Sketch","Circolo Popolare","Winter Garden","Hoppers","Sexy Fish","Gunpowder","Darwin Brasserie","Mallow","Jacuzzi","Bancone","NoMad London","Ave Mario","YOPO","Arcade Food Hall","Bacchanalia","Bubala","14 Hills","Aqua Kyoto","Petersham Nurseries","Sticks'n'Sushi","Seabird","Dishoom","Brasserie of Light"],
+      "quotes": {
+        "Sketch": "Iconic all-pink Gallery room and space-age pod toilets",
+        "Circolo Popolare": "Twinkling fairy lights, walls literally stacked with hundreds of bottles",
+        "Winter Garden": "Eight-storey glass atrium with towering palm trees",
+        "NoMad London": "Three-storey glass atrium overflowing with plants",
+        "Jacuzzi": "Multi-level Sicilian space with a retractable glass roof",
+        "Petersham Nurseries": "A glasshouse surrounded by plants"
+      }
+    },
+    {
+      "name": "Anoushka Probyn - 10 Of The Most Beautiful Restaurants in London",
+      "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/",
+      "scope": "instagrammable",
+      "tier": "C",
+      "note": "Unranked. Presented in order but explicitly not by preference.",
+      "names": ["Circolo Popolare","Bacchanalia","Florattica","The Ivy Chelsea Garden","Sucre","Eve","Brasserie of Light","Sushi Samba","Linnaean","Dalloway Terrace"],
+      "quotes": {
+        "Circolo Popolare": "Reams of fairy lights hang from a canopy of foliage, and over 20,000 bottles line the walls",
+        "Sucre": "Refined, and undeniably impressive, but just subdued enough to not feel gimmicky",
+        "Brasserie of Light": "A 24-foot crystal-encrusted Damien Hirst unicorn",
+        "Dalloway Terrace": "Covered terrace with seasonal floral makeovers"
+      }
+    },
+    {
+      "name": "Dine with JP - Best Instagrammable Restaurants in London",
+      "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/",
+      "scope": "instagrammable",
+      "tier": "C",
+      "note": "Unranked. Prints Instagram post counts per venue; these are the source's own figures and are NOT independently verifiable, so they are recorded here as quotes and must not be printed in the article as facts.",
+      "names": ["Sketch","Dalloway Terrace","Circolo Popolare","Gloria","Berners Tavern","Coppa Club","Sky Garden","EL&N","NoMad London","Isabel"],
+      "quotes": {
+        "Sketch": "The all-pink Gallery room with egg-pod bathrooms",
+        "Gloria": "1960s retro aesthetic with pink neon signage and a central blossom tree",
+        "Berners Tavern": "Triple-height gilded dining room with 50+ gilt-framed paintings and crystal chandeliers",
+        "Coppa Club": "Transparent igloo pods overlooking Tower Bridge",
+        "Sky Garden": "Free 35th-floor observation deck"
+      }
+    }
+  ],
+  "declined": [
+    {
+      "name": "Thatsup London - London's 40 Most Instagrammable Restaurants",
+      "url": "https://thatsup.co.uk/london/guide/the-most-instagrammable-restaurants-in-london/",
+      "why": "thatsup.co.uk is on the permanent-403 list in data/sources.json. Not fetched, not counted."
+    },
+    {
+      "name": "Visit London - 14 most Instagrammable restaurants in London",
+      "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/most-instagrammable-restaurants-in-london",
+      "why": "Returned HTTP 403 to the fetcher. Would be a tier B source - the official tourist board - and is the single most valuable missing record in this corpus. Worth retrying from a browser."
+    },
+    {
+      "name": "The Handbook - The Most Instagrammable Restaurants In London",
+      "url": "https://www.thehandbook.com/the-most-instagrammable-restaurants-in-london/",
+      "why": "Returned HTTP 403 to the fetcher. Tier B."
+    }
+  ]
+}

@@ -37,6 +37,23 @@ const OUT = "src/data/restaurantMaps.ts";
 // below still catches any that does not, so the failure stays loud either way.
 const MAPS = [
   {
+    key: "instagrammable-london",
+    list: "instagrammable",
+    // Nothing on this list is street food; every venue is a room.
+    streetFoodFormats: [],
+    // On the list and in the guide, but with no section of their own - they
+    // appear as cross-references or inside a by-setting paragraph.
+    tableOnly: [
+      "bancone", "sticks-n-sushi-battersea", "winter-garden-landmark", "joia",
+      "tattu-london", "isabel-mayfair", "bob-bob-ricard",
+      // These sit inside the by-setting and cheapest paragraphs rather than
+      // having a heading of their own, so they earn a pin and no link.
+      "nomad-london", "sky-garden", "sucre-london", "the-ivy-chelsea-garden",
+      "petersham-nurseries", "seabird", "spring-somerset-house",
+    ],
+    article: "src/content/articles/most-instagrammable-restaurants-london.md",
+  },
+  {
     key: "bakeries-london",
     list: "bakery",
     // Everything on this list is format "Bakery", so nothing is street food.
@@ -281,7 +298,7 @@ const MAPS = [
     list: "markets",
     streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
         tableOnly: ["horn-ok-please","gujarati-rasoi","kolkati","borough-market","old-spitalfields-market","broadway-market"],
-    exclude: ["seven-dials-market","arcade-food-hall","market-halls-victoria","market-halls-oxford-street","market-halls-canary-wharf","market-halls-paddington","flat-iron-square","gopals-corner","cutty-sark-street-food-market","brick-lane-market"],
+    exclude: ["seven-dials-market","tower-bridge-collective","arcade-food-hall","market-halls-victoria","market-halls-oxford-street","market-halls-canary-wharf","market-halls-paddington","flat-iron-square","gopals-corner","cutty-sark-street-food-market","brick-lane-market"],
     article: "src/content/articles/best-london-markets.md",
   },
 ];
