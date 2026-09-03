@@ -111,6 +111,9 @@ The **deep-fried whole seabass** with herbs has survived every menu change since
 
 *££ · inside The Salutation, 154 King Street* · Cited by 2 sources
 
+![A plate of stir-fried rice noodles with prawns, bean sprouts, egg and crushed peanuts](../../assets/articles/best-thai-restaurants-london/khun-pakin-thai.jpg)
+*Thai food out of a pub kitchen, inside The Salutation on King Street.*
+
 **Thai food out of a pub kitchen** — which in London usually means a bad green curry, and here means fierce Isaan cooking with no adjustment for the room it is in.
 
 **Som tam, larb and grilled pork neck** off the charcoal, seasoned as they would be in Ubon rather than moderated for a Hammersmith pub audience. The heat is real and the kitchen will not soften it unless you ask.
@@ -136,6 +139,9 @@ Richer and hotter than the north-east, with more coconut, turmeric and seafood, 
 ### Plaza Khao Gaeng
 
 *££ · Centre Point, Borough Yards and Covent Garden* · Cited by 5 sources
+
+![A shared spread of fried eggs, a minced meat stir-fry, a pot of yellow curry, jasmine rice and iced tea on a blue floral cloth](../../assets/articles/best-thai-restaurants-london/plaza-khao-gaeng.jpg)
+*A raan khao gaeng: you choose from what is already cooked, and it comes over rice.*
 
 **The most doctrinaire Southern kitchen in London**, and the format is the point: a *raan khao gaeng*, a curry-over-rice shop, where you choose from what is already cooked rather than ordering à la carte.
 
@@ -207,6 +213,9 @@ The signature is **kolae chicken**, the dish the restaurant is named after: butt
 
 *££ · pool tables* · Cited by 4 sources
 
+![A metal pot of orange-red soup with prawns, crisp pork belly, a raw egg yolk, lime slices and coriander](../../assets/articles/best-thai-restaurants-london/speedboat-bar.jpg)
+*Thai-Chinese cooking from Bangkok's Yaowarat district, built to be eaten with beer rather than wine.*
+
 Built to feel like a **late-night Bangkok Chinatown canteen** — strip lights, football on the screens, **pool tables** — and the curries are good enough that it was ranked the fourth best restaurant in London.
 
 The cooking is Thai-Chinese from Bangkok's Yaowarat district: **dry-aged noodle dishes**, wok-charred seafood and curries with real heat, built to be eaten with beer rather than wine. The pool tables are used, which tells you what kind of evening it is.
@@ -262,6 +271,9 @@ The menu changes constantly and leans northern: **grilled meats, jungle curry, w
 ### The Begging Bowl, Peckham
 
 *£££ · 168 Bellenden Road* · Cited by 5 sources
+
+![A whole fried fish under coriander, shredded ginger and sliced shallots in a dark sauce, on a blue and white plate](../../assets/articles/best-thai-restaurants-london/the-begging-bowl.jpg)
+*Northern Thai in Peckham, in dishes meant to be ordered across the table and shared.*
 
 **Jane Alty trained under David Thompson** — the Australian chef who did more than anyone to document real Thai cooking — **and cooks northern Thai in Peckham**, in small plates meant to be ordered across the table.
 
