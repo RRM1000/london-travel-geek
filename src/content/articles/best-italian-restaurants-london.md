@@ -105,8 +105,8 @@ Northern Italian cooking in a formal room: **hand-made pasta**, veal, and a set-
 
 **££££, closed Sunday, and it books weeks ahead.** The set lunch is materially cheaper than dinner from the same kitchen.
 
-![A charcuterie board with olive oil and grissini](../../assets/articles/best-italian-restaurants-london/murano.jpg)
-*Angela Hartnett's Mayfair dining room. The pasta course is the one to build the meal around. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5210809193), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+![A slice of pink-cooked loin in red jus with pea puree, on a white plate with leaves and shaved onion](../../assets/articles/best-italian-restaurants-london/murano.jpg)
+*Precise rather than showy: the set-price menu lets you build two, three or four courses.*
 
 
 ---
@@ -146,6 +146,9 @@ Eight or nine dishes, most under a tenner: **pici cacio e pepe**, **tagliarini w
 ### Manteca, Shoreditch
 
 *£££ · 10 min from Old Street · Cited by 8 sources · Bib Gourmand*
+
+![Thick strands of pasta coated in a glossy orange sauce with cracked black pepper, in a dark pan](../../assets/articles/best-italian-restaurants-london/manteca.jpg)
+*Hand-rolled pasta, from a kitchen whose salumeria is on site and visible.*
 
 **Chris Leach and David Carter's nose-to-tail Italian**, with **whole-animal butchery feeding a menu of house-cured salumi and hand-rolled pasta** — the salumeria is on site and visible.
 
@@ -252,6 +255,9 @@ The menu is short and changes constantly with what is in season: **pasta rolled 
 ### Legare, Shad Thames — modern Italian
 
 *££ · 8 min from London Bridge · Cited by 4 sources*
+
+![Wide ribbons of fresh egg pasta with sausage ragu, crisp breadcrumbs and grated cheese in a shallow bowl](../../assets/articles/best-italian-restaurants-london/legare.jpg)
+*Hand-rolled and changing weekly — the Trullo pedigree showing in the pasta.*
 
 **Opened in 2019 by Jay Patel (ex Barrafina) and chef Matt Beardmore (ex Trullo)**, in the warehouse streets by Tower Bridge — a neighbourhood Italian in a quarter that mostly serves tourists.
 
