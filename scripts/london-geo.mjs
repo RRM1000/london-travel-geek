@@ -147,6 +147,13 @@ export const HOODS = {
   "Leyton":              { zone: "3",   district: "East" },
   // Added by the celebrity-owned pass, 2026-08-23.
   "Limehouse":           { zone: "2",   district: "East" },
+  // Added by the hot pot consensus pass, 2026-09-03. Two of London's longest-
+  // running hot pot restaurants sit side by side on East India Dock Road, and
+  // the buffet pots are in Rotherhithe - neither hood existed here, and filing
+  // them under Canary Wharf would have put a reader on the wrong side of a
+  // twenty-minute walk.
+  "Poplar":              { zone: "2",   district: "East" },
+  "Rotherhithe":         { zone: "2",   district: "South" },
   // Added by the unusual-venues pass, 2026-08-23. The floating pagoda at
   // Cumberland Basin sits on the park's northern edge, not in Camden Town.
   "Regent's Park":       { zone: "1",   district: "North" },

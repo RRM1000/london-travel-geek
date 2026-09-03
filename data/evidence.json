@@ -37538,7 +37538,7 @@
       "general"
     ],
     "sourceCount": 4,
-    "tierSpread": "B3 C1",
+    "tierSpread": "B3 D1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -37556,7 +37556,7 @@
       },
       "dim-sum": {
         "sourceCount": 3,
-        "tierSpread": "B2 C1",
+        "tierSpread": "B2 D1",
         "tierCount": 2,
         "hasAward": false
       },
@@ -37584,8 +37584,8 @@
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
       },
       {
-        "tier": "C",
-        "source": "youtube.com/@dejashu",
+        "tier": "D",
+        "source": "Shu (YouTube)",
         "url": "https://www.youtube.com/@dejashu"
       }
     ]
@@ -51163,7 +51163,7 @@
       "dim-sum"
     ],
     "sourceCount": 7,
-    "tierSpread": "A1 B2 C3 D1",
+    "tierSpread": "A1 B2 C2 D2",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -51175,7 +51175,7 @@
       },
       "dim-sum": {
         "sourceCount": 5,
-        "tierSpread": "A1 C3 D1",
+        "tierSpread": "A1 C2 D2",
         "tierCount": 3,
         "hasAward": true
       }
@@ -51208,15 +51208,15 @@
         "url": "https://www.youtube.com/@AmandaFelixEats"
       },
       {
-        "tier": "C",
-        "source": "youtube.com/@dejashu",
-        "url": "https://www.youtube.com/@dejashu"
-      },
-      {
         "tier": "D",
         "source": "TOPJAW (YouTube)",
         "url": "https://www.youtube.com/@topjaw",
         "quote": "the video opens on it"
+      },
+      {
+        "tier": "D",
+        "source": "Shu (YouTube)",
+        "url": "https://www.youtube.com/@dejashu"
       }
     ]
   },
@@ -51638,17 +51638,24 @@
   "hottopotto": {
     "name": "Hotto Potto",
     "topics": [
-      "chinese"
+      "chinese",
+      "hot-pot"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 5,
+    "tierSpread": "B3 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "chinese": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hot-pot": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -51658,6 +51665,29 @@
         "source": "The Hotel Journal",
         "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
         "quote": "Listed under Aldgate."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-pot-london",
+        "quote": "Sichuan, with a fiery beef tallow broth and a speciality mix platter - Aldgate"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/hot-pot-london"
+      },
+      {
+        "tier": "C",
+        "source": "London Cheapo",
+        "url": "https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/",
+        "quote": "A great BBQ selection and handy mixed platters for those who struggle with the amount of choice. The menu includes recommended cooking times - Aldgate"
+      },
+      {
+        "tier": "D",
+        "source": "Londonspicetrail (YouTube)",
+        "url": "https://www.youtube.com/@Londonspicetrail",
+        "quote": "Close to Tower Bridge by Aldgate station. Whether you're a meat lover, a vegetarian, or looking for halal choices, there's something for everyone. Staff will assist you in cooking your food. Private karaoke rooms."
       }
     ]
   },
@@ -51720,8 +51750,8 @@
       "dim-sum"
     ],
     "sourceCount": 8,
-    "tierSpread": "B4 C4",
-    "tierCount": 2,
+    "tierSpread": "B4 C3 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "chinese": {
@@ -51732,8 +51762,8 @@
       },
       "dim-sum": {
         "sourceCount": 5,
-        "tierSpread": "B1 C4",
-        "tierCount": 2,
+        "tierSpread": "B1 C3 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -51772,14 +51802,14 @@
       },
       {
         "tier": "C",
-        "source": "youtube.com/@dejashu",
-        "url": "https://www.youtube.com/@dejashu"
-      },
-      {
-        "tier": "C",
         "source": "youtube.com/@chef_who_travels",
         "url": "https://www.youtube.com/@chef_who_travels",
         "quote": "could have the best dim sum in London"
+      },
+      {
+        "tier": "D",
+        "source": "Shu (YouTube)",
+        "url": "https://www.youtube.com/@dejashu"
       }
     ]
   },
@@ -51950,17 +51980,24 @@
   "dalongyi": {
     "name": "Da Long Yi",
     "topics": [
-      "chinese"
+      "chinese",
+      "hot-pot"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "chinese": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hot-pot": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -51970,6 +52007,23 @@
         "source": "The Hotel Journal",
         "url": "https://thehoteljournal.com/best-chinese-restaurants-in-london/",
         "quote": "Listed under Soho."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-pot-london",
+        "quote": "Modern Sichuan - a mouth-numbing Sichuan peppercorn and butter bath - Fitzrovia"
+      },
+      {
+        "tier": "C",
+        "source": "London Cheapo",
+        "url": "https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Goldfoil Magazine",
+        "url": "https://www.goldfoil.eu/articles/da-long-yi-london-hot-pot-restaurant-review",
+        "quote": "5A Berners Street, Fitzrovia W1T 3LA. The signature Sichuan broth is beef tallow, dried chillies, Sichuan peppercorns and more than twenty aromatics; the heat is layered and builds gradually. Dual-sided pot of tomato-and-fried-egg and pork bone. Sauce station with recipe cards. The Volcano Beef is marbled beef built into a cone over crushed ice with chilli oil poured through the centre."
       }
     ]
   },
@@ -53161,16 +53215,23 @@
   "leongslegend": {
     "name": "Leong's Legend",
     "topics": [
-      "chinese"
+      "chinese",
+      "hot-pot"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "chinese": {
         "sourceCount": 2,
         "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hot-pot": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -53185,6 +53246,18 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown"
+      },
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "Originally a Taiwanese snack house; the walls carry Water Margin characters. The courtyard hot pot is about £25 a head all you can eat, which makes it one of Chinatown's cheaper pots. 39 Gerrard Street W1D 5QD. ££"
+      },
+      {
+        "tier": "C",
+        "source": "Surrey Chinese 萨里鹿游器",
+        "url": "https://www.surreychinese.co.uk/archives/15425",
+        "quote": "2018: one of the cheapest all-you-can-eat hot pots in London. 39 Gerrard Street W1D 5QD"
       }
     ]
   },
@@ -53220,17 +53293,24 @@
       }
     ]
   },
-  "realbeijingfoodhouse": {
-    "name": "Real Beijing Food House",
+  "realbeijing": {
+    "name": "Real Beijing",
     "topics": [
-      "chinese"
+      "chinese",
+      "hot-pot"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "chinese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hot-pot": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -53242,6 +53322,12 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-pot-london",
+        "quote": "Beijing-style copper hot pot with smouldering charcoal and a preserved cabbage broth - Chinatown"
       }
     ]
   },
@@ -54159,16 +54245,23 @@
   "chillicool": {
     "name": "Chilli Cool",
     "topics": [
-      "chinese"
+      "chinese",
+      "hot-pot"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 6,
+    "tierSpread": "B1 C5",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "chinese": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hot-pot": {
+        "sourceCount": 5,
+        "tierSpread": "C5",
         "tierCount": 1,
         "hasAward": false
       }
@@ -54178,6 +54271,34 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-hot-pot-london/",
+        "quote": "You should be here for the Sichuan boboji, a style of hotpot where you order meat and veg on sticks - Bloomsbury"
+      },
+      {
+        "tier": "C",
+        "source": "London Cheapo",
+        "url": "https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/",
+        "quote": "A casual restaurant with a separate area for hot pot; famous for the fearsomely authentic levels of chilli and Sichuan pepper - Bloomsbury"
+      },
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "A straightforward Sichuan restaurant near King's Cross - maocai, mala xiang guo and stir-fries. The hot pot is good and the value is high. 15 Leigh Street WC1H 9EW. ££"
+      },
+      {
+        "tier": "C",
+        "source": "Surrey Chinese 萨里鹿游器",
+        "url": "https://www.surreychinese.co.uk/archives/15425"
+      },
+      {
+        "tier": "C",
+        "source": "UK002 英国生活零零兔",
+        "url": "https://www.uk002.com/note/60198"
       }
     ]
   },
@@ -88970,6 +89091,1234 @@
       }
     ]
   },
+  "superthree": {
+    "name": "Super Three",
+    "topics": [
+      "hot-pot",
+      "korean"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-pot-london",
+        "quote": "All-you-can-eat Sichuan hot pot with a spicy butter base, plus Korean charcoal barbecue - Poplar"
+      },
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "A long-established Sichuan restaurant near Canary Wharf with a huge range of broths; the Sichuan cooking is as well known as the hot pot. 207 East India Dock Road, Poplar E14 0ED. ££"
+      },
+      {
+        "tier": "C",
+        "source": "Surrey Chinese 萨里鹿游器",
+        "url": "https://www.surreychinese.co.uk/archives/15425"
+      }
+    ]
+  },
+  "hanrestaurant": {
+    "name": "Han Restaurant",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-pot-london",
+        "quote": "Hainanese coconut chicken hot pot, a sweet and refreshing broth - Poplar"
+      },
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "Known for a beef-tallow broth served in a bear-shaped block; also does crab pot, barbecue, Dongbei and Sichuan dishes. 213 East India Dock Road, Poplar E14 0ED. ££"
+      }
+    ]
+  },
+  "nanhotpot": {
+    "name": "Nan Hotpot",
+    "topics": [
+      "hot-pot",
+      "late-night"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "late-night": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-pot-london",
+        "quote": "Chongqing-style, half-and-half mushroom and tomato broth, open until 3am - Chinatown"
+      },
+      {
+        "tier": "D",
+        "source": "BIG TEE THE FOODIE (YouTube)",
+        "url": "https://www.youtube.com/@BIGTEE_THEFOODIE",
+        "quote": "It truly captures the essence of a Chongqing hotpot restaurant in China, from the decor to the food, drinks and desserts. I've visited twice and always opted for the spicy and mushroom soup bases."
+      }
+    ]
+  },
+  "eattokyog2shabushabu": {
+    "name": "Eat Tokyo G2 Shabu-Shabu",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-pot-london",
+        "quote": "Japanese shabu-shabu, a light umami-rich miso bonito broth - Golders Green"
+      }
+    ]
+  },
+  "teohotpot": {
+    "name": "Teo Hot Pot",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-pot-london",
+        "quote": "Teochew-style, built on high-quality beef cuts with lighter broths - Fitzrovia"
+      }
+    ]
+  },
+  "shulala": {
+    "name": "Shu La La",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-pot-london",
+        "quote": "Sichuan dry spicy hot pot, scarlet-red oil and Sichuan peppercorns - Holloway"
+      }
+    ]
+  },
+  "ningsfreshbeefhotpot": {
+    "name": "Ning's Fresh Beef Hotpot",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-pot-london",
+        "quote": "Cantonese-Teochew, a fragrant delicate soup base and grass-fed beef - Fitzrovia"
+      }
+    ]
+  },
+  "niuhotpot": {
+    "name": "Niu Hot Pot",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-pot-london",
+        "quote": "Teochew-style with lighter broths, focused on Aberdeen Angus beef - Spitalfields"
+      }
+    ]
+  },
+  "mrwanghotpot": {
+    "name": "Mr Wang Hot Pot",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-pot-london",
+        "quote": "Malatang pick-and-mix with a creamy beef bone broth; pay by weight - Aldgate"
+      },
+      {
+        "tier": "B",
+        "source": "Broadsheet London",
+        "url": "https://www.broadsheet.com/london/articles/how-i-malatang",
+        "quote": "Shu Lin: first-timers are recommended to aim for 400 to 500 grams per person, but I frequently go over; a medium-spiced milky broth, beef rolls, tripe, lotus root, Fuzhou fish balls, frozen tofu"
+      }
+    ]
+  },
+  "haidilao": {
+    "name": "Haidilao",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B1 C4 D2",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 7,
+        "tierSpread": "B1 C4 D2",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/hot-pot-london",
+        "quote": "Known for its exceptional service and premium ingredients, it lets diners customise every aspect of their meal - Piccadilly and The O2"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-hot-pot-london/",
+        "quote": "You can get free manicures, play board games, nibble on fresh fruit and snacks while you wait - Leicester Square"
+      },
+      {
+        "tier": "C",
+        "source": "London Cheapo",
+        "url": "https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/",
+        "quote": "An apron, a band to tie our hair back, a fabric bag for our coats to stop the steam making them smell, and an iPad to order from. Worth ordering the noodles just for the performance noodle pull - Piccadilly, Greenwich"
+      },
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "RANKED #2 of the 2023 UK reader poll (London subset). Europe's first Haidilao; queued out of the door when it opened. Flavour and service the equal of China's, at a higher price. Piccadilly Circus and O2. ££"
+      },
+      {
+        "tier": "C",
+        "source": "UK002 英国生活零零兔",
+        "url": "https://www.uk002.com/note/60198",
+        "quote": "2020: £35 a head. Unit 4/5 the Trocadero Centre, Piccadilly W1D 7DH"
+      },
+      {
+        "tier": "D",
+        "source": "Shu (YouTube)",
+        "url": "https://www.youtube.com/@dejashu",
+        "quote": "Showing the full process from the queuing, entertainment in the waiting area, how to order Chinese hot pot, the sauces section and the pricing. There is a second branch at The O2 in North Greenwich."
+      },
+      {
+        "tier": "D",
+        "source": "Andy Eats (YouTube)",
+        "url": "https://www.youtube.com/@Andy-eats",
+        "quote": "I've tried visiting this restaurant a few times but it's always been booked up. I want to know whether I can say that Haidilao hot pot is value for money - this place is relatively expensive after all."
+      }
+    ]
+  },
+  "happylambhotpot": {
+    "name": "Happy Lamb Hot Pot",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B1 C4 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 6,
+        "tierSpread": "B1 C4 D1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/hot-pot-london",
+        "quote": "Mongolian culinary traditions - Holborn and Bayswater"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-hot-pot-london/",
+        "quote": "Beautifully-marbled, near-paper-thin slices of the stuff are to be seen on every table - Holborn"
+      },
+      {
+        "tier": "C",
+        "source": "London Cheapo",
+        "url": "https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/",
+        "quote": "Bone broths simmered for over 6 hours, with 36 fresh ingredients including goji berries, jujubes and ginseng - Holborn, Bayswater"
+      },
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "RANKED #1 of the 2023 UK reader poll (London subset). The people behind it are the original team from Little Sheep 小肥羊; it keeps the Mongolian principle that you should not need a dipping sauce. Two London branches. ££"
+      },
+      {
+        "tier": "C",
+        "source": "UK002 英国生活零零兔",
+        "url": "https://www.uk002.com/note/60198",
+        "quote": "2020: £30 a head; the original Little Sheep founding team's new brand, pitched higher than Little Sheep but keenly priced. 2 New Oxford Street WC1A 1AD"
+      },
+      {
+        "tier": "D",
+        "source": "Inner Alchemy (YouTube)",
+        "url": "https://www.youtube.com/@InnerAlchemyHub",
+        "quote": "If you're up for a short walk, Happy Lamb at Holborn is absolutely one of the best hot pot restaurants in London. The super spicy broth is rich and laced with dozens of whole dried chillies; they took a chicken bone marrow broth on the other side, plus grilled lamb kebabs."
+      }
+    ]
+  },
+  "shuxiangge": {
+    "name": "Shu Xiang Ge",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B1 C4",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 5,
+        "tierSpread": "B1 C4",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/hot-pot-london",
+        "quote": "London's first authentic eatery of its kind, dedicated to preserving and celebrating the deep-rooted heritage - Chinatown"
+      },
+      {
+        "tier": "C",
+        "source": "London Cheapo",
+        "url": "https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/",
+        "quote": "Claims to be London's first authentic Sichuan hot pot restaurant and prides itself on staying traditional. It's on the basic side and customer service can be a bit hit and miss but the flavours are certainly there - Chinatown"
+      },
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "RANKED #4 of the 2023 UK reader poll (London subset). Famous for the nine-grid jiugongge pot, with a yuanyang split pot for those who can't take the heat. 10 Gerrard Street W1D 5PW. £££"
+      },
+      {
+        "tier": "C",
+        "source": "Surrey Chinese 萨里鹿游器",
+        "url": "https://www.surreychinese.co.uk/archives/15425",
+        "quote": "2018: Sichuan, mala base, kidney, ox aorta and tripe; the rare nine-grid pot. Cash only and extremely busy, so book. STALE ADDRESS - 43 New Oxford Street WC1A 1BH"
+      },
+      {
+        "tier": "C",
+        "source": "UK002 英国生活零零兔",
+        "url": "https://www.uk002.com/note/60198",
+        "quote": "2020: £35 a head. The old guard, long the top of London's hot pot lists, with sites near the British Museum and in Chinatown"
+      }
+    ]
+  },
+  "muyanghotpotandbbq": {
+    "name": "Muyang Hot Pot & BBQ",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/hot-pot-london",
+        "quote": "The first Chinese eatery in the capital to introduce the authentic mini hot pot - Shepherd's Bush"
+      },
+      {
+        "tier": "C",
+        "source": "Surrey Chinese 萨里鹿游器",
+        "url": "https://www.surreychinese.co.uk/archives/15425",
+        "quote": "2018: the handmade fish balls are worth trying, with black fungus, quail eggs and rice cake. 33 Goldhawk Road W12 8QQ"
+      }
+    ]
+  },
+  "crystalchina": {
+    "name": "Crystal China",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/hot-pot-london",
+        "quote": "Claims to be the first and best dry hot pot in the capital - Tower Bridge"
+      },
+      {
+        "tier": "D",
+        "source": "Strictly Dumpling (YouTube)",
+        "url": "https://www.youtube.com/@strictlydumpling",
+        "quote": "78-80 Tower Bridge Road SE1 4TP"
+      }
+    ]
+  },
+  "tianfu": {
+    "name": "Tian Fu",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B1 C4",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 5,
+        "tierSpread": "B1 C4",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/hot-pot-london",
+        "quote": "Led by Chef Zhang XiaoZhong - Shepherd's Bush"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-hot-pot-london/",
+        "quote": "You'll find all sorts of intestines, tripe, and other questionable ingredients on the menu here - Shepherd's Bush"
+      },
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "Buffet or à la carte. Head chef Zhang Xiaozhong is said to be descended from Deng Xiaoping's private cook and has studied Sichuan cooking since he was sixteen. 37-39 Bulwer Street, Shepherd's Bush W12 8AR. ££"
+      },
+      {
+        "tier": "C",
+        "source": "Surrey Chinese 萨里鹿游器",
+        "url": "https://www.surreychinese.co.uk/archives/15425"
+      },
+      {
+        "tier": "C",
+        "source": "UK002 英国生活零零兔",
+        "url": "https://www.uk002.com/note/60198"
+      }
+    ]
+  },
+  "maomasterhotpotnoodle": {
+    "name": "Mao Master Hotpot Noodle",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Broadsheet London",
+        "url": "https://www.broadsheet.com/london/articles/how-i-malatang",
+        "quote": "By Russell Square. Not technically malatang, but it specialises in maocai, a Sichuan-style hot pot designed for people who want their own bowl"
+      }
+    ]
+  },
+  "yangguofumalatang": {
+    "name": "Yangguofu Malatang",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Broadsheet London",
+        "url": "https://www.broadsheet.com/london/articles/how-i-malatang",
+        "quote": "Irene Hua, chef at Zao An Cafe: sliced meat and vegetables, great value for weight; the classic herbal beef bone broth is a creamy bone broth with a bit of heat but not too oily"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2025080614398/Gastroblog/Latest-news/yangguofu-malatang-opens-chinatown-london-hotpot",
+        "quote": "47-49 Charing Cross Road WC2H 0AN, in the old Wing Wing site across Charing Cross Road and Newport Court. A chain with over 7,000 restaurants worldwide; until this opened you had to go to Hammersmith. Over 100 elements to choose from - protein, then noodles, add-ons, broth, condiments and dipping sauce."
+      }
+    ]
+  },
+  "mealtimemalatang": {
+    "name": "Mealtime Malatang",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Broadsheet London",
+        "url": "https://www.broadsheet.com/london/articles/how-i-malatang",
+        "quote": "Wei Guo, from Gansu: the soup base has to be mala, numbing and spicy - it wouldn't be malatang with any other base - Fitzrovia"
+      }
+    ]
+  },
+  "charcocharco": {
+    "name": "Charco Charco",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-hot-pot-london/",
+        "quote": "This marriage of hot pot and yakiniku in Covent Garden is the project of one heck of a success story"
+      }
+    ]
+  },
+  "kangnampocha": {
+    "name": "Kangnam Pocha",
+    "topics": [
+      "hot-pot",
+      "korean"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-hot-pot-london/",
+        "quote": "Gamja Tang, a spicy broth of braised pork ribs - KOREAN, scoped out of the article"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/korean-restaurants-london/"
+      }
+    ]
+  },
+  "cocoro": {
+    "name": "Cocoro",
+    "topics": [
+      "hot-pot",
+      "japanese"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-ramen-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-hot-pot-london/",
+        "quote": "The broth is delicate and balanced. Satisfying umami notes run throughout a clear broth - JAPANESE, scoped out of the article"
+      },
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "JAPANESE - sukiyaki and shabu-shabu, with an all-you-can-eat option at the Bloomsbury branch. 25 Coptic Street WC1A 1NT. £££. Scoped out of the article."
+      },
+      {
+        "tier": "C",
+        "source": "Best Japanese",
+        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
+      }
+    ]
+  },
+  "dragoninnclub": {
+    "name": "Dragon Inn Club",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-hot-pot-london/",
+        "quote": "Scarlet soups of fiery disposition that make for one spice-inducted high-endorphin meal - Victoria"
+      },
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "A dragon's-head pot and an expensive fish-maw chicken broth put it a level above the usual. Coconut chicken, beef tallow red soup, nourishing chicken and tomato are the standing bases. 16-18 Upper Tachbrook Street, Pimlico SW1V 1SH. £££"
+      }
+    ]
+  },
+  "naru": {
+    "name": "Naru",
+    "topics": [
+      "hot-pot",
+      "korean"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/the-best-korean-fried-chicken-london"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-hot-pot-london/",
+        "quote": "A portion of Korean army stew - KOREAN, scoped out of the article"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/korean-restaurants-london/"
+      }
+    ]
+  },
+  "xiongqihotpot": {
+    "name": "Xiong Qi Hot Pot",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Cheapo",
+        "url": "https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/",
+        "quote": "A great group option to escape the culinary wilderness that is Leicester Square. A poster on the wall has suggested cooking times and knowledgeable staff are happy to give advice"
+      }
+    ]
+  },
+  "bigbrotherhotpot": {
+    "name": "Big Brother Hot Pot",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "Mongolian-led, and one of London's rare hot-pot-plus-barbecue double buffets. 82-84 Bishop's Bridge Road W2 6BB. ££"
+      }
+    ]
+  },
+  "fengweishitang": {
+    "name": "Feng Wei Shi Tang",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "The first-floor hot pot is BEIJING COPPER POT, and the writer vouches for it as the real instant-boiled lamb: clear water in a tall copper pot, and a soft, mellow sesame sauce. Two London branches. ££"
+      }
+    ]
+  },
+  "waterhouserestaurant": {
+    "name": "Water House Restaurant",
+    "topics": [
+      "hot-pot",
+      "new-openings"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/londons-new-restaurant-openings"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "Buffet hot pot in Canada Water. Beyond mala and clear broth it offers old-duck, old-chicken and lamb soup bases, plus chuanchuan skewers and Hunanese cooking. 30-32 Albion Street, Rotherhithe SE16 7JQ. ££"
+      }
+    ]
+  },
+  "laoma": {
+    "name": "Laoma",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "Praised online for its service. Buffet hot pot, free soft drinks and no service charge; mostly students from the surrounding streets. 135 King's Cross Road WC1X 9BJ. ££"
+      }
+    ]
+  },
+  "mailinda": {
+    "name": "Mailinda",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "A canteen for the Isle of Dogs. Copper-pot hot pot and charcoal skewers, plus chive boxes and guo bao rou. 62 Mellish Street E14 8NS. ££"
+      },
+      {
+        "tier": "C",
+        "source": "UK002 英国生活零零兔",
+        "url": "https://www.uk002.com/note/60198",
+        "quote": "2020: proper northern old-style hot pot near Canary Wharf; the old Beijing copper pot is the real thing and cheap. 62 Mellish Street E14 8NS"
+      }
+    ]
+  },
+  "sagye": {
+    "name": "Sagye",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "KOREAN - seafood jeongol, beef jeongol and army stew on the Isle of Dogs. Scoped out of the article."
+      }
+    ]
+  },
+  "shanshuijian": {
+    "name": "Shan Shui Jian",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "London's lamb-spine (yang xie zi) hot pot - one of the authentic branches of a well-known Chinese chain, with the owner stewing the spines to his own recipe. Also grilled fish and chicken with mushrooms. 562 Commercial Road, Limehouse E14 7JD. ££"
+      }
+    ]
+  },
+  "shujiehotpot": {
+    "name": "Shujie Hotpot",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "RANKED #3 of the 2023 UK reader poll (London subset). Walk in and the room smells of chilli and Sichuan pepper. Duck intestine and pork brain on the menu; Sichuanese customers are the ones shouting about it. 25-26 Red Lion Street WC1R 4PS. ££"
+      },
+      {
+        "tier": "C",
+        "source": "UK002 英国生活零零兔",
+        "url": "https://www.uk002.com/note/60198",
+        "quote": "2020: £35 a head. Called the most authentic Sichuan hot pot in London by its fans, but a plain room - you come out smelling of it, so wear old clothes"
+      }
+    ]
+  },
+  "littlesichuan": {
+    "name": "Little Sichuan",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Red Scarf 红领巾",
+        "url": "https://www.honglingjin.co.uk/384906.html",
+        "quote": "Sichuanese customers vouch for the authenticity; the mala base is the one to have. 4-6 Northways Parade, South Hampstead NW3 5EN. ££"
+      },
+      {
+        "tier": "C",
+        "source": "UK002 英国生活零零兔",
+        "url": "https://www.uk002.com/note/60198",
+        "quote": "2020: 279C Finchley Road NW3 6LT - ADDRESS CONFLICTS with Red Scarf's South Hampstead NW3 5EN"
+      }
+    ]
+  },
+  "littlelambhotpot": {
+    "name": "Little Lamb Hotpot",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Surrey Chinese 萨里鹿游器",
+        "url": "https://www.surreychinese.co.uk/archives/15425",
+        "quote": "2018: a set menu at £23 a head including soup base, five main dishes and two and a half hours. 72 Shaftesbury Avenue W1D 6NA. UNCONFIRMED IN ANY CURRENT SOURCE"
+      }
+    ]
+  },
+  "joyluck": {
+    "name": "Joy Luck",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Surrey Chinese 萨里鹿游器",
+        "url": "https://www.surreychinese.co.uk/archives/15425",
+        "quote": "2018: buffet hot pot, split spicy and clear pot. 47 Gerrard Street W1D 5QJ. UNCONFIRMED IN ANY CURRENT SOURCE"
+      }
+    ]
+  },
+  "simmerhuang": {
+    "name": "Simmer Huang",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Go Halal Or Go Home (YouTube)",
+        "url": "https://www.youtube.com/@gohalalorgohome",
+        "quote": "A halal-friendly Chinese simmer pot restaurant in Canary Wharf. Chapters run Trying the Simmer Pot, then Dessert, then Hot Pot Transformation - the pot becomes a hot pot partway through the meal."
+      }
+    ]
+  },
+  "potpotmalatang": {
+    "name": "Pot Pot Malatang",
+    "topics": [
+      "hot-pot"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-pot": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Strictly Dumpling (YouTube)",
+        "url": "https://www.youtube.com/@strictlydumpling",
+        "quote": "Ground floor, 18 Newport Court WC2H 7JS"
+      }
+    ]
+  },
   "romeoandgiulietta": {
     "name": "Romeo & Giulietta",
     "topics": [
@@ -100270,36 +101619,6 @@
       }
     ]
   },
-  "cocoro": {
-    "name": "Cocoro",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Ideal Magazine",
-        "url": "https://idealmagazine.co.uk/best-ramen-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Best Japanese",
-        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
-      }
-    ]
-  },
   "mugen": {
     "name": "Mugen",
     "topics": [
@@ -102396,31 +103715,6 @@
       }
     ]
   },
-  "superthree": {
-    "name": "Super Three",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/korean"
-      }
-    ]
-  },
   "gochugang": {
     "name": "Gochu Gang",
     "topics": [
@@ -103098,36 +104392,6 @@
       }
     ]
   },
-  "naru": {
-    "name": "Naru",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/the-best-korean-fried-chicken-london"
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/korean-restaurants-london/"
-      }
-    ]
-  },
   "hankkilondonchinatown": {
     "name": "Hankki London China Town",
     "topics": [
@@ -103583,31 +104847,6 @@
       }
     ]
   },
-  "kangnampocha": {
-    "name": "Kangnam Pocha",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/korean-restaurants-london/"
-      }
-    ]
-  },
   "ktown": {
     "name": "K–Town",
     "topics": [
@@ -103889,31 +105128,6 @@
   },
   "27oldcomptonstreet": {
     "name": "27 Old Compton Street",
-    "topics": [
-      "late-night"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-late-night-restaurants-in-london"
-      }
-    ]
-  },
-  "nanhotpot": {
-    "name": "Nan Hotpot",
     "topics": [
       "late-night"
     ],
@@ -114255,36 +115469,6 @@
         "tier": "C",
         "source": "Museums Made Easy",
         "url": "https://www.museumsmadeeasy.com/free-museums/london"
-      }
-    ]
-  },
-  "waterhouse": {
-    "name": "Waterhouse",
-    "topics": [
-      "new-openings"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "new-openings": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/londons-new-restaurant-openings"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
       }
     ]
   },

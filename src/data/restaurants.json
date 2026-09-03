@@ -1,7 +1,7 @@
 {
  "generated": "2026-09-03",
- "count": 855,
- "withCoords": 797,
+ "count": 889,
+ "withCoords": 822,
  "facets": {
   "cuisine": [
    {
@@ -17,7 +17,7 @@
    {
     "value": "Chinese",
     "slug": "chinese",
-    "count": 51
+    "count": 84
    },
    {
     "value": "Indian",
@@ -105,13 +105,13 @@
     "count": 4
    },
    {
-    "value": "Persian",
-    "slug": "persian",
-    "count": 3
-   },
-   {
     "value": "Taiwanese",
     "slug": "taiwanese",
+    "count": 4
+   },
+   {
+    "value": "Persian",
+    "slug": "persian",
     "count": 3
    },
    {
@@ -149,7 +149,7 @@
    {
     "value": "Soho",
     "slug": "soho",
-    "count": 90
+    "count": 98
    },
    {
     "value": "Mayfair",
@@ -159,7 +159,7 @@
    {
     "value": "Shoreditch",
     "slug": "shoreditch",
-    "count": 48
+    "count": 49
    },
    {
     "value": "South Bank",
@@ -172,14 +172,14 @@
     "count": 36
    },
    {
+    "value": "Fitzrovia",
+    "slug": "fitzrovia",
+    "count": 36
+   },
+   {
     "value": "Marylebone",
     "slug": "marylebone",
     "count": 33
-   },
-   {
-    "value": "Fitzrovia",
-    "slug": "fitzrovia",
-    "count": 32
    },
    {
     "value": "Hackney",
@@ -204,17 +204,22 @@
    {
     "value": "Bermondsey",
     "slug": "bermondsey",
-    "count": 16
-   },
-   {
-    "value": "Bloomsbury",
-    "slug": "bloomsbury",
-    "count": 12
+    "count": 17
    },
    {
     "value": "Canary Wharf",
     "slug": "canary-wharf",
-    "count": 12
+    "count": 14
+   },
+   {
+    "value": "Bloomsbury",
+    "slug": "bloomsbury",
+    "count": 13
+   },
+   {
+    "value": "Kings Cross",
+    "slug": "kings-cross",
+    "count": 13
    },
    {
     "value": "Chelsea",
@@ -232,14 +237,14 @@
     "count": 11
    },
    {
-    "value": "Kings Cross",
-    "slug": "kings-cross",
-    "count": 11
-   },
-   {
     "value": "Paddington",
     "slug": "paddington",
     "count": 11
+   },
+   {
+    "value": "Hampstead",
+    "slug": "hampstead",
+    "count": 10
    },
    {
     "value": "Peckham",
@@ -247,14 +252,9 @@
     "count": 10
    },
    {
-    "value": "Hampstead",
-    "slug": "hampstead",
-    "count": 9
-   },
-   {
     "value": "Westminster",
     "slug": "westminster",
-    "count": 9
+    "count": 10
    },
    {
     "value": "Richmond",
@@ -296,7 +296,7 @@
    {
     "value": "regional",
     "slug": "regional",
-    "count": 201
+    "count": 214
    },
    {
     "value": "grill",
@@ -311,7 +311,7 @@
    {
     "value": "street-food",
     "slug": "street-food",
-    "count": 95
+    "count": 99
    },
    {
     "value": "seasonal",
@@ -359,6 +359,11 @@
     "count": 39
    },
    {
+    "value": "hot-pot",
+    "slug": "hot-pot",
+    "count": 34
+   },
+   {
     "value": "deli",
     "slug": "deli",
     "count": 33
@@ -371,7 +376,7 @@
    {
     "value": "noodles",
     "slug": "noodles",
-    "count": 30
+    "count": 31
    },
    {
     "value": "fish-and-chips",
@@ -414,6 +419,11 @@
     "count": 15
    },
    {
+    "value": "bbq",
+    "slug": "bbq",
+    "count": 14
+   },
+   {
     "value": "curry-house",
     "slug": "curry-house",
     "count": 10
@@ -422,11 +432,6 @@
     "value": "pie-mash",
     "slug": "pie-mash",
     "count": 9
-   },
-   {
-    "value": "bbq",
-    "slug": "bbq",
-    "count": 8
    },
    {
     "value": "dessert",
@@ -483,17 +488,17 @@
    {
     "value": "££",
     "slug": "price-2",
-    "count": 334
+    "count": 358
    },
    {
     "value": "£££",
     "slug": "price-3",
-    "count": 223
+    "count": 228
    },
    {
     "value": "£",
     "slug": "price-1",
-    "count": 151
+    "count": 156
    },
    {
     "value": "££££",
@@ -503,6 +508,1130 @@
   ]
  },
  "restaurants": [
+  {
+   "slug": "haidilao-piccadilly",
+   "name": "Haidilao",
+   "cuisine": "Chinese",
+   "style": "Sichuan hot pot chain",
+   "specialities": [
+    "hot-pot"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Leicester Square",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "address": "Unit 4/5 The Trocadero Centre, Coventry St",
+   "postcode": "W1D 7DH",
+   "lat": 51.510955,
+   "lng": -0.132987,
+   "price": "£££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "families",
+    "celebration"
+   ],
+   "whyGo": "The Sichuan chain that turned hot pot into theatre - an apron, a hair tie and a bag for your coat on arrival, a sauce bar with recipe cards, and noodles pulled at the table.",
+   "opNote": "Its own booking page states that tables are always held back for walk-ins. Two London sites, Piccadilly Circus and The O2.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "7",
+   "sourceTiers": "B1 C4 D2",
+   "sourceUrls": "https://www.designmynight.com/london/blog/hot-pot-london | https://www.londonxlondon.com/best-hot-pot-london/ | https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/"
+  },
+  {
+   "slug": "happy-lamb-holborn",
+   "name": "Happy Lamb Hot Pot",
+   "cuisine": "Chinese",
+   "style": "Mongolian lamb hot pot",
+   "specialities": [
+    "hot-pot"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Holborn",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Camden",
+   "address": "2 New Oxford St",
+   "postcode": "WC1A 1AD",
+   "lat": 51.517405,
+   "lng": -0.123541,
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "families"
+   ],
+   "whyGo": "Mongolian rather than Sichuan: a clear herbal bone broth simmered for six hours with goji berries, jujubes and ginseng, and paper-thin marbled lamb that needs no dipping sauce.",
+   "opNote": "Founded by the original team behind Little Sheep. Two London branches, Holborn and Bayswater.",
+   "lists": [
+    "hot-pot",
+    "best-value"
+   ],
+   "sourceCount": "6",
+   "sourceTiers": "B1 C4 D1",
+   "sourceUrls": "https://www.designmynight.com/london/blog/hot-pot-london | https://www.londonxlondon.com/best-hot-pot-london/ | https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/"
+  },
+  {
+   "slug": "shu-xiang-ge",
+   "name": "Shu Xiang Ge",
+   "cuisine": "Chinese",
+   "style": "Sichuan nine-grid hot pot",
+   "specialities": [
+    "hot-pot"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Chinatown",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "address": "10 Gerrard St",
+   "postcode": "W1D 5PW",
+   "lat": 51.512027,
+   "lng": -0.130839,
+   "price": "£££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "date"
+   ],
+   "whyGo": "The jiugongge, or nine-grid pot: one broth divided into nine compartments so tripe, aorta and duck intestine each cook in the grid that suits them. A yuanyang split pot is the way out for anyone who cannot take the mala.",
+   "opNote": "Claims to be London's first dedicated Sichuan hot pot restaurant. Moved from New Oxford Street to Gerrard Street; a White City branch is also named in the 2023 poll.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "B1 C4",
+   "sourceUrls": "https://www.designmynight.com/london/blog/hot-pot-london | https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/ | https://www.honglingjin.co.uk/384906.html"
+  },
+  {
+   "slug": "tian-fu-shepherds-bush",
+   "name": "Tian Fu",
+   "cuisine": "Chinese",
+   "style": "Sichuan hot pot and dining room",
+   "specialities": [
+    "hot-pot",
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Shepherd's Bush",
+   "zone": "2",
+   "district": "West",
+   "borough": "Hammersmith and Fulham",
+   "address": "37-39 Bulwer St",
+   "postcode": "W12 8AR",
+   "lat": 51.50556,
+   "lng": -0.223931,
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "families"
+   ],
+   "whyGo": "Buffet or a la carte, with the offal end of the menu taken seriously - intestine, tripe, blood tofu - and a Sichuan stir-fry list that regulars rate as highly as the pot.",
+   "opNote": "Head chef Zhang Xiaozhong. NOTE: Hotto Potto's own site claims the same chef. Do not print the attribution for either until it is resolved.",
+   "lists": [
+    "hot-pot",
+    "best-value"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "B1 C4",
+   "sourceUrls": "https://www.designmynight.com/london/blog/hot-pot-london | https://www.londonxlondon.com/best-hot-pot-london/ | https://www.honglingjin.co.uk/384906.html"
+  },
+  {
+   "slug": "chilli-cool",
+   "name": "Chilli Cool",
+   "cuisine": "Chinese",
+   "style": "Sichuan restaurant with a hot pot room",
+   "specialities": [
+    "hot-pot",
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "King's Cross",
+   "zone": "1",
+   "district": "North",
+   "borough": "Camden",
+   "guide": "kings-cross-area-guide",
+   "address": "15 Leigh St",
+   "postcode": "WC1H 9EW",
+   "lat": 51.526466,
+   "lng": -0.125014,
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "quick"
+   ],
+   "whyGo": "Two shopfronts on the same street: stir-fries on one side, a separate hot pot room on the other, plus boboji - meat and vegetables on skewers, cooked in mala oil and priced by the stick.",
+   "opNote": "Named by five domains, the most of any independent in the topic, and by every Chinese-language source in the corpus.",
+   "lists": [
+    "hot-pot",
+    "best-value"
+   ],
+   "sourceCount": "6",
+   "sourceTiers": "B1 C5",
+   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/ | https://www.londonxlondon.com/best-hot-pot-london/ | https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/"
+  },
+  {
+   "slug": "hotto-potto",
+   "name": "Hotto Potto",
+   "cuisine": "Chinese",
+   "style": "Sichuan hot pot and barbecue",
+   "specialities": [
+    "hot-pot",
+    "bbq"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Aldgate",
+   "zone": "1",
+   "district": "East",
+   "borough": "Tower Hamlets",
+   "address": "19 Leman St",
+   "postcode": "E1 8EJ",
+   "lat": 51.514289,
+   "lng": -0.070631,
+   "price": "££",
+   "booking": "days",
+   "website": "https://hottopotto.co.uk/",
+   "goodFor": [
+    "groups",
+    "solo"
+   ],
+   "dietary": "Dedicated halal menu",
+   "whyGo": "A beef tallow broth, a barbecue list alongside the pot, and a menu that prints a recommended cooking time against each ingredient - the single most useful thing a beginner can be handed.",
+   "opNote": "Publishes a GBP 20 solo hot pot set - broth, meat, vegetables and rice or noodles for one, which almost nowhere else offers. Dedicated halal menu. Karaoke rooms downstairs.",
+   "lists": [
+    "hot-pot",
+    "best-value"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "B3 C1 D1",
+   "sourceUrls": "https://thehoteljournal.com/best-chinese-restaurants-in-london/ | https://www.theinfatuation.com/london/guides/best-hot-pot-london | https://www.designmynight.com/london/blog/hot-pot-london"
+  },
+  {
+   "slug": "da-long-yi-fitzrovia",
+   "name": "Da Long Yi",
+   "cuisine": "Chinese",
+   "style": "Sichuan hot pot chain",
+   "specialities": [
+    "hot-pot"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Fitzrovia",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "fitzrovia-area-guide",
+   "address": "5A Berners St",
+   "postcode": "W1T 3LA",
+   "lat": 51.51626,
+   "lng": -0.135782,
+   "price": "£££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "celebration",
+    "date"
+   ],
+   "whyGo": "Its signature broth is beef tallow, dried chillies, Sichuan peppercorns and more than twenty aromatics, and the Volcano Beef is marbled beef built into a cone over crushed ice with chilli oil poured down the middle.",
+   "opNote": "Ordering is by tablet. Sauce station with printed recipe cards. Part of a group with more than 300 restaurants worldwide.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "B2 C2",
+   "sourceUrls": "https://thehoteljournal.com/best-chinese-restaurants-in-london/ | https://www.theinfatuation.com/london/guides/best-hot-pot-london | https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/"
+  },
+  {
+   "slug": "super-three-poplar",
+   "name": "Super Three",
+   "cuisine": "Chinese",
+   "style": "Sichuan hot pot and Korean barbecue",
+   "specialities": [
+    "hot-pot",
+    "bbq",
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Poplar",
+   "zone": "2",
+   "district": "East",
+   "borough": "Tower Hamlets",
+   "address": "207-209 East India Dock Rd",
+   "postcode": "E14 0ED",
+   "lat": 51.511435,
+   "lng": -0.011735,
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "families"
+   ],
+   "whyGo": "All-you-can-eat Sichuan hot pot on a spicy butter base with a Korean charcoal grill on the same table, so a group that cannot agree does not have to.",
+   "opNote": "One of two long-standing hot pot restaurants a few doors apart on East India Dock Road; Han Restaurant is the other.",
+   "lists": [
+    "hot-pot",
+    "best-value"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B1 C2",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-hot-pot-london | https://www.honglingjin.co.uk/384906.html | https://www.surreychinese.co.uk/archives/15425"
+  },
+  {
+   "slug": "han-restaurant-poplar",
+   "name": "Han Restaurant",
+   "cuisine": "Chinese",
+   "style": "Sichuan and Dongbei with hot pot",
+   "specialities": [
+    "hot-pot",
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Poplar",
+   "zone": "2",
+   "district": "East",
+   "borough": "Tower Hamlets",
+   "address": "213 East India Dock Rd",
+   "postcode": "E14 0ED",
+   "lat": 51.511435,
+   "lng": -0.011735,
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "families"
+   ],
+   "whyGo": "The beef tallow arrives as a moulded bear that melts into the broth, and there is a Hainanese coconut chicken pot for anyone who wants sweetness rather than heat. Crab pot, barbecue and Dongbei dishes alongside.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 C1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-hot-pot-london | https://www.honglingjin.co.uk/384906.html"
+  },
+  {
+   "slug": "shujie-hotpot",
+   "name": "Shujie Hotpot",
+   "cuisine": "Chinese",
+   "style": "Sichuan hot pot",
+   "specialities": [
+    "hot-pot"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Holborn",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Camden",
+   "address": "25-26 Red Lion St",
+   "postcode": "WC1R 4PS",
+   "lat": 51.51934,
+   "lng": -0.116889,
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups"
+   ],
+   "whyGo": "Duck intestine, pork brain and beef aorta on a broth its regulars describe as the most Sichuanese in London. A plain room that you leave smelling of - regulars say wear old clothes.",
+   "opNote": "Third in Red Scarf's 2023 UK readers' poll once scoped to London.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "C2",
+   "sourceUrls": "https://www.honglingjin.co.uk/384906.html | https://www.uk002.com/note/60198"
+  },
+  {
+   "slug": "nan-hotpot",
+   "name": "Nan Hotpot",
+   "cuisine": "Chinese",
+   "style": "Chongqing hot pot",
+   "specialities": [
+    "hot-pot"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Chinatown",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups"
+   ],
+   "whyGo": "Chongqing rather than generic Sichuan, with a half-and-half mushroom and tomato broth for people who want the format without the heat, and short rib rolls and prawn skewers on the order sheet.",
+   "opNote": "The Infatuation says it runs to 3am - the latest-serving hot pot in Chinatown. HOURS NEED CONFIRMING against the venue's own site.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 D1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-hot-pot-london | https://www.youtube.com/@BIGTEE_THEFOODIE"
+  },
+  {
+   "slug": "mr-wang-hot-pot-aldgate",
+   "name": "Mr Wang Hot Pot",
+   "cuisine": "Chinese",
+   "style": "Malatang, pay by weight",
+   "specialities": [
+    "hot-pot",
+    "street-food"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Aldgate",
+   "zone": "1",
+   "district": "East",
+   "borough": "Tower Hamlets",
+   "price": "£",
+   "booking": "walk-in",
+   "goodFor": [
+    "solo",
+    "quick"
+   ],
+   "whyGo": "Malatang rather than shared hot pot: take a basket from a chilled counter, load it with beef rolls, tripe, lotus root, fish balls and frozen tofu, and it is weighed, priced and cooked into one bowl for you.",
+   "opNote": "Aim for 400 to 500 grams of ingredients per person - the rule of thumb published by Broadsheet. The milky beef bone broth is the one to have.",
+   "lists": [
+    "hot-pot",
+    "best-value"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-hot-pot-london | https://www.broadsheet.com/london/articles/how-i-malatang"
+  },
+  {
+   "slug": "yangguofu-malatang-chinatown",
+   "name": "Yangguofu Malatang",
+   "cuisine": "Chinese",
+   "style": "Malatang, pay by weight",
+   "specialities": [
+    "hot-pot",
+    "street-food"
+   ],
+   "format": "Restaurant",
+   "chainType": "chain",
+   "area": "Chinatown",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "address": "47-49 Charing Cross Rd",
+   "postcode": "WC2H 0AN",
+   "lat": 51.511847,
+   "lng": -0.128612,
+   "price": "£",
+   "booking": "walk-in",
+   "goodFor": [
+    "solo",
+    "quick"
+   ],
+   "whyGo": "Over a hundred things to put in the basket - sliced meat, fish, tofu, ramen noodles, mini youtiao - then a broth, condiments and a dipping sauce. The herbal beef bone broth is creamy, lightly spiced and not oily.",
+   "opNote": "Opened in the old Wing Wing site in summer 2025. Part of a group with over 7,000 restaurants worldwide; the only other UK branch is in Hammersmith.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 C1",
+   "sourceUrls": "https://www.broadsheet.com/london/articles/how-i-malatang | https://www.hot-dinners.com/2025080614398/Gastroblog/Latest-news/yangguofu-malatang-opens-chinatown-london-hotpot"
+  },
+  {
+   "slug": "niu-hot-pot",
+   "name": "Niu Hot Pot",
+   "cuisine": "Chinese",
+   "style": "Chaoshan beef hot pot",
+   "specialities": [
+    "hot-pot",
+    "bbq"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Spitalfields",
+   "zone": "1",
+   "district": "East",
+   "borough": "Tower Hamlets",
+   "guide": "shoreditch-area-guide",
+   "address": "43 Commercial St",
+   "postcode": "E1 6BD",
+   "lat": 51.517736,
+   "lng": -0.074088,
+   "price": "££",
+   "booking": "days",
+   "website": "https://niuhotpot.co.uk/",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "dietary": "Halal section on the menu",
+   "whyGo": "Chaoshan beef, which means the broth stays out of the way and the menu is sorted by cut - sirloin, short rib, rump, omasum, ox aorta, hand-made beef balls. Charcoal skewers and a private karaoke room alongside.",
+   "opNote": "Eight soup bases including a congee base served with two live crabs. A halal section on the menu.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "B1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-hot-pot-london"
+  },
+  {
+   "slug": "teo-hot-pot",
+   "name": "Teo Hot Pot",
+   "cuisine": "Chinese",
+   "style": "Chaoshan beef hot pot",
+   "specialities": [
+    "hot-pot"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Fitzrovia",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "fitzrovia-area-guide",
+   "price": "£££",
+   "booking": "days",
+   "website": "https://teohotpot.co.uk/",
+   "goodFor": [
+    "date",
+    "groups"
+   ],
+   "whyGo": "Built entirely on beef: hand-cut cuts cooked seconds at a time in a light broth, the Chaoshan way, where a mala pot would drown what you are paying for.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "B1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-hot-pot-london"
+  },
+  {
+   "slug": "nings-fresh-beef-hotpot",
+   "name": "Ning's Fresh Beef Hotpot",
+   "cuisine": "Chinese",
+   "style": "Cantonese-Teochew beef hot pot",
+   "specialities": [
+    "hot-pot"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Fitzrovia",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "fitzrovia-area-guide",
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "date",
+    "groups"
+   ],
+   "whyGo": "Grass-fed beef in a delicate soup base - the Cantonese-Teochew reading of hot pot, where the point is the meat and the broth is a poaching liquid rather than a sauce.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "B1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-hot-pot-london"
+  },
+  {
+   "slug": "real-beijing",
+   "name": "Real Beijing",
+   "cuisine": "Chinese",
+   "style": "Beijing copper pot",
+   "specialities": [
+    "hot-pot",
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Chinatown",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "families"
+   ],
+   "whyGo": "A charcoal-fired copper pot with a chimney up the middle, a preserved cabbage broth and paper-thin lamb that cooks in seconds - instant-boiled lamb, the northern format, eaten with sesame sauce rather than chilli oil.",
+   "opNote": "The clearest example in Chinatown of a tradition that has nothing to do with Sichuan.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown | https://www.theinfatuation.com/london/guides/best-hot-pot-london"
+  },
+  {
+   "slug": "feng-wei-shi-tang",
+   "name": "Feng Wei Shi Tang",
+   "cuisine": "Chinese",
+   "style": "Beijing copper pot",
+   "specialities": [
+    "hot-pot",
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "families"
+   ],
+   "whyGo": "Copper pot upstairs, and the rest of the northern repertoire downstairs - grilled fish, rou jia mo, lamb spine. Clear water in a tall copper pot, and a mellow sesame dipping sauce.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "C1",
+   "sourceUrls": "https://www.honglingjin.co.uk/384906.html"
+  },
+  {
+   "slug": "mailinda",
+   "name": "Mailinda",
+   "cuisine": "Chinese",
+   "style": "Beijing copper pot and skewers",
+   "specialities": [
+    "hot-pot",
+    "bbq"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Isle of Dogs",
+   "zone": "2",
+   "district": "East",
+   "borough": "Tower Hamlets",
+   "guide": "canary-wharf-area-guide",
+   "address": "62 Mellish St",
+   "postcode": "E14 8NS",
+   "lat": 51.496989,
+   "lng": -0.023774,
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "families",
+    "groups"
+   ],
+   "whyGo": "Old Beijing copper pot and charcoal skewers in the same sitting, plus chive boxes and guo bao rou - a neighbourhood canteen for the Isle of Dogs rather than a destination.",
+   "lists": [
+    "hot-pot",
+    "best-value"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "C2",
+   "sourceUrls": "https://www.honglingjin.co.uk/384906.html | https://www.uk002.com/note/60198"
+  },
+  {
+   "slug": "shan-shui-jian",
+   "name": "Shan Shui Jian",
+   "cuisine": "Chinese",
+   "style": "Lamb spine hot pot and Dongbei",
+   "specialities": [
+    "hot-pot",
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Limehouse",
+   "zone": "2",
+   "district": "East",
+   "borough": "Tower Hamlets",
+   "address": "562 Commercial Rd",
+   "postcode": "E14 7JD",
+   "lat": 51.512626,
+   "lng": -0.040291,
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "families"
+   ],
+   "whyGo": "Yang xie zi - lamb spine stewed to falling apart, eaten with your hands, and the pot then topped up and used to cook everything else. Grilled fish and chicken stewed with mushrooms alongside.",
+   "opNote": "A branch of a well-known Chinese lamb-spine chain; the owner stews the spines to his own recipe. Not to be confused with Shan Shui Social, a separate modern Chinese restaurant.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "C1",
+   "sourceUrls": "https://www.honglingjin.co.uk/384906.html"
+  },
+  {
+   "slug": "simmer-huang-canary-wharf",
+   "name": "Simmer Huang",
+   "cuisine": "Chinese",
+   "style": "Beijing simmer pot, halal",
+   "specialities": [
+    "hot-pot"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Canary Wharf",
+   "zone": "2",
+   "district": "East",
+   "borough": "Tower Hamlets",
+   "guide": "canary-wharf-area-guide",
+   "address": "Unit 1, 30 Baltimore Wharf, Limeharbour",
+   "postcode": "E14 9RH",
+   "lat": 51.497198,
+   "lng": -0.014357,
+   "price": "££",
+   "booking": "days",
+   "website": "https://simmerhuang.co.uk/",
+   "goodFor": [
+    "groups",
+    "families"
+   ],
+   "dietary": "Halal",
+   "whyGo": "A simmer pot rather than a hot pot: the ingredients arrive already stacked in the pan and cook down dry, and once you have eaten the top layer the staff pour broth in and it becomes a hot pot for the second half.",
+   "opNote": "Halal. The two-stage format is unusual enough that first-timers should expect the pot to change halfway through.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "D1",
+   "sourceUrls": "https://www.youtube.com/@gohalalorgohome"
+  },
+  {
+   "slug": "water-house-rotherhithe",
+   "name": "Water House Restaurant",
+   "cuisine": "Chinese",
+   "style": "Buffet hot pot and Hunanese",
+   "specialities": [
+    "hot-pot",
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Rotherhithe",
+   "zone": "2",
+   "district": "South",
+   "borough": "Southwark",
+   "address": "30-32 Albion St",
+   "postcode": "SE16 7JQ",
+   "lat": 51.49948,
+   "lng": -0.052828,
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "families"
+   ],
+   "whyGo": "Buffet hot pot with broths most places do not offer - old duck, old chicken and mutton alongside the usual mala and clear - plus chuanchuan skewers and a Hunanese menu.",
+   "lists": [
+    "hot-pot",
+    "best-value"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B2 C1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/londons-new-restaurant-openings | https://www.designmynight.com/london/blog/new-restaurants-london | https://www.honglingjin.co.uk/384906.html"
+  },
+  {
+   "slug": "big-brother-hot-pot",
+   "name": "Big Brother Hot Pot",
+   "cuisine": "Chinese",
+   "style": "Mongolian hot pot and barbecue buffet",
+   "specialities": [
+    "hot-pot",
+    "bbq"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Bayswater",
+   "zone": "1",
+   "district": "West",
+   "borough": "Westminster",
+   "address": "82-84 Bishop's Bridge Rd",
+   "postcode": "W2 6BB",
+   "lat": 51.516426,
+   "lng": -0.187086,
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "large-groups"
+   ],
+   "whyGo": "One of London's few double buffets - all-you-can-eat hot pot and all-you-can-eat grilled meat at the same table, on a Mongolian rather than Sichuan base.",
+   "lists": [
+    "hot-pot",
+    "best-value"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "C1",
+   "sourceUrls": "https://www.honglingjin.co.uk/384906.html"
+  },
+  {
+   "slug": "laoma-kings-cross",
+   "name": "Laoma",
+   "cuisine": "Chinese",
+   "style": "Buffet hot pot",
+   "specialities": [
+    "hot-pot"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "King's Cross",
+   "zone": "1",
+   "district": "North",
+   "borough": "Islington",
+   "guide": "kings-cross-area-guide",
+   "address": "135 King's Cross Rd",
+   "postcode": "WC1X 9BJ",
+   "lat": 51.529587,
+   "lng": -0.116077,
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "families"
+   ],
+   "whyGo": "A student canteen in the best sense: all-you-can-eat hot pot, free soft drinks and no service charge, in a room that fills with people from the surrounding streets.",
+   "lists": [
+    "hot-pot",
+    "best-value"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "C1",
+   "sourceUrls": "https://www.honglingjin.co.uk/384906.html"
+  },
+  {
+   "slug": "leongs-legend",
+   "name": "Leong's Legend",
+   "cuisine": "Taiwanese",
+   "style": "Taiwanese with all-you-can-eat hot pot",
+   "specialities": [
+    "hot-pot",
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Chinatown",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "address": "39 Gerrard St",
+   "postcode": "W1D 5QD",
+   "lat": 51.511817,
+   "lng": -0.130674,
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "families"
+   ],
+   "whyGo": "A Taiwanese snack house hung with Water Margin murals, where the all-you-can-eat hot pot runs around GBP 25 a head - among the cheapest sit-down pots in Chinatown.",
+   "lists": [
+    "hot-pot",
+    "best-value"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "B2 C2",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-restaurants-chinatown | https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown | https://www.honglingjin.co.uk/384906.html"
+  },
+  {
+   "slug": "dragon-inn-club",
+   "name": "Dragon Inn Club",
+   "cuisine": "Chinese",
+   "style": "Sichuan hot pot and Chinese dining room",
+   "specialities": [
+    "hot-pot",
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Pimlico",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "westminster-area-guide",
+   "address": "16-18 Upper Tachbrook St",
+   "postcode": "SW1V 1SH",
+   "lat": 51.493232,
+   "lng": -0.139891,
+   "price": "£££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "celebration",
+    "business"
+   ],
+   "whyGo": "The dearest broths in the corpus: a fish maw and chicken soup base alongside coconut chicken, beef tallow red soup and tomato, served from a dragon's-head pot.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "C2",
+   "sourceUrls": "https://www.londonxlondon.com/best-hot-pot-london/ | https://www.honglingjin.co.uk/384906.html"
+  },
+  {
+   "slug": "little-sichuan-hampstead",
+   "name": "Little Sichuan",
+   "cuisine": "Chinese",
+   "style": "Sichuan restaurant with hot pot",
+   "specialities": [
+    "hot-pot",
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Hampstead",
+   "zone": "2–3",
+   "district": "North",
+   "borough": "Camden",
+   "guide": "hampstead-area-guide",
+   "address": "4-6 Northways Parade",
+   "postcode": "NW3 5EN",
+   "lat": 51.54456,
+   "lng": -0.175266,
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "families",
+    "groups"
+   ],
+   "whyGo": "A Finchley Road parade Sichuanese that regulars from Sichuan vouch for - the mala base is the one to order, and the stir-fry menu runs alongside it.",
+   "lists": [
+    "hot-pot",
+    "best-value"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "C2",
+   "sourceUrls": "https://www.honglingjin.co.uk/384906.html | https://www.uk002.com/note/60198"
+  },
+  {
+   "slug": "muyang-hot-pot",
+   "name": "Muyang Hot Pot & BBQ",
+   "cuisine": "Chinese",
+   "style": "Mini hot pot and barbecue",
+   "specialities": [
+    "hot-pot",
+    "bbq"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Shepherd's Bush",
+   "zone": "2",
+   "district": "West",
+   "borough": "Hammersmith and Fulham",
+   "address": "33 Goldhawk Rd",
+   "postcode": "W12 8QQ",
+   "lat": 51.502869,
+   "lng": -0.223805,
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "solo",
+    "groups"
+   ],
+   "whyGo": "One pot per person rather than one for the table, which is the whole point if you want your own broth. Hand-made fish balls, black fungus, quail eggs, rice cake, and the offal end for those who want it.",
+   "opNote": "Claims to be the first restaurant in London to serve individual mini hot pots.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 C1",
+   "sourceUrls": "https://www.designmynight.com/london/blog/hot-pot-london | https://www.surreychinese.co.uk/archives/15425"
+  },
+  {
+   "slug": "crystal-china",
+   "name": "Crystal China",
+   "cuisine": "Chinese",
+   "style": "Dry hot pot",
+   "specialities": [
+    "hot-pot",
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Bermondsey",
+   "zone": "1–2",
+   "district": "South",
+   "borough": "Southwark",
+   "guide": "bermondsey-area-guide",
+   "address": "78-80 Tower Bridge Rd",
+   "postcode": "SE1 4TP",
+   "lat": 51.496259,
+   "lng": -0.082183,
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "quick"
+   ],
+   "whyGo": "Dry hot pot, which is not hot pot at all in the broth sense - the ingredients are stir-fried in mala oil and arrive already cooked, so there is no simmering and no waiting.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 D1",
+   "sourceUrls": "https://www.designmynight.com/london/blog/hot-pot-london | https://www.youtube.com/@strictlydumpling"
+  },
+  {
+   "slug": "shu-la-la",
+   "name": "Shu La La",
+   "cuisine": "Chinese",
+   "style": "Sichuan dry hot pot",
+   "specialities": [
+    "hot-pot",
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Holloway",
+   "zone": "2",
+   "district": "North",
+   "borough": "Islington",
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups"
+   ],
+   "whyGo": "A dry spicy hot pot in scarlet oil, heavy on Sichuan peppercorn - the numbing end of the format rather than the soupy end.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "B1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-hot-pot-london"
+  },
+  {
+   "slug": "xiong-qi-hot-pot",
+   "name": "Xiong Qi Hot Pot",
+   "cuisine": "Chinese",
+   "style": "Hot pot chain",
+   "specialities": [
+    "hot-pot"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Leicester Square",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "families"
+   ],
+   "whyGo": "A group option a minute from Leicester Square, with suggested cooking times posted on the wall and staff who will tell a beginner what goes in when.",
+   "opNote": "Sixth in Red Scarf's 2023 UK readers' poll, and the only London placing in that poll outside the four best-known names.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "C1",
+   "sourceUrls": "https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/"
+  },
+  {
+   "slug": "pot-pot-malatang",
+   "name": "Pot Pot Malatang",
+   "cuisine": "Chinese",
+   "style": "Malatang, pay by weight",
+   "specialities": [
+    "hot-pot",
+    "street-food"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Chinatown",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "address": "Ground floor, 18 Newport Ct",
+   "postcode": "WC2H 7JS",
+   "lat": 51.511881,
+   "lng": -0.129043,
+   "price": "£",
+   "booking": "walk-in",
+   "goodFor": [
+    "solo",
+    "quick"
+   ],
+   "whyGo": "A basket, a chilled counter and a set of scales, on the Newport Court side of Chinatown - the cheapest way into the format for one person.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "D1",
+   "sourceUrls": "https://www.youtube.com/@strictlydumpling"
+  },
+  {
+   "slug": "mao-master-hotpot-noodle",
+   "name": "Mao Master Hotpot Noodle",
+   "cuisine": "Chinese",
+   "style": "Maocai, single-bowl hot pot",
+   "specialities": [
+    "hot-pot",
+    "noodles"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Bloomsbury",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Camden",
+   "guide": "bloomsbury-area-guide",
+   "price": "£",
+   "booking": "walk-in",
+   "goodFor": [
+    "solo",
+    "quick"
+   ],
+   "whyGo": "Maocai rather than malatang: the same one-bowl idea, and the broths run classic spicy, chicken and fresh tomato. Lotus root, Chinese yam, enoki, tofu puffs and bean curd rolls hold up best.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "B1",
+   "sourceUrls": "https://www.broadsheet.com/london/articles/how-i-malatang"
+  },
+  {
+   "slug": "mealtime-malatang",
+   "name": "Mealtime Malatang",
+   "cuisine": "Chinese",
+   "style": "Malatang, pay by weight",
+   "specialities": [
+    "hot-pot",
+    "street-food"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Fitzrovia",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "fitzrovia-area-guide",
+   "price": "£",
+   "booking": "walk-in",
+   "goodFor": [
+    "solo",
+    "quick"
+   ],
+   "whyGo": "Sliced lamb and beef, Chinese spam, tofu skin, potato, oyster mushrooms, kelp and greens, on a mala base that a Gansu food writer says is the only base worth having.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "B1",
+   "sourceUrls": "https://www.broadsheet.com/london/articles/how-i-malatang"
+  },
   {
    "slug": "bacchanalia",
    "name": "Bacchanalia",
@@ -10046,7 +11175,7 @@
     "dim-sum"
    ],
    "sourceCount": "8",
-   "sourceTiers": "B4 C4",
+   "sourceTiers": "B4 C3 D1",
    "sourceUrls": "https://thehoteljournal.com/best-chinese-restaurants-in-london/ | https://www.theinfatuation.com/london/guides/best-dim-sum-london | https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown"
   },
   {
@@ -10246,7 +11375,7 @@
     "best-value"
    ],
    "sourceCount": "4",
-   "sourceTiers": "B3 C1",
+   "sourceTiers": "B3 D1",
    "sourceUrls": "https://www.timeout.com/london/restaurants/best-restaurants-in-london | https://www.theinfatuation.com/london/guides/best-dim-sum-london | https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
   },
   {
@@ -10477,7 +11606,7 @@
     "best-value"
    ],
    "sourceCount": "7",
-   "sourceTiers": "A1 B2 C3 D1",
+   "sourceTiers": "A1 B2 C2 D2",
    "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/local-guide/where-to-eat-in-chinatown-a-locals-top-eight | https://london.eater.com/maps/best-chinese-restaurants-london | https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown"
   },
   {
@@ -13966,9 +15095,9 @@
    "lists": [
     "best-value"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://idealmagazine.co.uk/best-ramen-london/ | https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
+   "sourceCount": "4",
+   "sourceTiers": "B1 C3",
+   "sourceUrls": "https://idealmagazine.co.uk/best-ramen-london/ | https://www.londonxlondon.com/best-hot-pot-london/ | https://www.honglingjin.co.uk/384906.html"
   },
   {
    "slug": "engawa",
@@ -16705,7 +17834,10 @@
     "business"
    ],
    "whyGo": "Korean cooking on the Isle of Dogs rather than in the Wharf itself - kimchi jjigae portioned out between bowls for a big table, a mile south of the office towers and all the better for it.",
-   "signature": "Kimchi jjigae"
+   "signature": "Kimchi jjigae",
+   "sourceCount": "1",
+   "sourceTiers": "C1",
+   "sourceUrls": "https://www.honglingjin.co.uk/384906.html"
   },
   {
    "slug": "olle",
@@ -16821,9 +17953,9 @@
    "lists": [
     "best-value"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.designmynight.com/london/blog/the-best-korean-fried-chicken-london | https://secretldn.com/korean-restaurants-london/"
+   "sourceCount": "3",
+   "sourceTiers": "B1 C2",
+   "sourceUrls": "https://www.designmynight.com/london/blog/the-best-korean-fried-chicken-london | https://www.londonxlondon.com/best-hot-pot-london/ | https://secretldn.com/korean-restaurants-london/"
   },
   {
    "slug": "seoul-bird",
@@ -28001,6 +29133,8 @@
    "guide": "camden-area-guide",
    "address": "Chalk Farm Road",
    "postcode": "NW1 8AB",
+   "lat": 51.541552,
+   "lng": -0.145694,
    "price": "£",
    "booking": "walk-in",
    "setting": "food-hall",

@@ -1198,6 +1198,85 @@
       "tier": "A",
       "name": "National Burger Awards",
       "note": "Judged, dated, cook-off final run by Dine Out magazine. The site does not publish the results list, so finalists and winners are read from press reports - the AWARD is still the source, never the outlet that reported it."
+    },
+    "broadsheet.com": {
+      "tier": "B",
+      "name": "Broadsheet London",
+      "note": "Masthead with editors; London edition of the Australian title. Added 2026-09-03 for the hot pot pass (Angela Hui on malatang)."
+    },
+    "londoncheapo.com": {
+      "tier": "C",
+      "name": "London Cheapo",
+      "note": "Independent budget-London specialist. Refuses WebFetch with a 403 - read it with curl under a browser user agent."
+    },
+    "honglingjin.co.uk": {
+      "tier": "C",
+      "name": "Red Scarf 红领巾",
+      "note": "Chinese-language UK guide for students and the diaspora. Publishes street addresses and per-head price bands, and runs an annual UK-wide readers poll - a community vote, NOT a judged panel, so tier C and never tier A. Scope any of its UK lists to London before counting (trap 12)."
+    },
+    "surreychinese.co.uk": {
+      "tier": "C",
+      "name": "Surrey Chinese 萨里鹿游器",
+      "note": "Chinese-language community site. Its London hot pot round-up is dated 2018 and its addresses have drifted - flag on recency."
+    },
+    "uk002.com": {
+      "tier": "C",
+      "name": "UK002 英国生活零零兔",
+      "note": "Chinese-language UK life site. Its London hot pot round-up is dated 2020 - flag on recency."
+    },
+    "goldfoil.eu": {
+      "tier": "C",
+      "name": "Goldfoil Magazine"
+    },
+    "youtube.com/@gohalalorgohome": {
+      "tier": "D",
+      "name": "Go Halal Or Go Home (YouTube)"
+    },
+    "youtube.com/@InnerAlchemyHub": {
+      "tier": "D",
+      "name": "Inner Alchemy (YouTube)"
+    },
+    "youtube.com/@Londonspicetrail": {
+      "tier": "D",
+      "name": "Londonspicetrail (YouTube)"
+    },
+    "youtube.com/@dejashu": {
+      "tier": "D",
+      "name": "Shu (YouTube)",
+      "note": "Also writes as Shu Lin. Quoted as a contributor inside Broadsheet London on the hot pot topic - counted there as Broadsheet, here as her own channel, because they are different publishers and name different venues."
+    },
+    "youtube.com/@Andy-eats": {
+      "tier": "D",
+      "name": "Andy Eats (YouTube)"
+    },
+    "youtube.com/@BIGTEE_THEFOODIE": {
+      "tier": "D",
+      "name": "BIG TEE THE FOODIE (YouTube)"
+    },
+    "youtube.com/@jayverified": {
+      "tier": "D",
+      "name": "Jay Verified (YouTube)",
+      "note": "DECLINED on hot pot: description is venue marketing copy."
+    },
+    "youtube.com/@ChinatownLondon": {
+      "tier": "F",
+      "name": "Chinatown London (YouTube)",
+      "note": "The Chinatown estate promoting its own tenants. Tier F in substance - a landlord recommending its own restaurants is not evidence."
+    },
+    "youtube.com/@happylambhotpotuk3069": {
+      "tier": "F",
+      "name": "Happy Lamb Hot Pot UK (YouTube)",
+      "note": "The venue own channel."
+    },
+    "thecapturist.com": {
+      "tier": "C",
+      "name": "The Capturist",
+      "note": "DECLINED on hot pot: photography courtesy of the venue, and framing near-identical to another blog three months later."
+    },
+    "lardermag.co.uk": {
+      "tier": "C",
+      "name": "Larder Magazine",
+      "note": "Returns HTTP 200 but the article body does not render to the fetcher - extraction yields site chrome only (trap 8). Read it in a browser."
     }
   },
   "excludedWhy": {

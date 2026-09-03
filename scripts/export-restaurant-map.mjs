@@ -85,6 +85,31 @@ const MAPS = [
     article: "src/content/articles/best-thai-restaurants-london.md",
   },
   {
+    key: "hot-pot-london",
+    list: "hot-pot",
+    // Every hot pot row is venueFormat "Restaurant" - even the pay-by-weight
+    // malatang counters are sit-down rooms with table service on the drinks.
+    streetFoodFormats: [],
+    // On the list and in the guide, but pointed at from a cross-reference
+    // paragraph rather than given a section of their own: the buffet rooms,
+    // the second Shepherd's Bush pot and the cheapest Chinatown counter.
+    tableOnly: [
+      "big-brother-hot-pot", "laoma-kings-cross", "water-house-rotherhithe",
+      "little-sichuan-hampstead", "pot-pot-malatang",
+    ],
+    // TEN OF THE THIRTY-FOUR ROWS HAVE NO PIN AT ALL and that is correct
+    // rather than broken. Nan Hotpot, Mr Wang, Teo, Ning's, Real Beijing,
+    // Feng Wei Shi Tang, Shu La La, Xiong Qi, Mao Master and Mealtime Malatang
+    // are all recorded with an AREA and no street address, because no source
+    // in data/consensus/hot-pot.json published one and their own sites either
+    // do not resolve or render as a single splash image. The exporter drops
+    // them loudly under OMITTED, which is the honest outcome: an approximate
+    // pin is a reader standing outside the wrong building. Mr Wang and Real
+    // Beijing do have sections in the guide, so they are reachable by reading;
+    // they are simply not on the map.
+    article: "src/content/articles/best-hot-pot-london.md",
+  },
+  {
     key: "korean-london",
     list: "korean-bbq",
     streetFoodFormats: [],

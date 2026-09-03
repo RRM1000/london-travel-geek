@@ -119,8 +119,18 @@ function stageSeed(rows) {
       e.website = KNOWN_SITES[r.Slug];
       n++;
     }
-    // Lift a postcode out of the existing free-text address.
-    const pc = findPostcode(r.Address);
+    // Lift a postcode out of the existing free-text address, or take the
+    // Postcode column directly.
+    //
+    // THE COLUMN WAS BEING IGNORED. write-restaurants-v2.mjs writes Address and
+    // Postcode as two columns, so a hand-written row like "19 Leman St" +
+    // "E1 8EJ" has no postcode inside its Address string and findPostcode
+    // returned nothing. Thirty-four hot pot rows written on 2026-09-03 carried
+    // a researched postcode each and still reported "nothing to geocode",
+    // which reads as "we have no data" when the data was sitting in the next
+    // column. Free postcodes.io geocoding was silently unavailable to every
+    // hand-written row.
+    const pc = findPostcode(r.Address) || findPostcode(r.Postcode);
     if (pc && !has(r.Slug, "postcode")) { e.postcode = pc; n++; }
   }
   console.log(`  seeded ${n} field(s) from research notes and existing addresses`);

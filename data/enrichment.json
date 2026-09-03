@@ -1575,6 +1575,12 @@
     "pressKit": "contact-only",
     "pressChecked": "2026-08-17"
   },
+  "big-brother-hot-pot": {
+    "postcode": "W2 6BB",
+    "lat": 51.516426,
+    "lng": -0.187086,
+    "ward": "Bayswater"
+  },
   "bing-bong-pizza": {
     "lat": 51.544647,
     "lng": -0.021406,
@@ -2828,6 +2834,12 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "chilli-cool": {
+    "postcode": "WC1H 9EW",
+    "lat": 51.526466,
+    "lng": -0.125014,
+    "ward": "Bloomsbury"
+  },
   "chin-chin-ice-cream": {
     "placeId": "ChIJFZCEVuEadkgRj1ZhijKnjTY",
     "placesName": "Chin Chin Ice Cream",
@@ -3513,6 +3525,12 @@
     "walkMin": 4,
     "walkFrom": "Piccadilly Circus Underground Station"
   },
+  "crystal-china": {
+    "postcode": "SE1 4TP",
+    "lat": 51.496259,
+    "lng": -0.082183,
+    "ward": "London Bridge & West Bermondsey"
+  },
   "cut-at-45-park-lane": {
     "postcode": "W1K 1PN",
     "lat": 51.506384,
@@ -3547,6 +3565,12 @@
     "walkFrom": "Cutty Sark (for Maritime Greenwich) DLR Station",
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
+  },
+  "da-long-yi-fitzrovia": {
+    "postcode": "W1T 3LA",
+    "lat": 51.51626,
+    "lng": -0.135782,
+    "ward": "West End"
   },
   "da-terra": {
     "placeId": "ChIJn-wx7LQddkgRMWv5bVEiEfQ",
@@ -3976,6 +4000,12 @@
     "stationDistanceM": 433,
     "walkMin": 7,
     "walkFrom": "Elephant & Castle Underground Station"
+  },
+  "dragon-inn-club": {
+    "postcode": "SW1V 1SH",
+    "lat": 51.493232,
+    "lng": -0.139891,
+    "ward": "Pimlico North"
   },
   "dream-xian": {
     "placeId": "ChIJp5J81WcDdkgR05rrtbl0i6E",
@@ -4571,6 +4601,7 @@
     "walkMin": 10,
     "walkFrom": "Camden Town Underground Station"
   },
+  "feng-wei-shi-tang": {},
   "fish-central": {
     "placeId": "ChIJodgyrlkbdkgRpTkiN78fBlc",
     "placesName": "Fish Central",
@@ -5487,6 +5518,12 @@
     "walkMin": 5,
     "walkFrom": "Hackney Wick Rail Station"
   },
+  "haidilao-piccadilly": {
+    "postcode": "W1D 7DH",
+    "lat": 51.510955,
+    "lng": -0.132987,
+    "ward": "St James's"
+  },
   "hainan-house": {
     "placeId": "ChIJqaYEwt0FdkgRlvyCvf0sTHE",
     "placesName": "Hainan house London 海南小馆",
@@ -5580,6 +5617,12 @@
     "walkMin": 1,
     "walkFrom": "Liverpool Street"
   },
+  "han-restaurant-poplar": {
+    "postcode": "E14 0ED",
+    "lat": 51.511435,
+    "lng": -0.011735,
+    "ward": "Lansbury"
+  },
   "happiness-forgets": {
     "placeId": "ChIJc71T0bocdkgRrt_uEpoLBoE",
     "placesName": "Happiness Forgets",
@@ -5598,6 +5641,12 @@
     "stationDistanceM": 486,
     "walkMin": 8,
     "walkFrom": "Old Street Underground Station"
+  },
+  "happy-lamb-holborn": {
+    "postcode": "WC1A 1AD",
+    "lat": 51.517405,
+    "lng": -0.123541,
+    "ward": "Bloomsbury"
   },
   "harrods-dining-hall": {
     "placeId": "ChIJaZ3batMFdkgREM_5SzO6ZE4",
@@ -5660,7 +5709,11 @@
   "hawley-wharf-camden": {
     "placeId": "ChIJocm10eMadkgRiP1A5Za44Og",
     "placesName": "Hawley Wharf",
-    "address": "Hawley Wharf, London, UK"
+    "address": "Hawley Wharf, London, UK",
+    "postcode": "NW1 8AB",
+    "lat": 51.541552,
+    "lng": -0.145694,
+    "ward": "Camden Town"
   },
   "helene-darroze-connaught": {
     "placeId": "ChIJNdaqLSwFdkgRcp3iqGlL6Ek",
@@ -5925,6 +5978,12 @@
     "stationDistanceM": 151,
     "walkMin": 2,
     "walkFrom": "London Bridge Underground Station"
+  },
+  "hotto-potto": {
+    "postcode": "E1 8EJ",
+    "lat": 51.514289,
+    "lng": -0.070631,
+    "ward": "Whitechapel"
   },
   "hoxton-beach-falafel": {
     "placeId": "ChIJ8X-QM6gcdkgRJWUOLyihhmo",
@@ -7380,6 +7439,12 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "laoma-kings-cross": {
+    "postcode": "WC1X 9BJ",
+    "lat": 51.529587,
+    "lng": -0.116077,
+    "ward": "King's Cross"
+  },
   "lardo": {
     "rating": 4.3,
     "ratingCount": 1378,
@@ -7533,6 +7598,12 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "leongs-legend": {
+    "postcode": "W1D 5QD",
+    "lat": 51.511817,
+    "lng": -0.130674,
+    "ward": "St James's"
+  },
   "les-2-garcons": {
     "placeId": "ChIJBUmrulwbdkgREyF_urZP6Dc",
     "placesName": "Les 2 Garçons",
@@ -7626,6 +7697,12 @@
     "stationDistanceM": 91,
     "walkMin": 1,
     "walkFrom": "Dalston Kingsland Rail Station"
+  },
+  "little-sichuan-hampstead": {
+    "postcode": "NW3 5EN",
+    "lat": 51.54456,
+    "lng": -0.175266,
+    "ward": "Belsize"
   },
   "locanda-locatelli": {
     "rating": 4.3,
@@ -7956,6 +8033,12 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "mailinda": {
+    "postcode": "E14 8NS",
+    "lat": 51.496989,
+    "lng": -0.023774,
+    "ward": "Canary Wharf"
+  },
   "mallow-borough": {
     "postcode": "SE1 9DE",
     "lat": 51.50626,
@@ -8142,6 +8225,7 @@
     "walkMin": 4,
     "walkFrom": "Tottenham Court Road Underground Station"
   },
+  "mao-master-hotpot-noodle": {},
   "maramia-cafe": {
     "placeId": "ChIJHVPqCRkQdkgRqfR8KtReLJE",
     "placesName": "Maramia Cafe",
@@ -8438,6 +8522,7 @@
     "pressKit": "https://www.mazi.co.uk/press/",
     "pressChecked": "2026-08-17"
   },
+  "mealtime-malatang": {},
   "med-salleh-viet": {
     "placeId": "ChIJMbESU0wPdkgReQo7KKvSDPk",
     "placesName": "Med Salleh Viet - Earl’s Court",
@@ -8829,6 +8914,7 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "mr-wang-hot-pot-aldgate": {},
   "muccis": {
     "website": "https://muccisrestaurant.co.uk/",
     "postcode": "SW10 0LQ",
@@ -8931,6 +9017,12 @@
     "walkMin": 2,
     "walkFrom": "Monument Underground Station"
   },
+  "muyang-hot-pot": {
+    "postcode": "W12 8QQ",
+    "lat": 51.502869,
+    "lng": -0.223805,
+    "ward": "Addison"
+  },
   "naifs": {
     "postcode": "SE15 5TN",
     "lat": 51.475497,
@@ -8988,6 +9080,7 @@
     "walkMin": 1,
     "walkFrom": "Tooting Bec Underground Station"
   },
+  "nan-hotpot": {},
   "napoli-on-the-road": {
     "rating": 4.5,
     "ratingCount": 1872,
@@ -9082,6 +9175,7 @@
     "walkMin": 1,
     "walkFrom": "Old Street Underground Station"
   },
+  "nings-fresh-beef-hotpot": {},
   "nipa-thai": {
     "placeId": "ChIJaW2seFIFdkgRUS2sQMnqPpA",
     "placesName": "Nipa Thai",
@@ -9100,6 +9194,12 @@
     "bookingPlatform": "opentable",
     "bookingUrl": "http://www.niparestaurant.co.uk/",
     "pressChecked": "2026-08-17"
+  },
+  "niu-hot-pot": {
+    "postcode": "E1 6BD",
+    "lat": 51.517736,
+    "lng": -0.074088,
+    "ward": "Spitalfields & Banglatown"
   },
   "no-forty-nine": {
     "placeId": "ChIJ_XN4wYgbdkgRo0FTvhj7EwQ",
@@ -10401,6 +10501,12 @@
     "walkMin": 11,
     "walkFrom": "King's Cross St. Pancras Underground Station"
   },
+  "pot-pot-malatang": {
+    "postcode": "WC2H 7JS",
+    "lat": 51.511881,
+    "lng": -0.129043,
+    "ward": "St James's"
+  },
   "prawn-on-the-lawn": {
     "lat": 51.546323,
     "lng": -0.101034,
@@ -10700,6 +10806,7 @@
     "walkMin": 7,
     "walkFrom": "Stoke Newington Rail Station"
   },
+  "real-beijing": {},
   "red-lion-and-sun": {
     "placeId": "ChIJ2yaCKk8adkgRTT3QOxE-aLs",
     "placesName": "The Red Lion & Sun",
@@ -11575,6 +11682,12 @@
     "bookingUrl": "https://www.sevendialsmarket.com/book-a-table/",
     "pressChecked": "2026-08-17"
   },
+  "shan-shui-jian": {
+    "postcode": "E14 7JD",
+    "lat": 51.512626,
+    "lng": -0.040291,
+    "ward": "Shadwell"
+  },
   "shan-shui-social": {
     "placeId": "ChIJsXtpkRMFdkgRGbnTiNwEkvg",
     "placesName": "Shan Shui Social",
@@ -11723,6 +11836,19 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "shu-la-la": {},
+  "shu-xiang-ge": {
+    "postcode": "W1D 5PW",
+    "lat": 51.512027,
+    "lng": -0.130839,
+    "ward": "St James's"
+  },
+  "shujie-hotpot": {
+    "postcode": "WC1R 4PS",
+    "lat": 51.51934,
+    "lng": -0.116889,
+    "ward": "Holborn & Covent Garden"
+  },
   "sichuan-folk": {
     "placeId": "ChIJf-r01bUcdkgRtM09i2F_YVs",
     "placesName": "Sichuan Folk",
@@ -11759,6 +11885,12 @@
     "bookingPlatform": "own-site",
     "bookingUrl": "https://linktr.ee/features/bookings",
     "pressChecked": "2026-08-17"
+  },
+  "simmer-huang-canary-wharf": {
+    "postcode": "E14 9RH",
+    "lat": 51.497198,
+    "lng": -0.014357,
+    "ward": "Blackwall & Cubitt Town"
   },
   "simpsons-in-the-strand": {
     "placeId": "ChIJCyGjxMsEdkgR56s8-gFqDnU",
@@ -12285,6 +12417,12 @@
     "bookingUrl": "http://supawan.co.uk/reservations",
     "pressChecked": "2026-08-17"
   },
+  "super-three-poplar": {
+    "postcode": "E14 0ED",
+    "lat": 51.511435,
+    "lng": -0.011735,
+    "ward": "Lansbury"
+  },
   "sushi-atelier": {
     "placeId": "ChIJIyyQ6NUadkgR3_o542CXFt8",
     "placesName": "Sushi Atelier 🇯🇵🍣",
@@ -12719,6 +12857,7 @@
     "bookingUrl": "https://www.opentable.co.uk/r/tendril-a-mostly-vegan-kitchen-reservations-london?restref=204060&lang=en-GB&ot_source=Restaurant%20website&quot;,",
     "pressChecked": "2026-08-17"
   },
+  "teo-hot-pot": {},
   "the-ampersand": {
     "placeId": "ChIJm_BvYl0FdkgR5-qNzNVoA3M",
     "placesName": "The Ampersand Hotel",
@@ -14235,6 +14374,12 @@
     "walkMin": 4,
     "walkFrom": "Dalston Junction Rail Station"
   },
+  "tian-fu-shepherds-bush": {
+    "postcode": "W12 8AR",
+    "lat": 51.50556,
+    "lng": -0.223931,
+    "ward": "Shepherd's Bush Green"
+  },
   "tiella": {
     "placeId": "ChIJLw5kBtcddkgRYVMYXsmueP4",
     "placesName": "Tiella Trattoria & Bar",
@@ -14871,6 +15016,12 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "water-house-rotherhithe": {
+    "postcode": "SE16 7JQ",
+    "lat": 51.49948,
+    "lng": -0.052828,
+    "ward": "Rotherhithe"
+  },
   "watermans-arms": {
     "placeId": "ChIJKx2CP0APdkgRUX_W8j3ymBw",
     "placesName": "The Waterman’s Arms",
@@ -15021,6 +15172,13 @@
     "walkFrom": "Holloway Road Underground Station",
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
+  },
+  "xiong-qi-hot-pot": {},
+  "yangguofu-malatang-chinatown": {
+    "postcode": "WC2H 0AN",
+    "lat": 51.511847,
+    "lng": -0.128612,
+    "ward": "St James's"
   },
   "yard-sale-pizza": {
     "placeId": "ChIJ38g2qf4cdkgRsKsvVgXs7Sk",

@@ -503,6 +503,12 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "big-brother-hot-pot": {
+    "name": "Big Brother Hot Pot",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "bing-bong-pizza": {
     "name": "Bing Bong Pizza",
     "firstSeen": "2026-08-30",
@@ -899,6 +905,12 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "chilli-cool": {
+    "name": "Chilli Cool",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "chin-chin-ice-cream": {
     "name": "Chin Chin",
     "firstSeen": "2026-08-17",
@@ -1115,6 +1127,12 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "crystal-china": {
+    "name": "Crystal China",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "cut-at-45-park-lane": {
     "name": "CUT at 45 Park Lane",
     "firstSeen": "2026-08-17",
@@ -1124,6 +1142,12 @@
   "cutty-sark-street-food-market": {
     "name": "Cutty Sark Street Food Market",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "da-long-yi-fitzrovia": {
+    "name": "Da Long Yi",
+    "firstSeen": "2026-09-03",
     "lastSeen": "2026-09-03",
     "status": "open"
   },
@@ -1256,6 +1280,12 @@
   "dragon-castle": {
     "name": "Dragon Castle",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "dragon-inn-club": {
+    "name": "Dragon Inn Club",
+    "firstSeen": "2026-09-03",
     "lastSeen": "2026-09-03",
     "status": "open"
   },
@@ -1448,6 +1478,12 @@
   "feng-shang-princess": {
     "name": "Feng Shang Princess",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "feng-wei-shi-tang": {
+    "name": "Feng Wei Shi Tang",
+    "firstSeen": "2026-09-03",
     "lastSeen": "2026-09-03",
     "status": "open"
   },
@@ -1715,6 +1751,12 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "haidilao-piccadilly": {
+    "name": "Haidilao",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "hainan-house": {
     "name": "Hainan House",
     "firstSeen": "2026-08-17",
@@ -1745,9 +1787,21 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "han-restaurant-poplar": {
+    "name": "Han Restaurant",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "happiness-forgets": {
     "name": "Happiness Forgets",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "happy-lamb-holborn": {
+    "name": "Happy Lamb Hot Pot",
+    "firstSeen": "2026-09-03",
     "lastSeen": "2026-09-03",
     "status": "open"
   },
@@ -1856,6 +1910,12 @@
   "horn-ok-please": {
     "name": "Horn OK Please",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "hotto-potto": {
+    "name": "Hotto Potto",
+    "firstSeen": "2026-09-03",
     "lastSeen": "2026-09-03",
     "status": "open"
   },
@@ -2327,6 +2387,12 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "laoma-kings-cross": {
+    "name": "Laoma",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "lardo": {
     "name": "Lardo",
     "firstSeen": "2026-08-17",
@@ -2375,6 +2441,12 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "leongs-legend": {
+    "name": "Leong's Legend",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "les-2-garcons": {
     "name": "Les 2 Garçons",
     "firstSeen": "2026-08-17",
@@ -2402,6 +2474,12 @@
   "little-earthquakes": {
     "name": "Little Earthquakes",
     "firstSeen": "2026-08-30",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "little-sichuan-hampstead": {
+    "name": "Little Sichuan",
+    "firstSeen": "2026-09-03",
     "lastSeen": "2026-09-03",
     "status": "open"
   },
@@ -2507,6 +2585,12 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "mailinda": {
+    "name": "Mailinda",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "mallow-borough": {
     "name": "Mallow",
     "firstSeen": "2026-08-17",
@@ -2564,6 +2648,12 @@
   "manzis-soho": {
     "name": "Manzi's",
     "firstSeen": "2026-08-30",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "mao-master-hotpot-noodle": {
+    "name": "Mao Master Hotpot Noodle",
+    "firstSeen": "2026-09-03",
     "lastSeen": "2026-09-03",
     "status": "open"
   },
@@ -2660,6 +2750,12 @@
   "mazi": {
     "name": "Mazi",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "mealtime-malatang": {
+    "name": "Mealtime Malatang",
+    "firstSeen": "2026-09-03",
     "lastSeen": "2026-09-03",
     "status": "open"
   },
@@ -2789,6 +2885,12 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "mr-wang-hot-pot-aldgate": {
+    "name": "Mr Wang Hot Pot",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "muccis": {
     "name": "Mucci's",
     "firstSeen": "2026-08-17",
@@ -2819,6 +2921,12 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "muyang-hot-pot": {
+    "name": "Muyang Hot Pot & BBQ",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "naifs": {
     "name": "Naïfs",
     "firstSeen": "2026-08-17",
@@ -2834,6 +2942,12 @@
   "namak-mandi": {
     "name": "Namak Mandi",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "nan-hotpot": {
+    "name": "Nan Hotpot",
+    "firstSeen": "2026-09-03",
     "lastSeen": "2026-09-03",
     "status": "open"
   },
@@ -2867,9 +2981,21 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "nings-fresh-beef-hotpot": {
+    "name": "Ning's Fresh Beef Hotpot",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "nipa-thai": {
     "name": "Nipa Thai",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "niu-hot-pot": {
+    "name": "Niu Hot Pot",
+    "firstSeen": "2026-09-03",
     "lastSeen": "2026-09-03",
     "status": "open"
   },
@@ -3287,6 +3413,12 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "pot-pot-malatang": {
+    "name": "Pot Pot Malatang",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "prawn-on-the-lawn": {
     "name": "Prawn on the Lawn",
     "firstSeen": "2026-08-30",
@@ -3380,6 +3512,12 @@
   "rasa-stoke-newington": {
     "name": "Rasa",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "real-beijing": {
+    "name": "Real Beijing",
+    "firstSeen": "2026-09-03",
     "lastSeen": "2026-09-03",
     "status": "open"
   },
@@ -3659,6 +3797,12 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "shan-shui-jian": {
+    "name": "Shan Shui Jian",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "shan-shui-social": {
     "name": "Shan Shui Social",
     "firstSeen": "2026-08-17",
@@ -3707,6 +3851,24 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "shu-la-la": {
+    "name": "Shu La La",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "shu-xiang-ge": {
+    "name": "Shu Xiang Ge",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "shujie-hotpot": {
+    "name": "Shujie Hotpot",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "sichuan-folk": {
     "name": "Sichuan Folk",
     "firstSeen": "2026-08-17",
@@ -3716,6 +3878,12 @@
   "silk-road-camberwell": {
     "name": "Silk Road",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "simmer-huang-canary-wharf": {
+    "name": "Simmer Huang",
+    "firstSeen": "2026-09-03",
     "lastSeen": "2026-09-03",
     "status": "open"
   },
@@ -3887,6 +4055,12 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "super-three-poplar": {
+    "name": "Super Three",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "sushi-atelier": {
     "name": "Sushi Atelier",
     "firstSeen": "2026-08-17",
@@ -4028,6 +4202,12 @@
   "tendril": {
     "name": "Tendril",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "teo-hot-pot": {
+    "name": "Teo Hot Pot",
+    "firstSeen": "2026-09-03",
     "lastSeen": "2026-09-03",
     "status": "open"
   },
@@ -4517,6 +4697,12 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "tian-fu-shepherds-bush": {
+    "name": "Tian Fu",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "tiella": {
     "name": "Tiella",
     "firstSeen": "2026-08-17",
@@ -4721,6 +4907,12 @@
     "lastSeen": "2026-09-03",
     "status": "open"
   },
+  "water-house-rotherhithe": {
+    "name": "Water House Restaurant",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
   "watermans-arms": {
     "name": "The Waterman's Arms",
     "firstSeen": "2026-08-17",
@@ -4766,6 +4958,18 @@
   "xian-impression": {
     "name": "Xi'an Impression",
     "firstSeen": "2026-08-17",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "xiong-qi-hot-pot": {
+    "name": "Xiong Qi Hot Pot",
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03",
+    "status": "open"
+  },
+  "yangguofu-malatang-chinatown": {
+    "name": "Yangguofu Malatang",
+    "firstSeen": "2026-09-03",
     "lastSeen": "2026-09-03",
     "status": "open"
   },

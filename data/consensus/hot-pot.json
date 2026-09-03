@@ -1,0 +1,332 @@
+{
+  "cuisine": "hot-pot",
+  "note": "SCOPE. Chinese hot pot in London - a pot of broth heated at the table, into which the diner cooks raw ingredients themselves. It is a FORMAT, not a cuisine, so the corpus deliberately spans several regional traditions that share it: Sichuan and Chongqing mala, Beijing copper-pot instant-boiled lamb, Mongolian lamb, Chaoshan/Teochew beef, Cantonese seafood and congee bases, lamb-spine (yang xie zi), and the single-bowl malatang and maocai formats that are hot pot's fast-food descendants.\n\nADJACENT FORMATS ARE RECORDED AS THE SOURCES WROTE THEM, NOT PROMOTED. Several sources file Japanese shabu-shabu and sukiyaki (Cocoro, Eat Tokyo G2), Korean jeongol and budae jjigae (Kangnam Pocha, Naru, Sagye) under 'hot pot'. Those names are recorded because the source named them, and the article scopes to the Chinese format with a short paragraph pointing at the Japanese and Korean guides instead. Never silently drop a name a source carried; scope in the article, not in the corpus.\n\nWHY THE TIER MIX LOOKS LIKE THIS. There is no judged award for hot pot anywhere - see knownGaps - and, unusually, almost no masthead coverage either. Time Out, Eater London, the Evening Standard, Condé Nast Traveller, Secret London, The Nudge, SquareMeal and Hot Dinners all have no London hot pot list; the slugs were probed on 2026-09-03 and returned 404 (SquareMeal returns HTTP 200 on a soft 404 page reading 'Best Restaurants not found', which must not be recorded as a source). Three mastheads carry one - The Infatuation, DesignMyNight and Broadsheet - and the rest of the weight is carried by independent blogs, Chinese-language diaspora publications and YouTube. That is not a compromise: on this topic the diaspora sites are the best-informed sources available, and they are the only ones that publish addresses and per-head prices for the outer-London places nobody else covers.",
+  "recorded": "2026-09-03",
+  "knownGaps": [
+    "NO TIER A. There is no judged, dated ranking for hot pot - not in Britain, not internationally, and not as a category inside a wider award. Michelin, the Good Food Guide, Harden's and the Asian Curry Awards all rank restaurants rather than this format, and none has a hot pot category. The one dated, ranked, voted list found anywhere is Red Scarf's reader poll (below), which is a community vote by a diaspora publication rather than a judged panel, and is recorded at tier C accordingly. This topic's ranking therefore rests on editorial, blog and video consensus alone, and the article says so.",
+    "NO TIER E. Reddit is blocked to the fetcher in this environment and APIFY_TOKEN is not configured, so the community tier could not be collected. TikTok search returns only /discover/ aggregate pages, which are search-results pages and are never citable, and no creator handle was reconstructed from a display name - see trap 5. audit-source-mix will show tier E at zero, correctly.",
+    "MASTHEAD COVERAGE IS GENUINELY THIN, not merely unfound. Nine publication slugs were probed and 404'd on 2026-09-03. This is a real hole in the published record rather than a collection failure, and it is why the blog and diaspora tiers outweigh editorial here by roughly four to one.",
+    "TIER D IS MOSTLY SINGLE-VENUE. Six of the seven video sources review one restaurant each rather than ranking several, so the video tier adds breadth of voice but almost no comparison. Only Strictly Dumpling's Chinatown tour carries more than one hot pot name.",
+    "TWO CHINESE-LANGUAGE SOURCES ARE OLD. surreychinese.co.uk is dated August 2018 and uk002.com February 2020 - both well past the 36-month recency flag, and the 2018 piece still lists Shu Xiang Ge at 43 New Oxford Street, an address it has since left. They are recorded because the recency rule flags rather than excludes, and because they are the only record of the pre-2020 scene, but nothing should be published on their word alone.",
+    "OPENING HOURS FOR HAIDILAO PICCADILLY ARE CONTESTED. London Cheapo says the Piccadilly site runs to 3am daily; leicestersquare.london says 11 to 11. Neither is the venue's own site. No closing time is published in the article until the owner confirms one.",
+    "CHEF ZHANG XIAOZHONG IS CLAIMED BY TWO VENUES. Hotto Potto's own site says it is 'Led by Chef Zhang XiaoZhong'; DesignMyNight and The Infatuation both attribute the same chef to Tian Fu in Shepherd's Bush. Recorded as an open question rather than asserted for either."
+  ],
+  "sources": [
+    {
+      "name": "The Infatuation - The 12 Best Hot Pot Restaurants In London",
+      "url": "https://www.theinfatuation.com/london/guides/best-hot-pot-london",
+      "scope": "hot-pot",
+      "tier": "B",
+      "note": "NUMBERED BUT NOT RANKED. The title says 12 and the page numbers them, but the entries are presented as equal recommendations, so no ranks are carried. The most style-literate of the English-language sources: it names the regional tradition behind each venue rather than treating hot pot as one thing. The Infatuation also publishes a separate single-venue review of Mr Wang Hot Pot Aldgate; same domain, so one source, and Mr Wang is already in these names.",
+      "names": ["Super Three", "Han Restaurant", "Nan Hotpot", "Real Beijing", "Hotto Potto", "Eat Tokyo G2 Shabu-Shabu", "Teo Hot Pot", "Shu La La", "Ning's Fresh Beef Hotpot", "Niu Hot Pot", "Mr Wang Hot Pot", "Da Long Yi"],
+      "quotes": {
+        "Super Three": "All-you-can-eat Sichuan hot pot with a spicy butter base, plus Korean charcoal barbecue - Poplar",
+        "Han Restaurant": "Hainanese coconut chicken hot pot, a sweet and refreshing broth - Poplar",
+        "Nan Hotpot": "Chongqing-style, half-and-half mushroom and tomato broth, open until 3am - Chinatown",
+        "Real Beijing": "Beijing-style copper hot pot with smouldering charcoal and a preserved cabbage broth - Chinatown",
+        "Hotto Potto": "Sichuan, with a fiery beef tallow broth and a speciality mix platter - Aldgate",
+        "Eat Tokyo G2 Shabu-Shabu": "Japanese shabu-shabu, a light umami-rich miso bonito broth - Golders Green",
+        "Teo Hot Pot": "Teochew-style, built on high-quality beef cuts with lighter broths - Fitzrovia",
+        "Shu La La": "Sichuan dry spicy hot pot, scarlet-red oil and Sichuan peppercorns - Holloway",
+        "Ning's Fresh Beef Hotpot": "Cantonese-Teochew, a fragrant delicate soup base and grass-fed beef - Fitzrovia",
+        "Niu Hot Pot": "Teochew-style with lighter broths, focused on Aberdeen Angus beef - Spitalfields",
+        "Mr Wang Hot Pot": "Malatang pick-and-mix with a creamy beef bone broth; pay by weight - Aldgate",
+        "Da Long Yi": "Modern Sichuan - a mouth-numbing Sichuan peppercorn and butter bath - Fitzrovia"
+      }
+    },
+    {
+      "name": "DesignMyNight - The Best Hot Pot Restaurants In London",
+      "url": "https://www.designmynight.com/london/blog/hot-pot-london",
+      "scope": "hot-pot",
+      "tier": "B",
+      "note": "Unranked, 8 venues. Listings-led with editorial on top. Records Sichuan Folk, which this project already marks closed (status closed, checked 2026-09-02) - build-evidence drops it via data/closed.json, and the article uses it as an example of how slowly published lists update.",
+      "names": ["Haidilao", "Sichuan Folk", "Happy Lamb Hot Pot", "Hotto Potto", "Shu Xiang Ge", "Muyang Hot Pot & BBQ", "Crystal China", "Tian Fu"],
+      "quotes": {
+        "Haidilao": "Known for its exceptional service and premium ingredients, it lets diners customise every aspect of their meal - Piccadilly and The O2",
+        "Happy Lamb Hot Pot": "Mongolian culinary traditions - Holborn and Bayswater",
+        "Shu Xiang Ge": "London's first authentic eatery of its kind, dedicated to preserving and celebrating the deep-rooted heritage - Chinatown",
+        "Muyang Hot Pot & BBQ": "The first Chinese eatery in the capital to introduce the authentic mini hot pot - Shepherd's Bush",
+        "Crystal China": "Claims to be the first and best dry hot pot in the capital - Tower Bridge",
+        "Tian Fu": "Led by Chef Zhang XiaoZhong - Shepherd's Bush",
+        "Sichuan Folk": "Brick Lane - RECORDED BUT CLOSED. Listed live by this source; the restaurant had gone by August 2025."
+      }
+    },
+    {
+      "name": "Broadsheet London - How I Malatang: London Chefs and Food Writers Share How They Build Their Own Hotpot Bowls",
+      "url": "https://www.broadsheet.com/london/articles/how-i-malatang",
+      "scope": "hot-pot",
+      "tier": "B",
+      "note": "Words by Angela Hui, 6 March 2026. Unranked. The only masthead piece that treats malatang as its own format rather than a sub-heading, and the only source anywhere that gives the practical rule - 400 to 500 grams of ingredients per person. Three named contributors pick a venue each: Irene Hua (chef, Zao An Cafe), Shu Lin (food and travel writer) and Wei Guo (food writer). CROSS-PLATFORM FLAG: Shu Lin is @dejashu, whose own YouTube channel is recorded separately in this corpus. She names Mr Wang here and Haidilao there, so no single venue receives two counts from one person, and the publication rather than the contributor is what is being counted - the same rule that files a critic's column under the masthead. Flagged rather than merged because the two records are genuinely different publishers.",
+      "names": ["Mao Master Hotpot Noodle", "Yangguofu Malatang", "Mr Wang Hot Pot", "Mealtime Malatang"],
+      "quotes": {
+        "Mao Master Hotpot Noodle": "By Russell Square. Not technically malatang, but it specialises in maocai, a Sichuan-style hot pot designed for people who want their own bowl",
+        "Yangguofu Malatang": "Irene Hua, chef at Zao An Cafe: sliced meat and vegetables, great value for weight; the classic herbal beef bone broth is a creamy bone broth with a bit of heat but not too oily",
+        "Mr Wang Hot Pot": "Shu Lin: first-timers are recommended to aim for 400 to 500 grams per person, but I frequently go over; a medium-spiced milky broth, beef rolls, tripe, lotus root, Fuzhou fish balls, frozen tofu",
+        "Mealtime Malatang": "Wei Guo, from Gansu: the soup base has to be mala, numbing and spicy - it wouldn't be malatang with any other base - Fitzrovia"
+      }
+    },
+    {
+      "name": "London x London - London's Best Hot Pot Restaurants",
+      "url": "https://www.londonxlondon.com/best-hot-pot-london/",
+      "scope": "hot-pot",
+      "tier": "C",
+      "note": "Unranked, 9 venues, and the widest definition of hot pot in the corpus - it counts Japanese shabu-shabu and Korean stews. Those names are recorded as written; the article scopes them out. Its intro is the most useful sentence anywhere on the topic: five years ago good hot pot was hard to find in London, and the format has since split into Japanese shabu-shabu, Sichuan malatang, brothy Cantonese and Teochew beef and fishball rooms.",
+      "names": ["Haidilao", "Charco Charco", "Tian Fu", "Kangnam Pocha", "Chilli Cool", "Cocoro", "Happy Lamb Hot Pot", "Dragon Inn Club", "Naru"],
+      "quotes": {
+        "Haidilao": "You can get free manicures, play board games, nibble on fresh fruit and snacks while you wait - Leicester Square",
+        "Charco Charco": "This marriage of hot pot and yakiniku in Covent Garden is the project of one heck of a success story",
+        "Tian Fu": "You'll find all sorts of intestines, tripe, and other questionable ingredients on the menu here - Shepherd's Bush",
+        "Chilli Cool": "You should be here for the Sichuan boboji, a style of hotpot where you order meat and veg on sticks - Bloomsbury",
+        "Cocoro": "The broth is delicate and balanced. Satisfying umami notes run throughout a clear broth - JAPANESE, scoped out of the article",
+        "Happy Lamb Hot Pot": "Beautifully-marbled, near-paper-thin slices of the stuff are to be seen on every table - Holborn",
+        "Dragon Inn Club": "Scarlet soups of fiery disposition that make for one spice-inducted high-endorphin meal - Victoria",
+        "Kangnam Pocha": "Gamja Tang, a spicy broth of braised pork ribs - KOREAN, scoped out of the article",
+        "Naru": "A portion of Korean army stew - KOREAN, scoped out of the article"
+      }
+    },
+    {
+      "name": "London Cheapo - Best Hot Pot in Central London",
+      "url": "https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/",
+      "scope": "hot-pot",
+      "tier": "C",
+      "note": "Written by Amanda David, unranked, 7 venues, explicitly scoped to Sichuan and Mongolian hot pot and to central London. Refused WebFetch with a 403 and was read with curl under a browser user agent. By far the best how-to-eat-it writing in the corpus: it carries the cooking times, the two-sets-of-chopsticks rule and the yin-and-yang divided pot, and those facts are what the article's ordering section is built on rather than any single venue's marketing.",
+      "names": ["Haidilao", "Shu Xiang Ge", "Happy Lamb Hot Pot", "Hotto Potto", "Xiong Qi Hot Pot", "Chilli Cool", "Da Long Yi"],
+      "quotes": {
+        "Haidilao": "An apron, a band to tie our hair back, a fabric bag for our coats to stop the steam making them smell, and an iPad to order from. Worth ordering the noodles just for the performance noodle pull - Piccadilly, Greenwich",
+        "Shu Xiang Ge": "Claims to be London's first authentic Sichuan hot pot restaurant and prides itself on staying traditional. It's on the basic side and customer service can be a bit hit and miss but the flavours are certainly there - Chinatown",
+        "Happy Lamb Hot Pot": "Bone broths simmered for over 6 hours, with 36 fresh ingredients including goji berries, jujubes and ginseng - Holborn, Bayswater",
+        "Hotto Potto": "A great BBQ selection and handy mixed platters for those who struggle with the amount of choice. The menu includes recommended cooking times - Aldgate",
+        "Xiong Qi Hot Pot": "A great group option to escape the culinary wilderness that is Leicester Square. A poster on the wall has suggested cooking times and knowledgeable staff are happy to give advice",
+        "Chilli Cool": "A casual restaurant with a separate area for hot pot; famous for the fearsomely authentic levels of chilli and Sichuan pepper - Bloomsbury"
+      }
+    },
+    {
+      "name": "Red Scarf 红领巾 - A complete round-up of London's hot pot restaurants (英国伦敦超全火锅店盘点)",
+      "url": "https://www.honglingjin.co.uk/384906.html",
+      "scope": "hot-pot",
+      "tier": "C",
+      "note": "The single most valuable source in this corpus. A Chinese-language UK guide aimed at students and the diaspora, updated 10 April 2026, listing 19 London hot pot restaurants A-Z by Chinese name WITH STREET ADDRESSES AND PER-HEAD PRICE BANDS (£ under 20, ££ 20-40, £££ 40-60, ££££ over 60). It reaches Poplar, Rotherhithe, Limehouse and the Isle of Dogs, which no English-language source covers at all, and it is the only source that identifies the Beijing copper-pot and lamb-spine specialists.\n\nSAME DOMAIN, SECOND PAGE - ONE SOURCE, NOT TWO. Red Scarf also publishes '2023年英国最好吃的火锅店TOP 10榜单' at https://www.honglingjin.co.uk/232240.html (updated 5 December 2023), a DATED AND RANKED reader vote which states that the nominations and result come entirely from readers' votes and carry no paid promotion. Distinct-domain counting makes that one opinion with this page, so its ranks are carried in the quotes below rather than recorded as a second source. TRAP 12 SCOPING: the poll is UK-WIDE, and only five of its eleven placings are London - #1 Happy Lamb, #2 Haidilao, #3 Shujie, #4 Shu Xiang Ge, #6 Xiong Qi. #5 Xiang Bala is Edinburgh, #7= HOT 9 Nottingham, #7= Jay's Grill Bar Glasgow, #9 No. 8 Hotpot Manchester, #10= Mr Zhang's Kitchen Liverpool and #10= Happiness 2 Newcastle, and none of those six is recorded. It is a readers' poll by a community publication, not a judged panel, so it is tier C and NOT tier A.",
+      "names": ["Super Three", "Big Brother Hot Pot", "Cocoro", "Feng Wei Shi Tang", "Haidilao", "Han Restaurant", "Water House Restaurant", "Happy Lamb Hot Pot", "Chilli Cool", "Laoma", "Leong's Legend", "Dragon Inn Club", "Mailinda", "Sagye", "Shan Shui Jian", "Shujie Hotpot", "Shu Xiang Ge", "Tian Fu", "Little Sichuan"],
+      "quotes": {
+        "Happy Lamb Hot Pot": "RANKED #1 of the 2023 UK reader poll (London subset). The people behind it are the original team from Little Sheep 小肥羊; it keeps the Mongolian principle that you should not need a dipping sauce. Two London branches. ££",
+        "Haidilao": "RANKED #2 of the 2023 UK reader poll (London subset). Europe's first Haidilao; queued out of the door when it opened. Flavour and service the equal of China's, at a higher price. Piccadilly Circus and O2. ££",
+        "Shujie Hotpot": "RANKED #3 of the 2023 UK reader poll (London subset). Walk in and the room smells of chilli and Sichuan pepper. Duck intestine and pork brain on the menu; Sichuanese customers are the ones shouting about it. 25-26 Red Lion Street WC1R 4PS. ££",
+        "Shu Xiang Ge": "RANKED #4 of the 2023 UK reader poll (London subset). Famous for the nine-grid jiugongge pot, with a yuanyang split pot for those who can't take the heat. 10 Gerrard Street W1D 5PW. £££",
+        "Super Three": "A long-established Sichuan restaurant near Canary Wharf with a huge range of broths; the Sichuan cooking is as well known as the hot pot. 207 East India Dock Road, Poplar E14 0ED. ££",
+        "Big Brother Hot Pot": "Mongolian-led, and one of London's rare hot-pot-plus-barbecue double buffets. 82-84 Bishop's Bridge Road W2 6BB. ££",
+        "Feng Wei Shi Tang": "The first-floor hot pot is BEIJING COPPER POT, and the writer vouches for it as the real instant-boiled lamb: clear water in a tall copper pot, and a soft, mellow sesame sauce. Two London branches. ££",
+        "Han Restaurant": "Known for a beef-tallow broth served in a bear-shaped block; also does crab pot, barbecue, Dongbei and Sichuan dishes. 213 East India Dock Road, Poplar E14 0ED. ££",
+        "Water House Restaurant": "Buffet hot pot in Canada Water. Beyond mala and clear broth it offers old-duck, old-chicken and lamb soup bases, plus chuanchuan skewers and Hunanese cooking. 30-32 Albion Street, Rotherhithe SE16 7JQ. ££",
+        "Chilli Cool": "A straightforward Sichuan restaurant near King's Cross - maocai, mala xiang guo and stir-fries. The hot pot is good and the value is high. 15 Leigh Street WC1H 9EW. ££",
+        "Laoma": "Praised online for its service. Buffet hot pot, free soft drinks and no service charge; mostly students from the surrounding streets. 135 King's Cross Road WC1X 9BJ. ££",
+        "Leong's Legend": "Originally a Taiwanese snack house; the walls carry Water Margin characters. The courtyard hot pot is about £25 a head all you can eat, which makes it one of Chinatown's cheaper pots. 39 Gerrard Street W1D 5QD. ££",
+        "Dragon Inn Club": "A dragon's-head pot and an expensive fish-maw chicken broth put it a level above the usual. Coconut chicken, beef tallow red soup, nourishing chicken and tomato are the standing bases. 16-18 Upper Tachbrook Street, Pimlico SW1V 1SH. £££",
+        "Mailinda": "A canteen for the Isle of Dogs. Copper-pot hot pot and charcoal skewers, plus chive boxes and guo bao rou. 62 Mellish Street E14 8NS. ££",
+        "Shan Shui Jian": "London's lamb-spine (yang xie zi) hot pot - one of the authentic branches of a well-known Chinese chain, with the owner stewing the spines to his own recipe. Also grilled fish and chicken with mushrooms. 562 Commercial Road, Limehouse E14 7JD. ££",
+        "Tian Fu": "Buffet or à la carte. Head chef Zhang Xiaozhong is said to be descended from Deng Xiaoping's private cook and has studied Sichuan cooking since he was sixteen. 37-39 Bulwer Street, Shepherd's Bush W12 8AR. ££",
+        "Little Sichuan": "Sichuanese customers vouch for the authenticity; the mala base is the one to have. 4-6 Northways Parade, South Hampstead NW3 5EN. ££",
+        "Cocoro": "JAPANESE - sukiyaki and shabu-shabu, with an all-you-can-eat option at the Bloomsbury branch. 25 Coptic Street WC1A 1NT. £££. Scoped out of the article.",
+        "Sagye": "KOREAN - seafood jeongol, beef jeongol and army stew on the Isle of Dogs. Scoped out of the article."
+      }
+    },
+    {
+      "name": "Goldfoil Magazine - Da Long Yi Hot Pot London Review: Authentic Sichuan Dining in Fitzrovia",
+      "url": "https://www.goldfoil.eu/articles/da-long-yi-london-hot-pot-restaurant-review",
+      "scope": "hot-pot",
+      "tier": "C",
+      "note": "Single-venue review by Deyvid Dimitrov, 25 January. Independent framing - he chose the dish from the restaurant's social media rather than being walked through a press menu - and no gifted or hosted disclosure appears. Carries the most precise broth description in the corpus and confirms the address.",
+      "names": ["Da Long Yi"],
+      "quotes": {
+        "Da Long Yi": "5A Berners Street, Fitzrovia W1T 3LA. The signature Sichuan broth is beef tallow, dried chillies, Sichuan peppercorns and more than twenty aromatics; the heat is layered and builds gradually. Dual-sided pot of tomato-and-fried-egg and pork bone. Sauce station with recipe cards. The Volcano Beef is marbled beef built into a cone over crushed ice with chilli oil poured through the centre."
+      }
+    },
+    {
+      "name": "Hot Dinners - Yangguofu Malatang brings its spicy hot pots to London's Chinatown",
+      "url": "https://www.hot-dinners.com/2025080614398/Gastroblog/Latest-news/yangguofu-malatang-opens-chinatown-london-hotpot",
+      "scope": "hot-pot",
+      "tier": "C",
+      "note": "News piece by Catherine Hanly, 6 August 2025. One venue, and the only English-language source to state plainly that hot pot restaurants are now commonplace in London. Confirms the Chinatown address and the previous Hammersmith-only UK presence.",
+      "names": ["Yangguofu Malatang"],
+      "quotes": {
+        "Yangguofu Malatang": "47-49 Charing Cross Road WC2H 0AN, in the old Wing Wing site across Charing Cross Road and Newport Court. A chain with over 7,000 restaurants worldwide; until this opened you had to go to Hammersmith. Over 100 elements to choose from - protein, then noodles, add-ons, broth, condiments and dipping sauce."
+      }
+    },
+    {
+      "name": "Surrey Chinese 萨里鹿游器 - London hot pot round-up",
+      "url": "https://www.surreychinese.co.uk/archives/15425",
+      "scope": "hot-pot",
+      "tier": "C",
+      "note": "STALE - DATED 18 AUGUST 2018, eight years old and well past the 36-month recency flag. Recorded because the recency rule flags rather than excludes, and because it is the only record of the pre-2020 scene. It lists Shu Xiang Ge at 43 New Oxford Street, an address the restaurant has since left, and names Little Lamb and Joy Luck, neither of which appears in any current source. Nothing may be published on this source alone.",
+      "names": ["Shu Xiang Ge", "Little Lamb Hotpot", "Joy Luck", "Chilli Cool", "Leong's Legend", "Sichuan Folk", "Super Three", "Tian Fu", "Muyang Hot Pot & BBQ"],
+      "quotes": {
+        "Shu Xiang Ge": "2018: Sichuan, mala base, kidney, ox aorta and tripe; the rare nine-grid pot. Cash only and extremely busy, so book. STALE ADDRESS - 43 New Oxford Street WC1A 1BH",
+        "Little Lamb Hotpot": "2018: a set menu at £23 a head including soup base, five main dishes and two and a half hours. 72 Shaftesbury Avenue W1D 6NA. UNCONFIRMED IN ANY CURRENT SOURCE",
+        "Joy Luck": "2018: buffet hot pot, split spicy and clear pot. 47 Gerrard Street W1D 5QJ. UNCONFIRMED IN ANY CURRENT SOURCE",
+        "Leong's Legend": "2018: one of the cheapest all-you-can-eat hot pots in London. 39 Gerrard Street W1D 5QD",
+        "Muyang Hot Pot & BBQ": "2018: the handmade fish balls are worth trying, with black fungus, quail eggs and rice cake. 33 Goldhawk Road W12 8QQ",
+        "Sichuan Folk": "2018: known for carefully simmered broths with red dates, ginseng, ginkgo and lotus seed. 32 Hanbury Street E1 6QR. NOW CLOSED"
+      }
+    },
+    {
+      "name": "UK002 英国生活零零兔 - Which hot pot restaurants in London are good? (伦敦好吃的火锅店有哪些)",
+      "url": "https://www.uk002.com/note/60198",
+      "scope": "hot-pot",
+      "tier": "C",
+      "note": "STALE - DATED 17 FEBRUARY 2020, six years old. Recorded under the same reasoning as the 2018 piece. Useful only as a historical price marker: it is the sole source giving per-head figures for the pre-pandemic scene, and it puts Little Sichuan at 279C Finchley Road while Red Scarf now gives South Hampstead, which is either a move or two sites and is flagged as an open question.",
+      "names": ["Haidilao", "Happy Lamb Hot Pot", "Shujie Hotpot", "Shu Xiang Ge", "Mailinda", "Little Sichuan", "Chilli Cool", "Tian Fu"],
+      "quotes": {
+        "Haidilao": "2020: £35 a head. Unit 4/5 the Trocadero Centre, Piccadilly W1D 7DH",
+        "Happy Lamb Hot Pot": "2020: £30 a head; the original Little Sheep founding team's new brand, pitched higher than Little Sheep but keenly priced. 2 New Oxford Street WC1A 1AD",
+        "Shujie Hotpot": "2020: £35 a head. Called the most authentic Sichuan hot pot in London by its fans, but a plain room - you come out smelling of it, so wear old clothes",
+        "Shu Xiang Ge": "2020: £35 a head. The old guard, long the top of London's hot pot lists, with sites near the British Museum and in Chinatown",
+        "Mailinda": "2020: proper northern old-style hot pot near Canary Wharf; the old Beijing copper pot is the real thing and cheap. 62 Mellish Street E14 8NS",
+        "Little Sichuan": "2020: 279C Finchley Road NW3 6LT - ADDRESS CONFLICTS with Red Scarf's South Hampstead NW3 5EN"
+      }
+    },
+    {
+      "name": "Go Halal Or Go Home (YouTube) - Finding the best Hot Pot in London",
+      "url": "https://www.youtube.com/@gohalalorgohome",
+      "scope": "hot-pot",
+      "tier": "D",
+      "note": "Published 15 April 2025, 7,661 views. Video: https://www.youtube.com/watch?v=5lQl2CEQXsk. Names taken from the description and chapter markers. The description carries a CREDITS block listing the venue's Instagram alongside the host and videographer, which is a soft signal of a hosted visit - but none of the disclosure markers (ad, gifted, invite, thanks for having us) appears, so it is counted and the credit is flagged here rather than hidden. Its chapter list is the clearest evidence anywhere that Simmer Huang's pot converts from a simmer pot to a hot pot mid-meal.",
+      "names": ["Simmer Huang"],
+      "quotes": {
+        "Simmer Huang": "A halal-friendly Chinese simmer pot restaurant in Canary Wharf. Chapters run Trying the Simmer Pot, then Dessert, then Hot Pot Transformation - the pot becomes a hot pot partway through the meal."
+      }
+    },
+    {
+      "name": "Inner Alchemy (YouTube) - Insane HOT POT! Part 3 of the Ultimate Guide to London's China Town",
+      "url": "https://www.youtube.com/@InnerAlchemyHub",
+      "scope": "hot-pot",
+      "tier": "D",
+      "note": "Published 4 November 2021, 6,029 views. Video: https://www.youtube.com/watch?v=8GOsEkhpuFo. Names from the description. No gifted or hosted disclosure. Part of a Chinatown series but the hot pot episode walks out of Chinatown to Holborn, which is itself the finding.",
+      "names": ["Happy Lamb Hot Pot"],
+      "quotes": {
+        "Happy Lamb Hot Pot": "If you're up for a short walk, Happy Lamb at Holborn is absolutely one of the best hot pot restaurants in London. The super spicy broth is rich and laced with dozens of whole dried chillies; they took a chicken bone marrow broth on the other side, plus grilled lamb kebabs."
+      }
+    },
+    {
+      "name": "Londonspicetrail (YouTube) - Best hotpot restaurant in London: Hotto Potto",
+      "url": "https://www.youtube.com/@Londonspicetrail",
+      "scope": "hot-pot",
+      "tier": "D",
+      "note": "Published 30 January 2024, 2,575 views. Video: https://www.youtube.com/watch?v=WHu6hif_K3Q. Names from the description. No gifted or hosted disclosure. Independently corroborates the halal options and the downstairs karaoke rooms that Hotto Potto's own site advertises.",
+      "names": ["Hotto Potto"],
+      "quotes": {
+        "Hotto Potto": "Close to Tower Bridge by Aldgate station. Whether you're a meat lover, a vegetarian, or looking for halal choices, there's something for everyone. Staff will assist you in cooking your food. Private karaoke rooms."
+      }
+    },
+    {
+      "name": "Shu / @dejashu (YouTube) - Eating Chinese Hot Pot in London: Worth the money and hype? Haidilao Piccadilly Circus",
+      "url": "https://www.youtube.com/@dejashu",
+      "scope": "hot-pot",
+      "tier": "D",
+      "note": "Published 13 April 2022, 24,584 views. Video: https://www.youtube.com/watch?v=jp5l36B0Pao. Names from the description and the chapter list, which is unusually procedural - queue time, free snacks, board games and manicures, how to make the dipping sauce, the membership, how to order, the noodle dance. No gifted or hosted disclosure; the affiliate links in the description are for camera gear and an air fryer, not the restaurant. SAME PERSON as Shu Lin, quoted in the Broadsheet record above - see that note. She names Haidilao here and Mr Wang there, so no venue is double-counted.",
+      "names": ["Haidilao"],
+      "quotes": {
+        "Haidilao": "Showing the full process from the queuing, entertainment in the waiting area, how to order Chinese hot pot, the sauces section and the pricing. There is a second branch at The O2 in North Greenwich."
+      }
+    },
+    {
+      "name": "Andy Eats (YouTube) - Haidilao Hot Pot London: value for money or just a special occasion?",
+      "url": "https://www.youtube.com/@Andy-eats",
+      "scope": "hot-pot",
+      "tier": "D",
+      "note": "Published 8 December 2021, 34,612 views. Video: https://www.youtube.com/watch?v=j2SW2No_9RU. Names from the description. No gifted or hosted disclosure. The only source in the corpus whose stated question is whether Haidilao is worth the price rather than whether it is good.",
+      "names": ["Haidilao"],
+      "quotes": {
+        "Haidilao": "I've tried visiting this restaurant a few times but it's always been booked up. I want to know whether I can say that Haidilao hot pot is value for money - this place is relatively expensive after all."
+      }
+    },
+    {
+      "name": "BIG TEE THE FOODIE (YouTube) - Nan Hotpot in Chinatown London",
+      "url": "https://www.youtube.com/@BIGTEE_THEFOODIE",
+      "scope": "hot-pot",
+      "tier": "D",
+      "note": "Published 9 November 2024, 442 views. Video: https://www.youtube.com/watch?v=F35LqGILLPM. Names from the description, which states two self-funded visits. No gifted or hosted disclosure. Small audience, which under this project's tiering is irrelevant - tier D is video, not follower count.",
+      "names": ["Nan Hotpot"],
+      "quotes": {
+        "Nan Hotpot": "It truly captures the essence of a Chongqing hotpot restaurant in China, from the decor to the food, drinks and desserts. I've visited twice and always opted for the spicy and mushroom soup bases."
+      }
+    },
+    {
+      "name": "Strictly Dumpling (YouTube) - Best hotpot ever? London Chinatown food tour",
+      "url": "https://www.youtube.com/@strictlydumpling",
+      "scope": "hot-pot",
+      "tier": "D",
+      "note": "Published 9 June 2022, 1,429,942 views - the largest audience in this corpus by two orders of magnitude. Names and addresses taken from the description. The tour has seven stops; only the two that serve hot pot are recorded, and the crepe, matcha, dumpling and bun stops are deliberately left out so they cannot inflate this topic's counts. The description carries a VPN sponsorship, which is a channel sponsor rather than a restaurant paying for coverage, so it does not trigger the paid-placement rule.",
+      "names": ["Pot Pot Malatang", "Crystal China"],
+      "quotes": {
+        "Pot Pot Malatang": "Ground floor, 18 Newport Court WC2H 7JS",
+        "Crystal China": "78-80 Tower Bridge Road SE1 4TP"
+      }
+    }
+  ],
+  "declined": [
+    {
+      "name": "The Capturist - Review of the Hot Pot at Da Long Yi",
+      "url": "https://www.thecapturist.com/post/review-of-the-hot-pot-at-da-long-yi",
+      "why": "PAID PLACEMENT SUSPECTED. The piece closes 'Photography courtesy of Da Long Yi', and its framing is close to identical to the Goldfoil review published three months later - both writers say it was their first ever hot pot, both lead on the Volcano Beef, both praise the sauce station's recipe cards. One venue's PR reaching two blogs is one opinion, not two, and the venue-supplied imagery is the disclosure marker. Not counted."
+    },
+    {
+      "name": "Larder Magazine - Why Da Long Yi is London's must-try hotpot experience",
+      "url": "https://lardermag.co.uk/why-da-long-yi-is-londons-must-try-hotpot-experience/",
+      "why": "EXTRACTION FAILED, NOT COUNTED. Returned HTTP 200 but the article body did not render to the fetcher; extraction produced only site chrome and an unrelated trade-news headline. Under trap 8, a source that yields only furniture must not be counted in a source total. Worth retrying from a browser."
+    },
+    {
+      "name": "Jay Verified (YouTube) - First halal hot pot in London",
+      "url": "https://www.youtube.com/@jayverified",
+      "why": "The description is venue marketing copy rather than a review - 'Simmer Huang - East London's #1 Halal Hot Pot Spot' followed by a tick-list of the restaurant's selling points. Reads as supplied promotional text. Not counted. Simmer Huang is already carried by @gohalalorgohome."
+    },
+    {
+      "name": "Chinatown London (YouTube) - How To Hot Pot",
+      "url": "https://www.youtube.com/@ChinatownLondon",
+      "why": "The channel belongs to the Chinatown estate, promoting its own tenants. That is a landlord recommending its own restaurants, which is tier F in substance whatever the domain register says. Not counted."
+    },
+    {
+      "name": "Happy Lamb Hot Pot UK (YouTube) - What is Hot Pot? How to Hot Pot?",
+      "url": "https://www.youtube.com/@happylambhotpotuk3069",
+      "why": "The venue's own channel. Tier F, weight 0, never counted toward consensus."
+    },
+    {
+      "name": "SquareMeal - best hot pot restaurants London",
+      "url": "https://www.squaremeal.co.uk/restaurants/best-restaurants/best-hot-pot-restaurants-london_11000",
+      "why": "SOFT 404. Returns HTTP 200 with the h1 'Best Restaurants not found'. A status code is not a page - recorded here so the same URL is not mistaken for a live source on the next pass."
+    },
+    {
+      "name": "Thatsup London - Guide to the best hot pots in London",
+      "url": "https://thatsup.co.uk/london/guide/guide-to-the-best-hot-pots-in-london/",
+      "why": "thatsup.co.uk is on both the permanent-403 list and the excluded list in data/sources.json. Not fetched, not counted."
+    },
+    {
+      "name": "Londonist - Food Review: DIY Hot Pot In Chinatown",
+      "url": "https://londonist.com/london/food-and-drink/food-review-diy-hot-pot-in-chinatown",
+      "why": "londonist.com is on the permanent-403 list in data/sources.json. Not fetched, not counted. Londonist also has a YouTube film, 'London's First Dedicated Hot Pot Restaurant', which is nine years old and names no venue in its description."
+    },
+    {
+      "name": "Jimmy Kim (YouTube) - World's best $20 buffet with hot pot and BBQ?",
+      "url": "https://www.youtube.com/@jimmykimtv",
+      "why": "NOT LONDON. The description places it in Shanghai. Surfaced high on a London hot pot search, which is exactly the trap-12 failure at the video tier."
+    },
+    {
+      "name": "Fallow - Lancashire Hotpot is the Most Underrated British Dish",
+      "url": "https://www.youtube.com/@FallowChefs",
+      "why": "NOT THIS DISH. Lancashire hotpot is a baked lamb and potato casserole and shares nothing with Chinese hot pot but a name. Recorded so the next pass does not re-check it."
+    },
+    {
+      "name": "The Bristol Sauce - Pot Pot Malatang, College Green",
+      "url": "https://thebristolsauce.substack.com/p/pot-pot-malatang",
+      "why": "NOT LONDON. Reviews the Bristol branch of Pot Pot Malatang. The London branch is carried by Strictly Dumpling."
+    },
+    {
+      "name": "TikTok - hot pot London",
+      "url": "https://www.tiktok.com/discover/malatang-london",
+      "why": "A /discover/ page is a search-results page, not a source. No individual creator post with a verifiable handle surfaced, and no handle was reconstructed from a display name. TikTok contributes nothing to this corpus and that is recorded rather than papered over."
+    },
+    {
+      "name": "Yelp, Tripadvisor and Corner - hot pot London",
+      "url": "https://www.yelp.co.uk/search?find_desc=Chinese+Hot+Pot&find_loc=London",
+      "why": "Aggregators, excluded by rule in data/sources.json. They dominate the search results for this term - the top three organic results for 'best hot pot London' are all aggregators - which is a large part of why the published record here is so thin."
+    }
+  ]
+}
