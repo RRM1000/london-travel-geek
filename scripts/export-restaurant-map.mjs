@@ -161,6 +161,11 @@ const MAPS = [
   {
     key: "italian-london",
     list: "best-italian",
+    // Dropped from the guide on 3 September 2026, so it must lose its pin too:
+    // the sheet still carries best-italian:17, and without this it would be
+    // mapped as a venue the article never mentions. Remove that list tag on
+    // the sheet and this line can go.
+    exclude: ["icco-pizza"],
     ranked: true,
     streetFoodFormats: ["Market Stall", "Counter", "Deli / Restaurant"],
     // The regional sections name the region in the heading, so the derived
@@ -174,7 +179,7 @@ const MAPS = [
       "ave-mario": "#ave-mario-covent-garden-and-circolo-popolare-fitzrovia",
       ornella: "#ornella-london-fields--milanese",
     },
-    tableOnly: ["al-boccon-divino", "al-dente", "ave-mario", "cafe-murano", "icco-pizza", "langosteria-london", "muccis", "sale-e-pepe-mare"],
+    tableOnly: ["al-boccon-divino", "al-dente", "ave-mario", "cafe-murano", "langosteria-london", "muccis", "sale-e-pepe-mare"],
     article: "src/content/articles/best-italian-restaurants-london.md",
   },
   {
@@ -216,6 +221,13 @@ const MAPS = [
     anchors: {
       "tayer-elementary": "#tayēr--elementary-old-street",
       "three-sheets": "#three-sheets-soho-and-dalston",
+      // The sheet has Oriole's Neighbourhood as Smithfield. That is wrong, and
+      // the guide carries a correction saying so: the sheet's own address,
+      // 7-9 Slingsby Pl WC2E 9AB, is Covent Garden. The COORDINATES are right
+      // - 230m from Slingsby Place, 1.9km from Smithfield - so the pin lands
+      // correctly and only the label is wrong. The popup will keep saying
+      // Smithfield until the sheet's Neighbourhood is corrected.
+      oriole: "#oriole-covent-garden",
     },
     streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
     tableOnly: ["nightjar"],
@@ -269,7 +281,7 @@ const MAPS = [
     list: "markets",
     streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
         tableOnly: ["horn-ok-please","gujarati-rasoi","kolkati","borough-market","old-spitalfields-market","broadway-market"],
-    exclude: ["arcade-food-hall","market-halls-victoria","market-halls-oxford-street","market-halls-canary-wharf","market-halls-paddington","flat-iron-square","gopals-corner","cutty-sark-street-food-market","brick-lane-market"],
+    exclude: ["seven-dials-market","arcade-food-hall","market-halls-victoria","market-halls-oxford-street","market-halls-canary-wharf","market-halls-paddington","flat-iron-square","gopals-corner","cutty-sark-street-food-market","brick-lane-market"],
     article: "src/content/articles/best-london-markets.md",
   },
 ];

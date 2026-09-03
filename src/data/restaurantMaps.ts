@@ -2455,15 +2455,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       type: "editorial",
     },
     {
-      name: "ICCO",
-      area: "Fitzrovia",
-      price: "£",
-      station: "Goodge Street",
-      latitude: 51.519439,
-      longitude: -0.13607,
-      type: "editorial",
-    },
-    {
       name: "Al Dente",
       area: "Fitzrovia",
       price: "£",
@@ -3257,7 +3248,7 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       latitude: 51.512648,
       longitude: -0.126374,
       type: "editorial",
-      articleAnchor: "#oriole-smithfield",
+      articleAnchor: "#oriole-covent-garden",
     },
   ],
   "dim-sum-london": [
@@ -3951,16 +3942,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       longitude: -0.075652,
       type: "editorial",
       articleAnchor: "#maltby-street-market-bermondsey",
-    },
-    {
-      name: "Seven Dials Market",
-      area: "Covent Garden",
-      price: "££",
-      station: "Covent Garden",
-      latitude: 51.514079,
-      longitude: -0.125883,
-      type: "streetfood",
-      articleAnchor: "#seven-dials-market-covent-garden",
     },
     {
       name: "Old Spitalfields Market",
