@@ -80,6 +80,9 @@ Two restaurants sit level at the top on seven sources each, and they are not doi
 
 *££ · multiple sites · walk-in · Cited by 7 sources · National Burger Awards 2026 finalist · [website](https://www.bleecker.co.uk/)*
 
+![A double cheeseburger with bacon and melted cheese in a sesame bun, held in one hand over an open takeaway box](../../assets/articles/best-burgers-london/bleecker.jpg)
+*The menu is deliberately tiny, and this is the bacon double: dry-aged beef, a crust off a hard sear, nothing garnished into it.*
+
 **The one that most London burger arguments end at**, and the only name here that appears on every kind of list — the award shortlist, the critics, the listings sites and the tourist board.
 
 The menu is deliberately tiny: **a cheeseburger, a double, a bacon double, and a blue cheeseburger** built on dry-aged beef with a crust that comes off a hard sear rather than a long cook. Nothing is garnished into complication — no lettuce, no tomato, no aioli of anything. The **Bacon Double** is what it took to the National Burger Awards 2026 final.
@@ -103,6 +106,9 @@ Beyond it the pub cooks a proper seasonal menu and pours a serious pint, so this
 ### Honest Burgers, Liverpool Street and across London
 
 *£ · multiple sites · Cited by 4 sources · **winner, National Burger Awards 2026** · [website](https://www.honestburgers.co.uk/)*
+
+![A burger cut in half showing a coarsely ground patty cooked pink, beside a pile of thick-cut chips](../../assets/articles/best-burgers-london/honest-burgers.jpg)
+*Dry-aged beef from the company's own butchery, cooked pink and cut to show it.*
 
 **The only burger in this guide that actually won something in 2026** — and the detail everyone drops is that the winning burger is served at one address.
 
@@ -265,6 +271,9 @@ Order the **dirty tots** — tater tots under bone marrow gravy — rather than 
 ### Black Bear Burger, Shoreditch, Brixton and Exmouth Market
 
 *££ · multiple sites · Cited by 5 sources · **winner, National Burger Awards 2025***
+
+![A burger with bacon and melted cheese in a sesame brioche bun, on paper printed with bear paw prints](../../assets/articles/best-burgers-london/black-bear-burger.jpg)
+*Bacon and cheese on Black Bear's own paw-print paper. The Miso Bacon Burger is the one that took the 2025 title.*
 
 **Last year's national champion**, and it has stayed on every list since — five sources still name it.
 
