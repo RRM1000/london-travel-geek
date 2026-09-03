@@ -40,6 +40,21 @@ Central London has caught up in the last few years, and one Hackney kitchen was 
 
 ## Where they are
 
+<details class="restaurant-map-shell" open>
+  <summary>
+    <span>Best Korean restaurants in London map</span>
+  </summary>
+  <div class="restaurant-map" data-restaurant-map="korean-london" role="region" aria-label="Interactive map of the best Korean restaurants in London">
+    <p>Loading the interactive map…</p>
+  </div>
+  <div class="restaurant-map-legend" aria-label="Map key">
+    <span><i class="restaurant-map-key restaurant-map-key--editorial" aria-hidden="true"></i> Recommended in this guide</span>
+  </div>
+  <noscript>
+    <p>The interactive map requires JavaScript. Nearest stations and walking times are listed against every entry below.</p>
+  </noscript>
+</details>
+
 | If you are near… | Where to eat |
 | --- | --- |
 | **New Malden** | Jin Go Gae, Imone, You Me, Cah Chi, Seoul Matjib, Chick and Beers, Tongdak |

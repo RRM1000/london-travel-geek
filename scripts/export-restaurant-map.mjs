@@ -37,6 +37,56 @@ const OUT = "src/data/restaurantMaps.ts";
 // below still catches any that does not, so the failure stays loud either way.
 const MAPS = [
   {
+    key: "bakeries-london",
+    list: "bakery",
+    // Everything on this list is format "Bakery", so nothing is street food.
+    streetFoodFormats: [],
+    // On the sheet's list, cited in the guide's table, but with no section of
+    // their own - so a pin with no heading to land on.
+    tableOnly: ["layla-bakery", "st-john-bakery"],
+    // The sheet's Neighbourhood and the guide's heading disagree for these.
+    // Suba and August have no Neighbourhood on the sheet at all, which is why
+    // the derived anchor came out as "-undefined".
+    anchors: {
+      "e5-bakehouse": "#e5-bakehouse-hackney",
+      "arome-bakery": "#arôme-bakery-covent-garden",
+      "suba-bakery": "#suba-bakery-walthamstow",
+      "august-bakery": "#august-bakery-battersea",
+      "the-dusty-knuckle": "#dusty-knuckle-dalston",
+      "beigel-bake": "#beigel-bake-brick-lane",
+    },
+    article: "src/content/articles/best-bakeries-london.md",
+  },
+  {
+    key: "thai-london",
+    list: "thai",
+    streetFoodFormats: ["Counter", "Pub Residency"],
+    anchors: {
+      "plaza-khao-gaeng": "#plaza-khao-gaeng",
+      "paolina-thai": "#paolina-kings-cross",
+    },
+    article: "src/content/articles/best-thai-restaurants-london.md",
+  },
+  {
+    key: "korean-london",
+    list: "korean-bbq",
+    streetFoodFormats: [],
+    tableOnly: ["sorabol", "k-town-bbq", "korean-grill-kensington"],
+    anchors: { "jin-go-gae": "#jin-go-gae-burlington-road" },
+    article: "src/content/articles/best-korean-restaurants-london.md",
+  },
+  {
+    key: "ice-cream-london",
+    list: "ice-cream",
+    streetFoodFormats: [],
+    tableOnly: ["chin-chin-ice-cream"],
+    anchors: {
+      "badiani": "#badiani-1932-twelve-london-shops",
+      "mamasons": "#mamasons-dirty-ice-cream-kentish-town-and-chinatown",
+    },
+    article: "src/content/articles/best-ice-cream-london.md",
+  },
+  {
     key: "indian-restaurants-london",
     list: "best-indian",
     ranked: true,

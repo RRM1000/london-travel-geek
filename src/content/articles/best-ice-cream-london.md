@@ -42,6 +42,21 @@ So this guide is arranged by what you are actually queuing for, because "ice cre
 
 ## Where they are
 
+<details class="restaurant-map-shell" open>
+  <summary>
+    <span>Best ice cream in London map</span>
+  </summary>
+  <div class="restaurant-map" data-restaurant-map="ice-cream-london" role="region" aria-label="Interactive map of the best ice cream in London">
+    <p>Loading the interactive map…</p>
+  </div>
+  <div class="restaurant-map-legend" aria-label="Map key">
+    <span><i class="restaurant-map-key restaurant-map-key--editorial" aria-hidden="true"></i> Recommended in this guide</span>
+  </div>
+  <noscript>
+    <p>The interactive map requires JavaScript. Nearest stations and walking times are listed against every entry below.</p>
+  </noscript>
+</details>
+
 | If you are near… | Where to go |
 | --- | --- |
 | **Soho & Covent Garden** | Gelupo, La Gelatiera, Udderlicious, Mamasons (Chinatown) |

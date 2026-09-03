@@ -42,6 +42,22 @@ So this guide is arranged by **what each kitchen actually cooks**. The best of i
 
 ## Where they are
 
+<details class="restaurant-map-shell" open>
+  <summary>
+    <span>Best Thai restaurants in London map</span>
+  </summary>
+  <div class="restaurant-map" data-restaurant-map="thai-london" role="region" aria-label="Interactive map of the best Thai restaurants in London">
+    <p>Loading the interactive map…</p>
+  </div>
+  <div class="restaurant-map-legend" aria-label="Map key">
+    <span><i class="restaurant-map-key restaurant-map-key--editorial" aria-hidden="true"></i> Recommended in this guide</span>
+    <span><i class="restaurant-map-key restaurant-map-key--streetfood" aria-hidden="true"></i> Counter and pub residency</span>
+  </div>
+  <noscript>
+    <p>The interactive map requires JavaScript. Nearest stations and walking times are listed against every entry below.</p>
+  </noscript>
+</details>
+
 | If you are near… | Where to eat |
 | --- | --- |
 | **Soho & Chinatown** | Kiln, Speedboat Bar |
