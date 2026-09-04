@@ -194,6 +194,15 @@ The last comparison is the one nobody runs, and it is about breakfast. **At Beef
 
 ## Continue planning your London trip
 
+**Paying less to eat out in London.** Six different strategies, and they rarely combine — pick the one that fits how you eat:
+
+- 🍽️ **[Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the restaurant's own fixed price, no membership, biggest single saving
+- 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the rest, and why one costs £29.99 and its twin £79.99
+- 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub — cheaper if you will eat early or walk in
+- 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — 38 packages compared on price per minute, and what “bottomless” covers
+- 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all
+
+
 - 👨‍👩‍👧 **[London With Children: Free Farms, Zoos and Days Out](/articles/london-with-children/)** — mostly free, and where the day actually goes
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — 34 places under £15, no offer codes required
 - 💳 **[Restaurant Discount Cards in London](/articles/restaurant-discount-cards-london/)** — why Tastecard will not stack with any of this

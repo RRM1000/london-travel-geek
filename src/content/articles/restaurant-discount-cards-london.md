@@ -214,6 +214,15 @@ So a card will not usually come off a restaurant's own fixed-price lunch — ask
 
 ## Continue planning your London trip
 
+**Paying less to eat out in London.** Six different strategies, and they rarely combine — pick the one that fits how you eat:
+
+- 🍽️ **[Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the restaurant's own fixed price, no membership, biggest single saving
+- 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub — cheaper if you will eat early or walk in
+- 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — 38 packages compared on price per minute, and what “bottomless” covers
+- 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — every free and £1 children's offer with a London branch
+- 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all
+
+
 - 🍽️ **[London Restaurant Deals: Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the fixed-price menus these cards will not stack with
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🎬 **[The Best Cinema Deals in London](/articles/cinema-deals-london/)** — including the free 2-for-1 Meerkat Movies offer

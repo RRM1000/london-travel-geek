@@ -40,6 +40,8 @@ Everything below was **read off each restaurant's own website or menu PDF and ch
 
 > ⚠️ **Prices change and menus rotate.** These were correct on 31 August 2026. Confirm on the restaurant's own site before you travel — and never book a set menu from a third-party listing without checking it still exists.
 
+> 🧭 **This is one of six ways to pay less to eat out in London, and it is the one with no catch — no membership, no app, no code.** If it does not fit, the others might: [discount cards](/articles/restaurant-discount-cards-london/) if you eat out monthly, [off-peak apps](/articles/off-peak-restaurant-apps-london/) if you will eat at five, [bottomless brunch](/articles/bottomless-brunch-london/) if the drinks are the point, [kids eat free](/articles/kids-eat-free-london/) if you are feeding children, or [cheap eats](/articles/cheap-eats-london/) if you would rather just spend less.
+
 ---
 
 ## How these menus work
@@ -159,6 +161,15 @@ Worth knowing, because these come up on every other list:
 ---
 
 ## Continue planning your London trip
+
+**Paying less to eat out in London.** Six different strategies, and they rarely combine — pick the one that fits how you eat:
+
+- 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the rest, and why one costs £29.99 and its twin £79.99
+- 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub — cheaper if you will eat early or walk in
+- 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — 38 packages compared on price per minute, and what “bottomless” covers
+- 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — every free and £1 children's offer with a London branch
+- 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all
+
 
 - 🍽️ **[Where to Eat in London](/articles/eat-in-london-guide/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**

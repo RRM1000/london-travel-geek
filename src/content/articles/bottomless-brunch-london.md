@@ -193,6 +193,15 @@ Two structural tips. Book the **first sitting of the day** — the bar is fully 
 
 ## Continue planning your London trip
 
+**Paying less to eat out in London.** Six different strategies, and they rarely combine — pick the one that fits how you eat:
+
+- 🍽️ **[Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the restaurant's own fixed price, no membership, biggest single saving
+- 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the rest, and why one costs £29.99 and its twin £79.99
+- 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub — cheaper if you will eat early or walk in
+- 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — every free and £1 children's offer with a London branch
+- 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all
+
+
 - 🍳 **[The Best Breakfast and Brunch in London](/articles/best-breakfast-brunch-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
 - 🎯 **[Competitive Socialising in London](/articles/competitive-socialising-london/)**

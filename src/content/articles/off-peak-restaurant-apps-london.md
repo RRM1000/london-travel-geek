@@ -202,6 +202,15 @@ Worth knowing too: **the same table is often sold through several apps at once.*
 
 ## Continue planning your London trip
 
+**Paying less to eat out in London.** Six different strategies, and they rarely combine — pick the one that fits how you eat:
+
+- 🍽️ **[Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the restaurant's own fixed price, no membership, biggest single saving
+- 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the rest, and why one costs £29.99 and its twin £79.99
+- 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — 38 packages compared on price per minute, and what “bottomless” covers
+- 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — every free and £1 children's offer with a London branch
+- 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all
+
+
 - 🍽️ **[London Restaurant Deals: Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the fixed-price menus these apps will not stack with
 - 💳 **[Restaurant Discount Cards in London](/articles/restaurant-discount-cards-london/)** — Tastecard, Gourmet Society, NeoTaste and the rest, measured
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
