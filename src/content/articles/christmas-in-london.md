@@ -193,13 +193,37 @@ It is the same story as the Old Vic's and Mischief's, and a completely different
 
 **[More immersive nights out →](/articles/immersive-experiences-london/)** · **[The cabaret guide →](/articles/best-cabaret-london/)**
 
-### And the pantomimes
-
-**Two worth booking properly**, rather than picking whatever is nearest: **Hackney Empire's** *Jack and the Beanstalk* (21 November – 31 December 2026), directed by and starring Olivier winner Clive Rowe, **£10–£48**; and the **London Palladium's** *Cinderella* (5 December 2026 – 10 January 2027), with Dawn French and Jennifer Saunders reuniting as the Ugly Sisters for the first time in 17 years.
-
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-london-christmas-lights-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Christmas lights tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## Christmas for children
+
+The shows below are the ones built for children rather than tolerated by them, and they book earlier than anything else in this guide. Grottos and ice rinks are further up the page.
+
+### The Snowman, Peacock Theatre
+
+**21 November 2026 – 3 January 2027, from £18** plus a £4 transaction fee. **1 hour 30 including a 20-minute interval.**
+
+It has run for 32 years and **this year it is a new production** — a world premiere staged by Sadler's Wells with Birmingham Rep, with new puppets and Howard Blake's score still intact, 'Walking in the Air' included. If you saw the old one, this is not that. The safest first theatre trip in London at Christmas, and the shortest.
+
+### Nutcracker, English National Ballet, London Coliseum
+
+**17 December 2026 – 10 January 2027.** Over a hundred dancers and musicians, with the ENB Philharmonic playing Tchaikovsky live — which is the argument for this one over a recording in a smaller room.
+
+**The Royal Ballet's Nutcracker at Covent Garden** runs every Christmas as well, and is the grander and more expensive of the two. Either works from about five upwards; both sell out early, so book the moment the dates open rather than in November.
+
+### Pantomime
+
+**Two worth booking properly**, rather than picking whatever is nearest: **Hackney Empire's** *Jack and the Beanstalk* (21 November – 31 December 2026), directed by and starring Olivier winner Clive Rowe, **£10–£48**; and the **London Palladium's** *Cinderella* (5 December 2026 – 10 January 2027), with Dawn French and Jennifer Saunders reuniting as the Ugly Sisters for the first time in 17 years.
+
+### For the under-fives
+
+**The Gruffalo** and its stablemates — *The Gruffalo's Child*, *Room on the Broom*, *The Smeds and The Smoos* — are made by Tall Stories, a London company, and at least one of them is usually playing somewhere in the city over Christmas. **The Gruffalo runs 55 minutes with no interval and is aimed at three and over**, which is the right shape for an age group that will not sit through a ballet. Venues and dates change every year, so check the company's own listings rather than booking on the strength of the name.
+
+> ⚠️ **Children's shows sell out first.** The Snowman, both Nutcrackers and the Palladium panto are usually gone for the good December dates by early autumn. If you are reading this in November, look at early January — the runs continue past Christmas and the seats are easier and cheaper.
+
+---
 
 ## Afternoon tea at Christmas
 
