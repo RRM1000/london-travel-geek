@@ -133,17 +133,9 @@ Bands vary by night: a Saturday evening costs more at every level than a Tuesday
 | Fifth | £90 | £105 |
 | Top two | £115 and £145 | £135 and £175 |
 
-**### The Friday Forty, and the day seats that do not exist
+### The Friday Forty
 
 **Forty seats at £40 are released every Friday for the following week's performances**, spread through the theatre rather than dumped in the restricted-view corners. You enter through the TodayTix app between 12.01am and 1pm on Friday; the draw closes at 1pm and winners are told between 1pm and 5pm the same day. Won tickets can only be collected by the cardholder, so they cannot be given as a gift.
-
-**There is no day-seat scheme.** Neither the production nor the theatre operates one, whatever the listicles say. The only other route to a cheap seat is returns, which appear at short notice and go first-come-first-served.
-
-### Practical details
-
-Age guidance is 8 and over. **Everyone needs a ticket regardless of age, under-5s are not admitted at all, and under-15s must be with an adult.** Arrive an hour before curtain for security. Bags over 41 x 31 x 16cm are refused and there is nowhere outside to leave them. No food or drink from outside.
-
-> ⚠️ **Do not buy from resale sites.** The production reserves the right to refuse admission to anyone holding a resale ticket, and any official ticket advertised for resale is void. There is no booking fee on the official site, so there is nothing to gain anyway.
 
 ## Platform 9¾
 
