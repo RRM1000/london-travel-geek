@@ -17,6 +17,8 @@ tags:
   - birthday
   - nightlife
 draft: false
+heroImage: "../../assets/articles/bottomless-brunch-london/bottomless-brunch-table.webp"
+heroImageAlt: "A bottomless brunch table: two people raising cocktails over a full English, eggs royale, pancakes and an espresso martini"
 faq:
   - q: "How long does a bottomless brunch last?"
     a: "Ninety minutes at most London venues, two hours at a minority. The number that matters is when the clock starts. All Bar One and Revolution both state that the session runs from the time your order is taken, and BrewDog's terms say the ninety minutes runs from the start of your booking — so arriving late costs you drinking time. Revolution and Big Easy both stop drinks orders fifteen minutes before the end, which turns a stated two hours into 105 minutes of ordering."
