@@ -62,8 +62,8 @@ faq:
     a: "The tenth floor of Tate Modern's Blavatnik Building looks straight across to St Paul's and is completely free. The Sky Garden at 20 Fenchurch Street is also free but requires booking a slot weeks ahead. Both beat paying for the Shard on a cloudy day."
   - q: "Is the South Bank good in the rain?"
     a: "Better than most of London. Tate Modern, the Southbank Centre, the BFI and Borough Market's covered halls are all on the route and all free to enter, so you can do most of the walk hopping between indoor spaces."
-heroImage: "../../assets/articles/south-bank-area-guide/london-eye-county-hall.jpg"
-heroImageAlt: "The London Eye and County Hall seen across the Thames from Westminster Bridge"
+heroImage: "../../assets/articles/south-bank-area-guide/london-eye-county-hall-summer.jpg"
+heroImageAlt: "The London Eye and County Hall across the Thames on a clear summer day, with the Golden Jubilee Bridges and a river boat at the pier"
 ---
 
 The South Bank is a continuous riverside walk from Westminster Bridge east to Tower Bridge, and it is the single best introduction to London on foot. It is flat, entirely pedestrianised, step-free, and lined with more free things to do than any comparable stretch in the city.
