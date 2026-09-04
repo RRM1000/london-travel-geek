@@ -16,6 +16,8 @@ tags:
   - family
   - things to do
 draft: false
+heroImage: "../../assets/articles/harry-potter-london/platform-nine-three-quarters-trolley.jpg"
+heroImageAlt: "The luggage trolley half-buried in the wall at Platform 9¾ in King's Cross, with a trunk and an owl cage on it, staff in Hogwarts robes and a roped queue alongside"
 faq:
   - q: "How much is the Warner Bros. Studio Tour and can you buy tickets on the day?"
     a: "£58.50 for an adult, £47 for a child aged 5-15 and £188 for a family of four. You cannot buy on the day. Every ticket must be pre-booked into a 30-minute timed slot, and the operator states plainly that no tickets are held back for phone or door sales. The shuttle bus from Watford Junction is included in that price."
