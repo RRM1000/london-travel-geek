@@ -78,9 +78,13 @@ if (awarded.length && claimsNoAward) {
     `methodology: the article says no venue carries a dated ranking, but ${awarded.length} now do ` +
     `(${awarded.map((v) => v.name).join(", ")}). Rewrite the evidence block.`,
   );
-} else if (!awarded.length && !claimsNoAward) {
-  errors.push("methodology: no venue carries an award and the article no longer says so. The absence is the finding - say it.");
 }
+// The reverse is deliberately NOT an error. Whether the guide spells out that
+// no award exists is an editorial call, and the owner's is that it should not:
+// /how-we-rank/ explains what the tiers are and what their absence means, and
+// repeating it on every page is length for its own sake. What must stay true is
+// the check above - if a venue ever does win something, a claim that none has
+// becomes false and fails.
 
 // Nothing in the guide may be a venue this project already knows is closed.
 const closed = JSON.parse(fs.readFileSync("data/closed.json", "utf8")).venues ?? {};

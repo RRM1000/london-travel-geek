@@ -34,8 +34,8 @@ Hot pot is the only restaurant format where the kitchen hands you the raw ingred
 > **Haidilao** is named by more independent sources than any other hot pot in London — seven of seventeen — and it is the right first one, because the chain does the hand-holding. **Chilli Cool** and **Shu Xiang Ge** are the most widely named independents at five each. For clear-broth lamb rather than chilli, go to a **Beijing copper pot**. For one person and under £15, go to a **malatang** counter and fill a basket. Budget £25 to £40 a head, and remember the broth is charged separately.
 
 > 📊 **The evidence behind this guide**
-> Nothing here rests on one visit. This pass reads **17 sources carrying 86 citations** across **42 named venues** — three editorial titles (The Infatuation, DesignMyNight and Broadsheet), seven independent blogs and Chinese-language diaspora guides, and seven London hot pot videos counted per creator. **20 restaurants are named by two or more independent sources.**
-> **The known weakness in this topic:** no judged award exists for hot pot anywhere — not a Michelin category, not a Good Food Guide list, nothing — so **not one venue on this page carries a dated ranking**, and the guide does not pretend to rank them. Masthead coverage is unusually thin too: nine publication guides were checked for a London hot pot list and none exists. That leaves the weight with blogs, Chinese-language guides and video, which is also why this page reaches Poplar, Rotherhithe and the Isle of Dogs when the English-language lists stop at Zone 1. Reddit could not be read from this environment, so the argue-about-it tier is missing entirely.
+> Nothing here rests on one visit. This pass reads **17 sources carrying 86 citations** across **42 named venues**. **20 restaurants are named by two or more independent sources.**
+> **Built on:** Chinese-language diaspora guides as much as English ones, which is why this page reaches Poplar, Rotherhithe and the Isle of Dogs rather than stopping at Zone 1.
 > *Evidence rebuilt 3 September 2026 · [How we rank →](/how-we-rank/)*
 
 > ⏱️ **How far ahead to book**
@@ -97,7 +97,7 @@ The broth gets better as the meal goes on, because everything you have cooked ha
 
 ## The most-named hot pots in London
 
-There is no award to win here, so this is not a ranking — it is agreement. These are the restaurants that the most independent sources, across the most different kinds of source, put their name to.
+These are the restaurants the most independent sources, across the most different kinds of source, put their name to.
 
 ### Haidilao, Leicester Square
 
