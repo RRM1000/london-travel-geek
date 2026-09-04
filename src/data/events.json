@@ -1,219 +1,7 @@
 {
- "generated": "2026-08-27",
- "count": 118,
+ "generated": "2026-09-04",
+ "count": 116,
  "events": [
-  {
-   "slug": "all-points-east",
-   "name": "All Points East",
-   "type": "concert",
-   "style": "Two festival weekends in Victoria Park",
-   "venue": "Victoria Park",
-   "startsOn": "2026-08-21",
-   "endsOn": "2026-08-30",
-   "recurring": "annual",
-   "typicalWhen": "Two weekends across late August",
-   "area": "Victoria Park",
-   "borough": "Tower Hamlets",
-   "guide": "hackney-area-guide",
-   "zone": "2",
-   "district": "East",
-   "address": "Grove Road",
-   "postcode": "E3 5TB",
-   "agePolicy": "family-friendly",
-   "duration": "Full days",
-   "price": "Day tickets historically £70-£100+",
-   "booking": "required",
-   "indoorOutdoor": "outdoor",
-   "whyGo": "The east London festival that stayed put while Lovebox and Field Day moved on, now two full weekends. The 2026 second weekend was headlined by Lorde and Tyler, the Creator.",
-   "opNote": "Single-day tickets per headliner rather than camping. 2027 dates announce around the new year.",
-   "goodFor": [
-    "music",
-    "groups"
-   ],
-   "lists": [
-    "events"
-   ],
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=All%20Points%20East%20London&partner_id=WWP7I0R",
-   "affiliateNetwork": "getyourguide",
-   "annual": true,
-   "notYetOpen": false
-  },
-  {
-   "slug": "the-magicians-table",
-   "name": "The Magician's Table",
-   "type": "immersive-theatre",
-   "style": "Close-up magic for a small room",
-   "venue": "Waterloo",
-   "endsOn": "2026-08-30",
-   "area": "Waterloo",
-   "borough": "Lambeth",
-   "guide": "south-bank-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "Waterloo, SE1",
-   "postcode": "SE1 7AD",
-   "lat": 51.501036,
-   "lng": -0.112774,
-   "agePolicy": "over-18",
-   "duration": "About 90 minutes",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "whyGo": "Close-up magic performed at arm's length for a small audience, where the whole effect depends on there being nowhere for the performer to hide.",
-   "opNote": "CLOSES 30 AUGUST 2026 - days away at the time of writing. Check before recommending it to anyone.",
-   "goodFor": [
-    "date",
-    "groups"
-   ],
-   "lists": [
-    "events"
-   ],
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=The%20Magician's%20Table%20London&partner_id=WWP7I0R",
-   "affiliateNetwork": "getyourguide",
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "ramses-pharaohs-gold",
-   "name": "Ramses and the Pharaohs' Gold",
-   "type": "exhibition",
-   "style": "Egyptian treasures from Cairo",
-   "venue": "Battersea Power Station",
-   "endsOn": "2026-08-30",
-   "area": "Battersea",
-   "borough": "Wandsworth",
-   "guide": "battersea-area-guide",
-   "zone": "1",
-   "district": "South",
-   "address": "Battersea Power Station",
-   "postcode": "SW11 8DQ",
-   "lat": 51.481301,
-   "lng": -0.143444,
-   "agePolicy": "all-ages",
-   "duration": "About two hours",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "A hundred and eighty objects out of the Egyptian Museum in Cairo, shown inside the Power Station - including material that has not travelled before.",
-   "opNote": "CLOSES 30 AUGUST 2026. Ticketed and separate from the free shopping floors around it.",
-   "goodFor": [
-    "families",
-    "solo",
-    "groups"
-   ],
-   "lists": [
-    "events"
-   ],
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=Ramses%20and%20the%20Pharaohs'%20Gold%20London&partner_id=WWP7I0R",
-   "affiliateNetwork": "getyourguide",
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "tracey-emin-second-life",
-   "name": "Tracey Emin: A Second Life",
-   "type": "exhibition",
-   "style": "Forty-year survey of Emin's work",
-   "venue": "Tate Modern",
-   "startsOn": "2026-02-27",
-   "endsOn": "2026-08-31",
-   "area": "Bankside",
-   "borough": "Southwark",
-   "guide": "south-bank-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "Bankside",
-   "postcode": "SE1 9TG",
-   "agePolicy": "all-ages",
-   "duration": "About 90 minutes",
-   "price": "£22",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Four decades of Emin including work never shown before, and it closes within days - the most time-critical show in London right now.",
-   "opNote": "In the Natalie Bell Building. Free for Tate Members, £5 for 16-25s via Tate Collective.",
-   "goodFor": [
-    "art"
-   ],
-   "lists": [
-    "events"
-   ],
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=Tracey%20Emin%3A%20A%20Second%20Life%20London&partner_id=WWP7I0R",
-   "affiliateNetwork": "getyourguide",
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "notting-hill-carnival",
-   "name": "Notting Hill Carnival",
-   "type": "festival",
-   "style": "Europe's largest street carnival",
-   "venue": "Ladbroke Grove and Westbourne Park",
-   "startsOn": "2026-08-29",
-   "endsOn": "2026-08-31",
-   "recurring": "annual",
-   "typicalWhen": "The August bank holiday weekend",
-   "area": "Notting Hill",
-   "borough": "Kensington and Chelsea",
-   "guide": "notting-hill-area-guide",
-   "zone": "1–2",
-   "district": "West",
-   "address": "Ladbroke Grove, W11",
-   "postcode": "W11 2SE",
-   "lat": 51.514227,
-   "lng": -0.200246,
-   "agePolicy": "all-ages",
-   "duration": "A full day",
-   "price": "Free",
-   "booking": "walk-in",
-   "indoorOutdoor": "outdoor",
-   "stepFree": "partial",
-   "whyGo": "Two million people, Europe's biggest street carnival, led by London's Caribbean communities since 1966 - sound systems, mas bands and steel pan through the streets of W11, and free.",
-   "opNote": "SUNDAY IS FAMILY DAY and much calmer than Monday. Ladbroke Grove and Westbourne Park stations go exit-only or shut entirely - plan the walk out before you go in.",
-   "goodFor": [
-    "groups",
-    "families"
-   ],
-   "lists": [
-    "events",
-    "free"
-   ],
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "doggetts-coat-and-badge",
-   "name": "Doggett's Coat and Badge Race",
-   "type": "sporting-event",
-   "style": "The oldest continuously held annual sporting event in the world",
-   "venue": "The Thames, London Bridge to Cadogan Pier",
-   "startsOn": "2026-09-02",
-   "endsOn": "2026-09-02",
-   "recurring": "annual",
-   "typicalWhen": "One afternoon in late summer - the month has drifted between July and September, so check",
-   "area": "London Bridge",
-   "borough": "Southwark",
-   "guide": "south-bank-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "Start at London Bridge",
-   "agePolicy": "all-ages",
-   "duration": "About half an hour to pass any one point",
-   "price": "Free",
-   "booking": "walk-in",
-   "indoorOutdoor": "outdoor",
-   "whyGo": "Single scullers race four miles and seven furlongs from London Bridge to Chelsea for a scarlet coat and silver badge, as they have since 1715 - older than the Boat Race and the Derby. Watch free from any bridge on the route.",
-   "opNote": "The 312th running starts 1.15pm on 2 September 2026. Organised by the Fishmongers' and Watermen's Companies, who have never needed to market it - which is why almost nobody watching knows what they are seeing.",
-   "goodFor": [
-    "free",
-    "families"
-   ],
-   "lists": [
-    "events",
-    "free"
-   ],
-   "annual": true,
-   "notYetOpen": true
-  },
   {
    "slug": "marilyn-monroe-a-portrait",
    "name": "Marilyn Monroe: A Portrait",
@@ -725,7 +513,7 @@
     "free"
    ],
    "annual": true,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "nigo-from-japan-with-love",
@@ -2769,6 +2557,39 @@
    "notYetOpen": true
   },
   {
+   "slug": "doggetts-coat-and-badge",
+   "name": "Doggett's Coat and Badge Race",
+   "type": "sporting-event",
+   "style": "The oldest continuously held annual sporting event in the world",
+   "venue": "The Thames, London Bridge to Cadogan Pier",
+   "recurring": "annual",
+   "typicalWhen": "One afternoon in late summer - the month has drifted between July and September, so check",
+   "area": "London Bridge",
+   "borough": "Southwark",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Start at London Bridge",
+   "agePolicy": "all-ages",
+   "duration": "About half an hour to pass any one point",
+   "price": "Free",
+   "booking": "walk-in",
+   "indoorOutdoor": "outdoor",
+   "whyGo": "Single scullers race four miles and seven furlongs from London Bridge to Chelsea for a scarlet coat and silver badge, as they have since 1715 - older than the Boat Race and the Derby. Watch free from any bridge on the route.",
+   "opNote": "The 312th running starts 1.15pm on 2 September 2026. Organised by the Fishmongers' and Watermen's Companies, who have never needed to market it - which is why almost nobody watching knows what they are seeing.",
+   "goodFor": [
+    "free",
+    "families"
+   ],
+   "lists": [
+    "events",
+    "free"
+   ],
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
    "slug": "eid-on-the-square",
    "name": "Eid on the Square",
    "type": "festival",
@@ -3064,6 +2885,41 @@
     "events"
    ],
    "annual": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "all-points-east",
+   "name": "All Points East",
+   "type": "concert",
+   "style": "Two festival weekends in Victoria Park",
+   "venue": "Victoria Park",
+   "recurring": "annual",
+   "typicalWhen": "Two weekends across late August",
+   "area": "Victoria Park",
+   "borough": "Tower Hamlets",
+   "guide": "hackney-area-guide",
+   "zone": "2",
+   "district": "East",
+   "address": "Grove Road",
+   "postcode": "E3 5TB",
+   "agePolicy": "family-friendly",
+   "duration": "Full days",
+   "price": "Day tickets historically £70-£100+",
+   "booking": "required",
+   "indoorOutdoor": "outdoor",
+   "whyGo": "The east London festival that stayed put while Lovebox and Field Day moved on, now two full weekends. The 2026 second weekend was headlined by Lorde and Tyler, the Creator.",
+   "opNote": "Single-day tickets per headliner rather than camping. 2027 dates announce around the new year.",
+   "goodFor": [
+    "music",
+    "groups"
+   ],
+   "lists": [
+    "events"
+   ],
+   "affiliateUrl": "https://www.getyourguide.com/s/?q=All%20Points%20East%20London&partner_id=WWP7I0R",
+   "affiliateNetwork": "getyourguide",
+   "annual": true,
+   "awaitingDates": true,
    "notYetOpen": false
   },
   {
@@ -3696,6 +3552,43 @@
    "notYetOpen": true
   },
   {
+   "slug": "notting-hill-carnival",
+   "name": "Notting Hill Carnival",
+   "type": "festival",
+   "style": "Europe's largest street carnival",
+   "venue": "Ladbroke Grove and Westbourne Park",
+   "recurring": "annual",
+   "typicalWhen": "The August bank holiday weekend",
+   "area": "Notting Hill",
+   "borough": "Kensington and Chelsea",
+   "guide": "notting-hill-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "Ladbroke Grove, W11",
+   "postcode": "W11 2SE",
+   "lat": 51.514227,
+   "lng": -0.200246,
+   "agePolicy": "all-ages",
+   "duration": "A full day",
+   "price": "Free",
+   "booking": "walk-in",
+   "indoorOutdoor": "outdoor",
+   "stepFree": "partial",
+   "whyGo": "Two million people, Europe's biggest street carnival, led by London's Caribbean communities since 1966 - sound systems, mas bands and steel pan through the streets of W11, and free.",
+   "opNote": "SUNDAY IS FAMILY DAY and much calmer than Monday. Ladbroke Grove and Westbourne Park stations go exit-only or shut entirely - plan the walk out before you go in.",
+   "goodFor": [
+    "groups",
+    "families"
+   ],
+   "lists": [
+    "events",
+    "free"
+   ],
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
    "slug": "london-marathon",
    "name": "The London Marathon",
    "type": "festival",
@@ -4060,6 +3953,43 @@
     "free"
    ],
    "annual": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "wildlife-photographer-of-the-year",
+   "name": "Wildlife Photographer of the Year",
+   "type": "exhibition",
+   "style": "The 100 winning images from the world's biggest nature photography competition",
+   "venue": "Natural History Museum",
+   "recurring": "annual",
+   "typicalWhen": "Mid-October to the following July",
+   "area": "South Kensington",
+   "borough": "Kensington and Chelsea",
+   "guide": "south-kensington-area-guide",
+   "zone": "1",
+   "district": "West",
+   "address": "Cromwell Road",
+   "postcode": "SW7 5BD",
+   "agePolicy": "all-ages",
+   "duration": "About an hour",
+   "price": "£15.50 off-peak, £18 peak (adult)",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "The longest-running nature photography competition in the world, and consistently the Museum's strongest temporary show - 100 images chosen from tens of thousands of entries, with the conservation story behind each one.",
+   "opNote": "Between editions as of this run - the 2025/26 exhibition closed 12 July 2026 and the next opens in October 2026. Check nhm.ac.uk before planning a visit around it specifically.",
+   "goodFor": [
+    "families",
+    "art",
+    "photography"
+   ],
+   "lists": [
+    "events"
+   ],
+   "affiliateUrl": "https://www.getyourguide.com/s/?q=Wildlife%20Photographer%20of%20the%20Year%20London&partner_id=WWP7I0R",
+   "affiliateNetwork": "getyourguide",
+   "annual": true,
+   "awaitingDates": true,
    "notYetOpen": false
   }
  ]
