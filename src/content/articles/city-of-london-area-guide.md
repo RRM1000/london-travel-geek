@@ -112,23 +112,64 @@ The City of London has its own share of the commemorative plaques marking where 
 ## Key streets and micro-districts
 
 ### St Paul's and Paternoster Square
-The cathedral, the square behind it and One New Change, whose roof terrace gives a free close-up view of the dome.
+
+The cathedral, the square behind it, and the shopping centre opposite that most visitors walk past without realising what is on its roof.
+
+**St Paul's is £27 for an adult**, which includes the floor, the crypt and all three dome galleries. The climb to the Golden Gallery is **528 steps with no lift at any point** — 257 to the Whispering Gallery, 376 to the Stone, 528 to the top — and the cathedral itself advises against it for anyone with mobility difficulties. **Monday to Saturday only** for sightseeing; services are free to attend.
+
+**The roof terrace at One New Change is free**, has no ticket and no queue, and gives you the dome at close range from a bar-height parapet. It is the single best free thing in this part of the City, and it is directly opposite. Looking *at* St Paul's costs nothing; climbing it costs £27.
+
+**Paternoster Square** behind the cathedral is a modern pedestrian square with the Temple Bar gateway on one corner, Wren's 1670s arch moved here from the Strand in 2004. **Sweetings at 39 Queen Victoria Street** is the Victorian fish restaurant nearby — lunch only, weekdays only, no bookings.
 
 ### Bank and the Royal Exchange
-Seven roads meeting at the Bank of England. The Royal Exchange is now shops and a bar under its portico.
+
+Seven roads meeting at once, with the **Bank of England**, the **Royal Exchange** and **Mansion House** on three corners of the junction. It is the most concentrated piece of imperial architecture in Britain and it is also a working traffic interchange, so give yourself a moment to look up.
+
+**The Royal Exchange is open and free to walk into** — Victorian courtyard, mosaic floor, now luxury shops around a central bar. Nobody will stop you.
+
+**The Bank of England Museum is free**, entered from Bartholomew Lane round the side, and it lets you lift a real gold bar. **Weekdays only, closed at weekends and bank holidays**, which is the trap here — this whole district shuts on a Saturday.
+
+**Royal Exchange Buildings**, the alley behind, is where the snowy kiss at the end of *Bridget Jones's Diary* was filmed. **Bloomberg Arcade** two minutes south has the modern eating, including **Brigadiers** for Indian barbecue, and the **London Mithraeum** beneath it — a reconstructed Roman temple, free, but pre-booked.
+
+Bank station is directly underneath and has been substantially rebuilt, so exits are not where older maps put them.
 
 ### Leadenhall and the tower cluster
-Leadenhall Market beneath 22 Bishopsgate, the Gherkin, the Cheesegrater and the Scalpel. The most dramatic street-level contrast in London.
+
+**Leadenhall Market** sitting directly beneath 22 Bishopsgate, with the Gherkin, the Cheesegrater and the Scalpel within two streets. The most dramatic street-level contrast in London, and the reason to walk this bit rather than ride through it.
+
+**The market is free, roofed and open to walk through**, which makes it the best wet-weather ten minutes in the City. It played **Diagon Alley** in the first Harry Potter film, and the blue door used as the Leaky Cauldron entrance belongs to what is now an opticians on Bull's Head Passage.
+
+**It keeps City hours.** The shops and bars trade Monday to Friday and it is close to dead on a Sunday, so come on a weekday — around six in the evening is when it is fullest and best.
+
+**Three viewpoints are within five minutes, and two are free.** **Horizon 22** on level 58 is the highest public view in London and costs nothing, though it needs a timed ticket and is fully enclosed. **The Lookout at 8 Bishopsgate** is also free and runs to 9pm on Mondays and Fridays. **Sky Garden** is free with a ticket released three weeks ahead, with paid walk-in slots from £11.50 if you have missed them.
+
+For eating up high, **Duck & Waffle at 110 Bishopsgate is open 24 hours** — the only London viewpoint you can use at four in the morning.
 
 ![A classical stone portico and carved cornice in the foreground with the glass towers of 22 Bishopsgate and the Scalpel rising directly behind](../../assets/articles/city-of-london-area-guide/old-and-new-city.jpg)
 
 *This is the best few streets in London for old against new. The City never zoned its towers into a separate district, so a Victorian banking hall and a 62-storey tower end up on the same pavement — look up anywhere between Leadenhall Street and Bishopsgate and you get both in one frame.*
 
 ### Tower Hill and the riverside
-The Tower, the surviving stretch of Roman wall, and the approach to Tower Bridge.
+
+The **Tower of London**, the best surviving stretch of the **Roman city wall** — right beside Tower Hill station, free and unfenced — and the approach to Tower Bridge.
+
+**Almost all of the view is free.** The Tower is expensive and busiest between 11am and 3pm, but the moat, the wharf and the riverside pavement cost nothing, and the **upstream pavement on Tower Bridge** is the officially designated viewpoint: the Tower, St Paul's, The Monument and HMS Belfast in one sweep.
+
+**The Tower Bridge Exhibition is £18**, one adult rate with no seasonal tier, open daily 9.30am to 6pm with last entry at 5pm. It buys you the glass floors 43.5 metres up and the Victorian engine rooms, and there is **lift access to both** — it is not a stairs-only climb. Residents of the City, Southwark or Tower Hamlets pay **£1** with proof.
+
+**Bridge lift times are published** at towerbridge.org.uk/bridge-lifts and updated daily, so you can watch it open for free.
+
+This is the one part of the City that is busy at weekends, and the only part where the crowd is tourists rather than workers.
 
 ### Smithfield and Barbican
-The north-west edge. Smithfield meat market, St Bartholomew the Great, and the Barbican's brutalist estate and arts centre.
+
+The north-west edge, and the most atmospheric corner of the City. **Smithfield** has been a livestock and meat market for over eight hundred years, and the Victorian market buildings are being converted into the new **London Museum** — a major change to this district, not yet open.
+
+**St Bartholomew the Great** is the reason to come. Founded in 1123, it is the oldest surviving parish church in London, and its Norman interior has stood in for St Paul's in *Sherlock Holmes* and appeared in *Four Weddings* and *Shakespeare in Love*. There is a small admission charge for sightseers and none for worship, and it closes to visitors during services.
+
+**The Barbican** is next door: a brutalist estate of concrete towers, raised walkways and a lake, with an arts centre at its heart. **The Curve gallery is free**, the main Art Gallery is ticketed, and finding the entrance is genuinely difficult — **follow the yellow line painted on the pavement** from Barbican station rather than trusting a map.
+
+**Ye Olde Cheshire Cheese** on Fleet Street, rebuilt in 1667 after the Great Fire, is ten minutes west and worth the walk for the warren of dark rooms alone.
 
 ![The painted maroon and green ironwork and glass roof of Leadenhall Market, with the Lamb Tavern under the arcade](../../assets/articles/city-of-london-area-guide/leadenhall-market.jpg)
 

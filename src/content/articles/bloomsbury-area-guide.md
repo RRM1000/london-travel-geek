@@ -99,19 +99,50 @@ Bloomsbury has its own share of the commemorative plaques marking where notable 
 ## Key streets and micro-districts
 
 ### Great Russell Street and the museum precinct
-The British Museum frontage and the souvenir shops opposite. The busiest part of Bloomsbury by a wide margin.
+
+The **British Museum** frontage, the souvenir shops opposite, and the busiest two hundred metres in Bloomsbury by a wide margin. The colonnade is the photograph; the Great Court behind it is the reason to go in.
+
+**The museum is free and needs no ticket.** The trick worth knowing is the entrance: the queue forms on Great Russell Street, but the **Montague Place door at the back** is the same building and usually a walk-in. Friday is the late night.
+
+For lunch on this street rather than off it, **Dalloway Terrace at 16–22 Great Russell Street** is the one with the flowers over the terrace, and it takes bookings — everything else here is priced for people who will never come back.
 
 ### The garden squares
-Russell Square is the biggest and has a cafe. Gordon and Tavistock Squares to the north-west are the quietest and carry most of the Bloomsbury Group plaques.
+
+Seven of them, and they are not interchangeable. **Russell Square** is the biggest, has a café and a fountain children run through in summer, and is the one to sit in. **Gordon and Tavistock Squares**, north-west and two minutes further, are the quietest in central London and carry most of the Bloomsbury Group plaques — Virginia Woolf lived on both.
+
+Tavistock Square also holds the **Gandhi statue** and a conscientious objectors' stone, and is where people leave flowers on 7 July.
+
+**All are free and open in daylight hours**, and the gates are locked overnight — which catches out anyone planning a late walk. Bedford Square, the only complete Georgian square left in Bloomsbury, is **private and railed off**: you can look, not enter.
 
 ### Lamb's Conduit Street
-East, towards Holborn. Independent shops, The Lamb, and Persephone Books.
+
+The best street in Bloomsbury and the one visitors never find, running north from Theobald's Road towards Coram's Fields. Half-pedestrianised, independent almost end to end.
+
+**Eat and drink:** **Noble Rot at 51** is a wine bar with a serious kitchen attached and needs booking; **Honey & Co at 54** does Middle Eastern cooking in a room with about twenty seats; **Redemption Roasters at 84b** roasts its coffee in a young offenders' institution, which is the whole point of it.
+
+**Persephone Books** reprints forgotten twentieth-century women writers with grey covers and patterned endpapers, and **The Lamb** is a Victorian pub with the original etched snob screens still in place.
+
+**It is a weekday street.** Most of the shops are closed on Sundays and it is noticeably quiet, so come Tuesday to Saturday. Russell Square and Holborn are both about seven minutes.
 
 ### Store Street and Marchmont Street
-Small local shopping streets north and west of the museum, with better cafes than anything on Great Russell Street.
+
+Two small local shopping streets, north-west and north of the museum, with better cafés than anything on Great Russell Street and a fraction of the people.
+
+**Café Deco at 43 Store Street** runs from morning coffee through to dinner and is the most reliable meal in this part of Bloomsbury. **Fortitude Bakehouse at 35 Colonnade**, tucked in a mews off Marchmont Street, does the pastries.
+
+Store Street also has **Gay's the Word**, Britain's oldest LGBTQ+ bookshop, open since 1979 and the shop the film *Pride* is about.
+
+**Both streets are five minutes from Russell Square or Goodge Street**, and both go quiet at weekends because they serve the universities more than tourists — which is exactly why they are pleasant on a weekday.
 
 ### Museum Street
-The short run of antiquarian bookshops and print dealers between the museum and Holborn.
+
+A short run of antiquarian bookshops, print dealers and map sellers between the museum and Holborn — the last concentrated survival of the trade Bloomsbury was known for.
+
+**Browsing is free and expected.** These are specialist dealers rather than second-hand shops, so prices run from a few pounds for a loose print to four figures for a first edition, and nobody minds you looking at either.
+
+**Cocoro at 25 Coptic Street**, on the corner, is the neighbourhood Japanese and a considerably better lunch than the museum café.
+
+**Most keep short hours — roughly 11am to 6pm, and several close on Sundays and Mondays.** This is a street to walk down on the way out of the museum, not a destination in itself.
 
 ![The green front door and museum sign of the Charles Dickens Museum on Doughty Street](../../assets/articles/bloomsbury-area-guide/charles-dickens-museum.jpg)
 

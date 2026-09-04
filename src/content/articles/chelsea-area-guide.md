@@ -97,19 +97,56 @@ Chelsea has its own share of the commemorative plaques marking where notable peo
 ## Key streets and micro-districts
 
 ### Sloane Square and the eastern King's Road
-The entrance to Chelsea. The Royal Court Theatre, Peter Jones, and the chain-heavy first stretch of the King's Road.
+
+The entrance to Chelsea, and the stretch most visitors mistake for the whole of it. The **Royal Court Theatre** sits on the square — the theatre that premiered *Look Back in Anger* in 1956 and still runs new writing, with cheap seats worth checking before anything in the West End.
+
+**Peter Jones**, the John Lewis department store, occupies the west side behind a curved 1930s glass curtain wall that was radical when it went up and still looks it.
+
+**Be honest about the first few hundred metres of the King's Road**: it is chain retail, and it is the least interesting part of the street. The independents start after Duke of York Square and get better the further west you go.
+
+**Sloane Square station is on the District and Circle lines**, and the whole of this guide is walkable from it — the King's Road runs a mile and a half west, so decide how far you are going before you start.
 
 ### Duke of York Square
-Off the north side of the road. Food market on Saturdays, Saatchi Gallery, and the best seating in the area.
+
+Off the north side of the road, a hundred metres in, and the best place to sit down in Chelsea. A pedestrianised square of paving, fountains and benches in front of the former **Duke of York's military headquarters**.
+
+**The Saatchi Gallery occupies the building**, seventy thousand square feet over three floors, open daily 10am to 6pm. Some shows are free and some are individually ticketed, with their own separate last-entry times — check which before you turn up.
+
+**The food market runs on Saturdays**, roughly 10am to 4pm, and is the one day this square is genuinely busy. **Partridges**, the grocer on the square, is open the rest of the week.
+
+**Pavilion Road runs north from here** — a converted mews of independent food shops, butcher, baker, cheesemonger, with **The Sea, The Sea at 243** doing seafood at the top of it. It is the most concentrated good food in Chelsea and almost nobody walking the King's Road turns up it.
 
 ### Cheyne Walk and Chelsea Embankment
-The riverfront. Georgian terraces, blue plaques, houseboats moored west of Battersea Bridge.
+
+The riverfront, and the quietest handsome walk in this part of London. Georgian terraces facing the water, **more blue plaques per hundred metres than almost any street in Britain** — Turner, Whistler, Rossetti, Elizabeth Gaskell, Mick Jagger and Keith Richards all at various points — and houseboats moored west of Battersea Bridge.
+
+**Albert Bridge is the set piece.** Pink and green, lit by around four thousand bulbs after dark, and the crossing where Bridget Jones is carried between Mark and Jack in *Bridget Jones's Baby*. **Free, open to pedestrians at all hours, and best after sunset** when the bulbs are on.
+
+**Restaurant Gordon Ramsay is at 68 Royal Hospital Road**, one street back — three Michelin stars since 2001, and booked months ahead.
+
+**It is a walk rather than a destination**, about fifteen minutes end to end, and there is very little to buy along it. Come for the plaques and the bridge, and eat elsewhere.
 
 ### World's End and the western King's Road
-Past the bend. Where the independent shops still are, including the surviving Vivienne Westwood shop with the backwards clock.
+
+Past the bend, where the road narrows and the chains give out. This is where the independent shops still are, and where Chelsea's actual history happened.
+
+**Vivienne Westwood's shop at 430 King's Road** is the one with the **backwards-running clock** over the door — the same address that was SEX in 1974 and where the Sex Pistols were assembled. It still trades.
+
+**The World's End Distillery** on the corner is the Victorian pub the district takes its name from, and the stretch around it is what people mean by punk-era Chelsea.
+
+**Eat here rather than at the Sloane Square end.** **Mucci's at 442** does modern Italian a few doors from Westwood's, and **Made in Italy at 249** has been doing Neapolitan pizza by the metre on the way down for decades.
+
+**It is a solid twenty-five-minute walk from Sloane Square**, and there is no station at this end — the 11, 19 and 22 buses run the length of the King's Road, which is the sensible way to do it in one direction and walk the other.
 
 ### The Chelsea backstreets
-Between the King's Road and the river: Bywater Street, St Leonard's Terrace, Margaretta Terrace. Painted terraces and almost no traffic.
+
+Between the King's Road and the river, and the reason to stop looking at shops. **Bywater Street** is the cul-de-sac of painted stucco houses that gets photographed most; **St Leonard's Terrace** faces the Royal Hospital's grounds; **Margaretta Terrace** is the pastel one.
+
+There is almost no traffic and nothing to buy, which is the appeal. These are residential streets and people live in them — look, do not linger on doorsteps.
+
+**Three good restaurants hide in here**, all of which need booking and none of which you would find by accident: **Daphne's at 112 Draycott Avenue**, **Kutir at 10 Lincoln Street** for modern Indian, and **Dinings SW3** in a mews off Walton Street for Japanese small plates.
+
+**The Royal Hospital Chelsea** is the anchor — Wren's home for army veterans since 1692, its grounds free and open on weekdays, and the site of the Chelsea Flower Show every May, when the whole area is impassable and hotel prices double.
 
 ![The ornate red brick and stone frontage of the World's End Distillery pub on the King's Road](../../assets/articles/chelsea-area-guide/kings-road.jpg)
 

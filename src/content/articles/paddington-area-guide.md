@@ -93,20 +93,52 @@ Paddington has its own share of the commemorative plaques marking where notable 
 ## Key streets and micro-districts
 
 ### Little Venice and Blomfield Road
-The canal basin and its moorings. Waterside pubs, the Puppet Theatre Barge and the departure point for Camden waterbuses. Warwick Avenue station is closest.
+
+The junction where the Grand Union meets the Regent's Canal, lined with white stucco villas and permanently moored narrowboats. It is the prettiest part of this guide by a distance and about ten minutes from the station, which is why so few Paddington visitors see it.
+
+**Eat and drink on the water.** **The Waterway at 54 Formosa Street** has the big terrace over the moorings; **The Summerhouse on Blomfield Road** does seafood right at the water's edge and needs booking in summer; **Kateh at 5 Warwick Place** is a very small Persian restaurant on a side street that fills every night.
+
+**The Puppet Theatre Barge** is moored on Blomfield Road — a fifty-seat theatre inside a converted barge, running shows for children and, occasionally, adults. It is seasonal and it books out, so check before walking down.
+
+**Waterbuses run from here to Camden Lock**, through Regent's Park and the zoo, taking about fifty minutes. Or walk the towpath free in about an hour — it is flat, continuous, and the better version of the same journey.
+
+**Warwick Avenue is the nearest station**, two minutes, and it is a Bakerloo stop rather than a Paddington one.
 
 ### Paddington Basin
-East of the station. Modern offices, canalside dining and two unusual moving footbridges. Quiet at weekends.
+
+East of the station, and a completely different place from Little Venice despite being on the same water — glass offices, hard landscaping and a canal dead-ending into the city rather than running through it.
+
+**Two moving footbridges are the reason to walk down.** Thomas Heatherwick's **Rolling Bridge** curls up into an octagon, and the **Fan Bridge** opens in five separate segments. Both are free to watch and both operate on a published schedule, usually around lunchtime midweek — check before making the trip, because a still bridge is just a bridge.
+
+There is also a **Floating Pocket Park**, a moored island of trees and benches that rises and falls with the water.
+
+**Eat at Sheldon Square**, the amphitheatre-shaped bit: **Pearl Liang at number 8** is a long-standing Cantonese and dim sum room that is much better than its office-park setting suggests, **Beany Green at 6C** does Australian all-day breakfast, and **The Cheese Barge at 25** is exactly what it sounds like, moored on the water.
+
+**It is dead at weekends.** This is an office district and it empties on Saturday, so come on a weekday if you want the restaurants open and the bridges moving.
 
 ![A bronze sculpture of animals seated around a dining table on the plaza outside Paddington station, with a red London bus passing behind](../../assets/articles/paddington-area-guide/bronze-animals-sculpture.jpg)
 
 *The bronze animals outside Paddington station. Most people walk straight past on the way to the platforms.*
 
 ### Praed Street and Craven Road
-The hotel strip. Functional rather than attractive, but convenient and comparatively cheap.
+
+The hotel strip, running east and south from the station front. Functional rather than attractive — a long parade of budget and mid-range hotels, convenience shops and pharmacies — but genuinely useful, and comparatively cheap for zone 1.
+
+**This is where you stay if you are catching an early Heathrow train.** The Elizabeth line and the Heathrow Express both leave from Paddington, so a room here is fifteen minutes from the airport and half the price of the equivalent in Mayfair.
+
+**St Mary's Hospital is on Praed Street**, and inside it the **Alexander Fleming Laboratory Museum** — the actual room where penicillin was discovered in 1928, preserved as it was. It is small, ticketed, keeps limited hours and almost nobody knows it is there.
+
+**Do not plan to eat here.** The strip is chain sandwich shops and hotel bars. Bayswater is five minutes south-west and Little Venice ten minutes north, and both are better in every respect.
 
 ### Bayswater and Queensway
-South-west of the station. A dense, diverse restaurant quarter — Chinese, Middle Eastern and Greek — and the best-value eating near Paddington.
+
+South-west of the station, and the best-value eating anywhere near Paddington. A dense, genuinely diverse restaurant quarter — Cantonese, Lebanese, Persian, Greek and Malaysian within a few streets of each other — serving the neighbourhood rather than the station.
+
+**Westbourne Grove is the good street**, running west from Queensway: **Al Waha at 75** is one of the longest-established Lebanese restaurants in London and takes bookings. Queensway itself is the cheaper, busier, later-opening axis.
+
+**Queensway has been rebuilt.** The old Whiteleys department store has reopened as a hotel and apartments, and the street has been repaved and widened — so anything written before 2023 describes a different place.
+
+**Two stations serve it**, Bayswater and Queensway, on different lines about three minutes apart, which is worth knowing if one is closed. **Kensington Gardens is at the southern end**, so this is also the walking route from Paddington to Hyde Park — about fifteen minutes to the Italian Gardens.
 
 ![The still water of Paddington Basin lined with modern glass office buildings](../../assets/articles/paddington-area-guide/paddington-basin.jpg)
 
