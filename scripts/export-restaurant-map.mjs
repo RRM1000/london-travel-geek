@@ -325,6 +325,22 @@ const MAPS = [
     article: "src/content/articles/best-vegetarian-vegan-restaurants-london.md",
   },
   {
+    key: "street-food-london",
+    // No list tag fits: these venues share a format, not a tag. Case-insensitive
+    // because the sheet holds both "Pub Residency" and "Pub residency".
+    formats: ["Food Hall", "Market", "Market Stall", "Pub Residency"],
+    streetFoodFormats: ["Market Stall", "Counter", "Pub Residency"],
+    // The guide covers these in tables and prose rather than giving each one a
+    // heading, so they get a pin with no anchor rather than a link to nothing.
+    tableOnly: ["arcade-food-hall","borough-market","bread-ahead","broadway-market","camden-market","corner-corner","flat-iron-square","gopals-corner","greenwich-market","gujarati-rasoi","hackney-bridge","horn-ok-please","market-halls-canary-wharf","market-halls-oxford-street","market-halls-paddington","market-halls-victoria","mercato-metropolitano","mercato-metropolitano--mayfair","mercato-metropolitano--wood-wharf","vinegar-yard"],
+    // Format is a broad net: it catches individual traders and food halls that
+    // belong to other guides. These 35 are on the sheet with a matching format
+    // but are never named in this article, and the exporter's own rule is that
+    // a pin for a venue the guide does not mention is worse than no pin.
+    exclude: ["bad-boy-pizza-society","bang-bang-oriental","boxhall-city","boxpark-camden","boxpark-croydon","boxpark-wembley","brick-lane-market","canteen-food-hall-greenwich","comalera","crate-walthamstow","cutty-sark-street-food-market","dough-hands","eataly-london","falafel-zaki-zaki","furness-oyster-bar","goods-way-kings-cross","guacamoles","harrods-dining-hall","hawley-wharf-camden","hobbs-roast","hoxton-beach-falafel","hullabaloo","kappacasein","khun-pakin","khun-pakin-thai","kolkati","la-tua-pasta","little-earthquakes","magic-falafel","market-place-vauxhall","metropolis-vauxhall","pergola-on-the-wharf","richard-hawards-oysters","short-road-pizza","sud-italia"],
+    article: "src/content/articles/best-street-food-london.md",
+  },
+  {
     key: "markets-london",
     list: "markets",
     streetFoodFormats: ["Market Stall", "Counter", "Food Hall", "Pub Residency"],
@@ -378,8 +394,15 @@ const out = [];
 const dropped = [];
 
 for (const m of MAPS) {
+  // A map selects by LIST tag, by venue FORMAT, or by both. Format exists for
+  // guides whose venues share a kind rather than a tag - the street food halls
+  // and markets have no list in common, but they are all Food Halls, Markets
+  // or Market Stalls.
   const rows = restaurants
-    .filter((r) => !r.branchOf && (r.lists ?? []).some((l) => l.split(":")[0] === m.list))
+    .filter((r) => !r.branchOf && (
+      (m.list && (r.lists ?? []).some((l) => l.split(":")[0] === m.list)) ||
+      (m.formats && m.formats.some((f) => f.toLowerCase() === String(r.format ?? "").toLowerCase()))
+    ))
     // `exclude` drops a row the LIST tag claims but the GUIDE does not cite.
     // A pin for a venue the article never mentions is worse than no pin: the
     // reader clicks it and finds nothing written about it.
