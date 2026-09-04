@@ -194,7 +194,7 @@ The last comparison is the one nobody runs, and it is about breakfast. **At Beef
 
 ## Continue planning your London trip
 
-**Paying less to eat out in London.** Six different strategies, and they rarely combine — pick the one that fits how you eat:
+**Paying less to eat out in London.** A few different strategies, and they rarely combine — pick the one that fits how you eat:
 
 - 🍽️ **[Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the restaurant's own fixed price, no membership, biggest single saving
 - 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the rest, and why one costs £29.99 and its twin £79.99
