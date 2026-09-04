@@ -477,8 +477,6 @@ Order at the bar or through the app. No table service, no music, no booking.
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub — cheaper if you will eat early or walk in
 - 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — 38 packages compared on price per minute, and what “bottomless” covers
 - 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — every free and £1 children's offer with a London branch
-
-
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🐟 **[The Best Fish and Chips in London](/articles/best-fish-and-chips-london/)**
 - 🍕 **[The Best Pizza in London](/articles/best-pizza-london/)**

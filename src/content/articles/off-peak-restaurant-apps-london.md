@@ -209,11 +209,6 @@ Worth knowing too: **the same table is often sold through several apps at once.*
 - 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — 38 packages compared on price per minute, and what “bottomless” covers
 - 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — every free and £1 children's offer with a London branch
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all
-
-
-- 🍽️ **[London Restaurant Deals: Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the fixed-price menus these apps will not stack with
-- 💳 **[Restaurant Discount Cards in London](/articles/restaurant-discount-cards-london/)** — Tastecard, Gourmet Society, NeoTaste and the rest, measured
-- 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🌙 **[Late Night Eating in London](/articles/late-night-eating-london/)** — for the Last Table crowd
 - 🧭 **[London on a Budget](/articles/london-on-a-budget/)**
 

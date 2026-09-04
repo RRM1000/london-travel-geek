@@ -201,12 +201,7 @@ The last comparison is the one nobody runs, and it is about breakfast. **At Beef
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub — cheaper if you will eat early or walk in
 - 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — 38 packages compared on price per minute, and what “bottomless” covers
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all
-
-
 - 👨‍👩‍👧 **[London With Children: Free Farms, Zoos and Days Out](/articles/london-with-children/)** — mostly free, and where the day actually goes
-- 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — 34 places under £15, no offer codes required
-- 💳 **[Restaurant Discount Cards in London](/articles/restaurant-discount-cards-london/)** — why Tastecard will not stack with any of this
-- 🍽️ **[London Restaurant Deals: Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the grown-up version of the same idea
 - 🧭 **[London on a Budget](/articles/london-on-a-budget/)**
 
 *Every offer, price, age limit, date and branch exclusion above was read off the operator's own website on 3 September 2026. School holiday dates are the common London pattern published by Southwark and Hounslow — check your own borough. These offers are rewritten for every school holiday, and the branch exclusions change with them.*

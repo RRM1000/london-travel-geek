@@ -200,8 +200,6 @@ Two structural tips. Book the **first sitting of the day** — the bar is fully 
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub — cheaper if you will eat early or walk in
 - 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — every free and £1 children's offer with a London branch
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all
-
-
 - 🍳 **[The Best Breakfast and Brunch in London](/articles/best-breakfast-brunch-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
 - 🎯 **[Competitive Socialising in London](/articles/competitive-socialising-london/)**
