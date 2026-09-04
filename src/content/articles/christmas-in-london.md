@@ -169,9 +169,7 @@ Panto is not the only thing on, and two of the best tickets in London at Christm
 
 **12 November 2026 – 9 January 2027.** Jack Thorne's adaptation, directed by Matthew Warchus, now in its tenth season and **London's longest-running version of the story**. The auditorium is reconfigured in the round and the show comes out into it — mince pies included, genuinely.
 
-**About two hours including a 20-minute interval. Suitable for ages 8 and up.** Tickets are **£14.50–£81.50 in previews (12–23 November)**, **£16.50–£81.50 off-peak**, and **£16.50–£91.50 at peak** — so a preview seat is materially cheaper than a December one for the same production.
-
-**It is the best-served show in London for access.** Audio-described, BSL-interpreted, captioned and relaxed performances are all already scheduled for December and January, and there is an **access rate of £23.50–£26.50 for every performance**, with a carer or companion ticket at the same price. Access Membership is free.
+It is warmer and less reverent than the book suggests — handbells, carols sung by the cast, and a Scrooge redeemed by the room rather than in spite of it. **Two hours with an interval, and it works from about eight upwards**, which makes it the rare Christmas show that suits a mixed-age group without anyone being talked down to.
 
 ### Christmas Carol Goes Wrong, Wyndham's Theatre
 
