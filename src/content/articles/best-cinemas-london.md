@@ -120,7 +120,7 @@ A freestanding glass drum on the roundabout north of Waterloo station, and **the
 
 **Sit further back than feels right.** The screen is over twenty metres high and the front third of the auditorium is too close to take it in.
 
-**It is reached by subway from Waterloo**, not across the roundabout — follow the signs from the station rather than trying to cross.
+**It sits on an island in the middle of the roundabout, and the only way in is through the pedestrian subways** that run underneath it. There is no direct link from Waterloo station — you come out of the station, find a subway entrance on the roundabout's edge, and go under. Do not try to cross the road; there is no crossing.
 
 ![The cylindrical glass exterior of the BFI IMAX cinema at Waterloo](../../assets/articles/best-cinemas-london/bfi-imax.jpg)
 
