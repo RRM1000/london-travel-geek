@@ -110,9 +110,9 @@ There is no award to win here, so this is not a ranking — it is agreement. The
 
 What you are actually paying for is the scaffolding. On arrival you get an apron, a hair tie and a fabric bag so your coat does not come out smelling of chilli oil; there is a tablet menu with pictures, a large sauce counter with printed recipes, and free snacks, board games and manicures for anyone waiting.
 
-**You do not have to stand in the queue.** Its own booking page says tables are always held back for walk-ins, and when you put your name down the staff take your phone number and text you when your table is ready. At the Trocadero on a Friday that can be an hour, and it is an hour you can spend somewhere else in Soho rather than standing on Coventry Street.
+**You do not have to stand in the queue.** Tables are always held back for walk-ins, and when you put your name down the staff take your phone number and text you when the table is ready.
 
-**There are two London branches, and the second one is the tip.** The original is at the Trocadero off Piccadilly Circus. The other is **inside The O2 at Greenwich Peninsula — Unit 7.0.9, SE10 0DX, next to Nike and Costa Coffee** — and it is materially quieter than Leicester Square most of the time, because the crowd there is arena traffic rather than passing trade. Go on a night with nothing on at the arena and you can often walk in. Go on a gig night and the reverse is true.
+**There are two London branches, and the second one is the tip.** The original is at the Trocadero off Piccadilly Circus; the other is **inside The O2**, and it is materially quieter except on arena nights.
 
 ### Happy Lamb Hot Pot, Holborn
 
