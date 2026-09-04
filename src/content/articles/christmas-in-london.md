@@ -80,7 +80,7 @@ Four have solid, confirmed 2026 dates:
 - **Crystal Palace** — the Handmade Palace Art & Craft Market, **21–22 November 2026**, in the Victorian Crystal Palace Subway. £2.50 entry, no step-free access.
 - **Blackheath** — the Blackheath Christmas Fair, a charity craft fair rather than a market village, **15 November 2026** at Blackheath Halls.
 
-A few more are likely to return but hadn't confirmed 2026 dates at the time of writing: **Wimbledon** (both the Piazza market and the separate Christmas in the Village event), **Wembley Park Festive Market**, **Ealing Broadway**, and **Columbia Road's** Christmas Wednesdays, where the flower-market street's shops stay open late through December.
+A few more are likely to return but have not confirmed 2026 dates: **Wimbledon** (both the Piazza market and the separate Christmas in the Village event), **Wembley Park Festive Market**, **Ealing Broadway**, and **Columbia Road's** Christmas Wednesdays, where the flower-market street's shops stay open late through December.
 
 **Worth knowing what's gone:** Clapham Common's Winterville hasn't run since 2018. Alexandra Palace's Christmas offering is an ice rink and panto rather than a market. Neither is worth planning a trip around.
 
@@ -88,7 +88,7 @@ A few more are likely to return but hadn't confirmed 2026 dates at the time of w
 
 ## Christmas lights: where to see them
 
-None of the big shopping streets had announced 2026 switch-on dates at the time of writing — they're typically confirmed from late September — but the pattern repeats every year: the best-known streets switch on first, in the opening two weeks of November, and the lights stay up until around Twelfth Night in early January.
+The big shopping streets confirm their switch-on dates from late September, but the pattern repeats every year: the best-known streets switch on first, in the opening two weeks of November, and the lights stay up until around Twelfth Night in early January.
 
 | Street | Known for |
 | --- | --- |
@@ -135,7 +135,7 @@ Different from the free street displays above — these are paid, walk-through e
 
 **No longer running, so don't plan around them:** the **Natural History Museum's** rink closed permanently after the 2024 season and its old site is now a wildlife garden. **Tower of London's** rink has been discontinued for several years. **Canary Wharf's** rink is paused for the 2026 season specifically, described as a break rather than a closure.
 
-For grottos, **Fortnum & Mason's** "Storytelling with Father Christmas" and **Hamleys'** Regent Street grotto are both expected back but hadn't gone on sale at the time of writing — 2025 prices were roughly £36–£45 and from £65 for a group of three, respectively. **Harrods'** famous grotto has been discontinued with no plans to reopen. **Selfridges** doesn't run a formal grotto — Santa and his elves roam the shop floor for free instead.
+For grottos, **Fortnum & Mason's** "Storytelling with Father Christmas" and **Hamleys'** Regent Street grotto are both expected back but are not on sale yet — 2025 prices were roughly £36–£45 and from £65 for a group of three, respectively. **Harrods'** famous grotto has been discontinued with no plans to reopen. **Selfridges** doesn't run a formal grotto — Santa and his elves roam the shop floor for free instead.
 
 ---
 

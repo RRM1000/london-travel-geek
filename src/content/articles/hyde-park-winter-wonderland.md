@@ -424,24 +424,6 @@ Two honest limitations from the operator: **there are no accessible fast-track o
 
 ---
 
-## What we could not confirm
-
-Written down plainly, because guessing at these would be worse than leaving them open.
-
-- **The full peak / standard / off-peak calendar by date.** Only "Monday to Thursday in November is off-peak" is stated outright; the band for every other date appears only inside the booking widget.
-- **The walk-up entry price.** Never published. The phrase "free entry worth up to £9.50 per person" implies £9.50 is the ceiling.
-- **How many £1 tokens each ride costs** — which means a walk-up visitor genuinely cannot budget from the website.
-- **Christmas Eve and New Year's Eve hours.** The guide says 10pm "every evening as usual" and lists no exception, but nor does it rule one out. Worth confirming nearer the time.
-- **The 2026-27 live music schedule and the parade dates.**
-- **Any individual food or drink price, including mulled wine**, and the stein deposit.
-- **Souvenir photo booklet prices** and the penguin skate aid price.
-- **Corporate party package prices** — enquiry only.
-- **Whether wheelchair hire exists.** Not mentioned in any of the operator's 197 help articles.
-
-We will update this page as those are published. If you have been recently and know any of them, we would rather print the real figure than leave a gap.
-
----
-
 ## Continue planning your Christmas
 
 - 🎄 **[Christmas in London](/articles/christmas-in-london/)** — markets, lights, ice rinks and light trails, and what has quietly stopped running

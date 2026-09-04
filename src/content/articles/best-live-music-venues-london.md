@@ -223,7 +223,7 @@ There is nothing else like it. The room takes about 200, the ceiling is low, the
 
 *Opens 23 September 2026*
 
-> ⚠️ **Not open yet at the time of writing.** It opens on **23 September 2026** — deliberately, what would have been **John Coltrane's 100th birthday**. Tickets went on general sale in August.
+> ⚠️ **Opens 23 September 2026** — deliberately, what would have been **John Coltrane's 100th birthday**. Tickets went on general sale in August.
 
 The New York institution's **first UK venue**, in the basement beneath the St Martins Lane hotel. A **250-capacity main room running two sets a night at 7pm and 9.30pm**, food served at the tables, and a second 100-seat room called **B-Side** given over to emerging UK musicians.
 

@@ -40,17 +40,15 @@ That matters, because the internet is already full of New Year's Eve guides quot
 
 ## What is actually confirmed
 
-Everything below was checked against the operator's own website on **4 September 2026**.
-
 | What | Where it stands on 4 September 2026 |
 | --- | --- |
-| Mayor's Thames fireworks, 31 Dec 2026 | Not announced. london.gov.uk/nye still redirects to the 31 December 2025 page |
-| Fireworks tickets | Not on sale. Ticketmaster's official London NYE hub still lists the 2025 event |
+| Mayor's Thames fireworks, 31 Dec 2026 | Not announced |
+| Fireworks tickets | Not on sale |
 | London Parade, 1 Jan 2027 | Confirmed. 1pm to 4.30pm, tickets on sale since 1 July 2026 |
-| TfL Christmas and New Year travel | Not published. Every festive TfL URL redirects to an index with 0 December entries |
+| TfL Christmas and New Year travel | Not published |
 | Royal Parks closure notice | Not issued. Last year's went out on 23 September and 10 December 2025 |
 | Thames boat parties | On sale now, from £240 per person for 31 December 2026 |
-| Club, hotel and restaurant nights | 14 venues checked, 0 with a New Year's Eve listing |
+| Club, hotel and restaurant nights | None listed yet. Line-ups land from late October |
 | Hyde Park Winter Wonderland | Confirmed. 19 November 2026 to 3 January 2027, entry from £1 |
 
 ---
@@ -104,7 +102,7 @@ The only legitimate resale route is **Ticketmaster's Fan-to-Fan platform, at fac
 
 **The Londoner discount is worth £20 a ticket**, applied at checkout against your card's billing address. Enter the postcode without spaces and in capitals, make sure the address genuinely matches, and be ready to prove it on the night — mismatched bookings have been cancelled without warning.
 
-**When does it go on sale?** Nobody knows yet. The only on-sale time City Hall has ever put in a press release was **noon on Friday 21 October 2022**, the year the event returned, followed by further releases before it sold out. Watch london.gov.uk/nye: the moment that link stops redirecting to the 2025 page, the announcement is imminent.
+**When does it go on sale?** Nobody knows yet. The only on-sale time City Hall has ever put in a press release was **noon on Friday 21 October 2022**, the year the event returned, followed by further releases before it sold out. Watch [london.gov.uk/nye](https://www.london.gov.uk/nye).
 
 ---
 
@@ -132,7 +130,7 @@ For a view of London rather than of the fireworks, our guide to the [best views 
 
 ## Everything else happening that night
 
-The pattern in early September is stark: **the boats are selling and nothing else is**. Fourteen well-known clubs, rooftops, hotels and restaurants were checked on 4 September 2026 — among them Ministry of Sound, fabric, Troxy, Drumsheds, Sky Garden, The Londoner, Aqua Shard, Duck & Waffle and The Ritz — and not one had a New Year's Eve event listed. Line-ups and hotel dinner menus land from late October onwards, so anything quoting a 2026 price for those venues today is recycling last year's figure.
+**The boats are selling and nothing else is.** None of the big rooms have a New Year's Eve night up yet — not Ministry of Sound, fabric, Troxy or Drumsheds — and nor do the rooftops and hotels, Sky Garden, The Londoner, Aqua Shard, Duck & Waffle and The Ritz among them. Line-ups and hotel dinner menus land from late October onwards, so anything quoting a 2026 price for those venues today is recycling last year's figure.
 
 Boat parties are the exception, because they sell a year out. These were live and dated to 31 December 2026:
 
@@ -175,7 +173,7 @@ For a free spot, follow the organisers' own advice. **Green Park and the Piccadi
 
 ## Transport: what runs, and what it costs
 
-TfL had published nothing for 2026/27 when this was written — every TfL Christmas and New Year travel URL redirects to a general index whose calendar runs only to November 2026. What follows is the standing position plus last year's arrangements.
+TfL has not published its 2026/27 festive arrangements yet. What follows is the standing position plus last year's timings.
 
 **Travel is not free, and this is the single most out-of-date claim on the internet about a London New Year's Eve.** Free travel from 23:45 to 04:30 ran for two decades under a series of sponsors; **the last time was 31 December 2019**. In November 2021 TfL said the pandemic's effect on its finances meant it could not offer it, and it has not come back.
 
@@ -230,4 +228,4 @@ Or accept that the cheapest good New Year's Eve in London is a booked table at 7
 
 ---
 
-*All dates, prices and rules above were taken from the organisers' own websites — london.gov.uk, Ticketmaster, TfL, The Royal Parks, londonparade.com and the boat operators — and checked on 4 September 2026. At that point nothing had been announced for the Mayor's fireworks on 31 December 2026: prices and viewing-area details labelled "2025" are last year's, given as a guide only. Check the official page before you buy anything.*
+*Checked against the organisers' own websites on 4 September 2026. Anything labelled "2025" is last year's, given as a guide only — check the official page before you buy.*

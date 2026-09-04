@@ -90,7 +90,7 @@ The top floor of the Blavatnik Building, and a cafe bar rather than a viewing pl
 
 Access is **by lift only**, from Levels 0 to 4 of the Blavatnik Building — not the Turbine Hall side, which is the wrong building and the standard way to get lost here.
 
-> ⚠️ **One caveat we can no longer stand behind.** Guides, this one included, have said the south side is permanently closed following the 2023 Supreme Court ruling over the neighbouring Neo Bankside flats. The ruling is real — the court found the overlooking was an actionable nuisance — but Tate's own current page for Level 10 says nothing about any closure or screening, and we could not confirm from any dated source whether a restriction is still in place. Treat a full circuit as likely but not guaranteed.
+> ⚠️ **The south side may still be restricted.** The 2023 Supreme Court ruling over the neighbouring Neo Bankside flats found the overlooking was an actionable nuisance, and many guides say that side is now permanently closed. Tate's own page for Level 10 says nothing about a closure or screening. Treat a full circuit as likely rather than guaranteed.
 
 ### OXO Tower Public Viewing Gallery, South Bank
 
@@ -134,7 +134,7 @@ Two things make it better than Sky Garden in practice. There is **no time limit*
 
 The honest caveat: it is **fully enclosed behind glass**. No open air, and photographs pick up reflections. If you want wind in your face, that is what The Shard's top deck sells.
 
-> ⚠️ **On the height, we have to be straight with you.** Horizon 22 publishes the floor but not a height in metres anywhere on its own site, and The View from The Shard does not publish its gallery height either. The widely reported figures — 254 metres here against 244.3 metres there — are what every source repeats, and Level 58 against floor 72 is not in dispute. We could not confirm either number from the venues themselves.
+> ⚠️ **Neither venue publishes its height.** The widely reported figures — 254 metres here against 244.3 metres at The View from The Shard — come from third parties rather than from either operator. The floors are not in dispute: Level 58 against floor 72.
 
 ### Sky Garden, City of London
 
@@ -440,7 +440,7 @@ The **Canaletto view**: Wren and Hawksmoor's King William and Queen Anne wings f
 
 **The best thing here is the walk to it.** The **Greenwich Foot Tunnel** runs under the river from the Cutty Sark, and it is the correct way to arrive: you go down on one bank and come up facing the College from across the water.
 
-> 💡 **The lift question is now settled.** We previously could not confirm the tunnel's lift hours. The Royal Borough of Greenwich states that the refurbishment delivered four new lifts that are **operational 24 hours every day**, and both ends were showing in service with better than 99.8% availability when we checked. The spiral stairs, roughly ninety steps, are the fallback rather than the default.
+> 💡 **The lifts run 24 hours.** The refurbishment delivered four new ones, and the Royal Borough of Greenwich reports better than 99.8% availability at both ends. The spiral stairs, roughly ninety steps, are the fallback rather than the default.
 
 Island Gardens and Cutty Sark DLR stations sit at either end of the tunnel. Tower Hamlets publishes no postcode for the park itself — it is on Saunders Ness Road, E14.
 

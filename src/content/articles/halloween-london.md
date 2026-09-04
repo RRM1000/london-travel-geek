@@ -21,7 +21,7 @@ faq:
   - q: "Where can you hire a Halloween costume in London?"
     a: "Two places will genuinely hire to a member of the public: Prangsta Costumiers in New Cross, which is appointment-only and charges £130–£350 plus VAT for a full costume with a £300 deposit, and Costume Studio in Islington, which takes walk-ins and is happy to do a single costume. Angels on Shaftesbury Avenue, the shop most guides still send people to, closed in 2014."
   - q: "Is the London Dungeon worth it for Halloween?"
-    a: "Its Halloween 2026 page was still a 'coming soon' placeholder with no dates or prices at the time of writing. It does have a permanent Jack the Ripper scare-actor scene, but for a dedicated Ripper experience the long-running walking tours — Jack the Ripper Walking Tour by London Walks, or The Jack the Ripper Tour with its Ripper-Vision projections — are the better-reviewed choice."
+    a: "Its Halloween 2026 dates and prices are not out yet. It does have a permanent Jack the Ripper scare-actor scene, but for a dedicated Ripper experience the long-running walking tours — Jack the Ripper Walking Tour by London Walks, or The Jack the Ripper Tour with its Ripper-Vision projections — are the better-reviewed choice."
 heroImage: "../../assets/articles/halloween-london/beetlejuice-curtain-call.jpg"
 heroImageAlt: "The cast of Beetlejuice taking their curtain call at the Prince Edward Theatre, lit in green and blue, with the Maitland house tilting above them and the sandworm reared up at the side of the stage"
 ---
@@ -176,7 +176,7 @@ Not a walk — a 75-minute comedy-horror ride around London's landmarks on a con
 
 Two more worth knowing about, though neither falls on Halloween night itself this year: **Serial Killers: The Blood and Tears Walk**, a well-reviewed look at the Ripper and nine other London murder cases, runs Wednesday to Friday only, so the closest date is Friday 30 October; and London Walks' own **Haunted London** walk runs Sundays only, landing on 1 November.
 
-**The London Dungeon** has a Jack the Ripper scene among its scare-actor sets, but its Halloween 2026 page is still just a "coming soon" placeholder with no dates or prices live yet — worth checking [their listing](https://www.thedungeons.com/london/whats-inside/events/halloween/) again nearer the time.
+**The London Dungeon** has a Jack the Ripper scene among its scare-actor sets. Its Halloween 2026 dates and prices are not out yet — [check the listing](https://www.thedungeons.com/london/whats-inside/events/halloween/) nearer the time.
 
 ---
 

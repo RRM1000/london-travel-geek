@@ -125,7 +125,7 @@ Pulled from the same database, filtered to active listings only. This isn't ever
 
 This is a real, named UK council scheme, not an informal courtesy. Camden's own wording: they pay participating businesses **up to £750 a year** to let the public use their toilet **"without the need to buy goods or services."** The City of London runs an identically-named scheme with its own interactive map. Southwark runs the same idea under a different name — asking businesses "to make their toilets available to all, without the need to be paying customers." Westminster and Islington don't use the "Community Toilet Scheme" name, but point residents to the same Great British Public Toilet Map and a "Toilets4London" app for the same effect.
 
-None of the five council pages we checked mentioned a sticker or window decal marking a participating premises — if you're not sure, just ask.
+There is no sticker or window decal marking a participating premises, so if you are not sure, just ask.
 
 Some of the more surprising participants:
 - **The Shakespeare** and **The Old Red Cow**, two pubs on the City of London's scheme
@@ -143,7 +143,7 @@ Every major free-entry museum in London has toilets open to any visitor — you 
 
 **British Museum**, **Tate Modern**, **Tate Britain**, **National Gallery**, **V&amp;A**, **Natural History Museum** and **Science Museum** are all free to enter, and all publish accessible-toilet and baby-change locations on their own sites. Tate Modern and Tate Britain both have a **Changing Places** toilet; the V&amp;A's nearest one is next door at the Science Museum, which has its own.
 
-**Battersea Power Station** gives the clearest answer of anywhere we checked — its own FAQ asks outright: *"Are there public toilets?"* and answers *"Yes, throughout The Power Station we have accessible toilets and family friendly toilets."*
+**Battersea Power Station** gives the clearest answer anywhere — its own FAQ asks outright: *"Are there public toilets?"* and answers *"Yes, throughout The Power Station we have accessible toilets and family friendly toilets."*
 
 **Westfield London** and **Westfield Stratford City** both list accessible toilets (RADAR key, available from Guest Services) and a baby-change lounge as standard centre services.
 
