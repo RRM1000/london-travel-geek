@@ -31,7 +31,21 @@ type Event = {
   affiliateUrl?: string; affiliateNetwork?: string;
 };
 
-const list = (data.events as Event[]).filter((e: any) => e.guide === articleId);
+// DROP ANYTHING THAT HAS ALREADY FINISHED, rather than trusting the export to
+// have done it. export-events.mjs removes finished limited runs, but it only
+// knows what was true on the day it last ran - so a run that closed after the
+// export is still in the JSON, and the card was rendering "Last day" for a show
+// that shut a week ago. Annual fixtures are never dropped: once their edition
+// passes the export clears the dates and the card falls back to "returns the
+// August bank holiday weekend", which is still true.
+const ISO_TODAY = new Date().toISOString().slice(0, 10);
+function hasFinished(e: any) {
+  return Boolean(e.endsOn) && !e.annual && e.endsOn < ISO_TODAY;
+}
+
+const list = (data.events as Event[]).filter(
+  (e: any) => e.guide === articleId && !hasFinished(e),
+);
 
 const AGE_LABEL: Record<string, string> = {
   "over-18": "18+",
@@ -50,7 +64,18 @@ const fmt = (iso?: string) =>
     : "";
 
 const DAY = 864e5;
-const today = new Date(data.generated + "T00:00:00Z").getTime();
+// ANCHOR THE COUNTDOWN TO THE BUILD, NOT THE EXPORT. This read
+// data.generated, which is the day export-events.mjs last ran - so "10 days
+// left" was ten days from whenever the sheet was last pulled, and stayed
+// frozen at that number through every rebuild in between. On 4 September 2026
+// the export was eight days old and every countdown on the site was eight days
+// wrong. Using the build date makes it right at every deploy; the inline
+// script at the foot of this file then keeps it right between deploys.
+const today = Date.UTC(
+  new Date().getUTCFullYear(),
+  new Date().getUTCMonth(),
+  new Date().getUTCDate(),
+);
 const daysLeft = (iso?: string) =>
   iso ? Math.round((new Date(iso + "T00:00:00Z").getTime() - today) / DAY) : Infinity;
 
@@ -76,7 +101,14 @@ function when(e: Event) {
   // Annual events between editions carry no dates at all - the export strips
   // them once the year's run is over, precisely so the page cannot quote a date
   // that has been and gone. Typical When is what is left, and it is enough.
-  if (e.awaitingDates || (e.annual && !e.startsOn && !e.endsOn)) {
+  //
+  // BUT the export only strips them on the day it runs. Between exports a
+  // finished edition still has its dates, and this returned "Until 30 August
+  // 2026" for All Points East and "29-31 August 2026" for the Notting Hill
+  // Carnival - both read as upcoming, days after they had ended. So treat any
+  // annual whose end date has passed as awaiting dates, whatever the JSON says.
+  if (e.awaitingDates || (e.annual && !e.startsOn && !e.endsOn) ||
+      (e.annual && e.endsOn && e.endsOn < ISO_TODAY)) {
     return e.typicalWhen ? `Returns ${lower(e.typicalWhen)}` : "Returns annually";
   }
   // Not open yet: the whole range, with the "Not open yet" tag doing the work
@@ -105,16 +137,21 @@ function lower(s: string) {
 // silently swallows the rest of the component - the symptom is the <style>
 // block below being type-checked as TypeScript and every CSS property coming
 // back as "Cannot find name 'margin'".
+// notYetOpen is also computed at export time and goes stale the same way - an
+// event that opened last week still carries the flag. Recompute it here from
+// the start date rather than trusting what the export wrote.
 const cards = list.map((e) => {
+  const notYetOpen = Boolean(e.startsOn && daysLeft(e.startsOn) > 0);
   const left = daysLeft(e.endsOn);
   let urgency = "";
   if (e.annual && !e.endsOn) urgency = "";
-  else if (!e.notYetOpen && left <= 30) {
-    if (left <= 0) urgency = "Last day";
+  else if (!notYetOpen && left <= 30) {
+    if (left === 0) urgency = "Last day";
+    else if (left < 0) urgency = "";
     else if (left === 1) urgency = "1 day left";
     else urgency = `${left} days left`;
   }
-  return { e, urgency, when: when(e), age: AGE_LABEL[e.agePolicy ?? ""] ?? "" };
+  return { e, notYetOpen, urgency, when: when(e), age: AGE_LABEL[e.agePolicy ?? ""] ?? "" };
 });
 ---
 
@@ -132,12 +169,12 @@ const cards = list.map((e) => {
     </p>
 
     <ul class="ae-list">
-      {cards.map(({ e, urgency, when, age }) => (
-        <li class="ae-item">
+      {cards.map(({ e, notYetOpen, urgency, when, age }) => (
+        <li class="ae-item" data-ae-starts={e.startsOn} data-ae-ends={e.endsOn} data-ae-annual={e.annual ? "1" : undefined}>
           <div class="ae-head">
             <h3>{e.name}</h3>
-            {e.notYetOpen && <span class="ae-tag ae-soon">Not open yet</span>}
-            {urgency && <span class="ae-tag ae-ending">{urgency}</span>}
+            <span class="ae-tag ae-soon" data-ae-soon hidden={!notYetOpen}>Not open yet</span>
+            <span class="ae-tag ae-ending" data-ae-urgency hidden={!urgency}>{urgency}</span>
             {age && <span class="ae-tag ae-age">{age}</span>}
           </div>
 
@@ -224,3 +261,64 @@ const cards = list.map((e) => {
     opacity: 0.7;
   }
 </style>
+
+<script is:inline>
+  // KEEP THE COUNTDOWN HONEST BETWEEN DEPLOYS.
+  //
+  // Everything above is computed when the site builds. A static page served
+  // three weeks later would still be claiming "10 days left", because nothing
+  // recomputes it - which is exactly the bug this fixes. The dates ride on each
+  // <li> as data-ae-starts / data-ae-ends, so the browser can redo the sum
+  // against the reader's own clock.
+  //
+  // Progressive enhancement on purpose: the server-rendered tags are correct at
+  // build time and visible without JavaScript, and this only ever corrects them.
+  (function () {
+    var DAY = 864e5;
+    function midnightUTC(d) {
+      return Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate());
+    }
+    function daysTo(iso, now) {
+      return Math.round((Date.parse(iso + "T00:00:00Z") - now) / DAY);
+    }
+    function refresh() {
+      var now = midnightUTC(new Date());
+      var items = document.querySelectorAll("[data-ae-ends], [data-ae-starts]");
+      for (var i = 0; i < items.length; i++) {
+        var li = items[i];
+        var starts = li.getAttribute("data-ae-starts");
+        var ends = li.getAttribute("data-ae-ends");
+        var soonEl = li.querySelector("[data-ae-soon]");
+        var urgEl = li.querySelector("[data-ae-urgency]");
+
+        var notYetOpen = Boolean(starts) && daysTo(starts, now) > 0;
+        if (soonEl) soonEl.hidden = !notYetOpen;
+
+        if (!urgEl) continue;
+        // An annual fixture with no end date never carries a countdown.
+        if (!ends) { urgEl.hidden = true; continue; }
+
+        var left = daysTo(ends, now);
+        // Already finished. The build drops these, but a page left open or
+        // served from cache across the closing date would still be showing a
+        // card for a run that has ended - so hide the whole item, not just the
+        // tag. Annual fixtures carry no end date and never reach this branch.
+        if (left < 0 && li.getAttribute("data-ae-annual") !== "1") {
+          li.hidden = true;
+          continue;
+        }
+        if (notYetOpen || left > 30) { urgEl.hidden = true; continue; }
+        urgEl.textContent =
+          left === 0 ? "Last day" : left === 1 ? "1 day left" : left + " days left";
+        urgEl.hidden = false;
+      }
+    }
+    refresh();
+    // A tab left open across midnight, or restored from the back/forward cache,
+    // would otherwise keep yesterday's number.
+    document.addEventListener("visibilitychange", function () {
+      if (!document.hidden) refresh();
+    });
+    window.addEventListener("pageshow", refresh);
+  })();
+</script>
