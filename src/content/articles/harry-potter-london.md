@@ -116,8 +116,6 @@ The original two-part production ends its London run on 20 September 2026. From 
 ![The set of Harry Potter and the Cursed Child at the Palace Theatre: gothic arches and clock faces above a stack of trunks and suitcases in a shaft of blue light](../../assets/articles/harry-potter-london/cursed-child-palace-theatre.jpg)
 *The set is doing work before anyone walks on. The Palace was rebuilt around this production.*
 
-**Palace Theatre, Shaftesbury Avenue, London W1D 5AY.** Leicester Square is four minutes' walk, Tottenham Court Road five, Piccadilly Circus seven.
-
 ### Running time and schedule
 
 **About 2 hours 55 minutes including one interval.** No performance on Mondays. Tuesday 7pm; Wednesday 1pm and 7pm; Thursday 7pm; Friday 7pm; Saturday 1pm and 7pm; Sunday 2.30pm.
