@@ -170,8 +170,6 @@ Reedbed, lagoon and marsh in a loop of the Thames at Barnes, made out of four di
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-with-children-sea-life-london-aquarium-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="SEA LIFE London Aquarium tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Rides and running about
 
 ### Babylon Park, Camden
@@ -205,6 +203,8 @@ A guided walkthrough on the South Bank with live actors, built sets and a 4D fly
 > ⚠️ **The London Dungeon is in the same building** and is emphatically not the same thing — Merlin recommend it for 12+ and it genuinely frightens younger children.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-with-children-sea-life-london-aquarium-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="SEA LIFE London Aquarium tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The big attractions, and whether they are worth it with children
 
@@ -258,8 +258,6 @@ Expensive, always busy, and entirely about whether your child wants a photograph
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-with-children-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,505308,16403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## What to know
 
 * **The national museums are free.** The British Museum, Natural History Museum, Science Museum and Young V&A all cost nothing at the door — book the free timed ticket where one is offered.
@@ -269,6 +267,20 @@ Expensive, always busy, and entirely about whether your child wants a photograph
 * **Buggies are not always welcome.** Mail Rail bans them below ground, SEA LIFE has nowhere to leave one, and Young V&A and the British Museum both have somewhere to park one.
 * **Under-11s travel free** on the Tube, DLR and Elizabeth line with a fare-paying adult, and free on buses and trams at any time.
 * **Museums are quietest in the last two hours** before closing.
+
+---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-with-children-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,505308,16403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## The one pass that is genuinely aimed at families
+
+**Merlin's Magical London** covers **Madame Tussauds, SEA LIFE London, the London Dungeon, Shrek's Adventure and the London Eye** on one ticket, in any order, **valid 90 days from first activation** — so it does not force a route or a deadline on a trip with children in it.
+
+**From £69, against £132 for all five booked separately.** The number worth knowing is the break-even: two of them are cheaper bought direct, and it starts paying from the third.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="193412" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+Age is the thing to check before you buy, and two of the five are narrow: the **Dungeon is 12+** and **Shrek's Adventure is pitched at 6–12**, as covered above. If neither suits your children you are down to three attractions, which is exactly the break-even — so the pass stops being a saving and becomes a convenience.
 
 ---
 

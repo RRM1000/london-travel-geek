@@ -104,6 +104,14 @@ The South Bank has its own share of the commemorative plaques marking where nota
 
 ## Key streets and micro-districts
 
+### County Hall: three paid attractions in one building
+
+The Edwardian block beside the Eye holds **SEA LIFE London, the London Dungeon and Shrek's Adventure**, all Merlin-run and all indoors — which makes this the obvious wet-weather corner of the South Bank.
+
+Buying them one at a time is the expensive way. **Merlin's Magical London** covers all three plus the **London Eye** and **Madame Tussauds** in Marylebone, **from £69 against £132 separately**, valid 90 days. Two attractions are cheaper booked direct; from the third it pays.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="193412" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### Queen's Walk (London Eye to Southbank Centre)
 
 The busiest pedestrian stretch in Britain, and the one everybody pictures when they say South Bank: street performers, the Undercroft skate space, the second-hand book market under Waterloo Bridge, and a run of concrete arts buildings that people either love or walk straight past.

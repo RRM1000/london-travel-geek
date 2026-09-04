@@ -332,6 +332,30 @@ On a single short trip, half price at St Paul's and Kensington saves **£25.85**
 
 The London Eye and Madame Tussauds booked direct come to **£52.63**. £139 only works if you do all four London sites and expect to return during the year.
 
+### Merlin's Magical London — the one that does pay, from three attractions
+
+Not to be confused with the annual pass above. This is a single ticket to **five Merlin attractions — Madame Tussauds, SEA LIFE London, the London Dungeon, Shrek's Adventure and the London Eye** — in any order, **valid 90 days from first activation**, with free cancellation up to 24 hours before.
+
+**From £69.** Booked separately, at the cheapest price each is currently sold for, the five come to **£132**:
+
+| Attraction | Cheapest advance |
+| --- | --- |
+| London Eye | £29 |
+| SEA LIFE London | £28 |
+| Madame Tussauds | £27 |
+| London Dungeon | £27 |
+| Shrek's Adventure | £21 |
+| **All five separately** | **£132** |
+| **Merlin's Magical London** | **£69** |
+
+The 48% saving is not the number that matters, because hardly anyone wants all five. **The break-even is three.** The dearest possible pair — the Eye and SEA LIFE — is £57, still under the pass, so two attractions are always cheaper booked direct. The cheapest possible trio is £75, already over it. So it pays from the third, whichever three you pick.
+
+The 90-day window is the other half of the case, and it is where this beats The London Pass on its own terms: no consecutive-day clock, no need to cram. Prices are dynamic, so check the date you actually want.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="193412" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+> ⚠️ These are all Merlin attractions, and four of the five are indoor. If you want the Tower, Westminster Abbey and the palaces, this is the wrong pass — that is what the [London Pass comparison above](#what-the-passes-cost) is for.
+
 ### Just booking two or three direct
 
 The baseline, and for most readers the answer. Book in advance, on the attraction's own site, and you get the advance price rather than the walk-up price — which is where the real saving in London sightseeing lives. On the London Eye that gap is **£10 an adult**; on Madame Tussauds it is **£15.37**.
