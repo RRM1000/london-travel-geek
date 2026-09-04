@@ -41,22 +41,6 @@ So rather than add another opinion, we counted. Every restaurant below is ranked
 
 ## Where they are
 
-<details class="restaurant-map-shell" open>
-  <summary>
-    <span>Best burgers in London map</span>
-  </summary>
-  <div class="restaurant-map" data-restaurant-map="burgers-london" role="region" aria-label="Interactive map of the best burgers in London">
-    <p>Loading the interactive map…</p>
-  </div>
-  <div class="restaurant-map-legend" aria-label="Map key">
-    <span><i class="restaurant-map-key restaurant-map-key--editorial" aria-hidden="true"></i> Recommended in this guide</span>
-    <span><i class="restaurant-map-key restaurant-map-key--streetfood" aria-hidden="true"></i> Market stall, counter & food hall</span>
-  </div>
-  <noscript>
-    <p>The interactive map requires JavaScript. Nearest stations are listed against every entry below.</p>
-  </noscript>
-</details>
-
 | If you are near… | Where to eat |
 | --- | --- |
 | **Soho & Fitzrovia** | Supernova, Heard, Manna, Chuck's, Fat Hippo |

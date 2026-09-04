@@ -42,22 +42,6 @@ That is the problem with picking a cabaret night here. This is a form that runs 
 
 ## Where they are
 
-<details class="restaurant-map-shell" open>
-  <summary>
-    <span>Map of London's cabaret venues</span>
-  </summary>
-  <div class="restaurant-map" data-restaurant-map="cabaret-london" role="region" aria-label="Interactive map of cabaret venues in London">
-    <p>Loading the interactive map…</p>
-  </div>
-  <div class="restaurant-map-legend" aria-label="Map key">
-    <span><i class="restaurant-map-key restaurant-map-key--editorial" aria-hidden="true"></i> Theatres, seated rooms and dinner shows</span>
-    <span><i class="restaurant-map-key restaurant-map-key--streetfood" aria-hidden="true"></i> Bars, pubs and clubs</span>
-  </div>
-  <noscript>
-    <p>The interactive map requires JavaScript. Every venue below lists its address and nearest station.</p>
-  </noscript>
-</details>
-
 ---
 
 ## Still open, at a glance

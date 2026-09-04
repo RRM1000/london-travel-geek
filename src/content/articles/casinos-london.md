@@ -52,22 +52,6 @@ That is the trouble with most casino guides to London: they were written while t
 
 ## Where they are
 
-<details class="restaurant-map-shell" open>
-  <summary>
-    <span>Map of London's casinos</span>
-  </summary>
-  <div class="restaurant-map" data-restaurant-map="casinos-london" role="region" aria-label="Interactive map of casinos in London">
-    <p>Loading the interactive map…</p>
-  </div>
-  <div class="restaurant-map-legend" aria-label="Map key">
-    <span><i class="restaurant-map-key restaurant-map-key--editorial" aria-hidden="true"></i> Walk in — no membership</span>
-    <span><i class="restaurant-map-key restaurant-map-key--streetfood" aria-hidden="true"></i> Members and their guests only</span>
-  </div>
-  <noscript>
-    <p>The interactive map requires JavaScript. Every casino below lists its address and nearest station.</p>
-  </noscript>
-</details>
-
 ---
 
 ## Open, at a glance

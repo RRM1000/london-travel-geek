@@ -40,22 +40,6 @@ That is the actual problem with picking one. Every other guide to this subject i
 
 ## Where they are
 
-<details class="restaurant-map-shell" open>
-  <summary>
-    <span>Map of London's immersive experiences</span>
-  </summary>
-  <div class="restaurant-map" data-restaurant-map="immersive-london" role="region" aria-label="Interactive map of immersive experiences in London">
-    <p>Loading the interactive map…</p>
-  </div>
-  <div class="restaurant-map-legend" aria-label="Map key">
-    <span><i class="restaurant-map-key restaurant-map-key--editorial" aria-hidden="true"></i> Theatre, dining and attractions</span>
-    <span><i class="restaurant-map-key restaurant-map-key--streetfood" aria-hidden="true"></i> Projection, gaming and VR</span>
-  </div>
-  <noscript>
-    <p>The interactive map requires JavaScript. Every experience below lists its venue and nearest station.</p>
-  </noscript>
-</details>
-
 ---
 
 ## Still open, at a glance
