@@ -109,6 +109,10 @@ The sets are re-dressed on a yearly cycle: a winter dressing with snow on the Gr
 
 At £42.50 per adult on top of a £58.50 ticket, this is the priciest add-on most families consider — so here is the thing the photography does not make obvious. It is served in the Food Hall beneath the enchanted ceiling, and the operator states on its own booking page that **"This dining experience does not take place in the Great Hall set."** It is an add-on only, you cannot book it without a tour ticket, and you get a 90-minute table slot, so plan your entry time around it. Vegan, vegetarian and gluten-free menus exist, plus a children's version served in a miniature trunk.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="505308" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+---
+
 ## Harry Potter and the Cursed Child
 
 The original two-part production ends its London run on 20 September 2026. From **9 October 2026 the play runs as a single show in one sitting**, currently booking through late June 2027.

@@ -220,6 +220,9 @@ It has run for 32 years and **this year it is a new production** — a world pre
 
 **17 December 2026 – 10 January 2027.** Over a hundred dancers and musicians, with the ENB Philharmonic playing Tchaikovsky live — which is the argument for this one over a recording in a smaller room.
 
+![English National Ballet artwork for Nutcracker: a dancer in white mid-turn among oversized sweets, boiled sweets and candy canes on a pale blue ground](../../assets/articles/christmas-in-london/nutcracker-english-national-ballet.jpg)
+*English National Ballet's Nutcracker, at the Coliseum from mid-December.*
+
 **The Royal Ballet's Nutcracker at Covent Garden** runs every Christmas as well, and is the grander and more expensive of the two. Either works from about five upwards; both sell out early, so book the moment the dates open rather than in November.
 
 ### Pantomime
