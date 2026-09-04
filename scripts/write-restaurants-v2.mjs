@@ -412,6 +412,25 @@ const rows = [
     lists: "hot-pot",
     source: "Named by 7 of 17 domains in data/consensus/hot-pot.json - the most-cited venue in the topic. Address, phone and the walk-in note from its own Snappy booking page, checked 2026-09-03. CLOSING TIME NOT RECORDED: London Cheapo says 3am, leicestersquare.london says 11pm, and neither is the venue's own site.",
   },
+  // The second London Haidilao. Address and opening time from haidilaouk.com,
+  // checked 2026-09-04. Kept as its own row rather than a note on the
+  // Trocadero one so it gets its own map pin - the two are 40 minutes apart.
+  {
+    ...chi, slug: "haidilao-o2", name: "Haidilao",
+    style: "Sichuan hot pot chain", specialities: "hot-pot",
+    venueFormat: "Restaurant", chainType: "mini-chain", ownerGroup: "Haidilao",
+    hood: "Greenwich Peninsula", borough: "Greenwich", areaGuide: "greenwich-area-guide",
+    address: "Unit 7.0.9, The O2, Peninsula Square",
+    postcode: "SE10 0DX",
+    priceBand: "£££", bookingLead: "days",
+    whyGo: "The quieter of the two London Haidilaos, inside The O2 next to Nike and Costa. Same aprons, sauce bar and table-pulled noodles as the Trocadero, with a fraction of the queue on a night with nothing on at the arena.",
+    angle: "access",
+    opSummary: "Restaurant opens 11.30am daily, kitchen from 11am. Walk-ins are taken by phone number - staff text you when the table is ready rather than making you wait at the door.",
+    bookingRequirements: "Book ahead on arena event nights. Otherwise walk-ins are usually seated.",
+    goodFor: "groups, families, celebration",
+    lists: "hot-pot",
+    source: "Address, unit number and opening hours from haidilaouk.com/haidilao-london-o2/, checked 2026-09-04. Named alongside the Trocadero branch by the sources in data/consensus/hot-pot.json.",
+  },
   {
     ...chi, slug: "happy-lamb-holborn", name: "Happy Lamb Hot Pot",
     style: "Mongolian lamb hot pot", specialities: "hot-pot",

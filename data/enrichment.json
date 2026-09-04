@@ -5518,6 +5518,12 @@
     "walkMin": 5,
     "walkFrom": "Hackney Wick Rail Station"
   },
+  "haidilao-o2": {
+    "postcode": "SE10 0DX",
+    "lat": 51.502194,
+    "lng": 0.002819,
+    "ward": "Greenwich Peninsula"
+  },
   "haidilao-piccadilly": {
     "postcode": "W1D 7DH",
     "lat": 51.510955,

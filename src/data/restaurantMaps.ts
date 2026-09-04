@@ -466,6 +466,15 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       articleAnchor: "#haidilao-leicester-square",
     },
     {
+      name: "Haidilao",
+      area: "Greenwich Peninsula",
+      price: "£££",
+      latitude: 51.502194,
+      longitude: 0.002819,
+      type: "editorial",
+      articleAnchor: "#haidilao-leicester-square",
+    },
+    {
       name: "Happy Lamb Hot Pot",
       area: "Holborn",
       price: "££",

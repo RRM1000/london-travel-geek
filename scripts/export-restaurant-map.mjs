@@ -87,6 +87,12 @@ const MAPS = [
   {
     key: "hot-pot-london",
     list: "hot-pot",
+    // The O2 branch has a pin of its own - it is 40 minutes from Leicester
+    // Square and materially quieter - but no heading of its own, because it is
+    // written up inside the Haidilao section rather than as a second venue.
+    // Point it at that section instead of letting the exporter derive
+    // #haidilao-greenwich-peninsula, which does not exist.
+    anchors: { "haidilao-o2": "#haidilao-leicester-square" },
     // Every hot pot row is venueFormat "Restaurant" - even the pay-by-weight
     // malatang counters are sit-down rooms with table service on the drinks.
     streetFoodFormats: [],

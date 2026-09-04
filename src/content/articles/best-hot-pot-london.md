@@ -9,6 +9,8 @@ canonicalSite: london
 category: "Food and drink"
 tags: [restaurants, Chinese restaurants, Asian food, dining, Chinatown]
 draft: false
+heroImage: "../../assets/articles/best-hot-pot-london/split-pot.jpg"
+heroImageAlt: "A divided steel hot pot on a table burner, one half red with chilli and Sichuan pepper, the other a clear broth with cabbage, corn and rice cakes"
 faq:
   - q: "What is Chinese hot pot?"
     a: "A pot of broth is heated at your table and you cook raw ingredients in it yourself, a few pieces at a time, dipping each one in a sauce you mix at a self-service counter. It is a format rather than a dish, and the regional versions have little in common: a Chongqing pot is beef tallow and dried chilli, a Beijing copper pot is clear water and lamb. Nobody cooks for you, which is the point."
@@ -101,9 +103,16 @@ There is no award to win here, so this is not a ranking — it is agreement. The
 
 *£££ · Leicester Square · Cited by 7 sources · book a few days ahead*
 
+![A Haidilao table: a divided rectangular pot of mala and clear broth, raw plates of fish, beef and prawn paste, and a ring of dipping sauces and dry seasonings from the counter](../../assets/articles/best-hot-pot-london/haidilao-table.jpg)
+*The sauce counter is the part people underestimate — the bowls around the pot are all built from it, and they are included.*
+
 **The most-cited hot pot in London**, named by seven of the seventeen sources read for this page, and the one to start with if you have never done this. Sichuan broths — mala, tomato, mushroom, pork bone — with wagyu slices, prawn paste, tripe and duck blood if you want it, and a noodle order that arrives as a performance, one long strand stretched and whipped at the table.
 
-What you are actually paying for is the scaffolding. On arrival you get an apron, a hair tie and a fabric bag so your coat does not come out smelling of chilli oil; there is a tablet menu with pictures, a large sauce counter with printed recipes, and free snacks, board games and manicures for anyone waiting. Its own booking page says tables are always kept back for walk-ins, so a queue is not a locked door. Two London branches, at the Trocadero and The O2.
+What you are actually paying for is the scaffolding. On arrival you get an apron, a hair tie and a fabric bag so your coat does not come out smelling of chilli oil; there is a tablet menu with pictures, a large sauce counter with printed recipes, and free snacks, board games and manicures for anyone waiting.
+
+**You do not have to stand in the queue.** Its own booking page says tables are always held back for walk-ins, and when you put your name down the staff take your phone number and text you when your table is ready. At the Trocadero on a Friday that can be an hour, and it is an hour you can spend somewhere else in Soho rather than standing on Coventry Street.
+
+**There are two London branches, and the second one is the tip.** The original is at the Trocadero off Piccadilly Circus. The other is **inside The O2 at Greenwich Peninsula — Unit 7.0.9, SE10 0DX, next to Nike and Costa Coffee** — and it is materially quieter than Leicester Square most of the time, because the crowd there is arena traffic rather than passing trade. Go on a night with nothing on at the arena and you can often walk in. Go on a gig night and the reverse is true.
 
 ### Happy Lamb Hot Pot, Holborn
 

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-03",
- "count": 889,
- "withCoords": 822,
+ "generated": "2026-09-04",
+ "count": 890,
+ "withCoords": 823,
  "facets": {
   "cuisine": [
    {
@@ -17,7 +17,7 @@
    {
     "value": "Chinese",
     "slug": "chinese",
-    "count": 84
+    "count": 85
    },
    {
     "value": "Indian",
@@ -227,13 +227,13 @@
     "count": 12
    },
    {
-    "value": "Camden",
-    "slug": "camden",
-    "count": 11
-   },
-   {
     "value": "Greenwich",
     "slug": "greenwich",
+    "count": 12
+   },
+   {
+    "value": "Camden",
+    "slug": "camden",
     "count": 11
    },
    {
@@ -361,7 +361,7 @@
    {
     "value": "hot-pot",
     "slug": "hot-pot",
-    "count": 34
+    "count": 35
    },
    {
     "value": "deli",
@@ -493,7 +493,7 @@
    {
     "value": "£££",
     "slug": "price-3",
-    "count": 228
+    "count": 229
    },
    {
     "value": "£",
@@ -536,6 +536,41 @@
    ],
    "whyGo": "The Sichuan chain that turned hot pot into theatre - an apron, a hair tie and a bag for your coat on arrival, a sauce bar with recipe cards, and noodles pulled at the table.",
    "opNote": "Its own booking page states that tables are always held back for walk-ins. Two London sites, Piccadilly Circus and The O2.",
+   "lists": [
+    "hot-pot"
+   ],
+   "sourceCount": "7",
+   "sourceTiers": "B1 C4 D2",
+   "sourceUrls": "https://www.designmynight.com/london/blog/hot-pot-london | https://www.londonxlondon.com/best-hot-pot-london/ | https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/"
+  },
+  {
+   "slug": "haidilao-o2",
+   "name": "Haidilao",
+   "cuisine": "Chinese",
+   "style": "Sichuan hot pot chain",
+   "specialities": [
+    "hot-pot"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Greenwich Peninsula",
+   "zone": "2",
+   "district": "East",
+   "borough": "Greenwich",
+   "guide": "greenwich-area-guide",
+   "address": "Unit 7.0.9, The O2, Peninsula Square",
+   "postcode": "SE10 0DX",
+   "lat": 51.502194,
+   "lng": 0.002819,
+   "price": "£££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "families",
+    "celebration"
+   ],
+   "whyGo": "The quieter of the two London Haidilaos, inside The O2 next to Nike and Costa. Same aprons, sauce bar and table-pulled noodles as the Trocadero, with a fraction of the queue on a night with nothing on at the arena.",
+   "opNote": "Restaurant opens 11.30am daily, kitchen from 11am. Walk-ins are taken by phone number - staff text you when the table is ready rather than making you wait at the door.",
    "lists": [
     "hot-pot"
    ],
