@@ -63,13 +63,25 @@ This guide **says which are gone**, which is the single most useful thing a stre
 
 *Free · still in place*
 
-One of Banksy's **earliest surviving London rats**, on the railway bridge over Cannon Street — a reminder of how long he has been working here.
+One of Banksy's **earliest surviving London rats**, stencilled on the brick of the railway bridge carrying trains into Cannon Street — a reminder of how much of his early-2000s stencil work has been painted over, prised off or built on since.
+
+**Free, outdoors and visible from the pavement at any hour.** There is no marker, no protective perspex and nothing to tell you it is there, which is half the reason it has survived.
+
+It is on **Cannon Street railway bridge**, a two-minute walk from Cannon Street or Monument stations, and it is easiest to combine with the Basquiat pair at the Barbican and the "I Love London" rat on Chiswell Street — all three are within a fifteen-minute walk of each other.
+
+**Go on a weekend if you want the street to yourself.** This is the City, so the pavements are impassable at 8.30 on a weekday and deserted on a Sunday.
 
 ### The Basquiat pair, City of London
 
 *Free · still in place*
 
-Painted in **2017 to coincide with a Basquiat exhibition at the Barbican**: a ferris wheel reworking Basquiat's crown motif, and a police officer frisking a crowned figure. Both in the same tunnel, which makes them the easiest pair to see together.
+Painted in **2017 to coincide with a Basquiat exhibition at the Barbican**: a ferris wheel reworking Basquiat's crown motif, and a police officer frisking a crowned Basquiat-style figure — a pointed comment placed a few metres from the gallery showing his work.
+
+**Both are in the Beech Street tunnel** under the Barbican, which makes them the easiest Banksy pair in London to see together — they are perhaps thirty seconds apart.
+
+**Free, and they are among the best-preserved Banksy pieces in the city**, largely because the tunnel roof has kept the weather off them.
+
+> ⚠️ **Beech Street is a road tunnel, not a walkway.** There is a pavement, but it is narrow, loud and used by traffic, so it is an unpleasant place to linger. Go, look, photograph and move on. Barbican station is two minutes at the western end.
 
 ### The Foundry pair, Shoreditch
 
@@ -81,15 +93,27 @@ They are now mounted on the front of **art'otel London Hoxton**, which was built
 
 ### Fishing Boy, Bermondsey
 
-*Free · Thames Path*
+*Free · Thames Path · open at all hours*
 
-A 2008 piece right on the river path, showing a boy fishing.
+A 2008 piece showing a boy fishing, stencilled right on the **Thames Path at Bermondsey Wall** — part of a small cluster of riverside Banksy work along this stretch of the south bank.
+
+**It is free, outdoors and on a public riverside path that never closes**, which makes it one of the few pieces here you can see at any hour.
+
+**Do it as a walk rather than a destination.** The Thames Path runs east from Tower Bridge past Shad Thames and Butler's Wharf, and the piece is about fifteen minutes along it — with the Angel pub and the remains of Edward III's manor house on the same stretch.
+
+Bermondsey station on the Jubilee line is about ten minutes inland; London Bridge is fifteen minutes west along the river.
 
 ### Elephants, Chelsea
 
-*Free*
+*Free · still in place · one of the 2024 animal series*
 
-Two elephant heads stencilled reaching toward one another from **a pair of bricked-up windows**.
+Two elephant heads stencilled reaching toward one another from **a pair of bricked-up windows**, so the bricked openings read as the space between them. One of the most visually striking and best-preserved pieces of the nine-day August 2024 animal series, and **one of only three still in place**.
+
+It is at the junction of **Edith Terrace and Edith Grove**, off the western end of the King's Road — residential, unmarked, and a good twenty-five minutes' walk from Sloane Square.
+
+**Free and visible from the pavement at any hour**, but this is a quiet residential street where people live, so look rather than linger.
+
+**Take the bus.** The 11, 19 and 22 run the length of the King's Road, and there is no station at this end — which is exactly why so few people who read about this piece ever go and see it.
 
 ---
 
@@ -135,7 +159,11 @@ Banksy put up nine animal works across London over nine days in August 2024. **S
 
 The newest Banksy in London and the easiest to see. A suited figure stepping down off his plinth, holding a flag that blows back and covers his own face. It went up overnight on **29 April 2026** near Trafalgar Square and he confirmed it three days later.
 
-**Westminster City Council has spent almost £60,000 on it** and is still deciding whether to make it permanent. It stands behind barriers, in the open, free to walk up to.
+**Westminster City Council has spent almost £60,000 on it** and is still deciding whether to make it permanent. It stands behind barriers, in the open, free to walk up to at any hour.
+
+**It is the one to see if you only see one.** No ticket, no fence to peer through, no residential street to feel awkward on, and it is **two minutes from Piccadilly Circus and five from Trafalgar Square** — so it costs you nothing but the walk.
+
+**Go soon rather than eventually.** Nothing about its future is settled: the council has not committed to keeping it, and the barriers are a holding measure rather than a decision.
 
 ### The Finsbury Park tree
 
@@ -143,7 +171,13 @@ The newest Banksy in London and the easiest to see. A suited figure stepping dow
 
 Green paint sprayed across a wall behind a **pollarded cherry tree**, so the wall reads as the foliage the tree has lost. It was defaced with white paint within days; Islington Council fenced it, installed CCTV and sent patrols.
 
-Still there, still fenced, still damaged. It is on Hornsey Road in **Islington** — a lot of guides put it in Hackney.
+Still there, still fenced, still damaged. It is on **Hornsey Road in Islington** — a lot of guides put it in Hackney, which will send you a mile and a half the wrong way.
+
+**Free and visible from the pavement**, but the fencing and the CCTV mean you are looking at it through a barrier rather than standing in front of it, and the white paint over the green is not coming off.
+
+**The tree is the point and it changes with the seasons.** The piece only works when the cherry is bare, because the green wall behind is standing in for the foliage it has lost — **go between November and March** and it reads as intended. In summer the real leaves come back and the joke disappears.
+
+Finsbury Park station is about ten minutes' walk.
 
 ### Stargazing Children — two versions
 
@@ -151,8 +185,10 @@ Still there, still fenced, still damaged. It is on Hornsey Road in **Islington**
 
 Two identical murals of children lying on their backs, one pointing upward, widely read as a comment on the housing crisis. Often listed with the animal series; they came more than a year later.
 
-* **New Oxford Street**, in front of Centre Point — behind transparent protection, and damaged, but visible.
-* **Queen's Mews, Bayswater** — **boarded over.** It physically survives and you cannot see it.
+* **New Oxford Street**, in front of Centre Point, at the northern tip of Soho where it meets St Giles — behind transparent protection, and damaged, but visible. Free, on a public pavement, **two minutes from Tottenham Court Road station**, and the only one of the two you can actually see.
+* **Queen's Mews, Bayswater** — **boarded over.** It physically survives behind the boarding and you cannot see any of it. There is nothing to photograph and no way in; do not make the journey.
+
+**So there is one to visit, not two.** Guides that list both as attractions are describing a wall you cannot look at.
 
 ### Royal Courts of Justice, the Strand
 
@@ -170,7 +206,13 @@ Banksy is a fraction of it, and the rest is more interesting.
 
 *Free · legal · always changing*
 
-A tunnel under Waterloo station where graffiti is **legal and repainted continuously**. The only place in London where you can reliably watch work being made rather than just look at it. There are bars and a bowling alley in the arches off it.
+A three-hundred-metre tunnel under Waterloo station where graffiti is **legal and repainted continuously**. It is the only place in London where you can reliably watch work being made rather than just look at it — on any given afternoon somebody is painting, and they are happy to be watched.
+
+**Free, open at all hours, and roofed**, which makes it one of the best wet-weather hours in central London. Nothing lasts: a wall painted this morning may be gone by Friday, so what you photograph is genuinely yours alone.
+
+**Bring nothing and buy nothing** — there is no shop, no ticket and no guide. There are bars, a bowling alley and a restaurant in the arches off it if you want to stay.
+
+**It is two minutes from Waterloo station**, down the ramp off Lower Marsh, and the entrance is easy to miss.
 
 > **The rules, which are published and almost never mentioned.** Painting here is not merely tolerated, it is actively encouraged, and you do not need permission. But discriminatory content and **political messaging** are both removed, as is unauthorised advertising. Keep noise down after 10pm. Organised events, filming and photoshoots need clearing in advance. And anything you paint may be painted over within days — the tunnel is managed by Platform4, and that is the deal.
 >
@@ -178,21 +220,39 @@ A tunnel under Waterloo station where graffiti is **legal and repainted continuo
 
 ### Shoreditch and Brick Lane
 
-*Free*
+*Free · best on a Sunday · walkable in two hours*
 
-The densest concentration in London, and it changes month to month. Rivington Street, Redchurch Street and the Brick Lane side streets are the core.
+The densest concentration in London, and it changes month to month. **Rivington Street, Redchurch Street, Hanbury Street and the Brick Lane side streets** are the core, and you can walk the lot in about two hours without a guide.
+
+**Rivington Street is where the Banksys are.** The former Cargo courtyard holds *His Master's Voice* and the *Guard Dog*, and two more — the **knife-and-fork rat** and the **television out of a window** — are mounted on the front of **art'otel London Hoxton** on the Great Eastern Street corner. All are outdoors, free, and visible from the pavement without going into the hotel.
+
+**The Pink Car is at the Old Truman Brewery**, right on Brick Lane, which makes it easy to combine with the market and the curry houses.
+
+**Sunday is the day.** Brick Lane, Columbia Road and Spitalfields markets all run, the streets fill, and the area is at its best. Shoreditch High Street and Liverpool Street are both a few minutes' walk.
 
 ### Hackney Wick
 
-*Free*
+*Free · canal towpath · open at all hours*
 
-Large-scale murals along the canal towpath, and a working artists' community that keeps producing them.
+Large-scale murals along the **Lee Navigation towpath**, on warehouse walls and canal bridges, produced by a working artists' community rather than commissioned for tourists — which is why the scale and the standard are both higher than Shoreditch and the crowd is a fraction of it.
+
+**Walk it from Hackney Wick station south to the Olympic Park**, about twenty-five minutes, and the murals are more or less continuous. The towpath is flat, free and never closes.
+
+**It is a genuinely different experience from Shoreditch.** Nobody is running tours here, there is no map, and much of the best work faces the water rather than the street — so you see it from the towpath and not from anywhere else.
+
+The warehouses hold breweries and canalside bars that open at weekends and are mostly shut midweek. Hackney Wick on the Overground is the station.
 
 ### Camden
 
-*Free*
+*Free · busiest at weekends*
 
-The Stables Market walls and the canal bridges, plus the Amy Winehouse mural on Camden Road.
+The **Stables Market** walls and the canal bridges either side of Camden Lock, plus a run of shop-front murals along Camden High Street that have been repainted more times than anyone has counted.
+
+**The Amy Winehouse mural is the one people come for.** Pegasus's *Fallen Angel*, showing her as a winged figure, is on the side of the canalside visitor information centre at **Camden Lock Place** — the wall became an unofficial shrine after her death and people still leave things at it. There is also a bronze statue of her in the Stables Market.
+
+**Free and outdoors**, but the market buildings around it keep retail hours and the lanes are impassable on a Saturday afternoon.
+
+**Come on a weekday morning** if you want to photograph anything, or arrive by canal — the towpath from Little Venice takes about an hour and puts you in beside the lock.
 
 ---
 
@@ -202,31 +262,61 @@ The Stables Market walls and the canal bridges, plus the Amy Winehouse mural on 
 
 James Cochran's **Aladdin Sane portrait** on the side of Morleys, painted in 2013 and now a permanent shrine — flowers appear against it every January.
 
-It is behind protective glass and has been **locally listed by Lambeth Council since 2016**, so it cannot be altered or demolished without planning permission. Almost uniquely for London street art, this one is not going anywhere.
+It is behind protective glass and has been **locally listed by Lambeth Council since 2016**, so it cannot be altered or demolished without planning permission. Almost uniquely for London street art, this one is not going anywhere — which makes it the only entry on this page you can plan a trip around months ahead.
+
+**Free, outdoors, on a public pavement, and lit at night.** It is on the Tunstall Road side of Morleys department store, **thirty seconds from Brixton station**, so it needs no detour at all.
+
+**Go in January if you want to see what it means to people.** Flowers, candles and notes appear against it around the anniversary of his death, and the pavement in front becomes a shrine.
+
+Brixton Village and Pope's Road murals are five minutes away if you want to make a walk of it.
 
 ### Walthamstow
 
 *Free · Wood Street Walls*
 
-One of the real hubs of large-scale London street art, built up over a decade by the **Wood Street Walls** project, which has put dozens of community-backed murals on gable ends across E17. It also has the best-surviving Banksy in the city.
+One of the real hubs of large-scale London street art, built up over a decade by the **Wood Street Walls** project, which has put dozens of community-backed murals on gable ends across E17 — negotiated with residents rather than imposed, which is why they have lasted.
+
+**It also has one of the three surviving pieces from Banksy's 2024 animal series**: the **Pelicans on Pretoria Avenue**, two birds painted above a fish and chip shop and seemingly eyeing up the fish inside. Free, outdoors and still in place.
+
+**The murals are spread across residential E17 rather than concentrated**, so this is a walk of an hour or more rather than a single street. Wood Street and Walthamstow Central are the two stations, about fifteen minutes apart on foot.
+
+**Combine it with Sunday.** Walthamstow's market — the longest daily street market in Europe — runs along the High Street, and God's Own Junkyard, the neon warehouse, opens Friday to Sunday only.
 
 ### Dulwich
 
 *Free · the Dulwich Outdoor Gallery*
 
-The quiet alternative to east London, and much the strangest idea. International street artists were invited to reinterpret **Baroque Old Masters from the Dulwich Picture Gallery collection**, and the results are scattered through ordinary residential streets. Founded by the late Ingrid Beazley.
+The quiet alternative to east London, and much the strangest idea on this page. International street artists were invited to reinterpret **Baroque Old Masters from the Dulwich Picture Gallery collection**, and the results are painted on gable ends and garage doors through ordinary residential streets. Founded by the late Ingrid Beazley.
+
+**The point is the pairing.** You are looking at a Murillo or a Poussin rendered at four metres on the side of a suburban house, a few minutes from the gallery that owns the original — so the trip works best if you do the gallery first and then walk out to find them.
+
+**Free and outdoors, but you need the map.** The pieces are scattered and unmarked, and without the Dulwich Outdoor Gallery's own trail you will find two and miss ten.
+
+**Dulwich Picture Gallery is closed on Mondays**, which is worth checking since it is the anchor. West Dulwich is about twelve minutes by train from Victoria.
 
 ### Croydon
 
 *Free · RISE Gallery and the Croydon Collection*
 
-Genuinely underrated and rarely walked by visitors. RISE Gallery, founded in 2014, brokered most of it — negotiating between artists and building owners to get work up. **The Croydon Collection** is the umbrella name for the borough's permanent murals.
+Genuinely underrated and rarely walked by visitors, which is the whole recommendation. RISE Gallery, founded in 2014, brokered most of it — negotiating between artists and building owners rather than painting illegally — and **The Croydon Collection** is the umbrella name for the borough's permanent murals.
+
+**The scale is what surprises people.** These are full building-side works on office blocks and car parks rather than shutter art, and several are visible from the tram.
+
+**Free, outdoors, and concentrated enough to walk in an hour** around the town centre, which is a different proposition from Dulwich's scattered trail.
+
+**East Croydon is fifteen minutes from Victoria or London Bridge** and considerably faster than most of the outer entries here — it is closer in journey time than Walthamstow or Penge, which is not what anyone expects.
 
 ### Penge
 
-*Free · Penge High Street*
+*Free · Penge High Street · open at all hours*
 
-Dozens of murals along and around the high street, coordinated locally over several years.
+Dozens of murals along and around the high street, coordinated locally over several years rather than commissioned in one go — which is why the styles vary so much and why they keep appearing.
+
+**This is the least visited entry on this page by a wide margin**, and that is the appeal: an ordinary south London high street that decided to paint itself, with no tour groups and nothing charging admission.
+
+**Free, outdoors and permanently accessible**, and it takes about forty minutes to walk the lot.
+
+**Penge East and Penge West are different stations on different lines** — East for Victoria and Blackfriars, West for London Bridge and the Overground — and they are about ten minutes apart, so check which one your train actually serves before setting off.
 
 ---
 
