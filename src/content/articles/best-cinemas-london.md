@@ -94,7 +94,13 @@ The 2002 refit is what people come for: **98 leather armchairs**, some with foot
 
 *2 Television Centre, 101 Wood Lane, W12 7FR*
 
-The second Electric, inside **BBC Television Centre** — the building that made Top of the Pops, Doctor Who and Blue Peter between 1960 and 2013, with artwork on the walls drawn from that history. Same armchair-and-sofa format, a proper kitchen rather than a snack counter, and far easier to get into than Portobello.
+The second Electric, inside **BBC Television Centre** — the building that made Top of the Pops, Doctor Who and Blue Peter between 1960 and 2013, with artwork on the walls drawn from that history.
+
+Same armchair-and-sofa format as Portobello, a proper kitchen rather than a snack counter, and **far easier to get into** — which is the practical reason to choose it. The Portobello original sells out days ahead; this one rarely does.
+
+**Book a specific seat rather than a ticket.** Armchairs, sofas and double beds are priced differently and the layout matters more than in a normal cinema.
+
+**2 Television Centre, W12 7FR**, five minutes from White City on the Central line and about the same from Wood Lane.
 
 ### BFI Southbank
 
@@ -108,7 +114,13 @@ It is also **the only cinema in the UK licensed to publicly screen nitrate film*
 
 *South Bank · the biggest screen in Britain*
 
-A freestanding glass drum on the roundabout north of Waterloo station, and **the largest cinema screen in the UK** by the BFI's own measure. One of only three UK cinemas that can still show genuine 70mm IMAX film.
+A freestanding glass drum on the roundabout north of Waterloo station, and **the largest cinema screen in the UK** by the BFI's own measure — one of only three cinemas in the country that can still project genuine **70mm IMAX film** rather than digital.
+
+**That distinction is the whole reason to come.** Most screens marketed as IMAX are digital and a fraction of the size; this one runs the real format when a film is released in it, which is a handful of titles a year.
+
+**Sit further back than feels right.** The screen is over twenty metres high and the front third of the auditorium is too close to take it in.
+
+**It is reached by subway from Waterloo**, not across the roundabout — follow the signs from the station rather than trying to cross.
 
 ![The cylindrical glass exterior of the BFI IMAX cinema at Waterloo](../../assets/articles/best-cinemas-london/bfi-imax.jpg)
 
@@ -140,7 +152,11 @@ It has since built a second screen, a kitchen and an all-day café, and runs on 
 
 One of London's newest independents, opened in 2022 on Parker Street, a back street genuinely between Holborn and Covent Garden rather than in either. **Three screens (40, 60 and 70 seats)** run curated seasons alongside new releases from around the world, with regular post-screening discussions with filmmakers.
 
-Membership is £25 a year and includes a free screening every fortnight — one of the cheaper ways into a repertory programme this deep anywhere in London.
+Membership is **£25 a year and includes a free screening every fortnight** — which pays for itself in about three visits and is one of the cheaper ways into a repertory programme this deep anywhere in London.
+
+**There is a bar downstairs open to anyone**, ticket or not, which is unusual for an independent this size and makes the building usable without a booking.
+
+**Parker Street is genuinely hard to find**, tucked between Kingsway and Drury Lane. Holborn and Covent Garden stations are each about five minutes, and neither signposts it.
 
 ![One of The Garden Cinema's two art deco bars, with a curved red bar front, a comic-book mural and red banquette seating](../../assets/articles/best-cinemas-london/garden-cinema-bar.jpg)
 
@@ -162,13 +178,25 @@ Forty seats, reel-to-reel **35mm and 16mm**, and behind it a **lending library o
 
 The most serious film institution in London that most Londoners have never heard of.
 
+**The library is the part people miss.** It is a genuine lending library you can join and borrow from, not an archive you look at — which makes this the only entry here you can use without buying a ticket.
+
+**Forty seats means it sells out**, and the programme is repertory and one-off rather than runs, so a film you want may screen once. Book when you see it listed.
+
+**On Sclater Street**, two minutes from Shoreditch High Street and five from Brick Lane.
+
 ### Genesis Cinema, Mile End
 
 *5 screens · £4.99 Monday to Wednesday*
 
 Built on the site of Frank Matcham's 1885 Paragon Theatre, converted at a cost of £3m and reopened as a five-screen cinema in 1999, with a dedicated **35mm strand**.
 
-**Tickets are £4.99 Monday to Wednesday** on the standard screens — the cheapest cinema ticket in this guide by a distance, and it is not a stripped-back experience.
+**Tickets are £4.99 Monday to Wednesday** on the standard screens — the cheapest cinema ticket in this guide by a distance, and it is not a stripped-back experience: five screens, a bar, and a dedicated 35mm strand.
+
+**The £4.99 is the reason to plan around a weekday.** Thursday to Sunday it prices normally, so the same film in the same seat costs considerably more three days later.
+
+**It has a bar and a cafe that operate independently of the screenings**, so you can use the building without a ticket — unusual outside the Barbican and the BFI.
+
+**Mile End is five minutes away** on the Central, District and Hammersmith & City lines, which makes it far easier to reach than its east London address suggests.
 
 ![The foyer of the Genesis Cinema, with the box office counter, a staircase to the bar and strings of coloured lights overhead](../../assets/articles/best-cinemas-london/genesis-cinema-foyer.jpg)
 
@@ -180,7 +208,13 @@ Built on the site of Frank Matcham's 1885 Paragon Theatre, converted at a cost o
 
 Three screens split between the Centre itself and Beech Street, seating 288, 156 and 156, inside a Grade II-listed brutalist complex the City of London gave to the nation at a cost of £161 million, opened by the Queen in 1982.
 
-The Barbican runs one of the most ambitious repertory programmes in London, tagging the **35mm** prints in its listings — rarer than it should be — alongside pay-what-you-can screenings and a members' series most guides never mention.
+The Barbican runs one of the most ambitious repertory programmes in London, **tagging the 35mm prints in its listings** — rarer than it should be, and it means you can filter for film rather than digital before booking.
+
+**Mondays are £6.50**, and there are pay-what-you-can screenings alongside a members' series most guides never mention.
+
+> ⚠️ **The three screens are in two different buildings.** Cinema 1 is inside the Centre; Cinemas 2 and 3 are on Beech Street, a few minutes away through the estate. Check which is on your ticket, because finding the second pair from the first is not quick.
+
+**Follow the yellow line painted on the pavement** from Barbican station — the estate is genuinely difficult to navigate and the line exists because of it.
 
 ### Phoenix Cinema, East Finchley
 
@@ -196,15 +230,25 @@ Saved from demolition in 1983 and now run as a registered charity.
 
 *2 screens · a social enterprise*
 
-Seventy-five seats, opened in 2008, and run largely by volunteers under a **legal covenant to donate 100% of distributable profits** to a charity in South Africa.
+Seventy-five seats, opened in 2008, and run largely by volunteers under a **legal covenant to donate 100% of distributable profits** to the Sustainability Institute in South Africa. Not a percentage, not the profits they choose to give — all of them, by covenant.
 
 The most straightforwardly good thing on this page, and a proper cinema besides.
+
+**Seventy-five seats is small**, so popular screenings go, and the programme mixes new releases with one-off events rather than running films for weeks.
+
+**Kensal Rise is the station**, on the Overground, about five minutes' walk — which is the catch: it is not on the Tube, and from central London it is a change at Willesden Junction or a bus.
 
 ### Ciné Lumière, South Kensington
 
 *2 screens · inside the Institut français*
 
-French and world cinema, usually subtitled, inside the Institut français on Queensberry Place — the best place in London to see a French release without waiting for a UK distributor.
+French and world cinema, usually subtitled, inside the Institut français on Queensberry Place — **the best place in London to see a French release without waiting for a UK distributor**, and often the only place a given title screens at all.
+
+**You do not need to speak French.** Almost everything is subtitled in English, which people assume otherwise and stay away.
+
+**The building has a cafe and a French bookshop** open to anyone, so it works as a stop rather than only as a booking.
+
+**Two minutes from South Kensington station** and about the same from the V&A and the Natural History Museum — the easiest cinema in this guide to fold into a museum day.
 
 > ⚠️ **Mid-refurbishment.** A three-stage renovation runs across the summers of **2026, 2027 and 2028**, closing the building for several weeks each time. Check before travelling in July and August.
 
@@ -212,15 +256,25 @@ French and world cinema, usually subtitled, inside the Institut français on Que
 
 *3 screens · the former recording studio*
 
-The Olympic recording studio in Barnes — where the Rolling Stones, Led Zeppelin and Hendrix all recorded — converted into a cinema with a 17-seat members' screening room.
+The Olympic recording studio in Barnes — where the Rolling Stones, Led Zeppelin and Hendrix all recorded, and where the Stones cut *Sympathy for the Devil* — converted into a cinema with a 17-seat members' screening room.
 
-The most expensive on this page: **£15 for a weekday matinee, rising to £18.95**.
+**The most expensive on this page: £15 for a weekday matinee, rising to £18.95.** For that you get a dining room, a bar and armchair seating rather than a screen and a queue.
+
+**It is the hardest to reach in this guide.** Barnes is south-west and not on the Tube — mainline from Waterloo to Barnes Bridge, then a walk — so this is a destination trip rather than a drop-in.
+
+**Weekday matinees are the value**, and the building is worth seeing whether or not you care what was recorded in it.
 
 ### The Ritzy, Brixton
 
 *5 screens · opened 1911*
 
-Opened on **11 March 1911** as the Electric Pavilion with over 750 seats, and now five screens on Brixton Oval. **Happy Mondays** runs all day every Monday outside bank holidays, and **all child tickets are £3**.
+Opened on **11 March 1911** as the Electric Pavilion with over 750 seats, and now five screens on Brixton Oval — one of the oldest continuously running cinemas in Britain.
+
+**Happy Mondays runs all day every Monday outside bank holidays**, and **all child tickets are £3** every day, which makes it much the cheapest family option in this guide.
+
+**The cafe and bar are open to anyone without a ticket** and run late with live music some nights, so the building works as a venue rather than only a cinema.
+
+**Brixton station is two minutes away** on the Victoria line, and the market arcades are directly opposite — which makes this the easiest cinema here to build an evening around.
 
 ---
 
@@ -232,11 +286,23 @@ Opened on **11 March 1911** as the Electric Pavilion with over 750 seats, and no
 
 An independent showing **current releases for £6.99**, plus a 60p booking fee — in central London the same money barely buys a drink. It has been undercutting the chains for years and shows no sign of stopping.
 
+**The price is flat.** No peak pricing, no weekend surcharge, no premium seats — £6.99 is £6.99 on a Saturday night, which is the thing that makes it remarkable rather than merely cheap.
+
+**It is a proper multiplex rather than an arthouse**, showing what everyone else is showing, so this is where you see a blockbuster rather than a restoration.
+
+**Peckham Rye is five minutes away**, and Rye Lane, Frank's Cafe and Old Spike are all within ten — so it slots into a Peckham afternoon rather than needing one of its own.
+
 ### Everyman Screen on the Canal, King's Cross
 
 *Free · summer*
 
-Films projected beside the canal in summer, watched from the towpath steps, **for nothing**. The rare free outdoor cinema.
+Films projected beside the canal in summer, watched from the **canal steps below Granary Square**, for nothing. The rare genuinely free outdoor cinema — no ticket, no booking, no minimum spend.
+
+**Bring something to sit on.** The steps are stone, they get cold, and there is no seating provided — which is the trade for it being free.
+
+**It runs in summer only** and the programme is announced a few weeks ahead rather than months, so check close to the date rather than planning around it.
+
+**King's Cross St Pancras is five minutes**, and the steps are the best free seat in the area even when nothing is being shown.
 
 ### Rooftop Cinema Club, Peckham
 
@@ -244,7 +310,11 @@ Films projected beside the canal in summer, watched from the towpath steps, **fo
 
 A working open-air cinema on top of the **Bussey Building** on Rye Lane, a couple of minutes from Peckham Rye station, open **May to September**. New releases and cult favourites from deckchairs, with headphones rather than a PA system, and themed nights beyond the standard listings — a *Sex and the City* mini-marathon, a *Trainspotting* screening paired with a Sofar Sounds set.
 
-Popular slots sell out; a waitlist opens once a screening does.
+Popular slots sell out and **a waitlist opens once a screening does**, so a full listing is not necessarily the end of it.
+
+**Dress for it.** This is a roof in the open air with deckchairs and blankets rather than a heated room, and a warm May evening turns cold by the time the credits run — the headphones keep the sound but not the weather off.
+
+**May to September only**, and it is on the same building as the Bussey Building's other venues, so there is somewhere to go afterwards. Peckham Rye is a couple of minutes away.
 
 ---
 
