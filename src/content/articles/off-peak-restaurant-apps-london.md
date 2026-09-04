@@ -17,12 +17,8 @@ tags:
   - food and drink
   - money saving
 draft: false
-heroImage: "../../assets/articles/off-peak-restaurant-apps-london/bar-shu-frith-street-soho.jpg"
-heroImageAlt: "The corner of Frith Street and Romilly Street in Soho, with the red awnings of Bar Shu below a brick building, the street empty"
-heroImageCredit: "Ewan Munro"
-heroImageSource: https://commons.wikimedia.org/wiki/File:Bar_Shu,_Soho,_W1_(7293680792).jpg
-heroImageLicense: "CC BY-SA 2.0"
-heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
+heroImage: "../../assets/articles/off-peak-restaurant-apps-london/empty-dining-room.jpg"
+heroImageAlt: "An empty restaurant dining room in the evening, tables laid with wine glasses and napkins under warm lighting, every chair unoccupied"
 faq:
   - q: "Is First Table worth the booking fee?"
     a: "On a decent-sized food bill, comfortably. The fee is £6 for two people at most London restaurants, £3 or £4 per person, and it buys 50% off the food. On an £80 food bill you save £40 and pay £6, so you are £34 up. On a £30 food bill you save £15 and pay £6, which is a much thinner deal. The fee is charged per booking, not per person, and it is never refunded."

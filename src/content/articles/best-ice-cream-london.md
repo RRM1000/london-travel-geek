@@ -2,12 +2,8 @@
 title: "The Best Ice Cream in London: Gelato, Soft Serve and Cult Queues"
 seoTitle: "Best Ice Cream London 2026: Gelato, Vegan & Cult Parlours"
 description: "London's best gelaterias, the Clapham queue that stretches to the tube, a Filipino ube parlour, and the vegan oat-milk maker in a Crystal Palace courtyard that opens two days a week."
-heroImage: "../../assets/articles/best-ice-cream-london/best-ice-cream-london.jpg"
-heroImageAlt: "A gelato display cabinet filled with tubs of different coloured ice creams"
-heroImageCredit: "Jonathan Cooper"
-heroImageSource: "https://www.pexels.com/photo/containers-of-ice-cream-on-display-10175400/"
-heroImageLicense: "Pexels License"
-heroImageLicenseUrl: "https://www.pexels.com/license/"
+heroImage: "../../assets/articles/best-ice-cream-london/covent-garden-ice-cream-van.jpg"
+heroImageAlt: "A traditional ice cream van painted cream and pink parked beside a red telephone box on the cobbles at Covent Garden, its menu board covered in cones and lollies"
 publishedAt: 2026-08-25
 sites: [london]
 canonicalSite: london

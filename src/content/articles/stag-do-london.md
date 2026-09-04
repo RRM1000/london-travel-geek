@@ -16,8 +16,8 @@ tags:
   - things to do
   - London experiences
 draft: false
-heroImage: "../../assets/articles/stag-do-london/karting-race.jpg"
-heroImageAlt: "Three racing karts cornering in close formation on an outdoor circuit, the leading driver in a blue suit and patterned helmet"
+heroImage: "../../assets/articles/stag-do-london/pub-table-beers.jpg"
+heroImageAlt: "A group of men around a wooden pub table with glasses of beer, bottles, crisps and a dish of nuts between them"
 heroImageCredit: "Matt Brown"
 heroImageSource: https://commons.wikimedia.org/wiki/File:Inside_Flight_Club.jpg
 heroImageLicense: "CC BY 2.0"
