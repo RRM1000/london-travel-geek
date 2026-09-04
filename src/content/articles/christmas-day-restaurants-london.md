@@ -14,6 +14,8 @@ tags:
   - food and drink
   - Christmas dinner
 draft: false
+heroImage: "../../assets/articles/christmas-day-restaurants-london/christmas-table.jpg"
+heroImageAlt: "A Christmas table laid with a roast bird in a glass dish, a tiered iced cake, candles, cupcakes and pine foliage, with a decorated tree behind"
 faq:
   - q: "Are restaurants open in London on Christmas Day?"
     a: "Very few. Nearly all of London's independent restaurants close on 25 December, and what stays open is mostly hotel dining rooms, a handful of pubs, and a few chains. Almost all of it is a fixed-price set menu booked and paid for in advance — you cannot walk in anywhere."

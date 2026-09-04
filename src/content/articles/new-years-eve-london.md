@@ -15,6 +15,8 @@ tags:
   - London experiences
   - transport
 draft: true
+heroImage: "../../assets/articles/new-years-eve-london/thames-fireworks.jpg"
+heroImageAlt: "Fireworks bursting in red and blue over the Thames at night, with the London Eye, the Golden Jubilee Bridges and the Elizabeth Tower lit below"
 faq:
   - q: "Do you need a ticket for the London New Year's Eve fireworks?"
     a: "Yes. The Mayor of London's display is a paid, ticketed event with six fenced viewing areas along the Thames, and City Hall's own wording is blunt: you cannot attend without a ticket, and people without one will not be allowed into the viewing areas. Nothing has gone on sale for 31 December 2026 yet — checked 4 September 2026."
