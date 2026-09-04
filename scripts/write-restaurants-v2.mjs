@@ -1495,7 +1495,7 @@ const rows = [
     bookingLead: "walk-in",
     outdoor: "terrace",
     noise: "loud",
-    lists: "best-value, showstopper",
+    lists: "best-value, showstopper, street-food",
     source: "mercatometropolitano.com; Secret London; VisitLondon",
   },
   {
@@ -4490,7 +4490,7 @@ const rows = [
     bookingLead: "walk-in",
     dietary: "Entirely vegetarian",
     goodFor: "quick, solo, families",
-    lists: "cheap-eats, best-value, vegetarian, markets, best-indian:26",
+    lists: "cheap-eats, best-value, vegetarian, markets, best-indian:26, street-food",
     source: "Carried across from our own published Indian guide (Jul 2026); boroughmarket.org.uk trader listing. Market-level coordinates from restaurantMaps.ts.",
   },
   {
@@ -4507,7 +4507,7 @@ const rows = [
     angle: "origin",
     bookingLead: "walk-in",
     goodFor: "quick, solo, families",
-    lists: "vegetarian, cheap-eats, best-value, markets, best-indian:27",
+    lists: "vegetarian, cheap-eats, best-value, markets, best-indian:27, street-food",
     source: "Carried across from our own published Indian guide (Jul 2026); boroughmarket.org.uk trader listing. Market-level coordinates from restaurantMaps.ts.",
   },
   {
@@ -5456,7 +5456,7 @@ const rows = [
     bookingLead: "walk-in",
     foodOffer: "both",
     goodFor: "quick, solo, families, groups",
-    lists: "best-value, markets, showstopper",
+    lists: "best-value, markets, showstopper, street-food",
     source: "boroughmarket.org.uk; Time Out best food markets; VisitLondon",
   },
   {
@@ -5526,7 +5526,7 @@ const rows = [
     signature: "Creme brulee doughnut",
     bookingLead: "walk-in",
     goodFor: "quick, solo, families",
-    lists: "best-value",
+    lists: "best-value, street-food",
     source: "boroughmarket.org.uk trader listing - a Time Out page lists one Bread Ahead site as closed, so WHICH SITES ARE TRADING NEEDS VERIFYING",
   },
   {
@@ -5543,7 +5543,7 @@ const rows = [
     outdoor: "pavement",
     foodOffer: "hot-food",
     goodFor: "quick, groups, date",
-    lists: "best-value, markets, showstopper, seafood",
+    lists: "best-value, markets, showstopper, seafood, street-food",
     source: "Time Out best street food markets and food halls; multiple market guides",
   },
   {
@@ -5559,7 +5559,7 @@ const rows = [
     noise: "loud",
     foodOffer: "hot-food",
     goodFor: "groups, families, quick",
-    lists: "best-value, markets, showstopper",
+    lists: "best-value, markets, showstopper, street-food",
     source: "Time Out best street food markets and food halls",
   },
   {
@@ -5606,7 +5606,7 @@ const rows = [
     noise: "loud",
     foodOffer: "hot-food",
     goodFor: "groups, quick, date",
-    lists: "markets, showstopper",
+    lists: "markets, showstopper, street-food",
     source: "Time Out best street food markets and food halls - RESIDENT TRADERS ROTATE, verify before naming any of them in prose",
   },
   {
@@ -5621,7 +5621,7 @@ const rows = [
     bookingLead: "walk-in",
     foodOffer: "hot-food",
     goodFor: "quick, groups, families",
-    lists: "best-value, markets, showstopper",
+    lists: "best-value, markets, showstopper, street-food",
     source: "VisitLondon; Time Out market guides",
   },
   {
@@ -5637,7 +5637,7 @@ const rows = [
     outdoor: "pavement",
     foodOffer: "both",
     goodFor: "quick, solo, families",
-    lists: "best-value, markets",
+    lists: "best-value, markets, street-food",
     source: "Time Out market guides; VisitLondon",
   },
   {
@@ -5653,7 +5653,7 @@ const rows = [
     noise: "loud",
     foodOffer: "hot-food",
     goodFor: "quick, groups, families",
-    lists: "best-value, markets",
+    lists: "best-value, markets, street-food",
     source: "Time Out best street food markets and food halls; four trading sites confirmed against markethalls.co.uk/venues.",
   },
   // Market Halls' other three sites. Kept as their own rows rather than
@@ -5673,7 +5673,7 @@ const rows = [
     noise: "loud",
     foodOffer: "hot-food",
     goodFor: "quick, groups, families",
-    lists: "best-value, markets",
+    lists: "best-value, markets, street-food",
     source: "markethalls.co.uk/venues.",
   },
   {
@@ -5690,7 +5690,7 @@ const rows = [
     outdoor: "terrace",
     foodOffer: "hot-food",
     goodFor: "quick, groups, families",
-    lists: "best-value, markets",
+    lists: "best-value, markets, street-food",
     source: "markethalls.co.uk/venues and canarywharf.com directory.",
   },
   {
@@ -5706,7 +5706,7 @@ const rows = [
     noise: "loud",
     foodOffer: "hot-food",
     goodFor: "quick, groups, families",
-    lists: "best-value, markets",
+    lists: "best-value, markets, street-food",
     source: "markethalls.co.uk/venues.",
   },
   {
@@ -5725,7 +5725,7 @@ const rows = [
     noise: "loud",
     foodOffer: "hot-food",
     goodFor: "groups, families, quick",
-    lists: "best-value",
+    lists: "best-value, street-food",
     source: "bangbangoriental.com and Hot Dinners opening coverage cross-checked.",
   },
   {
@@ -5762,7 +5762,7 @@ const rows = [
     noise: "loud",
     foodOffer: "hot-food",
     goodFor: "groups, quick, date",
-    lists: "best-value, markets",
+    lists: "best-value, markets, street-food",
     source: "londonxlondon.com and the venue's own site cross-checked.",
   },
   {
@@ -5782,7 +5782,7 @@ const rows = [
     noise: "loud",
     foodOffer: "hot-food",
     goodFor: "groups, quick, date",
-    lists: "best-value",
+    lists: "best-value, street-food",
     source: "hot-dinners.com opening coverage and vinegaryard.london cross-checked.",
   },
   {
@@ -5799,7 +5799,7 @@ const rows = [
     noise: "loud",
     foodOffer: "hot-food",
     goodFor: "groups, families, quick",
-    lists: "unusual, best-value",
+    lists: "unusual, best-value, street-food",
     source: "boxpark.co.uk and visitlondon.com cross-checked.",
   },
   {
@@ -5817,7 +5817,7 @@ const rows = [
     noise: "loud",
     foodOffer: "hot-food",
     goodFor: "groups, families, quick",
-    lists: "best-value",
+    lists: "best-value, street-food",
     source: "boxpark.co.uk. First Croydon entry on this sheet.",
   },
   {
@@ -5835,7 +5835,7 @@ const rows = [
     noise: "loud",
     foodOffer: "hot-food",
     goodFor: "groups, quick",
-    lists: "best-value",
+    lists: "best-value, street-food",
     source: "RESOLVED 2026-08-23: BOXPARK took the Buck Street site over in summer 2024 and it now trades as BOXPARK Camden - the Buck Street Market name is retired. Time Out BOXPARK coverage 2024; NEEDS VERIFYING - single source.",
   },
   {
@@ -5853,7 +5853,7 @@ const rows = [
     bookingLead: "walk-in",
     noise: "loud",
     goodFor: "groups, business, quick",
-    lists: "best-value",
+    lists: "best-value, street-food",
     source: "boxhall.co.uk, Time Out and DesignMyNight opening coverage cross-checked.",
   },
   {
@@ -5870,7 +5870,7 @@ const rows = [
     outdoor: "pavement",
     foodOffer: "hot-food",
     goodFor: "quick, solo, families, groups",
-    lists: "best-value, markets, showstopper",
+    lists: "best-value, markets, showstopper, street-food",
     source: "VisitLondon; Time Out market guides",
   },
 
@@ -9729,7 +9729,7 @@ const rows = [
     signature: "Roti canai",
     bookingLead: "walk-in",
     goodFor: "quick, solo, families",
-    lists: "best-value, markets",
+    lists: "best-value, markets, street-food",
     source: "Carried across from our own published Indian guide (Jul 2026). Sugen Gopal of Roti King; counters inside Market Halls Victoria, Oxford Street, Canary Wharf and Paddington. BRANCHES NOT RESEARCHED. Market-level coordinates from restaurantMaps.ts.",
   },
   {
@@ -10478,7 +10478,7 @@ const rows = [
     bookingLead: "walk-in",
     foodOffer: "hot-food",
     goodFor: "families, quick, groups",
-    lists: "best-value, markets",
+    lists: "best-value, markets, street-food",
     source: "Greenwich research pass 2026-08-18; greenwichmarket.london trader guide and VisitGreenwich",
   },
   {
@@ -10495,7 +10495,7 @@ const rows = [
     outdoor: "pavement",
     foodOffer: "hot-food",
     goodFor: "families, quick, groups",
-    lists: "best-value, markets",
+    lists: "best-value, markets, street-food",
     source: "Greenwich research pass; greenwichmarket.london - Cutty Sark market, Friday to Sunday",
   },
   {
@@ -11566,7 +11566,7 @@ const rows = [
     outdoor: "pavement",
     foodOffer: "both",
     goodFor: "families, groups, solo",
-    lists: "best-value, markets, activities",
+    lists: "best-value, markets, activities, street-food",
     source: "Shoreditch activities pass 4/12 domains. MOVED FROM THE ACTIVITIES TAB 2026-08-18: food is a main draw here, so the restaurant data model fits and Old Spitalfields Market next door was already filed this way. Cross-listed to activities via lists.",
   },
 
@@ -12022,7 +12022,7 @@ const rows = [
     bookingLead: "walk-in",
     noise: "loud",
     goodFor: "groups, families, date",
-    lists: "best-value",
+    lists: "best-value, street-food",
     source: "britishland.com, thenudge.com and cornercorner.com cross-checked.",
   },
   {
@@ -12144,7 +12144,7 @@ const rows = [
     bookingLead: "walk-in",
     noise: "loud",
     goodFor: "groups, families, quick",
-    lists: "best-value",
+    lists: "best-value, street-food",
     source: "thatsup.co.uk and marketplacefoodhall.com cross-checked.",
   },
   {
@@ -12162,7 +12162,7 @@ const rows = [
     outdoor: "terrace",
     noise: "loud",
     goodFor: "groups, date, families",
-    lists: "best-value",
+    lists: "best-value, street-food",
     source: "hackneybridge.org (venue's own site) and thenudge.com cross-checked.",
   },
   {

@@ -3176,7 +3176,8 @@
    "opNote": "A venue, not a restaurant - the traders inside change. Six minutes from both Elephant & Castle and Borough.",
    "lists": [
     "best-value",
-    "showstopper"
+    "showstopper",
+    "street-food"
    ],
    "sourceCount": "3",
    "sourceTiers": "B1 C2",
@@ -10183,7 +10184,8 @@
     "best-value",
     "vegetarian",
     "markets",
-    "best-indian:26"
+    "best-indian:26",
+    "street-food"
    ]
   },
   {
@@ -10225,7 +10227,8 @@
     "cheap-eats",
     "best-value",
     "markets",
-    "best-indian:27"
+    "best-indian:27",
+    "street-food"
    ]
   },
   {
@@ -12649,7 +12652,8 @@
    "lists": [
     "best-value",
     "markets",
-    "showstopper"
+    "showstopper",
+    "street-food"
    ],
    "sourceCount": "7",
    "sourceTiers": "B2 C4 D1",
@@ -12806,7 +12810,8 @@
    "whyGo": "The creme brulee doughnut is blowtorched in front of you. It started as one Borough stall and is now a bakery school and a small chain.",
    "signature": "Creme brulee doughnut",
    "lists": [
-    "best-value"
+    "best-value",
+    "street-food"
    ],
    "sourceCount": "1",
    "sourceTiers": "B1",
@@ -12850,7 +12855,8 @@
     "best-value",
     "markets",
     "showstopper",
-    "seafood"
+    "seafood",
+    "street-food"
    ],
    "sourceCount": "5",
    "sourceTiers": "B1 C4",
@@ -12893,7 +12899,8 @@
    "lists": [
     "best-value",
     "markets",
-    "showstopper"
+    "showstopper",
+    "street-food"
    ],
    "sourceCount": "6",
    "sourceTiers": "B3 C3",
@@ -13016,7 +13023,8 @@
    "whyGo": "Less a food court than a set of proper kitchens under one roof - residents have included Plaza Khao Gaeng and Supa Ya Ramen rather than generic concessions.",
    "lists": [
     "markets",
-    "showstopper"
+    "showstopper",
+    "street-food"
    ],
    "sourceCount": "4",
    "sourceTiers": "B2 C2",
@@ -13057,7 +13065,8 @@
    "lists": [
     "best-value",
     "markets",
-    "showstopper"
+    "showstopper",
+    "street-food"
    ],
    "sourceCount": "5",
    "sourceTiers": "B1 C4",
@@ -13099,7 +13108,8 @@
    "opNote": "Saturday is the main market. Much quieter and largely shut the rest of the week.",
    "lists": [
     "best-value",
-    "markets"
+    "markets",
+    "street-food"
    ],
    "sourceCount": "5",
    "sourceTiers": "B2 C3",
@@ -13140,7 +13150,8 @@
    "whyGo": "A converted ticket hall beside Victoria station - the most useful eating option in an area that is otherwise chains and commuters.",
    "lists": [
     "best-value",
-    "markets"
+    "markets",
+    "street-food"
    ]
   },
   {
@@ -13179,7 +13190,8 @@
    "whyGo": "The largest of the four, in a former shopping centre off Oxford Street, with a games hall upstairs - the most useful non-chain lunch on the worst street in London to find one.",
    "lists": [
     "best-value",
-    "markets"
+    "markets",
+    "street-food"
    ]
   },
   {
@@ -13219,7 +13231,8 @@
    "whyGo": "Eight kitchens and two bars over two levels beside the water, with outdoor seating on the dock - a rare Canary Wharf option that is neither a chain nor an expense account.",
    "lists": [
     "best-value",
-    "markets"
+    "markets",
+    "street-food"
    ]
   },
   {
@@ -13258,7 +13271,8 @@
    "whyGo": "The newest of the four, inside Paddington station - which makes it the one genuinely good option for a meal before a train to the west or the Heathrow Express.",
    "lists": [
     "best-value",
-    "markets"
+    "markets",
+    "street-food"
    ]
   },
   {
@@ -13297,7 +13311,8 @@
    "whyGo": "London's largest Asian food hall - more than twenty-five kiosks across Chinese, Malaysian, Japanese, Korean, Thai and Vietnamese, built as the successor to the much-missed Oriental City that stood on this site.",
    "opNote": "Zone 4 on the Northern line, so it is a trip rather than a stop-off, and worth going hungry for. Cash-light but busy at weekends; the kiosks turn over quickly.",
    "lists": [
-    "best-value"
+    "best-value",
+    "street-food"
    ],
    "sourceCount": "1",
    "sourceTiers": "B1",
@@ -13377,7 +13392,8 @@
    "whyGo": "Seven railway arches between London Bridge and Southwark stations, food-led with live music, film nights and quizzes on top.",
    "lists": [
     "best-value",
-    "markets"
+    "markets",
+    "street-food"
    ],
    "sourceCount": "1",
    "sourceTiers": "B1",
@@ -13420,7 +13436,8 @@
    "whyGo": "A rotating street food lineup around a covered outdoor yard steps from London Bridge station - Flat Iron Square's sister site, with a weekend vintage market (Flea London) on top.",
    "opNote": "Largely outdoor and covered rather than heated - better in summer. Sits inside the same At London Bridge development as Flat Iron Square, a two-minute walk apart.",
    "lists": [
-    "best-value"
+    "best-value",
+    "street-food"
    ],
    "sourceCount": "1",
    "sourceTiers": "B1",
@@ -13461,7 +13478,8 @@
    "whyGo": "Shipping containers stacked around a 20,000 sq ft events space on Wembley Way - built for match days and concerts at the stadium and arena next door.",
    "lists": [
     "unusual",
-    "best-value"
+    "best-value",
+    "street-food"
    ]
   },
   {
@@ -13496,7 +13514,8 @@
    "foodOffer": "hot-food",
    "whyGo": "Over eighty independent food and drink traders two minutes from East Croydon station, with a 2,000-capacity events space - the first BOXPARK site south of the river.",
    "lists": [
-    "best-value"
+    "best-value",
+    "street-food"
    ]
   },
   {
@@ -13534,7 +13553,8 @@
    "whyGo": "BOXPARK's food operation inside the rebuilt Buck Street Market, opened 2024 on the old Camden Market Hall site by the Tube station.",
    "opNote": "Three floors and about 60 independent food and retail traders, with two bars and a rooftop terrace. Open 10:00 daily; closes 23:00 Mon-Thu, 23:30 Fri-Sat and 21:00 Sun.",
    "lists": [
-    "best-value"
+    "best-value",
+    "street-food"
    ]
   },
   {
@@ -13572,7 +13592,8 @@
    "foodOffer": "hot-food",
    "whyGo": "BOXPARK's food-hall format (not containers this time) inside the 1912 Metropolitan Arcade - 14 kitchens and two bars across 800 seats, opened 2024/25.",
    "lists": [
-    "best-value"
+    "best-value",
+    "street-food"
    ]
   },
   {
@@ -13613,7 +13634,8 @@
    "lists": [
     "best-value",
     "markets",
-    "showstopper"
+    "showstopper",
+    "street-food"
    ],
    "sourceCount": "4",
    "sourceTiers": "B1 C3",
@@ -23509,7 +23531,8 @@
    "signature": "Roti canai",
    "lists": [
     "best-value",
-    "markets"
+    "markets",
+    "street-food"
    ]
   },
   {
@@ -25441,7 +25464,8 @@
    "opNote": "Stall line-up changes day to day. Busiest at weekends; some traders are weekend-only.",
    "lists": [
     "best-value",
-    "markets"
+    "markets",
+    "street-food"
    ],
    "sourceCount": "4",
    "sourceTiers": "B1 C3",
@@ -25483,7 +25507,8 @@
    "opNote": "Friday to Sunday only. It does not trade midweek.",
    "lists": [
     "best-value",
-    "markets"
+    "markets",
+    "street-food"
    ]
   },
   {
@@ -28090,7 +28115,8 @@
    "lists": [
     "best-value",
     "markets",
-    "activities"
+    "activities",
+    "street-food"
    ],
    "sourceCount": "4",
    "sourceTiers": "B1 C3",
@@ -29145,7 +29171,8 @@
    "foodOffer": "hot-food",
    "whyGo": "Opened 2025 on the Canada Water regeneration site - a food hall, a working farm shop and a jazz club under one roof, the first real food destination this part of Southwark has had.",
    "lists": [
-    "best-value"
+    "best-value",
+    "street-food"
    ],
    "sourceCount": "2",
    "sourceTiers": "B1 C1",
@@ -29410,7 +29437,8 @@
    "foodOffer": "hot-food",
    "whyGo": "Vauxhall's other new food hall alongside Metropolis - a different brand, a different building, and worth distinguishing between the two rather than treating Vauxhall as having just one.",
    "lists": [
-    "best-value"
+    "best-value",
+    "street-food"
    ]
   },
   {
@@ -29448,7 +29476,8 @@
    "foodOffer": "hot-food",
    "whyGo": "A canal-side food and drink hub on the edge of Queen Elizabeth Olympic Park, in Hackney Wick's old industrial buildings - kitchens, bars and studio space together.",
    "lists": [
-    "best-value"
+    "best-value",
+    "street-food"
    ]
   },
   {
@@ -34579,7 +34608,8 @@
    "opNote": "A venue, not a restaurant - the traders inside change. Six minutes from both Elephant & Castle and Borough.",
    "lists": [
     "best-value",
-    "showstopper"
+    "showstopper",
+    "street-food"
    ],
    "sourceCount": "3",
    "sourceTiers": "B1 C2",
@@ -34622,7 +34652,8 @@
    "opNote": "A venue, not a restaurant - the traders inside change. Six minutes from both Elephant & Castle and Borough.",
    "lists": [
     "best-value",
-    "showstopper"
+    "showstopper",
+    "street-food"
    ],
    "sourceCount": "3",
    "sourceTiers": "B1 C2",
