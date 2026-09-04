@@ -78,6 +78,10 @@ The early plaques were not blue. Makers experimented with brown, terracotta, gre
 
 It is the earliest surviving plaque in London and **the only one ever put up while its subject was still alive** — he was ruling France at the time. Under today's rules, which require twenty years to have passed since the subject's death, it could not exist.
 
+**Free, on a public street, visible at any hour.** It is on King Street between St James's Square and St James's Street, and it is easy to walk past: the wording is terse and the plaque is set higher than most.
+
+**Three more of London's oldest plaques are within ten minutes**, which makes St James's the best short walk for anyone interested in the scheme itself rather than the people on it. Green Park and Piccadilly Circus are each about five minutes.
+
 > **Only 15% of London's blue plaques commemorate women.** Since 2016, more than half of new awards have gone to women, which is the scheme trying to correct a hundred and fifty years of arithmetic.
 
 ---
@@ -88,19 +92,43 @@ Four plaques, fifteen minutes, and the best single blue-plaque walk in London.
 
 ### Mozart's Belgravia Home
 
-**Mozart composed his first symphony here in 1764, aged eight**, during his family's fifteen-month stay in London.
+**Mozart composed his first symphony here in 1764, aged eight**, during his family's fifteen-month stay in London — written while his father was ill and the children were forbidden to touch the harpsichord, which is why it exists at all.
+
+**180 Ebury Street.** A private house, so this is a look from the pavement — free, at any hour, and there is nothing to go into.
+
+**Ebury Street alone carries two of the plaques on this page**: Mozart at 180 and Ian Fleming at 22, about eight minutes apart on the same street. Walking between them is the most efficient plaque-hunting in London.
+
+Victoria and Sloane Square stations are each about ten minutes from the middle of it.
 
 ### Mary Shelley's Belgravia Home
 
-Shelley spent her last years here, decades after writing *Frankenstein* at eighteen — a very different London chapter from the one everyone knows.
+Shelley spent her last years here, decades after writing *Frankenstein* at eighteen — a very different London chapter from the Gothic summer everyone knows, and she died in this house in 1851.
+
+**24 Chester Square**, one of Belgravia's grand stucco garden squares. A private residence, viewable from the pavement only, free and at any hour.
+
+**The square garden itself is private and railed**, so you look at the house across it rather than walking through.
+
+It is about five minutes from the Ebury Street pair, which makes a four-plaque Belgravia walk — Mozart, Fleming, Tennyson and Shelley — comfortable in half an hour. Sloane Square is the nearest station.
 
 ### Ian Fleming's Belgravia Home
 
-Fleming was born and grew up on this street. The plaque marks the creator of James Bond in a setting nothing like Bond's.
+Fleming was born and grew up on this street — the creator of James Bond, in a setting rather more respectable than anything he wrote.
+
+**22 Ebury Street.** Private, pavement-only, free, no hours.
+
+**It is the same street as Mozart's**, eight minutes apart, which is the single best coincidence in London's plaque scheme: the composer of a first symphony at eight and the inventor of a fictional spy, commemorated on the same Belgravia terrace.
+
+For the Bond connection you can actually go inside, **Rules in Covent Garden** is written into *Spectre* as his regular, and **Dukes Bar in St James's** makes the martini — both about twenty minutes away and both covered elsewhere on this site.
 
 ### Lord Tennyson's Belgravia Home
 
-Tennyson stayed here during his decades as Poet Laureate, when *The Charge of the Light Brigade* and *In Memoriam* were written.
+Tennyson stayed here during his decades as Poet Laureate, the period that produced *The Charge of the Light Brigade* and *In Memoriam*.
+
+**9 Upper Belgrave Street.** Private, viewable from the street, free and unrestricted — like almost every plaque in this section.
+
+**This is the quietest corner of the Belgravia walk.** Upper Belgrave Street runs between Belgrave Square and Eaton Square, both private garden squares, and there is almost no through traffic and nothing commercial — which makes it pleasant to walk and completely dead if you wanted a coffee.
+
+Hyde Park Corner is the nearest station, about six minutes, and Victoria about ten.
 
 ---
 
@@ -110,15 +138,33 @@ Tennyson stayed here during his decades as Poet Laureate, when *The Charge of th
 
 *Now a museum*
 
-Dickens wrote *Oliver Twist* and *Nicholas Nickleby* here — **the only one of his London homes still standing**, and open as the Charles Dickens Museum.
+Dickens wrote *Oliver Twist* and *Nicholas Nickleby* here — **the only one of his London homes still standing**, and the only plaque on this page you can walk into.
+
+**48 Doughty Street**, now the Charles Dickens Museum: a paid museum with set opening hours rather than a street plaque, laid out as the house was when he lived in it, with his desk and the rooms in sequence.
+
+**He was here under three years**, from 1837 to 1839, which is a remarkably short tenancy for the amount of work that came out of it.
+
+**Check the day before travelling** — it is a small independent museum and does not open every day of the week. Russell Square and Chancery Lane are each about eight minutes' walk.
 
 ### John Maynard Keynes's Bloomsbury Home
 
-Keynes was part of the Bloomsbury Group centred on Gordon Square. His economic theory reshaped the twentieth century from this address.
+Keynes was part of the Bloomsbury Group centred on Gordon Square, and his economic theory reshaped twentieth-century policy from an address most people walk past without looking up.
+
+**46 Gordon Square**, now university buildings — viewable from the pavement, free, and the campus is generally open to walk through in the daytime.
+
+**Gordon Square is the densest plaque square in London.** Virginia Woolf, Vanessa Bell, Lytton Strachey and Keynes all lived on it at various points, and the group takes its name from the district around it. The garden in the middle is public and open in daylight.
+
+It is two minutes from Euston Square and five from Russell Square, and it is the natural centre of the Bloomsbury walk below.
 
 ### Charles Darwin at UCL
 
-A rare **institutional plaque** rather than a home address, marking Darwin's connection to the university.
+A rare **institutional plaque** rather than a home address, marking Darwin's connection to the university rather than a house he slept in.
+
+**On the Biological Sciences Building, UCL, Gower Street.** Free, viewable from the street, and the campus is generally open to walk through in the daytime — so you can get closer than you can to most plaques on this page.
+
+**It is worth knowing why this one is unusual.** The scheme overwhelmingly marks homes, so an institutional plaque means the connection was to the work rather than the address — Darwin's own Bloomsbury house on Gower Street was demolished long ago.
+
+**UCL's front quad is two minutes away** and stood in for the British Museum's exterior in *The Mummy Returns*. Euston Square and Warren Street are both about five minutes.
 
 > **The Bloomsbury squares** — Russell, Bedford, Gordon, Tavistock and Bloomsbury — can be walked in an hour, and between them carry the highest concentration of literary plaques in the city.
 
@@ -142,15 +188,33 @@ The two houses are now a single museum, **Handel Hendrix House**, and it is the 
 
 ### Friedrich Engels's Primrose Hill Home
 
-Engels lived here **for over twenty years, hosting Karl Marx regularly** — a plaque for one half of one of history's most consequential collaborations.
+Engels lived here **for over twenty years, hosting Karl Marx regularly** — a plaque for one half of one of history's most consequential collaborations, in what is now one of the most expensive streets in north London.
+
+**122 Regent's Park Road.** Private, pavement-only, free, no hours.
+
+**Marx's own Soho plaque is at 28 Dean Street**, and the pairing is the point: Marx living in two rooms above what is now a restaurant while Engels, who was funding him, had a comfortable villa up here. They are about forty minutes apart on foot, or fifteen on the Northern line.
+
+Chalk Farm is five minutes away, and **Primrose Hill itself is two streets up** — one of the protected panoramas, free, and open 24 hours except on summer weekend nights.
 
 ### Sylvia Plath's Primrose Hill Home
 
-Plath lived here, in a house W.B. Yeats had lived in before her — a coincidence she noted herself.
+Plath lived here early in her marriage to Ted Hughes, in a house **W.B. Yeats had lived in before her** — a coincidence she noted herself and took as an omen.
+
+**3 Chalcot Square.** Private, viewable from the pavement, free at any hour.
+
+**The square is the one from the Paddington films**, its pastel terraces used for the Brown family's Windsor Gardens and, from the other side, Phoenix Buchanan's house in the sequel. So the same fifty metres carries a Plath plaque and two films, and almost nobody visiting for one knows about the others.
+
+**It is a residential square where people live** — look from the pavement, do not linger on doorsteps. Chalk Farm is five minutes, and the Engels plaque is about eight minutes away.
 
 ### George Orwell's Kentish Town Home
 
-One of several Orwell addresses across London, marking a working writer's home rather than a famous one.
+One of several Orwell addresses across London, marking a working writer's lodgings rather than a grand literary residence — which is rather the point of Orwell.
+
+**50 Lawford Road, Kentish Town.** Private, pavement-only, free.
+
+**He has more London plaques than almost anyone**, because he moved constantly and wrote about all of it. This one covers the period when he was working in a Hampstead bookshop, the experience behind *Keep the Aspidistra Flying*.
+
+**It is the least visited plaque on this page** and there is genuinely nothing else on the street — an ordinary Victorian terrace in a residential pocket. Kentish Town station is about eight minutes, and it only makes sense combined with the Primrose Hill pair rather than as a trip of its own.
 
 ---
 
@@ -160,13 +224,23 @@ One of several Orwell addresses across London, marking a working writer's home r
 
 *Free · W1D 3RY*
 
-Marx lived here in poverty in the 1850s while writing at the British Museum. It is the surviving Marx plaque — **the earlier one at 41 Maitland Park Road in Belsize Park was vandalised twice by fascist sympathisers**, the owner refused to have a third put up, and the house was later demolished.
+Marx lived here in poverty in the 1850s, in two rooms with his family, walking daily to write in the British Museum Reading Room. It is the surviving Marx plaque — **the earlier one at 41 Maitland Park Road in Belsize Park was vandalised twice by fascist sympathisers**, the owner refused to have a third put up, and the house was later demolished.
+
+**Free and visible from the pavement.** The ground floor is now Quo Vadis, the restaurant celebrating its centenary in 2026, so this is one of the few plaques with a good lunch directly beneath it — the smoked eel sandwich at the bar is £18.50 and needs no booking.
+
+**Engels's plaque is at 122 Regent's Park Road**, and the contrast is the point: Marx in two Soho rooms, funded by Engels in a Primrose Hill villa. Fifteen minutes apart on the Northern line.
 
 ### Willy Clarkson, 41–43 Wardour Street, Soho
 
 *Free · W1D 6PY*
 
-A theatrical wigmaker, and the plaque says he **"lived and died here."** The building's foundation stone was laid by **Sarah Bernhardt in 1904**, and the coping stone is credited to Henry Irving the following year, though historians doubt he did it in person.
+A theatrical wigmaker to the Victorian and Edwardian stage, and the plaque says simply that he **"lived and died here."** The building's foundation stone was laid by **Sarah Bernhardt in 1904**, and the coping stone is credited to Henry Irving the following year, though historians doubt he did it in person.
+
+**Free, on Wardour Street, visible at any hour** — and worth looking down as well as up, because both ceremonial stones are still in the frontage.
+
+**It is the most Soho plaque in the scheme**: a man who made wigs and false beards for the entire West End, commemorated on a street that is now bars and post-production houses. Clarkson also supplied disguises to rather less theatrical clients, which is part of why the name survives.
+
+Piccadilly Circus and Leicester Square are each about four minutes, and the Karl Marx plaque is five minutes north.
 
 ### Dr Samuel Johnson, 17 Gough Square
 
@@ -174,13 +248,25 @@ A theatrical wigmaker, and the plaque says he **"lived and died here."** The bui
 
 **The only plaque the official scheme has inside the City of London**, put up by the Society of Arts in **1876** — and it is **brown terracotta**, from the years before the design was standardised.
 
-The reason there is only one is jurisdictional rather than historical: the City is excluded from the English Heritage scheme because the **City of London Corporation runs its own**, with around 140 plaques of its own.
+The reason there is only one is jurisdictional rather than historical: the City is excluded from the English Heritage scheme because the **City of London Corporation runs its own**, with around 140 plaques of its own — so the City is not short of plaques, just of these ones.
+
+**Gough Square is a genuine hidden square**, reached down narrow alleys off Fleet Street and easy to miss entirely. **Dr Johnson's House at number 17 is a museum you can go into** — the garret where he compiled the *Dictionary* is the top floor — and it is ticketed with limited opening days.
+
+**Hodge, Johnson's cat, has his own statue in the square**, sitting on a copy of the Dictionary beside a pair of oyster shells. Free, always there, and the best thing in the square.
+
+Chancery Lane is about five minutes; **Ye Olde Cheshire Cheese**, Johnson's local, is two.
 
 ### Vincent van Gogh, 87 Hackford Road, Stockwell
 
 *Free · SW9 0RE*
 
-Where Van Gogh lodged as a young art dealer in his twenties, **years before he had painted anything at all**. One of the few plaques that marks somebody before they became the person the plaque is for.
+Where Van Gogh lodged as a young art dealer in his twenties, **years before he had painted anything at all**. One of the very few plaques marking somebody before they became the person the plaque is for.
+
+**87 Hackford Road, Stockwell.** Free and visible from the pavement — a plain south London terrace with nothing else to see, which is itself the point.
+
+**The house was restored and has opened for occasional public visits**, run as an artists' residency rather than a museum, so access is by advertised event rather than fixed hours. Do not turn up expecting a door to open.
+
+**It is the furthest plaque on this page from the others** and does not combine with anything. Stockwell is about ten minutes' walk, Oval about the same — go because you want this one, not as part of a route.
 
 ---
 
