@@ -2,8 +2,8 @@
 title: "London Filming Locations: 14 Places You Have Already Seen"
 seoTitle: "London Filming Locations 2026: Harry Potter, Bond, Slow Horses"
 description: "Gringotts is a working embassy, Sherlock's flat is on the wrong street, and Slough House is a real door in Aldersgate — London's film and TV locations, mapped."
-heroImage: "../../assets/articles/london-filming-locations/platform-nine-three-quarters-queue.jpg"
-heroImageAlt: "The queue at the Platform 9 3/4 trolley in King's Cross station, under the Harry Potter sign"
+heroImage: "../../assets/articles/best-london-markets/leadenhall-market.jpg"
+heroImageAlt: "The cream, maroon and green painted ironwork of Leadenhall Market's arcade under its glass roof, with shopfronts and lanterns down both sides"
 publishedAt: 2026-08-23
 sites: [london]
 canonicalSite: london
@@ -65,6 +65,8 @@ The exterior on the Strand is free to look at at any hour, and it is a **two-min
 An 1881 covered market in cream, maroon and green wrought iron, used for **Diagon Alley** in the first film. The blue door that served as the entrance to the Leaky Cauldron belongs to what is now an opticians on Bull's Head Passage.
 
 The painted ironwork and glass roof needed no set dressing at all, which is why it reads as a set even when you are standing in it.
+
+![Leadenhall Market's arcade from below, its cream and maroon ironwork and hanging lanterns running the length of the cobbled walkway](../../assets/articles/harry-potter-london/leadenhall-market.jpg)
 
 **Free to walk through and roofed, so it works in rain.** The catch is the City rhythm: the shops and bars keep weekday hours, so it is at its most atmospheric on a weekday evening around six, and close to dead on a Sunday when half the shutters are down. **Gracechurch Street EC3V 1LT**, two minutes from Bank or Monument.
 
@@ -318,6 +320,8 @@ The **South Quay footbridge** is the specific structure used for the quarantine-
 
 The fictional **32 Windsor Gardens** is a pastel-painted Primrose Hill crescent — Chalcot Crescent, which also supplied Phoenix Buchanan's house in the sequel from the opposite side of the same square. There is no marker and no blue front door; the paintwork was done for the film.
 
+![A curving terrace of pastel stucco houses with columned porches on Chalcot Crescent in Primrose Hill](../../assets/articles/camden-area-guide/chalcot-crescent-primrose-hill.jpg)
+
 **It is a private residential street.** Look from the pavement, do not linger outside individual houses, and do not knock — the residents field this every weekend. Chalk Farm is five minutes away and Primrose Hill itself, with its protected view over the city, is two streets on, which is a better reason to be here.
 
 There is also a **Paddington Bear trail** around Paddington station, free and self-guided, and a **statue on the concourse** by platform 1 — that one is genuinely worth going to, and it costs nothing.
@@ -334,6 +338,8 @@ There is also a **Paddington Bear trail** around Paddington station, free and se
 
 Thor and Malekith fight through Wren's colonnades in the finale of **Thor: The Dark World (2013)**, and Greenwich plays itself rather than standing in for anywhere — unusual for a Marvel film.
 
+![The colonnade beside the Queen's House at the Old Royal Naval College, its white columns throwing long shadows across the flagstones](../../assets/articles/greenwich-area-guide/naval-college-colonnade.jpg)
+
 The same buildings have doubled for Paris, St Petersburg and Gotham elsewhere, which is why the finale feels oddly familiar even to people who have never been.
 
 **The grounds are free and open daily**, and you can walk the colonnades the fight runs through without paying anything. The **Painted Hall is ticketed and worth it on its own terms** — Thornhill spent nineteen years on the ceiling, and the price includes a hand mirror so you can look up without wrecking your neck.
@@ -345,6 +351,8 @@ The same buildings have doubled for Paris, St Petersburg and Gotham elsewhere, w
 *Free · open at all times*
 
 Dressed as 1918 London for the Armistice celebrations that close **Wonder Woman (2017)**.
+
+![Nelson's Column and the fountains of Trafalgar Square in late afternoon](../../assets/articles/westminster-area-guide/trafalgar-square.jpg)
 
 The square has appeared as itself in more productions than almost anywhere else in London, and it also played the march on Parliament in *V for Vendetta* — different film, same paving.
 
@@ -393,6 +401,8 @@ It is the clearest example in the city of London standing in for somewhere else 
 *Free*
 
 The museum sequence in **The Mummy Returns (2001)** was filmed at the museum itself — though the exterior shots used **UCL's front quad** up the road, because the real facade was behind scaffolding at the time. Two Bloomsbury buildings, one museum, in the same film.
+
+![The glass and steel lattice roof of the British Museum's Great Court](../../assets/articles/bloomsbury-area-guide/british-museum-great-court.jpg)
 
 **Free and open daily**, with no ticket for the permanent collection and no booking needed. Use the **Montague Place entrance at the back** to skip the queue on Great Russell Street — it is the same building and usually walk-straight-in, and almost nobody knows it exists.
 

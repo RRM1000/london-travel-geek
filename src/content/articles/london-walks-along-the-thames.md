@@ -2,12 +2,8 @@
 title: "The Best Walks Along the Thames in London"
 seoTitle: "Best Thames Path Walks in London 2026: South Bank to Greenwich"
 description: "The South Bank walk that takes in five free viewpoints, the Wapping riverside pub crawl, and the quiet Rotherhithe stretch into Greenwich — every walkable piece of the Thames Path in London."
-heroImage: "../../assets/articles/london-walks-along-the-thames/london-walks-along-the-thames.jpg"
-heroImageAlt: "The Queen's Walk riverside path along the Thames at Bankside"
-heroImageCredit: "Peter Trimming"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:The_Queen's_Walk_Waterfront,_Bankside,_London_-_geograph.org.uk_-_1779171.jpg"
-heroImageLicense: "CC BY-SA 2.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
+heroImage: "../../assets/articles/london-walks-along-the-thames/tower-bridge.jpg"
+heroImageAlt: "Tower Bridge from the north bank, both towers and the raised walkways above the road deck"
 publishedAt: 2026-08-23
 sites: [london]
 canonicalSite: london
