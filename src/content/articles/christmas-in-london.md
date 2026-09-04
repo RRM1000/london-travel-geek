@@ -281,10 +281,16 @@ Every grand hotel reprints its tea menu for Christmas, usually from early Novemb
 
 ---
 
+## Eating out on Christmas Day itself
+
+Almost nothing opens on 25 December, no transport runs, and what does open is a fixed menu paid for in advance. It is a different exercise from booking a festive lunch in December, and it needs doing by late October.
+
+**[Christmas dinner in London, and what it costs →](/articles/christmas-day-restaurants-london/)**
+
+---
+
 ## Good to know
 
 **TfL runs no services at all on Christmas Day** — no Tube, buses, Overground, DLR, Elizabeth line, trams or river boats. It's the same every year. Black cabs, private hire, Santander Cycles and rental e-scooters are the only options moving. **Boxing Day is reduced rather than closed** — Tube and buses typically run to a Sunday timetable from around 7am, with the Elizabeth line historically closed altogether. Check [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel) nearer the date for the exact 2026 detail.
 
 ---
-
-*Christmas Day and switch-on dates for 2026 are still being confirmed by several venues as this guide was written — where a date says "not yet published," check the venue's own site closer to November.*
