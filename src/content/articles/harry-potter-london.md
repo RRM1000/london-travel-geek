@@ -206,11 +206,37 @@ This is where the internet is least reliable: London's unofficial wizarding venu
 
 Two that used to be here and no longer are: the wizarding afternoon tea at the **Great Northern Hotel** by King's Cross, whose restaurant now serves a railway-themed tea instead, and **The Potion Room** at Cutter & Squidge in Soho, which is off the menu. Both still appear in guides. Neither is bookable.
 
-## Walking tours
+## Tours
 
-**Expect £15 to £25 a head** for a two-hour small-group walk of the central locations. The best-established specialist is **Tour for Muggles**, running since 2011 at **£19 per adult, £17 per child and free for under-5s**, with private tours at a £150 booking fee plus £19 a head. General film-location operators and free tip-based walks cover much of the same ground.
+The locations are scattered across four postcodes and most are worth about two minutes each. That is the problem a tour solves — not access, since everything below is free to reach, but sequence and someone to tell you which door is which.
 
-The honest position: every location a walking tour visits is in the table above and free to reach yourself. What you are buying is a guide who knows which door is which and can fill the walking in between. If you enjoy being told things, £19 is well spent. If you would rather walk it yourself, you already have the route.
+### The bus tour, if you have one day
+
+**[London: Harry Potter Film Locations Sightseeing Bus Tour](https://www.getyourguide.com/london-l57/london-harry-potter-film-locations-sightseeing-bus-tour-t912548/)** runs on a purple 1960s Routemaster standing in for the Knight Bus, starts and returns to **Embankment**, and is **listed at three hours** with a live guide. **4.6 from more than 500 reviews**, free cancellation up to 24 hours ahead.
+
+It takes in **Gringotts, Leadenhall Market, Millennium Bridge, Borough Market, Lambeth Bridge, Great Scotland Yard and Horse Guards Parade**, with photo stops and short guided walks rather than a drive-past, and a quiz on board. Lambeth Bridge is the one you would never bother with alone — it is where the Knight Bus squeezes between two buses, and there is nothing to see standing on it.
+
+**Best for** one day, small children, or anyone who does not want to work out the walking order.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="912548" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+### The walking tour, if you would rather see more
+
+**[The most comprehensive and exclusive Harry Potter tour in London](https://www.getyourguide.com/london-l57/the-most-comprehensive-and-exclusive-harry-potter-tour-in-london-t772912)** is the highest-rated of the lot — **4.9 from over 1,000 reviews** — and at **195 minutes** it is the longest. It starts by **King's Cross** and finishes at **Goodwin's Court**, the alley that is widely held to be the model for Diagon Alley and which almost no self-guided route finds.
+
+In between: **Platform 9¾, Leadenhall Market, London Bridge, Southwark Cathedral, Borough Market, the Millennium Bridge, St Paul's and Great Scotland Yard**, with two short Tube hops rather than a coach. Guides work in **English and Spanish**. Reviewers are consistent that there is a lot of walking, which is the trade for covering more ground than the bus.
+
+**Best for** adults and older children who would rather walk than sit, and anyone who wants the south-bank stretch the bus skips.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="772912" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+### The specialist, and the honest alternative
+
+**Tour for Muggles** has run since 2011 and is the established name: **£19 per adult, £17 per child, free under 5**, with private tours at a £150 booking fee plus £19 a head. Expect **£15 to £25** across the general operators for a two-hour small-group walk.
+
+And the honest position, which no tour page will tell you: **every location any of these visits is in the table above and free to reach on your own.** What you are buying is sequence, a guide who knows which door is which, and someone to fill the walking in between. If you like being told things, it is money well spent. If you would rather walk it yourself, you already have the route.
+
+---
 
 ## Two costed days
 
