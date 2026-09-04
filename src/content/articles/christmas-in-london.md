@@ -169,13 +169,19 @@ Panto is not the only thing on, and two of the best tickets in London at Christm
 
 **12 November 2026 – 9 January 2027.** Jack Thorne's adaptation, directed by Matthew Warchus, now in its tenth season and **London's longest-running version of the story**. The auditorium is reconfigured in the round and the show comes out into it — mince pies included, genuinely.
 
-It is warmer and less reverent than the book suggests — handbells, carols sung by the cast, and a Scrooge redeemed by the room rather than in spite of it. **Two hours with an interval, and it works from about eight upwards**, which makes it the rare Christmas show that suits a mixed-age group without anyone being talked down to.
+It is warmer and less reverent than the book suggests — handbells, carols sung by the cast, and a Scrooge redeemed by the room rather than in spite of it. **Two hours with an interval, and the recommended age is eight and over**, which makes it the rare Christmas show that suits a mixed-age group without anyone being talked down to.
 
 ### Christmas Carol Goes Wrong, Wyndham's Theatre
 
 **18 December 2026 – 23 January 2027, from £15.** Mischief — the company behind *The Play That Goes Wrong* — doing the same story as a disaster: the Cornley crew feuding over who plays Scrooge while the set comes apart around them.
 
 **It is the answer to "we want something Christmassy but not a panto and not earnest."** It also runs well past Christmas, into late January, which makes it the easiest festive ticket to get if you leave it late.
+
+### Into the Woods, Noël Coward Theatre
+
+**22 September 2026 – 9 January 2027.** Sondheim and Lapine's fairy-tale collision — Cinderella, Rapunzel, Jack and a baker's wife all wanting something — transferred to the West End after a sell-out run at the Bridge and won the Olivier for Best Musical Revival on the way.
+
+**It is the least Christmassy thing here and the best argument for booking it.** The second act takes the happy endings apart, so it suits adults and older children rather than a family with small ones, and it runs through to 9 January if December is already spoken for.
 
 ### The Great Christmas Feast, The Lost Estate
 
@@ -194,6 +200,24 @@ It is the same story as the Old Vic's and Mischief's, and a completely different
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-london-christmas-lights-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Christmas lights tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## Afternoon tea at Christmas
+
+Every grand hotel reprints its tea menu for Christmas, usually from early November to the first week of January, and the food changes more than the room does — chestnut, clementine, spiced pear, a mince pie in place of a scone. **The prices go up with it**, so a festive sitting costs more than the same tea in February.
+
+**Claridge's** is the one to book if you want the occasion rather than the novelty. Its festive menu runs from early November to 3 January at **£120 on weekdays and £130 at weekends**, in the Art Deco Foyer under the jade-and-white china, and it is the room where people dress up without being told to.
+
+**The Winter Garden at The Landmark** is the one to book if you are bringing someone who wants to photograph it. Eight storeys of glass atrium and full-grown palms, decorated for the season, with a pianist and a harpist — the most theatrical tea room in London that is not a palace.
+
+**Fortnum & Mason** is the sensible choice on a shopping day. The Diamond Jubilee Salon is four floors above the food hall, so the tea and the Christmas shopping are the same trip, and it is the one place where the leaf matters more than the pastry.
+
+**The Ritz** is the most formal and the hardest to get. Five sittings a day, a dress code that is actually enforced, and a Palm Court that needs no seasonal help. Book months out for December.
+
+> ⚠️ **Festive menus are priced and dated separately from the standard tea**, and the good rooms sell December out by early autumn. Check the hotel's own site rather than a listings page, and confirm which menu your booking is for.
+
+**[The full afternoon tea guide, with every price →](/articles/best-afternoon-tea-london/)**
+
+---
 
 ## Good to know
 
