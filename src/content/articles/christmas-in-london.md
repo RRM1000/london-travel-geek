@@ -225,6 +225,30 @@ It has run for 32 years and **this year it is a new production** — a world pre
 
 ---
 
+## Carols
+
+### The big one: the Royal Albert Hall
+
+**Carols at the Royal Albert Hall** is the largest carol concert in the country and has been running for the best part of a century. The **Royal Choral Society** sings it with the **Royal Philharmonic Orchestra** — full orchestra, soloists, an audience of five thousand joining in, and a run of performances across the last two weekends before Christmas, including Christmas Eve.
+
+It is a concert rather than a service, so it is loud, secular in feel and completely unembarrassing to attend with people who never go to church. **Tickets go on sale in the spring and the Christmas Eve performances go first.**
+
+### Churches worth the trip
+
+**St Martin-in-the-Fields**, on the corner of Trafalgar Square, runs the best programme in London — a long season of carols by candlelight, and the one to pick if you want the sound of a proper church rather than a concert hall. **St Paul's Cathedral** and **Westminster Abbey** both hold carol services under the dome and in the nave respectively, and both are extraordinary and heavily oversubscribed. **Southwark Cathedral** is the quieter, easier alternative on the south bank, and **Union Chapel** in Islington does the least formal version of all, in a Victorian octagon with the pews still in.
+
+> ⚠️ **Cathedral carol services are free but not open-door.** St Paul's and Westminster Abbey release seats by ballot or advance booking, and the queue for any unallocated space forms long before the doors do. Check each cathedral's own site from about October — a service being free does not mean you can turn up at seven and get in.
+
+### Carols for nothing
+
+**Trafalgar Square is the answer.** A Norway spruce is given to London by the city of Oslo every year in thanks for wartime support, and from the day it is lit until Christmas Eve there are **carols under it most evenings, sung by a different choir each night and free to stand and listen to**. Most are collecting for a charity, so bring change. It is the most reliably free Christmas music in London and the least publicised.
+
+**The other free option is a parish church.** Most London churches hold a carol service in the fortnight before Christmas with no ticket and a collection plate at the end, and the singing is often better than the size of the building suggests. Look at what is on near where you are staying rather than travelling for a name.
+
+**In the shopping streets**, carol singers turn up through December at **Covent Garden**, **Leadenhall Market**, **Burlington Arcade** and the **Southbank Centre's** winter market — unscheduled and unticketed, so they are something you walk into rather than plan around.
+
+---
+
 ## Afternoon tea at Christmas
 
 Every grand hotel reprints its tea menu for Christmas, usually from early November to the first week of January, and the food changes more than the room does — chestnut, clementine, spiced pear, a mince pie in place of a scone. **The prices go up with it**, so a festive sitting costs more than the same tea in February.

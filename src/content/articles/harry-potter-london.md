@@ -109,7 +109,7 @@ At £42.50 per adult on top of a £58.50 ticket, this is the priciest add-on mos
 
 ## Harry Potter and the Cursed Child
 
-**The format has changed, and almost every guide online still describes the old one.** The original two-part production ends its London run on 20 September 2026. From **9 October 2026 the play runs as a single show in one sitting**, currently booking through late June 2027.
+The original two-part production ends its London run on 20 September 2026. From **9 October 2026 the play runs as a single show in one sitting**, currently booking through late June 2027.
 
 **Palace Theatre, Shaftesbury Avenue, London W1D 5AY.** Leicester Square is four minutes' walk, Tottenham Court Road five, Piccadilly Circus seven.
 
