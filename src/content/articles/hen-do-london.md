@@ -16,6 +16,8 @@ tags:
   - things to do
   - London experiences
 draft: false
+heroImage: "../../assets/articles/hen-do-london/cocktail-making.jpg"
+heroImageAlt: "A bartender pouring a measure into a cocktail shaker behind a bar lit pink and teal"
 faq:
   - q: "How much does a hen do in London cost per person?"
     a: "Costed from operators' own prices, £100 a head covers a full day and evening with no hotel, £231 adds one night somewhere central, and £433 buys a private speedboat charter, a dinner show and two nights in an apartment. The activity is rarely the expensive part — a ball pit is £8 a head and darts is £10. Accommodation and drinks are what move the number."

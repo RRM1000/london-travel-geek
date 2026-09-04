@@ -16,6 +16,12 @@ tags:
   - things to do
   - London experiences
 draft: false
+heroImage: "../../assets/articles/stag-do-london/flight-club-darts.jpg"
+heroImageAlt: "The interior of Flight Club darts, with hoops of filament bulbs over long gold tables and groups drinking at them"
+heroImageCredit: "Matt Brown"
+heroImageSource: https://commons.wikimedia.org/wiki/File:Inside_Flight_Club.jpg
+heroImageLicense: "CC BY 2.0"
+heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0
 faq:
   - q: "How much does a stag do in London cost per person?"
     a: "Costed from operators' own prices, £94 a head covers a day and an evening with no bed, £214 adds one night in a private hostel room, and £414 buys a two-night weekend with a private speedboat charter and a proper dinner. The games are cheap — £6 at Bounce, £8 for off-peak axe throwing, £10 for darts. Beds and bars are what cost money."
