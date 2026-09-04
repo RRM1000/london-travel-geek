@@ -3,7 +3,7 @@ title: "Bonfire Night in London: Every Display, and Where to Watch for Free"
 seoTitle: "Bonfire Night London 2026: Fireworks Displays and Free Views"
 description: "Every London fireworks display for Bonfire Night 2026 with dates, prices and booking links, which famous ones no longer run, and the free viewpoints that are actually open after dark."
 publishedAt: 2026-08-29
-updatedAt: 2026-08-29
+updatedAt: 2026-09-29
 sites:
   - london
 canonicalSite: london
@@ -53,6 +53,16 @@ This guide lists every display you can buy a ticket for, the one that is still f
 
 ---
 
+## Battersea Park: the other big one
+
+**Alexandra Palace is not the only large paid display in London — Battersea Park is the other**, run by Enable on behalf of Wandsworth Council, and it sells out in much the same way.
+
+**Tickets go on sale on Tuesday 8 September** — presale from 09:00, general sale from midday — and the site is now live. It runs over **two nights**, but **the dates themselves have not been published yet**, so sign up rather than assuming a weekend.
+
+Between them, Alexandra Palace and Battersea take most of London's paid fireworks audience. If you want either, the sign-up list is the whole game: both sell out before most people start looking.
+
+---
+
 ## Alexandra Palace: the big one, and the format has changed
 
 The best-known display in London, on a ridge with one of the great views over the city — and **the format is different this year**.
@@ -71,7 +81,7 @@ The event is now called the Fireworks and Drone Festival. The drones fly formati
 
 ![A drone display forming a lit figure in the night sky above Alexandra Park, watched by a crowd](../../assets/articles/bonfire-night-london/alexandra-palace-drone-show.jpg)
 
-> ⚠️ **The presale opens at 12pm on Wednesday 2 September 2026**, and the [priority sign-up list](https://signup.fireworks.london/) is the only route to early-bird pricing. This event sells out, so join the list rather than relying on catching the general sale.
+> ⚠️ **The presale has been and gone — it ran on 2 September** — but tickets have not yet gone on general sale. The [priority sign-up list](https://signup.fireworks.london/) is still open and is still the only route to early-bird pricing, so join it now rather than waiting for the general release. This event sells out.
 
 **Expect around £15–£18 for an adult and £11–£12 for a child**, based on 2025 prices of £15.50 and £10.50 in advance. Under-10s go free on the Sunday, on early-bird tickets only.
 

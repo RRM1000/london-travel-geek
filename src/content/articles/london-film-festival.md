@@ -3,7 +3,7 @@ title: "BFI London Film Festival 2026: Dates, Tickets and How to Get Them"
 seoTitle: "BFI London Film Festival 2026: Tickets, Dates and Prices"
 description: "When LFF 2026 tickets go on sale, what they cost, the £6 rate for under-25s, and the practical routes into a sold-out screening — returns, standby and face-value resale."
 publishedAt: 2026-08-29
-updatedAt: 2026-08-29
+updatedAt: 2026-09-04
 sites:
   - london
 canonicalSite: london
@@ -17,11 +17,11 @@ tags:
 draft: false
 faq:
   - q: "When is the BFI London Film Festival 2026?"
-    a: "7 to 18 October 2026. It is the 70th edition. The full programme is revealed at 11am on Wednesday 2 September 2026, and tickets go on general sale at 10am on Thursday 17 September 2026."
+    a: "7 to 18 October 2026. It is the 70th edition. The programme was published on 2 September and is live now. Tickets go on general sale at 10am on Thursday 17 September 2026. Elsinore opens the festival on 7 October and The Debut closes it on 18 October."
   - q: "When do London Film Festival tickets go on sale?"
     a: "General sale opens at 10am on Thursday 17 September 2026. Before that, BFI Patrons book from 10am on 9 September and BFI Members from 10am on 10 September — a week's head start. A further batch of extra tickets is released at 10am on Thursday 1 October."
   - q: "How much are London Film Festival tickets?"
-    a: "Tickets start at £10 plus a £1 booking fee, with no booking fee for BFI Members and Patrons. The full 2026 price grid is published with the programme on 2 September. In 2025, standard screenings were £13 for weekday matinees and £18 for evenings and weekend matinees, gala premieres were £21–£30, and the Opening and Closing Night Galas were £40."
+    a: "Tickets start at £10, and £6 for anyone 25 and under. Standard screenings are £13 for weekday matinees before 5pm and £18 for evenings and weekend matinees. Gala premieres are £21 to £30, the Opening and Closing Night Galas £40, the Surprise Film £21, and Relaxed screenings are always £6. Add a £1 booking fee, which BFI Members and Patrons do not pay."
   - q: "Is there a cheap London Film Festival ticket for under-25s?"
     a: "Yes. BFI 25 & Under is free to join for anyone aged 16 to 25, and gets you £6 tickets to London Film Festival screenings. It is a different rate from the £4 the same scheme gets you for regular year-round screenings at BFI Southbank, so do not be surprised when festival tickets come up at £6."
   - q: "Is BFI Membership worth it for the London Film Festival?"
@@ -42,9 +42,9 @@ heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 
 The BFI London Film Festival runs **7 to 18 October 2026**, its 70th edition. It is the largest public film event in the UK, and unlike Cannes or Venice it is built for ordinary ticket-buyers rather than accredited industry — most of the programme is on general sale, and most of it is affordable.
 
-The part that catches people out is the calendar. The programme is not published until **2 September**, general sale opens on **17 September**, and by then the handful of screenings everyone wants are largely gone. Knowing the dates in advance is most of the battle.
+The part that catches people out is the calendar. **The programme is out — it landed on 2 September** — but general sale does not open until **17 September**, and by then the handful of screenings everyone wants are largely gone. **Elsinore** opens the festival on 7 October and **The Debut** closes it on the 18th; both galas are at the Royal Festival Hall.
 
-> 💡 **The Short Version:** The programme lands at **11am on 2 September**. Tickets go on **general sale at 10am on 17 September** — but **BFI Members book from 10 September**, a week earlier, and membership is **£44**. If you are **16 to 25**, join **BFI 25 & Under** first: it is free, and it makes every festival ticket **£6**. Standard tickets start at **£10 plus a £1 booking fee**. If a screening sells out, there is a **fresh release at 10am on 1 October**, another **at 10am every festival morning**, face-value resale on **Twickets**, and a **returns and standby queue** at the venue on the night.
+> 💡 **The Short Version:** The programme is live. Tickets go on **general sale at 10am on 17 September** — but **BFI Members book from 10 September**, a week earlier, and membership is **£44**. If you are **16 to 25**, join **BFI 25 & Under** first: it is free, and it makes every festival ticket **£6**. Standard tickets start at **£10 plus a £1 booking fee**. If a screening sells out, there is a **fresh release at 10am on 1 October**, another **at 10am every festival morning**, face-value resale on **Twickets**, and a **returns and standby queue** at the venue on the night.
 
 ---
 
@@ -52,7 +52,7 @@ The part that catches people out is the calendar. The programme is not published
 
 | Date | Time | What happens |
 | --- | --- | --- |
-| **Wed 2 September** | 11am | Full programme revealed |
+| **Wed 2 September** | 11am | Full programme revealed — done |
 | **Wed 9 September** | 10am | Priority booking opens — BFI Patrons |
 | **Thu 10 September** | 10am | Priority booking opens — BFI Members |
 | **Thu 17 September** | 10am | **Tickets on general sale** |
@@ -65,22 +65,21 @@ Two things follow from this. The first is that if you want a specific screening 
 
 ## What it costs
 
-**Tickets start at £10 plus a £1 booking fee.** Members and Patrons pay no booking fee. The full 2026 price grid is published alongside the programme on 2 September.
+**Tickets start at £10, or £6 if you are 25 or under**, plus a £1 booking fee that Members and Patrons do not pay. These are the confirmed 2026 prices, from the festival's own booking page:
 
-For planning purposes, these were the 2025 prices, and the structure rarely changes much year to year:
-
-| Screening type | 2025 price |
+| Screening type | 2026 price |
 | --- | --- |
 | Weekday matinee, before 5pm | £13 |
 | Evenings, and weekend matinees | £18 |
-| Concessions (matinees / weekends) | £10 / £12 |
 | Gala premiere, Royal Festival Hall | £21–£30 |
 | **Opening and Closing Night Gala** | £40 |
-| Repeat matinee of a gala | £16–£18 |
+| Repeat matinee of a gala, weekday / weekend | £16 / £18 |
+| Special Presentation, premiere | £21 |
+| Special Presentation, matinee weekday / weekend | £16 / £18 |
 | Surprise Film | £21 |
-| Screen Talks | £21 |
 | Family strand | £10 adult, £6 child |
 | Relaxed screenings | £6 |
+| **Anyone 25 and under, anything** | **£6** |
 
 Treat these as a guide rather than a quote — they are last year's figures, and the 2026 set will be confirmed on 2 September.
 
