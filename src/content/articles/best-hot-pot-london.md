@@ -8,7 +8,7 @@ sites: [london]
 canonicalSite: london
 category: "Food and drink"
 tags: [restaurants, Chinese restaurants, Asian food, dining, Chinatown]
-draft: true
+draft: false
 faq:
   - q: "What is Chinese hot pot?"
     a: "A pot of broth is heated at your table and you cook raw ingredients in it yourself, a few pieces at a time, dipping each one in a sauce you mix at a self-service counter. It is a format rather than a dish, and the regional versions have little in common: a Chongqing pot is beef tallow and dried chilli, a Beijing copper pot is clear water and lamb. Nobody cooks for you, which is the point."
