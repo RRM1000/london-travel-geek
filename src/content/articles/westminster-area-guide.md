@@ -107,7 +107,16 @@ Westminster has its own share of the commemorative plaques marking where notable
 *Westminster Bridge and the Palace of Westminster. Photo: [Txllxt TxllxT](https://commons.wikimedia.org/wiki/File:London_-_Albert_Embankment_path_-_Lambeth_Palace_Road_-_South_Bank_-_Jubilee_Walkway_-_View_NNW_towards_Houses_of_Parliament,_Westminster_Bridge_%26_London_Eye.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ### Parliament Square
-The green at the centre, ringed by statues — Churchill, Mandela, Millicent Fawcett — with the Abbey on one side and Parliament on the other.
+
+The green at the centre, ringed by twelve statues, with **Westminster Abbey** on one side and the **Palace of Westminster** on the other. It is free, always open and unfenced, and you can stand on the grass.
+
+**The statues are the reason to linger.** Churchill scowling at Parliament, Mandela, Gandhi, Lincoln — and since 2018 **Millicent Fawcett**, the first woman commemorated here and the only statue in the square made by a woman.
+
+**Big Ben is the tower, not the bell.** The Elizabeth Tower reopened after five years of restoration and the bell chimes on the hour; **tours are for UK residents only**, arranged through an MP.
+
+> ⚠️ **The square is often partly fenced** for ceremonies, works or demonstrations, and the pavements around Parliament are subject to short-notice closures. A specific photograph is never guaranteed.
+
+Westminster station comes up directly onto the corner, and the *Suffragette* and *Spectre* filming locations are both within five minutes.
 
 ### Whitehall
 
@@ -115,7 +124,15 @@ The green at the centre, ringed by statues — Churchill, Mandela, Millicent Faw
 
 *Trafalgar Square sits at the top of Whitehall, a ten-minute walk from Parliament Square and free to wander.*
 
-The government spine running north to Trafalgar Square. Downing Street's gates, the Cenotaph and Horse Guards Parade are all on it.
+The government spine running north from Parliament Square to Trafalgar Square, about ten minutes end to end and free the whole way.
+
+**Downing Street is gated and has been since 1989** — you see the entrance and the police, not the door. The **Cenotaph** stands in the middle of the road, and the **Banqueting House**, the only surviving part of the old Whitehall Palace, has a Rubens ceiling and is ticketed.
+
+**Horse Guards is the free ceremony.** The full mounted **Changing of the King's Life Guard is at 11am, Monday to Saturday, and 10am on Sunday**, and it is far easier to see than the Buckingham Palace version — no crowd barriers, no railings, and you can stand a few feet away.
+
+**There is also a free dismounted inspection at 4pm every day**, which almost nobody knows about and which takes about ten minutes.
+
+**You can walk straight onto the parade ground**, which is not obvious from the street — go through the archway.
 
 ![Mounted Household Cavalry on parade at Horse Guards, Whitehall](../../assets/articles/westminster-area-guide/horse-guards-parade.jpg)
 
@@ -126,13 +143,40 @@ The government spine running north to Trafalgar Square. Downing Street's gates, 
 *Horse Guards between ceremonies — you can walk right onto the parade ground, which is not obvious from the street. There's a free inspection here every day at 16:00, mounted or not.*
 
 ### St James's Park and The Mall
-The ceremonial route to Buckingham Palace. The park is the reason to walk it rather than take the Tube.
+
+The ceremonial route to Buckingham Palace, and the park is the reason to walk it rather than take the Tube — it is the oldest of the Royal Parks and much the prettiest.
+
+**The bridge over the lake is the best free view in the area**: Buckingham Palace at one end, the towers and turrets of Whitehall at the other, and the whole thing looks like a different city.
+
+**There are pelicans**, descended from a gift to Charles II in 1664, and they are fed at the lakeside around 2.30pm each day.
+
+**Buckingham Palace State Rooms open only in summer**, roughly July to September, and are ticketed and timed. The **Changing of the Guard at the Palace is free** but the crowd is deep — the Horse Guards version ten minutes away is the better watch.
+
+**The park is free and open dawn to midnight.** St James's Park station is at the western end, Charing Cross at the eastern.
 
 ### Victoria Street and Westminster Cathedral
-South-west of the Abbey. Offices and shops rather than sights, but the Cathedral at the end is worth the ten minutes.
+
+South-west of the Abbey, and mostly offices and chain shops rather than sights — but the cathedral at the end is worth the ten-minute walk and almost nobody makes it.
+
+**Westminster Cathedral is not the Abbey.** It is the Roman Catholic mother church, finished in 1903 in striped red brick and Byzantine style, and it looks like nothing else in London. **Entry to the cathedral is free.**
+
+**The bell tower is the hidden viewpoint.** £10 adult, £5 concession, £22 family, and **it has a lift rather than a staircase** — the only central London tower view that is not a climb. The gallery sits 210 feet above Victoria Street looking straight down it.
+
+> ⚠️ **Tickets are sold in person at the Cathedral Shop, open 10.30am to 4.30pm Wednesday to Sunday**, so the shop's hours are the tower's hours. There is no online booking. The cathedral now calls it **The Campanile**.
+
+Victoria station is five minutes further west.
 
 ### Millbank and the Thames path
-South along the river towards Tate Britain, and the quietest walk in the area.
+
+South along the river from Parliament towards Tate Britain, and much the quietest walk in Westminster — most visitors turn north at Parliament and never come this way.
+
+**Tate Britain is free and open daily 10am to 6pm.** It holds the national collection of British art and **the largest collection of Turner anywhere**, in the purpose-built Clore Gallery — if Turner is why you came to London's galleries, this is the building rather than the National.
+
+**The Tate Boat runs from the pier outside to Tate Modern every 40 minutes**, taking about eighteen minutes, and it accepts contactless. It is a river bus rather than a tour and it is the best way to travel between the two.
+
+**Millbank Tower and the Victoria Tower Gardens** are on the way, the latter holding the Burghers of Calais and the Buxton Memorial.
+
+**Pimlico is the nearest station to Tate Britain**, five minutes, rather than Westminster — which is a fifteen-minute walk back along the river.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-area-guide-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

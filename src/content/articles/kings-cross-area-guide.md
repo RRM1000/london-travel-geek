@@ -100,7 +100,16 @@ King's Cross has its own share of the commemorative plaques marking where notabl
 *St Pancras International. Photo: [Robert Lamb](https://commons.wikimedia.org/wiki/File:View_of_St._Pancras_station_from_outside_King%27s_Cross_station_-_geograph.org.uk_-_4668700.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Granary Square and Coal Drops Yard
-The centre of the redevelopment. Fountains, the granary building, the shopping yard and the canal steps.
+
+The centre of the redevelopment, and the part worth walking even if you buy nothing. **Granary Square has more than a thousand choreographed fountains** set flush into the paving, free, lit at night and switched off in winter — children run through them all summer and nobody minds.
+
+**The granary building itself is Central Saint Martins**, an art school rather than a shop, so the ground floor is open and the crowd is students.
+
+**Coal Drops Yard** is the shopping half, in Victorian arches built in the 1850s to drop coal from rail wagons into carts below, with Thomas Heatherwick's two roofs kissing in the middle. Free to walk through.
+
+**The canal steps below the square are the best free seat in King's Cross** — a wide flight of stone terraces down to the water, facing west, and they fill on a warm evening.
+
+**It is dead early and busiest from mid-afternoon.** The shops keep normal retail hours but the bars and the steps run late, so evening is the better visit.
 
 ![The entrance to Coal Drops Yard under a brick railway viaduct, lettered Welcome to Coal Drops Yard](../../assets/articles/kings-cross-area-guide/coal-drops-yard-entrance.jpg)
 
@@ -111,7 +120,14 @@ The centre of the redevelopment. Fountains, the granary building, the shopping y
 *The upper level, which runs stalls and events through the summer.*
 
 ### The two stations
-King's Cross for the north of England and Scotland; St Pancras for Eurostar and Thameslink. Two minutes apart and easy to confuse.
+
+**King's Cross for the north of England and Scotland; St Pancras for Eurostar, Thameslink and the East Midlands.** They are two minutes apart, they look nothing alike, and confusing them is the single most expensive mistake you can make here — leave margin if you are changing between them.
+
+**St Pancras is the beautiful one.** Barlow's 1868 train shed was the largest single-span structure in the world when it opened, and the Gothic hotel frontage on Euston Road is a separate building bolted to the front of it. Both are free to walk into.
+
+**King's Cross has the Western Concourse**, opened in 2012 — a single steel fan springing from one central funnel, and **Platform 9¾ is against the wall on the left**, outside the ticket barriers.
+
+**The trolley is free to look at and free to photograph yourself.** The staff photographer is optional and will use your phone. Expect a long wait at weekends and in school holidays; first thing in the morning is the only reliably quiet slot, and the shop beside it needs no queue at all.
 
 ![The white lattice roof of the Western Concourse at King's Cross station fanning out above the crowds](../../assets/articles/kings-cross-area-guide/kings-cross-western-concourse.jpg)
 
@@ -122,7 +138,14 @@ King's Cross for the north of England and Scotland; St Pancras for Eurostar and 
 *The Platform 9¾ trolley. Queuing is free; the photograph taken by the staff photographer is not, and the shop beside it is where the queue ends.*
 
 ### Regent's Canal and St Pancras Lock
-Behind Granary Square. The towpath west to Camden and the nature reserve.
+
+Behind Granary Square, and the way out of King's Cross that most visitors never take. **The towpath runs west to Camden Lock in about forty minutes on foot**, flat and continuous, passing the zoo and Regent's Park — it is free, and it is a considerably better journey than the Northern line.
+
+**St Pancras Lock** is a working lock you can stand beside, with the **gasholder frames** behind it: cast-iron Victorian guide frames, dismantled and re-erected here, **three now holding flats and the fourth left empty as a circular park**. Gasholder Park is free, open, and roofed in a mirrored canopy.
+
+**Word of Mouth to Camden and Little Venice** runs from the same water if you would rather sit than walk.
+
+**Go west rather than east.** The towpath towards Islington disappears into the Islington Tunnel after ten minutes and you have to come up onto the road.
 
 ![Narrowboats moored on the Regent's Canal beside the grass steps at Granary Square](../../assets/articles/kings-cross-area-guide/regents-canal-granary-square.jpg)
 
@@ -135,6 +158,10 @@ Behind Granary Square. The towpath west to Camden and the nature reserve.
 ### Camley Street Natural Park
 Off the towpath between the canal and the railway. **Two acres of woodland, marsh and pond**, made a nature reserve in 1984 on the site of a former coal drop — and the fastest way to stop hearing King's Cross without leaving it.
 
+**It is free, and the mainline into St Pancras runs along the far side**, which is the surprise of the place: kingfishers and reed beds with a Eurostar going past behind the trees.
+
+It is small enough to walk in twenty minutes and there is a visitor centre and café by the entrance. **Hours are shorter than a park's** — it closes in the late afternoon and is not open every day of the week, so check before making the walk. Access is from Camley Street, or down from the towpath.
+
 ![A woodland path winding through Camley Street Natural Park, a nature reserve behind King's Cross](../../assets/articles/kings-cross-area-guide/camley-street-natural-park.jpg)
 
 *Camley Street. The mainline into St Pancras runs along the far side of this, which is the surprise of the place.*
@@ -142,10 +169,24 @@ Off the towpath between the canal and the railway. **Two acres of woodland, mars
 Free, with a visitor centre and a café. It keeps daytime hours and closes earlier in winter, so check if you are making a trip for it rather than passing on the towpath.
 
 ### Caledonian Road and Keystone Crescent
-North. Ordinary London, plus Keystone Crescent — reputedly the tightest-radius terrace crescent in Europe.
+
+North of the stations, and ordinary working London the moment you cross the canal — kebab shops, hardware stores and buses, with none of the redevelopment money that stopped at Granary Square.
+
+**Keystone Crescent is the reason to walk up.** A tiny double crescent of 1840s terraces, reputedly **the tightest radius of any terrace crescent in Europe**, tucked off the main road and easy to walk straight past. It is a residential street with nothing to buy and no marker.
+
+**Free, always open, and it takes five minutes.** Combine it with the walk to Camden along the canal rather than making a trip of it on its own — Caledonian Road station is about eight minutes further north if you would rather not walk back.
 
 ### Somers Town and the British Library
-West of the stations. The Library, the Francis Crick Institute and a quiet residential pocket.
+
+West of the stations, between Euston Road and Camden, and a quiet residential pocket most visitors never enter.
+
+**The British Library is free and it is the reason to come.** The **Treasures gallery** holds Magna Carta, Leonardo's notebook, Shakespeare's First Folio, Handel's *Messiah* in his own hand and the Beatles' lyrics on the back of envelopes — no ticket, no booking, and it takes an hour. The reading rooms need a reader's pass; the Treasures gallery does not.
+
+**Its piazza is one of the better free places to sit** in this part of London, with Paolozzi's huge bronze Newton at the centre.
+
+**The Francis Crick Institute** next door is a working research building, but its ground-floor exhibition space is free and open to the public.
+
+**The Library closes earlier than you would expect on Sundays**, and the Treasures gallery keeps its own hours separate from the building's — worth checking if it is the only reason you are going.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-area-guide-harry-potter-london-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Harry Potter London walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

@@ -100,7 +100,16 @@ Covent Garden has its own share of the commemorative plaques marking where notab
 *Charles Fowler's market hall, built 1828–30. The arched glass roofs came half a century later, covering what had until then been open yards between the ranges — the produce market itself left for Nine Elms in 1974.*
 
 ### The Piazza and market halls
-The centre. Market stalls, the performers, the Royal Opera House on the north-east corner and St Paul's Church to the west.
+
+The centre, and the most crowded few hundred square metres in this guide. Charles Fowler's 1828 market hall with its later glass roofs, split into the **Apple Market** for craft stalls and the **Jubilee Market** for the cheaper end.
+
+**The street performers are licensed and auditioned**, which is why the standard is higher than it looks — pitches are balloted, and the ones under the glass in the North Hall are classical musicians rather than jugglers. **Free to watch; they pass a hat.**
+
+**St Paul's Church to the west is the Actors' Church**, free to enter, lined with memorials to actors, and its portico is where Eliza Doolittle sells flowers at the start of *Pygmalion*. The churchyard behind it is a walled garden and one of the quietest places in Covent Garden.
+
+**Bar Cicoria at the Royal Ballet and Opera**, on the north-east corner, is the free viewpoint nobody uses — a fifth-floor terrace looking down onto the market roof, **walk-ins only, no ticket required**, noon to 11pm Monday to Saturday.
+
+Go before ten in the morning or after eight in the evening if you want to move.
 
 ![Outdoor restaurant terraces filling the cobbled Piazza at Covent Garden at dusk](../../assets/articles/covent-garden-area-guide/covent-garden-piazza-terrace.jpg)
 
@@ -112,7 +121,13 @@ The centre. Market stalls, the performers, the Royal Opera House on the north-ea
 
 ### Seven Dials
 
-Seven short streets radiating from a sundial pillar, each with its own character. Independent fashion, coffee, two West End theatres on the junction, and Seven Dials Market.
+Seven short streets radiating from a sundial pillar, each with its own character — independent fashion on Monmouth Street, coffee and shoes on Earlham Street, and two West End theatres on the junction itself.
+
+**The pillar has six dials, not seven.** It was laid out in the 1690s when only six streets were planned; the seventh was added later and the sundial never caught up. The original was pulled down in 1773 and the present one dates from 1989.
+
+**Seven Dials Market fills Thomas Neal's Warehouse**, which stored bananas and cucumbers for the old fruit market — its two halls are still called **Banana Warehouse and Cucumber Alley**. Free to walk into, around twenty traders, open daily and later than most of Covent Garden.
+
+**It is the calmer alternative to the Piazza**, three minutes north and with a fraction of the crowd. Covent Garden and Leicester Square stations are each about four minutes.
 
 ![The sundial pillar at the Seven Dials junction, with the Cambridge Theatre behind it and people sitting on the steps](../../assets/articles/covent-garden-area-guide/seven-dials-sundial.jpg)
 
@@ -125,7 +140,13 @@ Seven short streets radiating from a sundial pillar, each with its own character
 
 ### Old Brewer's Yard
 
-A courtyard off Mercer Walk, opened in December 2025 on a plot that was brewing beer in the 1740s. Bars, two restaurants and shops around a cobbled yard you can walk into for nothing — the ticketed brewery tour is listed under Things to do below.
+A courtyard off Mercer Walk, opened in December 2025 on a plot that was brewing beer in the 1740s. Bars, two restaurants and shops around a cobbled yard, with a working **Open Gate Brewery** on the site.
+
+**The courtyard is free to walk into and the bar needs no ticket** — only the brewery tours upstairs do. That distinction catches people out, because the signage pushes the tour.
+
+**It sprawls further back than the entrance suggests.** From Mercer Walk it reads as a single small yard; the brewery and the larger rooms are behind, and it is worth going through rather than glancing in.
+
+**It is the newest thing in this guide**, so it is quieter than the Piazza and the market and has not yet appeared in most published guides — which for now makes it the easiest place near the Piazza to sit down on a Saturday afternoon.
 
 ![The cobbled courtyard of Old Brewer's Yard with a vintage Guinness delivery lorry parked in it](../../assets/articles/covent-garden-area-guide/old-brewers-yard-guinness.jpg)
 
@@ -141,17 +162,38 @@ A courtyard off Mercer Walk, opened in December 2025 on a plot that was brewing 
 
 *Neal's Yard. The entrances are narrow alleys off Monmouth Street and Short's Gardens, which is why so many people walk past without ever finding it.*
 
-A single small courtyard off Short's Gardens. Painted buildings, cafe tables and the original Neal's Yard Remedies shop.
+A single small courtyard reached down narrow alleys off Short's Gardens and Monmouth Street, which is why so many people walk past without ever finding it. Painted buildings in yellow, blue and pink, cafe tables filling the middle, and the original **Neal's Yard Remedies** shop that the chain is named after.
+
+**It is tiny — perhaps twenty metres across — and it is on every list**, so at lunchtime in summer you are queueing to stand in it. **Early morning is the only time you will get it empty**, and that is also when the light reaches the painted walls.
+
+**Neal's Yard Dairy is round the corner on Short's Gardens**, not in the yard itself, and it is the better stop: a genuine cheesemonger that matured British farmhouse cheese back into existence in the 1980s, and they will let you taste before you buy.
+
+**Monmouth Coffee** on the same corner has been roasting since 1978 and has a permanent queue.
 
 ### Floral Street and Long Acre
-The main east–west shopping streets, with the bridge linking the Royal Opera House buildings over Floral Street.
+
+The two main east–west shopping streets, running parallel from the Piazza towards Leicester Square and Holborn. **Long Acre is the wider, chainier one**; Floral Street behind it is narrow, pedestrian in stretches and has the more interesting shops.
+
+**The Bridge of Aspiration crosses Floral Street** — a twisting glass and aluminium footbridge of 2003 linking the Royal Ballet School to the Opera House, so dancers cross above the street between class and stage. It is free to look at, easy to miss, and one of the better small pieces of modern architecture in central London.
+
+**Stanfords on Mercer Walk**, just off Long Acre, has been selling maps and travel books since 1853 and is the best travel bookshop in Britain.
+
+**These are working shopping streets rather than sights**, so they keep retail hours and go quiet by seven. Covent Garden station is on Long Acre and is **exit-only at busy times** — the lifts jam, and Leicester Square four minutes away is often faster.
 
 ### Bow Street and Drury Lane
 
 ![The colonnaded front of the Lyceum Theatre on Wellington Street, with The Lion King billboards and a rank of hire bikes outside](../../assets/articles/covent-garden-area-guide/lyceum-theatre-wellington-street.jpg)
 
 *The Lyceum on Wellington Street, home to The Lion King since 1999. Several of the West End's biggest houses are within five minutes of the Piazza.*
-The theatre spine, including the Theatre Royal Drury Lane — the oldest theatre site in continuous use in London.
+The theatre spine of Covent Garden, and several of the West End's biggest houses are within five minutes of the Piazza.
+
+**Theatre Royal Drury Lane is the oldest theatre site in continuous use in London**, licensed in 1663, with the current building dating from 1812. It was restored at length and reopened in 2021, and **daytime tours run when the schedule allows** — worth checking, because the front-of-house rooms are extraordinary and you see them without a ticket to the show.
+
+**The Lyceum on Wellington Street** has held *The Lion King* since 1999. **Bow Street** has the Royal Opera House stage door and the former magistrates' court where the Bow Street Runners were founded — now a hotel with a small police museum.
+
+**Book seats rather than turning up.** TKTS in Leicester Square, five minutes west, sells genuine same-day discounts; the touts and the ticket shops along the way do not.
+
+For a drink between the theatres, **Bar Cicoria's terrace** is free to walk into and overlooks the whole Piazza.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-area-guide-covent-garden-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Covent Garden walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
