@@ -27,12 +27,8 @@ faq:
     a: "The Prince Charles Cinema in Leicester Square. Membership is £15 a year, or £60 for life, and saves at least £2.50 to £3 on every ticket — a member pays £8 for a weekday matinee against £11. Five or six visits covers the annual fee, and the lifetime option covers itself in about twenty."
   - q: "Do phone networks and banks still do cinema offers?"
     a: "Some do. O2 Priority offers two Vue tickets for £9 or four for £18 on any day at any UK Vue, with 20% off food and drink. Sky Cinema customers get two free Vue tickets every month, and Vitality health and life insurance customers get a free ticket. Compare the Market's Meerkat Movies gives 2-for-1 on Tuesdays or Wednesdays."
-heroImage: "../../assets/articles/cinema-deals-london/ritzy-brixton.jpg"
-heroImageAlt: "The white and red facade of the Ritzy cinema in Brixton, with its marquee sign and bicycles parked outside"
-heroImageCredit: "Pinhas stern"
-heroImageSource: https://commons.wikimedia.org/wiki/File:Ritzy_-_Old_Cinema_of_Brixton_-_October_2023.jpg
-heroImageLicense: "CC BY-SA 4.0"
-heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+heroImage: "../../assets/articles/best-cinemas-london/garden-cinema-bar.jpg"
+heroImageAlt: "The art deco Garden Bar inside The Garden Cinema, with a curved red bar under neon lettering, red velvet banquettes and a film-collage mural along the wall"
 ---
 
 The same film, on the same evening, costs **£4.99 in Mile End and over £25 in Notting Hill**. Almost none of that difference is about the film.
