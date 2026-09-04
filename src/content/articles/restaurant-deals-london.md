@@ -28,8 +28,8 @@ faq:
     a: "Mostly not. The great majority run Monday to Friday, and several stop at Thursday. A few run daily, including Trinity in Clapham and the prix-fixe at The Delaunay, and Hawksmoor runs its set lunch on Saturdays as well."
   - q: "Is a pre-theatre menu the same thing?"
     a: "Almost. It is the same fixed-price idea moved to early evening, usually finishing before 7pm so the restaurant can turn the table for the post-show crowd. Several restaurants run both, at the same price."
-heroImage: "../../assets/articles/restaurant-deals-london/the-ivy-tower-bridge.jpg"
-heroImageAlt: "The green awnings and planted terrace of The Ivy at Tower Bridge, with an A-board outside advertising a fixed-price three-course menu"
+heroImage: "../../assets/articles/restaurant-deals-london/mezze-sharing-table.jpg"
+heroImageAlt: "An overhead view of a shared mezze spread on a patterned tiled table - flatbreads, falafel, hummus, a sliced chicken flatbread and bowls of dips"
 ---
 
 The same kitchen, the same chefs, the same dining room — for less than half the money. **Fixed-price menus are the biggest structural discount in London restaurants**, and it exists for an unglamorous reason: a half-empty room at midday costs the same to staff as a full one, so restaurants would rather fill it cheaply than leave it empty. The same logic applies to the early-evening tables a theatre crowd will vacate by 7pm, which is why pre-theatre menus exist and why they are priced the same way.

@@ -16,8 +16,8 @@ tags:
   - things to do
   - London experiences
 draft: false
-heroImage: "../../assets/articles/stag-do-london/flight-club-darts.jpg"
-heroImageAlt: "The interior of Flight Club darts, with hoops of filament bulbs over long gold tables and groups drinking at them"
+heroImage: "../../assets/articles/stag-do-london/karting-race.jpg"
+heroImageAlt: "Three racing karts cornering in close formation on an outdoor circuit, the leading driver in a blue suit and patterned helmet"
 heroImageCredit: "Matt Brown"
 heroImageSource: https://commons.wikimedia.org/wiki/File:Inside_Flight_Club.jpg
 heroImageLicense: "CC BY 2.0"
