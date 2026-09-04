@@ -16,12 +16,8 @@ tags:
   - food and drink
   - money saving
 draft: false
-heroImage: "../../assets/articles/kids-eat-free-london/morrisons-cafe.jpg"
-heroImageAlt: "The seating area of a Morrisons supermarket café, with wooden tables, pastel chairs and menu cards"
-heroImageCredit: "Xeverything11"
-heroImageSource: https://commons.wikimedia.org/wiki/File:2024-05-22_The_Cafe,_Morrisons,_Inverness.jpg
-heroImageLicense: "CC BY-SA 2.0"
-heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
+heroImage: "../../assets/articles/kids-eat-free-london/family-table-juice.jpg"
+heroImageAlt: "A young child at a laid dining table raising a glass of orange juice, with a platter of vegetables and family members around them"
 faq:
   - q: "Do I need to book to use a kids-eat-free offer?"
     a: "Not usually, but you often need something else. Las Iguanas and Prezzo both require a free app or loyalty account, and Prezzo's Kids Club is a paid subscription you have to join first. Morrisons, Dunelm and IKEA need nothing beyond the qualifying spend. Bella Italia needs nothing at all — just tell the server when you order, and again when you ask for the bill."
