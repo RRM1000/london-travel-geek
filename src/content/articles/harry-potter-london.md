@@ -186,6 +186,9 @@ The all-films version of this walk, with Bond, *Slow Horses* and the rest, is in
 
 **Leadenhall Market** repays the walk. The cream, maroon and green ironwork of 1881 needed no set dressing at all, which is why it reads as a set while you are standing in it. **The blue door that played the Leaky Cauldron entrance is now Two Eyes Coffee House on Bull's Head Passage** — a working speciality coffee shop that cheerfully says so on its own About page, and whose profits fund migraine research. It opens 8.30-3.30 on Monday and Friday, 8-4 Tuesday to Thursday, and **closes at weekends**, which catches out most of the people who come to photograph it.
 
+![The covered arcade of Leadenhall Market, its maroon and cream ironwork and glass roof above cobbles, with hanging lanterns and shopfronts either side](../../assets/articles/harry-potter-london/leadenhall-market.jpg)
+*Filmed as Diagon Alley with no set dressing at all. It is free, roofed, and quietest on a weekday.*
+
 **Great Scotland Yard is the honest disappointment.** The Ministry of Magic visitor entrance was filmed at the junction with Scotland Place, and the red telephone box was a prop, brought in for the shoot and taken away afterwards. There is a short street of offices and a hotel. The same goes for **Lambeth Bridge**, **Piccadilly Circus** and **Claremont Square** — real locations, nothing to mark them, and in Claremont Square's case a private residential terrace whose residents field this every weekend.
 
 **St Pancras is the underrated one.** The Gothic frontage everyone thinks is King's Cross is St Pancras next door, and the flying Ford Anglia lifts off outside it. It costs nothing, it is ninety seconds from the trolley, and it is better in person than on screen — the opposite of almost everything else here.
@@ -234,7 +237,7 @@ In between: **Platform 9¾, Leadenhall Market, London Bridge, Southwark Cathedra
 
 **Tour for Muggles** has run since 2011 and is the established name: **£19 per adult, £17 per child, free under 5**, with private tours at a £150 booking fee plus £19 a head. Expect **£15 to £25** across the general operators for a two-hour small-group walk.
 
-And the honest position, which no tour page will tell you: **every location any of these visits is in the table above and free to reach on your own.** What you are buying is sequence, a guide who knows which door is which, and someone to fill the walking in between. If you like being told things, it is money well spent. If you would rather walk it yourself, you already have the route.
+And the honest position, which no tour page will tell you: **every location any of these visits is in the table above and free to reach on your own.** What you are buying is sequence, a guide who knows which door is which, and someone to fill the walking in between. If you want the stories rather than just the addresses, it is money well spent. If you would rather walk it yourself, you already have the route.
 
 ---
 
