@@ -99,13 +99,38 @@ Bermondsey has its own share of the commemorative plaques marking where notable 
 ## Key streets and micro-districts
 
 ### Bermondsey Street
-The spine. White Cube, the Fashion and Textile Museum, restaurants and Georgian houses. Runs south from London Bridge.
+
+The spine of the area, running south from London Bridge, and one of the most complete small streets in inner London — Georgian houses, warehouse conversions, and about twenty places to eat in half a mile.
+
+**White Cube at 144 is the anchor and it is free.** Fifty-four thousand square feet behind a plain warehouse frontage, showing international artists at museum scale, with no ticket and usually no crowd. Nobody will ask what you are doing there.
+
+**The Fashion and Textile Museum at 83** is the orange and pink building — founded by Zandra Rhodes, ticketed, and closed on Mondays.
+
+**Eat along it:** **Casse-Croûte at 109** is a twenty-seat French bistro with a menu of three starters, three mains and three puddings chalked up daily; **Flour & Grape at 214** does pasta and wine cheaply enough to be a weeknight option; **Hakata Ramen at 177** does Kyushu tonkotsu.
+
+**Casse-Croûte does not take bookings for small tables**, so go early or expect to wait. London Bridge is five minutes from the northern end, Borough about the same.
 
 ### Maltby Street and Ropewalk
-The arches. Market at weekends, and a handful of permanent traders through the week.
+
+A run of railway arches under the Bermondsey viaduct, and the best street food in this part of London — smaller, denser and considerably less polished than Borough Market ten minutes north.
+
+> ⚠️ **The market is weekends only.** Saturday and Sunday, roughly 10am to 4pm, and outside those hours Ropewalk is an alley with shuttered arches. This is the single most common wasted trip in Bermondsey, and it catches people who have read about it as though it were a permanent market.
+
+**A handful of arches trade through the week**, which is the part worth knowing: **40 Maltby Street at number 40** is a wine bar and kitchen in an arch, open Wednesday to Sunday, and it is one of the best wine lists in London hidden behind a roller shutter.
+
+**Come on a Saturday morning if you want the market**, and be aware it is genuinely tight — the arches are narrow and by midday you are shuffling. Bermondsey station on the Jubilee line is about eight minutes; London Bridge ten.
 
 ### Shad Thames and Butler's Wharf
-East of Tower Bridge. Warehouse conversions, overhead gantries and riverside restaurants.
+
+East of Tower Bridge, and the most photographed street in Bermondsey. High brick warehouses on both sides with **iron gantries crossing overhead at every floor** — working bridges, not decoration: porters wheeled tea, coffee and spices across them between the warehouses, which is why they are at every level rather than just one.
+
+It was the largest warehouse complex on the Thames and handled most of London's tea. The buildings are flats now and the ground floors are restaurants.
+
+**The riverside restaurants are expensive and the view is why.** For the opposite, **Tower Bridge Collective at 1 Shad Thames**, open since October 2025, is an indoor food hall of thirteen independent kitchens over two floors and the cheapest eating anywhere near Tower Bridge.
+
+**Legare in the Cardamom Building at 31G Shad Thames** is the neighbourhood Italian, priced for locals rather than the view.
+
+**Walk it from the bridge**, two minutes, and keep going east — the street narrows and the gantries get closer together the further from the tourists you get.
 
 ![A narrow cobbled street between tall Victorian warehouses, crossed overhead by cast-iron gantry bridges](../../assets/articles/bermondsey-area-guide/shad-thames.jpg)
 
@@ -116,10 +141,24 @@ East of Tower Bridge. Warehouse conversions, overhead gantries and riverside res
 *Shad Thames. The gantries were working bridges — porters wheeled tea, coffee and spices across them between the warehouses, which is why they are at every floor rather than just one.*
 
 ### The Beer Mile arches
-South-east, along the viaduct towards South Bermondsey. Breweries, taprooms and very little else.
+
+South-east along the viaduct towards South Bermondsey: a chain of working breweries with taprooms in the railway arches, and genuinely very little else — no shops, no restaurants, and long stretches of blank brick between stops.
+
+**It is a Saturday afternoon, and only a Saturday afternoon.** Most of the taprooms open on Saturdays and a few on Fridays and Sundays; midweek almost all of them are closed production sites. Turning up on a Tuesday gets you a walk beside a railway line.
+
+**These are breweries first and bars second.** Expect concrete floors, fermentation tanks in the same room, and beer poured a few metres from where it was made — which is the appeal, and also why there is rarely much food beyond whatever van is parked outside.
+
+**Do it in one direction.** The arches run roughly a mile and a half from Bermondsey towards South Bermondsey, so start at one end and finish at a station rather than doubling back.
 
 ### Bermondsey Square
-The Friday antiques market, a cinema and a hotel, at the southern end of Bermondsey Street.
+
+The southern end of Bermondsey Street, and a modern square built on the site of Bermondsey Abbey — a small hotel, an independent cinema and a handful of places to eat around an open paved centre.
+
+**The antiques market runs on Friday mornings and it starts before dawn.** Traders set up from about 4am and it is largely over by early afternoon. It is one of the last genuine dealers' markets in London — this is where the trade buys, not a tourist antiques fair — and the early hours are the point rather than an inconvenience.
+
+**Come Friday or do not come for the market at all.** The rest of the week the square is a pleasant enough place to sit with a coffee and nothing more.
+
+**The Shortwave cinema** on the square is independent and small. **M Manze at 87 Tower Bridge Road**, five minutes east, has been serving pie, mash and liquor since 1902 and is the oldest surviving pie and mash shop in London — worth the detour, and it closes in the early afternoon.
 
 ![The orange and pink exterior of the Fashion and Textile Museum on Bermondsey Street](../../assets/articles/bermondsey-area-guide/fashion-and-textile-museum.jpg)
 

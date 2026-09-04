@@ -97,19 +97,60 @@ Richmond has its own share of the commemorative plaques marking where notable pe
 ## Key streets and micro-districts
 
 ### Richmond town centre
-Around the station and George Street. A working high street rather than a tourist one, with a good covered arcade.
+
+Around the station and George Street, and a working high street rather than a tourist one — chains, a market, banks and the ordinary business of a prosperous suburb. That is worth knowing before you arrive expecting a village.
+
+**Richmond station is the hub and it is unusually well connected**: District line, Overground and South Western Railway from Waterloo, all on one platform group. Waterloo is about twenty minutes, the District line about forty.
+
+**Eat on Red Lion Street**, two minutes off George Street: **Al Boccon di'vino at 14** serves a no-menu Italian feast where you eat what they cook that day and there is no ordering involved, and **Napoli on the Road at 12** does Neapolitan pizza. **Antipodea at 30 Hill Street** is the all-day Australian for breakfast.
+
+**Everything else in this guide is uphill or downhill from here.** The Green is two minutes west, the riverside five minutes south, and the park a twenty-minute climb — so decide the order before you set off.
 
 ### Richmond Green
-Two minutes west. Georgian frontages, the Richmond Theatre, and the palace gateway on the south-west corner.
+
+Two minutes west of the station and one of the finest greens in London — a wide open square of grass edged with Georgian frontages, still used for cricket in summer.
+
+**The palace gateway on the south-west corner is the surviving fragment of Richmond Palace**, where Elizabeth I died in 1603. Almost all of it was demolished after the Civil War; what remains is the gatehouse and a courtyard behind, and you can walk through to Old Palace Yard.
+
+**Richmond Theatre** on the north-east corner is a Frank Matcham building of 1899, the same architect as the Hackney Empire, and it takes touring productions on their way to or from the West End.
+
+**It is free, open at all hours and unfenced**, which makes it the best picnic ground in this guide. The pubs along the western side put tables out and fill on summer evenings.
 
 ### Richmond Hill and the Terrace Gardens
-South, climbing to the protected view and the entrance to the park at Richmond Gate.
+
+The climb south from the town centre to the view, about fifteen minutes on foot and steeper than it looks on a map.
+
+**The view from the Terrace Walk is protected by its own Act of Parliament** — the Richmond, Petersham and Ham Open Spaces Act 1902 — and it is the only view in England with that distinction. What it protects is the bend of the Thames below Petersham Meadows with Glover's Island in the middle, painted by Turner and Reynolds.
+
+> The protected sightline is from **the pavement at the top of the hill**, not from inside Terrace Gardens below. Both are open at all hours and free — Richmond Council describes the Gardens as accessible at all times too — so the distinction is about where the legal protection falls, not about getting locked out.
+
+**The Roebuck at 130 Richmond Hill** is directly on the view, which makes it the only pub in London where the outlook is protected by statute. There is a café in Terrace Gardens open seven days during daylight.
+
+Keep climbing and **Richmond Gate** puts you into the park at the top.
 
 ### The riverside and Petersham
-Below the hill. Pubs with terraces, boat hire, and the towpath south past the meadows to Ham House.
+
+Below the hill, and the best walk in this guide. The towpath runs south from Richmond Bridge past Petersham Meadows — still grazed by cattle in summer, which is why the view from the hill above still looks like a landscape painting — and on to Ham House, about forty minutes each way.
+
+**The White Cross on Water Lane** is the riverside pub, and it has a quirk worth knowing: **the towpath floods at high tide and the pub's lower entrance goes underwater**, tide tables pinned up by the door. It is not a problem, it is the attraction.
+
+**Boat hire runs from below Richmond Bridge** in the warmer months — rowing boats by the hour — and there are river trips downstream to Kew and Westminster.
+
+**Petersham has two serious restaurants**, both a walk: **Petersham Nurseries** does glasshouse dining inside a working plant nursery, and **The Dysart at 135 Petersham Road** runs a seasonal tasting menu. Both need booking and neither is cheap.
+
+**Ham House at the far end** is a largely unaltered 1610 Stuart house, National Trust, ticketed, and reachable only on foot or by the little seasonal foot ferry across the river.
 
 ### Richmond Park
-Behind the hill. Pembroke Lodge, the Isabella Plantation and the Pen Ponds are the three things to aim for.
+
+Behind the hill, and at 2,500 acres it is the largest of London's Royal Parks — big enough that arriving without a destination means seeing very little of it. Three things to aim for.
+
+**Pembroke Lodge** is the Georgian mansion near Richmond Gate, now a tea room, with **King Henry VIII's Mound** in its gardens: a telescopic sightline through a gap in a hedge to **St Paul's ten miles away**, protected as a linear view. Be realistic — it is a keyhole, not a vista, and on a hazy day you see very little.
+
+**The Isabella Plantation** is a fenced woodland garden in the middle of the park, best in late April and May for the azaleas, free and open all year. **Pen Ponds** are where the deer come to drink.
+
+**Around 600 red and fallow deer roam free.** Keep 50 metres away, never photograph them close up, and during the **autumn rut and the spring birthing season** the park authorities ask you to give them considerably more room.
+
+> ⚠️ **Pedestrian gates open 24 hours except during the two six-week deer culls** — November to early December and February to early March — when they shut 8pm to 7.30am on every night but Friday and Saturday. Vehicle gates close at dusk year-round. **Pembroke Lodge has a free 200-space car park**, one of only seven in the whole park, and it is the practical way in for most visitors.
 
 ![A stream running through the Isabella Plantation between banks of pink and red azaleas](../../assets/articles/richmond-area-guide/isabella-plantation.jpg)
 

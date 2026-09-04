@@ -95,19 +95,54 @@ Mayfair has its own share of the commemorative plaques marking where notable peo
 ## Key streets and micro-districts
 
 ### Bond Street
-Old and New Bond Street. Flagship fashion, jewellers and the Sotheby's auction house, whose entrance is worth a look.
+
+Old Bond Street at the Piccadilly end, New Bond Street running north to Oxford Street, and one continuous run of flagship fashion and jewellers between them. It is the most expensive retail street in Europe and it does not pretend otherwise.
+
+**Sotheby's at 34–35 New Bond Street is the free one.** Auction viewings are open to the public, no ticket and no appointment, in the days before a sale — you can walk in off the street and stand in front of things that will sell for millions. Over the door is a black granite **Egyptian statue of Sekhmet, around 1320 BC**, the oldest outdoor object in London and older than anything in the British Museum's frontage.
+
+**Allies**, the bench sculpture of Roosevelt and Churchill mid-conversation, sits halfway along and is the most photographed thing on the street.
+
+**It is a weekday street.** The galleries and auction houses keep office hours and close at weekends, when only the shops are open. Bond Street station is at the north end, Green Park at the south.
 
 ### The arcades and Piccadilly
-Burlington Arcade, the Royal Academy and the run of arcades between Piccadilly and Bond Street.
+
+Four covered Victorian shopping arcades within a few hundred metres — **Burlington**, **Piccadilly**, **Princes** and **Royal** — plus the Royal Academy between them. All free to walk through and all roofed, which makes this the best rainy hour in Mayfair.
+
+**Burlington Arcade opened in 1819** and is the oldest and grandest. It is still patrolled by **Beadles** in top hats and frock coats, the oldest small police force in the world, and they enforce the original rules: **no running, no whistling, no singing, and no opening an umbrella inside.** They will stop you, politely.
+
+**The Royal Academy** is through the courtyard next door, Tuesday to Saturday 10am to 6pm. Its exhibitions are ticketed but the courtyard, the shop and parts of the building are free to enter.
+
+**Cecconi's at 5A Burlington Gardens** is the all-day Italian at the back of the arcade, and it takes bookings — most of Mayfair at this end does not do walk-ins well.
 
 ### Cork Street and Savile Row
-Art dealers on Cork Street, tailors on Savile Row. Both free to walk down, both accustomed to browsers.
+
+Two parallel streets doing two different trades, both free to walk down, and both far more welcoming than they look from outside.
+
+**Cork Street is commercial art galleries**, one after another, showing work at museum quality with no admission charge and no crowd. **You are allowed to walk in.** Nobody will ask what you want, the price list is on the desk if you care, and looking without buying is entirely normal — this is the same argument as White Cube in Bermondsey, at a fraction of the distance from Piccadilly.
+
+**Savile Row is bespoke tailoring**, and the shopfronts are worth the walk even if a suit is not: Huntsman at number 11 supplied the Kingsman films with their entire premise. **Gieves & Hawkes at number 1** has been at that address since 1912.
+
+**Both close at weekends.** Galleries typically run Tuesday to Saturday and tailors Monday to Friday, so a Sunday walk down either street gets you shuttered windows. Green Park and Piccadilly Circus are each about five minutes.
 
 ### Shepherd Market
-Between Curzon Street and Piccadilly. Narrow lanes, pubs with pavement tables, and no chains.
+
+A pocket of narrow lanes and small squares between Curzon Street and Piccadilly, built on the site of the May Fair the district is named after. **No chains, no flagships, and a completely different scale** from the streets around it — two-storey buildings and pavement tables where everything else is six floors of plate glass.
+
+It is the one part of Mayfair that feels like a village, and it is thirty seconds off Piccadilly through an easily-missed archway.
+
+**The pubs are the point.** Ye Grapes and the Shepherd's Tavern both put tables out, and the whole square fills with drinkers on a warm evening — the closest thing central Mayfair has to a beer garden.
+
+**Green Park is three minutes away** and Hyde Park Corner about five. Go in the early evening; at lunchtime it is quiet and at eleven it is shut.
 
 ### Mount Street and Berkeley Square
-Red-brick Victorian Gothic on Mount Street, plane trees on the square, and the quietest walking in Mayfair.
+
+The quietest handsome walking in Mayfair. **Mount Street** is a run of pink terracotta and red-brick Victorian Gothic — deliberately ornate, built by the Grosvenor estate in the 1880s — and now the address for a particular kind of very expensive small shop.
+
+**Berkeley Square's plane trees were planted in 1789** and are among the oldest in central London. The square is a public garden, free, open in daylight and locked overnight.
+
+**Eat on Mount Street rather than around the square.** **Bacchanalia at 1–3** does Greek and southern Italian under a ceiling of classical sculpture; **The Guinea Grill at 30 Bruton Place**, in the mews behind, is a chophouse that has been there since the 1950s and is the least Mayfair thing in Mayfair.
+
+**Mount Street Gardens**, tucked behind the street beside the Jesuit church, is the secret one — a walled garden of benches and London planes, free, and almost never busy. It is the best place to sit down in W1.
 
 ![Two adjoining Mayfair townhouses with blue plaques, one to Handel and one to Hendrix](../../assets/articles/mayfair-area-guide/handel-hendrix-house.jpg)
 
