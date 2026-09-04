@@ -122,7 +122,7 @@ The original two-part production ends its London run on 20 September 2026. From 
 
 ### What seats actually cost
 
-Read live from the official box office. Bands vary by night: a Saturday evening costs more at every level than a Tuesday.
+Bands vary by night: a Saturday evening costs more at every level than a Tuesday.
 
 | Band | Midweek evening | Saturday evening |
 | --- | --- | --- |
@@ -133,9 +133,7 @@ Read live from the official box office. Bands vary by night: a Saturday evening 
 | Fifth | £90 | £105 |
 | Top two | £115 and £145 | £135 and £175 |
 
-**There is no booking fee through the official site.** Six tickets maximum per transaction. Before you take the cheapest seat, know that the Palace has **77 stairs up to the Balcony** and 56 to the Grand Circle, with no lift. That is the trade you are making for £25.
-
-### The Friday Forty, and the day seats that do not exist
+**### The Friday Forty, and the day seats that do not exist
 
 **Forty seats at £40 are released every Friday for the following week's performances**, spread through the theatre rather than dumped in the restricted-view corners. You enter through the TodayTix app between 12.01am and 1pm on Friday; the draw closes at 1pm and winners are told between 1pm and 5pm the same day. Won tickets can only be collected by the cardholder, so they cannot be given as a gift.
 
