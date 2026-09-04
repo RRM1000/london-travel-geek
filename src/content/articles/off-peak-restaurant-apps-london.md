@@ -29,7 +29,7 @@ faq:
   - q: "Does the 50% off include drinks?"
     a: "Not on First Table. Its FAQ is blunt about it: the deal is \"strictly 50% off food only, drinks are always full price\". EatClub is the exception — its offers come off the total bill including drinks, which is why its headline percentages are lower. And watch for per-restaurant conditions: Bala Baya in Southwark requires a minimum purchase of one beverage per diner, so the drinks you buy at full price are effectively compulsory."
   - q: "Do I have to leave early?"
-    a: "You have to arrive early rather than leave early. First Table sittings in London start from 4pm, most commonly 5pm, and the restaurant needs the table back for its own evening service. There is no stated time limit in First Table's terms, but the whole point of the first table is that the restaurant turns it. If you want a long evening, book the Last Table slots instead — those run to 10pm at some venues."
+    a: "You have to arrive early rather than leave early. First Table sittings in London run from 4pm to 10pm. 5pm is the commonest single time and it is usually all that is left at the well-known restaurants, but roughly a third of all slots are 8pm or later, mostly at newer places. There is no stated time limit in First Table's terms, but the whole point of the first table is that the restaurant turns it. If you want a long evening, book the Last Table slots instead — those run to 10pm at some venues."
   - q: "Can I use these apps for a group?"
     a: "Up to a point. First Table takes one to six diners, with each venue setting its own range within that, and the fee rises with the party — £6 for two at Bala Baya, £9 for six. Booking two First Tables and pushing them together is expressly prohibited, and if more people turn up than you booked, the offer is void and the fee is forfeited. EatClub voids the offer if you exceed the guest maximum shown on it."
   - q: "What happens if I cancel?"
@@ -44,7 +44,7 @@ These apps suit one kind of diner: someone flexible about when they eat and rela
 
 Everything below was **read off each app's own site, listings and terms and conditions on 3 September 2026**, with availability checked for Tuesday 15 and Friday 11 September.
 
-> 💡 **The Short Version:** **First Table** is the biggest single discount — 50% off food for a £6 booking fee, at 918 London restaurants, but only if you eat at 5pm. **EatClub** is free, needs no booking, and takes 25–40% off the **whole bill including drinks** at 1,069 London venues — but it is walk-in only and cannot hold you a table. **TheFork** costs nothing and its loyalty scheme needs ten bookings to earn £20. **Too Good To Go** is not a dining app at all. And the line every one of them buries: **the service charge is worked out on the bill before your discount.**
+> 💡 **The Short Version:** **First Table** is the biggest single discount — 50% off food for a £6 booking fee, at 918 London restaurants. The famous names go at 5pm; the newer ones still have 8pm and 9pm tables. **EatClub** is free, needs no booking, and takes 25–40% off the **whole bill including drinks** at 1,069 London venues — but it is walk-in only and cannot hold you a table. **TheFork** costs nothing and its loyalty scheme needs ten bookings to earn £20. **Too Good To Go** is not a dining app at all. And the line every one of them buries: **the service charge is worked out on the bill before your discount.**
 
 > ⚠️ **Nothing here stacks with anything else.** Every app on this page forbids combining its offer with another discount, with a Tastecard, or with a restaurant's own set menu — and EatClub says it detects and automatically removes them. Pick one per meal.
 
@@ -58,7 +58,7 @@ Restaurants give these tables away for the same unglamorous reason they run [set
 
 | App | Cost | Discount | Slots | London reach | Main catch |
 | --- | --- | --- | --- | --- | --- |
-| First Table | £6 to book for 2 | 50% off food only | From 4pm, mostly 5pm | 918 restaurants | Fee never refunded |
+| First Table | £6 to book for 2 | 50% off food only | 4pm to 10pm, 5pm commonest | 918 restaurants | Fee never refunded |
 | EatClub | Free + 1–6% fee | 25–40% off total bill | Live, 7 days | 1,069 venues | No booking; you may wait |
 | TheFork | Free | Up to 50% off food | Varies by day | 2,152 restaurants | 10 bookings earn £20 |
 | Too Good To Go | Bag price only | ½ price or less | 1 collection window | 11 UK chains named | You collect; you don't dine |
@@ -75,13 +75,15 @@ You pay a booking fee, the restaurant halves your food bill, and drinks stay at 
 
 **The London reality.** Of 881 restaurant pages in First Table's sitemap, **252 are in central London** — 29%, concentrated in Covent Garden (49), Soho (43), Fitzrovia (27), London Bridge (26) and Shoreditch (24). The list is overwhelmingly independent and genuinely good: **Manzi's**, **Brindisa Tapas**, **INKO NITO**, **Chotto Matte**, **Kapara**, **Maresco** and **Aqua Kyoto** in Soho alone, plus **Bala Baya** in Southwark, **Josette** in Clerkenwell, **RE:1996** in Islington and **Masala Zone** at Piccadilly Circus.
 
-We read the full fourteen-day grid for all ten Soho restaurants. **Eight of the ten had tables on Tuesday 15 September, eight on Friday 11 September — and only four on Saturday 12 September.** It is Saturday, not Friday, that closes the door. Earliest sitting seen anywhere was **4pm**; 5pm is the norm; late "Last Table" slots run to **10pm**.
+We read the full fourteen-day grid for all ten Soho restaurants. **Eight of the ten had tables on Tuesday, eight on Friday — and only four on the Saturday.** It is Saturday, not Friday, that closes the door.
+
+**The 5pm sitting is what is left at the popular restaurants, not what the app offers.** Across 448 slots on the Soho page, 5pm is the commonest at 16%, but **31% are at 8pm or later** and the range runs 4pm to 10pm. **Eight of the ten restaurants had tables at 7pm or later**, and the ones with the most were the newer and less-booked names — Wild Heart, Polpo, Brother Marcus, Fadiga — while the hardest rooms to get into, Chotto Matte and Heliot Steak House, had nothing after six. **If you are flexible about where rather than when, a normal Saturday dinner time is gettable.**
 
 **The catches.** The booking fee is **never refunded** — not for a cancellation, not for reducing your party. Bring more people than you booked and the offer is void and the fee forfeited. Arrive more than **15 minutes** late and the restaurant need not honour it. Restaurants attach their own conditions, and they are enforced: Bala Baya's, in First Table's own data, is a **minimum purchase of one beverage per diner**.
 
 Diners rate it very differently depending where you look: **4.9 out of 5 from 8,000 App Store ratings, against 3.0 out of 5 from 60 on Trustpilot**, where 38% are one-star. The complaints are consistent — a reviewer on 13 July 2026 found the service charge worked out on the full pre-discount amount; another on 26 June 2026 was required to buy full-price drinks that cancelled the saving.
 
-**Verdict: the best discount here, if your food bill is big enough to make £6 trivial and you genuinely don't mind eating at five.**
+**Verdict: the best discount here, if your food bill is big enough to make £6 trivial and you are willing to take the restaurant the app has, rather than the one you had in mind.**
 
 ---
 
