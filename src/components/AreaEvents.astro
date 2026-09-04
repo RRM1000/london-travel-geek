@@ -64,13 +64,22 @@ const fmt = (iso?: string) =>
     : "";
 
 const DAY = 864e5;
-// ANCHOR THE COUNTDOWN TO THE BUILD, NOT THE EXPORT. This read
-// data.generated, which is the day export-events.mjs last ran - so "10 days
-// left" was ten days from whenever the sheet was last pulled, and stayed
-// frozen at that number through every rebuild in between. On 4 September 2026
-// the export was eight days old and every countdown on the site was eight days
-// wrong. Using the build date makes it right at every deploy; the inline
-// script at the foot of this file then keeps it right between deploys.
+// NO COUNTDOWN IS RENDERED HERE, DELIBERATELY.
+//
+// "10 days left" is a claim about the gap between now and a date, and this is
+// a static site - the HTML is written once and served for weeks. Any number
+// baked in at build time is a number that starts going wrong the moment the
+// build finishes. It read data.generated first (the day the export last ran,
+// eight days stale on 4 September) and the build date is only a better frozen
+// point, not a live one.
+//
+// So the build computes the dates it can be sure of - the absolute ones, "Until
+// 13 September 2026", which never go stale - and the inline script at the foot
+// of this file supplies every relative claim from the reader's own clock.
+//
+// Without JavaScript there is no countdown at all, which is the right failure:
+// a missing "10 days left" costs a reader nothing, and a wrong one sends them
+// to a show that closed.
 const today = Date.UTC(
   new Date().getUTCFullYear(),
   new Date().getUTCMonth(),
@@ -140,19 +149,14 @@ function lower(s: string) {
 // notYetOpen is also computed at export time and goes stale the same way - an
 // event that opened last week still carries the flag. Recompute it here from
 // the start date rather than trusting what the export wrote.
-const cards = list.map((e) => {
-  const notYetOpen = Boolean(e.startsOn && daysLeft(e.startsOn) > 0);
-  const left = daysLeft(e.endsOn);
-  let urgency = "";
-  if (e.annual && !e.endsOn) urgency = "";
-  else if (!notYetOpen && left <= 30) {
-    if (left === 0) urgency = "Last day";
-    else if (left < 0) urgency = "";
-    else if (left === 1) urgency = "1 day left";
-    else urgency = `${left} days left`;
-  }
-  return { e, notYetOpen, urgency, when: when(e), age: AGE_LABEL[e.agePolicy ?? ""] ?? "" };
-});
+// The tags ship empty and hidden. The script fills them in on load, so what a
+// reader sees is always measured from today rather than from whenever this
+// page was generated.
+const cards = list.map((e) => ({
+  e,
+  when: when(e),
+  age: AGE_LABEL[e.agePolicy ?? ""] ?? "",
+}));
 ---
 
 {list.length > 0 && (
@@ -169,17 +173,25 @@ const cards = list.map((e) => {
     </p>
 
     <ul class="ae-list">
-      {cards.map(({ e, notYetOpen, urgency, when, age }) => (
-        <li class="ae-item" data-ae-starts={e.startsOn} data-ae-ends={e.endsOn} data-ae-annual={e.annual ? "1" : undefined}>
+      {cards.map(({ e, when, age }) => (
+        <li
+          class="ae-item"
+          data-ae-starts={e.startsOn}
+          data-ae-ends={e.endsOn}
+          data-ae-annual={e.annual ? "1" : undefined}
+          data-ae-returns={e.annual
+            ? (e.typicalWhen ? `Returns ${lower(e.typicalWhen)}` : "Returns annually")
+            : undefined}
+        >
           <div class="ae-head">
             <h3>{e.name}</h3>
-            <span class="ae-tag ae-soon" data-ae-soon hidden={!notYetOpen}>Not open yet</span>
-            <span class="ae-tag ae-ending" data-ae-urgency hidden={!urgency}>{urgency}</span>
+            <span class="ae-tag ae-soon" data-ae-soon hidden>Not open yet</span>
+            <span class="ae-tag ae-ending" data-ae-urgency hidden></span>
             {age && <span class="ae-tag ae-age">{age}</span>}
           </div>
 
           <p class="ae-when">
-            <time datetime={e.endsOn ?? e.startsOn}>{when}</time>
+            <time datetime={e.endsOn ?? e.startsOn} data-ae-when>{when}</time>
           </p>
 
           <p class="ae-meta">
@@ -299,11 +311,27 @@ const cards = list.map((e) => {
         if (!ends) { urgEl.hidden = true; continue; }
 
         var left = daysTo(ends, now);
-        // Already finished. The build drops these, but a page left open or
-        // served from cache across the closing date would still be showing a
-        // card for a run that has ended - so hide the whole item, not just the
-        // tag. Annual fixtures carry no end date and never reach this branch.
-        if (left < 0 && li.getAttribute("data-ae-annual") !== "1") {
+        if (left < 0) {
+          // A finished ANNUAL keeps its card - the "Returns the August bank
+          // holiday weekend" line is still true and still useful - but it must
+          // not carry a countdown, or it renders "-2 days left". Its date line
+          // has to change too: the build wrote "Until 30 August 2026" while
+          // that was still ahead, and left unchanged it would go on advertising
+          // a date that has passed. This is the one thing on the card that a
+          // rebuild would otherwise be needed to correct.
+          if (li.getAttribute("data-ae-annual") === "1") {
+            urgEl.hidden = true;
+            var returns = li.getAttribute("data-ae-returns");
+            var whenEl = li.querySelector("[data-ae-when]");
+            if (returns && whenEl && whenEl.textContent !== returns) {
+              whenEl.textContent = returns;
+              whenEl.removeAttribute("datetime");
+            }
+            continue;
+          }
+          // A finished LIMITED RUN has nothing left to offer. The build drops
+          // these, but a page left open or served from cache across the closing
+          // date would still be showing one, so hide the whole card.
           li.hidden = true;
           continue;
         }
