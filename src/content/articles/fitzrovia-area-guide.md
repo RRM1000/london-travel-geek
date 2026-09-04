@@ -153,7 +153,7 @@ Small independent shops fill the rest, and the rag-trade wholesalers that once o
 
 **Weekday hours.** Much of this street is closed at weekends, which is exactly when visitors tend to arrive — come on a weekday morning.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-area-guide-london-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-area-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -199,6 +199,8 @@ The point of Fitzrovia. This is a small selection — see the [full restaurant l
 7. **The Fitzroy Tavern:** Back down Charlotte Street for a drink where the name came from.
 8. **Finish:** Dinner anywhere in the table above.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-area-guide-bt-tower-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="BT Tower London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Common mistakes to avoid
 
 1. **Walking through it without stopping.** Most visitors cross Fitzrovia between Oxford Street and the British Museum without noticing they are in it.
@@ -208,8 +210,6 @@ The point of Fitzrovia. This is a small selection — see the [full restaurant l
 5. **Booking nothing.** The best rooms here — Kitchen Table, Chishuru, Akoko — need weeks or months, not an evening.
 6. **Missing All Saints.** It is thirty seconds off Oxford Street and almost nobody goes in.
 7. **Turning up at the Fitzrovia Chapel on a weekend.** It is generally open Monday to Wednesday plus one Sunday a month, so the two days most visitors have free are the two it is most likely to be shut. Check the What's On page first.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="fitzrovia-area-guide-bt-tower-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="BT Tower London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

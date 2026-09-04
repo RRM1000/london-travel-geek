@@ -101,6 +101,8 @@ Reduced prices are available to over-60s, students with valid ID, and anyone on 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-film-festival-london-film-locations-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London film locations tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Is BFI Membership worth it?
 
 Membership costs **£44 a year** paying by direct debit without a printed programme, £54 with one, or £60 as a one-off card payment. It gets you priority booking from 10 September, no booking fees, two free tickets for standard BFI Southbank screenings, and up to £2.50 off Southbank and IMAX tickets.
@@ -116,8 +118,6 @@ So: if you go to BFI Southbank through the year anyway, membership pays for itse
 The **Patron** tiers — £2,000, £6,500 and £15,000 — get you one further day of priority, on 9 September, along with a personalised booking service. That is a philanthropic decision rather than a ticketing one.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-film-festival-london-film-locations-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London film locations tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where it happens
 
@@ -176,6 +176,8 @@ For scale: the 2025 edition ran 247 features, shorts, series and immersive works
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-film-festival-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,505308,16403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Getting tickets on the day of sale
 
 **Be ready at 10am, not at 10.05am.** The screenings that sell out do so in the first few minutes, and they are a predictable set: the Opening and Closing Night Galas, the other red-carpet gala premieres, the Surprise Film, and anything with a well-known director or cast attached.
@@ -224,7 +226,7 @@ Standby is a genuine route rather than a formality — festival screenings have 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-film-festival-warner-bros-studio-tour-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-q="Warner Bros Studio Tour Harry Potter"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-film-festival-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What not to do
 

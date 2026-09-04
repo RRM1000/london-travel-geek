@@ -115,6 +115,8 @@ The second is the **Yums** loyalty scheme, where the arithmetic is worth doing. 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="off-peak-restaurant-apps-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Too Good To Go
 
 **Not a restaurant app, whatever the listicles tell you.**
@@ -199,6 +201,8 @@ Worth knowing too: **the same table is often sold through several apps at once.*
 - **Saturday is the hard day**, not Friday — only four of ten Soho restaurants had First Table slots on Saturday 12 September.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="off-peak-restaurant-apps-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

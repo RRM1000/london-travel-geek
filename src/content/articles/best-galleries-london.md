@@ -107,7 +107,7 @@ The national collection of British art — five hundred years of it, from Tudor 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-galleries-london-national-gallery-guided-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="National Gallery guided tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-galleries-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Free contemporary
 
@@ -198,6 +198,8 @@ The **garden behind the main building is one of the quietest places in south Lon
 Peckham Rye is about ten minutes' walk, and the gallery sits between Peckham and Camberwell rather than in the middle of either, which is why so few visitors reach it.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-galleries-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Collections you can finish
 
@@ -307,6 +309,8 @@ Headset reconstructions you **walk through rather than watch** — the Colosseum
 
 > 📅 **Hours, admission and postcodes checked against each gallery's own website on 2 September 2026.** Where a gallery does not publish a figure we leave it out rather than repeat one we could not stand behind.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-galleries-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Free, and how far that goes
 
 London's position on this is unusual and worth stating plainly: **almost every major public gallery in the city is free to enter, permanently.**
@@ -326,8 +330,6 @@ London's position on this is unusual and worth stating plainly: **almost every m
 > **Commercial galleries are free and nobody uses them.** White Cube, Gagosian, Hauser & Wirth and the Cork Street dealers all show museum-quality work at no charge and with no crowd. You are allowed to walk in.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-galleries-london-tate-modern-tour-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tate Modern tour London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

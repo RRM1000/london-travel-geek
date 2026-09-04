@@ -172,7 +172,7 @@ Between the King's Road and the river: Bywater Street, St Leonard's Terrace, Mar
 5. **Eating on the King's Road itself.** You pay a premium for the address. Duke of York Square on a Saturday is far better value.
 6. **Visiting during Flower Show week without a plan.** Late May is the one time to avoid.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-chelsea-physic-garden-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Chelsea Physic Garden tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

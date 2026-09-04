@@ -109,9 +109,9 @@ The sets are re-dressed on a yearly cycle: a winter dressing with snow on the Gr
 
 At £42.50 per adult on top of a £58.50 ticket, this is the priciest add-on most families consider — so here is the thing the photography does not make obvious. It is served in the Food Hall beneath the enchanted ceiling, and the operator states on its own booking page that **"This dining experience does not take place in the Great Hall set."** It is an add-on only, you cannot book it without a tour ticket, and you get a 90-minute table slot, so plan your entry time around it. Vegan, vegetarian and gluten-free menus exist, plus a children's version served in a miniature trunk.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="505308" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Harry Potter and the Cursed Child
 
@@ -193,6 +193,8 @@ The all-films version of this walk, with Bond, *Slow Horses* and the rest, is in
 
 **St Pancras is the underrated one.** The Gothic frontage everyone thinks is King's Cross is St Pancras next door, and the flying Ford Anglia lifts off outside it. It costs nothing, it is ninety seconds from the trolley, and it is better in person than on screen — the opposite of almost everything else here.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Themed bars, teas and experiences
 
 This is where the internet is least reliable: London's unofficial wizarding venues have a high failure rate and the listicles never go back to check.
@@ -221,8 +223,6 @@ It takes in **Gringotts, Leadenhall Market, Millennium Bridge, Borough Market, L
 
 **Best for** one day, small children, or anyone who does not want to work out the walking order.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="912548" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ### The walking tour, if you would rather see more
 
 **[The most comprehensive and exclusive Harry Potter tour in London](https://www.getyourguide.com/london-l57/the-most-comprehensive-and-exclusive-harry-potter-tour-in-london-t772912)** is the highest-rated of the lot — **4.9 from over 1,000 reviews** — and at **195 minutes** it is the longest. It starts by **King's Cross** and finishes at **Goodwin's Court**, the alley that is widely held to be the model for Diagon Alley and which almost no self-guided route finds.
@@ -230,8 +230,6 @@ It takes in **Gringotts, Leadenhall Market, Millennium Bridge, Borough Market, L
 In between: **Platform 9¾, Leadenhall Market, London Bridge, Southwark Cathedral, Borough Market, the Millennium Bridge, St Paul's and Great Scotland Yard**, with two short Tube hops rather than a coach. Guides work in **English and Spanish**. Reviewers are consistent that there is a lot of walking, which is the trade for covering more ground than the bus.
 
 **Best for** adults and older children who would rather walk than sit, and anyone who wants the south-bank stretch the bus skips.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="772912" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ### The specialist, and the honest alternative
 
@@ -273,6 +271,8 @@ Day one as above without the theatre. Day two: Euston at 9am, Watford Junction, 
 | Total per adult, two days | £121.70 |
 
 **For a family of four the Studio Tour ticket drops to £188** — £47 a head rather than £58.50 — making the two-day version roughly £370 for two adults and two children including all transport and lunches. Add the theatre and you are near £470, since children need full-price seats and under-5s are not admitted at all.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What is not worth it
 

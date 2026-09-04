@@ -334,6 +334,8 @@ A Mayfair dining room built on British seafood at the luxury end: **native lobst
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-seafood-restaurants-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Oysters, and where they are cheap
 
 The best-value trick in London dining. Several serious oyster bars discount hard in the dead hour between lunch and dinner.
@@ -370,8 +372,6 @@ This is where most of the restaurants on this page get their fish, several hours
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-seafood-restaurants-london-churchill-war-rooms-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Churchill War Rooms tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Also named, with less behind them
 
 Everything else the sources carry by two or more independent sources, plus the single-source picks that a ranked list put near the top.
@@ -394,6 +394,8 @@ Everything else the sources carry by two or more independent sources, plus the s
 > **Cornerstone in Hackney Wick has closed**, and is still carried by at least one live guide. This is common enough that it is worth checking a restaurant is trading before you travel — published lists update slowly, and some never do.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-seafood-restaurants-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

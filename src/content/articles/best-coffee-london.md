@@ -131,7 +131,7 @@ Started in a **nineteenth-century watchman's hut** on Bermondsey Street and grew
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-coffee-london-london-coffee-tasting-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London coffee tasting tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-coffee-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Roasteries with kitchens
 
@@ -273,6 +273,8 @@ The setting is the point: tables out on the towpath at Sheldon Square, water on 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-coffee-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Best value
 
 Speciality coffee in London settles around £3.20–£4.20 for a flat white almost everywhere, so the saving is rarely in the cup price. It is in what else you can get for it.
@@ -284,8 +286,6 @@ Speciality coffee in London settles around £3.20–£4.20 for a flat white almo
 * **Bring a cup.** Most independents take 25–50p off, and a few take more.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-coffee-london-london-barista-class" data-gyg-partner-id="WWP7I0R" data-gyg-q="London barista class"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

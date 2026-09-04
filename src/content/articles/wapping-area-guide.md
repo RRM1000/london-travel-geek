@@ -184,6 +184,8 @@ North. A **Grade I listed warehouse of 1811**, built to hold imported tobacco an
 5. **Shadwell Basin:** North for the surviving dock and the red-brick terraces.
 6. **Finish:** Wapping Overground, or keep walking east towards Limehouse.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-area-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Common mistakes to avoid
 
 1. **Expecting a monument at Execution Dock.** There is none — just the foreshore and a replica noose at the Prospect of Whitby.
@@ -192,8 +194,6 @@ North. A **Grade I listed warehouse of 1811**, built to hold imported tobacco an
 4. **Assuming Wapping station is step-free.** It is not. Use Shadwell or walk from Tower Hill.
 5. **Arriving at high tide for the foreshore.** Wapping Old Stairs is only interesting when the tide is out.
 6. **Missing St Katharine Docks.** It is on the way from the Tower and is the prettiest part of the walk.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="wapping-area-guide-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

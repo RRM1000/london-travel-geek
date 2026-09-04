@@ -354,6 +354,8 @@ Drinks run **£14 to £16** — Syracuse £16, Bergerac £14, Kalahari Julep £1
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cocktail-bars-london-london-speakeasy-bar-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London speakeasy bar tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Best value
 
 Cocktail bars are where London prices get least transparent — most publish nothing at all. These are the ones where a real figure could be verified, and they are the ones to use.
@@ -405,7 +407,7 @@ Some bars are simply priced below the market and do not need an offer:
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cocktail-bars-london-london-speakeasy-bar-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London speakeasy bar tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-cocktail-bars-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

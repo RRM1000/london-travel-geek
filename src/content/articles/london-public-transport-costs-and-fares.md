@@ -144,7 +144,7 @@ For almost all visitors, pay-as-you-go using a contactless card or Oyster card i
 
 > **Avoid 1-Day Paper Travelcards:** Paper 1-Day Travelcards are still sold at station ticket machines, but they carry a heavy physical paper surcharge (£16.60 to £23.60 per day) compared to the £8.90 to £16.30 contactless daily caps above. Always tap with contactless or an Oyster card for daily travel. Note that all Travelcard prices and capping thresholds remain frozen under current TfL policy through March 2027.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-public-transport-costs-and-fares-london-travelcard" data-gyg-partner-id="WWP7I0R" data-gyg-q="London travelcard"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-public-transport-costs-and-fares-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Bus and tram prices
 

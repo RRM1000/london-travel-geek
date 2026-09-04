@@ -91,6 +91,8 @@ Sorted by price. The per-minute column is simply the price divided by the drinki
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bottomless-brunch-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The best bottomless brunches in London
 
 **Big Easy** is the clearest value in the city and it is not close. The weekend Boozy Brunch is £35.50 for **unlimited** home-smoked barbecue — ribs, chicken, pulled pork, cornbread, beans and slaw — with one drink included, and £5 to £6 more upgrades that drink to unlimited Prosecco, beer, frozen mojito or wine for two hours. Nothing else on this page gives you unlimited food and unlimited drink for the same money. It runs Saturday, Sunday **and Monday** until 4pm, with a maximum table of twelve and a last seating at 3.45pm. Two honest caveats: you pick one drink and stay with it, no mixing, and drinks orders stop fifteen minutes before your two hours are up. Canary Wharf, Covent Garden and Chelsea.
@@ -147,6 +149,8 @@ If the brunch is one part of a bigger day, the [hen do](/articles/hen-do-london/
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bottomless-brunch-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Best when you actually want to eat
 
 Four venues here treat the food as the point rather than the ballast.
@@ -190,6 +194,8 @@ Six things decide whether a deal is what it looks like.
 Two structural tips. Book the **first sitting of the day** — the bar is fully staffed, the room is not yet three deep, and top-ups arrive. And check the deposit model before you commit: Revolution wants £5 a head, Ballie Ballerson wants fifty per cent up front, Cottons wants the entire £34.50, and Turtle Bay requires card validation for any booking of five or more.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bottomless-brunch-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

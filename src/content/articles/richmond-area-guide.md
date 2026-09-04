@@ -176,7 +176,7 @@ Behind the hill. Pembroke Lodge, the Isabella Plantation and the Pen Ponds are t
 5. **Expecting to see St Paul's in haze.** King Henry's Mound needs a clear day.
 6. **Arriving late in the day.** Park gates close at dusk and it is a long walk back to any of them.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="richmond-area-guide-richmond-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Richmond Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="richmond-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

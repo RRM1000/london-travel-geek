@@ -143,7 +143,7 @@ Harrods is free to walk into and worth it for the food halls alone, which are th
 
 **Ten minutes, and mostly uphill.** The 14 and 74 buses run the same route if you would rather not walk it twice.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-kensington-area-guide-natural-history-museum-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Natural History Museum tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-kensington-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -184,6 +184,8 @@ Harrods is free to walk into and worth it for the food halls alone, which are th
 4. **Kensington Gardens:** Cross to the **Albert Memorial** and into the park.
 5. **Finish:** Back down for the **V&A** courtyard, or east to Harrods.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-kensington-area-guide-kew-gardens-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kew Gardens tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Common mistakes to avoid
 
 1. **Trying to do all three museums in a morning.** You will see corridors. One per half day.
@@ -192,8 +194,6 @@ Harrods is free to walk into and worth it for the food halls alone, which are th
 4. **Eating on Cromwell Road.** The cafes immediately around the station are poor value. Walk to Bute Street or Duke of York Square.
 5. **Paying for a taxi from Heathrow.** The Piccadilly line comes here directly.
 6. **Assuming Wonderlab is included.** The Science Museum is free; Wonderlab is ticketed.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-kensington-area-guide-victoria-and-albert-museum-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Victoria and Albert Museum tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

@@ -187,7 +187,7 @@ West of the stations. The Library, the Francis Crick Institute and a quiet resid
 5. **The canal:** Down the steps to the towpath and west to **St Pancras Lock**.
 6. **Finish:** **Camley Street Natural Park**, or keep walking to Camden.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-area-guide-regent-s-canal-boat-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Regent's Canal boat trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kings-cross-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

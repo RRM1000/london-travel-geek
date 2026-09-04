@@ -53,17 +53,7 @@ This guide lists every display you can buy a ticket for, the one that is still f
 
 ---
 
-## Battersea Park: the other big one
-
-**Alexandra Palace is not the only large paid display in London — Battersea Park is the other**, run by Enable on behalf of Wandsworth Council, and it sells out in much the same way.
-
-**Tickets go on sale on Tuesday 8 September** — presale from 09:00, general sale from midday — and the site is now live. It runs over **two nights**, but **the dates themselves have not been published yet**, so sign up rather than assuming a weekend.
-
-Between them, Alexandra Palace and Battersea take most of London's paid fireworks audience. If you want either, the sign-up list is the whole game: both sell out before most people start looking.
-
----
-
-## Alexandra Palace: the big one, and the format has changed
+## Alexandra Palace: the best-known one, and the format has changed
 
 The best-known display in London, on a ridge with one of the great views over the city — and **the format is different this year**.
 
@@ -95,6 +85,16 @@ Two things that changed from last year: the event has **moved off Halloween** �
 
 ---
 
+## Battersea Park: the other large paid display
+
+**Battersea Park is the other large paid display in London**, and it sells out in much the same way. It is the bigger of the two on the only published figure — [Time Out](https://www.timeout.com/london/things-to-do/bonfire-night-fireworks-displays-in-london) puts it at 50,000 ticketed spectators a night, and neither Alexandra Palace nor Battersea publishes a capacity of its own.
+
+**Tickets go on sale on Tuesday 8 September** — presale from 09:00, general sale from midday — and the site is now live. It runs over **two nights**, but **the dates themselves have not been published yet**, so sign up rather than assuming a weekend.
+
+Between them, Alexandra Palace and Battersea take most of London's paid fireworks audience. If you want either, the sign-up list is the whole game: both sell out before most people start looking.
+
+---
+
 ## What each display costs
 
 Prices below were published by the organisers and checked in late August 2026. Several early-bird tiers close on the dates shown.
@@ -113,7 +113,7 @@ Prices below were published by the organisers and checked in late August 2026. S
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bonfire-night-london-thames-fireworks-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames fireworks cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bonfire-night-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## On-sale dates to diarise
 

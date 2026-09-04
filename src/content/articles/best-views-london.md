@@ -146,8 +146,6 @@ Free tickets release **every Monday morning, three weeks ahead**, for the whole 
 
 The thing almost nobody mentions: **there are paid walk-in slots** at management's discretion — **£11.50** early morning, including a hot drink, and **from £15.50** in the evening with a welcome drink. If you have missed the free release, that beats booking the restaurant.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="1100481" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ![A Sky Garden sign among dense planting inside the glass shell on top of the Walkie-Talkie](../../assets/articles/best-views-london/sky-garden-sign.jpg)
 
 > ⚠️ One visitor lift is currently out of service and capacity is reduced, so some ticket holders are being turned away at their booked slot. This notice is still live on their own site. Rebooking is advised.
@@ -394,6 +392,8 @@ Being an ordinary public pavement is the point. There is no gate, no dusk closin
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-views-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Bridges and the river
 
 The London View Management Framework designates **13 River Prospects**, and **nine of them sit on bridges or footbridges** — Tower, London, Southwark, Millennium, Blackfriars, Waterloo, Golden Jubilee, Westminster and Lambeth. The other four are riverside rather than crossings: the South Bank, Victoria Embankment, Jubilee Gardens and the Albert Embankment.
@@ -544,7 +544,7 @@ The other two sites are **133A Rye Lane, Peckham SE15 4BQ** and **Manette Street
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-views-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-views-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

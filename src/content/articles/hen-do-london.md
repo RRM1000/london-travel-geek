@@ -105,6 +105,8 @@ The grand hotels run £75 to well over £100 a head, and for twelve people that 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hen-do-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The evening
 
 ### Bars, and the three that will say no
@@ -134,6 +136,8 @@ Two rules to note: **no confetti**, and **no under-18s at all on Saturdays**. Se
 **Free entry, no membership, open 24 hours**: the Hippodrome Casino on Cranbourn Street costs nothing to walk into, which makes it a useful late fallback. Over-18s only on Challenge 25 — the [casino guide](/articles/casinos-london/) has the rules.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hen-do-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay for 10 to 20
 
@@ -187,6 +191,8 @@ What you give up is the choice of venue and the off-peak pricing that does most 
 * **Bodean's BBQ has closed.** Its own website is now a single closure notice. It is still on most hen-do listicles as the group dinner answer; it is not one.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hen-do-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

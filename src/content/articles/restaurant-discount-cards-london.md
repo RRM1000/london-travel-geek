@@ -127,6 +127,8 @@ The benefits are word-for-word identical on the two join pages: the same 25% off
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="restaurant-discount-cards-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Dine Club
 
 **£49.99 a year or £4.99 a month. Around 289 venues within 25 miles of Covent Garden.**
@@ -211,6 +213,8 @@ Every scheme here says some version of the same thing. Ello Group's terms: offer
 So a card will not usually come off a restaurant's own fixed-price lunch — ask before ordering, not at the till. **These are two separate strategies, not one.** A £16.95 two-course lunch at Brasserie Zédel or £20 for a course at Hawksmoor beats 25% off dinner, needs no membership and is open to everyone: the full list is on our [set lunch and pre-theatre page](/articles/restaurant-deals-london/).
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="restaurant-discount-cards-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

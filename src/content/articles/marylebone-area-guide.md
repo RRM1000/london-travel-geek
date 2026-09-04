@@ -145,7 +145,7 @@ The shops are unusually specific: bridal boutiques, and instrument dealers selli
 
 *Daunt Books, an Edwardian shop built for a bookseller and still one. The travel section is arranged by country. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2417477044), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="marylebone-area-guide-sherlock-holmes-museum-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sherlock Holmes Museum London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="marylebone-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to eat and drink
 
@@ -192,6 +192,8 @@ The shops are unusually specific: bridal boutiques, and instrument dealers selli
 5. **The Wallace Collection:** East to **Manchester Square**. Free.
 6. **Finish:** North to **Regent's Park**, or a concert at Wigmore Hall.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="marylebone-area-guide-madame-tussauds-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Madame Tussauds London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Common mistakes to avoid
 
 1. **Missing the Wallace Collection.** Free, world-class and quiet — the best-value hour in the area.
@@ -200,8 +202,6 @@ The shops are unusually specific: bridal boutiques, and instrument dealers selli
 4. **Coming in the evening.** Most of the high street closes by 18:00.
 5. **Expecting Madame Tussauds to be a Marylebone experience.** It is a standalone attraction on a busy road.
 6. **Walking up from Oxford Circus.** Bond Street is closer and less unpleasant.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="marylebone-area-guide-madame-tussauds-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Madame Tussauds London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

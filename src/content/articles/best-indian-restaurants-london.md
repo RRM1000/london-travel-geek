@@ -447,6 +447,8 @@ Restaurants the sources back that did not earn a full entry, either because only
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-indian-restaurants-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Booking and dietary essentials
 
 * **Book months ahead** for Gymkhana. **Weeks ahead** for BiBi, Veeraswamy, Jamavar, Benares, Tamarind, Quilon, Oudh 1722, Darjeeling Express and Jikoni.
@@ -457,8 +459,6 @@ Restaurants the sources back that did not earn a full entry, either because only
 * **Service charge** of 12.5% is discretionary and standard on London restaurant bills.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-indian-restaurants-london-st-paul-s-cathedral-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="St Paul's Cathedral tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Watch the restaurant tours
 

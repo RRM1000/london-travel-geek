@@ -180,6 +180,8 @@ The reason to make the walk is what is underneath: the **Churchill War Rooms occ
 
 **Great George Street SW1P 3AL**, three minutes from Westminster, and St James's Park is the quieter approach.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-filming-locations-harry-potter-london-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Harry Potter London walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Television
 
 ### Slough House — Aldersgate Street, City of London
@@ -215,8 +217,6 @@ The same buildings have played 1830s Paris in *Les Misérables*, Asgard in *Thor
 **King William Walk SE10 9NN.** Cutty Sark DLR is the nearest, or arrive by river — the boat from Westminster takes about an hour and is the better approach.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-filming-locations-harry-potter-london-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Harry Potter London walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ### Sherlock's fall — St Bartholomew's Hospital, Smithfield
 
@@ -281,6 +281,8 @@ The pub Shaun and Ed barricade themselves in for the finale of *Shaun of the Dea
 *The building used as the Winchester, now flats. The corner windows and the roofline are the giveaway.*
 
 > ⚠️ **Do not turn up expecting a pint.** This is a residential building. Look from the street and move on.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-filming-locations-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,505308,16403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Batman and dystopia
 
@@ -428,6 +430,8 @@ The statues around the edge are the reason to linger: Churchill, Mandela, Gandhi
 
 > 📅 **Addresses and access notes checked against our own location records and the venues' own sites on 2 September 2026.** Several of these are private homes or working offices — where that is the case we say so rather than implying you can go in.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-filming-locations-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What it costs
 
 **Almost all of it is free**, because a filming location is usually just a street.
@@ -438,8 +442,6 @@ The statues around the edge are the reason to linger: Churchill, Mandela, Gandhi
 * **Guided film tours** run £20–£40 and are mostly worth skipping — the locations are easy to find yourself and the guides rarely know more than the internet does.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-filming-locations-warner-bros-studio-tour-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-q="Warner Bros Studio Tour Harry Potter"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

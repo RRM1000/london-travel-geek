@@ -113,6 +113,8 @@ Prices are per person for a group of twelve, from each operator's own booking pa
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stag-do-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The evening
 
 ### The doors that will not open
@@ -146,6 +148,8 @@ That is the pattern, and it is worth stating plainly: **almost nowhere in centra
 For a bar that will take the booking rather than refuse it, the [cocktail bar guide](/articles/best-cocktail-bars-london/) sets out which rooms take reservations at all — the east London independents are far more forgiving than the Mayfair hotel bars.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stag-do-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay for 10 to 20
 
@@ -200,6 +204,8 @@ The package is not a mark-up on the games, then; it is a bundle of a bed, a book
 * **A stadium tour is not a group deal.** Wembley's own booking page offers group rates only for **parties of 25 or more**, so a stag of twelve pays the walk-up price like everyone else.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stag-do-london-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

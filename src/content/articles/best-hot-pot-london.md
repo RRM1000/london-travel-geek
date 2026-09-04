@@ -204,6 +204,8 @@ There are over a hundred things to put in the basket: sliced meat, fish, tofu in
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hot-pot-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## By style
 
 The regional traditions are where this format gets interesting, and they are genuinely different meals.
@@ -282,6 +284,8 @@ The Taiwanese menu is the other half of the reason to come: xiao long bao, brais
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hot-pot-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Cheapest, and the buffets
 
 The buffet rooms are where London's students eat, and none of them appear on an English-language list.
@@ -323,6 +327,8 @@ Five of the best-known names here — Haidilao, Happy Lamb, Da Long Yi, Yangguof
 **Where the independents win.** Specificity and price. No chain in London serves a charcoal copper pot, a lamb spine, a Chaoshan menu sorted by cut, or a Hainanese coconut chicken broth — those are all single-site restaurants, and they are the meals worth travelling for. The independents are also materially cheaper: the Poplar and Isle of Dogs rooms will feed four for what two spend in Chinatown.
 
 **One thing to know about the published lists.** DesignMyNight's London hot pot guide still recommends Sichuan Folk on Brick Lane, which shut in 2025. Its old web domain now serves unrelated content and should not be visited. This is worth knowing generally: hot pot lists are updated rarely, and a recent-looking date at the top of a page is not evidence a restaurant is open.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hot-pot-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

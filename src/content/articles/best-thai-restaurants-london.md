@@ -132,6 +132,8 @@ Two regional traditions on one menu: the sour-hot **Isaan** dishes — som tam, 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-thai-restaurants-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Southern: coconut, curry and heat
 
 Richer and hotter than the north-east, with more coconut, turmeric and seafood, and a border blur into Malaysia.
@@ -168,8 +170,6 @@ A **Bib Gourmand for 2026**, and it takes walk-ins, which most restaurants of th
 Chef Supanno Yingviriya has roots in Surat Thani and trained in Phuket, and the menu is named **Hala Bala** after the forest straddling the Thailand–Malaysia border — which is precisely where this cooking sits. Crab curry noodles, house-made roti, and *khao yum*, the herb-and-rice salad that is really nasi kerabu.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-thai-restaurants-london-thai-cooking-class-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thai cooking class London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The live-fire kitchens
 
@@ -223,6 +223,8 @@ The cooking is Thai-Chinese from Bangkok's Yaowarat district: **dry-aged noodle 
 **£££ and it books weeks ahead.** Three minutes from Piccadilly Circus. Go as a group and order across the whole menu.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-thai-restaurants-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The one with a star
 
@@ -303,7 +305,7 @@ Royal Thai cooking rather than street food: **refined curries, carved fruit and 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-thai-restaurants-london-london-street-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London street food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-thai-restaurants-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Best value
 

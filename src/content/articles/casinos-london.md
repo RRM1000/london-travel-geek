@@ -161,6 +161,8 @@ The catch is the age limit, which covers the whole building. Bring ID even if yo
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="casinos-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Leicester Square and the West End
 
 The rooms you can walk into off the street, most keeping hours no other London venue does.
@@ -252,6 +254,8 @@ There are **150 slot machines**, roulette, blackjack, three-card poker, baccarat
 **Open 24 hours and no membership needed**, but you must show valid photo ID at entry, and ID scanning operates here.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="casinos-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Mayfair, Knightsbridge and Marble Arch
 
@@ -400,6 +404,8 @@ The section other guides leave out, and the reason people still turn up at dark 
 **Napoleons has no London venue**, despite frequently appearing in London casino lists — its own site covers Bradford, Hull, Leeds, Sheffield and Manchester only.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="casinos-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Play safely
 

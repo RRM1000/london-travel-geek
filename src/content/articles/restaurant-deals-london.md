@@ -104,6 +104,8 @@ This is where set lunch stops being a discount and becomes a different propositi
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="restaurant-deals-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Chains and mini-chains that do it properly
 
 Chain set menus are the most reliable of the lot, because the offer is set nationally and does not quietly vanish.
@@ -159,6 +161,8 @@ Worth knowing, because these come up on every other list:
 **Also gone:** Le Gavroche closed in January 2024, Marcus Wareing in December 2023. Any list still recommending their set lunches has not been checked in two years.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="restaurant-deals-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

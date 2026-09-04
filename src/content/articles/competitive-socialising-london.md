@@ -111,7 +111,7 @@ It is the best route into the City on this list. The clues take you down alleys 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="competitive-socialising-london-london-escape-room" data-gyg-partner-id="WWP7I0R" data-gyg-q="London escape room"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="competitive-socialising-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Darts, golf and the rest
 
@@ -213,6 +213,8 @@ Where it earns its place is hours and walk-ins. The Oxford Street room, opposite
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="competitive-socialising-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Immersive and VR
 
 ### Eclipso, Camden
@@ -248,8 +250,6 @@ No closure has been announced, so it would be wrong to call it closed. But there
 One correction while it is here. It is widely described as a family outing. The published policy is that **it is suitable for ages 14 and above and under-14s are not permitted**, with ID possibly requested on entry.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="competitive-socialising-london-london-immersive-experience" data-gyg-partner-id="WWP7I0R" data-gyg-q="London immersive experience"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The traditional versions, which are much cheaper
 
@@ -318,6 +318,8 @@ This is the section other guides leave out, and it is why people turn up at lock
 **Three lapsed domains not to trust.** **fairgame.co.uk** and **batandball.co.uk** are both now parked holding pages rather than venue sites, and **rocketroom.co.uk** belongs to an unrelated film company. The venues are all trading; the live addresses are wearefairgame.com, thebatandball.com and rocket-room.com.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="competitive-socialising-london-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What it costs
 

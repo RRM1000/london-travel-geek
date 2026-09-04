@@ -97,6 +97,8 @@ This is the part that decides whether you get in, so it is worth being precise.
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="national-rail-2for1-london-attractions-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Validity, and how long a ticket stretches
 
 - A **single, or a return valid one day**, covers offers **on the day of travel**
@@ -166,6 +168,8 @@ Our [transport costs guide](/articles/london-public-transport-costs-and-fares/) 
 **2FOR1 is the one case where it works against you.** If you are coming in from outside London and plan to visit paid attractions, the National Rail ticket you were buying anyway unlocks a discount that contactless cannot. That is not a reason to change how you pay for the Tube — it is a reason to keep the rail ticket you already have rather than binning it at the barrier.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="national-rail-2for1-london-attractions-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Practical notes
 

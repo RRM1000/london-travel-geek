@@ -102,6 +102,8 @@ The published discounts show the shape of it. Gatwick's World Duty Free advertis
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="tax-free-shopping-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What still works: goods that never had VAT
 
 Some things carry **no VAT for anyone**, resident or visitor: **printed books, newspapers and magazines; children's clothes, footwear and babywear; and most food** — though restaurant meals, hot takeaway, confectionery, crisps and alcohol are all standard-rated, and children's car seats are 5% rather than zero.
@@ -164,6 +166,8 @@ First, the arithmetic almost everyone gets wrong. **VAT is already inside the pr
 *Every legal and policy fact above comes from GOV.UK, HMRC notices or the retailer's own website, and every figure was checked on **3 September 2026**. Rules change; retailer terms change faster. Confirm with the shop before you commit to a £1,500 purchase.*
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="tax-free-shopping-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

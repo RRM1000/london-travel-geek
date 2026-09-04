@@ -116,6 +116,8 @@ The catch is geographical. Of the ten Morrisons nearest Covent Garden — Southw
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kids-eat-free-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The two that survive the school holidays
 
 Most of the big chains treat kids-eat-free as a school-holiday campaign: it appears a week or two before half term and is withdrawn the day the term restarts. **ASK Italian, Zizzi, TGI Fridays and Toby Carvery all ran one over summer 2026 and all closed it in early September.** Expect them back around **autumn half term, which most London boroughs run from Monday 26 October to Friday 30 October 2026**, then Christmas from **Saturday 19 December**, and **February half term on 15 to 19 February 2027**. Academies and individual boroughs shift by a day or two.
@@ -156,6 +158,8 @@ This is the section that matters if you are staying overnight, and it is the bes
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kids-eat-free-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## By area: what is actually near you
 
 Strip out the school-holiday campaigns and central London gets thin very quickly. This is what is there the rest of the year.
@@ -191,6 +195,8 @@ A free thing is only free if you were buying the other thing anyway. Run the ari
 The last comparison is the one nobody runs, and it is about breakfast. **At Beefeater, Brewers Fayre and Table Table the children genuinely eat free — but the adult breakfast is £11.99**, so two adults and two children pay £23.98. **Travelodge charges £1 a child rather than nothing**, and its Bar Café breakfast is cheaper, so the same family can come out ahead at the hotel that does not use the word "free". Look at the total, not the word. More cheap family days out are in our [London with children guide](/articles/london-with-children/).
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kids-eat-free-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

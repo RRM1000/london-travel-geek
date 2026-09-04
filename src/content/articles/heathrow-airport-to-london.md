@@ -85,6 +85,8 @@ The **Elizabeth line** (purple line) is the premier choice for most travelers ar
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-heathrow-express-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Heathrow Express tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 2. Piccadilly Line (Best Budget Option)
 
 The **Piccadilly line** (dark blue line) is London's classic Underground route to Heathrow. It serves all passenger terminals and is the cheapest direct rail link into the city centre.
@@ -93,8 +95,6 @@ The **Piccadilly line** (dark blue line) is London's classic Underground route t
 * **Trade-Offs:** Trains take 50–60 minutes to reach Central London, lack air-conditioning, have limited luggage space, and central stations often have stairs rather than lifts.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-heathrow-express-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Heathrow Express tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 3. Heathrow Express (Non-Stop to Paddington)
 
@@ -145,6 +145,8 @@ Heathrow operates four active passenger terminals: **Terminals 2, 3, 4, and 5**.
 * **Smart Tip:** For a complete breakdown of airport SIM markups vs eSIM options, read our guide: [Should You Buy a SIM Card at the Airport?](/articles/should-you-buy-sim-card-at-airport/).
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-heathrow-airport-transfer-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Heathrow airport transfer London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Related Heathrow & Transport Guides
 

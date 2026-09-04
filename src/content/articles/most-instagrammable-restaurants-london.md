@@ -113,6 +113,8 @@ Big Mamma group Italian, so the portions are enormous and the prices are not May
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="most-instagrammable-restaurants-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Also strongly backed
 
 ### Ave Mario, Covent Garden
@@ -233,6 +235,8 @@ Where the cooking does match the room: **Spring** at Somerset House, **Sessions 
 Skye Gyngell's dining room in the New Wing of Somerset House — a nineteenth-century drawing room in blonde wood and blush, under a porcelain petal installation by Valeria Nascimento. Seasonal Italian-influenced cooking, and one of the few rooms on this list that would still be worth the table with the lights off.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="most-instagrammable-restaurants-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Also named
 

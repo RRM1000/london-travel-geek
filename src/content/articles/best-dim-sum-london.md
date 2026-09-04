@@ -112,11 +112,11 @@ It takes groups, dates and families equally well, and it is **two minutes from L
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-dim-sum-london-london-chinatown-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Chinatown food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 It **held a Michelin star for fourteen years** and still cooks like it. Dim sum runs all day rather than stopping mid-afternoon, so it solves the 4pm problem that closes most of Chinatown's kitchens.
 
 **Book weeks ahead**, and use it for a date or a pre-theatre meal — Piccadilly Circus is six minutes away and the patisserie counter downstairs is a reason to stay.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-dim-sum-london-london-chinatown-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Chinatown food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Chinatown
 
@@ -248,8 +248,6 @@ Because it is bar-led rather than a banquet hall, it is **the one on this page t
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-dim-sum-london-dim-sum-cooking-class-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="dim sum cooking class London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 **Walk-in queues are long at peak**, and the Centre Point site is the larger of the two with a bar lounge, so head there if the Covent Garden line looks hopeless.
 
 £££ and loud, book weeks ahead for a weekend, and five minutes from Covent Garden.
@@ -257,6 +255,8 @@ Because it is bar-led rather than a banquet hall, it is **the one on this page t
 ![Five xiao long bao in a bamboo steamer lined with cloth, one topped with a spoonful of yellow crab roe](../../assets/articles/best-dim-sum-london/din-tai-fung-xiao-long-bao.jpg)
 
 *Xiao long bao at Din Tai Fung, one of them crab. The eighteen pleats are the house standard and the reason for the glass-walled kitchen.*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-dim-sum-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

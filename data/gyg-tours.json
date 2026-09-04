@@ -25,7 +25,9 @@
     "reader trusts it more.",
     "",
     "reviews and rating are recorded as of the date above so a later pass can",
-    "tell a stale entry from a fresh one. They are not read by any code."
+    "tell a stale entry from a fresh one. They are not read by any code.",
+    "",
+    "4 September 2026: extended from GetYourGuide's top-activities export, which carries rank, price, rating and review count. Only entry tickets and venue-own tours were taken; the coach day trips, combo passes, hop-on-hop-off buses and the Heathrow lounge in that export have no venue page to sit on and were left out. Five ids came from the widget probe rather than the export and so carry a title but no rating."
   ],
   "tours": {
     "london-eye": {
@@ -83,6 +85,98 @@
       "title": "London: Entrance Ticket to the Cutty Sark",
       "rating": 4.7,
       "reviews": 370
+    },
+    "kensington-palace": {
+      "tourId": "21251",
+      "url": "https://www.getyourguide.com/activity/-t21251",
+      "title": "London: Kensington Palace Sightseeing Entrance Tickets",
+      "rating": 4.4,
+      "reviews": 4730,
+      "rank": 47
+    },
+    "british-museum": {
+      "tourId": "765419",
+      "url": "https://www.getyourguide.com/activity/-t765419",
+      "title": "London: 2h British Museum Guided Tour with Priority Entrance",
+      "rating": 4.9,
+      "reviews": 1487,
+      "rank": 45
+    },
+    "natural-history-museum": {
+      "tourId": "1396447",
+      "url": "https://www.getyourguide.com/activity/-t1396447",
+      "title": "London: Natural History Museum Reserved Entry with Audio Tour"
+    },
+    "churchill-war-rooms": {
+      "tourId": "926494",
+      "url": "https://www.getyourguide.com/activity/-t926494",
+      "title": "London: Churchill War Rooms Ticket with Political London Audio"
+    },
+    "sky-garden": {
+      "tourId": "1100481",
+      "url": "https://www.getyourguide.com/activity/-t1100481",
+      "title": "London: Sky Garden Early Access Ticket with Breakfast Treat"
+    },
+    "camden-market": {
+      "tourId": "504469",
+      "url": "https://www.getyourguide.com/activity/-t504469",
+      "title": "London: Camden Market Food Tour with 7 Street Food Tastings"
+    },
+    "tower-bridge-exhibition": {
+      "tourId": "439425",
+      "url": "https://www.getyourguide.com/activity/-t439425",
+      "title": "London: Tower Bridge Entry Ticket",
+      "rating": 4.7,
+      "reviews": 18285,
+      "rank": 7
+    },
+    "the-view-from-the-shard": {
+      "tourId": "24625",
+      "url": "https://www.getyourguide.com/activity/-t24625",
+      "title": "London: The View from The Shard",
+      "rating": 4.5,
+      "reviews": 10073,
+      "rank": 11
+    },
+    "the-london-dungeon": {
+      "tourId": "174546",
+      "url": "https://www.getyourguide.com/activity/-t174546",
+      "title": "London: Entry Ticket to London Dungeon",
+      "rating": 4.5,
+      "reviews": 4711,
+      "rank": 33
+    },
+    "sea-life-london-aquarium": {
+      "tourId": "174549",
+      "url": "https://www.getyourguide.com/activity/-t174549",
+      "title": "London: SEA LIFE Entry Ticket",
+      "rating": 4.4,
+      "reviews": 3661,
+      "rank": 39
+    },
+    "buckingham-palace-state-rooms": {
+      "tourId": "530998",
+      "url": "https://www.getyourguide.com/activity/-t530998",
+      "title": "London: Buckingham Palace & Changing of the Guard Experience",
+      "rating": 4.3,
+      "reviews": 4462,
+      "rank": 24
+    },
+    "stamford-bridge-tour": {
+      "tourId": "52605",
+      "url": "https://www.getyourguide.com/activity/-t52605",
+      "title": "London: Chelsea Football Club Stadium and Museum Tour",
+      "rating": 4.7,
+      "reviews": 5303,
+      "rank": 22
+    },
+    "ifs-cloud-cable-car": {
+      "tourId": "786079",
+      "url": "https://www.getyourguide.com/activity/-t786079",
+      "title": "London Cable Car",
+      "rating": 4.4,
+      "reviews": 4489,
+      "rank": 14
     }
   }
 }

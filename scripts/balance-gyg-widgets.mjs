@@ -23,6 +23,15 @@
 //   3,500 - 6,000       3
 //   over 6,000          4
 //
+// SEARCH OR PICK
+// A slot is normally a search string. Where the search returns the wrong
+// thing - and for 49 of 159 queries it did, sometimes the wrong continent -
+// the slot instead names a curated set, "pick:london-classics", and the
+// widget is pinned to those exact activity ids. Picks are for subjects
+// GetYourGuide has no real inventory for: most food posts have nothing to
+// sell beyond a handful of market tours, so they anchor on named attractions
+// rather than on a search that quietly returns an airport lounge.
+//
 // WHERE
 // Targets are spread across the body, and two hard rules apply: nothing in
 // the first 25%, where the reader is still deciding whether to trust the page,
@@ -84,14 +93,30 @@ function queriesFor(slug, category, want) {
   return out.slice(0, want);
 }
 
-const widget = (cmp, q) =>
-  `<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" ` +
-  `data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" ` +
-  `data-gyg-cmp="${cmp}" data-gyg-partner-id="${PARTNER}" data-gyg-q="${q}">` +
-  `<span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>`;
+/** "pick:london-classics" -> the set; anything else is a plain search. */
+function resolve(slot) {
+  if (!slot.startsWith("pick:")) return { kind: "q", value: slot, label: slot };
+  const name = slot.slice(5);
+  const set = PLAN.picks?.[name];
+  if (!set) throw new Error(`unknown pick "${name}" - add it to data/gyg-queries.json`);
+  return { kind: "ids", value: set.tourIds.join(","), label: name };
+}
+
+const widget = (cmp, slot) => {
+  const r = resolve(slot);
+  const attr = r.kind === "ids"
+    ? `data-gyg-tour-ids="${r.value}"`
+    : `data-gyg-q="${r.value}"`;
+  return `<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" ` +
+    `data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" ` +
+    `data-gyg-cmp="${cmp}" data-gyg-partner-id="${PARTNER}" ${attr}>` +
+    `<span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>`;
+};
 
 const isWidget = (l) => l.includes("data-gyg-widget");
-const qOf = (l) => (l.match(/data-gyg-q="([^"]*)"/) || [])[1] ?? "";
+const qOf = (l) =>
+  (l.match(/data-gyg-q="([^"]*)"/) || [])[1] ??
+  (l.match(/data-gyg-tour-ids="([^"]*)"/) || [])[1] ?? "";
 const cmpOf = (l) => (l.match(/data-gyg-cmp="([^"]*)"/) || [])[1] ?? "";
 
 let moved = 0, addedN = 0;
@@ -133,7 +158,7 @@ for (const file of fs.readdirSync(DIR).filter((f) => f.endsWith(".md"))) {
   if (!qs.length) { rows.push(`  SKIP ${slug} — no query mapped`); continue; }
   addedN += Math.max(0, qs.length - existing.length);
   const plan = qs.map((q) => ({
-    cmp: `${slug}-${q.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`,
+    cmp: `${slug}-${resolve(q).label.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`,
     q,
   }));
 

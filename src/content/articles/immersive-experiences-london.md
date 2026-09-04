@@ -130,8 +130,6 @@ Teased with no details at all. The only public sign it exists is that VIP ticket
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-london-immersive-experience" data-gyg-partner-id="WWP7I0R" data-gyg-q="London immersive experience"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The ones where you actually do something
 
 The distinction that matters more than genre. In these, you have a role, and standing at the back is not an option.
@@ -260,7 +258,7 @@ It is faster and more physical than it sounds — you are on your feet the whole
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-london-escape-room" data-gyg-partner-id="WWP7I0R" data-gyg-q="London escape room"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Immersive dining and cabaret
 
@@ -469,6 +467,8 @@ This is the section other guides leave out, and it is the reason people turn up 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What to know
 
 * **Check the show is still running before you book anything, from any source.** This genre closes venues at a rate nothing else in London matches, and three major ones went in the first half of 2026 alone.
@@ -478,8 +478,6 @@ This is the section other guides leave out, and it is the reason people turn up 
 * **Accessibility varies enormously and is not correlated with price.** Bridge Command and Peaky Blinders are designed for step-free access throughout; the Crystal Maze cannot offer it at all, and Paddington can take **one wheelchair user per hour**.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="immersive-experiences-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

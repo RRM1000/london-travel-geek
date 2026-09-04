@@ -119,6 +119,8 @@ For seat-by-seat detail — which rows, which numbers, which to avoid — that i
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-theatre-guide-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The practical bit
 
 **Curtain times** are usually **7.30pm**, occasionally 7pm or 8pm. **Matinees** are typically **Wednesday or Thursday and Saturday**, usually at 2.30pm — but it varies by production, so check the show.
@@ -153,6 +155,8 @@ We run a **[dedicated London theatre site](https://www.londontheatregeek.co.uk/)
 - 🎭 **[Every London theatre](https://www.londontheatregeek.co.uk/theatres)** — 86 venues with capacities, bars and stage doors
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-theatre-guide-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

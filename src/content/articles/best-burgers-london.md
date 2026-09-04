@@ -118,7 +118,7 @@ None of the three is wrong. They answer "best" for different evenings. If you wa
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-burgers-london-london-burger-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London burger food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-burgers-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Smash burgers
 
@@ -291,8 +291,6 @@ Short entries. Full detail on any of these is above where it exists.
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-burgers-london-churchill-war-rooms-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Churchill War Rooms tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The chains, and what they are for
 
 Named by the listings sites rather than the critics — which is not a criticism, because reliability is the point of them.
@@ -309,6 +307,8 @@ Named by the listings sites rather than the critics — which is not a criticism
 *The Burger & Lobster combination that explains the name and the price. This is the whole menu conceit: burger, lobster, or lobster roll, all at one price, with the sides included rather than added on.*
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-burgers-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Booking, and what to know
 

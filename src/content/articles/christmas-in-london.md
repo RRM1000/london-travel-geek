@@ -86,8 +86,6 @@ A few more are likely to return but hadn't confirmed 2026 dates at the time of w
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-christmas-at-kew-gardens" data-gyg-partner-id="WWP7I0R" data-gyg-q="Christmas at Kew Gardens"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Christmas lights: where to see them
 
 None of the big shopping streets had announced 2026 switch-on dates at the time of writing — they're typically confirmed from late September — but the pattern repeats every year: the best-known streets switch on first, in the opening two weeks of November, and the lights stay up until around Twelfth Night in early January.
@@ -108,6 +106,8 @@ None of the big shopping streets had announced 2026 switch-on dates at the time 
 One practical note: TfL periodically closes Oxford Circus station's entrances for short periods when crowds build on Saturday evenings in December. Bond Street or Tottenham Court Road are the backup stations if that happens to you.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-christmas-at-kew-gardens" data-gyg-partner-id="WWP7I0R" data-gyg-q="Christmas at Kew Gardens"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Ticketed light trails
 
@@ -260,6 +260,8 @@ It is a concert rather than a service, so it is loud, secular in feel and comple
 **In the shopping streets**, carol singers turn up through December at **Covent Garden**, **Leadenhall Market**, **Burlington Arcade** and the **Southbank Centre's** winter market — unscheduled and unticketed, so they are something you walk into rather than plan around.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Afternoon tea at Christmas
 
