@@ -93,6 +93,22 @@ Two things that changed from last year: the event has **moved off Halloween** �
 
 Between them, Alexandra Palace and Battersea take most of London's paid fireworks audience. If you want either, the sign-up list is the whole game: both sell out before most people start looking.
 
+### Watching Battersea from the river instead
+
+[London Party Boats](https://www.londonpartyboats.co.uk/tickets/bonfire-night-on-the-thames/229) runs a three-hour cruise that sails up to Battersea and holds position for the display, which is a way in if the park itself sells out — and a better view of a riverside firing point than most of the park gets.
+
+| | |
+| --- | --- |
+| **Date** | Saturday 7 November 2026 |
+| **Boarding** | 19:00 at Festival Pier, Belvedere Road, SE1 8XZ |
+| **Departs / returns** | 19:15, back 22:00–22:15 |
+| **Price** | **£50** adult, **£45** child 2–17, under-2s free but still need a ticket |
+| **Included** | Hot buffet, welcome drink, live DJ, heated boat with an open upper deck, bar |
+
+Under-18s must be with an adult, and adults need photo ID for the wristband if they want to be served at the bar. The route passes the Houses of Parliament on the way, which is a nice touch on this particular night.
+
+> 💡 **This is also the best clue anyone has to Battersea's date.** An operator does not sell a Battersea-viewing cruise for a night the display is not running, and this one is dated Saturday 7 November — which matches the 7–8 November that [Time Out](https://www.timeout.com/london/things-to-do/bonfire-night-fireworks-displays-in-london) lists. Neither is the organiser, so treat it as a strong steer rather than a confirmed date, and book park tickets the moment the real dates land.
+
 ---
 
 ## What each display costs
