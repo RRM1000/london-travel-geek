@@ -26,7 +26,7 @@ faq:
     a: "Yes. Hotto Potto in Aldgate runs a dedicated halal menu, Niu Hot Pot in Spitalfields has a halal section on its ordering sheet, and Simmer Huang at Canary Wharf is halal throughout. Ordinary hot pot menus lean heavily on pork and pork blood, so it is worth checking rather than assuming."
 ---
 
-Hot pot is the only restaurant format where the kitchen hands you the raw ingredients and lets you get on with it. A pot of broth arrives at the table already boiling, plates of thinly sliced meat and vegetables arrive beside it, and for the next two hours you cook your own dinner piece by piece.
+At a hot pot the kitchen hands over the raw ingredients and leaves you to it. A pot of broth arrives at the table already boiling, plates of thinly sliced meat and vegetables arrive beside it, and for the next two hours you cook your own dinner piece by piece.
 
 **It is a format rather than a cuisine**, and that is the thing most guides get wrong. A Chongqing pot and a Beijing copper pot have almost nothing in common: one is a slab of beef tallow melting into a kilo of dried chillies, the other is clear water in a charcoal chimney with lamb sliced thin enough to see through. Sending someone who wants the second to the first is not a small mistake.
 
