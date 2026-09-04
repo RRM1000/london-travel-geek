@@ -150,6 +150,8 @@ The thing almost nobody mentions: **there are paid walk-in slots** at management
 
 > ⚠️ One visitor lift is currently out of service and capacity is reduced, so some ticket holders are being turned away at their booked slot. This notice is still live on their own site. Rebooking is advised.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="1100481" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### The Lookout at 8 Bishopsgate, City of London
 
 *Free · 50th floor · Mon & Fri 12pm–9pm, Tue–Thu 10.30am–5.30pm, Sat 11am–6pm, Sun 10am–5pm*
