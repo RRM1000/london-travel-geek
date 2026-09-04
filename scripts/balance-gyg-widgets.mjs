@@ -113,7 +113,12 @@ const widget = (cmp, slot) => {
     `<span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>`;
 };
 
-const isWidget = (l) => l.includes("data-gyg-widget");
+// ONLY the activities kind. An availability widget is one named product with
+// a date picker, hand-placed beside the paragraph that sells it - lifting it
+// out and dropping it at 42% of the page would be wrong even if this script
+// knew how to rebuild one, which it does not. Matching on data-gyg-widget
+// alone deleted four of them once; do not widen this again.
+const isWidget = (l) => l.includes('data-gyg-widget="activities"');
 const qOf = (l) =>
   (l.match(/data-gyg-q="([^"]*)"/) || [])[1] ??
   (l.match(/data-gyg-tour-ids="([^"]*)"/) || [])[1] ?? "";

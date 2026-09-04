@@ -146,6 +146,8 @@ Free tickets release **every Monday morning, three weeks ahead**, for the whole 
 
 The thing almost nobody mentions: **there are paid walk-in slots** at management's discretion — **£11.50** early morning, including a hot drink, and **from £15.50** in the evening with a welcome drink. If you have missed the free release, that beats booking the restaurant.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="1100481" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ![A Sky Garden sign among dense planting inside the glass shell on top of the Walkie-Talkie](../../assets/articles/best-views-london/sky-garden-sign.jpg)
 
 > ⚠️ One visitor lift is currently out of service and capacity is reduced, so some ticket holders are being turned away at their booked slot. This notice is still live on their own site. Rebooking is advised.
