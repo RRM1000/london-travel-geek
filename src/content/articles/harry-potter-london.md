@@ -16,8 +16,8 @@ tags:
   - family
   - things to do
 draft: false
-heroImage: "../../assets/articles/harry-potter-london/platform-nine-three-quarters-trolley.jpg"
-heroImageAlt: "The luggage trolley half-buried in the wall at Platform 9¾ in King's Cross, with a trunk and an owl cage on it, staff in Hogwarts robes and a roped queue alongside"
+heroImage: "../../assets/articles/harry-potter-london/cursed-child-palace-theatre.jpg"
+heroImageAlt: "The stage of the Palace Theatre set for Harry Potter and the Cursed Child, gothic arches and clock faces above a pile of trunks and suitcases lit by a blue shaft of light"
 faq:
   - q: "How much is the Warner Bros. Studio Tour and can you buy tickets on the day?"
     a: "£58.50 for an adult, £47 for a child aged 5-15 and £188 for a family of four. You cannot buy on the day. Every ticket must be pre-booked into a 30-minute timed slot, and the operator states plainly that no tickets are held back for phone or door sales. The shuttle bus from Watford Junction is included in that price."
@@ -113,6 +113,9 @@ At £42.50 per adult on top of a £58.50 ticket, this is the priciest add-on mos
 
 The original two-part production ends its London run on 20 September 2026. From **9 October 2026 the play runs as a single show in one sitting**, currently booking through late June 2027.
 
+![The set of Harry Potter and the Cursed Child at the Palace Theatre: gothic arches and clock faces above a stack of trunks and suitcases in a shaft of blue light](../../assets/articles/harry-potter-london/cursed-child-palace-theatre.jpg)
+*The set is doing work before anyone walks on. The Palace was rebuilt around this production.*
+
 **Palace Theatre, Shaftesbury Avenue, London W1D 5AY.** Leicester Square is four minutes' walk, Tottenham Court Road five, Piccadilly Circus seven.
 
 ### Running time and schedule
@@ -147,6 +150,9 @@ Age guidance is 8 and over. **Everyone needs a ticket regardless of age, under-5
 > ⚠️ **Do not buy from resale sites.** The production reserves the right to refuse admission to anyone holding a resale ticket, and any official ticket advertised for resale is void. There is no booking fee on the official site, so there is nothing to gain anyway.
 
 ## Platform 9¾
+
+![The luggage trolley half-buried in the wall at Platform 9¾ in King's Cross, with a trunk and an owl cage on it, staff in Hogwarts robes and a roped queue alongside](../../assets/articles/harry-potter-london/platform-nine-three-quarters-trolley.jpg)
+*The queue, the barrier and the shop staff are all part of it. The trolley is never photographed alone.*
 
 The trolley half-buried in a wall at King's Cross, with a member of staff to fling the scarf and a photographer to sell you the result.
 
