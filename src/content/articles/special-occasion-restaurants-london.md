@@ -77,6 +77,12 @@ Smyth was the first British woman to run a three-star kitchen. Cooking built on 
 
 Widely called the most technically accomplished table in the city, and built on British produce rather than French technique — which is the distinction between this and the Mayfair three-stars.
 
+**Two dishes carry the argument.** The **"potato and roe"** — a single charlotte potato cooked for hours, dressed in trout roe and a dulse beurre blanc — and **"core apple"**, a dessert built to look exactly like an apple. Both have been on since it opened and both are ordered by almost every table.
+
+**Book months ahead.** Reservations open on a rolling window and go the day they release.
+
+**92 Kensington Park Road, W11 2PN**, and The Ledbury is five minutes away — two three-star kitchens on the same walk.
+
 **Closed Sunday and Monday, and books months ahead.** Nine minutes from Holland Park, in a residential Notting Hill street rather than a hotel.
 
 ### Alain Ducasse at The Dorchester, Mayfair
@@ -87,15 +93,25 @@ Classical French haute cuisine, including the **Table Lumière** — a private t
 
 **Ask about the Table Lumière specifically when you book** — it is not offered by default, and it is the reason most people choose this over the other three-stars.
 
+**What arrives is classical French at the top of the range**: the **sauté gourmand of lobster** with truffled chicken quenelles has been a fixture for years, and the **baba au rhum**, wheeled over and finished at the table with your choice of rum, is the dessert everyone remembers.
+
+**Jacket preferred and no sportswear**, which is worth knowing before you dress for it.
+
+**53 Park Lane, W1K 1QA**, inside The Dorchester, five minutes from Hyde Park Corner or Marble Arch.
+
 **Closed Sunday and Monday, books months ahead**, and it sits inside The Dorchester on Park Lane, so the room is the hotel's rather than the restaurant's own. Seven minutes from Hyde Park Corner.
 
 ### Hélène Darroze at The Connaught, Mayfair
 
 *££££ · Carlos Place*
 
-Three stars for cooking rooted in Darroze's native Landes — **regional French at the very top end**, which London has almost none of.
+Three stars for cooking rooted in Darroze's native Landes — **regional French at the very top end**, which London has almost none of. The third star came in 2021.
 
-The third star came in 2021, and the cooking is regional French at the top end — Landes, in the south-west — which almost nothing else in London attempts.
+**What that means on the plate** is south-western French produce treated seriously: Landes chicken, foie gras, Périgord truffle in season, and a tasting menu built around named growers rather than techniques.
+
+**Book months ahead**, and note it sits inside The Connaught — so the Connaught Bar is downstairs, takes no reservations at any hour, and mixes its martini at your table from a trolley for £30. A drink there before dinner is the obvious pairing and the only part of the evening you cannot reserve.
+
+**Carlos Place, W1K 2AL**, five minutes from Bond Street.
 
 **Closed Sunday and Monday, books months ahead.** Inside The Connaught, eight minutes from Bond Street.
 
@@ -103,9 +119,13 @@ The third star came in 2021, and the cooking is regional French at the top end �
 
 *££££*
 
-Brett Graham's, and it took its third star in 2024. Grows its own mushrooms.
+Brett Graham reopened it in 2022 with a tighter focus on British sourcing, and it took its **third Michelin star in 2024** — the fastest return to the top of the guide of any London restaurant in recent memory.
 
-Brett Graham reopened it in 2022 with a tighter focus on British sourcing, and it took its third Michelin star in 2024 — the fastest return to the top of the guide of any London restaurant in recent memory. It grows its own mushrooms.
+**It grows its own mushrooms**, and that is not a garnish detail: the kitchen runs its own mushroom farm and a deer park supplies the venison, so the menu is built backwards from what the estate produces. Expect game in autumn and a lot of British produce you will not see elsewhere.
+
+**Book months ahead.** This is one of the hardest tables in London and there is no walk-in alternative.
+
+**127 Ledbury Road, W11 2AQ**, ten minutes from Notting Hill Gate — and Core by Clare Smyth, also three stars, is a five-minute walk away, which makes this small stretch of Notting Hill the densest three-star cluster in Britain.
 
 **Closed Sunday and Monday, books months ahead.** Nine minutes from Westbourne Park.
 
@@ -129,7 +149,11 @@ Pierre Gagnaire's London expression, on Conduit Street. The rest of sketch — t
 
 *££££ · two stars · closing January 2027*
 
-Dishes rebuilt from British recipes as far back as the fourteenth century — the **Meat Fruit**, a chicken liver parfait disguised as a mandarin, is the one everybody orders.
+Dishes rebuilt from British historical recipes as far back as the fourteenth century, each one dated on the menu — the **Meat Fruit (c.1500)**, a chicken liver parfait moulded and glazed to look exactly like a mandarin, is the one everybody orders and the one to order.
+
+**The other two to know** are the **Tipsy Cake (c.1810)**, a spit-roasted pineapple brioche that takes long enough to cook that you order it at the start of the meal, and **Rice & Flesh (c.1390)**, saffron rice with calf's tail.
+
+**Ask for a table on the park side.** The dining room looks over Hyde Park, and the kitchen's glass-walled pineapple spit is visible from parts of the room.
 
 > ⚠️ **Confirmed closing in January 2027** when the Knightsbridge lease ends. If you have been meaning to go, this is the year.
 
@@ -151,7 +175,13 @@ Where the building is the occasion.
 
 *£££ · the conservatory*
 
-Regularly called **the most romantic room in London** — a blossom-covered conservatory with a fire and a retractable roof. Book the conservatory specifically and say why; it is the difference between a good dinner and the one people remember.
+Regularly called **the most romantic room in London** — a blossom-covered conservatory with a fire and a retractable roof, and the blossom is real rather than a print.
+
+The cooking is Provençal and northern Italian: **rack of lamb, hand-made pasta, a long French wine list** that runs to several hundred bins. It is very good rather than the point; the room is the point, and the kitchen knows it.
+
+> 💡 **Book the conservatory specifically and say why.** The restaurant has several rooms and only one of them is the one in the photographs — asking for the conservatory, and mentioning the occasion, is the difference between a good dinner and the one people remember. It is the single most useful sentence in this guide.
+
+**33 King Street, WC2E 8JD**, two minutes from Covent Garden, and there is a **pre- and post-theatre menu** that is a fraction of the à la carte.
 
 ![The frontage of Clos Maggiore in Covent Garden, lit and decorated](../../assets/articles/special-occasion-restaurants-london/clos-maggiore.jpg)
 
@@ -171,13 +201,25 @@ Michelin-starred simplicity on the Thames, and the kitchen where both Jamie Oliv
 
 *££££ · the pink room*
 
-Afternoon tea inside an art installation. The Gallery is the photographed one; the Lecture Room upstairs is the three-star restaurant.
+Afternoon tea inside an art installation, and **four separate rooms behind one door** — which is the thing to understand before booking, because they are different restaurants at different prices.
+
+**The Gallery** is the pink one everybody photographs, hung with David Shrigley drawings, doing afternoon tea and a modern European menu. **The Lecture Room & Library** upstairs is the **three-Michelin-star** restaurant and a different proposition entirely. The **Glade** is the woodland-themed room, and the **Parlour** is the casual one.
+
+**The egg-shaped lavatory pods** are free to visit and genuinely the most photographed toilets in London — you do not need a booking to go and look.
+
+**Book the specific room, not "Sketch"**, and book weeks ahead for the Gallery and months for the Lecture Room. **9 Conduit Street, W1S 2XG**, three minutes from Oxford Circus.
 
 ### Bob Bob Ricard, Soho
 
 *££££ · Press for Champagne*
 
-Booth-only, art deco throughout, and a **button at every table marked Press for Champagne**. It works.
+Booth-only, art deco throughout in blue leather and brass, and a **button at every table marked Press for Champagne**. It works, and pressing it is the entire reason half the room is there.
+
+**The food is Anglo-Russian and better than the gimmick suggests**: **beef Wellington for two**, **chicken Kiev**, **lobster mac and cheese**, and a caviar list. Puddings arrive under a gold-leaf dome.
+
+> ⚠️ **Every table is a booth and there are no bar seats**, so this is a fixed booking for a fixed number rather than somewhere to add a person to. Booths seat four to six and are allocated by party size.
+
+**1 Upper James Street, W1F 9DF**, three minutes from Piccadilly Circus, and there is a second site in the City.
 
 ![Blinis with caviar and soured cream on a gold-rimmed plate](../../assets/articles/special-occasion-restaurants-london/bob-bob-ricard.jpg)
 
@@ -193,7 +235,13 @@ It is the one on this page that is unembarrassed about being fun rather than ser
 
 The only place in London where a celebration can start at 2am and end with sunrise over the City.
 
-**Open 24 hours**, forty floors up. The sunrise and late-night slots are the ones worth planning around, and they are the reason to choose it over any other high room in London.
+**Open 24 hours**, forty floors up in the Heron Tower. The sunrise and late-night slots are the ones worth planning around, and they are the reason to choose it over any other high room in London.
+
+**The signature is the dish it is named after** — confit duck leg, a fried duck egg and mustard maple syrup on a waffle, **£26** — and it is on the menu at four in the morning exactly as it is at eight in the evening.
+
+**Book even at 2am.** Reservations run up to two months ahead and the room is small for the demand. **Card only, no cash**, smart casual.
+
+**110 Bishopsgate, EC2N 4AY** — and Liverpool Street stops running long before the restaurant does, so settle the journey home first.
 
 **Book, and book a window table** — they go weeks ahead, and a table away from the glass is a materially lesser experience. Three minutes from Liverpool Street.
 
@@ -201,7 +249,13 @@ The only place in London where a celebration can start at 2am and end with sunri
 
 *££££ · since 1798*
 
-**London's oldest restaurant**, and written into *Spectre* as Bond's favourite. Game is the speciality and the room is unchanged.
+**London's oldest restaurant**, trading since 1798, and written into *Spectre* as Bond's own regular — the film makes no attempt to disguise the room.
+
+**Game is the speciality and it is properly seasonal**: grouse from mid-August, then partridge, pheasant, woodcock and venison through the autumn, hung and served from the restaurant's own estate in the Pennines. **Steak and kidney pudding** and **jugged hare** are the other things to order, and neither is a museum piece.
+
+**Autumn is the season to come.** Out of it you are eating in a beautiful room; in it you are eating something you genuinely cannot get in many places.
+
+**Book, and book well ahead** — it is small, heavily panelled and consistently full, and walk-ins are optimistic. The ground-floor room is the one from the film. **35 Maiden Lane, WC2E 7LB**, three minutes from Covent Garden.
 
 ---
 
