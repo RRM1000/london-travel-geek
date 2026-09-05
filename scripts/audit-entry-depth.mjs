@@ -27,6 +27,21 @@
 // below - because holding them to 80 words would force exactly the duplication
 // the structure exists to avoid.
 //
+// AND NOT EVERY GUIDE IS A LISTICLE. The floor asks what a place cooks, what
+// its room is like and what decides a visit - which are questions about a
+// VENUE. A guide to one event or one process has sections instead: "How the
+// ballot works", "Declining an offer", "Booking ahead", "The Giant Wheel".
+// Holding those to a venue standard produced nonsense - it asked what dish
+// "Declining an offer" served - and the noise hid the guides that genuinely
+// were thin. Those guides are listed in NOT_LISTICLES below and measured on
+// nothing; their prose is judged by reading it, which is the only way to judge
+// a process description anyway.
+//
+// The list is deliberately explicit rather than inferred from the headings. A
+// pattern match would misfire silently on a venue that happens to be called
+// "The Giant Wheel"; a list is wrong out loud, in one place, where anyone can
+// see it and disagree.
+//
 // WHAT A FULL ENTRY OWES THE READER, beyond the citation count:
 //   - what they actually cook, by name. Not "excellent Sichuan food" but the
 //     dish someone would order.
@@ -41,6 +56,19 @@ import fs from "node:fs";
 const args = process.argv.slice(2);
 const MIN = Number(args.find((a) => a.startsWith("--min="))?.slice(6) ?? 80);
 const only = args.filter((a) => !a.startsWith("--"));
+
+// Guides whose sections describe a process or a single event rather than a set
+// of venues. Pass --all to measure them anyway.
+const NOT_LISTICLES = new Set([
+  "wimbledon-tickets-guide",          // the ballot, the queue, resale, hospitality
+  "hyde-park-winter-wonderland",      // one event; the sections are its rides
+  "london-marathon-guide",            // ballot, spectating, road closures
+  "national-rail-2for1-london-attractions",
+  "london-public-transport-costs-and-fares",
+  "oyster-card-guide-london",
+  "london-pass-guide",
+]);
+const measureAll = args.includes("--all");
 
 // Does the entry say what you would actually eat or drink? One named item is
 // enough - the failure being caught is an entry that never mentions food at all.
@@ -91,6 +119,10 @@ let totalThin = 0, totalEntries = 0;
 const guides = [];
 
 for (const f of files) {
+  const slug = f.replace(/\.md$/, "");
+  // Not a set of venues - see NOT_LISTICLES above. Skipped entirely rather than
+  // reported as passing, so the totals describe only what the floor can judge.
+  if (!measureAll && NOT_LISTICLES.has(slug) && !only.includes(slug)) continue;
   const raw = fs.readFileSync(`src/content/articles/${f}`, "utf8");
   // A cinema is not required to name a dish. The food check applies only to
   // food guides; elsewhere it fired on correct work, which teaches people to
