@@ -28,7 +28,8 @@ type Event = {
   area?: string; station?: string; walkMin?: number;
   agePolicy?: string; duration?: string; price?: string; booking?: string;
   whyGo?: string; opNote?: string; website?: string; bookingUrl?: string;
-  affiliateUrl?: string; affiliateNetwork?: string;
+  affiliateUrl?: string; affiliateNetwork?: string; affiliateLabel?: string;
+  bookingIsAffiliate?: boolean;
 };
 
 // DROP ANYTHING THAT HAS ALREADY FINISHED, rather than trusting the export to
@@ -208,11 +209,18 @@ const cards = list.map((e) => ({
           {(e.bookingUrl || e.affiliateUrl || e.website) && (
             <p class="ae-links">
               {e.bookingUrl && (
-                <a href={e.bookingUrl} rel="nofollow noopener" target="_blank">Book direct</a>
+                <a
+                  href={e.bookingUrl}
+                  rel={e.bookingIsAffiliate ? "sponsored nofollow noopener" : "nofollow noopener"}
+                  target="_blank"
+                  data-affiliate={e.bookingIsAffiliate ? e.affiliateNetwork : undefined}
+                >
+                  Book direct{e.bookingIsAffiliate && <span class="ae-ad">ad</span>}
+                </a>
               )}
               {!e.bookingUrl && e.affiliateUrl && (
                 <a href={e.affiliateUrl} rel="sponsored nofollow noopener" target="_blank" data-affiliate={e.affiliateNetwork}>
-                  Check tickets on GetYourGuide<span class="ae-ad">ad</span>
+                  Check tickets on {e.affiliateLabel ?? "our ticketing partner"}<span class="ae-ad">ad</span>
                 </a>
               )}
               {e.website && !e.bookingUrl && (

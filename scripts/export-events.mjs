@@ -66,7 +66,20 @@ for (const r of rows) {
   }
   if (!o.slug || !o.name) continue;
   const aff = eventAffiliate(o);
-  if (aff) { o.affiliateUrl = aff.url; o.affiliateNetwork = aff.network; }
+  if (aff?.replacesBooking) {
+    // The booking url IS the affiliate link (Skiddle tags in place rather than
+    // redirecting). Keep it in bookingUrl so the page still says "Book direct",
+    // which is true, and flag it so the link gets marked as paid - a link that
+    // earns has to be disclosed whatever the button happens to say.
+    o.bookingUrl = aff.url;
+    o.affiliateNetwork = aff.network;
+    o.affiliateLabel = aff.label;
+    o.bookingIsAffiliate = true;
+  } else if (aff) {
+    o.affiliateUrl = aff.url;
+    o.affiliateNetwork = aff.network;
+    o.affiliateLabel = aff.label;
+  }
   o.annual = annual;
   if (annual && finished) {
     // This year's edition is over. Drop the stale dates so nothing on the page

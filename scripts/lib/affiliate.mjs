@@ -104,6 +104,61 @@ export function gygTour(slug) {
   return TOUR_MAP[slug];
 }
 
+// ===========================================================================
+// SKIDDLE: A TAG, NOT A REDIRECT
+//
+// Skiddle does not wrap the destination the way Awin and Impact do. You append
+// sktag to the skiddle.com url you were already linking to, and the reader goes
+// exactly where they were going anyway. That has a consequence worth stating
+// plainly: for a Skiddle url the direct booking link and the affiliate link are
+// THE SAME PAGE, so there is no reader cost to earning on it - unlike a reseller
+// search, which trades a good page for a commission.
+//
+// It ships disabled. SKIDDLE_TAG is an account id, and inventing one credits a
+// stranger for every sale the site makes, silently and indefinitely. Set
+// SKIDDLE_TAG in .env.local once it is confirmed in the affiliate dashboard.
+// ===========================================================================
+
+const SKIDDLE_TAG = process.env.SKIDDLE_TAG ?? "";
+
+/**
+ * The same Skiddle url, carrying our tag. undefined for anything else.
+ *
+ * Host-checked rather than string-matched: appending sktag to a non-Skiddle url
+ * earns nothing and leaks an account id to whoever runs that domain. Returns the
+ * url untouched if it already carries a tag, so re-exporting cannot double-tag
+ * and a hand-entered tagged url on the sheet is left exactly as it was typed.
+ */
+export function skiddleUrl(destination) {
+  if (!SKIDDLE_TAG || !destination) return undefined;
+  let u;
+  try { u = new URL(String(destination)); } catch { return undefined; }
+  // Exact host or a true subdomain of it. Spelled out rather than pattern-matched
+  // because the obvious regex for this quietly accepts notskiddle.com and
+  // skiddle.com.attacker.net, which is how an account id ends up on a stranger's
+  // domain. An equality test cannot be read wrong.
+  const host = u.hostname.toLowerCase();
+  if (host !== "skiddle.com" && !host.endsWith(".skiddle.com")) return undefined;
+  if (u.searchParams.has("sktag")) return u.toString();
+  u.searchParams.set("sktag", SKIDDLE_TAG);
+  return u.toString();
+}
+
+// How each network is named to the reader. Here rather than in the components
+// because the link text was hardcoded to "GetYourGuide" back when that was the
+// only programme - which would have labelled the first Skiddle link with a
+// competitor's name.
+const NETWORK_LABEL = {
+  getyourguide: "GetYourGuide",
+  skiddle: "Skiddle",
+  ticketmaster: "Ticketmaster",
+};
+
+/** What to call a network on the page, falling back to something honest. */
+export function networkLabel(network) {
+  return NETWORK_LABEL[network] ?? "our ticketing partner";
+}
+
 /** Affiliate link for an activity row, or undefined when none should be shown. */
 export function activityAffiliate(row) {
   if (row.bookingUrl) return undefined;              // a real booking url wins
@@ -140,9 +195,26 @@ export function activityAffiliate(row) {
  * verified product first and the search is only its backstop.
  */
 export function eventAffiliate(row) {
+  // SKIDDLE IS THE ONE EXCEPTION TO "a real booking url wins", because for
+  // Skiddle the two links are the same page. Tagging a booking url does not
+  // move the reader, cost them anything, or swap a venue's own page for a
+  // reseller's - it adds a query parameter. So there is no reason to forgo it,
+  // and `replacesBooking` tells the export to tag the link in place and keep
+  // calling it "Book direct", which is what it still is.
+  const taggedBooking = skiddleUrl(row.bookingUrl);
+  if (taggedBooking) {
+    return {
+      url: taggedBooking, network: "skiddle",
+      label: networkLabel("skiddle"), replacesBooking: true,
+    };
+  }
   if (row.bookingUrl) return undefined;              // a real booking url wins
   if (!row.affiliateUrl) return undefined;
-  return { url: row.affiliateUrl, network: row.affiliateNetwork || "getyourguide" };
+  const network = row.affiliateNetwork || "getyourguide";
+  // A Skiddle url in the Affiliate URL column gets tagged too - otherwise a
+  // correctly-filled row earns nothing because someone pasted the plain link.
+  const url = skiddleUrl(row.affiliateUrl) ?? row.affiliateUrl;
+  return { url, network, label: networkLabel(network) };
 }
 
 // ===========================================================================
