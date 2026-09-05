@@ -118,6 +118,17 @@ const jsonLd = JSON.stringify(
     {googleVerification && (
       <meta name="google-site-verification" content={googleVerification} />
     )}
+    {/* Impact's affiliate-network ownership proof for londontravelgeek.co.uk.
+        Gated on the site id because this shell also builds Travel Toolkit, and a
+        verification token is a claim about one domain - serving it from another
+        asserts ownership of a site the token was never issued for. Note the
+        attribute is value, not content: that is what Impact's crawler reads. */}
+    {activeSite.id === "london" && (
+      <meta
+        name="impact-site-verification"
+        value="1edee71d-13e5-4976-854f-4b1346dcfa25"
+      />
+    )}
     {shouldNoindex ? (
       <>
         <meta name="robots" content="noindex, nofollow, noarchive" />
