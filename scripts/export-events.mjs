@@ -31,6 +31,7 @@ const PUBLIC = {
   "Indoor / Outdoor": "indoorOutdoor", "Step-Free": "stepFree",
   "Why Go": "whyGo", "Operational Summary": "opNote", "Good For": "goodFor",
   Lists: "lists", Website: "website", "Booking URL": "bookingUrl",
+  "Affiliate URL": "affiliateUrl", "Affiliate Network": "affiliateNetwork",
 };
 
 const rows = await readTab("Events");

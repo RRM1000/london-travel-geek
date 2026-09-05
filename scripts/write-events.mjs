@@ -85,6 +85,11 @@ const COLUMNS = [
   // --- provenance ---
   { key: "website", head: "Website" },
   { key: "bookingUrl", head: "Booking URL" },
+  // A VERIFIED product URL, not a search. Empty is the normal state and means
+  // no affiliate link is shown - see eventAffiliate in lib/affiliate.mjs for
+  // why a generated search link was worse than none.
+  { key: "affiliateUrl", head: "Affiliate URL" },
+  { key: "affiliateNetwork", head: "Affiliate Network" },
   { key: "source", head: "Source" },
   { key: "firstSeen", head: "First Seen" },
   { key: "lastChecked", head: "Last Checked" },

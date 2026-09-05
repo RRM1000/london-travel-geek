@@ -117,12 +117,32 @@ export function activityAffiliate(row) {
   return { url: direct ?? gygSearchUrl(row.name), network: "getyourguide" };
 }
 
-/** Affiliate link for an event row, or undefined when none should be shown. */
+/** Affiliate link for an event row, or undefined when none should be shown.
+ *
+ * EVENTS DO NOT GENERATE A SEARCH LINK, and this is the one place the site
+ * deliberately differs from activities above.
+ *
+ * The old rule inferred a link from type + not-free, on the assumption that a
+ * ticketed exhibition is probably sold on GetYourGuide. It usually is not, and
+ * the failure is invisible: GetYourGuide's search NEVER returns nothing. Of 159
+ * queries in data/gyg-query-probe.json, zero came back empty - "BT Tower
+ * London" returns an airport lounge and a Beefeater tour. So a generated search
+ * link for something GetYourGuide does not stock lands the reader on three
+ * unrelated tours behind a link marked "ad": no commission, and a worse page
+ * than if we had linked nowhere.
+ *
+ * 31 of the 45 links it produced were exhibitions - Whistler, Constable, NIGO -
+ * which is exactly the category GetYourGuide does not sell.
+ *
+ * So the sheet now carries an explicit Affiliate URL, filled only where a
+ * product genuinely exists, and this returns it or nothing. Evidence rather
+ * than inference. Activities keep their fallback because gygTourUrl resolves a
+ * verified product first and the search is only its backstop.
+ */
 export function eventAffiliate(row) {
-  if (row.bookingUrl) return undefined;
-  if (!GYG_EVENT_TYPES.has(row.type)) return undefined;
-  if (isFree(row.price)) return undefined;
-  return { url: gygSearchUrl(row.name), network: "getyourguide" };
+  if (row.bookingUrl) return undefined;              // a real booking url wins
+  if (!row.affiliateUrl) return undefined;
+  return { url: row.affiliateUrl, network: row.affiliateNetwork || "getyourguide" };
 }
 
 // ===========================================================================
