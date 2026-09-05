@@ -327,8 +327,6 @@ Sunday roast is one of the few London meals where price maps fairly closely onto
 * **Share the sides.** Almost every pub here charges separately for cauliflower cheese and extra potatoes, and one between two is plenty.
 * **Book early in the sitting.** The 12pm and 1pm slots are easier to get and the kitchen is fresher — by four o'clock the beef has usually been resting a while.
 
-> **Markets and food halls do not really do roasts.** This is the one London meal that has stayed in pubs. If you see a roast on a market stall it is a sandwich — which can be excellent, but it is a different thing.
-
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sunday-roast-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
