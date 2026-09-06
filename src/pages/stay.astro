@@ -15,7 +15,7 @@
 // it cannot drift from the pages it summarises. Adding an area guide with hotels
 // adds a row; nothing to maintain twice.
 import { getCollection } from "astro:content";
-import BaseLayout from "../layouts/BaseLayout.astro";
+import ArticleLayout from "../layouts/ArticleLayout.astro";
 import hotelData from "../data/hotels.json";
 
 type Hotel = { guide?: string; name: string; typicalFrom?: string; priceBand?: string; propertyType?: string };
@@ -28,7 +28,7 @@ const hotels = hotelData.hotels as Hotel[];
 // "About GBP70 a single pod, GBP80 a double" yields 7080, which is not a price
 // and sorts to the far end of the table looking exactly like one.
 const poundsIn = (s?: string) => {
-  const m = String(s ?? "").match(/£s?([0-9][0-9,]*)/);
+  const m = String(s ?? "").match(/£\s?([0-9][0-9,]*)/);
   if (!m) return undefined;
   const n = Number(m[1].replace(/,/g, ""));
   return Number.isFinite(n) && n > 0 ? n : undefined;
@@ -77,24 +77,61 @@ const dearest = guides.filter((g) => g.from !== undefined).reverse().slice(0, 4)
 const BUSINESS_DISTRICTS = new Set(["city-of-london-area-guide", "canary-wharf-area-guide"]);
 const businessAreas = guides.filter((g) => BUSINESS_DISTRICTS.has(g.id));
 
-const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Where to stay" }];
+// ARTICLE LAYOUT, NOT BASE. This is a guide, and it was rendering as a bare
+// page: no category, no tags, no hero, and - the one that actually matters on a
+// page with a 26-row table - no contents sidebar. ArticleLayout takes props
+// rather than a collection entry, so a .astro page can use it directly; the
+// area-guide machinery inside it is all gated on the `area` prop, which this
+// page does not pass, so none of it fires.
+//
+// The headings are declared here rather than parsed out of the markup because
+// this page has no markdown to parse. They must stay in step with the h2 ids
+// below - there are four, and they are right there.
+const headings = [
+  { depth: 2, slug: "the-short-answer", text: "The short answer" },
+  { depth: 2, slug: "cheapest-night", text: "The cheapest night of the week" },
+  { depth: 2, slug: "by-area", text: "Every area, cheapest first" },
+  { depth: 2, slug: "paying-more", text: "Where the money goes" },
+];
+
+const faq = [
+  {
+    q: "What is the best area to stay in London for a first visit?",
+    a: "Covent Garden, Soho or Westminster if you want to walk to the sights and do not mind paying for it. Bloomsbury and King's Cross are the value answer - still Zone 1, ten minutes from the West End, noticeably cheaper. The mistake is booking on price alone and ending up somewhere that costs you an hour a day on the Tube.",
+  },
+  {
+    q: "What is the cheapest night of the week to stay in London?",
+    a: "Sunday, in most of the city - roughly 14% cheaper than a Saturday, because weekend visitors have left and business travellers have not arrived. But it inverts in the City of London and Canary Wharf, which fill Monday to Thursday and empty at weekends, so Friday and Saturday are often their cheapest nights. Check the same dates in two areas rather than waiting for a particular day.",
+  },
+  {
+    q: "Is it cheaper to stay outside central London?",
+    a: "Less often than people expect. The cheapest room in this guide is in Covent Garden, and budget rooms in central areas routinely beat mid-range rooms further out once you add travel. Zone 2 is worth it for space rather than for price - London rooms are small at every price under about £300.",
+  },
+  {
+    q: "Which London areas have hostels?",
+    a: "Hostels and capsule hotels are marked in the area table. They are priced per bed or per pod rather than per room, which is why they do not set the 'from' price for an area - including them would rank a whole neighbourhood cheap on the strength of one bunk.",
+  },
+];
 ---
 
-<BaseLayout
+<ArticleLayout
   title="Where to Stay in London: Choosing an Area, Not a Hotel"
+  seoTitle="Where to Stay in London: Best Areas, Compared by Price"
   description={`Which part of London to sleep in and why — ${guides.length} areas compared on price, transport and what they are actually like at night, with ${totalHotels} hotels we have checked.`}
-  breadcrumbs={breadcrumbs}
+  articleId="where-to-stay-london"
+  category="Plan your trip"
+  tags={["where to stay", "hotels", "neighbourhoods", "planning", "budget"]}
+  publishedAt={new Date("2026-09-06")}
+  headings={headings}
+  faq={faq}
 >
-  <section class="container stay">
-    <header class="stay-hero">
-      <h1>Where to stay in London</h1>
+  <div class="stay">
       <p class="stay-lede">
         The hotel matters less than the area. London is thirty-two boroughs and a
         bad choice costs you an hour a day on the Tube, so this starts with the
         part almost every guide skips: <strong>which bit of the city to sleep in</strong>.
         {guides.length} areas, {totalHotels} hotels we have actually checked.
       </p>
-    </header>
 
     <section class="stay-block">
       <h2 id="the-short-answer">The short answer</h2>
@@ -193,16 +230,15 @@ const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Where to stay" }];
         Zone 2 rather than for paying more in Zone 1.
       </p>
     </section>
-  </section>
-</BaseLayout>
+  </div>
+</ArticleLayout>
 
 <style>
-  .stay { padding-block: 2rem 4rem; }
-  .stay-hero { max-width: 44rem; margin-bottom: 2.5rem; }
-  .stay-hero h1 { margin: 0 0 0.6rem; }
+  /* No container, no width cap, no h1 rules: ArticleLayout owns all three now.
+     Only the lede and the sections below are ours. */
   .stay-lede { font-size: 1.08rem; line-height: 1.6; }
 
-  .stay-block { max-width: 48rem; margin-block: 2.75rem; }
+  .stay-block { margin-block: 2.75rem; }
   .stay-block > h2 { margin: 0 0 0.9rem; scroll-margin-top: 2rem; }
   .stay-block p { margin: 0 0 0.9rem; }
 

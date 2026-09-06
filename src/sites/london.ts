@@ -114,15 +114,21 @@ export const londonSite: SiteConfig = {
       description: "Which part of London to sleep in, and what it costs.",
       // No imageKey yet - the panel renders without one, and a stock hotel
       // shot would be worse than nothing next to four photographs of London.
+      // The panel leads with the two questions people actually arrive with -
+      // which area, and when is it cheapest - then the six areas holding most of
+      // the hotels we have checked. Anchors only where the anchor IS the answer;
+      // the rest are whole guides, the same as every other panel here.
       children: [
         { label: "Where to stay in London", href: "/stay/" },
-        { label: "The cheapest night of the week", href: "/stay/#cheapest-night" },
         { label: "Every area, cheapest first", href: "/stay/#by-area" },
-        { label: "Covent Garden", href: "/articles/covent-garden-area-guide/#where-to-stay" },
-        { label: "Shoreditch", href: "/articles/shoreditch-area-guide/#where-to-stay" },
-        { label: "King's Cross", href: "/articles/kings-cross-area-guide/#where-to-stay" },
-        { label: "Bloomsbury", href: "/articles/bloomsbury-area-guide/#where-to-stay" },
-        { label: "Westminster", href: "/articles/westminster-area-guide/#where-to-stay" },
+        { label: "The cheapest night of the week", href: "/stay/#cheapest-night" },
+        { label: "Staying in Shoreditch", href: "/articles/shoreditch-area-guide/" },
+        { label: "Staying in Westminster", href: "/articles/westminster-area-guide/" },
+        { label: "Staying in Covent Garden", href: "/articles/covent-garden-area-guide/" },
+        { label: "Staying in King's Cross", href: "/articles/kings-cross-area-guide/" },
+        { label: "Staying in Soho", href: "/articles/soho-area-guide/" },
+        { label: "Staying in Bloomsbury", href: "/articles/bloomsbury-area-guide/" },
+        { label: "All 26 areas compared", href: "/stay/#by-area" },
       ],
     },
     {
