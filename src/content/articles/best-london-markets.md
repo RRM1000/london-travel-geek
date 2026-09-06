@@ -167,7 +167,11 @@ Antiques on Saturday — **the largest antiques market in the world by number of
 
 **Saturday is antiques**, and it is the day the road fills end to end. **Friday is a smaller antiques day** and much the better one if you actually want to buy: the same dealers, room to negotiate, no crowd. The rest of the week the northern end is fruit and veg and general goods for the neighbourhood.
 
+![A dense crowd filling Portobello Road between market stalls and pastel shopfronts](../../assets/articles/best-london-markets/portobello-road-market-crowd.jpg)
+
 **It is a mile and a half long and the character changes as you walk.** Antiques at the Notting Hill Gate end, food in the middle, vintage and the Westway arches at the northern end towards Ladbroke Grove.
+
+![A covered stall of second-hand records and prints under the Westway, with browsers going through the crates](../../assets/articles/best-london-markets/portobello-green-record-stall.jpg)
 
 **Walk it north and get the Tube back.** Notting Hill Gate to Ladbroke Grove is the natural direction, and both are on the Circle, District and Hammersmith & City lines.
 

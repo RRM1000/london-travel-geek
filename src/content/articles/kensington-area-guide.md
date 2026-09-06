@@ -115,14 +115,20 @@ Free and worth the walk: the **Sunken Garden**, the **Albert Memorial**, the two
 ### Holland Park
 North-west, and **the best park in this part of London by a distance** — twenty-two hectares, half of it genuine woodland rather than mown grass, which is rare this far in.
 
+![Formal planted beds at Holland Park, clipped box balls and dense borders on a terraced slope](../../assets/articles/kensington-area-guide/holland-park-formal-garden.jpg)
+
 The **Kyoto Garden** is the one people photograph: a Japanese garden given to the borough in 1991, with a tiered waterfall, koi, and **peacocks that wander through it** and are entirely unbothered by anyone. The **Dutch Garden** has formal beds in front of the surviving wing of Holland House, and an **opera canopy** stands over the ruins for a summer season.
+
+![The garden terrace beside the surviving wing of Holland House, with the cupola above the trees](../../assets/articles/kensington-area-guide/holland-park-belvedere.jpg)
 
 **Free and open daily.** Come on a weekday morning if you want the Kyoto Garden without a queue for the same photograph.
 
 ### Kensington Church Street
 Running north towards Notting Hill, and **the antiques street of west London** — dealers in furniture, ceramics and Asian art, most of them by appointment or looking as though they would prefer to be.
 
-At the top stands the **Churchill Arms**, buried under thousands of flowers in summer and around ninety Christmas trees in December, with a Thai kitchen in the conservatory at the back.
+![The Churchill Arms on Kensington Church Street, its whole frontage covered in hanging flower baskets and Union flags, with a crowd drinking outside](../../assets/articles/kensington-area-guide/churchill-arms-flowers.jpg)
+
+At the top stands the **Churchill Arms**, buried under thousands of flowers in summer and around ninety Christmas trees in December, with a Thai kitchen in the conservatory at the back. The flowers peak in high summer and the crowd outside is year-round.
 
 **It is a steady uphill walk**, about ten minutes from High Street Kensington to Notting Hill Gate, and the shops keep their own hours rather than a high street's — expect a good number shut on a Monday.
 

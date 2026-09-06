@@ -1,5 +1,5 @@
 ---
-title: "London Filming Locations: 14 Places You Have Already Seen"
+title: "London Filming Locations: 34 Places You Have Already Seen"
 seoTitle: "London Filming Locations 2026: Harry Potter, Bond, Slow Horses"
 description: "Gringotts is a working embassy, Sherlock's flat is on the wrong street, and Slough House is a real door in Aldersgate — London's film and TV locations, mapped."
 heroImage: "../../assets/articles/best-london-markets/leadenhall-market.jpg"
@@ -43,6 +43,7 @@ London is the most filmed city in Europe and most of its locations are ordinary 
 | **Camden & Primrose Hill** | Paddington |
 | **Greenwich** | Les Misérables, The Crown, Thor |
 | **Regent's Park** | The Gentlemen, Slow Horses |
+| **Notting Hill** | Notting Hill — the blue door, the bookshop, Rosmead Garden |
 
 ---
 
@@ -285,6 +286,54 @@ The pub Shaun and Ed barricade themselves in for the finale of *Shaun of the Dea
 > ⚠️ **Do not turn up expecting a pint.** This is a residential building. Look from the street and move on.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-filming-locations-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,505308,16403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## Notting Hill
+
+Four addresses within fifteen minutes of each other, and the one part of this guide where the most-published fact is wrong more often than it is right.
+
+### The blue door — 280 Westbourne Park Road
+
+*Free · exterior only, and it is somebody's front door*
+
+William Thacker's flat, and the most photographed doorway in west London. Screenwriter Richard Curtis owned the real house and lived behind that door; it was auctioned for charity after the film, and when the new owners repainted it a different colour so many people turned up confused that it went back to blue.
+
+![The blue door at 280 Westbourne Park Road between two white columns, defaced with red spray paint, with two visitors sitting on the step](../../assets/articles/london-filming-locations/notting-hill-blue-door.jpg)
+
+*Photographed 5 September 2026. Someone has sprayed the door in red paint and it has not been cleaned off — worth knowing before you make the trip.*
+
+> ⚠️ **People live here.** It is a private flat on an ordinary street. Photograph from the pavement and do not sit on the step, however many others are doing exactly that.
+
+### The travel bookshop that was filmed — 142 Portobello Road
+
+*Free · a gift shop you can walk into*
+
+**This is the shopfront in the film**, and it was an antiques arcade at the time it was shot — the interior was built elsewhere. It has been a shoe shop, a store called Notting Hill from 2006, and a gift shop since 2014, which now paints THE TRAVEL BOOK Co across the fascia and puts a board outside explaining the whole history.
+
+![The blue shopfront at 142 Portobello Road painted THE TRAVEL BOOK Co, hung with souvenir tote bags, beside a history board about the film](../../assets/articles/london-filming-locations/travel-bookshop-142-portobello-road.jpg)
+
+*The board on the left sets out the shop's claim: the only location where exterior scenes of the bookshop were filmed.*
+
+### The bookshop that inspired it — 13 Blenheim Crescent
+
+*Free · a real working bookshop*
+
+**Nothing was filmed here.** The Travel Bookshop that gave Curtis the idea traded on Blenheim Crescent for about thirty years and closed in 2011; it reopened as **The Notting Hill Bookshop** and sells books to this day.
+
+![The Notting Hill Bookshop on Blenheim Crescent, a navy and red shopfront with visitors gathered outside](../../assets/articles/london-filming-locations/notting-hill-bookshop-blenheim-crescent.jpg)
+
+Most guides merge these two addresses into one shop. They are ten minutes apart and they are different things: **Portobello Road is where the camera was, Blenheim Crescent is where the idea came from.** Visit both — they are a short walk apart and the second one will actually sell you a book.
+
+### Rosmead Garden — Rosmead Road
+
+*Free to look at · you cannot go in*
+
+The private communal garden William and Anna climb into, in the scene with the bench. It is a keyholders' garden for the surrounding houses, permanently locked, marked only by a small oval plaque on the gate.
+
+![A locked black iron gate to Rosmead Garden with a small oval name plaque, seen from the pavement](../../assets/articles/london-filming-locations/rosmead-garden-gate.jpg)
+
+> ⚠️ **There is no public access, and there never has been.** You look through the railings. Rosmead Road itself is a good-looking street, which softens the blow.
+
+If you came for the houses rather than the film, the pastel streets are mapped in walking order in our [Notting Hill colourful houses route](/notting-hill-colourful-houses/).
 
 ## Batman and dystopia
 

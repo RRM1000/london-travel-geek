@@ -105,7 +105,11 @@ The spine, resurfaced in 2012 as a shared surface with no kerbs, so pedestrians 
 
 **All three museums sit on it**: the Natural History Museum and the Science Museum on the western side, the V&A on the eastern, along with Imperial College and the Royal Geographical Society.
 
+![Diners at outdoor tables along Exhibition Road in the evening, with red brick buildings behind](../../assets/articles/south-kensington-area-guide/exhibition-road-dining.jpg)
+
 **All three are free**, and all three charge for their special exhibitions. The road is about eight minutes end to end, uphill from the station towards the Albert Hall.
+
+![The carved stone entrance arch of the Victoria and Albert Museum on Cromwell Gardens](../../assets/articles/south-kensington-area-guide/victoria-and-albert-museum-entrance.jpg)
 
 ### The Museum Subway
 The tiled Victorian tunnel running underground from the station to the museums, built in 1885 so that visitors could reach them without crossing the road or getting wet.
@@ -129,6 +133,12 @@ Grand stucco terraces and private garden squares south of the museums — white-
 
 **There is nothing to buy and nothing to book here**, which is the point. It is a quiet five minutes between the museums and the Fulham Road, and the best route away from the crowds.
 
+![White stucco houses with porticos and iron railings along Launceston Place at dusk](../../assets/articles/south-kensington-area-guide/launceston-place.jpg)
+
+**Launceston Place**, a few minutes west, is the prettiest of these streets and has a cobbled mews running off it — worth the detour if you like quiet residential London.
+
+![A cobbled mews of low white houses hung with climbing plants and window boxes](../../assets/articles/south-kensington-area-guide/launceston-place-mews.jpg)
+
 ### Bute Street and Old Brompton Road
 The everyday streets, and **the centre of French London** — the Lycée Français Charles de Gaulle is here, and the community around it has been established for generations.
 
@@ -137,7 +147,10 @@ That means proper French bakeries, cafés and a bookshop rather than the tourist
 **Best in the morning**, when the bakeries are full and the museums have not yet emptied onto the street. Two minutes from the station, and the obvious place to eat before going in.
 
 ### Knightsbridge and Brompton Road
-North-east along the Brompton Road towards **Harrods and Harvey Nichols** — about ten minutes on foot from the museums, and an easy add-on rather than a separate trip.
+
+![The Brompton Oratory, a tall Italianate stone church front on Brompton Road](../../assets/articles/south-kensington-area-guide/brompton-oratory.jpg)
+
+North-east along the Brompton Road towards **Harrods and Harvey Nichols** — about ten minutes on foot from the museums, and an easy add-on rather than a separate trip. The **Brompton Oratory** stands on the way, next to the V&A: a vast Italianate Catholic church, free to enter and almost always empty compared with the museums either side of it.
 
 Harrods is free to walk into and worth it for the food halls alone, which are the reason most Londoners ever go in.
 

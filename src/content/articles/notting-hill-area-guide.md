@@ -54,7 +54,7 @@ faq:
   - q: "What days is Portobello Road Market open?"
     a: "The market runs Monday to Saturday, but the sections vary. Saturday is the full market with roughly 1,000 stalls including all the antique arcades. Friday is the second antiques day and is considerably quieter. Monday to Wednesday you will find mostly fruit, vegetables and a handful of general stalls. Thursday is a half day. The market does not run on Sundays, when the road is largely shuttered."
   - q: "Where exactly are the colourful houses in Notting Hill?"
-    a: "The best-known rows are on Lancaster Road just north of Ladbroke Grove station, and on Portobello Road itself between Blenheim Crescent and Lancaster Road. St Luke's Mews, off All Saints Road, has the pink house from Love Actually. All are private homes on ordinary residential streets."
+    a: "The best-known rows are on Lancaster Road just north of Ladbroke Grove station, and on Portobello Road itself between Blenheim Crescent and Lancaster Road. St Luke's Mews, off All Saints Road, has the pink house from Love Actually. The best of the lot is Hillgate Village, four short streets by Notting Hill Gate station that almost nobody visits. All are private homes on ordinary residential streets."
   - q: "Is Notting Hill worth visiting if the market is closed?"
     a: "Yes, but plan differently. Sunday and early-week visits are better for the streets, the architecture and Holland Park than for shopping. If markets are your main reason for coming, go on a Friday or Saturday instead."
   - q: "How long should I spend in Notting Hill?"
@@ -121,10 +121,19 @@ From Chepstow Villas down to Elgin Crescent, and **the antiques end that made Po
 
 **Get there before 10am** if you want to look at anything properly. Free, and Notting Hill Gate station is five minutes from the top.
 
+![A blue building on Portobello Road with an enormous Union Jack painted across its upper floors, crowds on the pavement below](../../assets/articles/notting-hill-area-guide/portobello-road-union-jack.jpg)
+
+The Union Jack frontage about halfway down is the most photographed building on the street, and a useful landmark for finding your way back to the arcades.
+
 ### Portobello Road (north) and the Westway — vintage
+
+![Market stalls with brightly coloured canopies running under the Westway flyover on Acklam Road, busy with shoppers](../../assets/articles/notting-hill-area-guide/portobello-market-acklam-road.jpg)
+
 Past Lancaster Road and on under the **Westway flyover**, where the market changes character completely — vintage clothing, records and street food rather than antiques, and a younger crowd.
 
 The stalls under and beyond the flyover run on Friday, Saturday and Sunday, with Friday the best combination of trading and space.
+
+![Rails of second-hand coats, dresses and denim jackets under a white canopy at the vintage market beneath the Westway](../../assets/articles/notting-hill-area-guide/portobello-vintage-under-the-westway.jpg)
 
 **This is the most crowded stretch in the whole area on a Saturday afternoon** — genuinely shoulder to shoulder between about noon and 4pm. Come Friday if you can.
 
@@ -145,6 +154,10 @@ The market here runs Friday and Saturday and is a genuine second-hand market rat
 ### St Luke's Mews and Lancaster Road — the photogenic streets
 Two short residential streets that appear constantly on social media — **St Luke's Mews** for its pastel-painted cottages, one of which was the cue-card doorstep in *Love Actually*, and **Lancaster Road** for its run of brightly coloured terraces.
 
+![Two small houses in Hillgate Village, one painted powder blue and one pale green, with white sash windows](../../assets/articles/notting-hill-area-guide/hillgate-village-blue-and-green.jpg)
+
+But the best pastel streets in Notting Hill are neither of these. **Hillgate Village** — four short streets four minutes from Notting Hill Gate station — has the strongest run of colour in the area and a fraction of the visitors, because almost everyone walks north to Portobello instead. We have mapped all seven streets that actually have the colour, in walking order, in the [Notting Hill colourful houses route](/notting-hill-colourful-houses/).
+
 > ⚠️ **These are people's homes, and the residents have had enough.** Both streets are permanently busy with photographers, some of whom sit on doorsteps and block the pavement. Look, take a picture from the road, and keep the noise down — several London mews have started putting up signs about exactly this.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-area-guide-portobello-market-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Portobello Market walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
@@ -159,6 +172,10 @@ Two short residential streets that appear constantly on social media — **St Lu
 | **Layla** | Bakery | £ | Excellent pastries on Golborne Road, away from the crush |
 | **Lisboa Patisserie** | Portuguese cafe | £ | Pastéis de nata on Golborne Road since 1985 |
 | **Electric Diner** | American diner | ££ | Next to the Electric Cinema; good for a late lunch |
+
+![The Distillery on Portobello Road, a corner building with a deep green ground floor and cream upper storeys](../../assets/articles/notting-hill-area-guide/the-distillery-portobello-road.jpg)
+
+*The Distillery at 186 Portobello Road stacks a gin distillery, three bars, a restaurant and a small hotel into one corner building — the sign on the side tells you which floor is which.*
 
 ## Getting there
 

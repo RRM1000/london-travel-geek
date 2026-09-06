@@ -1271,17 +1271,50 @@ const ROWS = [
     hood: "Notting Hill", borough: "Kensington and Chelsea", areaGuide: "notting-hill-area-guide",
     address: "280 Westbourne Park Road",
     whyGo: "The most photographed front door in west London. Screenwriter Richard Curtis owned the real house; when the door was auctioned for charity the new owners repainted it a different colour, but tourists were so confused they painted it blue again.",
-    opSummary: "A private residential building - viewable from the street only. Be considerate; people live here.",
-    source: "movie-locations.com Notting Hill location list, cross-checked against Trainline and Hooked on Houses",
+    opSummary: "A private residential building - viewable from the street only. Be considerate; people live here. As of 5 September 2026 the door has been sprayed with red paint and not yet cleaned, so it does not currently look like the photographs.",
+    source: "movie-locations.com Notting Hill location list, cross-checked against Trainline and Hooked on Houses; condition photographed on site 5 September 2026",
   },
   {
     ...base, slug: "notting-hill-travel-bookshop", name: "Notting Hill's \"Travel Bookshop\"", type: "filming-location", scheme: "",
-    subject: "Notting Hill (1999) - William's bookshop",
+    subject: "Notting Hill (1999) - the exterior of William's bookshop",
     hood: "Notting Hill", borough: "Kensington and Chelsea", areaGuide: "notting-hill-area-guide",
     address: "142 Portobello Road",
-    whyGo: "The film's travel bookshop was actually an antiques arcade dressed for filming - the real bookshop that partly inspired the story, on Blenheim Crescent nearby, closed in 2011 and is now a gift shop that leans into the connection.",
-    opSummary: "Now a shop at street level - browsable, not a museum.",
-    source: "movie-locations.com and Trainline's Notting Hill location guide cross-checked",
+    whyGo: "The shopfront in the film, and an antiques arcade at the time it was shot - the interior was built elsewhere. It has been a shoe shop, a store called Notting Hill from 2006 and a gift shop since 2014, which now paints THE TRAVEL BOOK Co over the door and posts a board explaining the history. Not to be confused with the Notting Hill Bookshop on Blenheim Crescent, which is a different address and a different claim.",
+    opSummary: "A gift shop at street level, open daily and busiest on Saturdays. Photographed constantly from the pavement opposite.",
+    source: "movie-locations.com and Trainline's Notting Hill location guide cross-checked, plus the shop's own history board photographed on site 5 September 2026",
+  },
+  {
+    // The two addresses get their own rows because they are two different
+    // things that guides routinely merge into one: 142 Portobello Road is
+    // where the exterior was filmed, 13 Blenheim Crescent is the real shop
+    // that suggested the idea. Conflating them is the single most common
+    // error in Notting Hill film write-ups, this site's own included until
+    // the shopfronts were photographed side by side.
+    ...base, slug: "notting-hill-bookshop-blenheim", name: "The Notting Hill Bookshop", type: "filming-location", scheme: "",
+    subject: "Notting Hill (1999) - the real shop that inspired William's",
+    hood: "Notting Hill", borough: "Kensington and Chelsea", areaGuide: "notting-hill-area-guide",
+    address: "13 Blenheim Crescent",
+    whyGo: "The Travel Bookshop that gave Richard Curtis the idea traded here for thirty years and closed in 2011; it reopened as The Notting Hill Bookshop and is a working independent bookshop rather than a memorial to a film. Nothing was filmed here, which does not stop the queue outside.",
+    opSummary: "A real bookshop, open daily - you can go in and buy a book. Two minutes from Ladbroke Grove.",
+    source: "Photographed on site 5 September 2026; closure date from the shop's own account and contemporary press coverage",
+  },
+  {
+    ...base, slug: "rosmead-garden", name: "Rosmead Garden", type: "filming-location", scheme: "",
+    subject: "Notting Hill (1999) - the private garden William and Anna climb into",
+    hood: "Notting Hill", borough: "Kensington and Chelsea", areaGuide: "notting-hill-area-guide",
+    address: "Rosmead Road",
+    whyGo: "The communal garden behind the railings in the whoops-a-daisy scene, and the one Notting Hill location you genuinely cannot visit - it is a private garden square for the surrounding houses, locked, with the name on a small plaque on the gate. Worth the walk anyway for Rosmead Road itself.",
+    opSummary: "PRIVATE - keyholders only, no public access. Visible through the railings from the street.",
+    source: "movie-locations.com Notting Hill location list; gate and plaque photographed on site 5 September 2026",
+  },
+  {
+    ...base, slug: "hillgate-village-pastel-streets", name: "Hillgate Village", type: "hidden-gem", scheme: "",
+    subject: "The pastel streets behind Notting Hill Gate",
+    hood: "Notting Hill", borough: "Kensington and Chelsea", areaGuide: "notting-hill-area-guide",
+    address: "Hillgate Place, Farmer Street and Jameson Street",
+    whyGo: "Four short streets of small early-Victorian cottages painted in flat pastel blocks - pink, sage, butter, powder blue - and almost nobody on them, because the crowds are four minutes north on Portobello Road. Built as workers' housing for the nearby potteries and brickfields, which is why the houses are so much smaller than the stucco terraces around them.",
+    opSummary: "Residential streets, free and always open. People live here: no tripods, no doorstep posing, and keep the noise down.",
+    source: "Walked and photographed on site 5 September 2026",
   },
   {
     ...base, slug: "love-actually-st-lukes-mews", name: "Love Actually's Cue-Card Doorstep", type: "filming-location", scheme: "",

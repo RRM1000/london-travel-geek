@@ -55,6 +55,7 @@ This is a guide to the ones worth building a walk around.
 | **Chelsea** | Oscar Wilde, Bram Stoker |
 | **Hampstead** | Keats, Sigmund and Anna Freud |
 | **St James's** | Napoleon III — the oldest surviving plaque |
+| **Kensington** | T.S. Eliot |
 | **Soho** | Karl Marx, Willy Clarkson |
 | **Stockwell** | Vincent van Gogh |
 
@@ -217,6 +218,20 @@ One of several Orwell addresses across London, marking a working writer's lodgin
 **It is the least visited plaque on this page** and there is genuinely nothing else on the street — an ordinary Victorian terrace in a residential pocket. Kentish Town station is about eight minutes, and it only makes sense combined with the Primrose Hill pair rather than as a trip of its own.
 
 ---
+
+## Kensington
+
+### T.S. Eliot, 3 Kensington Court Gardens
+
+*Free · W8 5QE*
+
+"Lived and died here" — one of the small number of plaques that marks both, and in Eliot's case it covers the last eight years of his life. He moved into the mansion flat after marrying Valerie Fletcher in 1957 and died there in January 1965.
+
+![An English Heritage blue plaque to T.S. Eliot on the red brick front of a mansion block, between tall white sash windows](../../assets/articles/london-blue-plaques/ts-eliot-blue-plaque.jpg)
+
+**Free and visible from the pavement**, on a quiet residential street a few minutes from High Street Kensington. The plaque sits at first-floor level on plain red brick, which makes it easier to photograph than most — no scaffolding, no shopfront, no crowd.
+
+**It is a very ordinary building for a very large reputation**, which is rather the point of the scheme. Kensington Gardens is ten minutes north if you want to make a walk of it.
 
 ## Soho and the City
 
