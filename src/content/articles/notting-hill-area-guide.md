@@ -156,7 +156,7 @@ Two short residential streets that appear constantly on social media — **St Lu
 
 ![Two small houses in Hillgate Village, one painted powder blue and one pale green, with white sash windows](../../assets/articles/notting-hill-area-guide/hillgate-village-blue-and-green.jpg)
 
-But the best pastel streets in Notting Hill are neither of these. **Hillgate Village** — four short streets four minutes from Notting Hill Gate station — has the strongest run of colour in the area and a fraction of the visitors, because almost everyone walks north to Portobello instead. We have mapped all seven streets that actually have the colour, in walking order, in the [Notting Hill colourful houses route](/notting-hill-colourful-houses/).
+But the best pastel streets in Notting Hill are neither of these. **Hillgate Village** — four short streets four minutes from Notting Hill Gate station — has the strongest run of colour in the area and a fraction of the visitors, because almost everyone walks north to Portobello instead. We have mapped all seven streets that actually have the colour, in walking order, in the [Notting Hill colourful houses route](/articles/notting-hill-colourful-houses/).
 
 > ⚠️ **These are people's homes, and the residents have had enough.** Both streets are permanently busy with photographers, some of whom sit on doorsteps and block the pavement. Look, take a picture from the road, and keep the noise down — several London mews have started putting up signs about exactly this.
 

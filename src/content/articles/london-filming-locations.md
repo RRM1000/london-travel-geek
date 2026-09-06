@@ -333,7 +333,7 @@ The private communal garden William and Anna climb into, in the scene with the b
 
 > ⚠️ **There is no public access, and there never has been.** You look through the railings. Rosmead Road itself is a good-looking street, which softens the blow.
 
-If you came for the houses rather than the film, the pastel streets are mapped in walking order in our [Notting Hill colourful houses route](/notting-hill-colourful-houses/).
+If you came for the houses rather than the film, the pastel streets are mapped in walking order in our [Notting Hill colourful houses route](/articles/notting-hill-colourful-houses/).
 
 ## Batman and dystopia
 
