@@ -242,6 +242,15 @@ export function eventAffiliate(row) {
 const AWIN_PUBLISHER_ID = process.env.AWIN_PUBLISHER_ID ?? "";
 const IMPACT_PUBLISHER_ID = process.env.IMPACT_PUBLISHER_ID ?? "";
 
+// CJ calls this the PID, or Promotional Property ID. It is PER SITE, not per
+// account: this is londontravelgeek.co.uk's, and the theatre site has its own
+// (101730660). Using the wrong one still pays - into the other site's reporting
+// - so the failure is invisible and the numbers quietly become fiction.
+//
+// NOT the account number in the CJ header. That is the CID, it looks just as
+// much like an id, and links built with it earn nothing at all.
+const CJ_PID = process.env.CJ_PID ?? "101875905";
+
 /** Awin's deep-link format is stable and documented: cread.php with a ued target. */
 const awin = (advertiserId, destination) =>
   `https://www.awin1.com/cread.php?awinmid=${advertiserId}&awinaffid=${AWIN_PUBLISHER_ID}&ued=${encodeURIComponent(destination)}`;
@@ -253,6 +262,23 @@ const awin = (advertiserId, destination) =>
  */
 const impact = (linkTemplate, destination) =>
   linkTemplate ? linkTemplate.replace("{DEST}", encodeURIComponent(destination)) : "";
+
+/**
+ * CJ's documented deep link: /links/<PID>/type/dlg/<destination>.
+ *
+ * anrdoezrs.net looks like a domain someone made up to phish you and is one of
+ * four CJ tracking domains, alongside jdoqocy.com, dpbolvw.net and tkqlhce.com.
+ * They are interchangeable, so a link generated in the dashboard often carries a
+ * different one than this - that is not a mismatch and not a bug.
+ *
+ * The destination is NOT encoded. dlg takes the url whole, appended after the
+ * path, and encoding it produces a link that resolves to a CJ error page rather
+ * than the hotel - the opposite convention to Awin's ued parameter above, which
+ * is exactly the kind of difference that gets missed when copying one network's
+ * builder to make another.
+ */
+const cj = (destination) =>
+  CJ_PID ? `https://www.anrdoezrs.net/links/${CJ_PID}/type/dlg/${destination}` : "";
 
 // brand key -> the programmes that can sell it, best first.
 export const HOTEL_PROGRAMMES = {
@@ -284,8 +310,26 @@ export const HOTEL_PROGRAMMES = {
   ],
   // The catch-all for independents and anything whose own brand has no
   // programme. Deliberately LAST in every lookup.
+  //
+  // Hotels.com (CJ advertiser 5275597) is the first programme on this table to
+  // go live, and it is the aggregator rather than a brand because that is what
+  // it is: it will sell a room in almost any hotel on the Hotels sheet, which
+  // is the whole reason a catch-all exists.
+  // ACCEPTED, WIRED, AND DELIBERATELY OFF. The CJ plumbing below is finished and
+  // tested; what is missing is a destination worth sending anyone to.
+  //
+  // These links render PER HOTEL, under a named row. The only destination this
+  // programme can legally be paid for is a Hotels.com url, and the only one we
+  // can generate without knowing the property is their home page - so clicking
+  // "Book" under The Hoxton would land the reader on the Hotels.com front door
+  // to start their search again. This file already refuses that trade in its
+  // opening lines: the commission is not worth the worse experience.
+  //
+  // To switch on: add a Hotels.com property url per row - a sheet column, or a
+  // map like data/gyg-tours.json - and pass it as the destination. Then the link
+  // lands on the hotel, and the commission is earned rather than hoped for.
   aggregator: [
-    { network: "awin", advertiser: "", enabled: false, home: "https://uk.hotels.com/" },
+    { network: "cj", enabled: false, home: "https://uk.hotels.com/", ownDomainOnly: true },
   ],
 };
 
@@ -306,7 +350,13 @@ export function hotelAffiliate(row) {
 
   for (const p of chain) {
     if (!p.enabled) continue;
-    const destination = row.website || p.home;
+    // A programme can only be paid for traffic to ITS OWN advertiser. For a brand
+    // programme the advertiser is the brand, so the hotel's own website is the
+    // right destination. For the aggregator it is not: wrapping premierinn.com
+    // in a Hotels.com link sends the reader to Premier Inn through a redirect
+    // that earns nothing, and looks completely normal while doing it - the same
+    // failure the GetYourGuide search links were switched off for.
+    const destination = p.ownDomainOnly ? p.home : (row.website || p.home);
     if (p.network === "awin") {
       if (!p.advertiser || !AWIN_PUBLISHER_ID) continue;
       return { url: awin(p.advertiser, destination), network: "awin" };
@@ -315,6 +365,11 @@ export function hotelAffiliate(row) {
       const url = impact(p.linkTemplate, destination);
       if (!url || !IMPACT_PUBLISHER_ID) continue;
       return { url, network: "impact" };
+    }
+    if (p.network === "cj") {
+      const url = cj(destination);
+      if (!url) continue;
+      return { url, network: "cj" };
     }
   }
   return undefined;
