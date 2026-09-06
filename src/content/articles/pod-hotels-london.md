@@ -12,7 +12,7 @@ faq:
   - q: "What is a pod hotel?"
     a: "In London the word covers three different products. A windowless private room, like Zedwell's hotels — roughly 7ft by 12ft, your own door, no window. A capsule in a shared dormitory, like Zedwell's separate Capsule sites, Otherwander Soho and The GreenHouse — a berth about 4ft by 4ft with a roller shutter and shared bathrooms. And a pod-format room in a converted building, like Nell Gwynn House in Chelsea. The prices overlap, so the word tells you almost nothing about what you are booking."
   - q: "Do pod hotels have their own bathroom?"
-    a: "The capsules do not, and they say so. Zedwell's own site describes its Capsule product as 'your own private space within a shared dormitory' with 'shared bathrooms' — private shower stalls with changing areas, on shared floors, mixed unless you pay for a women-only corridor. Otherwander Soho and The GreenHouse are also shared. Zedwell's hotel rooms are a separate product and are booked as private rooms."
+    a: "The capsules do not, and they say so. Zedwell's own site describes its Capsule product as 'your own private space within a shared dormitory' with 'shared bathrooms' — private shower stalls with changing areas, on shared floors, mixed unless you pay for a women-only corridor. Otherwander Soho and The GreenHouse are also shared. Zedwell's hotel rooms are a separate product: their own FAQ specifies a windowless, soundproofed room with an en-suite rainfall shower."
   - q: "How much do London pod hotels cost?"
     a: "About £30 to £80 a night. Zedwell Piccadilly Circus starts around £30, Zedwell Greenwich £35, Zedwell Tottenham Court Road £40, Nell Gwynn House in Chelsea £45, and Otherwander Soho £70 for a single pod and £80 for a double. The GreenHouse in Bow is about £30. The overlap is the problem: £30 buys a private windowless room at Piccadilly Circus and £70 buys a berth you cannot stand up in on Dean Street."
   - q: "Are London pod hotels windowless?"
@@ -35,7 +35,7 @@ The problem is that "pod hotel" is doing three jobs at once in London, and the p
 
 ### 1. A windowless private room
 
-Zedwell's hotels — Piccadilly Circus, Tottenham Court Road, Greenwich, Knightsbridge and Park Lane — sell **private rooms with no window**. Roughly 7ft by 12ft, your own door, soundproofed walls, filtered air, a Hypnos mattress and Egyptian cotton sheets. No wardrobe, no clutter, no daylight.
+Zedwell's hotels — Piccadilly Circus, Tottenham Court Road, Greenwich, Knightsbridge and Park Lane — sell **private rooms with no window**. Roughly 7ft by 12ft, your own door, an **en-suite rainfall shower**, soundproofed walls, filtered air, a Hypnos mattress and Egyptian cotton sheets. No wardrobe, no clutter, no daylight.
 
 This is a small hotel room that happens to be interior. It is not a bunk and it is not shared.
 
@@ -107,9 +107,9 @@ Cheaper than Piccadilly and considerably quieter at night. The pick of them if y
 
 ### Zedwell Park Lane and Knightsbridge — the new ones
 
-*Price not yet checked · Windowless private room · Mayfair and SW1*
+*Price not yet checked · Windowless private room, en-suite · Mayfair and SW1*
 
-Two recent openings most guides have not caught up with. **Park Lane is underground**, like Tottenham Court Road, and Zedwell call it their most design-forward property. **Knightsbridge** puts an SW1 postcode at Zedwell rates, a few minutes from Harrods and the V&A.
+Two recent openings most guides have not caught up with. **Park Lane is underground**, like Tottenham Court Road, and Zedwell call it their most design-forward property. **Knightsbridge**, at 127–139 Knightsbridge, puts an SW1 postcode at Zedwell rates two minutes from the station — though it sells one room type only, a Cocoon 2 sleeping up to two, so it is no use to a family.
 
 We have not stayed in or priced either, so they are listed rather than recommended.
 
@@ -151,7 +151,7 @@ Rated **7.3 out of 10 across 41 guest reviews**, the most modest score here and 
 
 | | Typical price | Private space | Stand up? | Bathroom |
 | --- | --- | --- | --- | --- |
-| **Zedwell hotel room** | £30–£45 | Own room | Yes | Booked as a private room |
+| **Zedwell hotel room** | £30–£45 | Own room | Yes | En-suite |
 | **Capsule** | £30–£80 | Berth with a shutter | No | Shared |
 | **Hostel dorm bed** | £25–£45 | Bed in a room | Yes | Shared |
 | **Budget hotel room** | £95+ | Own room | Yes | Private |

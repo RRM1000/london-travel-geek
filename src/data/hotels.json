@@ -1,6 +1,6 @@
 {
  "generated": "2026-09-06",
- "count": 97,
+ "count": 101,
  "hotels": [
   {
    "slug": "astor-hyde-park",
@@ -333,6 +333,40 @@
    "website": "https://www.yha.org.uk/"
   },
   {
+   "slug": "zedwell-piccadilly-capsule",
+   "name": "Zedwell Capsule Hotel Piccadilly Circus",
+   "propertyType": "capsule",
+   "style": "Capsules in a shared dormitory",
+   "brand": "zedwell",
+   "chainType": "chain",
+   "starRating": "3",
+   "area": "Soho",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Piccadilly Circus, W1",
+   "priceBand": "£",
+   "breakfast": "extra",
+   "roomTypes": "Single capsule",
+   "familyPolicy": "Dormitory - not suitable for families",
+   "accessibility": "limited",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "Zedwell's capsule product rather than its rooms: a berth with a roller shutter in a shared dormitory, with the same Hypnos mattress and windowless philosophy at a lower price than the hotel next door.",
+   "opNote": "A SHARED DORMITORY WITH SHARED BATHROOMS, in Zedwell's own words - not the private cocoon rooms sold under the same brand in the same part of town. Opened September 2025. NOT PRICED YET.",
+   "goodFor": [
+    "solo",
+    "budget"
+   ],
+   "lists": [
+    "budget",
+    "pods"
+   ],
+   "website": "https://zedwellhotels.com/locations/london/piccadilly-circus/zedwell-capsule-hotel/"
+  },
+  {
    "slug": "zedwell-greenwich",
    "name": "Zedwell Greenwich",
    "propertyType": "capsule",
@@ -368,6 +402,73 @@
     "budget"
    ],
    "website": "https://zedwellhotels.com/"
+  },
+  {
+   "slug": "zedwell-knightsbridge",
+   "name": "Zedwell Knightsbridge",
+   "propertyType": "hotel",
+   "style": "Windowless cocoon rooms in SW1",
+   "brand": "zedwell",
+   "chainType": "chain",
+   "starRating": "3",
+   "area": "Knightsbridge",
+   "borough": "Westminster",
+   "zone": "1",
+   "district": "West",
+   "address": "127–139 Knightsbridge, SW1X 7PA",
+   "priceBand": "£",
+   "breakfast": "extra",
+   "roomTypes": "Cocoon 2, sleeps two",
+   "familyPolicy": "Two guests maximum - no family rooms",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "An SW1 postcode between Hyde Park, Harrods and South Kensington at a rate the area does not otherwise offer, two minutes from Knightsbridge station.",
+   "opNote": "One room type only - Cocoon 2, sleeping up to two - so it does not work for a family. Windowless, soundproofed, en-suite rainfall shower. NOT PRICED YET.",
+   "goodFor": [
+    "couples",
+    "solo",
+    "budget"
+   ],
+   "lists": [
+    "budget",
+    "pods"
+   ],
+   "website": "https://zedwellhotels.com/locations/london/knightsbridge/knightsbridge-hotel/"
+  },
+  {
+   "slug": "zedwell-leicester-place-capsule",
+   "name": "Zedwell Leicester Place Capsule Hotel",
+   "propertyType": "capsule",
+   "style": "Capsules in a shared dormitory",
+   "brand": "zedwell",
+   "chainType": "chain",
+   "starRating": "3",
+   "area": "Leicester Square",
+   "borough": "Westminster",
+   "zone": "1",
+   "district": "Central",
+   "address": "Leicester Place, WC2",
+   "priceBand": "£",
+   "breakfast": "extra",
+   "roomTypes": "Single capsule",
+   "familyPolicy": "Dormitory - not suitable for families",
+   "accessibility": "limited",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "The second Zedwell capsule site, steps from Leicester Square, and the cheapest way to sleep in the middle of theatreland if you can do without a room.",
+   "opNote": "Shared dormitory and shared bathrooms, the same format as the Piccadilly Circus capsule site. NOT PRICED YET.",
+   "goodFor": [
+    "solo",
+    "budget"
+   ],
+   "lists": [
+    "budget",
+    "pods"
+   ],
+   "website": "https://zedwellhotels.com/locations/london/leicester-place/leicester-place-capsule-hotel/"
   },
   {
    "slug": "zedwell-piccadilly-circus",
@@ -449,6 +550,40 @@
     "showstopper"
    ],
    "website": "https://zedwellhotels.com/locations/london/tottenham-court-road/"
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "name": "Zedwell Underground Hotel Park Lane",
+   "propertyType": "hotel",
+   "style": "Windowless cocoon rooms, entirely underground",
+   "brand": "zedwell",
+   "chainType": "chain",
+   "starRating": "3",
+   "area": "Mayfair",
+   "borough": "Westminster",
+   "guide": "mayfair-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "77 Park Lane, W1",
+   "priceBand": "£",
+   "breakfast": "extra",
+   "roomTypes": "Windowless Cocoon",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "A Park Lane address at Zedwell money, one minute from Hyde Park Corner, and the brand's newest and most design-led property. Underground like Tottenham Court Road, so the windowless format is a fact of the building rather than a choice.",
+   "opNote": "Windowless by design and entirely below ground. NOT PRICED YET - listed rather than recommended until someone checks a rate.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "budget"
+   ],
+   "lists": [
+    "budget",
+    "pods"
+   ],
+   "website": "https://zedwellhotels.com/locations/london/park-lane/park-lane-hotel/"
   },
   {
    "slug": "aloft-london-excel",
@@ -1604,43 +1739,6 @@
    "website": "https://www.marriott.com/en-us/hotels/loncw-london-marriott-hotel-canary-wharf/"
   },
   {
-   "slug": "mondrian-shoreditch",
-   "name": "Mondrian Shoreditch",
-   "propertyType": "hotel",
-   "style": "Design hotel with a year-round rooftop pool",
-   "brand": "mondrian",
-   "chainType": "chain",
-   "starRating": "5",
-   "area": "Shoreditch",
-   "borough": "Hackney",
-   "guide": "shoreditch-area-guide",
-   "zone": "1",
-   "district": "East",
-   "address": "Curtain Road, EC2A",
-   "postcode": "EC2A 3PT",
-   "lat": 51.523994,
-   "lng": -0.080628,
-   "priceBand": "£££",
-   "typicalFrom": "About £250",
-   "breakfast": "extra",
-   "roomTypes": "Double, suite",
-   "accessibility": "accessible-rooms",
-   "hasLift": "yes",
-   "airCon": "yes",
-   "luggageStorage": "yes",
-   "whyGo": "A heated rooftop pool and terrace open all year over Shoreditch, which is the reason guests pick this over the area's other design hotels.",
-   "opNote": "The rooftop pool and bar draw a non-resident crowd at weekends - book a pool slot rather than assuming it will be quiet.",
-   "goodFor": [
-    "couples",
-    "celebration",
-    "groups"
-   ],
-   "lists": [
-    "design"
-   ],
-   "website": "https://www.mondrianshoreditch.com/"
-  },
-  {
    "slug": "novotel-canary-wharf",
    "name": "Novotel London Canary Wharf",
    "propertyType": "hotel",
@@ -2499,6 +2597,46 @@
     "showstopper"
    ],
    "website": "https://www.treehousehotels.com/london"
+  },
+  {
+   "slug": "mondrian-shoreditch",
+   "name": "Virgin Hotels London-Shoreditch",
+   "propertyType": "hotel",
+   "style": "Design hotel with a year-round rooftop pool",
+   "brand": "virgin",
+   "chainType": "chain",
+   "starRating": "5",
+   "area": "Shoreditch",
+   "borough": "Hackney",
+   "guide": "shoreditch-area-guide",
+   "zone": "1",
+   "district": "East",
+   "address": "45 Curtain Road, EC2A",
+   "postcode": "EC2A 3PT",
+   "lat": 51.523994,
+   "lng": -0.080628,
+   "priceBand": "£££",
+   "typicalFrom": "About £250",
+   "breakfast": "extra",
+   "roomTypes": "Double, suite",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "A heated rooftop pool and terrace open all year over Shoreditch, which is the reason guests pick this over the area's other design hotels. Virgin Hotels' first London property, and the third name on this building - it was The Curtain, then Mondrian Shoreditch, and has been Virgin since August 2024.",
+   "opNote": "The rooftop pool and bar draw a non-resident crowd at weekends - book a pool slot rather than assuming it will be quiet.",
+   "goodFor": [
+    "couples",
+    "celebration",
+    "groups"
+   ],
+   "lists": [
+    "design"
+   ],
+   "website": "https://virginhotels.com/london-shoreditch/",
+   "hotelsUrl": "https://uk.hotels.com/ho686053/mondrian-london-shoreditch-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho686053/mondrian-london-shoreditch-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "wilde-aparthotels-covent-garden",
