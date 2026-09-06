@@ -17,6 +17,10 @@
 import { getCollection } from "astro:content";
 import ArticleLayout from "../layouts/ArticleLayout.astro";
 import hotelData from "../data/hotels.json";
+// Claridge's from Davies Street rather than a room interior, and that is the
+// argument of the page in one frame: the hotel, its street, its postcode and a
+// black cab at the door. A bed photographs the same in every city.
+import heroImage from "../assets/articles/where-to-stay-london/claridges-davies-street.jpg";
 
 type Hotel = { guide?: string; name: string; typicalFrom?: string; priceBand?: string; propertyType?: string };
 const hotels = hotelData.hotels as Hotel[];
@@ -122,6 +126,8 @@ const faq = [
   category="Plan your trip"
   tags={["where to stay", "hotels", "neighbourhoods", "planning", "budget"]}
   publishedAt={new Date("2026-09-06")}
+  heroImage={heroImage}
+  heroImageAlt="The red brick front of Claridge's on Davies Street in Mayfair, a Union Jack flying above the entrance and a black cab waiting at the kerb"
   headings={headings}
   faq={faq}
 >
