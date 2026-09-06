@@ -1,6 +1,6 @@
 {
  "generated": "2026-09-06",
- "count": 91,
+ "count": 97,
  "hotels": [
   {
    "slug": "astor-hyde-park",
@@ -112,6 +112,42 @@
     "budget"
    ],
    "website": "https://staygenerator.com/"
+  },
+  {
+   "slug": "ibis-london-wembley",
+   "name": "ibis London Wembley",
+   "propertyType": "hotel",
+   "style": "Budget chain, closest to the ground",
+   "brand": "accor",
+   "chainType": "chain",
+   "starRating": "3",
+   "area": "Wembley",
+   "borough": "Brent",
+   "zone": "4",
+   "district": "North West",
+   "address": "South Way, Wembley",
+   "priceBand": "£",
+   "typicalFrom": "About £75",
+   "breakfast": "extra",
+   "roomTypes": "Double, twin",
+   "familyPolicy": "Limited family rooms",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "Under half a mile from the stadium and the cheapest bed within walking distance of it, which is the whole job on a gig night.",
+   "opNote": "Under a 5 minute walk to Wembley Stadium, with secure parking. Basic rooms; you are paying for the postcode on the night rather than the hotel.",
+   "goodFor": [
+    "budget",
+    "groups",
+    "solo"
+   ],
+   "lists": [
+    "budget",
+    "venues",
+    "wembley"
+   ],
+   "website": "https://all.accor.com/"
   },
   {
    "slug": "nell-gwynn-house-pods",
@@ -409,6 +445,41 @@
    "website": "https://zedwellhotels.com/locations/london/tottenham-court-road/"
   },
   {
+   "slug": "aloft-london-excel",
+   "name": "Aloft London ExCeL",
+   "propertyType": "hotel",
+   "style": "Marriott design brand, on the site",
+   "brand": "marriott",
+   "chainType": "chain",
+   "starRating": "4",
+   "area": "Royal Docks",
+   "borough": "Newham",
+   "zone": "3",
+   "district": "East",
+   "address": "Eastern Gateway, Royal Victoria Dock",
+   "priceBand": "££",
+   "typicalFrom": "About £115",
+   "breakfast": "extra",
+   "roomTypes": "Double, twin",
+   "familyPolicy": "Some rooms sleep three",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "Next door to ExCeL - a minute on foot - with an indoor pool, which is more than the exhibition-centre hotels around it manage.",
+   "opNote": "Roughly a 1 minute walk to ExCeL. Prices track the exhibition calendar rather than the season, so a quiet week is cheap and a big trade show is not.",
+   "goodFor": [
+    "business",
+    "groups",
+    "solo"
+   ],
+   "lists": [
+    "venues",
+    "excel"
+   ],
+   "website": "https://www.marriott.com/"
+  },
+  {
    "slug": "citizenm-bankside",
    "name": "citizenM London Bankside",
    "propertyType": "hotel",
@@ -483,6 +554,78 @@
     "best-value"
    ],
    "website": "https://www.citizenm.com/"
+  },
+  {
+   "slug": "hilton-london-wembley",
+   "name": "Hilton London Wembley",
+   "propertyType": "hotel",
+   "style": "Full-service chain with a pool",
+   "brand": "hilton",
+   "chainType": "chain",
+   "starRating": "4",
+   "area": "Wembley",
+   "borough": "Brent",
+   "zone": "4",
+   "district": "North West",
+   "address": "Lakeside Way, Wembley",
+   "priceBand": "££",
+   "typicalFrom": "About £130",
+   "breakfast": "extra",
+   "roomTypes": "Double, twin, suite",
+   "familyPolicy": "Family rooms and adjoining rooms",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "The one hotel by the stadium with a pool and a spa, which matters if you are making a night of it rather than sleeping off a gig.",
+   "opNote": "About an 8 minute walk to the stadium. Books out and reprices hard for events - check a non-event night before assuming the rate is normal.",
+   "goodFor": [
+    "couples",
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "venues",
+    "wembley"
+   ],
+   "website": "https://www.hilton.com/"
+  },
+  {
+   "slug": "holiday-inn-express-greenwich-peninsula",
+   "name": "Holiday Inn Express London Greenwich Peninsula",
+   "propertyType": "hotel",
+   "style": "Budget chain by the arena",
+   "brand": "ihg",
+   "chainType": "chain",
+   "starRating": "3",
+   "area": "Greenwich Peninsula",
+   "borough": "Greenwich",
+   "guide": "greenwich-area-guide",
+   "zone": "2",
+   "district": "East",
+   "address": "Bugsby's Way, Greenwich Peninsula",
+   "priceBand": "££",
+   "typicalFrom": "About £95",
+   "breakfast": "included",
+   "roomTypes": "Double, twin, family",
+   "familyPolicy": "Family rooms sleep four",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "The cheap bed within walking distance of the O2, with breakfast in the rate - which the arena hotels charge extra for.",
+   "opNote": "About a 15 minute walk to the O2 and North Greenwich station. Reprices on arena nights like everything else on the peninsula.",
+   "goodFor": [
+    "budget",
+    "families",
+    "groups"
+   ],
+   "lists": [
+    "budget",
+    "venues",
+    "o2"
+   ],
+   "website": "https://www.ihg.com/"
   },
   {
    "slug": "hub-covent-garden",
@@ -595,6 +738,41 @@
     "design"
    ],
    "website": "https://www.nhow-hotels.com/en/nhow-london"
+  },
+  {
+   "slug": "novotel-london-wembley",
+   "name": "Novotel London Wembley",
+   "propertyType": "hotel",
+   "style": "Chain hotel at the stadium steps",
+   "brand": "accor",
+   "chainType": "chain",
+   "starRating": "4",
+   "area": "Wembley",
+   "borough": "Brent",
+   "zone": "4",
+   "district": "North West",
+   "address": "Olympic Way, Wembley Park",
+   "priceBand": "££",
+   "typicalFrom": "About £120",
+   "breakfast": "extra",
+   "roomTypes": "Double, twin, family",
+   "familyPolicy": "Family rooms sleep four",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "Five minutes on foot from Wembley Stadium and the Arena, which on an event night is the entire argument - you walk back rather than queue for the Metropolitan line with sixty thousand other people.",
+   "opNote": "About a 5 minute walk to the stadium. One of the few hotels here with parking. Rates multiply on event nights and it sells out months ahead for the big ones.",
+   "goodFor": [
+    "families",
+    "groups",
+    "couples"
+   ],
+   "lists": [
+    "venues",
+    "wembley"
+   ],
+   "website": "https://all.accor.com/"
   },
   {
    "slug": "nox-belsize-park",
@@ -1658,6 +1836,42 @@
     "design"
    ],
    "website": "https://www.marriott.com/"
+  },
+  {
+   "slug": "sunborn-london",
+   "name": "Sunborn London Yacht Hotel",
+   "propertyType": "boutique",
+   "style": "Permanently moored yacht hotel",
+   "brand": "aggregator",
+   "chainType": "independent",
+   "starRating": "5",
+   "area": "Royal Docks",
+   "borough": "Newham",
+   "zone": "3",
+   "district": "East",
+   "address": "Royal Victoria Dock",
+   "priceBand": "£££",
+   "typicalFrom": "About £160",
+   "breakfast": "extra",
+   "roomTypes": "Cabin double, suite",
+   "familyPolicy": "Cabins are compact - check before booking a family in",
+   "accessibility": "limited",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "A 40-metre yacht moored in Royal Victoria Dock, permanently, with a dock view from every cabin. Not a novelty stunt - it is a working hotel, and the strangest address in this guide.",
+   "opNote": "Steps from ExCeL, on the water. Cabins are cabin-sized whatever the star rating says, and it is a long way from anything except the exhibition centre.",
+   "goodFor": [
+    "couples",
+    "celebration",
+    "business"
+   ],
+   "lists": [
+    "unusual",
+    "venues",
+    "excel"
+   ],
+   "website": "https://www.sunbornhotels.com/"
   },
   {
    "slug": "the-ampersand-hotel",
