@@ -3,7 +3,7 @@ title: "How to Use the London Underground: A First-Time Visitor’s Guide"
 seoTitle: "How to Use the London Underground"
 description: "A practical guide to planning Tube journeys, paying the correct fare, navigating stations and travelling confidently on the London Underground."
 publishedAt: 2026-07-28
-updatedAt: 2026-09-01
+updatedAt: 2026-09-06
 sites:
   - london
 canonicalSite: london
@@ -388,6 +388,28 @@ Not all Underground stations have step-free access:
 
 > 🧳 **Luggage Tip:** Trains on the **Elizabeth line** and **District line** feature spacious walk-through carriages with dedicated luggage racks. Older deep-level lines (like the Central or Piccadilly lines) have tight doorways and no luggage racks—use wide ticket gates at stations!
 
+---
+
+## WiFi and phone signal underground
+
+Two different things get muddled here, and the difference decides whether you can use your phone on a moving train.
+
+**Free WiFi is at stations, not on trains.** Virtually every Underground station has it on the platforms and in ticket halls, across every line, and has done for years. It drops the moment the train pulls out. Useful for checking a message while you wait; no use at all between stops.
+
+**Mobile signal in the tunnels is a separate, rolling build.** TfL and Boldyn Networks are fitting 4G and 5G section by section, with all four UK networks — EE, O2, Three and Vodafone — and it goes live a few stations and tunnel stretches at a time rather than line by line.
+
+### What stays true whatever month you read this
+
+* **The Elizabeth line is the one to take if you need to work.** It was finished end to end in December 2024 and is the only line with genuine onboard WiFi as well as signal, plus air conditioning and room for luggage.
+* **Everywhere else, assume you are offline between stations.** Download your map, your tickets and anything you want to read before you go down. The TfL Go app plans journeys offline; a browser tab does not.
+* **Coverage arrives by tunnel section, not by line.** A line is rarely all-or-nothing — the Victoria line had signal in the Vauxhall to Pimlico tunnel while the rest of it still went dark.
+* **A gap is not a fault.** If a call drops between two stations on a line you were told is covered, you have crossed into a section that is not finished.
+
+> 📶 **As of 6 September 2026:** roughly 60% of Underground stations have 4G and 5G, and TfL expects the whole network covered by the end of 2026. The Elizabeth line is complete. The remaining work this year is on the Victoria, Jubilee, Bakerloo and Piccadilly lines and the last Circle and District sections.
+>
+> **We have deliberately not listed stations**, because the list changes every few weeks and a stale one is worse than none. [TfL's connectivity page](https://tfl.gov.uk/travel-information/improvements-and-projects/improving-digital-connectivity-on-our-network) is the live version — check it if signal matters for a specific journey.
+
+**If being reachable underground genuinely matters** — you are working, or meeting someone off a train — route the journey on the Elizabeth line where you can. It is the only line where that is a safe assumption today.
 ---
 
 ## 7 Common Tube mistakes to avoid
