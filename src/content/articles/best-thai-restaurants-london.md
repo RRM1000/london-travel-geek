@@ -223,7 +223,9 @@ The cooking is Thai-Chinese from Bangkok's Yaowarat district: **dry-aged noodle 
 
 **££ and it books weeks ahead.** Three minutes from Piccadilly Circus. Go as a group and order across the whole menu.
 
-**There are now two.** A second Speedboat Bar opened in July 2025 at **191 Portobello Road** in Notting Hill, inside Soho House's Electric House, with the same Luke Farrell menu. It runs Sunday to Thursday noon to 11pm (last food 9.45pm) and Friday and Saturday noon to 1am (last food 12.15am) — later than almost anything else in Notting Hill, and the reason to keep it in mind after Portobello Road shuts. Bookings for that site go through Soho House rather than the Rupert Street restaurant.
+**There are now two.** A second Speedboat Bar opened in July 2025 at **191 Portobello Road** in Notting Hill, inside Soho House's Electric House, with the same Luke Farrell menu. It runs Sunday to Thursday noon to 11pm (last food 9.45pm) and Friday and Saturday noon to 1am (last food 12.15am) — later than almost anything else in Notting Hill, and the reason to keep it in mind after Portobello Road shuts.
+
+**You do not need to be a Soho House member.** Electric House is a members' club and the restaurant sits inside it, which puts people off, but Speedboat takes public bookings and walk-ins through its own site like any other restaurant. Worth knowing, because nothing on the door says so.
 
 ---
 
