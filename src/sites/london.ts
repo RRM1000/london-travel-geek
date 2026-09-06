@@ -108,24 +108,15 @@ export const londonSite: SiteConfig = {
         ],
       },
     },
-    {
-      label: "Where to Stay",
-      href: "/stay/",
-      description: "Which part of London to sleep in, and what it costs.",
-      // No imageKey: with no dropdown there is no panel to put an image in.
-      //
-      // NO DROPDOWN, DELIBERATELY. The first version of this panel listed the
-      // area guides, which is what the Areas panel two items to the left already
-      // does - the same twelve links under a different heading, which makes the
-      // menu bar look bigger and the site look smaller. The alternative was a
-      // panel of anchors into one page, which is a table of contents pretending
-      // to be navigation.
-      //
-      // A section one page old does not need a panel. Give it children when there
-      // is somewhere else to send people: hostels, cheap rooms, and the
-      // constraint pages (air conditioning, lifts, family rooms) that the Hotels
-      // sheet already has the columns for.
-    },
+    // WHERE TO STAY IS TEMPORARILY OUT OF THE MENU, on the site owner's call
+    // 2026-09-06. The section is two pages old and the item read thin beside
+    // five mature ones. /stay/ still exists and is still linked from the area
+    // guides and the pod guide - this removes the nav entry, not the section.
+    //
+    // The exact block is saved in the scratchpad and in this commit's parent,
+    // so putting it back is a revert rather than a rewrite. Restore it when
+    // there are enough stay pages to fill a panel: hostels, cheap rooms, and
+    // the constraint pages the Hotels sheet already has columns for.
     {
       label: "Plan",
       href: "/topics/london-itineraries/",

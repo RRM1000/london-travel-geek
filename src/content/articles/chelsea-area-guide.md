@@ -92,9 +92,33 @@ Chelsea has its own share of the commemorative plaques marking where notable peo
 
 ![A white-walled gallery room at the Saatchi Gallery hung with framed prints](../../assets/articles/chelsea-area-guide/saatchi-gallery.jpg)
 
-*The Saatchi Gallery in the old Duke of York's HQ. Free to enter, and the rooms are as much of the draw as what is hung in them. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/31367858771), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The Saatchi Gallery in the old Duke of York's HQ. Free to enter, and the rooms are as much of the draw as what is hung in them.*
 
 ## Key streets and micro-districts
+
+### The pastel streets off the King's Road
+
+![A terrace on Bywater Street painted pink, white and pale blue, with a car parked outside](../../assets/articles/chelsea-area-guide/bywater-street.jpg)
+
+**Bywater Street** is the one people photograph, and it earns it — a cul-de-sac off the King's Road in blues, pinks and lilac, with basement railings and shutters. Being a dead end, there is no traffic passing through your picture.
+
+![Two houses on Bywater Street, one sage green with an orange door and one pale blue](../../assets/articles/chelsea-area-guide/bywater-street-doors.jpg)
+
+**Godfrey Street, Burnsall Street and Smith Terrace** are the same idea with fewer people on them, and **Markham Square** is thirty seconds away. All four sit inside one block, so the whole thing is a twenty-minute walk rather than a route — the opposite of Notting Hill, where the pastel streets are scattered over a mile.
+
+![Pastel terraced houses along Smith Terrace in Chelsea](../../assets/articles/chelsea-area-guide/smith-terrace.jpg)
+
+**These are people's homes**, and Bywater Street being a cul-de-sac means anyone photographing is visible from every window on it. Shoot from the pavement and keep off the steps.
+
+### Duke of York Square and Pavilion Road
+
+![Outdoor tables under umbrellas and bunting at Duke of York Square off the King's Road](../../assets/articles/chelsea-area-guide/duke-of-york-square.jpg)
+
+The pedestrianised square behind the Saatchi Gallery, with a Saturday food market and enough outdoor seating to make it the obvious lunch stop on a King's Road walk.
+
+**Pavilion Road**, a few minutes north, is the better one: a single narrow street of independent food shops — butcher, baker, cheesemonger, fishmonger — closed to through traffic and almost entirely free of chains.
+
+![Pavilion Road in Chelsea, a narrow pedestrianised street lined with awnings and outdoor tables](../../assets/articles/chelsea-area-guide/pavilion-road.jpg)
 
 ### Sloane Square and the eastern King's Road
 

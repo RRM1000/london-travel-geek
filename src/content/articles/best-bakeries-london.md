@@ -2,12 +2,8 @@
 title: "The Best Bakeries in London: 23 Worth Queuing For"
 seoTitle: "Best Bakeries London 2026: Ranked by Consensus"
 description: "The ten London bakeries named among Britain's best for 2026, the queues locals actually join, and a Portuguese custard tart institution that has been on Golborne Road since 1984."
-heroImage: "../../assets/articles/best-bakeries-london/best-bakeries-london.jpg"
-heroImageAlt: "Wooden shelves in a bakery stacked with sourdough loaves, pastries and buns"
-heroImageCredit: "Valeria Boltneva"
-heroImageSource: "https://www.pexels.com/photo/artisan-breads-and-pastries-display-in-bakery-29380151/"
-heroImageLicense: "Pexels License"
-heroImageLicenseUrl: "https://www.pexels.com/license/"
+heroImage: "../../assets/articles/best-bakeries-london/buns-from-home.jpg"
+heroImageAlt: "The Buns from Home shopfront, cream painted with the name in yellow lowercase lettering above a window counter"
 publishedAt: 2026-08-23
 sites: [london]
 canonicalSite: london
@@ -306,6 +302,8 @@ Five bakeries carried by three or more independent sources that this guide had n
 ## The one that is everywhere
 
 ### Buns from Home, twelve branches
+
+![The Buns from Home shopfront, cream painted with the name in yellow lowercase lettering above a window counter](../../assets/articles/best-bakeries-london/buns-from-home.jpg)
 
 *Chain · mostly central and west*
 

@@ -64,7 +64,6 @@ faq:
     a: "A summer opera season staged under a temporary canopy in the grounds of the ruined Holland House, running roughly June to August. It is open-air in feel, considerably less formal than the major houses, and tickets are far cheaper. Peacocks have been known to wander across during performances."
 heroImage: ../../assets/articles/kensington-area-guide/victoria-and-kensington-palace.jpg
 heroImageAlt: "Kensington Palace and the Queen Victoria statue in Kensington Gardens"
-heroImageCredit: "Eusebius"
 heroImageSource: https://commons.wikimedia.org/wiki/File:Victoria_and_Kensington_Palace.jpg
 heroImageLicense: "CC BY 3.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/3.0
@@ -94,7 +93,7 @@ Kensington has its own share of the commemorative plaques marking where notable 
 
 ![The Round Pond in Kensington Gardens at dusk, with Kensington Palace low on the horizon beyond](../../assets/articles/kensington-area-guide/kensington-gardens.jpg)
 
-*The Round Pond in Kensington Gardens, with the palace beyond it. The gardens close at dusk; Hyde Park next door does not. Photo: [Ray in Manila](https://www.flickr.com/photos/21186555@N07/27960679866), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Kensington Palace across the round pond, with Queen Victoria in front of it. The gardens close at dusk; Hyde Park next door does not.*
 
 ## Key streets and micro-districts
 
@@ -106,6 +105,10 @@ The main road, and a high street that was once a genuine rival to Oxford Street 
 **Access has never been reliable.** The gardens have opened and closed with successive owners and are not a public park, so check before you build an afternoon around them. The street itself is a five-minute walk end to end from High Street Kensington station.
 
 ### Kensington Gardens and the palace
+
+![The Sunken Garden at Kensington Palace, a long formal pond edged with clipped hedges and dense flower borders](../../assets/articles/kensington-area-guide/sunken-garden-kensington-palace.jpg)
+
+*The Sunken Garden, laid out in 1908 and best in high summer. It is a few steps off the main path and most people walk past the entrance.*
 North-east, and the reason most people come. **Kensington Palace is ticketed**; the gardens around it are free, which is the distinction that catches people out.
 
 Free and worth the walk: the **Sunken Garden**, the **Albert Memorial**, the two **Serpentine galleries** — which run free contemporary art shows and a new architectural pavilion each summer — the **Italian Gardens** at the Lancaster Gate end, and the **Diana Memorial Playground**.

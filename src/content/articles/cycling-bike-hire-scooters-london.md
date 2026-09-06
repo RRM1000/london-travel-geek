@@ -50,6 +50,8 @@ Start with that one.
 
 ## Santander Cycles: the docked scheme
 
+![A Santander Cycles docking station terminal, a black screen unit beside red docking points](../../assets/articles/cycling-bike-hire-scooters-london/santander-cycles-docking-station.jpg)
+
 The red bikes in the docking stations, run by Transport for London. **They are still called Santander Cycles** — the scheme has been renamed before, and guides using an old sponsor name are a good sign they have not been updated.
 
 ### What you pay
