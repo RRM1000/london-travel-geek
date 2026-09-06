@@ -1,0 +1,80 @@
+---
+// The pinned column's hotel unit, shown INSTEAD of SidebarActivities on guides
+// where we have a Hotels.com page for the area.
+//
+// WHY IT DISPLACES THE TOURS CARD RATHER THAN JOINING IT. The column is sticky
+// and viewport-capped; a second dark card below the first would push the pair
+// past the height the column can hold, and the lower one would be cropped -
+// which is the exact failure that got GetYourGuide's own city.frame widget
+// pulled out of this column in the first place. One card, or the reader sees
+// half of two.
+//
+// It reuses SidebarActivities' class names on purpose. .sidebar-book is styled
+// by ArticleLayout as well as by that component - the sticky column has a rule
+// keyed to it - so a differently-named card would sit in the pinned column
+// without the pinning styles that make it work.
+//
+// The numbers are REAL and come from the Hotels sheet, not from Hotels.com: how
+// many hotels this guide researched, and the cheapest typical rate among them.
+// A live price would need their API and would be stale in the HTML the moment
+// it was built; "from about £95" is checkable against the list on the same page.
+import hotelData from "../data/hotels.json";
+import { hotelsComAreaLink } from "../lib/hotelsComAreas";
+
+interface Props {
+  articleId: string;
+  areaName?: string;
+}
+const { articleId, areaName } = Astro.props as Props;
+
+const area = hotelsComAreaLink(articleId);
+
+type Hotel = { guide?: string; name: string; typicalFrom?: string };
+const ours = (hotelData.hotels as Hotel[]).filter((h) => h.guide === articleId);
+
+// Cheapest "About £95" in the guide, read off the sheet's own prose rather than
+// a separate number that could drift from it. No parse, no claim.
+const cheapest = ours
+  .map((h) => Number((h.typicalFrom ?? "").replace(/[^0-9]/g, "")))
+  .filter((n) => Number.isFinite(n) && n > 0)
+  .sort((a, b) => a - b)[0];
+
+const heading = areaName ? `Hotels in ${areaName}` : "Hotels in London";
+---
+
+{area && (
+  <aside class="sidebar-book sidebar-book--hotels" aria-labelledby="sidebar-hotels-title">
+    <p class="sidebar-book__eyebrow">Where to stay</p>
+    <p class="sidebar-book__title" id="sidebar-hotels-title">{heading}</p>
+
+    <p class="sidebar-book__fallback">
+      {ours.length > 0 && cheapest
+        ? `We have checked ${ours.length} hotels here, from about £${cheapest} a night. Compare them all with live dates and prices.`
+        : "Compare every hotel in the area with live dates, prices and availability."}
+    </p>
+
+    <a
+      class="sidebar-book__more"
+      href={area.href}
+      rel="sponsored nofollow noopener"
+      target="_blank"
+      data-affiliate="cj"
+    >
+      Check prices on Hotels.com
+      <span class="sidebar-book__ad">ad</span>
+    </a>
+  </aside>
+)}
+
+<style>
+  /* Everything comes from SidebarActivities' .sidebar-book rules, which are not
+     scoped to that component's markup. Only the eyebrow glyph differs: a bed
+     rather than a ticket, masked the same way so it takes the amber above
+     instead of shipping a second colour to keep in sync. */
+  .sidebar-book--hotels .sidebar-book__eyebrow::before {
+    -webkit-mask: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4v16"/><path d="M2 8h18a2 2 0 0 1 2 2v10"/><path d="M2 17h20"/><path d="M6 8v9"/></svg>')
+      center / contain no-repeat;
+    mask: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4v16"/><path d="M2 8h18a2 2 0 0 1 2 2v10"/><path d="M2 17h20"/><path d="M6 8v9"/></svg>')
+      center / contain no-repeat;
+  }
+</style>

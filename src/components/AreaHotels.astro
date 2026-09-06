@@ -67,31 +67,6 @@ const cards = list.map((h) => {
 
 const hasAffiliate = list.some((h) => h.affiliateUrl);
 
-// Hotels.com's own neighbourhood landing page for an area, wrapped in the CJ
-// redirect at render time. TRIAL: Covent Garden only, to see how it sits on a
-// page that already carries a GetYourGuide widget before it goes on 26 guides.
-//
-// These urls are COPIED FROM HOTELS.COM, not built from the area name - the nh
-// id is theirs and unguessable, and a wrong one is a 404 behind an ad label. An
-// area with no entry renders nothing, which is the same rule the hotel rows
-// themselves follow.
-//
-// Chosen over Expedia Group's widget builder deliberately: that is a
-// third-party script that sets its own cookies and carries Expedia's tracking
-// rather than CJ's, and whether CJ attribution survives it is exactly the kind
-// of thing that silently earns nothing. This is a link. The redirect is the one
-// tested end to end - it lands on the page with cjaff tracking applied.
-const HOTELS_COM_AREA: Record<string, { url: string; label: string }> = {
-  "covent-garden-area-guide": {
-    url: "https://uk.hotels.com/nh10760693/hotels-in-covent-garden-london-united-kingdom/",
-    label: "Covent Garden",
-  },
-};
-const areaSearch = HOTELS_COM_AREA[articleId];
-const CJ_PID = "101875905";
-const areaSearchUrl = areaSearch
-  ? `https://www.anrdoezrs.net/links/${CJ_PID}/type/dlg/${areaSearch.url}`
-  : undefined;
 ---
 
 {(introHtml || list.length > 0) && (
@@ -110,15 +85,6 @@ const areaSearchUrl = areaSearch
         </span>
       )}
     </p>
-    )}
-
-    {areaSearchUrl && (
-      <p class="ah-search">
-        <a href={areaSearchUrl} rel="sponsored nofollow noopener" target="_blank" data-affiliate="cj">
-          Compare every {areaSearch!.label} hotel on Hotels.com<span class="ah-ad">ad</span>
-        </a>
-        <span class="ah-search-note">Dates, prices and availability across the whole area — useful when nothing on this list fits.</span>
-      </p>
     )}
 
     {list.length > 0 && (
@@ -180,26 +146,7 @@ const areaSearchUrl = areaSearch
   .ah-intro { margin: 0 0 1.5rem; opacity: 0.8; }
   .ah-disclosure { display: block; margin-block-start: 0.5rem; font-size: 0.85rem; }
 
-  /* Sits between the list intro and the hotels, and is deliberately quieter than
-     a card: it is the fallback for when none of the named hotels suit, not a
-     rival to them. A boxed, coloured call-to-action here would outrank the
-     editorial list on its own page, which is the wrong way round. */
-  .ah-search {
-    margin: 0 0 1.5rem;
-    padding-block-start: 0.9rem;
-    border-block-start: 1px solid var(--color-border, #e2e2e2);
-  }
-  .ah-search a { font-weight: 650; }
-  /* A CLASS, not `.ah-search > span`. The layout injects an external-link marker
-     into the anchor and the bare child selector lost to a global rule, leaving
-     the note running on inline straight off the "ad" label. .ah-disclosure above
-     already solved this the same way - follow it rather than rediscover it. */
-  .ah-search-note {
-    display: block;
-    margin-block-start: 0.35rem;
-    font-size: 0.85rem;
-    opacity: 0.75;
-  }
+
   /* Section class AND element, for the same reason as the other two sections:
      ArticleLayout's `.article__body :global(ul) { list-style: disc }` ties on
      specificity and wins on source order. These are cards, not bullets. */

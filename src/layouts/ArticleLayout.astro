@@ -7,6 +7,8 @@ import Breadcrumbs from "../components/Breadcrumbs.astro";
 import RelatedGuides from "../components/RelatedGuides.astro";
 import TableOfContents from "../components/TableOfContents.astro";
 import SidebarActivities from "../components/SidebarActivities.astro";
+import SidebarHotels from "../components/SidebarHotels.astro";
+import { hotelsComAreaLink } from "../lib/hotelsComAreas";
 import AreaAtAGlance from "../components/AreaAtAGlance.astro";
 import AreaMap from "../components/AreaMap.astro";
 import AreaActivities from "../components/AreaActivities.astro";
@@ -323,7 +325,16 @@ const breadcrumbs = [
         {showContents && (
           <TableOfContents headings={contentsHeadings} variant="desktop" />
         )}
-        <SidebarActivities articleId={articleId} areaName={area?.name} />
+        {/* ONE card, not two: the column is sticky and viewport-capped, and a
+            second dark card below the first gets cropped - the failure that got
+            GetYourGuide's city widget pulled out of this column. So where we
+            have a Hotels.com page for the area, the hotels card takes the slot;
+            everywhere else the tours card keeps it. */}
+        {hotelsComAreaLink(articleId) ? (
+          <SidebarHotels articleId={articleId} areaName={area?.name} />
+        ) : (
+          <SidebarActivities articleId={articleId} areaName={area?.name} />
+        )}
       </aside>
     </div>
     </div>
