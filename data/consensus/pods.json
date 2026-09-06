@@ -18,6 +18,15 @@
       "names": [
         "Zedwell Piccadilly Circus"
       ]
+    },
+    {
+      "name": "Zedwell Hotels (Capsule Cocoons, own site)",
+      "url": "https://zedwellhotels.com/capsule-cocoons/",
+      "scope": "pods",
+      "names": [
+        "Zedwell Piccadilly Circus Capsule",
+        "Zedwell Leicester Place Capsule"
+      ]
     }
   ]
 }

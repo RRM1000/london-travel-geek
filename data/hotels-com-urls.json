@@ -17,8 +17,7 @@
  "z-hotel-shoreditch": { "url": "https://uk.hotels.com/ho1140510304/" },
  "batty-langleys": { "url": "https://uk.hotels.com/ho576491/batty-langley-s-london-united-kingdom/" },
  "mondrian-shoreditch": {
-  "url": "https://uk.hotels.com/ho686053/mondrian-london-shoreditch-london-united-kingdom/",
-  "needsCheck": "Hotels.com titles this listing VIRGIN HOTELS LONDON-SHOREDITCH. If the hotel has rebranded then our own sheet row is out of date, and the name matters more than the link."
+  "url": "https://uk.hotels.com/ho686053/mondrian-london-shoreditch-london-united-kingdom/", "note": "Slug keeps the Mondrian name; the listing and the hotel are now Virgin Hotels London-Shoreditch."
  },
  "artotel-london-hoxton": {
   "url": "https://uk.hotels.com/ho3144158848/art-otel-london-hoxton-london-united-kingdom/",
