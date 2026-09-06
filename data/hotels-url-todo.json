@@ -1,0 +1,152 @@
+[
+ {
+  "slug": "nhow-london",
+  "name": "nhow London",
+  "guide": "shoreditch-area-guide"
+ },
+ {
+  "slug": "z-hotel-shoreditch",
+  "name": "The Z Hotel Shoreditch",
+  "guide": "shoreditch-area-guide"
+ },
+ {
+  "slug": "aethos-london-shoreditch",
+  "name": "Aethos London Shoreditch",
+  "guide": "shoreditch-area-guide"
+ },
+ {
+  "slug": "batty-langleys",
+  "name": "Batty Langley's",
+  "guide": "shoreditch-area-guide"
+ },
+ {
+  "slug": "mondrian-shoreditch",
+  "name": "Mondrian Shoreditch",
+  "guide": "shoreditch-area-guide"
+ },
+ {
+  "slug": "one-hundred-shoreditch",
+  "name": "One Hundred Shoreditch",
+  "guide": "shoreditch-area-guide"
+ },
+ {
+  "slug": "redchurch-townhouse",
+  "name": "Redchurch Townhouse",
+  "guide": "shoreditch-area-guide"
+ },
+ {
+  "slug": "the-hoxton-shoreditch",
+  "name": "The Hoxton, Shoreditch",
+  "guide": "shoreditch-area-guide"
+ },
+ {
+  "slug": "artotel-london-hoxton",
+  "name": "art'otel London Hoxton",
+  "guide": "shoreditch-area-guide"
+ },
+ {
+  "slug": "the-grafton-arms",
+  "name": "The Grafton Arms",
+  "guide": "fitzrovia-area-guide"
+ },
+ {
+  "slug": "sanderson-london",
+  "name": "Sanderson London",
+  "guide": "fitzrovia-area-guide"
+ },
+ {
+  "slug": "charlotte-street-hotel",
+  "name": "Charlotte Street Hotel",
+  "guide": "fitzrovia-area-guide"
+ },
+ {
+  "slug": "the-laslett",
+  "name": "The Laslett",
+  "guide": "notting-hill-area-guide"
+ },
+ {
+  "slug": "the-pelican-notting-hill",
+  "name": "The Pelican",
+  "guide": "notting-hill-area-guide"
+ },
+ {
+  "slug": "the-portobello-hotel",
+  "name": "The Portobello Hotel",
+  "guide": "notting-hill-area-guide"
+ },
+ {
+  "slug": "london-marriott-canary-wharf",
+  "name": "London Marriott Hotel Canary Wharf",
+  "guide": "canary-wharf-area-guide"
+ },
+ {
+  "slug": "novotel-canary-wharf",
+  "name": "Novotel London Canary Wharf",
+  "guide": "canary-wharf-area-guide"
+ },
+ {
+  "slug": "otherwander-soho",
+  "name": "Otherwander Soho",
+  "guide": "soho-area-guide"
+ },
+ {
+  "slug": "zedwell-piccadilly-circus",
+  "name": "Zedwell Piccadilly Circus",
+  "guide": "soho-area-guide"
+ },
+ {
+  "slug": "broadwick-soho",
+  "name": "Broadwick Soho",
+  "guide": "soho-area-guide"
+ },
+ {
+  "slug": "ham-yard-hotel",
+  "name": "Ham Yard Hotel",
+  "guide": "soho-area-guide"
+ },
+ {
+  "slug": "hotel-cafe-royal",
+  "name": "Hotel Café Royal",
+  "guide": "soho-area-guide"
+ },
+ {
+  "slug": "the-soho-hotel",
+  "name": "The Soho Hotel",
+  "guide": "soho-area-guide"
+ },
+ {
+  "slug": "artotel-battersea-power-station",
+  "name": "art'otel London Battersea Power Station",
+  "guide": "battersea-area-guide"
+ },
+ {
+  "slug": "bermondsey-square-hotel",
+  "name": "Bermondsey Square Hotel",
+  "guide": "bermondsey-area-guide"
+ },
+ {
+  "slug": "shangri-la-the-shard",
+  "name": "Shangri-La The Shard, London",
+  "guide": "bermondsey-area-guide"
+ },
+ {
+  "slug": "san-domenico-house",
+  "name": "San Domenico House",
+  "guide": "chelsea-area-guide"
+ },
+ {
+  "slug": "the-chelsea-townhouse",
+  "name": "The Chelsea Townhouse",
+  "guide": "chelsea-area-guide"
+ },
+ {
+  "slug": "the-cadogan-belmond",
+  "name": "The Cadogan, A Belmond Hotel",
+  "guide": "chelsea-area-guide"
+ },
+ {
+  "slug": "astor-hyde-park",
+  "name": "Astor Hyde Park",
+  "guide": "south-kensington-area-guide"
+ }
+]
