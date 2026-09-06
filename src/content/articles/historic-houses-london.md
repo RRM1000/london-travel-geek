@@ -83,6 +83,10 @@ A platform lift reaches four of the five levels but **must be operated by staff 
 
 *Ticketed · closed Tue · free on the first Monday of the month*
 
+![The red brick front of Leighton House on Holland Park Road, with a blue plaque to Lord Leighton between its first-floor windows](../../assets/articles/best-galleries-london/leighton-house.jpg)
+
+*Leighton House, and the London County Council plaque recording that Leighton lived and died here.*
+
 Frederic Leighton's studio-house, built around an **Arab Hall lined with seventeenth-century Damascus tiles**, a gold mosaic frieze and a fountain set into the floor. Leighton was President of the Royal Academy and built the place as much to be seen in as to work in; the studio upstairs is the other half of the point.
 
 **The free way in: Pay What You Want, the first Monday of every month, 10am–1pm.** You can pay the full price, a little, or nothing at all — but it is **door tickets only**, so you cannot book it online, and it excludes bank holidays.

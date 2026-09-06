@@ -271,6 +271,10 @@ A working **vault complex beneath Chancery Lane**, trading here since 1953, hold
 
 *Ticketed · Holland Park Road, Kensington*
 
+![The red brick front of Leighton House on Holland Park Road, with a blue plaque to Lord Leighton between its first-floor windows](../../assets/articles/best-galleries-london/leighton-house.jpg)
+
+*Leighton House from Holland Park Road. The plain brick exterior is the joke: everything the house is known for is behind it.*
+
 Frederic Leighton's studio-house, built for himself over thirty years from 1866 and unlike any other building in London. The **Arab Hall** is the reason to come: a domed, double-height room lined with sixteenth and seventeenth-century Damascus tiles Leighton collected on his travels, a gold mosaic frieze above them and a fountain in the floor.
 
 It is a **house museum rather than a gallery**, so it is small and you go through it room by room — the great first-floor studio where he actually painted is the other set piece, with its north window and its apse.

@@ -225,6 +225,10 @@ The cooking is Thai-Chinese from Bangkok's Yaowarat district: **dry-aged noodle 
 
 **There are now two.** A second Speedboat Bar opened in July 2025 at **191 Portobello Road** in Notting Hill, inside Soho House's Electric House, with the same Luke Farrell menu. It runs Sunday to Thursday noon to 11pm (last food 9.45pm) and Friday and Saturday noon to 1am (last food 12.15am) — later than almost anything else in Notting Hill, and the reason to keep it in mind after Portobello Road shuts.
 
+![The Speedboat Bar frontage at Electric House on Portobello Road, Thai signage and red paper lanterns over pavement tables with red stools](../../assets/articles/best-thai-restaurants-london/speedboat-bar-notting-hill.jpg)
+
+*Speedboat Bar at The Electric, 191 Portobello Road. The pavement tables are first come, first served.*
+
 **You do not need to be a Soho House member.** Electric House is a members' club and the restaurant sits inside it, which puts people off, but Speedboat takes public bookings and walk-ins through its own site like any other restaurant. Worth knowing, because nothing on the door says so.
 
 ---
