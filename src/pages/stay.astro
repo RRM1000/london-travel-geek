@@ -1,0 +1,243 @@
+---
+// The "Where to stay" hub, and the parent for everything accommodation.
+//
+// WHY THIS IS AN AREA PAGE AND NOT A HOTEL LIST. Ninety days of Search Console
+// shows 88 accommodation-shaped queries reaching this site, 194 impressions and
+// zero clicks, at positions 45 to 99 - nothing in striking distance. But almost
+// all of them are one question in fifty phrasings: "best area to stay in
+// London", "best neighbourhood", "which part of London", "best district". That
+// is a question about London, not about hotels, and it is the one accommodation
+// question a site with 26 area guides is better placed to answer than a booking
+// engine. A "best hotels in London" page would start from nothing against
+// Booking.com; this one starts from work already done.
+//
+// Everything here is derived from the sheets and the guides' own frontmatter, so
+// it cannot drift from the pages it summarises. Adding an area guide with hotels
+// adds a row; nothing to maintain twice.
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import hotelData from "../data/hotels.json";
+
+type Hotel = { guide?: string; name: string; typicalFrom?: string; priceBand?: string; propertyType?: string };
+const hotels = hotelData.hotels as Hotel[];
+
+// "About £95" -> 95. The sheet writes prices as prose because that is what a
+// reader should see; the number is only ever derived from it, never stored
+// alongside it, so the two cannot disagree.
+// FIRST pound amount, not every digit in the string. Stripping non-digits from
+// "About GBP70 a single pod, GBP80 a double" yields 7080, which is not a price
+// and sorts to the far end of the table looking exactly like one.
+const poundsIn = (s?: string) => {
+  const m = String(s ?? "").match(/£s?([0-9][0-9,]*)/);
+  if (!m) return undefined;
+  const n = Number(m[1].replace(/,/g, ""));
+  return Number.isFinite(n) && n > 0 ? n : undefined;
+};
+
+const guides = (await getCollection("articles"))
+  .filter((a) => a.data.area && !a.data.draft)
+  .map((a) => {
+    const mine = hotels.filter((h) => h.guide === a.id);
+    // HOSTEL BEDS AND CAPSULE PODS ARE EXCLUDED FROM THE "from" PRICE, and this
+    // is the whole point of the column. Both are sold per sleeping space rather
+    // than per room, so including them ranked Soho the second cheapest area in
+    // London on the strength of one windowless pod at Piccadilly Circus, and put
+    // King's Cross, Bloomsbury and South Kensington on top because each has a
+    // hostel. That is a comparison between a bunk and a double, dressed up as a
+    // comparison between areas. Both formats still earn the row a chip - they are
+    // genuinely useful, and cheap - they just do not set the area's price.
+    const BUDGET_FORMATS = new Set(["hostel", "capsule"]);
+    const rooms = mine.filter((h) => !BUDGET_FORMATS.has(h.propertyType ?? ""));
+    const prices = rooms.map((h) => poundsIn(h.typicalFrom)).filter((n): n is number => n !== undefined);
+    return {
+      id: a.id,
+      name: a.data.area!.name,
+      zone: a.data.area!.zone,
+      vibe: a.data.area!.vibe,
+      budget: a.data.area!.budget,
+      bestFor: a.data.area!.bestFor ?? [],
+      station: a.data.area!.nearestStations?.[0]?.name,
+      count: mine.length,
+      from: prices.length ? Math.min(...prices) : undefined,
+      budgetBeds: mine.filter((h) => BUDGET_FORMATS.has(h.propertyType ?? "")).length,
+    };
+  })
+  .filter((g) => g.count > 0)
+  .sort((a, b) => (a.from ?? 9e9) - (b.from ?? 9e9));
+
+const totalHotels = guides.reduce((t, g) => t + g.count, 0);
+const cheapest = guides.filter((g) => g.from !== undefined).slice(0, 6);
+// Only areas that HAVE a room price can be the dearest. Wapping holds one
+// hostel and nothing else, so it sorts last on the 9e9 fallback and was being
+// reported as one of London's most expensive places to stay.
+const dearest = guides.filter((g) => g.from !== undefined).reverse().slice(0, 4);
+
+// The areas where the weekend pricing pattern INVERTS - see the section below.
+// Kept as ids rather than names so a renamed area cannot silently drop out.
+const BUSINESS_DISTRICTS = new Set(["city-of-london-area-guide", "canary-wharf-area-guide"]);
+const businessAreas = guides.filter((g) => BUSINESS_DISTRICTS.has(g.id));
+
+const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Where to stay" }];
+---
+
+<BaseLayout
+  title="Where to Stay in London: Choosing an Area, Not a Hotel"
+  description={`Which part of London to sleep in and why — ${guides.length} areas compared on price, transport and what they are actually like at night, with ${totalHotels} hotels we have checked.`}
+  breadcrumbs={breadcrumbs}
+>
+  <section class="container stay">
+    <header class="stay-hero">
+      <h1>Where to stay in London</h1>
+      <p class="stay-lede">
+        The hotel matters less than the area. London is thirty-two boroughs and a
+        bad choice costs you an hour a day on the Tube, so this starts with the
+        part almost every guide skips: <strong>which bit of the city to sleep in</strong>.
+        {guides.length} areas, {totalHotels} hotels we have actually checked.
+      </p>
+    </header>
+
+    <section class="stay-block">
+      <h2 id="the-short-answer">The short answer</h2>
+      <ul class="stay-answers">
+        <li><strong>First visit, want to walk to things:</strong> Covent Garden, Soho or Westminster. You pay for it, and you will not use the Tube much.</li>
+        <li><strong>Best value that is still central:</strong> Bloomsbury or King&rsquo;s Cross. Zone 1, ten minutes from the West End, noticeably cheaper.</li>
+        <li><strong>Cheapest rooms we found, area by area:</strong> {cheapest.slice(0, 3).map((g) => g.name).join(", ")} &mdash; and the first of those surprises people, because a budget room in a central area routinely beats a mid-range one further out.</li>
+        <li><strong>Arriving late or leaving early:</strong> King&rsquo;s Cross or Paddington &mdash; both are termini, both have the Elizabeth line or the Piccadilly to Heathrow.</li>
+        <li><strong>Somewhere that is not a tourist strip:</strong> Shoreditch, Bermondsey or Hackney. Better food, better bars, twenty minutes back at night.</li>
+      </ul>
+    </section>
+
+    <section class="stay-block">
+      <h2 id="cheapest-night">The cheapest night of the week &mdash; and why London breaks the rule</h2>
+      <p>
+        Across the UK, <strong>Sunday is the cheapest night to check in</strong>, by
+        roughly 14% against a Saturday. The logic is simple: weekend visitors have
+        gone home and the business travellers have not arrived yet.
+      </p>
+      <p>
+        <strong>In London that rule only holds in half the city.</strong> London
+        has leisure districts and working districts sitting a few Tube stops apart,
+        and they price in opposite directions:
+      </p>
+      <ul class="stay-answers">
+        <li><strong>The West End, Covent Garden, Soho, South Kensington</strong> follow the normal pattern &mdash; dearest Friday and Saturday, cheapest Sunday and Monday.</li>
+        {businessAreas.length > 0 && (
+          <li>
+            <strong>{businessAreas.map((g) => g.name).join(" and ")}</strong> do the
+            opposite. They fill Monday to Thursday with people working there and
+            empty out at the weekend, so Friday and Saturday are often the cheapest
+            nights of the week &mdash; in the areas most guides tell you are expensive.
+          </li>
+        )}
+      </ul>
+      <p>
+        <strong>So the practical trick is to move, not to wait.</strong> A Saturday
+        in the City can cost less than a Saturday in Bloomsbury while being two
+        stops from it. Run the same dates against two areas before assuming the
+        cheap one is cheap.
+      </p>
+      <p class="stay-caveat">
+        Worth saying plainly: this is a pattern, not a timetable. A conference,
+        a Test match or a bank holiday overrides all of it, and rates move by the
+        hour. Check your own dates &mdash; the point is to check them in two
+        areas rather than one.
+      </p>
+    </section>
+
+    <section class="stay-block">
+      <h2 id="by-area">Every area, cheapest first</h2>
+      <p class="stay-note">
+        &ldquo;From&rdquo; is the lowest typical starting rate for a <em>room</em> among
+        the places we have checked in that area &mdash; not a quote, not a live price.
+        Hostel dorms and capsule pods are left out deliberately: they are priced per bed rather
+        than per room, and including them would rank an area cheap for having a
+        single bunk or pod. Areas that have them are marked instead.
+      </p>
+      <div class="stay-scroll">
+        <table class="stay-table">
+          <thead>
+            <tr>
+              <th>Area</th><th>Zone</th><th class="n">From</th><th class="n">Hotels</th><th>What it is like</th>
+            </tr>
+          </thead>
+          <tbody>
+            {guides.map((g) => (
+              <tr>
+                <td><a href={`/articles/${g.id}/`}>{g.name}</a>{g.budgetBeds > 0 && <span class="stay-chip">beds &amp; pods</span>}</td>
+                <td>{g.zone}</td>
+                <td class="n">{g.from ? `£${g.from}` : "—"}</td>
+                <td class="n">{g.count}</td>
+                <td class="stay-vibe">{g.vibe}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="stay-block">
+      <h2 id="paying-more">Where the money goes</h2>
+      <p>
+        The gap between the cheapest and dearest areas here is roughly
+        {cheapest[0]?.from && dearest[0]?.from
+          ? ` £${cheapest[0].from} against £${dearest[0].from} a night`
+          : " several hundred pounds a night"},
+        and most of that is postcode rather than room. {dearest.map((g) => g.name).join(", ")} carry
+        the grand hotels; you are buying the address and the lobby as much as the bed.
+      </p>
+      <p>
+        <strong>What that money does not buy is space.</strong> London rooms are
+        small by international standards at every price under about £300, and a
+        four-star room here is routinely smaller than a three-star room in most of
+        Europe. If room size matters more than location, that is an argument for
+        Zone 2 rather than for paying more in Zone 1.
+      </p>
+    </section>
+  </section>
+</BaseLayout>
+
+<style>
+  .stay { padding-block: 2rem 4rem; }
+  .stay-hero { max-width: 44rem; margin-bottom: 2.5rem; }
+  .stay-hero h1 { margin: 0 0 0.6rem; }
+  .stay-lede { font-size: 1.08rem; line-height: 1.6; }
+
+  .stay-block { max-width: 48rem; margin-block: 2.75rem; }
+  .stay-block > h2 { margin: 0 0 0.9rem; scroll-margin-top: 2rem; }
+  .stay-block p { margin: 0 0 0.9rem; }
+
+  .stay-answers { display: grid; gap: 0.65rem; margin: 0 0 1rem; padding-left: 1.35rem; }
+  .stay-answers li::marker { color: var(--accent); font-weight: 800; }
+
+  .stay-note,
+  .stay-caveat { font-size: 0.9rem; opacity: 0.8; }
+  .stay-caveat {
+    padding-inline-start: 0.9rem;
+    border-inline-start: 3px solid var(--color-border, #e2e2e2);
+  }
+
+  /* Wide table scrolls in its own box - the page must never scroll sideways. */
+  .stay-scroll { overflow-x: auto; }
+  .stay-table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+  .stay-table th,
+  .stay-table td {
+    padding: 0.55rem 0.6rem;
+    border-bottom: 1px solid var(--color-border, #e2e2e2);
+    text-align: left;
+    vertical-align: top;
+  }
+  .stay-table th { font-size: 0.78rem; letter-spacing: 0.06em; text-transform: uppercase; opacity: 0.7; }
+  /* Prices and counts line up as columns of digits rather than ragged text. */
+  .stay-table .n { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .stay-vibe { opacity: 0.85; }
+  .stay-chip {
+    margin-inline-start: 0.4rem;
+    padding: 0.1rem 0.35rem;
+    border-radius: 0.25rem;
+    background: var(--surface, #f0f0f0);
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    opacity: 0.75;
+  }
+</style>

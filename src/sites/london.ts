@@ -109,6 +109,23 @@ export const londonSite: SiteConfig = {
       },
     },
     {
+      label: "Where to Stay",
+      href: "/stay/",
+      description: "Which part of London to sleep in, and what it costs.",
+      // No imageKey yet - the panel renders without one, and a stock hotel
+      // shot would be worse than nothing next to four photographs of London.
+      children: [
+        { label: "Where to stay in London", href: "/stay/" },
+        { label: "The cheapest night of the week", href: "/stay/#cheapest-night" },
+        { label: "Every area, cheapest first", href: "/stay/#by-area" },
+        { label: "Covent Garden", href: "/articles/covent-garden-area-guide/#where-to-stay" },
+        { label: "Shoreditch", href: "/articles/shoreditch-area-guide/#where-to-stay" },
+        { label: "King's Cross", href: "/articles/kings-cross-area-guide/#where-to-stay" },
+        { label: "Bloomsbury", href: "/articles/bloomsbury-area-guide/#where-to-stay" },
+        { label: "Westminster", href: "/articles/westminster-area-guide/#where-to-stay" },
+      ],
+    },
+    {
       label: "Plan",
       href: "/topics/london-itineraries/",
       description: "Itineraries built around how much time you really have.",
