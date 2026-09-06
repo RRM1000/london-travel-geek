@@ -489,7 +489,7 @@ const ROWS = [
   {
     ...base, slug: "fleming-ebury-street", name: "Ian Fleming's Belgravia Home",
     subject: "Ian Fleming (1908–1964), creator of James Bond",
-    hood: "Belgravia", borough: "Westminster", areaGuide: "westminster-area-guide",
+    hood: "Belgravia", borough: "Westminster", areaGuide: "belgravia-area-guide",
     address: "22 Ebury Street",
     whyGo: "Fleming was born and grew up on this street - the plaque marks the creator of James Bond, a very different kind of London export from the writers nearby.",
     opSummary: "A private residential building - viewable from the street only.",
@@ -810,7 +810,7 @@ const ROWS = [
   {
     ...base, slug: "mary-shelley-chester-square", name: "Mary Shelley's Belgravia Home",
     subject: "Mary Shelley (1797–1851), author of Frankenstein",
-    hood: "Belgravia", borough: "Westminster", areaGuide: "westminster-area-guide",
+    hood: "Belgravia", borough: "Westminster", areaGuide: "belgravia-area-guide",
     address: "24 Chester Square", postcode: "SW1W 9HS",
     whyGo: "Shelley spent her last years here, decades after writing Frankenstein at 18 - a very different London chapter from the Gothic summer that made her famous.",
     opSummary: "A private residential building - viewable from the street only.",
@@ -828,7 +828,7 @@ const ROWS = [
   {
     ...base, slug: "tennyson-upper-belgrave-street", name: "Lord Tennyson's Belgravia Home",
     subject: "Alfred, Lord Tennyson (1809–1892), Poet Laureate",
-    hood: "Belgravia", borough: "Westminster", areaGuide: "westminster-area-guide",
+    hood: "Belgravia", borough: "Westminster", areaGuide: "belgravia-area-guide",
     address: "9 Upper Belgrave Street", postcode: "SW1X 8BD",
     whyGo: "Tennyson stayed here during his decades as Poet Laureate - The Charge of the Light Brigade and In Memoriam both date from his career.",
     opSummary: "A private residential building - viewable from the street only.",
@@ -913,7 +913,7 @@ const ROWS = [
   {
     ...base, slug: "mozart-ebury-street", name: "Mozart's Belgravia Home",
     subject: "Wolfgang Amadeus Mozart (1756–1791), composer",
-    hood: "Belgravia", borough: "Westminster", areaGuide: "westminster-area-guide",
+    hood: "Belgravia", borough: "Westminster", areaGuide: "belgravia-area-guide",
     address: "180 Ebury Street", postcode: "SW1W 8UP",
     whyGo: "Mozart composed his first symphony here in 1764, aged eight, during his family's 15-month stay in London.",
     opSummary: "A private residential building - viewable from the street only.",

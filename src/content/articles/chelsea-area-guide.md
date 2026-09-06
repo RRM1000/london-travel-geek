@@ -114,18 +114,6 @@ Chelsea has its own share of the commemorative plaques marking where notable peo
 
 **These are people's homes**, and Bywater Street being a cul-de-sac means anyone photographing is visible from every window on it. Shoot from the pavement and keep off the steps.
 
-### Duke of York Square and Pavilion Road
-
-![Outdoor tables under umbrellas and bunting at Duke of York Square off the King's Road](../../assets/articles/chelsea-area-guide/duke-of-york-square.jpg)
-
-The pedestrianised square behind the Saatchi Gallery, with a Saturday food market and enough outdoor seating to make it the obvious lunch stop on a King's Road walk.
-
-**Pavilion Road**, a few minutes north, is the better one: a single narrow street of independent food shops — butcher, baker, cheesemonger, fishmonger — closed to through traffic and almost entirely free of chains.
-
-![Shops and outdoor dining along Duke of York Square, with bunting overhead](../../assets/articles/chelsea-area-guide/duke-of-york-square-shops.jpg)
-
-![Pavilion Road in Chelsea, a narrow pedestrianised street lined with awnings and outdoor tables](../../assets/articles/chelsea-area-guide/pavilion-road.jpg)
-
 ### Sloane Square and the eastern King's Road
 
 The entrance to Chelsea, and the stretch most visitors mistake for the whole of it. The **Royal Court Theatre** sits on the square — the theatre that premiered *Look Back in Anger* in 1956 and still runs new writing, with cheap seats worth checking before anything in the West End.
@@ -143,6 +131,10 @@ Off the north side of the road, a hundred metres in, and the best place to sit d
 **The Saatchi Gallery occupies the building**, seventy thousand square feet over three floors, open daily 10am to 6pm. Some shows are free and some are individually ticketed, with their own separate last-entry times — check which before you turn up.
 
 **The food market runs on Saturdays**, roughly 10am to 4pm, and is the one day this square is genuinely busy. **Partridges**, the grocer on the square, is open the rest of the week.
+
+![Outdoor tables under umbrellas and bunting at Duke of York Square off the King's Road](../../assets/articles/chelsea-area-guide/duke-of-york-square.jpg)
+
+![Shops and outdoor dining along Duke of York Square, with bunting overhead](../../assets/articles/chelsea-area-guide/duke-of-york-square-shops.jpg)
 
 **Pavilion Road runs north from here** — a converted mews of independent food shops, butcher, baker, cheesemonger, with **The Sea, The Sea at 243** doing seafood at the top of it. It is the most concentrated good food in Chelsea and almost nobody walking the King's Road turns up it.
 

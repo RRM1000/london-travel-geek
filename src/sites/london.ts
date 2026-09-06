@@ -93,7 +93,7 @@ export const londonSite: SiteConfig = {
         { label: "Westminster", href: "/articles/westminster-area-guide/" },
         { label: "Kensington", href: "/articles/kensington-area-guide/" },
         { label: "The City of London", href: "/articles/city-of-london-area-guide/" },
-        { label: "All 28 area guides", href: "/topics/london-areas/" },
+        { label: "All 29 area guides", href: "/topics/london-areas/" },
       ],
       // The ones worth a journey that nobody types into a search box. Same
       // mechanism as the seasonal rail, with no months, so it always shows.
@@ -105,6 +105,7 @@ export const londonSite: SiteConfig = {
           { label: "Peckham", href: "/articles/peckham-area-guide/" },
           { label: "Hackney", href: "/articles/hackney-area-guide/" },
           { label: "Stratford", href: "/articles/stratford-area-guide/" },
+          { label: "Belgravia", href: "/articles/belgravia-area-guide/" },
         ],
       },
     },

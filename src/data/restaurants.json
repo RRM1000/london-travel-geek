@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04",
+ "generated": "2026-09-06",
  "count": 890,
  "withCoords": 823,
  "facets": {
@@ -285,6 +285,11 @@
     "value": "Kensington",
     "slug": "kensington",
     "count": 6
+   },
+   {
+    "value": "Belgravia",
+    "slug": "belgravia",
+    "count": 5
    },
    {
     "value": "Knightsbridge",
@@ -4163,6 +4168,7 @@
    "zone": "1",
    "district": "Central",
    "borough": "Westminster",
+   "guide": "belgravia-area-guide",
    "address": "15 Eccleston Yard, Belgravia",
    "postcode": "SW1W 9AZ",
    "lat": 51.493674,
@@ -7980,6 +7986,7 @@
    "zone": "1",
    "district": "Central",
    "borough": "Westminster",
+   "guide": "belgravia-area-guide",
    "address": "15 Beeston Pl, London SW1W 0JW, UK",
    "postcode": "SW1W 0JW",
    "lat": 51.497476,
@@ -11545,6 +11552,7 @@
    "zone": "1",
    "district": "Central",
    "borough": "Westminster",
+   "guide": "belgravia-area-guide",
    "address": "The Peninsula, 1 Grosvenor Pl, London SW1X 7HJ, UK",
    "postcode": "SW1X 7HJ",
    "lat": 51.501739,
@@ -20637,6 +20645,7 @@
    "zone": "1",
    "district": "Central",
    "borough": "Westminster",
+   "guide": "belgravia-area-guide",
    "address": "231 Ebury St, London SW1W 8UT, UK",
    "postcode": "SW1W 8UT",
    "lat": 51.491074,
@@ -23059,6 +23068,7 @@
    "zone": "1",
    "district": "Central",
    "borough": "Westminster",
+   "guide": "belgravia-area-guide",
    "address": "The Peninsula, 1 Grosvenor Pl, London SW1X 7HJ, UK",
    "postcode": "SW1X 7HJ",
    "lat": 51.501739,
