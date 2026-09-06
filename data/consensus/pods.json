@@ -1,0 +1,23 @@
+{
+  "cuisine": "pods",
+  "note": "Created by record-source.mjs on 2026-09-06.",
+  "recorded": "2026-09-06",
+  "sources": [
+    {
+      "name": "Time Out (Biggest capsule pod hotel in the world opens in central London)",
+      "url": "https://www.timeout.com/london/news/the-biggest-capsule-pod-hotel-in-the-world-has-just-opened-in-central-london-091925",
+      "scope": "pods",
+      "names": [
+        "Zedwell Piccadilly Circus"
+      ]
+    },
+    {
+      "name": "RoomScout (Pod Hotel Piccadilly Circus review)",
+      "url": "https://roomscout.co.uk/guides/pod-hotel-piccadilly-circus/",
+      "scope": "pods",
+      "names": [
+        "Zedwell Piccadilly Circus"
+      ]
+    }
+  ]
+}
