@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-02",
- "count": 251,
+ "generated": "2026-09-06",
+ "count": 254,
  "spots": [
   {
    "slug": "saints-tattoo-portobello",
@@ -1641,6 +1641,20 @@
    "opNote": "A private residential building - viewable from the street only."
   },
   {
+   "slug": "hillgate-village-pastel-streets",
+   "name": "Hillgate Village",
+   "type": "hidden-gem",
+   "subject": "The pastel streets behind Notting Hill Gate",
+   "area": "Notting Hill",
+   "borough": "Kensington and Chelsea",
+   "guide": "notting-hill-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "Hillgate Place, Farmer Street and Jameson Street",
+   "whyGo": "Four short streets of small early-Victorian cottages painted in flat pastel blocks - pink, sage, butter, powder blue - and almost nobody on them, because the crowds are four minutes north on Portobello Road. Built as workers' housing for the nearby potteries and brickfields, which is why the houses are so much smaller than the stucco terraces around them.",
+   "opNote": "Residential streets, free and always open. People live here: no tripods, no doorstep posing, and keep the noise down."
+  },
+  {
    "slug": "house-of-dreams-museum",
    "name": "House of Dreams Museum",
    "type": "hidden-gem",
@@ -2396,7 +2410,7 @@
    "slug": "notting-hill-travel-bookshop",
    "name": "Notting Hill's \"Travel Bookshop\"",
    "type": "filming-location",
-   "subject": "Notting Hill (1999) - William's bookshop",
+   "subject": "Notting Hill (1999) - the exterior of William's bookshop",
    "area": "Notting Hill",
    "borough": "Kensington and Chelsea",
    "guide": "notting-hill-area-guide",
@@ -2406,8 +2420,8 @@
    "postcode": "W11 2DZ",
    "lat": 51.514774,
    "lng": -0.204216,
-   "whyGo": "The film's travel bookshop was actually an antiques arcade dressed for filming - the real bookshop that partly inspired the story, on Blenheim Crescent nearby, closed in 2011 and is now a gift shop that leans into the connection.",
-   "opNote": "Now a shop at street level - browsable, not a museum."
+   "whyGo": "The shopfront in the film, and an antiques arcade at the time it was shot - the interior was built elsewhere. It has been a shoe shop, a store called Notting Hill from 2006 and a gift shop since 2014, which now paints THE TRAVEL BOOK Co over the door and posts a board explaining the history. Not to be confused with the Notting Hill Bookshop on Blenheim Crescent, which is a different address and a different claim.",
+   "opNote": "A gift shop at street level, open daily and busiest on Saturdays. Photographed constantly from the pavement opposite."
   },
   {
    "slug": "notting-hill-blue-door",
@@ -2424,7 +2438,7 @@
    "lat": 51.516733,
    "lng": -0.206517,
    "whyGo": "The most photographed front door in west London. Screenwriter Richard Curtis owned the real house; when the door was auctioned for charity the new owners repainted it a different colour, but tourists were so confused they painted it blue again.",
-   "opNote": "A private residential building - viewable from the street only. Be considerate; people live here."
+   "opNote": "A private residential building - viewable from the street only. Be considerate; people live here. As of 5 September 2026 the door has been sprayed with red paint and not yet cleaned, so it does not currently look like the photographs."
   },
   {
    "slug": "notting-hill-coronet-cinema",
@@ -2706,6 +2720,20 @@
    "lng": -0.179045,
    "whyGo": "Franklin's X-ray diffraction images were essential to identifying the structure of DNA - a scientist whose contribution went under-credited for decades.",
    "opNote": "A private residential building - viewable from the street only."
+  },
+  {
+   "slug": "rosmead-garden",
+   "name": "Rosmead Garden",
+   "type": "filming-location",
+   "subject": "Notting Hill (1999) - the private garden William and Anna climb into",
+   "area": "Notting Hill",
+   "borough": "Kensington and Chelsea",
+   "guide": "notting-hill-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "Rosmead Road",
+   "whyGo": "The communal garden behind the railings in the whoops-a-daisy scene, and the one Notting Hill location you genuinely cannot visit - it is a private garden square for the surrounding houses, locked, with the name on a small plaque on the gate. Worth the walk anyway for Rosmead Road itself.",
+   "opNote": "PRIVATE - keyholders only, no public access. Visible through the railings from the street."
   },
   {
    "slug": "roupell-street-no-time-to-die",
@@ -3654,6 +3682,20 @@
    "address": "Trafalgar Square WC2N 5DN",
    "whyGo": "Bond and Q sit on a bench in front of Turner's painting of a warship being towed away to be broken up, and the scene makes its point about obsolescence without anybody having to say it. The painting is on permanent display and free to see.",
    "opNote": "Free and open daily, with one late evening a week. Ask at the desk for the Turner rooms - they get asked constantly."
+  },
+  {
+   "slug": "notting-hill-bookshop-blenheim",
+   "name": "The Notting Hill Bookshop",
+   "type": "filming-location",
+   "subject": "Notting Hill (1999) - the real shop that inspired William's",
+   "area": "Notting Hill",
+   "borough": "Kensington and Chelsea",
+   "guide": "notting-hill-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "13 Blenheim Crescent",
+   "whyGo": "The Travel Bookshop that gave Richard Curtis the idea traded here for thirty years and closed in 2011; it reopened as The Notting Hill Bookshop and is a working independent bookshop rather than a memorial to a film. Nothing was filmed here, which does not stop the queue outside.",
+   "opNote": "A real bookshop, open daily - you can go in and buy a book. Two minutes from Ladbroke Grove."
   },
   {
    "slug": "old-curiosity-shop",

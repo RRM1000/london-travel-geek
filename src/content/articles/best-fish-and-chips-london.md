@@ -113,7 +113,7 @@ The thing that earns the awards is the sourcing: **hake alongside cod while cod 
 
 *££ · Spitalfields · 9 min from Aldgate East · Cited by 8 sources*
 
-**Trading since 1952 and done out as a fifties chip shop** — jukebox, staff in period uniform, formica — which sounds like a theme and is closer to a restoration. Sites in Spitalfields, Camden, Soho and Notting Hill.
+**Trading since 1952 and done out as a fifties chip shop** — jukebox, staff in period uniform, formica — which sounds like a theme and is closer to a restoration. Four sites: Spitalfields, Camden, Soho, and **152–154 Portobello Road** in Notting Hill, which is the one to know if you are doing Portobello Market and want lunch without leaving the street.
 
 Cod, haddock and rock in a light batter with hand-cut chips, plus the full traditional supporting cast: **jellied eels, cockles, whelks and pie and mash**, which most shops dropped decades ago and this one kept.
 

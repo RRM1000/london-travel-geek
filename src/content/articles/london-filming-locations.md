@@ -309,7 +309,7 @@ William Thacker's flat, and the most photographed doorway in west London. Screen
 
 **This is the shopfront in the film**, and it was an antiques arcade at the time it was shot — the interior was built elsewhere. It has been a shoe shop, a store called Notting Hill from 2006, and a gift shop since 2014, which now paints THE TRAVEL BOOK Co across the fascia and puts a board outside explaining the whole history.
 
-![The blue shopfront at 142 Portobello Road painted THE TRAVEL BOOK Co, hung with souvenir tote bags, beside a history board about the film](../../assets/articles/london-filming-locations/travel-bookshop-142-portobello-road.jpg)
+![The blue shopfront at 142 Portobello Road painted THE TRAVEL BOOK Co, hung with souvenir tote bags, beside a history board about the film](../../assets/articles/london-filming-locations/notting-hill-travel-bookshop.jpg)
 
 *The board on the left sets out the shop's claim: the only location where exterior scenes of the bookshop were filmed.*
 
@@ -319,7 +319,7 @@ William Thacker's flat, and the most photographed doorway in west London. Screen
 
 **Nothing was filmed here.** The Travel Bookshop that gave Curtis the idea traded on Blenheim Crescent for about thirty years and closed in 2011; it reopened as **The Notting Hill Bookshop** and sells books to this day.
 
-![The Notting Hill Bookshop on Blenheim Crescent, a navy and red shopfront with visitors gathered outside](../../assets/articles/london-filming-locations/notting-hill-bookshop-blenheim-crescent.jpg)
+![The Notting Hill Bookshop on Blenheim Crescent, a navy and red shopfront with visitors gathered outside](../../assets/articles/london-filming-locations/notting-hill-bookshop-blenheim.jpg)
 
 Most guides merge these two addresses into one shop. They are ten minutes apart and they are different things: **Portobello Road is where the camera was, Blenheim Crescent is where the idea came from.** Visit both — they are a short walk apart and the second one will actually sell you a book.
 
@@ -329,7 +329,7 @@ Most guides merge these two addresses into one shop. They are ten minutes apart 
 
 The private communal garden William and Anna climb into, in the scene with the bench. It is a keyholders' garden for the surrounding houses, permanently locked, marked only by a small oval plaque on the gate.
 
-![A locked black iron gate to Rosmead Garden with a small oval name plaque, seen from the pavement](../../assets/articles/london-filming-locations/rosmead-garden-gate.jpg)
+![A locked black iron gate to Rosmead Garden with a small oval name plaque, seen from the pavement](../../assets/articles/london-filming-locations/rosmead-garden.jpg)
 
 > ⚠️ **There is no public access, and there never has been.** You look through the railings. Rosmead Road itself is a good-looking street, which softens the blow.
 

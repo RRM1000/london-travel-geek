@@ -10,10 +10,14 @@
 // and the numbering is the same in the map, the list below it and the headings
 // in the article body.
 //
-// Coordinates are where the photographs in this guide were actually taken,
-// read from their EXIF - not looked-up street centroids. For a "stand here"
-// map that is the more useful number, and it is the one thing a phone gets
-// right even when it cannot name the road.
+// Coordinates for the photographed streets are where the photograph was
+// actually taken, read from its EXIF rather than a looked-up street centroid.
+// For a "stand here" map that is the more useful number, and it is the one
+// thing a phone gets right even when it cannot name the road. The four streets
+// with no photograph of our own (Portland Road, Stanley Crescent, Denbigh
+// Terrace, St Luke's Mews) are geocoded instead - St Luke's from the coordinate
+// the Hidden London sheet already holds for the Love Actually doorstep, since
+// searching its name returns a different St Luke's Mews in Millwall.
 const STOPS = [
   { n: 1, name: "Hillgate Place", lat: 51.5081, lng: -0.1963,
     note: "The best of the four, and the one to see first" },
@@ -23,12 +27,20 @@ const STOPS = [
     note: "Long view down the pastels" },
   { n: 4, name: "Jameson Street", lat: 51.5078, lng: -0.1960,
     note: "Pink corner house" },
-  { n: 5, name: "Lansdowne Road", lat: 51.5130, lng: -0.2077,
+  { n: 5, name: "Portland Road", lat: 51.5085, lng: -0.2094,
+    note: "Painted shops and houses around Clarendon Cross" },
+  { n: 6, name: "Lansdowne Road", lat: 51.5130, lng: -0.2077,
     note: "Bigger, grander, softer colours" },
-  { n: 6, name: "Elgin Crescent", lat: 51.5132, lng: -0.2095,
+  { n: 7, name: "Elgin Crescent", lat: 51.5132, lng: -0.2095,
     note: "Butter yellow and powder blue stucco" },
-  { n: 7, name: "Lancaster Road", lat: 51.5177, lng: -0.2054,
+  { n: 8, name: "Stanley Crescent", lat: 51.5123, lng: -0.2044,
+    note: "The cherry blossom street - spring only, and busy" },
+  { n: 9, name: "Denbigh Terrace", lat: 51.5132, lng: -0.2016,
+    note: "Pink, blue and cream in a tight row" },
+  { n: 10, name: "Lancaster Road", lat: 51.5177, lng: -0.2054,
     note: "The postcard row - strongest colours of the lot" },
+  { n: 11, name: "St Luke's Mews", lat: 51.5178, lng: -0.2028,
+    note: "Cobbled mews, and the Love Actually pink house" },
 ];
 // PAINTED HOUSES ONLY. Portobello Road and Rosmead Road were both on this list
 // and are both off it: Portobello's colour is shopfronts, and Rosmead earns its
@@ -41,8 +53,8 @@ const STOPS = [
 <section class="streets-map" aria-labelledby="streets-map-title">
   <h2 id="streets-map-title">Map of the route</h2>
   <p class="streets-map-intro">
-    Seven streets in walking order, from Notting Hill Gate to Ladbroke Grove.
-    About 2km end to end, or an hour with stopping.
+    Eleven streets in walking order, from Notting Hill Gate to Ladbroke
+    Grove. About 3.5km end to end, or two hours at a photographing pace.
   </p>
 
   <details class="restaurant-map-shell">

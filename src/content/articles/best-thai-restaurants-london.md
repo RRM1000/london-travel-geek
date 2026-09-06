@@ -61,6 +61,7 @@ So this guide is arranged by **what each kitchen actually cooks**. The best of i
 | If you are near… | Where to eat |
 | --- | --- |
 | **Soho & Chinatown** | Kiln, Speedboat Bar |
+| **Notting Hill** | Speedboat Bar at The Electric |
 | **Fitzrovia & Bloomsbury** | Khao So-i, Plaza Khao Gaeng (Centre Point) |
 | **Marylebone** | AngloThai, Nipa Thai (Bayswater) |
 | **Shoreditch & Spitalfields** | Singburi, Som Saa, Smoking Goat |
@@ -209,7 +210,7 @@ The signature is **kolae chicken**, the dish the restaurant is named after: butt
 
 **£££, books weeks ahead**, three minutes from London Bridge. Sit at the counter if you can — the grill is the show.
 
-### Speedboat Bar, Chinatown
+### Speedboat Bar, Chinatown and Notting Hill
 
 *££ · pool tables* · Cited by 4 sources
 
@@ -220,7 +221,9 @@ Built to feel like a **late-night Bangkok Chinatown canteen** — strip lights, 
 
 The cooking is Thai-Chinese from Bangkok's Yaowarat district: **dry-aged noodle dishes**, wok-charred seafood and curries with real heat, built to be eaten with beer rather than wine. The pool tables are used, which tells you what kind of evening it is.
 
-**£££ and it books weeks ahead.** Three minutes from Piccadilly Circus. Go as a group and order across the whole menu.
+**££ and it books weeks ahead.** Three minutes from Piccadilly Circus. Go as a group and order across the whole menu.
+
+**There are now two.** A second Speedboat Bar opened in July 2025 at **191 Portobello Road** in Notting Hill, inside Soho House's Electric House, with the same Luke Farrell menu. It runs Sunday to Thursday noon to 11pm (last food 9.45pm) and Friday and Saturday noon to 1am (last food 12.15am) — later than almost anything else in Notting Hill, and the reason to keep it in mind after Portobello Road shuts. Bookings for that site go through Soho House rather than the Rupert Street restaurant.
 
 ---
 

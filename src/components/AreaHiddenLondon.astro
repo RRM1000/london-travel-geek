@@ -8,6 +8,7 @@
 //
 // A guide with no spots renders nothing at all.
 import data from "../data/hiddenLondon.json";
+import { sheetPhotos } from "../lib/sheetPhotos";
 
 interface Props {
   articleId: string;
@@ -30,6 +31,10 @@ const TYPE_LABEL: Record<string, string> = {
 };
 
 const list = (data.spots as Spot[]).filter((s: any) => s.guide === articleId);
+// Photos are matched by SLUG from the assets tree, never by a sheet column -
+// see lib/sheetPhotos for why. Name a file after the row and it appears here;
+// most rows have none, and rows without one keep their existing layout exactly.
+const photos = await sheetPhotos(list.map((s) => s.slug));
 ---
 
 {list.length > 0 && (
@@ -41,21 +46,36 @@ const list = (data.spots as Spot[]).filter((s: any) => s.guide === articleId);
 
     <ul class="ahl-list">
       {list.map((s) => (
-        <li class="ahl-item">
-          <div class="ahl-head">
-            <h3>{s.name}</h3>
-            {s.type && <span class="ahl-tag">{TYPE_LABEL[s.type] ?? s.type}</span>}
+        <li class:list={["ahl-item", photos.has(s.slug) && "ahl-item--photo"]}>
+          {photos.has(s.slug) && (
+            <img
+              class="ahl-photo"
+              src={photos.get(s.slug)!.src}
+              srcset={photos.get(s.slug)!.srcset}
+              sizes={photos.get(s.slug)!.sizes}
+              width={photos.get(s.slug)!.width}
+              height={photos.get(s.slug)!.height}
+              alt=""
+              loading="lazy"
+              decoding="async"
+            />
+          )}
+          <div class="ahl-body">
+            <div class="ahl-head">
+              <h3>{s.name}</h3>
+              {s.type && <span class="ahl-tag">{TYPE_LABEL[s.type] ?? s.type}</span>}
+            </div>
+
+            {s.subject && <p class="ahl-subject">{s.subject}</p>}
+
+            <p class="ahl-meta">
+              {s.address && <span>{s.address}</span>}
+              {s.station && <span>{s.walkMin ? `${s.walkMin} min from ${s.station}` : s.station}</span>}
+            </p>
+
+            {s.whyGo && <p class="ahl-why">{s.whyGo}</p>}
+            {s.opNote && <p class="ahl-note">{s.opNote}</p>}
           </div>
-
-          {s.subject && <p class="ahl-subject">{s.subject}</p>}
-
-          <p class="ahl-meta">
-            {s.address && <span>{s.address}</span>}
-            {s.station && <span>{s.walkMin ? `${s.walkMin} min from ${s.station}` : s.station}</span>}
-          </p>
-
-          {s.whyGo && <p class="ahl-why">{s.whyGo}</p>}
-          {s.opNote && <p class="ahl-note">{s.opNote}</p>}
         </li>
       ))}
     </ul>
@@ -88,4 +108,21 @@ const list = (data.spots as Spot[]).filter((s: any) => s.guide === articleId);
   .ahl-meta { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; margin: 0.35rem 0 0; font-size: 0.85rem; opacity: 0.75; }
   .ahl-why { margin: 0.5rem 0 0; }
   .ahl-note { margin: 0.4rem 0 0; font-size: 0.9rem; opacity: 0.85; }
+  /* Two columns only when there IS a photo, so the rows without one render
+     exactly as they did before. Scoped through .area-hidden-london .ahl-list
+     for the same reason AreaActivities does it: ArticleLayout's global list
+     styling in .article__body otherwise holds these at display:list-item and
+     silently kills the grid. */
+  .area-hidden-london .ahl-list > .ahl-item--photo {
+    display: grid; grid-template-columns: 14rem 1fr; gap: 1.25rem; align-items: start;
+  }
+  .ahl-photo {
+    width: 100%; height: 100%; max-height: 11rem;
+    object-fit: cover; border-radius: var(--card-radius, 0.5rem);
+    background: var(--surface, #f2f2f2);
+  }
+  @media (max-width: 40rem) {
+    .area-hidden-london .ahl-list > .ahl-item--photo { grid-template-columns: 1fr; }
+    .ahl-photo { max-height: 13rem; }
+  }
 </style>

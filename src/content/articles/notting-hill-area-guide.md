@@ -64,11 +64,7 @@ faq:
   - q: "Can you walk from Notting Hill to Little Venice?"
     a: "Yes. It is about 25 minutes. Walk north to Westbourne Park, join the Grand Union Canal towpath and follow it east to the Little Venice basin. From there you can pick up a narrowboat waterbus to Camden."
 heroImage: "../../assets/articles/notting-hill-area-guide/notting-hill-lancaster-road.jpg"
-heroImageAlt: "A row of colourful houses on Lancaster Road in Notting Hill"
-heroImageCredit: "Bex Walton"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:Colourful_houses_in_Lancaster_Road,_Notting_Hill_2020-07-05.jpg"
-heroImageLicense: "CC BY 2.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+heroImageAlt: "A terrace on Lancaster Road painted deep pink, white, blue and green, with cars parked along the kerb"
 ---
 
 Notting Hill is a west London village of pastel terraces, antique arcades and a market that stretches for over a mile. It is also one of the most misunderstood areas in the city: most visitors turn up on the wrong day, photograph the wrong streets, and leave wondering what the fuss was about.
@@ -104,15 +100,15 @@ Notting Hill has its own share of the commemorative plaques marking where notabl
 
 *One of the sound systems that line the route - this is the scale of it away from the main procession.*
 
-![The Churchill Arms in Notting Hill, its frontage covered in flowers, plants and flags](../../assets/articles/notting-hill-area-guide/churchill-arms.jpg)
+![The Churchill Arms on Kensington Church Street, its whole frontage covered in hanging flower baskets and Union flags, with a crowd drinking outside](../../assets/articles/notting-hill-area-guide/churchill-arms.jpg)
 
-*The Churchill Arms. The landlord spends a five-figure sum a year on the flowers, and there is a Thai kitchen in the back. Photo: [itwasalladream](https://www.flickr.com/photos/35635854@N08/24487430799), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+*The Churchill Arms. The landlord spends a five-figure sum a year on the flowers, and there is a Thai kitchen in the back.*
 
 ## Key streets and micro-districts
 
-![Colourful houses on Lancaster Road, Notting Hill](../../assets/articles/notting-hill-area-guide/notting-hill-lancaster-road.jpg)
+![A terrace on Lancaster Road painted deep pink, white, blue and green, with cars parked along the kerb](../../assets/articles/notting-hill-area-guide/notting-hill-lancaster-road.jpg)
 
-*Lancaster Road pastel houses. Photo: [Bex Walton](https://commons.wikimedia.org/wiki/File:Colourful_houses_in_Lancaster_Road,_Notting_Hill_2020-07-05.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Lancaster Road pastel houses — the postcard row, and the busiest spot in Notting Hill for photographers.*
 
 ### Portobello Road (south) — antiques
 From Chepstow Villas down to Elgin Crescent, and **the antiques end that made Portobello famous** — permanent shops plus a series of indoor arcades holding dozens of small dealers each, in silver, jewellery, prints and militaria.
@@ -154,7 +150,7 @@ The market here runs Friday and Saturday and is a genuine second-hand market rat
 ### St Luke's Mews and Lancaster Road — the photogenic streets
 Two short residential streets that appear constantly on social media — **St Luke's Mews** for its pastel-painted cottages, one of which was the cue-card doorstep in *Love Actually*, and **Lancaster Road** for its run of brightly coloured terraces.
 
-![Two small houses in Hillgate Village, one painted powder blue and one pale green, with white sash windows](../../assets/articles/notting-hill-area-guide/hillgate-village-blue-and-green.jpg)
+![Two small houses in Hillgate Village, one painted powder blue and one pale green, with white sash windows](../../assets/articles/notting-hill-area-guide/hillgate-village-pastel-streets.jpg)
 
 But the best pastel streets in Notting Hill are neither of these. **Hillgate Village** — four short streets four minutes from Notting Hill Gate station — has the strongest run of colour in the area and a fraction of the visitors, because almost everyone walks north to Portobello instead. We have mapped all seven streets that actually have the colour, in walking order, in the [Notting Hill colourful houses route](/articles/notting-hill-colourful-houses/).
 
