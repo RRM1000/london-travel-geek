@@ -1,0 +1,77 @@
+{
+  "cuisine": "stay-outer",
+  "note": "Created by record-source.mjs on 2026-09-06.",
+  "recorded": "2026-09-06",
+  "sources": [
+    {
+      "name": "RoomHawk (Budget Hotels in London Outskirts)",
+      "url": "https://roomhawk.app/the-hawk/budget-hotels-in-london-outskirts",
+      "scope": "stay-outer",
+      "names": [
+        "Richmond",
+        "Croydon",
+        "Watford",
+        "Kingston",
+        "Wembley"
+      ]
+    },
+    {
+      "name": "Go Explore London (Cheap Hotels Near Tube Stations)",
+      "url": "https://goexplorelondon.com/cheap-hotels-in-london-near-tube-stations/",
+      "scope": "stay-outer",
+      "names": [
+        "Acton",
+        "Bayswater",
+        "Shoreditch",
+        "Hammersmith",
+        "Whitechapel"
+      ]
+    },
+    {
+      "name": "Santorini Dave (Best Hotels on the Elizabeth Line)",
+      "url": "https://santorinidave.com/elizabeth-line-hotels",
+      "scope": "stay-outer",
+      "names": [
+        "Paddington",
+        "Tottenham",
+        "Canary Wharf",
+        "Stratford",
+        "Shoreditch",
+        "Whitechapel"
+      ]
+    },
+    {
+      "name": "Tour by Transit (London Hotels near the Tube)",
+      "url": "https://www.tourbytransit.com/london/accommodations",
+      "scope": "stay-outer",
+      "names": [
+        "Chiswick",
+        "Bloomsbury"
+      ]
+    },
+    {
+      "name": "Mandy's Adventure World (Cheap Places in London)",
+      "url": "https://mandysadventureworld.com/cheap-places-in-london/",
+      "scope": "stay-outer",
+      "names": [
+        "Stratford",
+        "Shoreditch",
+        "Greenwich",
+        "Paddington",
+        "Hammersmith",
+        "Bloomsbury",
+        "Shepherd's Bush"
+      ]
+    },
+    {
+      "name": "Dyme (Hotels near Elizabeth line stations)",
+      "url": "https://dyme.earth/blog/destinations/hotels-near-elizabeth-line-stations",
+      "scope": "stay-outer",
+      "names": [
+        "Canary Wharf",
+        "Stratford",
+        "Paddington"
+      ]
+    }
+  ]
+}
