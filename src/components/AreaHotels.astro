@@ -117,7 +117,7 @@ const areaSearchUrl = areaSearch
         <a href={areaSearchUrl} rel="sponsored nofollow noopener" target="_blank" data-affiliate="cj">
           Compare every {areaSearch!.label} hotel on Hotels.com<span class="ah-ad">ad</span>
         </a>
-        <span>Dates, prices and availability across the whole area — useful when nothing on this list fits.</span>
+        <span class="ah-search-note">Dates, prices and availability across the whole area — useful when nothing on this list fits.</span>
       </p>
     )}
 
@@ -190,9 +190,13 @@ const areaSearchUrl = areaSearch
     border-block-start: 1px solid var(--color-border, #e2e2e2);
   }
   .ah-search a { font-weight: 650; }
-  .ah-search > span {
+  /* A CLASS, not `.ah-search > span`. The layout injects an external-link marker
+     into the anchor and the bare child selector lost to a global rule, leaving
+     the note running on inline straight off the "ad" label. .ah-disclosure above
+     already solved this the same way - follow it rather than rediscover it. */
+  .ah-search-note {
     display: block;
-    margin-block-start: 0.25rem;
+    margin-block-start: 0.35rem;
     font-size: 0.85rem;
     opacity: 0.75;
   }
