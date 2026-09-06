@@ -29,6 +29,7 @@ const PUBLIC = {
   "Luggage Storage": "luggageStorage", Cancellation: "cancellation",
   "Why Go": "whyGo", "Operational Summary": "opNote", "Good For": "goodFor",
   Lists: "lists", Website: "website", "Booking URL": "bookingUrl",
+  "Hotels.com URL": "hotelsUrl",
 };
 
 const rows = await readTab("Hotels");

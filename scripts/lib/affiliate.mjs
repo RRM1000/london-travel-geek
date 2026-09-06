@@ -315,21 +315,12 @@ export const HOTEL_PROGRAMMES = {
   // go live, and it is the aggregator rather than a brand because that is what
   // it is: it will sell a room in almost any hotel on the Hotels sheet, which
   // is the whole reason a catch-all exists.
-  // ACCEPTED, WIRED, AND DELIBERATELY OFF. The CJ plumbing below is finished and
-  // tested; what is missing is a destination worth sending anyone to.
-  //
-  // These links render PER HOTEL, under a named row. The only destination this
-  // programme can legally be paid for is a Hotels.com url, and the only one we
-  // can generate without knowing the property is their home page - so clicking
-  // "Book" under The Hoxton would land the reader on the Hotels.com front door
-  // to start their search again. This file already refuses that trade in its
-  // opening lines: the commission is not worth the worse experience.
-  //
-  // To switch on: add a Hotels.com property url per row - a sheet column, or a
-  // map like data/gyg-tours.json - and pass it as the destination. Then the link
-  // lands on the hotel, and the commission is earned rather than hoped for.
+  // Hotels.com, via CJ. Live, but it only fires for a row whose Hotels.com URL
+  // column is filled: a link generated from a hotel name alone can only reach
+  // their home page, and "Book" under The Hoxton landing on a search box is the
+  // trade this file refuses in its opening lines. Fill the column, get a link.
   aggregator: [
-    { network: "cj", enabled: false, home: "https://uk.hotels.com/", ownDomainOnly: true },
+    { network: "cj", enabled: true, requiresHotelsUrl: true, home: "https://uk.hotels.com/" },
   ],
 };
 
@@ -352,11 +343,13 @@ export function hotelAffiliate(row) {
     if (!p.enabled) continue;
     // A programme can only be paid for traffic to ITS OWN advertiser. For a brand
     // programme the advertiser is the brand, so the hotel's own website is the
-    // right destination. For the aggregator it is not: wrapping premierinn.com
-    // in a Hotels.com link sends the reader to Premier Inn through a redirect
-    // that earns nothing, and looks completely normal while doing it - the same
-    // failure the GetYourGuide search links were switched off for.
-    const destination = p.ownDomainOnly ? p.home : (row.website || p.home);
+    // right destination. For Hotels.com it is not: wrapping premierinn.com in a
+    // Hotels.com link sends the reader to Premier Inn through a redirect that
+    // earns nothing, and looks completely normal while doing it - the same
+    // failure the GetYourGuide search links were switched off for. So that
+    // programme takes the hand-checked Hotels.com url from the sheet or nothing.
+    if (p.requiresHotelsUrl && !row.hotelsUrl) continue;
+    const destination = p.requiresHotelsUrl ? row.hotelsUrl : (row.website || p.home);
     if (p.network === "awin") {
       if (!p.advertiser || !AWIN_PUBLISHER_ID) continue;
       return { url: awin(p.advertiser, destination), network: "awin" };

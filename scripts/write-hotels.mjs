@@ -99,6 +99,14 @@ const COLUMNS = [
   // --- provenance ---
   { key: "website", head: "Website" },
   { key: "bookingUrl", head: "Booking URL" },
+  // The hotel's own page ON HOTELS.COM, pasted from their site rather than
+  // guessed. Nothing generates a Hotels.com link without one, on purpose: the
+  // only url derivable from a hotel name is their home page, and a "Book" link
+  // that lands on a search box is worse than no link. Paste the property url and
+  // lib/affiliate.mjs wraps it in the CJ tracking redirect at export time - so
+  // the sheet holds the destination and never a tracking id, which is what keeps
+  // a network change to one edit instead of ninety-one.
+  { key: "hotelsUrl", head: "Hotels.com URL" },
   { key: "signals", head: "Signals" },
   { key: "source", head: "Source" },
   { key: "firstSeen", head: "First Seen" },
