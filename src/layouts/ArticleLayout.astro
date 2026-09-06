@@ -301,8 +301,14 @@ const breadcrumbs = [
             nearestStations={area.nearestStations}
           />
         )}
-        <slot />
+        {/* BEFORE the body, not after it, and this is the only component that
+            gets that treatment. Everything else here is a section of a guide
+            someone is reading; this one is the answer to "public toilets near
+            me", typed by someone who is not reading anything. Making them
+            scroll past 2,000 words of pricing policy first was the wrong shape,
+            and the anchor link at the top of the markdown was a patch over it. */}
         {articleId === "public-toilets-london" && <PublicToiletsMap />}
+        <slot />
         {articleId === "notting-hill-colourful-houses" && <ColourfulStreetsMap />}
         {area && <AreaMap articleId={articleId} areaName={area.name} />}
         {area && <AreaEvents articleId={articleId} areaName={area.name} />}

@@ -301,6 +301,14 @@ Five bakeries carried by three or more independent sources that this guide had n
 
 ## The one that is everywhere
 
+### Peggy Porschen, Belgravia and Chelsea
+
+![The pink Peggy Porschen shopfront on a corner, its windows and doorway framed by dense floral displays](../../assets/articles/best-bakeries-london/peggy-porschen.jpg)
+
+**The most photographed shopfront in London**, and worth being honest about why: the flowers are the product as much as the cakes are. The corner on Ebury Street is redressed seasonally and there is usually a queue of people photographing it who do not go in.
+
+The cakes are good — proper Victoria sponge, layer cakes by the slice — and priced for the postcode. **Go on a weekday morning** if you want to sit down, and expect to wait for the outside tables at any time the sun is out.
+
 ### Buns from Home, twelve branches
 
 ![The Buns from Home shopfront, cream painted with the name in yellow lowercase lettering above a window counter](../../assets/articles/best-bakeries-london/buns-from-home.jpg)

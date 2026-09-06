@@ -109,6 +109,12 @@ The main road, and a high street that was once a genuine rival to Oxford Street 
 ![The Sunken Garden at Kensington Palace, a long formal pond edged with clipped hedges and dense flower borders](../../assets/articles/kensington-area-guide/sunken-garden-kensington-palace.jpg)
 
 *The Sunken Garden, laid out in 1908 and best in high summer. It is a few steps off the main path and most people walk past the entrance.*
+
+![Kensington Palace seen across clipped hedges, with visitors at tables on the lawn beyond](../../assets/articles/kensington-area-guide/kensington-palace-gardens.jpg)
+
+![The Pavilion cafe at Kensington Palace, a long red brick building with outdoor tables under white umbrellas](../../assets/articles/kensington-area-guide/kensington-palace-pavilion.jpg)
+
+*The Pavilion, in the old barracks building by the palace. Outdoor tables, and considerably easier to get into than the Orangery.*
 North-east, and the reason most people come. **Kensington Palace is ticketed**; the gardens around it are free, which is the distinction that catches people out.
 
 Free and worth the walk: the **Sunken Garden**, the **Albert Memorial**, the two **Serpentine galleries** — which run free contemporary art shows and a new architectural pavilion each summer — the **Italian Gardens** at the Lancaster Gate end, and the **Diana Memorial Playground**.

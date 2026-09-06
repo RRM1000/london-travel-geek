@@ -349,6 +349,10 @@ Twenty-inch pizzas sold whole or by the slice, with toppings split across halves
 
 #### Pizza Pilgrims, Soho
 
+![The Pizza Pilgrims shopfront on the King's Road, turquoise tiled frontage with an open window counter](../../assets/articles/best-pizza-london/pizza-pilgrims-kings-road.jpg)
+
+*The King's Road branch. There are a dozen of them now and the shopfront is the same at each.*
+
 *££ · Soho · 5 min from Tottenham Court Road · walk-in · Cited by 7 sources · [website](https://www.pizzapilgrims.co.uk/)*
 
 Started as a Soho market cart in 2012 and now runs across London, and reached the 2025 National Pizza Awards final. Reliable rather than remarkable, but consistent, and you can walk into any of them.

@@ -39,9 +39,14 @@
   </div>
 
   <h3 id="toilets-map-title">Map: Zone 1 public toilets</h3>
-  <details class="toilets-map-shell">
+  {/* OPEN BY DEFAULT. This costs every visitor the Leaflet download and the
+      93KB of toilet data, which the lazy-load below was written to avoid - but
+      that calculation was made when this sat at the bottom of the page and most
+      readers never reached it. At the top of a page people arrive at needing a
+      toilet, a map behind a click is a map most of them do not get. */}
+  <details class="toilets-map-shell" open>
     <summary>
-      Open the map
+      Show on a map
       <small>400 Zone 1 facilities · free, paid and unclear</small>
     </summary>
     <div class="toilets-map-canvas" data-toilets-map>

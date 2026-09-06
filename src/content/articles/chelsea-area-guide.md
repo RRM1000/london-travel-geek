@@ -108,6 +108,10 @@ Chelsea has its own share of the commemorative plaques marking where notable peo
 
 ![Pastel terraced houses along Smith Terrace in Chelsea](../../assets/articles/chelsea-area-guide/smith-terrace.jpg)
 
+![A bright yellow house with a red door on Bywater Street, between white and brown neighbours](../../assets/articles/chelsea-area-guide/bywater-street-yellow-house.jpg)
+
+![Pink and cream houses on Markham Square, Chelsea](../../assets/articles/chelsea-area-guide/markham-square.jpg)
+
 **These are people's homes**, and Bywater Street being a cul-de-sac means anyone photographing is visible from every window on it. Shoot from the pavement and keep off the steps.
 
 ### Duke of York Square and Pavilion Road
@@ -117,6 +121,8 @@ Chelsea has its own share of the commemorative plaques marking where notable peo
 The pedestrianised square behind the Saatchi Gallery, with a Saturday food market and enough outdoor seating to make it the obvious lunch stop on a King's Road walk.
 
 **Pavilion Road**, a few minutes north, is the better one: a single narrow street of independent food shops — butcher, baker, cheesemonger, fishmonger — closed to through traffic and almost entirely free of chains.
+
+![Shops and outdoor dining along Duke of York Square, with bunting overhead](../../assets/articles/chelsea-area-guide/duke-of-york-square-shops.jpg)
 
 ![Pavilion Road in Chelsea, a narrow pedestrianised street lined with awnings and outdoor tables](../../assets/articles/chelsea-area-guide/pavilion-road.jpg)
 
@@ -180,6 +186,10 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 
 ## Where to eat and drink
 
+![The My Old Dutch pancake house on the King's Road, a red and white striped awning over a green shopfront](../../assets/articles/chelsea-area-guide/my-old-dutch-kings-road.jpg)
+
+*My Old Dutch on the King's Road, doing enormous Dutch pancakes since 1958 — the one place on this street that has not been through three concepts in a decade.*
+
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
 | **Duke of York Square Market** | Fine food market | ££ | Saturdays only; the best value eating in Chelsea |
@@ -191,7 +201,7 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 
 ![Albert Bridge over the Thames, its cast-iron towers and cables painted in pale pink, green and blue](../../assets/articles/chelsea-area-guide/albert-bridge.jpg)
 
-*Albert Bridge, repainted in 1992 in the pink, green and blue it wears now. Troops crossing it are still told to break step. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/6769918981), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Albert Bridge, repainted in 1992 in the pink, green and blue it wears now. Troops crossing it are still told to break step.*
 
 ## Getting there
 
