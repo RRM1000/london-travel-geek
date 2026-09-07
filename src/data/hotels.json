@@ -1,6 +1,6 @@
 {
  "generated": "2026-09-07",
- "count": 111,
+ "count": 126,
  "hotels": [
   {
    "slug": "astor-hyde-park",
@@ -934,6 +934,77 @@
    "website": "https://www.lockeliving.com/en/london"
   },
   {
+   "slug": "native-fulham-broadway",
+   "name": "Native Fulham Broadway",
+   "propertyType": "aparthotel",
+   "style": "Apartments by Fulham Broadway",
+   "brand": "native",
+   "chainType": "mini-chain",
+   "area": "Fulham",
+   "borough": "Hammersmith and Fulham",
+   "zone": "2",
+   "district": "West",
+   "address": "288 North End Road",
+   "postcode": "SW6 1NN",
+   "lat": 51.48341,
+   "lng": -0.20119,
+   "priceBand": "££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "Zone 2 on the District line, five minutes from Fulham Broadway station and ten from Stamford Bridge - the practical choice for a Chelsea home game or a longer stay at west London prices.",
+   "opNote": "The furthest out of the Native addresses and priced accordingly. North End Road has a proper street market on weekdays. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ]
+  },
+  {
+   "slug": "native-hyde-park",
+   "name": "Native Hyde Park",
+   "propertyType": "aparthotel",
+   "style": "Apartments in a Sussex Gardens terrace",
+   "brand": "native",
+   "chainType": "mini-chain",
+   "area": "Paddington",
+   "borough": "Westminster",
+   "guide": "paddington-area-guide",
+   "zone": "1",
+   "district": "West",
+   "address": "206-214 Sussex Gardens",
+   "postcode": "W2 1TU",
+   "lat": 51.513831,
+   "lng": -0.175817,
+   "priceBand": "££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "A converted terrace between Paddington and Hyde Park, which puts the Elizabeth line and the Heathrow Express about six minutes away on foot.",
+   "opNote": "Sussex Gardens is a long hotel street and the quality varies wildly along it; this is at the better end. The park is a five-minute walk south. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ]
+  },
+  {
    "slug": "nell-gwynn-house-pods",
    "name": "Nell Gwynn House Apartments & Rooms",
    "propertyType": "serviced-apartment",
@@ -1314,6 +1385,77 @@
    "website": "https://www.staycity.com/"
   },
   {
+   "slug": "staycity-deptford-bridge",
+   "name": "Staycity Aparthotels London Deptford Bridge",
+   "propertyType": "aparthotel",
+   "style": "Apartments at Deptford Bridge DLR",
+   "brand": "staycity",
+   "chainType": "mini-chain",
+   "area": "Deptford",
+   "borough": "Lewisham",
+   "zone": "2",
+   "district": "South",
+   "address": "18-20 Deptford Bridge",
+   "postcode": "SE10 8FH",
+   "lat": 51.474434,
+   "lng": -0.023388,
+   "priceBand": "££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "On the DLR at Deptford Bridge, one stop from Greenwich and about twenty minutes to Bank - the cheapest apartment stay in this part of south-east London.",
+   "opNote": "Deptford is a working high street rather than a visitor one, which is the point for the price. Greenwich is a fifteen-minute walk. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ]
+  },
+  {
+   "slug": "staycity-greenwich-high-road",
+   "name": "Staycity Aparthotels London Greenwich High Road",
+   "propertyType": "aparthotel",
+   "style": "Apartments by Greenwich station",
+   "brand": "staycity",
+   "chainType": "mini-chain",
+   "area": "Greenwich",
+   "borough": "Greenwich",
+   "guide": "greenwich-area-guide",
+   "zone": "2–3",
+   "district": "South",
+   "address": "65 Greenwich High Road",
+   "postcode": "SE10 8JL",
+   "lat": 51.475953,
+   "lng": -0.018745,
+   "priceBand": "££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "A minute from Greenwich rail and DLR, and about eight from the Cutty Sark, the market and the park gates - a kitchen within walking distance of the Observatory.",
+   "opNote": "Greenwich prices rather than Zone 1 ones, and the trains reach London Bridge in eight minutes. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ]
+  },
+  {
    "slug": "strand-palace",
    "name": "Strand Palace",
    "propertyType": "hotel",
@@ -1355,6 +1497,41 @@
    "hotelsUrl": "https://uk.hotels.com/ho114409/the-strand-palace-hotel-london-united-kingdom/",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho114409/the-strand-palace-hotel-london-united-kingdom/",
    "affiliateNetwork": "cj"
+  },
+  {
+   "slug": "supercity-templeton-place",
+   "name": "Templeton Place by Supercity Aparthotels",
+   "propertyType": "aparthotel",
+   "style": "Apartments on an Earl's Court garden square",
+   "brand": "supercity",
+   "chainType": "mini-chain",
+   "area": "Earl's Court",
+   "borough": "Kensington and Chelsea",
+   "zone": "1–2",
+   "district": "West",
+   "address": "17 Templeton Place",
+   "postcode": "SW5 9NB",
+   "lat": 51.49253,
+   "lng": -0.19566,
+   "priceBand": "££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "A garden-square address two minutes from Earl's Court station, where the District and Piccadilly lines both stop - Heathrow without a change, and South Kensington in four minutes.",
+   "opNote": "The cheapest Supercity address in London and the one that makes the format worth it: a kitchen at close to budget-hotel money. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ]
   },
   {
    "slug": "georgian-house-wizard-chambers",
@@ -1557,6 +1734,42 @@
    "hotelsUrl": "https://uk.hotels.com/ho1140510304/",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho1140510304/",
    "affiliateNetwork": "cj"
+  },
+  {
+   "slug": "wilde-paddington",
+   "name": "Wilde Aparthotels London Paddington",
+   "propertyType": "aparthotel",
+   "style": "Studios beside Paddington Basin",
+   "brand": "wilde",
+   "chainType": "mini-chain",
+   "area": "Paddington",
+   "borough": "Westminster",
+   "guide": "paddington-area-guide",
+   "zone": "1",
+   "district": "West",
+   "address": "4 North Wharf Road",
+   "postcode": "W2 1LF",
+   "lat": 51.519584,
+   "lng": -0.173333,
+   "priceBand": "££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "On the canal basin behind the station, two minutes from the Elizabeth line and the Heathrow Express - the shortest walk to a train of any aparthotel here.",
+   "opNote": "The basin side is quiet and the water makes it feel further from the station than it is. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ]
   },
   {
    "slug": "zedwell-greenwich",
@@ -1924,6 +2137,42 @@
    "affiliateNetwork": "cj"
   },
   {
+   "slug": "cheval-gloucester-park",
+   "name": "Cheval Gloucester Park",
+   "propertyType": "aparthotel",
+   "style": "Apartments off Cromwell Road",
+   "brand": "cheval",
+   "chainType": "mini-chain",
+   "area": "South Kensington",
+   "borough": "Kensington and Chelsea",
+   "guide": "south-kensington-area-guide",
+   "zone": "1",
+   "district": "West",
+   "address": "Ashburn Place",
+   "postcode": "SW7 4LL",
+   "lat": 51.493809,
+   "lng": -0.184338,
+   "priceBand": "£££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "Two minutes from Gloucester Road station and about eight from the three free South Kensington museums, which makes it the obvious base for a family doing them properly over several days.",
+   "opNote": "Quieter than the Cromwell Road addresses nearby because it sits back off it. Full kitchens. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ]
+  },
+  {
    "slug": "doubletree-greenwich",
    "name": "DoubleTree by Hilton London Greenwich",
    "propertyType": "hotel",
@@ -2190,6 +2439,78 @@
    "hotelsUrl": "https://uk.hotels.com/ho219357/london-marriott-hotel-canary-wharf-london-united-kingdom/",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho219357/london-marriott-hotel-canary-wharf-london-united-kingdom/",
    "affiliateNetwork": "cj"
+  },
+  {
+   "slug": "native-bankside",
+   "name": "Native Bankside",
+   "propertyType": "aparthotel",
+   "style": "Studios and one-beds behind the Globe",
+   "brand": "native",
+   "chainType": "mini-chain",
+   "area": "South Bank",
+   "borough": "Southwark",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "1 and 2 Bear Gardens",
+   "postcode": "SE1 9ED",
+   "lat": 51.507519,
+   "lng": -0.095847,
+   "priceBand": "£££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "On a lane behind Shakespeare's Globe, five minutes from Tate Modern and the Millennium Bridge, with Borough Market a ten-minute walk east - the best-placed aparthotel on the South Bank.",
+   "opNote": "Bear Gardens is a quiet cut-through rather than a road, so it is calmer than the Bankside address suggests. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ]
+  },
+  {
+   "slug": "native-kings-wardrobe",
+   "name": "Native King's Wardrobe",
+   "propertyType": "aparthotel",
+   "style": "Apartments in a converted courtyard by St Paul's",
+   "brand": "native",
+   "chainType": "mini-chain",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "53-55 Carter Lane",
+   "postcode": "EC4V 5AE",
+   "lat": 51.513041,
+   "lng": -0.100865,
+   "priceBand": "£££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "A courtyard building on Carter Lane, about ninety seconds from St Paul's, on the site of the medieval wardrobe that stored the king's robes until the Great Fire took it.",
+   "opNote": "Square Mile rhythm: quiet at weekends, short of everyday shops, and often cheapest on a Saturday. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ]
   },
   {
    "slug": "novotel-canary-wharf",
@@ -2532,6 +2853,42 @@
    "affiliateNetwork": "cj"
   },
   {
+   "slug": "supercity-chronicle",
+   "name": "The Chronicle by Supercity Aparthotels",
+   "propertyType": "aparthotel",
+   "style": "Apartments off Fetter Lane",
+   "brand": "supercity",
+   "chainType": "mini-chain",
+   "area": "Holborn",
+   "borough": "Camden",
+   "guide": "covent-garden-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "4 Norwich Street",
+   "postcode": "EC4A 1EJ",
+   "lat": 51.51682,
+   "lng": -0.10969,
+   "priceBand": "£££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "On a side street between Chancery Lane and Fleet Street, five minutes from Farringdon for the Elizabeth line and ten from Covent Garden on foot.",
+   "opNote": "Legal-London quiet in the evenings, which suits a working stay and disappoints anyone expecting the West End on the doorstep. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ]
+  },
+  {
    "slug": "the-exhibitionist-hotel",
    "name": "The Exhibitionist Hotel",
    "propertyType": "boutique",
@@ -2866,6 +3223,42 @@
    "affiliateNetwork": "cj"
   },
   {
+   "slug": "supercity-rosebery",
+   "name": "The Rosebery by Supercity Aparthotels",
+   "propertyType": "aparthotel",
+   "style": "Apartments on Rosebery Avenue",
+   "brand": "supercity",
+   "chainType": "mini-chain",
+   "area": "Islington",
+   "borough": "Islington",
+   "guide": "islington-area-guide",
+   "zone": "1–2",
+   "district": "North",
+   "address": "20 Rosebery Avenue",
+   "postcode": "EC1R 4SX",
+   "lat": 51.523627,
+   "lng": -0.111056,
+   "priceBand": "£££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "On the Clerkenwell edge of Islington, ten minutes from Farringdon and its Elizabeth line platforms, with Exmouth Market's restaurants at the end of the road.",
+   "opNote": "One of the better-placed aparthotels for eating out, which is the usual weakness of the format. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ]
+  },
+  {
    "slug": "the-rubens-at-the-palace",
    "name": "The Rubens at the Palace",
    "propertyType": "hotel",
@@ -3130,6 +3523,42 @@
    "website": "https://www.wilde.com/london"
   },
   {
+   "slug": "wilde-covent-garden",
+   "name": "Wilde Aparthotels London Covent Garden",
+   "propertyType": "aparthotel",
+   "style": "Studios off the Strand",
+   "brand": "wilde",
+   "chainType": "mini-chain",
+   "area": "Covent Garden",
+   "borough": "Westminster",
+   "guide": "covent-garden-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "11 Adam Street",
+   "postcode": "WC2N 6AA",
+   "lat": 51.509845,
+   "lng": -0.122203,
+   "priceBand": "£££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "On an Adam brothers street between the Strand and the river, three minutes from Covent Garden's piazza and five from Embankment - about as central as an aparthotel gets in London.",
+   "opNote": "Sold on Hotels.com twice, as Wilde Covent Garden and as Wilde by Staycity The Strand; the same building either way, so compare both before booking. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ]
+  },
+  {
    "slug": "artotel-battersea-power-station",
    "name": "art'otel London Battersea Power Station",
    "propertyType": "hotel",
@@ -3329,6 +3758,78 @@
    "hotelsUrl": "https://uk.hotels.com/ho164601/charlotte-street-hotel-firmdale-hotels-london-united-kingdom/",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho164601/charlotte-street-hotel-firmdale-hotels-london-united-kingdom/",
    "affiliateNetwork": "cj"
+  },
+  {
+   "slug": "cheval-phoenix-house",
+   "name": "Cheval Phoenix House",
+   "propertyType": "aparthotel",
+   "style": "Apartments a street from Sloane Square",
+   "brand": "cheval",
+   "chainType": "mini-chain",
+   "area": "Chelsea",
+   "borough": "Kensington and Chelsea",
+   "guide": "chelsea-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "1 Wilbraham Place",
+   "postcode": "SW1X 9AE",
+   "lat": 51.493928,
+   "lng": -0.157688,
+   "priceBand": "££££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "One street back from Sloane Square, which puts the King's Road, Belgravia and the Royal Court all within a few minutes' walk.",
+   "opNote": "A residential street rather than a hotel strip, and priced as Chelsea. Full kitchens and a concierge. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ]
+  },
+  {
+   "slug": "cheval-three-quays",
+   "name": "Cheval Three Quays",
+   "propertyType": "aparthotel",
+   "style": "River-facing apartments beside the Tower",
+   "brand": "cheval",
+   "chainType": "mini-chain",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "40 Lower Thames Street",
+   "postcode": "EC3R 6AG",
+   "lat": 51.508205,
+   "lng": -0.07962,
+   "priceBand": "££££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "Directly on the river between the Tower of London and Tower Bridge, with apartments that look straight at both - the view is what you are paying for and it is the best of any aparthotel in London.",
+   "opNote": "Full kitchens, a concierge and one- to three-bedroom layouts, so it works for a family in a way a hotel room at this price does not. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ]
   },
   {
    "slug": "claridges",
@@ -3562,6 +4063,42 @@
     "luxury"
    ],
    "website": "https://www.mandarinoriental.com/en/london/mayfair"
+  },
+  {
+   "slug": "native-mayfair",
+   "name": "Native Mayfair",
+   "propertyType": "aparthotel",
+   "style": "Apartments on a Mayfair mews",
+   "brand": "native",
+   "chainType": "mini-chain",
+   "area": "Mayfair",
+   "borough": "Westminster",
+   "guide": "mayfair-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "10 Lees Place",
+   "postcode": "W1K 6LN",
+   "lat": 51.512161,
+   "lng": -0.154367,
+   "priceBand": "££££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "On a mews off Grosvenor Square, three minutes from Bond Street and its Elizabeth line platforms - a kitchen in the middle of Mayfair, which is close to unheard of.",
+   "opNote": "The most expensive of the Native addresses and the one where the apartment format saves the most, because eating out nearby is Mayfair money. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ]
   },
   {
    "slug": "raffles-london-owo",

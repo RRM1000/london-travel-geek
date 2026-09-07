@@ -48,25 +48,25 @@
    "name": "Native Bankside",
    "area": "South Bank",
    "brand": "native",
-   "status": "candidate"
+   "status": "added"
   },
   {
    "name": "Native Hyde Park",
    "area": "Bayswater",
    "brand": "native",
-   "status": "candidate"
+   "status": "added"
   },
   {
    "name": "Native Mayfair",
    "area": "Mayfair",
    "brand": "native",
-   "status": "candidate"
+   "status": "added"
   },
   {
    "name": "Native King's Wardrobe, St Paul's",
    "area": "City of London",
    "brand": "native",
-   "status": "candidate"
+   "status": "added"
   },
   {
    "name": "Native Waterloo",
@@ -78,76 +78,77 @@
    "name": "Native Fulham Broadway",
    "area": "Fulham",
    "brand": "native",
-   "status": "candidate",
+   "status": "added",
    "note": "Fulham is not yet in HOODS."
   },
   {
    "name": "Cheval Three Quays at the Tower of London",
    "area": "City of London",
    "brand": "cheval",
-   "status": "candidate"
+   "status": "added"
   },
   {
    "name": "Cheval Gloucester Park at Kensington",
    "area": "South Kensington",
    "brand": "cheval",
-   "status": "candidate"
+   "status": "added"
   },
   {
    "name": "Cheval Phoenix House at Sloane Square",
    "area": "Chelsea",
    "brand": "cheval",
-   "status": "candidate"
+   "status": "added"
   },
   {
    "name": "The Rosebery by Supercity Aparthotels",
    "area": "Islington",
    "brand": "supercity",
-   "status": "candidate"
+   "status": "added"
   },
   {
    "name": "Templeton Place by Supercity Aparthotels",
    "area": "Earl's Court",
    "brand": "supercity",
-   "status": "candidate",
+   "status": "added",
    "note": "Earl's Court is not yet in HOODS."
   },
   {
    "name": "The Chronicle by Supercity Aparthotels",
    "area": "City of London",
    "brand": "supercity",
-   "status": "candidate"
+   "status": "added"
   },
   {
    "name": "Staycity Aparthotels London Greenwich High Road",
    "area": "Greenwich",
    "brand": "staycity",
-   "status": "candidate"
+   "status": "added"
   },
   {
    "name": "Staycity Aparthotels London Deptford Bridge",
    "area": "Deptford",
    "brand": "staycity",
-   "status": "candidate",
+   "status": "added",
    "note": "Deptford is not yet in HOODS."
   },
   {
    "name": "Wilde Aparthotels London Covent Garden",
    "area": "Covent Garden",
    "brand": "wilde",
-   "status": "candidate"
+   "status": "added"
   },
   {
    "name": "Wilde Aparthotels London Paddington",
    "area": "Paddington",
    "brand": "wilde",
-   "status": "candidate"
+   "status": "added"
   },
   {
    "name": "Wilde Aparthotels by Staycity The Strand",
    "area": "Covent Garden",
    "brand": "wilde",
-   "status": "candidate"
+   "status": "dropped",
+   "note": "Same building as Wilde Covent Garden - 11 Adam Street - listed twice on Hotels.com."
   },
   {
    "name": "Aparthotel Adagio London Stratford",
@@ -433,5 +434,6 @@
     "status": "candidate"
    }
   ]
- }
+ },
+ "_native_note": "Native's own site lists five London properties. The typeahead also returned Waterloo, Marylebone Lane, Monument, Fenchurch and Verso; Native no longer operates those, so they were not added. Trust the operator's list over the OTA's."
 }
