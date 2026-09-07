@@ -76,6 +76,8 @@ London has **four of them**. Not the ten or eleven you will find on most lists �
 
 ## The rules that catch people out
 
+**Zedwell does not give you a lock.** The capsule closes with a catch on the inside, so you are secure while you are in it — but if you want it locked while you are *out*, you have to supply that yourself. Either **bring a 38mm padlock** or **buy one on site for £8** from a vending machine. There is no third option and nothing is issued at check-in, so arriving without one means paying the £8 or leaving your capsule open all day. Otherwander and The GreenHouse do not work this way: their entry is a smart lock and an access code respectively.
+
 **Luggage does not go in the capsule.** Hooks for a small backpack, room for a slim bag beside the mattress, nothing more. Zedwell's luggage room is **£15 per piece and non-refundable** — on two nights with one case, about a quarter of what the bed costs.
 
 **Check-out is 10am** at both Zedwell sites, which is early. Late check-out is £20 to midday, £30 to 2pm, and after 2pm you are charged a full night. Early check-in is £20 before midday, £10 between midday and 3pm. There is no fee for arriving late.
