@@ -2,12 +2,8 @@
 title: "The Best Hot Chocolate in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Hot Chocolate London 2026: Ranked Across Every Major List"
 description: "Nine venues named by two or more independent sources, with what each one actually pours and what it costs — plus the widely-shared list that turned out to be half closed."
-heroImage: "../../assets/articles/best-hot-chocolate-london/best-hot-chocolate-london.jpg"
-heroImageAlt: "A mug of hot chocolate topped with marshmallows, seen from above on dark painted floorboards"
-heroImageCredit: "Filirovska"
-heroImageSource: "https://www.pexels.com/photo/7138768/"
-heroImageLicense: "Pexels License"
-heroImageLicenseUrl: "https://www.pexels.com/license/"
+heroImage: "../../assets/articles/best-hot-chocolate-london/italian-bear-chocolate-hero.webp"
+heroImageAlt: "A cup of thick Italian hot chocolate dusted with cocoa, the cup lined with melted chocolate that has run down the outside and pooled on the saucer"
 publishedAt: 2026-09-07
 updatedAt: 2026-09-07
 sites: [london]
@@ -46,10 +42,6 @@ This page is not our opinion. Every venue is ranked by how many independent list
 ### Italian Bear Chocolate
 
 *£ · Carnaby · 4 min from Oxford Circus · Cited by 9 sources · [italianbearchocolate.com](https://www.italianbearchocolate.com/)*
-
-![A cup of thick Italian hot chocolate dusted with cocoa, the cup itself lined with melted chocolate that has run down the sides and pooled on the saucer](../../assets/articles/best-hot-chocolate-london/italian-bear-chocolate-cup.webp)
-
-*The chocolate is not only in the cup — it is painted round the inside and left to run down the outside. This is what "overflowing" means here.*
 
 **41 Broadwick Street, W1F 9QL.** The thick Italian style, poured in three layers so the cup arrives striped, and dense enough that it behaves more like warm ganache than a drink. From **£4.90**. One reviewer's description — "poured triple-layered and overflowing" — is the whole proposition.
 
