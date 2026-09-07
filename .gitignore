@@ -17,3 +17,6 @@ outputs/
 # Google service account (never commit)
 google-service-account.json
 *.service-account.json
+
+# Local research scratch files, not part of the site
+scratchpad/
