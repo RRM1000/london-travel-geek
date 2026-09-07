@@ -7,7 +7,7 @@
     "TikTok not run - only the YouTube actor has been used. TikTok is where this topic is most heavily filmed.",
     "NO JUDGED AWARD EXISTS for hot chocolate in Britain, so this ranking rests on editorial and independent consensus alone, with nothing judged to anchor it.",
     "Time Out's list is four years old and shares zero names with The Infatuation's. Every Time Out name needs a trading check before it is printed.",
-    "NO VENUE IS IN THE SHEET YET. All of these need addresses, postcodes and price bands, which means a billed Google Places run."
+    "Badiani resolves to the Covent Garden branch; sources name Soho. Multi-branch, needs a branch decision before an address is printed."
   ],
   "sources": [
     {
@@ -254,9 +254,29 @@
     "DARK SUGARS: named as Brick Lane by Time Out and Halal Gems, Shoreditch by settime2588. Likely two branches of one business - carry as Branches rows, not two venues.",
     "SAID DAL 1923: Covent Garden per Onion Jain, Soho per the 2015 Time Out page. Confirm the address before printing an area.",
     "ITALIAN BEAR CHOCOLATE / 'The Italian Bear': alias needed, 41 Broadwick St W1F 9QL.",
-    "ITALIAN BEAR vs SAID DAL 1923 - THE BIGGEST OPEN QUESTION HERE. Mostly Food and Travel writes 'Italian Bear (previously SAID DAAL)'. Both are on Broadwick Street in Soho - Italian Bear at number 41. If one replaced the other, four citations and two citations belong to ONE venue and the ranking changes. If they are two businesses on one street, merging would invent a six-source venue that does not exist. NEEDS A HUMAN DECISION - do not merge on this evidence.",
     "KNOOPS is a multi-branch chain (Covent Garden, Kensington, Chelsea, Notting Hill, Richmond at least). Sources name the brand, not a branch. Carry as branches rows.",
     "HOTEL CHOCOLAT vs RABOT 1745 - Rabot 1745 IS Hotel Chocolat's Borough Market cafe. Time Out names Rabot 1745; Clumsy Girl names Hotel Chocolat. Probably one venue, possibly two products. Check before counting.",
     "BADIANI and VENCHI are gelato chains that also pour chocolate; Black Sheep Coffee and ABC Kitchens are not chocolate businesses at all. Decide whether a coffee chain's hot chocolate belongs in this guide before it inherits a citation."
+  ],
+  "placesRun": {
+    "date": "2026-09-07",
+    "scope": "22 rows - the 9 venues on 2+ sources plus the 13 Time Out-only names. 27 calls total including a 5-row re-run to correct bad matches, 0.54% of the free monthly tier.",
+    "theResult": "TIME OUT'S 2022 LIST DOES NOT STAND UP. Of its 13 unique names, 3 are CLOSED_PERMANENTLY and 4 more cannot be resolved to a hot chocolate business at all - 7 of 13 dead or gone in four years. That is why the trading check came before the writing.",
+    "closedPermanently": [
+      "Paul A Young Fine Chocolates (W1F 8WA) - the best-known chocolatier on the list.",
+      "Ruby Violet (N1C 4BZ)",
+      "DeRosier Chocolate & Coffee Shop (SW18 5NL)"
+    ],
+    "couldNotResolve": [
+      "Rabot 1745 - resolves to 'Rabot 1745 Beauty' in White City (W12 7GF) even with the hood set to Borough Market. Hotel Chocolat's Borough Market cafe appears to be gone and only the beauty line still carries the name.",
+      "Intermission - resolves to 'Intermission Film' (N1 6NU), a different business.",
+      "Cafe La Divina - resolves to 'La Divina Italian Restaurant' (N1 1QP), probably a different business.",
+      "Apres Food Co - resolves to 'Apres Burgers' (SW10 0BH), a different business."
+    ],
+    "note": "The four above are NOT recorded as closed - Places matched a different business, which is not the same as proving the original is gone. They are unverified and must not be printed as either open or closed."
+  },
+  "resolvedVenueQuestions": [
+    "ITALIAN BEAR = SAID DAL 1923, RESOLVED 2026-09-07. Places resolves BOTH names to 'Italian Bear Chocolate - Soho' at W1F 9QL. Two independent confirmations: Mostly Food and Travel already wrote 'Italian Bear (previously SAID DAAL)', and the enrichment lands both on one postcode. Italian Bear took over Said's Broadwick Street site. MERGING THEM MAKES IT THE MOST-CITED VENUE IN THE TOPIC on 9, ahead of Dark Sugars on 8.",
+    "CHIN CHIN, RESOLVED 2026-09-07. Places returns 'Chin Chin Dessert Club (Chin Chin Ice...)' at W1D 3DS, confirming Dessert Club and Labs are one business. The 6 citations stand."
   ]
 }

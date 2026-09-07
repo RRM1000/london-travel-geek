@@ -997,11 +997,11 @@
     "walkFrom": "Covent Garden Underground Station"
   },
   "badiani-soho": {
-    "placeId": "ChIJowjhzGsPdkgRJzhP92AMZ4o",
-    "placesName": "Badiani Gelato - White City",
-    "address": "Westfield Shopping Centre, Ariel Way, London W12 7HB, UK",
-    "postcode": "W12 7HB",
-    "website": "https://www.badiani1932.com/",
+    "placeId": "ChIJOWQiRBIFdkgRw3N2RsBUpLs",
+    "placesName": "Badiani Gelato Covent Garden",
+    "address": "2 Mercer Walk, London WC2H 9QP, UK",
+    "postcode": "WC2H 9QP",
+    "website": "http://www.badiani1932.com/",
     "businessStatus": "OPERATIONAL",
     "closedDays": "None"
   },

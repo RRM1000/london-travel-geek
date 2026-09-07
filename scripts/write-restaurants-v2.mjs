@@ -13748,7 +13748,7 @@ const rows = [
   {
     ...des, slug: "badiani-soho", name: "Badiani",
     style: "Florentine gelateria", specialities: "hot-chocolate",
-    // hood deliberately blank: no source located it. Places will resolve it.
+    hood: "Soho",
     lists: "hot-chocolate",
     source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - named by Mostly Food and Travel and DesignMyNight. MULTI-BRANCH.",
   },
@@ -13762,7 +13762,7 @@ const rows = [
   {
     ...des, slug: "rabot-1745", name: "Rabot 1745",
     style: "Hotel Chocolat cafe", specialities: "hot-chocolate",
-    hood: "Borough",
+    hood: "Borough Market",
     lists: "hot-chocolate",
     source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - MAY BE THE SAME BUSINESS AS Hotel Chocolat, which Clumsy Girl names separately. Named only by Time Out's list, which is dated 28 October 2022 and shares zero names with The Infatuation's current guide - TRADING STATUS UNVERIFIED.",
   },
