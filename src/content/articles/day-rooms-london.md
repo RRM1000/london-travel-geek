@@ -31,7 +31,7 @@ About **245 London hotels** will sell you a room for the afternoon rather than t
 
 It is the least-known useful thing in London accommodation, and the answer to a problem most visitors have at least once: a nine-hour gap, a suitcase, and nowhere to be.
 
-> 💡 **The Short Version:** You book a **fixed window**, not hours of your choosing, and **10am–5pm is close to a default** — 41 of the 73 London windows open at 10am. Most slots run **seven or eight hours**; three is the shortest that exists. Check **when it starts** before anything else, whether it says *payment at the hotel* (most do, so it costs nothing to hold), and whether a pool is included. Landing early? Only **Marlin Waterloo** and, at Heathrow, the **Crowne Plaza T4** and the **Atrium** open at 7am.
+> 💡 **The Short Version:** You book a **fixed window**, not hours of your choosing, and **10am–5pm is close to a default** — 41 of the 73 London windows open at 10am. Most run **seven or eight hours**, and a longer window costs almost nothing extra, so **always take the longest one on offer**. Check **when it starts** before anything else, and whether it says *payment at the hotel* (most do, so it costs nothing to hold). Landing early? Only **Marlin Waterloo** and, at Heathrow, the **Crowne Plaza T4** and the **Atrium** open at 7am.
 
 ## What it actually costs
 
@@ -105,6 +105,41 @@ We logged **73 windows across the London listings**. They are far less varied th
 **Nearly two thirds are seven or eight hours.** Three hours is the shortest on offer — the Kingsland Hotel's 11am–2pm and MSM Arena's 2.30pm–5.30pm — and the longest single slot we found was **10am–10pm, twelve hours**. Nothing shorter than three hours exists, so this is not an hourly product in London whatever the category is called.
 
 **The earliest opening is 7am** and the **latest closing is 11pm**. Between them, the practical shape of the day is: arrive mid-morning, leave before six.
+
+### A longer window costs almost nothing extra
+
+This is the counter-intuitive part, and it changes how you should shop.
+
+**You are not buying hours. You are buying that hotel's room for a slot it has decided to sell.** Comparing the hotels that advertise a single unambiguous window, the length of the slot barely moves the price at all — the statistical correlation between the two is **0.13**, which is close to none.
+
+| Window length | Cheapest | Dearest | Average |
+| --- | --- | --- | --- |
+| 6 hours | £50 | £62 | £56 |
+| 7 hours | £65 | £169 | £107 |
+| 8 hours | £50 | £272 | £111 |
+| 9 hours | £51 | £117 | **£99** |
+
+**Nine-hour windows average less than seven-hour ones.** An eight-hour slot runs from £50 at ibis Heathrow to £272 at the Athenaeum. What sets the price is the hotel — its stars, its postcode, what its rooms cost overnight — and the clock has almost nothing to do with it.
+
+Two things follow.
+
+**Take the longest window the hotel offers.** If a hotel sells 10am–3pm and 10am–5pm, the longer one is usually the same price or a few pounds more. There is rarely anything to gain by booking a shorter slot, so pick the one that covers your gap with room to spare.
+
+**Compare on price per hour, not price.** It reorders the field completely:
+
+| | Per hour | The booking |
+| --- | --- | --- |
+| **ibis Styles Heathrow** | **£5.67** | £51 for 9 hours |
+| ibis London Heathrow | £6.25 | £50 for 8 hours |
+| Kingsland Hotel, Harrow | £6.43 | £45 for 7 hours |
+| The Dover, Pimlico | £8.33 | £50 for 6 hours |
+| Hilton Garden Inn Heathrow | £8.75 | £70 for 8 hours |
+| … | | |
+| Meliá London Kensington | £19.86 | £139 for 7 hours |
+| Treehouse London | £24.14 | £169 for 7 hours |
+| **Athenaeum**, Piccadilly | **£34.00** | £272 for 8 hours |
+
+**MSM Arena is the one to watch out for**: £52 buys only three hours, which is **£17.33 an hour** — dearer per hour than the Mandeville, a far better hotel, at £15.29. A low headline price on a short window is the worst value in the category.
 
 ### Filtering for the window you need
 
