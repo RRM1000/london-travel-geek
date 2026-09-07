@@ -1,6 +1,6 @@
 {
  "generated": "2026-09-07",
- "count": 126,
+ "count": 125,
  "hotels": [
   {
    "slug": "astor-hyde-park",
@@ -455,7 +455,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ],
    "website": "https://www.lockeliving.com/en/london"
   },
@@ -490,7 +491,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ],
    "website": "https://www.lockeliving.com/en/london"
   },
@@ -604,7 +606,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ],
    "website": "https://www.lockeliving.com/en/london"
   },
@@ -639,7 +642,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ],
    "website": "https://www.lockeliving.com/en/london"
   },
@@ -674,7 +678,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ],
    "website": "https://www.lockeliving.com/en/london"
   },
@@ -709,7 +714,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ],
    "website": "https://www.lockeliving.com/en/london"
   },
@@ -894,7 +900,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ],
    "website": "https://www.lockeliving.com/en/london"
   },
@@ -929,7 +936,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ],
    "website": "https://www.lockeliving.com/en/london"
   },
@@ -965,7 +973,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ]
   },
   {
@@ -1001,7 +1010,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ]
   },
   {
@@ -1341,7 +1351,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ],
    "website": "https://www.lockeliving.com/en/london"
   },
@@ -1380,7 +1391,8 @@
    ],
    "lists": [
     "long-stay",
-    "best-value"
+    "best-value",
+    "aparthotels"
    ],
    "website": "https://www.staycity.com/"
   },
@@ -1416,7 +1428,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ]
   },
   {
@@ -1452,7 +1465,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ]
   },
   {
@@ -1530,7 +1544,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ]
   },
   {
@@ -1768,7 +1783,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ]
   },
   {
@@ -2169,7 +2185,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ]
   },
   {
@@ -2397,7 +2414,8 @@
    ],
    "lists": [
     "families",
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ],
    "website": "https://www.lockeliving.com/en/london",
    "hotelsUrl": "https://uk.hotels.com/ho1415376800/locke-at-broken-wharf-london-united-kingdom/",
@@ -2473,7 +2491,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ]
   },
   {
@@ -2509,7 +2528,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ]
   },
   {
@@ -2885,7 +2905,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ]
   },
   {
@@ -3255,7 +3276,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ]
   },
   {
@@ -3497,10 +3519,10 @@
    "guide": "covent-garden-area-guide",
    "zone": "1",
    "district": "Central",
-   "address": "Covent Garden, WC2",
-   "postcode": "WC2R 0DE",
-   "lat": 51.509963,
-   "lng": -0.122089,
+   "address": "11 Adam Street",
+   "postcode": "WC2N 6AA",
+   "lat": 51.509845,
+   "lng": -0.122203,
    "priceBand": "£££",
    "typicalFrom": "About £185",
    "breakfast": "extra",
@@ -3510,7 +3532,7 @@
    "airCon": "yes",
    "luggageStorage": "yes",
    "whyGo": "A kitchen and a washing machine in the middle of the West End, which removes the single biggest cost of a London family trip - eating out three times a day.",
-   "opNote": "Studios rather than separate bedrooms, so a family shares one room. Check the floor plan before booking for four. NOTE: the only named press review found for this brand covers Wilde's Paddington site, not this one - the two are different buildings and should not be assumed identical.",
+   "opNote": "Studios rather than separate bedrooms, so a family shares one room. Check the floor plan before booking for four. SOLD TWICE ON HOTELS.COM, as Wilde Covent Garden and as Wilde by Staycity The Strand - the same building at 11 Adam Street under two listings, so compare both before booking. NOTE: the only named press review found for this brand covers Wilde's Paddington site, not this one - the two are different buildings and should not be assumed identical.",
    "goodFor": [
     "families",
     "long-stay",
@@ -3518,45 +3540,10 @@
    ],
    "lists": [
     "families",
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ],
    "website": "https://www.wilde.com/london"
-  },
-  {
-   "slug": "wilde-covent-garden",
-   "name": "Wilde Aparthotels London Covent Garden",
-   "propertyType": "aparthotel",
-   "style": "Studios off the Strand",
-   "brand": "wilde",
-   "chainType": "mini-chain",
-   "area": "Covent Garden",
-   "borough": "Westminster",
-   "guide": "covent-garden-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "11 Adam Street",
-   "postcode": "WC2N 6AA",
-   "lat": 51.509845,
-   "lng": -0.122203,
-   "priceBand": "£££",
-   "breakfast": "extra",
-   "roomTypes": "Studios and apartments with kitchens",
-   "accessibility": "accessible-rooms",
-   "hasLift": "yes",
-   "airCon": "yes",
-   "luggageStorage": "yes",
-   "whyGo": "On an Adam brothers street between the Strand and the river, three minutes from Covent Garden's piazza and five from Embankment - about as central as an aparthotel gets in London.",
-   "opNote": "Sold on Hotels.com twice, as Wilde Covent Garden and as Wilde by Staycity The Strand; the same building either way, so compare both before booking. NOT PRICED YET - no rate has been sampled for this row.",
-   "goodFor": [
-    "solo",
-    "couples",
-    "families",
-    "business",
-    "long-stay"
-   ],
-   "lists": [
-    "long-stay"
-   ]
   },
   {
    "slug": "artotel-battersea-power-station",
@@ -3792,7 +3779,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ]
   },
   {
@@ -3828,7 +3816,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ]
   },
   {
@@ -4097,7 +4086,8 @@
     "long-stay"
    ],
    "lists": [
-    "long-stay"
+    "long-stay",
+    "aparthotels"
    ]
   },
   {

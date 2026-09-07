@@ -546,7 +546,7 @@ const ROWS = [
     angle: "room",
     opSummary: "Bear Gardens is a quiet cut-through rather than a road, so it is calmer than the Bankside address suggests. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose. Native's own site lists five London properties and this is one. NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
   },
   {
@@ -563,7 +563,7 @@ const ROWS = [
     angle: "room",
     opSummary: "Sussex Gardens is a long hotel street and the quality varies wildly along it; this is at the better end. The park is a five-minute walk south. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
   },
   {
@@ -580,7 +580,7 @@ const ROWS = [
     angle: "room",
     opSummary: "The most expensive of the Native addresses and the one where the apartment format saves the most, because eating out nearby is Mayfair money. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
   },
   {
@@ -597,7 +597,7 @@ const ROWS = [
     angle: "room",
     opSummary: "Square Mile rhythm: quiet at weekends, short of everyday shops, and often cheapest on a Saturday. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
   },
   {
@@ -614,7 +614,7 @@ const ROWS = [
     angle: "room",
     opSummary: "The furthest out of the Native addresses and priced accordingly. North End Road has a proper street market on weekdays. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
   },
   {
@@ -631,7 +631,7 @@ const ROWS = [
     angle: "room",
     opSummary: "Full kitchens, a concierge and one- to three-bedroom layouts, so it works for a family in a way a hotel room at this price does not. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
   },
   {
@@ -648,7 +648,7 @@ const ROWS = [
     angle: "room",
     opSummary: "Quieter than the Cromwell Road addresses nearby because it sits back off it. Full kitchens. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
   },
   {
@@ -665,7 +665,7 @@ const ROWS = [
     angle: "room",
     opSummary: "A residential street rather than a hotel strip, and priced as Chelsea. Full kitchens and a concierge. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
   },
   {
@@ -682,7 +682,7 @@ const ROWS = [
     angle: "room",
     opSummary: "One of the better-placed aparthotels for eating out, which is the usual weakness of the format. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
   },
   {
@@ -699,7 +699,7 @@ const ROWS = [
     angle: "room",
     opSummary: "The cheapest Supercity address in London and the one that makes the format worth it: a kitchen at close to budget-hotel money. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
   },
   {
@@ -716,7 +716,7 @@ const ROWS = [
     angle: "room",
     opSummary: "Legal-London quiet in the evenings, which suits a working stay and disappoints anyone expecting the West End on the doorstep. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
   },
   {
@@ -733,7 +733,7 @@ const ROWS = [
     angle: "room",
     opSummary: "Greenwich prices rather than Zone 1 ones, and the trains reach London Bridge in eight minutes. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
   },
   {
@@ -750,24 +750,7 @@ const ROWS = [
     angle: "room",
     opSummary: "Deptford is a working high street rather than a visitor one, which is the point for the price. Greenwich is a fifteen-minute walk. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
-    lists: "long-stay",
-    source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
-  },
-  {
-    ...base, slug: "wilde-covent-garden", name: "Wilde Aparthotels London Covent Garden",
-    propertyType: "aparthotel", style: "Studios off the Strand",
-    brand: "wilde", chainType: "mini-chain",
-    hood: "Covent Garden", borough: "Westminster", areaGuide: "covent-garden-area-guide",
-    address: "11 Adam Street", postcode: "WC2N 6AA",
-    lat: "51.509845", lng: "-0.122203",
-    priceBand: "£££", typicalFrom: "", breakfast: "extra",
-    roomTypes: "Studios and apartments with kitchens", familyPolicy: "",
-    accessibility: "accessible-rooms", hasLift: "yes", airCon: "yes", luggageStorage: "yes",
-    whyGo: "On an Adam brothers street between the Strand and the river, three minutes from Covent Garden's piazza and five from Embankment - about as central as an aparthotel gets in London.",
-    angle: "room",
-    opSummary: "Sold on Hotels.com twice, as Wilde Covent Garden and as Wilde by Staycity The Strand; the same building either way, so compare both before booking. NOT PRICED YET - no rate has been sampled for this row.",
-    goodFor: "solo, couples, families, business, long-stay",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
   },
   {
@@ -784,7 +767,7 @@ const ROWS = [
     angle: "room",
     opSummary: "The basin side is quiet and the water makes it feel further from the station than it is. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates) - NOT from Google Places, so this row is absent from the Places geo-cache on purpose.  NOT PRICED: Hotels.com returned 429 to its property pages that day, so no rate was sampled and none is guessed. priceBand is a tier judgement pending that.",
   },
   {
@@ -801,7 +784,7 @@ const ROWS = [
     opSummary: "Every studio has a kitchenette, so this is the answer to a week in London rather than a weekend. The lobby is genuinely used by non-guests, which makes it livelier than a hotel of this size usually is. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
     website: "https://www.lockeliving.com/en/london",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Address from the property's own page at lockeliving.com (JSON-LD). NOT PRICED: Hotels.com returned 429 to every property page that day, so no rate was sampled and none is guessed - run the rate sampler to fill it.",
   },
   {
@@ -818,7 +801,7 @@ const ROWS = [
     opSummary: "Studios are noticeably smaller than Leman Locke's round the corner, which is the trade for the price. Same kitchenette. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
     website: "https://www.lockeliving.com/en/london",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Address from the property's own page at lockeliving.com (JSON-LD). NOT PRICED: Hotels.com returned 429 to every property page that day, so no rate was sampled and none is guessed - run the rate sampler to fill it.",
   },
   {
@@ -835,7 +818,7 @@ const ROWS = [
     opSummary: "The furthest of the Locke sites from a Tube station - Bermondsey on the Jubilee is about eight minutes - so it trades connectivity for space and quiet. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
     website: "https://www.lockeliving.com/en/london",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Address from the property's own page at lockeliving.com (JSON-LD). NOT PRICED: Hotels.com returned 429 to every property page that day, so no rate was sampled and none is guessed - run the rate sampler to fill it.",
   },
   {
@@ -852,7 +835,7 @@ const ROWS = [
     opSummary: "Cromwell Road is a main artery and the rooms facing it get traffic noise; ask for a rear studio. District, Circle and Piccadilly lines all within five minutes. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
     website: "https://www.lockeliving.com/en/london",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Address from the property's own page at lockeliving.com (JSON-LD). NOT PRICED: Hotels.com returned 429 to every property page that day, so no rate was sampled and none is guessed - run the rate sampler to fill it.",
   },
   {
@@ -869,7 +852,7 @@ const ROWS = [
     opSummary: "The Wharf empties at weekends, which is either the appeal or the problem depending on why you are here. Kitchenettes throughout. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
     website: "https://www.lockeliving.com/en/london",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Address from the property's own page at lockeliving.com (JSON-LD). NOT PRICED: Hotels.com returned 429 to every property page that day, so no rate was sampled and none is guessed - run the rate sampler to fill it.",
   },
   {
@@ -886,7 +869,7 @@ const ROWS = [
     opSummary: "A residential building rather than a hotel, so the front desk is a concierge and the neighbours live there. Full kitchens rather than kitchenettes. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
     website: "https://www.lockeliving.com/en/london",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Address from the property's own page at lockeliving.com (JSON-LD). NOT PRICED: Hotels.com returned 429 to every property page that day, so no rate was sampled and none is guessed - run the rate sampler to fill it.",
   },
   {
@@ -903,7 +886,7 @@ const ROWS = [
     opSummary: "Weekday-business territory, so weekend rates are usually the softer ones - the opposite of most of London. Full kitchens. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
     website: "https://www.lockeliving.com/en/london",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Address from the property's own page at lockeliving.com (JSON-LD). NOT PRICED: Hotels.com returned 429 to every property page that day, so no rate was sampled and none is guessed - run the rate sampler to fill it.",
   },
   {
@@ -920,7 +903,7 @@ const ROWS = [
     opSummary: "Like the rest of the Square Mile it is quiet at weekends and short of everyday shops, which the kitchens make more of a problem than it sounds. Check Saturday rates - they are often the cheapest of the week. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
     website: "https://www.lockeliving.com/en/london",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Address from the property's own page at lockeliving.com (JSON-LD). NOT PRICED: Hotels.com returned 429 to every property page that day, so no rate was sampled and none is guessed - run the rate sampler to fill it.",
   },
   {
@@ -937,7 +920,7 @@ const ROWS = [
     opSummary: "A quieter, more residential base than the Covent Garden postcode suggests, and one of the few addresses here where the street itself is worth the stay. NOT PRICED YET - no rate has been sampled for this row.",
     goodFor: "solo, couples, families, business, long-stay",
     website: "https://www.lockeliving.com/en/london",
-    lists: "long-stay",
+    lists: "long-stay, aparthotels",
     source: "Added 2026-09-07. Address from the property's own page at lockeliving.com (JSON-LD). NOT PRICED: Hotels.com returned 429 to every property page that day, so no rate was sampled and none is guessed - run the rate sampler to fill it.",
   },
   {
@@ -956,7 +939,7 @@ const ROWS = [
     website: "https://www.lockeliving.com/en/london",
     hotelsUrl: "https://uk.hotels.com/ho1415376800/locke-at-broken-wharf-london-united-kingdom/",
     signals: "1 source: The Luxury Editor",
-    lists: "families, long-stay",
+    lists: "families, long-stay, aparthotels",
     source: "Consensus pass 2026-08-20. Aparthotels barely appear on general hotel lists.",
   },
   {
@@ -964,18 +947,19 @@ const ROWS = [
     propertyType: "aparthotel", style: "Studios with kitchens, central",
     brand: "wilde", chainType: "mini-chain", starRating: "4",
     hood: "Covent Garden", borough: "Westminster", areaGuide: "covent-garden-area-guide",
-    address: "Covent Garden, WC2",
+    address: "11 Adam Street", postcode: "WC2N 6AA",
+    lat: "51.509845", lng: "-0.122203",
     priceBand: "£££", typicalFrom: "About £185", breakfast: "extra",
     roomTypes: "Studio", accessibility: "accessible-rooms", hasLift: "yes",
     airCon: "yes", luggageStorage: "yes",
     whyGo: "A kitchen and a washing machine in the middle of the West End, which removes the single biggest cost of a London family trip - eating out three times a day.",
     angle: "value",
-    opSummary: "Studios rather than separate bedrooms, so a family shares one room. Check the floor plan before booking for four. NOTE: the only named press review found for this brand covers Wilde's Paddington site, not this one - the two are different buildings and should not be assumed identical.",
+    opSummary: "Studios rather than separate bedrooms, so a family shares one room. Check the floor plan before booking for four. SOLD TWICE ON HOTELS.COM, as Wilde Covent Garden and as Wilde by Staycity The Strand - the same building at 11 Adam Street under two listings, so compare both before booking. NOTE: the only named press review found for this brand covers Wilde's Paddington site, not this one - the two are different buildings and should not be assumed identical.",
     goodFor: "families, long-stay, couples",
     website: "https://www.wilde.com/london",
     signals: "NO editorial coverage found for the Covent Garden site specifically - the only named review located (Business Traveller) covers the Paddington branch, a different property. Do not cite that review for this row.",
-    lists: "families, long-stay",
-    source: "Consensus pass 2026-08-20.",
+    lists: "families, long-stay, aparthotels",
+    source: "Consensus pass 2026-08-20. ADDRESS RESOLVED 2026-09-07: the row carried only \"Covent Garden, WC2\". Street and coordinates from the Hotels.com typeahead (hotelAddress.street, coordinates). A second row for this property was added the same day by mistake and removed - this slug is the one to keep, because the geo-cache is keyed to it.",
   },
 
   // ======================= HOSTELS =======================
@@ -2445,7 +2429,7 @@ const ROWS = [
     goodFor: "couples, long-stay, families, groups",
     website: "https://www.staycity.com/",
     signals: "1 source: Time Out (best hotels in Hackney)",
-    lists: "long-stay, best-value",
+    lists: "long-stay, best-value, aparthotels",
     source: "Design pass 2026-08-20. The rebrand is the fact most likely to confuse a reader comparing reviews.",
   },
   {

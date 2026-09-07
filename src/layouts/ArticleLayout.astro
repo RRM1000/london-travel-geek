@@ -322,6 +322,13 @@ const breadcrumbs = [
             order={["zedwell-piccadilly-capsule", "zedwell-leicester-place-capsule", "st-christophers-village", "otherwander-soho", "greenhouse-capsules"]}
           />
         )}
+        {articleId === "aparthotels-london" && (
+          <ListHotels
+            list="aparthotels"
+            heading="Book an aparthotel"
+            intro="Cheapest first. Nightly rates are not shown because the ones on file have not been sampled properly - open a listing for a live price."
+          />
+        )}
         {articleId === "windowless-hotel-rooms-london" && (
           <ListHotels
             list="windowless"

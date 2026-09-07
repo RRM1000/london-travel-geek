@@ -108,6 +108,8 @@ Reviewers split harder on this than on almost anything else in London accommodat
 
 Zedwell also runs two **capsule** properties, and confusingly calls the sleeping unit in those a "Capsule Cocoon" — so the word *cocoon* appears on both products. A capsule is a berth in a shared dormitory with shared bathrooms, at roughly a third of the price of a room.
 
-**The word to look for is "Capsule" in the property name.** Our [London capsule hotels guide](/articles/pod-hotels-london/) covers those four properties in full, including what a night in one is actually like.
+**The word to look for is "Capsule" in the property name.** Our [London capsule hotels guide](/articles/pod-hotels-london/) covers those five properties in full, including what a night in one is actually like.
+
+And if the reason you are considering a windowless room is a longer stay at a lower price, compare it with an [aparthotel](/articles/aparthotels-london/) first: a kitchen changes the arithmetic more than a missing window does.
 
 *Rates sampled on Hotels.com for one adult across five dates on 7 September 2026. Fees, room sizes and policies from Zedwell's own room pages and FAQ on the same date. Prices change nightly — always check your own dates.*
