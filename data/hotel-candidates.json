@@ -7,69 +7,431 @@
   "type": "aparthotel - Locke, Native, Cheval, Supercity, Staycity, Wilde, Adagio, Roomzzz"
  },
  "aparthotels": [
-  { "name": "Leman Locke", "area": "Aldgate", "brand": "locke", "status": "candidate" },
-  { "name": "Bermonds Locke", "area": "Tower Bridge", "brand": "locke", "status": "candidate" },
-  { "name": "Ember Locke Kensington", "area": "Kensington", "brand": "locke", "status": "candidate" },
-  { "name": "Buckle Street Studios by Locke", "area": "Aldgate", "brand": "locke", "status": "candidate" },
-  { "name": "Locke London Canary Wharf", "area": "Canary Wharf", "brand": "locke", "status": "candidate" },
-  { "name": "Kingsland Locke", "area": "Dalston", "brand": "locke", "status": "candidate", "note": "The sheet's staycity-dalston row currently resolves to this property's url - one of them is wrong and it needs untangling before either is linked." },
-  { "name": "Native Bankside", "area": "South Bank", "brand": "native", "status": "candidate" },
-  { "name": "Native Hyde Park", "area": "Bayswater", "brand": "native", "status": "candidate" },
-  { "name": "Native Mayfair", "area": "Mayfair", "brand": "native", "status": "candidate" },
-  { "name": "Native King's Wardrobe, St Paul's", "area": "City of London", "brand": "native", "status": "candidate" },
-  { "name": "Native Waterloo", "area": "Waterloo", "brand": "native", "status": "candidate" },
-  { "name": "Native Fulham Broadway", "area": "Fulham", "brand": "native", "status": "candidate", "note": "Fulham is not yet in HOODS." },
-  { "name": "Cheval Three Quays at the Tower of London", "area": "City of London", "brand": "cheval", "status": "candidate" },
-  { "name": "Cheval Gloucester Park at Kensington", "area": "South Kensington", "brand": "cheval", "status": "candidate" },
-  { "name": "Cheval Phoenix House at Sloane Square", "area": "Chelsea", "brand": "cheval", "status": "candidate" },
-  { "name": "The Rosebery by Supercity Aparthotels", "area": "Islington", "brand": "supercity", "status": "candidate" },
-  { "name": "Templeton Place by Supercity Aparthotels", "area": "Earl's Court", "brand": "supercity", "status": "candidate", "note": "Earl's Court is not yet in HOODS." },
-  { "name": "The Chronicle by Supercity Aparthotels", "area": "City of London", "brand": "supercity", "status": "candidate" },
-  { "name": "Staycity Aparthotels London Greenwich High Road", "area": "Greenwich", "brand": "staycity", "status": "candidate" },
-  { "name": "Staycity Aparthotels London Deptford Bridge", "area": "Deptford", "brand": "staycity", "status": "candidate", "note": "Deptford is not yet in HOODS." },
-  { "name": "Wilde Aparthotels London Covent Garden", "area": "Covent Garden", "brand": "wilde", "status": "candidate" },
-  { "name": "Wilde Aparthotels London Paddington", "area": "Paddington", "brand": "wilde", "status": "candidate" },
-  { "name": "Wilde Aparthotels by Staycity The Strand", "area": "Covent Garden", "brand": "wilde", "status": "candidate" },
-  { "name": "Aparthotel Adagio London Stratford", "area": "Stratford", "brand": "adagio", "status": "candidate" },
-  { "name": "Aparthotel Adagio London Sutton Point", "area": "Sutton", "brand": "adagio", "status": "candidate", "note": "Zone 5. Sutton is not yet in HOODS." },
-  { "name": "Roomzzz London Stratford", "area": "Stratford", "brand": "roomzzz", "status": "candidate" }
+  {
+   "name": "Leman Locke",
+   "area": "Aldgate",
+   "brand": "locke",
+   "status": "added"
+  },
+  {
+   "name": "Bermonds Locke",
+   "area": "Tower Bridge",
+   "brand": "locke",
+   "status": "added"
+  },
+  {
+   "name": "Ember Locke Kensington",
+   "area": "Kensington",
+   "brand": "locke",
+   "status": "added"
+  },
+  {
+   "name": "Buckle Street Studios by Locke",
+   "area": "Aldgate",
+   "brand": "locke",
+   "status": "added"
+  },
+  {
+   "name": "Locke London Canary Wharf",
+   "area": "Canary Wharf",
+   "brand": "locke",
+   "status": "added"
+  },
+  {
+   "name": "Kingsland Locke",
+   "area": "Dalston",
+   "brand": "locke",
+   "status": "dropped",
+   "note": "DROPPED 2026-09-07: gone from Locke's own London list. The Dalston property is now Staycity, which is why the sheet's staycity-dalston row resolves to a kingsland-locke url - that row is right and only the slug is stale."
+  },
+  {
+   "name": "Native Bankside",
+   "area": "South Bank",
+   "brand": "native",
+   "status": "candidate"
+  },
+  {
+   "name": "Native Hyde Park",
+   "area": "Bayswater",
+   "brand": "native",
+   "status": "candidate"
+  },
+  {
+   "name": "Native Mayfair",
+   "area": "Mayfair",
+   "brand": "native",
+   "status": "candidate"
+  },
+  {
+   "name": "Native King's Wardrobe, St Paul's",
+   "area": "City of London",
+   "brand": "native",
+   "status": "candidate"
+  },
+  {
+   "name": "Native Waterloo",
+   "area": "Waterloo",
+   "brand": "native",
+   "status": "candidate"
+  },
+  {
+   "name": "Native Fulham Broadway",
+   "area": "Fulham",
+   "brand": "native",
+   "status": "candidate",
+   "note": "Fulham is not yet in HOODS."
+  },
+  {
+   "name": "Cheval Three Quays at the Tower of London",
+   "area": "City of London",
+   "brand": "cheval",
+   "status": "candidate"
+  },
+  {
+   "name": "Cheval Gloucester Park at Kensington",
+   "area": "South Kensington",
+   "brand": "cheval",
+   "status": "candidate"
+  },
+  {
+   "name": "Cheval Phoenix House at Sloane Square",
+   "area": "Chelsea",
+   "brand": "cheval",
+   "status": "candidate"
+  },
+  {
+   "name": "The Rosebery by Supercity Aparthotels",
+   "area": "Islington",
+   "brand": "supercity",
+   "status": "candidate"
+  },
+  {
+   "name": "Templeton Place by Supercity Aparthotels",
+   "area": "Earl's Court",
+   "brand": "supercity",
+   "status": "candidate",
+   "note": "Earl's Court is not yet in HOODS."
+  },
+  {
+   "name": "The Chronicle by Supercity Aparthotels",
+   "area": "City of London",
+   "brand": "supercity",
+   "status": "candidate"
+  },
+  {
+   "name": "Staycity Aparthotels London Greenwich High Road",
+   "area": "Greenwich",
+   "brand": "staycity",
+   "status": "candidate"
+  },
+  {
+   "name": "Staycity Aparthotels London Deptford Bridge",
+   "area": "Deptford",
+   "brand": "staycity",
+   "status": "candidate",
+   "note": "Deptford is not yet in HOODS."
+  },
+  {
+   "name": "Wilde Aparthotels London Covent Garden",
+   "area": "Covent Garden",
+   "brand": "wilde",
+   "status": "candidate"
+  },
+  {
+   "name": "Wilde Aparthotels London Paddington",
+   "area": "Paddington",
+   "brand": "wilde",
+   "status": "candidate"
+  },
+  {
+   "name": "Wilde Aparthotels by Staycity The Strand",
+   "area": "Covent Garden",
+   "brand": "wilde",
+   "status": "candidate"
+  },
+  {
+   "name": "Aparthotel Adagio London Stratford",
+   "area": "Stratford",
+   "brand": "adagio",
+   "status": "candidate"
+  },
+  {
+   "name": "Roomzzz London Stratford",
+   "area": "Stratford",
+   "brand": "roomzzz",
+   "status": "candidate"
+  },
+  {
+   "name": "Cove by Locke Landmark Pinnacle",
+   "area": "Canary Wharf",
+   "brand": "locke",
+   "status": "added"
+  },
+  {
+   "name": "Cove by Locke Moorgate",
+   "area": "City of London",
+   "brand": "locke",
+   "status": "added"
+  },
+  {
+   "name": "Cove by Locke Cannon Street",
+   "area": "City of London",
+   "brand": "locke",
+   "status": "added"
+  },
+  {
+   "name": "SACO Holborn",
+   "area": "Holborn",
+   "brand": "locke",
+   "status": "added"
+  },
+  {
+   "name": "Cove by Locke Kensington Residences",
+   "area": "Kensington",
+   "brand": "locke",
+   "status": "candidate"
+  }
  ],
  "budget": [
-  { "name": "easyHotel London City Shoreditch", "area": "Shoreditch", "brand": "easyhotel", "status": "candidate" },
-  { "name": "easyHotel London Victoria", "area": "Victoria", "brand": "easyhotel", "status": "candidate" },
-  { "name": "easyHotel London Croydon", "area": "Croydon", "brand": "easyhotel", "status": "candidate", "note": "Zone 5. Croydon is not yet in HOODS." },
-  { "name": "easyHotel London Paddington", "area": "Paddington", "brand": "easyhotel", "status": "candidate" },
-  { "name": "Point A London Shoreditch", "area": "Shoreditch", "brand": "point-a", "status": "candidate" },
-  { "name": "Point A London Canary Wharf", "area": "Canary Wharf", "brand": "point-a", "status": "candidate" },
-  { "name": "Point A London Waterloo", "area": "Waterloo", "brand": "point-a", "status": "candidate" },
-  { "name": "Point A Kensington Olympia", "area": "Olympia", "brand": "point-a", "status": "candidate" },
-  { "name": "hub by Premier Inn London Spitalfields", "area": "Spitalfields", "brand": "premier-inn", "status": "candidate" },
-  { "name": "hub by Premier Inn London Earl's Court (West Brompton)", "area": "Earl's Court", "brand": "premier-inn", "status": "candidate" },
-  { "name": "hub by Premier Inn London Tower Bridge", "area": "Bermondsey", "brand": "premier-inn", "status": "candidate" },
-  { "name": "The Z Hotel Shoreditch", "area": "Shoreditch", "brand": "z-hotels", "status": "candidate" },
-  { "name": "The Z Hotel City", "area": "City of London", "brand": "z-hotels", "status": "candidate" },
-  { "name": "The Z Hotel Trafalgar", "area": "Whitehall", "brand": "z-hotels", "status": "candidate" },
-  { "name": "Travelodge London Central Waterloo", "area": "Waterloo", "brand": "travelodge", "status": "candidate" },
-  { "name": "Travelodge London Richmond Central", "area": "Richmond", "brand": "travelodge", "status": "candidate" },
-  { "name": "Travelodge London Docklands", "area": "Canary Wharf", "brand": "travelodge", "status": "candidate" },
-  { "name": "ibis budget London Barking", "area": "Barking", "brand": "accor", "status": "candidate", "note": "Zone 4. Barking is not yet in HOODS." }
+  {
+   "name": "easyHotel London City Shoreditch",
+   "area": "Shoreditch",
+   "brand": "easyhotel",
+   "status": "candidate"
+  },
+  {
+   "name": "easyHotel London Victoria",
+   "area": "Victoria",
+   "brand": "easyhotel",
+   "status": "candidate"
+  },
+  {
+   "name": "easyHotel London Croydon",
+   "area": "Croydon",
+   "brand": "easyhotel",
+   "status": "candidate",
+   "note": "Zone 5. Croydon is not yet in HOODS."
+  },
+  {
+   "name": "easyHotel London Paddington",
+   "area": "Paddington",
+   "brand": "easyhotel",
+   "status": "candidate"
+  },
+  {
+   "name": "Point A London Shoreditch",
+   "area": "Shoreditch",
+   "brand": "point-a",
+   "status": "candidate"
+  },
+  {
+   "name": "Point A London Canary Wharf",
+   "area": "Canary Wharf",
+   "brand": "point-a",
+   "status": "candidate"
+  },
+  {
+   "name": "Point A London Waterloo",
+   "area": "Waterloo",
+   "brand": "point-a",
+   "status": "candidate"
+  },
+  {
+   "name": "Point A Kensington Olympia",
+   "area": "Olympia",
+   "brand": "point-a",
+   "status": "candidate"
+  },
+  {
+   "name": "hub by Premier Inn London Spitalfields",
+   "area": "Spitalfields",
+   "brand": "premier-inn",
+   "status": "candidate"
+  },
+  {
+   "name": "hub by Premier Inn London Earl's Court (West Brompton)",
+   "area": "Earl's Court",
+   "brand": "premier-inn",
+   "status": "candidate"
+  },
+  {
+   "name": "hub by Premier Inn London Tower Bridge",
+   "area": "Bermondsey",
+   "brand": "premier-inn",
+   "status": "candidate"
+  },
+  {
+   "name": "The Z Hotel Shoreditch",
+   "area": "Shoreditch",
+   "brand": "z-hotels",
+   "status": "candidate"
+  },
+  {
+   "name": "The Z Hotel City",
+   "area": "City of London",
+   "brand": "z-hotels",
+   "status": "candidate"
+  },
+  {
+   "name": "The Z Hotel Trafalgar",
+   "area": "Whitehall",
+   "brand": "z-hotels",
+   "status": "candidate"
+  },
+  {
+   "name": "Travelodge London Central Waterloo",
+   "area": "Waterloo",
+   "brand": "travelodge",
+   "status": "candidate"
+  },
+  {
+   "name": "Travelodge London Richmond Central",
+   "area": "Richmond",
+   "brand": "travelodge",
+   "status": "candidate"
+  },
+  {
+   "name": "Travelodge London Docklands",
+   "area": "Canary Wharf",
+   "brand": "travelodge",
+   "status": "candidate"
+  },
+  {
+   "name": "ibis budget London Barking",
+   "area": "Barking",
+   "brand": "accor",
+   "status": "candidate",
+   "note": "Zone 4. Barking is not yet in HOODS."
+  }
  ],
  "airport": [
-  { "name": "Premier Inn London Heathrow Airport T2 & T3 - Bath Road", "area": "Heathrow", "brand": "premier-inn", "status": "candidate", "note": "Heathrow is not yet in HOODS." },
-  { "name": "Premier Inn Heathrow Airport Terminal 5", "area": "Heathrow", "brand": "premier-inn", "status": "candidate" },
-  { "name": "Staycity Aparthotels London Heathrow", "area": "Heathrow", "brand": "staycity", "status": "candidate" },
-  { "name": "ibis budget London Heathrow Central", "area": "Heathrow", "brand": "accor", "status": "candidate" },
-  { "name": "Premier Inn London Gatwick Airport A23", "area": "Gatwick", "brand": "premier-inn", "status": "candidate", "note": "Outside London. Gatwick is not yet in HOODS." }
+  {
+   "name": "Premier Inn London Heathrow Airport T2 & T3 - Bath Road",
+   "area": "Heathrow",
+   "brand": "premier-inn",
+   "status": "candidate",
+   "note": "Heathrow is not yet in HOODS."
+  },
+  {
+   "name": "Premier Inn Heathrow Airport Terminal 5",
+   "area": "Heathrow",
+   "brand": "premier-inn",
+   "status": "candidate"
+  },
+  {
+   "name": "Staycity Aparthotels London Heathrow",
+   "area": "Heathrow",
+   "brand": "staycity",
+   "status": "candidate"
+  },
+  {
+   "name": "ibis budget London Heathrow Central",
+   "area": "Heathrow",
+   "brand": "accor",
+   "status": "candidate"
+  },
+  {
+   "name": "Premier Inn London Gatwick Airport A23",
+   "area": "Gatwick",
+   "brand": "premier-inn",
+   "status": "candidate",
+   "note": "Outside London. Gatwick is not yet in HOODS."
+  }
  ],
  "day_use": {
   "_note": "Not sheet rows - source material for a day-use guide. Dayuse.co.uk lists 245 London hotels sold by the hour or half-day, £52-£245, in windows like 10am-6pm, 9am-5pm and 4pm-11pm. HotelsByDay is the second platform. Several are outer-zone properties the sheet does not otherwise reach.",
   "examples": [
-   "Novotel London Wembley", "Holiday Inn London Brentford Lock",
-   "DoubleTree by Hilton London Kingston upon Thames", "Putney Hotel",
-   "Clayton Hotel Chiswick", "Crowne Plaza London Ealing",
-   "Seraphine Hammersmith Hotel", "Hilton London Syon Park",
-   "ibis London Earls Court", "Marlin Waterloo",
-   "Leonardo Royal Hotel London Tower Bridge", "The Mandeville Hotel"
+   "Novotel London Wembley",
+   "Holiday Inn London Brentford Lock",
+   "DoubleTree by Hilton London Kingston upon Thames",
+   "Putney Hotel",
+   "Clayton Hotel Chiswick",
+   "Crowne Plaza London Ealing",
+   "Seraphine Hammersmith Hotel",
+   "Hilton London Syon Park",
+   "ibis London Earls Court",
+   "Marlin Waterloo",
+   "Leonardo Royal Hotel London Tower Bridge",
+   "The Mandeville Hotel"
+  ]
+ },
+ "transport_led": {
+  "_note": "Found 2026-09-07 by querying brands against outer areas rather than by area name, which returns flats and OYO listings. Every one is on a named line - the point is a hotel you can reach without a change, not a postcode.",
+  "north": [
+   {
+    "name": "Premier Inn London Angel Islington",
+    "line": "Northern (Angel)",
+    "status": "candidate"
+   },
+   {
+    "name": "Premier Inn London Archway",
+    "line": "Northern (Archway)",
+    "status": "candidate"
+   },
+   {
+    "name": "Maldron Hotel Finsbury Park",
+    "line": "Piccadilly, Victoria, Overground, Thameslink",
+    "status": "candidate"
+   },
+   {
+    "name": "The Wesley Camden Town",
+    "line": "Northern (Camden Town)",
+    "status": "candidate"
+   }
+  ],
+  "east": [
+   {
+    "name": "MOXY London Stratford",
+    "line": "Central, Jubilee, Elizabeth, DLR, Overground",
+    "status": "candidate"
+   },
+   {
+    "name": "Moxy London Excel",
+    "line": "Elizabeth (Custom House), DLR",
+    "status": "candidate"
+   },
+   {
+    "name": "Holiday Inn London Whitechapel",
+    "line": "Elizabeth, District, Hammersmith & City, Overground",
+    "status": "candidate"
+   },
+   {
+    "name": "Premier Inn London Woolwich Royal Arsenal",
+    "line": "Elizabeth, DLR",
+    "status": "candidate"
+   },
+   {
+    "name": "Travelodge London Woolwich",
+    "line": "Elizabeth, DLR",
+    "status": "candidate"
+   },
+   {
+    "name": "Premier Inn London Hackney",
+    "line": "Overground (Hackney Central)",
+    "status": "candidate"
+   },
+   {
+    "name": "Maldron Hotel Shoreditch",
+    "line": "Overground (Shoreditch High Street)",
+    "status": "candidate"
+   }
+  ],
+  "west": [
+   {
+    "name": "Premier Inn London Ealing",
+    "line": "Elizabeth, Central, District (Ealing Broadway)",
+    "status": "candidate"
+   },
+   {
+    "name": "MOXY London Heathrow",
+    "line": "Elizabeth, Piccadilly",
+    "status": "candidate"
+   },
+   {
+    "name": "Travelodge London Wembley",
+    "line": "Metropolitan, Jubilee, Overground",
+    "status": "candidate"
+   }
   ]
  }
 }

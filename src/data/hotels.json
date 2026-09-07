@@ -1,6 +1,6 @@
 {
  "generated": "2026-09-07",
- "count": 102,
+ "count": 111,
  "hotels": [
   {
    "slug": "astor-hyde-park",
@@ -425,6 +425,76 @@
    "affiliateNetwork": "cj"
   },
   {
+   "slug": "bermonds-locke",
+   "name": "Bermonds Locke",
+   "propertyType": "aparthotel",
+   "style": "Desert-toned studios on Tower Bridge Road",
+   "brand": "locke",
+   "chainType": "mini-chain",
+   "area": "Bermondsey",
+   "borough": "Southwark",
+   "guide": "bermondsey-area-guide",
+   "zone": "1–2",
+   "district": "South",
+   "address": "157 Tower Bridge Road",
+   "postcode": "SE1 3LW",
+   "priceBand": "££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "Studios with kitchenettes on Tower Bridge Road, ten minutes' walk from Bermondsey Street's restaurants and fifteen from Tower Bridge itself.",
+   "opNote": "The furthest of the Locke sites from a Tube station - Bermondsey on the Jubilee is about eight minutes - so it trades connectivity for space and quiet. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ],
+   "website": "https://www.lockeliving.com/en/london"
+  },
+  {
+   "slug": "buckle-street-studios",
+   "name": "Buckle Street Studios by Locke",
+   "propertyType": "aparthotel",
+   "style": "Compact studios behind Aldgate East",
+   "brand": "locke",
+   "chainType": "mini-chain",
+   "area": "Spitalfields",
+   "borough": "Tower Hamlets",
+   "guide": "shoreditch-area-guide",
+   "zone": "1",
+   "district": "East",
+   "address": "21 Buckle Street",
+   "postcode": "E1 8DB",
+   "priceBand": "££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "Locke's smaller, cheaper Aldgate address - compact studios rather than one-beds, on a quiet side street two minutes from Whitechapel's Elizabeth line platforms.",
+   "opNote": "Studios are noticeably smaller than Leman Locke's round the corner, which is the trade for the price. Same kitchenette. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ],
+   "website": "https://www.lockeliving.com/en/london"
+  },
+  {
    "slug": "citizenm-bankside",
    "name": "citizenM London Bankside",
    "propertyType": "hotel",
@@ -502,6 +572,146 @@
     "best-value"
    ],
    "website": "https://www.citizenm.com/"
+  },
+  {
+   "slug": "cove-cannon-street",
+   "name": "Cove by Locke Cannon Street",
+   "propertyType": "aparthotel",
+   "style": "Serviced apartments by St Paul's",
+   "brand": "locke",
+   "chainType": "mini-chain",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "46 Cannon Street",
+   "postcode": "EC4N 6JJ",
+   "priceBand": "££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "Five minutes from St Paul's and the Millennium Bridge, with Cannon Street and Mansion House stations either side and the free City viewpoints all walkable.",
+   "opNote": "Like the rest of the Square Mile it is quiet at weekends and short of everyday shops, which the kitchens make more of a problem than it sounds. Check Saturday rates - they are often the cheapest of the week. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ],
+   "website": "https://www.lockeliving.com/en/london"
+  },
+  {
+   "slug": "cove-landmark-pinnacle",
+   "name": "Cove by Locke Landmark Pinnacle",
+   "propertyType": "aparthotel",
+   "style": "Serviced apartments up a residential tower",
+   "brand": "locke",
+   "chainType": "mini-chain",
+   "area": "Canary Wharf",
+   "borough": "Tower Hamlets",
+   "guide": "canary-wharf-area-guide",
+   "zone": "2",
+   "district": "East",
+   "address": "15 Westferry Road",
+   "postcode": "E14 8FQ",
+   "priceBand": "££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "Apartments partway up one of Europe's tallest residential towers, with the river on one side and the Wharf on the other - the views are the point and they are genuinely hard to match at this price.",
+   "opNote": "A residential building rather than a hotel, so the front desk is a concierge and the neighbours live there. Full kitchens rather than kitchenettes. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ],
+   "website": "https://www.lockeliving.com/en/london"
+  },
+  {
+   "slug": "cove-moorgate",
+   "name": "Cove by Locke Moorgate",
+   "propertyType": "aparthotel",
+   "style": "Serviced apartments in the Square Mile",
+   "brand": "locke",
+   "chainType": "mini-chain",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "71 Moorgate",
+   "postcode": "EC2R 6BH",
+   "priceBand": "££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "Apartments on Moorgate itself, a minute from the station's Elizabeth line platforms and ten minutes' walk from both Liverpool Street and the Barbican.",
+   "opNote": "Weekday-business territory, so weekend rates are usually the softer ones - the opposite of most of London. Full kitchens. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ],
+   "website": "https://www.lockeliving.com/en/london"
+  },
+  {
+   "slug": "ember-locke",
+   "name": "Ember Locke Kensington",
+   "propertyType": "aparthotel",
+   "style": "1970s-styled studios on Cromwell Road",
+   "brand": "locke",
+   "chainType": "mini-chain",
+   "area": "Earl's Court",
+   "borough": "Kensington and Chelsea",
+   "guide": "kensington-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "202-220 Cromwell Road, Kensington",
+   "postcode": "SW5 0SW",
+   "priceBand": "££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "The most designed of the group - a deliberately seventies palette - on Cromwell Road between Earl's Court and Gloucester Road, which puts the three free South Kensington museums within a walk.",
+   "opNote": "Cromwell Road is a main artery and the rooms facing it get traffic noise; ask for a rear studio. District, Circle and Piccadilly lines all within five minutes. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ],
+   "website": "https://www.lockeliving.com/en/london"
   },
   {
    "slug": "hilton-london-wembley",
@@ -652,6 +862,76 @@
    "hotelsUrl": "https://uk.hotels.com/ho365724/la-gaffe-london-united-kingdom/",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho365724/la-gaffe-london-united-kingdom/",
    "affiliateNetwork": "cj"
+  },
+  {
+   "slug": "leman-locke",
+   "name": "Leman Locke",
+   "propertyType": "aparthotel",
+   "style": "Studio aparthotel with a design lobby",
+   "brand": "locke",
+   "chainType": "mini-chain",
+   "area": "Spitalfields",
+   "borough": "Tower Hamlets",
+   "guide": "shoreditch-area-guide",
+   "zone": "1",
+   "district": "East",
+   "address": "15 Leman Street, Whitechapel",
+   "postcode": "E1 8EN",
+   "priceBand": "££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "The one that started the format in London: studios with a proper kitchen, a lobby that works as a workspace by day and a bar by night, five minutes from Aldgate East and the Elizabeth line at Whitechapel.",
+   "opNote": "Every studio has a kitchenette, so this is the answer to a week in London rather than a weekend. The lobby is genuinely used by non-guests, which makes it livelier than a hotel of this size usually is. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ],
+   "website": "https://www.lockeliving.com/en/london"
+  },
+  {
+   "slug": "locke-canary-wharf",
+   "name": "Locke London Canary Wharf",
+   "propertyType": "aparthotel",
+   "style": "Studios and one-beds in the Wharf",
+   "brand": "locke",
+   "chainType": "mini-chain",
+   "area": "Canary Wharf",
+   "borough": "Tower Hamlets",
+   "guide": "canary-wharf-area-guide",
+   "zone": "2",
+   "district": "East",
+   "address": "1 Cartier Circle",
+   "postcode": "E14 5HF",
+   "priceBand": "££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "Aparthotel living inside Canary Wharf, on the Elizabeth line and the Jubilee, which puts Bond Street about fifteen minutes away and Heathrow under an hour without changing.",
+   "opNote": "The Wharf empties at weekends, which is either the appeal or the problem depending on why you are here. Kitchenettes throughout. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ],
+   "website": "https://www.lockeliving.com/en/london"
   },
   {
    "slug": "nell-gwynn-house-pods",
@@ -958,6 +1238,41 @@
     "families"
    ],
    "website": "https://www.premierinn.com/"
+  },
+  {
+   "slug": "saco-holborn",
+   "name": "SACO Holborn",
+   "propertyType": "aparthotel",
+   "style": "Serviced apartments on Lamb's Conduit Street",
+   "brand": "locke",
+   "chainType": "mini-chain",
+   "area": "Holborn",
+   "borough": "Camden",
+   "guide": "covent-garden-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Spens House, 72-84 Lamb's Conduit Street",
+   "postcode": "WC1N 3LT",
+   "priceBand": "££",
+   "breakfast": "extra",
+   "roomTypes": "Studios and apartments with kitchens",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "On Lamb's Conduit Street, which is the best short shopping street in Bloomsbury, with the British Museum ten minutes one way and Covent Garden fifteen the other.",
+   "opNote": "A quieter, more residential base than the Covent Garden postcode suggests, and one of the few addresses here where the street itself is worth the stay. NOT PRICED YET - no rate has been sampled for this row.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "long-stay"
+   ],
+   "website": "https://www.lockeliving.com/en/london"
   },
   {
    "slug": "staycity-dalston",
