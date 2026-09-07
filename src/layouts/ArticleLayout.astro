@@ -20,6 +20,7 @@ import hotelData from "../data/hotels.json";
 import hiddenLondonData from "../data/hiddenLondon.json";
 import restaurantMapData from "../data/restaurants.json";
 import AreaHotels from "../components/AreaHotels.astro";
+import ListHotels from "../components/ListHotels.astro";
 import PublicToiletsMap from "../components/PublicToiletsMap.astro";
 import ColourfulStreetsMap from "../components/ColourfulStreetsMap.astro";
 import CombineWith from "../components/CombineWith.astro";
@@ -310,6 +311,23 @@ const breadcrumbs = [
         {articleId === "public-toilets-london" && <PublicToiletsMap />}
         <slot />
         {articleId === "notting-hill-colourful-houses" && <ColourfulStreetsMap />}
+        {/* Themed accommodation guides have no area, so AreaHotels cannot reach
+            them and both pages were carrying no booking links at all. These select
+            on the sheet's `lists` column instead. */}
+        {articleId === "pod-hotels-london" && (
+          <ListHotels
+            list="capsules"
+            heading="Book a capsule"
+            intro="Cheapest first. Ranges are what we saw across five sampled dates, not a quote for your night."
+          />
+        )}
+        {articleId === "windowless-hotel-rooms-london" && (
+          <ListHotels
+            list="windowless"
+            heading="Book a windowless room"
+            intro="Cheapest first. Ranges are what we saw across five sampled dates, not a quote for your night."
+          />
+        )}
         {area && <AreaMap articleId={articleId} areaName={area.name} />}
         {area && <AreaEvents articleId={articleId} areaName={area.name} />}
         {area && <AreaActivities articleId={articleId} areaName={area.name} />}

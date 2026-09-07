@@ -245,7 +245,7 @@ const ROWS = [
     goodFor: "solo, couples, budget",
     website: "https://zedwellhotels.com/locations/london/park-lane/park-lane-hotel/",
     hotelsUrl: "https://uk.hotels.com/ho3951567264/zedwell-underground-hotel-park-lane/",
-    lists: "budget, pods",
+    lists: "budget, windowless",
     source: "Zedwell's own locations page, 2026-09-06. Address and station walk from their FAQ. UNPRICED ON PURPOSE: checked on Hotels.com 2026-09-07 across five dates (4 Oct, 10 Oct, 12 Dec 2026, 10 Feb, 10 Apr 2027) plus 10 Nov 2026, and the room list came back empty every time. Postcode W1K 7TP and the 'Cocoon 2, No Windows' room label are from that listing.",
   },
   {
@@ -263,7 +263,7 @@ const ROWS = [
     goodFor: "couples, solo, budget",
     website: "https://zedwellhotels.com/locations/london/knightsbridge/knightsbridge-hotel/",
     hotelsUrl: "https://uk.hotels.com/ho3603629376/zedwell-knightsbridge/",
-    lists: "budget, pods",
+    lists: "budget, windowless",
     source: "Zedwell's own Knightsbridge FAQ, 2026-09-06: address, room type, en-suite. RE-SAMPLED 2026-09-07. Range from five dates sampled on 2026-09-07 (quiet Sunday, Feb midweek, Oct Saturday, Dec Saturday, Apr Saturday), read off the Hotels.com room cards for one adult. One room card throughout: Cocoon 2, 7 sq m, one double, £89-£257.",
   },
   {
@@ -281,7 +281,7 @@ const ROWS = [
     goodFor: "solo, budget",
     website: "https://zedwellhotels.com/locations/london/piccadilly-circus/zedwell-capsule-hotel/",
     hotelsUrl: "https://uk.hotels.com/ho3624527296/zedwell-capsule-piccadilly/",
-    lists: "budget, pods",
+    lists: "budget, capsules",
     source: "Zedwell's own capsule-cocoons page, 2026-09-06: 'your own private space within a shared dormitory', 'our shared bathrooms'. RE-SAMPLED 2026-09-07. Range from five dates sampled on 2026-09-07 (quiet Sunday, Feb midweek, Oct Saturday, Dec Saturday, Apr Saturday), read off the Hotels.com room cards for one adult. Capsule Cocoon £33-£68, Female Capsule Cocoon £40-£75, both sleeping one. Padlock/locker/keycard detail from the same Zedwell page, 2026-09-07.",
   },
   {
@@ -298,7 +298,7 @@ const ROWS = [
     opSummary: "Shared dormitory and shared bathrooms, the same format as the Piccadilly Circus capsule site. NOT SOLD ON HOTELS.COM AT ALL - a search of the whole Zedwell brand there returns six properties and this is not one of them, so book direct. Expect the Piccadilly capsule rate of about £33 as a guide until someone checks.",
     goodFor: "solo, budget",
     website: "https://zedwellhotels.com/locations/london/leicester-place/leicester-place-capsule-hotel/",
-    lists: "budget, pods",
+    lists: "budget, capsules",
     source: "Zedwell's own locations page, 2026-09-06. UNPRICED: checked 2026-09-07 and there is no Hotels.com listing - the brand typeahead returns Piccadilly Circus, Tottenham Court Road, Greenwich, Knightsbridge, Park Lane and the Piccadilly capsule, and stops there.",
   },
 
@@ -1408,7 +1408,7 @@ const ROWS = [
     website: "https://zedwellhotels.com/locations/london/piccadilly-circus/piccadilly-circus-hotel/",
     hotelsUrl: "https://uk.hotels.com/ho1354506368/zedwell-piccadilly-london-united-kingdom/",
     signals: "3 sources: Wallpaper*, Business Traveller, Travel And Tour World",
-    lists: "budget, design, showstopper",
+    lists: "budget, design, showstopper, windowless",
     source: "Capsule pass 2026-08-20. CORRECTED 2026-09-07 on two counts. Type: this was filed 'capsule' and is a hotel - private rooms, own door, en-suite. Price: the row carried About £30, which is the separate capsule property's rate, and a first correction to About £75 was read off a comparison strip rather than a room card. Rates read off the Hotels.com room cards for 4-5 Oct 2026, 1 adult, on 2026-09-07. RE-SAMPLED 2026-09-07 across five dates because one night was not enough - it was near the bottom of the range. Range from five dates sampled on 2026-09-07 (quiet Sunday, Feb midweek, Oct Saturday, Dec Saturday, Apr Saturday), read off the Hotels.com room cards for one adult. Cocoon 1 £97-£287, Cocoon 2 £102-£291, Cocoon 3 £132-£379, Cocoon 4 £163-£466, Cocoon 6 £203-£583, Cocoon 8 £244-£699, Cocoon 12 £356-£901. Size ratios are stable to about 3% across the whole spread: Cocoon 2 is 1.01-1.05x a Cocoon 1, Cocoon 8 is 2.44-2.52x. Bed counts and cleaning interval from Zedwell's own hotel-cocoons page, same date.",
   },
   {
@@ -1427,7 +1427,7 @@ const ROWS = [
     website: "https://zedwellhotels.com/locations/london/greenwich/greenwich-hotel/",
     hotelsUrl: "https://uk.hotels.com/ho2975673280/zedwell-greenwich-london-united-kingdom/",
     signals: "1 source: named in the Greenwich accommodation guides collected; brand coverage via Wallpaper* and Business Traveller for the Piccadilly flagship",
-    lists: "budget, pods",
+    lists: "budget, windowless",
     source: "Capsule pass 2026-08-20. CORRECTED 2026-09-07: filed 'capsule', is a hotel. RE-SAMPLED 2026-09-07. Range from five dates sampled on 2026-09-07 (quiet Sunday, Feb midweek, Oct Saturday, Dec Saturday, Apr Saturday), read off the Hotels.com room cards for one adult. Cocoon 2 £66-£145 (10 sq m, one double), Cocoon 4 £117-£124 (14 sq m, two doubles) - the Cocoon 4 was sold out on three of the five dates.",
   },
   {
@@ -1447,7 +1447,7 @@ const ROWS = [
     website: "https://www.otherwander.com/",
     hotelsUrl: "https://uk.hotels.com/ho3642258240/",
     signals: "NEW OPENING - no press review yet, but multiple independent YouTube reviews within weeks of opening (a Shorts walkthrough branded 'Soho's FIRST Pod Hotel', plus a longer sit-down review), alongside early Hostelworld/Tripadvisor guest reviews.",
-    lists: "budget, pods",
+    lists: "budget, capsules",
     source: "Capsule pass 2026-08-20, prompted by the site owner flagging a Soho capsule near the Tottenham Court Road Elizabeth line entrance. VERIFIED at 91-92 Dean Street W1D 3SY. PRICE CORRECTED 2026-09-07: the row carried About £70 single and £80 double. RE-SAMPLED 2026-09-07. Range from five dates sampled on 2026-09-07 (quiet Sunday, Feb midweek, Oct Saturday, Dec Saturday, Apr Saturday), read off the Hotels.com room cards for one adult. Single nests £62-£119, double nests £98-£165 - the double rate is for the nest, sleeping two. A first pass on one date showed the lower nest a pound dearer; across five dates that reverses as often as it holds, so it was noise.",
   },
   {
@@ -1466,7 +1466,7 @@ const ROWS = [
     website: "https://zedwellhotels.com/locations/london/tottenham-court-road/tottenham-court-road-hotel/",
     hotelsUrl: "https://uk.hotels.com/ho2866214144/zedwell-underground-tottenham-court-road-london-united-kingdom/",
     signals: "3 sources: Boutique Hotel News (opening coverage), Time Out (brand coverage of the Zedwell format), plus independent YouTube reviews of the Zedwell cocoon concept; brand also covered by Wallpaper* and Business Traveller for the Piccadilly flagship.",
-    lists: "budget, design, showstopper, pods",
+    lists: "budget, design, showstopper, windowless",
     source: "Capsule pass 2026-08-20. Filed to Bloomsbury, not Soho - the address is Great Russell Street by the British Museum, despite the Tottenham Court Road name. CORRECTED 2026-09-07: filed 'capsule', is a hotel. RE-SAMPLED 2026-09-07. Range from five dates sampled on 2026-09-07 (quiet Sunday, Feb midweek, Oct Saturday, Dec Saturday, Apr Saturday), read off the Hotels.com room cards for one adult. Cocoon 1 £81-£206, Cocoon 2 £90-£214, Cocoon 2 Twin £108-£231, Cocoon 3 £117-£279, Cocoon 4 £135-£321.",
   },
   {
@@ -1502,7 +1502,7 @@ const ROWS = [
     goodFor: "solo, budget",
     hotelsUrl: "https://uk.hotels.com/ho3942735936/the-greenhouse-capules/",
     signals: "3 sources: Booking.com, Hostelz, and Dorms.com listings with a real guest-review base (7.3/10, 41 reviews) - address corrected from an earlier vague \"East London, E1\" placeholder to the confirmed 93 Roman Road, which is Bethnal Green/Bow, not Shoreditch.",
-    lists: "budget, pods",
+    lists: "budget, capsules",
     source: "Capsule pass 2026-08-20. VERIFIED 2026-08-20 - confirmed trading with a real review base; original hood/areaGuide (Shoreditch) was wrong for this address and has been corrected to Bethnal Green. PRICE CORRECTED 2026-09-07: the row carried About £30. RE-SAMPLED the same day across five dates. Range from five dates sampled on 2026-09-07 (quiet Sunday, Feb midweek, Oct Saturday, Dec Saturday, Apr Saturday), read off the Hotels.com room cards for one adult. One room card throughout, sleeping one, £42-£53. Listed on Hotels.com as 'The GreenHouse Capules' - their own spelling.",
   },
 

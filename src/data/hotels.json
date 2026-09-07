@@ -184,7 +184,7 @@
    ],
    "lists": [
     "budget",
-    "pods"
+    "capsules"
    ],
    "hotelsUrl": "https://uk.hotels.com/ho3942735936/the-greenhouse-capules/",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho3942735936/the-greenhouse-capules/",
@@ -294,7 +294,7 @@
    ],
    "lists": [
     "budget",
-    "pods"
+    "capsules"
    ],
    "website": "https://zedwellhotels.com/locations/london/piccadilly-circus/zedwell-capsule-hotel/",
    "hotelsUrl": "https://uk.hotels.com/ho3624527296/zedwell-capsule-piccadilly/",
@@ -330,7 +330,7 @@
    ],
    "lists": [
     "budget",
-    "pods"
+    "capsules"
    ],
    "website": "https://zedwellhotels.com/locations/london/leicester-place/leicester-place-capsule-hotel/"
   },
@@ -364,7 +364,7 @@
    ],
    "lists": [
     "budget",
-    "pods"
+    "windowless"
    ],
    "website": "https://zedwellhotels.com/locations/london/park-lane/park-lane-hotel/",
    "hotelsUrl": "https://uk.hotels.com/ho3951567264/zedwell-underground-hotel-park-lane/",
@@ -807,7 +807,7 @@
    ],
    "lists": [
     "budget",
-    "pods"
+    "capsules"
    ],
    "website": "https://www.otherwander.com/",
    "hotelsUrl": "https://uk.hotels.com/ho3642258240/",
@@ -1232,7 +1232,7 @@
    ],
    "lists": [
     "budget",
-    "pods"
+    "windowless"
    ],
    "website": "https://zedwellhotels.com/locations/london/greenwich/greenwich-hotel/",
    "hotelsUrl": "https://uk.hotels.com/ho2975673280/zedwell-greenwich-london-united-kingdom/",
@@ -1270,7 +1270,7 @@
    ],
    "lists": [
     "budget",
-    "pods"
+    "windowless"
    ],
    "website": "https://zedwellhotels.com/locations/london/knightsbridge/knightsbridge-hotel/",
    "hotelsUrl": "https://uk.hotels.com/ho3603629376/zedwell-knightsbridge/",
@@ -1314,7 +1314,8 @@
    "lists": [
     "budget",
     "design",
-    "showstopper"
+    "showstopper",
+    "windowless"
    ],
    "website": "https://zedwellhotels.com/locations/london/piccadilly-circus/piccadilly-circus-hotel/",
    "hotelsUrl": "https://uk.hotels.com/ho1354506368/zedwell-piccadilly-london-united-kingdom/",
@@ -1358,7 +1359,7 @@
     "budget",
     "design",
     "showstopper",
-    "pods"
+    "windowless"
    ],
    "website": "https://zedwellhotels.com/locations/london/tottenham-court-road/tottenham-court-road-hotel/",
    "hotelsUrl": "https://uk.hotels.com/ho2866214144/zedwell-underground-tottenham-court-road-london-united-kingdom/",

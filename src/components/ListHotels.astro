@@ -1,0 +1,154 @@
+---
+// Bookable property cards for a guide that is not an area guide.
+//
+// AreaHotels selects on `guide === articleId`, which only works for the 27
+// area guides. A themed guide - capsule hotels, windowless rooms - has no area,
+// so its properties were unreachable and the pages carried no booking links at
+// all. This selects on `lists` membership instead, which is why those rows
+// already carry "pods" and "budget" tags in the sheet.
+//
+// Markup, classes and disclosure copy are deliberately identical to
+// AreaHotels so the two render the same and share its stylesheet rules where
+// they overlap; only the selection and the heading differ.
+import data from "../data/hotels.json";
+
+interface Props {
+  /** Sheet `lists` value to select on, e.g. "pods". */
+  list: string;
+  heading: string;
+  /** Sentence under the heading, before the disclosure. */
+  intro: string;
+  /** Optional slug allow-list, when a list is broader than this page. */
+  only?: string[];
+}
+const { list: listName, heading, intro, only } = Astro.props as Props;
+
+type Hotel = {
+  slug: string; name: string; propertyType?: string; style?: string;
+  area?: string; station?: string; walkMin?: number;
+  priceBand?: string; typicalFrom?: string; breakfast?: string;
+  roomTypes?: string; accessibility?: string;
+  whyGo?: string; opNote?: string; lists?: string[];
+  website?: string; bookingUrl?: string;
+  affiliateUrl?: string; affiliateNetwork?: string;
+};
+
+const TYPE_LABEL: Record<string, string> = {
+  capsule: "Capsule", hostel: "Hostel", aparthotel: "Aparthotel",
+  "serviced-apartment": "Serviced apartment", boutique: "Boutique",
+  townhouse: "Townhouse", "pub-rooms": "Pub rooms", bnb: "B&B",
+};
+
+// Cheapest first, on the first number in typicalFrom. A row with no price
+// sorts last rather than first - an unpriced property is not a bargain, and
+// putting it at the top of a "cheapest first" list would say that it is.
+const priceOf = (s?: string) => {
+  const m = String(s ?? "").match(/£\s?([0-9][0-9,]*)/);
+  if (!m) return Number.POSITIVE_INFINITY;
+  const n = Number(m[1].replace(/,/g, ""));
+  return Number.isFinite(n) && n > 0 ? n : Number.POSITIVE_INFINITY;
+};
+
+const rows = (data.hotels as Hotel[])
+  .filter((h) => (h.lists ?? []).includes(listName))
+  .filter((h) => !only || only.includes(h.slug))
+  .sort((a, b) => priceOf(a.typicalFrom) - priceOf(b.typicalFrom) || a.name.localeCompare(b.name));
+
+const cards = rows.map((h) => {
+  const badges: string[] = [];
+  if (h.propertyType && TYPE_LABEL[h.propertyType]) badges.push(TYPE_LABEL[h.propertyType]);
+  if (h.breakfast === "included") badges.push("Breakfast included");
+  if (h.accessibility === "accessible-rooms" || h.accessibility === "step-free")
+    badges.push("Accessible rooms");
+  return { h, badges };
+});
+
+const hasAffiliate = rows.some((h) => h.affiliateUrl);
+---
+
+{rows.length > 0 && (
+  <section class="area-hotels">
+    <h2 id="book-a-stay">{heading}</h2>
+
+    <p class="ah-intro">
+      {intro}
+      {hasAffiliate && (
+        <span class="ah-disclosure">
+          Links marked <span class="ah-ad">ad</span> are affiliate links. If you
+          book through one we may earn a commission, at no extra cost to you. It
+          never affects what goes on this list.
+        </span>
+      )}
+    </p>
+
+    <ul class="ah-list">
+      {cards.map(({ h, badges }) => (
+        <li class="ah-item">
+          <div class="ah-head">
+            <h3>{h.name}</h3>
+            {h.priceBand && <span class="ah-price">{h.priceBand}</span>}
+            {badges.map((b) => <span class="ah-tag">{b}</span>)}
+          </div>
+
+          <p class="ah-meta">
+            {h.typicalFrom && <span>{h.typicalFrom}</span>}
+            {h.style && <span>{h.style}</span>}
+            {h.area && <span>{h.area}</span>}
+            {h.station && h.walkMin && <span>{h.walkMin} min from {h.station}</span>}
+          </p>
+
+          {h.whyGo && <p class="ah-why">{h.whyGo}</p>}
+
+          {(h.bookingUrl || h.affiliateUrl || h.website) && (
+            <p class="ah-links">
+              {h.bookingUrl && (
+                <a href={h.bookingUrl} rel="nofollow noopener" target="_blank">Book direct</a>
+              )}
+              {!h.bookingUrl && h.affiliateUrl && (
+                <a href={h.affiliateUrl} rel="sponsored nofollow noopener" target="_blank" data-affiliate={h.affiliateNetwork}>
+                  Check prices<span class="ah-ad">ad</span>
+                </a>
+              )}
+              {h.website && !h.bookingUrl && (
+                <a href={h.website} rel="nofollow noopener" target="_blank">Website</a>
+              )}
+            </p>
+          )}
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
+
+<style>
+  .area-hotels { margin-block: 3rem 2rem; }
+  .ah-intro { margin: 0 0 1.25rem; color: var(--muted, #555); font-size: 0.95rem; }
+  .ah-disclosure { display: block; margin-block-start: 0.5rem; font-size: 0.85rem; }
+  .ah-list { display: grid; gap: 1rem; margin: 0; padding: 0; list-style: none; }
+  .ah-item {
+    border: 1px solid var(--rule, #e5e2dc);
+    border-radius: 10px;
+    padding: 1rem 1.15rem;
+    background: var(--card, #fff);
+  }
+  .ah-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem; }
+  .ah-head h3 { margin: 0; font-size: 1.05rem; }
+  .ah-price { font-weight: 700; color: var(--accent, #c0392b); }
+  .ah-tag, .ah-ad {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 0.12rem 0.4rem;
+    border-radius: 4px;
+    background: var(--chip, #f1efea);
+    color: var(--muted, #555);
+  }
+  .ah-ad { margin-inline-start: 0.35rem; }
+  .ah-meta {
+    display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem;
+    margin: 0.5rem 0 0; font-size: 0.9rem; color: var(--muted, #555);
+  }
+  .ah-why { margin: 0.6rem 0 0; }
+  .ah-links { display: flex; flex-wrap: wrap; gap: 1rem; margin: 0.75rem 0 0; }
+  .ah-links a { font-weight: 600; }
+</style>
