@@ -1,7 +1,9 @@
 ---
-title: "Pod Hotels in London: The Three Things That Word Means"
+title: "Pod Hotels in London: Which One Are You Actually Booking?"
 seoTitle: "London Pod Hotels 2026: Capsules vs Cocoons, Compared"
 description: "Ten pod and capsule properties in London, and the difference between a windowless private room, a capsule in a dormitory and a pod-format room — sold under one word, at prices that overlap."
+heroImage: "../../assets/articles/pod-hotels-london/zedwell-capsule-corridor.jpg"
+heroImageAlt: "A corridor of sleeping capsules at a Zedwell capsule hotel, lit strips along the floor and signage reading Cocoon 5.163-5.164 and Toilets Showers"
 publishedAt: 2026-09-06
 sites: [london]
 canonicalSite: london
@@ -14,7 +16,7 @@ faq:
   - q: "Do pod hotels have their own bathroom?"
     a: "The capsules do not, and they say so. Zedwell's own site describes its Capsule product as 'your own private space within a shared dormitory' with 'shared bathrooms' — private shower stalls with changing areas, on shared floors, mixed unless you pay for a women-only corridor. Otherwander Soho and The GreenHouse are also shared. Zedwell's hotel rooms are a separate product: their own FAQ specifies a windowless, soundproofed room with an en-suite rainfall shower."
   - q: "How much do London pod hotels cost?"
-    a: "About £30 to £80 a night. Zedwell Piccadilly Circus starts around £30, Zedwell Greenwich £35, Zedwell Tottenham Court Road £40, Nell Gwynn House in Chelsea £45, and Otherwander Soho £70 for a single pod and £80 for a double. The GreenHouse in Bow is about £30. The overlap is the problem: £30 buys a private windowless room at Piccadilly Circus and £70 buys a berth you cannot stand up in on Dean Street."
+    a: "Roughly £30 to £80 a night. These are typical starting rates recorded in August 2026, not live prices — pod hotels reprice by the night like any other hotel, and a Saturday in December will not look like this. The point is the range rather than the number: £30 buys a private windowless room at Piccadilly Circus and £70 buys a berth you cannot stand up in on Dean Street, which is the overlap worth understanding before you book."
   - q: "Are London pod hotels windowless?"
     a: "Every Zedwell is, by design rather than by accident — soundproofed, blacked out, filtered air. Two of their properties, Tottenham Court Road and Park Lane, are entirely underground, so there is no surface for a window to be in. Reviewers split hard: some call it the best sleep they have had in London, others find it oppressive and would not repeat it."
   - q: "Can you stand up in a pod?"
@@ -25,7 +27,9 @@ faq:
     a: "A capsule gives you more privacy than a dorm bed for a similar price, and less social life. Hostels have common rooms, kitchens and staff who organise things; pod hotels are deliberately places you sleep and leave. If you want to meet people, book a hostel. If you want to be left alone cheaply, book a pod."
 ---
 
-A pod gets you a bed in Zone 1 for about **£30 a night** — less than a hostel dorm three miles further out. That is the genuine, and slightly absurd, appeal.
+A pod gets you a bed in Zone 1 from about **£30 a night** — less than a hostel dorm three miles further out. That is the genuine, and slightly absurd, appeal.
+
+Prices on this page are typical starting rates from an August 2026 check rather than live quotes — treat them as a ranking, not a quote.
 
 The problem is that "pod hotel" is doing three jobs at once in London, and the prices overlap so completely that the word tells you almost nothing about what you have booked. **£30 buys a private room with a door at Piccadilly Circus. £70 buys a berth you cannot stand up in on Dean Street.** Both are advertised as pods.
 
@@ -37,6 +41,10 @@ The problem is that "pod hotel" is doing three jobs at once in London, and the p
 
 Zedwell's hotels — Piccadilly Circus, Tottenham Court Road, Greenwich, Knightsbridge and Park Lane — sell **private rooms with no window**. Roughly 7ft by 12ft, your own door, an **en-suite rainfall shower**, soundproofed walls, filtered air, a Hypnos mattress and Egyptian cotton sheets. No wardrobe, no clutter, no daylight.
 
+![A Zedwell cocoon room: a bed on a lit wooden plinth, a full-length mirror, hooks and a private door](../../assets/articles/pod-hotels-london/zedwell-cocoon-room.jpg)
+
+*A cocoon room. Small, no window, and a door of its own — this is the product people mean when they say a Zedwell is fine.*
+
 This is a small hotel room that happens to be interior. It is not a bunk and it is not shared.
 
 ### 2. A capsule in a shared dormitory
@@ -44,6 +52,10 @@ This is a small hotel room that happens to be interior. It is not a bunk and it 
 Zedwell also runs **two separate Capsule properties** — Piccadilly Circus Capsule and Leicester Place — and these are a different product entirely. Their own description is unusually honest about it: *"your own private space within a shared dormitory"*.
 
 A capsule is roughly **four feet high and four feet wide**, closed with a roller shutter rather than a door. Same mattress, same sheets, same windowless philosophy. **Bathrooms are shared** — private shower stalls with their own changing areas, on communal floors, mixed unless you pay for a women-only corridor.
+
+![Inside a sleeping capsule, a mattress and pillow in a wood-lined berth with hooks and a shelf, too low to stand in](../../assets/articles/pod-hotels-london/zedwell-capsule-interior.jpg)
+
+*Inside a capsule. There are hooks, a shelf and a shutter, and no room to stand up.*
 
 **Otherwander Soho** and **The GreenHouse Capsules** are this format too.
 
@@ -54,6 +66,10 @@ A capsule is roughly **four feet high and four feet wide**, closed with a roller
 ## Why this matters more than it should
 
 Zedwell sells products one and two **under the same brand, at Piccadilly Circus, in adjacent buildings**. There are two separate listings on the booking sites, with near-identical names, at overlapping prices.
+
+![A corridor of capsules with signage pointing to Cocoon 5.163-5.164 in one direction and Toilets and Showers in the other](../../assets/articles/pod-hotels-london/zedwell-capsule-corridor.jpg)
+
+*The capsule floors sign the way to the toilets and showers, because they are down the corridor rather than in your berth. The rooms do not need that sign.*
 
 If you book the wrong one you will arrive expecting a room with a door and find a dormitory with a roller shutter. **The word to look for is "Capsule" in the property name** — Zedwell uses it consistently, and it is the only reliable signal on the booking page.
 
