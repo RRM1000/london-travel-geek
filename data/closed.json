@@ -215,6 +215,17 @@
       "note": "DesignMyNight still lists it live in its London hot pot guide, and a 2018 Chinese-language round-up praises its ginseng and red-date broths. Already carried as status: closed on Restaurants v2 (checked 2026-09-02); added here on 2026-09-03 so it stops accruing consensus citations.",
       "source": "scripts/write-restaurants-v2.mjs row sichuan-folk, statusChecked 2026-09-02",
       "recorded": "2026-09-03"
+    },
+    "sichuan fry": {
+      "name": "Sichuan Fry",
+      "closed": "2026",
+      "detail": "Hackney fried chicken counter from the Dumpling Shack team, known for the hot Sichuan sandwich. The Infatuation's own listing marks the 2 Westgate Street site Permanently Closed.",
+      "stillRecommendedBy": [
+        "theinfatuation.com",
+        "idealmagazine.co.uk"
+      ],
+      "source": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london",
+      "recorded": "2026-09-07"
     }
   },
   "uncertain": {
