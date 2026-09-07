@@ -1280,6 +1280,14 @@
       "tier": "C",
       "name": "Larder Magazine",
       "note": "Returns HTTP 200 but the article body does not render to the fetcher - extraction yields site chrome only (trap 8). Read it in a browser."
+    },
+    "youtube.com/@GreenoEats": {
+      "name": "Greeno Eats (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@LondonsBestEats": {
+      "name": "London's Best Eats (YouTube)",
+      "tier": "D"
     }
   },
   "excludedWhy": {

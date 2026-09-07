@@ -1,0 +1,74 @@
+{
+  "cuisine": "fried-chicken",
+  "note": "",
+  "recorded": "2026-09-07",
+  "sources": [
+    {
+      "name": "TOPJAW (YouTube)",
+      "url": "https://www.youtube.com/@topjaw",
+      "scope": "fried-chicken",
+      "channel": "@topjaw",
+      "videos": [
+        {
+          "title": "The Best Fried Chicken Spots in London - ft. 6 Spots You Must Visit",
+          "url": "https://www.youtube.com/watch?v=Hc1fQrbgp9k",
+          "published": "2022-04-17"
+        }
+      ],
+      "names": [
+        "Smoking Goat",
+        "Bake Street"
+      ]
+    },
+    {
+      "name": "Greeno Eats (YouTube)",
+      "url": "https://www.youtube.com/@GreenoEats",
+      "scope": "fried-chicken",
+      "channel": "@GreenoEats",
+      "videos": [
+        {
+          "title": "Is This London's BEST Fried Chicken?",
+          "url": "https://www.youtube.com/watch?v=tT07L8hbkns",
+          "published": "2026-08-26"
+        }
+      ],
+      "names": [
+        "Good Friend Chicken"
+      ]
+    },
+    {
+      "name": "Sorted Food (YouTube)",
+      "url": "https://www.youtube.com/@SortedFood",
+      "scope": "fried-chicken",
+      "channel": "@SortedFood",
+      "videos": [
+        {
+          "title": "London's Best Fried Chicken?! (At 3 Price Points) | Sorted Food",
+          "url": "https://www.youtube.com/watch?v=b1HdgunBPns",
+          "published": "2018-06-13"
+        }
+      ],
+      "names": [
+        "On The Bab"
+      ]
+    },
+    {
+      "name": "London’s Best Eats (YouTube)",
+      "url": "https://www.youtube.com/@LondonsBestEats",
+      "scope": "fried-chicken",
+      "channel": "@LondonsBestEats",
+      "videos": [
+        {
+          "title": "I Tried Every Level of Fried Chicken in London (From Worst to Best)\"",
+          "url": "https://www.youtube.com/watch?v=In-OzzBIuU4",
+          "published": "2026-04-03"
+        }
+      ],
+      "names": [
+        "Good Friend Chicken",
+        "Chicken Valley",
+        "CheeMc"
+      ]
+    }
+  ]
+}
