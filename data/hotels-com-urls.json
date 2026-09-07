@@ -1,196 +1,217 @@
 {
- "_note": "Hotels.com property urls for the hotels in our best-read guides, found by hand. THERE IS NO PRODUCT FEED - Hotels.com's entire CJ inventory is 24 campaign links and not one is a property (see scripts/cj-product-feed.mjs), so this cannot be automated and every entry here was looked up.",
- "_storefront": "Normalised to uk.hotels.com. The ho<id> is the same on every storefront; only the domain and currency differ, and a British audience should not land on the US site.",
- "_slugs": "The slug is HISTORICAL and frequently carries a hotel's former name - Aethos is filed as nobu-hotel-shoreditch, One Hundred as ace-hotel-london-shoreditch. The id identifies the property; never match on the slug.",
- "_needsCheck": "Entries with needsCheck have two candidate listings or a rebrand and must be opened before the url goes on the sheet. A link that works but lands on the wrong or stale listing is the failure mode this file exists to prevent.",
- "nhow-london": {
-  "url": "https://uk.hotels.com/ho1100480032/nhow-london-london-united-kingdom/"
- },
- "the-hoxton-shoreditch": {
-  "url": "https://uk.hotels.com/ho49793152/the-hoxton-shoreditch-london-united-kingdom/"
- },
- "aethos-london-shoreditch": {
-  "url": "https://uk.hotels.com/ho678838/nobu-hotel-shoreditch-london-united-kingdom/",
-  "note": "Filed under its former name, Nobu Hotel Shoreditch."
- },
- "one-hundred-shoreditch": {
-  "url": "https://uk.hotels.com/ho220408/ace-hotel-london-shoreditch-london-united-kingdom/",
-  "note": "Filed under its former name, Ace Hotel London Shoreditch."
- },
- "z-hotel-shoreditch": {
-  "url": "https://uk.hotels.com/ho1140510304/"
- },
- "batty-langleys": {
-  "url": "https://uk.hotels.com/ho576491/batty-langley-s-london-united-kingdom/"
- },
- "mondrian-shoreditch": {
-  "url": "https://uk.hotels.com/ho686053/mondrian-london-shoreditch-london-united-kingdom/",
-  "note": "Slug keeps the Mondrian name; the listing and the hotel are now Virgin Hotels London-Shoreditch."
- },
- "artotel-london-hoxton": {
-  "url": "https://uk.hotels.com/ho3144158848/art-otel-london-hoxton-london-united-kingdom/",
-  "note": "CHECKED 2026-09-07. Two listings exist; this is the live one - 1,214 reviews and current prices. ho4024579520 carries the old \"Powered By Radisson Hotels\" name and is the legacy record."
- },
- "sanderson-london": {
-  "url": "https://uk.hotels.com/ho172641/sanderson-london-london-united-kingdom/"
- },
- "charlotte-street-hotel": {
-  "url": "https://uk.hotels.com/ho164601/charlotte-street-hotel-firmdale-hotels-london-united-kingdom/"
- },
- "the-laslett": {
-  "url": "https://uk.hotels.com/ho533268/the-laslett-hotel-london-united-kingdom/"
- },
- "the-portobello-hotel": {
-  "url": "https://uk.hotels.com/ho184345/the-portobello-hotel-london-united-kingdom/"
- },
- "the-pelican-notting-hill": {
-  "url": "",
-  "rejected": "NOT ON HOTELS.COM. ho682500 \"Pelican London Hotel and Residence\" is 203 Blackshaw Road SW17, in TOOTING - a different hotel five miles away. Our row is the Notting Hill pub with rooms on All Saints Road, and no Hotels.com listing for it surfaced. Left empty on purpose: no link beats a link to the wrong hotel."
- },
- "novotel-canary-wharf": {
-  "url": "https://uk.hotels.com/ho518803104/novotel-london-canary-wharf-hotel-london-united-kingdom/"
- },
- "ham-yard-hotel": {
-  "url": "https://uk.hotels.com/ho457767/ham-yard-hotel-firmdale-hotels-london-united-kingdom/"
- },
- "the-soho-hotel": {
-  "url": "https://uk.hotels.com/ho223825/the-soho-hotel-firmdale-hotels-london-united-kingdom/"
- },
- "hotel-cafe-royal": {
-  "url": "https://uk.hotels.com/ho418078/hotel-cafe-royal-london-united-kingdom/"
- },
- "broadwick-soho": {
-  "url": "https://uk.hotels.com/ho2229429984/broadwick-soho/"
- },
- "otherwander-soho": {
-  "url": "https://uk.hotels.com/ho3642258240/"
- },
- "zedwell-piccadilly-circus": {
-  "url": "https://uk.hotels.com/ho1354506368/zedwell-piccadilly-london-united-kingdom/",
-  "note": "RESOLVED 2026-09-07 by the pod research: Zedwell runs two products at Piccadilly Circus. This is the ROOMS listing, which is what this row is. The capsule dormitory is ho3624527296 and has its own row."
- },
- "artotel-battersea-power-station": {
-  "url": "https://uk.hotels.com/ho2657360576/art-otel-london-battersea-power-station-london-united-kingdom/"
- },
- "shangri-la-the-shard": {
-  "url": "https://uk.hotels.com/ho456469/shangri-la-the-shard-london-london-united-kingdom/"
- },
- "san-domenico-house": {
-  "url": "https://uk.hotels.com/ho359246/san-domenico-house-london-united-kingdom/"
- },
- "the-chelsea-townhouse": {
-  "url": "https://uk.hotels.com/ho3344782144/the-chelsea-townhouse/"
- },
- "the-cadogan-belmond": {
-  "url": "https://uk.hotels.com/ho180554/the-cadogan-a-belmond-hotel-london-london-united-kingdom/"
- },
- "astor-hyde-park": {
-  "url": "https://uk.hotels.com/ho514982784/astor-hyde-park-hostel-adults-only-london-united-kingdom/"
- },
- "_notFound": [
-  "redchurch-townhouse - no Hotels.com listing surfaced; may not be sold there",
-  "bermondsey-square-hotel - no listing surfaced",
-  "the-grafton-arms - listed as 'The Grafton Arms Pub & Rooms' but no property url returned",
-  "london-marriott-hotel-canary-wharf - no listing surfaced"
- ],
- "zedwell-piccadilly-capsule": {
-  "url": "https://uk.hotels.com/ho3624527296/zedwell-capsule-piccadilly/",
-  "note": "The CAPSULE listing - shared dormitory, shared bathrooms. Deliberately not the same as the rooms above."
- },
- "clink78": {
-  "url": "https://uk.hotels.com/ho461849/clink78-hostel-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Clink78 Hostel, London, England, United Kingdom\"."
- },
- "generator-london": {
-  "url": "https://uk.hotels.com/ho259199/generator-london-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Generator London, London, England, United Kingdom\"."
- },
- "ibis-london-wembley": {
-  "url": "https://uk.hotels.com/ho206152/ibis-london-wembley-wembley-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"ibis London Wembley, Wembley, England, United Kingdom\"."
- },
- "wombats-city-hostel-london": {
-  "url": "https://uk.hotels.com/ho494337952/wombat-s-city-hostel-london-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Wombat's City Hostel London, London, England, United Kingdom\"."
- },
- "aloft-london-excel": {
-  "url": "https://uk.hotels.com/ho375509/aloft-london-excel-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Aloft by Marriott London Excel, London, England, United Kingdom\"."
- },
- "citizenm-bankside": {
-  "url": "https://uk.hotels.com/ho462638/citizenm-london-bankside-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"citizenM London Bankside, London, England, United Kingdom\"."
- },
- "hilton-london-wembley": {
-  "url": "https://uk.hotels.com/ho403798/hilton-london-wembley-wembley-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hilton London Wembley, Wembley, England, United Kingdom\"."
- },
- "la-gaffe": {
-  "url": "https://uk.hotels.com/ho365724/la-gaffe-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"La Gaffe, London, England, United Kingdom\"."
- },
- "novotel-london-wembley": {
-  "url": "https://uk.hotels.com/ho450528/novotel-london-wembley-wembley-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Novotel London Wembley, Wembley, England, United Kingdom\"."
- },
- "nox-belsize-park": {
-  "url": "https://uk.hotels.com/ho445572/nox-hotels-belsize-park-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"NOX HOTELS - Belsize Park, London, England, United Kingdom\"."
- },
- "strand-palace": {
-  "url": "https://uk.hotels.com/ho114409/the-strand-palace-hotel-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Strand Palace Hotel, London, England, United Kingdom\"."
- },
- "georgian-house-wizard-chambers": {
-  "url": "https://uk.hotels.com/ho286134/georgian-house-hotel-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Georgian House Hotel, London, England, United Kingdom\"."
- },
- "the-grafton-arms": {
-  "url": "https://uk.hotels.com/ho732158912/the-grafton-arms-pub-rooms-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"The Grafton Arms Pub & Rooms, London, England, United Kingdom\"."
- },
- "the-pilgrm": {
-  "url": "https://uk.hotels.com/ho2233812704/the-pilgrm-hotel-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"The Pilgrm Hotel, London, England, United Kingdom\"."
- },
- "bermondsey-square-hotel": {
-  "url": "https://uk.hotels.com/ho312278/the-bermondsey-square-hotel-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"The Bermondsey Square Hotel, London, England, United Kingdom\"."
- },
- "bingham-riverhouse": {
-  "url": "https://uk.hotels.com/ho360271/bingham-riverhouse-richmond-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Bingham Riverhouse, Richmond, England, United Kingdom\"."
- },
- "doubletree-greenwich": {
-  "url": "https://uk.hotels.com/ho415605/doubletree-by-hilton-london-greenwich-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"DoubleTree by Hilton London - Greenwich, London, England, United Kingdom\"."
- },
- "hilton-london-angel-islington": {
-  "url": "https://uk.hotels.com/ho191798/hilton-london-angel-islington-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hilton London Angel Islington, London, England, United Kingdom\"."
- },
- "hilton-london-paddington": {
-  "url": "https://uk.hotels.com/ho189771/hilton-london-paddington-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hilton London Paddington, London, England, United Kingdom\"."
- },
- "hyatt-regency-stratford": {
-  "url": "https://uk.hotels.com/ho398896/holiday-inn-london-stratford-city-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hyatt Regency London Stratford, London, England, United Kingdom\"."
- },
- "locke-at-broken-wharf": {
-  "url": "https://uk.hotels.com/ho1415376800/locke-at-broken-wharf-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Locke At Broken Wharf, London, England, United Kingdom\"."
- },
- "london-marriott-canary-wharf": {
-  "url": "https://uk.hotels.com/ho219357/london-marriott-hotel-canary-wharf-london-united-kingdom/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"London Marriott Hotel Canary Wharf, London, England, United Kingdom\"."
- },
- "z-hotel-covent-garden": {
-  "url": "https://uk.hotels.com/ho3609810144/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"The Z Hotel Covent Garden, London, England, United Kingdom\"."
- },
- "hyatt-regency-london-olympia": {
-  "url": "https://uk.hotels.com/ho4020150464/",
-  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hyatt Regency London Olympia, London, England, United Kingdom\"."
- }
+  "_note": "Hotels.com property urls for the hotels in our best-read guides, found by hand. THERE IS NO PRODUCT FEED - Hotels.com's entire CJ inventory is 24 campaign links and not one is a property (see scripts/cj-product-feed.mjs), so this cannot be automated and every entry here was looked up.",
+  "_storefront": "Normalised to uk.hotels.com. The ho<id> is the same on every storefront; only the domain and currency differ, and a British audience should not land on the US site.",
+  "_slugs": "The slug is HISTORICAL and frequently carries a hotel's former name - Aethos is filed as nobu-hotel-shoreditch, One Hundred as ace-hotel-london-shoreditch. The id identifies the property; never match on the slug.",
+  "_needsCheck": "Entries with needsCheck have two candidate listings or a rebrand and must be opened before the url goes on the sheet. A link that works but lands on the wrong or stale listing is the failure mode this file exists to prevent.",
+  "_notFound": [
+    "redchurch-townhouse - no Hotels.com listing surfaced; may not be sold there",
+    "bermondsey-square-hotel - no listing surfaced",
+    "the-grafton-arms - listed as 'The Grafton Arms Pub & Rooms' but no property url returned",
+    "london-marriott-hotel-canary-wharf - no listing surfaced"
+  ],
+  "aethos-london-shoreditch": {
+    "url": "https://uk.hotels.com/ho678838/nobu-hotel-shoreditch-london-united-kingdom/",
+    "note": "Filed under its former name, Nobu Hotel Shoreditch."
+  },
+  "aloft-london-excel": {
+    "url": "https://uk.hotels.com/ho375509/aloft-london-excel-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Aloft by Marriott London Excel, London, England, United Kingdom\"."
+  },
+  "artotel-battersea-power-station": {
+    "url": "https://uk.hotels.com/ho2657360576/art-otel-london-battersea-power-station-london-united-kingdom/"
+  },
+  "artotel-london-hoxton": {
+    "url": "https://uk.hotels.com/ho3144158848/art-otel-london-hoxton-london-united-kingdom/",
+    "note": "CHECKED 2026-09-07. Two listings exist; this is the live one - 1,214 reviews and current prices. ho4024579520 carries the old \"Powered By Radisson Hotels\" name and is the legacy record."
+  },
+  "astor-hyde-park": {
+    "url": "https://uk.hotels.com/ho514982784/astor-hyde-park-hostel-adults-only-london-united-kingdom/"
+  },
+  "batty-langleys": {
+    "url": "https://uk.hotels.com/ho576491/batty-langley-s-london-united-kingdom/"
+  },
+  "bermonds-locke": {
+    "url": "https://uk.hotels.com/ho1416578304/bermonds-locke-london-united-kingdom/"
+  },
+  "bermondsey-square-hotel": {
+    "url": "https://uk.hotels.com/ho312278/the-bermondsey-square-hotel-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"The Bermondsey Square Hotel, London, England, United Kingdom\"."
+  },
+  "bingham-riverhouse": {
+    "url": "https://uk.hotels.com/ho360271/bingham-riverhouse-richmond-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Bingham Riverhouse, Richmond, England, United Kingdom\"."
+  },
+  "broadwick-soho": {
+    "url": "https://uk.hotels.com/ho2229429984/broadwick-soho/"
+  },
+  "charlotte-street-hotel": {
+    "url": "https://uk.hotels.com/ho164601/charlotte-street-hotel-firmdale-hotels-london-united-kingdom/"
+  },
+  "citizenm-bankside": {
+    "url": "https://uk.hotels.com/ho462638/citizenm-london-bankside-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"citizenM London Bankside, London, England, United Kingdom\"."
+  },
+  "clink78": {
+    "url": "https://uk.hotels.com/ho461849/clink78-hostel-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Clink78 Hostel, London, England, United Kingdom\"."
+  },
+  "doubletree-greenwich": {
+    "url": "https://uk.hotels.com/ho415605/doubletree-by-hilton-london-greenwich-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"DoubleTree by Hilton London - Greenwich, London, England, United Kingdom\"."
+  },
+  "generator-london": {
+    "url": "https://uk.hotels.com/ho259199/generator-london-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Generator London, London, England, United Kingdom\"."
+  },
+  "georgian-house-wizard-chambers": {
+    "url": "https://uk.hotels.com/ho286134/georgian-house-hotel-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Georgian House Hotel, London, England, United Kingdom\"."
+  },
+  "ham-yard-hotel": {
+    "url": "https://uk.hotels.com/ho457767/ham-yard-hotel-firmdale-hotels-london-united-kingdom/"
+  },
+  "hilton-london-angel-islington": {
+    "url": "https://uk.hotels.com/ho191798/hilton-london-angel-islington-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hilton London Angel Islington, London, England, United Kingdom\"."
+  },
+  "hilton-london-paddington": {
+    "url": "https://uk.hotels.com/ho189771/hilton-london-paddington-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hilton London Paddington, London, England, United Kingdom\"."
+  },
+  "hilton-london-wembley": {
+    "url": "https://uk.hotels.com/ho403798/hilton-london-wembley-wembley-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hilton London Wembley, Wembley, England, United Kingdom\"."
+  },
+  "hotel-cafe-royal": {
+    "url": "https://uk.hotels.com/ho418078/hotel-cafe-royal-london-united-kingdom/"
+  },
+  "hyatt-regency-london-olympia": {
+    "url": "https://uk.hotels.com/ho4020150464/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hyatt Regency London Olympia, London, England, United Kingdom\"."
+  },
+  "hyatt-regency-stratford": {
+    "url": "https://uk.hotels.com/ho398896/holiday-inn-london-stratford-city-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hyatt Regency London Stratford, London, England, United Kingdom\"."
+  },
+  "ibis-london-wembley": {
+    "url": "https://uk.hotels.com/ho206152/ibis-london-wembley-wembley-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"ibis London Wembley, Wembley, England, United Kingdom\"."
+  },
+  "la-gaffe": {
+    "url": "https://uk.hotels.com/ho365724/la-gaffe-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"La Gaffe, London, England, United Kingdom\"."
+  },
+  "leman-locke": {
+    "url": "https://uk.hotels.com/ho627465/leman-locke-london-united-kingdom/"
+  },
+  "locke-at-broken-wharf": {
+    "url": "https://uk.hotels.com/ho1415376800/locke-at-broken-wharf-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Locke At Broken Wharf, London, England, United Kingdom\"."
+  },
+  "london-marriott-canary-wharf": {
+    "url": "https://uk.hotels.com/ho219357/london-marriott-hotel-canary-wharf-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"London Marriott Hotel Canary Wharf, London, England, United Kingdom\"."
+  },
+  "mondrian-shoreditch": {
+    "url": "https://uk.hotels.com/ho686053/mondrian-london-shoreditch-london-united-kingdom/",
+    "note": "Slug keeps the Mondrian name; the listing and the hotel are now Virgin Hotels London-Shoreditch."
+  },
+  "native-bankside": {
+    "url": "https://uk.hotels.com/ho824024896/native-bankside-london-united-kingdom/"
+  },
+  "native-fulham-broadway": {
+    "url": "https://uk.hotels.com/ho4205350432/native-fulham-broadway/"
+  },
+  "native-mayfair": {
+    "url": "https://uk.hotels.com/ho484008/native-mayfair-london-united-kingdom/"
+  },
+  "nhow-london": {
+    "url": "https://uk.hotels.com/ho1100480032/nhow-london-london-united-kingdom/"
+  },
+  "novotel-canary-wharf": {
+    "url": "https://uk.hotels.com/ho518803104/novotel-london-canary-wharf-hotel-london-united-kingdom/"
+  },
+  "novotel-london-wembley": {
+    "url": "https://uk.hotels.com/ho450528/novotel-london-wembley-wembley-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Novotel London Wembley, Wembley, England, United Kingdom\"."
+  },
+  "nox-belsize-park": {
+    "url": "https://uk.hotels.com/ho445572/nox-hotels-belsize-park-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"NOX HOTELS - Belsize Park, London, England, United Kingdom\"."
+  },
+  "one-hundred-shoreditch": {
+    "url": "https://uk.hotels.com/ho220408/ace-hotel-london-shoreditch-london-united-kingdom/",
+    "note": "Filed under its former name, Ace Hotel London Shoreditch."
+  },
+  "otherwander-soho": {
+    "url": "https://uk.hotels.com/ho3642258240/"
+  },
+  "san-domenico-house": {
+    "url": "https://uk.hotels.com/ho359246/san-domenico-house-london-united-kingdom/"
+  },
+  "sanderson-london": {
+    "url": "https://uk.hotels.com/ho172641/sanderson-london-london-united-kingdom/"
+  },
+  "shangri-la-the-shard": {
+    "url": "https://uk.hotels.com/ho456469/shangri-la-the-shard-london-london-united-kingdom/"
+  },
+  "strand-palace": {
+    "url": "https://uk.hotels.com/ho114409/the-strand-palace-hotel-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Strand Palace Hotel, London, England, United Kingdom\"."
+  },
+  "the-cadogan-belmond": {
+    "url": "https://uk.hotels.com/ho180554/the-cadogan-a-belmond-hotel-london-london-united-kingdom/"
+  },
+  "the-chelsea-townhouse": {
+    "url": "https://uk.hotels.com/ho3344782144/the-chelsea-townhouse/"
+  },
+  "the-grafton-arms": {
+    "url": "https://uk.hotels.com/ho732158912/the-grafton-arms-pub-rooms-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"The Grafton Arms Pub & Rooms, London, England, United Kingdom\"."
+  },
+  "the-hoxton-shoreditch": {
+    "url": "https://uk.hotels.com/ho49793152/the-hoxton-shoreditch-london-united-kingdom/"
+  },
+  "the-laslett": {
+    "url": "https://uk.hotels.com/ho533268/the-laslett-hotel-london-united-kingdom/"
+  },
+  "the-pelican-notting-hill": {
+    "url": "",
+    "rejected": "NOT ON HOTELS.COM. ho682500 \"Pelican London Hotel and Residence\" is 203 Blackshaw Road SW17, in TOOTING - a different hotel five miles away. Our row is the Notting Hill pub with rooms on All Saints Road, and no Hotels.com listing for it surfaced. Left empty on purpose: no link beats a link to the wrong hotel."
+  },
+  "the-pilgrm": {
+    "url": "https://uk.hotels.com/ho2233812704/the-pilgrm-hotel-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"The Pilgrm Hotel, London, England, United Kingdom\"."
+  },
+  "the-portobello-hotel": {
+    "url": "https://uk.hotels.com/ho184345/the-portobello-hotel-london-united-kingdom/"
+  },
+  "the-soho-hotel": {
+    "url": "https://uk.hotels.com/ho223825/the-soho-hotel-firmdale-hotels-london-united-kingdom/"
+  },
+  "town-hall-hotel": {
+    "url": "https://uk.hotels.com/ho338888/town-hall-hotel-apartments-london-united-kingdom/"
+  },
+  "treehouse-hotel-london": {
+    "url": "https://uk.hotels.com/ho211452/treehouse-hotel-london-london-united-kingdom/"
+  },
+  "wombats-city-hostel-london": {
+    "url": "https://uk.hotels.com/ho494337952/wombat-s-city-hostel-london-london-united-kingdom/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Wombat's City Hostel London, London, England, United Kingdom\"."
+  },
+  "z-hotel-covent-garden": {
+    "url": "https://uk.hotels.com/ho3609810144/",
+    "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"The Z Hotel Covent Garden, London, England, United Kingdom\"."
+  },
+  "z-hotel-shoreditch": {
+    "url": "https://uk.hotels.com/ho1140510304/"
+  },
+  "zedwell-piccadilly-capsule": {
+    "url": "https://uk.hotels.com/ho3624527296/zedwell-capsule-piccadilly/",
+    "note": "The CAPSULE listing - shared dormitory, shared bathrooms. Deliberately not the same as the rooms above."
+  },
+  "zedwell-piccadilly-circus": {
+    "url": "https://uk.hotels.com/ho1354506368/zedwell-piccadilly-london-united-kingdom/",
+    "note": "RESOLVED 2026-09-07 by the pod research: Zedwell runs two products at Piccadilly Circus. This is the ROOMS listing, which is what this row is. The capsule dormitory is ho3624527296 and has its own row."
+  }
 }

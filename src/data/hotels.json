@@ -458,7 +458,10 @@
     "long-stay",
     "aparthotels"
    ],
-   "website": "https://www.lockeliving.com/en/london"
+   "website": "https://www.lockeliving.com/en/london",
+   "hotelsUrl": "https://uk.hotels.com/ho1416578304/bermonds-locke-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho1416578304/bermonds-locke-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "buckle-street-studios",
@@ -903,7 +906,10 @@
     "long-stay",
     "aparthotels"
    ],
-   "website": "https://www.lockeliving.com/en/london"
+   "website": "https://www.lockeliving.com/en/london",
+   "hotelsUrl": "https://uk.hotels.com/ho627465/leman-locke-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho627465/leman-locke-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "locke-canary-wharf",
@@ -975,7 +981,11 @@
    "lists": [
     "long-stay",
     "aparthotels"
-   ]
+   ],
+   "website": "https://nativeplaces.com/",
+   "hotelsUrl": "https://uk.hotels.com/ho4205350432/native-fulham-broadway/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho4205350432/native-fulham-broadway/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "native-hyde-park",
@@ -2493,7 +2503,11 @@
    "lists": [
     "long-stay",
     "aparthotels"
-   ]
+   ],
+   "website": "https://nativeplaces.com/",
+   "hotelsUrl": "https://uk.hotels.com/ho824024896/native-bankside-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho824024896/native-bankside-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "native-kings-wardrobe",
@@ -3168,7 +3182,8 @@
    "goodFor": [
     "couples",
     "solo"
-   ]
+   ],
+   "website": "https://thepelicanw11.com/"
   },
   {
    "slug": "the-petersham-hotel",
@@ -3426,7 +3441,10 @@
     "design",
     "showstopper"
    ],
-   "website": "https://www.townhallhotel.com/"
+   "website": "https://www.townhallhotel.com/",
+   "hotelsUrl": "https://uk.hotels.com/ho338888/town-hall-hotel-apartments-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho338888/town-hall-hotel-apartments-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "treehouse-hotel-london",
@@ -3464,7 +3482,10 @@
     "design",
     "showstopper"
    ],
-   "website": "https://www.treehousehotels.com/london"
+   "website": "https://www.treehousehotels.com/london",
+   "hotelsUrl": "https://uk.hotels.com/ho211452/treehouse-hotel-london-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho211452/treehouse-hotel-london-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "mondrian-shoreditch",
@@ -4088,7 +4109,11 @@
    "lists": [
     "long-stay",
     "aparthotels"
-   ]
+   ],
+   "website": "https://nativeplaces.com/",
+   "hotelsUrl": "https://uk.hotels.com/ho484008/native-mayfair-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho484008/native-mayfair-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "raffles-london-owo",
