@@ -1,0 +1,16 @@
+{
+  "topic": "kosher",
+  "article": "src/content/articles/best-kosher-restaurants-london.md",
+  "headTerm": "Kosher Restaurants",
+  "status": "CONFIG ONLY, NOT YET COLLECTED. Created 2026-09-07 from pizza.json. Stop for review before collecting, per the method.",
+  "note": "DRAFT IN PROGRESS - verification continuing. Method lives in .claude/skills/consensus-guide/SKILL.md. Read theViabilityVerdict FIRST: the honest finding is that this topic is a REGISTER, not a consensus. Then theAccuracyProblem, which is modelled on data/topics/halal.json and carries the same class of harm.",
+
+  "theViabilityVerdict": "DRAFT. THE TOPIC IS NOT VIABLE AS A CONSENSUS GUIDE IN THE NORMAL SHAPE. The certifier registers are solid and the editorial tier is close to empty.",
+
+  "theAccuracyProblem": "GETTING KOSHER STATUS WRONG IS NOT A RANKING ERROR, IT IS A HARM. Same class as halal. Draft - see final version below.",
+
+  "awardBodies": [],
+
+  "knownGaps": [],
+  "openVenueQuestions": []
+}
