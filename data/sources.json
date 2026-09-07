@@ -58,6 +58,9 @@
     ],
     "substitutes": {
       "guide.michelin.com": "https://en.wikipedia.org/wiki/List_of_Michelin-starred_restaurants_in_Greater_London"
+    },
+    "substituteCaveats": {
+      "guide.michelin.com": "STARS ONLY. The substitute is the list of Michelin-STARRED restaurants, so it cannot surface a Bib Gourmand - Lai Rai (Vietnamese, Peckham, Bib 2026) does not appear on it anywhere. A Bib topic querying this substitute gets nothing back and reads it as proof no award exists, which is how the Vietnamese corpus came to carry a note saying no judged award covered the topic. When a Bib matters, verify it another way and file it under guide.michelin.com regardless of which page you read it on."
     }
   },
   "excluded": [
