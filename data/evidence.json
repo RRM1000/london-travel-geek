@@ -7810,10 +7810,11 @@
     "name": "Badiani",
     "topics": [
       "activities",
+      "hot-chocolate",
       "ice-cream"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -7821,6 +7822,12 @@
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "hot-chocolate": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       },
       "ice-cream": {
@@ -7831,6 +7838,11 @@
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hot-chocolate-london"
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -7845,6 +7857,11 @@
         "tier": "C",
         "source": "Hues of Delahaye",
         "url": "https://www.huesofdelahaye.com/things-to-do-in-canary-wharf-london/"
+      },
+      {
+        "tier": "C",
+        "source": "mostlyfoodandtravel.com",
+        "url": "https://mostlyfoodandtravel.com/londons-dreamiest-hot-chocolates/"
       }
     ]
   },
@@ -7902,10 +7919,11 @@
     "name": "Black Sheep Coffee",
     "topics": [
       "activities",
-      "coffee"
+      "coffee",
+      "hot-chocolate"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
+    "sourceCount": 3,
+    "tierSpread": "C3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
@@ -7916,6 +7934,12 @@
         "hasAward": false
       },
       "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hot-chocolate": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -7932,6 +7956,11 @@
         "tier": "C",
         "source": "Coffee the Canvas",
         "url": "https://coffeethecanvas.com/best-coffee-shops-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
       }
     ]
   },
@@ -36566,11 +36595,12 @@
     "topics": [
       "british",
       "general",
-      "italian"
+      "italian",
+      "stay-outer"
     ],
-    "sourceCount": 1,
-    "tierSpread": "A1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "A1 C2",
+    "tierCount": 2,
     "hasAward": true,
     "byTopic": {
       "british": {
@@ -36590,6 +36620,12 @@
         "tierSpread": "A1",
         "tierCount": 1,
         "hasAward": true
+      },
+      "stay-outer": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -36597,6 +36633,16 @@
         "tier": "A",
         "source": "Harden's",
         "url": "https://www.hardens.com/top-100-uk-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "santorinidave.com",
+        "url": "https://santorinidave.com/elizabeth-line-hotels"
+      },
+      {
+        "tier": "C",
+        "source": "dyme.earth",
+        "url": "https://dyme.earth/blog/destinations/hotels-near-elizabeth-line-stations"
       }
     ]
   },
@@ -36770,11 +36816,12 @@
     "name": "Shoreditch",
     "topics": [
       "british",
-      "general"
+      "general",
+      "stay-outer"
     ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
-    "tierCount": 2,
+    "sourceCount": 5,
+    "tierSpread": "A1 B1 C3",
+    "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "british": {
@@ -36788,6 +36835,12 @@
         "tierSpread": "A1 B1",
         "tierCount": 2,
         "hasAward": true
+      },
+      "stay-outer": {
+        "sourceCount": 3,
+        "tierSpread": "C3",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -36800,6 +36853,21 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "goexplorelondon.com",
+        "url": "https://goexplorelondon.com/cheap-hotels-in-london-near-tube-stations/"
+      },
+      {
+        "tier": "C",
+        "source": "santorinidave.com",
+        "url": "https://santorinidave.com/elizabeth-line-hotels"
+      },
+      {
+        "tier": "C",
+        "source": "mandysadventureworld.com",
+        "url": "https://mandysadventureworld.com/cheap-places-in-london/"
       }
     ]
   },
@@ -55897,16 +55965,23 @@
   "whitechapel": {
     "name": "Whitechapel",
     "topics": [
-      "cinemas"
+      "cinemas",
+      "stay-outer"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 3,
+    "tierSpread": "C3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "cinemas": {
         "sourceCount": 1,
         "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "stay-outer": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -55916,6 +55991,16 @@
         "tier": "C",
         "source": "The Glossary",
         "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "goexplorelondon.com",
+        "url": "https://goexplorelondon.com/cheap-hotels-in-london-near-tube-stations/"
+      },
+      {
+        "tier": "C",
+        "source": "santorinidave.com",
+        "url": "https://santorinidave.com/elizabeth-line-hotels"
       }
     ]
   },
@@ -56032,14 +56117,21 @@
   "chiswick": {
     "name": "Chiswick",
     "topics": [
-      "cinemas"
+      "cinemas",
+      "stay-outer"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "stay-outer": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -56051,6 +56143,11 @@
         "tier": "C",
         "source": "The Glossary",
         "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "tourbytransit.com",
+        "url": "https://www.tourbytransit.com/london/accommodations"
       }
     ]
   },
@@ -56401,14 +56498,21 @@
   "bayswater": {
     "name": "Bayswater",
     "topics": [
-      "cinemas"
+      "cinemas",
+      "stay-outer"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "stay-outer": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -56420,6 +56524,11 @@
         "tier": "C",
         "source": "The Glossary",
         "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
+      },
+      {
+        "tier": "C",
+        "source": "goexplorelondon.com",
+        "url": "https://goexplorelondon.com/cheap-hotels-in-london-near-tube-stations/"
       }
     ]
   },
@@ -59686,11 +59795,12 @@
   "qimacafe": {
     "name": "Qima Cafe",
     "topics": [
-      "coffee"
+      "coffee",
+      "hot-chocolate"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "coffee": {
@@ -59698,9 +59808,20 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-chocolate-london"
+      },
       {
         "tier": "C",
         "source": "youtube.com/@bykayse",
@@ -62760,15 +62881,16 @@
       }
     ]
   },
-  "chinchinicecream": {
-    "name": "Chin Chin Ice Cream",
+  "chinchindessertclub": {
+    "name": "Chin Chin Dessert Club",
     "topics": [
       "dessert",
+      "hot-chocolate",
       "ice-cream"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
+    "sourceCount": 7,
+    "tierSpread": "B2 C4 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "dessert": {
@@ -62777,9 +62899,15 @@
         "tierCount": 1,
         "hasAward": false
       },
+      "hot-chocolate": {
+        "sourceCount": 6,
+        "tierSpread": "B2 C3 D1",
+        "tierCount": 3,
+        "hasAward": false
+      },
       "ice-cream": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -62787,18 +62915,40 @@
     "sources": [
       {
         "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/ice-cream"
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates",
+        "quote": "A paper cup topped with a giant orb of handmade marshmallow, blowtorched to charred, sticky decadence. Also does a vegan version with raspberry and apricot."
       },
       {
         "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/best-ice-cream-in-london"
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hot-chocolate-london",
+        "quote": "Hot chocolate £4.95, marshmallow flamed at the counter."
       },
       {
         "tier": "C",
         "source": "Wanderlust Chloe",
         "url": "https://www.wanderlustchloe.com/london-desserts-you-have-to-try/"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@Rayscafes",
+        "url": "https://www.youtube.com/@Rayscafes"
+      },
+      {
+        "tier": "C",
+        "source": "mostlyfoodandtravel.com",
+        "url": "https://mostlyfoodandtravel.com/londons-dreamiest-hot-chocolates/"
+      },
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood"
       }
     ]
   },
@@ -63155,7 +63305,8 @@
   "mayasbakehouse": {
     "name": "Maya's Bakehouse",
     "topics": [
-      "dessert"
+      "dessert",
+      "hot-chocolate"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -63163,6 +63314,12 @@
     "hasAward": false,
     "byTopic": {
       "dessert": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "hot-chocolate": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -71846,16 +72003,23 @@
   "bloomsbury": {
     "name": "Bloomsbury",
     "topics": [
-      "general"
+      "general",
+      "stay-outer"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "general": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "stay-outer": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -71865,6 +72029,16 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "tourbytransit.com",
+        "url": "https://www.tourbytransit.com/london/accommodations"
+      },
+      {
+        "tier": "C",
+        "source": "mandysadventureworld.com",
+        "url": "https://mandysadventureworld.com/cheap-places-in-london/"
       }
     ]
   },
@@ -72696,16 +72870,23 @@
   "tottenham": {
     "name": "Tottenham",
     "topics": [
-      "general"
+      "general",
+      "stay-outer"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "general": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "stay-outer": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -72715,6 +72896,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "santorinidave.com",
+        "url": "https://santorinidave.com/elizabeth-line-hotels"
       }
     ]
   },
@@ -76122,16 +76308,23 @@
   "richmond": {
     "name": "Richmond",
     "topics": [
-      "general"
+      "general",
+      "stay-outer"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "general": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "stay-outer": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -76141,6 +76334,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "roomhawk.app",
+        "url": "https://roomhawk.app/the-hawk/budget-hotels-in-london-outskirts"
       }
     ]
   },
@@ -89091,6 +89289,1078 @@
       }
     ]
   },
+  "melange": {
+    "name": "Melange",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates",
+        "quote": "Peckham, run by chocolatier Isabelle Alaya, OPEN WEEKENDS ONLY as of this list. Salted caramel is the biggest hit; white chocolate with matcha also sold."
+      }
+    ]
+  },
+  "rabot1745": {
+    "name": "Rabot 1745",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates",
+        "quote": "Hotel Chocolat's cafe overlooking Borough Market, named for a cocoa estate founded in 1745 in St Lucia. You can add a shot of St Lucian rum."
+      }
+    ]
+  },
+  "darksugarscocoahouse": {
+    "name": "Dark Sugars Cocoa House",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B2 C5 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 8,
+        "tierSpread": "B2 C5 D1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates",
+        "quote": "The scent of Ghanaian cocoa beans wafts up Brick Lane. Hot chocolate intense, in numerous flavours, covered in real shaved chocolate."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hot-chocolate-london"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@Rayscafes",
+        "url": "https://www.youtube.com/@Rayscafes"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@halalgems",
+        "url": "https://www.youtube.com/@halalgems",
+        "quote": "Films the making of the hot chocolates at the Brick Lane shop."
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@settime2588",
+        "url": "https://www.youtube.com/@settime2588",
+        "quote": "Filmed at the Shoreditch shop - CHECK WHICH BRANCH, the other sources name Brick Lane."
+      },
+      {
+        "tier": "C",
+        "source": "mostlyfoodandtravel.com",
+        "url": "https://mostlyfoodandtravel.com/londons-dreamiest-hot-chocolates/"
+      },
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood",
+        "quote": "72 kinds of chocolate all made in-house. The base is chocolate paste topped with hot milk, more froth, and three types of chocolate shavings."
+      }
+    ]
+  },
+  "farmgirl": {
+    "name": "Farm Girl",
+    "topics": [
+      "hot-chocolate",
+      "vegan"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "vegan": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-vegan-restaurants-london"
+      }
+    ]
+  },
+  "intermission": {
+    "name": "Intermission",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates"
+      }
+    ]
+  },
+  "paulayoungfinechocolates": {
+    "name": "Paul A Young Fine Chocolates",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates"
+      }
+    ]
+  },
+  "haberdashery": {
+    "name": "The Haberdashery",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates"
+      }
+    ]
+  },
+  "kapihan": {
+    "name": "Kapihan",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates"
+      }
+    ]
+  },
+  "parlouratfortnumandmason": {
+    "name": "The Parlour at Fortnum & Mason",
+    "topics": [
+      "hot-chocolate",
+      "ice-cream"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "ice-cream": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates"
+      }
+    ]
+  },
+  "cafeladivina": {
+    "name": "Cafe La Divina",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates"
+      }
+    ]
+  },
+  "italianbearchocolate": {
+    "name": "Italian Bear Chocolate",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 9,
+    "tierSpread": "B2 C6 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 9,
+        "tierSpread": "B2 C6 D1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hot-chocolate-london",
+        "quote": "Hot chocolate from £4.90."
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@Rayscafes",
+        "url": "https://www.youtube.com/@Rayscafes"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@thiswasnotwellplanned",
+        "url": "https://www.youtube.com/@thiswasnotwellplanned",
+        "quote": "41 Broadwick St, Carnaby, London W1F 9QL."
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@curlyviews",
+        "url": "https://www.youtube.com/@curlyviews",
+        "quote": "Poured triple-layered - thick, creamy and smooth."
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@onionjain9775",
+        "url": "https://www.youtube.com/@onionjain9775",
+        "quote": "Triple chocolate with cinnamon. Located Covent Garden per this source - Time Out's older page calls it Soho. CHECK THE ADDRESS."
+      },
+      {
+        "tier": "C",
+        "source": "mostlyfoodandtravel.com",
+        "url": "https://mostlyfoodandtravel.com/londons-dreamiest-hot-chocolates/"
+      },
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood",
+        "quote": "A London cafe that sells melted chocolate to drink out of decorative cups. Insider asks whether the Instagram-worthy drink is too gooey and over the top."
+      }
+    ]
+  },
+  "derosier": {
+    "name": "DeRosier",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates"
+      }
+    ]
+  },
+  "konditor": {
+    "name": "Konditor",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates"
+      }
+    ]
+  },
+  "apresfoodco": {
+    "name": "Apres Food Co",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates"
+      }
+    ]
+  },
+  "andreashotchocolate": {
+    "name": "Andrea's Hot Chocolate",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-chocolate-london"
+      },
+      {
+        "tier": "C",
+        "source": "youtube.com/@Rayscafes",
+        "url": "https://www.youtube.com/@Rayscafes"
+      }
+    ]
+  },
+  "aguamiel": {
+    "name": "Aguamiel",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-chocolate-london"
+      }
+    ]
+  },
+  "meltchocolates": {
+    "name": "Melt Chocolates",
+    "topics": [
+      "hot-chocolate",
+      "ice-cream"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "ice-cream": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-chocolate-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-ice-cream-parlours/"
+      },
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      }
+    ]
+  },
+  "knoops": {
+    "name": "Knoops",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-chocolate-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hot-chocolate-london",
+        "quote": "From £4, the customisable one - you pick the cocoa percentage."
+      },
+      {
+        "tier": "C",
+        "source": "mostlyfoodandtravel.com",
+        "url": "https://mostlyfoodandtravel.com/londons-dreamiest-hot-chocolates/"
+      },
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      }
+    ]
+  },
+  "londonchocolate": {
+    "name": "London Chocolate",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-chocolate-london"
+      }
+    ]
+  },
+  "gladwellsdeliandgrocery": {
+    "name": "Gladwell's Deli & Grocery",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-hot-chocolate-london"
+      }
+    ]
+  },
+  "mamasons": {
+    "name": "Mamasons",
+    "topics": [
+      "hot-chocolate",
+      "ice-cream"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C2 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 D1",
+        "tierCount": 3,
+        "hasAward": false
+      },
+      "ice-cream": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hot-chocolate-london",
+        "quote": "Ube hot cocoa £5."
+      },
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Messy Vegan Cook",
+        "url": "https://messyvegancook.com/more-vegan-ice-cream-options-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood"
+      }
+    ]
+  },
+  "williamcurley": {
+    "name": "William Curley",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "youtube.com/@thiswasnotwellplanned",
+        "url": "https://www.youtube.com/@thiswasnotwellplanned",
+        "quote": "33 Smith's Ct, London W1D 7DP. Their review: dark hot chocolate was a bit too sweet and milky for us."
+      }
+    ]
+  },
+  "chocolatecocktailclub": {
+    "name": "The Chocolate Cocktail Club",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hot-chocolate-london",
+        "quote": "Bottomless chocolate cocktails, £32 per person - a drinking experience rather than a cafe."
+      }
+    ]
+  },
+  "fireandfromage": {
+    "name": "Fire and Fromage",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hot-chocolate-london",
+        "quote": "Hot chocolate £5, with an optional £4 shot of Black Cow vodka."
+      }
+    ]
+  },
+  "laduree": {
+    "name": "Ladurée",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-hot-chocolate-london"
+      }
+    ]
+  },
+  "chocolatebaruk": {
+    "name": "Chocolate Bar UK",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      }
+    ]
+  },
+  "venchi": {
+    "name": "Venchi",
+    "topics": [
+      "hot-chocolate",
+      "ice-cream"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "ice-cream": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-ice-cream-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      }
+    ]
+  },
+  "abckitchens": {
+    "name": "ABC Kitchens",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      }
+    ]
+  },
+  "mercatomayfair": {
+    "name": "Mercato Mayfair",
+    "topics": [
+      "hot-chocolate",
+      "instagrammable",
+      "markets",
+      "unusual"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B1 C4",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "markets": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "unusual": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Solosophie",
+        "url": "https://www.solosophie.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Away to the City",
+        "url": "https://awaytothecity.com/unique-things-to-do-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hues of Delahaye",
+        "url": "https://www.huesofdelahaye.com/unusual-things-to-do-in-london/"
+      }
+    ]
+  },
+  "adamhandlingchocolateshop": {
+    "name": "Adam Handling Chocolate Shop",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      }
+    ]
+  },
+  "leonidas": {
+    "name": "Leonidas",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      }
+    ]
+  },
+  "urbanchocolatier": {
+    "name": "The Urban Chocolatier",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      }
+    ]
+  },
+  "fuwafuwacafe": {
+    "name": "Fuwa Fuwa Café",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      }
+    ]
+  },
+  "hotelchocolat": {
+    "name": "Hotel Chocolat",
+    "topics": [
+      "hot-chocolate"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "hot-chocolate": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "clumsygirltravels.com",
+        "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      }
+    ]
+  },
   "superthree": {
     "name": "Super Three",
     "topics": [
@@ -90571,31 +91841,6 @@
       }
     ]
   },
-  "parlouratfortnumandmason": {
-    "name": "The Parlour at Fortnum & Mason",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/best-ice-cream-in-london"
-      }
-    ]
-  },
   "oddonos": {
     "name": "Oddono's",
     "topics": [
@@ -90653,56 +91898,6 @@
         "tier": "B",
         "source": "The Sauce",
         "url": "https://thesaucemag.com/londons-best-ice-cream-parlours/"
-      }
-    ]
-  },
-  "chinchindessertclub": {
-    "name": "Chin Chin Dessert Club",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/best-ice-cream-in-london"
-      }
-    ]
-  },
-  "venchi": {
-    "name": "Venchi",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/best-ice-cream-in-london"
       }
     ]
   },
@@ -91108,6 +92303,36 @@
       }
     ]
   },
+  "chinchinicecream": {
+    "name": "Chin Chin Ice Cream",
+    "topics": [
+      "ice-cream"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "ice-cream": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/cuisines/ice-cream"
+      },
+      {
+        "tier": "B",
+        "source": "Mob",
+        "url": "https://www.mob.co.uk/life/best-ice-cream-in-london"
+      }
+    ]
+  },
   "sephorabringsitsunmissablebeautyfestivaltolondon": {
     "name": "Sephora Brings Its Unmissable Beauty Festival To London",
     "topics": [
@@ -91135,31 +92360,6 @@
   },
   "jeffersons": {
     "name": "Jefferson’s",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Sauce",
-        "url": "https://thesaucemag.com/londons-best-ice-cream-parlours/"
-      }
-    ]
-  },
-  "meltchocolates": {
-    "name": "Melt Chocolates",
     "topics": [
       "ice-cream"
     ],
@@ -91845,31 +93045,6 @@
   },
   "crosstown": {
     "name": "Crosstown",
-    "topics": [
-      "ice-cream"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Messy Vegan Cook",
-        "url": "https://messyvegancook.com/more-vegan-ice-cream-options-in-london/"
-      }
-    ]
-  },
-  "mamasons": {
-    "name": "Mamasons",
     "topics": [
       "ice-cream"
     ],
@@ -94787,60 +95962,6 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
-      }
-    ]
-  },
-  "mercatomayfair": {
-    "name": "Mercato Mayfair",
-    "topics": [
-      "instagrammable",
-      "markets",
-      "unusual"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C3",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "instagrammable": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "markets": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "unusual": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "Solosophie",
-        "url": "https://www.solosophie.com/best-markets-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Away to the City",
-        "url": "https://awaytothecity.com/unique-things-to-do-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Hues of Delahaye",
-        "url": "https://www.huesofdelahaye.com/unusual-things-to-do-in-london/"
       }
     ]
   },
@@ -126218,6 +127339,86 @@
       }
     ]
   },
+  "zedwellpiccadillycircus": {
+    "name": "Zedwell Piccadilly Circus",
+    "topics": [
+      "pods"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "pods": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/news/the-biggest-capsule-pod-hotel-in-the-world-has-just-opened-in-central-london-091925"
+      },
+      {
+        "tier": "C",
+        "source": "roomscout.co.uk",
+        "url": "https://roomscout.co.uk/guides/pod-hotel-piccadilly-circus/"
+      }
+    ]
+  },
+  "zedwellpiccadillycircuscapsule": {
+    "name": "Zedwell Piccadilly Circus Capsule",
+    "topics": [
+      "pods"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "pods": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "zedwellhotels.com",
+        "url": "https://zedwellhotels.com/capsule-cocoons/"
+      }
+    ]
+  },
+  "zedwellleicesterplacecapsule": {
+    "name": "Zedwell Leicester Place Capsule",
+    "topics": [
+      "pods"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "pods": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "zedwellhotels.com",
+        "url": "https://zedwellhotels.com/capsule-cocoons/"
+      }
+    ]
+  },
   "applebees": {
     "name": "Applebee's",
     "topics": [
@@ -129620,6 +130821,281 @@
         "tier": "C",
         "source": "London Tapas Guide",
         "url": "https://londontapasguide.wordpress.com/2026/06/16/the-complete-guide-to-londons-spanish-food-scene-in-2026/"
+      }
+    ]
+  },
+  "croydon": {
+    "name": "Croydon",
+    "topics": [
+      "stay-outer"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "stay-outer": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "roomhawk.app",
+        "url": "https://roomhawk.app/the-hawk/budget-hotels-in-london-outskirts"
+      }
+    ]
+  },
+  "watford": {
+    "name": "Watford",
+    "topics": [
+      "stay-outer"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "stay-outer": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "roomhawk.app",
+        "url": "https://roomhawk.app/the-hawk/budget-hotels-in-london-outskirts"
+      }
+    ]
+  },
+  "kingston": {
+    "name": "Kingston",
+    "topics": [
+      "stay-outer"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "stay-outer": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "roomhawk.app",
+        "url": "https://roomhawk.app/the-hawk/budget-hotels-in-london-outskirts"
+      }
+    ]
+  },
+  "wembley": {
+    "name": "Wembley",
+    "topics": [
+      "stay-outer"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "stay-outer": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "roomhawk.app",
+        "url": "https://roomhawk.app/the-hawk/budget-hotels-in-london-outskirts"
+      }
+    ]
+  },
+  "acton": {
+    "name": "Acton",
+    "topics": [
+      "stay-outer"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "stay-outer": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "goexplorelondon.com",
+        "url": "https://goexplorelondon.com/cheap-hotels-in-london-near-tube-stations/"
+      }
+    ]
+  },
+  "hammersmith": {
+    "name": "Hammersmith",
+    "topics": [
+      "stay-outer"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "stay-outer": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "goexplorelondon.com",
+        "url": "https://goexplorelondon.com/cheap-hotels-in-london-near-tube-stations/"
+      },
+      {
+        "tier": "C",
+        "source": "mandysadventureworld.com",
+        "url": "https://mandysadventureworld.com/cheap-places-in-london/"
+      }
+    ]
+  },
+  "paddington": {
+    "name": "Paddington",
+    "topics": [
+      "stay-outer"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "C3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "stay-outer": {
+        "sourceCount": 3,
+        "tierSpread": "C3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "santorinidave.com",
+        "url": "https://santorinidave.com/elizabeth-line-hotels"
+      },
+      {
+        "tier": "C",
+        "source": "mandysadventureworld.com",
+        "url": "https://mandysadventureworld.com/cheap-places-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "dyme.earth",
+        "url": "https://dyme.earth/blog/destinations/hotels-near-elizabeth-line-stations"
+      }
+    ]
+  },
+  "stratford": {
+    "name": "Stratford",
+    "topics": [
+      "stay-outer"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "C3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "stay-outer": {
+        "sourceCount": 3,
+        "tierSpread": "C3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "santorinidave.com",
+        "url": "https://santorinidave.com/elizabeth-line-hotels"
+      },
+      {
+        "tier": "C",
+        "source": "mandysadventureworld.com",
+        "url": "https://mandysadventureworld.com/cheap-places-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "dyme.earth",
+        "url": "https://dyme.earth/blog/destinations/hotels-near-elizabeth-line-stations"
+      }
+    ]
+  },
+  "greenwich": {
+    "name": "Greenwich",
+    "topics": [
+      "stay-outer"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "stay-outer": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "mandysadventureworld.com",
+        "url": "https://mandysadventureworld.com/cheap-places-in-london/"
+      }
+    ]
+  },
+  "shepherdsbush": {
+    "name": "Shepherd's Bush",
+    "topics": [
+      "stay-outer"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "stay-outer": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "mandysadventureworld.com",
+        "url": "https://mandysadventureworld.com/cheap-places-in-london/"
       }
     ]
   },
@@ -139874,31 +141350,6 @@
         "tier": "C",
         "source": "Veggies Abroad",
         "url": "https://veggiesabroad.com/vegan-london-a-royal-guide-to-the-uk-capital/"
-      }
-    ]
-  },
-  "farmgirl": {
-    "name": "Farm Girl",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-vegan-restaurants-london"
       }
     ]
   },

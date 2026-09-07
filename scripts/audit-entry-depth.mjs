@@ -73,15 +73,17 @@ const measureAll = args.includes("--all");
 // Does the entry say what you would actually eat or drink? One named item is
 // enough - the failure being caught is an entry that never mentions food at all.
 //
-// WIDENED TWICE AFTER IT MISFIRED. The first list was written while fixing the
-// breakfast guide and was breakfast-shaped, so it called a 92-word entry about
+// WIDENED THREE TIMES AFTER IT MISFIRED. The first list was written while fixing
+// the breakfast guide and was breakfast-shaped, so it called a 92-word entry about
 // lamb ribs and charcoal "NAMES NO FOOD". The second time it was Portuguese -
 // a 122-word entry naming presunto, bacalhau and pasteis de nata, none of which
-// the list knew. A check that fires on correct work
-// teaches you to ignore it, which is worse than having no check.
+// the list knew. The third was hot chocolate, 2026-09-07: the list carried
+// coffee, tea, cake and gelato but not CHOCOLATE, so a guide whose every entry
+// is about drinking chocolate scored zero food nouns. A check that fires on
+// correct work teaches you to ignore it, which is worse than having no check.
 //
 // No trailing word boundary: \\bscone\\b does not match "scones".
-const FOOD = /\b(?:(?:bacon|sausage|pancake|waffle|scone|granola|porridge|omelette|benedict|black pudding|crumpet|marmalade|preserve|clotted cream|fry-up|full english|full irish|gravy|yorkshire|pasty|bubble and squeak|bread|brioche|croissant|pastr|viennoiserie|patisserie|danish|muffin|doughnut|cookie|biscuit|sourdough|babka|cannoli|gelato|ice cream|sorbet|custard|pudding|pizza|pasta|ragu|cacio|carbonara|risotto|focaccia|burrata|mozzarella|margherita|tiramisu|gnocchi|lasagne|antipasti|steak|brisket|sirloin|ribeye|kebab|kofte|kofta|adana|shish|skewer|charcoal|ocakbasi|sweetbread|chicken|lamb|beef|pork|duck|quail|burger|sandwich|sando|butty|shawarma|doner|tantuni|lahmacun|pide|gozleme|meze|mezze|hummus|labneh|labaneh|falafel|flatbread|pitta|pita|dumpling|dim sum|har gau|har gow|siu mai|cheung fun|noodle|noodl|ramen|udon|soba|curry|curri|biryani|dosa|naan|tandoor|masala|paneer|samosa|sushi|sashimi|omakase|tempura|katsu|yakitori|kimchi|bibimbap|bulgogi|banchan|tteok|laksa|satay|rendang|congee|xiao long bao|mapo|sichuan|wonton|spring roll|jianbing|chawanmushi|tapas|jamon|croqueta|paella|tortilla|pintxo|petisco|presunto|bacalhau|pastel de nata|pasteis de nata|piri|francesinha|taco|quesadilla|mole|ceviche|guacamole|tostada|oyster|lobster|prawn|scallop|mussel|haddock|turbot|mackerel|anchov|fish|coffee|espresso|flat white|filter|matcha|cocktail|martini|negroni|sharing plates|small plates|tasting menu)|(?:pho|dal|daal|bao|rib|chop|ale|tea|dish|plate|pie|bun|cod|crab|menu|pub food|pub fare|bar snack|kitchen|carvery|ploughman|hash|mash|chip|roast|grill|liver|beer|wine|pint|toast|egg|cake|loaf|tart)s?\b)/i;
+const FOOD = /\b(?:(?:bacon|sausage|pancake|waffle|scone|granola|porridge|omelette|benedict|black pudding|crumpet|marmalade|preserve|clotted cream|fry-up|full english|full irish|gravy|yorkshire|pasty|bubble and squeak|bread|brioche|croissant|pastr|viennoiserie|patisserie|danish|muffin|doughnut|cookie|biscuit|sourdough|babka|cannoli|gelato|ice cream|sorbet|custard|pudding|pizza|pasta|ragu|cacio|carbonara|risotto|focaccia|burrata|mozzarella|margherita|tiramisu|gnocchi|lasagne|antipasti|steak|brisket|sirloin|ribeye|kebab|kofte|kofta|adana|shish|skewer|charcoal|ocakbasi|sweetbread|chicken|lamb|beef|pork|duck|quail|burger|sandwich|sando|butty|shawarma|doner|tantuni|lahmacun|pide|gozleme|meze|mezze|hummus|labneh|labaneh|falafel|flatbread|pitta|pita|dumpling|dim sum|har gau|har gow|siu mai|cheung fun|noodle|noodl|ramen|udon|soba|curry|curri|biryani|dosa|naan|tandoor|masala|paneer|samosa|sushi|sashimi|omakase|tempura|katsu|yakitori|kimchi|bibimbap|bulgogi|banchan|tteok|laksa|satay|rendang|congee|xiao long bao|mapo|sichuan|wonton|spring roll|jianbing|chawanmushi|tapas|jamon|croqueta|paella|tortilla|pintxo|petisco|presunto|bacalhau|pastel de nata|pasteis de nata|piri|francesinha|taco|quesadilla|mole|ceviche|guacamole|tostada|oyster|lobster|prawn|scallop|mussel|haddock|turbot|mackerel|anchov|fish|coffee|espresso|flat white|filter|matcha|chocolate|cocoa|ganache|truffle|marshmallow|praline|churro|cocktail|martini|negroni|sharing plates|small plates|tasting menu)|(?:pho|dal|daal|bao|rib|chop|ale|tea|dish|plate|pie|bun|cod|crab|menu|pub food|pub fare|bar snack|kitchen|carvery|ploughman|hash|mash|chip|roast|grill|liver|beer|wine|pint|toast|egg|cake|loaf|tart)s?\b)/i;
 
 const isChrome = (t) => {
   const s = t.trim();
@@ -157,7 +159,12 @@ for (const f of files) {
       w += t.split(/\s+/).filter(Boolean).length;
       // A named dish is usually bolded or carries a food noun.
       if (/\*\*[^*]+\*\*/.test(t)) hasDish = true;
-      if (/\b(book|booking|queue|walk-in|cash|opens?|closed|until|from \d|per head|£)\b/i.test(t)) hasPractical = true;
+      // £ inside the  group could never fire: a space before "£5" is not a
+      // word boundary, so the one fact this check names in its own error
+      // message - price - was undetectable. Split out, and "opening" added
+      // because opens? does not match it.
+      if (/\b(book|booking|queue|walk-in|cash|opens?|opening|closed|until|from \d|per head)\b/i.test(t)
+          || /£\d/.test(t)) hasPractical = true;
       // NAME THE FOOD. Word count alone let an entry run to 117 words about which
       // sources cited a place while never saying what you eat there.
       if (FOOD.test(t)) hasFood = true;
