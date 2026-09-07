@@ -1608,6 +1608,28 @@ const ROWS = [
     source: "All-guides pass; VERIFIED 2026-08-19 via Hot Dinners, DesignMyNight and thisissoho - opened 2024 and trading, not a forthcoming opening.",
   },
   {
+    ...base, slug: "peaky-blinders-underworld", name: "Peaky Blinders: Underworld",
+    activityType: "immersive-game", style: "Free-roam Shelby underworld with live actors",
+    chainType: "independent",
+    hood: "South Bank", borough: "Southwark", areaGuide: "south-bank-area-guide",
+    address: "Arches London Bridge",
+    agePolicy: "over-16", duration: "About an hour", groupSize: "Individual or small groups",
+    bookingRequired: "recommended", indoorOutdoor: "indoor",
+    servesFood: "no", servesAlcohol: "yes",
+    whyGo: "A recreation of the Garrison with a hidden door behind it, opening into Garrison Lane, The Bookies, Chinatown and the Small Heath Fairground - free-roam rather than a guided route, with actors in among the set instead of performing at you.",
+    angle: "room",
+    opSummary: "Opened 21 August 2026 in the railway arches, which is the right building for a show set underground. BOOK ONLINE: GBP19.95 against GBP29.95 on the door is a 33% difference for the same hour, and the biggest price gap of any immersive show in London. An hour is genuinely an hour, so it works before dinner rather than as a night out.",
+    goodFor: "groups, couples, first-time",
+    // A real booking url wins over the generated GetYourGuide search, and here
+    // it matters: the show opened three weeks ago, GetYourGuide will not stock
+    // it, and their search NEVER returns nothing - so the fallback would land a
+    // reader on unrelated London tours behind a link marked ad.
+    bookingUrl: "https://peakyblinders.london/",
+    website: "https://peakyblinders.london/",
+    lists: "activities, immersive",
+    source: "Opened 2026-08-21. Price, duration and format from peakyblinders.london plus BroadwayWorld and ianVisits coverage, 2026-09-07. NOT YET VISITED.",
+  },
+  {
     ...base, slug: "crystal-maze-live-experience", name: "The Crystal Maze LIVE Experience",
     activityType: "immersive-game", style: "Playable version of the TV show",
     chainType: "mini-chain",

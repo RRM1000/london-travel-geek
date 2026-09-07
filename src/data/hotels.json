@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06",
+ "generated": "2026-09-07",
  "count": 101,
  "hotels": [
   {
@@ -364,7 +364,10 @@
     "budget",
     "pods"
    ],
-   "website": "https://zedwellhotels.com/locations/london/piccadilly-circus/zedwell-capsule-hotel/"
+   "website": "https://zedwellhotels.com/locations/london/piccadilly-circus/zedwell-capsule-hotel/",
+   "hotelsUrl": "https://uk.hotels.com/ho3624527296/zedwell-capsule-piccadilly/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho3624527296/zedwell-capsule-piccadilly/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "zedwell-greenwich",
@@ -509,7 +512,10 @@
     "design",
     "showstopper"
    ],
-   "website": "https://zedwellhotels.com/locations/london/piccadilly-circus/piccadilly-circus-hotel/"
+   "website": "https://zedwellhotels.com/locations/london/piccadilly-circus/piccadilly-circus-hotel/",
+   "hotelsUrl": "https://uk.hotels.com/ho1354506368/zedwell-piccadilly-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho1354506368/zedwell-piccadilly-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "zedwell-tottenham-court-road",
@@ -2751,7 +2757,10 @@
     "design",
     "showstopper"
    ],
-   "website": "https://artotel.com/hotels/london/hoxton/"
+   "website": "https://artotel.com/hotels/london/hoxton/",
+   "hotelsUrl": "https://uk.hotels.com/ho3144158848/art-otel-london-hoxton-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho3144158848/art-otel-london-hoxton-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "broadwick-soho",

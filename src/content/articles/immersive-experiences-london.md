@@ -56,7 +56,7 @@ That is the actual problem with picking one. Every other guide to this subject i
 | **Hexmoor** | Cocktails | Shoreditch | £48 | Yes |
 | **The Murdér Express** | Dining | Bethnal Green | £74.50 | Encouraged |
 | **Mamma Mia! The Party** | Dining and party | North Greenwich | £120 off-peak | Dancing, not acting |
-| **Peaky Blinders: Underworld** | Attraction | London Bridge | **£19.95 online** | Some |
+| **Peaky Blinders: Underworld** | Attraction | London Bridge | **£19.95 online** | Free-roam, some |
 | **The Crystal Maze** | Gaming | Piccadilly Circus | £26.50 | **Yes — constantly** |
 | **Monopoly Lifesized** | Gaming | Fitzrovia | £54 | **Yes** |
 | **Sherlock: The Game Is Now** | Escape rooms | White City | £30 | Yes |
@@ -220,6 +220,19 @@ Two from the same stable, both built on the same idea: **you smuggle your own bo
 
 **Both 18+ with ID.** At Alcotraz, **book one of the step-free sentences — 11:30, 13:45, 16:10, 18:35 or 21:00 — if you need guaranteed accessible entry.**
 
+### Peaky Blinders: Underworld, London Bridge
+
+*From £19.95 online, £29.95 on the door · about 60 minutes · Arches London Bridge*
+
+**The newest thing on this page**, open since 21 August 2026 in the railway arches at London Bridge — which is the right building for it, because the show is set underground and the venue actually is.
+
+**You start in a recreation of the Garrison**, the Shelbys' pub, where you can buy a drink before anything begins. A hidden door then takes you down into the Underworld proper: Garrison Lane, The Bookies, Chinatown and the Small Heath Fairground, each with its own actors, puzzles and hands-on challenges.
+
+**It is free-roam rather than a guided route.** You are turned loose to explore and find things at your own pace, which suits people who like poking about and frustrates anyone waiting to be told what to do. Actors are in among the set rather than performing at you.
+
+**The price gap is the biggest on this page.** £19.95 booked online against £29.95 at the door is a 33% difference for exactly the same hour — the single easiest saving in this guide.
+
+**An hour is genuinely an hour**, so it works as an early evening thing before dinner rather than a night out on its own. London Bridge station is a couple of minutes away, which makes it the best-connected entry here.
 ### The Crystal Maze LIVE Experience, Piccadilly Circus
 
 *£26.50–£58 · strictly 9+ · about 75 minutes on your feet*

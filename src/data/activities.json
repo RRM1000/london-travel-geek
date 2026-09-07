@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-02",
- "count": 328,
+ "generated": "2026-09-07",
+ "count": 329,
  "activities": [
   {
    "slug": "skuna-bbq-boats",
@@ -1474,7 +1474,7 @@
    "lists": [
     "activities"
    ],
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=IFS%20Cloud%20Cable%20Car%20London&partner_id=WWP7I0R",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t786079?partner_id=WWP7I0R&cmp=greenwich-area-guide-activity",
    "affiliateNetwork": "getyourguide"
   },
   {
@@ -1685,7 +1685,7 @@
    "lists": [
     "activities"
    ],
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=SEA%20LIFE%20London%20Aquarium%20London&partner_id=WWP7I0R",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t174549?partner_id=WWP7I0R&cmp=south-bank-area-guide-activity",
    "affiliateNetwork": "getyourguide"
   },
   {
@@ -2577,6 +2577,39 @@
    "affiliateNetwork": "getyourguide"
   },
   {
+   "slug": "peaky-blinders-underworld",
+   "name": "Peaky Blinders: Underworld",
+   "type": "immersive-game",
+   "style": "Free-roam Shelby underworld with live actors",
+   "chainType": "independent",
+   "area": "South Bank",
+   "borough": "Southwark",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Arches London Bridge",
+   "agePolicy": "over-16",
+   "duration": "About an hour",
+   "groupSize": "Individual or small groups",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "servesFood": "no",
+   "servesAlcohol": "yes",
+   "whyGo": "A recreation of the Garrison with a hidden door behind it, opening into Garrison Lane, The Bookies, Chinatown and the Small Heath Fairground - free-roam rather than a guided route, with actors in among the set instead of performing at you.",
+   "opNote": "Opened 21 August 2026 in the railway arches, which is the right building for a show set underground. BOOK ONLINE: GBP19.95 against GBP29.95 on the door is a 33% difference for the same hour, and the biggest price gap of any immersive show in London. An hour is genuinely an hour, so it works before dinner rather than as a night out.",
+   "goodFor": [
+    "groups",
+    "couples",
+    "first-time"
+   ],
+   "lists": [
+    "activities",
+    "immersive"
+   ],
+   "website": "https://peakyblinders.london/",
+   "bookingUrl": "https://peakyblinders.london/"
+  },
+  {
    "slug": "crystal-maze-live-experience",
    "name": "The Crystal Maze LIVE Experience",
    "type": "immersive-game",
@@ -3105,7 +3138,7 @@
     "activities",
     "showstopper"
    ],
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=Churchill%20War%20Rooms%20London&partner_id=WWP7I0R",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t926494?partner_id=WWP7I0R&cmp=westminster-area-guide-activity",
    "affiliateNetwork": "getyourguide"
   },
   {
@@ -3997,7 +4030,7 @@
    "lists": [
     "activities"
    ],
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=Kensington%20Palace%20London&partner_id=WWP7I0R",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t21251?partner_id=WWP7I0R&cmp=kensington-area-guide-activity",
    "affiliateNetwork": "getyourguide"
   },
   {
@@ -8621,7 +8654,7 @@
    "lists": [
     "activities"
    ],
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=Stamford%20Bridge%20Stadium%20Tour%20London&partner_id=WWP7I0R",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t52605?partner_id=WWP7I0R",
    "affiliateNetwork": "getyourguide"
   },
   {
@@ -11077,7 +11110,7 @@
     "activities"
    ],
    "website": "https://www.thedungeons.com/london/",
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=The%20London%20Dungeon%20London&partner_id=WWP7I0R",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t174546?partner_id=WWP7I0R&cmp=south-bank-area-guide-activity",
    "affiliateNetwork": "getyourguide"
   },
   {
@@ -11187,7 +11220,7 @@
     "activities"
    ],
    "website": "https://www.rct.uk/visit/buckingham-palace",
-   "affiliateUrl": "https://www.getyourguide.com/s/?q=Buckingham%20Palace%20State%20Rooms%20London&partner_id=WWP7I0R",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t530998?partner_id=WWP7I0R&cmp=westminster-area-guide-activity",
    "affiliateNetwork": "getyourguide"
   },
   {
