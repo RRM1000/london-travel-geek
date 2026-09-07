@@ -1,6 +1,6 @@
 ---
 title: "The Best Breakfast and Brunch in London"
-seoTitle: "Best Breakfast & Brunch London 2026: 24 Places Compared"
+seoTitle: "Best Breakfast & Brunch London 2026: 30 Places Compared"
 description: "From a bacon naan roll to a 24-hour fry-up forty floors up — London breakfast and brunch, with what each costs and which need booking."
 heroImage: "../../assets/articles/best-breakfast-brunch-london/the-table-full-english.jpg"
 heroImageAlt: "A full English breakfast of fried eggs, sausage, bacon, beans, grilled tomato and a field mushroom at The Table Cafe in Southwark"

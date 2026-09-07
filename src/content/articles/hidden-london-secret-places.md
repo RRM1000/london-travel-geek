@@ -1,5 +1,5 @@
 ---
-title: "Hidden London: 18 Places Most Visitors Never Find"
+title: "Hidden London: 19 Places Most Visitors Never Find"
 seoTitle: "Hidden London 2026: Secret Places & Unusual Corners"
 description: "A wall recording ordinary people who died saving strangers, a tunnel of antique silver dealers, and a disused tram subway under Kingsway — London's hidden corners."
 heroImage: "../../assets/articles/hidden-london-secret-places/st-dunstan-in-the-east.jpg"

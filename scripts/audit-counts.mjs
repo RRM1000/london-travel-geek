@@ -32,6 +32,10 @@ const SUBSET = {
     n: 23,
     why: "plaque subjects, six of which are bullets in the Elsewhere section",
   },
+  "one-day-london-itineraries-by-interest": {
+    n: 13,
+    why: "each itinerary is an ## of its own; the two ### are stops inside the museums day",
+  },
 };
 
 const DIR = "src/content/articles";
@@ -49,6 +53,7 @@ for (const f of fs.readdirSync(DIR).filter((x) => x.endsWith(".md"))) {
   for (const field of ["title", "seoTitle"]) {
     const text = (md.match(new RegExp(`^${field}: "(.+)"$`, "m")) ?? [])[1];
     if (!text) continue;
+    const candidates = [];
 
     // Only a number that reads as a COUNT of things - "20 Chippies", "38
     // Viewpoints", "17 Rooms". A number followed by a lowercase word, a
@@ -59,9 +64,14 @@ for (const f of fs.readdirSync(DIR).filter((x) => x.endsWith(".md"))) {
       if (n < 3 || n > 200) continue;
       if (/^(hour|hours|minute|minutes|am|pm|st|nd|rd|th)$/i.test(word)) continue;
       if (/£|\$/.test(text.slice(Math.max(0, m.index - 1), m.index + 1))) continue;
-      if (n !== actual) {
-        rows.push({ slug, field, claimed: n, actual, text });
-      }
+      candidates.push(n);
+    }
+
+    // A title may legitimately carry several counts - "17 Nights, 8 Venues and
+    // 4 Festivals" is three true statements about one page. Flag it only when
+    // NONE of its numbers is the entry count, not once per number that is not.
+    if (candidates.length && !candidates.includes(actual)) {
+      rows.push({ slug, field, claimed: candidates[0], actual, text });
     }
   }
 }

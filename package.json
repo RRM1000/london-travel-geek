@@ -14,13 +14,18 @@
     "audit:depth": "node scripts/audit-entry-depth.mjs",
     "audit:sources": "node scripts/audit-source-mix.mjs",
     "audit:corpus": "node scripts/audit-corpus.mjs",
-    "audit": "npm run audit:citations && npm run audit:hub && npm run audit:overlap && npm run audit:corpus && npm run audit:sources && npm run audit:depth",
+    "audit": "node scripts/audit.mjs",
     "audit:hub": "node scripts/audit-food-hub.mjs",
     "audit:overlap": "node scripts/audit-guide-overlap.mjs",
     "audit:fresh": "node scripts/audit-freshness.mjs",
     "audit:dates": "node scripts/audit-expired-dates.mjs",
     "analytics:pull": "node scripts/pull-analytics.mjs",
-    "analytics:report": "node scripts/pull-analytics.mjs --report"
+    "analytics:report": "node scripts/pull-analytics.mjs --report",
+    "audit:links": "node scripts/audit-links.mjs",
+    "audit:counts": "node scripts/audit-counts.mjs",
+    "audit:pins": "node scripts/audit-area-pins.mjs",
+    "audit:weekly": "node scripts/audit.mjs --weekly",
+    "audit:monthly": "node scripts/audit.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.2.1",

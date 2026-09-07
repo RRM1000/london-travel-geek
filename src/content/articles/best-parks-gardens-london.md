@@ -1,6 +1,6 @@
 ---
-title: "London's Best Parks and Gardens: 16 Green Spaces"
-seoTitle: "Best Parks & Gardens London 2026: 16 Compared, Mostly Free"
+title: "London's Best Parks and Gardens: 17 Green Spaces"
+seoTitle: "Best Parks & Gardens London 2026: 17 Compared, Mostly Free"
 description: "A Wren church left as a shell and filled with vines, dinosaurs built in 1854, and a tropical conservatory inside a brutalist fly tower — London's green spaces."
 heroImage: "../../assets/articles/best-parks-gardens-london/best-parks-gardens-london.jpg"
 heroImageAlt: "Autumn colour on the trees along a path in Hyde Park"

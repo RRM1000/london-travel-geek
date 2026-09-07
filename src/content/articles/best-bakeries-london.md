@@ -1,5 +1,5 @@
 ---
-title: "The Best Bakeries in London: 23 Worth Queuing For"
+title: "The Best Bakeries in London: 24 Worth Queuing For"
 seoTitle: "Best Bakeries London 2026: Ranked by Consensus"
 description: "The ten London bakeries named among Britain's best for 2026, the queues locals actually join, and a Portuguese custard tart institution that has been on Golborne Road since 1984."
 heroImage: "../../assets/articles/best-bakeries-london/buns-from-home.jpg"

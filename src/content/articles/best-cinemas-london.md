@@ -1,5 +1,5 @@
 ---
-title: "London's Best Independent Cinemas: 19 Screens"
+title: "London's Best Independent Cinemas: 20 Screens"
 seoTitle: "Best Independent Cinemas London 2026: Repertory & Historic"
 description: "Where the Lumière brothers first showed film in Britain, a 1913 cinema Clapton crowdfunded back, and a Peckham screen where seats are £6.99."
 heroImage: "../../assets/articles/best-cinemas-london/genesis-cinema-mile-end.jpg"

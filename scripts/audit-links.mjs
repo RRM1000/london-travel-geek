@@ -128,3 +128,20 @@ show("ORPHANS - nothing links here", orphans, (r) => `${r.slug}  [${r.category}]
 show("DEAD ENDS - links to no other article", deadEnds, (r) => `${r.slug}  [${r.category}]`);
 show("NO PROSE LINKS - only the automatic sibling links", thin, (r) => `${r.slug}  [${r.category}]`);
 show("SAME PLACE, NOT LINKED", unlinkedPairs, (r) => `${r.tag}: ${r.a}  <->  ${r.b}`);
+
+// Fail on the three that are defects rather than opinions: a link to nothing,
+// a page no reader can arrive at, and a page that gives them nowhere to go.
+// A brand-new article trips the orphan check until something links to it,
+// which is the point - that is the moment to fix it, not months later.
+const blocking = broken.length + orphans.length + deadEnds.length;
+console.log(
+  blocking
+    ? `
+FAIL: ${broken.length} broken, ${orphans.length} orphan(s), ${deadEnds.length} dead end(s).`
+    : `
+OK: nothing broken, orphaned or dead-ended.` +
+      (thin.length + unlinkedPairs.length
+        ? ` ${thin.length + unlinkedPairs.length} advisory finding(s) above.`
+        : "")
+);
+process.exit(blocking ? 1 : 0);

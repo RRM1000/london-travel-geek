@@ -230,6 +230,8 @@ One place, in case you would rather scan a list than a page.
 
 **By budget, occasion and room:** [Street food](/articles/best-street-food-london/) · [Cheap eats](/articles/cheap-eats-london/) · [Special occasions](/articles/special-occasion-restaurants-london/) · [Historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/) · [Unusual restaurants](/articles/unusual-restaurants-london/) · [Rooms worth photographing](/articles/most-instagrammable-restaurants-london/) · [Markets and food halls](/articles/best-london-markets/)
 
+**By occasion and for paying less:** [Bottomless brunch](/articles/bottomless-brunch-london/) · [Restaurant deals](/articles/restaurant-deals-london/) · [Off-peak booking apps](/articles/off-peak-restaurant-apps-london/) · [Discount cards](/articles/restaurant-discount-cards-london/) · [Kids eat free](/articles/kids-eat-free-london/) · [Open on Christmas Day](/articles/christmas-day-restaurants-london/)
+
 ---
 
 *This guide is independent and contains no paid placements or sponsored listings. Every guide it links to is ranked on [how many independent sources name each venue](/how-we-rank/), not on our own visits. Checked and updated **August 2026**.*

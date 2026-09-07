@@ -77,6 +77,38 @@ Set `draft: false` when ready. If an article is made available to more than one
 site, `canonicalSite` records which publication owns the original version. Add
 canonical URL generation before publicly publishing duplicated prose.
 
+## Maintenance audits
+
+Two cadences, because content goes wrong for two different reasons.
+
+```bash
+npm run audit:weekly     # what rots on its own, with nobody editing anything
+npm run audit:monthly    # everything, including the drift that comes with new writing
+```
+
+**Weekly** catches what the calendar breaks. An article saying "opens this Saturday"
+is wrong by Monday whether or not anyone touched it, a price checked in March is a
+different price in June, and a link breaks the moment an article is renamed.
+
+| Check | Finds |
+| --- | --- |
+| `dates` | Claims that have quietly expired — a passed deadline, a closed run, a date written as though still ahead |
+| `links` | Broken internal links, articles nothing links to, articles that link nowhere |
+| `fresh` | Which guides are most at risk of being stale, ranked by how many prices they quote and how old they are |
+
+**Monthly** catches what the corpus does to itself as it grows: a new guide overlapping
+an old one, the food hub falling behind the guides it indexes, a title still claiming
+a count the page outgrew. Monthly runs the weekly three plus `counts`, `hub`, `depth`,
+`overlap`, `pins`, `sources`, `corpus`, `eat-links` and the citation verifiers.
+
+Each check is **blocking** or **advisory**. Blocking means a defect with a right answer
+and fails the run; advisory means a judgement worth reading, which is reported but does
+not fail. Run one on its own with `npm run audit -- --only=links,dates`, add `--verbose`
+to see the full output of everything rather than only the failures.
+
+A brand-new article trips the orphan check until something links to it. That is
+deliberate — the moment to wire it into the site is when you write it.
+
 ## Vercel setup
 
 Create one Vercel project per blog and connect both to this repository.
