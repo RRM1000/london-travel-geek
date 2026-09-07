@@ -101,9 +101,17 @@ That is exactly what makes it worth the walk. **Wapping Wood** runs alongside it
 
 Two kinetic bridges over Paddington Basin. Thomas Heatherwick's Rolling Bridge, installed in 2004, is twelve metres of eight hinged triangular segments that curl up into an octagon on the towpath. The Fan Bridge, by Knight Architects and finished in 2014, is twenty metres long and lifts in five separate fins like a hand fan. **Both are currently out of action.** Merchant Square's own page says the Fan Bridge is out of order and gives no return date; the Paddington Partnership says the same of the Rolling Bridge and points visitors back to Merchant Square. Almost every hidden London list still prints the timetables as though they were live — for the record, the Fan Bridge lifted Mondays, Wednesdays and Fridays at 11.30am, and never in high wind. The basin walkways are free and open at all hours, and there is nothing to book. Come for the water, the floating pocket park and the food, and treat any movement as a bonus.
 
+### Alexandra Road Estate, South Hampstead
+
 ![The stepped concrete terraces of the Alexandra Road Estate, planted with shrubs along a pedestrian street](../../assets/articles/hidden-london-secret-places/alexandra-road-terraces.jpg)
 
-*Alexandra Road in Camden - a Grade II&ast; listed concrete street with no cars on it at all. It is a public right of way and you can simply walk down it.*
+*Rowley Way. A Grade II&ast; listed concrete street with no cars on it at all, and a public right of way you can simply walk down.*
+
+Officially the Alexandra and Ainsworth Estate, and known to almost everyone as Rowley Way. Two long terraces of white concrete step back as they rise, facing each other across a pedestrian street with no road and no parking - 1970s social housing regarded well enough to be **Grade II&ast; listed**, which is rare for a council estate and rarer still for one this young.
+
+**It is one of the most filmed places in Camden**, which is what visitors half-recognise and cannot place. Eggsy lives here in *Kingsman: The Secret Service*, and the terraces turn up again and again as television shorthand for London brutalism. The residents run their own Film Group, and the estate publishes filming guidelines that describe it, in its own words, as a popular filming location.
+
+**Which is also the thing to know before you go.** The walkway is a public right of way and nobody minds you walking it, but this is housing rather than an attraction: organised filming and photography need a licence through Camden&rsquo;s FilmFixer unit, with the estate&rsquo;s Film Group signing it off. A phone snapshot on the way through is not what those rules are aimed at - a tripod and a crew is. Free, open at all hours, nothing to book.
 
 ---
 
