@@ -1,13 +1,13 @@
 {
   "cuisine": "hot-chocolate",
-  "note": "First collection pass, 7 September 2026. Config and method notes in data/topics/hot-chocolate.json. NOT YET COMPLETE - see knownGaps. Nine of the eleven voices here are video, which is over the 70% social skew that audit-source-mix.mjs flags, so this needs non-video sources before it can carry an article.",
+  "note": "Second collection pass, 7 September 2026. Config and method notes in data/topics/hot-chocolate.json. Five editorial and blog voices now against seven video, which clears the 70% social skew that audit-source-mix.mjs flags. Still no tier E - Reddit is blocked in this environment.",
   "recorded": "2026-09-07",
   "knownGaps": [
-    "SOCIAL SKEW: 9 of 11 voices are tier D video. audit-source-mix.mjs flags a topic past 70% social. Needs more editorial and independent-blog sources before writing.",
-    "Jennifer Earle (jenniferearle.substack.com) is the specialist for this topic - runs Chocolate Ecstasy Tours - and is NOT yet collected. Highest-value single addition.",
-    "Tier E (community) not collected: Reddit is blocked in this environment.",
-    "TikTok not yet run. Only the YouTube actor has been used so far.",
-    "NO JUDGED AWARD EXISTS for hot chocolate in Britain, so the source-mix floor is three independent social voices and there is nothing judged to anchor the ranking."
+    "Tier E (community) not collected: Reddit is blocked in this environment. Record threads by hand if supplied.",
+    "TikTok not run - only the YouTube actor has been used. TikTok is where this topic is most heavily filmed.",
+    "NO JUDGED AWARD EXISTS for hot chocolate in Britain, so this ranking rests on editorial and independent consensus alone, with nothing judged to anchor it.",
+    "Time Out's list is four years old and shares zero names with The Infatuation's. Every Time Out name needs a trading check before it is printed.",
+    "NO VENUE IS IN THE SHEET YET. All of these need addresses, postcodes and price bands, which means a billed Google Places run."
   ],
   "sources": [
     {
@@ -16,7 +16,24 @@
       "scope": "hot-chocolate",
       "tier": "B",
       "note": "UNORDERED listicle, no ranks carried. DATED 28 OCTOBER 2022 - four years old, and it shares ZERO names with The Infatuation's current guide. Trading status must be checked on every name before any of them reaches an article. Reached via a /blog/ten-indulgent-hot-chocolates URL that redirects here; one page, not two.",
-      "names": ["Chin Chin Dessert Club", "Melange", "Rabot 1745", "Dark Sugars Cocoa House", "Farm Girl", "Intermission", "Paul A Young Fine Chocolates", "The Haberdashery", "Kapihan", "The Parlour at Fortnum & Mason", "Cafe La Divina", "Italian Bear Chocolate", "Ruby Violet", "DeRosier", "Konditor", "Apres Food Co"],
+      "names": [
+        "Chin Chin Dessert Club",
+        "Melange",
+        "Rabot 1745",
+        "Dark Sugars Cocoa House",
+        "Farm Girl",
+        "Intermission",
+        "Paul A Young Fine Chocolates",
+        "The Haberdashery",
+        "Kapihan",
+        "The Parlour at Fortnum & Mason",
+        "Cafe La Divina",
+        "Italian Bear Chocolate",
+        "Ruby Violet",
+        "DeRosier",
+        "Konditor",
+        "Apres Food Co"
+      ],
       "quotes": {
         "Dark Sugars Cocoa House": "The scent of Ghanaian cocoa beans wafts up Brick Lane. Hot chocolate intense, in numerous flavours, covered in real shaved chocolate.",
         "Chin Chin Dessert Club": "A paper cup topped with a giant orb of handmade marshmallow, blowtorched to charred, sticky decadence. Also does a vegan version with raspberry and apricot.",
@@ -30,7 +47,16 @@
       "scope": "hot-chocolate",
       "tier": "B",
       "note": "UNORDERED, no ranks. THE FINDING OF THIS PASS: shares not one name with Time Out's 16. Two serious sources, two disjoint lists - the whole-list divergence case in the method, and almost certainly because Time Out's is four years stale.",
-      "names": ["Andrea's Hot Chocolate", "Aguamiel", "Melt Chocolates", "Knoops", "Maya's Bakehouse", "London Chocolate", "Qima Cafe", "Gladwell's Deli & Grocery"]
+      "names": [
+        "Andrea's Hot Chocolate",
+        "Aguamiel",
+        "Melt Chocolates",
+        "Knoops",
+        "Maya's Bakehouse",
+        "London Chocolate",
+        "Qima Cafe",
+        "Gladwell's Deli & Grocery"
+      ]
     },
     {
       "name": "Insider / Food Insider (YouTube)",
@@ -38,7 +64,12 @@
       "scope": "hot-chocolate",
       "tier": "D",
       "note": "ONE PUBLISHER, TWO CHANNELS, ONE SOURCE. @InsiderFood and @Insider are both Business Insider and are merged here, the same rule that makes a masthead's guide and its YouTube channel one opinion. Four relevant videos, 8.4M views on the largest. Names taken from the descriptions, not the titles.",
-      "names": ["Chin Chin Dessert Club", "Said Dal 1923", "Mamasons", "Dark Sugars Cocoa House"],
+      "names": [
+        "Chin Chin Dessert Club",
+        "Said Dal 1923",
+        "Mamasons",
+        "Dark Sugars Cocoa House"
+      ],
       "quotes": {
         "Said Dal 1923": "A London cafe that sells melted chocolate to drink out of decorative cups. Insider asks whether the Instagram-worthy drink is too gooey and over the top.",
         "Dark Sugars Cocoa House": "72 kinds of chocolate all made in-house. The base is chocolate paste topped with hot milk, more froth, and three types of chocolate shavings."
@@ -50,7 +81,12 @@
       "scope": "hot-chocolate",
       "tier": "D",
       "note": "Lists its four stops in the description under 'Featured hot chocolate spots', which is exactly where the method says to look.",
-      "names": ["Dark Sugars Cocoa House", "Italian Bear Chocolate", "Chin Chin Dessert Club", "Andrea's Hot Chocolate"]
+      "names": [
+        "Dark Sugars Cocoa House",
+        "Italian Bear Chocolate",
+        "Chin Chin Dessert Club",
+        "Andrea's Hot Chocolate"
+      ]
     },
     {
       "name": "thiswasnotwellplanned (YouTube)",
@@ -58,7 +94,10 @@
       "scope": "hot-chocolate",
       "tier": "D",
       "note": "Description carries full addresses and a per-venue verdict, which is unusually good sourcing for the tier. Description was truncated at capture - RE-READ for the stops after Italian Bear before treating this list as complete.",
-      "names": ["William Curley", "Italian Bear Chocolate"],
+      "names": [
+        "William Curley",
+        "Italian Bear Chocolate"
+      ],
       "quotes": {
         "William Curley": "33 Smith's Ct, London W1D 7DP. Their review: dark hot chocolate was a bit too sweet and milky for us.",
         "Italian Bear Chocolate": "41 Broadwick St, Carnaby, London W1F 9QL."
@@ -69,32 +108,113 @@
       "url": "https://www.youtube.com/@curlyviews",
       "scope": "hot-chocolate",
       "tier": "D",
-      "names": ["Italian Bear Chocolate"],
-      "quotes": { "Italian Bear Chocolate": "Poured triple-layered - thick, creamy and smooth." }
+      "names": [
+        "Italian Bear Chocolate"
+      ],
+      "quotes": {
+        "Italian Bear Chocolate": "Poured triple-layered - thick, creamy and smooth."
+      }
     },
     {
       "name": "Halal Gems (YouTube)",
       "url": "https://www.youtube.com/@halalgems",
       "scope": "hot-chocolate",
       "tier": "D",
-      "names": ["Dark Sugars Cocoa House"],
-      "quotes": { "Dark Sugars Cocoa House": "Films the making of the hot chocolates at the Brick Lane shop." }
+      "names": [
+        "Dark Sugars Cocoa House"
+      ],
+      "quotes": {
+        "Dark Sugars Cocoa House": "Films the making of the hot chocolates at the Brick Lane shop."
+      }
     },
     {
       "name": "settime2588 (YouTube)",
       "url": "https://www.youtube.com/@settime2588",
       "scope": "hot-chocolate",
       "tier": "D",
-      "names": ["Dark Sugars Cocoa House"],
-      "quotes": { "Dark Sugars Cocoa House": "Filmed at the Shoreditch shop - CHECK WHICH BRANCH, the other sources name Brick Lane." }
+      "names": [
+        "Dark Sugars Cocoa House"
+      ],
+      "quotes": {
+        "Dark Sugars Cocoa House": "Filmed at the Shoreditch shop - CHECK WHICH BRANCH, the other sources name Brick Lane."
+      }
     },
     {
       "name": "Onion Jain (YouTube)",
       "url": "https://www.youtube.com/@onionjain9775",
       "scope": "hot-chocolate",
       "tier": "D",
-      "names": ["Said Dal 1923"],
-      "quotes": { "Said Dal 1923": "Triple chocolate with cinnamon. Located Covent Garden per this source - Time Out's older page calls it Soho. CHECK THE ADDRESS." }
+      "names": [
+        "Said Dal 1923"
+      ],
+      "quotes": {
+        "Said Dal 1923": "Triple chocolate with cinnamon. Located Covent Garden per this source - Time Out's older page calls it Soho. CHECK THE ADDRESS."
+      }
+    },
+    {
+      "name": "Mostly Food and Travel - London's dreamiest hot chocolates",
+      "url": "https://mostlyfoodandtravel.com/londons-dreamiest-hot-chocolates/",
+      "scope": "hot-chocolate",
+      "tier": "C",
+      "note": "CARRIES THE ALIAS FINDING OF THIS PASS. Writes 'Italian Bear (previously SAID DAAL)', which if true means Italian Bear Chocolate and Said Dal 1923 are one site under two names - four citations and two citations that may be six for one venue. NOT merged; see openVenueQuestions.",
+      "names": [
+        "Knoops",
+        "Dark Sugars Cocoa House",
+        "Italian Bear Chocolate",
+        "Chin Chin Dessert Club",
+        "Badiani"
+      ]
+    },
+    {
+      "name": "DesignMyNight - Where To Find London's Best Hot Chocolate",
+      "url": "https://www.designmynight.com/london/blog/best-hot-chocolate-london",
+      "scope": "hot-chocolate",
+      "tier": "C",
+      "note": "TRAP 8 CHECKED AND PASSED. DesignMyNight contributed pure page furniture on afternoon tea and seafood and was removed from both, so this page was read before recording - it is a real guide with named venues AND published prices, organised as 'The Boozy One', 'The Ube One' and so on. Prices are the most useful thing any source here carries.",
+      "names": [
+        "The Chocolate Cocktail Club",
+        "Fire and Fromage",
+        "Chin Chin Dessert Club",
+        "Dark Sugars Cocoa House",
+        "Ladurée",
+        "Knoops",
+        "Badiani",
+        "Mamasons",
+        "Italian Bear Chocolate"
+      ],
+      "quotes": {
+        "Chin Chin Dessert Club": "Hot chocolate £4.95, marshmallow flamed at the counter.",
+        "Knoops": "From £4, the customisable one - you pick the cocoa percentage.",
+        "Mamasons": "Ube hot cocoa £5.",
+        "Italian Bear Chocolate": "Hot chocolate from £4.90.",
+        "Fire and Fromage": "Hot chocolate £5, with an optional £4 shot of Black Cow vodka.",
+        "The Chocolate Cocktail Club": "Bottomless chocolate cocktails, £32 per person - a drinking experience rather than a cafe."
+      }
+    },
+    {
+      "name": "Clumsy Girl Travels - 16 Amazing Places for Hot Chocolate in London",
+      "url": "https://clumsygirltravels.com/hot-chocolate-in-london/",
+      "scope": "hot-chocolate",
+      "tier": "C",
+      "note": "Independent travel blog, unordered. Reaches further than any other source here - Fuwa Fuwa, Leonidas, Adam Handling's chocolate shop and Mercato Mayfair appear nowhere else in this corpus. That breadth is also a reason to check each name individually rather than trusting the list wholesale.",
+      "names": [
+        "Chocolate Bar UK",
+        "Black Sheep Coffee",
+        "Chin Chin Dessert Club",
+        "Venchi",
+        "Dark Sugars Cocoa House",
+        "Mamasons",
+        "ABC Kitchens",
+        "Mercato Mayfair",
+        "Melt Chocolates",
+        "Adam Handling Chocolate Shop",
+        "Leonidas",
+        "The Urban Chocolatier",
+        "Fuwa Fuwa Café",
+        "Hotel Chocolat",
+        "Knoops",
+        "Italian Bear Chocolate"
+      ]
     }
   ],
   "declined": [
@@ -122,12 +242,21 @@
       "name": "Joshua Weissman, Tasting History, Dished, Downshiftology, BuzzFeedVideo, Les Frenchies",
       "url": "https://www.youtube.com/@JoshuaWeissman",
       "reason": "Returned by the same search but off-topic: recipes, history, instant-cocoa taste tests, and one guide to hot chocolate in PARIS. None names a London venue."
+    },
+    {
+      "name": "Jennifer Earle - The Next Delicious Thing",
+      "url": "https://jenniferearle.substack.com/p/a-new-london-chocolate-shop-3-london",
+      "reason": "THE SPECIALIST FOR THIS TOPIC AND STILL NOT USABLE. She runs Chocolate Ecstasy Tours, posts weekly, and is exactly what tier C is for - but the archive carries no hot chocolate list, and the one relevant London chocolate post is PAYWALLED and discloses a hosted visit: 'Their team invited me down to check it out.' That is the venue's own marketing wearing a writer's face, which is what tier F excludes. Re-check if she publishes an unhosted hot chocolate piece."
     }
   ],
   "openVenueQuestions": [
     "CHIN CHIN: Time Out writes 'Chin Chin Dessert Club', Insider and Rayscafe write 'Chin Chin Labs'. Recorded here under the Time Out spelling on the assumption they are one business, but this needs confirming and an alias adding - if wrong, it hands a three-source count to a venue that earned less.",
     "DARK SUGARS: named as Brick Lane by Time Out and Halal Gems, Shoreditch by settime2588. Likely two branches of one business - carry as Branches rows, not two venues.",
     "SAID DAL 1923: Covent Garden per Onion Jain, Soho per the 2015 Time Out page. Confirm the address before printing an area.",
-    "ITALIAN BEAR CHOCOLATE / 'The Italian Bear': alias needed, 41 Broadwick St W1F 9QL."
+    "ITALIAN BEAR CHOCOLATE / 'The Italian Bear': alias needed, 41 Broadwick St W1F 9QL.",
+    "ITALIAN BEAR vs SAID DAL 1923 - THE BIGGEST OPEN QUESTION HERE. Mostly Food and Travel writes 'Italian Bear (previously SAID DAAL)'. Both are on Broadwick Street in Soho - Italian Bear at number 41. If one replaced the other, four citations and two citations belong to ONE venue and the ranking changes. If they are two businesses on one street, merging would invent a six-source venue that does not exist. NEEDS A HUMAN DECISION - do not merge on this evidence.",
+    "KNOOPS is a multi-branch chain (Covent Garden, Kensington, Chelsea, Notting Hill, Richmond at least). Sources name the brand, not a branch. Carry as branches rows.",
+    "HOTEL CHOCOLAT vs RABOT 1745 - Rabot 1745 IS Hotel Chocolat's Borough Market cafe. Time Out names Rabot 1745; Clumsy Girl names Hotel Chocolat. Probably one venue, possibly two products. Check before counting.",
+    "BADIANI and VENCHI are gelato chains that also pour chocolate; Black Sheep Coffee and ABC Kitchens are not chocolate businesses at all. Decide whether a coffee chain's hot chocolate belongs in this guide before it inherits a citation."
   ]
 }
