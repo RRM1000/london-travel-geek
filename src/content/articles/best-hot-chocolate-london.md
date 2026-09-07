@@ -43,6 +43,10 @@ This page is not our opinion. Every venue is ranked by how many independent list
 
 *£ · Carnaby · 4 min from Oxford Circus · Cited by 9 sources · [italianbearchocolate.com](https://www.italianbearchocolate.com/)*
 
+![A cup of thick Italian hot chocolate dusted with cocoa, the cup lined with melted chocolate that has run down the outside and pooled on the saucer](../../assets/articles/best-hot-chocolate-london/italian-bear-chocolate-cup.webp)
+
+*The chocolate is not only in the cup — it is painted round the inside and left to run down the outside. This is what "overflowing" means here.*
+
 **41 Broadwick Street, W1F 9QL.** The thick Italian style, poured in three layers so the cup arrives striped, and dense enough that it behaves more like warm ganache than a drink. From **£4.90**. One reviewer's description — "poured triple-layered and overflowing" — is the whole proposition.
 
 It is a narrow shop with a handful of stools rather than a café, so most people take the cup out onto Broadwick Street and drink it standing up. **No booking; weekday afternoons are calm, and Saturdays queue onto the pavement.**
