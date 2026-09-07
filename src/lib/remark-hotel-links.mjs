@@ -17,25 +17,59 @@
 // It also keeps the disclosure honest. Every resolved affiliate link is marked
 // with the same small "ad" chip the cards use, rather than an unmarked inline
 // link that reads as an ordinary recommendation.
+//
+// TWO THINGS THIS GOT WRONG ONCE, BOTH FIXED HERE
+//
+// 1. It cached hotels.json in a module-level map and never reloaded it. A dev
+//    server started before a new property was exported kept the old map, so a
+//    reference to that property looked like a typo. Now the file's mtime is
+//    checked and the map reloads when it changes.
+//
+// 2. It THREW on an unresolved slug. Astro's glob-loader catches that, logs it
+//    to the terminal and still serves the page - with the entire markdown body
+//    missing, because the body is what failed to parse. The article rendered as
+//    nothing but its layout components and looked deliberately empty. A bad
+//    link must never be able to delete an article, so an unresolved slug now
+//    degrades to plain text and shouts in the console instead.
 import fs from "node:fs";
 import { visit } from "unist-util-visit";
 
 const DATA = "src/data/hotels.json";
 const SCHEME = /^hotel:([a-z0-9-]+)$/;
 
-let bySlug = null;
+let cache = { mtimeMs: -1, bySlug: new Map() };
 function hotels() {
-  if (bySlug) return bySlug;
-  bySlug = new Map();
+  let mtimeMs;
   try {
-    const { hotels: rows = [] } = JSON.parse(fs.readFileSync(DATA, "utf8"));
-    for (const h of rows) bySlug.set(h.slug, h);
+    mtimeMs = fs.statSync(DATA).mtimeMs;
   } catch {
-    // Export not run yet. Leave the map empty; the visitor below throws with a
-    // slug name, which is a better failure than silently shipping "hotel:x" as
-    // a broken href.
+    return cache.bySlug; // export not run yet; callers degrade gracefully
   }
-  return bySlug;
+  if (mtimeMs !== cache.mtimeMs) {
+    const bySlug = new Map();
+    try {
+      const { hotels: rows = [] } = JSON.parse(fs.readFileSync(DATA, "utf8"));
+      for (const h of rows) bySlug.set(h.slug, h);
+      cache = { mtimeMs, bySlug };
+    } catch {
+      // Mid-write, most likely. Keep the previous map rather than blanking it.
+    }
+  }
+  return cache.bySlug;
+}
+
+// An unresolved link becomes the words it was wrapping. mdast has no fragment
+// node, so the link is replaced by a single text node built from its children;
+// any emphasis inside is lost, which is a fair price for not losing the page.
+function degrade(node) {
+  const text = (node.children ?? [])
+    .map((c) => (typeof c.value === "string" ? c.value : ""))
+    .join("");
+  node.type = "text";
+  node.value = text;
+  delete node.children;
+  delete node.url;
+  delete node.data;
 }
 
 export default function remarkHotelLinks() {
@@ -46,21 +80,17 @@ export default function remarkHotelLinks() {
       if (!m) return;
       const slug = m[1];
       const h = hotels().get(slug);
-      if (!h) {
-        throw new Error(
-          `remark-hotel-links: no hotel "${slug}" in ${DATA} (referenced in ${where}). ` +
-            `Run: node scripts/export-hotels.mjs`,
-        );
-      }
 
       // Prefer the affiliate link, fall back to whatever will actually take a
-      // reader to the property. A row with none of the three is a mistake worth
-      // stopping the build for rather than rendering a dead link.
-      const href = h.affiliateUrl || h.bookingUrl || h.website;
+      // reader to the property.
+      const href = h && (h.affiliateUrl || h.bookingUrl || h.website);
       if (!href) {
-        throw new Error(
-          `remark-hotel-links: "${slug}" has no affiliateUrl, bookingUrl or website (referenced in ${where}).`,
+        console.warn(
+          `[remark-hotel-links] "${slug}" did not resolve to a link (${where}). ` +
+            `Rendered as plain text. If the property is new, run: node scripts/export-hotels.mjs`,
         );
+        degrade(node);
+        return;
       }
 
       const isAffiliate = Boolean(h.affiliateUrl) && href === h.affiliateUrl;

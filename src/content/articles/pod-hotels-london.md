@@ -1,7 +1,7 @@
 ---
 title: "London's Capsule Hotels: What a Night in One Is Really Like"
 seoTitle: "Capsule Hotels London 2026: All Five Compared, With Prices"
-description: "London has four real capsule hotels, not the eleven the listicles claim. What the berth is like, what's shared, the rules nobody mentions, and which one to book."
+description: "London has five real capsule hotels, not the eleven the listicles claim. What the berth is like, what's shared, the rules nobody mentions, and which one to book."
 heroImage: "../../assets/articles/pod-hotels-london/zedwell-capsule-corridor.jpg"
 heroImageAlt: "A corridor of sleeping capsules at a Zedwell capsule hotel, lit strips along the floor and signage reading Cocoon 5.163-5.164 and Toilets Showers"
 publishedAt: 2026-09-06
@@ -24,7 +24,7 @@ faq:
   - q: "Where do you put your luggage in a capsule hotel?"
     a: "Not in the capsule. There are hooks for a small backpack and room for a slim bag beside the mattress, and that is it. Zedwell charges £15 per piece, non-refundable, for the secure luggage room by reception. On a two-night stay with one big case that is roughly a quarter of the price of the bed, so factor it in before you book."
   - q: "Can children stay in a London capsule hotel?"
-    a: "No. All four are adults only, 18 and over, with ID required at check-in. If you are travelling as a family, the windowless hotel rooms sold under the same Zedwell brand take children and sleep up to twelve."
+    a: "No. All five are adults only, 18 and over, with ID required at check-in. If you are travelling as a family, the windowless hotel rooms sold under the same Zedwell brand take children and sleep up to twelve."
   - q: "Is a capsule better than a hostel dorm?"
     a: "You get more privacy for about the same money — a solid shutter instead of a curtain, your own light and socket, and no one else's alarm at 6am. What you usually lose is the hostel's social side: none of the four dedicated capsule hotels has a kitchen or organised events, and two have no front desk at all. St Christopher's Village is the exception, because it is a hostel first: capsules upstairs, Belushi's bar and events downstairs."
 ---
@@ -84,7 +84,7 @@ London has **five of them**. Not the ten or eleven you will find on most lists �
 
 **You can ask for a bottom bunk**, and for a high or low floor, when you book. Both are free and neither is guaranteed, and a bottom berth is worth having if you are carrying anything or dislike climbing.
 
-**Everyone needs photo ID**, and all four are strictly 18 and over.
+**Everyone needs photo ID**, and all five are strictly 18 and over.
 
 **Entire dormitories can be booked out.** Leicester Place's rooms run from 3 to 100 capsules, so a group can take a small one and have it to themselves — the cheapest way for six or eight people to sleep together in the West End.
 
@@ -107,7 +107,7 @@ Two things worth knowing about these numbers.
 
 **The GreenHouse is the flattest price in London**, moving £11 across the whole year. That makes it dearer than Zone 1 in October and cheaper in December. Its Zone 2 address buys you nothing on a quiet night.
 
-## The four, and which to book
+## The five, and which to book
 
 ### Zedwell Capsule Piccadilly Circus — book this one
 
@@ -161,7 +161,7 @@ At roughly double the Zedwell rate all year, a single nest here can cost more th
 
 *£42–£53 · 8 units · 93 Roman Road, E2 0QN · Bethnal Green 7 min · [check prices](hotel:greenhouse-capsules)*
 
-An eco-conscious capsule hostel on a working East London market street, a short walk from Victoria Park and about ten minutes from Brick Lane. **Check-out is 11am**, an hour later than the others, and the Wi-Fi is the fastest of the four.
+An eco-conscious capsule hostel on a working East London market street, a short walk from Victoria Park and about ten minutes from Brick Lane. **Check-out is 11am**, an hour later than the others, and the Wi-Fi is the fastest of the five.
 
 It is very small — eight units — with no front desk and entry by access code through a private entrance. Rated **7.3 out of 10 across 41 guest reviews**, the most modest score here. The solar panels and sustainable materials are the operator's own framing and we have not independently verified them.
 
