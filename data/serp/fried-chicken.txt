@@ -1,0 +1,74 @@
+# SERP-seeded sources for the fried chicken topic. Run and verified 2026-09-07.
+# Queries: "best fried chicken london", "best fried chicken london blog",
+# "best chicken shop london", "london chicken shop morleys culture best",
+# "best buttermilk fried chicken restaurant london review",
+# "Wing Fest UK winners", "fried chicken award UK judged winners 2026".
+# html.duckduckgo.com and lite.duckduckgo.com serve CAPTCHAs to curl/WebFetch; Mojeek 403s.
+# These came from duckduckgo.com read through the browser pane. Every URL below returned 200.
+#
+# THE FINDING THAT SETTLES THE SCOPE QUESTION: "best chicken shop london" and "best fried
+# chicken london" return the SAME top ten, with the same Time Out page ranked #1 for both.
+# The market has not split the two intents, and neither do the sources: Time Out's ranked
+# eight runs Korean, Taiwanese, chicken shop, American and Indian in one list. ONE guide.
+#
+# SURVIVORS ONLY. Seven domains from these SERPs failed the blog-vs-SEO-farm test in
+# README.md and are recorded with reasons in data/topics/fried-chicken.json:
+#   chickenbible.com   - no byline, no date, US spellings, "Chicken Shop" listed 5x. Ranks #1.
+#   goodtoorder.com    - no byline, no date, US spellings, one heading on the whole page
+#   bestdishesat.com   - programmatic; "Monga" 5x, lists The Clove Club as fried chicken
+#   dailydish.co.uk    - a US recipe blog ("Cozy Soups", "I'm Keri"); lists Cluckin' Bell
+#   lamplitlondon.com  - already excluded on wine-bars: parent is an escort agency
+#   reviewbritain.com  - aggregator, Google-review derived
+#   mylondon.news      - its chicken page ranks Morley's branches by Google review score
+# Also refused at the door: yelp.com, tripadvisor, chickenshop.com (tier F, the venue itself).
+
+# --- Tier A: judged, dated. Read the note in the topic config BEFORE counting either. ---
+# Fried Chicken Championships 2026 - inaugural, Jan 2026, four judges over five criteria.
+# The results page is /fried-chicken-champions, NOT /winners or /results (trap 6).
+Fried Chicken Championships 2026|https://www.friedchickenchampionships.co.uk/fried-chicken-champions
+# Wing Fest - judged since 2014, but it judges FESTIVAL TRADERS, not London restaurants,
+# and only wings. Scope hard (trap 12), and count Judge's Choice only - People's Choice is a
+# crowd vote. London / Sheffield / Nottingham legs on one archive page.
+Wing Fest UK - award winners archive|https://www.wingfest.co.uk/awards/
+
+# --- Tier B: mastheads ---
+# Time Out is RANKED and its entries are DISHES, not restaurants ("Spicy wings at Morley's").
+# Leonie Cooper, 1 May 2026, updated 10 Aug 2026.
+Time Out|https://www.timeout.com/london/restaurants/the-best-fried-chicken-in-london
+# The Infatuation - "17 Spots", UNRANKED, four bylined writers, updated June 2026.
+The Infatuation|https://www.theinfatuation.com/london/guides/best-fried-chicken-london
+# Evening Standard - Josh Barrie, 19 May 2025, 10 venues, unranked.
+Evening Standard|https://www.standard.co.uk/going-out/restaurants/best-fried-chicken-london-b1143323.html
+# SquareMeal - Ellie Donnell, 29 May 2025, 13 venues, unranked, chain-heavy.
+SquareMeal|https://www.squaremeal.co.uk/restaurants/best-for/best-fried-chicken-in-london_9214
+# Eater London - Jonathan Hatchman, 12 venues. CHECK THE DATE: Eater London stopped
+# publishing and this map carries no dateModified. Verify currency before counting.
+Eater London|https://london.eater.com/maps/best-fried-chicken-london
+# The London Economic - Jack Peat, RANKED 1-11, July 2023. CHAINS ONLY by its own framing.
+The London Economic|https://www.thelondoneconomic.com/food-drink/ranked-londons-best-chicken-shops-351984/
+
+# --- Tier C: independent blogs and specialists ---
+# Hungry Soles PASSED the blog test: named writer Zaeem Jafri, "Tried and Tested", still
+# publishing (2 Sep 2026), carries a fried chicken map, and prints a "ones that missed the
+# cut" section naming Coqfighter and Chick 'n' Sours. That is an opinion, not a scrape.
+Hungry Soles|https://www.thehungrysoles.com/blog/best-fried-chicken-in-london
+# Secret London - Samuel Hopkins, but written Jan 2023 and last touched Apr 2023. Numbered
+# 1-10 and probably not ranked. Oldest source here; check its venues are still trading.
+Secret London|https://secretldn.com/best-fried-chicken-london/
+# SECOND PAGE ON THE SAME DOMAIN. ONE DOMAIN IS ONE SOURCE - merge the two name arrays into
+# a single record, keep both URLs in the quote, and do not count them twice. It earns its
+# place: 8 names, updated 25 Apr 2025, and it is the ONLY source in the whole pass naming
+# WINGMANS (or Wingstop). Numbered 1-8 and not ordered - no ranks.
+Secret London (wings)|https://secretldn.com/chicken-wings-london/
+# Ideal Magazine - BORDERLINE, human call. Joseph Gann, 3 June 2025, and it flags a closure
+# inline ("Chick 'n' Sours ... now sadly closed"), which is evidence of checking. Against it:
+# the site's whole recent output is Penang street food, so it is not a London publication.
+Ideal Magazine|https://idealmagazine.co.uk/best-fried-chicken-london/
+
+# --- ASSESSED, NOT SEEDED: DesignMyNight ---
+# https://www.designmynight.com/london/best-chicken-in-london - live, updated 18 Aug 2026,
+# 16 venues. NOT SEEDED because its list is bars and pubs that serve wings: Camden BBQ,
+# The Plough Clapham, Prince of Peckham, The Star of Bethnal Green, All Star Lanes bowling
+# alley, BrewDog, The Breakfast Club. Every one fails the "is fried chicken the reason this
+# place exists" test in the topic config. Seeding it would put a bowling alley in a fried
+# chicken guide. A human may overrule this; the reason is recorded so it is not re-litigated.
