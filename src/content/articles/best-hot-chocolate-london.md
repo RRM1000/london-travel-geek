@@ -2,6 +2,12 @@
 title: "The Best Hot Chocolate in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Hot Chocolate London 2026: Ranked Across Every Major List"
 description: "Nine venues named by two or more independent sources, with what each one actually pours and what it costs — plus the widely-shared list that turned out to be half closed."
+heroImage: "../../assets/articles/best-hot-chocolate-london/best-hot-chocolate-london.jpg"
+heroImageAlt: "A mug of hot chocolate topped with marshmallows, seen from above on dark painted floorboards"
+heroImageCredit: "Filirovska"
+heroImageSource: "https://www.pexels.com/photo/7138768/"
+heroImageLicense: "Pexels License"
+heroImageLicenseUrl: "https://www.pexels.com/license/"
 publishedAt: 2026-09-07
 updatedAt: 2026-09-07
 sites: [london]

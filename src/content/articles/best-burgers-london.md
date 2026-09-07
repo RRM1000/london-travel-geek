@@ -20,12 +20,8 @@ faq:
     a: "Jupiter Burger at Netil Market, Manna inside Arcade Food Hall, Mother Flipper at Brockley Market and Buk in Camden all come in well under £15. Honest Burgers and Beer + Burger Store are the cheapest of the sit-down options."
   - q: "What is a smash burger, and is that all London does now?"
     a: "A thin patty pressed hard onto a hot surface so the crust caramelises across the whole face. It dominates — Supernova, Manna, Jupiter, Dumbo, Bake Street and Chuck's are all smash. The counterweight is the thick dry-aged patty: Dove, Vesper and Blacklock cook that instead, and they are the ones worth booking."
-heroImage: "../../assets/articles/best-burgers-london/best-burgers-london.jpg"
-heroImageAlt: "A thick charred beef patty in a soft bun beside a pile of rosemary-salted chips, on paper"
-heroImageCredit: "Ewan Munro from London, UK"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:Hamburger_and_fries_-_Honest,_Soho,_London.jpg"
-heroImageLicense: "CC BY-SA 2.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0"
+heroImage: "../../assets/articles/best-burgers-london/bleecker.jpg"
+heroImageAlt: "A double cheeseburger with bacon and melted cheese in a sesame bun, held in one hand over an open takeaway box"
 ---
 
 London's burger argument comes down to two shapes. There is the **smash** — a thin patty pressed hard onto the hot plate so the crust caramelises edge to edge — and there is the **thick dry-aged patty**, cooked pink and treated like a small steak. Almost every place below is committed to one or the other, and knowing which you prefer narrows this list by half before you read a word of it.
@@ -64,7 +60,9 @@ Two restaurants sit level at the top on seven sources each, and they are not doi
 
 *££ · multiple sites · walk-in · Cited by 7 sources · National Burger Awards 2026 finalist · [website](https://www.bleecker.co.uk/)*
 
-![A double cheeseburger with bacon and melted cheese in a sesame bun, held in one hand over an open takeaway box](../../assets/articles/best-burgers-london/bleecker.jpg)
+![A thick charred beef patty in a soft bun beside a pile of rosemary-salted chips and a glass of red wine](../../assets/articles/best-burgers-london/best-burgers-london.jpg)
+
+*A burger and chips at Honest, Soho. Photo by [Ewan Munro](https://commons.wikimedia.org/wiki/File:Hamburger_and_fries_-_Honest,_Soho,_London.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).*
 *The menu is deliberately tiny, and this is the bacon double: dry-aged beef, a crust off a hard sear, nothing garnished into it.*
 
 **The one that most London burger arguments end at**, and the only name here that appears on every kind of list — the award shortlist, the critics, the listings sites and the tourist board.
