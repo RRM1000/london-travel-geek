@@ -1,0 +1,184 @@
+{
+  "topic": "wine-bars",
+  "article": "src/content/articles/best-wine-bars-london.md",
+  "headTerm": "Wine Bars",
+  "status": "CONFIG ONLY, NOT YET COLLECTED. Created 2026-09-07 from pizza.json. Stop for review before collecting, per the method.",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. Read theScopeQuestion FIRST - three wine sources for this topic are ALREADY SITTING IN data/consensus/bars.json and must be migrated, not re-collected. Then read theCountingProblem, because the only judged award in this topic awards restaurants. Then read theSourceMixVerdict, because this topic cannot pass the method's floor in this environment without help.",
+
+  "theSourceMixVerdict": "THE FLOOR IS NOT REACHABLE HERE. STOP AND SORT THIS OUT BEFORE COLLECTING RATHER THAN AFTER.\n\nscripts/audit-source-mix.mjs counts 'social' as tier D plus tier E. This topic HAS a judged award (Star Wine List of the Year UK), so its floor is TWO social voices rather than three. Both tiers are unavailable in this environment:\n  Tier D (video) - needs APIFY_TOKEN. NOT SET.\n  Tier E (community) - Reddit is blocked to the fetcher and the browser alike.\n\nSo a corpus built today would be one tier-A award plus eight or nine mastheads and two blogs: exactly the shape the breakfast guide failed in, where five writers agreed with each other and the cheap end of London was invisible.\n\nWHY IT BITES HARDER ON THIS TOPIC THAN MOST. The editorial sources here overlap unusually heavily - Bar Crispin, Noble Rot, Half Cut Market, Dan's, Sol's, 40 Maltby Street and Sager + Wilde recur across nearly every list already in bars.json. Natural wine in particular is argued about online far more than it is written up in mastheads, so tier E is where the neighbourhood rooms nobody has covered would come from. Losing it does not just thin the count, it removes a whole class of venue.\n\nTWO WAYS FORWARD, both needing Rob: set APIFY_TOKEN so the video tier can be collected, or paste Reddit threads to be recorded by hand. Collecting the editorial tier alone and calling the topic done would repeat the failure the method was rewritten to prevent.",
+
+  "theScopeQuestion": "THIS TOPIC'S SOURCES ALREADY EXIST IN ANOTHER CORPUS. data/consensus/bars.json was collected 2026-08-30 as a single 'bars' pass and tagged every record with a scope field. FOUR of its eleven sources are scope 'bars-wine':\n  - The Infatuation, wine bars (22 names)\n  - Time Out, wine bars (20 names)\n  - Olive Magazine, wine bars (32 names, 2 of them furniture)\n  - Difford's Guide, wine bars (0 venues - it returned 'East / West / South / North' region headers and nothing else, which is trap 8: a source contributing furniture while counting toward the total)\n\nSo THREE real wine sources carrying roughly 70 venue names are already recorded and have NEVER BEEN PUBLISHED. Do not re-collect them under a new URL - that is trap 13, the error that put three ice cream sources in the dessert corpus with one identical URL recorded twice. MIGRATE the three bars-wine records out of bars.json into data/consensus/wine-bars.json, and RE-FETCH Difford's rather than carrying a zero-venue source across.\n\nDOES THE GUIDE SURVIVE THE OVERLAP TEST AGAINST best-cocktail-bars-london? YES, and the evidence is on both sides:\n\n  1. DIFFERENT SERP. The searches share not one result. 'best wine bars london' returns Star Wine List, Coravin's guide, House & Garden, The Sauce, Ourglass; 'best cocktail bars london' returns the World's 50 Best and Difford's. No publication writes one page covering both. Where the market has not merged two intents, they are not one intent.\n  2. DIFFERENT VENUES. The cocktail guide publishes 21 rooms. Exactly TWO are wine bars - Bar Crispin and Half Cut Market - and the article itself flags both as misfiled: it prints 'be clear what this is before you go: it is a restaurant, wine bar and bottle shop, not a cocktail bar' on Half Cut Market and 'wine is the point here and cocktails are the sideline' on Bar Crispin. Those two lines are the cocktail guide asking for this one to exist.\n  3. NOTHING IS CANNIBALISED. ~70 recorded wine venues are unpublished. This guide takes almost none of the cocktail guide's page.\n\nWHAT TO DO ABOUT THE TWO SHARED VENUES: leave both in the cocktail guide - they earned their place there on the cocktail list - and carry them here too under this topic's own citation count. Trap 7 applies: a count from the bars corpus must NEVER be printed on this page. Rebuild against topics.includes('wine-bars') only.",
+
+  "theCountingProblem": "A RESTAURANT WITH A GOOD WINE LIST IS NOT A WINE BAR, AND THE ONLY JUDGED AWARD IN THIS TOPIC IS AN AWARD FOR WINE LISTS.\n\nStar Wine List of the Year UK 2026 gave eleven Gold Stars. Here is what they went to:\n  Doppo (Tuscan restaurant, Soho) - Best Long List\n  Trivet (two-star restaurant, Bermondsey) - Best Medium-Sized List\n  DakaDaka (Georgian restaurant, Heddon St) - Best Short List\n  Row on 5 (restaurant, Savile Row) - Best By-the-Glass List\n  Labombe by Trivet (restaurant, Old Park Lane) - Best Newcomer List\n  Restaurant St. Barts - Sustainability Prize\n  Newcomer Wines (Austrian wine bar and shop, Dalston) - Best Austrian List\n  Saint Augustine Villa, VENTNOR, ISLE OF WIGHT - Best Rose List\n  Mountain (restaurant, Soho) - Best Spanish List\n  Claridge's Restaurant (hotel dining room) - Best Riesling List\n\nONE of those is a wine bar. One is not in London (trap 12: the award is UK-wide and must be scoped before a single citation is counted). Recording this award whole would hand a wine bar guide a Michelin-starred restaurant in Bermondsey and a villa on the Isle of Wight as its top-cited venues.\n\nTHE TEST, three questions, TWO OF THREE to be counted:\n  1. IS IT NAMED FOR ITS WINE? The name, or the venue's own words - 'wine bar', 'bar a vin', 'cave a manger', 'wine shop and bar'. Self-description wins, the same rule french.json uses for cuisine boundaries.\n  2. DOES IT SELL BY THE GLASS AT RANGE? A real by-the-glass list - preservation, Coravin, keg - not four house pours. 28-50 keeps 30+ open; that is range. A restaurant with six is not.\n  3. IS DRINKING WITHOUT EATING NORMAL THERE? Can you walk in, take a stool, drink two glasses and leave without ordering food. This is the question that separates a wine bar from a wine-led restaurant, and it is the one readers actually care about.\n\nVERIFIED BORDERLINE CASES ALREADY IN THE SOURCES. Star Wine List's own London 42 includes four PUBS - Canton Arms, Anchor & Hope, Marksman, The Bull & Last. All pass tests 2 and 3, all fail test 1. They are pubs with serious wine, and a guide that counts them is a guide about something else. Decide once, apply to all four, and record the decision here.\n\nTRAP 13 - VENUES ALREADY RECORDED IN OTHER CORPORA. Grep before adding any of these; several already carry counts under another topic and those counts must not be reprinted here:\n  british.json    - Noble Rot, 40 Maltby Street, Camille, Luca, Trullo, Akub\n  french.json     - Camille, The 10 Cases, Josephine\n  italian.json    - Bar Crispin, Luca, Trullo, Enoteca Turi\n  spanish.json    - Barrafina (Dean Street and Coal Drops Yard branches)\n  bars.json       - 107 Wine Shop & Bar, Peckham Cellars, plus the whole bars-wine scope\n  breakfast-brunch.json - Peckham Cellars\n  pizza.json      - Bon Vino Enoteca\nCamille, Luca and Trullo are the sharp ones: all three are restaurants that appear on wine bar lists. Run the three-question test on each and write the answer into openVenueQuestions rather than deciding silently.",
+
+  "awardBodies": [
+    {
+      "name": "Star Wine List of the Year UK",
+      "domain": "starwinelist.com",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/wine-guide/star-wine-list-of-the-year-UK-2026-gold-star-winners-map",
+      "verified": "2026-09-07 - CONFIRMED LIVE AND JUDGED. Results page read in full: 11 Gold Stars, all dated 2026, jury quoted by name (Stephen Wong MW), ceremony held in London in March 2026. Also confirmed the award goes to venues rather than to wines. 403s WebFetch; fetched with curl and a browser user agent.",
+      "note": "REAL, JUDGED AND DATED. Founded 2018, run as an international awards tour; the UK 2026 winners were announced at a ceremony in London in March 2026, and the page quotes a named juror (Stephen Wong MW). It awards VENUES, not wines - which is what makes it usable at all.\n\nBUT READ theCountingProblem BEFORE RECORDING IT. It awards WINE LISTS, and wine lists live in restaurants: ten of eleven Gold Stars went to restaurants and hotel dining rooms, and one winner is in Ventnor on the Isle of Wight. Scope to London AND to venues that pass the wine bar test before counting a single citation.\n\n403s WebFetch; fetches fine with curl and a browser user agent. Also publishes two editorial London guides on the same domain - 'The 42 best wine bars in London 2026' and '126 places to drink great wine in London 2026'. ONE DOMAIN IS ONE SOURCE: merge the name arrays, keep both URLs in the quote, and do not count the award and the guide as two opinions either."
+    }
+  ],
+
+  "awardBodiesChecked": [
+    "Sommelier Wine Awards (sommelierwineawards.com) - NOT TIER A FOR THIS TOPIC. Judges WINES for the on-trade, by a panel of sommeliers. The medals go to bottles and their suppliers, not to bars. Verify the current year before dismissing it, but do not record it as a venue award.",
+    "Louis Roederer International Wine Writers' Awards - NOT TIER A FOR THIS TOPIC. Judges WRITING - books, columns, photography. No venue category.",
+    "Michelin - guide.michelin.com is on the permanent403 list in data/sources.json and has been since the French pass. Michelin's UK sommelier award goes to an individual rather than a room, and its Bib Gourmand is a food award. Peckham Cellars carries a Bib per Star Wine List; treat that as a fact about the venue, not as a wine award.",
+    "Imbibe (imbibe.com) - UNREACHABLE from this environment: curl returns 000, a connection failure rather than a 403. Do not write it off (trap 14 - a dead URL is usually a move). Try imbibe.com/awards and the Imbibe Live site through the browser before recording a gap, and establish whether the Imbibe awards are judged and whether any category covers venues rather than people or products.",
+    "World of Fine Wine 'World's Best Wine List Awards' - worldoffinewine.com 403s both WebFetch and curl. This is the other serious wine list award and it is judged and dated. Worth reading through the browser. Same caveat as Star Wine List: it awards lists, so it will be restaurant-heavy."
+  ],
+
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "tier": "B",
+      "ranked": "unknown",
+      "note": "TWO pages, ONE source. '20 Best Wine Bars in London' (already in bars.json as bars-wine) and a separate '16 Best Natural Wine Bars in London'. Merge the arrays. Time Out's lists are often RANKED and the blurb label changes between them - trap 11 - so read the caption before recording any rank."
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "tier": "B",
+      "ranked": false,
+      "note": "'The 22 Best Wine Bars In London'. ALREADY RECORDED in bars.json under scope bars-wine with 22 names. Migrate, do not re-fetch under a new URL."
+    },
+    {
+      "name": "Olive Magazine",
+      "domain": "olivemagazine.com",
+      "tier": "B",
+      "ranked": false,
+      "note": "ALREADY RECORDED in bars.json under scope bars-wine - the broadest of the three at 32 names. Two of them are furniture ('Check out more London restaurant guides here:', 'Authors'); drop those on migration."
+    },
+    {
+      "name": "Difford's Guide",
+      "domain": "diffordsguide.com",
+      "tier": "C",
+      "ranked": false,
+      "note": "RE-FETCH, DO NOT MIGRATE. Its wine bars page is recorded in bars.json with ZERO venues - the extractor pulled 'East / West / South / North' compass headers and site chrome. That is trap 8 and trap 15: the real results sit behind a container the extractor did not find, and Difford's is a genuine drinks specialist worth having. Read it in the browser and find the class the venue cards sit in. If it still yields nothing, exclude it rather than carrying a zero-venue source into the total."
+    },
+    {
+      "name": "Conde Nast Traveller",
+      "domain": "cntraveller.com",
+      "tier": "B",
+      "ranked": false,
+      "note": "'The 14 best wine bars in London'. Gallery format - the names are in slide captions, not body text, so check the extraction rather than trusting a low name count."
+    },
+    {
+      "name": "House & Garden",
+      "domain": "houseandgarden.co.uk",
+      "tier": "B",
+      "ranked": false,
+      "note": "'The 21 best wine bars in London'. Same Conde Nast gallery shape as cntraveller.com - and note they are SISTER TITLES under one publisher. They are separate mastheads with separate editors so they count as two domains, but if the name arrays come back near-identical that is trap 16 and they are one page syndicated. Compare the arrays before trusting both."
+    },
+    {
+      "name": "Eater London",
+      "domain": "london.eater.com",
+      "tier": "B",
+      "ranked": false,
+      "note": "'Where to Drink Natural Wine in London's Wine Bars'. Map format - Eater's maps carry the names in numbered cards."
+    },
+    {
+      "name": "SquareMeal",
+      "domain": "squaremeal.co.uk",
+      "tier": "B",
+      "ranked": false,
+      "note": "'35 of the best wine bars in London'. Numbered but check whether it is ordered before recording a rank."
+    },
+    {
+      "name": "Foodism",
+      "domain": "foodism.co.uk",
+      "tier": "B",
+      "ranked": false,
+      "note": "'15 Natural Wine Bars in London to try ASAP'."
+    },
+    {
+      "name": "The Handbook",
+      "domain": "thehandbook.com",
+      "tier": "B",
+      "ranked": false
+    },
+    {
+      "name": "The Nudge",
+      "domain": "thenudge.com",
+      "tier": "C",
+      "ranked": false,
+      "note": "TWO pages, ONE source: 'The Best Wine Bars in London' and 'London's Best Natural Wine Bars'. Merge. The Nudge is already in bars.json for cocktails - that is a DIFFERENT topic and does not stop it counting here, but check its name arrays do not overlap with its own cocktail page."
+    },
+    {
+      "name": "Secret London",
+      "domain": "secretldn.com",
+      "tier": "C",
+      "ranked": false,
+      "note": "'Natural Wine In London: 15 Spots'. Already registered tier C in data/sources.json."
+    },
+    {
+      "name": "The Sauce Magazine",
+      "domain": "thesaucemag.com",
+      "tier": "C",
+      "ranked": false,
+      "verified": "2026-09-07 - CONFIRMED LIVE, 18 London venues, unranked.",
+      "note": "NEW DOMAIN, NOT YET IN data/sources.json - register it as tier C. PASSED the blog-vs-SEO-farm test on 2026-09-07: named writer (Erica O'Hara), dated 19 March 2026, British spelling throughout, 18 real London venues and no furniture. Visit evidence is thinner than a first-person blog but it is a real masthead with a byline.\n\nIT IS ALSO THE BREADTH SOURCE IN THIS TOPIC. It is the ONLY list found that names Gordon's Wine Bar, Vagabond Wines, WC Wine & Charcuterie, 68 Wine Bar & Cellar, Planque, The Drop and The Wine Tasting Shop - none of which appear on Time Out, The Infatuation, Olive or Star Wine List. Gordon's is the oldest wine bar in London and every other source ignores it, which is worth a sentence in the guide."
+    }
+  ],
+
+  "excludeOnSight": [
+    "barmap.co.uk - TESTED AND FAILED, 2026-09-07, and it is the worst page found on any SERP for this topic. No byline, no date, and ZERO venues: the page is category headers ('Best for natural wine', 'Best for small plates') over the line 'We're updating this list - check back soon'. It ranks in the top ten for 'natural wine bars london' while naming nobody. This is trap 8 in its purest form - a source that would have counted toward the total and contributed nothing.",
+    "guide.coravin.com - TESTED AND FAILED, 2026-09-07. Coravin manufactures the wine preservation device, so this is brand content, and the page self-describes as 'Curated by The Coravin Guide' with no evidence of a visit - a compiled directory of 101. Worse for our purposes, twelve of its first twenty London names are RESTAURANTS, HOTELS AND A MEMBERS' CLUB (67 Pall Mall, Sketch, Quilon, Chez Bruce, Browns, Sofitel, The Cadogan). Counting it would inject the entire hotel dining trade into a wine bar guide. It also carries NO by-the-glass prices and NO corkage figures, so it is not even useful for the format section - which is why the format section does not rest on it.",
+    "lamplitlondon.com - TESTED AND FAILED, 2026-09-07. British spelling and an 'Updated July 2026' stamp, but no named writer, and the page discloses that it is 'part of the same group as Cleopatra Agency, a distinguished London companionship service, whose patronage keeps these guides free to read'. That is the README's parent-business tell: an escort agency running a nightlife guide is not a food or drink publication. Extraction is also poor - 'National Theatre', 'Victoria line' and 'Bakers Arms' come back as venues.",
+    "humblegrape.co.uk - HUMBLE GRAPE IS ITSELF A LONDON WINE BAR GROUP. Its blog post 'The 7 Best Natural and Low-Intervention Wine Bars in London' is a venue writing about its competitors, which is tier F wearing a blog's clothes. Never count it. Its own branches may of course be recorded as venues if other sources name them.",
+    "ourglass.wine - a wine app's marketing blog, 'London's Best Wine Bars & Restaurants: The Complete Guide'. Same shape as Coravin and untested; assume excluded unless a read finds a named writer and evidence of a visit.",
+    "thatsup.co.uk - already on the permanent403 and excluded lists in data/sources.json. Appeared on both the main and the natural wine SERP.",
+    "opentable.co.uk - booking platform blog, and already on the excluded aggregator list.",
+    "designmynight.com - registered tier C but it has now returned pure chrome TWICE in bars.json ('Editors' Picks:' and 'Price:'). Its wine bars page is a filterable directory of 60, not an editorial list. Do not record it unless a browser read finds a genuine curated list.",
+    "Tripadvisor, Yelp, Wanderlog - aggregators, already excluded globally."
+  ],
+
+  "facetAxis": {
+    "field": "wineStyle",
+    "note": "THE AXIS IS NATURAL VERSUS CLASSICAL, AND THE SERP PROVES IT. 'natural wine bars london' is its own search with its own top ten - Time Out, The Nudge, Foodism, Eater, Secret London, Coravin, Lamplit and Bar Map each publish a SEPARATE natural wine page alongside their general one. No other facet has done that: there is no 'classical wine bars london' page, and a sherry query returned nothing at all. When eight publications have already split their coverage on one line, that line is how the reader browses. The remaining values are the formats a reader chooses between once the style question is settled - essentially, is tonight a stool or a table.",
+    "values": [
+      { "key": "natural", "label": "Natural and low-intervention", "describeAs": "cloudy, unfiltered, often chilled reds and pet-nat, from growers using nothing but grapes" },
+      { "key": "classical", "label": "Classical and Old World", "describeAs": "Burgundy, Bordeaux, the Rhone and Piedmont, poured by people who will talk about vintages" },
+      { "key": "bottle-shop", "label": "Bottle shops you can drink in", "describeAs": "a wine shop with stools, where you pull a bottle off the shelf and pay shop price plus a corkage fee" },
+      { "key": "wine-led-restaurant", "label": "Wine-led restaurants", "describeAs": "a cave a manger - you book a table and eat properly, but the list is the reason you came" },
+      { "key": "sherry-fortified", "label": "Sherry and fortified", "describeAs": "sherry, madeira and port poured from the cask or the solera, usually with a plate of jamon" },
+      { "key": "by-the-glass", "label": "By-the-glass rooms", "describeAs": "preservation systems and Coravin needles that let a bar sell one glass out of a bottle worth hundreds" }
+    ]
+  },
+
+  "formatSection": {
+    "title": "Shop price plus corkage",
+    "note": "THE SECTION NOBODY ELSE PRINTS, AND THE ONE THAT ACTUALLY DECIDES WHERE THE EVENING HAPPENS. A large and growing share of London's best wine bars are bottle shops with stools: you buy the bottle at RETAIL and pay a flat corkage to drink it there. The same bottle that is £45 on a restaurant list is £22 plus a corkage fee in a shop. Not one source found in this pass prints that fee.\n\nTHE DRINK-IN FACT IS VERIFIED AND THE SECTION CAN BE BUILT ON IT. Every venue below is described as a bottle-shop hybrid by Star Wine List or by the venue itself:\n  Dan's, Dalston - 'bottles offered at retail prices as well as for consuming on site' (Star Wine List)\n  Half Cut Market, York Way - 'wine available for take away any time we're open', 'around 80 bottles available for takeaway at any time', selection curated by co-owner Holly Willcocks (halfcut.world, read 2026-09-07)\n  Little Cellars, Camberwell - 'next door they have their shop for take away, Cellar Next Door' (Star Wine List)\n  Lower, Lower Marsh - 'a cellar shop if you need to pick up a bottle to drink in or take away' (Star Wine List)\n  Peckham Cellars - 'to be taken away or drunk in' (Star Wine List)\n  Also to check: Quality Wines, Bottle & Rye, Top Cuvee, Stable Wines, 107 Wine Shop & Bar, Veraison, Newcomer Wines, Bedales of Borough, Dynamic Vines, The Winemakers Club\n\nTHE CORKAGE NUMBER IS NOT AVAILABLE TO THE FETCHER, AND THIS IS THE ONE THING TO SETTLE BEFORE WRITING THE SECTION. Checked 2026-09-07: qualitywines.co.uk 403s, peckhamcellars.co.uk does not resolve, topcuvee.com is JS-rendered and returns nothing to curl, and halfcut.world confirms take-away but publishes no fee. Coravin, which would be the obvious place for it, carries no prices at all. So the figure has to come from a browser read of each shop's menu page, or from asking.\n\nNEVER INVENT OR ESTIMATE A CORKAGE FIGURE. A wrong number here costs the reader money at the till, which is the same class of error as a dead booking link. Where the fee cannot be confirmed, print the fact that you can drink in and buy at shop prices WITHOUT a number, rather than guessing - and per the standing rule, ASK rather than publishing the gap.\n\nWHY NOT THE OTHER CANDIDATES. By-the-glass and Coravin pricing is real and is carried as a facet value instead, but it splits venues badly - almost everywhere pours by the glass, and the prices are as unpublished as corkage. Walk-in versus booking is the standard booking summary every guide on this site already runs near the top, not a section of its own. Shop-price-plus-corkage is the only candidate that is both a hard fact and a decision the reader actually makes."
+  },
+
+  "knownGaps": [
+    "A JUDGED AWARD EXISTS, but it is an award for WINE LISTS rather than for wine bars: Star Wine List of the Year UK 2026, jury-judged, announced March 2026. Ten of its eleven UK Gold Stars are restaurants and one is on the Isle of Wight. Treat it as tier A for the handful of venues that pass the wine bar test and as out of scope for the rest. The presence of an award sets the source-mix floor at TWO social voices rather than three.",
+    "THE SOURCE-MIX FLOOR IS NOT REACHABLE IN THIS ENVIRONMENT - see theSourceMixVerdict above, which is the blocking issue on this topic.",
+    "NO CORKAGE FIGURE IS PUBLISHED ANYWHERE THE FETCHER CAN REACH, which is a gap in the format section rather than in the sourcing. Checked 2026-09-07: Coravin carries no prices, and of the shop sites tried one 403s, one does not resolve and two publish the drink-in fact without the fee. The section is still buildable on the drink-in fact alone; the numbers need a browser pass or a question to Rob.",
+    "Tier E (community) matters unusually much here. Natural wine is argued about online far more than it is written about in mastheads, and the mastheads all cover the same twenty rooms - the three wine sources already in bars.json overlap heavily on Bar Crispin, Noble Rot, Half Cut Market, Dan's, Sol's and 40 Maltby Street. The community tier is where the neighbourhood bars nobody has written up would come from.",
+    "THREE OF FIVE NEW DOMAINS FOUND ON THE SERP FAILED THE BLOG TEST - barmap.co.uk, guide.coravin.com and lamplitlondon.com, all recorded in excludeOnSight with the reason. Only thesaucemag.com survived. That is a high failure rate and it means the independent-blog tier on this topic is THIN: after The Nudge and Secret London there is very little tier C. Another SERP pass on longer-tail queries ('wine bar Peckham', 'where to drink natural wine Hackney') would be worth running before concluding the blog tier is empty.",
+    "worldoffinewine.com and imbibe.com are both unreachable from the fetcher (403 and a connection failure respectively). Both may carry a second judged wine list award. Read them through the browser before this guide claims Star Wine List is the only one.",
+    "No sherry or fortified specialist source was found on any SERP run. The facet value is in the axis because London has the venues, not because a source ranks them - if collection turns up fewer than three, cut the value rather than printing a two-venue section.",
+    "DesignMyNight has now contributed zero venues twice in the bars corpus. Its wine bars page is a directory of 60 rather than an editorial list. Recorded here so the next pass does not fetch it a third time."
+  ],
+
+  "openVenueQuestions": [
+    "THE PUB QUESTION, and it must be settled before collection rather than during it. Star Wine List's own London wine bar guide includes four pubs - Canton Arms, Anchor & Hope, Marksman, The Bull & Last - on the strength of their wine lists. The site already has historic-pubs.json and a historic pubs article. Decide once whether a pub can be a wine bar here, and apply it to all four.",
+    "Camille, Luca and Trullo appear on wine bar lists and are ALREADY RECORDED as restaurants - Camille in british.json and french.json, Luca and Trullo in british.json and italian.json. All three are restaurants with famous lists. Run the three-question test; the likely answer is that all three fail test 3 and belong in the wine-led restaurants facet at most, never in the main ranking.",
+    "Bar Crispin and Half Cut Market are PUBLISHED IN best-cocktail-bars-london.md. They can appear here too, but their citation counts must come from this topic's corpus only (trap 7). Also: Bar Crispin has a sibling, Crispin, on White's Row - confirm whether sources naming 'Crispin' mean the wine bar or the restaurant before merging.",
+    "Noble Rot has at least three sites - Lamb's Conduit Street, Soho and Mayfair - and sources name them inconsistently ('Noble Rot' in british.json and Olive, 'Noble Rot Mayfair' in Time Out and Star Wine List, where only the Mayfair site holds the Best Spanish Wine List award). Trap 17: decide the canonical name a reader books under, and never let a branch-specific award be printed against the brand.",
+    "Peckham Cellars and Little Cellars are the same owners, different postcodes. Peckham Cellars is already recorded in bars.json AND breakfast-brunch.json. Separate venues or branches - decide and add to data/name-aliases.json either way.",
+    "'Dan's' (Tottenham Road, Dalston) and 'Dan's' as it appears in the Time Out and Infatuation arrays - confirm these are the same business before merging, and note Star Wine List records the same owner behind Tempo in Bethnal Green.",
+    "Tayer + Elementary, Bar Termini and Bar Americain sit in bars.json under bars-cocktail and must NOT be dragged across by a loose extractor reading the whole file.",
+    "Saint Augustine Villa (Ventnor, Isle of Wight) holds a Star Wine List UK Gold Star and is NOT IN LONDON. Trap 12. Scope the award before counting any of it.",
+    "'Lower Wine Bar' (Time Out) and 'Lower' (Star Wine List, 19 Lower Marsh) look like one venue under two names. Likely alias, but confirm rather than assume - a wrong merge is invisible.",
+    "67 PALL MALL IS A PRIVATE MEMBERS' CLUB, and it heads Coravin's London list. Coravin is excluded as a source but the venue question stands and will recur: a room a reader cannot walk into is not a recommendation. Decide whether members-only wine clubs are in scope at all, and if they are, say so in the entry rather than letting a reader turn up.",
+    "Gordon's Wine Bar (Villiers Street) is named by The Sauce and by NOBODY ELSE in this pass - not Time Out, not The Infatuation, not Olive, not Star Wine List. It is the oldest wine bar in London and by far the most famous name in the topic. Either the serious sources have decided it is a tourist room, or the corpus has a hole. Worth resolving explicitly rather than letting a one-source count bury it.",
+    "28-50 appears as '28°-50°' with degree symbols in Star Wine List and as '28-50' elsewhere. Trap 9: decode entities and normalise before this becomes two venues.",
+    "Vagabond Wines is a multi-branch London chain with self-pour machines. Chain handling per chains.json, and decide whether a self-pour wall counts as 'by the glass at range' under test 2."
+  ]
+}

@@ -1,0 +1,44 @@
+# SERP-seeded sources for the wine bars topic. Run 2026-09-07.
+# Queries: "best wine bars london", "best wine bars london blog", "natural wine bars london".
+# DuckDuckGo (html and lite) served a CAPTCHA to both WebFetch and curl and could not be used;
+# Mojeek was CAPTCHA'd too. These results come from Bing en-GB, which degrades to generic
+# results after a handful of rapid queries - long-tail follow-ups did not return.
+#
+# SURVIVORS ONLY. Three domains from the SERP failed the blog-vs-SEO-farm test in README.md
+# and are recorded with their reasons in data/topics/wine-bars.json under excludeOnSight:
+#   barmap.co.uk        - no byline, no date, ZERO venues ("we're updating this list")
+#   guide.coravin.com   - device manufacturer's compiled directory, 12 of first 20 are hotels
+#   lamplitlondon.com   - no named writer; parent business is an escort agency
+# Also refused at the door: thatsup.co.uk, opentable.co.uk, humblegrape.co.uk (a wine bar
+# group ranking its own competitors), designmynight.com, ourglass.wine.
+
+# --- Tier A: the judged award, and its editorial guides on the same domain (ONE source) ---
+# SCOPE BEFORE COUNTING: UK-wide, and it awards WINE LISTS, so it is restaurant-heavy.
+Star Wine List of the Year UK 2026 - Gold Stars|https://starwinelist.com/wine-guide/star-wine-list-of-the-year-UK-2026-gold-star-winners-map
+Star Wine List - the 42 best wine bars in London 2026|https://starwinelist.com/wine-guide/londons-best-wine-bars
+
+# --- Already recorded in data/consensus/bars.json under scope "bars-wine". MIGRATE, do not re-fetch. ---
+The Infatuation|https://www.theinfatuation.com/london/guides/wine-bars-london
+Time Out|https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars
+Olive Magazine|https://www.olivemagazine.com/guides/best-london-wine-bars/
+# Difford's Guide is recorded there with ZERO venues (compass headers only) - RE-FETCH in the browser.
+Difford's Guide|https://www.diffordsguide.com/encyclopedia/514/bars/londons-best-wine-bars
+
+# --- New editorial sources ---
+Conde Nast Traveller|https://www.cntraveller.com/gallery/best-wine-bars-in-london
+House & Garden|https://www.houseandgarden.co.uk/gallery/best-london-wine-bars
+SquareMeal|https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122
+The Handbook|https://www.thehandbook.com/best-wine-bars-in-london/
+Eater London|https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat
+Foodism|https://foodism.co.uk/guides/natural-wine-bars-london/
+
+# --- Second page on a domain already listed above. Merge the arrays; ONE domain is ONE source. ---
+Time Out (natural wine)|https://www.timeout.com/london/bars-pubs/londons-best-natural-wine
+
+# --- Tier C: independent blogs and specialists. Thin on this topic - see knownGaps. ---
+The Nudge|https://thenudge.com/the-best-wine-bars-in-london/
+The Nudge (natural wine)|https://thenudge.com/londons-best-natural-wine-bars/
+Secret London|https://secretldn.com/best-natural-wine-bars-london/
+# The Sauce PASSED the blog test: byline Erica O'Hara, dated 19 Mar 2026, British spelling,
+# 18 real venues. It is also the only source naming Gordon's, Vagabond, WC and Planque.
+The Sauce Magazine|https://thesaucemag.com/londons-best-wine-bars/
