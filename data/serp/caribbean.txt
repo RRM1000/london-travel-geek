@@ -1,0 +1,59 @@
+# SERP-seeded sources for the Caribbean topic. Run 2026-09-07.
+# Queries: "best caribbean restaurants london", "best jamaican food london",
+# "best caribbean london blog", "best trinidadian roti doubles london",
+# "caribbean restaurant awards UK judged", "UK Caribbean Food Awards winners",
+# "Riaz Phillips Belly Full", "Black Eats LDN", plus site: queries on
+# voice-online.co.uk and socanews.com.
+#
+# TEN SEEDABLE SOURCES BELOW. The eleventh countable source is the UK Caribbean Food
+# Awards (tier A) and it is NOT here because its own website is dead - see below.
+#
+# ROUTE: html.duckduckgo.com and lite.duckduckgo.com now serve CAPTCHAs to curl and WebFetch,
+# and Mojeek 403s. These results were read off duckduckgo.com in the browser pane.
+#
+# THE SCOPE FINDING, recorded here because it IS the finding of the SERP:
+# the query "best jamaican food london" returns NO Jamaican-specific editorial page from any
+# masthead. Its top organic results are Time Out's CARIBBEAN guide and The Infatuation's
+# CARIBBEAN guide. The serious sources write "Caribbean" and carry the islands inside it.
+# Time Out's own title is "20 Best Caribbean Restaurants in London, from Jamaican to
+# Trinidadian Cuisine"; The Infatuation's is "Caribbean Restaurants & Takeaways".
+# See theScopeQuestion in data/topics/caribbean.json.
+
+# --- Tier A: the judged award. RESULTS PAGE IS DOWN - see knownGaps before seeding. ---
+# ukcaribbeanfoodawards.co.uk returns Cloudflare 526 (invalid origin SSL certificate) to the
+# fetcher AND to the browser, 2026-09-07. Deliberately NOT seeded: seeding a dead origin
+# records a zero-venue source (trap 8). Winners are readable via reporting only, which is
+# trap 2 - the award is the source, the outlet reporting it is not.
+# UK Caribbean Food Awards|https://ukcaribbeanfoodawards.co.uk/awards/
+
+# --- Tier B: editorial mastheads ---
+Time Out|https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants
+The Infatuation|https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants
+SquareMeal|https://www.squaremeal.co.uk/restaurants/best-for/best-caribbean-restaurants-london_10514
+The Handbook|https://www.thehandbook.com/caribbean-restaurants-london/
+Luxury London|https://luxurylondon.co.uk/taste/food/best-caribbean-restaurants-london/
+DesignMyNight|https://www.designmynight.com/london/best-caribbean-restaurants-in-london
+
+# --- Tier B, DEFUNCT PUBLICATION, still the best island-level source found ---
+# Eater London closed 14 Feb 2023 ("Farewell, Eater London"). This map is from Nov 2022 and
+# is the ONLY source anywhere that covers Guyanese and Indo-Caribbean roti as a subject.
+# Check every venue is still trading before printing it.
+# ONE VOICE WARNING: written by Riaz Phillips, who also writes the trippin.world guide and a
+# Time Out blog post below. Three platforms, ONE source. Merge by hand.
+Eater London - Indo-Caribbean roti|https://london.eater.com/maps/best-trinidadian-roti-caribbean-food-london-restaurant-guide
+
+# --- Tier C: independent blogs and specialists ---
+James Dimitri|https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/
+The Glossary|https://theglossarymagazine.com/food-drink/caribbean-restaurants-in-london/
+London x London|https://www.londonxlondon.com/caribbean-restaurants-london/
+
+# --- FAILED THE BLOG-VS-SEO-FARM TEST, 2026-09-07. Reasons in data/topics/caribbean.json. ---
+# bestldn.com           - no byline, no date, business directory, ranked by review aggregation
+# londonfromscratch.co.uk - a RECIPE blog; no visit evidence, no date, externally sourced images
+# ps-london.com         - luxury concierge with booking monetisation, house-organ byline,
+#                         placeholder SVG images. ALREADY REGISTERED TIER C IN sources.json -
+#                         flag for a human, same shape as theworkingline.com on halal.
+# caribbeancaterers.co.uk - a Caribbean CATERING BUSINESS ranking restaurants. Tier F.
+#
+# --- Refused at the door / aggregators ---
+# tripadvisor.co.uk, thefork.co.uk, yelp.com, opentable.co.uk - already excluded globally.
