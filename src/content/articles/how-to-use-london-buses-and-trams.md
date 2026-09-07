@@ -24,7 +24,7 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
-London's iconic red double-decker buses are far more than a scenic attraction—they are the backbone of the city's surface transit network. Buses reach neighbourhoods with no nearby Tube stations, avoid long station walks, and let you experience London at street level for just **£1.75 per ride**.
+**Every London bus is £1.75 flat, however far you go**, against £3.00 to £5.90 on the Tube — and the Hopper fare lets you change buses free within an hour. Buses are far more than a scenic attraction—they are the backbone of the city's surface transit network. Buses reach neighbourhoods with no nearby Tube stations, avoid long station walks, and let you experience London at street level for just **£1.75 per ride**.
 
 > 💡 **Bus & Tram Snapshot:**  
 > - **Flat Fare:** All London bus and tram journeys cost a flat **£1.75** (no peak rates, no distance zones).  

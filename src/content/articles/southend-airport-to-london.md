@@ -22,7 +22,7 @@ heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 ---
 
-London Southend Airport (SEN) is located 40 miles (64 km) east of Central London in Essex. It has a single passenger terminal connected via a covered 2-minute walkway to **Southend Airport railway station**.
+**Greater Anglia runs from the terminal to Liverpool Street in 53 minutes, from £13.40**, or Stratford in 46 for the Elizabeth line. A taxi is £100 or more. Southend is 40 miles (64 km) east of London, in Essex. It has a single passenger terminal connected via a covered 2-minute walkway to **Southend Airport railway station**.
 
 > 💡 **Quick Verdict: Southend to London (2026)**  
 > - **Fastest & Best Option:** **Greater Anglia Rail**. Direct trains run every 20 minutes to **Stratford** (46 mins) and **London Liverpool Street** (52–55 mins).  

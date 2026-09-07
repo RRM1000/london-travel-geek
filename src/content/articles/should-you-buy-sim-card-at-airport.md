@@ -1,5 +1,5 @@
 ---
-title: "Buying a SIM Card at London Airports: Prices, Locations and Tourist Traps"
+title: "Buying a SIM Card at London Airports: What It Costs"
 seoTitle: "Buying a SIM Card at London Airports: Heathrow, Gatwick & Stansted"
 description: "A complete guide to buying SIM cards at London Heathrow, Gatwick, Stansted, Luton and City airports, including terminal store locations, vending prices, and tourist markups."
 publishedAt: 2026-07-28
@@ -25,7 +25,7 @@ heroImageLicense: "Unsplash License"
 heroImageLicenseUrl: "https://unsplash.com/license"
 ---
 
-Stepping off an international flight at London Heathrow or Gatwick with a dead mobile signal can make anyone feel vulnerable. The immediate instinct for many travellers is to head straight for the first bright SIM card desk or vending machine in the arrivals hall.
+**An airport arrivals desk charges £35–£45 for a SIM that costs £10–£15 in a supermarket.** That is the whole finding, and it holds at every London airport. Stepping off a long flight with a dead phone makes the markup easy to pay. The immediate instinct for many travellers is to head straight for the first bright SIM card desk or vending machine in the arrivals hall.
 
 However, buying a SIM card at a London airport is almost always a costly mistake. Airport arrivals halls are high-rent, high-markup environments designed to capitalize on tired, uninformed tourists. 
 

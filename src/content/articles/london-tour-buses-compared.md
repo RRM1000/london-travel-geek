@@ -1,5 +1,5 @@
 ---
-title: "London Tour Buses: Every Route, Every Stop, and Whether It's Worth It"
+title: "London Tour Buses Compared: Routes, Stops and Prices"
 seoTitle: "London Hop-On Hop-Off Buses 2026: All Routes, Stops and Prices"
 description: "Every Big Bus, Golden Tours and Tootbus route with the stops listed, what each ticket costs, and the ordinary bus routes that cover the same ground for £1.75."
 publishedAt: 2026-08-27
@@ -34,7 +34,7 @@ Almost everything written about London tour buses is written by someone earning 
 
 That does not make tour buses a rip-off. It makes them a specific product for a specific person. This page lists **every route and every stop** so you can see exactly what you would be buying, then makes the case both ways.
 
-> 💡 **The Short Version:** **Golden Tours** is cheapest at **£24.78** online. **Big Bus** from **£32** has the densest network. **Tootbus** at **£35.20** includes six walking tours. **Never buy at the kerb** — the online discount runs 25–43%. The free alternative is **route 11** or **route 24** for **£1.75**.
+> 💡 **The Short Version:** **Never buy at the kerb — booking online saves 25–43%.** **Golden Tours** is cheapest at **£24.78** and **Big Bus** from **£32** has the densest network. **Tootbus** at **£35.20** includes six walking tours. The free alternative is **route 11** or **route 24** for **£1.75**.
 
 ## What they cost
 

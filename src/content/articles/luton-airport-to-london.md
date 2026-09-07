@@ -23,7 +23,7 @@ heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
 
-London Luton Airport (LTN) is located 28 miles (45 km) north of Central London. While the main passenger terminal is not directly adjacent to National Rail tracks, the **Luton DART** (Direct Air-Rail Transit) automated shuttle connects the terminal to **Luton Airport Parkway station** in under 4 minutes.
+**The Luton Airport Express plus the DART reaches St Pancras in 32 minutes, from £10 booked ahead.** A coach is £6 and takes up to 90; a taxi is £85 or more. Luton is 28 miles (45 km) north of Central London. While the main passenger terminal is not directly adjacent to National Rail tracks, the **Luton DART** (Direct Air-Rail Transit) automated shuttle connects the terminal to **Luton Airport Parkway station** in under 4 minutes.
 
 > 💡 **Quick Verdict: Luton to London (2026)**  
 > - **Fastest to St Pancras:** **Luton Airport Express (EMR)** + DART. Takes **32 mins** total terminal-to-station to reach St Pancras International.  

@@ -1,5 +1,5 @@
 ---
-title: "Soho Area Guide: Chinatown, Carnaby Street and London After Dark"
+title: "Soho Guide: Chinatown, Carnaby Street and After Dark"
 seoTitle: "Soho London Guide: Chinatown, Carnaby Street & Nightlife"
 description: "A complete Soho guide: Chinatown dim sum, Carnaby Street, Old Compton Street, the best late-night eating and how Soho changes from day to night."
 publishedAt: 2026-07-28
@@ -69,7 +69,7 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 ---
 
-Soho is roughly one square kilometre bounded by [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three), Regent Street, Shaftesbury Avenue and Charing Cross Road, and it contains more restaurants, bars, theatres and recording studios than anywhere else in Britain.
+**Soho packs more restaurants, bars and theatres into one square kilometre than anywhere else in Britain**, and it is walkable end to end in fifteen minutes. It is bounded by [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three), Regent Street, Shaftesbury Avenue and Charing Cross Road, and it contains more restaurants, bars, theatres and recording studios than anywhere else in Britain.
 
 It is also two different places depending on when you arrive. By day it is a working media district with good coffee and quiet streets. From about 18:00 it becomes the busiest nightlife area in London.
 
