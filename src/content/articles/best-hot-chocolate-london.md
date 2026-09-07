@@ -47,6 +47,10 @@ This page is not our opinion. Every venue is ranked by how many independent list
 
 *£ · Carnaby · 4 min from Oxford Circus · Cited by 9 sources · [italianbearchocolate.com](https://www.italianbearchocolate.com/)*
 
+![A cup of thick Italian hot chocolate dusted with cocoa, the cup itself lined with melted chocolate that has run down the sides and pooled on the saucer](../../assets/articles/best-hot-chocolate-london/italian-bear-chocolate-cup.webp)
+
+*The chocolate is not only in the cup — it is painted round the inside and left to run down the outside. This is what "overflowing" means here.*
+
 **41 Broadwick Street, W1F 9QL.** The thick Italian style, poured in three layers so the cup arrives striped, and dense enough that it behaves more like warm ganache than a drink. From **£4.90**. One reviewer's description — "poured triple-layered and overflowing" — is the whole proposition.
 
 It is a narrow shop with a handful of stools rather than a café, so most people take the cup out onto Broadwick Street and drink it standing up. **No booking; weekday afternoons are calm, and Saturdays queue onto the pavement.**
@@ -69,6 +73,10 @@ Standing room only, with truffles heaped in mango-leaf bowls along the counter. 
 
 *£ · Soho · 3 min from Tottenham Court Road · Cited by 6 sources · [chinchinicecream.com](https://www.chinchinicecream.com/)*
 
+![A paper cup of hot chocolate topped with a fist-sized marshmallow, blowtorched until charred and slumping over the rim, with a branded chocolate tag pushed into it](../../assets/articles/best-hot-chocolate-london/chin-chin-blowtorched-marshmallow.webp)
+
+*Ten seconds under a blowtorch is the whole show. The marshmallow is bigger than the cup and does not stay upright for long.*
+
 **54 Greek Street, W1D 3DS.** A paper cup topped with a handmade marshmallow the size of a fist, blowtorched at the counter until it chars and slumps. **£4.95**, with a vegan version done in raspberry and apricot. The same kitchen makes nitrogen ice cream, which is what the shop is better known for.
 
 Tiny, loud and built for a queue rather than a sit-down. **The blowtorching is the visit** — it happens in front of you and takes about ten seconds, which is why this is the one to bring children to.
@@ -76,6 +84,10 @@ Tiny, loud and built for a queue rather than a sit-down. **The blowtorching is t
 ### Knoops
 
 *£ · Covent Garden · 3 min from Leicester Square · Cited by 4 sources · [knoops.com](https://knoops.com/uk)*
+
+![A Knoops iced chocolate in a branded clear cup with a striped paper straw, on a light wood table](../../assets/articles/best-hot-chocolate-london/knoops-iced-chocolate.webp)
+
+*The same percentages are sold iced, which is the version to know about in summer — order it exactly the way you would the hot one.*
 
 **2 New Row, WC2N 4LH.** You order by number, not by flavour: its own menu runs **nine cocoa percentages — 28, 34, 38, 43, 54, 65, 70, 80 and 100%** — and the same drink tastes like four different things across that range. From **£4**. Ask for 70% if you have no idea; 100% is genuinely bitter and not a beginner's cup.
 

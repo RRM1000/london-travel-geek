@@ -77,7 +77,7 @@ The compact-room format on the Shoreditch edge of the City, with free cheese and
 
 *A twin room in the old Ace building. The murals are the part people photograph.*
 
-Whitewashed walls, tapestry hangings and pine, with cult DS & Durga toiletries. Time Out described it as staying in the spare room of an impossibly fashionable friend, which is about right.
+Rooms vary a lot for one hotel — whitewashed walls, tapestry hangings and pine in some, a wall-filling graphic mural and patchwork quilts in others — with cult DS & Durga toiletries throughout. Time Out described it as staying in the spare room of an impossibly fashionable friend, which is about right.
 
 **This is the former Ace Hotel building**, which matters because the booking sites still file it under the old name. Six bars and restaurants including a rooftop, all open to non-residents — good for the area, less good for quiet.
 
