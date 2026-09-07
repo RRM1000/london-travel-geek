@@ -109,6 +109,10 @@ A wellness-minded rebrand of the former Nobu Hotel Shoreditch, with floor-to-cei
 
 *About £250 · Heated rooftop pool, open all year*
 
+![A lit rooftop pool at night with a mosaic patterned floor, festoon lights strung overhead, an olive tree in a pot and a glass-walled bar alongside, with City towers behind](../../assets/articles/where-to-stay-shoreditch/virgin-hotels-shoreditch-rooftop-pool.webp)
+
+*Heated, and open through the winter. The bar runs alongside it behind glass, which is where the weekend crowd sits.*
+
 A heated rooftop pool and terrace open year-round over Shoreditch, which is why guests pick this over the area's other design hotels.
 
 **This building is on its third name.** It was The Curtain, then Mondrian Shoreditch, and has been Virgin Hotels London-Shoreditch since August 2024 — Virgin's first London property. Older guides and some booking listings still use the previous names.
