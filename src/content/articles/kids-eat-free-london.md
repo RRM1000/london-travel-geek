@@ -150,7 +150,7 @@ This is the section that matters if you are staying overnight, and it is the bes
 
 **Travelodge charges £1 rather than nothing**, for up to two children under 15 per full-paying adult, and only at its Bar Café hotels. Breakfast To Go is excluded.
 
-> ⚠️ **Whitbread's London pub-restaurants are closing to the public this month.** Brewers Fayre Winsor House in Beckton closes to the public on 7 September 2026, and the Beefeaters at Woolwich and Harrow on 10 September 2026. Whitbread's notice says Premier Inn guests will continue to get breakfast, evening meals and drinks — so from mid-September the £11.99 kids-eat-free breakfast in London becomes an overnight-guest benefit rather than something you can walk in for.
+> ⚠️ **Whitbread has withdrawn its London pub-restaurants from public use.** Brewers Fayre Winsor House in Beckton closed to walk-in customers on 7 September 2026, with the Beefeaters at Woolwich and Harrow following on 10 September. Whitbread's notice says Premier Inn guests continue to get breakfast, evening meals and drinks — so in London the £11.99 kids-eat-free breakfast is now an overnight-guest benefit rather than something you can walk in for.
 
 ---
 

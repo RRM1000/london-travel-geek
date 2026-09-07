@@ -517,6 +517,15 @@
     "walkMin": 2,
     "walkFrom": "Southwark Underground Station"
   },
+  "andreas-hot-chocolate": {
+    "placeId": "ChIJz_tbO8YddkgRQ6AnnFm8gIY",
+    "placesName": "Andrea's Hot Chocolate",
+    "address": "The Courtyard, Ezra St, London E2 7RH, UK",
+    "postcode": "E2 7RH",
+    "website": "http://andreacacao.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday, Tuesday, Wednesday, Thursday, Friday"
+  },
   "andys-taverna": {
     "placeId": "ChIJRyzDxB8bdkgRSHoXhUaj5gk",
     "placesName": "Andy’s Greek Taverna",
@@ -686,6 +695,14 @@
     "stationDistanceM": 168,
     "walkMin": 3,
     "walkFrom": "London Bridge Underground Station"
+  },
+  "apres-food-co": {
+    "placeId": "ChIJl8Ga4_QFdkgR5PC4C8QKXWs",
+    "placesName": "Après Burgers",
+    "address": "6 Camera Pl, London SW10 0BH, UK",
+    "postcode": "SW10 0BH",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday, Tuesday"
   },
   "aqua-shard": {
     "placeId": "ChIJl5tV7FoDdkgR6UIgihrVM4c",
@@ -978,6 +995,15 @@
     "stationDistanceM": 128,
     "walkMin": 2,
     "walkFrom": "Covent Garden Underground Station"
+  },
+  "badiani-soho": {
+    "placeId": "ChIJowjhzGsPdkgRJzhP92AMZ4o",
+    "placesName": "Badiani Gelato - White City",
+    "address": "Westfield Shopping Centre, Ariel Way, London W12 7HB, UK",
+    "postcode": "W12 7HB",
+    "website": "https://www.badiani1932.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "balady": {
     "placeId": "ChIJDYn3G6MQdkgRvyjEaVwVitU",
@@ -2262,6 +2288,15 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "cafe-la-divina": {
+    "placeId": "ChIJS81X-GYbdkgRVxyAEsjWrwg",
+    "placesName": "La Divina Italian Restaurant",
+    "address": "134 Upper St, London N1 1QP, UK",
+    "postcode": "N1 1QP",
+    "website": "https://www.ladivina.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "cafe-murano": {
     "placeId": "ChIJGVQ1VMoEdkgRdIvOMEsGuyw",
     "placesName": "Cafe Murano Covent Garden",
@@ -2839,6 +2874,15 @@
     "lat": 51.526466,
     "lng": -0.125014,
     "ward": "Bloomsbury"
+  },
+  "chin-chin-dessert-club": {
+    "placeId": "ChIJMdd3z9IEdkgR7DiG6uDu3II",
+    "placesName": "Chin Chin Dessert Club (Chin Chin Ice Cream)",
+    "address": "54 Greek St, London W1D 3DS, UK",
+    "postcode": "W1D 3DS",
+    "website": "https://www.chinchinicecream.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "chin-chin-ice-cream": {
     "placeId": "ChIJFZCEVuEadkgRj1ZhijKnjTY",
@@ -3675,6 +3719,15 @@
     "pressKit": "contact-only",
     "pressChecked": "2026-08-17"
   },
+  "dark-sugars-brick-lane": {
+    "placeId": "ChIJ7TINwbccdkgRqKCumIB-yO4",
+    "placesName": "Dark Sugars",
+    "address": "141 Brick Ln, Bethnal Green, London E1 6SB, UK",
+    "postcode": "E1 6SB",
+    "website": "http://www.darksugars.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "darwin-brasserie": {
     "placeId": "ChIJO_02aFIDdkgRf2-gsHxdgEQ",
     "placesName": "Darwin Brasserie",
@@ -3713,6 +3766,14 @@
     "bookingPlatform": "own-site",
     "bookingUrl": "https://www.dehesa.co.uk/reservations",
     "pressChecked": "2026-08-17"
+  },
+  "derosier": {
+    "placeId": "ChIJNXyYuU8PdkgRCioVM2lCqSw",
+    "placesName": "DeRosier Chocolate & Coffee Shop",
+    "address": "81 Revelstoke Rd, London SW18 5NL, UK",
+    "postcode": "SW18 5NL",
+    "website": "http://derosierchocolates.com/",
+    "businessStatus": "CLOSED_PERMANENTLY"
   },
   "detroit-pizza-london": {
     "lat": 51.517736,
@@ -4563,6 +4624,15 @@
     "bookingPlatform": "own-site",
     "bookingUrl": "https://www.payst.co.uk/books/cook-thai",
     "pressChecked": "2026-08-17"
+  },
+  "farm-girl-portobello": {
+    "placeId": "ChIJR_W2JuMPdkgRyJM3RwBG_jg",
+    "placesName": "Farm Girl",
+    "address": "59A Portobello Rd, London W11 3DB, UK",
+    "postcode": "W11 3DB",
+    "website": "http://www.thefarmgirl.co.uk/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "faulkners": {
     "placeId": "ChIJiWjX4pMcdkgRv-vZ9ub7_DQ",
@@ -6254,6 +6324,15 @@
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
   },
+  "intermission-coffee": {
+    "placeId": "ChIJB99-f7kcdkgRlGQj9VGs9wQ",
+    "placesName": "Intermission Film",
+    "address": "Lux Bldg, 2-4 Hoxton Square, London N1 6NU, UK",
+    "postcode": "N1 6NU",
+    "website": "http://intermissionfilm.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Sunday, Saturday"
+  },
   "isabel-mayfair": {
     "placeId": "ChIJKQi1ICoFdkgRTme5HEuUXAo",
     "placesName": "Isabel",
@@ -6329,6 +6408,15 @@
     "bookingPlatform": "own-site",
     "bookingUrl": "https://www.itadakizen-uk.com/reservation",
     "pressChecked": "2026-08-17"
+  },
+  "italian-bear-chocolate": {
+    "placeId": "ChIJ8c2lRkgFdkgRdXU-L_umuvA",
+    "placesName": "Italian Bear Chocolate - Soho",
+    "address": "41 Broadwick St, Carnaby, London W1F 9QL, UK",
+    "postcode": "W1F 9QL",
+    "website": "https://www.italianbearchocolate.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "italian-greyhound": {
     "rating": 4.4,
@@ -6763,6 +6851,15 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/kanishka/reservations/create/search/",
     "pressChecked": "2026-08-17"
   },
+  "kapihan": {
+    "placeId": "ChIJGYkoQy4FdkgRhezqAMHB7CQ",
+    "placesName": "Kapihan",
+    "address": "547 Battersea Park Rd, London SW11 3BL, UK",
+    "postcode": "SW11 3BL",
+    "website": "http://www.kapihan.coffee/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "kappacasein": {
     "placeId": "ChIJnxzKgj8DdkgRV8mWdlJmvJE",
     "placesName": "Kappacasein Dairy",
@@ -7033,6 +7130,15 @@
     "bookingUrl": "https://www.sevenrooms.com/explore/theknaveofclubs/reservations/create/search",
     "pressChecked": "2026-08-17"
   },
+  "knoops-covent-garden": {
+    "placeId": "ChIJmSFcBrkFdkgRPLldXghJeFk",
+    "placesName": "Knoops",
+    "address": "2 New Row, London WC2N 4LH, UK",
+    "postcode": "WC2N 4LH",
+    "website": "https://knoops.com/uk",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "kofteci-metin": {
     "placeId": "ChIJy491JjQbdkgRHlSjFaeYH3s",
     "placesName": "Kofteci Metin London",
@@ -7127,6 +7233,15 @@
     "stationDistanceM": 109,
     "walkMin": 2,
     "walkFrom": "Covent Garden Underground Station"
+  },
+  "konditor-borough": {
+    "placeId": "ChIJ-4fdGwADdkgRLmuhMsW1Lxc",
+    "placesName": "Konditor",
+    "address": "26 Joiner St, London SE1 9BZ, UK",
+    "postcode": "SE1 9BZ",
+    "website": "https://konditor.co.uk/pages/26-joiner-street",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "korean-grill-kensington": {
     "placeId": "ChIJmQwdomAFdkgRCau8gCongmQ",
@@ -8097,6 +8212,14 @@
     "walkMin": 3,
     "walkFrom": "Camden Road Rail Station"
   },
+  "mamasons-dirty-ice-cream": {
+    "placeId": "ChIJt5XRU1EFdkgRiQ4GELgsyME",
+    "placesName": "Mamasons Dirty Ice Cream (Chinatown London)",
+    "address": "32 Newport Ct, London WC2H 7PQ, UK",
+    "postcode": "WC2H 7PQ",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "mambow": {
     "placeId": "ChIJyZEVG4YddkgRhZtMxBaAFAw",
     "placesName": "Mambow",
@@ -8546,6 +8669,24 @@
     "walkFrom": "Earl's Court Underground Station",
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
+  },
+  "melange-peckham": {
+    "placeId": "ChIJhR0c2pgDdkgRQeMgLNIeF_c",
+    "placesName": "Melange Chocolate",
+    "address": "2 Maxted Rd, London SE15 4LL, UK",
+    "postcode": "SE15 4LL",
+    "website": "http://www.themelange.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "Monday, Tuesday, Wednesday"
+  },
+  "melt-chocolates": {
+    "placeId": "ChIJ9cweT_0PdkgRy6_UmtNE8U8",
+    "placesName": "Melt Chocolates",
+    "address": "59 Ledbury Rd, London W11 2AA, UK",
+    "postcode": "W11 2AA",
+    "website": "https://www.meltchocolates.com/?utm_source=google&utm_medium=local&utm_campaign=1&utm_content=primary",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "meraki": {
     "placeId": "ChIJZaSmDCobdkgRBUx6rvr1db0",
@@ -9959,6 +10100,15 @@
     "walkMin": 13,
     "walkFrom": "Tufnell Park Underground Station"
   },
+  "parlour-fortnum-mason": {
+    "placeId": "ChIJR8obOtYEdkgRWxGoS-B_lKQ",
+    "placesName": "The Parlour at Fortnum & Mason",
+    "address": "1st floor, Fortnum & Mason, 181 Piccadilly, London W1A 1ER, UK",
+    "postcode": "W1A 1ER",
+    "website": "https://www.fortnumandmason.com/the-parlour-restaurant",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "parrillan": {
     "placeId": "ChIJTzuTZmQDdkgRgJ4koROrq9o",
     "placesName": "Parrillan Borough Yards",
@@ -10055,6 +10205,13 @@
     "walkFrom": "Edgware Road (Circle Line) Underground Station",
     "bookingHint": "no booking route in static HTML - check walk-in",
     "pressChecked": "2026-08-17"
+  },
+  "paul-a-young": {
+    "placeId": "ChIJ11uRZQAFdkgRWPb_ypMJSdE",
+    "placesName": "Paul A Young Fine Chocolates",
+    "address": "Arlette House, 143 Wardour St, London W1F 8WA, UK",
+    "postcode": "W1F 8WA",
+    "businessStatus": "CLOSED_PERMANENTLY"
   },
   "paulette": {
     "placeId": "ChIJ43gFVnIbdkgR0aO_Re8ioko",
@@ -10717,6 +10874,14 @@
     "bookingUrl": "http://rabiengthai.co.uk/reservations",
     "pressChecked": "2026-08-17"
   },
+  "rabot-1745": {
+    "placeId": "ChIJu9VfKLEPdkgRng-aS4StwkQ",
+    "placesName": "Rabot 1745 Beauty",
+    "address": "Ariel Way, London W12 7GF, UK",
+    "postcode": "W12 7GF",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
+  },
   "ramo-ramen": {
     "placeId": "ChIJV1-JP2wFdkgR1elRGUc8yaU",
     "placesName": "Ramo Ramen - Soho",
@@ -11188,6 +11353,14 @@
     "bookingUrl": "https://www.royalchinagroup.co.uk/reservation",
     "pressChecked": "2026-08-17"
   },
+  "ruby-violet-tufnell-park": {
+    "placeId": "ChIJJYnEAz4bdkgRatBKzmlxumg",
+    "placesName": "Ruby Violet",
+    "address": "Midland Goods Shed, 3 Wharf Rd, London N1C 4BZ, UK",
+    "postcode": "N1C 4BZ",
+    "website": "http://www.rubyviolet.co.uk/",
+    "businessStatus": "CLOSED_PERMANENTLY"
+  },
   "rudys-pizza-napoletana": {
     "placeId": "ChIJIYHXYKMFdkgRuY7lFulwfz8",
     "placesName": "Rudy's Pizza Napoletana",
@@ -11301,6 +11474,15 @@
     "bookingPlatform": "sevenrooms",
     "bookingUrl": "https://sagyelondon.com/",
     "pressChecked": "2026-08-17"
+  },
+  "said-dal-1923": {
+    "placeId": "ChIJ8c2lRkgFdkgRdXU-L_umuvA",
+    "placesName": "Italian Bear Chocolate - Soho",
+    "address": "41 Broadwick St, Carnaby, London W1F 9QL, UK",
+    "postcode": "W1F 9QL",
+    "website": "https://www.italianbearchocolate.com/",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "sale-e-pepe": {
     "postcode": "SW1X 0HD",
@@ -13606,6 +13788,14 @@
     "bookingPlatform": "designmynight",
     "bookingUrl": "https://www.thegundocklands.com/?y_source=1_MTIyMzcxOTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "pressChecked": "2026-08-17"
+  },
+  "the-haberdashery-crouch-end": {
+    "placeId": "ChIJDW4aLcEbdkgRXponAUDais8",
+    "placesName": "The Haberdashery",
+    "address": "22 Middle Ln, London N8 8PL, UK",
+    "postcode": "N8 8PL",
+    "businessStatus": "OPERATIONAL",
+    "closedDays": "None"
   },
   "the-hero-of-maida": {
     "lat": 51.524159,

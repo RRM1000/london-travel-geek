@@ -136,7 +136,9 @@ The distinction that matters more than genre. In these, you have a role, and sta
 
 ### Arcade Arena, Lambeth
 
-*From £30 one game, £45 two, £50 all three · 26 Lambeth High Street, SE1 7SJ · Vauxhall or Lambeth North, not Waterloo · opens Saturday 5 September 2026*
+*From £30 one game, £45 two, £50 all three · 26 Lambeth High Street, SE1 7SJ · Vauxhall or Lambeth North, not Waterloo · not open yet, tickets on sale*
+
+> ⚠️ **This one has not opened yet, and the date has already moved once.** A 5 September 2026 opening came and went. Little Lion are selling tickets and their booking page now says only "ahead of our venue opening in September 2026", with no replacement date — while the site's own homepage still lists London as coming soon. Press and influencer previews ran on 2 September, which is where the early reviews come from. **Book a refundable slot or wait for a confirmed date.** *(Checked 7 September 2026.)*
 
 **Three separate games in one building, from the team behind The Crystal Maze Experience** — Little Lion Entertainment, who know how to build this sort of thing and have run Chaos Karts in Manchester for years.
 

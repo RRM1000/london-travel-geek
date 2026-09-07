@@ -114,6 +114,12 @@ const VOCAB = {
     // and Taiwanese rooms that share no other speciality, which is exactly why
     // "regional" cannot carry it.
     "dim-sum", "noodles", "hot-pot",
+    // hot-chocolate passes the same test as hot-pot and dim-sum: its own
+    // corpus, its own search intent, its own page, and sources that cover it
+    // cover almost nothing else. It is a DRINK rather than a dish, which is
+    // why "dessert" cannot carry it - a chocolate shop with no seating and a
+    // gelateria that pours one are the same speciality and different formats.
+    "hot-chocolate",
     // Modern European. "seasonal" describes SOURCING rather than a dish type -
     // the first speciality to do so - because that is what these kitchens are
     // actually selling: a menu that changes with what is available.
@@ -13673,6 +13679,171 @@ const rows = [
     lists: "fish-and-chips",
     source: "consensus 2/13 fish-and-chips domains. Three branches and addresses from hobsonsfishandchips.com 2026-08-30 - NOT on Charing Cross Road and no Victoria branch, both of which appear in secondary listings.",
   },
+
+  // ---------------------------------------------------------------------
+  // HOT CHOCOLATE, seeded 7 September 2026 for the Places run.
+  // Minimal on purpose - name, speciality and a hood ONLY where a source
+  // gave one. Places queries on `${Name}, ${Neighbourhood} London`, so an
+  // invented hood aims the query at the wrong place; blank just widens it.
+  // Price bands, whyGo and booking come after enrichment, against a real
+  // address. Nine of these are on two or more sources; the other thirteen
+  // are Time Out names on a four-year-old list that need a trading check.
+  // ---------------------------------------------------------------------
+  {
+    ...des, slug: "dark-sugars-brick-lane", name: "Dark Sugars Cocoa House",
+    style: "Chocolate shop and cocoa house", specialities: "hot-chocolate",
+    hood: "Brick Lane",
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - the most-cited venue in the topic, named by 8 of 12 sources.",
+  },
+  {
+    ...des, slug: "italian-bear-chocolate", name: "Italian Bear Chocolate",
+    style: "Italian thick drinking chocolate", specialities: "hot-chocolate",
+    hood: "Carnaby",
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - named by 7 of 12 sources. 41 Broadwick St W1F 9QL per thiswasnotwellplanned.",
+  },
+  {
+    ...des, slug: "chin-chin-dessert-club", name: "Chin Chin Dessert Club",
+    style: "Dessert bar, nitrogen ice cream", specialities: "hot-chocolate",
+    hood: "Soho",
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - named by 6 of 12 sources. Sources also write 'Chin Chin Labs' - alias unconfirmed.",
+  },
+  {
+    ...des, slug: "knoops-covent-garden", name: "Knoops",
+    style: "Chocolate bar, cocoa percentage to order", specialities: "hot-chocolate",
+    hood: "Covent Garden",
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - named by 4 of 12 sources. MULTI-BRANCH - Covent Garden, Kensington, Chelsea, Notting Hill, Richmond.",
+  },
+  {
+    ...des, slug: "mamasons-dirty-ice-cream", name: "Mamasons Dirty Ice Cream",
+    style: "Filipino dessert shop, ube", specialities: "hot-chocolate",
+    // hood deliberately blank: no source located it. Places will resolve it.
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - named by 3 of 12 sources. HOOD NOT GIVEN by any source - let Places resolve.",
+  },
+  {
+    ...des, slug: "andreas-hot-chocolate", name: "Andrea's Hot Chocolate",
+    style: "Hot chocolate specialist", specialities: "hot-chocolate",
+    // hood deliberately blank: no source located it. Places will resolve it.
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - named by The Infatuation and Rayscafe. HOOD NOT GIVEN.",
+  },
+  {
+    ...des, slug: "melt-chocolates", name: "Melt Chocolates",
+    style: "Chocolatier", specialities: "hot-chocolate",
+    hood: "Notting Hill",
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - named by The Infatuation and Clumsy Girl Travels.",
+  },
+  {
+    ...des, slug: "said-dal-1923", name: "Said Dal 1923",
+    style: "Roman chocolate house", specialities: "hot-chocolate",
+    hood: "Soho",
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - named by Insider and Onion Jain. MAY BE THE SAME SITE AS ITALIAN BEAR - unresolved, see data/consensus/hot-chocolate.json.",
+  },
+  {
+    ...des, slug: "badiani-soho", name: "Badiani",
+    style: "Florentine gelateria", specialities: "hot-chocolate",
+    // hood deliberately blank: no source located it. Places will resolve it.
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - named by Mostly Food and Travel and DesignMyNight. MULTI-BRANCH.",
+  },
+  {
+    ...des, slug: "melange-peckham", name: "Melange",
+    style: "Chocolatier and French grocery", specialities: "hot-chocolate",
+    hood: "Peckham",
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - WEEKENDS ONLY as of the 2022 list - confirm it still trades. Named only by Time Out's list, which is dated 28 October 2022 and shares zero names with The Infatuation's current guide - TRADING STATUS UNVERIFIED.",
+  },
+  {
+    ...des, slug: "rabot-1745", name: "Rabot 1745",
+    style: "Hotel Chocolat cafe", specialities: "hot-chocolate",
+    hood: "Borough",
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - MAY BE THE SAME BUSINESS AS Hotel Chocolat, which Clumsy Girl names separately. Named only by Time Out's list, which is dated 28 October 2022 and shares zero names with The Infatuation's current guide - TRADING STATUS UNVERIFIED.",
+  },
+  {
+    ...des, slug: "farm-girl-portobello", name: "Farm Girl",
+    style: "Australian cafe", specialities: "hot-chocolate",
+    hood: "Notting Hill",
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026. Named only by Time Out's list, which is dated 28 October 2022 and shares zero names with The Infatuation's current guide - TRADING STATUS UNVERIFIED.",
+  },
+  {
+    ...des, slug: "intermission-coffee", name: "Intermission",
+    style: "Coffee bar", specialities: "hot-chocolate",
+    // hood deliberately blank: no source located it. Places will resolve it.
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - HOOD NOT GIVEN. Named only by Time Out's list, which is dated 28 October 2022 and shares zero names with The Infatuation's current guide - TRADING STATUS UNVERIFIED.",
+  },
+  {
+    ...des, slug: "paul-a-young", name: "Paul A Young Fine Chocolates",
+    style: "Chocolatier", specialities: "hot-chocolate",
+    hood: "Soho",
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - MULTI-BRANCH - Soho, Islington and Bank per the 2015 Time Out page. Named only by Time Out's list, which is dated 28 October 2022 and shares zero names with The Infatuation's current guide - TRADING STATUS UNVERIFIED.",
+  },
+  {
+    ...des, slug: "the-haberdashery-crouch-end", name: "The Haberdashery",
+    style: "Cafe", specialities: "hot-chocolate",
+    hood: "Crouch End",
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026. Named only by Time Out's list, which is dated 28 October 2022 and shares zero names with The Infatuation's current guide - TRADING STATUS UNVERIFIED.",
+  },
+  {
+    ...des, slug: "kapihan", name: "Kapihan",
+    style: "Filipino coffee shop", specialities: "hot-chocolate",
+    // hood deliberately blank: no source located it. Places will resolve it.
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - HOOD NOT GIVEN. Named only by Time Out's list, which is dated 28 October 2022 and shares zero names with The Infatuation's current guide - TRADING STATUS UNVERIFIED.",
+  },
+  {
+    ...des, slug: "parlour-fortnum-mason", name: "The Parlour at Fortnum & Mason",
+    style: "Ice cream parlour inside the store", specialities: "hot-chocolate",
+    hood: "Piccadilly",
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - TRAP 17 - sources may name either the parlour or Fortnum & Mason. Canonical name is what a reader books under. Named only by Time Out's list, which is dated 28 October 2022 and shares zero names with The Infatuation's current guide - TRADING STATUS UNVERIFIED.",
+  },
+  {
+    ...des, slug: "cafe-la-divina", name: "Cafe La Divina",
+    style: "Italian cafe", specialities: "hot-chocolate",
+    // hood deliberately blank: no source located it. Places will resolve it.
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - HOOD NOT GIVEN. Named only by Time Out's list, which is dated 28 October 2022 and shares zero names with The Infatuation's current guide - TRADING STATUS UNVERIFIED.",
+  },
+  {
+    ...des, slug: "ruby-violet-tufnell-park", name: "Ruby Violet",
+    style: "Ice cream parlour", specialities: "hot-chocolate",
+    hood: "Tufnell Park",
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026. Named only by Time Out's list, which is dated 28 October 2022 and shares zero names with The Infatuation's current guide - TRADING STATUS UNVERIFIED.",
+  },
+  {
+    ...des, slug: "derosier", name: "DeRosier",
+    style: "Patisserie", specialities: "hot-chocolate",
+    // hood deliberately blank: no source located it. Places will resolve it.
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - HOOD NOT GIVEN. Named only by Time Out's list, which is dated 28 October 2022 and shares zero names with The Infatuation's current guide - TRADING STATUS UNVERIFIED.",
+  },
+  {
+    ...des, slug: "konditor-borough", name: "Konditor",
+    style: "Bakery", specialities: "hot-chocolate",
+    hood: "Borough",
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026. Named only by Time Out's list, which is dated 28 October 2022 and shares zero names with The Infatuation's current guide - TRADING STATUS UNVERIFIED.",
+  },
+  {
+    ...des, slug: "apres-food-co", name: "Apres Food Co",
+    style: "Cafe", specialities: "hot-chocolate",
+    // hood deliberately blank: no source located it. Places will resolve it.
+    lists: "hot-chocolate",
+    source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - HOOD NOT GIVEN. Named only by Time Out's list, which is dated 28 October 2022 and shares zero names with The Infatuation's current guide - TRADING STATUS UNVERIFIED.",
+  },
+
 ];
 
 // -------------------------------------------------------------- overrides ---

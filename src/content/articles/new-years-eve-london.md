@@ -19,7 +19,7 @@ heroImage: "../../assets/articles/new-years-eve-london/thames-fireworks.jpg"
 heroImageAlt: "Fireworks bursting in red and blue over the Thames at night, with the London Eye, the Golden Jubilee Bridges and the Elizabeth Tower lit below"
 faq:
   - q: "Do you need a ticket for the London New Year's Eve fireworks?"
-    a: "Yes. The Mayor of London's display is a paid, ticketed event with six fenced viewing areas along the Thames, and City Hall's own wording is blunt: you cannot attend without a ticket, and people without one will not be allowed into the viewing areas. Nothing has gone on sale for 31 December 2026 yet — checked 4 September 2026."
+    a: "Yes. The Mayor of London's display is a paid, ticketed event with six fenced viewing areas along the Thames, and City Hall's own wording is blunt: you cannot attend without a ticket, and people without one will not be allowed into the viewing areas. Nothing has gone on sale for 31 December 2026 yet — checked 7 September 2026."
   - q: "How much are London New Year's Eve fireworks tickets?"
     a: "The 2026/27 price has not been published. Last year, for 31 December 2025, a Category A ticket (Blue, Pink and White areas) was £55, or £35 for anyone with a London billing postcode, and Category B (Red, Green and Orange) was £40, or £20 for Londoners, plus a £2.66 booking fee. Prices have risen most years since the event returned at £15 in 2022."
   - q: "Can you watch the London fireworks for free?"
@@ -32,7 +32,7 @@ faq:
     a: "1pm to 4.30pm on Friday 1 January 2027, with all grandstands opening at 12 noon. The route runs from just off Piccadilly near Green Park station, along Regent Street St James's, Pall Mall, past Trafalgar Square and down Whitehall to finish at Parliament Square."
 ---
 
-**London's New Year's Eve fireworks are ticketed, paid, fenced and they sell out — and as of 4 September 2026, not a single ticket for 31 December 2026 has gone on sale.** The Mayor's own shortlink, london.gov.uk/nye, still redirects to a page for last year's display marked "This event is in the past".
+**London's New Year's Eve fireworks are ticketed, paid, fenced and they sell out — and as of 7 September 2026, not a single ticket for 31 December 2026 has gone on sale.** The Mayor's own shortlink, london.gov.uk/nye, still redirects to a page for last year's display marked "This event is in the past".
 
 That matters, because the internet is already full of New Year's Eve guides quoting prices, on-sale dates and free viewpoints that belong to previous years. This guide separates what is genuinely confirmed for **Thursday 31 December 2026** and **Friday 1 January 2027** from what nobody knows yet.
 
@@ -42,7 +42,7 @@ That matters, because the internet is already full of New Year's Eve guides quot
 
 ## What is actually confirmed
 
-| What | Where it stands on 4 September 2026 |
+| What | Where it stands on 7 September 2026 |
 | --- | --- |
 | Mayor's Thames fireworks, 31 Dec 2026 | Not announced |
 | Fireworks tickets | Not on sale |
@@ -230,4 +230,4 @@ Or accept that the cheapest good New Year's Eve in London is a booked table at 7
 
 ---
 
-*Checked against the organisers' own websites on 4 September 2026. Anything labelled "2025" is last year's, given as a guide only — check the official page before you buy.*
+*Checked against the organisers' own websites on 7 September 2026. Anything labelled "2025" is last year's, given as a guide only — check the official page before you buy.*

@@ -54,12 +54,12 @@ const CLAIM = new RegExp(
 // If any of these sit near the date, the sentence is reporting history rather
 // than making a claim: someone did something on that date, or a body announced
 // something on it. Either way the date is a fact, not a promise.
-const PAST = /\b(?:opened|closed|reopened|ran|ended|returned|launched|built|founded|completed|began|started|was|were|had|since|until\s+its|after|approved|announced|confirmed|emailed|published|reported|said|wrote|granted|voted)\b/i;
+const PAST = /\b(?:opened|closed|reopened|ran|ended|returned|launched|built|founded|completed|began|started|was|were|had|since|until\s+its|after|approved|announced|confirmed|emailed|published|reported|said|wrote|granted|voted)\b|\bno longer\b|\bused to\b|\bformerly\b|\bpreviously\b|\bup until\b/i;
 
 // "Information checked on 1 August 2026" is a freshness stamp. It is meant to
 // age — that is the whole point of it — and audit:fresh is the tool that acts
 // on it. Flagging it here would fire on every article with a footer.
-const STAMP = /\b(?:checked on|verified on|correct (?:as )?(?:at|of)|last (?:checked|updated|reviewed))\b/i;
+const STAMP = /\b(?:checked|verified)(?:\s+on)?\b|\bcorrect (?:as )?(?:at|of)\b|\blast (?:checked|updated|reviewed)\b/i;
 
 const META_KEY = /^\s*(publishedAt|updatedAt|reviewBy|date):/;
 
