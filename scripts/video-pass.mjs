@@ -23,6 +23,15 @@
 //   node scripts/video-pass.mjs --topic=general --url=https://youtu.be/xxxx
 //   node scripts/video-pass.mjs --topic=general --url=... --dry-run
 import fs from "node:fs";
+import { execFile } from "node:child_process";
+import { promisify } from "node:util";
+
+const exec = promisify(execFile);
+// Same path video-research.mjs uses. yt-dlp is the only route to a video's
+// chapter list; the watch page does not carry it.
+const YTDLP =
+  process.env.YTDLP_PATH ??
+  "C:/Users/rober/AppData/Local/Programs/Python/Python312/Scripts/yt-dlp.exe";
 
 const arg = (k) => {
   const hit = process.argv.find((a) => a.startsWith(`--${k}=`));
@@ -67,7 +76,86 @@ async function fetchVideo(url) {
     // empty description this is often the ONLY machine-readable signal.
     keywords: (html.match(/"keywords":\[([^\]]*)\]/)?.[1] ?? "")
       .split(/","/).map((k) => k.replace(/^"|"$/g, "").trim()).filter(Boolean),
+    // CHAPTERS, which this script did not read until now and which are by far
+    // the cleanest signal on the page. video-research.mjs has always used them;
+    // this script went to the description first and fell back to tags, so it
+    // was wired to the two noisiest sources on the page while its sibling used
+    // the good one. A search for fried chicken returned "TOPJAW LIMITED EDITION
+    // SUNGLASSES" and "Fried Chicken Recipe" as venue names from those two,
+    // while the chapter list on the same video read Chicken Valley, Popeyes,
+    // Good Friend Chicken, Jollibee, CheeMc.
+    //
+    // A chapter title is written by the creator to label a segment, so on a
+    // list video it is almost always exactly one venue name. Sponsors, gear
+    // links and SEO tags cannot reach it.
+    chapters: await chaptersFor(id),
   };
+}
+
+// Chapters come from yt-dlp, not from the watch page. Scraping them out of the
+// HTML was tried first and returns nothing - the chapter list is built client
+// side. video-research.mjs has always shelled out for them and this now does
+// the same, at the cost of one subprocess per video.
+async function chaptersFor(id) {
+  try {
+    const { stdout } = await exec(
+      YTDLP,
+      [`https://www.youtube.com/watch?v=${id}`, "--skip-download", "--no-warnings",
+       "--print", "%(chapters)s"],
+      { encoding: "utf8", maxBuffer: 32 * 1024 * 1024 },
+    );
+    const raw = stdout.trim();
+    if (!raw || raw === "NA") return [];
+    // yt-dlp prints a Python repr, so single quotes have to become JSON ones.
+    const parsed = JSON.parse(raw.replace(/'/g, '"'));
+    return Array.isArray(parsed) ? parsed.map((c) => c.title).filter(Boolean) : [];
+  } catch {
+    return [];
+  }
+}
+
+// A LAST GATE, AND IT GUARDS AGAINST OUR OWN DATA.
+//
+// "Confirmed" means a description line matched a name already in the corpus,
+// which is only as trustworthy as the corpus. It is not: a dry run on fried
+// chicken confirmed "Watch this space", "Instagram", "Photographers", "Korean",
+// "British", "Exceptional" and "Community" as venues. "Watch this space" is a
+// Difford's Guide navigation header recorded as a venue in bars.json, so an
+// earlier trap-8 failure was generating fresh evidence for a new topic. That
+// compounds: junk recorded once becomes junk confirmed everywhere after.
+//
+// So a name has to look like a venue regardless of which side vouched for it.
+const NOT_A_VENUE = new Set([
+  "instagram", "photographers", "tik tok", "tiktok", "youtube", "facebook",
+  "british", "korean", "filipino", "louisiana", "japanese", "chinese", "thai",
+  "indian", "italian", "french", "spanish", "vietnamese", "caribbean",
+  "exceptional", "community", "hidden gems", "hidden gem", "watch this space",
+  "korean fried chicken", "fried chicken", "chicken shop", "east", "west",
+  "north", "south", "central", "london", "uk", "england",
+]);
+function isVenueName(name) {
+  const s = String(name).trim();
+  if (s.length < 3 || s.length > 45) return false;
+  if (NOT_A_VENUE.has(s.toLowerCase())) return false;
+  // A cuisine or a category word on its own is a section header, not a room.
+  if (/^(best|top|the best|my favourite|favourite)\b/i.test(s)) return false;
+  // Sentence fragments from descriptions - a venue name has no verb phrase.
+  if (/^(here|there|this|that|if|when|get|let|watch|follow|subscribe|use code)\b/i.test(s)) return false;
+  if (/[?!]$/.test(s)) return false;
+  return true;
+}
+
+// Videos that are not about London. yt-dlp searches for "best fried chicken
+// London" and returns a Huddersfield video whose tags are "Huddersfield food",
+// "Huddersfield Takeaway", "Dixons Milk Ices" - trap 12, and recording it would
+// put Yorkshire venues in a London guide. A UK place name in the title, with no
+// mention of London anywhere, is the reliable tell.
+const ELSEWHERE = /\b(huddersfield|manchester|birmingham|leeds|liverpool|glasgow|edinburgh|cardiff|bristol|newcastle|sheffield|nottingham|brighton|dubai|new york|paris|tokyo)\b/i;
+function isElsewhere(v) {
+  const title = v.title ?? "";
+  if (!ELSEWHERE.test(title)) return null;
+  const mentionsLondon = /\blondon\b/i.test(`${title} ${v.description ?? ""}`);
+  return mentionsLondon ? null : title.match(ELSEWHERE)[0];
 }
 
 // ------------------------------------------------------------ extraction ---
@@ -242,17 +330,36 @@ const unreadable = [];
 for (const url of urls) {
   const v = await fetchVideo(url).catch(() => null);
   if (!v) { console.log(`SKIP  could not read ${url}`); continue; }
+  const away = isElsewhere(v);
+  if (away) { console.log(`SKIP  not London (${away}): ${v.title}`); continue; }
+
   const { confirmed, candidates } = extract(v.description);
   // Fall back to tags. A Short with an empty description has nothing else.
   for (const [k, name] of fromKeywords(v.keywords ?? [], candidates)) confirmed.set(k, name);
+
+  // Chapters are trusted as NEW names; description and tag candidates are not.
+  // That asymmetry is the point. A chapter title on a list video is a venue the
+  // creator labelled; a description line is as likely to be a sponsor, and a
+  // tag is as likely to be "Fried Chicken Recipe". Both still confirm a name we
+  // already track - matching a known venue is evidence either way - but only a
+  // chapter may introduce one.
+  const chapterNames = new Set(
+    (v.chapters ?? [])
+      .map((c) => c.replace(/\s*\([^)]*\)\s*$/, "").trim())
+      .filter((c) =>
+        c.length > 2 && c.length < 40 &&
+        !/^<?untitled/i.test(c) &&
+        !/^(intro|outro|start|end|conclusion|final|ranking|verdict|recap|the list|results?)\b/i.test(c)),
+  );
   const key = v.handle ?? v.channel ?? v.id;
 
   console.log(`\n${v.title}`);
   console.log(`  ${v.channel ?? "?"} ${v.handle ?? ""}   ${v.published ?? ""}`);
-  console.log(`  ${confirmed.size} known venue(s), ${candidates.size} new candidate(s)`);
-  if (confirmed.size) console.log(`  known: ${[...confirmed.values()].slice(0, 12).join(", ")}`);
-  if (candidates.size) console.log(`  new:   ${[...candidates].slice(0, 12).join(", ")}`);
-  if (!confirmed.size && !candidates.size) {
+  console.log(`  ${confirmed.size} known venue(s), ${chapterNames.size} from chapters, ${candidates.size} unrecorded candidate(s)`);
+  if (confirmed.size) console.log(`  known:    ${[...confirmed.values()].slice(0, 12).join(", ")}`);
+  if (chapterNames.size) console.log(`  chapters: ${[...chapterNames].slice(0, 12).join(", ")}`);
+  if (candidates.size) console.log(`  ignored:  ${[...candidates].slice(0, 12).join(", ")}`);
+  if (!confirmed.size && !chapterNames.size && !candidates.size) {
     // Say so rather than passing over it. Some videos genuinely cannot be read:
     // a Short with no description, no useful tags and captions that YouTube now
     // serves empty. Those need a human to watch them, and pretending otherwise
@@ -266,11 +373,27 @@ for (const url of urls) {
   }
   const rec = perChannel.get(key);
   rec.videos.push(v);
-  for (const n of confirmed.values()) rec.names.add(n);
-  for (const n of candidates) rec.names.add(n);
+  for (const n of confirmed.values()) if (isVenueName(n)) rec.names.add(n);
+  for (const n of chapterNames) if (isVenueName(n)) rec.names.add(n);
+  // `candidates` is deliberately NOT recorded. It used to be, which is how
+  // "TOPJAW LIMITED EDITION SUNGLASSES", "Here's where we went" and "Easy
+  // Recipe" would have entered the corpus as venues. They are still printed
+  // above so a human can spot a real venue the chapters missed.
 }
 
-if (DRY) { console.log("\ndry run - nothing written"); process.exit(0); }
+if (DRY) {
+  // Print the recording PLAN, not just the per-video working. The per-video
+  // lines above show what each source offered; this shows what would actually
+  // land in the corpus after both gates, which is the only thing worth
+  // reviewing before a write.
+  console.log(`\n=== would record ${[...perChannel.values()].filter((r) => r.names.size).length} channel(s) ===`);
+  for (const [key, rec] of perChannel) {
+    if (!rec.names.size) { console.log(`  (skip) ${rec.channel ?? key} - nothing survived the gates`); continue; }
+    console.log(`  ${rec.handle ?? key}  ->  ${[...rec.names].join(", ")}`);
+  }
+  console.log("\ndry run - nothing written");
+  process.exit(0);
+}
 
 // One source entry per CHANNEL, listing the videos it came from.
 const path = `data/consensus/${topic}.json`;
