@@ -978,6 +978,46 @@ const breadcrumbs = [
     display: none;
   }
 
+  /* Eleven line cards expanded is a wall of text, so each one collapses.
+     The ratings sit on the summary so the whole set is scannable closed. */
+  .article__body :global(.line-details) {
+    margin: 0.5rem 0;
+    border: 1px solid var(--line);
+    border-radius: var(--card-radius);
+    background: var(--surface);
+    overflow: hidden;
+  }
+
+  .article__body :global(.line-details > summary) {
+    cursor: pointer;
+    padding: 0.7rem 1rem;
+    font-weight: 700;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.3rem 0.75rem;
+  }
+
+  .article__body :global(.line-details > summary:hover) {
+    background: color-mix(in srgb, var(--page) 60%, var(--surface));
+  }
+
+  .article__body :global(.line-details__meta) {
+    font-weight: 500;
+    font-size: 0.86em;
+    opacity: 0.78;
+  }
+
+  /* Inside a card the panel is already framed, so drop its own border. */
+  .article__body :global(.line-details .line-guide) {
+    margin: 0;
+    border: 0;
+    border-top: 1px solid var(--line);
+    border-radius: 0;
+    box-shadow: none;
+    background: none;
+  }
+
   .article__body :global(.line-guide) {
     margin: 0.85rem 0 1.15rem;
     padding: 1rem 1.15rem;
