@@ -24,7 +24,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 
 **Greater Anglia runs from the terminal to Liverpool Street in 53 minutes, from £13.40**, or Stratford in 46 for the Elizabeth line. A taxi is £100 or more. Southend is 40 miles (64 km) east of London, in Essex. It has a single passenger terminal connected via a covered 2-minute walkway to **Southend Airport railway station**.
 
-> 💡 **Quick Verdict: Southend to London (2026)**  
+> 💡 **Quick Verdict: Southend to London (2026).**
 > - **Fastest & Best Option:** **Greater Anglia Rail**. Direct trains run every 20 minutes to **Stratford** (46 mins) and **London Liverpool Street** (52–55 mins).  
 > - **Contactless vs. Oyster:** Contactless bank cards and Apple/Google Pay ARE accepted at Southend Airport station, but **Oyster cards are NOT valid**!  
 > - **Smart Interchange Tip:** Change at **Stratford** for the Elizabeth line to reach Paddington, Farringdon, or Canary Wharf faster than staying on the train to Liverpool Street!

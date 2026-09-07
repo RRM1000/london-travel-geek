@@ -40,7 +40,7 @@ That is the shape of this whole question, and it does not appear on any page sel
 
 > 💡 **The Short Version:** **London's greatest museums are free**, so a large share of visitors should not buy any pass at all. The **1-day pass at £99** is the worst value on the board. The **child pass is poor value** — attractions charge children half, the pass charges them two-thirds. **Historic Royal Palaces membership at £65** beats the pass outright for anyone whose trip is about the palaces. And Go City's own "price without pass" figures quote **walk-up rates**, which nobody sensible pays.
 
-> 📘 **How we worked this out (editorial note)**
+> 📘 **How we worked this out (editorial note).**
 > Pass prices are taken from Go City's own product data on londonpass.com. Attraction prices are taken from **each attraction's own website**, never from the pass seller — the party quoting them has an interest in them looking expensive. Where an attraction sells at one price in advance and a higher price at the door, we use the advance price, because that is what a planning visitor pays. Prices checked 1 September 2026.
 >
 > This site carries affiliate links to activity sellers, including sightseeing passes; nothing in the recommendation below is changed by that, and this article concludes against buying the pass for most readers.

@@ -31,7 +31,7 @@ French cooking in London runs from two three-star hotel dining rooms to a Farrin
 
 > 💡 **The Short Version:** **Alain Ducasse** and **Hélène Darroze** are two of London's six three-star kitchens. **Bouchon Racine** is the bistro revival, above a pub. **Otto's** presses duck at your table. **La Poule au Pot** has been romantic by candlelight since the 1960s. And **lunch is much cheaper everywhere**.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **7 sources carrying 114 citations** across **72 named restaurants**. **19 restaurants are named by two or more independent sources; 27 carry a dated Good Food Guide listing.**
 > **Built on:** the Good Food Guide's twenty-seven inspected French restaurants in London, read against the editorial lists.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*

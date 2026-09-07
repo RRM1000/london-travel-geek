@@ -34,7 +34,7 @@ This is also a category that churns hard. Since this guide was last written, thr
 
 *Every venue status-checked against its own website or booking system on 1 September 2026.*
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Age policies are the venues' own and matter here more than usual - several are family-friendly by day and over-18 after 5, 6 or 7pm. Check before booking with children.
 
 ## Where they are

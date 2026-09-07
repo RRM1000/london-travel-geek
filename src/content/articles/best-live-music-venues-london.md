@@ -29,7 +29,7 @@ This guide covers the rooms rather than the listings, arranged by size, because 
 
 > 💡 **The Short Version:** **O2 Academy Brixton** has the sloping floor bands rave about. **The Roundhouse** is a Victorian railway shed. **Union Chapel** is a working church with extraordinary acoustics. **Cafe OTO** is the most committed small room in the city. And **MOTH Club** has a gold tinsel curtain and is still a members' social club.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Capacities are approximate and change with the layout of a given show.
 
 ## Where they are

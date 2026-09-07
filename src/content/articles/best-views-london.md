@@ -37,7 +37,7 @@ That changes the whole shape of this question. The Shard still has something no 
 
 > 💡 **The Short Version:** **Horizon 22** is free, ticketed, and the highest public viewpoint in London. **The Garden at 120** is free with no booking at all, which makes it the answer at short notice. **One New Change** gives you St Paul's at eye level for nothing. **Parliament Hill** is the best free panorama. And **Frank's Cafe** in Peckham is the best rooftop bar view, from the top of a car park.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Free means genuinely free — no minimum spend and no drink required. Every price, opening time and booking rule on this page was checked against the venue's own website on 2 September 2026, and where a venue does not publish a figure we say so rather than repeating one. Booking rules and opening hours at the free viewpoints change often; check on the day.
 
 ## Where they are

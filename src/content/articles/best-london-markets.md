@@ -31,7 +31,7 @@ We keep a full [markets by day](/markets/) page for exactly that reason. This gu
 
 > 💡 **The Short Version:** **Borough** is the food market everything else is measured against. **Columbia Road** is Sunday only and worth the alarm. **Maltby Street** is the one locals use instead of Borough. And **Billingsgate** trades before dawn and is finished by 8am.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Trading days are the thing that changes most and the thing that ruins a trip — every one here was checked in August 2026, but confirm before travelling for a specific market.
 
 ## Where they are

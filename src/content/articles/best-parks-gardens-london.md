@@ -33,7 +33,7 @@ Almost all of it is free.
 
 > 💡 **The Short Version:** **Richmond Park** for the deer and the scale. **Hampstead Heath** for swimming and the Parliament Hill view. **St Dunstan in the East** is the most atmospheric free thing in the City. **The Barbican Conservatory** is London's best-kept secret. And **the Crystal Palace Dinosaurs** are magnificently, confidently wrong.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Admission is the parks' own and checked August 2026 — the Royal Parks and all council parks are free and always have been. Opening hours are seasonal for most gardens.
 
 ## Where they are

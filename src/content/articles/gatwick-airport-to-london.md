@@ -26,7 +26,7 @@ heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 
 London Gatwick (LGW) is London's second-busiest airport, located 28 miles (45 km) south of Central London. While it has a single central railway station (located at **South Terminal**), three different train operators run from Gatwick into different parts of London.
 
-> 💡 **Quick Verdict: Gatwick to London (2026)**  
+> 💡 **Quick Verdict: Gatwick to London (2026).**
 > - **Best for Victoria & West End:** **Southern Rail** (£10.70 off-peak PAYG / £19.20 peak). Takes 32–40 mins directly to London Victoria—saving almost **50% over Gatwick Express** for essentially the exact same journey time!  
 > - **Best for London Bridge, St Paul's, Farringdon & St Pancras:** **Thameslink Rail** (£10.70 off-peak PAYG / £19.20 peak). Direct cross-London train to London Bridge (30 mins), Blackfriars (35 mins), Farringdon (40 mins), and St Pancras (45 mins).  
 > - **Why Avoid Gatwick Express?** Gatwick Express costs **£24.10 single** (vs £10.70 on Southern/Thameslink off-peak) to save only ~2–4 minutes to Victoria.  

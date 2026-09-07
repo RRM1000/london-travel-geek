@@ -40,7 +40,7 @@ Most guides to this subject refuse to say which places are worth eating in. The 
 
 > 💡 **The Short Version:** **The Yurt Café** is a working café inside a Mongolian yurt. **Feng Shang Princess** is a floating pagoda on the canal. **The Attendant** is a Victorian public lavatory with the urinals as the counter. **Rochelle Canteen** has no sign and a buzzer. **Redemption Roasters** trains its baristas inside prisons. And **The Crosse Keys** is a Wetherspoons in a 1913 banking hall.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. The bar is that the building or the proposition is strange, not that the design is good — which is why Aqua Shard, the OXO Tower and several rooftops were considered and left off. A view is a view.
 
 ## Where they are

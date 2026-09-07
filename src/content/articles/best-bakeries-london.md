@@ -31,7 +31,7 @@ A pastry and a coffee is also **one of the cheapest good breakfasts in London**,
 
 > 💡 **The Short Version:** **Toad** in Camberwell has the queue everyone agrees is justified. **Eric's** in East Dulwich makes what several critics call the best croissant in London, and opens twice a week. **Arôme** does honey butter toast and miso bacon escargots. **E5 Bakehouse** is still the bakers' bakery. **Lisboa Patisserie** has been doing pastéis de nata on Golborne Road since 1984. And **Beigel Bake** on Brick Lane has never closed.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **7 sources carrying 101 citations** across **61 named bakeries**. **16 bakeries are named by two or more independent sources; 10 carry a dated award.**
 > **Built on:** the Good Food Guide's national bakery list — the only judged ranking for bread in Britain — plus six publications. Seven of its ten London entries were new for 2026.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*

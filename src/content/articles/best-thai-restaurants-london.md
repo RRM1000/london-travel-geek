@@ -35,7 +35,7 @@ So this guide is arranged by **what each kitchen actually cooks**. The best of i
 
 > 💡 **The Short Version:** **AngloThai** is the only Michelin-starred Thai restaurant in the UK. **Kiln** in Soho is the best counter cooking — sit at the bar. **Singburi** moved to Shoreditch in 2025 and is the one people argue about. **Esarn Kheaw** has cooked Isaan on the Uxbridge Road since 1992. And **Plaza Khao Gaeng** does Southern curry-over-rice at three sites now.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **13 sources carrying 127 citations** across **64 named restaurants**. **18 restaurants are named by two or more independent sources; 1 holds a Michelin star.**
 > **Built on:** unusually strong agreement — Singburi is named by seven independent sources, more than the top restaurant in half the guides on this site.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*

@@ -34,7 +34,7 @@ What follows is how to do the city properly on a small budget, and what is genui
 
 > 💡 **The Short Version:** Every national museum is free. **Horizon 22** is the highest free viewing platform in London. **Evensong at St Paul's** is free and better than the £27 visit. You can watch a **Supreme Court case** or a **TV recording** for nothing. **Canary Wharf Winter Lights** in January is free while others charge £30. **ICCO** does a £3.95 pizza. And **walking is free** — central London is much smaller than the Tube map suggests.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. "Free" means free at the door with no minimum spend. Prices checked August 2026.
 
 ---

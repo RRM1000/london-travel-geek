@@ -33,7 +33,7 @@ This guide separates the two, because a milestone dinner and a spectacular room 
 
 > 💡 **The Short Version:** **Restaurant Gordon Ramsay** has held three stars since 2001, longer than anywhere else in London. **Core** is Clare Smyth's. **River Café's terrace** takes months. **Clos Maggiore** is the room to book for a proposal. And **Dinner by Heston closes in January 2027**, so this is the year.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Booking windows are what the restaurants themselves publish and are the thing most likely to catch you out.
 
 ## Where they are

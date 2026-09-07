@@ -34,7 +34,7 @@ So this guide does two things. It starts with the restaurants that actually won 
 
 > 💡 **The Short Version:** **Gymkhana** holds two Michelin stars and is named by more sources than anything else here — book months out. **Trishna** is the same idea at half the price and the safest booking on this page. **Dishoom** or **Kricket** for a good central meal with no plan. **Rasa** for Keralan vegetarian cooking that shames most Mayfair vegetable courses. **Shree Krishna Vada Pav** for the best £6 in London.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **22 sources carrying 242 citations** across **103 named restaurants**. **43 restaurants are named by two or more independent sources; 42 carry a dated award.**
 > **Built on:** the Asian Curry Awards, a Michelin selection reaching well beyond the West End, and thirteen independent publications.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*

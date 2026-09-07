@@ -31,7 +31,7 @@ So this guide is arranged by what you are actually queuing for, because "ice cre
 
 > 💡 **The Short Version:** **Gelupo** in Soho is the one that turns up on every list, and it is open to midnight at weekends. **Nardulli** in Clapham has the queue. **Romeo & Giulietta** in Stoke Newington is Time Out's current number one. **Badiani** for the Buontalenti and nothing else. And **Marcelo's** in Crystal Palace is the best vegan ice cream in the city, two days a week only.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **7 sources carrying 105 citations** across **74 named shops**. **20 shops are named by two or more independent sources.**
 > **Built on:** gelato, soft serve and scoop shops counted together, so the guide covers the whole field rather than one format.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*

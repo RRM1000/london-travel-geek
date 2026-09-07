@@ -17,7 +17,7 @@ You can eat extremely well in London for six pounds and extremely badly for sixt
 
 This page is the way into all of them, sorted by what you actually decide first: **what you fancy, where you are, what you want to spend, and how long you have got**.
 
-> 💡 **The 5 Iconic London Food Experiences Every Visitor Should Try (2026)**  
+> 💡 **The 5 Iconic London Food Experiences Every Visitor Should Try (2026).**
 > 1. **A [Sunday roast](/articles/best-sunday-roast-london/) in a historic pub** — thick-sliced beef, a Yorkshire pudding the size of the plate, and gravy. Book by Thursday.
 > 2. **A [Dishoom](/articles/best-breakfast-brunch-london/) bacon naan roll** with chai poured from a height. Breakfast barely queues; the evenings do.
 > 3. **Grazing a [covered market](/articles/best-london-markets/)** — Borough, Seven Dials or Old Spitalfields, where nobody has to agree on one cuisine.
@@ -54,7 +54,7 @@ If you are sightseeing and need a great meal nearby without taking a long Tube j
 
 ---
 
-> 💡 **Essential Rules for Eating Out in London**  
+> 💡 **Essential Rules for Eating Out in London.**
 > * **12.5% Discretionary Service Charge:** Almost all London sit-down restaurants automatically add a 12.5% discretionary service charge to the final bill. You do not need to leave extra cash on the table.  
 > * **100% Cashless City:** Street-food traders, markets, food halls, and pubs are almost exclusively card/contactless (Apple Pay & Google Pay are accepted everywhere).  
 > * **Food Halls Need No Bookings:** Covered food halls like *Seven Dials Market*, *Arcade Food Hall*, and *Mercato Mayfair* do not take reservations—just walk in, find a seat, and order via QR code or counter.  

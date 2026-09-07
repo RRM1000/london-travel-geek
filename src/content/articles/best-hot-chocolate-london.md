@@ -26,13 +26,12 @@ faq:
 
 This page is not our opinion. Every venue is ranked by how many independent lists, blogs and video reviews name it.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here rests on one visit. This pass reads **12 sources carrying 67 citations** across **39 named venues** — the editorial mastheads (Time Out, The Infatuation), the independent blogs (Mostly Food and Travel, Clumsy Girl Travels, DesignMyNight) and the year's London hot chocolate videos. **Eight venues are named by two or more independent sources.**
-> **The known weakness in this topic:** no judged award exists for hot chocolate anywhere in Britain, so this ranking rests on editorial and independent consensus alone, with nothing judged to anchor it. There is no community tier either — Reddit could not be read for this pass.
 > *Evidence rebuilt 7 September 2026 · [How we rank →](/how-we-rank/)*
 
-> ⏱️ **When to go**
-> **No booking anywhere on this page.** These are counters and shops, not restaurants. The two things that decide a trip are days and queues: **Andrea's opens weekends only**, and **Dark Sugars, Chin Chin and Italian Bear all queue at weekends** — go on a weekday afternoon and you walk straight in.
+> ⏱️ **When to go.**
+> None of these take bookings — they are counters and shops rather than restaurants, so turning up is the only way in. Two things decide whether that works: **Andrea's opens at weekends only**, and **Dark Sugars, Chin Chin and Italian Bear all queue at weekends**. Go on a weekday afternoon and you walk straight in.
 
 ---
 

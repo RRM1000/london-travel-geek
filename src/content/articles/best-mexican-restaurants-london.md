@@ -33,7 +33,7 @@ This guide skips the burrito.
 
 > 💡 **The Short Version:** **Kol** has the Michelin star and uses only British produce. **Cavita** is Time Out's pick. **Santo Remedio** cooks the dishes other London Mexicans avoid. **Comalera** in Walthamstow presses its own tortillas and is the cheapest good one. And **Mestizo** is where the mezcal is.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **11 sources carrying 131 citations** across **59 named restaurants**. **22 restaurants are named by two or more independent sources; 1 holds a Michelin star.**
 > **Built on:** specialist taquería writers, plus KOL — the one Mexican restaurant in London holding a Michelin star.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*

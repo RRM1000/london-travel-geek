@@ -29,12 +29,12 @@ Both are here, alongside the hotel rooms where breakfast is a business meeting.
 
 > 💡 **The Short Version:** **The Wolseley** is the London power breakfast in a 1920s car showroom. **Dishoom's bacon naan roll** is the one worth queueing for. **Granger & Co** started the London brunch thing and the hotcakes are still on the menu. **Duck & Waffle** is open 24 hours forty floors up. And **Wetherspoons** does a cooked breakfast from 8am for a few pounds.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **14 sources carrying 211 citations** across **162 named rooms**. **36 rooms are named by two or more independent sources; 9 by three or more.**
 > **Built on:** fourteen sources across every price point, from a Michelin-starred breakfast to a £6.50 fry-up in Newham, with twenty-five caffs individually priced.
 > *Evidence rebuilt 31 August 2026 · [How we rank →](/how-we-rank/)*
 
-> 📅 **Booking, at a glance**
+> 📅 **Booking, at a glance.**
 > **Book weeks ahead:** Duck & Waffle (the window tables especially), Hide, Fallow, Akub.
 > **Book a few days ahead, and always for a weekend:** The Wolseley, Berners Tavern, Bistrotheque, Carmel, Mr Bao, The Laundry, Inis, Megan's.
 > **Bookable but rarely needed at breakfast:** Dishoom takes any party size before 6pm, and mornings barely queue.

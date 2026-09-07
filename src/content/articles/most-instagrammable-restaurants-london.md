@@ -27,15 +27,14 @@ Some rooms are booked for the cooking and some are booked for the photograph, an
 
 That distinction matters more than it sounds. **Every venue below is ranked by how many independent guides name it for its interior**, not by how it eats. A few are among the better kitchens in London. One is a chain. One is a viewing platform with restaurants inside it. Where a room is better looking than it is good, this page says so.
 
-> 📌 **The short version**
+> 📌 **The short version.**
 > **Bacchanalia**, Mayfair, is named by six of seven sources — more than any other room in London. **Sketch** and **Circolo Popolare** follow on five each. The cheapest genuinely striking room is **Bar Douro** in Borough at ££. The one people get wrong is **Sky Garden**: the garden is free with a booked slot, the restaurants inside it are not.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here rests on one visit. This pass reads **7 sources carrying 148 citations** across **105 named venues** — three editorial mastheads (DesignMyNight, HELLO!, Country & Town House) and four independent specialists. **23 rooms are named by two or more independent sources.**
-> **The known weakness in this topic:** there is no judged award for a restaurant interior, so nothing here carries a dated ranking the way a food guide would — this is editorial consensus alone. Two mastheads that belong in it, Visit London and The Handbook, refused to load. And the tier that ought to matter most on a topic about photographs, video and social, could not be collected at all in this pass. That is a real hole and it is named rather than hidden.
 > *Evidence rebuilt 3 September 2026 · [How we rank →](/how-we-rank/)*
 
-> ⏱️ **How far ahead to book**
+> ⏱️ **How far ahead to book.**
 > **Months:** Sessions Arts Club. **Weeks:** Bacchanalia, Sketch, Circolo Popolare, Ave Mario, Gloria, Bob Bob Ricard, NoMad London, Spring, Isabel, Joia, Petersham Nurseries, Seabird, Winter Garden. **Days:** Brasserie of Light, Dalloway Terrace, Bar Douro, Sucre, Tattu, Sticks'n'Sushi, The Ivy Chelsea Garden. **Timed slot, book free in advance:** Sky Garden.
 
 ## Where they are

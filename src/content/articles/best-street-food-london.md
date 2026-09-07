@@ -30,7 +30,7 @@ London's street food is not one thing, and the difference that actually decides 
 
 > 💡 **The Short Version:** **Borough** is the one everything else is measured against, and it is **closed Mondays**. **Seven Dials Market** is the best covered hall in the centre. **Bang Bang Oriental** in Colindale has the deepest pan-Asian line-up in Britain and is a proper trek. **Maltby Street** is Friday evening to Sunday only. And **Mercato Metropolitano at Elephant & Castle closes at the end of 2026** — go while you can.
 
-> 📊 **How this guide is put together**
+> 📊 **How this guide is put together.**
 > Street food has no judged award and only a handful of editorial rankings, so this is **not** a consensus ranking in the way our restaurant guides are. Three independent lists — Time Out, Hot Dinners and DesignMyNight — are used to establish which venues the press agrees are worth naming; everything else here is **checked against each venue's own site**.
 > **Prices are deliberately not listed.** Almost no London food hall publishes a venue-wide price guide, and a made-up figure is worse than none. Assume roughly £9–16 for a main plate almost everywhere, less at the weekday street markets.
 > *Checked 31 August 2026 · [How we rank →](/how-we-rank/)*

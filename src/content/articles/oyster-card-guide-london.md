@@ -26,7 +26,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 
 One of the most common questions for travelers visiting London is whether to buy an **Oyster card** or simply tap a **contactless bank card or smartphone**.
 
-> 💡 **The Quick Verdict: Contactless vs. Oyster Card**  
+> 💡 **The Quick Verdict: Contactless vs. Oyster Card.**
 > - **For 95% of Adult Visitors:** Use **Contactless** (Visa, Mastercard, Apple Pay, Google Pay). You get the exact same fares and daily price capping as an Oyster card, with **zero upfront fees** (£0 vs £10.50) and no need to manage balance top-ups.  
 > - **When to Buy an Oyster Card:** Get an Oyster card if you want to pay with **cash**, if your foreign bank card charges high fixed transaction fees, or if you need to load **discount passes** (e.g. Young Visitor 50% child discount or National Railcards for 1/3 off off-peak fares).  
 > - **Never Buy Paper Tickets:** Single paper Underground tickets cost almost double the pay-as-you-go rate (e.g. £6.70 paper vs £3.00 pay-as-you-go in Zone 1)!

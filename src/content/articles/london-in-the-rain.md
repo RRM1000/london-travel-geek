@@ -33,7 +33,7 @@ Almost everything here is free.
 
 > 💡 **The Short Version:** Every **national museum** is free and indoors. **Leadenhall, Seven Dials and Covent Garden's halls** are covered markets. The **Barbican Conservatory** is a tropical garden inside a concrete tower. The **Silver Vaults** are underground. And **Babylon Park** in Camden is three floors below street level.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Everything here is genuinely indoors or covered — not "mostly sheltered". Free means free at the door.
 
 ---

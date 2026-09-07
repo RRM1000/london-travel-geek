@@ -30,7 +30,7 @@ Every one of the big national museums is free at the door, too. The expensive at
 
 > 💡 **The Short Version:** **Young V&A** is free, needs no booking and is built for children. The **city farms** are all free. **Granary Square fountains** are the best free thing in London on a hot day. **Babylon Park** in Camden has the only indoor rollercoaster in the city, with a 105cm height limit. And **Mail Rail** puts you on a train inside real Post Office tunnels.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Prices, hours and age limits below were checked against each venue's own website on 1 September 2026 and will drift; the deciding facts are the ones worth re-checking. Where something is free we mean genuinely free at the door. Age suitability is the venues' own guidance, and worth checking — several attractions marketed at families are 12+.
 
 ## Where they are

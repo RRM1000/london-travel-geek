@@ -34,7 +34,7 @@ That is the useful fact, and no ranking gives it to you. So this guide is arrang
 
 > 💡 **The Short Version:** **Mangal II** in Dalston and **Antepliler** on Green Lanes are the most-cited. **Gökyüzü** is the Green Lanes landmark. **Zahter** and **Yeni** are the two Soho rooms in the Michelin Guide. **Durak Tantuni** does the best cheap thing in the guide. And if you only make one trip, make it to Green Lanes rather than the West End.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **7 sources carrying 97 citations** across **52 named restaurants**. **27 restaurants are named by two or more independent sources.**
 > **Built on:** seven independent publications and Harden's inspected selection — Haz, Baraka and Leydi.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*

@@ -29,7 +29,7 @@ Nothing on this page is here because it is *good value for the money*. That is a
 
 > 💡 **The Short Version:** **ICCO** does a twelve-inch pizza for £3.95. **Kolkati** at Seven Dials is the best fiver in Covent Garden. **Michael's Fish Bar** is the cheapest good chippy in London — bring cash. **Horn OK Please** at Borough Market is the best cheap vegetarian food in the city. And **Kung Fu Noodle** is a proper cooked meal minutes from Leicester Square.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **11 sources carrying 183 citations** across **140 named places**. **11 places are named by two or more independent sources.**
 > **Built on:** 140 places across every corner of London, and the eleven several writers independently rate. Some entries are the cheap version of something with its own guide here, and carry the count from **their own** sources, labelled — *Cited by 7 fish and chips sources*. A bare number always means the cheap-eats sources.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*

@@ -34,12 +34,12 @@ More than a thousand official blue plaques exist in London, and the pleasure of 
 
 This is a guide to the ones worth building a walk around.
 
-> 🗺️ **[See every one of them on our interactive map →](/plaques/)**
+> 🗺️ **[See every one of them on our interactive map →](/plaques/).**
 > All 3,630 London plaques, official and unofficial — search by name or inscription, filter by colour or subject, and find what's near you.
 
 > 💡 **The Short Version:** **Belgravia** has Mozart, Mary Shelley, Fleming and Tennyson in one short walk. **Bloomsbury** has Dickens, Darwin and Keynes. **Mayfair** has Handel and Hendrix next door to each other, and both houses are open as one museum. **St James's** has the oldest surviving plaque in London, put up in 1867 while its subject was still alive and still ruling France.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. These are English Heritage plaques unless noted. Nearly all mark private homes rather than anywhere you can go inside.
 
 ## Where they are

@@ -33,7 +33,7 @@ This is a guide to the **rooms worth going to for the room** — pubs, mostly, p
 
 > 💡 **The Short Version:** **Ye Olde Cheshire Cheese** is the one to see if you only see one — a warren of dark cellars rebuilt in 1667. **The Grapes** in Limehouse is Dickens's pub and Ian McKellen part-owns it. **The Town of Ramsgate** has had a pub on the site since 1545. **The Crosse Keys** is a Wetherspoons inside a 1913 banking hall. And **The Cinnamon Club** is the old Westminster Library with the shelves still up.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **7 sources carrying 76 citations** across **45 named pubs and rooms**. **15 pubs and rooms are named by two or more independent sources.**
 > **Built on:** the specialists — six of the seven publications are independent blogs and tour writers, which for this subject are the people who check the dates.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*

@@ -33,7 +33,7 @@ The most useful thing to know: **the free contemporary galleries are the quiet o
 
 > 💡 **The Short Version:** **Tate Modern** is the one everybody does and the tenth-floor view is free. **The National Gallery** is unfinishable — pick two rooms. **White Cube Bermondsey** is the best free contemporary space. **Dulwich** was the world's first public gallery. And the **Wallace Collection** is the one you can complete in an afternoon.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Admission prices are the galleries' own, checked August 2026. Commercial galleries are free and often overlooked — we have included the ones that mount museum-scale shows.
 
 ## Where they are

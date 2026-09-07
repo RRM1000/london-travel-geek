@@ -25,7 +25,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 
 London is not a monolithic city—it is a tapestry of distinct, walkable villages stretched along the River Thames. Exploring London is about discovering these unique pockets, from historic West End theatre courtyards to maritime riverfronts and cobblestone food markets.
 
-> 💡 **Where to start**
+> 💡 **Where to start.**
 > - **First trip, three or four days:** the first table will fill it.
 > - **Returning, or staying a week:** work through the second.
 > - **Been three times already:** the third is where London actually lives.

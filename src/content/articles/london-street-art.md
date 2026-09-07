@@ -37,7 +37,7 @@ This guide **says which are gone**, which is the single most useful thing a stre
 
 > 💡 **The Short Version:** The **Cannon Street rat** is one of the earliest survivors. Two **Basquiat tributes** sit in one tunnel by the Barbican. The **2024 animal series** left work across the city, though several pieces vanished within days. **Leake Street** is legal graffiti under Waterloo and repainted constantly. And **Shoreditch** is still the densest area.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Street art is impermanent by nature. Everything here was checked in August 2026 and we have flagged what had already been removed — but a piece can disappear the week after publication, so treat any single work as provisional.
 
 ## Where they are

@@ -29,7 +29,7 @@ Several are cheaper than the chains, and one is where film was first shown in Br
 
 > 💡 **The Short Version:** **The Prince Charles** is the cult cinema of London, with 35mm and all-night marathons. **Regent Street Cinema** is where the Lumières first showed film in Britain in 1896. **Electric Portobello** opened in 1911, is London's oldest purpose-built cinema, and has armchairs, sofas and front-row beds. **Peckhamplex** shows current releases for £6.99. And **Screen on the Canal** is free.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. No chains, except where a chain operates a genuinely historic building. Programmes change weekly — check the cinema's own listings rather than an aggregator.
 
 ## Where they are

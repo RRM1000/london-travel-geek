@@ -29,7 +29,7 @@ This one is arranged **by what you are actually paying**, because the range here
 
 > 💡 **The Short Version:** **Plates** is the UK's first Michelin-starred vegan restaurant and the hardest table on this page. **Mildreds** made vegetarian food in London normal and is still the easy answer. **Tofu Vegan** is the best value of the well-known ones. **Diwana** is the cheapest good meal in central London. And **Temple of Seitan** is vegan fried chicken that behaves exactly like fried chicken.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **9 sources carrying 113 citations** across **66 named restaurants**. **19 restaurants are named by two or more independent sources.**
 > **Built on:** deep specialist coverage — five of the nine publications write about nothing else, so this reaches kitchens the general press never reviews.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*

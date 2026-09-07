@@ -33,7 +33,7 @@ The single most useful thing to know: **most dim sum halls stop serving around 5
 
 > 💡 **The Short Version:** **Royal China** on Baker Street is the benchmark and takes no bookings at peak. **A. Wong** is the only two-starred Chinese kitchen in Europe and its lunch is the cheap way in. **Tao Tao Ju** is the refined end of Chinatown. **Dragon Castle** is half the price for the same thing. And **Yauatcha** serves all day.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Service times are the detail that changes most — confirm before travelling.
 
 ## Where they are

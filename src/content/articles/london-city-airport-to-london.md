@@ -24,7 +24,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
 
 London City Airport (LCY) is the most centrally located airport in London, situated just 6 miles (10 km) east of the City of London in Zone 3.
 
-> 💡 **Quick Verdict: London City Airport to London (2026)**  
+> 💡 **Quick Verdict: London City Airport to London (2026).**
 > - **Cheapest & Fastest Route:** **Docklands Light Railway (DLR)**. Standard TfL Zone 3-to-1 pay-as-you-go fare (**£3.40 off-peak** / **£4.10 peak**).  
 > - **Direct Access:** The DLR station is physically attached to the airport terminal (a 2-minute covered walk).  
 > - **Best Connections:**  

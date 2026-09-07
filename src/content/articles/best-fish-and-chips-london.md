@@ -30,7 +30,7 @@ So instead of adding one more opinion, we counted. Every shop below is placed by
 
 > 💡 **The Short Version:** **Poppies** is the most-cited chippy in London. **The Fryer's Delight** is the one that still fries in beef dripping. **Brockley's Rock** and **Stones** are the only London shops on the 2026 award shortlist. **Michael's Fish Bar** is Time Out's number one and costs half what the centre does. **Nautilus** fries in matzo meal. And **Masters Superfish** near Waterloo is the biggest portion for the money.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **13 sources carrying 137 citations** across **58 named chippies**. **24 are named by two or more independent sources; 2 carry a dated award.**
 > **Built on:** specialist blogs that actually leave Zone 1, plus the two London shops with a National Fish and Chip Awards placement.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*

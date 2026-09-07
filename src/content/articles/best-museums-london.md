@@ -33,7 +33,7 @@ This guide covers both: the ones you have heard of, and the ones worth crossing 
 
 > 💡 **The Short Version:** The **British Museum** and **Natural History Museum** are the ones everybody does, and both deserve it. **Sir John Soane's Museum** is the best small museum in Britain. **The Wellcome Collection** is the strangest free thing in London. **Young V&A** is the answer with children. The **Postal Museum's Mail Rail** puts you on a train inside real Post Office tunnels. And **V&A East Storehouse** in Stratford will bring almost any object in the collection out for you to look at, free.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Visitor figures are ALVA's audited numbers for 2025. Admission prices are the museums' own and were checked in August 2026 — special exhibitions inside free museums are almost always ticketed separately.
 
 ## Where they are

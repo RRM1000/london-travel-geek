@@ -33,7 +33,7 @@ Those places are genuinely good — this is not a list of last resorts.
 
 > 💡 **The Short Version:** **Duck & Waffle** is open 24 hours, forty floors up. **The Polo Bar** has traded 24 hours since 1953 and has no front door to shut. **Tayyabs** in Whitechapel is the best meal on this page. **Ranoush** on Edgware Road is the best £10. And **Voodoo Ray's** sells pizza by the slice until the small hours.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Late-night opening is the single most volatile thing a restaurant publishes — every time here was checked against the venue's own listing, but confirm before crossing London at 1am.
 
 ## Where they are

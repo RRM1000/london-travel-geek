@@ -31,7 +31,7 @@ There are around **3,630 commemorative plaques** across Greater London — small
 
 This guide covers how they work. For the ones worth making a trip for, see **[the plaques worth walking to](/articles/london-blue-plaques/)**.
 
-> 🗺️ **[Explore all 3,630 on our interactive map →](/plaques/)**
+> 🗺️ **[Explore all 3,630 on our interactive map →](/plaques/).**
 > Search any name, inscription or organisation. Filter by colour or subject. See exactly which plaques are near you, right now — free, and nothing else in London covers this many.
 
 > 💡 **The Short Version:** English Heritage runs the official scheme, but it is only one of many. Of London's 3,630 plaques, fewer than 1,000 are official ones. The rest come from the City of London Corporation, borough councils and dozens of independent trusts and societies — which is why the colours vary so much.

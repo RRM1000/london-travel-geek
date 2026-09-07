@@ -35,7 +35,7 @@ The modern shops are worth your time too — but there is a pattern in them wort
 
 > 💡 **The Short Version:** **Beigel Bake** on Brick Lane for salt beef, open 24 hours. **Max's Sandwich Shop** for the Ham, Egg 'n' Chips. **Paul Rothe & Son** has been cutting sandwiches into triangles since 1900. **Kappacasein** does the toastie, three days a week only. And **Quo Vadis** in Soho does the smoked eel sandwich, which is the most famous individual sandwich in the city.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Sandwich shops keep short hours and several are weekday-only or pre-order-only, so check before making a special trip.
 
 ## Where they are

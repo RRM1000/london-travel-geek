@@ -29,7 +29,7 @@ These are the routes worth planning around, all free.
 
 > 💡 **The Short Version:** **Westminster to Tower Bridge** on the south bank is the classic hour. **Rotherhithe to Greenwich** is the quiet stretch almost nobody else walks. **Wapping to Limehouse** is the riverside pub route. And the **City on a Sunday** is empty and extraordinary.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Timings are walking pace without stopping — every route here has enough on it that you should double them.
 
 ---

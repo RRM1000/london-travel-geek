@@ -25,7 +25,7 @@ heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 
 London Stansted (STN) is London's primary hub for low-cost airlines like Ryanair and Jet2, situated 40 miles (64 km) northeast of Central London. 
 
-> 💡 **Quick Verdict: Stansted to London (2026)**  
+> 💡 **Quick Verdict: Stansted to London (2026).**
 > - **Fastest & Most Reliable:** **Stansted Express** train. Takes **37 mins** to Tottenham Hale (Victoria line interchange) and **48 mins** to London Liverpool Street (The City & Elizabeth line). Fares start from **£9.90 advance** (or ~£21.90 walk-up/contactless).  
 > - **Cheapest Budget Option:** **National Express / Airport Bus** (from **£5.00** advance). Takes 50–100 mins depending on traffic to Stratford, Victoria, or Baker Street.  
 > - **Contactless vs. Oyster:** Contactless bank cards and Apple/Google Pay ARE accepted on Stansted Express, but **Oyster cards are NOT accepted**!

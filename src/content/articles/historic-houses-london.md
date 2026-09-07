@@ -31,7 +31,7 @@ London's historic interiors range from a royal palace to a chapel that is the la
 
 > 💡 **The Short Version:** **Sir John Soane's Museum** is free and the best small house museum in Britain. **Eltham Palace** is an art deco mansion grafted onto a medieval palace. **The Painted Hall** in Greenwich is Britain's Sistine Chapel. **St Dunstan in the East** is a bombed church filled with vines. And **Evensong at St Paul's** is free and better than the paid visit.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Admission prices are the venues' own, checked August 2026. Where a building is free to enter but charges for one part of it, we have said which.
 
 ## Where they are

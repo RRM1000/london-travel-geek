@@ -34,7 +34,7 @@ So rather than add another opinion, we counted. Every restaurant below is ranked
 
 > 💡 **The Short Version:** **Bleecker** and **The Plimsoll** are level at the top on seven sources each. **Honest Burgers** won the National Burger Awards 2026 — but only at one branch. **Supernova** is the best thing in Soho with a 25-word menu. **Dove** makes ten burgers a night and stops. And **Jupiter Burger** is the best £10 of the lot.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > This pass reads **9 sources carrying 110 citations** across **49 named burgers**. **24 are named by two or more independent sources; 6 carry a dated award.**
 > **Built on:** the National Burger Awards 2026, plus seven independent publications and listings sites.
 > *Evidence built 31 August 2026 · [How we rank →](/how-we-rank/)*

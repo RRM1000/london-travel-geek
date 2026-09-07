@@ -33,7 +33,7 @@ This is a guide to **independents worth crossing a street for**, not chains. Mos
 
 > 💡 **The Short Version:** **Monmouth** has been roasting since 1978 and remains the default. **Rosslyn** tops the rankings and has almost no seats. **Prufrock** trained most of the city's baristas. **Kaffeine** brought the antipodean thing here. **The Attendant** is inside a Victorian lavatory. And **Redemption Roasters** roasts in prisons.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. No chains. Where a shop roasts its own we say so.
 
 ## Where they are

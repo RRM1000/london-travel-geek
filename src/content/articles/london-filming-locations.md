@@ -27,7 +27,7 @@ London is the most filmed city in Europe and most of its locations are ordinary 
 
 > 💡 **The Short Version:** **Australia House** is Gringotts and you cannot go in. **North Gower Street** is Sherlock's Baker Street. **Aldersgate Street** has the Slough House door. **Leadenhall Market** is Diagon Alley. And **Rules** in Covent Garden is Bond's favourite restaurant, written into *Spectre*.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Locations are the ones confirmed by production credits, location agencies or the films themselves. Several are private or working buildings — we say which, and none of this is an invitation to trespass.
 
 ## Where they are

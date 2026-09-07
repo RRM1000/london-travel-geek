@@ -39,7 +39,7 @@ The trade-off is not quality — it is certainty. A £30 ticket buys you a booke
 
 > 💡 **The Short Version:** **The Comedy Store** is where all of this began and still the benchmark. **Angel Comedy** runs free stand-up seven nights a week across two pubs and is the best value in London. **Top Secret** is the cheap central option where big names drop in unannounced. **Always Be Comedy** in Kennington gets the surprise guests. And the **Comedy Store Players** have been improvising on the same stage since 1985.
 
-> 📘 **How we choose these (editorial note)**
+> 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Line-ups change weekly and rooms above pubs close without much warning; check before travelling.
 
 ## Where they are

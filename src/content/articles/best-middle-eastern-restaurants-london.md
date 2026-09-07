@@ -33,7 +33,7 @@ Arranged **by tradition**, because that is what actually determines the meal.
 
 > 💡 **The Short Version:** **Al Waha** is the Lebanese room the guides agree on. **The Barbary** is the best seat in London if you like watching food cooked. **Mangal 2** in Dalston is the most inventive Turkish kitchen in Britain. **Akub** is the only serious Palestinian restaurant here. And **Pilpel** does the best £8 lunch in the City.
 
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This page reads three separate corpora, because these are three separate cuisines that London menus file together: **Middle Eastern — 14 sources, 177 citations across 103 restaurants, 37 named twice or more**; **Turkish — 7 sources, 97 citations across 52 restaurants, 27 named twice or more**; **Greek — 4 sources, 64 citations across 39 restaurants, 14 named twice or more**. Every count below comes from the venue's own cuisine, never from another.
 > **Built on:** nine independent publications across three cuisines that London menus file together but which are not the same food.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
