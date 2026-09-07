@@ -410,4 +410,23 @@ const jsonLd = JSON.stringify(
     line-height: 1;
     text-decoration: none;
   }
+
+  /* Inline affiliate links inside article prose, from remark-hotel-links.
+     The chip has to read as a label rather than as the last syllable of the
+     link text - without it "Zedwell Capsule Piccadilly Circusad" is what a
+     reader sees. Same wording and weight as the marker on the property
+     cards, so one disclosure covers both. */
+  .hotel-link__ad {
+    margin-inline-start: 0.3em;
+    padding: 0.05em 0.35em;
+    border-radius: 3px;
+    background: var(--chip, #f1efea);
+    color: var(--muted, #555);
+    font-size: 0.68em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    text-decoration: none;
+    vertical-align: 0.15em;
+  }
 </style>

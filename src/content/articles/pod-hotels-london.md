@@ -33,7 +33,7 @@ A capsule is a sealed berth roughly the size of a single bed, lined in oak, with
 
 London has **four of them**. Not the ten or eleven you will find on most lists — those pad the number with hostels, with small-room hotels, and in a couple of cases with places that closed or never opened here.
 
-> 💡 **The Short Version:** **Zedwell Capsule Piccadilly Circus** is the one to book — 965 berths one minute from the Tube, a 24-hour front desk, and the lowest price of the four. **Zedwell Leicester Place** is the same product at a quieter address. **Otherwander Soho** is nicer and roughly double the price. **The GreenHouse** in Bethnal Green is tiny, has almost no staff, and costs more than Zone 1 on a quiet night.
+> 💡 **The Short Version:** **[Zedwell Capsule Piccadilly Circus](hotel:zedwell-piccadilly-capsule)** is the one to book — 965 berths one minute from the Tube, a 24-hour front desk, and the lowest price of the four. **Zedwell Leicester Place** is the same product at a quieter address. **Otherwander Soho** is nicer and roughly double the price. **The GreenHouse** in Bethnal Green is tiny, has almost no staff, and costs more than Zone 1 on a quiet night.
 
 ## What a night in one is actually like
 
@@ -92,11 +92,11 @@ Rates below are the cheapest and dearest we saw across five sampled dates: a qui
 
 | | Per night | What moves it |
 | --- | --- | --- |
-| **Zedwell Capsule Piccadilly Circus** | **£33 – £68** | Cheapest of the four on every date |
+| **[Zedwell Capsule Piccadilly Circus](hotel:zedwell-piccadilly-capsule)** | **£33 – £68** | Cheapest of the four on every date |
 | **Zedwell Capsule Piccadilly, female floor** | £40 – £75 | About £7 a night above the mixed floors |
-| **The GreenHouse Capsules** | £42 – £53 | Barely moves all year |
-| **Otherwander Soho** | £62 – £119 | Roughly double Zedwell throughout |
-| **Zedwell Leicester Place** | Book direct | Not sold through the booking sites |
+| **[The GreenHouse Capsules](hotel:greenhouse-capsules)** | £42 – £53 | Barely moves all year |
+| **[Otherwander Soho](hotel:otherwander-soho)** | £62 – £119 | Roughly double Zedwell throughout |
+| **[Zedwell Leicester Place](hotel:zedwell-leicester-place-capsule)** | Book direct | Not sold through the booking sites |
 
 Two things worth knowing about these numbers.
 
@@ -108,7 +108,7 @@ Two things worth knowing about these numbers.
 
 ### Zedwell Capsule Piccadilly Circus — book this one
 
-*£33–£68 · 965 capsules · London Pavilion, W1J 0DA · Piccadilly Circus 1 min*
+*£33–£68 · 965 capsules · London Pavilion, W1J 0DA · Piccadilly Circus 1 min · [check prices](hotel:zedwell-piccadilly-capsule)*
 
 The largest capsule hotel in the UK, on five floors of the Grade II London Pavilion — the building that used to hold Ripley's Believe It or Not. **One minute from Piccadilly Circus station**, six from Leicester Square.
 
@@ -118,7 +118,7 @@ The trade is atmosphere. Nine hundred and sixty-five berths in one building feel
 
 ### Zedwell Leicester Place — the same thing, calmer
 
-*Book direct · 222 capsules · 7 Leicester Place, WC2H 7BY · Leicester Square 2 min*
+*222 capsules · 7 Leicester Place, WC2H 7BY · Leicester Square 2 min · [book direct](hotel:zedwell-leicester-place-capsule)*
 
 Identical product, identical policies, a fifth of the size — and **above the Prince Charles Cinema**, which is a good address to wake up at. Dormitories run from 3 to 100 capsules, so this is the one for a group that wants a room of its own.
 
@@ -126,7 +126,7 @@ It is **not sold on Hotels.com or the other booking sites** — a search of the 
 
 ### Otherwander Soho — the nicer one, at a Soho price
 
-*£62–£119 · 563 pods over 6 floors · 92 Dean Street · Tottenham Court Road 3 min*
+*£62–£119 · 563 pods over 6 floors · 92 Dean Street · Tottenham Court Road 3 min · [check prices](hotel:otherwander-soho)*
 
 Sold as **"nests"**, upper and lower, in singles and doubles — and the double nest genuinely sleeps two, which none of the others offer. Air conditioning, lighting and a socket in every pod, three minutes from the Elizabeth line.
 
@@ -136,7 +136,7 @@ At roughly double the Zedwell rate all year, a single nest here can cost more th
 
 ### The GreenHouse Capsules — small, east, and not the bargain it looks
 
-*£42–£53 · 8 units · 93 Roman Road, E2 0QN · Bethnal Green 7 min*
+*£42–£53 · 8 units · 93 Roman Road, E2 0QN · Bethnal Green 7 min · [check prices](hotel:greenhouse-capsules)*
 
 An eco-conscious capsule hostel on a working East London market street, a short walk from Victoria Park and about ten minutes from Brick Lane. **Check-out is 11am**, an hour later than the others, and the Wi-Fi is the fastest of the four.
 

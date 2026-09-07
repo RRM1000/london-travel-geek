@@ -318,14 +318,16 @@ const breadcrumbs = [
           <ListHotels
             list="capsules"
             heading="Book a capsule"
-            intro="Cheapest first. Ranges are what we saw across five sampled dates, not a quote for your night."
+            intro="In the order this guide recommends them. Ranges are what we saw across five sampled dates, not a quote for your night."
+            order={["zedwell-piccadilly-capsule", "zedwell-leicester-place-capsule", "otherwander-soho", "greenhouse-capsules"]}
           />
         )}
         {articleId === "windowless-hotel-rooms-london" && (
           <ListHotels
             list="windowless"
             heading="Book a windowless room"
-            intro="Cheapest first. Ranges are what we saw across five sampled dates, not a quote for your night."
+            intro="In the order this guide recommends them. Ranges are what we saw across five sampled dates, not a quote for your night."
+            order={["zedwell-tottenham-court-road", "zedwell-greenwich", "zedwell-piccadilly-circus", "zedwell-knightsbridge", "zedwell-park-lane"]}
           />
         )}
         {area && <AreaMap articleId={articleId} areaName={area.name} />}

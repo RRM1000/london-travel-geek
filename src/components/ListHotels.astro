@@ -13,15 +13,17 @@
 import data from "../data/hotels.json";
 
 interface Props {
-  /** Sheet `lists` value to select on, e.g. "pods". */
+  /** Sheet `lists` value to select on, e.g. "capsules". */
   list: string;
   heading: string;
   /** Sentence under the heading, before the disclosure. */
   intro: string;
   /** Optional slug allow-list, when a list is broader than this page. */
   only?: string[];
+  /** Editorial order, best first. Slugs not named here follow, cheapest first. */
+  order?: string[];
 }
-const { list: listName, heading, intro, only } = Astro.props as Props;
+const { list: listName, heading, intro, only, order } = Astro.props as Props;
 
 type Hotel = {
   slug: string; name: string; propertyType?: string; style?: string;
@@ -39,9 +41,12 @@ const TYPE_LABEL: Record<string, string> = {
   townhouse: "Townhouse", "pub-rooms": "Pub rooms", bnb: "B&B",
 };
 
-// Cheapest first, on the first number in typicalFrom. A row with no price
-// sorts last rather than first - an unpriced property is not a bargain, and
-// putting it at the top of a "cheapest first" list would say that it is.
+// Two orderings. When `order` is given the cards follow the guide's own
+// recommendation, so the card list and the prose agree - a reader who has just
+// been told which one to book should not meet a differently-ranked list of
+// them underneath. Without it, cheapest first on the first number in
+// typicalFrom; an unpriced row sorts last rather than first, because an
+// unpriced property is not a bargain and should not head a "cheapest" list.
 const priceOf = (s?: string) => {
   const m = String(s ?? "").match(/£\s?([0-9][0-9,]*)/);
   if (!m) return Number.POSITIVE_INFINITY;
@@ -52,7 +57,13 @@ const priceOf = (s?: string) => {
 const rows = (data.hotels as Hotel[])
   .filter((h) => (h.lists ?? []).includes(listName))
   .filter((h) => !only || only.includes(h.slug))
-  .sort((a, b) => priceOf(a.typicalFrom) - priceOf(b.typicalFrom) || a.name.localeCompare(b.name));
+  .sort((a, b) => {
+    if (order) {
+      const ia = order.indexOf(a.slug), ib = order.indexOf(b.slug);
+      if (ia !== -1 || ib !== -1) return (ia === -1 ? order.length : ia) - (ib === -1 ? order.length : ib);
+    }
+    return priceOf(a.typicalFrom) - priceOf(b.typicalFrom) || a.name.localeCompare(b.name);
+  });
 
 const cards = rows.map((h) => {
   const badges: string[] = [];

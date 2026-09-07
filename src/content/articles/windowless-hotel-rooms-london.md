@@ -79,17 +79,17 @@ It keeps going. **A Cocoon 8 sleeps eight for about two and a half times the pri
 
 Floor space works the same way: a Cocoon 8 is 20 sq m for eight people, against 7 sq m for one.
 
-## The five hotels
+## The five hotels, in the order we would book them
 
-**Zedwell Piccadilly Circus** is the biggest and the most volatile — the price triples between a quiet Sunday and December. Every room size from 1 to 12, inside the Grade II London Pavilion.
+**1. [Zedwell Tottenham Court Road](hotel:zedwell-tottenham-court-road) — the default pick.** London's first hotel entirely below ground, carved out of a disused car park beneath Great Russell Street, with 206 rooms. It **undercut the Piccadilly flagship on every date we sampled**, by £16 to £81, for the same product two Tube stops away. Two minutes from the British Museum and on the Elizabeth, Northern and Central lines, which makes it the easiest arrival from Heathrow. The only catch is that rooms stop at Cocoon 4, so a group of six or more has to go elsewhere.
 
-**Zedwell Tottenham Court Road** is London's first hotel entirely below ground, carved out of a disused car park beneath Great Russell Street, with 206 rooms. It **undercut Piccadilly on every date we sampled**, by £16 to £81, for the same product two Tube stops away. Two minutes from the British Museum, and on the Elizabeth, Northern and Central lines. Rooms stop at Cocoon 4.
+**2. [Zedwell Greenwich](hotel:zedwell-greenwich) — the value one.** The steadiest price in the group, and the only one where a February midweek came in cheaper than an October Sunday. A room for four starts at £117, and early check-in is £25 rather than £60. By the river for the Cutty Sark, the Observatory and the O2. You are trading Zone 1 for about a third off.
 
-**Zedwell Greenwich** is the steadiest price in the group and the best value — a room for four starts at £117, and early check-in is £25 rather than £60. By the river for the Cutty Sark, the Observatory and the O2.
+**3. [Zedwell Piccadilly Circus](hotel:zedwell-piccadilly-circus) — book it for the address, or for a group.** The biggest and the most volatile: the price roughly triples between a quiet Sunday and a Saturday in December. It is the one to choose if you want to walk out into the West End, or if there are six, eight or twelve of you, because it is the only site selling rooms that big.
 
-**Zedwell Knightsbridge** sells **one room type only**, a Cocoon 2 sleeping two, so there is no single rate and no family option. The cheapest bed in SW1 on a quiet night, and it reprices as hard as the flagship.
+**4. [Zedwell Knightsbridge](hotel:zedwell-knightsbridge) — couples only.** **One room type**, a Cocoon 2 sleeping two, so there is no single rate and no family option. On a quiet night it is the cheapest bed in SW1 by a distance; it reprices as hard as the flagship, so the bargain is a midweek-and-February proposition rather than a standing one.
 
-**Zedwell Park Lane** is the newest, underground like Tottenham Court Road, at 77 Park Lane. It returned no bookable room on any of five dates we tried across seven months, so book direct.
+**5. [Zedwell Park Lane](hotel:zedwell-park-lane) — the one you probably cannot book.** The newest, underground like Tottenham Court Road, at 77 Park Lane. It returned no bookable room on any of five dates we tried across seven months, so go direct or expect to.
 
 ## Who should not book one
 
