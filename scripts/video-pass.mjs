@@ -25,6 +25,11 @@
 import fs from "node:fs";
 import { execFile } from "node:child_process";
 import { promisify } from "node:util";
+// Renamed on import: this file already builds its own HOODS set by scraping
+// write-restaurants-v2.mjs, and that one misses areas london-geo.mjs knows
+// about - Finsbury Park among them. The two are merged rather than one being
+// swapped for the other, because each carries names the other does not.
+import { HOODS as GEO_HOODS } from "./london-geo.mjs";
 
 const exec = promisify(execFile);
 // Same path video-research.mjs uses. yt-dlp is the only route to a video's
@@ -133,16 +138,99 @@ const NOT_A_VENUE = new Set([
   "korean fried chicken", "fried chicken", "chicken shop", "east", "west",
   "north", "south", "central", "london", "uk", "england",
 ]);
+// A London neighbourhood is a place, not a room. "Finsbury Park" arrived as a
+// confirmed venue from a video naming the area it filmed in. The file already
+// builds a HOODS set lower down and uses it to prune the known-venue map; the
+// gap was that nothing re-checked a name AFTER extraction, which is where an
+// area name reaches the corpus. Declared below, used at call time only.
+
+// International fast-food chains. These genuinely appear in the videos - a
+// "levels of fried chicken" film really does visit KFC and Popeyes - so they
+// are not noise in the way a sponsor link is. They are excluded because a
+// consensus guide to the best of something in London is not answerable with a
+// global chain, and because one chain name would otherwise out-cite every
+// independent room in the corpus.
+const CHAINS = new Set([
+  "kfc", "popeyes", "jollibee", "mcdonalds", "mcdonald's", "burger king",
+  "subway", "dominos", "domino's", "pizza hut", "nandos", "nando's",
+  "wingstop", "dave's hot chicken", "daves hot chicken", "five guys",
+  "chicken cottage", "morley's", "morleys", "starbucks", "pret", "pret a manger",
+  "costa", "greggs", "wagamama", "byron", "honest burgers", "franco manca",
+]);
+
+// Chapter titles that are structure, not venues. Every list video has some of
+// these and they are indistinguishable from a venue name by shape alone -
+// "Resources", "Music" and "Interview" all look like proper nouns.
+const CHAPTER_FURNITURE = new Set([
+  "intro", "outro", "introduction", "conclusion", "resources", "music",
+  "interview", "credits", "sponsor", "giveaway", "subscribe", "like this:",
+  "thanks for watching", "q&a", "faq", "my pick", "the winner", "honourable mention",
+  "honorable mention", "bonus", "recap", "summary", "tips", "local tips",
+  "final thoughts", "what to know", "before you go", "lets eat", "let's eat",
+  "lets get ready", "let's get ready", "purchase", "restaurant", "wine bar",
+  "fish & chips", "fish and chips", "the list", "disclaimer", "gear",
+]);
+
+// Chapters that name somewhere else entirely. A wine bar search returned an
+// attorney-sommelier channel whose chapters are "New York City", "San Diego"
+// and "Around the World" - real place names, none of them London.
+const NOT_LONDON_PLACE =
+  /^(new york|new york city|nyc|san diego|los angeles|chicago|paris|rome|tokyo|barcelona|madrid|berlin|amsterdam|lisbon|dublin|edinburgh|around the world|europe|usa|america)$/i;
+
+// Words creators append to a chapter title that describe the SEGMENT rather
+// than the place: "Good Friend Chicken Review", "Smokestak Taste Test".
+const SEGMENT_TAIL =
+  /\s+(review|reviews|reaction|taste test|tasting|tour|visit|ranking|ranked|verdict|rated|mukbang|asmr|part \d+|ep\.? ?\d+)$/i;
+
+// yt-dlp emits a replacement character for curly apostrophes on this platform,
+// so "Dave's" arrives as "Dave�s". Repair it rather than record mojibake -
+// the character is only ever a possessive or a contraction in a venue name.
+const demojibake = (s) => String(s).replace(/�/g, "'").replace(/\s+/g, " ").trim();
+
+function cleanName(name) {
+  let s = demojibake(name);
+  s = s.replace(/\s*\([^)]*\)\s*$/, "").trim();   // trailing "(Soho)"
+  let prev;
+  do { prev = s; s = s.replace(SEGMENT_TAIL, "").trim(); } while (s !== prev);
+  return s;
+}
+
 function isVenueName(name) {
   const s = String(name).trim();
   if (s.length < 3 || s.length > 45) return false;
-  if (NOT_A_VENUE.has(s.toLowerCase())) return false;
+  const lower = s.toLowerCase();
+  if (NOT_A_VENUE.has(lower)) return false;
+  if (HOODS.has(lower)) return false;
+  if (CHAINS.has(lower)) return false;
   // A cuisine or a category word on its own is a section header, not a room.
   if (/^(best|top|the best|my favourite|favourite)\b/i.test(s)) return false;
   // Sentence fragments from descriptions - a venue name has no verb phrase.
   if (/^(here|there|this|that|if|when|get|let|watch|follow|subscribe|use code)\b/i.test(s)) return false;
   if (/[?!]$/.test(s)) return false;
+  if (/�/.test(s)) return false;             // unrepaired mojibake
+  if (CHAPTER_FURNITURE.has(lower)) return false;
+  if (NOT_LONDON_PLACE.test(s)) return false;
+  // A single short word is far more often a truncated chapter label than a
+  // venue - "Holy", "Music", "Dove". Two-word names and longer stand; so do
+  // short names carrying a distinguishing mark, which is how Brat and Kolae
+  // survive.
+  if (!/\s/.test(s) && s.length < 6 && !/[&'.-]/.test(s)) return false;
   return true;
+}
+
+// One venue, named three ways in one video - "Good Friend", "Good Friend
+// Chicken", "Good Friend Chicken Review" - would otherwise be three names from
+// a single source, which inflates that creator's apparent breadth. Where one
+// name is a prefix of another, keep the longer: it carries more of the real
+// name, and the shorter is usually the creator abbreviating on second mention.
+function collapseNearDuplicates(names) {
+  const kept = [];
+  for (const n of [...names].sort((a, b) => b.length - a.length)) {
+    const key = n.toLowerCase().replace(/[^a-z0-9]/g, "");
+    if (kept.some((k) => k.key.startsWith(key) || key.startsWith(k.key))) continue;
+    kept.push({ key, name: n });
+  }
+  return kept.map((k) => k.name);
 }
 
 // Videos that are not about London. yt-dlp searches for "best fried chicken
@@ -201,6 +289,8 @@ const HOODS = (() => {
   return new Set([...src.slice(i, src.indexOf("};", i))
     .matchAll(/"([^"]+)":\s*\{/g)].map((m) => m[1].toLowerCase()));
 })();
+for (const h of Object.keys(GEO_HOODS)) HOODS.add(h.toLowerCase());
+
 for (const [k, name] of [...known]) {
   const low = String(name).toLowerCase();
   if (k.length < 5 || GENERIC.has(low) || HOODS.has(low)) known.delete(k);
@@ -373,8 +463,8 @@ for (const url of urls) {
   }
   const rec = perChannel.get(key);
   rec.videos.push(v);
-  for (const n of confirmed.values()) if (isVenueName(n)) rec.names.add(n);
-  for (const n of chapterNames) if (isVenueName(n)) rec.names.add(n);
+  for (const n of confirmed.values()) { const c = cleanName(n); if (isVenueName(c)) rec.names.add(c); }
+  for (const n of chapterNames) { const c = cleanName(n); if (isVenueName(c)) rec.names.add(c); }
   // `candidates` is deliberately NOT recorded. It used to be, which is how
   // "TOPJAW LIMITED EDITION SUNGLASSES", "Here's where we went" and "Easy
   // Recipe" would have entered the corpus as venues. They are still printed
@@ -389,7 +479,7 @@ if (DRY) {
   console.log(`\n=== would record ${[...perChannel.values()].filter((r) => r.names.size).length} channel(s) ===`);
   for (const [key, rec] of perChannel) {
     if (!rec.names.size) { console.log(`  (skip) ${rec.channel ?? key} - nothing survived the gates`); continue; }
-    console.log(`  ${rec.handle ?? key}  ->  ${[...rec.names].join(", ")}`);
+    console.log(`  ${rec.handle ?? key}  ->  ${collapseNearDuplicates(rec.names).join(", ")}`);
   }
   console.log("\ndry run - nothing written");
   process.exit(0);
@@ -407,7 +497,7 @@ for (const [key, rec] of perChannel) {
   if (!rec.names.size) continue;
   const url = rec.handle ? `https://www.youtube.com/${rec.handle}` : rec.videos[0].url;
   const existing = doc.sources.find((s) => s.url === url);
-  const names = [...rec.names];
+  const names = collapseNearDuplicates(rec.names);
   if (existing) {
     existing.names = [...new Set([...(existing.names ?? []), ...names])];
   } else {
