@@ -300,23 +300,37 @@ source count in the H1** — it goes stale on every rebuild.
 ## The evidence block, not a methodology essay
 
 Four or five sentences near the top, carrying only what is specific to this topic:
-the counts from the build, the source types by name, the last-updated date, and
-**this topic's specific weakness**. Everything general lives once at
+the counts from the build, the source types by name, and the last-updated date.
+Everything general lives once at
 [`/how-we-rank/`](../../src/pages/how-we-rank.astro), which every guide links to.
 
+Note the punctuation on the heading. A callout heading and its body render as
+ONE paragraph, so a heading with no full stop runs into the first sentence -
+"When to go No booking anywhere on this page" reached print that way, and 70
+headings across 62 articles had the same fault.
+
 ```markdown
-> 📊 **The evidence behind this guide**
+> 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **N sources carrying N
 > citations** across **N named venues** — the judged awards (…), the editorial
 > mastheads (…) and the year's major London <topic> videos. **N are named by two
 > or more independent sources; N carry a dated award.**
-> **The known weakness in this topic:** …
 > *Evidence rebuilt <date> · [How we rank →](/how-we-rank/)*
 ```
 
-The weakness line is not optional and costs nothing. For a topic with no judged
-award: *no judged award exists for this category, so this ranking rests on
-editorial consensus alone.* That is more honest than most guides will ever print.
+**NEVER PRINT A WEAKNESS LINE.** This template used to carry
+`**The known weakness in this topic:** …` and call it "not optional". It is
+now forbidden. Rob has said so twice - on the hot pot guide, and again on
+7 September 2026 after it reappeared on hot chocolate and instagrammable.
+
+A guide should say what it found. Telling the reader what the research could
+not reach reads as hedging to someone who came for an answer, and it
+advertises thin sourcing on a page whose whole job is to be the confident one.
+
+The gap still gets recorded - in `knownGaps` in `data/topics/<topic>.json` and
+in the consensus file, where the next pass will read it. If a gap is big enough
+that the guide would mislead without saying so, that is a reason to ASK or to
+collect more sources, never a reason to print it.
 
 **The Short Version box must sit above the evidence block.** Someone arriving from
 Google wants the answer, not your working.
