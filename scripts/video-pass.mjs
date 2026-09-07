@@ -167,6 +167,9 @@ const CHAPTER_FURNITURE = new Set([
   "thanks for watching", "q&a", "faq", "my pick", "the winner", "honourable mention",
   "honorable mention", "bonus", "recap", "summary", "tips", "local tips",
   "final thoughts", "what to know", "before you go", "lets eat", "let's eat",
+  // Vlog chapters. A day-in-my-life film chapters its walk and its clothes, and
+  // "Outfit details" is proper-noun-shaped like everything else here.
+  "outfit details", "outfit", "getting ready", "the journey", "travel day", "haul",
   "lets get ready", "let's get ready", "purchase", "restaurant", "wine bar",
   "fish & chips", "fish and chips", "the list", "disclaimer", "gear",
 ]);
@@ -210,6 +213,11 @@ function isVenueName(name) {
   if (/�/.test(s)) return false;             // unrepaired mojibake
   if (CHAPTER_FURNITURE.has(lower)) return false;
   if (NOT_LONDON_PLACE.test(s)) return false;
+  // "Walk around Battersea Power Station", "Getting to Soho" - a chapter about
+  // moving between places, not a place that serves anything.
+  if (/^(walk(ing)? (around|to|through)|getting to|heading to|arriving at|drive to|on the way)/i.test(s)) return false;
+  // "... Tube Station" is transport, never a venue.
+  if (/(tube|underground|overground|railway|train)s+station/i.test(s)) return false;
   // A single short word is far more often a truncated chapter label than a
   // venue - "Holy", "Music", "Dove". Two-word names and longer stand; so do
   // short names carrying a distinguishing mark, which is how Brat and Kolae
@@ -350,6 +358,22 @@ function fromKeywords(keywords, extraCandidates) {
   return found;
 }
 
+// Does `display` appear in `line` with its words capitalised, as a name would
+// be? Short words are ignored - "of", "the", "and" are lowercase inside plenty
+// of real venue names - and the test passes when most of the substantial words
+// are capitalised, so one stylised lowercase word does not sink a real match.
+function capitalisedIn(line, display) {
+  const words = String(display).split(/[^A-Za-z0-9']+/).filter((w) => w.length > 2);
+  if (!words.length) return true;
+  const pattern = words.map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("[^A-Za-z0-9]{0,3}");
+  const m = new RegExp(pattern, "i").exec(line);
+  if (!m) return true;                       // matched on normalisation alone; nothing to judge
+  const span = m[0];
+  const spanWords = span.split(/[^A-Za-z0-9']+/).filter((w) => w.length > 2);
+  const caps = spanWords.filter((w) => /^[A-Z0-9]/.test(w)).length;
+  return caps * 2 >= spanWords.length;
+}
+
 function extract(description) {
   const lines = description.split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
   const confirmed = new Map();
@@ -395,6 +419,20 @@ function extract(description) {
         if (!best || k.length > best.length) best = k;
       }
       hit = best;
+
+      // A SUBSTRING MATCH MUST ALSO BE CAPITALISED IN THE ORIGINAL LINE.
+      //
+      // Everything above is normalised to lowercase, so "making high quality
+      // wines from English grapes" contains "qualitywines" and confirmed
+      // Quality Wines, a real Farringdon wine bar, from a video about
+      // Vagabond in Battersea. The 8-character floor does not catch it -
+      // "qualitywines" is twelve.
+      //
+      // A venue named in prose is capitalised and an ordinary phrase is not,
+      // which separates the two cheaply. Only substring hits are tested: a
+      // line that IS the name, matched exactly above, is unambiguous already
+      // and is often written in caps or lowercase by the creator.
+      if (hit && !capitalisedIn(line, known.get(hit))) hit = null;
     }
 
     if (hit) confirmed.set(hit, known.get(hit));

@@ -1307,6 +1307,27 @@
       "name": "The London Economic",
       "tier": "B",
       "note": "Its fried chicken list is CHAINS ONLY by its own framing, ranked 1-11, July 2023."
+    },
+    "youtube.com/@Joolzguides": {
+      "name": "Joolz Guides (YouTube)",
+      "tier": "D"
+    },
+    "starwinelist.com": {
+      "name": "Star Wine List of the Year UK",
+      "tier": "A",
+      "note": "Awards WINE LISTS rather than wine bars, so it is restaurant-heavy and UK-wide. Scope to London AND to venues that pass the wine bar test before counting: of the 2026 UK Gold Stars, only Newcomer Wines is a wine bar and one winner is on the Isle of Wight."
+    },
+    "cntraveller.com": {
+      "name": "Conde Nast Traveller",
+      "tier": "B"
+    },
+    "houseandgarden.co.uk": {
+      "name": "House & Garden",
+      "tier": "B"
+    },
+    "youtube.com/@SurrenderMonkeys1": {
+      "name": "Surrender Monkey Travels (YouTube)",
+      "tier": "D"
     }
   },
   "excludedWhy": {

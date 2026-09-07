@@ -1278,7 +1278,8 @@
       "fried-chicken",
       "historic-pubs",
       "italian",
-      "korean"
+      "korean",
+      "wine-bars"
     ],
     "sourceCount": 1,
     "tierSpread": "C1",
@@ -1310,6 +1311,12 @@
         "hasAward": false
       },
       "korean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -2346,11 +2353,12 @@
   "claras": {
     "name": "Clara's",
     "topics": [
-      "activities-shoreditch"
+      "activities-shoreditch",
+      "wine-bars"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "activities-shoreditch": {
@@ -2358,13 +2366,29 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      },
+      {
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/shoreditch/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
       }
     ]
   },
@@ -2831,10 +2855,10 @@
     "name": "Oranj",
     "topics": [
       "activities-shoreditch",
-      "bars"
+      "wine-bars"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -2844,14 +2868,19 @@
         "tierCount": 1,
         "hasAward": false
       },
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
       {
         "tier": "B",
         "source": "Olive Magazine",
@@ -2861,6 +2890,11 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/shoreditch/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
       }
     ]
   },
@@ -11091,16 +11125,23 @@
   "crustingpipe": {
     "name": "Crusting Pipe",
     "topics": [
-      "afternoon-tea"
+      "afternoon-tea",
+      "wine-bars"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
         "sourceCount": 1,
         "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -11110,6 +11151,11 @@
         "tier": "C",
         "source": "Candace Abroad",
         "url": "https://candaceabroad.com/the-best-affordable-afternoon-teas-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Joolz Guides (YouTube)",
+        "url": "https://www.youtube.com/@Joolzguides"
       }
     ]
   },
@@ -15899,2129 +15945,6 @@
       }
     ]
   },
-  "weezies": {
-    "name": "Weezie’s",
-    "topics": [
-      "bars",
-      "general",
-      "pizza"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "pizza": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      },
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/hot-right-now-london-s-hottest-restaurants"
-      }
-    ]
-  },
-  "farmshop": {
-    "name": "Farm Shop",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      }
-    ]
-  },
-  "stablewines": {
-    "name": "Stable Wines",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "halfcutmarket": {
-    "name": "Half Cut Market",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "rias": {
-    "name": "Ria's",
-    "topics": [
-      "bars",
-      "pizza"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "B2 D3",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "pizza": {
-        "sourceCount": 5,
-        "tierSpread": "B2 D3",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
-        "quote": "#21 of 21. Detroit-style - Notting Hill"
-      },
-      {
-        "tier": "D",
-        "source": "@dens_destinations (TikTok)",
-        "url": "https://www.tiktok.com/@dens_destinations"
-      },
-      {
-        "tier": "D",
-        "source": "@rosielewis_ (TikTok)",
-        "url": "https://www.tiktok.com/@rosielewis_",
-        "quote": "9/10"
-      },
-      {
-        "tier": "D",
-        "source": "Harrison Webb (YouTube)",
-        "url": "https://www.youtube.com/@HarrisonWebb97"
-      }
-    ]
-  },
-  "dreamery": {
-    "name": "The Dreamery",
-    "topics": [
-      "bars",
-      "ice-cream",
-      "instagrammable"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "ice-cream": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "instagrammable": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      },
-      {
-        "tier": "C",
-        "source": "hellomagazine.com",
-        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
-      }
-    ]
-  },
-  "sols": {
-    "name": "Sol's",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "yukibar": {
-    "name": "Yuki Bar",
-    "topics": [
-      "bars",
-      "japanese"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      },
-      {
-        "tier": "C",
-        "source": "Washoku Guide",
-        "url": "https://washoku-guide.com/cities/london/izakaya"
-      }
-    ]
-  },
-  "barcrispin": {
-    "name": "Bar Crispin",
-    "topics": [
-      "bars",
-      "italian"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B4",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      },
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/features/big-mamma-ave-mario/"
-      }
-    ]
-  },
-  "dans": {
-    "name": "Dan’s",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      }
-    ]
-  },
-  "noblerot": {
-    "name": "Noble Rot",
-    "topics": [
-      "bars",
-      "british",
-      "general"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B3 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "british": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-british-restaurants-in-london"
-      }
-    ]
-  },
-  "107wineshopandbar": {
-    "name": "107 Wine Shop & Bar",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      }
-    ]
-  },
-  "ladyofthegrapes": {
-    "name": "Lady Of The Grapes",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      }
-    ]
-  },
-  "winemakersclub": {
-    "name": "The Winemakers Club",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "cadet": {
-    "name": "Cadet",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      }
-    ]
-  },
-  "blinds": {
-    "name": "Blinds",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      }
-    ]
-  },
-  "leregret": {
-    "name": "Le Regret",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      }
-    ]
-  },
-  "40maltbystreet": {
-    "name": "40 Maltby Street",
-    "topics": [
-      "bars",
-      "british",
-      "general"
-    ],
-    "sourceCount": 7,
-    "tierSpread": "B6 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "british": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      },
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-british-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026060915117/Gastroblog/Latest-news/national-restaurant-awards-revealed-2026-bouchon-racine-number-one"
-      }
-    ]
-  },
-  "diogenesthedog": {
-    "name": "Diogenes The Dog",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      }
-    ]
-  },
-  "joyau": {
-    "name": "Joyau",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      }
-    ]
-  },
-  "hectors": {
-    "name": "Hector's",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      }
-    ]
-  },
-  "sagerwilde": {
-    "name": "Sager + Wilde",
-    "topics": [
-      "bars",
-      "late-night"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "bonneroute": {
-    "name": "Bonne Route",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      }
-    ]
-  },
-  "godet": {
-    "name": "Godet",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "lowerwinebar": {
-    "name": "Lower Wine Bar",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      }
-    ]
-  },
-  "coulure": {
-    "name": "Coulure",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      }
-    ]
-  },
-  "veraisonwines": {
-    "name": "Veraison Wines",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      }
-    ]
-  },
-  "goodbyehorses": {
-    "name": "Goodbye Horses",
-    "topics": [
-      "bars",
-      "general"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/bib-gourmands-in-london/"
-      }
-    ]
-  },
-  "luna": {
-    "name": "Luna",
-    "topics": [
-      "bars",
-      "japanese"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/best-omakase-london"
-      }
-    ]
-  },
-  "bruno": {
-    "name": "Bruno",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "binch": {
-    "name": "Binch",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      }
-    ]
-  },
-  "akub": {
-    "name": "Akub",
-    "topics": [
-      "bars",
-      "breakfast-brunch",
-      "british",
-      "general",
-      "middle-eastern"
-    ],
-    "sourceCount": 6,
-    "tierSpread": "B5 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "breakfast-brunch": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "british": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
-        "sourceCount": 4,
-        "tierSpread": "B4",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-brunch-london"
-      },
-      {
-        "tier": "B",
-        "source": "Fact Magazines",
-        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/palestinian-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/best-middle-eastern-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
-      }
-    ]
-  },
-  "camille": {
-    "name": "Camille",
-    "topics": [
-      "bars",
-      "british",
-      "french",
-      "general"
-    ],
-    "sourceCount": 7,
-    "tierSpread": "A1 B4 C2",
-    "tierCount": 3,
-    "hasAward": true,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "british": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 3,
-        "tierSpread": "A1 B2",
-        "tierCount": 2,
-        "hasAward": true
-      },
-      "general": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-french-restaurants-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026060915117/Gastroblog/Latest-news/national-restaurant-awards-revealed-2026-bouchon-racine-number-one"
-      },
-      {
-        "tier": "C",
-        "source": "The Picky Glutton",
-        "url": "https://pickyglutton.com/",
-        "quote": "the French-ish restaurant in Borough Market that’s actually worth going to"
-      }
-    ]
-  },
-  "hausu": {
-    "name": "Hausu",
-    "topics": [
-      "bars",
-      "general"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      },
-      {
-        "tier": "C",
-        "source": "The Picky Glutton",
-        "url": "https://pickyglutton.com/",
-        "quote": "eclectic dishes pull into railway restaurant"
-      }
-    ]
-  },
-  "ritas": {
-    "name": "Rita’s",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      }
-    ]
-  },
-  "drapersarms": {
-    "name": "The Drapers Arms",
-    "topics": [
-      "bars",
-      "british",
-      "sunday-roast"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B2",
-    "tierCount": 2,
-    "hasAward": true,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
-        "tierCount": 2,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Estrella Damm Top 50 Gastropubs",
-        "url": "https://www.top50gastropubs.com/list/1-50",
-        "quote": "#67 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/perfect-for/sunday-roast"
-      }
-    ]
-  },
-  "noblerotmayfair": {
-    "name": "Noble Rot Mayfair",
-    "topics": [
-      "bars",
-      "general"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      }
-    ]
-  },
-  "canal": {
-    "name": "Canal",
-    "topics": [
-      "bars",
-      "general"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      }
-    ]
-  },
-  "honeyandcogreatportland": {
-    "name": "Honey & Co. Great Portland",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "passionevino": {
-    "name": "Passione Vino",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "barflor": {
-    "name": "Bar Flor",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "barlevan": {
-    "name": "Bar Levan",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "sova": {
-    "name": "Sova",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "dynamicvines": {
-    "name": "Dynamic Vines",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "marjories": {
-    "name": "Marjorie's",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "lacompagnienealsyard": {
-    "name": "La Compagnie Neal’s Yard",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "farmshopwinebar": {
-    "name": "Farm Shop Wine Bar",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "carouselwinebar": {
-    "name": "Carousel Wine Bar",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "trullowinebar": {
-    "name": "Trullo Wine Bar",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "bottlerye": {
-    "name": "Bottle + Rye",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "bedalesofborough": {
-    "name": "Bedales of Borough",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "mulwray": {
-    "name": "The Mulwray",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "nookdeliandwinebar": {
-    "name": "The Nook Deli & Wine Bar",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "topcuvee": {
-    "name": "Top Cuvée",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "10cases": {
-    "name": "The 10 Cases",
-    "topics": [
-      "bars",
-      "french"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
-    "tierCount": 2,
-    "hasAward": true,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "french": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "qualitywines": {
-    "name": "Quality Wines",
-    "topics": [
-      "bars",
-      "general"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      }
-    ]
-  },
-  "peckhamcellars": {
-    "name": "Peckham Cellars",
-    "topics": [
-      "bars",
-      "breakfast-brunch"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      },
-      {
-        "tier": "C",
-        "source": "Resy",
-        "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
-      }
-    ]
-  },
-  "elliots": {
-    "name": "Elliot’s",
-    "topics": [
-      "bars",
-      "pizza",
-      "sunday-roast"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 D1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "pizza": {
-        "sourceCount": 1,
-        "tierSpread": "D1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      },
-      {
-        "tier": "B",
-        "source": "Sphere Magazine",
-        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
-      },
-      {
-        "tier": "D",
-        "source": "@rosielewis_ (TikTok)",
-        "url": "https://www.tiktok.com/@rosielewis_",
-        "quote": "8/10"
-      }
-    ]
-  },
-  "lebaravin": {
-    "name": "Le Bar a Vin",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "checkoutmorelondonrestaurantguideshere": {
-    "name": "Check out more London restaurant guides here:",
-    "topics": [
-      "bars",
-      "new-openings",
-      "steak"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "authors": {
-    "name": "Authors",
-    "topics": [
-      "bars",
-      "indian",
-      "new-openings",
-      "steak"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "watchthisspace": {
-    "name": "Watch this space",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Difford's Guide",
-        "url": "https://www.diffordsguide.com/encyclopedia/514/bars/londons-best-wine-bars"
-      }
-    ]
-  },
-  "cocktailsinbarsandcocktailmenus": {
-    "name": "Cocktails in bars & cocktail menus",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Difford's Guide",
-        "url": "https://www.diffordsguide.com/encyclopedia/514/bars/londons-best-wine-bars"
-      }
-    ]
-  },
-  "insidethelastdaysofmilkandhoney": {
-    "name": "Inside the Last Days of Milk & Honey",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Difford's Guide",
-        "url": "https://www.diffordsguide.com/encyclopedia/514/bars/londons-best-wine-bars"
-      }
-    ]
-  },
   "duckandwaffle": {
     "name": "Duck and Waffle",
     "topics": [
@@ -18918,10 +16841,11 @@
     "topics": [
       "breakfast-brunch",
       "galleries",
-      "general"
+      "general",
+      "wine-bars"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C3",
+    "sourceCount": 5,
+    "tierSpread": "B2 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -18942,6 +16866,12 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -18949,6 +16879,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat"
       },
       {
         "tier": "C",
@@ -19138,6 +17073,78 @@
         "tier": "C",
         "source": "Resy",
         "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
+      }
+    ]
+  },
+  "peckhamcellars": {
+    "name": "Peckham Cellars",
+    "topics": [
+      "breakfast-brunch",
+      "wine-bars"
+    ],
+    "sourceCount": 9,
+    "tierSpread": "B7 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 8,
+        "tierSpread": "B7 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "Resy",
+        "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
       }
     ]
   },
@@ -19784,6 +17791,84 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/the-best-brunches-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
+      }
+    ]
+  },
+  "akub": {
+    "name": "Akub",
+    "topics": [
+      "breakfast-brunch",
+      "british",
+      "general",
+      "middle-eastern",
+      "wine-bars"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B5 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "breakfast-brunch": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "middle-eastern": {
+        "sourceCount": 4,
+        "tierSpread": "B4",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-brunch-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-brunches-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Fact Magazines",
+        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/palestinian-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-middle-eastern-restaurants-london/"
       },
       {
         "tier": "C",
@@ -23822,6 +21907,80 @@
       }
     ]
   },
+  "noblerot": {
+    "name": "Noble Rot",
+    "topics": [
+      "british",
+      "general",
+      "wine-bars"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B6 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 6,
+        "tierSpread": "B5 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-british-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
   "qualitychophouse": {
     "name": "The Quality Chop House",
     "topics": [
@@ -24866,6 +23025,90 @@
         "tier": "D",
         "source": "Harrison Webb (YouTube)",
         "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "40maltbystreet": {
+    "name": "40 Maltby Street",
+    "topics": [
+      "british",
+      "general",
+      "wine-bars"
+    ],
+    "sourceCount": 10,
+    "tierSpread": "B7 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "british": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 7,
+        "tierSpread": "B5 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-british-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2026060915117/Gastroblog/Latest-news/national-restaurant-awards-revealed-2026-bouchon-racine-number-one"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-natural-wine-bars-london/"
       }
     ]
   },
@@ -26954,6 +25197,61 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/perfect-for/sunday-roast"
+      }
+    ]
+  },
+  "drapersarms": {
+    "name": "The Drapers Arms",
+    "topics": [
+      "british",
+      "sunday-roast",
+      "wine-bars"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "A1 B3",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
+      },
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Estrella Damm Top 50 Gastropubs",
+        "url": "https://www.top50gastropubs.com/list/1-50",
+        "quote": "#67 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/perfect-for/sunday-roast"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat"
       }
     ]
   },
@@ -32754,10 +31052,11 @@
     "topics": [
       "british",
       "french",
-      "general"
+      "general",
+      "wine-bars"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B4 C2",
+    "sourceCount": 9,
+    "tierSpread": "B6 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -32777,6 +31076,12 @@
         "sourceCount": 3,
         "tierSpread": "B3",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -32802,6 +31107,16 @@
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
       },
       {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      },
+      {
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/2026060915117/Gastroblog/Latest-news/national-restaurant-awards-revealed-2026-bouchon-racine-number-one"
@@ -32810,6 +31125,11 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/best-french-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
       }
     ]
   },
@@ -33003,6 +31323,83 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      }
+    ]
+  },
+  "camille": {
+    "name": "Camille",
+    "topics": [
+      "british",
+      "french",
+      "general",
+      "wine-bars"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "A1 B4 C2",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "french": {
+        "sourceCount": 3,
+        "tierSpread": "A1 B2",
+        "tierCount": 2,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-french-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/2026060915117/Gastroblog/Latest-news/national-restaurant-awards-revealed-2026-bouchon-racine-number-one"
+      },
+      {
+        "tier": "C",
+        "source": "The Picky Glutton",
+        "url": "https://pickyglutton.com/",
+        "quote": "the French-ish restaurant in Borough Market that’s actually worth going to"
       }
     ]
   },
@@ -45952,7 +44349,8 @@
     "topics": [
       "burgers",
       "general",
-      "new-openings"
+      "new-openings",
+      "wine-bars"
     ],
     "sourceCount": 7,
     "tierSpread": "B5 C2",
@@ -45975,6 +44373,12 @@
         "sourceCount": 6,
         "tierSpread": "B5 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -65900,6 +64304,63 @@
       }
     ]
   },
+  "10cases": {
+    "name": "The 10 Cases",
+    "topics": [
+      "french",
+      "wine-bars"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "A1 B4 C1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "french": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "wine-bars": {
+        "sourceCount": 5,
+        "tierSpread": "B4 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
   "frenchtable": {
     "name": "The French Table",
     "topics": [
@@ -66570,11 +65031,12 @@
   "soif": {
     "name": "Soif",
     "topics": [
-      "french"
+      "french",
+      "wine-bars"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "french": {
@@ -66582,9 +65044,20 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      },
       {
         "tier": "C",
         "source": "London x London",
@@ -66846,11 +65319,12 @@
   "cabotte": {
     "name": "Cabotte",
     "topics": [
-      "french"
+      "french",
+      "wine-bars"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "french": {
@@ -66858,9 +65332,20 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      },
       {
         "tier": "C",
         "source": "London the Inside",
@@ -67553,36 +66038,6 @@
         "tier": "C",
         "source": "Secret London",
         "url": "https://secretldn.com/best-fried-chicken-london/"
-      }
-    ]
-  },
-  "sichuanfry": {
-    "name": "Sichuan Fry",
-    "topics": [
-      "fried-chicken"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "fried-chicken": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
-      },
-      {
-        "tier": "B",
-        "source": "Ideal Magazine",
-        "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
       }
     ]
   },
@@ -75148,7 +73603,8 @@
   "stjohnsmithfield": {
     "name": "St. John Smithfield",
     "topics": [
-      "general"
+      "general",
+      "wine-bars"
     ],
     "sourceCount": 2,
     "tierSpread": "B2",
@@ -75158,6 +73614,12 @@
       "general": {
         "sourceCount": 2,
         "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -80745,6 +79207,53 @@
       }
     ]
   },
+  "qualitywines": {
+    "name": "Quality Wines",
+    "topics": [
+      "general",
+      "wine-bars"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
   "kolae": {
     "name": "Kolae",
     "topics": [
@@ -81269,6 +79778,43 @@
       }
     ]
   },
+  "noblerotmayfair": {
+    "name": "Noble Rot Mayfair",
+    "topics": [
+      "general",
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      }
+    ]
+  },
   "leosclapton": {
     "name": "Leo's Clapton",
     "topics": [
@@ -81574,6 +80120,43 @@
         "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
+      }
+    ]
+  },
+  "canal": {
+    "name": "Canal",
+    "topics": [
+      "general",
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
       }
     ]
   },
@@ -85004,6 +83587,55 @@
       }
     ]
   },
+  "weezies": {
+    "name": "Weezie's",
+    "topics": [
+      "general",
+      "pizza",
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "pizza": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/hot-right-now-london-s-hottest-restaurants"
+      }
+    ]
+  },
   "singburishoreditch": {
     "name": "Singburi Shoreditch",
     "topics": [
@@ -85027,6 +83659,44 @@
         "source": "The Picky Glutton",
         "url": "https://pickyglutton.com/",
         "quote": "lost in translation in the move from Leytonstone"
+      }
+    ]
+  },
+  "hausu": {
+    "name": "Hausu",
+    "topics": [
+      "general",
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "C",
+        "source": "The Picky Glutton",
+        "url": "https://pickyglutton.com/",
+        "quote": "eclectic dishes pull into railway restaurant"
       }
     ]
   },
@@ -85830,6 +84500,43 @@
       }
     },
     "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/bib-gourmands-in-london/"
+      }
+    ]
+  },
+  "goodbyehorses": {
+    "name": "Goodbye Horses",
+    "topics": [
+      "general",
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
       {
         "tier": "C",
         "source": "The Nudge",
@@ -94344,6 +93051,55 @@
       }
     ]
   },
+  "dreamery": {
+    "name": "The Dreamery",
+    "topics": [
+      "ice-cream",
+      "instagrammable",
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "ice-cream": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/cuisines/ice-cream"
+      },
+      {
+        "tier": "C",
+        "source": "hellomagazine.com",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
   "bennysbroadway": {
     "name": "Bennys Broadway",
     "topics": [
@@ -96553,6 +95309,52 @@
         "tier": "D",
         "source": "TOPJAW (YouTube)",
         "url": "https://www.youtube.com/@topjaw"
+      }
+    ]
+  },
+  "authors": {
+    "name": "Authors",
+    "topics": [
+      "indian",
+      "new-openings",
+      "steak",
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "indian": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "steak": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
       }
     ]
   },
@@ -98790,10 +97592,11 @@
   "bardouro": {
     "name": "Bar Douro",
     "topics": [
-      "instagrammable"
+      "instagrammable",
+      "wine-bars"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -98801,6 +97604,12 @@
         "sourceCount": 2,
         "tierSpread": "B1 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -98812,6 +97621,11 @@
         "quote": "Hand painted azulejos tiles and a shack-like ceiling"
       },
       {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      },
+      {
         "tier": "C",
         "source": "luxurywanderings.com",
         "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
@@ -98821,16 +97635,23 @@
   "redroom": {
     "name": "The Red Room",
     "topics": [
-      "instagrammable"
+      "instagrammable",
+      "wine-bars"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "instagrammable": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -98840,6 +97661,11 @@
         "tier": "B",
         "source": "Country & Town House",
         "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
       }
     ]
   },
@@ -103506,6 +102332,73 @@
       }
     ]
   },
+  "barcrispin": {
+    "name": "Bar Crispin",
+    "topics": [
+      "italian",
+      "wine-bars"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B7 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 8,
+        "tierSpread": "B7 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/features/big-mamma-ave-mario/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
   "muccis": {
     "name": "Mucci's",
     "topics": [
@@ -105433,6 +104326,53 @@
       }
     ]
   },
+  "luna": {
+    "name": "Luna",
+    "topics": [
+      "japanese",
+      "wine-bars"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "japanese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/best-omakase-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
   "ramoramen": {
     "name": "Ramo Ramen",
     "topics": [
@@ -105948,6 +104888,48 @@
       }
     },
     "sources": [
+      {
+        "tier": "C",
+        "source": "Washoku Guide",
+        "url": "https://washoku-guide.com/cities/london/izakaya"
+      }
+    ]
+  },
+  "yukibar": {
+    "name": "Yuki Bar",
+    "topics": [
+      "japanese",
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "japanese": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
       {
         "tier": "C",
         "source": "Washoku Guide",
@@ -108375,6 +107357,63 @@
       }
     ]
   },
+  "sagerwilde": {
+    "name": "Sager + Wilde",
+    "topics": [
+      "late-night",
+      "wine-bars"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B5 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "late-night": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 6,
+        "tierSpread": "B5 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-late-night-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
   "voodoorays": {
     "name": "Voodoo Ray's",
     "topics": [
@@ -109251,11 +108290,12 @@
   "brilliantcorners": {
     "name": "Brilliant Corners",
     "topics": [
-      "live-music"
+      "live-music",
+      "wine-bars"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "live-music": {
@@ -109263,9 +108303,20 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      },
       {
         "tier": "C",
         "source": "The Nudge",
@@ -119360,10 +118411,11 @@
   "ladyofthegrapeslondonbridge": {
     "name": "Lady Of The Grapes London Bridge",
     "topics": [
-      "new-openings"
+      "new-openings",
+      "wine-bars"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -119371,6 +118423,12 @@
         "sourceCount": 2,
         "tierSpread": "B1 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -119384,6 +118442,11 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/best-new-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
       }
     ]
   },
@@ -121584,6 +120647,45 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
+      }
+    ]
+  },
+  "checkoutmorelondonrestaurantguideshere": {
+    "name": "Check out more London restaurant guides here:",
+    "topics": [
+      "new-openings",
+      "steak",
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "new-openings": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "steak": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-new-restaurants-in-london/"
       }
     ]
   },
@@ -128188,6 +127290,65 @@
       }
     ]
   },
+  "rias": {
+    "name": "Ria's",
+    "topics": [
+      "pizza",
+      "wine-bars"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B3 D3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "pizza": {
+        "sourceCount": 5,
+        "tierSpread": "B2 D3",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-pizza-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza",
+        "quote": "#21 of 21. Detroit-style - Notting Hill"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      },
+      {
+        "tier": "D",
+        "source": "@dens_destinations (TikTok)",
+        "url": "https://www.tiktok.com/@dens_destinations"
+      },
+      {
+        "tier": "D",
+        "source": "@rosielewis_ (TikTok)",
+        "url": "https://www.tiktok.com/@rosielewis_",
+        "quote": "9/10"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
   "vasiniko": {
     "name": "Vasiniko",
     "topics": [
@@ -128362,6 +127523,61 @@
         "source": "@rosielewis_ (TikTok)",
         "url": "https://www.tiktok.com/@rosielewis_",
         "quote": "7.5/10"
+      }
+    ]
+  },
+  "elliots": {
+    "name": "Elliot's",
+    "topics": [
+      "pizza",
+      "sunday-roast",
+      "wine-bars"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "pizza": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat"
+      },
+      {
+        "tier": "D",
+        "source": "@rosielewis_ (TikTok)",
+        "url": "https://www.tiktok.com/@rosielewis_",
+        "quote": "8/10"
       }
     ]
   },
@@ -134566,16 +133782,23 @@
   "clarencetavern": {
     "name": "The Clarence Tavern",
     "topics": [
-      "sunday-roast"
+      "sunday-roast",
+      "wine-bars"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
+    "sourceCount": 3,
+    "tierSpread": "B3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "sunday-roast": {
         "sourceCount": 2,
         "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -134591,6 +133814,11 @@
         "tier": "B",
         "source": "Sphere Magazine",
         "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat"
       }
     ]
   },
@@ -146085,6 +145313,3486 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/blog/best-views-london"
+      }
+    ]
+  },
+  "farmshop": {
+    "name": "Farm Shop",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "stablewines": {
+    "name": "Stable Wines",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "halfcutmarket": {
+    "name": "Half Cut Market",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B5 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 6,
+        "tierSpread": "B5 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "sols": {
+    "name": "Sol's",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "dans": {
+    "name": "Dan’s",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 5,
+        "tierSpread": "B3 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-natural-wine-bars-london/"
+      }
+    ]
+  },
+  "107wineshopandbar": {
+    "name": "107 Wine Shop & Bar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "ladyofthegrapes": {
+    "name": "Lady Of The Grapes",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 5,
+        "tierSpread": "B3 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-natural-wine-bars-london/"
+      }
+    ]
+  },
+  "winemakersclub": {
+    "name": "The Winemakers Club",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B5 C1 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 7,
+        "tierSpread": "B5 C1 D1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Joolz Guides (YouTube)",
+        "url": "https://www.youtube.com/@Joolzguides"
+      }
+    ]
+  },
+  "cadet": {
+    "name": "Cadet",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "blinds": {
+    "name": "Blinds",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "leregret": {
+    "name": "Le Regret",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "diogenesthedog": {
+    "name": "Diogenes The Dog",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B6 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 8,
+        "tierSpread": "B6 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-natural-wine-bars-london/"
+      }
+    ]
+  },
+  "joyau": {
+    "name": "Joyau",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "hectors": {
+    "name": "Hector's",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/wine-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "bonneroute": {
+    "name": "Bonne Route",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      }
+    ]
+  },
+  "godet": {
+    "name": "Godet",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "lowerwinebar": {
+    "name": "Lower Wine Bar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      }
+    ]
+  },
+  "coulure": {
+    "name": "Coulure",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      }
+    ]
+  },
+  "veraisonwines": {
+    "name": "Veraison Wines",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "bruno": {
+    "name": "Bruno",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "binch": {
+    "name": "Binch",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "ritas": {
+    "name": "Rita’s",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      }
+    ]
+  },
+  "sagerwildehackneyrd": {
+    "name": "Sager + Wilde Hackney Rd",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      }
+    ]
+  },
+  "bastardo": {
+    "name": "Bastardo",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "littleduckthepicklery": {
+    "name": "Little Duck The Picklery",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      }
+    ]
+  },
+  "highburylibrary": {
+    "name": "Highbury Library",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      }
+    ]
+  },
+  "topcuvee": {
+    "name": "Top Cuvée",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      }
+    ]
+  },
+  "remedy": {
+    "name": "The Remedy",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      }
+    ]
+  },
+  "newcomerwinesdalston": {
+    "name": "Newcomer Wines Dalston",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      }
+    ]
+  },
+  "cavecuvee": {
+    "name": "Cave Cuvée",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/londons-best-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-natural-wine-bars-london/"
+      }
+    ]
+  },
+  "honeyandcogreatportland": {
+    "name": "Honey & Co. Great Portland",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      }
+    ]
+  },
+  "passionevino": {
+    "name": "Passione Vino",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "barflor": {
+    "name": "Bar Flor",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "barlevan": {
+    "name": "Bar Levan",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B4 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 5,
+        "tierSpread": "B4 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "sova": {
+    "name": "Sova",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "dynamicvines": {
+    "name": "Dynamic Vines",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      }
+    ]
+  },
+  "marjories": {
+    "name": "Marjorie's",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "lacompagnienealsyard": {
+    "name": "La Compagnie Neal’s Yard",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "farmshopwinebar": {
+    "name": "Farm Shop Wine Bar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      }
+    ]
+  },
+  "carouselwinebar": {
+    "name": "Carousel Wine Bar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      }
+    ]
+  },
+  "trullowinebar": {
+    "name": "Trullo Wine Bar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "bottlerye": {
+    "name": "Bottle + Rye",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      }
+    ]
+  },
+  "bedalesofborough": {
+    "name": "Bedales of Borough",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      }
+    ]
+  },
+  "mulwray": {
+    "name": "The Mulwray",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      }
+    ]
+  },
+  "nookdeliandwinebar": {
+    "name": "The Nook Deli & Wine Bar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      }
+    ]
+  },
+  "lebaravin": {
+    "name": "Le Bar a Vin",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      }
+    ]
+  },
+  "newcomerwines": {
+    "name": "Newcomer Wines",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 C1",
+        "tierCount": 3,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Star Wine List of the Year UK",
+        "url": "https://starwinelist.com/wine-guide/star-wine-list-of-the-year-UK-2026-gold-star-winners-map"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "winebar": {
+    "name": "Wine Bar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
+      }
+    ]
+  },
+  "cantinaboccone": {
+    "name": "Cantina Boccone",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
+      }
+    ]
+  },
+  "antidote": {
+    "name": "Antidote",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      }
+    ]
+  },
+  "gordonswinebar": {
+    "name": "Gordon's Wine Bar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B4 C1 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 6,
+        "tierSpread": "B4 C1 D1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Surrender Monkey Travels (YouTube)",
+        "url": "https://www.youtube.com/@SurrenderMonkeys1"
+      }
+    ]
+  },
+  "ancestrelwines": {
+    "name": "Ancestrel Wines",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "golbornedeliandwinestore": {
+    "name": "Golborne Deli and Wine Store",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
+      }
+    ]
+  },
+  "107winebar": {
+    "name": "107 Wine Bar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
+      }
+    ]
+  },
+  "rockwellbistroandwinebar": {
+    "name": "Rockwell Bistro & Wine Bar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      }
+    ]
+  },
+  "ploussard": {
+    "name": "Ploussard",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      }
+    ]
+  },
+  "humblegrape": {
+    "name": "Humble Grape",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "winerooms": {
+    "name": "Wine Rooms",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      }
+    ]
+  },
+  "furanxo": {
+    "name": "Furanxo",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      }
+    ]
+  },
+  "bottles": {
+    "name": "Bottles",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      }
+    ]
+  },
+  "lacave": {
+    "name": "La Cave",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      }
+    ]
+  },
+  "stemstem": {
+    "name": "Stem+Stem",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "clarette": {
+    "name": "Clarette",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "enotecadalucastpauls": {
+    "name": "Enoteca da Luca St Paul's",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "hitheseek": {
+    "name": "Hithe + Seek",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "compagniedesvinssurnaturelssevendials": {
+    "name": "Compagnie des Vins Surnaturels Seven Dials",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "traderswinebar": {
+    "name": "Traders Wine Bar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "provisions": {
+    "name": "Provisions",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "topcuve": {
+    "name": "Top Cuv e",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "trogolo": {
+    "name": "Trogolo",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "margaux": {
+    "name": "Margaux",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "baccalaseafoodandwine": {
+    "name": "Baccala Seafood & Wine",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "vagabondurbanwinery": {
+    "name": "Vagabond Urban Winery",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "pedroswinebar": {
+    "name": "Pedro's Wine Bar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "lunawinebar": {
+    "name": "Luna Wine Bar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      }
+    ]
+  },
+  "lulus": {
+    "name": "Lulu's",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "vinotecadisartoria": {
+    "name": "Vinoteca di Sartoria",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "bar190": {
+    "name": "Bar 190",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "templar": {
+    "name": "Templar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "drop": {
+    "name": "The Drop",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      }
+    ]
+  },
+  "winetastingshop": {
+    "name": "The Wine Tasting Shop",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      }
+    ]
+  },
+  "champagnefromage": {
+    "name": "Champagne + Fromage",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "portenoire": {
+    "name": "Porte Noire",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "vagabondwines": {
+    "name": "Vagabond Wines",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      }
+    ]
+  },
+  "buxton": {
+    "name": "The Buxton",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "116pallmallchampagnebarbysearcys": {
+    "name": "116 Pall Mall Champagne Bar By Searcys",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "franks": {
+    "name": "Frank’s",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat"
+      }
+    ]
+  },
+  "crouchendcellars": {
+    "name": "The Crouch End Cellars",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat"
+      }
+    ]
+  },
+  "noblerotlambsconduit": {
+    "name": "Noble Rot Lamb's Conduit",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat"
+      }
+    ]
+  },
+  "pfranco": {
+    "name": "P Franco",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat"
+      }
+    ]
+  },
+  "dina": {
+    "name": "Dina",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-wine-bars-natural-london-pet-nat"
+      }
+    ]
+  },
+  "cellar": {
+    "name": "The Cellar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      }
+    ]
+  },
+  "silverlining": {
+    "name": "Silver Lining",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      }
+    ]
+  },
+  "laughingheart": {
+    "name": "The Laughing Heart",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      }
+    ]
+  },
+  "terroirswinebar": {
+    "name": "Terroirs Wine Bar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      }
+    ]
+  },
+  "dvinecellars": {
+    "name": "D Vine Cellars",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      }
+    ]
+  },
+  "naughtypiglets": {
+    "name": "Naughty Piglets",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "firebird": {
+    "name": "Firebird",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      }
+    ]
+  },
+  "giaccos": {
+    "name": "Giacco’s",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "aspenandmeursault": {
+    "name": "Aspen & Meursault",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "amiewinestudio": {
+    "name": "amie wine studio",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "littlecellars": {
+    "name": "Little Cellars",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "cobalto": {
+    "name": "Cobalto",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "gnarlyvines": {
+    "name": "Gnarly Vines",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "yieldn1": {
+    "name": "Yield N1",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "sourcingtablecrystalpalace": {
+    "name": "The Sourcing Table Crystal Palace",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "finleys": {
+    "name": "Finley’s",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "wingnutwines": {
+    "name": "Wingnut Wines",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      }
+    ]
+  },
+  "antidotewinebar": {
+    "name": "Antidote Wine Bar",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-natural-wine-bars-london/"
+      }
+    ]
+  },
+  "joyce": {
+    "name": "Joyce",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-natural-wine-bars-london/"
+      }
+    ]
+  },
+  "mothersuperiorwinestoreanddeli": {
+    "name": "Mother Superior Wine Store & Deli",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-natural-wine-bars-london/"
+      }
+    ]
+  },
+  "purewines": {
+    "name": "Pure Wines",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-natural-wine-bars-london/"
+      }
+    ]
+  },
+  "shopcuvee": {
+    "name": "Shop Cuvée",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-natural-wine-bars-london/"
+      }
+    ]
+  },
+  "oneawines": {
+    "name": "One A Wines",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-natural-wine-bars-london/"
+      }
+    ]
+  },
+  "newrestaurantsopeningthismonth": {
+    "name": "New Restaurants Opening This Month…",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      }
+    ]
+  },
+  "devonhotelmakingseriouslygoodenglishwine": {
+    "name": "The Devon Hotel Making Seriously Good English Wine",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      }
+    ]
+  },
+  "toptravelorganiserseveryfrequentflyerneeds": {
+    "name": "Top Travel Organisers Every Frequent Flyer Needs",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      }
+    ]
+  },
+  "riassoho": {
+    "name": "Ria’s Soho",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      }
+    ]
+  },
+  "56westsmithfield": {
+    "name": "56 West Smithfield",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      }
+    ]
+  },
+  "2850wineworkshopandkitchen": {
+    "name": "28°-50° Wine Workshop & Kitchen",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      }
+    ]
+  },
+  "wcwineandcharcuterie": {
+    "name": "WC Wine & Charcuterie",
+    "topics": [
+      "wine-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
       }
     ]
   }
