@@ -1,0 +1,131 @@
+# SERP-seeded sources for the KOSHER topic. Run 2026-09-07.
+# Queries: "best kosher restaurants london", "kosher restaurants london guide",
+# "KLBD licensed restaurants", "Kedassia kashrus authority London restaurants list",
+# "British Kebab Awards kosher category winners public vote judging",
+# "timeout.com OR theinfatuation.com kosher restaurants london",
+# site:jewishnews.co.uk best kosher restaurants london guide,
+# plus direct reads of all four certifier registers.
+#
+# ROUTE: html.duckduckgo.com and lite.duckduckgo.com serve CAPTCHAs to curl and WebFetch,
+# and Mojeek 403s. These results were read off duckduckgo.com in the browser pane.
+#
+# ############################################################################
+# READ data/topics/kosher.json BEFORE SEEDING ANY OF THIS.
+# THE VERDICT IS THAT THIS TOPIC IS NOT A CONSENSUS GUIDE. Do not run the
+# consensus pipeline on it without a human decision. It is a REGISTER-LED guide.
+# ############################################################################
+#
+# WHY, IN THREE LINES:
+#  1. TIME OUT AND THE INFATUATION PUBLISH NO LONDON KOSHER GUIDE AT ALL. Verified by
+#     direct search. Time Out has 46 source records across this site and none here.
+#  2. The first page of both restaurant queries is DIRECTORIES, not editorial.
+#     A filterable database is not an opinion - same call as dinehalal.uk on halal.
+#  3. Four kashrut authorities license roughly 35-45 sit-down kosher restaurants in all
+#     of London, and KLBD publishes its whole register free. THE REGISTER IS THE LIST.
+#     Ranking by citation count would print the 8 venues the listicles share and bury
+#     the ~30 certified restaurants none of them mentioned.
+
+# --- THE PRIMARY EVIDENCE. NOT "SOURCES" IN THE CONSENSUS SENSE. DO NOT COUNT THEM. ---
+# These are CERTIFIER REGISTERS. A hechsher is a licence, not a ranking - the authority
+# expresses no view on whether the food is good. Counting one would hand every certified
+# venue in London an identical "citation" and destroy the signal. They outrank every
+# listicle on the FACT of certification and they are the spine of the guide.
+# KLBD register - 39 restaurant/takeaway entries, each with a Meat/Dairy/Parev label:
+KLBD register - restaurants|https://www.kosher.org.uk/kosher-places/restaurants/
+# KF Kosher (Federation of Synagogues Beth Din) - ~25 establishments, incl. Reubens,
+# Mazal, Soyo, Pita and One Ashbourne, which are NOT on the KLBD restaurant register:
+KF Kosher register - establishments and catering|https://kfkosher.org/establishments-catering/
+# SKA (Sephardi Kashrut Authority) - static list, mostly delis, cafes and caterers:
+SKA register - licensees|https://www.ska.org.uk/licensees
+#
+# KEDASSIA HAS NO REACHABLE REGISTER AND THIS IS THE BIGGEST HOLE IN THE TOPIC.
+# kedassia.org.uk does not resolve (DNS failure, 2026-09-07). Kedassia is the kashrus
+# authority of the UNION OF ORTHODOX HEBREW CONGREGATIONS - it is NOT the Federation of
+# Synagogues, and conflating the two would put the wrong hechsher on real restaurants.
+# It is the authority most associated with STAMFORD HILL, so the least-documented
+# certifier governs the least-written-about part of the scene. ASK, or phone them.
+#
+# NOTE THE KLBD TWO-DOMAIN TRAP: klbdkosher.org is the TRADE site and certifies FOOD
+# MANUFACTURERS AND PRODUCTS, not restaurants. Reading it alone produces the false
+# conclusion that KLBD does not license restaurants. The consumer site kosher.org.uk is
+# where the restaurants are. The register also answers at /places/restaurants/ - compare
+# name arrays before recording both, or it is trap 16.
+
+# --- COUNTABLE EDITORIAL. SIX DOMAINS, AND THEY NAME THE SAME EIGHT VENUES. ---
+# Verified live 2026-09-07. Full assessments in data/topics/kosher.json.
+#
+# The two community mastheads. NEITHER publishes a ranked "best of" - they publish
+# reviews, news and SEASONAL round-ups. Same finding caribbean.json recorded about The
+# Voice. Both are UNREGISTERED in data/sources.json and need adding as tier B.
+# JEWISH NEWS: trap 12 is in its own headline ("not all in London"); merge its seasonal
+# round-ups into ONE record; and NEVER count a /spotlight/ URL - that path is sponsored.
+The Jewish Chronicle - Kosher London|https://www.thejc.com/tag/Kosher%20London
+Jewish News - ten top restaurants|https://www.jewishnews.co.uk/ten-of-the-best-restaurants-for-autumn-and-they-are-not-all-in-london/
+#
+# The listicles. All unordered - no ranks from any of them (see theRankingProblem).
+DesignMyNight|https://www.designmynight.com/london/blog/kosher-restaurants-london
+London x London|https://www.londonxlondon.com/kosher-restaurants-london/
+UK Jewish Life|https://ukjewishlife.com/kosher-restaurants-in-london/
+#
+# UK JEWISH LIFE IS THE BORDERLINE CALL AND IT IS NOT A SILENT ONE. Weakest on the
+# README's blog test (byline is "Olivia", a first name only; no visit evidence, no
+# original photography) and the MOST useful on the axis this guide needs - it is the
+# ONLY editorial source anywhere that notes the SUPERVISING AUTHORITY per venue
+# (KLBD / KF Federation / Kedassia). Treat those notations as LEADS TO VERIFY against
+# the registers, never as the answer. Unregistered in data/sources.json.
+
+# --- ASSESSED AND DELIBERATELY NOT SEEDED - A HUMAN DECISION, NOT A SILENT DROP ---
+# walkeatlondon.com  "Top 10 Jewish and Kosher Restaurants in Central London"
+#   Registered TIER C, and data/serp/README.md names this domain as its example of a
+#   business blog that belongs IN. On this topic it fails: no byline, no date, and FOUR
+#   OF ITS TEN ARE NOT KOSHER BY ITS OWN ADMISSION - Bubala ("While not strictly
+#   kosher"), Monty's Deli ("not fully kosher"), Tabun Kitchen ("not strictly kosher"),
+#   The Good Egg. Honest in the body, wrong in the headline, which is exactly how a
+#   reader gets misled. It also puts Sami's on "Edgware Road" (W2) when the register
+#   puts it in EDGWARE HA8 - eight miles out. Kept as the worked example in
+#   theAccuracyProblemConfirmed rather than seeded. Rob should decide.
+
+# --- DIRECTORIES: NOT SOURCES, BUT THE BEST CROSS-CHECK ON STATUS ---
+# Do NOT seed. Do NOT count. Listed so the next pass does not mistake a well-ranked
+# database for an editorial list. Two of them carry the hechsher per venue, which is
+# the axis the guide must carry and which no listicle prints.
+# thekosheratlas.com/london  - "112 certified kosher restaurants in London, with the
+#                              hechsher, kosher type, map". Its 112 is well above what
+#                              the four registers support - do NOT repeat the number.
+# totallyjewishtravel.com    - "132 Kosher Supervised Eateries with Hashgacha",
+#                              filterable by meat/dairy/parve AND by supervision.
+# kosherinlondon.co.uk       - browse "by location, kashrut authority, and cuisine".
+#                              Its ?authority=kedassia filter is the ONLY route found
+#                              to any list of Kedassia establishments.
+# eatkosher.co.uk            - supervising authority shown for every listing.
+# gokosher.com/en/london     - kosher TRAVEL directory: hotels, shuls, mikvahs, food.
+# jewisheurope.org           - prints "Certification: Kedassia" per venue in plain text.
+#                              Only concrete Kedassia lead found. Lead, not citation.
+
+# --- FAILED THE BLOG-VS-SEO-FARM TEST, or already excluded globally ---
+# lamplitlondon.com   - THIRD TOPIC. Already excluded on wine-bars AND fried-chicken.
+#                       The site discloses it is "part of the same group as Cleopatra
+#                       Agency, a distinguished London companionship service". It is
+#                       STILL registered tier C in data/sources.json - worth a fix.
+# thatsup.co.uk       - already on the permanent403 AND excluded lists.
+# dinedazz.com        - programmatic explainer content about what KLBD certification is,
+#                       two near-identical pages. Not a restaurant list.
+# explorelondon.co.uk - NOT fully assessed; generic city-guide shape, no byline found.
+#                       Read it before seeding; the presumption is against.
+# tripadvisor.co.uk, thefork.co.uk, opentable.co.uk, yelp.com - already excluded globally.
+
+# --- TIER A: THERE IS NO JUDGED KOSHER RESTAURANT AWARD. ---
+# The BRITISH KEBAB AWARDS has had a kosher category since 2022 (introduced BY JEWISH
+# NEWS with Ibrahim Dogus). Reubens won the inaugural; Mazal won 2025 and 2026. It is
+# NOT tier A: winners are chosen partly by PUBLIC VOTE, it judges ONE DISH rather than a
+# restaurant, and it is UK-wide. Same call this project made on UK Jerk Fest and on Wing
+# Fest's People's Choice. Its SHORTLIST is a useful lead - it names Grill on the Hill
+# (Stamford Hill), Yakov's Kitchen, La Fiesta and Balady, which no editorial source here
+# mentions. Note britishkebabawards.co.uk needs the www; past winners are on the sibling
+# domain brittradeawards.org.
+
+# --- TIER D (video) IS AVAILABLE AND COSTS NOTHING. yt-dlp is installed and was RUN
+# successfully on 2026-09-07. Observed channel DISPLAY NAMES (not handles - do not
+# reconstruct an @handle from a display name, trap 5): "Food Review Club",
+# "The Hungry Brown Boy", "EATOUTGUIDELONDON", "The Sacred Jungle". See theVideoFinding.
+# --- TIER E (Reddit) is genuinely unreachable from this environment.
