@@ -145,7 +145,7 @@ East of Shoreditch, noticeably cheaper, on both the Elizabeth line and the Distr
 
 **Staycity Aparthotels Dalston** is about £130 for an apartment with a kitchen, which is the best value in this whole guide if you are staying more than two nights or travelling with family.
 
-**The GreenHouse Capsules** on Roman Road is £42 if you can sleep in a capsule — which, worth knowing, is more than a capsule in Zone 1 at Piccadilly Circus. **Town Hall Hotel** in Bethnal Green is about £220 and a genuinely special building — a 1930s town hall, with an Art Deco council chamber you can walk into.
+**The GreenHouse Capsules** on Roman Road is £42 to £53 if you can sleep in a capsule — a range of eleven pounds across a whole year, which makes it the most predictable bed in this guide. It is dearer than Zone 1 on a quiet night and cheaper in December. **Town Hall Hotel** in Bethnal Green is about £220 and a genuinely special building — a 1930s town hall, with an Art Deco council chamber you can walk into.
 
 ### Stratford — fifteen minutes, from £100
 

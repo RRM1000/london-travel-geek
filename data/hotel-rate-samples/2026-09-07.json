@@ -1,0 +1,1047 @@
+{
+ "checked": "2026-09-07",
+ "dates": [
+  {
+   "key": "cheap-sunday",
+   "label": "Sunday, three weeks out",
+   "date": "2026-10-04"
+  },
+  {
+   "key": "midweek",
+   "label": "Wednesday, five months out",
+   "date": "2027-02-10"
+  },
+  {
+   "key": "saturday",
+   "label": "Saturday, a month out",
+   "date": "2026-10-10"
+  },
+  {
+   "key": "december",
+   "label": "Second Saturday of December",
+   "date": "2026-12-12"
+  },
+  {
+   "key": "spring",
+   "label": "Saturday, seven months out",
+   "date": "2027-04-10"
+  }
+ ],
+ "captures": [
+  {
+   "slug": "zedwell-piccadilly-circus",
+   "dateKey": "cheap-sunday",
+   "rooms": [
+    {
+     "room": "Cocoon 1",
+     "sleeps": 1,
+     "sqm": 7,
+     "beds": "1 Single Bed",
+     "rate": 97
+    },
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 10,
+     "beds": "1 Double Bed",
+     "rate": 102
+    },
+    {
+     "room": "Cocoon 3",
+     "sleeps": 3,
+     "sqm": 12,
+     "beds": "1 Double Bed and 1 Single Bed",
+     "rate": 132
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "sqm": 14,
+     "beds": "2 Double Beds",
+     "rate": 163
+    },
+    {
+     "room": "Family Room",
+     "sleeps": 4,
+     "sqm": 14,
+     "beds": "2 Double Beds",
+     "rate": 173
+    },
+    {
+     "room": "Cocoon 6",
+     "sleeps": 6,
+     "sqm": 18,
+     "beds": "3 Double Beds",
+     "rate": 203
+    },
+    {
+     "room": "Cocoon 8",
+     "sleeps": 8,
+     "sqm": 20,
+     "beds": "4 Double Beds",
+     "rate": 244
+    },
+    {
+     "room": "Cocoon 12",
+     "sleeps": 12,
+     "sqm": 62,
+     "beds": "6 Double Beds",
+     "rate": 356
+    },
+    {
+     "room": "Premium Family Cocoon",
+     "sleeps": 6,
+     "sqm": 30,
+     "beds": "1 Double Bed and 2 Double Sofa Beds",
+     "rate": null
+    },
+    {
+     "room": "Cocoon 10",
+     "sleeps": 10,
+     "sqm": 67,
+     "beds": "4 Double Beds and 2 Single Beds",
+     "rate": null
+    }
+   ],
+   "date": "2026-10-04"
+  },
+  {
+   "slug": "zedwell-piccadilly-circus",
+   "dateKey": "midweek",
+   "rooms": [
+    {
+     "room": "Cocoon 1",
+     "sleeps": 1,
+     "sqm": 7,
+     "rate": 113
+    },
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 10,
+     "rate": 117
+    },
+    {
+     "room": "Cocoon 3",
+     "sleeps": 3,
+     "sqm": 12,
+     "rate": 152
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "sqm": 14,
+     "rate": 187
+    },
+    {
+     "room": "Family Room",
+     "sleeps": 4,
+     "sqm": 14,
+     "rate": 199
+    },
+    {
+     "room": "Premium Family Cocoon",
+     "sleeps": 6,
+     "sqm": 30,
+     "rate": 222
+    },
+    {
+     "room": "Cocoon 6",
+     "sleeps": 6,
+     "sqm": 18,
+     "rate": 234
+    },
+    {
+     "room": "Cocoon 8",
+     "sleeps": 8,
+     "sqm": 20,
+     "rate": 281
+    },
+    {
+     "room": "Cocoon 10",
+     "sleeps": 10,
+     "sqm": 67,
+     "rate": 351
+    },
+    {
+     "room": "Cocoon 12",
+     "sleeps": 12,
+     "sqm": 62,
+     "rate": 409
+    }
+   ],
+   "date": "2027-02-10"
+  },
+  {
+   "slug": "zedwell-piccadilly-circus",
+   "dateKey": "saturday",
+   "rooms": [
+    {
+     "room": "Cocoon 1",
+     "sleeps": 1,
+     "sqm": 7,
+     "rate": 253
+    },
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 10,
+     "rate": 258
+    },
+    {
+     "room": "Cocoon 8",
+     "sleeps": 8,
+     "sqm": 20,
+     "rate": 618
+    },
+    {
+     "room": "Cocoon 12",
+     "sleeps": 12,
+     "sqm": 62,
+     "rate": 901
+    },
+    {
+     "room": "Cocoon 3",
+     "sleeps": 3,
+     "sqm": 12,
+     "rate": null
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "sqm": 14,
+     "rate": null
+    },
+    {
+     "room": "Family Room",
+     "sleeps": 4,
+     "sqm": 14,
+     "rate": null
+    },
+    {
+     "room": "Cocoon 6",
+     "sleeps": 6,
+     "sqm": 18,
+     "rate": null
+    },
+    {
+     "room": "Premium Family Cocoon",
+     "sleeps": 6,
+     "sqm": 30,
+     "rate": null
+    },
+    {
+     "room": "Cocoon 10",
+     "sleeps": 10,
+     "sqm": 67,
+     "rate": null
+    }
+   ],
+   "date": "2026-10-10"
+  },
+  {
+   "slug": "zedwell-piccadilly-circus",
+   "dateKey": "december",
+   "rooms": [
+    {
+     "room": "Cocoon 1",
+     "sleeps": 1,
+     "sqm": 7,
+     "rate": 287
+    },
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 10,
+     "rate": 291
+    },
+    {
+     "room": "Cocoon 3",
+     "sleeps": 3,
+     "sqm": 12,
+     "rate": 379
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "sqm": 14,
+     "rate": 466
+    },
+    {
+     "room": "Family Room",
+     "sleeps": 4,
+     "sqm": 14,
+     "rate": 495
+    },
+    {
+     "room": "Cocoon 6",
+     "sleeps": 6,
+     "sqm": 18,
+     "rate": 583
+    },
+    {
+     "room": "Cocoon 8",
+     "sleeps": 8,
+     "sqm": 20,
+     "rate": 699
+    },
+    {
+     "room": "Cocoon 12",
+     "sleeps": 12,
+     "sqm": 62,
+     "rate": null
+    },
+    {
+     "room": "Premium Family Cocoon",
+     "sleeps": 6,
+     "sqm": 30,
+     "rate": null
+    },
+    {
+     "room": "Cocoon 10",
+     "sleeps": 10,
+     "sqm": 67,
+     "rate": null
+    }
+   ],
+   "date": "2026-12-12"
+  },
+  {
+   "slug": "zedwell-piccadilly-circus",
+   "dateKey": "spring",
+   "rooms": [
+    {
+     "room": "Cocoon 1",
+     "sleeps": 1,
+     "sqm": 7,
+     "rate": 168
+    },
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 10,
+     "rate": 172
+    },
+    {
+     "room": "Cocoon 3",
+     "sleeps": 3,
+     "sqm": 12,
+     "rate": 224
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "sqm": 14,
+     "rate": 275
+    },
+    {
+     "room": "Family Room",
+     "sleeps": 4,
+     "sqm": 14,
+     "rate": 292
+    },
+    {
+     "room": "Premium Family Cocoon",
+     "sleeps": 6,
+     "sqm": 30,
+     "rate": 327
+    },
+    {
+     "room": "Cocoon 6",
+     "sleeps": 6,
+     "sqm": 18,
+     "rate": 344
+    },
+    {
+     "room": "Cocoon 8",
+     "sleeps": 8,
+     "sqm": 20,
+     "rate": 413
+    },
+    {
+     "room": "Cocoon 12",
+     "sleeps": 12,
+     "sqm": 62,
+     "rate": null
+    },
+    {
+     "room": "Cocoon 10",
+     "sleeps": 10,
+     "sqm": 67,
+     "rate": null
+    }
+   ],
+   "date": "2027-04-10"
+  },
+  {
+   "slug": "zedwell-tottenham-court-road",
+   "dateKey": "cheap-sunday",
+   "rooms": [
+    {
+     "room": "Cocoon 1",
+     "sleeps": 1,
+     "rate": 81
+    },
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "rate": 90
+    },
+    {
+     "room": "Cocoon 2 Accessible",
+     "sleeps": 2,
+     "rate": 91
+    },
+    {
+     "room": "Cocoon 2 Twin",
+     "sleeps": 2,
+     "rate": 108
+    },
+    {
+     "room": "Cocoon 3",
+     "sleeps": 3,
+     "rate": 117
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "rate": 135
+    }
+   ],
+   "date": "2026-10-04"
+  },
+  {
+   "slug": "zedwell-tottenham-court-road",
+   "dateKey": "midweek",
+   "rooms": [
+    {
+     "room": "Cocoon 1",
+     "sleeps": 1,
+     "rate": 110
+    },
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "rate": 118
+    },
+    {
+     "room": "Cocoon 2 Accessible",
+     "sleeps": 2,
+     "rate": 119
+    },
+    {
+     "room": "Cocoon 2 Twin",
+     "sleeps": 2,
+     "rate": 135
+    },
+    {
+     "room": "Cocoon 3",
+     "sleeps": 3,
+     "rate": 154
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "rate": 177
+    }
+   ],
+   "date": "2027-02-10"
+  },
+  {
+   "slug": "zedwell-tottenham-court-road",
+   "dateKey": "saturday",
+   "rooms": [
+    {
+     "room": "Cocoon 1",
+     "sleeps": 1,
+     "rate": 189
+    },
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "rate": 198
+    },
+    {
+     "room": "Cocoon 2 Twin",
+     "sleeps": 2,
+     "rate": 214
+    },
+    {
+     "room": "Cocoon 2 Accessible",
+     "sleeps": 2,
+     "rate": null
+    },
+    {
+     "room": "Cocoon 3",
+     "sleeps": 3,
+     "rate": null
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "rate": null
+    }
+   ],
+   "date": "2026-10-10"
+  },
+  {
+   "slug": "zedwell-tottenham-court-road",
+   "dateKey": "december",
+   "rooms": [
+    {
+     "room": "Cocoon 1",
+     "sleeps": 1,
+     "rate": 206
+    },
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "rate": 214
+    },
+    {
+     "room": "Cocoon 2 Twin",
+     "sleeps": 2,
+     "rate": 231
+    },
+    {
+     "room": "Cocoon 3",
+     "sleeps": 3,
+     "rate": 279
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "rate": 321
+    },
+    {
+     "room": "Cocoon 2 Accessible",
+     "sleeps": 2,
+     "rate": null
+    }
+   ],
+   "date": "2026-12-12"
+  },
+  {
+   "slug": "zedwell-tottenham-court-road",
+   "dateKey": "spring",
+   "rooms": [
+    {
+     "room": "Cocoon 1",
+     "sleeps": 1,
+     "rate": 144
+    },
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "rate": 153
+    },
+    {
+     "room": "Cocoon 2 Accessible",
+     "sleeps": 2,
+     "rate": 154
+    },
+    {
+     "room": "Cocoon 2 Twin",
+     "sleeps": 2,
+     "rate": 171
+    },
+    {
+     "room": "Cocoon 3",
+     "sleeps": 3,
+     "rate": 199
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "rate": 230
+    }
+   ],
+   "date": "2027-04-10"
+  },
+  {
+   "slug": "zedwell-greenwich",
+   "dateKey": "cheap-sunday",
+   "rooms": [
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 10,
+     "beds": "1 Double Bed",
+     "rate": 70
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "sqm": 14,
+     "beds": "2 Double Beds",
+     "rate": 124
+    }
+   ],
+   "date": "2026-10-04"
+  },
+  {
+   "slug": "zedwell-greenwich",
+   "dateKey": "midweek",
+   "rooms": [
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 10,
+     "rate": 66
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "sqm": 14,
+     "rate": 117
+    }
+   ],
+   "date": "2027-02-10"
+  },
+  {
+   "slug": "zedwell-greenwich",
+   "dateKey": "saturday",
+   "rooms": [
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 10,
+     "rate": 141
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "sqm": 14,
+     "rate": null
+    }
+   ],
+   "date": "2026-10-10"
+  },
+  {
+   "slug": "zedwell-greenwich",
+   "dateKey": "december",
+   "rooms": [
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 10,
+     "rate": 145
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "sqm": 14,
+     "rate": null
+    }
+   ],
+   "date": "2026-12-12"
+  },
+  {
+   "slug": "zedwell-greenwich",
+   "dateKey": "spring",
+   "rooms": [
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 10,
+     "rate": 123
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "sqm": 14,
+     "rate": null
+    }
+   ],
+   "date": "2027-04-10"
+  },
+  {
+   "slug": "zedwell-knightsbridge",
+   "dateKey": "cheap-sunday",
+   "rooms": [
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 7,
+     "rate": 89
+    }
+   ],
+   "date": "2026-10-04"
+  },
+  {
+   "slug": "zedwell-knightsbridge",
+   "dateKey": "midweek",
+   "rooms": [
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 7,
+     "rate": 112
+    }
+   ],
+   "date": "2027-02-10"
+  },
+  {
+   "slug": "zedwell-knightsbridge",
+   "dateKey": "saturday",
+   "rooms": [
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 7,
+     "rate": 257
+    }
+   ],
+   "date": "2026-10-10"
+  },
+  {
+   "slug": "zedwell-knightsbridge",
+   "dateKey": "december",
+   "rooms": [
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 7,
+     "rate": 229
+    }
+   ],
+   "date": "2026-12-12"
+  },
+  {
+   "slug": "zedwell-knightsbridge",
+   "dateKey": "spring",
+   "rooms": [
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 7,
+     "rate": 164
+    }
+   ],
+   "date": "2027-04-10"
+  },
+  {
+   "slug": "zedwell-piccadilly-capsule",
+   "dateKey": "cheap-sunday",
+   "rooms": [
+    {
+     "room": "Capsule Cocoon",
+     "sleeps": 1,
+     "beds": "1 Single Bed",
+     "rate": 33
+    },
+    {
+     "room": "Female Capsule Cocoon",
+     "sleeps": 1,
+     "beds": "1 Single Bed",
+     "rate": 40
+    }
+   ],
+   "date": "2026-10-04"
+  },
+  {
+   "slug": "zedwell-piccadilly-capsule",
+   "dateKey": "midweek",
+   "rooms": [
+    {
+     "room": "Capsule Cocoon",
+     "sleeps": 1,
+     "rate": 34
+    },
+    {
+     "room": "Female Capsule Cocoon",
+     "sleeps": 1,
+     "rate": 40
+    }
+   ],
+   "date": "2027-02-10"
+  },
+  {
+   "slug": "zedwell-piccadilly-capsule",
+   "dateKey": "saturday",
+   "rooms": [
+    {
+     "room": "Capsule Cocoon",
+     "sleeps": 1,
+     "rate": 64
+    },
+    {
+     "room": "Female Capsule Cocoon",
+     "sleeps": 1,
+     "rate": 71
+    }
+   ],
+   "date": "2026-10-10"
+  },
+  {
+   "slug": "zedwell-piccadilly-capsule",
+   "dateKey": "december",
+   "rooms": [
+    {
+     "room": "Capsule Cocoon",
+     "sleeps": 1,
+     "rate": 68
+    },
+    {
+     "room": "Female Capsule Cocoon",
+     "sleeps": 1,
+     "rate": 75
+    }
+   ],
+   "date": "2026-12-12"
+  },
+  {
+   "slug": "zedwell-piccadilly-capsule",
+   "dateKey": "spring",
+   "rooms": [
+    {
+     "room": "Capsule Cocoon",
+     "sleeps": 1,
+     "rate": 52
+    },
+    {
+     "room": "Female Capsule Cocoon",
+     "sleeps": 1,
+     "rate": 59
+    }
+   ],
+   "date": "2027-04-10"
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "dateKey": "cheap-sunday",
+   "soldOutOrUnlisted": true,
+   "rooms": [],
+   "note": "Room-list section renders but contains zero room cards",
+   "date": "2026-10-04"
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "dateKey": "midweek",
+   "soldOutOrUnlisted": true,
+   "rooms": [],
+   "note": "Room-list section renders but contains zero room cards",
+   "date": "2027-02-10"
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "dateKey": "saturday",
+   "soldOutOrUnlisted": true,
+   "rooms": [],
+   "note": "Room-list section renders but contains zero room cards",
+   "date": "2026-10-10"
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "dateKey": "december",
+   "soldOutOrUnlisted": true,
+   "rooms": [],
+   "note": "Room-list section renders but contains zero room cards",
+   "date": "2026-12-12"
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "dateKey": "spring",
+   "soldOutOrUnlisted": true,
+   "rooms": [],
+   "note": "Room-list section renders but contains zero room cards",
+   "date": "2027-04-10"
+  },
+  {
+   "slug": "otherwander-soho",
+   "dateKey": "cheap-sunday",
+   "rooms": [
+    {
+     "room": "Lower Single nest",
+     "sleeps": 1,
+     "rate": 62
+    },
+    {
+     "room": "Upper Single nest",
+     "sleeps": 1,
+     "rate": 62
+    },
+    {
+     "room": "Lower Double nest",
+     "sleeps": 2,
+     "rate": 98
+    },
+    {
+     "room": "Upper Double nest",
+     "sleeps": 2,
+     "rate": 98
+    }
+   ],
+   "date": "2026-10-04"
+  },
+  {
+   "slug": "otherwander-soho",
+   "dateKey": "midweek",
+   "rooms": [
+    {
+     "room": "Lower Single nest",
+     "sleeps": 1,
+     "rate": 78
+    },
+    {
+     "room": "Upper Single nest",
+     "sleeps": 1,
+     "rate": 78
+    },
+    {
+     "room": "Lower Double nest",
+     "sleeps": 2,
+     "rate": 122
+    },
+    {
+     "room": "Upper Double nest",
+     "sleeps": 2,
+     "rate": 121
+    }
+   ],
+   "date": "2027-02-10"
+  },
+  {
+   "slug": "otherwander-soho",
+   "dateKey": "saturday",
+   "rooms": [
+    {
+     "room": "Lower Single nest",
+     "sleeps": 1,
+     "rate": 115
+    },
+    {
+     "room": "Upper Single nest",
+     "sleeps": 1,
+     "rate": 119
+    },
+    {
+     "room": "Lower Double nest",
+     "sleeps": 2,
+     "rate": 164
+    },
+    {
+     "room": "Upper Double nest",
+     "sleeps": 2,
+     "rate": 165
+    }
+   ],
+   "date": "2026-10-10"
+  },
+  {
+   "slug": "otherwander-soho",
+   "dateKey": "december",
+   "rooms": [
+    {
+     "room": "Lower Single nest",
+     "sleeps": 1,
+     "rate": 103
+    },
+    {
+     "room": "Upper Single nest",
+     "sleeps": 1,
+     "rate": 107
+    },
+    {
+     "room": "Lower Double nest",
+     "sleeps": 2,
+     "rate": 161
+    },
+    {
+     "room": "Upper Double nest",
+     "sleeps": 2,
+     "rate": 147
+    }
+   ],
+   "date": "2026-12-12"
+  },
+  {
+   "slug": "otherwander-soho",
+   "dateKey": "spring",
+   "rooms": [
+    {
+     "room": "Lower Single nest",
+     "sleeps": 1,
+     "rate": 105
+    },
+    {
+     "room": "Upper Single nest",
+     "sleeps": 1,
+     "rate": 100
+    },
+    {
+     "room": "Lower Double nest",
+     "sleeps": 2,
+     "rate": 144
+    },
+    {
+     "room": "Upper Double nest",
+     "sleeps": 2,
+     "rate": 140
+    }
+   ],
+   "date": "2027-04-10"
+  },
+  {
+   "slug": "greenhouse-capsules",
+   "dateKey": "cheap-sunday",
+   "rooms": [
+    {
+     "room": "Room",
+     "sleeps": 1,
+     "beds": "1 Single Bed",
+     "rate": 42
+    }
+   ],
+   "date": "2026-10-04"
+  },
+  {
+   "slug": "greenhouse-capsules",
+   "dateKey": "midweek",
+   "rooms": [
+    {
+     "room": "Room",
+     "sleeps": 1,
+     "rate": 53
+    }
+   ],
+   "date": "2027-02-10"
+  },
+  {
+   "slug": "greenhouse-capsules",
+   "dateKey": "saturday",
+   "rooms": [
+    {
+     "room": "Room",
+     "sleeps": 1,
+     "rate": 53
+    }
+   ],
+   "date": "2026-10-10"
+  },
+  {
+   "slug": "greenhouse-capsules",
+   "dateKey": "december",
+   "rooms": [
+    {
+     "room": "Room",
+     "sleeps": 1,
+     "rate": 45
+    }
+   ],
+   "date": "2026-12-12"
+  },
+  {
+   "slug": "greenhouse-capsules",
+   "dateKey": "spring",
+   "rooms": [
+    {
+     "room": "Room",
+     "sleeps": 1,
+     "rate": 53
+    }
+   ],
+   "date": "2027-04-10"
+  }
+ ]
+}

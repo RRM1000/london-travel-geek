@@ -1,0 +1,392 @@
+{
+ "generated": "2026-09-07",
+ "dates": [
+  {
+   "key": "cheap-sunday",
+   "label": "Sunday, three weeks out",
+   "date": "2026-10-04"
+  },
+  {
+   "key": "midweek",
+   "label": "Wednesday, five months out",
+   "date": "2027-02-10"
+  },
+  {
+   "key": "saturday",
+   "label": "Saturday, a month out",
+   "date": "2026-10-10"
+  },
+  {
+   "key": "december",
+   "label": "Second Saturday of December",
+   "date": "2026-12-12"
+  },
+  {
+   "key": "spring",
+   "label": "Saturday, seven months out",
+   "date": "2027-04-10"
+  }
+ ],
+ "rows": [
+  {
+   "slug": "zedwell-piccadilly-circus",
+   "name": "Zedwell Piccadilly Circus",
+   "propertyType": "hotel",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-04",
+   "dayName": "Sun",
+   "url": "https://uk.hotels.com/ho1354506368/zedwell-piccadilly-london-united-kingdom/?chkin=2026-10-04&chkout=2026-10-05&adults=1"
+  },
+  {
+   "slug": "zedwell-piccadilly-circus",
+   "name": "Zedwell Piccadilly Circus",
+   "propertyType": "hotel",
+   "dateKey": "midweek",
+   "date": "2027-02-10",
+   "dayName": "Wed",
+   "url": "https://uk.hotels.com/ho1354506368/zedwell-piccadilly-london-united-kingdom/?chkin=2027-02-10&chkout=2027-02-11&adults=1"
+  },
+  {
+   "slug": "zedwell-piccadilly-circus",
+   "name": "Zedwell Piccadilly Circus",
+   "propertyType": "hotel",
+   "dateKey": "saturday",
+   "date": "2026-10-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho1354506368/zedwell-piccadilly-london-united-kingdom/?chkin=2026-10-10&chkout=2026-10-11&adults=1"
+  },
+  {
+   "slug": "zedwell-piccadilly-circus",
+   "name": "Zedwell Piccadilly Circus",
+   "propertyType": "hotel",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho1354506368/zedwell-piccadilly-london-united-kingdom/?chkin=2026-12-12&chkout=2026-12-13&adults=1"
+  },
+  {
+   "slug": "zedwell-piccadilly-circus",
+   "name": "Zedwell Piccadilly Circus",
+   "propertyType": "hotel",
+   "dateKey": "spring",
+   "date": "2027-04-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho1354506368/zedwell-piccadilly-london-united-kingdom/?chkin=2027-04-10&chkout=2027-04-11&adults=1"
+  },
+  {
+   "slug": "zedwell-tottenham-court-road",
+   "name": "Zedwell Tottenham Court Road",
+   "propertyType": "hotel",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-04",
+   "dayName": "Sun",
+   "url": "https://uk.hotels.com/ho2866214144/zedwell-underground-tottenham-court-road-london-united-kingdom/?chkin=2026-10-04&chkout=2026-10-05&adults=1"
+  },
+  {
+   "slug": "zedwell-tottenham-court-road",
+   "name": "Zedwell Tottenham Court Road",
+   "propertyType": "hotel",
+   "dateKey": "midweek",
+   "date": "2027-02-10",
+   "dayName": "Wed",
+   "url": "https://uk.hotels.com/ho2866214144/zedwell-underground-tottenham-court-road-london-united-kingdom/?chkin=2027-02-10&chkout=2027-02-11&adults=1"
+  },
+  {
+   "slug": "zedwell-tottenham-court-road",
+   "name": "Zedwell Tottenham Court Road",
+   "propertyType": "hotel",
+   "dateKey": "saturday",
+   "date": "2026-10-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho2866214144/zedwell-underground-tottenham-court-road-london-united-kingdom/?chkin=2026-10-10&chkout=2026-10-11&adults=1"
+  },
+  {
+   "slug": "zedwell-tottenham-court-road",
+   "name": "Zedwell Tottenham Court Road",
+   "propertyType": "hotel",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho2866214144/zedwell-underground-tottenham-court-road-london-united-kingdom/?chkin=2026-12-12&chkout=2026-12-13&adults=1"
+  },
+  {
+   "slug": "zedwell-tottenham-court-road",
+   "name": "Zedwell Tottenham Court Road",
+   "propertyType": "hotel",
+   "dateKey": "spring",
+   "date": "2027-04-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho2866214144/zedwell-underground-tottenham-court-road-london-united-kingdom/?chkin=2027-04-10&chkout=2027-04-11&adults=1"
+  },
+  {
+   "slug": "zedwell-greenwich",
+   "name": "Zedwell Greenwich",
+   "propertyType": "hotel",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-04",
+   "dayName": "Sun",
+   "url": "https://uk.hotels.com/ho2975673280/zedwell-greenwich-london-united-kingdom/?chkin=2026-10-04&chkout=2026-10-05&adults=1"
+  },
+  {
+   "slug": "zedwell-greenwich",
+   "name": "Zedwell Greenwich",
+   "propertyType": "hotel",
+   "dateKey": "midweek",
+   "date": "2027-02-10",
+   "dayName": "Wed",
+   "url": "https://uk.hotels.com/ho2975673280/zedwell-greenwich-london-united-kingdom/?chkin=2027-02-10&chkout=2027-02-11&adults=1"
+  },
+  {
+   "slug": "zedwell-greenwich",
+   "name": "Zedwell Greenwich",
+   "propertyType": "hotel",
+   "dateKey": "saturday",
+   "date": "2026-10-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho2975673280/zedwell-greenwich-london-united-kingdom/?chkin=2026-10-10&chkout=2026-10-11&adults=1"
+  },
+  {
+   "slug": "zedwell-greenwich",
+   "name": "Zedwell Greenwich",
+   "propertyType": "hotel",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho2975673280/zedwell-greenwich-london-united-kingdom/?chkin=2026-12-12&chkout=2026-12-13&adults=1"
+  },
+  {
+   "slug": "zedwell-greenwich",
+   "name": "Zedwell Greenwich",
+   "propertyType": "hotel",
+   "dateKey": "spring",
+   "date": "2027-04-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho2975673280/zedwell-greenwich-london-united-kingdom/?chkin=2027-04-10&chkout=2027-04-11&adults=1"
+  },
+  {
+   "slug": "zedwell-knightsbridge",
+   "name": "Zedwell Knightsbridge",
+   "propertyType": "hotel",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-04",
+   "dayName": "Sun",
+   "url": "https://uk.hotels.com/ho3603629376/zedwell-knightsbridge/?chkin=2026-10-04&chkout=2026-10-05&adults=1"
+  },
+  {
+   "slug": "zedwell-knightsbridge",
+   "name": "Zedwell Knightsbridge",
+   "propertyType": "hotel",
+   "dateKey": "midweek",
+   "date": "2027-02-10",
+   "dayName": "Wed",
+   "url": "https://uk.hotels.com/ho3603629376/zedwell-knightsbridge/?chkin=2027-02-10&chkout=2027-02-11&adults=1"
+  },
+  {
+   "slug": "zedwell-knightsbridge",
+   "name": "Zedwell Knightsbridge",
+   "propertyType": "hotel",
+   "dateKey": "saturday",
+   "date": "2026-10-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho3603629376/zedwell-knightsbridge/?chkin=2026-10-10&chkout=2026-10-11&adults=1"
+  },
+  {
+   "slug": "zedwell-knightsbridge",
+   "name": "Zedwell Knightsbridge",
+   "propertyType": "hotel",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho3603629376/zedwell-knightsbridge/?chkin=2026-12-12&chkout=2026-12-13&adults=1"
+  },
+  {
+   "slug": "zedwell-knightsbridge",
+   "name": "Zedwell Knightsbridge",
+   "propertyType": "hotel",
+   "dateKey": "spring",
+   "date": "2027-04-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho3603629376/zedwell-knightsbridge/?chkin=2027-04-10&chkout=2027-04-11&adults=1"
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "name": "Zedwell Underground Hotel Park Lane",
+   "propertyType": "hotel",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-04",
+   "dayName": "Sun",
+   "url": "https://uk.hotels.com/ho3951567264/zedwell-underground-hotel-park-lane/?chkin=2026-10-04&chkout=2026-10-05&adults=1"
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "name": "Zedwell Underground Hotel Park Lane",
+   "propertyType": "hotel",
+   "dateKey": "midweek",
+   "date": "2027-02-10",
+   "dayName": "Wed",
+   "url": "https://uk.hotels.com/ho3951567264/zedwell-underground-hotel-park-lane/?chkin=2027-02-10&chkout=2027-02-11&adults=1"
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "name": "Zedwell Underground Hotel Park Lane",
+   "propertyType": "hotel",
+   "dateKey": "saturday",
+   "date": "2026-10-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho3951567264/zedwell-underground-hotel-park-lane/?chkin=2026-10-10&chkout=2026-10-11&adults=1"
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "name": "Zedwell Underground Hotel Park Lane",
+   "propertyType": "hotel",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho3951567264/zedwell-underground-hotel-park-lane/?chkin=2026-12-12&chkout=2026-12-13&adults=1"
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "name": "Zedwell Underground Hotel Park Lane",
+   "propertyType": "hotel",
+   "dateKey": "spring",
+   "date": "2027-04-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho3951567264/zedwell-underground-hotel-park-lane/?chkin=2027-04-10&chkout=2027-04-11&adults=1"
+  },
+  {
+   "slug": "zedwell-piccadilly-capsule",
+   "name": "Zedwell Capsule Hotel Piccadilly Circus",
+   "propertyType": "capsule",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-04",
+   "dayName": "Sun",
+   "url": "https://uk.hotels.com/ho3624527296/zedwell-capsule-piccadilly/?chkin=2026-10-04&chkout=2026-10-05&adults=1"
+  },
+  {
+   "slug": "zedwell-piccadilly-capsule",
+   "name": "Zedwell Capsule Hotel Piccadilly Circus",
+   "propertyType": "capsule",
+   "dateKey": "midweek",
+   "date": "2027-02-10",
+   "dayName": "Wed",
+   "url": "https://uk.hotels.com/ho3624527296/zedwell-capsule-piccadilly/?chkin=2027-02-10&chkout=2027-02-11&adults=1"
+  },
+  {
+   "slug": "zedwell-piccadilly-capsule",
+   "name": "Zedwell Capsule Hotel Piccadilly Circus",
+   "propertyType": "capsule",
+   "dateKey": "saturday",
+   "date": "2026-10-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho3624527296/zedwell-capsule-piccadilly/?chkin=2026-10-10&chkout=2026-10-11&adults=1"
+  },
+  {
+   "slug": "zedwell-piccadilly-capsule",
+   "name": "Zedwell Capsule Hotel Piccadilly Circus",
+   "propertyType": "capsule",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho3624527296/zedwell-capsule-piccadilly/?chkin=2026-12-12&chkout=2026-12-13&adults=1"
+  },
+  {
+   "slug": "zedwell-piccadilly-capsule",
+   "name": "Zedwell Capsule Hotel Piccadilly Circus",
+   "propertyType": "capsule",
+   "dateKey": "spring",
+   "date": "2027-04-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho3624527296/zedwell-capsule-piccadilly/?chkin=2027-04-10&chkout=2027-04-11&adults=1"
+  },
+  {
+   "slug": "otherwander-soho",
+   "name": "Otherwander Soho",
+   "propertyType": "capsule",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-04",
+   "dayName": "Sun",
+   "url": "https://uk.hotels.com/ho3642258240/?chkin=2026-10-04&chkout=2026-10-05&adults=1"
+  },
+  {
+   "slug": "otherwander-soho",
+   "name": "Otherwander Soho",
+   "propertyType": "capsule",
+   "dateKey": "midweek",
+   "date": "2027-02-10",
+   "dayName": "Wed",
+   "url": "https://uk.hotels.com/ho3642258240/?chkin=2027-02-10&chkout=2027-02-11&adults=1"
+  },
+  {
+   "slug": "otherwander-soho",
+   "name": "Otherwander Soho",
+   "propertyType": "capsule",
+   "dateKey": "saturday",
+   "date": "2026-10-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho3642258240/?chkin=2026-10-10&chkout=2026-10-11&adults=1"
+  },
+  {
+   "slug": "otherwander-soho",
+   "name": "Otherwander Soho",
+   "propertyType": "capsule",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho3642258240/?chkin=2026-12-12&chkout=2026-12-13&adults=1"
+  },
+  {
+   "slug": "otherwander-soho",
+   "name": "Otherwander Soho",
+   "propertyType": "capsule",
+   "dateKey": "spring",
+   "date": "2027-04-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho3642258240/?chkin=2027-04-10&chkout=2027-04-11&adults=1"
+  },
+  {
+   "slug": "greenhouse-capsules",
+   "name": "The GreenHouse Capsules",
+   "propertyType": "capsule",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-04",
+   "dayName": "Sun",
+   "url": "https://uk.hotels.com/ho3942735936/the-greenhouse-capules/?chkin=2026-10-04&chkout=2026-10-05&adults=1"
+  },
+  {
+   "slug": "greenhouse-capsules",
+   "name": "The GreenHouse Capsules",
+   "propertyType": "capsule",
+   "dateKey": "midweek",
+   "date": "2027-02-10",
+   "dayName": "Wed",
+   "url": "https://uk.hotels.com/ho3942735936/the-greenhouse-capules/?chkin=2027-02-10&chkout=2027-02-11&adults=1"
+  },
+  {
+   "slug": "greenhouse-capsules",
+   "name": "The GreenHouse Capsules",
+   "propertyType": "capsule",
+   "dateKey": "saturday",
+   "date": "2026-10-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho3942735936/the-greenhouse-capules/?chkin=2026-10-10&chkout=2026-10-11&adults=1"
+  },
+  {
+   "slug": "greenhouse-capsules",
+   "name": "The GreenHouse Capsules",
+   "propertyType": "capsule",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho3942735936/the-greenhouse-capules/?chkin=2026-12-12&chkout=2026-12-13&adults=1"
+  },
+  {
+   "slug": "greenhouse-capsules",
+   "name": "The GreenHouse Capsules",
+   "propertyType": "capsule",
+   "dateKey": "spring",
+   "date": "2027-04-10",
+   "dayName": "Sat",
+   "url": "https://uk.hotels.com/ho3942735936/the-greenhouse-capules/?chkin=2027-04-10&chkout=2027-04-11&adults=1"
+  }
+ ]
+}

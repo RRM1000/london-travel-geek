@@ -1,0 +1,1058 @@
+{
+ "generated": "2026-09-07",
+ "sampledOn": "2026-09-07",
+ "dates": [
+  {
+   "key": "cheap-sunday",
+   "label": "Sunday, three weeks out",
+   "date": "2026-10-04"
+  },
+  {
+   "key": "midweek",
+   "label": "Wednesday, five months out",
+   "date": "2027-02-10"
+  },
+  {
+   "key": "saturday",
+   "label": "Saturday, a month out",
+   "date": "2026-10-10"
+  },
+  {
+   "key": "december",
+   "label": "Second Saturday of December",
+   "date": "2026-12-12"
+  },
+  {
+   "key": "spring",
+   "label": "Saturday, seven months out",
+   "date": "2027-04-10"
+  }
+ ],
+ "properties": [
+  {
+   "slug": "zedwell-piccadilly-circus",
+   "datesSampled": 5,
+   "unlistedOn": [],
+   "cheapestNight": 97,
+   "dearestNight": 901,
+   "swing": 3,
+   "rooms": [
+    {
+     "room": "Cocoon 1",
+     "sleeps": 1,
+     "sqm": 7,
+     "beds": "1 Single Bed",
+     "min": 97,
+     "max": 287,
+     "nights": 5,
+     "multiplier": 3,
+     "perHeadMin": 97,
+     "perHeadMax": 287,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 97
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 113
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 253
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 287
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 168
+      }
+     ],
+     "vsSmallest": 1,
+     "perHeadVsSmallest": 1
+    },
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 10,
+     "beds": "1 Double Bed",
+     "min": 102,
+     "max": 291,
+     "nights": 5,
+     "multiplier": 2.9,
+     "perHeadMin": 51,
+     "perHeadMax": 145.5,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 102
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 117
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 258
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 291
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 172
+      }
+     ],
+     "vsSmallest": 1.1,
+     "perHeadVsSmallest": 0.5
+    },
+    {
+     "room": "Cocoon 3",
+     "sleeps": 3,
+     "sqm": 12,
+     "beds": "1 Double Bed and 1 Single Bed",
+     "min": 132,
+     "max": 379,
+     "nights": 4,
+     "multiplier": 2.9,
+     "perHeadMin": 44,
+     "perHeadMax": 126.3,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 132
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 152
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 379
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 224
+      }
+     ],
+     "vsSmallest": 1.4,
+     "perHeadVsSmallest": 0.5
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "sqm": 14,
+     "beds": "2 Double Beds",
+     "min": 163,
+     "max": 466,
+     "nights": 4,
+     "multiplier": 2.9,
+     "perHeadMin": 40.8,
+     "perHeadMax": 116.5,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 163
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 187
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 466
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 275
+      }
+     ],
+     "vsSmallest": 1.7,
+     "perHeadVsSmallest": 0.4
+    },
+    {
+     "room": "Family Room",
+     "sleeps": 4,
+     "sqm": 14,
+     "beds": "2 Double Beds",
+     "min": 173,
+     "max": 495,
+     "nights": 4,
+     "multiplier": 2.9,
+     "perHeadMin": 43.3,
+     "perHeadMax": 123.8,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 173
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 199
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 495
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 292
+      }
+     ],
+     "vsSmallest": 1.8,
+     "perHeadVsSmallest": 0.4
+    },
+    {
+     "room": "Cocoon 6",
+     "sleeps": 6,
+     "sqm": 18,
+     "beds": "3 Double Beds",
+     "min": 203,
+     "max": 583,
+     "nights": 4,
+     "multiplier": 2.9,
+     "perHeadMin": 33.8,
+     "perHeadMax": 97.2,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 203
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 234
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 583
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 344
+      }
+     ],
+     "vsSmallest": 2.1,
+     "perHeadVsSmallest": 0.3
+    },
+    {
+     "room": "Premium Family Cocoon",
+     "sleeps": 6,
+     "sqm": 30,
+     "min": 222,
+     "max": 327,
+     "nights": 2,
+     "multiplier": 1.5,
+     "perHeadMin": 37,
+     "perHeadMax": 54.5,
+     "rates": [
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 222
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 327
+      }
+     ],
+     "vsSmallest": 2.3,
+     "perHeadVsSmallest": 0.4
+    },
+    {
+     "room": "Cocoon 8",
+     "sleeps": 8,
+     "sqm": 20,
+     "beds": "4 Double Beds",
+     "min": 244,
+     "max": 699,
+     "nights": 5,
+     "multiplier": 2.9,
+     "perHeadMin": 30.5,
+     "perHeadMax": 87.4,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 244
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 281
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 618
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 699
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 413
+      }
+     ],
+     "vsSmallest": 2.5,
+     "perHeadVsSmallest": 0.3
+    },
+    {
+     "room": "Cocoon 10",
+     "sleeps": 10,
+     "sqm": 67,
+     "min": 351,
+     "max": 351,
+     "nights": 1,
+     "multiplier": 1,
+     "perHeadMin": 35.1,
+     "perHeadMax": 35.1,
+     "rates": [
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 351
+      }
+     ],
+     "vsSmallest": 3.6,
+     "perHeadVsSmallest": 0.4
+    },
+    {
+     "room": "Cocoon 12",
+     "sleeps": 12,
+     "sqm": 62,
+     "beds": "6 Double Beds",
+     "min": 356,
+     "max": 901,
+     "nights": 3,
+     "multiplier": 2.5,
+     "perHeadMin": 29.7,
+     "perHeadMax": 75.1,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 356
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 409
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 901
+      }
+     ],
+     "vsSmallest": 3.7,
+     "perHeadVsSmallest": 0.3
+    }
+   ]
+  },
+  {
+   "slug": "zedwell-tottenham-court-road",
+   "datesSampled": 5,
+   "unlistedOn": [],
+   "cheapestNight": 81,
+   "dearestNight": 321,
+   "swing": 2.5,
+   "rooms": [
+    {
+     "room": "Cocoon 1",
+     "sleeps": 1,
+     "min": 81,
+     "max": 206,
+     "nights": 5,
+     "multiplier": 2.5,
+     "perHeadMin": 81,
+     "perHeadMax": 206,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 81
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 110
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 189
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 206
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 144
+      }
+     ],
+     "vsSmallest": 1,
+     "perHeadVsSmallest": 1
+    },
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "min": 90,
+     "max": 214,
+     "nights": 5,
+     "multiplier": 2.4,
+     "perHeadMin": 45,
+     "perHeadMax": 107,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 90
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 118
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 198
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 214
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 153
+      }
+     ],
+     "vsSmallest": 1.1,
+     "perHeadVsSmallest": 0.6
+    },
+    {
+     "room": "Cocoon 2 Accessible",
+     "sleeps": 2,
+     "min": 91,
+     "max": 154,
+     "nights": 3,
+     "multiplier": 1.7,
+     "perHeadMin": 45.5,
+     "perHeadMax": 77,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 91
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 119
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 154
+      }
+     ],
+     "vsSmallest": 1.1,
+     "perHeadVsSmallest": 0.6
+    },
+    {
+     "room": "Cocoon 2 Twin",
+     "sleeps": 2,
+     "min": 108,
+     "max": 231,
+     "nights": 5,
+     "multiplier": 2.1,
+     "perHeadMin": 54,
+     "perHeadMax": 115.5,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 108
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 135
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 214
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 231
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 171
+      }
+     ],
+     "vsSmallest": 1.3,
+     "perHeadVsSmallest": 0.7
+    },
+    {
+     "room": "Cocoon 3",
+     "sleeps": 3,
+     "min": 117,
+     "max": 279,
+     "nights": 4,
+     "multiplier": 2.4,
+     "perHeadMin": 39,
+     "perHeadMax": 93,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 117
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 154
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 279
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 199
+      }
+     ],
+     "vsSmallest": 1.4,
+     "perHeadVsSmallest": 0.5
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "min": 135,
+     "max": 321,
+     "nights": 4,
+     "multiplier": 2.4,
+     "perHeadMin": 33.8,
+     "perHeadMax": 80.3,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 135
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 177
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 321
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 230
+      }
+     ],
+     "vsSmallest": 1.7,
+     "perHeadVsSmallest": 0.4
+    }
+   ]
+  },
+  {
+   "slug": "zedwell-greenwich",
+   "datesSampled": 5,
+   "unlistedOn": [],
+   "cheapestNight": 66,
+   "dearestNight": 145,
+   "swing": 2.2,
+   "rooms": [
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 10,
+     "beds": "1 Double Bed",
+     "min": 66,
+     "max": 145,
+     "nights": 5,
+     "multiplier": 2.2,
+     "perHeadMin": 33,
+     "perHeadMax": 72.5,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 70
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 66
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 141
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 145
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 123
+      }
+     ],
+     "vsSmallest": 1,
+     "perHeadVsSmallest": 1
+    },
+    {
+     "room": "Cocoon 4",
+     "sleeps": 4,
+     "sqm": 14,
+     "beds": "2 Double Beds",
+     "min": 117,
+     "max": 124,
+     "nights": 2,
+     "multiplier": 1.1,
+     "perHeadMin": 29.3,
+     "perHeadMax": 31,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 124
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 117
+      }
+     ],
+     "vsSmallest": 1.8,
+     "perHeadVsSmallest": 0.9
+    }
+   ]
+  },
+  {
+   "slug": "zedwell-knightsbridge",
+   "datesSampled": 5,
+   "unlistedOn": [],
+   "cheapestNight": 89,
+   "dearestNight": 257,
+   "swing": 2.9,
+   "rooms": [
+    {
+     "room": "Cocoon 2",
+     "sleeps": 2,
+     "sqm": 7,
+     "min": 89,
+     "max": 257,
+     "nights": 5,
+     "multiplier": 2.9,
+     "perHeadMin": 44.5,
+     "perHeadMax": 128.5,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 89
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 112
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 257
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 229
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 164
+      }
+     ],
+     "vsSmallest": 1,
+     "perHeadVsSmallest": 1
+    }
+   ]
+  },
+  {
+   "slug": "zedwell-piccadilly-capsule",
+   "datesSampled": 5,
+   "unlistedOn": [],
+   "cheapestNight": 33,
+   "dearestNight": 75,
+   "swing": 2.1,
+   "rooms": [
+    {
+     "room": "Capsule Cocoon",
+     "sleeps": 1,
+     "beds": "1 Single Bed",
+     "min": 33,
+     "max": 68,
+     "nights": 5,
+     "multiplier": 2.1,
+     "perHeadMin": 33,
+     "perHeadMax": 68,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 33
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 34
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 64
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 68
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 52
+      }
+     ],
+     "vsSmallest": 1,
+     "perHeadVsSmallest": 1
+    },
+    {
+     "room": "Female Capsule Cocoon",
+     "sleeps": 1,
+     "beds": "1 Single Bed",
+     "min": 40,
+     "max": 75,
+     "nights": 5,
+     "multiplier": 1.9,
+     "perHeadMin": 40,
+     "perHeadMax": 75,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 40
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 40
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 71
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 75
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 59
+      }
+     ],
+     "vsSmallest": 1.2,
+     "perHeadVsSmallest": 1.2
+    }
+   ]
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "datesSampled": 0,
+   "unlistedOn": [
+    "2026-10-04",
+    "2027-02-10",
+    "2026-10-10",
+    "2026-12-12",
+    "2027-04-10"
+   ],
+   "cheapestNight": null,
+   "dearestNight": null,
+   "swing": null,
+   "rooms": []
+  },
+  {
+   "slug": "otherwander-soho",
+   "datesSampled": 5,
+   "unlistedOn": [],
+   "cheapestNight": 62,
+   "dearestNight": 165,
+   "swing": 1.9,
+   "rooms": [
+    {
+     "room": "Lower Single nest",
+     "sleeps": 1,
+     "min": 62,
+     "max": 115,
+     "nights": 5,
+     "multiplier": 1.9,
+     "perHeadMin": 62,
+     "perHeadMax": 115,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 62
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 78
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 115
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 103
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 105
+      }
+     ],
+     "vsSmallest": 1,
+     "perHeadVsSmallest": 1
+    },
+    {
+     "room": "Upper Single nest",
+     "sleeps": 1,
+     "min": 62,
+     "max": 119,
+     "nights": 5,
+     "multiplier": 1.9,
+     "perHeadMin": 62,
+     "perHeadMax": 119,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 62
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 78
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 119
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 107
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 100
+      }
+     ],
+     "vsSmallest": 1,
+     "perHeadVsSmallest": 1
+    },
+    {
+     "room": "Lower Double nest",
+     "sleeps": 2,
+     "min": 98,
+     "max": 164,
+     "nights": 5,
+     "multiplier": 1.7,
+     "perHeadMin": 49,
+     "perHeadMax": 82,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 98
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 122
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 164
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 161
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 144
+      }
+     ],
+     "vsSmallest": 1.6,
+     "perHeadVsSmallest": 0.8
+    },
+    {
+     "room": "Upper Double nest",
+     "sleeps": 2,
+     "min": 98,
+     "max": 165,
+     "nights": 5,
+     "multiplier": 1.7,
+     "perHeadMin": 49,
+     "perHeadMax": 82.5,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 98
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 121
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 165
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 147
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 140
+      }
+     ],
+     "vsSmallest": 1.6,
+     "perHeadVsSmallest": 0.8
+    }
+   ]
+  },
+  {
+   "slug": "greenhouse-capsules",
+   "datesSampled": 5,
+   "unlistedOn": [],
+   "cheapestNight": 42,
+   "dearestNight": 53,
+   "swing": 1.3,
+   "rooms": [
+    {
+     "room": "Room",
+     "sleeps": 1,
+     "beds": "1 Single Bed",
+     "min": 42,
+     "max": 53,
+     "nights": 5,
+     "multiplier": 1.3,
+     "perHeadMin": 42,
+     "perHeadMax": 53,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 42
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 53
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 53
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 45
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 53
+      }
+     ],
+     "vsSmallest": 1,
+     "perHeadVsSmallest": 1
+    }
+   ]
+  }
+ ]
+}
