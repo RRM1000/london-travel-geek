@@ -1068,9 +1068,13 @@ const breadcrumbs = [
   .article__body :global(.line-name--weaver) { --line-colour: #9b0056; --line-ink: #820047; }
   .article__body :global(.line-name--windrush) { --line-colour: #dc241f; --line-ink: #af1d19; }
 
+  /* Auto-fit rather than four fixed columns: the Tube cards carry five fields
+     (crowding, comfort, air-con, Night Tube, ease of use) and the Elizabeth
+     line and Overground carry three, so a hard-coded track count left an
+     orphan on its own row and squeezed "Typical crowding" onto two lines. */
   .article__body :global(.line-guide dl) {
     display: grid;
-    grid-template-columns: 0.8fr 1.15fr 1.1fr 1.6fr;
+    grid-template-columns: repeat(auto-fit, minmax(7.5rem, 1fr));
     gap: 0.55rem;
     margin: 0;
   }
@@ -1191,7 +1195,7 @@ const breadcrumbs = [
     }
 
     .article__body :global(.line-guide dl) {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(6.5rem, 1fr));
     }
 
   }
