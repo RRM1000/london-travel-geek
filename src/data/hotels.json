@@ -335,43 +335,6 @@
    "website": "https://zedwellhotels.com/locations/london/leicester-place/leicester-place-capsule-hotel/"
   },
   {
-   "slug": "zedwell-park-lane",
-   "name": "Zedwell Underground Hotel Park Lane",
-   "propertyType": "hotel",
-   "style": "Windowless cocoon rooms, entirely underground",
-   "brand": "zedwell",
-   "chainType": "chain",
-   "starRating": "3",
-   "area": "Mayfair",
-   "borough": "Westminster",
-   "guide": "mayfair-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "77 Park Lane, W1K 7TP",
-   "priceBand": "£",
-   "breakfast": "extra",
-   "roomTypes": "Windowless Cocoon",
-   "accessibility": "accessible-rooms",
-   "hasLift": "yes",
-   "airCon": "yes",
-   "luggageStorage": "yes",
-   "whyGo": "A Park Lane address at Zedwell money, one minute from Hyde Park Corner, and the brand's newest and most design-led property. Underground like Tottenham Court Road, so the windowless format is a fact of the building rather than a choice.",
-   "opNote": "Windowless by design and entirely below ground, and the newest thing Zedwell has built. NOT BOOKABLE ON HOTELS.COM: the listing exists and carries guest reviews, but the room-list section returned zero bookable rooms on all FIVE sampled dates spread across seven months. Book direct.",
-   "goodFor": [
-    "solo",
-    "couples",
-    "budget"
-   ],
-   "lists": [
-    "budget",
-    "windowless"
-   ],
-   "website": "https://zedwellhotels.com/locations/london/park-lane/park-lane-hotel/",
-   "hotelsUrl": "https://uk.hotels.com/ho3951567264/zedwell-underground-hotel-park-lane/",
-   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho3951567264/zedwell-underground-hotel-park-lane/",
-   "affiliateNetwork": "cj"
-  },
-  {
    "slug": "aloft-london-excel",
    "name": "Aloft London ExCeL",
    "propertyType": "hotel",
@@ -1364,6 +1327,45 @@
    "website": "https://zedwellhotels.com/locations/london/tottenham-court-road/tottenham-court-road-hotel/",
    "hotelsUrl": "https://uk.hotels.com/ho2866214144/zedwell-underground-tottenham-court-road-london-united-kingdom/",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho2866214144/zedwell-underground-tottenham-court-road-london-united-kingdom/",
+   "affiliateNetwork": "cj"
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "name": "Zedwell Underground Hotel Park Lane",
+   "propertyType": "hotel",
+   "style": "Windowless cocoon rooms, entirely underground",
+   "brand": "zedwell",
+   "chainType": "chain",
+   "starRating": "3",
+   "area": "Mayfair",
+   "borough": "Westminster",
+   "guide": "mayfair-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "77 Park Lane, W1K 7TP",
+   "priceBand": "££",
+   "typicalFrom": "£90–£207 a Cocoon 2",
+   "breakfast": "extra",
+   "roomTypes": "Cocoon 2 only, sleeps two",
+   "familyPolicy": "Two guests maximum - no family rooms",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "A Park Lane address at Zedwell money, one minute from Hyde Park Corner, and the brand's newest and most design-led property. Underground like Tottenham Court Road, so the windowless format is a fact of the building rather than a choice.",
+   "opNote": "Windowless by design and entirely below ground, and the newest thing Zedwell has built. A MAYFAIR ADDRESS AT KNIGHTSBRIDGE MONEY: one room type, a Cocoon 2 sleeping two, at £90 to £207 across five sampled dates - within a pound of Knightsbridge on a quiet night and about £50 under it on an October Saturday. Eight minutes from Marble Arch. The catch is that it is barely reviewed yet, so there is little to go on beyond the rate.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "budget"
+   ],
+   "lists": [
+    "budget",
+    "windowless"
+   ],
+   "website": "https://zedwellhotels.com/locations/london/park-lane/park-lane-hotel/",
+   "hotelsUrl": "https://uk.hotels.com/ho3951567264/zedwell-underground-hotel-park-lane/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho3951567264/zedwell-underground-hotel-park-lane/",
    "affiliateNetwork": "cj"
   },
   {

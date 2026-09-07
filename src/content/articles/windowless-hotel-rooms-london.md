@@ -89,7 +89,7 @@ Floor space works the same way: a Cocoon 8 is 20 sq m for eight people, against 
 
 **4. [Zedwell Knightsbridge](hotel:zedwell-knightsbridge) — couples only.** **One room type**, a Cocoon 2 sleeping two, so there is no single rate and no family option. On a quiet night it is the cheapest bed in SW1 by a distance; it reprices as hard as the flagship, so the bargain is a midweek-and-February proposition rather than a standing one.
 
-**5. [Zedwell Park Lane](hotel:zedwell-park-lane) — the one you probably cannot book.** The newest, underground like Tottenham Court Road, at 77 Park Lane. It returned no bookable room on any of five dates we tried across seven months, so go direct or expect to.
+**5. [Zedwell Park Lane](hotel:zedwell-park-lane) — a Mayfair address at Knightsbridge money.** The newest of the five, underground like Tottenham Court Road, at 77 Park Lane, eight minutes from Marble Arch. It sells **one room type**, a Cocoon 2 sleeping two, which ran **£90 to £207** across our five dates — within a pound of Knightsbridge on a quiet night and £50 cheaper on an October Saturday, for a W1K postcode. It is the least reviewed of the five, with only a handful of scores so far, which is the reason it is last here rather than the price.
 
 ## Who should not book one
 

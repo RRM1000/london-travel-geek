@@ -824,21 +824,6 @@
    ]
   },
   {
-   "slug": "zedwell-park-lane",
-   "datesSampled": 0,
-   "unlistedOn": [
-    "2026-10-04",
-    "2027-02-10",
-    "2026-10-10",
-    "2026-12-12",
-    "2027-04-10"
-   ],
-   "cheapestNight": null,
-   "dearestNight": null,
-   "swing": null,
-   "rooms": []
-  },
-  {
    "slug": "otherwander-soho",
    "datesSampled": 5,
    "unlistedOn": [],
@@ -1047,6 +1032,56 @@
        "date": "2027-04-10",
        "dateKey": "spring",
        "rate": 53
+      }
+     ],
+     "vsSmallest": 1,
+     "perHeadVsSmallest": 1
+    }
+   ]
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "datesSampled": 5,
+   "unlistedOn": [],
+   "cheapestNight": 90,
+   "dearestNight": 207,
+   "swing": 2.3,
+   "rooms": [
+    {
+     "room": "Cocoon 2, No Windows",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "min": 90,
+     "max": 207,
+     "nights": 5,
+     "multiplier": 2.3,
+     "perHeadMin": 45,
+     "perHeadMax": 103.5,
+     "rates": [
+      {
+       "date": "2026-10-04",
+       "dateKey": "cheap-sunday",
+       "rate": 90
+      },
+      {
+       "date": "2027-02-10",
+       "dateKey": "midweek",
+       "rate": 90
+      },
+      {
+       "date": "2026-10-10",
+       "dateKey": "saturday",
+       "rate": 207
+      },
+      {
+       "date": "2026-12-12",
+       "dateKey": "december",
+       "rate": 197
+      },
+      {
+       "date": "2027-04-10",
+       "dateKey": "spring",
+       "rate": 135
       }
      ],
      "vsSmallest": 1,

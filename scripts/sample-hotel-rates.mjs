@@ -110,7 +110,11 @@ else {
   JSON.stringify({
     h1: document.querySelector('h1')?.textContent,
     rooms: t.split(/(?=View all photos for )/).map(c => {
-      const name = (c.match(/photos for ([A-Z][A-Za-z0-9 ]{1,28}?)(?= A | An | The | Sleeps|[0-9]+ sq)/) || [])[1];
+      // Commas and hyphens belong in these names - "Cocoon 2, No Windows",
+      // "Cocoon 2 - Twin". Leaving them out of the class made the match fail,
+      // and a chunk with no name was dropped, so Zedwell Park Lane came back
+      // empty on every date and was published as unbookable. It was £90.
+      const name = (c.match(/photos for ([A-Z][A-Za-z0-9 ,\-]{1,34}?)(?= A | An | The | Soundproofing| Sleeps|[0-9]+ sq)/) || [])[1];
       const sleeps = (c.match(/Sleeps (\\d+)/) || [])[1];
       const sqm = (c.match(/([\\d.]+) sq m/) || [])[1];
       const beds = (c.match(/Sleeps \\d+ ([A-Za-z0-9 ,]+?)(?: Reserve| Free Wi| More details)/) || [])[1];

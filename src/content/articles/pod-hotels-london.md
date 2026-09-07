@@ -18,7 +18,7 @@ faq:
   - q: "How much is a capsule hotel in London?"
     a: "A berth at Zedwell Capsule Piccadilly Circus ran £33 to £68 across five dates we sampled, depending on the night. The GreenHouse in Bethnal Green was £42 to £53, and Otherwander Soho £62 to £119. Capsules reprice far less than hotel rooms do, so their advantage is biggest in December and smallest on a quiet Sunday."
   - q: "Are capsule hotels safe?"
-    a: "The capsules lock from both inside and outside, entry to sleeping floors is by keycard, and Zedwell sells padlocks for £8 from a vending machine if you want to lock yours from the outside — a 38mm padlock of your own fits. Lockers for valuables are extra. Zedwell Piccadilly Circus has a 24-hour front desk; Otherwander and The GreenHouse have no front desk at all."
+    a: "Zedwell capsules close with a catch on the inside, so you are locked in while you sleep without needing anything. Locking one from the outside while you are out is a separate matter and Zedwell does not supply it: bring a 38mm padlock or buy one for £8 from a vending machine on site. Entry to the sleeping floors is by keycard and lockers for valuables cost extra. Otherwander uses a smart lock and The GreenHouse an access code. Zedwell Piccadilly Circus has a 24-hour front desk; the other two have none at all."
   - q: "Can you get a women-only capsule in London?"
     a: "Zedwell Capsule Piccadilly Circus has a female-only floor. It costs about £7 a night more than the mixed floors — £40 against £33 on a quiet Sunday, £75 against £68 in December — which makes it the one place in this guide where the women's option carries a premium."
   - q: "Where do you put your luggage in a capsule hotel?"
@@ -45,7 +45,7 @@ London has **four of them**. Not the ten or eleven you will find on most lists �
 
 **The berth itself is properly private.** Zedwell's are natural oak with a **solid sliding shutter**, not a curtain and not frosted glass, so once it is closed nobody can see in. There is a Hypnos mattress and Egyptian cotton sheets, filtered air, a light you can dim, a socket and a shelf. Leicester Place puts the size at **1.2 sq m** — long enough to lie flat, wide enough to roll over, and nothing else.
 
-**It locks from the inside and the outside.** From the outside you need a padlock, which is **£8 from a vending machine** on site, or bring your own — 38mm fits.
+**It locks from the inside with a catch** — no padlock needed, and that is the lock that matters while you are asleep. Locking it from the *outside*, for when you go out for the day, is the part people get caught by at Zedwell: you supply the padlock, either your own **38mm** one or **£8 from a vending machine** on site. Otherwander and The GreenHouse work differently, using a smart lock and an access code respectively.
 
 **Everything else is down the corridor.** Bathrooms are shared floors of individual shower stalls, each with its own changing space, which is a meaningful step up from a hostel's shower block. Zedwell's are rainfall showers with their own toiletries.
 
@@ -64,7 +64,7 @@ London has **four of them**. Not the ten or eleven you will find on most lists �
 | **Lounge / common area** | Yes | Yes | Limited |
 | **Kitchen** | No | No | No |
 | **Luggage storage** | £15 a piece, non-refundable | — | — |
-| **Padlock** | £8 on site, or bring 38mm | Smart lock | Access code |
+| **Locking up** | Catch inside; padlock for outside, £8 on site or bring 38mm | Smart lock | Access code |
 | **Women-only floor** | Piccadilly Circus only | No | No |
 | **Wi-Fi** | 50+ Mbps | Free | 100+ Mbps |
 | **Check-in / out** | 3pm / 10am | 3pm / 10am | 2pm / **11am** |

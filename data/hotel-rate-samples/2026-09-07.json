@@ -808,46 +808,6 @@
    "date": "2027-04-10"
   },
   {
-   "slug": "zedwell-park-lane",
-   "dateKey": "cheap-sunday",
-   "soldOutOrUnlisted": true,
-   "rooms": [],
-   "note": "Room-list section renders but contains zero room cards",
-   "date": "2026-10-04"
-  },
-  {
-   "slug": "zedwell-park-lane",
-   "dateKey": "midweek",
-   "soldOutOrUnlisted": true,
-   "rooms": [],
-   "note": "Room-list section renders but contains zero room cards",
-   "date": "2027-02-10"
-  },
-  {
-   "slug": "zedwell-park-lane",
-   "dateKey": "saturday",
-   "soldOutOrUnlisted": true,
-   "rooms": [],
-   "note": "Room-list section renders but contains zero room cards",
-   "date": "2026-10-10"
-  },
-  {
-   "slug": "zedwell-park-lane",
-   "dateKey": "december",
-   "soldOutOrUnlisted": true,
-   "rooms": [],
-   "note": "Room-list section renders but contains zero room cards",
-   "date": "2026-12-12"
-  },
-  {
-   "slug": "zedwell-park-lane",
-   "dateKey": "spring",
-   "soldOutOrUnlisted": true,
-   "rooms": [],
-   "note": "Room-list section renders but contains zero room cards",
-   "date": "2027-04-10"
-  },
-  {
    "slug": "otherwander-soho",
    "dateKey": "cheap-sunday",
    "rooms": [
@@ -1042,6 +1002,76 @@
     }
    ],
    "date": "2027-04-10"
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "dateKey": "cheap-sunday",
+   "date": "2026-10-04",
+   "rooms": [
+    {
+     "room": "Cocoon 2, No Windows",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "rate": 90
+    }
+   ],
+   "note": "Re-read by hand 2026-09-07 after the comma bug dropped every card."
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "dateKey": "midweek",
+   "date": "2027-02-10",
+   "rooms": [
+    {
+     "room": "Cocoon 2, No Windows",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "rate": 90
+    }
+   ],
+   "note": "Re-read by hand 2026-09-07 after the comma bug dropped every card."
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "dateKey": "saturday",
+   "date": "2026-10-10",
+   "rooms": [
+    {
+     "room": "Cocoon 2, No Windows",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "rate": 207
+    }
+   ],
+   "note": "Re-read by hand 2026-09-07 after the comma bug dropped every card."
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "dateKey": "december",
+   "date": "2026-12-12",
+   "rooms": [
+    {
+     "room": "Cocoon 2, No Windows",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "rate": 197
+    }
+   ],
+   "note": "Re-read by hand 2026-09-07 after the comma bug dropped every card."
+  },
+  {
+   "slug": "zedwell-park-lane",
+   "dateKey": "spring",
+   "date": "2027-04-10",
+   "rooms": [
+    {
+     "room": "Cocoon 2, No Windows",
+     "sleeps": 2,
+     "beds": "1 Double Bed",
+     "rate": 135
+    }
+   ],
+   "note": "Re-read by hand 2026-09-07 after the comma bug dropped every card."
   }
  ]
 }
