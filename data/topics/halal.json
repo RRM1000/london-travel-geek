@@ -2,50 +2,120 @@
   "topic": "halal",
   "article": "src/content/articles/best-halal-restaurants-london.md",
   "headTerm": "Halal Restaurants",
-  "status": "CONFIG ONLY, NOT YET COLLECTED. Created 2026-09-07 from pizza.json. Stop for review before collecting, per the method.",
+  "status": "CONFIG VERIFIED, NOT YET COLLECTED. Created 2026-09-07, sources verified 2026-09-07. data/serp/halal.txt is written and seedable. Read theSourceMixVerdict before collecting - this topic CANNOT meet the method's floor in this environment without help.",
   "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. Read theAccuracyProblem below before anything else - this topic has a failure mode the other 14 do not.",
   "awardBodies": [],
   "theAccuracyProblem": "GETTING HALAL STATUS WRONG IS NOT A RANKING ERROR, IT IS A HARM. A reader who eats somewhere on the strength of this guide is relying on it for a religious dietary requirement. Every other topic on this site fails softly - a mediocre pizza recommendation wastes an evening. This one does not.\n\nTHREE STATUSES THAT SOURCES ROUTINELY CONFLATE:\n  1. HALAL CERTIFIED - a certifying body (HMC, HFA) has audited it. Verifiable.\n  2. HALAL MEAT, UNCERTIFIED - the kitchen sources halal meat and says so, with no third-party audit. Common and legitimate, but it is the venue's own claim.\n  3. HALAL-FRIENDLY / HALAL OPTIONS - some dishes only, or no pork, which is NOT the same thing.\n\nA guide that prints all three as 'halal' is wrong in a way that matters. CARRY THE STATUS PER VENUE, sourced to who says it, and never upgrade a venue's own claim into a certification.\n\nSERVING ALCOHOL is a separate axis again and readers differ on whether it disqualifies a room. Record it; do not rule on it.\n\nVERIFY AT THE VENUE, NOT THE LIST. A listicle saying 'halal' is not evidence. The venue's own site, or a certifier's register, is. Where neither confirms it, say the status is unconfirmed rather than guessing.",
-  "theCountingProblem": "THE AGGREGATOR PROBLEM IS WORSE HERE THAN ANYWHERE. The first page of results is almost entirely SEO content farms - bestcafes.co.uk, vyapargrow.com, thatsup.co.uk - carrying near-identical lists with no evidence anyone visited. These are trap 8 furniture with a venue-shaped surface, and recording them would inflate the source count while contributing nothing. Excluded on sight below.\n\nSECOND: CHAINS. Dishoom and Comptoir Libanais appear on most lists. Both are multi-branch and NOT uniformly halal across branches, which is exactly the kind of per-branch fact a chain row must carry rather than the brand.\n\nTHIRD: CHECK indian.json, turkish.json AND chinese.json FIRST (trap 13). A large share of London's halal restaurants are already recorded under a cuisine topic. Grep every consensus file for a URL before adding it.",
+  "theAccuracyProblemConfirmed": "THE 2026-09-07 SOURCE PASS PROVED THIS SECTION RIGHT, TWICE, IN THE FIRST PAGE OF RESULTS.\n\nyalla-london.com states that Hakkasan, Zuma and Novikov are 'all with halal-certified menus'. That is false. Its sister page softens the same claim to 'Zuma: Japanese fine dining with halal meat options (confirm when booking)' - status 3 sold under a 'Best Halal Restaurants' headline. The domain is excluded below.\n\nhavehalalwilltravel.com writes 'Dishoom is verified halal!' and lists Poppies Fish and Chips - which serves sausages and alcohol - as a Muslim-friendly eatery. Its per-venue 'Halal status:' lines are the most useful thing found anywhere in this pass AND its headline claims are the least reliable. Both facts are true at once.\n\nSo: the status axis cannot be lifted from ANY list in the corpus, including the good ones. It has to be built venue by venue from the venue's own site or a certifier's register. Budget for that separately from source collection.",
+  "theCountingProblem": "THE AGGREGATOR PROBLEM IS WORSE HERE THAN ANYWHERE. The first page of results is almost entirely SEO content farms - bestcafes.co.uk, vyapargrow.com, thatsup.co.uk - carrying near-identical lists with no evidence anyone visited. These are trap 8 furniture with a venue-shaped surface, and recording them would inflate the source count while contributing nothing. Excluded on sight below.\n\nSECOND: CHAINS. Dishoom and Comptoir Libanais appear on most lists. Both are multi-branch and NOT uniformly halal across branches, which is exactly the kind of per-branch fact a chain row must carry rather than the brand.\n\nTHIRD: CHECK indian.json, turkish.json AND chinese.json FIRST (trap 13). A large share of London's halal restaurants are already recorded under a cuisine topic. Grep every consensus file for a URL before adding it. DONE 2026-09-07 - see theOverlapFinding.",
+  "theOverlapFinding": "TRAP 13 CHECKED 2026-09-07. NO URL COLLISION: none of the eight seed URLs in data/serp/halal.txt appears in indian.json, turkish.json, chinese.json, middle-eastern.json or pakistani.json. Safe to seed.\n\nBUT THE VENUE OVERLAP IS THE LARGEST ON THE SITE. 33 of 43 probed venues are already recorded in another corpus:\n  indian.json         Tayyabs, Gymkhana, Brigadiers, Darjeeling Express, Kahani, Jamavar, Benares, Amaya, Chutney Mary, Quilon, Colonel Saab, Fatt Pundit, Kanishka, Patri, Dishoom\n  pakistani.json      Tayyabs, Lahore Kebab House, Needoo Grill, Namak Mandi\n  middle-eastern.json Maroush, Ranoush, Abu Zaad, Mr Falafel, Berenjak, Comptoir Libanais\n  turkish.json        The Mantl, Ishtar, Kibele\n  chinese.json        Etles\n  steak.json          Zelman Meats, Nusr-Et\n  chains/cheap-eats   Roti King, Dishoom\n\nTRAP 7 IS THE LIVE RISK, NOT DUPLICATION. A venue may legitimately sit in both corpora - halal is a certification cutting across cuisines, so Tayyabs belongs to pakistani AND halal. What must NOT happen is printing a venue's indian.json or pakistani.json citation count in the halal guide. evidence.json records `topics`; check topics.includes('halal') before printing any number. The halal corpus must be built from halal sources only and counted on its own.\n\nFALSE POSITIVES in the grep, ignore them: 'Heritage' matches the ordinary word across british/historic-houses/london-with-children/unusual; 'Emirates' matches Emirates Stadium in activities.json.",
   "editorialLists": [
     {
       "name": "Time Out",
       "domain": "timeout.com",
       "tier": "B",
-      "ranked": "unknown",
-      "note": "Confirm a halal guide exists before recording. Mastheads cover this topic thinly, which is the opportunity and also the reason the specialist blogs below matter more here than on any other topic."
+      "ranked": "NUMBERED BUT PROBABLY NOT RANKED - DECIDE BEFORE PRINTING ANY RANK",
+      "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants",
+      "verified": "2026-09-07 - CONFIRMED LIVE. 18 venues, updated 30 July 2026, by Zoya Raza-Sheikh (Contributor), a named London-based journalist.",
+      "note": "THE ONLY MASTHEAD IN THE WHOLE CORPUS. Numbered 1-18, but the intro says 'there's no one way to experience halal food', which reads as a curated selection rather than an order. Time Out's seafood and Sunday lunch lists ARE ranked and this one probably is not - re-read the caption before recording a single rank (SKILL.md counting rules: unordered lists carry no ranks).",
+      "names": ["Cue Point", "Ramo Ramen", "Etles", "Gymkhana", "The Great Chase", "Babel Grill House", "Grounded", "HS&Co", "Coqfighter", "Berenjak", "Normah's", "The Mantl", "Toba", "Le Bab", "Souk", "Rasa Sayang", "Dishoom", "Pizza Pilgrims"]
     },
     {
       "name": "Feed the Lion",
       "domain": "feedthelion.co.uk",
       "tier": "C",
-      "ranked": false,
-      "note": "NOT CONFIRMED TO EXIST - did not appear in the first SERP pass. Verify before recording. If it is live it is the strongest single source for this topic: a long-running London halal specialist that actually visits."
+      "ranked": true,
+      "url": "https://www.feedthelion.co.uk/top-50/",
+      "verified": "2026-09-07 - EXISTS, LIVE, AND IT IS THE REAL THING. The config's guess was right. Posting daily; latest post 5 September 2026 (Mak Halal, Wembley). First-person review voice, scores out of 5, photo galleries, a long back catalogue of London area guides.",
+      "note": "STRONGEST SPECIALIST SOURCE FOR THIS TOPIC, with two handling problems.\n\nTRAP 12: /top-50/ is 'all time Top 50 Reviewed Restaurants' and is UK-WIDE PLUS INTERNATIONAL. It carries Dubai, Kuwait, Manchester, Bradford, Glasgow, Edinburgh, Cordoba and Sydney alongside London. Roughly 33 of 50 are London. SCOPE IT before counting; the page prints the town beside most names so the subset is readable, not guessable.\n\nEXTRACTION WARNING: the first read returned duplicates - Kahani three times, Malay Fellas, Ramo Ramen, Brioche Burger and Ribeye twice each. It is a card grid fed by review posts, so one restaurant surfaces under several reviews. De-duplicate before recording or the counts are wrong.\n\nALTERNATIVE/ADDITIONAL PAGES, all London and all confirmed live: /london-top-steaks/ (halal steak), /halal-sunday-roast-london/, /halal-restaurants-kentish-town-london/, /tooting-road-restaurants-south-london/, /shepherds-bush-restaurants-eating-guide/, /boxhall-city-liverpool-street-halal-london/. Distinct domains not URLs - all of these are ONE source however many are read."
     },
     {
       "name": "Halal Girl About Town",
       "domain": "halalgirlabouttown.com",
       "tier": "C",
       "ranked": false,
-      "note": "NOT CONFIRMED TO EXIST - did not appear in the first SERP pass. Verify before recording."
+      "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/",
+      "verified": "2026-09-07 - EXISTS AND IS LIVE. Content through January 2026 (Noodle Inn Liverpool Street review, 2026 Iftar guide). Original photo galleries on the review posts. Byline is the house handle 'HGAT', not a personal name.",
+      "note": "A genuine London halal specialist with the widest FACET coverage of any source found: halal afternoon tea, halal sandwiches, halal hot pot, halal steak, halal Michelin, Chinatown, date night, restaurants with a view, new openings. That maps almost one-to-one onto the facetAxis below.\n\nCAVEATS. The seeded list is titled '20 Affordable...' and actually carries 38 names - do not trust the headline number. On THAT page the photos are credited to the restaurants rather than shot by the author, so the visit evidence lives in the individual reviews it links to, not in the round-up. It carries an explicit disclaimer that halal status 'may have changed since this post was last edited' - honest, and a reminder that the status axis is not liftable from it."
     },
     {
-      "name": "Yalla London",
-      "domain": "yalla-london.com",
+      "name": "Halal Food Guy",
+      "domain": "halalfoodguy.co.uk",
+      "tier": "C",
+      "ranked": true,
+      "url": "https://halalfoodguy.co.uk/top-100-reviewed-restaurants/",
+      "verified": "2026-09-07 - live, London-first ('a blog DEDICATED to discovering the best in halal food in London and BEYOND'), currently publishing. Byline is the house handle, not a personal name.",
+      "note": "NEW, NOT IN THE PREVIOUS CONFIG. The only source in the corpus with a real SCORING system - an average of Food, Value, Decor and Atmosphere, out of 10, ranging 9.3 down to 7.0.\n\nBUT THE TOP 100 IS STALE: published 19 October 2020 and several of its highest-ranked entries are marked [CLOSED], including its number one (The Frog). Seeding it will drag dead restaurants into the corpus. TWO HONEST OPTIONS, a human should pick: (a) seed it and drop every [CLOSED] row at extraction, keeping the scores, or (b) drop the Top 100 and seed its current London round-ups instead - the halal steak, halal breakfast, alcohol-free and brunch lists are all live and recent. Do not seed both; distinct domains, not URLs."
+    },
+    {
+      "name": "Halal Food Diary",
+      "domain": "halalfooddiary.com",
       "tier": "C",
       "ranked": false,
-      "note": "CHECK CAREFULLY. Has two overlapping pages ('Best Halal Restaurants London 2026 | Fine Dining Guide' and 'Best Halal Restaurants in London 2026 - Complete Guide') which may be trap 16, one page under two URLs. Compare name arrays. Also assess whether it visits or aggregates."
+      "url": "https://halalfooddiary.com/halal-fine-dining/",
+      "verified": "2026-09-07 - NEW, NOT IN THE PREVIOUS CONFIG. Live, 31 London names, restaurant-credited photography, London-scoped apart from one South Croydon entry.",
+      "note": "BORDERLINE-IN, and the reason is worth recording. No per-review byline and the About page says the author is 'now based in Dubai'. It is in because the list is substantial, specific and genuinely London, and because this topic cannot afford to lose a tier-C voice. If a later pass finds it aggregating rather than visiting, drop it - and note here that it was dropped, so the next pass does not re-add it.\n\nIts 31 names are the best fine-dining coverage in the corpus: Amaya, Bayleaf, Benares, Chutney Mary, Farzi Cafe, Gymkhana, Indian Accent, Jamavar, Kahani, Tamarind of Mayfair, Deraliye, Ishtar, Kibele, Sheesh Chigwell, The Mantl, Sexy Fish, Sumosan Twiga, Christopher's, Cut at 45 Park Lane, The Ritz London, The Gilbert Scott, Maroush Gardens, Mnky Hse, Novikov, Onima, Patara, Quilon, The Great Chase, The Meat Co, Yumn Brasserie, Zaika of Kensington. NOTE Novikov appears here too - see theAccuracyProblemConfirmed."
+    },
+    {
+      "name": "Muslim Travel Girl",
+      "domain": "muslimtravelgirl.com",
+      "tier": "C",
+      "ranked": false,
+      "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/",
+      "verified": "2026-09-07 - NEW, NOT IN THE PREVIOUS CONFIG. Live, 22 London venues, first-person visit language ('I love Ting', 'I have been to many over the years') linking out to separate full reviews.",
+      "note": "IN, WITH THE HEAVIEST STATUS CAVEAT IN THE CORPUS. Roughly half its list is hotel dining rooms offering halal ON REQUEST - Claridge's, Alain Ducasse at The Dorchester, The Goring, Locanda Locatelli, La Dame de Pic, Galvin La Chapelle, Seven Park Place, Hide. That is status 3, and it is presented under a 'best halal fine dining' headline. Count the venues; do NOT inherit the status. Its own disclaimer says to confirm halal status before going."
+    },
+    {
+      "name": "DesignMyNight",
+      "domain": "designmynight.com",
+      "tier": "C",
+      "ranked": false,
+      "url": "https://www.designmynight.com/london/best-halal-restaurants-london",
+      "verified": "2026-09-07 - live, 40 venues, last updated 20 August 2026. Already registered in data/sources.json.",
+      "note": "ORGANISED BY CUISINE (Middle Eastern, Indian, British, Steaks and Burgers, Pizza, Other), NOT RANKED - no ranks from this one. Already used on other topics under different URLs (middle-eastern, pakistani); different URL here so no trap 13 collision, but it is the same single opinion as those. Its cuisine grouping is a useful cross-check on the facetAxis below."
+    },
+    {
+      "name": "Secret London",
+      "domain": "secretldn.com",
+      "tier": "C",
+      "ranked": false,
+      "url": "https://secretldn.com/best-halal-restaurants-in-london/",
+      "verified": "2026-09-07 - live, 15 venues, by Samuel Hopkins (Staff Writer), 5 September 2024. Already registered in data/sources.json.",
+      "note": "NUMBERED 1-15 BUT NOT RANKED - a curated selection presented in sequence. No ranks. The oldest source in the corpus at two years; check its venues are still trading before printing them. Already used on turkish and middle-eastern under different URLs."
     }
   ],
+  "assessedAndExcluded": [
+    {
+      "domain": "yalla-london.com",
+      "verdict": "EXCLUDE. The previous config flagged two overlapping pages as possible trap 16. IT IS WORSE THAN TRAP 16 AND IT IS NOT TRAP 16.",
+      "finding": "NOT one page under two URLs - the two flagged pages have DISJOINT name arrays (fine-dining page: Ours, Boisdale of Belgravia, Hawksmoor; Michelin page: Gymkhana, Brigadiers, Darjeeling Express). So the trap-16 test comes back negative.\n\nWhat it actually is: a programmatic-SEO doorway network of AT LEAST NINE overlapping halal pages on one domain - /halal-restaurants-london, /ar/halal-restaurants-london (Arabic mirror), /information/articles/halal-dining-london-guide, /information/articles/best-halal-restaurants-london, /blog/best-halal-restaurants-london-for-muslims, /blog/best-halal-restaurants-central-london-2025, /blog/best-halal-michelin-star-restaurants-london, /blog/best-halal-fine-dining-restaurants-london-vnh5h, /blog/halal-restaurants-london-luxury-guide-befe83d8. Two of those slugs end in Wix auto-generated hashes.\n\nWHY IT FAILS THE BLOG TEST, in order of severity:\n  1. IT IS FACTUALLY DANGEROUS. Claims Hakkasan, Zuma and Novikov are 'all with halal-certified menus'.\n  2. PARENT MONETISATION IS HOTEL BOOKING, not food - Expedia and Vrbo affiliate blocks with a commission disclosure, which is the README's named tell.\n  3. Fabricated-looking round statistics: '700+ halal-certified restaurants', '200+ Lebanese', '300+ South Asian', '150+ Turkish'.\n  4. A related-article headline on the site is a raw keyword string left unedited: \"novikov London\" \"not Currently Listed In The Michelin\".\n  5. Bylines are either the house name or 'Sarah Al-Rashid, Luxury Hotels & Gulf Travel Editor', a masthead title no site this size has.\n  6. The /halal-restaurants-london page has no per-venue prose at all - just neighbourhood tag clusters.\nSO: excluded, not tier C. Do not seed any yalla-london URL."
+    },
+    {
+      "domain": "theworkingline.com",
+      "verdict": "EXCLUDE ITS HALAL PAGE. Page assessed: /best-halal-fine-dining-in-london-posh-fancy/. No visit evidence, photos credited to restaurant social accounts, US spellings ('favorite', 'color', 'organized') on a London topic, keyword-stuffed headings.",
+      "flagForAHuman": "THIS DOMAIN IS ALREADY REGISTERED IN data/sources.json AS TIER C and is already counted in historic-houses.json under /beautiful-historic-houses-stately-homes-london/. This pass did not change sources.json - that is a separate decision. But the halal page fails the README's blog-vs-farm test on three named tells at once, which is worth someone re-checking the historic-houses record against."
+    },
+    {
+      "domain": "thelondonlocal.com",
+      "verdict": "EXCLUDE. /best-halal-fine-dining-london/. No original photography (credits to Facebook, UberEats, OpenTable), US spelling 'color' on a London site, 30+ internal links, keyword-repetitive.",
+      "andNoteThis": "SAME PERSONA AS theworkingline.com. The Working Line's bio is 'Ibtissam El-Azami, ex-makeup artist turned digital nomad' writing London, Rome and Paris. The London Local's bio is 'Sam, freelance writer based in London, previously a fashion makeup artist in Paris and Rome.' Two domains, one writer, near-identical halal fine dining listicles, both in the top four for 'halal fine dining london'. Counting both would have been one opinion voting twice - which is the exact failure the distinct-domains rule exists to stop, and the distinct-domains rule would NOT have caught it."
+    },
+    { "domain": "themuslimtraveler.net", "verdict": "EXCLUDE. Stock photography, template descriptions repeated across venues, heavy affiliate linking, and the founder's own bio says he is 'not a full-time travel blogger' and 'may not become a full-time traveler in the near future either'. No visit evidence." },
+    { "domain": "dinehalal.uk", "verdict": "EXCLUDE. Not editorial - a filterable restaurant-finder database with paid-listing and delivery-affiliate monetisation, no byline, no reviews. Ranked top-five on all three SERPs. Its HMC/HFA certification fields may be useful as a CROSS-CHECK on the status axis, but it is not a source and must not be counted as one." },
+    { "domain": "halaltimes.com", "verdict": "EXCLUDE. Real trade publication (global halal economy news) and it does carry a named writer, Laiba Adnan - but this article has no original photography, no visit dates and no firsthand reporting, and reads as SEO content marketing. Fails on evidence-of-visit, not on legitimacy." },
+    { "domain": "havehalalwilltravel.com", "verdict": "BORDERLINE - LEFT OUT, HUMAN DECISION. NOT a silent exclusion. 403s the fetcher and must be read through the browser, same treatment as londonscout.co.uk. IN FAVOUR: genuine halal travel media, 22 London venues, and it is THE ONLY source found anywhere that prints an explicit per-venue 'Halal status:' line covering alcohol, pork and cross-contamination - which is precisely the axis formatSection needs. AGAINST: Singapore-based writing about London, no visit evidence, photos credited to Instagram accounts, and its status lines are unreliable at the headline ('Dishoom is verified halal!', Poppies Fish and Chips listed as Muslim-friendly while serving sausages and alcohol). Left out of data/serp/halal.txt so nobody adds it by accident. Worth a human call: it may be more useful as a status CROSS-CHECK than as a counted source." }
+  ],
   "excludeOnSight": [
-    "bestcafes.co.uk - '15 Best Halal Restaurants In London (2026 Guide)', SEO farm shape, no evidence of a visit.",
+    "bestcafes.co.uk - '15 Best Halal Restaurants In London (2026 Guide)', SEO farm shape, no evidence of a visit. CONFIRMED still ranking on the 2026-09-07 SERP.",
     "vyapargrow.com - a business-growth site publishing a London restaurant listicle. Not a food publication.",
     "thatsup.co.uk - aggregator.",
-    "Tripadvisor - user-review ranking on a filtered search URL, not an editorial opinion."
+    "Tripadvisor - user-review ranking on a filtered search URL, not an editorial opinion. Ranked twice on the first SERP (.com and .co.uk)."
   ],
+  "theSourceMixVerdict": "ASKED AND ANSWERED 2026-09-07: NO, THIS TOPIC CANNOT MEET THE METHOD'S FLOOR IN THIS ENVIRONMENT. Do not collect and publish as though it can.\n\nTHE FLOOR: no judged award exists for this topic (see knownGaps), so SKILL.md requires THREE independent social voices - tier D video and tier E community.\n\nWHAT THIS PASS CAN DELIVER: 8 sources, 8 distinct domains. ONE tier B (Time Out) and SEVEN tier C. ZERO tier A. ZERO tier D. ZERO tier E. Social voices available: 0 of 3.\n\nEXACTLY WHAT IS MISSING, AND WHAT WOULD FIX IT:\n  1. TIER D (video) - blocked because APIFY_TOKEN is not set. Setting it unblocks this immediately. Halal food is one of the most heavily filmed London subjects on TikTok and YouTube, so this is the cheapest and largest single win available. It alone would take the topic from 0 of 3 to 2 or 3 of 3.\n  2. TIER E (community) - Reddit is blocked to curl AND to the browser pane here. NOT fixable from this environment. Only route is Rob pasting thread URLs by hand, which SKILL.md explicitly provides for.\n  3. TIER A - genuinely does not exist. Nothing to fix. See knownGaps.\n\nAND ONE MORE THING THE AUDIT WILL NOT CATCH: SEVEN OF EIGHT SOURCES ARE TIER C. The audit-source-mix script flags a topic that is over 70% SOCIAL; it does not flag one that is 87% independent blogs. That is a thin, one-shaped corpus and this file should say so even though no script will.\n\nRECOMMENDATION: set APIFY_TOKEN and run the video tier BEFORE collecting, not after. Otherwise ask Rob before proceeding - per ask-dont-publish-gaps, the gap goes to him, never onto the page.",
+  "theRankingProblem": "NO SOURCE IN THIS CORPUS PUBLISHES A CURRENT QUALITY RANKING, and section 1 of the article shape ('The winners - the venues that actually top a ranking') therefore has nothing to lead with.\n\n  Time Out          numbered 1-18, but the caption reads unordered. Probably no ranks.\n  DesignMyNight     grouped by cuisine. No ranks.\n  Secret London     numbered 1-15, curated sequence. No ranks.\n  Halal Girl        no ranks.\n  Halal Food Diary  no ranks.\n  Muslim Travel Girl no ranks.\n  Feed the Lion     RANKED, but all-time-reviewed and UK-plus-international, needing London scoping.\n  Halal Food Guy    SCORED out of 10, the only real scoring in the corpus - but from October 2020 and its top entries are closed.\n\nSo the two ordered sources are one stale and one out-of-scope. SKILL.md forbids sorting section 1 by citation count as a substitute. This needs a structural decision from a human BEFORE the article is drafted: either lead on Feed the Lion's London-scoped subset and say what it is, or drop section 1 and open on widest agreement. Do not invent an order.",
   "facetAxis": {
     "field": "cuisine",
-    "note": "Halal is not a cuisine, it is a certification that cuts across them - so the axis has to be the food, or the guide is one undifferentiated list of 40 restaurants.",
+    "note": "Halal is not a cuisine, it is a certification that cuts across them - so the axis has to be the food, or the guide is one undifferentiated list of 40 restaurants. VALIDATED 2026-09-07: DesignMyNight independently groups its 40 by Middle Eastern / Indian / British / Steaks and Burgers / Pizza / Other, and Halal Girl About Town's facet guides map onto the same split. The axis below is right.",
     "values": [
       { "key": "levantine", "label": "Levantine and Lebanese", "describeAs": "mezze, charcoal grills and flatbread, the Edgware Road tradition" },
       { "key": "turkish", "label": "Turkish", "describeAs": "ocakbasi grilling over open coals, the meat cooked in front of you" },
@@ -53,22 +123,31 @@
       { "key": "gulf", "label": "Gulf and Arabian", "describeAs": "Bahraini, Emirati and Saudi cooking, rice and slow-cooked lamb" },
       { "key": "modern", "label": "Modern and fine dining", "describeAs": "tasting menus and dining rooms that happen to be fully halal" },
       { "key": "fast-casual", "label": "Grills and fast casual", "describeAs": "the chicken shops, burger counters and steakhouses" }
-    ]
+    ],
+    "considerAdding": "EAST AND SOUTHEAST ASIAN keeps appearing across sources and has no home in the six values above: Etles and Urumchi (Uyghur), Ramo Ramen, Toba, Rasa Sayang, Normah's, Putera Puteri, Tongdak, JWD Lamian, Papa Noodle, Chotto Matte, Ginza St James. Time Out leads its whole guide with Cue Point and Ramo Ramen. This is the part of halal London the mastheads have only just noticed and it is the most likely place for the guide to say something no competitor does."
   },
   "formatSection": {
     "title": "Certified, self-declared, or halal options only",
-    "note": "THE MOST IMPORTANT SECTION IN THIS GUIDE and no competitor prints it. Split every venue by which of the three statuses it holds, with the source for each. A reader who needs certification and a reader who is content with a kitchen's own word are making different decisions."
+    "note": "THE MOST IMPORTANT SECTION IN THIS GUIDE and no competitor prints it. Split every venue by which of the three statuses it holds, with the source for each. A reader who needs certification and a reader who is content with a kitchen's own word are making different decisions.",
+    "howToBuildItAfterThisPass": "CONFIRMED 2026-09-07 THAT NO SOURCE IN THE CORPUS CAN SUPPLY THIS. Only havehalalwilltravel.com prints a per-venue status line at all, it is excluded, and its lines are wrong at the headline anyway. Every other source either says nothing or says 'halal' flat. So this section is a separate research job against venue sites and the HMC and HFA registers, venue by venue, after collection. Budget for it. Where neither confirms, print 'unconfirmed' - do not guess, and do not let a listicle's word become a certification."
   },
   "knownGaps": [
-    "NO JUDGED AWARD EXISTS for halal restaurants in Britain that this pass has confirmed. Source-mix floor is therefore THREE independent social voices. Check whether the British Halal Food Awards or similar is real and judged before recording it - an unjudged industry award is not tier A.",
-    "Tier E (community) CANNOT be collected here - Reddit is blocked. This is the worst topic on the site to lose it: r/london and the halal food communities are where per-branch certification is actually discussed.",
-    "Tier D (video) needs APIFY_TOKEN, NOT set. Halal food is very heavily filmed on TikTok and YouTube, and losing that tier removes the sources closest to the community the guide is for."
+    "NO JUDGED BRITISH HALAL RESTAURANT AWARD EXISTS. RESOLVED 2026-09-07, and the answer is no. Three candidates checked: (1) 'British Halal Food Awards' - the name the previous config guessed at - HAS NO WEBSITE. Its entire web presence is a Facebook page, so there is no published, dated, judged results page. Not tier A. (2) ISLAM CHANNEL AWARDS is genuinely judged - 20 named judges chaired by Sir Iqbal Sacranie OBE, two judges per entry, a five-finalist shortlist, final interviews in April - but its food category is 'Food & Beverage BUSINESS of the Year', a single UK-wide business prize, and it publishes NO restaurant names at all. Not a restaurant ranking, not tier A for this topic. (3) BRITISH MUSLIM AWARDS (Oceanic Awards, 13th edition, May 2026, Wolverhampton) is a community-achievement award for people and organisations, publicly nominated, UK-wide. Not tier A. CONCLUSION: tier A is empty and cannot be filled. Do not record any of these three as an award.",
+    "TIER E (community) CANNOT be collected here - Reddit is blocked to curl and to the browser pane. This is the worst topic on the site to lose it: r/london and the halal food communities are where per-branch certification is actually discussed. Only fix is Rob pasting thread URLs by hand.",
+    "TIER D (video) needs APIFY_TOKEN, NOT set. Halal food is very heavily filmed on TikTok and YouTube, and losing that tier removes the sources closest to the community the guide is for. THIS IS THE ONE BLOCKER THAT IS TRIVIALLY FIXABLE and it is worth fixing before collection rather than after.",
+    "SEVEN OF EIGHT SOURCES ARE TIER C. One masthead, no awards, no social. No script checks for a corpus this one-shaped.",
+    "havehalalwilltravel.com 403s the fetcher; readable in the browser. Left undecided on purpose - see assessedAndExcluded.",
+    "Per SKILL.md and the no-weakness-lines rule: NONE of the above may be printed in the article. It lives here. If a gap is big enough that the guide would mislead without it, ask Rob or collect more - never print it."
   ],
   "openVenueQuestions": [
-    "Dishoom - multi-branch, and halal status is NOT uniform across branches. Must be carried per branch, never as a brand-level claim.",
-    "Comptoir Libanais - same shape, multi-branch chain.",
+    "Dishoom - multi-branch, and halal status is NOT uniform across branches. Must be carried per branch, never as a brand-level claim. Time Out names it unqualified; DesignMyNight names 'Dishoom Shoreditch'; havehalalwilltravel names 'Dishoom, Covent Garden' and calls it 'verified halal' while also noting pork is served. THREE SOURCES, THREE DIFFERENT CLAIMS. Human decision required before it appears anywhere.",
+    "Comptoir Libanais - same shape, multi-branch chain. Already recorded in middle-eastern.json.",
     "Villa Mamas - described in one source as 'fully halal'. Confirm against the venue's own site before printing the status.",
     "Aba-Ra! (Brick Lane, Georgian) - confirm halal status; Georgian cooking is not automatically halal and khachapuri is a cheese bread, so the source may be listing it for the neighbourhood rather than the certification.",
-    "Marmaris Kebab, Edgware Road generally - decide whether the guide covers the strip as an area entry or the individual venues."
+    "Marmaris Kebab, Edgware Road generally - decide whether the guide covers the strip as an area entry or the individual venues.",
+    "NEW 2026-09-07 - THE HOTEL DINING ROOMS. Muslim Travel Girl and Halal Food Diary put Claridge's, Alain Ducasse at The Dorchester, The Ritz London, The Goring, Locanda Locatelli, La Dame de Pic, Galvin La Chapelle, Seven Park Place, Hide and Cut at 45 Park Lane in 'halal fine dining' lists. These serve halal ON REQUEST with notice; they are not halal restaurants. Whether they belong in this guide AT ALL is a human decision, and it is the single biggest judgement call in the topic. Note trap 17 also applies - a source may name the hotel or the dining room ('The Ritz' vs 'The Ritz London'; 'The Dorchester' vs 'Alain Ducasse at The Dorchester'; 'The Rubens' appears three times in DesignMyNight as The Curry Room, The English Grill and Royal Afternoon Tea).",
+    "NEW 2026-09-07 - ZUMA, NOVIKOV, HAKKASAN, SEXY FISH, SUMOSAN TWIGA, CHOTTO MATTE. Named as halal by yalla-london (excluded) and Novikov also by Halal Food Diary (included). Zuma and Novikov serve pork and alcohol. DO NOT let these through on a source's say-so. Verify at the venue or leave them out.",
+    "NEW 2026-09-07 - FEED THE LION TOP 50 SCOPING. Roughly 17 of 50 are outside London (Dubai, Kuwait, Manchester, Bradford, Glasgow, Edinburgh, Cordoba, Sydney, Peak District). Trap 12. The page prints the town, so this is readable rather than guessable - but somebody has to do it.",
+    "NEW 2026-09-07 - HALAL FOOD GUY TOP 100 IS FROM 2020 and its top-ranked entries are closed. Decide: keep with [CLOSED] rows dropped, or swap for the site's current London round-ups. Do not seed both."
   ]
 }
