@@ -1,0 +1,74 @@
+{
+  "topic": "halal",
+  "article": "src/content/articles/best-halal-restaurants-london.md",
+  "headTerm": "Halal Restaurants",
+  "status": "CONFIG ONLY, NOT YET COLLECTED. Created 2026-09-07 from pizza.json. Stop for review before collecting, per the method.",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. Read theAccuracyProblem below before anything else - this topic has a failure mode the other 14 do not.",
+  "awardBodies": [],
+  "theAccuracyProblem": "GETTING HALAL STATUS WRONG IS NOT A RANKING ERROR, IT IS A HARM. A reader who eats somewhere on the strength of this guide is relying on it for a religious dietary requirement. Every other topic on this site fails softly - a mediocre pizza recommendation wastes an evening. This one does not.\n\nTHREE STATUSES THAT SOURCES ROUTINELY CONFLATE:\n  1. HALAL CERTIFIED - a certifying body (HMC, HFA) has audited it. Verifiable.\n  2. HALAL MEAT, UNCERTIFIED - the kitchen sources halal meat and says so, with no third-party audit. Common and legitimate, but it is the venue's own claim.\n  3. HALAL-FRIENDLY / HALAL OPTIONS - some dishes only, or no pork, which is NOT the same thing.\n\nA guide that prints all three as 'halal' is wrong in a way that matters. CARRY THE STATUS PER VENUE, sourced to who says it, and never upgrade a venue's own claim into a certification.\n\nSERVING ALCOHOL is a separate axis again and readers differ on whether it disqualifies a room. Record it; do not rule on it.\n\nVERIFY AT THE VENUE, NOT THE LIST. A listicle saying 'halal' is not evidence. The venue's own site, or a certifier's register, is. Where neither confirms it, say the status is unconfirmed rather than guessing.",
+  "theCountingProblem": "THE AGGREGATOR PROBLEM IS WORSE HERE THAN ANYWHERE. The first page of results is almost entirely SEO content farms - bestcafes.co.uk, vyapargrow.com, thatsup.co.uk - carrying near-identical lists with no evidence anyone visited. These are trap 8 furniture with a venue-shaped surface, and recording them would inflate the source count while contributing nothing. Excluded on sight below.\n\nSECOND: CHAINS. Dishoom and Comptoir Libanais appear on most lists. Both are multi-branch and NOT uniformly halal across branches, which is exactly the kind of per-branch fact a chain row must carry rather than the brand.\n\nTHIRD: CHECK indian.json, turkish.json AND chinese.json FIRST (trap 13). A large share of London's halal restaurants are already recorded under a cuisine topic. Grep every consensus file for a URL before adding it.",
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "tier": "B",
+      "ranked": "unknown",
+      "note": "Confirm a halal guide exists before recording. Mastheads cover this topic thinly, which is the opportunity and also the reason the specialist blogs below matter more here than on any other topic."
+    },
+    {
+      "name": "Feed the Lion",
+      "domain": "feedthelion.co.uk",
+      "tier": "C",
+      "ranked": false,
+      "note": "NOT CONFIRMED TO EXIST - did not appear in the first SERP pass. Verify before recording. If it is live it is the strongest single source for this topic: a long-running London halal specialist that actually visits."
+    },
+    {
+      "name": "Halal Girl About Town",
+      "domain": "halalgirlabouttown.com",
+      "tier": "C",
+      "ranked": false,
+      "note": "NOT CONFIRMED TO EXIST - did not appear in the first SERP pass. Verify before recording."
+    },
+    {
+      "name": "Yalla London",
+      "domain": "yalla-london.com",
+      "tier": "C",
+      "ranked": false,
+      "note": "CHECK CAREFULLY. Has two overlapping pages ('Best Halal Restaurants London 2026 | Fine Dining Guide' and 'Best Halal Restaurants in London 2026 - Complete Guide') which may be trap 16, one page under two URLs. Compare name arrays. Also assess whether it visits or aggregates."
+    }
+  ],
+  "excludeOnSight": [
+    "bestcafes.co.uk - '15 Best Halal Restaurants In London (2026 Guide)', SEO farm shape, no evidence of a visit.",
+    "vyapargrow.com - a business-growth site publishing a London restaurant listicle. Not a food publication.",
+    "thatsup.co.uk - aggregator.",
+    "Tripadvisor - user-review ranking on a filtered search URL, not an editorial opinion."
+  ],
+  "facetAxis": {
+    "field": "cuisine",
+    "note": "Halal is not a cuisine, it is a certification that cuts across them - so the axis has to be the food, or the guide is one undifferentiated list of 40 restaurants.",
+    "values": [
+      { "key": "levantine", "label": "Levantine and Lebanese", "describeAs": "mezze, charcoal grills and flatbread, the Edgware Road tradition" },
+      { "key": "turkish", "label": "Turkish", "describeAs": "ocakbasi grilling over open coals, the meat cooked in front of you" },
+      { "key": "south-asian", "label": "Indian, Pakistani and Bangladeshi", "describeAs": "curry houses and the newer dining rooms doing regional cooking" },
+      { "key": "gulf", "label": "Gulf and Arabian", "describeAs": "Bahraini, Emirati and Saudi cooking, rice and slow-cooked lamb" },
+      { "key": "modern", "label": "Modern and fine dining", "describeAs": "tasting menus and dining rooms that happen to be fully halal" },
+      { "key": "fast-casual", "label": "Grills and fast casual", "describeAs": "the chicken shops, burger counters and steakhouses" }
+    ]
+  },
+  "formatSection": {
+    "title": "Certified, self-declared, or halal options only",
+    "note": "THE MOST IMPORTANT SECTION IN THIS GUIDE and no competitor prints it. Split every venue by which of the three statuses it holds, with the source for each. A reader who needs certification and a reader who is content with a kitchen's own word are making different decisions."
+  },
+  "knownGaps": [
+    "NO JUDGED AWARD EXISTS for halal restaurants in Britain that this pass has confirmed. Source-mix floor is therefore THREE independent social voices. Check whether the British Halal Food Awards or similar is real and judged before recording it - an unjudged industry award is not tier A.",
+    "Tier E (community) CANNOT be collected here - Reddit is blocked. This is the worst topic on the site to lose it: r/london and the halal food communities are where per-branch certification is actually discussed.",
+    "Tier D (video) needs APIFY_TOKEN, NOT set. Halal food is very heavily filmed on TikTok and YouTube, and losing that tier removes the sources closest to the community the guide is for."
+  ],
+  "openVenueQuestions": [
+    "Dishoom - multi-branch, and halal status is NOT uniform across branches. Must be carried per branch, never as a brand-level claim.",
+    "Comptoir Libanais - same shape, multi-branch chain.",
+    "Villa Mamas - described in one source as 'fully halal'. Confirm against the venue's own site before printing the status.",
+    "Aba-Ra! (Brick Lane, Georgian) - confirm halal status; Georgian cooking is not automatically halal and khachapuri is a cheese bread, so the source may be listing it for the neighbourhood rather than the certification.",
+    "Marmaris Kebab, Edgware Road generally - decide whether the guide covers the strip as an area entry or the individual venues."
+  ]
+}

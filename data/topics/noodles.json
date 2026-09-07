@@ -1,0 +1,69 @@
+{
+  "topic": "noodles",
+  "article": "src/content/articles/best-noodles-london.md",
+  "headTerm": "Noodles",
+  "status": "CONFIG ONLY, NOT YET COLLECTED. Created 2026-09-07 from pizza.json. Stop for review before collecting, per the method.",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. The scope question below is the one to settle before any collection happens, because it decides whether this is one topic or four.",
+  "awardBodies": [],
+  "theScopeQuestion": "IS THIS ONE GUIDE OR FOUR? Ramen, pho, hand-pulled Chinese wheat noodles and Thai noodles share a word and almost nothing else - different cuisines, different rooms, different readers. The method says one page sectioned, and never split by style, because pages targeting the same intent compete. But 'best noodles in London' may not BE one intent.\n\nThe evidence to settle it: The Infatuation publishes 'The Best Noodle Soups In London' AND a separate 'Where To Eat The Best Ramen In London'. It treats ramen as its own topic and noodle soup as another - and neither is 'noodles'. If the serious sources do not write the broad guide, that is a signal the broad guide has no audience.\n\nRECOMMENDATION: collect against the broad term, then look at whether the sources actually cluster. If every source is really a ramen list, write the ramen guide instead and drop this config.",
+  "theCountingProblem": "A RESTAURANT THAT SERVES NOODLES IS NOT A NOODLE RESTAURANT. Almost every Chinese, Japanese, Vietnamese, Thai and Malaysian restaurant in London serves a noodle dish, so a loose extractor will pull in half the Chinese and Japanese corpora. The test is whether the venue is NAMED for its noodles or the source names a specific noodle dish as the reason to go.\n\nSECOND: CHECK THE OTHER CORPORA FIRST (trap 13). chinese.json exists and there is a dim sum guide. A Chinatown noodle bar may already be recorded under chinese with a different URL. Grep before adding.",
+  "editorialLists": [
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "tier": "B",
+      "ranked": "unknown",
+      "note": "TWO relevant guides on one domain: 'Best Noodle Soups In London' (7 Jan 2026) and 'Where To Eat The Best Ramen In London'. ONE DOMAIN IS ONE SOURCE - do not count them as two opinions. Merge the name arrays, keep both URLs in the quote."
+    },
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "tier": "B",
+      "ranked": "unknown",
+      "note": "Has a 'chefs perfecting the art of noodles' feature rather than a ranked list. A feature naming chefs is not the same as a ranked guide - read it before assuming it carries venue names in list form."
+    },
+    {
+      "name": "London the Inside",
+      "domain": "londontheinside.com",
+      "tier": "C",
+      "ranked": false
+    },
+    {
+      "name": "LondonScout",
+      "domain": "londonscout.co.uk",
+      "tier": "C",
+      "ranked": false,
+      "note": "CHECK BEFORE RECORDING. SEO-shaped title ('Top Spots for Ramen & Udon (2026)') is the shape of an aggregator rather than a visit. If the page has no evidence of eating there, it is furniture - trap 8."
+    }
+  ],
+  "excludeOnSight": [
+    "Tripadvisor - ranked by user reviews, not an editorial opinion, and its London noodle page is a filtered search result. Trap: never cite a search-results page.",
+    "trip.com / Trip Moments - user-generated travel posts, same problem."
+  ],
+  "facetAxis": {
+    "field": "noodleType",
+    "note": "The axis carries the whole guide. A reader wanting tonkotsu ramen and one wanting Chongqing hand-pulled are not browsing the same list.",
+    "values": [
+      { "key": "ramen", "label": "Ramen", "describeAs": "Japanese wheat noodles in a long-cooked broth, usually pork or chicken" },
+      { "key": "hand-pulled", "label": "Hand-pulled Chinese", "describeAs": "wheat dough stretched and folded to order, chewy and uneven in a way a machine cannot manage" },
+      { "key": "pho", "label": "Pho and Vietnamese", "describeAs": "flat rice noodles in a clear spiced beef or chicken broth, herbs added at the table" },
+      { "key": "laksa", "label": "Laksa and Malaysian", "describeAs": "coconut and chilli broth, thick enough to coat the noodle" },
+      { "key": "thai", "label": "Thai", "describeAs": "wok-fried or boat-noodle style, sour and hot rather than rich" },
+      { "key": "udon-soba", "label": "Udon and soba", "describeAs": "thick wheat or buckwheat noodles, served hot in broth or cold with dipping sauce" }
+    ]
+  },
+  "formatSection": {
+    "title": "Counters and standing rooms",
+    "note": "A large share of the best noodles in London are eaten standing up or at a twelve-seat counter with a queue behind you. That decides a visit more than price does, and no competitor separates it."
+  },
+  "knownGaps": [
+    "NO JUDGED AWARD EXISTS for noodles in Britain. Source-mix floor is therefore THREE independent social voices.",
+    "Tier E (community) CANNOT be collected here - Reddit is blocked to the search agent and the browser.",
+    "Tier D (video) needs APIFY_TOKEN, NOT set in this environment. Noodles is a heavily filmed topic and the video tier would carry names no masthead has - losing it is a real gap, not a formality."
+  ],
+  "openVenueQuestions": [
+    "Scope: settle theScopeQuestion above before collecting. If the answer is 'four guides', this config should be replaced by a ramen config and the rest dropped.",
+    "Chang's Noodle (Bloomsbury) and Noodle & Beer (Spitalfields) both seen in one Infatuation guide - confirm they are separate businesses and not branches.",
+    "Birria ramen at a taco place (Kensal Rise) was named in a noodle context. Decide whether a Mexican-Japanese crossover belongs in a noodle guide or is a novelty that inflates the count."
+  ]
+}

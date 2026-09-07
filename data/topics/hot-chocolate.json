@@ -1,0 +1,76 @@
+{
+  "topic": "hot-chocolate",
+  "article": "src/content/articles/best-hot-chocolate-london.md",
+  "headTerm": "Hot Chocolate",
+  "status": "CONFIG ONLY, NOT YET COLLECTED. Created 2026-09-07 from pizza.json. Stop for review before collecting, per the method.",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. Picked because the site's narrow food guides rank and its broad ones do not - best-pizza sits at position 8.1 and best-dim-sum at 19.0, while best-coffee is at 58.6 and best-cocktail-bars at 52.7. Hot chocolate is narrow, seasonal, and nobody serious owns it.",
+  "awardBodies": [],
+  "theCountingProblem": "THREE DIFFERENT THINGS ARE CALLED HOT CHOCOLATE AND SOURCES DO NOT SEPARATE THEM. A thick Italian cioccolata calda you eat with a spoon, a classic drinking chocolate, and a novelty topped with a blowtorched marshmallow are not the same product, and a list that ranks them together is ranking three categories at once. Expect to carry the distinction in the facet axis rather than trying to resolve it in the count.\n\nSECOND PROBLEM: THE VENUE TYPE. Sources name chocolate SHOPS (Dark Sugars, Said), CAFES that happen to do a good one, and HOTELS serving it as part of afternoon tea. A hotel named for its afternoon tea is trap 17 - the reader books under the hotel, not the tea room.\n\nTHIRD: SEASONALITY. Some of the best-known are winter pop-ups. A source from last December may be naming something that no longer exists. Check trading status at collection, not at write-up.",
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "tier": "B",
+      "ranked": "unknown",
+      "note": "Has at least two hot chocolate pages - a 'your favourite hot chocolate in London' blog and a 'ten indulgent hot chocolates' listicle. CHECK FOR TRAP 16: compare the name arrays before recording both, they may be one page recorded twice."
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "tier": "B",
+      "ranked": "unknown",
+      "note": "Reviews rather than lists, which is worth more per name. Confirm a hot chocolate guide exists before recording - it may only be covered inside dessert or cafe guides."
+    },
+    {
+      "name": "Jennifer Earle",
+      "domain": "jenniferearle.substack.com",
+      "tier": "C",
+      "ranked": false,
+      "note": "THE SPECIALIST FOR THIS TOPIC. Runs Chocolate Ecstasy Tours and writes on London chocolate shops specifically. A single-subject specialist is exactly what tier C is for, and she will name places no masthead reaches."
+    },
+    {
+      "name": "Secret London",
+      "domain": "secretldn.com",
+      "tier": "C",
+      "ranked": false
+    },
+    {
+      "name": "Square Meal",
+      "domain": "squaremeal.co.uk",
+      "tier": "B",
+      "ranked": false
+    }
+  ],
+  "candidateVenuesSeen": [
+    "Dark Sugars (Brick Lane) - grates chocolate over frothed milk, shavings on top",
+    "Said dal 1923 (Soho) - Roman, thick Italian style",
+    "Paul A Young (several) - chilli hot chocolate is the named one",
+    "Chin Chin Dessert Club - blowtorched marshmallow orb, the novelty end",
+    "The Urban Chocolatier (Whitechapel) - 30+ flavours, choose the cocoa percentage"
+  ],
+  "facetAxis": {
+    "field": "style",
+    "note": "This axis IS the counting problem made navigable. A reader who wants a thick Italian one and a reader who wants a novelty are not looking for the same drink.",
+    "values": [
+      { "key": "italian-thick", "label": "Thick Italian", "describeAs": "closer to melted chocolate than a drink, thick enough to stand a spoon in" },
+      { "key": "classic", "label": "Classic drinking chocolate", "describeAs": "real chocolate melted into hot milk, pourable, no toppings" },
+      { "key": "single-origin", "label": "Single origin and dark", "describeAs": "made from one estate's beans, bitter enough to taste the country it came from" },
+      { "key": "spiced", "label": "Spiced and flavoured", "describeAs": "chilli, cardamom, orange or salted caramel worked into the chocolate" },
+      { "key": "topped", "label": "Topped and novelty", "describeAs": "the ones built for a photograph - torched marshmallow, cream, shavings" }
+    ]
+  },
+  "formatSection": {
+    "title": "Chocolate shops that also serve it",
+    "note": "A shop selling bars where you can drink one is a different visit from a cafe - usually standing room only, often no seating at all. Worth its own section because it decides whether you can sit down."
+  },
+  "knownGaps": [
+    "NO JUDGED AWARD EXISTS for hot chocolate in Britain. The Academy of Chocolate judges BARS, not shops or drinks, so it is not an award body for this topic and must not be recorded as one. That means the source-mix floor is THREE independent social voices, not two - audit-source-mix.mjs is stricter on award-less topics.",
+    "Tier E (community) CANNOT be collected in this environment - Reddit is blocked to both the search agent and the browser. Record threads only if the user supplies them.",
+    "Tier D (video) needs APIFY_TOKEN, which is NOT set in this environment. Without it the YouTube and TikTok search actors cannot run, so the three social voices the floor requires have no collection route."
+  ],
+  "openVenueQuestions": [
+    "Paul A Young has multiple branches - decide at collection whether sources name the brand or a specific shop, and carry branches as rows rather than separate venues.",
+    "Chin Chin Dessert Club vs Chin Chin Labs - check whether sources are naming one business or two.",
+    "Winter pop-ups: confirm trading status before recording. A December source may name something seasonal that is closed when the guide publishes."
+  ]
+}
