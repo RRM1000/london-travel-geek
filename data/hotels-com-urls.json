@@ -96,5 +96,101 @@
  "zedwell-piccadilly-capsule": {
   "url": "https://uk.hotels.com/ho3624527296/zedwell-capsule-piccadilly/",
   "note": "The CAPSULE listing - shared dormitory, shared bathrooms. Deliberately not the same as the rooms above."
+ },
+ "clink78": {
+  "url": "https://uk.hotels.com/ho461849/clink78-hostel-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Clink78 Hostel, London, England, United Kingdom\"."
+ },
+ "generator-london": {
+  "url": "https://uk.hotels.com/ho259199/generator-london-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Generator London, London, England, United Kingdom\"."
+ },
+ "ibis-london-wembley": {
+  "url": "https://uk.hotels.com/ho206152/ibis-london-wembley-wembley-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"ibis London Wembley, Wembley, England, United Kingdom\"."
+ },
+ "wombats-city-hostel-london": {
+  "url": "https://uk.hotels.com/ho494337952/wombat-s-city-hostel-london-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Wombat's City Hostel London, London, England, United Kingdom\"."
+ },
+ "aloft-london-excel": {
+  "url": "https://uk.hotels.com/ho375509/aloft-london-excel-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Aloft by Marriott London Excel, London, England, United Kingdom\"."
+ },
+ "citizenm-bankside": {
+  "url": "https://uk.hotels.com/ho462638/citizenm-london-bankside-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"citizenM London Bankside, London, England, United Kingdom\"."
+ },
+ "hilton-london-wembley": {
+  "url": "https://uk.hotels.com/ho403798/hilton-london-wembley-wembley-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hilton London Wembley, Wembley, England, United Kingdom\"."
+ },
+ "la-gaffe": {
+  "url": "https://uk.hotels.com/ho365724/la-gaffe-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"La Gaffe, London, England, United Kingdom\"."
+ },
+ "novotel-london-wembley": {
+  "url": "https://uk.hotels.com/ho450528/novotel-london-wembley-wembley-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Novotel London Wembley, Wembley, England, United Kingdom\"."
+ },
+ "nox-belsize-park": {
+  "url": "https://uk.hotels.com/ho445572/nox-hotels-belsize-park-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"NOX HOTELS - Belsize Park, London, England, United Kingdom\"."
+ },
+ "strand-palace": {
+  "url": "https://uk.hotels.com/ho114409/the-strand-palace-hotel-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Strand Palace Hotel, London, England, United Kingdom\"."
+ },
+ "georgian-house-wizard-chambers": {
+  "url": "https://uk.hotels.com/ho286134/georgian-house-hotel-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Georgian House Hotel, London, England, United Kingdom\"."
+ },
+ "the-grafton-arms": {
+  "url": "https://uk.hotels.com/ho732158912/the-grafton-arms-pub-rooms-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"The Grafton Arms Pub & Rooms, London, England, United Kingdom\"."
+ },
+ "the-pilgrm": {
+  "url": "https://uk.hotels.com/ho2233812704/the-pilgrm-hotel-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"The Pilgrm Hotel, London, England, United Kingdom\"."
+ },
+ "bermondsey-square-hotel": {
+  "url": "https://uk.hotels.com/ho312278/the-bermondsey-square-hotel-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"The Bermondsey Square Hotel, London, England, United Kingdom\"."
+ },
+ "bingham-riverhouse": {
+  "url": "https://uk.hotels.com/ho360271/bingham-riverhouse-richmond-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Bingham Riverhouse, Richmond, England, United Kingdom\"."
+ },
+ "doubletree-greenwich": {
+  "url": "https://uk.hotels.com/ho415605/doubletree-by-hilton-london-greenwich-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"DoubleTree by Hilton London - Greenwich, London, England, United Kingdom\"."
+ },
+ "hilton-london-angel-islington": {
+  "url": "https://uk.hotels.com/ho191798/hilton-london-angel-islington-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hilton London Angel Islington, London, England, United Kingdom\"."
+ },
+ "hilton-london-paddington": {
+  "url": "https://uk.hotels.com/ho189771/hilton-london-paddington-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hilton London Paddington, London, England, United Kingdom\"."
+ },
+ "hyatt-regency-stratford": {
+  "url": "https://uk.hotels.com/ho398896/holiday-inn-london-stratford-city-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hyatt Regency London Stratford, London, England, United Kingdom\"."
+ },
+ "locke-at-broken-wharf": {
+  "url": "https://uk.hotels.com/ho1415376800/locke-at-broken-wharf-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Locke At Broken Wharf, London, England, United Kingdom\"."
+ },
+ "london-marriott-canary-wharf": {
+  "url": "https://uk.hotels.com/ho219357/london-marriott-hotel-canary-wharf-london-united-kingdom/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"London Marriott Hotel Canary Wharf, London, England, United Kingdom\"."
+ },
+ "z-hotel-covent-garden": {
+  "url": "https://uk.hotels.com/ho3609810144/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"The Z Hotel Covent Garden, London, England, United Kingdom\"."
+ },
+ "hyatt-regency-london-olympia": {
+  "url": "https://uk.hotels.com/ho4020150464/",
+  "note": "Resolved 2026-09-07 via Hotels.com typeahead -> /h<gaiaId>.Hotel-Information redirect. Matched \"Hyatt Regency London Olympia, London, England, United Kingdom\"."
  }
 }
