@@ -150,6 +150,11 @@ Walk it as a link between the two parks rather than as a destination.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-kensington-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Kensington Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+## Go deeper
+
+- **[London's historic houses](/articles/historic-houses-london/)** — Kensington Palace and Leighton House, the second of which almost nobody visits.
+- **[The best afternoon tea in London](/articles/best-afternoon-tea-london/)** — the Kensington hotels do several of the better ones, at less than Mayfair prices.
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |

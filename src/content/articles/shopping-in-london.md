@@ -114,6 +114,8 @@ This is where Londoners actually shop, and where the guides mostly do not send y
 
 ---
 
+> 💷 **Visitors often ask about VAT refunds.** The rules changed after Brexit and the answer surprises people — our [tax-free shopping guide](/articles/tax-free-shopping-london/) explains what you can and cannot reclaim, and where the exceptions still apply.
+
 ## The department stores
 
 | Store | What it is really for | Price feel |

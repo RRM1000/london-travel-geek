@@ -46,10 +46,10 @@ area:
       slug: "paddington-area-guide"
       minutes: 20
       note: "West for Little Venice and the canal, or the Heathrow trains."
-    - name: "Soho"
-      slug: "soho-area-guide"
-      minutes: 20
-      note: "East along Oxford Street, then south for Chinatown and dinner."
+    - name: "Fitzrovia"
+      slug: "fitzrovia-area-guide"
+      minutes: 12
+      note: "East across Great Portland Street for Charlotte Street and the BT Tower."
 faq:
   - q: "Is the Wallace Collection free?"
     a: "Yes, entirely free, including the permanent collection. It sits in Hertford House on Manchester Square, a townhouse kept much as its owners left it. It holds Frans Hals's *The Laughing Cavalier*, work by Titian, Rembrandt and Velázquez, and one of the finest armour collections in Europe. It is rarely busy, which is the remarkable part."

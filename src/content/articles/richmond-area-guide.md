@@ -158,6 +158,11 @@ Behind the hill, and at 2,500 acres it is the largest of London's Royal Parks �
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="richmond-area-guide-hampton-court-palace-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Hampton Court Palace tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+## Go deeper
+
+- **[The best parks and gardens in London](/articles/best-parks-gardens-london/)** — Richmond Park against the rest, and the other places to find deer and old oaks.
+- **[The best views in London](/articles/best-views-london/)** — including the one from Richmond Hill, which is the only view in England protected by its own Act of Parliament.
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |

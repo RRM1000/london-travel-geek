@@ -145,13 +145,17 @@ East of Shoreditch, noticeably cheaper, on both the Elizabeth line and the Distr
 
 **Staycity Aparthotels Dalston** is about £130 for an apartment with a kitchen, which is the best value in this whole guide if you are staying more than two nights or travelling with family.
 
-**The GreenHouse Capsules** on Roman Road is £42 to £53 if you can sleep in a capsule — a range of eleven pounds across a whole year, which makes it the most predictable bed in this guide. It is dearer than Zone 1 on a quiet night and cheaper in December. **Town Hall Hotel** in Bethnal Green is about £220 and a genuinely special building — a 1930s town hall, with an Art Deco council chamber you can walk into.
+**The GreenHouse Capsules** on Roman Road is £42 to £53 if you can sleep in a capsule — a range of eleven pounds across a whole year, which makes it the most predictable bed in this guide. It is dearer than Zone 1 on a quiet night and cheaper in December, which our [pod hotels guide](/articles/pod-hotels-london/) goes into properly. **Town Hall Hotel** in Bethnal Green is about £220 and a genuinely special building — a 1930s town hall, with an Art Deco council chamber you can walk into.
 
 ### Stratford — fifteen minutes, from £100
 
 **Premier Inn London Stratford** is about £100 and fifteen minutes from Liverpool Street on the Central line. **Hyatt Regency London Stratford** is about £170.
 
 Stratford is not charming, but it is the answer if the priority is a decent room at a fair price with fast trains — and Westfield, the Olympic Park and the Elizabeth line are all on top of it.
+
+## What you are staying for
+
+If you have not spent time in the area yet, our [Shoreditch area guide](/articles/shoreditch-area-guide/) covers the markets, the bars and what is worth walking to. The single best free thing on the doorstep is the [street art](/articles/london-street-art/) — Shoreditch has the densest concentration in the city, and the walls change often enough that a guide is worth reading before you go looking.
 
 ## The noise question
 

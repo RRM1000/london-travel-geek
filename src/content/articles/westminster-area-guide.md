@@ -43,10 +43,10 @@ area:
       slug: "covent-garden-area-guide"
       minutes: 20
       note: "North up Whitehall past Trafalgar Square to the Piazza."
-    - name: "South Kensington"
-      slug: "south-kensington-area-guide"
-      minutes: 35
-      note: "West through St James's Park and Hyde Park to the museum quarter."
+    - name: "Belgravia"
+      slug: "belgravia-area-guide"
+      minutes: 20
+      note: "West past Victoria for Eccleston Yards, Elizabeth Street and the quietest streets in London."
     - name: "Soho"
       slug: "soho-area-guide"
       minutes: 25

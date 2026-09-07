@@ -40,6 +40,8 @@ This guide lists every display you can buy a ticket for, the one that is still f
 
 ---
 
+> 🎃 **Coming a week earlier?** Our [Halloween in London guide](/articles/halloween-london/) covers the same fortnight — the ticketed events, the free ones, and which of the scare attractions are worth the money.
+
 ## When everything actually happens
 
 | Date | What is on |

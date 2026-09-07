@@ -107,6 +107,8 @@ National Rail lines link London's major terminal stations (Waterloo, Victoria, L
 
 ---
 
+> 🚻 **The thing nobody plans for:** most Tube stations have no public toilet, and the ones that do are not where you expect. Our [public toilets map](/articles/public-toilets-london/) shows what is open, what costs money and what is free.
+
 ## London Buses & Trams
 
 ### Iconic Red Double-Decker Buses

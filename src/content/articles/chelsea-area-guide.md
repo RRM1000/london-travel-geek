@@ -47,10 +47,10 @@ area:
       slug: "battersea-area-guide"
       minutes: 15
       note: "Across Albert Bridge for the park, the Peace Pagoda and Battersea Power Station."
-    - name: "Notting Hill"
-      slug: "notting-hill-area-guide"
-      minutes: 35
-      note: "North through Kensington for Portobello Road; better by Tube than on foot."
+    - name: "Belgravia"
+      slug: "belgravia-area-guide"
+      minutes: 12
+      note: "East from Sloane Square along Pont Street for Elizabeth Street and the blue plaques."
 faq:
   - q: "Is King's Road still worth visiting?"
     a: "Yes, but manage expectations. The 1960s and punk-era King's Road is long gone and much of the street is now the same chains you find on any high street. What survives is the Saatchi Gallery, Duke of York Square, some good independent shops at the western end, and a very pleasant walk. Come for the street and the side roads rather than the shopping."
@@ -175,6 +175,10 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 *The World's End, at the far end of the King's Road. The stretch around it is where the punk shops were. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/5506552067), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-chelsea-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Chelsea walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## Go deeper
+
+- **[London's historic houses](/articles/historic-houses-london/)** — including the Royal Hospital Chelsea, whose grounds are more visitable than most people realise.
 
 ## Where to eat and drink
 

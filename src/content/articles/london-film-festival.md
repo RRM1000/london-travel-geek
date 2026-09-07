@@ -238,6 +238,10 @@ Standby is a genuine route rather than a formality — festival screenings have 
 
 ---
 
+## After the festival
+
+Most of the festival's venues screen all year, and several are worth a trip on an ordinary week. Our [London cinemas guide](/articles/best-cinemas-london/) covers the independents, the repertory programmes and the two screens that show 70mm.
+
 ## A practical plan
 
 If you want to do the festival properly without overthinking it:

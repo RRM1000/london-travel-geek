@@ -131,6 +131,11 @@ The **River Lea navigation** runs along the eastern edge with a towpath, narrowb
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hackney-area-guide-east-london-street-art-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="East London street art tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+## Go deeper
+
+- **[The best canal walks in London](/articles/best-canal-walks-london/)** — the Regent's Canal through Hackney and Victoria Park, and where to join it.
+- **[The best street food in London](/articles/best-street-food-london/)** — which of the east London markets and yards actually trade on which days.
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |

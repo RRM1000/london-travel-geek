@@ -330,6 +330,10 @@ Five of the best-known names here — Haidilao, Happy Lamb, Da Long Yi, Yangguof
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hot-pot-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+## If you want the heat without the pot
+
+Hot pot is a two-hour commitment and a shared table. For the same regional cooking served conventionally, our [Chinese and East Asian guide](/articles/best-chinese-east-asian-restaurants-london/) covers Sichuan and Xi'an kitchens, and the [Thai guide](/articles/best-thai-restaurants-london/) covers Isaan and southern cooking rather than the pad thai default.
+
 ## What to know
 
 * **The broth is charged separately** from everything you cook in it. Two people ordering a split pot are paying for two broths.

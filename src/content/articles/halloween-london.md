@@ -254,6 +254,10 @@ The walk-in option, and much less formal. Their own wording is the useful part: 
 
 ---
 
+## The week after
+
+**Bonfire Night is five days later**, and the two are effectively one season in London — several venues run Halloween until the 2nd and switch straight to fireworks. Our [Bonfire Night guide](/articles/bonfire-night-london/) has the display dates, what each one costs and the on-sale days worth diarising.
+
 ## Free Halloween things
 
 Be honest with yourself about this one: **London does not have a strong trick-or-treat culture**, and there is no single marquee free citywide event the way there is for Bonfire Night. What free Halloween activity exists is scattered and hyperlocal — library events, community centres, and a handful of neighbourhood trails.

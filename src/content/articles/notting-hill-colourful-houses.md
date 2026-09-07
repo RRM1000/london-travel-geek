@@ -29,7 +29,9 @@ Almost everyone looking for Notting Hill's colourful houses goes to Portobello R
 
 This guide is a route through the eleven streets that actually have the colour, in walking order, from Notting Hill Gate to Ladbroke Grove. It also covers where the cherry blossom is, if you are here in spring.
 
-> 💡 **The Short Version:** Start at **Hillgate Place** — four minutes from Notting Hill Gate and the prettiest of the lot, with a fraction of the crowd. **Lancaster Road** has the strongest colours and the most photographers. **Lansdowne Road** and **Elgin Crescent** are the grand pale stucco version. And **Portobello Road** itself is shopfronts, not houses — which is why so many people leave disappointed.
+It is deliberately only about the houses. For the market, the antique arcades, Golborne Road and where to eat, see our [Notting Hill area guide](/articles/notting-hill-area-guide/) — the two are designed to be walked on the same day.
+
+> 💡 **The Short Version:** Start at **Hillgate Place** — four minutes from Notting Hill Gate and the prettiest of the lot, with a fraction of the crowd. **Lancaster Road** has the strongest colours and the most photographers. **Lansdowne Road** and **Elgin Crescent** are the grand pale stucco version. And **Portobello Road** itself is shopfronts, not houses — which is why so many people leave disappointed. Go there for [the market](/articles/best-london-markets/), not the colour.
 
 ## Start with the four streets nobody visits
 
@@ -155,6 +157,8 @@ Because there are others, and they are the reason this section is not just one s
 
 **On timing:** London's cherry blossom is usually at its best from late March to mid April, and the peak lasts one to two weeks. It moves by a fortnight either way depending on the winter, so treat any fixed date as a guess — the trees on the ground are the only reliable forecast. Magnolias come slightly earlier on these same streets, and wisteria follows in late April and May.
 
+If you are chasing blossom rather than houses, the [parks and gardens guide](/articles/best-parks-gardens-london/) covers where else in London to find it, with room to stand.
+
 ## Getting there and when to go
 
 **Start at Notting Hill Gate** (Central, District and Circle lines) and finish at **Ladbroke Grove** (Circle and Hammersmith & City). Walking it the other way works equally well but ends with the quietest streets, which is an anticlimax.
@@ -164,3 +168,12 @@ Because there are others, and they are the reason this section is not just one s
 **On light**, this route was walked on a clear early September afternoon and the frontages on the Hillgate streets and Lancaster Road were lit from about two o'clock onwards. In midwinter, when the sun stays low, the narrow streets are in shade for much of the day.
 
 The whole route is free, outdoors and step-free on pavements throughout.
+
+## What to do with the rest of the day
+
+You finish at Ladbroke Grove, which is the top of Portobello Road, so the obvious continuation is to walk back down it.
+
+- **[The Notting Hill area guide](/articles/notting-hill-area-guide/)** — the market, the antique arcades most visitors walk past, Golborne Road and the Churchill Arms.
+- **[London's best markets](/articles/best-london-markets/)** — where Portobello sits among them, and which days each one actually runs.
+- **[Free things to do in London](/free/)** — this walk is one of them.
+- **[The best parks and gardens](/articles/best-parks-gardens-london/)** — Holland Park and the Kyoto Garden are fifteen minutes south of where you started.

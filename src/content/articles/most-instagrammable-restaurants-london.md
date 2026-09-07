@@ -313,6 +313,10 @@ Rooms carried by two sources each, listed once rather than written up twice:
 
 ---
 
+## If the room matters more than the plate
+
+That is a legitimate way to choose and this guide is built for it. But two others are worth reading alongside: [unusual restaurants](/articles/unusual-restaurants-london/) for rooms that are strange rather than pretty, and [special occasion restaurants](/articles/special-occasion-restaurants-london/) for the ones where the cooking justifies the room. The [full eating guide](/articles/eat-in-london-guide/) has everything else.
+
 ## What to know
 
 **Seasonal rooms change.** Dalloway Terrace and The Ivy Chelsea Garden are both dressed to the season. The photograph that brought you here may be six months old.

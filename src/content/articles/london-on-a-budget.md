@@ -79,6 +79,8 @@ Plus **Primrose Hill**, **Parliament Hill**, **Greenwich Park** and **Waterloo B
 
 ---
 
+> 💡 **On the biggest paid attraction of them all:** the Warner Bros. Studio Tour cannot be done cheaply, but our [Harry Potter in London guide](/articles/harry-potter-london/) lists everything in the city that is free — the filming locations, the Platform 9¾ trolley and the walking route between them.
+
 ## Free: the set pieces
 
 **Changing the Guard** is free to watch, and the thing to know is that **it does not run daily** — check the schedule before building a morning around it. The crowd at the Palace gates is deep; the **Horse Guards Parade** ceremony at 11am, and the dismount inspection at 4pm, are the same soldiers with a fraction of the audience.
@@ -284,6 +286,10 @@ A lot of London's best free things do not exist most of the year. These are wort
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## The cheapest bed in Zone 1
+
+Accommodation is the line that breaks most London budgets, and the one genuinely cheap option in the middle of town is a capsule — about £33 a night at Piccadilly Circus on a quiet date, which is hostel-dorm money for a berth of your own. Our [pod hotels guide](/articles/pod-hotels-london/) explains the trap: the same brand sells windowless private *rooms* under a nearly identical name at three to four times the price.
 
 ## Where the money actually goes
 

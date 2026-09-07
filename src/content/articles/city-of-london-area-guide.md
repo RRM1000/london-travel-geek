@@ -175,6 +175,10 @@ The north-west edge, and the most atmospheric corner of the City. **Smithfield**
 
 *Leadenhall Market, rebuilt in 1881 on a site that has traded since the Roman forum stood here. It played Diagon Alley in the first Harry Potter film.*
 
+## Go deeper
+
+- **[The best views in London](/articles/best-views-london/)** — Horizon 22, the Lookout and Sky Garden are all in the Square Mile, all free, and all need booking on different timetables.
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |

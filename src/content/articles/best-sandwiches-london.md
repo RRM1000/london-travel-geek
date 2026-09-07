@@ -370,6 +370,10 @@ A sandwich is already the cheap option, but the spread here runs from about £4.
 
 ---
 
+## Where this sits in the rest of London's food
+
+A sandwich is a lunch answer. For the rest, our [complete guide to eating in London](/articles/eat-in-london-guide/) sorts every guide by cuisine, budget and occasion — and [cheap eats](/articles/cheap-eats-london/) covers the same price bracket sitting down.
+
 ## What to know
 
 * **Check the trading days before you travel.** Kappacasein is Thursday to Saturday. Secret Sandwich Shop opens for four hours. Chatsworth Bakehouse is pre-order only, Mondays at 12:30. Porterford and Regency close at weekends. This category keeps shorter hours than any other kind of food business in London.

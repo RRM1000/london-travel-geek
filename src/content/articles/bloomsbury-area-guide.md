@@ -47,10 +47,10 @@ area:
       slug: "soho-area-guide"
       minutes: 12
       note: "West across Tottenham Court Road for dinner."
-    - name: "The City of London"
-      slug: "city-of-london-area-guide"
-      minutes: 20
-      note: "East along Theobald's Road for St Paul's and the Square Mile."
+    - name: "Fitzrovia"
+      slug: "fitzrovia-area-guide"
+      minutes: 8
+      note: "West across Tottenham Court Road for Charlotte Street and the best restaurant strip nearby."
 faq:
   - q: "Is the British Museum free?"
     a: "Yes. General admission is free and always has been. Only the major temporary exhibitions charge. Booking a free timed slot is recommended at weekends and in school holidays but is not required."
@@ -149,6 +149,11 @@ A short run of antiquarian bookshops, print dealers and map sellers between the 
 *48 Doughty Street, where Dickens wrote Oliver Twist and Nicholas Nickleby. He lived here under three years. Photo: [Matt From London](https://www.flickr.com/photos/57868312@N00/38375015794), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bloomsbury-area-guide-british-museum-guided-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="British Museum guided tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## Go deeper
+
+- **[The best museums in London](/articles/best-museums-london/)** — how to do the British Museum without the crush, and the smaller collections nearby.
+- **[London's blue plaques](/articles/london-blue-plaques/)** — Bloomsbury has one of the densest concentrations in the city, and a walkable route through them.
 
 ## Where to eat and drink
 

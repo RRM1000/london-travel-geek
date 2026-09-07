@@ -203,7 +203,7 @@ Ranges below are the cheapest and dearest we saw across the five sampled dates. 
 
 *£97–£287 a Cocoon 1 · Windowless private room · Piccadilly Circus*
 
-Inside the Grade II London Pavilion, directly on Piccadilly Circus, with nearly a thousand rooms and every cocoon size from 1 to 12. The address is the whole story, and so is the volatility: **this is the property that triples**, so the date you pick matters more here than anywhere else in the guide.
+Inside the Grade II London Pavilion, directly on Piccadilly Circus, with nearly a thousand rooms and every cocoon size from 1 to 12. Everything in our [Soho area guide](/articles/soho-area-guide/) is on the doorstep. The address is the whole story, and so is the volatility: **this is the property that triples**, so the date you pick matters more here than anywhere else in the guide.
 
 **This is also where the booking mistake happens** — the separate Capsule property is minutes away under an almost identical name.
 
@@ -211,7 +211,7 @@ Inside the Grade II London Pavilion, directly on Piccadilly Circus, with nearly 
 
 *£81–£206 a Cocoon 1 · Windowless private room · Two minutes from the British Museum*
 
-**London's first hotel entirely below ground**, in a disused car park beneath Great Russell Street, with 206 rooms. Here the windowless format stops being a design choice and becomes a fact of the building.
+**London's first hotel entirely below ground**, in a disused car park beneath Great Russell Street, with 206 rooms. Here the windowless format stops being a design choice and becomes a fact of the building. The address is squarely in [Bloomsbury](/articles/bloomsbury-area-guide/), whatever the name says.
 
 **Cheaper than Piccadilly on every date we sampled**, by £16 to £81 depending on the night, for the same product two Tube stops away. Best-connected of the seven if you are coming from Heathrow — Elizabeth, Northern and Central lines. Rooms stop at Cocoon 4, so larger groups have to go to Piccadilly.
 
@@ -219,7 +219,7 @@ Inside the Grade II London Pavilion, directly on Piccadilly Circus, with nearly 
 
 *£66–£145 a Cocoon 2 · Windowless private room · Riverside*
 
-The same format by the river, within reach of the Cutty Sark and the Observatory, and **the obvious base for a gig at the O2**.
+The same format by the river, within reach of the Cutty Sark and the Observatory, and **the obvious base for a gig at the O2**. Our [Greenwich area guide](/articles/greenwich-area-guide/) covers what is walkable from it.
 
 **The least volatile Zedwell hotel** at 2.2×, and the only one where a February midweek came in cheaper than an October Sunday. A Cocoon 4 sleeping four starts at £117. Early check-in is £25 here against £60 in the West End. The pick of them if you want the format without the West End around it.
 
@@ -274,6 +274,8 @@ An eco-conscious capsule hostel on Roman Road, a working East London market stre
 **Book a capsule if** you are alone, or you are travelling in a busy month. It is the product that holds its price, and the one whose advantage grows as everything around it gets dearer.
 
 **Book a cocoon room if** there are two or more of you. The second bed costs about a fiver, so the per-person price halves immediately and keeps falling as the room gets bigger — provided you are content to share beds above a Cocoon 3.
+
+For everything else — which neighbourhood, and what a normal room costs there — start at our [where to stay hub](/stay/) or the [London on a budget guide](/articles/london-on-a-budget/).
 
 **Do not book either if** you want to spend time in your room; you are claustrophobic or unsure about windowless sleeping; you are travelling with a full-size suitcase; or you want the social side of a hostel. Pods are private and deliberately not sociable.
 

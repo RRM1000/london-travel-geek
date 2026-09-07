@@ -139,6 +139,11 @@ It is a drinking and wandering destination rather than a sightseeing one, and mu
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stratford-area-guide-arcelormittal-orbit-slide-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="ArcelorMittal Orbit slide tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+## Go deeper
+
+- **[The best parks and gardens in London](/articles/best-parks-gardens-london/)** — the Queen Elizabeth Olympic Park is the newest large park in London and the least like the others.
+- **[Shopping in London](/articles/shopping-in-london/)** — where Westfield Stratford City sits against the West End streets and the department stores.
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |

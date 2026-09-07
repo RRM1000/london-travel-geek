@@ -54,7 +54,7 @@ faq:
   - q: "What days is Portobello Road Market open?"
     a: "The market runs Monday to Saturday, but the sections vary. Saturday is the full market with roughly 1,000 stalls including all the antique arcades. Friday is the second antiques day and is considerably quieter. Monday to Wednesday you will find mostly fruit, vegetables and a handful of general stalls. Thursday is a half day. The market does not run on Sundays, when the road is largely shuttered."
   - q: "Where exactly are the colourful houses in Notting Hill?"
-    a: "The best-known rows are on Lancaster Road just north of Ladbroke Grove station, and on Portobello Road itself between Blenheim Crescent and Lancaster Road. St Luke's Mews, off All Saints Road, has the pink house from Love Actually. The best of the lot is Hillgate Village, four short streets by Notting Hill Gate station that almost nobody visits. All are private homes on ordinary residential streets."
+    a: "Not on Portobello Road, which is painted shopfronts rather than houses. The best-known row is Lancaster Road, just north of Ladbroke Grove station, and St Luke's Mews off All Saints Road has the pink house from Love Actually — those two are the convenient ones if you are already at the market. The best is Hillgate Village, four short streets by Notting Hill Gate station at the opposite end of the area, which almost nobody visits. All eleven streets worth walking are mapped in our colourful houses route. All are private homes on ordinary residential streets."
   - q: "Is Notting Hill worth visiting if the market is closed?"
     a: "Yes, but plan differently. Sunday and early-week visits are better for the streets, the architecture and Holland Park than for shopping. If markets are your main reason for coming, go on a Friday or Saturday instead."
   - q: "How long should I spend in Notting Hill?"
@@ -85,7 +85,7 @@ Notting Hill has its own share of the commemorative plaques marking where notabl
 
 1. **Portobello Road Market** — Over a mile of stalls, and the largest antiques market in the world by number of dealers. The character changes completely as you walk north: antique arcades at the southern end near Notting Hill Gate, then fruit and veg, then vintage clothing under the Westway flyover, then a flea market towards Ladbroke Grove.
 2. **The antique arcades** — The real find, and most visitors walk straight past them. Admiral Vernon, Portobello Studios and Roger's Arcade are indoor warrens of dealer stalls selling silver, jewellery, maps and militaria. Open Fridays and Saturdays only.
-3. **Lancaster Road pastel terraces** — The rainbow row that appears on every Notting Hill postcard. Just north of Ladbroke Grove station, and best photographed in morning light.
+3. **The colourful houses** — Not on Portobello Road, which is where most people look for them. **Lancaster Road**, just north of Ladbroke Grove station, is the rainbow row from the postcards and the easiest to combine with the market. **Hillgate Village**, by Notting Hill Gate at the opposite end, is better and almost empty. Our [colourful houses walking route](/articles/notting-hill-colourful-houses/) covers all eleven streets.
 4. **The Churchill Arms** — An 18th-century pub buried under thousands of flowers in summer and around 90 Christmas trees in December, serving Thai food in its back conservatory. Genuinely worth the detour on Kensington Church Street.
 5. **Holland Park and the Kyoto Garden** — Fifteen minutes south, and the quietest good park in west London. The Japanese garden has koi ponds, a waterfall and resident peacocks.
 6. **Notting Hill Bookshop** — The Blenheim Crescent shop that inspired the film. Small, busy, and a working bookshop rather than a museum piece.
@@ -147,12 +147,16 @@ The market here runs Friday and Saturday and is a genuine second-hand market rat
 
 **Ten minutes north of the busy stretch and worth every one of them.** Westbourne Park is the nearest station, and the walk up is the fastest way to leave the crowds behind.
 
-### St Luke's Mews and Lancaster Road — the photogenic streets
+### St Luke's Mews and Lancaster Road — the convenient colour
 Two short residential streets that appear constantly on social media — **St Luke's Mews** for its pastel-painted cottages, one of which was the cue-card doorstep in *Love Actually*, and **Lancaster Road** for its run of brightly coloured terraces.
+
+**These are not the best colourful streets in Notting Hill. They are the closest ones to Portobello**, which is a different thing and the reason everyone ends up at them. If you are already walking the market you will pass within a couple of minutes of both, and on that basis they are worth the detour.
 
 ![Two small houses in Hillgate Village, one painted powder blue and one pale green, with white sash windows](../../assets/articles/notting-hill-area-guide/hillgate-village-pastel-streets.jpg)
 
-But the best pastel streets in Notting Hill are neither of these. **Hillgate Village** — four short streets four minutes from Notting Hill Gate station — has the strongest run of colour in the area and a fraction of the visitors, because almost everyone walks north to Portobello instead. We have mapped all seven streets that actually have the colour, in walking order, in the [Notting Hill colourful houses route](/articles/notting-hill-colourful-houses/).
+**The best run of colour is at the other end of the area.** **Hillgate Village** — four short streets four minutes from Notting Hill Gate station — has the strongest, most concentrated pastel terraces in Notting Hill and a fraction of the visitors, because almost everyone walks north to Portobello instead. On one September afternoon there were two people photographing in Hillgate Village and about thirty on Lancaster Road.
+
+**If the houses are why you came, do not plan your day around Portobello.** Our [Notting Hill colourful houses route](/articles/notting-hill-colourful-houses/) maps all eleven streets that actually have the colour, in walking order, from Notting Hill Gate to Ladbroke Grove — about two hours at a photographing pace.
 
 > ⚠️ **These are people's homes, and the residents have had enough.** Both streets are permanently busy with photographers, some of whom sit on doorsteps and block the pavement. Look, take a picture from the road, and keep the noise down — several London mews have started putting up signs about exactly this.
 
@@ -199,7 +203,7 @@ But the best pastel streets in Notting Hill are neither of these. **Hillgate Vil
 
 ## Suggested two-hour walking route
 
-1. **Start:** Ladbroke Grove station. Walk south to **Lancaster Road** for the pastel terraces in morning light.
+1. **Start:** Ladbroke Grove station. Walk south to **Lancaster Road** for the pastel terraces in morning light. *(If the houses matter more to you than the market, take the [colourful houses route](/articles/notting-hill-colourful-houses/) instead — it starts at the other end and covers eleven streets.)*
 2. **Portobello Road north:** Turn onto Portobello and walk under the **Westway** through the vintage stalls.
 3. **Golborne Road detour** *(add 20 minutes)*: North for a pastel de nata at Lisboa before doubling back.
 4. **The arcades:** South past Blenheim Crescent — stop at the **Notting Hill Bookshop** — and into **Admiral Vernon** arcade.

@@ -251,6 +251,10 @@ Ice cream is cheap by definition, but the range in London is wider than people e
 
 ---
 
+## Where this sits in the rest of London's food
+
+Ice cream is one course. Our [complete guide to eating in London](/articles/eat-in-london-guide/) covers the rest — by cuisine, by budget and by occasion — and the [bakeries guide](/articles/best-bakeries-london/) is the other half of the sweet answer.
+
 ## What to know
 
 * **Check the season and the days.** Marcelo's is weekends only; Ice Cream Union's factory shop shuts for January and February. Ice cream keeps stranger hours than restaurants.

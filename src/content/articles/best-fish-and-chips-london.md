@@ -377,6 +377,10 @@ Everything else the sources carry by two or more independent sources.
 
 ---
 
+## The pub version
+
+Several of London's best fish and chips are served in dining rooms rather than chip shops, and the overlap is worth knowing about — our [historic pubs and dining rooms guide](/articles/historic-pubs-dining-rooms-london/) covers the rooms where the building is as much of the reason to go as the plate.
+
 ## What to know before you go
 
 * **Beef dripping vs vegetable oil** is the real dividing line. The Fryer's Delight still uses dripping; most others switched decades ago. Dripping gives a heavier, savoury chip — and makes the chips not vegetarian.
