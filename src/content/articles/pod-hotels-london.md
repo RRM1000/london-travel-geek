@@ -80,7 +80,18 @@ London has **five of them**. Not the ten or eleven you will find on most lists �
 
 **Luggage does not go in the capsule.** Hooks for a small backpack, room for a slim bag beside the mattress, nothing more. Zedwell's luggage room is **£15 per piece and non-refundable** — on two nights with one case, about a quarter of what the bed costs.
 
-**Check-out is 10am** at both Zedwell sites, which is early. Late check-out is £20 to midday, £30 to 2pm, and after 2pm you are charged a full night. Early check-in is £20 before midday, £10 between midday and 3pm. There is no fee for arriving late.
+**Check-out is early, and buying more of the morning is priced.** Zedwell's capsules go at 10am; the other three give you until 11am. Only Zedwell publishes a tariff for moving either end:
+
+| | Check-in | Check-out | Early check-in | Late check-out |
+| --- | --- | --- | --- | --- |
+| **Zedwell Capsule** (both) | 3pm | **10am** | £20 before noon, £10 noon–3pm | £20 to noon, £30 to 2pm |
+| **St Christopher's Village** | 3pm–**2am** | 11am | Not offered | Not published |
+| **Otherwander Soho** | 3pm–midnight | **10am** | Charged, price not published | Charged, price not published |
+| **The GreenHouse** | 2pm–midnight | 11am | Not published | Not published |
+
+**Stay past 2pm at Zedwell and you are charged a full night**, so a long afternoon costs more than the bed did. Otherwander's own listing says early check-in and late check-out "can be arranged for an extra charge" without saying what it is, so ask before you count on it.
+
+**Arriving late is free everywhere, but only within the window.** Zedwell takes arrivals to midnight with no fee, Otherwander and The GreenHouse to midnight, and St Christopher's Village to 2am — the latest of the five, and useful after a show. **None of them does after-hours check-in beyond that**, which is the thing to check against a late flight.
 
 **You can ask for a bottom bunk**, and for a high or low floor, when you book. Both are free and neither is guaranteed, and a bottom berth is worth having if you are carrying anything or dislike climbing.
 

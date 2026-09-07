@@ -53,7 +53,14 @@ These are the things that decide whether the format suits you, and none of them 
 
 **There is no breakfast.** Zedwell's own answer to the question is a list of nearby restaurants.
 
-**Check-out is 10am**, which is early, and check-in is 3pm. Both move for money: early check-in from 9am is **£60** at Piccadilly Circus, Knightsbridge, Park Lane and Tottenham Court Road, and **£25** at Greenwich. Late check-out is charged the same way.
+**Check-out is 10am and check-in is 3pm**, which is a short day. Both ends move for money, and the West End sites charge properly for it:
+
+| | Early check-in from 9am | From noon | Late check-out to noon | To 2pm |
+| --- | --- | --- | --- | --- |
+| **Piccadilly Circus, Knightsbridge, Park Lane, Tottenham Court Road** | £60 | £40 | £50 | **£80** |
+| **Greenwich** | £25 | £15 | £25 | £50 |
+
+**After 2pm you are charged a full night** at every one of them. Note what that £80 means on a quiet date: a late check-out at Piccadilly Circus can cost less than the room but more than a Cocoon 1 at Tottenham Court Road, so on a cheap night it is nearly a second night's money for four hours. Greenwich is less than half the price at both ends, which is one more reason it is the value pick.
 
 **Foreign nationals must upload a passport copy before arrival**, through a secure link emailed after booking. UK residents can check in with any government photo ID. This is the one that catches people out at 11pm.
 
