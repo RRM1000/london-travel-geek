@@ -60,51 +60,13 @@ Dayuse advertises **"up to 75% off"**; the biggest we actually found across the 
 
 ## The windows, and how long you actually get
 
-A day-use booking is a **fixed window**, not a number of hours you choose. The hotel decides the slot and you take it or leave it — so the useful question is not "how long can I book?" but "which windows exist?"
+A day-use booking is a **fixed window**, not a number of hours you choose. The hotel decides the slot and you take it or leave it.
 
-We logged **73 windows across the London listings**. They are far less varied than the choice suggests:
+There is far less choice in that than the category suggests. Across the London listings, **more than half of all windows open at 10am**, and the single commonest slot by a wide margin is **10am–5pm**. After that it thins out quickly: 10am–6pm, 10am–4pm, 9am–5pm and 10am–3pm cover most of the rest. If your day fits the standard shape you have 245 hotels to pick from; if it does not, the field narrows fast.
 
-| Window | How many hotels offer it |
-| --- | --- |
-| **10am–5pm** | **20** |
-| 10am–6pm | 9 |
-| 10am–4pm | 7 |
-| 9am–5pm | 5 |
-| 10am–3pm | 4 |
-| 9am–6pm, 12pm–8pm | 3 each |
-| 11am–2pm, 9am–4pm, 4pm–10pm, 11am–6pm, 2pm–8pm | 2 each |
-| 7am–2pm, 7am–3pm, 8am–4pm, 9.30am–3.30pm, 3pm–9pm, 4pm–9pm, 4pm–11pm, 10am–10pm and others | 1 each |
+**Most slots run seven or eight hours.** The shortest that exists anywhere is three, so despite the "hourly hotels" label this is not an hourly product in London — you cannot book one hour, or two. At the other end, a handful stretch to nine and one runs twelve.
 
-**More than half of everything starts at 10am.** Of the 73 windows, 41 open at 10am and 25 close at 5pm — so 10am–5pm is not just the most common slot, it is close to a default. If your day fits it, you have 245 hotels to choose from. If it does not, the field narrows fast.
-
-### Start times
-
-| Opens | Hotels |
-| --- | --- |
-| 7am | 2 |
-| 8am | 1 |
-| 9am–9.30am | 12 |
-| **10am** | **41** |
-| 11am | 5 |
-| midday | 3 |
-| 2pm–3pm | 5 |
-| 4pm | 4 |
-
-### How long the slot runs
-
-| Length | Hotels |
-| --- | --- |
-| 3 hours | 3 |
-| 5 hours | 6 |
-| 6 hours | 14 |
-| **7 hours** | **26** |
-| **8 hours** | **20** |
-| 9 hours | 3 |
-| 12 hours | 1 |
-
-**Nearly two thirds are seven or eight hours.** Three hours is the shortest on offer — the Kingsland Hotel's 11am–2pm and MSM Arena's 2.30pm–5.30pm — and the longest single slot we found was **10am–10pm, twelve hours**. Nothing shorter than three hours exists, so this is not an hourly product in London whatever the category is called.
-
-**The earliest opening is 7am** and the **latest closing is 11pm**. Between them, the practical shape of the day is: arrive mid-morning, leave before six.
+**The earliest opening is 7am and the latest closing is 11pm.** Between those, the practical shape of the day is: arrive mid-morning, leave before six.
 
 ### Always take the longest window
 
