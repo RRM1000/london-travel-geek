@@ -2,6 +2,8 @@
 title: "Where to Stay in Shoreditch — and the Cheaper Streets Just Outside It"
 seoTitle: "Where to Stay in Shoreditch 2026: Best Hotels + Quieter Alternatives"
 description: "Nine Shoreditch hotels compared, which streets are loud at 2am, and five areas within fifteen minutes where the same night costs half as much."
+heroImage: "../../assets/articles/where-to-stay-shoreditch/the-hoxton-shoreditch-lobby.webp"
+heroImageAlt: "The open lobby at The Hoxton, Shoreditch: a brass ring chandelier over armchairs, an exposed brick fireplace, a herringbone bar under a Hoxton Grill sign, and a red bus passing the window"
 publishedAt: 2026-09-06
 sites: [london]
 canonicalSite: london
@@ -49,6 +51,10 @@ The name covers about a mile, and the difference between its ends is the differe
 
 *About £200 · Breakfast included · Shoebox to Roomy*
 
+![The open lobby at The Hoxton, Shoreditch: a brass ring chandelier over armchairs, an exposed brick fireplace, a herringbone bar under a Hoxton Grill sign, and a red bus passing the window](../../assets/articles/where-to-stay-shoreditch/the-hoxton-shoreditch-lobby.webp)
+
+*The lobby the format is named after: a bar, a fireplace and armchairs that fill up with people who are not staying here.*
+
 The hotel that made the open-lobby-as-workspace format normal, and still the best example of it. The ground floor is genuinely full of locals working and meeting rather than only guests, which is the thing most imitators never manage.
 
 **Breakfast is a bag hung on your door**, included in the rate — a useful touch at a hotel where the lobby is busy from eight in the morning.
@@ -66,6 +72,10 @@ The compact-room format on the Shoreditch edge of the City, with free cheese and
 ### One Hundred Shoreditch — the calm one
 
 *About £180 · Six bars and restaurants*
+
+![A twin room with a large grey geometric mural above the beds, patchwork denim quilts, a black ceiling and adjustable wall lights](../../assets/articles/where-to-stay-shoreditch/one-hundred-shoreditch-room.webp)
+
+*A twin room in the old Ace building. The murals are the part people photograph.*
 
 Whitewashed walls, tapestry hangings and pine, with cult DS & Durga toiletries. Time Out described it as staying in the spare room of an impossibly fashionable friend, which is about right.
 
