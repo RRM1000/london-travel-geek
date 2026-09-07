@@ -44,12 +44,36 @@
     "field": "noodleType",
     "note": "The axis carries the whole guide. A reader wanting tonkotsu ramen and one wanting Chongqing hand-pulled are not browsing the same list.",
     "values": [
-      { "key": "ramen", "label": "Ramen", "describeAs": "Japanese wheat noodles in a long-cooked broth, usually pork or chicken" },
-      { "key": "hand-pulled", "label": "Hand-pulled Chinese", "describeAs": "wheat dough stretched and folded to order, chewy and uneven in a way a machine cannot manage" },
-      { "key": "pho", "label": "Pho and Vietnamese", "describeAs": "flat rice noodles in a clear spiced beef or chicken broth, herbs added at the table" },
-      { "key": "laksa", "label": "Laksa and Malaysian", "describeAs": "coconut and chilli broth, thick enough to coat the noodle" },
-      { "key": "thai", "label": "Thai", "describeAs": "wok-fried or boat-noodle style, sour and hot rather than rich" },
-      { "key": "udon-soba", "label": "Udon and soba", "describeAs": "thick wheat or buckwheat noodles, served hot in broth or cold with dipping sauce" }
+      {
+        "key": "ramen",
+        "label": "Ramen",
+        "describeAs": "Japanese wheat noodles in a long-cooked broth, usually pork or chicken"
+      },
+      {
+        "key": "hand-pulled",
+        "label": "Hand-pulled Chinese",
+        "describeAs": "wheat dough stretched and folded to order, chewy and uneven in a way a machine cannot manage"
+      },
+      {
+        "key": "pho",
+        "label": "Pho and Vietnamese",
+        "describeAs": "flat rice noodles in a clear spiced beef or chicken broth, herbs added at the table"
+      },
+      {
+        "key": "laksa",
+        "label": "Laksa and Malaysian",
+        "describeAs": "coconut and chilli broth, thick enough to coat the noodle"
+      },
+      {
+        "key": "thai",
+        "label": "Thai",
+        "describeAs": "wok-fried or boat-noodle style, sour and hot rather than rich"
+      },
+      {
+        "key": "udon-soba",
+        "label": "Udon and soba",
+        "describeAs": "thick wheat or buckwheat noodles, served hot in broth or cold with dipping sauce"
+      }
     ]
   },
   "formatSection": {
@@ -65,5 +89,6 @@
     "Scope: settle theScopeQuestion above before collecting. If the answer is 'four guides', this config should be replaced by a ramen config and the rest dropped.",
     "Chang's Noodle (Bloomsbury) and Noodle & Beer (Spitalfields) both seen in one Infatuation guide - confirm they are separate businesses and not branches.",
     "Birria ramen at a taco place (Kensal Rise) was named in a noodle context. Decide whether a Mexican-Japanese crossover belongs in a noodle guide or is a novelty that inflates the count."
-  ]
+  ],
+  "tierDCorrection": "SUPERSEDED 2026-09-07. Any wording in this file saying tier D is blocked because APIFY_TOKEN is unset is WRONG, on three counts, each verified: (1) APIFY_TOKEN IS set, 46 chars in .env.local - a script reading process.env without loading that file sees nothing, which is how the belief started; (2) the tier-D scripts do not use Apify at all - scripts/video-research.mjs shells out to yt-dlp and scripts/video-pass.mjs fetches youtube.com watch pages, and no script in scripts/ references APIFY_TOKEN; (3) yt-dlp is installed at the path video-research.mjs hardcodes, and a live search returned three real London videos in seconds. TIER D IS COLLECTABLE NOW, AT NO COST. Collect it before treating any source-mix verdict in this file as final. Tier E (Reddit) remains genuinely unreachable from this environment."
 }

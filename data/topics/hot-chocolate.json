@@ -52,11 +52,31 @@
     "field": "style",
     "note": "This axis IS the counting problem made navigable. A reader who wants a thick Italian one and a reader who wants a novelty are not looking for the same drink.",
     "values": [
-      { "key": "italian-thick", "label": "Thick Italian", "describeAs": "closer to melted chocolate than a drink, thick enough to stand a spoon in" },
-      { "key": "classic", "label": "Classic drinking chocolate", "describeAs": "real chocolate melted into hot milk, pourable, no toppings" },
-      { "key": "single-origin", "label": "Single origin and dark", "describeAs": "made from one estate's beans, bitter enough to taste the country it came from" },
-      { "key": "spiced", "label": "Spiced and flavoured", "describeAs": "chilli, cardamom, orange or salted caramel worked into the chocolate" },
-      { "key": "topped", "label": "Topped and novelty", "describeAs": "the ones built for a photograph - torched marshmallow, cream, shavings" }
+      {
+        "key": "italian-thick",
+        "label": "Thick Italian",
+        "describeAs": "closer to melted chocolate than a drink, thick enough to stand a spoon in"
+      },
+      {
+        "key": "classic",
+        "label": "Classic drinking chocolate",
+        "describeAs": "real chocolate melted into hot milk, pourable, no toppings"
+      },
+      {
+        "key": "single-origin",
+        "label": "Single origin and dark",
+        "describeAs": "made from one estate's beans, bitter enough to taste the country it came from"
+      },
+      {
+        "key": "spiced",
+        "label": "Spiced and flavoured",
+        "describeAs": "chilli, cardamom, orange or salted caramel worked into the chocolate"
+      },
+      {
+        "key": "topped",
+        "label": "Topped and novelty",
+        "describeAs": "the ones built for a photograph - torched marshmallow, cream, shavings"
+      }
     ]
   },
   "formatSection": {
@@ -72,5 +92,6 @@
     "Paul A Young has multiple branches - decide at collection whether sources name the brand or a specific shop, and carry branches as rows rather than separate venues.",
     "Chin Chin Dessert Club vs Chin Chin Labs - check whether sources are naming one business or two.",
     "Winter pop-ups: confirm trading status before recording. A December source may name something seasonal that is closed when the guide publishes."
-  ]
+  ],
+  "tierDCorrection": "SUPERSEDED 2026-09-07. Any wording in this file saying tier D is blocked because APIFY_TOKEN is unset is WRONG, on three counts, each verified: (1) APIFY_TOKEN IS set, 46 chars in .env.local - a script reading process.env without loading that file sees nothing, which is how the belief started; (2) the tier-D scripts do not use Apify at all - scripts/video-research.mjs shells out to yt-dlp and scripts/video-pass.mjs fetches youtube.com watch pages, and no script in scripts/ references APIFY_TOKEN; (3) yt-dlp is installed at the path video-research.mjs hardcodes, and a live search returned three real London videos in seconds. TIER D IS COLLECTABLE NOW, AT NO COST. Collect it before treating any source-mix verdict in this file as final. Tier E (Reddit) remains genuinely unreachable from this environment."
 }
