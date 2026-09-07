@@ -226,7 +226,7 @@ One place, in case you would rather scan a list than a page.
 
 **By dish:** [Burgers](/articles/best-burgers-london/) · [Steak](/articles/best-steak-restaurants-london/) · [Seafood](/articles/best-seafood-restaurants-london/) · [Fish and chips](/articles/best-fish-and-chips-london/) · [Sunday roast](/articles/best-sunday-roast-london/) · [Sandwiches](/articles/best-sandwiches-london/) · [Ice cream](/articles/best-ice-cream-london/)
 
-**By time of day:** [Breakfast and brunch](/articles/best-breakfast-brunch-london/) · [Coffee](/articles/best-coffee-london/) · [Bakeries](/articles/best-bakeries-london/) · [Afternoon tea](/articles/best-afternoon-tea-london/) · [Cocktail bars](/articles/best-cocktail-bars-london/) · [Late-night eating](/articles/late-night-eating-london/)
+**By time of day:** [Breakfast and brunch](/articles/best-breakfast-brunch-london/) · [Coffee](/articles/best-coffee-london/) · [Hot chocolate](/articles/best-hot-chocolate-london/) · [Bakeries](/articles/best-bakeries-london/) · [Afternoon tea](/articles/best-afternoon-tea-london/) · [Cocktail bars](/articles/best-cocktail-bars-london/) · [Late-night eating](/articles/late-night-eating-london/)
 
 **By budget, occasion and room:** [Street food](/articles/best-street-food-london/) · [Cheap eats](/articles/cheap-eats-london/) · [Special occasions](/articles/special-occasion-restaurants-london/) · [Historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/) · [Unusual restaurants](/articles/unusual-restaurants-london/) · [Rooms worth photographing](/articles/most-instagrammable-restaurants-london/) · [Markets and food halls](/articles/best-london-markets/)
 
