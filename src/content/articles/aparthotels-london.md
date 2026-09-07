@@ -2,6 +2,8 @@
 title: "London Aparthotels: When a Kitchen Beats a Hotel Room"
 seoTitle: "Best Aparthotels London 2026: 26 Compared by Area and Brand"
 description: "Twenty-six London aparthotels, what the six operators actually differ on, and the one number that decides whether the format saves you money or just costs more."
+heroImage: "../../assets/articles/aparthotels-london/aparthotel-studio-living-space.jpg"
+heroImageAlt: "A studio room with a bed, a sitting area with a bench sofa and cushions, a full-height wardrobe and a screened bathroom beyond"
 publishedAt: 2026-09-07
 sites: [london]
 canonicalSite: london
