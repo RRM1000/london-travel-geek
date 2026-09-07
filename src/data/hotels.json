@@ -1,6 +1,6 @@
 {
  "generated": "2026-09-07",
- "count": 101,
+ "count": 102,
  "hotels": [
   {
    "slug": "astor-hyde-park",
@@ -151,6 +151,46 @@
     "wembley"
    ],
    "website": "https://all.accor.com/"
+  },
+  {
+   "slug": "st-christophers-village",
+   "name": "St Christopher's Village, London Bridge",
+   "propertyType": "capsule",
+   "style": "Capsule pods inside a full-service hostel",
+   "brand": "st-christophers",
+   "chainType": "chain",
+   "area": "Southwark",
+   "borough": "Southwark",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "161-165 Borough High Street",
+   "postcode": "SE1 1HR",
+   "priceBand": "£",
+   "typicalFrom": "£53–£166 a double capsule",
+   "breakfast": "extra",
+   "roomTypes": "Capsule beds, Private Double Capsule, dorms, private rooms",
+   "familyPolicy": "Adults only - 18 and over",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "no",
+   "luggageStorage": "yes",
+   "whyGo": "The UK's first capsule hostel, and the only London address where a capsule comes with a bar, a roof terrace and events most nights - Belushi's is downstairs and Borough Market is two minutes away.",
+   "opNote": "THE ONE CAPSULE PROPERTY THAT IS ALSO A HOSTEL, which makes it the exception to everything else on the pods list: 24-hour reception, a bar, a roof terrace, lockers and organised events, none of which the dedicated capsule hotels offer. Only 26 of its beds are capsules, the rest being ordinary dorms and private rooms, so the capsule is a room type here rather than the whole building. A Private Double Capsule sleeps two and was the only capsule bookable on most sampled dates. Breakfast is GBP3 extra. Check-out 11am, an hour later than Zedwell, and check-in runs to 2am but there is NO after-hours check-in beyond that.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "budget",
+    "groups"
+   ],
+   "lists": [
+    "budget",
+    "capsules"
+   ],
+   "website": "https://www.st-christophers.co.uk/london-bridge-village-hostel/",
+   "hotelsUrl": "https://uk.hotels.com/ho247878/st-christopher-s-village-london-bridge-hostel-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho247878/st-christopher-s-village-london-bridge-hostel-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "greenhouse-capsules",
