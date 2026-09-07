@@ -31,7 +31,7 @@ About **245 London hotels** will sell you a room for the afternoon rather than t
 
 It is the least-known useful thing in London accommodation, and the answer to a problem most visitors have at least once: a nine-hour gap, a suitcase, and nowhere to be.
 
-> 💡 **The Short Version:** Book through **Dayuse**, which lists most of them, and check three things — **when the window starts**, whether it says *payment at the hotel* (most do, and that means free to hold), and whether a pool is included. **Most windows open at 9 or 10am.** If you land early, the ones that open at **7am** are Marlin Waterloo, and at Heathrow the Crowne Plaza T4 and the Atrium.
+> 💡 **The Short Version:** You book a **fixed window**, not hours of your choosing, and **10am–5pm is close to a default** — 41 of the 73 London windows open at 10am. Most slots run **seven or eight hours**; three is the shortest that exists. Check **when it starts** before anything else, whether it says *payment at the hotel* (most do, so it costs nothing to hold), and whether a pool is included. Landing early? Only **Marlin Waterloo** and, at Heathrow, the **Crowne Plaza T4** and the **Atrium** open at 7am.
 
 ## What it actually costs
 
@@ -54,7 +54,61 @@ Every rate below is the day price against that hotel's own overnight rate, with 
 | **Treehouse Hotel London** | £169 | £300 | 44% | 10am–5pm |
 | **Athenaeum**, Piccadilly | £272 | £580 | **54%** | 10am–6pm |
 
+Dayuse advertises **"up to 75% off"**; the biggest we actually found across the London listings was 69%, at Seraphine Hammersmith. Treat 75% as the ceiling rather than the expectation.
+
 **The pattern is worth understanding before you shop.** The biggest discounts are at the *expensive* hotels, not the cheap ones — 69% off at Seraphine Hammersmith and 66% at the Mandeville, against 24% at ibis Earls Court. A budget hotel has no margin to give away; a £300 room does. So day use is at its best when it buys you a hotel you would not otherwise book.
+
+## The windows, and how long you actually get
+
+A day-use booking is a **fixed window**, not a number of hours you choose. The hotel decides the slot and you take it or leave it — so the useful question is not "how long can I book?" but "which windows exist?"
+
+We logged **73 windows across the London listings**. They are far less varied than the choice suggests:
+
+| Window | How many hotels offer it |
+| --- | --- |
+| **10am–5pm** | **20** |
+| 10am–6pm | 9 |
+| 10am–4pm | 7 |
+| 9am–5pm | 5 |
+| 10am–3pm | 4 |
+| 9am–6pm, 12pm–8pm | 3 each |
+| 11am–2pm, 9am–4pm, 4pm–10pm, 11am–6pm, 2pm–8pm | 2 each |
+| 7am–2pm, 7am–3pm, 8am–4pm, 9.30am–3.30pm, 3pm–9pm, 4pm–9pm, 4pm–11pm, 10am–10pm and others | 1 each |
+
+**More than half of everything starts at 10am.** Of the 73 windows, 41 open at 10am and 25 close at 5pm — so 10am–5pm is not just the most common slot, it is close to a default. If your day fits it, you have 245 hotels to choose from. If it does not, the field narrows fast.
+
+### Start times
+
+| Opens | Hotels |
+| --- | --- |
+| 7am | 2 |
+| 8am | 1 |
+| 9am–9.30am | 12 |
+| **10am** | **41** |
+| 11am | 5 |
+| midday | 3 |
+| 2pm–3pm | 5 |
+| 4pm | 4 |
+
+### How long the slot runs
+
+| Length | Hotels |
+| --- | --- |
+| 3 hours | 3 |
+| 5 hours | 6 |
+| 6 hours | 14 |
+| **7 hours** | **26** |
+| **8 hours** | **20** |
+| 9 hours | 3 |
+| 12 hours | 1 |
+
+**Nearly two thirds are seven or eight hours.** Three hours is the shortest on offer — the Kingsland Hotel's 11am–2pm and MSM Arena's 2.30pm–5.30pm — and the longest single slot we found was **10am–10pm, twelve hours**. Nothing shorter than three hours exists, so this is not an hourly product in London whatever the category is called.
+
+**The earliest opening is 7am** and the **latest closing is 11pm**. Between them, the practical shape of the day is: arrive mid-morning, leave before six.
+
+### Filtering for the window you need
+
+Dayuse's filter bar lets you set **time of arrival**, **time of departure** and **duration** independently, which is the fastest way to cut 245 hotels down to the handful that fit a specific gap. Set the arrival time first — it is the constraint that eliminates most of the list, because of that 10am pile-up.
 
 ## The four reasons people actually do it
 
