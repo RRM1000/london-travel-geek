@@ -1,6 +1,6 @@
 {
   "cuisine": "fried-chicken",
-  "note": "",
+  "note": " Wing Fest was seeded, assessed and REMOVED 2026-09-07: it judges festival traders rather than London restaurants and only wings, and its page yielded one name (\"Derby\", a city). Left in it counted as a tier-A voice while contributing nothing, overstating this topic breadth. The full assessment is in data/topics/fried-chicken.json under awardBodiesChecked.",
   "recorded": "2026-09-07",
   "sources": [
     {
@@ -68,6 +68,204 @@
         "Good Friend Chicken",
         "Chicken Valley",
         "CheeMc"
+      ]
+    },
+    {
+      "name": "Fried Chicken Championships 2026",
+      "url": "https://www.friedchickenchampionships.co.uk/fried-chicken-champions",
+      "scope": "fried-chicken",
+      "names": [
+        "20Ft Fried Chicken",
+        "Chick'N'Sours",
+        "Butchies",
+        "Fortune Fried Chicken",
+        "Sides",
+        "Killa Waffles"
+      ],
+      "note": "Names recorded by hand 2026-09-07. The fetcher extracted the award CATEGORY headings (\"The Perfect Platter Award\", \"Bloggers' Choice Award\") instead of the winners beneath them - trap 8 on an award page. These six are the 2026 results as published at /fried-chicken-champions and recorded in data/topics/fried-chicken.json."
+    },
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/restaurants/the-best-fried-chicken-in-london",
+      "scope": "fried-chicken",
+      "names": [
+        "London's best fried chicken",
+        "Honey butter KFC at CheeMc",
+        "Popcorn chicken at Good Friend Chicken",
+        "Spicy wings at Morley's",
+        "Fried buttermilk chicken tenders at Butchies",
+        "Keralan fried chicken (KFC) at Kricket Soho",
+        "Sandos at Lucky's Hot Chicken",
+        "Chicken strips at Fowl",
+        "Sticky nuggets at Chick and Beers"
+      ]
+    },
+    {
+      "name": "The Infatuation",
+      "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london",
+      "scope": "fried-chicken",
+      "names": [
+        "CheeMc",
+        "Maureen's Brixton Kitchen",
+        "Chick King",
+        "Sichuan Fry",
+        "Kaieteur Kitchen",
+        "Normah's",
+        "Manna",
+        "Tongdak New Malden",
+        "Bao",
+        "Imone",
+        "Morley's",
+        "La Barra",
+        "Kricket Soho",
+        "Smoking Goat",
+        "Good Friend",
+        "Eden’s Cottage"
+      ]
+    },
+    {
+      "name": "Evening Standard",
+      "url": "https://www.standard.co.uk/going-out/restaurants/best-fried-chicken-london-b1143323.html",
+      "scope": "fried-chicken",
+      "names": [
+        "Good Friend",
+        "Morley’s",
+        "Koya Ko",
+        "Chick ‘n’ Sours",
+        "Coqfighter",
+        "Chick and Beers",
+        "Mother Clucker",
+        "Eden’s Cottage",
+        "La Barra",
+        "Tonkotsu"
+      ]
+    },
+    {
+      "name": "SquareMeal",
+      "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-fried-chicken-in-london_9214",
+      "scope": "fried-chicken",
+      "names": [
+        "Chicken Shop",
+        "Tanakatsu",
+        "Lucky's Hot Chicken",
+        "BAO",
+        "Popeyes",
+        "Slim Chickens",
+        "Kricket",
+        "Good Friend Chicken",
+        "FOWL by Fallow",
+        "Butchies",
+        "Thunderbird",
+        "Patty & Bun",
+        "Coqfighter"
+      ]
+    },
+    {
+      "name": "Eater London",
+      "url": "https://london.eater.com/maps/best-fried-chicken-london",
+      "scope": "fried-chicken",
+      "names": [
+        "Chick King",
+        "Eden's Cottage",
+        "Popeyes Louisiana Kitchen",
+        "Chick 'n' Sours",
+        "Koya Ko Hackney",
+        "Butchies Shoreditch",
+        "Good Friend Chicken",
+        "BAO Borough",
+        "La Barra",
+        "Rooster's Hut",
+        "Morley’s Fried Chicken",
+        "Chick and Beers"
+      ]
+    },
+    {
+      "name": "The London Economic",
+      "url": "https://www.thelondoneconomic.com/food-drink/ranked-londons-best-chicken-shops-351984/",
+      "scope": "fried-chicken",
+      "names": [
+        "Morley’s",
+        "Chicken Cottage",
+        "Chick ‘n’ Sours",
+        "Butchies",
+        "Favourite",
+        "Sam’s Chicken",
+        "Perfect Fried Chicken",
+        "Chicken Town",
+        "Absurd Bird",
+        "Thunderbird Fried Chicken",
+        "Chicken Shop",
+        "SUPPORT",
+        "Address"
+      ]
+    },
+    {
+      "name": "Hungry Soles",
+      "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london",
+      "scope": "fried-chicken",
+      "names": [
+        "Fowl",
+        "Thunderbird",
+        "Butchies",
+        "Other Side Fried",
+        "Patty and Bun",
+        "Dixy Chicken",
+        "Morley’s",
+        "Lucky’s Hot Chicken",
+        "Meat Liquor",
+        "Fried Chicken Map of London",
+        "The ones that missed the cut…",
+        "Coqfighter",
+        "Chick ‘n’ Sours",
+        "The 12 Best Restaurants on Bermondsey Street",
+        "Mountain"
+      ]
+    },
+    {
+      "name": "Secret London",
+      "url": "https://secretldn.com/best-fried-chicken-london/",
+      "scope": "fried-chicken",
+      "names": [
+        "Coqfighter",
+        "Smoking Goat Chicken Shop",
+        "Chick ‘n’ Sours",
+        "Chick and Beers",
+        "Mother Clucker",
+        "Rooster’s Hut",
+        "Morley’s Fried Chicken",
+        "Chick King",
+        "La Barra",
+        "Eden’s Cottage",
+        "Discover our cities",
+        "Wingmans",
+        "Supawan Thai Food",
+        "Wingstop",
+        "Butchies"
+      ],
+      "alsoAt": [
+        "https://secretldn.com/chicken-wings-london/"
+      ],
+      "note": "Merged 2026-09-07 from 2 pages on one domain (fried chicken and wings). One domain is one source - these are not two opinions."
+    },
+    {
+      "name": "Ideal Magazine",
+      "url": "https://idealmagazine.co.uk/best-fried-chicken-london/",
+      "scope": "fried-chicken",
+      "names": [
+        "Modal title",
+        "Smoking Goat",
+        "Chick-King",
+        "Other Side Fried",
+        "Manna",
+        "Chick ‘n’ Sours",
+        "BAO",
+        "Good Friend Chicken",
+        "Sichuan Fry",
+        "Kricket",
+        "Butchies",
+        "Popeyes",
+        "Morley’s",
+        "Social"
       ]
     }
   ]

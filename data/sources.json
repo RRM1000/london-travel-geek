@@ -1288,6 +1288,25 @@
     "youtube.com/@LondonsBestEats": {
       "name": "London's Best Eats (YouTube)",
       "tier": "D"
+    },
+    "friedchickenchampionships.co.uk": {
+      "name": "Fried Chicken Championships",
+      "tier": "A",
+      "note": "Inaugural January 2026, four judges scoring across five criteria. Results live at /fried-chicken-champions - /winners, /results, /awards, /judges, /shortlist and /finalists all 404, so a slug guess concludes no award exists."
+    },
+    "wingfest.co.uk": {
+      "name": "Wing Fest",
+      "tier": "A",
+      "note": "Judged since 2014, but it judges FESTIVAL TRADERS rather than London restaurants, and only wings. Scope hard before counting, and count Judge's Choice only - People's Choice is a crowd vote. London, Sheffield and Nottingham legs share one archive page."
+    },
+    "standard.co.uk": {
+      "name": "Evening Standard",
+      "tier": "B"
+    },
+    "thelondoneconomic.com": {
+      "name": "The London Economic",
+      "tier": "B",
+      "note": "Its fried chicken list is CHAINS ONLY by its own framing, ranked 1-11, July 2023."
     }
   },
   "excludedWhy": {

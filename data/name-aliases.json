@@ -335,5 +335,14 @@
   "whyFrenchNamesMerge": "Otto's is written with and without 'French Restaurant', and the Soho dining room above the French House pub is listed as 'Upstairs at the French House' by the French guides and as 'The French House' by the gastropub award. One address, one business - merged, and the article says which room each source means. Josephine has three sites and the guides name them three ways.",
   "whyCoffeeNamesMerge": "London coffee shops are written both with and without the trailing word 'Coffee' - Prufrock and Prufrock Coffee, Rosslyn and Rosslyn Coffee, Nostos and Nostos Coffee, Formative and Formative Coffee. Each pair is one business and the corpus was scoring them as two, which cost Prufrock its place at the top of the count. Done pair by pair rather than by stripping the suffix, because Origin Coffee Roasters is not Origin.",
   "whyHotPotNamesMerge": "Hot pot names are transliterated inconsistently and half the sources write them in Chinese first. Shu Xiang Ge appears as Shu Xiangge, Shu Xiang Ge Hot Pot and 蜀香格 across four sources and would otherwise be four one-source venues instead of the joint most-cited independent in the topic. The canonical spelling is the one a reader books under - the English name on the shopfront - with the Chinese name kept as an alias so a diaspora source lands on the same record. DELIBERATELY NOT MERGED: Shan Shui Jian (Limehouse, lamb spine) and Shan Shui Social (a modern Chinese restaurant already on the sheet) are different businesses despite the shared first two syllables; Niu Hot Pot and Nan Hotpot are different venues in different postcodes; Little Lamb Hotpot and Happy Lamb Hot Pot are different brands, and Happy Lamb was founded by the team behind Little Sheep, which is a third brand again.",
-  "whySaidIsItalianBear": "Said dal 1923 and Italian Bear Chocolate are ONE SITE on Broadwick Street in Soho, merged 2026-09-07 on two independent confirmations rather than a hunch. Mostly Food and Travel writes 'Italian Bear (previously SAID DAAL)', and the Places enrichment resolves BOTH names to 'Italian Bear Chocolate - Soho' at W1F 9QL. Italian Bear took over Said's premises. The merge matters: it takes the venue from 7 citations to 9 and makes it the most-cited in the topic, ahead of Dark Sugars on 8."
+  "whySaidIsItalianBear": "Said dal 1923 and Italian Bear Chocolate are ONE SITE on Broadwick Street in Soho, merged 2026-09-07 on two independent confirmations rather than a hunch. Mostly Food and Travel writes 'Italian Bear (previously SAID DAAL)', and the Places enrichment resolves BOTH names to 'Italian Bear Chocolate - Soho' at W1F 9QL. Italian Bear took over Said's premises. The merge matters: it takes the venue from 7 citations to 9 and makes it the most-cited in the topic, ahead of Dark Sugars on 8.",
+  "Butchie's": "Butchies",
+  "Butchies Shoreditch": "Butchies",
+  "Fried buttermilk chicken tenders at Butchies": "Butchies",
+  "Chick 'n' Sours": "Chick'N'Sours",
+  "Chick ‘n’ Sours": "Chick'N'Sours",
+  "Chick n Sours": "Chick'N'Sours",
+  "Good Friend Chicken": "Good Friend",
+  "Spicy wings at Morley's": "Morley's",
+  "Morley’s Fried Chicken": "Morley's"
 }

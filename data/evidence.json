@@ -1275,6 +1275,7 @@
     "name": "Discover our cities",
     "topics": [
       "activities-shoreditch",
+      "fried-chicken",
       "historic-pubs",
       "italian",
       "korean"
@@ -1285,6 +1286,12 @@
     "hasAward": false,
     "byTopic": {
       "activities-shoreditch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "fried-chicken": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -2477,18 +2484,25 @@
     "name": "Smoking Goat",
     "topics": [
       "activities-shoreditch",
+      "fried-chicken",
       "late-night",
       "thai"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B2 C4",
-    "tierCount": 2,
+    "sourceCount": 9,
+    "tierSpread": "B4 C4 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "activities-shoreditch": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "fried-chicken": {
+        "sourceCount": 3,
+        "tierSpread": "B2 D1",
+        "tierCount": 2,
         "hasAward": false
       },
       "late-night": {
@@ -2505,6 +2519,16 @@
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
+      },
       {
         "tier": "B",
         "source": "Time Out",
@@ -2534,6 +2558,11 @@
         "tier": "C",
         "source": "World of Mouth",
         "url": "https://www.worldofmouth.app/articles/best-thai-restaurants-in-london"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
       }
     ]
   },
@@ -8292,25 +8321,62 @@
   "butchies": {
     "name": "Butchie’s",
     "topics": [
-      "activities"
+      "activities",
+      "fried-chicken"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 7,
+    "tierSpread": "A1 B3 C3",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "activities": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "fried-chicken": {
+        "sourceCount": 6,
+        "tierSpread": "A1 B3 C2",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
       {
+        "tier": "A",
+        "source": "Fried Chicken Championships",
+        "url": "https://www.friedchickenchampionships.co.uk/fried-chicken-champions"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-fried-chicken-in-london_9214"
+      },
+      {
+        "tier": "B",
+        "source": "The London Economic",
+        "url": "https://www.thelondoneconomic.com/food-drink/ranked-londons-best-chicken-shops-351984/"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
+      },
+      {
         "tier": "C",
         "source": "The London Mother",
         "url": "https://www.thelondonmother.net/things-to-do-canary-wharf/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-fried-chicken-london/"
       }
     ]
   },
@@ -21116,11 +21182,12 @@
     "topics": [
       "breakfast-brunch",
       "british",
-      "burgers"
+      "burgers",
+      "fried-chicken"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B3 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "breakfast-brunch": {
@@ -21140,6 +21207,12 @@
         "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
+      },
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -21157,6 +21230,11 @@
         "tier": "B",
         "source": "Mob",
         "url": "https://www.mob.co.uk/life/best-burgers-in-london"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
       }
     ]
   },
@@ -23995,17 +24073,24 @@
     "name": "Mountain",
     "topics": [
       "british",
+      "fried-chicken",
       "general",
       "spanish"
     ],
-    "sourceCount": 5,
-    "tierSpread": "A1 B2 C2",
+    "sourceCount": 6,
+    "tierSpread": "A1 B2 C3",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 2,
         "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -24048,6 +24133,11 @@
         "tier": "C",
         "source": "Hot Dinners",
         "url": "https://www.hot-dinners.com/2026060915117/Gastroblog/Latest-news/national-restaurant-awards-revealed-2026-bouchon-racine-number-one"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
       }
     ]
   },
@@ -37483,6 +37573,7 @@
     "name": "Normah’s",
     "topics": [
       "british",
+      "fried-chicken",
       "general"
     ],
     "sourceCount": 3,
@@ -37491,6 +37582,12 @@
     "hasAward": false,
     "byTopic": {
       "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "fried-chicken": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -37512,7 +37609,7 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
       },
       {
         "tier": "B",
@@ -38516,15 +38613,22 @@
     "name": "Koya Ko",
     "topics": [
       "british",
+      "fried-chicken",
       "general",
       "japanese"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "fried-chicken": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -38548,6 +38652,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-fried-chicken-london-b1143323.html"
       },
       {
         "tier": "C",
@@ -40336,6 +40445,7 @@
     "name": "/ Social",
     "topics": [
       "british",
+      "fried-chicken",
       "greek",
       "late-night",
       "new-openings",
@@ -40343,12 +40453,18 @@
       "steak",
       "vietnamese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "fried-chicken": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -40396,6 +40512,11 @@
         "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
       }
     ]
   },
@@ -45499,16 +45620,23 @@
   "manna": {
     "name": "Manna",
     "topics": [
-      "burgers"
+      "burgers",
+      "fried-chicken"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B4",
+    "sourceCount": 5,
+    "tierSpread": "B5",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "burgers": {
         "sourceCount": 4,
         "tierSpread": "B4",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "fried-chicken": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -45533,6 +45661,11 @@
         "tier": "B",
         "source": "Mob",
         "url": "https://www.mob.co.uk/life/best-burgers-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
       }
     ]
   },
@@ -45711,18 +45844,25 @@
     ]
   },
   "meatliquor": {
-    "name": "MEATliquor",
+    "name": "Meat Liquor",
     "topics": [
-      "burgers"
+      "burgers",
+      "fried-chicken"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
+    "sourceCount": 3,
+    "tierSpread": "C3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "burgers": {
         "sourceCount": 2,
         "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -45738,6 +45878,11 @@
         "source": "Visit London",
         "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
         "quote": "#14"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
       }
     ]
   },
@@ -46121,16 +46266,23 @@
     ]
   },
   "pattyandbun": {
-    "name": "Patty & Bun",
+    "name": "Patty and Bun",
     "topics": [
-      "burgers"
+      "burgers",
+      "fried-chicken"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "burgers": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "fried-chicken": {
         "sourceCount": 2,
         "tierSpread": "B1 C1",
         "tierCount": 2,
@@ -46144,10 +46296,20 @@
         "url": "https://www.mob.co.uk/life/best-burgers-in-london"
       },
       {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-fried-chicken-in-london_9214"
+      },
+      {
         "tier": "C",
         "source": "Visit London",
         "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
         "quote": "#6"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
       }
     ]
   },
@@ -46813,16 +46975,23 @@
     "name": "Bao",
     "topics": [
       "chains",
+      "fried-chicken",
       "ice-cream"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
+    "sourceCount": 5,
+    "tierSpread": "B5",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "chains": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "fried-chicken": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
       },
@@ -46839,6 +47008,21 @@
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
         "quote": "#10 of 20"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-fried-chicken-in-london_9214"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
       },
       {
         "tier": "B",
@@ -47192,14 +47376,21 @@
     "name": "Tonkotsu",
     "topics": [
       "chains",
+      "fried-chicken",
       "japanese"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "fried-chicken": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -47218,6 +47409,11 @@
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
         "quote": "#20 of 20"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-fried-chicken-london-b1143323.html"
       },
       {
         "tier": "B",
@@ -53151,17 +53347,24 @@
   "goodfriend": {
     "name": "Good Friend",
     "topics": [
-      "chinese"
+      "chinese",
+      "fried-chicken"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
+    "sourceCount": 8,
+    "tierSpread": "B6 D2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "chinese": {
         "sourceCount": 3,
         "tierSpread": "B3",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "fried-chicken": {
+        "sourceCount": 7,
+        "tierSpread": "B5 D2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -53180,6 +53383,31 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-fried-chicken-london-b1143323.html"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-fried-chicken-london"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Greeno Eats (YouTube)",
+        "url": "https://www.youtube.com/@GreenoEats"
+      },
+      {
+        "tier": "D",
+        "source": "London's Best Eats (YouTube)",
+        "url": "https://www.youtube.com/@LondonsBestEats"
       }
     ]
   },
@@ -66752,6 +66980,1944 @@
       }
     ]
   },
+  "onthebab": {
+    "name": "On The Bab",
+    "topics": [
+      "fried-chicken",
+      "korean"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "C2 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London Best",
+        "url": "https://londonbest.uk/korean-fried-chicken/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/korean-restaurants-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Sorted Food (YouTube)",
+        "url": "https://www.youtube.com/@SortedFood"
+      }
+    ]
+  },
+  "chickenvalley": {
+    "name": "Chicken Valley",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "London's Best Eats (YouTube)",
+        "url": "https://www.youtube.com/@LondonsBestEats"
+      }
+    ]
+  },
+  "cheemc": {
+    "name": "Cheemc",
+    "topics": [
+      "fried-chicken",
+      "korean"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B2 C2 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/the-best-korean-fried-chicken-london"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/korean-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "London Best",
+        "url": "https://londonbest.uk/korean-fried-chicken/"
+      },
+      {
+        "tier": "D",
+        "source": "London's Best Eats (YouTube)",
+        "url": "https://www.youtube.com/@LondonsBestEats"
+      }
+    ]
+  },
+  "20ftfriedchicken": {
+    "name": "20Ft Fried Chicken",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Fried Chicken Championships",
+        "url": "https://www.friedchickenchampionships.co.uk/fried-chicken-champions"
+      }
+    ]
+  },
+  "chicknsours": {
+    "name": "Chick ‘n’ Sours",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "A1 B4 C2",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 7,
+        "tierSpread": "A1 B4 C2",
+        "tierCount": 3,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Fried Chicken Championships",
+        "url": "https://www.friedchickenchampionships.co.uk/fried-chicken-champions"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-fried-chicken-london-b1143323.html"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-fried-chicken-london"
+      },
+      {
+        "tier": "B",
+        "source": "The London Economic",
+        "url": "https://www.thelondoneconomic.com/food-drink/ranked-londons-best-chicken-shops-351984/"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-fried-chicken-london/"
+      }
+    ]
+  },
+  "fortunefriedchicken": {
+    "name": "Fortune Fried Chicken",
+    "topics": [
+      "fried-chicken",
+      "thai"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      },
+      "thai": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Fried Chicken Championships",
+        "url": "https://www.friedchickenchampionships.co.uk/fried-chicken-champions"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/cuisines/thai"
+      }
+    ]
+  },
+  "sides": {
+    "name": "Sides",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Fried Chicken Championships",
+        "url": "https://www.friedchickenchampionships.co.uk/fried-chicken-champions"
+      }
+    ]
+  },
+  "killawaffles": {
+    "name": "Killa Waffles",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Fried Chicken Championships",
+        "url": "https://www.friedchickenchampionships.co.uk/fried-chicken-champions"
+      }
+    ]
+  },
+  "londonsbestfriedchicken": {
+    "name": "London's best fried chicken",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "honeybutterkfcatcheemc": {
+    "name": "Honey butter KFC at CheeMc",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "popcornchickenatgoodfriendchicken": {
+    "name": "Popcorn chicken at Good Friend Chicken",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "spicywingsatmorleys": {
+    "name": "Spicy wings at Morley's",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "friedbuttermilkchickentendersatbutchies": {
+    "name": "Fried buttermilk chicken tenders at Butchies",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "keralanfriedchickenkfcatkricketsoho": {
+    "name": "Keralan fried chicken (KFC) at Kricket Soho",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "sandosatluckyshotchicken": {
+    "name": "Sandos at Lucky's Hot Chicken",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "chickenstripsatfowl": {
+    "name": "Chicken strips at Fowl",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "stickynuggetsatchickandbeers": {
+    "name": "Sticky nuggets at Chick and Beers",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/the-best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "maureensbrixtonkitchen": {
+    "name": "Maureen's Brixton Kitchen",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+      }
+    ]
+  },
+  "chickking": {
+    "name": "Chick King",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-fried-chicken-london"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-fried-chicken-london/"
+      }
+    ]
+  },
+  "sichuanfry": {
+    "name": "Sichuan Fry",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
+      }
+    ]
+  },
+  "kaieteurkitchen": {
+    "name": "Kaieteur Kitchen",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+      }
+    ]
+  },
+  "tongdaknewmalden": {
+    "name": "Tongdak New Malden",
+    "topics": [
+      "fried-chicken",
+      "korean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+      }
+    ]
+  },
+  "imone": {
+    "name": "Imone",
+    "topics": [
+      "fried-chicken",
+      "korean"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C3",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/korean-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "Kingston Compass",
+        "url": "https://kingstoncompass.com/guides/best-korean-food-new-malden/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/korean-restaurants-london/"
+      }
+    ]
+  },
+  "morleys": {
+    "name": "Morley's",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B4 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 5,
+        "tierSpread": "B4 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-fried-chicken-london-b1143323.html"
+      },
+      {
+        "tier": "B",
+        "source": "The London Economic",
+        "url": "https://www.thelondoneconomic.com/food-drink/ranked-londons-best-chicken-shops-351984/"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "labarra": {
+    "name": "La Barra",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-fried-chicken-london-b1143323.html"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-fried-chicken-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-fried-chicken-london/"
+      }
+    ]
+  },
+  "kricketsoho": {
+    "name": "Kricket Soho",
+    "topics": [
+      "fried-chicken",
+      "general"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/bib-gourmands-in-london/"
+      }
+    ]
+  },
+  "edenscottage": {
+    "name": "Eden’s Cottage",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-fried-chicken-london-b1143323.html"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-fried-chicken-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-fried-chicken-london/"
+      }
+    ]
+  },
+  "coqfighter": {
+    "name": "Coqfighter",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-fried-chicken-london-b1143323.html"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-fried-chicken-in-london_9214"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-fried-chicken-london/"
+      }
+    ]
+  },
+  "chickandbeers": {
+    "name": "Chick And Beers",
+    "topics": [
+      "fried-chicken",
+      "korean"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B4 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-fried-chicken-london-b1143323.html"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-fried-chicken-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-korean-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/the-best-korean-fried-chicken-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-fried-chicken-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/korean-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "Kingston Compass",
+        "url": "https://kingstoncompass.com/guides/best-korean-food-new-malden/"
+      }
+    ]
+  },
+  "motherclucker": {
+    "name": "Mother Clucker",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-fried-chicken-london-b1143323.html"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-fried-chicken-london/"
+      }
+    ]
+  },
+  "chickenshop": {
+    "name": "Chicken Shop",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-fried-chicken-in-london_9214"
+      },
+      {
+        "tier": "B",
+        "source": "The London Economic",
+        "url": "https://www.thelondoneconomic.com/food-drink/ranked-londons-best-chicken-shops-351984/"
+      }
+    ]
+  },
+  "tanakatsu": {
+    "name": "Tanakatsu",
+    "topics": [
+      "fried-chicken",
+      "japanese"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-fried-chicken-in-london_9214"
+      },
+      {
+        "tier": "C",
+        "source": "Best Japanese",
+        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
+      }
+    ]
+  },
+  "luckyshotchicken": {
+    "name": "Lucky's Hot Chicken",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-fried-chicken-in-london_9214"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "popeyes": {
+    "name": "Popeyes",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-fried-chicken-in-london_9214"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
+      }
+    ]
+  },
+  "slimchickens": {
+    "name": "Slim Chickens",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-fried-chicken-in-london_9214"
+      }
+    ]
+  },
+  "kricket": {
+    "name": "Kricket",
+    "topics": [
+      "fried-chicken",
+      "indian"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "A1 B3 C1 D2",
+    "tierCount": 4,
+    "hasAward": true,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 5,
+        "tierSpread": "A1 B1 C1 D2",
+        "tierCount": 4,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Soho)"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-fried-chicken-in-london_9214"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw"
+      }
+    ]
+  },
+  "fowlbyfallow": {
+    "name": "FOWL by Fallow",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-fried-chicken-in-london_9214"
+      }
+    ]
+  },
+  "thunderbird": {
+    "name": "Thunderbird",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-fried-chicken-in-london_9214"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "popeyeslouisianakitchen": {
+    "name": "Popeyes Louisiana Kitchen",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-fried-chicken-london"
+      }
+    ]
+  },
+  "koyakohackney": {
+    "name": "Koya Ko Hackney",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-fried-chicken-london"
+      }
+    ]
+  },
+  "butchiesshoreditch": {
+    "name": "Butchies Shoreditch",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-fried-chicken-london"
+      }
+    ]
+  },
+  "baoborough": {
+    "name": "BAO Borough",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-fried-chicken-london"
+      }
+    ]
+  },
+  "roostershut": {
+    "name": "Rooster's Hut",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-fried-chicken-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-fried-chicken-london/"
+      }
+    ]
+  },
+  "morleysfriedchicken": {
+    "name": "Morley’s Fried Chicken",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-fried-chicken-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-fried-chicken-london/"
+      }
+    ]
+  },
+  "chickencottage": {
+    "name": "Chicken Cottage",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The London Economic",
+        "url": "https://www.thelondoneconomic.com/food-drink/ranked-londons-best-chicken-shops-351984/"
+      }
+    ]
+  },
+  "favourite": {
+    "name": "Favourite",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The London Economic",
+        "url": "https://www.thelondoneconomic.com/food-drink/ranked-londons-best-chicken-shops-351984/"
+      }
+    ]
+  },
+  "samschicken": {
+    "name": "Sam’s Chicken",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The London Economic",
+        "url": "https://www.thelondoneconomic.com/food-drink/ranked-londons-best-chicken-shops-351984/"
+      }
+    ]
+  },
+  "perfectfriedchicken": {
+    "name": "Perfect Fried Chicken",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The London Economic",
+        "url": "https://www.thelondoneconomic.com/food-drink/ranked-londons-best-chicken-shops-351984/"
+      }
+    ]
+  },
+  "chickentown": {
+    "name": "Chicken Town",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The London Economic",
+        "url": "https://www.thelondoneconomic.com/food-drink/ranked-londons-best-chicken-shops-351984/"
+      }
+    ]
+  },
+  "absurdbird": {
+    "name": "Absurd Bird",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The London Economic",
+        "url": "https://www.thelondoneconomic.com/food-drink/ranked-londons-best-chicken-shops-351984/"
+      }
+    ]
+  },
+  "thunderbirdfriedchicken": {
+    "name": "Thunderbird Fried Chicken",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The London Economic",
+        "url": "https://www.thelondoneconomic.com/food-drink/ranked-londons-best-chicken-shops-351984/"
+      }
+    ]
+  },
+  "address": {
+    "name": "Address",
+    "topics": [
+      "fried-chicken",
+      "galleries"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "galleries": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The London Economic",
+        "url": "https://www.thelondoneconomic.com/food-drink/ranked-londons-best-chicken-shops-351984/"
+      },
+      {
+        "tier": "C",
+        "source": "Let Me Show You London",
+        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
+      }
+    ]
+  },
+  "fowl": {
+    "name": "Fowl",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "othersidefried": {
+    "name": "Other Side Fried",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "dixychicken": {
+    "name": "Dixy Chicken",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "friedchickenmapoflondon": {
+    "name": "Fried Chicken Map of London",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "onesthatmissedthecut": {
+    "name": "The ones that missed the cut…",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "12bestrestaurantsonbermondseystreet": {
+    "name": "The 12 Best Restaurants on Bermondsey Street",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
+      }
+    ]
+  },
+  "smokinggoatchickenshop": {
+    "name": "Smoking Goat Chicken Shop",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-fried-chicken-london/"
+      }
+    ]
+  },
+  "wingmans": {
+    "name": "Wingmans",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-fried-chicken-london/"
+      }
+    ]
+  },
+  "supawanthaifood": {
+    "name": "Supawan Thai Food",
+    "topics": [
+      "fried-chicken",
+      "thai"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "thai": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-thai-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-fried-chicken-london/"
+      }
+    ]
+  },
+  "wingstop": {
+    "name": "Wingstop",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-fried-chicken-london/"
+      }
+    ]
+  },
+  "modaltitle": {
+    "name": "Modal title",
+    "topics": [
+      "fried-chicken"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
+      }
+    ]
+  },
   "littlefeet": {
     "name": "Little Feet",
     "topics": [
@@ -71490,31 +73656,6 @@
   },
   "email": {
     "name": "Email",
-    "topics": [
-      "galleries"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "galleries": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Let Me Show You London",
-        "url": "https://www.letmeshowyoulondon.com/your-guide-to-art-galleries-in-london/"
-      }
-    ]
-  },
-  "address": {
-    "name": "Address",
     "topics": [
       "galleries"
     ],
@@ -83519,31 +85660,6 @@
       }
     ]
   },
-  "kricketsoho": {
-    "name": "Kricket Soho",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/bib-gourmands-in-london/"
-      }
-    ]
-  },
   "pahlihill": {
     "name": "Pahli Hill",
     "topics": [
@@ -94440,52 +96556,6 @@
       }
     ]
   },
-  "kricket": {
-    "name": "Kricket",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "A1 B1 C1 D2",
-    "tierCount": 4,
-    "hasAward": true,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 5,
-        "tierSpread": "A1 B1 C1 D2",
-        "tierCount": 4,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "British Indian Good Food Guide",
-        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
-        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Soho)"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
-      },
-      {
-        "tier": "D",
-        "source": "Harrison Webb (YouTube)",
-        "url": "https://www.youtube.com/@HarrisonWebb97"
-      },
-      {
-        "tier": "D",
-        "source": "TOPJAW (YouTube)",
-        "url": "https://www.youtube.com/@topjaw"
-      }
-    ]
-  },
   "snitastoppicksfor2026": {
     "name": "Snita's Top Picks for 2026",
     "topics": [
@@ -102765,31 +104835,6 @@
       }
     ]
   },
-  "tanakatsu": {
-    "name": "Tanakatsu",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Best Japanese",
-        "url": "https://best-japanese.co.uk/best-japanese-restaurants-in-london/"
-      }
-    ]
-  },
   "cocoichibanya": {
     "name": "Coco Ichibanya",
     "topics": [
@@ -104222,71 +106267,6 @@
       }
     ]
   },
-  "imone": {
-    "name": "Imone",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C3",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 4,
-        "tierSpread": "B1 C3",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-korean-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/korean-restaurants/"
-      },
-      {
-        "tier": "C",
-        "source": "Kingston Compass",
-        "url": "https://kingstoncompass.com/guides/best-korean-food-new-malden/"
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/korean-restaurants-london/"
-      }
-    ]
-  },
-  "tongdaknewmalden": {
-    "name": "Tongdak New Malden",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-korean-restaurants-london"
-      }
-    ]
-  },
   "jingogae": {
     "name": "Jin Go Gae",
     "topics": [
@@ -104349,46 +106329,6 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-korean-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Kingston Compass",
-        "url": "https://kingstoncompass.com/guides/best-korean-food-new-malden/"
-      }
-    ]
-  },
-  "chickandbeers": {
-    "name": "Chick And Beers",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 4,
-        "tierSpread": "B2 C2",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-korean-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/the-best-korean-fried-chicken-london"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/korean-restaurants/"
       },
       {
         "tier": "C",
@@ -104943,46 +106883,6 @@
         "tier": "C",
         "source": "Secret London",
         "url": "https://secretldn.com/korean-restaurants-london/"
-      }
-    ]
-  },
-  "cheemc": {
-    "name": "Cheemc",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 4,
-        "tierSpread": "B2 C2",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/korean"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/the-best-korean-fried-chicken-london"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/korean-restaurants/"
-      },
-      {
-        "tier": "C",
-        "source": "London Best",
-        "url": "https://londonbest.uk/korean-fried-chicken/"
       }
     ]
   },
@@ -105560,36 +107460,6 @@
         "tier": "C",
         "source": "London Best",
         "url": "https://londonbest.uk/korean-fried-chicken/"
-      }
-    ]
-  },
-  "onthebab": {
-    "name": "On The Bab",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Best",
-        "url": "https://londonbest.uk/korean-fried-chicken/"
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/korean-restaurants-london/"
       }
     ]
   },
@@ -133453,31 +135323,6 @@
       }
     ]
   },
-  "fortunefriedchicken": {
-    "name": "Fortune Fried Chicken",
-    "topics": [
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/thai"
-      }
-    ]
-  },
   "plantsofroselyn": {
     "name": "Plants Of Roselyn",
     "topics": [
@@ -133987,31 +135832,6 @@
   },
   "addiesthai": {
     "name": "Addie's Thai",
-    "topics": [
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-thai-restaurants-in-london/"
-      }
-    ]
-  },
-  "supawanthaifood": {
-    "name": "Supawan Thai Food",
     "topics": [
       "thai"
     ],
