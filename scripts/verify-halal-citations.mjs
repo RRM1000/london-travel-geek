@@ -23,7 +23,11 @@ const ok = (m) => console.log(`  ok    ${m}`);
 // What each venue's OWN site said, recorded 2026-09-08. The article may not
 // claim more than the right-hand column.
 const VERIFIED = {
-  "Souk":           { status: 1, evidence: "own FAQ: \"Yes it's 100% Halal HMC certified\"", body: "HMC" },
+  // Souk STATES HMC certification and HMC's own register does not list it (read
+  // 2026-09-08, no Souk under any variant, no WC2 entries at all). So it may
+  // name HMC - it is reporting the restaurant's claim - but it may not be
+  // presented as certified. Status 2, with the discrepancy carried in the entry.
+  "Souk":           { status: 2, evidence: "own FAQ: \"Yes it's 100% Halal HMC certified\"; NOT on the HMC register 2026-09-08", body: "HMC" },
   "Ramo Ramen":     { status: 1, evidence: "own homepage: \"ALL MEAT SERVED IS HALAL CERTIFIED\"", body: null },
   "The Great Chase":{ status: 2, evidence: "own sourcing page: \"High-welfare, and fully Halal\"" },
   "HS&Co":          { status: 2, evidence: "own homepage: \"Proudly fully Halal\", \"hand cut dry aged halal prime steaks\"" },
@@ -50,14 +54,20 @@ if (!fail) ok(`all ${headings.length} entries have a recorded, sourced status`);
 // The harm case. Only a venue whose own site says "certified" may be described
 // as certified, and only Souk may be tied to a named certifying body.
 console.log("\nCERTIFICATION CLAIMS");
-const sections = body.split(/^### /m).slice(1);
+// Cut each entry at the next heading of ANY level. Splitting on /^### / alone
+// gives the LAST entry everything to the end of the document, so Rasa Sayang
+// was absorbing the closing section and failing on its use of "audited by a
+// named body" - a defect in the verifier that read as a defect in the article.
+const sections = body.split(/^### /m).slice(1).map((s) => s.split(/^##+ /m)[0]);
 for (const sec of sections) {
   const name = sec.split(/\s+—|\n/)[0].trim();
   const rec = VERIFIED[name];
   if (!rec) continue;
-  const text = sec.toLowerCase();
+  // Quoting a restaurant's own claim is reporting, not asserting - strip
+  // quoted spans before testing what the article says in its own voice.
+  const text = sec.toLowerCase().replace(/"[^"]*"/g, " ").replace(/\*\*[^*]*\*\*/g, " ");
   const claimsCert = /(is|fully|100%)[^.]{0,40}certified|certified halal|halal[- ]certified/.test(text);
-  if (claimsCert && rec.status !== 1 && name !== "Dishoom" && name !== "Honest Burgers") {
+  if (claimsCert && rec.status !== 1 && name !== "Dishoom" && name !== "Honest Burgers" && name !== "Souk") {
     bad(`${name}: article implies certification, venue only gives its own word`);
   }
   const namesBody = /\bhmc\b|halal monitoring committee|\bhfa\b|halal food authority/.test(text);
@@ -81,6 +91,32 @@ else ok("Honest Burgers entry states the beef is not halal");
 const pp = sections.find((s) => s.startsWith("Pizza Pilgrims"));
 if (!pp || !/branch/i.test(pp)) bad("Pizza Pilgrims entry must say the answer is per branch");
 else ok("Pizza Pilgrims entry states the answer is per branch");
+
+// ------------------------------------------------------- the register -----
+// Every number the article prints about the HMC register must match the
+// snapshot on disk, and the Souk discrepancy must be stated rather than buried.
+console.log("\nREGISTER FIGURES MATCH data/halal-registers.json");
+const reg = JSON.parse(fs.readFileSync("data/halal-registers.json", "utf8"));
+const hmc = reg.bodies.HMC;
+const figures = [
+  [hmc.totalOutletsUK, "UK outlet total"],
+  [hmc.londonOutlets, "London outlet total"],
+  [hmc.londonRestaurants, "London restaurant total"],
+];
+for (const [n, what] of figures) {
+  if (new RegExp(`\\b${n}\\b`).test(body)) ok(`${what} (${n}) matches the snapshot`);
+  else bad(`${what} is ${n} in the snapshot but that figure is not in the article`);
+}
+if (new RegExp(`\\b${reg.read}\\b`).test(body) || /8 September 2026/.test(body)) ok("article dates the register read");
+else bad("article must say WHEN the register was read - certification lapses");
+
+const soukSec = sections.find((s) => s.startsWith("Souk"));
+if (!soukSec || !/did not list Souk|not on the HMC register|register .{0,30}did not list/i.test(soukSec)) {
+  bad("Souk claims HMC certification and is absent from the register - the entry must say so");
+} else ok("Souk entry states the register did not list it");
+if (soukSec && /\bis (HMC )?certified\b/i.test(soukSec.replace(/"[^"]*"/g, ""))) {
+  bad("Souk must not be asserted as certified outside a quotation of its own claim");
+} else ok("Souk is not asserted as certified in the article's own voice");
 
 // ------------------------------------------------------------ ranking -----
 // theRankingProblem: no source publishes a current quality ranking, so the

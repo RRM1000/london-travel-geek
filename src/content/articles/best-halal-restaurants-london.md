@@ -10,11 +10,13 @@ tags: [restaurants, halal restaurants, dining, Muslim travel, London food]
 draft: true
 faq:
   - q: "What is the best halal restaurant in London?"
-    a: "It depends what you mean by halal, which is the honest answer and the reason this guide is organised the way it is. If you want a restaurant with third-party certification from a named body, Souk in Covent Garden states it is HMC certified. If you want a full dining room where the whole kitchen is halal, The Great Chase in Islington is fine dining with an alcohol-free bar, and HS&Co in Stratford is a British steakhouse working entirely with halal beef. Those are different questions with different answers."
+    a: "It depends what you mean by halal, which is the honest answer and the reason this guide is organised the way it is. If you want independent verification, read the Halal Monitoring Committee's public register — it listed 156 certified restaurants in London when checked on 8 September 2026, including Aziziye in Stoke Newington and Dilara Uyghur in Finsbury Park, and none of them appears in any published best-of list. If you want a full dining room where the whole kitchen is halal on the restaurant's own word, The Great Chase in Islington is fine dining with an alcohol-free bar, and HS&Co in Stratford is a British steakhouse working entirely with halal beef."
   - q: "Is Dishoom halal?"
     a: "Partly, and the popular claim that it is 'verified halal' is wrong. Dishoom's own FAQ says its lamb, chicken and turkey come from halal-certified suppliers and that it holds copies of the certificates. It also serves pork — the bacon naan is one of its best-known dishes — and it is licensed. So the meat you order may be halal-certified while the kitchen around it is not a halal kitchen. Whether that works for you is a personal call, not something a guide should make for you."
   - q: "Are London's halal restaurants certified?"
-    a: "Most are not, and that is normal rather than suspicious. Certification by a body such as the Halal Monitoring Committee is an audit that costs money, and plenty of long-standing halal kitchens simply source halal meat and say so. The distinction worth holding onto is between a restaurant that has been audited, a restaurant giving you its own word, and a restaurant offering a halal option on an otherwise non-halal menu. All three get printed as 'halal' in list articles."
+    a: "156 of them are, and you can check for yourself — the Halal Monitoring Committee publishes its full register at halalhmc.org/outlets-by-name, covering 240 London outlets of which 156 are restaurants and takeaways. Most of the restaurants that appear in magazine round-ups are not on it; certification is an audit that costs money, and plenty of long-standing halal kitchens simply source halal meat and say so. The distinction worth holding onto is between a restaurant that has been audited, a restaurant giving you its own word, and a restaurant offering a halal option on an otherwise non-halal menu. All three get printed as 'halal' in list articles."
+  - q: "Where is the HMC list of halal restaurants in London?"
+    a: "At halalhmc.org/outlets-by-name, free and searchable. Read on 8 September 2026 it held 719 UK outlets, 240 of them in London — 156 restaurants and takeaways, 75 butchers and 9 dessert shops. The London entries are concentrated in east London (78 in E postcodes) and Ilford (24), with clusters in Norbury, Thornton Heath, Stoke Newington and Wembley, and only two in the centre. Note the date you read it: certification lapses and is withdrawn, so a register describes a day rather than a permanent state."
   - q: "Which London chains do halal chicken?"
     a: "Honest Burgers has the most detailed published policy of any chain checked here: all chicken in its restaurants is halal, the supplier's certificate can be requested from a server, halal products are stored separately, handled with separate utensils and gloves, and fried items do not share fryers with non-halal food. Its beef is not halal. Pizza Pilgrims flags 'Halal Options Available' branch by branch, has halal pepperoni and says all its cheese is halal."
   - q: "Where can I eat halal food in London without alcohol being served?"
@@ -39,17 +41,33 @@ Three things get printed as "halal" in list articles and they are not the same:
 
 The sections below follow that order. Alcohol is recorded where the restaurant makes it clear, because readers differ on whether a licensed bar matters — that is a call for you rather than for a guide.
 
-## Certified by a named body
+## The register almost nobody cites
 
-### Souk — North African, and the one that names its certifier
+Britain's strictest halal certifier, the **Halal Monitoring Committee**, publishes its entire list of certified outlets. Anyone can read it. On **8 September 2026** it carried **719 outlets across the UK**, of which **240 are in London** — and **156 of those are restaurants and takeaways**.
+
+Here is the part worth sitting with. Cross-referencing that register against all 132 venues named by the eight published halal guides produces **no matches at all.** Not one. The restaurants London's food media calls the best halal restaurants in the city, and the restaurants that have actually been audited, are two entirely separate populations.
+
+They are separate geographically too. Of the 156 certified restaurants, **78 are in an E postcode and 24 are in Ilford**, with clusters in Norbury, Thornton Heath, Stoke Newington and Wembley. **Two are in central London** — Oodles Wok in Holborn and Tikkas at Oxford Circus. The register is a map of where people actually live and eat, and the listicles are a map of Soho and Mayfair.
+
+Neither list is wrong, exactly. They answer different questions. But if your question is *has anyone independently checked this kitchen*, the published guides — this one included, until you get to this section — are close to useless, and a free public register answers it in seconds.
+
+Some of the better-known certified rooms, to show it is not all chicken shops: **Aziziye** on Stoke Newington Road (N16 8BU), the Turkish restaurant beneath the tiled mosque; **Dilara Uyghur Restaurant** in Finsbury Park (N4 2JF); **Samarkand** in Stoke Newington (N16 7XJ) for Central Asian cooking; **Anatolia** in Leyton (E10 5QN); and **Toro's Steakhouse** in Tooting (SW17 7BA).
+
+**Read it yourself at [halalhmc.org/outlets-by-name](https://halalhmc.org/outlets-by-name/)**, and note the date you read it — certification lapses and is withdrawn, so a register is a statement about a day rather than a permanent fact.
+
+A note on the other body. The **Halal Food Authority** is the UK's other major certifier, but it publishes no consumer-facing list of certified restaurants; its site is built for businesses seeking certification of food production, cosmetics and pharmaceuticals. So HMC's register is the only one a diner can actually check.
+
+## Restaurants that state a certification
+
+### Souk — the only one to name a certifier, and worth one extra check
 
 *££ · Covent Garden · WC2H 9NJ*
 
-Asked "Is your food Halal?" in its own FAQ, Souk answers: **"Yes it's 100% Halal HMC certified."** That is the only restaurant in this entire pass to name the body auditing it. The Halal Monitoring Committee is the stricter of the two main British certifiers, and naming it is a meaningfully different statement from "we use halal meat".
+Asked "Is your food Halal?" in its own FAQ, Souk answers: **"Yes it's 100% Halal HMC certified."** It is the only restaurant across all eight published lists to name the body auditing it, which on the face of it is the strongest halal statement in this guide.
 
-The restaurant has been doing North African cooking in central London **since 1998**, which in this part of town is close to geological. Tagines, couscous and grills, in a low-lit basement room fitted out with lanterns, rugs and cushioned banquettes — the decor commits fully to the theme and is not trying to be subtle about it. It runs a group menu alongside the à la carte, which is what most of the large tables in there are eating.
+One thing to know before you rely on it. **When HMC's public register was read on 8 September 2026 it did not list Souk**, under that name or any variant, and it carried no WC2 entries at all. There are innocent explanations — certification lapses and is renewed, registers run behind, a business may be listed under a company name — and this is not a claim that the restaurant is doing anything wrong. It does mean the certification cannot be confirmed from the certifier's side today, so **treat it as the restaurant's own word and ask when you book** if an audited kitchen is what you specifically need.
 
-It is the answer to a specific question: *where can I eat somewhere that has actually been audited?* On the evidence each restaurant publishes about itself, this is the clearest yes in London's most-listed halal venues.
+The food is not in question. Souk has been cooking North African in central London **since 1998**, which in this part of town is close to geological. **Tagines, couscous and charcoal grills**, in a low-lit basement fitted with lanterns, rugs and cushioned banquettes — the decor commits completely and is not trying to be subtle. There is a group menu alongside the à la carte, which is what most of the big tables are eating, and it is one of the more reliable places in the West End to feed eight people who cannot agree on anything.
 
 ### Ramo Ramen — the world's first Filipino ramen shop, and all its meat is certified
 
@@ -159,6 +177,12 @@ The food is the Chinatown standby for this cooking: **hawker staples done briskl
 
 ## What to do with this
 
-The single most useful habit for halal dining in London is the one this guide was built on: **ask the restaurant, not the list.** Every status above came from the venue's own site, and the gap between what the lists say and what the restaurants say turned out to be the largest of any subject on this site.
+The single most useful habit for halal dining in London is the one this guide was built on: **check the restaurant and the register, not the list.** Every status above came from the venue's own website, and the gap between what the guides say and what the restaurants say turned out to be the largest of any subject on this site.
 
-Two patterns are worth carrying with you. **Multi-branch restaurants answer per branch** — Pizza Pilgrims flags it site by site, and Berenjak went out of its way to confirm that all its London restaurants are covered, precisely because that is not a given. And **certification, sourcing and options are three different claims.** A kitchen that has been audited by a named body, a kitchen giving you its word, and a menu with a halal item on it are not interchangeable, however uniformly the word gets printed.
+Three patterns are worth carrying with you.
+
+**The register is free and nobody uses it.** HMC publishes 156 certified restaurants in London and not one of them appears in any published best-of list. If independent verification is what matters to you, start there and ignore the magazines entirely.
+
+**Multi-branch restaurants answer per branch.** Pizza Pilgrims flags it site by site; Berenjak went out of its way to confirm that all its London restaurants are covered, precisely because that is not a given. Never assume a brand answer applies to the branch you are walking into.
+
+**Certification, sourcing and options are three different claims.** A kitchen audited by a named body, a kitchen giving you its word, and a menu with a halal item on it are not interchangeable, however uniformly the word gets printed. Everything on this page tells you which of the three you are getting, and where it came from.

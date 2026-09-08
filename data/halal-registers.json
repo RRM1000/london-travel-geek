@@ -1,0 +1,1428 @@
+{
+  "read": "2026-09-08",
+  "note": "A register records what a certifier published on the date above. It is not a permanent property of a restaurant - certification lapses and is withdrawn. Re-read before relying on it.",
+  "bodies": {
+    "HMC": {
+      "name": "Halal Monitoring Committee",
+      "url": "https://halalhmc.org/outlets-by-name/",
+      "read": "2026-09-08",
+      "totalOutletsUK": 719,
+      "londonOutlets": 240,
+      "londonRestaurants": 156,
+      "outlets": [
+        {
+          "name": "Abby’s Grill Peri Peri - Norbury",
+          "address": "1340 London Road, Norbury , London, SW16 4DG",
+          "tel": "02087644100",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/abbys-grill-peri-peri-norbury/",
+          "zone": "inner",
+          "postcode": "SW16 4DG"
+        },
+        {
+          "name": "Adana Turkish with Fusion",
+          "address": "267 Bethnal Green Road, Bethnal Green, London, E2 6AH",
+          "tel": "02070333808",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/adana-turkish-with-fusion/",
+          "zone": "inner",
+          "postcode": "E2 6AH"
+        },
+        {
+          "name": "Affogato",
+          "address": "1457 London Road, Norbury , London, SW16 4AQ",
+          "tel": "02036201815",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/affogato/",
+          "zone": "inner",
+          "postcode": "SW16 4AQ"
+        },
+        {
+          "name": "Afrikana - Stepney Green",
+          "address": "231 Mile End Road, Stepney Green, London, E1 4AA",
+          "tel": "02077027347",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/afrikana-stepney-green/",
+          "zone": "inner",
+          "postcode": "E1 4AA"
+        },
+        {
+          "name": "Al-Hyderabadi Mandi Biryani",
+          "address": "1074 Uxbridge Road, Hayes, London, UB4 0RJ",
+          "tel": "02088480764",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/al-hyderabadi-mandi-biryani/",
+          "zone": "outer",
+          "postcode": "UB4 0RJ"
+        },
+        {
+          "name": "A'la Pizza - Forest Gate",
+          "address": "28 Upton Lane, Forest Gate, London, E7 9LN",
+          "tel": "02085866688",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/ala-pizza-forest-gate/",
+          "zone": "inner",
+          "postcode": "E7 9LN"
+        },
+        {
+          "name": "Aladin's Kebabish",
+          "address": "147 - 149 West Hendon Broadway, West Hendon, London, NW9 7EA",
+          "tel": "020 8203 9777",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/aladins-kebabish/",
+          "zone": "inner",
+          "postcode": "NW9 7EA"
+        },
+        {
+          "name": "AM Fast Food Ltd t/a Freddy's",
+          "address": "1 High Street, South Norwood , London, SE25 6EP",
+          "tel": "02080509901",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/am-fast-food-ltd-t-a-freddys/",
+          "zone": "inner",
+          "postcode": "SE25 6EP"
+        },
+        {
+          "name": "Anatolia Restaurant",
+          "address": "277 High Road, Leyton, London, E10 5QN",
+          "tel": "02085580401",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/anatolia-restaurant/",
+          "zone": "inner",
+          "postcode": "E10 5QN"
+        },
+        {
+          "name": "Asian Khana",
+          "address": "47 Upton Lane, Forest Gate, London, E7 9PA",
+          "tel": "07448067611",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/asian-khana/",
+          "zone": "inner",
+          "postcode": "E7 9PA"
+        },
+        {
+          "name": "Aziziye Restaurant - Stoke Newington",
+          "address": "117 - 119 Stoke Newington Road, Stoke Newington, London, N16 8BU",
+          "tel": "02072547475",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/aziziye-restaurant-stoke-newington/",
+          "zone": "inner",
+          "postcode": "N16 8BU"
+        },
+        {
+          "name": "BAITHAK804",
+          "address": "722 High Road, Leytonstone, London, E11 3AJ",
+          "tel": "02087111740",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/baithak804/",
+          "zone": "inner",
+          "postcode": "E11 3AJ"
+        },
+        {
+          "name": "Balkh Restaurant Ltd",
+          "address": "89 - 91 Kenton Road, Harrow, London, HA3 0AN",
+          "tel": "02089070444",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/balkh-restaurant-ltd/",
+          "zone": "outer",
+          "postcode": "HA3 0AN"
+        },
+        {
+          "name": "Baraka Eatery",
+          "address": "London Muslim Centre, 38 - 40 Whitechapel Road, Whitechapel, London, E1 1JX",
+          "tel": "02074260550",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/baraka-eatery/",
+          "zone": "inner",
+          "postcode": "E1 1JX"
+        },
+        {
+          "name": "BBQ Express - Stratford",
+          "address": "47 Leytonstone Road, Stratford, London, E15 1JA",
+          "tel": "02085552626",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/bbq-express-stratford/",
+          "zone": "inner",
+          "postcode": "E15 1JA"
+        },
+        {
+          "name": "BBQ XPress - Leyton",
+          "address": "826 High Road, Leyton, London, E10 6AE",
+          "tel": "02085585343",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/bbq-xpress-leyton/",
+          "zone": "inner",
+          "postcode": "E10 6AE"
+        },
+        {
+          "name": "Big Mama's - Ilford",
+          "address": "117 Belgrave Road, Ilford, London, IG1 3LG",
+          "tel": "02085541212",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/big-mamas-ilford/",
+          "zone": "outer",
+          "postcode": "IG1 3LG"
+        },
+        {
+          "name": "Big Moo",
+          "address": "1 Thornton Road, Thornton Heath, London, CR7 6BD",
+          "tel": "02081666926",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/big-moo/",
+          "zone": "outer",
+          "postcode": "CR7 6BD"
+        },
+        {
+          "name": "Bim's",
+          "address": "131 High Street North, East Ham, London, E6 1HZ",
+          "tel": "02085523714",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/bims/",
+          "zone": "inner",
+          "postcode": "E6 1HZ"
+        },
+        {
+          "name": "Birria Bby",
+          "address": "Pod 15 - Unit A, 964 North Circular Road, Staples Corner, London, NW2 7JR",
+          "tel": "07903673414",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/birria-bby/",
+          "zone": "inner",
+          "postcode": "NW2 7JR"
+        },
+        {
+          "name": "Biters",
+          "address": "172 North End, West Croydon, Croydon, CR0 1UF",
+          "tel": "07931938337",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/biters/",
+          "zone": "outer",
+          "postcode": "CR0 1UF"
+        },
+        {
+          "name": "Café Adda",
+          "address": "147 Green Street, Forest Gate, London, E7 8JE",
+          "tel": "02037946305",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/cafe-adda/",
+          "zone": "inner",
+          "postcode": "E7 8JE"
+        },
+        {
+          "name": "Casablanca Cafe Ltd",
+          "address": "36 Whitechapel Road, Whitechapel, London, E1 1JX",
+          "tel": "02073771441",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/casablanca-cafe-ltd/",
+          "zone": "inner",
+          "postcode": "E1 1JX"
+        },
+        {
+          "name": "Charminar Restaurant",
+          "address": "88 Katherine Road, East Ham, London, E6 1EN",
+          "tel": "02084728888",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/charminar-restaurant/",
+          "zone": "inner",
+          "postcode": "E6 1EN"
+        },
+        {
+          "name": "Charminar Restaurant Leyton",
+          "address": "139 High Road, Leyton, London, E15 2DE",
+          "tel": "07459056057",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/charminar-restaurant-leyton/",
+          "zone": "inner",
+          "postcode": "E15 2DE"
+        },
+        {
+          "name": "Charminar Restaurant - Upton Park",
+          "address": "245 Plashet Road, Upton Park, London, E13 0QU",
+          "tel": "02033373406",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/charminar-restaurant-upton-park/",
+          "zone": "inner",
+          "postcode": "E13 0QU"
+        },
+        {
+          "name": "Charsi Karahi",
+          "address": "1553 London Road, London, SW16 4AD",
+          "tel": "02036204898",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/charsi-karahi/",
+          "zone": "inner",
+          "postcode": "SW16 4AD"
+        },
+        {
+          "name": "Chaskaa’s",
+          "address": "265 Bethnal Green Road, Bethnal Green, London, E2 6AH",
+          "tel": "02070121233",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/chaskaas/",
+          "zone": "inner",
+          "postcode": "E2 6AH"
+        },
+        {
+          "name": "Cheffin",
+          "address": "111 Belgrave Road, Ilford, London, IG1 3LG",
+          "tel": "02086374662",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/cheffin/",
+          "zone": "outer",
+          "postcode": "IG1 3LG"
+        },
+        {
+          "name": "Chicken Cottage - Norbury",
+          "address": "1426 London Road, Norbury, London, SW16 4BZ",
+          "tel": "02086799938",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/chicken-cottage-norbury/",
+          "zone": "inner",
+          "postcode": "SW16 4BZ"
+        },
+        {
+          "name": "Chicken Spot",
+          "address": "392 Hoe Street, Walthamstow, London, E17 9AA",
+          "tel": "02085211786",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/chicken-spot/",
+          "zone": "inner",
+          "postcode": "E17 9AA"
+        },
+        {
+          "name": "Chico’s",
+          "address": "28 Osborn Street, Aldgate, London, E1 6TD",
+          "tel": "02037309534",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/chicos/",
+          "zone": "inner",
+          "postcode": "E1 6TD"
+        },
+        {
+          "name": "Chico's Express",
+          "address": "145 - 147 Edgware Road, Tyburnia, London, W2 2HR",
+          "tel": "02036337907",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/chicos-express/",
+          "zone": "inner",
+          "postcode": "W2 2HR"
+        },
+        {
+          "name": "Chico's Flame Grilled Chicken",
+          "address": "349 - 351 Barking Road, East Ham, London, E6 1LA",
+          "tel": "02085523175",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/chicos-flame-grilled-chicken/",
+          "zone": "inner",
+          "postcode": "E6 1LA"
+        },
+        {
+          "name": "Chico's Leyton",
+          "address": "706 Lea Bridge Road, Leyton, London, E10 6AW",
+          "tel": "02038740406",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/chicos-leyton/",
+          "zone": "inner",
+          "postcode": "E10 6AW"
+        },
+        {
+          "name": "Chico's Wood Green Ltd",
+          "address": "Unit 3, 679 Green Lane, Wood Green, London, N8 0QY",
+          "tel": "02083741761",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/chicos-wood-green-ltd/",
+          "zone": "inner",
+          "postcode": "N8 0QY"
+        },
+        {
+          "name": "Cobblers Café",
+          "address": "241 Fore Street, Edmonton, London, N18 2TY",
+          "tel": "02039720069",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/cobblers-cafe/",
+          "zone": "inner",
+          "postcode": "N18 2TY"
+        },
+        {
+          "name": "Cobblers Cafe & Bistro",
+          "address": "14 Chapel Road, Ilford, London, IG1 2AG",
+          "tel": "02080545258",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/cobblers-cafe-bistro/",
+          "zone": "outer",
+          "postcode": "IG1 2AG"
+        },
+        {
+          "name": "Coconut Tree",
+          "address": "Kiosk 32, Unit C 399 Edgware Road, Colindale, London, NW9 0FH",
+          "tel": "07438935891",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/coconut-tree/",
+          "zone": "inner",
+          "postcode": "NW9 0FH"
+        },
+        {
+          "name": "Crave Pizza",
+          "address": "345 Ley Street, Ilford, London, IG1 4AA",
+          "tel": "07788989174",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/crave-pizza/",
+          "zone": "outer",
+          "postcode": "IG1 4AA"
+        },
+        {
+          "name": "Dawat Norbury",
+          "address": "1416 - 1418 London Road, Norbury, London, SW16 4BZ",
+          "tel": "02086792222",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/dawat-norbury/",
+          "zone": "inner",
+          "postcode": "SW16 4BZ"
+        },
+        {
+          "name": "Deccan Bahar",
+          "address": "79 Green Street, Forest Gate, London, E7 8JF",
+          "tel": "02039765216",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/deccan-bahar-2/",
+          "zone": "inner",
+          "postcode": "E7 8JF"
+        },
+        {
+          "name": "Desi Biryani",
+          "address": "222 Northolt Road, South Harrow, London, HA2 8DU",
+          "tel": "02088646400",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/desi-biryani/",
+          "zone": "outer",
+          "postcode": "HA2 8DU"
+        },
+        {
+          "name": "Desi Chaska",
+          "address": "748 London Road, Thornton Heath, London, CR7 6JA",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/desi-chaska/",
+          "zone": "outer",
+          "postcode": "CR7 6JA"
+        },
+        {
+          "name": "Dilara Uyghur Restaurant",
+          "address": "27 Blackstock Road, Finsbury Park, London, N4 2JF",
+          "tel": "02072262446",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/dilara-uyghur-restaurant/",
+          "zone": "inner",
+          "postcode": "N4 2JF"
+        },
+        {
+          "name": "Dixy Chicken - 198 High St North, East Ham",
+          "address": "198 High Street North, East Ham, London, E6 2JA",
+          "tel": "02084729564",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/dixy-chicken-198-high-st-north-east-ham/",
+          "zone": "inner",
+          "postcode": "E6 2JA"
+        },
+        {
+          "name": "Dixy Chicken - Barking Road, East Ham",
+          "address": "282 Barking Road, East Ham, London, E6 3BA",
+          "tel": "02084710900",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/dixy-chicken-barking-road-east-ham/",
+          "zone": "inner",
+          "postcode": "E6 3BA"
+        },
+        {
+          "name": "Dragon's Den",
+          "address": "111 New Road, Whitechapel, London, E1 1HJ",
+          "tel": "02034414550",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/dragons-den/",
+          "zone": "inner",
+          "postcode": "E1 1HJ"
+        },
+        {
+          "name": "E12 Chicken & Pizza",
+          "address": "817 Romford Road, Manor Park, London, E12 6EA",
+          "tel": "02034416170",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/e12-chicken-pizza/",
+          "zone": "inner",
+          "postcode": "E12 6EA"
+        },
+        {
+          "name": "Fatty Patty",
+          "address": "108 Lower Clapton Road, Lower Clapton, London, E5 0QR",
+          "tel": "02033455354",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/fatty-patty/",
+          "zone": "inner",
+          "postcode": "E5 0QR"
+        },
+        {
+          "name": "Franzos - Walthamstow",
+          "address": "38 - 40 St James Street, Walthamstow, London, E17 7PE",
+          "tel": "02039765143",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/franzos-walthamstow/",
+          "zone": "inner",
+          "postcode": "E17 7PE"
+        },
+        {
+          "name": "Galito's Piri Piri - Streatham",
+          "address": "422 - 424 Streatham High Road, Streatham, London, SW16 3SN",
+          "tel": "02081270756",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/galitos-piri-piri-streatham/",
+          "zone": "inner",
+          "postcode": "SW16 3SN"
+        },
+        {
+          "name": "Godavari",
+          "address": "315 High Street North, East Ham, London, E12 6SL",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/godavari/",
+          "zone": "inner",
+          "postcode": "E12 6SL"
+        },
+        {
+          "name": "Greedy Panda",
+          "address": "8 Farr Avenue, Barking, London, IG11 0NZ",
+          "tel": "02085913355",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/greedy-panda/",
+          "zone": "outer",
+          "postcode": "IG11 0NZ"
+        },
+        {
+          "name": "Grill Heist",
+          "address": "401 Katherine Road, Forest Gate, London, E7 8LT",
+          "tel": "02085524999",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/grill-heist/",
+          "zone": "inner",
+          "postcode": "E7 8LT"
+        },
+        {
+          "name": "Griller - Norbury",
+          "address": "1420 London Road, Norbury, London, SW16 4BZ",
+          "tel": "02087647777",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/griller-norbury/",
+          "zone": "inner",
+          "postcode": "SW16 4BZ"
+        },
+        {
+          "name": "Hot n' Spicy - Hayes",
+          "address": "72 Coldharbour Lane, Hayes, London, UB3 3ES",
+          "tel": "02085736020",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/hot-n-spicy-hayes/",
+          "zone": "outer",
+          "postcode": "UB3 3ES"
+        },
+        {
+          "name": "Hot n Spicy Southall",
+          "address": "26 The Broadway, Southall, London, UB1 1PS",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/hot-n-spicy-southall/",
+          "zone": "outer",
+          "postcode": "UB1 1PS"
+        },
+        {
+          "name": "Hot Spot Grill",
+          "address": "339 Lower Addiscombe Road, Croydon, CR0 6RG",
+          "tel": "02034905005",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/hot-spot-grill/",
+          "zone": "outer",
+          "postcode": "CR0 6RG"
+        },
+        {
+          "name": "Hyderabad Darbar",
+          "address": "105 Ilford Lane, Ilford, London, IG1 2RJ",
+          "tel": "02085533343",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/hyderabad-darbar/",
+          "zone": "outer",
+          "postcode": "IG1 2RJ"
+        },
+        {
+          "name": "Hyderabad Darbar",
+          "address": "60 - 62 Green Street, Upton Park, London, E7 8JG",
+          "tel": "02085488877",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/hyderabad-darbar-2/",
+          "zone": "inner",
+          "postcode": "E7 8JG"
+        },
+        {
+          "name": "Hyderabad Wala",
+          "address": "407 Barking Road, East Ham, London, E6 2JT",
+          "tel": "02034759899",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/hyderabad-wala-3/",
+          "zone": "inner",
+          "postcode": "E6 2JT"
+        },
+        {
+          "name": "Hyderabadi Dum Biryani",
+          "address": "214 West Hendon Broadway, West Hendon, London, NW9 7EE",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/hyderabadi-dum-biryani/",
+          "zone": "inner",
+          "postcode": "NW9 7EE"
+        },
+        {
+          "name": "Hyderabadi Mehfil",
+          "address": "290 Ilford Lane, Ilford, London, IG1 2LP",
+          "tel": "02086373224",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/hyderabadi-mehfil/",
+          "zone": "outer",
+          "postcode": "IG1 2LP"
+        },
+        {
+          "name": "Hyderabadwala",
+          "address": "112 Cranbrook Road, London, IG1 4LZ",
+          "tel": "02034759699",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/hyderabadwala-2/",
+          "zone": "outer",
+          "postcode": "IG1 4LZ"
+        },
+        {
+          "name": "Iman Restaurant & Takeaway",
+          "address": "827 - 829 High Road, Goodmayes, London, IG3 8TD",
+          "tel": "02085909528",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/iman-restaurant-takeaway/",
+          "zone": "outer",
+          "postcode": "IG3 8TD"
+        },
+        {
+          "name": "IYI Luxury On Flames",
+          "address": "770 Green Lane, Dagenham, London, RM8 1YT",
+          "tel": "07805552151",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/iyi-luxury-on-flames/",
+          "zone": "outer",
+          "postcode": "RM8 1YT"
+        },
+        {
+          "name": "Jumbo Grill & Pizza",
+          "address": "66 Plashet Road, Upton Park, London, E13 0RQ",
+          "tel": "02084727637",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/jumbo-grill-pizza/",
+          "zone": "inner",
+          "postcode": "E13 0RQ"
+        },
+        {
+          "name": "Jungle Braai",
+          "address": "115 Wood Street, Walthamstow , London, E17 3LL",
+          "tel": "02085215050",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/jungle-braai/",
+          "zone": "inner",
+          "postcode": "E17 3LL"
+        },
+        {
+          "name": "K O Kebabish Original - East Ham (High St North)",
+          "address": "323 High Street North, East Ham, London, E12 6PQ",
+          "tel": "02084729086",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/k-o-kebabish-original-east-ham-high-st-north/",
+          "zone": "inner",
+          "postcode": "E12 6PQ"
+        },
+        {
+          "name": "K O Kebabish Original (Leyton)",
+          "address": "692 High Road, Leyton, London, E10 6JP",
+          "tel": "02085398448",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/k-o-kebabish-original-leyton/",
+          "zone": "inner",
+          "postcode": "E10 6JP"
+        },
+        {
+          "name": "Kar-Woo 2 Ltd",
+          "address": "14 - 16 St George’s Road, Forest Gate, London, E7 8HY",
+          "tel": "02085525602",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/kar-woo-2-ltd/",
+          "zone": "inner",
+          "postcode": "E7 8HY"
+        },
+        {
+          "name": "Karwoo Ilford Ltd",
+          "address": "122 Fanshaw Avenue, Barking, London, IG11 8RQ",
+          "tel": "02038871794",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/karwoo-ilford-ltd/",
+          "zone": "outer",
+          "postcode": "IG11 8RQ"
+        },
+        {
+          "name": "Kebabish - Harrow",
+          "address": "229 Northolt Road, Harrow, London, HA2 8HN",
+          "tel": "02036029500",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/kebabish-harrow/",
+          "zone": "outer",
+          "postcode": "HA2 8HN"
+        },
+        {
+          "name": "Kebabish - Southall",
+          "address": "44 The Broadway, Southall, London, UB1 1QB",
+          "tel": "02085717702",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/kebabish-southall/",
+          "zone": "outer",
+          "postcode": "UB1 1QB"
+        },
+        {
+          "name": "Khana Khazana",
+          "address": "222 - 224 Green Street, Forest Gate, London, E7 8LE",
+          "tel": "02035001500",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/khana-khazana/",
+          "zone": "inner",
+          "postcode": "E7 8LE"
+        },
+        {
+          "name": "KuKu Kebab House",
+          "address": "46 Thornton Road, Thornton Heath, London, CR7 6BA",
+          "tel": "02086657464",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/kuku-kebab-house/",
+          "zone": "outer",
+          "postcode": "CR7 6BA"
+        },
+        {
+          "name": "Kung Pao Panda Ltd",
+          "address": "259a Bethnal Green Road, Bethnal Green, London, E2 6AH",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/kung-pao-panda-ltd/",
+          "zone": "inner",
+          "postcode": "E2 6AH"
+        },
+        {
+          "name": "Lahori Spicy Biryani House",
+          "address": "342 Katherine Road, Forest Gate, London, E7 8NW",
+          "tel": "02084717469",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/lahori-spicy-biryani-house/",
+          "zone": "inner",
+          "postcode": "E7 8NW"
+        },
+        {
+          "name": "Lala's Grill & Restaurant",
+          "address": "345 Barking Road, East Ham, London, E6 1LA",
+          "tel": "02080143800",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/lalas-grill-restaurant/",
+          "zone": "inner",
+          "postcode": "E6 1LA"
+        },
+        {
+          "name": "Leytonstone Kebabish",
+          "address": "755 High Road, Leytonstone, London, E11 4QS",
+          "tel": "02085589322",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/leytonstone-kebabish/",
+          "zone": "inner",
+          "postcode": "E11 4QS"
+        },
+        {
+          "name": "Madina Charcoal Grill",
+          "address": "4a Grove Road, Mile End, London, E3 5AX",
+          "tel": "02089810333",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/madina-charcoal-grill/",
+          "zone": "inner",
+          "postcode": "E3 5AX"
+        },
+        {
+          "name": "Madina Grill House",
+          "address": "85a Upton Lane, Forest Gate, London, E7 9PB",
+          "tel": "02085867027",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/madina-grill-house/",
+          "zone": "inner",
+          "postcode": "E7 9PB"
+        },
+        {
+          "name": "Maedah Grill",
+          "address": "42 Fieldgate Street, Whitechapel, London, E1 1ES",
+          "tel": "02073770649",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/maedah-grill/",
+          "zone": "inner",
+          "postcode": "E1 1ES"
+        },
+        {
+          "name": "Mahdi Restaurant",
+          "address": "217 Kings Street, Hammersmith, London, W6 9JT",
+          "tel": "02085637007",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/mahdi-restaurant/",
+          "zone": "inner",
+          "postcode": "W6 9JT"
+        },
+        {
+          "name": "Mainland Madras",
+          "address": "250 - 252 High Street North, London, E12 6SB",
+          "tel": "02033407219",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/mainland-madras/",
+          "zone": "inner",
+          "postcode": "E12 6SB"
+        },
+        {
+          "name": "Majabi Grill",
+          "address": "25 - 27 Greatorex Street, Aldgate, London, E1 5NP",
+          "tel": "02072474279",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/majabi-grill/",
+          "zone": "inner",
+          "postcode": "E1 5NP"
+        },
+        {
+          "name": "Marhabba Restaurant",
+          "address": "31 Vicarage Lane, Stratford, London, E15 4HG",
+          "tel": "07538288886",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/marhabba-restaurant/",
+          "zone": "inner",
+          "postcode": "E15 4HG"
+        },
+        {
+          "name": "Marokand",
+          "address": "431 Roman Road, Bow, London, E3 5LX",
+          "tel": "07999899377",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/marokand/",
+          "zone": "inner",
+          "postcode": "E3 5LX"
+        },
+        {
+          "name": "Masala Chai Nashta",
+          "address": "90 Upton Lane, Forest Gate, London, E7 9LW",
+          "tel": "07400730132",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/masala-chai-nashta/",
+          "zone": "inner",
+          "postcode": "E7 9LW"
+        },
+        {
+          "name": "MBR Aashish Chinese Ltd",
+          "address": "118 Upton Lane, Forest Gate, London, E7 9LW",
+          "tel": "02037455518",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/mbr-aashish-chinese-ltd/",
+          "zone": "inner",
+          "postcode": "E7 9LW"
+        },
+        {
+          "name": "Mr Peri’s",
+          "address": "1336 London Road, Norbury, London, SW16 4DG",
+          "tel": "02034097748",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/mr-peris/",
+          "zone": "inner",
+          "postcode": "SW16 4DG"
+        },
+        {
+          "name": "Mr T's - Ilford",
+          "address": "Unit 1, The Exhange, High Road, Ilford, London, IG1 1RS",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/mr-ts-ilford/",
+          "zone": "outer",
+          "postcode": "IG1 1RS"
+        },
+        {
+          "name": "Mr Wongs Wok & Box",
+          "address": "237 Mile End Road, Stepney, London, E1 4AA",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/mr-wongs-wok-box/",
+          "zone": "inner",
+          "postcode": "E1 4AA"
+        },
+        {
+          "name": "Muku's HotPot",
+          "address": "300 Hoe Street, Walthamstow, London, E17 9QD",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/mukus-hotpot/",
+          "zone": "inner",
+          "postcode": "E17 9QD"
+        },
+        {
+          "name": "Oodles Chinese - Walthamstow",
+          "address": "492 Hoe Street, London, E17 9AH",
+          "tel": "02085583522",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/oodles-chinese-walthamstow/",
+          "zone": "inner",
+          "postcode": "E17 9AH"
+        },
+        {
+          "name": "Oodles Wok Holborn",
+          "address": "Ground Floor, 16 Procter Street, Holborn, London, WC1V 6NX",
+          "tel": "02072424200",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/oodles-wok-holborn/",
+          "zone": "inner",
+          "postcode": "WC1V 6NX"
+        },
+        {
+          "name": "Original Haji Nanna's Biryani",
+          "address": "14 Whitechapel Road, Whitechapel, London, E1 1EW",
+          "tel": "02073753998",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/original-haji-nannas-biryani/",
+          "zone": "inner",
+          "postcode": "E1 1EW"
+        },
+        {
+          "name": "Original Haji Nanna's Biryani - Ilford",
+          "address": "217 Cranbrook Road, Ilford, London, IG1 4TD",
+          "tel": "02046364028",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/original-haji-nannas-biryani-ilford/",
+          "zone": "outer",
+          "postcode": "IG1 4TD"
+        },
+        {
+          "name": "Panda's Kitchen",
+          "address": "396 Katherine Road, Forest Gate, London, E7 8NW",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/pandas-kitchen/",
+          "zone": "inner",
+          "postcode": "E7 8NW"
+        },
+        {
+          "name": "Penang City",
+          "address": "61 Upton Lane, Forest Gate, London, E7 9PB",
+          "tel": "02036334349",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/penang-city/",
+          "zone": "inner",
+          "postcode": "E7 9PB"
+        },
+        {
+          "name": "Pepe's Piri Piri - Harrow (Station Road)",
+          "address": "245 Station Road, Harrow, London, HA1 2TB",
+          "tel": "02088633111",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/pepes-piri-piri-harrow-station-road/",
+          "zone": "outer",
+          "postcode": "HA1 2TB"
+        },
+        {
+          "name": "Pepe's Piri Piri - Gants Hill",
+          "address": "527 Cranbrook Road, Gants Hill, London, IG2 6HA",
+          "tel": "02085541618",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/pepes-piri-piri-ilford/",
+          "zone": "outer",
+          "postcode": "IG2 6HA"
+        },
+        {
+          "name": "Pepe's Piri Piri - Wembley",
+          "address": "413 - 415 High Road, Wembley, London, HA9 7AB",
+          "tel": "02089009711",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/pepes-piri-piri-wembley/",
+          "zone": "outer",
+          "postcode": "HA9 7AB"
+        },
+        {
+          "name": "Pista House London",
+          "address": "387 Barking Road, East Ham, London, E6 2JT",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/pista-house-london/",
+          "zone": "inner",
+          "postcode": "E6 2JT"
+        },
+        {
+          "name": "Pizza Planet",
+          "address": "114 Beaconsfield Road, Southall, London, UB1 1RP",
+          "tel": "02086069950",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/pizza-planet/",
+          "zone": "outer",
+          "postcode": "UB1 1RP"
+        },
+        {
+          "name": "Real Desi Dhaba",
+          "address": "888 London Road, Thornton Heath, London, CR7 7PB",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/real-desi-dhaba/",
+          "zone": "outer",
+          "postcode": "CR7 7PB"
+        },
+        {
+          "name": "RK Grill's",
+          "address": "142 Church Road, Manor Park, London, E12 6HL",
+          "tel": "02045424409",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/rk-grills/",
+          "zone": "inner",
+          "postcode": "E12 6HL"
+        },
+        {
+          "name": "Roadhouse Grill Ltd",
+          "address": "242 High Road, Chadwell Heath, London, RM6 6AP",
+          "tel": "02082625674",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/roadhouse-grill-ltd/",
+          "zone": "outer",
+          "postcode": "RM6 6AP"
+        },
+        {
+          "name": "Roadhouse Grill Ltd",
+          "address": "3 State Parade, High Street, Barkingside, London, IG6 2EY",
+          "tel": "02080759775",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/roadhouse-grill-ltd-2/",
+          "zone": "outer",
+          "postcode": "IG6 2EY"
+        },
+        {
+          "name": "Royal Chef",
+          "address": "223 High Street North, East Ham, London, E6 1JG",
+          "tel": "02032940261",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/royal-chef/",
+          "zone": "inner",
+          "postcode": "E6 1JG"
+        },
+        {
+          "name": "Royal Chef Express",
+          "address": "17 Grays Corner, Ley street , Newbury Park, London, IG2 7RQ",
+          "tel": "02085541041",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/royal-chef-express/",
+          "zone": "outer",
+          "postcode": "IG2 7RQ"
+        },
+        {
+          "name": "Royal Hyderabadi Cuisine",
+          "address": "56 High Road, Wood Green, London, N22 6BX",
+          "tel": "02034411771",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/royal-hyderabadi-cuisine/",
+          "zone": "inner",
+          "postcode": "N22 6BX"
+        },
+        {
+          "name": "Royal Kebabish",
+          "address": "20 Hoe Street, Walthamstow, London, E17 4PH",
+          "tel": "02045686717",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/royal-kebabish/",
+          "zone": "inner",
+          "postcode": "E17 4PH"
+        },
+        {
+          "name": "Royal Mahal",
+          "address": "1538 - 1540 London Road, Norbury, London, SW16 4EU",
+          "tel": "02036495022",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/royal-mahal/",
+          "zone": "inner",
+          "postcode": "SW16 4EU"
+        },
+        {
+          "name": "Royal Mahal",
+          "address": "32 - 36 Upper Tooting Road, Tooting, London, SW17 7PD",
+          "tel": "02082655882",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/royal-mahal-2/",
+          "zone": "inner",
+          "postcode": "SW17 7PD"
+        },
+        {
+          "name": "Rumbl Grill & Pizza",
+          "address": "733 High Road, Seven Kings, London, IG3 8RL",
+          "tel": "02086374086",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/rumbl-grill-pizza/",
+          "zone": "outer",
+          "postcode": "IG3 8RL"
+        },
+        {
+          "name": "Saffron Kitchen",
+          "address": "282a - 300 Lea Bridge Road, Leyton, London, E10 7LD",
+          "tel": "02089881446",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/saffron-kitchen/",
+          "zone": "inner",
+          "postcode": "E10 7LD"
+        },
+        {
+          "name": "Saffron Street",
+          "address": "448 - 450 Cranbrook Road, Gants Hill, London, IG2 6LL",
+          "tel": "02085185444",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/saffron-street/",
+          "zone": "outer",
+          "postcode": "IG2 6LL"
+        },
+        {
+          "name": "Samarkand Restaurant",
+          "address": "30 Stoke Newington Road, Stoke Newington, London, N16 7XJ",
+          "tel": "02081677770",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/samarkand-restaurant/",
+          "zone": "inner",
+          "postcode": "N16 7XJ"
+        },
+        {
+          "name": "Savours",
+          "address": "655 High Road, Seven Kings, London, IG3 8RA",
+          "tel": "02033369808",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/savours/",
+          "zone": "outer",
+          "postcode": "IG3 8RA"
+        },
+        {
+          "name": "Shalimar Caterers Ltd",
+          "address": "488 Green Street, Upton Park, London, E13 9DB",
+          "tel": "02036339449",
+          "category": "caterers",
+          "certificate": "https://halalhmc.org/outlets/shalimar-caterers-ltd/",
+          "zone": "inner",
+          "postcode": "E13 9DB"
+        },
+        {
+          "name": "Shiraz Restaurant",
+          "address": "830 Uxbridge Road, Hayes, London, UB4 0RR",
+          "tel": "02085690777",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/shiraz-restaurant/",
+          "zone": "outer",
+          "postcode": "UB4 0RR"
+        },
+        {
+          "name": "Sibu Pan Asian",
+          "address": "299 High Road, Ilford, London, IG1 1NR",
+          "tel": "07506247536",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/sibu-pan-asian/",
+          "zone": "outer",
+          "postcode": "IG1 1NR"
+        },
+        {
+          "name": "Side Street Burgers",
+          "address": "266 Green Street, Forest Gate, London, E7 8LF",
+          "tel": "02086373177",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/side-street-burgers-2/",
+          "zone": "inner",
+          "postcode": "E7 8LF"
+        },
+        {
+          "name": "Slice Pizza & Grill",
+          "address": "16 Ilford Hill, Ilford, London, IG1 2DA",
+          "tel": "02039068979",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/slice-pizza-grill/",
+          "zone": "outer",
+          "postcode": "IG1 2DA"
+        },
+        {
+          "name": "Smart Buns",
+          "address": "83 Turnpike Lane, Hornsey, London, N8 0DY",
+          "tel": "02086173090",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/smart-buns/",
+          "zone": "inner",
+          "postcode": "N8 0DY"
+        },
+        {
+          "name": "SMASH",
+          "address": "107 Green Street, Forest Gate, London, E7 8JF",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/smash/",
+          "zone": "inner",
+          "postcode": "E7 8JF"
+        },
+        {
+          "name": "Smashology",
+          "address": "78c Dalston Lane Terrace, (Rear of 78 Dalston Lane), London, E8 3AH",
+          "tel": "07364106212",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/smashology/",
+          "zone": "inner",
+          "postcode": "E8 3AH"
+        },
+        {
+          "name": "Spice Khazana",
+          "address": "266 - 268 High Road, Ilford, London, IG1 1QF",
+          "tel": "02085531177",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/spice-khazana/",
+          "zone": "outer",
+          "postcode": "IG1 1QF"
+        },
+        {
+          "name": "SPUDS.",
+          "address": "334a Romford Road, On Corner of Westbury Road, Forest Gate, London, E7 8BS",
+          "tel": "07960000086",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/spuds/",
+          "zone": "inner",
+          "postcode": "E7 8BS"
+        },
+        {
+          "name": "Steak Box",
+          "address": "8 Chapel Road, Ilford, London, IG1 2AG",
+          "tel": "02031543621",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/steak-box/",
+          "zone": "outer",
+          "postcode": "IG1 2AG"
+        },
+        {
+          "name": "Sultan Kebab",
+          "address": "138 Fore Street, Edmonton, London, N18 2XA",
+          "tel": "02088077720",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/sultan-kebab/",
+          "zone": "inner",
+          "postcode": "N18 2XA"
+        },
+        {
+          "name": "Super Kebab",
+          "address": "54 Stoke Newington Road, Stoke Newington, London, N16 7XB",
+          "tel": "02072414600",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/super-kebab/",
+          "zone": "inner",
+          "postcode": "N16 7XB"
+        },
+        {
+          "name": "Taabiir",
+          "address": "159 - 161 Mitcham Road, Tooting, London, SW17 9PG",
+          "tel": "02033376792",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/taabiir/",
+          "zone": "inner",
+          "postcode": "SW17 9PG"
+        },
+        {
+          "name": "Taj Grill Leyton",
+          "address": "734 High Road, Leyton, London, E10 6AA",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/taj-grill-leyton/",
+          "zone": "inner",
+          "postcode": "E10 6AA"
+        },
+        {
+          "name": "Tandoor Restaurant",
+          "address": "1459 London Road, Norbury, London, SW16 4AQ",
+          "tel": "02037847663",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/tandoor-restaurant/",
+          "zone": "inner",
+          "postcode": "SW16 4AQ"
+        },
+        {
+          "name": "Tandoori Corner",
+          "address": "770 London Road, Thornton Heath , London, CR7 6JB",
+          "tel": "02086173685",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/tandoori-corner/",
+          "zone": "outer",
+          "postcode": "CR7 6JB"
+        },
+        {
+          "name": "Taste of India - Manor Park",
+          "address": "340 High Street North, Manor Park, London, E12 6PH",
+          "tel": "020 8471 2122",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/taste-of-india-manor-park/",
+          "zone": "inner",
+          "postcode": "E12 6PH"
+        },
+        {
+          "name": "Tasty Chicken London Ltd",
+          "address": "233 Lower Clapton Road, Clapton, London, E5 8EG",
+          "tel": "02034414761",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/tasty-chicken-london-ltd/",
+          "zone": "inner",
+          "postcode": "E5 8EG"
+        },
+        {
+          "name": "Tazgi",
+          "address": "579 High Road, Leytonstone, London, E11 4PB",
+          "tel": "02085583335",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/tazgi/",
+          "zone": "inner",
+          "postcode": "E11 4PB"
+        },
+        {
+          "name": "Tennessee Express",
+          "address": "66 Stamford Hill, London, N16 6XS",
+          "tel": "07738711773",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/tennessee-express/",
+          "zone": "inner",
+          "postcode": "N16 6XS"
+        },
+        {
+          "name": "The Grill Stratford",
+          "address": "38 Romford Road, Stratford, London, E15 4BZ",
+          "tel": "02035817576",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/the-grill-stratford/",
+          "zone": "inner",
+          "postcode": "E15 4BZ"
+        },
+        {
+          "name": "The Milk Tree",
+          "address": "34 Barking Road, Canning Town, London, E16 1EQ",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/the-milk-tree/",
+          "zone": "inner",
+          "postcode": "E16 1EQ"
+        },
+        {
+          "name": "The Sunflower",
+          "address": "777 - 779 High Road, Leytonstone, London, E11 4QS",
+          "tel": "02085585738",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/the-sunflower/",
+          "zone": "inner",
+          "postcode": "E11 4QS"
+        },
+        {
+          "name": "The Truro",
+          "address": "3 - 7 South End Road, Croydon, London, CR0 1BE",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/the-truro/",
+          "zone": "outer",
+          "postcode": "CR0 1BE"
+        },
+        {
+          "name": "Tikkas Oxford Circus",
+          "address": "1 Great Titchfield Street, London, W1W 8AU",
+          "tel": "02081435502",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/tikkas-oxford-circus/",
+          "zone": "inner",
+          "postcode": "W1W 8AU"
+        },
+        {
+          "name": "TMG (The Madina Grill)",
+          "address": "91 New Road, Whitechapel, London, E1 1HH",
+          "tel": "02039711778",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/tmg-the-madina-grill/",
+          "zone": "inner",
+          "postcode": "E1 1HH"
+        },
+        {
+          "name": "TopWings",
+          "address": "78 Green Street, Forest Gate, London, E7 8JG",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/topwings/",
+          "zone": "inner",
+          "postcode": "E7 8JG"
+        },
+        {
+          "name": "Toro's Steakhouse - Harrow",
+          "address": "190 Station Road, Harrow, London, HA1 2RH",
+          "tel": "02086210615",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/toros-steakhouse-harrow/",
+          "zone": "outer",
+          "postcode": "HA1 2RH"
+        },
+        {
+          "name": "Toro's Steakhouse - Tooting",
+          "address": "303 - 307 Balham High Road, Tooting, London, SW17 7BA",
+          "tel": "02037121407",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/toros-steakhouse-tooting/",
+          "zone": "inner",
+          "postcode": "SW17 7BA"
+        },
+        {
+          "name": "Turkuoise",
+          "address": "124 - 126 Green Street, Forest Gate, London, E7 8JQ",
+          "tel": "02082577621",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/turkuoise/",
+          "zone": "inner",
+          "postcode": "E7 8JQ"
+        },
+        {
+          "name": "Yamin Chinese King",
+          "address": "35 Plashet Grove, Upton Park, London, E6 1AD",
+          "tel": "02085860022",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/yamin-chinese-king/",
+          "zone": "inner",
+          "postcode": "E6 1AD"
+        },
+        {
+          "name": "Zohra’s Grill",
+          "address": "88 Belgrave Road, Ilford, London, IG1 3AL",
+          "tel": null,
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/zohras-grill/",
+          "zone": "outer",
+          "postcode": "IG1 3AL"
+        },
+        {
+          "name": "Zu's Ilford",
+          "address": "815 High Road Seven Kings, Ilford, London, IG3 8TD",
+          "tel": "02089147828",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/zus-ilford/",
+          "zone": "outer",
+          "postcode": "IG3 8TD"
+        },
+        {
+          "name": "Zu's Sizzlers",
+          "address": "83 Green Street, Upton Park, London, E7 8JF",
+          "tel": "020 8471 1212 / 07779002610",
+          "category": "restaurants and takeaways",
+          "certificate": "https://halalhmc.org/outlets/zus-sizzlers/",
+          "zone": "inner",
+          "postcode": "E7 8JF"
+        }
+      ]
+    },
+    "HFA": {
+      "name": "Halal Food Authority",
+      "url": "https://www.halalfoodauthority.com/",
+      "read": "2026-09-08",
+      "outlets": [],
+      "endpoints": [],
+      "note": "endpoints listed for a second pass"
+    }
+  }
+}
