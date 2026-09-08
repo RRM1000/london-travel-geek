@@ -59,16 +59,6 @@ A note on the other body. The **Halal Food Authority** is the UK's other major c
 
 ## Restaurants that state a certification
 
-### Souk — the only one to name a certifier, and worth one extra check
-
-*££ · Covent Garden · WC2H 9NJ*
-
-Asked "Is your food Halal?" in its own FAQ, Souk answers: **"Yes it's 100% Halal HMC certified."** It is the only restaurant across all eight published lists to name the body auditing it, which on the face of it is the strongest halal statement in this guide.
-
-One thing to know before you rely on it. **When HMC's public register was read on 8 September 2026 it did not list Souk**, under that name or any variant, and it carried no WC2 entries at all. There are innocent explanations — certification lapses and is renewed, registers run behind, a business may be listed under a company name — and this is not a claim that the restaurant is doing anything wrong. It does mean the certification cannot be confirmed from the certifier's side today, so **treat it as the restaurant's own word and ask when you book** if an audited kitchen is what you specifically need.
-
-The food is not in question. Souk has been cooking North African in central London **since 1998**, which in this part of town is close to geological. **Tagines, couscous and charcoal grills**, in a low-lit basement fitted with lanterns, rugs and cushioned banquettes — the decor commits completely and is not trying to be subtle. There is a group menu alongside the à la carte, which is what most of the big tables are eating, and it is one of the more reliable places in the West End to feed eight people who cannot agree on anything.
-
 ### Ramo Ramen — the world's first Filipino ramen shop, and all its meat is certified
 
 *££ · Soho · 28 Brewer Street, W1F 0SR*
@@ -83,7 +73,17 @@ This is also the clearest example of the point the mainstream lists keep missing
 
 ## Halal throughout, on the kitchen's own word
 
-No third-party audit named, but the restaurant states that its kitchen is halal — not part of the menu, the kitchen.
+The restaurant's own statement is the evidence here — that the whole kitchen is halal, not part of the menu. For most halal kitchens in London that is what there is, and it is worth more than a listicle's say-so.
+
+### Souk — North African, and the West End's most reliable big table
+
+*££ · Covent Garden · WC2H 9NJ*
+
+Asked "Is your food Halal?" in its own FAQ, Souk answers: **"Yes it's 100% Halal HMC certified."** Take that as the restaurant's own word — if an independently audited kitchen is specifically what you need, ask when you book.
+
+The cooking has been going in central London **since 1998**, which in this part of town is close to geological. **Tagines, couscous and charcoal grills**, in a low-lit basement fitted out with lanterns, rugs and cushioned banquettes — the decor commits completely and is not trying to be subtle about it.
+
+The thing it is genuinely good for is a large group. There is a **set group menu** alongside the à la carte, and the room is built for long tables and noise rather than for a quiet dinner. It is one of the few places in the West End that can feed eight people who cannot agree on anything, at a price that does not require a discussion afterwards.
 
 ### The Great Chase — halal fine dining with an alcohol-free bar
 

@@ -110,13 +110,28 @@ for (const [n, what] of figures) {
 if (new RegExp(`\\b${reg.read}\\b`).test(body) || /8 September 2026/.test(body)) ok("article dates the register read");
 else bad("article must say WHEN the register was read - certification lapses");
 
+// SOUK. Its FAQ says "100% Halal HMC certified" and HMC's register does not
+// list it (checked 2026-09-08, no name variant, no WC2 entries at all). Rob's
+// decision on 2026-09-08 was to drop that sentence rather than publish a
+// discrepancy about a real business, and to file the venue under the kitchen's
+// own word. The finding stays in data/topics/halal.json under theSoukProblem.
+//
+// So the article must NOT print the discrepancy - and must still never assert
+// the certification in its own voice. Both halves are checked.
 const soukSec = sections.find((s) => s.startsWith("Souk"));
-if (!soukSec || !/did not list Souk|not on the HMC register|register .{0,30}did not list/i.test(soukSec)) {
-  bad("Souk claims HMC certification and is absent from the register - the entry must say so");
-} else ok("Souk entry states the register did not list it");
-if (soukSec && /\bis (HMC )?certified\b/i.test(soukSec.replace(/"[^"]*"/g, ""))) {
-  bad("Souk must not be asserted as certified outside a quotation of its own claim");
-} else ok("Souk is not asserted as certified in the article's own voice");
+if (!soukSec) bad("Souk entry is missing");
+else {
+  if (/did not list|not on the HMC register|register .{0,30}did not/i.test(soukSec)) {
+    bad("the Souk register discrepancy was dropped by decision - it must not be back in the article");
+  } else ok("Souk entry carries no register discrepancy, as decided");
+
+  if (/\bis (HMC )?certified\b/i.test(soukSec.replace(/"[^"]*"/g, ""))) {
+    bad("Souk must not be asserted as certified outside a quotation of its own claim");
+  } else ok("Souk is not asserted as certified in the article's own voice");
+
+  if (!/own word/i.test(soukSec)) bad("Souk entry must frame the claim as the restaurant's own word");
+  else ok("Souk entry frames the claim as the restaurant's own word");
+}
 
 // ------------------------------------------------------------ ranking -----
 // theRankingProblem: no source publishes a current quality ranking, so the
