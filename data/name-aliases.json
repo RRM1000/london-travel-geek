@@ -323,7 +323,22 @@
     "Texas Joe's Slow Smoked Meats": "Texas Joe's",
     "Texas Joe’s": "Texas Joe's",
     "Temper Soho": "Temper",
-    "HotBox": "Hotbox"
+    "HotBox": "Hotbox",
+    "Fish": "Fish, Wings & Tings",
+    "Fish Wings and Tings": "Fish, Wings & Tings",
+    "Fish, Wings and Tings": "Fish, Wings & Tings",
+    "Limin": "Limin South Bank",
+    "Roti Joupa Finsbury Park": "Roti Joupa",
+    "Roti Joupa Shepherd's Bush": "Roti Joupa",
+    "Roti Joupa Shepherd’s Bush": "Roti Joupa",
+    "Roti Stop Ltd": "Roti Stop",
+    "Maureen's Brixton Kitchen": "Maureen's",
+    "Maureen’s Brixton Kitchen": "Maureen's",
+    "Soulfood Peckham (Formerly JB's Soulfood)": "Soulfood Peckham",
+    "Crystal Caterers (Formerly Shades Food Truck)": "Crystal Caterers",
+    "Ewarts Jerk": "Ewart's",
+    "Ewart’s": "Ewart's",
+    "Ewarts": "Ewart's"
   },
   "whyCrispIsOneVenue": "The Infatuation's #1 is 'Crisp Pizza W6 at The Chancellors' in Hammersmith; Time Out and Country & Town House name the Mayfair site. Those are two pubs, but one brand: the Restaurants v2 row is already chainType 'mini-chain' with ownerGroup 'Devonshire / Crisp group', and its Why Go says Crisp was 'previously only in Hammersmith, brought into central London'. The sheet counts a mini-chain brand-level - the same treatment Rudy's and Fatto a Mano get - so the citations merge and the two sites are carried as Branches rows instead. Verified 2026-08-30: The Chancellors is 25 Crisp Road, Hammersmith W6 9RL.",
   "deliberatelyNotAliased": {

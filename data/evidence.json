@@ -11999,21 +11999,28 @@
       }
     ]
   },
-  "maureensbrixtonkitchen": {
-    "name": "Maureen’s Brixton Kitchen",
+  "maureens": {
+    "name": "Maureen's",
     "topics": [
       "barbecue",
+      "caribbean",
       "fried-chicken"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "barbecue": {
         "sourceCount": 2,
         "tierSpread": "B2",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "caribbean": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       },
       "fried-chicken": {
@@ -12037,7 +12044,12 @@
       {
         "tier": "B",
         "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
       }
     ]
   },
@@ -13583,16 +13595,23 @@
   "smokeyjerkey": {
     "name": "Smokey Jerkey",
     "topics": [
-      "barbecue"
+      "barbecue",
+      "caribbean"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "barbecue": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -13602,6 +13621,11 @@
         "tier": "B",
         "source": "Eater London",
         "url": "https://london.eater.com/maps/best-live-fire-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
       }
     ]
   },
@@ -13657,7 +13681,8 @@
   "rewards": {
     "name": "Rewards",
     "topics": [
-      "barbecue"
+      "barbecue",
+      "caribbean"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -13665,6 +13690,12 @@
     "hasAward": false,
     "byTopic": {
       "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "caribbean": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -13707,7 +13738,8 @@
   "myaccount": {
     "name": "My Account",
     "topics": [
-      "barbecue"
+      "barbecue",
+      "caribbean"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -13715,6 +13747,12 @@
     "hasAward": false,
     "byTopic": {
       "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "caribbean": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -27524,17 +27562,24 @@
     "name": "Buster Mantis",
     "topics": [
       "british",
+      "caribbean",
       "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "british": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "caribbean": {
+        "sourceCount": 5,
+        "tierSpread": "B3 C2",
+        "tierCount": 2,
         "hasAward": false
       },
       "sunday-roast": {
@@ -27549,6 +27594,26 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-caribbean-restaurants-london_10514"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/caribbean-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/food-drink/caribbean-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/caribbean-restaurants-london/"
       }
     ]
   },
@@ -28418,17 +28483,24 @@
     "name": "Guanabana",
     "topics": [
       "british",
+      "caribbean",
       "sunday-roast"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "british": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "caribbean": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       },
       "sunday-roast": {
@@ -28443,6 +28515,21 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/perfect-for/sunday-roast"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/caribbean-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/food-drink/caribbean-restaurants-in-london/"
       }
     ]
   },
@@ -39232,6 +39319,7 @@
     "name": "2210 by NattyCanCook",
     "topics": [
       "british",
+      "caribbean",
       "general",
       "sunday-roast"
     ],
@@ -39241,6 +39329,12 @@
     "hasAward": false,
     "byTopic": {
       "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "caribbean": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -39979,16 +40073,23 @@
     "name": "Paradise Cove",
     "topics": [
       "british",
+      "caribbean",
       "general"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 3,
+    "tierSpread": "B3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "british": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "caribbean": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
       },
@@ -40004,6 +40105,16 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-caribbean-restaurants-london_10514"
       }
     ]
   },
@@ -41728,6 +41839,7 @@
     "name": "/ Social",
     "topics": [
       "british",
+      "caribbean",
       "fried-chicken",
       "greek",
       "late-night",
@@ -41741,6 +41853,12 @@
     "hasAward": false,
     "byTopic": {
       "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "caribbean": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -47868,6 +47986,2194 @@
       }
     ]
   },
+  "rotijoupa": {
+    "name": "Roti Joupa",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-trinidadian-roti-caribbean-food-london-restaurant-guide"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "allroads": {
+    "name": "All Roads",
+    "topics": [
+      "caribbean",
+      "new-openings"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/londons-new-restaurant-openings"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/best-new-restaurants-in-london/"
+      }
+    ]
+  },
+  "sweetdeesjerk": {
+    "name": "Sweet Dee's Jerk",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      }
+    ]
+  },
+  "jamdelish": {
+    "name": "Jam Delish",
+    "topics": [
+      "caribbean",
+      "vegan"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B5 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 5,
+        "tierSpread": "B5",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "vegan": {
+        "sourceCount": 5,
+        "tierSpread": "B2 C3",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-caribbean-restaurants-london_10514"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/caribbean-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-caribbean-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-vegan-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Vegpreneur",
+        "url": "https://www.vegpreneur.org/blog/the-best-vegan-restaurants-in-london-in-2026"
+      },
+      {
+        "tier": "C",
+        "source": "My Vegan Travels",
+        "url": "https://myvegantravels.com/destinations/vegan-food-spots-london/"
+      }
+    ]
+  },
+  "vegandtings": {
+    "name": "Veg & Tings",
+    "topics": [
+      "caribbean",
+      "vegan"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "vegan": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      }
+    ]
+  },
+  "umanayana": {
+    "name": "Umana Yana",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-trinidadian-roti-caribbean-food-london-restaurant-guide"
+      }
+    ]
+  },
+  "dubpan": {
+    "name": "Dub Pan",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      }
+    ]
+  },
+  "rotistop": {
+    "name": "Roti Stop",
+    "topics": [
+      "caribbean",
+      "cheap-eats"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "cheap-eats": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-caribbean-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-trinidadian-roti-caribbean-food-london-restaurant-guide"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "liminsouthbank": {
+    "name": "Limin South Bank",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B4 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 6,
+        "tierSpread": "B4 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-caribbean-restaurants-london_10514"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/caribbean-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/food-drink/caribbean-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/caribbean-restaurants-london/"
+      }
+    ]
+  },
+  "healthyeaters": {
+    "name": "Healthy Eaters",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "mapetitejamaica": {
+    "name": "Ma Petite Jamaica",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-caribbean-restaurants-london_10514"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/food-drink/caribbean-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/caribbean-restaurants-london/"
+      }
+    ]
+  },
+  "rainbowbakery": {
+    "name": "Rainbow Bakery",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      }
+    ]
+  },
+  "jamaicapattyco": {
+    "name": "Jamaica Patty Co",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      }
+    ]
+  },
+  "trinidadrotishop": {
+    "name": "Trinidad Roti Shop",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-trinidadian-roti-caribbean-food-london-restaurant-guide"
+      }
+    ]
+  },
+  "peppersandspice": {
+    "name": "Peppers & Spice",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C1 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C1 D1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      },
+      {
+        "tier": "D",
+        "source": "Big Jerk Vibes (YouTube)",
+        "url": "https://www.youtube.com/@BigJerkVibes"
+      }
+    ]
+  },
+  "tastyjerk": {
+    "name": "Tasty Jerk",
+    "topics": [
+      "caribbean",
+      "general"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "fishwingsandtings": {
+    "name": "Fish, Wings & Tings",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B3 C2 D2",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 7,
+        "tierSpread": "B3 C2 D2",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-caribbean-restaurants-london_10514"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/caribbean-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/caribbean-restaurants-london/"
+      },
+      {
+        "tier": "D",
+        "source": "FoodyFella (YouTube)",
+        "url": "https://www.youtube.com/@FoodyFella"
+      },
+      {
+        "tier": "D",
+        "source": "Big Jerk Vibes (YouTube)",
+        "url": "https://www.youtube.com/@BigJerkVibes"
+      }
+    ]
+  },
+  "jbssoulfood": {
+    "name": "JB's Soul Food",
+    "topics": [
+      "caribbean",
+      "cheap-eats"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "cheap-eats": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-caribbean-restaurants-london_10514"
+      }
+    ]
+  },
+  "ewarts": {
+    "name": "Ewart's",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C1 D2",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C1 D2",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      },
+      {
+        "tier": "D",
+        "source": "Big Jerk Vibes (YouTube)",
+        "url": "https://www.youtube.com/@BigJerkVibes"
+      },
+      {
+        "tier": "D",
+        "source": "Michaels Bites (YouTube)",
+        "url": "https://www.youtube.com/@MichaelsBites"
+      }
+    ]
+  },
+  "peopleschoice": {
+    "name": "People's Choice",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "onelovekitchen": {
+    "name": "One Love Kitchen",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      }
+    ]
+  },
+  "jaydeescatering": {
+    "name": "Jay Dees Catering",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "chaconia": {
+    "name": "Chaconia",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-trinidadian-roti-caribbean-food-london-restaurant-guide"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/caribbean-restaurants-london/"
+      }
+    ]
+  },
+  "ochicaribbeantakeaway": {
+    "name": "Ochi Caribbean Takeaway",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      }
+    ]
+  },
+  "tawaroti": {
+    "name": "Tawa Roti",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants"
+      }
+    ]
+  },
+  "arepaandco": {
+    "name": "Arepa & Co",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-caribbean-restaurants-london_10514"
+      }
+    ]
+  },
+  "kaieteurkitchen": {
+    "name": "Kaieteur Kitchen",
+    "topics": [
+      "caribbean",
+      "fried-chicken"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-caribbean-restaurants-london_10514"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+      }
+    ]
+  },
+  "danclairskitchen": {
+    "name": "Danclair's Kitchen",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-caribbean-restaurants-london_10514"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-caribbean-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/food-drink/caribbean-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/caribbean-restaurants-london/"
+      }
+    ]
+  },
+  "maureenskitchen": {
+    "name": "Maureen’s Kitchen",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/caribbean-restaurants-london/"
+      }
+    ]
+  },
+  "rogerskitchen": {
+    "name": "Roger’s Kitchen",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/caribbean-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/food-drink/caribbean-restaurants-in-london/"
+      }
+    ]
+  },
+  "mapetitejamaican": {
+    "name": "Ma Petite Jamaican",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/caribbean-restaurants-london/"
+      }
+    ]
+  },
+  "bluejaycafe": {
+    "name": "Bluejay Cafe",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-caribbean-restaurants-london/"
+      }
+    ]
+  },
+  "cottons": {
+    "name": "Cotton’s",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-caribbean-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/food-drink/caribbean-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/caribbean-restaurants-london/"
+      }
+    ]
+  },
+  "rotikitchen": {
+    "name": "Roti Kitchen",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-trinidadian-roti-caribbean-food-london-restaurant-guide"
+      }
+    ]
+  },
+  "rotirollshuttaste": {
+    "name": "Roti Rolls Hut Taste",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-trinidadian-roti-caribbean-food-london-restaurant-guide"
+      }
+    ]
+  },
+  "rotimasters": {
+    "name": "Roti Masters",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-trinidadian-roti-caribbean-food-london-restaurant-guide"
+      }
+    ]
+  },
+  "horizonfoods": {
+    "name": "Horizon Foods",
+    "topics": [
+      "caribbean",
+      "vegan"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "vegan": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-trinidadian-roti-caribbean-food-london-restaurant-guide"
+      }
+    ]
+  },
+  "rotiisland": {
+    "name": "Roti Island",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-trinidadian-roti-caribbean-food-london-restaurant-guide"
+      }
+    ]
+  },
+  "crystalcaterers": {
+    "name": "Crystal Caterers",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "newtings": {
+    "name": "New Tings",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "sunvalleyjerk": {
+    "name": "Sunvalley Jerk",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "soulfoodpeckham": {
+    "name": "Soulfood Peckham",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "jerkindapark": {
+    "name": "Jerk in Da Park",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "survivor": {
+    "name": "Survivor",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "kaieteurkitchenoriginal": {
+    "name": "Kaieteur Kitchen Original",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "doubleknot": {
+    "name": "Double Knot",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "motoroti": {
+    "name": "Moto Roti",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "whitemencantjerk": {
+    "name": "White Men Can't Jerk",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "coolrunningsjerkcentre": {
+    "name": "Cool Runnings Jerk Centre",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "bokitla": {
+    "name": "Bokit'la",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "cafecaribbean": {
+    "name": "Cafe Caribbean",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "swiftcaribbeandelights": {
+    "name": "Swift Caribbean Delights",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "rainbowcookout": {
+    "name": "Rainbow Cook Out",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "jerkcentre": {
+    "name": "Jerk Centre",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "mumscaribbeantakeaway": {
+    "name": "Mum's Caribbean Takeaway",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "jeffthechef": {
+    "name": "Jeff the Chef",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "heartandsoulcaribbeanfood": {
+    "name": "Heart & Soul Caribbean Food",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "richies": {
+    "name": "Richie's",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "lickled": {
+    "name": "Lickle D",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "buscafe": {
+    "name": "Bus Cafe",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "peckhambusgaragebuscafe": {
+    "name": "Peckham Bus Garage Bus Cafe",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "jamaicantuckshop": {
+    "name": "Jamaican Tuck Shop",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "trueflavours": {
+    "name": "True Flavours",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "djscaribbeancuisine": {
+    "name": "DJ's Caribbean Cuisine",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "hotgrubz": {
+    "name": "Hot Grubz",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "ochi": {
+    "name": "Ochi",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "James Dimitri",
+        "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/"
+      }
+    ]
+  },
+  "glossaryedit": {
+    "name": "The Glossary Edit",
+    "topics": [
+      "caribbean",
+      "cinemas"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "cinemas": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/food-drink/caribbean-restaurants-in-london/"
+      }
+    ]
+  },
+  "negril": {
+    "name": "Negril",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/food-drink/caribbean-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/caribbean-restaurants-london/"
+      }
+    ]
+  },
+  "marveesfoodshop": {
+    "name": "Marvee’s Food Shop",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Glossary",
+        "url": "https://theglossarymagazine.com/food-drink/caribbean-restaurants-in-london/"
+      }
+    ]
+  },
+  "antillean": {
+    "name": "Antillean",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/caribbean-restaurants-london/"
+      }
+    ]
+  },
+  "rudies": {
+    "name": "Rudie’s",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/caribbean-restaurants-london/"
+      }
+    ]
+  },
+  "pandaberrycaribbeanrestaurantandjerkcentre": {
+    "name": "PandaBerry Caribbean Restaurant & Jerk Centre",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/caribbean-restaurants-london/"
+      }
+    ]
+  },
+  "guanabanarestaurant": {
+    "name": "Guanabana Restaurant",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/caribbean-restaurants-london/"
+      }
+    ]
+  },
+  "rumkitchen": {
+    "name": "The Rum Kitchen",
+    "topics": [
+      "caribbean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/caribbean-restaurants-london/"
+      }
+    ]
+  },
   "hoppers": {
     "name": "Hoppers",
     "topics": [
@@ -49813,31 +52119,6 @@
       }
     ]
   },
-  "jbssoulfood": {
-    "name": "JB's Soul Food",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-cheap-eats-london"
-      }
-    ]
-  },
   "atushuyghurcuisine": {
     "name": "Atush Uyghur Cuisine",
     "topics": [
@@ -50525,31 +52806,6 @@
   },
   "indianymca": {
     "name": "Indian YMCA",
-    "topics": [
-      "cheap-eats"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cheap-eats": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://timeout.com/london/food-drink/londons-best-cheap-eats"
-      }
-    ]
-  },
-  "rotistop": {
-    "name": "Roti Stop",
     "topics": [
       "cheap-eats"
     ],
@@ -57239,31 +59495,6 @@
         "source": "Hunger Magazine",
         "url": "https://hungermag.com/art-culture/the-independent-cinemas-you-need-on-your-radar-in-2026"
       },
-      {
-        "tier": "C",
-        "source": "The Glossary",
-        "url": "https://theglossarymagazine.com/arts-culture/independent-cinemas-london/"
-      }
-    ]
-  },
-  "glossaryedit": {
-    "name": "The Glossary Edit",
-    "topics": [
-      "cinemas"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "cinemas": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
       {
         "tier": "C",
         "source": "The Glossary",
@@ -68818,31 +71049,6 @@
       }
     ]
   },
-  "kaieteurkitchen": {
-    "name": "Kaieteur Kitchen",
-    "topics": [
-      "fried-chicken"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "fried-chicken": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
-      }
-    ]
-  },
   "tongdaknewmalden": {
     "name": "Tongdak New Malden",
     "topics": [
@@ -76601,31 +78807,6 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      }
-    ]
-  },
-  "tastyjerk": {
-    "name": "Tasty Jerk",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london"
       }
     ]
   },
@@ -120873,41 +123054,6 @@
       }
     ]
   },
-  "allroads": {
-    "name": "All Roads",
-    "topics": [
-      "new-openings"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "new-openings": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/londons-new-restaurant-openings"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/best-new-restaurants-in-london/"
-      }
-    ]
-  },
   "lokal": {
     "name": "Lokal",
     "topics": [
@@ -143667,51 +145813,6 @@
       }
     ]
   },
-  "jamdelish": {
-    "name": "Jam Delish",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "B2 C3",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 5,
-        "tierSpread": "B2 C3",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/the-best-vegan-restaurants-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/vegan-food-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-vegan-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Vegpreneur",
-        "url": "https://www.vegpreneur.org/blog/the-best-vegan-restaurants-in-london-in-2026"
-      },
-      {
-        "tier": "C",
-        "source": "My Vegan Travels",
-        "url": "https://myvegantravels.com/destinations/vegan-food-spots-london/"
-      }
-    ]
-  },
   "enrootatritzycinemabrixton": {
     "name": "En Root at Ritzy Cinema Brixton",
     "topics": [
@@ -144042,31 +146143,6 @@
       }
     ]
   },
-  "vegandtings": {
-    "name": "Veg & Tings",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/vegan-food-restaurants-london"
-      }
-    ]
-  },
   "nandinecamberwellchurchstreet": {
     "name": "Nandine Camberwell Church Street",
     "topics": [
@@ -144114,31 +146190,6 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/vegan-food-restaurants-london"
-      }
-    ]
-  },
-  "horizonfoods": {
-    "name": "Horizon Foods",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-vegan-restaurants-london"
       }
     ]
   },

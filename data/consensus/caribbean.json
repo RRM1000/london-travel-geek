@@ -1,0 +1,265 @@
+{
+  "cuisine": "caribbean",
+  "note": "Seeded 2026-09-08. 2026-09-08: James Dimitri recorded by hand after the fetcher returned zero from its heading-based markup.",
+  "recorded": "2026-09-08",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/restaurants/londons-best-caribbean-restaurants",
+      "scope": "caribbean",
+      "names": [
+        "Paradise Cove",
+        "Buster Mantis",
+        "2210 by NattyCanCook",
+        "Roti Joupa",
+        "All Roads",
+        "Sweet Dee's Jerk",
+        "Jam Delish",
+        "Veg & Tings",
+        "Umana Yana",
+        "Maureen’s Brixton Kitchen",
+        "Dub Pan",
+        "Roti Stop",
+        "Limin",
+        "Healthy Eaters",
+        "Ma Petite Jamaica",
+        "Guanabana",
+        "Rainbow Bakery",
+        "Jamaica Patty Co",
+        "Trinidad Roti Shop",
+        "Peppers & Spice"
+      ]
+    },
+    {
+      "name": "The Infatuation",
+      "url": "https://www.theinfatuation.com/london/guides/best-caribbean-food-london-restaurants",
+      "scope": "caribbean",
+      "names": [
+        "Tasty Jerk",
+        "Fish",
+        "Maureen's Brixton Kitchen",
+        "JB's Soul Food",
+        "Ewarts Jerk",
+        "People's Choice",
+        "One Love Kitchen",
+        "Jay Dees Catering",
+        "Paradise Cove",
+        "Chaconia",
+        "Umana Yana",
+        "Jam Delish",
+        "Ochi Caribbean Takeaway",
+        "Peppers & Spice",
+        "Roti Joupa Finsbury Park",
+        "Veg & Tings",
+        "Tawa Roti",
+        "Limin Southbank"
+      ]
+    },
+    {
+      "name": "SquareMeal",
+      "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-caribbean-restaurants-london_10514",
+      "scope": "caribbean",
+      "names": [
+        "Limin South Bank",
+        "Arepa & Co",
+        "JB's Soulfood",
+        "Kaieteur Kitchen",
+        "Paradise Cove",
+        "Ma Petite Jamaica",
+        "Fish",
+        "Jam Delish",
+        "Danclair's Kitchen",
+        "Buster Mantis"
+      ]
+    },
+    {
+      "name": "The Handbook",
+      "url": "https://www.thehandbook.com/caribbean-restaurants-london/",
+      "scope": "caribbean",
+      "names": [
+        "Limin Southbank",
+        "Jam Delish",
+        "Maureen’s Kitchen",
+        "Buster Mantis",
+        "Guanabana",
+        "Roger’s Kitchen",
+        "Fish Wings and Tings",
+        "Ma Petite Jamaican"
+      ]
+    },
+    {
+      "name": "Luxury London",
+      "url": "https://luxurylondon.co.uk/taste/food/best-caribbean-restaurants-london/",
+      "scope": "caribbean",
+      "names": [
+        "/ Social",
+        "Jam Delish",
+        "Danclair's Kitchen",
+        "Bluejay Cafe",
+        "Roti Stop",
+        "Cottons"
+      ]
+    },
+    {
+      "name": "DesignMyNight",
+      "url": "https://www.designmynight.com/london/best-caribbean-restaurants-in-london",
+      "scope": "caribbean",
+      "names": [
+        "Rewards",
+        "My Account"
+      ]
+    },
+    {
+      "name": "Eater London - Indo-Caribbean roti",
+      "url": "https://london.eater.com/maps/best-trinidadian-roti-caribbean-food-london-restaurant-guide",
+      "scope": "caribbean",
+      "names": [
+        "Roti Kitchen",
+        "Roti Rolls Hut Taste",
+        "Trinidad Roti Shop",
+        "Roti Joupa Shepherd’s Bush",
+        "Roti Masters",
+        "Umana Yana",
+        "Horizon Foods",
+        "Roti Stop Ltd",
+        "Roti Island",
+        "Chaconia"
+      ]
+    },
+    {
+      "name": "James Dimitri",
+      "url": "https://jamesdimitri.co.uk/2026/08/27/london-caribbean-food-guide/",
+      "scope": "caribbean",
+      "names": [
+        "Jay Dees Catering",
+        "Peppers & Spice",
+        "Maureen's",
+        "Ewart's",
+        "Crystal Caterers",
+        "New Tings",
+        "Tasty Jerk",
+        "Sunvalley Jerk",
+        "Soulfood Peckham",
+        "Smokey Jerkey",
+        "Jerk in Da Park",
+        "Survivor",
+        "Kaieteur Kitchen Original",
+        "Double Knot",
+        "Moto Roti",
+        "White Men Can't Jerk",
+        "Cool Runnings Jerk Centre",
+        "Bokit'la",
+        "Cafe Caribbean",
+        "Swift Caribbean Delights",
+        "Rainbow Cook Out",
+        "Fish, Wings & Tings",
+        "Roti Joupa",
+        "Healthy Eaters",
+        "Jerk Centre",
+        "People's Choice",
+        "Mum's Caribbean Takeaway",
+        "Jeff the Chef",
+        "Roti Stop Ltd",
+        "Heart & Soul Caribbean Food",
+        "Richie's",
+        "Lickle D",
+        "Bus Cafe",
+        "Peckham Bus Garage Bus Cafe",
+        "Jamaican Tuck Shop",
+        "True Flavours",
+        "DJ's Caribbean Cuisine",
+        "Hot Grubz",
+        "Ochi"
+      ],
+      "error": "no headings matched",
+      "note": "Names recorded by hand 2026-09-08. The fetcher returned zero: this guide puts its venue names in numbered <h3> headings (\"1. Jay Dees Catering\") rather than in list items or prose, so the line parser had nothing to read. 39 names, of which roughly two dozen appear in no other source in this pass - caterers, food trucks, takeaway counters and a cafe in a bus garage. It is the only source here describing the scene rather than its dining rooms."
+    },
+    {
+      "name": "The Glossary",
+      "url": "https://theglossarymagazine.com/food-drink/caribbean-restaurants-in-london/",
+      "scope": "caribbean",
+      "names": [
+        "The Glossary Edit",
+        "Roger’s Kitchen",
+        "Negril",
+        "Limin",
+        "Guanabana",
+        "Cottons",
+        "Marvee’s Food Shop",
+        "Ma Petite Jamaica",
+        "Buster Mantis",
+        "Danclair’s Kitchen"
+      ]
+    },
+    {
+      "name": "London x London",
+      "url": "https://www.londonxlondon.com/caribbean-restaurants-london/",
+      "scope": "caribbean",
+      "names": [
+        "Antillean",
+        "Limin",
+        "Negril",
+        "Rudie’s",
+        "PandaBerry Caribbean Restaurant & Jerk Centre",
+        "Chaconia",
+        "Cotton’s",
+        "Buster Mantis",
+        "Fish",
+        "Ma Petite Jamaica",
+        "Danclair’s Kitchen",
+        "Guanabana Restaurant",
+        "The Rum Kitchen"
+      ]
+    },
+    {
+      "name": "FoodyFella (YouTube)",
+      "url": "https://www.youtube.com/@FoodyFella",
+      "scope": "caribbean",
+      "channel": "@FoodyFella",
+      "videos": [
+        {
+          "title": "KITCHEN TO COUNTER EP 3 - THE BEST CARIBBEAN FOOD IN LONDON?",
+          "url": "https://www.youtube.com/watch?v=XSl1G1NYa9w",
+          "published": "2025-10-28"
+        }
+      ],
+      "names": [
+        "Fish, Wings & Tings"
+      ]
+    },
+    {
+      "name": "Big Jerk Vibes (YouTube)",
+      "url": "https://www.youtube.com/@BigJerkVibes",
+      "scope": "caribbean",
+      "channel": "@BigJerkVibes",
+      "videos": [
+        {
+          "title": "Best Jerk Chicken in London? Testing 4 Spots | Big Jerk",
+          "url": "https://www.youtube.com/watch?v=kprSs86xh64",
+          "published": "2026-06-21"
+        }
+      ],
+      "names": [
+        "Fish, Wings & Tings",
+        "Peppers & Spice",
+        "Ewarts Jerk"
+      ]
+    },
+    {
+      "name": "Michaels Bites (YouTube)",
+      "url": "https://www.youtube.com/@MichaelsBites",
+      "scope": "caribbean",
+      "channel": "@MichaelsBites",
+      "videos": [
+        {
+          "title": "London’s BEST Jerk Chicken?! Trying Ewarts Jerk in Dalston",
+          "url": "https://www.youtube.com/watch?v=SdcN3HLMwjc",
+          "published": "2026-05-23"
+        }
+      ],
+      "names": [
+        "Ewarts Jerk"
+      ]
+    }
+  ]
+}
