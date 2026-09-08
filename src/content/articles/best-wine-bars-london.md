@@ -2,6 +2,8 @@
 title: "The Best Wine Bars in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Wine Bars London 2026: Ranked Across Every Major List"
 description: "Fifteen independent sources across 158 wine bars. Which ones the critics actually agree on, what a bottle costs if you drink it where you bought it, and the award that almost never goes to a wine bar."
+heroImage: "../../assets/articles/best-wine-bars-london/bar-crispin-hero.jpg"
+heroImageAlt: "The green shopfront of Bar Crispin on Kingly Street, with a by-the-glass list chalked on a board outside and laid tables on the pavement"
 publishedAt: 2026-09-07
 sites: [london]
 canonicalSite: london
@@ -61,6 +63,10 @@ So this guide is built the other way round: on which rooms the critics independe
 
 *££ · Queens Road, Peckham · Cited by 8 sources*
 
+![The dining room at Peckham Cellars, light wood tables laid with wine glasses and a teal bar, with PECKHAM lettering across the window onto Queens Road](../../assets/articles/best-wine-bars-london/peckham-cellars.jpg)
+
+*Queens Road through the window. The room is small enough that the bar and the tables are one space rather than two.*
+
 Wine is handled by **Ben McVeigh, formerly head sommelier at 28-50 Fetter Lane**, and the list he has built leans on variety and affordability rather than trophies — with enough obscurity in it to interest someone who already knows what they like.
 
 A shop as well as a bar, so the retail-plus-corkage route applies. It went from newcomer to Queens Road fixture quickly, and is part of why Peckham is now taken seriously for food rather than only for drinking.
@@ -68,6 +74,10 @@ A shop as well as a bar, so the retail-plus-corkage route applies. It went from 
 ### Bar Crispin — 150 bottles, and not a cocktail bar
 
 *££ · Soho · Cited by 8 sources*
+
+![The green shopfront of Bar Crispin at 19 Kingly Street, with planted window boxes, a by-the-glass chalkboard and laid tables outside on the pavement](../../assets/articles/best-wine-bars-london/bar-crispin.jpg)
+
+*Number 19, Kingly Street. The by-the-glass list goes up on the board outside, before you commit to a table.*
 
 The younger sibling of Crispin in Spitalfields, and the one where wine is the point rather than the accompaniment. The in-house sommelier's list runs to **about 150 bottles weighted towards old-world and indigenous grape varieties**, independent producers and natural wines. Food is broadly European and seasonal.
 
@@ -80,6 +90,10 @@ Worth saying plainly, because it is filed wrongly elsewhere: this is a wine bar.
 ### Diogenes the Dog — the one with no Champagne
 
 *££ · 96 Rodney Road, SE17 1BG · Walworth · Cited by 8 sources*
+
+![Floor-to-ceiling wine racks packed with bottles along a bare brick wall at Diogenes the Dog, with a small round table and bar stools on a wooden floor](../../assets/articles/best-wine-bars-london/diogenes-the-dog.jpg)
+
+*The racks are the list. What is not on them is Champagne - Canada, Texas, Poland, Czechia and Taiwan instead.*
 
 **If you want Champagne, go somewhere else** — that is close to the house position. What it stocks instead is wine from Canada, Texas, Poland, the Czech Republic and Taiwan, which makes it the most genuinely exploratory list in this guide and the one most likely to put something in front of you that you cannot place.
 
@@ -112,6 +126,10 @@ Wine bar, shop and importer at once, in brick arches under the viaduct with stai
 ### Noble Rot — walk-in bars attached to restaurants
 
 *££–£££ · Bloomsbury, Soho and Mayfair · Cited by 6 sources*
+
+![The dark green and gold frontage of Noble Rot at night, lettered Noble Rot Wine Bar, with WINE BAR etched on one window and RESTAURANT on the other and tables on the pavement](../../assets/articles/best-wine-bars-london/noble-rot.jpg)
+
+*Wine bar etched on one window, restaurant on the other - and at Bloomsbury and Mayfair the bar half is walk-in only.*
 
 Three branches, and they are best understood as **wine-led restaurants rather than wine bars** — which matters, because it changes how you get in. **Bloomsbury and Mayfair both keep dedicated bar spaces that are walk-in only**, so you can drink there without a reservation while the dining room runs on bookings.
 
@@ -153,6 +171,10 @@ Natural wine and small plates in a room that fills with locals, and **about thir
 
 *££ · 47 Villiers Street, WC2N 6NE · Between Charing Cross and Embankment · Cited by 6 sources*
 
+![The vaulted candlelit cellar at Gordon's Wine Bar, blackened rough stone ceiling low overhead, candles stuck in bottles on wooden tables with people drinking](../../assets/articles/best-wine-bars-london/gordons-wine-bar.jpg)
+
+*The cellar, lit by candles stuck in bottles. It takes no reservations, so the queue on Villiers Street is the system.*
+
 **London's oldest wine bar**, trading for over 135 years, and the only entry here that is a genuine historical object as well as a place to drink. The cellar is vaulted and candlelit, the walls are covered in old photographs and newspaper clippings, and **old oak barrels of sherry and port** sit behind the bar — the fortified list is the thing to order, and almost nowhere else in London serves it this way.
 
 > ⚠️ **It takes no reservations at all.** Its own advice is to turn up early and speak to staff on arrival; the cellar fills from about six and the queue on Villiers Street is real. **The outdoor seating runs under heated awnings all year**, which is the overflow and often the faster way in.
@@ -160,6 +182,10 @@ Natural wine and small plates in a room that fills with locals, and **about thir
 ### Lady of the Grapes — every wine on the list made by a woman
 
 *££ · Covent Garden and London Bridge · Cited by 5 sources*
+
+![Shelves of wine bottles reaching to the ceiling behind the counter at Lady of the Grapes, with jars and preserves below and a candlelit table in front](../../assets/articles/best-wine-bars-london/lady-of-the-grapes.jpg)
+
+*Every bottle on these shelves is made by a woman. That is the whole list, not a section of it.*
 
 **Every wine on the list is made by a female winemaker.** That is the whole proposition rather than a section of it, and no other wine bar in this guide does anything comparable — the selection is organic, biodynamic and minimal-intervention, chosen to show what women are making in an industry that has not historically been theirs.
 
