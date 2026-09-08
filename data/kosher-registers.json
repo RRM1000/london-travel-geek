@@ -1,0 +1,219 @@
+{
+  "note": "Snapshot of the certifying authorities registers, read 2026-09-08. This topic is NOT a consensus guide: the authorities publish the complete list themselves, so there is nothing a citation count can add. The article is built on these registers and scripts/verify-kosher-register.mjs checks its numbers against this file. Re-read the registers and update this snapshot rather than editing the article numbers by hand.",
+  "read": "2026-09-08",
+  "authorities": {
+    "KLBD": {
+      "name": "Kashrut Division, London Beth Din",
+      "register": "https://kosher.org.uk/kosher-places/restaurants/",
+      "reachable": true,
+      "trap": "klbdkosher.org is the TRADE site and certifies manufacturers, not restaurants. Reading it alone yields the false conclusion that KLBD does not license restaurants at all.",
+      "guarantees": "All dairy restaurants use Chalav Yisrael; all meaty restaurants are Glatt."
+    },
+    "KF": {
+      "name": "KF Kosher, Federation of Synagogues Beth Din",
+      "register": "https://kfkosher.org/establishments-catering/",
+      "reachable": true,
+      "count": 25,
+      "note": "A largely DIFFERENT set from KLBD. Reubens, Mazal, Soyo, Pita, One Ashbourne, Aviv, Pizaza, The Kanteen, Ranch, Bracha, Logans and Headroom Cafe are here and not on the KLBD register."
+    },
+    "SKA": {
+      "name": "Sephardi Kashrut Authority",
+      "register": "https://ska.org.uk/licensees",
+      "reachable": true,
+      "note": "Smaller list including JW3 Cafe and Hendon Park Cafe. Guarantees Glatt, Chalav Yisrael and Yashan grain."
+    },
+    "Kedassia": {
+      "name": "Union of Orthodox Hebrew Congregations",
+      "register": "https://kedassia.org.uk/",
+      "reachable": false,
+      "note": "DNS does not resolve on apex or www, checked 2026-09-08. This is the authority most used in STAMFORD HILL, which is why the published registers show only one certified establishment there. The biggest hole in this topic - recheck periodically."
+    }
+  },
+  "klbd": {
+    "total": 33,
+    "london": 30,
+    "meat": 18,
+    "dairy": 15,
+    "outsideLondon": [
+      "Balagan (47 Shenley Road, Borehamwood WD6 1AE)",
+      "Pumpernick's (53 Shenley Road, Borehamwood WD6 1AE)",
+      "Yofi Restaurant & Deli (29-31 New Church Road, Hove BN3 4AD)"
+    ],
+    "byArea": {
+      "Hendon": 10,
+      "Borehamwood": 2,
+      "Golders Green": 8,
+      "Temple Fortune": 4,
+      "Edgware": 3,
+      "Hampstead": 2,
+      "other": 4
+    },
+    "establishments": [
+      {
+        "name": "Bagels Bar",
+        "category": "Dairy",
+        "address": "84 Brent Street, Hendon NW4 2ES"
+      },
+      {
+        "name": "Bagels Bar Grill House",
+        "category": "Meat",
+        "address": "86 Brent Street, Hendon NW4 2ES"
+      },
+      {
+        "name": "Balagan",
+        "category": "Meat",
+        "address": "47 Shenley Road, Borehamwood WD6 1AE"
+      },
+      {
+        "name": "Beit Café",
+        "category": "Dairy",
+        "address": "119 Golders Green Road, Golders Green NW11 8HR"
+      },
+      {
+        "name": "Bread Hendon",
+        "category": "Dairy",
+        "address": "96 Brent Street, Hendon NW4 2HH"
+      },
+      {
+        "name": "Bread Temple Fortune",
+        "category": "Dairy",
+        "address": "1 Bridge Lane, Temple Fortune NW11 0EA"
+      },
+      {
+        "name": "Burger Bar",
+        "category": "Meat",
+        "address": "1 Bridge Lane, Temple Fortune NW11 0EA"
+      },
+      {
+        "name": "Eli’s Pizza Edgware",
+        "category": "Dairy",
+        "address": "7 Edgwarebury Lane, Edgware HA8 8LH"
+      },
+      {
+        "name": "Eli’s Pizza Golders Green",
+        "category": "Dairy",
+        "address": "2a Hoop Lane, Golders Green NW11 8JS"
+      },
+      {
+        "name": "Habiba's Smokehouse",
+        "category": "Meat",
+        "address": "1179 Finchley Road, Temple Fortune NW11 0AA"
+      },
+      {
+        "name": "Hummus Bar Golders Green",
+        "category": "Meat",
+        "address": "82 Golders Green Road, Golders Green NW11 8LN"
+      },
+      {
+        "name": "Hummus Bar Hendon",
+        "category": "Meat",
+        "address": "105 Brent Street, Hendon NW4 2DX"
+      },
+      {
+        "name": "Kaifeng",
+        "category": "Meat",
+        "address": "51 Church Road, Hendon NW4 4DU"
+      },
+      {
+        "name": "Kasa Bar & Grill",
+        "category": "Meat",
+        "address": "30 The Market Place, Hampstead Garden Suburb NW11 6JJ"
+      },
+      {
+        "name": "Moss & Maple",
+        "category": "Meat",
+        "address": "51 Fairfax Road, West Hampstead NW6 4WL"
+      },
+      {
+        "name": "Mr Baker",
+        "category": "Dairy",
+        "address": "119-121 Brent Street, Hendon NW4 2DX"
+      },
+      {
+        "name": "Novellino",
+        "category": "Dairy",
+        "address": "103 Golders Green Road, Golders Green NW11 8EN"
+      },
+      {
+        "name": "Novellino Bistro",
+        "category": "Meat",
+        "address": "111a -113 Golders Green Road, Golders Green NW11 8HR"
+      },
+      {
+        "name": "Portoberry",
+        "category": "Dairy",
+        "address": "106 Brent Street, Hendon NW4 2HH"
+      },
+      {
+        "name": "Pumpernick's",
+        "category": "Dairy",
+        "address": "53 Shenley Road, Borehamwood WD6 1AE"
+      },
+      {
+        "name": "Sababa",
+        "category": "Dairy",
+        "address": "295 Hale Lane, Edgware HA8 7AX"
+      },
+      {
+        "name": "Sami’s Edgware",
+        "category": "Meat",
+        "address": "313 Hale Lane, Edgware HA8 7AX"
+      },
+      {
+        "name": "Sami’s Hendon",
+        "category": "Meat",
+        "address": "157 Brent Street, Hendon NW4 4DJ"
+      },
+      {
+        "name": "Shnitzelhaus",
+        "category": "Meat",
+        "address": "756 Finchley Road, Temple Fortune NW11 7TH"
+      },
+      {
+        "name": "Slice",
+        "category": "Dairy",
+        "address": "6 Princes Parade, Golders Green Road, Golders Green NW11 9PS"
+      },
+      {
+        "name": "Taboon",
+        "category": "Dairy",
+        "address": "17 Russell Parade, Golders Green NW11 9NN"
+      },
+      {
+        "name": "Tasti Pizza",
+        "category": "Dairy",
+        "address": "23 Amhurst Parade, Amhurst Park N16 5AA"
+      },
+      {
+        "name": "Tish",
+        "category": "Meat",
+        "address": "196 Haverstock Hill, Belsize Park NW3 2AG"
+      },
+      {
+        "name": "Tony Page Marylebone",
+        "category": "Meat",
+        "address": "26 Paddington Street, Marylebone W1U 5QY"
+      },
+      {
+        "name": "Tuk Tuk",
+        "category": "Meat",
+        "address": "115 Golders Green Road, Golders Green NW11 8HR"
+      },
+      {
+        "name": "White Fish",
+        "category": "Dairy",
+        "address": "10-12 Bell Lane, Hendon NW4 2AD"
+      },
+      {
+        "name": "White House Express",
+        "category": "Meat",
+        "address": "63 Brent Street, Hendon NW4 2EA"
+      },
+      {
+        "name": "Yofi Restaurant & Deli",
+        "category": "Meat",
+        "address": "29-31 New Church Road, Hove BN3 4AD"
+      }
+    ]
+  }
+}
