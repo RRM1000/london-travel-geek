@@ -31,7 +31,7 @@ It is also loud. Not "city noise" loud — the streets around Great Eastern Stre
 
 So this covers two questions rather than one: **which Shoreditch hotel**, and **where to stay near Shoreditch** if you would rather not pay the premium or be woken by it.
 
-> 💡 **The Short Version:** **The Hoxton** is the best all-rounder at about £200. **The Z Hotel** is the cheapest at £110 — but its lowest rate is a windowless room and people book it by accident. **art'otel Hoxton** has two rescued Banksys on the outside of the building, free to see. And if you want the area without the price, **Stratford** is fifteen minutes away from about £100, and **the City of London** is often cheapest of all at weekends.
+> 💡 **The Short Version:** **[The Hoxton](hotel:the-hoxton-shoreditch)** is the best all-rounder at about £200. **[The Z Hotel](hotel:z-hotel-shoreditch)** is the cheapest at £110 — but its lowest rate is a windowless room and people book it by accident. **[art'otel Hoxton](hotel:artotel-london-hoxton)** has two rescued Banksys on the outside of the building, free to see. And if you want the area without the price, **Stratford** is fifteen minutes away from about £100, and **the City of London** is often cheapest of all at weekends.
 
 ## Which part of Shoreditch
 
@@ -49,7 +49,7 @@ The name covers about a mile, and the difference between its ends is the differe
 
 ### The Hoxton, Shoreditch — the best all-rounder
 
-*About £200 · Breakfast included · Shoebox to Roomy*
+*About £200 · Breakfast included · Shoebox to Roomy · [check prices](hotel:the-hoxton-shoreditch)*
 
 ![The open lobby at The Hoxton, Shoreditch: a brass ring chandelier over armchairs, an exposed brick fireplace, a herringbone bar under a Hoxton Grill sign, and a red bus passing the window](../../assets/articles/where-to-stay-shoreditch/the-hoxton-shoreditch-lobby.webp)
 
@@ -63,7 +63,7 @@ Room grades are named by size and the naming is honest: **a Shoebox is exactly w
 
 ### The Z Hotel Shoreditch — the cheapest, with a catch
 
-*About £110 · Breakfast included · Free evening cheese and wine*
+*About £110 · Breakfast included · Free evening cheese and wine · [check prices](hotel:z-hotel-shoreditch)*
 
 The compact-room format on the Shoreditch edge of the City, with free cheese and wine in the lounge every evening and breakfast in the rate. At £110 it is the only room in Shoreditch under about £150.
 
@@ -71,7 +71,7 @@ The compact-room format on the Shoreditch edge of the City, with free cheese and
 
 ### One Hundred Shoreditch — the calm one
 
-*About £180 · Six bars and restaurants*
+*About £180 · Six bars and restaurants · [check prices](hotel:one-hundred-shoreditch)*
 
 ![A twin room with a large grey geometric mural above the beds, patchwork denim quilts, a black ceiling and adjustable wall lights](../../assets/articles/where-to-stay-shoreditch/one-hundred-shoreditch-room.webp)
 
@@ -91,7 +91,7 @@ Small and quiet for the area, and the closest thing here to a hotel that does no
 
 ### Batty Langley's — the period one
 
-*About £230 · No lift, no air conditioning · Seven minutes from Liverpool Street*
+*About £230 · No lift, no air conditioning · Seven minutes from Liverpool Street · [check prices](hotel:batty-langleys)*
 
 Dark walls, floor-to-ceiling silk curtains, antiques and oil paintings on a cobbled Spitalfields street. Closer to staying inside a Georgian house museum than a hotel, and next door to Dennis Severs' House, which is literally that.
 
@@ -99,7 +99,7 @@ Dark walls, floor-to-ceiling silk curtains, antiques and oil paintings on a cobb
 
 ### Aethos London Shoreditch — the wellness rebrand
 
-*About £250 · Underground spa · Formerly Nobu Hotel*
+*About £250 · Underground spa · Formerly Nobu Hotel · [check prices](hotel:aethos-london-shoreditch)*
 
 A wellness-minded rebrand of the former Nobu Hotel Shoreditch, with floor-to-ceiling windows, a members'-club feel and an underground spa with steam and sauna, minutes from Brick Lane and Old Street.
 
@@ -107,7 +107,7 @@ A wellness-minded rebrand of the former Nobu Hotel Shoreditch, with floor-to-cei
 
 ### Virgin Hotels London-Shoreditch — the rooftop pool
 
-*About £250 · Heated rooftop pool, open all year*
+*About £250 · Heated rooftop pool, open all year · [check prices](hotel:mondrian-shoreditch)*
 
 ![A lit rooftop pool at night with a mosaic patterned floor, festoon lights strung overhead, an olive tree in a pot and a glass-walled bar alongside, with City towers behind](../../assets/articles/where-to-stay-shoreditch/virgin-hotels-shoreditch-rooftop-pool.webp)
 
@@ -121,7 +121,7 @@ A heated rooftop pool and terrace open year-round over Shoreditch, which is why 
 
 ### nhow London — the loud one, deliberately
 
-*About £150 · Punk-meets-high-tech*
+*About £150 · Punk-meets-high-tech · [check prices](hotel:nhow-london)*
 
 Project Orange's interior, complete with a Big Ben rocket sculpture in the lobby and graffiti throughout — British iconography played entirely for fun. Design-forward at a mid-range price, which is genuinely unusual.
 
@@ -129,7 +129,7 @@ Project Orange's interior, complete with a Big Ben rocket sculpture in the lobby
 
 ### art'otel London Hoxton — the tower
 
-*About £230 · 26 storeys · Two Banksys outside*
+*About £230 · 26 storeys · Two Banksys outside · [check prices](hotel:artotel-london-hoxton)*
 
 A tower wrapped in twisted black fins with the street artist D*Face's work running through every room and public space. There is a public gallery, a 60-seat screening room, and an indoor pool non-residents can book.
 
@@ -149,7 +149,7 @@ Quieter at night, and the transport is better: **the Elizabeth line puts you at 
 
 The counterintuitive one, and the best value in this guide. **The City empties out at weekends**, so hotels that charge business rates from Monday to Thursday discount hard on Friday and Saturday — the opposite of the pattern everywhere else in London.
 
-**Locke at Broken Wharf** is about £190 midweek and worth checking against a Shoreditch room for the same Saturday. Ten minutes away by bus or twenty on foot.
+**[Locke at Broken Wharf](hotel:locke-at-broken-wharf)** is about £190 midweek and worth checking against a Shoreditch room for the same Saturday. Ten minutes away by bus or twenty on foot.
 
 ### Whitechapel — east and cheaper
 
@@ -159,11 +159,11 @@ East of Shoreditch, noticeably cheaper, on both the Elizabeth line and the Distr
 
 **Staycity Aparthotels Dalston** is about £130 for an apartment with a kitchen, which is the best value in this whole guide if you are staying more than two nights or travelling with family.
 
-**The GreenHouse Capsules** on Roman Road is £42 to £53 if you can sleep in a capsule — a range of eleven pounds across a whole year, which makes it the most predictable bed in this guide. It is dearer than Zone 1 on a quiet night and cheaper in December, which our [pod hotels guide](/articles/pod-hotels-london/) goes into properly. **Town Hall Hotel** in Bethnal Green is about £220 and a genuinely special building — a 1930s town hall, with an Art Deco council chamber you can walk into.
+**[The GreenHouse Capsules](hotel:greenhouse-capsules)** on Roman Road is £42 to £53 if you can sleep in a capsule — a range of eleven pounds across a whole year, which makes it the most predictable bed in this guide. It is dearer than Zone 1 on a quiet night and cheaper in December, which our [pod hotels guide](/articles/pod-hotels-london/) goes into properly. **[Town Hall Hotel](hotel:town-hall-hotel)** in Bethnal Green is about £220 and a genuinely special building — a 1930s town hall, with an Art Deco council chamber you can walk into.
 
 ### Stratford — fifteen minutes, from £100
 
-**Premier Inn London Stratford** is about £100 and fifteen minutes from Liverpool Street on the Central line. **Hyatt Regency London Stratford** is about £170.
+**Premier Inn London Stratford** is about £100 and fifteen minutes from Liverpool Street on the Central line. **[Hyatt Regency London Stratford](hotel:hyatt-regency-stratford)** is about £170.
 
 Stratford is not charming, but it is the answer if the priority is a decent room at a fair price with fast trains — and Westfield, the Olympic Park and the Elizabeth line are all on top of it.
 
