@@ -87,7 +87,11 @@ Rooms vary a lot for one hotel — whitewashed walls, tapestry hangings and pine
 
 Soho House quality without needing to be a member, which is the entire point: **Shoreditch House is round the corner and you cannot get in.** Thirty-seven rooms in a 1970s interior with Cowshed products and a ground-floor Cecconi's.
 
-Small and quiet for the area, and the closest thing here to a hotel that does not want to be a scene.
+Small and quiet for the area, and the closest thing here to a hotel that does not want to be a scene. **Cecconi's on the ground floor is open to non-residents**, which is worth knowing both ways round: you can eat there without staying, and the restaurant is busy enough on a Friday that the lobby is not a quiet place to arrive into.
+
+The practical catch is scale. **Thirty-seven rooms means it sells out before the big hotels do**, and it has no spare capacity when it does — there is no second room type to fall back on beyond the suites. Book earlier than you would for One Hundred or the Hoxton, and note that **breakfast is charged on top** of a rate that is already £220.
+
+It sits on Whitby Street, a side turning off Redchurch Street rather than on it, which is the reason it is quieter than its address suggests.
 
 ### Batty Langley's — the period one
 
@@ -95,7 +99,11 @@ Small and quiet for the area, and the closest thing here to a hotel that does no
 
 Dark walls, floor-to-ceiling silk curtains, antiques and oil paintings on a cobbled Spitalfields street. Closer to staying inside a Georgian house museum than a hotel, and next door to Dennis Severs' House, which is literally that.
 
-**No lift and no air conditioning.** That is the trade for a genuine period building, and it is a real one in a July heatwave or with a heavy case.
+**No lift and no air conditioning.** That is the trade for a genuine period building, and it is a real one in a July heatwave or with a heavy case — ask for a lower floor if either matters, because the staircase is Georgian and narrow.
+
+**Rooms are individually decorated**, which here is literal rather than marketing: they are not variations on one scheme, so the room you see online is the room, and choosing matters more than usual. Doubles and suites only.
+
+It is on Folgate Street in Spitalfields, **seven minutes from Liverpool Street**, which puts it on the quiet side of the area — Georgian terraces rather than nightlife, and a different proposition from the Curtain Road hotels even though it is ten minutes from them. **Breakfast is extra.**
 
 ### Aethos London Shoreditch — the wellness rebrand
 
@@ -103,7 +111,11 @@ Dark walls, floor-to-ceiling silk curtains, antiques and oil paintings on a cobb
 
 A wellness-minded rebrand of the former Nobu Hotel Shoreditch, with floor-to-ceiling windows, a members'-club feel and an underground spa with steam and sauna, minutes from Brick Lane and Old Street.
 
-**Rooms lean small for the price**, which is the Shoreditch trade-off in general. The top-floor Skyline rooms have private balconies and are the ones worth booking ahead for.
+**Rooms lean small for the price**, which is the Shoreditch trade-off in general. There are four grades — double, executive, premium and Skyline suite — and **the top-floor Skyline rooms have private balconies**, which are the ones worth booking ahead for and the only reason to pay the top of the range.
+
+**The spa is the thing that justifies the £250**, and it is underground rather than a token treatment room: steam and sauna, and quiet in a way nothing else at street level in Shoreditch manages. Check whether your rate includes access when you book, because that is where the difference between this and One Hundred at £180 actually sits.
+
+Willow Street is a side street off Great Eastern Street — **close enough to the nightlife core to hear it at weekends**, so ask for a room off the front. **Breakfast is extra.**
 
 ### Virgin Hotels London-Shoreditch — the rooftop pool
 
@@ -121,11 +133,15 @@ A heated rooftop pool and terrace open year-round over Shoreditch, which is why 
 
 ### nhow London — the loud one, deliberately
 
-*About £150 · Punk-meets-high-tech · [check prices](hotel:nhow-london)*
+*About £150 · Punk-meets-high-tech · 2 Macclesfield Road, EC1V 8DG · [check prices](hotel:nhow-london)*
 
 Project Orange's interior, complete with a Big Ben rocket sculpture in the lobby and graffiti throughout — British iconography played entirely for fun. Design-forward at a mid-range price, which is genuinely unusual.
 
 **The theme is committed rather than tasteful, and that is the point.** If you want a calm room this is the wrong hotel; if you want the most fun per pound in the area it is the right one.
+
+**It is also not quite in Shoreditch**, and that is worth having straight before you book. The address is Macclesfield Road, up by Old Street and the City Road basin — a ten-minute walk from Curtain Road rather than on it. For most people that is an advantage: **you get the mid-range price and none of the 2am street noise**, at the cost of walking home. Old Street is the nearest Tube, on the Northern line, which has no night service on this branch.
+
+At about £150 it undercuts every other design hotel here by £30 to £100, and **breakfast is extra.**
 
 ### art'otel London Hoxton — the tower
 
@@ -147,15 +163,27 @@ If you have not settled on the area yet, our guide to the [best areas to stay in
 
 Quieter at night, and the transport is better: **the Elizabeth line puts you at Bond Street in about twelve minutes and Heathrow without changing.** You are still a ten-minute walk from Shoreditch's bars, which is the right distance to be from them at midnight.
 
+**The reason to choose this over Shoreditch proper is the night, in both senses.** The streets are commercial rather than residential, so they empty rather than fill after dark, and Liverpool Street is one of the best-connected points in London — the Elizabeth line, the Central line, the Circle, Hammersmith & City and Metropolitan, plus National Rail out to Stansted. **[Batty Langley's](hotel:batty-langleys)** and **[Leman Locke](hotel:leman-locke)** both sit in this pocket, the first a Georgian townhouse and the second an aparthotel with kitchens.
+
+The trade is that it is dull on a Sunday. Aldgate in particular has very little open at the weekend, so plan to walk north for food.
+
 ### The City of London — cheapest at weekends
 
 The counterintuitive one, and the best value in this guide. **The City empties out at weekends**, so hotels that charge business rates from Monday to Thursday discount hard on Friday and Saturday — the opposite of the pattern everywhere else in London.
 
-**[Locke at Broken Wharf](hotel:locke-at-broken-wharf)** is about £190 midweek and worth checking against a Shoreditch room for the same Saturday. Ten minutes away by bus or twenty on foot.
+**[Locke at Broken Wharf](hotel:locke-at-broken-wharf)** is about £190 midweek and worth checking against a Shoreditch room for the same Saturday. Ten minutes away by bus or twenty on foot, on the river between Blackfriars and the Millennium Bridge, and the rooms are studios with kitchens rather than hotel rooms — which matters more than the price if you are staying several nights.
+
+**The way to use this is to price the same Saturday twice**, once in Shoreditch and once in the City, and take whichever wins. There is no loyalty to be had here: the gap swings by more than £80 depending on the week, and it is the only area in this guide where the weekend is the cheap end.
+
+The cost is atmosphere. **The City is genuinely dead on a Sunday** — many places do not open at all — so it works for a Friday and Saturday and badly for a week.
 
 ### Whitechapel — east and cheaper
 
-East of Shoreditch, noticeably cheaper, on both the Elizabeth line and the District line. Less to do on the doorstep, but you are two stops from everything and the Elizabeth line makes the rest of London closer than it looks on a map.
+East of Shoreditch, noticeably cheaper, and on both the Elizabeth line and the District line. Less to do on the doorstep, but you are two stops from everything, and the Elizabeth line makes the rest of London closer than it looks on a map — **Bond Street in about fifteen minutes, Heathrow without changing.**
+
+What you get for the lower price is a working East End high street rather than a going-out district: **Whitechapel Market runs six days a week** along the main road, and the Royal London Hospital dominates the middle of it. It is busy by day and quiet by night, which is the opposite of Shoreditch and the reason it is cheaper.
+
+**Check what the Elizabeth line actually saves you before booking here.** It is a genuine saving on a room rate, but the walk back from Shoreditch's bars is twenty-five minutes and the night bus is the realistic way home.
 
 ### Hackney and Dalston — north, better value
 
@@ -168,6 +196,10 @@ East of Shoreditch, noticeably cheaper, on both the Elizabeth line and the Distr
 **Premier Inn London Stratford** is about £100 and fifteen minutes from Liverpool Street on the Central line. **[Hyatt Regency London Stratford](hotel:hyatt-regency-stratford)** is about £170.
 
 Stratford is not charming, but it is the answer if the priority is a decent room at a fair price with fast trains — and Westfield, the Olympic Park and the Elizabeth line are all on top of it.
+
+**It is the best-connected place in this guide by some distance.** The Central line, the Jubilee, the Elizabeth line, the Overground and the DLR all meet at one station, plus National Rail, so almost nowhere in London needs a second change. **The Central line runs all night on Fridays and Saturdays**, which is the fact that decides it for anyone planning late evenings in Shoreditch — you can get home at 3am without a taxi.
+
+The honest downside is that the area around the station is a shopping centre and a stadium, so evenings mean chains rather than the independents you came east for. Treat it as a base rather than a destination.
 
 ## What you are staying for
 

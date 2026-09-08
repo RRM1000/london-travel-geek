@@ -60,6 +60,11 @@ const only = args.filter((a) => !a.startsWith("--"));
 // Guides whose sections describe a process or a single event rather than a set
 // of venues. Pass --all to measure them anyway.
 const NOT_LISTICLES = new Set([
+  // Plan-your-trip guides whose ### are not places: day-rooms' headings are
+  // advice on choosing a booking window, and the Pass guide (already listed
+  // below) is ticket variants and sample itineraries. An 80-word floor judges
+  // neither.
+  "day-rooms-london",
   "wimbledon-tickets-guide",          // the ballot, the queue, resale, hospitality
   "hyde-park-winter-wonderland",      // one event; the sections are its rides
   "london-marathon-guide",            // ballot, spectating, road closures
@@ -114,6 +119,24 @@ const files = fs.readdirSync("src/content/articles")
     // South Bank guide gave Borough and Southwark fourteen words, and
     // Shoreditch gave Brick Lane twenty.
     if (cat === "London areas") return entries >= 4;
+    // WHERE-TO-STAY GUIDES WERE NEVER CHECKED BY THIS AUDIT AT ALL.
+    //
+    // "Plan your trip" was outside the scope, so where-to-stay-shoreditch,
+    // pod-hotels-london and the rest have only ever been judged by reading.
+    // They are listicles of named venues in every sense that matters here -
+    // a hotel entry owes the reader a price, a room grade and a catch exactly
+    // as a restaurant entry owes a dish - and they are the articles carrying
+    // affiliate links, so a thin one costs money as well as credibility.
+    //
+    // Threshold 4 rather than 8, for the same reason area guides get 4: a
+    // where-to-stay guide runs five to nine properties, not twenty, and the
+    // eight-entry rule would have excluded pod-hotels-london's five.
+    //
+    // The category also holds guides that are NOT lists of places - the
+    // London Pass guide's headings are ticket variants and sample itineraries,
+    // day-rooms-london's are advice. Those are named in NOT_LISTICLES, per the
+    // rule at the top of this file: excluded out loud, in one place.
+    if (cat === "Plan your trip") return entries >= 4;
     if (entries < 8) return false;
     return cat === "Food and drink" || cat === "Things to do";
   })
