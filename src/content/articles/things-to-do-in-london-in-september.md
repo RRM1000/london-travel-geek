@@ -1,7 +1,7 @@
 ---
 title: "Things to Do in London in September: The Month the City Gets Itself Back"
 seoTitle: "Things to Do in London in September 2026: Events, Exhibitions and Openings"
-description: "The Bayeux Tapestry arrives, Open House and the Design Festival run the same nine days, the Great River Race and the Last Night of the Proms share a Saturday, and four exhibitions close. Dates from the organisers, not the listings sites."
+description: "The Bayeux Tapestry arrives, Open House and the Design Festival run the same nine days, the Great River Race and the Last Night of the Proms share a Saturday, and four exhibitions close before the month is out."
 heroImage: "../../assets/articles/things-to-do-in-london-in-september/things-to-do-in-london-in-september.jpg"
 heroImageAlt: "Dozens of traditional rowing boats spread across the River Thames during the Great River Race, with the dome of St Paul's Cathedral and the City skyline behind, Blackfriars Bridge in the middle distance and spectators lining the embankment"
 heroImageCredit: "Motmit"
