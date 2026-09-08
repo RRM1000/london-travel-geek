@@ -39,8 +39,6 @@ Then the middle of the month does something remarkable, and no published guide s
 
 **Open House and the London Design Festival run the same nine days.** In 2026 that is 12 to 20 September, exactly. Heritage Open Days overlaps them, 11 to 20. London Fashion Week starts the day before they finish. For anyone interested in buildings, design or how London is put together, that week is the best week of the year to be in the city — and it is simultaneously the worst week to want a cheap hotel room or a quiet gallery. Both halves of that are worth knowing before you book.
 
-Everything below is dated from the organisers' own sites rather than from listings pages, and checked on 8 September 2026.
-
 ## The one that will define the year
 
 ### The Bayeux Tapestry — British Museum, from 10 September
