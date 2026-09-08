@@ -60,10 +60,9 @@ Two restaurants sit level at the top on seven sources each, and they are not doi
 
 *££ · multiple sites · walk-in · Cited by 7 sources · National Burger Awards 2026 finalist · [website](https://www.bleecker.co.uk/)*
 
-![A thick charred beef patty in a soft bun beside a pile of rosemary-salted chips and a glass of red wine](../../assets/articles/best-burgers-london/best-burgers-london.jpg)
+![A double cheeseburger with bacon and melted American cheese in a sesame bun, held in one hand over an open white takeaway box](../../assets/articles/best-burgers-london/bleecker.jpg)
 
-*A burger and chips at Honest, Soho. Photo by [Ewan Munro](https://commons.wikimedia.org/wiki/File:Hamburger_and_fries_-_Honest,_Soho,_London.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).*
-*The menu is deliberately tiny, and this is the bacon double: dry-aged beef, a crust off a hard sear, nothing garnished into it.*
+*The menu is deliberately tiny, and this is the bacon double: dry-aged beef, a crust off a hard sear, nothing garnished into it. It arrives in a box, which is the whole operation in one detail.*
 
 **The one that most London burger arguments end at**, and the only name here that appears on every kind of list — the award shortlist, the critics, the listings sites and the tourist board.
 

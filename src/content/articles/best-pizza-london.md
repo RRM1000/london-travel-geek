@@ -9,12 +9,8 @@ canonicalSite: london
 category: "Food and drink"
 tags: [restaurants, pizza, Italian restaurants, cheap eats, dining]
 draft: false
-heroImage: "../../assets/articles/best-pizza-london/best-pizza-london.jpg"
-heroImageAlt: "A margherita pizza on a wooden board marked with the names of classic pizza styles — Margherita, Napoletana, Formaggi, Siciliana, Marinara and Capricciosa"
-heroImageCredit: "The Pizza Bike"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:European_Margaretha_pizza.jpg"
-heroImageLicense: "CC BY 2.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+heroImage: "../../assets/articles/best-pizza-london/crisp-pizza.jpg"
+heroImageAlt: "A New Haven-style pepperoni pizza at Crisp in Mayfair, its crust blistered and charred dark at the edge, topped with cupped pepperoni, tomato and spoonfuls of ricotta, on a metal pan"
 faq:
   - q: "What is the best pizza in London?"
     a: "Three judges, three answers. The National Pizza Awards gave the 2025 national title to Short Road Pizza, a residency in a Leyton brewery pub, and Time Out ranks it first in London. 50 Top Pizza puts Napoli on the Road in Chiswick first in Europe for the third year running. Crisp Pizza is named by more independent sources than any other pizzeria in the city, and The Infatuation ranks it first of twelve. They disagree because they are measuring different things."
