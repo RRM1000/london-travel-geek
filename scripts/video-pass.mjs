@@ -192,6 +192,11 @@ const demojibake = (s) => String(s).replace(/�/g, "'").replace(/\s+/g, " ").tr
 
 function cleanName(name) {
   let s = demojibake(name);
+  // Leading pins, bullets, list numbers and stray punctuation. Every gate below
+  // anchors on ^, so a single invisible or decorative leading character makes
+  // all of them silently miss - "What is Brick Lane" survived the question gate
+  // that way.
+  s = s.replace(/^[^\p{L}\p{N}]+/u, "").trim();
   s = s.replace(/\s*\([^)]*\)\s*$/, "").trim();   // trailing "(Soho)"
   let prev;
   do { prev = s; s = s.replace(SEGMENT_TAIL, "").trim(); } while (s !== prev);
@@ -213,11 +218,16 @@ function isVenueName(name) {
   if (/�/.test(s)) return false;             // unrepaired mojibake
   if (CHAPTER_FURNITURE.has(lower)) return false;
   if (NOT_LONDON_PLACE.test(s)) return false;
+  // Question-shaped chapters. "What is Brick Lane", "Why Vietnamese food?" - a creator
+  // signposting an explainer segment, never a venue.
+  if (/^(what|why|how|where|who|when)\b/i.test(s) ) return false;
+  // "Thai Food", "Vietnamese Food", "Korean BBQ" - a cuisine label, not a room.
+  if (/^(thai|vietnamese|korean|chinese|japanese|indian|italian|french|spanish|greek|turkish|british|american|mexican)\s+(food|cuisine|bbq|barbecue|restaurant|restaurants)$/i.test(s)) return false;
   // "Walk around Battersea Power Station", "Getting to Soho" - a chapter about
   // moving between places, not a place that serves anything.
   if (/^(walk(ing)? (around|to|through)|getting to|heading to|arriving at|drive to|on the way)/i.test(s)) return false;
   // "... Tube Station" is transport, never a venue.
-  if (/(tube|underground|overground|railway|train)s+station/i.test(s)) return false;
+  if (/\b(tube|underground|overground|railway|train)\s+station\b/i.test(s)) return false;
   // A single short word is far more often a truncated chapter label than a
   // venue - "Holy", "Music", "Dove". Two-word names and longer stand; so do
   // short names carrying a distinguishing mark, which is how Brat and Kolae
@@ -341,7 +351,7 @@ function fromKeywords(keywords, extraCandidates) {
     // best pizza" collapses to nothing; "molesey fish bar" and "the george pub"
     // survive, and those are exactly the new venues worth finding.
     const residue = k
-      .replace(/(fish and chips|chippy|pub|bar|cafe|caff|bakery|pizza|burger|steak|curry|noodles?|ramen|sushi|tacos?|cocktails?|coffee|brunch|breakfast|dinner|lunch|eats?|eating|dining|cheap|luxury|historic|traditional|british|italian|indian|chinese|japanese|thai|korean|mexican|french|spanish|turkish|greek|vegan|vegetarian|chefs?|places?|spots?|things|visit|travel|vlog|2024|2025|2026)/g, " ")
+      .replace(/\b(fish and chips|chippy|pub|bar|cafe|caff|bakery|pizza|burger|steak|curry|noodles?|ramen|sushi|tacos?|cocktails?|coffee|brunch|breakfast|dinner|lunch|eats?|eating|dining|cheap|luxury|historic|traditional|british|italian|indian|chinese|japanese|thai|korean|mexican|french|spanish|turkish|greek|vegan|vegetarian|chefs?|places?|spots?|things|visit|travel|vlog|2024|2025|2026)\b/g, " ")
       .replace(/\s+/g, " ").trim();
     // Requiring two surviving words is not enough - "restaurants to visit in"
     // survives it. A real name contains at least one DISTINCTIVE word: one that
@@ -384,10 +394,10 @@ function extract(description) {
     // Every food channel ends with the same furniture. None of it is a venue.
     if (/^(subscribe|follow|use code|discount|sponsor|thanks for watching)/i.test(raw)) continue;
     if (/^(let'?s connect|my (equipment|gear|kit)|music|about me|copyright|social media|special thanks|credits?|disclaimer|affiliate)/i.test(raw)) continue;
-    if (/^(instagram|tiktok|twitter|facebook|patreon|newsletter|merch)/i.test(raw)) continue;
+    if (/^(instagram|tiktok|twitter|facebook|patreon|newsletter|merch)\b/i.test(raw)) continue;
     if (/epidemic sound|artlist|licen[cs]ed under/i.test(raw)) continue;
     if (/^(intro|outro|chapters?|timestamps?|restaurants? on this list)/i.test(raw)) continue;
-    if (/(like and subscribe|go follow|merch|patreon|shop my|my links|business enquir)/i.test(raw)) continue;
+    if (/\b(like and subscribe|go follow|merch|patreon|shop my|my links|business enquir)/i.test(raw)) continue;
 
     // Strip a leading timestamp, list number or pin so the name is at the front.
     let line = raw

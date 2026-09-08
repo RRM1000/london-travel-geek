@@ -37133,8 +37133,8 @@
       "general",
       "vietnamese"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -37151,8 +37151,8 @@
         "hasAward": false
       },
       "vietnamese": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
         "tierCount": 2,
         "hasAward": false
       }
@@ -37172,6 +37172,11 @@
         "tier": "C",
         "source": "LSE Students Blog",
         "url": "https://blogs.lse.ac.uk/studentsatlse/2025/03/05/your-go-to-guide-for-vietnamese-food-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-vietnamese-restaurants-london/"
       }
     ]
   },
@@ -38847,8 +38852,7 @@
       "late-night",
       "new-openings",
       "seafood",
-      "steak",
-      "vietnamese"
+      "steak"
     ],
     "sourceCount": 2,
     "tierSpread": "B2",
@@ -38892,12 +38896,6 @@
         "hasAward": false
       },
       "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "vietnamese": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -39150,8 +39148,7 @@
       "late-night",
       "new-openings",
       "seafood",
-      "steak",
-      "vietnamese"
+      "steak"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -39189,12 +39186,6 @@
         "hasAward": false
       },
       "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "vietnamese": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -48079,14 +48070,21 @@
   "banhmihoian": {
     "name": "Bánh Mì Hoi An",
     "topics": [
-      "cheap-eats"
+      "cheap-eats",
+      "vietnamese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "cheap-eats": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "vietnamese": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -48098,6 +48096,11 @@
         "tier": "C",
         "source": "So What's The Sitch",
         "url": "https://sowhatsthesitch.substack.com/p/london-cheap-eats-that-are-10-or"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-vietnamese-restaurants-london/"
       }
     ]
   },
@@ -51659,11 +51662,12 @@
     "topics": [
       "chinese",
       "late-night",
-      "thai"
+      "thai",
+      "vietnamese"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B4 C2",
-    "tierCount": 2,
+    "sourceCount": 7,
+    "tierSpread": "B4 C2 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "chinese": {
@@ -51682,6 +51686,12 @@
         "sourceCount": 4,
         "tierSpread": "B2 C2",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "vietnamese": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -51715,6 +51725,11 @@
         "tier": "C",
         "source": "PS London",
         "url": "https://www.ps-london.com/thai-fine-dining-london/"
+      },
+      {
+        "tier": "D",
+        "source": "The Roaming Cook (YouTube)",
+        "url": "https://www.youtube.com/@theroamingcook"
       }
     ]
   },
@@ -52770,16 +52785,23 @@
   "vietfood": {
     "name": "Viet Food",
     "topics": [
-      "chinese"
+      "chinese",
+      "vietnamese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "chinese": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "vietnamese": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -52789,6 +52811,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-vietnamese-restaurants-london/"
       }
     ]
   },
@@ -83891,8 +83918,8 @@
       "general",
       "vietnamese"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -83903,8 +83930,8 @@
         "hasAward": false
       },
       "vietnamese": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
+        "sourceCount": 4,
+        "tierSpread": "B1 C3",
         "tierCount": 2,
         "hasAward": false
       }
@@ -83925,6 +83952,11 @@
         "tier": "C",
         "source": "LSE Students Blog",
         "url": "https://blogs.lse.ac.uk/studentsatlse/2025/03/05/your-go-to-guide-for-vietnamese-food-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Time Well Spent",
+        "url": "https://www.timewellspentmag.com/post/masterchef-star-thuy-hoang-names-london-s-best-vietnamese-restaurants"
       }
     ]
   },
@@ -119103,10 +119135,10 @@
       "new-openings",
       "vietnamese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
     "byTopic": {
       "new-openings": {
         "sourceCount": 1,
@@ -119115,13 +119147,18 @@
         "hasAward": false
       },
       "vietnamese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/en/greater-london/london/restaurant/lai-rai"
+      },
       {
         "tier": "B",
         "source": "The Infatuation",
@@ -120470,9 +120507,9 @@
       "new-openings",
       "vietnamese"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "new-openings": {
@@ -120482,9 +120519,9 @@
         "hasAward": false
       },
       "vietnamese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -120498,6 +120535,11 @@
         "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/best-vietnamese-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-vietnamese-restaurants-london/"
       }
     ]
   },
@@ -142681,15 +142723,15 @@
     "topics": [
       "vietnamese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 8,
+    "tierSpread": "B3 C3 D2",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "vietnamese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 8,
+        "tierSpread": "B3 C3 D2",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -142698,36 +142740,46 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-vietnamese-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-vietnamese-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-pho-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/london-vietnamese-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-vietnamese-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Time Well Spent",
+        "url": "https://www.timewellspentmag.com/post/masterchef-star-thuy-hoang-names-london-s-best-vietnamese-restaurants"
+      },
+      {
+        "tier": "D",
+        "source": "The Roaming Cook (YouTube)",
+        "url": "https://www.youtube.com/@theroamingcook"
+      },
+      {
+        "tier": "D",
+        "source": "RollinJoint (YouTube)",
+        "url": "https://www.youtube.com/@Rollinjoint"
       }
     ]
   },
   "haicafe": {
     "name": "Hai Cafe",
-    "topics": [
-      "vietnamese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vietnamese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-vietnamese-restaurants-london"
-      }
-    ]
-  },
-  "hoasen": {
-    "name": "Hoa Sen",
     "topics": [
       "vietnamese"
     ],
@@ -142751,8 +142803,43 @@
       },
       {
         "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-pho-london/"
+      }
+    ]
+  },
+  "hoasen": {
+    "name": "Hoa Sen",
+    "topics": [
+      "vietnamese"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "vietnamese": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-vietnamese-restaurants-london"
+      },
+      {
+        "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-vietnamese-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "Time Well Spent",
+        "url": "https://www.timewellspentmag.com/post/masterchef-star-thuy-hoang-names-london-s-best-vietnamese-restaurants"
       }
     ]
   },
@@ -143026,15 +143113,15 @@
     "topics": [
       "vietnamese"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
+    "sourceCount": 6,
+    "tierSpread": "B4 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "vietnamese": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
+        "sourceCount": 6,
+        "tierSpread": "B4 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -143050,9 +143137,24 @@
         "url": "https://luxurylondon.co.uk/taste/food/best-vietnamese-restaurants-london/"
       },
       {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-vietnamese-restaurant-london_9512"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-pho-london/"
+      },
+      {
         "tier": "C",
         "source": "LSE Students Blog",
         "url": "https://blogs.lse.ac.uk/studentsatlse/2025/03/05/your-go-to-guide-for-vietnamese-food-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "The Roaming Cook (YouTube)",
+        "url": "https://www.youtube.com/@theroamingcook"
       }
     ]
   },
@@ -143083,31 +143185,6 @@
   },
   "senrestaurant": {
     "name": "Sen Restaurant",
-    "topics": [
-      "vietnamese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vietnamese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-vietnamese-restaurants"
-      }
-    ]
-  },
-  "songque": {
-    "name": "Sông Quê",
     "topics": [
       "vietnamese"
     ],
@@ -143186,15 +143263,15 @@
     "topics": [
       "vietnamese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "vietnamese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -143203,6 +143280,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-vietnamese-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-vietnamese-restaurants-london/"
       }
     ]
   },
@@ -143211,14 +143293,14 @@
     "topics": [
       "vietnamese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "vietnamese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -143228,6 +143310,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-vietnamese-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-vietnamese-restaurant-london_9512"
       }
     ]
   },
@@ -143236,15 +143323,15 @@
     "topics": [
       "vietnamese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "vietnamese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -143253,6 +143340,16 @@
         "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/best-vietnamese-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-vietnamese-restaurant-london_9512"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/london-vietnamese-restaurants/"
       }
     ]
   },
@@ -143281,83 +143378,278 @@
       }
     ]
   },
-  "march5th": {
-    "name": "March 5th",
+  "bunbunbun": {
+    "name": "Bun Bun Bun",
     "topics": [
       "vietnamese"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "vietnamese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
       {
-        "tier": "C",
-        "source": "LSE Students Blog",
-        "url": "https://blogs.lse.ac.uk/studentsatlse/2025/03/05/your-go-to-guide-for-vietnamese-food-in-london/"
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-vietnamese-restaurant-london_9512"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-pho-london/"
       }
     ]
   },
-  "longdan": {
-    "name": "Longdan",
+  "cytre": {
+    "name": "C y Tre",
     "topics": [
       "vietnamese"
     ],
     "sourceCount": 1,
-    "tierSpread": "C1",
+    "tierSpread": "B1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "vietnamese": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
       {
-        "tier": "C",
-        "source": "LSE Students Blog",
-        "url": "https://blogs.lse.ac.uk/studentsatlse/2025/03/05/your-go-to-guide-for-vietnamese-food-in-london/"
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-vietnamese-restaurant-london_9512"
       }
     ]
   },
-  "lytrangsupermarket": {
-    "name": "Ly Trang Supermarket",
+  "phoandbun": {
+    "name": "Pho & Bun",
     "topics": [
       "vietnamese"
     ],
     "sourceCount": 1,
-    "tierSpread": "C1",
+    "tierSpread": "B1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "vietnamese": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
       {
-        "tier": "C",
-        "source": "LSE Students Blog",
-        "url": "https://blogs.lse.ac.uk/studentsatlse/2025/03/05/your-go-to-guide-for-vietnamese-food-in-london/"
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-vietnamese-restaurant-london_9512"
       }
     ]
   },
-  "affordablelunchspotsatandnearlse": {
-    "name": "Affordable lunch spots at and near LSE",
+  "pho": {
+    "name": "Pho",
+    "topics": [
+      "vietnamese"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "vietnamese": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-vietnamese-restaurant-london_9512"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-pho-london/"
+      }
+    ]
+  },
+  "bnhbnh": {
+    "name": "B nh B nh",
+    "topics": [
+      "vietnamese"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "vietnamese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-vietnamese-restaurant-london_9512"
+      }
+    ]
+  },
+  "banhmibay": {
+    "name": "Banh Mi Bay",
+    "topics": [
+      "vietnamese"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "vietnamese": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-vietnamese-restaurant-london_9512"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/london-vietnamese-restaurants/"
+      }
+    ]
+  },
+  "mientay": {
+    "name": "Mien Tay",
+    "topics": [
+      "vietnamese"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "vietnamese": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-vietnamese-restaurant-london_9512"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-pho-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/london-vietnamese-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-vietnamese-restaurants-london/"
+      }
+    ]
+  },
+  "citycaphe": {
+    "name": "City Caphe",
+    "topics": [
+      "vietnamese"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "vietnamese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-vietnamese-restaurant-london_9512"
+      }
+    ]
+  },
+  "greenpapaya": {
+    "name": "Green Papaya",
+    "topics": [
+      "vietnamese"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "vietnamese": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-vietnamese-restaurant-london_9512"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-pho-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/london-vietnamese-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-vietnamese-restaurants-london/"
+      }
+    ]
+  },
+  "saigonsaigon": {
+    "name": "Saigon Saigon",
     "topics": [
       "vietnamese"
     ],
@@ -143376,8 +143668,158 @@
     "sources": [
       {
         "tier": "C",
-        "source": "LSE Students Blog",
-        "url": "https://blogs.lse.ac.uk/studentsatlse/2025/03/05/your-go-to-guide-for-vietnamese-food-in-london/"
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-vietnamese-restaurants-london/"
+      }
+    ]
+  },
+  "cafeeast": {
+    "name": "Café East",
+    "topics": [
+      "vietnamese"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "vietnamese": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-vietnamese-restaurants-london/"
+      }
+    ]
+  },
+  "taydorestaurant": {
+    "name": "Tay Do Restaurant",
+    "topics": [
+      "vietnamese"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "vietnamese": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-vietnamese-restaurants-london/"
+      }
+    ]
+  },
+  "houseofho": {
+    "name": "House of Ho",
+    "topics": [
+      "vietnamese"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "vietnamese": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-vietnamese-restaurants-london/"
+      }
+    ]
+  },
+  "phatphuc": {
+    "name": "Phat Phuc",
+    "topics": [
+      "vietnamese"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "vietnamese": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-vietnamese-restaurants-london/"
+      }
+    ]
+  },
+  "phopham": {
+    "name": "Pho Pham",
+    "topics": [
+      "vietnamese"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "vietnamese": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/best-vietnamese-restaurants-london/"
+      }
+    ]
+  },
+  "eatvietnam": {
+    "name": "Eat Vietnam",
+    "topics": [
+      "vietnamese"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "vietnamese": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Time Well Spent",
+        "url": "https://www.timewellspentmag.com/post/masterchef-star-thuy-hoang-names-london-s-best-vietnamese-restaurants"
       }
     ]
   },

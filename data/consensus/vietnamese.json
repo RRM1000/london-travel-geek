@@ -1,7 +1,7 @@
 {
   "cuisine": "vietnamese",
-  "note": "Tier 2, sized at 17 rows - deliberately fewer than the tier 1 cuisines, per sizing in research-playbook.json. SCOPE: Vietnamese. Kingsland Road is the historic concentration. Cay Tre and Eat Vietnam are already visible in the general-excellence results. guide.michelin.com is blocked (403) so it is absent by design. Every URL came from a search result.",
-  "recorded": "2026-08-30",
+  "note": "Tier 2, sized at 17 rows - deliberately fewer than the tier 1 cuisines, per sizing in research-playbook.json. SCOPE: Vietnamese. Kingsland Road is the historic concentration. Cay Tre and Eat Vietnam are already visible in the general-excellence results. guide.michelin.com is blocked (403) so it is absent by design. Every URL came from a search result. 2026-09-08: trap 8 cleaned from Luxury London and the LSE blog - navigation strings, a date, a headline and two grocers (Longdan, Ly Trang Supermarket) were recorded as venues. 2026-09-08: Vittles and The Nudge seeded, fetched and REMOVED - Vittles paywalled. Its five extracted names are two author bylines - one of them mojibaked into a second record - and two restaurants that are not Vietnamese. Zero Vietnamese venues. The config already flagged the paywall; this confirms nothing can be read through it. The Nudge London returned one string, \"The Details\", and no venues. The Nudge extracts fine elsewhere - it gave 54 names on wine bars - so this is its Vietnamese page rather than the domain.",
+  "recorded": "2026-09-08",
   "sources": [
     {
       "name": "The Infatuation (Vietnamese)",
@@ -52,14 +52,13 @@
       "url": "https://luxurylondon.co.uk/taste/food/best-vietnamese-restaurants-london/",
       "scope": "vietnamese",
       "names": [
-        "/ Social",
         "Kêu",
         "Viet Grill",
         "Cây Tre",
         "Bánh Bánh",
-        "Med Salleh Viet",
-        "Posts"
-      ]
+        "Med Salleh Viet"
+      ],
+      "note": "Trap 8 cleaned 2026-09-08: navigation, headlines and grocers removed."
     },
     {
       "name": "LSE Students Blog",
@@ -67,14 +66,143 @@
       "scope": "vietnamese",
       "names": [
         "Thu Huong",
-        "March 5th",
         "Cay Tre",
         "Banh Mi Keu Deli",
         "Viet Grill",
-        "Pho Thuy Tay",
-        "Longdan",
-        "Ly Trang Supermarket",
-        "Affordable lunch spots at and near LSE"
+        "Pho Thuy Tay"
+      ],
+      "note": "Trap 8 cleaned 2026-09-08: navigation, headlines and grocers removed."
+    },
+    {
+      "name": "SquareMeal",
+      "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-vietnamese-restaurant-london_9512",
+      "scope": "vietnamese",
+      "names": [
+        "BunBunBun",
+        "C y Tre",
+        "Keu",
+        "Viet Grill",
+        "Pho & Bun",
+        "Pho",
+        "B nh B nh",
+        "Banh Mi Bay",
+        "Viet Eat",
+        "Mien Tay",
+        "City Caphe",
+        "Green Papaya"
+      ]
+    },
+    {
+      "name": "Foodism",
+      "url": "https://foodism.co.uk/guides/best-pho-london/",
+      "scope": "vietnamese",
+      "names": [
+        "Viet Grill",
+        "Song Que Café",
+        "Hai Café",
+        "Mien Tay",
+        "Bun Bun Bun",
+        "Green Papaya",
+        "Pho"
+      ]
+    },
+    {
+      "name": "Secret London",
+      "url": "https://secretldn.com/london-vietnamese-restaurants/",
+      "scope": "vietnamese",
+      "names": [
+        "Sông Quê Café",
+        "Kêu",
+        "Miến Tăy",
+        "Banh Mi Bay",
+        "Green Papaya"
+      ]
+    },
+    {
+      "name": "London x London",
+      "url": "https://www.londonxlondon.com/best-vietnamese-restaurants-london/",
+      "scope": "vietnamese",
+      "names": [
+        "Cây Tre",
+        "Sông Quê",
+        "Mien Tay",
+        "Saigon Saigon",
+        "Banh Banh",
+        "Café East",
+        "Viet Food",
+        "Tay Do Restaurant",
+        "House of Ho",
+        "Green Papaya",
+        "Sen Viet",
+        "Bánh Mì Hôi-An",
+        "Phat Phuc",
+        "Pho Pham"
+      ]
+    },
+    {
+      "name": "Time Well Spent - Thuy Hoang",
+      "url": "https://www.timewellspentmag.com/post/masterchef-star-thuy-hoang-names-london-s-best-vietnamese-restaurants",
+      "scope": "vietnamese",
+      "names": [
+        "Eat Vietnam",
+        "Hoa Sen",
+        "Phở Thúy Tây",
+        "Sông Quê Café"
+      ],
+      "note": "Names recorded by hand 2026-09-08 - the fetcher returned only \"Recent Posts\". Thuy Hoang names exactly four, with addresses: Eat Vietnam (234 Evelyn Street, Deptford SE8 5BZ), Hoa Sen (22 Drury Lane WC2B 5RH), Phở Thúy Tây (1B Rotherhithe Old Road SE16 2PP) and Sông Quê Café on Kingsland Road. Only one of the four is on the strip."
+    },
+    {
+      "name": "The Picky Glutton",
+      "url": "https://pickyglutton.com/2025/04/21/pho-thuy-tay-review-vietnamese-surrey-quays/",
+      "scope": "vietnamese",
+      "names": [
+        "Phở Thúy Tây"
+      ],
+      "error": "no headings matched",
+      "note": "Recorded by hand 2026-09-08. This is a single-venue review, not a list, so there was nothing for the extractor to pull - but a review is an opinion and counts as one."
+    },
+    {
+      "name": "Michelin Guide - Bib Gourmand",
+      "url": "https://guide.michelin.com/en/greater-london/london/restaurant/lai-rai",
+      "scope": "vietnamese",
+      "tier": "A",
+      "names": [
+        "Lai Rai"
+      ],
+      "note": "Recorded by hand 2026-09-08. Lai Rai on Rye Lane, Peckham, took a Bib Gourmand in the 2026 Michelin Guide UK - the only judged Vietnamese honour in the UK and Ireland. guide.michelin.com 403s WebFetch and the browser, and sources.json substitutes the Michelin-STARRED Wikipedia list, which carries no Bib Gourmands at all - so this award was invisible to every automated route and the corpus note previously said no judged award existed. Verified against Michelin's own page titles in English and French."
+    },
+    {
+      "name": "Gary Butler - The Roaming Cook (YouTube)",
+      "url": "https://www.youtube.com/@theroamingcook",
+      "scope": "vietnamese",
+      "channel": "@theroamingcook",
+      "videos": [
+        {
+          "title": "We Tried the Best Rated Vietnamese Food in London 🇬🇧🇻🇳",
+          "url": "https://www.youtube.com/watch?v=aYN1vd0A7QU",
+          "published": "2025-12-19"
+        }
+      ],
+      "names": [
+        "Sông Quê Café",
+        "Speedboat Bar",
+        "Viet Grill"
+      ]
+    },
+    {
+      "name": "RollinJoint (YouTube)",
+      "url": "https://www.youtube.com/@Rollinjoint",
+      "scope": "vietnamese",
+      "channel": "@Rollinjoint",
+      "videos": [
+        {
+          "title": "Where Can You Find the Best Vietnamese Food in London? | Taste the world without leaving London",
+          "url": "https://www.youtube.com/watch?v=SCsgub8G7BE",
+          "published": "2021-06-27"
+        }
+      ],
+      "names": [
+        "Sông Quê Café"
       ]
     }
   ]
