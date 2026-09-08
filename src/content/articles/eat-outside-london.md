@@ -74,6 +74,10 @@ The best afternoons use both. Buy lunch from a counter in the precinct, carry it
 
 ### Coal Drops Yard and King's Cross
 
+![Red bistro tables filled with people eating outside at Coal Drops Yard, under the curved warehouse roofs with brick arch balconies above](../../assets/articles/eat-outside-london/coal-drops-yard-tables.jpg)
+
+*Coal Drops Yard on a summer evening. The tables in the middle are the venues'; the steps down to the canal at Granary Square are not.*
+
 *££ · King's Cross · 5 min from King's Cross St Pancras · shops Mon–Sat 11am–7pm, Sun 11am–5pm; restaurants later · [Coal Drops Yard](https://www.kingscross.co.uk/coal-drops-yard)*
 
 Two Victorian coal drops — the eastern one built in 1851, the western in 1860 — where coal from South Yorkshire was tipped from trains into canal boats and carts below. They opened as a shopping and eating yard on 26 October 2018, joined by Thomas Heatherwick's "kissing roof": two slate roofs pulled up and across a 35-metre gap until they touch.

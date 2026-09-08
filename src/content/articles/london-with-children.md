@@ -184,6 +184,10 @@ An indoor amusement park on Castlehaven Road, a minute from Camden Lock, on thre
 
 ### Granary Square Fountains, King's Cross
 
+![Children running through the ground fountains at Granary Square in King's Cross on a summer afternoon](../../assets/articles/london-with-children/granary-square-fountains.jpg)
+
+*Free, unfenced and running all summer. Bring a towel and a change of clothes.*
+
 *Free · daylight hours, every day · King's Cross St Pancras*
 
 Four banks of jets set flush into the paving in front of the old Granary Building — **over 1,000 of them, individually controlled and individually lit** — with no fence, no queue, no ticket and no closing time beyond the light. Children run in and out of them for as long as you are willing to stand there. It is five minutes from the King's Cross and St Pancras concourses, which makes it the best answer in London to a delayed train with small children in tow. **They run daily during daylight hours and cost nothing**, though the display setting varies and is currently kept to a low, intermittent pattern rather than the full choreographed programme. Bring a towel and a complete change of clothes. The paving is hard and children fall over on it.

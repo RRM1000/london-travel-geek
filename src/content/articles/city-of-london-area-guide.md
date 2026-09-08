@@ -123,6 +123,10 @@ The cathedral, the square behind it, and the shopping centre opposite that most 
 
 ### Bank and the Royal Exchange
 
+![A red bus passing the Royal Exchange at Bank, with the City's towers rising behind it](../../assets/articles/city-of-london-area-guide/royal-exchange-bus.jpg)
+
+*The Royal Exchange at Bank, with the City's towers behind it.*
+
 Seven roads meeting at once, with the **Bank of England**, the **Royal Exchange** and **Mansion House** on three corners of the junction. It is the most concentrated piece of imperial architecture in Britain and it is also a working traffic interchange, so give yourself a moment to look up.
 
 **The Royal Exchange is open and free to walk into** — Victorian courtyard, mosaic floor, now luxury shops around a central bar. Nobody will stop you.

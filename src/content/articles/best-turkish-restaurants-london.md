@@ -131,6 +131,10 @@ Nine of the twenty-seven restaurants here are on or just off this one road. If y
 
 ### Hala, Green Lanes
 
+![Women making gozleme in the window of Hala Restaurant on Green Lanes, Harringay, during the Green Lanes Festival](../../assets/articles/best-turkish-restaurants-london/green-lanes-hala.jpg)
+
+*Gozleme made in the window on Green Lanes, during the Green Lanes Festival.*
+
 *££ · Harringay · Cited by 2 sources*
 
 **Family-run since 2002**, and the name regulars give when pushed past the obvious answers. Time Out calls it an undeniable leader among London's Turkish restaurants — smaller and warmer than Gökyüzü up the road, and the service is the reason people stay loyal.

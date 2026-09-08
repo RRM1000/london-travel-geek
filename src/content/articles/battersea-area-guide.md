@@ -105,6 +105,10 @@ Battersea has its own share of the commemorative plaques marking where notable p
 
 ### The Power Station and Electric Boulevard
 
+![The brick facade and white chimneys of Battersea Power Station](../../assets/articles/battersea-area-guide/battersea-power-station.jpg)
+
+*The brick facade and the four white chimneys - the landmark you navigate the whole area by.*
+
 The building reopened in **October 2022** after decades derelict, and the thing worth knowing before you go is that **walking into it is free**. Over 170 shops, bars and restaurants now fill it, but the fabric is the reason to come: only the Chimney Lift, the cinemas and the ticketed exhibitions cost anything.
 
 **Walk between the two turbine halls, because they are not the same building.** **Turbine Hall A** is the 1930s one — Art Deco, restrained, the better room. **Turbine Hall B** is 1950s, plainer and frankly industrial, built when the money and the mood had changed. Standing in one and then the other is the clearest architectural lesson in the place and it costs nothing.

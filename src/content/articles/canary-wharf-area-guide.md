@@ -136,6 +136,10 @@ The **Museum of London Docklands** occupies one of them, telling the story of th
 ### Crossrail Place
 The Elizabeth line station, and **the best piece of architecture in Canary Wharf** — a timber lattice roof over four levels, built into the old North Dock so the whole structure floats in water.
 
+![The timber lattice roof of Crossrail Place rising out of the dock water at Canary Wharf, with office towers behind](../../assets/articles/canary-wharf-area-guide/crossrail-place-dock.jpg)
+
+*The timber lattice roof rising straight out of the dock. The garden inside it is enclosed rather than open-air.*
+
 The **roof garden on top is free and open to the public**, planted with species from the trade routes the docks once served, and it is genuinely quiet even at lunchtime.
 
 **Open daily, no ticket**, and reached directly from the station without going outside — which makes it the obvious thing to do while waiting for a train.

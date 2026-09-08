@@ -122,6 +122,10 @@ Two things worth knowing about these numbers.
 
 ### Zedwell Capsule Piccadilly Circus — book this one
 
+![A corridor of sleeping capsules at a Zedwell capsule hotel, lit strips along the floor and signage reading Cocoon 5.163-5.164 and Toilets Showers](../../assets/articles/pod-hotels-london/zedwell-capsule-corridor.jpg)
+
+*A capsule corridor at Zedwell. The signage is how you find yours - there are no windows and every corridor looks alike.*
+
 *£33–£68 · 965 capsules · London Pavilion, W1J 0DA · Piccadilly Circus 1 min · [check prices](hotel:zedwell-piccadilly-capsule)*
 
 The largest capsule hotel in the UK, on five floors of the Grade II London Pavilion — the building that used to hold Ripley's Believe It or Not. **One minute from Piccadilly Circus station**, six from Leicester Square.

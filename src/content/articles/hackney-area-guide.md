@@ -118,6 +118,10 @@ The **Hertford Union Canal** runs along its southern edge with a towpath and a r
 ### Hackney Wick
 Further east where the canals meet, and **the highest concentration of artists' studios in Europe** at its peak — much of it now redeveloped, though the warehouses, the painted walls and the breweries remain.
 
+![The Lord Napier Star pub in Hackney Wick, covered from roof to pavement in street art](../../assets/articles/hackney-area-guide/lord-napier-hackney-wick.jpg)
+
+*The Lord Napier Star, covered roof to pavement in street art.*
+
 It is a drinking and daytime-wandering destination rather than a sightseeing one: taprooms, canal-side terraces and a lot of street art that changes constantly.
 
 **Footbridges cross straight into the Olympic Park**, which makes this the best approach to it on foot. Hackney Wick station is on the Overground, and the area is at its best on a summer afternoon and fairly bleak in the rain.

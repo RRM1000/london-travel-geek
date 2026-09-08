@@ -2,6 +2,8 @@
 title: "The Best Fried Chicken in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Fried Chicken London 2026: Ranked Across Every Major List"
 description: "Fourteen independent sources, one judged championship, and the awkward fact that the judges' champion appears on nobody's list. What each place actually fries, and where."
+heroImage: "../../assets/articles/best-fried-chicken-london/butchies-tenders-hero.jpg"
+heroImageAlt: "Buttermilk-fried chicken tenders on a metal tray lined with branded paper, with cheese-covered fries alongside"
 publishedAt: 2026-09-07
 sites: [london]
 canonicalSite: london
@@ -34,7 +36,7 @@ That disagreement is not a flaw in the evidence. It is the most interesting thin
 > 💡 **The Short Version:** **20Ft Fried Chicken** won the only judged championship. **Good Friend** in Chinatown is named by more sources than anything else. **Chick'N'Sours** and **Butchies** are the only two names in both camps — and Chick'N'Sours no longer has a restaurant. **Morley's** is the chicken shop the serious lists actually name. For Korean, go to **New Malden**.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **14 independent sources carrying 130 citations** across **77 named venues**. **24 are named by two or more sources; six carry a dated award.**
+> Nothing here rests on one visit. This pass reads **14 independent sources carrying 130 citations** across **76 named venues**. **23 are named by two or more sources; six carry a dated award.**
 > **Built on:** one judged championship, seven mastheads, two independent blogs and four YouTube channels — counted per creator, so a channel's five videos are one voice.
 > *Evidence built 7 September 2026 · [How we rank →](/how-we-rank/)*
 
@@ -73,6 +75,10 @@ If you want to know what the judges rewarded rather than what the critics recomm
 
 *£–££ · Canada Water and King's Cross · Joint second, Fried Chicken Championships 2026 · Cited by 7 sources*
 
+![A spread of Chick'N'Sours dishes on a wooden board - a fried chicken sandwich, hot-sauced wings, seasoned fries, watermelon salad and dipping sauces](../../assets/articles/best-fried-chicken-london/chick-n-sours-spread.jpg)
+
+*The full spread. Since the restaurant closed you get this at a residency rather than a room of its own.*
+
 **The most-recommended fried chicken in London that you cannot go to a restaurant for.** Seven independent sources name it and a national panel placed it joint second — but its own site is clear that the ten-year run as a full restaurant is over.
 
 What is left is worth knowing precisely, because every list still files it under an address it no longer occupies. **Corner Corner in Canada Water** is a long-term kitchen residency, eat-in, walk-ins welcome, cocktails on tap — and **closed Monday to Wednesday**, opening Thursday to Saturday noon to 10pm and Sunday noon to 8pm. **The Big Chill at King's Cross** runs the full menu seven days across a three-floor bar with a roof terrace. Everything else is delivery-only kitchens across north and west London, plus a summer festival circuit.
@@ -82,6 +88,10 @@ What is left is worth knowing precisely, because every list still files it under
 ### Butchies — joint second, and the tenders beat the burger
 
 *£ · Shoreditch · Joint second, Fried Chicken Championships 2026 · Cited by 6 sources*
+
+![Six buttermilk-fried chicken tenders on a metal tray lined with Butchies branded paper, with a cup of cheese fries and mayonnaise sachets](../../assets/articles/best-fried-chicken-london/butchies-tenders.jpg)
+
+*The tenders rather than the sandwich - which is what Time Out says to order here, at a place built on burgers.*
 
 Tied with Chick'N'Sours on points, and the only one of the top three you can walk into as an ordinary restaurant. It is known for buttermilk-fried **chicken sandwiches** — but Time Out's verdict is that **the tenders are the better order**, which is an unusual thing for a source to say about a place built on burgers.
 
@@ -96,6 +106,10 @@ They arrive with house BBQ sauce as standard. Order extra dips; skip the blue ch
 ### Good Friend — the most-cited fried chicken in London
 
 *£ · 14 Little Newport Street, WC2H 7JJ · 1 min from Leicester Square · Cited by 7 sources*
+
+![A paper bag of Taiwanese popcorn chicken held in one hand on a busy street, with wooden chopsticks pushed into it](../../assets/articles/best-fried-chicken-london/good-friend-popcorn-chicken.jpg)
+
+*Popcorn chicken from the yellow shopfront on Little Newport Street. There is nowhere to sit - you eat it walking.*
 
 **Seven independent sources — five mastheads and two YouTube channels — name this Taiwanese counter, more than anything else in the city.** No judge has given it anything, which is the mirror image of 20Ft.
 
@@ -150,6 +164,10 @@ The batter is light rather than armoured — more rain jacket than parka — wit
 ### Chick and Beers — Korean, in New Malden
 
 *£ · 282 Burlington Road, New Malden, KT3 4NL · Cited by 3 sources*
+
+![A metal tray of Korean fried chicken wings glazed and topped with crisp fried shallots, on newspaper](../../assets/articles/best-fried-chicken-london/chick-and-beers-wings.jpg)
+
+*Double-fried, then glazed and topped with fried shallots. New Malden, and worth the journey out.*
 
 Family-owned, and the local reference point. The chicken is **double-fried** for the crackle that technique exists to produce, and the batter lands between rugged and glossy. **Sticky nuggets** are the order.
 

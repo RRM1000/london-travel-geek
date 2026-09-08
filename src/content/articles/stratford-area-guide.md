@@ -97,6 +97,10 @@ Stratford has its own share of the commemorative plaques marking where notable p
 ### The Olympic Park (south)
 The busy half, built around the main waterways. **The ArcelorMittal Orbit** is here — Britain's tallest sculpture, with the world's longest tunnel slide wrapped around it — along with the **London Stadium**, the **Aquatics Centre**, and **East Bank**, the new cultural quarter bringing the V&A, Sadler's Wells and the BBC onto the park.
 
+![The London Stadium and the ArcelorMittal Orbit seen across the River Lea from Hackney Wick](../../assets/articles/stratford-area-guide/olympic-park-from-the-lea.jpg)
+
+*The London Stadium and the ArcelorMittal Orbit, seen across the River Lea from Hackney Wick.*
+
 **The Aquatics Centre is open to the public to swim in**, in the actual Olympic pool, for the price of an ordinary leisure-centre session.
 
 **The park itself is free and always open.** The Orbit and the slide are ticketed and seasonal, so check before making the trip for them.

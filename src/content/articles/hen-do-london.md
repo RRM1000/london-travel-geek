@@ -67,6 +67,10 @@ Prices are per person for a group of twelve, from each operator's own booking pa
 
 ### Cocktail making, which is the default for a reason
 
+![A bartender pouring a measure into a cocktail shaker behind a bar lit pink and teal](../../assets/articles/hen-do-london/cocktail-making.jpg)
+
+*Behind the bar at a cocktail class.*
+
 **The Cocktail Club charges £40 a head for a two-hour masterclass** — bubbly on arrival, two cocktails you make yourself from a choice of Pornstar Martini, Espresso Martini, Bramble or Mojito, then a daiquiri challenge. It runs across **nine London bars**: Old Street, Oxford Circus, Shoreditch, Shaftesbury Avenue, Monument, Mansion House, Goodge Street, Liverpool Street and Canary Wharf, which means one of them is near wherever you are staying. The minimum group size is not published, so ring if you are fewer than eight.
 
 **Laki Kane on Oxford Street** is the other one worth knowing, and it is unusual in saying out loud that it is built for hen parties — its own site claims 500-plus celebrations a year. The rum-making experience runs every Saturday at 2pm and the tropical cocktail masterclass every Friday and Saturday at 6pm, with bookings taken up to a month ahead.

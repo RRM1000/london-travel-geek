@@ -106,6 +106,10 @@ The South Bank has its own share of the commemorative plaques marking where nota
 
 ### County Hall: three paid attractions in one building
 
+![The London Eye and County Hall across the Thames on a clear summer day, with the Golden Jubilee Bridges and a river boat at the pier](../../assets/articles/south-bank-area-guide/london-eye-county-hall-summer.jpg)
+
+*County Hall from across the river, with the London Eye beside it.*
+
 The Edwardian block beside the Eye holds **SEA LIFE London, the London Dungeon and Shrek's Adventure**, all Merlin-run and all indoors — which makes this the obvious wet-weather corner of the South Bank.
 
 Buying them one at a time is the expensive way. **Merlin's Magical London** covers all three plus the **London Eye** and **Madame Tussauds** in Marylebone, **from £69 against £132 separately**, valid 90 days. Two attractions are cheaper booked direct; from the third it pays.
