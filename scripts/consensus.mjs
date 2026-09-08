@@ -50,7 +50,18 @@ const data = JSON.parse(fs.readFileSync(FILE, "utf8"));
 // Listicles almost always put each venue in an h2 or h3. That is far more
 // reliable than prose parsing, and when it fails it fails loudly (zero names)
 // rather than quietly returning rubbish.
-const HEADING = /<h[23][^>]*>([\s\S]{2,120}?)<\/h[23]>/gi;
+// THE CAP IS ON MARKUP, SO IT MUST BE GENEROUS - THE TEXT IS CAPPED LATER.
+//
+// This was {2,120}, which silently discarded every heading whose inner HTML ran
+// long. DesignMyNight wraps each venue name in a multi-line <a> with href, two
+// classes and a title attribute: forty h3 elements, inner markup 198-340 chars,
+// venue names under 30. All forty were dropped and the page - which names forty
+// halal restaurants - extracted nothing at all.
+//
+// 800 covers an attribute-heavy anchor. Real prose headings are still rejected
+// downstream by the `t.length > 60` check, which runs after tags are stripped
+// and so measures the name rather than the markup around it.
+const HEADING = /<h[23][^>]*>([\s\S]{2,800}?)<\/h[23]>/gi;
 const STRIP_TAGS = /<[^>]+>/g;
 
 // Undecoded entities were scoring as distinct venues - "&nbsp;Quality Chop
@@ -205,23 +216,46 @@ function extractNames(html, scope = "") {
   html = html
     .replace(/<table[^>]*class="[^"]*navbox[^"]*"[\s\S]*?<\/table>/gi, " ")
     .replace(/<div[^>]*class="[^"]*(navbox|reflist|catlinks)[^"]*"[\s\S]*?<\/div>/gi, " ");
-  const out = [];
-  const seen = new Set();
   const headings = [...html.matchAll(HEADING)].map((m) => m[1]);
   // Fall back to list items and table cells only when headings come up short,
   // so listicles keep their clean heading-based extraction.
   // Awards pages put venues in tables and ordered lists no matter how many
   // headings they carry, so they never take the heading-only path.
   const isAwards = /award/i.test(scope);
-  const raw = headings.length >= 8 && !isAwards
-    ? headings
-    : [...headings, ...harvest(html, LIST_ITEM), ...harvest(html, TABLE_CELL),
-       ...harvest(html, BOLD_LEAD)];
+
+  // COUNT THE HEADINGS THAT SURVIVE FILTERING, NOT THE RAW ONES.
+  //
+  // The old gate was `headings.length >= 8`, which asked the wrong question.
+  // DesignMyNight's halal page carries exactly eight h2/h3 - and every one of
+  // them is a cuisine section label ("Indian, Sri Lankan And Pakistani Halal
+  // Restaurants", "Frequently Asked Questions"). Its forty venue names live in
+  // list markup. Eight raw headings cleared the threshold, so the page took the
+  // heading-only path; all eight were then binned as section labels, and a page
+  // naming forty restaurants was recorded as "no headings matched".
+  //
+  // A page has usable headings only if headings PRODUCE venues, so run the
+  // filter first and widen the harvest when the yield is thin.
+  const scan = (chunks) => {
+    const out = [];
+    const seen = new Set();
+    collect(chunks, out, seen, scope);
+    return out;
+  };
+  const fromHeadings = isAwards ? [] : scan(headings);
+  if (fromHeadings.length >= 8) return fromHeadings;
+  return scan([...headings, ...harvest(html, LIST_ITEM), ...harvest(html, TABLE_CELL),
+               ...harvest(html, BOLD_LEAD)]);
+}
+
+function collect(raw, out, seen, scope = "") {
   for (const chunk of raw) {
     let t = chunk.replace(STRIP_TAGS, " ");
     t = decodeEntities(t).replace(/\s+/g, " ").trim();
-    // "1. Name" / "12) Name"
-    t = t.replace(/^\d+\s*[.)]\s*/, "").trim();
+    // "1. Name" / "12) Name" / "#22 Name"
+    // Halal Food Guy counts a top 100 down, so its headings read "#22 The Great
+    // Chase". Without the hash form that rank travelled into the venue name and
+    // would have been scored - and printed - as part of it.
+    t = t.replace(/^#\s*\d+\s*[.)]?\s*/, "").replace(/^\d+\s*[.)]\s*/, "").trim();
     // Editorial suffixes: "Canton Arms - Stockwell (Best Old-School Boozer)".
     // Split on a SPACED dash so hyphenated names ("Fitzrovia-based") survive.
     t = t.split(/\s+[-–—]\s+/)[0].trim();
@@ -242,22 +276,43 @@ function extractNames(html, scope = "") {
     seen.add(k);
     out.push(t);
   }
-  return out;
 }
 
 // ---------------------------------------------------------------- fetch ---
+// A LONG BODY IS NOT A SUCCESSFUL ONE - CHECK THE STATUS.
+//
+// This used to accept anything over 500 bytes. Halal Girl About Town answers a
+// blocked request with a 75KB branded 403 page, so the retry "succeeded",
+// extraction found no venues in it, and the source was filed as
+// "no headings matched" - an extraction bug - when it was actually a hard block
+// that no amount of extractor work would ever have fixed.
+//
+// Some WAFs also fingerprint the exact UA. This one serves 403 to the full
+// Chrome string and 200 to a shorter one, so try the terse UA as a second pass
+// before giving up.
+const CURL_UAS = [
+  UA["user-agent"],
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0 Safari/537.36",
+];
+
 function curlFetch(url) {
-  try {
-    const out = execFileSync("curl", [
-      "-sL", "--compressed", "-m", "25",
-      "-A", UA["user-agent"],
-      "-H", `Accept-Language: ${UA["accept-language"]}`,
-      url,
-    ], { maxBuffer: 32 * 1024 * 1024, encoding: "utf8" });
-    return out && out.length > 500 ? out : null;
-  } catch {
-    return null;
+  for (const ua of CURL_UAS) {
+    try {
+      const out = execFileSync("curl", [
+        "-sL", "--compressed", "-m", "25",
+        "-A", ua,
+        "-H", `Accept-Language: ${UA["accept-language"]}`,
+        "-w", "\n__HTTP_STATUS__%{http_code}",
+        url,
+      ], { maxBuffer: 32 * 1024 * 1024, encoding: "utf8" });
+      const at = out.lastIndexOf("\n__HTTP_STATUS__");
+      if (at === -1) continue;
+      const status = Number(out.slice(at + 16).trim());
+      const body = out.slice(0, at);
+      if (status >= 200 && status < 300 && body.length > 500) return body;
+    } catch { /* next UA */ }
   }
+  return null;
 }
 
 if (doFetch) {

@@ -68,6 +68,16 @@ const FEATURED: Record<string, string[]> = {
     "south-bank-area-guide",
     "peckham-area-guide",
   ],
+  // Added because the where-to-stay guides had no route onto this page at all.
+  // They are all filed under "Plan your trip", which had no row, so their only
+  // chance of appearing was the three-item Latest strip below - and every one
+  // of them had been pushed out of it by newer guides within two days of
+  // publishing. /stay lists them correctly; the front page simply never did.
+  "Plan your trip": [
+    "pod-hotels-london",
+    "aparthotels-london",
+    "day-rooms-london",
+  ],
 };
 
 const featuredCategories = Object.entries(FEATURED)

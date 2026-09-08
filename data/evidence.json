@@ -9537,10 +9537,11 @@
     "topics": [
       "afternoon-tea",
       "british",
+      "halal",
       "instagrammable"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B3 C2",
+    "sourceCount": 6,
+    "tierSpread": "B3 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -9554,6 +9555,12 @@
         "sourceCount": 4,
         "tierSpread": "B3 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
         "hasAward": false
       },
       "instagrammable": {
@@ -9583,6 +9590,11 @@
         "tier": "C",
         "source": "A Lady in London",
         "url": "https://www.aladyinlondon.com/2024/07/best-afternoon-tea-in-london.html"
+      },
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
       },
       {
         "tier": "C",
@@ -11338,10 +11350,11 @@
     "name": "Cinnamon Bazaar",
     "topics": [
       "afternoon-tea",
-      "british"
+      "british",
+      "halal"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -11356,6 +11369,12 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -11363,6 +11382,11 @@
         "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
       },
       {
         "tier": "C",
@@ -11858,7 +11882,8 @@
   "cuepoint": {
     "name": "Cue Point",
     "topics": [
-      "barbecue"
+      "barbecue",
+      "halal"
     ],
     "sourceCount": 5,
     "tierSpread": "B4 C1",
@@ -11869,6 +11894,12 @@
         "sourceCount": 5,
         "tierSpread": "B4 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -13037,10 +13068,11 @@
     "name": "Brigadiers",
     "topics": [
       "barbecue",
+      "halal",
       "indian"
     ],
-    "sourceCount": 10,
-    "tierSpread": "A1 B5 C2 D2",
+    "sourceCount": 11,
+    "tierSpread": "A1 B6 C2 D2",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -13048,6 +13080,12 @@
         "sourceCount": 2,
         "tierSpread": "B1 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       },
       "indian": {
@@ -13068,6 +13106,11 @@
         "tier": "B",
         "source": "Evening Standard",
         "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
       },
       {
         "tier": "B",
@@ -14255,11 +14298,12 @@
     "topics": [
       "barbecue",
       "general",
+      "halal",
       "instagrammable",
       "middle-eastern"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B3 C3",
+    "sourceCount": 7,
+    "tierSpread": "B3 C4",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -14273,6 +14317,12 @@
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       },
       "instagrammable": {
@@ -14292,7 +14342,7 @@
       {
         "tier": "B",
         "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-middle-eastern"
+        "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
       },
       {
         "tier": "B",
@@ -14313,6 +14363,11 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/bib-gourmands-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
       },
       {
         "tier": "C",
@@ -19845,11 +19900,12 @@
       "chains",
       "cheap-eats",
       "general",
+      "halal",
       "indian",
       "instagrammable"
     ],
-    "sourceCount": 13,
-    "tierSpread": "A2 B3 C5 D3",
+    "sourceCount": 15,
+    "tierSpread": "A2 B4 C6 D3",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -19881,6 +19937,12 @@
         "sourceCount": 1,
         "tierSpread": "D1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       },
       "indian": {
@@ -19920,6 +19982,11 @@
       },
       {
         "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      },
+      {
+        "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
       },
@@ -19937,6 +20004,11 @@
         "tier": "C",
         "source": "London Best",
         "url": "https://londonbest.uk/cheap-indian-food/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
       },
       {
         "tier": "C",
@@ -19969,6 +20041,7 @@
     "name": "Megan’s",
     "topics": [
       "breakfast-brunch",
+      "halal",
       "instagrammable",
       "turkish"
     ],
@@ -19981,6 +20054,12 @@
         "sourceCount": 2,
         "tierSpread": "B1 D1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       },
       "instagrammable": {
@@ -20005,7 +20084,7 @@
       {
         "tier": "B",
         "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
       },
       {
         "tier": "B",
@@ -22135,11 +22214,12 @@
       "breakfast-brunch",
       "british",
       "dessert",
+      "halal",
       "middle-eastern"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "breakfast-brunch": {
@@ -22157,6 +22237,12 @@
       "dessert": {
         "sourceCount": 2,
         "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -22182,6 +22268,11 @@
         "tier": "B",
         "source": "Foodism",
         "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
       }
     ]
   },
@@ -38999,11 +39090,12 @@
     "topics": [
       "british",
       "fried-chicken",
-      "general"
+      "general",
+      "halal"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "british": {
@@ -39023,6 +39115,12 @@
         "tierSpread": "B3",
         "tierCount": 1,
         "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
@@ -39040,6 +39138,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
       }
     ]
   },
@@ -47059,10 +47162,11 @@
   "honestburgers": {
     "name": "Honest Burgers",
     "topics": [
-      "burgers"
+      "burgers",
+      "halal"
     ],
-    "sourceCount": 4,
-    "tierSpread": "A1 B2 C1",
+    "sourceCount": 5,
+    "tierSpread": "A1 B2 C2",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -47071,6 +47175,12 @@
         "tierSpread": "A1 B2 C1",
         "tierCount": 3,
         "hasAward": true
+      },
+      "halal": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
@@ -47096,6 +47206,11 @@
         "source": "Visit London",
         "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
         "quote": "#9"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
       }
     ]
   },
@@ -47104,10 +47219,11 @@
     "topics": [
       "burgers",
       "cheap-eats",
-      "general"
+      "general",
+      "halal"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B2 C2 D1",
+    "sourceCount": 6,
+    "tierSpread": "B2 C3 D1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -47126,6 +47242,12 @@
       "general": {
         "sourceCount": 1,
         "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -47151,6 +47273,11 @@
         "source": "Visit London",
         "url": "https://www.visitlondon.com/things-to-do/food-and-drink/restaurant/burger-steak-grill/burger",
         "quote": "#11"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
       },
       {
         "tier": "D",
@@ -47625,10 +47752,11 @@
     "name": "Patty and Bun",
     "topics": [
       "burgers",
-      "fried-chicken"
+      "fried-chicken",
+      "halal"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
+    "sourceCount": 5,
+    "tierSpread": "B2 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -47642,6 +47770,12 @@
         "sourceCount": 2,
         "tierSpread": "B1 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -47666,6 +47800,11 @@
         "tier": "C",
         "source": "The Hungry Soles",
         "url": "https://www.thehungrysoles.com/blog/best-fried-chicken-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
       }
     ]
   },
@@ -50127,14 +50266,21 @@
   "guanabanarestaurant": {
     "name": "Guanabana Restaurant",
     "topics": [
-      "caribbean"
+      "caribbean",
+      "halal"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "caribbean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -50146,6 +50292,11 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/caribbean-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
       }
     ]
   },
@@ -50178,16 +50329,23 @@
     "name": "Hoppers",
     "topics": [
       "chains",
+      "halal",
       "indian",
       "instagrammable",
       "new-openings"
     ],
-    "sourceCount": 6,
-    "tierSpread": "A1 B2 C2 D1",
+    "sourceCount": 7,
+    "tierSpread": "A1 B3 C2 D1",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "chains": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -50224,6 +50382,11 @@
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked",
         "quote": "#1 of 20"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
       },
       {
         "tier": "B",
@@ -50345,11 +50508,12 @@
     "name": "Roti King",
     "topics": [
       "chains",
-      "cheap-eats"
+      "cheap-eats",
+      "halal"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "chains": {
@@ -50361,6 +50525,12 @@
       "cheap-eats": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -50376,6 +50546,16 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-cheap-eats-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
       }
     ]
   },
@@ -51327,14 +51507,21 @@
   "oldchangkee": {
     "name": "Old Chang Kee",
     "topics": [
-      "cheap-eats"
+      "cheap-eats",
+      "halal"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "cheap-eats": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -51346,6 +51533,11 @@
         "tier": "C",
         "source": "BudgetTraveller",
         "url": "https://budgettraveller.org/best-cheap-eats-london-guide/"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
       }
     ]
   },
@@ -55199,16 +55391,23 @@
   "etlesuyghurrestaurant": {
     "name": "Etles Uyghur Restaurant",
     "topics": [
-      "chinese"
+      "chinese",
+      "halal"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B4",
+    "sourceCount": 5,
+    "tierSpread": "B5",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "chinese": {
         "sourceCount": 4,
         "tierSpread": "B4",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -55233,6 +55432,11 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
       }
     ]
   },
@@ -55939,16 +56143,23 @@
   "kaimayfair": {
     "name": "Kai Mayfair",
     "topics": [
-      "chinese"
+      "chinese",
+      "halal"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "chinese": {
         "sourceCount": 2,
         "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -55964,6 +56175,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876"
+      },
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
       }
     ]
   },
@@ -56639,7 +56855,8 @@
   "rasasayang": {
     "name": "Rasa Sayang",
     "topics": [
-      "chinese"
+      "chinese",
+      "halal"
     ],
     "sourceCount": 3,
     "tierSpread": "B3",
@@ -56649,6 +56866,12 @@
       "chinese": {
         "sourceCount": 3,
         "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -63574,14 +63797,21 @@
     "name": "Arabica",
     "topics": [
       "coffee",
+      "halal",
       "middle-eastern"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "coffee": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -63605,6 +63835,11 @@
         "source": "tiktok.com/@halalfoodlondon",
         "url": "https://www.tiktok.com/@halalfoodlondon",
         "quote": "#2"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
       }
     ]
   },
@@ -69133,10 +69368,11 @@
   "galvinlachapelle": {
     "name": "Galvin La Chapelle",
     "topics": [
-      "french"
+      "french",
+      "halal"
     ],
-    "sourceCount": 3,
-    "tierSpread": "A1 C2",
+    "sourceCount": 4,
+    "tierSpread": "A1 C3",
     "tierCount": 2,
     "hasAward": true,
     "byTopic": {
@@ -69145,6 +69381,12 @@
         "tierSpread": "A1 C2",
         "tierCount": 2,
         "hasAward": true
+      },
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -69162,6 +69404,11 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/french-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
       }
     ]
   },
@@ -71293,10 +71540,11 @@
   "coqfighter": {
     "name": "Coqfighter",
     "topics": [
-      "fried-chicken"
+      "fried-chicken",
+      "halal"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
+    "sourceCount": 6,
+    "tierSpread": "B4 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -71304,6 +71552,12 @@
         "sourceCount": 4,
         "tierSpread": "B2 C2",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -71317,6 +71571,16 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-fried-chicken-in-london_9214"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
       },
       {
         "tier": "C",
@@ -71425,16 +71689,23 @@
   "chickenshop": {
     "name": "Chicken Shop",
     "topics": [
-      "fried-chicken"
+      "fried-chicken",
+      "halal"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "fried-chicken": {
         "sourceCount": 2,
         "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -71449,6 +71720,11 @@
         "tier": "B",
         "source": "The London Economic",
         "url": "https://www.thelondoneconomic.com/food-drink/ranked-londons-best-chicken-shops-351984/"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
       }
     ]
   },
@@ -72309,14 +72585,21 @@
   "wingstop": {
     "name": "Wingstop",
     "topics": [
-      "fried-chicken"
+      "fried-chicken",
+      "halal"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -72328,6 +72611,11 @@
         "tier": "C",
         "source": "Secret London",
         "url": "https://secretldn.com/best-fried-chicken-london/"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
       }
     ]
   },
@@ -78783,16 +79071,23 @@
   "zeretkitchen": {
     "name": "Zeret Kitchen",
     "topics": [
-      "general"
+      "general",
+      "halal"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "general": {
         "sourceCount": 2,
         "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -78807,6 +79102,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
       }
     ]
   },
@@ -78913,10 +79213,11 @@
     "name": "Gymkhana",
     "topics": [
       "general",
+      "halal",
       "indian"
     ],
-    "sourceCount": 11,
-    "tierSpread": "A3 B1 C1 D6",
+    "sourceCount": 15,
+    "tierSpread": "A3 B3 C3 D6",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -78924,6 +79225,12 @@
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
         "hasAward": false
       },
       "indian": {
@@ -78955,6 +79262,26 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
       },
       {
         "tier": "C",
@@ -92367,6 +92694,3274 @@
       }
     ]
   },
+  "ramoramen": {
+    "name": "Ramo Ramen",
+    "topics": [
+      "halal",
+      "japanese"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "Ideal Magazine",
+        "url": "https://idealmagazine.co.uk/best-ramen-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/send-noods-londons-hottest-udon-ramen-shops/"
+      }
+    ]
+  },
+  "greatchase": {
+    "name": "The Great Chase",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      }
+    ]
+  },
+  "babelgrillhouse": {
+    "name": "Babel Grill House",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
+      }
+    ]
+  },
+  "grounded": {
+    "name": "Grounded",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
+      }
+    ]
+  },
+  "hsandco": {
+    "name": "HS&Co",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
+      }
+    ]
+  },
+  "mantl": {
+    "name": "The Mantl",
+    "topics": [
+      "halal",
+      "turkish"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "turkish": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
+        "quote": "The Mantl serves good Turkish dishes like manti, adana, and sarma beyti in Knightsbridge."
+      }
+    ]
+  },
+  "toba": {
+    "name": "Toba",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
+      }
+    ]
+  },
+  "lebab": {
+    "name": "Le Bab",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
+      }
+    ]
+  },
+  "souk": {
+    "name": "Souk",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "pizzapilgrims": {
+    "name": "Pizza Pilgrims",
+    "topics": [
+      "halal",
+      "pizza"
+    ],
+    "sourceCount": 11,
+    "tierSpread": "A1 B3 C4 D3",
+    "tierCount": 4,
+    "hasAward": true,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "pizza": {
+        "sourceCount": 7,
+        "tierSpread": "A1 B1 C2 D3",
+        "tierCount": 4,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "National Pizza Awards",
+        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
+        "quote": "2025 finalist (national)"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Mayfair Foodie",
+        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Hungry Soles",
+        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
+      },
+      {
+        "tier": "D",
+        "source": "@dens_destinations (TikTok)",
+        "url": "https://www.tiktok.com/@dens_destinations"
+      },
+      {
+        "tier": "D",
+        "source": "Sam Wilder (YouTube)",
+        "url": "https://www.youtube.com/@SamWilder"
+      },
+      {
+        "tier": "D",
+        "source": "Sorted Food (YouTube)",
+        "url": "https://www.youtube.com/@SortedFood"
+      }
+    ]
+  },
+  "berenjakborough": {
+    "name": "Berenjak Borough",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "somewhereharrods": {
+    "name": "Somewhere Harrods",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "skewdkitchencockfosters": {
+    "name": "Skewd Kitchen Cockfosters",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "gallio": {
+    "name": "Gallio",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "ceru": {
+    "name": "Ceru",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "arabicaboroughmarket": {
+    "name": "Arabica Borough Market",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "lebabcoventgarden": {
+    "name": "Le Bab Covent Garden",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "benares": {
+    "name": "Benares",
+    "topics": [
+      "halal",
+      "indian"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "A2 B2 C1 D1",
+    "tierCount": 4,
+    "hasAward": true,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 5,
+        "tierSpread": "A2 B1 C1 D1",
+        "tierCount": 4,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "London Icon 2025 - one of six - British Indian Good Food Guide (Mayfair)"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "BoopFoodie (YouTube)",
+        "url": "https://www.youtube.com/@Boopfoodie"
+      }
+    ]
+  },
+  "anokha": {
+    "name": "Anokha",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "rotichai": {
+    "name": "Roti Chai",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "colonelsaabhighholborn": {
+    "name": "Colonel Saab High Holborn",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "jamavar": {
+    "name": "Jamavar",
+    "topics": [
+      "halal",
+      "indian"
+    ],
+    "sourceCount": 11,
+    "tierSpread": "A3 B3 C2 D3",
+    "tierCount": 4,
+    "hasAward": true,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 9,
+        "tierSpread": "A3 B2 C1 D3",
+        "tierCount": 4,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "London Icon 2025 - one of six - British Indian Good Food Guide (Mayfair)"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-indian-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "BoopFoodie (YouTube)",
+        "url": "https://www.youtube.com/@Boopfoodie"
+      },
+      {
+        "tier": "D",
+        "source": "Food with Chetna (YouTube)",
+        "url": "https://www.youtube.com/@FoodwithChetna"
+      },
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
+      }
+    ]
+  },
+  "kanishka": {
+    "name": "Kanishka",
+    "topics": [
+      "halal",
+      "indian"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "A2 B2",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 3,
+        "tierSpread": "A2 B1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Mayfair)"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+      }
+    ]
+  },
+  "balans": {
+    "name": "Balans",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "milestonehotelandresidences": {
+    "name": "The Milestone Hotel and Residences",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "steakandcompanypiccadillycircus": {
+    "name": "Steak and Company Piccadilly Circus",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "swissbutter": {
+    "name": "Swiss Butter",
+    "topics": [
+      "halal",
+      "steak"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "steak": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "meathouselondon": {
+    "name": "Meathouse London",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "meatliquormayfair": {
+    "name": "MEATliquor Mayfair",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "gourmetburgerclub": {
+    "name": "Gourmet Burger Club",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "crustbroscoventgarden": {
+    "name": "Crust Bros Covent Garden",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "vinegaryard": {
+    "name": "Vinegar Yard",
+    "topics": [
+      "halal",
+      "street-food"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "chottomatte": {
+    "name": "Chotto Matte",
+    "topics": [
+      "halal",
+      "japanese"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "arepaandcohaggerston": {
+    "name": "Arepa & Co Haggerston",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "ginzastjames": {
+    "name": "Ginza St James",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "brunchandco": {
+    "name": "Brunch and Co",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      }
+    ]
+  },
+  "tukdin": {
+    "name": "Tukdin",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "halalguys": {
+    "name": "The Halal Guys",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "tazakebabhouse": {
+    "name": "Taza Kebab House",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "rosasthaicafe": {
+    "name": "Rosa’s Thai Cafe",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "wingwing": {
+    "name": "Wing Wing",
+    "topics": [
+      "halal",
+      "korean"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "standardbaltihouse": {
+    "name": "Standard Balti House",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "bylocation": {
+    "name": "By Location",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "feedthelion.co.uk",
+        "url": "https://www.feedthelion.co.uk/top-50/"
+      }
+    ]
+  },
+  "offersanddiscounts": {
+    "name": "Offers & Discounts",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "feedthelion.co.uk",
+        "url": "https://www.feedthelion.co.uk/top-50/"
+      }
+    ]
+  },
+  "deliveryandtakeaway": {
+    "name": "Delivery & Takeaway",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "feedthelion.co.uk",
+        "url": "https://www.feedthelion.co.uk/top-50/"
+      }
+    ]
+  },
+  "products": {
+    "name": "Products",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "feedthelion.co.uk",
+        "url": "https://www.feedthelion.co.uk/top-50/"
+      }
+    ]
+  },
+  "message": {
+    "name": "\"+message+\"",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "gopalscornerinmarkethall": {
+    "name": "Gopal’s Corner in Market Hall",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "icco": {
+    "name": "Icco",
+    "topics": [
+      "halal",
+      "italian",
+      "pizza"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "A1 C2 D1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "italian": {
+        "sourceCount": 2,
+        "tierSpread": "A1 C1",
+        "tierCount": 2,
+        "hasAward": true
+      },
+      "pizza": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Harden's",
+        "url": "https://www.hardens.com/az/restaurants/london/w1/icco-pizza.htm"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Berkeley Square Barbarian",
+        "url": "https://www.berkeleysquarebarbarian.com/2024/10/11/icco-pizza-london/",
+        "quote": "cheap does not mean poor quality - whole 12-inch pizzas from £6.50, serving Goodge Street since 1999"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      }
+    ]
+  },
+  "passyunkavenue": {
+    "name": "Passyunk Avenue",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "arcadefoodhall": {
+    "name": "Arcade Food Hall",
+    "topics": [
+      "halal",
+      "instagrammable",
+      "new-openings",
+      "street-food"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B2 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food-markets-and-food-halls",
+        "quote": "#7"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
+      }
+    ]
+  },
+  "affordablehalalrestaurantsincentrallondon": {
+    "name": "Affordable Halal Restaurants in Central London",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "atush": {
+    "name": "Atush",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "diwanabhelpoorihouse": {
+    "name": "Diwana Bhel Poori House",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "tarim": {
+    "name": "Tarim",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "papanoodle": {
+    "name": "Papa Noodle",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "junk": {
+    "name": "Junk",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "hibaexpress": {
+    "name": "Hiba Express",
+    "topics": [
+      "halal",
+      "middle-eastern"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "middle-eastern": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-lebanese-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "Fact Magazines",
+        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "hawkerskitchen": {
+    "name": "Hawker’s Kitchen",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "affordablehalalrestaurantsinnorthlondon": {
+    "name": "Affordable Halal Restaurants in North London",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "tantuni": {
+    "name": "Tantuni",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "affordablehalalrestaurantsineastlondon": {
+    "name": "Affordable Halal Restaurants in East London",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "jwdlamian": {
+    "name": "JWD Lamian",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "etlesuyghur": {
+    "name": "Etles Uyghur",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "cristinas": {
+    "name": "Cristina’s",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "alkahf": {
+    "name": "Al Kahf",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "lahorinihaari": {
+    "name": "Lahori Nihaari",
+    "topics": [
+      "halal",
+      "indian",
+      "pakistani"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "pakistani": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-indian-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/a-guide-to-indian-and-pakistani-food"
+      }
+    ]
+  },
+  "affordablerestaurantsinsouthlondon": {
+    "name": "Affordable Restaurants in South London",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "tongdak": {
+    "name": "Tongdak",
+    "topics": [
+      "halal",
+      "korean"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Kingston Compass",
+        "url": "https://kingstoncompass.com/guides/best-korean-food-new-malden/"
+      }
+    ]
+  },
+  "namakmandi": {
+    "name": "Namak Mandi",
+    "topics": [
+      "halal",
+      "pakistani"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "pakistani": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/pakistani-restaurants-london/"
+      }
+    ]
+  },
+  "alhajisuya": {
+    "name": "Alhaji Suya",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "jandadiner": {
+    "name": "Janda Diner",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "affordablerestaurantsinwestlondon": {
+    "name": "Affordable Restaurants in West London",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "alenam": {
+    "name": "Al Enam",
+    "topics": [
+      "halal",
+      "middle-eastern"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "middle-eastern": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-middle-eastern"
+      },
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "puteraputeri": {
+    "name": "Putera Puteri",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "steakonthegreen": {
+    "name": "Steak on The Green",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "patogh": {
+    "name": "Patogh",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "fitous": {
+    "name": "Fitou’s",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "featuredposts": {
+    "name": "Featured Posts",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalgirlabouttown.com",
+        "url": "https://www.halalgirlabouttown.com/20-affordable-halal-restaurants-in-london/"
+      }
+    ]
+  },
+  "placestovisitforiftarthisramadan2025": {
+    "name": "Places to visit for Iftar this Ramadan 2025",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalfoodguy.co.uk",
+        "url": "https://halalfoodguy.co.uk/top-100-reviewed-restaurants/"
+      }
+    ]
+  },
+  "justmeatsouthgate": {
+    "name": "Just Meat Southgate",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalfoodguy.co.uk",
+        "url": "https://halalfoodguy.co.uk/top-100-reviewed-restaurants/"
+      }
+    ]
+  },
+  "hourhousebistro": {
+    "name": "Hour House Bistro",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalfoodguy.co.uk",
+        "url": "https://halalfoodguy.co.uk/top-100-reviewed-restaurants/"
+      }
+    ]
+  },
+  "noodleinnliverpoolstreet": {
+    "name": "Noodle Inn Liverpool Street",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalfoodguy.co.uk",
+        "url": "https://halalfoodguy.co.uk/top-100-reviewed-restaurants/"
+      }
+    ]
+  },
+  "chipnjerk": {
+    "name": "Chip ‘n Jerk",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalfoodguy.co.uk",
+        "url": "https://halalfoodguy.co.uk/top-100-reviewed-restaurants/"
+      }
+    ]
+  },
+  "directory": {
+    "name": "Directory",
+    "topics": [
+      "halal",
+      "new-openings"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Elle Decoration",
+        "url": "https://www.elledecoration.co.uk/lifestyle-culture/a71228309/new-london-restaurants-2026/"
+      },
+      {
+        "tier": "C",
+        "source": "halalfoodguy.co.uk",
+        "url": "https://halalfoodguy.co.uk/top-100-reviewed-restaurants/"
+      }
+    ]
+  },
+  "alcoholfree": {
+    "name": "Alcohol Free",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalfoodguy.co.uk",
+        "url": "https://halalfoodguy.co.uk/top-100-reviewed-restaurants/"
+      }
+    ]
+  },
+  "restaurantreviews": {
+    "name": "Restaurant Reviews",
+    "topics": [
+      "halal",
+      "markets"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "markets": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalfoodguy.co.uk",
+        "url": "https://halalfoodguy.co.uk/top-100-reviewed-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret Food Tours",
+        "url": "https://www.secretfoodtours.com/blog/get-to-know-the-best-food-markets-in-london/"
+      }
+    ]
+  },
+  "restaurantmap": {
+    "name": "Restaurant Map",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalfoodguy.co.uk",
+        "url": "https://halalfoodguy.co.uk/top-100-reviewed-restaurants/"
+      }
+    ]
+  },
+  "average": {
+    "name": "average",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalfoodguy.co.uk",
+        "url": "https://halalfoodguy.co.uk/top-100-reviewed-restaurants/"
+      }
+    ]
+  },
+  "halalfooddiary": {
+    "name": "Halal Food Diary",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalfooddiary.com",
+        "url": "https://halalfooddiary.com/halal-fine-dining/"
+      }
+    ]
+  },
+  "filterpostsby": {
+    "name": "Filter posts by",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "halalfooddiary.com",
+        "url": "https://halalfooddiary.com/halal-fine-dining/"
+      }
+    ]
+  },
+  "tingrestaurant": {
+    "name": "TING Restaurant",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      }
+    ]
+  },
+  "alainducasseatthedorchester": {
+    "name": "Alain Ducasse at The Dorchester",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      }
+    ]
+  },
+  "wellingtonlounge": {
+    "name": "Wellington Lounge",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      }
+    ]
+  },
+  "kahani": {
+    "name": "Kahani",
+    "topics": [
+      "halal",
+      "indian"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A2 C1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 2,
+        "tierSpread": "A2",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Chelsea)"
+      },
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      }
+    ]
+  },
+  "goringdiningroom": {
+    "name": "The Goring Dining Room",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      }
+    ]
+  },
+  "promenade": {
+    "name": "The Promenade",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      }
+    ]
+  },
+  "wintergarden": {
+    "name": "The Winter Garden",
+    "topics": [
+      "halal",
+      "instagrammable"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "myglobalviewpoint.com",
+        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/",
+        "quote": "Eight-storey glass atrium with towering palm trees"
+      }
+    ]
+  },
+  "amaya": {
+    "name": "Amaya",
+    "topics": [
+      "halal",
+      "indian"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "A3 C1 D1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 4,
+        "tierSpread": "A3 D1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Belgravia)"
+      },
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "BoopFoodie (YouTube)",
+        "url": "https://www.youtube.com/@Boopfoodie"
+      }
+    ]
+  },
+  "zaikaofkensington": {
+    "name": "Zaika of Kensington",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      }
+    ]
+  },
+  "tamarindmayfair": {
+    "name": "Tamarind Mayfair",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      }
+    ]
+  },
+  "sevenparkplace": {
+    "name": "Seven Park Place",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      }
+    ]
+  },
+  "quilon": {
+    "name": "Quilon",
+    "topics": [
+      "halal",
+      "indian",
+      "seafood"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "A2 B1 C3 D1",
+    "tierCount": 4,
+    "hasAward": true,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 4,
+        "tierSpread": "A2 C1 D1",
+        "tierCount": 3,
+        "hasAward": true
+      },
+      "seafood": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "London Icon 2025 - one of six - British Indian Good Food Guide (Westminster)"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-oysters/"
+      },
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
+        "quote": "This Michelin-starred restaurant focuses on southwest coastal Indian cuisine. And, while the main menu features seafood, meat and vegetarian options, it's the seafood tasting menu you want to go for, which includes lobster butter "
+      },
+      {
+        "tier": "D",
+        "source": "BoopFoodie (YouTube)",
+        "url": "https://www.youtube.com/@Boopfoodie"
+      }
+    ]
+  },
+  "ladamedepic": {
+    "name": "La Dame de Pic",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      }
+    ]
+  },
+  "trishna": {
+    "name": "Trishna",
+    "topics": [
+      "halal",
+      "indian",
+      "seafood"
+    ],
+    "sourceCount": 11,
+    "tierSpread": "A3 B5 C2 D1",
+    "tierCount": 4,
+    "hasAward": true,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 9,
+        "tierSpread": "A3 B4 C1 D1",
+        "tierCount": 4,
+        "hasAward": true
+      },
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
+      },
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
+        "quote": "1 Michelin star in the 2026 guide"
+      },
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Marylebone)"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-indian-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-indian-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-indian-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "BoopFoodie (YouTube)",
+        "url": "https://www.youtube.com/@Boopfoodie"
+      }
+    ]
+  },
+  "hidemayfair": {
+    "name": "Hide Mayfair",
+    "topics": [
+      "halal"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "halal": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "muslimtravelgirl.com",
+        "url": "https://muslimtravelgirl.com/best-halal-fine-dining-restaurants-in-london/"
+      }
+    ]
+  },
   "flohelps": {
     "name": "FLO Helps",
     "topics": [
@@ -98805,48 +102400,6 @@
       }
     ]
   },
-  "amaya": {
-    "name": "Amaya",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "A3 D1",
-    "tierCount": 2,
-    "hasAward": true,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 4,
-        "tierSpread": "A3 D1",
-        "tierCount": 2,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
-      },
-      {
-        "tier": "A",
-        "source": "Michelin Guide",
-        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
-        "quote": "1 Michelin star in the 2026 guide"
-      },
-      {
-        "tier": "A",
-        "source": "British Indian Good Food Guide",
-        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
-        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Belgravia)"
-      },
-      {
-        "tier": "D",
-        "source": "BoopFoodie (YouTube)",
-        "url": "https://www.youtube.com/@Boopfoodie"
-      }
-    ]
-  },
   "babur": {
     "name": "Babur",
     "topics": [
@@ -98948,73 +102501,6 @@
       }
     ]
   },
-  "jamavar": {
-    "name": "Jamavar",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 9,
-    "tierSpread": "A3 B2 C1 D3",
-    "tierCount": 4,
-    "hasAward": true,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 9,
-        "tierSpread": "A3 B2 C1 D3",
-        "tierCount": 4,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
-      },
-      {
-        "tier": "A",
-        "source": "Michelin Guide",
-        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
-        "quote": "1 Michelin star in the 2026 guide"
-      },
-      {
-        "tier": "A",
-        "source": "British Indian Good Food Guide",
-        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
-        "quote": "London Icon 2025 - one of six - British Indian Good Food Guide (Mayfair)"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-indian-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
-      },
-      {
-        "tier": "D",
-        "source": "BoopFoodie (YouTube)",
-        "url": "https://www.youtube.com/@Boopfoodie"
-      },
-      {
-        "tier": "D",
-        "source": "Food with Chetna (YouTube)",
-        "url": "https://www.youtube.com/@FoodwithChetna"
-      },
-      {
-        "tier": "D",
-        "source": "Ugo Arinzeh (YouTube)",
-        "url": "https://www.youtube.com/@UgoArinzeh"
-      }
-    ]
-  },
   "kachori": {
     "name": "Kachori",
     "topics": [
@@ -99037,73 +102523,6 @@
         "tier": "A",
         "source": "The Good Food Guide",
         "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
-      }
-    ]
-  },
-  "kahani": {
-    "name": "Kahani",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "A2",
-    "tierCount": 1,
-    "hasAward": true,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 2,
-        "tierSpread": "A2",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
-      },
-      {
-        "tier": "A",
-        "source": "British Indian Good Food Guide",
-        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
-        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Chelsea)"
-      }
-    ]
-  },
-  "kanishka": {
-    "name": "Kanishka",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "A2 B1",
-    "tierCount": 2,
-    "hasAward": true,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 3,
-        "tierSpread": "A2 B1",
-        "tierCount": 2,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
-      },
-      {
-        "tier": "A",
-        "source": "British Indian Good Food Guide",
-        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
-        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Mayfair)"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
       }
     ]
   },
@@ -99175,85 +102594,6 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
-      }
-    ]
-  },
-  "trishna": {
-    "name": "Trishna",
-    "topics": [
-      "indian",
-      "seafood"
-    ],
-    "sourceCount": 10,
-    "tierSpread": "A3 B5 C1 D1",
-    "tierCount": 4,
-    "hasAward": true,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 9,
-        "tierSpread": "A3 B4 C1 D1",
-        "tierCount": 4,
-        "hasAward": true
-      },
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "The Good Food Guide",
-        "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-indian-restaurants-in-london"
-      },
-      {
-        "tier": "A",
-        "source": "Michelin Guide",
-        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
-        "quote": "1 Michelin star in the 2026 guide"
-      },
-      {
-        "tier": "A",
-        "source": "British Indian Good Food Guide",
-        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
-        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Marylebone)"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-indian-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-indian-restaurants"
-      },
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-indian-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/seafood-restaurants-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
-      },
-      {
-        "tier": "D",
-        "source": "BoopFoodie (YouTube)",
-        "url": "https://www.youtube.com/@Boopfoodie"
       }
     ]
   },
@@ -99805,53 +103145,6 @@
       }
     ]
   },
-  "benares": {
-    "name": "Benares",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "A2 B1 C1 D1",
-    "tierCount": 4,
-    "hasAward": true,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 5,
-        "tierSpread": "A2 B1 C1 D1",
-        "tierCount": 4,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Michelin Guide",
-        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
-        "quote": "1 Michelin star in the 2026 guide"
-      },
-      {
-        "tier": "A",
-        "source": "British Indian Good Food Guide",
-        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
-        "quote": "London Icon 2025 - one of six - British Indian Good Food Guide (Mayfair)"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
-      },
-      {
-        "tier": "D",
-        "source": "BoopFoodie (YouTube)",
-        "url": "https://www.youtube.com/@Boopfoodie"
-      }
-    ]
-  },
   "darjeelingexpress": {
     "name": "Darjeeling Express",
     "topics": [
@@ -100014,66 +103307,6 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
-      }
-    ]
-  },
-  "quilon": {
-    "name": "Quilon",
-    "topics": [
-      "indian",
-      "seafood"
-    ],
-    "sourceCount": 6,
-    "tierSpread": "A2 B1 C2 D1",
-    "tierCount": 4,
-    "hasAward": true,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 4,
-        "tierSpread": "A2 C1 D1",
-        "tierCount": 3,
-        "hasAward": true
-      },
-      "seafood": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Michelin Guide",
-        "url": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london",
-        "quote": "1 Michelin star in the 2026 guide"
-      },
-      {
-        "tier": "A",
-        "source": "British Indian Good Food Guide",
-        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
-        "quote": "London Icon 2025 - one of six - British Indian Good Food Guide (Westminster)"
-      },
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/londons-best-oysters/"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out",
-        "quote": "This Michelin-starred restaurant focuses on southwest coastal Indian cuisine. And, while the main menu features seafood, meat and vegetarian options, it's the seafood tasting menu you want to go for, which includes lobster butter "
-      },
-      {
-        "tier": "D",
-        "source": "BoopFoodie (YouTube)",
-        "url": "https://www.youtube.com/@Boopfoodie"
       }
     ]
   },
@@ -100319,48 +103552,6 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-indian-restaurants"
-      }
-    ]
-  },
-  "lahorinihaari": {
-    "name": "Lahori Nihaari",
-    "topics": [
-      "indian",
-      "pakistani"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "pakistani": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-indian-restaurants"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Culture Calling",
-        "url": "https://www.culturecalling.com/london/food-and-drink/features/a-guide-to-indian-and-pakistani-food"
       }
     ]
   },
@@ -102792,32 +105983,6 @@
       }
     ]
   },
-  "wintergarden": {
-    "name": "Winter Garden",
-    "topics": [
-      "instagrammable"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "instagrammable": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "myglobalviewpoint.com",
-        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/",
-        "quote": "Eight-storey glass atrium with towering palm trees"
-      }
-    ]
-  },
   "sexyfish": {
     "name": "Sexy Fish",
     "topics": [
@@ -102864,61 +106029,6 @@
         "tier": "C",
         "source": "Restaurants for Kings",
         "url": "https://restaurantsforkings.com/blog/best-seafood-restaurants-london-2026"
-      }
-    ]
-  },
-  "arcadefoodhall": {
-    "name": "Arcade Food Hall",
-    "topics": [
-      "instagrammable",
-      "new-openings",
-      "street-food"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B2 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "instagrammable": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "street-food": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food-markets-and-food-halls",
-        "quote": "#7"
-      },
-      {
-        "tier": "C",
-        "source": "myglobalviewpoint.com",
-        "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
       }
     ]
   },
@@ -106336,49 +109446,6 @@
       }
     ]
   },
-  "icco": {
-    "name": "ICCO",
-    "topics": [
-      "italian",
-      "pizza"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "A1 C1 D1",
-    "tierCount": 3,
-    "hasAward": true,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 2,
-        "tierSpread": "A1 C1",
-        "tierCount": 2,
-        "hasAward": true
-      },
-      "pizza": {
-        "sourceCount": 1,
-        "tierSpread": "D1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Harden's",
-        "url": "https://www.hardens.com/az/restaurants/london/w1/icco-pizza.htm"
-      },
-      {
-        "tier": "C",
-        "source": "Berkeley Square Barbarian",
-        "url": "https://www.berkeleysquarebarbarian.com/2024/10/11/icco-pizza-london/",
-        "quote": "cheap does not mean poor quality - whole 12-inch pizzas from £6.50, serving Goodge Street since 1999"
-      },
-      {
-        "tier": "D",
-        "source": "Harrison Webb (YouTube)",
-        "url": "https://www.youtube.com/@HarrisonWebb97"
-      }
-    ]
-  },
   "forzawine": {
     "name": "Forza Wine",
     "topics": [
@@ -108145,31 +111212,6 @@
       }
     ]
   },
-  "chottomatte": {
-    "name": "Chotto Matte",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
-      }
-    ]
-  },
   "candthnewsletters": {
     "name": "C&TH Newsletters",
     "topics": [
@@ -108869,36 +111911,6 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/the-best-wine-bars-in-london/"
-      }
-    ]
-  },
-  "ramoramen": {
-    "name": "Ramo Ramen",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Ideal Magazine",
-        "url": "https://idealmagazine.co.uk/best-ramen-london/"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/send-noods-londons-hottest-udon-ramen-shops/"
       }
     ]
   },
@@ -110632,31 +113644,6 @@
       }
     ]
   },
-  "tongdak": {
-    "name": "Tongdak",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Kingston Compass",
-        "url": "https://kingstoncompass.com/guides/best-korean-food-new-malden/"
-      }
-    ]
-  },
   "haru": {
     "name": "Ha Ru",
     "topics": [
@@ -111121,31 +114108,6 @@
   },
   "jinjuu": {
     "name": "Jinjuu",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/korean-restaurants-london/"
-      }
-    ]
-  },
-  "wingwing": {
-    "name": "Wing Wing",
     "topics": [
       "korean"
     ],
@@ -117166,31 +120128,6 @@
       }
     ]
   },
-  "restaurantreviews": {
-    "name": "Restaurant Reviews",
-    "topics": [
-      "markets"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "markets": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Secret Food Tours",
-        "url": "https://www.secretfoodtours.com/blog/get-to-know-the-best-food-markets-in-london/"
-      }
-    ]
-  },
   "funfacts": {
     "name": "Fun Facts",
     "topics": [
@@ -119919,36 +122856,6 @@
       }
     ]
   },
-  "hibaexpress": {
-    "name": "Hiba Express",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-lebanese-restaurants"
-      },
-      {
-        "tier": "B",
-        "source": "Fact Magazines",
-        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
-      }
-    ]
-  },
   "shattaandtoum": {
     "name": "Shatta and Toum",
     "topics": [
@@ -120258,31 +123165,6 @@
   },
   "rovi": {
     "name": "Rovi",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-middle-eastern"
-      }
-    ]
-  },
-  "alenam": {
-    "name": "Al Enam",
     "topics": [
       "middle-eastern"
     ],
@@ -126792,31 +129674,6 @@
       }
     ]
   },
-  "directory": {
-    "name": "Directory",
-    "topics": [
-      "new-openings"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Elle Decoration",
-        "url": "https://www.elledecoration.co.uk/lifestyle-culture/a71228309/new-london-restaurants-2026/"
-      }
-    ]
-  },
   "magazine": {
     "name": "Magazine",
     "topics": [
@@ -127029,36 +129886,6 @@
         "tier": "C",
         "source": "Culture Calling",
         "url": "https://www.culturecalling.com/london/food-and-drink/features/a-guide-to-indian-and-pakistani-food"
-      }
-    ]
-  },
-  "namakmandi": {
-    "name": "Namak Mandi",
-    "topics": [
-      "pakistani"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "pakistani": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/pakistani-restaurants-london/"
       }
     ]
   },
@@ -129884,62 +132711,6 @@
         "tier": "C",
         "source": "Mayfair Foodie",
         "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      }
-    ]
-  },
-  "pizzapilgrims": {
-    "name": "Pizza Pilgrims",
-    "topics": [
-      "pizza"
-    ],
-    "sourceCount": 7,
-    "tierSpread": "A1 B1 C2 D3",
-    "tierCount": 4,
-    "hasAward": true,
-    "byTopic": {
-      "pizza": {
-        "sourceCount": 7,
-        "tierSpread": "A1 B1 C2 D3",
-        "tierCount": 4,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "National Pizza Awards",
-        "url": "https://nationalpizzaawards.co.uk/the-uks-best-pizza",
-        "quote": "2025 finalist (national)"
-      },
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Mayfair Foodie",
-        "url": "https://mayfairfoodie.com/best-pizzas-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "The Hungry Soles",
-        "url": "https://www.thehungrysoles.com/blog/best-pizza-london"
-      },
-      {
-        "tier": "D",
-        "source": "@dens_destinations (TikTok)",
-        "url": "https://www.tiktok.com/@dens_destinations"
-      },
-      {
-        "tier": "D",
-        "source": "Sam Wilder (YouTube)",
-        "url": "https://www.youtube.com/@SamWilder"
-      },
-      {
-        "tier": "D",
-        "source": "Sorted Food (YouTube)",
-        "url": "https://www.youtube.com/@SortedFood"
       }
     ]
   },
@@ -137258,31 +140029,6 @@
       }
     ]
   },
-  "swissbutter": {
-    "name": "Swiss Butter",
-    "topics": [
-      "steak"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "D1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "D1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "D",
-        "source": "Harrison Webb (YouTube)",
-        "url": "https://www.youtube.com/@HarrisonWebb97"
-      }
-    ]
-  },
   "palmcourtbrasserie": {
     "name": "Palm Court Brasserie",
     "topics": [
@@ -137890,31 +140636,6 @@
         "tier": "C",
         "source": "Away to the City",
         "url": "https://awaytothecity.com/unique-things-to-do-in-london/"
-      }
-    ]
-  },
-  "vinegaryard": {
-    "name": "Vinegar Yard",
-    "topics": [
-      "street-food"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "street-food": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
       }
     ]
   },
@@ -139857,38 +142578,6 @@
         "tier": "C",
         "source": "Resy",
         "url": "https://blog.resy.com/2023/07/best-turkish-kurdish-restaurants-london/"
-      }
-    ]
-  },
-  "mantl": {
-    "name": "The Mantl",
-    "topics": [
-      "turkish"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "turkish": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
-        "quote": "The Mantl serves good Turkish dishes like manti, adana, and sarma beyti in Knightsbridge."
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
-        "quote": "Knightsbridge. Themed around families gathering around the welcoming warmth of a fireplace and mantlepiece, The Mantl glows with amber-hued light pouring from glass lamps. The Knightsbridge hotspot is an example of how T"
       }
     ]
   },

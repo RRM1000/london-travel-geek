@@ -109,7 +109,7 @@ It is **closed Sunday and Monday**, lunch runs Thursday and Friday only from noo
 
 **There is a second thing going on here and it is not a marketing line.** Saiq and Moroney run the business as a training route for refugees - professional catering courses and qualifications, alongside language teaching and trauma therapy. It is a working kitchen that is also a programme, and none of the published barbecue lists mentions it.
 
-If you only eat at one place on this page to understand what is different about barbecue in London rather than Austin, make it this. **It takes bookings — check the site for the current address before travelling, because it has moved between residencies more than once.**
+If you only eat at one place on this page to understand what is different about barbecue in London rather than Austin, make it this. After years of moving between residencies it now has a permanent home — **The Garden Bar, Grill & Smokehouse, 41 Bramley Road, W10 6SZ**, open Tuesday to Saturday for lunch from noon to 4pm and dinner from 6pm to 10pm, with a Sunday roast served noon to 6pm. **It takes bookings, and the kitchen is fully halal.**
 
 ### Cinder — the one that is fun about it
 
