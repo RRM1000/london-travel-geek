@@ -1,9 +1,9 @@
 ---
 title: "Bermondsey Area Guide: Maltby Street, the Beer Mile and Shad Thames"
 seoTitle: "Bermondsey Guide: Maltby Street Market & the Beer Mile"
-description: "A complete Bermondsey guide: Maltby Street Market weekends, the Bermondsey Beer Mile, White Cube, Shad Thames warehouses and the Friday antiques market."
+description: "A complete Bermondsey guide: Maltby Street Market hours including the summer Friday evenings, the Bermondsey Beer Mile, White Cube, Shad Thames warehouses and the Friday antiques market."
 publishedAt: 2026-08-16
-updatedAt: 2026-08-16
+updatedAt: 2026-09-08
 sites:
   - london
 canonicalSite: london
@@ -55,7 +55,7 @@ faq:
   - q: "What is the Bermondsey Beer Mile?"
     a: "A run of breweries and taprooms in the railway arches between Bermondsey and South Bermondsey, most of which open their doors at weekends. It is not an official route and the line-up changes as breweries open and close, so check current opening hours before setting out. Saturdays are when nearly all of them trade."
   - q: "When is Maltby Street Market open?"
-    a: "Saturdays and Sundays, roughly 10:00 to 17:00 on Saturday and slightly shorter on Sunday. It runs along Ropewalk, a narrow alley under the railway arches, and it is genuinely narrow — go before midday or expect to shuffle. It does not run midweek."
+    a: "Saturdays 10am to 5pm and Sundays 11am to 4pm, plus Friday evenings from 5.30pm to 9pm in summer — the Friday session is newer and a lot of guides have not caught up with it. It runs along Ropewalk, a narrow alley under the railway arches, and it is genuinely narrow, so go before midday at the weekend or expect to shuffle. Monday to Thursday there is nothing there."
   - q: "Is White Cube Bermondsey free?"
     a: "Yes. The Bermondsey gallery is the largest commercial gallery in Europe and entry is free, as at most commercial galleries. It shows major contemporary artists in very large industrial spaces on Bermondsey Street. It closes between exhibitions, so check what is on."
   - q: "What is the Bermondsey Antiques Market?"
@@ -78,13 +78,13 @@ Bermondsey has its own share of the commemorative plaques marking where notable 
 
 ## Why visit — and who should skip it
 
-**Come here if** it is a weekend and you like eating and drinking. Maltby Street Market and the Beer Mile are both Saturday propositions, both under railway arches, and both about fifteen minutes apart on foot.
+**Come here if** it is a weekend and you like eating and drinking. Maltby Street Market and the Beer Mile are both Saturday propositions, both under railway arches, and both about fifteen minutes apart on foot — though the market now opens on Friday evenings in summer too.
 
-**Skip it if** you come midweek. Maltby Street does not run, most of the breweries are shut, and Bermondsey Street is a pleasant but ordinary road. Come Saturday or not at all.
+**Skip it if** you come Monday to Thursday. Maltby Street does not run, most of the breweries are shut, and Bermondsey Street is a pleasant but ordinary road. Friday evening in summer is the earliest the weekend really starts here.
 
 ## Top sights and activities
 
-1. **Maltby Street Market** — Saturdays and Sundays along **Ropewalk**, a narrow alley beneath the arches. Small, excellent and genuinely cramped. Go before midday.
+1. **Maltby Street Market** — Saturdays, Sundays and summer Friday evenings along **Ropewalk**, a narrow alley beneath the arches. Small, excellent and genuinely cramped. Go before midday at the weekend.
 2. **The Bermondsey Beer Mile** — Breweries and taprooms in the arches between Bermondsey and South Bermondsey, mostly open at weekends. Not an official route and the line-up changes — check before you go.
 3. **White Cube Bermondsey** — The largest commercial gallery in Europe, free, showing major contemporary work in huge industrial rooms on Bermondsey Street.
 4. **Shad Thames** — The warehouse canyon east of Tower Bridge, with the original iron gantries still spanning the street overhead. The most photogenic street in the area.
@@ -114,7 +114,7 @@ The spine of the area, running south from London Bridge, and one of the most com
 
 A run of railway arches under the Bermondsey viaduct, and the best street food in this part of London — smaller, denser and considerably less polished than Borough Market ten minutes north.
 
-> ⚠️ **The market is weekends only.** Saturday and Sunday, roughly 10am to 4pm, and outside those hours Ropewalk is an alley with shuttered arches. This is the single most common wasted trip in Bermondsey, and it catches people who have read about it as though it were a permanent market.
+> ⚠️ **Check the day before you travel.** The market runs **Saturday 10am to 5pm, Sunday 11am to 4pm, and Friday 5.30pm to 9pm in summer** — the Friday evening session is a recent addition and most guides still say weekends only. Monday to Thursday, Ropewalk is an alley with shuttered arches. This is the single most common wasted trip in Bermondsey, and it catches people who have read about it as though it were a permanent market.
 
 **A handful of arches trade through the week**, which is the part worth knowing: **40 Maltby Street at number 40** is a wine bar and kitchen in an arch, open Wednesday to Sunday, and it is one of the best wine lists in London hidden behind a roller shutter.
 

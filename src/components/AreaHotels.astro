@@ -17,6 +17,7 @@
 // a disclosure for links that do not exist would be noise, and worse, would
 // train readers to ignore the one that appears when links do.
 import data from "../data/hotels.json";
+import closedData from "../../data/closed-hotels.json";
 
 interface Props {
   articleId: string;
@@ -65,7 +66,21 @@ const cards = list.map((h) => {
   return { h, badges };
 });
 
-const hasAffiliate = list.some((h) => h.affiliateUrl);
+// A CLOSED HOTEL KEEPS ITS CARD BUT LOSES ITS BOOKING LINK.
+//
+// hotels.json is generated from the sheet and carries no status field, so this
+// component went on rendering a paid "Check prices" link for Clink 78 while it
+// was shut until 2027. Dropping the card entirely would leave a reader
+// wondering where a hostel they had heard of went; keeping it and saying it is
+// closed answers the question, and stops the link earning from a closed door.
+const CLOSED: Record<string, { what?: string; reopening?: string }> =
+  Object.fromEntries(
+    Object.entries((closedData as any).properties ?? {}).filter(
+      ([, v]: [string, any]) => v?.closed,
+    ),
+  );
+
+const hasAffiliate = list.some((h) => h.affiliateUrl && !CLOSED[h.slug]);
 
 ---
 
@@ -107,7 +122,14 @@ const hasAffiliate = list.some((h) => h.affiliateUrl);
           {h.whyGo && <p class="ah-why">{h.whyGo}</p>}
           {h.opNote && <p class="ah-note">{h.opNote}</p>}
 
-          {(h.bookingUrl || h.affiliateUrl || h.website) && (
+          {CLOSED[h.slug] && (
+            <p class="ah-note">
+              <strong>Closed{CLOSED[h.slug].reopening ? `, reopening ${CLOSED[h.slug].reopening}` : ""}.</strong>{" "}
+              {CLOSED[h.slug].what}
+            </p>
+          )}
+
+          {!CLOSED[h.slug] && (h.bookingUrl || h.affiliateUrl || h.website) && (
             <p class="ah-links">
               {h.bookingUrl && (
                 <a href={h.bookingUrl} rel="nofollow noopener" target="_blank">Book direct</a>

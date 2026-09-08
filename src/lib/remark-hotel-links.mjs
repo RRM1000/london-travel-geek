@@ -35,7 +35,21 @@ import fs from "node:fs";
 import { visit } from "unist-util-visit";
 
 const DATA = "src/data/hotels.json";
+const CLOSED_DATA = "data/closed-hotels.json";
 const SCHEME = /^hotel:([a-z0-9-]+)$/;
+
+// Read once at module load. Unlike hotels.json this is hand-edited and rarely
+// changes, and a stale read here fails safe - the worst case is that a link
+// keeps working for one dev-server session after someone marks it closed.
+function loadClosed() {
+  try {
+    const j = JSON.parse(fs.readFileSync(CLOSED_DATA, "utf8"));
+    return new Map(Object.entries(j.properties ?? {}).filter(([, v]) => v.closed));
+  } catch {
+    return new Map();
+  }
+}
+const CLOSED = loadClosed();
 
 let cache = { mtimeMs: -1, bySlug: new Map() };
 function hotels() {
@@ -82,6 +96,24 @@ export default function remarkHotelLinks() {
       const h = hotels().get(slug);
 
       // Prefer the affiliate link, fall back to whatever will actually take a
+      // A CLOSED PROPERTY MUST NEVER GET A BOOKING LINK.
+      //
+      // hotels.json is generated from the sheet and has no status field, so
+      // nothing here knew a hotel had shut. Clink 78 closed until 2027 and
+      // kings-cross-area-guide went on rendering a paid "Check prices" link to
+      // it. data/closed-hotels.json is the stop: listed slugs degrade to plain
+      // text and say so loudly, exactly like an unresolved slug, so the article
+      // still reads correctly and the link cannot earn from a closed door.
+      if (h && CLOSED.has(slug)) {
+        const c = CLOSED.get(slug);
+        console.warn(
+          `[remark-hotel-links] "${slug}" is marked closed in data/closed-hotels.json (${where}). ` +
+            `Rendered as plain text. ${c.what ?? ""}`,
+        );
+        degrade(node);
+        return;
+      }
+
       // reader to the property.
       const href = h && (h.affiliateUrl || h.bookingUrl || h.website);
       if (!href) {
