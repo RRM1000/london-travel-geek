@@ -25,7 +25,8 @@
     "audit:counts": "node scripts/audit-counts.mjs",
     "audit:pins": "node scripts/audit-area-pins.mjs",
     "audit:weekly": "node scripts/audit.mjs --weekly",
-    "audit:monthly": "node scripts/audit.mjs"
+    "audit:monthly": "node scripts/audit.mjs",
+    "worklist": "node scripts/worklist.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.2.1",

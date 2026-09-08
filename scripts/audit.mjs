@@ -114,4 +114,18 @@ console.log(
   `\n${results.length} check(s) run. ` +
   (weeklyOnly ? "Run the full set monthly: npm run audit:monthly" : "The weekly subset is: npm run audit:weekly") + "\n"
 );
+
+// The human residue, printed beside the machine findings.
+//
+// These checks are good at what a script can see and blind to everything else -
+// a wrong address in a Google Sheet, a photograph only Rob can take, a ticket
+// release three weeks out. Those live in data/worklist.json, and they are
+// printed here rather than in a file of their own because a to-do list nobody
+// opens is the same as no to-do list. Never blocks: it is information, not a
+// failure, so it cannot change the exit code.
+if (!only.length) {
+  const r = spawnSync(process.execPath, ["scripts/worklist.mjs"], { encoding: "utf8" });
+  if (r.stdout) process.stdout.write(r.stdout);
+}
+
 process.exit(blockingFails.length ? 1 : 0);
