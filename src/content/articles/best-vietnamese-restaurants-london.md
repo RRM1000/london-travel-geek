@@ -2,6 +2,8 @@
 title: "The Best Vietnamese Restaurants in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Vietnamese Restaurants London 2026: Ranked Across Every Major List"
 description: "Thirteen independent sources, one Michelin Bib Gourmand, and the question the lists keep dancing around: is Kingsland Road still where the best Vietnamese food in London is?"
+heroImage: "../../assets/articles/best-vietnamese-restaurants-london/song-que-hero.jpg"
+heroImageAlt: "A clay pot of caramel-braised fish topped with sliced red chilli and spring onion, photographed from above on a white plate"
 publishedAt: 2026-09-08
 sites: [london]
 canonicalSite: london
@@ -65,6 +67,10 @@ So: start on Kingsland Road, but do not finish there.
 
 *£ · Kingsland Road, Shoreditch · Cited by 8 sources*
 
+![A clay pot of caramel-braised fish topped with sliced red chilli and spring onion, photographed from above on a white plate](../../assets/articles/best-vietnamese-restaurants-london/song-que-clay-pot.jpg)
+
+*Braised in a clay pot until the sauce is almost black, then finished with raw chilli and spring onion. Southern cooking, which is what the strip mostly serves.*
+
 A bright green corner site that has drawn **queues since 2002**, family-run, with recipes from the owner Mrs Ánh Phạm. The cooking is **southern** — sweeter and herbier than the northern style — and the menu is long enough to be daunting on a first visit.
 
 Eight sources name it, including both YouTube channels in this pass and Thuy Hoang, whose own family have been regulars for years. **No bookings in practice: the queue is the system**, and it moves.
@@ -72,6 +78,10 @@ Eight sources name it, including both YouTube channels in this pass and Thuy Hoa
 ### Việt Grill — the same family, the smarter room
 
 *££ · Kingsland Road, Hoxton · Cited by 6 sources*
+
+![A bowl of clear Vietnamese noodle soup with prawns, squid, spring onion and herbs, on a wooden table with chopsticks alongside](../../assets/articles/best-vietnamese-restaurants-london/viet-grill-noodle-soup.jpg)
+
+*A seafood noodle soup at Việt Grill. The bánh cuốn is the order the regulars come for, but the broths are not an afterthought.*
 
 From **Hiếu Nguyễn**, who is also behind Cây Tre in Soho and the Kêu bánh mì shops — so three of the names on this page come from one operator, which is worth knowing before you treat them as independent recommendations.
 
@@ -98,6 +108,10 @@ It is barely covered by the London lists, which is the interesting part: the jud
 ### Phở Thúy Tây — northern phở, and a position on it
 
 *£ · 1B Rotherhithe Old Road, SE16 2PP · Steps from Surrey Quays Overground · Cited by 4 sources*
+
+![Steamed rice rolls topped with crisp fried shallots on a black oval plate, with a bowl of dipping sauce and a pile of shredded herbs beside them](../../assets/articles/best-vietnamese-restaurants-london/pho-thuy-tay-rice-rolls.jpg)
+
+*Steamed rice rolls under a heap of crisp fried shallots, with the dipping sauce alongside rather than poured over.*
 
 Chef patron **Thúy Nguyễn's parents ran a phở stand in Hanoi**, and she opened here in 2014 out of dissatisfaction with how Vietnamese food was being cooked in Britain. The room is café-style and unpretentious; most of the customers are Vietnamese.
 
