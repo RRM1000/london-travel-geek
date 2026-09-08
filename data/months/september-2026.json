@@ -380,6 +380,21 @@
     "BERMONDSEY STREET FESTIVAL - organiser site is a stub, treated as dormant, not printed.",
     "THEATRE CLOSING DATES were not collected. Openings are covered; the 'last chance to see' side of the West End is not, and it is the more urgent half. SOLT's own last-chance URL 404s to a 2018 article. Next pass should try individual theatre sites or ask Rob for a source.",
     "SPORT is absent. September is the start of the football season proper and the Premier League fixture list is public - worth deciding whether this series covers sport at all before October.",
-    "LESSON FOR NEXT MONTH: the first exhibition pass searched only for shows CLOSING in the month and so missed the Bayeux Tapestry, which OPENS on 10 September and is the largest cultural event in London this year. Always scan openings and closings."
+    "LESSON FOR NEXT MONTH: the first exhibition pass searched only for shows CLOSING in the month and so missed the Bayeux Tapestry, which OPENS on 10 September and is the largest cultural event in London this year. Always scan openings and closings.",
+    "LESSON: venue openings fell between the restaurant-openings source (Hot Dinners) and the gig listings (existing venues). Blue Note London was missed until Rob sent it. October needs a deliberate check for new venues."
+  ],
+  "venueOpenings": [
+    {
+      "name": "Blue Note London",
+      "area": "Covent Garden",
+      "address": "St Martin's Lane, WC2N 4EJ",
+      "opened": "23 September 2026",
+      "detail": "First UK venue for the Blue Note Entertainment Group, which runs clubs in New York, Los Angeles, Tokyo and Milan. Two rooms - a 300-seat main room and B-Side, a 130-seat space for late sets and emerging artists - so two shows a night. Full kitchen and bar; cocktail list of reimagined jazz-era classics.",
+      "openingNight": "Robert Glasper, 7pm and 9.30pm, SOLD OUT",
+      "openingRun": "Sinead Harnett 25 Sep, corto.alto 26 Sep, Yussef Dayes 27 Sep, Jamie Cullum 28-29 Sep, Nik West 30 Sep - 1 Oct",
+      "source": "https://www.bluenotejazz.com/london/",
+      "verified": "2026-09-08",
+      "why": "Biggest music venue opening in London in years. Found by Rob, not by any of my passes - the openings research covered restaurants via Hot Dinners and gigs via existing venue listings, and a NEW venue falls between the two. Worth a dedicated check each month."
+    }
   ]
 }

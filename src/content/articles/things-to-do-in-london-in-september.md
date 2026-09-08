@@ -175,7 +175,19 @@ One piece of housekeeping that will date any older guide you read: **the Duke of
 
 ## Gigs worth planning around
 
-Not a listings page — Songkick and DICE do that better. These are the shows worth building an evening around.
+Not a listings page — Songkick and DICE do that better. These are the shows worth building an evening around, and this month one of them is a building.
+
+### Blue Note London opens — St Martin's Lane, from 23 September
+
+*Covent Garden · WC2N 4EJ*
+
+**The legendary New York jazz club opens its first UK venue**, on St Martin's Lane, joining a group that already runs rooms in New York, Los Angeles, Tokyo and Milan. It is the most consequential music opening London has had in years, and it is happening this month.
+
+The layout is the part worth knowing. There are **two rooms**: a **300-seat main room**, and **B-Side, a 130-seat space** for late sets, emerging artists and one-offs. That means **two shows a night, every night** — so a sold-out headliner does not close the building, and the B-Side programme is where the interesting risks will be taken. There is a full kitchen and a bar, with a cocktail list built on reimagined jazz-era classics.
+
+**The grand opening on 23 September is Robert Glasper, two shows at 7pm and 9.30pm, and it has sold out.** The rest of the opening run has not: **Sinead Harnett on the 25th, corto.alto on the 26th, Yussef Dayes on the 27th, and Jamie Cullum across the 28th and 29th**, with Nik West carrying it into October.
+
+Look further ahead before you book anything, because the October diary is extraordinary for a room that will be three weeks old: **Erykah Badu on the 10th and 11th**, Baaba Maal, **Nubya Garcia across the 15th to 17th**, and **Shabaka on the 19th and 20th**. If you are choosing a night, choose on the programme rather than the novelty.
 
 **Saint Etienne at the Roundhouse on 18 September** is the one to take seriously if you have any history with the band. Also at the Roundhouse: **Bellaire, Dublon and Jeremy Underground** on the 12th, and **Good Kid with Last Dinosaurs** on the 26th.
 
