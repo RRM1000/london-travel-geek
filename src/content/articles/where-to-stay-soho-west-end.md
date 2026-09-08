@@ -2,6 +2,8 @@
 title: "Where to Stay in Soho and the West End — and the Missing Middle"
 seoTitle: "Where to Stay in Soho & the West End 2026: Hotels and Prices"
 description: "Soho has nothing between a £287 windowless room and a £450 suite. Nine West End hotels compared, plus four areas five minutes out where the middle actually exists."
+heroImage: "../../assets/articles/where-to-stay-soho-west-end/the-devonshire-soho.jpg"
+heroImageAlt: "The Devonshire on the corner of Denman Street in Soho: a red-brick Victorian pub with dark green tiling and gold lettering reading 'Ales, stouts, wines and spirits, Soho since 1793', ivy along the ground floor and a planted roof terrace above, with a modern glass office building rising behind it"
 publishedAt: 2026-09-08
 sites: [london]
 canonicalSite: london
