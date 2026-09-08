@@ -2,8 +2,8 @@
 title: "The Best Places to Eat Outside in London: Yards, Squares and Waterfronts"
 seoTitle: "Best Places to Eat Outside in London 2026"
 description: "Coal Drops Yard, Canary Wharf, Eccleston Yards and Exchange Square — the precincts where outdoor eating is concentrated, which ones are heated, and where you can sit down with food you brought yourself."
-heroImage: "../../assets/articles/eat-outside-london/coal-drops-yard-roofs.jpg"
-heroImageAlt: "The two curved warehouse roofs of Coal Drops Yard extended until they almost touch above the walkway"
+heroImage: "../../assets/articles/eat-outside-london/coal-drops-yard-summer.jpg"
+heroImageAlt: "Crowds eating at red bistro tables under the curved roofs of Coal Drops Yard, with a summer stage at the far end and people on the brick arch balconies above"
 publishedAt: 2026-09-07
 sites: [london]
 canonicalSite: london
@@ -74,10 +74,6 @@ The best afternoons use both. Buy lunch from a counter in the precinct, carry it
 
 ### Coal Drops Yard and King's Cross
 
-![The fountains in Granary Square at King's Cross, with the wide south-facing steps down to the canal behind](../../assets/articles/eat-outside-london/granary-square-fountains.jpg)
-
-*Granary Square. The steps face south onto the canal and are grassed in summer - the best free seat in King's Cross.*
-
 *££ · King's Cross · 5 min from King's Cross St Pancras · shops Mon–Sat 11am–7pm, Sun 11am–5pm; restaurants later · [Coal Drops Yard](https://www.kingscross.co.uk/coal-drops-yard)*
 
 Two Victorian coal drops — the eastern one built in 1851, the western in 1860 — where coal from South Yorkshire was tipped from trains into canal boats and carts below. They opened as a shopping and eating yard on 26 October 2018, joined by Thomas Heatherwick's "kissing roof": two slate roofs pulled up and across a 35-metre gap until they touch.
@@ -98,9 +94,9 @@ Around Granary Square itself: **Caravan** has a sunny terrace, **Granary Square 
 
 ### Canary Wharf
 
-![Eden Dock at Canary Wharf, a planted wetland in the middle dock with timber terracing stepping down to the water](../../assets/articles/eat-outside-london/eden-dock.jpg)
+![Tables along the dockside at Canary Wharf outside the Henry Addington, with a DLR train crossing the water and towers behind](../../assets/articles/eat-outside-london/canary-wharf-dockside.jpg)
 
-*Eden Dock. The timber terracing is seating, it is free, and nobody minds what you eat on it.*
+*West India Quay. The tables run right along the water, and a DLR train crosses the dock every couple of minutes.*
 
 *£–£££ · Canary Wharf · Elizabeth line, Jubilee line and DLR · [Canary Wharf](https://canarywharf.com/)*
 
@@ -124,9 +120,9 @@ Elsewhere on the estate: **ROKA** has a heated terrace over Canada Square Park, 
 
 ### Broadgate: Exchange Square and Broadgate Circle
 
-![The open plaza at Broadgate, with office towers around a paved square and seating at ground level](../../assets/articles/eat-outside-london/broadgate.jpg)
+![The sunken circular plaza of Broadgate Circle from above, ringed with restaurant terraces and coloured parasols](../../assets/articles/eat-outside-london/broadgate-circle.jpg)
 
-*Broadgate. Exchange Square's lawn is yours to sit on; the seating around Broadgate Circle belongs to the restaurants.*
+*Broadgate Circle, sunken and enclosed. Every seat here belongs to a restaurant - the free lawn is up at Exchange Square.*
 
 *£–£££ · Liverpool Street · 2 min from Liverpool Street · [Broadgate](https://broadgate.co.uk/eatdrinkshop/)*
 
@@ -204,12 +200,29 @@ Ground-floor tables in the middle of the courtyard get whatever sun there is; th
 
 ### Duke of York Square, Chelsea
 
+![The wide flagstone pedestrian street at Duke of York Square with bunting overhead and restaurant tables under teal parasols along one side](../../assets/articles/eat-outside-london/duke-of-york-square.jpg)
+
+*Duke of York Square. Restaurant tables down one side, and a lawn off the other end that is yours to sit on.*
+
 *£–££ · Chelsea · 3 min from Sloane Square · market Saturdays 10am–4pm · [Duke of York Square](https://dukeofyorksquare.com/food-and-dining/categories/duke-of-york-square-market)*
 
 An open square off the King's Road beside the Saatchi Gallery, with a lawn in the middle, and every Saturday since 2004 around 45 stalls arrange themselves around it from 10am to 4pm. Cheese, charcuterie, oysters, fresh pasta, sourdough and hot plates from most of the world, with the lawn and the steps to eat it on.
 
 It is genuinely open-air, genuinely free to sit in, and genuinely only one day a week — a Tuesday visit gets you a pleasant square with restaurant terraces on it and no market at all.
 
+### Exhibition Road, South Kensington
+
+![Diners under navy parasols along the pedestrianised Exhibition Road in South Kensington at golden hour, with red brick mansion blocks behind](../../assets/articles/eat-outside-london/exhibition-road.jpg)
+
+*Exhibition Road at about six on a September evening. The whole street is a shared surface, so the tables spill into it.*
+
+Not a yard or a precinct but a **street that behaves like one**. Exhibition Road was rebuilt as a shared surface - no kerbs, no separated pavement - between South Kensington station and the museums, and the practical effect is that the restaurants along it put their tables out into what would otherwise be road.
+
+It runs past the **V&A, the Natural History Museum and the Science Museum**, which is the densest run of museums in the country, so the crowd is a mix of people who have spent the day in one and people who live in South Kensington and never go.
+
+**Casa Brindisa** does Spanish tapas from a terrace directly on the street, and **Comptoir Libanais** is a few doors up. The parasols are the restaurants’, so this is venue seating rather than anywhere to bring your own - but the width of the street means the tables are not squeezed against a wall, which is unusual in central London.
+
+**It faces roughly north-south and the light arrives late**, so the terrace end of the day here runs well into the evening in summer - the photograph above was taken at about six in September.
 ### The Yards, Covent Garden
 
 *££ · Covent Garden · 4 min from Covent Garden · [The Yards](https://theyardscoventgarden.co.uk/)*
@@ -222,6 +235,10 @@ Two minutes north, **Neal's Yard** is a twenty-metre courtyard of painted walls 
 
 ### Gabriel's Wharf and the South Bank
 
+![Painted picnic tables and deck chairs in the yard at Gabriel's Wharf, with papel picado bunting strung overhead and small independent units around the edge](../../assets/articles/eat-outside-london/gabriels-wharf.jpg)
+
+*Gabriel's Wharf. The painted picnic tables are not any one venue's, which makes this the rare central yard you can sit in with food from anywhere.*
+
 *£–££ · South Bank · 8 min from Waterloo · [Gabriel's Wharf](https://southbank.london/see-and-do/gabriels-wharf)*
 
 A low-rise courtyard of independent shops, galleries and small kitchens set back one block from the river between Queen's Walk and Upper Ground, and one of the few places on the South Bank where you are not paying river-frontage prices. **Limin'** does Trinidadian food, **The Gourmet Pizza Company** and **Hola Guacamole** cover the obvious, **Fed By Plants** the vegan end, **Hot Mess Toasties** the cheap one. In summer the tables spread into a sand-covered area in the middle of the courtyard.
@@ -231,6 +248,10 @@ A low-rise courtyard of independent shops, galleries and small kitchens set back
 📍 More in our **[South Bank area guide](/articles/south-bank-area-guide/)**.
 
 ### Camden Market Hawley Wharf
+
+![Outdoor tables under brick railway arches at Hawley Wharf in Camden, with a brewery tap room and beer hall behind and overhead railway wires above](../../assets/articles/eat-outside-london/camden-hawley-wharf.jpg)
+
+*The arches at Hawley Wharf. A working railway runs directly overhead, which you notice about once a minute.*
 
 *£–££ · Camden Town · 4 min from Camden Town · [Camden Market Hawley Wharf](https://camdenmarket.com/journal/camden-market-hawley-wharf)*
 
