@@ -159,7 +159,7 @@ For a bar that will take the booking rather than refuse it, the [cocktail bar gu
 
 **Read Astor's terms before you book anywhere cheap**: bookings cap at fifteen people including several bookings for the same group, **eleven or more must go through the groups department**, and the hostel *"may ask for a damage deposit from groups of guests when it deems this reasonable including football games, races, stag and hen parties"*, alongside an unqualified right to refuse or evict with no refund. That is the standard shape of hostel terms, written down more honestly than most.
 
-**Mid, about £90–£140 a head.** Aparthotels suit twelve men better than a corridor of twins: kitchen, living room, no reception desk watching you come in. **Locke runs eleven London properties**, including Leman Locke and Buckle Street Studios in Aldgate and Bermonds Locke by Tower Bridge. **Point A** has seven central sites, from King's Cross and Liverpool Street to Waterloo and Shoreditch.
+**Mid, about £90–£140 a head.** Aparthotels suit twelve men better than a corridor of twins: kitchen, living room, no reception desk watching you come in. **Locke runs eleven London properties**, including [Leman Locke](hotel:leman-locke) and Buckle Street Studios in Aldgate and [Bermonds Locke](hotel:bermonds-locke) by Tower Bridge. **Point A** has seven central sites, from King's Cross and Liverpool Street to Waterloo and Shoreditch.
 
 **Premium, £180 a head and up. Cheval Collection has eight residences and one maison across more than 800 apartments** at Three Quays by the Tower, Calico House by St Paul's, Knightsbridge, Chelsea and Hyde Park.
 

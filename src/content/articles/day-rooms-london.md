@@ -48,10 +48,10 @@ Every rate below is the day price against that hotel's own overnight rate, with 
 | **The Wesley**, Euston | £101 | £189 | 47% | 11am–6pm, 2pm–8pm |
 | **The Mandeville**, Marylebone | £107 | £309 | **66%** | 11am–6pm |
 | **Marlin Waterloo** | £107 | £169 | 37% | **7am–3pm**, 8am–4pm, 10am–6pm, 12pm–8pm |
-| **Hilton London Paddington** | £117 | £245 | 53% | 9am–6pm |
+| **[Hilton London Paddington](hotel:hilton-london-paddington)** | £117 | £245 | 53% | 9am–6pm |
 | **Meliá London Kensington** | £139 | £260 | 47% | 10am–5pm |
 | **Leonardo Royal Tower Bridge** | £151 | £250 | 40% | 10am–5pm, 12pm–8pm · pool |
-| **Treehouse Hotel London** | £169 | £300 | 44% | 10am–5pm |
+| **[Treehouse Hotel London](hotel:treehouse-hotel-london)** | £169 | £300 | 44% | 10am–5pm |
 | **Athenaeum**, Piccadilly | £272 | £580 | **54%** | 10am–6pm |
 
 Dayuse advertises **"up to 75% off"**; the biggest we actually found across the London listings was 69%, at Seraphine Hammersmith. Treat 75% as the ceiling rather than the expectation.

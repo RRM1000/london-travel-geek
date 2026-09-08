@@ -149,7 +149,7 @@ Two rules to note: **no confetti**, and **no under-18s at all on Saturdays**. Se
 
 **Budget, about £45–£70 a head.** Hostels with private-use rooms. **Safestay Elephant & Castle** at 144–152 Walworth Road, SE17 1JL, is seven minutes from the Northern and Bakerloo lines and does **private rooms from eight to fifteen beds**, with a group team handling ten to a hundred-plus guests. **Wombat's** on Dock Street, E1 8LL, between Shadwell DLR and Aldgate East, is 18-plus with a **minimum of 15 for a group booking**. **Clink** takes group bookings from **ten guests**, with a **20% non-refundable deposit on anything over £1,000** and no outside alcohol.
 
-**Mid, about £90–£140 a head.** Aparthotels are the right shape for this: your own kitchen, a living room to get ready in, no corridor. **Locke has eleven London properties**, including Leman Locke and Buckle Street Studios in Aldgate, Bermonds Locke by Tower Bridge and SACO Holborn. **Point A** has seven central sites — Canary Wharf, Kensington, King's Cross, Liverpool Street, Paddington, Shoreditch and Waterloo.
+**Mid, about £90–£140 a head.** Aparthotels are the right shape for this: your own kitchen, a living room to get ready in, no corridor. **Locke has eleven London properties**, including [Leman Locke](hotel:leman-locke) and Buckle Street Studios in Aldgate, [Bermonds Locke](hotel:bermonds-locke) by Tower Bridge and SACO Holborn. **Point A** has seven central sites — Canary Wharf, Kensington, King's Cross, Liverpool Street, Paddington, Shoreditch and Waterloo.
 
 **Premium, £180 a head and up. Cheval Collection runs eight residences and one maison across 800-plus apartments** in Kensington, Knightsbridge, Chelsea, Hyde Park, St Paul's and by the Tower — full kitchens, and staff used to groups.
 

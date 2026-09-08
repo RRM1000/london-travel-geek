@@ -64,15 +64,15 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 ## By area, and by how you get there
 
-**Central, and priced like it.** Wilde Covent Garden is on Adam Street between the Strand and the river, three minutes from the piazza. Native Mayfair is on a mews off Grosvenor Square, three minutes from Bond Street and the Elizabeth line. Both are as central as this format gets in London.
+**Central, and priced like it.** Wilde Covent Garden is on Adam Street between the Strand and the river, three minutes from the piazza. [Native Mayfair](hotel:native-mayfair) is on a mews off Grosvenor Square, three minutes from Bond Street and the Elizabeth line. Both are as central as this format gets in London.
 
 **The City, which is the value trick.** Cove by Locke has Moorgate and Cannon Street, Native has King's Wardrobe on Carter Lane by St Paul's, Supercity has The Chronicle off Fetter Lane, and Cheval has Three Quays on the river. The Square Mile empties at weekends, so **Saturday is often the cheapest night of the week** — the reverse of everywhere else in London, and worth checking before you book a Friday.
 
-**East, on the Elizabeth line.** Leman Locke and Buckle Street Studios are both a couple of minutes from Whitechapel, which puts Bond Street about twelve minutes away without a change. Locke London Canary Wharf and Cove Landmark Pinnacle are on the Elizabeth line too, with Heathrow under an hour direct.
+**East, on the Elizabeth line.** [Leman Locke](hotel:leman-locke) and Buckle Street Studios are both a couple of minutes from Whitechapel, which puts Bond Street about twelve minutes away without a change. Locke London Canary Wharf and Cove Landmark Pinnacle are on the Elizabeth line too, with Heathrow under an hour direct.
 
-**South of the river.** Native Bankside is on a lane behind the Globe, five minutes from Tate Modern. Bermonds Locke is on Tower Bridge Road. Staycity has Greenwich High Road, a minute from the station and eight from the Cutty Sark.
+**South of the river.** [Native Bankside](hotel:native-bankside) is on a lane behind the Globe, five minutes from Tate Modern. [Bermonds Locke](hotel:bermonds-locke) is on Tower Bridge Road. Staycity has Greenwich High Road, a minute from the station and eight from the Cutty Sark.
 
-**Genuinely outer, and genuinely cheaper.** Staycity Deptford Bridge is on the DLR one stop from Greenwich. Native Fulham Broadway is Zone 2 on the District line, ten minutes from Stamford Bridge. Templeton Place sits on an Earl's Court garden square where the District and Piccadilly both stop — Heathrow without a change, South Kensington in four minutes, and the cheapest Supercity address in London.
+**Genuinely outer, and genuinely cheaper.** Staycity Deptford Bridge is on the DLR one stop from Greenwich. [Native Fulham Broadway](hotel:native-fulham-broadway) is Zone 2 on the District line, ten minutes from Stamford Bridge. Templeton Place sits on an Earl's Court garden square where the District and Piccadilly both stop — Heathrow without a change, South Kensington in four minutes, and the cheapest Supercity address in London.
 
 ## When it is worth it, and when it is not
 

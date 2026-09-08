@@ -111,7 +111,7 @@ Fitzrovia has its own share of the commemorative plaques marking where notable p
 
 The spine, and **the densest restaurant street in this part of London** — running most of its length, with pavement seating in summer that turns the whole road into an outdoor dining room.
 
-The Charlotte Street Hotel sits at the southern end. The street's character is mid-priced and independent rather than either cheap or grand, which is unusual this close to Oxford Street.
+The [Charlotte Street Hotel](hotel:charlotte-street-hotel) sits at the southern end. The street's character is mid-priced and independent rather than either cheap or grand, which is unusual this close to Oxford Street.
 
 **Book for the evening.** It fills from about 7pm and the outside tables in summer go first and are rarely bookable — those are first come, first served.
 
