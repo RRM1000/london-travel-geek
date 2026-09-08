@@ -3,7 +3,7 @@ title: "Bonfire Night in London: Every Display, and Where to Watch for Free"
 seoTitle: "Bonfire Night London 2026: Fireworks Displays and Free Views"
 description: "Every London fireworks display for Bonfire Night 2026 with dates, prices and booking links, which famous ones no longer run, and the free viewpoints that are actually open after dark."
 publishedAt: 2026-08-29
-updatedAt: 2026-09-29
+updatedAt: 2026-09-08
 sites:
   - london
 canonicalSite: london
@@ -25,7 +25,7 @@ faq:
   - q: "How much are Alexandra Palace fireworks tickets?"
     a: "The 2026 prices go live when the presale opens at midday on Wednesday 2 September. Be careful with the advertised 'from £10.50' — the site's own small print says that is the price for an 11 to 15-year-old child, so an adult ticket costs more. In 2025 an advance adult ticket was £15.50 and a child £10.50, so budget roughly £15 to £18 per adult."
   - q: "Is the Blackheath fireworks display cancelled?"
-    a: "No. It was cancelled from 2019 to 2024 when Lewisham withdrew funding, but it returned in 2025 and sold out. Local reporting says it returns in 2026, but no date or price has been confirmed yet, so watch for an announcement. The important change is that it is no longer free — it is now a ticketed, fenced event, which caused local objections about pricing out families who had attended for decades."
+    a: "No — it is confirmed for Saturday 7 November 2026, 5pm to 10pm on Blackheath Common, and tickets are on general sale. It was cancelled from 2019 to 2024 when Lewisham withdrew funding, returned in 2025 and sold out. The important change is that it is no longer free: £16 an adult, £10 for 11 to 15s, £5 for under-10s, with family tickets from £26. The detail that catches people out is that last entry is 8pm and the fireworks also start at 8pm, so there is no arriving late."
 heroImage: "../../assets/articles/bonfire-night-london/alexandra-palace-fireworks.jpg"
 heroImageAlt: "A large red firework bursting over the crowd at the Alexandra Palace fireworks, with the lights of London visible below"
 ---
@@ -50,7 +50,7 @@ This guide lists every display you can buy a ticket for, the one that is still f
 | **Sun 1 Nov** | Richmond Family Fireworks · Colets, Thames Ditton |
 | **Thu 5 Nov** | **Coram's Fields (free)** · Wimbledon Park · Stow |
 | **Fri 6 Nov** | Stow · Esher Rugby · Totteridge |
-| **Sat 7 Nov** | **The big one** — Alexandra Palace · Morden Park · Harrow · Dulwich · Southgate · Kempton Park · Beckenham · West Wickham · Bromley High · Chislehurst · Stow, plus Battersea and Blackheath expected |
+| **Sat 7 Nov** | **The big one** — Alexandra Palace · Morden Park · Harrow · Dulwich · Southgate · Kempton Park · Beckenham · West Wickham · Bromley High · Chislehurst · Stow, **Blackheath (confirmed, 5pm–10pm)**, plus Battersea expected |
 | **Sun 8 Nov** | Alexandra Palace family day · Meath School, plus Battersea expected |
 
 ---
@@ -143,7 +143,7 @@ Prices below were published by the organisers and checked in late August 2026. S
 | **[Bromley High School](https://www.eventbrite.co.uk/e/bromley-high-fireworks-2026-tickets-1992816335304)** | Sat 7 Nov | **Mon 28 September** |
 | **West Wickham** (Rotary) | Sat 7 Nov | **1 October** — capped at 1,550, no gate sales |
 | **[Beckenham Charity Fireworks](https://www.beckenhamfireworks.com/)** | Sat 7 Nov | Not announced — mailing list only, **never any gate sales** |
-| **[Blackheath](https://www.blackheathfireworks.com/)** | Expected early Nov, **not confirmed** | Not announced — sign-up only |
+| **[Blackheath](https://www.blackheathfireworks.com/)** | **Sat 7 Nov, 5pm–10pm** | **On general sale now** — £16 adult, £10 youth, £5 child |
 | **[Merton](https://www.merton.gov.uk/fireworks)**: Wimbledon Park and Morden Park | **Wimbledon Park Thu 5 Nov · Morden Park Sat 7 Nov** | Not announced — mailing list only |
 
 **Richmond has sold out four years running**, grandstand seats go first, and **under-5s still need a ticket**. Parking is £10, advance only, and sold out last year.
@@ -171,7 +171,7 @@ This is where most guides fail, because they recommend viewpoints that are **loc
 | **Parliament Hill**, Hampstead Heath | **No perimeter gates to close** | ✅ **The pick** |
 | **Alexandra Park** | **Open 24 hours, all year** | ✅ |
 | **Primrose Hill** | Closes **10pm**, not dusk | ✅ |
-| **Blackheath** | Unenclosed common, no gates | ✅ |
+| **Blackheath** | Unenclosed common, but **fenced on 7 Nov for the ticketed event** | ❌ On the night |
 | **Hyde Park** and **St James's Park** | 05:00–**midnight**, all year | ✅ |
 | Richmond Park | Pedestrian gates lock **20:00** during the deer cull | ⚠️ Tight |
 | Greenwich Park | **18:00** | ❌ |
@@ -213,7 +213,15 @@ People still search for all of these.
 | **Carshalton and Sutton** | Cancelled permanently. No ticketed display anywhere in Sutton |
 | **Lord Mayor's Show Thames fireworks** | Abolished by the City of London Corporation |
 
-> 💡 **Blackheath is the exception — it is coming back.** Cancelled from 2019 to 2024 when Lewisham withdrew funding, it returned in 2025 and sold out. Local reporting in July 2026 says it returns this year, and the organiser runs it as a weekend event in late October or early November — but **no 2026 date or price has been confirmed**, so watch for an announcement. The change worth knowing is that it is **no longer free**: it is now ticketed and fenced, which drew local criticism about pricing out families who had gone for decades.
+> 💡 **Blackheath is confirmed: Saturday 7 November, 5pm to 10pm, and tickets are on sale.** Cancelled from 2019 to 2024 when Lewisham withdrew funding, it returned in 2025 and sold out.
+>
+> **£16 an adult, £10 for 11 to 15s, £5 for under-10s.** A family of four is £40 with under-10s or £48 with teenagers, and there are single-parent family tickets at £26 and £34. Fairground rides cost extra on top of admission.
+>
+> **Last entry is 8pm and the display starts at 8pm**, which is the thing to plan around — arrive by seven if you want to see any of the rest of it. Three gates: Red (south, SE3 0TY), Pink (west, SE3 0UA) and Green (north, SE3 7BN).
+>
+> **You cannot bring your own food or drink in**; there are bars and caterers on site. Free personal assistant tickets are available for disabled visitors, but they must be arranged by email with the organiser and booked on their own site rather than through See Tickets.
+>
+> It is no longer free, which drew local criticism about pricing out families who had gone for decades.
 
 ---
 
