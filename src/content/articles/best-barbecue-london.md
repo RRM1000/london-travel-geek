@@ -2,6 +2,8 @@
 title: "The Best Barbecue in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Barbecue London 2026: Ranked Across Every Major List"
 description: "Fifteen independent sources, no judged award, and a search for the best brisket in London that returns no journalism at all. What each smokehouse actually cooks, and when they are shut."
+heroImage: "../../assets/articles/best-barbecue-london/smokestak-hero.jpg"
+heroImageAlt: "A tray of sliced beef brisket with a black bark and a pink smoke ring, glazed pork ribs and pulled pork, with pickles and a pot of sauce on a wooden table"
 publishedAt: 2026-09-08
 sites: [london]
 canonicalSite: london
@@ -31,7 +33,7 @@ Every result on the first page is an aggregator or a restaurant's own SEO page �
 
 So this is a guide to a subject that has demand and almost no serious coverage. There is no judged award either: **Britain's barbecue society judges competition cook teams, not restaurants**, and the other name people remember has been liquidated since 2018.
 
-> 💡 **The Short Version:** **Smokestak** is named by nine of fifteen sources, more than anything else. **Acme Fire Cult** is second and barely serves meat. **Texas Joe's** is the Hill Country one — and is **closed Sunday and Monday**. **Cue Point**, Afghan flavours through Texan technique, is Time Out's number one. A surprising amount of this is cooked in brewery yards.
+> 💡 **The Short Version:** **Smokestak** is named by nine of fifteen sources, more than anything else. **Acme Fire Cult** is second and leads on vegetables. **Texas Joe's** is the Hill Country one — and is **closed Sunday and Monday**. **Cue Point**, Afghan flavours through Texan technique, is Time Out's number one. A surprising amount of this is cooked in brewery yards.
 
 > 📊 **The evidence behind this guide.**
 > Nothing here rests on one visit. This pass reads **15 independent sources carrying 159 citations** across **87 named venues**. **26 are named by two or more sources.**
@@ -63,25 +65,39 @@ So this is a guide to a subject that has demand and almost no serious coverage. 
 
 *££ · Shoreditch · Cited by 9 sources*
 
+![A tray of sliced beef brisket with a black bark and a pink smoke ring, glazed pork ribs and pulled pork, with pickles and a pot of sauce on a wooden table](../../assets/articles/best-barbecue-london/smokestak-brisket.jpg)
+
+*The brisket, with the bark and the smoke ring the twelve hours are for. Ribs and pulled pork alongside.*
+
 **Nine of fifteen sources name it, more than anything else in this pass**, and it also holds a Michelin Bib Gourmand — the only entry here with any judged recognition at all, though that is a general award rather than a barbecue one.
 
 **The beef brisket is the dish.** It is smoked overnight for twelve to fourteen hours over English oak, then served in a slightly sweet, pillowy bun — moist and smoky rather than dry and bark-heavy.
 
 The room is dark, semi-industrial and loud, with music thumping through it. Time Out's description is eating in a medieval nightclub, which is fair warning either way: this is not a place for a quiet conversation.
 
-### Acme Fire Cult — second on the list, and it barely serves meat
+### Acme Fire Cult — second on the list, and the vegetables lead
 
 *££ · 40FT Brewery, Dalston · Cited by 7 sources*
 
-The second most-cited barbecue restaurant in London **builds its menu primarily around vegetables**, which is not what anyone expects from this list and is exactly why it is on it. Chef Andrew Clarke cooks over live fire but has moved deliberately away from what the trade calls dude food, using fermenting and preserving to cut waste.
+![A sliced T-bone steak resting in its juices on a white plate, with two dishes of roast new potatoes and herbs on a wooden table](../../assets/articles/best-barbecue-london/acme-fire-cult.jpg)
 
-It sits **inside a working brewery** in Dalston, so the setting is a yard rather than a dining room.
+*The chop, which is the exception rather than the rule here - the menu is built the other way round, on vegetables.*
+
+The second most-cited barbecue restaurant in London **builds its menu primarily around vegetables**, which is not what anyone expects from this list and is exactly why it is on it. Chef Andrew Clarke cooks over live fire but has moved deliberately away from what the trade calls dude food, using fermenting and preserving to cut waste. Meat is on the menu - there is a chop to share - but it is not the organising idea.
+
+It sits **inside a working brewery** in Dalston - the Bootyard on Abbot Street, in 40FT - so the setting is a yard rather than a dining room, and the drinks list is what is brewed a few metres away.
+
+**It takes bookings**, which most of the brewery-yard places do not, and runs a separate Sunday feasting menu that is the version most people are told about.
 
 ### Texas Joe's — Hill Country, and closed half the week
 
 *££ · Bermondsey, by London Bridge · Cited by 6 sources*
 
-**Joe Walters opened it in 2013 specifically to bring Hill Country barbecue to London**, and it is the closest thing here to the Texan original: a canteen-style room where slow-smoked meat is the whole proposition.
+**Joe Walters opened it in 2013 specifically to bring Hill Country barbecue to London**, and it is the closest thing here to the Texan original: a canteen-style room by London Bridge where slow-smoked meat is the whole proposition. He is a Texan, and funded the move with a beef jerky business he talked the Dragons' Den panel into backing.
+
+**Beef brisket, chicken thighs, pork ribs and mutton shoulder go over oak**, and the sides are the part people quote back at you - bacon-wrapped jalapeños, and a cakey jalapeño cornbread.
+
+It is **closed Sunday and Monday**, lunch runs Thursday and Friday only from noon to 3pm, dinner is Tuesday to Friday from 5pm and Saturday from noon, with last food orders at 9.30pm and the bar to 11pm. Booking is recommended.
 
 > ⚠️ **Check the day before you go.** It is **closed Sunday and Monday**. Lunch runs **Thursday and Friday only**, noon to 3pm; dinner Tuesday to Friday from 5pm, Saturday from noon, with last food orders at 9.30pm. Booking is recommended.
 
@@ -91,31 +107,57 @@ It sits **inside a working brewery** in Dalston, so the setting is a yard rather
 
 **Time Out's number one**, and the clearest example of where London barbecue has actually gone. **Mursal Saiq and Joshua Moroney** cook Afghan flavours through Texan tradition — torshi pickles alongside brisket burnt ends and hot link sausages — after years of residencies across the city before settling into a permanent site.
 
-If you only eat at one place on this page to understand what is different about barbecue in London rather than Austin, make it this.
+**There is a second thing going on here and it is not a marketing line.** Saiq and Moroney run the business as a training route for refugees - professional catering courses and qualifications, alongside language teaching and trauma therapy. It is a working kitchen that is also a programme, and none of the published barbecue lists mentions it.
+
+If you only eat at one place on this page to understand what is different about barbecue in London rather than Austin, make it this. **It takes bookings — check the site for the current address before travelling, because it has moved between residencies more than once.**
 
 ### Cinder — the one that is fun about it
 
-*££ · St John's Wood · Cited by 4 sources*
+*££ · St John's Wood and Belsize Park · Cited by 4 sources*
 
 Painted tiles and bare plaster, with LEGO figurines and miniature chairs made out of Champagne cages scattered through the room. The cooking is serious and the room refuses to be, which is a rarer combination in this category than it should be.
+
+**It is the debut solo project of Jake Finn, formerly of the Ritz**, and there are two of them - St John's Wood and Belsize Park. The heat comes off a **coal-fired Josper grill** rather than a smoker, so this is smoke-and-small-plates rather than low-and-slow: roasted squash with cashew dukkah and chimichurri, barbecued octopus.
+
+**Both sites take bookings**, and they are the reason north London does not have to go east for live-fire cooking.
 
 ### Big Easy — ribs and cheap lobster
 
 *££ · Chelsea and central branches · Cited by 4 sources*
 
-The original Chelsea branch built its reputation on **bargain-price lobster alongside pit-cooked ribs**, which is still the reason to go. A mini-chain now, loud and deliberately unserious, and the one on this page most suited to a large group who cannot agree.
+![Inside Crossrail Place at Canary Wharf, the timber lattice roof over dense planting and a walkway through the roof garden](../../assets/articles/best-barbecue-london/crossrail-place.jpg)
+
+*Crossrail Place, where the Canary Wharf branch sits on the Park Level. The garden runs alongside it under that roof.*
+
+The original Chelsea branch built its reputation on **bargain-price lobster alongside pit-cooked ribs**, which is still the reason to go. A mini-chain now, loud and deliberately unserious, with live bands, and the one on this page most suited to a large group who cannot agree.
+
+**Of the branches, Canary Wharf is the nicest room by some way.** It sits on the Park Level of Crossrail Place, under the timber lattice roof, with the roof garden alongside it — so a chain that is a shopping-centre proposition almost everywhere else is, here, inside one of the better pieces of architecture in east London.
+
+**Park Level, Crossrail Place, E14 5AR.** Monday noon to 9pm, Tuesday to Thursday noon to 10pm, later on Friday and Saturday.
 
 ### Temper — a short menu, held to
 
 *££ · Soho · Cited by 4 sources*
 
-Low-and-slow cooking with a deliberately short menu. It is the most central serious option here, and the kitchen has resisted expanding what it does — which on this subject is a compliment.
+![The open kitchen at temper seen across a marble counter laid for service, with chefs working by a wood-fired oven and a chalkboard above the pass](../../assets/articles/best-barbecue-london/temper-counter.jpg)
+
+*The counter wraps the fire. The board above the pass is where the steaks are explained - and where it says that when they are gone, they are gone.*
+
+Open-fire cooking around a counter that wraps the kitchen, so you sit watching the wood oven work. Two sites, **Soho and the City**, open since 2016, and the menu runs tacos alongside the meat — there is a Taco Tuesday, which tells you how seriously it takes itself.
+
+**The board above the pass is the thing to read.** It says the steaks are butchered in-house and come from rare-breed British cattle, slow-reared and pasture-grazed — and then, in the same hand, *when they're gone, they're gone*. That is the sells-out warning this category is known for, printed where you can see it.
+
+It takes bookings and does a Sunday roast.
 
 ### Burnt Smokehouse — Leyton, and worth the Central line
 
 *£–££ · Leyton · Cited by 3 sources*
 
 A local couple, **Sufia Khan and Abidur Tarafder**, working with **Tiberius Tudor**, a Romanian-born American barbecue specialist. It has become a serious local fixture in a part of London the guides rarely reach.
+
+The cooking is **Texas-style rather than British-live-fire**: smoked brisket is the thing to order, with smash burgers alongside it for anyone who is not in the mood for a tray of meat. Seating is communal, so a table for two on a Saturday means sitting with other people.
+
+**It is out at Leyton**, which is the whole reason it is under-covered - twenty-odd minutes on the Central line from Oxford Circus, and none of the mastheads that write about Shoreditch make the trip.
 
 ---
 
