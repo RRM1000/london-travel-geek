@@ -3,7 +3,7 @@ title: "South Kensington Area Guide: The Museum Quarter and Exhibition Road"
 seoTitle: "South Kensington Guide: Museums, Free Entry & Best Times"
 description: "A complete South Kensington guide: the three free museums, the tunnel from the station, when to book timed entry, and how to avoid museum fatigue."
 publishedAt: 2026-07-28
-updatedAt: 2026-08-16
+updatedAt: 2026-09-08
 sites:
   - london
 canonicalSite: london
@@ -56,7 +56,7 @@ faq:
   - q: "Do I need to book the Natural History Museum in advance?"
     a: "Booking is not required but is strongly recommended, and it is free. Standby queues at weekends and in school holidays regularly run to 45 minutes or more, while booked visitors walk in. Book a morning slot online before you travel."
   - q: "Is there a tunnel from South Kensington station to the museums?"
-    a: "Yes, and most visitors miss it. A tiled Victorian pedestrian subway runs from inside the station directly to the Natural History Museum, Science Museum and V&A. It is free, entirely undercover and signposted from the ticket hall — invaluable in the rain."
+    a: "Yes, and most visitors miss it. A tiled Victorian pedestrian subway runs from inside the station north under Exhibition Road, free and signposted from the ticket hall. The Natural History Museum has its own gate straight off it, so you can walk in without going outside at all. For the Science Museum and the V&A you come up at street level on the museums side of the road and walk the last few metres in the open — still far better than the walk round, and it keeps you out of the traffic."
   - q: "Can you visit all three museums in one day?"
     a: "You can enter all three, but you will not see much. The V&A alone has 145 galleries. One museum per half day is the realistic pace; two in a day is a long day. Pick by interest rather than trying to complete the set."
   - q: "Which museum is best for young children?"
@@ -73,7 +73,7 @@ South Kensington has its own share of the commemorative plaques marking where no
 
 ## Why visit — and who should skip it
 
-**Come here if** you have children, or a rainy day, or any interest in science, design or natural history. The value is extraordinary: three world-class collections at no cost, all connected to the station by an undercover tunnel.
+**Come here if** you have children, or a rainy day, or any interest in science, design or natural history. The value is extraordinary: three world-class collections at no cost, and a Victorian subway from the station that takes most of the walk underground.
 
 **Skip it if** you are short on time and not a museum person. There is little else here — the streets are handsome but residential, and the area is quiet by evening. If you want one museum and then something else, the British Museum in Bloomsbury sits closer to the rest of central London.
 
@@ -112,7 +112,7 @@ The spine, resurfaced in 2012 as a shared surface with no kerbs, so pedestrians 
 ![The carved stone entrance arch of the Victoria and Albert Museum on Cromwell Gardens](../../assets/articles/south-kensington-area-guide/victoria-and-albert-museum-entrance.jpg)
 
 ### The Museum Subway
-The tiled Victorian tunnel running underground from the station to the museums, built in 1885 so that visitors could reach them without crossing the road or getting wet.
+The tiled Victorian tunnel running underground from the station towards the museums, opened in 1885 so that visitors could reach them without crossing Exhibition Road. Cream and yellow-brown glazed brick, Grade II listed, and free since 1908 — there was a penny toll to begin with. The Natural History Museum has a gate directly off it; for the other two you surface on the museums side and walk a short way outside.
 
 **It is free, dry and open during station hours**, and it comes up inside or beside each of the three museums rather than on the street.
 
