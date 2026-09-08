@@ -1,0 +1,123 @@
+{
+  "month": "september",
+  "monthNumber": 9,
+  "article": "src/content/articles/things-to-do-in-london-in-september.md",
+  "note": "THE SPINE. This file holds what is true about September EVERY year - the annual fixtures, expressed as date RULES rather than dates, and the character of the month. It should barely change from year to year. Everything that is only true in one year lives in september-<year>.json, and the article's year-specific sections are driven from there. Splitting it this way is the whole point: the annual refresh is meant to be editing an overlay, not rereading an article to find what has gone stale.",
+  "rules": "A fixture belongs here only if it recurs annually AND is organised by a body with a website. Dates come from the organiser, never from a listings site. Every entry carries `official` and `verified`. If an event is missed a year, do not delete it - set `status` and say why, so a later pass does not re-add it blind.",
+
+  "character": {
+    "inOneLine": "The month London gets itself back - the tourist peak has broken, the cultural season restarts, and the weather usually holds long enough to still do things outdoors.",
+    "weather": "Typically 19-21C by day and 12-13C at night, cooling through the month. Historically one of the drier months, though it is the point where London stops being reliably warm after dark - the practical advice is a jacket in the evening even when the afternoon is warm.",
+    "crowds": "The single best thing about September. Schools go back in the first week, so from roughly the 5th the museums, big attractions and restaurants are noticeably easier than in August, while the daylight and temperature are still usable. Mid-month is the exception - see the collision note in fixtures.",
+    "prices": "Hotel rates drop from the August peak in the first week, then spike again around London Fashion Week and the Open House / Design Festival overlap. Booking either side of that middle week is materially cheaper.",
+    "daylight": "Sunset moves from about 7.30pm at the start of the month to about 6.45pm at the end, and the equinox falls around the 22nd or 23rd. The last usable evenings for outdoor drinking and river walks are the first three weeks.",
+    "seasonReset": "September is when the cultural year restarts: the West End's autumn press nights, the classical season, the football season settling in, and the galleries changing over. It is also when the summer exhibitions close, which is the most time-sensitive thing this guide carries."
+  },
+
+  "fixtures": [
+    {
+      "id": "totally-thames",
+      "name": "Totally Thames",
+      "what": "A month-long river festival across the whole tidal Thames - art installations, boat trips, foreshore archaeology walks, environmental projects and river races. Run by Thames Festival Trust.",
+      "dateRule": "The whole calendar month, every year. The organiser's own wording is '1st-30th September'.",
+      "typical": "1-30 September",
+      "area": "The length of the tidal Thames, both banks",
+      "price": "Mixed - a large share is free",
+      "booking": "Individual events vary; the foreshore walks book out early",
+      "official": "https://totallythames.org/",
+      "verified": "2026-09-08",
+      "verifiedNote": "Organiser's own site, homepage, carries '1st-30th September' as standing text rather than a year-specific date."
+    },
+    {
+      "id": "great-river-race",
+      "name": "The Great River Race",
+      "what": "London's river marathon - 21.6 miles of fixed-seat craft from Millwall in the east to Ham in the west, under every bridge on the way. Around 300 crews, international, and much of the field is in fancy dress for charity. Started in 1988 with 61 boats.",
+      "dateRule": "A Saturday in the first half of September, set by the tide. The start time moves with it and is confirmed late, so the time is never assumable even when the date is known.",
+      "typical": "A Saturday, 1-15 September",
+      "area": "Millwall to Ham; watch free from any bridge or bank. Organiser suggests Ham riverside for food, bar and a disco at the finish.",
+      "price": "Free to watch",
+      "booking": "None to spectate. A supporters' boat from Millwall to Ham is bookable.",
+      "official": "https://greatriverrace.org.uk",
+      "verified": "2026-09-08",
+      "domainWarning": "THE DOMAIN CHANGED. greatriverrace.CO.UK is now a parked domain with a for-sale banner and is not the event. The real site is greatriverrace.ORG.UK, run by the Great River Race Trust. Do not link the .co.uk."
+    },
+    {
+      "id": "open-house",
+      "name": "Open House Festival",
+      "what": "London-wide festival opening buildings that are normally closed or ticketed - private houses, livery halls, infrastructure, government buildings, architects' own homes. Run by Open City.",
+      "dateRule": "Nine days spanning two weekends, in the middle of September.",
+      "typical": "Mid-September, nine days",
+      "area": "Every borough",
+      "price": "Free",
+      "booking": "MOST ARE FIRST-COME, BUT THE POPULAR BUILDINGS BALLOT OR RELEASE SLOTS IN ADVANCE AND GO WITHIN HOURS. The programme goes live in August; anyone deciding in September is already too late for the marquee buildings and should plan around the walk-up ones.",
+      "official": "https://open-city.org.uk/open-house-festival",
+      "verified": "2026-09-08"
+    },
+    {
+      "id": "london-design-festival",
+      "name": "London Design Festival",
+      "what": "City-wide design festival built on 'design districts' - Brompton, Shoreditch, Mayfair, Bankside and others - plus large commissioned installations in the V&A and public spaces.",
+      "dateRule": "Nine days in the middle of September, overlapping Open House almost exactly.",
+      "typical": "Mid-September, nine days",
+      "area": "Design districts across central and east London; V&A is the traditional hub",
+      "price": "Mostly free; some talks and the Global Design Forum are ticketed",
+      "booking": "Installations are walk-up. The Forum sells out.",
+      "official": "https://www.londondesignfestival.com/",
+      "verified": "2026-09-08"
+    },
+    {
+      "id": "london-fashion-week",
+      "name": "London Fashion Week",
+      "what": "The September edition, showing the following spring/summer. Run by the British Fashion Council.",
+      "dateRule": "Five days in the second half of September, immediately after the Open House / Design Festival week.",
+      "typical": "Mid-to-late September, five days",
+      "area": "Rotating venues, largely central",
+      "price": "Industry only for the shows themselves",
+      "booking": "NOT A PUBLIC EVENT and this is the most common misunderstanding about it. The shows are trade and press. What the public gets is the schedule of open events, the shopping activations, and a city noticeably busier and dearer for those five days.",
+      "official": "https://londonfashionweek.co.uk/",
+      "verified": "2026-09-08"
+    },
+    {
+      "id": "last-night-of-the-proms",
+      "name": "Last Night of the Proms",
+      "what": "The close of the BBC Proms season at the Royal Albert Hall, after a summer of 80-plus concerts.",
+      "dateRule": "A Saturday in the second week of September, ending the season.",
+      "typical": "Second Saturday of September",
+      "area": "Royal Albert Hall, South Kensington",
+      "price": "Promming tickets are the cheap way in",
+      "booking": "SEATS SELL OUT FAR IN ADVANCE, BUT THE HALL IS NOT CLOSED TO YOU. Day Promming tickets go on sale at 9.30am on the day of the concert, two per booker, standing. Season ticket holders redeem from 11am the day before. This is the single most useful practical fact about the event and almost no guide prints it.",
+      "official": "https://www.royalalberthall.com/tickets/proms/",
+      "verified": "2026-09-08"
+    },
+    {
+      "id": "heritage-open-days",
+      "name": "Heritage Open Days",
+      "what": "England's largest festival of history and culture, volunteer-organised. Distinct from Open House, national rather than London-only, and skewed to heritage rather than architecture.",
+      "dateRule": "Ten days in the middle of September, overlapping Open House.",
+      "typical": "Mid-September, ten days",
+      "area": "England-wide, with a London programme",
+      "price": "Free",
+      "booking": "Varies by site",
+      "official": "https://www.heritageopendays.org.uk/",
+      "verified": "2026-09-08",
+      "note": "Worth carrying because readers conflate it with Open House. Both run mid-September, both are free, and they are different organisations with different programmes."
+    }
+  ],
+
+  "theCollision": "THE MOST USEFUL PLANNING FACT ABOUT SEPTEMBER, AND NO PUBLISHED GUIDE STATES IT. Open House, the London Design Festival and Heritage Open Days all run across the same middle-of-the-month stretch, and London Fashion Week starts as they finish. In 2026 Open House and the Design Festival are the SAME NINE DAYS, 12-20 September. That week is simultaneously the best week of the year to be in London for anyone interested in buildings or design, and the worst week to want a cheap hotel room or a quiet museum. Both halves are worth telling a reader.",
+
+  "recurringButUnverified": [
+    {
+      "name": "Pearly Kings and Queens Harvest Festival",
+      "what": "The pearly societies' harvest festival service, traditionally at St Martin-in-the-Fields with a parade beforehand.",
+      "typical": "Late September, a Sunday",
+      "status": "NOT VERIFIED - pearlysociety.co.uk was unreachable on 2026-09-08. Do not print a date until an organiser confirms it. Try the St Martin-in-the-Fields site as an alternative primary source."
+    },
+    {
+      "name": "Bermondsey Street Festival",
+      "what": "A one-day street festival in Bermondsey.",
+      "typical": "Third Saturday of September",
+      "status": "SITE IS A 114-BYTE STUB as of 2026-09-08, which usually means dormant or moved. Check whether it still runs before printing it. Treat as discontinued until proven otherwise."
+    }
+  ]
+}

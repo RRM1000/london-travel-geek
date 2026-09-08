@@ -1,0 +1,385 @@
+{
+  "month": "september",
+  "year": 2026,
+  "compiled": "2026-09-08",
+  "note": "THE OVERLAY. Everything here is true only in 2026. To produce September 2027, copy this file, blank the arrays, and refill from the sources named in each entry - the spine in september.json does not need touching. scripts/check-month-freshness.mjs reports what has gone stale.",
+  "fixtureDates": {
+    "totally-thames": {
+      "dates": "1-30 September 2026",
+      "source": "https://totallythames.org/",
+      "verified": "2026-09-08"
+    },
+    "great-river-race": {
+      "dates": "Saturday 12 September 2026",
+      "detail": "First boats cross the start line at 12.45 BST. Crews' individual start times are on the organiser's Pre-Race Information page. The campsite is full; seats remained on the supporters' boat from Millwall to Ham when checked.",
+      "source": "https://greatriverrace.org.uk",
+      "verified": "2026-09-08"
+    },
+    "open-house": {
+      "dates": "12-20 September 2026",
+      "source": "https://open-city.org.uk/open-house-festival",
+      "verified": "2026-09-08"
+    },
+    "london-design-festival": {
+      "dates": "12-20 September 2026",
+      "source": "https://www.londondesignfestival.com/",
+      "verified": "2026-09-08"
+    },
+    "london-fashion-week": {
+      "dates": "Thursday 17 to Monday 21 September 2026",
+      "source": "https://londonfashionweek.co.uk/",
+      "verified": "2026-09-08",
+      "quote": "London Fashion Week takes place between Thursday 17th to Monday 21st September 2026"
+    },
+    "last-night-of-the-proms": {
+      "dates": "Saturday 12 September 2026",
+      "detail": "Starts 7.15pm, doors 5.45pm. Yuja Wang (piano), Nicky Spence (tenor), Sakari Oramo conducting the BBC forces. Seats not available; day Promming tickets from 9.30am on the day, two per booker.",
+      "source": "https://www.royalalberthall.com/tickets/proms/bbc-proms-2026/last-night-of-the-proms-2026",
+      "verified": "2026-09-08"
+    },
+    "heritage-open-days": {
+      "dates": "11-20 September 2026",
+      "source": "https://www.heritageopendays.org.uk/",
+      "verified": "2026-09-08"
+    }
+  },
+  "exhibitionsClosing": [
+    {
+      "title": "Monet and Renoir: Painting Side by Side",
+      "venue": "National Gallery",
+      "runs": "27 July - 15 September 2026",
+      "closes": "2026-09-15",
+      "source": "https://www.nationalgallery.org.uk/exhibitions/monet-and-renoir-painting-side-by-side",
+      "verified": "2026-09-08",
+      "why": "The most urgent thing in the month - a week left when this was compiled.",
+      "price": "Free",
+      "room": "Room 41",
+      "detail": "Two paintings of La Grenouillere, made side by side in summer 1869, reunited for the first time in nearly 20 years. Renoir on loan from Nationalmuseum, Stockholm. After it closes Renoir's painting goes into Renoir and Love, 3 October 2026 - 31 January 2027."
+    },
+    {
+      "title": "Early Netherlandish drawings",
+      "venue": "British Museum",
+      "runs": "16 April - 20 September 2026",
+      "closes": "2026-09-20",
+      "flag": "Museum's own listing marks it 'Final weeks'",
+      "source": "https://www.britishmuseum.org/exhibitions/early-netherlandish-drawings",
+      "verified": "2026-09-08",
+      "price": "Free",
+      "room": "Room 90",
+      "hours": "Daily 10.00-17.00",
+      "detail": "Around 120 works - Rogier van der Weyden, Lucas van Leyden, Pieter Bruegel the Elder, Hendrick Goltzius. Drawings from the Low Countries before 1600. Rare because they were functional workshop objects, and light-limited so shown only briefly."
+    },
+    {
+      "title": "Waldmuller: Landscapes",
+      "venue": "National Gallery",
+      "runs": "until 20 September 2026",
+      "closes": "2026-09-20",
+      "source": "https://www.nationalgallery.org.uk/exhibitions",
+      "verified": "2026-09-08",
+      "detail": "Austrian landscapes. Folded into the National Gallery entry in the article rather than given its own section - the gallery site 520d when detail was sought and a standalone entry would have been too thin to meet the depth standard."
+    },
+    {
+      "title": "James McNeill Whistler",
+      "venue": "Tate Britain",
+      "runs": "until 27 September 2026",
+      "closes": "2026-09-27",
+      "source": "https://www.tate.org.uk/whats-on/tate-britain/whistler",
+      "verified": "2026-09-08",
+      "price": "Ticketed; free for Tate Members",
+      "detail": "First major European Whistler retrospective in 30 years. Famous paintings plus rarely or never shown works, from his teens in St Petersburg to the late self-portraits. Nocturne: Blue and Gold - Old Battersea Bridge is the signature image."
+    }
+  ],
+  "exhibitionsRunning": [
+    {
+      "title": "John Constable: views of nature",
+      "venue": "British Museum",
+      "runs": "2 June - 4 October 2026",
+      "price": "Free",
+      "source": "https://www.britishmuseum.org/exhibitions-events",
+      "verified": "2026-09-08"
+    },
+    {
+      "title": "Frida: The Making of an Icon",
+      "venue": "Tate Modern",
+      "runs": "until 3 January 2027",
+      "source": "https://www.tate.org.uk/whats-on",
+      "verified": "2026-09-08"
+    },
+    {
+      "title": "Serpentine Pavilion 2026",
+      "venue": "Serpentine, Kensington Gardens",
+      "runs": "6 June - 25 October 2026",
+      "price": "Free",
+      "source": "https://www.serpentinegalleries.org/whats-on/",
+      "verified": "2026-09-08"
+    },
+    {
+      "title": "Richard Dadd",
+      "venue": "Royal Academy",
+      "runs": "25 July - 25 October 2026",
+      "source": "https://www.royalacademy.org.uk/exhibitions-and-events",
+      "verified": "2026-09-08"
+    }
+  ],
+  "exhibitionsOpening": [
+    {
+      "title": "The Bayeux Tapestry",
+      "venue": "British Museum, Room 30 (Sainsbury Exhibitions Gallery)",
+      "runs": "10 September 2026 - 11 July 2027",
+      "hours": "Sunday-Wednesday 10.00-18.00; Thursday-Saturday 10.00-21.00",
+      "tickets": "Members priority booking reopens 6 October 2026. Next general release 21 October 2026, covering visits 1 January - 31 March 2027.",
+      "detail": "First time in England in nearly 1,000 years. 70 metres. Likely commissioned by a Norman patron but embroidered by English hands from Canterbury manuscript drawings. Bayeux Around Britain runs related programmes at 60+ UK museums. Curator talk The real world of the Bayeux Tapestry online 25 September, £50.",
+      "why": "THE biggest cultural event in London this year, and it opens in September. Missed on the first pass because the exhibition scrape looked for CLOSING dates and this one opens - a real lesson for the October pass.",
+      "source": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry",
+      "verified": "2026-09-08"
+    },
+    {
+      "title": "BBC TV 90 at Ally Pally",
+      "venue": "Alexandra Palace",
+      "runs": "18 September - 30 November 2026",
+      "why": "Ally Pally is where BBC television started in 1936, so a 90th-anniversary show there is on the actual site rather than about it.",
+      "source": "https://www.alexandrapalace.com/whats-on/",
+      "verified": "2026-09-08"
+    },
+    {
+      "title": "Open Roots",
+      "venue": "The Photographers' Gallery",
+      "runs": "18 September - 15 November 2026",
+      "source": "https://thephotographersgallery.org.uk/whats-on",
+      "verified": "2026-09-08"
+    },
+    {
+      "title": "Art in Victorian Britain",
+      "venue": "Royal Academy",
+      "runs": "1 September - 6 October 2026",
+      "source": "https://www.royalacademy.org.uk/exhibitions-and-events",
+      "verified": "2026-09-08"
+    },
+    {
+      "title": "Renoir and Love",
+      "venue": "National Gallery",
+      "runs": "3 October 2026 - 31 January 2027",
+      "why": "FOR THE OCTOBER GUIDE. Renoir's La Grenouillere moves into it when the September pairing closes.",
+      "source": "https://www.nationalgallery.org.uk/exhibitions/monet-and-renoir-painting-side-by-side",
+      "verified": "2026-09-08"
+    }
+  ],
+  "theatreOpening": [
+    {
+      "title": "Bloodsport: After Helen of Troy",
+      "venue": "Theatre Royal Stratford East",
+      "opens": "3 September",
+      "detail": "Ava Pickett's follow-up to 1536, starring Michelle Dockery and Laura Aikman. Lisa Spirling directs."
+    },
+    {
+      "title": "Thelma & Louise",
+      "venue": "Young Vic",
+      "opens": "3 September",
+      "detail": "New musical adaptation of the film, directed by Trip Cullman, with Amy Lennox and Rachel Tucker."
+    },
+    {
+      "title": "Million Dollar Quartet",
+      "venue": "Arts at Marble Arch",
+      "opens": "4 September",
+      "detail": "The 1956 Memphis session - Cash, Lewis, Perkins and Presley."
+    },
+    {
+      "title": "Man to Man",
+      "venue": "Royal Court",
+      "opens": "5 September",
+      "detail": "Tilda Swinton returns to the role that made her name, more than 30 years on. Manfred Karge's play about a woman taking her dead husband's identity in 1930s Germany. Stephen Unwin directs."
+    },
+    {
+      "title": "Tru",
+      "venue": "Menier Chocolate Factory",
+      "opens": "19 September",
+      "detail": "Jesse Tyler Ferguson as Truman Capote in Jay Presson Allen's one-man play."
+    },
+    {
+      "title": "Who's Afraid of Virginia Woolf?",
+      "venue": "@sohoplace",
+      "opens": "21 September",
+      "detail": "Gillian Anderson and Billy Crudup, directed by Marianne Elliott."
+    },
+    {
+      "title": "The Standard of Living",
+      "venue": "Theatre Royal Haymarket",
+      "opens": "21 September",
+      "detail": "James Graham's new play about John Maynard Keynes, with Rory Kinnear."
+    },
+    {
+      "title": "Hay Fever",
+      "venue": "Wyndham's Theatre",
+      "opens": "22 September",
+      "detail": "Coward's 1925 comedy with Christine Baranski and Richard E. Grant. Emily Burns directs."
+    },
+    {
+      "title": "Into the Woods",
+      "venue": "Noel Coward Theatre",
+      "opens": "22 September",
+      "detail": "Directed by Jordan Fein."
+    },
+    {
+      "title": "RENT",
+      "venue": "Theatre Royal Drury Lane",
+      "opens": "22 September",
+      "detail": "Thirtieth anniversary production."
+    }
+  ],
+  "theatreSource": {
+    "url": "https://www.londonboxoffice.co.uk/news/post/best-new-theatre-openings-in-september",
+    "verified": "2026-09-08",
+    "caveat": "SECONDARY SOURCE - a ticket seller's editorial round-up, used for discovery. Opening dates for anything given prominence in the article should be confirmed at the theatre's own site before the next refresh."
+  },
+  "theatreNote": "The Duke of York's Theatre has been renamed the TOM STOPPARD THEATRE. Worth carrying in the article - it is the kind of change that makes older guides read as out of date.",
+  "gigs": [
+    {
+      "act": "Annie Mac",
+      "venue": "Alexandra Palace",
+      "date": "12 September"
+    },
+    {
+      "act": "Bellaire, Dublon and Jeremy Underground",
+      "venue": "Roundhouse",
+      "date": "12 September"
+    },
+    {
+      "act": "ANOTR",
+      "venue": "Alexandra Palace",
+      "date": "17-18 September"
+    },
+    {
+      "act": "Saint Etienne",
+      "venue": "Roundhouse",
+      "date": "18 September"
+    },
+    {
+      "act": "Monteverdi Choir - Rossini's Petite Messe Solennelle",
+      "venue": "Alexandra Palace",
+      "date": "18 September"
+    },
+    {
+      "act": "Boris Brejcha",
+      "venue": "Alexandra Palace",
+      "date": "19 September"
+    },
+    {
+      "act": "I Prevail",
+      "venue": "Alexandra Palace",
+      "date": "25 September"
+    },
+    {
+      "act": "Public Service Broadcasting",
+      "venue": "Alexandra Palace",
+      "date": "26 September"
+    },
+    {
+      "act": "Good Kid with Last Dinosaurs",
+      "venue": "Roundhouse",
+      "date": "26 September"
+    }
+  ],
+  "gigsSources": [
+    {
+      "url": "https://www.alexandrapalace.com/whats-on/",
+      "verified": "2026-09-08"
+    },
+    {
+      "url": "https://www.roundhouse.org.uk/whats-on/",
+      "verified": "2026-09-08"
+    }
+  ],
+  "gigsNote": "CURATED, NOT COMPREHENSIVE - Rob's instruction, 2026-09-08. Full listings are a losing fight against Songkick and DICE; the value here is a short list worth planning a trip around. Do not let this section grow into a calendar.",
+  "restaurantOpenings": [
+    {
+      "name": "Nakimushi",
+      "area": "Notting Hill",
+      "address": "7 Kensington Mall, W8 4DY",
+      "opened": "7 September 2026",
+      "detail": "From the Dorian team, in a Notting Hill townhouse. Yuji Shimokawa Kelly of Urchin and Robin Kosuge of Robin's Ramen - a ramen bar downstairs and a wider Japanese menu above it, including red prawn and courgette gyoza with umeboshi."
+    },
+    {
+      "name": "The Albatross",
+      "area": "City of London",
+      "address": "8-10 Old Jewry, EC2R 8DN",
+      "opened": "7 September 2026",
+      "detail": "The Goodman and Wild group's first proper pub, with Chris Dunlop - previously of New York's The Spotted Pig - brought in as landlord. Seafood-led: lobster thermidor, bisque, oyster platters."
+    },
+    {
+      "name": "Le Cafe LPM",
+      "area": "Belgravia",
+      "address": "The Lanesborough, Hyde Park Corner, SW1X 7TA",
+      "opened": "9 September 2026",
+      "detail": "A La Petite Maison spin-off inside the Lanesborough, running as a residency for at least twelve months, with a new menu and a terrace."
+    },
+    {
+      "name": "Beefbar at Dear Jackie",
+      "area": "Soho",
+      "address": "20 Broadwick Street, W1F 8HT",
+      "opened": "10 September 2026",
+      "detail": "Beefbar takes over Dear Jackie inside Broadwick Soho, keeping the name and the downstairs decor. Beef-led, including a croque sando made with 45-day cured beef striploin prosciutto."
+    },
+    {
+      "name": "Marrion's",
+      "area": "Hackney",
+      "address": "177 Morning Lane, E9 6LH",
+      "opened": "10 September 2026",
+      "detail": "A neighbourhood bar from the man behind Norman's, in the old Big Night space. Classic cocktails, Spanish beer, devilled crab rarebit."
+    },
+    {
+      "name": "Cordelia's",
+      "area": "Mayfair",
+      "address": "6 Clarges Street, W1J 8AE",
+      "opened": "September 2026",
+      "detail": "A steakhouse in the old Joel Robuchon space - British cuts with some Galician and Parmesan-fed Italian beef, built around a charcoal bar, angling to be a late-night room too."
+    },
+    {
+      "name": "The Admiral's Mess",
+      "area": "Admiralty Arch",
+      "opened": "September 2026",
+      "detail": "The Mr Fogg's team open a bar inside Admiralty Arch, where Clare Smyth and Daniel Boulud are also opening."
+    },
+    {
+      "name": "The Pem",
+      "area": "St James's",
+      "opened": "September 2026",
+      "detail": "Romy Gill takes over, shifting the restaurant to regional Indian cooking."
+    },
+    {
+      "name": "Endo and Moga",
+      "area": "Chelsea",
+      "opened": "September 2026",
+      "detail": "Endo Kazutoshi's omakase restaurant, with a Moga listening bar upstairs."
+    },
+    {
+      "name": "Pardeh",
+      "area": "Bethnal Green",
+      "opened": "4 September 2026",
+      "detail": "Persian, built around hospitality."
+    },
+    {
+      "name": "Pino",
+      "area": "Stoke Newington",
+      "opened": "September 2026",
+      "detail": "Puglian - riso, patate e cozze on the menu."
+    },
+    {
+      "name": "The Beaufort Bar",
+      "area": "The Savoy",
+      "opened": "September 2026",
+      "detail": "The Savoy's Beaufort Bar becomes a wine bar, with a bespoke charcuterie trolley."
+    }
+  ],
+  "restaurantSource": {
+    "url": "https://www.hot-dinners.com/Gastroblog/Latest-news/",
+    "verified": "2026-09-08",
+    "note": "Hot Dinners is the London trade's opening tracker, bylined and dated to the day. Best single source for this section; check it again a week before any refresh, because half of these entries were a week old when compiled."
+  },
+  "gaps": [
+    "PEARLY KINGS AND QUEENS HARVEST FESTIVAL - organiser site unreachable, no date printed. See recurringButUnverified in the spine.",
+    "BERMONDSEY STREET FESTIVAL - organiser site is a stub, treated as dormant, not printed.",
+    "THEATRE CLOSING DATES were not collected. Openings are covered; the 'last chance to see' side of the West End is not, and it is the more urgent half. SOLT's own last-chance URL 404s to a 2018 article. Next pass should try individual theatre sites or ask Rob for a source.",
+    "SPORT is absent. September is the start of the football season proper and the Premier League fixture list is public - worth deciding whether this series covers sport at all before October.",
+    "LESSON FOR NEXT MONTH: the first exhibition pass searched only for shows CLOSING in the month and so missed the Bayeux Tapestry, which OPENS on 10 September and is the largest cultural event in London this year. Always scan openings and closings."
+  ]
+}

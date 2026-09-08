@@ -1,0 +1,67 @@
+{
+  "month": "october",
+  "year": 2026,
+  "compiled": "2026-09-08",
+  "status": "STUB, NOT YET RESEARCHED. Created early on purpose, to hold dated facts found while compiling September that would otherwise be lost before October is written. There is no data/months/october.json spine yet - write one when the October guide is built.",
+
+  "carriedOverFromSeptember": [
+    {
+      "what": "BAYEUX TAPESTRY TICKET RELEASES - Rob's explicit request, 2026-09-08: 'make sure you add the date for the next release of tickets for the tapestry'.",
+      "detail": "Members' priority booking REOPENS 6 OCTOBER 2026. The next GENERAL ticket release is 21 OCTOBER 2026, covering visits from 1 January to 31 March 2027. Both are printed in the September guide already; October's guide should lead on them, because 21 October falls inside the month and is the single most actionable date in it.",
+      "venue": "British Museum, Room 30, the Sainsbury Exhibitions Gallery",
+      "runs": "10 September 2026 - 11 July 2027",
+      "hours": "Sunday-Wednesday 10.00-18.00; Thursday-Saturday 10.00-21.00",
+      "source": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry",
+      "verified": "2026-09-08",
+      "note": "Re-check both dates before publishing October - a release date is exactly the kind of thing that moves, and printing a stale one sends readers to a booking page on the wrong day."
+    },
+    {
+      "what": "RENOIR AND LOVE opens at the National Gallery",
+      "runs": "3 October 2026 - 31 January 2027",
+      "detail": "Renoir's 'La Grenouillere' moves into this show when the free Monet and Renoir pairing closes on 15 September, so it is the continuation of September's most urgent exhibition.",
+      "source": "https://www.nationalgallery.org.uk/exhibitions/monet-and-renoir-painting-side-by-side",
+      "verified": "2026-09-08"
+    },
+    {
+      "what": "KOREA opens at the British Museum",
+      "runs": "1 October 2026 - 31 January 2027",
+      "source": "https://www.britishmuseum.org/exhibitions-events",
+      "verified": "2026-09-08"
+    },
+    {
+      "what": "THE 90s: ART AND FASHION opens at Tate Britain",
+      "runs": "8 October 2026 - 14 February 2027",
+      "source": "https://www.tate.org.uk/whats-on",
+      "verified": "2026-09-08"
+    },
+    {
+      "what": "LIGHT AND MAGIC: THE BIRTH OF ART PHOTOGRAPHY opens at Tate Modern",
+      "runs": "14 October 2026 - 21 February 2027",
+      "source": "https://www.tate.org.uk/whats-on",
+      "verified": "2026-09-08"
+    },
+    {
+      "what": "EXHIBITIONS CLOSING IN OCTOBER, already dated",
+      "detail": "John Constable: views of nature, British Museum, closes 4 October (free). Art in Victorian Britain, Royal Academy, closes 6 October. Herbert Smith Freehills Kramer Portrait Award 2026, National Portrait Gallery, closes 7 October. Charlie Billingham, Royal Academy, closes 4 October. Serpentine Pavilion 2026 closes 25 October. Richard Dadd, Royal Academy, closes 25 October.",
+      "verified": "2026-09-08"
+    },
+    {
+      "what": "ALEXANDRA PALACE GIGS already dated for October",
+      "detail": "Beth Orton 22 Oct, Fat Freddy's Drop 23 Oct, The Reytons 24 Oct, Overmono 28 Oct, Skindred 31 Oct, Crouch End Festival Chorus performing Mozart's Requiem 25 Oct, London Bollywood Orchestra 30 Oct. Knit + Stitch 8-11 Oct. BBC TV 90 continues to 30 November.",
+      "source": "https://www.alexandrapalace.com/whats-on/",
+      "verified": "2026-09-08"
+    },
+    {
+      "what": "OPEN ROOTS continues at the Photographers' Gallery",
+      "runs": "18 September - 15 November 2026",
+      "verified": "2026-09-08"
+    }
+  ],
+
+  "todoBeforeWriting": [
+    "Write data/months/october.json - the spine. October's annual fixtures need researching from scratch: London Film Festival (BFI), Frieze London and Frieze Masters, Diwali on Trafalgar Square, Black History Month, the London Literature Festival, Dance Umbrella, the Lord Mayor's Show is November not October. Confirm every one from the organiser.",
+    "Re-verify both Bayeux ticket dates. See the note above.",
+    "Theatre: October openings AND closings. September's guide covered openings only, which is the less urgent half - see the gap recorded in september-2026.json.",
+    "Decide whether this series covers sport. Flagged in September and still undecided."
+  ]
+}
