@@ -1,0 +1,295 @@
+{
+  "cuisine": "barbecue",
+  "note": "Seeded 2026-09-08.",
+  "recorded": "2026-09-08",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/bars-pubs/londons-best-barbecues",
+      "scope": "barbecue",
+      "names": [
+        "London's top BBQ joints",
+        "Cue Point",
+        "From The Ashes",
+        "Hon’s BBQ",
+        "Maureen’s Brixton Kitchen",
+        "Texas Joe's Slow Smoked Meats",
+        "Burnt Smokehouse",
+        "Black Cactus at Burnt Faith Brandy House",
+        "Acme Fire Cult",
+        "Kanpai Classic",
+        "Smokestak",
+        "Kintan",
+        "Pochawa Grill"
+      ]
+    },
+    {
+      "name": "SquareMeal",
+      "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659",
+      "scope": "barbecue",
+      "names": [
+        "Firebird",
+        "Temper",
+        "Red Dog Saloon",
+        "Big Easy",
+        "Smith's Bar & Grill",
+        "Cue Point",
+        "Cinder",
+        "Whole Beast",
+        "Acme Fire Cult",
+        "Kolae",
+        "From The Ashes BBQ",
+        "AGORA",
+        "Parrillan",
+        "Mangal II",
+        "Yanji",
+        "Smoking Goat",
+        "Smokestak",
+        "Texas Joe's Slow Smoked Meats",
+        "The Blues Kitchen"
+      ]
+    },
+    {
+      "name": "The Standard",
+      "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html",
+      "scope": "barbecue",
+      "names": [
+        "Acme Fire Cult",
+        "The Barbary",
+        "Mangal 2",
+        "Cue Point",
+        "Brat Climpsons Arch",
+        "Brigadiers",
+        "Texas Joe’s",
+        "Berber & Q Grill House",
+        "Parrillan Borough Yards",
+        "Smoking Goat",
+        "Humo",
+        "Smokestak",
+        "Cinder",
+        "Smokehouse"
+      ]
+    },
+    {
+      "name": "The Handbook",
+      "url": "https://www.thehandbook.com/bbq-restaurants-london/",
+      "scope": "barbecue",
+      "names": [
+        "Cue Point",
+        "Cinder",
+        "Whole Beast",
+        "Maureen’s Brixton Kitchen",
+        "Acme Fire Cult",
+        "Temper",
+        "Berber and Q",
+        "Parillan",
+        "Olle Korean Barbecue",
+        "Brix",
+        "Sucre",
+        "Smokestak",
+        "Goldies",
+        "Big Easy",
+        "From The Ashes BBQ"
+      ]
+    },
+    {
+      "name": "Eater London - live fire",
+      "url": "https://london.eater.com/maps/best-live-fire-restaurants-london",
+      "scope": "barbecue",
+      "names": [
+        "Formerly Known as Black Axe Mangal",
+        "Berber & Q",
+        "BRAT",
+        "SMOKESTAK",
+        "The Barbary",
+        "Kiln",
+        "Smokey Jerkey",
+        "FM Mangal"
+      ]
+    },
+    {
+      "name": "DesignMyNight - smokehouses",
+      "url": "https://www.designmynight.com/london/top-10-smokehouses-in-london",
+      "scope": "barbecue",
+      "names": [
+        "Rewards",
+        "Jobs",
+        "My Account"
+      ]
+    },
+    {
+      "name": "The Nudge",
+      "url": "https://thenudge.com/best-bbq-london/",
+      "scope": "barbecue",
+      "names": [
+        "Black Cactus BBQ",
+        "Cue Point",
+        "Burnt Smokehouse",
+        "Smokestak",
+        "Hon’s BBQ",
+        "Turo Turo",
+        "Chungdam",
+        "Khao Bird",
+        "Kanpai Classic",
+        "Five Points Brewing Taproom & Courtyard",
+        "ACME Fire Cult",
+        "Lil’ Nashville",
+        "Temper Soho",
+        "Big Easy Covent Garden",
+        "Smoking Goat Shoreditch",
+        "Olle"
+      ]
+    },
+    {
+      "name": "Secret London",
+      "url": "https://secretldn.com/bbq-restaurants-in-london/",
+      "scope": "barbecue",
+      "names": [
+        "Berber & Q",
+        "From The Ashes",
+        "Big Easy",
+        "Parrillan",
+        "Hotbox",
+        "Jin Go Gae",
+        "Gogi",
+        "Pitt Cue",
+        "Bodean’s BBQ",
+        "The Blues Kitchen",
+        "Smoking Goat",
+        "Smokestak",
+        "Brigadiers",
+        "Kiln",
+        "Zuma",
+        "Peckham Arches",
+        "Mediterranean Grill by Assembly",
+        "Discover our cities"
+      ]
+    },
+    {
+      "name": "Hot Dinners - live fire",
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill",
+      "scope": "barbecue",
+      "names": [
+        "Acme Fire Cult",
+        "Smokestak",
+        "Parrillan",
+        "Brat",
+        "Berenjak",
+        "Mangal 2",
+        "Berber & Q",
+        "Coal Rooms",
+        "Temper",
+        "Kiln",
+        "Ekstedt at the Yard",
+        "Black Axe Mangal",
+        "Oklava",
+        "Kudu Grill",
+        "Humble Chicken",
+        "Offers"
+      ]
+    },
+    {
+      "name": "The Rare Welsh Bit",
+      "url": "https://www.therarewelshbit.com/10-best-american-bbq-restaurants-in-the-uk/",
+      "scope": "barbecue",
+      "names": [
+        "Red Dog Saloon",
+        "Prairie Fire BBQ",
+        "SMOKESTAK",
+        "Bodean's BBQ",
+        "Big Easy Bar.B.Q & Crabshack",
+        "HotBox",
+        "Texas Joe's Slow Smoked Meats",
+        "Red's True Barbecue",
+        "The Smoke Pit",
+        "Smokeworks",
+        "To sum up",
+        "Meet the Editor",
+        "Disclosure",
+        "As Featured By",
+        "Grenada Tourism Authority",
+        "Recent Posts",
+        "Monthly archives"
+      ]
+    },
+    {
+      "name": "Destined for London",
+      "url": "https://destinedforlondon.com/blog/best-bbq-london-new-wave/",
+      "scope": "barbecue",
+      "names": [
+        "Hon’s BBQ brings Chinese-Texan smoke to Hackney Wick",
+        "Smokestak still sets the standard in Shoreditch",
+        "What counts as good London BBQ",
+        "Final Thoughts",
+        "Keep reading",
+        "Topics"
+      ]
+    },
+    {
+      "name": "Culture Calling",
+      "url": "https://www.culturecalling.com/london/food-and-drink/features/top-5-american-smokehouse-restaurants-in-london",
+      "scope": "barbecue",
+      "names": [
+        "Bodean's",
+        "The Blues Kitchen",
+        "Big Easy",
+        "Smokestak",
+        "HotBox",
+        "Smokehouse Islington",
+        "Humo",
+        "Cinder",
+        "The Barbary"
+      ]
+    },
+    {
+      "name": "Sharmaine (YouTube)",
+      "url": "https://www.youtube.com/@sharmainesiu",
+      "scope": "barbecue",
+      "channel": "@sharmainesiu",
+      "videos": [
+        {
+          "title": "Finding the Best American Barbecue in London",
+          "url": "https://www.youtube.com/watch?v=XqlOFtfw-aE",
+          "published": "2026-02-13"
+        }
+      ],
+      "names": [
+        "The American Bar",
+        "Burnt Smokehouse",
+        "Texas Joe's"
+      ]
+    },
+    {
+      "name": "TravelDog | Food and Travel (YouTube)",
+      "url": "https://www.youtube.com/@_TravelDog_",
+      "scope": "barbecue",
+      "channel": "@_TravelDog_",
+      "videos": [
+        {
+          "title": "Authentic USA Smoked BBQ in London? | Texas Joe's Food Review",
+          "url": "https://www.youtube.com/watch?v=TT3cTWKyT3c",
+          "published": "2025-10-09"
+        }
+      ],
+      "names": [
+        "Texas Joe's"
+      ]
+    },
+    {
+      "name": "homegirl london (YouTube)",
+      "url": "https://www.youtube.com/@homegirllondon2954",
+      "scope": "barbecue",
+      "channel": "@homegirllondon2954",
+      "videos": [
+        {
+          "title": "ACME FIRE CULT DALSTON LONDON E8 HOMEGIRL LONDON",
+          "url": "https://www.youtube.com/watch?v=dzkhu53Qr7Q",
+          "published": "2024-07-30"
+        }
+      ],
+      "names": [
+        "Acme Fire Cult"
+      ]
+    }
+  ]
+}

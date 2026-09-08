@@ -1275,6 +1275,7 @@
     "name": "Discover our cities",
     "topics": [
       "activities-shoreditch",
+      "barbecue",
       "fried-chicken",
       "historic-pubs",
       "italian",
@@ -1287,6 +1288,12 @@
     "hasAward": false,
     "byTopic": {
       "activities-shoreditch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "barbecue": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -2421,17 +2428,24 @@
     "name": "Smokestak",
     "topics": [
       "activities-shoreditch",
+      "barbecue",
       "general"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
+    "sourceCount": 10,
+    "tierSpread": "B4 C6",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "activities-shoreditch": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "barbecue": {
+        "sourceCount": 9,
+        "tierSpread": "B4 C5",
+        "tierCount": 2,
         "hasAward": false
       },
       "general": {
@@ -2443,6 +2457,26 @@
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-barbecues"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/bbq-restaurants-london/"
+      },
+      {
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/shoreditch/"
@@ -2450,7 +2484,27 @@
       {
         "tier": "C",
         "source": "The Nudge",
-        "url": "https://thenudge.com/bib-gourmands-in-london/"
+        "url": "https://thenudge.com/best-bbq-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill"
+      },
+      {
+        "tier": "C",
+        "source": "Destined for London",
+        "url": "https://destinedforlondon.com/blog/best-bbq-london-new-wave/"
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/top-5-american-smokehouse-restaurants-in-london"
       }
     ]
   },
@@ -2508,12 +2562,13 @@
     "name": "Smoking Goat",
     "topics": [
       "activities-shoreditch",
+      "barbecue",
       "fried-chicken",
       "late-night",
       "thai"
     ],
-    "sourceCount": 9,
-    "tierSpread": "B4 C4 D1",
+    "sourceCount": 13,
+    "tierSpread": "B6 C6 D1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -2521,6 +2576,12 @@
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "barbecue": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
         "hasAward": false
       },
       "fried-chicken": {
@@ -2545,6 +2606,16 @@
     "sources": [
       {
         "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html"
+      },
+      {
+        "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
       },
@@ -2567,6 +2638,16 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/shoreditch/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-bbq-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
       },
       {
         "tier": "C",
@@ -3161,17 +3242,24 @@
     "name": "Brat",
     "topics": [
       "activities-shoreditch",
+      "barbecue",
       "british",
       "general",
       "seafood",
       "steak"
     ],
-    "sourceCount": 7,
-    "tierSpread": "A1 B4 C2",
+    "sourceCount": 8,
+    "tierSpread": "A1 B4 C3",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "activities-shoreditch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "barbecue": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -3233,6 +3321,11 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/shoreditch/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill"
       },
       {
         "tier": "C",
@@ -8533,11 +8626,12 @@
   "bigeasy": {
     "name": "Big Easy",
     "topics": [
-      "activities"
+      "activities",
+      "barbecue"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 5,
+    "tierSpread": "B2 C3",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "activities": {
@@ -8545,13 +8639,39 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "barbecue": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/bbq-restaurants-london/"
+      },
+      {
         "tier": "C",
         "source": "The London Mother",
         "url": "https://www.thelondonmother.net/things-to-do-canary-wharf/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/top-5-american-smokehouse-restaurants-in-london"
       }
     ]
   },
@@ -11707,6 +11827,3114 @@
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london",
         "quote": "Claridge's is a five-star hotel in the heart of Mayfair that serves one of the very best afternoon teas in London in The Foyer & Reading Room."
+      }
+    ]
+  },
+  "londonstopbbqjoints": {
+    "name": "London's top BBQ joints",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-barbecues"
+      }
+    ]
+  },
+  "cuepoint": {
+    "name": "Cue Point",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B4 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 5,
+        "tierSpread": "B4 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-barbecues"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/bbq-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-bbq-london/"
+      }
+    ]
+  },
+  "fromtheashes": {
+    "name": "From The Ashes",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-barbecues"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
+      }
+    ]
+  },
+  "honsbbq": {
+    "name": "Hon’s BBQ",
+    "topics": [
+      "barbecue",
+      "general",
+      "new-openings"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B4 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-barbecues"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/londons-new-restaurant-openings"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/all-latest-openings_11"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-bbq-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/hot-right-now-london-s-hottest-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/best-new-restaurants-in-london/"
+      }
+    ]
+  },
+  "maureensbrixtonkitchen": {
+    "name": "Maureen’s Brixton Kitchen",
+    "topics": [
+      "barbecue",
+      "fried-chicken"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "fried-chicken": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-barbecues"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/bbq-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
+      }
+    ]
+  },
+  "texasjoes": {
+    "name": "Texas Joe's",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B3 C1 D2",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 6,
+        "tierSpread": "B3 C1 D2",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-barbecues"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html"
+      },
+      {
+        "tier": "C",
+        "source": "The Rare Welsh Bit",
+        "url": "https://www.therarewelshbit.com/10-best-american-bbq-restaurants-in-the-uk/"
+      },
+      {
+        "tier": "D",
+        "source": "Sharmaine (YouTube)",
+        "url": "https://www.youtube.com/@sharmainesiu"
+      },
+      {
+        "tier": "D",
+        "source": "TravelDog (YouTube)",
+        "url": "https://www.youtube.com/@_TravelDog_"
+      }
+    ]
+  },
+  "burntsmokehouse": {
+    "name": "Burnt Smokehouse",
+    "topics": [
+      "barbecue",
+      "burgers",
+      "general"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B2 C2 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 D1",
+        "tierCount": 3,
+        "hasAward": false
+      },
+      "burgers": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-barbecues"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-burgers-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-bbq-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Picky Glutton",
+        "url": "https://pickyglutton.com/",
+        "quote": "the barbecue restaurant in a Leyton railway arch"
+      },
+      {
+        "tier": "D",
+        "source": "Sharmaine (YouTube)",
+        "url": "https://www.youtube.com/@sharmainesiu"
+      }
+    ]
+  },
+  "blackcactusatburntfaithbrandyhouse": {
+    "name": "Black Cactus at Burnt Faith Brandy House",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-barbecues"
+      }
+    ]
+  },
+  "acmefirecult": {
+    "name": "Acme Fire Cult",
+    "topics": [
+      "barbecue",
+      "vegan"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B5 C2 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 7,
+        "tierSpread": "B4 C2 D1",
+        "tierCount": 3,
+        "hasAward": false
+      },
+      "vegan": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-barbecues"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/bbq-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Absolutely",
+        "url": "https://absolutelymagazines.com/best-vegan-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-bbq-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill"
+      },
+      {
+        "tier": "D",
+        "source": "Homegirl London (YouTube)",
+        "url": "https://www.youtube.com/@homegirllondon2954"
+      }
+    ]
+  },
+  "kanpaiclassic": {
+    "name": "Kanpai Classic",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-barbecues"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-bbq-london/"
+      }
+    ]
+  },
+  "kintan": {
+    "name": "Kintan",
+    "topics": [
+      "barbecue",
+      "japanese"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-barbecues"
+      }
+    ]
+  },
+  "pochawagrill": {
+    "name": "Pochawa Grill",
+    "topics": [
+      "barbecue",
+      "chinese",
+      "korean"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "chinese": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-barbecues"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-restaurants-chinatown"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/korean-restaurants/"
+      }
+    ]
+  },
+  "firebird": {
+    "name": "Firebird",
+    "topics": [
+      "barbecue",
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
+      }
+    ]
+  },
+  "temper": {
+    "name": "Temper",
+    "topics": [
+      "barbecue",
+      "steak"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "steak": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/bbq-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-bbq-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill"
+      }
+    ]
+  },
+  "reddogsaloon": {
+    "name": "Red Dog Saloon",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "C",
+        "source": "The Rare Welsh Bit",
+        "url": "https://www.therarewelshbit.com/10-best-american-bbq-restaurants-in-the-uk/"
+      }
+    ]
+  },
+  "smithsbarandgrill": {
+    "name": "Smith's Bar & Grill",
+    "topics": [
+      "barbecue",
+      "seafood"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-oysters/"
+      }
+    ]
+  },
+  "cinder": {
+    "name": "Cinder",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/bbq-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/top-5-american-smokehouse-restaurants-in-london"
+      }
+    ]
+  },
+  "wholebeast": {
+    "name": "Whole Beast",
+    "topics": [
+      "barbecue",
+      "general"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/bbq-restaurants-london/"
+      }
+    ]
+  },
+  "kolae": {
+    "name": "Kolae",
+    "topics": [
+      "barbecue",
+      "general",
+      "thai"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B4 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "thai": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-thai-food-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-thai-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-thai-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/bib-gourmands-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-thai-restaurants-london"
+      }
+    ]
+  },
+  "fromtheashesbbq": {
+    "name": "From The Ashes BBQ",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/bbq-restaurants-london/"
+      }
+    ]
+  },
+  "agora": {
+    "name": "AGORA",
+    "topics": [
+      "barbecue",
+      "general",
+      "greek"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "greek": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-greek-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/bib-gourmands-in-london/"
+      }
+    ]
+  },
+  "parrillan": {
+    "name": "Parrillan",
+    "topics": [
+      "barbecue",
+      "spanish"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B2 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "spanish": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-spanish-restaurants-in-london/"
+      }
+    ]
+  },
+  "mangalii": {
+    "name": "Mangal II",
+    "topics": [
+      "barbecue",
+      "british",
+      "general",
+      "turkish"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B5 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "turkish": {
+        "sourceCount": 5,
+        "tierSpread": "B3 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
+        "quote": "Mangal II is a classic Turkish restaurant that's doing things a bit differently. With superb grilled meats, sourdough pide, natural wines, and more."
+      },
+      {
+        "tier": "B",
+        "source": "Suitcase",
+        "url": "https://suitcasemag.com/best-turkish-restaurants-london-uk/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill"
+      },
+      {
+        "tier": "C",
+        "source": "Resy",
+        "url": "https://blog.resy.com/2023/07/best-turkish-kurdish-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-turkish-restaurants-in-london/"
+      }
+    ]
+  },
+  "yanji": {
+    "name": "Yanji",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      }
+    ]
+  },
+  "blueskitchen": {
+    "name": "The Blues Kitchen",
+    "topics": [
+      "barbecue",
+      "burgers"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "burgers": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
+        "quote": "#11"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/top-5-american-smokehouse-restaurants-in-london"
+      }
+    ]
+  },
+  "barbary": {
+    "name": "The Barbary",
+    "topics": [
+      "barbecue",
+      "general",
+      "middle-eastern"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "middle-eastern": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-live-fire-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/top-5-american-smokehouse-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/bib-gourmands-in-london/"
+      }
+    ]
+  },
+  "bratclimpsonsarch": {
+    "name": "Brat Climpsons Arch",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html"
+      }
+    ]
+  },
+  "brigadiers": {
+    "name": "Brigadiers",
+    "topics": [
+      "barbecue",
+      "indian"
+    ],
+    "sourceCount": 10,
+    "tierSpread": "A1 B5 C2 D2",
+    "tierCount": 4,
+    "hasAward": true,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 8,
+        "tierSpread": "A1 B4 C1 D2",
+        "tierCount": 4,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "British Indian Good Food Guide",
+        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
+        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Mansion House)"
+      },
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-indian-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-indian-restaurants"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-indian-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
+      },
+      {
+        "tier": "D",
+        "source": "Harrison Webb (YouTube)",
+        "url": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      {
+        "tier": "D",
+        "source": "TOPJAW (YouTube)",
+        "url": "https://www.youtube.com/@topjaw",
+        "quote": "Top of a best-curry list voted by 200 chefs and industry figures TOPJAW interviewed"
+      }
+    ]
+  },
+  "berberandqgrillhouse": {
+    "name": "Berber & Q Grill House",
+    "topics": [
+      "barbecue",
+      "breakfast-brunch"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html"
+      },
+      {
+        "tier": "C",
+        "source": "Resy",
+        "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
+      }
+    ]
+  },
+  "parrillanboroughyards": {
+    "name": "Parrillan Borough Yards",
+    "topics": [
+      "barbecue",
+      "spanish"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "spanish": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-spanish-restaurants-in-london/"
+      }
+    ]
+  },
+  "humo": {
+    "name": "Humo",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html"
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/top-5-american-smokehouse-restaurants-in-london"
+      }
+    ]
+  },
+  "smokehouse": {
+    "name": "Smokehouse",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Evening Standard",
+        "url": "https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html"
+      }
+    ]
+  },
+  "berberandq": {
+    "name": "Berber and Q",
+    "topics": [
+      "barbecue",
+      "middle-eastern"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B4 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "middle-eastern": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/bbq-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-live-fire-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Fact Magazines",
+        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill"
+      }
+    ]
+  },
+  "parillan": {
+    "name": "Parillan",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/bbq-restaurants-london/"
+      }
+    ]
+  },
+  "ollekoreanbarbecue": {
+    "name": "Olle Korean Barbecue",
+    "topics": [
+      "barbecue",
+      "korean"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/bbq-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London Best",
+        "url": "https://londonbest.uk/korean-fried-chicken/"
+      }
+    ]
+  },
+  "brix": {
+    "name": "Brix",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/bbq-restaurants-london/"
+      }
+    ]
+  },
+  "sucre": {
+    "name": "Sucre",
+    "topics": [
+      "barbecue",
+      "instagrammable",
+      "steak"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B4 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "steak": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/bbq-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london",
+        "quote": "Glittering interiors with 1,000-piece cut glass chandeliers"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "anoushkaprobyn.com",
+        "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/",
+        "quote": "Refined, and undeniably impressive, but just subdued enough to not feel gimmicky"
+      }
+    ]
+  },
+  "goldies": {
+    "name": "Goldies",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/bbq-restaurants-london/"
+      }
+    ]
+  },
+  "blackaxemangal": {
+    "name": "Black Axe Mangal",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-live-fire-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill"
+      }
+    ]
+  },
+  "kiln": {
+    "name": "Kiln",
+    "topics": [
+      "barbecue",
+      "british",
+      "general",
+      "thai"
+    ],
+    "sourceCount": 10,
+    "tierSpread": "B5 C5",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "thai": {
+        "sourceCount": 5,
+        "tierSpread": "B3 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-live-fire-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-thai-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/bib-gourmands-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-thai-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "World of Mouth",
+        "url": "https://www.worldofmouth.app/articles/best-thai-restaurants-in-london"
+      }
+    ]
+  },
+  "smokeyjerkey": {
+    "name": "Smokey Jerkey",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-live-fire-restaurants-london"
+      }
+    ]
+  },
+  "fmmangal": {
+    "name": "FM Mangal",
+    "topics": [
+      "barbecue",
+      "turkish"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "turkish": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Eater London",
+        "url": "https://london.eater.com/maps/best-live-fire-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
+        "quote": "FM Mangal is a casual Turkish restaurant in Camberwell serving up tasty kofte and bread you'll devour multiple bowls of."
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
+        "quote": "Camberwell. This longstanding Camberwell favourite is famous across the city for the most simple of dishes; bread. But FM Mangal ' s bread isn't any old bread, it ' s bread that ' s been sat underneath the grill, soaking"
+      },
+      {
+        "tier": "C",
+        "source": "Resy",
+        "url": "https://blog.resy.com/2023/07/best-turkish-kurdish-restaurants-london/"
+      }
+    ]
+  },
+  "rewards": {
+    "name": "Rewards",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/top-10-smokehouses-in-london"
+      }
+    ]
+  },
+  "jobs": {
+    "name": "Jobs",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/top-10-smokehouses-in-london"
+      }
+    ]
+  },
+  "myaccount": {
+    "name": "My Account",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/top-10-smokehouses-in-london"
+      }
+    ]
+  },
+  "blackcactusbbq": {
+    "name": "Black Cactus BBQ",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-bbq-london/"
+      }
+    ]
+  },
+  "turoturo": {
+    "name": "Turo Turo",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-bbq-london/"
+      }
+    ]
+  },
+  "chungdam": {
+    "name": "Chung’dam",
+    "topics": [
+      "barbecue",
+      "korean"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-korean-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-bbq-london/"
+      }
+    ]
+  },
+  "khaobird": {
+    "name": "Khao Bird",
+    "topics": [
+      "barbecue",
+      "thai"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "thai": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-thai-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-bbq-london/"
+      }
+    ]
+  },
+  "fivepointsbrewingtaproomandcourtyard": {
+    "name": "Five Points Brewing Taproom & Courtyard",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-bbq-london/"
+      }
+    ]
+  },
+  "lilnashville": {
+    "name": "Lil’ Nashville",
+    "topics": [
+      "barbecue",
+      "general"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-bbq-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Picky Glutton",
+        "url": "https://pickyglutton.com/",
+        "quote": "BBQ not worth making a song and dance about"
+      }
+    ]
+  },
+  "bigeasycoventgarden": {
+    "name": "Big Easy Covent Garden",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-bbq-london/"
+      }
+    ]
+  },
+  "olle": {
+    "name": "Olle",
+    "topics": [
+      "barbecue",
+      "korean"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-korean-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-bbq-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/korean-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/korean-restaurants-london/"
+      }
+    ]
+  },
+  "jingogae": {
+    "name": "Jin Go Gae",
+    "topics": [
+      "barbecue",
+      "korean"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C3",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-korean-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/korean-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "Kingston Compass",
+        "url": "https://kingstoncompass.com/guides/best-korean-food-new-malden/"
+      }
+    ]
+  },
+  "gogi": {
+    "name": "Gogi",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
+      }
+    ]
+  },
+  "pittcue": {
+    "name": "Pitt Cue",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
+      }
+    ]
+  },
+  "bodeans": {
+    "name": "Bodean's",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "C3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 3,
+        "tierSpread": "C3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Rare Welsh Bit",
+        "url": "https://www.therarewelshbit.com/10-best-american-bbq-restaurants-in-the-uk/"
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/top-5-american-smokehouse-restaurants-in-london"
+      }
+    ]
+  },
+  "zuma": {
+    "name": "Zuma",
+    "topics": [
+      "barbecue",
+      "japanese"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-japanese-restaurants-london"
+      }
+    ]
+  },
+  "peckhamarches": {
+    "name": "Peckham Arches",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
+      }
+    ]
+  },
+  "mediterraneangrillbyassembly": {
+    "name": "Mediterranean Grill by Assembly",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/bbq-restaurants-in-london/"
+      }
+    ]
+  },
+  "berenjak": {
+    "name": "Berenjak",
+    "topics": [
+      "barbecue",
+      "general",
+      "instagrammable",
+      "middle-eastern"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B3 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "middle-eastern": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-middle-eastern"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Fact Magazines",
+        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/bib-gourmands-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "luxurywanderings.com",
+        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
+      }
+    ]
+  },
+  "coalrooms": {
+    "name": "Coal Rooms",
+    "topics": [
+      "barbecue",
+      "breakfast-brunch"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "breakfast-brunch": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill"
+      },
+      {
+        "tier": "C",
+        "source": "Resy",
+        "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
+      }
+    ]
+  },
+  "ekstedtattheyard": {
+    "name": "Ekstedt at the Yard",
+    "topics": [
+      "barbecue",
+      "british",
+      "seafood",
+      "sunday-roast"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "seafood": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-oysters/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill"
+      }
+    ]
+  },
+  "oklava": {
+    "name": "Oklava",
+    "topics": [
+      "barbecue",
+      "middle-eastern"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "middle-eastern": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill"
+      }
+    ]
+  },
+  "kudugrill": {
+    "name": "Kudu Grill",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill"
+      }
+    ]
+  },
+  "humblechicken": {
+    "name": "Humble Chicken",
+    "topics": [
+      "barbecue",
+      "british",
+      "general",
+      "japanese"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 C1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "general": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/restaurants",
+        "quote": "Two Michelin stars in the 2026 guide."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/open-fire-restaurants-cooking-london-barbecue-grill"
+      }
+    ]
+  },
+  "bigeasybarbqandcrabshack": {
+    "name": "Big Easy Bar.B.Q & Crabshack",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Rare Welsh Bit",
+        "url": "https://www.therarewelshbit.com/10-best-american-bbq-restaurants-in-the-uk/"
+      }
+    ]
+  },
+  "redstruebarbecue": {
+    "name": "Red's True Barbecue",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Rare Welsh Bit",
+        "url": "https://www.therarewelshbit.com/10-best-american-bbq-restaurants-in-the-uk/"
+      }
+    ]
+  },
+  "smokepit": {
+    "name": "The Smoke Pit",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Rare Welsh Bit",
+        "url": "https://www.therarewelshbit.com/10-best-american-bbq-restaurants-in-the-uk/"
+      }
+    ]
+  },
+  "smokeworks": {
+    "name": "Smokeworks",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Rare Welsh Bit",
+        "url": "https://www.therarewelshbit.com/10-best-american-bbq-restaurants-in-the-uk/"
+      }
+    ]
+  },
+  "tosumup": {
+    "name": "To sum up",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Rare Welsh Bit",
+        "url": "https://www.therarewelshbit.com/10-best-american-bbq-restaurants-in-the-uk/"
+      }
+    ]
+  },
+  "meettheeditor": {
+    "name": "Meet the Editor",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Rare Welsh Bit",
+        "url": "https://www.therarewelshbit.com/10-best-american-bbq-restaurants-in-the-uk/"
+      }
+    ]
+  },
+  "disclosure": {
+    "name": "Disclosure",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Rare Welsh Bit",
+        "url": "https://www.therarewelshbit.com/10-best-american-bbq-restaurants-in-the-uk/"
+      }
+    ]
+  },
+  "asfeaturedby": {
+    "name": "As Featured By",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Rare Welsh Bit",
+        "url": "https://www.therarewelshbit.com/10-best-american-bbq-restaurants-in-the-uk/"
+      }
+    ]
+  },
+  "grenadatourismauthority": {
+    "name": "Grenada Tourism Authority",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Rare Welsh Bit",
+        "url": "https://www.therarewelshbit.com/10-best-american-bbq-restaurants-in-the-uk/"
+      }
+    ]
+  },
+  "recentposts": {
+    "name": "Recent Posts",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Rare Welsh Bit",
+        "url": "https://www.therarewelshbit.com/10-best-american-bbq-restaurants-in-the-uk/"
+      }
+    ]
+  },
+  "monthlyarchives": {
+    "name": "Monthly archives",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Rare Welsh Bit",
+        "url": "https://www.therarewelshbit.com/10-best-american-bbq-restaurants-in-the-uk/"
+      }
+    ]
+  },
+  "honsbbqbringschinesetexansmoketohackneywick": {
+    "name": "Hon’s BBQ brings Chinese-Texan smoke to Hackney Wick",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Destined for London",
+        "url": "https://destinedforlondon.com/blog/best-bbq-london-new-wave/"
+      }
+    ]
+  },
+  "keepreading": {
+    "name": "Keep reading",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Destined for London",
+        "url": "https://destinedforlondon.com/blog/best-bbq-london-new-wave/"
+      }
+    ]
+  },
+  "topics": {
+    "name": "Topics",
+    "topics": [
+      "barbecue",
+      "british",
+      "greek",
+      "vegan"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "british": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "greek": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "vegan": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Absolutely",
+        "url": "https://absolutelymagazines.com/londons-best-fish-chips/"
+      },
+      {
+        "tier": "C",
+        "source": "Destined for London",
+        "url": "https://destinedforlondon.com/blog/best-bbq-london-new-wave/"
+      }
+    ]
+  },
+  "smokehouseislington": {
+    "name": "Smokehouse Islington",
+    "topics": [
+      "barbecue"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/top-5-american-smokehouse-restaurants-in-london"
+      }
+    ]
+  },
+  "americanbar": {
+    "name": "The American Bar",
+    "topics": [
+      "barbecue",
+      "bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "barbecue": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Best Cocktails Guide",
+        "url": "https://www.bestcocktailsguide.com/places-to-drink/city/london"
+      },
+      {
+        "tier": "D",
+        "source": "Sharmaine (YouTube)",
+        "url": "https://www.youtube.com/@sharmainesiu"
       }
     ]
   },
@@ -15670,31 +18898,6 @@
       }
     ]
   },
-  "americanbar": {
-    "name": "The American Bar",
-    "topics": [
-      "bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "bars": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Best Cocktails Guide",
-        "url": "https://www.bestcocktailsguide.com/places-to-drink/city/london"
-      }
-    ]
-  },
   "barwithnoname": {
     "name": "The Bar with No Name",
     "topics": [
@@ -16951,31 +20154,6 @@
       }
     ]
   },
-  "coalrooms": {
-    "name": "Coal Rooms",
-    "topics": [
-      "breakfast-brunch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Resy",
-        "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
-      }
-    ]
-  },
   "wunstearoomandbar": {
     "name": "Wun’s Tea Room & Bar",
     "topics": [
@@ -17325,31 +20503,6 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
-      }
-    ]
-  },
-  "berberandqgrillhouse": {
-    "name": "Berber & Q Grill House",
-    "topics": [
-      "breakfast-brunch"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Resy",
-        "url": "https://blog.resy.com/2022/04/resy-best-brunch-restaurants-london/"
       }
     ]
   },
@@ -24507,50 +27660,6 @@
       }
     ]
   },
-  "ekstedtattheyard": {
-    "name": "Ekstedt at the Yard",
-    "topics": [
-      "british",
-      "seafood",
-      "sunday-roast"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
-      },
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/londons-best-oysters/"
-      }
-    ]
-  },
   "parakeet": {
     "name": "The Parakeet",
     "topics": [
@@ -28029,45 +31138,6 @@
       }
     ]
   },
-  "topics": {
-    "name": "Topics",
-    "topics": [
-      "british",
-      "greek",
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "greek": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Absolutely",
-        "url": "https://absolutelymagazines.com/londons-best-fish-chips/"
-      }
-    ]
-  },
   "otherabsolutelytitles": {
     "name": "Other Absolutely Titles",
     "topics": [
@@ -31403,80 +34473,6 @@
       }
     ]
   },
-  "kiln": {
-    "name": "Kiln",
-    "topics": [
-      "british",
-      "general",
-      "thai"
-    ],
-    "sourceCount": 8,
-    "tierSpread": "B4 C4",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 5,
-        "tierSpread": "B3 C2",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
-      },
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-thai-restaurants-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026060915117/Gastroblog/Latest-news/national-restaurant-awards-revealed-2026-bouchon-racine-number-one"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/bib-gourmands-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-thai-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "World of Mouth",
-        "url": "https://www.worldofmouth.app/articles/best-thai-restaurants-in-london"
-      }
-    ]
-  },
   "ikoyi": {
     "name": "Ikoyi",
     "topics": [
@@ -33467,61 +36463,6 @@
       }
     },
     "sources": [
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/2026060915117/Gastroblog/Latest-news/national-restaurant-awards-revealed-2026-bouchon-racine-number-one"
-      }
-    ]
-  },
-  "humblechicken": {
-    "name": "Humble Chicken",
-    "topics": [
-      "british",
-      "general",
-      "japanese"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "A1 B2 C1",
-    "tierCount": 3,
-    "hasAward": true,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Michelin Guide",
-        "url": "https://guide.michelin.com/gb/en/restaurants",
-        "quote": "Two Michelin stars in the 2026 guide."
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      },
       {
         "tier": "C",
         "source": "Hot Dinners",
@@ -36820,66 +39761,6 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/bib-gourmands-in-london/"
-      }
-    ]
-  },
-  "mangalii": {
-    "name": "Mangal II",
-    "topics": [
-      "british",
-      "general",
-      "turkish"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "B3 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "turkish": {
-        "sourceCount": 5,
-        "tierSpread": "B3 C2",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/best-restaurants-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
-        "quote": "Mangal II is a classic Turkish restaurant that's doing things a bit differently. With superb grilled meats, sourdough pide, natural wines, and more."
-      },
-      {
-        "tier": "B",
-        "source": "Suitcase",
-        "url": "https://suitcasemag.com/best-turkish-restaurants-london-uk/"
-      },
-      {
-        "tier": "C",
-        "source": "Resy",
-        "url": "https://blog.resy.com/2023/07/best-turkish-kurdish-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/best-turkish-restaurants-in-london/"
       }
     ]
   },
@@ -44411,44 +47292,6 @@
       }
     ]
   },
-  "burntsmokehouse": {
-    "name": "Burnt Smokehouse",
-    "topics": [
-      "burgers",
-      "general"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-burgers-london"
-      },
-      {
-        "tier": "C",
-        "source": "The Picky Glutton",
-        "url": "https://pickyglutton.com/",
-        "quote": "the barbecue restaurant in a Leyton railway arch"
-      }
-    ]
-  },
   "bunandsum": {
     "name": "Bun & Sum",
     "topics": [
@@ -44892,32 +47735,6 @@
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
         "quote": "#10"
-      }
-    ]
-  },
-  "blueskitchen": {
-    "name": "Blues Kitchen",
-    "topics": [
-      "burgers"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "burgers": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
-        "quote": "#11"
       }
     ]
   },
@@ -51827,48 +54644,6 @@
         "tier": "D",
         "source": "London's Best Eats (YouTube)",
         "url": "https://www.youtube.com/@LondonsBestEats"
-      }
-    ]
-  },
-  "pochawagrill": {
-    "name": "Pochawa Grill",
-    "topics": [
-      "chinese",
-      "korean"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "korean": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-restaurants-chinatown"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/korean-restaurants/"
       }
     ]
   },
@@ -66003,31 +68778,6 @@
       }
     ]
   },
-  "maureensbrixtonkitchen": {
-    "name": "Maureen's Brixton Kitchen",
-    "topics": [
-      "fried-chicken"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "fried-chicken": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
-      }
-    ]
-  },
   "chickking": {
     "name": "Chick King",
     "topics": [
@@ -79167,48 +81917,6 @@
       }
     ]
   },
-  "agora": {
-    "name": "AGORA",
-    "topics": [
-      "general",
-      "greek"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "greek": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-greek-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/bib-gourmands-in-london/"
-      }
-    ]
-  },
   "aulislondon": {
     "name": "Aulis London",
     "topics": [
@@ -79278,63 +81986,6 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/the-best-wine-bars-in-london/"
-      }
-    ]
-  },
-  "kolae": {
-    "name": "Kolae",
-    "topics": [
-      "general",
-      "thai"
-    ],
-    "sourceCount": 6,
-    "tierSpread": "B4 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "thai": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-thai-food-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-thai-restaurants"
-      },
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-thai-restaurants-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/bib-gourmands-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-thai-restaurants-london"
       }
     ]
   },
@@ -80010,31 +82661,6 @@
   },
   "masterweibloomsbury": {
     "name": "Master Wei Bloomsbury",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      }
-    ]
-  },
-  "wholebeast": {
-    "name": "Whole Beast",
     "topics": [
       "general"
     ],
@@ -82878,58 +85504,6 @@
       }
     ]
   },
-  "honsbbq": {
-    "name": "Hon's BBQ",
-    "topics": [
-      "general",
-      "new-openings"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "B3 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/londons-new-restaurant-openings"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/new-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/all-latest-openings_11"
-      },
-      {
-        "tier": "C",
-        "source": "Hot Dinners",
-        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/hot-right-now-london-s-hottest-restaurants"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/best-new-restaurants-in-london/"
-      }
-    ]
-  },
   "rosina": {
     "name": "Rosina",
     "topics": [
@@ -83817,32 +86391,6 @@
       }
     ]
   },
-  "lilnashville": {
-    "name": "L’il Nashville",
-    "topics": [
-      "general"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Picky Glutton",
-        "url": "https://pickyglutton.com/",
-        "quote": "BBQ not worth making a song and dance about"
-      }
-    ]
-  },
   "sambalshiok": {
     "name": "Sambal Shiok",
     "topics": [
@@ -84238,102 +86786,6 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/bib-gourmands-in-london/"
-      }
-    ]
-  },
-  "barbary": {
-    "name": "The Barbary",
-    "topics": [
-      "general",
-      "middle-eastern"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/bib-gourmands-in-london/"
-      }
-    ]
-  },
-  "berenjak": {
-    "name": "Berenjak",
-    "topics": [
-      "general",
-      "instagrammable",
-      "middle-eastern"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "B3 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "instagrammable": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "middle-eastern": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-middle-eastern"
-      },
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Fact Magazines",
-        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/bib-gourmands-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "luxurywanderings.com",
-        "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
       }
     ]
   },
@@ -94798,68 +97250,6 @@
       }
     ]
   },
-  "brigadiers": {
-    "name": "Brigadiers",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 8,
-    "tierSpread": "A1 B4 C1 D2",
-    "tierCount": 4,
-    "hasAward": true,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 8,
-        "tierSpread": "A1 B4 C1 D2",
-        "tierCount": 4,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "British Indian Good Food Guide",
-        "url": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/",
-        "quote": "In the British Indian Good Food Guide 2025 top 100, London section (Mansion House)"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-indian-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-indian-restaurants"
-      },
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-indian-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
-      },
-      {
-        "tier": "D",
-        "source": "Harrison Webb (YouTube)",
-        "url": "https://www.youtube.com/@HarrisonWebb97"
-      },
-      {
-        "tier": "D",
-        "source": "TOPJAW (YouTube)",
-        "url": "https://www.youtube.com/@topjaw",
-        "quote": "Top of a best-curry list voted by 200 chefs and industry figures TOPJAW interviewed"
-      }
-    ]
-  },
   "thecha": {
     "name": "Thecha",
     "topics": [
@@ -97332,55 +99722,6 @@
         "tier": "D",
         "source": "Gary Eats (YouTube)",
         "url": "https://www.youtube.com/@GaryEats"
-      }
-    ]
-  },
-  "sucre": {
-    "name": "Sucre",
-    "topics": [
-      "instagrammable",
-      "steak"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B3 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "instagrammable": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "steak": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london",
-        "quote": "Glittering interiors with 1,000-piece cut glass chandeliers"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
-      },
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-steak-restaurants-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "anoushkaprobyn.com",
-        "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/",
-        "quote": "Refined, and undeniably impressive, but just subdued enough to not feel gimmicky"
       }
     ]
   },
@@ -103251,31 +105592,6 @@
       }
     ]
   },
-  "kintan": {
-    "name": "Kintan",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-japanese-restaurants"
-      }
-    ]
-  },
   "sushiatelier": {
     "name": "Sushi Atelier",
     "topics": [
@@ -103525,36 +105841,6 @@
         "tier": "B",
         "source": "Country & Town House",
         "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
-      }
-    ]
-  },
-  "zuma": {
-    "name": "Zuma",
-    "topics": [
-      "japanese"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-japanese-restaurants-london"
       }
     ]
   },
@@ -105281,46 +107567,6 @@
       }
     ]
   },
-  "jingogae": {
-    "name": "Jin Go Gae",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C3",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 4,
-        "tierSpread": "B1 C3",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-korean-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/korean-restaurants/"
-      },
-      {
-        "tier": "C",
-        "source": "Kingston Compass",
-        "url": "https://kingstoncompass.com/guides/best-korean-food-new-malden/"
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/korean-restaurants-london/"
-      }
-    ]
-  },
   "seoulmatjib": {
     "name": "Seoul Matjib",
     "topics": [
@@ -105470,66 +107716,6 @@
   },
   "myungga": {
     "name": "Myung Ga",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-korean-restaurants-london"
-      }
-    ]
-  },
-  "olle": {
-    "name": "Olle",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 3,
-        "tierSpread": "B1 C2",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-korean-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/korean-restaurants/"
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/korean-restaurants-london/"
-      }
-    ]
-  },
-  "chungdam": {
-    "name": "Chung’dam",
     "topics": [
       "korean"
     ],
@@ -106504,31 +108690,6 @@
   },
   "jinjuusoho": {
     "name": "Jinjuu Soho",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "London Best",
-        "url": "https://londonbest.uk/korean-fried-chicken/"
-      }
-    ]
-  },
-  "ollekoreanbarbecue": {
-    "name": "Olle Korean Barbecue",
     "topics": [
       "korean"
     ],
@@ -116209,31 +118370,6 @@
       }
     ]
   },
-  "oklava": {
-    "name": "Oklava",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
-      }
-    ]
-  },
   "nopi": {
     "name": "NOPI",
     "topics": [
@@ -116256,36 +118392,6 @@
         "tier": "B",
         "source": "Foodism",
         "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
-      }
-    ]
-  },
-  "berberandq": {
-    "name": "Berber & Q",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Fact Magazines",
-        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
       }
     ]
   },
@@ -130179,31 +132285,6 @@
       }
     ]
   },
-  "smithsbarandgrill": {
-    "name": "Smith’s Bar & Grill",
-    "topics": [
-      "seafood"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/londons-best-oysters/"
-      }
-    ]
-  },
   "parkhyattlondonriverthames": {
     "name": "Park Hyatt London River Thames",
     "topics": [
@@ -130890,36 +132971,6 @@
       }
     ]
   },
-  "parrillan": {
-    "name": "Parrillan",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/best-spanish-restaurants-in-london/"
-      }
-    ]
-  },
   "alta": {
     "name": "ALTA",
     "topics": [
@@ -131048,31 +133099,6 @@
         "source": "Time Out",
         "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-spanish"
       },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/best-spanish-restaurants-in-london/"
-      }
-    ]
-  },
-  "parrillanboroughyards": {
-    "name": "Parrillan Borough Yards",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
       {
         "tier": "C",
         "source": "The Nudge",
@@ -132871,31 +134897,6 @@
   },
   "stklondon": {
     "name": "STK London",
-    "topics": [
-      "steak"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Luxury London",
-        "url": "https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/"
-      }
-    ]
-  },
-  "temper": {
-    "name": "Temper",
     "topics": [
       "steak"
     ],
@@ -135075,31 +137076,6 @@
       }
     ]
   },
-  "khaobird": {
-    "name": "Khao Bird",
-    "topics": [
-      "thai"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "thai": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-thai-restaurants-in-london/"
-      }
-    ]
-  },
   "addiesthai": {
     "name": "Addie's Thai",
     "topics": [
@@ -135808,43 +137784,6 @@
         "tier": "C",
         "source": "Secret London",
         "url": "https://secretldn.com/best-turkish-restaurants-in-london/"
-      }
-    ]
-  },
-  "fmmangal": {
-    "name": "FM Mangal",
-    "topics": [
-      "turkish"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "turkish": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-turkish-restaurants-london",
-        "quote": "FM Mangal is a casual Turkish restaurant in Camberwell serving up tasty kofte and bread you'll devour multiple bowls of."
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-turkish-restaurants",
-        "quote": "Camberwell. This longstanding Camberwell favourite is famous across the city for the most simple of dishes; bread. But FM Mangal ' s bread isn't any old bread, it ' s bread that ' s been sat underneath the grill, soaking"
-      },
-      {
-        "tier": "C",
-        "source": "Resy",
-        "url": "https://blog.resy.com/2023/07/best-turkish-kurdish-restaurants-london/"
       }
     ]
   },
@@ -142643,31 +144582,6 @@
       }
     ]
   },
-  "acmefirecult": {
-    "name": "Acme Fire Cult",
-    "topics": [
-      "vegan"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "vegan": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Absolutely",
-        "url": "https://absolutelymagazines.com/best-vegan-restaurants-london/"
-      }
-    ]
-  },
   "issues": {
     "name": "Issues",
     "topics": [
@@ -148635,31 +150549,6 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/the-best-wine-bars-in-london/"
-      }
-    ]
-  },
-  "firebird": {
-    "name": "Firebird",
-    "topics": [
-      "wine-bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "wine-bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
       }
     ]
   },

@@ -226,6 +226,28 @@
       ],
       "source": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london",
       "recorded": "2026-09-07"
+    },
+    "hotbox": {
+      "name": "Hotbox",
+      "closed": "2022-01",
+      "detail": "Smokehouse brand. Trade press reported it permanently closed its flagship Spitalfields site in January 2022, and Companies House records HotBox London Ltd as permanently closed. hotboxlondon.com now returns 404.",
+      "stillRecommendedBy": [
+        "secretldn.com",
+        "therarewelshbit.com",
+        "culturecalling.com"
+      ],
+      "source": "https://hotboxlondon.com/",
+      "recorded": "2026-09-08"
+    },
+    "prairie fire bbq": {
+      "name": "Prairie Fire BBQ",
+      "closed": "2024-02",
+      "detail": "Announced its own closure on social media: \"It is with much sadness we announce the closure of Prairie Fire after the Super Bowl tailgate on Sunday 11 Feb\". Both its domains are dead.",
+      "stillRecommendedBy": [
+        "squaremeal.co.uk"
+      ],
+      "source": "https://www.prairiefirebbq.com/",
+      "recorded": "2026-09-08"
     }
   },
   "uncertain": {

@@ -1336,6 +1336,26 @@
     "youtube.com/@Rollinjoint": {
       "name": "RollinJoint (YouTube)",
       "tier": "D"
+    },
+    "youtube.com/@sharmainesiu": {
+      "name": "Sharmaine (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@_TravelDog_": {
+      "name": "TravelDog (YouTube)",
+      "tier": "D"
+    },
+    "therarewelshbit.com": {
+      "name": "The Rare Welsh Bit",
+      "tier": "C"
+    },
+    "destinedforlondon.com": {
+      "name": "Destined for London",
+      "tier": "C"
+    },
+    "youtube.com/@homegirllondon2954": {
+      "name": "Homegirl London (YouTube)",
+      "tier": "D"
     }
   },
   "excludedWhy": {

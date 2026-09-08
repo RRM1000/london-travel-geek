@@ -165,7 +165,7 @@ const CHAPTER_FURNITURE = new Set([
   "intro", "outro", "introduction", "conclusion", "resources", "music",
   "interview", "credits", "sponsor", "giveaway", "subscribe", "like this:",
   "thanks for watching", "q&a", "faq", "my pick", "the winner", "honourable mention",
-  "honorable mention", "bonus", "recap", "summary", "tips", "local tips",
+  "honorable mention", "bonus", "recap", "summary", "tips", "local tips", "highlights", "the highlights",
   "final thoughts", "what to know", "before you go", "lets eat", "let's eat",
   // Vlog chapters. A day-in-my-life film chapters its walk and its clothes, and
   // "Outfit details" is proper-noun-shaped like everything else here.
