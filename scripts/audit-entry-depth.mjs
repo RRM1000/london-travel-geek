@@ -163,8 +163,17 @@ for (const f of files) {
       // word boundary, so the one fact this check names in its own error
       // message - price - was undetectable. Split out, and "opening" added
       // because opens? does not match it.
-      if (/\b(book|booking|queue|walk-in|cash|opens?|opening|closed|until|from \d|per head)\b/i.test(t)
-          || /£\d/.test(t)) hasPractical = true;
+      // "reservations?" was missing, and it is one of the commonest ways a
+      // guide states this fact - "no reservations", "reservations only". Dan's
+      // entry in the wine bars guide opens on "No reservations" and printed a
+      // full week of opening times, and still failed this check.
+      //
+      // A bare time range is the other shape: "Mon-Wed 3-9.30pm" carries no
+      // keyword at all but is unambiguously the fact this check is looking for.
+      if (/\b(book|booking|reservations?|queue|walk-in|cash|opens?|opening|closed|until|from \d|per head)\b/i.test(t)
+          || /£\d/.test(t)
+          || /\d(\.\d{2})?\s*(am|pm)\s*[-–—]\s*\d/i.test(t)
+          || /\b(mon|tue|wed|thu|fri|sat|sun)[a-z]*\s*[-–—]\s*(mon|tue|wed|thu|fri|sat|sun)/i.test(t)) hasPractical = true;
       // NAME THE FOOD. Word count alone let an entry run to 117 words about which
       // sources cited a place while never saying what you eat there.
       if (FOOD.test(t)) hasFood = true;

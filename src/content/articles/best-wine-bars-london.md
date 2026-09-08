@@ -71,6 +71,10 @@ A shop as well as a bar, so the retail-plus-corkage route applies. It went from 
 
 The younger sibling of Crispin in Spitalfields, and the one where wine is the point rather than the accompaniment. The in-house sommelier's list runs to **about 150 bottles weighted towards old-world and indigenous grape varieties**, independent producers and natural wines. Food is broadly European and seasonal.
 
+The food is snack-led rather than a menu you work through — **Comté gougères with pickled walnut ketchup, monkfish crudo, crab rarebit, lamb skewers**. The list itself is curated by Daniel Ilsley and leans mostly European.
+
+**It takes bookings, for up to six**, with a separate process for groups of seven and over — and it is open **seven days, noon to 9.30pm Monday to Saturday and 1pm to 9pm on Sunday**, which makes it the most reliably available room near the top of this list. 19 Kingly Street, on the Carnaby side of Soho.
+
 Worth saying plainly, because it is filed wrongly elsewhere: this is a wine bar. Our own cocktail guide says of it that wine is the point and cocktails the sideline.
 
 ### Diogenes the Dog — the one with no Champagne
@@ -93,7 +97,9 @@ Named after the founder of cynicism, which suits a bar built on doubting the rec
 
 The wine is run by **Gergovie Wines** and leans low-intervention. It has been the reference point for that style in London for long enough that the tables are among the most in-demand in the city.
 
-**The practical warning is the street rather than the room.** Maltby Street is one of London's busiest food addresses and is genuinely hard to move through during market hours — go outside them unless the market is the plan.
+**It does not take reservations at all**, which is what makes the table hard rather than any booking system — you turn up and wait. **Dinner runs Wednesday to Saturday and lunch Thursday to Saturday only**, so four days of the week it is shut entirely. The wine shop keeps the same Wednesday-to-Saturday hours for off-sales.
+
+The other practical warning is the street rather than the room. Maltby Street is one of London's busiest food addresses and is genuinely hard to move through during market hours — go outside them unless the market is the plan.
 
 ### The Winemakers Club — the table is yours all evening
 
@@ -115,7 +121,9 @@ The house line is that there is no room for wine-wankery, and the list is deep w
 
 *££ · 396 York Way, N7 9LW · Between Kentish Town and Caledonian Road · Cited by 6 sources*
 
-Martinis, meaty skewers and a nineties playlist, in a stretch of north London that had nothing like it. It is a bottle shop as well as a bar, and takes bookings.
+**Martinis and meaty skewers** over a nineties playlist, in a stretch of north London that had nothing like it. It is four things at once — restaurant, wine bar, bottle shop and deli — which is why the retail-plus-corkage route works here, and The Times has named it among the 45 best wine bars in the country.
+
+**It takes bookings, and there is a set menu on Tuesdays and Wednesdays: two courses £24, three for £28**, which is the cheapest way into anything near the top of this list. 396 York Way, N7 9LW.
 
 Filed as a cocktail bar in places, which it is not — our cocktail guide says of it that it is a restaurant, wine bar and bottle shop rather than a cocktail bar.
 
@@ -141,7 +149,21 @@ Mon–Wed 3–9.30pm, Thu–Fri 2–10.30pm, Sat 1–10.30pm, Sun 2–8.30pm.
 
 Natural wine and small plates in a room that fills with locals, and **about thirty seconds' walk from Peckham Rye station**, which makes it the easiest of the southern group to reach from central London.
 
-**Gordon's Wine Bar** and **Lady of the Grapes** are also named by five sources each.
+### Gordon's Wine Bar — a candlelit cellar, and no reservations
+
+*££ · 47 Villiers Street, WC2N 6NE · Between Charing Cross and Embankment · Cited by 6 sources*
+
+**London's oldest wine bar**, trading for over 135 years, and the only entry here that is a genuine historical object as well as a place to drink. The cellar is vaulted and candlelit, the walls are covered in old photographs and newspaper clippings, and **old oak barrels of sherry and port** sit behind the bar — the fortified list is the thing to order, and almost nowhere else in London serves it this way.
+
+> ⚠️ **It takes no reservations at all.** Its own advice is to turn up early and speak to staff on arrival; the cellar fills from about six and the queue on Villiers Street is real. **The outdoor seating runs under heated awnings all year**, which is the overflow and often the faster way in.
+
+### Lady of the Grapes — every wine on the list made by a woman
+
+*££ · Covent Garden and London Bridge · Cited by 5 sources*
+
+**Every wine on the list is made by a female winemaker.** That is the whole proposition rather than a section of it, and no other wine bar in this guide does anything comparable — the selection is organic, biodynamic and minimal-intervention, chosen to show what women are making in an industry that has not historically been theirs.
+
+The cooking is modern French. Two sites — the **Covent Garden** room is a wine bar and restaurant together, and **London Bridge**, near Borough Market, is the restaurant, with a second bar called Forbidden Fruit alongside it. **Both take bookings**, which puts it in a small minority on this page.
 
 ---
 
