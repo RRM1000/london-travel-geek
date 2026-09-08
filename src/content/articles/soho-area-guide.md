@@ -206,3 +206,5 @@ Central and convenient, but genuinely noisy. Ask for a room away from the street
 - **Soho proper** — Boutique hotels on Dean, Frith and Greek Streets. You will hear the street until late.
 - **Fitzrovia** — Ten minutes north across Oxford Street. Same access, considerably quieter.
 - **Covent Garden** — East, calmer after the market closes, and better for theatre.
+
+Soho has almost nothing between a windowless room at £100 and a boutique double at £450, and the ordinary room at the ordinary price turns out to be ten minutes north. For the nine West End hotels compared on price and room size, what the windowless formats actually cost, and which streets are still loud at 2am, see [where to stay in Soho and the West End](/articles/where-to-stay-soho-west-end/).

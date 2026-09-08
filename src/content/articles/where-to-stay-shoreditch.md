@@ -141,6 +141,8 @@ Two practical notes. **Breakfast is about £56 extra**, which is a lot on top of
 
 This is the more useful half for most people, because Shoreditch's prices have moved and its noise has not.
 
+If you have not settled on the area yet, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is for — first visit, nightlife, museums, budget — and covers the thing that decides most of it, which is whether there is a train home at one in the morning.
+
 ### Liverpool Street and Aldgate — ten minutes south
 
 Quieter at night, and the transport is better: **the Elizabeth line puts you at Bond Street in about twelve minutes and Heathrow without changing.** You are still a ten-minute walk from Shoreditch's bars, which is the right distance to be from them at midnight.
