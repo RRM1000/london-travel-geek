@@ -125,9 +125,9 @@ Painted tiles and bare plaster, with LEGO figurines and miniature chairs made ou
 
 *££ · Chelsea and central branches · Cited by 4 sources*
 
-![Inside Crossrail Place at Canary Wharf, the timber lattice roof over dense planting and a walkway through the roof garden](../../assets/articles/best-barbecue-london/crossrail-place.jpg)
+![The Big Easy Bar-B-Q and Crabshack sign on the Park Level of Crossrail Place at Canary Wharf, under the timber lattice roof of the building, which rises straight out of the dock water with the towers behind](../../assets/articles/best-barbecue-london/big-easy-crossrail-place.jpg)
 
-*Crossrail Place, where the Canary Wharf branch sits on the Park Level. The garden runs alongside it under that roof.*
+*The Canary Wharf branch, on the Park Level of Crossrail Place. The strapline under the sign reads cocktails, steaks, lobster and live music, which is the whole proposition in four words.*
 
 The original Chelsea branch built its reputation on **bargain-price lobster alongside pit-cooked ribs**, which is still the reason to go. A mini-chain now, loud and deliberately unserious, with live bands, and the one on this page most suited to a large group who cannot agree.
 
