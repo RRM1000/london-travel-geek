@@ -26,6 +26,7 @@ import { stops as westminsterWalk } from "./routes/westminster-walk";
 import { stops as coventGardenWalk } from "./routes/covent-garden-walk";
 import { stops as kingsCrossCamdenCanalWalk } from "./routes/kings-cross-camden-canal-walk";
 import { stops as canaryWharfGreenwichWalk } from "./routes/canary-wharf-greenwich-walk";
+import { stops as chelseaBelgraviaPlaquesWalk } from "./routes/chelsea-belgravia-plaques-walk";
 
 export const routeMaps: Record<string, RouteMapStop[]> = {
   "south-bank-walk": southBankWalk,
@@ -34,6 +35,7 @@ export const routeMaps: Record<string, RouteMapStop[]> = {
   "covent-garden-walk": coventGardenWalk,
   "kings-cross-camden-canal-walk": kingsCrossCamdenCanalWalk,
   "canary-wharf-greenwich-walk": canaryWharfGreenwichWalk,
+  "chelsea-belgravia-plaques-walk": chelseaBelgraviaPlaquesWalk,
 };
 
 export const routeConnections: Record<string, RouteConnection[]> = {

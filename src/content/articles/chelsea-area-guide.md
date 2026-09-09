@@ -22,6 +22,10 @@ area:
   timeNeeded: "Half a day"
   budget: "£££"
   bestDay: "Weekday afternoons; Saturdays on King's Road are busy"
+  walkingRoute:
+    slug: "chelsea-belgravia-plaques-walk"
+    label: "The blue plaque walk"
+    detail: "11 stops · 4km · 2–3 hours"
   bestFor:
     - Shopping
     - Garden and river walks
@@ -221,7 +225,13 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 
 **Avoid:** Chelsea Flower Show week in late May unless you have tickets — the whole area is congested and Sloane Square station struggles.
 
-## Suggested two-hour walking route
+## Walking routes
+
+**[Chelsea to Belgravia: a blue plaque walk →](/articles/chelsea-belgravia-plaques-walk/)**
+
+Our full route for this area: **eleven numbered stops** over about 4km and two to three hours, with a map, a Google Maps walking link and a day-by-day breakdown of what is open. It runs through the densest concentration of blue plaques in London — **184 inside the square between Cheyne Walk and Belgrave Square** — taking in Oscar Wilde, Mark Twain, Bram Stoker and George Eliot, who all lived within ten minutes of one another. It also settles which day to come: **Wednesday is the only one on which all three ticketed stops open**.
+
+### The short version, if you only have two hours
 
 1. **Start:** Sloane Square station. Cross to the **Royal Court Theatre**.
 2. **Duke of York Square:** West off the King's Road for the **Saatchi Gallery**.

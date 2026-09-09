@@ -87,9 +87,11 @@ It is the earliest surviving plaque in London and **the only one ever put up whi
 
 ---
 
-## Belgravia: the densest walk
+## Belgravia: Mozart, Fleming and Mary Shelley
 
-Four plaques, fifteen minutes, and the best single blue-plaque walk in London.
+Four plaques and fifteen minutes, and the tightest cluster in the city — Mozart at 180 Ebury Street and Ian Fleming at 22 are eight minutes apart on one residential street.
+
+> 🗺️ **[We have this as a full walking route →](/articles/chelsea-belgravia-plaques-walk/)** — eleven numbered stops from Cheyne Walk to Belgrave Square with a map, a Google Maps link and the opening days, joining these Belgravia plaques to the Chelsea ones. The two areas together hold 184 blue plaques, which is the denser story.
 
 ### Mozart's Belgravia Home
 

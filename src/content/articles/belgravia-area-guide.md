@@ -21,6 +21,10 @@ area:
   timeNeeded: "Two to three hours"
   budget: "£££"
   bestDay: "Any weekday; Sunday is beautiful and almost everything is shut"
+  walkingRoute:
+    slug: "chelsea-belgravia-plaques-walk"
+    label: "The blue plaque walk"
+    detail: "11 stops · 4km · 2–3 hours"
   bestFor:
     - Blue plaques
     - Independent shops
