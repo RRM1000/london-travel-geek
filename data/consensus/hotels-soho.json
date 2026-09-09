@@ -1,0 +1,158 @@
+{
+  "cuisine": "hotels-soho",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-soho",
+      "scope": "hotels-soho",
+      "names": [
+        "Broadwick Soho",
+        "Hazlitt's",
+        "Hotel Café Royal",
+        "Ham Yard Hotel",
+        "Soho Hotel",
+        "The Z Hotel Soho",
+        "Karma Sanctum Soho Hotel",
+        "Courthouse Hotel London"
+      ]
+    },
+    {
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/west-end/soho/hotels/",
+      "scope": "hotels-soho",
+      "names": [],
+      "error": "HTTP 402"
+    },
+    {
+      "name": "Urban List",
+      "url": "https://www.theurbanlist.com/a-list/best-hotels-soho-london",
+      "scope": "hotels-soho",
+      "names": [
+        "Ham Yard Hotel",
+        "Kettner's Townhouse",
+        "The Soho Hotel",
+        "The London EDITION",
+        "Dean Street Townhouse",
+        "Sanderson London",
+        "Hazlitt's",
+        "Mimi's Hotel Soho",
+        "Karma Sanctum Soho Hotel",
+        "Courthouse Hotel London"
+      ]
+    },
+    {
+      "name": "Santorini Dave",
+      "url": "https://santorinidave.com/soho-hotels",
+      "scope": "hotels-soho",
+      "names": [
+        "SantoriniDave.com",
+        "Luxury Boutique Hotels",
+        "Getting Around Soho",
+        "Tube Stations around Soho",
+        "Airport Access from Soho",
+        "Soho vs Covent Garden",
+        "Common Mistakes"
+      ]
+    },
+    {
+      "name": "Candace Abroad",
+      "url": "https://candaceabroad.com/boutique-hotels-soho-london/",
+      "scope": "hotels-soho",
+      "names": [
+        "The Z Hotel Soho",
+        "The Resident Hotel",
+        "Mimi’s Hotel Soho",
+        "Hazlitt’s",
+        "The Soho Hotel",
+        "Courthouse Hotel",
+        "Haymarket Hotel",
+        "Dean Street Townhouse",
+        "Boutique Hotels in Soho",
+        "Thanks for reading my Boutique Hotels in Soho",
+        "5 Magic Things to do in Richmond Park",
+        "Hey lovely",
+        "candaceabroad"
+      ]
+    },
+    {
+      "name": "Anywhere We Roam",
+      "url": "https://anywhereweroam.com/where-to-stay-in-soho-london/",
+      "scope": "hotels-soho",
+      "names": [
+        "Main Attractions in Soho & the West End",
+        "Getting Around Soho & West End",
+        "Budget Hotels in Soho & West End",
+        "Mid-Market Hotels in Soho & West End",
+        "England",
+        "Austria",
+        "Belgium",
+        "Iceland",
+        "Norway",
+        "Switzerland",
+        "Chile",
+        "Cuba",
+        "USA",
+        "Egypt",
+        "Morocco",
+        "Namibia",
+        "South Africa",
+        "Cambodia",
+        "Nepal",
+        "Philippines",
+        "Sri Lanka",
+        "Cities",
+        "Day Trips",
+        "Road Trips",
+        "Hiking",
+        "Scenery",
+        "Outdoors",
+        "Wildlife",
+        "BLOG",
+        "Budget",
+        "Mid-Market",
+        "Top-End",
+        "Table of Contents",
+        "Oxford Circus",
+        "Tottenham Court Road",
+        "Charing Cross",
+        "Embankment",
+        "Holborn",
+        "itineraries",
+        "first-hand advice"
+      ]
+    },
+    {
+      "name": "All Around London",
+      "url": "https://allaroundlondon.com/where-to-stay-in-soho-london/",
+      "scope": "hotels-soho",
+      "names": [
+        "Central Soho",
+        "Soho Square Area",
+        "Dean Street",
+        "Summing Up",
+        "Stay",
+        "Eat"
+      ]
+    },
+    {
+      "name": "This Is Soho",
+      "url": "https://www.thisissoho.co.uk/hotels/",
+      "scope": "hotels-soho",
+      "names": [
+        "Courthouse Hotel",
+        "Dean Street Townhouse",
+        "Ham Yard Hotel",
+        "Hazlitt's",
+        "Hotel Café Royal",
+        "Karma Sanctum Soho",
+        "Kettner's",
+        "Mimi's Hotel Soho",
+        "The Broadwick Hotel",
+        "The Resident Soho",
+        "The Soho Hotel"
+      ]
+    }
+  ]
+}

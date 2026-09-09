@@ -31,6 +31,16 @@
       "what": "Decide whether the monthly guides cover sport at all. September is the start of the football season and the fixture list is public.",
       "why": "Flagged while writing September and still open. It changes the shape of every month from here.",
       "added": "2026-09-08"
+    },
+    {
+      "id": "clink78-vs-clink261",
+      "what": "Clink78 is in the sheet and marked closed in data/closed-hotels.json. The community pass found Clink261 - a DIFFERENT Clink hostel, 5 minutes from King's Cross St Pancras, with a first-hand 'no complaints' from r/uktravel. Worth swapping the closed row for the open one.",
+      "needs": "a sheet edit - swap Clink78 for Clink261, or add Clink261 alongside"
+    },
+    {
+      "id": "hotel-candidates-decisions",
+      "what": "data/hotel-candidates-from-guides.json now holds 267 properties across eleven corpora, 72 of them named by 2+ independent domains in a single corpus, plus 4 named only by real people on Reddit. Every one needs a yes/no.",
+      "needs": "a pass through the file deciding which get sheet rows. Start with the 3+ list."
     }
   ],
   "watch": [
@@ -74,6 +84,10 @@
       "due": "2026-10-15",
       "note": "Hotels.com 429s the typeahead from curl and its dropdown is React-driven; last pass resolved 7 of 12 via browser site-search with a name gate.",
       "added": "2026-09-08"
+    },
+    {
+      "id": "arctic-shift-is-the-reddit-route",
+      "what": "Reddit's own JSON 403s curl and the /last30days engine 429s after ~14 items. arctic-shift works but rate-limits silently - an unthrottled sweep returned zero for 11 of 15 subreddits and looked like an empty window. Throttle and run in the background; ~30 minutes for 15 subs."
     }
   ],
   "decided": [
@@ -124,6 +138,16 @@
       "date": "2026-09-09",
       "decision": "src/data/hotels.json is a curated shortlist of what we can recommend and link - about 125 rows, 63 linkable - not an inventory of London hotels. Never make an absence claim about an area from it, never print a count of our rows as a count of the area's hotels, and name properties with no row in prose without a hotel: link where they belong. Every agent brief for a hotel or where-to-stay guide must carry this.",
       "why": "Rob, 2026-09-09. The Soho and Covent Garden guides both claimed an area sold nothing between two price points; Soho's rested on seven of our own rows and Covent Garden's on six, and neither was a survey. The claim was also wrong inside our own data - the one property genuinely rate-sampled reached £466 and £901 on the same dates the gap was said to start at £287. Prices are typicalFrom estimates unless the slug is in src/data/hotel-rate-ranges.json, which covers only eight properties."
+    },
+    {
+      "id": "blog-is-one-voice",
+      "what": "namedBy counts distinct DOMAINS, not pages or corpora. A blog with five accommodation pages is one voice; four sources in one corpus is a consensus, one source in each of four corpora is one magazine house style.",
+      "why": "Love and London's five pages each scored as a separate source and briefly promoted her byline and a photo caption to four-source candidates."
+    },
+    {
+      "id": "ai-seo-farms-excluded-from-hotel-corpus",
+      "what": "Fifteen domains excluded from the hotel corpora as AI SEO farms or template aggregators, listed in every data/serp/hotels-*.txt header and explained in data/reference/hotel-corpus.md.",
+      "why": "lamplitlondon.com ranked in five of the eight area searches and its name arrays are clean and correct. You cannot detect a farm from its output - you have to look at the site."
     }
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "cuisine": "hotels-bermondsey",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-bermondsey",
+      "scope": "hotels-bermondsey",
+      "names": [
+        "The Lalit London",
+        "Bermondsey Square Hotel",
+        "Premier Inn London Tower Bridge",
+        "Hilton London Tower Bridge",
+        "London Tower Bridge Apartments",
+        "Hotels",
+        "Boutique hotels",
+        "Rental apartments",
+        "Investor relations",
+        "Work for Time Out",
+        "Privacy notice",
+        "Accessibility statement",
+        "Get Listed",
+        "Time Out Offers FAQ",
+        "Advertising",
+        "Time Out Market",
+        "Time Out Offers",
+        "Time Out Worldwide",
+        "Movies"
+      ]
+    },
+    {
+      "name": "TJ Takes the Train",
+      "url": "https://tjtakesthetrain.com/best-hotels-in-london-bridge/",
+      "scope": "hotels-bermondsey",
+      "names": [
+        "Lalit Hotel *****",
+        "Shang Ri La *****",
+        "Hilton London Bridge ****",
+        "Residence Inn by Marriott",
+        "The Dixon",
+        "Bermondsey Square Hotel ****",
+        "Premier Inn London Tower Bridge ***",
+        "Primary Sidebar"
+      ]
+    }
+  ]
+}

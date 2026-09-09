@@ -1,0 +1,21 @@
+# SERP-seeded 2026-09-09 via the browser, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+
+The Telegraph|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/west-end/covent-garden/hotels/
+Urban List|https://www.theurbanlist.com/a-list/best-hotels-covent-garden-london
+The Independent|https://www.independent.co.uk/travel/uk/best-hotels-covent-garden-london-b2160738.html
+Santorini Dave|https://santorinidave.com/covent-garden-hotels
+
+# Blogs
+Sunny in London|https://sunnyinlondon.com/best-places-to-stay-in-london-covent-garden-soho/

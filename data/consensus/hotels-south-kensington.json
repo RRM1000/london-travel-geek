@@ -1,0 +1,102 @@
+{
+  "cuisine": "hotels-south-kensington",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-south-kensington",
+      "scope": "hotels-south-kensington",
+      "names": [
+        "The Ampersand Hotel",
+        "Baglioni Hotel London",
+        "Cheval Harrington Court",
+        "Gore",
+        "The Kensington Hotel",
+        "Meininger Hotel London",
+        "Number Sixteen",
+        "Hotels",
+        "Boutique hotels",
+        "B&Bs",
+        "Investor relations",
+        "Work for Time Out",
+        "Privacy notice",
+        "Accessibility statement",
+        "Get Listed",
+        "Time Out Offers FAQ",
+        "Advertising",
+        "Time Out Market",
+        "Time Out Offers",
+        "Time Out Worldwide",
+        "Movies"
+      ]
+    },
+    {
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/kensington/hotels/",
+      "scope": "hotels-south-kensington",
+      "names": [],
+      "error": "HTTP 402"
+    },
+    {
+      "name": "Sothebys Journal",
+      "url": "https://blog.sothebysrealty.co.uk/the-journal/hotels-in-south-kensington",
+      "scope": "hotels-south-kensington",
+      "names": [
+        "The Adria",
+        "The Kensington Hotel",
+        "The Exhibitionist",
+        "The Franklin",
+        "The Ampersand",
+        "The Journal",
+        "All Locations",
+        "Belgravia",
+        "Holland Park",
+        "Company News",
+        "Lifestyle Articles",
+        "The Market",
+        "Design & Architecture",
+        "Media Mentions",
+        "Video Gallery",
+        "Lifestyles",
+        "The Team",
+        "International Properties",
+        "The History",
+        "Saudi Arabia Sotheby's International Realty",
+        "Dubai Sotheby's International Realty",
+        "Service Fees",
+        "Client Money Protection",
+        "Partnerships and Referral Program",
+        "Rental Yield Calculator",
+        "Complaints Procedure",
+        "Cyber Crime Statement",
+        "Modern Slavery Statement",
+        "Health and Safety Statement",
+        "Sothebys Realty",
+        "Sothebys"
+      ]
+    },
+    {
+      "name": "South Ken Culture Quarter",
+      "url": "https://www.southkenculturequarter.com/itinerary/places-stay-south-kensington/",
+      "scope": "hotels-south-kensington",
+      "names": [
+        "The Rembrandt",
+        "The Vanderbilt Hotel",
+        "The Gore London",
+        "The Pelham London",
+        "The Franklin London",
+        "The Kensington",
+        "The Ampersand Hotel",
+        "Number Sixteen",
+        "Knightsbridge Hotel",
+        "The Egerton House Hotel",
+        "The Milestone",
+        "Gem Strathmore Hotel",
+        "Prince’s Gardens",
+        "London Marriott Hotel Kensington",
+        "Chelsea Cloisters London"
+      ]
+    }
+  ]
+}

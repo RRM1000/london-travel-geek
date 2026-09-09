@@ -1,0 +1,25 @@
+# SERP-seeded 2026-09-09 via the browser, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+
+Time Out|https://www.timeout.com/london/hotels/the-best-hotels-in-shoreditch
+Conde Nast Traveller|https://www.cntraveller.com/gallery/best-hotels-in-shoreditch
+The Telegraph|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/east/shoreditch/hotels/
+The Independent|https://www.independent.co.uk/travel/uk/best-hotels-shoreditch-london-b2100692.html
+The Nudge|https://thenudge.com/the-best-hotels-in-shoreditch/
+The Hotel Guru|https://www.thehotelguru.com/best-hotels/united-kingdom/london-shoreditch-hotels
+
+# Blogs - the independents the SERP put alongside the mastheads.
+All Around London|https://allaroundlondon.com/best-hotels-in-shoreditch/
+Anywhere We Roam|https://anywhereweroam.com/where-to-stay-shoreditch/
+Thatsup|https://thatsup.co.uk/london/guide/the-best-hotels-in-shoreditch/

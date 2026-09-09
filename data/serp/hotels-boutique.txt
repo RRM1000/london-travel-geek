@@ -1,0 +1,20 @@
+# SERP-seeded 2026-09-09 via the browser, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+
+Time Out|https://www.timeout.com/london/hotels/the-best-boutique-hotels-in-london
+Conde Nast Traveller UK|https://www.cntraveller.com/gallery/best-boutique-hotels-in-london
+Conde Nast Traveler US|https://www.cntraveler.com/gallery/best-boutique-hotels-in-london
+The Times|https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/best-boutique-hotels-in-london-bjq9vnq3f
+The Hotel Journal|https://thehoteljournal.com/best-boutique-hotels-in-london/
+The Quality Edit|https://www.thequalityedit.com/articles/best-boutique-hotels-london

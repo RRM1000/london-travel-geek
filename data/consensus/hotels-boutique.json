@@ -1,0 +1,128 @@
+{
+  "cuisine": "hotels-boutique",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/hotels/the-best-boutique-hotels-in-london",
+      "scope": "hotels-boutique",
+      "names": [
+        "The Newman",
+        "The July London Victoria",
+        "The Hari",
+        "The Laslett",
+        "Broadwick Soho",
+        "The Standard",
+        "One Hundred Shoreditch",
+        "The Hoxton",
+        "Art'otel Battersea",
+        "Kettner’s",
+        "NoMad London",
+        "Hazlitt's"
+      ]
+    },
+    {
+      "name": "Conde Nast Traveller UK",
+      "url": "https://www.cntraveller.com/gallery/best-boutique-hotels-in-london",
+      "scope": "hotels-boutique",
+      "names": [
+        "Broadwick Soho",
+        "The Zetter Bloomsbury",
+        "The Newman",
+        "At Sloane",
+        "Bertrand’s Townhouse",
+        "Chelsea Townhouse",
+        "Lime Tree Hotel",
+        "The Hari",
+        "Beaverbrook Townhouse",
+        "The Soho Hotel",
+        "The Twenty Two",
+        "Dean Street Townhouse",
+        "Fulham Pier Hotel",
+        "Bingham Riverhouse"
+      ]
+    },
+    {
+      "name": "Conde Nast Traveler US",
+      "url": "https://www.cntraveler.com/gallery/best-boutique-hotels-in-london",
+      "scope": "hotels-boutique",
+      "names": [
+        "Broadwick Soho",
+        "The Zetter Bloomsbury",
+        "The Newman",
+        "At Sloane",
+        "Bertrand’s Townhouse",
+        "The Chelsea Townhouse",
+        "Lime Tree Hotel",
+        "The Hari",
+        "Beaverbrook Town House",
+        "The Soho Hotel",
+        "The Twenty Two",
+        "Dean Street Townhouse",
+        "Fulham Pier Hotel"
+      ]
+    },
+    {
+      "name": "The Times",
+      "url": "https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/best-boutique-hotels-in-london-bjq9vnq3f",
+      "scope": "hotels-boutique",
+      "names": [],
+      "error": "no headings matched"
+    },
+    {
+      "name": "The Hotel Journal",
+      "url": "https://thehoteljournal.com/best-boutique-hotels-in-london/",
+      "scope": "hotels-boutique",
+      "names": [
+        "The Gore | Kensington",
+        "The Beaumont Hotel | Mayfair",
+        "Richmond Hill Hotel | Richmond",
+        "COMO the Halkin | Belgravia",
+        "Sun Street Hotel | Shoreditch",
+        "Great Scotland Yard Hotel | Whitehall",
+        "Inhabit | Paddington",
+        "The Prince Akatoki London | Mayfair",
+        "Mandarin Oriental Mayfair London | Mayfair",
+        "The Hari | Belgravia",
+        "Aethos London Shoreditch | Shoreditch",
+        "Treehouse Hotel",
+        "The Langham",
+        "Miiro Templeton Garden | Earl’s Court",
+        "Batty Langley’s | Shoreditch",
+        "The Mandrake | Fitzrovia",
+        "Broadwick Soho | Soho",
+        "The Rookery | Clerkenwell",
+        "Vintry and Mercer | City of London",
+        "The Twenty Two | Mayfair",
+        "Sea Containers | South Bank",
+        "Marrable’s House | Clerkenwell",
+        "The Londoner | Leicester Square",
+        "The Goring | Belgravia",
+        "The Henrietta Experimental | Covent Garden",
+        "The London EDITION | Fitzrovia",
+        "DAO by Dorsett West London | Shepherd’s Bush",
+        "Canopy by Hilton London City | Aldgate",
+        "The Savoy | Covent Garden",
+        "Andaz London Liverpool Street | Liverpool Street",
+        "100 Queen’s Gate Hotel",
+        "Shangri-La The Shard | London Bridge",
+        "The Welbeck Hotel | Marylebone",
+        "The Portobello Hotel | Notting Hill"
+      ]
+    },
+    {
+      "name": "The Quality Edit",
+      "url": "https://www.thequalityedit.com/articles/best-boutique-hotels-london",
+      "scope": "hotels-boutique",
+      "names": [
+        "Featured Product",
+        "The Hoxton",
+        "One Hundred Shoreditch",
+        "Lime Tree Hotel",
+        "Shop The Edit",
+        "Additional Reading"
+      ]
+    }
+  ]
+}

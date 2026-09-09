@@ -1,0 +1,20 @@
+# SERP-seeded 2026-09-09 via the browser, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+
+Time Out|https://www.timeout.com/london/hotels/the-best-hotels-in-south-kensington
+The Telegraph|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/kensington/hotels/
+
+# Blogs and area bodies
+Sothebys Journal|https://blog.sothebysrealty.co.uk/the-journal/hotels-in-south-kensington
+South Ken Culture Quarter|https://www.southkenculturequarter.com/itinerary/places-stay-south-kensington/
