@@ -1,26 +1,26 @@
 {
-  "pulledAt": "2026-09-07T07:10:39.003Z",
+  "pulledAt": "2026-09-09T11:13:12.847Z",
   "window": {
     "days": 28,
     "current": {
-      "start": "2026-08-08",
-      "end": "2026-09-04"
+      "start": "2026-08-10",
+      "end": "2026-09-06"
     },
     "previous": {
-      "start": "2026-07-11",
-      "end": "2026-08-07"
+      "start": "2026-07-13",
+      "end": "2026-08-09"
     }
   },
   "reports": {
     "decay": [
       {
         "path": "/articles/london-tube-and-rail-lines-guide/",
-        "views": 6,
+        "views": 7,
         "viewsBefore": 284,
         "change": -98,
-        "lost": 278,
-        "position": 7.8,
-        "positionBefore": 11.4
+        "lost": 277,
+        "position": 7.5,
+        "positionBefore": 11.2
       }
     ],
     "quickWins": [
@@ -28,92 +28,129 @@
         "path": "/articles/london-public-transport-costs-and-fares/",
         "query": "single fare finder",
         "clicks": 0,
-        "impressions": 251,
+        "impressions": 349,
         "ctr": 0,
-        "position": 10
-      },
-      {
-        "path": "/articles/london-public-transport-costs-and-fares/",
-        "query": "tfl single fare finder",
-        "clicks": 0,
-        "impressions": 117,
-        "ctr": 0,
-        "position": 9.4
+        "position": 9.9
       },
       {
         "path": "/articles/london-public-transport-costs-and-fares/",
         "query": "london bus fares 2026",
-        "clicks": 0,
-        "impressions": 95,
-        "ctr": 0,
-        "position": 5.8
-      },
-      {
-        "path": "/articles/bonfire-night-london/",
-        "query": "bonfire night 2026",
-        "clicks": 2,
-        "impressions": 89,
-        "ctr": 0.0225,
-        "position": 5
+        "clicks": 1,
+        "impressions": 112,
+        "ctr": 0.0089,
+        "position": 6
       },
       {
         "path": "/articles/hyde-park-winter-wonderland/",
         "query": "winter wonderland 2026",
         "clicks": 1,
-        "impressions": 65,
-        "ctr": 0.0154,
-        "position": 5.8
-      },
-      {
-        "path": "/articles/hyde-park-winter-wonderland/",
-        "query": "winter wonderland london 2026",
-        "clicks": 0,
-        "impressions": 65,
-        "ctr": 0,
-        "position": 6.9
+        "impressions": 96,
+        "ctr": 0.0104,
+        "position": 6.2
       },
       {
         "path": "/articles/london-public-transport-costs-and-fares/",
         "query": "london bus fares",
         "clicks": 0,
-        "impressions": 63,
+        "impressions": 91,
         "ctr": 0,
-        "position": 9.4
+        "position": 9.1
       },
       {
-        "path": "/articles/london-film-festival/",
-        "query": "lff dates",
+        "path": "/articles/hyde-park-winter-wonderland/",
+        "query": "winter wonderland london 2026",
         "clicks": 0,
-        "impressions": 61,
+        "impressions": 75,
         "ctr": 0,
-        "position": 7.4
+        "position": 7.1
       },
       {
         "path": "/articles/london-public-transport-costs-and-fares/",
-        "query": "tfl prices",
+        "query": "how much is bus fare london",
         "clicks": 0,
-        "impressions": 53,
+        "impressions": 72,
         "ctr": 0,
-        "position": 12.2
-      },
-      {
-        "path": "/articles/london-film-festival/",
-        "query": "when do lff tickets go on sale",
-        "clicks": 0,
-        "impressions": 52,
-        "ctr": 0,
-        "position": 7.8
+        "position": 8.8
       },
       {
         "path": "/articles/london-public-transport-costs-and-fares/",
         "query": "single fare finder tfl",
         "clicks": 0,
-        "impressions": 52,
+        "impressions": 67,
         "ctr": 0,
         "position": 9.7
+      },
+      {
+        "path": "/articles/bonfire-night-london/",
+        "query": "bonfire night london 2026",
+        "clicks": 3,
+        "impressions": 64,
+        "ctr": 0.0469,
+        "position": 8.3
+      },
+      {
+        "path": "/articles/london-film-festival/",
+        "query": "lff dates",
+        "clicks": 0,
+        "impressions": 63,
+        "ctr": 0,
+        "position": 7.5
+      },
+      {
+        "path": "/articles/hyde-park-winter-wonderland/",
+        "query": "london winter wonderland 2026",
+        "clicks": 0,
+        "impressions": 59,
+        "ctr": 0,
+        "position": 6.8
+      },
+      {
+        "path": "/articles/london-public-transport-costs-and-fares/",
+        "query": "london bus prices",
+        "clicks": 0,
+        "impressions": 59,
+        "ctr": 0,
+        "position": 9.5
+      },
+      {
+        "path": "/articles/london-film-festival/",
+        "query": "when do lff tickets go on sale",
+        "clicks": 0,
+        "impressions": 58,
+        "ctr": 0,
+        "position": 7.8
+      },
+      {
+        "path": "/articles/london-public-transport-costs-and-fares/",
+        "query": "tfl fare finder",
+        "clicks": 0,
+        "impressions": 56,
+        "ctr": 0,
+        "position": 7.6
+      },
+      {
+        "path": "/articles/london-public-transport-costs-and-fares/",
+        "query": "bus fares",
+        "clicks": 0,
+        "impressions": 54,
+        "ctr": 0,
+        "position": 12.4
+      },
+      {
+        "path": "/articles/london-public-transport-costs-and-fares/",
+        "query": "london public transport prices",
+        "clicks": 1,
+        "impressions": 51,
+        "ctr": 0.0196,
+        "position": 9.3
       }
     ],
-    "zeroResultSearches": [],
+    "zeroResultSearches": [
+      {
+        "query": "Chelsea",
+        "count": 1
+      }
+    ],
     "unmetQueries": [
       {
         "query": "best indian restaurants london",
@@ -125,44 +162,44 @@
       {
         "query": "best esim for london tourists",
         "clicks": 0,
-        "impressions": 53,
+        "impressions": 56,
         "ctr": 0,
-        "position": 44.2
-      },
-      {
-        "query": "bus fares",
-        "clicks": 0,
-        "impressions": 41,
-        "ctr": 0,
-        "position": 13.4
-      },
-      {
-        "query": "london public transport prices",
-        "clicks": 1,
-        "impressions": 37,
-        "ctr": 0.027,
-        "position": 10.1
-      },
-      {
-        "query": "bus fare london",
-        "clicks": 0,
-        "impressions": 36,
-        "ctr": 0,
-        "position": 13.3
-      },
-      {
-        "query": "bus hopper fare",
-        "clicks": 0,
-        "impressions": 36,
-        "ctr": 0,
-        "position": 10.6
+        "position": 43.5
       },
       {
         "query": "london tube fares",
         "clicks": 2,
-        "impressions": 34,
-        "ctr": 0.0588,
-        "position": 28.4
+        "impressions": 40,
+        "ctr": 0.05,
+        "position": 27.2
+      },
+      {
+        "query": "best sunday roast london",
+        "clicks": 0,
+        "impressions": 39,
+        "ctr": 0,
+        "position": 83.3
+      },
+      {
+        "query": "london tube prices",
+        "clicks": 1,
+        "impressions": 36,
+        "ctr": 0.0278,
+        "position": 28
+      },
+      {
+        "query": "best japanese restaurant london",
+        "clicks": 0,
+        "impressions": 35,
+        "ctr": 0,
+        "position": 42.6
+      },
+      {
+        "query": "best fish and chips london",
+        "clicks": 0,
+        "impressions": 33,
+        "ctr": 0,
+        "position": 29.3
       },
       {
         "query": "best indian restaurant london",
@@ -172,25 +209,18 @@
         "position": 46.5
       },
       {
-        "query": "best japanese restaurant london",
+        "query": "best mexican food london",
         "clicks": 0,
         "impressions": 32,
         "ctr": 0,
-        "position": 42.2
+        "position": 33.3
       },
       {
-        "query": "best sunday roast london",
-        "clicks": 0,
-        "impressions": 31,
-        "ctr": 0,
-        "position": 84.9
-      },
-      {
-        "query": "bloomsbury area guide",
+        "query": "best fish and chips in london",
         "clicks": 0,
         "impressions": 30,
         "ctr": 0,
-        "position": 56.8
+        "position": 30.5
       }
     ],
     "placement": {
@@ -199,43 +229,58 @@
     "topPages": [
       {
         "path": "/articles/london-public-transport-costs-and-fares/",
-        "views": 237,
-        "engagedSecondsPerSession": 56
+        "views": 304,
+        "engagedSecondsPerSession": 54.2
       },
       {
         "path": "/articles/wimbledon-tickets-guide/",
-        "views": 105,
-        "engagedSecondsPerSession": 57.5
+        "views": 128,
+        "engagedSecondsPerSession": 55.4
       },
       {
         "path": "/articles/bonfire-night-london/",
-        "views": 69,
-        "engagedSecondsPerSession": 48.6
-      },
-      {
-        "path": "/articles/london-film-festival/",
-        "views": 69,
+        "views": 114,
         "engagedSecondsPerSession": 51.6
       },
       {
+        "path": "/articles/london-film-festival/",
+        "views": 73,
+        "engagedSecondsPerSession": 49.1
+      },
+      {
         "path": "/articles/notting-hill-area-guide/",
-        "views": 61,
-        "engagedSecondsPerSession": 46
+        "views": 63,
+        "engagedSecondsPerSession": 41.5
       },
       {
         "path": "/articles/halloween-london/",
-        "views": 37,
-        "engagedSecondsPerSession": 51.3
-      },
-      {
-        "path": "/articles/oyster-card-guide-london/",
-        "views": 25,
-        "engagedSecondsPerSession": 54.5
+        "views": 41,
+        "engagedSecondsPerSession": 48.5
       },
       {
         "path": "/articles/immersive-experiences-london/",
-        "views": 20,
-        "engagedSecondsPerSession": 67.9
+        "views": 35,
+        "engagedSecondsPerSession": 56.1
+      },
+      {
+        "path": "/articles/oyster-card-guide-london/",
+        "views": 30,
+        "engagedSecondsPerSession": 60.5
+      },
+      {
+        "path": "/articles/public-toilets-london/",
+        "views": 25,
+        "engagedSecondsPerSession": 30
+      },
+      {
+        "path": "/articles/hyde-park-winter-wonderland/",
+        "views": 21,
+        "engagedSecondsPerSession": 102.1
+      },
+      {
+        "path": "/articles/best-sunday-roast-london/",
+        "views": 19,
+        "engagedSecondsPerSession": 34.4
       },
       {
         "path": "/articles/greenwich-area-guide/",
@@ -243,59 +288,44 @@
         "engagedSecondsPerSession": 22
       },
       {
-        "path": "/articles/hyde-park-winter-wonderland/",
-        "views": 18,
-        "engagedSecondsPerSession": 136.2
-      },
-      {
-        "path": "/articles/best-sunday-roast-london/",
-        "views": 16,
-        "engagedSecondsPerSession": 19.5
+        "path": "/articles/christmas-in-london/",
+        "views": 17,
+        "engagedSecondsPerSession": 124.7
       },
       {
         "path": "/articles/best-comedy-clubs-london/",
-        "views": 13,
-        "engagedSecondsPerSession": 18.2
+        "views": 15,
+        "engagedSecondsPerSession": 15.6
       },
       {
-        "path": "/articles/christmas-in-london/",
+        "path": "/articles/unusual-restaurants-london/",
+        "views": 15,
+        "engagedSecondsPerSession": 25.1
+      },
+      {
+        "path": "/articles/best-dim-sum-london/",
+        "views": 14,
+        "engagedSecondsPerSession": 56
+      },
+      {
+        "path": "/articles/cheap-eats-london/",
+        "views": 14,
+        "engagedSecondsPerSession": 25.5
+      },
+      {
+        "path": "/articles/cinema-deals-london/",
+        "views": 14,
+        "engagedSecondsPerSession": 22.5
+      },
+      {
+        "path": "/articles/best-fish-and-chips-london/",
         "views": 13,
-        "engagedSecondsPerSession": 145.9
+        "engagedSecondsPerSession": 43.9
       },
       {
         "path": "/articles/best-middle-eastern-restaurants-london/",
         "views": 12,
         "engagedSecondsPerSession": 50.7
-      },
-      {
-        "path": "/articles/unusual-restaurants-london/",
-        "views": 12,
-        "engagedSecondsPerSession": 20.6
-      },
-      {
-        "path": "/articles/best-dim-sum-london/",
-        "views": 11,
-        "engagedSecondsPerSession": 64.3
-      },
-      {
-        "path": "/articles/best-fish-and-chips-london/",
-        "views": 11,
-        "engagedSecondsPerSession": 52.7
-      },
-      {
-        "path": "/articles/cinema-deals-london/",
-        "views": 11,
-        "engagedSecondsPerSession": 24.7
-      },
-      {
-        "path": "/articles/public-toilets-london/",
-        "views": 11,
-        "engagedSecondsPerSession": 26.4
-      },
-      {
-        "path": "/articles/best-pizza-london/",
-        "views": 9,
-        "engagedSecondsPerSession": 26.4
       }
     ]
   },
@@ -303,56 +333,56 @@
     "property": "548094096",
     "events": {
       "page_view": {
-        "count": 1217,
-        "users": 755
+        "count": 1494,
+        "users": 954
       },
       "session_start": {
-        "count": 879,
-        "users": 754
+        "count": 1100,
+        "users": 953
       },
       "first_visit": {
-        "count": 760,
-        "users": 753
+        "count": 959,
+        "users": 952
       },
       "user_engagement": {
-        "count": 635,
-        "users": 478
+        "count": 820,
+        "users": 608
       },
       "scroll": {
-        "count": 67,
-        "users": 51
+        "count": 77,
+        "users": 60
       },
       "section_reached": {
         "count": 44,
         "users": 11
       },
-      "view_search_results": {
-        "count": 27,
-        "users": 3
-      },
       "click": {
-        "count": 24,
-        "users": 20
+        "count": 32,
+        "users": 27
+      },
+      "view_search_results": {
+        "count": 28,
+        "users": 4
       },
       "toc_click": {
+        "count": 14,
+        "users": 9
+      },
+      "nav_click": {
+        "count": 9,
+        "users": 6
+      },
+      "file_download": {
+        "count": 6,
+        "users": 6
+      },
+      "form_start": {
         "count": 6,
         "users": 4
       },
-      "form_start": {
-        "count": 5,
-        "users": 3
-      },
-      "file_download": {
-        "count": 4,
-        "users": 4
-      },
       "form_submit": {
-        "count": 4,
-        "users": 3
-      },
-      "nav_click": {
-        "count": 4,
-        "users": 3
+        "count": 5,
+        "users": 4
       },
       "affiliate_click": {
         "count": 1,
@@ -367,6 +397,10 @@
         "users": 1
       },
       "ltg_probe_check": {
+        "count": 1,
+        "users": 1
+      },
+      "site_search": {
         "count": 1,
         "users": 1
       }
@@ -387,6 +421,16 @@
       ],
       "toc_click.section": [
         {
+          "section": "the-ones-where-you-actually-do-something",
+          "path": "/articles/immersive-experiences-london/",
+          "count": 2
+        },
+        {
+          "section": "coming-from-abroad",
+          "path": "/articles/wimbledon-tickets-guide/",
+          "count": 1
+        },
+        {
           "section": "continue-planning-your-christmas",
           "path": "/articles/hyde-park-winter-wonderland/",
           "count": 1
@@ -402,8 +446,33 @@
           "count": 1
         },
         {
+          "section": "how-to-pay-less",
+          "path": "/articles/london-theatre-guide/",
+          "count": 1
+        },
+        {
+          "section": "immersive-dining-and-cabaret",
+          "path": "/articles/immersive-experiences-london/",
+          "count": 1
+        },
+        {
+          "section": "look-dont-touch",
+          "path": "/articles/immersive-experiences-london/",
+          "count": 1
+        },
+        {
+          "section": "opening-in-the-next-six-months",
+          "path": "/articles/immersive-experiences-london/",
+          "count": 1
+        },
+        {
           "section": "still-open-at-a-glance",
           "path": "/articles/best-cabaret-london/",
+          "count": 1
+        },
+        {
+          "section": "top-10-money-saving-transport-tips-for-london",
+          "path": "/articles/london-public-transport-costs-and-fares/",
           "count": 1
         },
         {
@@ -622,25 +691,30 @@
       "nav_click.label": [
         {
           "label": "LONDONTRAVELGEEK",
-          "count": 3
+          "count": 8
         },
         {
           "label": "Fares & travelcards",
           "count": 1
         }
       ],
-      "site_search.query": []
+      "site_search.query": [
+        {
+          "query": "Chelsea",
+          "count": 1
+        }
+      ]
     },
     "unregisteredDimensions": [],
     "pages": [
       {
         "path": "/articles/london-public-transport-costs-and-fares/",
         "current": {
-          "views": 237,
-          "users": 199,
-          "sessions": 230,
-          "engagementRate": 0.496,
-          "engagedSecondsPerSession": 56
+          "views": 304,
+          "users": 251,
+          "sessions": 287,
+          "engagementRate": 0.523,
+          "engagedSecondsPerSession": 54.2
         },
         "previous": {
           "views": 7,
@@ -653,28 +727,28 @@
       {
         "path": "/",
         "current": {
-          "views": 127,
-          "users": 60,
-          "sessions": 71,
-          "engagementRate": 0.479,
-          "engagedSecondsPerSession": 9.1
+          "views": 129,
+          "users": 58,
+          "sessions": 70,
+          "engagementRate": 0.543,
+          "engagedSecondsPerSession": 9.6
         },
         "previous": {
-          "views": 152,
-          "users": 73,
-          "sessions": 81,
-          "engagementRate": 0.185,
-          "engagedSecondsPerSession": 3.9
+          "views": 157,
+          "users": 78,
+          "sessions": 86,
+          "engagementRate": 0.174,
+          "engagedSecondsPerSession": 3.7
         }
       },
       {
         "path": "/articles/wimbledon-tickets-guide/",
         "current": {
-          "views": 105,
-          "users": 85,
-          "sessions": 103,
-          "engagementRate": 0.398,
-          "engagedSecondsPerSession": 57.5
+          "views": 128,
+          "users": 105,
+          "sessions": 125,
+          "engagementRate": 0.416,
+          "engagedSecondsPerSession": 55.4
         },
         "previous": {
           "views": 0,
@@ -687,11 +761,11 @@
       {
         "path": "/articles/bonfire-night-london/",
         "current": {
-          "views": 69,
-          "users": 58,
-          "sessions": 67,
-          "engagementRate": 0.642,
-          "engagedSecondsPerSession": 48.6
+          "views": 114,
+          "users": 94,
+          "sessions": 106,
+          "engagementRate": 0.585,
+          "engagedSecondsPerSession": 51.6
         },
         "previous": {
           "views": 0,
@@ -704,11 +778,11 @@
       {
         "path": "/articles/london-film-festival/",
         "current": {
-          "views": 69,
-          "users": 60,
-          "sessions": 66,
-          "engagementRate": 0.545,
-          "engagedSecondsPerSession": 51.6
+          "views": 73,
+          "users": 63,
+          "sessions": 70,
+          "engagementRate": 0.529,
+          "engagedSecondsPerSession": 49.1
         },
         "previous": {
           "views": 0,
@@ -721,11 +795,11 @@
       {
         "path": "/articles/notting-hill-area-guide/",
         "current": {
-          "views": 61,
-          "users": 7,
-          "sessions": 9,
-          "engagementRate": 1,
-          "engagedSecondsPerSession": 46
+          "views": 63,
+          "users": 9,
+          "sessions": 11,
+          "engagementRate": 0.909,
+          "engagedSecondsPerSession": 41.5
         },
         "previous": {
           "views": 0,
@@ -738,45 +812,11 @@
       {
         "path": "/articles/halloween-london/",
         "current": {
-          "views": 37,
-          "users": 34,
-          "sessions": 36,
-          "engagementRate": 0.611,
-          "engagedSecondsPerSession": 51.3
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
-        "path": "/search/",
-        "current": {
-          "views": 26,
-          "users": 3,
-          "sessions": 4,
-          "engagementRate": 1,
-          "engagedSecondsPerSession": 4.8
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
-        "path": "/articles/oyster-card-guide-london/",
-        "current": {
-          "views": 25,
-          "users": 20,
-          "sessions": 25,
-          "engagementRate": 0.52,
-          "engagedSecondsPerSession": 54.5
+          "views": 41,
+          "users": 38,
+          "sessions": 40,
+          "engagementRate": 0.6,
+          "engagedSecondsPerSession": 48.5
         },
         "previous": {
           "views": 0,
@@ -789,11 +829,96 @@
       {
         "path": "/articles/immersive-experiences-london/",
         "current": {
-          "views": 20,
-          "users": 16,
-          "sessions": 18,
-          "engagementRate": 0.667,
-          "engagedSecondsPerSession": 67.9
+          "views": 35,
+          "users": 31,
+          "sessions": 35,
+          "engagementRate": 0.657,
+          "engagedSecondsPerSession": 56.1
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/oyster-card-guide-london/",
+        "current": {
+          "views": 30,
+          "users": 25,
+          "sessions": 31,
+          "engagementRate": 0.581,
+          "engagedSecondsPerSession": 60.5
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/search/",
+        "current": {
+          "views": 27,
+          "users": 4,
+          "sessions": 5,
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 4.2
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/public-toilets-london/",
+        "current": {
+          "views": 25,
+          "users": 19,
+          "sessions": 24,
+          "engagementRate": 0.333,
+          "engagedSecondsPerSession": 30
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/hyde-park-winter-wonderland/",
+        "current": {
+          "views": 21,
+          "users": 19,
+          "sessions": 24,
+          "engagementRate": 0.458,
+          "engagedSecondsPerSession": 102.1
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/best-sunday-roast-london/",
+        "current": {
+          "views": 19,
+          "users": 8,
+          "sessions": 9,
+          "engagementRate": 0.889,
+          "engagedSecondsPerSession": 34.4
         },
         "previous": {
           "views": 0,
@@ -821,30 +946,13 @@
         }
       },
       {
-        "path": "/articles/hyde-park-winter-wonderland/",
+        "path": "/articles/christmas-in-london/",
         "current": {
-          "views": 18,
+          "views": 17,
           "users": 16,
-          "sessions": 18,
-          "engagementRate": 0.611,
-          "engagedSecondsPerSession": 136.2
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
-        "path": "/articles/best-sunday-roast-london/",
-        "current": {
-          "views": 16,
-          "users": 5,
-          "sessions": 6,
-          "engagementRate": 0.833,
-          "engagedSecondsPerSession": 19.5
+          "sessions": 17,
+          "engagementRate": 0.765,
+          "engagedSecondsPerSession": 124.7
         },
         "previous": {
           "views": 0,
@@ -857,11 +965,11 @@
       {
         "path": "/articles/best-comedy-clubs-london/",
         "current": {
-          "views": 13,
-          "users": 12,
-          "sessions": 12,
-          "engagementRate": 0.333,
-          "engagedSecondsPerSession": 18.2
+          "views": 15,
+          "users": 14,
+          "sessions": 14,
+          "engagementRate": 0.286,
+          "engagedSecondsPerSession": 15.6
         },
         "previous": {
           "views": 0,
@@ -872,13 +980,81 @@
         }
       },
       {
-        "path": "/articles/christmas-in-london/",
+        "path": "/articles/unusual-restaurants-london/",
+        "current": {
+          "views": 15,
+          "users": 14,
+          "sessions": 14,
+          "engagementRate": 0.571,
+          "engagedSecondsPerSession": 25.1
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/best-dim-sum-london/",
+        "current": {
+          "views": 14,
+          "users": 13,
+          "sessions": 17,
+          "engagementRate": 0.529,
+          "engagedSecondsPerSession": 56
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/cheap-eats-london/",
+        "current": {
+          "views": 14,
+          "users": 11,
+          "sessions": 11,
+          "engagementRate": 0.545,
+          "engagedSecondsPerSession": 25.5
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/cinema-deals-london/",
+        "current": {
+          "views": 14,
+          "users": 14,
+          "sessions": 17,
+          "engagementRate": 0.412,
+          "engagedSecondsPerSession": 22.5
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/best-fish-and-chips-london/",
         "current": {
           "views": 13,
           "users": 12,
-          "sessions": 13,
-          "engagementRate": 0.769,
-          "engagedSecondsPerSession": 145.9
+          "sessions": 12,
+          "engagementRate": 0.333,
+          "engagedSecondsPerSession": 43.9
         },
         "previous": {
           "views": 0,
@@ -906,81 +1082,13 @@
         }
       },
       {
-        "path": "/articles/unusual-restaurants-london/",
+        "path": "/articles/restaurant-deals-london/",
         "current": {
           "views": 12,
-          "users": 11,
-          "sessions": 11,
-          "engagementRate": 0.455,
-          "engagedSecondsPerSession": 20.6
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
-        "path": "/articles/best-dim-sum-london/",
-        "current": {
-          "views": 11,
-          "users": 10,
-          "sessions": 14,
-          "engagementRate": 0.571,
-          "engagedSecondsPerSession": 64.3
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
-        "path": "/articles/best-fish-and-chips-london/",
-        "current": {
-          "views": 11,
-          "users": 10,
-          "sessions": 10,
-          "engagementRate": 0.4,
-          "engagedSecondsPerSession": 52.7
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
-        "path": "/articles/cinema-deals-london/",
-        "current": {
-          "views": 11,
-          "users": 11,
-          "sessions": 14,
-          "engagementRate": 0.429,
-          "engagedSecondsPerSession": 24.7
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
-        "path": "/articles/public-toilets-london/",
-        "current": {
-          "views": 11,
-          "users": 7,
+          "users": 8,
           "sessions": 9,
-          "engagementRate": 0.333,
-          "engagedSecondsPerSession": 26.4
+          "engagementRate": 0.556,
+          "engagedSecondsPerSession": 71.7
         },
         "previous": {
           "views": 0,
@@ -993,11 +1101,11 @@
       {
         "path": "/articles/best-pizza-london/",
         "current": {
-          "views": 9,
-          "users": 4,
-          "sessions": 5,
-          "engagementRate": 0.8,
-          "engagedSecondsPerSession": 26.4
+          "views": 11,
+          "users": 6,
+          "sessions": 7,
+          "engagementRate": 0.857,
+          "engagedSecondsPerSession": 23.4
         },
         "previous": {
           "views": 0,
@@ -1010,11 +1118,11 @@
       {
         "path": "/articles/best-sandwiches-london/",
         "current": {
-          "views": 9,
-          "users": 8,
-          "sessions": 8,
-          "engagementRate": 0.75,
-          "engagedSecondsPerSession": 39
+          "views": 11,
+          "users": 10,
+          "sessions": 10,
+          "engagementRate": 0.8,
+          "engagedSecondsPerSession": 50.1
         },
         "previous": {
           "views": 0,
@@ -1059,13 +1167,13 @@
         }
       },
       {
-        "path": "/articles/cheap-eats-london/",
+        "path": "/articles/best-vegetarian-vegan-restaurants-london/",
         "current": {
           "views": 8,
-          "users": 7,
-          "sessions": 7,
-          "engagementRate": 0.429,
-          "engagedSecondsPerSession": 36.6
+          "users": 6,
+          "sessions": 8,
+          "engagementRate": 0.125,
+          "engagedSecondsPerSession": 37.6
         },
         "previous": {
           "views": 0,
@@ -1093,20 +1201,54 @@
         }
       },
       {
-        "path": "/articles/best-vegetarian-vegan-restaurants-london/",
+        "path": "/topics/food-and-drink/",
         "current": {
-          "views": 7,
-          "users": 5,
-          "sessions": 7,
-          "engagementRate": 0.143,
-          "engagedSecondsPerSession": 43
+          "views": 8,
+          "users": 6,
+          "sessions": 6,
+          "engagementRate": 0.667,
+          "engagedSecondsPerSession": 10.7
         },
         "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
+          "views": 1,
+          "users": 1,
+          "sessions": 1,
           "engagementRate": 0,
-          "engagedSecondsPerSession": 0
+          "engagedSecondsPerSession": 1
+        }
+      },
+      {
+        "path": "/articles/london-tube-and-rail-lines-guide/",
+        "current": {
+          "views": 7,
+          "users": 6,
+          "sessions": 6,
+          "engagementRate": 0.833,
+          "engagedSecondsPerSession": 38.3
+        },
+        "previous": {
+          "views": 284,
+          "users": 1,
+          "sessions": 13,
+          "engagementRate": 0.692,
+          "engagedSecondsPerSession": 16.5
+        }
+      },
+      {
+        "path": "/articles/gatwick-airport-to-london/",
+        "current": {
+          "views": 7,
+          "users": 7,
+          "sessions": 7,
+          "engagementRate": 0.714,
+          "engagedSecondsPerSession": 152.9
+        },
+        "previous": {
+          "views": 11,
+          "users": 1,
+          "sessions": 2,
+          "engagementRate": 0.5,
+          "engagedSecondsPerSession": 41.5
         }
       },
       {
@@ -1117,23 +1259,6 @@
           "sessions": 6,
           "engagementRate": 0.833,
           "engagedSecondsPerSession": 96.3
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
-        "path": "/articles/restaurant-deals-london/",
-        "current": {
-          "views": 7,
-          "users": 4,
-          "sessions": 5,
-          "engagementRate": 0.4,
-          "engagedSecondsPerSession": 81.8
         },
         "previous": {
           "views": 0,
@@ -1161,37 +1286,71 @@
         }
       },
       {
-        "path": "/articles/london-tube-and-rail-lines-guide/",
+        "path": "/guides/",
         "current": {
-          "views": 6,
-          "users": 5,
-          "sessions": 5,
-          "engagementRate": 0.8,
-          "engagedSecondsPerSession": 46
+          "views": 7,
+          "users": 6,
+          "sessions": 6,
+          "engagementRate": 0.667,
+          "engagedSecondsPerSession": 35.2
         },
         "previous": {
-          "views": 284,
+          "views": 1,
           "users": 1,
-          "sessions": 13,
-          "engagementRate": 0.692,
-          "engagedSecondsPerSession": 16.5
+          "sessions": 1,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
         }
       },
       {
-        "path": "/articles/gatwick-airport-to-london/",
+        "path": "/articles/getting-around-london-transport-guide/",
         "current": {
           "views": 6,
           "users": 6,
           "sessions": 6,
-          "engagementRate": 0.667,
-          "engagedSecondsPerSession": 122.8
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 128.5
         },
         "previous": {
-          "views": 11,
+          "views": 21,
           "users": 1,
           "sessions": 2,
-          "engagementRate": 0.5,
-          "engagedSecondsPerSession": 41.5
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 77.5
+        }
+      },
+      {
+        "path": "/articles/best-burgers-london/",
+        "current": {
+          "views": 6,
+          "users": 3,
+          "sessions": 3,
+          "engagementRate": 0.667,
+          "engagedSecondsPerSession": 73.7
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/best-indian-restaurants-london/",
+        "current": {
+          "views": 6,
+          "users": 5,
+          "sessions": 6,
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 61.7
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
         }
       },
       {
@@ -1263,23 +1422,6 @@
         }
       },
       {
-        "path": "/guides/",
-        "current": {
-          "views": 6,
-          "users": 5,
-          "sessions": 5,
-          "engagementRate": 0.6,
-          "engagedSecondsPerSession": 13.8
-        },
-        "previous": {
-          "views": 1,
-          "users": 1,
-          "sessions": 1,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
         "path": "/restaurants/area/canary-wharf/",
         "current": {
           "views": 6,
@@ -1297,23 +1439,6 @@
         }
       },
       {
-        "path": "/topics/food-and-drink/",
-        "current": {
-          "views": 6,
-          "users": 5,
-          "sessions": 5,
-          "engagementRate": 0.6,
-          "engagedSecondsPerSession": 7.6
-        },
-        "previous": {
-          "views": 1,
-          "users": 1,
-          "sessions": 1,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 1
-        }
-      },
-      {
         "path": "/articles/soho-area-guide/",
         "current": {
           "views": 6,
@@ -1321,6 +1446,40 @@
           "sessions": 2,
           "engagementRate": 1,
           "engagedSecondsPerSession": 0
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/best-ice-cream-london/",
+        "current": {
+          "views": 5,
+          "users": 5,
+          "sessions": 5,
+          "engagementRate": 0.6,
+          "engagedSecondsPerSession": 25
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/best-steak-restaurants-london/",
+        "current": {
+          "views": 5,
+          "users": 3,
+          "sessions": 4,
+          "engagementRate": 0.75,
+          "engagedSecondsPerSession": 40.8
         },
         "previous": {
           "views": 0,
@@ -1348,81 +1507,98 @@
         }
       },
       {
-        "path": "/articles/getting-around-london-transport-guide/",
-        "current": {
-          "views": 4,
-          "users": 4,
-          "sessions": 4,
-          "engagementRate": 1,
-          "engagedSecondsPerSession": 184.3
-        },
-        "previous": {
-          "views": 21,
-          "users": 1,
-          "sessions": 2,
-          "engagementRate": 1,
-          "engagedSecondsPerSession": 77.5
-        }
-      },
-      {
-        "path": "/articles/best-burgers-london/",
-        "current": {
-          "views": 4,
-          "users": 1,
-          "sessions": 1,
-          "engagementRate": 1,
-          "engagedSecondsPerSession": 80
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
-        "path": "/articles/best-ice-cream-london/",
-        "current": {
-          "views": 4,
-          "users": 4,
-          "sessions": 4,
-          "engagementRate": 0.5,
-          "engagedSecondsPerSession": 20
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
-        "path": "/articles/best-indian-restaurants-london/",
-        "current": {
-          "views": 4,
-          "users": 4,
-          "sessions": 4,
-          "engagementRate": 1,
-          "engagedSecondsPerSession": 61.8
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
         "path": "/articles/casinos-london/",
+        "current": {
+          "views": 5,
+          "users": 4,
+          "sessions": 4,
+          "engagementRate": 0.75,
+          "engagedSecondsPerSession": 19.5
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/best-cabaret-london/",
+        "current": {
+          "views": 4,
+          "users": 4,
+          "sessions": 4,
+          "engagementRate": 0.75,
+          "engagedSecondsPerSession": 35.5
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/best-chinese-east-asian-restaurants-london/",
         "current": {
           "views": 4,
           "users": 3,
           "sessions": 3,
           "engagementRate": 1,
-          "engagedSecondsPerSession": 25
+          "engagedSecondsPerSession": 153.7
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/best-cocktail-bars-london/",
+        "current": {
+          "views": 4,
+          "users": 4,
+          "sessions": 4,
+          "engagementRate": 0.5,
+          "engagedSecondsPerSession": 19.8
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/heathrow-airport-to-london/",
+        "current": {
+          "views": 4,
+          "users": 3,
+          "sessions": 3,
+          "engagementRate": 0.667,
+          "engagedSecondsPerSession": 64
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/how-to-use-the-london-underground/",
+        "current": {
+          "views": 4,
+          "users": 3,
+          "sessions": 3,
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 142.7
         },
         "previous": {
           "views": 0,
@@ -1450,6 +1626,40 @@
         }
       },
       {
+        "path": "/articles/london-itineraries-by-days-and-interests/",
+        "current": {
+          "views": 4,
+          "users": 4,
+          "sessions": 4,
+          "engagementRate": 0.5,
+          "engagedSecondsPerSession": 11.3
+        },
+        "previous": {
+          "views": 1,
+          "users": 1,
+          "sessions": 1,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 1
+        }
+      },
+      {
+        "path": "/articles/luton-airport-to-london/",
+        "current": {
+          "views": 4,
+          "users": 4,
+          "sessions": 4,
+          "engagementRate": 0.5,
+          "engagedSecondsPerSession": 57.3
+        },
+        "previous": {
+          "views": 1,
+          "users": 1,
+          "sessions": 1,
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 4
+        }
+      },
+      {
         "path": "/free/",
         "current": {
           "views": 4,
@@ -1474,6 +1684,40 @@
           "sessions": 3,
           "engagementRate": 1,
           "engagedSecondsPerSession": 6
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/tags/tfl-fares/",
+        "current": {
+          "views": 4,
+          "users": 3,
+          "sessions": 3,
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 14.7
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/topics/london-areas/",
+        "current": {
+          "views": 4,
+          "users": 4,
+          "sessions": 4,
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 20.8
         },
         "previous": {
           "views": 0,
@@ -1518,30 +1762,13 @@
         }
       },
       {
-        "path": "/articles/best-chinese-east-asian-restaurants-london/",
-        "current": {
-          "views": 3,
-          "users": 2,
-          "sessions": 2,
-          "engagementRate": 1,
-          "engagedSecondsPerSession": 201
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
-        "path": "/articles/best-cocktail-bars-london/",
+        "path": "/articles/best-hot-pot-london/",
         "current": {
           "views": 3,
           "users": 3,
           "sessions": 3,
-          "engagementRate": 0.333,
-          "engagedSecondsPerSession": 7.3
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 161
         },
         "previous": {
           "views": 0,
@@ -1569,6 +1796,23 @@
         }
       },
       {
+        "path": "/articles/best-live-music-venues-london/",
+        "current": {
+          "views": 3,
+          "users": 2,
+          "sessions": 3,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0.3
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
         "path": "/articles/fitzrovia-area-guide/",
         "current": {
           "views": 3,
@@ -1586,13 +1830,13 @@
         }
       },
       {
-        "path": "/articles/how-to-use-the-london-underground/",
+        "path": "/articles/kensington-area-guide/",
         "current": {
           "views": 3,
           "users": 2,
-          "sessions": 2,
-          "engagementRate": 1,
-          "engagedSecondsPerSession": 184.5
+          "sessions": 3,
+          "engagementRate": 0.667,
+          "engagedSecondsPerSession": 40.7
         },
         "previous": {
           "views": 0,
@@ -1603,20 +1847,20 @@
         }
       },
       {
-        "path": "/articles/london-itineraries-by-days-and-interests/",
+        "path": "/articles/kids-eat-free-london/",
         "current": {
           "views": 3,
-          "users": 3,
+          "users": 2,
           "sessions": 3,
           "engagementRate": 0.333,
-          "engagedSecondsPerSession": 1.3
+          "engagedSecondsPerSession": 2
         },
         "previous": {
-          "views": 1,
-          "users": 1,
-          "sessions": 1,
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
           "engagementRate": 0,
-          "engagedSecondsPerSession": 1
+          "engagedSecondsPerSession": 0
         }
       },
       {
@@ -1705,30 +1949,13 @@
         }
       },
       {
-        "path": "/tags/tfl-fares/",
-        "current": {
-          "views": 3,
-          "users": 2,
-          "sessions": 2,
-          "engagementRate": 1,
-          "engagedSecondsPerSession": 9.5
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
-        "path": "/topics/london-areas/",
+        "path": "/topics/getting-around-london/",
         "current": {
           "views": 3,
           "users": 3,
           "sessions": 3,
-          "engagementRate": 1,
-          "engagedSecondsPerSession": 21
+          "engagementRate": 0.667,
+          "engagedSecondsPerSession": 4
         },
         "previous": {
           "views": 0,
@@ -1790,13 +2017,13 @@
         }
       },
       {
-        "path": "/articles/best-cabaret-london/",
+        "path": "/articles/best-bakeries-london/",
         "current": {
           "views": 2,
           "users": 2,
           "sessions": 2,
           "engagementRate": 1,
-          "engagedSecondsPerSession": 66.5
+          "engagedSecondsPerSession": 33.5
         },
         "previous": {
           "views": 0,
@@ -1824,23 +2051,6 @@
         }
       },
       {
-        "path": "/articles/best-live-music-venues-london/",
-        "current": {
-          "views": 2,
-          "users": 1,
-          "sessions": 2,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
         "path": "/articles/best-museums-london/",
         "current": {
           "views": 2,
@@ -1858,13 +2068,13 @@
         }
       },
       {
-        "path": "/articles/best-steak-restaurants-london/",
+        "path": "/articles/best-seafood-restaurants-london/",
         "current": {
           "views": 2,
-          "users": 1,
+          "users": 2,
           "sessions": 2,
-          "engagementRate": 0.5,
-          "engagedSecondsPerSession": 1.5
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 67
         },
         "previous": {
           "views": 0,
@@ -1943,23 +2153,6 @@
         }
       },
       {
-        "path": "/articles/heathrow-airport-to-london/",
-        "current": {
-          "views": 2,
-          "users": 2,
-          "sessions": 2,
-          "engagementRate": 0.5,
-          "engagedSecondsPerSession": 31
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
         "path": "/articles/hidden-london-secret-places/",
         "current": {
           "views": 2,
@@ -1977,13 +2170,13 @@
         }
       },
       {
-        "path": "/articles/kensington-area-guide/",
+        "path": "/articles/how-to-use-london-river-boats/",
         "current": {
           "views": 2,
-          "users": 1,
+          "users": 2,
           "sessions": 2,
-          "engagementRate": 0.5,
-          "engagedSecondsPerSession": 0
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 61
         },
         "previous": {
           "views": 0,
@@ -2045,6 +2238,23 @@
         }
       },
       {
+        "path": "/articles/london-theatre-guide/",
+        "current": {
+          "views": 2,
+          "users": 2,
+          "sessions": 2,
+          "engagementRate": 0.5,
+          "engagedSecondsPerSession": 4.5
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
         "path": "/articles/london-tour-buses-compared/",
         "current": {
           "views": 2,
@@ -2062,20 +2272,20 @@
         }
       },
       {
-        "path": "/articles/luton-airport-to-london/",
+        "path": "/tags/immersive-theatre/",
         "current": {
           "views": 2,
           "users": 2,
           "sessions": 2,
-          "engagementRate": 0.5,
-          "engagedSecondsPerSession": 112.5
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 9.5
         },
         "previous": {
-          "views": 1,
-          "users": 1,
-          "sessions": 1,
-          "engagementRate": 1,
-          "engagedSecondsPerSession": 4
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
         }
       },
       {
@@ -2086,6 +2296,23 @@
           "sessions": 2,
           "engagementRate": 1,
           "engagedSecondsPerSession": 12.5
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/tags/transport-costs/",
+        "current": {
+          "views": 2,
+          "users": 2,
+          "sessions": 2,
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 2
         },
         "previous": {
           "views": 0,
@@ -2115,10 +2342,10 @@
       {
         "path": "/articles/battersea-area-guide/",
         "current": {
-          "views": 1,
-          "users": 1,
-          "sessions": 1,
-          "engagementRate": 1,
+          "views": 2,
+          "users": 2,
+          "sessions": 2,
+          "engagementRate": 0.5,
           "engagedSecondsPerSession": 0
         },
         "previous": {
@@ -2130,13 +2357,13 @@
         }
       },
       {
-        "path": "/articles/best-bakeries-london/",
+        "path": "/articles/best-coffee-london/",
         "current": {
           "views": 1,
           "users": 1,
           "sessions": 1,
           "engagementRate": 1,
-          "engagedSecondsPerSession": 16
+          "engagedSecondsPerSession": 27
         },
         "previous": {
           "views": 0,
@@ -2147,13 +2374,47 @@
         }
       },
       {
-        "path": "/articles/best-seafood-restaurants-london/",
+        "path": "/articles/best-french-restaurants-london/",
         "current": {
           "views": 1,
           "users": 1,
           "sessions": 1,
           "engagementRate": 1,
-          "engagedSecondsPerSession": 89
+          "engagedSecondsPerSession": 2
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/best-italian-restaurants-london/",
+        "current": {
+          "views": 1,
+          "users": 1,
+          "sessions": 1,
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 34
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/best-mexican-restaurants-london/",
+        "current": {
+          "views": 1,
+          "users": 1,
+          "sessions": 1,
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 47
         },
         "previous": {
           "views": 0,
@@ -2181,6 +2442,23 @@
         }
       },
       {
+        "path": "/articles/best-street-food-london/",
+        "current": {
+          "views": 1,
+          "users": 1,
+          "sessions": 1,
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 0
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
         "path": "/articles/best-views-london/",
         "current": {
           "views": 1,
@@ -2188,6 +2466,40 @@
           "sessions": 1,
           "engagementRate": 1,
           "engagedSecondsPerSession": 37
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/chelsea-area-guide/",
+        "current": {
+          "views": 1,
+          "users": 1,
+          "sessions": 1,
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 0
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/christmas-day-restaurants-london/",
+        "current": {
+          "views": 1,
+          "users": 1,
+          "sessions": 1,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 4
         },
         "previous": {
           "views": 0,
@@ -2232,13 +2544,30 @@
         }
       },
       {
-        "path": "/articles/how-to-use-london-river-boats/",
+        "path": "/articles/historic-pubs-dining-rooms-london/",
         "current": {
           "views": 1,
           "users": 1,
           "sessions": 1,
           "engagementRate": 1,
-          "engagedSecondsPerSession": 54
+          "engagedSecondsPerSession": 16
+        },
+        "previous": {
+          "views": 0,
+          "users": 0,
+          "sessions": 0,
+          "engagementRate": 0,
+          "engagedSecondsPerSession": 0
+        }
+      },
+      {
+        "path": "/articles/kings-cross-area-guide/",
+        "current": {
+          "views": 1,
+          "users": 1,
+          "sessions": 1,
+          "engagementRate": 1,
+          "engagedSecondsPerSession": 14
         },
         "previous": {
           "views": 0,
@@ -2470,13 +2799,13 @@
         }
       },
       {
-        "path": "/tags/immersive-theatre/",
+        "path": "/tags/contactless-payment/",
         "current": {
           "views": 1,
           "users": 1,
           "sessions": 1,
           "engagementRate": 1,
-          "engagedSecondsPerSession": 13
+          "engagedSecondsPerSession": 15
         },
         "previous": {
           "views": 0,
@@ -2538,40 +2867,6 @@
         }
       },
       {
-        "path": "/tags/transport-costs/",
-        "current": {
-          "views": 1,
-          "users": 1,
-          "sessions": 1,
-          "engagementRate": 1,
-          "engagedSecondsPerSession": 1
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
-        "path": "/topics/getting-around-london/",
-        "current": {
-          "views": 1,
-          "users": 1,
-          "sessions": 1,
-          "engagementRate": 1,
-          "engagedSecondsPerSession": 4
-        },
-        "previous": {
-          "views": 0,
-          "users": 0,
-          "sessions": 0,
-          "engagementRate": 0,
-          "engagedSecondsPerSession": 0
-        }
-      },
-      {
         "path": "/articles/best-areas-to-stay-and-visit-london/",
         "current": {
           "views": 0,
@@ -2594,172 +2889,208 @@
     "site": "sc-domain:londontravelgeek.co.uk",
     "pages": {
       "/articles/london-public-transport-costs-and-fares/": {
-        "clicks": 185,
-        "impressions": 34188,
-        "ctr": 0.0054,
-        "position": 8.9
+        "clicks": 235,
+        "impressions": 44241,
+        "ctr": 0.0053,
+        "position": 8.6
       },
       "/articles/wimbledon-tickets-guide/": {
-        "clicks": 65,
-        "impressions": 5931,
-        "ctr": 0.011,
-        "position": 11.3
+        "clicks": 79,
+        "impressions": 7972,
+        "ctr": 0.0099,
+        "position": 11.2
       },
       "/articles/london-film-festival/": {
-        "clicks": 51,
-        "impressions": 4523,
-        "ctr": 0.0113,
-        "position": 6.5
+        "clicks": 54,
+        "impressions": 5061,
+        "ctr": 0.0107,
+        "position": 6.6
+      },
+      "/articles/bonfire-night-london/": {
+        "clicks": 106,
+        "impressions": 2883,
+        "ctr": 0.0368,
+        "position": 6.6
       },
       "/articles/travel-sim-esim-guide/": {
         "clicks": 1,
-        "impressions": 2365,
+        "impressions": 2549,
         "ctr": 0.0004,
-        "position": 36.7
-      },
-      "/articles/bonfire-night-london/": {
-        "clicks": 67,
-        "impressions": 1883,
-        "ctr": 0.0356,
-        "position": 6.6
+        "position": 35.8
       },
       "/articles/hyde-park-winter-wonderland/": {
-        "clicks": 12,
-        "impressions": 1426,
-        "ctr": 0.0084,
+        "clicks": 13,
+        "impressions": 2172,
+        "ctr": 0.006,
         "position": 9.2
       },
       "/articles/halloween-london/": {
-        "clicks": 23,
-        "impressions": 1175,
-        "ctr": 0.0196,
-        "position": 12.2
+        "clicks": 25,
+        "impressions": 1448,
+        "ctr": 0.0173,
+        "position": 12.6
       },
       "/articles/shoreditch-area-guide/": {
         "clicks": 3,
-        "impressions": 1059,
-        "ctr": 0.0028,
-        "position": 59.7
+        "impressions": 1126,
+        "ctr": 0.0027,
+        "position": 54.8
       },
       "/articles/london-tube-and-rail-lines-guide/": {
         "clicks": 4,
-        "impressions": 996,
+        "impressions": 1002,
         "ctr": 0.004,
-        "position": 7.8
-      },
-      "/articles/best-sunday-roast-london/": {
-        "clicks": 3,
-        "impressions": 670,
-        "ctr": 0.0045,
-        "position": 58.3
-      },
-      "/articles/oyster-card-guide-london/": {
-        "clicks": 3,
-        "impressions": 660,
-        "ctr": 0.0045,
-        "position": 29
-      },
-      "/articles/best-japanese-restaurants-london/": {
-        "clicks": 3,
-        "impressions": 573,
-        "ctr": 0.0052,
-        "position": 47.3
-      },
-      "/articles/christmas-in-london/": {
-        "clicks": 12,
-        "impressions": 493,
-        "ctr": 0.0243,
-        "position": 9.2
+        "position": 7.5
       },
       "/articles/public-toilets-london/": {
-        "clicks": 6,
-        "impressions": 485,
-        "ctr": 0.0124,
-        "position": 8.8
+        "clicks": 13,
+        "impressions": 955,
+        "ctr": 0.0136,
+        "position": 8.5
+      },
+      "/articles/cinema-deals-london/": {
+        "clicks": 11,
+        "impressions": 837,
+        "ctr": 0.0131,
+        "position": 11.9
+      },
+      "/articles/best-sunday-roast-london/": {
+        "clicks": 5,
+        "impressions": 823,
+        "ctr": 0.0061,
+        "position": 51.8
       },
       "/articles/london-tour-buses-compared/": {
         "clicks": 0,
-        "impressions": 452,
+        "impressions": 823,
         "ctr": 0,
-        "position": 7.8
+        "position": 7.7
+      },
+      "/articles/best-japanese-restaurants-london/": {
+        "clicks": 3,
+        "impressions": 715,
+        "ctr": 0.0042,
+        "position": 46.2
+      },
+      "/articles/oyster-card-guide-london/": {
+        "clicks": 3,
+        "impressions": 715,
+        "ctr": 0.0042,
+        "position": 26.8
+      },
+      "/articles/immersive-experiences-london/": {
+        "clicks": 24,
+        "impressions": 600,
+        "ctr": 0.04,
+        "position": 8.9
+      },
+      "/articles/christmas-in-london/": {
+        "clicks": 15,
+        "impressions": 588,
+        "ctr": 0.0255,
+        "position": 10.3
+      },
+      "/articles/best-mexican-restaurants-london/": {
+        "clicks": 1,
+        "impressions": 534,
+        "ctr": 0.0019,
+        "position": 31.8
+      },
+      "/articles/off-peak-restaurant-apps-london/": {
+        "clicks": 0,
+        "impressions": 468,
+        "ctr": 0,
+        "position": 9.3
       },
       "/articles/best-indian-restaurants-london/": {
         "clicks": 2,
-        "impressions": 445,
-        "ctr": 0.0045,
-        "position": 30.9
-      },
-      "/articles/cinema-deals-london/": {
-        "clicks": 9,
-        "impressions": 436,
-        "ctr": 0.0206,
-        "position": 11.4
-      },
-      "/articles/best-mexican-restaurants-london/": {
-        "clicks": 0,
-        "impressions": 415,
-        "ctr": 0,
-        "position": 32.8
-      },
-      "/articles/immersive-experiences-london/": {
-        "clicks": 14,
-        "impressions": 356,
-        "ctr": 0.0393,
-        "position": 9.9
-      },
-      "/articles/fitzrovia-area-guide/": {
-        "clicks": 3,
-        "impressions": 347,
-        "ctr": 0.0086,
-        "position": 39.6
-      },
-      "/articles/luton-airport-to-london/": {
-        "clicks": 0,
-        "impressions": 325,
-        "ctr": 0,
-        "position": 14.6
+        "impressions": 465,
+        "ctr": 0.0043,
+        "position": 30.4
       },
       "/articles/notting-hill-area-guide/": {
-        "clicks": 3,
-        "impressions": 303,
-        "ctr": 0.0099,
-        "position": 16.9
+        "clicks": 4,
+        "impressions": 458,
+        "ctr": 0.0087,
+        "position": 15.4
       },
       "/articles/best-coffee-london/": {
         "clicks": 0,
-        "impressions": 301,
+        "impressions": 377,
         "ctr": 0,
-        "position": 58.6
+        "position": 56.8
       },
-      "/articles/cheap-eats-london/": {
-        "clicks": 7,
-        "impressions": 277,
-        "ctr": 0.0253,
-        "position": 26.1
+      "/articles/fitzrovia-area-guide/": {
+        "clicks": 3,
+        "impressions": 348,
+        "ctr": 0.0086,
+        "position": 39.5
       },
       "/articles/best-fish-and-chips-london/": {
         "clicks": 1,
-        "impressions": 272,
-        "ctr": 0.0037,
-        "position": 24.3
+        "impressions": 340,
+        "ctr": 0.0029,
+        "position": 24.5
+      },
+      "/articles/cheap-eats-london/": {
+        "clicks": 12,
+        "impressions": 337,
+        "ctr": 0.0356,
+        "position": 26.4
       },
       "/articles/how-to-use-london-river-boats/": {
         "clicks": 1,
-        "impressions": 262,
-        "ctr": 0.0038,
-        "position": 10.6
+        "impressions": 278,
+        "ctr": 0.0036,
+        "position": 10.4
+      },
+      "/articles/best-afternoon-tea-london/": {
+        "clicks": 4,
+        "impressions": 273,
+        "ctr": 0.0147,
+        "position": 42
+      },
+      "/articles/luton-airport-to-london/": {
+        "clicks": 0,
+        "impressions": 265,
+        "ctr": 0,
+        "position": 9
       },
       "/articles/should-you-buy-sim-card-at-airport/": {
         "clicks": 0,
-        "impressions": 241,
+        "impressions": 265,
         "ctr": 0,
-        "position": 10.7
+        "position": 10.6
+      },
+      "/articles/best-dim-sum-london/": {
+        "clicks": 13,
+        "impressions": 258,
+        "ctr": 0.0504,
+        "position": 18.2
       },
       "/articles/how-to-use-london-buses-and-trams/": {
         "clicks": 0,
-        "impressions": 240,
+        "impressions": 257,
         "ctr": 0,
-        "position": 8.9
+        "position": 8.7
+      },
+      "/articles/restaurant-deals-london/": {
+        "clicks": 3,
+        "impressions": 248,
+        "ctr": 0.0121,
+        "position": 15.6
+      },
+      "/articles/best-french-restaurants-london/": {
+        "clicks": 1,
+        "impressions": 243,
+        "ctr": 0.0041,
+        "position": 43.7
+      },
+      "/articles/best-hot-pot-london/": {
+        "clicks": 3,
+        "impressions": 238,
+        "ctr": 0.0126,
+        "position": 9.8
       },
       "/articles/peckham-area-guide/": {
         "clicks": 0,
@@ -2769,189 +3100,201 @@
       },
       "/articles/london-marathon-guide/": {
         "clicks": 1,
-        "impressions": 212,
-        "ctr": 0.0047,
-        "position": 23.6
-      },
-      "/articles/best-dim-sum-london/": {
-        "clicks": 10,
-        "impressions": 210,
-        "ctr": 0.0476,
-        "position": 19
-      },
-      "/articles/heathrow-airport-to-london/": {
-        "clicks": 0,
-        "impressions": 208,
-        "ctr": 0,
-        "position": 37
-      },
-      "/articles/best-afternoon-tea-london/": {
-        "clicks": 4,
-        "impressions": 201,
-        "ctr": 0.0199,
-        "position": 43.1
-      },
-      "/articles/covent-garden-area-guide/": {
-        "clicks": 1,
-        "impressions": 199,
-        "ctr": 0.005,
-        "position": 33.3
-      },
-      "/articles/gatwick-airport-to-london/": {
-        "clicks": 0,
-        "impressions": 193,
-        "ctr": 0,
-        "position": 27.8
-      },
-      "/articles/southend-airport-to-london/": {
-        "clicks": 0,
-        "impressions": 189,
-        "ctr": 0,
-        "position": 13.3
-      },
-      "/articles/stansted-airport-to-london/": {
-        "clicks": 1,
-        "impressions": 178,
-        "ctr": 0.0056,
-        "position": 32.4
-      },
-      "/articles/best-french-restaurants-london/": {
-        "clicks": 1,
-        "impressions": 177,
-        "ctr": 0.0056,
-        "position": 42.5
-      },
-      "/articles/kings-cross-area-guide/": {
-        "clicks": 0,
-        "impressions": 177,
-        "ctr": 0,
-        "position": 22
+        "impressions": 220,
+        "ctr": 0.0045,
+        "position": 23
       },
       "/articles/best-sandwiches-london/": {
-        "clicks": 8,
-        "impressions": 168,
-        "ctr": 0.0476,
-        "position": 17
-      },
-      "/articles/best-seafood-restaurants-london/": {
-        "clicks": 0,
-        "impressions": 152,
-        "ctr": 0,
-        "position": 32
-      },
-      "/articles/best-cabaret-london/": {
-        "clicks": 2,
-        "impressions": 151,
-        "ctr": 0.0132,
-        "position": 8.6
-      },
-      "/articles/best-ice-cream-london/": {
-        "clicks": 5,
-        "impressions": 150,
-        "ctr": 0.0333,
-        "position": 19.3
-      },
-      "/articles/south-kensington-area-guide/": {
-        "clicks": 0,
-        "impressions": 147,
-        "ctr": 0,
-        "position": 41.7
-      },
-      "/articles/best-steak-restaurants-london/": {
-        "clicks": 1,
-        "impressions": 146,
-        "ctr": 0.0068,
-        "position": 14.1
-      },
-      "/guides/": {
-        "clicks": 0,
-        "impressions": 144,
-        "ctr": 0,
-        "position": 43.1
-      },
-      "/articles/canary-wharf-area-guide/": {
-        "clicks": 0,
-        "impressions": 140,
-        "ctr": 0,
-        "position": 45.7
-      },
-      "/articles/best-thai-restaurants-london/": {
-        "clicks": 3,
-        "impressions": 139,
-        "ctr": 0.0216,
-        "position": 33.9
+        "clicks": 9,
+        "impressions": 209,
+        "ctr": 0.0431,
+        "position": 16.9
       },
       "/articles/best-comedy-clubs-london/": {
         "clicks": 1,
-        "impressions": 138,
-        "ctr": 0.0072,
-        "position": 35.2
+        "impressions": 204,
+        "ctr": 0.0049,
+        "position": 34.3
       },
-      "/articles/best-cocktail-bars-london/": {
+      "/articles/best-ice-cream-london/": {
+        "clicks": 6,
+        "impressions": 202,
+        "ctr": 0.0297,
+        "position": 18.5
+      },
+      "/articles/best-seafood-restaurants-london/": {
         "clicks": 1,
-        "impressions": 134,
-        "ctr": 0.0075,
-        "position": 52.7
+        "impressions": 196,
+        "ctr": 0.0051,
+        "position": 30.1
+      },
+      "/articles/covent-garden-area-guide/": {
+        "clicks": 1,
+        "impressions": 192,
+        "ctr": 0.0052,
+        "position": 31.9
+      },
+      "/articles/best-steak-restaurants-london/": {
+        "clicks": 2,
+        "impressions": 185,
+        "ctr": 0.0108,
+        "position": 15.1
+      },
+      "/articles/best-thai-restaurants-london/": {
+        "clicks": 3,
+        "impressions": 184,
+        "ctr": 0.0163,
+        "position": 32.8
+      },
+      "/articles/kings-cross-area-guide/": {
+        "clicks": 1,
+        "impressions": 175,
+        "ctr": 0.0057,
+        "position": 19.2
+      },
+      "/articles/southend-airport-to-london/": {
+        "clicks": 0,
+        "impressions": 173,
+        "ctr": 0,
+        "position": 9.6
+      },
+      "/articles/casinos-london/": {
+        "clicks": 1,
+        "impressions": 167,
+        "ctr": 0.006,
+        "position": 20.1
       },
       "/articles/best-middle-eastern-restaurants-london/": {
         "clicks": 1,
-        "impressions": 134,
-        "ctr": 0.0075,
-        "position": 14.1
+        "impressions": 162,
+        "ctr": 0.0062,
+        "position": 13.6
       },
-      "/articles/soho-area-guide/": {
-        "clicks": 0,
-        "impressions": 133,
-        "ctr": 0,
-        "position": 13
-      },
-      "/articles/late-night-eating-london/": {
+      "/articles/best-cabaret-london/": {
         "clicks": 2,
-        "impressions": 130,
-        "ctr": 0.0154,
-        "position": 10.9
-      },
-      "/topics/travel-sim-cards/": {
-        "clicks": 0,
-        "impressions": 130,
-        "ctr": 0,
-        "position": 25.9
+        "impressions": 160,
+        "ctr": 0.0125,
+        "position": 8.5
       },
       "/articles/best-spanish-restaurants-london/": {
         "clicks": 1,
-        "impressions": 126,
-        "ctr": 0.0079,
-        "position": 24.5
+        "impressions": 160,
+        "ctr": 0.0063,
+        "position": 24.2
       },
-      "/articles/best-areas-to-stay-and-visit-london/": {
-        "clicks": 1,
-        "impressions": 121,
-        "ctr": 0.0083,
-        "position": 64.4
+      "/articles/gatwick-airport-to-london/": {
+        "clicks": 0,
+        "impressions": 158,
+        "ctr": 0,
+        "position": 15.2
       },
       "/articles/greenwich-area-guide/": {
         "clicks": 1,
-        "impressions": 120,
-        "ctr": 0.0083,
-        "position": 13
+        "impressions": 157,
+        "ctr": 0.0064,
+        "position": 11.5
+      },
+      "/guides/": {
+        "clicks": 0,
+        "impressions": 157,
+        "ctr": 0,
+        "position": 41.5
+      },
+      "/articles/best-korean-restaurants-london/": {
+        "clicks": 6,
+        "impressions": 154,
+        "ctr": 0.039,
+        "position": 11.6
+      },
+      "/articles/best-cocktail-bars-london/": {
+        "clicks": 2,
+        "impressions": 153,
+        "ctr": 0.0131,
+        "position": 50.2
+      },
+      "/articles/best-burgers-london/": {
+        "clicks": 3,
+        "impressions": 146,
+        "ctr": 0.0205,
+        "position": 13.9
+      },
+      "/articles/soho-area-guide/": {
+        "clicks": 0,
+        "impressions": 143,
+        "ctr": 0,
+        "position": 12.7
+      },
+      "/articles/canary-wharf-area-guide/": {
+        "clicks": 0,
+        "impressions": 141,
+        "ctr": 0,
+        "position": 45.4
+      },
+      "/articles/best-live-music-venues-london/": {
+        "clicks": 2,
+        "impressions": 138,
+        "ctr": 0.0145,
+        "position": 25.1
+      },
+      "/articles/late-night-eating-london/": {
+        "clicks": 2,
+        "impressions": 135,
+        "ctr": 0.0148,
+        "position": 10.8
+      },
+      "/topics/travel-sim-cards/": {
+        "clicks": 0,
+        "impressions": 126,
+        "ctr": 0,
+        "position": 24.4
+      },
+      "/articles/unusual-restaurants-london/": {
+        "clicks": 6,
+        "impressions": 123,
+        "ctr": 0.0488,
+        "position": 31.5
       },
       "/articles/battersea-area-guide/": {
         "clicks": 0,
-        "impressions": 120,
+        "impressions": 122,
         "ctr": 0,
-        "position": 50.8
+        "position": 50
       },
-      "/articles/best-korean-restaurants-london/": {
-        "clicks": 5,
+      "/articles/heathrow-airport-to-london/": {
+        "clicks": 0,
+        "impressions": 121,
+        "ctr": 0,
+        "position": 18.6
+      },
+      "/articles/best-areas-to-stay-and-visit-london/": {
+        "clicks": 0,
         "impressions": 117,
-        "ctr": 0.0427,
-        "position": 12
+        "ctr": 0,
+        "position": 64.6
+      },
+      "/articles/best-canal-walks-london/": {
+        "clicks": 1,
+        "impressions": 116,
+        "ctr": 0.0086,
+        "position": 13
       },
       "/articles/bermondsey-area-guide/": {
         "clicks": 0,
-        "impressions": 114,
+        "impressions": 116,
         "ctr": 0,
-        "position": 54.9
+        "position": 54.1
+      },
+      "/articles/london-walks-along-the-thames/": {
+        "clicks": 7,
+        "impressions": 115,
+        "ctr": 0.0609,
+        "position": 12.7
+      },
+      "/articles/south-kensington-area-guide/": {
+        "clicks": 0,
+        "impressions": 115,
+        "ctr": 0,
+        "position": 36.8
       },
       "/articles/chelsea-area-guide/": {
         "clicks": 0,
@@ -2959,83 +3302,83 @@
         "ctr": 0,
         "position": 44.5
       },
-      "/articles/best-live-music-venues-london/": {
-        "clicks": 1,
-        "impressions": 110,
-        "ctr": 0.0091,
-        "position": 25.7
+      "/articles/best-pizza-london/": {
+        "clicks": 3,
+        "impressions": 109,
+        "ctr": 0.0275,
+        "position": 8.8
       },
-      "/articles/unusual-restaurants-london/": {
-        "clicks": 4,
-        "impressions": 103,
-        "ctr": 0.0388,
-        "position": 32.7
-      },
-      "/articles/restaurant-deals-london/": {
-        "clicks": 1,
-        "impressions": 103,
-        "ctr": 0.0097,
-        "position": 14.2
-      },
-      "/articles/camden-area-guide/": {
-        "clicks": 1,
-        "impressions": 100,
-        "ctr": 0.01,
-        "position": 41.1
-      },
-      "/articles/london-city-airport-to-london/": {
-        "clicks": 1,
-        "impressions": 94,
-        "ctr": 0.0106,
-        "position": 13.6
-      },
-      "/articles/best-canal-walks-london/": {
-        "clicks": 1,
-        "impressions": 93,
-        "ctr": 0.0108,
-        "position": 14.8
-      },
-      "/articles/london-walks-along-the-thames/": {
-        "clicks": 6,
-        "impressions": 85,
-        "ctr": 0.0706,
-        "position": 13.3
+      "/articles/best-chinese-east-asian-restaurants-london/": {
+        "clicks": 3,
+        "impressions": 105,
+        "ctr": 0.0286,
+        "position": 14.3
       },
       "/articles/competitive-socialising-london/": {
         "clicks": 1,
-        "impressions": 82,
-        "ctr": 0.0122,
-        "position": 17.1
+        "impressions": 102,
+        "ctr": 0.0098,
+        "position": 15.4
+      },
+      "/articles/camden-area-guide/": {
+        "clicks": 1,
+        "impressions": 101,
+        "ctr": 0.0099,
+        "position": 40.8
+      },
+      "/articles/stansted-airport-to-london/": {
+        "clicks": 1,
+        "impressions": 99,
+        "ctr": 0.0101,
+        "position": 24.1
       },
       "/articles/best-galleries-london/": {
         "clicks": 0,
-        "impressions": 79,
+        "impressions": 99,
         "ctr": 0,
-        "position": 20.7
+        "position": 20.3
       },
-      "/articles/best-chinese-east-asian-restaurants-london/": {
-        "clicks": 2,
-        "impressions": 78,
-        "ctr": 0.0256,
-        "position": 12.8
+      "/articles/shopping-in-london/": {
+        "clicks": 1,
+        "impressions": 82,
+        "ctr": 0.0122,
+        "position": 9.8
       },
-      "/articles/best-pizza-london/": {
+      "/articles/london-theatre-guide/": {
         "clicks": 2,
-        "impressions": 77,
-        "ctr": 0.026,
+        "impressions": 79,
+        "ctr": 0.0253,
         "position": 8.1
+      },
+      "/articles/best-vegetarian-vegan-restaurants-london/": {
+        "clicks": 2,
+        "impressions": 76,
+        "ctr": 0.0263,
+        "position": 16.5
+      },
+      "/articles/london-city-airport-to-london/": {
+        "clicks": 1,
+        "impressions": 76,
+        "ctr": 0.0132,
+        "position": 9.8
+      },
+      "/articles/kids-eat-free-london/": {
+        "clicks": 1,
+        "impressions": 71,
+        "ctr": 0.0141,
+        "position": 15.7
       },
       "/articles/free-tv-show-tickets-london/": {
         "clicks": 1,
-        "impressions": 66,
-        "ctr": 0.0152,
+        "impressions": 67,
+        "ctr": 0.0149,
         "position": 9.9
       },
-      "/articles/casinos-london/": {
+      "/articles/london-blue-plaques/": {
         "clicks": 0,
-        "impressions": 65,
+        "impressions": 63,
         "ctr": 0,
-        "position": 15.2
+        "position": 27.4
       },
       "/articles/hackney-area-guide/": {
         "clicks": 0,
@@ -3043,11 +3386,17 @@
         "ctr": 0,
         "position": 33.3
       },
-      "/articles/london-blue-plaques/": {
-        "clicks": 0,
-        "impressions": 57,
-        "ctr": 0,
-        "position": 29.8
+      "/articles/special-occasion-restaurants-london/": {
+        "clicks": 2,
+        "impressions": 61,
+        "ctr": 0.0328,
+        "position": 6.7
+      },
+      "/articles/best-areas-to-visit-london/": {
+        "clicks": 1,
+        "impressions": 54,
+        "ctr": 0.0185,
+        "position": 49.5
       },
       "/articles/london-in-the-rain/": {
         "clicks": 0,
@@ -3055,23 +3404,17 @@
         "ctr": 0,
         "position": 51.6
       },
-      "/articles/best-vegetarian-vegan-restaurants-london/": {
-        "clicks": 2,
-        "impressions": 50,
-        "ctr": 0.04,
-        "position": 19.5
-      },
       "/articles/historic-pubs-dining-rooms-london/": {
-        "clicks": 0,
-        "impressions": 50,
-        "ctr": 0,
-        "position": 47.2
+        "clicks": 1,
+        "impressions": 53,
+        "ctr": 0.0189,
+        "position": 44.8
       },
       "/articles/stratford-area-guide/": {
         "clicks": 0,
-        "impressions": 48,
+        "impressions": 50,
         "ctr": 0,
-        "position": 20.7
+        "position": 19.9
       },
       "/articles/paddington-area-guide/": {
         "clicks": 0,
@@ -3079,53 +3422,41 @@
         "ctr": 0,
         "position": 27.5
       },
-      "/articles/special-occasion-restaurants-london/": {
+      "/articles/london-filming-locations/": {
         "clicks": 2,
         "impressions": 45,
         "ctr": 0.0444,
-        "position": 6.3
+        "position": 29.1
       },
-      "/articles/london-filming-locations/": {
-        "clicks": 2,
+      "/articles/best-bakeries-london/": {
+        "clicks": 1,
         "impressions": 44,
-        "ctr": 0.0455,
-        "position": 29.7
+        "ctr": 0.0227,
+        "position": 8.2
       },
-      "/articles/how-to-use-the-london-underground/": {
+      "/articles/best-italian-restaurants-london/": {
         "clicks": 0,
         "impressions": 43,
         "ctr": 0,
-        "position": 18.8
-      },
-      "/articles/best-areas-to-visit-london/": {
-        "clicks": 1,
-        "impressions": 39,
-        "ctr": 0.0256,
-        "position": 58.2
-      },
-      "/articles/shopping-in-london/": {
-        "clicks": 1,
-        "impressions": 38,
-        "ctr": 0.0263,
-        "position": 11.5
-      },
-      "/articles/westminster-area-guide/": {
-        "clicks": 0,
-        "impressions": 36,
-        "ctr": 0,
-        "position": 27.3
+        "position": 16.4
       },
       "/articles/city-of-london-area-guide/": {
         "clicks": 0,
-        "impressions": 35,
+        "impressions": 40,
         "ctr": 0,
-        "position": 14.5
+        "position": 13.4
+      },
+      "/articles/westminster-area-guide/": {
+        "clicks": 0,
+        "impressions": 38,
+        "ctr": 0,
+        "position": 26.1
       },
       "/articles/london-street-art/": {
         "clicks": 1,
-        "impressions": 32,
-        "ctr": 0.0313,
-        "position": 7.2
+        "impressions": 34,
+        "ctr": 0.0294,
+        "position": 7
       },
       "/articles/south-bank-area-guide/": {
         "clicks": 1,
@@ -3135,27 +3466,15 @@
       },
       "/articles/historic-houses-london/": {
         "clicks": 0,
+        "impressions": 31,
+        "ctr": 0,
+        "position": 31.1
+      },
+      "/articles/how-to-use-the-london-underground/": {
+        "clicks": 0,
         "impressions": 30,
         "ctr": 0,
-        "position": 32
-      },
-      "/articles/best-burgers-london/": {
-        "clicks": 0,
-        "impressions": 29,
-        "ctr": 0,
-        "position": 17.4
-      },
-      "/articles/best-bakeries-london/": {
-        "clicks": 1,
-        "impressions": 28,
-        "ctr": 0.0357,
-        "position": 9.3
-      },
-      "/articles/best-italian-restaurants-london/": {
-        "clicks": 0,
-        "impressions": 28,
-        "ctr": 0,
-        "position": 15.7
+        "position": 12.7
       },
       "/articles/mayfair-area-guide/": {
         "clicks": 0,
@@ -3163,23 +3482,23 @@
         "ctr": 0,
         "position": 22.3
       },
-      "/articles/off-peak-restaurant-apps-london/": {
-        "clicks": 0,
-        "impressions": 27,
-        "ctr": 0,
-        "position": 15.7
-      },
-      "/articles/best-hot-pot-london/": {
-        "clicks": 0,
-        "impressions": 26,
-        "ctr": 0,
-        "position": 8.3
-      },
       "/articles/islington-area-guide/": {
         "clicks": 0,
-        "impressions": 22,
+        "impressions": 23,
         "ctr": 0,
-        "position": 38.3
+        "position": 39.3
+      },
+      "/articles/london-pass-guide/": {
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 5.1
+      },
+      "/tags/peckham/": {
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 69.1
       },
       "/tags/bermondsey/": {
         "clicks": 0,
@@ -3187,11 +3506,11 @@
         "ctr": 0,
         "position": 80.1
       },
-      "/tags/peckham/": {
+      "/articles/best-parks-gardens-london/": {
         "clicks": 0,
-        "impressions": 22,
+        "impressions": 20,
         "ctr": 0,
-        "position": 70
+        "position": 10.9
       },
       "/articles/kensington-area-guide/": {
         "clicks": 0,
@@ -3205,65 +3524,53 @@
         "ctr": 0,
         "position": 46.9
       },
+      "/articles/bloomsbury-area-guide/": {
+        "clicks": 0,
+        "impressions": 18,
+        "ctr": 0,
+        "position": 17.1
+      },
+      "/articles/richmond-area-guide/": {
+        "clicks": 0,
+        "impressions": 18,
+        "ctr": 0,
+        "position": 9.4
+      },
+      "/articles/wapping-area-guide/": {
+        "clicks": 0,
+        "impressions": 18,
+        "ctr": 0,
+        "position": 55.6
+      },
+      "/plaques/": {
+        "clicks": 0,
+        "impressions": 18,
+        "ctr": 0,
+        "position": 27.2
+      },
       "/tags/family/": {
         "clicks": 0,
         "impressions": 18,
         "ctr": 0,
         "position": 46.1
       },
-      "/articles/richmond-area-guide/": {
+      "/articles/london-with-children/": {
         "clicks": 0,
         "impressions": 17,
         "ctr": 0,
-        "position": 9.3
-      },
-      "/articles/wapping-area-guide/": {
-        "clicks": 0,
-        "impressions": 17,
-        "ctr": 0,
-        "position": 58.4
-      },
-      "/articles/london-theatre-guide/": {
-        "clicks": 0,
-        "impressions": 15,
-        "ctr": 0,
-        "position": 10.3
-      },
-      "/plaques/": {
-        "clicks": 0,
-        "impressions": 15,
-        "ctr": 0,
-        "position": 22.8
-      },
-      "/articles/best-parks-gardens-london/": {
-        "clicks": 0,
-        "impressions": 14,
-        "ctr": 0,
-        "position": 8
-      },
-      "/articles/bloomsbury-area-guide/": {
-        "clicks": 0,
-        "impressions": 14,
-        "ctr": 0,
-        "position": 19.6
-      },
-      "/": {
-        "clicks": 0,
-        "impressions": 13,
-        "ctr": 0,
-        "position": 3.4
+        "position": 8.7
       },
       "/articles/best-cinemas-london/": {
         "clicks": 0,
-        "impressions": 13,
+        "impressions": 14,
         "ctr": 0,
         "position": 10.2
       },
-      "/tags/bloomsbury/": {
+      "/": {
         "clicks": 0,
-        "impressions": 13,
+        "impressions": 12,
         "ctr": 0,
-        "position": 85.4
+        "position": 2.9
       },
       "/articles/hampstead-area-guide/": {
         "clicks": 0,
@@ -3271,35 +3578,41 @@
         "ctr": 0,
         "position": 53.4
       },
+      "/privacy/": {
+        "clicks": 0,
+        "impressions": 12,
+        "ctr": 0,
+        "position": 5.3
+      },
       "/tags/hampstead-heath/": {
         "clicks": 0,
         "impressions": 12,
         "ctr": 0,
         "position": 55.7
       },
-      "/articles/london-with-children/": {
-        "clicks": 0,
-        "impressions": 11,
-        "ctr": 0,
-        "position": 8.2
-      },
-      "/privacy/": {
-        "clicks": 0,
-        "impressions": 11,
-        "ctr": 0,
-        "position": 5.5
-      },
       "/articles/london-itineraries-by-days-and-interests/": {
         "clicks": 0,
-        "impressions": 10,
+        "impressions": 11,
         "ctr": 0,
-        "position": 20.4
+        "position": 18.6
       },
       "/articles/london-on-a-budget/": {
         "clicks": 0,
+        "impressions": 11,
+        "ctr": 0,
+        "position": 31.9
+      },
+      "/articles/best-views-london/": {
+        "clicks": 0,
         "impressions": 10,
         "ctr": 0,
-        "position": 34.6
+        "position": 4.3
+      },
+      "/articles/notting-hill-colourful-houses/": {
+        "clicks": 0,
+        "impressions": 10,
+        "ctr": 0,
+        "position": 7.1
       },
       "/how-we-rank/": {
         "clicks": 0,
@@ -3313,47 +3626,29 @@
         "ctr": 0,
         "position": 21.9
       },
-      "/articles/kids-eat-free-london/": {
-        "clicks": 0,
-        "impressions": 8,
-        "ctr": 0,
-        "position": 7.3
-      },
       "/articles/marylebone-area-guide/": {
         "clicks": 0,
         "impressions": 8,
         "ctr": 0,
         "position": 23.4
       },
-      "/articles/three-days-in-london-itinerary/": {
+      "/tags/bloomsbury/": {
         "clicks": 0,
         "impressions": 8,
         "ctr": 0,
-        "position": 65.1
-      },
-      "/tags/british-museum/": {
-        "clicks": 0,
-        "impressions": 8,
-        "ctr": 0,
-        "position": 16.9
-      },
-      "/articles/london-pass-guide/": {
-        "clicks": 0,
-        "impressions": 7,
-        "ctr": 0,
-        "position": 5
-      },
-      "/articles/five-days-in-london-itinerary/": {
-        "clicks": 0,
-        "impressions": 6,
-        "ctr": 0,
-        "position": 83.7
+        "position": 84.4
       },
       "/articles/getting-around-london-transport-guide/": {
         "clicks": 0,
-        "impressions": 6,
+        "impressions": 5,
         "ctr": 0,
-        "position": 6
+        "position": 5.2
+      },
+      "/tags/british-museum/": {
+        "clicks": 0,
+        "impressions": 5,
+        "ctr": 0,
+        "position": 18.4
       },
       "/tags/south-kensington/": {
         "clicks": 0,
@@ -3367,11 +3662,17 @@
         "ctr": 0,
         "position": 6
       },
-      "/articles/best-views-london/": {
+      "/articles/pod-hotels-london/": {
+        "clicks": 1,
+        "impressions": 4,
+        "ctr": 0.25,
+        "position": 4
+      },
+      "/articles/belgravia-area-guide/": {
         "clicks": 0,
         "impressions": 4,
         "ctr": 0,
-        "position": 6.5
+        "position": 6
       },
       "/articles/eat-in-london-guide/": {
         "clicks": 0,
@@ -3391,23 +3692,11 @@
         "ctr": 0,
         "position": 8.3
       },
-      "/tags/spitalfields/": {
-        "clicks": 0,
-        "impressions": 4,
-        "ctr": 0,
-        "position": 61
-      },
       "/tags/breakfast/": {
         "clicks": 0,
         "impressions": 3,
         "ctr": 0,
         "position": 5
-      },
-      "/tags/docklands/": {
-        "clicks": 0,
-        "impressions": 3,
-        "ctr": 0,
-        "position": 21
       },
       "/tags/neighbourhoods/": {
         "clicks": 0,
@@ -3427,17 +3716,35 @@
         "ctr": 0,
         "position": 7.3
       },
+      "/articles/three-days-in-london-itinerary/": {
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 80.5
+      },
       "/tags/dessert/": {
         "clicks": 0,
         "impressions": 2,
         "ctr": 0,
         "position": 9.5
       },
+      "/tags/docklands/": {
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 16
+      },
       "/tags/london-areas/": {
         "clicks": 0,
         "impressions": 2,
         "ctr": 0,
         "position": 36.5
+      },
+      "/tags/spitalfields/": {
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 60.5
       },
       "/tags/stratford/": {
         "clicks": 0,
@@ -3450,6 +3757,18 @@
         "impressions": 2,
         "ctr": 0,
         "position": 19.5
+      },
+      "/topics/london-itineraries/": {
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 26
+      },
+      "/articles/best-afternoon-tea/": {
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
       },
       "/articles/best-kor-restaurants-london/": {
         "clicks": 0,
@@ -3468,6 +3787,12 @@
         "impressions": 1,
         "ctr": 0,
         "position": 11
+      },
+      "/articles/public-totilets-london/": {
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
       },
       "/tags/attractions/": {
         "clicks": 0,
@@ -3516,42 +3841,57 @@
         "impressions": 1,
         "ctr": 0,
         "position": 7
-      },
-      "/topics/london-itineraries/": {
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 4
       }
     },
     "queries": [
       {
-        "query": "best dim sum london 2026",
-        "clicks": 4,
-        "impressions": 16,
-        "ctr": 0.25,
-        "position": 3.5
-      },
-      {
         "query": "crystal palace fireworks 2026",
-        "clicks": 4,
-        "impressions": 20,
-        "ctr": 0.2,
-        "position": 1.4
+        "clicks": 9,
+        "impressions": 30,
+        "ctr": 0.3,
+        "position": 1.3
       },
       {
         "query": "best cheap eats london 2026",
+        "clicks": 4,
+        "impressions": 7,
+        "ctr": 0.5714,
+        "position": 5.4
+      },
+      {
+        "query": "best dim sum london 2026",
+        "clicks": 4,
+        "impressions": 17,
+        "ctr": 0.2353,
+        "position": 3.9
+      },
+      {
+        "query": "bonfire night 2026",
+        "clicks": 4,
+        "impressions": 156,
+        "ctr": 0.0256,
+        "position": 4.5
+      },
+      {
+        "query": "bonfire night london 2026",
         "clicks": 3,
-        "impressions": 6,
-        "ctr": 0.5,
-        "position": 6.2
+        "impressions": 64,
+        "ctr": 0.0469,
+        "position": 8.3
       },
       {
         "query": "how much is tfl train fare",
         "clicks": 3,
-        "impressions": 20,
-        "ctr": 0.15,
-        "position": 4.3
+        "impressions": 26,
+        "ctr": 0.1154,
+        "position": 4.6
+      },
+      {
+        "query": "any other suggestions?",
+        "clicks": 2,
+        "impressions": 2,
+        "ctr": 1,
+        "position": 3
       },
       {
         "query": "best ice cream london 2026",
@@ -3561,46 +3901,39 @@
         "position": 6
       },
       {
-        "query": "bonfire night 2026",
+        "query": "crystal palace fireworks",
         "clicks": 2,
-        "impressions": 89,
-        "ctr": 0.0225,
-        "position": 5
-      },
-      {
-        "query": "bonfire night london 2026",
-        "clicks": 2,
-        "impressions": 48,
-        "ctr": 0.0417,
-        "position": 7.8
+        "impressions": 10,
+        "ctr": 0.2,
+        "position": 7.5
       },
       {
         "query": "info@championships.aeltc-email.com",
         "clicks": 2,
-        "impressions": 26,
-        "ctr": 0.0769,
-        "position": 6.5
+        "impressions": 28,
+        "ctr": 0.0714,
+        "position": 6.6
       },
       {
         "query": "london tube fares",
         "clicks": 2,
-        "impressions": 34,
-        "ctr": 0.0588,
-        "position": 28.4
+        "impressions": 40,
+        "ctr": 0.05,
+        "position": 27.2
       },
       {
         "query": "tfl prices 2026",
         "clicks": 2,
-        "impressions": 12,
-        "ctr": 0.1667,
-        "position": 4.1
+        "impressions": 14,
+        "ctr": 0.1429,
+        "position": 7.6
       },
       {
         "query": "yes",
         "clicks": 2,
-        "impressions": 78,
-        "ctr": 0.0256,
-        "position": 5.3
+        "impressions": 90,
+        "ctr": 0.0222,
+        "position": 5.1
       },
       {
         "query": "10 jours",
@@ -3624,11 +3957,18 @@
         "position": 7.4
       },
       {
-        "query": "any other suggestions?",
+        "query": "any other similar ideas?",
         "clicks": 1,
         "impressions": 1,
         "ctr": 1,
-        "position": 5
+        "position": 1
+      },
+      {
+        "query": "are there public toilets in london",
+        "clicks": 1,
+        "impressions": 2,
+        "ctr": 0.5,
+        "position": 6
       },
       {
         "query": "banksy works",
@@ -3645,11 +3985,25 @@
         "position": 7
       },
       {
+        "query": "best burger in london",
+        "clicks": 1,
+        "impressions": 11,
+        "ctr": 0.0909,
+        "position": 27.9
+      },
+      {
+        "query": "best burger in london 2026",
+        "clicks": 1,
+        "impressions": 23,
+        "ctr": 0.0435,
+        "position": 7.4
+      },
+      {
         "query": "best thames walks",
         "clicks": 1,
-        "impressions": 2,
-        "ctr": 0.5,
-        "position": 6
+        "impressions": 3,
+        "ctr": 0.3333,
+        "position": 8
       },
       {
         "query": "best thames walks in london",
@@ -3668,9 +4022,9 @@
       {
         "query": "bus fares london 2026",
         "clicks": 1,
-        "impressions": 7,
-        "ctr": 0.1429,
-        "position": 8.3
+        "impressions": 16,
+        "ctr": 0.0625,
+        "position": 7.9
       },
       {
         "query": "cheap cinema tickets thursday",
@@ -3689,9 +4043,9 @@
       {
         "query": "dim sum trolley london",
         "clicks": 1,
-        "impressions": 3,
-        "ctr": 0.3333,
-        "position": 12
+        "impressions": 4,
+        "ctr": 0.25,
+        "position": 9.3
       },
       {
         "query": "elizabeth line fare calculator",
@@ -3699,6 +4053,13 @@
         "impressions": 4,
         "ctr": 0.25,
         "position": 2.3
+      },
+      {
+        "query": "en londres?",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 2
       },
       {
         "query": "es ist 11",
@@ -3717,16 +4078,16 @@
       {
         "query": "halloween 2026 london",
         "clicks": 1,
-        "impressions": 16,
-        "ctr": 0.0625,
-        "position": 10
+        "impressions": 17,
+        "ctr": 0.0588,
+        "position": 11.8
       },
       {
         "query": "halloween in london 2026",
         "clicks": 1,
-        "impressions": 20,
-        "ctr": 0.05,
-        "position": 8.1
+        "impressions": 21,
+        "ctr": 0.0476,
+        "position": 9.4
       },
       {
         "query": "halloween uk 2026",
@@ -3766,16 +4127,30 @@
       {
         "query": "how much does it cost",
         "clicks": 1,
-        "impressions": 11,
-        "ctr": 0.0909,
+        "impressions": 12,
+        "ctr": 0.0833,
         "position": 3.6
+      },
+      {
+        "query": "how much for monthly bus pass",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 4
       },
       {
         "query": "how much is a tube in london",
         "clicks": 1,
-        "impressions": 2,
-        "ctr": 0.5,
-        "position": 29.5
+        "impressions": 3,
+        "ctr": 0.3333,
+        "position": 20
+      },
+      {
+        "query": "how much is a tube journey",
+        "clicks": 1,
+        "impressions": 5,
+        "ctr": 0.2,
+        "position": 1
       },
       {
         "query": "how much is a tube ticket",
@@ -3787,9 +4162,9 @@
       {
         "query": "how much is monthly bus pass",
         "clicks": 1,
-        "impressions": 4,
-        "ctr": 0.25,
-        "position": 3.5
+        "impressions": 10,
+        "ctr": 0.1,
+        "position": 4.7
       },
       {
         "query": "how much is public transportation in london",
@@ -3808,16 +4183,23 @@
       {
         "query": "how much is the ticket",
         "clicks": 1,
-        "impressions": 2,
-        "ctr": 0.5,
-        "position": 3.5
+        "impressions": 3,
+        "ctr": 0.3333,
+        "position": 2.7
       },
       {
         "query": "how much is the tube",
         "clicks": 1,
-        "impressions": 10,
-        "ctr": 0.1,
-        "position": 2
+        "impressions": 13,
+        "ctr": 0.0769,
+        "position": 2.8
+      },
+      {
+        "query": "how much is the underground in london",
+        "clicks": 1,
+        "impressions": 15,
+        "ctr": 0.0667,
+        "position": 1
       },
       {
         "query": "how to enter wimbledon ballot 2027 online",
@@ -3829,16 +4211,16 @@
       {
         "query": "hyde park winter wonderland 2026",
         "clicks": 1,
-        "impressions": 19,
-        "ctr": 0.0526,
-        "position": 5.8
+        "impressions": 23,
+        "ctr": 0.0435,
+        "position": 5.9
       },
       {
         "query": "immersive theatre london",
         "clicks": 1,
-        "impressions": 8,
-        "ctr": 0.125,
-        "position": 64
+        "impressions": 10,
+        "ctr": 0.1,
+        "position": 52
       },
       {
         "query": "kids",
@@ -3850,16 +4232,30 @@
       {
         "query": "london",
         "clicks": 1,
-        "impressions": 14,
-        "ctr": 0.0714,
-        "position": 5
+        "impressions": 19,
+        "ctr": 0.0526,
+        "position": 4.9
+      },
+      {
+        "query": "london bus fares 2026",
+        "clicks": 1,
+        "impressions": 112,
+        "ctr": 0.0089,
+        "position": 6
       },
       {
         "query": "london cable car",
         "clicks": 1,
-        "impressions": 10,
-        "ctr": 0.1,
-        "position": 3.9
+        "impressions": 15,
+        "ctr": 0.0667,
+        "position": 3.4
+      },
+      {
+        "query": "london day travel card",
+        "clicks": 1,
+        "impressions": 2,
+        "ctr": 0.5,
+        "position": 4.5
       },
       {
         "query": "london halloween 2026",
@@ -3871,30 +4267,30 @@
       {
         "query": "london public transport prices",
         "clicks": 1,
-        "impressions": 37,
-        "ctr": 0.027,
-        "position": 10.1
+        "impressions": 51,
+        "ctr": 0.0196,
+        "position": 9.3
       },
       {
         "query": "london train fares",
         "clicks": 1,
-        "impressions": 5,
-        "ctr": 0.2,
-        "position": 25.2
+        "impressions": 8,
+        "ctr": 0.125,
+        "position": 21.8
       },
       {
         "query": "london transport costs",
         "clicks": 1,
-        "impressions": 15,
-        "ctr": 0.0667,
-        "position": 5.9
+        "impressions": 22,
+        "ctr": 0.0455,
+        "position": 5.3
       },
       {
         "query": "london transport fares 2026",
         "clicks": 1,
-        "impressions": 6,
-        "ctr": 0.1667,
-        "position": 6.2
+        "impressions": 7,
+        "ctr": 0.1429,
+        "position": 6.1
       },
       {
         "query": "london transport ticket prices",
@@ -3904,11 +4300,32 @@
         "position": 4.5
       },
       {
+        "query": "london tube pass",
+        "clicks": 1,
+        "impressions": 6,
+        "ctr": 0.1667,
+        "position": 3
+      },
+      {
+        "query": "london tube prices",
+        "clicks": 1,
+        "impressions": 36,
+        "ctr": 0.0278,
+        "position": 28
+      },
+      {
         "query": "london underground prices",
         "clicks": 1,
-        "impressions": 24,
-        "ctr": 0.0417,
-        "position": 9.5
+        "impressions": 32,
+        "ctr": 0.0313,
+        "position": 9
+      },
+      {
+        "query": "monthly bus pass cost",
+        "clicks": 1,
+        "impressions": 13,
+        "ctr": 0.0769,
+        "position": 6.2
       },
       {
         "query": "network card",
@@ -3920,9 +4337,9 @@
       {
         "query": "off peak times tfl price",
         "clicks": 1,
-        "impressions": 12,
-        "ctr": 0.0833,
-        "position": 7.3
+        "impressions": 13,
+        "ctr": 0.0769,
+        "position": 7.5
       },
       {
         "query": "one day travel card zone 1-4",
@@ -3969,9 +4386,9 @@
       {
         "query": "residents ballot wimbledon",
         "clicks": 1,
-        "impressions": 2,
-        "ctr": 0.5,
-        "position": 10.5
+        "impressions": 3,
+        "ctr": 0.3333,
+        "position": 10.3
       },
       {
         "query": "restaurants with deals",
@@ -3988,11 +4405,18 @@
         "position": 1
       },
       {
+        "query": "tfl child fares calculator",
+        "clicks": 1,
+        "impressions": 19,
+        "ctr": 0.0526,
+        "position": 9.6
+      },
+      {
         "query": "tfl journey cost",
         "clicks": 1,
-        "impressions": 8,
-        "ctr": 0.125,
-        "position": 12.4
+        "impressions": 13,
+        "ctr": 0.0769,
+        "position": 11.5
       },
       {
         "query": "tfl london",
@@ -4016,6 +4440,13 @@
         "position": 9
       },
       {
+        "query": "there and back",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 6
+      },
+      {
         "query": "ticket prijs",
         "clicks": 1,
         "impressions": 1,
@@ -4023,11 +4454,32 @@
         "position": 5
       },
       {
+        "query": "total price",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 3
+      },
+      {
         "query": "travel card london",
         "clicks": 1,
         "impressions": 16,
         "ctr": 0.0625,
         "position": 2.6
+      },
+      {
+        "query": "tube pass london",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 3
+      },
+      {
+        "query": "wat kost een dagkaart",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 2
       },
       {
         "query": "what about bank holidays",
@@ -4093,25 +4545,32 @@
         "position": 7
       },
       {
+        "query": "wimbledon queue 2027",
+        "clicks": 1,
+        "impressions": 3,
+        "ctr": 0.3333,
+        "position": 8
+      },
+      {
         "query": "wimbledon residents ballot",
         "clicks": 1,
-        "impressions": 13,
-        "ctr": 0.0769,
-        "position": 9.3
+        "impressions": 36,
+        "ctr": 0.0278,
+        "position": 9.4
       },
       {
         "query": "winter wonderland 2026",
         "clicks": 1,
-        "impressions": 65,
-        "ctr": 0.0154,
-        "position": 5.8
+        "impressions": 96,
+        "ctr": 0.0104,
+        "position": 6.2
       },
       {
         "query": "winter wonderland tickets 2026",
         "clicks": 1,
-        "impressions": 7,
-        "ctr": 0.1429,
-        "position": 7.6
+        "impressions": 9,
+        "ctr": 0.1111,
+        "position": 7.8
       },
       {
         "query": "yeah how much",
@@ -4129,6 +4588,13 @@
       },
       {
         "query": "\"british museum\" \"flight club bloomsbury\" walk",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "\"british museum\" \"flight club bloomsbury\" walk minutes",
         "clicks": 0,
         "impressions": 1,
         "ctr": 0,
@@ -4163,6 +4629,13 @@
         "position": 10
       },
       {
+        "query": "\"shoreditch high street station\" \"shoreditch house\" walking",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 10
+      },
+      {
         "query": "+",
         "clicks": 0,
         "impressions": 1,
@@ -4184,11 +4657,18 @@
         "position": 2
       },
       {
+        "query": "1 and 2 zone travelcard price",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 24
+      },
+      {
         "query": "1 day",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 3,
         "ctr": 0,
-        "position": 2
+        "position": 2.3
       },
       {
         "query": "1 day bus pass price",
@@ -4217,6 +4697,20 @@
         "impressions": 1,
         "ctr": 0,
         "position": 2
+      },
+      {
+        "query": "1 month bus pass price",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "1 month oyster bus pass price",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 8.5
       },
       {
         "query": "1 tag",
@@ -4261,6 +4755,13 @@
         "position": 3
       },
       {
+        "query": "1-3 zone oyster price",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 10
+      },
+      {
         "query": "1-4",
         "clicks": 0,
         "impressions": 3,
@@ -4273,6 +4774,13 @@
         "impressions": 1,
         "ctr": 0,
         "position": 3
+      },
+      {
+        "query": "1-6 zone travelcard price",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 29
       },
       {
         "query": "1.",
@@ -4310,11 +4818,25 @@
         "position": 2
       },
       {
+        "query": "11 en 13 jaar",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+      },
+      {
         "query": "11-15",
         "clicks": 0,
         "impressions": 1,
         "ctr": 0,
         "position": 2
+      },
+      {
+        "query": "12",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 4
       },
       {
         "query": "12 and 14",
@@ -4387,6 +4909,13 @@
         "position": 14
       },
       {
+        "query": "16-25",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+      },
+      {
         "query": "16.5",
         "clicks": 0,
         "impressions": 1,
@@ -4434,6 +4963,13 @@
         "impressions": 1,
         "ctr": 0,
         "position": 2
+      },
+      {
+        "query": "2 adulti si 2 copii",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 4
       },
       {
         "query": "2 adults",
@@ -4492,6 +5028,27 @@
         "position": 3
       },
       {
+        "query": "2 dias",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 3
+      },
+      {
+        "query": "2 personas",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "query": "2 zile",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+      },
+      {
         "query": "2.35",
         "clicks": 0,
         "impressions": 1,
@@ -4501,16 +5058,16 @@
       {
         "query": "2025 wimbledon tickets",
         "clicks": 0,
-        "impressions": 11,
+        "impressions": 15,
         "ctr": 0,
-        "position": 80.4
+        "position": 79.2
       },
       {
         "query": "2026",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 3,
         "ctr": 0,
-        "position": 5
+        "position": 4.7
       },
       {
         "query": "2026 bonfire night",
@@ -4541,6 +5098,13 @@
         "position": 5.8
       },
       {
+        "query": "2027 wimbledon public ballot",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 6
+      },
+      {
         "query": "2027 wimbledon tickets release date",
         "clicks": 0,
         "impressions": 1,
@@ -4560,6 +5124,13 @@
         "impressions": 1,
         "ctr": 0,
         "position": 69
+      },
+      {
+        "query": "25 children",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
       },
       {
         "query": "26-30 railcard",
@@ -4611,11 +5182,11 @@
         "position": 10
       },
       {
-        "query": "3 day london itinerary",
+        "query": "3 day travelcard london price",
         "clicks": 0,
         "impressions": 1,
         "ctr": 0,
-        "position": 70
+        "position": 27
       },
       {
         "query": "3 days",
@@ -4627,9 +5198,9 @@
       {
         "query": "3 days a week",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 7
+        "position": 4
       },
       {
         "query": "3 days in london",
@@ -4646,11 +5217,25 @@
         "position": 2
       },
       {
+        "query": "3 full days",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 5
+      },
+      {
         "query": "3 giorni",
         "clicks": 0,
         "impressions": 2,
         "ctr": 0,
         "position": 2.5
+      },
+      {
+        "query": "3 jours à londres",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 4
       },
       {
         "query": "3 michelin london",
@@ -4674,6 +5259,13 @@
         "position": 1
       },
       {
+        "query": "3 дня",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
         "query": "3.10",
         "clicks": 0,
         "impressions": 1,
@@ -4681,11 +5273,25 @@
         "position": 3
       },
       {
+        "query": "3.30pm",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
         "query": "33 charlotte street london w1t 1rr",
         "clicks": 0,
         "impressions": 1,
         "ctr": 0,
         "position": 3
+      },
+      {
+        "query": "37 pund",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
       },
       {
         "query": "3dias",
@@ -4697,9 +5303,9 @@
       {
         "query": "4",
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 5,
         "ctr": 0,
-        "position": 3
+        "position": 3.4
       },
       {
         "query": "4 adultos",
@@ -4800,18 +5406,25 @@
         "position": 2
       },
       {
-        "query": "5",
+        "query": "4.30",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 4
+      },
+      {
+        "query": "4;",
         "clicks": 0,
         "impressions": 1,
         "ctr": 0,
         "position": 2
       },
       {
-        "query": "5 day itinerary in london",
+        "query": "5",
         "clicks": 0,
         "impressions": 1,
         "ctr": 0,
-        "position": 94
+        "position": 2
       },
       {
         "query": "5 days",
@@ -4823,7 +5436,7 @@
       {
         "query": "5 days a week",
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 4,
         "ctr": 0,
         "position": 3.3
       },
@@ -4845,6 +5458,13 @@
         "query": "5 dias",
         "clicks": 0,
         "impressions": 2,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "query": "5 dias em londres",
+        "clicks": 0,
+        "impressions": 1,
         "ctr": 0,
         "position": 2
       },
@@ -4877,6 +5497,13 @@
         "position": 2
       },
       {
+        "query": "5 tage",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
         "query": "5 times per week",
         "clicks": 0,
         "impressions": 1,
@@ -4896,6 +5523,13 @@
         "impressions": 1,
         "ctr": 0,
         "position": 4
+      },
+      {
+        "query": "5.25?",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
       },
       {
         "query": "5days",
@@ -4982,6 +5616,13 @@
         "position": 5
       },
       {
+        "query": "7 jours",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 5
+      },
+      {
         "query": "7 month",
         "clicks": 0,
         "impressions": 1,
@@ -4994,6 +5635,13 @@
         "impressions": 1,
         "ctr": 0,
         "position": 2
+      },
+      {
+        "query": "7 ايام",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 13
       },
       {
         "query": "73.28",
@@ -5015,6 +5663,13 @@
         "impressions": 1,
         "ctr": 0,
         "position": 2
+      },
+      {
+        "query": "8 dias",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 3
       },
       {
         "query": "8 jours",
@@ -5045,11 +5700,32 @@
         "position": 3
       },
       {
+        "query": "??",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 3
+      },
+      {
+        "query": "a day bus pass price",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 9.5
+      },
+      {
         "query": "a jednorazowy",
         "clicks": 0,
         "impressions": 1,
         "ctr": 0,
         "position": 3
+      },
+      {
+        "query": "a las 11:25",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
       },
       {
         "query": "a londra",
@@ -5064,6 +5740,20 @@
         "impressions": 1,
         "ctr": 0,
         "position": 3
+      },
+      {
+        "query": "abbeywood station",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "query": "add cost comparison",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
       },
       {
         "query": "add railcard to contactless",
@@ -5101,6 +5791,13 @@
         "position": 7
       },
       {
+        "query": "adult fares",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+      },
+      {
         "query": "adult only",
         "clicks": 0,
         "impressions": 1,
@@ -5115,6 +5812,13 @@
         "position": 22
       },
       {
+        "query": "adults bus fare",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+      },
+      {
         "query": "advantages of oyster card",
         "clicks": 0,
         "impressions": 1,
@@ -5124,9 +5828,9 @@
       {
         "query": "aeltc ballot",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 4,
         "ctr": 0,
-        "position": 8
+        "position": 7.3
       },
       {
         "query": "aeltc ballot 2027",
@@ -5150,6 +5854,13 @@
         "position": 8
       },
       {
+        "query": "aeltc tickets",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
         "query": "aeltc wimbledon ballot",
         "clicks": 0,
         "impressions": 3,
@@ -5157,18 +5868,18 @@
         "position": 5.3
       },
       {
-        "query": "aeltc wimbledon tickets",
+        "query": "aeltc wimbledon ballot 2027",
         "clicks": 0,
         "impressions": 2,
         "ctr": 0,
-        "position": 6
+        "position": 2
       },
       {
-        "query": "aeroport southend londres",
+        "query": "aeltc wimbledon tickets",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 7,
         "ctr": 0,
-        "position": 56
+        "position": 2.4
       },
       {
         "query": "affordable cinema",
@@ -5185,6 +5896,13 @@
         "position": 56
       },
       {
+        "query": "affordable international roaming esim",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
         "query": "affordable japanese restaurant london",
         "clicks": 0,
         "impressions": 1,
@@ -5197,6 +5915,13 @@
         "impressions": 1,
         "ctr": 0,
         "position": 46
+      },
+      {
+        "query": "affordable set menus london",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 63
       },
       {
         "query": "afternoon route",
@@ -5218,412 +5943,6 @@
         "impressions": 2,
         "ctr": 0,
         "position": 63.5
-      },
-      {
-        "query": "afternoon tea hotels in london",
-        "clicks": 0,
-        "impressions": 2,
-        "ctr": 0,
-        "position": 67
-      },
-      {
-        "query": "afternoon tea hotels london",
-        "clicks": 0,
-        "impressions": 2,
-        "ctr": 0,
-        "position": 67
-      },
-      {
-        "query": "afternoon tea in hotels",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 70
-      },
-      {
-        "query": "afternoon tea in london hotel",
-        "clicks": 0,
-        "impressions": 5,
-        "ctr": 0,
-        "position": 65.2
-      },
-      {
-        "query": "afternoon tea in london hotels",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 63
-      },
-      {
-        "query": "afternoon tea london 5-star hotel",
-        "clicks": 0,
-        "impressions": 2,
-        "ctr": 0,
-        "position": 78
-      },
-      {
-        "query": "afternoon tea london hotel",
-        "clicks": 0,
-        "impressions": 7,
-        "ctr": 0,
-        "position": 75.1
-      },
-      {
-        "query": "afternoon tea london hotels",
-        "clicks": 0,
-        "impressions": 3,
-        "ctr": 0,
-        "position": 47.3
-      },
-      {
-        "query": "afternoon tea with view london",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 55
-      },
-      {
-        "query": "ahoreditch",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 66
-      },
-      {
-        "query": "airport to london city",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 50
-      },
-      {
-        "query": "airport transfer from gatwick to london",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 69
-      },
-      {
-        "query": "airport transfer stansted to london",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 62
-      },
-      {
-        "query": "aldersgate street, london slow horses",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 12
-      },
-      {
-        "query": "alexandra palace",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 15
-      },
-      {
-        "query": "alexandra palace bonfire night",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 36
-      },
-      {
-        "query": "alexandra palace bonfire night 2026",
-        "clicks": 0,
-        "impressions": 10,
-        "ctr": 0,
-        "position": 8.6
-      },
-      {
-        "query": "alexandra palace fireworks",
-        "clicks": 0,
-        "impressions": 2,
-        "ctr": 0,
-        "position": 3.5
-      },
-      {
-        "query": "alexandra palace fireworks 2026",
-        "clicks": 0,
-        "impressions": 29,
-        "ctr": 0,
-        "position": 9.7
-      },
-      {
-        "query": "alexandra palace fireworks 2026 dates",
-        "clicks": 0,
-        "impressions": 22,
-        "ctr": 0,
-        "position": 9.6
-      },
-      {
-        "query": "all day dim sum chinatown",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 11
-      },
-      {
-        "query": "all day london underground pass",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 6
-      },
-      {
-        "query": "all day tube ticket",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 22
-      },
-      {
-        "query": "all day underground ticket",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 14
-      },
-      {
-        "query": "all zone travel card",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 1
-      },
-      {
-        "query": "all zones",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 29
-      },
-      {
-        "query": "ally pally bonfire night",
-        "clicks": 0,
-        "impressions": 2,
-        "ctr": 0,
-        "position": 29.5
-      },
-      {
-        "query": "ally pally fireworks",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 1
-      },
-      {
-        "query": "ally pally fireworks 2026 tickets price",
-        "clicks": 0,
-        "impressions": 11,
-        "ctr": 0,
-        "position": 9.5
-      },
-      {
-        "query": "alternativas",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 11
-      },
-      {
-        "query": "alternative ways",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 5
-      },
-      {
-        "query": "am günstigsten",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 1
-      },
-      {
-        "query": "american express wimbledon tickets",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 2
-      },
-      {
-        "query": "amex presale",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 5
-      },
-      {
-        "query": "amount",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 5
-      },
-      {
-        "query": "and 2026?",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 1
-      },
-      {
-        "query": "and bus fare",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 7
-      },
-      {
-        "query": "and how much is this?",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 1
-      },
-      {
-        "query": "and london",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 5
-      },
-      {
-        "query": "and london ?",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 14
-      },
-      {
-        "query": "and tube",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 12
-      },
-      {
-        "query": "and what about 2026",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 3
-      },
-      {
-        "query": "angel islington",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 5
-      },
-      {
-        "query": "annual bus pass cost",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 5
-      },
-      {
-        "query": "annual bus pass london",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 1
-      },
-      {
-        "query": "annual bus pass price",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 5
-      },
-      {
-        "query": "annual oyster card cost",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 47
-      },
-      {
-        "query": "annual oyster card prices",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 48
-      },
-      {
-        "query": "annual tube pass cost",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 11
-      },
-      {
-        "query": "annual tube ticket",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 28
-      },
-      {
-        "query": "ano",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 3
-      },
-      {
-        "query": "ano prosím",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 2
-      },
-      {
-        "query": "any more ?",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 7
-      },
-      {
-        "query": "anything else?",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 3
-      },
-      {
-        "query": "apple pay london underground price",
-        "clicks": 0,
-        "impressions": 2,
-        "ctr": 0,
-        "position": 10.5
-      },
-      {
-        "query": "apply for wimbledon tickets",
-        "clicks": 0,
-        "impressions": 9,
-        "ctr": 0,
-        "position": 63.2
-      },
-      {
-        "query": "apply for wimbledon tickets 2025",
-        "clicks": 0,
-        "impressions": 10,
-        "ctr": 0,
-        "position": 69.3
-      },
-      {
-        "query": "apply london marathon",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 66
       }
     ]
   }

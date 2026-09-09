@@ -90,6 +90,16 @@
       "source": "/articles/greenwich-docklands-area-guide/",
       "destination": "/articles/greenwich-area-guide/",
       "permanent": true
+    },
+    {
+      "source": "/articles/best-areas-to-stay-and-visit-london",
+      "destination": "/articles/best-areas-to-stay-in-london",
+      "permanent": true
+    },
+    {
+      "source": "/articles/best-areas-to-stay-and-visit-london/",
+      "destination": "/articles/best-areas-to-stay-in-london/",
+      "permanent": true
     }
   ]
 }
