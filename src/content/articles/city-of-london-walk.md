@@ -217,6 +217,12 @@ Two proper options, and the choice is decided by the day rather than the food.
 
 **Across the bridge**, Butler's Wharf on the south bank has a run of riverside restaurants facing back at Tower Bridge, if you would rather end on the other side.
 
+**Three more from the area guide, if neither of those suits.** Worth knowing that this walk runs east and most of the City's better-known eating is west, so these need a decision rather than a detour:
+
+- **Borough Market** (£) — ten minutes over London Bridge from the Monument, and the single best answer when the Square Mile has shut for the weekend. Closest to this route of the three.
+- **One New Change** (££) — the food court behind St Paul's, and reliable on a Saturday or Sunday for exactly the reason it is dull on a Tuesday. Fifteen minutes west of Bank.
+- **Ye Olde Cheshire Cheese** (££) — rebuilt in 1667 off Fleet Street, a warren of dark rooms below street level. Not near this walk at all, and worth the twenty minutes anyway.
+
 For the rest of the City's eating — the chains that fill the gap, and the weekend problem in general — the [area guide covers it](/articles/city-of-london-area-guide/#where-to-eat-and-drink).
 
 ## The best day to go
