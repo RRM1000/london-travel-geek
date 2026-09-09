@@ -94,6 +94,10 @@ Tables release in batches and go immediately. This is the hardest vegan booking 
 
 **££££, closed Sunday and Monday, and it books weeks ahead.** Across several floors of a Soho townhouse, which makes it feel like eating in a private house.
 
+![Canapés arranged on ornate green and gold china: filled tuile rolls, crisp rice crackers topped with tomato, and celery with an orange purée](../../assets/articles/best-vegetarian-vegan-restaurants-london/gauthier-soho.jpg)
+
+*Canapés on the townhouse china, and not one animal product among them. Everything a classical French kitchen normally does with butter and eggs, done without either — which is the whole exercise here.*
+
 ---
 
 ## The institutions
@@ -108,6 +112,10 @@ The menu is drawn from everywhere at once: **gyoza, burritos, mezze, Sri Lankan 
 
 **££. Sites in Soho, Camden, Covent Garden, King's Cross and Victoria** — Soho is the original and the one worth going out of your way for. **It does not take bookings at every site; check before travelling.**
 
+![Skewers of browned, marinated pieces served over a herbed rice salad with charred tomatoes, chilli and a satay-style sauce on a pale plate](../../assets/articles/best-vegetarian-vegan-restaurants-london/mildreds.jpg)
+
+*The menu has changed constantly since 1988 and this is one plate of it. Like everything else here it is entirely plant-based, whatever it looks like on the plate.*
+
 ### Mallow, Borough Market
 
 *££ · Borough Market · entirely plant-based* · Cited by 2 sources
@@ -118,6 +126,10 @@ The signature is the **turmeric milk bread with apricot harissa butter**, which 
 
 **££ and it books ahead** at weekends. There is a second site at Canary Wharf. The Borough room is the prettier of the two by a distance.
 
+![Three bowls on weathered blue-grey wood: heritage carrots on a beetroot purée, pickled vegetables with olives, and fritters on a green herb sauce scattered with pomegranate](../../assets/articles/best-vegetarian-vegan-restaurants-london/mallow.jpg)
+
+*Not the turmeric milk bread that most tables order first — the vegetable plates that come after it, which change with the market next door.*
+
 ### The Gate, Hammersmith
 
 *£££ · 51 Queen Caroline Street* · Cited by 1 source
@@ -127,6 +139,10 @@ The signature is the **turmeric milk bread with apricot harissa butter**, which 
 That heritage is the distinguishing thing: the food draws on the family's background in Mumbai and Iraq, so expect **spiced aubergine, tamarind, pomegranate and rose** rather than risotto and halloumi. Long-standing enough that it predates almost everything else on this list.
 
 **£££ and it books ahead.** Hammersmith is the flagship, in a high-ceilinged studio space; there are sites in Islington and Marylebone.
+
+![Three crisp-fried golden cubes set along a long white plate on quinoa, with a green herb sauce and micro leaves](../../assets/articles/best-vegetarian-vegan-restaurants-london/the-gate.jpg)
+
+*Plated more formally than anything else on this list, which is part of what the £££ buys. The Gate has been cooking like this since 1989.*
 
 ### Rasa, Stoke Newington
 
@@ -160,6 +176,10 @@ That heritage is the distinguishing thing: the food draws on the family's backgr
 
 
 > 💡 **Bring your own wine.** It is unlicensed and charges no corkage, which is where the real saving lands. Pine benches, no decor — it has not changed in decades and that is the appeal.
+
+![A loaded steel thali tray holding chana, dal with peas, a beetroot dish, salad, rice, chapati and a papad](../../assets/articles/best-vegetarian-vegan-restaurants-london/diwana-thali.jpg)
+
+*The lunchtime buffet thali, which is the value order and the reason the room fills at noon.*
 
 ### Govinda's, Soho
 
@@ -196,6 +216,10 @@ Entirely vegetarian, largely vegan, and completely unbothered about whether you 
 **Seitan in a buttermilk-style batter**: burgers, wings, tenders and fries at chicken-shop prices. Seitan is wheat gluten, which fries and shreds closer to chicken than soy does — the reason this works where mock-meat rarely does.
 
 **Under £12, counter service, walk-in.** Sites across London including Hackney, Camden, Brixton, Hammersmith, Waterloo and Wood Green; **some are takeaway only**, so check before planning to sit.
+
+![Seitan tenders in a takeaway box with a dip, a burger with melted cheese and lettuce, and a tub of fried popcorn pieces in Temple of Seitan branded packaging](../../assets/articles/best-vegetarian-vegan-restaurants-london/temple-of-seitan.jpg)
+
+*Tenders, a burger and popcorn pieces in the shop's own boxes. It is the menu board of any high-street fried chicken counter with the chicken taken out of it.*
 
 ### Saravanaa Bhavan, Leicester Square
 
