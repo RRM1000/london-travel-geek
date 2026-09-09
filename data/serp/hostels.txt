@@ -1,0 +1,6 @@
+# Hostel sources, SERP-seeded 2026-09-09. All three are backpacker blogs, which
+# is the right source pool for this topic - Hostelworld is a booking engine and
+# is excluded. See data/serp/hotels.txt.
+The Broke Backpacker|https://www.thebrokebackpacker.com/best-hostels-in-london/
+Nomadic Mick|https://www.nomadicmick.com/best-hostels-in-london/
+Nomadic Matt|https://www.nomadicmatt.com/travel-blogs/best-hostels-london/

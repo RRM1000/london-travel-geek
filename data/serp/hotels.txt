@@ -1,0 +1,31 @@
+# Hotel sources, SERP-seeded 2026-09-09 per data/serp/README.md.
+#
+# Rob's rule for this corpus: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - Booking.com, Hotels.com, Expedia,
+# Tripadvisor, Agoda, Hostelworld and the rest rank by inventory and commission,
+# so a listing there says nothing about whether anyone rates the place.
+#
+# Hotels.com has one job in this pipeline and it is the opposite one: once a
+# property has been NAMED by a source here, check it exists and is bookable on
+# Hotels.com, because a property that is not cannot carry an affiliate link.
+# Validator, never a source.
+#
+# Brand sites are excluded for the same reason as the OTAs - premierinn.com
+# listing its own hotels is not a recommendation.
+
+Conde Nast Traveller UK|https://www.cntraveller.com/gallery/best-hotels-in-london
+Conde Nast Traveler US|https://www.cntraveler.com/gallery/best-hotels-in-london
+Time Out - 100 best|https://www.timeout.com/london/hotels/the-100-best-hotels-in-london
+Vogue UK|https://www.vogue.co.uk/article/best-hotels-in-london
+House and Garden|https://www.houseandgarden.co.uk/gallery/best-hotels-in-london
+Town and Country|https://www.townandcountrymag.com/leisure/travel-guide/a69034033/best-hotels-in-london-editors-picks/
+Travel and Leisure|https://www.travelandleisure.com/best-hotels-in-london-8608254
+The Hotel Guru|https://www.thehotelguru.com/best-hotels-in/united-kingdom/london
+
+# Blogs - the independents the SERP put alongside the mastheads.
+The Blonde Abroad|https://www.theblondeabroad.com/best-hotels-to-stay-at-in-london/
+Santorini Dave|https://santorinidave.com/best-places-london
+Away to the City|https://awaytothecity.com/best-places-to-stay-in-london/
+Girl on a Zebra|https://girlonazebra.com/where-to-stay-in-london/
+Ranker Blog|https://rankerblog.co.uk/blog/where-to-stay-in-london/
+Janice Rohrssen|https://janicerohrssen.com/blog/where-to-stay-and-best-hotels-london-united-kingdom

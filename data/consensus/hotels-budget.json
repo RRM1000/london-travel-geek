@@ -1,0 +1,68 @@
+{
+  "cuisine": "hotels-budget",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "Time Out - budget",
+      "url": "https://www.timeout.com/london/hotels/the-best-budget-hotels-in-london",
+      "scope": "hotels-budget",
+      "names": [
+        "Good Hotel",
+        "Generator London",
+        "One Hundred Shoreditch",
+        "The Hoxton",
+        "Bermonds Locke Hotel",
+        "Stylotel",
+        "Z Soho",
+        "The Corner London City",
+        "Hyatt Place London City East",
+        "Inhabit Southwick Street",
+        "Church Street Hotel",
+        "Ruby Zoe Hotel",
+        "The Judd Hotel",
+        "Motel One"
+      ]
+    },
+    {
+      "name": "Conde Nast Traveller - cheap",
+      "url": "https://www.cntraveller.com/gallery/best-cheap-hotels-london",
+      "scope": "hotels-budget",
+      "names": [
+        "Templeton Garden",
+        "The Lime Tree Hotel",
+        "The July",
+        "One Hundred Shoreditch",
+        "The Marylebone Hotel",
+        "The Hoxton",
+        "Bingham Riverhouse",
+        "Bermonds Locke",
+        "The Princess Royal Notting Hill",
+        "The Pilgrm",
+        "The Culpeper",
+        "High Road House"
+      ]
+    },
+    {
+      "name": "The Hotel Journal",
+      "url": "https://thehoteljournal.com/best-affordable-hotels-london-england/",
+      "scope": "hotels-budget",
+      "names": [
+        "The Fox & Goose Hotel | Ealing",
+        "The Pilgrm | Paddington",
+        "Old Ship Inn | Hackney",
+        "The Z Hotel Holborn | Holborn",
+        "The Beverley Hotel London",
+        "The Lodge Hotel Putney | Wandsworth",
+        "The Drayton Court Hotel | Ealing",
+        "Dog & Fox | Wimbledon",
+        "St. Paul’s Hotel | Hammersmith and Fulham",
+        "Staycity Aparthotels London Dalston | Hackney",
+        "London Lodge Hotel | Kensington & Chelsea",
+        "The Corner London City | Tower Hamlets",
+        "Nox Golders Green | Golders Green",
+        "Aptel East | Tower Hamlets"
+      ]
+    }
+  ]
+}

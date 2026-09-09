@@ -1,0 +1,5 @@
+# Budget hotel sources, SERP-seeded 2026-09-09. Guides and blogs only -
+# booking engines are validators, never sources. See data/serp/hotels.txt.
+Time Out - budget|https://www.timeout.com/london/hotels/the-best-budget-hotels-in-london
+Conde Nast Traveller - cheap|https://www.cntraveller.com/gallery/best-cheap-hotels-london
+The Hotel Journal|https://thehoteljournal.com/best-affordable-hotels-london-england/

@@ -1,0 +1,65 @@
+{
+  "cuisine": "hostels",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "The Broke Backpacker",
+      "url": "https://www.thebrokebackpacker.com/best-hostels-in-london/",
+      "scope": "hostels",
+      "names": [
+        "Wombats City Hostel",
+        "Onefam Notting Hill",
+        "Prime Backpackers Angel",
+        "St. Christopher’s Inn at The Village",
+        "The Walrus",
+        "Urbany Hostel London",
+        "Hostel Astor Hyde Park",
+        "Astor Victoria",
+        "Barmy Badger Backpackers",
+        "New Cross Inn",
+        "PubLove @ The Exmouth Arms",
+        "Generator Hostel",
+        "Safestay London Kensington Holland Park",
+        "Hootananny Hostel",
+        "PubLove @ The White Ferry",
+        "Sophie Steinebach",
+        "Weekly tips for traveling further and spending less"
+      ]
+    },
+    {
+      "name": "Nomadic Mick",
+      "url": "https://www.nomadicmick.com/best-hostels-in-london/",
+      "scope": "hostels",
+      "names": [
+        "Wombats City Hostel London",
+        "Astor Museum Inn",
+        "Palmers Lodge",
+        "Astor Hyde Park",
+        "St Christopher's Village",
+        "Onefam Notting Hill",
+        "Astor Victoria",
+        "Generator London",
+        "Clink261",
+        "The Walrus Hostel",
+        "Safestay at Elephant and Castle",
+        "St Christopher's Inn"
+      ]
+    },
+    {
+      "name": "Nomadic Matt",
+      "url": "https://www.nomadicmatt.com/travel-blogs/best-hostels-london/",
+      "scope": "hostels",
+      "names": [
+        "Onefam Notting Hill",
+        "Generator",
+        "Astor Hyde Park",
+        "Wombats City Hostel London",
+        "The Walrus Hostel",
+        "St. Christopher’s Village",
+        "Barmy Badger",
+        "Park Villa"
+      ]
+    }
+  ]
+}
