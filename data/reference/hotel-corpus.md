@@ -320,6 +320,50 @@ read. Where one matters - visitlondon's accessible-hotels page is the most
 specific source in that topic - read it in the browser and record the findings
 by hand, marked as such, rather than pretending the corpus saw it.
 
+## Considered and deliberately not added
+
+Recorded because a later corpus pass will find these again and the reasoning
+will not be obvious from the name.
+
+**London Backpackers, Hendon.** The single highest-scoring London hostel thread
+in the community pass is a detailed first-person harassment allegation against
+two members of staff, said to have been reported to management and the police.
+It is an unverified account by one person. We are not adding the hostel and we
+are not repeating the allegation on the site - a serious accusation about a
+named business, sourced to one anonymous post, is not something we can stand
+behind either way. If it ever earns a row it needs real evidence first.
+Note also a separate, older "London Backpackers" at Piccadilly which has since
+closed. Different property. Do not merge them.
+
+**OYO.** Named in the community pass as a chain to avoid when a listing looks
+too cheap - "dirt, noise, automatic locks that don't work and sketchy people
+hanging round". One voice, but it matches the brand's general reputation and
+there is no reason to chase it.
+
+**The No.8, Willesden Green.** One mention, negative: "the price is low but
+quality is too, poor ventilation". Also renamed - it now trades as hotelmuse.com.
+
+**St James Backpackers.** Genuinely contested on one mention each way -
+recommended once, "Avoid St James" once. Not enough either way.
+
+**Royal National Hotel.** Recommended twice inside comments carrying the same
+stay22 affiliate link with campaign parameters, one of them downvoted to -1.
+Marketing wearing traveller clothes. Recorded so it is not mistaken for a real
+recommendation next time.
+
+**Harrow Guest House and Dolphin Inn, Paddington.** One mention each, and the
+Harrow recommendation carries its own finder's caveat that it has three Google
+reviews. Too thin.
+
+Two that are NOT hostels but are the real answer to the question people were
+asking, and we have no coverage of either:
+
+- **University rooms let over the summer** - LSE Bankside House, Passfield Hall,
+  Imperial, and UniversityRooms.com as the aggregator. Four independent people.
+- **Zedwell's capsules** at Piccadilly Circus, GBP 30-45, named by five people as
+  the alternative to a dorm. We hold Zedwell rows already; what is missing is
+  the framing that puts them in front of someone searching for a hostel.
+
 ## What is still outstanding
 
 - **The Hotels.com existence check** over the multi-source candidates. Blocked
