@@ -636,6 +636,11 @@ const breadcrumbs = [
             weight: 3,
             opacity: 0.7,
             dashArray: "6 6",
+            // Leaflet simplifies polylines by default, which drops vertices that
+            // are nearly collinear at the current zoom. Every vertex here is a
+            // numbered stop, so the line has to keep all of them - on the South
+            // Bank's river bend the default quietly lost two.
+            smoothFactor: 0,
           }).addTo(map);
         }
 

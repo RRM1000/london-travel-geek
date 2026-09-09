@@ -22,6 +22,10 @@ area:
   timeNeeded: "Half a day for the full walk"
   budget: "££"
   bestDay: "Any day; Borough Market is at its fullest Wednesday to Saturday"
+  walkingRoute:
+    slug: "south-bank-walk"
+    label: "Westminster to Tower Bridge"
+    detail: "11 stops · 3km · 2–3 hours"
   bestFor:
     - River walks
     - Free galleries
@@ -234,7 +238,13 @@ Behind Waterloo station, five minutes off the tourist route and far better value
 
 **For Borough Market:** Before midday, Tuesday to Friday. Saturday is the fullest market and the hardest to move through.
 
-## Suggested walking route (west to east)
+## Walking routes
+
+**[A Walk Along the South Bank: Westminster to Tower Bridge →](/articles/south-bank-walk/)**
+
+Our full route for this area: **eleven numbered stops** over about 3km and two to three hours, with a map, a Google Maps walking link, and the day-by-day breakdown of what is open — including the fact that **Borough Market is closed on Mondays** and sits at stop nine of eleven. It also covers Leake Street, the legal graffiti tunnel five minutes off the river that almost nobody on this stretch finds.
+
+### The short version, if you only have two hours
 
 1. **Start:** Westminster station, cross **Westminster Bridge** to the **London Eye**.
 2. **Southbank Centre:** East along **Queen's Walk** past the performers and the book market.

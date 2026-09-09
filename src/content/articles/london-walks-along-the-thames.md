@@ -42,7 +42,9 @@ The classic London walk and still the best introduction to the city.
 
 **The route:** Westminster Bridge → the London Eye → Southbank Centre → the National Theatre → Gabriel's Wharf → Tate Modern → Millennium Bridge → Shakespeare's Globe → Borough Market → HMS Belfast → Tower Bridge.
 
-**Worth stopping for:** Tate Modern's free tenth-floor view, the second-hand book market under Waterloo Bridge, Forza Wine's terrace on top of the National Theatre, and Borough Market if it is a trading day.
+**Worth stopping for:** Tate Modern, the second-hand book market under Waterloo Bridge, Forza Wine's terrace on top of the National Theatre, and Borough Market — which is **closed on Mondays**.
+
+**[We have this one stop by stop →](/articles/south-bank-walk/)** — eleven numbered stops with a map, a Google Maps walking link and what is open on which day. Use that if this is the stretch you are actually walking; the rest of this page is the other six.
 
 **Detour:** cross the Millennium Bridge for St Paul's, which is the view the bridge was built to frame.
 
