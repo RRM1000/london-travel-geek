@@ -100,6 +100,10 @@ The concrete arts complex that everyone has an opinion about. The **Royal Festiv
 
 Underneath it is the **Undercroft**, London's oldest skate spot, in continuous use since the early 1970s. It was slated for redevelopment in 2013, the skaters organised, and they won — the space is now protected. **Free to watch**, and it is one of the few genuinely unstaged things on a riverfront that is otherwise very managed.
 
+![The Undercroft skate space beneath the Southbank Centre, every concrete pillar, wall and bank covered in layered graffiti, with a skater in the distance and a banked slope in the foreground](../../assets/articles/south-bank-walk/southbank-undercroft.jpg)
+
+*Every surface is painted and repainted, and none of the concrete was built for this — it is a 1960s service undercroft the skaters simply took.*
+
 ## 4. The book market under Waterloo Bridge
 
 **Second-hand books on trestle tables, under the bridge, most days of the year.** It has been there for decades and it is the only permanent outdoor book market in London.
@@ -193,6 +197,10 @@ Worth its own section because it is nothing like the rest of this walk.
 **Leake Street is a road tunnel under Waterloo station where graffiti is legal.** Banksy started it with an exhibition in 2008 and it never stopped. Around 300 metres of tunnel, walls and ceiling, repainted continuously — some of it careful, most of it not, and none of it there next month.
 
 **Free, open at all hours, and about five minutes inland** from stop 2. There are bars and food units in the arches off it now, which has made it less lawless than it was, but the tunnel itself is unchanged.
+
+![Leake Street tunnel under Waterloo station, its curved brick ceiling and both walls covered in graffiti, people walking through and standing in groups under the strip lights](../../assets/articles/south-bank-walk/leake-street-arches.jpg)
+
+*The ceiling gets painted as often as the walls. What is in this photograph has almost certainly been painted over since.*
 
 Go if you want the one part of this route that is not curated. Skip it if you are walking with small children in the evening — it is dark, loud and full of spray fumes.
 
