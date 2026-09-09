@@ -1,0 +1,41 @@
+# SERP-seeded 2026-09-09, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# DROPPED IN THIS PASS
+#   dogfriendlyhotels.co.uk - a booking engine with a blog bolted on, which is
+#     exactly the thing Rob's rule excludes. The home page is a check-in /
+#     check-out availability search, "Best price guarantee", "List your
+#     property", a phone sales line, and "As part of the Snaptrip family". The
+#     destination nav is a complete UK grid (/devon/, /cornwall/, /london/,
+#     /lake-district/ ...) with theme templates (/spa/, /luxury/, /coastal/).
+#     No author on the article, no author metadata anywhere on the site. The
+#     ten hotels it names are its own bookable inventory, so the list ranks by
+#     what it can sell.
+#
+# KEPT AFTER VETTING
+#   travellingking.com - a real independent blog. Named human (Samantha King,
+#     with an author box, a book, and an Instagram following), a guest byline
+#     (Angelica Peralta), 2,311 words, ten items - not a 4-7 template. Caveat
+#     worth carrying: it is desk-written from the hotels' published pet
+#     policies rather than from stays, and every entry ends in a booking.com
+#     affiliate link. The policy detail it gives is specific and checkable
+#     (£100 per stay per dog at The Langham, £20 per pet per night at Royal
+#     Lancaster), so it is a usable voice, not filler.
+
+The Times|https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/best-dog-friendly-hotels-in-london-qflx2clx2
+The Handbook|https://www.thehandbook.com/londons-best-dog-friendly-hotels/
+Ikon London Magazine|https://www.ikonlondonmagazine.com/dog-friendly-hotels-london-nearby/
+
+# Blogs
+Travelling King|https://www.travellingking.com/dog-friendly-hotels-in-london/

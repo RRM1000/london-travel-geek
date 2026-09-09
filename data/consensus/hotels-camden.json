@@ -1,0 +1,103 @@
+{
+  "cuisine": "hotels-camden",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-camden",
+      "scope": "hotels-camden",
+      "names": [
+        "Camden Lock Hotel",
+        "St Christopher's Inn Camden",
+        "York & Albany Hotel",
+        "Gir Lion Lodge at London Zoo"
+      ]
+    },
+    {
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/north-west/camden/hotels/",
+      "scope": "hotels-camden",
+      "names": [],
+      "error": "HTTP 402"
+    },
+    {
+      "name": "Candace Abroad",
+      "url": "https://candaceabroad.com/hotels-in-camden-town/",
+      "scope": "hotels-camden",
+      "names": [
+        "Holiday Inn Camden Lock",
+        "Camden Enterprise Hotel & Pub",
+        "The Wesley Camden Town",
+        "Hub by Premier Inn London Camden",
+        "London Marriot Hotel Regent’s Park"
+      ]
+    },
+    {
+      "name": "First Time in London",
+      "url": "https://firsttimeinlondon.com/camden-town/",
+      "scope": "hotels-camden",
+      "names": [
+        "Uber Boat By Thames Clippers",
+        "Iconic UK Train Gets Outlander Special Menu Makeover",
+        "London Basics",
+        "4 minute read",
+        "Camden Markets",
+        "hidden gems",
+        "London Culture",
+        "April 13",
+        "August 13",
+        "July 8",
+        "June 9",
+        "June 2026",
+        "May 2026",
+        "April 2026",
+        "March 2026",
+        "February 2026",
+        "January 2026",
+        "December 2025",
+        "August 2025",
+        "July 2025",
+        "June 2025",
+        "May 2025",
+        "April 2025",
+        "March 2025",
+        "February 2025",
+        "June 17",
+        "June 16",
+        "Concerts & Music",
+        "June 15",
+        "June 14",
+        "Camden Town tube station",
+        "Camden Lock Market",
+        "Scenic walks",
+        "Northern Line",
+        "Regent’s Canal",
+        "shopping area",
+        "eclectic mix",
+        "vintage clothing",
+        "unique art",
+        "Camden Market",
+        "global food choices",
+        "Poppies Fish & Chips",
+        "guided pub crawls",
+        "peaceful break",
+        "houseboats",
+        "street art",
+        "London skyline",
+        "comfortable temperatures",
+        "avoid congestion",
+        "free parking",
+        "parking restrictions",
+        "high overall crime rate",
+        "exercise caution",
+        "safety concerns",
+        "keep them on a leash",
+        "less crowded times",
+        "pets’ safety",
+        "women’s toilets",
+        "free toilets"
+      ]
+    }
+  ]
+}

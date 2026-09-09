@@ -1,0 +1,67 @@
+{
+  "cuisine": "hotels-accessible",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk/travel/uk/england/london/best-wheelchair-accessible-hotels-london-b3010299.html",
+      "scope": "hotels-accessible",
+      "names": [
+        "Copthorne Tara Kensington hotel",
+        "Park Plaza London Westminster Bridge hotel",
+        "The Londoner hotel",
+        "Hyatt Regency London Blackfriars hotel",
+        "Mercure London Earl’s Court hotel",
+        "The Standard London hotel",
+        "Sofitel London St James"
+      ]
+    },
+    {
+      "name": "Wheelchair Travel",
+      "url": "https://wheelchairtravel.org/london-hotels/",
+      "scope": "hotels-accessible",
+      "names": [
+        "DoubleTree by Hilton London ExCel",
+        "Holiday Inn Express London City",
+        "Holiday Inn Express London - Southwark",
+        "Holiday Inn London",
+        "Hyatt Place West London/Hayes",
+        "InterContinental London - The O2",
+        "InterContinental London Park Lane",
+        "JW Marriott Grosvenor House",
+        "Le Meridien Piccadilly",
+        "The London EDITION",
+        "London Heathrow Marriott Hotel",
+        "London Marriott Hotel County Hall",
+        "London Marriott Hotel West India Quay",
+        "Mercure London Bridge",
+        "Novotel London Blackfriars",
+        "Park Plaza County Hall London",
+        "Radisson Blu Edwardian Hampshire Hotel",
+        "Radisson Blu Edwardian Mercer Street Hotel",
+        "Residence Inn by Marriott London Bridge",
+        "Sofitel London St. James",
+        "The Trafalgar St. James London by Hilton",
+        "The Waldorf Hilton",
+        "W London Leicester Square"
+      ]
+    },
+    {
+      "name": "Wheel the World",
+      "url": "https://blog.wheeltheworld.com/accessible-hotels-london/",
+      "scope": "hotels-accessible",
+      "names": [
+        "nhow London",
+        "Canopy by Hilton London City",
+        "Pan Pacific London",
+        "The Gate ApartHotel London",
+        "Taj 51 Buckingham Gate Suites and Residences",
+        "Pestana Chelsea Bridge Hotel",
+        "The Londoner",
+        "Yotel London Shoreditch",
+        "Holiday Inn London Heathrow - Bath Road"
+      ]
+    }
+  ]
+}

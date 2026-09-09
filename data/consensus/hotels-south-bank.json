@@ -1,0 +1,46 @@
+{
+  "cuisine": "hotels-south-bank",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "Anywhere We Roam",
+      "url": "https://anywhereweroam.com/where-to-stay-south-bank/",
+      "scope": "hotels-south-bank",
+      "names": [
+        "NOX Waterloo",
+        "ibis London Blackfriars",
+        "Point A Hotel London Westminster",
+        "London Bridge Hotel",
+        "The Mad Hatter",
+        "Hilton London Tower Bridge",
+        "Sea Containers London",
+        "Bankside Hotel, Autograph Collection",
+        "Shangri-La The Shard"
+      ],
+      "handRecorded": true,
+      "note": "Hotel names recorded by hand on 2026-09-09: this page puts them in markup consensus.mjs never reaches (its heading-only path short-circuits on 8+ surviving nav headings), so the fetched array was all furniture. Read off the saved HTML and checked by eye."
+    },
+    {
+      "name": "Santorini Dave",
+      "url": "https://santorinidave.com/south-bank-hotels",
+      "scope": "hotels-south-bank",
+      "names": [
+        "London Marriott Hotel County Hall",
+        "Park Plaza Westminster Bridge",
+        "Park Plaza County Hall",
+        "Marlin Waterloo",
+        "Ruby Lucy Hotel London",
+        "H10 London Waterloo",
+        "ibis London Blackfriars",
+        "Sea Containers London",
+        "Hilton London Bankside",
+        "Shangri-La Hotel at The Shard",
+        "Novotel London Bridge",
+        "London Bridge Hotel"
+      ],
+      "handRecorded": true,
+      "note": "Hotel names recorded by hand on 2026-09-09: this page puts them in markup consensus.mjs never reaches (its heading-only path short-circuits on 8+ surviving nav headings), so the fetched array was all furniture. Read off the saved HTML and checked by eye."
+    }
+  ]
+}

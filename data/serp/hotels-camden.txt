@@ -1,0 +1,49 @@
+# SERP-seeded 2026-09-09 via the browser, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# THIN. Three searches ("where to stay in camden london hotels blog", "camden
+# town london best hotels where to stay blogger", "\"where to stay in camden\"
+# london hotels hostels guide") returned the same seven or eight results every
+# time, and all but three of them were farms. Camden's SERP is almost entirely
+# machine-written.
+#
+# DROPPED HERE, and why:
+#   blogdowntown.com - the SERP URL /en/explore/central-hotels-camden-london/
+#     answers HTTP 404. The domain root is a dormant Los Angeles neighbourhood
+#     blog, "blogdowntown: Life in Downtown Los Angeles", whose newest posts
+#     are from 2012 and which has no London content anywhere. The London hotel
+#     path is a graft onto an expired domain, and it is not even live.
+#   taglinetoday.com - Amazon-affiliate content mill. Its archive is car
+#     console organisers, clutch pedal bushings, air fresheners and cat
+#     nutrition, with travel bolted on as a category grid by US state. Nobody
+#     at that site has been to Camden.
+#   uniquehotels.me, small-hotels-guide.com, travelstay.com - the <city>_<area>
+#     aggregator shape (travelstay.com is a booking engine besides), same
+#     family as luxuryhotel.guide and boutiquehotel.guru above.
+#
+# NOT SEEDED because seed-sources.mjs refuses it and rightly so:
+#   visitlondon.com/things-to-do/london-areas/camden-town/where-to-stay - on
+#   the permanent403 list in data/sources.json. It ranks on every Camden query,
+#   so it is worth reading through the browser one day, same treatment as
+#   Londonist.
+#
+# The Telegraph answers curl with HTTP 402 (paywall) and returns zero names,
+# as it does in every other area corpus. Kept for the audit trail.
+
+Time Out|https://www.timeout.com/london/hotels/the-best-hotels-in-camden
+The Telegraph|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/north-west/camden/hotels/
+
+# Blogs
+Candace Abroad|https://candaceabroad.com/hotels-in-camden-town/
+First Time in London|https://firsttimeinlondon.com/camden-town/

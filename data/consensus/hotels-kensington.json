@@ -1,0 +1,44 @@
+{
+  "cuisine": "hotels-kensington",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/kensington/hotels/",
+      "scope": "hotels-kensington",
+      "names": [],
+      "error": "HTTP 402"
+    },
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-kensington",
+      "scope": "hotels-kensington",
+      "names": [
+        "The Franklin Hotel",
+        "Blakes",
+        "Number Sixteen",
+        "Gore",
+        "Milestone Hotel Kensington",
+        "The Kensington Hotel",
+        "The Ampersand Hotel",
+        "Royal Garden Hotel",
+        "Cheval Gloucester Park",
+        "Millennium Bailey's Hotel London Kensington"
+      ]
+    },
+    {
+      "name": "Candace Abroad",
+      "url": "https://candaceabroad.com/hotels-in-kensington/",
+      "scope": "hotels-kensington",
+      "names": [
+        "Ampersand Hotel",
+        "Number Sixteen",
+        "The Resident Kensington",
+        "Milestone Hotel Kensington",
+        "Baglioni Hotel London",
+        "The Ampersand Hotel"
+      ]
+    }
+  ]
+}

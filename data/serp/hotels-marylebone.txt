@@ -1,0 +1,43 @@
+# SERP-seeded 2026-09-09 via the browser, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# DROPPED at this pass (9 Sept 2026):
+#   marylebone-london.uk - a paid business directory, not a guide. "The original
+#   Marylebone London directory, est. 2024", run by Teksyte Ltd, selling Bronze/
+#   Silver/Gold listing packages, banners, and - decisively - "Sponsored Blog
+#   Post ... promotional content with anchor text linking to your webpage,
+#   permanent publication". A hotel is on that site because it bought a listing.
+#   That is the commission problem the whole corpus rule exists to exclude, and
+#   worse than a booking engine because the payment is not disclosed on the list
+#   itself. The masthead of section "editors" around a Teksyte directory reads
+#   as generated too.
+#
+# KEPT after vetting:
+#   londoninfoguide.com - a real two-man site, not a farm. Benjamin and Albert
+#   Magro, brothers from Malta, publishing on Solo Build It since 2012 (their
+#   first site was maltainfoguide.com), own watermarked photographs, seven
+#   London visits. The Marylebone page is an uneven hand-written ten with an
+#   insider aside, and it reaches for small independents (Ten Manchester Street,
+#   Montagu Place, The Leonard) that a template would not. Caveat: it carries
+#   Booking.com affiliate links and a Stay22 map, so the monetisation is real -
+#   but that is true of every blogger in the corpus, and the LIST is editorial.
+
+Time Out|https://www.timeout.com/london/hotels/the-best-hotels-in-marylebone
+The Telegraph|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/west-end/marylebone/hotels/
+The Independent|https://www.independent.co.uk/travel/uk/england/london/marylebone-guide-hotels-restaurants-shops-b2946319.html
+Santorini Dave|https://santorinidave.com/marylebone-hotels
+
+# Blogs
+Anywhere We Roam|https://anywhereweroam.com/where-to-stay-marylebone/
+London Info Guide|https://www.londoninfoguide.com/best-hotels-in-marylebone-london.html

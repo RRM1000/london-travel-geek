@@ -1,0 +1,39 @@
+# SERP-seeded 2026-09-09 via the browser, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# DROPPED at this pass (9 Sept 2026):
+#   trillionairedaily.com - AI farm. Its own schema wires "noBylinesPolicy" to
+#   an /ai-disclosure page whose text says the site "uses AI as a research and
+#   drafting tool". Founded 2026, one byline (Joey Sendz) over ~60 hotel guides
+#   published inside a year, and the Mayfair page is one cell in a completed
+#   global grid: best-hotels-in-tokyo, best-hotels-in-italy, best-hotel-suites-
+#   nyc, best-caribbean-beach-resorts, plus an "X vs Y" comparison for every
+#   luxury brand pair.
+#
+# KEPT after vetting:
+#   thehotelguru.com - it does run a global hotel database, but at a different
+#   URL namespace: /best-hotels-in/<country>/<city> is the generated grid (the
+#   Prague and Tokyo pages there carry no author), while /best-hotels/<slug> is
+#   hand-curated and this Mayfair page is bylined to Kat Parr Mackintosh, with
+#   editorial framings ("For a grand dame", "For a shopping spree") rather than
+#   a ranked dump. Only ever seed the curated /best-hotels/ pages.
+
+Time Out|https://www.timeout.com/london/hotels/the-best-hotels-in-mayfair
+Conde Nast Traveller|https://www.cntraveller.com/gallery/best-hotels-in-mayfair-london
+Conde Nast Traveler (US)|https://www.cntraveler.com/gallery/best-hotels-in-mayfair-londons-chicest-corner
+The Telegraph|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/west-end/mayfair/hotels/
+The Hotel Guru|https://www.thehotelguru.com/best-hotels/united-kingdom/london-mayfair
+
+# Blogs
+Candace Abroad|https://candaceabroad.com/mayfair-hotels-london-where-to-stay-in-mayfair/

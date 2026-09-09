@@ -1,0 +1,56 @@
+# SERP-seeded 2026-09-09 via the browser, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# DROPPED on this pass, with the tell that decided it:
+#   stayheredothat.blogspot.com - PAID PLACEMENT, not a blog. Its "Feature Your
+#     Airbnb" page offers hosts a written area guide with their listing "woven
+#     in naturally as the place to stay" ("features will become a paid service").
+#     A name on the page is a customer. Supporting tells: a complete world grid
+#     (London/Tokyo/Dubai/Bali/NYC/Singapore/Toronto/Dublin/Vancouver/Seoul/
+#     Maui/Chiang Mai/Cape Town/KL, "50+ destination guides"), six near-identical
+#     jet-lag posts all dated 17 Dec 2025 sharing one H2 skeleton, and a self-
+#     description that names the purpose outright: "Every guide blends SEO, AEO,
+#     and GEO best practices". Byline "E Leasum", writing from California.
+#   stow-away.co.uk - Stow-Away is itself a Waterloo hotel. Brand site, same
+#     rule as premierinn.com.
+#
+# JUDGEMENT ON THE RECORD: visitlondon.com is London & Partners, the city's
+# official tourism body, and as an ORGANISATION it is editorial rather than an
+# aggregator. THIS PAGE IS NOT. It 403s curl and WebFetch, so it was opened in
+# the browser - and what loads is a bookable inventory widget, not a guide:
+# Prices / User Ratings / Category / Sort by filters over a List-or-Map of 15
+# properties, every row carrying a Tripadvisor star image served from
+# Tripadvisor's own CDN (c1.tacdn.com) with a rating count, a "From £xxx.xx"
+# price and a Book now / Book Direct button, and booking.com among the outbound
+# hosts. There is no editorial prose about any property. That is precisely what
+# the founding rule refuses - it ranks by inventory and commission, and a
+# Tripadvisor rating is the exact signal the rule calls worthless. Recording
+# these fifteen names as "Visit London says so" would manufacture consensus out
+# of a booking feed.
+#
+#   NOT USED: https://www.visitlondon.com/things-to-do/london-areas/south-bank/where-to-stay
+#
+# The domain is not condemned - only this page shape. A genuinely editorial
+# Visit London page should still count.
+#
+# THIS IS THEREFORE A THIN CORPUS, AND WAS NOT PADDED. Two sources. Time Out has
+# no South Bank or Waterloo hotels page (all four slug forms 404). Searches of
+# the sitemaps of candaceabroad.com, loveandlondon.com, sunnyinlondon.com,
+# tjtakesthetrain.com and thelondonmother.net found no South Bank stay guide;
+# allaroundlondon.com now 403s every path, including its sitemap. The thinness
+# is real, not a blocked fetcher.
+
+# Blogs
+Anywhere We Roam|https://anywhereweroam.com/where-to-stay-south-bank/
+Santorini Dave|https://santorinidave.com/south-bank-hotels

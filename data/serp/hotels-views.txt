@@ -1,0 +1,57 @@
+# SERP-seeded 2026-09-09, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# EXTRACTION WARNING FOR THIS TOPIC: a rooftop guide names the Shard, St
+# Paul's, the London Eye, the Gherkin, Tower Bridge and Big Ben in nearly
+# every paragraph and not one of them is a hotel. The landmark filter in the
+# diff script has to be wider here than on the area corpora. "Shangri-La The
+# Shard" IS a hotel and must survive that filter.
+#
+# DROPPED IN THIS PASS: none. Both flagged domains vetted clean.
+#
+# KEPT AFTER VETTING
+#   juliasomething.com - a real independent blog. Named human (Iulia Vasile)
+#     with an author archive, and first-hand reporting elsewhere on the site
+#     ("Real-World Tested in Wales, Scotland & the Outer Hebrides"). 2,405
+#     words, 31 hotels - nothing like a 4-7 item template. Caveat: it is a
+#     broad SEO-structured roundup, grouped under keyword headings ("Hotels
+#     with view of London Eye", "Hotels in London with balcony"), not a tight
+#     curated list, so it names a lot of hotels cheaply. It is one domain and
+#     therefore one vote, which is the right weight for it.
+#   thehotelguru.com - the weakest keeper here, and kept deliberately. It has
+#     the aggregator URL shape (/best-hotels/<country>/<city>-<category>) and
+#     a currency selector over affiliate booking links, which is the pattern
+#     that got luxuryhotel.guide and boutiquehotel.guru excluded. The
+#     difference is that there are ~29 named "Gurus" with profile pages, and
+#     they are checkable working travel journalists - Fiona Duncan, Kat Parr
+#     Mackintosh (who wrote this page), Nicky Swallow - writing actual prose
+#     with a stated selection basis. Names, not a database with a stylesheet.
+#     Treat as a tier-C voice: real, but commercially shaped.
+#   therooftopguide.com - a single-subject specialist site, named author with
+#     an about page (Hans Ebenman), 3,466 words, 11 items, each split into a
+#     "Hotel" and a "Rooftop" section. Note the URL says 7 and the page says
+#     11; it has been updated since publication.
+#
+# NOTE: guide.michelin.com is registered blocked in data/sources.json (403s
+# the fetcher). seed-sources refuses it at the door. The URL is kept live
+# below so the refusal shows up in every run rather than being quietly lost.
+
+Michelin Guide|https://guide.michelin.com/ie/en/article/travel/london-hotels-with-stunning-rooftops
+The Telegraph|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/best-hotel-rooftops-london/
+DesignMyNight|https://www.designmynight.com/london/hotels-with-a-view-in-london
+The Hotel Guru|https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotel-views
+
+# Specialists and blogs
+The Rooftop Guide|https://www.therooftopguide.com/rooftop-news/7-great-hotels-with-rooftop-in-london.html
+JuliaSomething|https://juliasomething.com/best-hotels-in-london-with-a-view/

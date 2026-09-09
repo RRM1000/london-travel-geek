@@ -1,0 +1,22 @@
+{
+  "cuisine": "hotels-fitzrovia",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-fitzrovia",
+      "scope": "hotels-fitzrovia",
+      "names": [
+        "Charlotte Street Hotel",
+        "Sanderson",
+        "YHA London Central",
+        "Myhotel Bloomsbury",
+        "Hazlitt's",
+        "London Edition",
+        "Hub by Premier Inn London Goodge Street",
+        "Fitzrovia Belle"
+      ]
+    }
+  ]
+}

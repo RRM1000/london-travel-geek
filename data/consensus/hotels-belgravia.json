@@ -1,0 +1,69 @@
+{
+  "cuisine": "hotels-belgravia",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/belgravia/hotels/",
+      "scope": "hotels-belgravia",
+      "names": [],
+      "error": "HTTP 402"
+    },
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-belgravia",
+      "scope": "hotels-belgravia",
+      "names": [
+        "Astors",
+        "B+B Belgravia",
+        "The Berkeley",
+        "The Halkin"
+      ]
+    },
+    {
+      "name": "Sothebys Journal",
+      "url": "https://blog.sothebysrealty.co.uk/the-journal/the-best-hotels-in-belgravia",
+      "scope": "hotels-belgravia",
+      "names": [
+        "The Goring Hotel",
+        "The Carlton Tower Jumeirah",
+        "The Hari",
+        "COMO The Halkin"
+      ]
+    },
+    {
+      "name": "LuxuryUK",
+      "url": "https://luxuryuk.com/london-hotels-in-belgravia/",
+      "scope": "hotels-belgravia",
+      "names": [
+        "The Berkeley",
+        "The Berkely Hotel",
+        "11 Cadogan Gardens",
+        "The Goring Hotel",
+        "The Hari London",
+        "The Hari",
+        "The Carlton Tower Jumeirah",
+        "The Cadogan",
+        "COMO The Halkin",
+        "The Halkin",
+        "Lime Tree Hotel",
+        "The Orange Public House & Hotel"
+      ]
+    },
+    {
+      "name": "Belgravia Village",
+      "url": "https://www.belgravialdn.com/stories/the-best-hotels-in-belgravia",
+      "scope": "hotels-belgravia",
+      "names": [
+        "Lime Tree Hotel",
+        "The Berkeley",
+        "The Goring",
+        "The Hari",
+        "The Lanesborough"
+      ],
+      "handRecorded": true,
+      "note": "Hotel names recorded by hand on 2026-09-09: this page puts them in markup consensus.mjs never reaches (its heading-only path short-circuits on 8+ surviving nav headings), so the fetched array was all furniture. Read off the saved HTML and checked by eye."
+    }
+  ]
+}

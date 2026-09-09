@@ -1,6 +1,6 @@
 {
  "generated": "2026-09-09",
- "count": 149,
+ "count": 155,
  "hotels": [
   {
    "slug": "astor-hyde-park",
@@ -1807,6 +1807,36 @@
    "affiliateNetwork": "cj"
   },
   {
+   "slug": "the-resident-victoria",
+   "name": "The Resident Victoria",
+   "propertyType": "hotel",
+   "style": "Small rooms with a proper mini-kitchen in each",
+   "brand": "the-resident",
+   "chainType": "mini-chain",
+   "starRating": "4",
+   "area": "Victoria",
+   "borough": "Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "10 Palace Place",
+   "postcode": "SW1E 5BW",
+   "priceBand": "££",
+   "whyGo": "Every room has a mini-kitchen with a hob, microwave and fridge, which turns a Victoria stopover into something you can eat breakfast in - on a quiet side street off Palace Street rather than the coach-station end.",
+   "opNote": "Three domains in the Westminster corpus. The kitchens are the reason it keeps being recommended for longer stays and for families avoiding restaurant bills.",
+   "goodFor": [
+    "families",
+    "long-stay",
+    "budget",
+    "business"
+   ],
+   "lists": [
+    "best-value",
+    "families"
+   ],
+   "website": "https://www.residenthotels.com/"
+  },
+  {
    "slug": "z-hotel-covent-garden",
    "name": "The Z Hotel Covent Garden",
    "propertyType": "hotel",
@@ -2326,6 +2356,34 @@
     "long-stay",
     "aparthotels"
    ]
+  },
+  {
+   "slug": "conrad-london-st-james",
+   "name": "Conrad London St James",
+   "propertyType": "hotel",
+   "style": "Edwardian bank conversion a minute from St James's Park",
+   "brand": "hilton",
+   "chainType": "chain",
+   "starRating": "5",
+   "area": "Westminster",
+   "borough": "Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "22-28 Broadway",
+   "postcode": "SW1H 0BH",
+   "priceBand": "£££",
+   "whyGo": "On Broadway between St James's Park and Westminster Abbey - a working government quarter that empties at the weekend, which is exactly when a visitor wants it.",
+   "opNote": "Four domains in the Westminster corpus, the highest anything reached there. Hilton Honors applies.",
+   "goodFor": [
+    "business",
+    "couples",
+    "first-time"
+   ],
+   "lists": [
+    "luxury"
+   ],
+   "website": "https://www.hilton.com/en/hotels/lonclci-conrad-london-st-james/"
   },
   {
    "slug": "courthouse-hotel-soho",
@@ -3472,6 +3530,34 @@
    "website": "https://themegarohotel.co.uk/"
   },
   {
+   "slug": "montague-on-the-gardens",
+   "name": "The Montague on the Gardens",
+   "propertyType": "hotel",
+   "style": "Georgian townhouse with a garden terrace, beside the British Museum",
+   "brand": "red-carnation",
+   "chainType": "mini-chain",
+   "starRating": "4",
+   "area": "Bloomsbury",
+   "borough": "Camden",
+   "guide": "bloomsbury-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "15 Montague Street",
+   "postcode": "WC1B 5BJ",
+   "priceBand": "£££",
+   "whyGo": "Next door to the British Museum, with a raised garden terrace over a private square - Bloomsbury's one hotel that makes something of the garden squares rather than just sitting among them.",
+   "opNote": "Three domains in the Bloomsbury corpus, the only property to reach three there, and named again in the dog-friendly pass. Red Carnation, so the same group as The Rubens and The Milestone, both already ours.",
+   "goodFor": [
+    "couples",
+    "families",
+    "first-time"
+   ],
+   "lists": [
+    "families"
+   ],
+   "website": "https://www.montaguehotel.com/"
+  },
+  {
    "slug": "the-newman",
    "name": "The Newman",
    "propertyType": "boutique",
@@ -4248,6 +4334,34 @@
    "website": "https://www.claridges.co.uk/"
   },
   {
+   "slug": "como-the-halkin",
+   "name": "COMO The Halkin",
+   "propertyType": "hotel",
+   "style": "Belgravia townhouse, Armani-uniformed, Thai kitchen",
+   "brand": "como",
+   "chainType": "mini-chain",
+   "starRating": "5",
+   "area": "Belgravia",
+   "borough": "Westminster",
+   "guide": "belgravia-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Halkin Street",
+   "postcode": "SW1X 7DJ",
+   "priceBand": "££££",
+   "whyGo": "COMO's first hotel, on a Belgravia side street, with Ametsa - a Basque kitchen with a Michelin star - on the ground floor and only forty-one rooms above it.",
+   "opNote": "Three domains once the two spellings are treated as one hotel: sources write it as both \"The Halkin\" and \"COMO The Halkin\", which the extractor scored as two separate properties at two domains each. Same building, verified.",
+   "goodFor": [
+    "couples",
+    "business"
+   ],
+   "lists": [
+    "luxury",
+    "boutique"
+   ],
+   "website": "https://www.comohotels.com/"
+  },
+  {
    "slug": "corinthia-london",
    "name": "Corinthia London",
    "propertyType": "hotel",
@@ -4312,6 +4426,35 @@
     "boutique"
    ],
    "website": "https://www.firmdalehotels.com/hotels/london/covent-garden-hotel/"
+  },
+  {
+   "slug": "four-seasons-park-lane",
+   "name": "Four Seasons Hotel London at Park Lane",
+   "propertyType": "hotel",
+   "style": "Eleven storeys above Hyde Park Corner, spa on the roof",
+   "brand": "four-seasons",
+   "chainType": "chain",
+   "starRating": "5",
+   "area": "Mayfair",
+   "borough": "Westminster",
+   "guide": "mayfair-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Hamilton Place, Park Lane",
+   "postcode": "W1J 7DR",
+   "priceBand": "££££",
+   "whyGo": "The rooftop spa is the thing - a glass box on the tenth floor looking over Hyde Park, which almost no London hotel can offer because almost none has the height in Mayfair.",
+   "opNote": "The most-named property of the whole second pass: four domains in the Mayfair corpus and a mention in five others. Not to be confused with Four Seasons at Tower Bridge, which is a separate hotel and only reached two.",
+   "goodFor": [
+    "couples",
+    "families",
+    "business",
+    "celebration"
+   ],
+   "lists": [
+    "luxury"
+   ],
+   "website": "https://www.fourseasons.com/london/"
   },
   {
    "slug": "ham-yard-hotel",
@@ -5103,6 +5246,33 @@
     "luxury"
    ],
    "website": "https://www.landmarklondon.co.uk/"
+  },
+  {
+   "slug": "the-lanesborough",
+   "name": "The Lanesborough",
+   "propertyType": "hotel",
+   "style": "Regency, Hyde Park Corner, butler service",
+   "brand": "oetker",
+   "chainType": "mini-chain",
+   "starRating": "5",
+   "area": "Knightsbridge",
+   "borough": "Westminster",
+   "zone": "1",
+   "district": "West",
+   "address": "Hyde Park Corner",
+   "postcode": "SW1X 7TA",
+   "priceBand": "££££",
+   "whyGo": "A Regency hospital turned hotel on Hyde Park Corner, with butler service on every floor and a spa in the basement - the most formal of the London grande dames, and it means it.",
+   "opNote": "Three domains in the luxury corpus, two in the family one, plus two first-hand accounts on r/FATTravel: \"The Lanesborough for sure. Magical!\" and a longer one praising the service, the gym and the steam room while admitting \"the decor is not my style\".",
+   "goodFor": [
+    "couples",
+    "celebration",
+    "business"
+   ],
+   "lists": [
+    "luxury"
+   ],
+   "website": "https://www.oetkercollection.com/hotels/the-lanesborough/"
   },
   {
    "slug": "the-langham-london",

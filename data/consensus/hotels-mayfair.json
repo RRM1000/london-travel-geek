@@ -1,0 +1,106 @@
+{
+  "cuisine": "hotels-mayfair",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-mayfair",
+      "scope": "hotels-mayfair",
+      "names": [
+        "1 Hotel Mayfair",
+        "Four Seasons Hotel London at Park Lane",
+        "Claridge's",
+        "The Dorchester",
+        "The Twenty Two",
+        "Nobu Hotel Portman Square",
+        "No.5 Maddox Street",
+        "Brown's",
+        "Connaught",
+        "Flemings Hotel & Apartments"
+      ]
+    },
+    {
+      "name": "Conde Nast Traveller",
+      "url": "https://www.cntraveller.com/gallery/best-hotels-in-mayfair-london",
+      "scope": "hotels-mayfair",
+      "names": [
+        "Claridge's",
+        "The Connaught",
+        "Mandarin Oriental Mayfair",
+        "The Mayfair Townhouse",
+        "The Chancery Rosewood",
+        "The Dorchester",
+        "1 Hotel Mayfair",
+        "Brown's Hotel",
+        "The Twenty Two",
+        "Montcalm Mayfair",
+        "The Beaumont Mayfair",
+        "Four Seasons Hotel Park Lane",
+        "The Ritz London",
+        "The Biltmore"
+      ]
+    },
+    {
+      "name": "Conde Nast Traveler (US)",
+      "url": "https://www.cntraveler.com/gallery/best-hotels-in-mayfair-londons-chicest-corner",
+      "scope": "hotels-mayfair",
+      "names": [
+        "Claridge's",
+        "The Connaught",
+        "Mandarin Oriental Mayfair",
+        "The Mayfair Townhouse",
+        "The Chancery Rosewood",
+        "The Dorchester",
+        "1 Hotel Mayfair",
+        "Brown's Hotel",
+        "The Twenty Two",
+        "Montcalm Mayfair",
+        "Four Seasons Hotel London at Park Lane",
+        "The Beaumont",
+        "The Ritz London",
+        "The Biltmore Mayfair"
+      ]
+    },
+    {
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/west-end/mayfair/hotels/",
+      "scope": "hotels-mayfair",
+      "names": [],
+      "error": "HTTP 402"
+    },
+    {
+      "name": "The Hotel Guru",
+      "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-mayfair",
+      "scope": "hotels-mayfair",
+      "names": [
+        "Claridge's",
+        "The Connaught Hotel",
+        "Brown's Hotel",
+        "COMO Metropolitan London",
+        "No 5 Maddox Street",
+        "The Dorchester",
+        "45 Park Lane",
+        "The Beaumont",
+        "The Mayfair Townhouse",
+        "Native Mayfair",
+        "The Twenty Two",
+        "Four Seasons Hotel London at Park Lane",
+        "Flemings Mayfair",
+        "1 Hotel Mayfair"
+      ]
+    },
+    {
+      "name": "Candace Abroad",
+      "url": "https://candaceabroad.com/mayfair-hotels-london-where-to-stay-in-mayfair/",
+      "scope": "hotels-mayfair",
+      "names": [
+        "The Beaumont",
+        "The Chesterfield",
+        "Duke’s",
+        "Four Seasons",
+        "The Connaught"
+      ]
+    }
+  ]
+}

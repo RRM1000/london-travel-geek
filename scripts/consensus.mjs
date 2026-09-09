@@ -127,8 +127,22 @@ const isHeadline = (t) => HEADLINE_VERB.test(t) || t.split(/\s+/).length >= 9;
 
 // A trailing plural common noun is a section label, never a venue name:
 // "The Guide's longest-standing restaurants", "Guide comparisons and analysis".
+//
+// The hotel words were missing until 2026-09-09 and it cost a lot. Santorini
+// Dave heads his hotel pages "Grand Luxury Hotels", "Boutique and Character
+// Hotels", "Mid-Range and Smart Value Hotels" and puts the actual names in
+// <strong>. Those three counted as venues, which - with the transport headings
+// below - took the surviving-heading count to eleven, cleared the fallback gate
+// in extractNames, and meant the <strong> harvest never ran. Nine hotels
+// recorded as zero, on a source that appears in six corpora.
 const SECTION_LABEL =
-  /\b(restaurants|bars|pubs|gastropubs|cafes|spots|picks|openings|places|venues|guides|lists|awards|winners|comparisons|analysis|recommendations|guide)\s*$/i;
+  /\b(restaurants|bars|pubs|gastropubs|cafes|spots|picks|openings|places|venues|guides|lists|awards|winners|comparisons|analysis|recommendations|guide|hotels|hostels|stays|rooms|areas|neighbourhoods|neighborhoods|apartments|aparthotels|townhouses|suites)\s*$/i;
+
+// Where-to-stay guides carry a standing set of logistics headings that are not
+// venues and never were. Same page, same problem as SECTION_LABEL: each one
+// counted towards the gate.
+const LOGISTICS_HEADING =
+  /^(getting (around|there|here)|how to get|airport access|the tube|tube|buses|trains|national rail|transport|getting from|common mistakes|where to eat|what to do|things to do|frequently asked|faqs?)\b|\bvs\.?\s/i;
 
 const FILTER_CHIP = new Set([
   // cuisine chips
@@ -259,6 +273,11 @@ function collect(raw, out, seen, scope = "") {
     // Editorial suffixes: "Canton Arms - Stockwell (Best Old-School Boozer)".
     // Split on a SPACED dash so hyphenated names ("Fitzrovia-based") survive.
     t = t.split(/\s+[-–—]\s+/)[0].trim();
+    // The same suffix with a pipe: The Hotel Journal heads every item
+    // "10. Four Seasons Hotel London at Tower Bridge | Tower Bridge". Without
+    // this split that reads as ten words, isHeadline rejects it at nine, and
+    // the entry vanishes - so the longest hotel names were the ones being lost.
+    t = t.split(/\s*\|\s*/)[0].trim();
     // Trailing parenthetical label
     t = t.replace(/\s*\([^)]*\)\s*$/, "").trim();
     // "Name, Neighbourhood" -> keep the name
@@ -269,7 +288,7 @@ function collect(raw, out, seen, scope = "") {
     if (/activit/i.test(scope)) t = stripImperative(t);
     // Mirrored in isVenue below - change both, or cached lists keep the noise.
     if (OTHER_PLACE.test(t) || LABEL_PREFIX.test(t) || isHeadline(t) || SECTION_LABEL.test(t) ||
-        isFilterChip(t) || AWARD_CATEGORY.test(t)) continue;
+        LOGISTICS_HEADING.test(t) || isFilterChip(t) || AWARD_CATEGORY.test(t)) continue;
     if (!/[A-Za-z]/.test(t)) continue;
     const k = t.toLowerCase();
     if (seen.has(k)) continue;
@@ -417,7 +436,7 @@ function clean(raw) {
 const isVenue = (t) =>
   t.length >= 2 && t.length <= 60 && /[A-Za-z]/.test(t) &&
   !NOT_VENUE.test(t) && !TEMPLATE.test(t) && !SHOUTED(t) && !SENTENCE.test(t) && !BOILERPLATE_ANYWHERE.test(t) &&
-  !OTHER_PLACE.test(t) && !LABEL_PREFIX.test(t) && !isHeadline(t) && !SECTION_LABEL.test(t) &&
+  !OTHER_PLACE.test(t) && !LABEL_PREFIX.test(t) && !isHeadline(t) && !SECTION_LABEL.test(t) && !LOGISTICS_HEADING.test(t) &&
   !isFilterChip(t) && !AWARD_CATEGORY.test(t);
 
 const usable = data.sources.filter((s) => s.names?.length);

@@ -1,0 +1,48 @@
+# SERP-seeded 2026-09-09 via the browser, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# THIS TOPIC IS DELIBERATELY THIN - ONE SOURCE. That is the honest answer, not
+# a fetch failure. Four separate DuckDuckGo queries ("best hotels in fitzrovia
+# london blog", "fitzrovia london where to stay neighbourhood guide blog",
+# "fitzrovia hotels review stayed london blog", "best hotels fitzrovia
+# charlotte street london where to stay list") returned Time Out and then
+# nothing but template farms and single-property reviews. Fitzrovia has no
+# independent multi-property where-to-stay guide that I could find.
+#
+# DROPPED HERE, and why:
+#   dmontrio.com - BRAND SITE, not a blog. D'Montrio is an aparthotel operator
+#     ("our aparthotels are nestled in the heart of London's most vibrant
+#     neighbourhoods") running its own /fitzrovia/, /notting-hill/,
+#     /marylebone/, /south-kensington/ properties. Its "neighbourhood guide"
+#     is content marketing for the property it is selling.
+#   londonvacationguide.com - farm. No named human ("our editorial team"),
+#     a /neighborhoods/<area> template, "the most comprehensive tourism
+#     business directory in London", and an Editor's Choice box that protests
+#     too much ("Not paid. Not promoted.").
+#   small-hotels-guide.com, uniquehotels.me - the <city>_<area> aggregator
+#     shape, identical to luxuryhotel.guide and boutiquehotel.guru already on
+#     the list above. Same "The 20 best ... Complete Guide 2026" title.
+#   londonopia.co.uk - NOT a farm. A real two-author London blog (Aisha Rani,
+#     Eric Patcham) with genuinely uneven, idiosyncratic posts. Dropped as
+#     OFF TOPIC: its Fitzrovia guide is a culture-and-eating guide that names
+#     hotels only in passing (Berners Tavern inside The London EDITION,
+#     afternoon tea at Charlotte Street Hotel). Seeding it would push
+#     restaurant and pub names into a hotel corpus. Worth remembering for a
+#     non-hotel topic.
+#   Single-property reviews seen and not seeded, since one property is not a
+#     shortlist: thetimes.com and luxurylondon.co.uk on The Newman,
+#     theprivatetraveller.com on the Sanderson, firsttimeinlondon.com's two
+#     Newman Hotel opening posts.
+
+Time Out|https://www.timeout.com/london/hotels/the-best-hotels-in-fitzrovia

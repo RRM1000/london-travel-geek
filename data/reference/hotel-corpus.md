@@ -98,9 +98,14 @@ excellent. It is a machine.
 
 The tells, in the order they are worth checking:
 
-1. **No named human.** "The Lamplit Editors", "First Time in London Team". A
+1. **No named human.** "The Lamplit Editors", "our editorial team". A
    blogger has a name. Weak on its own - some real outlets use a desk byline -
-   but it is the first thing to look at.
+   but it is the first thing to look at. **Check the author archive before you
+   act on it.** An earlier draft of this file cited firsttimeinlondon.com as an
+   example on the strength of a "First Time in London Team" byline; the site
+   has a named author with an archive of uneven, first-person posts, and it is
+   a legitimate source. A desk byline on the article is a prompt to go looking,
+   not a verdict.
 2. **Every guide is the same length.** "5 PLACES", "4 PLACES", "6 PLACES" on
    every card, 4-7 items each, ~1,000 words each. Humans write uneven lists.
 3. **Raw keyword slugs sitting beside written titles.** Lamplit's index has
@@ -129,6 +134,22 @@ lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
 new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
 pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
 bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com.
+
+The second sweep, over the remaining areas and categories, added:
+small-hotels-guide.com, uniquehotels.me, hotelierschoice.com, taglinetoday.com,
+trillionairedaily.com, londoninfoguide.com, hotels-with-balcony.com,
+my-uk-stay.com, mybruneistay.com, londonstays.net, aparthotel.io,
+spahotelsguide.com, dogfriendlyhotels.me. Two more were refused for a different
+reason: `belgravialdn-staging.preflight.site` is somebody's unpublished staging
+site, and `stow-away.co.uk` is a Waterloo hotel writing about where to stay in
+Waterloo - a brand site, same rule as premierinn.com.
+
+The `<city>_<area>` template family is worth naming as a family, because it
+keeps reappearing under new domains: luxuryhotel.guide, boutiquehotel.guru,
+small-hotels-guide.com, new-hotels-guide.com, uniquehotels.me and
+hotels-with-balcony.com all serve the same page shape for every neighbourhood
+of every city. One check catches all of them: swap London for Prague in the URL
+and see if the page still exists.
 
 Verified as real and kept: allaroundlondon.com (Dan, ~2,000 words, "honest
 picks from a local"), stubborntravel.com (Jules, 3,281 words), loveandlondon.com
@@ -234,6 +255,70 @@ Every filter below exists because something got through:
 
 The last two only bite on area corpora, which is why they were not in the
 general pass.
+
+## Areas with no hotel guides at all
+
+Worth recording as a result rather than a gap. Running the SERP for every
+remaining area on 9 Sept 2026 returned **nothing usable** for Hampstead,
+Richmond, Hackney, Wapping, Battersea, Stratford and Peckham - not thin
+coverage, but no dedicated "best hotels in X" guide of any kind. The search
+returns the local paper, the heath, a pub and the borough council.
+
+That is a true fact about London rather than a failure of the method: those
+areas have few hotels and nobody writes a hotel guide to them. The sheet still
+carries rows there, and should - they just cannot be corroborated this way, and
+any claim about them has to rest on something else.
+
+Two more came back thin for the same reason in a milder form: Kensington
+returned two sources and Fitzrovia one, once the template farms were stripped.
+
+A separate case is the City of London, where the SERP returned only the general
+"best hotels in London" lists we already hold. There is no distinct City corpus
+to build; the area is covered by the general one.
+
+## Ways the extractor loses names silently
+
+All three of these look like "the source had nothing to say". None of them is.
+
+**1. Section headings that clear the fallback gate.** `extractNames` reads
+`<h2>`/`<h3>` first and only widens to list items, table cells and `<strong>`
+when the headings yield fewer than eight usable names. Santorini Dave puts every
+hotel name in `<strong>` and heads his pages with eleven section labels -
+"Grand Luxury Hotels", "Getting Around from Marylebone", "The Tube", "Buses",
+"Common Mistakes". Eleven clears the gate, so the `<strong>` harvest never runs,
+and the eleven labels are then binned by the diff. A page naming nine hotels
+records as zero. `SECTION_LABEL` had no hotel-domain words in it, which is why
+"Grand Luxury Hotels" counted as a venue.
+
+Santorini Dave is a source in six corpora, so this one bug was suppressing names
+across most of the sheet's coverage.
+
+**2. A pipe suffix pushing a name over the headline limit.** `isHeadline`
+rejects anything of nine words or more, on the reasonable theory that a venue
+name is short. The Hotel Journal heads each item "10. Four Seasons Hotel London
+at Tower Bridge | Tower Bridge" - the ` | Area` suffix takes it to ten words and
+the entry disappears. `collect` splits on a spaced dash and a comma but not on a
+pipe.
+
+**3. Names that exist only in link anchor text.** anywhereweroam.com's Notting
+Hill page returned fifty names, every one furniture: the properties are named
+only inside the booking-link anchors, which the heading and `<strong>` harvests
+never reach. The page names seven hotels and the corpus recorded none of them.
+Watch for a source that returns a lot of names, all of them wrong - that is
+this failure, not a thin page.
+
+**4. Paid bot licensing, which is not a 403.** telegraph.co.uk answers every
+user agent with **HTTP 402 Payment Required** and "not authorized... without a
+valid TollBit Token". It is seeded in six hotel corpora and returns nothing in
+all of them. There is no UA that fixes this and it should not be worked around;
+the Telegraph has simply priced bots out. Leave the URL in the source file so
+the refusal shows up in every run rather than being quietly forgotten.
+
+The same is true of `visitlondon.com` (Cloudflare managed challenge) and
+`guide.michelin.com`. All three are legitimate editorial sources we cannot
+read. Where one matters - visitlondon's accessible-hotels page is the most
+specific source in that topic - read it in the browser and record the findings
+by hand, marked as such, rather than pretending the corpus saw it.
 
 ## What is still outstanding
 

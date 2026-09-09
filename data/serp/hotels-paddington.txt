@@ -1,0 +1,47 @@
+# SERP-seeded 2026-09-09 via the browser, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# THIN. Two searches ("best hotels near paddington london blog guide",
+# "paddington london area guide where to stay blog hotels review") returned
+# Time Out, the paywalled Telegraph, one real blog, and otherwise a wall of
+# template farms. Paddington is a station district; the independents write
+# about Notting Hill and Marylebone instead.
+#
+# DROPPED HERE, and why:
+#   therevelstay.com - farm. Author "Douglas" at /author/mkugnyqadm/, a
+#     machine-generated slug rather than a person. No /about/ page (404).
+#     Its Paddington page runs 4,300 words to name three hotels, on repeated
+#     fill-in-the-blank headings ("Best For: / Skip if: / Nearby
+#     Alternative:"), and still carries a leftover "Wine Bar mayfair" heading
+#     from a different area's template.
+#   londoninfoguide.com - affiliate template site, not a blog. Built on the
+#     Solo Build It platform (it links to sitesell.com and hosts a "Solo Build
+#     It Review" page). Its hotel content is a grid of
+#     hotels-near-<landmark>-london.html pages - Wembley, ExCeL, the O2 - each
+#     a live-price booking widget. Desk byline, generic filler prose.
+#   small-hotels-guide.com, uniquehotels.me - the <city>_<area> aggregator
+#     shape, same family as luxuryhotel.guide and boutiquehotel.guru above.
+#
+# NOT SEEDED, on purpose: loveandlondon.com/cool-hotels-in-west-london/ and
+# north-london-hotels/ cover the right compass point but the wrong area, and
+# would import Hammersmith and Hampstead properties into a Paddington corpus.
+#
+# The Telegraph answers curl with HTTP 402 (paywall) and returns zero names,
+# as it does in every other area corpus. Kept for the audit trail.
+
+Time Out|https://www.timeout.com/london/hotels/the-best-hotels-in-paddington
+The Telegraph|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/west/paddington/hotels/
+
+# Blogs
+First Time in London|https://firsttimeinlondon.com/paddington-area-guide/

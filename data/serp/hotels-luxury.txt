@@ -1,0 +1,61 @@
+# SERP-seeded 2026-09-09, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# ---------------------------------------------------------------------------
+# VETTED ON THIS PASS:
+#
+#   thefivestaredit.com - KEPT, but it was flagged and the check nearly went
+#     the other way, so the reasoning is on the record. Against it: no named
+#     human anywhere (byline is "by Travel Editors", contact is an info@
+#     address, the post JSON carries only a Wix ownerId); a methodology page
+#     that protests the way hotel-corpus.md warns about; and a 64-destination
+#     /hotels/<place> grid that looks like complete coverage. For it: 58 of
+#     those 64 cells are EMPTY - /hotels/luxembourg, /hotels/nepal,
+#     /hotels/kuwait, /hotels/madagascar, /hotels/cape-verde, /hotels/romania
+#     all return zero posts - so the grid is aspirational navigation, not
+#     generated content, which is the opposite of the aggregator shape. Lists
+#     run 10, 6 and 5 items rather than a uniform 4-7. The blog index is
+#     dominated by written editorial titles with real news pegs ("Fairmont
+#     Cheshire The Mere opening 10 July"), not raw keyword slugs. And the
+#     disclosure names its paid /partnerships section outright, which a farm
+#     pretending to purity does not do. Verdict: a small real title with a desk
+#     byline, which hotel-corpus.md explicitly allows for. Weight it as one
+#     anonymous voice.
+#
+#   URL CORRECTED: the SERP gave /hotels/london, which is a CATEGORY HUB - one
+#     heading, no hotel names, it would have scored EMPTY. The list itself is
+#     at /post/the-best-london-hotels, found linked from that hub. Discovered,
+#     not guessed.
+#
+#   thehoteljournal.com - KEPT, verified real. Named human authors with their
+#     own archives (/author/aude-camus/, /author/gayatri-bhaumik/,
+#     /author/michael-cullen/ and five more); the London piece is bylined
+#     James Wong, 3,804 words, 17 items, published May 2026. Uneven list
+#     lengths, real people. Not a farm.
+#
+# ONE NAME RESTORED BY HAND to the Hotel Journal source in
+# data/consensus/hotels-luxury.json: Four Seasons Hotel London at Tower Bridge.
+# That page suffixes every heading with " | Area", and the suffix pushed
+# "10. Four Seasons Hotel London at Tower Bridge | Tower Bridge" to ten words,
+# over the nine-word limit in consensus.mjs's isHeadline(). It is item 10 of 17
+# and I read it on the page. Restoring it moved the hotel from one domain to
+# two, so it now shows as a genuine gap rather than a single mention. Worth
+# knowing generally: any source that suffixes headings this way loses its
+# longest-named entries silently.
+# ---------------------------------------------------------------------------
+
+Time Out|https://www.timeout.com/london/hotels/the-best-five-star-hotels-in-london
+Luxury London|https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/
+The Hotel Journal|https://thehoteljournal.com/best-five-star-hotels-london-england/
+The Five Star Edit|https://www.thefivestaredit.com/post/the-best-london-hotels

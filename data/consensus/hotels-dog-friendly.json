@@ -1,0 +1,70 @@
+{
+  "cuisine": "hotels-dog-friendly",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "The Times",
+      "url": "https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/best-dog-friendly-hotels-in-london-qflx2clx2",
+      "scope": "hotels-dog-friendly",
+      "names": [],
+      "error": "no headings matched"
+    },
+    {
+      "name": "The Handbook",
+      "url": "https://www.thehandbook.com/londons-best-dog-friendly-hotels/",
+      "scope": "hotels-dog-friendly",
+      "names": [
+        "The Athenaeum Hotel & Residences",
+        "Sheraton Grand London Park Lane",
+        "The Rubens at the Palace",
+        "Nhow London",
+        "Hotel Caf é Royal",
+        "The Milestone Hotel & Residences",
+        "Shangri-La The Shard",
+        "Bankside Hotel",
+        "The Chesterfield Mayfair",
+        "The Montague on the Gardens",
+        "South Place Hotel",
+        "The Franklin",
+        "Kimpton Fitzroy London",
+        "The Westin London City",
+        "Andaz London",
+        "The Gate Hotel",
+        "The Egerton House Hotel"
+      ]
+    },
+    {
+      "name": "Ikon London Magazine",
+      "url": "https://www.ikonlondonmagazine.com/dog-friendly-hotels-london-nearby/",
+      "scope": "hotels-dog-friendly",
+      "names": [
+        "One Aldwych",
+        "South Place Hotel",
+        "Hilton London Metropole",
+        "London Marriott Hotel County Hall",
+        "St Pancras London, Autograph Collection",
+        "Tylney Hall Hotel and Gardens",
+        "Ashdown Park Hotel and Country Club",
+        "Dao by Dorsett West London"
+      ]
+    },
+    {
+      "name": "Travelling King",
+      "url": "https://www.travellingking.com/dog-friendly-hotels-in-london/",
+      "scope": "hotels-dog-friendly",
+      "names": [
+        "Rubens At The Palace",
+        "The Langham London",
+        "Royal Lancaster London",
+        "Kimpton - Fitzroy London",
+        "Nobu Hotel London Shoreditch",
+        "Cheval Three Quays at The Tower of London",
+        "Treehouse Hotel London",
+        "St Athans Hotel",
+        "COVE Cannon Street",
+        "St. Ermin’s Hotel"
+      ]
+    }
+  ]
+}

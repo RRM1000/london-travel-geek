@@ -1,0 +1,45 @@
+# SERP-seeded 2026-09-09 via the browser, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# DROPPED on this pass, with the tell that decided it:
+#   thehotelguru.com - AGGREGATOR, and it survived only because the SERP is thin
+#     here. Same page exists for the rest of the world off a `<city>/<area>`
+#     template: /best-hotels/paris/le-marais returns "18 Best Hotels in The
+#     Marais, Paris (2026)" with the identical H2 skeleton to the Kensington
+#     page ("For period style", "For a boutique", "For couples", "For families")
+#     and the same unrendered JS placeholder `${title}`; /berlin/mitte likewise.
+#     hotel-corpus.md's test verbatim - if the same page exists for Prague, it is
+#     a database with a stylesheet. Supporting tells: no named human ("our
+#     experts have compiled"), 16 booking.com plus 14 expedia.com outbound links,
+#     and a currency picker across France/Germany/Spain/United States.
+#
+# THIS IS A THIN CORPUS AND WAS NOT PADDED. Two sources survived the SERP; one
+# of those was thehotelguru.com and it is gone. Replacements were found by
+# probing domains already cleared in the corpus rather than by search:
+#   - Time Out's Kensington page (real content, ten properties as h3).
+#   - candaceabroad.com/hotels-in-kensington/ - the one genuine independent
+#     blog, and the ONE extra permitted for a thin topic. Candace is already
+#     verified in hotel-corpus.md and carries the Soho corpus.
+# No further guide to Kensington hotels was found that was not a farm. The
+# thinness is real, not a blocked fetcher.
+#
+# NOTE: the Telegraph URL below is the same page hotels-south-kensington uses -
+# the Telegraph files both under /central/kensington/. It is behind a paywall
+# (HTTP 402 to the fetcher) and records zero names in both topics; kept for the
+# audit trail, as in hotels-soho and hotels-south-kensington.
+The Telegraph|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/kensington/hotels/
+Time Out|https://www.timeout.com/london/hotels/the-best-hotels-in-kensington
+
+# Blogs
+Candace Abroad|https://candaceabroad.com/hotels-in-kensington/

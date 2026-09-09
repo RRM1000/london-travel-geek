@@ -41,6 +41,16 @@
       "id": "hotel-candidates-decisions",
       "what": "data/hotel-candidates-from-guides.json now holds 267 properties across eleven corpora, 72 of them named by 2+ independent domains in a single corpus, plus 4 named only by real people on Reddit. Every one needs a yes/no.",
       "needs": "a pass through the file deciding which get sheet rows. Start with the 3+ list."
+    },
+    {
+      "id": "aparthotel-rows-mostly-uncorroborated",
+      "what": "Of the 27 aparthotel/serviced-apartment rows, only 7 are named as BUILDINGS by any guide (Bermonds Locke, Leman Locke, Staycity Greenwich High Road, Cheval Gloucester Park, Native Bankside, Native King's Wardrobe, Wilde Covent Garden). 15 are corroborated only by their operator BRAND - a guide wrote 'Locke' or 'Native', never which building. 5 have no mention at all: Nell Gwynn House, SACO Holborn, Supercity Templeton Place, Supercity The Chronicle, Supercity The Rosebery.",
+      "needs": "a decision on whether brand-only corroboration is good enough for an aparthotel row, and what to do with the five nobody names"
+    },
+    {
+      "id": "camden-has-no-corroborated-hotels",
+      "what": "The Camden corpus names nine properties and NONE of them is on the sheet. Either we are missing Camden entirely or the guides and we disagree about what counts as Camden.",
+      "needs": "a look at whether Camden deserves rows"
     }
   ],
   "watch": [
@@ -88,6 +98,14 @@
     {
       "id": "arctic-shift-is-the-reddit-route",
       "what": "Reddit's own JSON 403s curl and the /last30days engine 429s after ~14 items. arctic-shift works but rate-limits silently - an unthrottled sweep returned zero for 11 of 15 subreddits and looked like an empty window. Throttle and run in the background; ~30 minutes for 15 subs."
+    },
+    {
+      "id": "telegraph-402-tollbit",
+      "what": "telegraph.co.uk answers every user agent with HTTP 402 and \"not authorized without a valid TollBit Token\" - paid bot licensing. It is seeded in six hotel corpora and contributes nothing to any of them. Not fixable and not to be worked around; left in the files so the refusal stays visible."
+    },
+    {
+      "id": "allaroundlondon-now-403s",
+      "what": "allaroundlondon.com began 403ing every path including its sitemap during the 9 Sept 2026 pass. It carries the Soho corpus, so that corpus has degraded since it was built."
     }
   ],
   "decided": [
@@ -148,6 +166,11 @@
       "id": "ai-seo-farms-excluded-from-hotel-corpus",
       "what": "Fifteen domains excluded from the hotel corpora as AI SEO farms or template aggregators, listed in every data/serp/hotels-*.txt header and explained in data/reference/hotel-corpus.md.",
       "why": "lamplitlondon.com ranked in five of the eight area searches and its name arrays are clean and correct. You cannot detect a farm from its output - you have to look at the site."
+    },
+    {
+      "id": "consensus-extractor-fixed-twice",
+      "what": "SECTION_LABEL gained the hotel-domain plurals and a LOGISTICS_HEADING filter; collect() now splits on a pipe as well as a spaced dash.",
+      "why": "Section headings like \"Grand Luxury Hotels\" and \"The Tube\" counted as venues, took the surviving-heading count over the fallback gate, and stopped the <strong> harvest running - Santorini Dave appears in six corpora and was contributing nothing. Separately, a \" | Area\" suffix pushed long hotel names past isHeadline's nine-word limit and deleted them."
     }
   ]
 }

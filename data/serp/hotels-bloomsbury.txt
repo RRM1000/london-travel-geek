@@ -1,0 +1,69 @@
+# SERP-seeded 2026-09-09 via the browser, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# DROPPED at this pass (9 Sept 2026) - BOTH of the SERP's non-masthead results,
+# which is why this corpus is the thinnest of the three:
+#   hotelierschoice.com - the aggregator shape, textbook. Its own navigation
+#   puts guides/london/mayfair next to guides/paris/le-marais,
+#   guides/dubai/palm-jumeirah, guides/tokyo/shinjuku and guides/bali/ubud, over
+#   ~150 cities on every continent, each with a badged count of 8-12 hotels. The
+#   same page exists for Prague. A database with a stylesheet.
+#   taglinetoday.com - an Amazon-affiliate product-review farm that bolted a
+#   travel vertical on. It describes itself as a destination for "honest Amazon
+#   product reviews"; the archive is 3,641 automotive articles, 1,184 on
+#   Switzerland, 498 on Istanbul, 390 Arizona, 336 Alaska, 285 Alabama, plus
+#   gardening, recipes and cat nutrition - and every one of them, including the
+#   Bloomsbury hotels page, is bylined to the single founder "Hunter James".
+#
+# Dropping both left one usable source, which is not a corpus, so a second SERP
+# pass was run (DuckDuckGo in the browser, per hotel-corpus.md). It also
+# dropped four:
+#   wunderlustlondon.co.uk - tell 2, as clean as it gets. The archive is "5 Best
+#   Furniture Delivery Services in London", "5 Best Tax Consultants in London",
+#   "The 5 Best Water Softener Services in London", "The 5 Best House Cleaning
+#   Services in London". Every guide five items, every commercial category in
+#   the city. No travel blogger writes about water softeners.
+#   wonderfulmuseums.com - LLM listicle scaffolding, no named recommendations:
+#   "Why Staying Near the British Museum Is a Game Changer", "Types of Hotels
+#   Near the British Museum: A Deep Dive into Your Options". It also runs two
+#   near-duplicate slugs, hotel-near-the-british-museum and
+#   hotels-near-british-museum, which is keyword cannibalisation.
+#   eurovistatrips.com - same generated shape (category buckets by star rating,
+#   a comparison table, a checklist), bylined "bob".
+#   wheretostayeurope.com - aggregator template, /en/<country>/<city>/<area>.
+#   bloomsburylondon.com - NOT a farm; it is the Bloomsbury area marketing site,
+#   and it is dropped for the opposite reason. Its "top places to stay" lists
+#   TWENTY-NINE hotels, including every chain box in the postcode (Royal
+#   National, Tavistock, President, Bedford, The Imperial, hub by Premier Inn,
+#   Mercure, Holiday Inn). A list that omits nothing carries no recommendation.
+#   That is the booking-engine problem in local clothing, and because consensus
+#   counts domains it would push borderline names to 2+ by sheer completeness.
+#   mrandmrssmith.com - a boutique hotel booking company; it can only name what
+#   it sells. Inventory, not opinion.
+#   aladyinlondon.com - a real blogger (Julie Falconer), left out on quality not
+#   integrity: the post is 635 words from February 2013, last touched 2021, and
+#   is really about one Holiday Inn. Worth adding if Rob disagrees.
+#
+# Two of the kept sources are British Museum pages rather than "Bloomsbury"
+# pages. The museum is in Bloomsbury and that is the search a reader actually
+# runs. Minor scope bleed to watch: All Around London's list reaches as far as
+# Mercer Street, which is Covent Garden.
+
+Santorini Dave|https://santorinidave.com/bloomsbury-hotels
+The Telegraph|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/west-end/bloomsbury/hotels/
+Top Tip London|https://www.toptiplondon.com/accommodation/budget-hotels/bloomsbury-hotels
+
+# Blogs
+All Around London|https://allaroundlondon.com/hotels-near-the-british-museum/
+London Info Guide|https://www.londoninfoguide.com/best-hotels-near-british-museum-london.html

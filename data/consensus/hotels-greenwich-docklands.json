@@ -1,0 +1,23 @@
+{
+  "cuisine": "hotels-greenwich-docklands",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-south-london",
+      "scope": "hotels-greenwich-docklands",
+      "names": [
+        "The Alma Hotel",
+        "citizenM London Bankside",
+        "DoubleTree by Hilton Greenwich",
+        "Hotel du Vin Cannizaro House",
+        "London Bridge Hotel",
+        "Mondrian at Sea Containers",
+        "Shangri-La Hotel at The Shard",
+        "Rooms at The Tulse Hill Hotel",
+        "69TheGrove"
+      ]
+    }
+  ]
+}

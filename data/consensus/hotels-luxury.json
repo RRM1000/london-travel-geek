@@ -1,0 +1,108 @@
+{
+  "cuisine": "hotels-luxury",
+  "note": "Seeded 2026-09-09. Four Seasons Hotel London at Tower Bridge restored by hand to the Hotel Journal source: consensus.mjs isHeadline() dropped it because the page suffixes every heading with \" | Area\", pushing it to 10 words. Verified on the page, item 10 of 17.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/hotels/the-best-five-star-hotels-in-london",
+      "scope": "hotels-luxury",
+      "names": [
+        "1 Hotel Mayfair",
+        "The Landmark London",
+        "Kimpton Fitzroy London",
+        "Claridge's",
+        "NoMad London",
+        "Shangri-La Hotel at The Shard",
+        "Nobu Hotel Portman Square",
+        "The Langham",
+        "The Dorchester",
+        "The Ritz",
+        "The Savoy"
+      ]
+    },
+    {
+      "name": "Luxury London",
+      "url": "https://luxurylondon.co.uk/travel/london/best-five-star-hotels-in-london/",
+      "scope": "hotels-luxury",
+      "names": [
+        "/ Social",
+        "11 Cadogan Gardens",
+        "45 Park Lane",
+        "The Athenaeum Hotel & Residences",
+        "Andaz London Liverpool Street",
+        "The Beaumont",
+        "Brown's",
+        "Bulgari Hotel London",
+        "Charlotte Street Hotel",
+        "Claridge’s",
+        "The Connaught",
+        "The Corinthia",
+        "The Dorchester",
+        "The Emory",
+        "Four Seasons Hotel at Park Lane",
+        "Four Seasons Hotel London at Tower Bridge",
+        "The Goring",
+        "Ham Yard Hotel",
+        "The Hari",
+        "Hotel Café Royal",
+        "The Kensington",
+        "The Landmark London",
+        "The Lanesborough",
+        "The Langham",
+        "Mandarin Oriental Hyde Park",
+        "Mandarin Oriental Mayfair",
+        "One Aldwych",
+        "Pan Pacific London",
+        "The Peninsula",
+        "Raffles at The OWO",
+        "The Ritz",
+        "The Savoy",
+        "Sea Containers London",
+        "Shangri-La The Shard",
+        "The Stafford London"
+      ]
+    },
+    {
+      "name": "The Hotel Journal",
+      "url": "https://thehoteljournal.com/best-five-star-hotels-london-england/",
+      "scope": "hotels-luxury",
+      "names": [
+        "Hotel Café Royal",
+        "The Dorchester",
+        "The Lanesborough London",
+        "The Stafford",
+        "Royal Lancaster London",
+        "One Aldwych",
+        "The Ritz London",
+        "The Londoner",
+        "Fleming’s Mayfair",
+        "Four Seasons Hotel London at Tower Bridge",
+        "1 Hotel Mayfair",
+        "45 Park Lane",
+        "Shangri-La The Shard",
+        "Claridge’s",
+        "Kimpton Fitzroy London",
+        "The Savoy Hotel",
+        "South Place Hotel"
+      ]
+    },
+    {
+      "name": "The Five Star Edit",
+      "url": "https://www.thefivestaredit.com/post/the-best-london-hotels",
+      "scope": "hotels-luxury",
+      "names": [
+        "Raffles London at The OWO",
+        "The Chancery Rosewood",
+        "The Lanesborough",
+        "The Connaught",
+        "The Berkeley",
+        "The Dorchester",
+        "The Cadogan",
+        "Claridge's",
+        "The Egerton House Hotel",
+        "The Londoner"
+      ]
+    }
+  ]
+}

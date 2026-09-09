@@ -1,0 +1,78 @@
+# SERP-seeded 2026-09-09, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# DROPPED IN THIS PASS
+#   londonluxurymag.co.uk - AI SEO farm. No named human ("Editor Niki",
+#     "Editor Adeel" are desk pseudonyms with author archives). Almost every
+#     title on the index carries a number and most are 5 items: "5 Top Most
+#     Luxury Wedding Venues", "Finding The 5 Best Horse Riding Lessons in
+#     London", "Top 5 Kids Parks", "5 Top Knightsbridge Restaurants Halal" -
+#     that last is keyword order, not English. Complete grid coverage well
+#     outside any plausible remit (microneedling, garden furniture covers,
+#     aluminium joinery for B2B clients, smart home security). US spelling on
+#     a London site ("Flavor Explosion"). The spa page opens with a "Criteria
+#     for Selection" section, which is the how-we-choose protest. It also
+#     sells a paid hotel "Directory" in the footer.
+#   klook.com - booking platform (pre-stripped from the SERP).
+#   spahotelsguide.com - aggregator (pre-stripped from the SERP).
+#
+# NOTE: thatsup.co.uk is registered blocked (403s the fetcher) and excluded.
+# seed-sources refuses it at the door. The URL is kept live below so the
+# refusal shows up in every run rather than being silently forgotten - it is
+# a real source and would need the browser route to read.
+#
+# NOTE: telegraph.co.uk returns HTTP 402 Payment Required to the fetcher, not
+# a 403 - a hard paywall, so it contributes nothing. Left in place because the
+# page is real and the browser route could read it, but do not expect names.
+#
+# TOPPED UP 2026-09-09. After the drops above the topic was down to a single
+# fetching domain, which is not a corpus. Two more found via the browser
+# DuckDuckGo route (the SERP for this topic is unusually farm-heavy - the
+# first page returned new-hotels-guide.com, lamplitlondon.com, spahotelsguide
+# and spahotelbreak.com, four templates in eight results).
+#   cntraveller.com - registered tier B. Olivia Morelli, named, 9,537 words,
+#     23 entries. CAVEAT: it is a guide to SPAS, not to spa hotels, so it
+#     carries a handful of non-hotels (Aire Ancient Baths, Ushvani, The HVN,
+#     Surrenne, Lanserhof at the Arts Club) that the diff has to strip. The
+#     other eighteen are hotel spas and it is the deepest source in the topic.
+#   travelandretreat.com - a genuine magazine, kept on the strength of the
+#     writing. Named author (Romy N. - surname is an initial, which is the one
+#     weak signal), 2,939 words, six entries, each with an argued angle rather
+#     than a keyword heading. The prose is plainly first-hand: the magnolia
+#     distilling at Six Senses' Alchemy Bar, "the most beautiful hotel gym in
+#     London, which is a low bar until you see it and recalibrate". Site has
+#     real editorial range (Atlas Mountains retreats, Paris exhibitions).
+#
+# ALSO DROPPED IN THE TOP-UP
+#   hotelierschoice.com - aggregator template. /guides/<city>/<city>-<theme>/,
+#     footer nav for Americas / Europe / Asia & Beyond, "More London Hotel
+#     Guides", no author anywhere, 1,279 words, six items, "Ready to book
+#     London?" It also lists Hazlitt's as a spa hotel, which it is not.
+#   theluxuryspaedit.com - a directory, not an article. The London page is 186
+#     words on a /destination/<region>/<country>/<city>/ template.
+#   goodhotelguide.com - a real and long-standing guide, but this URL is a
+#     filtered database view, not a piece of writing: 1,010 words, one hotel
+#     named, sponsor slots and a "Best Review Wins A Free Night" promo.
+#   heartlondonmagazine.com - byline is rel="author">Editor, no named human,
+#     and it is a spa-day guide rather than a hotel guide.
+#   spahotelbreak.com, worldspaawards.com, hotelmagazineawards.co.uk - a
+#     booking template and two awards databases, none of them editorial.
+
+Time Out|https://www.timeout.com/london/hotels/londons-best-spa-hotels
+Conde Nast Traveller|https://www.cntraveller.com/gallery/best-spas-in-london
+The Telegraph|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/best-spa-hotels-london/
+Thatsup|https://thatsup.co.uk/london/guide/the-best-spa-hotels-in-london/
+
+# Magazines and blogs
+Travel And Retreat|https://travelandretreat.com/2026/05/11/the-best-hotel-spas-in-london-2026/

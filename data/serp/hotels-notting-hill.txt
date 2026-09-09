@@ -1,0 +1,69 @@
+# SERP-seeded 2026-09-09 via the browser, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# DROPPED HERE, and why:
+#   hotelierschoice.com - farm, and the clearest example yet of the
+#     <city>_<area> aggregator shape. /guides/london/notting-hill/ has an
+#     identical twin at /guides/paris/le-marais/. The site claims 393 cities,
+#     5,500+ guides and 8,480 in-depth guides - complete grid coverage, all at
+#     once. Every list is exactly five items. Every property "url" in its
+#     schema is a booking.com/searchresults?ss=<name> affiliate search, not
+#     the hotel. Its LodgingBusiness schema carries no real address - the
+#     addressLocality is literally "Le Marais, Paris 2026". No named human
+#     (an /about/ page from TTM Media Ltd) and a how-we-choose page that
+#     protests too much.
+#   therevelstay.com - farm. The author of the Notting Hill and Paddington
+#     pages is "Douglas" at /author/mkugnyqadm/ - a machine-generated slug, not
+#     a person. No /about/ page at all (404). Repeated fill-in-the-blank
+#     headings ("Best For: / Skip if: / Nearby Alternative:"), and the
+#     Paddington page still carries a leftover "Wine Bar mayfair" heading from
+#     another area's template.
+#   small-hotels-guide.com, uniquehotels.me - the <city>_<area> aggregator
+#     shape, same family as luxuryhotel.guide and boutiquehotel.guru above.
+#
+# KEPT WITH A NOTE:
+#   girlwhotravelstheworld.com - a real named blogger (Noelle Bertram), first
+#     person, and genuinely uneven: Patagonia, Colombia, garden sheds,
+#     menopause. Not a grid. She does sell SEO services and runs travel
+#     affiliates, so treat her as one voice, not as an authority.
+#
+# The Telegraph answers curl with HTTP 402 (paywall) and returns zero names,
+# as it does in every other area corpus. Kept for the audit trail; it adds no
+# vote either way, since namedBy counts domains that actually named something.
+#
+# EXTRACTION GAP worth fixing, not a blocked fetcher:
+#   anywhereweroam.com returned 50 names and every single one is furniture -
+#   "Budget Hotels in Notting Hill", "Mid-Market Hotels in Notting Hill", the
+#   country nav, the landmark list. Its actual properties are in the ANCHOR
+#   TEXT of the booking links and nowhere else, so the heading-based extractor
+#   cannot see them. Read off the page by hand on 9 Sep 2026:
+#     Pembridge Palace Hotel, Princes Square Hotel, Ruby Zoe London by IHG,
+#     Stay Prime Notting Hill Serviced Apartments, The 55 by Le Mirage,
+#     The Laslett, The Portobello Hotel
+#   These are NOT in data/consensus/hotels-notting-hill.json - the file records
+#   only what the fetcher saw. The one that changes an answer is
+#   "The 55 by Le Mirage", which would join loveandlondon.com at two domains.
+#   Same shape on girlwhotravelstheworld.com, which hides The Portobello Hotel
+#   in a booking anchor (it is already in the sheet, so nothing moves).
+
+Time Out|https://www.timeout.com/london/hotels/the-best-hotels-in-notting-hill
+The Telegraph|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/west/notting-hill/hotels/
+
+# Blogs
+Anywhere We Roam|https://anywhereweroam.com/where-to-stay-notting-hill/
+All Around London|https://allaroundlondon.com/boutique-hotels-in-notting-hill-london/
+Candace Abroad|https://candaceabroad.com/boutique-hotels-in-notting-hill/
+Love and London|https://loveandlondon.com/notting-hill-hotels/
+Girl Who Travels the World|https://girlwhotravelstheworld.com/where-to-stay-in-londons-notting-hill-neighborhood/
+First Time in London|https://firsttimeinlondon.com/notting-hill-london/

@@ -1,0 +1,35 @@
+# SERP-seeded 2026-09-09 via the browser, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# DROPPED on this pass, with the tell that decided it:
+#   boutiquehotels.co.uk - AGGREGATOR. The `<place>/<area>` template runs the
+#     whole country and beyond: every English county, Scotland, Wales, NI, then
+#     /london/belgravia, /london/chelsea, /london/marylebone, /london/notting-hill,
+#     plus "Boutique Hotels in European / Middle East / North American Cities".
+#     The page is a card grid off a database - one h3 on the Westminster page is
+#     the unrendered JS template `' + hotel.name + '` - carrying 24 booking.com
+#     links and an awin1.com affiliate wrapper, with no named human author.
+#     A database with a stylesheet, exactly as hotel-corpus.md describes.
+#
+# ADDED on this pass, found by probing domains already cleared in the corpus
+# (no WebSearch): Santorini Dave's Westminster page and Anywhere We Roam's
+# Westminster guide, which sits alongside the South Bank and Soho ones already
+# in use. Paul Healy's byline; hotel names are in <strong> lead-ins rather than
+# headings, which consensus.mjs handles through its BOLD_LEAD fallback.
+Time Out|https://www.timeout.com/london/hotels/the-best-hotels-in-westminster
+Santorini Dave|https://santorinidave.com/westminster-hotels
+
+# Blogs and London magazines
+Seen in the City|https://seeninthecity.co.uk/best-hotels-in-westminster/
+Anywhere We Roam|https://anywhereweroam.com/where-to-stay-westminster/

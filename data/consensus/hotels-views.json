@@ -1,0 +1,120 @@
+{
+  "cuisine": "hotels-views",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/best-hotel-rooftops-london/",
+      "scope": "hotels-views",
+      "names": [],
+      "error": "HTTP 402"
+    },
+    {
+      "name": "DesignMyNight",
+      "url": "https://www.designmynight.com/london/hotels-with-a-view-in-london",
+      "scope": "hotels-views",
+      "names": [
+        "Novotel London Canary Wharf",
+        "DoubleTree by Hilton London - Tower of London",
+        "The Tower Hotel",
+        "The Gate",
+        "The Montcalm",
+        "Grand Hotel Bellevue London",
+        "The Londoner",
+        "Dorsett City Hotel",
+        "Sea Containers",
+        "Mason & Fifth Westbourne Park",
+        "Boundary Shoreditch",
+        "Treehouse London",
+        "ME London",
+        "The Hoxton, Southwark",
+        "TRIBE Canary Wharf",
+        "Shangri-La Hotel"
+      ]
+    },
+    {
+      "name": "The Hotel Guru",
+      "url": "https://www.thehotelguru.com/best-hotels/united-kingdom/london-best-hotel-views",
+      "scope": "hotels-views",
+      "names": [
+        "Boundary Shoreditch",
+        "The Petersham",
+        "Mandarin Oriental Hyde Park",
+        "The Berkeley",
+        "45 Park Lane",
+        "The Bingham",
+        "Hotel Café Royal",
+        "Shangri-La The Shard",
+        "CitizenM Tower of London",
+        "The Savoy",
+        "Sunborn London Yacht Hotel",
+        "Good Hotel",
+        "The Hari",
+        "Sea Containers London",
+        "The Stratford Hotel",
+        "The Mitre Hotel",
+        "The Londoner",
+        "Art'otel London Battersea Power Station",
+        "Park Hyatt",
+        "The Peninsula London"
+      ]
+    },
+    {
+      "name": "The Rooftop Guide",
+      "url": "https://www.therooftopguide.com/rooftop-news/7-great-hotels-with-rooftop-in-london.html",
+      "scope": "hotels-views",
+      "names": [
+        "The Trafalgar St. James",
+        "South Place Hotel",
+        "Courthouse Hotel Shoreditch",
+        "The Londoner",
+        "Courthouse Hotel London",
+        "Dorsett City London",
+        "Montcalm Royal London House",
+        "Novotel London Canary Wharf",
+        "Sea Containers London",
+        "ME London by Melia",
+        "DoubleTree by Hilton London - Tower of London"
+      ]
+    },
+    {
+      "name": "JuliaSomething",
+      "url": "https://juliasomething.com/best-hotels-in-london-with-a-view/",
+      "scope": "hotels-views",
+      "names": [
+        "Shangri-La The Shard",
+        "ME London by Melia",
+        "The Tower Hotel",
+        "Corinthia Hotel London",
+        "Novotel London Canary Wharf",
+        "The Ritz",
+        "The Langham",
+        "The Dorchester",
+        "Bulgari Hotel London",
+        "Four Seasons Hotel London at Park Lane",
+        "The Berkeley",
+        "The Chelsea Harbour Hotel",
+        "Egerton House",
+        "Athenaeum Hotel & Residences",
+        "COMO Metropolitan London",
+        "The Trafalgar St. James",
+        "Mondrian London Shoreditch",
+        "The Hoxton, Southwark",
+        "Park Plaza Westminster",
+        "The Marriott Hotel County Hall",
+        "CitizenM Tower of London",
+        "Hyatt Regency London - Albert Embankment",
+        "Sea Containers London",
+        "DoubleTree by Hilton London Docklands Riverside",
+        "Park Plaza London Riverbank",
+        "Leonardo Royal Hotel London City - Tower of London",
+        "The Z Hotel Piccadilly",
+        "InterContinental London - The O2",
+        "Assembly Covent Garden",
+        "The Clarendon Hotel",
+        "ibis London Blackfriars"
+      ]
+    }
+  ]
+}

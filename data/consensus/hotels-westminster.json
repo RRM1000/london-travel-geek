@@ -1,0 +1,79 @@
+{
+  "cuisine": "hotels-westminster",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/hotels/the-best-hotels-in-westminster",
+      "scope": "hotels-westminster",
+      "names": [
+        "The Nadler Victoria",
+        "Sofitel London St James",
+        "St Ermin's Hotel",
+        "Conrad London St James",
+        "The Trafalgar St James",
+        "Wellington",
+        "The Sanctuary House Hotel",
+        "Corinthia Hotel London",
+        "Haymarket Hotel",
+        "St James’s Court"
+      ]
+    },
+    {
+      "name": "Santorini Dave",
+      "url": "https://santorinidave.com/westminster-hotels",
+      "scope": "hotels-westminster",
+      "names": [
+        "Corinthia London",
+        "Conrad London St James",
+        "The Guardsman",
+        "Great Scotland Yard Hotel",
+        "St James’ Court",
+        "DoubleTree by Hilton London Westminster",
+        "The Sanctuary House Hotel",
+        "hub Westminster Abbey",
+        "The Resident Victoria"
+      ],
+      "handRecorded": true,
+      "note": "Hotel names recorded by hand on 2026-09-09: this page puts them in markup consensus.mjs never reaches (its heading-only path short-circuits on 8+ surviving nav headings), so the fetched array was all furniture. Read off the saved HTML and checked by eye."
+    },
+    {
+      "name": "Seen in the City",
+      "url": "https://seeninthecity.co.uk/best-hotels-in-westminster/",
+      "scope": "hotels-westminster",
+      "names": [
+        "St. James’ Court",
+        "St. Ermin’s Hotel",
+        "The Goring Hotel",
+        "The Resident London Victoria",
+        "The Rubens at the Palace",
+        "41 Hotel",
+        "The Guardsman",
+        "The Clermont Hotel",
+        "Conrad London St. James",
+        "Park Plaza Westminster Bridge",
+        "The Z Hotel Trafalger",
+        "Embracing the Freedom of Two Wheels Safely"
+      ]
+    },
+    {
+      "name": "Anywhere We Roam",
+      "url": "https://anywhereweroam.com/where-to-stay-westminster/",
+      "scope": "hotels-westminster",
+      "names": [
+        "Luna Simone Hotel",
+        "The Eaton Town House",
+        "Belgravia Apartments",
+        "Rubens at the Palace",
+        "The Resident Victoria",
+        "The Guardsman Hotel & Residence",
+        "Conrad London St.James",
+        "St. Ermin’s Hotel Autograph Collection",
+        "The Goring"
+      ],
+      "handRecorded": true,
+      "note": "Hotel names recorded by hand on 2026-09-09: this page puts them in markup consensus.mjs never reaches (its heading-only path short-circuits on 8+ surviving nav headings), so the fetched array was all furniture. Read off the saved HTML and checked by eye."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+# SERP-seeded 2026-09-09, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# ---------------------------------------------------------------------------
+# DROPPED ON THIS PASS, and the tell that decided each:
+#
+#   checkinapartments.com, londonservicedapartments.net - booking agencies.
+#   aparthotel.io - aggregator. Same rule as Booking.com. Do not re-add.
+#
+#   hotelsoflondon.net - AGGREGATOR, not a guide. Its own index carries the
+#     whole grid: london-beach-hotels, london-golf-hotels, london-chalet,
+#     london-resorts - categories that do not exist in London - plus
+#     "cheap-hotels-near-barcelona-el-prat-airport-bcn-london", which is the
+#     template misfiring in public. Its "Top Destinations" page lists scraped
+#     booking inventory as if it were editorial ("Double Bed Room Perfect For
+#     Couple With All Indeed Room 05 London") and ships the same page in seven
+#     languages. A database with a stylesheet.
+#
+#   telegraph.co.uk - UNREADABLE, not judged. The whole domain now answers
+#     scripted requests with HTTP 402 and "You are not authorized to access
+#     this content without a valid TollBit Token" - a paid bot-licensing gate.
+#     It is already failing this way in every existing hotels-* corpus. Not
+#     worked around; recorded and dropped, as with the chinatown.co.uk CAPTCHA.
+#     The URL, for whoever can read it in a browser:
+#     https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/best-aparthotels-london/
+#
+# ADDED ON THIS PASS:
+#   loveandlondon.com - Jessica Dante, already verified real in hotel-corpus.md.
+#     Two pages, one domain: namedBy counts domains, so this is one voice.
+#
+# READ THE OUTPUT WITH THIS IN MIND: aparthotel guides name operator BRANDS
+# far more often than buildings. "Locke" is a brand; "Bermonds Locke" is a
+# property. Love and London's pages are entirely brand-led.
+# ---------------------------------------------------------------------------
+
+Conde Nast Traveller|https://www.cntraveller.com/gallery/best-aparthotels-london
+
+# Blogs
+Candace Abroad|https://candaceabroad.com/aparthotels-in-london/
+Love and London|https://loveandlondon.com/london-apart-hotels-better-than-airbnb/
+Love and London|https://loveandlondon.com/best-hotels-in-london-for-long-stays/

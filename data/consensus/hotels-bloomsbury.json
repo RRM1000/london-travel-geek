@@ -1,0 +1,66 @@
+{
+  "cuisine": "hotels-bloomsbury",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "Santorini Dave",
+      "url": "https://santorinidave.com/bloomsbury-hotels",
+      "scope": "hotels-bloomsbury",
+      "names": [
+        "Montague On The Gardens",
+        "The Bloomsbury Hotel",
+        "Morgan Hotel",
+        "Generator London",
+        "Jesmond Hotel"
+      ]
+    },
+    {
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/west-end/bloomsbury/hotels/",
+      "scope": "hotels-bloomsbury",
+      "names": [],
+      "error": "HTTP 402"
+    },
+    {
+      "name": "Top Tip London",
+      "url": "https://www.toptiplondon.com/accommodation/budget-hotels/bloomsbury-hotels",
+      "scope": "hotels-bloomsbury",
+      "names": [
+        "Arosfa Hotel",
+        "George Hotel",
+        "Ridgemount Hotel",
+        "Arran House Hotel"
+      ]
+    },
+    {
+      "name": "All Around London",
+      "url": "https://allaroundlondon.com/hotels-near-the-british-museum/",
+      "scope": "hotels-bloomsbury",
+      "names": [
+        "Rosewood London",
+        "Kimpton Fitzroy London",
+        "myhotel Bloomsbury",
+        "The Bloomsbury Hotel",
+        "Radisson Blu Edwardian Mercer Street",
+        "Montague on the Gardens"
+      ]
+    },
+    {
+      "name": "London Info Guide",
+      "url": "https://www.londoninfoguide.com/best-hotels-near-british-museum-london.html",
+      "scope": "hotels-bloomsbury",
+      "names": [
+        "The Montague on the Gardens",
+        "Morgan Hotel",
+        "Lonsdale Hotel London",
+        "Thistle London Holborn Hotel",
+        "Bertrand's Townhouse Hotel",
+        "Morgan Hotel London",
+        "Thistle London Bloomsbury Park",
+        "The Thanet Hotel",
+        "Astor Museum Hostel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+# SERP-seeded 2026-09-09 via the browser, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# DROPPED on this pass, with the tell that decided it:
+#   luxuryabode.com - MARKETING ARM OF A LISTINGS MARKETPLACE, and it solicits
+#     sponsorship from the hotels it names, inside the article: "If you represent
+#     a hotel or property featured in this guide and wish to explore a
+#     partnership, featured listing, sponsored placement or ongoing editorial
+#     collaboration, we would welcome a conversation." Immediately followed by
+#     tell #5, the protest: "Our editorial standards are absolute - every
+#     recommendation in this guide is genuine". No named human ("LuxuryAbode's
+#     editorial team"). The parent is a luxury portal selling Real Estate,
+#     Vacation Rentals, Yachts, Jets, Jewelry and Cars, with "Become a Seller"
+#     and "Advertising & Promotions" in its own nav.
+#   belgravialdn-staging.preflight.site - somebody's unpublished staging site.
+#     Not a source. The PUBLISHED site is belgravialdn.com, seeded below.
+#
+# KEPT after vetting, and why:
+#   luxuryuk.com - real. Named contributor byline ("Contributor Maureen
+#     Littlejohn shares this list"), an uneven human archive (single-property
+#     reviews mixed with lists, mostly UK country hotels), no keyword-slug
+#     titles, no area grid. Affiliate disclosure is normal for a magazine.
+#     Hotel names sit in <strong>, so extraction relies on BOLD_LEAD.
+#
+# JUDGEMENT ON THE RECORD: belgravialdn.com is Belgravia Village, the area
+# promotion body for the Grosvenor estate. It is the same category as
+# southkenculturequarter.com, already used in hotels-south-kensington: an area
+# body, not an independent reviewer, and it has a commercial interest in the
+# neighbourhood it promotes. Kept as editorial, flagged here so the judgement is
+# on the record and its agreement is not read as arm's length.
+The Telegraph|https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/central/belgravia/hotels/
+Time Out|https://www.timeout.com/london/hotels/the-best-hotels-in-belgravia
+
+# Blogs, magazines and area bodies
+Sothebys Journal|https://blog.sothebysrealty.co.uk/the-journal/the-best-hotels-in-belgravia
+LuxuryUK|https://luxuryuk.com/london-hotels-in-belgravia/
+Belgravia Village|https://www.belgravialdn.com/stories/the-best-hotels-in-belgravia

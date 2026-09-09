@@ -1,0 +1,87 @@
+{
+  "cuisine": "hotels-spa",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "Time Out",
+      "url": "https://www.timeout.com/london/hotels/londons-best-spa-hotels",
+      "scope": "hotels-spa",
+      "names": [
+        "Hotel Café Royal",
+        "The Mandarin Oriental Mayfair",
+        "Rosewood Hotel",
+        "Sea Containers London",
+        "The Dorchester",
+        "Shangri-La Hotel at The Shard",
+        "The Berkeley",
+        "Langham Hotel",
+        "The Beaumont",
+        "Four Seasons Hotel London at Park Lane",
+        "Corinthia Hotel",
+        "Leonardo Royal London St Paul's",
+        "The Connaught"
+      ]
+    },
+    {
+      "name": "Conde Nast Traveller",
+      "url": "https://www.cntraveller.com/gallery/best-spas-in-london",
+      "scope": "hotels-spa",
+      "names": [
+        "The Peninsula Spa & Wellness Centre",
+        "Rosewood",
+        "Mandarin Oriental Hyde Park",
+        "The Londoner",
+        "The Mandrake",
+        "The Dorchester Spa",
+        "Mandarin Oriental Mayfair",
+        "Claridge’s Spa",
+        "Raffles London",
+        "45 Park Lane",
+        "Hotel Café Royal",
+        "The Lanesborough Club & Spa",
+        "the Bulgari Hotel London",
+        "The Connaught",
+        "Corinthia",
+        "The Ned"
+      ]
+    },
+    {
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/best-spa-hotels-london/",
+      "scope": "hotels-spa",
+      "names": [],
+      "error": "HTTP 402"
+    },
+    {
+      "name": "Travel And Retreat",
+      "url": "https://travelandretreat.com/2026/05/11/the-best-hotel-spas-in-london-2026/",
+      "scope": "hotels-spa",
+      "names": [
+        "Cambridge House",
+        "Waldorf Astoria London",
+        "Bamford Wellness Spa",
+        "I Finally Tried Acupuncture at The HVN Knightsbridge",
+        "Leave a Comment Cancel Reply",
+        "Recent Posts",
+        "Featured Posts",
+        "Asia",
+        "UK",
+        "South America",
+        "North America",
+        "Morocco",
+        "Middle East",
+        "Places to Stay",
+        "Style & Culture",
+        "Beauty",
+        "Fitness",
+        "Spas",
+        "Wellness",
+        "Fashion",
+        "Skincare & Makeup",
+        "Lifestyle",
+        "News & Inspiration"
+      ]
+    }
+  ]
+}

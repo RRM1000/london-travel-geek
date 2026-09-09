@@ -1,0 +1,73 @@
+# SERP-seeded 2026-09-09, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# ===========================================================================
+# THIS CORPUS COULD NOT BE BUILT. Read this before trusting any number that
+# comes out of it.
+#
+# Both sources the SERP gave are hard-blocked, and neither block is anything a
+# fetcher can or should get past:
+#
+#   visitlondon.com - LEGITIMATE SOURCE, UNREADABLE. London & Partners is the
+#     city's official tourism body, and its "best hotels in Greenwich" page is
+#     a written editorial list, not a paid directory - so it is a real source
+#     and that judgement is recorded here deliberately. It is also already on
+#     the permanent403 list in data/sources.json, and the reason checks out: it
+#     now serves a Cloudflare MANAGED CHALLENGE to every user agent tried
+#     (Chrome, Safari, Googlebot, none) - "Enable JavaScript and cookies to
+#     continue". hotel-corpus.md's rule for a real barrier is to drop the
+#     source as unreadable rather than work around it, as with chinatown.co.uk.
+#     Dropped, not judged. Needs a human in a browser.
+#     https://www.visitlondon.com/things-to-do/london-areas/greenwich/best-hotels-in-greenwich
+#
+#   telegraph.co.uk - UNREADABLE. The whole domain answers scripted requests
+#     with HTTP 402 and "You are not authorized to access this content without
+#     a valid TollBit Token" - a paid bot-licensing gate, not a soft paywall.
+#     This is not new to this pass: the Telegraph is already recorded as
+#     HTTP 402 in hotels-soho, hotels-shoreditch, hotels-covent-garden,
+#     hotels-kings-cross and hotels-south-kensington. It is dead everywhere.
+#     https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/east/canary-wharf/hotels/
+#
+# DROPPED ON THIS PASS:
+#
+#   visitgreenwich.org.uk - AGGREGATOR. The borough DMO, and its
+#     /accommodation section is a paid MEMBER DIRECTORY, not a guide: entries
+#     carry database product ids (/accommodation/novotel-london-greenwich-p833021,
+#     -p833071, -p833091, -p2032321) and the categories include caravan,
+#     camping and glamping. A listing there means membership, not merit -
+#     exactly the Booking.com objection. Refused.
+#
+# SEARCHED FOR A REPLACEMENT AND FOUND NONE. Sitemaps read in full for
+# Greenwich, Canary Wharf or Docklands ACCOMMODATION content, all with nothing:
+#   loveandlondon.com, anywhereweroam.com (has 6 London where-to-stay guides,
+#   none east or south-east), secretldn.com (51 Greenwich/Canary Wharf posts,
+#   not one about staying), londonxlondon.com (its Greenwich and Canary Wharf
+#   area guides carry no hotel section at all), sunnyinlondon.com, thenudge.com,
+#   thelondonmother.net, thehoteljournal.com, luxurylondon.co.uk (31
+#   Canary Wharf posts, all property, dining or events), santorinidave.com,
+#   cntraveller.com, tjtakesthetrain.com. allaroundlondon.com now 403s.
+#   Time Out has no Greenwich or Canary Wharf hotels page.
+#
+# WHAT IS ACTUALLY SEEDED BELOW is one partial-scope source, kept so the topic
+# returns something auditable rather than nothing. It is a SOUTH LONDON list,
+# not a Greenwich one: it reaches Bankside, Wimbledon and Tulse Hill as well,
+# and names exactly one Greenwich property. With a single domain in the corpus
+# NOTHING can reach the 2+ domain bar, so it cannot promote a false positive -
+# but it is not evidence of consensus either. Treat every name it returns as a
+# single mention from a list that was not about this area.
+#
+# THIS TOPIC NEEDS SERP WORK IN A BROWSER BEFORE IT MEANS ANYTHING.
+# ===========================================================================
+
+Time Out|https://www.timeout.com/london/hotels/the-best-hotels-in-south-london

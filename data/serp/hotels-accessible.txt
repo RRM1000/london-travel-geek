@@ -1,0 +1,73 @@
+# SERP-seeded 2026-09-09, per data/serp/README.md and
+# data/reference/hotel-corpus.md.
+#
+# Rob's rule for the hotel corpora: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - they rank by inventory and
+# commission, so a listing says nothing about whether anyone rates the place.
+# Brand sites are out for the same reason. Hotels.com is a validator only.
+#
+# EXCLUDED as AI/aggregator template farms - see hotel-corpus.md for the tells:
+#   lamplitlondon.com, explorecities.com, luxuryhotel.guide, boutiquehotel.guru,
+#   new-hotels-guide.com, where-stay.com, choosewhere.com, hotelradar.co.uk,
+#   pmahotels.org, taketravelinfo.com, myboutiquehotel.com, dyme.earth,
+#   bestboutiquehotelsworldwide.com, theluxuryeditor.com, blog.hotelslash.com
+#
+# THIS TOPIC HAS A HIGHER BAR THAN THE OTHERS. An accessibility claim is one a
+# reader acts on and gets stranded by. A name appearing in a list is not
+# evidence a hotel is accessible - only a specific, attributable claim is
+# ("18 accessible rooms, two with ceiling track hoists"). Loose wording
+# ("accessible rooms available", "consistently praised") is not usable and
+# must not be repeated on the site. Nothing goes on a page from one source's
+# say-so where that source did not say what it actually checked.
+#
+# DROPPED IN THIS PASS
+#   absolutemobility.co.uk - a mobility-equipment retailer's blog, and a
+#     substantive piece of desk research (2,712 words, it even criticises
+#     Euan's Guide for thin coverage). Dropped anyway because of where its
+#     hotel names come from. The Premier Inn and Travelodge sections restate
+#     those brands' own access statements - brand sites, barred by the rule
+#     above. The "Other Accessible London Hotels" section says outright: "Our
+#     booking.com accessible hotel search returned the following hotels",
+#     i.e. eleven names pasted straight out of a Booking.com accessibility
+#     filter. Counting it would launder a brand site and a booking engine into
+#     the corpus as if they were an editorial voice. Author is "Sarah", first
+#     name only; the piece never claims anyone visited; unedited throughout
+#     ("ofter", "accomadation", "woudl", "acutually").
+#   disabilityid.co.uk - the National Disability Card's marketing blog. Fails
+#     all three of the README's farm tests at once: no named writer (the
+#     schema author is the Organization "National Disability Card"), no
+#     evidence of a visit, and the page exists to sell the card. The rest of
+#     the blog is PIP freebies, discounted gift cards and card-partner news -
+#     no travel reporting at all. Its hotel claims are attributed to nobody
+#     ("often highlighted as a benchmark", "consistently praised") and the
+#     star ratings beside each name are lifted aggregate booking scores, not
+#     an accessibility measure. Its specifics (4 accessible rooms at
+#     Bermondsey Square, 8 at Novotel Greenwich, a pool hoist at Hilton
+#     Wembley) are recorded in the run report as unverified leads, but the
+#     domain is not counted as an independent voice.
+#
+# KEPT AFTER VETTING
+#   blog.wheeltheworld.com - Wheel the World is a booking platform, and its
+#     blog is kept anyway. Named author (Ethan Godard, with a photo and an
+#     author page), and the London piece carries measured, checkable access
+#     data rather than adjectives: bed heights in inches per property, turning
+#     space, roll-in shower, shower seat, grab bars, and a bed hoist called
+#     out at Pan Pacific. That is the opposite of ranking by commission. Two
+#     caveats to carry: the list can only contain properties Wheel the World
+#     has mapped and sells, so it is inventory-bounded and says nothing about
+#     what it omits; and it was published January 2024 and last touched March
+#     2024, which is old for facilities claims.
+#
+# NOTE: visitlondon.com is London & Partners, the city's official tourism body
+# for the Mayor of London - a legitimate editorial source, not an aggregator,
+# and the judgement is recorded here on purpose. It is already registered in
+# data/sources.json as blocked ("403s the fetcher but loads fine in a
+# browser"), confirmed again on 9 Sep 2026, so seed-sources refuses it at the
+# door. The URL is kept live below so the refusal shows up in every run.
+
+The Independent|https://www.independent.co.uk/travel/uk/england/london/best-wheelchair-accessible-hotels-london-b3010299.html
+Visit London|https://www.visitlondon.com/where-to-stay/hotel/accessible-hotels
+
+# Specialist accessible-travel writers
+Wheelchair Travel|https://wheelchairtravel.org/london-hotels/
+Wheel the World|https://blog.wheeltheworld.com/accessible-hotels-london/

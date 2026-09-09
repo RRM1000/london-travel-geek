@@ -1,0 +1,70 @@
+{
+  "cuisine": "hotels-aparthotel",
+  "note": "Seeded 2026-09-09.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "Conde Nast Traveller",
+      "url": "https://www.cntraveller.com/gallery/best-aparthotels-london",
+      "scope": "hotels-aparthotel",
+      "names": [
+        "The Other House",
+        "The July",
+        "Ham Yard Residences",
+        "The Chancery Rosewood",
+        "Mason & Fifth Belsize Park",
+        "Bermonds Locke",
+        "11 Cadogan Gardens",
+        "Native King’s Wardrobe",
+        "The Athenaeum Hotel & Residences",
+        "The Marlo",
+        "Chinnery House",
+        "Cheval Gloucester Park",
+        "The Townhouse at The Haymarket Hotel",
+        "65 Harley Street"
+      ]
+    },
+    {
+      "name": "Candace Abroad",
+      "url": "https://candaceabroad.com/aparthotels-in-london/",
+      "scope": "hotels-aparthotel",
+      "names": [
+        "Wilde Apartments Covent Garden",
+        "Leman Locke Aldgate",
+        "Native Bankside",
+        "Staycity Greenwich",
+        "Citadines Barbican",
+        "No. 11 Cadogan Gardens",
+        "Town Hall Hotel Shoreditch"
+      ]
+    },
+    {
+      "name": "Love and London",
+      "url": "https://loveandlondon.com/london-apart-hotels-better-than-airbnb/",
+      "scope": "hotels-aparthotel",
+      "names": [
+        "Cheval Residences",
+        "Locke",
+        "StayCity",
+        "Citadines",
+        "Space Apart Hotel",
+        "Native",
+        "Room2"
+      ]
+    },
+    {
+      "name": "Love and London",
+      "url": "https://loveandlondon.com/best-hotels-in-london-for-long-stays/",
+      "scope": "hotels-aparthotel",
+      "names": [
+        "Cheval Residences",
+        "StayCity",
+        "Citadines",
+        "Native",
+        "Room2",
+        "Staybridge Suites London",
+        "Locke"
+      ]
+    }
+  ]
+}
