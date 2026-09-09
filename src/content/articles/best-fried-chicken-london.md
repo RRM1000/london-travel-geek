@@ -36,7 +36,7 @@ That disagreement is not a flaw in the evidence. It is the most interesting thin
 > 💡 **The Short Version:** **20Ft Fried Chicken** won the only judged championship. **Good Friend** in Chinatown is named by more sources than anything else. **Chick'N'Sours** and **Butchies** are the only two names in both camps — and Chick'N'Sours no longer has a restaurant. **Morley's** is the chicken shop the serious lists actually name. For Korean, go to **New Malden**.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **14 independent sources carrying 130 citations** across **76 named venues**. **23 are named by two or more sources; six carry a dated award.**
+> Nothing here rests on one visit. This pass reads **14 independent sources carrying 130 citations** across **75 named venues**. **22 are named by two or more sources; six carry a dated award.**
 > **Built on:** one judged championship, seven mastheads, two independent blogs and four YouTube channels — counted per creator, so a channel's five videos are one voice.
 > *Evidence built 7 September 2026 · [How we rank →](/how-we-rank/)*
 
