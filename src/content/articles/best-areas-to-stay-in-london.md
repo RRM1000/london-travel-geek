@@ -38,15 +38,9 @@ This page is the sleeping question. If you want the looking-at-things question, 
 
 ## Getting home at night
 
-Most trips never run into this at all. **The Tube runs until about half past midnight from central London.** The last Central line train out of Oxford Circus is 00:30 on a weekday, the last Piccadilly from Piccadilly Circus 00:34, the last Northern from Leicester Square 00:33. A theatre curtain down at 22:30 is nowhere near the edge of that, and neither is dinner and a drink afterwards.
+**The Tube runs until about half past midnight, and night buses run everywhere, every night of the week.** Most trips never run into this at all. Night Tube is Friday and Saturday only, and Sundays finish earlier everywhere.
 
-Two things are worth knowing anyway.
-
-**Sundays are earlier, everywhere.** Last trains come forward by half an hour to an hour: the last Central line train from Oxford Circus is 23:41, and the last southbound Northern line train from Leicester Square is 23:12. There is no Night Tube on a Sunday either. If the trip has one big night in it and that night is a Sunday, this is the one to check.
-
-**Past about midnight you are on a night bus, or the Night Tube if it is a Friday or Saturday.** The Night Tube runs on those two nights only, on the Central, Jubilee, Northern, Piccadilly, Victoria and Windrush lines. Night buses run every night of the week across the whole city — more than sixty numbered N routes, plus the ordinary routes that run twenty-four hours, against six lines on the Night Tube. A journey is £1.75, the daily bus cap is £5.25, and the Hopper fare gives you unlimited bus and tram journeys within an hour of touching in, so changing buses costs nothing extra. The difference is time rather than money: a night bus across London takes longer than the Tube would, so allow an extra half hour if you are heading back out to Zone 3.
-
-If you do plan late nights, three details catch people out. None of them is a reason to book somewhere else.
+If your trip has one late night in it, three things catch people out. None is a reason to book somewhere else.
 
 | What people assume | What actually happens |
 | --- | --- |
@@ -54,7 +48,7 @@ If you do plan late nights, three details catch people out. None of them is a re
 | The Northern line serves Old Street, so Shoreditch is covered | The Northern line's night service runs **via Charing Cross only**, so the Bank branch — Old Street, Angel, Moorgate, Borough — has none |
 | Paddington is a huge interchange, so it must have one | **Paddington has no Night Tube line.** Bakerloo, Circle, District, Hammersmith & City and Elizabeth all stop overnight |
 
-The DLR shuts every night too, which is worth knowing in Greenwich and at Canary Wharf. In all four cases there is a night bus, so what you lose is time rather than the option of going home.
+The DLR shuts overnight too, which is worth knowing in Greenwich and at Canary Wharf.
 
 ---
 
