@@ -76,6 +76,10 @@ Add a malted shake, which is on the menu for the specific job of cutting through
 
 *££ · Finsbury Park · 6 min from Finsbury Park · walk-in · Cited by 7 sources · [website](https://www.theplimsoll.co.uk/)*
 
+![A thick cheeseburger on a small brown-rimmed plate on a dark pub table, melted cheese and fried onion spilling out of a glossy soft bun, with no lettuce or tomato in it](../../assets/articles/best-burgers-london/the-plimsoll.webp)
+
+*A pub plate, a soft bun and nothing green in it. There are no bookings for the burger, so this is what turning up and waiting at the bar gets you.*
+
 **A modern Finsbury Park pub with the most-written-about burger in London**, cooked by the chef duo Four Legs — which is why some sources file it under Four Legs and some under the pub. It is one burger, in one room.
 
 The **Dexter cheeseburger** is the order and the restraint is the point: a Dexter beef patty, diced onion, pickles, cheese and burger sauce in a soft bun, and **no lettuce and no tomato**. The kitchen has said openly it is aiming at what a McDonald's does and doing it with better beef, which is a more honest description than most burger menus manage.
@@ -125,6 +129,10 @@ The thin patty pressed hard onto the plancha so the crust caramelises edge to ed
 
 *££ · Soho · 3 min from Piccadilly Circus · walk-in · Cited by 4 sources*
 
+![A Supernova cheeseburger in an open white takeaway box beside a second box of fries, the fries half wrapped in paper printed with the Supernova name](../../assets/articles/best-burgers-london/supernova.jpg)
+
+*Boxed to go, which is the sensible move here — the room is small and it queues from lunchtime. Burger and fries is close to the entire menu.*
+
 **A 25-word menu, and one of the best cheeseburgers in central London.** It went viral on the shortness of the offer rather than on any gimmick.
 
 The **House Cheeseburger** is a smashed patty with house sauce, and the crust comes off so lacy at the edges that The Infatuation compared it to a doily. Hand-cut fries beside it. That is close to the whole menu.
@@ -136,6 +144,10 @@ The room is small, pale and contemporary — closer to a coffee bar than a burge
 ### Manna, Soho
 
 *£ · Arcade Food Hall, Tottenham Court Road · 1 min from Tottenham Court Road · walk-in · Cited by 4 sources*
+
+![A double cheeseburger on a metal plate, American cheese melting over two thin seared patties in a glossy bun, sitting on greaseproof paper printed with the Manna name](../../assets/articles/best-burgers-london/manna.jpg)
+
+*Two thin patties and a lot of cheese, on Manna's own paper. It comes off a counter inside Arcade Food Hall rather than a restaurant, which is why nobody has to book.*
 
 **A smash burger counter inside a food hall**, which makes it the easiest good burger to reach in central London — straight up from the Tottenham Court Road ticket hall.
 
@@ -160,6 +172,10 @@ Netil Market is a small yard of traders beside Broadway Market, so this works as
 ### Dumbo, Shoreditch
 
 *£ · Shoreditch · 5 min from Shoreditch High Street · walk-in · Cited by 3 sources*
+
+![A smash burger on a white paper plate on a steel counter, two crisp-edged patties under melted American cheese and sauce, with shredded lettuce showing at the base of the bun](../../assets/articles/best-burgers-london/dumbo.jpg)
+
+*Both patties smashed thin enough to go lacy at the edge, on a paper plate on a steel counter. The four-item menu does not stretch to crockery, and that is the point.*
 
 **Paris-born, and the menu runs to four items** — a cheeseburger, an earth burger, nuggets and fries. That is the entire proposition and it is the reason it works.
 
