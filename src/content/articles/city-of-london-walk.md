@@ -2,8 +2,8 @@
 title: "A Walk Around the City of London: Bank to Tower Bridge in Eleven Stops"
 seoTitle: "City of London Walking Route: Bank to Tower Bridge + Map"
 description: "A numbered walking route through the Square Mile, from the Bank junction to Tower Bridge, taking in Leadenhall Market, a bombed church that became a garden and a free view from the 58th floor. With what is open on which day."
-heroImage: "../../assets/articles/city-of-london-walk/bank-royal-exchange.jpg"
-heroImageAlt: "The Royal Exchange portico and the Bank of England at the Bank junction, with traffic and a red bus"
+heroImage: "../../assets/articles/city-of-london-walk/bank-junction-royal-exchange.jpg"
+heroImageAlt: "The Royal Exchange portico and the Wellington statue at the Bank junction, with the City's glass towers rising behind and the Bank of England under scaffolding to the left"
 publishedAt: 2026-09-09
 sites: [london]
 canonicalSite: london
@@ -33,7 +33,7 @@ It is about **3km and takes two to three hours** with stops. All of it is free e
 
 For the wider area — St Paul's, Smithfield, the Roman remains, where to stay — see the [City of London area guide](/articles/city-of-london-area-guide/). This is the walking route version of it.
 
-> 💡 **The Short Version:** Go on a **weekday**, ideally Tuesday to Thursday. Start at **Bank**, finish at **Tower Bridge**. The unmissable stop is **St Dunstan-in-the-East**, a bombed church turned garden, and it is free. For the view, book **Horizon 22** — free, level 58, and the highest free platform in London — or walk into **The Garden at 120** with no booking at all. Eat at **Leadenhall Market** in the middle or **St Katharine Docks** at the end.
+> 💡 **The Short Version:** Go on a **weekday**, ideally Tuesday to Thursday. Start at **Bank** — go inside the **Royal Exchange**, which is free and which most people walk past — and finish at **Tower Bridge**. The unmissable stop is **St Dunstan-in-the-East**, a bombed church turned garden, and it is free. For the view, book **Horizon 22** — free, level 58, and the highest free platform in London — or walk into **The Garden at 120** with no booking at all. Eat at **Leadenhall Market** in the middle or **St Katharine Docks** at the end.
 
 ## The route
 
@@ -53,9 +53,11 @@ For the wider area — St Paul's, Smithfield, the Roman remains, where to stay �
   </noscript>
 </details>
 
+**[Open the whole route in Google Maps →](https://www.google.com/maps/dir/?api=1&origin=51.51343,-0.086975&destination=51.506541,-0.07165&waypoints=51.514467,-0.087621%7C51.512728,-0.083395%7C51.512965,-0.082407%7C51.514478,-0.082973%7C51.510946,-0.086449%7C51.509678,-0.082496%7C51.509394,-0.079301%7C51.508217,-0.076188%7C51.505517,-0.075366&travelmode=walking)** — all eleven stops in walking order, set to walking directions, which is the version to put on your phone.
+
 | # | Stop | Cost | Open |
 | --- | --- | --- | --- |
-| **1** | Bank junction | Free | Always |
+| **1** | Bank junction & Royal Exchange | Free | Streets always; interior weekdays |
 | **2** | Bank of England Museum | Free | **Weekdays only** |
 | **3** | Leadenhall Market | Free | Lanes always; traders weekdays |
 | **4** | The tower cluster | Free | Always |
@@ -71,11 +73,19 @@ For the wider area — St Paul's, Smithfield, the Roman remains, where to stay �
 
 ## 1. Bank junction
 
-![The Royal Exchange portico and the Bank of England at the Bank junction, with traffic and a red bus](../../assets/articles/city-of-london-walk/bank-royal-exchange.jpg)
+![The Royal Exchange portico and the Wellington statue at the Bank junction, with the City's glass towers rising behind and the Bank of England under scaffolding to the left](../../assets/articles/city-of-london-walk/bank-junction-royal-exchange.jpg)
+
+*Wellington on the left, the Royal Exchange on the right, and 22 Bishopsgate behind. The Bank of England is under scaffolding at the moment, which is the one thing here that will look different when you arrive.*
 
 **Seven streets meet here and no two of them agree on a right angle.** That is the whole City in one junction: a medieval street plan that was never straightened, with neoclassical banking wrapped around it and glass towers behind.
 
 Stand with your back to Bank station's Royal Exchange exit and you have the **Royal Exchange** portico in front of you, the windowless wall of the **Bank of England** to the left, and **Mansion House**, where the Lord Mayor lives, to the right. The Bank's outer wall has no ground-floor windows anywhere along its length — it was built to be defensible, and it still reads that way.
+
+**Go inside the Royal Exchange** — most people photograph the portico and walk on, which is a mistake, because the interior is the best free thing at this end of the walk.
+
+It was founded by the merchant **Sir Thomas Gresham** and opened by **Elizabeth I in 1571** as London's first purpose-built centre of commerce: a courtyard where merchants met to trade, modelled on the bourse at Antwerp. It burned down in the Great Fire, was rebuilt, and burned again — the building you are standing in front of is the **third**, by Sir William Tite, opened by Queen Victoria in 1844.
+
+It stopped being an exchange long ago. What it is now is a **covered courtyard of shops and restaurants under a glass roof**, ringed by two storeys of colonnade, with a bar in the middle of the floor where the trading once happened. **Walking in costs nothing** and takes two minutes, and the ceiling is worth the detour on its own. The shops and the bar keep their own hours and, like everything else here, they are a weekday trade.
 
 > ⚠️ **Bank station has a dozen exits** spread across a very large junction. Follow signs for the Royal Exchange rather than surfacing at random and working out where you are.
 
@@ -89,7 +99,9 @@ If you are walking at a weekend, this stop simply is not available, and no amoun
 
 ## 3. Leadenhall Market
 
-![The painted maroon and green ironwork and glass roof of Leadenhall Market, with the Lamb Tavern under the arcade](../../assets/articles/city-of-london-walk/leadenhall-market.jpg)
+![The painted maroon, cream and gold arcade of Leadenhall Market under its glass roof, with the Lamb Tavern on the left and drinkers at barrel tables along the lane](../../assets/articles/city-of-london-walk/leadenhall-market-arcade.jpg)
+
+*The Lamb Tavern on the left, and the barrel tables that fill from about noon on a weekday. This is a Sunday-empty room the rest of the time.*
 
 **A covered Victorian market in maroon and green ironwork**, built by Horace Jones in 1881 on a site that has been a market since the fourteenth century. It is the prettiest interior on this walk and it takes about four minutes to see, which is why nobody minds the detour.
 
@@ -101,7 +113,9 @@ It is also the reason to time this walk around lunch: see the eating section bel
 
 ## 4. The tower cluster
 
-![A classical stone portico and carved cornice in the foreground with the glass towers of 22 Bishopsgate and the Scalpel rising directly behind](../../assets/articles/city-of-london-walk/old-and-new-city.jpg)
+![Looking up a narrow City alley, Victorian arched windows on one side and classical stonework on the other, with a glass tower filling the gap of sky above](../../assets/articles/city-of-london-walk/city-alley-tower-above.jpg)
+
+*The whole argument for walking rather than taking the tube between stops: the alleys are medieval in plan, the walls are Victorian, and the thing filling the sky was finished in 2020.*
 
 Step out of the market's east exit and the towers are directly overhead. This is not a stop so much as **two hundred metres of looking up**.
 
@@ -121,6 +135,10 @@ Three free options within five minutes of each other. **You would only do one.**
 
 > 💡 **If you have not booked anything, go to the Garden at 120.** It is the only viewpoint in the City you can decide on while standing in the street.
 
+![The curved glass flank of 20 Fenchurch Street, the Walkie-Talkie, seen from the pavement directly below and flaring outwards towards the top](../../assets/articles/city-of-london-walk/walkie-talkie-from-below.jpg)
+
+*20 Fenchurch Street from the pavement. The Sky Garden is the glasshouse under that overhang, and this is the angle you get for free.*
+
 ## 6. The Monument
 
 **Wren's column to the Great Fire**, 202 feet tall and set 202 feet from the Pudding Lane bakery where the fire started in 1666 — the height is the distance, which is the kind of detail the seventeenth century enjoyed.
@@ -136,6 +154,10 @@ Open **daily, 9.30am to 6pm April to September** (last admission 5.30pm) and **9
 A Wren church, bombed in the Blitz in 1941, and never rebuilt. What was left — the tower, the outer walls, the empty window tracery — was made into a public garden by the City in the 1960s. So you get a church-shaped garden: climbing plants growing up through the window openings, a fountain where the nave was, and the sky where the roof should be.
 
 It is small, it is on a slope off St Dunstan's Hill, and it is quiet in a way nothing else in this postcode manages. Come here even if you skip everything else on this list.
+
+![The ruined shell of St Dunstan-in-the-East, Gothic window tracery standing open to the sky with ivy grown over the walls and a tree leaning across the cobbled path](../../assets/articles/city-of-london-walk/st-dunstan-in-the-east.jpg)
+
+*The windows have no glass and the nave has no roof. Everything green in this photograph arrived after 1941.*
 
 > ⚠️ **It is far better known than it was.** Early morning is when you get it to yourself; lunchtime on a warm weekday it is full of office workers, which is a nicer problem than tourists but is still a full garden.
 
@@ -153,9 +175,13 @@ The one paid ticket on the route, and a **half-day in its own right** rather tha
 
 If you are doing it, **book ahead and go at opening** — the Crown Jewels queue is the whole difficulty and it is shortest in the first hour. Opening is **9am Tuesday to Saturday but 10am on Sunday and Monday**, and closing is 5.30pm in summer, 4.30pm in winter. That hour matters if the Tower is your first stop rather than your last: on a Tuesday-to-Thursday walk you can be inside before the coaches arrive. If you are not doing it today, the walk still works: the outer walls, the wharf and Tower Hill are free to walk, and the **Roman city wall** stands in the gardens by Tower Hill station.
 
+![The Middle Tower and outer curtain wall of the Tower of London above the dry moat, with contractors' hoarding and site cabins along the near side](../../assets/articles/city-of-london-walk/tower-of-london-entrance.jpg)
+
+*The west entrance, and the moat you cross to reach it. The hoarding along the near side is current works — you walk past it either way.*
+
 ## 10. Tower Bridge
 
-![The City's tower cluster seen across the Thames, the Walkie-Talkie and Cheesegrater rising behind riverside flats](../../assets/articles/city-of-london-area-guide/city-skyline-from-bankside.jpg)
+![Tower Bridge seen along the Thames from the Tower's riverside wharf, both towers and the high walkway in full, under a bright sky](../../assets/articles/city-of-london-walk/tower-bridge-from-the-wharf.jpg)
 
 **Crossing it costs nothing.** The road and pavements are a public highway and always have been.
 
@@ -171,6 +197,10 @@ A former dock basin turned marina — **yachts, a lock, and restaurants and pubs
 
 It is also **open at weekends**, which most of this walk is not. If you are walking on a Sunday, this is where the day recovers.
 
+![The Dickens Inn at St Katharine Docks, a timber-framed warehouse with three tiers of balconies covered in hanging baskets of flowers](../../assets/articles/city-of-london-walk/dickens-inn-st-katharine-docks.jpg)
+
+*The Dickens Inn, which is a converted warehouse rather than the eighteenth-century pub it looks like. The flowers are the giveaway.*
+
 ---
 
 ## Where to eat
@@ -180,6 +210,10 @@ Two proper options, and the choice is decided by the day rather than the food.
 **Leadenhall Market — the middle of the walk.** Pubs and restaurants under the painted ironwork, including the **Lamb Tavern**, which has been there since 1780. It is the better setting of the two and the better lunch stop, because it lands at roughly the halfway point. But it is a weekday trade: the market's own guidance is that opening hours vary by business and to check before you travel, and at weekends a good number simply do not open.
 
 **St Katharine Docks — the end of the walk.** Restaurants, pubs and cafés around the marina, open seven days, and the obvious place to stop when you have finished. Less atmospheric than Leadenhall; considerably more reliable on a Saturday or Sunday.
+
+![Tables and bright red and yellow chairs on a stone dock wall at St Katharine Docks, moored yachts alongside and the brick arches of Commodity Quay behind](../../assets/articles/city-of-london-walk/st-katharine-docks-terrace.jpg)
+
+*This is the argument for finishing here rather than at the bridge: the tables are on the dock wall and the things moored alongside are boats.*
 
 **Across the bridge**, Butler's Wharf on the south bank has a run of riverside restaurants facing back at Tower Bridge, if you would rather end on the other side.
 
