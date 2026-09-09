@@ -176,6 +176,10 @@ And then **Borough Market**, which is the reason a lot of people do this walk at
 
 Beside it, **Hay's Galleria** is a covered Victorian dock with a glass roof, now shops and cafés around a strange kinetic sculpture of a ship. **Free, covered and warm**, which makes it the shelter stop if the weather turns in the last mile.
 
+![Inside Hay's Galleria, a barrel-vaulted glass and iron roof over brick warehouse walls, with a tall dark metal ship sculpture standing in a circular pool in the middle](../../assets/articles/south-bank-walk/hays-galleria.jpg)
+
+*The dock was roofed over rather than filled in, which is why the sculpture sits in water. The court behind it is a temporary installation and comes and goes.*
+
 ![HMS Belfast moored on the Thames with the City of London's towers behind it, the Walkie-Talkie and the Gherkin on the skyline](../../assets/articles/south-bank-walk/hms-belfast.jpg)
 
 *The warship and the banking towers in one frame, which is the Pool of London in a sentence. You do not need a ticket for this view.*
