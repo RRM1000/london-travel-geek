@@ -393,7 +393,6 @@
       "names": [
         "Well-connected via Bank and Liverpool Street stations",
         "Feels very business-oriented during the week",
-        "Gorgeous pastel townhouses and photogenic streets",
         "A bit further from many major attractions",
         "Elegant architecture and calm",
         "On the expensive side",
@@ -452,6 +451,71 @@
         "Hampstead Heath",
         "Camden",
         "South of South Bank"
+      ]
+    },
+    {
+      "name": "Love and London - South",
+      "url": "https://loveandlondon.com/cool-hotels-in-south-london/",
+      "scope": "hotels",
+      "names": [
+        "Admiral Hardy",
+        "Bermonds Locke",
+        "The Half Moon",
+        "The Victoria Inn",
+        "The Windmill",
+        "Ruby Lucy Hotel",
+        "The Dog and Fox"
+      ]
+    },
+    {
+      "name": "Love and London - rooftops",
+      "url": "https://loveandlondon.com/london-hotels-with-rooftop-bars/",
+      "scope": "hotels",
+      "names": [
+        "Ham Yard Hotel",
+        "ME London",
+        "The Trafalgar St. James",
+        "Sea Containers",
+        "Hotel Saint",
+        "The Montcalm Royal London House",
+        "The Boundary",
+        "CitizenM Tower of London",
+        "The Ned",
+        "The Hoxton",
+        "The Berkeley",
+        "Treehouse Hotel",
+        "Top London Tours for Food Lovers",
+        "2 Comments"
+      ]
+    },
+    {
+      "name": "Love and London - Christmas",
+      "url": "https://loveandlondon.com/christmas-vibes-hotels-london/",
+      "scope": "hotels",
+      "names": [
+        "The Langham",
+        "The Stafford",
+        "Claridge’s Hotel",
+        "ME London",
+        "The Standard London",
+        "The Henrietta Experimental",
+        "The Connaught",
+        "Treehouse London"
+      ]
+    },
+    {
+      "name": "Love and London - NYE",
+      "url": "https://loveandlondon.com/new-years-eve-hotels-london/",
+      "scope": "hotels",
+      "names": [
+        "Shangri-La at The Shard",
+        "Marriott County Hall",
+        "The Ned",
+        "Sea Containers London",
+        "The Dorchester London",
+        "The Boundary",
+        "Corinthia Hotel London",
+        "The Royal Horseguards"
       ]
     }
   ]

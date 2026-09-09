@@ -29,3 +29,13 @@ Away to the City|https://awaytothecity.com/best-places-to-stay-in-london/
 Girl on a Zebra|https://girlonazebra.com/where-to-stay-in-london/
 Ranker Blog|https://rankerblog.co.uk/blog/where-to-stay-in-london/
 Janice Rohrssen|https://janicerohrssen.com/blog/where-to-stay-and-best-hotels-london-united-kingdom
+
+# Added 2026-09-09 from the community pass. Love and London is Jessica Dante's
+# channel and site - a Londoner writing for visitors, with a whole
+# accommodation section rather than one annual listicle. The YouTube video
+# "Don't stay in these areas in London" (Sept 2026) points at these pages for
+# the property names, so the pages are the source and the video is the pointer.
+Love and London - South|https://loveandlondon.com/cool-hotels-in-south-london/
+Love and London - rooftops|https://loveandlondon.com/london-hotels-with-rooftop-bars/
+Love and London - Christmas|https://loveandlondon.com/christmas-vibes-hotels-london/
+Love and London - NYE|https://loveandlondon.com/new-years-eve-hotels-london/

@@ -60,6 +60,21 @@
         "Barmy Badger",
         "Park Villa"
       ]
+    },
+    {
+      "name": "Love and London",
+      "url": "https://loveandlondon.com/london-hostels-budget-travellers/",
+      "scope": "hostels",
+      "names": [
+        "Destinations Hostels @ The Gallery",
+        "Onefam Notting Hill",
+        "YHA London Earls Court",
+        "Park Villa",
+        "Kabannas London St Pancras",
+        "Urbany Hostel London",
+        "Hostelle",
+        "Astor Hyde Park"
+      ]
     }
   ]
 }

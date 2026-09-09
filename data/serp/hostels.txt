@@ -4,3 +4,6 @@
 The Broke Backpacker|https://www.thebrokebackpacker.com/best-hostels-in-london/
 Nomadic Mick|https://www.nomadicmick.com/best-hostels-in-london/
 Nomadic Matt|https://www.nomadicmatt.com/travel-blogs/best-hostels-london/
+
+# Added 2026-09-09 from the community pass.
+Love and London|https://loveandlondon.com/london-hostels-budget-travellers/

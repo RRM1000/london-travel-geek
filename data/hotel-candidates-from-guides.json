@@ -1,17 +1,27 @@
 {
-  "_note": "Hotel candidates for the sheet, found 2026-09-09 by reading guides and blogs - NOT booking engines. Supersedes the 2026-09-07 pass, which enumerated the Hotels.com typeahead and so recorded what an OTA sells rather than what anyone rates.",
-  "_method": "SERP-first per data/serp/README.md: run the search a reader runs, with the word blog to pull independents above the mastheads. 20 sources across three corpora (data/serp/hotels.txt, hotels-budget.txt, hostels.txt), fetched and extracted by the normal consensus pipeline. Booking.com, Hotels.com, Expedia, Tripadvisor, Agoda and Hostelworld are excluded on sight - they rank by inventory and commission, so a listing there is not a recommendation.",
-  "_hotelsComRule": "Hotels.com is a VALIDATOR, never a source. Before a candidate becomes a row, confirm it exists and is bookable there, because a property that is not cannot carry an affiliate link. NOT YET DONE: uk.hotels.com/api/v4/typeahead returns HTTP 429 with a CAPTCHA challenge to curl. Needs the browser, as the URL-resolution pass did in September.",
-  "_numbers": {
-    "sourcesFetched": 20,
-    "sourcesDead": 1,
-    "distinctPropertiesNamed": 294,
-    "alreadyInSheet": 50,
-    "missingFromSheet": 230,
-    "namedByTwoOrMore": 39
-  },
-  "_deadSource": "Travel and Leisure returned HTTP 402 (paywall). Not retried.",
-  "_knownFilterGap": "The area filter uses HOODS from scripts/london-geo.mjs, which has Camden Town but not bare Camden, so Camden slipped through as a property and was removed by hand. Worth adding the short forms.",
+  "_note": "Properties that guides and bloggers name and src/data/hotels.json does not. A shortlist to research, NOT a list to paste into the sheet - see the sheet-is-not-the-market rule. Every row still needs a human decision.",
+  "_method": "SERP-seeded sources in data/serp/{hotels,hotels-budget,hostels}.txt, fetched by scripts/consensus.mjs, cleaned of section headings and prose fragments, then diffed against the sheet.",
+  "_counting": "namedBy counts DISTINCT DOMAINS, not pages. A blog with five accommodation pages is one voice; the page names are kept in `sources` for the audit trail.",
+  "_hotelsComRule": "Guides and bloggers say what is good. Hotels.com says only whether a property exists and is bookable, because one that is not there can never carry an affiliate link. Validator, never a source. The typeahead answers curl with a CAPTCHA, so the checks below are still unchecked and need the browser.",
+  "_community": "The community tier is the r/FATTravel thread 'Which of London's best hotels are worth the price?' (17 Aug 2026, 35 comments) - the only on-topic London hotel discussion three last30days runs surfaced across Reddit, YouTube, TikTok, Instagram, Hacker News and GitHub. 14 of the 17 properties named there were already in the sheet, which is the best independent check on the sheet we have run.",
+  "_videoPass": "The video pass produced almost nothing usable. Hotel videos are single-property reviews, so the property name is in the TITLE rather than the chapters that scripts/video-research.mjs reads - and the titles are clickbait ('I Stayed in Britain's CHEAPEST Capsule Hotel' names nothing). Its one real result was finding Love and London, now a source in its own right.",
+  "_areasStripped": [
+    "City of London",
+    "South Bank",
+    "Westminster and St James’s",
+    "Greenwich",
+    "Westminster",
+    "Shoreditch/Spitalfields",
+    "Mayfair/Marylebone",
+    "Kensington",
+    "Mayfair and Marylebone",
+    "Camden Town and Primrose Hill",
+    "Bloomsbury/Fitzrovia",
+    "South Bank / Waterloo",
+    "Kensington / South Kensington",
+    "King’s Cross"
+  ],
+  "generatedOn": "2026-09-09",
   "multiSource": [
     {
       "name": "Nomad London",
@@ -23,9 +33,40 @@
         "House and Garden",
         "Janice Rohrssen"
       ],
+      "domains": [
+        "cntraveller.com",
+        "cntraveler.com",
+        "vogue.co.uk",
+        "houseandgarden.co.uk",
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
+      "status": "candidate",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "The Berkeley",
+      "namedBy": 5,
+      "sources": [
+        "Conde Nast Traveller UK",
+        "Time Out - 100 best",
+        "Vogue UK",
+        "Town and Country",
+        "Love and London - rooftops"
+      ],
+      "domains": [
+        "cntraveller.com",
+        "timeout.com",
+        "vogue.co.uk",
+        "townandcountrymag.com",
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "community": "r/FATTravel, 1 upvotes - \"just got back... highly recommend\"",
       "status": "candidate",
       "hotelsCom": "unchecked"
     },
@@ -38,6 +79,13 @@
         "Time Out - 100 best",
         "Vogue UK",
         "House and Garden"
+      ],
+      "domains": [
+        "cntraveller.com",
+        "cntraveler.com",
+        "timeout.com",
+        "vogue.co.uk",
+        "houseandgarden.co.uk"
       ],
       "topics": [
         "hotels"
@@ -54,20 +102,11 @@
         "House and Garden",
         "Town and Country"
       ],
-      "topics": [
-        "hotels"
-      ],
-      "status": "candidate",
-      "hotelsCom": "unchecked"
-    },
-    {
-      "name": "The Berkeley",
-      "namedBy": 4,
-      "sources": [
-        "Conde Nast Traveller UK",
-        "Time Out - 100 best",
-        "Vogue UK",
-        "Town and Country"
+      "domains": [
+        "cntraveller.com",
+        "cntraveler.com",
+        "houseandgarden.co.uk",
+        "townandcountrymag.com"
       ],
       "topics": [
         "hotels"
@@ -81,12 +120,62 @@
       "sources": [
         "Time Out - 100 best",
         "The Hotel Guru",
+        "Love and London - rooftops",
         "Time Out - budget",
         "Conde Nast Traveller - cheap"
+      ],
+      "domains": [
+        "timeout.com",
+        "thehotelguru.com",
+        "loveandlondon.com",
+        "cntraveller.com"
       ],
       "topics": [
         "hotels",
         "hotels-budget"
+      ],
+      "status": "candidate",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "Sea Containers London",
+      "namedBy": 4,
+      "sources": [
+        "Time Out - 100 best",
+        "The Hotel Guru",
+        "Janice Rohrssen",
+        "Love and London - rooftops",
+        "Love and London - NYE"
+      ],
+      "domains": [
+        "timeout.com",
+        "thehotelguru.com",
+        "janicerohrssen.com",
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "Onefam Notting Hill",
+      "namedBy": 4,
+      "sources": [
+        "The Broke Backpacker",
+        "Nomadic Mick",
+        "Nomadic Matt",
+        "Love and London"
+      ],
+      "domains": [
+        "thebrokebackpacker.com",
+        "nomadicmick.com",
+        "nomadicmatt.com",
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hostels"
       ],
       "status": "candidate",
       "hotelsCom": "unchecked"
@@ -98,6 +187,11 @@
         "Conde Nast Traveller UK",
         "Conde Nast Traveler US",
         "Time Out - 100 best"
+      ],
+      "domains": [
+        "cntraveller.com",
+        "cntraveler.com",
+        "timeout.com"
       ],
       "topics": [
         "hotels"
@@ -113,6 +207,11 @@
         "Conde Nast Traveler US",
         "The Hotel Guru"
       ],
+      "domains": [
+        "cntraveller.com",
+        "cntraveler.com",
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -127,34 +226,10 @@
         "Vogue UK",
         "House and Garden"
       ],
-      "topics": [
-        "hotels"
-      ],
-      "status": "candidate",
-      "hotelsCom": "unchecked"
-    },
-    {
-      "name": "Good Hotel",
-      "namedBy": 3,
-      "sources": [
-        "Time Out - 100 best",
-        "The Hotel Guru",
-        "Time Out - budget"
-      ],
-      "topics": [
-        "hotels",
-        "hotels-budget"
-      ],
-      "status": "candidate",
-      "hotelsCom": "unchecked"
-    },
-    {
-      "name": "Sea Containers London",
-      "namedBy": 3,
-      "sources": [
-        "Time Out - 100 best",
-        "The Hotel Guru",
-        "Janice Rohrssen"
+      "domains": [
+        "cntraveller.com",
+        "vogue.co.uk",
+        "houseandgarden.co.uk"
       ],
       "topics": [
         "hotels"
@@ -169,6 +244,11 @@
         "House and Garden",
         "The Hotel Guru",
         "Conde Nast Traveller - cheap"
+      ],
+      "domains": [
+        "houseandgarden.co.uk",
+        "thehotelguru.com",
+        "cntraveller.com"
       ],
       "topics": [
         "hotels",
@@ -185,23 +265,14 @@
         "Janice Rohrssen",
         "Time Out - budget"
       ],
+      "domains": [
+        "thehotelguru.com",
+        "janicerohrssen.com",
+        "timeout.com"
+      ],
       "topics": [
         "hotels",
         "hotels-budget"
-      ],
-      "status": "candidate",
-      "hotelsCom": "unchecked"
-    },
-    {
-      "name": "Onefam Notting Hill",
-      "namedBy": 3,
-      "sources": [
-        "The Broke Backpacker",
-        "Nomadic Mick",
-        "Nomadic Matt"
-      ],
-      "topics": [
-        "hostels"
       ],
       "status": "candidate",
       "hotelsCom": "unchecked"
@@ -213,6 +284,11 @@
         "The Broke Backpacker",
         "Nomadic Mick",
         "Nomadic Matt"
+      ],
+      "domains": [
+        "thebrokebackpacker.com",
+        "nomadicmick.com",
+        "nomadicmatt.com"
       ],
       "topics": [
         "hostels"
@@ -228,6 +304,11 @@
         "Nomadic Mick",
         "Nomadic Matt"
       ],
+      "domains": [
+        "thebrokebackpacker.com",
+        "nomadicmick.com",
+        "nomadicmatt.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -240,6 +321,10 @@
       "sources": [
         "Conde Nast Traveller UK",
         "Conde Nast Traveler US"
+      ],
+      "domains": [
+        "cntraveller.com",
+        "cntraveler.com"
       ],
       "topics": [
         "hotels"
@@ -254,6 +339,10 @@
         "Conde Nast Traveller UK",
         "Time Out - 100 best"
       ],
+      "domains": [
+        "cntraveller.com",
+        "timeout.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -266,6 +355,10 @@
       "sources": [
         "Conde Nast Traveller UK",
         "House and Garden"
+      ],
+      "domains": [
+        "cntraveller.com",
+        "houseandgarden.co.uk"
       ],
       "topics": [
         "hotels"
@@ -280,6 +373,10 @@
         "Conde Nast Traveller UK",
         "Vogue UK"
       ],
+      "domains": [
+        "cntraveller.com",
+        "vogue.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -292,6 +389,10 @@
       "sources": [
         "Conde Nast Traveller UK",
         "Vogue UK"
+      ],
+      "domains": [
+        "cntraveller.com",
+        "vogue.co.uk"
       ],
       "topics": [
         "hotels"
@@ -306,8 +407,31 @@
         "Time Out - 100 best",
         "Vogue UK"
       ],
+      "domains": [
+        "timeout.com",
+        "vogue.co.uk"
+      ],
       "topics": [
         "hotels"
+      ],
+      "status": "candidate",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "Good Hotel",
+      "namedBy": 2,
+      "sources": [
+        "Time Out - 100 best",
+        "The Hotel Guru",
+        "Time Out - budget"
+      ],
+      "domains": [
+        "timeout.com",
+        "thehotelguru.com"
+      ],
+      "topics": [
+        "hotels",
+        "hotels-budget"
       ],
       "status": "candidate",
       "hotelsCom": "unchecked"
@@ -318,6 +442,10 @@
       "sources": [
         "Time Out - 100 best",
         "The Hotel Guru"
+      ],
+      "domains": [
+        "timeout.com",
+        "thehotelguru.com"
       ],
       "topics": [
         "hotels"
@@ -332,6 +460,10 @@
         "Time Out - 100 best",
         "The Hotel Guru"
       ],
+      "domains": [
+        "timeout.com",
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -344,6 +476,10 @@
       "sources": [
         "Vogue UK",
         "House and Garden"
+      ],
+      "domains": [
+        "vogue.co.uk",
+        "houseandgarden.co.uk"
       ],
       "topics": [
         "hotels"
@@ -358,6 +494,10 @@
         "Vogue UK",
         "The Hotel Guru"
       ],
+      "domains": [
+        "vogue.co.uk",
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -370,6 +510,10 @@
       "sources": [
         "Vogue UK",
         "House and Garden"
+      ],
+      "domains": [
+        "vogue.co.uk",
+        "houseandgarden.co.uk"
       ],
       "topics": [
         "hotels"
@@ -384,6 +528,10 @@
         "Vogue UK",
         "Town and Country"
       ],
+      "domains": [
+        "vogue.co.uk",
+        "townandcountrymag.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -396,6 +544,10 @@
       "sources": [
         "House and Garden",
         "The Hotel Guru"
+      ],
+      "domains": [
+        "houseandgarden.co.uk",
+        "thehotelguru.com"
       ],
       "topics": [
         "hotels"
@@ -410,6 +562,10 @@
         "House and Garden",
         "The Hotel Guru"
       ],
+      "domains": [
+        "houseandgarden.co.uk",
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -422,6 +578,10 @@
       "sources": [
         "Town and Country",
         "The Hotel Guru"
+      ],
+      "domains": [
+        "townandcountrymag.com",
+        "thehotelguru.com"
       ],
       "topics": [
         "hotels"
@@ -436,9 +596,47 @@
         "The Hotel Guru",
         "Time Out - budget"
       ],
+      "domains": [
+        "thehotelguru.com",
+        "timeout.com"
+      ],
       "topics": [
         "hotels",
         "hotels-budget"
+      ],
+      "status": "candidate",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "CitizenM Tower of London",
+      "namedBy": 2,
+      "sources": [
+        "The Hotel Guru",
+        "Love and London - rooftops"
+      ],
+      "domains": [
+        "thehotelguru.com",
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "The Victoria Inn",
+      "namedBy": 2,
+      "sources": [
+        "The Hotel Guru",
+        "Love and London - South"
+      ],
+      "domains": [
+        "thehotelguru.com",
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
       ],
       "status": "candidate",
       "hotelsCom": "unchecked"
@@ -449,6 +647,10 @@
       "sources": [
         "The Hotel Guru",
         "Janice Rohrssen"
+      ],
+      "domains": [
+        "thehotelguru.com",
+        "janicerohrssen.com"
       ],
       "topics": [
         "hotels"
@@ -463,6 +665,27 @@
         "The Hotel Guru",
         "Janice Rohrssen"
       ],
+      "domains": [
+        "thehotelguru.com",
+        "janicerohrssen.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "Dog & Fox",
+      "namedBy": 2,
+      "sources": [
+        "The Hotel Guru",
+        "Love and London - South"
+      ],
+      "domains": [
+        "thehotelguru.com",
+        "loveandlondon.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -475,6 +698,10 @@
       "sources": [
         "The Hotel Guru",
         "Time Out - budget"
+      ],
+      "domains": [
+        "thehotelguru.com",
+        "timeout.com"
       ],
       "topics": [
         "hotels",
@@ -490,6 +717,10 @@
         "The Hotel Guru",
         "Conde Nast Traveller - cheap"
       ],
+      "domains": [
+        "thehotelguru.com",
+        "cntraveller.com"
+      ],
       "topics": [
         "hotels",
         "hotels-budget"
@@ -504,6 +735,10 @@
         "The Hotel Guru",
         "Janice Rohrssen"
       ],
+      "domains": [
+        "thehotelguru.com",
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -517,9 +752,47 @@
         "The Hotel Guru",
         "Conde Nast Traveller - cheap"
       ],
+      "domains": [
+        "thehotelguru.com",
+        "cntraveller.com"
+      ],
       "topics": [
         "hotels",
         "hotels-budget"
+      ],
+      "status": "candidate",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "The Montcalm Royal London House",
+      "namedBy": 2,
+      "sources": [
+        "The Blonde Abroad",
+        "Love and London - rooftops"
+      ],
+      "domains": [
+        "theblondeabroad.com",
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "Camden",
+      "namedBy": 2,
+      "sources": [
+        "Ranker Blog",
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "rankerblog.co.uk",
+        "janicerohrssen.com"
+      ],
+      "topics": [
+        "hotels"
       ],
       "status": "candidate",
       "hotelsCom": "unchecked"
@@ -531,9 +804,30 @@
         "Janice Rohrssen",
         "Time Out - budget"
       ],
+      "domains": [
+        "janicerohrssen.com",
+        "timeout.com"
+      ],
       "topics": [
         "hotels",
         "hotels-budget"
+      ],
+      "status": "candidate",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "Urbany Hostel London",
+      "namedBy": 2,
+      "sources": [
+        "The Broke Backpacker",
+        "Love and London"
+      ],
+      "domains": [
+        "thebrokebackpacker.com",
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hostels"
       ],
       "status": "candidate",
       "hotelsCom": "unchecked"
@@ -545,6 +839,27 @@
         "The Broke Backpacker",
         "Nomadic Mick"
       ],
+      "domains": [
+        "thebrokebackpacker.com",
+        "nomadicmick.com"
+      ],
+      "topics": [
+        "hostels"
+      ],
+      "status": "candidate",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "Park Villa",
+      "namedBy": 2,
+      "sources": [
+        "Nomadic Matt",
+        "Love and London"
+      ],
+      "domains": [
+        "nomadicmatt.com",
+        "loveandlondon.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -555,7 +870,13 @@
   "singleSource": [
     {
       "name": "The Hari",
-      "source": "Conde Nast Traveller UK",
+      "namedBy": 1,
+      "sources": [
+        "Conde Nast Traveller UK"
+      ],
+      "domains": [
+        "cntraveller.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -564,25 +885,45 @@
     },
     {
       "name": "Four Seasons Hotel Park Lane",
-      "source": "Conde Nast Traveller UK",
+      "namedBy": 1,
+      "sources": [
+        "Conde Nast Traveller UK"
+      ],
+      "domains": [
+        "cntraveller.com"
+      ],
       "topics": [
         "hotels"
       ],
+      "community": "r/FATTravel, 1 upvotes",
       "status": "candidate-single-source",
       "hotelsCom": "unchecked"
     },
     {
       "name": "The Lanesborough",
-      "source": "Conde Nast Traveler US",
+      "namedBy": 1,
+      "sources": [
+        "Conde Nast Traveler US"
+      ],
+      "domains": [
+        "cntraveler.com"
+      ],
       "topics": [
         "hotels"
       ],
+      "community": "r/FATTravel, 6 upvotes - named twice - service, gym, steam room, concierge; \"decor is not my style\" but it worked",
       "status": "candidate-single-source",
       "hotelsCom": "unchecked"
     },
     {
       "name": "The Culpeper Bedrooms",
-      "source": "Time Out - 100 best",
+      "namedBy": 1,
+      "sources": [
+        "Time Out - 100 best"
+      ],
+      "domains": [
+        "timeout.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -591,7 +932,13 @@
     },
     {
       "name": "Art'otel Battersea",
-      "source": "Time Out - 100 best",
+      "namedBy": 1,
+      "sources": [
+        "Time Out - 100 best"
+      ],
+      "domains": [
+        "timeout.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -600,7 +947,13 @@
     },
     {
       "name": "Hazlitt's",
-      "source": "Time Out - 100 best",
+      "namedBy": 1,
+      "sources": [
+        "Time Out - 100 best"
+      ],
+      "domains": [
+        "timeout.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -609,7 +962,13 @@
     },
     {
       "name": "The Drey",
-      "source": "Time Out - 100 best",
+      "namedBy": 1,
+      "sources": [
+        "Time Out - 100 best"
+      ],
+      "domains": [
+        "timeout.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -618,7 +977,13 @@
     },
     {
       "name": "45 Park Lane",
-      "source": "Vogue UK",
+      "namedBy": 1,
+      "sources": [
+        "Vogue UK"
+      ],
+      "domains": [
+        "vogue.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -627,7 +992,13 @@
     },
     {
       "name": "Sir Devonshire Square",
-      "source": "Vogue UK",
+      "namedBy": 1,
+      "sources": [
+        "Vogue UK"
+      ],
+      "domains": [
+        "vogue.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -636,7 +1007,13 @@
     },
     {
       "name": "Kettner’s Town House",
-      "source": "Vogue UK",
+      "namedBy": 1,
+      "sources": [
+        "Vogue UK"
+      ],
+      "domains": [
+        "vogue.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -645,7 +1022,13 @@
     },
     {
       "name": "The Princess Royal",
-      "source": "Vogue UK",
+      "namedBy": 1,
+      "sources": [
+        "Vogue UK"
+      ],
+      "domains": [
+        "vogue.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -654,7 +1037,13 @@
     },
     {
       "name": "Featured in this article",
-      "source": "House and Garden",
+      "namedBy": 1,
+      "sources": [
+        "House and Garden"
+      ],
+      "domains": [
+        "houseandgarden.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -663,7 +1052,13 @@
     },
     {
       "name": "This month's stay",
-      "source": "House and Garden",
+      "namedBy": 1,
+      "sources": [
+        "House and Garden"
+      ],
+      "domains": [
+        "houseandgarden.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -672,7 +1067,13 @@
     },
     {
       "name": "The Zetter",
-      "source": "House and Garden",
+      "namedBy": 1,
+      "sources": [
+        "House and Garden"
+      ],
+      "domains": [
+        "houseandgarden.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -681,7 +1082,13 @@
     },
     {
       "name": "Nobu Hotel London Portman Square",
-      "source": "House and Garden",
+      "namedBy": 1,
+      "sources": [
+        "House and Garden"
+      ],
+      "domains": [
+        "houseandgarden.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -690,7 +1097,13 @@
     },
     {
       "name": "Broadwick",
-      "source": "House and Garden",
+      "namedBy": 1,
+      "sources": [
+        "House and Garden"
+      ],
+      "domains": [
+        "houseandgarden.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -699,7 +1112,13 @@
     },
     {
       "name": "The Bloomsbury Hotel",
-      "source": "Town and Country",
+      "namedBy": 1,
+      "sources": [
+        "Town and Country"
+      ],
+      "domains": [
+        "townandcountrymag.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -708,7 +1127,13 @@
     },
     {
       "name": "The Ultimate London City Break",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -717,7 +1142,13 @@
     },
     {
       "name": "New Road Hotel",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -726,7 +1157,13 @@
     },
     {
       "name": "The Rockwell Hotel",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -735,25 +1172,13 @@
     },
     {
       "name": "Twenty Nevern Square",
-      "source": "The Hotel Guru",
-      "topics": [
-        "hotels"
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
       ],
-      "status": "candidate-single-source",
-      "hotelsCom": "unchecked"
-    },
-    {
-      "name": "CitizenM Tower of London",
-      "source": "The Hotel Guru",
-      "topics": [
-        "hotels"
+      "domains": [
+        "thehotelguru.com"
       ],
-      "status": "candidate-single-source",
-      "hotelsCom": "unchecked"
-    },
-    {
-      "name": "The Victoria Inn",
-      "source": "The Hotel Guru",
       "topics": [
         "hotels"
       ],
@@ -762,7 +1187,13 @@
     },
     {
       "name": "Brook Green Hotel",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -771,7 +1202,13 @@
     },
     {
       "name": "The Windmill Clapham",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -780,7 +1217,13 @@
     },
     {
       "name": "Tulse Hill Hotel",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -789,7 +1232,13 @@
     },
     {
       "name": "Kingsland Locke",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -798,7 +1247,13 @@
     },
     {
       "name": "Hotel Indigo London Kensington",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -807,7 +1262,13 @@
     },
     {
       "name": "Richmond Harbour Hotel & Spa",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -816,16 +1277,13 @@
     },
     {
       "name": "The Coach and Horses",
-      "source": "The Hotel Guru",
-      "topics": [
-        "hotels"
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
       ],
-      "status": "candidate-single-source",
-      "hotelsCom": "unchecked"
-    },
-    {
-      "name": "Dog & Fox",
-      "source": "The Hotel Guru",
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -834,7 +1292,13 @@
     },
     {
       "name": "Roseate House",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -843,7 +1307,13 @@
     },
     {
       "name": "B+B Belgravia and Studios@82",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -852,7 +1322,13 @@
     },
     {
       "name": "Hyde London City",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -861,7 +1337,13 @@
     },
     {
       "name": "The Hoxton Shepherd's Bush",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -870,7 +1352,13 @@
     },
     {
       "name": "The Hayden",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -879,7 +1367,13 @@
     },
     {
       "name": "Mama Shelter London",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -888,7 +1382,13 @@
     },
     {
       "name": "The Gantry",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -897,7 +1397,13 @@
     },
     {
       "name": "Wilde Aparthotels London Liverpool Street",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -906,7 +1412,13 @@
     },
     {
       "name": "Sydney House Chelsea",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -915,7 +1427,13 @@
     },
     {
       "name": "The Rose and Crown Guesthouse",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -924,7 +1442,13 @@
     },
     {
       "name": "The Stratford Hotel",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -933,7 +1457,13 @@
     },
     {
       "name": "The Buxton",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -942,7 +1472,13 @@
     },
     {
       "name": "Inhabit Queens Gardens",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -951,7 +1487,13 @@
     },
     {
       "name": "Boundary Shoreditch",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -960,7 +1502,13 @@
     },
     {
       "name": "Hotel Indigo London 1 Leicester Square",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -969,7 +1517,13 @@
     },
     {
       "name": "Z Hotels at Gloucester Place",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -978,7 +1532,13 @@
     },
     {
       "name": "Marrable's",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -987,7 +1547,13 @@
     },
     {
       "name": "Eccleston Square Hotel",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -996,7 +1562,13 @@
     },
     {
       "name": "The Tommyfield",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1005,7 +1577,13 @@
     },
     {
       "name": "London Bridge Hotel",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1014,7 +1592,13 @@
     },
     {
       "name": "The Grazing Goat",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1023,7 +1607,13 @@
     },
     {
       "name": "The Bull & Last",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1032,7 +1622,13 @@
     },
     {
       "name": "The Orange",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1041,7 +1637,13 @@
     },
     {
       "name": "The Montcalm at the Brewery",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1050,7 +1652,13 @@
     },
     {
       "name": "The Beaufort",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1059,7 +1667,13 @@
     },
     {
       "name": "The Gore Hotel",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1068,7 +1682,13 @@
     },
     {
       "name": "Great Northern Hotel",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1077,7 +1697,13 @@
     },
     {
       "name": "Mondrian Shoreditch",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1086,7 +1712,13 @@
     },
     {
       "name": "Fox & Anchor",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1095,7 +1727,13 @@
     },
     {
       "name": "Europa House",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1104,7 +1742,13 @@
     },
     {
       "name": "The Pelham London",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1113,7 +1757,13 @@
     },
     {
       "name": "York & Albany",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1122,7 +1772,13 @@
     },
     {
       "name": "The One Tun",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1131,7 +1787,13 @@
     },
     {
       "name": "54 Queen's Gate Hotel",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1140,7 +1802,13 @@
     },
     {
       "name": "The Princess Royal Pub & Restaurant",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1149,7 +1817,13 @@
     },
     {
       "name": "No 5 Maddox Street",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1158,7 +1832,13 @@
     },
     {
       "name": "The Resident Victoria",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1167,7 +1847,13 @@
     },
     {
       "name": "The Other House South Kensington",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1176,7 +1862,13 @@
     },
     {
       "name": "The Clerk and Well",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1185,7 +1877,13 @@
     },
     {
       "name": "The Mandeville Hotel",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1194,7 +1892,13 @@
     },
     {
       "name": "Montagu Place",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1203,7 +1907,13 @@
     },
     {
       "name": "Courthouse Hotel",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1212,7 +1922,13 @@
     },
     {
       "name": "Mason & Fifth Primrose Hill",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1221,7 +1937,13 @@
     },
     {
       "name": "The Academy",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1230,7 +1952,13 @@
     },
     {
       "name": "Baglioni Hotel London",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1239,7 +1967,13 @@
     },
     {
       "name": "The Franklin London",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1248,7 +1982,13 @@
     },
     {
       "name": "South Place Hotel",
-      "source": "The Hotel Guru",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
+      ],
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1257,16 +1997,13 @@
     },
     {
       "name": "The Rookery",
-      "source": "The Hotel Guru",
-      "topics": [
-        "hotels"
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Guru"
       ],
-      "status": "candidate-single-source",
-      "hotelsCom": "unchecked"
-    },
-    {
-      "name": "The Montcalm Royal London House",
-      "source": "The Blonde Abroad",
+      "domains": [
+        "thehotelguru.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1275,7 +2012,13 @@
     },
     {
       "name": "The Milestone Hotel and Residences",
-      "source": "The Blonde Abroad",
+      "namedBy": 1,
+      "sources": [
+        "The Blonde Abroad"
+      ],
+      "domains": [
+        "theblondeabroad.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1284,7 +2027,13 @@
     },
     {
       "name": "The Montague on The Gardens",
-      "source": "The Blonde Abroad",
+      "namedBy": 1,
+      "sources": [
+        "The Blonde Abroad"
+      ],
+      "domains": [
+        "theblondeabroad.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1293,7 +2042,13 @@
     },
     {
       "name": "The Chesterfield Mayfair",
-      "source": "The Blonde Abroad",
+      "namedBy": 1,
+      "sources": [
+        "The Blonde Abroad"
+      ],
+      "domains": [
+        "theblondeabroad.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1302,7 +2057,13 @@
     },
     {
       "name": "Vintry & Mercer",
-      "source": "The Blonde Abroad",
+      "namedBy": 1,
+      "sources": [
+        "The Blonde Abroad"
+      ],
+      "domains": [
+        "theblondeabroad.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1311,7 +2072,13 @@
     },
     {
       "name": "St. Athans Hotel",
-      "source": "The Blonde Abroad",
+      "namedBy": 1,
+      "sources": [
+        "The Blonde Abroad"
+      ],
+      "domains": [
+        "theblondeabroad.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1320,7 +2087,13 @@
     },
     {
       "name": "Point A Hotel",
-      "source": "The Blonde Abroad",
+      "namedBy": 1,
+      "sources": [
+        "The Blonde Abroad"
+      ],
+      "domains": [
+        "theblondeabroad.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1329,7 +2102,13 @@
     },
     {
       "name": "PubLove At the Steam Engine Waterloo",
-      "source": "The Blonde Abroad",
+      "namedBy": 1,
+      "sources": [
+        "The Blonde Abroad"
+      ],
+      "domains": [
+        "theblondeabroad.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1338,7 +2117,13 @@
     },
     {
       "name": "Tips for Traveling London on a Budget",
-      "source": "The Blonde Abroad",
+      "namedBy": 1,
+      "sources": [
+        "The Blonde Abroad"
+      ],
+      "domains": [
+        "theblondeabroad.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1347,7 +2132,13 @@
     },
     {
       "name": "How Much to Budget for Backpacking Europe",
-      "source": "The Blonde Abroad",
+      "namedBy": 1,
+      "sources": [
+        "The Blonde Abroad"
+      ],
+      "domains": [
+        "theblondeabroad.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1356,7 +2147,13 @@
     },
     {
       "name": "Primary Sidebar",
-      "source": "The Blonde Abroad",
+      "namedBy": 1,
+      "sources": [
+        "The Blonde Abroad"
+      ],
+      "domains": [
+        "theblondeabroad.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1365,7 +2162,13 @@
     },
     {
       "name": "Instagram",
-      "source": "The Blonde Abroad",
+      "namedBy": 1,
+      "sources": [
+        "The Blonde Abroad"
+      ],
+      "domains": [
+        "theblondeabroad.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1374,7 +2177,13 @@
     },
     {
       "name": "Footer",
-      "source": "The Blonde Abroad",
+      "namedBy": 1,
+      "sources": [
+        "The Blonde Abroad"
+      ],
+      "domains": [
+        "theblondeabroad.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1383,7 +2192,13 @@
     },
     {
       "name": "SantoriniDave.com",
-      "source": "Santorini Dave",
+      "namedBy": 1,
+      "sources": [
+        "Santorini Dave"
+      ],
+      "domains": [
+        "santorinidave.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1392,7 +2207,13 @@
     },
     {
       "name": "Quick Tips",
-      "source": "Santorini Dave",
+      "namedBy": 1,
+      "sources": [
+        "Santorini Dave"
+      ],
+      "domains": [
+        "santorinidave.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1401,7 +2222,13 @@
     },
     {
       "name": "Top London Hotels Within Steps of the Tube",
-      "source": "Santorini Dave",
+      "namedBy": 1,
+      "sources": [
+        "Santorini Dave"
+      ],
+      "domains": [
+        "santorinidave.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1410,7 +2237,13 @@
     },
     {
       "name": "Westminster & St. James’s: Royal & Political Grandeur",
-      "source": "Santorini Dave",
+      "namedBy": 1,
+      "sources": [
+        "Santorini Dave"
+      ],
+      "domains": [
+        "santorinidave.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1419,7 +2252,13 @@
     },
     {
       "name": "The South Bank & Southwark: Best for Families",
-      "source": "Santorini Dave",
+      "namedBy": 1,
+      "sources": [
+        "Santorini Dave"
+      ],
+      "domains": [
+        "santorinidave.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1428,7 +2267,13 @@
     },
     {
       "name": "South Kensington & Marylebone: Upscale & Leafy",
-      "source": "Santorini Dave",
+      "namedBy": 1,
+      "sources": [
+        "Santorini Dave"
+      ],
+      "domains": [
+        "santorinidave.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1437,7 +2282,13 @@
     },
     {
       "name": "Bloomsbury & Fitzrovia: Literary & Central",
-      "source": "Santorini Dave",
+      "namedBy": 1,
+      "sources": [
+        "Santorini Dave"
+      ],
+      "domains": [
+        "santorinidave.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1446,7 +2297,13 @@
     },
     {
       "name": "Transport Hubs & Trendy Neighborhoods",
-      "source": "Santorini Dave",
+      "namedBy": 1,
+      "sources": [
+        "Santorini Dave"
+      ],
+      "domains": [
+        "santorinidave.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1455,7 +2312,13 @@
     },
     {
       "name": "East London",
-      "source": "Santorini Dave",
+      "namedBy": 1,
+      "sources": [
+        "Santorini Dave"
+      ],
+      "domains": [
+        "santorinidave.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1464,7 +2327,13 @@
     },
     {
       "name": "Other London Neighborhoods",
-      "source": "Santorini Dave",
+      "namedBy": 1,
+      "sources": [
+        "Santorini Dave"
+      ],
+      "domains": [
+        "santorinidave.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1473,7 +2342,13 @@
     },
     {
       "name": "Quick comparison of London's best areas to stay",
-      "source": "Away to the City",
+      "namedBy": 1,
+      "sources": [
+        "Away to the City"
+      ],
+      "domains": [
+        "awaytothecity.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1482,7 +2357,13 @@
     },
     {
       "name": "South Bank/Southwark",
-      "source": "Away to the City",
+      "namedBy": 1,
+      "sources": [
+        "Away to the City"
+      ],
+      "domains": [
+        "awaytothecity.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1491,7 +2372,13 @@
     },
     {
       "name": "Girl on a Zebra",
-      "source": "Girl on a Zebra",
+      "namedBy": 1,
+      "sources": [
+        "Girl on a Zebra"
+      ],
+      "domains": [
+        "girlonazebra.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1500,7 +2387,13 @@
     },
     {
       "name": "Pros and Cons of Staying in Covent Garden",
-      "source": "Girl on a Zebra",
+      "namedBy": 1,
+      "sources": [
+        "Girl on a Zebra"
+      ],
+      "domains": [
+        "girlonazebra.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1509,7 +2402,13 @@
     },
     {
       "name": "Pros and Cons of Staying in Camden Town",
-      "source": "Girl on a Zebra",
+      "namedBy": 1,
+      "sources": [
+        "Girl on a Zebra"
+      ],
+      "domains": [
+        "girlonazebra.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1518,7 +2417,13 @@
     },
     {
       "name": "Amano Covent Garden",
-      "source": "Girl on a Zebra",
+      "namedBy": 1,
+      "sources": [
+        "Girl on a Zebra"
+      ],
+      "domains": [
+        "girlonazebra.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1527,7 +2432,13 @@
     },
     {
       "name": "Staylux Waterloo",
-      "source": "Girl on a Zebra",
+      "namedBy": 1,
+      "sources": [
+        "Girl on a Zebra"
+      ],
+      "domains": [
+        "girlonazebra.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1536,7 +2447,13 @@
     },
     {
       "name": "Introduction",
-      "source": "Ranker Blog",
+      "namedBy": 1,
+      "sources": [
+        "Ranker Blog"
+      ],
+      "domains": [
+        "rankerblog.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1545,7 +2462,13 @@
     },
     {
       "name": "Luxury Options",
-      "source": "Ranker Blog",
+      "namedBy": 1,
+      "sources": [
+        "Ranker Blog"
+      ],
+      "domains": [
+        "rankerblog.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1554,7 +2477,13 @@
     },
     {
       "name": "Budget-Friendly Areas",
-      "source": "Ranker Blog",
+      "namedBy": 1,
+      "sources": [
+        "Ranker Blog"
+      ],
+      "domains": [
+        "rankerblog.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1563,7 +2492,13 @@
     },
     {
       "name": "Trendy and Hip Neighborhoods",
-      "source": "Ranker Blog",
+      "namedBy": 1,
+      "sources": [
+        "Ranker Blog"
+      ],
+      "domains": [
+        "rankerblog.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1572,7 +2507,13 @@
     },
     {
       "name": "Family-Friendly Areas",
-      "source": "Ranker Blog",
+      "namedBy": 1,
+      "sources": [
+        "Ranker Blog"
+      ],
+      "domains": [
+        "rankerblog.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1581,7 +2522,13 @@
     },
     {
       "name": "Accommodation Types",
-      "source": "Ranker Blog",
+      "namedBy": 1,
+      "sources": [
+        "Ranker Blog"
+      ],
+      "domains": [
+        "rankerblog.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1590,7 +2537,13 @@
     },
     {
       "name": "Transportation Considerations",
-      "source": "Ranker Blog",
+      "namedBy": 1,
+      "sources": [
+        "Ranker Blog"
+      ],
+      "domains": [
+        "rankerblog.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1599,7 +2552,13 @@
     },
     {
       "name": "Practical Tips",
-      "source": "Ranker Blog",
+      "namedBy": 1,
+      "sources": [
+        "Ranker Blog"
+      ],
+      "domains": [
+        "rankerblog.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1608,7 +2567,13 @@
     },
     {
       "name": "Conclusion",
-      "source": "Ranker Blog",
+      "namedBy": 1,
+      "sources": [
+        "Ranker Blog"
+      ],
+      "domains": [
+        "rankerblog.co.uk"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1617,7 +2582,13 @@
     },
     {
       "name": "Well-connected via Bank and Liverpool Street stations",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1626,16 +2597,13 @@
     },
     {
       "name": "Feels very business-oriented during the week",
-      "source": "Janice Rohrssen",
-      "topics": [
-        "hotels"
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
       ],
-      "status": "candidate-single-source",
-      "hotelsCom": "unchecked"
-    },
-    {
-      "name": "Gorgeous pastel townhouses and photogenic streets",
-      "source": "Janice Rohrssen",
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1644,7 +2612,13 @@
     },
     {
       "name": "A bit further from many major attractions",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1653,7 +2627,13 @@
     },
     {
       "name": "Elegant architecture and calm",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1662,7 +2642,13 @@
     },
     {
       "name": "On the expensive side",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1671,7 +2657,13 @@
     },
     {
       "name": "Feels more residential and posh",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1680,7 +2672,13 @@
     },
     {
       "name": "Suggestions",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1689,7 +2687,13 @@
     },
     {
       "name": "Luxury Traveler",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1698,7 +2702,13 @@
     },
     {
       "name": "Value-Focused",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1707,7 +2717,13 @@
     },
     {
       "name": "Budget Traveler",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1716,7 +2732,13 @@
     },
     {
       "name": "Families",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1725,7 +2747,13 @@
     },
     {
       "name": "Looking for a retreat",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1734,7 +2762,13 @@
     },
     {
       "name": "Looking for the best view",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1743,7 +2777,13 @@
     },
     {
       "name": "Pros:",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1752,7 +2792,13 @@
     },
     {
       "name": "Cons:",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1761,7 +2807,13 @@
     },
     {
       "name": "Upscale:",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1770,7 +2822,13 @@
     },
     {
       "name": "The Resident Covent Garden",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1779,7 +2837,13 @@
     },
     {
       "name": "Bankside Hotel",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1788,7 +2852,13 @@
     },
     {
       "name": "Park Plaza Westminster Bridge",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1797,7 +2867,13 @@
     },
     {
       "name": "ibis Styles London Southwark",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1806,7 +2882,13 @@
     },
     {
       "name": "Premier Inn London Southwark",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1815,7 +2897,13 @@
     },
     {
       "name": "The Z Hotel Gloucester Place",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1824,7 +2912,13 @@
     },
     {
       "name": "Ridgemount Hotel",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1833,7 +2927,13 @@
     },
     {
       "name": "Pan Pacific London",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1842,7 +2942,13 @@
     },
     {
       "name": "master Cannon",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1851,7 +2957,13 @@
     },
     {
       "name": "hub by Premier Inn",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1860,7 +2972,13 @@
     },
     {
       "name": "The Lost Poet",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1869,7 +2987,13 @@
     },
     {
       "name": "Milestone Hotel Kensington",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1878,7 +3002,13 @@
     },
     {
       "name": "No1 The Mansions by Mansley",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1887,7 +3017,13 @@
     },
     {
       "name": "Hampstead Heath",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1896,7 +3032,209 @@
     },
     {
       "name": "South of South Bank",
-      "source": "Janice Rohrssen",
+      "namedBy": 1,
+      "sources": [
+        "Janice Rohrssen"
+      ],
+      "domains": [
+        "janicerohrssen.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "Admiral Hardy",
+      "namedBy": 1,
+      "sources": [
+        "Love and London - South"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "The Half Moon",
+      "namedBy": 1,
+      "sources": [
+        "Love and London - South"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "The Windmill",
+      "namedBy": 1,
+      "sources": [
+        "Love and London - South"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "Ruby Lucy Hotel",
+      "namedBy": 1,
+      "sources": [
+        "Love and London - South"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "The Trafalgar St. James",
+      "namedBy": 1,
+      "sources": [
+        "Love and London - rooftops"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "Hotel Saint",
+      "namedBy": 1,
+      "sources": [
+        "Love and London - rooftops"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "The Boundary",
+      "namedBy": 1,
+      "sources": [
+        "Love and London - rooftops",
+        "Love and London - NYE"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "Top London Tours for Food Lovers",
+      "namedBy": 1,
+      "sources": [
+        "Love and London - rooftops"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "2 Comments",
+      "namedBy": 1,
+      "sources": [
+        "Love and London - rooftops"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "The Stafford",
+      "namedBy": 1,
+      "sources": [
+        "Love and London - Christmas"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "The Henrietta Experimental",
+      "namedBy": 1,
+      "sources": [
+        "Love and London - Christmas"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "Marriott County Hall",
+      "namedBy": 1,
+      "sources": [
+        "Love and London - NYE"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hotels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "The Royal Horseguards",
+      "namedBy": 1,
+      "sources": [
+        "Love and London - NYE"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
       "topics": [
         "hotels"
       ],
@@ -1905,7 +3243,13 @@
     },
     {
       "name": "Stylotel",
-      "source": "Time Out - budget",
+      "namedBy": 1,
+      "sources": [
+        "Time Out - budget"
+      ],
+      "domains": [
+        "timeout.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -1914,7 +3258,13 @@
     },
     {
       "name": "Z Soho",
-      "source": "Time Out - budget",
+      "namedBy": 1,
+      "sources": [
+        "Time Out - budget"
+      ],
+      "domains": [
+        "timeout.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -1923,7 +3273,13 @@
     },
     {
       "name": "The Corner London City",
-      "source": "Time Out - budget",
+      "namedBy": 1,
+      "sources": [
+        "Time Out - budget"
+      ],
+      "domains": [
+        "timeout.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -1932,7 +3288,13 @@
     },
     {
       "name": "Hyatt Place London City East",
-      "source": "Time Out - budget",
+      "namedBy": 1,
+      "sources": [
+        "Time Out - budget"
+      ],
+      "domains": [
+        "timeout.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -1941,7 +3303,13 @@
     },
     {
       "name": "The Judd Hotel",
-      "source": "Time Out - budget",
+      "namedBy": 1,
+      "sources": [
+        "Time Out - budget"
+      ],
+      "domains": [
+        "timeout.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -1950,7 +3318,13 @@
     },
     {
       "name": "The July",
-      "source": "Conde Nast Traveller - cheap",
+      "namedBy": 1,
+      "sources": [
+        "Conde Nast Traveller - cheap"
+      ],
+      "domains": [
+        "cntraveller.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -1959,7 +3333,13 @@
     },
     {
       "name": "The Marylebone Hotel",
-      "source": "Conde Nast Traveller - cheap",
+      "namedBy": 1,
+      "sources": [
+        "Conde Nast Traveller - cheap"
+      ],
+      "domains": [
+        "cntraveller.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -1968,7 +3348,13 @@
     },
     {
       "name": "The Princess Royal Notting Hill",
-      "source": "Conde Nast Traveller - cheap",
+      "namedBy": 1,
+      "sources": [
+        "Conde Nast Traveller - cheap"
+      ],
+      "domains": [
+        "cntraveller.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -1977,7 +3363,13 @@
     },
     {
       "name": "High Road House",
-      "source": "Conde Nast Traveller - cheap",
+      "namedBy": 1,
+      "sources": [
+        "Conde Nast Traveller - cheap"
+      ],
+      "domains": [
+        "cntraveller.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -1986,7 +3378,13 @@
     },
     {
       "name": "The Fox & Goose Hotel | Ealing",
-      "source": "The Hotel Journal",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Journal"
+      ],
+      "domains": [
+        "thehoteljournal.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -1995,7 +3393,13 @@
     },
     {
       "name": "The Pilgrm | Paddington",
-      "source": "The Hotel Journal",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Journal"
+      ],
+      "domains": [
+        "thehoteljournal.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -2004,7 +3408,13 @@
     },
     {
       "name": "Old Ship Inn | Hackney",
-      "source": "The Hotel Journal",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Journal"
+      ],
+      "domains": [
+        "thehoteljournal.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -2013,7 +3423,13 @@
     },
     {
       "name": "The Z Hotel Holborn | Holborn",
-      "source": "The Hotel Journal",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Journal"
+      ],
+      "domains": [
+        "thehoteljournal.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -2022,7 +3438,13 @@
     },
     {
       "name": "The Beverley Hotel London",
-      "source": "The Hotel Journal",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Journal"
+      ],
+      "domains": [
+        "thehoteljournal.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -2031,7 +3453,13 @@
     },
     {
       "name": "The Lodge Hotel Putney | Wandsworth",
-      "source": "The Hotel Journal",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Journal"
+      ],
+      "domains": [
+        "thehoteljournal.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -2040,7 +3468,13 @@
     },
     {
       "name": "The Drayton Court Hotel | Ealing",
-      "source": "The Hotel Journal",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Journal"
+      ],
+      "domains": [
+        "thehoteljournal.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -2049,7 +3483,13 @@
     },
     {
       "name": "Dog & Fox | Wimbledon",
-      "source": "The Hotel Journal",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Journal"
+      ],
+      "domains": [
+        "thehoteljournal.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -2058,7 +3498,13 @@
     },
     {
       "name": "St. Paul’s Hotel | Hammersmith and Fulham",
-      "source": "The Hotel Journal",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Journal"
+      ],
+      "domains": [
+        "thehoteljournal.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -2067,7 +3513,13 @@
     },
     {
       "name": "Staycity Aparthotels London Dalston | Hackney",
-      "source": "The Hotel Journal",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Journal"
+      ],
+      "domains": [
+        "thehoteljournal.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -2076,7 +3528,13 @@
     },
     {
       "name": "London Lodge Hotel | Kensington & Chelsea",
-      "source": "The Hotel Journal",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Journal"
+      ],
+      "domains": [
+        "thehoteljournal.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -2085,7 +3543,13 @@
     },
     {
       "name": "The Corner London City | Tower Hamlets",
-      "source": "The Hotel Journal",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Journal"
+      ],
+      "domains": [
+        "thehoteljournal.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -2094,7 +3558,13 @@
     },
     {
       "name": "Nox Golders Green | Golders Green",
-      "source": "The Hotel Journal",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Journal"
+      ],
+      "domains": [
+        "thehoteljournal.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -2103,7 +3573,13 @@
     },
     {
       "name": "Aptel East | Tower Hamlets",
-      "source": "The Hotel Journal",
+      "namedBy": 1,
+      "sources": [
+        "The Hotel Journal"
+      ],
+      "domains": [
+        "thehoteljournal.com"
+      ],
       "topics": [
         "hotels-budget"
       ],
@@ -2112,16 +3588,13 @@
     },
     {
       "name": "Prime Backpackers Angel",
-      "source": "The Broke Backpacker",
-      "topics": [
-        "hostels"
+      "namedBy": 1,
+      "sources": [
+        "The Broke Backpacker"
       ],
-      "status": "candidate-single-source",
-      "hotelsCom": "unchecked"
-    },
-    {
-      "name": "Urbany Hostel London",
-      "source": "The Broke Backpacker",
+      "domains": [
+        "thebrokebackpacker.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -2130,7 +3603,13 @@
     },
     {
       "name": "Barmy Badger Backpackers",
-      "source": "The Broke Backpacker",
+      "namedBy": 1,
+      "sources": [
+        "The Broke Backpacker"
+      ],
+      "domains": [
+        "thebrokebackpacker.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -2139,7 +3618,13 @@
     },
     {
       "name": "New Cross Inn",
-      "source": "The Broke Backpacker",
+      "namedBy": 1,
+      "sources": [
+        "The Broke Backpacker"
+      ],
+      "domains": [
+        "thebrokebackpacker.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -2148,7 +3633,13 @@
     },
     {
       "name": "PubLove @ The Exmouth Arms",
-      "source": "The Broke Backpacker",
+      "namedBy": 1,
+      "sources": [
+        "The Broke Backpacker"
+      ],
+      "domains": [
+        "thebrokebackpacker.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -2157,7 +3648,13 @@
     },
     {
       "name": "Safestay London Kensington Holland Park",
-      "source": "The Broke Backpacker",
+      "namedBy": 1,
+      "sources": [
+        "The Broke Backpacker"
+      ],
+      "domains": [
+        "thebrokebackpacker.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -2166,7 +3663,13 @@
     },
     {
       "name": "Hootananny Hostel",
-      "source": "The Broke Backpacker",
+      "namedBy": 1,
+      "sources": [
+        "The Broke Backpacker"
+      ],
+      "domains": [
+        "thebrokebackpacker.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -2175,7 +3678,13 @@
     },
     {
       "name": "PubLove @ The White Ferry",
-      "source": "The Broke Backpacker",
+      "namedBy": 1,
+      "sources": [
+        "The Broke Backpacker"
+      ],
+      "domains": [
+        "thebrokebackpacker.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -2184,7 +3693,13 @@
     },
     {
       "name": "Sophie Steinebach",
-      "source": "The Broke Backpacker",
+      "namedBy": 1,
+      "sources": [
+        "The Broke Backpacker"
+      ],
+      "domains": [
+        "thebrokebackpacker.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -2193,7 +3708,13 @@
     },
     {
       "name": "Weekly tips for traveling further and spending less",
-      "source": "The Broke Backpacker",
+      "namedBy": 1,
+      "sources": [
+        "The Broke Backpacker"
+      ],
+      "domains": [
+        "thebrokebackpacker.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -2202,7 +3723,13 @@
     },
     {
       "name": "Astor Museum Inn",
-      "source": "Nomadic Mick",
+      "namedBy": 1,
+      "sources": [
+        "Nomadic Mick"
+      ],
+      "domains": [
+        "nomadicmick.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -2211,7 +3738,13 @@
     },
     {
       "name": "Palmers Lodge",
-      "source": "Nomadic Mick",
+      "namedBy": 1,
+      "sources": [
+        "Nomadic Mick"
+      ],
+      "domains": [
+        "nomadicmick.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -2220,7 +3753,13 @@
     },
     {
       "name": "Clink261",
-      "source": "Nomadic Mick",
+      "namedBy": 1,
+      "sources": [
+        "Nomadic Mick"
+      ],
+      "domains": [
+        "nomadicmick.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -2229,7 +3768,13 @@
     },
     {
       "name": "Safestay at Elephant and Castle",
-      "source": "Nomadic Mick",
+      "namedBy": 1,
+      "sources": [
+        "Nomadic Mick"
+      ],
+      "domains": [
+        "nomadicmick.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -2238,7 +3783,13 @@
     },
     {
       "name": "St Christopher's Inn",
-      "source": "Nomadic Mick",
+      "namedBy": 1,
+      "sources": [
+        "Nomadic Mick"
+      ],
+      "domains": [
+        "nomadicmick.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -2247,7 +3798,13 @@
     },
     {
       "name": "Barmy Badger",
-      "source": "Nomadic Matt",
+      "namedBy": 1,
+      "sources": [
+        "Nomadic Matt"
+      ],
+      "domains": [
+        "nomadicmatt.com"
+      ],
       "topics": [
         "hostels"
       ],
@@ -2255,13 +3812,65 @@
       "hotelsCom": "unchecked"
     },
     {
-      "name": "Park Villa",
-      "source": "Nomadic Matt",
+      "name": "Destinations Hostels @ The Gallery",
+      "namedBy": 1,
+      "sources": [
+        "Love and London"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hostels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "YHA London Earls Court",
+      "namedBy": 1,
+      "sources": [
+        "Love and London"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hostels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "Kabannas London St Pancras",
+      "namedBy": 1,
+      "sources": [
+        "Love and London"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
+      "topics": [
+        "hostels"
+      ],
+      "status": "candidate-single-source",
+      "hotelsCom": "unchecked"
+    },
+    {
+      "name": "Hostelle",
+      "namedBy": 1,
+      "sources": [
+        "Love and London"
+      ],
+      "domains": [
+        "loveandlondon.com"
+      ],
       "topics": [
         "hostels"
       ],
       "status": "candidate-single-source",
       "hotelsCom": "unchecked"
     }
-  ]
+  ],
+  "communityOnly": []
 }
