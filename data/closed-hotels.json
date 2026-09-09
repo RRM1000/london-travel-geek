@@ -50,7 +50,7 @@
       "sheetAction": "website -> https://www.pointahotels.com/our-hotels/kings-cross/ ; address -> 324 Gray's Inn Road, WC1X 8BU."
     },
     "z-hotel-covent-garden": {
-      "what": "Wrong street. The address field says 'Orange Street, WC2', which is Z Leicester Square. The hotel's own site and this row's own postcode WC2E 9ED both give 31-33 Bedford Street. lat/lng 51.511253, -0.124644 also point at Leicester Square.",
+      "what": "Wrong street. The address field says 'Orange Street, WC2', which is Z PICCADILLY (2 Orange Street, WC2H 7DF) - not Z Leicester Square, which is 3-5 Charing Cross Road, WC2H 0HA. An earlier note here said Leicester Square and was wrong; both verified on thezhotels.com 2026-09-09. The hotel's own site and this row's own postcode WC2E 9ED both give 31-33 Bedford Street. lat/lng 51.511253, -0.124644 also point away from Bedford Street.",
       "verified": "2026-09-08",
       "source": "https://www.thezhotels.com/hotels/london/covent-garden/",
       "sheetAction": "address -> 31-33 Bedford Street; correct lat/lng to the Bedford Street building."
