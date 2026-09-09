@@ -95,6 +95,10 @@ Home-cured salt beef carved to order, and the most reliable sit-down version in 
 
 So: Leather Lane for the original and the market street around it, Wardour Street if it is a Sunday or after 4pm, Goodge Street if you are north of Oxford Street.
 
+![A salt beef sandwich cut in half on greaseproof paper, thick hand-carved beef spilling out of caraway-seeded bread with pickle showing at the back](../../assets/articles/best-sandwiches-london/tongue-and-brisket.jpg)
+
+*Home-cured and carved to order, on caraway-seeded bread. The classic is £8 — the amount falling out of it is roughly the argument for coming here rather than anywhere else on Leather Lane.*
+
 ### Porterford Butchers, the City
 
 *Weekdays only · hot food 7am–2pm*
@@ -106,6 +110,10 @@ A working butcher's counter that describes itself as **the last butcher left in 
 **There is a queue and there is a way round it.** Their own site pushes online ordering explicitly to beat it, with collection through porterfordshotfood.co.uk, though online orders carry a **£20 minimum** so it only works for a group. Regulars describe a queue twenty deep after midday.
 
 At **72 Watling Street, EC4M 9BJ**, two minutes from Mansion House. This is a sandwich for people who work nearby rather than a destination — which is rather the point of it.
+
+![A salt beef baguette cut open, filled with hand-carved beef, yellow mustard and a whole gherkin laid along the length of it](../../assets/articles/best-sandwiches-london/porterford-butchers.jpg)
+
+*£8.50 regular, and the mustard down the side of this one is the 20p addition rather than something that arrives by default.*
 
 ---
 
@@ -145,6 +153,10 @@ The crisps sandwich is still there but it has changed: it is now **Crispy Greens
 
 **It closes at 3pm, seven days a week**, and that is the fact that decides the visit. Their own site is inconsistent about when it opens — the banner says 8am and the footer says 11am — so if you are going early, go on the assumption of 11 and treat 8 as a bonus. Ladbroke Grove or Westbourne Park, five minutes either way.
 
+![A sando cut in two in a white takeaway box, crustless white bread around a filling of patty, avocado, tomato and egg, with a branded Kewpie sachet tucked in beside it](../../assets/articles/best-sandwiches-london/secret-sandwich-shop.jpg)
+
+*Crustless milk bread, cut square so the filling reads end to end, and a Kewpie sachet in the box. This is not the egg salad — that is the one to order.*
+
 ### Sons + Daughters, King's Cross
 
 *Unit 119a, Coal Drops Yard N1C 4DQ · £7–£12*
@@ -166,6 +178,10 @@ A bakery first and a sandwich shop second, which is the right order — the brea
 The roast chicken and pesto focaccia has rotated off. The current lunch line-up alongside the egg is a sweet potato and tofu sarnie, a fennel sausage and greens sarnie, a gorgonzola, cavolo and walnut sarnie, and a cheese toastie.
 
 Three sites: Dalston, **Harringay at 429 Green Lanes N4 1HA**, and a van at Highbury Fields. It is also a social enterprise that trains young people at risk, which is not why it is on this list but is worth knowing.
+
+![A focaccia sandwich cut in half on a white plate, open-crumb bread around chicken, green olives, herbs and leaves, with a lemonade and a plum pastry in a box alongside](../../assets/articles/best-sandwiches-london/the-dusty-knuckle.jpg)
+
+*The bread is the argument, and this is what the bakery half of it produces — open-crumb focaccia holding a filling that would fall out of anything lesser. The pastry alongside is the other reason people come.*
 
 ### Crunch, Soho and Spitalfields
 
