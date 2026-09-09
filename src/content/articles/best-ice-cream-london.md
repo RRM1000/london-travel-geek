@@ -82,9 +82,9 @@ The vegan sorbets are marked on the menu — watermelon, apricot, almond, lemon 
 
 Open to **midnight on Fridays and Saturdays**, which makes it one of the few genuinely late desserts in the West End.
 
-![A tub of chocolate gelato with a wafer and a brownie](../../assets/articles/best-ice-cream-london/gelupo.jpg)
+![Two Gelupo tubs on a blue counter, each topped with a wafer stamped with the shop's wolf logo, beside a Gelupo card](../../assets/articles/best-ice-cream-london/gelupo.jpg)
 
-*Across the road from its own restaurant, Bocca di Lupo. The ricotta and sour cherry is the one to get. Photo: [andreasivarsson](https://www.flickr.com/photos/35254833@N04/7555706866), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Across the road from its own restaurant, Bocca di Lupo, and the wafer carries the wolf. The ricotta and sour cherry is the one to get.*
 
 ### Romeo & Giulietta, Stoke Newington
 
@@ -96,6 +96,10 @@ A Stoke Newington gelateria run by two Italians who make everything on site in s
 
 **£, walk-in.** Church Street, and the queue reaches the pavement on a warm evening. Closed through the coldest months in some years, so check before travelling in winter.
 
+![A cone with a dark chocolate-dipped shell and pink gelato, beside a raspberry milkshake and a latte on a dark windowsill with white tulips](../../assets/articles/best-ice-cream-london/romeo-and-giulietta.jpg)
+
+*Two Italians making everything on site in small batches. The base is proper custard gelato rather than the whipped stuff, which is why it holds its shape on a cone like this.*
+
 ### Nardulli, Clapham
 
 *29 The Pavement · busy year-round* · Cited by 4 sources
@@ -105,6 +109,10 @@ The queue that settles arguments. Four separate writers describe it independentl
 Traditional family gelato: **pistachio** is the consensus order, with Valrhona chocolate, liquorice, fig and a proper fior di latte behind it.
 
 The detail that matters more than the queue: it is busy **in December**. A summer queue means the weather is good. A December queue means the ice cream is good.
+
+![Two cones held over the pavement outside the shop, one pistachio and one a chocolate and cream swirl, with blue café chairs behind](../../assets/articles/best-ice-cream-london/nardulli.jpg)
+
+*Pistachio is the consensus order and this is it, eaten on The Pavement where the queue forms. The chairs behind are Clapham Common.*
 
 ### Badiani 1932, twelve London shops
 
@@ -116,6 +124,10 @@ It is the single most specific "order this" in London gelato, and the reason a F
 
 Widest footprint of any serious operator in the city, so there is usually one near you.
 
+![Badiani tubs of gelato with branded wafer discs, the pale cream Buontalenti in the centre of the group](../../assets/articles/best-ice-cream-london/badiani.jpg)
+
+*The pale one in the middle is the Buontalenti — cream, sugar and essentially nothing else. Everything around it is good; that is the one to order.*
+
 ### Unico Gelato, Holland Park
 
 *78 Holland Park Avenue · also St John's Wood, Gloucester Road, Bromley* · Cited by 2 sources
@@ -126,6 +138,10 @@ The **pistachio** uses Bronte DOP pistachios and the **hazelnut** uses Piedmont 
 
 **£, walk-in.** There is a second site in Victoria. Ask for a *spatola* rather than a scoop — that is how it is meant to be served.
 
+![Three hands each holding an elaborately built cone — pistachio, berry with chocolate, and chocolate with chopped hazelnut — against a white background](../../assets/articles/best-ice-cream-london/unico-gelato.jpg)
+
+*The pistachio is Bronte DOP and the hazelnut Piedmont IGP, which is the difference between a nut flavour and a nut.*
+
 ### Oddono's, South Kensington
 
 *14 Bute Street · six or seven branches* · Cited by 2 sources
@@ -135,6 +151,10 @@ The gelateria that has been the South Kensington standard for two decades, and t
 **Gelato** made daily on the premises, with the **pistachio** and the **fior di latte** — the plain milk flavour, and the hardest to hide behind — as the two to judge it on. Fresh fruit sorbets alongside for anyone avoiding dairy.
 
 **£, walk-in.** Several sites across London now, but the Bute Street original is the one with the queue. Open late in summer.
+
+![A double cone held up in front of the blue Oddono's shopfront, its sign reading Fresh Natural Gelato](../../assets/articles/best-ice-cream-london/oddonos.jpg)
+
+*The Bute Street original, which is the one with the queue. Judge it on the pistachio and the fior di latte — the plain milk flavour is the hardest to hide behind.*
 
 ### La Gelatiera, Covent Garden
 
@@ -163,6 +183,10 @@ Eighteen years in, making its own nut pastes, fruit juices, ripple sauces and ho
 They supply Michelin-starred Trinity in Clapham and Fortnum & Mason, which is the sort of detail that tells you more than a review.
 
 > ⚠️ **The Bermondsey factory shop opens Saturdays only, March to December** — so it is shut in January and February. The Chelsea parlour is open daily and year-round.
+
+![A deep pink fruit sorbet heaped in a tub printed "We are the Ice Cream Union", held against a black background](../../assets/articles/best-ice-cream-london/ice-cream-union.jpg)
+
+*The Times called this the best in the UK in July 2025. The fruit juices and ripple sauces are made in-house rather than bought in, which is where a colour like that comes from.*
 
 ### Caliendo's, Kentish Town counter
 
@@ -201,6 +225,10 @@ The range is broad and changes constantly — **honeycomb, salted caramel** and 
 
 **£, walk-in.** Upper Street and a second Covent Garden site. Queues on a summer evening; almost none in the day.
 
+![A tub of whipped ice cream loaded with nut brittle and banana slices, held over the shop's counter pans](../../assets/articles/best-ice-cream-london/udderlicious.jpg)
+
+*Made in small batches on site, over the pans it is made for. The specials rotate constantly, so the board rarely reads the same twice.*
+
 ### Crosstown
 
 *Battersea Power Station and Greenwich scoop bars* · Cited by 1 source
@@ -225,6 +253,10 @@ London's first Filipino *sorbetes* — "dirty ice cream", so called because it w
 
 Two honest notes. This is the most social-media-driven place on the page — the colour is made for a camera, and reviewers say outright they came because of TikTok. But it also reviews well on its merits, and the sandwiches are worth the queue. The other: **ube runs out**, regularly and early.
 
+![A bilog cut in half on a wooden tray — a toasted milk bun filled with bright purple ube ice cream and dusted with icing sugar](../../assets/articles/best-ice-cream-london/mamasons-bilog.jpg)
+
+*The bilog: ube in a toasted pandesal bun, dusted with icing sugar. The colour is the purple yam rather than anything added, and it is the first thing to sell out.*
+
 ### Festok, Marylebone
 
 *65 Weymouth Street* · Cited by 2 sources
@@ -234,6 +266,10 @@ A Marylebone shop built around **Middle Eastern flavours in ice cream** — pist
 The **pistachio** is the headline and is made with real pistachio paste rather than flavouring, and the **halva** and **rose** flavours are the ones worth travelling for. Toppings and kunafa are added at the counter.
 
 **£, walk-in.** Small counter, no seating, and busiest in the evening. The most distinctive ice cream in this guide.
+
+![Two scoops of pistachio-flecked gelato served in a kunafa pastry cup, showered with crushed pistachios on patterned paper](../../assets/articles/best-ice-cream-london/festok.jpg)
+
+*Served in kunafa, with the pistachios added at the counter. Nothing else in this guide looks like it, which is the argument for the trip to Weymouth Street.*
 
 ---
 
