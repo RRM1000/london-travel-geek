@@ -22,6 +22,10 @@ area:
   timeNeeded: "Half a day"
   budget: "££"
   bestDay: "Any day; weekday mornings are calmest, matinee days busiest"
+  walkingRoute:
+    slug: "covent-garden-walk"
+    label: "Leicester Square to Somerset House"
+    detail: "11 stops · 2km · about 2 hours"
   bestFor:
     - West End theatre
     - Street performers
@@ -57,7 +61,7 @@ faq:
   - q: "Is Covent Garden Market free to visit?"
     a: "Yes. The Apple Market, the Piazza and the surrounding arcades are free to walk through, as are the street performances. Performers in the West Piazza and the lower courtyard work for tips, so carry a little cash if you plan to stop and watch."
   - q: "Where do the street performers actually perform?"
-    a: "Three licensed pitches: the West Piazza in front of St Paul's Church for the big circle acts, the North Hall for smaller acts, and the lower courtyard beneath the Apple Market for classical musicians. All are auditioned by the estate, so the standard is genuinely high."
+    a: "Three licensed pitches: the West Piazza in front of St Paul's Church for the big circle acts, the North Hall for smaller acts, and the lower courtyard beneath the Apple Market for classical musicians. The two inside the Market Building are auditioned by the estate four times a year, which is why the standard under the glass is genuinely high. The West Piazza and James Street are licensed by Westminster City Council instead."
   - q: "Where should I eat before a West End show?"
     a: "Book ahead and tell them your curtain time — restaurants between Covent Garden and Soho fill completely from 17:00 to 19:30. Seven Dials Market is the reliable no-booking option. Avoid the restaurants directly on the Piazza, which charge a premium for the view."
   - q: "Can I get cheap West End theatre tickets on the day?"
@@ -74,7 +78,7 @@ Covent Garden has its own share of the commemorative plaques marking where notab
 
 ## Why visit — and who should skip it
 
-**Come here if** you want theatre, street performance and browsing in a compact area you can cover on foot. The Piazza performers are auditioned by the estate rather than turning up unannounced, so the standard is high. Seven Dials and Neal's Yard just north are among the prettiest corners in central London.
+**Come here if** you want theatre, street performance and browsing in a compact area you can cover on foot. The performers inside the market halls audition for their pitch rather than turning up unannounced, so the standard is high. Seven Dials and Neal's Yard just north are among the prettiest corners in central London.
 
 **Skip it if** you dislike crowds. Covent Garden is busy nearly all the time, and on Saturday afternoons the Piazza is close to impassable. If you want the same architecture without the crush, come on a weekday morning before 11am.
 
@@ -103,11 +107,11 @@ Covent Garden has its own share of the commemorative plaques marking where notab
 
 The centre, and the most crowded few hundred square metres in this guide. Charles Fowler's 1828 market hall with its later glass roofs, split into the **Apple Market** for craft stalls and the **Jubilee Market** for the cheaper end.
 
-**The street performers are licensed and auditioned**, which is why the standard is higher than it looks — pitches are balloted, and the ones under the glass in the North Hall are classical musicians rather than jugglers. **Free to watch; they pass a hat.**
+**The street performers are licensed**, and the two pitches inside the Market Building — the North Hall and the lower courtyard — are **auditioned by the estate four times a year**, which is why the standard under the glass is higher than it looks. The lower courtyard is reserved for opera singers and classically trained musicians, who have to project without amplification. The West Piazza and James Street are licensed by Westminster City Council and are not part of that audition. **Free to watch; they pass a hat.**
 
 **St Paul's Church to the west is the Actors' Church**, free to enter, lined with memorials to actors, and its portico is where Eliza Doolittle sells flowers at the start of *Pygmalion*. The churchyard behind it is a walled garden and one of the quietest places in Covent Garden.
 
-**Bar Cicoria at the Royal Ballet and Opera**, on the north-east corner, is the free viewpoint nobody uses — a fifth-floor terrace looking down onto the market roof, **walk-ins only, no ticket required**, noon to 11pm Monday to Saturday.
+**Bar Cicoria at the Royal Ballet and Opera**, on the north-east corner, is the free viewpoint nobody uses — a covered, heated fifth-floor terrace looking down onto the market roof, taking **walk-ins as well as bookings, with no ticket required**. Open daily from midday: to 11pm Monday to Saturday and 9.15pm on Sunday.
 
 Go before ten in the morning or after eight in the evening if you want to move.
 
@@ -228,7 +232,13 @@ For a drink between the theatres, **Bar Cicoria's terrace** is free to walk into
 
 **Avoid:** Saturday afternoons, when the Piazza is at its worst. Matinee days (usually Wednesday and Saturday) also put heavy pressure on restaurants from midday.
 
-## Suggested two-hour walking route
+## Walking routes
+
+**[A Walk Around Covent Garden: Leicester Square to Somerset House →](/articles/covent-garden-walk/)**
+
+Our full route for this area: **eleven numbered stops** over about 2km and two hours, with a map, a Google Maps walking link for your phone, and a day-by-day breakdown of what each market hall is actually selling. It goes north into Seven Dials before the crowds arrive rather than starting at the Piazza, takes in **Cecil Court** — the Victorian bookselling alley ninety seconds off the route that almost nobody finds — and explains why **Monday is the day to come**: it is the one day both the Apple Market and Jubilee Market switch to antiques.
+
+### The short version, if you only have two hours
 
 1. **Start:** Leicester Square station, Exit 1. Walk east along Cranbourn Street.
 2. **The Piazza:** Arrive at **Covent Garden Market**. Watch a performance in the West Piazza.

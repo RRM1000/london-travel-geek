@@ -55,4 +55,29 @@ export const routeConnections: Record<string, RouteConnection[]> = {
         "Cross to the south bank and walk it westwards to Westminster. 11 stops, 3km.",
     },
   ],
+  "covent-garden-walk": [
+    {
+      slug: "south-bank-walk",
+      label: "The South Bank: Westminster to Tower Bridge",
+      where: "Waterloo Bridge",
+      detail:
+        "Somerset House is at the north end of the bridge. Cross it and you are at stop 4. 11 stops, 3km.",
+    },
+    {
+      slug: "westminster-walk",
+      label: "Westminster: the bridge to Trafalgar Square",
+      where: "Trafalgar Square",
+      detail:
+        "Ends two minutes from where this one starts, so the pair run back to back. 11 stops, 4km.",
+    },
+  ],
+  "westminster-walk": [
+    {
+      slug: "covent-garden-walk",
+      label: "Covent Garden: Leicester Square to Somerset House",
+      where: "Trafalgar Square",
+      detail:
+        "Starts two minutes north of where this one finishes. 11 stops, 2km.",
+    },
+  ],
 };
