@@ -94,6 +94,10 @@ Isaan is the north-east: sour, salty and hot rather than sweet and coconut-heavy
 
 > ⚠️ Its own site lists **evenings only, Monday to Saturday** — no Sunday. Aggregators still show a lunch service. Ring before making a lunchtime trip.
 
+![Fried fishcakes on blue-and-white patterned china beside a plate of spring rolls with sweet chilli dipping sauce, a cucumber and peanut relish and a carved carrot garnish, on a patterned tablecloth](../../assets/articles/best-thai-restaurants-london/esarn-kheaw.jpg)
+
+*The starters, on the china and the tablecloth the room has used for thirty years. The som tam is what to come for, but this is what the place looks like.*
+
 ### Som Saa, Spitalfields
 
 *£££ · 43a Commercial Street · book ahead* · Cited by 5 sources
@@ -104,9 +108,9 @@ The **deep-fried whole seabass** with herbs has survived every menu change since
 
 > A kitchen fire in May 2025 wrecked the extraction and shut it for six months. It **reopened on 11 November 2025** and is back at full strength — some guides still carry a "temporarily closed" flag that is long out of date.
 
-![A cocktail with mint in a tall glass](../../assets/articles/best-thai-restaurants-london/som-saa.jpg)
+![A red curry with beef, Thai aubergines, pea aubergines, whole red chillies and holy basil in a rough stoneware bowl, with a copper spoon and a glass of beer on the table](../../assets/articles/best-thai-restaurants-london/som-saa.jpg)
 
-*Northern Thai cooking in a Spitalfields warehouse, and hotter than most London Thai food dares to be. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/34780201915), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*Regional Thai cooking in a Spitalfields warehouse, and hotter than most London Thai food dares to be. The whole red chillies in the bowl are not a garnish.*
 
 ### Khun Pakin Thai, Hammersmith
 
@@ -130,6 +134,10 @@ The **deep-fried whole seabass** with herbs has survived every menu change since
 Two regional traditions on one menu: the sour-hot **Isaan** dishes — som tam, larb, grilled meats — and the coconut-heavy **Southern** curries, which are hotter and richer than anything Bangkok serves. Order across both to see the difference.
 
 **££, closed Monday.** Plain room, long menu, and the sort of place where the Thai-language specials are the ones to ask about.
+
+![A shared table of pad thai with prawns and lime, stir-fried morning glory, fried soft-shell crab, jasmine rice and a dark curry, on a pine table with yellow-rimmed plates](../../assets/articles/best-thai-restaurants-london/101-thai-kitchen.jpg)
+
+*Ordering across both traditions in one sitting, which is the point of the place — the curry on the right and the Isaan dishes on the left, on a plain pine table.*
 
 ---
 
@@ -161,6 +169,10 @@ The cooking is Southern-leaning but not strictly Southern — there is northern 
 A **Bib Gourmand for 2026**, and it takes walk-ins, which most restaurants of this standing do not.
 
 > Not everyone thinks the move worked. Some regulars of the Leytonstone room argue something was lost in translation to a bigger, smarter space. Most critics disagree. Go and take a side.
+
+![A shared table of Thai dishes — a red curry with pork, a green-tinged curry with aubergine and holy basil, stir-fried clams with chilli and peppers, and a bowl of jasmine rice](../../assets/articles/best-thai-restaurants-london/singburi.jpg)
+
+*Ordered as a table rather than as courses, which is how the cooking is built. The clams with chilli are the dish regulars go back for.*
 
 ### Flavour Hubb, Wimbledon
 
@@ -209,6 +221,10 @@ The **fish sauce wings** are the dish everyone orders and the one to judge it on
 The signature is **kolae chicken**, the dish the restaurant is named after: butterflied, basted repeatedly in coconut and turmeric, and grilled over charcoal until the glaze caramelises into a crust. Southern curries around it, hotter and less sweet than Bangkok's.
 
 **£££, books weeks ahead**, three minutes from London Bridge. Sit at the counter if you can — the grill is the show.
+
+![A rich orange coconut curry in a fluted stoneware bowl, beside a bowl of red rice and a dish of greens with whole red chilli](../../assets/articles/best-thai-restaurants-london/kolae.jpg)
+
+*Not the kolae chicken — the coconut curry alongside it, with red rice. Southern Thai cooking runs richer and hotter than the Bangkok food most Londoners know.*
 
 ### Speedboat Bar, Chinatown and Notting Hill
 
