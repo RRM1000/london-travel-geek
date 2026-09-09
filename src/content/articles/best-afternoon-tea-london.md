@@ -285,8 +285,9 @@ The stand is a proper pastry exercise rather than a prop — savouries first, th
 
 The **egg-shaped lavatory pods** upstairs remain, and remain the second reason people book. Mon–Thu noon to 4pm; Fri–Sun 11am to 4.30pm.
 
-![The pink upholstered dining room at Sketch, hung with drawings](../../assets/articles/best-afternoon-tea-london/sketch.jpg)
-*The Gallery, David Shrigley's pink room, is where afternoon tea is served. Photo: [Glam UK](https://www.flickr.com/photos/135288089@N05/27039938264), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+![The Gallery at Sketch before its 2022 rebuild: pink velvet scallop-backed chairs around white-clothed tables, David Shrigley's framed drawings covering the wall, on a harlequin marble floor](../../assets/articles/best-afternoon-tea-london/sketch-pink-gallery.jpg)
+
+*The Gallery as it was — Shrigley's 245 drawings, the pink velvet and the harlequin floor. This is what came down in 2022; the room you will sit in now is Shonibare and Mahdavi's yellow one.*
 
 
 ---
