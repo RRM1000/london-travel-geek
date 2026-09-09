@@ -70,7 +70,7 @@ Nowhere else puts you inside a fifteen-minute walk of the theatres, the river, S
 
 The trade is that it is relentless. The Piazza has street performers from mid-morning until late, the surrounding streets carry theatre crowds twice a night, and the area has no quiet hour between about ten in the morning and midnight. It is also short of ordinary shops — you will struggle to buy milk.
 
-**[The Z Hotel Covent Garden](hotel:z-hotel-covent-garden)** is about £130 with breakfast and free evening cheese and wine, on the condition that you read the room grade: **the cheapest rate is an "Inside" room with no window**, and people book it by accident constantly. **[Strand Palace](hotel:strand-palace)** is about £140, has nearly eight hundred rooms and an art deco frontage from 1909, and is the one with availability when the boutiques are full. Our full [Covent Garden hotel guide](/articles/where-to-stay-covent-garden/) prices the area against Holborn ten minutes east.
+**[The Z Hotel Covent Garden](hotel:z-hotel-covent-garden)** is about £130, on the condition that you read the room grade: **the cheapest rate is an "Inside" room with no window**, and people book it by accident constantly. **[Strand Palace](hotel:strand-palace)** is about £140, has nearly eight hundred rooms and an art deco frontage from 1909, and is the one with availability when the boutiques are full. Our full [Covent Garden hotel guide](/articles/where-to-stay-covent-garden/) prices the area against Holborn ten minutes east.
 
 ### South Bank — the river, the galleries and three stations
 

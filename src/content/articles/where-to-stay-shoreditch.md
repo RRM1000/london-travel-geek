@@ -64,9 +64,9 @@ Room grades are named by size and the naming is honest: **a Shoebox is exactly w
 
 ### The Z Hotel Shoreditch — the cheapest, with a catch
 
-*About £110 · Breakfast included · Free evening cheese and wine · [check prices](hotel:z-hotel-shoreditch)*
+*About £110 · Breakfast is charged separately · [check prices](hotel:z-hotel-shoreditch)*
 
-The compact-room format on the Shoreditch edge of the City, with free cheese and wine in the lounge every evening and breakfast in the rate. At £110 it is the only room in Shoreditch under about £150.
+The compact-room format on the Shoreditch edge of the City. At £110 it is the only room in Shoreditch under about £150. Breakfast is bought in the Z Cafe rather than included: the free Z Member scheme adds evening cheese and wine and 10% off food and drink, but it excludes breakfast, and only the pricier Z Club room grade has breakfast in the rate.
 
 **The catch is real and worth spelling out.** The cheapest rate is an "Inside" room, which has **no window at all** — the same format as the Covent Garden branch — and people book it by accident because the booking page does not lead with it. Pay up a grade unless you genuinely do not mind, which some people do not.
 

@@ -194,7 +194,7 @@ Two more things to know before you read the grade list at any of the twelve. **T
 
 It is also the branch where the window costs most. The first room here with daylight is the **Z Double at £85**, the same 10 sq m as the Inside Double, so you are paying **£35 for the glass** — seven times what the identical decision costs at Tottenham Court Road. There is an Inside Queen at £70 between them at 11 sq m, which is the sensible middle if you want a bigger bed and do not mind the dark.
 
-Breakfast is included, and joining Z Club before you book is free — it takes 10% off the public rate and adds the evening cheese and wine. The address is the Shoreditch edge of the City rather than the nightlife core. Our [Shoreditch hotel guide](/articles/where-to-stay-shoreditch/) compares it against eight others in the area.
+Breakfast is bought in the Z Cafe rather than included. Joining Z Member before you book is free and adds evening cheese and wine plus 10% off food and drink, but not off breakfast; only the dearer Z Club room grade has breakfast in the rate. The address is the Shoreditch edge of the City rather than the nightlife core. Our [Shoreditch hotel guide](/articles/where-to-stay-shoreditch/) compares it against eight others in the area.
 
 ### The Z Hotel Victoria — £50, and £30 for daylight
 
@@ -236,7 +236,7 @@ A hundred and thirteen compact rooms in a courtyard behind St Paul's Church — 
 
 A **Z Inside Single is 8 sq m at £70**, an **Inside Double 9 sq m at £80**, an **Inside Queen 11 sq m at £90**. The first room here with a window is the **Z Double at £100** — the same 9 sq m as the Inside Double, for £20 more. A Z Family sleeping four is £155.
 
-Z publishes every grade with its floor area, which almost nobody in this price band does, and reading that list carefully is the entire job at this branch. Breakfast is included and Café Inigo downstairs does the buffet; the free Z Club membership takes 10% off and adds evening cheese and wine. Our [Covent Garden hotel guide](/articles/where-to-stay-covent-garden/) sets it against five others in the area.
+Z publishes every grade with its floor area, which almost nobody in this price band does, and reading that list carefully is the entire job at this branch. Café Inigo downstairs does the buffet breakfast, which is charged separately; the free Z Member scheme adds evening cheese and wine and 10% off food and drink, though not off breakfast. Our [Covent Garden hotel guide](/articles/where-to-stay-covent-garden/) sets it against five others in the area.
 
 ## The accessible room is often the windowless one
 

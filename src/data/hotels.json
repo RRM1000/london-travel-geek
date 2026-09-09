@@ -1,6 +1,6 @@
 {
  "generated": "2026-09-09",
- "count": 155,
+ "count": 214,
  "hotels": [
   {
    "slug": "astor-hyde-park",
@@ -40,6 +40,34 @@
    "hotelsUrl": "https://uk.hotels.com/ho514982784/astor-hyde-park-hostel-adults-only-london-united-kingdom/",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho514982784/astor-hyde-park-hostel-adults-only-london-united-kingdom/",
    "affiliateNetwork": "cj"
+  },
+  {
+   "slug": "astor-victoria",
+   "name": "Astor Victoria",
+   "propertyType": "hostel",
+   "style": "Belgrave Road dorm hostel with an age limit",
+   "brand": "astor",
+   "chainType": "mini-chain",
+   "area": "Pimlico",
+   "borough": "Westminster",
+   "zone": "1",
+   "district": "Central",
+   "address": "73 Belgrave Road",
+   "postcode": "SW1V 2BG",
+   "priceBand": "£",
+   "breakfast": "extra",
+   "whyGo": "Mixed dorms and female-only rooms on Belgrave Road, walking distance from Victoria's coach, rail and Tube interchange - which is the whole argument if you are arriving or leaving by bus. Twin private rooms sell alongside the dorms for anyone who wants a door that shuts.",
+   "opNote": "SHARED DORMITORIES ARE 18 TO 39 ONLY - Astor says so on its own hostel page, so this does not work for an older traveller or a family, and the twin private rooms are the only way round it. Branded Victoria, but the address is Pimlico: SW1V 2BG, Pimlico North ward, and Astor's own blog files it under Pimlico too. Lockers, towels and breakfast are all charged extra and padlocks are sold rather than lent; luggage storage is free on arrival. Operator's own from-prices on 2026-09-09: large mixed dorms from GBP 18, female rooms and small dorms from GBP 22, twins from GBP 99 - published rack rates, not sampled.",
+   "goodFor": [
+    "solo",
+    "budget",
+    "groups"
+   ],
+   "lists": [
+    "budget",
+    "hostels"
+   ],
+   "website": "https://www.astorhostels.com/hostels/victoria"
   },
   {
    "slug": "clink78",
@@ -188,6 +216,30 @@
    "website": "https://onefam.com/"
   },
   {
+   "slug": "park-villa-hostel",
+   "name": "Park Villa",
+   "propertyType": "hostel",
+   "style": "Georgian villa hostel with custom bunk pods",
+   "brand": "park-villa",
+   "chainType": "independent",
+   "borough": "Tower Hamlets",
+   "address": "51 Grove Road, Bow",
+   "postcode": "E3 4PE",
+   "priceBand": "£",
+   "breakfast": "extra",
+   "whyGo": "A restored Georgian Regency villa and its coach house run as a small hostel two minutes from Mile End station - oak floors, plantation shutters and customised bunk pods rather than metal frames, and half the rooms are en-suite.",
+   "opNote": "SMALL, AND OUT OF THE CENTRE. The operator calls it \"a very small hostel\" and caps groups at eight people; Mile End is ten minutes on the Central line from Holborn but walkable to nothing. Continental breakfast £5 a day, parking £10, towels £5 once with free exchange, all the operator's own figures. NOT THE FAMILY PICK ONE SOURCE MAKES IT: under-10s cannot use a dorm at all and need a private room with an adult guardian. THE WEBSITE IS STALE - a 2015 copyright line and 2015 testimonials - which is why trading status was checked separately and not taken from the page.",
+   "goodFor": [
+    "solo",
+    "budget"
+   ],
+   "lists": [
+    "hostels",
+    "budget"
+   ],
+   "website": "https://www.parkvilla.co.uk/"
+  },
+  {
    "slug": "st-christophers-village",
    "name": "St Christopher's Village, London Bridge",
    "propertyType": "capsule",
@@ -289,6 +341,33 @@
     "hostels",
     "best-value"
    ]
+  },
+  {
+   "slug": "urbany-hostel-london",
+   "name": "Urbany Hostel London",
+   "propertyType": "hostel",
+   "style": "Bayswater dorm hostel from a Barcelona group",
+   "brand": "urbany",
+   "chainType": "mini-chain",
+   "area": "Bayswater",
+   "borough": "Westminster",
+   "zone": "1",
+   "district": "West",
+   "address": "48-49 Prince's Square",
+   "postcode": "W2 4PX",
+   "priceBand": "£",
+   "whyGo": "Dorms of four to eight beds on a garden square in Bayswater, with guest kitchens you can actually cook in, a private locker at every bed, and free dinners, nights out and city walks run by the staff.",
+   "opNote": "AGE LIMIT, AND IT IS THE THING MOST LIKELY TO CATCH A BOOKER OUT: the operator's own FAQ says the London hostel takes guests aged 18 to 40 only, and anyone outside that range has to contact the hostel directly. All bathrooms are outside the rooms; towels are included only with a private double and otherwise rented at the desk; bring your own padlock for the in-room locker. There is a luggage room. Two domains in the hostels corpus.",
+   "goodFor": [
+    "solo",
+    "budget",
+    "groups"
+   ],
+   "lists": [
+    "hostels",
+    "budget"
+   ],
+   "website": "https://urbanyhostels.com/london/"
   },
   {
    "slug": "wombats-city-hostel-london",
@@ -630,6 +709,66 @@
    "website": "https://www.citizenm.com/"
   },
   {
+   "slug": "citizenm-london-shoreditch",
+   "name": "citizenM London Shoreditch",
+   "propertyType": "hotel",
+   "style": "Small smart rooms one minute from the station",
+   "brand": "citizenm",
+   "chainType": "chain",
+   "starRating": "4",
+   "area": "Shoreditch",
+   "borough": "Hackney",
+   "guide": "shoreditch-area-guide",
+   "zone": "1",
+   "district": "East",
+   "address": "6 Holywell Lane",
+   "postcode": "EC2A 3ET",
+   "priceBand": "££",
+   "whyGo": "One minute from Shoreditch High Street station on the Overground and walking distance from Brick Lane, Boxpark and Spitalfields, with canteenM serving food and drink round the clock and a rooftop bar above. The room is small by design; the money goes on the bed and the address.",
+   "opNote": "citizenM HAS BEEN BOUGHT BY MARRIOTT - citizenm.com now redirects to marriott.com and stays earn Bonvoy points, so any guide written before the takeover describes a different booking path. Every room card on the operator's own page is a 'Guest room', so do not assume a family room exists without asking. Three independent domains across the Shoreditch and general passes.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "business",
+    "budget"
+   ],
+   "lists": [
+    "best-value",
+    "design"
+   ],
+   "website": "https://www.marriott.com/en-gb/hotels/lonst-citizenm-london-shoreditch/overview/"
+  },
+  {
+   "slug": "citizenm-tower-of-london",
+   "name": "citizenM Tower of London",
+   "propertyType": "hotel",
+   "style": "370 rooms with a ninth-floor rooftop bar",
+   "brand": "citizenm",
+   "chainType": "chain",
+   "starRating": "4",
+   "area": "City of London",
+   "borough": "Tower Hamlets",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "40 Trinity Square",
+   "postcode": "EC3N 4DJ",
+   "priceBand": "££",
+   "whyGo": "370 rooms on Trinity Square facing the Tower of London, with cloudM on the ninth floor - a rooftop bar looking across the Gherkin, the Sky Garden and Tower Bridge, at chain-hotel money rather than five-star money.",
+   "opNote": "FAR BIGGER THAN THE OTHER LONDON CITIZENMS at 370 rooms, so it reads less as a boutique and more as a very well-designed large hotel with a view. Most of the evidence is view-led: it comes off rooftop and views guides rather than best-hotels lists, so there is little published on the bedrooms. Bought by Marriott, so Bonvoy applies and citizenm.com now redirects. The postcode falls in Tower Hamlets by about a block, not the City.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "business",
+    "first-time"
+   ],
+   "lists": [
+    "best-value",
+    "views"
+   ],
+   "website": "https://www.marriott.com/en-gb/hotels/lontl-citizenm-tower-of-london/overview/"
+  },
+  {
    "slug": "cove-cannon-street",
    "name": "Cove by Locke Cannon Street",
    "propertyType": "aparthotel",
@@ -738,6 +877,26 @@
    "website": "https://www.lockeliving.com/en/london"
   },
   {
+   "slug": "dog-and-fox-wimbledon",
+   "name": "Dog & Fox",
+   "propertyType": "pub-rooms",
+   "style": "Young's pub with 25 bedrooms in Wimbledon Village",
+   "brand": "youngs",
+   "chainType": "chain",
+   "borough": "Merton",
+   "address": "24 High Street, Wimbledon Village",
+   "postcode": "SW19 5EA",
+   "priceBand": "££",
+   "whyGo": "Twenty-five bedrooms over a working Young's pub on Wimbledon Village high street, with reception staffed round the clock and some rooms taking dogs - the obvious base for the Championships, and the operator is already selling 2027 stays.",
+   "opNote": "Two domains in the general hotels corpus. HOOD IS DELIBERATELY EMPTY - Wimbledon Village is outside every neighbourhood this sheet recognises, and it is a train ride from central London rather than a walk, so forcing it into a central hood would mislead. The operator spells it 'Dog & Fox'; the guides that named it write 'The Dog and Fox'. The pub below closes at 11pm Monday to Thursday, midnight Friday and Saturday, 11pm Sunday.",
+   "goodFor": [
+    "couples",
+    "families",
+    "groups"
+   ],
+   "website": "https://www.dogandfoxwimbledon.co.uk/"
+  },
+  {
    "slug": "ember-locke",
    "name": "Ember Locke Kensington",
    "propertyType": "aparthotel",
@@ -772,6 +931,34 @@
     "aparthotels"
    ],
    "website": "https://www.lockeliving.com/en/london"
+  },
+  {
+   "slug": "good-hotel-london",
+   "name": "Good Hotel London",
+   "propertyType": "hotel",
+   "style": "Floating social-enterprise hotel moored in the Royal Docks",
+   "brand": "good-hotel",
+   "chainType": "mini-chain",
+   "area": "Royal Docks",
+   "borough": "Newham",
+   "zone": "3",
+   "district": "East",
+   "address": "Western Gateway, Royal Victoria Dock",
+   "postcode": "E16 1FA",
+   "priceBand": "££",
+   "whyGo": "A derelict floating platform, bought, refitted and towed across the North Sea, now moored at the Western Gateway of Royal Victoria Dock with water on three sides. Excess profits go to a foundation, and the staff come through the hotel's own training programme for the long-term unemployed.",
+   "opNote": "STILL AFLOAT AND STILL IN LONDON, checked 2026-09-09: the operator's own contact page puts it at the Western Gateway of Royal Victoria Dock, under five minutes' walk from Royal Victoria DLR and five from Custom House on the Elizabeth line. THE ROOMS HAVE NO TV AND NO MINIBAR, by design and by the hotel's own admission; the standard Good Room is 13 sqm and the 30 sqm corner Best Rooms are the ones with the view. Every room sleeps two, with an extra bed only on request in the Best Room, so it is a poor fit for a family despite appearing on a family list. Named by 2 independent domains.",
+   "goodFor": [
+    "couples",
+    "solo",
+    "business"
+   ],
+   "lists": [
+    "unusual",
+    "venues",
+    "excel"
+   ],
+   "website": "https://goodhotel.co/london"
   },
   {
    "slug": "hilton-london-wembley",
@@ -883,6 +1070,35 @@
     "best-value"
    ],
    "website": "https://www.premierinn.com/gb/en/hub.html"
+  },
+  {
+   "slug": "ibis-london-blackfriars",
+   "name": "ibis London Blackfriars",
+   "propertyType": "hotel",
+   "style": "Refurbished economy chain hotel on Blackfriars Road",
+   "brand": "accor",
+   "chainType": "chain",
+   "starRating": "3",
+   "area": "Southwark",
+   "borough": "Southwark",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "49 Blackfriars Road",
+   "postcode": "SE1 8NZ",
+   "priceBand": "££",
+   "whyGo": "297 rooms refurbished to Accor's circular KAI format, with air conditioning throughout, a short stroll from Southwark and Waterloo stations and inside walking distance of Tate Modern and the Southbank Centre.",
+   "opNote": "An economy three-star and honest about it: the guest feedback Accor publishes on its own page complains the rooms feel cheap and the soundproofing is questionable, which is the trade-off for a zone 1 address. Pets are welcome. THE OPERATOR LISTS BREAKFAST AS AVAILABLE BUT NEVER SAYS WHETHER IT IS IN THE RATE, so check the rate you are buying - the breakfast cell here is deliberately empty. Named by 2 independent domains.",
+   "goodFor": [
+    "budget",
+    "business",
+    "first-time"
+   ],
+   "lists": [
+    "budget",
+    "best-value"
+   ],
+   "website": "https://all.accor.com/hotel/7943/index.en.shtml"
   },
   {
    "slug": "la-gaffe",
@@ -1025,6 +1241,92 @@
     "aparthotels"
    ],
    "website": "https://www.lockeliving.com/en/london"
+  },
+  {
+   "slug": "london-bridge-hotel",
+   "name": "London Bridge Hotel",
+   "propertyType": "hotel",
+   "style": "Independent four-star beside London Bridge station",
+   "brand": "london-bridge-hotel",
+   "chainType": "independent",
+   "starRating": "4",
+   "area": "Southwark",
+   "borough": "Southwark",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "8-18 London Bridge Street",
+   "postcode": "SE1 9SG",
+   "priceBand": "££",
+   "whyGo": "An independent four-star on London Bridge Street itself, next to the station and the Shard, with Borough Market and the Square Mile a short walk away - and studio suites and apartments alongside the rooms for a longer stay.",
+   "opNote": "Independent rather than branded, and it trades on that: the operator's own standing headline is weekend stays from £129 including VAT, which is what puts it in the four-star bracket on price rather than the five. Apartments and studio suites are let alongside the rooms. Two restaurants in the building, Londinium and the Quarter Bar & Lounge, plus a fitness room but no pool. The Shard is next door, so ask which side your room faces if outlook or noise matters. Named by 2 independent domains.",
+   "goodFor": [
+    "business",
+    "couples",
+    "long-stay"
+   ],
+   "lists": [
+    "best-value"
+   ],
+   "website": "https://www.londonbridgehotel.com/"
+  },
+  {
+   "slug": "london-lodge-hotel",
+   "name": "London Lodge Hotel",
+   "propertyType": "townhouse",
+   "style": "Family-run Victorian townhouse on a quiet Kensington street",
+   "brand": "london-lodge-hotel",
+   "chainType": "independent",
+   "area": "Kensington",
+   "borough": "Kensington and Chelsea",
+   "guide": "kensington-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "134-136 Lexham Gardens",
+   "postcode": "W8 6JE",
+   "priceBand": "££",
+   "whyGo": "Two Victorian houses built in 1880 and knocked together, run by the same couple since 1996, on a quiet Kensington street a turn from Lexham Mews and Stratford Road, with its own bar and breakfast room, Stephanie's, open to non-residents.",
+   "opNote": "IDENTIFICATION NOTE - READ BEFORE MERGING. This is 134-136 Lexham Gardens, W8, a small owner-run Kensington townhouse hotel. It is NOT the separate Lodge Hotel in Putney, which a near-identical name in the same corpus points at; the candidates file merged the two. There are steps up to the front door, but the hotel states a lift to every floor inside and walk-in showers in the Superior Single, Double and Twin rooms. Singles and triples are both sold, which is unusual at this size. Named by 2 independent domains, but across two corpora rather than one.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "families"
+   ],
+   "lists": [
+    "boutique",
+    "best-value"
+   ],
+   "website": "https://londonlodgehotel.com/"
+  },
+  {
+   "slug": "morgan-hotel-bloomsbury",
+   "name": "Morgan Hotel",
+   "propertyType": "hotel",
+   "style": "Family-run Bloomsbury hotel with rooms and apartments",
+   "brand": "morgan-hotel",
+   "chainType": "independent",
+   "area": "Bloomsbury",
+   "borough": "Camden",
+   "guide": "bloomsbury-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "24 Bloomsbury Street",
+   "postcode": "WC1B 3QJ",
+   "priceBand": "££",
+   "breakfast": "included",
+   "whyGo": "A family-run hotel across two buildings on Bloomsbury Street, a couple of minutes from the British Museum, where the one-bed and family apartments run to 48 and 51 sq m - four times the size of its own single room and far more space than central London usually sells at this price.",
+   "opNote": "NO LIFT, in the operator's own words, and it adds that the rooms \"may not be appropriate for those who require wheelchair access\" - that sentence is on its homepage, so it is the operator's caveat rather than ours. Breakfast is included and the rooms are air-conditioned. EVIDENCE IS THINNER THAN THE COUNT SUGGESTS: of the two domains, only Santorini Dave is solid. The second is londoninfoguide.com's best-hotels-near-british-museum page, which belongs to the hotels-near-<landmark>-london.html template family that the Paddington pass dropped as an affiliate template, even though the Marylebone pass kept the same site's hand-written area pages. Treat as one-domain evidence plus a verified operator site.",
+   "goodFor": [
+    "families",
+    "couples",
+    "budget",
+    "first-time"
+   ],
+   "lists": [
+    "best-value",
+    "families"
+   ],
+   "website": "https://morganhotel.co.uk/"
   },
   {
    "slug": "native-fulham-broadway",
@@ -1410,6 +1712,35 @@
    "website": "https://www.premierinn.com/"
   },
   {
+   "slug": "premier-inn-tower-bridge",
+   "name": "Premier Inn London Tower Bridge",
+   "propertyType": "hotel",
+   "style": "Budget chain on the Bermondsey side of the bridge",
+   "brand": "premier-inn",
+   "chainType": "chain",
+   "area": "Bermondsey",
+   "borough": "Southwark",
+   "guide": "bermondsey-area-guide",
+   "zone": "1–2",
+   "district": "South",
+   "address": "159 Tower Bridge Road",
+   "postcode": "SE1 3LP",
+   "priceBand": "££",
+   "breakfast": "extra",
+   "whyGo": "On Tower Bridge Road with the Tower of London, HMS Belfast and the Shard all on foot, and air conditioning in every room - which an old corner of SE1 does not otherwise hand you at this price.",
+   "opNote": "NEXT DOOR TO BERMONDS LOCKE at 157 Tower Bridge Road, so the two rows on this sheet are literally neighbours answering different budgets and different lengths of stay. Parking is on site but chargeable and limited: the operator quotes £31 a night through Horizon Parking, payable on each exit. FLAG FOR THE OWNER - the 2026-08-20 chains rule keeps one Premier Inn on this sheet and only on merit; this is a second, and the case for it is the address rather than the building, which is a weaker argument than County Hall's. Two guide domains.",
+   "goodFor": [
+    "families",
+    "budget",
+    "first-time"
+   ],
+   "lists": [
+    "budget",
+    "best-value"
+   ],
+   "website": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-tower-bridge.html"
+  },
+  {
    "slug": "ruby-zoe",
    "name": "Ruby Zoe Hotel London",
    "propertyType": "hotel",
@@ -1687,6 +2018,31 @@
    ]
   },
   {
+   "slug": "the-cumberland-london",
+   "name": "The Cumberland",
+   "propertyType": "hotel",
+   "style": "Large Marble Arch hotel with Hell's Kitchen inside",
+   "brand": "clermont",
+   "chainType": "chain",
+   "area": "Marylebone",
+   "borough": "Westminster",
+   "guide": "marylebone-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Great Cumberland Place",
+   "postcode": "W1H 7DL",
+   "priceBand": "££",
+   "whyGo": "Gordon Ramsay's Hell's Kitchen took its first UK site here, so you can eat the format without flying to Vegas - and the hotel is just off the Marble Arch end of Oxford Street with Hyde Park yards away.",
+   "opNote": "Two domains in the Marylebone corpus. STILL TRADING UNDER THE SAME NAME despite a history of changing hands - thecumberland.co.uk now resolves to thecumberland.com and the About page is headed 'Clermont Hotel Management Limited', which is the current operator. Nothing on the site is branded Guoman or Hard Rock. A big-box hotel rather than a boutique one, and no star rating is published.",
+   "goodFor": [
+    "couples",
+    "families",
+    "first-time",
+    "business"
+   ],
+   "website": "https://www.thecumberland.com/"
+  },
+  {
    "slug": "georgian-house-wizard-chambers",
    "name": "The Georgian House Hotel",
    "propertyType": "townhouse",
@@ -1767,6 +2123,35 @@
    "affiliateNetwork": "cj"
   },
   {
+   "slug": "the-july-london-victoria",
+   "name": "The July London Victoria",
+   "propertyType": "aparthotel",
+   "style": "Art Deco apartment-hotel, a kitchen in every unit",
+   "brand": "the-july",
+   "chainType": "mini-chain",
+   "area": "Victoria",
+   "borough": "Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "282 Vauxhall Bridge Road",
+   "postcode": "SW1V 1BB",
+   "priceBand": "££",
+   "whyGo": "Every apartment has a full kitchen, from the 19 sq m studio upwards, and the building adds a gym, sauna, cold room, co-working floor and bookable meeting rooms - two minutes' walk from Victoria station on the operator's own count.",
+   "opNote": "Two domains in the general corpus and named again in the boutique, family, aparthotel and budget passes. READ THE FAMILY ROOM DESCRIPTION BEFORE BOOKING FOR FOUR: the Cosy Family Apartment is two compact apartments joined by a private hallway, not one large room. There is a wheelchair-configured apartment with a lowered kitchen and accessible en-suite, described in detail by the operator. A Dutch brand (Amsterdam, plus a new Dublin site) rather than a London one, so there is no UK track record behind it.",
+   "goodFor": [
+    "couples",
+    "families",
+    "business",
+    "long-stay",
+    "accessible"
+   ],
+   "lists": [
+    "best-value"
+   ],
+   "website": "https://www.thejuly.com/properties/london-victoria"
+  },
+  {
    "slug": "the-pilgrm",
    "name": "The Pilgrm",
    "propertyType": "boutique",
@@ -1807,6 +2192,36 @@
    "affiliateNetwork": "cj"
   },
   {
+   "slug": "the-resident-soho",
+   "name": "The Resident Soho",
+   "propertyType": "hotel",
+   "style": "Compact rooms with mini-kitchens off Soho Square",
+   "brand": "the-resident",
+   "chainType": "mini-chain",
+   "starRating": "4",
+   "area": "Soho",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "10 Carlisle Street",
+   "postcode": "W1D 3BR",
+   "priceBand": "££",
+   "whyGo": "Seventy-eight rooms, every one with the group's signature mini-kitchen, tucked at the dead end of Carlisle Street a few steps from Soho Square - which makes it far quieter than a Soho address suggests.",
+   "opNote": "The mini-kitchen in every room is the reason to book it: it turns a West End stay into one you can eat breakfast in, which is what keeps it on longer-stay and family lists. Same group as The Resident Victoria, already on this sheet. Two domains in the Soho corpus.",
+   "goodFor": [
+    "couples",
+    "solo",
+    "families",
+    "long-stay",
+    "business"
+   ],
+   "lists": [
+    "best-value"
+   ],
+   "website": "https://www.residenthotels.com/locations/soho"
+  },
+  {
    "slug": "the-resident-victoria",
    "name": "The Resident Victoria",
    "propertyType": "hotel",
@@ -1837,6 +2252,82 @@
    "website": "https://www.residenthotels.com/"
   },
   {
+   "slug": "the-sanctuary-house-hotel",
+   "name": "The Sanctuary House Hotel",
+   "propertyType": "pub-rooms",
+   "style": "Fuller's Ale and Pie pub with thirty-five bedrooms",
+   "brand": "fullers",
+   "chainType": "chain",
+   "area": "Westminster",
+   "borough": "Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "33 Tothill Street",
+   "postcode": "SW1H 9LA",
+   "priceBand": "££",
+   "whyGo": "Thirty-five bedrooms over a Fuller's Ale and Pie pub in a 19th-century building on Tothill Street, a few minutes' walk from Westminster Abbey and Big Ben and about the same from St James's Park station.",
+   "opNote": "A PUB WITH BEDROOMS, NOT A HOTEL, despite the name - it is a Fuller's house and the pub is the ground floor. The kitchen opens at 7am on weekdays and 8am at weekends, so there is food downstairs early whether or not breakfast is in your rate; the operator does not say either way, so that field is empty. This is the government quarter, which empties at the weekend. Two domains in the Westminster corpus.",
+   "goodFor": [
+    "couples",
+    "solo",
+    "business",
+    "first-time"
+   ],
+   "lists": [
+    "best-value"
+   ],
+   "website": "https://www.sanctuaryhousehotel.co.uk/"
+  },
+  {
+   "slug": "the-tower-hotel",
+   "name": "The Tower Hotel",
+   "propertyType": "hotel",
+   "style": "Large riverside block at St Katharine Docks",
+   "brand": "thistle",
+   "chainType": "chain",
+   "area": "Wapping",
+   "borough": "Tower Hamlets",
+   "zone": "2",
+   "district": "East",
+   "address": "St Katharine's Way",
+   "postcode": "E1W 1LD",
+   "priceBand": "££",
+   "whyGo": "A big riverside block right beside Tower Bridge at St Katharine Docks, where the view is the product - several grades are sold specifically as Tower Bridge View rooms, from Standard through to Executive.",
+   "opNote": "REBRANDED: it now trades as The Tower Hotel by Thistle, run by Clermont Hotel Management, so guides that still file it under Guoman are out of date. THE VIEW IS AN UPGRADE, not a given - a Standard Double and a Standard Double with Tower Bridge View are separate rates, and the cheaper rooms face the dock or the road. Parking is on site. It sits at St Katharine Docks, the western end of E1W, rather than Wapping proper, so no area guide is linked.",
+   "goodFor": [
+    "families",
+    "groups",
+    "business",
+    "first-time"
+   ],
+   "lists": [
+    "views",
+    "families"
+   ],
+   "website": "https://www.towerhotellondon.com/"
+  },
+  {
+   "slug": "the-victoria-inn-peckham",
+   "name": "The Victoria Inn",
+   "propertyType": "pub-rooms",
+   "style": "Rooms over an 1878 pub on Choumert Road",
+   "brand": "greene-king",
+   "chainType": "chain",
+   "borough": "Southwark",
+   "guide": "peckham-area-guide",
+   "address": "77-79 Choumert Road",
+   "postcode": "SE15 4AR",
+   "priceBand": "££",
+   "whyGo": "Rooms over a pub dating to 1878 on Choumert Road, a side street off Rye Lane, with a seasonal British pub menu served all day and the Bussey Building and Peckham Rye Park both a short walk away.",
+   "opNote": "A GREENE KING PUB WITH BEDROOMS, not a hotel - the operator's own copy calls it a boutique hotel in one place and a bed and breakfast in another, and nowhere says whether breakfast is in the rate, so that field is empty. PECKHAM IS NOT ONE OF OUR NEIGHBOURHOODS, so hood is left blank; the borough is Southwark and the Peckham area guide is the right link. Two domains in the general hotels corpus.",
+   "goodFor": [
+    "couples",
+    "solo"
+   ],
+   "website": "https://www.victoriainnpeckham.com/"
+  },
+  {
    "slug": "z-hotel-covent-garden",
    "name": "The Z Hotel Covent Garden",
    "propertyType": "hotel",
@@ -1855,13 +2346,13 @@
    "lng": -0.124644,
    "priceBand": "££",
    "typicalFrom": "About £130",
-   "breakfast": "included",
+   "breakfast": "extra",
    "roomTypes": "Inside (no window), Standard, Superior",
    "accessibility": "limited",
    "hasLift": "yes",
    "airCon": "yes",
    "luggageStorage": "yes",
-   "whyGo": "A compact-room format that buys a Covent Garden postcode for mid-range money, with free cheese and wine in the lounge each evening.",
+   "whyGo": "A compact-room format that buys a Covent Garden postcode for mid-range money - the rooms are small on purpose and the money goes on the address.",
    "opNote": "THE CHEAPEST ROOMS HAVE NO WINDOW. They are sold as 'Inside' rooms and people book them by accident constantly. Pay up a grade unless you genuinely do not care.",
    "goodFor": [
     "solo",
@@ -1896,13 +2387,13 @@
    "lng": -0.0886,
    "priceBand": "££",
    "typicalFrom": "About £110",
-   "breakfast": "included",
+   "breakfast": "extra",
    "roomTypes": "Inside (no window), Standard, Superior",
    "accessibility": "limited",
    "hasLift": "yes",
    "airCon": "yes",
    "luggageStorage": "yes",
-   "whyGo": "The compact-room format on the Shoreditch edge of the City, with free cheese and wine in the lounge each evening.",
+   "whyGo": "The compact-room format on the Shoreditch edge of the City, and the cheapest room in the area that is not a dorm.",
    "opNote": "SAME WINDOWLESS 'INSIDE' ROOMS as the Covent Garden branch - the cheapest rate has no window and people book it by accident. Pay up a grade unless you genuinely do not mind.",
    "goodFor": [
     "solo",
@@ -1917,6 +2408,35 @@
    "hotelsUrl": "https://uk.hotels.com/ho1140510304/",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho1140510304/",
    "affiliateNetwork": "cj"
+  },
+  {
+   "slug": "z-hotel-soho",
+   "name": "The Z Hotel Soho",
+   "propertyType": "hotel",
+   "style": "Compact rooms between Soho and Charing Cross Road",
+   "brand": "z-hotels",
+   "chainType": "mini-chain",
+   "area": "Soho",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "17 Moor Street",
+   "postcode": "W1D 5AP",
+   "priceBand": "££",
+   "breakfast": "extra",
+   "whyGo": "The compact-room format on Moor Street, a few steps from Cambridge Circus and Old Compton Street - about as central as a room at this price gets in the West End, with the theatres on the doorstep.",
+   "opNote": "BREAKFAST IS NOT INCLUDED as standard: Z Hotels' own site says breakfast, drinks and snacks are bought from the Z Cafe, and are included in the rate only in the pricier Z Club rooms - the same page puts the complimentary cheese and wine behind Z Club membership too. Older guides describing free breakfast across the brand are out of date. Two domains in the Soho corpus.",
+   "goodFor": [
+    "solo",
+    "couples",
+    "budget",
+    "business"
+   ],
+   "lists": [
+    "best-value"
+   ],
+   "website": "https://www.thezhotels.com/hotels/soho/"
   },
   {
    "slug": "wilde-paddington",
@@ -2282,6 +2802,32 @@
    "affiliateNetwork": "cj"
   },
   {
+   "slug": "bertrands-townhouse",
+   "name": "Bertrand's Townhouse",
+   "propertyType": "townhouse",
+   "style": "Bloomsbury townhouse named for Bertrand Russell",
+   "brand": "bertrands",
+   "chainType": "independent",
+   "area": "Bloomsbury",
+   "borough": "Camden",
+   "guide": "bloomsbury-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "4-6 Bedford Place",
+   "postcode": "WC1B 5JD",
+   "priceBand": "£££",
+   "whyGo": "A townhouse on Bedford Place, the quiet Georgian run between Russell Square and the British Museum, themed on Bertrand Russell and the Bloomsbury Set - a cigar garden on the terrace, a bar called Ottie's Salon and jazz nights.",
+   "opNote": "Trading: guest reviews on the operator's own site run to February 2026. THE EVIDENCE IS THIN for a two-domain candidate - both are Conde Nast Traveller, UK and US editions of one magazine, and the third source, londoninfoguide.com, is a site this repo has vetted twice and reached opposite verdicts on. The operator claims a place in The Times' 50 Best Places to Stay in the UK, one of only six London hotels on it; that claim is theirs and has not been checked against The Times.",
+   "goodFor": [
+    "couples",
+    "first-time"
+   ],
+   "lists": [
+    "boutique"
+   ],
+   "website": "https://www.bertrandstownhouse.co.uk/"
+  },
+  {
    "slug": "bingham-riverhouse",
    "name": "Bingham Riverhouse",
    "propertyType": "hotel",
@@ -2319,6 +2865,34 @@
    "hotelsUrl": "https://uk.hotels.com/ho360271/bingham-riverhouse-richmond-united-kingdom/",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho360271/bingham-riverhouse-richmond-united-kingdom/",
    "affiliateNetwork": "cj"
+  },
+  {
+   "slug": "boundary-shoreditch",
+   "name": "Boundary Shoreditch",
+   "propertyType": "boutique",
+   "style": "Seventeen rooms, each a twentieth-century designer",
+   "brand": "boundary",
+   "chainType": "independent",
+   "area": "Shoreditch",
+   "borough": "Hackney",
+   "guide": "shoreditch-area-guide",
+   "zone": "1",
+   "district": "East",
+   "address": "2-4 Boundary Street",
+   "postcode": "E2 7DD",
+   "priceBand": "£££",
+   "whyGo": "Seventeen rooms, each built around one twentieth-century designer or movement - Bauhaus, Le Corbusier, Eileen Gray, Andree Putman - plus four duplex loft suites with double-height windows onto the Shoreditch skyline, a Conran suite designed by Terence Conran and one designed by Sir David Tang.",
+   "opNote": "THE ENTRANCE IS ON REDCHURCH STREET, not Boundary Street, which the operator repeats in the header of every page of its own site. The rooftop and the ground-floor brasserie take non-residents, so the building is busier in the evening than seventeen rooms suggests. Five independent domains named it, the most of anything in this batch, but under four spellings - Boundary Hotel, Boundary Shoreditch, The Boundary and Boundary - which is why the candidate file holds it twice.",
+   "goodFor": [
+    "couples",
+    "business"
+   ],
+   "lists": [
+    "boutique",
+    "design",
+    "views"
+   ],
+   "website": "https://boundary.london/"
   },
   {
    "slug": "cheval-gloucester-park",
@@ -2440,6 +3014,34 @@
    "website": "https://www.deanstreettownhouse.com/"
   },
   {
+   "slug": "doubletree-tower-of-london",
+   "name": "DoubleTree by Hilton London - Tower of London",
+   "propertyType": "hotel",
+   "style": "City chain hotel under a busy rooftop bar",
+   "brand": "hilton",
+   "chainType": "chain",
+   "starRating": "4",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "7 Pepys Street",
+   "postcode": "EC3N 4AF",
+   "priceBand": "£££",
+   "whyGo": "Savage Garden, the rooftop bar on top of it, looks straight at the Tower of London and Tower Bridge and is the reason both our sources named the hotel at all. Tower Hill and Fenchurch Street are both a short walk and the operator puts central London fifteen minutes away.",
+   "opNote": "BOOKED FOR THE ROOF, NOT THE ROOMS - both sources are rooftop-bar guides, so the corpus holds no editorial opinion on the bedrooms at all. Savage Garden is open to the public and 18+ after 6pm, so the lifts and lobby get busy in the evening. Dogs are allowed in bedrooms for a non-refundable GBP 40, but not in the cafe, the rooftop or the executive lounge, on Hilton's own page.",
+   "goodFor": [
+    "couples",
+    "business",
+    "first-time"
+   ],
+   "lists": [
+    "views"
+   ],
+   "website": "https://www.hilton.com/en/hotels/lontldi-doubletree-london-tower-of-london/"
+  },
+  {
    "slug": "doubletree-greenwich",
    "name": "DoubleTree by Hilton London Greenwich",
    "propertyType": "hotel",
@@ -2479,6 +3081,63 @@
    "affiliateNetwork": "cj"
   },
   {
+   "slug": "grand-hotel-bellevue-london",
+   "name": "Grand Hotel Bellevue London",
+   "propertyType": "boutique",
+   "style": "French-run design hotel in a Paddington Victorian house",
+   "brand": "grand-hotel-bellevue",
+   "chainType": "independent",
+   "area": "Paddington",
+   "borough": "Westminster",
+   "guide": "paddington-area-guide",
+   "zone": "1",
+   "district": "West",
+   "address": "25-27 Norfolk Square",
+   "postcode": "W2 1RX",
+   "priceBand": "£££",
+   "whyGo": "Sixty rooms in a Victorian house on Norfolk Square, which the hotel calls a peaceful garden square in the heart of Paddington, with interiors by the architect Fabrizio Casiraghi and a bar, Pondicherry, whose walls carry bespoke embroidery by BODE.",
+   "opNote": "A French operation in London - the site runs in French and English and the press it quotes is Parisian - which is half the appeal and half the trade-off. The entry room is a 'Single Cabin', designed to feel like a boat cabin, so read the room type before booking on price. There is no restaurant: the Pondicherry bar carries a seasonal menu from early morning to late evening instead. A 24-hour NOHrD fitness studio is bookable by guests only. Named by 2 independent domains.",
+   "goodFor": [
+    "couples",
+    "solo",
+    "celebration"
+   ],
+   "lists": [
+    "design",
+    "boutique"
+   ],
+   "website": "https://www.grandhotelbellevuelondon.com/"
+  },
+  {
+   "slug": "hart-shoreditch",
+   "name": "Hart Shoreditch Hotel London, Curio Collection by Hilton",
+   "propertyType": "hotel",
+   "style": "Craft-themed Curio Collection hotel on Great Eastern Street",
+   "brand": "hilton",
+   "chainType": "chain",
+   "area": "Shoreditch",
+   "borough": "Hackney",
+   "guide": "shoreditch-area-guide",
+   "zone": "1",
+   "district": "East",
+   "address": "61-67 Great Eastern Street",
+   "postcode": "EC2A 3HU",
+   "priceBand": "£££",
+   "breakfast": "extra",
+   "whyGo": "A Hilton Curio built on the area's industrial history, with Old Street station on the doorstep and King's Cross four minutes away by Underground, a 24-hour gym with a Peloton in it, and a pan-Asian restaurant, UBA, off the lobby.",
+   "opNote": "A Curio, so THERE IS NO EXECUTIVE LOUNGE - the hotel says so itself and offers the lobby and co-working space instead, which matters if you are booking on Hilton Honors status. Honors benefits also do not apply to third-party bookings, in the hotel's own words. No parking on site at all; it points you at Broadgate Circle, ten minutes' walk. Children up to 18 stay free sharing existing bedding on a room-only rate, but over-12s are charged for breakfast. Named by 2 independent domains.",
+   "goodFor": [
+    "couples",
+    "business",
+    "families"
+   ],
+   "lists": [
+    "design",
+    "boutique"
+   ],
+   "website": "https://hartshoreditch.com/"
+  },
+  {
    "slug": "hazlitts",
    "name": "Hazlitt's",
    "propertyType": "townhouse",
@@ -2503,6 +3162,34 @@
     "boutique"
    ],
    "website": "https://www.hazlittshotel.com/"
+  },
+  {
+   "slug": "henrietta-experimental",
+   "name": "Henrietta Experimental",
+   "propertyType": "boutique",
+   "style": "Two facing Covent Garden buildings, Meilichzon interiors",
+   "brand": "experimental-group",
+   "chainType": "mini-chain",
+   "starRating": "4",
+   "area": "Covent Garden",
+   "borough": "Westminster",
+   "guide": "covent-garden-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "14-15 Henrietta Street",
+   "postcode": "WC2E 8QH",
+   "priceBand": "£££",
+   "whyGo": "Forty rooms split across two buildings facing each other over Henrietta Street, so which side you book changes the view - some suites have a private terrace looking at the London Eye, the rooms opposite look onto St Paul's churchyard. Dorothée Meilichzon did the interiors, and a bistro with Jackson Boxer at the helm sits on the ground floor.",
+   "opNote": "RENAMED. The two Covent Garden sources call it The Henrietta Hotel; the operator now trades as HENRIETTA EXPERIMENTAL, and two further sources in the corpus already use the new name - so once the spellings are merged it carries four domains, not two. Same merge as COMO The Halkin. SIZE WARNING: the entry room is 17 sq m, small even by Covent Garden standards, and the superior grades are 20.",
+   "goodFor": [
+    "couples",
+    "solo",
+    "first-time"
+   ],
+   "lists": [
+    "boutique"
+   ],
+   "website": "https://www.experimentalgroup.com/london/henrietta-experimental"
   },
   {
    "slug": "hilton-london-angel-islington",
@@ -2540,6 +3227,34 @@
    "hotelsUrl": "https://uk.hotels.com/ho191798/hilton-london-angel-islington-london-united-kingdom/",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho191798/hilton-london-angel-islington-london-united-kingdom/",
    "affiliateNetwork": "cj"
+  },
+  {
+   "slug": "hilton-london-bankside",
+   "name": "Hilton London Bankside",
+   "propertyType": "hotel",
+   "style": "Design-led full-service Hilton behind Tate Modern",
+   "brand": "hilton",
+   "chainType": "chain",
+   "area": "Southwark",
+   "borough": "Southwark",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "2-8 Great Suffolk Street",
+   "postcode": "SE1 0UG",
+   "priceBand": "£££",
+   "breakfast": "extra",
+   "whyGo": "An indoor pool and confirmed connecting rooms, which is why the family guides keep picking it, on a back street 0.2 miles from Tate Modern and under fifteen minutes' walk from Borough Market, London Bridge and the Shard.",
+   "opNote": "Breakfast is charged for - Hilton's own hotel-info page lists it as 'available for a fee'. NO PETS, which sets it apart from much of the Hilton estate, and no self-parking: valet only, £40, 7am to 11pm. Cribs, a kids' menu and confirmed connecting rooms are all listed by the hotel; childcare is not. Hilton's own newsroom announced a vegan suite here, fitted out in Piñatex and signed off by The Vegan Society, but the release is undated on the page and the current rooms listing does not show it - confirm it is still on sale before booking on the strength of it. Named by 2 independent domains.",
+   "goodFor": [
+    "families",
+    "business",
+    "couples"
+   ],
+   "lists": [
+    "families"
+   ],
+   "website": "https://www.hilton.com/en/hotels/lonsbhi-hilton-london-bankside/"
   },
   {
    "slug": "hilton-london-paddington",
@@ -2685,6 +3400,34 @@
    "website": "https://www.karmasanctumsoho.com/"
   },
   {
+   "slug": "kimpton-fitzroy-london",
+   "name": "Kimpton Fitzroy London",
+   "propertyType": "hotel",
+   "style": "Grand Victorian pile filling one side of Russell Square",
+   "brand": "ihg",
+   "chainType": "chain",
+   "area": "Bloomsbury",
+   "borough": "Camden",
+   "guide": "bloomsbury-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "1-8 Russell Square",
+   "postcode": "WC1B 5BE",
+   "priceBand": "£££",
+   "whyGo": "It fills a whole block down the eastern side of Russell Square - a 19th-century landmark with a Palm Court, a lobby cafe and three Fitz's bars and restaurants inside it. Pets of any size, breed or number stay free.",
+   "opNote": "THE PET POLICY IS THE OUTLIER: no charge, no deposit, no size or weight limit and no cap on the number of pets, in Kimpton's own words, with a loaner pet bed, bowls and a door hanger thrown in - which is why the dog-friendly guides keep naming it. It is Bloomsbury rather than the West End, so quiet at night and a walk or a bus to the theatres. Named by 2 independent domains, and by seven across the corpora overall - one of the most heavily corroborated names in this batch.",
+   "goodFor": [
+    "couples",
+    "celebration",
+    "business"
+   ],
+   "lists": [
+    "luxury",
+    "design"
+   ],
+   "website": "https://www.kimptonfitzroylondon.com/"
+  },
+  {
    "slug": "locke-at-broken-wharf",
    "name": "Locke at Broken Wharf",
    "propertyType": "aparthotel",
@@ -2763,6 +3506,63 @@
    "affiliateNetwork": "cj"
   },
   {
+   "slug": "marriott-county-hall",
+   "name": "London Marriott Hotel County Hall",
+   "propertyType": "hotel",
+   "style": "Five-star Marriott inside the old County Hall building",
+   "brand": "marriott",
+   "chainType": "chain",
+   "area": "South Bank",
+   "borough": "Lambeth",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Westminster Bridge Road",
+   "postcode": "SE1 7PB",
+   "priceBand": "£££",
+   "whyGo": "Inside County Hall, the old London County Council building on the south bank, with Westminster Bridge, Big Ben and the London Eye all within a few steps - the hotel's own steakhouse, Gillray's, trades on the river view from the ground floor.",
+   "opNote": "It shares the County Hall building with the Premier Inn already on this sheet - same postcode, different front door - so check which one you have actually booked. The accessible way in is off Belvedere Road, where Gillray's has a platform lift and asks for advance notice. Gillray's serves breakfast to residents and non-residents alike and takes bookings, so it can be full. MARRIOTT.COM REFUSES AUTOMATED REQUESTS from both curl and the browser, so the address here comes from the hotel's own restaurant site running on Marriott's platform and is worth a human confirmation. Named by 2 independent domains.",
+   "goodFor": [
+    "families",
+    "couples",
+    "celebration"
+   ],
+   "lists": [
+    "families",
+    "views"
+   ],
+   "website": "https://www.marriott.com/en-gb/hotels/lonch-london-marriott-hotel-county-hall/overview/"
+  },
+  {
+   "slug": "me-london",
+   "name": "ME London",
+   "propertyType": "hotel",
+   "style": "Foster-designed Meliá flagship at the Aldwych end of the Strand",
+   "brand": "melia",
+   "chainType": "chain",
+   "starRating": "5",
+   "area": "Covent Garden",
+   "borough": "Westminster",
+   "guide": "covent-garden-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "336-337 The Strand",
+   "postcode": "WC2R 1HA",
+   "priceBand": "£££",
+   "whyGo": "Norman Foster designed the building and its triangular marble Pyramid atrium, and the tenth-floor Radio Rooftop takes in the Shard, St Paul's, the London Eye and Big Ben at once. Somerset House is next door and the hotel runs a partnership with it for exhibition and performance access.",
+   "opNote": "The rooftop is what people book it for, and it is a public bar rather than a guests-only one - Meliá's own loyalty perk here is a discount voucher for it, alongside STK Steakhouse, Marconi Lounge and Luciano by Gino D'Acampo, all in the same building. Four venues under one roof makes this a busy hotel rather than a quiet one. Dogs are allowed, but only as a paid extra added during the booking flow. The address is the Aldwych end of the Strand rather than Covent Garden proper, although Meliá files it under Covent Garden and so do the guides. Named by 2 independent domains.",
+   "goodFor": [
+    "couples",
+    "celebration",
+    "business"
+   ],
+   "lists": [
+    "design",
+    "views"
+   ],
+   "website": "https://www.melia.com/en/hotels/united-kingdom/london/me-london"
+  },
+  {
    "slug": "mimis-hotel-soho",
    "name": "Mimi's Hotel Soho",
    "propertyType": "boutique",
@@ -2787,6 +3587,60 @@
     "boutique"
    ],
    "website": "https://www.mimishotelsoho.com/"
+  },
+  {
+   "slug": "montcalm-mayfair",
+   "name": "Montcalm Mayfair",
+   "propertyType": "hotel",
+   "style": "Rebranded five-star flagship in a listed crescent",
+   "brand": "montcalm",
+   "chainType": "mini-chain",
+   "starRating": "5",
+   "area": "Marylebone",
+   "borough": "Westminster",
+   "guide": "marylebone-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "2 Wallenberg Place",
+   "postcode": "W1H 7TN",
+   "priceBand": "£££",
+   "whyGo": "The Montcalm group's flagship, reopened under the Mayfair name inside a Grade II listed crescent a minute north of Marble Arch, with Lilli by Akira Back and the YATRA signature spa both in the building.",
+   "opNote": "THIS IS THE RENAMED MONTCALM LONDON MARBLE ARCH - the operator's own /montcalm-marble-arch/ URL now redirects to /montcalm-mayfair/, and no Marble Arch property survives in the collection's hotel index. THE NAME IS NOT THE GEOGRAPHY: it trades as Mayfair but the address is W1H, north of Oxford Street, which is Marble Arch. It now sits in Marriott's Autograph Collection, so Bonvoy applies. Two guide domains - but both are Conde Nast titles, the UK and US editions, so the domain rule is counting one publisher twice here.",
+   "goodFor": [
+    "couples",
+    "business",
+    "celebration"
+   ],
+   "lists": [
+    "luxury"
+   ],
+   "website": "https://montcalmcollection.com/montcalm-mayfair/"
+  },
+  {
+   "slug": "montcalm-royal-london-house",
+   "name": "Montcalm Royal London House",
+   "propertyType": "hotel",
+   "style": "Mid-century Finsbury Square block with a tenth-floor rooftop",
+   "brand": "montcalm",
+   "chainType": "mini-chain",
+   "starRating": "5",
+   "area": "City of London",
+   "borough": "Islington",
+   "zone": "1",
+   "district": "Central",
+   "address": "22-25 Finsbury Square",
+   "postcode": "EC2A 1DX",
+   "priceBand": "£££",
+   "whyGo": "A mid-century block on Finsbury Square turned into a five-star hotel, with the Aviary rooftop restaurant, bar and terrace on the tenth floor looking over the City skyline and a spa below.",
+   "opNote": "BOTH GUIDES THAT NAMED IT, NAMED IT FOR THE ROOFTOP rather than the bedrooms - Aviary is a destination bar with a hotel underneath, so expect non-residents on the tenth floor. GEOGRAPHY CAVEAT: Finsbury Square is just outside the City boundary, in Islington borough, sitting between Moorgate, Liverpool Street and Old Street; the hood here is the practical answer rather than the administrative one, and there is no area guide to link it to.",
+   "goodFor": [
+    "business",
+    "couples"
+   ],
+   "lists": [
+    "views"
+   ],
+   "website": "https://montcalmcollection.com/montcalm-royal-london-house/"
   },
   {
    "slug": "native-bankside",
@@ -2904,6 +3758,34 @@
    "affiliateNetwork": "cj"
   },
   {
+   "slug": "number-sixteen",
+   "name": "Number Sixteen",
+   "propertyType": "townhouse",
+   "style": "Firmdale townhouse with a private courtyard garden",
+   "brand": "firmdale",
+   "chainType": "mini-chain",
+   "area": "South Kensington",
+   "borough": "Kensington and Chelsea",
+   "guide": "south-kensington-area-guide",
+   "zone": "1",
+   "district": "West",
+   "address": "16 Sumner Place",
+   "postcode": "SW7 3EG",
+   "priceBand": "£££",
+   "whyGo": "A Kit Kemp townhouse on a residential terrace three minutes' walk from South Kensington station, with a leafy courtyard garden behind it and a ground-floor library and drawing room whose floor-to-ceiling windows look straight out onto Sumner Place.",
+   "opNote": "OPERATOR CONFIRMED, because the name reads like an address and invites exactly that mistake: this is FIRMDALE, one of the three houses the group files as its \"London Townhouse Hotels\" alongside Dorset Square and Knightsbridge - and it also happens to stand at number 16. Same operator as The Soho Hotel, Ham Yard, Charlotte Street and Covent Garden Hotel, all already on this sheet, so the design signature and the service standard are the group's. Three guide domains across two area corpora, both of which named it.",
+   "goodFor": [
+    "couples",
+    "first-time"
+   ],
+   "lists": [
+    "luxury",
+    "boutique",
+    "design"
+   ],
+   "website": "https://www.firmdalehotels.com/hotels/number-sixteen"
+  },
+  {
    "slug": "one-hundred-shoreditch",
    "name": "One Hundred Shoreditch",
    "propertyType": "hotel",
@@ -2944,6 +3826,34 @@
    "affiliateNetwork": "cj"
   },
   {
+   "slug": "pullman-london-st-pancras",
+   "name": "Pullman London St Pancras",
+   "propertyType": "hotel",
+   "style": "Large four-star Accor hotel on the Euston Road",
+   "brand": "accor",
+   "chainType": "chain",
+   "starRating": "4",
+   "area": "King's Cross",
+   "borough": "Camden",
+   "guide": "kings-cross-area-guide",
+   "zone": "1",
+   "district": "North",
+   "address": "100-110 Euston Road",
+   "postcode": "NW1 2AJ",
+   "priceBand": "£££",
+   "whyGo": "Five minutes on foot from St Pancras International and the Eurostar platforms, with upper floors looking over the city - the obvious base when the trip starts or ends on a train to Paris.",
+   "opNote": "A CONFERENCE HOTEL FIRST: seventeen event spaces is what fills it, so rates track what is on in the building rather than what is on in London. It fronts the Euston Road, one of the busiest roads in the city. Accor's upscale brand, so ALL loyalty applies. Two guide domains.",
+   "goodFor": [
+    "business",
+    "couples",
+    "first-time"
+   ],
+   "lists": [
+    "venues"
+   ],
+   "website": "https://www.pullmanlondonstpancras.com/"
+  },
+  {
    "slug": "redchurch-townhouse",
    "name": "Redchurch Townhouse",
    "propertyType": "townhouse",
@@ -2979,6 +3889,35 @@
     "design"
    ],
    "website": "https://www.sohohouse.com/houses/redchurch-townhouse"
+  },
+  {
+   "slug": "royal-lancaster-london",
+   "name": "Royal Lancaster London",
+   "propertyType": "hotel",
+   "style": "Independent 411-room tower on the Hyde Park boundary",
+   "brand": "royal-lancaster",
+   "chainType": "independent",
+   "area": "Bayswater",
+   "borough": "Westminster",
+   "guide": "paddington-area-guide",
+   "zone": "1",
+   "district": "West",
+   "address": "Lancaster Terrace",
+   "postcode": "W2 2TY",
+   "priceBand": "£££",
+   "whyGo": "411 rooms in a tower standing on the edge of Hyde Park, so the park views are the building's rather than a claim made about a side street - and it is still independently owned, which almost nothing of this size in London is.",
+   "opNote": "\"PROUDLY INDEPENDENT\" is the operator's own phrase, and unusual at 411 rooms - expect a large-hotel operation, not a boutique one. THE BEST-CORROBORATED PROPERTY IN THIS BATCH: six independent domains across five different corpora - family, Paddington, luxury, dog-friendly and afternoon tea - which is broader evidence than anything else here. The operator files itself under Bayswater, W2; Time Out files it under Paddington. Both are fair; Lancaster Gate is the nearest tube.",
+   "goodFor": [
+    "families",
+    "couples",
+    "business",
+    "first-time"
+   ],
+   "lists": [
+    "luxury",
+    "families"
+   ],
+   "website": "https://www.royallancaster.com/"
   },
   {
    "slug": "san-domenico-house",
@@ -3086,6 +4025,64 @@
    "website": "https://www.seacontainerslondon.com/"
   },
   {
+   "slug": "sofitel-london-st-james",
+   "name": "Sofitel London St James",
+   "propertyType": "hotel",
+   "style": "French five-star behind a listed neoclassical facade",
+   "brand": "accor",
+   "chainType": "chain",
+   "starRating": "5",
+   "area": "Westminster",
+   "borough": "Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "6 Waterloo Place",
+   "postcode": "SW1Y 4AN",
+   "priceBand": "£££",
+   "whyGo": "A Grade II listed neoclassical building on Waterloo Place, which puts Buckingham Palace, St James's Park, Piccadilly Circus and the West End theatres all inside a fifteen-minute walk - and the house style is explicitly French rather than English.",
+   "opNote": "Four guide domains. Accor's Sofitel brand, so ALL loyalty applies. It runs as an events address as much as a hotel - the operator leads on its event suites - so check what is in the building on the dates you want.",
+   "goodFor": [
+    "couples",
+    "business",
+    "celebration"
+   ],
+   "lists": [
+    "luxury"
+   ],
+   "website": "https://all.accor.com/hotel/3144/index.en.shtml"
+  },
+  {
+   "slug": "south-place-hotel",
+   "name": "South Place Hotel",
+   "propertyType": "boutique",
+   "style": "Five-star City boutique with a Michelin-starred restaurant",
+   "brand": "evolv-collection",
+   "chainType": "mini-chain",
+   "starRating": "5",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "3 South Place",
+   "postcode": "EC2M 2AF",
+   "priceBand": "£££",
+   "whyGo": "Five minutes from Liverpool Street and the same again from Moorgate, with Angler - a Michelin-starred restaurant, in the operator's own words - and the all-day Bluebird City both in the building, so it is worth booking for the dinner as much as the bed.",
+   "opNote": "NOW RUN BY THE EVOLV COLLECTION, per the operator's own footer, so the D&D London attribution carried by older guides is out of date. Six guide domains, the widest spread in this batch. WATCH THE GEOGRAPHY IN THE SOURCES: Time Out files it under Shoreditch, but the address is EC2M between Moorgate and Liverpool Street - a City hotel walkable to Shoreditch rather than a Shoreditch one.",
+   "goodFor": [
+    "business",
+    "couples",
+    "celebration"
+   ],
+   "lists": [
+    "luxury",
+    "boutique",
+    "design"
+   ],
+   "website": "https://southplacehotel.com/"
+  },
+  {
    "slug": "st-ermins-hotel",
    "name": "St Ermin's Hotel, Autograph Collection",
    "propertyType": "hotel",
@@ -3120,6 +4117,34 @@
     "design"
    ],
    "website": "https://www.marriott.com/"
+  },
+  {
+   "slug": "st-james-court",
+   "name": "St. James' Court, A Taj Hotel",
+   "propertyType": "hotel",
+   "style": "Victorian block built around its own private courtyard",
+   "brand": "taj",
+   "chainType": "chain",
+   "area": "Westminster",
+   "borough": "Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "54 Buckingham Gate",
+   "postcode": "SW1E 6AF",
+   "priceBand": "£££",
+   "whyGo": "A Victorian block built around its own courtyard on Buckingham Gate - set between Buckingham Palace and the Houses of Parliament, in the operator's own words - with Quilon and House of Ming among the restaurants downstairs.",
+   "opNote": "THE SPELLING IS THE OPERATOR'S: it writes itself \"St. James' Court, A Taj Hotel\", which the three guides that named it shortened three different ways. EASILY CONFUSED WITH ITS NEIGHBOUR - Taj runs a second London property next door, Taj 51 Buckingham Gate Suites and Residences, at a different price and a different product; check which one a booking is for. Three guide domains, all in the Westminster corpus.",
+   "goodFor": [
+    "couples",
+    "families",
+    "business",
+    "first-time"
+   ],
+   "lists": [
+    "luxury"
+   ],
+   "website": "https://www.stjamescourthotel.co.uk/en/"
   },
   {
    "slug": "sunborn-london",
@@ -3193,6 +4218,33 @@
     "design"
    ],
    "website": "https://www.ampersandhotel.com/"
+  },
+  {
+   "slug": "the-bloomsbury-hotel",
+   "name": "The Bloomsbury Hotel",
+   "propertyType": "hotel",
+   "style": "Doyle Collection house beside the British Museum",
+   "brand": "doyle",
+   "chainType": "mini-chain",
+   "area": "Bloomsbury",
+   "borough": "Camden",
+   "guide": "bloomsbury-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "16-22 Great Russell Street",
+   "postcode": "WC1B 3NN",
+   "priceBand": "£££",
+   "whyGo": "A minute along Great Russell Street from the British Museum, and it drinks better than it needs to - three separate rooms of its own, the Coral Room off the lobby, the Bloomsbury Club Bar and Dalloway Terrace outside.",
+   "opNote": "Two domains in the Bloomsbury corpus and one in the general pass. Doyle Collection, so the same group as The Kensington and The Marylebone, both already on this sheet. The operator markets it as 'The Bloomsbury'; 'The Bloomsbury Hotel' is the name in its own structured data. NO STAR RATING is published anywhere on the Doyle page, so the column is empty rather than assumed from the group.",
+   "goodFor": [
+    "couples",
+    "families",
+    "first-time"
+   ],
+   "lists": [
+    "luxury"
+   ],
+   "website": "https://www.doylecollection.com/hotels/the-bloomsbury-hotel"
   },
   {
    "slug": "the-chelsea-townhouse",
@@ -3306,6 +4358,33 @@
     "design"
    ],
    "website": "https://www.theexhibitionisthotel.com/"
+  },
+  {
+   "slug": "the-gore-london",
+   "name": "The Gore London",
+   "propertyType": "boutique",
+   "style": "Antique-furnished Victorian house near the Royal Albert Hall",
+   "brand": "starhotels",
+   "chainType": "mini-chain",
+   "starRating": "4",
+   "area": "South Kensington",
+   "borough": "Kensington and Chelsea",
+   "guide": "south-kensington-area-guide",
+   "zone": "1",
+   "district": "West",
+   "address": "190 Queen's Gate",
+   "postcode": "SW7 5EX",
+   "priceBand": "£££",
+   "whyGo": "Round the corner from the Royal Albert Hall, and the operator sells it on exactly that - the ground-floor restaurant is named 190 Queen's Gate after the address and pitched for before and after a concert, with Bar 190 next to it.",
+   "opNote": "Two domains in the South Kensington corpus, plus the Kensington and general passes. BOOKING CAVEAT FROM THE OPERATOR'S OWN COPY: the entry grade, the Cosy Double, is described as having a compact bathroom, and the house is furnished with antiques throughout rather than refitted. Starhotels files it under 'Kensington'; it is on Queen's Gate, the same street as The Kensington Hotel already on this sheet, so South Kensington here.",
+   "goodFor": [
+    "couples",
+    "first-time"
+   ],
+   "lists": [
+    "boutique"
+   ],
+   "website": "https://collezione.starhotels.com/en/our-hotels/the-gore-london/"
   },
   {
    "slug": "the-hoxton-holborn",
@@ -3452,6 +4531,34 @@
    "website": "https://www.doylecollection.com/hotels/the-kensington-hotel"
   },
   {
+   "slug": "the-lalit-london",
+   "name": "The LaLiT London",
+   "propertyType": "boutique",
+   "style": "Indian-owned hotel in a listed former grammar school",
+   "brand": "lalit",
+   "chainType": "mini-chain",
+   "area": "Bermondsey",
+   "borough": "Southwark",
+   "guide": "bermondsey-area-guide",
+   "zone": "1–2",
+   "district": "South",
+   "address": "181 Tooley Street",
+   "postcode": "SE1 2JR",
+   "priceBand": "£££",
+   "whyGo": "Seventy rooms in the Grade II listed former St Olave's Grammar School, designed in the 1890s by E.W. Mountford, architect of the Old Bailey. The rooms are called classrooms, some run to thirty-foot ceilings, and Baluchi serves Indian food in the old assembly hall under blue chandeliers.",
+   "opNote": "THE HOTEL'S OWN COPY PLACES IT 'IN THE HEART OF THE CITY OF LONDON'. It is not: it is on Tooley Street on the south bank, six minutes' walk from London Bridge station by the operator's own reckoning, and the guides that named it put it in Bermondsey. The room names are a school joke rather than a size guide, so the entry room is a 'Cosy Classroom' and the top one a LaLiT Legacy Suite. Opened 2017 in a building that was a school from 1561 to 1967. Named by 2 independent domains.",
+   "goodFor": [
+    "couples",
+    "families",
+    "business"
+   ],
+   "lists": [
+    "luxury",
+    "boutique"
+   ],
+   "website": "https://thelalit.co.uk/"
+  },
+  {
    "slug": "the-laslett",
    "name": "The Laslett",
    "propertyType": "boutique",
@@ -3491,6 +4598,32 @@
    "affiliateNetwork": "cj"
   },
   {
+   "slug": "the-lost-poet",
+   "name": "The Lost Poet",
+   "propertyType": "townhouse",
+   "style": "Four rooms in a Victorian Portobello Road townhouse",
+   "brand": "the-lost-poet",
+   "chainType": "independent",
+   "area": "Notting Hill",
+   "borough": "Kensington and Chelsea",
+   "guide": "notting-hill-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "6 Portobello Road",
+   "postcode": "W11 3DG",
+   "priceBand": "£££",
+   "whyGo": "Four individually decorated rooms in a Victorian townhouse at the very top of Portobello Road, done out with bold wallpapers, modern art and reclaimed panelling from old school science labs - the antiques market starts at the door.",
+   "opNote": "IT IS A GUEST HOUSE, NOT AN APARTMENT LET - it sells four rooms nightly through its own booking engine, with a 3pm check-in and an 11am check-out. There is no 24-hour desk: check-in is online with keyless entry, staff are on site 8am to 6pm and it is phone support outside those hours. Two domains in the Notting Hill corpus.",
+   "goodFor": [
+    "couples",
+    "solo"
+   ],
+   "lists": [
+    "design"
+   ],
+   "website": "https://www.thelostpoet.co.uk/"
+  },
+  {
    "slug": "the-megaro",
    "name": "The Megaro",
    "propertyType": "boutique",
@@ -3528,6 +4661,28 @@
     "best-value"
    ],
    "website": "https://themegarohotel.co.uk/"
+  },
+  {
+   "slug": "the-mitre-hampton-court",
+   "name": "The Mitre, Hampton Court",
+   "propertyType": "boutique",
+   "style": "Riverside boutique hotel facing Hampton Court Palace",
+   "brand": "signet",
+   "chainType": "mini-chain",
+   "address": "Hampton Court Road, East Molesey",
+   "postcode": "KT8 9BN",
+   "priceBand": "£££",
+   "whyGo": "On the bank of the Thames directly opposite Hampton Court Palace, with rooms named after Henry VIII, his wives and his hobbies, a riverside terrace, the 1665 Brasserie and an orangery that does afternoon tea.",
+   "opNote": "NOT IN LONDON: East Molesey, Surrey, outside every neighbourhood on this sheet - which is the point of it, and the reason the guides reach for it. Hampton Court station is a three-minute walk and runs into Waterloo. Parking is on site but first-come and £7 a night, dogs are welcome in selected rooms, accessible rooms exist but need to be arranged by phone, and there is no spa. Two domains in the general hotels corpus. DO NOT CONFUSE with The Mitre at 6 Holland Park Avenue, W11 - a different pub with rooms, and the one All Around London names in the Notting Hill corpus.",
+   "goodFor": [
+    "couples",
+    "families",
+    "celebration"
+   ],
+   "lists": [
+    "boutique"
+   ],
+   "website": "https://mitrehamptoncourt.com/"
   },
   {
    "slug": "montague-on-the-gardens",
@@ -3686,6 +4841,32 @@
    "affiliateNetwork": "cj"
   },
   {
+   "slug": "the-princess-royal-notting-hill",
+   "name": "The Princess Royal",
+   "propertyType": "pub-rooms",
+   "style": "Four bedrooms over a Cubitt House Notting Hill pub",
+   "brand": "cubitt-house",
+   "chainType": "mini-chain",
+   "area": "Notting Hill",
+   "borough": "Westminster",
+   "guide": "notting-hill-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "47 Hereford Road",
+   "postcode": "W2 5AH",
+   "priceBand": "£££",
+   "whyGo": "Four bedrooms named after princesses above a Cubitt House pub, with a light-flooded conservatory, two terraces planted by the garden designer Jinny Blom and a seasonal British and modern European kitchen downstairs.",
+   "opNote": "A PUB WITH ROOMS, NOT A HOTEL - four bedrooms only, over a working pub that also runs two private feasting rooms, so book early and expect noise from below at weekends. The address is W2, on the Bayswater side of Notting Hill a few minutes from Westbourne Grove, although the operator and both guides call it Notting Hill. Two domains in the Notting Hill corpus.",
+   "goodFor": [
+    "couples",
+    "solo"
+   ],
+   "lists": [
+    "boutique"
+   ],
+   "website": "https://www.cubitthouse.co.uk/the-princess-royal-boutique-hotel-notting-hill/"
+  },
+  {
    "slug": "supercity-rosebery",
    "name": "The Rosebery by Supercity Aparthotels",
    "propertyType": "aparthotel",
@@ -3795,6 +4976,62 @@
     "showstopper"
    ],
    "website": "https://www.standardhotels.com/london/"
+  },
+  {
+   "slug": "the-trafalgar-st-james",
+   "name": "The Trafalgar St. James",
+   "propertyType": "hotel",
+   "style": "Curio Collection hotel on the corner of Trafalgar Square",
+   "brand": "hilton",
+   "chainType": "chain",
+   "area": "Westminster",
+   "borough": "Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "2 Spring Gardens",
+   "postcode": "SW1A 2TS",
+   "priceBand": "£££",
+   "whyGo": "On the corner of Trafalgar Square itself, with a rooftop bar over the square, Rockwell Bistro and Wine Bar at street level, and new Spring Garden Suites in a quiet corner of the building - some with access to a subterranean garden.",
+   "opNote": "Both guides that named it, named it for THE ROOFTOP, which takes non-residents as well as guests, so it is busy on summer evenings. Part of Hilton's Curio Collection, so Hilton Honors applies. Also picked up by a wheelchair-travel guide in the accessible corpus; that has not been checked against the operator, so no accessibility claim is made here.",
+   "goodFor": [
+    "couples",
+    "first-time",
+    "business",
+    "celebration"
+   ],
+   "lists": [
+    "views"
+   ],
+   "website": "https://trafalgarstjames.com/"
+  },
+  {
+   "slug": "the-zetter-bloomsbury",
+   "name": "The Zetter Bloomsbury",
+   "propertyType": "boutique",
+   "style": "Georgian townhouse row steps from the British Museum",
+   "brand": "zetter",
+   "chainType": "mini-chain",
+   "area": "Bloomsbury",
+   "borough": "Camden",
+   "guide": "bloomsbury-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "2-7 Montague Street",
+   "postcode": "WC1B 5BP",
+   "priceBand": "£££",
+   "whyGo": "The Zetter's newest house, opened in April 2026 across a run of Georgian townhouses on Montague Street beside the British Museum, with a garden, a gym and the Parlour and Orangery for long cocktail afternoons.",
+   "opNote": "NOT THE ZETTER TOWNHOUSE MARYLEBONE, which this sheet already holds - a separate and much newer property; the group now runs three houses, Clerkenwell, Marylebone and Bloomsbury. Opened April 2026, so it is thinly reviewed and the operator's own page still carries an \"Opening April 2026\" line. Three domains in the general corpus, the strongest evidence in this batch.",
+   "goodFor": [
+    "couples",
+    "solo",
+    "celebration"
+   ],
+   "lists": [
+    "design",
+    "boutique"
+   ],
+   "website": "https://thezetter.com/bloomsbury/"
   },
   {
    "slug": "the-zetter-townhouse-marylebone",
@@ -4022,6 +5259,35 @@
    "website": "https://www.1hotels.com/mayfair"
   },
   {
+   "slug": "45-park-lane",
+   "name": "45 Park Lane",
+   "propertyType": "hotel",
+   "style": "Forty-five rooms, every one facing Hyde Park",
+   "brand": "dorchester-collection",
+   "chainType": "chain",
+   "starRating": "5",
+   "area": "Mayfair",
+   "borough": "Westminster",
+   "guide": "mayfair-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "45 Park Lane",
+   "postcode": "W1K 1PN",
+   "priceBand": "££££",
+   "whyGo": "Forty-five rooms and suites and, on the operator's own account, every one of them overlooks Hyde Park, with the higher floors taking in the rest of London. Wolfgang Puck's CUT is the house steak restaurant and Sushi Kanesaka holds its Michelin star behind a separate door.",
+   "opNote": "The best-evidenced property in this batch - six independent domains across six corpora, including the luxury, Mayfair, family, spa and views passes as well as the general one. The Dorchester Collection's small London house rather than its grand one, and it sits across Park Lane from The Dorchester itself. The site offers guest access to a subterranean spa and Park Lane's longest pool without saying which building holds it, so confirm at booking.",
+   "goodFor": [
+    "couples",
+    "business",
+    "celebration"
+   ],
+   "lists": [
+    "luxury",
+    "views"
+   ],
+   "website": "https://www.dorchestercollection.com/london/45-park-lane/"
+  },
+  {
    "slug": "artotel-battersea-power-station",
    "name": "art'otel London Battersea Power Station",
    "propertyType": "hotel",
@@ -4100,6 +5366,61 @@
    "hotelsUrl": "https://uk.hotels.com/ho3144158848/art-otel-london-hoxton-london-united-kingdom/",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho3144158848/art-otel-london-hoxton-london-united-kingdom/",
    "affiliateNetwork": "cj"
+  },
+  {
+   "slug": "at-sloane",
+   "name": "At Sloane",
+   "propertyType": "hotel",
+   "style": "Costes-run five-star private house by Sloane Square",
+   "brand": "costes",
+   "chainType": "mini-chain",
+   "starRating": "5",
+   "area": "Chelsea",
+   "borough": "Kensington and Chelsea",
+   "guide": "chelsea-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "1 Sloane Gardens",
+   "postcode": "SW1W 8EA",
+   "priceBand": "££££",
+   "whyGo": "Thirty bedrooms off Sloane Square done by the French architect-decorator Francois-Joseph Graf for the Costes group, so it reads as a Parisian private house rather than a London hotel. The dining room is on the sixth floor and serves 24/7, and there is a 'secret bar' open late.",
+   "opNote": "Four named sources and all four are Conde Nast titles - Traveller UK, Traveler US, Vogue UK, House and Garden - so this is one publisher's taste rather than four independent opinions. The operator styles the name with a leading ellipsis, '...At Sloane', which is why it sorts oddly in guide lists and why the candidate file recorded it that way.",
+   "goodFor": [
+    "couples",
+    "celebration"
+   ],
+   "lists": [
+    "luxury",
+    "boutique"
+   ],
+   "website": "https://www.atsloane.com/"
+  },
+  {
+   "slug": "beaverbrook-town-house",
+   "name": "Beaverbrook Town House",
+   "propertyType": "townhouse",
+   "style": "Fourteen suites named after London theatres",
+   "brand": "beaverbrook",
+   "chainType": "mini-chain",
+   "area": "Chelsea",
+   "borough": "Kensington and Chelsea",
+   "guide": "chelsea-area-guide",
+   "zone": "1–2",
+   "district": "West",
+   "address": "115 Sloane Street",
+   "postcode": "SW1X 9PJ",
+   "priceBand": "££££",
+   "whyGo": "Two restored Georgian houses on Sloane Street run as one hotel of fourteen suites, each named for a London theatre and hung with vintage posters, looking out over Cadogan Gardens. The Fuji Grill does Japanese downstairs and Sir Frank's is the bar.",
+   "opNote": "SUITES ONLY - fourteen of them and no standard rooms, so there is no cheaper tier to drop to. The country sister is Beaverbrook in Leatherhead and the group sells a two-centre 'Town to Country' stay between them. Three domains named it and all three are Conde Nast titles, so treat the count as one publisher.",
+   "goodFor": [
+    "couples",
+    "celebration"
+   ],
+   "lists": [
+    "luxury",
+    "boutique"
+   ],
+   "website": "https://beaverbrooktownhouse.co.uk/"
   },
   {
    "slug": "broadwick-soho",
@@ -4428,6 +5749,34 @@
    "website": "https://www.firmdalehotels.com/hotels/london/covent-garden-hotel/"
   },
   {
+   "slug": "dorset-square-hotel",
+   "name": "Dorset Square Hotel",
+   "propertyType": "townhouse",
+   "style": "Firmdale's first hotel, cricket in every room",
+   "brand": "firmdale",
+   "chainType": "mini-chain",
+   "area": "Marylebone",
+   "borough": "Westminster",
+   "guide": "marylebone-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "39-40 Dorset Square",
+   "postcode": "NW1 6QN",
+   "priceBand": "££££",
+   "whyGo": "Tim and Kit Kemp's very first hotel, in a Regency building looking onto the garden square that was Thomas Lord's original cricket ground - the 38 bedrooms carry cricket artwork and memorabilia because of it, and The Potting Shed downstairs names its cocktails after the same history.",
+   "opNote": "The smallest and quietest of Firmdale's London houses and the one in a residential street rather than a shopping one; the operator puts Marylebone station five minutes' walk away and Baker Street ten. Star rating is not stated on the operator's own page, so it is left blank here rather than assumed from the group's other hotels. Two clean domains: Time Out in the Marylebone pass and Conde Nast Traveller in the family pass.",
+   "goodFor": [
+    "couples",
+    "families",
+    "business"
+   ],
+   "lists": [
+    "boutique",
+    "luxury"
+   ],
+   "website": "https://www.firmdalehotels.com/hotels/dorset-square-hotel"
+  },
+  {
    "slug": "four-seasons-park-lane",
    "name": "Four Seasons Hotel London at Park Lane",
    "propertyType": "hotel",
@@ -4455,6 +5804,60 @@
     "luxury"
    ],
    "website": "https://www.fourseasons.com/london/"
+  },
+  {
+   "slug": "four-seasons-tower-bridge",
+   "name": "Four Seasons Hotel London at Tower Bridge",
+   "propertyType": "hotel",
+   "style": "The old Port of London Authority headquarters",
+   "brand": "four-seasons",
+   "chainType": "chain",
+   "starRating": "5",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "10 Trinity Square",
+   "postcode": "EC3N 4AJ",
+   "priceBand": "££££",
+   "whyGo": "The former Port of London Authority headquarters at Ten Trinity Square, a listed 1920s pile beside Tower Hill, converted into a Four Seasons - the Grand Heritage Suites run to ceilings of five metres and the third-floor Royal Garden Suite opens onto its own planted terrace.",
+   "opNote": "RENAMED IN OCTOBER 2024. This was Four Seasons Hotel London at Ten Trinity Square and plenty of live guides still call it that, so watch for it arriving twice under two names. The same building holds the Ten Trinity Square private members' club - a Reignwood, Chateau Latour and Four Seasons venture - which is separate from the hotel and members-only, so a guest is not automatically inside it. Two domains, both luxury-travel titles.",
+   "goodFor": [
+    "couples",
+    "business",
+    "celebration"
+   ],
+   "lists": [
+    "luxury"
+   ],
+   "website": "https://www.fourseasons.com/towerbridge/"
+  },
+  {
+   "slug": "fulham-pier-hotel",
+   "name": "Fulham Pier Hotel",
+   "propertyType": "boutique",
+   "style": "Thirteen river-facing rooms in the Fulham Pier building",
+   "brand": "fulham-pier",
+   "chainType": "independent",
+   "area": "Fulham",
+   "borough": "Hammersmith and Fulham",
+   "zone": "2",
+   "district": "West",
+   "address": "Stevenage Road",
+   "postcode": "SW6 6HH",
+   "priceBand": "££££",
+   "whyGo": "Thirteen rooms with floor-to-ceiling windows onto the Thames, inside the seven-floor Fulham Pier building on Stevenage Road - booking a room gets you into Lighthouse Social, the members' club in the same building, plus a food hall of more than ten vendors and two rooftop bars.",
+   "opNote": "THE SPA AND THE ROOFTOP INFINITY POOL ARE NOT OPEN YET. The operator's own FAQ calls the spa 'anticipated to open in summer' with no confirmed date, lists the wellness floors and the pool as 'opening winter', and says there is no hotel gym at all - it points guests to gyms nearby. NO TUBE ON THE DOORSTEP: Putney Bridge is 0.7 miles, which the operator itself calls a 10 to 20 minute walk through Bishops Park. And Fulham Pier's own site says the destination closes for a limited number of Fulham FC match days each year, with a match-day traffic order on the surrounding streets - so check your dates against the match-day list before booking for the food hall and the club. Both sources are Conde Nast, UK and US editions of one magazine, which makes this the thinnest evidence in the batch.",
+   "goodFor": [
+    "couples",
+    "celebration"
+   ],
+   "lists": [
+    "boutique",
+    "views"
+   ],
+   "website": "https://fulhampierhotel.co.uk/"
   },
   {
    "slug": "ham-yard-hotel",
@@ -4577,6 +5980,61 @@
    "website": "https://www.ihg.com/"
   },
   {
+   "slug": "jumeirah-carlton-tower",
+   "name": "Jumeirah Carlton Tower",
+   "propertyType": "hotel",
+   "style": "Cadogan Place tower with a panoramic health club",
+   "brand": "jumeirah",
+   "chainType": "chain",
+   "area": "Knightsbridge",
+   "borough": "Kensington and Chelsea",
+   "zone": "1",
+   "district": "West",
+   "address": "Cadogan Place",
+   "postcode": "SW1X 9PY",
+   "priceBand": "££££",
+   "whyGo": "Guests get a private key to the Cadogan Place gardens, which are locked to everyone else on the square, and The Peak health club at the top of the building has a naturally lit indoor pool and a view over the skyline - two things a Knightsbridge hotel of this size almost never has together.",
+   "opNote": "RENAMED. The two Belgravia sources that named it write 'The Carlton Tower Jumeirah'; the operator now trades as JUMEIRAH CARLTON TOWER and the old URL redirects to the new one. Two domains in the Belgravia corpus plus one in the family pass. 186 rooms. HOOD IS A JUDGEMENT CALL: Jumeirah's own contact block says 'On Cadogan Place, Knightsbridge', the corpus that surfaced it is the Belgravia one, and the nearest row on this sheet - The Cadogan at 75 Sloane Street - is filed Chelsea. Knightsbridge here because that is the operator's word; borough follows The Cadogan.",
+   "goodFor": [
+    "couples",
+    "families",
+    "business",
+    "celebration"
+   ],
+   "lists": [
+    "luxury"
+   ],
+   "website": "https://www.jumeirah.com/en/stay/london/jumeirah-carlton-tower"
+  },
+  {
+   "slug": "mandarin-oriental-hyde-park",
+   "name": "Mandarin Oriental Hyde Park",
+   "propertyType": "hotel",
+   "style": "The group's original London house, backing onto Hyde Park",
+   "brand": "mandarin-oriental",
+   "chainType": "chain",
+   "starRating": "5",
+   "area": "Knightsbridge",
+   "borough": "Westminster",
+   "zone": "1",
+   "district": "West",
+   "address": "66 Knightsbridge",
+   "postcode": "SW1X 7LA",
+   "priceBand": "££££",
+   "whyGo": "The back of the hotel opens straight into Hyde Park and the front onto Knightsbridge, so Harrods and Sloane Street are on one side and the Diana Memorial Playground is a walk across the park on the other. Dinner by Heston Blumenthal and The Aubrey, a Japanese izakaya, are both in the building.",
+   "opNote": "MANDARIN ORIENTAL NOW HAS TWO LONDON HOTELS and this sheet already carries the other one - Mandarin Oriental Mayfair, at 22 Hanover Square. This is the Knightsbridge original, and the two are easy to book by mistake; the group's own navigation lists them as 'London - Hyde Park' and 'London - Mayfair'. Parking is valet only and charged, and the hotel asks you to arrange it with the concierge in advance because of the traffic on Knightsbridge. A Connecting & Family Rooms category is sold, which is why the family lists name it. Named by 2 independent domains.",
+   "goodFor": [
+    "couples",
+    "celebration",
+    "families"
+   ],
+   "lists": [
+    "luxury",
+    "showstopper"
+   ],
+   "website": "https://www.mandarinoriental.com/en/london/hyde-park"
+  },
+  {
    "slug": "mandarin-oriental-mayfair",
    "name": "Mandarin Oriental Mayfair",
    "propertyType": "hotel",
@@ -4654,6 +6112,65 @@
    "hotelsUrl": "https://uk.hotels.com/ho484008/native-mayfair-london-united-kingdom/",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho484008/native-mayfair-london-united-kingdom/",
    "affiliateNetwork": "cj"
+  },
+  {
+   "slug": "no5-maddox-street",
+   "name": "No.5 Maddox Street",
+   "propertyType": "serviced-apartment",
+   "style": "All-apartment Mayfair address, one to three bedrooms",
+   "brand": "living-rooms",
+   "chainType": "mini-chain",
+   "area": "Mayfair",
+   "borough": "Westminster",
+   "guide": "mayfair-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "5 Maddox Street",
+   "postcode": "W1S 2QD",
+   "priceBand": "££££",
+   "whyGo": "Every unit is a whole apartment with a kitchen - the smallest 27 sq m, the largest a three-bed of 79 sq m with outdoor space - on a quiet side street a minute off Regent Street, which is a rare thing to book in Mayfair for either two nights or two months.",
+   "opNote": "NOT A HOTEL PRODUCT ANY MORE, whatever the guides that name it imply: the operator sells serviced apartments with a concierge team, housekeeping and preferential rates at a nearby gym, not rooms with a front desk and a restaurant. Some apartments have private terraces and some do not, and the operator marks that with an asterisk rather than by room type. Run by Living Rooms, the same operator as The Laslett in Notting Hill, which is already on this sheet. Two guide domains.",
+   "goodFor": [
+    "couples",
+    "long-stay",
+    "business",
+    "families"
+   ],
+   "lists": [
+    "luxury",
+    "long-stay",
+    "aparthotels"
+   ],
+   "website": "https://www.living-rooms.co.uk/no-5-maddox-st/"
+  },
+  {
+   "slug": "nobu-portman-square",
+   "name": "Nobu Hotel London Portman Square",
+   "propertyType": "hotel",
+   "style": "Nobu's Marylebone house, restaurant-led, on a garden square",
+   "brand": "nobu",
+   "chainType": "chain",
+   "starRating": "5",
+   "area": "Marylebone",
+   "borough": "Westminster",
+   "guide": "marylebone-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "22 Portman Square",
+   "postcode": "W1H 7BG",
+   "priceBand": "££££",
+   "whyGo": "The quieter of Nobu's two London hotels - a garden square in Marylebone rather than Shoreditch - with the Nobu restaurant, its terrace, the bar and afternoon tea all downstairs, and Marylebone High Street, Mayfair and Oxford Street each a walk away.",
+   "opNote": "TWO NOBU HOTELS IN LONDON and the guides use short forms that do not separate them - this is Portman Square in Marylebone, not Nobu Hotel London Shoreditch, which appears in our dog-friendly corpus under a name a reader would confuse with this one. The operator itself shortens the name to \"Nobu Portman Square\" on its own site, so both spellings are legitimate. Three guide domains.",
+   "goodFor": [
+    "couples",
+    "business",
+    "celebration"
+   ],
+   "lists": [
+    "luxury",
+    "design"
+   ],
+   "website": "https://www.nobuhotels.com/london-portman/"
   },
   {
    "slug": "nomad-london",
@@ -5154,6 +6671,33 @@
    "website": "https://www.the-emory.co.uk/"
   },
   {
+   "slug": "the-franklin-london",
+   "name": "The Franklin London",
+   "propertyType": "boutique",
+   "style": "Five-star Victorian house on a private garden square",
+   "brand": "starhotels",
+   "chainType": "mini-chain",
+   "starRating": "5",
+   "area": "Knightsbridge",
+   "borough": "Kensington and Chelsea",
+   "zone": "1",
+   "district": "West",
+   "address": "24 Egerton Gardens",
+   "postcode": "SW3 2DB",
+   "priceBand": "££££",
+   "whyGo": "It sits on Egerton Gardens rather than a main road, with the garden square wrapped around it - a residential Knightsbridge address, which is the whole difference between this and the Brompton Road hotels a few minutes north.",
+   "opNote": "The widest spread in this batch: two domains in the South Kensington corpus and named again in the dog-friendly, Kensington and general passes. Starhotels Collezione, so the same group as The Gore, also in this batch, and The Pelham. NOTE THE FILING MISMATCH - the corpus that surfaced it is South Kensington but the operator's own page is headed 'Boutique Hotel in Knightsbridge'; the hood follows the operator. No Knightsbridge area guide exists, so areaGuide is empty.",
+   "goodFor": [
+    "couples",
+    "celebration"
+   ],
+   "lists": [
+    "luxury",
+    "boutique"
+   ],
+   "website": "https://collezione.starhotels.com/en/our-hotels/the-franklin-london/"
+  },
+  {
    "slug": "the-goring",
    "name": "The Goring",
    "propertyType": "hotel",
@@ -5189,6 +6733,35 @@
     "luxury"
    ],
    "website": "https://www.thegoring.com/"
+  },
+  {
+   "slug": "the-guardsman",
+   "name": "The Guardsman",
+   "propertyType": "hotel",
+   "style": "Small five-star hotel and residences off Buckingham Gate",
+   "brand": "the-guardsman",
+   "chainType": "independent",
+   "starRating": "5",
+   "area": "Westminster",
+   "borough": "Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "1 Vandon Street",
+   "postcode": "SW1H 0AH",
+   "priceBand": "££££",
+   "whyGo": "Six self-contained residences sit alongside the hotel rooms - one, two or three bedrooms each with a private kitchen and dining area, and a private chef and valet available on top - which is a different product from a suite and the reason to pick this over the Broadway hotels round the corner.",
+   "opNote": "Two domains in the Westminster corpus and one in the family pass. Two minutes from St James's Park station and six from Buckingham Palace on the operator's own count. BREAKFAST IS A RATE CONDITION, NOT A STANDING INCLUSION: booking direct on the best available rate adds breakfast, a welcome drink and a category upgrade subject to availability, so the breakfast column is deliberately empty.",
+   "goodFor": [
+    "couples",
+    "families",
+    "business",
+    "long-stay"
+   ],
+   "lists": [
+    "luxury"
+   ],
+   "website": "https://guardsmanhotel.com/"
   },
   {
    "slug": "the-hari",
@@ -5310,6 +6883,35 @@
     "luxury"
    ],
    "website": "https://www.langhamhotels.com/en/the-langham/london/"
+  },
+  {
+   "slug": "the-london-edition",
+   "name": "The London EDITION",
+   "propertyType": "hotel",
+   "style": "Ian Schrager conversion, 173 oak-lined rooms",
+   "brand": "marriott-edition",
+   "chainType": "chain",
+   "starRating": "5",
+   "area": "Fitzrovia",
+   "borough": "Westminster",
+   "guide": "fitzrovia-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "10 Berners Street",
+   "postcode": "W1T 3NP",
+   "priceBand": "££££",
+   "whyGo": "Berners Tavern is the reason most people walk in - Jason Atherton's dining room under chandeliers modelled on Grand Central's - and the award-winning Punch Room beside it is the more intimate, speakeasy-style one. The 173 bedrooms above are oak-floored and wood-panelled, closer to a yacht cabin than a hotel room.",
+   "opNote": "Two domains in the general corpus and named again in the accessible, Fitzrovia, Soho and boutique passes - five corpora, the broadest reach of this batch. THE HOOD IS FITZROVIA, NOT SOHO: the operator's page title says Soho and its own body copy says Fitzrovia, and 10 Berners Street is north of Oxford Street. It was named by Wheelchair Travel in the accessible corpus, which is worth reading before anyone writes an accessibility claim - nothing here has been checked.",
+   "goodFor": [
+    "couples",
+    "business",
+    "celebration"
+   ],
+   "lists": [
+    "luxury",
+    "boutique"
+   ],
+   "website": "https://www.editionhotels.com/london/"
   },
   {
    "slug": "the-londoner",
@@ -5598,6 +7200,34 @@
    "hotelsUrl": "https://uk.hotels.com/ho223825/the-soho-hotel-firmdale-hotels-london-united-kingdom/",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho223825/the-soho-hotel-firmdale-hotels-london-united-kingdom/",
    "affiliateNetwork": "cj"
+  },
+  {
+   "slug": "the-stafford-london",
+   "name": "The Stafford London",
+   "propertyType": "hotel",
+   "style": "Five-star St James's hotel across three separate buildings",
+   "brand": "the-stafford",
+   "chainType": "independent",
+   "starRating": "5",
+   "area": "Westminster",
+   "borough": "Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "16-18 St James's Place",
+   "postcode": "SW1A 1NJ",
+   "priceBand": "££££",
+   "whyGo": "Tucked down St James's Place between Green Park and Buckingham Palace, with the American Bar and MICHAEL CAINES at The Stafford - modern European cooking from the Michelin-starred chef - both on site.",
+   "opNote": "ASK WHICH BUILDING YOU ARE IN: the hotel runs across three separate buildings with different characters, one of them the 13-room Carriage House across the mews. Named by two luxury guides and, separately, by two afternoon-tea guides - the Lounge and the American Bar are as much of the draw as the bedrooms. Filed to the Westminster guide because that guide covers St James's.",
+   "goodFor": [
+    "couples",
+    "celebration",
+    "business"
+   ],
+   "lists": [
+    "luxury"
+   ],
+   "website": "https://thestaffordlondon.com/"
   },
   {
    "slug": "the-twenty-two",

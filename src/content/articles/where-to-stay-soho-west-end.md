@@ -82,9 +82,9 @@ Sold as **"nests"**, upper and lower, in singles and doubles, and the double gen
 
 ### The Z Hotel Covent Garden — the cheapest room in the West End with a window
 
-*£70 windowless, £100 with a window · 113 rooms · 31–33 Bedford Street, WC2E 9ED · Breakfast and evening cheese and wine · [check prices](hotel:z-hotel-covent-garden)*
+*£70 windowless, £100 with a window · 113 rooms · 31–33 Bedford Street, WC2E 9ED · Breakfast is charged separately · [check prices](hotel:z-hotel-covent-garden)*
 
-A hundred and thirteen compact rooms on Bedford Street, three minutes from both Charing Cross and Leicester Square, with free cheese and wine in the lounge every evening. Z publishes the floor area of every grade, which few hotels at this price do, so read the list before picking one.
+A hundred and thirteen compact rooms on Bedford Street, three minutes from both Charing Cross and Leicester Square. Z publishes the floor area of every grade, which few hotels at this price do, so read the list before picking one. Joining Z Member is free and adds evening cheese and wine plus 10% off food and drink, though not on breakfast, which is bought downstairs.
 
 **The window costs £20, and that is the whole decision.** A Z Inside Single is 8 sq m at £70 with **no window at all**; an Inside Double is 9 sq m at £80; a Z Double is the same 9 sq m at £100 and has one. A Z Queen is 11 sq m at £105, and a Z Family is 12 sq m sleeping four at £155.
 

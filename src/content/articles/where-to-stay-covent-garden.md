@@ -60,7 +60,7 @@ A hundred and thirteen compact rooms in a courtyard behind St Paul's Church, whi
 
 **Three of the seven grades have no window.** A Z Inside Single is 8 sq m at £70, an Inside Double 9 sq m at £80, an Inside Queen 11 sq m at £90. The first room with daylight is the **Z Double at £100** — the same 9 sq m as the Inside Double for £20 more. People book the Inside grades by accident constantly, because the booking page does not lead with the missing window.
 
-**Join Z Club before you book.** It is free, and it takes 10% off the public rate, adds complimentary evening cheese and wine, and gets you 10% off food and drink. Café Inigo downstairs does the buffet breakfast and small plates.
+**Join Z Member before you book.** It is free, and it adds complimentary evening cheese and wine plus 10% off food and drink — though not off breakfast. Do not confuse it with a Z Club room, which is a dearer grade that does include breakfast. Café Inigo downstairs does the buffet breakfast and small plates.
 
 ### hub by Premier Inn London Covent Garden — eleven square metres on St Martin's Lane
 

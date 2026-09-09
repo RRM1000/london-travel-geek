@@ -51,6 +51,16 @@
       "id": "camden-has-no-corroborated-hotels",
       "what": "The Camden corpus names nine properties and NONE of them is on the sheet. Either we are missing Camden entirely or the guides and we disagree about what counts as Camden.",
       "needs": "a look at whether Camden deserves rows"
+    },
+    {
+      "id": "z-hotels-breakfast-was-wrong-on-the-site",
+      "what": "We were telling readers breakfast was included at the Z Hotels. It is not: breakfast is bought in the Z Cafe, the free Z MEMBER scheme gives cheese and wine plus 10% off food and drink but EXCLUDES breakfast, and only the dearer Z CLUB room grade has breakfast in the rate. Fixed in five articles and both sheet rows on 9 Sept 2026.",
+      "needs": "nothing from you - flagged because it was live and wrong, and because Z Member and Z Club are easy to confuse again"
+    },
+    {
+      "id": "londoninfoguide-two-verdicts",
+      "what": "londoninfoguide.com is vetted and KEPT in data/serp/hotels-marylebone.txt ('a real two-man site, not a farm') and vetted and EXCLUDED in data/serp/hotels-paddington.txt ('affiliate template site'). Both judgements are defensible - they were made about different page types on the same site - but the file should say so once rather than twice, contradictorily.",
+      "needs": "a single verdict, or a note that it depends on the page type"
     }
   ],
   "watch": [
@@ -106,6 +116,14 @@
     {
       "id": "allaroundlondon-now-403s",
       "what": "allaroundlondon.com began 403ing every path including its sitemap during the 9 Sept 2026 pass. It carries the Soho corpus, so that corpus has degraded since it was built."
+    },
+    {
+      "id": "the-distillery-notting-hill-closed",
+      "what": "The Distillery, Notting Hill has closed - the-distillery.london now redirects to a Shopify gin shop and the Ginstitute has moved to The Portobello Star. It is still being named by 2026 guides off a stale Tripadvisor entry, so it will keep reappearing in the corpus. Not on our sheet; recorded so nobody adds it."
+    },
+    {
+      "id": "renames-found-in-the-two-source-pass",
+      "what": "Montcalm Mayfair was The Montcalm Marble Arch; The Carlton Tower is now Jumeirah Carlton Tower; The Henrietta is now Henrietta Experimental (and carries 4 domains once the variants merge, not 2); The Tower Hotel now trades as The Tower Hotel by Thistle; Four Seasons Ten Trinity Square became Four Seasons at Tower Bridge in Oct 2024; No.5 Maddox Street now sells serviced apartments, not hotel rooms; citizenM has been bought by Marriott and citizenm.com redirects to marriott.com."
     }
   ],
   "decided": [
