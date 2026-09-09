@@ -106,6 +106,8 @@ Clink 261, ten minutes' walk from the station on Gray's Inn Road, is the one tak
 
 **Check-in is 4pm and check-out 10am**, an hour earlier than Kabannas, with late check-out to noon charged. Dorm lockers need your own padlock. Booking direct saves 15%.
 
+If a dorm is the plan rather than a room, our [best hostels in London guide](/articles/best-hostels-london/) compares fourteen across the city — including the ones with en-suite dorms, which Clink 261 is not.
+
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-kings-cross-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The arithmetic that actually decides this

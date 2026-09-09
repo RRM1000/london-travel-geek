@@ -290,8 +290,6 @@ If that does not work:
 
 For the full picture — the pre-theatre bookings, the places that fill from 5pm — the [area guide covers it](/articles/covent-garden-area-guide/#where-to-eat-and-drink).
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The best day to go
 
 **Monday, and this is the one route in central London where that is the answer.**
@@ -313,6 +311,8 @@ Almost nothing here has a weekday-only problem. The Piazza never closes, the mar
 **The one genuine weekday-only thing** is St Paul's Church, which states weekday visiting hours of 9am to 5.30pm and nothing for the weekend. If the Actors' Church is the reason you are doing this walk, that decides the day for you.
 
 **On time of day:** start at 10am and you get Seven Dials and Neal's Yard before the coach parties, reach the Piazza as the performers hit their stride and arrive at the Transport Museum in the afternoon, which is when the museum itself says it is quietest. Start at 9am on a Sunday and Neal's Yard is empty and photographable, which it is at no other time.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

@@ -71,6 +71,42 @@
       "id": "st-christophers-we-hold-the-worst-branch",
       "what": "St Christopher's is not one entity and the community pass splits sharply by branch. Greenwich (\"felt really safe\"), London Bridge (\"was great!\"), Borough and Liverpool Street are all praised. The Village in South London draws \"one of the worst hostels I have ever seen in my life\". Our row is St Christopher's Village.",
       "needs": "a decision - swap the row for a better-regarded branch, or keep it and carry the criticism"
+    },
+    {
+      "id": "walrus-website-is-gone",
+      "what": "The Walrus Bar and Hostel's own site no longer resolves - walrussocial.com fails DNS and www.walrussocial.com serves a domain-parking page offering PayPal or Escrow checkout. Only booking aggregators (Kayak, Tripadvisor, Booking.com) still list it, and none of them is a primary source. Trading status is unknown. It has been left out of best-hostels-london with a named explanation rather than published on aggregator evidence.",
+      "needs": "a call on the sheet row the-walrus-hostel - either verify by phone or on the doorstep, or mark it withdrawn",
+      "added": "2026-09-09"
+    },
+    {
+      "id": "astor-hyde-park-age-limit-missing",
+      "what": "Astor Hyde Park carries the SAME 18-to-39 age limit on shared dormitories that Astor Victoria does - its own hostel page says 'Astor Hyde Park welcomes guests aged 18 to 39 in shared dormitories'. Our sheet records the limit on the Victoria row only, so the Hyde Park row reads as open to all ages. Its hotels.com listing is titled 'adults only', which is a different and weaker claim.",
+      "needs": "opNote on astor-hyde-park to carry the 18-39 dorm limit, as astor-victoria already does",
+      "added": "2026-09-09"
+    },
+    {
+      "id": "wombats-address-is-wrong",
+      "what": "The sheet gives Wombat's as 'Field Street area, E1'. The operator's own contact page says 7 Dock Street, London E1 8LL, 'between Shadwell DLR Station and Aldgate East tube station'. The postcode in the sheet is right and the street is not, which is the combination that will geocode plausibly and wrongly.",
+      "needs": "address column on wombats-city-hostel-london set to 7 Dock Street",
+      "added": "2026-09-09"
+    },
+    {
+      "id": "onefam-address-found",
+      "what": "The Onefam Notting Hill row is flagged NEEDS VERIFYING for an unconfirmed street address. The operator publishes it in two places on its own property page: 63 Prince's Square, London W2 4PX. That is Bayswater rather than Notting Hill, and the same garden square as Urbany at 48-49. Separately, the property page contradicts itself on female dorms - the room description advertises 'mixed and female-only dorms', the FAQ's room list on the same page names a private twin and five MIXED dorms and no female room. best-hostels-london reports both and tells readers to confirm before booking.",
+      "needs": "address on onefam-notting-hill, and a decision on whether to keep advertising a female dorm we cannot find in the room list",
+      "added": "2026-09-09"
+    },
+    {
+      "id": "st-christophers-london-is-four-sites",
+      "what": "St Christopher's now lists FOUR London hostels on its own site: London Bridge The Inn, London Bridge The Village, Shepherd's Bush and Liverpool Street. Greenwich and Camden - both praised in the community pass and in older guides - are gone from the operator's London page. Our single row is st-christophers-village, which is the branch that draws the worst reviews. Liverpool Street is the strongest of the four on the things women booking a dorm ask about: female-only dorms WITH female-only bathrooms, privacy curtains and lockers inside the female rooms, plus air conditioning.",
+      "needs": "a view on adding St Christopher's Liverpool Street as its own row, and on whether st-christophers-village should join the 'hostels' list as well as 'capsules' - it is absent from the best-hostels-london card list for that reason",
+      "added": "2026-09-09"
+    },
+    {
+      "id": "generator-rebranded-and-doubling",
+      "what": "Generator London is now branded 'Generator London King's Cross' on the operator's own site, and a second London site, 'Generator London Greenwich' at 173-185 Greenwich High Road SE10 8JA, is advertised as coming soon. Published from-rates are far below the sheet's 'About £26 a bed': £11 in a large dorm, £13 in a 4-bed, £15 in a 6-bed and in a female dorm.",
+      "needs": "name and typicalFrom on generator-london, and a new row when Greenwich opens",
+      "added": "2026-09-09"
     }
   ],
   "watch": [

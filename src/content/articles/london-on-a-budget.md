@@ -300,6 +300,8 @@ This is the part most budget guides skip, because it takes reading the small pri
 
 Accommodation is the line that breaks most London budgets, and the one genuinely cheap option in the middle of town is a capsule — about £33 a night at Piccadilly Circus on a quiet date, which is hostel-dorm money for a berth of your own. Our [pod hotels guide](/articles/pod-hotels-london/) explains the trap: the same brand sells windowless private *rooms* under a nearly identical name at three to four times the price. If you are considering one of those, the [windowless rooms guide](/articles/windowless-hotel-rooms-london/) is the honest account of what they are like to sleep in.
 
+**A dorm bed undercuts all of it** — from about £11 near King's Cross — and adds the thing a capsule does not have, which is a kitchen you can cook in. Our [best hostels in London guide](/articles/best-hostels-london/) compares fourteen of them on what the booking sites bury: which dorms are en-suite, which women's dorms have their own bathrooms, the age limits that will refuse you, and what gets charged at the desk for a towel and a locker.
+
 **The area matters more than the hotel.** [Best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the city by what the trip is for and covers the thing that quietly decides the budget — whether there is a train home at one in the morning, or a taxi. For a stay of more than a few nights, an [aparthotel](/articles/aparthotels-london/) with a kitchen usually beats a hotel room on total cost, and if you only need somewhere between a late flight and a check-in, [day rooms](/articles/day-rooms-london/) are cheaper than a wasted night.
 
 ## Where the money actually goes

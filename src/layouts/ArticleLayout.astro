@@ -331,6 +331,15 @@ const breadcrumbs = [
             intro="Cheapest first. Nightly rates are not shown because the ones on file have not been sampled properly - open a listing for a live price."
           />
         )}
+        {articleId === "best-hostels-london" && (
+          <ListHotels
+            list="hostels"
+            heading="Book a hostel"
+            intro="In the order this guide recommends them. From-prices are the operators' own published rates, not a quote for your dates."
+            only={["wombats-city-hostel-london", "clink261", "generator-london", "yha-london-central", "astor-hyde-park", "astor-victoria", "palmers-lodge-swiss-cottage", "safestay-kensington-holland-park", "barmy-badger-backpackers", "onefam-notting-hill", "urbany-hostel-london", "park-villa-hostel"]}
+            order={["wombats-city-hostel-london", "clink261", "generator-london", "yha-london-central", "astor-hyde-park", "safestay-kensington-holland-park", "palmers-lodge-swiss-cottage", "barmy-badger-backpackers", "astor-victoria", "onefam-notting-hill", "urbany-hostel-london", "park-villa-hostel"]}
+          />
+        )}
         {articleId === "windowless-hotel-rooms-london" && (
           <ListHotels
             list="windowless"
