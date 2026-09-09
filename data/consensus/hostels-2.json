@@ -1,0 +1,115 @@
+{
+  "cuisine": "hostels-2",
+  "note": "Seeded 2026-09-09. Two sources carry hand-recorded names (see `handRecorded`), recovered from bold lead-ins the heading-gate skipped.",
+  "recorded": "2026-09-09",
+  "sources": [
+    {
+      "name": "The Savvy Backpacker",
+      "url": "https://thesavvybackpacker.com/city-guide/best-hostels-london/",
+      "scope": "hostels-2",
+      "names": [
+        "Barmy Badger Backpackers Hostel",
+        "Wombats City Hostel London",
+        "Astor Hyde Park London Hostel",
+        "Hostel One Notting Hill London",
+        "Astor Queensway London Hostel",
+        "MEININGER London Hyde Park Hostel",
+        "Palmers Lodge London",
+        "Astor Museum Inn Hostel",
+        "Clink261 Hostel",
+        "The Walrus Hostel",
+        "SoHostel",
+        "No.8 Willesden Hostel London",
+        "London Backpackers"
+      ],
+      "handRecorded": "4 names recovered by hand 2026-09-09 from the 'More Great London Hostels' tail section - bold lead-ins, missed because the heading harvest cleared the fallback gate. See hotel-corpus.md 'Ways the extractor loses names silently'."
+    },
+    {
+      "name": "Candace Abroad",
+      "url": "https://candaceabroad.com/best-london-hostels/",
+      "scope": "hostels-2",
+      "names": [
+        "OneFam Notting Hill",
+        "St Christopher’s The Inn",
+        "Wombats City Hostel",
+        "The Walrus Hostel",
+        "Park Villa",
+        "Astor Hyde Park",
+        "Safestay Holland Park Kensington",
+        "Via Limehouse",
+        "Destinations Hostel @The Gallery"
+      ]
+    },
+    {
+      "name": "Global Viewpoint",
+      "url": "https://www.myglobalviewpoint.com/coolest-hostels-in-london/",
+      "scope": "hostels-2",
+      "names": [
+        "Palmers Lodge Swiss Cottage",
+        "Wombats City Hostel Whitechapel",
+        "PubLove @ The Rose & Crown",
+        "St. Christopher’s Inn at The Village",
+        "Astor Hyde Park",
+        "Generator London",
+        "Barmy Badger Backpackers",
+        "Safestay London Holland Park",
+        "The Walrus Hostel",
+        "Urbany Hostel London"
+      ]
+    },
+    {
+      "name": "Road Affair",
+      "url": "https://www.roadaffair.com/best-hostels-in-london/",
+      "scope": "hostels-2",
+      "names": [
+        "Wombat’s City Hostel London",
+        "Onefam Notting Hill",
+        "Hostelle London",
+        "St Christopher’s Inn Village",
+        "The Walrus Hostel",
+        "Palmers Lodge",
+        "Barmy Badger Backpackers",
+        "Generator London",
+        "Astor Hyde Park",
+        "YHA London Central",
+        "Urbany Hostel London",
+        "Onefam Waterloo",
+        "Clink261"
+      ]
+    },
+    {
+      "name": "Everything Zany",
+      "url": "https://everythingzany.com/hostels-in-london/",
+      "scope": "hostels-2",
+      "names": [
+        "Wombats Hostel London",
+        "Palmers Lodge",
+        "Green Rooms London",
+        "Clink78 London",
+        "Generator Hostel",
+        "St. Christopher’s Village",
+        "The Dictionary Hostel",
+        "YHA London Central",
+        "YHA London Earl's Court",
+        "YHA London Lee Valley",
+        "YHA London Oxford Street",
+        "YHA London St. Pancras",
+        "YHA London St. Paul's",
+        "YHA London Thameside",
+        "Safestay London Elephant and Castle"
+      ],
+      "handRecorded": "7 names recovered by hand 2026-09-09. The article's entry 7 is the YHA CHAIN and it then lists all seven London properties in a bold-lead-in run. They are recorded as named by this source, not as seven individual recommendations. Also: its entry 5 heads 'Safestay Hostel' but the body names the property - 'Safestay London Elephant and Castle Hostel... the old John Smith House' (Walworth). Recorded specifically so it cannot be confused with Safestay Holland Park."
+    },
+    {
+      "name": "Her Nomad Eyes",
+      "url": "https://www.hernomadeyes.com/blog/london-hostels-and-budget-hotels",
+      "scope": "hostels-2",
+      "names": [
+        "Wombat’s City Hostel",
+        "Palmers Lodge Swiss Cottage",
+        "St Christopher’s Village",
+        "Mowbray Court Hotel"
+      ]
+    }
+  ]
+}

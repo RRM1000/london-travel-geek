@@ -61,6 +61,16 @@
       "id": "londoninfoguide-two-verdicts",
       "what": "londoninfoguide.com is vetted and KEPT in data/serp/hotels-marylebone.txt ('a real two-man site, not a farm') and vetted and EXCLUDED in data/serp/hotels-paddington.txt ('affiliate template site'). Both judgements are defensible - they were made about different page types on the same site - but the file should say so once rather than twice, contradictorily.",
       "needs": "a single verdict, or a note that it depends on the page type"
+    },
+    {
+      "id": "four-hostels-nobody-mentions",
+      "what": "Astor Hyde Park, Astor Victoria, Park Villa and The Walrus drew ZERO mentions across 1,704 Reddit comments and 111 threads over eight months, while Wombat's got 52 and Onefam 55. All four are guide-sourced only. That is absence of evidence rather than evidence against them, but it is a pattern worth a decision.",
+      "needs": "a view on whether guide-only hostels should carry a row when travellers never mention them"
+    },
+    {
+      "id": "st-christophers-we-hold-the-worst-branch",
+      "what": "St Christopher's is not one entity and the community pass splits sharply by branch. Greenwich (\"felt really safe\"), London Bridge (\"was great!\"), Borough and Liverpool Street are all praised. The Village in South London draws \"one of the worst hostels I have ever seen in my life\". Our row is St Christopher's Village.",
+      "needs": "a decision - swap the row for a better-regarded branch, or keep it and carry the criticism"
     }
   ],
   "watch": [
@@ -124,6 +134,18 @@
     {
       "id": "renames-found-in-the-two-source-pass",
       "what": "Montcalm Mayfair was The Montcalm Marble Arch; The Carlton Tower is now Jumeirah Carlton Tower; The Henrietta is now Henrietta Experimental (and carries 4 domains once the variants merge, not 2); The Tower Hotel now trades as The Tower Hotel by Thistle; Four Seasons Ten Trinity Square became Four Seasons at Tower Bridge in Oct 2024; No.5 Maddox Street now sells serviced apartments, not hotel rooms; citizenM has been bought by Marriott and citizenm.com redirects to marriott.com."
+    },
+    {
+      "id": "university-summer-rooms-gap",
+      "what": "Four independent travellers in the community pass recommended university rooms let over the summer - LSE Bankside House, Passfield Hall, Imperial, and UniversityRooms.com as the aggregator. We have no coverage of this at all and it is a genuine budget-accommodation category, not a hostel."
+    },
+    {
+      "id": "onefam-age-limit-is-folklore",
+      "what": "Reddit repeatedly asserts Onefam refuses over-35s and argues about it at length. Nobody quotes a policy. Onefam's own FAQ mentions age-specific DISCOUNTS and states no restriction. Do not repeat the claim without the operator confirming it."
+    },
+    {
+      "id": "promotional-comments-in-the-community-pass",
+      "what": "Two plants found: Royal National Hotel pushed twice through the same stay22 affiliate link (one downvoted to -1), and a Zedwell comment carrying a gclid ad URL. Also, both \"Is Palmers Lodge the best hostel in London?\" threads are one blogger crossposting their own sidestreetstyle.com article - a genuine stay, but self-promotion, and Palmers Lodge is now a sheet row on five guide domains rather than on that."
     }
   ],
   "decided": [

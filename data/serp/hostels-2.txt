@@ -1,0 +1,97 @@
+# Hostel sources, second corpus. SERP-seeded 2026-09-09 in the browser, per
+# data/serp/README.md and data/reference/hotel-corpus.md.
+#
+# The `hostels` topic (data/serp/hostels.txt) holds four backpacker blogs and
+# yielded only a handful of names. This is the widening pass over the same
+# search, not a replacement - the two topics are scored separately.
+#
+# Rob's rule for this corpus: evidence comes from guides and especially
+# BLOGGERS. Booking engines are not sources - Hostelworld, Booking.com,
+# Hostelz, Agoda and the rest rank by inventory and commission, so a listing
+# says nothing about whether anyone rates the place. Brand sites are out for
+# the same reason: a hostel group listing its own beds is not a recommendation.
+#
+# That rule does most of the work here, because "best hostels in London" is a
+# SERP almost entirely owned by Hostelworld affiliates. Of nineteen domains the
+# search returned, six survived.
+#
+# ---------------------------------------------------------------------------
+# DROPPED, and the tell that decided each:
+#
+# AFFILIATE STOREFRONTS WEARING A BLOG - the founding rule's exact refusal.
+#   hostelgeeks.com        38 hostelworld.prf.hn links + 17 hostelz.com + 6
+#                          booking.com on a page that names FIVE hostels. Runs
+#                          its own "5 Star Hostels" certification. Grid coverage
+#                          across five continents with "This Guide is coming
+#                          soon!" placeholders. About page protests too much:
+#                          "We're not a booking site, a directory, or a listing
+#                          service that accepts payment for placement."
+#                          NOT an AI farm - Matt Kiefer is a real named founder
+#                          with a real bio, and the London list is short and
+#                          hand-written. Dropped on the affiliate rule, not the
+#                          farm tells. Call made explicitly; reverse it if the
+#                          affiliate density is judged acceptable.
+#   hostelnerds.com        Same operator as hostelgeeks: same Matt Kiefer
+#                          byline, Amazon tag `hostelgeeks01-20` in its own
+#                          markup, sidebar promoting Hostelgeeks. Two SERP hits,
+#                          one voice. 30 hostelworld.prf.hn links.
+#   besthostelguide.com    35 hostelworld.prf.hn links. Programmatic grid -
+#                          Best / Youth / Private-Rooms / Cheap x eight cities.
+#                          First-name-only "Elena". Prague page exists.
+#
+# BOOKING AGGREGATORS AND PRICE DATABASES.
+#   hostelz.com            Cloudflare challenge (HTTP 403, "Just a moment...")
+#                          AND a price-comparison directory. Unreadable and
+#                          ineligible.
+#   hostelninja.com        "All the best hostels in the world in one only
+#                          website... book your hostel now." Built on an Italian
+#                          comparison-engine codebase - its consent script still
+#                          carries `enabled_origins = ['topbanche.it']`.
+#   brokepackr.com         A price index in beta. "Counts are every hostel we
+#                          index in the city." Machine-normalised names ("Yha
+#                          London St Pauls"). Prague page exists.
+#   london.hostelsonly.com Per-city subdomain (prague.hostelsonly.com resolves).
+#                          "We read hundreds of reviews per hostel and score
+#                          it" - its editorial is derived FROM the booking
+#                          sites. Complete purpose grid: solo / female / party /
+#                          quiet / nomad / long-stay / couples / active / budget.
+#   blog.hostelmatch.com   A hostel booking platform's blog ("Add your
+#                          listing", "Login / Register"). Zero London content -
+#                          the SERP hit is the blog index, not an article.
+#   hostelalerts.com       An availability-alert SaaS. The article says where
+#                          its picks come from: "built from live HostelAlerts
+#                          production property data, our current hostel
+#                          comparison signals, and the premium snapshot
+#                          coverage we already trust internally." "Olly" writes
+#                          the identical playbook for every city.
+#
+# BRAND SITES - same rule as premierinn.com.
+#   smarthostels.com       A London hostel operator. Four properties (Russell
+#                          Square, Hyde Park Inn, Hyde Park View, Camden Inn),
+#                          "Book Direct & Enjoy 15% Off". Its female-safety
+#                          guide ends at "our female-friendly hostels".
+#   nxlondon.com           NX London Hostel, New Cross. Its "budget hostel
+#                          guide" ranks itself #1 and closes on "Why Booking
+#                          Direct Actually Matters".
+#   astorhostels.com       Astor's own brand site.
+#   londonnet.co.uk        Looks editorial - it is not. Footer reads
+#                          "(c) 2026 - Travelstay Network - LondonNet", and the
+#                          page sells Travelstay's own inventory: "LondonNet has
+#                          a great selection of female only London
+#                          accommodation... Click here for more info and booking
+#                          details." A supplier page, not a guide.
+#                          (It does name Park House Hostel, Helen Graham House,
+#                          Goldsmiths House and Barkston Rooms, which the blogs
+#                          do not. Leads to research by hand, not corpus rows.)
+#
+# AI CONTENT FARM.
+#   eurovistatrips.com     Already excluded in the Bloomsbury pass.
+# ---------------------------------------------------------------------------
+
+# Backpacker and travel blogs, every one under a named human with an archive.
+The Savvy Backpacker|https://thesavvybackpacker.com/city-guide/best-hostels-london/
+Candace Abroad|https://candaceabroad.com/best-london-hostels/
+Global Viewpoint|https://www.myglobalviewpoint.com/coolest-hostels-in-london/
+Road Affair|https://www.roadaffair.com/best-hostels-in-london/
+Everything Zany|https://everythingzany.com/hostels-in-london/
+Her Nomad Eyes|https://www.hernomadeyes.com/blog/london-hostels-and-budget-hotels
