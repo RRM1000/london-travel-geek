@@ -188,9 +188,9 @@ Do the arithmetic before booking the cheap one. **[The GreenHouse Capsules](hote
 
 *About £160–£200 · Zone 2 · Canary Wharf · [area guide](/articles/canary-wharf-area-guide/)*
 
-A business district, which means it fills Monday to Thursday and **empties at weekends, so it prices against the opposite pattern to the rest of London.** If your trip is Friday to Sunday, check a Canary Wharf rate against a central one before assuming central is competitive.
+A business district, which means it fills Monday to Thursday and **thins out at weekends, so it prices against the opposite pattern to the rest of London.** If your trip is Friday to Sunday, check a Canary Wharf rate against a central one before assuming central is competitive.
 
-**It is genuinely dead at weekends** — nobody queueing outside your window, and also not much life. The Elizabeth line runs here direct from Heathrow in about 48 minutes, and the Jubilee goes straight to Bond Street and Green Park. Of the three lines here only the Jubilee runs through the night on Fridays and Saturdays; the DLR and the Elizabeth line stop, so check which entrance your hotel is nearest if you are out late.
+**Weekends are quiet rather than dead, and that has changed recently.** The old malls still wind down on a Sunday, but Wood Wharf at the eastern end runs all week — waterside restaurants, Mercato Metropolitano, a floating fifty-metre lido, and Fairgame serving until 1am on Saturdays. You get no queue outside your window and still have somewhere to go. Guides describing an empty office estate are describing it before about 2023. The Elizabeth line runs here direct from Heathrow in about 48 minutes, and the Jubilee goes straight to Bond Street and Green Park. Of the three lines here only the Jubilee runs through the night on Fridays and Saturdays; the DLR and the Elizabeth line stop, so check which entrance your hotel is nearest if you are out late.
 
 **[Novotel Canary Wharf](hotel:novotel-canary-wharf)** is about £160 and has Bokan, a rooftop restaurant with one of the better elevated views in east London, open to non-residents. **[London Marriott Canary Wharf](hotel:london-marriott-canary-wharf)** is about £200 on West India Quay with floor-to-ceiling windows over the dock, a 24-hour gym and a 24-hour business centre.
 

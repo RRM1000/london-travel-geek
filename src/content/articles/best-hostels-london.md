@@ -100,8 +100,6 @@ This is the question the category answers worst, because "female dorm" on a book
 
 **In a private room, check twice.** Astor's doubles and twins are en-suite. Kabannas' Nest is en-suite with air conditioning. YHA sells private rooms *and* private en-suite rooms as separate products, and its standard private room has a wash basin in the room with the shower down the hall. Barmy Badger's private double has a washbasin and a shared bathroom. Onefam's private twin and Urbany's private double are both shared-bathroom.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Age limits, the thing that catches people out
 
 Nobody expects a hostel to have an upper age limit. Three here do.
@@ -283,10 +281,6 @@ It draws the most enthusiastic writing of any hostel in our community research �
 
 The operator calls it "a very small hostel" and caps groups at eight. It welcomes families, but **under-10s cannot use a dorm at all** and need a private family room with an adult. Mile End is a good Tube location and a walk to very little.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
-## What we left out, and why
-
 ### The Walrus
 
 *172 Westminster Bridge Road, SE1 7RW · Waterloo 5 min · [thewalrusbarandhostel.co.uk](https://www.thewalrusbarandhostel.co.uk/)*
@@ -298,10 +292,11 @@ The operator calls it "a very small hostel" and caps groups at eight. It welcome
 **Check-in is self-service from 2.30pm** with documents sent before noon, or reception between 3pm and 11pm. **Check-out is 10am**, which is early. Luggage storage is free before check-in and **£3 a bag afterwards**, 8am to 11pm. Groups need a minimum of two nights, and cancellation is 72 hours.
 
 The operator does not publish its dorm bathroom arrangement, whether it runs a female-only dorm, or an age policy, so those columns are blank above rather than guessed.
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-**St Christopher's used to have more London sites.**
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-**Four hostels here — Astor Hyde Park, Astor Victoria, Park Villa and The Walrus — drew zero mentions** across 1,704 Reddit comments and 111 threads over eight months, while Wombat's got 52 and Onefam 55. That is absence of evidence rather than evidence against them: all four are recommended by independent guides, all four are trading, and the Astor pages are unusually transparent about prices and rules. It is a pattern worth knowing when you read a list that ranks them highly.
+## What we left out, and why
 
 **St Christopher's used to have more London sites.** Greenwich and Camden are both praised in older writing and neither appears on the operator's current London page. Four sites is what there is.
 

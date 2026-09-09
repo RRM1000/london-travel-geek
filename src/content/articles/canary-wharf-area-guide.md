@@ -124,7 +124,7 @@ The centre of the estate. **One Canada Square** is the pyramid-topped tower ever
 
 What is public is the **underground shopping levels**, which connect most of the estate without going outside at all, and the square and park above them.
 
-**The malls keep ordinary retail hours and the estate empties at weekends**, which is either the appeal or the problem. Weekday lunchtimes are when it is alive.
+**The malls keep ordinary retail hours and this older, corporate part of the estate is quiet at weekends** — which is either the appeal or the problem. Weekday lunchtimes are when it is busiest. For a Saturday, walk east to Wood Wharf instead.
 
 ### West India Quay
 North across the footbridge, and **the only part of Canary Wharf that predates the 1980s** — a surviving terrace of Georgian sugar warehouses of 1802, low brick against the towers behind.
@@ -149,7 +149,7 @@ The **roof garden on top is free and open to the public**, planted with species 
 **Open daily, no ticket**, and reached directly from the station without going outside — which makes it the obvious thing to do while waiting for a train.
 
 ### Wood Wharf
-East, and the newest part of the estate — residential rather than corporate, which is why it stays busy at weekends when the rest of Canary Wharf does not.
+East, and the newest part of the estate — residential rather than corporate, which is why it keeps going at weekends while the older, office end winds down.
 
 The **boardwalk** runs along the dock edge with the best of the waterside restaurants on it, and there is a floating lido and a padel club on the water.
 

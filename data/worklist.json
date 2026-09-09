@@ -63,11 +63,6 @@
       "needs": "a single verdict, or a note that it depends on the page type"
     },
     {
-      "id": "four-hostels-nobody-mentions",
-      "what": "Astor Hyde Park, Astor Victoria, Park Villa and The Walrus drew ZERO mentions across 1,704 Reddit comments and 111 threads over eight months, while Wombat's got 52 and Onefam 55. All four are guide-sourced only. That is absence of evidence rather than evidence against them. The Walrus is CONFIRMED TRADING - Rob checked, and the operator site is thewalrusbarandhostel.co.uk, not the walrussocial.com an earlier pass searched for and failed to find. but it is a pattern worth a decision.",
-      "needs": "a view on whether guide-only hostels should carry a row when travellers never mention them"
-    },
-    {
       "id": "st-christophers-we-hold-the-worst-branch",
       "what": "St Christopher's is not one entity and the community pass splits sharply by branch. Greenwich (\"felt really safe\"), London Bridge (\"was great!\"), Borough and Liverpool Street are all praised. The Village in South London draws \"one of the worst hostels I have ever seen in my life\". Our row is St Christopher's Village.",
       "needs": "a decision - swap the row for a better-regarded branch, or keep it and carry the criticism"
@@ -247,6 +242,12 @@
       "id": "consensus-extractor-fixed-twice",
       "what": "SECTION_LABEL gained the hotel-domain plurals and a LOGISTICS_HEADING filter; collect() now splits on a pipe as well as a spaced dash.",
       "why": "Section headings like \"Grand Luxury Hotels\" and \"The Tube\" counted as venues, took the surviving-heading count over the fallback gate, and stopped the <strong> harvest running - Santorini Dave appears in six corpora and was contributing nothing. Separately, a \" | Area\" suffix pushed long hotel names past isHeadline's nine-word limit and deleted them."
+    },
+    {
+      "id": "reddit-silence-is-not-a-signal-on-the-page",
+      "date": "2026-09-09",
+      "decision": "Do not tell readers that a hostel drew no Reddit mentions. Community evidence is for deciding what WE research and how confident we are; it is not a verdict to print about a business.",
+      "why": "Rob's call. The Astors, Park Villa and The Walrus each drew zero mentions in 1,704 comments while Wombat's got 52 - but all are recommended by independent guides and all are trading, so the silence said more about who posts on Reddit than about the hostels. Printing it read as a slight."
     }
   ]
 }
