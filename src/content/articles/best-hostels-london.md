@@ -281,6 +281,8 @@ It draws the most enthusiastic writing of any hostel in our community research �
 
 The operator calls it "a very small hostel" and caps groups at eight. It welcomes families, but **under-10s cannot use a dorm at all** and need a private family room with an adult. Mile End is a good Tube location and a walk to very little.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### The Walrus
 
 *172 Westminster Bridge Road, SE1 7RW · Waterloo 5 min · [thewalrusbarandhostel.co.uk](https://www.thewalrusbarandhostel.co.uk/)*
@@ -292,8 +294,6 @@ The operator calls it "a very small hostel" and caps groups at eight. It welcome
 **Check-in is self-service from 2.30pm** with documents sent before noon, or reception between 3pm and 11pm. **Check-out is 10am**, which is early. Luggage storage is free before check-in and **£3 a bag afterwards**, 8am to 11pm. Groups need a minimum of two nights, and cancellation is 72 hours.
 
 The operator does not publish its dorm bathroom arrangement, whether it runs a female-only dorm, or an age policy, so those columns are blank above rather than guessed.
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-hostels-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What we left out, and why
