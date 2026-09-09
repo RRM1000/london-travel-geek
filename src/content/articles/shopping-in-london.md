@@ -203,6 +203,10 @@ Different proposition from the malls above: **last season's stock at a discount*
 
 **London Designer Outlet**, Wembley Park — **around 50 stores at 30–70% off** list price, and the larger of the two. Nike, adidas, Levi's, Tommy Hilfiger, Boss, Calvin Klein, Kurt Geiger, Clarks, The North Face and M&S, plus about twenty places to eat, a nine-screen Cineworld and a free covered play park that makes it genuinely workable with children.
 
+![The entrance to the London Designer Outlet at Wembley Park, giant gold LDO letters on the pavement in front of the sign, with Amorino and Holland & Barrett either side of the doors](../../assets/articles/shopping-in-london/london-designer-outlet.jpg)
+
+*The Wembley Park entrance. The restaurants on the balcony above the doors are the twenty-odd places to eat, which is what makes this one workable for a whole afternoon rather than an hour.*
+
 **Icon Outlet at The O2**, North Greenwich — smaller and more central-feeling, wrapped around the inside of the O2 alongside the bars and restaurants. Ted Baker, Hackett, Gap, Levi's and Dune among others, **open daily 10am–8pm**, and a straight run on the Jubilee line to North Greenwich.
 
 > ⚠️ **Check what is on at the venue before you go to either.** Both share a site with a major arena or stadium, and on a concert or match day the shops themselves are fine but the station, the food and the walk out are not.
