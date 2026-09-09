@@ -68,6 +68,10 @@ The cooking is Ducasse orthodoxy: sauces reduced for hours, luxury produce handl
 
 **££££, closed Sunday and Monday, and it books months ahead. Ask about the Table Lumière specifically when booking; it is not offered by default.**
 
+![Two slices of rare-cooked beef with crisped artichoke, mushrooms and slivers of pear on a plain cream plate](../../assets/articles/best-french-restaurants-london/alain-ducasse-dorchester.jpg)
+
+*Ducasse orthodoxy: three or four things on a plate, a sauce reduced for hours, and no decoration doing a job the cooking has not already done.*
+
 ### Hélène Darroze at The Connaught, Mayfair
 
 *££££ · Carlos Place · book months ahead* · Cited by 1 source
@@ -77,6 +81,10 @@ The cooking is Ducasse orthodoxy: sauces reduced for hours, luxury produce handl
 Expect the produce of Gascony treated at three-star level: **Landes duck, foie gras, Armagnac**, and vegetables from named growers, in a tasting sequence chosen from an ingredient list rather than a fixed menu. It is warmer and less austere than most cooking at this level.
 
 **££££, closed Sunday and Monday, books months ahead.** Inside The Connaught, so the room is the hotel's rather than the restaurant's own.
+
+![A seared, seed-crusted piece of foie gras in a dark jus, with a small ravioli, charred onion petals, purée dots and a blue cornflower on a ridged white plate](../../assets/articles/best-french-restaurants-london/helene-darroze-connaught.jpg)
+
+*The Landes on a plate — foie gras and Armagnac territory, worked at three-star level but warmer than most cooking that far up.*
 
 ---
 
@@ -92,15 +100,23 @@ The menu is the old repertoire done without irony: **snails, veal kidneys, duck 
 
 **££££, closed Sunday and Monday, and it books months ahead** — considerably harder to get into since the award.
 
+![Tomatoes, green beans, anchovy fillets, almonds and croutons piled on a bed of cream on a white plate, on a white tablecloth](../../assets/articles/best-french-restaurants-london/bouchon-racine.jpg)
+
+*Bourgeois cooking without irony: anchovy, tomato and beans over something rich and white, with olive oil poured on rather than dotted.*
+
 ### La Poule au Pot, Belgravia
 
 *££££ · 5 min from Sloane Square · since the 1960s* · Cited by 1 source
 
 **Trading since the 1960s on coq au vin, beef bourguignon and candlelight** — the most reliably romantic dining room in London by some distance, and it has not changed in decades.
 
-The menu is written in French with no translation, which is part of the act. **Coq au vin**, **bœuf bourguignon** and a whole roast chicken for two, served in copper pots at tables crowded with dried flowers and mismatched china.
+The menu is written in French with no translation, which is part of the act. **Coq au vin**, **bœuf bourguignon** and a whole roast chicken for two, brought to the table in the dish they were cooked in, at tables crowded with dried flowers and mismatched china.
 
 **££££ and it books weeks ahead.** Belgravia. Ask for a corner table; the room is dark enough that it matters.
+
+![Coq au vin in a terracotta dish set on a green-patterned plate, with mashed potato in a floral bowl, a glass of white wine and a wooden pepper mill on the table](../../assets/articles/best-french-restaurants-london/la-poule-au-pot.jpg)
+
+*Coq au vin in the dish it was cooked in, on china that matches nothing else on the table. The room has looked like this since the 1960s and the lighting is genuinely this dim.*
 
 ---
 
@@ -125,6 +141,10 @@ The duck is roasted, carved, and the carcass crushed in a **silver duck press** 
 Bosi holds two stars at Bibendum and the cooking here is in the same register: French technique, British produce, and a tasting menu that takes its time. The view over Wellington Arch and the park is the other half of the ticket.
 
 **££££, closed Sunday and Monday, and it books months ahead.** Ask for a window table when booking; it is the whole point of being on the roof.
+
+![Four small tasting-menu courses on separate white plates and a bowl, each holding a single mouthful, on a white tablecloth](../../assets/articles/best-french-restaurants-london/brooklands.jpg)
+
+*The opening of the tasting menu, one mouthful per plate. This is the register the whole meal stays in, and it is why it takes its time.*
 
 ---
 
@@ -175,6 +195,10 @@ The chicken comes off the spit and is the thing to order; there is a **set menu*
 **Steak frites** is the order and the reason the room exists; oysters, soufflé and the standard brasserie canon around it. The bar runs the length of the room and takes walk-ins when the tables have gone.
 
 **£££, books weeks ahead**, and serving later than most of this guide — useful after a show or a late finish.
+
+![A chicken breast with crisp skin and a slice of stuffed ballotine in a glossy red wine sauce, with mushrooms, glazed shallots, watercress and a quenelle, on a blue-rimmed plate](../../assets/articles/best-french-restaurants-london/64-goodge-street.jpg)
+
+*The brasserie canon done straight — a classical sauce, a blue-rimmed plate and no reinvention anywhere on it.*
 
 ### Maison François, St James's
 
@@ -235,6 +259,10 @@ The pre-theatre menu is the reason most people go, and it is genuinely cheap for
 The upstairs room does a short, changing menu of French and British cooking: offal, whole fish, and the sort of dishes that suit the room. **No music, no mobile phones downstairs**, and the bar is the point as much as the food.
 
 **£££ and the dining room books weeks ahead.** Drink in halves downstairs first; it is the tradition and they will not serve you a pint anyway.
+
+![The upstairs dining room at The French House, red walls hung with framed black-and-white photographs around an ornate silver mirror, with bentwood chairs and white-clothed tables](../../assets/articles/best-french-restaurants-london/the-french-house.jpg)
+
+*The room above the bar: red walls, bentwood chairs, white cloths, and the photographs of everyone who has drunk downstairs since the war.*
 
 ### Galvin La Chapelle, Spitalfields
 

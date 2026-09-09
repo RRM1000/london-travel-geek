@@ -67,15 +67,15 @@
       "source": "https://www.hot-dinners.com/London-restaurants/East-London/doms-subs-sandwich-hackney",
       "recorded": "2026-08-26"
     },
-    "sons and daughters borough": {
-      "name": "Sons + Daughters (Borough Market branch)",
+    "sons and daughters": {
+      "name": "Sons + Daughters",
       "closed": "2026",
-      "detail": "The Borough Market unit is now Camille. The King's Cross site at Coal Drops Yard is still open - this entry retires the BRANCH, not the business.",
+      "detail": "The whole business, not one branch. The Borough Market unit went first and is now Camille; the King's Cross site at Unit 119a, Coal Drops Yard has now gone too. Signals as of 9 September 2026: sonsanddaughters.uk returns a Squarespace expiry page, the older sonsanddaughterslondon.com is in hijackedDomains below, the King's Cross landlord's own tenant directory for Coal Drops Yard no longer lists it anywhere, and Thatsup records the King's Cross site as closed. An earlier version of this entry retired only the Borough branch and said King's Cross was still trading; that was superseded on 9 September 2026 and confirmed by the site owner.",
       "stillRecommendedBy": [
         "mob.co.uk"
       ],
-      "source": "https://www.hot-dinners.com/2024031313066/Gastroblog/Latest-news/sons-and-daughters-reopening-coal-drops-yard-kings-cross",
-      "recorded": "2026-08-26"
+      "source": "https://thatsup.co.uk/london/restaurant/sons-daughters-kings-cross",
+      "recorded": "2026-09-09"
     },
     "hacha": {
       "name": "Hacha",

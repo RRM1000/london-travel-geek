@@ -22,7 +22,7 @@ faq:
   - q: "Where is the best cheese toastie in London?"
     a: "Kappacasein at Borough Market — Montgomery cheddar, Ogleshield, London raclette and comté with onions and leeks in sourdough, £8. Bill Oglethorpe makes the cheese himself in Bermondsey. It trades Thursday to Saturday only, so most visitors miss it."
   - q: "How much should a sandwich cost in London?"
-    a: "It splits three ways. A salt beef beigel is £7.50 and a salt beef sandwich at a deli counter £8 to £10.50. The modern sandwich shops run about £7 to £9 at the cheaper end — Sons + Daughters, Secret Sandwich Shop, the Dusty Knuckle — but the chef-led ones are a different market entirely: Max's is £15.95, the Black Pig £13.50 and the Quo Vadis smoked eel sandwich £18.50. Those are restaurant dishes that happen to be between bread, and they are priced as such."
+    a: "It splits three ways. A salt beef beigel is £7.50 and a salt beef sandwich at a deli counter £8 to £10.50. The modern sandwich shops run about £7 to £9 at the cheaper end — Secret Sandwich Shop and the Dusty Knuckle — but the chef-led ones are a different market entirely: Max's is £15.95, the Black Pig £13.50 and the Quo Vadis smoked eel sandwich £18.50. Those are restaurant dishes that happen to be between bread, and they are priced as such."
   - q: "Which London sandwich shops are open late or 24 hours?"
     a: "Beigel Bake and the Beigel Shop on Brick Lane are both open 24 hours a day, every day, which makes them the answer to eating at 4am. Max's Sandwich Shop runs to 11pm. Almost everything else in this guide is a daytime business, and several close by mid-afternoon."
   - q: "What is a sando?"
@@ -31,7 +31,7 @@ faq:
 
 The sandwich that turns up on more independent London lists than any other is not a modern creation. It is a **salt beef beigel on Brick Lane**, sold at four in the morning from a shop that has not changed its mind about anything since 1974.
 
-The modern shops are worth your time too — but there is a pattern in them worth knowing before you order. Max's, Paul Rothe, Secret Sandwich Shop, Sons + Daughters and the Dusty Knuckle are all most famous for **an egg sandwich**. If you only try one thing from the new wave, that is what to try.
+The modern shops are worth your time too — but there is a pattern in them worth knowing before you order. Max's, Paul Rothe, Secret Sandwich Shop and the Dusty Knuckle are all most famous for **an egg sandwich**. If you only try one thing from the new wave, that is what to try.
 
 > 💡 **The Short Version:** **Beigel Bake** on Brick Lane for salt beef, open 24 hours. **Max's Sandwich Shop** for the Ham, Egg 'n' Chips. **Paul Rothe & Son** has been cutting sandwiches into triangles since 1900. **Kappacasein** does the toastie, three days a week only. And **Quo Vadis** in Soho does the smoked eel sandwich, which is the most famous individual sandwich in the city.
 
@@ -49,7 +49,6 @@ The modern shops are worth your time too — but there is a pattern in them wort
 | **Borough Market** | Kappacasein, The Black Pig |
 | **Farringdon & Clerkenwell** | The Three Compasses, Scotti's Snack Bar, Tongue & Brisket |
 | **The City** | Porterford Butchers |
-| **King's Cross** | Sons + Daughters |
 | **Notting Hill** | Secret Sandwich Shop |
 | **Dalston & Hackney** | The Dusty Knuckle, Bánh |
 | **Stroud Green** | Max's Sandwich Shop |
@@ -156,16 +155,6 @@ The crisps sandwich is still there but it has changed: it is now **Crispy Greens
 ![A sando cut in two in a white takeaway box, crustless white bread around a filling of patty, avocado, tomato and egg, with a branded Kewpie sachet tucked in beside it](../../assets/articles/best-sandwiches-london/secret-sandwich-shop.jpg)
 
 *Crustless milk bread, cut square so the filling reads end to end, and a Kewpie sachet in the box. This is not the egg salad — that is the one to order.*
-
-### Sons + Daughters, King's Cross
-
-*Unit 119a, Coal Drops Yard N1C 4DQ · £7–£12*
-
-From James Ramsden and Sam Herlihy of Pidgin, relaunched in 2024 with a more chef-led menu. The **egg salad** uses Burford Brown eggs with miso mayo, rocket and pea shoots, with **truffle crisps served on the side** rather than blended into the mayo — a distinction worth making because the crisps are half the pleasure.
-
-**The price spread is much wider than usually reported**: the Egg Salad and Mortadella are **£7**, while the Chicken and the Merguez are **£12**. So this is both one of the cheapest and one of the dearer entries here, depending entirely on what you order.
-
-**There is a separate breakfast menu that stops at 11am** — four numbered sandwiches, and they sell out. There is also **S+D Go**, a van on Granary Square, for when the queue inside is long.
 
 ### The Dusty Knuckle, Dalston
 
@@ -393,5 +382,5 @@ A sandwich is a lunch answer. For the rest, our [complete guide to eating in Lon
 ## What to know
 
 * **Check the trading days before you travel.** Kappacasein is Thursday to Saturday. Secret Sandwich Shop opens for four hours. Chatsworth Bakehouse is pre-order only, Mondays at 12:30. Porterford and Regency close at weekends. This category keeps shorter hours than any other kind of food business in London.
-* **The egg sandwich is the tell.** Max's, Paul Rothe, Secret Sandwich Shop, Sons + Daughters and the Dusty Knuckle are each best known for one. If a new sandwich shop is good, its egg sandwich will show it.
+* **The egg sandwich is the tell.** Max's, Paul Rothe, Secret Sandwich Shop and the Dusty Knuckle are each best known for one. If a new sandwich shop is good, its egg sandwich will show it.
 * **Cash is still a thing here.** The beigel shops and several of the caffs are cash-friendly in a way the rest of London stopped being. Carry some.
