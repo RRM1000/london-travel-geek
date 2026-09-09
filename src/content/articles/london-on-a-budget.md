@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Arriva_London_Routemas
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-08-23
-updatedAt: 2026-09-01
+updatedAt: 2026-09-09
 sites: [london]
 canonicalSite: london
 category: "Plan your trip"
@@ -268,10 +268,19 @@ A lot of London's best free things do not exist most of the year. These are wort
 * Diwana, Euston — an all-you-can-eat vegetarian thali, and **bring your own wine**
 
 **Tips that actually save money**
-* **Markets beat restaurants.** Seven Dials, Borough and Old Spitalfields are all in the sightseeing core.
-* **Set lunches** at good restaurants are often half the evening price for the same kitchen.
+* **Markets beat restaurants.** Seven Dials, Borough and Old Spitalfields are all in the sightseeing core, and our [markets guide](/articles/best-london-markets/) covers which trade on which days. [Street food](/articles/best-street-food-london/), [sandwiches](/articles/best-sandwiches-london/) and [bakeries](/articles/best-bakeries-london/) are where the cheap eating actually is.
+* **Set lunches** at good restaurants are often half the evening price for the same kitchen — we have checked the [fixed-price menus across London](/articles/restaurant-deals-london/), set lunch and pre-theatre, from £12.50 up to Michelin-starred.
 * **Counters add no service charge.** The discretionary 12.5% applies at table service only.
 * **Tap water must be provided free** by any licensed premises. Ask.
+
+**Paying less at a restaurant you actually want to eat at**
+
+This is the part most budget guides skip, because it takes reading the small print rather than listing cheap places. Four routes, and they suit different trips:
+
+* **[Set lunch and pre-theatre menus](/articles/restaurant-deals-london/)** — the same kitchen at half the evening price, with the days and times each one runs. The biggest saving available at a good London restaurant, and it needs no app, card or subscription.
+* **[Off-peak booking apps](/articles/off-peak-restaurant-apps-london/)** — First Table, EatClub and the rest, tested against their own terms. Worth knowing what the advertised 50% actually covers, and what the booking fee really is, before you rely on one.
+* **[Discount cards](/articles/restaurant-discount-cards-london/)** — Tastecard, Gourmet Society, Meerkat Meals and NeoTaste, compared on how many restaurants genuinely take each one in W1 and WC2 rather than on the headline count.
+* **[Kids eat free](/articles/kids-eat-free-london/)** — every offer with a London branch, read off the operator's own site, with the adult spend you have to make and the age limits that catch people out.
 
 ---
 
@@ -282,6 +291,8 @@ A lot of London's best free things do not exist most of the year. These are wort
 * **Walk.** Covent Garden to Soho is five minutes; Westminster to the South Bank is ten. The Tube map is not to scale and it makes London look far bigger than it is.
 * **Under-11s travel free** with a fare-paying adult.
 * **Avoid Zone 1 in the morning peak** if your ticket allows — off-peak fares are materially cheaper.
+* **A bike is often faster than the Tube** for short central hops, and cheaper — see [cycling, bike hire and scooters](/articles/cycling-bike-hire-scooters-london/) for what each scheme actually costs.
+* **Think twice about a tour bus.** We have [compared them](/articles/london-tour-buses-compared/), and for most people a day bus cap plus a walk does the same job for a fraction of the price.
 
 ---
 
@@ -289,7 +300,9 @@ A lot of London's best free things do not exist most of the year. These are wort
 
 ## The cheapest bed in Zone 1
 
-Accommodation is the line that breaks most London budgets, and the one genuinely cheap option in the middle of town is a capsule — about £33 a night at Piccadilly Circus on a quiet date, which is hostel-dorm money for a berth of your own. Our [pod hotels guide](/articles/pod-hotels-london/) explains the trap: the same brand sells windowless private *rooms* under a nearly identical name at three to four times the price.
+Accommodation is the line that breaks most London budgets, and the one genuinely cheap option in the middle of town is a capsule — about £33 a night at Piccadilly Circus on a quiet date, which is hostel-dorm money for a berth of your own. Our [pod hotels guide](/articles/pod-hotels-london/) explains the trap: the same brand sells windowless private *rooms* under a nearly identical name at three to four times the price. If you are considering one of those, the [windowless rooms guide](/articles/windowless-hotel-rooms-london/) is the honest account of what they are like to sleep in.
+
+**The area matters more than the hotel.** [Best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the city by what the trip is for and covers the thing that quietly decides the budget — whether there is a train home at one in the morning, or a taxi. For a stay of more than a few nights, an [aparthotel](/articles/aparthotels-london/) with a kitchen usually beats a hotel room on total cost, and if you only need somewhere between a late flight and a check-in, [day rooms](/articles/day-rooms-london/) are cheaper than a wasted night.
 
 ## Where the money actually goes
 
@@ -303,12 +316,17 @@ Everything else — the museums, the parks, the views, the walking, the markets 
 
 If you do decide to pay for one or two attractions, it is worth comparing ticket prices before you queue at the door — several come cheaper booked ahead than bought on the day.
 
+**The two schemes worth understanding first.** [National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/) gets two people in for the price of one at a long list of attractions, and the catch is the one most people fall into: **Oyster and contactless do not qualify**, so you need the right kind of ticket before you travel. And the [London Pass](/articles/london-pass-guide/) is worth it for some itineraries and not others — we have done the arithmetic rather than the marketing.
+
+For an evening out, [cinema deals and memberships](/articles/cinema-deals-london/) are compared across Cineworld, Odeon, Picturehouse, Curzon and the independents, and the [theatre guide](/articles/london-theatre-guide/) covers day seats and returns, which is how you see a West End show for a fraction of the advertised price.
+
 ---
 
 ## Continue planning your London trip
 
 
-- 🛍️ **[Shopping in London](/articles/shopping-in-london/)** — including why you cannot claim the VAT back- 🎪 **[Free Things to Do in London](/free/)**
+- 🛍️ **[Shopping in London](/articles/shopping-in-london/)** — and [tax-free shopping](/articles/tax-free-shopping-london/), including why you cannot claim the VAT back
+- 🎪 **[Free Things to Do in London](/free/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 👀 **[The Best Views in London](/articles/best-views-london/)**
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
@@ -317,3 +335,13 @@ If you do decide to pay for one or two attractions, it is worth comparing ticket
 - 🎟️ **[Is the London Pass Worth It?](/articles/london-pass-guide/)** — the arithmetic, done properly
 - 🚇 **[Oyster Card Guide](/articles/oyster-card-guide-london/)**
 - 💳 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
+- 🍽️ **[London Restaurant Deals](/articles/restaurant-deals-london/)** — set lunch and pre-theatre, with the real prices
+- 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — what the 50% actually covers
+- 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard vs the rest, tested
+- 👶 **[Kids Eat Free in London](/articles/kids-eat-free-london/)** — every offer, with the terms
+- 🎬 **[Cinema Deals in London](/articles/cinema-deals-london/)**
+- 🚂 **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — why contactless does not qualify
+- 🌳 **[The Best Parks and Gardens](/articles/best-parks-gardens-london/)** — free, and most of the good ones are
+- 🖼️ **[The Best Galleries in London](/articles/best-galleries-london/)** — the permanent collections cost nothing
+- 🚶 **[Thames Walks](/articles/london-walks-along-the-thames/)** and [canal walks](/articles/best-canal-walks-london/)
+- ☔ **[London in the Rain](/articles/london-in-the-rain/)** — the cheapest wet-day plan is usually the best one
