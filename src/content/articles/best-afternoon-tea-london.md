@@ -124,6 +124,10 @@ Savouries are properly British and properly specific: **Suffolk cured ham with p
 
 **£84 a head** with a pot of Fortnum's tea, and refills of both the stand and the pot come without asking. Come here if you care about the leaf; come to a hotel if you care about the room.
 
+![A tiered stand in the Fortnum's tea salon holding pastries, plain and fruit scones and finger sandwiches, with white teapots in front and green chairs behind](../../assets/articles/best-afternoon-tea-london/fortnum-and-mason.webp)
+
+*Both the stand and the pot are refilled without asking, which no hotel on this page does. The salon is on the fourth floor of the shop.*
+
 ---
 
 ## The grand hotels
@@ -138,6 +142,10 @@ The stand opens with a glass of Veuve Clicquot poured tableside. Sandwiches run 
 
 There are no fixed sittings, which is unusual at this level: tea runs continuously through the afternoon, so it is one of the more forgiving grand hotels to get into if your plans move.
 
+![A tiered stand of finger sandwiches and pastries on floral china, with champagne flutes and a pink and gold table setting](../../assets/articles/best-afternoon-tea-london/the-dorchester.jpg)
+
+*The stand opens with a glass poured tableside. Tea runs continuously rather than in sittings, which is what makes this one of the easier grand hotels to get into.*
+
 ### The Savoy, Covent Garden
 
 *££££ · the Thames Foyer · Cited by 3 sources*
@@ -147,6 +155,10 @@ London's first purpose-built luxury hotel, and the tea is now taken in **The Gal
 A procession of finger sandwiches, the hotel's **signature scones**, and sweets brought in waves rather than all at once. The tea list runs to **over thirty leaves**, which is among the longest in London.
 
 Served daily from noon to 6.45pm, with a separate **Twilight Tea from 6pm to 9.30pm** for anyone who would rather have it as an evening. Dress elegantly; there is no jacket-and-tie rule.
+
+![A tiered stand of scones and pastries on a white cloth against a red banquette, with champagne and ornate china](../../assets/articles/best-afternoon-tea-london/the-savoy.jpg)
+
+*The sweets arrive in waves rather than all at once, and the tea list runs past thirty leaves — among the longest in London.*
 
 ### The Lanesborough, Knightsbridge
 
@@ -158,6 +170,10 @@ The stand is built by head pastry chef **Jolan Thiry** and currently runs as a *
 
 **£92 a head, £102 with a cocktail, £110 with Laurent-Perrier La Cuvée.** Hyde Park Corner is the tube; the room is quietest at the earliest sitting.
 
+![The Céleste dining room under its glass dome, Wedgwood blue and white plasterwork, chandeliers and palms above a blue patterned carpet](../../assets/articles/best-afternoon-tea-london/the-lanesborough.jpg)
+
+*Daylight rather than chandeliers, which is what sets this room apart from the rest of the grand hotels. Ask for the earliest sitting if you want it this quiet.*
+
 ### Corinthia London, Westminster
 
 *££££ · a tea master · Cited by 2 sources*
@@ -167,6 +183,10 @@ The **Crystal Moon Lounge**, under a Baccarat crystal chandelier with a Steinway
 The distinguishing feature is the **tea master**, who weighs and infuses each blend to order rather than dropping in a bag: a curated leaf list, then delicate finger sandwiches, warm scones and pastries built to the season.
 
 **£75 Monday to Thursday, £85 Friday to Sunday** — the clearest weekday saving of any hotel on this list.
+
+![Warm scones with pots of jam, curd and clotted cream on a marble table, beside a silver teapot and a cup of green tea](../../assets/articles/best-afternoon-tea-london/corinthia-london.jpg)
+
+*The tea is weighed and infused to order by the tea master rather than dropped in a bag, which is the reason to choose this one.*
 
 ### Mandarin Oriental Hyde Park, Knightsbridge
 
@@ -180,8 +200,9 @@ Finger sandwiches, then **scones with Devonshire clotted cream** and an unusuall
 
 **From around £85–£89 a head.** Knightsbridge tube is two minutes; ask for a table on the park side when booking.
 
-![The red brick and terracotta facade of the Mandarin Oriental on Knightsbridge](../../assets/articles/best-afternoon-tea-london/mandarin-oriental-hyde-park.jpg)
-*The tea room looks over Hyde Park, which is worth the surcharge over the ones that look at a lobby. Photo: [ell brown](https://www.flickr.com/photos/39415781@N06/20826604740), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+![A tiered stand of pastries on gold-rimmed china in the Rosebery Lounge, with a gold teapot and green velvet chairs behind](../../assets/articles/best-afternoon-tea-london/rosebery-lounge.jpg)
+
+*The pastry course in the Rosebery Lounge, which is curated rather than standardised and changes through the year. The room behind it looks over Hyde Park.*
 
 ---
 
@@ -211,6 +232,10 @@ Taken in the **Mirror Room** of a Belle Époque building off High Holborn — mi
 The savoury course is unusually ambitious for a tea: **camembert custard tart with pear chutney**, a lobster and prawn profiterole, and **King’s imperial caviar on brioche**. Then freshly baked scones with English strawberry jam, clotted cream and homemade lemon curd.
 
 **From £80.** Runs as an Art Afternoon Tea, with the pastry course themed to a current exhibition and changed through the year.
+
+![Three brightly coloured art-inspired cakes in a glass display case on a black stand, with champagne being poured against a yellow leather banquette](../../assets/articles/best-afternoon-tea-london/rosewood-london.jpg)
+
+*The Art Afternoon Tea, with the pastry course built to a current exhibition. It is served in a case rather than on a stand, which is the joke.*
 
 ### Jumeirah Carlton Tower, Knightsbridge
 
@@ -280,6 +305,10 @@ Finger sandwiches, cakes, and **fruit scones with homemade jam and clotted cream
 
 **£46.50 for afternoon tea, £19.50 for a cream tea**, champagne £13 a glass. Roughly half the Mayfair hotels, and it takes walk-ins more readily than any of them.
 
+![A tiered stand under a silver cloche holding battenberg, cheesecake and finger sandwiches, in the Wolseley's vaulted room with the clock behind](../../assets/articles/best-afternoon-tea-london/the-wolseley.jpg)
+
+*Less elaborate than the hotels and deliberately so. The room is the point, and at £46.50 it is roughly half what Mayfair charges.*
+
 ### The Connaught, Mayfair
 
 *£££ · 8 min from Bond Street · Cited by 1 source*
@@ -289,6 +318,10 @@ The quietest of the Mayfair grand teas, and the one whose kitchen takes the most
 English scones with **Cornish clotted cream and homemade strawberry jam**, then a pâtisserie run that changes constantly — hazelnut praliné rocher, matcha choux with cherry jam, a strawberry tart. The signature is the **Connaughty**, a sablé biscuit layered with jam and built as a straight homage to the jammy dodger.
 
 Exotic teas or champagne alongside. Smaller and calmer than Claridge's or The Ritz, which makes it the pick if you actually want to hear the person opposite you.
+
+![A tiered stand of pastries beside a silver basket of scones and pots of jam and cream on a dark marble table, with a horse-shaped biscuit on the top tier](../../assets/articles/best-afternoon-tea-london/the-connaught.jpg)
+
+*The pâtisserie run changes constantly and the kitchen takes more liberties than the rest of Mayfair. Scones come in a basket rather than on the stand.*
 
 ### The Stafford, Piccadilly
 
@@ -309,6 +342,10 @@ The **last family-owned grand hotel in London**, run by the Goring family since 
 Delicate pastries, **freshly baked scones**, and finger sandwiches cut with the precision the format is supposed to have, alongside a tea list sourced widely rather than blended in-house. Taken in the Front of House lounge or, in summer, on the garden terrace — a genuine private garden, which almost no central London hotel has.
 
 **From £85, or £90 with Bollinger.** Belgravia rather than Mayfair, so it books a little less far ahead than the Piccadilly names.
+
+![A tiered stand of finger sandwiches, scones and pastries on striped china in a bright white dining room, with a silver teapot alongside](../../assets/articles/best-afternoon-tea-london/the-goring.jpg)
+
+*Sandwiches cut with the precision the format is supposed to have, in the last family-owned grand hotel in London.*
 
 ### The Milestone, Kensington
 
