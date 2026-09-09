@@ -326,6 +326,8 @@ Walked in reverse — Somerset House to Leicester Square — it works, but it pu
 
 ## What to do with the rest of the day
 
+- **[Where to stay in Covent Garden](/articles/where-to-stay-covent-garden/)** — if you want to be inside this route rather than travelling to it.
+
 - **[The Covent Garden area guide](/articles/covent-garden-area-guide/)** — the theatres, pre-theatre dinner, where to stay and the mistakes to avoid.
 - **[The South Bank walk](/articles/south-bank-walk/)** — cross Waterloo Bridge from Somerset House and pick it up at the halfway point.
 - **[The London theatre guide](/articles/london-theatre-guide/)** — how the West End, off-West End and fringe differ, and how day seats actually work.

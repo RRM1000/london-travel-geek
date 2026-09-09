@@ -300,6 +300,8 @@ For the full picture at either end, the area guides cover it: [Canary Wharf](/ar
 
 ## What to do with the rest of the day
 
+- **[The South Bank walk](/articles/south-bank-walk/)** — the other river route, on the opposite bank and eleven stops of its own.
+
 - **[The Greenwich area guide](/articles/greenwich-area-guide/)** — the O2, North Greenwich, the river boats and where to stay.
 - **[The Canary Wharf area guide](/articles/canary-wharf-area-guide/)** — the swimming, Eden Dock, Winter Lights and the rest of the estate.
 - **[Walks along the Thames](/articles/london-walks-along-the-thames/)** — six more river stretches, including Rotherhithe to Greenwich, which arrives at stop seven from the other direction.

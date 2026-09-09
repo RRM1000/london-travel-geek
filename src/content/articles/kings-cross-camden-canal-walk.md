@@ -263,6 +263,8 @@ Walked in reverse it still works, and Camden to King's Cross is the version most
 
 ## What to do with the rest of the day
 
+- **[Where to stay in King's Cross](/articles/where-to-stay-kings-cross/)** — the walk starts on its doorstep, and it is the best-connected place to sleep in London.
+
 - **[The King's Cross area guide](/articles/kings-cross-area-guide/)** — the British Library, Platform 9¾, Keystone Crescent and where to stay.
 - **[The Camden area guide](/articles/camden-area-guide/)** — which of the five markets is which, the boat trips, and Primrose Hill.
 - **[The best canal walks in London](/articles/best-canal-walks-london/)** — the other four sections of the Regent's Canal, including the two tunnels with no towpath.
