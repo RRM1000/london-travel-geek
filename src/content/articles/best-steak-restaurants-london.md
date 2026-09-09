@@ -103,6 +103,10 @@ The proposition is comparison: **Japanese A5 wagyu, USDA prime and British nativ
 
 **££££ and it books weeks ahead.** The most expensive steak in this guide by a distance, and the only place to do that comparison in one sitting.
 
+![A sliced steak at CUT, dark and heavily crusted at the edge with a red centre, fanned across a white plate with a sprig of thyme and a dark sauce](../../assets/articles/best-steak-restaurants-london/cut-45-park-lane.jpg)
+
+*Sliced before it reaches you, which is how the comparison is meant to work — the crust comes off the hardwood broiler and the colour inside is what you are paying to tell apart.*
+
 ### The Guinea Grill, Mayfair
 
 *££££ · 7 min from Green Park · Cited by 6 sources · #99, World's 101 Best Steak Restaurants*
@@ -113,17 +117,25 @@ Beef is dry-aged in-house and grilled plainly, and the **steak and kidney pie** 
 
 **£££, and book for the grill room** — the pub at the front takes walk-ins and is a different, cheaper experience.
 
+![A large bone-in T-bone steak, charred from the grill bars, filling a white plate beside a pile of watercress, with silver cutlery and a dish of chips on a white tablecloth](../../assets/articles/best-steak-restaurants-london/the-guinea-grill.jpg)
+
+*Grilled plainly and sent out on a white cloth with silver cutlery, which is roughly how the room has done it since 1952. Nothing on the plate is trying to be current.*
+
 ### Blacklock, Soho
 
 *££ · chops and steaks · Cited by 6 sources*
 
-Cooked over coals in a Soho basement, at prices well under the steakhouse average. The name says chops, but **the menu runs both** — skinny lamb and pork chops flattened under vintage Blacklock irons, and a proper steak list of Denver, bavette, rump cap, sirloin, sixth rib-eye and fillet at £16–24, dry-aged up to 55 days.
+Cooked over coals in a Soho basement, at prices well under the steakhouse average. The name says chops, but **the menu runs both** — skinny lamb and pork chops flattened under vintage Blacklock irons, and a proper steak list of Denver, bavette, rump cap, sirloin, sixth rib-eye and fillet at £16–25, dry-aged up to 55 days. The bigger bone-in cuts — porterhouse, prime rib, bone-in sirloin — sit apart from that list as Butcher's Cuts, sold by weight at around £10–11 per 100g.
 
 **The All In is the order** if there are two or more of you: pre-chop bites, then beef, pork and lamb piled onto charcoal-grilled flatbreads with a side each, for £28 a head. MORE FALLOW's chefs called the Canary Wharf site probably the best steakhouse in the UK.
 
 The Sunday roast here is one of the best in London.
 
 **Book:** [Reserve a table](https://theblacklock.com/restaurants/blacklock-soho/)
+
+![A sliced bone-in T-bone on a white oval plate in a dark room, beside a copper cup of thick-cut chips and a small metal pot of béarnaise](../../assets/articles/best-steak-restaurants-london/blacklock-steak.jpg)
+
+*A bone-in cut, which means this one is off the by-weight Butcher's Cuts rather than the £16–25 list. Chips in a copper cup and a pot of béarnaise are the standard accompaniment.*
 
 ### The Quality Chop House, Clerkenwell
 
@@ -134,6 +146,10 @@ The Sunday roast here is one of the best in London.
 The beef is properly sourced and simply cooked, but the dish that made the room famous is a side: **confit potatoes**, thin-sliced, pressed into a block, confited and fried so the layers separate. Order them regardless of what else you have.
 
 **£££ and it books weeks ahead.** Farringdon. The butcher's shop next door sells the same beef to take home.
+
+![Slices of rare beef resting in a pool of dark jus on a white plate with a gold-patterned rim](../../assets/articles/best-steak-restaurants-london/quality-chop-house.jpg)
+
+*Sourced carefully and then left alone — sliced, rested and served in its own juices on the old china. The confit potatoes are ordered separately and are the thing people actually queue for.*
 
 ### Goodman, Mayfair
 
@@ -172,6 +188,10 @@ Rare-breed Longhorn and Hereford, and **44-day-aged prime rib carved at your tab
 *££££ · 4 min from Embankment · Cited by 3 sources*
 
 The New York institution's London site, on the Adelphi building by the river. USDA Prime, dry-aged in house, and a room built at a scale nothing else here attempts.
+
+![Slices of rare steak with watercress and a smear of béarnaise, on a white plate printed with the Smith & Wollensky crest on the rim](../../assets/articles/best-steak-restaurants-london/smith-and-wollensky.jpg)
+
+*USDA Prime, dry-aged in the building and served on the house china. The crest on the rim is the New York original's, carried over intact.*
 
 ### Basque asador
 
@@ -216,6 +236,10 @@ Tomos Parry cooking over wood in a first-floor room above a Shoreditch pub. Basq
 *£££ · 5 min from South Kensington · Cited by 2 sources*
 
 **A butcher's counter that became a restaurant** — Piedmontese Fassona beef hung in the window and cut to order in front of you. Fassona is lean and low-fat, usually served rare or raw; the **carne cruda** is the dish that explains the place.
+
+![A disc of raw chopped Fassona beef on a black slate board, with rocket and two tomato wedges beside it](../../assets/articles/best-steak-restaurants-london/macellaio-carne-cruda.jpg)
+
+*The carne cruda, which is the argument for the whole place: beef lean enough to be worth eating raw, chopped and pressed into a disc with almost nothing done to it.*
 
 #### The Devonshire, Soho
 
