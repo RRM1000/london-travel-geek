@@ -17,7 +17,7 @@ faq:
   - q: "Why is Soho short of ordinary mid-priced hotels?"
     a: "Because the buildings will not allow it. Soho's plots are small, its leases are expensive and almost everything at street level is worth more as a bar or a restaurant than as a hotel lobby. What fits is either a very small luxury hotel of fifty to a hundred rooms, or a windowless format that packs hundreds of rooms into a space with no external walls to spare. The ordinary double with a window tends to be five minutes out — Fitzrovia to the north, Covent Garden to the east — where the buildings are bigger and the ground floors are worth less."
   - q: "Are the windowless Zedwell rooms in Soho actually any good?"
-    a: "They are a real hotel room with your own door and an en-suite rainfall shower, at 7 sq m for one person, and reviewers split hard on them. What almost nobody flags before booking: the rooms are cleaned every four days rather than daily, there is no kettle, no television and no breakfast, and a hairdryer or iron delivered to the room costs £10. Book one night before you book four."
+    a: "They are a real hotel room with your own door and an en-suite rainfall shower, at 7 sq m for one person, and reviewers split hard on them. What is easy to miss before booking: the rooms are cleaned every four days rather than daily, there is no kettle, no television and no breakfast, and a hairdryer or iron delivered to the room costs £10. Book one night before you book four."
   - q: "Where is the cheapest place to stay in the West End?"
     a: "A capsule at Zedwell Capsule Piccadilly Circus, which ran £33 to £68 a night across five sampled dates, one minute from the Tube. For a private room, Zedwell Tottenham Court Road started at £81 and undercut the Piccadilly flagship on every date we checked. For a room with a window, the Z Hotel Covent Garden publishes £100 for a Z Double, against £80 for the same room without one."
   - q: "Is Soho noisy at night?"
@@ -84,7 +84,7 @@ Sold as **"nests"**, upper and lower, in singles and doubles, and the double gen
 
 *£70 windowless, £100 with a window · 113 rooms · 31–33 Bedford Street, WC2E 9ED · Breakfast and evening cheese and wine · [check prices](hotel:z-hotel-covent-garden)*
 
-A hundred and thirteen compact rooms on Bedford Street, three minutes from both Charing Cross and Leicester Square, with free cheese and wine in the lounge every evening. Z publishes its grades with sizes, which almost nobody in this price band does, and the list is the reason to book here.
+A hundred and thirteen compact rooms on Bedford Street, three minutes from both Charing Cross and Leicester Square, with free cheese and wine in the lounge every evening. Z publishes the floor area of every grade, which few hotels at this price do, so read the list before picking one.
 
 **The window costs £20, and that is the whole decision.** A Z Inside Single is 8 sq m at £70 with **no window at all**; an Inside Double is 9 sq m at £80; a Z Double is the same 9 sq m at £100 and has one. A Z Queen is 11 sq m at £105, and a Z Family is 12 sq m sleeping four at £155.
 

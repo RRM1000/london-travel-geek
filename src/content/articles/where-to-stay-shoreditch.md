@@ -86,7 +86,7 @@ Rooms vary a lot for one hotel — whitewashed walls, tapestry hangings and pine
 
 *About £220 · Thirty-seven rooms · Cecconi's downstairs*
 
-Soho House quality without needing to be a member, which is the entire point: **Shoreditch House is round the corner and you cannot get in.** Thirty-seven rooms in a 1970s interior with Cowshed products and a ground-floor Cecconi's.
+Soho House quality without needing to be a member — **Shoreditch House is round the corner and members only**. Thirty-seven rooms in a 1970s interior with Cowshed products and a ground-floor Cecconi's.
 
 Small and quiet for the area, and the closest thing here to a hotel that does not want to be a scene. **Cecconi's on the ground floor is open to non-residents**, which is worth knowing both ways round: you can eat there without staying, and the restaurant is busy enough on a Friday that the lobby is not a quiet place to arrive into.
 
