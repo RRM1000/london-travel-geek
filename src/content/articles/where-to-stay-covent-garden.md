@@ -3,6 +3,7 @@ title: "Where to Stay in Covent Garden — and What the Premium Actually Buys"
 seoTitle: "Where to Stay in Covent Garden 2026: Hotels, Prices and Cheaper Options"
 description: "The identical hotel room is £100 in Covent Garden and £70 ten minutes east in Holborn. Six hotels compared, the windowless rooms nobody flags, and where to stay instead."
 publishedAt: 2026-09-08
+updatedAt: 2026-09-09
 sites: [london]
 canonicalSite: london
 category: "Plan your trip"
@@ -29,7 +30,7 @@ Z Hotels runs eleven addresses in and around the West End and publishes a from-r
 
 So the premium is real, it runs at roughly 40%, and what it buys is the walk home. Whether that is worth it depends entirely on your evenings — and if the answer is theatre, it genuinely is, because more than twenty West End houses sit inside a ten-minute walk of the piazza and nowhere else in London comes close.
 
-What Covent Garden does not sell is the middle. Below £200 you are choosing between compact-room formats at 8 to 13 square metres; above it, the next stop is £450. The ordinary £250 double with a window and a wardrobe is not here, for exactly the reason it is not in Soho — small plots, and ground floors worth more as restaurants than as lobbies.
+What Covent Garden sells cheaply is the compact-room format — 8 to 13 square metres, and some of those rooms have no window at all. What it sells expensively is very expensive indeed. That is the same building constraint as Soho: small plots, and ground floors worth more as restaurants than as hotel lobbies. If what you want is an ordinary double with a window and somewhere to hang a coat, it is worth pricing Holborn or Bloomsbury ten minutes out before you commit to the postcode.
 
 > 💡 **The Short Version:** **[Strand Palace](hotel:strand-palace)** is the sane answer at about £140 — 785 rooms, so it still has stock when everything else has sold out. **[The Z Hotel Covent Garden](hotel:z-hotel-covent-garden)** has the cheapest bed in the area at £70, but that grade has **no window at all**, and the first room here with one is £100. **hub by Premier Inn** on St Martin's Lane is about £95 for 11 square metres, and it has windowless rooms too. **The Savoy** and **The Londoner** stand a few hundred metres from both, at £700 and £450. And if the premium irritates you, **Holborn is ten minutes east and £30 a night cheaper for the identical room.**
 
@@ -137,7 +138,7 @@ What you give up is the piazza on the doorstep and a two-minute walk from the th
 
 Waterloo Bridge is ten minutes from the piazza on foot and the view from the middle of it is the best free thing in central London. That is the real argument for staying south: you are not saving a fortune, you are swapping a nightly premium for a walk home along the river rather than through Leicester Square.
 
-### The rest of the West End — where the middle actually exists
+### The rest of the West End
 
 Ten minutes north of the piazza the market changes completely, and it is covered properly in our [Soho and West End guide](/articles/where-to-stay-soho-west-end/) rather than repeated here. Three things from it are worth knowing while you are pricing Covent Garden.
 

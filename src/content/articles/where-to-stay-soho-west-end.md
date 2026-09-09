@@ -1,10 +1,11 @@
 ---
-title: "Where to Stay in Soho and the West End — and the Missing Middle"
+title: "Where to Stay in Soho and the West End"
 seoTitle: "Where to Stay in Soho & the West End 2026: Hotels and Prices"
-description: "Soho has nothing between a £287 windowless room and a £450 suite. Nine West End hotels compared, plus four areas five minutes out where the middle actually exists."
+description: "Nine West End hotels compared — including the windowless rooms that make Piccadilly Circus cheaper than its reputation — plus four quieter areas five minutes out."
 heroImage: "../../assets/articles/where-to-stay-soho-west-end/the-devonshire-soho.jpg"
 heroImageAlt: "The Devonshire on the corner of Denman Street in Soho: a red-brick Victorian pub with dark green tiling and gold lettering reading 'Ales, stouts, wines and spirits, Soho since 1793', ivy along the ground floor and a planted roof terrace above, with a modern glass office building rising behind it"
 publishedAt: 2026-09-08
+updatedAt: 2026-09-09
 sites: [london]
 canonicalSite: london
 category: "Plan your trip"
@@ -12,9 +13,9 @@ tags: [where to stay, hotels, Soho, West End, planning]
 draft: false
 faq:
   - q: "Is it worth staying in Soho or the West End?"
-    a: "It is worth it if your trip is theatre, restaurants and late nights, because you can walk home from all three. It is poor value if you are doing the museums, the parks and Westminster, and it is the wrong choice if you want a quiet room. Soho's real problem is not the price at the top, it is that the area sells almost nothing in the middle: the cheap rooms are windowless and the next rung up is about £450."
-  - q: "Why are there no mid-priced hotels in Soho?"
-    a: "Because the buildings will not allow it. Soho's plots are small, its leases are expensive and almost everything at street level is worth more as a bar or a restaurant than as a hotel lobby. What fits is either a very small luxury hotel of fifty to a hundred rooms, or a windowless format that packs hundreds of rooms into a space with no external walls to spare. In Soho itself, the gap between the dearest Zedwell night we sampled (£287) and the entry rate at Broadwick Soho (about £450) has nothing in it at all."
+    a: "It is worth it if your trip is theatre, restaurants and late nights, because you can walk home from all three. It is poor value if you are doing the museums, the parks and Westminster, and it is the wrong choice if you want a quiet room. Worth knowing before you book that a lot of what Soho sells cheaply is windowless, and that the quieter, more conventional rooms are five minutes north in Fitzrovia or east in Covent Garden."
+  - q: "Why is Soho short of ordinary mid-priced hotels?"
+    a: "Because the buildings will not allow it. Soho's plots are small, its leases are expensive and almost everything at street level is worth more as a bar or a restaurant than as a hotel lobby. What fits is either a very small luxury hotel of fifty to a hundred rooms, or a windowless format that packs hundreds of rooms into a space with no external walls to spare. The ordinary double with a window tends to be five minutes out — Fitzrovia to the north, Covent Garden to the east — where the buildings are bigger and the ground floors are worth less."
   - q: "Are the windowless Zedwell rooms in Soho actually any good?"
     a: "They are a real hotel room with your own door and an en-suite rainfall shower, at 7 sq m for one person, and reviewers split hard on them. What almost nobody flags before booking: the rooms are cleaned every four days rather than daily, there is no kettle, no television and no breakfast, and a hairdryer or iron delivered to the room costs £10. Book one night before you book four."
   - q: "Where is the cheapest place to stay in the West End?"
@@ -25,9 +26,9 @@ faq:
     a: "Tottenham Court Road, because it is the only one that puts you on the Elizabeth line as well as the Central and Northern — Heathrow direct, Bond Street in three minutes. Piccadilly Circus is the Piccadilly and Bakerloo lines only. Avoid planning around Covent Garden station: it has lifts and a spiral staircase rather than escalators and it is the slowest way in and out of the area at a weekend. Leicester Square is a four-minute walk from the piazza and much faster."
 ---
 
-Almost everyone planning a first trip to London assumes they should stay in the West End, and almost nobody checks what the West End actually sells. It is not a normal hotel market. **In Soho itself there is nothing between about £287 and about £450 a night** — the dearest Zedwell room we sampled and the cheapest night at Broadwick Soho, with an empty shelf in between.
+Soho is not built for hotels, and that shapes what you can book there.
 
-That gap is the whole story of this guide. Soho's plots are small and its ground floors are worth more as restaurants than as lobbies, so what gets built is either a fifty-room luxury hotel or a windowless format that stacks hundreds of rooms into a building with no external walls to spare. The ordinary £200 double with a window, the thing most visitors are actually looking for, is **not in Soho**. It is five minutes north in Fitzrovia, or east in Covent Garden.
+The plots are small, the leases are expensive, and a ground floor is worth more as a restaurant than as a hotel lobby. So the two formats that fit are the small luxury hotel of fifty to a hundred rooms, and the windowless format that stacks hundreds of rooms into a building with no external walls to spare. If you want an ordinary double with a window, look at Fitzrovia five minutes north or Covent Garden to the east, where the buildings allow it.
 
 The windowless part is the surprise, and it is the reason the West End is cheaper than its reputation. A private room one minute from Piccadilly Circus starts at £97 and a capsule berth at £33, which is Zone 3 money for a Zone 1 address. What you give up is daylight, and people react to that far more strongly than they expect.
 
@@ -43,7 +44,7 @@ The windowless part is the surprise, and it is the reason the West End is cheape
 
 **Covent Garden and the Strand** is tourist-heavy by day and considerably calmer than Soho by night, because the crowds are theatre crowds and they go home. This is where the mid-priced rooms are, and where you should look if you have children.
 
-**Fitzrovia**, north of Oxford Street, is the answer to the missing middle. Charlotte Street has the densest run of restaurants in central London, it is a five-minute walk to Soho Square, and it sells rooms at £150, £280 and £400 — the three prices Soho does not have.
+**Fitzrovia**, north of Oxford Street, is where to look for a conventional room. Charlotte Street has the densest run of restaurants in central London, it is a five-minute walk to Soho Square, and the buildings are big enough to hold ordinary hotels with ordinary windows.
 
 **There is no station called the West End**, and the one you want is **Tottenham Court Road**: Elizabeth line, Central and Northern, Heathrow without a change. Covent Garden station is the trap. It runs on lifts and a spiral staircase rather than escalators, and at a weekend Leicester Square, four minutes' walk away, will be quicker in both directions.
 
