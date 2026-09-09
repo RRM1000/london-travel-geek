@@ -22,6 +22,10 @@ area:
   timeNeeded: "Half a day, or a full day with the Abbey and War Rooms"
   budget: "££"
   bestDay: "Weekday mornings; the Abbey is closed to sightseers on Sundays"
+  walkingRoute:
+    slug: "westminster-walk"
+    label: "Westminster Bridge to Trafalgar Square"
+    detail: "11 stops · 4km · 2–3 hours"
   bestFor:
     - Landmark photography
     - Royal and political history
@@ -84,14 +88,14 @@ Westminster has its own share of the commemorative plaques marking where notable
 
 ## Top sights and activities
 
-1. **The Elizabeth Tower and Palace of Westminster** — Best photographed from the far side of Westminster Bridge. UK residents can book a tower climb; everyone can tour Parliament on Saturdays and during recess.
+1. **The Elizabeth Tower and Palace of Westminster** — Best photographed from the far side of Westminster Bridge. The **Big Ben tower climb is open to everyone at £55** (age 11+, 300-plus steps); it is the **free** guided tour that is UK residents only, booked through an MP. Paid guided and audio tours are open to all.
 2. **Westminster Abbey** — Nearly a thousand years of coronations, royal tombs and Poets' Corner. Closed to sightseers on Sundays. Allow two hours, and take the included audio guide.
 
 ![Westminster Abbey's twin west towers rising above a red London bus in the foreground](../../assets/articles/westminster-area-guide/westminster-abbey-towers.jpg)
 
 *The Abbey's west towers, added in the 1740s - centuries after the rest of the building.*
 3. **Churchill War Rooms** — The underground bunker left largely as it was in 1945, with the map room untouched. Book timed entry well ahead.
-4. **Changing the Guard** — At Buckingham Palace at 11:00 on selected days. **Horse Guards** on Whitehall is smaller and far less crowded, but only runs the full mounted ceremony on **Monday, Wednesday and Friday at 11:00** — other days get a shorter inspection instead. There is also a free inspection **every day at 16:00** that almost nobody times a visit around.
+4. **Changing the Guard** — At Buckingham Palace at 10.45 on **Monday, Wednesday and Friday** (soldiers gather from 10.00; it can be cancelled in wet weather as late as 10.45). **Horse Guards** on Whitehall is smaller and far less crowded, but only runs the full mounted ceremony on **Monday, Wednesday and Friday at 11:00** — other days get a shorter inspection instead. There is also a free inspection **every day at 16:00** that almost nobody times a visit around.
 5. **St James's Park** — The best park in central London, with the pelicans and the view from the blue bridge back towards Whitehall.
 6. **Trafalgar Square and the National Gallery** — At the top of Whitehall. The gallery is free and one of the great collections in Europe.
 7. **Westminster Cathedral** — Not the Abbey. A striped Byzantine-style Catholic cathedral ten minutes south, with a lift up its tower for one of the cheapest good views in London.
@@ -128,7 +132,7 @@ The government spine running north from Parliament Square to Trafalgar Square, a
 
 **Downing Street is gated and has been since 1989** — you see the entrance and the police, not the door. The **Cenotaph** stands in the middle of the road, and the **Banqueting House**, the only surviving part of the old Whitehall Palace, has a Rubens ceiling and is ticketed.
 
-**Horse Guards is the free ceremony.** The full mounted **Changing of the King's Life Guard is at 11am, Monday to Saturday, and 10am on Sunday**, and it is far easier to see than the Buckingham Palace version — no crowd barriers, no railings, and you can stand a few feet away.
+**Horse Guards is the free ceremony.** The full mounted **Changing of the King's Life Guard is at 11am on Monday, Wednesday and Friday** — Tuesday and Thursday get a Patrol instead, around 10.30 to 11.15, and the weekend an 11am inspection. It is far easier to see than the Buckingham Palace version — no crowd barriers, no railings, and you can stand a few feet away. There is also a **dismounted inspection at 4pm every day**, which almost nobody times a visit around.
 
 **There is also a free dismounted inspection at 4pm every day**, which almost nobody knows about and which takes about ten minutes.
 
@@ -210,7 +214,13 @@ South along the river from Parliament towards Tate Britain, and much the quietes
 
 **Avoid:** Sundays if you want to go inside the Abbey. Also check for state occasions and remembrance events, which close roads across the whole area.
 
-## Suggested three-hour walking route
+## Walking routes
+
+**[A Walk Through Westminster: Westminster Bridge to Trafalgar Square →](/articles/westminster-walk/)**
+
+Our full route for this area: **eleven numbered stops** over about 4km and two to three hours, with a map, a Google Maps walking link for your phone, and a day-by-day breakdown of what is actually open. It is built around the fact that **the guard only changes on Monday, Wednesday and Friday** — at Buckingham Palace and Horse Guards both — and it takes in the **Supreme Court**, which sits opposite Parliament, is free, and is the one door on this square that almost nobody walks through.
+
+### The short version, if you only have three hours
 
 1. **Start:** Westminster station, **Exit 4**, at the foot of the Elizabeth Tower.
 2. **Westminster Bridge:** Walk halfway across and look back for the classic view.
@@ -218,6 +228,8 @@ South along the river from Parliament towards Tate Britain, and much the quietes
 4. **St James's Park:** North-west through the park to the blue bridge, then up to **Buckingham Palace**.
 5. **The Mall and Horse Guards:** East along The Mall to **Horse Guards Parade** and Whitehall.
 6. **Finish:** **Trafalgar Square** and the National Gallery.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-area-guide-houses-of-parliament-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Houses of Parliament tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 
@@ -227,8 +239,6 @@ South along the river from Parliament towards Tate Britain, and much the quietes
 4. **Standing at the Palace railings for the Guard.** By 10:30 you will see nothing. Watch from the Victoria Memorial steps, or go to Horse Guards instead — but only Monday, Wednesday or Friday if you want the full ceremony rather than the shorter inspection.
 5. **Eating beside Westminster Bridge.** The restaurants immediately around the bridge are the worst value in central London. Walk to Regency Cafe or head north.
 6. **Taking the Tube one stop to Waterloo.** Walking across the bridge takes ten minutes and is the better experience.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-area-guide-houses-of-parliament-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Houses of Parliament tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

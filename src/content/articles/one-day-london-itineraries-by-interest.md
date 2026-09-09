@@ -58,6 +58,8 @@ These thirteen plans do the second. **Each is grouped tightly enough that you ba
 
 *About 4 miles, almost entirely flat, and no Tube needed.*
 
+**[We have the Westminster half stop by stop →](/articles/westminster-walk/)** — eleven numbered stops from Westminster Bridge to Trafalgar Square, with a map, a Google Maps walking link and what is open on which day. Use that for the first half of this day; the rest of the page is the other five itineraries.
+
 **Morning.** **Westminster Abbey** on an early slot — book ahead, and note it is **closed to sightseers on Sundays**. Allow 90 minutes. Then **Parliament Square** and out onto **Westminster Bridge** for the view back at Big Ben. *Five minutes.*
 
 **Midday.** **Through St James's Park to Buckingham Palace** — *about 15 minutes*, and the bridge over the lake has the postcard view. Then **down The Mall to Trafalgar Square**, *another 15*.
@@ -76,7 +78,7 @@ Lunch ten minutes off the square rather than on it. See [cheap eats](/articles/c
 
 *Under 2 miles all day. The most concentrated of these plans.*
 
-**Morning.** **Covent Garden** — the Piazza, the street performers who audition for their pitch, and the theatre architecture in the surrounding streets. The **Royal Opera House** public areas and its terrace are worth going into.
+**Morning.** **Covent Garden** — the Piazza, the street performers who audition for their pitch, and the theatre architecture in the surrounding streets. The **Royal Opera House** public areas and its terrace are worth going into. Our [Covent Garden walking route](/articles/covent-garden-walk/) does this morning as eleven numbered stops if you want it mapped.
 
 **Afternoon.** Three ways to go:
 

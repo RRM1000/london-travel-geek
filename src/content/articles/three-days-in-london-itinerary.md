@@ -53,6 +53,8 @@ Four things sell out. Everything else on this plan can wait until the day.
 
 *About 4 miles, almost entirely flat, and you can cut it short at any point.*
 
+**[We have the Westminster half stop by stop →](/articles/westminster-walk/)** — eleven numbered stops with a map, a Google Maps walking link and a day-by-day breakdown of what is open, including the fact that the guard only changes on **Monday, Wednesday and Friday**. Use that for the daytime; the evening below picks up where it finishes.
+
 ### Morning
 
 **Start at Westminster Abbey**, ideally on the first entry slot. Allow **90 minutes to two hours** — it is much denser than it looks, and the Poets' Corner and Cosmati pavement are the bits people rush.
