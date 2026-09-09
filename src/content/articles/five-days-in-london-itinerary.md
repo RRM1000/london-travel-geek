@@ -80,7 +80,7 @@ See our [Greenwich guide](/articles/greenwich-area-guide/) for the detail.
 
 **Walk under the river.** The **Greenwich Foot Tunnel** beside the Cutty Sark is free, open at all hours, and comes up at Island Gardens with the best view back at Greenwich there is. From there the DLR runs north through the docks on a viaduct — sit at the front, there is no driver.
 
-That also puts you at [Canary Wharf](/articles/canary-wharf-area-guide/), which is now worth an hour or two rather than the twenty minutes it used to be.
+That also puts you at [Canary Wharf](/articles/canary-wharf-area-guide/), which is now worth an hour or two rather than the twenty minutes it used to be. If you would rather walk the whole thing rather than take the DLR back, we have it as a [numbered route from Canary Wharf to Greenwich](/articles/canary-wharf-greenwich-walk/).
 
 ---
 

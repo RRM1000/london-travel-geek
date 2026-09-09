@@ -120,6 +120,8 @@ The original street names are still traceable on a few buildings: Earlham Street
 
 Ninety stores and more than fifty cafés, bars and restaurants sit in the streets around it now, and it is **noticeably calmer than the Piazza three minutes south** — which is the whole reason this route does it first.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 4. Neal's Yard
 
 ![The brightly painted buildings and packed outdoor tables of Neal's Yard](../../assets/articles/covent-garden-walk/neals-yard.jpg)
@@ -219,6 +221,8 @@ The building's listed status also bans wind and brass instruments, electric guit
 
 > 💡 **Getting in with a wheelchair or a pushchair:** the smoothest way into the Market Building is from **Russell Street**, where there are ramps, or the bottom of **James Street**. That is the estate's own advice, and the cobbles everywhere else are a listed feature, so they are not going to improve.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 9. The Royal Opera House
 
 ![Covent Garden Piazza and the market halls seen from above, with parasols over the outdoor tables](../../assets/articles/covent-garden-walk/covent-garden-piazza-aerial.jpg)
@@ -286,6 +290,8 @@ If that does not work:
 
 For the full picture — the pre-theatre bookings, the places that fill from 5pm — the [area guide covers it](/articles/covent-garden-area-guide/#where-to-eat-and-drink).
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The best day to go
 
 **Monday, and this is the one route in central London where that is the answer.**
@@ -317,8 +323,6 @@ Almost nothing here has a weekday-only problem. The Piazza never closes, the mar
 The route is **flat and short**, and it never leaves a dense grid of streets, so you can cut it anywhere. There is no point on it more than about six minutes from a station.
 
 Walked in reverse — Somerset House to Leicester Square — it works, but it puts the crowded half first and the quiet half last, which is the wrong way round in a district that fills up as the day goes on.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="covent-garden-walk-covent-garden-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Covent Garden food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to do with the rest of the day
 

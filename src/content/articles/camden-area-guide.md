@@ -22,6 +22,10 @@ area:
   timeNeeded: "Half a day"
   budget: "£"
   bestDay: "Weekday mornings for room to move; weekends for the full experience"
+  walkingRoute:
+    slug: "kings-cross-camden-canal-walk"
+    label: "King's Cross to Camden by canal"
+    detail: "10 stops · 1.5 miles · about 1 hour"
   bestFor:
     - Markets and street food
     - Live music
@@ -203,6 +207,8 @@ Five different operators run from Camden Lock, and they are genuinely different 
 
 > ⚠️ Timetables are seasonal and several of these run a reduced winter service or stop entirely. Check before travelling for a specific boat, and note that one-way tickets mean walking or taking the Tube back.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="camden-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Getting there
 
 **By Tube.** **Camden Town** (Northern) is the obvious choice, but it is severely congested at weekends. For years it ran **exit-only on Sunday afternoons**; that was lifted in 2019, so you can board there again, but queues to enter still build badly. **Chalk Farm** one stop north is the better approach, and it puts you at the Stables Market end.
@@ -225,7 +231,13 @@ Five different operators run from Camden Lock, and they are genuinely different 
 
 **Avoid:** Sunday afternoon, the single busiest period, when queues build just to get into Camden Town station.
 
-## Suggested three-hour route
+## Walking routes
+
+**[The Regent's Canal from King's Cross to Camden →](/articles/kings-cross-camden-canal-walk/)**
+
+Our full route into the area, walked the good way round: **ten numbered stops** over about 1.5 miles and an hour, with a map, a Google Maps walking link, and the hours that actually decide the day. It takes in **Camley Street Natural Park**, **St Pancras Lock** and the gasholder frames, then comes into Camden past **Kentish Town Road, Hawley and Hampstead Road locks** — which the Canal & River Trust has closed to boats between 3.30pm and 9am while the drought restriction holds, so a working lock is a morning sight.
+
+### The short version, if you only have three hours
 
 1. **Start:** **Chalk Farm** station, not Camden Town.
 2. **Stables Market:** South into the horse hospital tunnels and the vintage dealers.
@@ -234,7 +246,7 @@ Five different operators run from Camden Lock, and they are genuinely different 
 5. **Primrose Hill:** Up for the skyline panorama.
 6. **Finish:** A pub in **Primrose Hill village**, or back down for the Northern line.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="camden-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="camden-area-guide-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,505308,16403"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 
@@ -243,7 +255,7 @@ Five different operators run from Camden Lock, and they are genuinely different 
 3. **Eating on the High Street.** The canal-side food stalls are cheaper and much better.
 4. **Missing Primrose Hill.** Fifteen minutes away, free, and the best view in north London.
 5. **Not watching your pockets.** Dense crowds make this a known spot for pickpockets.
-6. **Taking the Tube to King's Cross.** The canal walk is 30 minutes and far more pleasant.
+6. **Taking the Tube to King's Cross.** The canal walk is 30 minutes and far more pleasant — [here it is stop by stop](/articles/kings-cross-camden-canal-walk/).
 
 ## Where to stay
 

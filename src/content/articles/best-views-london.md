@@ -444,6 +444,8 @@ The **Canaletto view**: Wren and Hawksmoor's King William and Queen Anne wings f
 
 Island Gardens and Cutty Sark DLR stations sit at either end of the tunnel. Tower Hamlets publishes no postcode for the park itself — it is on Saunders Ness Road, E14.
 
+**[The full walk from Canary Wharf to Greenwich →](/articles/canary-wharf-greenwich-walk/)** — eleven stops, with Island Gardens at stop five and the tunnel at stop six.
+
 ### London Cable Car
 
 *£7 single, £13.50 return, or £2 a crossing with a multi-trip ticket · 90 metres*

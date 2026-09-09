@@ -125,6 +125,8 @@ Three things are worth the twenty minutes:
 
 > ⚠️ **Airport-style security every time you enter**, and the court's own guidance is that queues build **between 9.30 and 10.30 and between 1.45 and 2.15**. Come at 11 or at 3.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 4. Westminster Abbey
 
 ![Westminster Abbey's twin west towers rising above a red London bus in the foreground](../../assets/articles/westminster-walk/westminster-abbey-towers.jpg)
@@ -203,6 +205,8 @@ It is not a stop so much as **fifteen minutes of walking that you should not sho
 
 Two-thirds of the way along, look right through the trees: the lake, the bridge you were standing on twenty minutes ago, and the back of Whitehall again from the other side.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 10. Horse Guards
 
 ![Mounted Household Cavalry on parade at Horse Guards, Whitehall](../../assets/articles/westminster-walk/horse-guards-parade.jpg)
@@ -270,8 +274,6 @@ The area guide is blunt about this and it is right: **the restaurants immediatel
 
 If you have a Churchill War Rooms ticket, its café runs **10am to 5pm daily** and is inside the security line, so it only works if you are going in anyway. For the sit-down restaurants — the Cinnamon Club, the Regency Cafe, the Whitehall pubs — the [area guide covers them](/articles/westminster-area-guide/#where-to-eat-and-drink).
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-walk-westminster-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The best day to go
 
 **Monday, Wednesday or Friday**, and it is not close. Those are the only days the guard changes rather than being looked at.
@@ -297,6 +299,8 @@ If you have a Churchill War Rooms ticket, its café runs **10am to 5pm daily** a
 - **9.30am.** You get the Supreme Court and the Abbey with time inside both, and you reach Horse Guards around lunchtime — after the 11am ceremony has gone.
 - **Ceremony first, on a Mon, Wed or Fri.** Be at Horse Guards Parade for 11, watch the change, then start the walk at stop one and do it in order. It is the only way to get both the ceremony and the interiors.
 - **1pm.** Nine stops in three hours puts you at Horse Guards for the **4pm dismounted inspection**, which runs every day of the week. The trade is that the Abbey will have closed — it shuts at 3.30pm on weekdays and 3pm on Saturday.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

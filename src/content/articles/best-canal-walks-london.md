@@ -38,7 +38,7 @@ The spine is the **Regent's Canal**: **8.6 miles and 13 locks** from Little Veni
 | Section | Distance | Time | Ends at |
 | --- | --- | --- | --- |
 | **Little Venice → Camden** | About 2 miles | 45 min | Camden Town |
-| **Camden → King's Cross** | About 1.5 miles | 35 min | King's Cross St Pancras |
+| **[Camden → King's Cross](/articles/kings-cross-camden-canal-walk/)** | About 1.5 miles | 35 min | King's Cross St Pancras |
 | **King's Cross → Angel** | About 1 mile | 25 min | Angel *(tunnel detour)* |
 | **Angel → Victoria Park** | About 2 miles | 45 min | Hackney Wick or Bethnal Green |
 | **Victoria Park → Limehouse** | About 2 miles | 45 min | Limehouse DLR |
@@ -65,7 +65,7 @@ From there the canal runs east through **Maida Hill Tunnel**, which you cannot w
 
 **The zoo stretch is the surprise.** The towpath runs directly beneath the Snowdon Aviary, and you get a free look at part of the zoo from the water.
 
-**Finish at Camden Lock**, where the canal drops through a double lock in the middle of the market. See our [Camden guide](/articles/camden-area-guide/).
+**Finish at Camden Lock**, where the canal drops through a double lock in the middle of the market. See our [Camden guide](/articles/camden-area-guide/) — or keep going east on the [King's Cross to Camden walk](/articles/kings-cross-camden-canal-walk/), which covers the next section stop by stop.
 
 ---
 
@@ -73,9 +73,9 @@ From there the canal runs east through **Maida Hill Tunnel**, which you cannot w
 
 *About 1.5 miles · 35 minutes · gasholders and grain stores*
 
-Quieter immediately after Camden, and it improves the whole way. The canal runs behind St Pancras through what was the goods yard of the entire railway age, and is now **Coal Drops Yard** and **Granary Square**.
+Quieter immediately after Camden, and it improves the whole way. The canal runs behind St Pancras through what was the goods yard of the entire railway age, and is now **Coal Drops Yard** and **Granary Square**. **St Pancras Lock** and the restored **gasholder frames** are the set piece, and **Camley Street Natural Park** — a free two-acre nature reserve on the far bank, reached over Somers Town Bridge — is the thing almost nobody walking this way knows is there.
 
-**St Pancras Lock** and the restored **gasholders** are the set piece. **Camley Street Natural Park** sits on the towpath here — a free two-acre nature reserve wedged between the canal and the railway, which almost nobody walking to King's Cross knows is there.
+> 🗺️ **[The Regent's Canal from King's Cross to Camden →](/articles/kings-cross-camden-canal-walk/)** We have this section as a full numbered walk, taken in the other direction: **ten stops with a map**, a Google Maps walking link for your phone, and every opening time that matters — the nature reserve's 4pm winter closing, Camden's locks shut to boats after 3.30pm, and the fenced-off stretch of towpath you can still walk because there is a floating pontoon round it.
 
 ![The Regent's Canal towpath near King's Cross, planted with reeds and wildflowers, running past redbrick apartment blocks](../../assets/articles/best-canal-walks-london/kings-cross-towpath-reeds.jpg)
 
@@ -223,6 +223,7 @@ There is a third, **Eyre's Tunnel**, at just 53 yards near Lisson Grove — shor
 
 ## Continue planning your London trip
 
+- 🚶 **[King's Cross to Camden: the Canal Walk in Ten Stops](/articles/kings-cross-camden-canal-walk/)**
 - 🚶 **[London Walks Along the Thames](/articles/london-walks-along-the-thames/)**
 - 🌳 **[Best Parks and Gardens in London](/articles/best-parks-gardens-london/)**
 - 🎨 **[London Street Art](/articles/london-street-art/)**

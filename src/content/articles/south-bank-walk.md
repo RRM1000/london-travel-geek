@@ -92,6 +92,8 @@ They are aimed squarely at families and they queue like it. If you are walking w
 
 > 💡 **The detour: Leake Street.** Five minutes inland from here, under Waterloo station, is a road tunnel where spraying the walls is **legal**. It is free, open at all hours, and repainted so constantly that nobody has ever seen it twice. It is the most-missed thing on this stretch of river and it is worth the ten-minute round trip. See the section below.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 3. Southbank Centre and the Undercroft
 
 The concrete arts complex that everyone has an opinion about. The **Royal Festival Hall is free to walk into**, has free toilets, and its upper levels have seats and a view over the river — the best free indoor sit-down on the walk, which matters more than it sounds in February.
@@ -115,8 +117,6 @@ The **exhibitions in the foyers are free**, the riverside terrace garden is free
 *KERB runs the food and drink out front, which makes this the second obvious stop for lunch after Borough. Picnic tables, deckchairs and a bar, all in the open.*
 
 > ⚠️ **The building opens Monday to Saturday, 10am to 11pm — not Sundays.** It is the second thing on this walk with a day-of-the-week problem, and unlike Borough Market it catches people who were not planning to go in.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 6. Gabriel's Wharf and the Oxo Tower
 
@@ -163,6 +163,8 @@ And then **Borough Market**, which is the reason a lot of people do this walk at
 ![Crowds under the green ironwork and glass roof of Borough Market, a roast chicken wrap counter on the left with a queue at it](../../assets/articles/south-bank-walk/borough-market.jpg)
 
 *Mid-afternoon on a Sunday and still this busy. The green ironwork is the 1850s market hall; the queue is for one of about a hundred traders.*
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 10. HMS Belfast and Hay's Galleria
 
@@ -225,7 +227,7 @@ For the full picture — the chains that fill the gaps, and the restaurants wort
 
 **On time of day:** the light is behind you walking west to east in the morning and in your face in the afternoon, which is the argument for starting early. Tate Modern's late opening on Friday and Saturday is the argument for the opposite.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

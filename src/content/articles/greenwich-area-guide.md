@@ -22,7 +22,11 @@ area:
   walkability: 4
   timeNeeded: "A full day"
   budget: "££"
-  bestDay: "Any day but Monday; Tuesday to Sunday has the full market"
+  bestDay: "Any day — the market now trades seven days, and weekdays are the quiet ones"
+  walkingRoute:
+    slug: "canary-wharf-greenwich-walk"
+    label: "Canary Wharf to Greenwich under the river"
+    detail: "11 stops · 6.5km · 3–4 hours"
   bestFor:
     - Maritime history
     - Park walks and views
@@ -62,7 +66,7 @@ faq:
   - q: "What is the best way to get to Greenwich?"
     a: "By river. Uber Boat by Thames Clippers runs from Westminster, Embankment, Bankside and Tower piers and takes 30 to 60 minutes depending on where you start. It costs more than the DLR but is a far better journey. Oyster and contactless are accepted, though river fares are separate from the daily cap."
   - q: "What days is Greenwich Market open?"
-    a: "Every day except Monday, when it is closed. Arts, crafts and food stalls run Tuesday to Sunday; antiques and vintage traders only set up on Tuesday, Thursday and Friday. It is a five-minute walk from Cutty Sark DLR station."
+    a: "Every day. The market's own guidance is 10am to 5.30pm daily, including weekends and bank holidays, with the only closures being Christmas Day and the first six Mondays of the year, when traders take a break after the Christmas rush. Older guides still say it shuts on Mondays; that is out of date. It is a five-minute walk from Cutty Sark DLR station."
 heroImage: "../../assets/articles/greenwich-area-guide/greenwich-hill-view.jpg"
 heroImageAlt: "The view from Greenwich Park over the Old Royal Naval College to Canary Wharf and the City"
 ---
@@ -91,7 +95,7 @@ Greenwich has its own share of the commemorative plaques marking where notable p
 *James Thornhill spent nineteen years on this ceiling. It's known as the UK's Sistine Chapel, and the comparison holds up better than you'd expect. Photo: [Maciek Lulko](https://www.flickr.com/photos/62401943@N06/10402473936), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 5. **National Maritime Museum** — Free. Nelson's coat with the bullet hole from Trafalgar, and a good children's gallery.
 6. **Greenwich Park and the deer** — 183 acres, London's oldest enclosed royal park, with a wild deer herd in The Wilderness.
-7. **Greenwich Market** — Covered, closed Mondays. Arts, crafts and food run Tuesday to Sunday; antiques only trade Tuesday, Thursday and Friday.
+7. **Greenwich Market** — Covered, and now open **daily, 10am to 5.30pm**, bank holidays included. Arts, crafts, antiques and food under one roof.
 8. **The Greenwich Foot Tunnel** — An 1902 tiled tunnel under the Thames to the Isle of Dogs. Free, open always, and the classic view back at Greenwich from the far side.
 
 ![The National Maritime Museum's columned entrance, with two giant white anchors standing either side of the doorway](../../assets/articles/greenwich-area-guide/national-maritime-museum.jpg)
@@ -114,7 +118,7 @@ What is at North Greenwich: **The O2**, one of the busiest arenas in the world, 
 
 ![The red brick and glass domed rotunda entrance to the Greenwich Foot Tunnel beside the Thames](../../assets/articles/greenwich-area-guide/greenwich-foot-tunnel-rotunda.jpg)
 
-*The southern rotunda of the Greenwich Foot Tunnel, beside the Cutty Sark. The lifts run during staffed hours; the stairs are always open.*
+*The southern rotunda of the Greenwich Foot Tunnel, beside the Cutty Sark. Since the refurbishment the lifts run 24 hours; the stairs are the fallback.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-cutty-sark-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Cutty Sark tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -136,18 +140,18 @@ The UNESCO core, and four separate sites within five minutes of each other — w
 ### Greenwich town centre
 A compact grid around the covered market, and the part that still feels like a town rather than a visitor attraction.
 
-**Greenwich Market** is the anchor — under a roof, so it works in the rain, and unusual in that it mixes antiques, crafts and makers with food rather than being one or the other. **Goddards at Greenwich** has been selling pie and mash here since 1890, which is the most Greenwich lunch available. There is also a **street food market by the Cutty Sark** running weekends through the year.
+**Greenwich Market** is the anchor — under a roof, so it works in the rain, and unusual in that it mixes antiques, crafts and makers with food rather than being one or the other. It is **open daily, 10am to 5.30pm**. **Goddards at Greenwich** has been selling pie and mash here since 1890, which is the most Greenwich lunch available. There is also a **street food market by the Cutty Sark**.
 
 Around it, **Church Street, Nelson Road and College Approach** hold the second-hand bookshops, a printmakers' gallery, a guitar shop and several good pubs — including **The Admiral Hardy** on the market itself.
 
-**Come on a weekday if you want to browse.** The market trades most days but weekends are shoulder-to-shoulder, and the antiques stalls are the ones that suffer for it.
+**Come on a weekday if you want to browse.** It trades seven days now, but weekends are shoulder-to-shoulder, and the antiques stalls are the ones that suffer for it.
 
 ### Greenwich Park and the hill
 The oldest enclosed royal park in London, and the climb behind the Maritime Museum is steeper than it looks from the bottom — allow ten minutes and take the path rather than the grass in wet weather.
 
 **The view from the top is free and is the reason to come.** Queen's House and the Naval College below, the river, Canary Wharf opposite and the O2 to the right — one of the great London views, at no cost, whether or not you go into anything.
 
-**The Royal Observatory at the summit is paid: £24 adult, £11 child**, 10am–5pm with last entry 4pm, extended to 6pm through September. That buys the **Prime Meridian line**, Wren's Octagon Room, and the Great Equatorial Telescope. **You can see the meridian courtyard from outside without paying**, which is worth knowing if the queue is long or the family is flagging.
+**The Royal Observatory at the summit is paid: £24 adult, £12 child**, 10am–5pm with last entry 4pm, extended to 6pm through September. That buys the **Prime Meridian line**, Wren's Octagon Room, and the Great Equatorial Telescope. **You can see the meridian courtyard from outside without paying**, which is worth knowing if the queue is long or the family is flagging.
 
 Also free, and often missed: the **deer in The Wilderness** — a herd has been here since the seventeenth century — and the **rose garden** behind Ranger's House, at its best in June.
 
@@ -156,7 +160,9 @@ Also free, and often missed: the **deer in The Wilderness** — a herd has been 
 *The view north from the hill: the Queen's House and Naval College below, Canary Wharf across the river, the O2 to the right.*
 
 ### The riverside and the Foot Tunnel
-**The Greenwich Foot Tunnel is free, open at all hours, and the entrance is right at the pier beside the Cutty Sark** — a glazed rotunda you would walk past without noticing. Opened in 1902 so that south London dockworkers could reach the Isle of Dogs, it is 370 metres of white tile under the river, and it comes up at Island Gardens for the view back at Greenwich that Canaletto painted. Lifts run limited hours; the stairs always work.
+**The Greenwich Foot Tunnel is free, open at all hours, and the entrance is right at the pier beside the Cutty Sark** — a glazed rotunda you would walk past without noticing. Opened in 1902 so that south London dockworkers could reach the Isle of Dogs, it is white tile under the river, and it comes up at Island Gardens for the view back at Greenwich that Canaletto painted. The refurbishment left **four new lifts that the council says run 24 hours a day**, and it publishes a [live status page for both ends](https://www.royalgreenwich.gov.uk/parking-transport-and-streets/travel-foot-bike-or-public-transport/check-status-foot-tunnels) — worth a look before you rely on them. Walk your bike through rather than riding, and note that e-bikes are barred altogether.
+
+**[The full walking route from Canary Wharf, stop by stop →](/articles/canary-wharf-greenwich-walk/)** — eleven stops, with the tunnel in the middle.
 
 **Head east along the river instead** and you pass the Naval College to the **Trafalgar Tavern**, an 1837 riverside pub where Dickens set the wedding breakfast in *Our Mutual Friend* — in the Hawke Room, which you can still eat in. Whitebait is the thing to order, historically and still.
 
@@ -198,7 +204,7 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 
 ![Food stalls under the glass and iron roof of Greenwich Market, with banners reading I Heart Greenwich Market](../../assets/articles/greenwich-area-guide/greenwich-market-stalls.jpg)
 
-*Greenwich Market under its Victorian roof. Arts, crafts and food stalls run Tuesday to Sunday; the antiques and vintage traders only set up on Tuesday, Thursday and Friday.*
+*Greenwich Market under its Victorian roof. It trades daily, 10am to 5.30pm, and the only Mondays it closes are the first six of the year.*
 
 ## Getting there
 
@@ -220,9 +226,15 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 
 **Best time:** Arrive by boat in the morning and walk up the hill before the coach parties. The hill view is best in afternoon light looking back towards the City.
 
-**Note:** The Observatory, Cutty Sark and Painted Hall are three separate tickets. A combined ticket exists and is worth it if you plan on two or more.
+**Note:** The Observatory, Cutty Sark and Painted Hall are three separate tickets from two separate organisations. Royal Museums Greenwich sells a **day pass covering the Observatory and the Cutty Sark for £38 adult and £19 child**; the Painted Hall belongs to the Old Royal Naval College and is bought separately.
 
-## Suggested full-day route
+## Walking routes
+
+**[A Walk from Canary Wharf to Greenwich: Under the River in Eleven Stops →](/articles/canary-wharf-greenwich-walk/)**
+
+Our full route into this area from the north: **eleven numbered stops** over about 6.5km and three to four hours, with a map, a Google Maps walking link for your phone and what is open on which day. It starts at Canary Wharf's free roof garden, comes down the Isle of Dogs past **Mudchute Farm**, crosses under the Thames through the **Greenwich Foot Tunnel** at stop six, and finishes on Greenwich hill — so it arrives at the Naval College out of a Victorian tunnel rather than off a train. It also carries the **live foot-tunnel lift status**, which is the fact that decides whether the crossing is step-free on the day you go.
+
+### The short version, if you are already in Greenwich
 
 1. **Arrive:** By **Uber Boat** to Greenwich Pier.
 2. **Cutty Sark:** Walk under the hull, then into the covered **Greenwich Market**.
@@ -239,8 +251,8 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 2. **Taking the Tube when you could take the boat.** The river journey is the best part of the day.
 3. **Paying for the Observatory just for the view.** The famous panorama from the hill outside is free.
 4. **Underestimating the hill.** It is a genuine climb from the Maritime Museum. There is a gentler path from Blackheath Gate.
-5. **Buying three separate tickets.** A combined ticket covers the Observatory, Cutty Sark and Maritime Museum attractions.
-6. **Coming on a Monday for the market.** It's closed. Tuesday to Sunday has the full range, though antiques only trade Tuesday, Thursday and Friday.
+5. **Buying the Observatory and the Cutty Sark separately.** A Royal Museums Greenwich day pass covers both for £38 adult and £19 child. The Maritime Museum and Queen's House are free anyway.
+6. **Avoiding a Monday for the market.** You no longer need to. It trades seven days, 10am to 5.30pm, and Monday is one of the quietest.
 
 ## Where to stay
 

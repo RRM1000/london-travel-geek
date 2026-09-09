@@ -22,6 +22,10 @@ area:
   timeNeeded: "Half a day"
   budget: "££"
   bestDay: "Any day — weekdays for the offices buzzing, weekends now for the water and the restaurants"
+  walkingRoute:
+    slug: "canary-wharf-greenwich-walk"
+    label: "Canary Wharf to Greenwich under the river"
+    detail: "11 stops · 6.5km · 3–4 hours"
   bestFor:
     - Modern architecture
     - Dockside walks and swimming
@@ -58,7 +62,7 @@ faq:
   - q: "Is Canary Wharf open at weekends?"
     a: "Yes, and this has changed. The original shopping malls still wind down on Sundays, and some of the older chain units keep short weekend hours. But the newer layer runs properly at weekends — Fairgame is open until 1am on Saturday, the Sea Lanes pool swims 7am to 7pm, and the Wood Wharf restaurants and Eden Dock run all week. Older guides saying the place empties completely are out of date."
   - q: "Can you walk from Canary Wharf to Greenwich?"
-    a: "Yes, via the Greenwich Foot Tunnel. Take the DLR two stops to Island Gardens, then walk through the 1902 tiled tunnel under the Thames — it comes up beside the Cutty Sark. It is free and open at all hours, with lifts at both ends during staffed hours."
+    a: "Yes, and you can walk the whole way. It is about 6.5km down the Isle of Dogs to Island Gardens and then under the Thames through the 1902 tiled foot tunnel, which comes up beside the Cutty Sark. It is free and open at all hours, and the lifts at both ends now run 24 hours a day — the council publishes a live status page for them. If you would rather not walk the island, the DLR runs to Island Gardens in two stops and you pick up the tunnel there."
   - q: "Is the Museum of London Docklands free?"
     a: "Yes. It occupies a Georgian sugar warehouse on West India Quay and covers the history of the docks, the river and London's role in the transatlantic slave trade. It is one of the better free museums in London and is rarely busy."
 heroImage: "../../assets/articles/canary-wharf-area-guide/crossrail-place-dock.jpg"
@@ -164,7 +168,7 @@ South, facing across the water towards Greenwich, and **the quietest part of the
 
 The DLR runs overhead on its viaduct, which is worth watching from below.
 
-**Free and always open.** It is also the fastest way to the Thames Path and the foot tunnel to Greenwich, which is the walk most people miss entirely.
+**Free and always open.** It is also the start of the walk south to the foot tunnel and Greenwich, which is the one most people miss entirely — we have it [stop by stop](/articles/canary-wharf-greenwich-walk/).
 
 
 ![People sitting in a wood-fired hot tub built into a small boat on the dock at Canary Wharf](../../assets/articles/canary-wharf-area-guide/skuna-hot-tub-boat.jpg)
@@ -207,7 +211,7 @@ The DLR runs overhead on its viaduct, which is worth watching from below.
 
 *The DLR viaduct threading between the towers. The elevated track is why the front-seat view works.*
 
-**On foot to Greenwich.** DLR two stops to **Island Gardens**, then the **Greenwich Foot Tunnel** under the river. Free and open at all hours.
+**On foot to Greenwich.** Walk the length of the Isle of Dogs, or take the DLR two stops to **Island Gardens**, then the **Greenwich Foot Tunnel** under the river. Free, open at all hours, and the lifts at both ends run 24 hours — see the [full walking route](/articles/canary-wharf-greenwich-walk/).
 
 
 ![A large illuminated WINTER LIGHTS sign at Canary Wharf at dusk, with people walking past](../../assets/articles/canary-wharf-area-guide/winter-lights-canary-wharf.jpg)
@@ -231,7 +235,13 @@ The DLR runs overhead on its viaduct, which is worth watching from below.
 
 **Sundays are no longer a write-off.** The malls keep short Sunday hours and some older chain units shorten further, so do not plan a shopping trip. Everything else — Eden Dock, the pool, the museum, the roof garden, Wood Wharf — runs as normal.
 
-## Suggested two-hour route
+## Walking routes
+
+**[A Walk from Canary Wharf to Greenwich: Under the River in Eleven Stops →](/articles/canary-wharf-greenwich-walk/)**
+
+Our full route out of this area: **eleven numbered stops** over about 6.5km and three to four hours, with a map, a Google Maps walking link for your phone and what is open on which day. It opens with the **Crossrail Place Roof Garden** and the free **London Museum Docklands**, walks the docks south past **Mudchute Farm** to Island Gardens, then goes under the Thames through the **Greenwich Foot Tunnel** and finishes at the Prime Meridian. It also carries the **live foot-tunnel lift status**, which is what decides whether that crossing is step-free on the day you go.
+
+### The short version, if you only have two hours here
 
 1. **Start:** Canary Wharf Elizabeth line station. Up to the **Crossrail Place Roof Garden**.
 2. **West India Quay:** North over the footbridge to the **Museum of London Docklands**. Free.

@@ -22,6 +22,10 @@ area:
   timeNeeded: "Half a day"
   budget: "££"
   bestDay: "Any day; Granary Square fountains and the canal are best in summer"
+  walkingRoute:
+    slug: "kings-cross-camden-canal-walk"
+    label: "King's Cross to Camden by canal"
+    detail: "10 stops · 1.5 miles · about 1 hour"
   bestFor:
     - Canal walks
     - Design and shopping
@@ -145,7 +149,7 @@ Behind Granary Square, and the way out of King's Cross that most visitors never 
 
 **Word of Mouth to Camden and Little Venice** runs from the same water if you would rather sit than walk.
 
-**Go west rather than east.** The towpath towards Islington disappears into the Islington Tunnel after ten minutes and you have to come up onto the road.
+**Go west rather than east.** The towpath towards Islington disappears into the Islington Tunnel after ten minutes and you have to come up onto the road. Going west, our [King's Cross to Camden canal walk](/articles/kings-cross-camden-canal-walk/) takes the whole thing stop by stop.
 
 ![Narrowboats moored on the Regent's Canal beside the grass steps at Granary Square](../../assets/articles/kings-cross-area-guide/regents-canal-granary-square.jpg)
 
@@ -156,17 +160,15 @@ Behind Granary Square, and the way out of King's Cross that most visitors never 
 *St Pancras Lock, with the gasholder frames behind. Three of them now hold flats; the fourth is a park.*
 
 ### Camley Street Natural Park
-Off the towpath between the canal and the railway. **Two acres of woodland, marsh and pond**, made a nature reserve in 1984 on the site of a former coal drop — and the fastest way to stop hearing King's Cross without leaving it.
+On the far bank of the canal, between the water and the railway. **Two acres of woodland, marsh and pond**, opened as a nature reserve in 1985 on the site of a former coal drop — and the fastest way to stop hearing King's Cross without leaving it.
 
 **It is free, and the mainline into St Pancras runs along the far side**, which is the surprise of the place: kingfishers and reed beds with a Eurostar going past behind the trees.
 
-It is small enough to walk in twenty minutes and there is a visitor centre and café by the entrance. **Hours are shorter than a park's** — it closes in the late afternoon and is not open every day of the week, so check before making the walk. Access is from Camley Street, or down from the towpath.
+It is small enough to walk in twenty minutes and there is a visitor centre and café by the entrance. **Hours are shorter than a park's.** London Wildlife Trust opens it **every day, 10am to 5pm April to September and 10am to 4pm October to March**, so a late-afternoon visit in winter arrives to a locked gate. Access is from Camley Street; from the towpath you cross at Somers Town Bridge. **Assistance dogs only.**
 
 ![A woodland path winding through Camley Street Natural Park, a nature reserve behind King's Cross](../../assets/articles/kings-cross-area-guide/camley-street-natural-park.jpg)
 
 *Camley Street. The mainline into St Pancras runs along the far side of this, which is the surprise of the place.*
-
-Free, with a visitor centre and a café. It keeps daytime hours and closes earlier in winter, so check if you are making a trip for it rather than passing on the towpath.
 
 ### Caledonian Road and Keystone Crescent
 
@@ -219,7 +221,13 @@ West of the stations, between Euston Road and Camden, and a quiet residential po
 
 **Note:** Coal Drops Yard shops keep normal retail hours; the restaurants run later. The canal towpath is unlit in places and best walked in daylight.
 
-## Suggested two-hour walking route
+## Walking routes
+
+**[The Regent's Canal from King's Cross to Camden →](/articles/kings-cross-camden-canal-walk/)**
+
+Our full route out of the area: **ten numbered stops** over about 1.5 miles and an hour, with a map, a Google Maps walking link for your phone, and the opening hours that decide when to set off. It leaves from the canal steps below Granary Square, crosses **Somers Town Bridge** to **Camley Street Natural Park** — free, and shut by 4pm from October to March — and finishes at Camden Lock and the market. It also covers the **stretch of towpath currently fenced off near Camley Street**, where a floating pontoon means you do not need a diversion.
+
+### The short version, if you only have two hours
 
 1. **Start:** King's Cross St Pancras, **King's Cross Square** exit. See **Platform 9¾** inside the station if the queue is short.
 2. **St Pancras:** Next door for the trainshed and the Betjeman statue.

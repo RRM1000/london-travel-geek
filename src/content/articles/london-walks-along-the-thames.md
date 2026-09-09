@@ -96,11 +96,13 @@ The Square Mile empties completely at weekends, which makes it the best time to 
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-walks-along-the-thames-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Canary Wharf to Greenwich, via the Isle of Dogs
+## Under the river: the docks to the Observatory
 
-*About 2 hours · free*
+*About 6.5km · 3–4 hours · free*
 
-**The route:** Canary Wharf → south down the Isle of Dogs, past the old docks — now marinas ringed with moorings and waterside flats → **Mudchute Park and Farm**, 32 acres of open farmland with the financial district's towers still visible over the fence → Island Gardens, at the southern tip → **under the Thames through the Victorian foot tunnel** to Greenwich → the Old Royal Naval College grounds (free) → the National Maritime Museum (free) → up through Greenwich Park to the Observatory for the view.
+The only walk on this page that crosses the Thames without a bridge. It runs south down the Isle of Dogs past the old docks and **Mudchute Farm**, dives under the river through the **1902 Greenwich Foot Tunnel** at Island Gardens, and comes up beside the *Cutty Sark* with the whole of Maritime Greenwich in front of you. Coming up on the Greenwich side is the best free reveal in London, and it only works in this direction.
+
+**[We have this one stop by stop →](/articles/canary-wharf-greenwich-walk/)** — the full **Canary Wharf to Greenwich walk via the Isle of Dogs**, eleven numbered stops with a map, a Google Maps walking link, the live status of the foot tunnel's lifts and what is open on which day. Use that if this is the stretch you are actually walking; the rest of this page is the other six.
 
 ![Swans and pigeons on a floating dock in an Isle of Dogs marina, with the converted Victorian warehouse flats behind and Canary Wharf's towers rising in the distance](../../assets/articles/london-walks-along-the-thames/isle-of-dogs-marina-swans.jpg)
 
@@ -109,10 +111,6 @@ The Square Mile empties completely at weekends, which makes it the best time to 
 ![A canal-side dock on the Isle of Dogs lined with converted warehouse flats, with the Canary Wharf skyline reflected in the water and a floating "Tern Raft" nesting platform in the foreground](../../assets/articles/london-walks-along-the-thames/isle-of-dogs-marina-canary-wharf.jpg)
 
 *Further down the same dock — the towers you just walked away from are still following you.*
-
-**Mudchute Farm** is the surprise in the middle of the route: llamas and a rare-breed herd grazing with the skyline still visible over the fence, and by far the largest of London's city farms.
-
-Coming up on the Greenwich side with the whole skyline behind you is the best free reveal in London, and it works better in this direction — forty minutes of docks and farmland not quite believing you're still in Zone 2, then straight out of a Victorian tunnel into the Old Royal Naval College.
 
 ---
 
@@ -161,7 +159,7 @@ Walk east from there to the **Woolwich Ferry**, which is free, takes vehicles an
 * **The whole path runs 185 miles** from the source in Gloucestershire to the Thames Barrier, and the London stretch is the most consistently walkable part of it.
 * **Bridges are free**, including Tower Bridge's pavement — you only pay for the high-level walkways.
 * **The one thing you pay for is getting back.** Walk one way and take the Tube, the DLR or a Thames Clipper back. The Clipper is the most enjoyable and the most expensive; a river bus fare is well above a Tube one.
-* **The Greenwich Foot Tunnel is free**, open 24 hours to pedestrians, and the most interesting way to cross the river in east London — though the lifts keep shorter hours than the tunnel.
+* **The Greenwich Foot Tunnel is free**, open 24 hours to pedestrians, and the most interesting way to cross the river in east London. The lifts at both ends now run 24 hours too, and the Royal Borough of Greenwich publishes a [live status page](https://www.royalgreenwich.gov.uk/parking-transport-and-streets/travel-foot-bike-or-public-transport/check-status-foot-tunnels) for them.
 * **Tide times matter** on the foreshore sections. The river comes in fast, and the stairs down to the beach at Wapping and Bankside are only usable at low water.
 
 Prefer to see the river from the water instead of the towpath one day.
@@ -181,6 +179,7 @@ Prefer to see the river from the water instead of the towpath one day.
 ## Continue planning your London trip
 
 - 🛶 **[Best Canal Walks in London](/articles/best-canal-walks-london/)**
+- 🚇 **[Canary Wharf to Greenwich Under the River](/articles/canary-wharf-greenwich-walk/)**
 - 🥾 **[The Hampstead Heath to Primrose Hill Walk](/articles/hampstead-heath-primrose-hill-walk/)**
 - 🎪 **[Free Things to Do in London](/free/)**
 - 👀 **[The Best Views in London](/articles/best-views-london/)**
