@@ -57,8 +57,13 @@ const COLOUR_LEGEND = [
     note: "Highgate Heritage's own scheme." },
 ];
 
-const title = "London Plaques Map";
-const description = `Every commemorative plaque in London on one searchable map — ${count.toLocaleString("en-GB")} of them, from official blue plaques to borough, Nubian Jak and rainbow schemes.`;
+// "London Plaques Map" carried no number and, more to the point, not the
+// word people actually search. The page took 18 impressions and zero clicks
+// in the 28 days to 6 Sept at position 27. The differentiator is real and was
+// nowhere in the title: the official scheme covers its own blue plaques, and
+// this covers every scheme in London.
+const title = "London Plaque Map: All 3,630, Not Just the Blue Ones";
+const description = `All ${count.toLocaleString("en-GB")} commemorative plaques in London on one searchable map — official blue plaques plus borough, Nubian Jak and rainbow schemes. Search a name or inscription, filter by colour or subject.`;
 
 // Same pattern as guides/index.astro and topics/[category].astro - drives
 // both the visible trail and BaseLayout's BreadcrumbList JSON-LD.
