@@ -56,6 +56,7 @@ Everything below is from each operator's own site. A blank means the operator do
 | **Wombat's** | Wapping | **En-suite, all dorms** | Yes | Yes | 18+ | — |
 | **St Christopher's Village** | London Bridge | Shared; **Oasis floor has its own** | **Yes, own floor + bathrooms** | Yes | 18+ | — |
 | **St Christopher's Liverpool Street** | Liverpool Street | Shared; **female-only bathrooms** | Yes | — | — | — |
+| **The Walrus** | Waterloo | — | — | **Yes** | — | — |
 | **St Christopher's The Inn** | London Bridge | Shared | Yes | — | — | — |
 | **St Christopher's Shepherd's Bush** | Shepherd's Bush | Shared; en-suite rooms available | Yes | — | — | — |
 | **Clink 261** | King's Cross | **Shared, every room type** | Yes, 4–10 bed | Yes | **Strict 18+** | — |
@@ -286,9 +287,21 @@ The operator calls it "a very small hostel" and caps groups at eight. It welcome
 
 ## What we left out, and why
 
-**The Walrus Bar and Hostel** on Westminster Bridge Road appears in every London hostel list, including our own earlier research. **Its website no longer resolves**, and the domain now serves a parking page. Booking sites still list it, but with no operator source we cannot tell you what its rooms, bathrooms or policies are, so it is not in the table. If it is still trading as before, it is a pub with beds above it, eight minutes from the South Bank.
+### The Walrus
 
-**Four hostels here — Astor Hyde Park, Astor Victoria, Park Villa and The Walrus — drew zero mentions** across 1,704 Reddit comments and 111 threads over eight months, while Wombat's got 52 and Onefam 55. That is absence of evidence rather than evidence against them: all four are recommended by independent guides, and the Astor pages are unusually transparent about prices and rules. It is a pattern worth knowing when you read a list that ranks them highly.
+*172 Westminster Bridge Road, SE1 7RW · Waterloo 5 min · [thewalrusbarandhostel.co.uk](https://www.thewalrusbarandhostel.co.uk/)*
+
+**A bar with a hostel above it**, ten minutes' walk from Big Ben, and the bar is the point rather than a common room bolted on — it calls itself a Lower Marsh institution and the drinking crowd is local as much as it is passing through.
+
+**The rate includes more than most.** Bed linen, Wi-Fi, use of the kitchen, lockers in the rooms, maps, printing for bookings and tickets, and earplugs — which is a fair signal about the noise. **Book direct and you also get breakfast, towel hire and 10% off the bar.**
+
+**Check-in is self-service from 2.30pm** with documents sent before noon, or reception between 3pm and 11pm. **Check-out is 10am**, which is early. Luggage storage is free before check-in and **£3 a bag afterwards**, 8am to 11pm. Groups need a minimum of two nights, and cancellation is 72 hours.
+
+The operator does not publish its dorm bathroom arrangement, whether it runs a female-only dorm, or an age policy, so those columns are blank above rather than guessed.
+
+**St Christopher's used to have more London sites.**
+
+**Four hostels here — Astor Hyde Park, Astor Victoria, Park Villa and The Walrus — drew zero mentions** across 1,704 Reddit comments and 111 threads over eight months, while Wombat's got 52 and Onefam 55. That is absence of evidence rather than evidence against them: all four are recommended by independent guides, all four are trading, and the Astor pages are unusually transparent about prices and rules. It is a pattern worth knowing when you read a list that ranks them highly.
 
 **St Christopher's used to have more London sites.** Greenwich and Camden are both praised in older writing and neither appears on the operator's current London page. Four sites is what there is.
 

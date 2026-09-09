@@ -1,0 +1,361 @@
+{
+  "month": "october",
+  "monthNumber": 10,
+  "article": "src/content/articles/things-to-do-in-london-in-october.md",
+  "note": "THE SPINE. This file holds what is true about October EVERY year - the annual fixtures, expressed as date RULES rather than dates, and the character of the month. It should barely change from year to year. Everything that is only true in one year lives in october-<year>.json, and the article's year-specific sections are driven from there. Splitting it this way is the whole point: the annual refresh is meant to be editing an overlay, not rereading an article to find what has gone stale.",
+  "rules": "A fixture belongs here only if it recurs annually AND is organised by a body with a website. Dates come from the organiser, never from a listings site. Every entry carries `official` and `verified`. If an event is missed a year, do not delete it - set `status` and say why, so a later pass does not re-add it blind. Anything a listings site or a language model will confidently place in October but that is actually somewhere else goes in `notInOctober` with the proof, for the same reason.",
+
+  "character": {
+    "inOneLine": "The month London's cultural year peaks and its daylight collapses - the densest fortnight of art and film in the calendar, followed by a week where it is dark before the museums close and every attraction is full of children.",
+    "weather": "Roughly 16C by day at the start of the month falling to 12-13C by the end, with nights around 8-10C. Wetter than September and the first month where a jacket is not enough - the practical advice flips from 'take a layer for the evening' to 'assume rain and assume dark'. October is the month the outdoor city stops working.",
+    "crowds": "Two entirely different months joined at the 23rd. The first three weeks are among the easiest of the year in the big museums - the summer has gone, the schools are in. Then half term lands and every museum, aquarium, zoo and family attraction refills at once for five days. The Frieze weekend is the exception at the other end: mid-October is the busiest the art world gets in London all year.",
+    "prices": "Two spikes, for two different reasons. Frieze week (five days in the middle of the month) is the hotel spike - five ticketed art fairs, an international trade audience, and rates to match. Half term is not primarily a hotel spike but an attraction spike: timed-entry slots at the paid attractions go first, and going on spec in that week is how a day gets wasted. The value in October is the first ten days and, if you can stand the dark, the very end.",
+    "daylight": "THE defining fact about October, and the one thing every visitor gets wrong. Sunset in London moves from about 6.40pm on the 1st to about 5.50pm on the Saturday before the clocks change - and then, overnight, to about 4.48pm on the Sunday, because BST ends at 2am. An hour of evening disappears between one day and the next. By the 31st the sun is down at about 4.37pm. Anyone planning a park, a view, a river walk or a rooftop for the second half of the month is planning it in the dark.",
+    "seasonReset": "October is when London gives up on being outdoors and becomes very good at being indoors. The film festival, the art fairs, the literature festival, the autumn exhibition openings and the dance season all land inside four weeks. The outdoor programme closes in the same stretch: the Serpentine Pavilion goes, the last of the summer installations come down, and Frieze Sculpture in Regent's Park is the last reason of the year to be standing in a park on purpose.",
+    "clocksAndTheMonthShape": "October has a hinge in it. Everything before the last Sunday is a normal autumn month with usable evenings; everything after it is winter with the lights on. Structure the guide around that hinge rather than around the calendar weeks, because that is how the month actually feels."
+  },
+
+  "standingSections": {
+    "note": "Sections that recur in the guide every year regardless of what is on, with where each one must be sourced from. These exist because two gaps in the September guide were structural rather than accidental, and a slot is the only thing that stops them recurring.",
+    "theatreOpeningsAndClosings": {
+      "why": "SEPTEMBER'S GUIDE COVERED OPENINGS ONLY. That is the less urgent half. An opening tells a reader something exists; a CLOSING date is what makes them book this week rather than next year. Both halves are required, and closings go first.",
+      "sourceFrom": "Producer and theatre sites for both. Closings: the theatre's own booking page carries a 'booking until' date, and that is the primary source - not a listings aggregator, which lags a booking extension by weeks. Openings: press-night dates from the producer.",
+      "octoberSpecific": "October is a heavy closing month because the autumn press-night wave in September pushes the summer run out. Look hardest at limited runs that opened in June and July."
+    },
+    "newVenueOpenings": {
+      "why": "BLUE NOTE LONDON WAS MISSED IN SEPTEMBER because a new venue falls between the restaurant sources and the gig sources - it is neither a restaurant opening nor a listed gig until it already has a programme. Give it its own slot and the gap becomes structural rather than accidental.",
+      "sourceFrom": "The venue's own site and its first published programme. A venue announces itself months before any listings site picks it up. Check music venues, theatres, museum wings, gallery relocations and major attractions - not just food and drink.",
+      "octoberSpecific": "Autumn is the opening season for cultural buildings; operators aim at the run-up to Christmas. A venue opening in October will have announced in the summer."
+    },
+    "exhibitionsOpeningAndClosing": {
+      "why": "The most time-sensitive thing the guide carries, and the same openings/closings discipline applies.",
+      "sourceFrom": "The museum's own what's-on page. October is unusual in having both a large closing cohort (summer shows ending) and a large opening cohort (the autumn blockbusters) in the same four weeks."
+    },
+    "restaurantsAndBars": {
+      "sourceFrom": "Operator sites and openings press. Note that this is the most perishable section on the page and should be dated in the copy."
+    }
+  },
+
+  "fixtures": [
+    {
+      "id": "bfi-london-film-festival",
+      "name": "BFI London Film Festival",
+      "what": "The UK's largest public film festival, run by the British Film Institute - features, series, immersive work, world and international premieres, with an Opening Night and Closing Night Gala. Programme is shown at BFI Southbank, BFI IMAX, cinemas across the West End, on BFI Player, and at partner venues around the UK.",
+      "dateRule": "Twelve days, opening on a Wednesday in the first half of October and closing on the Sunday of the following week. Only the current year's dates are organiser-confirmed here; the Wednesday-to-Sunday twelve-day shape has held across recent editions but treat it as a strong pattern, not a guarantee.",
+      "typical": "Twelve days, Wednesday to Sunday, first half of October",
+      "area": "BFI Southbank and BFI IMAX are the hubs, with West End cinemas and UK-wide partner venues",
+      "price": "Varies by screening. A £6 rate for 16-25 year olds runs across the festival.",
+      "booking": "THE BOOKING LADDER IS THE USEFUL PART AND IT RUNS ENTIRELY IN SEPTEMBER. BFI Patrons get priority first, BFI Members the following day, general sale about a week later. THEN THERE IS A SECOND RELEASE: extra tickets go on sale at 10am roughly a week before the festival opens, and this is the route back in for anyone who missed general sale. In 2026 that ladder was 9 September (Patrons), 10 September (Members), 17 September (general), 1 October 10am (extra tickets released).",
+      "official": "https://whatson.bfi.org.uk/lff/Online/default.asp",
+      "verified": "2026-09-09",
+      "verifiedNote": "Organiser's own booking site. bfi.org.uk/london-film-festival 301-redirects here. Carried '7 to 18 October 2026' and the four-stage booking ladder as page text.",
+      "internalLink": "/articles/london-film-festival/",
+      "editorialRule": "DO NOT DUPLICATE THE FILM FESTIVAL PAGE. /articles/london-film-festival/ is one of our better-performing pages and carries the tickets, prices and the routes into a sold-out screening. The monthly guide gets a short section - dates, the extra-release date, the £6 under-25 rate - and sends the reader there."
+    },
+    {
+      "id": "frieze-london-and-frieze-masters",
+      "name": "Frieze London and Frieze Masters",
+      "what": "Two ticketed art fairs run by Frieze in temporary structures at opposite ends of The Regent's Park on the same days. Frieze London is contemporary; Frieze Masters covers art from antiquity to the late twentieth century. A free shuttle runs between them roughly every fifteen minutes.",
+      "dateRule": "Five days, Wednesday to Sunday, in the middle of October. THE FIRST DAY IS NOT PUBLIC. Wednesday is invitation only at both fairs; Thursday morning is a members-and-invitation preview and general admission starts on Thursday afternoon; Friday, Saturday and Sunday are open. So the public fair is really three and a half days, not five.",
+      "typical": "Wednesday to Sunday, mid-October",
+      "area": "Frieze London is in the south of The Regent's Park, entrance off Park Square West, NW1 4LL. Frieze Masters is on Gloucester Green at the north-east corner, near London Zoo, NW1 4HA.",
+      "price": "Tiered by day and it is expensive. In 2026: Thursday first preview £130-£150 (£210-£250 for both fairs), Friday preview £63-£95 depending on time of entry, weekend day tickets £38-£59, with a concession band down to around £6-£10. Tickets online only.",
+      "booking": "Online only, and the cheapest useful advice is that the weekend is roughly a third of the Thursday preview price for the same art with more people in front of it.",
+      "official": "https://www.frieze.com/fairs/frieze-london",
+      "verified": "2026-09-09",
+      "verifiedNote": "Organiser's own site. Dates, opening hours, entrances, postcodes and the full price table taken from frieze.com/fairs/frieze-london and /fairs/frieze-london-frieze-masters/visitor-information and /tickets.",
+      "sourceWarning": "THE ORGANISER'S OWN VISITOR-INFORMATION PAGE CONTAINS A TYPO. Under Frieze Masters opening hours it lists the final day as 'Sunday, October 19' in a year where the fair runs 14-18 October. Do not copy the hours table blind; cross-check the last day against the fair dates at the top of the same page."
+    },
+    {
+      "id": "frieze-sculpture",
+      "name": "Frieze Sculpture",
+      "what": "A free outdoor exhibition of large-scale sculpture in The Regent's Park, by the same organiser as the fairs but not part of them. Around a dozen international artists, curated, in the English Gardens.",
+      "dateRule": "About six and a half weeks, opening in the second half of September and closing at the very start of November - so it brackets the fairs on both sides and is open for the whole of October. FREE, no ticket, no booking.",
+      "typical": "Mid-September to the first days of November",
+      "area": "The Regent's Park, English Gardens",
+      "price": "Free",
+      "booking": "None",
+      "official": "https://www.frieze.com/fairs/frieze-sculpture",
+      "verified": "2026-09-09",
+      "editorialRule": "THIS IS THE MOST USEFUL FRIEZE FACT AND ALMOST NO GUIDE LEADS ON IT. A reader who is not going to spend £48 on a fair ticket can have the Frieze experience in Regent's Park for nothing, for six weeks, at their own pace. Carry it as its own entry rather than a footnote to the fairs - it is the answer to 'is Frieze worth it' for most of our readers."
+    },
+    {
+      "id": "diwali-on-the-square",
+      "name": "Diwali on the Square",
+      "what": "The Mayor of London's Diwali celebration in Trafalgar Square, delivered with the Diwali in London committee. Free and open, with a mass opening dance sequence, a main stage of music and dance from Hindu, Sikh and Jain communities, family workshops (sari and turban tying, yoga, puppetry), and vegetarian and vegan food stalls.",
+      "dateRule": "A SUNDAY IN OCTOBER, AND THIS IS THE INTERESTING PART. It is not on a fixed date and it is NOT necessarily on Diwali. Diwali moves with the lunar calendar and can fall in November; the Mayor's event is scheduled for an October Sunday regardless. Confirmed October Sundays across three editions: Sunday 9 October, Sunday 12 October 2025, Sunday 25 October 2026 - a spread of more than two weeks within the month. THE START TIME MOVES TOO, and it tracks the light rather than the calendar: 2pm-8pm on an early-October Sunday, 1pm-7pm on a late-October one after the clocks have changed. In both cases it ends roughly two hours after sunset, which is when the square is worth being in.",
+      "typical": "A Sunday in October, six hours, afternoon into dark",
+      "area": "Trafalgar Square",
+      "price": "Free",
+      "booking": "None, no ticket required",
+      "official": "https://www.london.gov.uk/events/diwali-square",
+      "verified": "2026-09-09",
+      "verifiedNote": "Mayor of London's own site. Three separate editions checked on london.gov.uk to establish the Sunday-in-October rule rather than assuming it from one year.",
+      "commonError": "Do not date this from the Diwali date. In 2026 Diwali itself falls outside October entirely and the square event is still on the 25th."
+    },
+    {
+      "id": "black-history-month",
+      "name": "Black History Month",
+      "what": "UK-wide observance running the whole of October, with a national theme set each year and a large London programme across museums, galleries, libraries, boroughs and venues.",
+      "dateRule": "The whole calendar month, every year, UK-wide. Unlike the US, which observes it in February, the UK observes it in October - worth stating plainly because visitors get it wrong.",
+      "typical": "1-31 October",
+      "area": "London-wide and national",
+      "price": "Mixed; a large share of the programme is free",
+      "booking": "Varies entirely by event",
+      "official": "https://www.blackhistorymonth.org.uk/",
+      "verified": "2026-09-09",
+      "overlayField": "THE THEME CHANGES EVERY YEAR AND BELONGS IN THE OVERLAY, NOT HERE. 2026's was 'Honouring Our Communities'. The month itself never moves; the theme always does."
+    },
+    {
+      "id": "london-literature-festival",
+      "name": "London Literature Festival",
+      "what": "The Southbank Centre's literature festival - talks, readings and performance across the Royal Festival Hall and the smaller Southbank rooms. Recent editions have been shaped by a guest curator.",
+      "dateRule": "Roughly a fortnight bridging the last third of October into the first days of November. IT CROSSES THE MONTH BOUNDARY, so a strictly-October guide clips the end of it - say so rather than pretending the festival stops on the 31st.",
+      "typical": "Late October into the first day or two of November",
+      "area": "Southbank Centre, Royal Festival Hall and associated spaces",
+      "price": "Ticketed, per event",
+      "booking": "Per event through the Southbank Centre",
+      "official": "https://www.southbankcentre.co.uk/whats-on/festivals-series/london-literature-festival",
+      "verified": "2026-09-09",
+      "verifiedNote": "Organiser's own site carried 'Tue 20 Oct - Sun 1 Nov 2026' with a named guest curator for the edition.",
+      "overlayField": "The guest curator and the headline names change every year and belong in the overlay."
+    },
+    {
+      "id": "dance-umbrella",
+      "name": "Dance Umbrella",
+      "what": "London's international dance festival - contemporary and international work programmed across multiple venues rather than housed in one, plus a digital strand of dance films.",
+      "dateRule": "About three weeks in October, in-person across London venues. THE DIGITAL STRAND RUNS ON PAST THE FESTIVAL, typically to the end of November, which is a genuinely useful thing to tell a reader who cannot get to a theatre.",
+      "typical": "Three weeks, from the first week of October",
+      "area": "Multiple venues - recent editions have used Sadler's Wells East, The Place, the Barbican, Somerset House, Cecil Sharp House, Rich Mix and The Bhavan. Some strands are free.",
+      "price": "Mixed - ticketed performances alongside free events",
+      "booking": "Through each host venue",
+      "official": "https://danceumbrella.co.uk/",
+      "verified": "2026-09-09",
+      "verifiedNote": "Organiser's own homepage carried '7-27 October 2026' as standing festival text, with digital items dated '7 Oct - 30 Nov 2026'."
+    },
+    {
+      "id": "bloomsbury-festival",
+      "name": "Bloomsbury Festival",
+      "what": "A month-long neighbourhood arts and science festival across Bloomsbury - music, performance, exhibitions, talks, walks and workshops in the squares, parks, museums, galleries, laboratories and university buildings of the quarter. Over forty venues.",
+      "dateRule": "The whole of October. The organiser's own standing wording is 'Each October'.",
+      "typical": "1-31 October",
+      "area": "Bloomsbury - 40+ venues including university and laboratory buildings not normally open",
+      "price": "Mixed, with a substantial free programme",
+      "booking": "Per event",
+      "official": "https://bloomsburyfestival.org.uk/",
+      "verified": "2026-09-09",
+      "editorialNote": "THE TODO LIST DID NOT HAVE THIS ONE. It is the closest thing October has to Open House in feel - free, dispersed, gets you inside buildings you cannot normally enter - and it runs the entire month rather than a weekend, which makes it the easiest thing in this file to actually use."
+    },
+    {
+      "id": "mcm-comic-con-london",
+      "name": "MCM Comic Con London",
+      "what": "A three-day comics, gaming, anime and pop culture convention at ExCeL London, run by RX. Cosplay-heavy, large, and the biggest single-venue crowd in the month.",
+      "dateRule": "Three days, Friday to Sunday, in the second half of October - timed against the start of English school half term. There is a second London edition in the spring.",
+      "typical": "Friday to Sunday, second half of October",
+      "area": "ExCeL London, Royal Victoria, E16",
+      "price": "Ticketed",
+      "booking": "In advance; day and weekend tickets",
+      "official": "https://www.mcmcomiccon.com/london",
+      "verified": "2026-09-09",
+      "verifiedNote": "Organiser's own site carried 'MCM London Returns 23-25 October 2026!' at ExCeL London.",
+      "practicalWarning": "It puts a large crowd on the DLR and the Elizabeth line at Custom House on the same weekend that half term starts. If a reader is doing anything else in Docklands that weekend, they should know."
+    },
+    {
+      "id": "pad-london",
+      "name": "PAD London",
+      "what": "The UK's only fair dedicated exclusively to historical and contemporary design, in a pavilion on Berkeley Square in Mayfair. Founded 2007, sister fair to PAD Paris.",
+      "dateRule": "The organiser's own standing wording is that 'the week-long event takes place every October on Berkeley Square'. In practice it opens a day or two before Frieze and closes on the same Sunday.",
+      "typical": "About six days in mid-October, ending with Frieze",
+      "area": "Berkeley Square, Mayfair, W1",
+      "price": "Ticketed",
+      "booking": "In advance",
+      "official": "https://www.padesignart.com/london",
+      "verified": "2026-09-09",
+      "verifiedNote": "Organiser's own site carried 'PAD London 13-18 October 2026' plus the 'every October on Berkeley Square' standing text, which is exactly the sort of phrasing a spine wants."
+    },
+    {
+      "id": "1-54-contemporary-african-art-fair",
+      "name": "1-54 Contemporary African Art Fair",
+      "what": "The leading international art fair dedicated to contemporary art from Africa and the African diaspora, held at Somerset House. Editions also run in Marrakech, New York and Paris.",
+      "dateRule": "Four days inside Frieze week - a Thursday VIP and press preview, then public Friday to Sunday, closing on the same Sunday as Frieze.",
+      "typical": "Thursday preview then Friday to Sunday, mid-October",
+      "area": "Somerset House, Strand, WC2",
+      "price": "Ticketed",
+      "booking": "In advance",
+      "official": "https://www.1-54.com/london/",
+      "verified": "2026-09-09",
+      "verifiedNote": "Organiser's own site carried the full day-by-day schedule: 'VIP and Press Preview: Thursday 15 October... Public and VIP Opening: Friday 16 October... Sunday 18 October, 11:00 - 18:00'.",
+      "editorialNote": "The most central of the Frieze-week satellites and the easiest to combine with something else, because Somerset House is walkable from the Strand rather than a trek to Regent's Park."
+    },
+    {
+      "id": "affordable-art-fair-battersea-autumn",
+      "name": "Affordable Art Fair Battersea (Autumn edition)",
+      "what": "Contemporary art from over a hundred UK and international galleries with every work priced within a stated band, in a pavilion in Battersea Park. The deliberate counterweight to Frieze in the same week.",
+      "dateRule": "Five days in Battersea Park in mid-October, overlapping Frieze almost exactly. There is a spring edition in the same park, so always specify 'Autumn'.",
+      "typical": "Wednesday to Sunday, mid-October",
+      "area": "Battersea Park, SW11",
+      "price": "Ticketed, and cheap relative to the other fairs; the art itself is price-capped by the fair's own model",
+      "booking": "In advance",
+      "official": "https://www.affordableartfair.com/fairs/london-battersea-autumn/",
+      "verified": "2026-09-09",
+      "verifiedNote": "Organiser's own fair page carried '14 - 18 October 2026' and a 2026 opening-times table.",
+      "editorialNote": "Worth pairing with Frieze in the copy rather than listing separately: same week, opposite proposition, and the honest answer for a reader who wants to buy something rather than look at things they cannot afford."
+    },
+    {
+      "id": "london-restaurant-festival",
+      "name": "London Restaurant Festival",
+      "what": "A city-wide restaurant festival running set festival menus and one-off ticketed dining events across London. American Express-led, running for over fifteen years.",
+      "dateRule": "TWICE A YEAR - a June edition and an autumn edition. The autumn edition runs across October, with festival menus available throughout the month rather than in a fixed week. Amex Cardmember presale opens in early September, ahead of general availability.",
+      "typical": "Across October, plus a June edition",
+      "area": "London-wide",
+      "price": "Set festival menus at participating restaurants, plus separately ticketed events",
+      "booking": "Through the festival site. The Amex presale is the early route in for the ticketed events.",
+      "official": "https://londonrestaurantfestival.com/",
+      "verified": "2026-09-09",
+      "verifiedNote": "Organiser's own homepage carried 'AUTUMN EDITION OCTOBER 2026', the presale date, and the standing 'throughout June and October' twice-yearly wording."
+    },
+    {
+      "id": "asian-art-in-london",
+      "name": "Asian Art in London",
+      "what": "A city-wide programme of selling exhibitions, auctions, lectures and museum events across the London Asian art trade. Founded 1998.",
+      "dateRule": "Eleven to twelve days spanning the very end of October into the first half of November - SO IT IS AN OCTOBER EVENT THAT MOSTLY HAPPENS IN NOVEMBER. It belongs in the October guide because it opens in October and readers need to know it is starting, but do not imply it is contained in the month.",
+      "typical": "Opens in the last days of October, runs to around the tenth of November",
+      "area": "Mayfair and St James's galleries, the auction houses, and museum partners",
+      "price": "Largely free to walk into the gallery exhibitions",
+      "booking": "Varies; the lectures and previews ticket separately",
+      "official": "https://asianartinlondon.com/",
+      "verified": "2026-09-09",
+      "verifiedNote": "Organiser's own homepage carried 'Thursday 29th October - Tuesday 10th November 2026'."
+    },
+    {
+      "id": "school-half-term",
+      "name": "October half term",
+      "what": "Not an event, and the most important single fact in this file for anyone planning a museum, a paid attraction or a restaurant table. English schools take a week off in late October and London's family attractions fill completely.",
+      "dateRule": "The week beginning the LAST MONDAY OF OCTOBER in most London boroughs, Monday to Friday. IT IS NEVER UNIVERSAL: academies and free schools set their own dates, and a minority of schools take the preceding week instead. State it as 'most London schools', never as a fact about all of them.",
+      "typical": "Monday to Friday, the last full school week of October",
+      "area": "London-wide; the effect is concentrated in the paid family attractions, the big museums and the West End matinees",
+      "price": "Attraction timed-entry slots go first. Hotel rates move less than people expect - this is an attraction spike, not primarily an accommodation one.",
+      "booking": "BOOK TIMED ENTRY BEFORE THE WEEK STARTS. Turning up on spec at a paid attraction in half term is how a day gets wasted, and the free museums are the fallback rather than the plan.",
+      "official": "https://www.gov.uk/school-term-holiday-dates",
+      "verified": "2026-09-09",
+      "verifiedNote": "gov.uk confirms term dates are set by individual councils and schools, not nationally. Two London boroughs checked directly on their own sites and both gave Monday 26 to Friday 30 October 2026 - and one published the following year as Monday 25 to Friday 29 October 2027, which is what establishes the last-Monday rule rather than a single year's coincidence.",
+      "refreshRule": "Re-check this against two or more London borough sites every year. Do not carry it forward by arithmetic alone."
+    },
+    {
+      "id": "clocks-go-back",
+      "name": "The clocks go back",
+      "what": "British Summer Time ends and the UK returns to GMT. The single biggest change to what London is like to visit, and it happens overnight.",
+      "dateRule": "2am on the LAST SUNDAY IN OCTOBER, every year, by statute. Clocks go back one hour. This is the one date in this file that genuinely cannot move.",
+      "typical": "The last Sunday of October, 2am",
+      "area": "National",
+      "price": "Free, and it costs you an hour of evening",
+      "booking": "None",
+      "official": "https://www.gov.uk/when-do-the-clocks-change",
+      "verified": "2026-09-09",
+      "verifiedNote": "gov.uk states the rule as standing text - 'back 1 hour at 2am on the last Sunday in October' - and lists the dates for several years ahead, which is exactly the shape a spine wants.",
+      "theUsefulDetail": "Give the reader the actual numbers, because 'the clocks go back' does not land until you show them the cliff. Sunset in London on the Saturday before the change is about 5.50pm. On the Sunday after it, it is about 4.48pm. By the 31st it is about 4.37pm. Anything a visitor wants to see outdoors in the last week of the month has to happen before mid-afternoon.",
+      "sunsetSource": "Sunset times for a given year can be checked against a published ephemeris for 51.5074N, 0.1278W - remember such sources return UTC, so add an hour for BST dates before the change and none after it."
+    },
+    {
+      "id": "halloween",
+      "name": "Halloween",
+      "what": "31 October. In London it is a commercial season rather than a single night - scare attractions, light and pumpkin trails, ghost tours, club nights and a large costume-hire trade.",
+      "dateRule": "31 October, fixed. THE SEASON AROUND IT IS THE PART THAT MOVES: the trails and scare attractions open from roughly the middle of the month and peak across half-term week, so the busiest nights are usually the two weekends before the 31st rather than the 31st itself. When 31 October falls on a Friday or Saturday, that reverses and the night itself becomes the peak.",
+      "typical": "31 October, with a season from mid-month",
+      "area": "London-wide",
+      "price": "Mixed; the scare attractions are firmly ticketed and rise in price towards the date",
+      "booking": "Attractions and trails sell out for half-term week specifically. Costume hire runs out before the costumes do.",
+      "official": "n/a - no single organiser; each attraction is its own primary source",
+      "verified": "2026-09-09",
+      "internalLink": "/articles/halloween-london/",
+      "editorialRule": "DO NOT DUPLICATE THE HALLOWEEN PAGE. /articles/halloween-london/ is a strong page carrying the events, the parties and where to get a costume. The monthly guide gets the date, the where-the-peak-actually-falls point, and a link."
+    }
+  ],
+
+  "theCollision": "OCTOBER HAS TWO COLLISIONS AND THEY ARE OPPOSITE IN CHARACTER, WHICH IS WHY NO PUBLISHED GUIDE MANAGES TO STATE EITHER. The first is the good one. In the middle of the month, FIVE ticketed art fairs run in the same city on the same days - Frieze London and Frieze Masters at either end of The Regent's Park, PAD on Berkeley Square, 1-54 at Somerset House and the Affordable Art Fair in Battersea Park - and they land inside the twelve days of the BFI London Film Festival. In 2026 that means Thursday 15 to Sunday 18 October carries all five fairs plus the film festival's closing weekend. It is the densest cultural weekend in the London year, and hotel rates know it. The honest counterweight, and the thing to lead on for most readers, is that Frieze Sculpture sits in the same park, free, unticketed, for six weeks either side. The second collision is the unpleasant one, and it is stacked into the last eight days. The clocks go back on the last Sunday of the month, so an hour of evening vanishes overnight - sunset drops from about 5.50pm on the Saturday to about 4.48pm on the Sunday. Diwali on the Square runs in Trafalgar Square that same Sunday afternoon. MCM Comic Con finishes at ExCeL on the same day. School half term starts the next morning and fills every museum and paid attraction for five days. And Halloween closes the week - in 2026 on a Saturday, which is the busiest configuration it has. So the last week of October is simultaneously dark by teatime, full of children, and hosting the biggest free cultural event and the biggest convention of the month. A reader planning that week needs to know all of it before they book, and a reader who can choose should be told plainly that the first ten days of October are the better trip.",
+
+  "notInOctober": [
+    {
+      "name": "The Lord Mayor's Show",
+      "theError": "Routinely placed in October by aggregators and by anyone reasoning from 'autumn City of London pageantry'. THE TODO LIST FLAGGED THIS AND THE FLAG IS CORRECT.",
+      "theTruth": "NOVEMBER. The Show is on the second Saturday of November, setting off from Mansion House at 11am. The Silent Ceremony in which the new Lord Mayor takes office is the Friday of the preceding week.",
+      "octoberConnection": "There is a real October hook and it is worth one line: the organiser states that details of the Show are published around the beginning of October, when the next Lord Mayor is elected. So October is when the Show becomes plannable, not when it happens.",
+      "official": "https://lordmayorsshow.london/",
+      "verified": "2026-09-09",
+      "verifiedNote": "Organiser's own site carried '14 November 2026' and 'set off from Mansion House... on Saturday 14 November at 11am'."
+    },
+    {
+      "name": "London Cocktail Week",
+      "theError": "THE MOST IMPORTANT ENTRY IN THIS SECTION. London Cocktail Week ran in October every year for well over a decade, so every guide, listing and language model will place it in October. IT IS NOT THERE ANY MORE.",
+      "theTruth": "The organiser's own site states that the festival previously took place in October each year, that it is taking a break in 2026, and that from 2027 it moves to new dates in March. There is no October 2026 edition and October is not its month going forward.",
+      "status": "MOVED TO MARCH FROM 2027, WITH 2026 SKIPPED ENTIRELY.",
+      "official": "https://londoncocktailweek.com/",
+      "verified": "2026-09-09",
+      "verifiedNote": "Organiser's own site, in its own explainer article: the festival is described as 'previously taking place in October each year - and from 2027 moving to new dates in March', with 2026 stated as a break year.",
+      "doNotReAdd": "Do not re-add this to October in a later refresh because a listings site still has it. Check the organiser."
+    },
+    {
+      "name": "Open House Festival",
+      "theError": "Sometimes assumed to spill into October because it is an autumn festival and because Heritage Open Days runs on a different schedule.",
+      "theTruth": "SEPTEMBER. Nine days in the middle of September. It is fully covered by the September spine and does not cross into October.",
+      "official": "https://open-city.org.uk/open-house-festival",
+      "verified": "2026-09-09",
+      "verifiedNote": "Open City's own festival page carried '12-20 September' for the 2026 edition and described it as the 35th."
+    },
+    {
+      "name": "Bonfire Night",
+      "theError": "Placed in October by anyone reasoning from 'the fireworks season'.",
+      "theTruth": "5 NOVEMBER. What is genuinely true of October is that some London borough displays are scheduled for the last weekend of the month, in half-term week, rather than on the 5th - but which boroughs do this changes every year and none of it should be asserted without checking each display's own listing for the year in hand.",
+      "official": "n/a - each display is its own organiser",
+      "verified": "2026-09-09",
+      "internalLink": "/articles/bonfire-night-london/",
+      "editorialRule": "The October guide gets one line pointing at /articles/bonfire-night-london/ - the displays start going on sale in October and that is the actionable part. Do not list displays here; the page does it properly."
+    }
+  ],
+
+  "recurringButUnverified": [
+    {
+      "name": "Trafalgar Day Parade",
+      "what": "The Sea Cadets' Trafalgar Day parade in Trafalgar Square, commemorating the Battle of Trafalgar, traditionally with hundreds of cadets, a band and a wreath-laying at Nelson's Column.",
+      "typical": "The Sunday nearest 21 October",
+      "established": "The Sea Cadets are the organising body and the parade was historically held in Trafalgar Square. Their own newsroom carries a 2021 item explaining that in that year, instead of cadets gathering in Trafalgar Square, units and districts held local parades in their own communities.",
+      "missing": "ANY CURRENT ORGANISER PAGE CONFIRMING THE CENTRAL TRAFALGAR SQUARE PARADE STILL RUNS, and any date for the year in hand. sea-cadets.org has no Trafalgar Day landing page - /trafalgarday returns 'The resource trafalgarday is not available' - and the most recent relevant item on the site is the 2021 dispersal notice.",
+      "status": "NOT VERIFIED as of 2026-09-09. Do not print a date and do not describe it as an annual Trafalgar Square fixture until the Sea Cadets confirm it. ASK ROB - he may know whether this still happens.",
+      "official": "https://www.sea-cadets.org/"
+    },
+    {
+      "name": "October Plenty",
+      "what": "A harvest festival by the theatre company the Lions part - seasonal customs, performance and music, historically starting on Bankside near Shakespeare's Globe and processing to Borough Market.",
+      "typical": "A Sunday in the second half of October",
+      "established": "The Lions part is the organiser and the event is real. Their own site's October Plenty page lists a Bankside edition as recently as 2022, and states that October Plenty 2025 took place in COVENTRY on Sunday 26 October, ending with 'See you in 2026!'.",
+      "missing": "Whether it returns to Bankside at all, and any 2026 date or location. The organiser's own page gives a 2025 edition in a different city and no forward date.",
+      "status": "NOT VERIFIED as a London fixture as of 2026-09-09. TREAT AS NO LONGER A BANKSIDE EVENT UNTIL PROVEN OTHERWISE. Several London listings sites still describe it as an annual Bankside harvest festival; the organiser's own site does not support that.",
+      "official": "https://www.thelionspart.co.uk/octoberplenty/"
+    },
+    {
+      "name": "The Big Draw Festival",
+      "what": "An annual national drawing festival run by the Big Draw, with participating venues across London running free and low-cost drawing events.",
+      "typical": "Historically October into November",
+      "established": "The Big Draw is a live organisation with a current site, it runs an annual festival, and it invites venues to list events under the festival banner. Individual dated events appear on the site in September and October.",
+      "missing": "ANY PUBLISHED FESTIVAL WINDOW. The organiser's site does not state the festival's dates for the year in hand anywhere I could reach, only individual partner events.",
+      "status": "NOT VERIFIED as of 2026-09-09. Do not print festival dates. If it is used at all, describe it as a programme of individually dated partner events rather than a festival with a start and an end.",
+      "official": "https://thebigdraw.org/"
+    },
+    {
+      "name": "NFL London Games",
+      "what": "NFL regular-season games played in London, in recent years at Tottenham Hotspur Stadium and Wembley.",
+      "typical": "October, and September and October in some seasons",
+      "established": "The NFL's own international site states that the NFL returns to Tottenham Hotspur Stadium in London in October and that tickets are on sale, with an official ticketing link.",
+      "missing": "Exact dates and fixtures for the year in hand - the NFL's own listings did not surface them in a form I could confirm.",
+      "status": "SPORT - FLAGGED, DELIBERATELY NOT BUILT INTO THE SPINE. data/worklist.json carries `sport-in-monthly-guides` as an open decision. Do not add this or any other sport fixture to `fixtures` until that decision is made. Recorded here only so the question is answered with evidence rather than from memory."
+    },
+    {
+      "name": "Football, rugby and the rest of the autumn sporting calendar",
+      "what": "The Premier League, EFL, Champions League and Premiership Rugby are all mid-season in October, and London has more top-flight clubs than any other city in Europe. Fixture lists are public.",
+      "typical": "Throughout October",
+      "established": "That October is a full month of London sport is not in doubt.",
+      "missing": "A decision on whether this series covers sport at all.",
+      "status": "SPORT - FLAGGED, DELIBERATELY NOT BUILT INTO THE SPINE. Same reason as above: `sport-in-monthly-guides` in data/worklist.json. If the answer turns out to be yes, October is the month to start, because it is the first month where sport is the reason some readers are in the city."
+    }
+  ]
+}

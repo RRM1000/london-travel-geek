@@ -400,9 +400,13 @@
    "zone": "1",
    "district": "Central",
    "address": "172 Westminster Bridge Road",
+   "postcode": "SE1 7RW",
    "priceBand": "£",
-   "whyGo": "A pub with beds above it on Westminster Bridge Road, eight minutes' walk from the South Bank - dorms and private rooms, and the bar downstairs is the social life rather than a common room.",
-   "opNote": "Three of the three backpacker blogs in the hostels corpus. The bar underneath is the trade-off both ways: it is why people like it, and it is why a light sleeper should look elsewhere.",
+   "breakfast": "included",
+   "roomTypes": "Dorms, private rooms",
+   "luggageStorage": "yes",
+   "whyGo": "A bar with a hostel above it, ten minutes' walk from Big Ben - the bar is the point rather than a common room bolted on, and it calls itself a Lower Marsh institution.",
+   "opNote": "The rate includes bed linen, wifi, the kitchen, in-room lockers and EARPLUGS, which is a fair signal about the noise from downstairs. Book direct and breakfast, towel hire and 10% off the bar come with it. Check-out is 10am, which is early. Luggage storage is free before check-in and GBP3 a bag after, 8am-11pm. The operator publishes no dorm bathroom arrangement, no female-only dorm and no age policy, so we claim none.",
    "goodFor": [
     "solo",
     "budget",
@@ -411,7 +415,8 @@
    "lists": [
     "hostels",
     "best-value"
-   ]
+   ],
+   "website": "https://www.thewalrusbarandhostel.co.uk/"
   },
   {
    "slug": "urbany-hostel-london",
