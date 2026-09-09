@@ -35,6 +35,8 @@ This guide covers **fourteen London hostels**, every fact taken from the operato
 
 > 💡 **The Short Version:** **[Wombat's](hotel:wombats-city-hostel-london)** near Tower Bridge is the one to book if you want an en-suite dorm and a good night's sleep — it is the only hostel here where every dorm has its own shower and toilet, and it now sells Quiet Dorms as their own category. **[St Christopher's Village](hotel:st-christophers-village)** at London Bridge has the best women's accommodation in London: Oasis, a female-only floor with its own bathrooms and key card. **[Generator](hotel:generator-london)** is the cheapest and the loudest. **[YHA London Central](hotel:yha-london-central)** is the sensible one, and the only one that takes children. **[Clink 261](hotel:clink261)** has the best King's Cross location and shared bathrooms on absolutely everything.
 
+> 🛏️ **Not sure a dorm is what you want?** London also has five real [capsule hotels](/articles/pod-hotels-london/) — a sealed berth with a shutter rather than a curtain, from about £33 a night at Piccadilly Circus. That is dorm money for a space nobody can see into. What you give up is the kitchen, and at three of the five, the front desk.
+
 ## What you are actually booking
 
 The word "hostel" now covers three quite different products in London, and the gap between them is wider than the gap between a hostel and a budget hotel.
