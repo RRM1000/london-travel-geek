@@ -80,6 +80,10 @@ The best pizza in Britain is cooked in the back of a Leyton brewery pub by a kit
 
 Ugo and Kate started it on Short Road in Leytonstone, which is where the name comes from.
 
+![A Short Road pizza on a metal tray, the rim puffed and charred in patches, topped with cupped pepperoni, torn mozzarella, grated parmesan and fresh basil, sitting on green Short Road Pizza paper](../../assets/articles/best-pizza-london/short-road-pizza.jpg)
+
+*Not the award-winning marinara — the pepperoni, on the same base. The green paper under the tray is the tell that this is a residency running its own menu inside somebody else's pub.*
+
 > ⚠️ **A residency, not a restaurant.** Short Road cooks inside Exale Brewery's two pubs, William The Fourth in Leyton and Three Colts in Bethnal Green, so the kitchen keeps shorter hours than the bar.
 
 ### Napoli on the Road, Chiswick
@@ -124,7 +128,11 @@ No single ranking crowns these, but they carry the widest agreement in the city 
 
 The only New York-style pizzeria that Time Out, The Infatuation and Country & Town House all name. Eighteen-inch pies, Southern Italian ingredients, and a room that behaves like a Brooklyn slice joint rather than a trattoria.
 
-One catch worth knowing: despite the framing, the restaurants sell whole pies rather than slices. A second site trades at 342 King's Road in Chelsea.
+One catch worth knowing: despite the framing, most of the rooms sell whole pies rather than slices. There are four sites — 22 Paddington Street in Marylebone, 342 King's Road in Chelsea, 84 Westbourne Grove and 233 Portobello Road — and Portobello Road is the one that runs a slice counter alongside the dining menu.
+
+![An Alley Cats pizza cut into slices on a metal tray, tomato sauce and thin melted cheese under dollops of green pesto and a scatter of dried oregano, held up on the pavement outside](../../assets/articles/best-pizza-london/alley-cats-portobello-road.jpg)
+
+*The Portobello Road branch, where you can buy it by the slice. Charred and puffed at the rim, thin and foldable under the middle — the New York proportions the group is named for.*
 
 ### Bad Boy Pizza Society, Covent Garden
 
@@ -171,11 +179,15 @@ The style is its own: a **long-fermented, heavily blistered base** with toppings
 
 *£ · Shoreditch · 122 Bethnal Green Road · walk-in · Cited by 6 sources · #9 of 21, Time Out · #3 of 12, The Infatuation · [website](https://vincenzospizzas.com/)*
 
-**A Shoreditch counter run by a Neapolitan**, doing the classic style without any of the east London reinvention around it.
+**A Shoreditch counter where New York meets Naples**, which is the whole idea rather than a compromise. Tom went to the slice counters of Manhattan and Brooklyn first and to Naples second, came home, built a dome oven in his own back garden and worked out a style that keeps both halves.
 
-A short menu built on a properly fermented Neapolitan dough: **margherita, marinara and a handful of others**, baked fast in a wood oven so the cornicione blisters and the centre stays soft. Order the marinara — no cheese, just tomato, garlic and oregano — if you want to judge the base.
+What comes out is a wide pie on a long-fermented dough — Neapolitan under the middle, New York in the proportions, and sold by the slice as well as whole.
 
-**££, walk-in.** Small, and the queue moves quickly because the bake takes ninety seconds.
+Small, and the queue moves quickly. There is a second branch at 42 High Street in Bushey, which is where it started.
+
+![A wide New York-style pepperoni pizza on a metal tray at Vincenzo's, cut into slices and covering most of the table, with shakers of chilli flakes and dried oregano beside it](../../assets/articles/best-pizza-london/vincenzos.jpg)
+
+*The pie is the size of the table, which is the point — this is a New York slice counter's proportions, not a Neapolitan pizzeria's. Chilli flakes and dried oregano on the table, as they should be.*
 
 ### Yard Sale Pizza, Clapton
 
