@@ -69,6 +69,8 @@ Same name, next door, two kitchens, because they cannot be one. **Novellino** do
 
 **Two things the registers guarantee that menus do not mention.** All KLBD dairy restaurants use Chalav Yisrael milk and all its meat restaurants are Glatt. The SKA says the same of its licensees and adds that all use Yashan grain. If those matter to you, they are settled by the certification rather than by asking.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-kosher-restaurants-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where they are
 
 Kosher London is a **north-west corridor**, and the register makes that unusually stark. Of the KLBD's London listings:
@@ -96,6 +98,8 @@ Thirty-three establishments, of which thirty are in London — **Balagan** and *
 **Dairy kitchens (15).** Bagels Bar, Bread, Mr Baker, Portoberry and White Fish in Hendon; Beit Café, Eli's Pizza, Novellino, Slice and Taboon in Golders Green; Bread in Temple Fortune; Eli's Pizza and Sababa in Edgware; Tasti Pizza on Amhurst Park.
 
 **And the ones only KF Kosher lists**, which no KLBD reader would find: Reubens, Mazal, Soyo, Pita, One Ashbourne, Aviv, Pizaza, The Kanteen, Ranch, Bracha, Logan's and Headroom Cafe among them.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-kosher-restaurants-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## How to use this
 

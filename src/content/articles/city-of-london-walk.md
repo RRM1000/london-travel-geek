@@ -97,6 +97,8 @@ It is **free**, it is genuinely good — the gold bar you can try to lift is the
 
 If you are walking at a weekend, this stop simply is not available, and no amount of planning gets around it.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-walk-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 3. Leadenhall Market
 
 ![The painted maroon, cream and gold arcade of Leadenhall Market under its glass roof, with the Lamb Tavern on the left and drinkers at barrel tables along the lane](../../assets/articles/city-of-london-walk/leadenhall-market-arcade.jpg)
@@ -168,6 +170,8 @@ The **oldest church in the City**, founded in 675, and consistently walked past 
 Two things are worth going in for, and both are free. A **Roman tessellated pavement in the crypt**, in place since the second century and found during repairs after wartime bombing. And the church's own history: Samuel Pepys climbed its tower to watch the Great Fire spread, and William Penn was baptised here.
 
 Open to visitors **Monday to Friday 8am to 5pm, Saturday 10am to 5pm and Sunday 12.30pm to 5pm** — the one church on this route that reliably opens seven days. Times can move with staffing.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 9. The Tower of London
 
@@ -248,6 +252,8 @@ What you give up is smaller than it looks. The **Bank of England Museum** is the
 Everything else that makes this walk — the tower cluster, St Dunstan, All Hallows, the Tower, Tower Bridge and St Katharine Docks — runs seven days. Eat at St Katharine Docks and the day works.
 
 **On time of day:** start at 10am and you clear the museum, reach Leadenhall around noon and hit St Dunstan before the lunch crowd. Start at 9am on a Sunday and the streets are yours.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

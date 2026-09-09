@@ -120,8 +120,6 @@ Elsewhere on the estate: **ROKA** has a heated terrace over Canada Square Park, 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-outside-london-london-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London street food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ### Broadgate: Exchange Square and Broadgate Circle
 
 ![The sunken circular plaza of Broadgate Circle from above, ringed with restaurant terraces and coloured parasols](../../assets/articles/eat-outside-london/broadgate-circle.jpg)
@@ -189,6 +187,8 @@ Opened in 1828 as one of the busiest ports in Britain, now central London's only
 The quaysides are public and you can walk the whole basin for nothing. The tables on them are not.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-outside-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Yards and courtyards
 
@@ -265,7 +265,7 @@ The newest part of Camden Market, reopened in stages from 2021 into restored rai
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-outside-london-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-outside-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Street food that is genuinely outdoors
 
@@ -317,6 +317,8 @@ The top of the multi-storey car park at 95a Rye Lane, floors seven to ten, run b
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-outside-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The markets, settled
 
 The honest answer to "do London's food markets have good outdoor seating" is: mostly no, and the famous ones least of all. Here is what is actually under a roof.
@@ -366,6 +368,8 @@ Everything on this page is pleasant in July. This is the shorter list that survi
 * **Service charge** of 12.5% is discretionary and standard on London restaurant bills. Market counters and street-food stalls generally do not add it.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-outside-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

@@ -82,6 +82,8 @@ Eighteen floors of the Shard, starting at **level 34** and running to 202 rooms 
 
 **GŎNG on level 52 is the highest hotel bar in western Europe**, and its published hours run Wednesday to Sunday — 3pm to 11.30pm on Wednesday, noon to 1am Thursday to Saturday. The **infinity Sky Pool sits inside it and opens Wednesday to Saturday evenings only**, which is the line to check against your dates: a Monday arrival buys you the altitude and not the pool. TĪNG, on level 35, does lunch Monday to Friday and dinner Wednesday to Sunday.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to stay just outside
 
 The area has three hotels, which is not a lot of choice, and on a busy weekend it is no choice at all. Everything below is within half an hour of Bermondsey Street, and most of it is cheaper. If you have not settled on a part of London yet, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is actually for.
@@ -143,6 +145,8 @@ One good midweek fact: **the Sainsbury's on Bermondsey Square is open until midn
 ## What you are staying for
 
 Our [Bermondsey area guide](/articles/bermondsey-area-guide/) covers the market, the Beer Mile arches, White Cube and the Shad Thames warehouse canyon — what to do once you have a room. For the stretch immediately west, the [South Bank guide](/articles/south-bank-area-guide/) covers Borough Market, HMS Belfast and Tower Bridge, including the £3 benefits ticket for HMS Belfast that almost nobody mentions.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting in and out
 

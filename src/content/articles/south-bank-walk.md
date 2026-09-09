@@ -84,6 +84,12 @@ The heavy Edwardian building beside the Eye, and worth knowing about mainly so y
 
 They are aimed squarely at families and they queue like it. If you are walking with children this is the natural stop; if you are not, it is four minutes of your day and no more.
 
+**Between the Bridges** sits on the riverside here, and it is the answer to "where can we get a drink on this walk" — an open-air beer garden with street food units, cocktail bars and a covered stage, on the stretch of Queen's Walk between Westminster and Hungerford bridges. Hot dogs, ice-cold drinks, big screens for the football.
+
+![The painted timber entrance arch to Between the Bridges on the South Bank, a hot dog stall to one side and an ice cold drinks board to the other, with the London Eye behind](../../assets/articles/south-bank-walk/between-the-bridges.jpg)
+
+*Between the Bridges, on Queen's Walk by the Eye. It is a seasonal operation — it reopens each year rather than trading straight through — so check it is on before planning a stop.*
+
 > 💡 **The detour: Leake Street.** Five minutes inland from here, under Waterloo station, is a road tunnel where spraying the walls is **legal**. It is free, open at all hours, and repainted so constantly that nobody has ever seen it twice. It is the most-missed thing on this stretch of river and it is worth the ten-minute round trip. See the section below.
 
 ## 3. Southbank Centre and the Undercroft
@@ -104,7 +110,13 @@ It trades in most weather because the bridge is the roof. Prices are not jumble-
 
 The **exhibitions in the foyers are free**, the riverside terrace garden is free, and the bookshop is one of the better ones in London. **Forza Wine's rooftop terrace** on top of the building is the view stop — you are looking back west over the river.
 
+![The concrete terraces of the National Theatre with a KERB street food and drink setup in front of it, pink umbrellas over picnic tables and a bar signed Drink and Eat](../../assets/articles/south-bank-walk/national-theatre-kerb.jpg)
+
+*KERB runs the food and drink out front, which makes this the second obvious stop for lunch after Borough. Picnic tables, deckchairs and a bar, all in the open.*
+
 > ⚠️ **The building opens Monday to Saturday, 10am to 11pm — not Sundays.** It is the second thing on this walk with a day-of-the-week problem, and unlike Borough Market it catches people who were not planning to go in.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 6. Gabriel's Wharf and the Oxo Tower
 
@@ -112,15 +124,21 @@ A small courtyard of independent shops, studios and food units on what was a der
 
 Next door is the **Oxo Tower**, whose lettered windows exist because 1930s regulations banned skyline advertising and the owners built the word into the structure instead. The **public viewing gallery on the eighth floor is free**, which almost nobody realises because the restaurant on the same floor is not.
 
+![The red brick riverside frontage of Oxo Tower Wharf with a banner reading Creative London, Oxo Tower Wharf, and an ornate lamp post in front](../../assets/articles/south-bank-walk/oxo-tower-wharf.jpg)
+
+*Oxo Tower Wharf from the towpath. The designers' studios behind those arches are free to walk into, and so is the eighth-floor gallery upstairs.*
+
 ## 7. Tate Modern
 
-![The turbine hall and brick chimney of Tate Modern seen from the riverside walk at Bankside](../../assets/articles/south-bank-walk/tate-modern-bankside.jpg)
+![The brick flank and chimney of Tate Modern from the riverside, with a sign along the roofline reading Tate Modern - free and open to all](../../assets/articles/south-bank-walk/tate-modern.jpg)
 
 **A power station that became the most-visited modern art gallery in the world, and it is free.**
 
 The **Turbine Hall** is the room to see even if you skip everything else — 3,300 square metres of it, with a commissioned installation most of the year. The collection is free; only the temporary exhibitions are ticketed.
 
 **Open 10am to 6pm Sunday to Thursday, and 10am to 9pm on Friday and Saturday**, which makes it the one stop on this walk that works as an evening plan.
+
+*The sign along the roofline says it: free and open to all. Only the temporary exhibitions are ticketed.*
 
 ## 8. The Millennium Bridge and Shakespeare's Globe
 
@@ -130,6 +148,10 @@ Next along the bank is **Shakespeare's Globe**, a 1997 reconstruction of the 159
 
 > ⚠️ **You cannot walk into the Globe.** The theatre opens for **guided tours and performances only** — the yard is not a public space you can wander into, whatever the photographs suggest. The shop and the Swan bar are open to anyone, and the exterior is free. The playing season runs roughly April to October; tours run year-round.
 
+![The thatched, white and timber-framed exterior of Shakespeare's Globe seen from the street, with production banners on the wall](../../assets/articles/south-bank-walk/shakespeares-globe.jpg)
+
+*This is the view you get without a ticket, and it is free. The thatch is the only one in London — the roof is the reason the building needed a special dispensation to be built at all.*
+
 ## 9. Southwark Cathedral and Borough Market
 
 **Southwark Cathedral** is a thousand years of building on the site, free to enter, and almost always empty compared with the market forty metres away. Shakespeare's brother is buried here.
@@ -138,11 +160,19 @@ And then **Borough Market**, which is the reason a lot of people do this walk at
 
 > ⚠️ **Borough Market is closed on Mondays.** Tuesday to Friday **10am–5pm**, Saturday **9am–5pm**, Sunday **10am–4pm**. It sits at stop nine of eleven, so a Monday walk gets all the way here before finding out. Saturday afternoon is the other extreme — the market's own guidance is that visitor numbers are high then.
 
+![Crowds under the green ironwork and glass roof of Borough Market, a roast chicken wrap counter on the left with a queue at it](../../assets/articles/south-bank-walk/borough-market.jpg)
+
+*Mid-afternoon on a Sunday and still this busy. The green ironwork is the 1850s market hall; the queue is for one of about a hundred traders.*
+
 ## 10. HMS Belfast and Hay's Galleria
 
 **HMS Belfast** is a Second World War cruiser moored permanently in the Pool of London, and it is ticketed — but it is free to look at, and it is the thing that tells you the river was a working port until very recently.
 
 Beside it, **Hay's Galleria** is a covered Victorian dock with a glass roof, now shops and cafés around a strange kinetic sculpture of a ship. **Free, covered and warm**, which makes it the shelter stop if the weather turns in the last mile.
+
+![HMS Belfast moored on the Thames with the City of London's towers behind it, the Walkie-Talkie and the Gherkin on the skyline](../../assets/articles/south-bank-walk/hms-belfast.jpg)
+
+*The warship and the banking towers in one frame, which is the Pool of London in a sentence. You do not need a ticket for this view.*
 
 ## 11. Tower Bridge
 
@@ -173,6 +203,8 @@ If it is Monday, or you want something else:
 - **Gabriel's Wharf** (£–££) at stop six — small independent units rather than chains, and the least busy option on the route.
 - **Hay's Galleria** (££) at stop ten — covered, so it works in the rain, and it is the last chance before Tower Bridge.
 - **The Southbank Centre food market** (£) behind the Royal Festival Hall — **Friday to Sunday only**, which makes it exactly the wrong answer on a Monday.
+- **Between the Bridges** (££) by the Eye at stop one — open-air beer garden and street food units, and the drinks answer rather than the lunch one. Seasonal, so check it is running.
+- **Tower Bridge Collective** (£–££) at the finish — **thirteen independent kitchens over two floors, no chains, open 8am to 10.30pm every day**. It opened in October 2025 in a converted office block a minute from the southern end of the bridge, and being open seven days makes it the strongest answer to a Monday on this whole route. Korean fried chicken, Palestinian musakhan, Eritrean and Ethiopian stews, Neapolitan pizza, and a children's play area almost no food hall bothers with.
 
 For the full picture — the chains that fill the gaps, and the restaurants worth booking — the [area guide covers it](/articles/south-bank-area-guide/#where-to-eat-and-drink).
 
@@ -189,7 +221,11 @@ For the full picture — the chains that fill the gaps, and the restaurants wort
 
 **What never closes:** the river path itself, Westminster and Tower Bridges, the Undercroft, Leake Street, and the views. This walk works on a wet Monday in January — it just needs a different lunch.
 
+> 💡 **If you are buying a London Pass, this is the walk where it pays.** Three of its inclusions sit on the route — the **London Eye** at stop one, the **County Hall attractions** at stop two and **HMS Belfast** at stop ten — plus Tower Bridge's high walkways at the finish. Two of those in a day is roughly the break-even point. Our [London Pass guide](/articles/london-pass-guide/) works through whether it is worth it for the way you actually travel.
+
 **On time of day:** the light is behind you walking west to east in the morning and in your face in the afternoon, which is the argument for starting early. Tate Modern's late opening on Friday and Saturday is the argument for the opposite.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="south-bank-walk-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and back
 

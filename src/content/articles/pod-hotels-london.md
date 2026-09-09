@@ -99,6 +99,8 @@ London has **five of them**. Not the ten or eleven you will find on most lists �
 
 **Entire dormitories can be booked out.** Leicester Place's rooms run from 3 to 100 capsules, so a group can take a small one and have it to themselves — the cheapest way for six or eight people to sleep together in the West End.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## What it costs
 
 Rates below are the cheapest and dearest we saw across five sampled dates: a quiet Sunday, a February midweek, an October Saturday, the second Saturday of December, and a Saturday in April.
@@ -181,6 +183,8 @@ An eco-conscious capsule hostel on a working East London market street, a short 
 It is very small — eight units — with no front desk and entry by access code through a private entrance. Rated **7.3 out of 10 across 41 guest reviews**, the most modest score here. The solar panels and sustainable materials are the operator's own framing and we have not independently verified them.
 
 The problem is arithmetic: **£42 in Zone 2 against £33 in Zone 1** on a quiet night. It earns its place in December, when Zedwell climbs and this does not.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What gets miscalled a capsule hotel
 

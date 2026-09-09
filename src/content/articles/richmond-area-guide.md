@@ -213,6 +213,8 @@ Behind the hill, and at 2,500 acres it is the largest of London's Royal Parks â€
 5. **Isabella Plantation:** South-east into the woodland garden.
 6. **Finish:** Out at Petersham Gate and back along the river, or on to **Ham House**.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="richmond-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Common mistakes to avoid
 
 1. **Approaching the deer.** They are wild. Fifty metres minimum, and much further during the autumn rut and spring births.
@@ -221,8 +223,6 @@ Behind the hill, and at 2,500 acres it is the largest of London's Royal Parks â€
 4. **Visiting the Isabella Plantation outside May.** It is pleasant year-round but only spectacular in late spring.
 5. **Expecting to see St Paul's in haze.** King Henry's Mound needs a clear day.
 6. **Arriving late in the day.** Park gates close at dusk and it is a long walk back to any of them.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="richmond-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

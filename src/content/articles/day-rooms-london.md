@@ -58,6 +58,8 @@ Dayuse advertises **"up to 75% off"**; the biggest we actually found across the 
 
 **The pattern is worth understanding before you shop.** The biggest discounts are at the *expensive* hotels, not the cheap ones — 69% off at Seraphine Hammersmith and 66% at the Mandeville, against 24% at ibis Earls Court. A budget hotel has no margin to give away; a £300 room does. So day use is at its best when it buys you a hotel you would not otherwise book.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-rooms-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The windows, and how long you actually get
 
 A day-use booking is a **fixed window**, not a number of hours you choose. The hotel decides the slot and you take it or leave it.
@@ -116,6 +118,8 @@ Dayuse's filter bar lets you set **time of arrival**, **time of departure** and 
 **Whether the pool is included.** It is listed when it is, and it changes what you are buying.
 
 **That the room is a normal room.** These are not stripped-down day products; you get the hotel's ordinary room, its bathroom and usually its facilities. What you do not get is the night.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-rooms-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## When it is the wrong answer
 

@@ -140,6 +140,8 @@ A hundred and sixty years on the corner where Mayfair, Soho and Piccadilly meet,
 
 **Ask which way your room faces when you book.** The stock splits between Regent Street on one side and Westminster and Piccadilly on the other, and the rate does not always tell you which you are getting. Akasha is the spa; the Grill Room and the Oscar Wilde Lounge take non-residents, and booking a table in either is the affordable way to see the interiors when the rooms want £600.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-soho-west-end-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to stay just outside
 
 This is the more useful half of the guide, because everything above is either windowless or over £450, and most people want neither.
@@ -169,6 +171,8 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 ### Marylebone — the calm one, ten minutes out
 
 **[Treehouse Hotel London](hotel:treehouse-hotel-london)** is about £250 at 14–15 Langham Place, next door to BBC Broadcasting House. It occupies the **top floors of the building**, so every room has a panorama rather than a light well, and the rooms come with magic 8 balls, cuckoo clocks and Paddington Bears without tipping into gimmick. Green Key Gold certified, and Time Out gave it five out of five. The Nest rooftop bar and Madera, its Mexican restaurant, are both open to non-residents. Oxford Circus is four minutes' walk, which puts Soho ten minutes away and Marylebone High Street five in the other direction.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-soho-west-end-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The noise question, and why Soho is not Shoreditch
 

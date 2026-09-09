@@ -116,6 +116,8 @@ This is where Londoners actually shop, and where the guides mostly do not send y
 
 > 💷 **Visitors often ask about VAT refunds.** The rules changed after Brexit and the answer surprises people — our [tax-free shopping guide](/articles/tax-free-shopping-london/) explains what you can and cannot reclaim, and where the exceptions still apply.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shopping-in-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The department stores
 
 | Store | What it is really for | Price feel |
@@ -133,8 +135,6 @@ This is where Londoners actually shop, and where the guides mostly do not send y
 **Fortnum & Mason is the one to save for last**, because it solves presents for everybody in one building.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shopping-in-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Markets, and what day they actually run
 
@@ -182,6 +182,8 @@ London is one of the best cities in Europe for this, and prices span an enormous
 *Camden is the volume option. Go on a weekday if you want to actually look at anything.*
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shopping-in-london-portobello-market-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Portobello Market walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Malls and centres
 
@@ -267,7 +269,7 @@ Rough, honest bands for planning:
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shopping-in-london-portobello-market-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Portobello Market walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="shopping-in-london-bicester-village-shopping-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bicester Village shopping day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Practicalities
 

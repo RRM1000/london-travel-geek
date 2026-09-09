@@ -230,6 +230,8 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 5. **Cheyne Walk:** Continue to the river and turn west past the blue plaques.
 6. **Finish:** **Albert Bridge**, and either cross to Battersea Park or head back up to the King's Road.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Common mistakes to avoid
 
 1. **Expecting the 1960s King's Road.** It is mostly chains now. The side streets and the river are the reason to come.
@@ -238,8 +240,6 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 4. **Assuming there is a Tube at the western end.** There is not. Sloane Square is the only one, at the far eastern edge.
 5. **Eating on the King's Road itself.** You pay a premium for the address. Duke of York Square on a Saturday is far better value.
 6. **Visiting during Flower Show week without a plan.** Late May is the one time to avoid.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

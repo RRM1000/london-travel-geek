@@ -226,8 +226,6 @@ For something cheaper and looser, **93 Feet East** in Shoreditch and **Electric 
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="halloween-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Where to get a costume
 
 Skip Angels on Shaftesbury Avenue — that shop closed in 2014, and most of London's famous theatrical costumiers are trade-only. Two places will genuinely hire to a member of the public.
@@ -253,6 +251,8 @@ The walk-in option, and much less formal. Their own wording is the useful part: 
 **Outside London**, the RSC hires to the public from Stratford-upon-Avon at around **£90 plus VAT** for a full costume, though the minimum hire is a week and it is appointment-only through an online form.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="halloween-london-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The week after
 

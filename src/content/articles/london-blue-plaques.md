@@ -133,6 +133,8 @@ Hyde Park Corner is the nearest station, about six minutes, and Victoria about t
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-blue-plaques-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Bloomsbury
 
 ### Charles Dickens's Bloomsbury Home
@@ -182,8 +184,6 @@ The two houses are now a single museum, **Handel Hendrix House**, and it is the 
 > English Heritage say **18 houses in London carry two official plaques**. This pair is on adjoining buildings rather than one, but it is the famous example.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-blue-plaques-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Primrose Hill and Camden
 
@@ -285,6 +285,8 @@ Where Van Gogh lodged as a young art dealer in his twenties, **years before he h
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-blue-plaques-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Elsewhere
 
 * **J.M. Barrie**, Bayswater — lived facing Kensington Gardens, **where Peter Pan is set** and where his statue of the character stands.
@@ -363,6 +365,8 @@ The guide above is organised around **proximity** — plaques worth detouring fo
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-blue-plaques-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Not every plaque is an English Heritage plaque
 
 Most people assume any blue disc is official. Most are not — of the 3,630 plaques on our map of London, fewer than 1,000 come from the official scheme and the councils that ran it before. The City of London Corporation, the Nubian Jak Community Trust, the Heritage Foundation and several boroughs all use blue too, and a few genuine English Heritage plaques are brown, black or stone.
@@ -372,8 +376,6 @@ Most people assume any blue disc is official. Most are not — of the 3,630 plaq
 For the full breakdown of the schemes, the colours and the rules, see our **[guide to how London's plaques work](/articles/london-plaques-guide/)**.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-blue-plaques-thames-river-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What it costs
 

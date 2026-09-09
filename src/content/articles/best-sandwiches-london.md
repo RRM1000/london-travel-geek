@@ -116,6 +116,8 @@ At **72 Watling Street, EC4M 9BJ**, two minutes from Mansion House. This is a sa
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sandwiches-london-borough-market-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Borough Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The modern sandwich shops
 
 ### Max's Sandwich Shop, Stroud Green
@@ -200,8 +202,6 @@ Weekly limited-edition focaccia and a cult following across south London, run ou
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sandwiches-london-borough-market-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Borough Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Toasties
 
 ### Kappacasein, Borough Market
@@ -231,6 +231,8 @@ Thirty seconds from Kappacasein and the porchetta counterweight to it. The menu 
 > ⚠️ **Their website is theblackpigsandwiches.co.uk.** The shorter theblackpig.co.uk is a parked domain-for-sale page and nothing to do with them, which has led people to assume they have closed. They have not.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sandwiches-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Bacon, sausage and the caff
 
@@ -279,8 +281,6 @@ The caff that people in the food world actually eat at, known for a **chicken es
 There is no website and no published menu, so this is a turn-up-and-see operation. Farringdon is five minutes away.
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-sandwiches-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Fish
 

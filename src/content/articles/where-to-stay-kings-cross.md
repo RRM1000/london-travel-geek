@@ -106,6 +106,8 @@ Clink 261, ten minutes' walk from the station on Gray's Inn Road, is the one tak
 
 **Check-in is 4pm and check-out 10am**, an hour earlier than Kabannas, with late check-out to noon charged. Dorm lockers need your own padlock. Booking direct saves 15%.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-kings-cross-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The arithmetic that actually decides this
 
 This is the part worth doing on paper before you compare room rates, because on an early departure it removes most of London from the list.
@@ -127,6 +129,8 @@ So the premium is worth paying on a narrow set of mornings: **roughly £100 a ni
 **Gatwick is direct.** Thameslink runs from St Pancras to Gatwick in about 45 minutes for £10.70 off-peak — no changes, and better than anything involving Victoria. **Luton is 32 minutes** on the Luton Airport Express plus the DART shuttle, from £10 booked ahead. The Thameslink platforms are well below the main concourse, so allow for the descent with cases.
 
 **The two stations are not one station.** King's Cross is the East Coast Main Line to York, Newcastle and Edinburgh. St Pancras is Eurostar, East Midlands and Thameslink. They are two minutes apart and going to the wrong one is the most expensive mistake available here.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-kings-cross-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What is open when you get in at eleven at night
 
@@ -175,6 +179,8 @@ Three stops to Oxford Circus and a four-minute walk, which puts Marylebone about
 **[Treehouse Hotel London](hotel:treehouse-hotel-london)** is about **£250** at 14–15 Langham Place, next to BBC Broadcasting House, and occupies the **top floors of the building**, so every room looks out over something rather than into a light well. Magic 8 balls, cuckoo clocks and Paddington Bears in the rooms without tipping into gimmick; Green Key Gold certified; Time Out gave it five out of five. The Nest rooftop bar and Madera, its Mexican restaurant, both take non-residents.
 
 At roughly the same money as The Standard you are trading two minutes from the Eurostar for a room with a view and a neighbourhood that is pleasant to be in — which is the right trade on every trip that does not start with a 6am departure.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-kings-cross-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What you are staying for
 

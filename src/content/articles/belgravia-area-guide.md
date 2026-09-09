@@ -121,6 +121,8 @@ Motcomb Street is the third shopping street, smaller than Elizabeth Street and m
 
 **Wilton Row hides the Grenadier**, a pub tucked so far into a mews that people who work in Belgravia walk past the entrance for years without noticing it.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="belgravia-area-guide-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The blue-plaque walk
 
 This is the single best thing to do here and it takes about fifteen minutes.
@@ -164,6 +166,8 @@ Belgravia eats expensively and quietly. There is no cheap end to speak of, which
 | **Half a day** | Add the mews, Motcomb Street and lunch, then walk on to Chelsea |
 
 **Weekdays are best.** Saturday is fine. **Sunday is the trap** — the streets look their best and almost everything is closed.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="belgravia-area-guide-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 

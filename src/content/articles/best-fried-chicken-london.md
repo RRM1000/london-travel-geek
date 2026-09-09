@@ -105,6 +105,8 @@ They arrive with house BBQ sauce as standard. Order extra dips; skip the blue ch
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-fried-chicken-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The ones the sources agree on
 
 ### Good Friend — the most-cited fried chicken in London
@@ -196,6 +198,8 @@ The word covers at least six different things in London, and a reader who wants 
 **Levantine and Malaysian.** **The Best Broasted** in Willesden Green does Syrian broasted chicken with toum, pickles and chips. **Normah's** in Queensway Market does lightly spiced Malaysian wings — **and releases bookings in monthly batches**, so it needs planning that nothing else here does.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-fried-chicken-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to know
 

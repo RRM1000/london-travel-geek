@@ -71,6 +71,8 @@ The food is the reason to come regardless. Ramo bills itself as the **world's fi
 
 This is also the clearest example of the point the mainstream lists keep missing. East and Southeast Asian halal cooking is where this scene is moving, and Time Out leads its own halal guide with Ramo and Cue Point rather than with a curry house.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-halal-restaurants-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Halal throughout, on the kitchen's own word
 
 The restaurant's own statement is the evidence here — that the whole kitchen is halal, not part of the menu. For most halal kitchens in London that is what there is, and it is worth more than a listicle's say-so.
@@ -174,6 +176,8 @@ Rasa Sayang describes itself as born out of the hawker scene of Malaysia and Sin
 The food is the Chinatown standby for this cooking: **hawker staples done briskly and cheaply**, in a room that runs at volume and is not remotely interested in atmosphere. It is one of the few places in central London doing Malaysian food at this price, which is why it stays busy.
 
 **Monday to Friday noon to 10pm, Saturday 11.30am to 10pm, Sunday 11.30am to 9pm.**
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-halal-restaurants-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to do with this
 

@@ -194,6 +194,8 @@ A short run of antiquarian bookshops, print dealers and map sellers between the 
 4. **Lamb's Conduit Street:** East for the independent shops and **The Lamb**.
 5. **Finish:** South to Holborn, or on to Covent Garden.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bloomsbury-area-guide-harry-potter-london-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Harry Potter London walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Common mistakes to avoid
 
 1. **Using the main museum entrance at peak times.** Montague Place on the north side has the same access and a fraction of the queue.
@@ -202,8 +204,6 @@ A short run of antiquarian bookshops, print dealers and map sellers between the 
 4. **Coming in the evening.** Bloomsbury empties after work. It is a daytime area.
 5. **Missing the squares entirely.** Most visitors never walk the three minutes north, which is where the character is.
 6. **Assuming the small museums are shut.** The Foundling, Cartoon and Wellcome are all open and mostly free.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bloomsbury-area-guide-harry-potter-london-walking-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Harry Potter London walking tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

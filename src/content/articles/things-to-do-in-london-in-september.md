@@ -125,6 +125,8 @@ Worth including mainly to correct a misunderstanding. **This is not a public eve
 
 What it means for a visitor is threefold: a schedule of open events and shopping activations around the main programme; a noticeably busier central London; and **hotel rates through that weekend that are the highest of the month**. If you are choosing dates and do not care about fashion, book either side of it.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Exhibitions closing this month
 
 The most time-sensitive thing in this guide, and the reason to read it now rather than in October.
@@ -156,6 +158,8 @@ The month's biggest closing show, with three weeks left, and **the first major E
 A full retrospective of the American who spent his career in London: **the famous paintings alongside works rarely or never shown**, running from his teens in St Petersburg through to the enigmatic late self-portraits, and taking in portraits, drawings, prints and designs. The Nocturnes are the reason most people come — *Old Battersea Bridge* among them — and they are the paintings that got him into a libel court arguing that a picture need not be a picture *of* anything.
 
 **Ticketed, and free for Tate Members**, which pays for itself quickly if you are going to two or more shows this autumn. Book ahead for a weekend — this is the one exhibition on this list where turning up on spec in the final fortnight is likely to fail.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Exhibitions worth the trip
 
@@ -198,6 +202,8 @@ Look further ahead before you book anything, because the October diary is extrao
 Alexandra Palace has the busiest month of any venue in London. **Annie Mac on the 12th**, **ANOTR** across the 17th and 18th, **Boris Brejcha** on the 19th, **I Prevail** on the 25th and **Public Service Broadcasting** on the 26th — the last of which, in a hall that is also the birthplace of television, is a better fit than the band could have designed.
 
 For something entirely different, the **Monteverdi Choir performs Rossini's *Petite Messe Solennelle* at Ally Pally on 18 September**.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-the-shard-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="The Shard tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## New restaurants and bars
 

@@ -207,8 +207,6 @@ Classic culinary experiences that belong on every London itinerary:
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-in-london-guide-borough-market-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Borough Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Plan Food into Your London Visit
 
 - 🏛️ **[Best Areas to Visit in London: Neighbourhood Guide](/articles/best-areas-to-visit-london/)**
@@ -217,6 +215,8 @@ Classic culinary experiences that belong on every London itinerary:
 - 🗓️ **[Five Days in London Itinerary](/articles/five-days-in-london-itinerary/)**
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="eat-in-london-guide-borough-market-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Borough Market food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Every food guide on this site
 

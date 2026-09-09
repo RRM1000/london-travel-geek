@@ -154,6 +154,8 @@ A tower wrapped in twisted black fins with the street artist D*Face's work runni
 
 Two practical notes. **Breakfast is about £56 extra**, which is a lot on top of £230. And Solaya, the 25th-floor restaurant, closes Sundays and Mondays — worth knowing if the view is why you booked.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-shoreditch-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to stay near Shoreditch instead
 
 This is the more useful half for most people, because Shoreditch's prices have moved and its noise has not.
@@ -201,6 +203,8 @@ Stratford is not charming, but it is the answer if the priority is a decent room
 **It is the best-connected place in this guide by some distance.** The Central line, the Jubilee, the Elizabeth line, the Overground and the DLR all meet at one station, plus National Rail, so almost nowhere in London needs a second change. **The Central line runs all night on Fridays and Saturdays**, which is the fact that decides it for anyone planning late evenings in Shoreditch — you can get home at 3am without a taxi.
 
 The honest downside is that the area around the station is a shopping centre and a stadium, so evenings mean chains rather than the independents you came east for. Treat it as a base rather than a destination.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-shoreditch-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What you are staying for
 

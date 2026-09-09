@@ -73,6 +73,8 @@ What does not open: essentially every independent restaurant in London, every fo
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-day-restaurants-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Confirmed for 25 December 2026
 
 Most of London has not published its 2026 Christmas Day menus, and the roundups currently ranking for this search are quietly running last year's prices under a 2026 headline. These two are dated to 25 December 2026 and bookable now:
@@ -122,6 +124,8 @@ For a proper meal out that is not tied to a festive menu at all, the [special oc
 Worth being clear about the difference: afternoon tea at Christmas is a treat you can slot into a shopping day in early December. It is not a substitute for Christmas Day lunch, because on 25 December itself the hotel tea rooms are running their Christmas Day service, not their tea service.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-day-restaurants-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your Christmas
 

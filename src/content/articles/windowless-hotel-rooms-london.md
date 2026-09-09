@@ -105,6 +105,8 @@ It keeps going. **A Cocoon 8 sleeps eight for about two and a half times the pri
 
 Floor space works the same way: a Cocoon 8 is 20 sq m for eight people, against 7 sq m for one.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windowless-hotel-rooms-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The five Zedwell hotels, in the order we would book them
 
 ### Zedwell Tottenham Court Road — the default pick
@@ -156,6 +158,8 @@ The newest of the five and, like Tottenham Court Road, entirely underground. It 
 That is the whole argument for it. Eight minutes from Marble Arch, Hyde Park across the road, and a Park Lane address on your booking confirmation for less than most Bloomsbury doubles.
 
 **It is last here for one reason: almost nobody has reviewed it.** There are only a handful of scores so far, so there is very little to go on beyond the rate and the specification, and the things guests catch — how warm the rooms run, how the air handling behaves in August — are exactly the things that need a few hundred reviews to show up. If you want a safe booking, take Tottenham Court Road. If you want the address, this is remarkable value.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windowless-hotel-rooms-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Z Hotels: all twelve London branches sell one
 
@@ -238,6 +242,8 @@ A **Z Inside Single is 8 sq m at £70**, an **Inside Double 9 sq m at £80**, an
 
 Z publishes every grade with its floor area, which almost nobody in this price band does, and reading that list carefully is the entire job at this branch. Café Inigo downstairs does the buffet breakfast, which is charged separately; the free Z Member scheme adds evening cheese and wine and 10% off food and drink, though not off breakfast. Our [Covent Garden hotel guide](/articles/where-to-stay-covent-garden/) sets it against five others in the area.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windowless-hotel-rooms-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The accessible room is often the windowless one
 
 This deserves its own paragraph because it is the least visible thing in this guide and it affects the people with the least room to shop around.
@@ -304,6 +310,8 @@ The six operators disclose this on a spectrum, and knowing where each one sits i
 | **easyHotel** | "no window" option | A FAQ answer near the foot of the page |
 
 Three practical rules follow from that. **Read the grade name, not the price** — Inside, Interior, Snug and ambient all mean the same thing. **Check the floor area against the next grade up**, because when two rooms are the same size and different prices, the difference is usually the window. And **at Z Hotels, check the gap before you decide**: £5 at Tottenham Court Road is not the same decision as £35 at Shoreditch, and it is the same brand and the same room.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="windowless-hotel-rooms-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Who should not book one
 

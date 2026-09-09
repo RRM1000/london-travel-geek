@@ -196,8 +196,6 @@ The least-known free London, and the most interesting. These are not attractions
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-london-pass-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pass attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Free: only at the right time of year
 
 A lot of London's best free things do not exist most of the year. These are worth planning a trip around, or at least knowing about before you book dates.
@@ -240,6 +238,8 @@ A lot of London's best free things do not exist most of the year. These are wort
 * **London Marathon and Boat Race aside, almost every parade in London is free at the roadside.** The tickets are for seats, not for looking.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-london-pass-attractions" data-gyg-partner-id="WWP7I0R" data-gyg-q="London pass attractions"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Free: the things nobody lists
 
@@ -296,8 +296,6 @@ This is the part most budget guides skip, because it takes reading the small pri
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## The cheapest bed in Zone 1
 
 Accommodation is the line that breaks most London budgets, and the one genuinely cheap option in the middle of town is a capsule — about £33 a night at Piccadilly Circus on a quiet date, which is hostel-dorm money for a berth of your own. Our [pod hotels guide](/articles/pod-hotels-london/) explains the trap: the same brand sells windowless private *rooms* under a nearly identical name at three to four times the price. If you are considering one of those, the [windowless rooms guide](/articles/windowless-hotel-rooms-london/) is the honest account of what they are like to sleep in.
@@ -321,6 +319,8 @@ If you do decide to pay for one or two attractions, it is worth comparing ticket
 For an evening out, [cinema deals and memberships](/articles/cinema-deals-london/) are compared across Cineworld, Odeon, Picturehouse, Curzon and the independents, and the [theatre guide](/articles/london-theatre-guide/) covers day seats and returns, which is how you see a West End show for a fraction of the advertised price.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-on-a-budget-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Continue planning your London trip
 

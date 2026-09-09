@@ -111,8 +111,6 @@ The City of London has its own share of the commemorative plaques marking where 
 
 *The tower cluster from the south bank. Almost all of it has gone up since 2010, and Leadenhall Market sits at the foot of it.*
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Key streets and micro-districts
 
 ### St Paul's and Paternoster Square
@@ -183,6 +181,8 @@ The north-west edge, and the most atmospheric corner of the City. **Smithfield**
 
 *Leadenhall Market, rebuilt in 1881 on a site that has traded since the Roman forum stood here. It played Diagon Alley in the first Harry Potter film.*
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Go deeper
 
 - **[The best views in London](/articles/best-views-london/)** — Horizon 22, the Lookout and Sky Garden are all in the Square Mile, all free, and all need booking on different timetables.
@@ -233,6 +233,8 @@ Our full route for this area: **eleven numbered stops** over about 3km and two t
 5. **Tower Hill:** Down to the **Roman wall** and the **Tower of London**.
 6. **Finish:** **Tower Bridge**, or north to Shoreditch for the evening.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-area-guide-sky-garden-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sky Garden London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Common mistakes to avoid
 
 1. **Coming at the weekend without a food plan.** Much of the City shuts. One New Change and Borough Market are the reliable fallbacks.
@@ -241,8 +243,6 @@ Our full route for this area: **eleven numbered stops** over about 3km and two t
 4. **Paying to enter St Paul's just to see inside.** Evensong is free daily and you sit in the quire.
 5. **Getting lost at Bank station.** A dozen exits across a large junction. Check which one you want before you surface.
 6. **Trying to walk to Canary Wharf.** It is much further than it looks. Take the DLR from Bank.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="city-of-london-area-guide-sky-garden-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Sky Garden London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

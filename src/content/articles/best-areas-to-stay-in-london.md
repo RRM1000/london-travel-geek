@@ -94,6 +94,8 @@ Evenings are the thin part. Bloomsbury is academic and residential, so it goes q
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-stonehenge-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Stonehenge day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Nightlife and going out
 
 Stay where the night is, or stay ten minutes from it. The in-between gives you the noise without the short walk home. And the areas with the best nights out are the hardest to sleep in, because they are the same streets.
@@ -165,6 +167,8 @@ A maritime village with the Cutty Sark, the Old Royal Naval College, the Nationa
 **[Zedwell Greenwich](hotel:zedwell-greenwich)** is £66 to £145 for a windowless Cocoon 2, and it is the steadiest-priced Zedwell — early check-in costs £25 here against £60 in the West End. **[DoubleTree Greenwich](hotel:doubletree-greenwich)** is about £160 and, unlike the Peninsula hotels, is a fifteen-minute walk from all three of the big sights.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## On a budget
 
@@ -238,6 +242,8 @@ A hilltop village with the Heath attached, swimming ponds, Kenwood House and vie
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Arriving late, or leaving early
 
 If a flight or a Eurostar bookends the trip, choose the base around the station rather than the sights, at least for that night.
@@ -273,6 +279,8 @@ The best airport base in London by a distance. **Heathrow Express is 15 minutes 
 **[Zedwell Park Lane](hotel:zedwell-park-lane)** is the anomaly: £90 to £207 for a windowless underground Cocoon 2 with a Park Lane address, one minute from Hyde Park Corner — within a pound of Knightsbridge on a quiet night and about £50 under it on an October Saturday. It is new enough to be barely reviewed. **[Native Mayfair](hotel:native-mayfair)** does apartments with kitchens on a mews off Grosvenor Square, three minutes from Bond Street.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-areas-to-stay-in-london-windsor-castle-day-trip-from-london" data-gyg-partner-id="WWP7I0R" data-gyg-q="Windsor Castle day trip from London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The mistakes people make choosing a base
 

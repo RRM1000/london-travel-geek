@@ -120,6 +120,8 @@ There is a naturally lit pool, a gym, sauna, steam room and three treatment room
 
 **The cheap way in is the archive tour.** The hotel's own archivist runs a guided tour once a month, finishing with a glass of champagne in the American Bar — that plus a drink in the Beaufort Bar shows you most of what the room rate is for.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-covent-garden-bath-and-stonehenge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bath and Stonehenge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Where to stay just outside
 
 This is the more useful half for most people, because the premium above is a real £30 to £60 a night and the areas that undercut it are all within about ten minutes on foot.
@@ -143,6 +145,8 @@ Waterloo Bridge is ten minutes from the piazza on foot and the view from the mid
 Ten minutes north of the piazza the market changes completely, and it is covered properly in our [Soho and West End guide](/articles/where-to-stay-soho-west-end/) rather than repeated here. Three things from it are worth knowing while you are pricing Covent Garden.
 
 **[Zedwell Tottenham Court Road](hotel:zedwell-tottenham-court-road)** is a windowless room from £81, two minutes from the British Museum, and it undercut the brand's Piccadilly flagship on every date we sampled — so if you were going to book a Z Inside grade anyway, price this one first. **[Generator London](hotel:generator-london)** on Tavistock Place is about £26 a bed and openly a party hostel, which is the right answer for some trips and a terrible one before an early flight. And if it was the theatre rather than the cobbles that drew you here, **[Treehouse Hotel London](hotel:treehouse-hotel-london)** is about £250 for a room on the top floors beside Broadcasting House, four minutes from Oxford Circus, with a panorama out of every window instead of a light well.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-covent-garden-oxford-and-cambridge-day-trip" data-gyg-partner-id="WWP7I0R" data-gyg-q="Oxford and Cambridge day trip"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The noise question, and why Covent Garden is not Soho
 

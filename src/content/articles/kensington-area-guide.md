@@ -197,6 +197,8 @@ Walk it as a link between the two parks rather than as a destination.
 5. **Kensington Gardens:** North-east to **Kensington Palace** and the **Sunken Garden**.
 6. **Finish:** The **Albert Memorial** and the Serpentine galleries, or south into South Kensington.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-royal-albert-hall-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Royal Albert Hall tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Common mistakes to avoid
 
 1. **Thinking Kensington Palace is in Hyde Park.** It is in Kensington Gardens, the adjoining park to the west.
@@ -205,8 +207,6 @@ Walk it as a link between the two parks rather than as a destination.
 4. **Arriving after dusk.** Both parks close their gates at nightfall.
 5. **Missing Leighton House.** It is ten minutes west of Holland Park and unlike anything else in London.
 6. **Doing this and South Kensington on the same afternoon.** They adjoin, but both deserve their own half day.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kensington-area-guide-royal-albert-hall-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Royal Albert Hall tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

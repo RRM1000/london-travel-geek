@@ -79,6 +79,8 @@ Ten minutes south-west of Hillgate Village and a different kind of colour: **Por
 
 Worth the detour mainly if you want somewhere to sit down. Clarendon Cross has a couple of cafes and the pace drops the moment you turn off Holland Park Avenue.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-colourful-houses-buckingham-palace-changing-the-guard-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Buckingham Palace Changing the Guard tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Then go north for the grand version
 
 The colour changes character about ten minutes' walk north-west. The houses get bigger, the paint gets paler, and the effect is less village and more Kensington.
@@ -160,6 +162,8 @@ Because there are others, and they are the reason this section is not just one s
 **On timing:** London's cherry blossom is usually at its best from late March to mid April, and the peak lasts one to two weeks. It moves by a fortnight either way depending on the winter, so treat any fixed date as a guess — the trees on the ground are the only reliable forecast. Magnolias come slightly earlier on these same streets, and wisteria follows in late April and May.
 
 If you are chasing blossom rather than houses, the [parks and gardens guide](/articles/best-parks-gardens-london/) covers where else in London to find it, with room to stand.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="notting-hill-colourful-houses-westminster-abbey-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Westminster Abbey tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Getting there and when to go
 

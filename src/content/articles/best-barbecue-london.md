@@ -161,6 +161,8 @@ The cooking is **Texas-style rather than British-live-fire**: smoked brisket is 
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-barbecue-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The smoker is in a brewery yard
 
 This is the London-specific thing about the subject, and no other guide separates it out. Smokers need space, extraction and neighbours who will not complain, and breweries have all three — so a good share of the city's barbecue is cooked in a working brewery yard rather than a restaurant kitchen.
@@ -180,6 +182,8 @@ Straight American barbecue is well represented in London and it is no longer the
 None of the published London lists groups these together, which is why the pattern is easy to miss — each one reads as an individual oddity rather than as the direction the subject has taken.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-barbecue-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What is not here, and why
 

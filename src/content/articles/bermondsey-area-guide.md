@@ -212,6 +212,8 @@ The southern end of Bermondsey Street, and a modern square built on the site of 
 5. **Tower Bridge:** West along the river for the view back.
 6. **Finish:** Borough Market ten minutes west, or the Beer Mile arches to the south-east.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bermondsey-area-guide-bermondsey-beer-mile-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bermondsey Beer Mile tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Common mistakes to avoid
 
 1. **Coming midweek for Maltby Street.** Weekends only.
@@ -220,8 +222,6 @@ The southern end of Bermondsey Street, and a modern square built on the site of 
 4. **Confusing Bermondsey with Borough.** Ten minutes apart — easy to do together, but not the same place.
 5. **Missing Shad Thames.** The gantried warehouse street east of Tower Bridge is the best-looking part of the area.
 6. **Turning up to the antiques market at 10am.** The trade is done by eight.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bermondsey-area-guide-bermondsey-beer-mile-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="Bermondsey Beer Mile tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

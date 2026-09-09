@@ -181,6 +181,8 @@ The **River Lea navigation** runs along the eastern edge with a towpath, narrowb
 4. **Victoria Park:** Through the park to the boating lake.
 5. **Finish:** East along the Hertford Union to **Hackney Wick** and a canal-side brewery.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hackney-area-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Common mistakes to avoid
 
 1. **Coming for Broadway Market on the wrong day.** Saturday only.
@@ -189,8 +191,6 @@ The **River Lea navigation** runs along the eastern edge with a towpath, narrowb
 4. **Arriving at the market after midday.** It is shoulder to shoulder by then.
 5. **Expecting sights.** There is no museum or monument. Come for the market, the parks and the canal.
 6. **Missing Victoria Park.** It is fifteen minutes east of Broadway Market and one of the best parks in London.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hackney-area-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

@@ -103,6 +103,8 @@ Named after the founder of cynicism, which suits a bar built on doubting the rec
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-wine-bars-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## The rest of the top of the list
 
 ### 40 Maltby Street — the hardest table
@@ -192,6 +194,8 @@ Natural wine and small plates in a room that fills with locals, and **about thir
 The cooking is modern French. Two sites — the **Covent Garden** room is a wine bar and restaurant together, and **London Bridge**, near Borough Market, is the restaurant, with a second bar called Forbidden Fruit alongside it. **Both take bookings**, which puts it in a small minority on this page.
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-wine-bars-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Natural or classical, because the market has already split
 
