@@ -1,7 +1,7 @@
 ---
 title: "Where to Stay in King's Cross and St Pancras"
 seoTitle: "Where to Stay in King's Cross & St Pancras 2026: Hotels Compared"
-description: "Eurostar wants you inside St Pancras 75 minutes before departure and the first Tube is 05:29. Six King's Cross hotels compared, plus four cheaper areas just outside."
+description: "Eurostar wants you inside St Pancras 75 minutes before departure and the first Tube is 05:29. King's Cross hotels compared, plus the cheaper areas just outside."
 publishedAt: 2026-09-08
 updatedAt: 2026-09-09
 sites: [london]
@@ -44,7 +44,7 @@ The name covers two mainline stations, a Tube station serving six lines, and a r
 
 **There is no Elizabeth line here.** Six Tube lines meet at King's Cross St Pancras — Circle, Hammersmith & City, Metropolitan, Northern, Piccadilly and Victoria — and the one everybody now wants is not among them. Farringdon, one stop east, is the fix.
 
-## The six places to sleep
+## Where to sleep
 
 ### St Pancras London — the Midland Grand, and the only hotel inside the terminus
 

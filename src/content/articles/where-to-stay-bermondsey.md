@@ -1,8 +1,9 @@
 ---
 title: "Where to Stay in Bermondsey and London Bridge — and the Walk Nobody Prices In"
 seoTitle: "Where to Stay in Bermondsey & London Bridge 2026: Hotels Compared"
-description: "Three Bermondsey hotels, from a £180 boutique to a room in the Shard. The night train that actually serves the area, and why its two ends are three-quarters of a mile apart."
+description: "Bermondsey hotels from a £180 boutique to a room in the Shard. The night train that actually serves the area, and why its two ends are three-quarters of a mile apart."
 publishedAt: 2026-09-08
+updatedAt: 2026-09-09
 sites: [london]
 canonicalSite: london
 category: "Plan your trip"
@@ -45,7 +46,7 @@ Four stretches, and they behave nothing like each other after dark.
 
 **The station trap is the one to read twice.** Bermondsey station is not on Bermondsey Street and is not near it. If your booking says "five minutes from Bermondsey station", check which end of the area it means before you agree to the walk.
 
-## The three hotels in Bermondsey
+## The hotels in Bermondsey
 
 ### Bermonds Locke — the kitchen, and the washer-dryer in the room
 

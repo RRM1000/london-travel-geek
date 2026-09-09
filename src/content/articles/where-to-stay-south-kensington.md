@@ -1,8 +1,9 @@
 ---
 title: "Where to Stay in South Kensington — and Why a Victorian Tunnel Decides It"
 seoTitle: "Where to Stay in South Kensington 2026: Hotels by the Museums"
-description: "A 433-metre tiled tunnel runs from the Tube to the museums, and it is the whole reason to sleep here. Five South Kensington places compared, the evening nobody warns you about, and four areas nearby."
+description: "A 433-metre tiled tunnel runs from the Tube to the museums, and it is the reason to sleep here. South Kensington hotels compared, the evening nobody warns you about, and the areas nearby."
 publishedAt: 2026-09-08
+updatedAt: 2026-09-09
 sites: [london]
 canonicalSite: london
 category: "Plan your trip"
@@ -55,7 +56,7 @@ It runs east from the station, turns north beneath Exhibition Road and comes out
 
 **One caution, and it is a big one.** The tunnel is step-free at the museum end and the station above it is not. South Kensington has no lifts to its platforms at all, so arriving here with a heavy case or a pram means stairs. Stay within walking distance and you simply never use the station for the museums — which is, in the end, the strongest argument for sleeping in SW7 rather than commuting in.
 
-## The five places to stay
+## Where to stay
 
 ### The Ampersand Hotel — the one that leans into the museums
 

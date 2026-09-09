@@ -1,7 +1,7 @@
 ---
 title: "Where to Stay in Soho and the West End"
 seoTitle: "Where to Stay in Soho & the West End 2026: Hotels and Prices"
-description: "Nine West End hotels compared — including the windowless rooms that make Piccadilly Circus cheaper than its reputation — plus four quieter areas five minutes out."
+description: "West End hotels compared — including the windowless rooms that make Piccadilly Circus cheaper than its reputation — plus the quieter areas five minutes out."
 heroImage: "../../assets/articles/where-to-stay-soho-west-end/the-devonshire-soho.jpg"
 heroImageAlt: "The Devonshire on the corner of Denman Street in Soho: a red-brick Victorian pub with dark green tiling and gold lettering reading 'Ales, stouts, wines and spirits, Soho since 1793', ivy along the ground floor and a planted roof terrace above, with a modern glass office building rising behind it"
 publishedAt: 2026-09-08
@@ -48,7 +48,7 @@ The windowless part is the surprise, and it is the reason the West End is cheape
 
 **There is no station called the West End**, and the one you want is **Tottenham Court Road**: Elizabeth line, Central and Northern, Heathrow without a change. Covent Garden station is the trap. It runs on lifts and a spiral staircase rather than escalators, and at a weekend Leicester Square, four minutes' walk away, will be quicker in both directions.
 
-## The nine hotels
+## The hotels
 
 ### Zedwell Piccadilly Circus — the value answer, if you can sleep without a window
 
@@ -140,7 +140,7 @@ A hundred and sixty years on the corner where Mayfair, Soho and Piccadilly meet,
 
 **Ask which way your room faces when you book.** The stock splits between Regent Street on one side and Westminster and Piccadilly on the other, and the rate does not always tell you which you are getting. Akasha is the spa; the Grill Room and the Oscar Wilde Lounge take non-residents, and booking a table in either is the affordable way to see the interiors when the rooms want £600.
 
-## Where to stay just outside, where the middle exists
+## Where to stay just outside
 
 This is the more useful half of the guide, because everything above is either windowless or over £450, and most people want neither.
 

@@ -1,10 +1,11 @@
 ---
 title: "Where to Stay in Shoreditch — and the Cheaper Streets Just Outside It"
 seoTitle: "Where to Stay in Shoreditch 2026: Best Hotels + Quieter Alternatives"
-description: "Nine Shoreditch hotels compared, which streets are loud at 2am, and five areas within fifteen minutes where the same night costs half as much."
+description: "Shoreditch hotels compared, which streets are loud at 2am, and the areas within fifteen minutes where the same night costs half as much."
 heroImage: "../../assets/articles/where-to-stay-shoreditch/the-hoxton-shoreditch-lobby.webp"
 heroImageAlt: "The open lobby at The Hoxton, Shoreditch: a brass ring chandelier over armchairs, an exposed brick fireplace, a herringbone bar under a Hoxton Grill sign, and a red bus passing the window"
 publishedAt: 2026-09-06
+updatedAt: 2026-09-09
 sites: [london]
 canonicalSite: london
 category: "Plan your trip"
@@ -45,7 +46,7 @@ The name covers about a mile, and the difference between its ends is the differe
 
 **There is no Tube station called Shoreditch.** Shoreditch High Street is Overground, Old Street is the Northern line, Liverpool Street is everything including the Elizabeth line. People book on the assumption that a station shares the name and find themselves further from a train than they planned.
 
-## The nine hotels
+## The hotels
 
 ### The Hoxton, Shoreditch — the best all-rounder
 
