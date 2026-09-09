@@ -21,12 +21,6 @@
       "added": "2026-09-08"
     },
     {
-      "id": "theatre-closing-dates-source",
-      "what": "Need a trustworthy source for West End CLOSING dates. The September guide covers openings only, and 'last chance to see' is the more urgent half.",
-      "why": "SOLT's own last-chance URL 404s to a 2018 article. Individual theatre sites would work but are slow. Is there a source you already trust?",
-      "added": "2026-09-08"
-    },
-    {
       "id": "sport-in-monthly-guides",
       "what": "Decide whether the monthly guides cover sport at all. September is the start of the football season and the fixture list is public.",
       "why": "Flagged while writing September and still open. It changes the shape of every month from here.",
@@ -102,6 +96,11 @@
       "what": "Generator London is now branded 'Generator London King's Cross' on the operator's own site, and a second London site, 'Generator London Greenwich' at 173-185 Greenwich High Road SE10 8JA, is advertised as coming soon. Published from-rates are far below the sheet's 'About £26 a bed': £11 in a large dorm, £13 in a 4-bed, £15 in a 6-bed and in a female dorm.",
       "needs": "name and typicalFrom on generator-london, and a new row when Greenwich opens",
       "added": "2026-09-09"
+    },
+    {
+      "id": "october-items-not-to-print-without-checking",
+      "what": "Twelve October entries are flagged in data/months/october-2026.json under flagsForHuman. The ones that matter: EbonyLife Place London (its own site says only \"Opening Soon\" - do not print an October date), the Renoir and Love price (do not print \"free\"), and four restaurant openings that rest on Hot Dinners alone - Clementine, Five Feet Pizza, Edmondo and Tofu Vegan Strand, the last being the weakest because the operator's own locations list has no Strand site.",
+      "needs": "a decision on each before the October guide publishes"
     }
   ],
   "watch": [
@@ -177,6 +176,10 @@
     {
       "id": "promotional-comments-in-the-community-pass",
       "what": "Two plants found: Royal National Hotel pushed twice through the same stay22 affiliate link (one downvoted to -1), and a Zedwell comment carrying a gclid ad URL. Also, both \"Is Palmers Lodge the best hostel in London?\" threads are one blogger crossposting their own sidestreetstyle.com article - a genuine stay, but self-promotion, and Palmers Lodge is now a sheet row on five guide domains rather than on that."
+    },
+    {
+      "id": "bayeux-2026-tickets-sold-out",
+      "what": "The bigger Bayeux fact, found 9 Sept: tickets for 10 Sept-31 Dec 2026 are SOLD OUT, so a reader arriving in October cannot buy for their own trip - only for Jan-Mar 2027. There is also a FREE opening festival on 9-11 October (Bayeux Late, Big Bayeux Bash) which does NOT include entry to the Tapestry. That has to be printed explicitly or people will turn up expecting to see it."
     }
   ],
   "decided": [
@@ -248,6 +251,12 @@
       "date": "2026-09-09",
       "decision": "Do not tell readers that a hostel drew no Reddit mentions. Community evidence is for deciding what WE research and how confident we are; it is not a verdict to print about a business.",
       "why": "Rob's call. The Astors, Park Villa and The Walrus each drew zero mentions in 1,704 comments while Wombat's got 52 - but all are recommended by independent guides and all are trading, so the silence said more about who posts on Reddit than about the hostels. Printing it read as a slight."
+    },
+    {
+      "id": "theatre-closings-source",
+      "date": "2026-09-09",
+      "decision": "Use Official London Theatre's ?last_chance=true FILTER for closing dates, and read the JSON-LD. The bare last-chance URL 404s, which is why this looked unsourceable.",
+      "why": "Found while compiling October. It also carries a trap: OLT's endDate is a BOOKING HORIZON for open-ended runs, not a closing date. Moulin Rouge! appears under last-chance with 17 October and is still selling December performances. Only treat a date as a closing if the run is limited and began this year."
     }
   ]
 }

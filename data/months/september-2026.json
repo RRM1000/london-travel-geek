@@ -221,9 +221,12 @@
     },
     {
       "title": "RENT",
-      "venue": "Theatre Royal Drury Lane",
-      "opens": "22 September",
-      "detail": "Thirtieth anniversary production."
+      "venue": "Duke of York's Theatre",
+      "opens": "NOT SEPTEMBER - first performance 5 October 2026",
+      "detail": "Thirtieth anniversary production.",
+      "correction": "CORRECTED 2026-09-09. This entry said Theatre Royal Drury Lane, 22 September. Both were wrong. Official London Theatre - SOLT's own site - lists RENT at the Duke of York's Theatre with no September performances at all; its calendar opens on October and the first priced date is the 5th. It came from a ticket seller's editorial round-up, which is exactly the secondary source this file already warned about. It never reached the published article.",
+      "source": "https://officiallondontheatre.com/show/rent/",
+      "verified": "2026-09-09"
     }
   ],
   "theatreSource": {

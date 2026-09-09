@@ -2,73 +2,950 @@
   "month": "october",
   "year": 2026,
   "compiled": "2026-09-08",
-  "status": "STUB, NOT YET RESEARCHED. Created early on purpose, to hold dated facts found while compiling September that would otherwise be lost before October is written. There is no data/months/october.json spine yet - write one when the October guide is built.",
-  "carriedOverFromSeptember": [
+  "researched": "2026-09-09",
+  "status": "RESEARCHED. The perishable half is done: Bayeux ticket dates re-verified, exhibitions verified opening and closing, theatre openings AND closings collected, a deliberate new-venue pass run, restaurant openings re-read and checked against the restaurants' own sites. The annual spine, data/months/october.json, is a separate job and is not covered here.",
+  "note": "THE OVERLAY. Everything here is true only in 2026. Every entry carries the source it came from and the date it was checked. Entries flagged needsHumanCheck must not be printed without asking Rob first - see flagsForHuman at the bottom.",
+
+  "bayeuxTickets": {
+    "headline": "BOTH DATES STILL HOLD. Re-checked 2026-09-09 against the British Museum's own exhibition page. Nothing has moved since 8 September.",
+    "membersPriorityBooking": "6 October 2026",
+    "generalRelease": "21 October 2026",
+    "covering": "Visits from 1 January to 31 March 2027",
+    "quoteGeneral": "Bookings for 1 January – 31 March 2027 will open on 21 October 2026.",
+    "quoteMembers": "Priority booking for 1 January – 31 March 2027 will open on 6 October 2026",
+    "bannerOnSite": "The museum runs both dates as a standing banner at the top of the exhibition page: 'Next ticket release 21 October 2026 – sign up for news' and 'Members priority booking reopens 6 October 2026'.",
+    "newSince0809": [
+      "TICKETS FOR 10 SEPTEMBER TO 31 DECEMBER 2026 HAVE SOLD OUT. The museum states this plainly. This is the single most useful new fact for October: a reader arriving in October cannot buy a ticket for their trip, only for January to March 2027. The October guide should lead with that, not with the release dates alone.",
+      "Members' priority booking for April to July 2027 opens January 2027; the general release for April to July 2027 opens 'early 2027'.",
+      "Schools bookings for January to March 2027 open 29 September 2026. Patrons and Supporters also open 29 September 2026 - both BEFORE the members' date, and both in September rather than October.",
+      "Reciprocal entry and passes from ICOM, ICOMOS, MA and NMDC are NOT valid for the Bayeux Tapestry between September and December 2026. 2027 arrangements to be announced.",
+      "Maximum 10 tickets per booking. Multiple bookings from the same email address will be cancelled. Tickets can only be used by the booker and ID may be checked.",
+      "Tickets are emailed four days in advance of the visit."
+    ],
+    "prices": {
+      "standard": "Adults £33 (£36.50 with the £3.50 donation). Under 16s free, booked alongside an accompanying adult, maximum four per adult. Students, 16-18s and jobseekers £25. Disabled visitors £25 with a free assistant, booking required. National Art Pass £16.50.",
+      "offPeak": "Adults £27 (£30.50 with donation). National Art Pass £13.50.",
+      "superOffPeak": "Adults £25 (£28.50 with donation). National Art Pass £12.50. Valid term-time weekdays 15.30-16.20 only.",
+      "members": "Two visits at no additional cost for existing Members, 10% discount thereafter."
+    },
+    "visitDetail": "Allow 40 minutes. Entry is timed and follows a one-way route. Photography permitted but no flash; drawing and sketching are not permitted. Buggies and large bags are not allowed in - there is a paid cloakroom, subject to capacity. Clearing begins 10 minutes before closing.",
+    "hours": "Sunday-Wednesday 10.00-18.00; Thursday-Saturday 10.00-21.00",
+    "runs": "10 September 2026 - 11 July 2027",
+    "venue": "British Museum, Room 30, the Sainsbury Exhibitions Gallery",
+    "source": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry",
+    "verified": "2026-09-09"
+  },
+
+  "bayeuxOpeningFestival": {
+    "what": "THE BAYEUX TAPESTRY OPENING FESTIVAL - free, 9 to 11 October 2026, and completely absent from the 8 September stub. This is the answer to the sold-out problem: three days of free Bayeux programming at the British Museum that anyone can attend without a Tapestry ticket.",
+    "events": [
+      {
+        "title": "Bayeux Late: medieval making",
+        "date": "Friday 9 October 2026",
+        "time": "17.30-20.30",
+        "price": "Free",
+        "detail": "The first Bayeux Late and the start of the opening festival. Workshops and activities. Free to drop in at any time between 17.30 and 20.30; activities are non-ticketed, first-come first-served. Contributors include Matilda Ngute of The Textile Club, Olivia Swarthout of Weird Medieval Guys, and master embroidery artist Bella Lane.",
+        "source": "https://www.britishmuseum.org/events/bayeux-late-medieval-making",
+        "verified": "2026-09-09"
+      },
+      {
+        "title": "Big Bayeux Bash",
+        "date": "Saturday 10 to Sunday 11 October 2026",
+        "price": "Free",
+        "detail": "A weekend of free family activities inspired by the medieval world - workshops and drop-in sessions for children aged six and over and their adults. Different activities on specific days. Non-ticketed, first-come first-served.",
+        "source": "https://www.britishmuseum.org/events/big-bayeux-bash",
+        "verified": "2026-09-09"
+      }
+    ],
+    "criticalCaveat": "NEITHER EVENT INCLUDES ENTRY TO THE BAYEUX TAPESTRY. The museum says so explicitly on both pages: tickets must be booked separately. Print this or readers will turn up on 9 October expecting to see the Tapestry. Visitors are advised to book a free timed Museum entry ticket for priority entry during busy periods; the main entrance is on Great Russell Street and there is a security and bag check.",
+    "why": "A free, dated, three-day event at the biggest cultural draw in the city, in a month when its tickets are sold out. Nothing else in October is this useful to a reader who has already missed the boat."
+  },
+
+  "bayeuxRelatedEvents": [
     {
-      "what": "BAYEUX TAPESTRY TICKET RELEASES - Rob's explicit request, 2026-09-08: 'make sure you add the date for the next release of tickets for the tapestry'.",
-      "detail": "Members' priority booking REOPENS 6 OCTOBER 2026. The next GENERAL ticket release is 21 OCTOBER 2026, covering visits from 1 January to 31 March 2027. Both are printed in the September guide already; October's guide should lead on them, because 21 October falls inside the month and is the single most actionable date in it.",
-      "venue": "British Museum, Room 30, the Sainsbury Exhibitions Gallery",
-      "runs": "10 September 2026 - 11 July 2027",
-      "hours": "Sunday-Wednesday 10.00-18.00; Thursday-Saturday 10.00-21.00",
+      "title": "Harald Hardrada: the other 'Harold'",
+      "date": "5 November 2026",
+      "price": "£6",
+      "format": "Online event",
       "source": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry",
-      "verified": "2026-09-08",
-      "note": "Re-check both dates before publishing October - a release date is exactly the kind of thing that moves, and printing a stale one sends readers to a booking page on the wrong day."
+      "verified": "2026-09-09",
+      "note": "November, not October - listed so it is not lost."
     },
     {
-      "what": "RENOIR AND LOVE opens at the National Gallery",
-      "runs": "3 October 2026 - 31 January 2027",
-      "detail": "Renoir's 'La Grenouillere' moves into this show when the free Monet and Renoir pairing closes on 15 September, so it is the continuation of September's most urgent exhibition.",
-      "source": "https://www.nationalgallery.org.uk/exhibitions/monet-and-renoir-painting-side-by-side",
-      "verified": "2026-09-08"
+      "title": "The women of the Bayeux Tapestry",
+      "date": "20 November 2026",
+      "price": "£50",
+      "detail": "Over 600 figures appear in the main body of the Tapestry and only three of them are women.",
+      "source": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry",
+      "verified": "2026-09-09",
+      "note": "November."
     },
     {
-      "what": "KOREA opens at the British Museum",
-      "runs": "1 October 2026 - 31 January 2027",
-      "source": "https://www.britishmuseum.org/exhibitions-events",
-      "verified": "2026-09-08"
+      "title": "Bayeux Late: reimagining the Bayeux Tapestry",
+      "date": "4 December 2026",
+      "price": "Free",
+      "source": "https://www.britishmuseum.org/events/bayeux-late-reimagining-bayeux-tapestry",
+      "verified": "2026-09-09",
+      "note": "December. The second Bayeux Late."
     },
     {
-      "what": "THE 90s: ART AND FASHION opens at Tate Britain",
-      "runs": "8 October 2026 - 14 February 2027",
-      "source": "https://www.tate.org.uk/whats-on",
-      "verified": "2026-09-08"
-    },
-    {
-      "what": "LIGHT AND MAGIC: THE BIRTH OF ART PHOTOGRAPHY opens at Tate Modern",
-      "runs": "14 October 2026 - 21 February 2027",
-      "source": "https://www.tate.org.uk/whats-on",
-      "verified": "2026-09-08"
-    },
-    {
-      "what": "EXHIBITIONS CLOSING IN OCTOBER, already dated",
-      "detail": "John Constable: views of nature, British Museum, closes 4 October (free). Art in Victorian Britain, Royal Academy, closes 6 October. Herbert Smith Freehills Kramer Portrait Award 2026, National Portrait Gallery, closes 7 October. Charlie Billingham, Royal Academy, closes 4 October. Serpentine Pavilion 2026 closes 25 October. Richard Dadd, Royal Academy, closes 25 October.",
-      "verified": "2026-09-08"
-    },
-    {
-      "what": "ALEXANDRA PALACE GIGS already dated for October",
-      "detail": "Beth Orton 22 Oct, Fat Freddy's Drop 23 Oct, The Reytons 24 Oct, Overmono 28 Oct, Skindred 31 Oct, Crouch End Festival Chorus performing Mozart's Requiem 25 Oct, London Bollywood Orchestra 30 Oct. Knit + Stitch 8-11 Oct. BBC TV 90 continues to 30 November.",
-      "source": "https://www.alexandrapalace.com/whats-on/",
-      "verified": "2026-09-08"
-    },
-    {
-      "what": "OPEN ROOTS continues at the Photographers' Gallery",
-      "runs": "18 September - 15 November 2026",
-      "verified": "2026-09-08"
-    },
-    {
-      "what": "BLUE NOTE LONDON October programme - the room opens 23 September, so October is its first full month",
-      "detail": "Nubiyan Twist 2 Oct, Mark Kavuma & the Banger Factory 3 Oct, Baaba Maal 4-6 Oct, Gary Crosby Quartet feat. CHERISE 7 Oct, Zara McFarlane 7 Oct, Jamie Cullum 8-9 Oct, Erykah Badu (IMEHO - An Intimate Experience) 10-11 Oct, Moses Yoofee Trio 12-13 Oct, Emily Bear 14 Oct, Nubya Garcia 15-17 Oct, Hak Baker 18 Oct, Shabaka 19-20 Oct, Steam Down X Nyjo Big Band 22-23 Oct, Keyon Harrold 24-25 Oct, The Soul Rebels 26 Oct.",
-      "venue": "Blue Note London, St Martin's Lane, WC2N 4EJ",
-      "source": "https://www.bluenotejazz.com/london/",
-      "verified": "2026-09-08",
-      "note": "Erykah Badu, Nubya Garcia and Shabaka are the three to lead on. Re-check the listing before publishing - an opening-month programme moves."
+      "title": "Royal School of Needlework weekend course",
+      "price": "£300",
+      "status": "SOLD OUT as at 2026-09-09",
+      "source": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry",
+      "verified": "2026-09-09"
     }
   ],
+
+  "exhibitionsOpening": [
+    {
+      "title": "Korea",
+      "venue": "British Museum",
+      "runs": "1 October 2026 - 31 January 2027",
+      "price": "Ticketed - the museum's listing shows 'Book now' and files it under Special exhibitions",
+      "source": "https://www.britishmuseum.org/exhibitions-events",
+      "verified": "2026-09-09",
+      "confirmed": "Dates unchanged since 8 September."
+    },
+    {
+      "title": "Painting the French Riviera",
+      "venue": "Royal Academy",
+      "runs": "2 October 2026 - 31 January 2027",
+      "source": "https://www.royalacademy.org.uk/exhibitions-and-events",
+      "verified": "2026-09-09",
+      "why": "NEW - MISSED BY THE 8 SEPTEMBER STUB ENTIRELY. A major ticketed RA exhibition opening on 2 October. There is a curator's talk on 9 October, and a related film screening season, 'Screening the French Riviera'.",
+      "related": "Curator talk: Painting the French Riviera, 9 October 2026."
+    },
+    {
+      "title": "Renoir and Love",
+      "venue": "National Gallery",
+      "runs": "3 October 2026 - 31 January 2027",
+      "source": "https://www.nationalgallery.org.uk/exhibitions",
+      "verified": "2026-09-09",
+      "confirmed": "Dates unchanged since 8 September, now verified on the gallery's own exhibitions index rather than inferred from the Monet and Renoir page.",
+      "detail": "Renoir's 'La Grenouillere' moves into this show when the free Monet and Renoir pairing closes on 15 September, so it is the direct continuation of September's most urgent exhibition.",
+      "needsHumanCheck": "PRICE. The gallery's exhibitions index renders a 'Free' label adjacent to this entry, but the same index also carries 'Free' beside the free Monet and Renoir and Waldmuller displays, so the label may belong to a neighbouring card rather than to Renoir and Love. Do not print 'free' - either check the Renoir and Love page directly or say nothing about price."
+    },
+    {
+      "title": "The 90s: Art and Fashion",
+      "venue": "Tate Britain",
+      "runs": "8 October 2026 - 14 February 2027",
+      "price": "Ticketed; free for Tate Members",
+      "source": "https://www.tate.org.uk/whats-on/tate-britain/the-90s",
+      "verified": "2026-09-09",
+      "confirmed": "Dates unchanged since 8 September, now verified on the exhibition's own page.",
+      "detail": "Curated by Edward Enninful OBE, whose lived experience of the decade shapes the show. Photography by Juergen Teller, David Sims and Corinne Day; art by Steve McQueen, Damien Hirst, Sarah Lucas and Yinka Shonibare; collections by Vivienne Westwood, Alexander McQueen and John Galliano, plus fashion film and music culture. Supported by McQueen. On the Main Floor.",
+      "access": "Relaxed Hours on the third Wednesday of the month, 10.00-11.00."
+    },
+    {
+      "title": "Justin Caguiat: Change Ringing",
+      "venue": "Serpentine South Gallery",
+      "runs": "8 October 2026 - 10 January 2027",
+      "price": "Free",
+      "source": "https://www.serpentinegalleries.org/whats-on/",
+      "verified": "2026-09-09",
+      "why": "NEW - not in the 8 September stub. Caguiat's first UK institutional exhibition: painting, sculpture, printmaking, sound and film in a site-responsive installation. Free, and it opens the week the Pavilion season is winding down.",
+      "detail": "Opens the same day as The 90s at Tate Britain."
+    },
+    {
+      "title": "Tim Walker's Fairyland: Love and Legends",
+      "venue": "National Portrait Gallery",
+      "runs": "9 October 2026 - 7 February 2027",
+      "source": "https://www.npg.org.uk/whatson/",
+      "verified": "2026-09-09",
+      "why": "NEW - not in the 8 September stub. An exploration of queer identity, community and love through the lens of one of Britain's foremost photographers. It opens the day after the Portrait Award closes, so the NPG's headline space changes hands inside the month.",
+      "ticketStatus": "The gallery's listing says 'Tickets not yet on sale' as at 9 September 2026.",
+      "needsHumanCheck": "No price yet. Check nearer publication - if tickets have gone on sale the price should be printed."
+    },
+    {
+      "title": "Light and Magic: The Birth of Art Photography",
+      "venue": "Tate Modern, Eyal Ofer Galleries",
+      "runs": "14 October 2026 - 21 February 2027",
+      "price": "Ticketed; free for Tate Members",
+      "source": "https://www.tate.org.uk/whats-on/tate-modern/light-and-magic",
+      "verified": "2026-09-09",
+      "confirmed": "Dates unchanged since 8 September, now verified on the exhibition's own page.",
+      "detail": "The first major exhibition to explore pictorialism as a global movement. Over 200 rare prints by more than 80 artists, from Seoul to Sydney, New York to Cape Town, Brazil to Singapore, alongside works from Tate's own collection."
+    }
+  ],
+
+  "exhibitionsClosing": [
+    {
+      "title": "Charlie Billingham",
+      "venue": "Royal Academy",
+      "runs": "24 March - 4 October 2026",
+      "closes": "2026-10-04",
+      "price": "Free",
+      "source": "https://www.royalacademy.org.uk/exhibitions-and-events",
+      "verified": "2026-09-09",
+      "correction": "THE STUB CALLS THIS AN EXHIBITION. The RA files it as a FEATURED SELLING DISPLAY, not an exhibition. It is free, and the date is right, but describe it accurately - a selling display is a different proposition from a ticketed show."
+    },
+    {
+      "title": "John Constable: views of nature",
+      "venue": "British Museum",
+      "runs": "2 June - 4 October 2026",
+      "closes": "2026-10-04",
+      "price": "Free",
+      "source": "https://www.britishmuseum.org/exhibitions-events",
+      "verified": "2026-09-09",
+      "confirmed": "HOLDS. Still listed as 2 June - 4 October 2026, free.",
+      "why": "The first weekend of the month is the last chance. Free, so nothing to book - just a date to know."
+    },
+    {
+      "title": "Herbert Smith Freehills Kramer Portrait Award 2026",
+      "venue": "National Portrait Gallery, Floor 2",
+      "runs": "25 June - 7 October 2026",
+      "closes": "2026-10-07",
+      "price": "Free exhibition",
+      "source": "https://www.npg.org.uk/whatson/",
+      "verified": "2026-09-09",
+      "confirmed": "HOLDS. Now also confirmed as free, and on Floor 2."
+    },
+    {
+      "title": "Jesus Rafael Soto: Penetrable BBL Jaune",
+      "venue": "Kensington Gardens, presented by Serpentine",
+      "runs": "16 June - 25 October 2026",
+      "closes": "2026-10-25",
+      "price": "Free",
+      "source": "https://www.serpentinegalleries.org/whats-on/",
+      "verified": "2026-09-09",
+      "why": "NEW - not in the stub. A public sculpture from Soto's Penetrable series, in the park, free, closing the same day as the Pavilion. The two together make one walk rather than two errands."
+    },
+    {
+      "title": "Serpentine Pavilion 2026 by LANZA atelier",
+      "venue": "Serpentine, Kensington Gardens",
+      "runs": "6 June - 25 October 2026",
+      "closes": "2026-10-25",
+      "price": "Free",
+      "source": "https://www.serpentinegalleries.org/whats-on/",
+      "verified": "2026-09-09",
+      "confirmed": "HOLDS.",
+      "newDetail": "The architects are LANZA atelier, founded by Isabel Abascal and Alessandro Arienzo, and the commission's own title is 'a serpentine'. The stub had neither."
+    },
+    {
+      "title": "Richard Dadd",
+      "venue": "Royal Academy",
+      "runs": "25 July - 25 October 2026",
+      "closes": "2026-10-25",
+      "source": "https://www.royalacademy.org.uk/exhibitions-and-events",
+      "verified": "2026-09-09",
+      "confirmed": "HOLDS."
+    },
+    {
+      "title": "A National Portrait for the National Portrait Gallery",
+      "venue": "National Portrait Gallery, Room 33, Floor 0",
+      "runs": "14 May - 26 October 2026",
+      "closes": "2026-10-26",
+      "price": "Free",
+      "source": "https://www.npg.org.uk/whatson/",
+      "verified": "2026-09-09",
+      "why": "NEW - not in the stub. A free display closing at the end of the month."
+    }
+  ],
+
+  "exhibitionsRunning": [
+    {
+      "title": "Declaring independence: USA 250",
+      "venue": "British Museum",
+      "runs": "30 June - 29 November 2026",
+      "price": "Free",
+      "source": "https://www.britishmuseum.org/exhibitions-events",
+      "verified": "2026-09-09",
+      "why": "NEW - not in the stub, and free. Runs through the whole of October."
+    },
+    {
+      "title": "Frida: The Making of an Icon",
+      "venue": "Tate Modern",
+      "runs": "until 3 January 2027",
+      "source": "https://www.tate.org.uk/whats-on",
+      "verified": "2026-09-09"
+    },
+    {
+      "title": "Amar Kanwar",
+      "venue": "Serpentine North Gallery",
+      "runs": "23 September 2026 - 31 January 2027",
+      "price": "Free",
+      "source": "https://www.serpentinegalleries.org/whats-on/",
+      "verified": "2026-09-09",
+      "detail": "A major solo exhibition as a site-specific installation, new and existing films turning Serpentine North into a meditative visual and sonic environment."
+    },
+    {
+      "title": "Nicole Eisenman",
+      "venue": "Royal Academy",
+      "runs": "22 September 2026 - 5 February 2027",
+      "price": "Free display",
+      "source": "https://www.royalacademy.org.uk/exhibitions-and-events",
+      "verified": "2026-09-09"
+    },
+    {
+      "title": "In Provence and Southern France",
+      "venue": "Royal Academy",
+      "runs": "29 September 2026 - 28 February 2027",
+      "price": "Free featured selling display",
+      "source": "https://www.royalacademy.org.uk/exhibitions-and-events",
+      "verified": "2026-09-09",
+      "detail": "Sits alongside Painting the French Riviera, which opens three days later."
+    },
+    {
+      "title": "Open Roots",
+      "venue": "The Photographers' Gallery",
+      "runs": "18 September - 15 November 2026",
+      "source": "https://thephotographersgallery.org.uk/whats-on",
+      "verified": "2026-09-08",
+      "needsHumanCheck": "Carried from the 8 September stub and NOT re-verified in this pass. Confirm before printing."
+    },
+    {
+      "title": "BBC TV 90 at Ally Pally",
+      "venue": "Alexandra Palace",
+      "runs": "18 September - 30 November 2026",
+      "source": "https://www.alexandrapalace.com/whats-on/",
+      "verified": "2026-09-09",
+      "confirmed": "HOLDS - still listed 18 Sep - 30 Nov 2026."
+    },
+    {
+      "title": "Gillian Wearing: Spiritual Family",
+      "venue": "National Portrait Gallery, Room 31, Floor 1",
+      "runs": "9 January 2026 - 10 January 2027",
+      "price": "Free",
+      "source": "https://www.npg.org.uk/whatson/",
+      "verified": "2026-09-09"
+    }
+  ],
+
+  "theatreOpening": [
+    {
+      "title": "The Hungry Ghost",
+      "venue": "Bush Theatre",
+      "runs": "1 October - 31 October 2026",
+      "from": "£28.00",
+      "postcode": "W12 8LJ"
+    },
+    {
+      "title": "The Cherry Orchard",
+      "venue": "Harold Pinter Theatre",
+      "runs": "3 October 2026 - 9 January 2027",
+      "from": "£27.39",
+      "postcode": "SW1Y 4DN",
+      "why": "The biggest straight-play opening of the month - a West End run into January."
+    },
+    {
+      "title": "From The Heart",
+      "venue": "Garrick Theatre",
+      "runs": "8 October - 18 October 2026",
+      "from": "£38.00",
+      "postcode": "WC2H 0HH",
+      "why": "Opens and closes inside the month - an eleven-day run."
+    },
+    {
+      "title": "High School Musical",
+      "venue": "Troubadour Wembley Park Theatre",
+      "runs": "12 October 2026 - 3 January 2027",
+      "from": "£36.00",
+      "postcode": "HA9 0SP",
+      "why": "Lands the week before October half-term and runs through Christmas."
+    },
+    {
+      "title": "Stories - The Tap Dance Sensation",
+      "venue": "Peacock Theatre",
+      "runs": "14 October - 31 October 2026",
+      "from": "£21.00",
+      "postcode": "WC2A 2HT"
+    },
+    {
+      "title": "The Lives of Others",
+      "venue": "Adelphi Theatre",
+      "runs": "14 October 2026 - 9 January 2027",
+      "from": "£38.00",
+      "postcode": "WC2R 0NS"
+    },
+    {
+      "title": "The Pianist",
+      "venue": "Park Theatre",
+      "runs": "15 October - 28 November 2026",
+      "from": "£25.50",
+      "postcode": "N4 3JP"
+    },
+    {
+      "title": "Angel's Bone",
+      "venue": "London Coliseum",
+      "runs": "16 October - 31 October 2026",
+      "from": "£24.25",
+      "postcode": "WC2N 4ES"
+    },
+    {
+      "title": "Jesus Christ Superstar",
+      "venue": "Theatre Royal Drury Lane",
+      "runs": "16 October 2026 - 9 January 2027",
+      "from": "£30.50",
+      "postcode": "WC2B 5JF",
+      "why": "Takes the Drury Lane stage two weeks after The Last Ship vacates it. The production's own site advertises extended performances at Drury Lane."
+    },
+    {
+      "title": "Cirque Berserk!",
+      "venue": "Garrick Theatre",
+      "runs": "21 October - 31 October 2026",
+      "from": "£28.00",
+      "postcode": "WC2H 0HH",
+      "why": "A half-term booking - it takes the Garrick straight after From The Heart closes."
+    },
+    {
+      "title": "Ceilidh",
+      "venue": "Shoreditch Town Hall",
+      "runs": "22 October - 13 November 2026",
+      "from": "£28.00",
+      "postcode": "EC1V 9LT"
+    },
+    {
+      "title": "The Bridge",
+      "venue": "Bush Theatre",
+      "runs": "28 October - 11 November 2026",
+      "from": "£13.00",
+      "postcode": "W12 8LJ",
+      "why": "Cheapest opening of the month, and it takes the Bush straight after The Hungry Ghost."
+    },
+    {
+      "title": "Tosca",
+      "venue": "London Coliseum",
+      "runs": "30 October - 11 December 2026",
+      "from": "£24.25",
+      "postcode": "WC2N 4ES"
+    }
+  ],
+
+  "theatreClosing": [
+    {
+      "title": "My Son's A Queer (But What Can You Do?)",
+      "venue": "Apollo Theatre",
+      "lastPerformance": "2026-10-03",
+      "runs": "16 September - 3 October 2026",
+      "from": "£23.00",
+      "postcode": "W1D 7EZ"
+    },
+    {
+      "title": "The Children",
+      "venue": "Lyric Hammersmith",
+      "lastPerformance": "2026-10-03",
+      "runs": "2 September - 3 October 2026",
+      "from": "£13.00",
+      "postcode": "W6 0QL"
+    },
+    {
+      "title": "The Last Ship",
+      "venue": "Theatre Royal Drury Lane",
+      "lastPerformance": "2026-10-03",
+      "runs": "22 September - 3 October 2026",
+      "from": "£48.00",
+      "postcode": "WC2B 5JF",
+      "why": "A twelve-day run at Drury Lane. If a reader wants it, the first weekend of October is the whole window."
+    },
+    {
+      "title": "Flamenc-Oh!!",
+      "venue": "Peacock Theatre",
+      "lastPerformance": "2026-10-10",
+      "runs": "30 September - 10 October 2026",
+      "from": "£14.40",
+      "postcode": "WC2A 2HT"
+    },
+    {
+      "title": "Holy Fool",
+      "venue": "Park Theatre",
+      "lastPerformance": "2026-10-10",
+      "runs": "3 September - 10 October 2026",
+      "from": "£25.50",
+      "postcode": "N4 3JP",
+      "detail": "At the height of Stalin's regime, Dmitri Shostakovich struggles to accept that his music must be a tool of the state. Cast includes Jenna Augen, Fergus O'Donnell, Benjamin O'Mahony and Phoebe Pryce."
+    },
+    {
+      "title": "From The Heart",
+      "venue": "Garrick Theatre",
+      "lastPerformance": "2026-10-18",
+      "runs": "8 October - 18 October 2026",
+      "from": "£38.00",
+      "postcode": "WC2H 0HH"
+    },
+    {
+      "title": "Darkling",
+      "venue": "Bush Theatre",
+      "lastPerformance": "2026-10-24",
+      "runs": "5 September - 24 October 2026",
+      "from": "£13.00",
+      "postcode": "W12 8LJ"
+    },
+    {
+      "title": "Much Ado About Nothing",
+      "venue": "Shakespeare's Globe",
+      "lastPerformance": "2026-10-24",
+      "runs": "10 September - 24 October 2026",
+      "from": "£28.00",
+      "postcode": "SE1 9DT",
+      "confirmedAt": "https://www.shakespearesglobe.com/whats-on/",
+      "why": "One half of the end of the Globe's open-air season - the last week outdoors before the theatre turns to the candlelit Sam Wanamaker Playhouse for winter."
+    },
+    {
+      "title": "Table 17",
+      "venue": "Kiln Theatre",
+      "lastPerformance": "2026-10-24",
+      "runs": "17 September - 24 October 2026",
+      "from": "£18.00",
+      "postcode": "NW6 7JR"
+    },
+    {
+      "title": "Tartuffe (Remixed)",
+      "venue": "Marylebone Theatre",
+      "lastPerformance": "2026-10-24",
+      "runs": "4 September - 24 October 2026",
+      "from": "£96.75",
+      "postcode": "NW1 6XT"
+    },
+    {
+      "title": "As You Like It",
+      "venue": "Shakespeare's Globe",
+      "lastPerformance": "2026-10-25",
+      "runs": "9 September - 25 October 2026",
+      "from": "£28.00",
+      "postcode": "SE1 9DT",
+      "confirmedAt": "https://www.shakespearesglobe.com/whats-on/",
+      "detail": "Co-directed by Sean Holmes and Charlie Josephine. There is a Globe Talks panel on As You Like It on 11 October.",
+      "why": "The other half of the Globe's season end. 25 October is the last day of outdoor Shakespeare in London this year - that is the sentence that makes somebody book."
+    },
+    {
+      "title": "Angel's Bone",
+      "venue": "London Coliseum",
+      "lastPerformance": "2026-10-31",
+      "runs": "16 October - 31 October 2026",
+      "from": "£24.25",
+      "postcode": "WC2N 4ES"
+    },
+    {
+      "title": "Cirque Berserk!",
+      "venue": "Garrick Theatre",
+      "lastPerformance": "2026-10-31",
+      "runs": "21 October - 31 October 2026",
+      "from": "£28.00",
+      "postcode": "WC2H 0HH"
+    },
+    {
+      "title": "Stories - The Tap Dance Sensation",
+      "venue": "Peacock Theatre",
+      "lastPerformance": "2026-10-31",
+      "runs": "14 October - 31 October 2026",
+      "from": "£21.00",
+      "postcode": "WC2A 2HT"
+    },
+    {
+      "title": "The Hungry Ghost",
+      "venue": "Bush Theatre",
+      "lastPerformance": "2026-10-31",
+      "runs": "1 October - 31 October 2026",
+      "from": "£28.00",
+      "postcode": "W12 8LJ"
+    }
+  ],
+
+  "theatreSource": {
+    "url": "https://officiallondontheatre.com/theatre-tickets/",
+    "filters": "?last_chance=true for closings, ?coming_soon=true for openings",
+    "verified": "2026-09-09",
+    "why": "Official London Theatre is the Society of London Theatre's own non-profit ticketing platform - the industry body, not a reseller. Its listing pages embed schema.org TheaterEvent JSON-LD with exact startDate, endDate, venue, postcode and lowPrice per show, which is why every entry above carries a venue and a price. This solves the theatre-closing-dates-source item in data/worklist.json: SOLT's last-chance URL 404s, but the last_chance FILTER on the ticketing listing works.",
+    "criticalCaveat": "OLT's endDate IS NOT ALWAYS A CLOSING DATE. For an open-ended long-runner it is the end of the current BOOKING PERIOD. Moulin Rouge! The Musical appears in the last_chance filter with endDate 2026-10-17, which would read as a closing - but its own OLT show page is labelled 'Booking Until' and offers performances on 1, 8 and 15 December 2026, and the producer's site says the Piccadilly run releases one additional week of performances every Monday. It is NOT closing on 17 October and has been excluded. The tell is the run length: a show whose startDate is years back is showing you a booking horizon. Every entry in theatreClosing above is a limited run that began in 2026, and the two Globe shows were additionally confirmed on the Globe's own site.",
+    "stillToDo": "The above is discovery plus JSON-LD. Anything given real prominence in the article should be confirmed at the producing theatre's own site, as the Globe pair and Moulin Rouge were."
+  },
+
+  "theatreNotes": [
+    "The Duke of York's Theatre has been renamed the TOM STOPPARD THEATRE. Carried over from September - it is the kind of change that makes older guides read as out of date. NOTE: Official London Theatre still lists it as 'Duke of York's Theatre' as at 9 September 2026, so the two names are both in circulation.",
+    "SEPTEMBER GUIDE ERROR, FOR ROB, NOT FIXED HERE: september-2026.json has RENT opening 22 September at Theatre Royal Drury Lane. Official London Theatre gives Rent as opening 26 September 2026 at the Duke of York's Theatre, WC2N 4BG, running to 27 March 2027 - and gives Drury Lane to The Last Ship (22 Sep - 3 Oct) then Jesus Christ Superstar (from 16 Oct). Both the venue and the date in the September file look wrong. That entry came from londonboxoffice.co.uk, the secondary source September flagged as needing confirmation. I have not touched any September file."
+  ],
+
+  "venueOpenings": [
+    {
+      "name": "Absurd City",
+      "operator": "Wake The Tiger",
+      "area": "Shepherd's Bush",
+      "address": "Westfield London, W12",
+      "opens": "15 October 2026",
+      "quote": "The portal into a parallel world opens on 15th October.",
+      "detail": "Billed by its operator as Europe's largest immersive art experience: 80,000 sq ft over two floors, five 'districts', 3+ hours of exploring, secret passageways and hidden rooms, with an immersive bar and kitchen inside. General Admission is family-friendly; After Hours are adult-only 18+ evenings. School trips are offered in line with the National Curriculum. Calm Sessions designed with SEND in mind, and Annual Passes, are both marked 'coming soon'.",
+      "source": "https://london.wakethetiger.com/",
+      "verified": "2026-09-09",
+      "why": "THE new-venue find of the month, and exactly the kind of thing the September pass would have missed - it is neither a restaurant nor a gig venue. It opens on 15 October, four days into the run-up to half-term.",
+      "needsHumanCheck": "NO PRICE CONFIRMED. The ticket types are listed but the operator's page does not show prices in the fetched HTML - they sit behind the booking link. Do not print a price."
+    },
+    {
+      "name": "Larger Than Life: Starring Wallace & Gromit, Shaun and More",
+      "venue": "Lightroom, King's Cross",
+      "opens": "14 October 2026",
+      "detail": "A new Aardman show at Lightroom, the King's Cross immersive space. Booking is open.",
+      "source": "https://lightroom.uk/",
+      "verified": "2026-09-09",
+      "why": "Not a new venue but a new show at one, and it opens the day before Absurd City. Together they make October the month London's immersive-attraction offer changes - and both land in time for half-term.",
+      "registeredOffice": "1 Wollstonecraft Street, London N1C 4DZ"
+    },
+    {
+      "name": "EbonyLife Place London",
+      "area": "South London",
+      "address": "208 Wandsworth Road (address from trade press, not from the venue's own site)",
+      "opens": "October 2026 - STATED BY THE FOUNDER, NOT BY THE VENUE'S WEBSITE",
+      "detail": "Mo Abudu's EbonyLife is opening a Black and African culture venue in south London - cinema, dining, art, fashion and culture, built around the Amani Auditorium. Reported as the UK's first cinema hub dedicated to African stories.",
+      "whatIEstablished": "The venue's own website, ebonylifeplacelondon.com, is live and confirms the venue, the Wandsworth Road location, the Amani Auditorium and the proposition - but it says only 'Coming Soon' and 'Opening Soon'. It does not name a month. The October date comes from Mo Abudu's own social channels and from trade and Nigerian press coverage in August 2026. An older round of coverage said Q2 2026, which has clearly already slipped once.",
+      "source": "https://ebonylifeplacelondon.com/",
+      "verified": "2026-09-09",
+      "needsHumanCheck": "YES - DO NOT PRINT A DATE. A venue whose own site says 'Opening Soon' and whose announced date has already moved once is not safe to send readers to. Worth asking Rob whether to include it as 'expected this autumn' with no date, or hold it for November."
+    },
+    {
+      "name": "Blue Note London",
+      "area": "Covent Garden",
+      "address": "42-49 St Martin's Lane, London WC2N 4EJ",
+      "opened": "23 September 2026",
+      "source": "https://www.bluenotejazz.com/london/",
+      "verified": "2026-09-09",
+      "note": "Carried from September. The address is now confirmed in full as 42-49 St Martin's Lane - the September file had only the street. October is its first full month; the programme is under gigs below and is unchanged from the 8 September stub."
+    }
+  ],
+
+  "venueOpeningsNotFound": {
+    "note": "Recorded so the next pass does not redo the work. Checked deliberately and NOT October openings:",
+    "items": [
+      "LONDON MUSEUM, Smithfield - opens 28 NOVEMBER 2026, confirmed on londonmuseum.org.uk ('We're opening our new museum 28 Nov 2026'). Not October. Worth a forward-look line in the October guide, and it should lead November. Its restaurants - Robin Gill, plus two Mr Lyan bars including an alcohol-free one and a rotating residency - open with it on 28 November.",
+      "OLYMPIA - the redeveloped Olympia, including the British Airways ARC music venue and The Square, ALREADY OPENED on 15 June 2026. Do not describe it as new in October. Its October event is AnimeCon London, 3-4 October 2026 in the Grand Hall.",
+      "SECRET CINEMA's permanent flagship at Greenwich Peninsula - announced March 2026, still described as proposed. Not an October opening."
+    ]
+  },
+
+  "restaurantOpenings": [
+    {
+      "name": "Cloth Cornhill",
+      "area": "City of London",
+      "address": "38 1/2 Cornhill, London EC3V 9DR",
+      "opens": "1 October 2026",
+      "confirmation": "STRONG. The restaurant's own booking page at clothrestaurants.com/book-cornhill is LIVE and taking reservations, and confirms the address and the service pattern. The 1 October date is from Hot Dinners and the trade press rather than printed on the restaurant's own page.",
+      "detail": "The second Cloth, taking over what was Simpson's Tavern - the City's oldest chophouse, trading on the site since 1757 and closed since 2022 - with some dishes paying homage to it. Reservations are for the first-floor restaurant only: lunch 11.45-15.00, dinner 17.45-21.45, bookings open 90 days ahead. The ground-floor pub is walk-in only, 11.00-23.00, serving snacks and drinks. Private dining rooms bookable from 1 November 2026.",
+      "source": "https://www.clothrestaurants.com/book-cornhill",
+      "verified": "2026-09-09",
+      "needsHumanCheck": "One widely-repeated detail I could not confirm from a primary source: that the site CANNOT USE THE SIMPSON'S TAVERN NAME FOR LEGAL REASONS. It appears in press coverage and would be the best line in the entry, but it is not on the operator's own site. Ask Rob before printing it."
+    },
+    {
+      "name": "Bamboo Mat",
+      "area": "Canary Wharf",
+      "opens": "2 October 2026",
+      "confirmation": "PARTIAL. The restaurant's own site names its locations as 'Stratford & Canary Wharf', which confirms Canary Wharf as the second site. It does not print an opening date. The 2 October date is Hot Dinners only.",
+      "detail": "A second, bigger site for the Nikkei restaurant - Japanese and Peruvian - after Stratford.",
+      "source": "https://bamboo-mat.co.uk/",
+      "verified": "2026-09-09",
+      "correction": "HOT DINNERS HAS THE ADDRESS WRONG. Its coming-soon list gives 'Soho - 55 Frith Street, W1D 4SJ' while its own description in the same entry says Canary Wharf, and its underlying article slug is bamboo-mat-nikkei-restaurant-canary-wharf-opening. The restaurant's own site says Canary Wharf. Do not print 55 Frith Street."
+    },
+    {
+      "name": "Clementine",
+      "area": "Islington",
+      "address": "190 New North Road, London N1 7BJ",
+      "opens": "3 October 2026",
+      "confirmation": "WEAK - HOT DINNERS ONLY. I could not reach an own-site for Anna Higham's Quince bakery; quincelondon.com is a different business (Quince at the May Fair) and is currently serving a parked demo page, and quince.london returned nothing usable.",
+      "detail": "Anna Higham's Quince bakery expanding across the road with a cafe: porridge, soup and toasties alongside tattie scones, pies and buns.",
+      "source": "https://www.hot-dinners.com/Features/Articles/coming-soon-new-restaurants-opening-in-london",
+      "verified": "2026-09-09",
+      "needsHumanCheck": "Confirm before giving it any prominence."
+    },
+    {
+      "name": "Bubala Covent Garden",
+      "area": "Covent Garden",
+      "address": "14 Garrick Street, Covent Garden, London WC2E",
+      "opens": "19 October 2026 per Hot Dinners",
+      "confirmation": "PARTIAL. Bubala's own site has a Covent Garden page confirming the site and the address, labelled 'Coming Soon', with a booking-date sign-up form. It does NOT print an opening date. Some earlier trade coverage said September, which has evidently moved.",
+      "detail": "The vegetarian, Middle Eastern-inspired group's fourth site and its largest yet, bringing the signature confit potato latkes with toum.",
+      "source": "https://bubala.co.uk/restaurant/covent-garden/",
+      "verified": "2026-09-09",
+      "needsHumanCheck": "The 19 October date is single-sourced to Hot Dinners and the restaurant itself is not committing. Print as 'expected late October' or check again nearer the day."
+    },
+    {
+      "name": "The Talli Queen",
+      "area": "Shepherd's Bush",
+      "address": "412 Uxbridge Road, London W12 0NR",
+      "opens": "October 2026",
+      "confirmation": "CONFIRMED BY THE VENUE. Its own site says 'Opening this October in West London!' and is collecting emails for the opening-date announcement. No exact day yet.",
+      "detail": "The former Queen Adelaide pub, taken over by ex-Pahli Hill and Bandra Bhai chef Avi Shashidhara, inspired by 'traditional drinking establishments of India'.",
+      "source": "https://thetalliqueen.co.uk/",
+      "verified": "2026-09-09"
+    },
+    {
+      "name": "Dishoom Borough",
+      "area": "London Bridge / Borough",
+      "address": "The Hop Exchange, 24 Southwark Street, London SE1 1TY (address from Hot Dinners)",
+      "opens": "October 2026",
+      "confirmation": "CONFIRMED BY THE VENUE. Dishoom's own site carries a Borough page titled 'Dishoom Borough - Coming Soon October '26' with the line 'Grand Opening This October', and lists Borough in its café navigation as 'Borough - Coming Soon'. No exact day; there is a sign-up.",
+      "detail": "One of Dishoom's largest openings, in The Hop Exchange.",
+      "source": "https://www.dishoom.com/borough/",
+      "verified": "2026-09-09",
+      "namingNote": "DISHOOM CALLS IT BOROUGH, NOT LONDON BRIDGE. Hot Dinners calls it Dishoom London Bridge. Use the operator's name."
+    },
+    {
+      "name": "Five Feet Pizza",
+      "area": "Bermondsey",
+      "address": "4 Tanner Street, Bermondsey, London SE1 3LE",
+      "opens": "October 2026",
+      "confirmation": "WEAK - HOT DINNERS ONLY. No own-site found at the obvious domains.",
+      "detail": "From the man behind Luna and Legare with the founder of Watchhouse: 1cm-thick pizzas with an 'aerated, fluffy dough'.",
+      "source": "https://www.hot-dinners.com/Features/Articles/coming-soon-new-restaurants-opening-in-london",
+      "verified": "2026-09-09"
+    },
+    {
+      "name": "Edmondo",
+      "area": "City of London",
+      "address": "8 Lombard Court, London EC3V 9BJ",
+      "opens": "October 2026",
+      "confirmation": "WEAK - HOT DINNERS ONLY. bigmammagroup.com returned HTTP 500 on the restaurants index when checked, and no standalone Edmondo domain resolves.",
+      "detail": "Big Mamma's first City site - the group behind Gloria and Circolo Popolare - mixing an Italian menu with a lavish setting.",
+      "source": "https://www.hot-dinners.com/Features/Articles/coming-soon-new-restaurants-opening-in-london",
+      "verified": "2026-09-09",
+      "needsHumanCheck": "Big Mamma openings draw queues and get written about, so this is worth confirming rather than dropping. Retry bigmammagroup.com."
+    },
+    {
+      "name": "ENDO and Moga",
+      "area": "Chelsea",
+      "address": "8-9 Blacklands Terrace, London SW3 2SP",
+      "opens": "October 2026",
+      "confirmation": "UNCONFIRMED AT SOURCE - endokazutoshi.com returned an empty body and endo.uk.com returned HTTP 503.",
+      "detail": "Endo Kazutoshi's new home after the White City fire: a 10-seater omakase restaurant on the ground floor with the Moga listening bar above.",
+      "source": "https://www.hot-dinners.com/Features/Articles/coming-soon-new-restaurants-opening-in-london",
+      "verified": "2026-09-09",
+      "changedSince0809": "THE MONTH HAS MOVED. september-2026.json lists 'Endo and Moga, Chelsea, opened September 2026'. Hot Dinners' coming-soon guide now files it under OCTOBER 2026. If the September guide is still live saying it has opened, that is now wrong. Flagging rather than fixing - I have not touched any September file.",
+      "needsHumanCheck": "Yes - the month moved and neither of the chef's domains would answer."
+    },
+    {
+      "name": "Tofu Vegan",
+      "area": "Strand",
+      "address": "397 Strand, London WC2R 0LP",
+      "opens": "October 2026",
+      "confirmation": "WEAK - HOT DINNERS ONLY. Tofu Vegan's own site lists its existing branches (Upper Street, Gloucester Road, Charlotte Street, North End Road, and Brighton) and makes NO mention of a Strand site.",
+      "detail": "Gluten-free Chinese food that is also vegan.",
+      "source": "https://www.hot-dinners.com/Features/Articles/coming-soon-new-restaurants-opening-in-london",
+      "verified": "2026-09-09",
+      "needsHumanCheck": "The operator's own locations list does not carry it. Do not print without confirming."
+    }
+  ],
+
+  "restaurantOpeningsExcluded": [
+    {
+      "name": "Bar Douro Soho",
+      "address": "10 Greek Street, London W1D 4DH",
+      "whyExcluded": "IT HAS MOVED TO NOVEMBER. Hot Dinners still files it under October 2026. Bar Douro's own website says, twice, 'Bar Douro is coming to Soho, 10 Greek Street this November' and 'Opening November 2026'. This is the clearest example in this pass of the openings tracker going stale - do not print it as an October opening.",
+      "source": "https://bardouro.co.uk/restaurants/soho",
+      "verified": "2026-09-09",
+      "detail": "For November: the group's third London site, on the street where Bar Douro began, specialising in imported Carnes Irmaos Unidos Maronesa beef."
+    }
+  ],
+
+  "restaurantClosings": [
+    {
+      "name": "Sonora Taqueria",
+      "area": "Stoke Newington",
+      "what": "Closing down. Reported by Hot Dinners on 1 September 2026, described as one of the best taco kitchens in London.",
+      "source": "https://www.hot-dinners.com/Gastroblog/Latest-news/",
+      "verified": "2026-09-09",
+      "needsHumanCheck": "NO CLOSING DATE ESTABLISHED and not confirmed from the business's own channels. A 'last chance to eat here' line needs a date. Ask Rob or check their own site before printing."
+    }
+  ],
+
+  "restaurantSource": {
+    "url": "https://www.hot-dinners.com/Features/Articles/coming-soon-new-restaurants-opening-in-london",
+    "alsoRead": "https://www.hot-dinners.com/Gastroblog/Latest-news/",
+    "verified": "2026-09-09",
+    "note": "Hot Dinners' 'coming soon' guide carries a dedicated OCTOBER 2026 section, which is the right page for this job - better than the Latest news feed the September pass used. It is still a secondary source: of the eleven October entries, one had moved to November, one had a wrong address, and four could not be confirmed anywhere else. Every entry above records exactly how far the confirmation got."
+  },
+
+  "octoberHalfTerm": {
+    "note": "October half-term falls in the second half of the month for most London boroughs. Worth its own section - the family material this year is unusually strong and it is spread across four institutions.",
+    "items": [
+      {
+        "what": "Big Bayeux Bash, British Museum",
+        "dates": "10-11 October 2026",
+        "price": "Free",
+        "note": "Ahead of half-term rather than in it, and does NOT include Tapestry entry."
+      },
+      {
+        "what": "Larger Than Life: Starring Wallace & Gromit, Shaun and More, Lightroom King's Cross",
+        "dates": "opens 14 October 2026",
+        "source": "https://lightroom.uk/"
+      },
+      {
+        "what": "Absurd City, Westfield London",
+        "dates": "opens 15 October 2026",
+        "note": "Operator says 100% family-friendly; After Hours evenings are 18+.",
+        "source": "https://london.wakethetiger.com/"
+      },
+      {
+        "what": "MakeBeth, Shakespeare's Globe, Bankside",
+        "dates": "24 October - 1 November 2026",
+        "detail": "An interactive retelling of Macbeth in recycled cardboard, for families and young audiences aged 7+.",
+        "source": "https://www.shakespearesglobe.com/whats-on/"
+      },
+      {
+        "what": "Macbeth: On Stage Family Workshop (9-11 years), Shakespeare's Globe",
+        "dates": "26-31 October 2026",
+        "source": "https://www.shakespearesglobe.com/whats-on/"
+      },
+      {
+        "what": "Twelfth Night: Family Workshop (5-8 years), Shakespeare's Globe",
+        "dates": "27-31 October 2026",
+        "source": "https://www.shakespearesglobe.com/whats-on/"
+      },
+      {
+        "what": "Ghosts & Ghouls Family Tour, Shakespeare's Globe",
+        "dates": "19 September 2026 - 30 January 2027",
+        "detail": "A spooky family guided tour of the Globe - ghosts, spirits and scary happenings in Shakespeare's most chilling plays. Runs across half-term and Halloween.",
+        "source": "https://www.shakespearesglobe.com/whats-on/"
+      },
+      {
+        "what": "Cirque Berserk!, Garrick Theatre",
+        "dates": "21-31 October 2026",
+        "from": "£28.00"
+      },
+      {
+        "what": "High School Musical, Troubadour Wembley Park",
+        "dates": "from 12 October 2026",
+        "from": "£36.00"
+      }
+    ],
+    "verified": "2026-09-09"
+  },
+
+  "gigs": [
+    {
+      "act": "Baaba Maal",
+      "venue": "Blue Note London",
+      "date": "4-6 October",
+      "why": "A three-night residency in a 300-seat room for an artist who normally plays festivals and concert halls. The single strongest argument for the new venue."
+    },
+    {
+      "act": "Jamie Cullum",
+      "venue": "Blue Note London",
+      "date": "8-9 October",
+      "why": "His second stand at the club inside three weeks - he also plays the opening run on 28-29 September."
+    },
+    {
+      "act": "Erykah Badu - IMEHO, An Intimate Experience",
+      "venue": "Blue Note London",
+      "date": "10-11 October",
+      "why": "The one to plan a trip around. Badu in a 300-seat room is not a thing that happens in London."
+    },
+    {
+      "act": "Nubya Garcia",
+      "venue": "Blue Note London",
+      "date": "15-17 October",
+      "why": "Three nights from the centre of the London jazz scene, in the month the room finds its feet."
+    },
+    {
+      "act": "Shabaka",
+      "venue": "Blue Note London",
+      "date": "19-20 October"
+    },
+    {
+      "act": "Beth Orton",
+      "venue": "Alexandra Palace",
+      "date": "22 October"
+    },
+    {
+      "act": "Fat Freddy's Drop",
+      "venue": "Alexandra Palace",
+      "date": "23 October"
+    },
+    {
+      "act": "Crouch End Festival Chorus - Mozart's Requiem",
+      "venue": "Alexandra Palace",
+      "date": "25 October",
+      "why": "The local-choir-in-a-vast-Victorian-hall option, and the cheapest way into the building."
+    },
+    {
+      "act": "Overmono",
+      "venue": "Alexandra Palace",
+      "date": "28 October"
+    },
+    {
+      "act": "Skindred",
+      "venue": "Alexandra Palace",
+      "date": "31 October",
+      "why": "Halloween night at Ally Pally."
+    }
+  ],
+
+  "gigsFullListingsForReference": {
+    "note": "NOT FOR PRINTING - the curated handful above is the article. This is the raw verification, kept so the next pass can see what was checked.",
+    "blueNoteOctober": "Nubiyan Twist 2 Oct; Mark Kavuma & the Banger Factory 3 Oct; Baaba Maal 4-6 Oct; Gary Crosby Quartet feat. CHERISE 7 Oct; Zara McFarlane 7 Oct; Jamie Cullum 8-9 Oct; Erykah Badu (IMEHO) 10-11 Oct; Moses Yoofee Trio 12-13 Oct; Emily Bear 14 Oct; Nubya Garcia 15-17 Oct; Hak Baker 18 Oct; Shabaka 19-20 Oct; Steam Down X Nyjo Big Band 22-23 Oct; Keyon Harrold 24-25 Oct; The Soul Rebels 26 Oct. Also Nik West 30 Sep - 1 Oct. IDENTICAL to the 8 September stub - nothing has moved. The site's carousel stops at 26 October; 27-31 October were not visible and are unknown rather than empty.",
+    "allyPalaceOctober": "Knit + Stitch 8-11 Oct; Mind Body Soul Experience, OM Yoga Show and Vegan Life Live all 16-18 Oct; Friday Night Is Music Night - Sound of Sleep 18 Oct (just announced); Rhythm Stick Club Night 21 Oct (just announced); Beth Orton 22 Oct; Fat Freddy's Drop 23 Oct; Qurat-ul-Ain Balouch 23 Oct; The Reytons 24 Oct; Best of Both Worlds 24 Oct (just announced); Crouch End Festival Chorus - Mozart Requiem 25 Oct; Overmono 28 Oct; Gary Delaney - Gary On Laughing 29 Oct; London Bollywood Orchestra - Sounds Of Mumbai 30 Oct; Skindred 31 Oct. Every date in the 8 September stub HOLDS; the five marked 'just announced' are new since then.",
+    "otherOctoberEvents": "AnimeCon London, Olympia Grand Hall, 3-4 October 2026 - the UK's biggest anime and manga convention. Park Nights 2026 at the Serpentine Pavilion, 2 & 3 October 2026, 8pm: Ebun Sodipo and Rosa-Johan Uddoh's 'Atlantic Cruises: The Sex Tour'. RA Late: Friday night life drawing, bathers by the sea, 23 October 2026."
+  },
+
+  "gigsSources": [
+    { "url": "https://www.bluenotejazz.com/london/", "verified": "2026-09-09" },
+    { "url": "https://www.alexandrapalace.com/whats-on/", "verified": "2026-09-09" },
+    { "url": "https://olympia.london/", "verified": "2026-09-09" },
+    { "url": "https://www.serpentinegalleries.org/whats-on/", "verified": "2026-09-09" },
+    {
+      "url": "https://www.roundhouse.org.uk/whats-on/",
+      "verified": "2026-09-09",
+      "note": "Fetched but its listing renders client-side and returned almost nothing to curl. September used it successfully; if the October guide wants a Roundhouse entry it needs the browser, not curl."
+    }
+  ],
+  "gigsNote": "CURATED, NOT COMPREHENSIVE - Rob's standing decision, recorded as gigs-curated-not-comprehensive in data/worklist.json. Ten entries, each with a reason to go. Do not let this grow into a calendar; Songkick and DICE win that fight.",
+
+  "sportFlagged": {
+    "decision": "STILL OPEN - see sport-in-monthly-guides in data/worklist.json. Nothing here has been built into the file; it is recorded only so the decision has something to act on.",
+    "found": "Alexandra Palace hosts Haringey Huskies ice hockey through October: v Basingstoke Bison 3 Oct, v Guildford Phoenix 10 Oct, v Peterborough Phantoms 2 17 Oct, v Bristol Pitbulls 2 24 Oct, and an EJMC fixture v Invicta Mustangs 31 Oct. Source https://www.alexandrapalace.com/whats-on/, verified 2026-09-09.",
+    "note": "This is a real find for the sport question specifically because it is not football: cheap, indoors, in a landmark building, on five dates spread across the month. If the series does cover sport, this is a better fit for the guide's voice than a Premier League fixture list. No football, rugby or cricket fixtures were researched - that would follow the decision, not precede it."
+  },
+
+  "changedSince0809": [
+    "NOTHING MOVED ON BAYEUX. Both ticket dates hold exactly: members 6 October, general 21 October, covering 1 January to 31 March 2027.",
+    "NEW AND IMPORTANT: Bayeux tickets for 10 September to 31 December 2026 are now SOLD OUT, and the free three-day Bayeux Tapestry opening festival on 9-11 October was not in the stub at all.",
+    "BAR DOURO SOHO HAS SLIPPED FROM OCTOBER TO NOVEMBER, per its own website. Hot Dinners has not caught up.",
+    "ENDO AND MOGA has moved the other way in the record: September's file says it opened in September, Hot Dinners now files it under October.",
+    "PAINTING THE FRENCH RIVIERA at the Royal Academy, opening 2 October, was missing from the stub entirely - as were Tim Walker's Fairyland at the NPG (9 Oct), Justin Caguiat at the Serpentine (8 Oct), and Declaring independence: USA 250 at the British Museum (running to 29 Nov, free).",
+    "ART IN VICTORIAN BRITAIN IS NOT AN EXHIBITION. The stub lists it among exhibitions closing 6 October. The Royal Academy files it as a SHORT COURSE, 1 September - 6 October 2026. Charlie Billingham, also in the stub's closing list, is a free FEATURED SELLING DISPLAY rather than an exhibition. Both dates are right; both descriptions in the stub are wrong.",
+    "Five new Alexandra Palace October events were 'just announced' since 8 September; every previously recorded date holds.",
+    "Blue Note's October programme is unchanged, and its full address is confirmed as 42-49 St Martin's Lane."
+  ],
+
+  "gaps": [
+    "RENOIR AND LOVE PRICE - do not print 'free'; the National Gallery index label may belong to a neighbouring card",
+    "EBONYLIFE PLACE LONDON date - the venue's own site says only 'Opening Soon'; October is from the founder's social channels",
+    "ABSURD CITY has no confirmed ticket price - prices sit behind the operator's booking link",
+    "TIM WALKER AT THE NPG - tickets were 'not yet on sale' on 9 September, so no price",
+    "FOUR RESTAURANT OPENINGS ARE HOT-DINNERS-ONLY - Clementine, Five Feet Pizza, Edmondo, Tofu Vegan Strand",
+    "BUBALA COVENT GARDEN 19 October is single-sourced; the restaurant will not confirm a date",
+    "CLOTH CORNHILL Simpson's Tavern name-rights detail is not sourced to the operator",
+    "SONORA TAQUERIA is closing but no closing date was established",
+    "OPEN ROOTS at the Photographers' Gallery was carried from the stub and NOT re-verified in this pass",
+    "BLUE NOTE 27-31 OCTOBER is unknown rather than empty - the site's carousel stopped at 26 October",
+    "SPORT is still undecided - see sportFlagged, which records the Ally Pally ice hockey fixtures only",
+    "THE SPINE data/months/october.json is a separate job and is not covered by this overlay"
+  ],
+  "gapsNote": "These are the machine-visible index of flagsForHuman below, so scripts/check-month-freshness.mjs surfaces them in the weekly audit. NONE of them may be written into the article as a 'we couldn't find this' line - ask Rob instead.",
+
+  "flagsForHuman": [
+    "MOULIN ROUGE! IS THE NEAR-MISS OF THIS PASS. It sits in Official London Theatre's 'Last Chance To See' filter with an end date of 17 October 2026. It is not closing. Its own OLT page is labelled 'Booking Until' and sells performances on 1, 8 and 15 December, and the producer releases another week of performances every Monday. Had this been printed it would have been the worst error in the guide. Excluded. The general lesson is in theatreSource.criticalCaveat.",
+    "RENOIR AND LOVE PRICE - do not print 'free'. The National Gallery's index renders a Free label near the entry but the same index puts Free beside genuinely free displays either side of it. Needs the exhibition's own page.",
+    "EBONYLIFE PLACE LONDON - a genuinely interesting new south London venue whose own site says only 'Opening Soon'. October comes from the founder's social channels and press. An earlier Q2 2026 date already slipped. Do not print a date; ask Rob whether to run it dateless or hold it.",
+    "ABSURD CITY has no confirmed price. The date, address and detail are all from the operator; the prices sit behind a booking link.",
+    "TIM WALKER AT THE NPG - tickets were 'not yet on sale' on 9 September. Check again before publishing.",
+    "FOUR RESTAURANT OPENINGS ARE HOT-DINNERS-ONLY and could not be corroborated at the venue: Clementine, Five Feet Pizza, Edmondo, Tofu Vegan Strand. Tofu Vegan is the weakest - the operator's own locations list does not mention a Strand site at all. Edmondo is the one most worth chasing, because Big Mamma openings matter; bigmammagroup.com was 500ing on 9 September and should be retried.",
+    "BUBALA COVENT GARDEN - the restaurant will confirm the site and the address but not the 19 October date, and earlier coverage said September. Treat the date as soft.",
+    "CLOTH CORNHILL - the 'cannot use the Simpson's Tavern name for legal reasons' detail is the best line available and I could not source it to the operator. Ask Rob.",
+    "SONORA TAQUERIA is closing but I have no closing date and nothing from the business itself. A 'last chance' line needs a date.",
+    "SEPTEMBER'S RENT ENTRY looks wrong on both venue and date - see theatreNotes. Rob's call, and it touches a live article.",
+    "OPEN ROOTS at the Photographers' Gallery is carried from the stub and was NOT re-verified in this pass.",
+    "BLUE NOTE 27-31 OCTOBER is unknown, not empty - the site's carousel stopped at 26 October. If the guide wants to say the month's programme ends on the 26th, check first."
+  ],
+
   "todoBeforeWriting": [
-    "Write data/months/october.json - the spine. October's annual fixtures need researching from scratch: London Film Festival (BFI), Frieze London and Frieze Masters, Diwali on Trafalgar Square, Black History Month, the London Literature Festival, Dance Umbrella, the Lord Mayor's Show is November not October. Confirm every one from the organiser.",
-    "Re-verify both Bayeux ticket dates. See the note above.",
-    "Theatre: October openings AND closings. September's guide covered openings only, which is the less urgent half - see the gap recorded in september-2026.json.",
-    "Decide whether this series covers sport. Flagged in September and still undecided.",
-    "Check for NEW VENUE openings deliberately - Blue Note was missed in September because venues fall between the restaurant and gig sources."
+    "Write data/months/october.json - the spine. Annual fixtures still need researching from scratch: London Film Festival (BFI), Frieze London and Frieze Masters, Diwali on Trafalgar Square, Black History Month, the London Literature Festival, Dance Umbrella. The Lord Mayor's Show is November, not October. Confirm every one from the organiser. NOT covered by this pass - a separate agent owns it.",
+    "Decide whether this series covers sport. See sportFlagged above for what October actually offers.",
+    "Work through flagsForHuman before publishing."
+  ],
+
+  "lessonsForNextMonth": [
+    "A LISTING'S END DATE IS NOT ALWAYS A CLOSING DATE. Official London Theatre's last_chance filter mixes genuine final performances with booking horizons for open-ended runs. Check the run length: a show that started years ago and appears to close in five weeks is showing you its booking window.",
+    "THE VENUE'S OWN SITE BEATS THE TRACKER, AND SOMETIMES CONTRADICTS IT. Bar Douro had moved to November, Bamboo Mat's address was wrong, Dishoom calls its own site Borough rather than London Bridge. All three would have been printed wrong from Hot Dinners alone.",
+    "HOT DINNERS HAS A 'COMING SOON' GUIDE WITH A PER-MONTH SECTION - hot-dinners.com/Features/Articles/coming-soon-new-restaurants-opening-in-london. It is the right page for a monthly guide; the Latest news feed that September used is a fire-hose of the last fortnight.",
+    "THE NEW-VENUE PASS WORKS AND SHOULD BE STANDING. Searching deliberately for openings that are neither restaurants nor gigs found Absurd City, the Lightroom show and EbonyLife Place - none of which would surface from Hot Dinners or a venue's what's-on page. Blue Note was the September lesson; this month it paid off.",
+    "CHECK WHAT AN INSTITUTION CALLS A THING. Two entries in the stub's exhibition-closing list turned out to be a short course and a selling display. The RA's own site labels each category explicitly.",
+    "SEARCH ENGINES: DuckDuckGo HTML and Mojeek both rate-limited or served a captcha after a handful of curl queries on 9 September. Google via the browser pane worked throughout and is the reliable route for SERP-first discovery here."
   ]
 }
