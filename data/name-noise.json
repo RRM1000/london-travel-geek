@@ -1,6 +1,6 @@
 {
   "purpose": "Strings the consensus extractor captures as venue names that are not venues. Without this the source counts are unusable: the Wikipedia pages alone were contributing 'Main page', 'Random article' and 'Learn to edit' as restaurants, CK Travels was contributing country names, and Brew Atlas was contributing London neighbourhoods.",
-  "howToUse": "scripts/build-evidence.mjs drops any captured name matching these. Neighbourhood names come from the HOODS table instead, so they stay in one place.",
+  "howToUse": "scripts/build-evidence.mjs drops any captured name matching these. Neighbourhood names come from the HOODS table instead, so they stay in one place. outOfArea and editorialExclusions are both real businesses rather than junk: the first is outside London, the second is inside it and deliberately not carried. Both are dropped from the evidence build.",
   "siteChrome": [
     "about",
     "advertise",
@@ -411,6 +411,9 @@
     "Oyster Shack & Seafood Bar": "Waltham Abbey, Essex - inside the M25 but outside London. Named by The Infatuation's London seafood guide and by Time Out's cheap eats list.",
     "Molesey Fish Bar": "East Molesey, Surrey - named by a 'top London chippies' list and by a London video, but outside Greater London.",
     "Marlow Fish Bar": "Marlow, Buckinghamshire - same list, same problem."
+  },
+  "editorialExclusions": {
+    "Eden's Cottage": "264 Seven Sisters Road, Finsbury Park N4 2HY. Real, in London and believed still trading - named by The Infatuation, the Evening Standard, Eater and Secret London, so it scored four sources. Dropped from the fried chicken guide on 9 September 2026 as an editorial call by the site owner. NOT a closure: do not move this to data/closed.json, which would put a false record in the file the whole site trusts for what has shut."
   },
   "chromePatterns": {
     "note": "Site furniture recorded as venue names. audit-corpus.mjs reports these and clean-corpus.mjs removes them. Every entry was paid for on a real topic - the comment names which. WORD BOUNDARIES MATTER: without the \\b, '^home' matched Homeslice and deleted a real pizzeria from three sources.",

@@ -95,6 +95,22 @@ const CLOSED = (() => {
   }
 })();
 
+// Real London venues the sources do name and that we choose not to carry.
+// A step beyond NOISE.outOfArea, which is for real businesses outside London:
+// this is for ones inside it. It exists because both other routes are wrong.
+// Deleting the name from the source arrays would falsify what those
+// publications printed, and data/closed.json would assert a closure that has
+// not happened - and closed.json is what the rest of the site trusts to know
+// what has actually shut.
+//
+// Matched through norm() rather than toLowerCase, the way CLOSED is, because
+// the corpus carries both apostrophes: Eden's Cottage appears three times with
+// a curly one and once with a straight one across four source arrays, and a
+// plain lowercase compare would have silently caught only one of the four.
+const EXCLUDED = new Set(
+  Object.keys(NOISE.editorialExclusions ?? {}).map((k) => norm(k)),
+);
+
 const CAPS_OK = (() => {
   const out = new Set((NOISE.allowCaps ?? []).map((s) => s.toLowerCase()));
   try {
@@ -171,6 +187,7 @@ const isExcluded = (host) => (REG.excluded ?? []).includes(host);
 const evidence = new Map(); // normName -> record
 const unknownDomains = new Set();
 const closedHits = new Set();
+const excludedHits = new Set();
 const topics = fs.readdirSync("data/consensus").filter((f) => f.endsWith(".json"));
 
 for (const file of topics) {
@@ -191,6 +208,7 @@ for (const file of topics) {
       const key = norm(name);
       if (!key) continue;
       if (CLOSED.has(key)) { closedHits.add(name); continue; }
+      if (EXCLUDED.has(key)) { excludedHits.add(name); continue; }
 
       if (!evidence.has(key)) {
         evidence.set(key, { name, topics: new Set(), mentions: [] });
@@ -287,6 +305,10 @@ console.log(`  mentions by tier: ${Object.entries(spread).sort().map(([t, n]) =>
 if (closedHits.size) {
   console.log(`\n${closedHits.size} CLOSED venue(s) dropped - still carried by live lists:`);
   for (const n of closedHits) console.log(`  ${n}`);
+}
+if (excludedHits.size) {
+  console.log(`\n${excludedHits.size} venue(s) dropped by name-noise.json editorialExclusions:`);
+  for (const n of excludedHits) console.log(`  ${n}`);
 }
 if (unknownDomains.size) {
   console.log(`\n${unknownDomains.size} domain(s) not in data/sources.json (counted as tier C):`);
