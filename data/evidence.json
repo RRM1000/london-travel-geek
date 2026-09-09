@@ -71497,46 +71497,6 @@
       }
     ]
   },
-  "edenscottage": {
-    "name": "Eden’s Cottage",
-    "topics": [
-      "fried-chicken"
-    ],
-    "sourceCount": 4,
-    "tierSpread": "B3 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "fried-chicken": {
-        "sourceCount": 4,
-        "tierSpread": "B3 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-fried-chicken-london"
-      },
-      {
-        "tier": "B",
-        "source": "Evening Standard",
-        "url": "https://www.standard.co.uk/going-out/restaurants/best-fried-chicken-london-b1143323.html"
-      },
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-fried-chicken-london"
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/best-fried-chicken-london/"
-      }
-    ]
-  },
   "coqfighter": {
     "name": "Coqfighter",
     "topics": [

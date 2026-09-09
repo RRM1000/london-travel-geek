@@ -50,7 +50,7 @@ That disagreement is not a flaw in the evidence. It is the most interesting thin
 | **Shoreditch** | Butchies, Smoking Goat |
 | **King's Cross** | Chick'N'Sours (Big Chill) |
 | **Elephant & Castle** | CheeMc, La Barra |
-| **North London** | Chick King (Tottenham), Eden's Cottage (Finsbury Park) |
+| **North London** | Chick King (Tottenham) |
 | **South London** | Morley's (everywhere), Maureen's (Brixton), Chick'N'Sours (Canada Water) |
 | **New Malden** | Chick and Beers, Tongdak, Imone |
 | **West & north-west** | Normah's (Queensway), The Best Broasted (Willesden) |
@@ -70,6 +70,10 @@ Britain had no judged fried chicken award until this year. The **Fried Chicken C
 **It won on the 20Ft Hot Chicken Burger**, and it is the strangest result in this guide: a national title, and not one of the seven mastheads or two blogs in this pass names it. It trades off Holles Street just behind Oxford Street and through the delivery platforms.
 
 If you want to know what the judges rewarded rather than what the critics recommend, this is the only place to go — and the gap between those two things is the reason this guide exists.
+
+![Fried chicken tenders on branded chicken shop paper beside crinkle-cut fries and a rice bowl under a thick orange sauce, on a metal tray](../../assets/articles/best-fried-chicken-london/20ft-fried-chicken.jpg)
+
+*The national champion, served off a metal tray on a side street behind Oxford Street. No masthead in this pass names it.*
 
 ### Chick'N'Sours — joint second, and no longer a restaurant
 
@@ -131,6 +135,10 @@ London has thousands of chicken shops and the serious lists name this one. It st
 
 A rain-or-shine Tottenham takeaway that four sources treat as a destination rather than a local. The chicken is fried hard enough to stay crunchy without turning greasy, and seasoned without going salty. **Takeaway operation — there is no dining room to speak of.**
 
+![Fried chicken pieces, some crumbed red and some plain, piled over chips in a takeaway box with a pot of red sauce](../../assets/articles/best-fried-chicken-london/chick-king.jpg)
+
+*Chicken over chips in a box, which is the whole operation — there is nowhere to sit. Fried hard enough to stay crunchy without going greasy.*
+
 ### La Barra — Colombian, and enormous
 
 *£ · 147 Eagle Yard Arch, Walworth, SE1 6SP · Cited by 4 sources*
@@ -139,19 +147,17 @@ A rain-or-shine Tottenham takeaway that four sources treat as a destination rath
 
 An Elephant and Castle railway arch, good for groups, and cheap. **Plan nothing for afterwards.**
 
-### Eden's Cottage — hot wings in Finsbury Park
-
-*£ · 264 Seven Sisters Road, N4 2HY · Cited by 4 sources*
-
-A chicken shop whose **hot wings** are what four sources come for, even where the house order elsewhere would be a burger or strips. The coating stays dry rather than greasy and the heat comes from the marinade rather than a sauce. Takeaway.
-
-**Coqfighter** is also named by four sources and is the fourth of this group.
+**Coqfighter** is also named by four sources and is the third of this group.
 
 ### Smoking Goat — the wings that are not really fried chicken
 
 *££ · 64 Shoreditch High Street, E1 6JJ · Cited by 3 sources*
 
 A Thai restaurant, and the **chilli fish sauce wings** are why it appears in a fried chicken guide at all. Sweet, sour, and crunchy enough to do damage to the roof of your mouth. A proper Shoreditch dining room rather than a counter — this is the one on the list you would take someone to for dinner.
+
+![Glazed chicken wings on a pink oval plate, scattered with coriander, sliced red chilli and shallot in a pool of orange fish sauce dressing](../../assets/articles/best-fried-chicken-london/smoking-goat-wings.jpg)
+
+*The chilli fish sauce wings, and the reason a Thai restaurant is in a fried chicken guide. Sweet, sour and sharp rather than battered and salted.*
 
 ### Bao — Taiwanese fried chicken as a bar snack
 
