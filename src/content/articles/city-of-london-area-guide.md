@@ -181,6 +181,7 @@ The north-west edge, and the most atmospheric corner of the City. **Smithfield**
 
 ## Go deeper
 
+- **[A walk around the City: Bank to Tower Bridge](/articles/city-of-london-walk/)** — the route below, expanded into eleven numbered stops with a map, including the bombed church that became a garden and which of the three free viewpoints needs no booking.
 - **[The best views in London](/articles/best-views-london/)** — Horizon 22, the Lookout and Sky Garden are all in the Square Mile, all free, and all need booking on different timetables.
 
 ## Where to eat and drink
@@ -222,6 +223,8 @@ The north-west edge, and the most atmospheric corner of the City. **Smithfield**
 4. **Leadenhall Market:** South-east under the painted arcade.
 5. **Tower Hill:** Down to the **Roman wall** and the **Tower of London**.
 6. **Finish:** **Tower Bridge**, or north to Shoreditch for the evening.
+
+For the longer version of this — eleven numbered stops from Bank rather than St Paul's, with a map, the ruined church at St Dunstan-in-the-East and a day-by-day breakdown of what is open — see [the full City walking route](/articles/city-of-london-walk/).
 
 ## Common mistakes to avoid
 

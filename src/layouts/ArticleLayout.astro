@@ -376,6 +376,7 @@ const breadcrumbs = [
 
   <script>
     import { restaurantMaps } from "../data/restaurantMaps";
+    import { routeMaps } from "../data/routeMaps";
 
     const videoButtons = document.querySelectorAll<HTMLButtonElement>(
       "[data-youtube-video]",
@@ -409,6 +410,7 @@ const breadcrumbs = [
       tileLayer: (url: string, options?: Record<string, unknown>) => any;
       divIcon: (options: Record<string, unknown>) => any;
       marker: (position: [number, number], options?: Record<string, unknown>) => any;
+      polyline: (positions: [number, number][], options?: Record<string, unknown>) => any;
       latLngBounds: (positions: [number, number][]) => any;
     };
 
@@ -563,6 +565,107 @@ const breadcrumbs = [
         delete element.dataset.mapReady;
       }
     };
+
+    // Walking routes: numbered pins in walking order, joined by a line, so the
+    // shape of the walk reads off the map without opening a single popup.
+    // Alternatives that share a number (the three City viewpoints) are left off
+    // the line, otherwise it doubles back through places you would not walk.
+    const initialiseRouteMap = async (element: HTMLElement) => {
+      if (element.dataset.mapReady === "true") return;
+
+      const stops = routeMaps[element.dataset.routeMap ?? ""];
+      if (!stops?.length) return;
+
+      element.dataset.mapReady = "true";
+
+      try {
+        const L = await loadLeaflet();
+        element.replaceChildren();
+
+        const map = L.map(element, { scrollWheelZoom: false });
+        L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+          maxZoom: 19,
+          attribution:
+            '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        }).addTo(map);
+
+        const positions: [number, number][] = [];
+        const line: [number, number][] = [];
+
+        for (const stop of stops) {
+          const position: [number, number] = [stop.latitude, stop.longitude];
+          positions.push(position);
+          if (stop.onRoute) line.push(position);
+
+          const icon = L.divIcon({
+            className: "route-map-marker-wrap",
+            html:
+              `<span class="route-map-marker${stop.onRoute ? "" : " route-map-marker--alt"}">` +
+              `${stop.stop}</span>`,
+            iconSize: [28, 28],
+            iconAnchor: [14, 14],
+            popupAnchor: [0, -16],
+          });
+
+          const content = document.createElement("div");
+          content.className = "restaurant-map-popup";
+          const name = document.createElement("strong");
+          name.textContent = `${stop.stop}. ${stop.name}`;
+          const note = document.createElement("span");
+          note.textContent = stop.note;
+          content.append(name, note);
+          if (stop.articleAnchor) {
+            const links = document.createElement("div");
+            const jump = document.createElement("a");
+            jump.href = stop.articleAnchor;
+            jump.textContent = "Read about this stop";
+            links.append(jump);
+            content.append(links);
+          }
+
+          L.marker(position, { icon, title: stop.name, alt: stop.name })
+            .addTo(map)
+            .bindPopup(content);
+        }
+
+        if (line.length > 1 && typeof L.polyline === "function") {
+          L.polyline(line, {
+            color: "#c2410c",
+            weight: 3,
+            opacity: 0.7,
+            dashArray: "6 6",
+          }).addTo(map);
+        }
+
+        map.fitBounds(L.latLngBounds(positions), { padding: [30, 30], maxZoom: 16 });
+
+        const shell = element.closest<HTMLDetailsElement>("details");
+        shell?.addEventListener("toggle", () => {
+          if (shell.open) window.setTimeout(() => map.invalidateSize(), 0);
+        });
+      } catch {
+        element.innerHTML =
+          '<p>The map could not load. The stops are numbered in walking order in the guide below, each with its nearest station.</p>';
+        delete element.dataset.mapReady;
+      }
+    };
+
+    for (const element of document.querySelectorAll<HTMLElement>(
+      "[data-route-map]",
+    )) {
+      const shell = element.closest<HTMLDetailsElement>("details");
+      if (shell?.open) {
+        void initialiseRouteMap(element);
+      } else {
+        shell?.addEventListener(
+          "toggle",
+          () => {
+            if (shell.open) void initialiseRouteMap(element);
+          },
+          { once: true },
+        );
+      }
+    }
 
     for (const element of document.querySelectorAll<HTMLElement>(
       "[data-restaurant-map]",
@@ -1634,6 +1737,36 @@ const breadcrumbs = [
     border-radius: 50% 50% 50% 0;
     box-shadow: 0 0.2rem 0.65rem rgb(0 0 0 / 0.35);
     rotate: -45deg;
+  }
+
+  /* Route pins are round and carry their stop number, so the walking order
+     reads straight off the map. Teardrops would fight the numeral. */
+  .article__body :global(.route-map-marker-wrap) {
+    border: 0;
+    background: transparent;
+  }
+
+  .article__body :global(.route-map-marker) {
+    display: grid;
+    place-items: center;
+    width: 1.75rem;
+    height: 1.75rem;
+    border: 2px solid white;
+    border-radius: 50%;
+    background: #c2410c;
+    box-shadow: 0 0.2rem 0.65rem rgb(0 0 0 / 0.35);
+    color: white;
+    font-family: var(--display);
+    font-size: 0.85rem;
+    line-height: 1;
+  }
+
+  /* Alternatives that share a stop number - the three viewpoints - are hollow,
+     so it is obvious you pick one rather than walking all three. */
+  .article__body :global(.route-map-marker--alt) {
+    background: white;
+    border-color: #c2410c;
+    color: #c2410c;
   }
 
   .article__body :global(.restaurant-map-popup) {
