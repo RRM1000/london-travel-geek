@@ -24,7 +24,7 @@ faq:
   - q: "What is a chicken shop, and are the chains worth it?"
     a: "A chicken shop is the London high-street institution: fried chicken and chips, sold cheap, usually open late. Morley's is the one the serious sources actually name — it started in south London and now runs from Edmonton to Brick Lane, and its spicy wings cost under a pound each. That is a different proposition from the international chains, which appear in the videos and on none of the editorial lists."
   - q: "Is Chick'N'Sours still open?"
-    a: "It trades, but it no longer has a restaurant of its own, which most guides have not caught up with. You can eat it in at two long-term residencies — Corner Corner in Canada Water, which is closed Monday to Wednesday, and the Big Chill at King's Cross, which serves seven days. Everything else is delivery-only kitchens and festival pop-ups."
+    a: "Yes. The full menu runs seven days a week at the Big Chill at King's Cross. There is a second kitchen at Corner Corner in Canada Water, open Thursday to Sunday."
 ---
 
 Ask who fries the best chicken in London and you get two answers that do not overlap.
@@ -33,7 +33,7 @@ Britain's only judged fried chicken competition ran for the first time in Januar
 
 That disagreement is not a flaw in the evidence. It is the most interesting thing about the subject: the judges are scoring a plate, and the writers are recommending a trip.
 
-> 💡 **The Short Version:** **20Ft Fried Chicken** won the only judged championship. **Good Friend** in Chinatown is named by more sources than anything else. **Chick'N'Sours** and **Butchies** are the only two names in both camps — and Chick'N'Sours no longer has a restaurant. **Morley's** is the chicken shop the serious lists actually name. For Korean, go to **New Malden**.
+> 💡 **The Short Version:** **20Ft Fried Chicken** won the only judged championship. **Good Friend** in Chinatown is named by more sources than anything else. **Chick'N'Sours** and **Butchies** are the only two names in both camps — and Chick'N'Sours is at the Big Chill in King's Cross. **Morley's** is the chicken shop the serious lists actually name. For Korean, go to **New Malden**.
 
 > 📊 **The evidence behind this guide.**
 > Nothing here rests on one visit. This pass reads **14 independent sources carrying 130 citations** across **75 named venues**. **22 are named by two or more sources; six carry a dated award.**
@@ -51,7 +51,7 @@ That disagreement is not a flaw in the evidence. It is the most interesting thin
 | **King's Cross** | Chick'N'Sours (Big Chill) |
 | **Elephant & Castle** | CheeMc, La Barra |
 | **North London** | Chick King (Tottenham) |
-| **South London** | Morley's (everywhere), Maureen's (Brixton), Chick'N'Sours (Canada Water) |
+| **South London** | Morley's (everywhere), Maureen's (Brixton) |
 | **New Malden** | Chick and Beers, Tongdak, Imone |
 | **West & north-west** | Normah's (Queensway), The Best Broasted (Willesden) |
 
@@ -75,19 +75,17 @@ If you want to know what the judges rewarded rather than what the critics recomm
 
 *The national champion, served off a metal tray on a side street behind Oxford Street. No masthead in this pass names it.*
 
-### Chick'N'Sours — joint second, and no longer a restaurant
+### Chick'N'Sours — joint second, and it is at the Big Chill
 
-*£–££ · Canada Water and King's Cross · Joint second, Fried Chicken Championships 2026 · Cited by 7 sources*
+*£–££ · King's Cross · Joint second, Fried Chicken Championships 2026 · Cited by 7 sources*
 
 ![A spread of Chick'N'Sours dishes on a wooden board - a fried chicken sandwich, hot-sauced wings, seasoned fries, watermelon salad and dipping sauces](../../assets/articles/best-fried-chicken-london/chick-n-sours-spread.jpg)
 
-*The full spread. Since the restaurant closed you get this at a residency rather than a room of its own.*
+*The full spread, served seven days a week at the Big Chill.*
 
-**The most-recommended fried chicken in London that you cannot go to a restaurant for.** Seven independent sources name it and a national panel placed it joint second — but its own site is clear that the ten-year run as a full restaurant is over.
+**Go to the Big Chill at King's Cross.** Seven independent sources name Chick'N'Sours and a national panel placed it joint second, and the Big Chill is where you eat it — the full menu, seven days, across a three-floor bar with a roof terrace.
 
-What is left is worth knowing precisely, because every list still files it under an address it no longer occupies. **Corner Corner in Canada Water** is a long-term kitchen residency, eat-in, walk-ins welcome, cocktails on tap — and **closed Monday to Wednesday**, opening Thursday to Saturday noon to 10pm and Sunday noon to 8pm. **The Big Chill at King's Cross** runs the full menu seven days across a three-floor bar with a roof terrace. Everything else is delivery-only kitchens across north and west London, plus a summer festival circuit.
-
-> ⚠️ **Check which one you are going to.** Turning up at Canada Water on a Tuesday is the failure this entry exists to prevent.
+There is a second kitchen at Corner Corner in Canada Water, but it runs Thursday to Sunday only, so King's Cross is the one to aim for.
 
 ### Butchies — joint second, and the tenders beat the burger
 
