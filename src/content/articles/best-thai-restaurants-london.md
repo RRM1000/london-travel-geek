@@ -170,10 +170,6 @@ A **Bib Gourmand for 2026**, and it takes walk-ins, which most restaurants of th
 
 > Not everyone thinks the move worked. Some regulars of the Leytonstone room argue something was lost in translation to a bigger, smarter space. Most critics disagree. Go and take a side.
 
-![A shared table of Thai dishes — a red curry with pork, a green-tinged curry with aubergine and holy basil, stir-fried clams with chilli and peppers, and a bowl of jasmine rice](../../assets/articles/best-thai-restaurants-london/singburi.jpg)
-
-*Ordered as a table rather than as courses, which is how the cooking is built. The clams with chilli are the dish regulars go back for.*
-
 ### Flavour Hubb, Wimbledon
 
 *££ · inside Wimbledon Racquets and Fitness Club* · Cited by 2 sources
