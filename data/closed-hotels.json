@@ -16,7 +16,7 @@
         "address": "261-265 Gray's Inn Road, WC1X 8QT",
         "website": "https://www.clinkhostels.com/london/clink261/",
         "detail": "Pod beds with privacy screens. Mixed dorms sleeping 1-18, female-only dorms 4-10, twin and private rooms to 6. Self-catering kitchen, bar, cafe. Check-in 4pm, check-out 10am. Booking direct saves 15%.",
-        "sheetAction": "Consider adding as a new record - it is the open Clink in King's Cross and currently has no row."
+        "sheetAction": "DONE 2026-09-09 - added as slug `clink261`, replacing the clink78 row. The clink78 entry stays here so any cached page or old link still degrades safely."
       }
     },
     "yha-london-st-pancras": {

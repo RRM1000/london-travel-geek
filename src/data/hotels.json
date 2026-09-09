@@ -70,10 +70,10 @@
    "website": "https://www.astorhostels.com/hostels/victoria"
   },
   {
-   "slug": "clink78",
-   "name": "Clink78",
+   "slug": "clink261",
+   "name": "Clink 261",
    "propertyType": "hostel",
-   "style": "Hostel in a Victorian courthouse",
+   "style": "Hostel around the corner from the old Clink courthouse",
    "brand": "clink",
    "chainType": "mini-chain",
    "area": "King's Cross",
@@ -81,20 +81,12 @@
    "guide": "kings-cross-area-guide",
    "zone": "1",
    "district": "North",
-   "address": "78 King's Cross Road",
-   "postcode": "WC1X 9QG",
-   "lat": 51.528208,
-   "lng": -0.115326,
+   "address": "261-265 Gray's Inn Road",
+   "postcode": "WC1X 8QT",
    "priceBand": "£",
-   "typicalFrom": "About £25 a bed",
-   "breakfast": "extra",
-   "roomTypes": "Dorms 4-16, private rooms",
-   "accessibility": "limited",
-   "hasLift": "partial",
-   "airCon": "no",
-   "luggageStorage": "yes",
-   "whyGo": "A former magistrates' court where some rooms are the original cells and the bar is in the old courtrooms - the Clash were tried in this building in 1978.",
-   "opNote": "Ten minutes from King's Cross and St Pancras on foot. Private rooms exist and are worth it if dorms are not your thing.",
+   "roomTypes": "Mixed dorms 1-18, female-only dorms 4-10, twin and private rooms to 6",
+   "whyGo": "Pod beds with privacy screens rather than open bunks, ten minutes' walk from King's Cross St Pancras, with a self-catering kitchen, a bar and a cafe - the practical Clink rather than the one with the cells.",
+   "opNote": "Not to be confused with Clink78 around the corner, which closed for renovation and is not due back until 2027 - guides and booking sites still list it. Booking direct saves 15%. Check-in 4pm, check-out 10am, which is a tight turnaround if you arrive on an early train.",
    "goodFor": [
     "solo",
     "budget",
@@ -104,10 +96,7 @@
     "hostels",
     "budget"
    ],
-   "website": "https://www.clinkhostels.com/",
-   "hotelsUrl": "https://uk.hotels.com/ho461849/clink78-hostel-london-united-kingdom/",
-   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho461849/clink78-hostel-london-united-kingdom/",
-   "affiliateNetwork": "cj"
+   "website": "https://www.clinkhostels.com/london/clink261/"
   },
   {
    "slug": "generator-london",

@@ -975,23 +975,27 @@ const ROWS = [
   // deposit at a far better rate than any hotel percentage, so this tier is
   // also where the affiliate economics are best - see lib/affiliate.mjs.
   {
-    ...base, slug: "clink78", name: "Clink78",
-    propertyType: "hostel", style: "Hostel in a Victorian courthouse",
+    // SWAPPED FROM CLINK78, 2026-09-09. Clink78 is closed - it is in
+    // data/closed-hotels.json and the site has been refusing to link it since.
+    // Clink 261 is the same operator's other King's Cross hostel, around the
+    // corner on Gray's Inn Road and open: Clink's own page describes it as
+    // "around the corner from Clink 78. Same neighbourhood, different energy."
+    // A traveller on r/uktravel in August 2026 had stayed: five minutes from
+    // King's Cross St Pancras, "no complaints", breakfast buffet.
+    ...base, slug: "clink261", name: "Clink 261",
+    propertyType: "hostel", style: "Hostel around the corner from the old Clink courthouse",
     brand: "clink", chainType: "mini-chain",
     hood: "King's Cross", borough: "Camden", areaGuide: "kings-cross-area-guide",
-    address: "78 King's Cross Road",
-    priceBand: "£", typicalFrom: "About £25 a bed", breakfast: "extra",
-    roomTypes: "Dorms 4-16, private rooms", accessibility: "limited",
-    hasLift: "partial", airCon: "no", luggageStorage: "yes",
-    whyGo: "A former magistrates' court where some rooms are the original cells and the bar is in the old courtrooms - the Clash were tried in this building in 1978.",
-    angle: "room",
-    opSummary: "Ten minutes from King's Cross and St Pancras on foot. Private rooms exist and are worth it if dorms are not your thing.",
+    address: "261-265 Gray's Inn Road", postcode: "WC1X 8QT",
+    priceBand: "£", breakfast: "",
+    roomTypes: "Mixed dorms 1-18, female-only dorms 4-10, twin and private rooms to 6",
+    whyGo: "Pod beds with privacy screens rather than open bunks, ten minutes' walk from King's Cross St Pancras, with a self-catering kitchen, a bar and a cafe - the practical Clink rather than the one with the cells.",
+    angle: "value",
+    opSummary: "Not to be confused with Clink78 around the corner, which closed for renovation and is not due back until 2027 - guides and booking sites still list it. Booking direct saves 15%. Check-in 4pm, check-out 10am, which is a tight turnaround if you arrive on an early train.",
     goodFor: "solo, budget, groups",
-    website: "https://www.clinkhostels.com/",
-    hotelsUrl: "https://uk.hotels.com/ho461849/clink78-hostel-london-united-kingdom/",
-    signals: "NO independent editorial coverage found - only OTA and budget-travel listings. Kept because hostels were explicitly requested and this is a named, verifiable, well-reviewed property (former courthouse; the Clash were tried here in 1978).",
+    website: "https://www.clinkhostels.com/london/clink261/",
     lists: "hostels, budget",
-    source: "Consensus pass 2026-08-20.",
+    source: "Community pass 2026-09-09: r/uktravel, first-hand account. Address and room types from Clink's own page. Replaces the closed Clink78 row.",
   },
   {
     ...base, slug: "wombats-city-hostel-london", name: "Wombat's City Hostel London",
