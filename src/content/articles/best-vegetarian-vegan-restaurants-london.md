@@ -313,6 +313,10 @@ Purezza makes its own **cashew and rice-milk mozzarella** in-house rather than b
 
 **££, walk-in with bookings taken.** Camden is the London site; the company started in Brighton. Busiest at weekends.
 
+![Three vegan pizzas seen from above on Purezza-branded paper, with a board of vegan cheeses and dips and a rosemary focaccia stick between them](../../assets/articles/best-vegetarian-vegan-restaurants-london/purezza.jpg)
+
+*The cheese is the whole problem and Purezza makes its own, which is why these melt and blister instead of sitting there. The board at the top is the same cheese sold as a cheeseboard.*
+
 ---
 
 ## Modern plant-based
@@ -370,6 +374,10 @@ Plant-based cooking that also drops refined sugar, gluten and additives, which s
 The most designed room on this page, and priced for Notting Hill — small plates £13–15, larger ones £22–26.
 
 One thing to know: the **Spitalfields site is vegetarian rather than vegan** and serves eggs and dairy. Portobello Road is the fully vegan one.
+
+![Charred squares of grilled focaccia on a white plate beside a bowl of whipped dip topped with green oil, crisp chickpeas and golden raisins](../../assets/articles/best-vegetarian-vegan-restaurants-london/holy-carrot.jpg)
+
+*No refined sugar, no gluten-heavy stodge, no additives — and it still arrives looking like this. The Portobello Road room is the fully vegan one.*
 
 ### Unity Diner, Shoreditch
 
