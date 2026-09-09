@@ -6,6 +6,12 @@ interface Station {
   lines: string[];
 }
 
+interface WalkingRoute {
+  slug: string;
+  label: string;
+  detail: string;
+}
+
 interface Props {
   zone: string;
   vibe: string;
@@ -15,6 +21,7 @@ interface Props {
   bestDay: string;
   bestFor: string[];
   nearestStations: Station[];
+  walkingRoute?: WalkingRoute;
 }
 
 const {
@@ -26,6 +33,7 @@ const {
   bestDay,
   bestFor,
   nearestStations,
+  walkingRoute,
 } = Astro.props;
 
 const walkabilityLabel = `${walkability} out of 5`;
@@ -113,6 +121,14 @@ const walkabilityLabel = `${walkability} out of 5`;
       </ul>
     </div>
   </div>
+
+  {walkingRoute && (
+    <a class="at-a-glance__route" href={`/articles/${walkingRoute.slug}/`}>
+      <span class="at-a-glance__route-label">Walking route</span>
+      <span class="at-a-glance__route-name">{walkingRoute.label}</span>
+      <span class="at-a-glance__route-detail">{walkingRoute.detail}</span>
+    </a>
+  )}
 </section>
 
 <style>
@@ -338,7 +354,55 @@ const walkabilityLabel = `${walkability} out of 5`;
     font-size: 0.78rem;
   }
 
+  /* A full-width band across the bottom of the card. Accent-tinted so it
+     reads as the one actionable thing in a panel of facts. */
+  .at-a-glance .at-a-glance__route {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 0.75rem;
+    align-items: baseline;
+    padding: 0.95rem var(--space-4);
+    border-top: 1px solid var(--line);
+    background: color-mix(in srgb, var(--accent) 9%, var(--surface));
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .at-a-glance .at-a-glance__route:hover .at-a-glance__route-name,
+  .at-a-glance .at-a-glance__route:focus-visible .at-a-glance__route-name {
+    text-decoration: underline;
+  }
+
+  .at-a-glance .at-a-glance__route-label {
+    color: var(--muted);
+    font-size: 0.7rem;
+    font-variation-settings: "wght" 650;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .at-a-glance .at-a-glance__route-name {
+    font-family: var(--display);
+    font-variation-settings: "opsz" 30, "wght" 600;
+    font-size: 1.08rem;
+  }
+
+  /* The arrow belongs to the link, not the label. */
+  .at-a-glance .at-a-glance__route-name::after {
+    content: " →";
+  }
+
+  .at-a-glance .at-a-glance__route-detail {
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+
   @media (max-width: 48rem) {
+    .at-a-glance .at-a-glance__route {
+      flex-direction: column;
+      gap: 0.2rem;
+    }
+
     .at-a-glance .at-a-glance__grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }

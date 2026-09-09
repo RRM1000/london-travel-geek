@@ -31,6 +31,19 @@ const articles = defineCollection({
           budget: z.enum(["£", "££", "£££"]),
           bestDay: z.string(),
           bestFor: z.array(z.string()).min(1),
+          // A dedicated walking-route guide for this area, surfaced in the
+          // At a glance card at the top of the page rather than only in the
+          // body. Optional: most areas do not have one yet.
+          walkingRoute: z
+            .object({
+              slug: z.string(),
+              // Shown as the link text, so it is the route rather than the
+              // article title - "Bank to Tower Bridge", not the full headline.
+              label: z.string(),
+              // One clause on length or shape, e.g. "11 stops · 3km · 2-3 hrs".
+              detail: z.string(),
+            })
+            .optional(),
           nearestStations: z
             .array(
               z.object({

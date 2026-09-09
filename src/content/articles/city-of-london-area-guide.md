@@ -22,6 +22,10 @@ area:
   timeNeeded: "A full day with the Tower and St Paul's"
   budget: "££"
   bestDay: "Weekdays for atmosphere and open pubs; weekends for empty streets"
+  walkingRoute:
+    slug: "city-of-london-walk"
+    label: "Bank to Tower Bridge"
+    detail: "11 stops · 3km · 2–3 hours"
   bestFor:
     - History and architecture
     - Free skyline views
@@ -181,7 +185,6 @@ The north-west edge, and the most atmospheric corner of the City. **Smithfield**
 
 ## Go deeper
 
-- **[A walk around the City: Bank to Tower Bridge](/articles/city-of-london-walk/)** — the route below, expanded into eleven numbered stops with a map, including the bombed church that became a garden and which of the three free viewpoints needs no booking.
 - **[The best views in London](/articles/best-views-london/)** — Horizon 22, the Lookout and Sky Garden are all in the Square Mile, all free, and all need booking on different timetables.
 
 ## Where to eat and drink
@@ -215,7 +218,13 @@ The north-west edge, and the most atmospheric corner of the City. **Smithfield**
 
 **Book ahead:** Tower of London, Horizon 22, Sky Garden and the Temple of Mithras all need booking, and the free ones go fastest.
 
-## Suggested three-hour walking route
+## Walking routes
+
+**[A Walk Around the City of London: Bank to Tower Bridge →](/articles/city-of-london-walk/)**
+
+Our full route for this area: **eleven numbered stops** over about 3km and two to three hours, with a map, a Google Maps walking link for your phone, and a day-by-day breakdown of what is actually open. It starts at the Bank junction rather than St Paul's, goes inside the Royal Exchange, and takes in **St Dunstan-in-the-East** — the church bombed in 1941 and left as a ruin with a garden planted inside it, which is the best free thing in the Square Mile.
+
+### The short version, if you only have three hours
 
 1. **Start:** St Paul's station. **St Paul's Cathedral** and Paternoster Square.
 2. **One New Change:** The free roof terrace for the close view of the dome.
@@ -223,8 +232,6 @@ The north-west edge, and the most atmospheric corner of the City. **Smithfield**
 4. **Leadenhall Market:** South-east under the painted arcade.
 5. **Tower Hill:** Down to the **Roman wall** and the **Tower of London**.
 6. **Finish:** **Tower Bridge**, or north to Shoreditch for the evening.
-
-For the longer version of this — eleven numbered stops from Bank rather than St Paul's, with a map, the ruined church at St Dunstan-in-the-East and a day-by-day breakdown of what is open — see [the full City walking route](/articles/city-of-london-walk/).
 
 ## Common mistakes to avoid
 

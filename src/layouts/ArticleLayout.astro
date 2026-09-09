@@ -44,6 +44,7 @@ interface AreaMeta {
   bestDay: string;
   bestFor: string[];
   nearestStations: { name: string; lines: string[] }[];
+  walkingRoute?: { slug: string; label: string; detail: string };
   nearby: { name: string; slug?: string; minutes: number; note: string }[];
 }
 
@@ -300,6 +301,7 @@ const breadcrumbs = [
             bestDay={area.bestDay}
             bestFor={area.bestFor}
             nearestStations={area.nearestStations}
+            walkingRoute={area.walkingRoute}
           />
         )}
         {/* BEFORE the body, not after it, and this is the only component that

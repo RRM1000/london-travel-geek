@@ -22,6 +22,10 @@ area:
   timeNeeded: "Half a day, or a full day on a Saturday"
   budget: "££"
   bestDay: "Saturday for the full market; Friday for antiques without the crush"
+  walkingRoute:
+    slug: "notting-hill-colourful-houses"
+    label: "The eleven colourful streets"
+    detail: "11 streets · 3.5km · about 2 hours"
   bestFor:
     - Markets and antiques
     - Photography
@@ -201,9 +205,15 @@ Two short residential streets that appear constantly on social media — **St Lu
 
 **Avoid:** Sunday, when the market does not run and much of the road is shut. Also the August bank holiday weekend unless you are specifically coming for Carnival.
 
-## Suggested two-hour walking route
+## Walking routes
 
-1. **Start:** Ladbroke Grove station. Walk south to **Lancaster Road** for the pastel terraces in morning light. *(If the houses matter more to you than the market, take the [colourful houses route](/articles/notting-hill-colourful-houses/) instead — it starts at the other end and covers eleven streets.)*
+**[Notting Hill's Colourful Houses: the eleven streets that actually have them →](/articles/notting-hill-colourful-houses/)**
+
+Our full route for this area: **eleven numbered streets** from Notting Hill Gate to Ladbroke Grove, about 3.5km and two hours at a photographing pace, with a Google Maps walking link for your phone. It exists because the pastel terraces are **not on Portobello Road**, which is where almost everyone goes to look for them. It also covers where the cherry blossom is, if you are here in spring.
+
+### The short version, if you want the market too
+
+1. **Start:** Ladbroke Grove station. Walk south to **Lancaster Road** for the pastel terraces in morning light.
 2. **Portobello Road north:** Turn onto Portobello and walk under the **Westway** through the vintage stalls.
 3. **Golborne Road detour** *(add 20 minutes)*: North for a pastel de nata at Lisboa before doubling back.
 4. **The arcades:** South past Blenheim Crescent — stop at the **Notting Hill Bookshop** — and into **Admiral Vernon** arcade.
