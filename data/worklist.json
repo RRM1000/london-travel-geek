@@ -118,6 +118,12 @@
       "date": "2026-09-08",
       "decision": "data/closed-hotels.json is the stop for a closed or renamed property. remark-hotel-links.mjs degrades a closed slug to plain text and warns; AreaHotels.astro keeps the card but swaps the booking link for the closure note.",
       "why": "hotels.json is generated from the sheet and carries no status field, so nothing could stop the site selling a hotel that had shut. Clink 78 closed until 2027 and kings-cross-area-guide went on rendering a paid Check prices link to it. Keeping the card and saying it is closed beats deleting it - a reader who has heard of the place gets an answer."
+    },
+    {
+      "id": "sheet-is-not-the-market",
+      "date": "2026-09-09",
+      "decision": "src/data/hotels.json is a curated shortlist of what we can recommend and link - about 125 rows, 63 linkable - not an inventory of London hotels. Never make an absence claim about an area from it, never print a count of our rows as a count of the area's hotels, and name properties with no row in prose without a hotel: link where they belong. Every agent brief for a hotel or where-to-stay guide must carry this.",
+      "why": "Rob, 2026-09-09. The Soho and Covent Garden guides both claimed an area sold nothing between two price points; Soho's rested on seven of our own rows and Covent Garden's on six, and neither was a survey. The claim was also wrong inside our own data - the one property genuinely rate-sampled reached £466 and £901 on the same dates the gap was said to start at £287. Prices are typicalFrom estimates unless the slug is in src/data/hotel-rate-ranges.json, which covers only eight properties."
     }
   ]
 }
