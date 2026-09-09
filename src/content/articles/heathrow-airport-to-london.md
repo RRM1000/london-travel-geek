@@ -1,7 +1,7 @@
 ---
 title: "Heathrow Airport to London: Every Transport Option Compared"
-seoTitle: "Heathrow Airport to London: Transport Guide"
-description: "Compare the Elizabeth line, Tube, Heathrow Express, coaches and taxis from Heathrow, with 2026 fares, terminals and routes for key London areas."
+seoTitle: "Heathrow to London: Tube from £4 or Elizabeth Line £15.50"
+description: "The Piccadilly line is the cheapest way in at £4–£5.90 and runs straight to South Kensington, the West End and King's Cross. The Elizabeth line costs £15.50 and is faster. Heathrow Express only reaches Paddington."
 publishedAt: 2026-07-28
 updatedAt: 2026-09-02
 sites:

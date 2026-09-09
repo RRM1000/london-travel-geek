@@ -1,7 +1,7 @@
 ---
 title: "How to Use London Buses and Trams: A Visitor's Guide"
-seoTitle: "How to Use London Buses and Trams"
-description: "How to plan, pay for and ride London buses and trams, including live arrivals, useful sightseeing routes, traffic disruption and the summer Weekend Hopper."
+seoTitle: "London Buses and Trams: the £1.75 Flat Fare Explained"
+description: "Every London bus and tram journey costs £1.75 however far you go, and the Hopper gives you unlimited transfers for 60 minutes on that one fare. How to pay, how to plan, and the routes worth riding for the view."
 publishedAt: 2026-07-28
 updatedAt: 2026-08-02
 sites:

@@ -1,7 +1,7 @@
 ---
 title: "Southend Airport to London: Every Transport Option Compared"
-seoTitle: "Southend Airport to London: Transport Guide"
-description: "A practical guide to Greater Anglia trains, contactless payment, buses and taxis from Southend Airport, with 2026 fares and hotel-area recommendations."
+seoTitle: "Southend Airport to London: Liverpool St in 52 Minutes"
+description: "Greater Anglia runs every 20 minutes to Stratford in 46 minutes and Liverpool Street in 52–55, and takes contactless. The fares, the buses, what a taxi costs, and which part of London each route suits."
 publishedAt: 2026-07-28
 updatedAt: 2026-08-02
 sites:
