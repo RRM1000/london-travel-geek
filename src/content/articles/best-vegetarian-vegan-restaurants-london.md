@@ -283,6 +283,10 @@ The signature is **crispy sweet and sour seaweed toast**, and the rest of the me
 
 **££ and it books ahead.** Islington. The one to bring someone who assumes plant-based Caribbean means a compromised curry.
 
+![A curry with carrot in a black bowl beside rice and peas topped with a wedge of fried plantain and steamed cabbage, on a white plate](../../assets/articles/best-vegetarian-vegan-restaurants-london/jam-delish.jpg)
+
+*Curry, rice and peas, plantain and cabbage. Nothing here is standing in for meat — the curries are built on jackfruit and pulses, and the seasoning is not moderated to suit anybody.*
+
 ### Itadaki Zen, King's Cross — Japanese
 
 *££ · 139 King's Cross Road · entirely vegan* · Cited by 2 sources
