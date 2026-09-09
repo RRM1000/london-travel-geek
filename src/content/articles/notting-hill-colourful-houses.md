@@ -33,6 +33,8 @@ It is deliberately only about the houses. For the market, the antique arcades, G
 
 > 💡 **The Short Version:** Start at **Hillgate Place** — four minutes from Notting Hill Gate and the prettiest of the lot, with a fraction of the crowd. **Lancaster Road** has the strongest colours and the most photographers. **Lansdowne Road** and **Elgin Crescent** are the grand pale stucco version. And **Portobello Road** itself is shopfronts, not houses — which is why so many people leave disappointed. Go there for [the market](/articles/best-london-markets/), not the colour.
 
+**[Open the walking route in Google Maps →](https://www.google.com/maps/dir/?api=1&origin=51.507849,-0.197386&destination=51.518114,-0.201957&waypoints=51.508330,-0.196849%7C51.507978,-0.197469%7C51.508261,-0.196213%7C51.506982,-0.207985%7C51.512531,-0.208447%7C51.514703,-0.206171%7C51.512318,-0.204402%7C51.513229,-0.201630%7C51.518025,-0.204169&travelmode=walking)** — all eleven streets in the order below, set to walking directions. Notting Hill Gate is two minutes from the first stop and Ladbroke Grove two minutes from the last.
+
 ## Start with the four streets nobody visits
 
 ![A terrace of small houses on Farmer Street painted blue, pink and cream, with a classic car parked outside](../../assets/articles/notting-hill-colourful-houses/farmer-street-terrace.jpg)
