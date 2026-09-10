@@ -99,7 +99,15 @@ Tied with Chick'N'Sours on points, and the only one of the top three you can wal
 
 They arrive with house BBQ sauce as standard. Order extra dips; skip the blue cheese, which Time Out describes as watery.
 
-**Fortune Fried Chicken** took third with Nam Jim chicken tenders. It is a sister brand to Gunpowder, and like the champion, it appears on no editorial list here.
+### Fortune Fried Chicken — third place, in a market stall
+
+*£ · Unit SP4C, Old Spitalfields Market, 12 Horner Square, E1 6EW · Third, Fried Chicken Championships 2026*
+
+**Third in the championship, and it is a counter in Old Spitalfields Market rather than a restaurant.** The judged dish was the **Nam Jim chicken tenders** — Thai, sharp and hot rather than American and sweet, which is why it stood out to a panel that had eaten a great deal of buttermilk that day.
+
+It is run by the people behind **Gunpowder**, the Indian restaurant group, and trades as Gunpowder Mayfair Ltd. Like the champion, it appears on no editorial list in this pass — the judges found it and the writers have not.
+
+Order ahead for collection on its own site, or just walk up. It sits inside the market, so **the market's hours are its hours** — and if you are going, our [Shoreditch and Spitalfields walk](/articles/shoreditch-spitalfields-walk/) passes the door.
 
 ---
 
@@ -147,7 +155,13 @@ A rain-or-shine Tottenham takeaway that four sources treat as a destination rath
 
 An Elephant and Castle railway arch, good for groups, and cheap. **Plan nothing for afterwards.**
 
-**Coqfighter** is also named by four sources and is the third of this group.
+### Coqfighter — four sites, and it takes bookings
+
+*£–££ · Liverpool Street, Soho, King's Cross and Finsbury Park · Cited by 4 sources*
+
+Four independent sources name it — the Evening Standard, SquareMeal, Secret London and Hungry Soles — which puts it level with Chick King and La Barra.
+
+**It is the most convenient thing on this list.** Four London sites, all of them by a mainline or Tube station, open **noon to 10pm Monday to Saturday and noon to 9pm on Sunday**, and it takes bookings — which almost nothing else here does. If you are feeding a group or want to sit down without queueing, this is the answer the rest of the guide cannot give you.
 
 ### Smoking Goat — the wings that are not really fried chicken
 
@@ -207,6 +221,6 @@ The word covers at least six different things in London, and a reader who wants 
 
 **One venue in the sources has closed.** Sichuan Fry in Hackney, named by two sources, is recorded as permanently closed by The Infatuation's own listing. **Kaieteur Kitchen** in Elephant and Castle is listed as temporarily closed — check before travelling.
 
-**Two names are missing from the editorial lists entirely.** The champion, 20Ft, and the third-placed Fortune Fried Chicken are named by the championship and by nothing else in this pass. That is recorded as it stands rather than smoothed over: the judges and the writers are not looking at the same city.
+**The champion and the third place are on no editorial list.** 20Ft and Fortune Fried Chicken are named by the championship and by nothing else in this pass — recorded as it stands rather than smoothed over, because the judges and the writers are plainly not looking at the same city.
 
 *Evidence built 7 September 2026 from fourteen independent sources. Award results are from the Fried Chicken Championships' own published 2026 results. Opening days for Chick'N'Sours are from its own site the same day; chicken shops change hours often, so check before a long journey.*
